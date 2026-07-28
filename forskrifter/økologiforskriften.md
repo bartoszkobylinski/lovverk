@@ -10,13 +10,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-06-25"
-last_change_in_force: "2026-07-13"
+last_change_in_force: "2026-07-23"
 last_updated: null
-xml_hash: "52646624966a4008f81342f51b954b5871ea616f2dd625dfe736d4bdb3c11270"
+xml_hash: "bf3d09b76b8fa8a4b6404d42b940f5094d513f227d8a420bc7640ab0bc84c1a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-24T06:23:42.727491+00:00"
+retrieved_at: "2026-07-28T06:24:19.283231+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,12 +76,12 @@ Ved konflikt mellom denne forskriften og forordningene angitt i [§ 2](forskrift
 1. (forordning [(EU) 2021/2306](eu/32021r2306), som er endret ved forordning [(EU) 2022/760](eu/32022r0760), forordning [(EU) 2022/2238](eu/32022r2238) og forordning [(EU) 2024/2975](eu/32024r2975)) om kontroll og utstedelse av sertifikat for økologiske varepartier i tredjeland,
 2. (forordning [(EU) 2021/1342](eu/32021r1342), som er endret ved forordning [(EU) 2024/230](eu/32024r0230)) rapportering fra godkjente tredjeland og kontrollmyndigheter i tredjeland,
 3. (forordning [(EU) 2021/1378](eu/32021r1378), som er endret ved forordning [(EU) 2021/2119](eu/32021r2119), forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2024/1748](eu/32024r1748), forordning [(EU) 2024/2140](eu/32024r2140), forordning [(EU) 2024/2794](eu/32024r2794), forordning [(EU) 2024/3121](eu/32024r3121), forordning [(EU) 2025/882](eu/32025r0882) og forordning [(EU) 2025/2138](eu/32025r2138)) om utstedelse av sertifikater og om lister over godkjente kontrollmyndigheter som kan utstede sertifikater i tredjeland,
-4. (forordning [(EU) 2021/1698](eu/32021r1698), som er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975) og forordning [(EU) 2024/3095](eu/32024r3095)) om godkjenning av kontrollmyndigheter og regler for tilsyn i tredjeland,
+4. (forordning [(EU) 2021/1698](eu/32021r1698), som er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975), forordning [(EU) 2024/3095](eu/32024r3095) og forordning [(EU) 2025/2651](eu/32025r2651)) om godkjenning av kontrollmyndigheter og regler for tilsyn i tredjeland,
 5. (forordning [(EU) 2021/2307](eu/32021r2307), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om importkontroll med økologiske varepartier,
 6. (forordning [(EU) 2021/2325](eu/32021r2325), som er endret ved forordning [(EU) 2022/2047](eu/32022r2047), forordning [(EU) 2022/2049](eu/32022r2049), forordning [(EU) 2022/2468](eu/32022r2468), forordning [(EU) 2023/186](eu/32023r0186), forordning [(EU) 2023/1202](eu/32023r1202), forordning [(EU) 2023/2785](eu/32023r2785) og forordning [(EU) 2025/883](eu/32025r0883)) om lister over godkjente tredjeland og kontrollmyndigheter,
 7. (forordning [(EU) 2022/1450](eu/32022r1450)), om bruk av ikke-økologiske protein fôrmidler til produksjon av økologiske husdyr i forbindelse med Russlands invasjon av Ukraina.
 
-> Endret ved forskrifter [11 juli 2022 nr. 1336](forskrift/2022-07-11-1336), [26 sep 2022 nr. 1654](forskrift/2022-09-26-1654), [12 des 2022 nr. 2157](forskrift/2022-12-12-2157), [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [30 okt 2023 nr. 1742](forskrift/2023-10-30-1742), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [18 mars 2024 nr. 474](forskrift/2024-03-18-474), [8 juli 2024 nr. 1647](forskrift/2024-07-08-1647), [9 des 2024 nr. 2996](forskrift/2024-12-09-2996), [12 feb 2025 nr. 212](forskrift/2025-02-12-212), [17 mars 2025 nr. 473](forskrift/2025-03-17-473), [22 sep 2025 nr. 1943](forskrift/2025-09-22-1943), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [4 mai 2026 nr. 714](forskrift/2026-05-04-714).
+> Endret ved forskrifter [11 juli 2022 nr. 1336](forskrift/2022-07-11-1336), [26 sep 2022 nr. 1654](forskrift/2022-09-26-1654), [12 des 2022 nr. 2157](forskrift/2022-12-12-2157), [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [30 okt 2023 nr. 1742](forskrift/2023-10-30-1742), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [18 mars 2024 nr. 474](forskrift/2024-03-18-474), [8 juli 2024 nr. 1647](forskrift/2024-07-08-1647), [9 des 2024 nr. 2996](forskrift/2024-12-09-2996), [12 feb 2025 nr. 212](forskrift/2025-02-12-212), [17 mars 2025 nr. 473](forskrift/2025-03-17-473), [22 sep 2025 nr. 1943](forskrift/2025-09-22-1943), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [4 mai 2026 nr. 714](forskrift/2026-05-04-714), [23 juli 2026 nr. 1581](forskrift/2026-07-23-1581).
 
 ## § 5. Deltakelse i registrerings- og kontrollordningen for økologisk produksjon
 
@@ -556,9 +556,9 @@ Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninge
 
 ### Forordninger gjennomført i forskriftens § 4
 
-> Endret ved forskrifter [11 juli 2022 nr. 1336](forskrift/2022-07-11-1336), [26 sep 2022 nr. 1654](forskrift/2022-09-26-1654), [12 des 2022 nr. 2157](forskrift/2022-12-12-2157), [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [30 okt 2023 nr. 1742](forskrift/2023-10-30-1742), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [18 mars 2024 nr. 474](forskrift/2024-03-18-474), [8 juli 2024 nr. 1647](forskrift/2024-07-08-1647), [9 des 2024 nr. 2996](forskrift/2024-12-09-2996), [12 feb 2025 nr. 212](forskrift/2025-02-12-212), [17 mars 2025 nr. 473](forskrift/2025-03-17-473), [22 sep 2025 nr. 1943](forskrift/2025-09-22-1943), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [4 mai 2026 nr. 714](forskrift/2026-05-04-714).
+> Endret ved forskrifter [11 juli 2022 nr. 1336](forskrift/2022-07-11-1336), [26 sep 2022 nr. 1654](forskrift/2022-09-26-1654), [12 des 2022 nr. 2157](forskrift/2022-12-12-2157), [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [30 okt 2023 nr. 1742](forskrift/2023-10-30-1742), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [18 mars 2024 nr. 474](forskrift/2024-03-18-474), [8 juli 2024 nr. 1647](forskrift/2024-07-08-1647), [9 des 2024 nr. 2996](forskrift/2024-12-09-2996), [12 feb 2025 nr. 212](forskrift/2025-02-12-212), [17 mars 2025 nr. 473](forskrift/2025-03-17-473), [22 sep 2025 nr. 1943](forskrift/2025-09-22-1943), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [4 mai 2026 nr. 714](forskrift/2026-05-04-714), [23 juli 2026 nr. 1581](forskrift/2026-07-23-1581).
 
-Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om import av økologiske produkter fra tredjeland. Dette omfatter følgende forordninger som gir utfyllende regler til grunnrettsakten: Forordning [(EU) 2021/2306](eu/32021r2306) som er endret ved forordning [(EU) 2022/760](eu/32022r0760), forordning [(EU) 2022/2238](eu/32022r2238) og forordning [(EU) 2024/2975](eu/32024r2975), forordning [(EU) 2021/1342](eu/32021r1342) som er endret ved forordning [(EU) 2024/230](eu/32024r0230), forordning [(EU) 2021/1378](eu/32021r1378) som er endret ved forordning [(EU) 2021/2119](eu/32021r2119) forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2024/1748](eu/32024r1748), forordning [(EU) 2024/2140](eu/32024r2140), forordning [(EU) 2024/2794](eu/32024r2794) forordning [(EU) 2024/3121](eu/32024r3121) og forordning [(EU) 2025/2138](eu/32025r2138), forordning [(EU) 2021/1698](eu/32021r1698) som er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975) og forordning [(EU) 2024/3095](eu/32024r3095), forordning [(EU) 2021/2307](eu/32021r2307) som er endret ved forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2021/2325](eu/32021r2325) som er endret ved forordning [(EU) 2022/2047](eu/32022r2047) forordning [(EU) 2022/2049](eu/32022r2049) forordning [(EU) 2022/2468](eu/32022r2468) forordning [(EU) 2023/186](eu/32023r0186) forordning [(EU) 2023/1202](eu/32023r1202) og forordning [(EU) 2023/2785](eu/32023r2785), og forordning [(EU) 2022/1450](eu/32022r1450). Alle endringer i rettsaktene, samt de endringer og tillegg som følger av EØS-tilpasninger i samsvar med [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII), er innarbeidet
+Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om import av økologiske produkter fra tredjeland. Dette omfatter følgende forordninger som gir utfyllende regler til grunnrettsakten: Forordning [(EU) 2021/2306](eu/32021r2306) som er endret ved forordning [(EU) 2022/760](eu/32022r0760), forordning [(EU) 2022/2238](eu/32022r2238) og forordning [(EU) 2024/2975](eu/32024r2975), forordning [(EU) 2021/1342](eu/32021r1342) som er endret ved forordning [(EU) 2024/230](eu/32024r0230), forordning [(EU) 2021/1378](eu/32021r1378) som er endret ved forordning [(EU) 2021/2119](eu/32021r2119) forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2024/1748](eu/32024r1748), forordning [(EU) 2024/2140](eu/32024r2140), forordning [(EU) 2024/2794](eu/32024r2794) forordning [(EU) 2024/3121](eu/32024r3121) og forordning [(EU) 2025/2138](eu/32025r2138), forordning [(EU) 2021/1698](eu/32021r1698) som er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975), forordning [(EU) 2024/3095](eu/32024r3095) og forordning [(EU) 2025/2651](eu/32025r2651), forordning [(EU) 2021/2307](eu/32021r2307) som er endret ved forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2021/2325](eu/32021r2325) som er endret ved forordning [(EU) 2022/2047](eu/32022r2047) forordning [(EU) 2022/2049](eu/32022r2049) forordning [(EU) 2022/2468](eu/32022r2468) forordning [(EU) 2023/186](eu/32023r0186) forordning [(EU) 2023/1202](eu/32023r1202) og forordning [(EU) 2023/2785](eu/32023r2785), og forordning [(EU) 2022/1450](eu/32022r1450). Alle endringer i rettsaktene, samt de endringer og tillegg som følger av EØS-tilpasninger i samsvar med [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII), er innarbeidet.
 
 ### Konsolidert forordning (EU) 2021/2306
 
@@ -604,18 +604,19 @@ som er endret ved
 
 [pdf-fil](static/SF/32021r1378k-08.pdf)
 
-### Konsolidert forordning [(EU) 2021/1698](eu/32021r1698)
+### Konsolidert forordning (EU) 2021/1698
 
-Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1608](eu/32021b1608). Den er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975) og forordning [(EU) 2024/3095](eu/32024r3095). Alle endringer av rettsakten er innarbeidet.
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1698](eu/32021r1698). Den er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975), forordning [(EU) 2024/3095](eu/32024r3095) og forordning [(EU) 2025/2651](eu/32025r2651). Alle endringer av rettsakten er innarbeidet.
 
 ►**B** Forordning [(EU) 2021/1698](eu/32021r1698) av 13. juli 2021
 som er endret ved
 
 - ►**M1** Forordning [(EU) 2023/1686](eu/32023r1686) av 30. juni 2023
-- ►**M2** Forordning [(EU) 2024/2975](eu/32024r2975) av 25.september 2024
+- ►**M2** Forordning [(EU) 2024/2975](eu/32024r2975) av 25. september 2024
 - ►**M3** Forordning [(EU) 2024/3095](eu/32024r3095) av 29. juli 2024
+- ►**M4** Forordning [(EU) 2025/2651](eu/32025r2651) av 16. oktober 2025
 
-[pdf-fil](static/SF/32021r1698k-03.pdf)
+[pdf-fil](static/SF/32021r1698k-04.pdf)
 
 ### Konsolidert forordning (EU) 2021/2307
 
