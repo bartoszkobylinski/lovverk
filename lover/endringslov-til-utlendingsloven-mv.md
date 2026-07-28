@@ -15,7 +15,7 @@ xml_hash: "48471f2ab15d41df2ed5eba20cd986d23b9b7757a4b71e50cc2b7d911672b1c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,7 @@ I [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og 
 
 ## III
 
-1. Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Opphevingen av [utlendingsloven §§ 27 b](lov/2008-05-15-35/§27b) og [85 a](lov/2008-05-15-35/§85a) under del I gjelder fra 15. mars 2027.
 3. Endringen i [utlendingsloven § 62 tredje ledd](lov/2008-05-15-35/§62/ledd/3) under del I gjelder for søknader om permanent oppholdstillatelse som fremmes etter at loven her begynner å gjelde.
 

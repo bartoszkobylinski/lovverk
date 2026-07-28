@@ -15,7 +15,7 @@ xml_hash: "9a4ed7466a2636b7a779b87054a2f541096d5e9156592c5af6a5f32cd049b4f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,7 +196,7 @@ Departementet kan gi forskrift om etablering av en klagenemnd for behandling av 
 
 ### § 23. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer[^1]. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 jan 2022 iflg. [res. 3 sep 2021 nr. 2653](forskrift/2021-09-03-2653).
 

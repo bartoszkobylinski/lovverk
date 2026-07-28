@@ -15,7 +15,7 @@ xml_hash: "274c464ed90103fb2ae55ab51b262845945bf3337658392fc141e7497be3ae2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ eu_basis: []
 4. Fylkesnemnda i Oslo og Viken vil beramme saker i Oslo, Drammen og Moss.
 5. Fylkesnemnda for barnevern og sosiale saker i Oppland og Hedmark endrer navn til Fylkesnemnda for barnevern og sosiale saker i Innlandet.
 6. Fylkesnemnda for barnevern og sosiale saker i Hordaland og Sogn og Fjordane endrer navn til Fylkesnemnda for barnevern og sosiale saker i Vestland.
-7. Endringene trer i kraft fra 1. januar 2020. Fra samme tid oppheves kongelig resolusjon 17. juli 19921 om felles fylkesnemnd.
+7. Endringene trer i kraft fra 1. januar 2020. Fra samme tid oppheves kongelig resolusjon 17. juli 1992[^1] om felles fylkesnemnd.
 
 Fra 1. januar 2020 består fylkesnemndsstrukturen av følgende 10 fylkesnemnder:
 

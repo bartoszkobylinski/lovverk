@@ -15,7 +15,7 @@ xml_hash: "6c55078654a78d284212fa7dac8ffc9961a8ad950ef80dda3f755e38e0a4ffcb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32003R1435"
@@ -57,7 +57,7 @@ Foretaksregisteret er kompetent myndighet til å utstede attesten som nevnt i SC
 
 ## § 6. Stiftelse ved omdanning
 
-Ved offentliggjøring av omdanningsplanen etter SCE-forordningen artikkel 35 nr. 4 gjelder reglene i [samvirkeloven § 151](lov/2007-06-29-81/§151)1 tilsvarende så langt de passer.
+Ved offentliggjøring av omdanningsplanen etter SCE-forordningen artikkel 35 nr. 4 gjelder reglene i [samvirkeloven § 151](lov/2007-06-29-81/§151)[^1] tilsvarende så langt de passer.
 
 Bekreftelse som nevnt i SCE-forordningen artikkel 35 nr. 5 skal gis av en statsautorisert eller registrert revisor.
 
@@ -132,13 +132,13 @@ Foretaksregisteret skal foreta slike underretninger som er nevnt i SCE-forordnin
 
 ## § 13. Ikraftsetting
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 18 aug 2006 iflg. [res. 30 juni 2006 nr. 778](forskrift/2006-06-30-778).
 
 ## § 14. Endringer i andre lover
 
-Fra den tid loven trer i kraft1 gjøres følgende endringer i andre lover: – – –
+Fra den tid loven trer i kraft[^1] gjøres følgende endringer i andre lover: – – –
 
 1 Fra 18 aug 2006 iflg. [res. 30 juni 2006 nr. 778](forskrift/2006-06-30-778).
 
@@ -150,20 +150,20 @@ Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen p
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 308,
 
-under henvisning til forslag fra Kommisjonen,1
+under henvisning til forslag fra Kommisjonen,[^1]
 
-under henvisning til uttalelse fra Europaparlamentet,2
+under henvisning til uttalelse fra Europaparlamentet,[^2]
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité3 og
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité[^3] og
 
 ut fra følgende betraktninger:
 
-1. Europaparlamentet vedtok 13. april 1983 en resolusjon om samvirker i Det europeiske fellesskap,4 9. juli 1987 en resolusjon om samvirkers bidrag til regionutvikling,5 26. mai 1989 en resolusjon om kvinners rolle i samvirker og lokale sysselsettingsinitiativer,6 11. februar 1994 en resolusjon om samvirkers bidrag til regionutvikling7 og 18. september 1998 en resolusjon om samvirkers betydning for økt sysselsetting blant kvinner.8
+1. Europaparlamentet vedtok 13. april 1983 en resolusjon om samvirker i Det europeiske fellesskap,[^4] 9. juli 1987 en resolusjon om samvirkers bidrag til regionutvikling,[^5] 26. mai 1989 en resolusjon om kvinners rolle i samvirker og lokale sysselsettingsinitiativer,[^6] 11. februar 1994 en resolusjon om samvirkers bidrag til regionutvikling[^7] og 18. september 1998 en resolusjon om samvirkers betydning for økt sysselsetting blant kvinner.[^8]
 2. Gjennomføringen av det indre marked og de forbedringer det skaper i den økonomiske og sosiale situasjon i hele Fellesskapet betyr ikke bare at handelshindringer må fjernes, men også at produksjonsstrukturene må tilpasses fellesskapsdimensjonen. For dette formål er det avgjørende at foretak av alle typer hvis virksomhet ikke er begrenset til å dekke rent lokale behov, bør kunne planlegge og utføre omorganisering av sin virksomhet på fellesskapsplan.
 3. Den rettslige ramme som virksomheten må drives innenfor i Fellesskapet, er fremdeles hovedsakelig basert på nasjonal lovgivning og svarer derfor ikke lenger til den økonomiske ramme den må utvikles innenfor dersom målene fastsatt i traktatens artikkel 18 skal nås. Denne situasjonen utgjør en betydelig hindring for opprettelse av foretaksgrupper av foretak fra forskjellige medlemsstater.
-4. Rådet har vedtatt forordning [(EF) nr. 2157/2001](eu/32001r2157)9 om vedtektene for det europeiske selskap (SE) i samsvar med de allmenne prinsipper for allmennaksjeselskaper. Dette instrumentet er ikke egnet for samvirkers særlige karakter.
-5. Den europeiske økonomiske foretaksgruppe (EØFG), opprettet ved forordning [(EØF) nr. 2137/85](eu/31985r2137*),10 gjør det mulig for foretak å fremme visse aktiviteter i fellesskap, samtidig som de beholder sin uavhengighet, men oppfyller ikke samvirkers spesifikke krav.
-6. For å sikre like konkurransevilkår og bidra til sin økonomiske utvikling, bør Fellesskapet sørge for at samvirker, som er en organisasjonsform som er allment anerkjent i alle medlemsstater, får egnede juridiske virkemidler som kan hjelpe dem med å utvikle deres tverrnasjonale virksomhet. De forente nasjoner har oppfordret alle regjeringer til å skape et gunstig miljø der samvirker kan delta på samme vilkår som andre foretaksformer.11
+4. Rådet har vedtatt forordning [(EF) nr. 2157/2001](eu/32001r2157)[^9] om vedtektene for det europeiske selskap (SE) i samsvar med de allmenne prinsipper for allmennaksjeselskaper. Dette instrumentet er ikke egnet for samvirkers særlige karakter.
+5. Den europeiske økonomiske foretaksgruppe (EØFG), opprettet ved forordning [(EØF) nr. 2137/85](eu/31985r2137*),[^10] gjør det mulig for foretak å fremme visse aktiviteter i fellesskap, samtidig som de beholder sin uavhengighet, men oppfyller ikke samvirkers spesifikke krav.
+6. For å sikre like konkurransevilkår og bidra til sin økonomiske utvikling, bør Fellesskapet sørge for at samvirker, som er en organisasjonsform som er allment anerkjent i alle medlemsstater, får egnede juridiske virkemidler som kan hjelpe dem med å utvikle deres tverrnasjonale virksomhet. De forente nasjoner har oppfordret alle regjeringer til å skape et gunstig miljø der samvirker kan delta på samme vilkår som andre foretaksformer.[^11]
 7. Samvirker er først og fremst grupper av fysiske eller juridiske personer som baserer sin virksomhet på andre prinsipper enn andre markedsdeltakere. Disse omfatter prinsippene om demokratisk struktur og kontroll og rettferdig fordeling av nettoutbyttet for regnskapsåret.
 8. Disse særlige prinsippene omfatter særlig prinsippet om personers forrang, som gjenspeiles i de spesifikke reglene om medlemskap, avgang og utelukkelse, der prinsippet om «én person, én stemme» er fastsatt og stemmeretten er knyttet til personen, noe som innebærer at medlemmer ikke har noen rettigheter med hensyn til samvirkets aktiva.
 9. Samvirker har en andelskapital, og medlemmene kan være fysiske eller juridiske personer. Disse medlemmene kan utgjøres helt eller delvis av kunder, ansatte eller leverandører. Når et samvirke består av medlemmer som selv er samvirker, betegnes det som et «sekundært» eller «annengrads» samvirke. Under visse omstendigheter kan et samvirke blant sine medlemmer også ha en viss andel investormedlemmer som ikke benytter dets tjenester, eller tredjemenn som nyter godt av samvirkets virksomhet eller utfører arbeid på dets vegne.
@@ -182,18 +182,18 @@ ut fra følgende betraktninger:
 14. I betraktning av det særlige fellesskapspreget ved et SCE-foretak, berører ordningen med «faktisk forretningskontor» som for SCE-foretak innføres med denne forordning, ikke medlemsstatenes [EØS-statenes] lovgivning og foregriper ikke eventuelle valg som skal gjøres for andre fellesskapstekster om selskapsrett.
 15. Henvisninger til kapital i denne forordning bør omfatte bare tegnet kapital. De bør ikke omfatte eventuelle felles aktiva/egenkapital i SCE-foretaket som ikke er utdelt.
 16. Denne forordning omfatter ikke andre rettsområder som beskatning, konkurranse, immaterialrett eller insolvens. På ovennevnte områder og på andre områder som ikke omfattes av denne forordning, får derfor bestemmelsene i medlemsstatenes [EØS-statenes] lovgivning og i fellesskapsretten anvendelse.
-17. Reglene for arbeidstakernes innflytelse i europeiske samvirkeforetak er fastsatt i direktiv [2003/72/EF](eu/32003l0072),12 og disse bestemmelsene danner dermed en uatskillelig utfylling av denne forordning og må anvendes sammen med denne.
+17. Reglene for arbeidstakernes innflytelse i europeiske samvirkeforetak er fastsatt i direktiv [2003/72/EF](eu/32003l0072),[^12] og disse bestemmelsene danner dermed en uatskillelig utfylling av denne forordning og må anvendes sammen med denne.
 18. Det er gjort betydelige framskritt i arbeidet med tilnærming av nasjonal selskapsrett slik at det også for SCE-foretak kan vises til visse bestemmelser vedtatt av medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, med henblikk på gjennomføring av direktiver om selskaper på områder der dets virkemåte ikke krever ensartede fellesskapsregler, i den grad slike bestemmelser egner seg for regulering av SCE-foretakets virksomhet, særlig:
 
-    - første rådsdirektiv [68/151/EØF](eu/31968l0151*) av 9. mars 1968 om samordning av de garantier som kreves i medlemsstatene [EØS-statene] av selskaper som definert i traktatens artikkel 58 annet ledd for å verne selskapsdeltakeres og tredjemanns interesser, med det formål å gjøre garantiene likeverdige,13
-    - fjerde rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om årsregnskapene for visse selskapsformer,14
-    - sjuende rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om konsoliderte regnskaper,15
-    - åttende rådsdirektiv [84/253/EØF](eu/31984l0253) av 10. april 1984 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om godkjennelse av personer med ansvar for lovfestet revisjon av regnskaper,16
-    - ellevte rådsdirektiv [89/666/EØF](eu/31989l0666*) av 21. desember 1989 om offentlighet angående filialer opprettet i en medlemsstat [EØS-stat] av visse former for selskaper som er underlagt en annen medlemsstats [EØS-stats] lovgivning.17
+    - første rådsdirektiv [68/151/EØF](eu/31968l0151*) av 9. mars 1968 om samordning av de garantier som kreves i medlemsstatene [EØS-statene] av selskaper som definert i traktatens artikkel 58 annet ledd for å verne selskapsdeltakeres og tredjemanns interesser, med det formål å gjøre garantiene likeverdige,[^13]
+    - fjerde rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om årsregnskapene for visse selskapsformer,[^14]
+    - sjuende rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om konsoliderte regnskaper,[^15]
+    - åttende rådsdirektiv [84/253/EØF](eu/31984l0253) av 10. april 1984 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om godkjennelse av personer med ansvar for lovfestet revisjon av regnskaper,[^16]
+    - ellevte rådsdirektiv [89/666/EØF](eu/31989l0666*) av 21. desember 1989 om offentlighet angående filialer opprettet i en medlemsstat [EØS-stat] av visse former for selskaper som er underlagt en annen medlemsstats [EØS-stats] lovgivning.[^17]
 19. Virksomhet på området finansielle tjenester, særlig når det gjelder kredittinstitusjoner og forsikringsforetak, har vært gjenstand for lovgivningsmessige tiltak i henhold til følgende direktiver:
 
-    - rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper18
-    - rådsdirektiv [92/49/EØF](eu/31992l0049*) av 18. juni 1992 om samordning av lover og forskrifter om direkte forsikring med unntak av livsforsikring og om endring av direktiv [73/239/EØF](eu/31973l0239*) og [88/357/EØF](eu/31988l0357) (tredje direktiv om annen forsikring enn livsforsikring).19
+    - rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper[^18]
+    - rådsdirektiv [92/49/EØF](eu/31992l0049*) av 18. juni 1992 om samordning av lover og forskrifter om direkte forsikring med unntak av livsforsikring og om endring av direktiv [73/239/EØF](eu/31973l0239*) og [88/357/EØF](eu/31988l0357) (tredje direktiv om annen forsikring enn livsforsikring).[^19]
 20. Denne organisasjonsform bør være frivillig –
 
 1 EFT C 99 av 21.4.1992, s. 17 og EFT C 236 av 31.8.1993, s. 17.
@@ -254,7 +254,7 @@ Med mindre annet fastsettes i vedtektene for SCE-foretaket når det stiftes, ska
 
 5\. Et SCE-foretak skal være et eget rettssubjekt.
 
-6\. Arbeidstakernes innflytelse i et SCE-foretak skal være regulert av bestemmelsene i direktiv [2003/72/EF](eu/32003l0072).1
+6\. Arbeidstakernes innflytelse i et SCE-foretak skal være regulert av bestemmelsene i direktiv [2003/72/EF](eu/32003l0072).[^1]
 
 1 Jf. EØS-avtalen vedlegg XVIII nr. 32 g.
 
@@ -263,8 +263,8 @@ Med mindre annet fastsettes i vedtektene for SCE-foretaket når det stiftes, ska
 1\. Et SCE-foretak kan stiftes på følgende måter:
 
 - av fem eller flere fysiske personer bosatt i minst to medlemsstater [EØS-stater],
-- av fem eller flere fysiske personer og selskaper og foretak i henhold til traktatens artikkel 58 annet ledd1 og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, bosatt i eller regulert av minst to medlemsstaters [EØS-staters] lovgivning,
-- av selskaper og foretak i henhold til traktatens artikkel 58 annet ledd1 og andre offentlige eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, regulert av minst to forskjellige medlemsstaters [EØS-staters] lovgivning,
+- av fem eller flere fysiske personer og selskaper og foretak i henhold til traktatens artikkel 58 annet ledd[^1] og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, bosatt i eller regulert av minst to medlemsstaters [EØS-staters] lovgivning,
+- av selskaper og foretak i henhold til traktatens artikkel 58 annet ledd[^1] og andre offentlige eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, regulert av minst to forskjellige medlemsstaters [EØS-staters] lovgivning,
 - ved en fusjon mellom samvirker som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med deres forretningskontor og hovedkontor i Fellesskapet [EØS], forutsatt at minst to av dem reguleres av forskjellige medlemsstaters [EØS-staters] lovgivning,
 - ved omdanning av et samvirke stiftet i henhold til en medlemsstats [EØS-stats] lovgivning og som har sitt forretningskontor og hovedkontor i Fellesskapet [EØS], dersom det i minst to år har hatt et forretningssted eller datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning.
 
@@ -361,9 +361,9 @@ SCE-foretakets forretningskontor skal ligge i Fellesskapet [EØS], i samme medle
 
 4\. SCE-foretakets medlemmer, kreditorer og innehavere av andre rettigheter samt eventuelle andre organer som i henhold til nasjonal lovgivning kan utøve en slik rettighet, skal minst en måned før generalforsamlingen som skal ta stilling til flyttingen, ha rett til å gjennomgå flytteplanen og rapporten utarbeidet i henhold til nr. 3, og på anmodning kostnadsfritt få kopier av disse dokumentene, ved SCE-foretakets forretningskontor.
 
-5\. Et medlem som gikk imot beslutningen om flytting på generalforsamlingen eller på et sektor- eller seksjonsmøte, kan innen to måneder fra beslutningen på generalforsamlingen melde sin avgang. Medlemskapet skal opphøre ved avslutningen av det regnskapsåret da avgangen ble meldt, og flyttingen skal ikke gjelde for dette medlemmet. Avgangen skal gi medlemmet rett til tilbakebetaling av andeler på vilkårene fastsatt i artikkel 4 nr. 41 og artikkel 16.
+5\. Et medlem som gikk imot beslutningen om flytting på generalforsamlingen eller på et sektor- eller seksjonsmøte, kan innen to måneder fra beslutningen på generalforsamlingen melde sin avgang. Medlemskapet skal opphøre ved avslutningen av det regnskapsåret da avgangen ble meldt, og flyttingen skal ikke gjelde for dette medlemmet. Avgangen skal gi medlemmet rett til tilbakebetaling av andeler på vilkårene fastsatt i artikkel 4 nr. 4[^1] og artikkel 16.
 
-6\. Det kan ikke treffes beslutning om å flytte før det er gått to måneder etter at planen er offentliggjort. En slik beslutning skal treffes som fastsatt i artikkel 62 nr. 4.2
+6\. Det kan ikke treffes beslutning om å flytte før det er gått to måneder etter at planen er offentliggjort. En slik beslutning skal treffes som fastsatt i artikkel 62 nr. 4.[^2]
 
 7\. Før vedkommende myndighet utsteder attesten nevnt i nr. 8, skal SCE-foretaket bevise at det med hensyn til fordringer som oppstår før offentliggjøringen av flytteplanen, samt interessene til kreditorer og innehavere av andre rettigheter overfor SCE-foretaket (herunder offentlige organers rettigheter), gir tilstrekkelig beskyttelse i samsvar med kravene fastsatt av medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor før flytting.
 
@@ -492,7 +492,7 @@ Med mindre annet er fastsatt i vedtektene, kan medlemskap i et SCE-foretak erver
 
 1. det ble innført nye forpliktelser med hensyn til betaling eller andre tjenester, eller
 2. gjeldende forpliktelser for medlemmene ble betydelig utvidet, eller
-3. fristen for melding om avgang fra SCE-foretaket ble utvidet til mer enn fem år,1
+3. fristen for melding om avgang fra SCE-foretaket ble utvidet til mer enn fem år,[^1]
 
 kan melde sin avgang innen to måneder etter beslutningen på generalforsamlingen.
 
@@ -558,7 +558,7 @@ Slike innsigelser kan bare begrunnes ut fra offentlighetens interesse. Innsigels
 3. nærmere regler for tildeling av andeler i SCE-foretaket,
 4. fra hvilket tidspunkt andelene i SCE-foretaket gir rett til å ta del i overskuddet, og alle særlige vilkår forbundet med denne rettigheten,
 5. fra hvilket tidspunkt transaksjonene i de fusjonerende samvirkene regnskapsmessig skal anses som utført for SCE-foretakets regning,
-6. de særlige vilkår eller fordeler som er knyttet til obligasjoner eller andre verdipapirer enn andeler som i henhold til artikkel 661 ikke gir rett til medlemskap,
+6. de særlige vilkår eller fordeler som er knyttet til obligasjoner eller andre verdipapirer enn andeler som i henhold til artikkel 66[^1] ikke gir rett til medlemskap,
 7. hvilke rettigheter SCE-foretaket gir andelsinnehavere med særlige rettigheter og innehavere av andre verdipapirer enn andeler, eller hvilke tiltak som foreslås med hensyn til dem,
 8. formene for vern av kreditorenes rettigheter i de fusjonerende samvirkene,
 9. enhver særlig fordel som gis til de sakkyndige som gjennomgår fusjonsplanen eller til medlemmene av de fusjonerende samvirkenes administrasjons-, ledelses-, tilsyns- eller kontrollorganer,
@@ -678,7 +678,7 @@ Første ledd får ikke anvendelse på arbeidstakerrepresentanters rett til å de
 
 1\. En fusjon i henhold til artikkel 2 nr. 1 fjerde strekpunkt kan ikke erklæres ugyldig når SCE-foretaket er registrert.
 
-2\. Manglende kontroll av lovligheten av fusjonen i henhold til artikkel 29 og 30 skal utgjøre en av grunnene til oppløsning av SCE-foretaket, i samsvar med bestemmelsene i artikkel 74.1
+2\. Manglende kontroll av lovligheten av fusjonen i henhold til artikkel 29 og 30 skal utgjøre en av grunnene til oppløsning av SCE-foretaket, i samsvar med bestemmelsene i artikkel 74.[^1]
 
 1 Inkurie: Skal nok være art. 73.
 
@@ -797,7 +797,7 @@ Administrasjonsorganet skal likevel bestå av minst tre medlemmer dersom arbeids
 
 ### Art 46. Vilkår for medlemskap
 
-1\. Et SCE-foretaks vedtekter kan tillate at et selskap i henhold til traktatens artikkel 581 er medlem av ett av dets organer, forutsatt at ikke annet er fastsatt i lovgivningen om samvirker i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger.
+1\. Et SCE-foretaks vedtekter kan tillate at et selskap i henhold til traktatens artikkel 58[^1] er medlem av ett av dets organer, forutsatt at ikke annet er fastsatt i lovgivningen om samvirker i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger.
 
 Dette selskapet skal oppnevne en fysisk person som sin representant for å utøve sine funksjoner i vedkommende organ. Representanten skal være underlagt de samme vilkår og forpliktelser som personlige medlemmer av organet.
 
@@ -937,7 +937,7 @@ I SCE-foretak der flertallet av medlemmene er samvirker, kan vedtektene, dersom 
 
 3\. Et medlem som nektes opplysninger, kan kreve at hans/hennes anmodning og grunnene til avslaget skal opptas i generalforsamlingens protokoll.
 
-4\. I de 10 dagene som går forut for generalforsamlingen som skal ta stilling til regnskapsårets avslutning, kan medlemmene gjennomgå balansen, resultatregnskapet og tilhørende noter, årsrapporten, konklusjonen av regnskapsrevisjonen foretatt av vedkommende ansvarlige person og dersom det gjelder et morselskap i henhold til direktiv [83/349/EØF](eu/31983l0349*),1 det konsoliderte regnskapet.
+4\. I de 10 dagene som går forut for generalforsamlingen som skal ta stilling til regnskapsårets avslutning, kan medlemmene gjennomgå balansen, resultatregnskapet og tilhørende noter, årsrapporten, konklusjonen av regnskapsrevisjonen foretatt av vedkommende ansvarlige person og dersom det gjelder et morselskap i henhold til direktiv [83/349/EØF](eu/31983l0349*),[^1] det konsoliderte regnskapet.
 
 1 Jf. EØS-avtalen vedlegg XXII nr. 6.
 
@@ -1021,9 +1021,9 @@ Vedtektene kan fastsette at det skal utbetales et utbytte til medlemmer ut fra d
 
 ### Art 68. Utarbeiding av årsregnskap og konsolidert regnskap
 
-1\. Med hensyn til utarbeiding av årsregnskap og eventuelt konsolidert regnskap, herunder den tilknyttede årsrapporten samt revisjon og offentliggjøring av regnskapene, skal et SCE-foretak være underlagt lovbestemmelsene som er vedtatt i medlemsstaten [EØS-staten] der det har sitt forretningskontor i henhold til direktiv [78/660/EØF](eu/31978l0660)1 og [83/349/EØF](eu/31983l0349*).2 Medlemsstatene [EØS-statene] kan likevel fastsette endringer av de nasjonale bestemmelser for gjennomføring av disse direktivene for å ta hensyn til samvirkers særlige karakter.
+1\. Med hensyn til utarbeiding av årsregnskap og eventuelt konsolidert regnskap, herunder den tilknyttede årsrapporten samt revisjon og offentliggjøring av regnskapene, skal et SCE-foretak være underlagt lovbestemmelsene som er vedtatt i medlemsstaten [EØS-staten] der det har sitt forretningskontor i henhold til direktiv [78/660/EØF](eu/31978l0660)[^1] og [83/349/EØF](eu/31983l0349*).[^2] Medlemsstatene [EØS-statene] kan likevel fastsette endringer av de nasjonale bestemmelser for gjennomføring av disse direktivene for å ta hensyn til samvirkers særlige karakter.
 
-2\. Dersom et SCE-foretak i henhold til lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor ikke er underlagt krav om offentliggjøring av regnskaper som fastsatt i artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*),3 skal SCE-foretaket i det minste gjøre dokumentene knyttet til årsregnskapene tilgjengelige for offentligheten på sitt forretningskontor. Kopier av disse dokumentene skal gis på anmodning. Prisen for en slik kopi må ikke overstige administrasjonskostnadene.
+2\. Dersom et SCE-foretak i henhold til lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor ikke er underlagt krav om offentliggjøring av regnskaper som fastsatt i artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*),[^3] skal SCE-foretaket i det minste gjøre dokumentene knyttet til årsregnskapene tilgjengelige for offentligheten på sitt forretningskontor. Kopier av disse dokumentene skal gis på anmodning. Prisen for en slik kopi må ikke overstige administrasjonskostnadene.
 
 3\. Et SCE-foretak skal utarbeide årsregnskapet og eventuelt det konsoliderte regnskapet i den nasjonale valuta. Et SCE-foretak som har sitt forretningskontor utenfor euro-området, kan også utarbeide årsregnskapet, og eventuelt det konsoliderte regnskapet, i euro. I så fall skal grunnlaget for omregning til euro av postene som opprinnelig ble uttrykt i en annen valuta angis i notene til regnskapet.
 
@@ -1041,7 +1041,7 @@ Vedtektene kan fastsette at det skal utbetales et utbytte til medlemmer ut fra d
 
 ### Art 70. Revisjon
 
-Lovfestet revisjon av et SCE-foretaks årsregnskap og eventuelt konsoliderte regnskap skal foretas av en eller flere personer med fullmakt til å gjøre dette i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor i samsvar med tiltakene truffet i vedkommende stat i henhold til direktiv [84/253/EØF](eu/31984l0253)1 og [89/48/EØF](eu/31989l0048).2
+Lovfestet revisjon av et SCE-foretaks årsregnskap og eventuelt konsoliderte regnskap skal foretas av en eller flere personer med fullmakt til å gjøre dette i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor i samsvar med tiltakene truffet i vedkommende stat i henhold til direktiv [84/253/EØF](eu/31984l0253)[^1] og [89/48/EØF](eu/31989l0048).[^2]
 
 1 Se nå dir [2006/43](eu/32006l0043), jf. EØS-avtalen vedlegg XXII nr. 10f.
 
@@ -1049,7 +1049,7 @@ Lovfestet revisjon av et SCE-foretaks årsregnskap og eventuelt konsoliderte reg
 
 ### Art 71. Revisjonssystem
 
-Dersom lovgivningen i en medlemsstat [EØS-stat] krever at alle eller visse former for samvirker som er underlagt vedkommende stats lovgivning skal være tilknyttet et eksternt organ med fullmakt til dette i henhold til loven og anvende et særlig revisjonssystem som dette organet bruker, får bestemmelsene automatisk anvendelse på et SCE-foretak med forretningskontor i vedkommende medlemsstat [EØS-stat], forutsatt at dette organet oppfyller kravene i direktiv [84/253/EØF](eu/31984l0253).1
+Dersom lovgivningen i en medlemsstat [EØS-stat] krever at alle eller visse former for samvirker som er underlagt vedkommende stats lovgivning skal være tilknyttet et eksternt organ med fullmakt til dette i henhold til loven og anvende et særlig revisjonssystem som dette organet bruker, får bestemmelsene automatisk anvendelse på et SCE-foretak med forretningskontor i vedkommende medlemsstat [EØS-stat], forutsatt at dette organet oppfyller kravene i direktiv [84/253/EØF](eu/31984l0253).[^1]
 
 1 Se nå dir [2006/43](eu/32006l0043), jf. EØS-avtalen vedlegg XXII nr. 10f.
 
@@ -1104,7 +1104,7 @@ Nettoaktiva skal fordeles ut fra prinsippet om uegennyttig fordeling, eller der 
 
 1\. Dersom og så lenge den tredje fasen i Den økonomiske og monetære union (ØMU) ikke gjelder for en medlemsstat [EØS-stat], kan staten underlegge SCE-foretak med forretningskontor på dens territorium de samme bestemmelser som får anvendelse på samvirker eller allmennaksjeselskaper som omfattes av dens lovgivning med hensyn til hvordan deres kapital uttrykkes. Et SCE-foretak kan i alle tilfeller uttrykke sin kapital også i euro. I slike tilfeller skal omregningskursen mellom nasjonal valuta og euro være kursen på den siste dagen i måneden som går forut for stiftelsen av SCE-foretaket.
 
-2\. Dersom og så lenge den tredje fasen i ØMU ikke gjelder for medlemsstaten [EØS-staten] der et SCE-foretak har sitt forretningskontor, kan SCE-foretaket likevel utarbeide og offentliggjøre årsregnskapet og eventuelt det konsoliderte regnskapet i euro. Medlemsstaten [EØS-staten] kan kreve at SCE-foretakets årsregnskap og eventuelt konsoliderte regnskap utarbeides og offentliggjøres i nasjonal valuta på de samme vilkår som er fastsatt for samvirker og allmennaksjeselskaper i medlemsstatens [EØS-statens] lovgivning. Dette berører ikke den ekstra adgangen for SCE-foretak til å offentliggjøre sitt årsregnskap og eventuelt konsoliderte regnskap i euro i samsvar med direktiv [90/604/EØF](eu/31990l0604) av 8. november 1990 om endring av direktiv [78/660/EØF](eu/31978l0660) om årsregnskaper og direktiv [83/349/EØF](eu/31983l0349*) om konsoliderte regnskaper med hensyn til unntak for små og mellomstore selskaper og offentliggjøring av regnskaper i ECU.1
+2\. Dersom og så lenge den tredje fasen i ØMU ikke gjelder for medlemsstaten [EØS-staten] der et SCE-foretak har sitt forretningskontor, kan SCE-foretaket likevel utarbeide og offentliggjøre årsregnskapet og eventuelt det konsoliderte regnskapet i euro. Medlemsstaten [EØS-staten] kan kreve at SCE-foretakets årsregnskap og eventuelt konsoliderte regnskap utarbeides og offentliggjøres i nasjonal valuta på de samme vilkår som er fastsatt for samvirker og allmennaksjeselskaper i medlemsstatens [EØS-statens] lovgivning. Dette berører ikke den ekstra adgangen for SCE-foretak til å offentliggjøre sitt årsregnskap og eventuelt konsoliderte regnskap i euro i samsvar med direktiv [90/604/EØF](eu/31990l0604) av 8. november 1990 om endring av direktiv [78/660/EØF](eu/31978l0660) om årsregnskaper og direktiv [83/349/EØF](eu/31983l0349*) om konsoliderte regnskaper med hensyn til unntak for små og mellomstore selskaper og offentliggjøring av regnskaper i ECU.[^1]
 
 1 EFT L 317 av 16.11.1990, s. 57. Se EØS-avtalen vedlegg XXII nr. 4 og nr. 6.
 
@@ -1114,7 +1114,7 @@ Nettoaktiva skal fordeles ut fra prinsippet om uegennyttig fordeling, eller der 
 
 1\. Medlemsstatene [EØS-statene] skal treffe alle hensiktsmessige tiltak for å sikre effektiv gjennomføring av denne forordning.
 
-2\. Hver medlemsstat [EØS-stat] skal utpeke vedkommende myndigheter i henhold til artikkel 7, 21, 29, 30, 54 og 73. Den skal underrette Kommisjonen1 og de øvrige medlemsstatene [EØS-statene] om dette.
+2\. Hver medlemsstat [EØS-stat] skal utpeke vedkommende myndigheter i henhold til artikkel 7, 21, 29, 30, 54 og 73. Den skal underrette Kommisjonen[^1] og de øvrige medlemsstatene [EØS-statene] om dette.
 
 1 For EFTA-statene: EFTAs overvåkingsorgan, jf. EØS-avtalen protokoll 1 nr. 4.
 

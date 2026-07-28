@@ -15,7 +15,7 @@ xml_hash: "670ec98ea1aae01e28429f64a989259f9c6765ec1523e710db35ac054dd9137f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,7 +55,7 @@ Anskaffelsesverdi etter a reduseres med beregnede avskrivninger etter de avskriv
 
 Inngangsverdi for aksjer, obligasjoner og andre finansielle eiendeler settes til markedsverdi.
 
-Denne overgangsregel får ikke anvendelse for gjensidig brann- og hysdyrforsikringsselskap,1 jf. [skatteloven § 2-30](lov/1999-03-26-14/§2-30) første ledd bokstav h nr. 1 som har levert selvangivelse for inntektsåret 2007.
+Denne overgangsregel får ikke anvendelse for gjensidig brann- og hysdyrforsikringsselskap,[^1] jf. [skatteloven § 2-30](lov/1999-03-26-14/§2-30) første ledd bokstav h nr. 1 som har levert selvangivelse for inntektsåret 2007.
 
 Departementet kan gi nærmere regler til utfylling og gjennomføring av denne overgangsregelen.
 

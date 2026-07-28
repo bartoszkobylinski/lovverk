@@ -15,7 +15,7 @@ xml_hash: "3e14985b9d81affec3f0268cc2f44b9d6db60ec06f6143ee90504516692333cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31987L0054"
@@ -61,7 +61,7 @@ Eneretten til kretsmønsteret oppstår når kretsmønsteret blir frembrakt, og u
 
 Eneretten faller likevel bort femten år etter utløpet av det år da kretsmønsteret ble frembrakt, hvis det da ennå ikke er ervervsmessig utnyttet.
 
-Utnyttelse av kretsmønsteret i fortrolig sammenheng regnes ikke som ervervsmessig utnyttelse etter paragrafen her, dersom det ikke skjer ytterligere spredning av kretsmønsteret til tredjepersoner. Fortrolig utnyttelse til militære formål o l som nevnt i Avtalen om Det europeiske økonomiske samarbeidsområde1 artikkel 123 regnes likevel som ervervsmessig utnyttelse.
+Utnyttelse av kretsmønsteret i fortrolig sammenheng regnes ikke som ervervsmessig utnyttelse etter paragrafen her, dersom det ikke skjer ytterligere spredning av kretsmønsteret til tredjepersoner. Fortrolig utnyttelse til militære formål o l som nevnt i Avtalen om Det europeiske økonomiske samarbeidsområde[^1] artikkel 123 regnes likevel som ervervsmessig utnyttelse.
 
 > Endret ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994).
 
@@ -151,7 +151,7 @@ Kongen kan ved forskrift bestemme at loven helt eller delvis skal gjelde for and
 
 ## § 11. Ikrafttredelse og overgangsbestemmelser, endring i andre lover.
 
-Denne loven trer i kraft fra den tid Kongen bestemmer.1
+Denne loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Loven kommer også til anvendelse på kretsmønstre som er frembrakt før loven trer i kraft.
 

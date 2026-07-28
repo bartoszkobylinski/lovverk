@@ -15,7 +15,7 @@ xml_hash: "3252caa6f5e5162b6d6b8cc32ca11a8eeb7c812e1c419d852a29f6e9f090507f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,7 @@ Supplerende sikkerhetstiltak for bulkskip
 
 I dette kapittel gjelder følgende definisjoner:
 
-1. *«Bulkskip»* betyr et skip som hovedsakelig er ment å frakte tørrlast i bulk, herunder skipstyper som malmskip og kombinasjonsskip.1 2
+1. *«Bulkskip»* betyr et skip som hovedsakelig er ment å frakte tørrlast i bulk, herunder skipstyper som malmskip og kombinasjonsskip.[^1] [^2]
 2. *«Bulkskip med enkel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der:
 
    1. en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden, eller
@@ -113,7 +113,7 @@ Bulkskip bygget før 1. juli 1999 som regel 4 eller 6 får anvendelse på, skal 
 
 ### Regel 5 Konstruksjonsstyrke for bulkskip
 
-1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, som er utformet for å frakte faste bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget 1. juli 1999 eller senere, skal ha en styrke som er tilstrekkelig til å motstå vannfylling av et hvilket som helst enkelt lasterom til vannhøyden utenfor skipet i den fylte tilstanden i alle laste- og ballasttilstander, idet det også tas hensyn til dynamiske virkninger knyttet til forekomsten av vann i lasterommet, og dessuten til anbefalinger vedtatt av Organisasjonen.1
+1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, som er utformet for å frakte faste bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget 1. juli 1999 eller senere, skal ha en styrke som er tilstrekkelig til å motstå vannfylling av et hvilket som helst enkelt lasterom til vannhøyden utenfor skipet i den fylte tilstanden i alle laste- og ballasttilstander, idet det også tas hensyn til dynamiske virkninger knyttet til forekomsten av vann i lasterommet, og dessuten til anbefalinger vedtatt av Organisasjonen.[^1]
 
 2 Bulkskip med lengde 150 meter eller mer med dobbel platehudskonstruksjon, der en hvilken som helst del av langskipsskottet befinner seg innenfor B/5 eller 11,5 meter, avhengig av hva som er minst, innover fra skipssiden i rett vinkel på senterlinjen ved den fastsatte sommerlastelinjen, og som er utformet for å frakte bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget før 1. juli 2006, skal oppfylle kravene til konstruksjonsstyrke i nr. 1.
 
@@ -178,7 +178,7 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 1 Avskiper skal, før et bulkskip med lengde 150 m eller mer lastes med bulklast, oppgi lastens densitet i tillegg til å gi informasjon om lasten i henhold til regel VI/2.
 
-2 For bulkskip som omfattes av regel 6, med mindre slike bulkskip oppfyller alle relevante krav i dette kapittelet som gjelder for frakt av faste bulklaster med en densitet på 1780 kg/m3 eller mer, skal densiteten til enhver last som oppgis å ha en densitet mellom 1250 kg/m3 og 1780 kg/m3 , verifiseres av en akkreditert prøvingsorganisasjon.1
+2 For bulkskip som omfattes av regel 6, med mindre slike bulkskip oppfyller alle relevante krav i dette kapittelet som gjelder for frakt av faste bulklaster med en densitet på 1780 kg/m3 eller mer, skal densiteten til enhver last som oppgis å ha en densitet mellom 1250 kg/m3 og 1780 kg/m3 , verifiseres av en akkreditert prøvingsorganisasjon.[^1]
 
 1 Ved verifiseringen av densiteten til fast bulklast, skal det vises til en ensartet målemetode for bulklastens densitet (MSC/Circ.908).
 
@@ -186,11 +186,11 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 *(Med mindre annet er fastsatt, gjelder denne regelen for bulkskip uavhengig av byggedato)*
 
-1 Bulkskip med lengde 150 meter eller mer skal utstyres med et lasteinstrument som kan gi informasjon om aktuelle belastende bøyemomenter og skjærkrefter på skrogbjelken, idet det tas hensyn til anbefalingene vedtatt av Organisasjonen.1
+1 Bulkskip med lengde 150 meter eller mer skal utstyres med et lasteinstrument som kan gi informasjon om aktuelle belastende bøyemomenter og skjærkrefter på skrogbjelken, idet det tas hensyn til anbefalingene vedtatt av Organisasjonen.[^1]
 
 2 Bulkskip med lengde 150 meter eller mer bygget før 1. juli 1999 skal oppfylle kravene i nr. 1 ikke senere enn på datoen for den første mellomliggende eller periodiske besiktelsen av skipet, som foretas etter 1. juli 1999.
 
-3 Bulkskip med lengde under 150 meter bygget 1. juli 2006 eller senere skal utstyres med et lasteinstrument som kan gi informasjon om skipets stabilitet i intakt tilstand. Dataprogrammet skal være godkjent for stabilitetsberegninger av administrasjonen og skal inneholde standardbetingelser for prøvingsformål knyttet til den godkjente stabilitetsinformasjonen.2
+3 Bulkskip med lengde under 150 meter bygget 1. juli 2006 eller senere skal utstyres med et lasteinstrument som kan gi informasjon om skipets stabilitet i intakt tilstand. Dataprogrammet skal være godkjent for stabilitetsberegninger av administrasjonen og skal inneholde standardbetingelser for prøvingsformål knyttet til den godkjente stabilitetsinformasjonen.[^2]
 
 1 Det vises til resolusjon 5 – Rekommandasjon om lasteinstrumenter, vedtatt av SOLAS-konferansen 1997.
 
@@ -210,7 +210,7 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 3 Bulkskip bygget før 1. juli 2004 skal oppfylle kravene i denne regelen senest ved datoen for første årlige besiktelse, mellomliggende besiktelse eller fornyelsesbesiktelse av skipet etter 1. juli 2004, avhengig av hva som kommer først.
 
-### Regel 13 Lensesystemenes tilgjengelighet1
+### Regel 13 Lensesystemenes tilgjengelighet[^1]
 
 *(Denne regelen gjelder for bulkskip uavhengig av byggedato)*
 

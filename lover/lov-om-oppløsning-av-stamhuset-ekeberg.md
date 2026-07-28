@@ -15,7 +15,7 @@ xml_hash: "24988e5e0fc65e3b71443d48f4b6db2f6fdf69df98b140b94e5252ed72803997"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,6 +28,6 @@ De eiendeler som tilhører stamhuset Ekeberg, skal gå over til å bli stamhusbe
 
 ## § 2.
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2006 iflg. [res. 21 des 2005 nr. 1607](forskrift/2005-12-21-1607).

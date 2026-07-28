@@ -15,7 +15,7 @@ xml_hash: "5ab048d9e8487f97f750e3fcfe61becbdd8e4c84b66b2bff41f22e6be6f68d55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsretter i mo
 
 ## § 2.
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Iflg. [res. 12 nov 2010 nr. 1421](forskrift/2010-11-12-1421) trer loven ikr. fra det tidspunktet konvensjon om internasjonale sikkerhetsretter i mobilt løsøre og protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre, om særlige forhold for luftfartøysløsøre trer ikr. for Norge. Iflg. meddelelse fra Justisdepartementet [28 mars 2011 nr. 322](forskrift/2011-03-28-322) inntrådte dette 1 apr 2011.
 
@@ -1619,7 +1619,7 @@ To: [Insert Name of Registry Authority]
 
 Re: Irrevocable De-Registration and Export Request Authorisation
 
-The undersigned is the registered [operator] [owner]1 of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer's serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the «aircraft»).
+The undersigned is the registered [operator] [owner][^1] of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer's serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the «aircraft»).
 
 This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] («the authorised party») under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
 
@@ -2014,7 +2014,7 @@ Til: [Registermyndighetens navn]
 
 Sak: Ugjenkallelig fullmakt til å anmode om avregistrering og tillatelse til eksport
 
-Undertegnede er den registrerte [operatør] [eier]1 av [sett inn produsentens navn og flyskrog-/helikoptermodell], med serienummer [ sett inn nummeret] og registrert som [registreringsnummer] [ registreringsmerke] [sett inn registreringsnummer/registreringsmerke] (og tilbehør, deler og utstyrskomponenter som er montert på, integrert i eller festet til dette, heretter kalt «luftfartøyet»).
+Undertegnede er den registrerte [operatør] [eier][^1] av [sett inn produsentens navn og flyskrog-/helikoptermodell], med serienummer [ sett inn nummeret] og registrert som [registreringsnummer] [ registreringsmerke] [sett inn registreringsnummer/registreringsmerke] (og tilbehør, deler og utstyrskomponenter som er montert på, integrert i eller festet til dette, heretter kalt «luftfartøyet»).
 
 Dette dokument er en ugjenkallelig fullmakt til å anmode om avregistrering og tillatelse til eksport, utstedt av undertegnede i favør av [kreditors navn] (heretter kalt «den bemyndigede part») med hjemmel i artikkel XIII i Protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre om særlige forhold for luftfartøysløsøre. I samsvar med nevnte artikkel ber undertegnede om:
 

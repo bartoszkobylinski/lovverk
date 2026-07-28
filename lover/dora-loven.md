@@ -15,7 +15,7 @@ xml_hash: "ad3b63951814eb3af6b8cdbfab7fe6c3607df6a70b8c15e0a7c04941c0e5ae50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32022R2554"
@@ -93,7 +93,7 @@ Første punktum gjelder tilsvarende ved overtredelse av forskrifter som gjennomf
 
 ## § 5. Ikrafttredelse og overgangsbestemmelser
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
 (2) Departementet kan fastsette overgangsregler.
 

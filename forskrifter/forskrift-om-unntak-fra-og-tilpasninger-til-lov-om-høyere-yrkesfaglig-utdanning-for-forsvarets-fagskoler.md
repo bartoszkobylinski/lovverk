@@ -15,7 +15,7 @@ xml_hash: "0f2e67d127a8466f95a8920d7d2576258f15c116fc15477b24fa3ec4169643c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -113,6 +113,6 @@ Klagenemnda for Forsvarets fagskoler er også klageinstans for enkeltvedtak truf
 
 ## § 11. Ikrafttredelse
 
-Forskriften trer i kraft fra den tid1 Forsvarsdepartementet bestemmer.
+Forskriften trer i kraft fra den tid[^1] Forsvarsdepartementet bestemmer.
 
 1 Fra 1. juli 2026 iflg. forskrift [22 juni 2026 nr. 1388](forskrift/2026-06-22-1388).

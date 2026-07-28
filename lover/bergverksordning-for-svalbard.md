@@ -15,7 +15,7 @@ xml_hash: "fa8fe23b9e32f2a202e56008127ca07ecbd9b89555c034f6ccbe7475a951a09d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -375,6 +375,6 @@ For øvrig kommer bestemmelsene i denne bergverksordning i sin helhet til anvend
 
 ### § 36
 
-Denne bergverksordning trer i kraft fra den tid som bestemmes ved lov.1
+Denne bergverksordning trer i kraft fra den tid som bestemmes ved lov.[^1]
 
 1 Ifølge [lov 17 juli 1925 nr. 11 § 30](lov/1925-07-17-11/§30), jf. res. 7 aug og 14 aug 1925 ble Svalbard overtatt som en del av kongeriket Norge 14 aug 1925.

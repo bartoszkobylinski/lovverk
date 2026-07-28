@@ -15,7 +15,7 @@ xml_hash: "237feab16b5826fff22480faa3f3502eeb7b54284e352805300e742daaba7bb8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -132,7 +132,7 @@ Husbanken kan handsama dei personopplysningane som er nemnde i [§ 10](lov/2009-
 
 ## § 13. Ikraftsetjing o.a.
 
-Lova gjeld frå den tida Kongen fastset.1
+Lova gjeld frå den tida Kongen fastset.[^1]
 
 Frå same tid vert [lov 1. mars 1946 nr. 3](lov/1946-03-01-3) om Den Norske Stats Husbank oppheva.
 

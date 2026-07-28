@@ -15,7 +15,7 @@ xml_hash: "8d4aa8d209c30323deb6654aaf68352d3743091b76aa0871655584b34cde19d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,7 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 
 *Kapittel XIII. Forskjellige bestemmelser*
 
-- § 13-21 annet ledd nr. 2 og 3 om tilbakeholdsrett av luftfartøyer m.v.
+- § 13-2[^1] annet ledd nr. 2 og 3 om tilbakeholdsrett av luftfartøyer m.v.
 - § 13-3 om oppbevaring av drivstoff mv.
 
 > Endret ved [forskrift 5 des 2001 nr. 1342](forskrift/2001-12-05-1342) (i kraft 1 jan 2002).

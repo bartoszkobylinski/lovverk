@@ -15,7 +15,7 @@ xml_hash: "02b7fde152a33283eee921052376f257e77b394e191ac02529d95edea1c5a2f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32019L0770"
@@ -450,7 +450,7 @@ Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelser gitt 
 
 ### § 56. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.
 
 1 Fra 1. jan 2023 iflg. [res. 17 juni 2022 nr. 1034](forskrift/2022-06-17-1034).
 

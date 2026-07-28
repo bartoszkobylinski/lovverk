@@ -15,7 +15,7 @@ xml_hash: "7e00059c7f9a1cb67b711be3c1ab9816ddba16cba621fb10dfe17bc261ecda2a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ I [lov 20. juni 2025 nr. 100 om endringer i barnehageloven (styring og finansier
 
 ## VI
 
-1. Del I til IV gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
+1. Del I til IV gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
 2. Del V trer i kraft straks.
 
 1 Fra 19. juni 2026 for del III (barnehageloven) §§ 7a tredje ledd og 23a andre ledd og del IV (folkehøgskoleloven),

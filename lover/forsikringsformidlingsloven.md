@@ -15,7 +15,7 @@ xml_hash: "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016L0097"
@@ -512,7 +512,7 @@ Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen 
 
 ### § 11-1. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1. januar 2022 med unntak av [§ 9-2](lov/2021-12-22-163/§9-2) første ledd iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808). Se [forskrift 22 des 2021 nr. 3873](forskrift/2021-12-22-3873) for overgangsregler til [lov 10. juni 2005 nr. 41 om forsikringsformidling § 5-4](lov/2005-06-10-41/§5-4) og [§ 5-5](lov/2005-06-10-41/§5-5).
 Fra 1. juli 2022 for [§ 9-2](lov/2021-12-22-163/§9-2) første ledd, iflg. [res. 12 mai 2022 nr. 832](forskrift/2022-05-12-832).

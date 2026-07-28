@@ -15,7 +15,7 @@ xml_hash: "9a418245dd3f5e801f804b418ef13baafe3087150159f7510393b40b601fe826"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,6 +40,6 @@ Reinen skal i tillegg, og innen samme frist som i første ledd, merkes med indiv
 
 ## II
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Del I for så vidt gjelder endringer i [reindriftsloven § 18](lov/2007-06-15-40/§18) tredje ledd trer i kraft fra 1. januar 2020 iflg. [res. 21 juni 2019 nr. 785](forskrift/2019-06-21-785).

@@ -15,7 +15,7 @@ xml_hash: "889fcf1693e0a0fe9f58fcbc09be568d2a75e3727322f50bdbeb204cdebd0737"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -216,7 +216,7 @@ Vedtaksmyndighet etter [§ 1](lov/1963-11-15/§1) og myndighet til å sette fram
 
 ### § 25
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1 Kongen kan sette loven i kraft særskilt overfor enkelte av de stater som omfattes av loven.
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan sette loven i kraft særskilt overfor enkelte av de stater som omfattes av loven.
 
 Fra den tid loven er trådt i kraft i forhold til Danmark og Sverige, oppheves lov av 14. mai 1948 om når visse utlendske domar i straffesaker er bindande og kan fullførast o.a.
 

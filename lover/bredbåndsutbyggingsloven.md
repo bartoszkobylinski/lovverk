@@ -15,7 +15,7 @@ xml_hash: "dcaa4ed6b17b3ac574aa3556c8805bde6e9c54dc04f1ec1fbc3005ef772a54ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -289,7 +289,7 @@ Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:
 
 ### § 26. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2020, med unntak av kapittel 6 som trer i kraft når Kommunal- og moderniseringsdepartementet bestemmer, iflg. [res. 7 mai 2020 nr. 944](forskrift/2020-05-07-944).
 Fra 1 okt 2021 for kapittel 6 iflg. [res. 26 aug 2021 nr. 2589](forskrift/2021-08-26-2589).

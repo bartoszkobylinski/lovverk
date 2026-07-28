@@ -15,7 +15,7 @@ xml_hash: "5bc94cd46b2066ed70cba12aab0e70ba51fda87861b2298d49ec18f84c79aace"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32003L0004"
@@ -157,7 +157,7 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 2. har gitt oppdrag til organet eller kontrollerer organet som har gitt oppdrag til organet, eller
 3. har vedtatt forskriften eller har ansvar for loven som virksomheten tilbyr tjenesten i medhold av.
 
-(3) Reglene i offentlighetsloven1 om klage gjelder så langt de passer for klage over avslag på krav om miljøinformasjon fra offentlig organ.
+(3) Reglene i offentlighetsloven[^1] om klage gjelder så langt de passer for klage over avslag på krav om miljøinformasjon fra offentlig organ.
 
 1 Inkurie: Skal vel være offentleglova, se [lov 19 mai 2006 nr. 16 § 32](lov/2006-05-19-16/§32).
 
@@ -234,7 +234,7 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 
 ### § 21. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2004 iflg. [res. 5 des 2003 nr. 1431](forskrift/2003-12-05-1431).
 

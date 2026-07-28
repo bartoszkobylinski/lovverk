@@ -15,7 +15,7 @@ xml_hash: "85277de6911b2d856e7dbf3363bc96037a4a940b146a7c917361e190c0a6e2b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Klima- og miljødepartementet deleger med dette følgende myndighet til Longyear
 
     - Fastsette forskrift
 
-Delegeringen erstatter Klima- og miljødepartementets delegering gitt i brev 19. desember 20161 og delegering i [brev 9. juli 2002 nr. 5018](forskrift/2002-07-09-5018) av myndighet til å fastsette forskrifter om gebyrer og gjøre unntak fra reglene om gebyrer i gjeldende forskrift [§ 15](forskrift/2002-06-24-724/§15), jf. [§ 17](forskrift/2002-06-24-724/§17).
+Delegeringen erstatter Klima- og miljødepartementets delegering gitt i brev 19. desember 2016[^1] og delegering i [brev 9. juli 2002 nr. 5018](forskrift/2002-07-09-5018) av myndighet til å fastsette forskrifter om gebyrer og gjøre unntak fra reglene om gebyrer i gjeldende forskrift [§ 15](forskrift/2002-06-24-724/§15), jf. [§ 17](forskrift/2002-06-24-724/§17).
 
 Delegeringen trer i kraft 1. januar 2021.
 

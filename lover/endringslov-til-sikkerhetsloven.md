@@ -15,7 +15,7 @@ xml_hash: "5a1c6b2118eb3c87fe1fa0edb0265f51de36b854568fd04ae609ad649c7379bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,7 +51,7 @@ Nåværende andre til femte ledd blir tredje til nytt sjette ledd.
 
 ## II
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2023 for endringene i [sikkerhetsloven § 1-3](lov/2018-06-01-24/§1-3), [§ 2-1](lov/2018-06-01-24/§2-1) første ledd bokstav b og c, [§ 2-2](lov/2018-06-01-24/§2-2) andre ledd ny bokstav i, [§ 6-1](lov/2018-06-01-24/§6-1) første ledd, [§ 7-1](lov/2018-06-01-24/§7-1) første ledd, [§ 7-2](lov/2018-06-01-24/§7-2) første og andre ledd og ny [§ 7-6](lov/2018-06-01-24/§7-6) iflg. [res. 20 juni 2023 nr. 995](forskrift/2023-06-20-995).
 

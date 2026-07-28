@@ -15,7 +15,7 @@ xml_hash: "02f647df4dfbc65d6688c97eb61d4a4c353d7d4fe526f14cca28df9f05ce99c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Regnskapsmateriale som nevnt i første ledd nr. 1 til 4 skal oppbevares i Norge 
 
 ## VII
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Departementet kan gi overgangsregler.
 
 1 Fra 1. juli 2026 for [endringsloven del II](lov/2026-06-19-39/kapII)–[VI](lov/2026-06-19-39/kapVI),

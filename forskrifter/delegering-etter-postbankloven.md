@@ -15,7 +15,7 @@ xml_hash: "b7fcf20b86426d9f5e9aec2483c1a53ccd63696a78735f472c52346992f22776"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,7 +43,7 @@ eu_basis: []
 
    Myndigheten til departementet i § 7-3 (avholdelse av ekstraordinært årsmøte) legges til Samferdselsdepartementet.
 
-   Med departementet i § 10-21 (melding om likviditetssvikt) menes Finans- og tolldepartementet og Samferdselsdepartementet.
+   Med departementet i § 10-2[^1] (melding om likviditetssvikt) menes Finans- og tolldepartementet og Samferdselsdepartementet.
 
    Med departementet i § 12-1 annet ledd (tidspunkt for opphør av fortrinnsrett til annen statsstilling og ventelønn) menes Samferdselsdepartementet.
 

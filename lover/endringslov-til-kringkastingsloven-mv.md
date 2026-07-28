@@ -15,7 +15,7 @@ xml_hash: "9598495b8fdcad273ac1397edc1c7cb7a69e1735617457abfdc9baf4a8adca39"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32018L1808"
@@ -68,7 +68,7 @@ I [lov 15. mai 1987 nr. 21 om film og videogram](lov/1987-05-15-21) gjøres føl
 
 ## VII
 
-1. Loven gjelder fra den tiden Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tiden Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Loven får bare virkning for tilsyn og kontroll som gjennomføres etter ikrafttredelsen. Kongen kan gi overgangsbestemmelser.
 
 1 Fra 1. mai 2025 for endringsloven del I ([kringkastingsloven](lov/1992-12-04-127)) med unntak av ny [§§ 2-22](lov/1992-12-04-127/§2-22) og [2-23](lov/1992-12-04-127/§2-23), del II ([tobakksskadeloven](lov/1973-03-09-14)), del III ([alkoholloven](lov/1989-06-02-27)), del IV ([legemiddelloven](lov/1992-12-04-132)), del V ([bildeprogramloven](lov/2015-02-06-7)) iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601).

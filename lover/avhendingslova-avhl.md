@@ -15,7 +15,7 @@ xml_hash: "c2519b38ec7370c0f3069164c8ccd72b4c93e31b35fc79dc3e24a714e07c1329"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -497,7 +497,7 @@ Vert kjøpesummen eller annan uteståande sum ikkje betalt i tide, kan det krevj
 
 ### § 8-1. Ikraftsetjing
 
-(1) Lova gjeld frå den dagen Kongen fastset.1
+(1) Lova gjeld frå den dagen Kongen fastset.[^1]
 
 (2) Lova får berre verknad for avtaler som kjem i stand etter at ho tek til å gjelde. [§ 2-10](lov/1992-07-03-93/§2-10) gjeld likevel òg for eldre avtaler.
 

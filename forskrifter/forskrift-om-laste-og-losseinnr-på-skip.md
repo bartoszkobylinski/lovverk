@@ -15,7 +15,7 @@ xml_hash: "8bce25ffb79569d4cf79b630c7a85707db5aa1266d8d6a1680f6aa39b747d271"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ eu_basis: []
 
 I denne forskrift betyr:
 
-1. *Anerkjente standarder:* NS (Norsk Standard), NS-EN (Norsk Standard-European Norm), NS-ISO (Norsk Standard-International Standard Organisation) eller likeverdig internasjonal eller nasjonal standard eller regelverk godkjent av Sjøfartsdirektoratet.1
+1. *Anerkjente standarder:* NS (Norsk Standard), NS-EN (Norsk Standard-European Norm), NS-ISO (Norsk Standard-International Standard Organisation) eller likeverdig internasjonal eller nasjonal standard eller regelverk godkjent av Sjøfartsdirektoratet.[^1]
 2. *Eksisterende skip:* Skip, herunder lekter, som ikke er nytt skip. Likt med eksisterende skip regnes skip som innkjøpes fra utlandet.
 3. *Godkjent:* Et enkelt utstyr godkjent av Sjøfartsdirektoratet.
 4. *Laste- og losseinnretning:* Kran med kransøyle, fundament og underliggende struktur, herunder også proviantkran og maskinromstraverskran, samt mast med bom og vinsj med fast tilbehør som bomlager, topprepsfester, preventerfester og lignende tilhørende laste- og losseredskap.
@@ -383,7 +383,7 @@ Enhver kran med førerhus skal være utstyrt med lydsignal/horn for å varsle fa
 
 (7) Prøving og kontroll ifølge 1. og 6. ledd skal utføres av redskapsprodusent eller av autorisert verksted.
 
-(8) Etter prøve og kontroll skal en sakkyndig person utstede sertifikat på formular nr. 3 eller nr. 4 i kontrollbok for løfteinnretninger og laste- og losseredskaper på skip.1
+(8) Etter prøve og kontroll skal en sakkyndig person utstede sertifikat på formular nr. 3 eller nr. 4 i kontrollbok for løfteinnretninger og laste- og losseredskaper på skip.[^1]
 
 (9) Fabrikant eller forhandler som har fått sertifisert et parti redskap, skal ved salg av en del av partiet, levere kjøperen en kopi av originalsertifikatet, hvor de aktuelle redskaper er spesielt avmerket.
 

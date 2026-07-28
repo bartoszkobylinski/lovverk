@@ -15,7 +15,7 @@ xml_hash: "8c3737f782c5e119f60e5b32dc30379c0a7a811db6d52c8de6736d1af6b1cece"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -603,7 +603,7 @@ Straff etter første ledd kommer ikke til anvendelse på privatpersoner som søk
 
 ### § 7-6. Ikrafttredelse og overgangsordninger
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.
 
 Vedtak truffet med hjemmel i [lov 5. august 1994 nr. 56](lov/1994-08-05-56) om medisinsk bruk av bioteknologi skal fortsatt gjelde så langt de ikke strider mot loven her, eller mot forskrifter eller enkeltvedtak truffet i medhold av loven her.
 

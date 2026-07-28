@@ -15,7 +15,7 @@ xml_hash: "79786bdc119b550d53316b21579613887c45bed11c0945a8f51039d81b89dc49"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32019R0006"
@@ -590,7 +590,7 @@ Departementet bestemmer også hva som skal gjøres med narkotika som er å regne
 
 ### § 34
 
-Loven trer i kraft fra den tid EØS-avtalen trer i kraft for Norge.1
+Loven trer i kraft fra den tid EØS-avtalen trer i kraft for Norge.[^1]
 
 Fra den tid loven trer i kraft, oppheves [lov av 20. juni 1964 nr. 5](lov/1964-06-20-5) om legemidler m.v.
 

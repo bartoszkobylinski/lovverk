@@ -15,7 +15,7 @@ xml_hash: "8c1e1180e4441353c57b76d56e86b0320129b7447d84f936aab5f96fe710b11a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,6 +40,6 @@ Den som forsettlig eller uaktsomt overtrer forskrifter gitt i medhold av [§ 1](
 
 ## § 4.
 
-Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.1
+Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.[^1]
 
 1 Fra 7 juni 1974 iflg. [res. 7 juni 1974 nr. 1](forskrift/1974-06-07-1).

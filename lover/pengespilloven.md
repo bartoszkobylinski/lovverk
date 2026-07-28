@@ -15,7 +15,7 @@ xml_hash: "764002d1067cca918595ed244065e24edb7c3ba94b359796f8a4bc07d863a2fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -345,7 +345,7 @@ Grove overtredelser straffes med bøter eller fengsel inntil tre år. Ved avgjø
 
 ### § 38. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Fra samme tid oppheves følgende lover:
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Fra samme tid oppheves følgende lover:
 
 1. [lov 1. juli 1927 nr. 3 om veddemål ved totalisator](lov/1927-07-01-3)
 2. [lov 28. august 1992 nr. 103 om pengespill m.v](lov/1992-08-28-103).

@@ -15,7 +15,7 @@ xml_hash: "edd0d7a65ca3ddf3a54ac0174b781406e4acb9c02df3ee7cf329e5de5ce1f936"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Sjøfartsdirektoratet kan også, når sterke hensyn tilsier det, redusere eller 
 
 ## § 4. Utmåling av tvangsmulkt
 
-Rederi som ikke har etterkommet pålegg ilagt med hjemmel i [skipssikkerhetsloven § 49](lov/2007-02-16-9/§49) innen fastsatt tidsfrist, kan ilegges tvangsmulkt. For fartøy som nevnt i tabellen nedenfor ilegges tvangsmulkt i henhold til standardsatser per dag. Satsene er fastsatt i forhold til rettsgebyret (R):1
+Rederi som ikke har etterkommet pålegg ilagt med hjemmel i [skipssikkerhetsloven § 49](lov/2007-02-16-9/§49) innen fastsatt tidsfrist, kan ilegges tvangsmulkt. For fartøy som nevnt i tabellen nedenfor ilegges tvangsmulkt i henhold til standardsatser per dag. Satsene er fastsatt i forhold til rettsgebyret (R):[^1]
 
 | *Passasjerskip* | *12 passasjerer og færre* | *13-100 passasjerer* | *Over 100 passasjerer* |
 | --- | --- | --- | --- |

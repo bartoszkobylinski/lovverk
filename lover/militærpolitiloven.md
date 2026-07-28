@@ -15,7 +15,7 @@ xml_hash: "994428f394a0225cea0ea44bd15199bc6f60dac72027150f25d40a39fce36fd4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -314,7 +314,7 @@ Befal og offiserer kan foreta bevissikring og innledende undersøkelser når på
 
 ### § 28. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Fra den tid loven trer i kraft, oppheves [lov 20. mai 1988 nr. 33 om politimyndighet i forsvaret](lov/1988-05-20-33).
 

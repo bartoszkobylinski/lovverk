@@ -15,7 +15,7 @@ xml_hash: "0cd6e8a0ac522c140bfc2345ab7899f35cd89074c471f03dbb05c085ce1b0488"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## II
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Ny § 19-9 a gis virkning for personer som tar ut alderspensjon tidligst fra 1. januar 2011.
 

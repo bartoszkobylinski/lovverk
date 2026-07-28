@@ -15,7 +15,7 @@ xml_hash: "634548ba2fd44260724758fb38ebf3cf88526261476c72798b85a9d0d2bc9d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-20T06:43:18.748413+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017R2394"
@@ -371,7 +371,7 @@ Salg av alkoholholdig drikk gruppe 1 kan bare foretas på grunnlag av kommunal b
 
 AS Vinmonopolet kan ikke inneha bevilling til salg av alkoholholdig drikk som ikke omfattes av selskapets enerett etter første ledd eller tilvirkningsbevilling, og kan ikke drive engrossalg av alkoholholdig drikk. Bevilling til salg av alkoholholdig drikk med høyere alkoholinnhold enn 4,7 volumprosent til AS Vinmonopolet kan bare gis dersom det også gis bevilling til salg av annen alkoholholdig drikk i kommunen.
 
-AS Vinmonopolet skal ikke forskjellsbehandle leverandører og produkter på grunnlag av nasjonalitet eller opprinnelsesland. Departementet kan gi forskrifter om innkjøp, produktutvalg, leveringsbetingelser og prisfastsetting.1
+AS Vinmonopolet skal ikke forskjellsbehandle leverandører og produkter på grunnlag av nasjonalitet eller opprinnelsesland. Departementet kan gi forskrifter om innkjøp, produktutvalg, leveringsbetingelser og prisfastsetting.[^1]
 
 Det kan bare selges alkoholholdig drikk som er levert av en som har tilvirknings- eller salgsbevilling eller som kan drive engrossalg, eller som er innført eller tilvirket med hjemmel i [§ 3-1b](lov/1989-06-02-27/§3-1b) eller av AS Vinmonopolet med hjemmel i [§ 2-1](lov/1989-06-02-27/§2-1) annet ledd. AS Vinmonopolet kan likevel besørge auksjon av alkoholholdig drikk på vegne av personer uten rett til omsetning av alkoholholdig drikk. Departementet kan gi nærmere forskrifter om slik auksjon, herunder om gebyr.
 
@@ -946,7 +946,7 @@ Vedtak om overtredelsesgebyr ved brudd på reklameforbudene i [§§ 9-1](lov/198
 
 ### § 11-1. Lovens ikrafttredelse.
 
-Loven trer i kraft fra den tid Kongen bestemmer1.
+Loven trer i kraft fra den tid Kongen bestemmer[^1].
 
 1 Fra 1 jan 1990 iflg. [res. 22 sep 1989 nr. 947](forskrift/1989-09-22-947).
 
@@ -956,7 +956,7 @@ Salgs- og skjenkebevillinger gitt med hjemmel i [alkoholloven av 5. april 1927](
 
 Bestemmelsen i [§ 1-6](lov/1989-06-02-27/§1-6) får for brennevinsutsalgenes vedkommende anvendelse etter utløpet av bevillingsperioden den 31. desember 1991.
 
-Bestemmelsen i [§ 4-1](lov/1989-06-02-27/§4-1) får for brennevinsskjenkingens vedkommende den betydning at A/S Vinmonopolets skjenkebestyrere blir bevillingsinnehavere fra lovens ikrafttredelse.1
+Bestemmelsen i [§ 4-1](lov/1989-06-02-27/§4-1) får for brennevinsskjenkingens vedkommende den betydning at A/S Vinmonopolets skjenkebestyrere blir bevillingsinnehavere fra lovens ikrafttredelse.[^1]
 
 Bestemmelsen i [§ 4-2](lov/1989-06-02-27/§4-2) annet ledd får for kommunale bevillinger anvendelse etter utløpet av inneværende bevillingsperiode. For statlige bevillinger får bestemmelsen anvendelse 9 måneder etter lovens ikrafttredelse.
 

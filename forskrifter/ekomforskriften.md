@@ -15,7 +15,7 @@ xml_hash: "c469cb2c6d048609d39a2c0d7b0bad5918ede886cf38ebc3ed482a66656ce02b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -809,7 +809,7 @@ Klage over enkeltvedtak fattet av Nasjonal kommunikasjonsmyndighet etter denne f
 
 ### § 12-1. Ikrafttredelse
 
-Forskriften gjelder fra 1. januar 2025 med unntak av [§ 3-7](forskrift/2024-12-20-3410/§3-7), [§ 3-8](forskrift/2024-12-20-3410/§3-8) og [§ 4-15 første ledd andre punktum](forskrift/2024-12-20-3410/§4-15/ledd/1/setning/2), som trer i kraft når departementet bestemmer.1 Fra samme tidspunkt oppheves [forskrift 16. februar 2004 nr. 401 om elektronisk kommunikasjonsnett og elektronisk kommunikasjonstjeneste (ekomforskriften)](forskrift/2004-02-16-401) og [forskrift 3. oktober 2000 nr. 994 om konsesjon for tilbydere som har fått tillatelse til bruk av frekvenser etter teleloven kap. 5 til etablering og drift av samfunnsviktige telenett](forskrift/2000-10-03-994).
+Forskriften gjelder fra 1. januar 2025 med unntak av [§ 3-7](forskrift/2024-12-20-3410/§3-7), [§ 3-8](forskrift/2024-12-20-3410/§3-8) og [§ 4-15 første ledd andre punktum](forskrift/2024-12-20-3410/§4-15/ledd/1/setning/2), som trer i kraft når departementet bestemmer.[^1] Fra samme tidspunkt oppheves [forskrift 16. februar 2004 nr. 401 om elektronisk kommunikasjonsnett og elektronisk kommunikasjonstjeneste (ekomforskriften)](forskrift/2004-02-16-401) og [forskrift 3. oktober 2000 nr. 994 om konsesjon for tilbydere som har fått tillatelse til bruk av frekvenser etter teleloven kap. 5 til etablering og drift av samfunnsviktige telenett](forskrift/2000-10-03-994).
 
 1 [§ 4-15 første ledd andre punktum](forskrift/2024-12-20-3410/§4-15/ledd/1/setning/2) i kraft 1 juli 2026 ifølge vedtak [23 juni 2026 nr. 1357](forskrift/2026-06-23-1357).
 

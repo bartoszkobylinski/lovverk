@@ -15,7 +15,7 @@ xml_hash: "7f3b561b93a7b623516b8bca4823ab6d5157a832b959f58ae04c5c821339dbe4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -293,7 +293,7 @@ Kommunens vedtak etter denne lov kan påklages til statsforvalteren.
 
 ### § 28. Lovens ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.
+Loven trer i kraft fra det tidspunkt[^1] Kongen bestemmer.
 
 Fra samme tidspunkt gjøres følgende endringer:
 
@@ -303,9 +303,9 @@ Fra samme tidspunkt gjøres følgende endringer:
 
 ### § 29. Overgangsbestemmelse
 
-Loven gjelder også for den som har serveringsbevilling gitt med hjemmel i [lov av 3. juni 1983 nr. 52](lov/1983-06-03-52) om overnattings- og serveringssteder (hotelloven).1 Vedkommende kan fortsette virksomheten uten å søke om ny bevilling fra kommunen.
+Loven gjelder også for den som har serveringsbevilling gitt med hjemmel i [lov av 3. juni 1983 nr. 52](lov/1983-06-03-52) om overnattings- og serveringssteder (hotelloven).[^1] Vedkommende kan fortsette virksomheten uten å søke om ny bevilling fra kommunen.
 
-For den person som er styrer ved et igangværende serveringssted ved denne lovs ikrafttredelse2 gjøres det unntak fra kravet i [§ 5](lov/1997-06-13-55/§5). For øvrig må lovens krav om gjennomført etablererprøve i [§ 5](lov/1997-06-13-55/§5) være oppfylt senest seks måneder etter ikrafttredelsestidspunktet, med mindre departementet bestemmer noe annet.
+For den person som er styrer ved et igangværende serveringssted ved denne lovs ikrafttredelse[^2] gjøres det unntak fra kravet i [§ 5](lov/1997-06-13-55/§5). For øvrig må lovens krav om gjennomført etablererprøve i [§ 5](lov/1997-06-13-55/§5) være oppfylt senest seks måneder etter ikrafttredelsestidspunktet, med mindre departementet bestemmer noe annet.
 
 1 Inkurie: Opphevet.
 

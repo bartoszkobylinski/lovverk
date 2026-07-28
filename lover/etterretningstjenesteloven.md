@@ -15,7 +15,7 @@ xml_hash: "b2d0b168f97854db5b85977bf268455734e4732ddef8592455fb6a23a54029de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -709,7 +709,7 @@ Den som handler i strid med beslutning om tilrettelegging etter [§ 7-3](lov/202
 
 ### § 12-1. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+Loven trer i kraft fra det tidspunktet[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
 1 Fra 1 jan 2021 iflg. res. [10 nov 2020 nr. 2296](forskrift/2020-11-10-2296), med unntak av kapittel 7 og 8.
 Fra 1 jan 2022 for kapittel 7 og 8 iflg. res. [26 aug 2021 nr. 2581](forskrift/2021-08-26-2581), med unntak av [§ 7-3](lov/2020-06-19-77/§7-3).

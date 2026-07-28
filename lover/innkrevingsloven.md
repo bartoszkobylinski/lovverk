@@ -15,7 +15,7 @@ xml_hash: "28e63801d08f96de9edf47e357eca938b561777100c056069ddac9a4f8d23258"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -389,11 +389,11 @@ Innkrevingsmyndigheten gjennomfører utleggstrekk etablert av namsfogdene og utl
 
 ### § 40. Ikrafttredelse og overgangsbestemmelser
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer.
 
-(2) De enkelte bestemmelsene kan settes i kraft til ulik tid. Det kan fastsettes at bestemmelser skal tre i kraft til ulik tid for ulike skyldnere, namsmyndigheter, kreditorer, trekkpliktige og andre aktører, og for ulike krav.2
+(2) De enkelte bestemmelsene kan settes i kraft til ulik tid. Det kan fastsettes at bestemmelser skal tre i kraft til ulik tid for ulike skyldnere, namsmyndigheter, kreditorer, trekkpliktige og andre aktører, og for ulike krav.[^2]
 
-(3) Kongen kan gi overgangsbestemmelser.3
+(3) Kongen kan gi overgangsbestemmelser.[^3]
 
 1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
 Fra 1. januar 2027 for [innkrevingsloven § 21](lov/2025-04-25-12/§21) iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
@@ -404,7 +404,7 @@ Fra 1. januar 2027 for [innkrevingsloven § 21](lov/2025-04-25-12/§21) iflg. [r
 
 ### § 41. Endringer i tvangsfullbyrdelsesloven
 
-Fra den tid1 Kongen fastsetter, gjøres følgende endringer i [lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse](lov/1992-06-26-86): – – –
+Fra den tid[^1] Kongen fastsetter, gjøres følgende endringer i [lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse](lov/1992-06-26-86): – – –
 
 > Endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124).
 
@@ -412,7 +412,7 @@ Fra den tid1 Kongen fastsetter, gjøres følgende endringer i [lov 26. juni 1992
 
 ### § 42. Endringer i andre lover
 
-Fra den tid1 Kongen fastsetter, gjøres følgende endringer i andre lover: – – –
+Fra den tid[^1] Kongen fastsetter, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124).
 

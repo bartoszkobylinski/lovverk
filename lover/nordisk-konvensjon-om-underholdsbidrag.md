@@ -15,7 +15,7 @@ xml_hash: "0ca2f52a03362d747c412c90e0d227258c4c90ccbc74ee7f95f57a29b698707a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,7 +39,7 @@ Skal fullbyrdelse skje i annen kontraherende stat enn den hvor begjæringen ette
 - i *Danmark* av statsamtet (i København Overpræsidiet), eller, hvis det er uklart hvilket statsamt som er kompetent, av Justitsministeriet;
 - i *Finland* av vedkommende utmätningsman, eller, hvis det er uklart hvilken utmätningsman som er kompetent, av justitieministeriet;
 - i *Island* av justisministeriet;
-- i *Norge* av Folketrygdkontoret for utenlandssaker;1
+- i *Norge* av Folketrygdkontoret for utenlandssaker;[^1]
 - i *Sverige* av vedkommende kronofogdemyndighet, eller, hvis det er uklart hvilken kronofogdemyndighet som er kompetent, av Riksskatteverket.
 
 Begjæring om inndriving i annen kontraherende stat av bidrag som en myndighet forskuddsvis har utbetalt, kan denne myndighet oversende direkte til den myndighet i den annen stat som er angitt i annet ledd.
@@ -82,9 +82,9 @@ Konvensjonen her er ikke til hinder for anerkjennelse eller fullbyrding med hjem
 
 ## Art 7.
 
-Denne konvensjon skal ratifiseres, og ratifikasjonsdokumentene skal deponeres i det norske Utenriksdepartement så snart skje kan.1
+Denne konvensjon skal ratifiseres, og ratifikasjonsdokumentene skal deponeres i det norske Utenriksdepartement så snart skje kan.[^1]
 
-Konvensjonen trer i kraft den 1. januar eller den 1. juli som følger etter deponeringen av ratifikasjonsdokumentene.1 Ved konvensjonen oppheves konvensjon av 10. februar 1931 mellom de kontraherende stater om inndriving av underholdsbidrag, endret ved konvensjon av 1. april 1953.
+Konvensjonen trer i kraft den 1. januar eller den 1. juli som følger etter deponeringen av ratifikasjonsdokumentene.[^1] Ved konvensjonen oppheves konvensjon av 10. februar 1931 mellom de kontraherende stater om inndriving av underholdsbidrag, endret ved konvensjon av 1. april 1953.
 
 Enhver av statene kan i forhold til hver av de andre si opp konvensjonen med en frist av seks måneder til opphør den påfølgende 1. januar eller 1. juli.
 

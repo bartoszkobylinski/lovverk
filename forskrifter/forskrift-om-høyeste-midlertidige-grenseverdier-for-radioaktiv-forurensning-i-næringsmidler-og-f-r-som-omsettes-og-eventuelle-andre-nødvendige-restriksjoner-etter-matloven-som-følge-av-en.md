@@ -17,7 +17,7 @@ xml_hash: "e0e6e582de927c55e0cd5a629b59a398f4006f91abb24a506c92627caa809c52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -99,13 +99,13 @@ Denne forskriften trer i kraft straks.
 
 ## Vedlegg 1. Høyeste midlertidige grenseverdier for radioaktiv forurensning i næringsmidler, unntatt mindre viktige næringsmidler
 
-| *Isotopgruppe/næringsmiddelgruppe* | *Næringsmiddel (Bq/kg)*1 |  |  |  |
+| *Isotopgruppe/næringsmiddelgruppe* | *Næringsmiddel (Bq/kg)*[^1] |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | *Spedbarnsmat*2 | *Melke-<br>produkter*3 | *Andre næringsmidler, unntatt mindre viktige næringsmidler*4 | *Flytende næringsmidler, inkludert drikkevann*5 |
+|  | *Spedbarnsmat*[^2] | *Melke-<br>produkter*[^3] | *Andre næringsmidler, unntatt mindre viktige næringsmidler*[^4] | *Flytende næringsmidler, inkludert drikkevann*[^5] |
 | Sum av isotoper av strontium, særlig Sr-90 | 75 | 125 | 750 | 125 |
 | Sum av isotoper av jod, særlig I-131 | 150 | 500 | 2 000 | 500 |
 | Sum av alfaaktive plutonium- og transplutoniumisotoper, særlig Pu-239 og Am-241 | 1 | 20 | 80 | 20 |
-| Sum av alle andre nuklider med en halveringstid på mer enn ti dager, særlig Cs-134 og Cs-1376 | 400 | 1 000 | 1 250 | 1 000 |
+| Sum av alle andre nuklider med en halveringstid på mer enn ti dager, særlig Cs-134 og Cs-137[^6] | 400 | 1 000 | 1 250 | 1 000 |
 
 1 Verdien som gjelder for konsentrerte eller tørkede produkter, beregnes på grunnlag av det rekonstituerte forbruksklare produktet.
 
@@ -165,7 +165,7 @@ Denne forskriften trer i kraft straks.
 | Sum av isotoper av strontium, særlig Sr-90 | 7 500 |
 | Sum av isotoper av jod, særlig I-131 | 20 000 |
 | Sum av alfaaktive plutonium- og transplutoniumisotoper, særlig Pu-239 og Am-241 | 800 |
-| Sum av alle andre nuklider med en halveringstid på mer enn ti dager, særlig Cs-134 og Cs-1371 | 12 500 |
+| Sum av alle andre nuklider med en halveringstid på mer enn ti dager, særlig Cs-134 og Cs-137[^1] | 12 500 |
 
 1 Karbon-14, tritium og kalium-40 er ikke omfattet av denne gruppen.
 
@@ -173,7 +173,7 @@ Denne forskriften trer i kraft straks.
 
 For summen av cesium-134 og cesium-137 gjelder følgende høyeste midlertidige grenseverdier for radioaktiv forurensning i fôr:
 
-| *Fôr til* | *Bq/kg*1 2 |
+| *Fôr til* | *Bq/kg*[^1] [^2] |
 | --- | --- |
 | Svin | 1 250 |
 | Fjærkre, lam, kalver | 2 500 |

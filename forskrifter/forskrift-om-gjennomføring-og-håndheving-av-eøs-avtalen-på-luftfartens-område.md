@@ -15,7 +15,7 @@ xml_hash: "a4148ccad0ea3ec16909f839193a8a0ce14e023b251e6c5845400641f87d9b98"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,9 @@ eu_basis: []
 
 Følgende regler i EØS-avtalen Vedlegg XIII, [kapittel VI](lov/1992-11-27-109/kap6) – Sivil luftfart, gjelder som forskrift med de endringer og tillegg som følger av vedlegget selv, protokoll 1 til avtalen og avtalen ellers:
 
-1. 1 Vedlegget pkt. 62 (Rådsforordning [(EØF) nr. 2342/90](eu/31990r2342) av 24. juli 1990) om luftfartsselskapers adgang til å delta i ruteflyging innenfor EØS og om deling av setekapasiteten mellom luftfartsselskaper på ruteflyginger mellom EØS-statene.
+1. [^1] Vedlegget pkt. 62 (Rådsforordning [(EØF) nr. 2342/90](eu/31990r2342) av 24. juli 1990) om luftfartsselskapers adgang til å delta i ruteflyging innenfor EØS og om deling av setekapasiteten mellom luftfartsselskaper på ruteflyginger mellom EØS-statene.
 2. – – –
-3. 1 Vedlegget pkt. 64 (Rådsforordning [(EØF) nr. 294/91](eu/31991r0294) av 4. februar 1991) om fraktflyging mellom EØS-statene.
+3. [^1] Vedlegget pkt. 64 (Rådsforordning [(EØF) nr. 294/91](eu/31991r0294) av 4. februar 1991) om fraktflyging mellom EØS-statene.
 4. – – –
 5. – – –
 

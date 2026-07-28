@@ -15,7 +15,7 @@ xml_hash: "461c1b9d003d4d0ba7d3368de2b48966fe58f65f26497b374ad3c5f4ab9f0f8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,6 +36,6 @@ Kongen gir forskrift med kriterier for tildeling av langtidsopphold i sykehjem e
 
 ## III
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Del I § 2-1e første ledd, II § 3-2a første og andre ledd og III trer i kraft 1 juli 2016 iflg. [res. 17 juni 2016 nr. 729](forskrift/2016-06-17-729). Del I § 2-1e andre ledd og § 2-7 andre ledd nytt andre punktum og del II § 3-2a fjerde ledd trer i kraft 1 juli 2017 iflg. [res. 2 juni 2017 nr. 745](forskrift/2017-06-02-745).

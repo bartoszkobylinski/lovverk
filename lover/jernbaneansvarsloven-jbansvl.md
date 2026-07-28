@@ -15,7 +15,7 @@ xml_hash: "63d4b54c827d863d3c1b69c21c5e025a20b45097f23bc07b5a54c10f39ce2679"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ eu_basis: []
 
 Bestemmelsene i loven her gjelder jernbanens erstatningsansvar ved personskade og skade på reisegods m.v. Med jernbane forstås innretning for motordrevet transport på skinner, således også tunnelbane, forstadsbane, kabelbane og sporveg.
 
-Krav på erstatning etter loven her kan bare rettes mot den1 som driver trafikkvirksomheten, se [jernbaneloven § 3](lov/1993-06-11-100/§3).
+Krav på erstatning etter loven her kan bare rettes mot den[^1] som driver trafikkvirksomheten, se [jernbaneloven § 3](lov/1993-06-11-100/§3).
 
 Kongen kan ved forskrift bestemme at loven helt eller delvis ikke skal gjelde i visse høve. Han kan også gi forskrift om at loven helt eller delvis skal gjelde ved personbefordring med taubane, herunder skitrekk.
 
@@ -152,7 +152,7 @@ Reglene om jernbanens innsigelser og om grensen for ansvar gjelder tilsvarende n
 
 ### § 15
 
-Loven tar til å gjelde fra det tidspunkt Kongen bestemmer1.
+Loven tar til å gjelde fra det tidspunkt Kongen bestemmer[^1].
 
 > Endret ved [lov 21 mai 1999 nr. 31](lov/1999-05-21-31), tidligere § 12.
 

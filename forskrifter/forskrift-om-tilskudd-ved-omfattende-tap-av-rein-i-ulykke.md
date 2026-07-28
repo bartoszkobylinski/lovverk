@@ -15,7 +15,7 @@ xml_hash: "b5224059d2032f257b220b8874128b86a687464d443b9315b572c7c8d4e12c78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Tilskudd kan innvilges den enkelte siidaandel/reinlag dersom følgende vilkår e
 4. tapte rein etter bokstav c er dokumentert i henhold til [§ 4](forskrift/2026-06-22-1181/§4),
 5. siidaandelen/reinlaget har varslet tapet umiddelbart til statsforvalteren. Siidaandelen må i tillegg ha varslet tapet til distriktsstyret,
 6. siidaandelen/reinlaget har iverksatt alle nødvendige tiltak for å forebygge/begrense tapet,
-7. siidaandelen/reinlaget har mottatt produksjonspremie1 eller etableringstilskudd2 i minst ett av de tre foregående driftsårene, og
+7. siidaandelen/reinlaget har mottatt produksjonspremie[^1] eller etableringstilskudd[^2] i minst ett av de tre foregående driftsårene, og
 8. siidaandelens reintall i driftsåret oppfyller vilkår for tilskudd etter [forskrift om tilskudd til siidaandeler og reinlag § 4](forskrift/2019-06-20-865/§4).
 
 Hvis flere siidaandeler blir berørt av samme ulykke og det ikke er mulig å fastslå hvem som eier reinen, kan tilskudd innvilges til reinbeitedistriktet eller siidaen. I slike tilfeller skal reinbeitedistriktet eller siidaen fordele tilskuddet mellom de berørte siidaandelene som oppfyller vilkår for tilskudd, jf. første ledd.

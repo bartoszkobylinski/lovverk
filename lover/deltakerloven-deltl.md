@@ -15,7 +15,7 @@ xml_hash: "693e0c7a7fe80a0f5d296fc7733b1e25433f8224601d89e1272f9a24297bd90f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -348,7 +348,7 @@ Når lovlig og ulovlig fangst er blandet sammen, kan hele fangsten inndras.
 
 ### § 32. Ikrafttredelse m.v.
 
-1. Denne lov trer i kraft fra den tid1 Kongen bestemmer.
+1. Denne lov trer i kraft fra den tid[^1] Kongen bestemmer.
 2. Fra samme tid oppheves følgende lover:
 
    - [Lov av 16. juni 1939 nr. 7](lov/1939-06-16-7) om fangst av hval.
@@ -357,7 +357,7 @@ Når lovlig og ulovlig fangst er blandet sammen, kan hele fangsten inndras.
    - [Lov av 16. juni 1972 nr. 57](lov/1972-06-16-57) om regulering av deltagelsen i fisket.
 3. Forskrifter og vedtak fastsatt i medhold av lover nevnt i nr. 2, gjelder inntil noe annet blir bestemt i medhold av loven her.
 4. Bestemmelser gitt i medhold av mellombels [lov av 29. juni 1956 nr. 8](lov/1956-06-29-8) om eigedomsretten til fiske- og fangstfarkoster, skal fortsatt gjelde inntil de oppheves eller avløses av bestemmelser gitt i medhold av denne lov.
-5. [Lov av 5. desember 1917 nr. 1](lov/1917-12-05-1) om registrering og merking av fiskefartøyer §§ 1 og 2 oppheves. [Lovens §§ 3](lov/1999-03-26-15/§3) flg. gjelder inntil de oppheves av Kongen.2
+5. [Lov av 5. desember 1917 nr. 1](lov/1917-12-05-1) om registrering og merking av fiskefartøyer §§ 1 og 2 oppheves. [Lovens §§ 3](lov/1999-03-26-15/§3) flg. gjelder inntil de oppheves av Kongen.[^2]
 6. Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88) (tidligere § 30).

@@ -15,7 +15,7 @@ xml_hash: "fc4d853d3ba0c832e367450cee7e0a00c8e4574a3210d41d2ba06c068646bbf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,6 +46,6 @@ Loven gjelder her i riket, herunder Svalbard.
 
 ## § 4.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2002 iflg. [res. 15 juni 2001 nr. 667](forskrift/2001-06-15-667).

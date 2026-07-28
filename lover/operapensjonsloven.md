@@ -15,7 +15,7 @@ xml_hash: "2440bc5379672b40e829577240f2590733ad7249a166c7498a3951d03145eb5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ Kongen kan gi forskrifter om utbetalingstidspunktet for oppsatt pensjon som avvi
 
 ## § 6. Ikrafttredelse. Overgangsregler
 
-Denne loven trer i kraft fra den tiden Kongen bestemmer.1 Den tiden ballettdanseren, sangsolisten eller korsangeren har vært omfattet av den tidligere avtalebaserte pensjonsordningen for det kunstneriske personalet ved Den Norske Opera & Ballett, regnes som pensjonsgivende tjenestetid etter denne loven. Loven griper ikke inn i rettigheter opptjent før loven trer i kraft. Kongen kan gi nærmere overgangsregler.
+Denne loven trer i kraft fra den tiden Kongen bestemmer.[^1] Den tiden ballettdanseren, sangsolisten eller korsangeren har vært omfattet av den tidligere avtalebaserte pensjonsordningen for det kunstneriske personalet ved Den Norske Opera & Ballett, regnes som pensjonsgivende tjenestetid etter denne loven. Loven griper ikke inn i rettigheter opptjent før loven trer i kraft. Kongen kan gi nærmere overgangsregler.
 
 > Endret ved [lov 17 des 2010 nr. 79](lov/2010-12-17-79) (ikr. 1 jan 2011).
 

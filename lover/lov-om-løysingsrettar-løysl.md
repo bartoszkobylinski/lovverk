@@ -15,7 +15,7 @@ xml_hash: "577f78331752eabdf7ce1eedcad4f00436edd6fec30c06d165971c62eccad55f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -191,7 +191,7 @@ Skjønnet vert styrt av jordskifteretten.
 
 ## § 23. Ikraftsetjing
 
-Lova tek til å gjelde frå den dagen Kongen1 fastset.
+Lova tek til å gjelde frå den dagen Kongen[^1] fastset.
 
 Lova gjeld ikkje for løysingsrettar der løysingskrav er framsett før lova har teke til å gjelde.
 

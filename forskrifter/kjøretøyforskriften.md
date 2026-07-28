@@ -15,7 +15,7 @@ xml_hash: "6026627b47e8b185490c55ea161309c9fc55ae75ab7318e7dec4bd0dce3712ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -373,8 +373,8 @@ Traktor deles inn i klasser som nevnt nedenfor, og klassen skal fremgå av vognk
 
 *Klasse T, hjultraktor:*
 
-- *Klasse T1:* Hjultraktor med konstruktivt bestemt maksimalhastighet på maksimalt 40 km/t, minste sporvidde for den akselen, som er nærmest føreren1 på 1.150 mm eller over, tjenestemasse over 600 kg og frihøyde 1.000 mm eller mindre.
-- *Klasse T2:* Hjultraktor med konstruktivt bestemt maksimalhastighet ikke over 40 km/t, minste sporvidde under 1.150 mm, tjenestemasse over 600 kg og frihøyde ikke over 600 mm. Når høyden av traktorens tyngdepunkt2 (målt i forhold til jorden) dividert med den gjennomsnittlige minimumssporvidden av hver aksel er over 0,90, er den konstruktivt bestemte maksimalhastighet begrenset til 30 km/t.
+- *Klasse T1:* Hjultraktor med konstruktivt bestemt maksimalhastighet på maksimalt 40 km/t, minste sporvidde for den akselen, som er nærmest føreren[^1] på 1.150 mm eller over, tjenestemasse over 600 kg og frihøyde 1.000 mm eller mindre.
+- *Klasse T2:* Hjultraktor med konstruktivt bestemt maksimalhastighet ikke over 40 km/t, minste sporvidde under 1.150 mm, tjenestemasse over 600 kg og frihøyde ikke over 600 mm. Når høyden av traktorens tyngdepunkt[^2] (målt i forhold til jorden) dividert med den gjennomsnittlige minimumssporvidden av hver aksel er over 0,90, er den konstruktivt bestemte maksimalhastighet begrenset til 30 km/t.
 - *Klasse T3:* Hjultraktor med konstruktivt bestemt maksimalhastighet ikke over 40 km/t og tjenestemasse på 600 kg eller derunder.
 - *Klasse T4:* Hjultraktor til særlige formål med en konstruktivt bestemt maksimalhastighet ikke over 40 km/t (jf. definisjonen i tillegg 1 til direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066) og direktiv [2005/67/EF](eu/32005l0067)).
 - *Klasse T5:* Hjultraktor med en konstruktivt bestemt maksimalhastighet over 40 km/t.
@@ -3000,7 +3000,7 @@ Dersom sporvidden endres mer enn 15 mm – dvs. at felgenes innpresning endres m
 
    Grenseverdiene for personbildekk (C1) i dB(A) er:
 
-   | Dekk kl. | Nominell dekk-bredde (mm) | A |  | B1 |  | C1 2 |
+   | Dekk kl. | Nominell dekk-bredde (mm) | A |  | B[^1] |  | C[^1] [^2] |
    | --- | --- | --- | --- | --- | --- | --- |
    | C1a | ≤145 | til 30. juni 2007 | 72 | fra 1. juli 2007 | 71 | 70 |
    | C1b | >145≤165 | til 30. juni 2007 | 73 | fra 1. juli 2007 | 72 | 71 |
@@ -4764,11 +4764,11 @@ Ettermontering av avgassetterbehandlingsutstyr (f.eks. 3-veis katalysator og par
 
    Følgende biler, som tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) senest endret ved direktiv [98/69/EF](eu/31998l0069*), skal tilfredsstille de strengere grenseverdiene angitt over:
 
-   | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Biler med bensinmotor registrert første gang fra og med*3 |
+   | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Biler med bensinmotor registrert første gang fra og med*[^3] |
    | --- | --- | --- | --- |
-   | M1 | – | TTV1 ≤ 2500 | 1. januar 2001 |
+   | M1 | – | TTV[^1] ≤ 2500 | 1. januar 2001 |
    |  |  | TTV > 2500 | 1. januar 2002 |
-   | N1 | I | RV2 ≤ 1305 | 1. januar 2001 |
+   | N1 | I | RV[^2] ≤ 1305 | 1. januar 2001 |
    |  | II | 1305 < RV ≤ 1760 | 1. januar 2002 |
    |  | III | 1760 < RV | 1. januar 2002 |
 
@@ -4786,11 +4786,11 @@ Absorpsjonskoeffisienten målt med opasimeter ved fri akselerasjon, skal ikke ov
 
 Følgende biler, som tilfredsstiller direktiv [70/220/EØF](eu/31970l0220*) senest endret ved direktiv [98/69/EF](eu/31998l0069*) trinn B («Euro 4, lette») eller kjøretøy med dieselmotor som tilfredsstiller direktiv [88/77/EØF](eu/31988l0077), senest endret ved direktiv [1999/96/EF](eu/31999l0096) trinn B1, B2 eller C («Euro 4, tunge», «Euro 5, tunge» eller Enhanced Environmentally Vehicle, EEV), skal tilfredsstille de strengere grenseverdiene over:
 
-| *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Ikrafttredelser for biler med dieselmotor (Euro 4, 5)*3 |
+| *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Ikrafttredelser for biler med dieselmotor (Euro 4, 5)*[^3] |
 | --- | --- | --- | --- |
-| M1 | – | TTV1 ≤ 2500<br>2500 < TTV≤ 3500 | 1. januar 2006<br>1. januar 2007 |
+| M1 | – | TTV[^1] ≤ 2500<br>2500 < TTV≤ 3500 | 1. januar 2006<br>1. januar 2007 |
 | M2, M3 | – | TTV > 3500 | 1. oktober 2006 |
-| N1 | I<br>II<br>III | RV2 ≤ 1305<br>1305 < RV≤ 1760<br>1760 < RV | 1. januar 2006<br>1. januar 2007<br>1. januar 2007 |
+| N1 | I<br>II<br>III | RV[^2] ≤ 1305<br>1305 < RV≤ 1760<br>1760 < RV | 1. januar 2006<br>1. januar 2007<br>1. januar 2007 |
 | N2, N3 | – | TTV > 3500 | 1. oktober 2006 |
 
 1 Tillatt totalvekt.
@@ -4874,8 +4874,8 @@ Grenseverdier i henhold til direktiv [70/220/EØF](eu/31970l0220*) som endret ve
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Kategori/<br>klasse* |  | *Referansevekt,<br>kg* | *CO<br>g/km* |  | *HC<br>g/km* | *NOx<br>g/km* |  | *HC + NOx<br>g/km* | *Partikler<br>g/km* |
 | *Kat.* | *Kl.* |  | *Bensin* | *Diesel* | *Bensin* | *Bensin* | *Diesel* | *Diesel* | *Diesel* |
-| M1 | – | alle | 1,0 | 0,50 | 0,10 | 0,08 | 0,25 | 0,30 | 0,025 |
-| N1 2 | I | RV ≤ 1.305 | 1,0 | 0,50 | 0,10 | 0,08 | 0,25 | 0,30 | 0,025 |
+| M[^1] | – | alle | 1,0 | 0,50 | 0,10 | 0,08 | 0,25 | 0,30 | 0,025 |
+| N1 [^2] | I | RV ≤ 1.305 | 1,0 | 0,50 | 0,10 | 0,08 | 0,25 | 0,30 | 0,025 |
 |  | II | 1.305 < RV<br>≤ 1.760 | 1,81 | 0,63 | 0,13 | 0,10 | 0,33 | 0,39 | 0,04 |
 |  | III | 1.760 < RV | 2,27 | 0,74 | 0,16 | 0,11 | 0,39 | 0,46 | 0,06 |
 
@@ -4896,9 +4896,9 @@ Direktiv [98/69/EF](eu/31998l0069*), «Euro 4, lette»:
 | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Ikrafttredelser for* |  |
 | --- | --- | --- | --- | --- |
 | *Kat.* | *Klas.* |  | *Typegodkjenning* | *Registrering* |
-| M1 | – | TTV1 ≤ 2.500 | 1. januar 2005 | 1. januar 2006 |
+| M1 | – | TTV[^1] ≤ 2.500 | 1. januar 2005 | 1. januar 2006 |
 |  |  | TTV > 2.500 | 1. januar 2006 | 1. januar 2007 |
-| N1 | I | RV2 ≤ 1.305 | 1. januar 2005 | 1. januar 2006 |
+| N1 | I | RV[^2] ≤ 1.305 | 1. januar 2005 | 1. januar 2006 |
 |  | II | 1.305 < RV ≤ 1.760 | 1. januar 2006 | 1. januar 2007 |
 |  | III | 1.760< RV | 1. januar 2006 | 1. januar 2007 |
 
@@ -4921,9 +4921,9 @@ Biler som underkastes typegodkjenning og/eller skal registreres, skal fra tidspu
 | --- | --- | --- | --- | --- | --- | --- |
 | *Kat./kl.* |  | *Kjt. vekt, kg* | *Diesel ([1999/102/EF](eu/31999l0102))* |  | *LPG og naturgass ([2001/1/EF](eu/32001l0001))* |  |
 | *Kat.* | *Kl.* |  | *Typ.* | *Reg.* | *Typ.* | *Reg.* |
-| M1 | – | TTV2 ≤2500 | 1. januar 2003<br>1. januar 20051 | 1. januar 2004<br>1. januar 20061 | 1. januar 2003 | 1. januar 2004 |
+| M1 | – | TTV[^2] ≤2500 | 1. januar 2003<br>1. januar 2005[^1] | 1. januar 2004<br>1. januar 2006[^1] | 1. januar 2003 | 1. januar 2004 |
 |  |  | TTV>2500 | 1. januar 2006 | 1. januar 2007 | 1. januar 2006 | 1. januar 2007 |
-| N1 | I | RV3 ≤1305 | 1. januar 2005 | 1. januar 2006 | 1. januar 2003 | 1. januar 2004 |
+| N1 | I | RV[^3] ≤1305 | 1. januar 2005 | 1. januar 2006 | 1. januar 2003 | 1. januar 2004 |
 |  | II | 1305<RV≤1760 | 1. januar 2006 | 1. januar 2007 | 1. januar 2006 | 1. januar 2007 |
 |  | III | 1760<RV | 1. januar 2006 | 1. januar 2007 | 1. januar 2006 | 1. januar 2007 |
 
@@ -4939,10 +4939,10 @@ Direktiv [2002/80/EF](eu/32002l0080) artikkel 2 og direktiv [2003/76/EF](eu/3200
 
 | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Ikrafttredelser for* |  |  |
 | --- | --- | --- | --- | --- | --- |
-| *Kat.* | *Klas.* |  | *Typegodkjenning [2002/80/EF](eu/32002*0080)* | *Typegodkjenning [2003/76/EF](eu/32003l0076)* | *Registrering3 [2003/76/EF](eu/32003l0076)* |
-| M1 | – | TTV1 ≤2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
+| *Kat.* | *Klas.* |  | *Typegodkjenning [2002/80/EF](eu/32002*0080)* | *Typegodkjenning [2003/76/EF](eu/32003l0076)* | *Registrering[^3] [2003/76/EF](eu/32003l0076)* |
+| M1 | – | TTV[^1] ≤2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
 |  |  | TTV>2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
-| N1 | I | RV2 ≤1305 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
+| N1 | I | RV[^2] ≤1305 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
 |  | II | 1305<RV≤1760 | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 |  | III | 1760<RV | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 
@@ -5008,8 +5008,8 @@ Grenseverdier i henhold til direktiv [70/220/EØF](eu/31970l0220*) som endret ve
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Kategori/<br>klasse* |  | *Referansevekt,<br>kg* | *CO<br>g/km* |  | *HC<br>g/km* | *NOx<br>g/km* |  | *HC + NOx<br>g/km* | *Partikler<br>g/km* |
 | *Kat.* | *Kl.* |  | *Bensin* | *Diesel* | *Bensin* | *Bensin* | *Diesel* | *Diesel* | *Diesel* |
-| M1 | – | alle | 2,3 | 0,64 | 0,20 | 0,15 | 0,50 | 0,56 | 0,05 |
-| N1 2 | I | RV ≤ 1.305 | 2,3 | 0,64 | 0,20 | 0,15 | 0,50 | 0,56 | 0,05 |
+| M[^1] | – | alle | 2,3 | 0,64 | 0,20 | 0,15 | 0,50 | 0,56 | 0,05 |
+| N1 [^2] | I | RV ≤ 1.305 | 2,3 | 0,64 | 0,20 | 0,15 | 0,50 | 0,56 | 0,05 |
 |  | II | 1.305 < RV<br>≤ 1.760 | 4,17 | 0,80 | 0,25 | 0,18 | 0,65 | 0,72 | 0,07 |
 |  | III | 1.760 < RV | 5,22 | 0,95 | 0,29 | 0,21 | 0,78 | 0,86 | 0,10 |
 
@@ -5055,11 +5055,11 @@ Bilene kjøres på bensin i bysyklusdelen av type I-prøvesyklusen ved -7 °C me
 
 Grenseverdier og ikrafttredelser for gjennomføring av lavtemperaturprøve (-7 ° C) under typegodkjenning (direktiv [2001/100/EF](eu/32001l0100)):
 
-| *Kat.* | *Kl.* | *Ref. vekt,3 kg* | *CO, g/km* | *HC, g/km* | *Ikrafttr. typegodkj.* |
+| *Kat.* | *Kl.* | *Ref. vekt,[^3] kg* | *CO, g/km* | *HC, g/km* | *Ikrafttr. typegodkj.* |
 | --- | --- | --- | --- | --- | --- |
-| M1 1 | – | alle1 | 15 | 1.8 | 1. januar 2002 |
+| M1 [^1] | – | alle[^1] | 15 | 1.8 | 1. januar 2002 |
 | N1 | I | RV ≤ 1305 | 15 | 1.8 | 1. januar 2002 |
-| N1 2 | II | 1305 < RV ≤ 1760 | 24 | 2.7 | 1. januar 2003 |
+| N1 [^2] | II | 1305 < RV ≤ 1760 | 24 | 2.7 | 1. januar 2003 |
 |  | III | 1760 < RV | 30 | 3.2 | 1. januar 2003 |
 
 1 Unntatt:
@@ -5081,11 +5081,11 @@ Systemet skal greie å identifisere sannsynlige områder hvor ev. feil finnes ve
 
 OBD-systemet skal kunne oppdage feil som medfører at utslippet overstiger/har oversteget grensene satt under:
 
-| *Kategori/<br>klasse* |  | *(RV)<br>(kg)* | *(CO)<br>(g/km)* |  | *(HC)<br>(g/km)* |  | *(NOx )<br>(g/km)* |  | *(PM)1<br>(g/km)* |
+| *Kategori/<br>klasse* |  | *(RV)<br>(kg)* | *(CO)<br>(g/km)* |  | *(HC)<br>(g/km)* |  | *(NOx )<br>(g/km)* |  | *(PM)[^1]<br>(g/km)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Kategori* | *Kl.* |  | *Bensin/gass* | *Diesel* | *Bensin/gass* | *Diesel* | *Bensin/gass* | *Diesel* | *Diesel* |
-| M2 | – | alle | 3,20 | 3,20 | 0,40 | 0,40 | 0,60 | 1,20 | 0,18 |
-| N1 3 4 | I | RV ≤ 1.305 | 3,20 | 3,20 | 0,40 | 0,40 | 0,60 | 1,20 | 0,18 |
+| M[^2] | – | alle | 3,20 | 3,20 | 0,40 | 0,40 | 0,60 | 1,20 | 0,18 |
+| N1 [^3] [^4] | I | RV ≤ 1.305 | 3,20 | 3,20 | 0,40 | 0,40 | 0,60 | 1,20 | 0,18 |
 |  | II | 1.305 < RV<br>≤ 1.760 | 5,80 | 4,00 | 0,50 | 0,50 | 0,70 | 1,60 | 0,23 |
 |  | III | 1.760 < RV | 7,30 | 4,80 | 0,60 | 0,60 | 0,80 | 1,90 | 0,28 |
 
@@ -5125,9 +5125,9 @@ Direktiv [98/69/EF](eu/31998l0069*), «Euro 3, lette»
 | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Ikrafttredelser for* |  |
 | --- | --- | --- | --- | --- |
 | *Kat.* | *Klas.* |  | *Typegodkjenning* | *Registrering* |
-| M1 | – | TTV1 ≤ 2.500 | 1. januar 2000 | 1. januar 2001 |
+| M1 | – | TTV[^1] ≤ 2.500 | 1. januar 2000 | 1. januar 2001 |
 |  |  | TTV > 2.500 | 1. januar 2001 | 1. januar 2002 |
-| N1 | I | RV2 ≤ 1.305 | 1. januar 2000 | 1. januar 2001 |
+| N1 | I | RV[^2] ≤ 1.305 | 1. januar 2000 | 1. januar 2001 |
 |  | II | 1.305 < RV ≤ 1.760 | 1. januar 2001 | 1. januar 2002 |
 |  | III | 1.760< RV | 1. januar 2001 | 1. januar 2002 |
 
@@ -5151,9 +5151,9 @@ Biler som underkastes typegodkjenning og/eller skal registreres, skal fra tidspu
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Kat./kl.* |  | *Kjt. vekt, kg* | *Bensin [98/69/EF](eu/31998l0069*)* |  | *Diesel [1999/102/EF](eu/31999l0102)* |  | *LPG og naturgass [2001/1/EF](eu/32001l0001)* |  |
 | *Kat.* | *Kl.* |  | *Typ.* | *Reg.* | *Typ.* | *Reg.* | *Type* | *Reg.* |
-| M1 | – | TTV2 ≤2500 | 1/1-2000 | 1/1-2001 | 1/1-2003<br>1/1-20051 | 1/1-2004<br>1/1-20061 | 1/1-2003 | 1/1-2004 |
+| M1 | – | TTV[^2] ≤2500 | 1/1-2000 | 1/1-2001 | 1/1-2003<br>1/1-2005[^1] | 1/1-2004<br>1/1-2006[^1] | 1/1-2003 | 1/1-2004 |
 |  |  | TTV>2500 | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007 |
-| N1 | I | RV3 ≤1305 | 1/1-2000 | 1/1-2001 | 1/1-2005 | 1/1-2006 | 1/1-2003 | 1/1-2004 |
+| N1 | I | RV[^3] ≤1305 | 1/1-2000 | 1/1-2001 | 1/1-2005 | 1/1-2006 | 1/1-2003 | 1/1-2004 |
 |  | II | 1305<RV≤1760 | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007 |
 |  | III | 1760<RV | 1/1-2001 | 1/1-2002 | 1/1-2006 | 1/1-2007 | 1/1-2006 | 1/1-2007 |
 
@@ -5169,10 +5169,10 @@ Direktiv [2002/80/EF](eu/32002l0080) artikkel 2 og direktiv [2003/76/EF](eu/3200
 
 | *Kategori/klasse* |  | *Kjøretøyvekt, kg* | *Ikrafttredelser for* |  |  |
 | --- | --- | --- | --- | --- | --- |
-| *Kat.* | *Klas.* |  | *Typegodkjenning [2002/80/EF](eu/32002*0080)* | *Typegodkjenning [2003/76/EF](eu/32003l0076)* | *Registrering3 [2003/76/EF](eu/32003l0076)* |
-| M1 | – | TTV1 ≤2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
+| *Kat.* | *Klas.* |  | *Typegodkjenning [2002/80/EF](eu/32002*0080)* | *Typegodkjenning [2003/76/EF](eu/32003l0076)* | *Registrering[^3] [2003/76/EF](eu/32003l0076)* |
+| M1 | – | TTV[^1] ≤2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
 |  |  | TTV>2500 | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
-| N1 | I | RV2 ≤1305 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
+| N1 | I | RV[^2] ≤1305 | 1. juli 2003 | 4. september 2004 | 1. januar 2006 |
 |  | II | 1305<RV≤1760 | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 |  | III | 1760<RV | 1. juli 2003 | 4. september 2004 | 1. januar 2007 |
 
@@ -5191,10 +5191,10 @@ Biler med dieselmotor utstyrt med direkteinnsprøytning, som er typegodkjent i h
 | *Kat.* | *Klas.* |  | *registrering* |
 | M1 | – | Antall personer inkl. føreren ≤ 6 | 1. januar 2001 |
 |  |  | Antall personer inkl. føreren > 6 | 1. januar 2002 |
-|  |  | TTV1 ≤ 2.500 | 1. januar 2001 |
+|  |  | TTV[^1] ≤ 2.500 | 1. januar 2001 |
 |  |  | TTV > 2.500 | 1. januar 2002 |
-| N1 | I | RV2 ≤ 1.305 og TTV1 ≤ 2.500 | 1. januar 2001 |
-|  | I | RV2 ≤ 1.305 og TTV > 2.500 | 1. januar 2002 |
+| N1 | I | RV[^2] ≤ 1.305 og TTV[^1] ≤ 2.500 | 1. januar 2001 |
+|  | I | RV[^2] ≤ 1.305 og TTV > 2.500 | 1. januar 2002 |
 |  | II | 1035 < RV ≤ 1.760 | 1. januar 2002 |
 |  | III | 1.760 < RV | 1. januar 2002 |
 
@@ -5261,9 +5261,9 @@ Grenseverdier
 | *Kjøretøygruppe* |  | *Referansemasse (kg)* | *Grenseverdier* |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | *Masse av CO (g/km)* |  | *Kombinert masse av HC og NOx (g/km)* |  | *Masse av partikler (g/km)* |
-|  |  |  | *Bensin* | *Diesel* | *Bensin* | *Diesel1* | *Diesel1* |
-| M2 |  | alle | 2.2 | 1.0 | 0.5 | 0.7 | 0.08 |
-| N13 | I | Rv ≤ 1.250 | 2.2 | 1.0 | 0.5 | 0.7 | 0.08 |
+|  |  |  | *Bensin* | *Diesel* | *Bensin* | *Diesel[^1]* | *Diesel[^1]* |
+| M[^2] |  | alle | 2.2 | 1.0 | 0.5 | 0.7 | 0.08 |
+| N1[^3] | I | Rv ≤ 1.250 | 2.2 | 1.0 | 0.5 | 0.7 | 0.08 |
 |  | II | 1.250 < Rv ≤ 1.700 | 4.0 | 1.25 | 0.6 | 1.7 | 0.12 |
 |  | III | 1.700 < Rv | 5.0 | 1.5 | 0.7 | 1.2 | 0.17 |
 
@@ -5272,9 +5272,9 @@ Grenseverdier
 |  |  |  |
 | --- | --- | --- |
 |  | HC og NOx | Partikler |
-| – Gruppe M2 og N13 gruppe 1: | 0,9 | 0,10 |
-| – Gruppe N13 , gruppe II: | 1,3 | 0,14 |
-| – Gruppe N13 , gruppe III: | 1,6 | 0,20 |
+| – Gruppe M[^2] og N1[^3] gruppe 1: | 0,9 | 0,10 |
+| – Gruppe N1[^3] , gruppe II: | 1,3 | 0,14 |
+| – Gruppe N1[^3] , gruppe III: | 1,6 | 0,20 |
 
 2 Unntak:
 
@@ -5353,8 +5353,8 @@ Grenseverdier
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | *Masse av CO (g/km)* |  | *Kombinert masse av HC og NOx (g/km)* |  | *Masse av partikler (g/km)* |
 |  |  |  | *Bensin* | *Diesel* | *Bensin* | *Diesel* | *Diesel* |
-| M2 |  | alle | 2,2 | 1,0 | 0,5 | 0,71 | 0,081 |
-| N3 | Gruppe I | Rv ≤ 1.250 | 2,72 |  | 0,97 |  | 0,14 |
+| M[^2] |  | alle | 2,2 | 1,0 | 0,5 | 0,7[^1] | 0,08[^1] |
+| N[^3] | Gruppe I | Rv ≤ 1.250 | 2,72 |  | 0,97 |  | 0,14 |
 |  | Gruppe II | 1.250 < Rv ≤ 1.700 | 5,17 |  | 1,4 |  | 0,19 |
 |  | Gruppe III | 1.700 < Rv | 6,9 |  | 1,7 |  | 0,25 |
 
@@ -5427,9 +5427,9 @@ Grenseverdier, Prototypkrav (TAS= Type Approval Standard):
 
 | *Kjøretøygruppe* |  | *Referansemasse (kg)* | *Grenseverdier* |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | *Masse av CO (g/km)* | *Kombinert masse av HC og NOx (g/km)* | *Masse av partikler1 (g/km)* |
-| M2 |  | alle | 2,72 | 0,97 | 0,14 |
-| N3 | Gruppe I | Rv ≤ 1.250 | 2,72 | 0,97 | 0,14 |
+|  |  |  | *Masse av CO (g/km)* | *Kombinert masse av HC og NOx (g/km)* | *Masse av partikler[^1] (g/km)* |
+| M[^2] |  | alle | 2,72 | 0,97 | 0,14 |
+| N[^3] | Gruppe I | Rv ≤ 1.250 | 2,72 | 0,97 | 0,14 |
 |  | Gruppe II | 1.250 < Rv ≤ 1.700 | 5,17 | 1,4 | 0,19 |
 |  | Gruppe III | 1.700 < Rv | 6,9 | 1,7 | 0,25 |
 
@@ -5446,9 +5446,9 @@ Grenseverdier, Produksjonskrav (COP= Conformity og Production):
 
 | *Kjøretøygruppe* |  | *Referansemasse (kg)* | *Grenseverdier* |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | *Masse av CO (g/km)* | *Kombinert masse av HC og NOx (g/km)* | *Masse av partikler1 (g/km)* |
-| M2 |  | alle | 3,16 | 1,13 | 0,18 |
-| N13 | Gruppe I | Rv ≤ 1.250 | 3,16 | 1,13 | 0,18 |
+|  |  |  | *Masse av CO (g/km)* | *Kombinert masse av HC og NOx (g/km)* | *Masse av partikler[^1] (g/km)* |
+| M[^2] |  | alle | 3,16 | 1,13 | 0,18 |
+| N1[^3] | Gruppe I | Rv ≤ 1.250 | 3,16 | 1,13 | 0,18 |
 |  | Gruppe II | 1.250 < Rv ≤ 1.700 | 6,0 | 1,6 | 0,22 |
 |  | Gruppe III | 1.700 < Rv | 8,0 | 2,0 | 0,29 |
 
@@ -5523,10 +5523,10 @@ Grenseverdier for dieseldrevne motorer – ESC- og ELR-test
 
 | *Kravnivå* | *CO*<br>*g/kWh* | *HC*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PM*<br>*g/kWh* | *Røk*<br>*m-1* |
 | --- | --- | --- | --- | --- | --- |
-| A (2000), euro 3 | 2,1 | 0,66 | 5,0 | 0,10 0,13b | 0,8 |
+| A (2000), euro 3 | 2,1 | 0,66 | 5,0 | 0,10 0,13[^b] | 0,8 |
 | B1 (2005), euro 4 | 1,5 | 0,46 | 3,5 | 0,02 | 0,5 |
 | B2 (2008), euro 5 | 1,5 | 0,46 | 2,0 | 0,02 | 0,5 |
-| C (EEV)a | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
+| C (EEV)[^a] | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
 a Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
@@ -5534,12 +5534,12 @@ b For motorer med slagvolum på mindre enn 0,75 dm3 pr. sylinder og turtall ved 
 
 Grenseverdier for diesel- og gassmotorer – ETC-test
 
-| *Kravnivå* | *CO*<br>*g/kWh* | *NMHC*<br>*g/kWh* | *CH4 a*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PMb*<br>*g/kWh* |
+| *Kravnivå* | *CO*<br>*g/kWh* | *NMHC*<br>*g/kWh* | *CH4 [^a]*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PM[^b]*<br>*g/kWh* |
 | --- | --- | --- | --- | --- | --- |
-| A (2000), euro 3 | 5,45 | 0,78 | 1,6 | 5,0 | 0,16 0,21d |
+| A (2000), euro 3 | 5,45 | 0,78 | 1,6 | 5,0 | 0,16 0,21[^d] |
 | B1 (2005), euro 4 | 4,0 | 0,55 | 1,1 | 3,5 | 0,03 |
 | B2 (2008), euro 5 | 4,0 | 0,55 | 1,1 | 2,0 | 0,03 |
-| C (EEV)c | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
+| C (EEV)[^c] | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
 a Kun for naturgassmotorer.
 
@@ -5643,16 +5643,16 @@ Grenseverdier for dieseldrevne motorer – ESC- og ELR-test
 | *Kravnivå* | *CO*<br>*g/kWh* | *HC*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PM<br>g/kWh* | *Røk*<br>*m-1* |
 | --- | --- | --- | --- | --- | --- |
 | B2 (2008) | 1,5 | 0,46 | 2,0 | 0,02 | 0,5 |
-| C (EEV)a | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
+| C (EEV)[^a] | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
 a Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Grenseverdier for diesel- og gassmotorer – ETC-test
 
-| *Kravnivå* | *CO<br>g/kWh* | *NMHC<br>g/kWh* | *CH4 a<br>g/kWh* | *NOx<br>g/kWh* | *PMb<br>g/kWh* |
+| *Kravnivå* | *CO<br>g/kWh* | *NMHC<br>g/kWh* | *CH4 [^a]<br>g/kWh* | *NOx<br>g/kWh* | *PM[^b]<br>g/kWh* |
 | --- | --- | --- | --- | --- | --- |
 | B2 (2008) | 4,0 | 0,55 | 1,1 | 2,0 | 0,03 |
-| C (EEV)c | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
+| C (EEV)[^c] | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
 a Kun for naturgassmotorer.
 
@@ -5695,16 +5695,16 @@ Grenseverdier for dieseldrevne motorer – ESC- og ELR-test
 | *Kravnivå* | *CO*<br>*g/kWh* | *HC*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PM*<br>*g/kWh* | *Røk*<br>*m-1* |
 | --- | --- | --- | --- | --- | --- |
 | B2 (2005) | 1,5 | 0,46 | 3,5 | 0,02 | 0,5 |
-| C (EEV)a | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
+| C (EEV)[^a] | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
 a Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Grenseverdier for diesel- og gassmotorer – ETC-test
 
-| *Kravnivå* | *CO*<br>*g/kWh* | *NMHC*<br>*g/kWh* | *CH4 a*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PMb*<br>*g/kWh* |
+| *Kravnivå* | *CO*<br>*g/kWh* | *NMHC*<br>*g/kWh* | *CH4 [^a]*<br>*g/kWh* | *NOx*<br>*g/kWh* | *PM[^b]*<br>*g/kWh* |
 | --- | --- | --- | --- | --- | --- |
 | B2 (2005) | 4,0 | 0,55 | 1,1 | 3,5 | 0,03 |
-| C (EEV)c | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
+| C (EEV)[^c] | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
 a Kun for naturgassmotorer.
 
@@ -5752,8 +5752,8 @@ Grenseverdier for dieseldrevne motorer – ESC- og ELR-test:
 
 | *Kravnivå* | *CO<br>g/kWh* | *HC<br>g/kWh* | *NOx<br>g/kWh* | *PM<br>g/kWh* | *Røk<br>m-1* |
 | --- | --- | --- | --- | --- | --- |
-| A (2000) | 2,1 | 0,66 | 5,0 | 0,10 0,13a | 0,8 |
-| C, (EEV)b | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
+| A (2000) | 2,1 | 0,66 | 5,0 | 0,10 0,13[^a] | 0,8 |
+| C, (EEV)[^b] | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
 a For motorer med slagvolum på mindre end 0,75 dm3 pr. sylinder og turtall ved nominell effekt på over 3000 min-1 .
 
@@ -5761,10 +5761,10 @@ b Grenseverdier som EEV-kjøretøy må tilfredsstille.
 
 Grenseverdier for diesel- og gassmotorer – ETC-test:
 
-| *Kravnivå* | *CO<br>g/kWh* | *NMHC<br>g/kWh* | *CH4 a<br>g/kWh* | *NOx<br>g/kWh* | *PMb<br>g/kWh* |
+| *Kravnivå* | *CO<br>g/kWh* | *NMHC<br>g/kWh* | *CH4 [^a]<br>g/kWh* | *NOx<br>g/kWh* | *PM[^b]<br>g/kWh* |
 | --- | --- | --- | --- | --- | --- |
-| A (2000) | 5,45 | 0,78 | 1,6 | 5,0 | 0,16 0,21c |
-| C, (EEV)d | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
+| A (2000) | 5,45 | 0,78 | 1,6 | 5,0 | 0,16 0,21[^c] |
+| C, (EEV)[^d] | 3,0 | 0,40 | 0,65 | 2,0 | 0,02 |
 
 a Kun for naturgassmotorer.
 
@@ -5813,7 +5813,7 @@ Direktivet inneholder to sett krav, «A» og «B» (ofte kalt «Euro 1» og «Eu
 
 | *Masse av CO<br>g/k Wh* | *Masse av HC<br>g/k Wh* | *Masse av NOx<br>g/k Wh* | *Masse av partikler<br>g/k Wh* |
 | --- | --- | --- | --- |
-| 4,0 | 1,1 | 7,0 | 0,151 |
+| 4,0 | 1,1 | 7,0 | 0,15[^1] |
 
 Grenseverdi:
 
@@ -5837,7 +5837,7 @@ Bestemmelsene gjelder ikke for militærtaktiske biler registrert på forsvaret.
 
 | *Masse av CO<br>g/k Wh* | *Masse av HC<br>g/k Wh* | *Masse av NOx<br>g/k Wh* | *Masse av partikler<br>g/k Wh* |
 | --- | --- | --- | --- |
-| 4,5 | 1,1 | 8,0 | 0,361 |
+| 4,5 | 1,1 | 8,0 | 0,36[^1] |
 
 1 For motorer som yter 85 kW eller mindre, skal en koeffisient på 1,7 anvendes på grenseverdien for partikkelutslipp.
 
@@ -5912,7 +5912,7 @@ Bestemmelsene gjelder ikke for militærtekniske kjøretøy registrert på forsva
 | *Kategori* | *Motorstørrelse* | *Grenseverdier, g/km* |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | *CO* | *HC* | *NOX* |
-| Tohjuls motorsykkel | I (≤150 cm3 )1<br>II (> 150 cm3 )2 | 2,0<br>2,0 | 0,8<br>0,3 | 0,15<br>0,15 |
+| Tohjuls motorsykkel | I (≤150 cm3 )[^1]<br>II (> 150 cm3 )[^2] | 2,0<br>2,0 | 0,8<br>0,3 | 0,15<br>0,15 |
 
 1 Bysyklus (iht. ECE-reg.nr. 40) men avgassmålingen starter med en gang og ikke etter de to innledende oppvarmingssyklusene slik at seks grunnsykluser måles.
 
@@ -5935,7 +5935,7 @@ Eventuelt kan fabrikanten velge å avgassteste motorvognene etter global teknisk
 
 | *Direktiv (grunndirektiv)* | *Senest endret ved direktiv* | *Kategori* | *For typegodkj. av ny type kjøretøy* | *For nye registreringer* |
 | --- | --- | --- | --- | --- |
-| [97/24/EØF](eu/31997l0024*) | [2006/72/EF](eu/32006l0072) | Alle | 1. januar 2006 | 1. januar 2007\* |
+| [97/24/EØF](eu/31997l0024*) | [2006/72/EF](eu/32006l0072) | Alle | 1. januar 2006 | 1. januar 2007[^\*] |
 | [97/24/EØF](eu/31997l0024*) | [2009/108/EF](eu/32009*0108) | Alle | 1. mai 2010 | – |
 
 \* For kjøretøytyper som ikke selges i mer enn 5000 eksemplarer i EU er datoen 1. januar 2008.
@@ -6181,7 +6181,7 @@ Trinn III A i direktiv [2000/25/EF](eu/32000l0025), som endret ved direktiv [200
 
 Motorer produsert før tidspunktene angitt i kolonne (2) kan tas i bruk frem til tidspunktene i kolonne (1).
 
-Trinn III B i direktiv [2000/25/EF](eu/32000l0025), som endret ved direktiv [2005/13/EF](eu/32005l0013) og direktiv [2011/87/EU](eu/32011l0087) (se\* ):
+Trinn III B i direktiv [2000/25/EF](eu/32000l0025), som endret ved direktiv [2005/13/EF](eu/32005l0013) og direktiv [2011/87/EU](eu/32011l0087) (se[^\*] ):
 
 | *Effekt, kW* | *Typegodkjenning* | *Ibruktagning (2)* | *Ibruktagning (1)* |
 | --- | --- | --- | --- |
@@ -6192,7 +6192,7 @@ Trinn III B i direktiv [2000/25/EF](eu/32000l0025), som endret ved direktiv [200
 
 Motorer produsert før tidspunktene angitt i kolonne (2) kan tas i bruk frem til tidspunktene i kolonne (1).
 
-Trinn IV i direktiv [2000/25/EF](eu/32000l0025), som endret ved direktiv [2005/13/EF](eu/32005l0013) og direktiv [2011/87/EU](eu/32011l0087) (se \* ):
+Trinn IV i direktiv [2000/25/EF](eu/32000l0025), som endret ved direktiv [2005/13/EF](eu/32005l0013) og direktiv [2011/87/EU](eu/32011l0087) (se [^\*] ):
 
 | *Effekt, kW* | *Typegodkjenning* | *Ibruktagning (2)* | *Ibruktagning (1)* |
 | --- | --- | --- | --- |
@@ -6353,7 +6353,7 @@ Prinsippskisse av bremseanleggene med tilstrekkelig detaljert beskrivelse av der
 
 2.2
 
-Påløpsbremseanlegg skal være godkjent av Vegdirektoratet. Godkjente påløpsbremseanlegg er listeført i Merknad 11 til [kap. 26](forskrift/1994-10-04-918/kap26).
+Påløpsbremseanlegg skal være godkjent av Vegdirektoratet. Godkjente påløpsbremseanlegg er listeført i Merknad 1[^1] til [kap. 26](forskrift/1994-10-04-918/kap26).
 
 2.3
 
@@ -12621,9 +12621,9 @@ Bestemmelsene i denne paragraf trer i kraft som følger:
 
 | *Klasse* | *Kjøretøyvekt, kg* | *Typegodkjenning* | *Registrering* |
 | --- | --- | --- | --- |
-| I | RV1 ≤ 1305 | 1. januar 20052 | 1. januar 20062 |
-| II | 1305 < RV ≤ 1760 | 1. januar 20072 | 1. januar 20082 |
-| III | 1760 < RV | 1. januar 20072 | 1. januar 20082 |
+| I | RV[^1] ≤ 1305 | 1. januar 2005[^2] | 1. januar 2006[^2] |
+| II | 1305 < RV ≤ 1760 | 1. januar 2007[^2] | 1. januar 2008[^2] |
+| III | 1760 < RV | 1. januar 2007[^2] | 1. januar 2008[^2] |
 
 1 Referansevekt = egenvekt + 100 kg.
 
@@ -12635,7 +12635,7 @@ Bestemmelsene i denne paragraf trer i kraft som følger:
 
 1\.
 
-Ved godkjenning av to- og trehjulede motorvogner (jf. direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077)) skal det fremlegges underlag fra fabrikant eller kompetent uavhengig laboratorium som viser drivstofforbruk og CO2 -utslipp i henhold til direktiv [97/24/EF](eu/31997l0024*) [kapittel 5](forskrift/1994-10-04-918/kap5) som endret ved direktiv [2002/51/EF](eu/32002l0051) (om foranstaltninger mot luftforurensning fra to- og trehjulede motorvogner).1
+Ved godkjenning av to- og trehjulede motorvogner (jf. direktiv [92/61/EØF](eu/31992l0061*), fra 9. november 2003 erstattet av direktiv [2002/24/EF](eu/32002l0024*), som senest endret ved direktiv [2003/77/EF](eu/32003l0077)) skal det fremlegges underlag fra fabrikant eller kompetent uavhengig laboratorium som viser drivstofforbruk og CO2 -utslipp i henhold til direktiv [97/24/EF](eu/31997l0024*) [kapittel 5](forskrift/1994-10-04-918/kap5) som endret ved direktiv [2002/51/EF](eu/32002l0051) (om foranstaltninger mot luftforurensning fra to- og trehjulede motorvogner).[^1]
 
 2\.
 
@@ -12745,7 +12745,7 @@ Ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved 
 | 58. Fotgjengerbeskyttelse | [2003/102/EF](eu/32003l0102) |  | x |  |  | x |  |  |  |  |  |  |
 | 59. Frontal beskyttelse | [2005/66/EF](eu/32005*0066) |  | x |  |  | x |  |  |  |  |  |  |
 | 60. Gjenbruk/gjenvinning | [2005/64/EØF](eu/32005*0064) |  | x |  |  | x |  |  |  |  |  |  |
-| 61. Klimaanlegg | [2006/40/EF](eu/32006l0040) |  | x |  |  | x1 |  |  |  |  |  |  |
+| 61. Klimaanlegg | [2006/40/EF](eu/32006l0040) |  | x |  |  | x[^1] |  |  |  |  |  |  |
 
 1 Kun kjøretøy i klasse I (med referansevekt ≤ 1305), som anført i første tabell i punkt 5.3.1.4 i bilag I til direktiv [70/220/EØF](eu/31970l0220*), som innsatt ved direktiv [98/69/EF](eu/31998l0069*), jf. også [kjøretøyforskriften § 25-5](forskrift/1994-10-04-918/§25-5).
 
@@ -12770,14 +12770,14 @@ Ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved 
 | 37 | Støy | [97/24/EF](eu/31997l0024*) | [2013/60/EU](eu/32013l0060) | 9 |
 | 38 | Speil | [97/24/EF](eu/31997l0024*) |  | 4 |
 | 39 | Utvendig utstikkende deler | [97/24/EF](eu/31997l0024*) | [2006/27/EF](eu/32006*0027) | 3 |
-| 40 | Støtteben | [2009/78/EF](eu/32009*0078)5 |  |  |
+| 40 | Støtteben | [2009/78/EF](eu/32009*0078)[^5] |  |  |
 | 41 | Beskyttelse mot uberettiget bruk | [93/33/EF](eu/31993l0033) | [1999/23/EF](eu/31999l0023) |  |
 | 42 | Ruter, vindusviskere, spylere, defroster | [97/24/EF](eu/31997l0024*) |  | 12 |
-| 43 | Fastholdelsesanordninger på tohjulskjøretøy | [2009/79/EF](eu/32009*0079)1 |  |  |
+| 43 | Fastholdelsesanordninger på tohjulskjøretøy | [2009/79/EF](eu/32009*0079)[^1] |  |  |
 | 44 | Belter og beltefester | [97/24/EF](eu/31997l0024*) | [2006/27/EF](eu/32006*0027) | 11 |
 | 45 | Hastighetsmåler | [2000/7/EF](eu/32000l0007) |  |  |
-| 46 | Betjeningsinnretninger, kontrollamper og indikatorer | [2009/80/EF](eu/32009*0080)2 |  |  |
-| 47 | Merking av kjøretøy | [2009/139/EF](eu/32009l0139)3 |  |  |
+| 46 | Betjeningsinnretninger, kontrollamper og indikatorer | [2009/80/EF](eu/32009*0080)[^2] |  |  |
+| 47 | Merking av kjøretøy | [2009/139/EF](eu/32009l0139)[^3] |  |  |
 
 1. Direktiv [2009/79/EF](eu/32009l0079) er en konsolidering av direktiv [93/32/EØF](eu/31993l0032*) med endringer, og erstatter disse direktivene.
 
@@ -12794,57 +12794,57 @@ Ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved 
 | *Nummer og emne* | *Direktivnummer og vedlegg* | *Senest endret ved direktivnummer* | *Gyldighetsområde (Se tillegg 1 til kapittel B i vedlegg II til direktiv [2003/37/EF](eu/32003l0037), som endret ved direktiv [2004/66/EF](eu/32004l0066), for T4 og C4)* |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | *T1* | *T2* | *T3* | *T5* | *C* | *R* | *S* |
-| 1.1 Tillatt totalvekt | [2009/63/EF](eu/32009*0063)1 I |  | X | X | X | X | (x) | (x) | (x) |
-| 1.2 Kjennemerke | [2009/63/EF](eu/32009*0063)1 II |  | X | X | X | X | I | (x) | (x) |
-| 1.3 Drivstofftank | [2009/63/EF](eu/32009*0063)1 III |  | X | X | X | X | I | – | – |
-| 1.4 Front og hjulvekter | [2009/63/EF](eu/32009*0063)1 IV |  | X | X | X | (x) | I | – | – |
-| 1.5 Lydsignalapparat | [2009/63/EF](eu/32009*0063)1 V |  | X | X | X | X | I | – | – |
-| 1.6 Støynivå (utvendig) | [2009/63/EF](eu/32009*0063)1 VI |  | X | X | X | (x) | I | – | – |
-| 2.1 Maksimalhastighet | [2009/60/EF](eu/32009*0060)9 |  | x | x | x | (x) | I | – | – |
-| 2.2 Lastbærer | [2009/60/EF](eu/32009*0060)9 |  | x | x | x | (x) | I | – | – |
-| 3.1 Førerspeil | [2009/59/EF](eu/32009l0059)10 |  | x | x |  | (x) | I | – | – |
-| 4.1. Synsfelt og vindusviskere | [2008/2/EF](eu/32008l0002)2 |  | x | x | x | (x) | I |  |  |
-| 5.1 Styreinnretning | [2009/66/EF](eu/32009l0066)3 |  | X | X | X | (X) | (x) | – | – |
-| 6.1 Elektromagnetisk støy | [2009/64/EF](eu/32009l0064*)4 |  | X | X | X | X | I | – | – |
+| 1.1 Tillatt totalvekt | [2009/63/EF](eu/32009*0063)[^1] I |  | X | X | X | X | (x) | (x) | (x) |
+| 1.2 Kjennemerke | [2009/63/EF](eu/32009*0063)[^1] II |  | X | X | X | X | I | (x) | (x) |
+| 1.3 Drivstofftank | [2009/63/EF](eu/32009*0063)[^1] III |  | X | X | X | X | I | – | – |
+| 1.4 Front og hjulvekter | [2009/63/EF](eu/32009*0063)[^1] IV |  | X | X | X | (x) | I | – | – |
+| 1.5 Lydsignalapparat | [2009/63/EF](eu/32009*0063)[^1] V |  | X | X | X | X | I | – | – |
+| 1.6 Støynivå (utvendig) | [2009/63/EF](eu/32009*0063)[^1] VI |  | X | X | X | (x) | I | – | – |
+| 2.1 Maksimalhastighet | [2009/60/EF](eu/32009*0060)[^9] |  | x | x | x | (x) | I | – | – |
+| 2.2 Lastbærer | [2009/60/EF](eu/32009*0060)[^9] |  | x | x | x | (x) | I | – | – |
+| 3.1 Førerspeil | [2009/59/EF](eu/32009l0059)[^10] |  | x | x |  | (x) | I | – | – |
+| 4.1. Synsfelt og vindusviskere | [2008/2/EF](eu/32008l0002)[^2] |  | x | x | x | (x) | I |  |  |
+| 5.1 Styreinnretning | [2009/66/EF](eu/32009l0066)[^3] |  | X | X | X | (X) | (x) | – | – |
+| 6.1 Elektromagnetisk støy | [2009/64/EF](eu/32009l0064*)[^4] |  | X | X | X | X | I | – | – |
 | 7.1 Bremsesystem | [76/432/EØF](eu/31976l0432*) | [97/54/EF](eu/31997l0054) | x | x | x | – | (x) | (x) | (x) |
 |  | [71/320/EØF](eu/31971l0320*) | [2002/78/EF](eu/32002l0078) | – | – | – | x | – | – | – |
 | 8.1 Passasjerseter | [76/763/EØF](eu/31976l0763) | [2010/52/EU](eu/32010l0052) | x | – | x | (x) | I | – | – |
-| 9.1 Støynivå (innvendig) | [2009/76/EF](eu/32009l0076)5 |  | X | X | X | (X) | I | – | – |
-| 10.1 Veltevern | [2009/57/EF](eu/32009l0057)7 |  | x | – | – | (x) | (x) | – | – |
+| 9.1 Støynivå (innvendig) | [2009/76/EF](eu/32009l0076)[^5] |  | X | X | X | (X) | I | – | – |
+| 10.1 Veltevern | [2009/57/EF](eu/32009l0057)[^7] |  | x | – | – | (x) | (x) | – | – |
 | 12.1 Førersete | [78/764/EØF](eu/31978l0764) | [1999/57/EF](eu/31999l0057) | x | x | x | (x) | (x) | – | – |
-| 13.1 Montering av lykter | [2009/61/EF](eu/32009l0061)11 |  | x | x | x | (x) | I | – | – |
-| 14.1 Lykter og lyssignaler | [2009/68/EF](eu/32009*0068)12 |  | x | x | x | x | x | (x) | (x) |
-| 15.1 Slepeanordninger og revers | [2009/58/EF](eu/32009l0058)13 |  | x | x | x | (x) | I | – | – |
-| 16.1 Veltevern (statisk prøving) | [2009/75/EF](eu/32009l0075)8 |  | x | – | – | (x) | I | – | – |
+| 13.1 Montering av lykter | [2009/61/EF](eu/32009l0061)[^11] |  | x | x | x | (x) | I | – | – |
+| 14.1 Lykter og lyssignaler | [2009/68/EF](eu/32009*0068)[^12] |  | x | x | x | x | x | (x) | (x) |
+| 15.1 Slepeanordninger og revers | [2009/58/EF](eu/32009l0058)[^13] |  | x | x | x | (x) | I | – | – |
+| 16.1 Veltevern (statisk prøving) | [2009/75/EF](eu/32009l0075)[^8] |  | x | – | – | (x) | I | – | – |
 | 17.1 Førerplass og adgangsforhold | [80/720/EØF](eu/31980l0720) | [2010/22/EU](eu/32010l0022) | x | – | x | (x) | I | – | – |
 | 18.1 Kraftuttak | [86/297/EØF](eu/31986l0297) | [2012/24/EU](eu/32012l0024) | X | X | X | X | X | – | – |
 | 19.1 Bakmontert veltevern (smalsporede traktorer) | [86/298/EØF](eu/31986l0298*) | [2010/22/EU](eu/32010l0022) | – | x | – | (x) | I | – | – |
 | 20.1 Montering av betjeningsanordninger | [86/415/EØF](eu/31986l0415) | [2010/22/EU](eu/32010l0022) | x | x | x | x | x | (x) | I |
 | 21.1 Frontmontert veltevern (smalsporede traktorer) | [87/402/EØF](eu/31987l0402) | [2010/22/EU](eu/32010l0022) | – | x | – | (x) | I | – | – |
-| 22.1 Dimensjoner og masse av påhengsvogn | [2009/144/EF](eu/32009l0144)6 I | [2010/52/EU](eu/32010l0052) | X | X | X | (X) | I | (X) | (X) |
-| 22.2 Ruter | [2009/144/EF](eu/32009l0144)6 III | [2010/52/EU](eu/32010l0052) | x | x | x | – | I | – | – |
+| 22.1 Dimensjoner og masse av påhengsvogn | [2009/144/EF](eu/32009l0144)[^6] I | [2010/52/EU](eu/32010l0052) | X | X | X | (X) | I | (X) | (X) |
+| 22.2 Ruter | [2009/144/EF](eu/32009l0144)[^6] III | [2010/52/EU](eu/32010l0052) | x | x | x | – | I | – | – |
 |  | [92/22/EØF](eu/31992*0022) | [2001/92/EF](eu/32001l0092) | – | – | – | x | – | – | – |
-| 22.3 Hastighetsregulator | [2009/144/EF](eu/32009l0144)6 II | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | – | – |
-| 22.4 Skjerming av bevegelige deler | [2009/144/EF](eu/32009l0144)6 II | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | – | – |
-| 22.5 Mekaniske forbindelser | [2009/144/EF](eu/32009l0144)6 IV | [2013/8/EU](eu/32013l0008) | x | x | x | (x) | I | (x) | (x) |
-| 22.6 Foreskrevne skilt | [2009/144/EF](eu/32009l0144)6 V | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | (x) | (x) |
-| 22.7 Bremsesystemets forbindelse med tilhenger | [2009/144/EF](eu/32009l0144)6 VI | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | (x) | (x) |
+| 22.3 Hastighetsregulator | [2009/144/EF](eu/32009l0144)[^6] II | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | – | – |
+| 22.4 Skjerming av bevegelige deler | [2009/144/EF](eu/32009l0144)[^6] II | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | – | – |
+| 22.5 Mekaniske forbindelser | [2009/144/EF](eu/32009l0144)[^6] IV | [2013/8/EU](eu/32013l0008) | x | x | x | (x) | I | (x) | (x) |
+| 22.6 Foreskrevne skilt | [2009/144/EF](eu/32009l0144)[^6] V | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | (x) | (x) |
+| 22.7 Bremsesystemets forbindelse med tilhenger | [2009/144/EF](eu/32009l0144)[^6] VI | [2010/52/EU](eu/32010l0052) | x | x | x | (x) | I | (x) | (x) |
 | 23.1 Avgass | [2000/25/EF](eu/32000*0025) | [2011/72/EU](eu/32011l0072*) | x | x | x | x | x |  |  |
-| 24.1 Dekk14 | (..../.../EF) |  | X | X | X | X | – | (X) | (X) |
-| 25.1 Stabilitet14 | (..../.../EF) |  | – | – | – | SD | – | – | – |
+| 24.1 Dekk[^14] | (..../.../EF) |  | X | X | X | X | – | (X) | (X) |
+| 25.1 Stabilitet[^14] | (..../.../EF) |  | – | – | – | SD | – | – | – |
 | 26.1 Festepunkter bilbelter | [76/115/EØF](eu/31976l0115) | [2005/41/EF](eu/32005l0041) | x | x | x | x | x | – | – |
 | 27.1 Bilbelter | [77/541/EØF](eu/31977l0541*) | [2005/40/EF](eu/32005l0040) | – | – | – | x | – | – | – |
 | 28.1 Hastighetsmåler og revers | [75/443/EØF](eu/31975l0443) | [97/39/EF](eu/31997l0039) | – | – | – | x | – | – | – |
 | 29.1 Avskjermingssystem | [91/226/EØF](eu/31991l0226) |  | – | – | – | x | – | (x) | – |
 | 30.1 Hastighetsbegrenser | [92/24/EØF](eu/31992*0024) |  | – | – | – | x | – | – | – |
-| 31.1 Bakovervendte beskyttelsesanordninger14 | (..../.../EF) |  | – | – | – | – | – | SD | – |
+| 31.1 Bakovervendte beskyttelsesanordninger[^14] | (..../.../EF) |  | – | – | – | – | – | SD | – |
 | 32.1 Sidebeskyttelse | [89/297/EØF](eu/31989l0297) |  | – | – | – | x | – | (x) | – |
 
 *Forklaring:*
 
 X = gyldig under de foreliggende omstendigheter.
 
-(X) = gyldig etter eventuell endring.15
+(X) = gyldig etter eventuell endring.[^15]
 
 SD = særdirektiv.
 

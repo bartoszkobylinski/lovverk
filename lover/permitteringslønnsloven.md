@@ -15,7 +15,7 @@ xml_hash: "c71dff5ccab621b6bd8898abe363b51e6c0560854776dba73889d741540d7362"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,7 @@ Arbeidsgiver som er bundet av tariffavtalebestemmelser om beregning av permitter
 
 ## § 5. Ikrafttreden og overgangsregler
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 Loven gjelder permittering som iverksettes fra og med den dag loven trer i kraft.
 

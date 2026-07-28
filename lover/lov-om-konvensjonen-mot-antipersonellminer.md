@@ -15,7 +15,7 @@ xml_hash: "d4b25dbfe11a9986971753bf4b1c0ca21c21198c3e8c4d94ef5e8c82d81c8de1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Denne loven gjelder også for Svalbard, Jan Mayen og de norske bilandene.
 
 Den som bryter denne loven eller forskrifter som er gitt med hjemmel i loven, blir straffet med bøter eller fengsel i opptil 2 år. Uaktsomme handlinger blir straffet med bøter eller fengsel i opptil 6 måneder.
 
-Kongen kan i særlige tilfeller gi nærmere regler om unntak fra straffeforfølgning i henhold til denne lov og [militær straffelov](lov/1902-05-22-13) av 22. mai 1902,1 [§ 107](lov/1902-05-22-13/§107).
+Kongen kan i særlige tilfeller gi nærmere regler om unntak fra straffeforfølgning i henhold til denne lov og [militær straffelov](lov/1902-05-22-13) av 22. mai 1902,[^1] [§ 107](lov/1902-05-22-13/§107).
 
 > Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -56,7 +56,7 @@ Kongen kan i særlige tilfeller gi nærmere regler om unntak fra straffeforfølg
 
 ## § 6.
 
-Loven trer i kraft på det tidspunkt konvensjonen trer i kraft for Norge.1
+Loven trer i kraft på det tidspunkt konvensjonen trer i kraft for Norge.[^1]
 
 1 Fra 1 mars 1999 etter å ha bli ratifisert av 65 land.
 

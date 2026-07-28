@@ -15,7 +15,7 @@ xml_hash: "d2085b5f0c275dd17e1b1db279f700080d2c31d24a048bb95339678b0a40d998"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -257,12 +257,12 @@ Dersom forholdet ikke går inn under strengere straffebud, straffes med bøter d
 
 ### § 31. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 juli 2005 iflg. [res. 10 des 2004 nr. 1616](forskrift/2004-12-10-1616).
 
 ### § 32. Endringer i annen lovgivning
 
-Fra den tid loven her trer i kraft, gjøres følgende endringer i annen lovgivning: – – –1
+Fra den tid loven her trer i kraft, gjøres følgende endringer i annen lovgivning: – – –[^1]
 
 1 Blant annet ble [lov 27 juni 1947 nr. 9](lov/1947-06-27-9) om tiltak til å fremme sysselsetting opphevet.

@@ -15,7 +15,7 @@ xml_hash: "bb6f1ecb62610be09e9302d44f2dd65cbbcb5d37a45e64c9bc738d9a11fd2b03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ Departementet kan gi forskrift om utfylling og gjennomføring av bestemmelsene i
 
 ## § 8. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2016 iflg. [res. 17 juni 2016 nr. 702](forskrift/2016-06-17-702).
 

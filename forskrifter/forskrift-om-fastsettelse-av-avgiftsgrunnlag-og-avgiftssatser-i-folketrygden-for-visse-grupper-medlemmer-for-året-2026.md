@@ -15,7 +15,7 @@ xml_hash: "6f1d9fe475c4d82027a2150661b7df165554756daeb37c999a1e478c78e708e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,9 +47,9 @@ Avgiften som innbetales til trygdemyndighetene fastsettes til følgende prosents
 | Ulike typetilfeller |  | Avgiftsgrunnlag |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Etter [§ 2](forskrift/2025-12-19-2784/§2) a)<br>Sykestønad mv. |  |  | Etter [§ 2](forskrift/2025-12-19-2784/§2) b)<br>Pensjon mv. |  |  |  |
-| Uten syke­penger | Tillegg for syke­penger | Tillegg for begrenset rett til sykepenger\* | Uten yrkes­skade­trygd | Tillegg for yrkes­skade­trygd |  |  |
+| Uten syke­penger | Tillegg for syke­penger | Tillegg for begrenset rett til sykepenger[^\*] | Uten yrkes­skade­trygd | Tillegg for yrkes­skade­trygd |  |  |
 | 1 | 2a | 2b | 3 | 4 |  |  |
-| Medlemmet er ikke skattepliktig i Norge\*\* | Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter<br>å betale arbeidsgiver-<br>avgift | 9,1<br><br><br><br>6,8 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 26,3<br><br><br><br>19,4 | 0,2<br><br><br><br>0,0 |
+| Medlemmet er ikke skattepliktig i Norge[^\*\*] | Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter<br>å betale arbeidsgiver-<br>avgift | 9,1<br><br><br><br>6,8 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 26,3<br><br><br><br>19,4 | 0,2<br><br><br><br>0,0 |
 | Medlemmet<br>er skattepliktig i Norge | ORDINÆR TRYGDEAVGIFT<br>BETALES IKKE SAMMEN<br>MED SKATTEN TIL SKATTEMYNDIGHETENE<br><br>Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter<br>å betale arbeids-<br>giveravgift | 7,4<br><br><br><br>5,1 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 9,4<br><br><br><br>2,5 | 0,2<br><br><br><br>0,0 |
 | ORDINÆR TRYGDEAVGIFT<br>BETALES SAMMEN MED<br>SKATTEN TIL SKATTEMYNDIGHETENE<br><br>Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter å<br>betale arbeidsgiver-<br>avgift | 2,3<br><br><br><br>0,0 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 6,9<br><br><br><br>0,0 | 0,2<br><br><br><br>0,0 |  |
 

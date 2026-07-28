@@ -15,7 +15,7 @@ xml_hash: "df4d48b39f32435fece674b5e2351236c10c8b21dd4aa489127302d2938eb894"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,6 @@ Ved vurderingen av om et husstandsmedlem skal få rettigheter etter denne loven,
 
 ## § 5.
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tid gjøres følgende endringer i andre lover: – – –
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Fra samme tid gjøres følgende endringer i andre lover: – – –
 
 1 Fra 1 okt 1991 iflg. [res. 4 juli 1991 nr. 440](forskrift/1991-07-04-440).

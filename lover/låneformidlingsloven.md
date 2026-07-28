@@ -15,7 +15,7 @@ xml_hash: "d329aa11aecfddc11df653972900394bfa46cd22e9cf97a2a627cf5dede2c2e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -417,7 +417,7 @@ Finanstilsynet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår
 
 ### § 10-1. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer[^1]. Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.
 
 1 Fra 1 juli 2023 iflg. res. [16 des 2022 nr. 2266](forskrift/2022-12-16-2266).
 

@@ -15,7 +15,7 @@ xml_hash: "4ff825d9eb97639c2b01cc02f24e453a54777fbe2dbcaa336fe252cf559657b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -151,7 +151,7 @@ Følgende definisjoner får anvendelse i del A og B i denne norm.
 
 «Avvik»: en observert situasjon der det foreligger objektive bevis for at et bestemt krav ikke er oppfylt.
 
-1.1.101
+1.1.10[^1]
 
 «Større avvik»: et identifiserbart avvik som utgjør en alvorlig trussel mot personellets eller fartøyets sikkerhet eller en alvorlig risiko for miljøet og som krever umiddelbare korrigerende tiltak, eller manglende effektiv og systematisk gjennomføring av et krav i denne norm.
 
@@ -182,7 +182,7 @@ Selskapets mål for sikkerhetsstyring skal bl.a. være:
 Sikkerhetsstyringssystemet skal sikre:
 
 1. at obligatoriske regler og forskrifter overholdes, og
-2. at det tas hensyn til gjeldende regler, retningslinjer og standarder anbefalt av organisasjonen, myndighetene, klassifikasjonsselskapene og organisasjonene i sjøfartsnæringen.2
+2. at det tas hensyn til gjeldende regler, retningslinjer og standarder anbefalt av organisasjonen, myndighetene, klassifikasjonsselskapene og organisasjonene i sjøfartsnæringen.[^2]
 
 1.3**Anvendelse**
 
@@ -213,7 +213,7 @@ Selskapet skal innføre en politikk for sikkerhet og miljøvern som beskriver hv
 
 Selskapet skal sikre at denne politikken gjennomføres og opprettholdes på alle nivåer i organisasjonen, både om bord og i land.
 
-### 3 Selskapets ansvar og myndighet1
+### 3 Selskapets ansvar og myndighet[^1]
 
 3.1
 
@@ -229,7 +229,7 @@ Selskapet er ansvarlig for å sikre at nødvendige ressurser og landbasert støt
 
 1 Det vises til «Guidelines for the operational implementation of the International Safety Management (ISM) Code by Companies» (MSC-MEPC.7/Circ.5).
 
-### 4 Utpekt(e) person(er)1
+### 4 Utpekt(e) person(er)[^1]
 
 For å sikre sikker drift av hvert skip og for å sørge for kontakt mellom selskapet og de ombordværende, skal hvert selskap utpeke én eller flere personer i land som skal ha direkte kontakt med det høyeste nivå i ledelsen. De(n) utpekte personen(e)s ansvar og myndighet skal omfatte overvåking av de sidene av driften av hvert skip som gjelder sikkerhet og hindring av forurensning samt sikring av at nødvendige ressurser og landbasert støtte blir benyttet etter behov.
 
@@ -266,7 +266,7 @@ Selskapet skal sikre at skipsføreren er:
 Selskapet skal sikre at hvert skip er:
 
 1. bemannet med kvalifiserte, sertifiserte og medisinsk skikkede sjøfolk, i samsvar med nasjonale og internasjonale krav, og
-2. hensiktsmessig bemannet slik at alle aspekter ved sikker drift om bord ivaretas.1
+2. hensiktsmessig bemannet slik at alle aspekter ved sikker drift om bord ivaretas.[^1]
 
 6.3
 
@@ -294,7 +294,7 @@ Selskapet skal sikre at skipets personell kan kommunisere på en hensiktsmessig 
 
 Selskapet skal innføre framgangsmåter, planer og instrukser, herunder eventuelle sjekklister, for viktige operasjoner om bord som gjelder sikkerheten for skip og personell og miljøvern. De ulike oppgavene skal defineres og tildeles kvalifisert personell.
 
-### 8 Beredskap1
+### 8 Beredskap[^1]
 
 8.1
 
@@ -310,7 +310,7 @@ Sikkerhetsstyringssystemet skal omfatte tiltak som sikrer at selskapets organisa
 
 1 Det vises til «Guidelines for a structure of an integrated system of contingency planning for shipboard emergencies», vedtatt av organisasjonen ved resolusjon A.852(20), med endringer.
 
-### 9 Rapporter og analyser ved avvik, ulykker og farlige hendelser1
+### 9 Rapporter og analyser ved avvik, ulykker og farlige hendelser[^1]
 
 9.1
 
@@ -345,7 +345,7 @@ Selskapet skal identifisere utstyr og tekniske systemer som kan forårsake farli
 
 Inspeksjonene nevnt i nr. 10.2 samt tiltakene nevnt i nr. 10.3 skal være en integrert del av skipets rutine for driftsvedlikehold.
 
-### 11 Dokumentasjon1
+### 11 Dokumentasjon[^1]
 
 11.1
 
@@ -502,7 +502,7 @@ Et midlertidig sikkerhetsstyringssertifikat kan utstedes etter at det er verifis
 
 15.1
 
-All verifisering som kreves i henhold til bestemmelsene i denne norm, skal utføres i samsvar med framgangsmåter som myndigheten kan godta, idet det tas hensyn til retningslinjene som organisasjonen har utarbeidet.1
+All verifisering som kreves i henhold til bestemmelsene i denne norm, skal utføres i samsvar med framgangsmåter som myndigheten kan godta, idet det tas hensyn til retningslinjene som organisasjonen har utarbeidet.[^1]
 
 1 Se retningslinjer for myndighetens gjennomføring av ISM-normen, vedtatt av organisasjonen ved resolusjon A.1022(26).
 

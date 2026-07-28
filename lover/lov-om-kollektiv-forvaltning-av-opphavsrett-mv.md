@@ -15,7 +15,7 @@ xml_hash: "374e6abf92f84a69781c02c826bccb6217c80f0422af4bd70336151debd34911"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0026"
@@ -219,9 +219,9 @@ En kollektiv forvaltningsorganisasjon skal utvise aktsomhet ved innkreving av re
 
 ### § 17. Adskillelse av vederlagsmidler i regnskapet
 
-En kollektiv forvaltningsorganisasjon skal i sine regnskaper holde vederlagsmidler adskilt fra øvrige inntekter og eiendeler.1
+En kollektiv forvaltningsorganisasjon skal i sine regnskaper holde vederlagsmidler adskilt fra øvrige inntekter og eiendeler.[^1]
 
-Kan vederlagsmidlene som tilfaller rettighetshaverne ikke fordeles innen fristen i [§ 21](lov/2021-05-28-49/§21) andre ledd, skal disse beløpene regnskapsføres adskilt.2
+Kan vederlagsmidlene som tilfaller rettighetshaverne ikke fordeles innen fristen i [§ 21](lov/2021-05-28-49/§21) andre ledd, skal disse beløpene regnskapsføres adskilt.[^2]
 
 1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 3).
 
@@ -414,12 +414,12 @@ Departementet kan i forskrift fastsette krav til hvilke opplysninger som skal gi
 
 ### § 37. Kapitlets virkeområde
 
-Bestemmelsene i dette kapitlet gjelder for kollektive forvaltningsorganisasjoner og andre organisasjoner og enheter etter [§ 2](lov/2021-05-28-49/§2) andre ledd som tilbyr grensekryssende lisenser for nettrettigheter til musikkverk.1 Bestemmelsene gjelder likevel ikke ved grensekryssende lisensiering av
+Bestemmelsene i dette kapitlet gjelder for kollektive forvaltningsorganisasjoner og andre organisasjoner og enheter etter [§ 2](lov/2021-05-28-49/§2) andre ledd som tilbyr grensekryssende lisenser for nettrettigheter til musikkverk.[^1] Bestemmelsene gjelder likevel ikke ved grensekryssende lisensiering av
 
 1. nettrettigheter til musikkverk i form av noter
-2. nettrettigheter til musikkverk som et kringkastingsforetak må ha for å gjøre sine radio- eller fjernsynsprogram tilgjengelig for allmennheten samtidig med eller etter den opprinnelige sendingen.2
+2. nettrettigheter til musikkverk som et kringkastingsforetak må ha for å gjøre sine radio- eller fjernsynsprogram tilgjengelig for allmennheten samtidig med eller etter den opprinnelige sendingen.[^2]
 
-Første ledd bokstav b omfatter også ethvert annet nettmateriale som er produsert av eller for kringkastingsforetaket, og som er tilknyttet den opprinnelige sendingen av radio- eller fjernsynsprogrammet, uavhengig av når materialet gjøres tilgjengelig for allmennheten.3
+Første ledd bokstav b omfatter også ethvert annet nettmateriale som er produsert av eller for kringkastingsforetaket, og som er tilknyttet den opprinnelige sendingen av radio- eller fjernsynsprogrammet, uavhengig av når materialet gjøres tilgjengelig for allmennheten.[^3]
 
 1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 2 nr. 2 og art. 23).
 
@@ -583,7 +583,7 @@ Sivilt søksmål om overtredelser av loven og søksmål om prøving av avgjørel
 
 ### § 55. Ikrafttredelses- og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Loven gjelder ikke handlinger som er utført eller rettigheter som er ervervet før denne loven trer i kraft. Bestemmelsene i kapitlene 5 og 6 gjelder kun for rettighetsvederlag som er innkrevd tidligst året etter at loven trer i kraft. Kongen kan gi nærmere overgangsregler.
 

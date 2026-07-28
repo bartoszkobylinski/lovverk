@@ -15,7 +15,7 @@ xml_hash: "0469bf538ac7865577f86b8449c6d4e8351821c5a4a6b1c046d031e6f1e277e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -238,7 +238,7 @@ Departementet gir forskrifter om gjennomføringen av bestemmelsene i loven her.
 
 ### § 37. Ikraftsettings- og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves [lov 9. desember 1955 nr. 5](lov/1955-12-09-5) om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven).
+Loven gjelder fra den tid Kongen bestemmer.[^1] Fra samme tid oppheves [lov 9. desember 1955 nr. 5](lov/1955-12-09-5) om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven).
 
 Loven får virkning også for saker der innkreving er igangsatt eller begjært igangsatt før lovens ikraftsetting, likevel slik at straffebestemmelsene i [§ 33](lov/2005-04-29-20/§33) bare gjelder for overtredelser som finner sted etter lovens ikraftsetting.
 

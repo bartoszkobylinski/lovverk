@@ -15,7 +15,7 @@ xml_hash: "ae80af21b82ac195f10274cc5c21c365089b59fe477a0435d043ae068f6f013e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1938,7 +1938,7 @@ Som et alternativ til disse retningslinjene kan [kap. 7](forskrift/2013-11-22-14
 
 *Administrasjonen:* Sjøfartsdirektoratet.
 
-*Godkjent:* Godkjent av Sjøfartsdirektoratet eller den det bemyndiger.1
+*Godkjent:* Godkjent av Sjøfartsdirektoratet eller den det bemyndiger.[^1]
 
 *Krengeprøve:* Finne beliggenheten av skipets vertikale tyngdepunkt i en gitt tilstand, normalt ved å flytte en serie med kjente vekter tverrskips og så måle den tilhørende forandringen i statisk likevektsvinkel for skipet. Lettskip: Et ferdig utrustet skip, men uten forbruksvarer, stores, last, mannskap og deres effekter, og uten noen ombordværende væsker, med det unntak at væsker som inngår i maskineri og systemer, f.eks. smøreolje og hydraulikkolje, skal være oppfylt til normalt driftsnivå.
 

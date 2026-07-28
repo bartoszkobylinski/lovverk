@@ -15,7 +15,7 @@ xml_hash: "802102d077a3df23ba690a810ef2c630d298844f3fa2e22defcba3463473b34f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -534,7 +534,7 @@ Bestemmelsene i paragrafen her gjelder også ved overføring av virksomhet mello
 
 ### § 51. Ikraftsetting
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2001 for [§ 1](lov/2001-06-15-93/§1) til [§ 21](lov/2001-06-15-93/§21), [§ 23](lov/2001-06-15-93/§23) til [§ 51](lov/2001-06-15-93/§51), [§ 52](lov/2001-06-15-93/§52) nr. 1, nr. 2, nr. 3, nr. 9, nr. 10 og nr. 11 og [§ 53](lov/2001-06-15-93/§53) nr. 5, nr. 6, nr. 8, nr. 11 og nr. 17 iflg. [res. 15 juni 2001 nr. 669](forskrift/2001-06-15-669).
 Fra 1 jan 2002 for resten av loven iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417).
@@ -576,7 +576,7 @@ Fra 1 jan 2002 for resten av loven iflg. [res. 14 des 2001 nr. 1417](forskrift/2
 
 ### § 53. Endring i andre lover
 
-Fra den tid1 loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+Fra den tid[^1] loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
 1 Fra 1 juli 2001 for [§ 53](lov/2001-06-15-93/§53) nr. 5, nr. 6, nr. 8, nr. 11 og nr. 17 iflg. [res. 15 juni 2001 nr. 669](forskrift/2001-06-15-669).
 Fra 1 jan 2002 for resten av loven iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417).

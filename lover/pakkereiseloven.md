@@ -15,7 +15,7 @@ xml_hash: "0e886e0dfbeed526fea3824d1785196ffec41c1a1fe21fd8548f8908d4e60b56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32015L2302"
@@ -458,7 +458,7 @@ Med bøter eller med fengsel i inntil tre måneder straffes den som forsettlig e
 
 ### § 54. Ikrafttredelse og overgangsbestemmelser
 
-Loven gjelder fra den tid1 Kongen bestemmer. Loven gjelder bare for avtaler som inngås etter lovens ikrafttredelse.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Loven gjelder bare for avtaler som inngås etter lovens ikrafttredelse.
 
 1 Fra 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885).
 

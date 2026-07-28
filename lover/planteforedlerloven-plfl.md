@@ -15,7 +15,7 @@ xml_hash: "8232555b480e74881eedb656dc54a048c75f97bb7915b207dad39bab69f210e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -336,7 +336,7 @@ Oslo tingrett er verneting for søkere og innehavere av planteforedlerretter der
 
 Stortinget samtykker i at Norge slutter seg til Den internasjonale konvensjonen for beskyttelse av nye plantesorter vedtatt 2. desember 1961 og endret 10. november 1972 og 23. oktober 1978.
 
-Loven trer i kraft fra den tid Kongen fastsetter.1 [§ 30](lov/1993-03-12-32/§30) første ledd trer likevel i kraft straks.
+Loven trer i kraft fra den tid Kongen fastsetter.[^1] [§ 30](lov/1993-03-12-32/§30) første ledd trer likevel i kraft straks.
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 

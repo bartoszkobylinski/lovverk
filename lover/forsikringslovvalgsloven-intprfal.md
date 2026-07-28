@@ -15,7 +15,7 @@ xml_hash: "8b0cc86de20e358aa13f69419eec192e89c96bb57b634f06c7c62dd9e177576b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -69,7 +69,7 @@ Når forsikringstakeren er en juridisk person og forpliktelsen består i Norge, 
 
 Når forpliktelsen består i et annet land enn Norge, og dette landets lovgivning tillater avtalefrihet utover det som følger av første og annet ledd, kan partene velge lovgivning i den utstrekning dette landets lovgivning tillater det.
 
-## § 9.1 Lovvalg i annen forsikring enn livsforsikring
+## § 9.[^1] Lovvalg i annen forsikring enn livsforsikring
 
 En avtale om tegning av annen forsikring enn livsforsikring står under lovgivningen i det land der risikoen består, når forsikringstakeren har vanlig bosted eller hovedsete i vedkommende land.
 
@@ -85,7 +85,7 @@ Partenes vedtakelse av en bestemt lovgivning kan, hvis alle andre relevante omst
 
 1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7a (dir [92/49](eu/31992l0049*)), se nå nr. 1 (dir [2009/138](eu/32009l0138*)).
 
-## § 9 a.1 Utvidet adgang til avtalt lovvalg i annen forsikring enn livsforsikring2
+## § 9 a.[^1] Utvidet adgang til avtalt lovvalg i annen forsikring enn livsforsikring[^2]
 
 I avtaler som gjelder følgende forsikringsklasser, kan partene alltid velge et hvilket som helst lands lovgivning:
 
@@ -135,6 +135,6 @@ Dersom en del av avtalen kan skilles ut og har en sterkere tilknytning til et an
 
 ## § 11. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 1993.

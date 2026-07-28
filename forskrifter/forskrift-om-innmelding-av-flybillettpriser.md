@@ -15,7 +15,7 @@ xml_hash: "b59e9d778063b5ba9837e11481f9b552cf2f5ea1903bcdae2db71114e4b24f26"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,9 +33,9 @@ Konkurransetilsynet kan fastsette nærmere bestemmelser om gjennomføring og utf
 
 ## § 2. Definisjoner
 
-1. Med «flyselskap» menes et lufttransportforetak som har gyldig lisens.1
-2. Med «gyldig lisens» menes et dokument utstedt av en stat som er part i EØS-avtalen til et foretak som gir foretaket tillatelse til mot vederlag å drive lufttransport av passasjerer, post og/eller frakt som angitt i lisensen slik det er definert i [forskrift 15. juli 1994 nr. 691](forskrift/1994-07-15-691) om gjennomføring og håndheving av EØS-avtalen på luftfartens område [§ 1](forskrift/1994-07-15-691/§1) nr. 8.2
-3. Med «billettpriser uten særskilt fastsatte begrensninger» menes den laveste fullt fleksible billettpris (grunntakst) slik de er definert i [forskrift 15. juli 1994 nr. 691](forskrift/1994-07-15-691) om gjennomføring og håndheving av EØS-avtalen på luftfartens område [§ 1](forskrift/1994-07-15-691/§1) nr. 6.3
+1. Med «flyselskap» menes et lufttransportforetak som har gyldig lisens.[^1]
+2. Med «gyldig lisens» menes et dokument utstedt av en stat som er part i EØS-avtalen til et foretak som gir foretaket tillatelse til mot vederlag å drive lufttransport av passasjerer, post og/eller frakt som angitt i lisensen slik det er definert i [forskrift 15. juli 1994 nr. 691](forskrift/1994-07-15-691) om gjennomføring og håndheving av EØS-avtalen på luftfartens område [§ 1](forskrift/1994-07-15-691/§1) nr. 8.[^2]
+3. Med «billettpriser uten særskilt fastsatte begrensninger» menes den laveste fullt fleksible billettpris (grunntakst) slik de er definert i [forskrift 15. juli 1994 nr. 691](forskrift/1994-07-15-691) om gjennomføring og håndheving av EØS-avtalen på luftfartens område [§ 1](forskrift/1994-07-15-691/§1) nr. 6.[^3]
 4. Med «gjøres gjeldende» menes her salgstidspunktet.
 
 1 Jf. Rfo [(EØF) 2409/92](eu/31992r2409) av 23. juli 1992, artikkel 2 bokstav g.
@@ -46,7 +46,7 @@ Konkurransetilsynet kan fastsette nærmere bestemmelser om gjennomføring og utf
 
 ## § 3. Sanksjoner
 
-Overtredelse av denne forskrift [§ 1](forskrift/1998-11-02-1050/§1) straffes med bøter eller fengsel i tre måneder.1
+Overtredelse av denne forskrift [§ 1](forskrift/1998-11-02-1050/§1) straffes med bøter eller fengsel i tre måneder.[^1]
 
 1 Jf. [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart (luftfartsloven) [§ 14-29](lov/1993-06-11-101/§14-29).
 

@@ -16,7 +16,7 @@ xml_hash: "2c81fcb0544b7c5c4e36fa18d7fddd50685691887d07df2dbde91e1cb43a2ce0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -360,7 +360,7 @@ Oppføringer i ballastvanndagboken skal foretas i hvert av følgende tilfeller:
 5. Samlet mengde ballastvann i kubikkmeter
 6. Angi omstendighetene ved inntrengning, opptak, utslipp eller spill, årsaken til at det har skjedd, behandlingsmåter som er brukt, og generelle kommentarer
 
-*(F)**Svikt og feil\* i ballastvannbehandlingssystemet*
+*(F)**Svikt og feil[^\*] i ballastvannbehandlingssystemet*
 
 1. Tid og sted (navn på havn eller bredde-/lengdegrad) for svikt i ballastvannbehandlingssystemet
 2. Utført operasjon (angi om det er snakk om opptak eller utslipp)

@@ -15,7 +15,7 @@ xml_hash: "064ad4fba085b696047709dbdda1c24d37c9abb427d0d3a0d01217890923cc90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,7 +43,7 @@ overtredelse av [militær straffelov § 34 annet ledd annet straffalternativ](lo
 
 ## III
 
-1. Loven gjelder fra den tiden1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.
+1. Loven gjelder fra den tiden[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 15. september 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054).

@@ -15,7 +15,7 @@ xml_hash: "506bc84c34540dd41f75be4d22b4717e34076fe4c46a5d49873efa205a4b3f03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,6 +32,6 @@ Loven gjelder for Svalbard.
 
 ## II
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan bestemme at loven skal gjøres gjeldende for ulike deler av Svalbard til ulik tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan bestemme at loven skal gjøres gjeldende for ulike deler av Svalbard til ulik tid.
 
 1 Fra 1 juli 2025 iflg. [res. 28 mars 2025 nr. 545](forskrift/2025-03-28-545), gjelder for Longyearbyen og Ny-Ålesund.

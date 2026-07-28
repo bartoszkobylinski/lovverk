@@ -15,7 +15,7 @@ xml_hash: "1235a6c5b9ff00d6be0c995ff2582d1810847f70a3627b0c0820bcf7ab2f14a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ eu_basis: []
 
 *2. I virksomhet som framstiller, pakker, bruker eller oppbevarer giftige eller helsefarlige stoffer på en måte som kan innebære helserisiko, skal det foretas fortløpende kontroll med arbeidsmiljøet og arbeidstakernes helse.*
 
-*Direktoratet for arbeidstilsynet1 gir nærmere regler for prøvemetode, omfang og hyppighet av undersøkelsene og om rapportering av resultatene. Direktoratet kan dessuten kreve at arbeidsgiveren skal foreta spesielle undersøkelser eller levere prøver til undersøkelse.*
+*Direktoratet for arbeidstilsynet[^1] gir nærmere regler for prøvemetode, omfang og hyppighet av undersøkelsene og om rapportering av resultatene. Direktoratet kan dessuten kreve at arbeidsgiveren skal foreta spesielle undersøkelser eller levere prøver til undersøkelse.*
 
 *Utgifter til undersøkelse som pålegges etter denne paragraf, bæres av den som har plikt til å foreta undersøkelsen eller levere prøven.*
 
@@ -50,7 +50,7 @@ eu_basis: []
 
 – – –
 
-## Kap. IV. Ansvar for produsenter, leverandører m.v.1
+## Kap. IV. Ansvar for produsenter, leverandører m.v.[^1]
 
 > Forskriften opphevet fra 1 jan 2003 med unntak av [§ 11](forskrift/1977-06-24-9453/§11), [§ 17](forskrift/1977-06-24-9453/§17) og [§ 18](forskrift/1977-06-24-9453/§18), jf. [forskrift 20 des 2002 nr. 1619](forskrift/2002-12-20-1619)
 
@@ -68,7 +68,7 @@ Det skal følge med nødvendig og lett forståelig skriftlig rettleiing om trans
 
 *3. Tekniske innretninger eller utstyr som nevnt i denne paragrafs nr. 1, skal, før de overdras eller utstilles, være forsynt med produsentens, eller for importerte innretningers vedkommende, importørens navn og adresse, eller med annen merking, som gjør det lett å identifisere produsenten eller importøren.*
 
-*4. Kongen1 gir nærmere bestemmelser om:*
+*4. Kongen[^1] gir nærmere bestemmelser om:*
 
 1. *konstruksjon, utførelse, oppstilling m.v.,*
 2. *godkjenning,*
@@ -84,15 +84,15 @@ Det skal følge med nødvendig og lett forståelig skriftlig rettleiing om trans
 
 1. *skaffe til veie opplysninger om stoffets sammensetning og egenskaper,*
 2. *treffe de tiltak som er nødvendige for å forebygge ulykker og helseskader eller særlig ubehag eller ulempe for arbeidstakerne,*
-3. *gi melding til den Kongen1 bestemmer om stoffets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,*
+3. *gi melding til den Kongen[^1] bestemmer om stoffets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,*
 4. *sørge for forsvarlig emballasje slik at ulykker og helseskader forebygges,*
 5. merke emballasjen med stoffets navn, produsentens eller importørens navn og tydelig advarsel. Etikett for merking skal sendes sammen med melding etter bokstav c).
 
-2\. *Kongen1 kan kreve at produsenten eller importøren foretar undersøkelser eller leverer prøve til undersøkelse for å få fastslått stoffets farlighetsgrad.*
+2\. *Kongen[^1] kan kreve at produsenten eller importøren foretar undersøkelser eller leverer prøve til undersøkelse for å få fastslått stoffets farlighetsgrad.*
 
-*Kongen1 kan forby omsetning av et stoff hvis en produsent eller importør forsømmer sin melde- eller merkeplikt, eller ikke gir supplerende opplysninger som kreves i medhold av denne paragrafs nr. 1, bokstav c).*
+*Kongen[^1] kan forby omsetning av et stoff hvis en produsent eller importør forsømmer sin melde- eller merkeplikt, eller ikke gir supplerende opplysninger som kreves i medhold av denne paragrafs nr. 1, bokstav c).*
 
-*3. Kongen1 gir nærmere bestemmelser om produsenters og importørers plikter etter denne paragraf.*
+*3. Kongen[^1] gir nærmere bestemmelser om produsenters og importørers plikter etter denne paragraf.*
 
 *Kongen kan fastsette at bestemmelsene i denne paragraf helt eller delvis skal gjelde for forhandlere.*
 

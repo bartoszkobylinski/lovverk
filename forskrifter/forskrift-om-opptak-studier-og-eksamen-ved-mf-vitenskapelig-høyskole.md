@@ -15,7 +15,7 @@ xml_hash: "5b01e06a39ea9189838db4b38bca4f1f4df08b3d226206b37e6bb672cc807b57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -706,6 +706,6 @@ Studenter som avlegger eksamen i emner som faglig sett dekker hverandre helt ell
 
 ### § 55. Ikrafttredelse
 
-Forskriften trer i kraft 1. januar 2006. Samtidig oppheves reglement 8. september 20031 for gradsstudier ved Det teologiske Menighetsfakultet og reglement 8. september 20031 for opptak, studier og eksamen ved Det teologiske Menighetsfakultet.
+Forskriften trer i kraft 1. januar 2006. Samtidig oppheves reglement 8. september 2003[^1] for gradsstudier ved Det teologiske Menighetsfakultet og reglement 8. september 2003[^1] for opptak, studier og eksamen ved Det teologiske Menighetsfakultet.
 
 1 Ikke kunngjort i Norsk Lovtidend.

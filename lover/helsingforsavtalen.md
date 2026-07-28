@@ -15,7 +15,7 @@ xml_hash: "83bdf1f993634248ffde710580e064c60b635f4782e12439309c9eb80773e9f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Avtalepartene bør rådføre seg med hverandre i spørsmål av felles interesse 
 
 ### Art 2
 
-Ved utformingen av lover og andre rettsregler i de nordiske land skal statsborgere i de øvrige nordiske land behandles likt med landets egne statsborgere. Dette gjelder innenfor samarbeidsoverenskomstens virkeområde.1
+Ved utformingen av lover og andre rettsregler i de nordiske land skal statsborgere i de øvrige nordiske land behandles likt med landets egne statsborgere. Dette gjelder innenfor samarbeidsoverenskomstens virkeområde.[^1]
 
 Det kan likevel gjøres unntak fra første avsnitt dersom krav til statsborgerskap er grunnlovsfestet, nødvendig på grunn av andre internasjonale forpliktelser eller det ellers av særlige grunner anses som nødvendig.
 
@@ -98,7 +98,7 @@ Hver avtalepart bør opprettholde og utvide mulighetene for studerende hjemmehø
 
 Avtalepartene bør samordne slik offentlig anordnet utdannelse som tar sikte på å gi rett til særskilt yrkesutøvelse.
 
-Denne utdannelse bør så vidt mulig gi samme rett til yrkesutøvelse i alle nordiske land. Det kan likevel stilles krav om slik tilleggsutdannelse som nasjonale forhold måtte tilsi.1
+Denne utdannelse bør så vidt mulig gi samme rett til yrkesutøvelse i alle nordiske land. Det kan likevel stilles krav om slik tilleggsutdannelse som nasjonale forhold måtte tilsi.[^1]
 
 1 Sml. [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 1 (direktiv [2005/36/EF](eu/32005l0036)).
 
@@ -510,7 +510,7 @@ Innen de kontraherende parter enes om endring i denne avtale, skal Nordisk Råd 
 
 ### Art 69
 
-Denne avtale skal ratifiseres, og ratifikasjonsdokumentene skal snarest mulig deponeres i det finske utenriksministerium. Avtalen trer i kraft1 første dag i den måned som begynner nærmest etter den dag da samtlige parters ratifikasjonsdokumenter er deponert.
+Denne avtale skal ratifiseres, og ratifikasjonsdokumentene skal snarest mulig deponeres i det finske utenriksministerium. Avtalen trer i kraft[^1] første dag i den måned som begynner nærmest etter den dag da samtlige parters ratifikasjonsdokumenter er deponert.
 
 > Tidligere art 39.
 

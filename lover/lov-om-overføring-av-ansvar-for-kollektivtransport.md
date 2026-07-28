@@ -15,7 +15,7 @@ xml_hash: "e20b91ed7880e0e866f01d80061322c2d11e177b794c1745d07aeca9971e4ca7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Ved uenighet mellom fylkeskommunen og kommunen om hvilke rettigheter eller plikt
 
 ## § 5. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2020 iflg. [res. 16 juni 2017 nr. 759](forskrift/2017-06-16-759).
 

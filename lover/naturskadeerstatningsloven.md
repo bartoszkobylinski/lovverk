@@ -15,7 +15,7 @@ xml_hash: "ed8201c01078d90a2923c85bc14e3900642ea1abefb1b4207d9cf260a729b496"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -199,7 +199,7 @@ Søksmål kan ikke reises med mindre skadelidte har benyttet adgangen til å kla
 
 ### § 23. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](forskrift/2014-08-15-1084).
 

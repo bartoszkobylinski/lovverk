@@ -15,7 +15,7 @@ xml_hash: "5b19830f894c520f8a94e9309f727159ec6af933dd14f2089db086dab87ddbe0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -389,7 +389,7 @@ Gjelder tjenesten en ting som er overgitt til eller som ellers er hos tjenesteyt
 
 ### § 48. Ikrafttredelse.
 
-(1) Loven trer i kraft fra den dag Kongen fastsetter.1
+(1) Loven trer i kraft fra den dag Kongen fastsetter.[^1]
 
 (2) Loven får bare anvendelse på avtaler som blir inngått etter at loven er trådt i kraft.
 

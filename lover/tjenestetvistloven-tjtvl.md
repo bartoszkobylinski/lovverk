@@ -15,7 +15,7 @@ xml_hash: "80a0f7331628759e92816375033993be58f22e761ef0e0f92cde69589c6206f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -303,7 +303,7 @@ Når en tvist av partene er besluttet brakt inn for Rikslønnsnemnda, kan arbeid
 
 ### § 26 a
 
-Har det vært foretatt megling i en tvist som gjelder tjenestemenn som ikke har adgang til å gå til arbeidsnedleggelse, og meglingen ikke har ført frem, skal den meglingsmann1 som har ledet meglingen, innen 3 dager etter at meglingen er slutt, sende innberetning til Rikslønnsnemndas leder. Nemnda avgjør tvisten med bindende virkning for partene. Reglene i [§ 26](lov/1958-07-18-2/§26) annet og tredje punktum får tilsvarende anvendelse.
+Har det vært foretatt megling i en tvist som gjelder tjenestemenn som ikke har adgang til å gå til arbeidsnedleggelse, og meglingen ikke har ført frem, skal den meglingsmann[^1] som har ledet meglingen, innen 3 dager etter at meglingen er slutt, sende innberetning til Rikslønnsnemndas leder. Nemnda avgjør tvisten med bindende virkning for partene. Reglene i [§ 26](lov/1958-07-18-2/§26) annet og tredje punktum får tilsvarende anvendelse.
 
 Når det er sendt innberetning som nevnt i første ledd, er det forbudt å forsøke å sperre vedkommende tjenestegren for arbeidskraft.
 
@@ -401,7 +401,7 @@ Første ledd får tilsvarende anvendelse for de organisasjoner av folke- og fram
 
 ### § 33
 
-Fra den dag loven trer i kraft1 oppheves: – –
+Fra den dag loven trer i kraft[^1] oppheves: – –
 
 Fra samme tidspunkt blir det gjort følgende endringer i andre lover: – – –
 

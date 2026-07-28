@@ -15,7 +15,7 @@ xml_hash: "6f6cac3c90e854dc33a6f4be6ceab9bbb199e163c4154eba08cf866553952e6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Denne forskriften med vedlegg kommer til anvendelse:
 
 (4) Henvisningene til «enheten for økonomisk etterretning» eller andre kompetente myndigheter utpekt av vedkommende medlemsstat (som angitt på nettsidene oppført i vedlegg I) i artikkel 23 skal forstås som «Økokrim». De øvrige henvisningene til «kompetente myndigheter», også i enkelte tilfeller med referanser til nettsidene oppført i vedlegg I, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
 
-(5) Forbudene i artikkel 3 og 7 omfatter også varer og teknologi oppført i vedlegg I til forskrift om eksport av forsvarsmateriell mv., og alle typer produkter, materialer, utstyr, varer og teknologi, fastsatt av FNs sikkerhetsråd eller Sanksjonskomiteen, som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, andre masseødeleggelsesvåpen eller ballistiske missiler.1
+(5) Forbudene i artikkel 3 og 7 omfatter også varer og teknologi oppført i vedlegg I til forskrift om eksport av forsvarsmateriell mv., og alle typer produkter, materialer, utstyr, varer og teknologi, fastsatt av FNs sikkerhetsråd eller Sanksjonskomiteen, som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, andre masseødeleggelsesvåpen eller ballistiske missiler.[^1]
 
 (6) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelsen i artikkel 50 nr. 1 bokstav a om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også følgende bestemmelser EU-interne og kommer ikke til anvendelse: artikkel 1, artikkel 2 nr. 22, artikkel 46, artikkel 47a, artikkel 49 nr. 1, artikkel 54 nr. 2, artikkel 55 og artikkel 57. Tilsvarende gjelder forordningens vedlegg I.
 
@@ -70,7 +70,7 @@ Denne forskriften med vedlegg kommer til anvendelse:
 
 ## § 3. Avlisting
 
-Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 34 nr. 4 første ledd i vedlagte forordning retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs sikkerhetsrådsresolusjon 1730 (2006).1
+Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 34 nr. 4 første ledd i vedlagte forordning retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs sikkerhetsrådsresolusjon 1730 (2006).[^1]
 
 > Tilføyd ved [forskrift 17 aug 2009 nr. 1094](forskrift/2009-08-17-1094), endret ved [forskrifter 28 mars 2014 nr. 335](forskrift/2014-03-28-335), [21 nov 2017 nr. 1853](forskrift/2017-11-21-1853).
 
@@ -166,7 +166,7 @@ I denne forordning menes med
 
 5\. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
 
-6\. «kredittinstitusjon»: en kredittinstitusjon som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*),2 herunder dens filialer, som definert i artikkel 4 nr. 1 punkt 17 i nevnte forordning, som befinner seg i EU, uansett om dens hovedkontor befinner seg i EU eller i et tredjeland,
+6\. «kredittinstitusjon»: en kredittinstitusjon som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*),[^2] herunder dens filialer, som definert i artikkel 4 nr. 1 punkt 17 i nevnte forordning, som befinner seg i EU, uansett om dens hovedkontor befinner seg i EU eller i et tredjeland,
 
 7\. «diplomatiske og konsulære stasjoner og deres medlemmer»: det samme som i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963;](traktat/1963-04-24-1) det omfatter også nordkoreanske representasjoner ved internasjonale organisasjoner som er etablert i medlemsstatene, samt nordkoreanske medlemmer av disse representasjonene,
 
@@ -174,11 +174,11 @@ I denne forordning menes med
 
 9\. «finansinstitusjon»:
 
-1. et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere former for virksomhet oppført i nr. 2–12 og nr. 14 og 15 i vedlegg I til europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*),3 herunder virksomhet som vekslekontor,
-2. et forsikringsselskap som definert i artikkel 13 nr. 1 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*),4 i den grad det utøver livsforsikringsvirksomhet som dekkes av dette direktivet,
-3. et verdipapirforetak som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*),5
+1. et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere former for virksomhet oppført i nr. 2–12 og nr. 14 og 15 i vedlegg I til europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*),[^3] herunder virksomhet som vekslekontor,
+2. et forsikringsselskap som definert i artikkel 13 nr. 1 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*),[^4] i den grad det utøver livsforsikringsvirksomhet som dekkes av dette direktivet,
+3. et verdipapirforetak som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*),[^5]
 4. et foretak for kollektiv investering som markedsfører sine enheter eller andeler,
-5. en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092)6 når denne utøver virksomhet med hensyn til livsforsikringer og andre investeringsrelaterte tjenester, med unntak av en bundet forsikringsformidler som definert i nr. 7 i nevnte artikkel,
+5. en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092)[^6] når denne utøver virksomhet med hensyn til livsforsikringer og andre investeringsrelaterte tjenester, med unntak av en bundet forsikringsformidler som definert i nr. 7 i nevnte artikkel,
 6. filialer, når de befinner seg i EU, av finansinstitusjoner omtalt i bokstav a)–e), uansett om deres hovedkontor befinner seg i en medlemsstat eller i et tredjeland,
 
 10\. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
@@ -212,7 +212,7 @@ I denne forordning menes med
 
 16\. «betaler»: en person som innehar en betalingskonto og tillater at penger overføres fra denne kontoen, eller dersom det ikke foreligger en betalingskonto, som utsteder en betalingsordre,
 
-17\. «betalingsformidler»: de kategorier betalingstjenesteytere som omtales i artikkel 1 nr. 1 i europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*), 7 fysiske eller juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 26 i direktiv [2007/64/EF](eu/32007l0064*), og juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 9 i europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110),8 og som yter pengeoverføringstjenester,
+17\. «betalingsformidler»: de kategorier betalingstjenesteytere som omtales i artikkel 1 nr. 1 i europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*), [^7] fysiske eller juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 26 i direktiv [2007/64/EF](eu/32007l0064*), og juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 9 i europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110),[^8] og som yter pengeoverføringstjenester,
 
 18\. «gjenforsikring»: den form for virksomhet som består i å overta risikoer som overdras av et forsikringsselskap eller av et annet gjenforsikringsselskap, eller i tilfellet assurandørsammenslutningen Lloyds, den form for virksomhet som består i å overta risikoer som overdras av et medlem av Lloyds, av et forsikringsselskap eller et gjenforsikringsselskap som ikke er assurandørsammenslutningen Lloyds,
 
@@ -228,7 +228,7 @@ I denne forordning menes med
 
 1. enhver transaksjon som i det minste delvis utføres med elektroniske midler på betalers vegne gjennom en betalingsformidler for å stille penger til disposisjon for mottaker hos en betalingsformidler, uansett om betaler og mottaker er en og samme person, og uansett om betalers og mottakers betalingsformidler er en og samme tjenesteyter, herunder
 
-   1. en kreditoverføring som definert i artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260),9
+   1. en kreditoverføring som definert i artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260),[^9]
    2. en direkte debitering som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 260/2012](eu/32012r0260),
    3. en pengeoverføring som definert i artikkel 4 nr. 13 i direktiv [2007/64/EF](eu/32007l0064*), enten innenlands eller over landegrenser,
    4. en overføring som utføres med et betalingskort, et elektronisk pengeinstrument eller en mobiltelefon eller med andre digitale eller IT-baserte innretninger med lignende egenskaper, enten den betales på forskudd eller etterskudd, og
@@ -273,7 +273,7 @@ Eksport- og importrestriksjoner
 6. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea petroleumsprodukter oppført i vedlegg VI, enten de har sin opprinnelse i Nord-Korea eller ikke, og
 7. direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kobber, nikkel, sølv og sink oppført i vedlegg VII, enten de har sin opprinnelse i Nord-Korea eller ikke.
 
-2\. Vedlegg II del I omfatter alle typer produkter, materialer, utstyr, varer og teknologi, herunder programvare, som er flerbruksvarer eller teknologi som definert i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*). 10
+2\. Vedlegg II del I omfatter alle typer produkter, materialer, utstyr, varer og teknologi, herunder programvare, som er flerbruksvarer eller teknologi som definert i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*). [^10]
 Vedlegg II del II omfatter andre typer produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
 Vedlegg II del III omfatter visse nøkkelkomponenter til sektoren for ballistiske missiler.
 Vedlegg II del IV omfatter produkter, materialer, utstyr, varer og teknologi knyttet til masseødeleggelsesvåpen og listeført i henhold til punkt 25 i FNs sikkerhetsrådsresolusjon 2270 (2016).
@@ -342,7 +342,7 @@ Vedlegg VII omfatter kobber, nikkel, sølv og sink omtalt i nr. 1 bokstav g).
 
 ### Artikkel 9
 
-1\. I tillegg til plikten til å oppgi informasjon før ankomst eller avreise til kompetente tollmyndigheter som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel samt tolldeklarasjoner i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*),11 i delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*)12 og i Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*),13 skal personen som gir informasjonen omtalt i nr. 2, deklarere om varene er omfattet av EUs felles liste over militært materiell eller av denne forordning, og når det kreves tillatelse til eksport av varene og teknologien, gi nærmere opplysninger om den tildelte eksportlisensen.
+1\. I tillegg til plikten til å oppgi informasjon før ankomst eller avreise til kompetente tollmyndigheter som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel samt tolldeklarasjoner i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*),[^11] i delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*)[^12] og i Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*),[^13] skal personen som gir informasjonen omtalt i nr. 2, deklarere om varene er omfattet av EUs felles liste over militært materiell eller av denne forordning, og når det kreves tillatelse til eksport av varene og teknologien, gi nærmere opplysninger om den tildelte eksportlisensen.
 
 2\. De obligatoriske tilleggsopplysningene skal sendes inn i form av en elektronisk tolldeklarasjon eller i en annen elektronisk eller skriftlig form dersom det ikke foreligger tolldeklarasjon.
 
@@ -601,8 +601,8 @@ Restriksjoner på overføring av penger og finansielle tjenester
 
 1\. Når kreditt- og finansinstitusjoner utøver sin virksomhet, herunder clearing, med kreditt- og finansinstitusjoner omtalt i artikkel 21 nr. 2, skal de
 
-1. anvende kundekontrolltiltak fastsatt i henhold til artikkel 13 og 14 i europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849),14
-2. sikre etterlevelse av tiltak som er innført mot hvitvasking av penger og finansiering av terrorisme i henhold til direktiv (EU) [2015/849](eu/32015l0849) og europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847),15
+1. anvende kundekontrolltiltak fastsatt i henhold til artikkel 13 og 14 i europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849),[^14]
+2. sikre etterlevelse av tiltak som er innført mot hvitvasking av penger og finansiering av terrorisme i henhold til direktiv (EU) [2015/849](eu/32015l0849) og europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847),[^15]
 3. kreve at opplysninger om betalere og mottakere som skal følge med pengeoverføringer, gis slik forordning [(EU) 2015/847](eu/32015r0847) krever, og avslå å behandle transaksjonen dersom noen av disse opplysningene mangler eller er ufullstendige,
 4. oppbevare opplysninger om transaksjonene i samsvar med artikkel 40 bokstav b) i direktiv (EU) [2015/849](eu/32015l0849),
 5. dersom det er rimelig grunn til å anta at pengene kan bidra til Nord-Koreas programmer eller virksomhet knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen (heretter kalt «finansiering av spredning»), omgående underrette vedkommende enhet for økonomisk etterretning, som definert i direktiv (EU) [2015/849](eu/32015l0849), eller en annen kompetent myndighet utpekt av den berørte medlemsstaten, uten at det berører artikkel 7 nr. 1 eller artikkel 33 i denne forordning,
@@ -1224,7 +1224,7 @@ II.A2. Goods
 | *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
 | --- | --- | --- |
 | II.A2.001 | Vibration test systems, equipment and components thereof, other than those specified in 2B116:<br>a. Vibration test systems employing feedback or closed loop techniques and incorporating a digital controller, capable of vibrating a system at an acceleration equal to or greater than 0,1 g rms between 0,1 Hz and 2 kHz and imparting forces equal to or greater than 50 kN, measured 'bare table';<br>b. Digital controllers, combined with specially designed vibration test 'software', with a 'real-time control bandwidth' greater than 5 kHz designed for use with vibration test systems specified in a.;<br>'Real-time control bandwidth' is defined as the maximum rate at which a controller can execute complete cycles of sampling, processing data and transmitting control signals.<br>c. Vibration thrusters (shaker units), with or without associated amplifiers, capable of imparting a force equal to or greater than 50 kN, measured 'bare table', and usable in vibration test systems specified in a.;<br>d. Test piece support structures and electronic units designed to combine multiple shaker units in a system capable of providing an effective combined force equal to or greater than 50 kN, measured 'bare table', and usable in vibration systems specified in a.<br>'bare table' means a flat table, or surface, with no fixture or fittings. | 2B116 |
-| II.A2.002 | Machine tools, other than those specified in 2B001 or 2B201 and any combination thereof, for removing (or cutting) metals, ceramics, or 'composites' that, according to the manufacturer's technical specification, can be equipped with electronic devices for 'numerical control', having positioning accuracies of equal to or less (better) than 30 µm according to ISO 230/2 (1988) 1 or national equivalents along any linear axis. | 2B001<br>2B201 |
+| II.A2.002 | Machine tools, other than those specified in 2B001 or 2B201 and any combination thereof, for removing (or cutting) metals, ceramics, or 'composites' that, according to the manufacturer's technical specification, can be equipped with electronic devices for 'numerical control', having positioning accuracies of equal to or less (better) than 30 µm according to ISO 230/2 (1988) [^1] or national equivalents along any linear axis. | 2B001<br>2B201 |
 | II.A2.002a | Components and numerical controls, specially designed for machine tools specified in 2B001, 2B201 or I.A2.002 above. |  |
 | II.A2.003 | Balancing machines and related equipment as follows:<br>a. Balancing machines, designed or modified for dental or other medical equipment, having all the following characteristics:<br>1. Not capable of balancing rotors/assemblies having a mass greater than 3 kg;<br>2. Capable of balancing rotors/assemblies at speeds greater than 12 500 rpm;<br>3. Capable of correcting unbalance in two planes or more; and<br>4. Capable of balancing to a residual specific unbalance of 0,2 g × mm per kg of rotor mass;<br>b. 'Indicator heads' designed or modified for use with machines specified in a. above.<br>'Indicator heads' are sometimes known as balancing instrumentation. | 2B119 |
 | II.A2.004 | Remote manipulators that can be used to provide remote actions in radiochemical separation operations or hot cells, other than those specified in 2B225, having either of the following characteristics:<br>a. A capability of penetrating a hot cell wall of 0,3 m or more (through the wall operation); or<br>b. A capability of bridging over the top of a hot cell wall with a thickness of 0,3 m or more (over the wall operation).<br>Remote manipulators provide translation of human operator actions to a remote operating arm and terminal fixture. They may be of master/slave type or operated by joystick or keypad. | 2B225 |
@@ -2732,7 +2732,7 @@ FNs liste over fartøy identifisert av FNs sikkerhetsråds komité etablert i me
 ### Vedlegg XV
 List of persons, entities and bodies referred to in Article 34
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
 
 Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under denne forskriften.
 
@@ -2741,7 +2741,7 @@ Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under d
 ### Vedlegg XVI
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
 
 Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under denne forskriften.
 
@@ -2750,7 +2750,7 @@ Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under d
 ### Vedlegg XVII
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
 
 Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under denne forskriften.
 

@@ -15,7 +15,7 @@ xml_hash: "61617aa6c0376a133b9cb4fd7549c8140c711a98c0fb5cc9a1d1bc027ffab79a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -503,6 +503,6 @@ Erstatningen fastsettes av skjønnsstyreren ved kjennelse.
 
 ## Slutningsbestemmelse.
 
-Tiden for denne lovs ikraftræden1 fastsættes ved særskilt lov.
+Tiden for denne lovs ikraftræden[^1] fastsættes ved særskilt lov.
 
 1 Fra 1 juli 1927, ved lov 25 feb 1927 nr. 4 avsnitt VII.

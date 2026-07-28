@@ -15,7 +15,7 @@ xml_hash: "25336bfe1d0a5cdfc6b8d431480b77db9462a572ce707d05a1c52cf70c801999"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0125"
@@ -162,6 +162,6 @@ I forskrift etter [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [
 
 ## § 16. Ikrafttredelse
 
-Loven gjelder fra den tiden1 Kongen bestemmer.
+Loven gjelder fra den tiden[^1] Kongen bestemmer.
 
 1 Fra 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1267](forskrift/2024-06-25-1267).

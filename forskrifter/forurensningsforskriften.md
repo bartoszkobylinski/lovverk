@@ -15,7 +15,7 @@ xml_hash: "f9bda3551457dc1f17fbe8fbab96f5b7b10be785b70446df86fa30825befab40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-08T06:25:33.153142+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1692,7 +1692,7 @@ Dette vedlegget angir de virksomheter som omfattes av dette kapitlet. Ved oversk
 
   - følgende kjøretøyer:
 
-    - nye biler klassifisert i gruppe M1 i direktiv [70/156/EØF](eu/31970l0156)1 og i gruppe N1 såfremt de behandles i samme anlegg som M1-kjøretøyer,
+    - nye biler klassifisert i gruppe M1 i direktiv [70/156/EØF](eu/31970l0156)[^1] og i gruppe N1 såfremt de behandles i samme anlegg som M1-kjøretøyer,
     - førerhus i lastebiler, definert som førerkupeen, samt enhver integrert kappe beregnet på det tekniske utstyret i kjøretøyer klassifisert i gruppe N2 og N3 i direktiv [70/156/EØF](eu/31970l0156),
     - lastebiler og tilhengere, dvs. kjøretøyer klassifisert i gruppe N1, N2 og N3 i direktiv [70/156/EØF](eu/31970l0156), med unntak av førerhus,
     - busser, dvs. kjøretøyer klassifisert i gruppe M2 og M3 i direktiv [70/156/EØF](eu/31970l0156),
@@ -2908,15 +2908,15 @@ RÅDET FOR DE EUROPEISKE FELLESSKAP HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 130 S,
 
-under henvisning til forslag fra Kommisjonen,1
+under henvisning til forslag fra Kommisjonen,[^1]
 
-under henvisning til uttalelse fra Europaparlamentet,2
+under henvisning til uttalelse fra Europaparlamentet,[^2]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komite,3 og
+under henvisning til uttalelse fra Den økonomiske og sosiale komite,[^3] og
 
 ut fra følgende betraktninger:
 
-I Rådets resolusjon av 28. juni 1988 om vern av Nordsjøen og andre vannforekomster innenfor Fellesskapet4 ble Kommisjonen anmodet om å fremlegge forslag om nødvendige tiltak på fellesskapsnivå for rensing av avløpsvann fra byområder.
+I Rådets resolusjon av 28. juni 1988 om vern av Nordsjøen og andre vannforekomster innenfor Fellesskapet[^4] ble Kommisjonen anmodet om å fremlegge forslag om nødvendige tiltak på fellesskapsnivå for rensing av avløpsvann fra byområder.
 
 Forurensning som skyldes utilstrekkelig rensing av spillvann i en medlemsstat, påvirker ofte vannforekomstene i andre medlemsstater, og i samsvar med artikkel 130 R er derfor handling på fellesskapsnivå påkrevd.
 
@@ -3118,7 +3118,7 @@ Medlemsstatene skal påse at renseanlegg for avløpsvann fra byområder som bygg
 
 *Artikkel 16*
 
-Uten at det berører gjennomføringen av rådsdirektiv [90/313/EØF](eu/31990l0313) av 7. juni 1990 om fri adgang til miljøopplysninger,1 skal medlemsstatene påse at vedkommende myndigheter eller organer hvert annet år offentliggjør en statusrapport om utslipp av avløpsvann fra byområder og fjerning av slam på sitt område. Medlemsstatene skal oversende Kommisjonen rapportene så snart de er offentliggjort.
+Uten at det berører gjennomføringen av rådsdirektiv [90/313/EØF](eu/31990l0313) av 7. juni 1990 om fri adgang til miljøopplysninger,[^1] skal medlemsstatene påse at vedkommende myndigheter eller organer hvert annet år offentliggjør en statusrapport om utslipp av avløpsvann fra byområder og fjerning av slam på sitt område. Medlemsstatene skal oversende Kommisjonen rapportene så snart de er offentliggjort.
 
 1 EFT nr. L 158 av 23.6.1990, s. 56.
 
@@ -3170,7 +3170,7 @@ R. STEICHEN
 ### VEDLEGG I
 KRAV TIL AVLØPSVANN FRA BYOMRÅDER
 
-*A. Avløpsnett1*
+*A. Avløpsnett[^1]*
 
 I forbindelse med avløpsnett skal det tas hensyn til kravene til rensing av avløpsvann.
 
@@ -3180,7 +3180,7 @@ Avløpsnett skal, uten at det medfører uforholdsmessig store omkostninger, utfo
 - forebygging av lekkasjer,
 - begrensning av forurensning av resipientvann som følge av regnvannsoverløp.
 
-*B. Utslipp i resipientvann fra renseanlegg for avløpsvann fra byområder1*
+*B. Utslipp i resipientvann fra renseanlegg for avløpsvann fra byområder[^1]*
 
 1\. Renseanlegg for avløpsvann skal utformes eller endres slik at det før utslipp i resipientvann kan tas representative prøver av det tilførte avløpsvannet og av det rensede avløpsvannet.
 
@@ -3226,11 +3226,11 @@ Spillvann fra industri som går i avløpsnett og til renseanlegg for avløpsvann
 
 *Tabell 1:* Krav til utslipp fra renseanlegg for avløpsvann fra byområder i henhold til bestemmelsene i artikkel 4 og 5 i dette direktiv. Konsentrasjonsverdien eller den prosentvise reduksjonen skal benyttes.
 
-| *Parametre* | *Konsentrasjon* | *Minste prosentvise reduksjon1* | *Referansemetode for måling* |
+| *Parametre* | *Konsentrasjon* | *Minste prosentvise reduksjon[^1]* | *Referansemetode for måling* |
 | --- | --- | --- | --- |
-| Biokjemisk oksygenforbruk (BOF5 ved 20 °C) uten nitrifikasjon2 | 25 mg/l O2 | 70-90<br><br>40 i henhold til artikkel 4 nr. 2 | Homogenisert, ufiltrert og ikke dekantert prøve. Bestemmelse av oppløst oksygen før og etter inkubasjon i fem dager ved 20 °C ± 1 °C i fullstendig mørke. Nitrifikasjonshemmer tilsettes. |
+| Biokjemisk oksygenforbruk (BOF5 ved 20 °C) uten nitrifikasjon[^2] | 25 mg/l O2 | 70-90<br><br>40 i henhold til artikkel 4 nr. 2 | Homogenisert, ufiltrert og ikke dekantert prøve. Bestemmelse av oppløst oksygen før og etter inkubasjon i fem dager ved 20 °C ± 1 °C i fullstendig mørke. Nitrifikasjonshemmer tilsettes. |
 | Kjemisk oksygenforbruk (KOF) | 125 mg/l O2 | 75 | Homogenisert, ufiltrert og ikke dekantert prøve. Kalium-dikromat. |
-| Totalmengde suspenderte faste stoffer | 35 mg/l3<br><br>35 i henhold til artikkel 4 nr. 2 (over 10.000 pe)<br><br>60 i henhold til artikkel 4 nr. 2 (mellom 2.000 og 10.000 pe) | 903<br><br>90 i henhold til artikkel 4 nr. 2 (over 10.000 pe)<br><br>70 i henhold til artikkel 4 nr. 2 (mellom 2.000 og 10.000 pe) | – Filtrering av en representativ prøve med membranfilter på 0,45 μg, tørking ved 105 °C og veiing.<br><br>– Sentrifugering av en representativ prøve (i minst fem minutter, med gjennomsnittlig akselerasjon på 2.800 til 3.200 g), tørking ved 105 °C og veiing. |
+| Totalmengde suspenderte faste stoffer | 35 mg/l[^3]<br><br>35 i henhold til artikkel 4 nr. 2 (over 10.000 pe)<br><br>60 i henhold til artikkel 4 nr. 2 (mellom 2.000 og 10.000 pe) | 90[^3]<br><br>90 i henhold til artikkel 4 nr. 2 (over 10.000 pe)<br><br>70 i henhold til artikkel 4 nr. 2 (mellom 2.000 og 10.000 pe) | – Filtrering av en representativ prøve med membranfilter på 0,45 μg, tørking ved 105 °C og veiing.<br><br>– Sentrifugering av en representativ prøve (i minst fem minutter, med gjennomsnittlig akselerasjon på 2.800 til 3.200 g), tørking ved 105 °C og veiing. |
 
 1 Reduksjon i forhold til verdiene ved innløpet.
 
@@ -3240,12 +3240,12 @@ Spillvann fra industri som går i avløpsnett og til renseanlegg for avløpsvann
 
 Analyser av utslipp etter bassengbehandling skal utføres på filtrerte prøver; konsentrasjonen av totalmengden suspenderte faste stoffer i prøvene av ufiltrert vann skal likevel ikke overstige 150 mg/l.
 
-*Tabell 2:*\* Krav til utslipp fra renseanlegg for avløpsvann fra byområder foretatt i følsomme områder som er utsatt for eutrofiering, registrert i vedlegg II avsnitt A bokstav a). Alt etter de lokale forhold skal det benyttes en parameter eller begge. Konsentrasjonsverdien eller den prosentvise reduksjonen skal benyttes.
+*Tabell 2:*[^\*] Krav til utslipp fra renseanlegg for avløpsvann fra byområder foretatt i følsomme områder som er utsatt for eutrofiering, registrert i vedlegg II avsnitt A bokstav a). Alt etter de lokale forhold skal det benyttes en parameter eller begge. Konsentrasjonsverdien eller den prosentvise reduksjonen skal benyttes.
 
-| *Parametre* | *Konsentrasjon* | *Minste prosentvise reduksjon1* | *Referansemetode for måling* |
+| *Parametre* | *Konsentrasjon* | *Minste prosentvise reduksjon[^1]* | *Referansemetode for måling* |
 | --- | --- | --- | --- |
 | Totalfosfor | 2 mg/l P (mellom 10.000 og 100.000 pe)<br><br>1 mg/l P (over 100.000 pe) | 80 | Molekylær absorpsjonsspektro-fotometri |
-| Totalnitrogen2 | 15 mg/l N3 (mellom 10.000 og 100.000 pe)<br><br>10 mg/l N3 (over 100.000 pe) | 70-80 | Molekylær absorpsjonsspektro-fotometri |
+| Totalnitrogen[^2] | 15 mg/l N[^3] (mellom 10.000 og 100.000 pe)<br><br>10 mg/l N[^3] (over 100.000 pe) | 70-80 | Molekylær absorpsjonsspektro-fotometri |
 
 1 Reduksjon i forhold til verdiene ved innløpet.
 
@@ -3276,7 +3276,7 @@ En vannmasse skal registreres som følsomt område dersom den faller inn under e
 
    1. innsjøer og vassdrag som munner ut i innsjøer/reservoarer/avstengte viker som har liten vannutskifting, noe som kan føre til akkumulasjon. I slike områder bør fosfor fjernes med mindre det kan påvises at fjerning ikke vil ha noen innvirkning på eutrofieringen. Det kan også overveies å fjerne nitrogen når utslippene stammer fra omfattende tettbebyggelse,
    2. elvemunninger, viker og andre kystfarvann som har dårlig vannutskifting, eller som mottar store mengder næringsstoffer. Utslipp fra lite omfattende tettbebyggelse er i alminnelighet av liten betydning i slike områder, men når det gjelder omfattende tettbebyggelse, skal fosfor og/eller nitrogen fjernes med mindre det påvises at fjerning ikke vil ha noen innvirkning på eutrofieringen.
-2. Overflateferskvann som er beregnet på uttak av drikkevann, og som kan få større nitratkonsentrasjon enn den fastsatt i de relevante bestemmelsene i rådsdirektiv [75/440/EØF](eu/31975l0440) av 16. juni 1975 om kvalitetskrav til overflatevann som benyttes til fremstilling av drikkevann i medlemsstatene,1 dersom det ikke treffes tiltak.
+2. Overflateferskvann som er beregnet på uttak av drikkevann, og som kan få større nitratkonsentrasjon enn den fastsatt i de relevante bestemmelsene i rådsdirektiv [75/440/EØF](eu/31975l0440) av 16. juni 1975 om kvalitetskrav til overflatevann som benyttes til fremstilling av drikkevann i medlemsstatene,[^1] dersom det ikke treffes tiltak.
 3. Områder der det er nødvendig å foreta rensing utover rensingen fastsatt i artikkel 4 i dette direktiv for å tilfredsstille Rådets direktiver.
 
 *B. Mindre følsomme områder*
@@ -3381,7 +3381,7 @@ Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om
 
 ### § 17-1
 
-Direktivene i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) om utslipp av farlige stoffer til vann (direktiv [82/176/EØF](eu/31982l0176), direktiv [83/513/EØF](eu/31983l0513), direktiv [84/156/EØF](eu/31984l0156), direktiv [84/491/EØF](eu/31984l0491), direktiv [86/280/EØF](eu/31986l0280) med endringer som følger av direktiv [88/347/EØF](eu/31988l0347) og direktiv [90/415/EØF](eu/31990l0415))1 og grunnvann (direktiv [80/68/EØF](eu/31980l0068))2 med de endringer som følger av direktiv [91/692/EØF](eu/31991l0692), jf. EØS-komiteens beslutning nr. [7/94](eu/21994d0007) og avtalen for øvrig, gjelder som forskrift.
+Direktivene i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) om utslipp av farlige stoffer til vann (direktiv [82/176/EØF](eu/31982l0176), direktiv [83/513/EØF](eu/31983l0513), direktiv [84/156/EØF](eu/31984l0156), direktiv [84/491/EØF](eu/31984l0491), direktiv [86/280/EØF](eu/31986l0280) med endringer som følger av direktiv [88/347/EØF](eu/31988l0347) og direktiv [90/415/EØF](eu/31990l0415))[^1] og grunnvann (direktiv [80/68/EØF](eu/31980l0068))[^2] med de endringer som følger av direktiv [91/692/EØF](eu/31991l0692), jf. EØS-komiteens beslutning nr. [7/94](eu/21994d0007) og avtalen for øvrig, gjelder som forskrift.
 
 > Endret ved [forskrift 27 mars 2012 nr. 260](forskrift/2012-03-27-260).
 
@@ -3738,7 +3738,7 @@ For de virksomhetene som produserer, behandler eller lagrer definerte oljetyper,
 
 Produktoptimalisering omfatter:
 
-1. Utvelgelse av produkter for screening bør inkludere produkter som kan dokumentere høy effektivitet fra tidligere studier. For oljetyper av lignende kategorier som tidligere er studert bør det være tilstrekkelig å referere til eksisterende screeningsstudier. De utvalgte produktene testes på en 200 °C/50 % syntetisk forvitret emulsjon 1 av den aktuelle oljen med IFP-testen. Det skal gjennomføres minimum 2 parallelle tester for hvert enkelt produkt, med doseringsforhold 1:25.
+1. Utvelgelse av produkter for screening bør inkludere produkter som kan dokumentere høy effektivitet fra tidligere studier. For oljetyper av lignende kategorier som tidligere er studert bør det være tilstrekkelig å referere til eksisterende screeningsstudier. De utvalgte produktene testes på en 200 °C/50 % syntetisk forvitret emulsjon [^1] av den aktuelle oljen med IFP-testen. Det skal gjennomføres minimum 2 parallelle tester for hvert enkelt produkt, med doseringsforhold 1:25.
 2. De tre beste produktene gjennomfører IFP-testen i forskjellige doseringsforhold (for eksempel; 1:25, 1:50 og 1:100) på en 200 °C/50 % emulsjon av den aktuelle oljen. Det skal gjennomføres minimum 2 paralleller.
 3. De tre beste produktene testes ved alternativ temperatur og salinitet dersom det er relevant. De samme produktene testes på en 200 °C/50 % emulsjon av oljen med IFP-testen. Det skal gjennomføres minimum 2 parallelle tester for hvert enkelt produkt, med doseringsforhold 1:25.
 
@@ -4069,7 +4069,7 @@ På mottak for farlig avfall fra skip som er etablert i medhold av denne forskri
 
 4\. *Andre avfallstyper*
 
-Disse standardiserte kravene omfatter ikke mottak av avfall i følgende ADR1 -klasser: eksplosive stoffer (klasse 1) og radioaktive materialer (klasse 7) eller stoffer med tilsvarende egenskaper. Myndigheten for nevnte stoffer og materialer er henholdsvis Direktoratet for samfunnssikkerhet og beredskap (DSB) og Direktoratet for strålevern og atomsikkerhet.
+Disse standardiserte kravene omfatter ikke mottak av avfall i følgende ADR[^1] -klasser: eksplosive stoffer (klasse 1) og radioaktive materialer (klasse 7) eller stoffer med tilsvarende egenskaper. Myndigheten for nevnte stoffer og materialer er henholdsvis Direktoratet for samfunnssikkerhet og beredskap (DSB) og Direktoratet for strålevern og atomsikkerhet.
 
 5\. *Ansvar*
 
@@ -4117,7 +4117,7 @@ Ved plasseringen av mottaket på havneområdet skal det tas hensyn til ulempe fo
 
 *7.3 Lagring av farlig avfall på havneområdet*
 
-Mottaket kan ha en total lagringskapasitet på maksimalt 50 tonn. Farlig avfall kan oppbevares i inntil 6 måneder før viderelevering. Farlig avfall skal lagres slik det er beskrevet ovenfor under punkt 6 Sikring mot forurensning. Lageret skal være slik at forsvarlig inspeksjon og håndtering kan utføres. Det farlige avfallet skal lagres slik at det lett kan flyttes, f.eks. på paller. Stoffer som ifølge ADR1 -regelverket ikke kan samlastes, skal lagres på atskilte områder.
+Mottaket kan ha en total lagringskapasitet på maksimalt 50 tonn. Farlig avfall kan oppbevares i inntil 6 måneder før viderelevering. Farlig avfall skal lagres slik det er beskrevet ovenfor under punkt 6 Sikring mot forurensning. Lageret skal være slik at forsvarlig inspeksjon og håndtering kan utføres. Det farlige avfallet skal lagres slik at det lett kan flyttes, f.eks. på paller. Stoffer som ifølge ADR[^1] -regelverket ikke kan samlastes, skal lagres på atskilte områder.
 
 Ved plasseringen av mottaket skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
 
@@ -4263,7 +4263,7 @@ Statsforvalteren, Miljødirektoratet eller den Klima- og miljødepartementet bem
 
 ### Kapittel 23. Hindring av forurensning ved kloakkutslipp fra skip
 
-Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v](lov/1903-06-09-7). Hjemmel er endret til [lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2](lov/2007-02-16-9/§2), [§ 13](lov/2007-02-16-9/§13), [§ 31](lov/2007-02-16-9/§31), [§ 32](lov/2007-02-16-9/§32), [§ 33](lov/2007-02-16-9/§33) og [§ 43](lov/2007-02-16-9/§43), jf. [delegeringsvedtak 16. februar 2007 nr. 171](forskrift/2007-02-16-171) og [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20](lov/1998-06-26-47/§20) og [§ 38](lov/1998-06-26-47/§38), jf. [delegeringsvedtak 27. november 1998 nr. 1095](forskrift/1998-11-27-1095) og delegeringsvedtak/kgl.res. ift. kap. 5. Videre fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9).1
+Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v](lov/1903-06-09-7). Hjemmel er endret til [lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2](lov/2007-02-16-9/§2), [§ 13](lov/2007-02-16-9/§13), [§ 31](lov/2007-02-16-9/§31), [§ 32](lov/2007-02-16-9/§32), [§ 33](lov/2007-02-16-9/§33) og [§ 43](lov/2007-02-16-9/§43), jf. [delegeringsvedtak 16. februar 2007 nr. 171](forskrift/2007-02-16-171) og [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20](lov/1998-06-26-47/§20) og [§ 38](lov/1998-06-26-47/§38), jf. [delegeringsvedtak 27. november 1998 nr. 1095](forskrift/1998-11-27-1095) og delegeringsvedtak/kgl.res. ift. kap. 5. Videre fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9).[^1]
 
 > Hjemmel endret ved [forskrift 29 juni 2007 nr. 820](forskrift/2007-06-29-820) (i kraft 1 juli 2007).
 
@@ -5031,16 +5031,16 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 *Tabell 1. Utslippsgrenseverdier (mg/Nm3) for forbrenningsanlegg, unntatt motorer og gassturbiner*
 
-| *Brensel* | *Enhetsstørrelse*1 | *Støv mg/Nm3<br>12 timers middelverdi* | *NOx mg/Nm3 timesmiddel* | *CO mg/Nm3 timesmiddel* |
+| *Brensel* | *Enhetsstørrelse*[^1] | *Støv mg/Nm3<br>12 timers middelverdi* | *NOx mg/Nm3 timesmiddel* | *CO mg/Nm3 timesmiddel* |
 | --- | --- | --- | --- | --- |
-| Animalske og vegetabilske oljer2 | 1<5 MW | 30 | – | 80 |
+| Animalske og vegetabilske oljer[^2] | 1<5 MW | 30 | – | 80 |
 |  | 5<50 MW | 30 | 300 | 80 |
 | Lette og medium destillater/lette og medium gassoljer: | 1<10 MW | 20 | – | 80 |
 |  | 10<50 | 20 | 250 | 80 |
 | Tunge destillater/tunge gassoljer | 5<50 MW | 20 | 600 | 100 |
-| Fast biomasse | 1<5 MW | 225 | – | 200/3003 |
-|  | 5<20 MW | 75 | 300 | 200/3003 |
-|  | 20<50 MW | 30 | 300 | 150/3003 |
+| Fast biomasse | 1<5 MW | 225 | – | 200/300[^3] |
+|  | 5<20 MW | 75 | 300 | 200/300[^3] |
+|  | 20<50 MW | 30 | 300 | 150/300[^3] |
 | Kull | 5<50 MW | 50 | 200 | 150 |
 | Gass | 5<50 MW | – | 170 | 80 |
 
@@ -5054,9 +5054,9 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 | *Utslipps-parameter* | *Fast biomasse* | *Annet fast brensel* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensel enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensel enn naturgass* |
 | --- | --- | --- | --- | --- | --- | --- |
-| SO2 | 2001 2 | 4003 | – | 3504 | – | 355 6 |
-| NOx | 300 | 200 | 200 | 3007 | 170 | 170 |
-| Støv | 308 | 308 | – | 30 | – | – |
+| SO2 | 200[^1] [^2] | 400[^3] | – | 350[^4] | – | 35[^5] [^6] |
+| NOx | 300 | 200 | 200 | 300[^7] | 170 | 170 |
+| Støv | 30[^8] | 30[^8] | – | 30 | – | – |
 
 1 Verdien anvendes ikke for anlegg som utelukkende fyres med fast biomasse fra skog.
 
@@ -5078,7 +5078,7 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 | *Utslipps-parameter* | *Fast biomasse* | *Annet fast brensel* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensel enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensel enn naturgass* |
 | --- | --- | --- | --- | --- | --- | --- |
-| SO2 | 2001 2 | 1100 | – | 350 | – | 2003 |
+| SO2 | 200[^1] [^2] | 1100 | – | 350 | – | 200[^3] |
 | NOx | 650 | 650 | 200 | 650 | 250 | 250 |
 | Støv | 50 | 50 | – | 30 | – | – |
 
@@ -5092,10 +5092,10 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 | *Utslipps-parameter* | *Type forbrenningsanlegg* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensler enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensler enn naturgass* |
 | --- | --- | --- | --- | --- | --- |
-| SO2 | Motorer og gassturbiner | – | 120 | – | 151 2 |
-| NOx | Motorer | 1903 4 | 1903 5 | 1906 | 1906 |
-|  | Gassturbiner7 | 200 | 200 | 150 | 200 |
-| Støv | Motorer og gassturbiner | – | 108 | – | – |
+| SO2 | Motorer og gassturbiner | – | 120 | – | 15[^1] [^2] |
+| NOx | Motorer | 190[^3] [^4] | 190[^3] [^5] | 190[^6] | 190[^6] |
+|  | Gassturbiner[^7] | 200 | 200 | 150 | 200 |
+| Støv | Motorer og gassturbiner | – | 10[^8] | – | – |
 
 1 60 mg/Nm3 for biogass.
 
@@ -5124,9 +5124,9 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 | *Utslipps-parameter* | *Fast biomasse* | *Annet fast brensel* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensel enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensel enn naturgass* |
 | --- | --- | --- | --- | --- | --- | --- |
-| SO2 | 2001 | 400 | – | 350 | – | 352 3 |
-| NOx | 3004 | 3004 | 200 | 300 | 100 | 170 |
-| Støv | 205 | 205 | – | 206 | – | – |
+| SO2 | 200[^1] | 400 | – | 350 | – | 35[^2] [^3] |
+| NOx | 300[^4] | 300[^4] | 200 | 300 | 100 | 170 |
+| Støv | 20[^5] | 20[^5] | – | 20[^6] | – | – |
 
 1 Verdien anvendes ikke for anlegg som utelukkende fyres med fast biomasse fra skog.
 
@@ -5144,10 +5144,10 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 | *Utslipps-parameter* | *Type forbrenningsanlegg* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensler enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensler enn naturgass* |
 | --- | --- | --- | --- | --- | --- |
-| SO2 | Motorer og gassturbiner | – | 120 | – | 151 |
-| NOx | Motorer | 1902 | 1902 3 | 954 | 190 |
-|  | Gassturbiner5 | 75 | 75 | 50 | 75 |
-| Støv | Motorer og gassturbiner | – | 106 | – | – |
+| SO2 | Motorer og gassturbiner | – | 120 | – | 15[^1] |
+| NOx | Motorer | 190[^2] | 190[^2] [^3] | 95[^4] | 190 |
+|  | Gassturbiner[^5] | 75 | 75 | 50 | 75 |
+| Støv | Motorer og gassturbiner | – | 10[^6] | – | – |
 
 1 40 mg/Nm3 for biogass.
 
@@ -5266,7 +5266,7 @@ Prosessavløpsvann fra overflatebehandlingen skal ikke overstige følgende konse
 | Fosfor | P-tot | 5,0 |
 | Gull | Au | 0,1 |
 | Jern | Fe | 5,0 |
-| Kadmium | Cd | 01 |
+| Kadmium | Cd | 0[^1] |
 | Kobber | Cu | 0,5 |
 | Krom (VI) | Cr-VI+ | 0,05 |
 | Krom | Cr-tot | 0,5 |
@@ -5929,7 +5929,7 @@ Utslippsgrenseverdier for forbrenningsanlegg med tillatelse fra før 7. januar 2
 | *Samlet nominell tilført termisk effekt (MW)* | *SO2* |  |  | *NOx* |  | *Støv* |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | *andre faste brensel* | *bio-masse* | *torv* | *andre faste brensel* | *biomasse og torv* | *andre faste brensel* | *biomasse og torv* |
-| 50 ≤ MW ≤ 100 | 400 | 200 | 300 | 300<br>4501 | 300 | 30 | 30 |
+| 50 ≤ MW ≤ 100 | 400 | 200 | 300 | 300<br>450[^1] | 300 | 30 | 30 |
 | 100 < MW ≤ 300 | 250 | 200 | 300 | 200 | 250 | 25 | 20 |
 | MW > 300 | 200 | 200 | 200 | 200 | 200 | 20 | 20 |
 
@@ -5952,7 +5952,7 @@ Utslippsgrenseverdiene gjelder også for en del av et forbrenningsanlegg (en ell
 
 | *Samlet nominell tilført termisk effekt (MW)* | *SO2* | *NOx* |  | *Støv* |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | *særlige betingelser1* |  | *særlige betingelser2* |
+|  |  |  | *særlige betingelser[^1]* |  | *særlige betingelser[^2]* |
 | 50 ≤ MW ≤ 100 | 350 | 450 | 450 | 30 | 50 |
 | 100 < MW ≤ 300 | 250 | 200 | 450 | 25 | 50 |
 | MW > 300 | 200 | 150 | 450 | 20 | 50 |
@@ -5982,7 +5982,7 @@ Utslippsgrenseverdiene gjelder også for en del av et forbrenningsanlegg (en ell
 | Flytende gass | 5 |
 | Gasser med lav brennverdi fra koksovn | 400 |
 | Gasser med lav brennverdi fra masovn | 200 |
-| Forbrenningsanlegg med tillatelse fra før 27. november 20021 og som benytter gasser med lav brennverdi fra forgassing av raffinerirestprodukter | 800 |
+| Forbrenningsanlegg med tillatelse fra før 27. november 2002[^1] og som benytter gasser med lav brennverdi fra forgassing av raffinerirestprodukter | 800 |
 
 1 Alle forbrenningsanlegg med tillatelse fra før 27. november 2002, eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen samme dato, forutsatt at forbrenningsanlegget ble satt i drift senest 27. november 2003.
 
@@ -5999,10 +5999,10 @@ Gassturbiner i reservedrift med driftstid mindre enn 500 driftstimer per år omf
 | *Type anlegg og brensel* | *NOx* | *CO* |
 | --- | --- | --- |
 | Forbrenningsanlegg som fyres med naturgass, unntatt gassturbiner og gassmotorer | 100 | 100 |
-| Forbrenningsanlegg som fyres med masovngass, gass fra koksovn eller gasser med lav brennverdi fra forgassing av raffinerirestprodukter, unntatt gassturbiner og gassmotorer | 200<br>3004 | – |
-| Forbrenningsanlegg som fyres med andre gasser, unntatt gassturbiner og gassmotorer | 200<br>3004 | – |
-| Gassturbiner (inkl. CCGT) som fyrer med naturgass1,5 | 50 2,3 | 100 |
-| Gassturbiner (inkl. CCGT) som fyrer med andre gasser5 | 120 | – |
+| Forbrenningsanlegg som fyres med masovngass, gass fra koksovn eller gasser med lav brennverdi fra forgassing av raffinerirestprodukter, unntatt gassturbiner og gassmotorer | 200<br>300[^4] | – |
+| Forbrenningsanlegg som fyres med andre gasser, unntatt gassturbiner og gassmotorer | 200<br>300[^4] | – |
+| Gassturbiner (inkl. CCGT) som fyrer med naturgass[^1],[^5] | 50 [^2],[^3] | 100 |
+| Gassturbiner (inkl. CCGT) som fyrer med andre gasser[^5] | 120 | – |
 | Gassmotorer | 100 | 100 |
 
 1 Naturgass er naturlig forekommende metan med høyest 20 volumprosent av inerte og andre bestanddeler.
@@ -6049,7 +6049,7 @@ Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatu
 
 | *Samlet nominell tilført termisk effekt (MW)* | *SO2* |  | *NOx* |  | *Støv* |
 | --- | --- | --- | --- | --- | --- |
-|  |  | *særlige forhold*1 |  | *særlige forhold*2 |  |
+|  |  | *særlige forhold*[^1] |  | *særlige forhold*[^2] |  |
 | 50 ≤ MW ≤ 100 | 400 | 400 | 300 | 400 | 20 |
 | 100 < MW ≤ 300 | 200 | 200 | 200 | 200 | 20 |
 | MW > 300 | 150 | 200 | 150 | 200 | 10 |
@@ -6063,7 +6063,7 @@ Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatu
 | *Samlet nominell tilført termisk effekt* | *SO2* |  |  | *NOx* | *Støv* |
 | --- | --- | --- | --- | --- | --- |
 |  | *biomasse* | *torv* |  |  |  |
-|  |  |  | *særlige forhold*1 |  |  |
+|  |  |  | *særlige forhold*[^1] |  |  |
 | 50 ≤ MW ≤ 100 | 200 | 300 | 300 | 250 | 20 |
 | 100 < MW ≤ 300 | 200 | 300 | 250 | 200 | 20 |
 | MW > 300 | 150 | 150 | 200 | 150 | 20 |
@@ -6100,7 +6100,7 @@ Gassturbiner i reservedrift med driftstid mindre enn 500 driftstimer per år omf
 | *Type forbrenningsanlegg* | *NOx* | *CO* |
 | --- | --- | --- |
 | Andre forbrenningsanlegg enn gassturbiner og gassmotorer | 100 | 100 |
-| Gassturbiner (inkl. CCGT) | 501 | 100 |
+| Gassturbiner (inkl. CCGT) | 50[^1] | 100 |
 | Gassmotorer | 75 | 100 |
 
 1 For enkle gassturbiner som har en virkningsgrad større enn 35 % bestemt ved ISO standard grunnlastbetingelser, er utslippsgrenseverdi for NOx : (50 x η)/35 der η er virkningsgraden for gassturbinen, uttrykt i prosent, ved ISO grunnlastbetingelser.
@@ -6835,7 +6835,7 @@ Denne skal være basert på karakteristikk av miljøet, befolkning og aktivitete
 
 Denne skal være basert på spesielle arter sin følsomhet, samfunn eller habitater koplet til potensielle lekkasjehendelser identifisert under trinn 3.3.1.
 
-Hvis relevant skal den inkludere effekter av eksponering for forhøyede CO2 konsentrasjoner i biosfæren, inkludert jord, marine sedimenter og bentisk vann (asphyxiation,1 hypercapnia,2 ) og redusert pH i disse omgivelsene (miljøet) som en konsekvens av utlekket CO2). Den skal også inkludere en vurdering av effekter av andre substanser som kan være til stede i utlekket CO2-strømmer (enten som urenheter til stede i injeksjonsstrømmen eller nye substanser dannet gjennom lagring av CO2). Disse effektene skal bli vurdert for forskjellig varighet og i arealomfang og forbundet med en rekke forskjellige størrelser av lekkasjehendelser.
+Hvis relevant skal den inkludere effekter av eksponering for forhøyede CO2 konsentrasjoner i biosfæren, inkludert jord, marine sedimenter og bentisk vann (asphyxiation,[^1] hypercapnia,[^2] ) og redusert pH i disse omgivelsene (miljøet) som en konsekvens av utlekket CO2). Den skal også inkludere en vurdering av effekter av andre substanser som kan være til stede i utlekket CO2-strømmer (enten som urenheter til stede i injeksjonsstrømmen eller nye substanser dannet gjennom lagring av CO2). Disse effektene skal bli vurdert for forskjellig varighet og i arealomfang og forbundet med en rekke forskjellige størrelser av lekkasjehendelser.
 
 *3.3.4 Risikokarakterisering*
 

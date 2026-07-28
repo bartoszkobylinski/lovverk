@@ -16,7 +16,7 @@ xml_hash: "cbcd3036d469c454838f86596fa35ed4b1474f064a7fa90b3787ba23299f01f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,7 +51,7 @@ Forsettlig eller uaktsom overtredelse av denne forskrift eller bestemmelser og v
 
 ## § 7. Ikrafttredelse
 
-Forskriften trer i kraft etter nærmere kunngjøring.\*
+Forskriften trer i kraft etter nærmere kunngjøring.[^\*]
 
 \* I kraft 1. mars 2010, jf. [vedtak 22. feb 2010 nr. 233](forskrift/2010-02-22-233).
 
@@ -81,18 +81,18 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
 etter samråd med Regionkomiteen,
 
-etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^2] og
 
 ut fra følgende betraktninger:
 
 1. Husdyrproduksjon spiller en svært viktig rolle i Fellesskapets landbrukssektor. Tilfredsstillende resultater av denne aktiviteten avhenger i betydelig grad av at det benyttes trygge fôrvarer av god kvalitet.
-2. Det å oppnå et høyt vernenivå for menneskers og dyrs helse er et av de grunnleggende målene i næringsmiddelregelverket, som fastsatt i Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.3 I nevnte forordning fastsettes det også andre felles prinsipper og definisjoner for nasjonal lovgivning og Fellesskapets regelverk for næringsmidler, herunder målet om å oppnå fritt varebytte for fôrvarer innenfor Fellesskapet.
-3. I rådsdirektiv [95/69/EF](eu/31995l0069)4 ble det fastsatt vilkår og regler for visse virksomheter og mellommenn på fôrvareområdet for å gjøre det mulig for dem å utøve sin virksomhet. Erfaringen har vist at disse vilkårene og reglene utgjør et solid grunnlag for å garantere fôrtryggheten. I nevnte direktiv ble det også fastsatt vilkår for godkjenning av virksomheter som produserer visse stoffer som er oppført i rådsdirektiv [82/471/EØF](eu/31982l0471) av 30. juni 1982 om visse produkter som brukes i fôrvarer.5
-4. Ved kommisjonsdirektiv [98/51/EF](eu/31998l0051) av 9. juli 1998 om fastsettelse av visse gjennomføringsbestemmelser til rådsdirektiv [95/69/EF](eu/31995l0069) om fastsettelse av vilkår og regler for godkjenning og registrering av visse virksomheter og mellommenn på fôrvareområdet.6 ble det innført visse tiltak som omfatter regler for import fra tredjestater.
+2. Det å oppnå et høyt vernenivå for menneskers og dyrs helse er et av de grunnleggende målene i næringsmiddelregelverket, som fastsatt i Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.[^3] I nevnte forordning fastsettes det også andre felles prinsipper og definisjoner for nasjonal lovgivning og Fellesskapets regelverk for næringsmidler, herunder målet om å oppnå fritt varebytte for fôrvarer innenfor Fellesskapet.
+3. I rådsdirektiv [95/69/EF](eu/31995l0069)[^4] ble det fastsatt vilkår og regler for visse virksomheter og mellommenn på fôrvareområdet for å gjøre det mulig for dem å utøve sin virksomhet. Erfaringen har vist at disse vilkårene og reglene utgjør et solid grunnlag for å garantere fôrtryggheten. I nevnte direktiv ble det også fastsatt vilkår for godkjenning av virksomheter som produserer visse stoffer som er oppført i rådsdirektiv [82/471/EØF](eu/31982l0471) av 30. juni 1982 om visse produkter som brukes i fôrvarer.[^5]
+4. Ved kommisjonsdirektiv [98/51/EF](eu/31998l0051) av 9. juli 1998 om fastsettelse av visse gjennomføringsbestemmelser til rådsdirektiv [95/69/EF](eu/31995l0069) om fastsettelse av vilkår og regler for godkjenning og registrering av visse virksomheter og mellommenn på fôrvareområdet.[^6] ble det innført visse tiltak som omfatter regler for import fra tredjestater.
 5. Erfaringen har også vist at det er nødvendig å garantere at alle fôrforetak, herunder akvakultur, drives i samsvar med harmoniserte trygghetskrav, og at det er nødvendig å gjennomføre en generell gjennomgåelse for å ta hensyn til behovet for å sikre et høyere vernenivå for menneskers og dyrs helse og for miljøet.
 6. Hovedmålet med de nye hygienereglene som er fastsatt i denne forordning, er å sikre et høyt nivå av forbrukervern med hensyn til næringsmiddeltrygghet og fôrtrygghet, idet det tas særlig hensyn til følgende prinsipper:
 
@@ -118,14 +118,14 @@ ut fra følgende betraktninger:
 20. Det bør fastsettes bestemmelser om å oppheve midlertidig, endre eller tilbakekalle registreringen eller godkjenningen når en virksomhets aktiviteter endres eller opphører, eller dersom de ikke lenger oppfyller vilkårene som gjelder for aktiviteten.
 21. Sporbarheten av fôrvarer og fôrvareingredienser i næringsmiddelkjeden er et vesentlig element for å garantere fôrtrygghet. Forordning [(EF) nr. 178/2002](eu/32002r0178) inneholder regler for å sikre at fôrvarer og fôrvareingredienser skal kunne spores og fastsetter en framgangsmåte for å vedta gjennomføringsregler som gjelder for særlige sektorer.
 22. En rekke kriser på fôrvareområdet har vist at svikt i ett av leddene i fôrkjeden kan få betydelige økonomiske følger. Fôrproduksjonens egenart og fôrdistribusjonens kompleksitet innebærer at det er vanskelig å trekke tilbake fôrvarer fra markedet. Kostnadene ved å rette opp økonomisk skade i fôr- og næringsmiddelkjeden dekkes ofte av offentlige midler. Slike økonomiske følger kan avhjelpes bedre og til en lav kostnad for samfunnet dersom den driftsansvarlige for de aktivitetene som forårsaker økonomisk skade i fôrvaresektoren, holdes økonomisk ansvarlig. Imidlertid er opprettelse av et generelt obligatorisk system for økonomisk erstatningsansvar og finansielle garantier, for eksempel gjennom en forsikring, som skal gjelde for alle driftsansvarlige for fôrforetak, kanskje ikke praktisk gjennomførbart eller hensiktsmessig. Kommisjonen bør derfor vurdere dette spørsmålet mer inngående og ta i betraktning bestemmelsene i eksisterende regelverk med hensyn til erstatningsansvar på andre områder og eksisterende systemer og framgangsmåter i medlemsstatene. For å oppnå dette bør Kommisjonen framlegge en rapport, eventuelt sammen med forslag til regelverk.
-23. Fôrvarer som importeres til Fellesskapet, skal oppfylle de allmenne kravene i forordning [(EF) nr. 178/2002](eu/32002r0178) og importvilkårene i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.7 For å unngå forstyrrelser i handelen er det hensiktsmessig at importen fortsatt godkjennes i samsvar med vilkårene fastsatt i direktiv [98/51/EF i](eu/31998l0051) påvente av at gjennomføringstiltakene avsluttes.
+23. Fôrvarer som importeres til Fellesskapet, skal oppfylle de allmenne kravene i forordning [(EF) nr. 178/2002](eu/32002r0178) og importvilkårene i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.[^7] For å unngå forstyrrelser i handelen er det hensiktsmessig at importen fortsatt godkjennes i samsvar med vilkårene fastsatt i direktiv [98/51/EF i](eu/31998l0051) påvente av at gjennomføringstiltakene avsluttes.
 24. Fellesskapsprodukter som eksporteres til tredjestater, skal oppfylle de allmenne kravene i forordning [(EF) nr. 178/2002](eu/32002r0178).
 25. Det er hensiktsmessig å utvide virkeområdet for hurtigvarslingssystemet for næringsmidler og fôrvarer fastsatt ved forordning [(EF) nr. 178/2002](eu/32002r0178) slik at det også omfatter risiko for dyrs helse eller for miljøet som stammer fra fôrvarer som brukes til dyr som ikke er bestemt til næringsmiddelproduksjon.
 26. Fellesskapets regelverk for fôrvarehygiene bør baseres på vitenskapelige råd. Derfor bør Den europeiske myndighet for næringsmiddeltrygghet rådspørres når det er nødvendig.
 27. For å ta hensyn til den tekniske og vitenskapelige utvikling bør Kommisjonen og medlemsstatene ha et nært og effektivt samarbeid i Den faste komité for næringsmiddelkjeden og dyrehelsen.
 28. I denne forordning tas det hensyn til de internasjonale forpliktelsene som er fastsatt i WTO-avtalen om veterinære og plantesanitære tiltak og de internasjonale standardene for næringsmiddeltrygghet fastsatt i *Codex Alimentarius*.
 29. Medlemsstatene bør fastsette en sanksjonsordning for overtredelse av bestemmelsene i denne forordning, og sikre at de anvendes. Disse sanksjonene skal være effektive, stå i forhold til overtredelsen og ha en avskrekkende virkning.
-30. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.8
+30. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[^8]
 31. Det er hensiktsmessig å utsette datoen da denne forordningen skal tre i kraft, slik at de berørte næringer får tid til å tilpasse seg.
 32. Direktiv [95/69/EF](eu/31995l0069) og [98/51/EF](eu/31998l0051) bør derfor oppheves –
 
@@ -173,7 +173,7 @@ I denne forordning fastsettes det:
    1. dyr bestemt til næringsmiddelproduksjon beregnet på konsum i private husholdninger,
       og
    2. dyr som ikke er bestemt til næringsmiddelproduksjon,
-2. fôring av dyr bestemt til næringsmiddelproduksjon beregnet på konsum i private husholdninger eller aktivitetene nevnt i artikkel 1 nr. 2 bokstav c) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1
+2. fôring av dyr bestemt til næringsmiddelproduksjon beregnet på konsum i private husholdninger eller aktivitetene nevnt i artikkel 1 nr. 2 bokstav c) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,[^1]
 3. fôring av dyr som ikke er bestemt til næringsmiddelproduksjon,
 4. produsentens direkte levering av små mengder fôrvarer fra primærproduksjonen på lokalt plan til lokale driftsenheter, for bruk på disse driftsenhetene,
 5. detaljhandel med fôrvarer til kjæledyr.
@@ -186,7 +186,7 @@ I denne forordning får definisjonene i forordning [(EF) nr. 178/2002](eu/32002r
 
 1. «fôrvarehygiene»: de tiltakene og vilkårene som er nødvendige for å bekjempe farer og sikre at en fôrvare egner seg til fôring av dyr med hensyn til dens bruksområde,
 2. «driftsansvarlig for et fôrforetak»: den fysiske eller juridiske personen som har ansvar for at kravene i denne forordning overholdes i det fôrforetaket vedkommende driver,
-3. «tilsetningsstoffer i fôrvarer»: stoffer eller mikroorganismer som er godkjent i henhold til europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer,2
+3. «tilsetningsstoffer i fôrvarer»: stoffer eller mikroorganismer som er godkjent i henhold til europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer,[^2]
 4. «virksomhet»: enhver enhet i et fôrforetak,
 5. «vedkommende myndighet»: den myndighet i en medlemsstat eller tredjestat som er utpekt til å utføre offentlige kontroller,
 6. «primærproduksjon av fôrvarer»: produksjon av landbruksprodukter, herunder særlig dyrking, innhøsting, melking, oppdrett av dyr (før slakting) og fiske, som utelukkende frambringer produkter som ikke gjennomgår noen annen behandling etter innhøstingen, innsamlingen eller fangsten, bortsett fra enkel fysisk behandling.
@@ -910,7 +910,7 @@ Avlstekniske tilsetningsstoffer: tilsetningsstoffer som omfattes av nr. 4 boksta
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 | 5 |
-| Identifikasjonsnummer | Aktivitet | Navn eller forretningsnavn1 | Adresse2 | Merknader |
+| Identifikasjonsnummer | Aktivitet | Navn eller forretningsnavn[^1] | Adresse[^2] | Merknader |
 
 1 Fôrforetakenes navn eller firma.
 
@@ -936,14 +936,14 @@ KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrhygiene,1 særlig artikkel 10 nr. 3, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrhygiene,[^1] særlig artikkel 10 nr. 3, og
 
 ut fra følgende betraktninger:
 
 1. Forordning [(EF) nr. 183/2005](eu/32005r0183) inneholder bestemmelser om godkjenning av visse fôrforetak. Hovedformålet med godkjenningsordningen fastsatt ved forordning [(EF) nr. 183/2005](eu/32005r0183) er at forordningens hygienekrav skal få anvendelse på foretak som framstiller og/eller markedsfører antatt følsomme varer. Forordningen gjør det mulig å utvide anvendelsesområdet for kravet om godkjenning.
-2. «Koksidiostatika og histomonostatika» er en av kategoriene av tilsetningsstoffer i fôrvarer omhandlet i artikkel 6 nr. 1 bokstav e) i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer.2 Denne kategorien av tilsetningsstoffer i fôrvarer anses som like følsom som kategoriene som det foreligger krav om godkjenning for i henhold til forordning [(EF) nr. 183/2005](eu/32005r0183).
+2. «Koksidiostatika og histomonostatika» er en av kategoriene av tilsetningsstoffer i fôrvarer omhandlet i artikkel 6 nr. 1 bokstav e) i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer.[^2] Denne kategorien av tilsetningsstoffer i fôrvarer anses som like følsom som kategoriene som det foreligger krav om godkjenning for i henhold til forordning [(EF) nr. 183/2005](eu/32005r0183).
 3. Foretak som framstiller og/eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika», bør derfor være underlagt samme krav om godkjenning.
-4. Det bør fastsettes overgangstiltak med hensyn til foretak som framstiller og/eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika», som ikke var underlagt krav om godkjenning i den nasjonale lovgivningen. Foretak som er godkjent i henhold til rådsdirektiv [95/69/EF](eu/31995l0069),3 omfattes allerede av artikkel 18 nr. 1 i forordning [(EF) nr. 183/2005](eu/32005r0183).
+4. Det bør fastsettes overgangstiltak med hensyn til foretak som framstiller og/eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika», som ikke var underlagt krav om godkjenning i den nasjonale lovgivningen. Foretak som er godkjent i henhold til rådsdirektiv [95/69/EF](eu/31995l0069),[^3] omfattes allerede av artikkel 18 nr. 1 i forordning [(EF) nr. 183/2005](eu/32005r0183).
 5. Tiltakene fastsatt i dette direktiv er i samsvar med uttalelsen fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 35 av 8.2.2005, s. 1.

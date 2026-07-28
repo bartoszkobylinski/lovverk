@@ -15,7 +15,7 @@ xml_hash: "5bcfa59130e654c95158bc03d546ad420d853fb1dcddb80161d054e74bfdf42c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,6 +28,6 @@ I forbindelse med lovens ikrafttredelse eller senere kan departementet gi nødve
 
 ## III. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 1993 iflg. [res. 13 nov 1992 nr. 797](forskrift/1992-11-13-797).

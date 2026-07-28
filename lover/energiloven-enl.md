@@ -15,7 +15,7 @@ xml_hash: "abe64e46014a9e2beede65a1d7a81ce980b8cd693fb3525b9373e84b1b112885"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32010L0031"
@@ -324,7 +324,7 @@ Departementet kan gi forskrift om endring etter klage og omgjøringsadgang som a
 
 For å eie eller drive utenlandsforbindelser som er omfattet av [§ 3-1](lov/1990-06-29-50/§3-1), kreves særskilt konsesjon fra departementet. Konsesjon kan bare gis til den systemansvarlige etter [§ 6-1](lov/1990-06-29-50/§6-1) eller til foretak hvor denne har bestemmende innflytelse. Ved vurderingen av om konsesjon bør gis, skal det legges vekt på prosjektets samfunnsøkonomiske lønnsomhet, forholdet til eventuelle konkurrerende prosjekter og transparente og ikke-diskriminerende hensyn for øvrig.
 
-Departementet kan i konsesjonen fastsette vilkår for handel som innebærer bruk av utenlandsforbindelsen. I konsesjonen kan det for øvrig settes andre vilkår som er påkrevet av allmenne hensyn. Krav som følger av EØS-avtalens regler om grensekryssende krafthandel,1 må være oppfylt.
+Departementet kan i konsesjonen fastsette vilkår for handel som innebærer bruk av utenlandsforbindelsen. I konsesjonen kan det for øvrig settes andre vilkår som er påkrevet av allmenne hensyn. Krav som følger av EØS-avtalens regler om grensekryssende krafthandel,[^1] må være oppfylt.
 
 Konsesjon etter første ledd kan likevel gis til andre når forbindelsen er tilknyttet anlegg for produksjon eller forbruk av elektrisk energi til havs og krysser avgrensningslinjen mellom Norges kontinentalsokkel og en annen stats sokkel. Det samme gjelder for mindre utenlandsforbindelser under transmisjonsnettsnivå i grenseområder. For disse kan det gjøres en forenklet vurdering av om konsesjon bør gis, og vilkår i konsesjonen kan tilpasses disponeringen av forbindelsen i det aktuelle området.
 
@@ -907,7 +907,7 @@ Er det voldt fare for betydelig skade på mennesker, miljø eller eiendom, eller
 
 Departementet kan gi forskrift til gjennomføring og utfylling av loven og dens virkeområde.
 
-Departementet kan gi de forskrifter som er nødvendig for ivaretakelse av Norges forpliktelser etter EØS-avtalen, blant annet forordning om vilkår for tilgang til nett for utveksling av elektrisk energi over landegrensene,1 forordning om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter,2 samt bestemmelser om behandling av tvister, saksbehandlingsfrister og utsatt iverksetting av vedtak.
+Departementet kan gi de forskrifter som er nødvendig for ivaretakelse av Norges forpliktelser etter EØS-avtalen, blant annet forordning om vilkår for tilgang til nett for utveksling av elektrisk energi over landegrensene,[^1] forordning om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter,[^2] samt bestemmelser om behandling av tvister, saksbehandlingsfrister og utsatt iverksetting av vedtak.
 
 Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for konsesjoner etter [§§ 4-1](lov/1990-06-29-50/§4-1) og [4-5 i](lov/1990-06-29-50/§4-5) denne lov, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn. Saksbehandlingsreglene kan fravike reglene i denne loven.
 
@@ -969,7 +969,7 @@ Adgangen til å treffe vedtak om overtredelsesgebyr eller inndragning av utbytte
 
 Opphevelse av [lov av 14. desember 1917 nr. 16](lov/1917-12-14-16) om erverv av vannfall, bergverk og annen fast eiendom m.v. §§ 22 og 23 trer i kraft straks.
 
-Kongen bestemmer når de øvrige deler av loven trer i kraft.1 Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til ulik tid.
+Kongen bestemmer når de øvrige deler av loven trer i kraft.[^1] Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til ulik tid.
 
 Bestemmelsene i [§§ 5-1](lov/1990-06-29-50/§5-1), [5-2](lov/1990-06-29-50/§5-2), [5-4](lov/1990-06-29-50/§5-4) og [5-6](lov/1990-06-29-50/§5-6) gjelder ikke for fjernvarmeanlegg i drift når loven trer i kraft.
 

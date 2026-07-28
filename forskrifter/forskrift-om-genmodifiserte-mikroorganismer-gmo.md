@@ -15,7 +15,7 @@ xml_hash: "3b5fde6591c45c2c16e124cf134ce15e819e592690c81e53a14b4a21fcb80d25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -485,7 +485,7 @@ Vedlegg:
 | *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | 1 | 2 | 3 | 4 |
-| 1 | Laboratorium: isolasjon1 | Kreves ikke | Kreves ikke | Kreves | Kreves |
+| 1 | Laboratorium: isolasjon[^1] | Kreves ikke | Kreves ikke | Kreves | Kreves |
 | 2 | Laboratorium: lufttett for utgassing | Kreves ikke | Kreves ikke | Kreves | Kreves |
 
 *Utstyr*
@@ -494,11 +494,11 @@ Vedlegg:
 | --- | --- | --- | --- | --- | --- |
 |  |  | 1 | 2 | 3 | 4 |
 | 3 | Overflater skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre | Kreves (arbeidsunderlag) | Kreves (arbeidsunderlag) | Kreves (arbeidsunderlag, gulv) | Kreves (arbeidsunderlag, gulv, tak, vegger) |
-| 4 | Inngang til laboratorium gjennom forrom/luftsluse2 | Kreves ikke | Kreves ikke | Kreves gjennom forrom, ev. luftsluse | Kreves luftsluse |
-| 5 | Undertrykk i forhold til trykket i de umiddelbare omgivelsene | Kreves ikke | Kreves ikke | Kreves, unntatt for3 | Kreves |
-| 6 | Laboratoriets utluft og innluft skal være HEPA-filtrert | Kreves ikke | Kreves ikke | Kreves (HEPA)4 – utluft unntatt for3 | Kreves (HEPA)5 – innluft og utluft |
+| 4 | Inngang til laboratorium gjennom forrom/luftsluse[^2] | Kreves ikke | Kreves ikke | Kreves gjennom forrom, ev. luftsluse | Kreves luftsluse |
+| 5 | Undertrykk i forhold til trykket i de umiddelbare omgivelsene | Kreves ikke | Kreves ikke | Kreves, unntatt for[^3] | Kreves |
+| 6 | Laboratoriets utluft og innluft skal være HEPA-filtrert | Kreves ikke | Kreves ikke | Kreves (HEPA)[^4] – utluft unntatt for[^3] | Kreves (HEPA)[^5] – innluft og utluft |
 | 7 | Mikrobiologisk sikkerhetsavlukke | Kreves ikke | Valgfritt | Kreves | Kreves |
-| 8 | Autoklav | På stedet | I bygningen | I hele laboratorieområdet6 | Laboratoriet = med gjennomgang |
+| 8 | Autoklav | På stedet | I bygningen | I hele laboratorieområdet[^6] | Laboratoriet = med gjennomgang |
 
 *Arbeidssystem*
 
@@ -645,7 +645,7 @@ Vedlegg:
 
 *8. Avfallsbehandling*
 
-GMO skal inaktiveres før avhending med validerte metoder, slik som autoklavering eller forbrenning. Angi typer avfall, oppbevaring, transport,1 rutiner for håndtering av avfall, metoder for inaktivering og bestemmelssted.
+GMO skal inaktiveres før avhending med validerte metoder, slik som autoklavering eller forbrenning. Angi typer avfall, oppbevaring, transport,[^1] rutiner for håndtering av avfall, metoder for inaktivering og bestemmelssted.
 
 1 Dersom avfall med levende GMO skal transporteres fra området til forbrenningsanlegg vil dette være transport av GMO som omfattes av [forskrift av 13. november 1998 nr. 1066](forskrift/1998-11-13-1066) om transport og import av genmodifiserte organismer.
 
@@ -773,13 +773,13 @@ Vedlegg:
 |  | 1 | 2 | 3 | 4 |
 | Isolasjon av dyreenheten | Nei | Ja | Ja, adskilt med luftsluse fra andre dyrerom og laboratorier | Ja, tilknyttet laboratorieklasse 4 ev. isolert enhet/bygning, inngang via luftsluse |
 | Dyrerom adskilt fra tilknyttede rom med dører som låses utenom arbeidstid | Ja | Ja | Ja | Ja, dør med inspeksjonsvindu |
-| Avstengningsmekanismer som muliggjør gassing | Nei | Ja1 | Ja1 | Ja, mulighet for forsegling av dører |
+| Avstengningsmekanismer som muliggjør gassing | Nei | Ja[^1] | Ja[^1] | Ja, mulighet for forsegling av dører |
 | Gulv og/eller vegger skal være lett vaskbare | Ja | Ja | Ja | Ja |
 | Overflater skal tåle vann, syre, alkaliske stoffer, løsemidler og desinfeksjonsmidler, dekontamieringsagenser og være lett å rengjøre | Benker og gulv | Benker og gulv | Benker, gulv og vegger | Benker, gulv, tak og vegger |
 | Håndvask | Tilgjengelig | Vask som kan betjenes uten bruk av hender, hånddesinfeksjonsmiddel | Vask som kan betjenes uten bruk av hender, hånddesinfeksjonsmiddel | Vask som kan betjenes uten bruk av hender, hånddesinfeksjonsmiddel |
-| Inngang til enhet via luftsluse | Nei | Nei | Luftsluse med håndvask og dusj1 | Luftsluse med negativt trykk for omkledning og dusjing |
-| Enheten skal ha et trykk som er lavere enn atmosfærisk trykk | Nei | Ja, luften skal ikke resirkuleres til andre deler av bygningen1 | Ja, konstruert for å hindre revers luftstrøm og overtrykk | Ja, konstruert for å hindre revers luftstrøm og overtrykk |
-| Ventilasjonsanlegg – Inn- og utluft fra enheten skal være filtrert |  |  | Separat kanalsystem, utluft via HEPA-filter,1 filteret skal kunne testes og byttes på en sikker måte | Eget ventilasjonsanlegg for opprettholdelse av negativt trykk tilkoblet alarmanlegg, innluft via 1 HEPA-filter, utluft via 2 HEPA-filter i serie2 |
+| Inngang til enhet via luftsluse | Nei | Nei | Luftsluse med håndvask og dusj[^1] | Luftsluse med negativt trykk for omkledning og dusjing |
+| Enheten skal ha et trykk som er lavere enn atmosfærisk trykk | Nei | Ja, luften skal ikke resirkuleres til andre deler av bygningen[^1] | Ja, konstruert for å hindre revers luftstrøm og overtrykk | Ja, konstruert for å hindre revers luftstrøm og overtrykk |
+| Ventilasjonsanlegg – Inn- og utluft fra enheten skal være filtrert |  |  | Separat kanalsystem, utluft via HEPA-filter,[^1] filteret skal kunne testes og byttes på en sikker måte | Eget ventilasjonsanlegg for opprettholdelse av negativt trykk tilkoblet alarmanlegg, innluft via 1 HEPA-filter, utluft via 2 HEPA-filter i serie[^2] |
 | Enheten skal ha installert alarm for å kunne oppdage brann, feil ved ventilasjons- og varmeanlegg og inntrengere | Ja | Ja | Ja | Ja |
 | Autoklav | På anlegget | I bygningen | I enheten | Dobbelsidig autoklav skal være tilgjengelig ved inngangen til sonen og ved utgangen til enheten |
 | Oppstalling av dyr | Egnede bur, innhegning og lignende | Biologisk sikkerhetsisolator/-kabinett | Isolator med ventilasjon gjennom HEPA-filter til omgivelsene eller egne ventilasjonsenheter med utluft bak dyrene | Isolator med ventilasjon gjennom HEPA-filter til omgivelsene eller egne ventilasjonsenheter med utluft bak dyrene |
@@ -789,14 +789,14 @@ Vedlegg:
 |  | 1 | 2 | 3 | 4 |
 | Avfall fra dyrene skal fjernes slik at støv og aerosoler minimaliseres | Ja | Ja | Ja | Ja |
 | Spillvann fra vasker, dusjer og autoklav skal samles opp og inaktiveres før det slippes ut | Nei | Nei | Nei | Ja |
-| Forbrenningsanlegg på området til inaktivering av kadavre og fast materiale | Valgfritt3 | Valgfritt3 | Valgfritt3 | Ja |
+| Forbrenningsanlegg på området til inaktivering av kadavre og fast materiale | Valgfritt[^3] | Valgfritt[^3] | Valgfritt[^3] | Ja |
 
 | *Arbeid og utstyr* |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | 1 | 2 | 3 | 4 |
 | Kun autorisert personale har adgang | Ja | Ja | Ja | Ja |
 | Kun forsøksdyr er tillatt i enheten | Ja | Ja | Ja | Ja |
-| Sikkerhetskabinett | Nei | Arbeid med mulighet for utvikling av aerosoler1 | Ja | Alt arbeid i sikkerhetkabinett klasse III eller isolator |
+| Sikkerhetskabinett | Nei | Arbeid med mulighet for utvikling av aerosoler[^1] | Ja | Alt arbeid i sikkerhetkabinett klasse III eller isolator |
 | Biologisk faremerking på dørene | Nei | Ja | Ja | Ja |
 | Tiltak for å hindre spredning av aerosoler | Nei | Ja, minimalisere | Ja, hindre | Ja, hindre |
 | Vernetøy | Egnet vernetøy | Egnet vernetøy | Egnet vernetøy | Fullstendig omkledning |
@@ -1025,9 +1025,9 @@ Dette vedlegg gir en generell beskrivelse av de elementer som det skal tas hensy
 1. Det første trinnet i vurderingsprosessen bør være å kartlegge mottaker- og eventuelt donormikroorganismens skadelige egenskaper samt skadelige egenskaper forbundet med vektoren eller det innsatte materialet, herunder enhver endring i mottakerens eksisterende egenskaper.
 2. I alminnelighet er det bare GMM med følgende egenskaper som vil bli betraktet som hensiktsmessige å ta med i klasse 1 som definert i [§ 6](forskrift/2001-12-21-1600/§6):
 
-   1. mottaker- eller foreldremikroorganismen vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter,1
-   2. vektoren og geninnlegget er av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter,1 eller som sannsynligvis vil ha skadelige virkninger for miljøet,
-   3. GMM vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter1 og vil sannsynligvis ikke ha skadelige virkninger for miljøet.
+   1. mottaker- eller foreldremikroorganismen vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter,[^1]
+   2. vektoren og geninnlegget er av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter,[^1] eller som sannsynligvis vil ha skadelige virkninger for miljøet,
+   3. GMM vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter[^1] og vil sannsynligvis ikke ha skadelige virkninger for miljøet.
 3. For å innhente opplysningene som er nødvendige for å iverksette denne prosessen, kan brukeren først ta hensyn til aktuelt regelverk som EUs direktiv [90/679/EØF](eu/31990l0679). Internasjonale eller nasjonale klassifiseringsordninger (f.eks. WHO, NIH osv.) og den revisjon de har gjennomgått som følge av ny vitenskapelig kunnskap og teknisk utvikling, kan også tas i betraktning.
 
    Disse ordningene gjelder naturlige mikroorganismer, og er som sådanne vanligvis basert på mikroorganismers evne til å forårsake sykdom hos mennesker, dyr eller planter og på omfanget og overførbarheten av den sykdom som sannsynligvis vil bli forårsaket. Direktiv [90/679/EØF](eu/31990l0679) klassifiserer mikroorganismer, som biologiske agenser, i fire risikoklasser på grunnlag av potensielle virkninger på et friskt, voksent menneske. Disse risikoklassene kan brukes som en veiledning ved oppdelingen av virksomheten med innesluttet bruk i de fire risikoklassene nevnt i [§ 6](forskrift/2001-12-21-1600/§6). Brukeren kan også ta hensyn til klassifiseringsordninger for plante- og dyresykdomsfremkallende stoffer. Ovennevnte klassifiseringsordninger gir bare en foreløpig angivelse av risikoklassen for virksomheten og det tilsvarende sett av inneslutnings- og kontrolltiltak.

@@ -15,7 +15,7 @@ xml_hash: "13e190ce0a968559bce3f2405054c9a4c9a00aa76191fe378a4f5515b7eb02b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -261,7 +261,7 @@ Heving av forpaktingsavtalen får ikkje rettsverknad utan at ho er skriftleg og 
 
 ## § 29. Ikraftsetting av lova. Oppheving av gjeldande lover, lovføresegner og forordningar.
 
-Denne lova tek til å gjelde frå den tid Kongen fastset.1 Lova gjeld ikkje for forpaktingsavtale som er inngått før ho tar til å gjelde.
+Denne lova tek til å gjelde frå den tid Kongen fastset.[^1] Lova gjeld ikkje for forpaktingsavtale som er inngått før ho tar til å gjelde.
 
 Frå same tid blir sette ut av kraft: – – –
 

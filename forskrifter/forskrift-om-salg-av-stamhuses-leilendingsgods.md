@@ -15,7 +15,7 @@ xml_hash: "abefb835dc45c43727caf535fe1c9842d8d11bc660d4672d92ae3af41781267f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ eu_basis: []
 
 Stamhusbesidder, der agter at afhænde noget af Stamhusets Leilændingsgods, har – i Tilfælde efter Udløbet af de i Lov af 23de Juni 1888 [§ 5](forskrift/1896-06-26-9805/§5) bestemte Appel- eller øvrige Frister – til Justitsdepartementet at indsende Andragende om Approbation paa Afhændelsen, ledsaget – foruden efter Tilfældets Beskaffenhed af de i nedenstaaende [§§ 2](forskrift/1896-06-26-9805/§2) – [9](forskrift/1896-06-26-9805/§9) omhandlede Dokumenter – af:
 
-1. Forklaring angaaende vedkommende Brug eller Parcel overenstemmende med vedføiede Schema,1
+1. Forklaring angaaende vedkommende Brug eller Parcel overenstemmende med vedføiede Schema,[^1]
 2. Sikkerhedsstillelse gjennem Selvskyldnerkaution for den Del af Løsnings- eller Kjøbesummen, der ikke skal blive indestaaende i Bruget eller Parcellen mod Pantobligation til Stamhuset,
 3. Vederhæftighedsattest for stillet Selvskyldnerkautionist og
 4. den i Tilfælde afholdte Skylddelingsforretning.

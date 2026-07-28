@@ -15,7 +15,7 @@ xml_hash: "e840c3379512eca361e07ec2359156575c3030e62f130908665fabf5405c66ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0090"
@@ -893,7 +893,7 @@ For rett til å fremsette klage gjelder det som er bestemt i eller i medhold av 
 
 ### § 72. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer, med mindre annet følger av reglene i annet ledd. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer, med mindre annet følger av reglene i annet ledd. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Endringen i § 74 annet ledd nr. 8 i [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten § 475 trer i kraft fra det tidspunkt [lov 7. januar 2005 nr. 2](lov/2005-01-07-2) om endringer i [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten (sjøloven) og enkelte andre lover blir satt i kraft. Fra samme tidspunkt trer opphevingen av [lov 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. [§ 4](lov/1903-06-09-7/§4) første ledd bokstav a, [§ 5](lov/1903-06-09-7/§5) og [§§ 17](lov/1903-06-09-7/§17) til [23 i](lov/1903-06-09-7/§23) kraft.
 

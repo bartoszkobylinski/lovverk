@@ -15,7 +15,7 @@ xml_hash: "b02fb3cdfc41f579475ac8bf551ac9d601bc9105b210d7d9a4e40cf587c06c79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -248,7 +248,7 @@ Kongen gir nærmere regler til gjennomføring av denne lov.
 
 ## § 25.
 
-Denne lov trer i kraft fra den dag1 Kongen bestemmer.
+Denne lov trer i kraft fra den dag[^1] Kongen bestemmer.
 
 – – –
 

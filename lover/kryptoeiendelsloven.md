@@ -15,7 +15,7 @@ xml_hash: "ed724ed428cbb322bddce1e029fc17097974fbb4c2e1f57aa7a778b96c4befbe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32023R1114"
@@ -189,7 +189,7 @@ Ved tvangsfullbyrdelse etter kryptoeiendelsforordningen artikkel 133 nr. 3 føre
 
 ## § 19. Ikrafttredelse og overgangsregler
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 (2) Tilbydere av vekslingstjenester og oppbevaringstjenester for virtuell valuta, som er registrert hos Finanstilsynet, jf. forskrift fastsatt med hjemmel i [hvitvaskingsloven § 4 femte ledd](lov/2018-06-01-23/§4/ledd/5), kan fortsette å tilby sine tjenester frem til 30. desember 2025 eller til de har fått eller blitt nektet tillatelse etter kryptoeiendelsforordningen artikkel 63, etter hva som kommer først.
 

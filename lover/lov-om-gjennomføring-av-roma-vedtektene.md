@@ -15,7 +15,7 @@ xml_hash: "b8115995e4736275edf580fa004a801f10def484b0a0c859a3875d4efab6b605"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,7 @@ Kongen kan gi nærmere forskrifter til utfylling og gjennomføring av denne love
 
 ## § 15. Ikrafttredelse
 
-Loven gjelder fra den tid1 Roma-vedtektene trer i kraft for Norge.
+Loven gjelder fra den tid[^1] Roma-vedtektene trer i kraft for Norge.
 
 1 Fra 1 juli 2002, iflg. meddelelse fra Justisdepartementet [18 des 2002 nr. 1614](forskrift/2002-12-18-1614).
 

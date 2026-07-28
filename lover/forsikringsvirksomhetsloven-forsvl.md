@@ -15,7 +15,7 @@ xml_hash: "4a84eaeeb3d6b2b64df8f19c3579a1ad1e9224ed18f82c16c204aac08d2baae7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016L2341"
@@ -1075,7 +1075,7 @@ Hvis et pålegg av tilsynet ikke blir etterkommet, kan vedkommende departement b
 
 ### § 10-1. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Fra den tid loven trer i kraft oppheves [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet.
 

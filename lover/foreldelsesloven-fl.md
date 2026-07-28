@@ -15,7 +15,7 @@ xml_hash: "8584187cbe9171b0cf2210b0f6087422eb7b832b507860b9ff0d45d41d491a9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 1\. Fordring på penger eller andre ytelser foreldes etter reglene i denne lov når ikke annet er lovbestemt.
 
-2\. Om foreldelse i internasjonale kjøpsforhold gjelder New York-konvensjonen av 14. juni 1974, slik den lyder i norsk oversettelse inntatt i Norsk Lovtidend. Kongen kan likevel bestemme at konvensjonen ikke skal få anvendelse på kjøpsavtaler der både selger og kjøper har sitt relevante forretningssted i de nordiske land (Norge, Danmark, Finland, Island og Sverige).1
+2\. Om foreldelse i internasjonale kjøpsforhold gjelder New York-konvensjonen av 14. juni 1974, slik den lyder i norsk oversettelse inntatt i Norsk Lovtidend. Kongen kan likevel bestemme at konvensjonen ikke skal få anvendelse på kjøpsavtaler der både selger og kjøper har sitt relevante forretningssted i de nordiske land (Norge, Danmark, Finland, Island og Sverige).[^1]
 
 1 Ikr. 1 aug 1988 iflg. [res. 8 juli 1988 nr. 552](forskrift/1988-07-08-552), som også bestemmer at New York-konvensjonen 14 juni 1974 om foreldelse i internasjonale kjøpsforhold ikke gjelder kjøpavtaler der både selger og kjøper har sitt relevante forretningssted i Norge, Danmark, Finland, Island og Sverige.
 
@@ -304,7 +304,7 @@ Når det i annen lov er fastsatt særlige foreldelsesfrister eller andre særlig
 
 ### § 31. (Ikrafttredelse.)
 
-Loven tar til å gjelde 1. januar 1980, men [§ 1](lov/1979-05-18-18/§1) nr. 2 fra den tid Kongen fastsetter.1 Den får anvendelse også på tidligere oppståtte fordringer, som ikke før den nevnte dag var foreldet etter de da gjeldende regler. Foreldelse etter denne lov skal likevel ikke i noe tilfelle inntre før utgangen av året 1982, med mindre fordringen ville være foreldet på tidligere tidspunkt også etter de regler som gjaldt da loven trådte i kraft.
+Loven tar til å gjelde 1. januar 1980, men [§ 1](lov/1979-05-18-18/§1) nr. 2 fra den tid Kongen fastsetter.[^1] Den får anvendelse også på tidligere oppståtte fordringer, som ikke før den nevnte dag var foreldet etter de da gjeldende regler. Foreldelse etter denne lov skal likevel ikke i noe tilfelle inntre før utgangen av året 1982, med mindre fordringen ville være foreldet på tidligere tidspunkt også etter de regler som gjaldt da loven trådte i kraft.
 
 1 Fra 1 aug 1988 iflg. [res. 8 juli 1988 nr. 552](forskrift/1988-07-08-552).
 
@@ -312,7 +312,7 @@ Loven tar til å gjelde 1. januar 1980, men [§ 1](lov/1979-05-18-18/§1) nr. 2 
 
 Fra den dag loven tar til å gjelde, gjøres følgende endringer i lovgivningen ellers: – – –
 
-## Konvensjon av 14 juni 1974 om forelding i internasjonale kjøpsforhold.1
+## Konvensjon av 14 juni 1974 om forelding i internasjonale kjøpsforhold.[^1]
 
 1 Kunngjort som konvensjon 8 juli 1988 nr. 553. – Se [lov 18 mai 1979 nr. 18 § 1](lov/1979-05-18-18/§1) nr. 2.
 

@@ -15,7 +15,7 @@ xml_hash: "115086568913c4cf008e12b470164024ea83944f5114441c0fae623375e1420d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -519,7 +519,7 @@ Blir person med førerrett ilagt straff for brudd på avholdspliktreglene i till
 
 ### § 3-7. Etterfølgende nytelse av alkohol eller annet berusende eller bedøvende middel – vegtrafikkloven § 22 annet ledd
 
-Ved ileggelse av straff for overtredelse av [vegtrafikkloven § 22](lov/1965-06-18-4/§22) annet ledd1 skal tap av førerrett fastsettes til 15 måneder, eller kortere når det foreligger formildende omstendigheter ved det straffbare forhold. Var kjøringen uforsvarlig og denne førte til skader, bør tapsperioden fastsettes for lengre tid. I skjerpende retning legges det videre vekt på om vedkommende forsto at det ville bli politietterforskning som følge av kjøringen og om det etterfølgende inntak av alkohol eller annet berusende eller bedøvende middel må antas å være foretatt med sikte på bevisforspillelse.
+Ved ileggelse av straff for overtredelse av [vegtrafikkloven § 22](lov/1965-06-18-4/§22) annet ledd[^1] skal tap av førerrett fastsettes til 15 måneder, eller kortere når det foreligger formildende omstendigheter ved det straffbare forhold. Var kjøringen uforsvarlig og denne førte til skader, bør tapsperioden fastsettes for lengre tid. I skjerpende retning legges det videre vekt på om vedkommende forsto at det ville bli politietterforskning som følge av kjøringen og om det etterfølgende inntak av alkohol eller annet berusende eller bedøvende middel må antas å være foretatt med sikte på bevisforspillelse.
 
 > Endret ved [forskrifter 27 jan 2012 nr. 70](forskrift/2012-01-27-70) (i kraft 1 feb 2012), [24 mai 2024 nr. 823](forskrift/2024-05-24-823) (i kraft 1 sep 2024 iflg. vedtak [27 juni 2024 nr. 1365](forskrift/2024-06-27-1365)).
 

@@ -15,7 +15,7 @@ xml_hash: "c908dd25998559e6a28a324fd9adc99a7e023c14911b5b9a7ffa7223a964d3b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Gjennomføring av Kommisjonsdelegert forordning (EU) 2022/670
 
-[EØS-avtalen Vedlegg XIII Transport, Kapittel II](avtale/avt-1992-05-02-1-v13/kapII) Veitransport nr. 17kg1 (forordning [(EU) 2022/670](eu/32022r0670) av 2. februar 2022 om utfylling av europaparlaments- og rådsdirektiv [2010/40/EU](eu/32010l0040) med hensyn til tilgjengeliggjøring av trafikkinformasjonstjenester i sanntid på EU-plan), gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen forøvrig.
+[EØS-avtalen Vedlegg XIII Transport, Kapittel II](avtale/avt-1992-05-02-1-v13/kapII) Veitransport nr. 17kg[^1] (forordning [(EU) 2022/670](eu/32022r0670) av 2. februar 2022 om utfylling av europaparlaments- og rådsdirektiv [2010/40/EU](eu/32010l0040) med hensyn til tilgjengeliggjøring av trafikkinformasjonstjenester i sanntid på EU-plan), gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen forøvrig.
 
 > Endret ved forskrift [6 mai 2025 nr. 781](forskrift/2025-05-06-781) (i kraft 1 sep 2025).
 

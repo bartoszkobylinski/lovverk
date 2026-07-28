@@ -15,7 +15,7 @@ xml_hash: "7ff69457f9aec92514d9946e0a249a13f6b31efed205a50b89487b999afa4308"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ For gjerdeanlegg må det videre utarbeides arbeidsbeskrivelse med kartfestet tra
 
 For konflikter mellom reindrift og øvrig landbruk sendes søknad med vedlagt dokumentasjon som nevnt i [§ 3](forskrift/2008-06-19-707/§3) parallelt til kommunen og statsforvalteren som regional reindriftsmyndighet (lokale instanser). Disse legger opp til et administrativt samarbeid i saken og sender søknaden, hver for seg eller sammen, med sine uttalelser til Statsforvalteren i Trøndelag. Uttalelsene skal inneholde forslag til vilkår for å ivareta formålet med ordningen, og også forslag til kostnadsfordeling mellom Landbrukets Utviklingsfond og Reindriftens Utviklingsfond.
 
-De regionale konfliktråd1 kan i samarbeid med partene fremme søknad om tilskudd direkte for Statsforvalteren i Trøndelag.
+De regionale konfliktråd[^1] kan i samarbeid med partene fremme søknad om tilskudd direkte for Statsforvalteren i Trøndelag.
 
 Ved oversendelse til Statsforvalteren i Trøndelag bør det foreligge forslag om kommune eller statsforvalter skal være lokal oppfølgingsinstans for prosjektet, jf. [§ 7](forskrift/2008-06-19-707/§7) og [§ 8](forskrift/2008-06-19-707/§8).
 

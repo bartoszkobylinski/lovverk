@@ -15,7 +15,7 @@ xml_hash: "540e62dfe2215084b7c06cda05160dfe24ec38e8e081810f82864359e0533069"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1440,9 +1440,9 @@ Avtale om at tvist mellom andelseigaren og laget skal avgjerast ved skilsdom ell
 
 ### § 14-1. Ikraftsetjing
 
-(1) Lova gjeld frå den tid Kongen fastset.1 Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+(1) Lova gjeld frå den tid Kongen fastset.[^1] Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
 
-(2) Kongen fastset når [lov 4. februar 1960 nr. 2](lov/1960-02-04-2) om borettslag blir oppheva.2
+(2) Kongen fastset når [lov 4. februar 1960 nr. 2](lov/1960-02-04-2) om borettslag blir oppheva.[^2]
 
 > Endra ved lov [17 juni 2005 nr. 94](lov/2005-06-17-94) (ikr. 15 aug 2005 iflg. [res. 1 juli 2005 nr. 753](forskrift/2005-07-01-753)).
 

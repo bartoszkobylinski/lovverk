@@ -15,7 +15,7 @@ xml_hash: "4667c7e3633265fdc1b1cf788799e76de575f4ee6ada2ff75582e6c3ab1f2d99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1082,7 +1082,7 @@ Transaksjonskontrollene i henhold til pkt. 2.5.2 ivaretas for anskaffelser norma
 
 Det vises særlig til [lov 17. juni 2016 nr. 73 om offentlige anskaffelser](lov/2016-06-17-73), med tilhørende forskrifter.
 
-På en del områder har staten inngått rammeavtaler om innkjøp. Virksomheten kan være forpliktet til å bruke slike avtaler1.
+På en del områder har staten inngått rammeavtaler om innkjøp. Virksomheten kan være forpliktet til å bruke slike avtaler[^1].
 
 Det foreligger merverdiavgiftsplikt når virksomheten kjøper fjernleverbare tjenester fra utlandet (innførsel av tjenester). Plikten til å beregne og betale merverdiavgift påhviler virksomheten, jf. [merverdiavgiftsloven § 11-3](lov/2009-06-19-58/§11-3). Dette betyr at virksomheten vil være pliktig til å beregne og betale merverdiavgift i slike tilfeller.
 
@@ -1630,7 +1630,7 @@ Departementet skal ved utgangen av hvert år sende Riksrevisjonen en oversikt ov
 
 ### 8.1 Innledning
 
-Kapitlet inneholder bestemmelser om etablering og forvaltning av garantiordninger. Formålet med bestemmelsene er å sikre effektiv og hensiktsmessig utforming og oppfølging av garantiordninger.1
+Kapitlet inneholder bestemmelser om etablering og forvaltning av garantiordninger. Formålet med bestemmelsene er å sikre effektiv og hensiktsmessig utforming og oppfølging av garantiordninger.[^1]
 
 Kapittel 8 gjelder for såkalte reelle garantiordninger, dvs. forhold der staten garanterer for at juridisk person (låntaker) oppfyller sitt avtaleforhold overfor juridisk person (långiver). Garanti i henhold til kapittel 8 er ikke aktuell dersom enten långiver eller låntaker er et statlig forvaltningsorgan.
 

@@ -15,7 +15,7 @@ xml_hash: "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1974,7 +1974,7 @@ Før det eventuelt vedtas pålegg om retting eller andre reaksjoner med vesentli
 
 ### § 31-1. Ikrafttredelse
 
-Loven gjelder fra det tidspunktet1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner.
+Loven gjelder fra det tidspunktet[^1] Kongen bestemmer. Fra samme tidspunkt oppheves [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner.
 
 Kongen kan sette i kraft og oppheve de enkelte bestemmelsene til forskjellig tid.
 

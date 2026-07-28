@@ -15,7 +15,7 @@ xml_hash: "8aec41cde18abd37dbdd0d19c70d0bb66687c9c818d63d7b5fa4a7a11dc381ad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,7 +104,7 @@ Avgjerd av ein dansk, finsk, islandsk eller svensk domstol, som pålegg ein pers
 
 ## § 12.
 
-Denne lova tek til å gjelde frå den tida1 Kongen fastset.
+Denne lova tek til å gjelde frå den tida[^1] Kongen fastset.
 
 Kongen kan setje lova i kraft særskilt i høve til einskilde av dei statane den skal omfatte.
 

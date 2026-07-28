@@ -15,7 +15,7 @@ xml_hash: "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32002L0047"
@@ -117,7 +117,7 @@ For finansiell sikkerhet i form av registrerte finansielle instrumenter regulere
 
 ## § 10. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Kongen kan gi overgangsregler.
 

@@ -15,7 +15,7 @@ xml_hash: "8b4d7fbc1846da400e5881eb92a1013f8220f973e77f84f77fe48484705b22da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -240,10 +240,10 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 | Kalsium (mg) | 120 | 1026 | 1052 | 776 | 705 |
 | Fosfor (mg) | 105 |  |  |  |  |
 | Magnesium (mg) | 56 | 85 | 120 | 280 | 350 |
-| Jern (mg) | 2,1 | 4,5\* | 4,5\* | 15 | 21 |
+| Jern (mg) | 2,1 | 4,5[^\*] | 4,5[^\*] | 15 | 21 |
 | Kopper (mg) | 0,15 |  |  |  |  |
 | Jod (μg) | 23 |  |  |  |  |
-| Sink (mg) | 1,5 | 2\*\* | 2\*\* | 5 | 14 |
+| Sink (mg) | 1,5 | 2[^\*\*] | 2[^\*\*] | 5 | 14 |
 | Mangan (mg) | 0,3 |  |  |  |  |
 | Selen (μg) | 8,3 |  |  |  |  |
 | Krom (μg) | 6 |  |  |  |  |
@@ -275,7 +275,7 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 
    1. kolekalciferol
    2. kalciferol
-   3. kalsidiolmonohydrat1
+   3. kalsidiolmonohydrat[^1]
 3. VITAMIN E
 
    1. D-alfa-tokoferol
@@ -283,12 +283,12 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
    3. D-alfa-tokoferylacetat
    4. DL-alfa-tokoferylacetat
    5. D-alfa-tokoferylsyresuksinat
-   6. blandede tokoferoler2
-   7. tokotrienoltokoferol3
+   6. blandede tokoferoler[^2]
+   7. tokotrienoltokoferol[^3]
 4. VITAMIN K
 
    1. fyllokinon (fytomenadion)
-   2. menaquinon4
+   2. menaquinon[^4]
 5. VITAMIN B1
 
    1. tiaminhydroklorid
@@ -335,7 +335,7 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 
     1. L-askorbinsyre
     2. natrium L-askorbat
-    3. kalsium L-askorbat5
+    3. kalsium L-askorbat[^5]
     4. kalium L-askorbat
     5. L-askorbyl 6-palmitat
     6. magnesium L-askorbat
@@ -386,7 +386,7 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 - magnesiumsulfat
 - magnesiumtaurat
 - magnesiumacetyltaurat
-- magnesium L-treonat1
+- magnesium L-treonat[^1]
 - jern(II)karbonat
 - jern(II)sitrat
 - jern(III)ammoniumsitrat
@@ -464,13 +464,13 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 - kaliummalat
 - kaliumsalter av ortofosforsyre
 - L-selenometionin
-- selenberiket gjær6
+- selenberiket gjær[^6]
 - selensyre
 - natriumselenat
 - natriumhydrogenselenitt
 - natriumselenitt
 - krom(III)klorid
-- kromberiket gjær7
+- kromberiket gjær[^7]
 - krom(III)laktattrihydrat
 - kromnitrat
 - krompikolinat
@@ -486,7 +486,7 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 - natriumborat
 - kolinstabilisert ortokiselsyre
 - silisiumdioksid
-- kiselsyre8
+- kiselsyre[^8]
 - organisk silisium (monomethylsilanetriol)
 
 1 Som oppført på EU-listen over nye næringsmidler i Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72, ELI: [http://data.europa.eu/eli/reg_impl/2017/2470/oj](http://data.europa.eu/eli/reg_impl/2017/2470/oj)). Forordning [(EU) 2017/2470](eu/32017r2470) er gjennomført i norsk rett [§ 1b i forskrift 25. juli 2017 nr. 1215 om ny mat](forskrift/2017-07-25-1215/§1b).

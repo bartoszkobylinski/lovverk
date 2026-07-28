@@ -15,7 +15,7 @@ xml_hash: "3728e7fb040715a1ad058ce7a48471f5ae933aa750a0da197b09646b8be1490f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,7 +109,7 @@ I [lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplær
 
 ## VIII
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Departementet kan gi overgangsbestemmelser.
 

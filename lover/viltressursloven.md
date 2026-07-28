@@ -15,7 +15,7 @@ xml_hash: "f60e0babf73452a9b374dbbd53918892db05bf8bd4799f241c314c4d3fa5056f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -533,7 +533,7 @@ Med bøter straffes den som forsettlig eller uaktsomt overtrer [§ 33](lov/2025-
 
 ### § 61. Ikrafttredelse, opphevelse og overgangsbestemmelser
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Fra samme tid oppheves [lov 29. mai 1981 nr. 38 om jakt og fangst av vilt](lov/1981-05-29-38). Kongen kan oppheve de enkelte bestemmelsene til forskjellig tid.
 

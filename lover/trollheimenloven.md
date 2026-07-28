@@ -15,7 +15,7 @@ xml_hash: "96bf20ce328ebac1c23e2fb47589bc4b215875775b7f6c89ea61bf8d9e34ba33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Formålet med denne lov er å sikre fortsatt samisk reindrift i kommunene Meldal
 
 ## § 2. Vilkår for å utøve reindrift
 
-Utøvelse av reindrift i de kommunene loven omfatter krever særskilt tillatelse av Kongen1 i samsvar med [reindriftsloven § 8](lov/2007-06-15-40/§8). Tillatelse kan bare gis til personer som oppfyller vilkårene i [reindriftsloven § 9](lov/2007-06-15-40/§9) for å eie rein i det samiske reinbeiteområdet. Første gangs tillatelse i medhold av loven her, kan bare gis til personer som selv utøver reindrift i område da loven trer i kraft.
+Utøvelse av reindrift i de kommunene loven omfatter krever særskilt tillatelse av Kongen[^1] i samsvar med [reindriftsloven § 8](lov/2007-06-15-40/§8). Tillatelse kan bare gis til personer som oppfyller vilkårene i [reindriftsloven § 9](lov/2007-06-15-40/§9) for å eie rein i det samiske reinbeiteområdet. Første gangs tillatelse i medhold av loven her, kan bare gis til personer som selv utøver reindrift i område da loven trer i kraft.
 
 > Endret ved [lov 15 juni 2007 nr. 40](lov/2007-06-15-40) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627)).
 
@@ -50,7 +50,7 @@ Reindriften i området som omfattes av denne lov, skal høre inn under Statsforv
 
 ## § 5. Ikrafttredelse og endringer i andre lover
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Fra samme tid gjøres følgende endringer i andre lover:
 

@@ -15,7 +15,7 @@ xml_hash: "f556f0f0133cdfcddb9a2d2e01a501f6a07b923de28b94957ba6aca6fbf60822"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -153,7 +153,7 @@ Mottakeren må ikke offentliggjøre resultatet av behandlingen av opplysningene 
 
 ### § 5-1. Ikrafttredelse
 
-Forskriften trer i kraft fra den tiden departementet bestemmer.1 Departementet kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tid.
+Forskriften trer i kraft fra den tiden departementet bestemmer.[^1] Departementet kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tid.
 
 1 Trer i kraft 15 april 2021 med unntak av [§ 5-2](forskrift/2021-03-26-969/§5-2) nr. 1, jf. vedtak [8 april 2021 nr. 1110](forskrift/2021-04-08-1110).
 

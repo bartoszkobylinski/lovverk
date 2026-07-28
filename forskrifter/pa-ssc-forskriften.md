@@ -15,7 +15,7 @@ xml_hash: "275ab3b752dc3c5cf9fe33be47c4bd982b5002529592dee817cf91a6abc6126c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i denne forskriften.
 
 ## § 4.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/763](eu/32018r0763) av 9. april 2018, som endret av forordning [(EU) 2020/777](eu/32020r0777), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/763](eu/32018r0763) av 9. april 2018, som endret av forordning [(EU) 2020/777](eu/32020r0777), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 Fra samme tidspunkt oppheves [forskrift 7. desember 2007 nr. 1392 om gjennomføring av forordning (EF) nr. 653/2007 av 13. juni 2007 om bruken av et felles europeisk format for sikkerhetssertifikater og søknadsdokumenter i samsvar med artikkel 10 i europaparlaments- og rådsdirektiv 2004/49/EF](forskrift/2007-12-07-1392) og om gyldigheten av sikkerhetssertifikater utstedt i henhold til direktiv [2001/14/EF](eu/32001l0014).
 

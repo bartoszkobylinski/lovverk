@@ -15,7 +15,7 @@ xml_hash: "e8f913846760c32090f6f8678f83cc3b1c0ee1eb6b1a4467c6ea068b62574256"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,7 +196,7 @@ Unnlatelse av å følge pålegg som nevnt i [§ 10](lov/1993-06-04-58/§10) stra
 
 ## § 16. Ikrafttreden
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 > Endret ved lover [2 juli 2004 nr. 66](lov/2004-07-02-66) (ikr. 1 okt 2004 iflg. [res. 2 juli 2004 nr. 1068](forskrift/2004-07-02-1068), tidligere § 9), [24 nov 2006 nr. 63](lov/2006-11-24-63) (ikr. 1 des 2006 iflg. [res. 24 nov 2006 nr. 1294](forskrift/2006-11-24-1294), tidligere § 10), [19 juni 2009 nr. 42](lov/2009-06-19-42) (ikr. 1 sep 2009 iflg. [res. 19 juni 2009 nr. 841](forskrift/2009-06-19-841), tidligere § 11).
 

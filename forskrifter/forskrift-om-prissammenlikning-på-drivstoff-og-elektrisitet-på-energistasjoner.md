@@ -15,7 +15,7 @@ xml_hash: "e2baed55a612edd000142e5789b5c5186e7e382209f22c940b78501d449bb99f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,8 +69,8 @@ Forskriften trer i kraft 1. januar 2023.
 
    Beregningen skal baseres på følgende faktorer:
 
-   1. Forbruket av bensin, diesel eller elektrisitet for referansekjøretøyet, jf. [§ 4](forskrift/2022-03-15-422/§4), per 100 km i henhold til samsvarssertifikatet for kjøretøyer nevnt i [artikkel 18](eu/32007l0046/a18) i europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046)1.
-   2. Dersom det er relevant, verdiene for energiforbruk per 100 km for blandinger av biodrivstoff med bensin eller diesel2.
+   1. Forbruket av bensin, diesel eller elektrisitet for referansekjøretøyet, jf. [§ 4](forskrift/2022-03-15-422/§4), per 100 km i henhold til samsvarssertifikatet for kjøretøyer nevnt i [artikkel 18](eu/32007l0046/a18) i europaparlaments- og rådsdirektiv [2007/46/EF](eu/32007l0046)[^1].
+   2. Dersom det er relevant, verdiene for energiforbruk per 100 km for blandinger av biodrivstoff med bensin eller diesel[^2].
    3. Nasjonal gjennomsnittlig markedspris for bensin, diesel og elektrisitet.
 3. Prisen uttrykt som kr/100 km beregnes slik:
 

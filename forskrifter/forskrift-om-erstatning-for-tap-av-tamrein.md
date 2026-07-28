@@ -15,7 +15,7 @@ xml_hash: "d5be0490ee3684f9d9b6287823b4c6c4f57229fc7b3ed25b21e584630de1f0cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -170,6 +170,6 @@ Klima- og miljødepartementet kan vedta endringer i forskriften.
 
 Denne forskrift trer i kraft straks.
 
-Fra samme tid oppheves regler om erstatning for skader på rein voldt av gaupe, jerv, bjørn, ulv og kongeørn, og om kompensasjon for ulemper for reineier, fastsatt den 21. mars 1997 av Miljøverndepartementet.1
+Fra samme tid oppheves regler om erstatning for skader på rein voldt av gaupe, jerv, bjørn, ulv og kongeørn, og om kompensasjon for ulemper for reineier, fastsatt den 21. mars 1997 av Miljøverndepartementet.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend.

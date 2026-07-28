@@ -15,14 +15,14 @@ xml_hash: "c2a360e6150787e7f50d38f4d018dcbfa13e5c2c637697f31a637dec509dbb05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Fastsettelse av Beredskapssystem for forsvarssektoren (BFF) og delegering av fullmakter
 
-1. Beredskapssystem for forsvarssektoren (BFF 2025) fastsettes i samsvar med vedlegg til resolusjonen.1
+1. Beredskapssystem for forsvarssektoren (BFF 2025) fastsettes i samsvar med vedlegg til resolusjonen.[^1]
 2. Forsvarsdepartementet delegeres myndighet til å foreta nødvendige endringer i Beredskapssystem for forsvarssektoren med mindre endringene er vesentlige.
 3. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]
 4. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]

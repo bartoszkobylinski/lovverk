@@ -15,7 +15,7 @@ xml_hash: "95923b7fb9e686a6500aa5b1db97a66df3de242eeec0a156dd104184576f65bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Statens jernbanetilsyn utøver myndighet etter denne forskriften.
 
 ## § 3.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2015/171](eu/32015r0171) av 14. februar 2015 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2015/171](eu/32015r0171) av 14. februar 2015 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 803](forskrift/2022-05-06-803).
 

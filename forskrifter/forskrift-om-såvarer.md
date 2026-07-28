@@ -15,7 +15,7 @@ xml_hash: "1a53a1ec24a5eb01bfed16399faf3bd1f42db6c155bf0015fac85c21248dbabb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -645,9 +645,9 @@ Samtidig oppheves [forskrift av 23. desember 1993 nr. 1418](forskrift/1993-12-23
 
 |  |  |
 | --- | --- |
-| *Avena nuda* L. | Naken havre\* |
-| *Avena sativa* L. (inkl. *A. Byzantina* K. Koch) | Havre\* |
-| *Avena strigosa* Schreb. | Busthavre\* |
+| *Avena nuda* L. | Naken havre[^\*] |
+| *Avena sativa* L. (inkl. *A. Byzantina* K. Koch) | Havre[^\*] |
+| *Avena strigosa* Schreb. | Busthavre[^\*] |
 | *Hordeum vulgare* L. | Bygg |
 | *Secale cereale* L. | Rug |
 | *Triticum aestivum* L. subsp. *aestivum* | Hvete |
@@ -751,7 +751,7 @@ Samtidig oppheves [forskrift av 23. desember 1993 nr. 1418](forskrift/1993-12-23
 
 *Hagebruksvekster*
 
-*V. Grønnsaker*1
+*V. Grønnsaker*[^1]
 
 - *Allium cepa* L.
   Cepa-gruppe (kepaløk)
@@ -1530,7 +1530,7 @@ Kravene kontrolleres ved laboratorieanalysen.
 
 | *Kornart* | *Klasse* | *Krav, %* |
 | --- | --- | --- |
-| Bygg,\* havre unntatt naken havre, rug, hvete, durumhvete og spelt | Alle | 85 |
+| Bygg,[^\*] havre unntatt naken havre, rug, hvete, durumhvete og spelt | Alle | 85 |
 | Rughvete | Alle | 80 |
 | Naken havre | Alle | 75 |
 | Mais | Alle | 90 |
@@ -1541,7 +1541,7 @@ Kravene kontrolleres ved laboratorieanalysen.
 
 | *Kornart* | *Klasse* | *Krav, antall* | *Minste prøvestr. til analyse av et parti* | *Prøvestr. til bestemmelse av antall arter* |
 | --- | --- | --- | --- | --- |
-| Alle unntatt mais | P og B | maks. 4 kjerner/frø i alt, av disse:<br>maks. 1 kjerne av annen kornart\*<br>maks. 3 frø av andre plantearter enn korn<br>maks. 1 kjerner av *Raphanus raphanistrum* (åkerreddik/villreddik)<br>maks. 1 kjerner av *Agrostemma githago* (klinte) | 1000 g | 500 g |
+| Alle unntatt mais | P og B | maks. 4 kjerner/frø i alt, av disse:<br>maks. 1 kjerne av annen kornart[^\*]<br>maks. 3 frø av andre plantearter enn korn<br>maks. 1 kjerner av *Raphanus raphanistrum* (åkerreddik/villreddik)<br>maks. 1 kjerner av *Agrostemma githago* (klinte) | 1000 g | 500 g |
 | Alle unntatt mais | C1 og C2 | maks. 10 kjerner/frø i alt, av disse:<br>maks. 7 kjerner av annen kornart<br>maks. 7 frø av andre planter enn korn<br>maks. 3 kjerner av *Raphanus raphanistrum* (åkerreddik/villreddik)<br>maks. 3 kjerner av *Agrostemma githago* (klinte) | 1000 g | 500 g |
 | Mais unntatt innavlede linjer | Alle | 0 kjerner av andre arter | 1000 g | 1000 g |
 | Mais, innavlede linjer | Alle | 0 kjerner av andre arter | 250 g | 250 g |
@@ -1569,7 +1569,7 @@ Frøene skal være praktisk talt frie for skadegjørere som reduserer bruksverdi
 | *Kornart* | *Klasse* | *Maksimalt antall* |
 | --- | --- | --- |
 | Alle, unntatt hybridsorter av rug | P og B<br>C, C1 og C2 | 1<br>3 |
-| Hybridsorter av rug | P og B<br>C | 1<br>4\* |
+| Hybridsorter av rug | P og B<br>C | 1<br>4[^\*] |
 
 \* Fem sopplegemer som sklerotier eller deler av sklerotier eller ergots, ansees ikke som overskridelse av kravet dersom en ny prøve på 500 g ikke inneholder mer enn fire sopplegemer.
 
@@ -1588,19 +1588,19 @@ Kravene gjelder for alt såkorn både under del 1 og del 2
 1. Ved vekstkontrollen skal plantene være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.
 2. De ulike klassene såkorn skal ikke inneholde større mengde avvikende sort og forekomst av naken sot enn det som følger av tabellen:
 
-   | *Klasse* | *Utsæd* | *Avvikende type (maks. innhold)* |  | *Naken sot*1 *(maks. innhold)* |  |
+   | *Klasse* | *Utsæd* | *Avvikende type (maks. innhold)* |  | *Naken sot*[^1] *(maks. innhold)* |  |
    | --- | --- | --- | --- | --- | --- |
    |  |  | *Vekstkontroll, planter/dekar* | *Kontrolldyrking, % planter* | *Vekstkontroll, planter/dekar* | *Kontrolldyrking, % planter* |
    | PREBASIS | Foredlermateriale eller prebasis | 25 | 0,1 | 100 | 0,05 |
    | BASIS |  |  |  |  |  |
-   | – Rug2 | Prebasis | 33 | 0,2 | 100 | 0,05 |
+   | – Rug[^2] | Prebasis | 33 | 0,2 | 100 | 0,05 |
    | – CMS-hybrider av bygg | Prebasis – Vedlikeholder – Gjenopprettende linje |  | 0,1 |  |  |
    |  | Prebasis – CMS-hunkomponenten |  | 0,2 |  |  |
    | – CMS-hybrider av hvete, spelt og durumhvete | Prebasis – Vedlikeholder – Gjenopprettende linje |  | 0,1 |  |  |
    |  | Prebasis – CMS-hunkomponenten |  | 0,3 |  |  |
    | – Andre sorter/arter | Prebasis | 25 | 0,1 | 100 | 0,05 |
    | SERTIFISERT |  |  |  |  |  |
-   | C rug2 | Minimum basis | 100 | 0,6 | 200 | 0,1 |
+   | C rug[^2] | Minimum basis | 100 | 0,6 | 200 | 0,1 |
    | C CMS-hybrider av bygg | Minimum basis |  |  |  |  |
    |  | – Gjenopprettende linje og CMS-hunkomponenten |  | 0,3 |  |  |
    |  | – CMS-hunkomponenten hos enkelthybrider |  | 0,5 |  |  |

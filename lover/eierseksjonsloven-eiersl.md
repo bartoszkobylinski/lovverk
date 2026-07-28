@@ -15,7 +15,7 @@ xml_hash: "e1948767fb2015ab6bc8cfc3258b718fa35ec921150e9c73a356c75c5d863064"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -740,7 +740,7 @@ Dersom sameiet har statsautorisert eller registrert revisor, gjelder bestemmelse
 
 ### § 66. Ikrafttredelse
 
-Loven gjelder fra den tiden1 Kongen bestemmer.
+Loven gjelder fra den tiden[^1] Kongen bestemmer.
 
 Fra samme tidspunkt oppheves [lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner.
 

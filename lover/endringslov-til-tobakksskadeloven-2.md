@@ -15,7 +15,7 @@ xml_hash: "b5a33e9404c2f481709e690747a4ba0b6ee2caf3734c2558e9dc7fe650d7b85f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ I [lov av 22. juni 2018 nr. 77 om endringer i tobakksskadeloven (ulovlig handel 
 
 ## IV
 
-1. Endringene under I gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Endringene under I gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Endringene under II og III trer i kraft straks.
 
 Kongen kan gi overgangsregler.

@@ -15,7 +15,7 @@ xml_hash: "6f894de7d3f2313c59edd2fcf980b3e7342590d77e5658dbca3c58e1db0f2026"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -214,7 +214,7 @@ Med sukker forstås også andre former for sukker enn de som omfattes av gjelden
 
 De vegetabilske fettstoffene som er omtalt i [§ 3](forskrift/2002-09-09-986/§3), er ublandede eller blandede kakaosmørerstatninger og skal være i overensstemmelse med følgende kriterier:
 
-1. de er vegetabilske fettstoffer uten innhold av laurinsyre med stort innhold av symetriske monoumettede triglyserider av POP-, POSt- og StOSt-typen1
+1. de er vegetabilske fettstoffer uten innhold av laurinsyre med stort innhold av symetriske monoumettede triglyserider av POP-, POSt- og StOSt-typen[^1]
 2. de kan i hvilket som helst forhold blandes med kakaosmør og er forenlige med kakaosmørets fysiske egenskaper (smeltepunkt og krystalliseringstemperatur, smeltehastighet, behov for temperering)
 3. de fremstilles utelukkende ved raffinering og/eller fraksjonering. Enzymatisk endring av triglyseridstrukturen er ikke tillatt.
 

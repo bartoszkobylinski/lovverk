@@ -15,7 +15,7 @@ xml_hash: "3564e13b5974c3d5f357ccdf3bce23ae69c634c712ab471204028ae45e2d7f95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,7 +31,7 @@ eu_basis: []
 1. Disse reglene skal gjelde for alle fartøy i rom sjø og i alle tilstøtende farvann som kan befares av sjøgående fartøy.
 2. Intet i disse reglene skal være til hinder for bruk av særregler som av den rette myndighet er gitt for en red, havner, elver, innsjøer eller innenlandske farleder som er forbundet med rom sjø og kan befares av sjøgående fartøy. Slike særregler skal ligge så nær opp til de internasjonale reglene som mulig.
 3. Intet i disse reglene skal være til hinder for at det blir nyttet særregler, fastsatt av en stats regjering, om særlige posisjons- eller signallanterner, signalfigurer eller fløytesignaler for krigsfartøy og fartøy i konvoi eller om særlige posisjons- eller signallanterner eller signalfigurer for fiskefartøy som holder på med å fiske som en gruppe. Disse særlige posisjons- eller signallanterner, signalfigurer eller fløytesignaler skal så vidt mulig være slik at de ikke kan forveksles med noen lanterne, signalfigur eller signal som har hjemmel annensteds i disse reglene.
-4. Trafikkseparasjonssystemer kan vedtas av Organisasjonen1 for så vidt det gjelder disse reglene.
+4. Trafikkseparasjonssystemer kan vedtas av Organisasjonen[^1] for så vidt det gjelder disse reglene.
 5. Når et lands regjering har funnet at et fartøy som er av særegen konstruksjon eller bestemt til særlige formål, ikke helt kan rette seg etter bestemmelser i en eller annen av disse reglene med hensyn til antallet av lanterner eller signalfigurer, deres plass eller synsvidde og skjerming eller med hensyn til lydsignalapparaters plassering og karakteristikk, skal slikt fartøy rette seg etter slike andre bestemmelser med hensyn til antallet av lanterner og signalfigurer, deres plass eller synsvidde og skjerming eller med hensyn til lydsignalapparaters plassering og karakteristikk som vedkommende regjering har funnet å være nærmest mulig i samsvar med disse reglene, for så vidt angår slikt fartøy.
 
 1 I henhold til Artikkel II punkt 3 i Konvensjon om de internasjonale regler til forebygging av sammenstøt på sjøen, 1972 betyr «Organisasjonen» Den mellomstatlige rådgivende skipsfartsorganisasjon, i alminnelighet forkortet til og omtalt som «IMCO».
@@ -512,7 +512,7 @@ I eller nær farvann med nedsatt sikt skal de signalene som denne regelen foresk
 
 Hvis det blir nødvendig for å påkalle et annet fartøys oppmerksomhet kan et hvilket som helst fartøy gi lys- og lydsignal som ikke kan forveksles med noe signal som har hjemmel annetsteds i disse reglene eller det kan rette strålen fra sin lyskaster i retning mot faren på en slik måte at intet fartøy sjeneres.
 
-Ethvert lys som brukes for å påkalle ett annet fartøys oppmerksomhet skal være slik at det ikke kan forveksles med et hvilket som helst hjelpemiddel for navigeringen. For så vidt det gjelder denne regel skal bruken av høyintense lys som blinker eller hvor blinket fremkalles ved roterende lys, slik som blitzlys,1 unngås.
+Ethvert lys som brukes for å påkalle ett annet fartøys oppmerksomhet skal være slik at det ikke kan forveksles med et hvilket som helst hjelpemiddel for navigeringen. For så vidt det gjelder denne regel skal bruken av høyintense lys som blinker eller hvor blinket fremkalles ved roterende lys, slik som blitzlys,[^1] unngås.
 
 > Endret ved forskrift [24 jan 2022 nr. 118](forskrift/2022-01-24-118).
 
@@ -620,7 +620,7 @@ En ferje som ved hjelp av kabel, kjetting eller liknende, beveger seg i en fast 
 
 Tollvesenets og politiets fartøy kan når de patruljerer, istedenfor de lanternene som er foreskrevet i [sjøveisreglene,](traktat/1972-10-20-1) vise sine lanterner eller et bluss når de nærmer seg andre fartøy eller de ser andre fartøy nærme seg. Dette skal skje i så god tid at sammenstøt forebygges.
 
-### Regel 53.1 *Lydsignal for fartøy som holder på med mudring eller undervannsarbeider*
+### Regel 53.[^1] *Lydsignal for fartøy som holder på med mudring eller undervannsarbeider*
 
 Et fartøy som viser de lanternene eller signalfigurene som er foreskrevet i regel 27 (d), og som er ankret eller fortøyd på en slik måte at det forstyrrer den alminnelige trafikk, skal under nedsatt sikt gi det internasjonale signalet som er foreskrevet for fartøy som ligger til ankers, etterfulgt av minst 6 enkeltslag på klokken når annen trafikk skal passere fartøyet som om dette var en rød stake, og minst 6 dobbeltslag når annen trafikk skal passere fartøyet, som om dette var en grønn stake.
 
@@ -670,7 +670,7 @@ Enhver fører av dekket norsk fartøy skal sørge for at minst ett eksemplar av 
 
 ### Regel 55. *Ikrafttredelse*
 
-Disse sjøveisregler trer i kraft fra den tid Sjøfartsdirektoratet bestemmer.1
+Disse sjøveisregler trer i kraft fra den tid Sjøfartsdirektoratet bestemmer.[^1]
 
 Fra samme tid oppheves «Regler til forebygging av sammenstøt på sjøen (De internasjonale [sjøveisreglene) og](traktat/1972-10-20-1) Særskilte sjøveisregler for norsk innenlands farvann» fastsatt av Sjøfartsdirektoratet 3. mars 1965 med senere endringer og «Forskrifter om tilleggssignaler for fiskefartøyer» fastsatt av Sjøfartsdirektoratet 26. september 1969 med senere endringer.
 
@@ -805,7 +805,7 @@ Regler som er gitt eller godkjent med hjemmel i § 2 i Særskilte sjøveisregler
 12. *Manøverlanterne.*
 
     Uten hensyn til bestemmelsene i avsnitt 2 (f) i dette vedlegg skal den manøverlanternen som er beskrevet i regel 34 (b), være plassert i det samme langskips vertikalplan som topplanternen eller topplanternene, og hvis praktisk mulig, i en høyde av minst 2 meter loddrett over den forreste topplanternen, dog slik at den skal føres minst 2 meter loddrett over eller under den akterste topplanternen. På et fartøy som bare fører en topplanterne skal manøverlanternen hvis den er anordnet, føres hvor den best kan ses minst 2 meter loddrett atskilt fra topplanternen.
-13. *Hurtiggående fartøy*\*
+13. *Hurtiggående fartøy*[^\*]
 
     1. Topplanternen på hurtiggående fartøy kan plasseres i en høyde i forhold til fartøyets bredde som er mindre enn det som er foreskrevet i > 2 (a) (i) i dette vedlegg, forutsatt at fotvinkelen til den likebente trekanten som dannes av sidelanternene og topplanternen sett vinkelrett forfra eller aktenfra, ikke er mindre enn 27°.
     2. På hurtiggående fartøyer på 50 meters lengde eller mer, kan den vertikale avstanden på minst 4,5 meter mellom topplanternen forut og i hovedmast, som kreves i > 2 (a) (ii) i dette vedlegg, endres, forutsatt at avstanden ikke er mindre enn verdien som fastsettes ved følgende formel:
@@ -878,9 +878,9 @@ Regler som er gitt eller godkjent med hjemmel i § 2 i Særskilte sjøveisregler
       | 200 eller mer | 143 | 2 |
       | 75 men mindre enn 200 | 138 | 1,5 |
       | 20 men mindre enn 75 | 130 | 1 |
-      | Mindre enn 20 | 120\*1 | 0,5 |
-      |  | 115\*2 | 0,5 |
-      |  | 111\*3 | 0,5 |
+      | Mindre enn 20 | 120[^\*1] | 0,5 |
+      |  | 115[^\*2] | 0,5 |
+      |  | 111[^\*3] | 0,5 |
 
       \*1 Når de målte frekvensene ligger i området 180-450 Hz.
 

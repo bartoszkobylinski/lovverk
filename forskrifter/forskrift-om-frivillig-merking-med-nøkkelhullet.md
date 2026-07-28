@@ -15,7 +15,7 @@ xml_hash: "032c15e8af823660a0007c0c74620b5c34582e6833512324d4c22015c08a6fe1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,7 +35,7 @@ I denne forskriften anvendes følgende definisjoner og begreper:
 3. *Foredling og uforedlede produkter* som definert i [forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene](forskrift/2008-12-22-1623).
 4. *Fullkorn (sammalt mel):* hele kornet inkludert skallet, dvs. endosperm, kim og kli. Kornet kan være knust, malt eller lignende, men bestanddelene skal inngå i samme forhold som for den respektive kornsorten. Definisjonen omfatter følgende kornsorter: hvete, spelt, rug, havre, bygg, mais, ris, hirse, durra og andre Sorghum-arter.
 5. *Glutenfri* som definert i forordning [(EU) nr. 828/2014](eu/32014r0828) om krav til opplysninger til forbrukerne om fravær eller redusert forekomst av gluten i næringsmidler, jf. [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne § 1](forskrift/2014-11-28-1497/§1) annet ledd.
-6. *Matfett og matfettblandinger* som definert i Rådets forordning [(EU) nr. 1308/2013](eu/32013r1308) om en felles markedsordning for landbruksprodukter og om særlige bestemmelser for visse landbruksprodukter1, [artikkel 78](eu/32013r1308/a78) jf. vedlegg VII om smørbare fettstoffer og tilsvarende produkter.
+6. *Matfett og matfettblandinger* som definert i Rådets forordning [(EU) nr. 1308/2013](eu/32013r1308) om en felles markedsordning for landbruksprodukter og om særlige bestemmelser for visse landbruksprodukter[^1], [artikkel 78](eu/32013r1308/a78) jf. vedlegg VII om smørbare fettstoffer og tilsvarende produkter.
 7. *Ny mat* som definert i [forskrift 25. juli 2017 nr. 1215 om ny mat § 1](forskrift/2017-07-25-1215/§1), jf. forordning [(EU) 2015/2283](eu/32015r2283) om ny mat.
 8. *Tilsatt smak:* tilsetning av aromaer og næringsmiddelingredienser med aromagivende egenskaper som definert i [forskrift 6. juni 2011 nr. 669 om aroma og næringsmiddelingredienser med aromagivende egenskaper til anvendelse i og på næringsmidler](forskrift/2011-06-06-669).
 9. *Tilsatte sukkerarter:* alle mono- og disakkarider som tilsettes under produksjon av næringsmidler. Sukkerarter som naturlig finnes i honning, siruper, fruktjuicer/fruktsafter og fruktkonsentrater omfattes også.

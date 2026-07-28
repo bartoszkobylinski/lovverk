@@ -15,7 +15,7 @@ xml_hash: "086914490df4798b02672b8e12c6fe46253f3efad5f599841318358677c50799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -151,7 +151,7 @@ Registreringspliktige og personer som handler på vegne av registreringspliktige
 
 ### § 16. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
 
 1 Fra 1. november 2021 for [§ 1](lov/2019-03-01-2/§1) til [§ 7](lov/2019-03-01-2/§7) og [§ 15](lov/2019-03-01-2/§15) iflg. [res. 24 sep 2021 nr. 2864](forskrift/2021-09-24-2864).
 Fra 1. oktober 2024 for [§ 8](lov/2019-03-01-2/§8) til [§ 14](lov/2019-03-01-2/§14) iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214).

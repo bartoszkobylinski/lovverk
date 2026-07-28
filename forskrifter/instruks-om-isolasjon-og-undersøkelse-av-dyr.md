@@ -15,7 +15,7 @@ xml_hash: "67cfae7673a10d37330fd6c58ea5236b1c63c31169b9b781c459d62d99471dd5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -112,7 +112,7 @@ Alle utgifter til behandling av dyr i isolatet skal betales av den enkelte impor
 | Tuberkulose | *M. bovis* | 6 uker før isolatopphør | Hudtest | Hudtest med både aviært og bovint tuberkulin (Intradermal sammenlignende tuberkulintest). Ikke prøver av dyr fra land eller regioner med fristatus/tilleggsgarantier |
 | Salmonellose | *Salmonella* spp. | Første uka i isolat og 6 uker før isolatopphør | Avføring/dyrking | Alle importerte dyr |
 | Infeksiøs bovin rhinotrakeitt/Infeksiøs pustulær vulvovaginitt | Bovint herpesvirus-1 (BHV-1) | Første uka i isolat | Fullblod/serologi | Ikke prøver av dyr fra land eller regioner med fristatus/tilleggsgarantier |
-| Paratuberkulose1, 2 | *M. avium* subsp. *paratuberculosis* | Første uka i isolat og 6 uker før isolatopphør | Avføring/PCR og fullblod/serologi | Alle importerte dyr |
+| Paratuberkulose[^1], [^2] | *M. avium* subsp. *paratuberculosis* | Første uka i isolat og 6 uker før isolatopphør | Avføring/PCR og fullblod/serologi | Alle importerte dyr |
 | Bovin virus diaré | BVDV, pestivirus | Første uka i isolat | EDTA-blod/PCR eller antigen ELISA | Alle importerte dyr |
 | Q-feber | *Coxiella burnetii* | Første uka i isolat og 6 uker før isolatopphør | Fullblod/serologi og avføring/PCR | Alle importerte dyr |
 | Leptospirose | *Leptospira interrogans*, ca. 200 serovarianter |  | Fullblod/serologi | Ved klinisk sykdom i isolat (feber, anorexi, nedsatt allmenntilstand, blodig urin, diare), ved abort/dødfødsel/svakfødte avkom, eller ved eventuell annen indikasjon. |
@@ -123,7 +123,7 @@ Alle utgifter til behandling av dyr i isolatet skal betales av den enkelte impor
 
 2 Resultatet av de serologiske testene må vurderes i lys av eventuell testing mhp. tuberkulose foretatt forut for isolasjonen. Tuberkulintest kan påvirke serologisk resultat av paratuberkuloseundersøkelse.
 
-*A2. Lama og alpakka*1
+*A2. Lama og alpakka*[^1]
 
 *Isolasjonstid:* i utgangspunktet i 6 måneder (26 uker), men skal likevel vare til de importerte dyrene er minst 2 1/2 år gamle. Dyr født i isolatet følger mordyrets isolasjonstid.
 
@@ -137,7 +137,7 @@ Alle utgifter til behandling av dyr i isolatet skal betales av den enkelte impor
 | *Sjukdom* | *Smittestoff* | *Prøvetidspunkt* | *Prøvetype* | *Merknad* |
 | --- | --- | --- | --- | --- |
 | Blåtunge | BTV, reovirus, 24 serovarianter | Første isolatuke | EDTA-blod/PCR | Ikke prøver av dyr fra BTV-frie EU-land |
-| Tuberkulose2 | *M. bovis* | 6 uker før isolatopphør. Ved avvik fra anbefalt prosedyre, jf. fotnote | Hudtest 3 Fullblod/serologi | Hudtest (med både aviært og bovint tuberkulin, dvs. intradermal sammenlignende tuberkulintest). Alle importerte dyr, men dersom dyr importert fra EØS-land er testet i samsvar med Mattilsynets regler (dvs. hele avsenderbesetningen er testet med hudtest og etterfølgende serologi) kan hudtesten i isolatet sløyfes. |
+| Tuberkulose[^2] | *M. bovis* | 6 uker før isolatopphør. Ved avvik fra anbefalt prosedyre, jf. fotnote | Hudtest [^3] Fullblod/serologi | Hudtest (med både aviært og bovint tuberkulin, dvs. intradermal sammenlignende tuberkulintest). Alle importerte dyr, men dersom dyr importert fra EØS-land er testet i samsvar med Mattilsynets regler (dvs. hele avsenderbesetningen er testet med hudtest og etterfølgende serologi) kan hudtesten i isolatet sløyfes. |
 | Brucellose | *B. melitensis, B. abortus* | Første isolatuke | Fullblod/serologi | Alle importerte dyr |
 | Infeksiøs bovin rhinotrakeitt/Infeksiøs pustulær vulvovaginitt | Bovint herpesvirus-1 (BHV-1) | Første uka i isolat | Fullblod/serologi | Alle importerte dyr |
 | Paratuberkulose | *M. avium* subsp. *paratuberculosis* | Første uka i isolat og 6 uker før isolatopphør | Avføring/PCR | Alle importerte dyr |
@@ -177,13 +177,13 @@ Alle småfe skal undersøkes klinisk ved ankomst og fotbades med en 15 % zinksu
 | *Sjukdom/måned* | *1* | *2* | *3–12* | *13* | *14–22* | *23* | *24* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Skrapesjuke* | *I* |  |  | *I* |  |  | *I* |
-| *CAE*1 |  | B |  | B |  | B |  |
-| *Mædi*1 |  | *B* |  | *B* |  | *B* |  |
-| *Salmonella*4 | *F* | *F* |  |  |  | *F* |  |
+| *CAE*[^1] |  | B |  | B |  | B |  |
+| *Mædi*[^1] |  | *B* |  | *B* |  | *B* |  |
+| *Salmonella*[^4] | *F* | *F* |  |  |  | *F* |  |
 | *Bluetongue*<br>*Q-feber* | *B/*<br>*EDTA* |  |  |  |  | *B/*<br>*EDTA* |  |
-| *Brucellose*2, 4<br>*Leptospirose*4<br>*Infeksjon med Chlamydia psittaci*4<br>*Infeksiøs agalakti*4<br>*CCPP*3,4 |  | *B* |  |  |  | *B* |  |
-| Tuberkulose4 |  |  |  |  |  | *T* |  |
-| *Fotråte*5 |  |  | S |  |  |  |  |
+| *Brucellose*[^2], [^4]<br>*Leptospirose*[^4]<br>*Infeksjon med Chlamydia psittaci*[^4]<br>*Infeksiøs agalakti*[^4]<br>*CCPP*[^3],[^4] |  | *B* |  |  |  | *B* |  |
+| Tuberkulose[^4] |  |  |  |  |  | *T* |  |
+| *Fotråte*[^5] |  |  | S |  |  |  |  |
 
 *Tegnforklaring til tabell 2:*
 
@@ -217,8 +217,8 @@ Prøver avmerket i måned 1 skal tas ved ankomst.
 | *Sjukdom/uke* | *1* | *2* | *3* | *4* | *5* | *6* | *7* | *8/9* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Salmonella* | *F* |  | *F* |  |  |  |  |  |
-| *PRRS*<br>*Svineinfluensa*<br>*PED*<br>*TGE*<br>*PRCV*<br>*Brucellose*2<br>*Klassisk svinepest*2<br>*Afrikansk svinepest*2<br>*Leptospirose*1,2<br>*AD*2<br>*SVD*2 |  |  |  | *B* |  |  |  |  |
-| *Tuberkulose*2 |  |  |  |  |  |  | *T* |  |
+| *PRRS*<br>*Svineinfluensa*<br>*PED*<br>*TGE*<br>*PRCV*<br>*Brucellose*[^2]<br>*Klassisk svinepest*[^2]<br>*Afrikansk svinepest*[^2]<br>*Leptospirose*[^1],[^2]<br>*AD*[^2]<br>*SVD*[^2] |  |  |  | *B* |  |  |  |  |
+| *Tuberkulose*[^2] |  |  |  |  |  |  | *T* |  |
 
 *Tegnforklaring til tabell 3:*
 
@@ -241,8 +241,8 @@ Prøver avmerket i uke 1 skal tas ved ankomst.
 | *Sjukdom/uke* | *1* | *2* | *3* | *4* | *5* | *6* | *7* | *8/9* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Tuberkulose* |  |  |  |  | *T* |  |  |  |
-| *Salmonella*1 | *F* |  | *F* |  |  |  |  |  |
-| *Brucellose*1<br>*Leptospirose*1 |  |  |  | *B* |  |  |  |  |
+| *Salmonella*[^1] | *F* |  | *F* |  |  |  |  |  |
+| *Brucellose*[^1]<br>*Leptospirose*[^1] |  |  |  | *B* |  |  |  |  |
 
 *Tegnforklaring til tabell 4:*
 
@@ -263,7 +263,7 @@ Prøver avmerket i uke 1 skal tas ved ankomst.
 | *Sjukdom/uke* | *1* | *2* | *3* | *4* | *5* | *6* | *7* | *8/9* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Salmonella* | *D/M* |  | *F* |  |  | *F* |  |  |
-| *Hønsepest*1 |  |  |  |  |  | *B* |  |  |
+| *Hønsepest*[^1] |  |  |  |  |  | *B* |  |  |
 
 *Tegnforklaring til tabell 5:*
 

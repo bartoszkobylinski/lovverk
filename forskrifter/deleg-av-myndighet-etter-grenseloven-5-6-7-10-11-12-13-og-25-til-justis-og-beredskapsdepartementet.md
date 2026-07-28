@@ -15,13 +15,13 @@ xml_hash: "e1365193e15e024fddc2129120a4b4420614d72eadcfd3748949cb9665132244"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av Kongens myndighet etter lov 20. april 2018 nr. 4 om grensetilsyn og grensekontroll av personer § 5, § 6, § 7, § 10, § 11, § 12, § 13 og § 25 til Justis- og beredskapsdepartementet
 
-Delegering av Kongens myndighet etter [lov 20. april 2018 nr. 41 om grensetilsyn og grensekontroll av personer § 5](lov/2018-04-20-8/§5), [§ 6](lov/2018-04-20-8/§6), [§ 7](lov/2018-04-20-8/§7), [§ 10](lov/2018-04-20-8/§10), [§ 11](lov/2018-04-20-8/§11), [§ 12](lov/2018-04-20-8/§12), [§ 13](lov/2018-04-20-8/§13) og [§ 25](lov/2018-04-20-8/§25) til Justis- og beredskapsdepartementet.
+Delegering av Kongens myndighet etter [lov 20. april 2018 nr. 4[^1] om grensetilsyn og grensekontroll av personer § 5](lov/2018-04-20-8/§5), [§ 6](lov/2018-04-20-8/§6), [§ 7](lov/2018-04-20-8/§7), [§ 10](lov/2018-04-20-8/§10), [§ 11](lov/2018-04-20-8/§11), [§ 12](lov/2018-04-20-8/§12), [§ 13](lov/2018-04-20-8/§13) og [§ 25](lov/2018-04-20-8/§25) til Justis- og beredskapsdepartementet.
 
 1 Skal være [lov 20. april 2018 nr. 8](lov/2018-04-20-8). Samme feil i tittel. Lovtidend-redaksjonens anmerkning.

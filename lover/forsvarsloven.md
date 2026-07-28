@@ -15,7 +15,7 @@ xml_hash: "201d2afd38d9b428c3fc109ad63665189fa913f0929605e31e41720364a2f37e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -919,7 +919,7 @@ I forskrift med hjemmel i [§§ 8](lov/2016-08-12-77/§8), [9](lov/2016-08-12-77
 
 ### § 85. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid.
+Loven trer i kraft fra det tidspunktet[^1] Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid.
 
 > Endret ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875), tidligere § 67).
 

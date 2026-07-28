@@ -15,7 +15,7 @@ xml_hash: "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -376,7 +376,7 @@ En enhets nettsider, brev og forretningsdokumenter skal, uavhengig av hvilket me
 
 ### § 8-3. Sletting av opphørte enheter
 
-(1) Dersom registerføreren har grunn til å tro at en registrert enhet har opphørt, skal registerføreren varsle enheten og de som har meldeplikt etter [§ 5-3](lov/2025-06-20-105/§5-3), om at enheten kan bli slettet fra Enhetsregisteret. I varselet skal det gis en rimelig frist til å gi opplysninger som sannsynliggjør at enheten fortsatt består. Dersom registerføreren ikke mottar slike opplysninger innen fristen, skal varselet gjentas med ny frist ved kunngjøring i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. Hvis registerføreren ikke mottar opplysninger innen fristen i kunngjøringen, skal enheten slettes fra Enhetsregisteret.1
+(1) Dersom registerføreren har grunn til å tro at en registrert enhet har opphørt, skal registerføreren varsle enheten og de som har meldeplikt etter [§ 5-3](lov/2025-06-20-105/§5-3), om at enheten kan bli slettet fra Enhetsregisteret. I varselet skal det gis en rimelig frist til å gi opplysninger som sannsynliggjør at enheten fortsatt består. Dersom registerføreren ikke mottar slike opplysninger innen fristen, skal varselet gjentas med ny frist ved kunngjøring i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. Hvis registerføreren ikke mottar opplysninger innen fristen i kunngjøringen, skal enheten slettes fra Enhetsregisteret.[^1]
 
 (2) Hvis Enhetsregisteret har mottatt melding etter [konkursloven § 138](lov/1984-06-08-58/§138) om at bobehandlingen er avsluttet i medhold av [konkursloven § 128](lov/1984-06-08-58/§128) eller [§ 135](lov/1984-06-08-58/§135) i registrert foretak med ubegrenset ansvar, skal registerføreren varsle de som har meldeplikt etter [§ 5-3](lov/2025-06-20-105/§5-3), om at enheten vil bli slettet fra Enhetsregisteret dersom de ikke innen ett år gir opplysninger om at enheten fortsatt består. Hvis det ikke gis slike opplysninger innen fristen, skal enheten slettes fra Enhetsregisteret.
 
@@ -465,7 +465,7 @@ Dersom Enhetsregisteret gir feil opplysning ved utskrift eller på annen dokumen
 
 ### § 13-1. Ikrafttredelse
 
-(1) Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+(1) Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 
 (2) Fra den tid loven trer i kraft, oppheves [lov 3. juni 1994 nr. 15 om Enhetsregisteret](lov/1994-06-03-15).
 

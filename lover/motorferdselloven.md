@@ -15,7 +15,7 @@ xml_hash: "c68ff05da5c500505088e41e1b3c21dc909e14083e527e859fc15c6208999498"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,7 @@ Departementet kan gi forskrifter til gjennomføring og utfylling av bestemmelsen
 
 ## § 14. (ikrafttreden og endringer i andre lover).
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Fra lovens ikrafttreden gjøres følgende endringer i andre lover: – – –
 

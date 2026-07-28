@@ -15,7 +15,7 @@ xml_hash: "f44b17036c27ae976330a4ad4bcd33b8ec53f2f3bc3a31e28488a5ea35a3552d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Medisinsk embetseksamen består av fire trinn. Embetseksamen skal normalt kunne avlegges i løpet av 6 år. Bestått embetseksamen gir rett til tittelen candidatus medicinae (cand.med.)
 
-Medisinsk eksamen består av de to første trinn til embetseksamen og skal normalt avlegges i løpet av 4 år, medregnet examen philosophicum.1 Bestått medisinsk eksamen gir rett til tittelen candidatus magisterii (cand.mag.).
+Medisinsk eksamen består av de to første trinn til embetseksamen og skal normalt avlegges i løpet av 4 år, medregnet examen philosophicum.[^1] Bestått medisinsk eksamen gir rett til tittelen candidatus magisterii (cand.mag.).
 
 Hvert trinn inndeles i avsnitt/semestre/kurs etter universitetstingets bestemmelser.
 

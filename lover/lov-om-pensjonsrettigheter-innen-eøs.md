@@ -15,7 +15,7 @@ xml_hash: "3c086219b638c64f26428b828aac1132c9c981ab8b16750d09de1dde3155ae8d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31998L0049"
@@ -49,7 +49,7 @@ En person med rett til opptjent pensjon fra en supplerende pensjonsordning som f
 
 En person som arbeider i en annen EØS-stat og som omfattes av en supplerende pensjonsordning i Norge, skal fortsatt ha rett til å være medlem med fulle rettigheter i pensjonsordningen dersom vedkommende er omfattet av norsk trygdelovgivning etter [EØS-avtalens vedlegg VI](avtale/avt-1992-05-02-1-v6) nr. 1 (forordning [(EF) nr. 883/2004](eu/32004r0883*) avdeling II).
 
-En person hjemmehørende i annen EØS-stat som arbeider i Norge og som er omfattet av en supplerende pensjonsordning i sitt hjemland, skal ikke ha plikt til å betale bidrag til pensjonsordning som nevnt i [§ 2](lov/2001-12-14-95/§2) her i riket dersom vedkommende ikke er omfattet av norsk trygdelovgivning etter [EØS-avtalens vedlegg VI](avtale/avt-1992-05-02-1-v6) nr. 1 (forordning [(EØF) nr. 1408/71](eu/31971r1408*) avdeling II).1 Arbeidsgiver skal heller ikke ha plikt til å betale bidrag til pensjonsordning i Norge for arbeidstaker i tilfeller som nevnt.
+En person hjemmehørende i annen EØS-stat som arbeider i Norge og som er omfattet av en supplerende pensjonsordning i sitt hjemland, skal ikke ha plikt til å betale bidrag til pensjonsordning som nevnt i [§ 2](lov/2001-12-14-95/§2) her i riket dersom vedkommende ikke er omfattet av norsk trygdelovgivning etter [EØS-avtalens vedlegg VI](avtale/avt-1992-05-02-1-v6) nr. 1 (forordning [(EØF) nr. 1408/71](eu/31971r1408*) avdeling II).[^1] Arbeidsgiver skal heller ikke ha plikt til å betale bidrag til pensjonsordning i Norge for arbeidstaker i tilfeller som nevnt.
 
 > Endret ved [lov 13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)).
 
@@ -87,6 +87,6 @@ Departementet kan i forskrift gi nærmere regler om tilbakebetaling av pensjonsi
 
 ## § 9. Ikrafttredelse. Overgangsbestemmelser
 
-Loven trer i kraft fra den tid Kongen fastsetter.1 Kongen kan gi overgangsbestemmelser.
+Loven trer i kraft fra den tid Kongen fastsetter.[^1] Kongen kan gi overgangsbestemmelser.
 
 1 Fra 1 mars 2002 iflg. [vedtak 19 des 2001 nr. 1466](forskrift/2001-12-19-1466).

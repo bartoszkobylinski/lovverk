@@ -15,7 +15,7 @@ xml_hash: "53f7581cd31c2856fed9fdbbf98f25fef2f3b159e1ed2d6074f2681507927230"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32006L0024"
@@ -145,7 +145,7 @@ I [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel (verdipapirh
 
 ## VI
 
-I [lov 14. april 2000 nr. 31](lov/2000-04-14-31)1 om behandling av personopplysninger (personopplysningsloven) skal [§ 35](lov/2000-04-14-31/§35) nytt annet ledd lyde:
+I [lov 14. april 2000 nr. 31](lov/2000-04-14-31)[^1] om behandling av personopplysninger (personopplysningsloven) skal [§ 35](lov/2000-04-14-31/§35) nytt annet ledd lyde:
 
 Ved behandling av personopplysninger som skal lagres etter [ekomloven § 2-7 a](lov/2003-07-04-83/§2-7a) skal det vurderes om det bør stilles vilkår om kryptering. Kongen kan ved forskrift gi nærmere regler om slik kryptering.
 

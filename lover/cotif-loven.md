@@ -15,7 +15,7 @@ xml_hash: "768dee715acf8b736bd60ee656b41d28534bd9e5667d8b0679c1e620addfc9d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Overenskomsten skal gjelde som norsk lov.
 
 ## § 2. Virkeområde
 
-1. Enhetlige rettsregler for avtale om internasjonal transport av reisende på jernbanene (CIV – Bilag A til overenskomsten) gjelder for all betalt og gratis transport av reisende på jernbane når avreisestedet befinner seg i Norge og bestemmelsesstedet befinner seg i annen konvensjonsstat eller omvendt, med de presiseringer og forbehold som er nevnt i Artikkel 1 i CIV, For befordring som er omfattet av Europaparlaments- og rådsforordning [(EF) 2007/1371](eu/32007r1371)1 av 23. oktober 2007 om jernbanepassasjerers rettigheter og forpliktelser, jf. [jernbaneloven § 7 c](lov/1993-06-11-100/§7c), gjelder reglene i første punktum med tillegg av reglene i nevnte forordning.
+1. Enhetlige rettsregler for avtale om internasjonal transport av reisende på jernbanene (CIV – Bilag A til overenskomsten) gjelder for all betalt og gratis transport av reisende på jernbane når avreisestedet befinner seg i Norge og bestemmelsesstedet befinner seg i annen konvensjonsstat eller omvendt, med de presiseringer og forbehold som er nevnt i Artikkel 1 i CIV, For befordring som er omfattet av Europaparlaments- og rådsforordning [(EF) 2007/1371](eu/32007r1371)[^1] av 23. oktober 2007 om jernbanepassasjerers rettigheter og forpliktelser, jf. [jernbaneloven § 7 c](lov/1993-06-11-100/§7c), gjelder reglene i første punktum med tillegg av reglene i nevnte forordning.
 2. Enhetlige rettsregler for avtale om internasjonal transport av gods på jernbanene (CIM – Bilag B til overenskomsten) gjelder for alle kontrakter om transport av gods på jernbane mot vederlag når stedet for innlevering av godset befinner seg i Norge og utlevering av godset befinner seg i annen konvensjonsstat eller omvendt, med de presiseringer og forbehold som er nevnt i Artikkel 1 i CIM,
 3. Regler for internasjonal jernbanetransport av farlig gods (RID – Bilag C til overenskomsten), gjelder for all internasjonal jernbanetransport av farlig gods i Norge i henhold til Artikkel 1 i RID, med de unntak og begrensninger som nevnt i Artikkel 2 og 3 i RID,
 4. Enhetlige rettsregler for avtale om bruk av vogner i internasjonal jernbanetrafikk (CUV – Bilag D til overenskomsten) gjelder for bi- og multilaterale avtaler om bruk av jernbanevogner som transportmiddel for å utføre transporter etter De enhetlige rettsregler CIV og De enhetlige rettsregler CIM i henhold til Artikkel 1 i CUV,
@@ -94,7 +94,7 @@ Stortinget samtykker til at Norge ratifiserer Protokoll av 3. juni 1999 om endri
 
 ## § 9. Ikrafttredelse og endringer i andre lover
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer. § 8 trer likevel i kraft straks.1
+Loven trer i kraft fra det tidspunkt Kongen bestemmer. § 8 trer likevel i kraft straks.[^1]
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 

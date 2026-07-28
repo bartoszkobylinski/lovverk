@@ -15,7 +15,7 @@ xml_hash: "3fc0a3ad24a6bb4c77e097278d8ccf6e594994ea412e529539d9c853ad225e11"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1.
 
-Med hjemmel i [lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard [§ 4](lov/1925-07-17-11/§4) og kgl. res. av 15. mars 1996 nr. 270, gjøres [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart og de forskrifter som gjelder i henhold til den,1 gyldig for Svalbard i samme utstrekning som bestemt for Norge for øvrig, med de endringer som følger av bestemmelsene nedenfor.
+Med hjemmel i [lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard [§ 4](lov/1925-07-17-11/§4) og kgl. res. av 15. mars 1996 nr. 270, gjøres [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart og de forskrifter som gjelder i henhold til den,[^1] gyldig for Svalbard i samme utstrekning som bestemt for Norge for øvrig, med de endringer som følger av bestemmelsene nedenfor.
 
 Samferdselsdepartementet kan unnta enkelte av de i første ledd nevnte forskrifter fra å gjelde og kan utferdige tillempingsforskrifter.
 

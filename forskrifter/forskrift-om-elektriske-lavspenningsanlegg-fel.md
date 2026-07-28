@@ -15,7 +15,7 @@ xml_hash: "ce628ae236ee1f6c86b7679640a4d534426c272f945f561081f2ecd1278b232f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,9 +43,9 @@ Virkeområdet for forskriften er hovedsakelig det samme som for forskrifter for 
 
 I tillegg inneholder forskriften bestemmelser om anlegg som generatorer, nød- og reservekraftforsyning osv. Oversikten over virkeområdet er ment som eksempler og er ikke uttømmende.
 
-Krav til konstruksjon, utførelse og markedsføring til utstyr og materiell som til sammen utgjør anlegget eller som skal tilkoples dette er ikke regulert i denne forskriften og de normene som forskriften referer til. Dette reguleres i egne forskrifter1 som er basert på EU-direktiver. Forskriften og de normene den viser til regulerer imidlertid hvilken utførelse som kreves ut fra bl.a. de påkjenninger som utstyr og materiell forventes å bli utsatt for i det aktuelle anlegget.
+Krav til konstruksjon, utførelse og markedsføring til utstyr og materiell som til sammen utgjør anlegget eller som skal tilkoples dette er ikke regulert i denne forskriften og de normene som forskriften referer til. Dette reguleres i egne forskrifter[^1] som er basert på EU-direktiver. Forskriften og de normene den viser til regulerer imidlertid hvilken utførelse som kreves ut fra bl.a. de påkjenninger som utstyr og materiell forventes å bli utsatt for i det aktuelle anlegget.
 
-Bestemmelsene i forskrifter for elektriske bygningsinstallasjoner m.v. som gjelder for elektromedisinsk utstyr utgår og dekkes av egne forskrifter.2 Anlegg i helseinstitusjoner som det elektromedisinske utstyret er forbundet til omfattes av forskriften og de normene forskriften viser til.
+Bestemmelsene i forskrifter for elektriske bygningsinstallasjoner m.v. som gjelder for elektromedisinsk utstyr utgår og dekkes av egne forskrifter.[^2] Anlegg i helseinstitusjoner som det elektromedisinske utstyret er forbundet til omfattes av forskriften og de normene forskriften viser til.
 
 Forskriften tar hensyn til at det siden forskrifter for elektriske bygningsinstallasjoner m.v. trådte i kraft har det skjedd en utvikling i lovgivningen som beskytter forbrukere i forbindelse med kjøp av håndverkertjenester og som regulerer ansvarsforhold ved avhending av fast eiendom.
 
@@ -552,9 +552,9 @@ Virkeområdet for forskriften er hovedsakelig det samme som for forskrifter for 
 
 I tillegg inneholder forskriften bestemmelser om anlegg som generatorer, nød- og reservekraftforsyning osv. Oversikten over virkeområdet er ment som eksempler og er ikke uttømmende.
 
-Krav til konstruksjon, utførelse og markedsføring av utstyr og materiell som til sammen utgjør anlegget eller som skal tilkoples dette er ikke regulert i denne forskriften og de normene som forskriften referer til. Dette reguleres i egne forskrifter1 som er basert på EU-direktiver. Forskriften og de normene den viser til regulerer imidlertid hvilken utførelse som kreves ut fra bl.a. de påkjenninger som utstyr og materiell forventes å bli utsatt for i det aktuelle anlegget.
+Krav til konstruksjon, utførelse og markedsføring av utstyr og materiell som til sammen utgjør anlegget eller som skal tilkoples dette er ikke regulert i denne forskriften og de normene som forskriften referer til. Dette reguleres i egne forskrifter[^1] som er basert på EU-direktiver. Forskriften og de normene den viser til regulerer imidlertid hvilken utførelse som kreves ut fra bl.a. de påkjenninger som utstyr og materiell forventes å bli utsatt for i det aktuelle anlegget.
 
-Bestemmelsene i forskrifter for elektriske bygningsinstallasjoner m.m. som gjelder for elektromedisinsk utstyr utgår og dekkes av egne forskrifter2. Anlegg i helseinstitusjoner som det elektromedisinske utstyret er forbundet til omfattes av forskriften og de normene forskriften viser til.
+Bestemmelsene i forskrifter for elektriske bygningsinstallasjoner m.m. som gjelder for elektromedisinsk utstyr utgår og dekkes av egne forskrifter[^2]. Anlegg i helseinstitusjoner som det elektromedisinske utstyret er forbundet til omfattes av forskriften og de normene forskriften viser til.
 
 Forskriften tar hensyn til at det siden forskrifter for elektriske bygningsinstallasjoner m.m. trådte i kraft har skjedd en utvikling i lovgivningen som beskytter forbrukere i forbindelse med kjøp av håndverkertjenester og som regulerer ansvarsforhold ved avhending av fast eiendom.
 

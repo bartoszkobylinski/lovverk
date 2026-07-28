@@ -15,7 +15,7 @@ xml_hash: "1247d1dd415010f4d7e5bd68fb59bc31855b1d8e2c2c2a00591d3736888ea404"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -303,7 +303,7 @@ Produsenten skal angi angitte driftsbetingelser for måleren, særlig verdiene a
 | Imax | ≥ 50 · Itr | ≥ 50 · Itr | ≥ 50 · Itr |
 | For transformatorkoblede målere |  |  |  |
 | Ist | ≤ 0,06 · Itr | ≤ 0,04 · Itr | ≤ 0,02 · Itr |
-| Imin | ≤ 0,4 · Itr | ≤ 0,2 · Itr 1 | ≤ 0,2 · Itr |
+| Imin | ≤ 0,4 · Itr | ≤ 0,2 · Itr [^1] | ≤ 0,2 · Itr |
 | In | = 20 · Itr | = 20 · Itr | = 20 · Itr |
 | Imax | ≥ 1,2 · In | ≥ 1,2 · In | ≥ 1,2 · In |
 
@@ -361,8 +361,8 @@ Dersom det er en forutsigbar høy risiko på grunn av lyn, eller dersom forsynin
 |  | *A* | *B* | *C* |
 | omvendt faserekkefølge | 1,5 | 1,5 | 0,3 |
 | usymmetrisk spenning (gjelder bare flerfasemålere) | 4 | 2 | 1 |
-| innhold av overharmoniske komponenter i strømmen1 | 1 | 0,8 | 0,5 |
-| innhold av likestrøm og overharmoniske komponenter i strømmen1 | 6 | 3 | 1,5 |
+| innhold av overharmoniske komponenter i strømmen[^1] | 1 | 0,8 | 0,5 |
+| innhold av likestrøm og overharmoniske komponenter i strømmen[^1] | 6 | 3 | 1,5 |
 | raske strømtransienter | 6 | 4 | 2 |
 | magnetiske felt: ledningsbundet og radiobåren elektromagnetisk påvirkning, høyfrekvente elektromagnetiske felt (innstrålt RF) og ledningsbårne forstyrrelser oppstått pga. RF-felt | 3 | 2 | 1 |
 
@@ -603,9 +603,9 @@ Utvelgelse av målere for statistisk kontroll av grupper bestående av 65 måler
 
 *Tabell 15*
 
-| *Nr.* | *Gruppe størrelse* | *Utplukk* | *Utplukk størrelse* | *Kumulativ utplukk størrelse* | *Antall underkjente målere*\*\* |  |  |
+| *Nr.* | *Gruppe størrelse* | *Utplukk* | *Utplukk størrelse* | *Kumulativ utplukk størrelse* | *Antall underkjente målere*[^\*\*] |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | *Godkjenning* | *Underkjenning* | *Andre utplukk nødvendig*\* |
+|  |  |  |  |  | *Godkjenning* | *Underkjenning* | *Andre utplukk nødvendig*[^\*] |
 | 4.1 | 65 til<br>1 200 | første<br>andre | 32<br>32 | 32<br>64 | 0<br>1 | 2<br>2 | 1 |
 | 4.2 | 1 201 til<br>3 200 | første<br>andre | 50<br>50 | 50<br>100 | 1<br>4 | 4<br>5 | 2 til 3 |
 | 4.3 | 3 201 til<br>10 000 | første<br>andre | 80<br>80 | 80<br>160 | 2<br>6 | 5<br>7 | 3 til 4 |

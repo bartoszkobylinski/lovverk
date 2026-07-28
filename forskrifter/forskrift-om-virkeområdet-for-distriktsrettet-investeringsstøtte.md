@@ -15,7 +15,7 @@ xml_hash: "e88056b78df53f0293ef7ed5d726cbfcfca559d7ee62d3b8676a9c5b6f1d16d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1. Formål
 
-Forskriften avgrenser det geografiske virkeområdet for distriktsrettet investeringsstøtte i samsvar med regionalstøttekartet.1
+Forskriften avgrenser det geografiske virkeområdet for distriktsrettet investeringsstøtte i samsvar med regionalstøttekartet.[^1]
 
 Formålet med distriktsrettet investeringsstøtte er å stimulere til investeringer i bedrifter i virkeområdet der utfordringene for lønnsom næringsvirksomhet er størst.
 
@@ -72,14 +72,14 @@ I alle områder nevnt under § 3 med unntak av kommunene Kvitsøy, Utsira og Auk
 
 | *Størrelse på foretak* | *Stor* | *Mellomstor* | *Liten* |
 | --- | --- | --- | --- |
-| Prosent1 | Inntil 20 % | Inntil 30 % | Inntil 40 % |
+| Prosent[^1] | Inntil 20 % | Inntil 30 % | Inntil 40 % |
 | Antall ansatte | 250 og flere | Fra og med 50 til 250 | Færre enn 50 |
 
 For kommunene Kvitsøy, Utsira og Aukra er maksimal støtteintensitet for investeringsstøtte:
 
 | *Størrelse på foretak* | *Stor* | *Mellomstor* | *Liten* |
 | --- | --- | --- | --- |
-| Prosent1 | Inntil 10 % | Inntil 20 % | Inntil 30 % |
+| Prosent[^1] | Inntil 10 % | Inntil 20 % | Inntil 30 % |
 | Antall ansatte | 250 og flere | Fra og med 50 til 250 | Færre enn 50 |
 
 1 Prosent av støtteberettiget kostnad.
@@ -90,9 +90,9 @@ For kommunene Kvitsøy, Utsira og Aukra er maksimal støtteintensitet for invest
 
 Regional investeringsstøtte etter retningslinjene for regionalstøtte og gruppeunntaksforordningen:
 
-1. Regnes som skattefri virksomhetsinntekt.1
-2. Skal ikke trekkes fra kostpris ved beregning av årlige og totale avskrivninger.2
-3. Regnes som en del av vederlaget ved salg av driftsmiddelet før det har gått fem år etter at det ble ervervet.3
+1. Regnes som skattefri virksomhetsinntekt.[^1]
+2. Skal ikke trekkes fra kostpris ved beregning av årlige og totale avskrivninger.[^2]
+3. Regnes som en del av vederlaget ved salg av driftsmiddelet før det har gått fem år etter at det ble ervervet.[^3]
 
 1 Jf. [lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) § 5-31](lov/1999-03-26-14/§5-31) bokstav a.
 
@@ -104,7 +104,7 @@ Regional investeringsstøtte etter retningslinjene for regionalstøtte og gruppe
 
 ### § 6. Rapporteringsplikt
 
-Samtlige midler som tildeles i henhold til denne forskriften skal rapporteres etter Nærings- og fiskeridepartementets bestemmelser.1
+Samtlige midler som tildeles i henhold til denne forskriften skal rapporteres etter Nærings- og fiskeridepartementets bestemmelser.[^1]
 
 1 Jf. [lov 27. november 1992 nr. 117 om offentlig støtte § 2](lov/1992-11-27-117/§2) og [forskrift 4. desember 1992 nr. 907 om offentlig støtte § 2](forskrift/1992-12-04-907/§2).
 
@@ -112,7 +112,7 @@ Samtlige midler som tildeles i henhold til denne forskriften skal rapporteres et
 
 Vedtak om tilskudd kan helt eller delvis omgjøres før utbetaling eller kreves helt eller delvis tilbakebetalt etter utbetaling dersom departementet, fylkeskommunen eller andre støttegiver finner at tilskuddet er i strid med [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-Ved tilbakebetaling etter disse reglene skal det legges til renter og renters renter fastsatt av ESA, gjeldende fra den dagen støtten ble mottatt til tidspunktet for tilbakebetalingen.1
+Ved tilbakebetaling etter disse reglene skal det legges til renter og renters renter fastsatt av ESA, gjeldende fra den dagen støtten ble mottatt til tidspunktet for tilbakebetalingen.[^1]
 
 1 Jf. [forskrift 4. desember 1992 nr. 907 om offentlig støtte § 5](forskrift/1992-12-04-907/§5).
 

@@ -15,7 +15,7 @@ xml_hash: "95843479e1d7c46b6cbd78c661f6a309b65fd6426f634b2b94969ee80beedb19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -821,7 +821,7 @@ Forsøk på overtredelser som nevnt i første til fjerde ledd straffes på samme
 
 ### § 12-1. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid.
+Loven trer i kraft fra det tidspunktet[^1] Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid.
 
 1 Fra 1 jan 2019 iflg. [res. 20 des 2018 nr. 2052](forskrift/2018-12-20-2052), se dens nr. 2 for overgangsregler.
 

@@ -15,7 +15,7 @@ xml_hash: "248ddfe1fe3ce52aaed01e5c93a37b91fb0a40cf26f1876bed5421a7a8ab85f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -314,7 +314,7 @@ Så framt føresegnene i lova her ikkje med reine ord er avgrensa til å gjelda 
 12. [Lov 28 juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet
 13. [Lov 16 juni 1961 nr. 12](lov/1961-06-16-12) om ymse beitespørsmål
 14. [Lov 8 juni 1962 nr. 4](lov/1962-06-08-4) om tiltak mot dyresjukdommer (husdyrloven)
-15. Veglov1 21 juni 1963 nr. 23
+15. Veglov[^1] 21 juni 1963 nr. 23
 16. [Lov 9 juni 1972 nr. 31](lov/1972-06-09-31) om reinbeiting i henhold til konvensjon av 9 februar 1972 mellom Norge og Sverige om reinbeite
 17. – – –
 18. [Lov 6 juni 1975 nr. 31](lov/1975-06-06-31) om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova)
@@ -327,7 +327,7 @@ Så framt føresegnene i lova her ikkje med reine ord er avgrensa til å gjelda 
 25. [Lov av 29. juni 1990 nr. 50](lov/1990-06-29-50) om produksjon, omforming, overføring, omsetning og fordeling av energi (energiloven)
 26. [Lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart
 27. [Lov 25. mars 1994 nr. 7](lov/1994-03-25-7) om sikring mot naturskader.
-28. [Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon § 10-1](lov/2024-12-13-76/§10-1)2
+28. [Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon § 10-1](lov/2024-12-13-76/§10-1)[^2]
 29. [Lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann (vannressursloven)
 30. [Lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 12-3](lov/2003-07-04-83/§12-3)
 31. [Lov 15. juni 2007 nr. 40](lov/2007-06-15-40) om reindrift (reindriftsloven)
@@ -351,7 +351,7 @@ Er det, før denne lova tok til å gjelda, gjeve samtykke til oreigningsinngrep 
 
 ### § 35
 
-Kongen fastset kva tid1 denne lova skal taka til å gjelda.
+Kongen fastset kva tid[^1] denne lova skal taka til å gjelda.
 
 1 Frå 1 juli 1960 iflg. res. 2 juni 1960.
 

@@ -15,7 +15,7 @@ xml_hash: "65f3e7f29f2795083d7cf6ecf1e183945a2f30256294c5ebe75879644b567563"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009R0469"
@@ -39,11 +39,11 @@ Som oppfinnelser anses ikke noe som bare utgjør
 3. planer, regler eller metoder for utøvelse av intellektuell virksomhet, for spill eller forretningsvirksomhet, eller programmer for datamaskiner,
 4. fremleggelse av informasjon.
 
-Oppfinnelser kan patenteres også når de gjelder et produkt som består av eller inneholder biologisk materiale, eller en fremgangsmåte for å fremstille, behandle eller anvende biologisk materiale. Biologisk materiale som er isolert fra sitt naturlige miljø eller fremstilt ved hjelp av en teknisk fremgangsmåte, kan være gjenstand for en oppfinnelse selv om det allerede forekommer i naturen.1 Med biologisk materiale forstås i denne lov materiale som inneholder genetisk informasjon, og som kan formere seg selv eller kan formeres i et biologisk system.
+Oppfinnelser kan patenteres også når de gjelder et produkt som består av eller inneholder biologisk materiale, eller en fremgangsmåte for å fremstille, behandle eller anvende biologisk materiale. Biologisk materiale som er isolert fra sitt naturlige miljø eller fremstilt ved hjelp av en teknisk fremgangsmåte, kan være gjenstand for en oppfinnelse selv om det allerede forekommer i naturen.[^1] Med biologisk materiale forstås i denne lov materiale som inneholder genetisk informasjon, og som kan formere seg selv eller kan formeres i et biologisk system.
 
 Patent meddeles ikke på plantesorter eller dyreraser. Oppfinnelser som gjelder planter eller dyr, kan derimot patenteres hvis utøvelsen av oppfinnelsen ikke er teknisk begrenset til en bestemt plantesort eller dyrerase. Kongen kan i forskrift fastsette hva som skal regnes som plantesort eller dyrerase.
 
-Patent meddeles ikke på vesentlig biologiske fremgangsmåter for fremstilling av planter eller dyr. Med vesentlig biologisk fremgangsmåte forstås i denne lov en fremgangsmåte som i sin helhet beror på naturlige fenomener som krysning eller utvelging.2 Patent kan derimot meddeles på mikrobiologiske fremgangsmåter3 eller andre tekniske fremgangsmåter eller et produkt som er fremstilt ved slike fremgangsmåter.2 Med mikrobiologisk fremgangsmåte forstås i denne lov enhver fremgangsmåte som anvender, utføres på eller fremstiller et mikrobiologisk materiale.
+Patent meddeles ikke på vesentlig biologiske fremgangsmåter for fremstilling av planter eller dyr. Med vesentlig biologisk fremgangsmåte forstås i denne lov en fremgangsmåte som i sin helhet beror på naturlige fenomener som krysning eller utvelging.[^2] Patent kan derimot meddeles på mikrobiologiske fremgangsmåter[^3] eller andre tekniske fremgangsmåter eller et produkt som er fremstilt ved slike fremgangsmåter.[^2] Med mikrobiologisk fremgangsmåte forstås i denne lov enhver fremgangsmåte som anvender, utføres på eller fremstiller et mikrobiologisk materiale.
 
 Patent meddeles ikke på fremgangsmåter for kirurgisk behandling, terapi eller diagnostisering, som foretas på mennesker eller dyr. Denne bestemmelse er ikke til hinder for meddelelse av patent på produkter, herunder stoffer eller stoffblandinger, til bruk i slike fremgangsmåter.
 
@@ -57,9 +57,9 @@ Patent meddeles ikke på fremgangsmåter for kirurgisk behandling, terapi eller 
 
 ### § 1 a
 
-Menneskekroppen på alle dens tilblivelses- og utviklingsstadier samt den rene oppdagelse av en av dens bestanddeler, herunder en sekvens eller en delsekvens av et gen, kan ikke patenteres.1
+Menneskekroppen på alle dens tilblivelses- og utviklingsstadier samt den rene oppdagelse av en av dens bestanddeler, herunder en sekvens eller en delsekvens av et gen, kan ikke patenteres.[^1]
 
-En bestanddel som er isolert fra menneskekroppen eller som på annet vis er fremstilt ved en teknisk fremgangsmåte, herunder en sekvens eller en delsekvens av et gen, kan utgjøre en patenterbar oppfinnelse, selv om bestanddelen i sin struktur er identisk med strukturen i en naturlig bestanddel.2
+En bestanddel som er isolert fra menneskekroppen eller som på annet vis er fremstilt ved en teknisk fremgangsmåte, herunder en sekvens eller en delsekvens av et gen, kan utgjøre en patenterbar oppfinnelse, selv om bestanddelen i sin struktur er identisk med strukturen i en naturlig bestanddel.[^2]
 
 > Tilføyd ved lov [19 des 2003 nr. 127](lov/2003-12-19-127) (ikr. 1 feb 2004 iflg. [res. 23 jan 2004 nr. 155](forskrift/2004-01-23-155)).
 
@@ -69,7 +69,7 @@ En bestanddel som er isolert fra menneskekroppen eller som på annet vis er frem
 
 ### § 1 b
 
-Patent meddeles ikke hvis kommersiell utnyttelse av oppfinnelsen ville stride mot offentlig orden eller moral.1
+Patent meddeles ikke hvis kommersiell utnyttelse av oppfinnelsen ville stride mot offentlig orden eller moral.[^1]
 
 Utnyttelse av en oppfinnelse skal ikke anses for å stride mot offentlig orden eller moral bare fordi den er forbudt ved lov eller forskrift.
 
@@ -78,7 +78,7 @@ På grunnlag av første ledd kan det blant annet ikke meddeles patent på
 1. fremgangsmåter for kloning av mennesker,
 2. fremgangsmåter for å endre den genetiske identiteten til menneskers kjønnsceller,
 3. anvendelse av menneskelige embryoer for industrielle eller kommersielle formål, og
-4. fremgangsmåter for å endre den genetiske identiteten til dyr som kan påføre dem lidelser uten at det medfører noen vesentlig medisinsk nytte for mennesker eller dyr, samt dyr som er fremstilt ved slike fremgangsmåter.2
+4. fremgangsmåter for å endre den genetiske identiteten til dyr som kan påføre dem lidelser uten at det medfører noen vesentlig medisinsk nytte for mennesker eller dyr, samt dyr som er fremstilt ved slike fremgangsmåter.[^2]
 
 > Tilføyd ved lov [19 des 2003 nr. 127](lov/2003-12-19-127) (ikr. 1 feb 2004 iflg. [res. 23 jan 2004 nr. 155](forskrift/2004-01-23-155)).
 
@@ -116,7 +116,7 @@ Eneretten innebærer likeledes at andre enn patenthaveren ikke uten dennes samty
 Fra eneretten unntas:
 
 1. Utnyttelse som ikke skjer i nærings- eller driftsøyemed,
-2. Utnyttelse av patentbeskyttede produkter som av patenthaveren eller med dennes samtykke er brakt i omsetning innenfor EØS,1 om ikke annet følger av forskrift fastsatt av Kongen.
+2. Utnyttelse av patentbeskyttede produkter som av patenthaveren eller med dennes samtykke er brakt i omsetning innenfor EØS,[^1] om ikke annet følger av forskrift fastsatt av Kongen.
 3. Utnyttelse ved eksperiment som angår selve oppfinnelsen,
 4. Tilberedning på apotek av et legemiddel etter resept i enkelttilfelle eller forføyning over et legemiddel tilberedt på denne måte.
 5. Utprøvinger, forsøk og lignende av et patentert legemiddel som er nødvendige for å oppnå markedsføringstillatelse for et legemiddel i en stat som er tilsluttet avtale 15. april 1994 om opprettelse av Verdens handelsorganisasjon (WTO-avtalen).
@@ -131,9 +131,9 @@ Patentvernet for et biologisk materiale som har bestemte egenskaper på grunn av
 
 Patentvernet for en fremgangsmåte som gjør det mulig å fremstille et biologisk materiale som har bestemte egenskaper på grunn av oppfinnelsen, omfatter det biologiske materialet som er fremstilt direkte ved denne fremgangsmåten, og ethvert annet biologisk materiale som er fremstilt fra det direkte fremstilte biologiske materialet ved formering eller oppformering i identisk eller avvikende form, og som har de samme egenskapene.
 
-Så langt ikke annet følger av [§ 1 a](lov/1967-12-15-9/§1a) første ledd, omfatter patentvernet for et produkt som inneholder eller består av genetisk informasjon, ethvert materiale som produktet er innsatt i, og der den genetiske informasjonen inngår og uttrykker sin funksjon.2
+Så langt ikke annet følger av [§ 1 a](lov/1967-12-15-9/§1a) første ledd, omfatter patentvernet for et produkt som inneholder eller består av genetisk informasjon, ethvert materiale som produktet er innsatt i, og der den genetiske informasjonen inngår og uttrykker sin funksjon.[^2]
 
-Patentvernet etter første til tredje ledd omfatter ikke biologisk materiale som er fremstilt ved formering eller oppformering av et biologisk materiale som er brakt i omsetning innenfor EØS1 av patenthaveren eller med dennes samtykke, hvis formeringen eller oppformeringen er et nødvendig ledd i den anvendelsen materialet ble brakt i omsetning for, og forutsatt at det fremstilte materialet ikke senere brukes til annen formering eller oppformering.
+Patentvernet etter første til tredje ledd omfatter ikke biologisk materiale som er fremstilt ved formering eller oppformering av et biologisk materiale som er brakt i omsetning innenfor EØS[^1] av patenthaveren eller med dennes samtykke, hvis formeringen eller oppformeringen er et nødvendig ledd i den anvendelsen materialet ble brakt i omsetning for, og forutsatt at det fremstilte materialet ikke senere brukes til annen formering eller oppformering.
 
 > Tilføyd ved lov [19 des 2003 nr. 127](lov/2003-12-19-127) (ikr. 1 feb 2004 iflg. [res. 23 jan 2004 nr. 155](forskrift/2004-01-23-155)).
 
@@ -143,9 +143,9 @@ Patentvernet etter første til tredje ledd omfatter ikke biologisk materiale som
 
 ### § 3 b
 
-Hvis planteformeringsmateriale med patenthaverens samtykke selges eller overdras på annen måte til en gårdbruker for landbruksformål, har gårdbrukeren rett til å anvende avlingen sin til formering eller oppformering i egen driftsenhet uten hinder av [§ 3 a](lov/1967-12-15-9/§3a) første til tredje ledd.1
+Hvis planteformeringsmateriale med patenthaverens samtykke selges eller overdras på annen måte til en gårdbruker for landbruksformål, har gårdbrukeren rett til å anvende avlingen sin til formering eller oppformering i egen driftsenhet uten hinder av [§ 3 a](lov/1967-12-15-9/§3a) første til tredje ledd.[^1]
 
-Hvis avlsdyr eller annet animalsk formeringsmateriale med patenthaverens samtykke selges eller overdras på annen måte til en gårdbruker, har gårdbrukeren rett til å anvende det beskyttede dyret eller formeringsmaterialet til landbruksformål i egen landbruksvirksomhet uten hinder av [§ 3 a](lov/1967-12-15-9/§3a) første til tredje ledd. Forrige punktum gir ikke rett til å selge materialet som ledd i eller med sikte på kommersiell formeringsvirksomhet.2
+Hvis avlsdyr eller annet animalsk formeringsmateriale med patenthaverens samtykke selges eller overdras på annen måte til en gårdbruker, har gårdbrukeren rett til å anvende det beskyttede dyret eller formeringsmaterialet til landbruksformål i egen landbruksvirksomhet uten hinder av [§ 3 a](lov/1967-12-15-9/§3a) første til tredje ledd. Forrige punktum gir ikke rett til å selge materialet som ledd i eller med sikte på kommersiell formeringsvirksomhet.[^2]
 
 Kongen kan gi forskrift om vilkårene for og omfanget av gårdbrukerens rett etter paragrafen her.
 
@@ -367,7 +367,7 @@ Henlegges eller avslås en søknad som er blitt tilgjengelig for enhver, skal de
 
 Enhver kan fremsette innsigelse mot et meddelt patent. En innsigelse skal fremsettes skriftlig, være begrunnet og kommet inn til Patentstyret innen ni måneder fra den dag patentet ble meddelt. I særlige tilfeller kan Patentstyret etter begjæring innrømme innsigeren en kort tilleggsfrist for å fremskaffe ytterligere dokumentasjon til støtte for innsigelsen.
 
-Fristen for å fremsette innsigelse om at et patent er meddelt i strid med [§ 1 b](lov/1967-12-15-9/§1b), er tre år fra den dag patentet ble meddelt. Den som fremsetter slik innsigelse mer enn ni måneder etter nevnte dag, skal betale fastsatt gebyr,1 ellers anses innsigelsen som ikke innkommet.
+Fristen for å fremsette innsigelse om at et patent er meddelt i strid med [§ 1 b](lov/1967-12-15-9/§1b), er tre år fra den dag patentet ble meddelt. Den som fremsetter slik innsigelse mer enn ni måneder etter nevnte dag, skal betale fastsatt gebyr,[^1] ellers anses innsigelsen som ikke innkommet.
 
 Innsigelse som grunner seg på at patentet er meddelt til en annen enn den som etter [§ 1](lov/1967-12-15-9/§1) er berettiget til det, kan bare fremmes av den som påstår seg berettiget til patentet. Innsigeren kan i innsigelsen begjære patentet overført til seg.
 
@@ -645,7 +645,7 @@ Ved kollisjon mellom rettserverv som nevnt i første ledd og panterett i driftst
 
 Er tre år gått fra patentets meddelelse og fire år fra patentsøknadens inngivelse uten at oppfinnelsen utøves innen riket i et rimelig omfang, kan den som vil utøve oppfinnelsen her i riket, få tvangslisens til dette, såfremt det ikke foreligger rimelig grunn for unnlatelsen.
 
-Ved anvendelsen av første ledd skal utøvelse av oppfinnelsen i stater som er part i WTO-avtalen1 eller EØS-avtalen, likestilles med utøvelse her i riket, såfremt patentrettighetene ikke hindrer import til riket. Det samme gjelder utøvelse i andre stater i den grad det følger av en gjensidig forpliktelse etter en folkerettslig avtale.
+Ved anvendelsen av første ledd skal utøvelse av oppfinnelsen i stater som er part i WTO-avtalen[^1] eller EØS-avtalen, likestilles med utøvelse her i riket, såfremt patentrettighetene ikke hindrer import til riket. Det samme gjelder utøvelse i andre stater i den grad det følger av en gjensidig forpliktelse etter en folkerettslig avtale.
 
 > Endret ved lov [19 des 2003 nr. 127](lov/2003-12-19-127) (ikr. 1 feb 2004 iflg. [res. 23 jan 2004 nr. 155](forskrift/2004-01-23-155)).
 
@@ -692,7 +692,7 @@ En tvangslisens kan bare gå over til andre i forbindelse med den virksomheten s
 
 For halvlederteknologi kan tvangslisens bare meddeles for offentlig ikke-kommersiell utnyttelse eller på grunnlag av [§ 47](lov/1967-12-15-9/§47) nr. 2.
 
-En tvangslisens skal gis hovedsakelig med sikte på forsyning av hjemmemarkedet. Kongen kan ved forskrift fastsette regler som avviker fra dette.2
+En tvangslisens skal gis hovedsakelig med sikte på forsyning av hjemmemarkedet. Kongen kan ved forskrift fastsette regler som avviker fra dette.[^2]
 
 > Endret ved lover [20 des 1996 nr. 104](lov/1996-12-20-104) (ikr. 1 jan 1997 iflg. [res. 20 des 1996 nr. 1155](forskrift/1996-12-20-1155)), [19 des 2003 nr. 127](lov/2003-12-19-127) (ikr. 1 feb 2004 iflg. [res. 23 jan 2004 nr. 155](forskrift/2004-01-23-155)).
 
@@ -985,7 +985,7 @@ Melding som nevnt i forordningen artikkel 5 nr. 2 bokstav b og c gis til innehav
 
 ### § 62 b
 
-[EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) punkt 6 a (Europaparlamentets og Rådets forordning [(EF) 1610/96](eu/31996r1610) om innføring av et supplerende beskyttelsessertifikat for plantefarmasøytiske produkter) gjelder som lov med de endringer og tillegg som følger av protokoll 1 til avtalen og avtalen for øvrig.1
+[EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) punkt 6 a (Europaparlamentets og Rådets forordning [(EF) 1610/96](eu/31996r1610) om innføring av et supplerende beskyttelsessertifikat for plantefarmasøytiske produkter) gjelder som lov med de endringer og tillegg som følger av protokoll 1 til avtalen og avtalen for øvrig.[^1]
 
 [§ 62 a](lov/1967-12-15-9/§62a) annet til femte ledd gjelder tilsvarende.
 
@@ -1267,7 +1267,7 @@ Patentstyrets sjef bestemmer hvem som skal avgjøre begjæringer i henhold til [
 
 ### § 76. Ikrafttredelses- og overgangsbestemmelser.
 
-1\. Denne lov trer i kraft 1 januar 1968.1 Med den begrensning som følger av pkt. 2-8 nedenfor, oppheves samtidig lov om patenter av 2 juli 1910 med senere endringer. For så vidt angår oppfinnelser vedrørende næringsmidler og legemidler, skal dog inntil Kongen annerledes bestemmer, patent ikke kunne meddeles på selve produktet, men bare på fremgangsmåten for dets fremstilling.2
+1\. Denne lov trer i kraft 1 januar 1968.[^1] Med den begrensning som følger av pkt. 2-8 nedenfor, oppheves samtidig lov om patenter av 2 juli 1910 med senere endringer. For så vidt angår oppfinnelser vedrørende næringsmidler og legemidler, skal dog inntil Kongen annerledes bestemmer, patent ikke kunne meddeles på selve produktet, men bare på fremgangsmåten for dets fremstilling.[^2]
 
 2\. Med de i det følgende angitte unntak finner denne lov også anvendelse på patenter som er meddelt eller meddeles i henhold til den hittil gjeldende lovgivning.
 
@@ -1285,7 +1285,7 @@ Fra denne lovs ikrafttredelse gjøres følgende endringer i – – –.
 
 > Endret ved lov [8 juni 1979 nr. 35](lov/1979-06-08-35) (tidligere § 73).
 
-## Forordninger1
+## Forordninger[^1]
 
 Nedenfor gjengis forordningene [nr. 469/2009](eu/32009r0469) og nr. 1610/96 (jfr. [patentlovens §§ 62 a](lov/1967-12-15-9/§62a) og [62 b](lov/1967-12-15-9/§62b)), førstnevnte i uoffisiell norsk oversettelse hentet fra [Prop. 127 LS (2016–2017)](forarbeid/prop-127-ls-201617) og sistnevnte med EØS-tilpasninger foretatt av Justisdepartementet. Noter markert med notetall og \* er Justisdepartementets noter til forordning [nr. 1610/96](eu/31996r1610) ved gjengivelsen i [Ot.prp.nr.30 (1997–1998)](forarbeid/otprp-30-199798) s. 6-10. Sammen med frd. [469/2009](eu/32009r0469) er det gjengitt utdrag fra uoffisiell norsk oversettelse av [EØS-komiteens beslutning nr. 92/2017](eu/22017d0092) med overgangsregler knyttet til ikrafttredelsen i EØS EFTA-statene.
 
@@ -1299,20 +1299,20 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1 etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1] etter framgangsmåten fastsatt i traktatens artikkel 251[^2] og
 
 ut fra følgende betraktninger:
 
-1. Rådsforordning [(EØF) nr. 1768/92](eu/31992r1768) av 18. juni 1992 om innføring av et supplerende beskyttelsessertifikat for legemidler3 er blitt betydelig endret flere ganger.4 Av klarhetshensyn og av praktiske årsaker bør nevnte forordning kodifiseres.
+1. Rådsforordning [(EØF) nr. 1768/92](eu/31992r1768) av 18. juni 1992 om innføring av et supplerende beskyttelsessertifikat for legemidler[^3] er blitt betydelig endret flere ganger.[^4] Av klarhetshensyn og av praktiske årsaker bør nevnte forordning kodifiseres.
 2. Forskningen på det farmasøytiske området bidrar på avgjørende måte til en fortsatt forbedring av folkehelsen.
-3. Legemidler, særlig legemidler som er et resultat av langvarig forskning med store omkostninger, vil i framtiden bli utviklet i Fellesskapet5 og i Europa bare dersom de omfattes av gunstige regler som sikrer tilstrekkelig beskyttelse til å fremme slik forskning.
+3. Legemidler, særlig legemidler som er et resultat av langvarig forskning med store omkostninger, vil i framtiden bli utviklet i Fellesskapet[^5] og i Europa bare dersom de omfattes av gunstige regler som sikrer tilstrekkelig beskyttelse til å fremme slik forskning.
 4. Den tiden det tar fra en patentsøknad for et nytt legemiddel blir inngitt og til det foreligger en markedsføringstillatelse, reduserer på det nåværende tidspunkt den effektive beskyttelsen patentet gir til et tidsrom som ikke er tilstrekkelig til å avskrive forskningsinvesteringene.
 5. Denne situasjonen fører til en beskyttelse som ikke er tilstrekkelig, og som er til skade for den farmasøytiske forskningen.
-6. Det foreligger en risiko for at forskningssentrene i medlemsstatene6 flyttes til andre stater som tilbyr bedre beskyttelse.
-7. Det bør fastsettes en ensartet løsning på fellesskapsplan7 for å hindre at en uensartet utvikling av nasjonal lovgivning fører til ytterligere forskjeller som kan hindre den frie bevegelighet for legemidler i Fellesskapet5 og dermed direkte påvirke det indre markeds funksjon.
-8. Det er derfor nødvendig å fastsette bestemmelser for et supplerende beskyttelsessertifikat for legemidler som har markedsføringstillatelse, og som kan utstedes til innehaveren av et nasjonalt eller europeisk patent på samme vilkår i alle medlemsstater.8 En forordning er derfor det mest hensiktsmessige rettslige instrumentet.
-9. Sertifikatets gyldighetstid bør fastsettes slik at den gir tilstrekkelig effektiv beskyttelse. For dette formål bør innehaveren av både et patent og et sertifikat kunne dra nytte av en beskyttelsestid på i alt høyst 15 år regnet fra tidspunktet for den første markedsføringstillatelsen for det aktuelle legemiddelet i Fellesskapet.5
-10. 9 Ikke desto mindre bør det tas hensyn til alle berørte interesser, herunder folkehelsen, som gjør seg gjeldende innen en sektor som er så kompleks og følsom som den farmasøytiske. Av denne grunn kan sertifikatet ikke utstedes for et tidsrom på over fem år. Beskyttelsen det gir bør i tillegg være strengt begrenset til det produktet som er tillatt markedsført som legemiddel.
+6. Det foreligger en risiko for at forskningssentrene i medlemsstatene[^6] flyttes til andre stater som tilbyr bedre beskyttelse.
+7. Det bør fastsettes en ensartet løsning på fellesskapsplan[^7] for å hindre at en uensartet utvikling av nasjonal lovgivning fører til ytterligere forskjeller som kan hindre den frie bevegelighet for legemidler i Fellesskapet[^5] og dermed direkte påvirke det indre markeds funksjon.
+8. Det er derfor nødvendig å fastsette bestemmelser for et supplerende beskyttelsessertifikat for legemidler som har markedsføringstillatelse, og som kan utstedes til innehaveren av et nasjonalt eller europeisk patent på samme vilkår i alle medlemsstater.[^8] En forordning er derfor det mest hensiktsmessige rettslige instrumentet.
+9. Sertifikatets gyldighetstid bør fastsettes slik at den gir tilstrekkelig effektiv beskyttelse. For dette formål bør innehaveren av både et patent og et sertifikat kunne dra nytte av en beskyttelsestid på i alt høyst 15 år regnet fra tidspunktet for den første markedsføringstillatelsen for det aktuelle legemiddelet i Fellesskapet.[^5]
+10. [^9] Ikke desto mindre bør det tas hensyn til alle berørte interesser, herunder folkehelsen, som gjør seg gjeldende innen en sektor som er så kompleks og følsom som den farmasøytiske. Av denne grunn kan sertifikatet ikke utstedes for et tidsrom på over fem år. Beskyttelsen det gir bør i tillegg være strengt begrenset til det produktet som er tillatt markedsført som legemiddel.
 11. En passende avgrensning av sertifikatets gyldighetstid bør fastsettes i de særlige tilfellene der et patents gyldighetstid allerede er forlenget i henhold til nasjonal lovgivning –
 
 1 EUT C 77 av 31.3.2009, s. 42.
@@ -1343,13 +1343,13 @@ I denne forordning menes med:
 2. «produkt» det virksomme stoffet eller sammensetningen av virksomme stoffer i et legemiddel,
 3. «basispatent» et patent som beskytter et produkt som sådan, en prosedyre for å framstille et produkt eller en anvendelse av et produkt, og som innehaveren har utpekt med henblikk på rutinen for utstedelse av et sertifikat,
 4. «sertifikat» det supplerende beskyttelsessertifikatet,
-5. «søknad om forlengelse av gyldighetstiden» en søknad om å forlenge sertifikatets gyldighetstid i henhold til artikkel 13 nr. 3 i denne forordning og artikkel 36 i europaparlaments- og rådsforordning [(EF) nr. 1901/2006](eu/32006r1901) av 12. desember 2006 om legemidler til barn.1
+5. «søknad om forlengelse av gyldighetstiden» en søknad om å forlenge sertifikatets gyldighetstid i henhold til artikkel 13 nr. 3 i denne forordning og artikkel 36 i europaparlaments- og rådsforordning [(EF) nr. 1901/2006](eu/32006r1901) av 12. desember 2006 om legemidler til barn.[^1]
 
 1 EUT L 378 av 27.12.2006, s. 1
 
 ### Artikkel 2. Virkeområde
 
-For ethvert produkt som er patentbeskyttet på en medlemsstats territorium,1 og som før det markedsføres som legemiddel er underlagt administrativ tillatelse i henhold til europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker2 eller europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,3 kan det utstedes et sertifikat på vilkårene fastsatt i denne forordning.
+For ethvert produkt som er patentbeskyttet på en medlemsstats territorium,[^1] og som før det markedsføres som legemiddel er underlagt administrativ tillatelse i henhold til europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker[^2] eller europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,[^3] kan det utstedes et sertifikat på vilkårene fastsatt i denne forordning.
 
 1 «Medlemsstaters territorium» må her forstås som «EØS-stats territorium».
 
@@ -1359,7 +1359,7 @@ For ethvert produkt som er patentbeskyttet på en medlemsstats territorium,1 og 
 
 ### Artikkel 3. Vilkår for utstedelse av sertifikat
 
-Et sertifikat skal utstedes dersom følgende vilkår er oppfylt på søknadsdatoen i den medlemsstaten2 der søknaden nevnt i artikkel 7 inngis:
+Et sertifikat skal utstedes dersom følgende vilkår er oppfylt på søknadsdatoen i den medlemsstaten[^2] der søknaden nevnt i artikkel 7 inngis:
 
 1. produktet er beskyttet av et basispatent som er i kraft,
 2. en gyldig tillatelse til å markedsføre produktet som legemiddel, er utstedt i samsvar med direktiv [2001/83/EF](eu/32001l0083) eller eventuelt direktiv [2001/82/EF](eu/32001l0082),
@@ -1378,7 +1378,7 @@ Den beskyttelsen som sertifikatet gir, er ikke mer vidtgående enn den beskyttel
 
 ### Artikkel 5. Sertifikatets rettsvirkninger
 
-Med forbehold for artikkel 4 skal sertifikatet medføre de samme rettigheter, begrensninger og forpliktelser som dem som knytter seg til basispatentet.1
+Med forbehold for artikkel 4 skal sertifikatet medføre de samme rettigheter, begrensninger og forpliktelser som dem som knytter seg til basispatentet.[^1]
 
 1 Jf. [lov 15 des 1967 nr. 9 § 3](lov/1967-12-15-9/§3) og [§§ 56 a](lov/1967-12-15-9/§56a) til [59 b](lov/1967-12-15-9/§59b).
 
@@ -1409,19 +1409,19 @@ Retten til sertifikatet tilkommer innehaveren av basispatentet eller vedkommende
    1. søkerens navn og adresse,
    2. dersom det er utpekt en fullmektig, vedkommendes navn og adresse,
    3. basispatentets nummer og oppfinnelsens benevnelse,
-   4. nummer på og dato for den første tillatelsen til å markedsføre produktet, nevnt i artikkel 3 bokstav b), og dersom dette ikke er den første tillatelsen til å markedsføre produktet i Fellesskapet,2 nummer på og dato for den første tillatelsen,
+   4. nummer på og dato for den første tillatelsen til å markedsføre produktet, nevnt i artikkel 3 bokstav b), og dersom dette ikke er den første tillatelsen til å markedsføre produktet i Fellesskapet,[^2] nummer på og dato for den første tillatelsen,
 2. en kopi av markedsføringstillatelsen nevnt i artikkel 3 bokstav b), der produktet identifiseres, og som særlig inneholder nummer på og dato for tillatelsen samt et sammendrag av produktets egenskaper i samsvar med artikkel 11 i direktiv [2001/83/EF](eu/32001l0083) eller artikkel 14 i direktiv [2001/82/EF](eu/32001l0082),
-3. dersom tillatelsen nevnt i bokstav b) ikke er den første tillatelsen til å markedsføre produktet som legemiddel i Fellesskapet,2 informasjon om identiteten til produktet som har fått slik tillatelse, og den lovbestemmelsen som gir hjemmel for tillatelsen, samt en kopi av kunngjøringen av denne tillatelsen i offisiell publikasjon,
+3. dersom tillatelsen nevnt i bokstav b) ikke er den første tillatelsen til å markedsføre produktet som legemiddel i Fellesskapet,[^2] informasjon om identiteten til produktet som har fått slik tillatelse, og den lovbestemmelsen som gir hjemmel for tillatelsen, samt en kopi av kunngjøringen av denne tillatelsen i offisiell publikasjon,
 4. dersom søknaden om sertifikat omfatter en anmodning om forlengelse av gyldighetstiden:
 
    1. en kopi av erklæringen som bekrefter overholdelse av en godkjent, gjennomført utviklingsplan for legemidler til barn, som nevnt i artikkel 36 nr. 1 i forordning [(EF) nr. 1901/2006](eu/32006r1901),
-   2. om nødvendig, i tillegg til en kopi av tillatelsen til å markedsføre produktet, som nevnt i bokstav b), dokumentasjon på besittelse av tillatelser til å markedsføre produktet i alle øvrige medlemsstater,3 som nevnt i artikkel 36 nr. 3 i forordning [(EF) nr. 1901/2006](eu/32006r1901).
+   2. om nødvendig, i tillegg til en kopi av tillatelsen til å markedsføre produktet, som nevnt i bokstav b), dokumentasjon på besittelse av tillatelser til å markedsføre produktet i alle øvrige medlemsstater,[^3] som nevnt i artikkel 36 nr. 3 i forordning [(EF) nr. 1901/2006](eu/32006r1901).
 
 2\. Dersom en søknad om sertifikat er under behandling, skal søknad om forlengelse av gyldighetstiden i samsvar med artikkel 7 nr. 3 inneholde opplysningene nevnt i nr. 1 bokstav d) i denne artikkel samt en henvisning til den allerede inngitte søknaden om sertifikat.
 
 3\. Søknaden om forlengelse av gyldighetstiden til et allerede utstedt sertifikat skal inneholde opplysningene nevnt i nr. 1 bokstav d) samt en kopi av det utstedte sertifikatet.
 
-4\. Medlemsstatene4 kan fastsette at det skal betales et gebyr ved søknad om sertifikat og ved søknad om forlengelse av gyldighetstiden til et sertifikat.
+4\. Medlemsstatene[^4] kan fastsette at det skal betales et gebyr ved søknad om sertifikat og ved søknad om forlengelse av gyldighetstiden til et sertifikat.
 
 1 Se frd. [1610/96](eu/31996r1610) betraktning 17.
 
@@ -1433,7 +1433,7 @@ Retten til sertifikatet tilkommer innehaveren av basispatentet eller vedkommende
 
 ### Artikkel 9. Inngivelse av søknad om sertifikat
 
-1\. Søknaden om sertifikat skal inngis til vedkommende myndighet for industriell eiendomsrett i medlemsstaten1 som meddelte basispatentet,2 eller i medlemsstaten det er meddelt på vegne av, og der tillatelsen nevnt i artikkel 3 bokstav b) til å markedsføre produktet ble utstedt, med mindre medlemsstaten utpeker en annen myndighet for dette formål.
+1\. Søknaden om sertifikat skal inngis til vedkommende myndighet for industriell eiendomsrett i medlemsstaten[^1] som meddelte basispatentet,[^2] eller i medlemsstaten det er meddelt på vegne av, og der tillatelsen nevnt i artikkel 3 bokstav b) til å markedsføre produktet ble utstedt, med mindre medlemsstaten utpeker en annen myndighet for dette formål.
 
 Søknaden om forlengelse av gyldighetstiden til et sertifikat skal inngis til vedkommende myndighet i den aktuelle medlemsstaten.
 
@@ -1443,7 +1443,7 @@ Søknaden om forlengelse av gyldighetstiden til et sertifikat skal inngis til ve
 2. basispatentets nummer,
 3. oppfinnelsens benevnelse,
 4. nummer på og dato for markedsføringstillatelsen nevnt i artikkel 3 bokstav b) samt produktet som identifiseres i tillatelsen,
-5. om nødvendig nummer på og dato for den første tillatelsen til å markedsføre produktet i Fellesskapet,3
+5. om nødvendig nummer på og dato for den første tillatelsen til å markedsføre produktet i Fellesskapet,[^3]
 6. dersom det er relevant, en opplysning om at søknaden omfatter en søknad om forlengelse av gyldighetstiden.
 
 3\. Nr. 2 får anvendelse på meddelelsen om søknaden om forlengelse av gyldighetstiden til et allerede utstedt sertifikat, eller når en søknad om et sertifikat er under behandling. Meddelelsen skal i tillegg inneholde en angivelse av søknaden om forlengelse av gyldighetstiden til sertifikatet.
@@ -1458,13 +1458,13 @@ Søknaden om forlengelse av gyldighetstiden til et sertifikat skal inngis til ve
 
 1\. Dersom søknaden om sertifikat og produktet den vedrører oppfyller vilkårene fastsatt i denne forordning, skal myndigheten nevnt i artikkel 9 nr. 1 utstede sertifikatet.
 
-2\. Med forbehold for nr. 3 skal myndigheten nevnt i artikkel 9 nr. 1 avslå søknaden om sertifikat dersom søknaden eller produktet den vedrører, ikke oppfyller vilkårene fastsatt i denne forordning.1
+2\. Med forbehold for nr. 3 skal myndigheten nevnt i artikkel 9 nr. 1 avslå søknaden om sertifikat dersom søknaden eller produktet den vedrører, ikke oppfyller vilkårene fastsatt i denne forordning.[^1]
 
 3\. Dersom søknaden om sertifikat ikke oppfyller vilkårene fastsatt i artikkel 8, skal myndigheten nevnt i artikkel 9 nr. 1 oppfordre søkeren til å foreta rettelser av anmerkede mangler eller betale gebyret innen en fastsatt frist.
 
 4\. Dersom manglene ikke er rettet opp eller gebyret ikke er betalt i henhold til nr. 3 innen den fastsatte fristen, skal myndigheten avslå søknaden.
 
-5\. Medlemsstatene2 kan fastsette at myndigheten nevnt i artikkel 9 nr. 1 skal utstede sertifikater uten å undersøke om vilkårene fastsatt i artikkel 3 bokstav c) og d) er oppfylt.
+5\. Medlemsstatene[^2] kan fastsette at myndigheten nevnt i artikkel 9 nr. 1 skal utstede sertifikater uten å undersøke om vilkårene fastsatt i artikkel 3 bokstav c) og d) er oppfylt.
 
 6\. Nr. 1-4 får tilsvarende anvendelse på søknaden om forlengelse av gyldighetstiden.
 
@@ -1480,8 +1480,8 @@ Søknaden om forlengelse av gyldighetstiden til et sertifikat skal inngis til ve
 2. basispatentets nummer,
 3. oppfinnelsens benevnelse,
 4. nummer på og dato for markedsføringstillatelsen nevnt i artikkel 3 bokstav b) samt produktet som identifiseres i tillatelsen,
-5. om nødvendig nummer på og dato for den første tillatelsen til å markedsføre produktet i Fellesskapet,1
-6. sertifikatets gyldighetstid.2
+5. om nødvendig nummer på og dato for den første tillatelsen til å markedsføre produktet i Fellesskapet,[^1]
+6. sertifikatets gyldighetstid.[^2]
 
 2\. Meddelelse om avslag på søknaden om sertifikat skal kunngjøres av myndigheten nevnt i artikkel 9 nr. 1. Meddelelsen skal inneholde minst de opplysningene som er nevnt i artikkel 9 nr. 2.
 
@@ -1493,13 +1493,13 @@ Søknaden om forlengelse av gyldighetstiden til et sertifikat skal inngis til ve
 
 ### Artikkel 12. Årsavgifter
 
-Medlemsstatene1 kan fastsette at det betales årsavgifter for sertifikatet.
+Medlemsstatene[^1] kan fastsette at det betales årsavgifter for sertifikatet.
 
 1 «Medlemsstatene» må her forstås som «EØS-statene».
 
 ### Artikkel 13. Sertifikatets gyldighetstid
 
-1\. Sertifikatet skal få virkning ved utløpet av basispatentets lovhjemlede gyldighetstid, og skal være gyldig i et tidsrom som tilsvarer tidsrommet mellom datoen da søknaden om basispatent ble inngitt og datoen da den første tillatelsen til å markedsføre produktet i Fellesskapet1 forelå, redusert med et tidsrom på fem år.
+1\. Sertifikatet skal få virkning ved utløpet av basispatentets lovhjemlede gyldighetstid, og skal være gyldig i et tidsrom som tilsvarer tidsrommet mellom datoen da søknaden om basispatent ble inngitt og datoen da den første tillatelsen til å markedsføre produktet i Fellesskapet[^1] forelå, redusert med et tidsrom på fem år.
 
 2\. Uten hensyn til nr. 1 kan sertifikatets gyldighetstid ikke overstige fem år regnet fra datoen da sertifikatet får virkning.
 
@@ -1523,10 +1523,10 @@ Sertifikatet skal bortfalle
 1\. Sertifikatet er ugyldig dersom
 
 1. det er utstedt i strid med bestemmelsene i artikkel 3,
-2. basispatentet bortfaller før dets lovhjemlede gyldighetstid utløper,1
-3. basispatentet kjennes ugyldig2 eller begrenses på en slik måte at produktet som sertifikatet ble utstedt for, ikke lenger er beskyttet av basispatentets krav,3 eller dersom det etter at basispatentet er bortfalt, foreligger ugyldighetsgrunner som ville ha berettiget en slik ugyldighetskjennelse eller begrensning.
+2. basispatentet bortfaller før dets lovhjemlede gyldighetstid utløper,[^1]
+3. basispatentet kjennes ugyldig[^2] eller begrenses på en slik måte at produktet som sertifikatet ble utstedt for, ikke lenger er beskyttet av basispatentets krav,[^3] eller dersom det etter at basispatentet er bortfalt, foreligger ugyldighetsgrunner som ville ha berettiget en slik ugyldighetskjennelse eller begrensning.
 
-2\. Med henblikk på å få sertifikatet kjent ugyldig kan enhver person inngi en anmodning til eller ta rettslige skritt ved den instansen som i henhold til nasjonal lovgivning er kompetent til å kjenne det tilsvarende basispatentet ugyldig.4
+2\. Med henblikk på å få sertifikatet kjent ugyldig kan enhver person inngi en anmodning til eller ta rettslige skritt ved den instansen som i henhold til nasjonal lovgivning er kompetent til å kjenne det tilsvarende basispatentet ugyldig.[^4]
 
 1 Jf. [lov 15 des 1967 nr. 9 § 51](lov/1967-12-15-9/§51), [§ 54](lov/1967-12-15-9/§54).
 
@@ -1540,7 +1540,7 @@ Sertifikatet skal bortfalle
 
 1\. Forlengelsen av gyldighetstiden kan oppheves dersom den er utstedt i strid med bestemmelsene i artikkel 36 i forordning [(EF) nr. 1901/2006](eu/32006r1901).
 
-2\. Enhver kan inngi en anmodning om oppheving av en forlengelse av gyldighetstiden til den instansen som i henhold til nasjonal lovgivning er kompetent til å kjenne det tilsvarende basispatentet ugyldig.1
+2\. Enhver kan inngi en anmodning om oppheving av en forlengelse av gyldighetstiden til den instansen som i henhold til nasjonal lovgivning er kompetent til å kjenne det tilsvarende basispatentet ugyldig.[^1]
 
 1 Jf. [lov 15 des 1967 nr. 9 § 52 b](lov/1967-12-15-9/§52b), [§ 63](lov/1967-12-15-9/§63).
 
@@ -1552,7 +1552,7 @@ Sertifikatet skal bortfalle
 
 ### Artikkel 18. Klageadgang
 
-Beslutningene som myndigheten nevnt i artikkel 9 nr. 1 eller instansene nevnt i artikkel 15 nr. 2 og 16 nr. 2 har truffet i henhold til denne forordning, kan påklages etter reglene som er fastsatt i nasjonal lovgivning når det gjelder tilsvarende beslutninger truffet om nasjonale patenter.2
+Beslutningene som myndigheten nevnt i artikkel 9 nr. 1 eller instansene nevnt i artikkel 15 nr. 2 og 16 nr. 2 har truffet i henhold til denne forordning, kan påklages etter reglene som er fastsatt i nasjonal lovgivning når det gjelder tilsvarende beslutninger truffet om nasjonale patenter.[^2]
 
 1 Se frd. [1610/96](eu/31996r1610) betraktning 17.
 
@@ -1560,7 +1560,7 @@ Beslutningene som myndigheten nevnt i artikkel 9 nr. 1 eller instansene nevnt i 
 
 ### Artikkel 19. Saksbehandling
 
-1\. I mangel av bestemmelser om saksbehandling i denne forordning skal de bestemmelser om saksbehandling som etter nasjonal lovgivning får anvendelse på det tilsvarende basispatentet, få anvendelse på sertifikatet, med mindre det i den nasjonale lovgivningen er fastsatt særlige bestemmelser om saksbehandling for sertifikater.1
+1\. I mangel av bestemmelser om saksbehandling i denne forordning skal de bestemmelser om saksbehandling som etter nasjonal lovgivning får anvendelse på det tilsvarende basispatentet, få anvendelse på sertifikatet, med mindre det i den nasjonale lovgivningen er fastsatt særlige bestemmelser om saksbehandling for sertifikater.[^1]
 
 2\. Uten hensyn til nr. 1 kan det ikke nedlegges innsigelse mot et utstedt sertifikat.
 
@@ -1574,7 +1574,7 @@ Med forbehold for de øvrige bestemmelsene i denne forordning får følgende bes
 2. for ethvert legemiddel som er beskyttet av et gyldig basispatent i Den tsjekkiske republikk og for hvilket den første tillatelsen til å markedsføre det som legemiddel ble gitt
 
    1. i Den tsjekkiske republikk etter 10. november 1999, kan det utstedes et sertifikat, forutsatt at søknaden om sertifikat ble inngitt senest seks måneder etter datoen da den første tillatelsen til å markedsføre produktet ble gitt,
-   2. i Fellesskapet1 tidligst seks måneder før 1. mai 2004, kan det utstedes et sertifikat, forutsatt at søknaden om sertifikat ble inngitt senest seks måneder etter datoen da den første tillatelsen til å markedsføre produktet ble gitt,
+   2. i Fellesskapet[^1] tidligst seks måneder før 1. mai 2004, kan det utstedes et sertifikat, forutsatt at søknaden om sertifikat ble inngitt senest seks måneder etter datoen da den første tillatelsen til å markedsføre produktet ble gitt,
 3. for ethvert legemiddel som er beskyttet av et gyldig basispatent og for hvilket tillatelsen til å markedsføre det som legemiddel ble gitt i Estland før 1. mai 2004, kan det utstedes et sertifikat, forutsatt at søknaden om sertifikat ble inngitt senest seks måneder etter datoen da den første tillatelsen til å markedsføre produktet ble gitt, eller, når det gjelder patentene som ble meddelt før 1. januar 2000, i løpet av de seks månedene som er fastsatt i den estiske patentloven av oktober 2009,
 4. for ethvert legemiddel som er beskyttet av et gyldig basispatent og for hvilket tillatelsen til å markedsføre det som legemiddel ble gitt i Kypros før 1. mai 2004, kan det utstedes et sertifikat, forutsatt at søknaden om sertifikat ble inngitt senest seks måneder etter datoen da den første tillatelsen til å markedsføre produktet ble gitt. Uten hensyn til ovennevnte og dersom tillatelsen til å markedsføre produktet ble gitt før basispatentet ble utstedt, skal søknaden om sertifikat inngis senest seks måneder etter datoen da patentet ble meddelt,
 5. for ethvert legemiddel som er beskyttet av et gyldig basispatent og for hvilket tillatelsen til å markedsføre det som legemiddel ble gitt i Latvia før 1. mai 2004, kan det utstedes et sertifikat. Dersom tidsrommet fastsatt i artikkel 7 nr. 1 er utløpt, skal det gis mulighet til å søke om sertifikat i et tidsrom på seks måneder som innledes senest 1. mai 2004,
@@ -1590,7 +1590,7 @@ Med forbehold for de øvrige bestemmelsene i denne forordning får følgende bes
 
 ### Artikkel 21. Overgangsbestemmelser
 
-1\. Denne forordning får ikke anvendelse på sertifikater utstedt i samsvar med en medlemsstats2 nasjonale lovgivning før 2. januar 1993 eller på søknader om sertifikat som er inngitt i samsvar med nevnte lovgivning før 2. juli 1992.
+1\. Denne forordning får ikke anvendelse på sertifikater utstedt i samsvar med en medlemsstats[^2] nasjonale lovgivning før 2. januar 1993 eller på søknader om sertifikat som er inngitt i samsvar med nevnte lovgivning før 2. juli 1992.
 
 Når det gjelder Østerrike, Finland og Sverige, får denne forordning ikke anvendelse på sertifikater utstedt i samsvar med deres nasjonale lovgivning før 1. januar 1995.
 
@@ -1665,11 +1665,11 @@ ut fra følgende betraktninger:
 14. Utstedelse av sertifikat for et produkt som består av et aktivt stoff, er ikke til hinder for at det kan utstedes andre sertifikater for derivater (salter og estere) av stoffet, forutsatt at derivatene omfattes av patenter som er meddelt særskilt for dem.
 15. Fastsettelsen av overgangsordningen bør også være preget av en rimelig balanse. Ordningen skal gi Fellesskapets plantefarmasøytiske industri anledning til delvis å kompensere for den forsinkelse som er oppstått i forhold til dens viktigste konkurrenter, samtidig som det skal påses at ordningen ikke er til hinder for gjennomføringen av andre rettmessige mål knyttet til den politikk på landbruks- og miljøvernområdet som føres både på nasjonalt plan og på fellesskapsplan.
 16. Målet om å sikre nyskapning på det plantefarmasøytiske området tilstrekkelig beskyttelse samtidig som det indre marked for plantefarmasøytiske produkter virker tilfredsstillende, kan bare virkeliggjøres gjennom fellesskapstiltak.
-17. Reglene i betraktning 12, 13 og 14 samt i artikkel 3 nr. 2, artikkel 4, artikkel 8 nr. 1 bokstav c) og artikkel 17 nr. 2 i denne forordning får tilsvarende anvendelse på fortolkningen særlig av betraktning 9 og artikkel 3 og 4, artikkel 8 nr. 1 bokstav c) og artikkel 17 i rådsforordning [(EØF) nr. 1768/92](eu/31992r1768)1 –
+17. Reglene i betraktning 12, 13 og 14 samt i artikkel 3 nr. 2, artikkel 4, artikkel 8 nr. 1 bokstav c) og artikkel 17 nr. 2 i denne forordning får tilsvarende anvendelse på fortolkningen særlig av betraktning 9 og artikkel 3 og 4, artikkel 8 nr. 1 bokstav c) og artikkel 17 i rådsforordning [(EØF) nr. 1768/92](eu/31992r1768)[^1] –
 
 1 Siden frd. [1768/92](eu/31992r1768) er avløst av forordning [469/2009](eu/32009r0469) fra 1. september 2017, må denne henvisningen leses som om det var henvist til de tilsvarende bestemmelene i frd. [469/2009](eu/32009r0469).
 
-VEDTATT DENNE FORORDNING:]1\*
+VEDTATT DENNE FORORDNING:][^1\*]
 
 1\* Ordlyden i innledningen (fortalen) til de rettsaktene som EØS-avtalens vedlegg omhandler, er ikke tilpasset til EØS, jf EØS-avtalen protokoll 1 nr 1, hvor det heter at innledningen bare er relevant i den grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
 
@@ -1699,7 +1699,7 @@ I denne forordning menes med
 
 ### Art 2. Virkeområde
 
-For ethvert produkt som er patentbeskyttet på en **EØS-stats**2\* territorium, og som i egenskap av plantefarmasøytisk produkt og før det blir markedsført, er underlagt administrativ tillatelse i henhold til artikkel 4 i direktiv [91/414/EØF](eu/31991l0414*)3\* eller i henhold til en tilsvarende bestemmelse i nasjonal lovgivning1 dersom det dreier seg om et plantefarmasøytisk produkt som det er inngitt søknad om godkjenning for før direktiv [91/414/EØF](eu/31991l0414*) ble iverksatt av **EØS-staten**, kan det utstedes et sertifikat på de vilkår som er fastsatt i denne forordning.
+For ethvert produkt som er patentbeskyttet på en **EØS-stats**[^2\*] territorium, og som i egenskap av plantefarmasøytisk produkt og før det blir markedsført, er underlagt administrativ tillatelse i henhold til artikkel 4 i direktiv [91/414/EØF](eu/31991l0414*)[^3\*] eller i henhold til en tilsvarende bestemmelse i nasjonal lovgivning[^1] dersom det dreier seg om et plantefarmasøytisk produkt som det er inngitt søknad om godkjenning for før direktiv [91/414/EØF](eu/31991l0414*) ble iverksatt av **EØS-staten**, kan det utstedes et sertifikat på de vilkår som er fastsatt i denne forordning.
 
 1 Jf. art 3 nr. 1 bokstav b.
 
@@ -1712,8 +1712,8 @@ For ethvert produkt som er patentbeskyttet på en **EØS-stats**2\* territorium,
 1\. Sertifikatet skal utstedes dersom følgende vilkår er oppfylt på søknadsdatoen i den **EØS-stat** der søknaden nevnt i artikkel 7 inngis:
 
 1. produktet er beskyttet av et basispatent som er i kraft,
-2. en gyldig tillatelse til å markedsføre produktet som plantefarmasøytisk produkt er utstedt i samsvar med artikkel 4 i direktiv [91/414/EØF](eu/31991l0414*) eller i samsvar med en tilsvarende bestemmelse i nasjonal lovgivning; *med hensyn til denne bokstav og artikler som viser til denne bokstav, skal en tillatelse til å markedsføre produktet gitt i samsvar med en EFTA-stats nasjonale lovgivning1 anses som en tillatelse utstedt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) eller en tilsvarende internrettslig bestemmelse i en medlemsstat i EF.*4\*
-3. det er ikke tidligere utstedt et sertifikat for produktet,2
+2. en gyldig tillatelse til å markedsføre produktet som plantefarmasøytisk produkt er utstedt i samsvar med artikkel 4 i direktiv [91/414/EØF](eu/31991l0414*) eller i samsvar med en tilsvarende bestemmelse i nasjonal lovgivning; *med hensyn til denne bokstav og artikler som viser til denne bokstav, skal en tillatelse til å markedsføre produktet gitt i samsvar med en EFTA-stats nasjonale lovgivning[^1] anses som en tillatelse utstedt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) eller en tilsvarende internrettslig bestemmelse i en medlemsstat i EF.*[^4\*]
+3. det er ikke tidligere utstedt et sertifikat for produktet,[^2]
 4. tillatelsen nevnt i bokstav b) er den første tillatelsen til å markedsføre produktet som plantefarmasøytisk produkt.
 
 2\. En innehaver av flere patenter på samme produkt skal ikke få utstedt flere enn ett sertifikat for produktet. Dersom det er til behandling to eller flere søknader som gjelder samme produkt, og som er innlevert av to eller flere innehavere av forskjellige patenter, kan det likevel utstedes ett sertifikat for produktet til hver av disse innehaverne.
@@ -1726,7 +1726,7 @@ For ethvert produkt som er patentbeskyttet på en **EØS-stats**2\* territorium,
 
 ### Art 4. Beskyttelsens gjenstand
 
-Den beskyttelsen sertifikatet gir, er ikke mer vidtgående enn den beskyttelse basispatentet gir,1 og den omfatter bare det produkt som dekkes av markedsføringstillatelsen for det tilsvarende plantefarmasøytiske produkt, samt enhver anvendelse av produktet som plantefarmasøytisk produkt som det er gitt tillatelse til før sertifikatet utløper.
+Den beskyttelsen sertifikatet gir, er ikke mer vidtgående enn den beskyttelse basispatentet gir,[^1] og den omfatter bare det produkt som dekkes av markedsføringstillatelsen for det tilsvarende plantefarmasøytiske produkt, samt enhver anvendelse av produktet som plantefarmasøytisk produkt som det er gitt tillatelse til før sertifikatet utløper.
 
 1 Jf. fortalens betraktning 13.
 
@@ -1753,11 +1753,11 @@ Retten til sertifikatet tilkommer innehaveren av basispatentet eller vedkommende
    1. søkerens navn og adresse,
    2. dersom det er utpekt en fullmektig, vedkommendes navn og adresse,
    3. basispatentets nummer og oppfinnelsens benevnelse,
-   4. nummer på og dato for den første tillatelse til å markedsføre produktet, nevnt i artikkel 3 nr. 1 bokstav b), og dersom dette ikke er første tillatelse til å markedsføre produktet **innenfor EØS,**5\* nummer på og dato for den første tillatelsen,
+   4. nummer på og dato for den første tillatelse til å markedsføre produktet, nevnt i artikkel 3 nr. 1 bokstav b), og dersom dette ikke er første tillatelse til å markedsføre produktet **innenfor EØS,**[^5\*] nummer på og dato for den første tillatelsen,
 2. en kopi av markedsføringstillatelsen nevnt i artikkel 3 nr. 1 bokstav b), der produktet identifiseres, og som særlig inneholder nummer på og dato for tillatelsen, samt et sammendrag av produktets egenskaper utarbeidet i samsvar med vedlegg II del A 1 (nr. 1-7) eller B 1 (nr. 1-7) i direktiv [91/414/EØF](eu/31991l0414*) eller i samsvar med tilsvarende bestemmelser i nasjonal lovgivning i den **EØS-stat** der søknaden er inngitt,
 3. dersom tillatelsen nevnt i bokstav b) ikke er den første tillatelsen til å markedsføre produktet som plantefarmasøytisk produkt i Fellesskapet, informasjon om det tillatte produktets identitet og den lovbestemmelsen som gir hjemmel for markedsføringstillatelsen, samt en kopi av kunngjøringen av denne tillatelsen i det relevante kunngjøringsblad eller, i mangel av slik kunngjøring, ethvert dokument som beviser at tillatelse er gitt, angir dato for tillatelsen og identifiserer produktet.
 
-2\. **EØS-statene**6\* kan fastsette at det skal betales en avgift for inngivelse av søknad om sertifikat.
+2\. **EØS-statene**[^6\*] kan fastsette at det skal betales en avgift for inngivelse av søknad om sertifikat.
 
 5\* Jf EØS-avtalen protokoll 1 punkt 8: Henvisninger til «Fellesskapets» territorium skal forstås som henvisninger til det territorium EØS-avtalen gjelder for etter EØS-avtalen artikkel 126.
 
@@ -1765,7 +1765,7 @@ Retten til sertifikatet tilkommer innehaveren av basispatentet eller vedkommende
 
 ### Art 9. Inngivelse av søknad om sertifikat
 
-1\. Søknaden om sertifikat skal inngis til vedkommende patentmyndighet i den **EØS-stat** som meddelte basispatentet2 eller i den **EØS-stat** det er meddelt på vegne av, og der markedsføringstillatelsen nevnt i artikkel 3 nr. 1 bokstav b) ble utstedt, med mindre **EØS-staten** utpeker en annen myndighet for dette formål.
+1\. Søknaden om sertifikat skal inngis til vedkommende patentmyndighet i den **EØS-stat** som meddelte basispatentet[^2] eller i den **EØS-stat** det er meddelt på vegne av, og der markedsføringstillatelsen nevnt i artikkel 3 nr. 1 bokstav b) ble utstedt, med mindre **EØS-staten** utpeker en annen myndighet for dette formål.
 
 2\. Meddelelse om søknad om sertifikat skal kunngjøres av den myndighet som er nevnt i nr. 1. Meddelelsen skal minst inneholde følgende opplysninger:
 
@@ -1781,9 +1781,9 @@ Retten til sertifikatet tilkommer innehaveren av basispatentet eller vedkommende
 
 ### Art 10. Utstedelse av sertifikat eller avslag på søknad om sertifikat
 
-1\. Dersom søknaden om sertifikat og det produktet den vedrører, oppfyller vilkårene fastsatt i denne forordning, skal den myndighet som er nevnt i artikkel 9 nr. 1, utstede sertifikatet.1
+1\. Dersom søknaden om sertifikat og det produktet den vedrører, oppfyller vilkårene fastsatt i denne forordning, skal den myndighet som er nevnt i artikkel 9 nr. 1, utstede sertifikatet.[^1]
 
-2\. Med forbehold for nr. 3 skal den myndighet som er nevnt i artikkel 9 nr. 1, avslå søknaden om sertifikat dersom søknaden eller det produktet den vedrører, ikke oppfyller vilkårene fastsatt i denne forordning.2
+2\. Med forbehold for nr. 3 skal den myndighet som er nevnt i artikkel 9 nr. 1, avslå søknaden om sertifikat dersom søknaden eller det produktet den vedrører, ikke oppfyller vilkårene fastsatt i denne forordning.[^2]
 
 3\. Dersom søknaden om sertifikat ikke oppfyller vilkårene fastsatt i artikkel 8, skal den myndighet som er nevnt i artikkel 9 nr. 1, oppfordre søkeren til å foreta rettelser av anmerkede mangler eller til å betale avgiften innen den fastsatte fristen.
 
@@ -1804,15 +1804,15 @@ Retten til sertifikatet tilkommer innehaveren av basispatentet eller vedkommende
 3. oppfinnelsens benevnelse,
 4. nummer på og dato for markedsføringstillatelsen nevnt i artikkel 3 nr. 1 bokstav b) og det produktet som identifiseres i tillatelsen,
 5. om nødvendig nummer på og dato for den første tillatelse til markedsføring **innenfor EØS,**
-6. sertifikatets gyldighetstid.1
+6. sertifikatets gyldighetstid.[^1]
 
-2\. Meddelelse om avslag på en søknad om sertifikat skal kunngjøres1 av den myndighet som er nevnt i artikkel 9 nr. 1. Meddelelsen skal minst inneholde opplysningene nevnt i artikkel 9 nr. 2.
+2\. Meddelelse om avslag på en søknad om sertifikat skal kunngjøres[^1] av den myndighet som er nevnt i artikkel 9 nr. 1. Meddelelsen skal minst inneholde opplysningene nevnt i artikkel 9 nr. 2.
 
 1 Jf. art 13.
 
 ### Art 12. Årsavgifter
 
-**EØS-statene** kan fastsette at det skal betales årsavgifter for sertifikatet.1
+**EØS-statene** kan fastsette at det skal betales årsavgifter for sertifikatet.[^1]
 
 1 Se [lov 15 des 1967 nr. 9 § 62 b](lov/1967-12-15-9/§62b) annet ledd, [§ 62 a](lov/1967-12-15-9/§62a) (3).
 
@@ -1838,10 +1838,10 @@ Sertifikatet skal bortfalle
 1\. Sertifikatet er ugyldig
 
 1. dersom det er utstedt i strid med bestemmelsene i artikkel 3,
-2. dersom basispatentet bortfaller før dets lovhjemlede gyldighetstid utløper,1
-3. dersom basispatentet kjennes ugyldig2 eller begrenses på en slik måte at det produkt sertifikatet er utstedt for, ikke lenger er beskyttet av basispatentets krav,3 eller dersom det etter at basispatentet er bortfalt, foreligger ugyldighetsgrunner som ville ha berettiget en slik ugyldighetskjennelse eller begrensning.
+2. dersom basispatentet bortfaller før dets lovhjemlede gyldighetstid utløper,[^1]
+3. dersom basispatentet kjennes ugyldig[^2] eller begrenses på en slik måte at det produkt sertifikatet er utstedt for, ikke lenger er beskyttet av basispatentets krav,[^3] eller dersom det etter at basispatentet er bortfalt, foreligger ugyldighetsgrunner som ville ha berettiget en slik ugyldighetskjennelse eller begrensning.
 
-2\. Med henblikk på å få sertifikatet kjent ugyldig kan enhver person innlevere en anmodning til eller ta rettslige skritt ved den instans som etter nasjonal lovgivning er kompetent til å kjenne det tilsvarende basispatent ugyldig.4
+2\. Med henblikk på å få sertifikatet kjent ugyldig kan enhver person innlevere en anmodning til eller ta rettslige skritt ved den instans som etter nasjonal lovgivning er kompetent til å kjenne det tilsvarende basispatent ugyldig.[^4]
 
 1 Jf. [lov 15 des 1967 nr. 9 § 51](lov/1967-12-15-9/§51), [§ 54](lov/1967-12-15-9/§54).
 
@@ -1857,7 +1857,7 @@ Dersom sertifikatet bortfaller i henhold til artikkel 14 bokstav b), c) eller d)
 
 ### Art 17. Klageadgang
 
-1\. Beslutninger truffet i henhold til denne forordning av den myndighet som er nevnt i artikkel 9 nr. 1, eller av den instans som er nevnt i artikkel 15 nr. 2, kan påklages etter de regler som er fastsatt i nasjonal lovgivning for klager over tilsvarende beslutninger med hensyn til nasjonale patenter.1
+1\. Beslutninger truffet i henhold til denne forordning av den myndighet som er nevnt i artikkel 9 nr. 1, eller av den instans som er nevnt i artikkel 15 nr. 2, kan påklages etter de regler som er fastsatt i nasjonal lovgivning for klager over tilsvarende beslutninger med hensyn til nasjonale patenter.[^1]
 
 2\. Beslutningen om å utstede sertifikatet kan påklages med sikte på endring av sertifikatets gyldighetstid dersom datoen for den første tillatelsen til å markedsføre produktet **innenfor EØS** ikke er korrekt angitt i søknaden om sertifikat omhandlet i artikkel 8.
 
@@ -1865,7 +1865,7 @@ Dersom sertifikatet bortfaller i henhold til artikkel 14 bokstav b), c) eller d)
 
 ### Art 18. Saksbehandling
 
-1\. I mangel av bestemmelser om saksbehandling i denne forordning skal de bestemmelser om saksbehandling som etter nasjonal lovgivning kommer til anvendelse på det tilsvarende basispatentet,1 samt eventuelt de bestemmelser om saksbehandling som kommer til anvendelse på sertifikater nevnt i forordning [(EØF) nr. 1768/92](eu/31992r1768), få anvendelse på sertifikatet, med mindre det i den nasjonale lovgivning er fastsatt særlige bestemmelser om saksbehandling for sertifikater.2
+1\. I mangel av bestemmelser om saksbehandling i denne forordning skal de bestemmelser om saksbehandling som etter nasjonal lovgivning kommer til anvendelse på det tilsvarende basispatentet,[^1] samt eventuelt de bestemmelser om saksbehandling som kommer til anvendelse på sertifikater nevnt i forordning [(EØF) nr. 1768/92](eu/31992r1768), få anvendelse på sertifikatet, med mindre det i den nasjonale lovgivning er fastsatt særlige bestemmelser om saksbehandling for sertifikater.[^2]
 
 2\. Uten hensyn til nr. 1 kan det ikke nedlegges innsigelse mot et utstedt sertifikat.
 
@@ -1883,7 +1883,7 @@ Dersom sertifikatet bortfaller i henhold til artikkel 14 bokstav b), c) eller d)
 
 **4. Med hensyn til nr. 3 skal søknad om sertifikat inngis innen to måneder etter 2. januar 1998.**
 
-**5. Er det inngitt søknad om sertifikat i samsvar med nr. 3, skal dette ikke være til hinder for at tredjemann som, etter at basispatentet er bortfalt og før søknaden om sertifikat er offentliggjort, i god tro har utnyttet oppfinnelsen kommersielt eller gjort seriøse forberedelser til slik utnyttelse, skal kunne fortsette denne utnyttelsen.**7\*
+**5. Er det inngitt søknad om sertifikat i samsvar med nr. 3, skal dette ikke være til hinder for at tredjemann som, etter at basispatentet er bortfalt og før søknaden om sertifikat er offentliggjort, i god tro har utnyttet oppfinnelsen kommersielt eller gjort seriøse forberedelser til slik utnyttelse, skal kunne fortsette denne utnyttelsen.**[^7\*]
 
 > Se note til [patentloven § 62 b](lov/1967-12-15-9/§62b).
 
@@ -1893,7 +1893,7 @@ Dersom sertifikatet bortfaller i henhold til artikkel 14 bokstav b), c) eller d)
 
 *I de medlemsstater der gjeldende lovgivning 1. januar 1990 ikke tillot patentering av plantefarmasøytiske produkter, får denne forordning anvendelse fra 2. januar 1998.*
 
-*Artikkel 19 får ikke anvendelse i disse medlemsstatene.*]8\*
+*Artikkel 19 får ikke anvendelse i disse medlemsstatene.*][^8\*]
 
 > Se note til [patentloven § 62 b](lov/1967-12-15-9/§62b).
 
@@ -1907,6 +1907,6 @@ Dersom sertifikatet bortfaller i henhold til artikkel 14 bokstav b), c) eller d)
 
 *Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.]*
 
-Denne forordning får anvendelse for Island og Norge fra 2. januar 1998.9\*
+Denne forordning får anvendelse for Island og Norge fra 2. januar 1998.[^9\*]
 
 9\* Forordningen får anvendelse for Island og Norge fra 2 januar 1998, jf [EØS-komiteens beslutning nr 59/97](eu/21997d0059) artikkel 1 annet ledd bokstav c. Forordningen vil ikke ha direkte anvendelighet i Island og Norge – i stedet gjelder EØS-avtalen artikkel 7.

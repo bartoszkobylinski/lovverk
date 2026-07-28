@@ -15,7 +15,7 @@ xml_hash: "eae5a6282b06f7331418d71c8def5dddfac8619b2032839db9b4c5e6241b6692"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1232,7 +1232,7 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 ### Vedlegg I
 Personer som det er henvist til i artikkel 2 nr. 1
 
-EUs konsoliderte liste over personer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
+EUs konsoliderte liste over personer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
 
 Listeførte med landkode («programme») BLR (Belarus), er listeført under denne forskriften.
 
@@ -4559,7 +4559,7 @@ Varer og teknologi som det er henvist til i artikkel 8g
 | 2710 12 70 | Spirit type jet fuel (light oils) |
 | 2710 19 29 | Other than kerosene (medium oils) |
 | 2710 19 21 | Kerosene type jet fuel (medium oils) |
-| 2710 20 90 | Kerosene type jet fuel blended with biodiesel1 |
+| 2710 20 90 | Kerosene type jet fuel blended with biodiesel[^1] |
 |  | Oxidation inhibitors<br>Oxidation inhibitors used in additives for lubricating oils: |
 | 3811 21 00 | – oxidation inhibitors containing petroleum oils |
 | 3811 29 00 | – other oxidation inhibitors |

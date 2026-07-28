@@ -15,7 +15,7 @@ xml_hash: "25f2c5c65697c1ba9095855422cba485bedaab900cd60e3e24d88f3fb1d9e684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -206,7 +206,7 @@ Tilskot til tilpassing kan bli gjeve både til enkle tiltak, til større ombyggi
 
 ### § 16. Ikraftsetjing og overgangsreglar
 
-Lova gjeld frå den tida Kongen fastset.1
+Lova gjeld frå den tida Kongen fastset.[^1]
 
 Departementet kan gje forskrift om overgangsordningar for mottakarar som fekk bustøtte i same bustad i juni 2009.
 

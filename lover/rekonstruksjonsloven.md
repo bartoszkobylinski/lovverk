@@ -15,7 +15,7 @@ xml_hash: "4ed3ce1c003d6a03ba17cec9a3ba6041978abecf0e1425e2a852e139dc0f83bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -617,7 +617,7 @@ Når denne loven får anvendelse, skal omtale i andre lover og forskrifter av gj
 
 ### § 64. Ikrafttredelse og tidspunktet for opphevelse av loven
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
 
 > Endret ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79), [19 juni 2026 nr. 48](lov/2026-06-19-48).
 

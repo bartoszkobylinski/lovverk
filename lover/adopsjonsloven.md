@@ -15,7 +15,7 @@ xml_hash: "a0c45fcc261a718afdf5f27797bde82ed5b943c610b7de75025fb0b67e9dd8ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -380,7 +380,7 @@ Brudd på taushetsplikten etter [§ 35](lov/2017-06-16-48/§35) andre ledd straf
 
 ### § 52. Ikrafttredelse
 
-Loven gjelder fra det tidspunktet1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 28. februar 1986 nr. 8](lov/1986-02-28-8) om adopsjon.
+Loven gjelder fra det tidspunktet[^1] Kongen bestemmer. Fra samme tidspunkt oppheves [lov 28. februar 1986 nr. 8](lov/1986-02-28-8) om adopsjon.
 
 Kongen kan bestemme at enkelte nye bestemmelser trer i kraft på et senere tidspunkt.
 

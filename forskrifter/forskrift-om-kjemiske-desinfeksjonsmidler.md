@@ -15,7 +15,7 @@ xml_hash: "8a7de038646ad956d0bc92153e9a049194cab7f5ca676d429498f7728bfa12e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,7 +102,7 @@ Emballasjen for et registrert desinfeksjonsmiddel skal av tilvirkeren være fors
 
 Ovennevnte opplysninger skal påføres den enkelte paknings ytre og indre emballasje.
 
-I den utstrekning preparatene har innholdsstoffer som omfattes av forskrifter om gifter eller helsefarlige stoffer1, gjelder også påbud om merking gitt i de nevnte forskrifter.
+I den utstrekning preparatene har innholdsstoffer som omfattes av forskrifter om gifter eller helsefarlige stoffer[^1], gjelder også påbud om merking gitt i de nevnte forskrifter.
 
 1 Jfr. forskrifter fra 1982 og 1983.
 

@@ -15,7 +15,7 @@ xml_hash: "18aa2e1c1d4efb5cd222058a1ac22882107fd0a5ff4f182d9e8366201c07548a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -424,11 +424,11 @@ Ved godkjent perimetermerking med hinderlys etter [§ 16 (3) bokstav f)](forskri
 | RAL 9003 | Signal white | Alle typer hinder unntatt vindturbiner |
 | RAL 9010 | Pure white | Alle typer unntatt vindturbiner |
 | RAL 9016 | Traffic white | Alle typer unntatt vindturbiner |
-| Reflecting Sheeting | Diamond Grade 4090\* (Signal white) | Alle typer hinder unntatt vindturbiner |
-| Reflecting Sheeting | Diamond Grade 4092\* (Signal red) | Alle typer hinder |
-| Reflecting Sheeting | Fluorscent Yellow Green 4083\* | Alle typer hinder |
-| Reflecting Sheeting | Fluorscent Orange 4084\* | Alle typer hinder |
-| Reflecting Sheeting | Diamond Grade Fluorescent Yellow 4081\* | Alle typer hinder |
+| Reflecting Sheeting | Diamond Grade 4090[^\*] (Signal white) | Alle typer hinder unntatt vindturbiner |
+| Reflecting Sheeting | Diamond Grade 4092[^\*] (Signal red) | Alle typer hinder |
+| Reflecting Sheeting | Fluorscent Yellow Green 4083[^\*] | Alle typer hinder |
+| Reflecting Sheeting | Fluorscent Orange 4084[^\*] | Alle typer hinder |
+| Reflecting Sheeting | Diamond Grade Fluorescent Yellow 4081[^\*] | Alle typer hinder |
 
 \* Eller tilsvarende fra annen leverandør.
 

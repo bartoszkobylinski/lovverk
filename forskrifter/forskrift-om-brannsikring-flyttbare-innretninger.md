@@ -15,7 +15,7 @@ xml_hash: "111879c9ea43d51e08819515a3039fe606c06e7ff817d47599358e52dcd9cceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -250,7 +250,7 @@ Rederiet, arbeidsgiver, plattformsjef og andre som har sitt arbeid om bord skal 
 
 Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørsel skal dokumentasjon sendes Sjøfartsdirektoratet. Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse fastsettes av Sjøfartsdirektoratet.
 
-Rederiet skal kunne dokumentere at elektriske anlegg og områdeklassifisering (eksplosjonsfarlige områder) oppfyller gjeldende forskrifter om maritime elektriske anlegg, fastsatt av Direktoratet for samfunnssikkerhet og beredskap.1 Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse bestemmes av Direktoratet for samfunnssikkerhet og beredskap som på forespørsel skal få direkte tilsendt den ønskede dokumentasjon.
+Rederiet skal kunne dokumentere at elektriske anlegg og områdeklassifisering (eksplosjonsfarlige områder) oppfyller gjeldende forskrifter om maritime elektriske anlegg, fastsatt av Direktoratet for samfunnssikkerhet og beredskap.[^1] Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse bestemmes av Direktoratet for samfunnssikkerhet og beredskap som på forespørsel skal få direkte tilsendt den ønskede dokumentasjon.
 
 > Endret ved [forskrifter 17 feb 1997 nr. 135](forskrift/1997-02-17-135) (i kraft 1 jan 1998), [2 mars 1999 nr. 397](forskrift/1999-03-02-397) (i kraft 1 sept 1999), [11 april 2003 nr. 493](forskrift/2003-04-11-493) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -337,7 +337,7 @@ Brannpumpesystemene skal atskilles og plasseres slik at brann i et område ikke 
 
 3\.
 
-Hvert brannpumpesystem skal ha kapasitet til å dekke beregnet samtidig vannbehov ved største dimensjonerende brann.1 Den totale brannpumpekapasitet skal ikke i noe tilfelle være mindre enn 180 m3 /time. Trykket skal tilpasses beregnet forbruk og skal være tilstrekkelig til å kunne operere anvendt brannslokningsutstyr på en tilfredsstillende måte. Trykket i brannledningen skal ikke noe sted være mindre enn 7 bar ved største beregnede vannforbruk.
+Hvert brannpumpesystem skal ha kapasitet til å dekke beregnet samtidig vannbehov ved største dimensjonerende brann.[^1] Den totale brannpumpekapasitet skal ikke i noe tilfelle være mindre enn 180 m3 /time. Trykket skal tilpasses beregnet forbruk og skal være tilstrekkelig til å kunne operere anvendt brannslokningsutstyr på en tilfredsstillende måte. Trykket i brannledningen skal ikke noe sted være mindre enn 7 bar ved største beregnede vannforbruk.
 
 4\.
 
@@ -780,7 +780,7 @@ I tillegg til de krav som er nevnt i [§ 19](forskrift/1984-01-31-227/§19), ska
 
 2\.
 
-Brannintegritet av skott mellom tilstøtende områder.1
+Brannintegritet av skott mellom tilstøtende områder.[^1]
 
 | *Rom* |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -797,7 +797,7 @@ Brannintegritet av skott mellom tilstøtende områder.1
 
 3\.
 
-Brannintegritet av dekk mellom tilstøtende områder.1
+Brannintegritet av dekk mellom tilstøtende områder.[^1]
 
 | *Rom* *Rom*<br>*Under* ↓ *over* → |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -836,7 +836,7 @@ Anm. 4: Installasjon av sprinkleranlegg gir ikke reduksjon i isolasjonsverdiene.
 
 ### § 21. Varmebelastnng fra brennerbom.
 
-Varmebelastningen fra brennerbommene skal beregnes etter API 520, Part 1, Appendix A, og konsekvensen for aktuelt maskineri, utstyr o.l. på innretningen skal vurderes og tas hensyn til. Varmebelastning hvor personell kan oppholde seg i korte perioder, skal ikke overstige 6,3 kW/m2 .1
+Varmebelastningen fra brennerbommene skal beregnes etter API 520, Part 1, Appendix A, og konsekvensen for aktuelt maskineri, utstyr o.l. på innretningen skal vurderes og tas hensyn til. Varmebelastning hvor personell kan oppholde seg i korte perioder, skal ikke overstige 6,3 kW/m2 .[^1]
 
 1 Ved avbrenning over lengre perioder bør varmebelastningen ikke overstige 4,7 kW/m2 hvor personellet kan oppholde seg.
 
@@ -1031,7 +1031,7 @@ Det skal kunne gis gassalarm ved to konsentrasjonsnivåer. Hydrokarbongass (HC) 
 - i bemannet kontrollstasjon/nødkontrollstasjon
 - i andre tilsvarende områder.
 
-Alarmer skal plasseres lett synlige og hørbare og være i henhold til en anerkjent standard.1
+Alarmer skal plasseres lett synlige og hørbare og være i henhold til en anerkjent standard.[^1]
 
 3.4.
 
@@ -1157,7 +1157,7 @@ Etter en nivå 2 avstengning skal minst følgende utstyr være funksjonsdyktig:
 - Kommunikasjonsutstyr for eksternt og internt nødsamband (UHF/VHF-samband)
 - Utløsningssystem for fastmonterte brannslokkingsanlegg.
 - Utstyr for utløsning av ankerliner inkludert overrislingsanlegget.
-- Lys- og lydsignaler som krevd i [§ 13](forskrift/1984-01-31-227/§13) og nr. 2.1 og nr. 2.2 i byggeforskriften.1
+- Lys- og lydsignaler som krevd i [§ 13](forskrift/1984-01-31-227/§13) og nr. 2.1 og nr. 2.2 i byggeforskriften.[^1]
 - Dykkesystem dersom dette er nødvendig for dykkernes sikkerhet.
 - Indikeringssystem for gjennomført nødavstengning.
 

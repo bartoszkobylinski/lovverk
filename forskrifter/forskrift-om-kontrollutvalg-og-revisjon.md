@@ -15,7 +15,7 @@ xml_hash: "7f8df3f2eff76aff5de28040e1c0a921c0c50d97717de0a187de55a90c97bcec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -181,7 +181,7 @@ Revisor skal oppbevare dokumentasjonen på en ordnet og betryggende måte i mins
 
 ### § 22. Ikrafttredelse og opphevelse av andre forskrifter
 
-Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1
+Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.[^1]
 
 Fra samme tidspunkt oppheves [forskrift 15. juni 2004 nr. 905](forskrift/2004-06-15-905) om kontrollutvalg i kommuner og fylkeskommuner og [forskrift 15. juni 2004 nr. 904](forskrift/2004-06-15-904) om revisjon i kommuner og fylkeskommuner mv.
 

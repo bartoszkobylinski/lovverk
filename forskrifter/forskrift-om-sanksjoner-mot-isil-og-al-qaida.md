@@ -15,7 +15,7 @@ xml_hash: "6df8d420ce6102f8258c1e4ff64832f14932c9c84234f3e5809b6a9343e69aa5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,11 +50,11 @@ I denne forskrift menes med
 
 Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av en fysisk eller juridisk person, en enhet, et organ eller en gruppe oppført på Sanksjonskomiteens liste, skal fryses. Den som fryser penger eller formuesgoder i samsvar med bestemmelsen i første punktum, skal umiddelbart underrette Direktoratet for eksportkontroll og sanksjoner om dette.
 
-Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter, organer eller grupper som er oppført på Sanksjonskomiteens liste.1
+Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter, organer eller grupper som er oppført på Sanksjonskomiteens liste.[^1]
 
 Sanksjonskomiteens liste omfatter fysiske eller juridiske personer, enheter, organer og grupper som FNs sikkerhetsråd eller Sanksjonskomiteen har fastslått er tilknyttet Al Qaidas nettverk.
 
-Den som et vedtak om frys av penger og formuesgoder i medhold av denne paragraf retter seg mot, kan anmode om å bli fjernet fra listen i samsvar med sanksjonskomiteens prosedyrer.2
+Den som et vedtak om frys av penger og formuesgoder i medhold av denne paragraf retter seg mot, kan anmode om å bli fjernet fra listen i samsvar med sanksjonskomiteens prosedyrer.[^2]
 
 > Endret ved [forskrifter 19 jan 2001 nr. 33](forskrift/2001-01-19-33), [18 jan 2002 nr. 38](forskrift/2002-01-18-38), [6 des 2007 nr. 1358](forskrift/2007-12-06-1358), [18 juni 2008 nr. 611](forskrift/2008-06-18-611), [30 okt 2013 nr. 1291](forskrift/2013-10-30-1291) (tidligere § 1), [9 feb 2015 nr. 111](forskrift/2015-02-09-111), [25 mai 2016 nr. 538](forskrift/2016-05-25-538), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 

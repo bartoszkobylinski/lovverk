@@ -15,7 +15,7 @@ xml_hash: "ca3b425218d054c73219358f49104be7c0b3b94b4d1bb56b7424b2dffcfc226b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -145,10 +145,10 @@ Forskriften trer i kraft 1. januar 2010. Fra samme tidspunkt gjøres følgende e
 |  | 2300 | Rømme | 8,80 |
 |  | 3200 | Mysepulver | 7,40 |
 |  | 3201 | Mysepulver til iskrem | 0,00 |
-|  | 5100 | Smør1 | 0,00 |
+|  | 5100 | Smør[^1] | 0,00 |
 |  | 5101 | Smør til iskrem | 0,00 |
-|  | 5300 | Smørolje2 | 0,00 |
-|  | 6100 | Ost3 | 21,20 |
+|  | 5300 | Smørolje[^2] | 0,00 |
+|  | 6100 | Ost[^3] | 21,20 |
 | *Egg* | 11100 | Heleggmasse | 0,00 |
 |  | 11200 | Heleggpulver | 19,70 |
 |  | 12100 | Eggeplomme konservert | 0,00 |
@@ -160,7 +160,7 @@ Forskriften trer i kraft 1. januar 2010. Fra samme tidspunkt gjøres følgende e
 | *Kjøtt* | 70750 | Svinekjøttsortering 23 % | 7,80 |
 |  | 71400 | Storfekjøttsortering 14 % | 0,00 |
 |  | 73000 | Fårekjøttsortering 25 % | 0,00 |
-|  | 74000 | MUK-fjørfe4 | 4,10 |
+|  | 74000 | MUK-fjørfe[^4] | 4,10 |
 |  | 74200 | Fjørfe, annet enn MUK-fjørfe | 8,30 |
 
 1 PNS gis kun til råvaren smør som benyttes i ferdigvarer tariffert på varenummer ex 19.01.9098 med varebetegnelse desserter, puddinger, vaniljesaus, vaniljekrem, rømmedressing, iskremblanding, produkter til bakeri, glutenfri diettmat og laktoseredusert diettmat.
@@ -201,15 +201,15 @@ Varebetegnelsen kan avvike fra fullstendig varebetegnelse i Tolltariffen. For va
 | 19.02.3001 | Annen pasta, kokt |
 | 19.02.3009 | Annen pasta, ellers |
 | ex 19.04.9090 | Ferdigretter med ris |
-| 19.05.31001 | Søte kjeks og småkaker |
-| 19.05.32001 | Vafler og vaffelkjeks |
+| 19.05.3100[^1] | Søte kjeks og småkaker |
+| 19.05.3200[^1] | Vafler og vaffelkjeks |
 | 19.05.9010 | Pizza, herunder porsjonspizza o.l., med innhold av pølse, kjøtt eller slakteavfall |
 | 19.05.9021 | Pizza, herunder porsjonspizza o.l., ikke inneholdende pølse, kjøtt eller slakteavfall |
-| 19.05.90311 | Andre kaker |
-| 19.05.90331 | Wienerbrød, herunder wienerbrødstang o.l. |
+| 19.05.9031[^1] | Andre kaker |
+| 19.05.9033[^1] | Wienerbrød, herunder wienerbrødstang o.l. |
 | ex 19.05.9091 | Pizzaboller/-snurrer |
-| ex 19.05.90921 | Brød og brødvarer, samt paier o.l., unntatt påsmurte, fylt med innhold av høyst 20 % pølse, kjøtt, flesk eller slakteavfall |
-| ex 19.05.90981 | Annet bakverk |
+| ex 19.05.9092[^1] | Brød og brødvarer, samt paier o.l., unntatt påsmurte, fylt med innhold av høyst 20 % pølse, kjøtt, flesk eller slakteavfall |
+| ex 19.05.9098[^1] | Annet bakverk |
 | ex 20.05.2010 | Tørket potetmos |
 | 21.03.9010 | Majones og remulade |
 | 21.03.9099 | Sauser og preparater, ellers |

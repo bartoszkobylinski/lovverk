@@ -15,7 +15,7 @@ xml_hash: "0d0f8c3d6a73a6c7af4d4c95736a11e980c664d4a2115f3809aa2e9a25b05f3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,7 @@ Forskriften trer i kraft 1. august 2012. Samtidig oppheves [forskrift 28. april 
 
 ## Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport (AETR)
 
-*(Konsolidert versjon)\**
+*(Konsolidert versjon)[^\*]*
 
 \* Denne konsoliderte versjonen erstatter ikke den eneste autentiske teksten, som er teksten til Den europeiske avtalen om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport (AETR) av 1. juli 1970, som er deponert hos De forente nasjoners generalsekretær. Denne versjonen har som eneste formål å gjøre det lettere å lese og forstå AETR og omfatter den opprinnelige avtalen (E/ECE/811; E/ECE/TRANS/564), tilleggene 1-4 (E/ECE/811; E/ECE/TRANS//564/Amend. 1-4), som trådte i kraft henholdsvis 3. august 1983, 24. april 1992, 28. februar 1995 og 27. februar 2004, tillegg nr. 5 (ECE/TRANS/SC.1/375/Add.1), som trådte i kraft 16. juni 2006, og det sjette og siste tillegget (ECE/TRANS/SC.1/386/Add.1), som trådte i kraft 20. september 2010.
 
@@ -83,22 +83,22 @@ I denne avtale forstås ved:
 3. «*tilhenger*», ethvert kjøretøy som er bestemt til å bli koplet til en motorvogn, herunder også semitilhengere,
 4. «*semitrailer*», enhver tilhenger som er bestemt til å bli koplet til en motorvogn på en slik måte at den delvis hviler på motorvognen, og slik at en vesentlig del av dens egen og lastens vekt bæres av motorvognen,
 5. «*vogntog*», kjøretøy som er koplet sammen, og som inngår i veitrafikken som en enhet,
-6. «*tillatt totalmasse*»,1 den største tillatte masse som et kjøretøy med last kan ha i henhold til registreringslandets regler,
-7. «*veitransport*»,2 enhver kjøring helt eller delvis på offentlig veg, med eller uten last, som brukes til person- eller godstransport,
+6. «*tillatt totalmasse*»,[^1] den største tillatte masse som et kjøretøy med last kan ha i henhold til registreringslandets regler,
+7. «*veitransport*»,[^2] enhver kjøring helt eller delvis på offentlig veg, med eller uten last, som brukes til person- eller godstransport,
 8. «*internasjonal veitransport*», enhver veitransport som innebærer minst én grensepassering,
-9. «*rutetransport*»,3 transport av passasjerer etter en bestemt ruteplan langs bestemte ruter, der det tas på eller settes av passasjerer ved forhåndsbestemte stoppesteder.
+9. «*rutetransport*»,[^3] transport av passasjerer etter en bestemt ruteplan langs bestemte ruter, der det tas på eller settes av passasjerer ved forhåndsbestemte stoppesteder.
 
    Et driftsreglement eller dokumenter som trer i stedet for et slikt reglement, og som er godkjent av avtalepartenes kompetente myndigheter og offentliggjort av transportøren før de trer i kraft, skal spesifisere transportvilkårene, og særlig rutefrekvens, rutetabeller, billettpriser og plikten til å ta på passasjerer, i den utstrekning slike vilkår ikke er fastlagt i lov eller forskrift.
 
    Transporttjenester for transport av spesifikke kategorier passasjerer, der andre passasjerer er utelukket, skal, i den grad denne transporten foregår på slike vilkår som er spesifisert i andre ledd i denne definisjonen, regnes som rutetransport, uansett hvem som organiserer den. Slike transporttjenester, og særlig transport av arbeidere til og fra deres arbeidssted og skolebarn til og fra skolen, kalles heretter «spesialrutetransport»,
-10. «*fører*»,4 enhver person som mot vederlag eller ikke, kjører kjøretøyet, også bare for en kort periode, ellers som sitter på – som ledd i sine plikter – for eventuelt å kunne kjøre det,
+10. «*fører*»,[^4] enhver person som mot vederlag eller ikke, kjører kjøretøyet, også bare for en kort periode, ellers som sitter på – som ledd i sine plikter – for eventuelt å kunne kjøre det,
 11. «*mannskap*», fører eller en av de nedenfor nevnte kategorier, uansett om det mottas vederlag eller ikke:
 
     1. sidemann, dvs. enhver som følger føreren for å bistå denne under transporten, og som normalt deltar aktivt i transportarbeidet, uten å være fører som definert i bokstav j) ovenfor,
     2. billettør, dvs. enhver som følger føreren av et kjøretøy som brukes til persontransport, og som særlig har som oppgave å utstede eller kontrollere billetter eller andre dokumenter som gir passasjerene rett til å reise med kjøretøyet,
-12. «*uke*»,5 tidsrommet mellom kl. 0000 mandag og kl. 2400 søndag,
-13. «*hviletid*»,6 enhver uavbrutt periode som føreren fritt kan benytte,
-14. 7 «*pause*», enhver periode som føreren ikke får benytte til kjøring eller annet arbeid, og som utelukkende skal brukes til hvile.,
+12. «*uke*»,[^5] tidsrommet mellom kl. 0000 mandag og kl. 2400 søndag,
+13. «*hviletid*»,[^6] enhver uavbrutt periode som føreren fritt kan benytte,
+14. [^7] «*pause*», enhver periode som føreren ikke får benytte til kjøring eller annet arbeid, og som utelukkende skal brukes til hvile.,
 15. «*døgnhvil*», daglig periode som føreren fritt kan benytte og som kan være 'normal døgnhvil' og en 'redusert døgnhvil':
 
     1. «*normal døgnhvil*», en hvileperiode på minst 11 timer, som alternativt kan deles opp i to perioder, der den første må vare uavbrutt i minst 3 timer og den andre ha en uavbrutt varighet på minst 9 timer,
@@ -129,7 +129,7 @@ I denne avtale forstås ved:
 
 7 Definisjonene n) til w) lagt til i avtaletillegg nr. 6.
 
-### Artikkel 21
+### Artikkel 2[^1]
 
 *Gyldighetsområde*
 
@@ -151,7 +151,7 @@ I denne avtale forstås ved:
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
-### Artikkel 31
+### Artikkel 3[^1]
 
 *Anvendelse av noen av avtalens bestemmelser på veitransport foretatt med kjøretøy som er registrert i andre stater enn de som er part i avtalen*
 
@@ -164,7 +164,7 @@ I denne avtale forstås ved:
 
 1 Endret i avtaletillegg nr. 1, 2 og 6.
 
-### Artikkel 41
+### Artikkel 4[^1]
 
 *Generelle prinsipper*
 
@@ -172,7 +172,7 @@ Hver avtalepart kan anvende høyere minimumskrav eller lavere maksimumskrav enn 
 
 1 Endret i avtaletillegg nr. 2.
 
-### Artikkel 51
+### Artikkel 5[^1]
 
 *Mannskaper*
 
@@ -194,7 +194,7 @@ Alle førere som kjører passasjerer på turer lenger enn 50 km fra det stedet d
 
 1 Endret i avtaletillegg nr. 2.
 
-### Artikkel 61
+### Artikkel 6[^1]
 
 *Kjøreperioder*
 
@@ -210,7 +210,7 @@ Alle førere som kjører passasjerer på turer lenger enn 50 km fra det stedet d
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
-### Artikkel 71
+### Artikkel 7[^1]
 
 *Pauser*
 
@@ -224,7 +224,7 @@ Alle førere som kjører passasjerer på turer lenger enn 50 km fra det stedet d
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
-### Artikkel 81
+### Artikkel 8[^1]
 
 *Hvileperioder*
 
@@ -271,7 +271,7 @@ Dersom den delen av døgnhvilen som faller innenfor den nevnte 24-timersperioden
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
-### Artikkel 8 bis1
+### Artikkel 8 bis[^1]
 
 *Unntak fra artikkel 8*
 
@@ -288,7 +288,7 @@ Føreren skal under hele døgnhvilen ha tilgang til køye eller liggeplass.
 
 1 Lagt til i avtaletillegg nr. 6.
 
-### Artikkel 91
+### Artikkel 9[^1]
 
 *Unntak*
 
@@ -296,7 +296,7 @@ Dersom det ikke setter trafikksikkerheten i fare, kan føreren fravike bestemmel
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
-### Artikkel 101
+### Artikkel 10[^1]
 
 *Fartsskriver*
 
@@ -308,7 +308,7 @@ Dersom det ikke setter trafikksikkerheten i fare, kan føreren fravike bestemmel
 
 1 Endret i avtaletillegg nr. 1, 2, 3 og 5.
 
-### Artikkel 111
+### Artikkel 11[^1]
 
 *Transportforetakenes ansvar*
 
@@ -326,7 +326,7 @@ Uten at det påvirker avtalepartenes rett til å holde transportforetakene fullt
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
-### Artikkel 121
+### Artikkel 12[^1]
 
 *Tiltak for å håndheve avtalen*
 
@@ -378,7 +378,7 @@ Avtalepartene skal fra 2011 undersøke muligheten for å fjerne unntaket i nr. 6
 
 1 Endret i avtaletillegg nr. 2, 4 og 6.
 
-### Artikkel 12 bis1
+### Artikkel 12 bis[^1]
 
 *Standardiserte skjemaer*
 
@@ -392,7 +392,7 @@ Avtalepartene skal fra 2011 undersøke muligheten for å fjerne unntaket i nr. 6
 
 1 Lagt til i avtaletillegg nr. 6.
 
-### Artikkel 131
+### Artikkel 13[^1]
 
 *Overgangsbestemmelser*
 
@@ -411,7 +411,7 @@ Bestemmelsene i foregående nummer skal også gjelde i de tilfeller der en stat 
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 5.
 
-### Artikkel 13 bis1
+### Artikkel 13 bis[^1]
 
 *Overgangsbestemmelser*
 
@@ -443,7 +443,7 @@ Bestemmelsene som det refereres til på slutten av artikkel 12 nr. 7 bokstav a) 
 
 Denne avtale skal ikke lenger gjelde dersom antallet avtaleparter er mindre enn tre i en periode på tolv måneder i strekk etter at avtalen er trådt i kraft.
 
-### Artikkel 171
+### Artikkel 17[^1]
 
 1\. Enhver stat kan ved undertegningen av denne avtale eller ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument, eller på et hvilket som helst senere tidspunkt, gjennom en underretning adressert til FNs generalsekretær, erklære at avtalens gyldighetsområde skal utvides til også å gjelde ett eller flere territorier som vedkommende stat er ansvarlig for utenriksforbindelsene til. Avtalen skal gjelde for det eller de territorier som er nevnt i underretningen, fra den etthundreogåttiende dagen etter at generalsekretæren mottok underretningen, eller, dersom avtalen ennå ikke er trådt i kraft på det tidspunktet, fra den dato avtalen trer i kraft.
 
@@ -459,7 +459,7 @@ Denne avtale skal ikke lenger gjelde dersom antallet avtaleparter er mindre enn 
 
 3\. Avgjørelsen til den eller de voldgiftsmenn som blir utnevnt i henhold til foregående nummer, skal være bindende for de avtaleparter som er berørt av tvisten.
 
-### Artikkel 191
+### Artikkel 19[^1]
 
 1\. Enhver stat kan ved undertegningen eller ratifiseringen av, eller ved tiltredelsen til denne avtale, erklære at den ikke anser seg bundet av avtalens artikkel 18 nr. 2 og 3. De andre avtalepartene skal ikke være bundet av de nevnte bestemmelsene overfor en avtalepart som har tatt et slikt forbehold.
 
@@ -473,7 +473,7 @@ Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innve
 
 1 Endret i avtaletillegg nr. 2.
 
-### Artikkel 201
+### Artikkel 20[^1]
 
 1\. Etter at denne avtale har vært i kraft i tre år, kan enhver avtalepart gjennom en melding adressert til FNs generalsekretær be om at det blir kalt sammen til en konferanse for å revidere avtalen. Generalsekretæren skal underrette alle avtalepartene om anmodningen, og han skal kalle sammen til en revisjonskonferanse dersom ikke mindre enn en tredjedel av avtalepartene gir sitt samtykke til anmodningen innen fire måneder etter at de ble underrettet av generalsekretæren.
 
@@ -483,7 +483,7 @@ Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innve
 
 1 Endret i avtaletillegg nr. 2.
 
-### Artikkel 211
+### Artikkel 21[^1]
 
 1\. Enhver avtalepart kan foreslå en eller flere endringer i denne avtale. Teksten til ethvert endringsforslag skal sendes til FNs generalsekretær, som skal formidle det videre til alle avtalepartene og informere om det til alle de andre statene som det er referert til i artikkel 14 nr. 1 i denne avtale.
 
@@ -514,7 +514,7 @@ Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innve
 
 1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 5.
 
-### Artikkel 221
+### Artikkel 22[^1]
 
 1\. Tilleggene 1 og 2 til vedlegget til denne avtale kan endres gjennom prosedyren som er fastsatt i denne artikkel.
 
@@ -530,7 +530,7 @@ Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innve
 
 1 Lagt til i avtaletillegg nr. 2 og senere endret i avtaletillegg nr. 5.
 
-### Artikkel 22 bis1
+### Artikkel 22 bis[^1]
 
 *Prosedyre for endring av tillegg 1B*
 
@@ -538,7 +538,7 @@ Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innve
 
 2\. Ethvert forslag til endring av de innledende artikler i tillegg 1B skal vedtas av Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa med et flertall av de avtaleparter som er til stede og avgir stemme. En endring som er vedtatt på denne måten skal av sekretariatet til arbeidsgruppen oversendes til generalsekretæren, som så skal underrette alle avtalepartene. Endringen skal tre i kraft tre måneder etter at avtalepartene er underrettet.
 
-3\. Tillegg 1B, som er en utgave tilpasset denne avtale av vedlegg 1B\* til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821), omtalt i avtalens artikkel 10, er direkte avhengig av endringer som innføres i dette vedlegget av Den europeiske union, og enhver endring i dette vedlegget skal gjelde for tillegg 1B på følgende vilkår:
+3\. Tillegg 1B, som er en utgave tilpasset denne avtale av vedlegg 1B[^\*] til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821), omtalt i avtalens artikkel 10, er direkte avhengig av endringer som innføres i dette vedlegget av Den europeiske union, og enhver endring i dette vedlegget skal gjelde for tillegg 1B på følgende vilkår:
 
 - Sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa skal offisielt informere de kompetente myndigheter i alle partstater om publiseringen i EUs offisielle publikasjonsblad, *Official Journal*, av endringer som er innført i vedlegg 1B til rådsforordningen, og sekretariatet skal samtidig formidle denne informasjonen til generalsekretæren sammen med en kopi av de aktuelle tekstene.
 - Disse endringene skal automatisk tre i kraft for tillegg 1B tre måneder etter at alle avtalepartene er informert.
@@ -549,7 +549,7 @@ Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innve
 
 1 Lagt til i avtaletillegg nr. 5.
 
-### Artikkel 22 ter1
+### Artikkel 22 ter[^1]
 
 *Prosedyre for endring av tillegg 3*
 
@@ -563,7 +563,7 @@ Sekretariatet ved FNs økonomiske kommisjon for Europa skal offisielt informere 
 
 1 Lagt til i avtaletillegg nr. 6.
 
-### Artikkel 231
+### Artikkel 23[^1]
 
 I tillegg til å sørge for de underretninger som er omtalt i artikkel 20 og artikkel 21 i denne avtale, skal FNs generalsekretær også underrette de stater som det refereres til i avtalens artikkel 14 nr. 1, om:
 
@@ -581,13 +581,13 @@ I tillegg til å sørge for de underretninger som er omtalt i artikkel 20 og art
 
 Underskriftsprotokollen til denne avtale skal ha samme gyldighet og samme varighet som selve avtalen, som den skal regnes som en integrert del av.
 
-### Artikkel 251
+### Artikkel 25[^1]
 
 Etter 31. mars 1971 skal originalutgaven av denne avtale deponeres hos De forente nasjoners generalsekretær, som skal sende bekreftede kopier av den til hver og en av de stater som det er referert til i avtalens artikkel 14 nr. 1.
 
 1 Endret i avtaletillegg nr. 2.
 
-### Vedlegg1
+### Vedlegg[^1]
 
 *Fartsskriver*
 
@@ -675,7 +675,7 @@ Avtalepartene skal treffe alle nødvendige tiltak for å hindre at kort som blir
 
 Arbeidsgiver og fører skal forsikre seg om at både fartsskriver og førerkort fungerer slik de skal, og at de blir brukt på riktig måte, når en fører får i oppdrag å føre et kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1B.
 
-### Artikkel 111
+### Artikkel 11[^1]
 
 1\. Arbeidsgiveren skal utlevere et tilstrekkelig antall diagramskiver til førere av kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1, og ta hensyn til at skivene er personlige, hvor lenge oppdraget varer og muligheten for at førerne kan bli nødt til å erstatte skiver som blir ødelagt, eller som blir inndratt av autoriserte kontrollører. Arbeidsgiveren skal bare gi førerne diagramskiver som er godkjent og egnet til bruk i den fartsskriveren som er montert i kjøretøyet.
 
@@ -731,7 +731,7 @@ Avtalepartene skal treffe alle nødvendige tiltak for å forsikre seg om at vide
 
 1 Endret i avtaletillegg nr. 6.
 
-### Artikkel 121
+### Artikkel 12[^1]
 
 1\. Førerne skal ikke bruke diagramskiver eller sjåførkort som er tilsmusset eller skadet. Diagramskivene og førerkortene skal derfor oppbevares på et trygt sted der de er beskyttet mot ytre påvirkninger.
 
@@ -757,14 +757,14 @@ Dersom en fører ønsker å fornye sitt førerkort, skal han søke de kompetente
 - påse at det er samsvar mellom den tid som registreres på skiven og den offisielle tiden i det landet der kjøretøyet er registrert,
 - betjene innstillingene på fartsskriveren slik at følgende perioder blir registrert separat og tydelig:
 
-  1. under tegnet  eller 2 : kjøretid,
-  2. under tegnet  eller 2 : perioder med annet arbeid,
-  3. under tegnet  eller 2 : perioder der føreren står til rådighet dvs.:
+  1. under tegnet  eller [^2] : kjøretid,
+  2. under tegnet  eller [^2] : perioder med annet arbeid,
+  3. under tegnet  eller [^2] : perioder der føreren står til rådighet dvs.:
 
      - ventetid, dvs. den tiden føreren må være på plass i påvente av telefoniske henvendelser om å starte eller gjenoppta kjøringen eller utføre annet arbeid,
      - tid som tilbringes ved siden av føreren mens kjøretøyet er i fart,
      - tid som tilbringes i en køyeseng mens kjøretøyet er i fart,
-  4. under tegnet  eller 2 : pauser og døgnhviler.
+  4. under tegnet  eller [^2] : pauser og døgnhviler.
 
 4\. En avtalepart kan tillate at alle perioder som er nevnt i nr. 3 annet strekpunkt bokstav b) og c), blir registrert under tegnet  på diagramskiver som brukes på kjøretøy registrert på vedkommende avtaleparts territorium.
 
@@ -812,7 +812,7 @@ Fartsskriveren skal videre være konstruert slik at det er mulig å kontrollere 
 
 2 Symbol som blir brukt for den digitale fartsskriveren.
 
-### Artikkel 131
+### Artikkel 13[^1]
 
 1\. Dersom en fartsskriver bryter sammen eller fungerer galt, skal arbeidsgiveren sørge for at den blir reparert av en godkjent installatør eller et godkjent verksted så snart forholdene tillater det.
 
@@ -849,7 +849,7 @@ Dersom det ikke er myndighetene i den avtalepart der en fører har sin faste bop
 
 3\. Utskriftene som er omtalt i nr. 1 skal merkes med opplysninger som gjør det mulig å identifisere førerne (navn og førerkortnummer), herunder førernes underskrifter.
 
-### Tillegg 11
+### Tillegg 1[^1]
 Krav til konstruksjon, testing, installering og kontroll
 
 ### I. Definisjoner
@@ -1205,7 +1205,7 @@ Måling av feil under installering og bruk skal foretas under følgende forhold,
 - dekkenes slitasje skal være innenfor de grenser som er fastsatt av gjeldende bestemmelser,
 - kjøretøyets bevegelse: kjøretøyet skal bevege seg for egen motor i en rett linje på et jevnt underlag med en fart på 50 +/-5 km/t. Kontrollen kan også foretas på en egnet prøvestand, under forutsetning av at den er like nøyaktig.
 
-### Tillegg 1B1
+### Tillegg 1B[^1]
 Krav til konstruksjon, testing, installering og kontroll av digitale fartsskrivere som brukes innen veitransport
 
 1 Lagt til i avtaletillegg nr. 5.
@@ -1214,7 +1214,7 @@ Krav til konstruksjon, testing, installering og kontroll av digitale fartsskrive
 
 *Innledning*
 
-1\. Dette tillegget er en tilpasning av vedlegg IB til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985, om bruk av fartsskriver innen veitransport,1 og innholdet i dette vedlegget er, på grunn av sin størrelse og sin svært tekniske karakter, ikke tatt inn i AETR. For den fullstendige offisielle teksten og påfølgende endringer henvises avtalepartene til Den europeiske unionens Official Journal.
+1\. Dette tillegget er en tilpasning av vedlegg IB til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985, om bruk av fartsskriver innen veitransport,[^1] og innholdet i dette vedlegget er, på grunn av sin størrelse og sin svært tekniske karakter, ikke tatt inn i AETR. For den fullstendige offisielle teksten og påfølgende endringer henvises avtalepartene til Den europeiske unionens Official Journal.
 
 Innholdet i dette tillegget er derfor begrenset til en innledning som inneholder referanser til de relevante tekstene fra Den europeiske unionen og de utgavene av *Official Journal* der tekstene er publisert, og som gjennom kryssreferanser belyser de spesielle punktene der det har vært nødvendig å tilpasse det nevnte vedlegget til konteksten i AETR.
 
@@ -1226,7 +1226,7 @@ Innholdet i dette tillegget er derfor begrenset til en innledning som inneholder
 
 *Innledende bestemmelser til tillegg 1B*
 
-1\. I samsvar med artikkel 1 nr. 1 ovenfor blir avtalepartene, når de ønsker å konsultere vedlegg IB, bedt om å slå opp i kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 og kommisjonsforordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (se fotnote nedenfor for datoene disse er publisert på i EUs *Official Journal*,\*) som er sjuende og åttende tilpasning til den tekniske utvikling av rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) om bruk av fartsskriver innen veitransport.
+1\. I samsvar med artikkel 1 nr. 1 ovenfor blir avtalepartene, når de ønsker å konsultere vedlegg IB, bedt om å slå opp i kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 og kommisjonsforordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (se fotnote nedenfor for datoene disse er publisert på i EUs *Official Journal*,[^\*]) som er sjuende og åttende tilpasning til den tekniske utvikling av rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) om bruk av fartsskriver innen veitransport.
 
 2\. For tillegg 1B gjelder følgende:
 
@@ -1289,7 +1289,7 @@ Innholdet i dette tillegget er derfor begrenset til en innledning som inneholder
 
 \*) Endret gjennom rådsforordning [(EF) nr. 2135/98](eu/31998r2135*) av 24. september 1998 (OJ L 274 av 9. oktober 1998) og gjennom kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 (OJ L 207 av 5. august 2002 (corrigendum OJ L 77 av 13. mars 2004)) og forordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (OJ L 71 av 10. mars 2004).
 
-### Tillegg 21
+### Tillegg 2[^1]
 Godkjenningsmerke og godkjenningsdokument
 
 *I. Godkjenningsmerke*
@@ -1345,7 +1345,7 @@ med de påfølgende nummer tildelt slik at:
 
 1 Endret i avtaletillegg nr. 2, 3, 5 og 6.
 
-*II. Typegodkjenningsdokument for produkter som er i samsvar med tillegg 1*1
+*II. Typegodkjenningsdokument for produkter som er i samsvar med tillegg 1*[^1]
 
 En avtalepart som har innvilget en typegodkjenning, skal utstede et typegodkjenningsdokument til søkeren etter nedenstående modell. Ved underretning av andre avtaleparter om at typegodkjenning er gitt eller eventuelt tilbakekalt, skal avtalepartene bruke kopier av dette dokumentet.
 
@@ -1357,7 +1357,7 @@ Se her for å lese dokumentet: [(pdf)](static/SF/sf-20120628-0794-18-01.pdf)
 
 \* Stryk det som ikke passer.
 
-*III. Typegodkjenningsdokument for produkter som er i samsvar med tillegg 1B1*
+*III. Typegodkjenningsdokument for produkter som er i samsvar med tillegg 1B[^1]*
 
 Når en avtalepart har innvilget en typegodkjenning, skal den utstede et typegodkjenningsdokument til søkeren etter nedenstående modell. Avtalepartene skal bruke kopier av dette dokumentet når de underretter andre avtaleparter om at typegodkjenning er gitt eller eventuelt tilbakekalt.
 
@@ -1367,7 +1367,7 @@ Se her for å lese dokumentet: [(pdf)](static/SF/sf-20120628-0794-19-01.pdf)
 
 1 Lagt til i avtaletillegg nr. 5.
 
-### Tillegg 31
+### Tillegg 3[^1]
 
 *Standardskjemaer*
 
@@ -1389,7 +1389,7 @@ I samsvar med artikkel 12 bis i denne avtale kan veitransportforetak bruke følg
 
 1 Lagt til i avtaletillegg nr. 6.
 
-*Attestation of activities\* /Formulaire d'attestation d'activités\* /Fraværsskjema*\*
+*Attestation of activities[^\*] /Formulaire d'attestation d'activités[^\*] /Fraværsskjema*[^\*]
 
 Se her for å lese skjemaet: [(pdf)](static/SF/sf-20120628-0794-20-01.pdf)
 

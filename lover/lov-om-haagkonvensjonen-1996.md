@@ -15,7 +15,7 @@ xml_hash: "6b05516c5193ea65994cf09d2e5d884006817c62e18dfe3f578bfc95cdd85318"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1. Gjennomføring i norsk rett
 
-[Konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid om foreldremyndighet og tiltak for beskyttelse av barn](traktat/1996-10-19-26) gjelder som norsk lov.1
+[Konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid om foreldremyndighet og tiltak for beskyttelse av barn](traktat/1996-10-19-26) gjelder som norsk lov.[^1]
 
 1 Konvensjonen er ratifisert og gjeldende for Norge fra 1 juli 2016. Konvensjonen trådte i kraft 1 jan 2002.
 
@@ -112,7 +112,7 @@ Loven gjelder også for Svalbard og Jan Mayen.
 
 ### § 13. Ikraftsetting
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 juli 2016 iflg. [res. 4 mars 2016 nr. 217](forskrift/2016-03-04-217). Fra samme tidspunkt er [Haagkonvensjonen 1996](traktat/1996-10-19-26) gjeldende for Norge.
 

@@ -15,7 +15,7 @@ xml_hash: "f8e9ad123a2a248cad2a15124ab02af0117fbee490b504a788a1df21abf3069c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,6 +55,6 @@ I [lov av 17. juli 1953 nr. 2](lov/1953-07-17-2) om erstatning for krigsskade p�
 
 ## § 6. Iverksetjing
 
-Lova tek til å gjelde frå den tid Kongen fastset.1
+Lova tek til å gjelde frå den tid Kongen fastset.[^1]
 
 1 Frå 1 jan 2004 iflg. [res. 12 des 2003 nr. 1507](forskrift/2003-12-12-1507).

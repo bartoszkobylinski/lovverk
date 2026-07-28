@@ -15,7 +15,7 @@ xml_hash: "ce272ceb31874b7944f1406399c951a79dfef67650c02438ae7a8addd2e2e5e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,6 +58,6 @@ Departementet kan gi forskrift om aksjeselskapets organisering og saksbehandling
 
 ## § 6. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen1 bestemmer.
+Loven trer i kraft fra den tid Kongen[^1] bestemmer.
 
 1 Fra 1 jan 2001 iflg. [res. 7. juli 2000 nr. 728](forskrift/2000-07-07-728).

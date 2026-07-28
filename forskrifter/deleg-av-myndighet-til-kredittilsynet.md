@@ -15,7 +15,7 @@ xml_hash: "da53122711b8a5473bac99a756312bb1e6f440e027006415f98b00972e84fc1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Den delegerte myndighet til Kredittilsynet gjelder for kurante saker. Saker av v
 
 Finansdepartementet gir med dette – og på grunnlag av presiseringen i pkt. 1 ovenfor – Kredittilsynet myndighet til å treffe vedtak, og fastsette forskrift etter følgende bestemmelser, i tillegg til den myndighet som allerede er delegert:
 
-*[Lov av 14. juni 1985 nr. 62](lov/1985-06-14-62) om Verdipapirsentral*1
+*[Lov av 14. juni 1985 nr. 62](lov/1985-06-14-62) om Verdipapirsentral*[^1]
 
 |  |  |
 | --- | --- |

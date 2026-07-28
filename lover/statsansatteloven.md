@@ -15,7 +15,7 @@ xml_hash: "7528888335162efec68280f92932ea6a44016b57e66769840d28a13e307a7823"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -501,7 +501,7 @@ For å forebygge interessekonflikter, kan en virksomhet fastsette at ansatte i b
 
 ### § 40. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 juli 2017 iflg. [res. 16 juni 2017 nr. 763](forskrift/2017-06-16-763).
 

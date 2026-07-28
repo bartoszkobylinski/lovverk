@@ -15,7 +15,7 @@ xml_hash: "41c48b5432835e238da6ab63db89a16b513c24d54c8bd589fb44c93c899d1318"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -150,6 +150,6 @@ Departementet kan videre gi forskrift om lovens anvendelse på Svalbard, herunde
 
 ### § 20. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2018 iflg. [res. 15 des 2017 nr. 2040](forskrift/2017-12-15-2040).

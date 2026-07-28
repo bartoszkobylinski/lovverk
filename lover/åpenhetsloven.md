@@ -15,7 +15,7 @@ xml_hash: "c1c130268201d3aa8d625b0b3d4017ebe1eb54c4819948af53b87d13ffa3ec2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -176,6 +176,6 @@ Departementet kan gi forskrift om utmåling av overtredelsesgebyr.
 
 ## § 15. Ikrafttredelse
 
-Loven gjelder fra den tiden Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2022 iflg. [res. 1 okt 2021 nr. 2919](forskrift/2021-10-01-2919).

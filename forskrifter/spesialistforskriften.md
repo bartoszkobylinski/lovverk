@@ -15,7 +15,7 @@ xml_hash: "e9a40f56980261e5909f1298bbc8b073d47a1f724666ecea9b969bdfc45a9015"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -687,7 +687,7 @@ Læringsmålene dekker et grunnleggende sett av kompetanser alle leger må ha fo
 - FKM-013:   Ha god kunnskap om egen rolle i møtet med samarbeidende profesjoner og selvstendig kunne bidra til hensiktsmessig samhandling.
 - FKM-014:   Ha god kunnskap om egen rolle i beredskapssituasjoner på eget arbeidssted.
 
-### [Tidligere kapittel A, læringsmål Del 1.1
+### [Tidligere kapittel A, læringsmål Del 1.[^1]
 
 1 Læringsmål i Del 1 som vist her ble opphevet 1. september 2025. Leger i spesialisering (LIS) som har startet del 1 sykehustjenesten før ikrafttredelsen, kan fullføre sykehustjenesten etter gammel plan for sykehus og kommune, men ikke lenger enn til 1. september 2027. Læringsmål Del 2-3 ble opphevet 1. mars 2026 og er tatt ut av dette kapittelet.
 

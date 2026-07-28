@@ -15,7 +15,7 @@ xml_hash: "724cfb8af110f5a5cb260b8b326c94c1b15f0527def721f677edc9408e093fa7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -310,7 +310,7 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 (1) Følgende frekvensbånd tillates brukt til trådløse mikrofoner slik frekvensbruken er beskrevet i standardene EN 300 422-1, EN 300 422-2, og EN 300 422-3:
 
 1. 41,0–43,6 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Amplitudemodulasjon tillates ikke.
-2. Ledige frekvenser i frekvensbåndet 494–694 MHz og 733–758 MHz1 tillates brukt. Ledige frekvenser vises gjennom internettjenesten2 som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 50 mW e.r.p.
+2. Ledige frekvenser i frekvensbåndet 494–694 MHz og 733–758 MHz[^1] tillates brukt. Ledige frekvenser vises gjennom internettjenesten[^2] som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 50 mW e.r.p.
 3. 823–826 MHz. Maksimal tillatt utstrålt effekt er 20 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz. For bruk som er begrenset til kroppsbåret mikrofon er maksimal tillatt utstrålt effekt 100 mW e.i.r.p.
 4. 826–832 MHz. Maksimal tillatt utstrålt effekt er 100 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz.
 5. 863–865 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Frekvensbåndet tillates brukt som beskrevet i standarden EN 301 357.
@@ -345,7 +345,7 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 
 (1) Frekvensbåndet 169,4–174,0 MHz tillates brukt til hjelpeutstyr for hørselshemmede (ALD) slik frekvensbruken er beskrevet i standarden EN 300 422-4. Maksimalt tillatt utstrålt effekt er 10 mW e.r.p. For frekvensene 169,4000–169,4750 MHz og 169,4875–169,5875 MHz er maksimalt tillatt utstrålt effekt 500 mW e.r.p. Maksimalt okkupert båndbredde per kanal er 50 kHz.
 
-(2) Ledige frekvenser i frekvensbåndet 173,965–216 MHz tillates brukt til hjelpeutstyr for hørselshemmede (ALD) slik frekvensbruken er beskrevet i standarden EN 300 422-4. Ledige frekvenser vises gjennom internettjenesten1 som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimalt okkupert båndbredde per kanal er 50 kHz.
+(2) Ledige frekvenser i frekvensbåndet 173,965–216 MHz tillates brukt til hjelpeutstyr for hørselshemmede (ALD) slik frekvensbruken er beskrevet i standarden EN 300 422-4. Ledige frekvenser vises gjennom internettjenesten[^1] som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimalt okkupert båndbredde per kanal er 50 kHz.
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018).
 
@@ -361,7 +361,7 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 
 ### § 17. Mobile videolinker
 
-Senterfrekvensene 2327 MHz og 2390 MHz tillates brukt til mobil videolink1 med maksimal tillatt utstrålt effekt 2 W e.i.r.p. Maksimal okkupert båndbredde per kanal er 8 MHz.
+Senterfrekvensene 2327 MHz og 2390 MHz tillates brukt til mobil videolink[^1] med maksimal tillatt utstrålt effekt 2 W e.i.r.p. Maksimal okkupert båndbredde per kanal er 8 MHz.
 
 > Endret ved forskrift [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
 

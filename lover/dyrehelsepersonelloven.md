@@ -15,7 +15,7 @@ xml_hash: "46072f94cf3d12adabbcca1e05c1fb655e4d6ba8b6cc10e5d2c92168f2a16a89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,7 @@ Departementet gir nærmere forskrifter om betingelsene for å få lisens og de v
 
 ### § 6. Internasjonale avtaler
 
-Autorisasjon, lisens og andre godkjenninger kan gis etter gjensidig avtale med fremmed stat.1 Departementet kan ved forskrift gi nærmere regler om autorisasjon, lisens og godkjenninger av dyrehelsepersonell på grunnlag av utenlandske yrkeskvalifikasjoner samt kontroll, plikter og rettigheter for slikt dyrehelsepersonell.
+Autorisasjon, lisens og andre godkjenninger kan gis etter gjensidig avtale med fremmed stat.[^1] Departementet kan ved forskrift gi nærmere regler om autorisasjon, lisens og godkjenninger av dyrehelsepersonell på grunnlag av utenlandske yrkeskvalifikasjoner samt kontroll, plikter og rettigheter for slikt dyrehelsepersonell.
 
 > Endret ved [lov 19 des 2008 nr. 120](lov/2008-12-19-120) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1483](forskrift/2008-12-19-1483)).
 
@@ -142,7 +142,7 @@ Departementet kan i medhold av [§ 5](lov/2001-06-15-75/§5) knytte vilkår til 
 
 Dyrehelsepersonell plikter snarest mulig etter anmodning å yte den hjelp vedkommende evner – personlig eller ved stedfortreder – når det etter tilgjengelige opplysninger må antas at øyeblikkelig hjelp er påtrengende nødvendig. Plikten faller bort ved gyldig forfall eller ved at hjelp i tide blir ytt av annet dyrehelsepersonell.
 
-For den hjelp dyrehelsepersonell har ytt etter foregående ledd, kan hun eller han kreve en passende godtgjørelse fra staten dersom hun eller han ikke etter krav får betaling av rekvirenten eller den som har betalingsplikten. Dersom rekvirenten eller dyrehelsepersonellet selv har hjelpeplikt etter [dyrevelferdsloven1 § 4](lov/2009-06-19-97/§4) og dyret er viltlevende eller ikke har en kjent eier eller innehaver, kan dyrehelsepersonell kreve en passende godtgjørelse fra staten for nødvendig hjelp.
+For den hjelp dyrehelsepersonell har ytt etter foregående ledd, kan hun eller han kreve en passende godtgjørelse fra staten dersom hun eller han ikke etter krav får betaling av rekvirenten eller den som har betalingsplikten. Dersom rekvirenten eller dyrehelsepersonellet selv har hjelpeplikt etter [dyrevelferdsloven[^1] § 4](lov/2009-06-19-97/§4) og dyret er viltlevende eller ikke har en kjent eier eller innehaver, kan dyrehelsepersonell kreve en passende godtgjørelse fra staten for nødvendig hjelp.
 
 Departementet kan gi forskrifter om når øyeblikkelig hjelp er påtrengende nødvendig, hva som er nødvendig hjelp, passende godtgjørelse og om andre vilkår for godtgjørelse etter denne bestemmelsen.
 
@@ -366,9 +366,9 @@ Avgifter og gebyrer er tvangsgrunnlag for utlegg.
 
 ### § 38. Ikrafttreden
 
-Denne loven trer i kraft fra den tid Kongen bestemmer.1 Samtidig oppheves [lov 10. desember 1948 nr. 3](lov/1948-12-10-3) om veterinærer m.v.
+Denne loven trer i kraft fra den tid Kongen bestemmer.[^1] Samtidig oppheves [lov 10. desember 1948 nr. 3](lov/1948-12-10-3) om veterinærer m.v.
 
-Bestemmelsene i [§ 17](lov/2001-06-15-75/§17) annet ledd om fiskehelsebiologers rett til rekvirering av legemidler gjelder ikke før det tidspunkt departementet bestemmer.2
+Bestemmelsene i [§ 17](lov/2001-06-15-75/§17) annet ledd om fiskehelsebiologers rett til rekvirering av legemidler gjelder ikke før det tidspunkt departementet bestemmer.[^2]
 
 1 Fra 1 jan 2002 iflg. [res. 15 juni 2001 nr. 711](forskrift/2001-06-15-711), med unntak av § 17 (2), som trådte ikr. 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).
 

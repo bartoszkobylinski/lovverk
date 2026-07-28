@@ -15,7 +15,7 @@ xml_hash: "3eec81a0ec49d7d51404b531cbe22dc5a05a66b83c815046babf87d10c9eb449"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -235,6 +235,6 @@ Når det foreligger testresultater som viser at materialet tilfredsstiller krave
 
 ### § 27. Ikrafttreden.
 
-Disse forskrifter trer i kraft straks. Samtidig oppheves Fiskeridirektørens forskrift av 4. november 19831 om tekniske krav for godkjenning av merkeutstyr til fiskeredskaper.
+Disse forskrifter trer i kraft straks. Samtidig oppheves Fiskeridirektørens forskrift av 4. november 1983[^1] om tekniske krav for godkjenning av merkeutstyr til fiskeredskaper.
 
 1 Ikke kunngjort i Norsk Lovtidend

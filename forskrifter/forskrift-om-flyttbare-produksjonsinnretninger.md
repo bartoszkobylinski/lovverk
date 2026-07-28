@@ -15,7 +15,7 @@ xml_hash: "8f80fe9bab4e82fec01e7e0c481f9269bab91abad66d713916de88e2e8789b4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -237,8 +237,8 @@ Tabell II Sikkerhetsfaktorer
 | Intakttilstand | 3.0 | 2.5 | 2.7 | 2.3 | 2.0 | 1.65 |
 | Likevektsposisjon etter enkeltfeil | 2.0 | 1.65 | 1.8 | 1.5 | 1.4 | 1.25 |
 | Maksimum utsving etter enkeltfeil | 1.4 | 1.2 | 1.4 | 1.2 | 1.1 | 1.0 |
-| Likevektposisjon\* etter dobbeltfeil |  |  | 2.0 | 1.65 | 1.8 | 1.5 |
-| Maksimum utsving\* etter dobbeltfeil |  |  | 1.4 | 1.2 | 1.4 | 1.2 |
+| Likevektposisjon[^\*] etter dobbeltfeil |  |  | 2.0 | 1.65 | 1.8 | 1.5 |
+| Maksimum utsving[^\*] etter dobbeltfeil |  |  | 1.4 | 1.2 | 1.4 | 1.2 |
 
 DY= Dynamisk beregningsmetode
 
@@ -352,7 +352,7 @@ KY= Kvasistatisk beregningsmetode
    - skumlegging av tankdekket,
    - det antall slangeposter som kan benyttes samtidig for slokking av brann i dette området,
    - overrisling for avkjøling av områder og utstyr, som for eksempel ytre skott av tilstøtende områder og helifueltanker; avhengig av arrangement og grad av passiv brannbeskyttelse.
-3. Tilleggskrav til antall, plassering og beskyttelse av brannpumpesystem med krafttilførsel, skal vurderes og avgjøres på grunnlag av utført risikoanalyse, jf. risikoanalyseforskriften.1
+3. Tilleggskrav til antall, plassering og beskyttelse av brannpumpesystem med krafttilførsel, skal vurderes og avgjøres på grunnlag av utført risikoanalyse, jf. risikoanalyseforskriften.[^1]
 
 > Endret ved [forskrift 11 april 2003 nr. 544](forskrift/2003-04-11-544) (i kraft 1 juli 2003).
 
@@ -364,7 +364,7 @@ KY= Kvasistatisk beregningsmetode
 
    Det skal være nok skumkonsentrat til å opprettholde skumlegging i minst 15 minutter. Skumkonsentrat skal kunne forsynes fra to adskilte og beskyttede områder på innretningen.
 2. Rederiet skal med grunnlag i en risikoanalyse foreslå type og arrangement av det fastmonterte brannbeskyttelsesanlegget for den produksjonstekniske installasjonen.
-3. Overrislingsanlegg1 skal som minimum installeres for å dekke de nedenfor nevnte områder og utstyr, og ha følgende minimumskapasiteter:
+3. Overrislingsanlegg[^1] skal som minimum installeres for å dekke de nedenfor nevnte områder og utstyr, og ha følgende minimumskapasiteter:
 
    | *Område:* | *Kapasitet:* |
    | --- | --- |
@@ -470,7 +470,7 @@ For innretninger som lagrer produserte hydrokarboner om bord skal arrangement og
 
 ### § 34. Sikringstiltak mot forurensning
 
-Den flyttbare innretningen skal være konstruert og ha et arrangement som forhindrer at det oppstår akutt foruresning fra fra fartøyets lagrings eller losseoverføringssystem.\* Prosedyrer for operering av arrangement skal inntas i operasjonsmanualen.
+Den flyttbare innretningen skal være konstruert og ha et arrangement som forhindrer at det oppstår akutt foruresning fra fra fartøyets lagrings eller losseoverføringssystem.[^\*] Prosedyrer for operering av arrangement skal inntas i operasjonsmanualen.
 
 \* Vedrørende utslipp av oljedamper vises til IMO; «Standard for vapour emission control systems».
 

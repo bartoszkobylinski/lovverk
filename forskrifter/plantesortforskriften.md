@@ -15,7 +15,7 @@ xml_hash: "d31f275dae52a6ca1bce29c6ba58abcbe63706ca885b6213751e157e7355cc53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -332,16 +332,16 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til rådsdirektiv [2002/53/EF](eu/32002l0053) av 13. juni 2002 om den felles sortsliste for jordbruksvekster1, særlig artikkel 9 nr. 6 andre ledd,
+under henvisning til rådsdirektiv [2002/53/EF](eu/32002l0053) av 13. juni 2002 om den felles sortsliste for jordbruksvekster[^1], særlig artikkel 9 nr. 6 andre ledd,
 
-under henvisning til rådsdirektiv [2002/55/EF](eu/32002l0055) av 13. juni 2002 om markedsføring av grønnsakfrø2, særlig artikkel 9 nr. 6 andre ledd, og
+under henvisning til rådsdirektiv [2002/55/EF](eu/32002l0055) av 13. juni 2002 om markedsføring av grønnsakfrø[^2], særlig artikkel 9 nr. 6 andre ledd, og
 
 ut fra følgende betraktninger:
 
-1. I direktiv [2002/53/EF](eu/32002l0053) og [2002/55/EF](eu/32002l0055) er det fastsatt generelle regler med hensyn til egnetheten av sortsnavn, ved en henvisning til artikkel 63 i rådsforordning [(EF) nr. 2100/94](eu/31994r2100)3.
+1. I direktiv [2002/53/EF](eu/32002l0053) og [2002/55/EF](eu/32002l0055) er det fastsatt generelle regler med hensyn til egnetheten av sortsnavn, ved en henvisning til artikkel 63 i rådsforordning [(EF) nr. 2100/94](eu/31994r2100)[^3].
 2. I henhold til artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) er det nødvendig for at en plantesort skal kunne godkjennes, at Fellesskapets plantesortskontor (CPVO) anser det aktuelle sortsnavnet som egnet. Et sortsnavn er egnet dersom det ikke finnes noen hindringer, i samsvar med nr. 3 og 4 i nevnte artikkel.
-3. I kommisjonsforordning [(EF) nr. 637/2009](eu/32009r0637)4 fastsettes det nærmere regler for anvendelsen av visse kriterier fastsatt i artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) med hensyn til hvor egnet sortsnavn for jordbruksvekster og grønnsaksarter er med henblikk på anvendelsen av artikkel 9 nr. 6 første ledd i direktiv [2002/53/EF](eu/32002l0053) og artikkel 9 nr. 6 første ledd i direktiv [2002/55/EF](eu/32002l0055).
-4. CPVO og medlemsstatene opprettet en ekspertgruppe som utarbeidet og endret retningslinjene for egnetheten av sortsnavn i henhold til artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) («retningslinjer for sortsnavn»)5. For å sikre konsekvent anvendelse av kriteriene fastsatt i artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) bør det utarbeides ytterligere presiseringer av retningslinjene for sortsnavn.
+3. I kommisjonsforordning [(EF) nr. 637/2009](eu/32009r0637)[^4] fastsettes det nærmere regler for anvendelsen av visse kriterier fastsatt i artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) med hensyn til hvor egnet sortsnavn for jordbruksvekster og grønnsaksarter er med henblikk på anvendelsen av artikkel 9 nr. 6 første ledd i direktiv [2002/53/EF](eu/32002l0053) og artikkel 9 nr. 6 første ledd i direktiv [2002/55/EF](eu/32002l0055).
+4. CPVO og medlemsstatene opprettet en ekspertgruppe som utarbeidet og endret retningslinjene for egnetheten av sortsnavn i henhold til artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) («retningslinjer for sortsnavn»)[^5]. For å sikre konsekvent anvendelse av kriteriene fastsatt i artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) bør det utarbeides ytterligere presiseringer av retningslinjene for sortsnavn.
 5. Forordning [(EF) nr. 637/2009](eu/32009r0637) er blitt endret flere ganger. I lys av behovet for å endre eksisterende regler og av hensyn til rettslig forutsigbarhet bør forordningen oppheves og erstattes med denne forordningen.
 6. Et sortsnavn skal godkjennes med mindre det finnes hindringer som gjør det uegnet. I henhold til artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) foreligger det en hindring for bruken av et sortsnavn dersom en tredjepart har en eldre rettighet, dersom navnet er vanskelig for brukerne å kjenne igjen eller gjengi, dersom det er identisk med en betegnelse for en sort av samme eller en nært beslektet art, dersom det er identisk med andre betegnelser som er vanlig i bruk ved markedsføring av varer, dersom det kan virke støtende i en av medlemsstatene eller strider mot den offentlige orden eller dersom det vil kunne skape forvirring med hensyn til visuell, fonetisk eller begrepsmessig likhet eller villedende innhold.
 7. For å gi vedkommende myndigheter tilstrekkelig tid til å ta i bruk de nye reglene bør denne forordningen få anvendelse fra 1. januar 2022.
@@ -387,10 +387,10 @@ I denne forordningen fastsettes det nærmere regler for anvendelsen av kriterien
 
 2\. Dersom en tredjepart har en eldre rettighet til geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler, alkoholsterke drikker, aromatiserte viner og vinprodukter, anses det som en hindring for bruken av et sortsnavn på Unionens territorium når sortsnavnet vil være i strid med
 
-1. artikkel 13 eller 24 i europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151)6,
-2. artikkel 103 i europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308)7,
-3. artikkel 20 i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251)8,
-4. artikkel 21 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 2019/787](eu/32019r0787)9.
+1. artikkel 13 eller 24 i europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151)[^6],
+2. artikkel 103 i europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308)[^7],
+3. artikkel 20 i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251)[^8],
+4. artikkel 21 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 2019/787](eu/32019r0787)[^9].
 
 ►**EØS** Det samme gjelder for EFTA-statene når det gjelder bestemmelsene listet i punkt b til d. Når det gjelder bestemmelsene i punkt a, skal et sortsnavn på EFTA-statenes territorier hindres når sortsnavnet ville være i strid med tilsvarende nasjonale bestemmelser i EFTA-statene som gjelder geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler. ◄**EØS**
 
@@ -526,8 +526,8 @@ KLASSER SOM OMFATTER MER ENN ÉN SLEKT
 | *Klasser* | *Botaniske navn* |
 | --- | --- |
 | Klasse 201: | *Secale*, *Triticosecale*, *Triticum* |
-| Klasse 203\*: | *Agrostis*, *Dactylis*, *Festuca*, *Festulolium*, *Lolium*, *Phalaris*, *Phleum* og *Poa* |
-| Klasse 204\*: | *Lotus*, *Medicago*, *Ornithopus*, *Onobrychis*, *Trifolium* |
+| Klasse 203[^\*]: | *Agrostis*, *Dactylis*, *Festuca*, *Festulolium*, *Lolium*, *Phalaris*, *Phleum* og *Poa* |
+| Klasse 204[^\*]: | *Lotus*, *Medicago*, *Ornithopus*, *Onobrychis*, *Trifolium* |
 | Klasse 205: | *Cichorium*, *Lactuca* |
 
 \* Klasse 203 og 204 er ikke utelukkende fastsatt på grunnlag av nært beslektede arter.

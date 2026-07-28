@@ -15,7 +15,7 @@ xml_hash: "847272341428ad0034fedee3289058ec3b9ccea342e468f22ec73cda5b309bcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Kongens myndighet etter lov om behandling av personopplysninger delegeres til Ko
 
 ## § 7. Ikrafttredelse
 
-Forskriften trer i kraft samtidig med at lov om behandling av personopplysninger trer i kraft.1
+Forskriften trer i kraft samtidig med at lov om behandling av personopplysninger trer i kraft.[^1]
 
 Fra samme tidspunkt oppheves [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger.
 

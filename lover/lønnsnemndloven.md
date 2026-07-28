@@ -15,7 +15,7 @@ xml_hash: "9d1ff2b4bd4232ae0837ea81092a8392e957b58f021a37ba9013301a830ac1ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,6 +64,6 @@ Rikslønnsnemnda har sete i Oslo.
 
 ## § 6. Ikraftsetting
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra den tid loven trer i kraft, oppheves [lov 19. desember 1952 nr. 7](lov/1952-12-19-7) om lønnsnemnd i arbeidstvister.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra den tid loven trer i kraft, oppheves [lov 19. desember 1952 nr. 7](lov/1952-12-19-7) om lønnsnemnd i arbeidstvister.
 
 1 Fra 1 mars 2012 iflg. [res. 27 jan 2012 nr. 72](forskrift/2012-01-27-72).

@@ -15,7 +15,7 @@ xml_hash: "ca464a8800897b200d47a8c7a90cc7722ac2da12fc7ec542ccfbd0ba4775083e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -478,7 +478,7 @@ Den som forsettlig eller grovt uaktsomt gir vesentlig uriktige eller åpenbart v
 
 ### § 34. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tid oppheves [lov 8. desember 1950 nr. 3](lov/1950-12-08-3) om norsk riksborgarrett.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme tid oppheves [lov 8. desember 1950 nr. 3](lov/1950-12-08-3) om norsk riksborgarrett.
 
 1 Fra 1 sep 2006 iflg. [res. 30 juni 2006 nr. 753](forskrift/2006-06-30-753).
 

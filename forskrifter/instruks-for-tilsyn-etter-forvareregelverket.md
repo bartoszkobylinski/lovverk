@@ -15,7 +15,7 @@ xml_hash: "e3ceea37bc6eaf44578a859ff5638141b6d7c7048e2b506d2245e0d2ee59269b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -346,7 +346,7 @@ I.1 *Register over godkjente virksomheter*
 
 | *1* | *2* | *3* | *4* | *5* | *6* |
 | --- | --- | --- | --- | --- | --- |
-| *Godkjenningsnummer* | *Virksomhetskode1* | *Navn eller forretningsnavn2* | *Adresse3* | *Merknader til artikkel 13 i direktiv [70/524/EØF](eu/31970l0524*)4* | *Merknader* |
+| *Godkjenningsnummer* | *Virksomhetskode[^1]* | *Navn eller forretningsnavn[^2]* | *Adresse[^3]* | *Merknader til artikkel 13 i direktiv [70/524/EØF](eu/31970l0524*)[^4]* | *Merknader* |
 |  |  |  |  |  |  |
 
 I.2 *Liste over registrerte virksomheter*
@@ -355,7 +355,7 @@ I.2 *Liste over registrerte virksomheter*
 
 | *1* | *2* | *3* | *4* | *5* | *6* |
 | --- | --- | --- | --- | --- | --- |
-| *Registreringsnummer* | *Virksomhetskode5* | *Navn eller forretningsnavn6* | *Adresse7* | *Merknader til artikkel 13 i direktiv [70/524/EØF](eu/31970l0524*)8* | *Merknader* |
+| *Registreringsnummer* | *Virksomhetskode[^5]* | *Navn eller forretningsnavn[^6]* | *Adresse[^7]* | *Merknader til artikkel 13 i direktiv [70/524/EØF](eu/31970l0524*)[^8]* | *Merknader* |
 |  |  |  |  |  |  |
 
 1

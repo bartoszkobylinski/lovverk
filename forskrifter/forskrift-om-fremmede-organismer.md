@@ -15,7 +15,7 @@ xml_hash: "994ff63427c17ed8be89a239ed1db1c028d15eaefe846c6bc6e18f21601570b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1119,7 +1119,7 @@ Med «*vitenskapelig risikovurderte*» landlevende planter og landlevende plante
 
 Begrepet «*parkanlegg og andre dyrkete områder*» i bokstav c og d er hjemlet i [naturmangfoldloven § 31](lov/2009-06-19-100/§31) første ledd bokstav d. Begrepet «*parkanlegg*» må ses i lys av begrepet «private hager». Parkanlegg omfatter parker, kirkegårder, kulturhistoriske grøntanlegg mv. Områder som er viktige for biologisk mangfold, for eksempel områder med registreringer av naturtypen parklandskap etter DN-håndbok 13 *Kartlegging av naturtyper og verdisetting av biologisk mangfold*, vil ikke være omfattet av begrepet. Med «*dyrkete områder*» menes særlig dyrket mark i innmark, jf. [Ot.prp.nr.52 (2008–2009), side 403](forarbeid/otprp-52-200809/s403).
 
-Unntaket for utsetting i transport- og næringsutbyggingsområder er hjemlet i [naturmangfoldloven § 31](lov/2009-06-19-100/§31) andre ledd. Begrepet «*transport- og næringsutbyggingsområder*» i bokstav c og d er hentet fra Naturtyper i Norge (NiN)1 og omfatter områder som ikke har intakte økosystemer og er områder som ofte har lite biologisk mangfold. «*Transportutbyggingsområder*» omfatter vegbane med fast dekke, vegens sideområder, jernbane, flyplass og havn. «*Næringsutbyggingsområder*» omfatter energiutbyggingsområder (landområde som tilfredsstiller definisjonen av konstruert fastmark, hvis hovedformål er energiproduksjon, inkluderer for eksempel faste installasjoner som kraftverk, damanlegg, vindmølleparker, transformatorstasjoner), næringsutbyggingsområder (område hovedsakelig bygd ut for industri- og handelsvirksomhet, inkl. administrasjonsbygninger) samt områder regulert til offentlige formål (kommunehus, skoler, sykehus, sykehjem mv.).
+Unntaket for utsetting i transport- og næringsutbyggingsområder er hjemlet i [naturmangfoldloven § 31](lov/2009-06-19-100/§31) andre ledd. Begrepet «*transport- og næringsutbyggingsområder*» i bokstav c og d er hentet fra Naturtyper i Norge (NiN)[^1] og omfatter områder som ikke har intakte økosystemer og er områder som ofte har lite biologisk mangfold. «*Transportutbyggingsområder*» omfatter vegbane med fast dekke, vegens sideområder, jernbane, flyplass og havn. «*Næringsutbyggingsområder*» omfatter energiutbyggingsområder (landområde som tilfredsstiller definisjonen av konstruert fastmark, hvis hovedformål er energiproduksjon, inkluderer for eksempel faste installasjoner som kraftverk, damanlegg, vindmølleparker, transformatorstasjoner), næringsutbyggingsområder (område hovedsakelig bygd ut for industri- og handelsvirksomhet, inkl. administrasjonsbygninger) samt områder regulert til offentlige formål (kommunehus, skoler, sykehus, sykehjem mv.).
 
 *Første ledd bokstav e* gjør unntak fra kravet om tillatelse for biologiske plantevernmidler som det er gitt tillatelse til utsetting av i eller i medhold av annet lovverk, jf. [naturmangfoldloven § 31](lov/2009-06-19-100/§31) første ledd bokstav e.
 
@@ -1305,7 +1305,7 @@ Når det gjelder sanksjoner mot brudd på forskriftens [§ 13](forskrift/2015-06
 
 [Naturmangfoldloven § 74](lov/2009-06-19-100/§74) om miljøerstatning gjelder ved overtredelser av [naturmangfoldloven](lov/2009-06-19-100) og bestemmelser som tjener til gjennomføring av mål og prinsipper i loven.
 
-Myndigheten etter [naturmangfoldloven § 69](lov/2009-06-19-100/§69) til [§ 74](lov/2009-06-19-100/§74) er delegert fra Klima- og miljødepartementet til Miljødirektoratet i medhold av delegeringsbrev 22. september 2009.1 Myndigheten etter [§ 69](lov/2009-06-19-100/§69) til [§ 73](lov/2009-06-19-100/§73) er videre delegert til statsforvalteren i medhold av direktoratets delegeringsbrev 13. desember 2010.1
+Myndigheten etter [naturmangfoldloven § 69](lov/2009-06-19-100/§69) til [§ 74](lov/2009-06-19-100/§74) er delegert fra Klima- og miljødepartementet til Miljødirektoratet i medhold av delegeringsbrev 22. september 2009.[^1] Myndigheten etter [§ 69](lov/2009-06-19-100/§69) til [§ 73](lov/2009-06-19-100/§73) er videre delegert til statsforvalteren i medhold av direktoratets delegeringsbrev 13. desember 2010.[^1]
 
 Håndhevingsbestemmelsene i [naturmangfoldloven § 69](lov/2009-06-19-100/§69), [§ 71](lov/2009-06-19-100/§71), [§ 72](lov/2009-06-19-100/§72) og [§ 73](lov/2009-06-19-100/§73) vil også gjelde ved håndheving av bestemmelsen om hold av vilt vedtatt i medhold av [viltloven § 7](lov/1981-05-29-38/§7) andre ledd, som sier at Kongen i forskrift kan fastsette særskilte håndhevingsregler for å stanse ulovlig virksomhet. I og med at dette er håndhevingsregler som retter seg mot ulovlig virksomhet, vil ikke [naturmangfoldloven § 70](lov/2009-06-19-100/§70) (*uforutsette miljøkonsekvenser av lovlig virksomhet*) gjelde ved håndheving knyttet til hold av vilt som er hjemlet i [viltloven](lov/1981-05-29-38).
 

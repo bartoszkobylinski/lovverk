@@ -739,12 +739,12 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 
 | *Søknadstype* | *Veterinær* |
 | --- | --- |
-| Fullstendig søknad, fast kombinasjon, bibliografisk søknad 1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 512 044 |
+| Fullstendig søknad, fast kombinasjon, bibliografisk søknad [^1]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 512 044 |
 | Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21 | 192 016 |
 | Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
 | Flere former og styrker søkt samtidig (ulike målarter) | 192 016 |
-| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 512 044 |
-| MT under særlige omstendigheter 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 256 022 |
+| MT for legemiddel til begrenset marked[^1]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 512 044 |
+| MT under særlige omstendigheter [^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 256 022 |
 | Duplikatsøknad (søkt samtidig) | 38 402 |
 | Søknad som trekkes før prosedyrestart – administrasjonsgebyr | 25 602 |
 
@@ -756,14 +756,14 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 | Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e) | 96 009 |
 | Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er) | 128 012 |
 | Endring eller tillegg av ny matproduserende målart I.III.1 (a) | 128 012 |
-| Indikasjonsendring2 3 4 innen samme målart(er) G.I.7.a | 96 009 |
+| Indikasjonsendring[^2] [^3] [^4] innen samme målart(er) G.I.7.a | 96 009 |
 | Endring eller tillegg av ny ikke-matproduserende målart G.I.10 | 96 009 |
 | Endret tilbakeholdelsestid G.I.12 (S) | 25 602 |
-| Endring i reseptstatus G.I.z (E)2 3 | 96 009 |
-| Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 5 | 16 002 |
-| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 | 10 881 |
-| Fornyelse MT til begrenset marked 6<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 51 204 |
-| Fornyelse, MT under særlige omstendigheter6 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 25 602 |
+| Endring i reseptstatus G.I.z (E)[^2] [^3] | 96 009 |
+| Øvrige endringer med standard (S) eller utvidet (E) tidtabell[^2] [^3] [^5] | 16 002 |
+| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)[^2] [^3] | 10 881 |
+| Fornyelse MT til begrenset marked [^6]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 51 204 |
+| Fornyelse, MT under særlige omstendigheter[^6] [^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 25 602 |
 
 *Parallellhandel (Nasjonale)*
 
@@ -775,8 +775,8 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 
 | *Søknadstype* | *Veterinær* |
 | --- | --- |
-| Inngåelse av avtale om RMS-oppdrag7 | 64 005 |
-| Igangsetting av MRP-oppdrag, alle typer MT-søknader 8 | 128 012 |
+| Inngåelse av avtale om RMS-oppdrag[^7] | 64 005 |
+| Igangsetting av MRP-oppdrag, alle typer MT-søknader [^8] | 128 012 |
 | Etterfølgende anerkjennelse, alle typer MT-søknader | 128 012 |
 
 *Endringssøknader og søknad om fornyelse (MRP-RMS)*
@@ -787,17 +787,17 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 | Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e) | 96 009 |
 | Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er) | 160 013 |
 | Endring eller tillegg av ny matproduserende målart I.III.1 (a) | 128 012 |
-| Indikasjonsendring2 3 4 innen samme målart(er) G.I.7.a | 96 009 |
+| Indikasjonsendring[^2] [^3] [^4] innen samme målart(er) G.I.7.a | 96 009 |
 | Endring eller tillegg av ny ikke-matproduserende målart G.I.10 | 102 409 |
 | Endret tilbakeholdelsestid G.I.12 | 32 002 |
-| Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 5 | 15 362 |
-| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking) 2 3 | 14 079 |
-| Worksharing; indikasjonsendring G.I.7.a 4 9 | 96 009 |
-| Worksharing; Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking2 3 9 | 12 802 |
+| Øvrige endringer med standard (S) eller utvidet (E) tidtabell[^2] [^3] [^5] | 15 362 |
+| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking) [^2] [^3] | 14 079 |
+| Worksharing; indikasjonsendring G.I.7.a [^4] [^9] | 96 009 |
+| Worksharing; Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking[^2] [^3] [^9] | 12 802 |
 | Worksharing; harmonisering av preparatomtale | 32 002 |
-| Worksharing; øvrige endringer med standard tidtabell (S)9 | 16 002 |
-| Fornyelse, MT til begrenset marked 6<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 51 204 |
-| Fornyelse, MT under særlige omstendigheter 6 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 25 602 |
+| Worksharing; øvrige endringer med standard tidtabell (S)[^9] | 16 002 |
+| Fornyelse, MT til begrenset marked [^6]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 51 204 |
+| Fornyelse, MT under særlige omstendigheter [^6] [^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 25 602 |
 
 *Søknad om markedsføringstillatelse (MRP-CMS)*
 
@@ -807,8 +807,8 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 | Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21 | 96 009 |
 | Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
 | Flere former og styrker søkt samtidig (ulike målarter) | 108 808 |
-| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 128 012 |
-| MT under særlige omstendigheter10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 64 006 |
+| MT for legemiddel til begrenset marked[^1]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 128 012 |
+| MT under særlige omstendigheter[^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 64 006 |
 | Søknad som trekkes før prosedyrestart – administrasjonsgebyr | 25 602 |
 
 *Endringssøknader og søknad om fornyelser (MRP-CMS)*
@@ -819,29 +819,29 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 | Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e) | 64 005 |
 | Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er) | 64 005 |
 | Endring eller tillegg av ny matproduserende målart I.III.1 (a) | 38 402 |
-| Indikasjonsendring2 3 4 – innen samme målart(er) G.I.7.a | 44 804 |
+| Indikasjonsendring[^2] [^3] [^4] – innen samme målart(er) G.I.7.a | 44 804 |
 | Endring eller tillegg av ny ikke-matproduserende målart G.I.10 | 32 002 |
 | Endret tilbakeholdelsestid G.I.12 | 9 217 |
-| Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 5 | 12 802 |
-| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 | 8 321 |
-| Worksharing; indikasjonsendring G.I.7.a4 9 | 38 402 |
-| Worksharing Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 9 | 12 802 |
+| Øvrige endringer med standard (S) eller utvidet (E) tidtabell[^2] [^3] [^5] | 12 802 |
+| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)[^2] [^3] | 8 321 |
+| Worksharing; indikasjonsendring G.I.7.a[^4] [^9] | 38 402 |
+| Worksharing Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)[^2] [^3] [^9] | 12 802 |
 | Worksharing harmonisering av preparatomtale | 25 602 |
-| Worksharing Øvrige endringer med standard tidtabell (S)9 | 12 802 |
-| Fornyelse, MT til begrenset marked6<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 21 762 |
-| Fornyelse, MT under særlige omstendigheter6 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 10 881 |
+| Worksharing Øvrige endringer med standard tidtabell (S)[^9] | 12 802 |
+| Fornyelse, MT til begrenset marked[^6]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 21 762 |
+| Fornyelse, MT under særlige omstendigheter[^6] [^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 10 881 |
 
 *Søknad om markedsføringstillatelse (DCP-RMS)*
 
 | *Søknadstype* | *Veterinær* |
 | --- | --- |
-| Inngåelse av avtale om RMS-oppdrag7 | 64 005 |
+| Inngåelse av avtale om RMS-oppdrag[^7] | 64 005 |
 | Fullstendig søknad, fast kombinasjon, bibliografisk søknad<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 448 040 |
 | Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, | 192 016 |
 | Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
 | Flere former og styrker søkt samtidig (ulike målarter) | 96 009 |
-| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 448 040 |
-| MT under særlige omstendigheter10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 224 019 |
+| MT for legemiddel til begrenset marked[^1]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 448 040 |
+| MT under særlige omstendigheter[^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 224 019 |
 
 *Søknad om markedsføringstillatelse (DCP-CMS)*
 
@@ -851,8 +851,8 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 | Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21 | 96 009 |
 | Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
 | Flere former og styrker søkt samtidig (ulike målarter) | 96 009 |
-| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 128 012 |
-| MT under særlige omstendigheter10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 64 006 |
+| MT for legemiddel til begrenset marked[^1]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 128 012 |
+| MT under særlige omstendigheter[^10]<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 64 006 |
 | Duplikatsøknad (søkt samtidig) | 38 402 |
 | Søknad som trekkes før prosedyrestart – Administrasjonsgebyr | 25 602 |
 
@@ -910,6 +910,6 @@ Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 
 ### § 13-1. Ikrafttredelse
 
-Forskriften trer i kraft samtidig med [lov 17. juni 2022 nr. 54 om endringer i legemiddelloven (legemidler til dyr)](lov/2022-06-17-54).1
+Forskriften trer i kraft samtidig med [lov 17. juni 2022 nr. 54 om endringer i legemiddelloven (legemidler til dyr)](lov/2022-06-17-54).[^1]
 
 1 Fra 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576).

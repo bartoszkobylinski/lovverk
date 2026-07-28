@@ -15,7 +15,7 @@ xml_hash: "ee3d4b4270830c80074ec2a1d9c0dd8af804e09e3232e750ae31bbac668d92fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -802,7 +802,7 @@ Departementet kan gi forskrift om Husleietvistutvalget.
 
 ### § 13-1. Ikrafttredelse
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2000 iflg. [res. 26 mars 1999 nr. 248](forskrift/1999-03-26-248).
 

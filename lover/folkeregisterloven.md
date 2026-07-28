@@ -15,7 +15,7 @@ xml_hash: "cdf8b16c05ebda36145d424de8acea946bf9d7b3fa7d6cacef25e0b5b28da156"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -413,7 +413,7 @@ Departementet kan gi forskrift om saksbehandlingen og utmålingen av perioden fo
 
 ### § 13-1. Ikrafttredelse. Overgangsbestemmelser
 
-Loven gjelder fra den tiden1 Kongen bestemmer.
+Loven gjelder fra den tiden[^1] Kongen bestemmer.
 
 Fra samme tidspunkt oppheves [lov 16. januar 1970 nr. 1 om folkeregistrering](lov/1970-01-16-1).
 

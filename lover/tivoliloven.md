@@ -15,7 +15,7 @@ xml_hash: "89d53e9a13355226df851f7f4bb65ebd2838cf7a77d306e5c061028a9c6dab95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -398,7 +398,7 @@ Første ledd gjelder ikke dersom de mottatte opplysningene viser at arbeidstaker
 
 ### § 26. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 > Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 25).
 

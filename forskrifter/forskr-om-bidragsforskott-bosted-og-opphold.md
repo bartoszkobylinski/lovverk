@@ -15,7 +15,7 @@ xml_hash: "a956d09b4797cf9a7143e6c789b3d19c5d5f34c9184fe4296b4009cb4e0a202c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,8 +41,8 @@ Barn som har søkt om asyl i Norge, eller som er barn av personer som har søkt 
 
 Vilkåret om bosted og opphold i riket skal ikke gjelde dersom barnet er fullt medlem av folketrygden (medlemskap som omfatter pensjonsdekning) og
 
-1. oppholdet i utlandet ikke er ment å vare mer enn 6 måneder, regnet fra utreisedagen, eller 1
-2. barnets utenlandsopphold skyldes arbeid for norsk arbeidsgiver, eller 2
+1. oppholdet i utlandet ikke er ment å vare mer enn 6 måneder, regnet fra utreisedagen, eller [^1]
+2. barnets utenlandsopphold skyldes arbeid for norsk arbeidsgiver, eller [^2]
 3. barnet oppholder seg i utlandet sammen med forsørgeren og forsørgerens utenlandsopphold har årsaker som nevnt i bokstav b.
 
 1 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav a gjelder for tilfelle der utenlandsoppholdet tar til tidligst 1. januar 1994.

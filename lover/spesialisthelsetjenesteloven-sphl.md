@@ -15,7 +15,7 @@ xml_hash: "c273ece10be5ba72bac1a27412c8c6cc3533f108c85340dcda7e76982ab63596"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -617,7 +617,7 @@ Kongen kan gi forskrifter i den utstrekning det er nødvendig for å oppfylle in
 
 ### § 8-2. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til forskjellig tid.
 
 Fra tidspunktet for ikrafttredelse blir følgende lover opphevet: [Lov av 19. juni 1969 nr. 57](lov/1969-06-19-57) om sykehus m.v., [lov av 28. april 1961 nr. 2](lov/1961-04-28-2) om psykisk helsevern kapittel I, V og [§§ 21 a](lov/1961-04-28-2/§21a), [21 b](lov/1961-04-28-2/§21b) og [22](lov/1961-04-28-2/§22).
 

@@ -15,7 +15,7 @@ xml_hash: "e34b1d28a8ac8b2e07924cca42f6d008db540f8d723191d7a3fafd7eff7c9047"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -299,7 +299,7 @@ Kommunen kan gi tilskudd til godkjente private barnehager.
 
 Kommunen skal behandle private barnehager som mottar tilskudd, likeverdig med kommunale barnehager. Departementet kan gi forskrift om hva som er likeverdig behandling.
 
-– – –1
+– – –[^1]
 
 Departementet kan gi forskrift om midlertidig tilskudd til drift av barnehager og barnehageplasser som er godkjent med hjemmel i forskrift etter [§ 14 b](lov/2005-06-17-64/§14b).
 
@@ -802,7 +802,7 @@ Barnehagen skal uten hinder av taushetsplikt legge frem alle opplysninger som Ut
 
 ### § 57. Ikrafttredelse. Endringer i andre lover
 
-Loven trer i kraft fra den dag Kongen bestemmer.1
+Loven trer i kraft fra den dag Kongen bestemmer.[^1]
 
 Når loven trer i kraft, oppheves [lov 5. mai 1995 nr. 19 om barnehager](lov/1995-05-05-19). Vedtak som er truffet etter denne loven, gjelder inntil de faller bort eller blir endret etter loven her.
 

@@ -15,7 +15,7 @@ xml_hash: "e77ce2a27cc02c6284e20f3564a9be8aa8a3eaa146023ace23affe0267495566"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## I
 
-Myndighet etter [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) fordeles mellom Helse- og omsorgsdepartementet, Landbruks- og matdepartementet og Fiskeri- og kystdepartementet i tråd med retningslinjene i foredraget.1
+Myndighet etter [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) fordeles mellom Helse- og omsorgsdepartementet, Landbruks- og matdepartementet og Fiskeri- og kystdepartementet i tråd med retningslinjene i foredraget.[^1]
 
 > Endret ved [forskrift 18 feb 2005 nr. 218](forskrift/2005-02-18-218).
 
@@ -56,9 +56,9 @@ Denne resolusjonen trer i kraft 1. januar 2004.
 
 Fra 1. januar 2004 oppheves følgende delegeringer:
 
-1. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av 29. januar 19881 om opprettelsen av Statens næringsmiddeltilsyn.
+1. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av 29. januar 1988[^1] om opprettelsen av Statens næringsmiddeltilsyn.
 2. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av [29. april 1988 nr. 312](forskrift/1988-04-29-312) om myndighetsoverføring til Statens næringsmiddeltilsyn m.v.
-3. Kongelig resolusjon fra Landbruksdepartementet av 1. juli 19941 om Omorganisering av Statens næringsmiddeltilsyn.
+3. Kongelig resolusjon fra Landbruksdepartementet av 1. juli 1994[^1] om Omorganisering av Statens næringsmiddeltilsyn.
 4. [Forskrift av 8. april 1960 nr. 9602](forskrift/1960-04-08-9602) om delegasjon av myndighet etter lov om kvalitetskontroll med fiskevarer. Gitt ved kgl.res. av 8. april 1960 i medhold av kvalitetskontrolloven.
 5. [Vedtak av 10. februar 1989 nr. 84](forskrift/1989-02-10-84) om delegering av myndighet til Fiskeridepartementet etter lov om tilsyn med fôrvarer. Fastsatt ved kgl.res. av 10. februar 1989.
 6. [Vedtak av 19. desember 1997 nr. 1317](forskrift/1997-12-19-1317) om delegering av myndighet etter fiskesykdomsloven. Fastsatt ved kgl.res. av 19. desember 1997 med hjemmel i fiskesykdomsloven.

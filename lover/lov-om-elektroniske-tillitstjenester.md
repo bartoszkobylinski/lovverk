@@ -15,7 +15,7 @@ xml_hash: "bda01907def906e0032596ff6c6b2acf2c6025c8dd6d986b652dac0cea7fae60"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014R0910"
@@ -93,7 +93,7 @@ Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og fastse
 
 ## § 9. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 15. juni 2001 nr. 81](lov/2001-06-15-81) om elektronisk signatur.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Fra samme tidspunkt oppheves [lov 15. juni 2001 nr. 81](lov/2001-06-15-81) om elektronisk signatur.
 
 1 Fra 15 juni 2018 iflg. [res. 15 juni 2018 nr. 873](forskrift/2018-06-15-873).
 

@@ -15,7 +15,7 @@ xml_hash: "db7b88e939a0bec758a25364a9fc0736cecf12326eb4123281fe2326a60f4886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Statens jernbanetilsyn utøver myndighet etter denne forskriften.
 
 ## § 3.
 
-Forskriften trer i kraft straks samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/250](eu/32019r0250) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 15. februar 2012 nr. 148 om typesamsvarserklæring](forskrift/2012-02-15-148).1
+Forskriften trer i kraft straks samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/250](eu/32019r0250) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 15. februar 2012 nr. 148 om typesamsvarserklæring](forskrift/2012-02-15-148).[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 791](forskrift/2022-05-06-791).
 

@@ -15,7 +15,7 @@ xml_hash: "15edc0955708f24265476c2c7f2fc8f7e8a5ff07254cc9c4bffff00afd2748b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,7 +146,7 @@ For øvrig gis plan- og [bygningslovens kapittel 18](lov/2008-06-27-71/kap18) un
 
 ## § 25.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 1995 iflg. [res. 25 mars 1994 nr. 232](forskrift/1994-03-25-232).
 

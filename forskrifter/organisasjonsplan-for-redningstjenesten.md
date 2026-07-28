@@ -15,7 +15,7 @@ xml_hash: "4d58ccd47200c96eb3567021a1dac16efd9049e48a2a26714924ead726ae48e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -244,6 +244,6 @@ Justis- og beredskapsdepartementet kan ved behov og i samråd med andre aktuelle
 
 ## Kapittel 5 Ikrafttredelse mv.
 
-Denne kongelige resolusjonen trer i kraft fra det tidspunktet departementet bestemmer.1 Fra samme tid oppheves kongelig [resolusjon 19. juni 2015 nr. 677](forskrift/2015-06-19-677).
+Denne kongelige resolusjonen trer i kraft fra det tidspunktet departementet bestemmer.[^1] Fra samme tid oppheves kongelig [resolusjon 19. juni 2015 nr. 677](forskrift/2015-06-19-677).
 
 1 I kraft 1 feb 2020, jf. [vedtak 29 jan 2020 nr. 90](forskrift/2020-01-29-90), og gis så langt som det er adgang til det virkning for 2020.

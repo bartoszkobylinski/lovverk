@@ -15,7 +15,7 @@ xml_hash: "0b9d093f70e28e4dd212a4ac1c60428b20a0e3e8967160d4bc7bc5c87fd1f27d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -99,6 +99,6 @@ Bestemmelsen gjelder tilsvarende for opplysninger innhentet etter [straffeproses
 
 ## V
 
-Loven gjelder fra den tiden1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.
 
 1 Fra 1. oktober 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135).

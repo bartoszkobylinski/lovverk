@@ -17,7 +17,7 @@ xml_hash: "f61b27d1fb58f8e962944d70cb9a24c4f8b4770322427ad48610b6f6d1c23714"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2056,18 +2056,18 @@ I ti år etter den siste produksjonsdato skal produsenten eller dennes represent
 
 *Støygrenser*
 
-| *Maskintype* | *Installert nettoeffekt<br>P i kW<br>Elektrisk effekt<br>Pel 1 i kW<br>Maskinens masse m i kg<br>Skjærebredde L i cm* | *Tillatt lydeffektnivå i dB/ 1pW* |  |
+| *Maskintype* | *Installert nettoeffekt<br>P i kW<br>Elektrisk effekt<br>Pel [^1] i kW<br>Maskinens masse m i kg<br>Skjærebredde L i cm* | *Tillatt lydeffektnivå i dB/ 1pW* |  |
 | --- | --- | --- | --- |
 |  |  | *Fase I fra den 3. januar 2002* | *Fase II fra den 3. januar 2006* |
-| Komprimeringsmaskiner (vibrasjonstromler, vibrasjonsplater og vibrasjonsstampere) | P ≤ 8<br>8 < P ≤ 70<br>P > 70 | 108<br>109<br>89 + 11 lg P | 1052<br>1062<br>86 + 11 lg P2 |
-| Beltegående dosere, lastere og gravelastere | P ≤ 55<br>P > 55 | 106<br>87 + 11 lg P | 1032<br>84 + 11 lg P2 |
-| Hjulgående dosere, lastere og gravelastere, dumpere, veghøvler, kompaktorer med lasteskuffe, løfte- og stablevogn for gods med forbrenningsmotor og motvekt, mobilkraner, komprimeringsmaskiner (ikke vibrasjonstromler), utleggingsmaskiner, hydraulikkpumper | P ≤ 55<br>P > 55 | 104<br>85 + 11 lg P | 1012 ,3<br>82 + 11 lg P2 ,3 |
+| Komprimeringsmaskiner (vibrasjonstromler, vibrasjonsplater og vibrasjonsstampere) | P ≤ 8<br>8 < P ≤ 70<br>P > 70 | 108<br>109<br>89 + 11 lg P | 105[^2]<br>106[^2]<br>86 + 11 lg P[^2] |
+| Beltegående dosere, lastere og gravelastere | P ≤ 55<br>P > 55 | 106<br>87 + 11 lg P | 103[^2]<br>84 + 11 lg P[^2] |
+| Hjulgående dosere, lastere og gravelastere, dumpere, veghøvler, kompaktorer med lasteskuffe, løfte- og stablevogn for gods med forbrenningsmotor og motvekt, mobilkraner, komprimeringsmaskiner (ikke vibrasjonstromler), utleggingsmaskiner, hydraulikkpumper | P ≤ 55<br>P > 55 | 104<br>85 + 11 lg P | 101[^2] ,[^3]<br>82 + 11 lg P[^2] ,[^3] |
 | Gravemaskiner, byggeplassheiser for transport av varer, vinsjer til byggeplasser, motorfresere | P ≤ 15<br>P > 15 | 96<br>83 + 11 lg P | 93<br>80 + 11 lg P |
-| Håndbetjente betongbrekkere og hammere | m ≤ 15<br>15 < m < 30<br>m ≥ 30 | 107<br>94 + 11 lg m<br>96 + 11 lg m | 105<br>92 + 11 lg m2<br>94 + 11 lg m |
+| Håndbetjente betongbrekkere og hammere | m ≤ 15<br>15 < m < 30<br>m ≥ 30 | 107<br>94 + 11 lg m<br>96 + 11 lg m | 105<br>92 + 11 lg m[^2]<br>94 + 11 lg m |
 | Tårnkraner |  | 98 + lg P | 96 + lg P |
 | Sveiseaggregater og strømaggregater | P el ≤ 2<br>2 < P el ≤ 10<br>P el > 10 | 97 + lg Pel<br>98 + lg Pel<br>97 + lg Pel | 95 + lg Pel<br>96 + lg Pel<br>95 + lg Pel |
 | Kompressorer | P ≤ 15<br>P > 15 | 99<br>97 + 2 lg P | 97<br>95 + 2 lg P |
-| Gressklippere, elektrisk drevne gresstrimmere/gresskanttrimmere | L ≤ 50<br>50 < L ≤ 70<br>70 < L ≤ 120<br>L > 120 | 96<br>100<br>100<br>105 | 942<br>98<br>982<br>1032 |
+| Gressklippere, elektrisk drevne gresstrimmere/gresskanttrimmere | L ≤ 50<br>50 < L ≤ 70<br>70 < L ≤ 120<br>L > 120 | 96<br>100<br>100<br>105 | 94[^2]<br>98<br>98[^2]<br>103[^2] |
 
 1 Pel for sveiseaggregater: den normale elektriske strøm til sveising multiplisert med den normale belastningsspenning for den laveste verdi av den driftstid produsenten har opplyst.
 

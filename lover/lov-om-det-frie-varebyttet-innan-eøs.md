@@ -15,7 +15,7 @@ xml_hash: "b20fb7dacbafe23277a573c61315d2fcb6f9c031f1532aed69534c07b3926c69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31998R2679"
@@ -37,23 +37,23 @@ Lova gjeld ikkje for Svalbard.
 
 Lova vert sett i verk straks.
 
-## Forordning1
+## Forordning[^1]
 
 Nedenfor gjengis [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XX punkt 1 (frd. [2679/98](eu/31998r2679)) slik Justisdepartementet meiner at forordninga skal forståast med dei EØS-tilpassingane som følgjer av vedlegg II og protokoll 1 til avtalen og avtalen elles.
 
 1 Overskrift tilføyd av Lovdata.
 
-### Rådsforordning1 (EF) nr. 2679/98 av 7. desember 1998 om det indre markeds virkemåte med hensyn til det frie varebytte innen EØS
+### Rådsforordning[^1] (EF) nr. 2679/98 av 7. desember 1998 om det indre markeds virkemåte med hensyn til det frie varebytte innen EØS
 
 [Rådet for Den europeiske union har
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 235,
 
-under henvisning til forslag fra Kommisjonen2
+under henvisning til forslag fra Kommisjonen[^2]
 
-under henvisning til uttalelse fra Europaparlamentet3
+under henvisning til uttalelse fra Europaparlamentet[^3]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité4
+under henvisning til uttalelse fra Den økonomiske og sosiale komité[^4]
 
 ut fra følgende betraktninger:
 
@@ -68,7 +68,7 @@ ut fra følgende betraktninger:
 9. For å oppfylle sine forpliktelser i henhold til traktaten bør Kommisjonen underrette den berørte medlemsstat om at den mener det foreligger brudd på reglene, og om at medlemsstaten bør reagere på Kommisjonens underretning.
 10. Traktaten inneholder ikke annen fullmakt enn artikkel 235 for vedtakelsen av denne forordning.
 
-vedtatt denne forordning:]5
+vedtatt denne forordning:][^5]
 
 1 Forordning [(EF) nr. 2679/98](eu/31998r2679) slik Justisdepartementet meiner at forordninga skal forståast med dei EØS-tilpassingane som følgjer av vedlegg II og protokoll 1 til avtalen og avtalen elles. Tilpassingane er innarbeida av informasjonsomsyn.
 

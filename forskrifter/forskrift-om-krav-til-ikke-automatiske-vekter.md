@@ -15,7 +15,7 @@ xml_hash: "65eab401b7d7a1b638dc1fb9f5674420c6d5427aab57f113ba4e797d868697f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -133,7 +133,7 @@ Tabell 2 – Flerskalavekter
 
 | *Klasse* | *Verifiseringsminstedeling* | *Minstelast<br>(Min)<br>Minste<br>verdi* | *Antall verifiseringsminstedelinger* |  |
 | --- | --- | --- | --- | --- |
-|  |  |  | *Minste verdi1*<br>*n = ((Maksi )/(ei ))* | *Største*<br>*verdi*<br>*n =*<br>*((Maksi )/(ei ))* |
+|  |  |  | *Minste verdi[^1]*<br>*n = ((Maksi )/(ei ))* | *Største*<br>*verdi*<br>*n =*<br>*((Maksi )/(ei ))* |
 | I | 0,001 g ≤ ei | 100 ei | 50 000 | – |
 | II | 0,001 g ≤ ei ≤ 0,05 | 20 ei | 5 000 | 100 000 |
 |  | 0,1 g ≤ ei | 50 ei | 5 000 | 100 000 |

@@ -15,7 +15,7 @@ xml_hash: "d03033278c14896b4c5224952d53ae86e5c2eb08bcc9f809215f0b0d894cacf0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -150,7 +150,7 @@ Departementet kan fastsetje utfyllande forskrifter om levering og bruk av kommun
 
 ## § 19. Ikraftsetjing
 
-Lova tek til å gjelde frå den tida1 Kongen fastset. Frå same tid blir [lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg](lov/2012-03-16-12) oppheva.
+Lova tek til å gjelde frå den tida[^1] Kongen fastset. Frå same tid blir [lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg](lov/2012-03-16-12) oppheva.
 
 Forskrifter gitt i medhald av [lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg](lov/2012-03-16-12) held frem å gjelde etter at lova her tek til å gjelde.
 

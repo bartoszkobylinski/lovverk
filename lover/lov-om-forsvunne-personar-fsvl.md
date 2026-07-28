@@ -15,7 +15,7 @@ xml_hash: "d5509870fd628732b841a301cc4fa1af3cb764b06ea0d9c7888b9301ce582c24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -184,7 +184,7 @@ Retten kan oppheve ein orskurd om død etter stemning frå personen som etter or
 
 ### § 23. Når lova gjeld frå. Overgangsføresegner
 
-Lova gjeld frå den tid Kongen fastset1.
+Lova gjeld frå den tid Kongen fastset[^1].
 
 Lova gjeld for avgjerder som blir trefte etter iverksetjinga av lova jamvel om forsvinninga skjedde før. Ei etablert ordning for forvalting av eigedelane til den forsvunne skal førast vidare etter den nye lova, om ikkje statsforvaltaren fastset noko anna. Reglane om attendeføring av eigedelar etter kapittel 5 i lova her gjeld om den forsvunne kjem att etter iverksetjinga av lova.
 

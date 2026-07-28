@@ -15,7 +15,7 @@ xml_hash: "56864a3b21ac219d308da64e2e6ef1ec1cb74e08b702862f212475435a4839e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -171,7 +171,7 @@ Kongen kan gi forskrifter om
 
 ### § 21. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 Konkurransetilsynet kan bare treffe vedtak om avtaler eller handlinger som har funnet sted etter at loven har trådt i kraft.
 

@@ -15,7 +15,7 @@ xml_hash: "e5e2ce2dd4cd27dd6fdb24d53e29ec0ef3117f6cd428b46a0decf79986bffdcf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -125,7 +125,7 @@ Uanonymiserte rettsavgjørelser skal fjernes fra åpne og lukkede nettsider inne
 
 ### § 12
 
-Forskriften, med unntak av [§ 2](forskrift/2001-07-06-757/§2) annet punktum og [§ 3](forskrift/2001-07-06-757/§3) til [§ 6](forskrift/2001-07-06-757/§6), trer i kraft 1. september 2001. [§ 2](forskrift/2001-07-06-757/§2) annet punktum og [§ 3](forskrift/2001-07-06-757/§3) til [§ 6](forskrift/2001-07-06-757/§6) trer i kraft fra den tid departementet bestemmer.1
+Forskriften, med unntak av [§ 2](forskrift/2001-07-06-757/§2) annet punktum og [§ 3](forskrift/2001-07-06-757/§3) til [§ 6](forskrift/2001-07-06-757/§6), trer i kraft 1. september 2001. [§ 2](forskrift/2001-07-06-757/§2) annet punktum og [§ 3](forskrift/2001-07-06-757/§3) til [§ 6](forskrift/2001-07-06-757/§6) trer i kraft fra den tid departementet bestemmer.[^1]
 
 1 I kraft 1 sep 2005, jf. [forskrift 18 aug 2005 nr. 919](forskrift/2005-08-18-919).
 

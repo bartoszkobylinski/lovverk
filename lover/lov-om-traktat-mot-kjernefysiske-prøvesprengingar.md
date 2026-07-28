@@ -15,7 +15,7 @@ xml_hash: "13365956193091a505933b47b7415f01f30f576b8645c3df898e4c9bdd0730b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,13 +52,13 @@ Den som bryt denne lova eller føresegner eller påbod som er gjeve med heimel i
 
 ## § 6.
 
-Lova trer i kraft på det tidspunkt som traktaten trer i kraft.1
+Lova trer i kraft på det tidspunkt som traktaten trer i kraft.[^1]
 
 1 Traktaten trer i kraft når 44 av dei statene som er særskilt nemnde i traktaten («nøkkellanda») har ratifisert. I oktober 2018 hadde i alt 167 stater ratifisert, av desse høyrer 36 til «nøkkellanda».
 
 ## § 7.
 
-Frå den tid denne lova tek til å gjelde, vert det gjort følgjande endringar i Almindelig borgerlig Straffelov [av 22. mai 1902 nr. 10](lov/1902-05-22-10):1
+Frå den tid denne lova tek til å gjelde, vert det gjort følgjande endringar i Almindelig borgerlig Straffelov [av 22. mai 1902 nr. 10](lov/1902-05-22-10):[^1]
 
 § 12 fyrste ledd nr. 3 bokstav f, g og i skal lyde:
 

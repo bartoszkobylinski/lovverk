@@ -15,7 +15,7 @@ xml_hash: "1b6cea8688a1cfc8b261a2238b758a151409d8eb1002bb7015c55b62270271ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -208,7 +208,7 @@ Departementet kan gi forskrifter som utfyller bestemmelsene i denne lov og fasts
 
 ## § 17. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Kongen kan gi overgangsregler.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Kongen kan gi overgangsregler.
 
 1 Etter [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531) trådte loven ikr. 1 jan 2005 med unntak for § 18, som trådte ikr. 1 jan 2006.
 

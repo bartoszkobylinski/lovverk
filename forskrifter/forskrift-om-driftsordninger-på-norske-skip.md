@@ -15,7 +15,7 @@ xml_hash: "ddcfd60df1738bd7d3428ed721418c154267fad2e44fbf9d4ecb017733041474"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ eu_basis: []
 
 1. drift med periodevis ubemannet maskinrom.
 2. vakthold/tjeneste med en person alene i maskinrommet.
-3. brovaktrutiner1 som krever bruk av selvstyring og internt kommunikasjonsanlegg.
+3. brovaktrutiner[^1] som krever bruk av selvstyring og internt kommunikasjonsanlegg.
 
 (2) Forskriften gjelder både nye og eksisterende skip.
 
@@ -119,9 +119,9 @@ Maskinrommet skal normalt være kontinuerlig bemannet.
 
 ### § 10. Personellalarm
 
-(1) På skip med en bruttotonnasje på 500 og derover er det ikke tillatt å være alene i maskinrommet med mindre det er montert automatisk personellalarm.1
+(1) På skip med en bruttotonnasje på 500 og derover er det ikke tillatt å være alene i maskinrommet med mindre det er montert automatisk personellalarm.[^1]
 
-(2) Alarmsystemet skal oppfylle følgende krav:2
+(2) Alarmsystemet skal oppfylle følgende krav:[^2]
 
 1. Personellalarmen skal være slik innrettet at den gir alarm på bro, i offiserenes lugarer, messer og oppholdsrom dersom den ikke blir kvittert fra maskinrommet. Alarmen skal utløses automatisk etter en på forhånd innstilt tidsperiode som ikke skal overstige 30 minutter.
 2. Det skal være montert forvarselsignal i maskinrommet som trer i virksomhet 3 minutter før alarmen som kreves i bokstav a blir aktivisert.
@@ -130,7 +130,7 @@ Maskinrommet skal normalt være kontinuerlig bemannet.
    1. Automatisk når vakthavende maskinist eller maskinpasser må betjene maskinrommet på grunn av maskinromsalarmer.
    2. Manuelt av vakthavende maskinist eller maskinpasser når denne betjener maskinrommet for rutinekontroller.
 4. Alarmsystemet skal slås av av vakthavende maskinist/maskinpasser når vedkommende har forlatt maskinrommet. Når alarmsystemet er satt i funksjon automatisk i overensstemmelse med bokstav c nr. 1, skal det ikke være mulig å slå av systemet før maskinisten/maskinpasseren har kvittert alarmen i maskinrommet.
-5. Personellalarmen kan også sette i gang maskinistenes alarm.3
+5. Personellalarmen kan også sette i gang maskinistenes alarm.[^3]
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -142,7 +142,7 @@ Maskinrommet skal normalt være kontinuerlig bemannet.
 
 ### § 11. Selvstyreranlegg
 
-Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan praktiseres, må følgende krav være oppfylt:1
+Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan praktiseres, må følgende krav være oppfylt:[^1]
 
 1. *Generelt*
 
@@ -179,7 +179,7 @@ Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan prakti
 
 ### § 12. Intern kommunikasjon
 
-(1) Før brovaktfunksjoner med vaktrutiner som krever bruk av internt kommunikasjonsanlegg kan praktiseres, skal følgende krav være oppfylt:1
+(1) Før brovaktfunksjoner med vaktrutiner som krever bruk av internt kommunikasjonsanlegg kan praktiseres, skal følgende krav være oppfylt:[^1]
 
 (2) Alle skip som praktiserer vaktordning skal være utstyrt med purre-/kalleanlegg med følgende funksjoner:
 

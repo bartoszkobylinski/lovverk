@@ -15,7 +15,7 @@ xml_hash: "34362f888e22056ca85b83b0084bba72acc7da27c2ec35ce8b2af93abd521319"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Norsk kulturfond har til formål å stimulere skapande åndsliv i litteratur og 
 
 ## § 3.
 
-Midlane til Norsk kulturfond blir forvalta av Finansdepartementet og disponerte ved kongeleg resolusjon etter tilråding frå Kyrkje- og undervisningsdepartementet1, og i samsvar med retningsliner som Stortinget har fastsett.
+Midlane til Norsk kulturfond blir forvalta av Finansdepartementet og disponerte ved kongeleg resolusjon etter tilråding frå Kyrkje- og undervisningsdepartementet[^1], og i samsvar med retningsliner som Stortinget har fastsett.
 
 1 Kyrkje- og kulturdepartementet i følge [res. 22. desember 1989 nr. 1273](forskrift/1989-12-22-1273).
 

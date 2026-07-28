@@ -15,7 +15,7 @@ xml_hash: "6245647ee98bbaf2795fc7d8e2c8cf87c19eaf173f5ebfd3ee1e72f6c3e94f1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Statsministeren skal påse, at der – bortsett fra uforutsette forfallstilfelle
 
 ## § 2.
 
-1\. Regjeringens departementer er indtil videre:1
+1\. Regjeringens departementer er indtil videre:[^1]
 
 1. For Utenrikske Anliggender.
 2. For Kirke- og Undervisningsvæsenet.
@@ -117,7 +117,7 @@ Alle saker, hvorom det efter lovgivningens bud eller efter deres beskaffenhet ti
 
 2\. Fremdeles påligger det statssekretæren som chef for Statssekretariatet:
 
-1. Å opbevare de protokoller som omhandles i [§ 4](lov/1909-03-23/§4) nr. 3-7. De almindelige statsrådsprotokoller skal han la innbinde i kronologisk orden og oversende til Stortinget. De hemmelige statsrådsprotokoller over diplomatiske saker og militære kommandosaker skal forbli under statssekretærens personlige forvaring, inntil de kan sendes til den ved Grunnlovens § 75 f. anordnede særlige komité av Odelstinget.1
+1. Å opbevare de protokoller som omhandles i [§ 4](lov/1909-03-23/§4) nr. 3-7. De almindelige statsrådsprotokoller skal han la innbinde i kronologisk orden og oversende til Stortinget. De hemmelige statsrådsprotokoller over diplomatiske saker og militære kommandosaker skal forbli under statssekretærens personlige forvaring, inntil de kan sendes til den ved Grunnlovens § 75 f. anordnede særlige komité av Odelstinget.[^1]
 2. Å motta og åpne alle innløpende saker, forsåvidt de ikke har utskrift til et bestemt departement, og oversende dem til rette vedkommende.
 3. Å påse, at alt stoff som skal tas inn i Lovtidendens første avdeling, snarest mulig føres inn av tidendens redaktør.
 4. Å la føre fornødne journaler og fortegnelser over de ekspedisjoner og akter som passerer Statssekretariatet eller der utferdiges, samt kopibok for utgående brev.

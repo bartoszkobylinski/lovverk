@@ -15,7 +15,7 @@ xml_hash: "e23ed841c2c806eb851621ff52b1297573f29d362221424ef899c163b593d535"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -519,7 +519,7 @@ Ved særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved
 
 ### § 55. Ikrafttredelse og overgangsregler
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
 Kongen kan gi overgangsregler i forskrift.
 

@@ -15,7 +15,7 @@ xml_hash: "5301e6d9177baa3dfc06cdc6e015e7a9782eff0e3105952a0a8ab4d69f1953b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32019R0621"
@@ -150,7 +150,7 @@ Kongen kan i forskrift gi regler om parkering av kjøretøy som skjer mot betali
 
 Kongen kan gi forskrift om kommunens adgang til å reservere parkering etter behovsprøving i et nærmere avgrenset område for personer bosatt i området eller andre med særlig behov for slik parkering. Det samme gjelder adgang til å reservere enkelte parkeringsplasser for bestemte kjøretøy, kjøretøygrupper eller personer, eller gi disse adgang til å parkere utover eventuell maksimaltid på stedet.
 
-Kongen kan gi nærmere bestemmelser om adgangen til å klage på ilagt kontrollsanksjon og fjerning i medhold av første ledd, herunder klagerett til en uavhengig parkeringsklagenemnd.1 Det kan gis nærmere bestemmelser om organisering og oppgaver, saksbehandling, brukerfinansiering, herunder krav om rapportering av antall kontrollsanksjoner, og godtgjørelse til klagenemndas medlemmer. Det kan gis bestemmelser om at nemndas avgjørelser har rettskraft hvis de ikke bringes inn for domstolene. Det kan gis bestemmelse om at så lenge en tvist er til behandling i klagenemnda, kan ikke en part bringe den inn for de alminnelige domstolene. Det kan også gis bestemmelse om at dersom søksmål er reist ved de alminnelige domstoler og en part ønsker tvisten avgjort av parkeringsklagenemnda, kan vedkommende domstol stanse den videre behandling inntil parkeringsklagenemndas vedtak foreligger.
+Kongen kan gi nærmere bestemmelser om adgangen til å klage på ilagt kontrollsanksjon og fjerning i medhold av første ledd, herunder klagerett til en uavhengig parkeringsklagenemnd.[^1] Det kan gis nærmere bestemmelser om organisering og oppgaver, saksbehandling, brukerfinansiering, herunder krav om rapportering av antall kontrollsanksjoner, og godtgjørelse til klagenemndas medlemmer. Det kan gis bestemmelser om at nemndas avgjørelser har rettskraft hvis de ikke bringes inn for domstolene. Det kan gis bestemmelse om at så lenge en tvist er til behandling i klagenemnda, kan ikke en part bringe den inn for de alminnelige domstolene. Det kan også gis bestemmelse om at dersom søksmål er reist ved de alminnelige domstoler og en part ønsker tvisten avgjort av parkeringsklagenemnda, kan vedkommende domstol stanse den videre behandling inntil parkeringsklagenemndas vedtak foreligger.
 
 For annen parkering enn vilkårsparkering kan Kongen i forskrift gi regler om fjerning og forvaring av motorvogn som er plassert ulovlig på privat grunn når plasseringen er til fare eller vesentlig ulempe.
 
@@ -168,7 +168,7 @@ Enhver plikter straks å rette seg etter de påbud og forbud om regulering av tr
 
 Fører av kjøretøy skal straks stanse for kontroll når det kreves av politiet eller Statens vegvesen. Føreren plikter å vise fram dokumenter som det er påbudt å ha med under kjøringen, og straks etterkomme påbud gitt med hjemmel i denne lov.
 
-Departementet kan gi andre offentlige tjenestemenn myndighet til å foreta kontroll og gi påbud som nevnt i første ledd.1
+Departementet kan gi andre offentlige tjenestemenn myndighet til å foreta kontroll og gi påbud som nevnt i første ledd.[^1]
 
 > Endret ved lover [10 apr 1981 nr. 8](lov/1981-04-10-8), [12 juni 1987 nr. 64](lov/1987-06-12-64), [23 juni 1995 nr. 40](lov/1995-06-23-40) (ikr. 1 okt 1995), [21 juni 2002 nr. 39](lov/2002-06-21-39) (ikr. 1 juli 2002 iflg. [res. 21 juni 2002 nr. 576](forskrift/2002-06-21-576)), [21 juni 2019 nr. 68](lov/2019-06-21-68) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 869](forskrift/2019-06-21-869)).
 
@@ -323,7 +323,7 @@ Statens vegvesen kan, etter nærmere regler gitt av departementet i forskrift, k
 
 ### § 20. Utenlandsk motorvogn.
 
-Departementet1 gir bestemmelser om i hvilken utstrekning og på hvilke vilkår motorvogn eller tilhenger som er registrert eller hjemmehørende i fremmed stat kan tillates brukt her i riket.
+Departementet[^1] gir bestemmelser om i hvilken utstrekning og på hvilke vilkår motorvogn eller tilhenger som er registrert eller hjemmehørende i fremmed stat kan tillates brukt her i riket.
 
 1 Samferdselsdepartementet, som [24 aug 1990 nr. 695](forskrift/1990-08-24-695) har gitt Vegdirektoratet fullmakt til å gjøre unntak fra forskrift [28 mars 1967 nr. 9350](forskrift/1967-03-28-9350) om bruk av utenlandsk motorvogn i riket for personer bosatt i Sverige som må kjøre mellom bopel og arbeidsplass i Norge.
 
@@ -400,7 +400,7 @@ Ved transportoppdrag skal transportforetaket sette føreren i stand til å oppfy
 
 ### § 23 a. Personlig verneutstyr.
 
-Kongen1 kan bestemme at personlig verneutstyr og annet utstyr til sikring av personer skal brukes under kjøring med motorvogn. Kongen kan gi nærmere regler om omfanget av bruken og unntak fra påbudet. Det kan bestemmes at føreren skal være ansvarlig for at passasjer under 15 år bruker utstyr som nevnt i første punktum.
+Kongen[^1] kan bestemme at personlig verneutstyr og annet utstyr til sikring av personer skal brukes under kjøring med motorvogn. Kongen kan gi nærmere regler om omfanget av bruken og unntak fra påbudet. Det kan bestemmes at føreren skal være ansvarlig for at passasjer under 15 år bruker utstyr som nevnt i første punktum.
 
 > Tilføyd ved [lov 13 juni 1975 nr. 48](lov/1975-06-13-48), endret ved lover [10 apr 1981 nr. 8](lov/1981-04-10-8), [12 juni 1987 nr. 64](lov/1987-06-12-64), [18 juni 2004 nr. 40](lov/2004-06-18-40).
 
@@ -905,7 +905,7 @@ Departementet kan gi forskrift om ulykkesanalysegruppens arbeid.
 
 ### § 52. Ikrafttreden m.m.
 
-Denne lov trer i kraft fra den dag Kongen bestemmer. Det kan bestemmes at visse deler av loven skal gjelde fra et tidligere tidspunkt enn andre.1
+Denne lov trer i kraft fra den dag Kongen bestemmer. Det kan bestemmes at visse deler av loven skal gjelde fra et tidligere tidspunkt enn andre.[^1]
 
 Administrative forskrifter, tillatelser, forbud, vilkår, m.m. som er gitt eller fastsatt i medhold av de lover som er nevnt under nr. 1, 2 eller 5 nedenfor, gjelder fortsatt inntil de blir endret eller opphevd med hjemmel i denne lov.
 

@@ -15,7 +15,7 @@ xml_hash: "37ddcba0fcaa7c4782270e960e99f6a8e52d7c82359b74054bedf121f42cf87a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -202,7 +202,7 @@ Forsettleg eller aktlaust brot på føresegner eller vedtak gitt i eller i medha
 
 ### § 22. Iverksetjing og overgangsreglar
 
-Denne lova gjeld frå den tid Kongen fastset.1
+Denne lova gjeld frå den tid Kongen fastset.[^1]
 
 [Lov 19. mai 1933 nr. 3](lov/1933-05-19-3) om tilsyn med kosmetikk og kroppspleieprodukter mv. blir oppheva frå same tidspunkt. Forskrifter eller enkeltvedtak gitt i medhald av den oppheva lova gjeld til dei blir oppheva.
 

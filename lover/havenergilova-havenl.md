@@ -15,7 +15,7 @@ xml_hash: "525a7aae567786cc237c035e195368c6349144615b9e68c0abf229a02a6639fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -369,7 +369,7 @@ Konsesjonæren skal sørgje for at tilsette på skip som leverer tenester til ut
 
 ### § 11-1. (Ikraftsetjing)
 
-Denne lova gjeld frå den tida1 Kongen fastset.
+Denne lova gjeld frå den tida[^1] Kongen fastset.
 
 1 Frå 1 juli 2010 iflg. [res. 4 juni 2010 nr. 760](forskrift/2010-06-04-760).
 

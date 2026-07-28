@@ -15,7 +15,7 @@ xml_hash: "16bef2cfe2ac5f04f16fa3ab97e647d16c39629063932f5dcd0f904bd590ddbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,6 +80,6 @@ Kongen fastsetter en alminnelig instruks for Ombudets organisasjon og saksbehand
 
 Denne lov gjelder også for Svalbard.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 sep 1981 iflg. res. 6 mars 1981.

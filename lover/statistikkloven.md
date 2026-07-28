@@ -15,7 +15,7 @@ xml_hash: "92a8e3bb7b21ab9177972c9874ea706bd2ee1ea736985968dd85c8d5fb4e681f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -191,7 +191,7 @@ Departementet kan gi forskrift som er nødvendig for å oppfylle Norges statisti
 
 ### § 22. Ikrafttredelses- og overgangsbestemmelser
 
-(1) Loven trer i kraft fra den tiden1 Kongen bestemmer. Fra samme tid oppheves [lov 16. juni 1989 nr. 54](lov/1989-06-16-54) om offisiell statistikk og Statistisk Sentralbyrå. Kongen kan sette i kraft de ulike bestemmelsene i loven til forskjellig tid.
+(1) Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Fra samme tid oppheves [lov 16. juni 1989 nr. 54](lov/1989-06-16-54) om offisiell statistikk og Statistisk Sentralbyrå. Kongen kan sette i kraft de ulike bestemmelsene i loven til forskjellig tid.
 
 (2) Departementet kan gi overgangsbestemmelser.
 

@@ -15,7 +15,7 @@ xml_hash: "82fb01e512dfb370a2a15be4fc7a6be0eb1f3ae164929dd10d85d4ca40334a91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32005L0036"
@@ -376,7 +376,7 @@ For hvert oppdrag skal det være en advokat som er ansvarlig for oppdraget eller
 
 (2) Som klientmidler regnes penger, verdipapirer og verdigjenstander advokaten mottar til oppbevaring eller forvaltning, og avkastning av dette.
 
-(3) Internadvokater har ikke adgang til å behandle klientmidler.1
+(3) Internadvokater har ikke adgang til å behandle klientmidler.[^1]
 
 (4) Departementet kan gi forskrift om behandling av klientmidler.
 
@@ -386,7 +386,7 @@ For hvert oppdrag skal det være en advokat som er ansvarlig for oppdraget eller
 
 (1) Advokatforetak er regnskapspliktige etter [regnskapsloven](lov/1998-07-17-56) og plikter å ha revisor og sørge for at årsregnskap og årsberetning revideres i samsvar med [revisorloven](lov/2020-11-20-128).
 
-(2) Enhver advokat har ansvaret for gjennomføringen av regnskaps- og revisjonsplikten. Dette gjelder ikke internadvokater.1
+(2) Enhver advokat har ansvaret for gjennomføringen av regnskaps- og revisjonsplikten. Dette gjelder ikke internadvokater.[^1]
 
 (3) Departementet kan gi forskrift om rapporteringsplikt, regnskapsplikt og gjennomføring av revisjon, og om fritak fra pliktene.
 
@@ -671,7 +671,7 @@ En person som yter rettslig bistand etter [§ 66](lov/2022-05-12-28/§66), plikt
 
 ### § 72. Ikraftsetting
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 > Endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46).
 

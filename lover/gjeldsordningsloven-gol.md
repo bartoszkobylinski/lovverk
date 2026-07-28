@@ -15,7 +15,7 @@ xml_hash: "5145b9fc5c21394cdd519936f5965d1ebad44222c154959e8a63ae5f381e9825"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -562,7 +562,7 @@ Folkeregistermyndigheten skal, uten hinder av taushetsplikt, gi de opplysningene
 
 ### § 8-1. Ikrafttredelse
 
-Denne loven trer i kraft fra den tid1 Kongen bestemmer.
+Denne loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 Bestemmelsene i loven gjelder også krav som har oppstått før loven trådte i kraft.
 
@@ -570,6 +570,6 @@ Bestemmelsene i loven gjelder også krav som har oppstått før loven trådte i 
 
 ### § 8-2. Endringer i andre lover
 
-Fra den tid1 loven trer i kraft gjøres følgende endringer i andre lover: – – –
+Fra den tid[^1] loven trer i kraft gjøres følgende endringer i andre lover: – – –
 
 1 Fra 1 jan 1993 iflg. [res. 23 okt 1992 nr. 766](forskrift/1992-10-23-766).

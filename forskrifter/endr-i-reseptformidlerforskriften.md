@@ -15,7 +15,7 @@ xml_hash: "ee22b1a2e028ea59662f7ad8c93063e4e4c3e1f5ba2f42a70f6818b1cd55cc15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,6 +38,6 @@ Når en lege gjør endring i en pasients legemiddelbehandling, skal endringen og
 
 ## II
 
-Endringene trer i kraft på det tidspunktet departementet bestemmer.1
+Endringene trer i kraft på det tidspunktet departementet bestemmer.[^1]
 
 1 Fra 1 jan 2019 med unntak av [§ 2-1](forskrift/2007-12-21-1610/§2-1) nytt sjette ledd og [§ 3-3](forskrift/2007-12-21-1610/§3-3) fjerde ledd, jf. [vedtak 23 nov 2018 nr. 1906](forskrift/2018-11-23-1906).

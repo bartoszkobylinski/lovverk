@@ -15,7 +15,7 @@ xml_hash: "50cb20c77317d78a047efd46d7801f139a3edfaf4e6de1d390409881c174513c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,6 +49,6 @@ Departementet kan i forskrift:
 
 ## II
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 3 april 2020 med unntak av endringene i [§ 26](lov/1965-06-18-4/§26) og [§ 29](lov/1965-06-18-4/§29), iflg. [res. 3 april 2020 nr. 576](forskrift/2020-04-03-576).

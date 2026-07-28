@@ -15,7 +15,7 @@ xml_hash: "f8a9e29fb5e47a4ac94a6d9520ab4794f7e9fccf7040759f729b30dfaff9882f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ I [lov 24. juni 2011 nr. 29](lov/2011-06-24-29) om folkehelsearbeid gjøres føl
 
 ## XVIII
 
-1. Endringene i I til VI gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Endringene i VII til XVII trer i kraft straks.
+1. Endringene i I til VI gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Endringene i VII til XVII trer i kraft straks.
 2. Kongen kan gi overgangsbestemmelser.
 
 1 Fra 1. november 2018 for del I § 3-1 tredje ledd, § 3-1b første ledd, § 4-4 åttende ledd og § 5-2 første ledd og del IV § 56a iflg [res. 28 sep 2018 nr. 1482](forskrift/2018-09-28-1482).

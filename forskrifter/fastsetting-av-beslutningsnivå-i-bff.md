@@ -15,14 +15,14 @@ xml_hash: "e4ea9a17cecfacb67404e51ab919000a5ff80668a6d85d0de496a47092af222b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Fastsetting av beslutningsnivå på beredskapstiltak i BFF
 
-1. Beslutningsnivået for nevnte beredskapstiltak fastsettes i samsvar med fremlagt forslag.1
+1. Beslutningsnivået for nevnte beredskapstiltak fastsettes i samsvar med fremlagt forslag.[^1]
 2. Fastsetting av endret beslutningsnivå for nevnte beredskapstiltak trer i kraft sammen med utgivelsen av Beredskapssystem for forsvarssektoren 2015.
 
 1 Vedlegget er gradert BEGRENSET iht. [sikkerhetsloven § 11](lov/1998-03-20-10/§11) og § [12](lov/1998-03-20-10/§12) jf. [offentleglova § 13](lov/2006-05-19-16/§13).

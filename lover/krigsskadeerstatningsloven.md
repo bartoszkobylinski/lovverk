@@ -15,7 +15,7 @@ xml_hash: "7c9f30a164e26098a896935930983a75fb837da0b30734dbadf01d2487425674"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -331,7 +331,7 @@ Krigsskadeskipnaden kan midlertidig bestemme at visse arter av løsøre skal hol
 
 ### § 30. Tvungen trygding.
 
-Den alminnelige løsøretrygd er tvungen for løsøre som ved krigens begynnelse er eller senere under krigen, men før skaden er inntruffet, blir forsikret mot brann. Om og på hvilke betingelser den tvungne trygd skal gjelde løsøre som er brannforsikret i utenlandsk forsikringsinnretning som ikke har rett til å drive forsikringsvirksomhet her i riket etter [forsikringsloven](lov/2005-06-10-44),1 bestemmes i vedtektene.
+Den alminnelige løsøretrygd er tvungen for løsøre som ved krigens begynnelse er eller senere under krigen, men før skaden er inntruffet, blir forsikret mot brann. Om og på hvilke betingelser den tvungne trygd skal gjelde løsøre som er brannforsikret i utenlandsk forsikringsinnretning som ikke har rett til å drive forsikringsvirksomhet her i riket etter [forsikringsloven](lov/2005-06-10-44),[^1] bestemmes i vedtektene.
 
 Trygdesummen er brannforsikringssummen.
 
@@ -383,7 +383,7 @@ Reglene i denne lov og bestemmelser gitt i henhold til den, kan når som helst e
 
 ### § 36. Ikrafttreden.
 
-Denne lov trer i kraft fra den dag Kongen bestemmer.1
+Denne lov trer i kraft fra den dag Kongen bestemmer.[^1]
 
 Fra samme dag – – –
 

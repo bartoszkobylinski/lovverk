@@ -15,7 +15,7 @@ xml_hash: "cd3e0b32d9a58cd347aa6b3c24ff8c561a2b6efb2257fe89b5834a1c85452691"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -276,7 +276,7 @@ Den som forsettleg eller grovt aktlaust handlar i strid med [§ 5 første ledd](
 
 ### § 24. Iverksetjing og overgangsreglar
 
-Lova gjeld frå den tida1 Kongen fastset. Kongen kan setje i verk dei ulike føresegnene til ulik tid.
+Lova gjeld frå den tida[^1] Kongen fastset. Kongen kan setje i verk dei ulike føresegnene til ulik tid.
 
 Frå den tida lova tek til å gjelde, blir [lov 4. desember 1992 nr. 126 om arkiv](lov/1992-12-04-126) oppheva. Forskrifter gitt med heimel i [lov 4. desember 1992 nr. 126 om arkiv](lov/1992-12-04-126) gjeld òg etter at lova her tek til å gjelde.
 

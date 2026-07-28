@@ -15,7 +15,7 @@ xml_hash: "13e41fe840df88a5458a691e5d722e257bdb068d43cc26fed8c233d16e61d62d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Lov XX. XX 2024 nr. XX om elektronisk kommunikasjon (ekomloven)
 
 ## VI
 
-1. Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 1. desember 2024, med unntak av endringene under del V, iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890).

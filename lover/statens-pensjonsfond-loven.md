@@ -15,7 +15,7 @@ xml_hash: "06b8843b6c6953e11c25a9d3cc09f2d586582a4cebc623b9ffec4db3ea9ba43e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,7 +116,7 @@ Departementet skal regelmessig evaluere forvaltningen av Statens pensjonsfond ut
 
 ## § 11.
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Departementet kan gi overgangsregler.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Departementet kan gi overgangsregler.
 
 > Endret ved [lover 18 des 2009 nr. 135](lov/2009-12-18-135), [21 juni 2019 nr. 31](lov/2019-06-21-31) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 804](forskrift/2019-06-21-804), tidligere § 8).
 

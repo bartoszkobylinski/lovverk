@@ -15,7 +15,7 @@ xml_hash: "8aa1993f5bfe0ce77fca872945c1da7047db65ad4b56daced2d13e62a59bf402"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,6 +24,6 @@ eu_basis: []
 
 Kongens myndighet etter lovvedtaket XIII til å fastsette overgangsbestemmelser delegeres til Finansdepartementet.
 
-Med departementet menes i lovedtaket VII og XII Finansdepartementet.1
+Med departementet menes i lovedtaket VII og XII Finansdepartementet.[^1]
 
 1 Med departementet menes i [lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling [§ 2-3](lov/1989-06-16-53/§2-3) tredje ledd, jf. lovvedtaket VII, og [lov 5. juli 2002 nr. 64](lov/2002-07-05-64) om registrering av finansielle instrumenter (verdipapirregisterloven) [§ 6-4](lov/2002-07-05-64/§6-4) tredje ledd, jf. lovvedtaket XII, Finansdepartementet.

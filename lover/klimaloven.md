@@ -15,7 +15,7 @@ xml_hash: "67b006747d21bef999df1d968560d547348a80a066e2bc7ec81fbb7c568e7c9c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -89,7 +89,7 @@ Regjeringen skal, basert på et faglig grunnlag, hvert år overfor Stortinget p�
 
 ## § 8. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 > Endret ved lov [20 juni 2025 nr. 90](lov/2025-06-20-90) (tidligere § 7).
 

@@ -15,7 +15,7 @@ xml_hash: "616f832e463e43ab26b6ff636d6a1ac4a808430bc521a089309fa432a0daa787"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -162,7 +162,7 @@ I vedtekt stadfest av Kongen kan kommunestyret:
 
 ### § 19
 
-Denne lova tek til å gjelda frå den tid1 Kongen fastset. Samstundes held fyrste kapitlet i [lova om jordfreding frå 16. mai 1860](lov/1860-05-16) [nr. 2] opp å gjelda. – – –
+Denne lova tek til å gjelda frå den tid[^1] Kongen fastset. Samstundes held fyrste kapitlet i [lova om jordfreding frå 16. mai 1860](lov/1860-05-16) [nr. 2] opp å gjelda. – – –
 
 – – –
 

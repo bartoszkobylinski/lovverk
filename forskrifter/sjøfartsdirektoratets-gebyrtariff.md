@@ -15,7 +15,7 @@ xml_hash: "6895fc962f3b22699ccfbc330239b4aa63b113c811f2e905009a1b2ed7b1c5f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -206,7 +206,7 @@ Summen av grunngebyr og alt tilsynsgebyr multipliseres med en faktor på 2,2930
 
 > Endret ved [forskrifter 22 des 2010 nr. 1796](forskrift/2010-12-22-1796), [5 jan 2012 nr. 19](forskrift/2012-01-05-19), [11 jan 2013 nr. 38](forskrift/2013-01-11-38), [19 des 2013 nr. 1681](forskrift/2013-12-19-1681) (i kraft 1 jan 2014), [19 des 2014 nr. 1880](forskrift/2014-12-19-1880) (i kraft 1 jan 2015), [15 des 2015 nr. 1674](forskrift/2015-12-15-1674) (i kraft 1 jan 2016), [20 des 2016 nr. 1772](forskrift/2016-12-20-1772) (i kraft 1 jan 2017), [18 des 2017 nr. 2229](forskrift/2017-12-18-2229) (i kraft 1 jan 2018), [20 des 2018 nr. 2180](forskrift/2018-12-20-2180) (i kraft 1 jan 2019), [20 des 2019 nr. 2096](forskrift/2019-12-20-2096) (i kraft 1 jan 2020), [23 des 2020 nr. 3172](forskrift/2020-12-23-3172) (i kraft 1 jan 2021), [21 des 2021 nr. 3835](forskrift/2021-12-21-3835) (i kraft 1 jan 2022), [20 des 2022 nr. 2455](forskrift/2022-12-20-2455) (i kraft 1 jan 2023), [22 des 2023 nr. 2318](forskrift/2023-12-22-2318) (i kraft 1 jan 2024), [23 des 2024 nr. 3621](forskrift/2024-12-23-3621) (i kraft 1 jan 2025), [10 des 2025 nr. 2851](forskrift/2025-12-10-2851) (i kraft 1 jan 2026).
 
-## § 6. Andre gebyr for skip registrert i NOR eller NIS1 samt ikke sertifikatpliktige skip
+## § 6. Andre gebyr for skip registrert i NOR eller NIS[^1] samt ikke sertifikatpliktige skip
 
 1\. *Dispensasjonssøknader fra forskrift om arbeids- og hviletiden og forskrift om bemanning*
 
@@ -269,7 +269,7 @@ Summen av grunngebyr og alt tilsynsgebyr multipliseres med en faktor på 2,2930
 | ″ | 80 000 ″ | 100 000 ″ | 1 008 404 |
 | ″ | 100 000 ″ og over |  | 1 130 005 |
 
-2\. For måling2 av norske skip og flytende innretninger som ikke er å anse som skip, betales:
+2\. For måling[^2] av norske skip og flytende innretninger som ikke er å anse som skip, betales:
 
 | *BT* |  |  | *Kr* | *Lekter*<br>*Kr* |
 | --- | --- | --- | --- | --- |
@@ -290,7 +290,7 @@ Summen av grunngebyr og alt tilsynsgebyr multipliseres med en faktor på 2,2930
 | ″ | 80 000 ″ | 100 000 ″ | 252 108 | 19 249 |
 | ″ | 100 000 ″ og over |  | 282 506 | 19 249 |
 
-3\. For utstedelse av målebrev3 for norske og utenlandske skip og flyttbare innretninger, for skip tilhørende Det norske Sjøforsvar og for utenlandske flytende innretninger som ikke er å anse som skip, betales:
+3\. For utstedelse av målebrev[^3] for norske og utenlandske skip og flyttbare innretninger, for skip tilhørende Det norske Sjøforsvar og for utenlandske flytende innretninger som ikke er å anse som skip, betales:
 
 | *BT* |  |  | *Internasjonalt målebrev* | *Panamakanal målebrev*<br>*Kr* | *Suezkanal målebrev*<br>*Kr* |
 | --- | --- | --- | --- | --- | --- |

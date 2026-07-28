@@ -15,7 +15,7 @@ xml_hash: "6812a8d0d84d8542fbcbff48f9b26c8d9d15d8fdee23566305fdafb9cce227fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -233,14 +233,14 @@ Tabell 2
 
 For parametrene nedenfor er det fastsatt kvalitetskrav i form av nøyaktighet, presisjon og påvisningsgrense som den anvendte analysemetoden minst skal oppfylle ved måling av konsentrasjoner tilsvarende grenseverdien. Uansett analysemetodens følsomhet skal resultatet angis med minst samme antall desimaler som grenseverdien gjengitt i tabell 1.
 
-| *Parameter* | *Nøyaktighet i % av grenseverdien1* | *Presisjon i % av grenseverdien2* | *Påvisningsgrense i % av grenseverdien3* |
+| *Parameter* | *Nøyaktighet i % av grenseverdien[^1]* | *Presisjon i % av grenseverdien[^2]* | *Påvisningsgrense i % av grenseverdien[^3]* |
 | --- | --- | --- | --- |
 | Antimon | 25 | 25 | 25 |
 | Arsen | 10 | 10 | 10 |
 | Barium | 25 | 25 | 25 |
 | Bly | 10 | 10 | 10 |
 | Bor | Fastsettes senere | Fastsettes senere | Fastsettes senere |
-| Cyanid4 | 10 | 10 | 10 |
+| Cyanid[^4] | 10 | 10 | 10 |
 | Fluorid | 10 | 10 | 10 |
 | Kadmium | 10 | 10 | 10 |
 | Kopper | 10 | 10 | 10 |

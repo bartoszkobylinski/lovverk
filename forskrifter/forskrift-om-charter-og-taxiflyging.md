@@ -15,7 +15,7 @@ xml_hash: "ec94886cfcb230dde0a5e18ccf09beed562ceb0bb5f044b549a4637eee0d4170"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -404,6 +404,6 @@ Denne forskrift trer i kraft 1. mars 1999.
 
 ## 11. Opphevelse av tidligere forskrift
 
-Forskrift om bestemmelser for utførelse av charter- og taxiflyging fra og til norsk område, fastsatt av Samferdselsdepartementet 1. september 1987,1 oppheves med virkning fra 1. mars 1999.
+Forskrift om bestemmelser for utførelse av charter- og taxiflyging fra og til norsk område, fastsatt av Samferdselsdepartementet 1. september 1987,[^1] oppheves med virkning fra 1. mars 1999.
 
 1 Ikke kunngjort i Norsk Lovtidend.

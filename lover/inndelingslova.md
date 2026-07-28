@@ -15,7 +15,7 @@ xml_hash: "b48ebca990c0586cfa17087e027774192759ebd9c239937371b62849b4871073"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -322,7 +322,7 @@ Rikets fylke skal ha desse namna:
 
 ### § 30. Iverksetjing o.a.
 
-Lova tek til å gjelde frå det tidspunktet Kongen fastset.1
+Lova tek til å gjelde frå det tidspunktet Kongen fastset.[^1]
 
 Frå same tid blir lov om endring i kommunal inndeling [21. desember 1956 nr. 3](lov/1956-12-21-3) oppheva.
 

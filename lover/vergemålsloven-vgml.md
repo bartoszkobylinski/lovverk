@@ -15,7 +15,7 @@ xml_hash: "c5ffe63c66c96e690eeb8306a5d147f6db230e6ab5a7d57e729f4c10d6b293c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -948,7 +948,7 @@ Ved statsforvalterens og domstolenes behandling av saker etter kapitlet her anve
 
 ### § 101. Ikraftsetting. Overgangsregler
 
-1. Loven gjelder fra den tid Kongen bestemmer.1 De enkelte bestemmelsene kan settes i kraft til ulik tid.
+1. Loven gjelder fra den tid Kongen bestemmer.[^1] De enkelte bestemmelsene kan settes i kraft til ulik tid.
 2. Beslutning om opprettelse av hjelpevergemål etter [lov 22. april 1927 nr. 3](lov/1927-04-22-3) om vergemål for umyndige gjelder også etter ikrafttredelsen av loven her. Hjelpevergemålet regnes etter lovens ikrafttredelse som et vergemål uten fratakelse av den rettslige handleevnen etter reglene i loven her og med det innhold som er besluttet for hjelpevergemålet. Oppdraget som hjelpeverge fortsetter etter lovens ikrafttredelse som et oppdrag som verge etter reglene i loven her og med det innhold som er besluttet for hjelpevergemålet.
 3. Beslutning om umyndiggjøring etter [lov 28. november 1898](lov/1898-11-28) om Umyndiggjørelse gjelder i tre år etter ikrafttredelsen av loven her. Beslutningen om umyndiggjøring regnes i denne perioden som et vergemål med full fratakelse av den rettslige handleevnen etter reglene i loven her. Oppdraget som verge fortsetter etter lovens ikrafttredelse som et oppdrag som verge etter reglene i loven her og med det innhold som gjelder for vergemål med full fratakelse av den rettslige handleevnen.
 4. Finansielle eiendeler som ved ikrafttredelsen av loven her har vært forvaltet av overformynderiet etter [lov 22. april 1927 nr. 3 kapittel 6](lov/1927-04-22-3/kap6), men som utgjør et beløp som er lavere enn beløpsgrensen som følger av forskrift etter [§ 49](lov/2010-03-26-9/§49) første ledd første punktum i loven her, skal forvaltes av fylkesmannen i ett år etter lovens ikrafttredelse. Dette gjelder likevel ikke hvis fylkesmannen i denne perioden beslutter at eiendelene ikke skal forvaltes av fylkesmannen.

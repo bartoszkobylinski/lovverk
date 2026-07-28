@@ -15,7 +15,7 @@ xml_hash: "92c05646fb6ca33dd95231bf428e8cd2674ee753d427dec3e0ccefeee6cad6c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016L0680"
@@ -797,7 +797,7 @@ Kongen kan videre i forskrift gi nærmere regler om behandling av opplysninger s
 
 ### § 70. Ikraftsetting
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan bestemme at ulike bestemmelser i loven kan tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan bestemme at ulike bestemmelser i loven kan tre i kraft til forskjellig tid.
 
 Kongen kan gi nærmere overgangsregler.
 

@@ -15,7 +15,7 @@ xml_hash: "a51f27622537d8e6dd2c20f1e1dbeeded772785c017deee1ce4700a14e9a7258"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -117,7 +117,7 @@ I denne forordning menes med
 1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell («den felles militære listen»), eller knyttet til levering, produksjon, vedlikehold og bruk av varer og teknologi oppført på den felles militære listen, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Venezuela,
 2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på den felles militære listen, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand, formidlingstjenester eller andre tilknyttede tjenester, til personer, enheter eller organer i eller til bruk i Venezuela.
 
-2\. Forbudene i nr. 1 gjelder ikke oppfyllelse av kontrakter som er inngått før 13. november 2017, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, forutsatt at de er i samsvar med Rådets felles holdning [2008/944/FUSP](eu/32008*0944),1 særlig med kriteriene fastsatt i Artikkel 2 i nevnte felles holdning, og at den fysiske eller juridiske personen, enheten eller organet som har til hensikt å gjennomføre kontrakten, innen fem virkedager etter denne forordnings ikrafttredelse har meldt kontrakten til den kompente myndigheten i medlemsstaten der de er etablert.
+2\. Forbudene i nr. 1 gjelder ikke oppfyllelse av kontrakter som er inngått før 13. november 2017, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, forutsatt at de er i samsvar med Rådets felles holdning [2008/944/FUSP](eu/32008*0944),[^1] særlig med kriteriene fastsatt i Artikkel 2 i nevnte felles holdning, og at den fysiske eller juridiske personen, enheten eller organet som har til hensikt å gjennomføre kontrakten, innen fem virkedager etter denne forordnings ikrafttredelse har meldt kontrakten til den kompente myndigheten i medlemsstaten der de er etablert.
 
 1 Rådets felles holdning [2008/944/FUSP](eu/32008*0944) av 8. desember 2008 om felles regler for kontroll med eksport av militærteknologi og militærmateriell (EUT L 335 av 13.12.2008, s. 99).
 
@@ -380,7 +380,7 @@ Equipment, technology and software referred to in Articles 6 and 7
 
 Notwithstanding the contents of this Annex, it shall not apply to:
 
-(a) equipment, technology or software which are specified in Annex I to Council Regulation [(EC) 428/2009](eu/32009r0428*)1 or the Common Military List; or
+(a) equipment, technology or software which are specified in Annex I to Council Regulation [(EC) 428/2009](eu/32009r0428*)[^1] or the Common Military List; or
 
 (b) software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
 
@@ -403,9 +403,9 @@ The equipment, technology and software referred to in Articles 6 and 7 is:
 - Network and Satellite jamming equipment
 - Remote Infection equipment
 - Speaker recognition/processing equipment
-- IMSI,2 MSISDN,3 IMEI,4 TMSI,5 interception and monitoring equipment
-- Tactical SMS6 /GSM7 /GPS8 /GPRS9 /UMTS10 /CDMA11 /PSTN12 interception and monitoring equipment
-- DHCP13 /SMTP,14 GTP15 information interception and monitoring equipment
+- IMSI,[^2] MSISDN,[^3] IMEI,[^4] TMSI,[^5] interception and monitoring equipment
+- Tactical SMS[^6] /GSM[^7] /GPS[^8] /GPRS[^9] /UMTS[^10] /CDMA[^11] /PSTN[^12] interception and monitoring equipment
+- DHCP[^13] /SMTP,[^14] GTP[^15] information interception and monitoring equipment
 - Pattern Recognition and Pattern Profiling equipment
 - Remote Forensics equipment
 - Semantic Processing Engine equipment

@@ -15,7 +15,7 @@ xml_hash: "328f78eb86c449fbb16130a84ed360c0368e42ed50f575171f3ab2eba693ad3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -220,7 +220,7 @@ Departementet kan gi forskrift om abortnemndenes og Abortklagenemndas organiseri
 
 ### § 28. Ikrafttredelse og overgangsregler
 
-Loven trer i kraft fra den tiden1 Kongen bestemmer.
+Loven trer i kraft fra den tiden[^1] Kongen bestemmer.
 
 Fra den tiden loven trer i kraft, oppheves [lov 13. juni 1975 nr. 50 om svangerskapsavbrudd](lov/1975-06-13-50).
 

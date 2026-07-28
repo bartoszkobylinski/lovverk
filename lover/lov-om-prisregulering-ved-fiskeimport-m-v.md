@@ -15,7 +15,7 @@ xml_hash: "ab63ca30e41e696fa931dc513d7c97ca7edd02d1b6f61e1c43542c4bb67484fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Lovens formål er å motvirke markedsforstyrrelser på grunn av tilbud av fisk o
 
 Tilbys fisk og fiskevarer fra utlandet til priser som ligger lavere enn minstepriser som er bestemt for tilsvarende varer ved innenlands omsetning på første hånd og det innføres betydelige mengder av denne varen, kan departementet ved forskrift fastsette minsteimportpris for vedkommende vare.
 
-Minsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av [lov av 14. desember 1951 nr. 3](lov/1951-12-14-3)1 om omsetning av råfisk.
+Minsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av [lov av 14. desember 1951 nr. 3](lov/1951-12-14-3)[^1] om omsetning av råfisk.
 
 1 Inkurie: Loven er opphevet, se nå [lov 21 juni 2013 nr. 75](lov/2013-06-21-75).
 

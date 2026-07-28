@@ -15,7 +15,7 @@ xml_hash: "9a3dfc4c3c6cd8450bbee674e97cc87817423659b3f82f733be26cb7701f36c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,6 +38,6 @@ I [lov 17. juni 2016 nr. 73 om offentlige anskaffelser](lov/2016-06-17-73) gjør
 
 ## II
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1. juli 2026, med unntak av opphevelsen av § 4, iflg. [res. 6 mars 2026 nr. 358](forskrift/2026-03-06-358).

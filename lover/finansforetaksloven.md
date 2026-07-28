@@ -15,7 +15,7 @@ xml_hash: "e59ef3da99933c528f8c66ac3a213d3f1170ed912b0f29ca00e6917c3533838c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -4621,7 +4621,7 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 
 ### § 23-1. Ikrafttreden
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
 
 1 Fra 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350).
 

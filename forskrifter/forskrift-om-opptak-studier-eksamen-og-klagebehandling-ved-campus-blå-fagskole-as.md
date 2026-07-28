@@ -15,7 +15,7 @@ xml_hash: "76cabe5b0d4b8facb6bf283754a266789baaa07f7391342faddbb11f8f819548"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,7 +90,7 @@ Formelt opptak til fagskoleutdanningen Driftstekniker Havbruk krever fullført o
 
 (5) Følgende gir grunnlag for opptak til Driftstekniker Havbruk – utdanningen basert på realkompetansevurdering:
 
-1. 5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene Røkting og drift og Produkt og kvalitet
+1. 5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat[^\*] basert på læreplan i Vg3 Akvakulturfaget med programfagene Røkting og drift og Produkt og kvalitet
 2. Generell studiekompetanse + 3 års relevant arbeidserfaring
 3. Bestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene Drift og produksjon, Anlegg og teknikk samt Biologi og miljø inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
 
@@ -116,7 +116,7 @@ Formelt opptak til fagskoleutdanningen Driftsleder Akvakultur krever fullført o
 
 (5) Følgende gir grunnlag for opptak til Driftsleder Akvakultur-utdanningen basert på realkompetansevurdering:
 
-1. 5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene *Røkting og drift* og *Produkt og kvalitet*
+1. 5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat[^\*] basert på læreplan i Vg3 Akvakulturfaget med programfagene *Røkting og drift* og *Produkt og kvalitet*
 2. Generell studiekompetanse + 3 års relevant arbeidserfaring
 3. Bestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene *Drift og produksjon*, *Anlegg og teknikk* samt *Oppdrett og miljø* inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur
 4. Bestått skriftlig eksamen som privatist i hvert av programfagene fra Vg2 Akvakultur samt bestått tverrfaglig praktisk eksamen hvor de felles programfagene inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.

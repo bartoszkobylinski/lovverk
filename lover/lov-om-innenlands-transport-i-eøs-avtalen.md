@@ -15,7 +15,7 @@ xml_hash: "5d1df37593c4b8265cb681a3b03b679d8e2b226d9ca3e9c0b99a88daa6e3572f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31960R0011"
@@ -39,7 +39,7 @@ Kongen kan gi nærmere regler om fordelingen av myndighet mellom departementet o
 
 ## § 3.
 
-Den som forsettlig eller uaktsomt overtrer artikkel 5 nr. 2 eller artikkel 6 i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) punkt 6 ([rådsforordning nr. 11 av 27 juni 1960](eu/31960r0011)), eller unnlater å etterkomme en anmodning etter avtalen artikkel 11 eller 1311 om å gi opplysninger til norske myndigheter, straffes som fastsatt i [konkurranseloven § 32](lov/2004-03-05-12/§32).
+Den som forsettlig eller uaktsomt overtrer artikkel 5 nr. 2 eller artikkel 6 i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) punkt 6 ([rådsforordning nr. 11 av 27 juni 1960](eu/31960r0011)), eller unnlater å etterkomme en anmodning etter avtalen artikkel 11 eller 131[^1] om å gi opplysninger til norske myndigheter, straffes som fastsatt i [konkurranseloven § 32](lov/2004-03-05-12/§32).
 
 På samme måte straffes den som forsettlig gir norske myndigheter uriktige opplysninger.
 

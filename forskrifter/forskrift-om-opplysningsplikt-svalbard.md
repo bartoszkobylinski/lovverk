@@ -15,7 +15,7 @@ xml_hash: "8b01bdb47707bc0099da70271cf997de226c6ff1f211ba4a0e7784be16bccb0e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Taushetsplikt etter denne forskriften opphører etter 60 år.
 
 ## § 5. Samordning av statistikk
 
-Før Sysselmesteren gir pålegg om opplysningsplikt etter forskriften her, skal Statistisk sentralbyrå orienteres, jf. lov 21. juni 2021 nr. 32 om offisiell statistikk og Statistisk sentralbyrå § 11.1 Statistisk sentralbyrå skal uansett gis rett til å utnytte opplysninger som samles inn med hjemmel i denne forskriften.
+Før Sysselmesteren gir pålegg om opplysningsplikt etter forskriften her, skal Statistisk sentralbyrå orienteres, jf. lov 21. juni 2021 nr. 32 om offisiell statistikk og Statistisk sentralbyrå § 11.[^1] Statistisk sentralbyrå skal uansett gis rett til å utnytte opplysninger som samles inn med hjemmel i denne forskriften.
 
 > Endret ved forskrift [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 

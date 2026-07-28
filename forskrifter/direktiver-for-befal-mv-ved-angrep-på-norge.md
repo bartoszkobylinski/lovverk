@@ -15,7 +15,7 @@ xml_hash: "f34df90305dbc77121b87edc4c9acc272e309de0b55e8eb8179021bb83e49071"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,7 +31,7 @@ eu_basis: []
    2. Militær befalingsmann som ved mobilisering er disponert som sjef for enhet ned til kompani, fort, fartøy, skvadron eller tilsvarende enhet.
 3. Med vepnet angrep forstås i dette direktiv enhver uhjemlet inntrenging over norsk land-, sjø- og luftterritorium av vepnede styrker fra fremmed makt, når de åpenbart har fiendtlige hensikter eller når de bruker makt mot norske styrker som vil stanse dem.
 4. Med kommandodistrikt forstås i dette direktiv distriktet for vedkommende Distriktskommando (DK), Sjøforsvarskommando (SK) og Luftkommando (LK).
-5. Med femtekolonister1 forstås i dette direktiv nordmenn eller utlendinger som innenfor landets grenser arbeider for fremmed makt med ulovlig etterretningsvirksomhet, planlegging og gjennomføring av sabotasje, attentater eller lignende.
+5. Med femtekolonister[^1] forstås i dette direktiv nordmenn eller utlendinger som innenfor landets grenser arbeider for fremmed makt med ulovlig etterretningsvirksomhet, planlegging og gjennomføring av sabotasje, attentater eller lignende.
 
 1 Skal vel være «femtekolonnister».
 
@@ -62,7 +62,7 @@ eu_basis: []
    Militær sjef nevnt under punkt 2. b), plikter så langt hans muligheter rekker, å medvirke til at den mobilisering som er nevnt under 9), blir gjennomført så raskt og så effektivt som mulig.
 3. Vepnet angrep som utløser full og øyeblikkelig mobilisering. Ved vepnet angrep, som skal utløse full og øyeblikkelig mobilisering, se II punkt 7, plikter alle militære sjefer å mobilisere de avdelinger og enheter som er underlagt dem etter bestemmelsene i punkt 9.
 4. Grunnsetninger for forsvarskampen. Militære sjefer skal ha et særlig ansvar når det gjelder å etterleve de grunnsetninger som er nevnt i II. punkt 8.
-5. Femtekolonister.1
+5. Femtekolonister.[^1]
 
    1. De militære sjefer skal regne med at femtekolonister vil komme til å bli satt inn før eller samtidig med et vepnet angrep.
    2. De militære sjefer er i fred og i krig ansvarlig for sikringen av militært område mot femtekolonister innenfor rammen av sine hjelpemidler.

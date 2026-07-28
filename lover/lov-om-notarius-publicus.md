@@ -15,7 +15,7 @@ xml_hash: "8b6e62dc7ab514a67a013893d00ee20945e442fbc428ad5fbc13dc7dd334e1a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,7 @@ Om dekning av sakskostnader frå det offentlege gjeld [forvaltningslova § 36](l
 
 ## § 6. Ikraftsetjings- og overgangsføresegner
 
-Lova gjeld frå den tid Kongen fastset.1
+Lova gjeld frå den tid Kongen fastset.[^1]
 
 Frå same tid blir [lov av 14. august 1918 nr. 4](lov/1918-08-14-4) om rettergangsordningens ikrafttræden [§§ 6-8](lov/1918-08-14-4/§6) oppheva.
 

@@ -15,7 +15,7 @@ xml_hash: "4f2d564c0105699b8832fd9bc240f18a8076b90bcd6f06ed3c2f82241908cc4d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -173,7 +173,7 @@ eu_basis: []
 
 ### 1. Offentlige råd, styrer og utvalg
 
-- Industriberedskapsutvalget. Opprettet ved kgl.res 19. februar 1952.1
+- Industriberedskapsutvalget. Opprettet ved kgl.res 19. februar 1952.[^1]
 - Sentralrådet for bygge- og anleggsberedskap. Opprettet ved kgl.res. 20. desember 1985.
 - Samarbeidsutvalget for ernæringsberedskap. Opprettet ved kgl.res. 4. november 1985.
 - Næringslovutvalget. Opprettet ved kgl.res. 2. februar 1990.

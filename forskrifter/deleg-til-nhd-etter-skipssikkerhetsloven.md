@@ -15,14 +15,14 @@ xml_hash: "16c64b56c64fe177d0eb8b0c40254e824372ec4973d3be33dc34cf1f0434a106"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Nærings- og handelsdepartementet, Miljøverndepartementet og Forsvarsdepartementet etter skipssikkerhetsloven og utpeking av tilsynsmyndighet.
 
-Delegering av Kongens myndighet etter lov om skipssikkerhet i samsvar med fremlagt forslag.1
+Delegering av Kongens myndighet etter lov om skipssikkerhet i samsvar med fremlagt forslag.[^1]
 
 1 Se vedlegg.
 

@@ -15,7 +15,7 @@ xml_hash: "c2c79bc1b1821a06742674892ccf8e02a6e0d61e9f7b30d62b6ba62a0bc23401"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -469,7 +469,7 @@ Kongen kan gi nærmere regler om Finnmarkskommisjonen og utmarksdomstolen for Fi
 
 ### § 48. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
 1 Iflg. [res. 25 nov 2005 nr. 1325](forskrift/2005-11-25-1325) er § 49 syvende og åttende ledd satt ikr. 25 nov 2005. Iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509). er resten av loven med unntak av kapittel 5 satt ikr. 1 juli 2006. Iflg. res. 14 mars 2008 nr. 248 er kapittel 5 satt ikr. 14 mars 2008.
 

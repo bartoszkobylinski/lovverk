@@ -15,7 +15,7 @@ xml_hash: "0520e92e4722e3ee3d27cae88bd0c2970463e150bf1048d0ffe77d512c4e1a90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,6 +34,6 @@ I [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19) gjøres følgen
 
 ## III
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1. juli 2026 for del I (endringene i [arbeidsmiljøloven § 4-1 sjuende ledd](lov/2005-06-17-62/§4-1/ledd/7)) iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139).

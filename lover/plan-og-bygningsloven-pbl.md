@@ -15,7 +15,7 @@ xml_hash: "5efe88a3bd918bf8fb9f185432317547233f467f6fd5c4d086a4fc2fa82c0ec5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -272,7 +272,7 @@ Dersom planen kan få vesentlige miljøvirkninger i en annen stat, skal planmynd
 
 Alle forslag til planer etter loven skal ved offentlig ettersyn ha en planbeskrivelse som beskriver planens formål, hovedinnhold og virkninger, samt planens forhold til rammer og retningslinjer som gjelder for området, jf. også [§ 11-8 a femte ledd](lov/2008-06-27-71/§11-8a/ledd/5).
 
-For regionale planer og kommuneplaner med retningslinjer eller rammer for framtidig utbygging og for reguleringsplaner som kan få vesentlige virkninger for miljø og samfunn, skal planbeskrivelsen gi en særskilt vurdering og beskrivelse – konsekvensutredning – av planens virkninger for miljø og samfunn.1
+For regionale planer og kommuneplaner med retningslinjer eller rammer for framtidig utbygging og for reguleringsplaner som kan få vesentlige virkninger for miljø og samfunn, skal planbeskrivelsen gi en særskilt vurdering og beskrivelse – konsekvensutredning – av planens virkninger for miljø og samfunn.[^1]
 
 Kongen kan gi forskrift om planprogram, planbeskrivelse og konsekvensutredninger, herunder om behandling av planer med grenseoverskridende virkninger.
 
@@ -1236,7 +1236,7 @@ I forbindelse med statlig planlegging etter [§§ 6-3](lov/2008-06-27-71/§6-3) 
 
 ### V. Konsekvensutredninger for tiltak og planer etter annet lovverk
 
-### Kapittel 14. Konsekvensutredninger for tiltak og planer etter annet lovverk1
+### Kapittel 14. Konsekvensutredninger for tiltak og planer etter annet lovverk[^1]
 
 1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1a (direktiv [2011/92](eu/32011l0092) som endret ved direktiv [2014/52](eu/32014l0052)) og nr. 1g (direktiv [2001/42](eu/32001l0042)).
 
@@ -2865,9 +2865,9 @@ Eieren skal gjøres oppmerksom på ulovlige forhold som oppdages ved tilsyn. Pla
 
 ### § 34-1. Ikrafttreden – plandelen
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
-Fra samme tidspunkt oppheves plan- og bygningsloven av 14. juni 1985 nr. 77 kapittel I til VII-a.2
+Fra samme tidspunkt oppheves plan- og bygningsloven av 14. juni 1985 nr. 77 kapittel I til VII-a.[^2]
 
 1 Iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638) trådte plandelen, med unntak av [kapittel 15](lov/2008-06-27-71/kap15), ikr. 1 juli 2009. Fra samme tidspunkt ble endringene i kapittel 1 og 19 og [lovens tittel fastsatt i lov 8 mai 2009 nr. 27](lov/2009-05-08-27) satt ikr. Ved res. 18 juni 2010 nr. 896 ble kapittel 15 samt byggesaksdelen satt ikr. 1 juli 2010 med unntak av § 23-7 første ledd andre punktum, § 24-1 første ledd andre punktum bokstav a og § 24-2 som iflg. [res. 29 apr 2011 nr. 479](forskrift/2011-04-29-479) skulle tre ikr. 1 juli 2012. Ved [res. 22 juni 2012 nr. 574](forskrift/2012-06-22-574) ble dette endret slik at [§ 24-1](lov/2008-06-27-71/§24-1) første ledd andre punktum bokstav a og [§ 24-2](lov/2008-06-27-71/§24-2) trådte ikr. 1 jan 2013, og ikraftsettingen av [§ 23-7](lov/2008-06-27-71/§23-7) første ledd andre punktum ble utsatt.
 
@@ -2903,7 +2903,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvordan reglene i plan
 
 ### § 34-3. Ikrafttreden – byggesaksdelen
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tidspunkt oppheves plan- og [bygningsloven 14. juni 1985 nr. 77 kapittel VIII](lov/1985-06-14-77/kapviii) til XXI.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme tidspunkt oppheves plan- og [bygningsloven 14. juni 1985 nr. 77 kapittel VIII](lov/1985-06-14-77/kapviii) til XXI.
 
 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Det kan fastsettes en særskilt ikraftsetting av reglene om godkjenning, herunder krav om obligatorisk godkjenning av ansvarlig kontrollerende.
 

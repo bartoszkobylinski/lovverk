@@ -15,7 +15,7 @@ xml_hash: "1362b64eb91a3f24ab91b7c655ad23c091f9cf2f879c386417a3698d089e75b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -400,7 +400,7 @@ I vedlegget opererer man med følgende definisjoner av 'sannsynlighet':
 |  |  | *T: Foreløpig udyktighet* | *P: Permanent udyktighet* |  |
 | *A00–B99* | *Visse infeksjonssykdommer og parasittsykdommer* |  |  |  |
 | A00–09 | *Gastrointestinal infeksjon*<br>Overføring til andre – tilbakefall | Hvis venter på prøveresultater vedrørende bærerstatus);<br>eller bekreftet bærerstatus inntil denne er dokumentert ikke lenger å være til stede |  | Når tilfredsstillende behandlet eller helbredet |
-| A15–16 | *Lungetuberkulose*<br>Overføring til andre, tilbakefall<br>(Testing følger forskrift om tuberkulosekontroll) | Positiv screening-test eller sykehistorie som gir mistanke om tuberkulose:<br>Inntil undersøkt<br>eller<br>hvis infisert:<br>Inntil behandling er stabilisert og losen er dokumentert smittefri og i stand til å utføre sine arbeidsoppgaver | Lungeskade med redusert fysisk kapasitet | Fullført vellykket behandling etter forskrift om tuberkulosekontroll1<br>og<br>i stand til å utføre sine arbeidsoppgaver. |
+| A15–16 | *Lungetuberkulose*<br>Overføring til andre, tilbakefall<br>(Testing følger forskrift om tuberkulosekontroll) | Positiv screening-test eller sykehistorie som gir mistanke om tuberkulose:<br>Inntil undersøkt<br>eller<br>hvis infisert:<br>Inntil behandling er stabilisert og losen er dokumentert smittefri og i stand til å utføre sine arbeidsoppgaver | Lungeskade med redusert fysisk kapasitet | Fullført vellykket behandling etter forskrift om tuberkulosekontroll[^1]<br>og<br>i stand til å utføre sine arbeidsoppgaver. |
 | A50–64 | *Seksuelt overførbar sykdom*<br>Akutt funksjonsnedsettelse, tilbakefall | Hvis mistenkt: Inntil diagnostisert, behandling initiert og fri for symptomer som reduserer funksjonsevnen. | Senkomplikasjoner som reduserer funksjonsdyktighet og ikke kan behandles | Etter fullført vellykket behandling<br>eller behandling initiert og fri for symptomer som reduserer funksjonsevnen. |
 | B15 | *Hepatitt A*<br>Overførbar gjennom kontaminering av drikkevann og mat | Inntil klinisk og biokjemisk normalisert<br>og<br>i stand til å utføre sine arbeidsoppgaver |  | Når klinisk og biokjemisk normalisert<br>og<br>i stand til å utføre sine arbeidsoppgaver |
 | B16–19 | *Hepatitt B, C, osv.*<br>Mulighet for permanent leverskade og lever-cancer. Overførbar ved kontakt via blod eller andre kroppsvæsker. | Et eller flere av følgende kriterier:<br>– klinisk og biokjemisk ikke normalisert<br>– mens smittesannsynlighet er høy eller moderat<br>– ute av stand til å utføre sine arbeidsoppgaver | Persisterende leverskade med symptomer som affiserer pålitelig, sikker og effektiv utførelse av arbeidsoppgaver<br>eller<br>Persisterende moderat eller høy smittesannsynlighet | Når klinisk og biokjemisk normalisert<br>og bekreftet lav smittesannsynlighet<br>og<br>i stand til å utføre sine arbeidsoppgaver |

@@ -15,7 +15,7 @@ xml_hash: "173af0ee33868599d771b37155c295c975c36156cbcb13f11ecc67062bbb350e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-08T06:25:33.153142+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -457,7 +457,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Betain, vannfritt | A16AA06 | 01.02.2019 |
 | Alle | Metreleptin | A16AA07 | 01.10.2020 |
 | Alle | Epoprostenol | B01AC09 | 01.01.2017 |
-| Alle\*\*\* | Iloprost | B01AC11 | 01.01.2017 |
+| Alle[^\*\*\*] | Iloprost | B01AC11 | 01.01.2017 |
 | Alle | Treprostinil | B01AC21 | 01.01.2017 |
 | Alle | Seleksipag | B01AC27 | 01.01.2017 |
 | Alle | Tenekteplase | B01AD11 | 01.01.2024 |
@@ -727,7 +727,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Bulevirtide | J05AX28 | 01.06.2020 |
 | Alle | Fostemsavir | J05AX29 | 01.10.2020 |
 | Alle | Lenacapavir | J05AX31 | 01.05.2022 |
-| Alle med unntak av Beriglobin til bruk mot Hepatitt A\*\* | Humant normalt immunglobulin SC | J06BA01 | 01.09.2020 |
+| Alle med unntak av Beriglobin til bruk mot Hepatitt A[^\*\*] | Humant normalt immunglobulin SC | J06BA01 | 01.09.2020 |
 | Alle | Humant normalt immunglobulin IV | J06BA02 | 01.09.2020 |
 | Alle | Bezlotoksumab | J06BC03 | 02.01.2018 |
 | Alle | Obiltoxaximab | J06BC04 | 01.12.2020 |
@@ -850,8 +850,8 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Pemigatinib | L01EN02 | 01.10.2020 |
 | Alle | Infigratinib | L01EN03 | 01.09.2022 |
 | Alle | Futibatinib | L01EN04 | 01.12.2022 |
-| Alle\* | Capmatinib | L01EP01 | 01.01.2022 |
-| Alle\* | Tepotinib | L01EP02 | 01.06.2021 |
+| Alle[^\*] | Capmatinib | L01EP01 | 01.01.2022 |
+| Alle[^\*] | Tepotinib | L01EP02 | 01.06.2021 |
 | Alle | Sunitinib | L01EX01 | 01.05.2017 |
 | Alle | Sorafenib | L01EX02 | 01.05.2017 |
 | Alle | Pazopanib | L01EX03 | 01.05.2017 |
@@ -1114,8 +1114,8 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Danicopan | L04AJ09 | 01.08.2023 |
 | Alle | Vilobelimab | L04AJ10 | 01.11.2023 |
 | Alle | Teriflunomid | L04AK02 | 01.10.2013 |
-| Alle\* | Efgartigimod alfa | L04AL01 | 01.05.2022 |
-| Alle\* | Rozanoliksizumab | L04AL02 | 01.11.2023 |
+| Alle[^\*] | Efgartigimod alfa | L04AL01 | 01.05.2022 |
+| Alle[^\*] | Rozanoliksizumab | L04AL02 | 01.11.2023 |
 | Alle | Nipocalimab | L04AL03 | 15.12.2024 |
 | Alle | Bardoksolonmetyl | L04AX | 01.05.2022 |
 | Alle | Thalidomid | L04AX02 | 01.05.2017 |
@@ -1142,7 +1142,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Pegloticase | M04AX02 | 01.02.2019 |
 | Alle | Navepegritid | M05 | 15.01.2026 |
 | Bondronat | Ibandronsyre | M05BA06 | 01.01.2009 |
-| Alle 120 mg til injeksjon\*\*\* | Denosumab | M05BX04 | 01.01.2014 |
+| Alle 120 mg til injeksjon[^\*\*\*] | Denosumab | M05BX04 | 01.01.2014 |
 | Alle | Burosumab | M05BX05 | 01.05.2018 |
 | Alle | Vosoritide | M05BX07 | 01.03.2021 |
 | Alle | Kollagenase clostridium histolyticum | M09AB02 | 15.02.2018 |

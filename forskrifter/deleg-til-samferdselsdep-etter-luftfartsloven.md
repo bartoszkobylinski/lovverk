@@ -15,13 +15,13 @@ xml_hash: "223dd7b5e325a4b8027a1a2e21c7f036c5bf61f8e0a0496a7ccacdcbe184946c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Samferdselsdepartementet etter luftfartsloven § 16-1 første ledd.
 
-Myndighet til å gi forskrift etter [luftfartsloven av 11. juni 1993 nr. 101 § 16-1](lov/1993-06-11-101/§16-1) første ledd vedrørende Rdir. [1992/14/EØF](eu/31992l0014) av 2. mars 1992 – med senere endringer – om begrensning av operasjoner med fly (støykrav m.m.) delegeres til Samferdselsdepartementet.1
+Myndighet til å gi forskrift etter [luftfartsloven av 11. juni 1993 nr. 101 § 16-1](lov/1993-06-11-101/§16-1) første ledd vedrørende Rdir. [1992/14/EØF](eu/31992l0014) av 2. mars 1992 – med senere endringer – om begrensning av operasjoner med fly (støykrav m.m.) delegeres til Samferdselsdepartementet.[^1]
 
 1 Luftfartstilsynet iflg. [vedtak 4 okt 2000 nr. 1052](forskrift/2000-10-04-1052).

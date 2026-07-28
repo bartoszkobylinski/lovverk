@@ -15,7 +15,7 @@ xml_hash: "93de30f4fab64b458908d62317b660e348b76e2918379f3b97a353dfc7f33a56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Arbeids- og sosialdepartementet gis fullmakt til å treffe de avgjørelsene som 
 
 ## IX
 
-Statsforvalteren gis fullmakt til å føre lovlighetskontroll med kommunale vedtak etter reglene i [kommuneloven kapittel 27](lov/2018-06-22-83/kap27), med unntak av vedtak etter kirke- og gravplasslovgivningen. Lovlighetsklager på kommunale vedtak etter kirke- og gravplasslovgivningen skal bringes inn for det ansvarlige departementet1.
+Statsforvalteren gis fullmakt til å føre lovlighetskontroll med kommunale vedtak etter reglene i [kommuneloven kapittel 27](lov/2018-06-22-83/kap27), med unntak av vedtak etter kirke- og gravplasslovgivningen. Lovlighetsklager på kommunale vedtak etter kirke- og gravplasslovgivningen skal bringes inn for det ansvarlige departementet[^1].
 
 De enkelte departementene gis fullmakt til å føre lovlighetskontroll med fylkeskommunale vedtak etter reglene i [kommuneloven kapittel 27](lov/2018-06-22-83/kap27). Fullmakten gjelder bare vedtak som er truffet i medhold av de lovene som vedkommende departement til enhver tid forvalter.
 
@@ -136,7 +136,7 @@ De enkelte departementene gis fullmakt til å treffe de avgjørelser som er till
 
 ## XVII
 
-Vedtakene I–V, VIII, IX, XV og XVI trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1 Fra samme tidspunkt oppheves kongelig [resolusjon 27. oktober 2017 nr. 1666](forskrift/2017-10-27-1666) og kongelig [resolusjon 18. desember 1992 nr. 1079](forskrift/1992-12-18-1079).
+Vedtakene I–V, VIII, IX, XV og XVI trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.[^1] Fra samme tidspunkt oppheves kongelig [resolusjon 27. oktober 2017 nr. 1666](forskrift/2017-10-27-1666) og kongelig [resolusjon 18. desember 1992 nr. 1079](forskrift/1992-12-18-1079).
 
 1 Antas å være 1 november 2019, se [vedtak 3 okt 2019 nr. 1294](forskrift/2019-10-03-1294).
 

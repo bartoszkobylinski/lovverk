@@ -15,7 +15,7 @@ xml_hash: "39a2c325762e8c5197f8ef08d60c8b3d238f049a469c5de90c2510d5f710dac3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ I [lov 20. april 2018 nr. 8 om grensetilsyn og grensekontroll av personer](lov/2
 
 ## VI
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 1. juli 2026 for del II § 24b, del III, del IV § 18 og del V iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283).

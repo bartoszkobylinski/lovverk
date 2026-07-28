@@ -15,7 +15,7 @@ xml_hash: "14f6c61fcdc647815f779b87751914d051710dee5543940b3b24cc5b88f23a80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,7 +53,7 @@ Omsetningsledd kan dannes ved sammenslutninger.
 
 For å bli godkjent etter denne forskrift må omsetningsleddet:
 
-1. være registrert i Foretaksregisteret1 og ha fast forretningssted.
+1. være registrert i Foretaksregisteret[^1] og ha fast forretningssted.
 2. i et normalår ha et inntak av poteter på minst 1000 tonn i Sør-Norge og minst 250 tonn i Nord-Norge direkte fra foretak som driver med produksjon av matpoteter.
 3. ha den direkte kontakten med foretakene som driver produksjon av matpotet, og all avregning og fakturering av poteter må skje i omsetningsleddets navn.
 

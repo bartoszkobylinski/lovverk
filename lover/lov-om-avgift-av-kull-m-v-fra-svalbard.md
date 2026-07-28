@@ -15,7 +15,7 @@ xml_hash: "f519a7a4c3f0223e5afa235895aabf8c7131bc7eb30a42010548a4b6807e4c63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,7 @@ Kongen gir de forskrifter, som for øvrig måtte anses nødvendige til gjennemf�
 
 ## § 11.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Av kull, jordoljer og andre mineraler og bergarter som før lovens ikrafttreden er innlastet til utførsel, erlegges ikke avgift.
 

@@ -15,7 +15,7 @@ xml_hash: "6df76b63db7460b52ad3c061d98404e284771bd55daac1c16b568f8288614871"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017L2399"
@@ -34,7 +34,7 @@ I [lov 20. juni 2014 nr. 30 om kredittvurderingsbyråer](lov/2014-06-20-30) skal
 
 ## III
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Departementet kan gi overgangsregler.
 
 1 Fra 1. juli 2021 for del I, endringene i [finansforetaksloven § 20-9](lov/2015-04-10-17/§20-9), [§ 20-14](lov/2015-04-10-17/§20-14), nytt avsnitt VI A, [§ 20-32](lov/2015-04-10-17/§20-32) og [§ 21-15](lov/2015-04-10-17/§21-15), iflg. [res. 23 april 2021 nr. 1251](forskrift/2021-04-23-1251).

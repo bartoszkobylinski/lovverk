@@ -15,7 +15,7 @@ xml_hash: "69b40eb90a3b56a859d434ff68975a9d21f07b416ad157222db564e1a25d59d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,7 @@ Forbudene i første og annet ledd omfatter ikke:
 
 Forbudet mot import, eksport og produksjon i annet ledd skal likevel gjelde for elektriske og elektroniske produkter og for komponenter i kjøretøy som er listet opp i vedlegg II til artikkel 5 i forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv.
 
-Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvforbindelser og kvikksølv som reguleres i REACH-forordningen vedlegg XVII poster 18, 18a og 62, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften). Forbudet i annet ledd gjelder likevel for febertermometre og andre måleinstrumenter som reguleres av REACH-forordningen vedlegg XVII post 18a som er tatt i bruk før 3. april 2009.1
+Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvforbindelser og kvikksølv som reguleres i REACH-forordningen vedlegg XVII poster 18, 18a og 62, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften). Forbudet i annet ledd gjelder likevel for febertermometre og andre måleinstrumenter som reguleres av REACH-forordningen vedlegg XVII post 18a som er tatt i bruk før 3. april 2009.[^1]
 
 > Endret ved [forskrifter 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), [26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), [22 juli 2014 nr. 995](forskrift/2014-07-22-995), [22 juli 2014 nr. 995](forskrift/2014-07-22-995) (i kraft 10 okt 2017), [2 mai 2023 nr. 665](forskrift/2023-05-02-665), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026) (i kraft 31 des 2025).
 
@@ -617,12 +617,12 @@ Forordning [(EU) nr. 1103/2010](eu/32010r1103): [(pdf)](static/SF/32010r1103u.pd
 
 *Krav til bensin*
 
-| *Parameter*1 | *Enhet* | *Grenseverdier*2 |  |
+| *Parameter*[^1] | *Enhet* | *Grenseverdier*[^2] |  |
 | --- | --- | --- | --- |
 |  |  | *Kriterium* |  |
-| Research-oktantall (RON) | – | Min. | 953 |
-| Motor-oktantall (MON) | – | Min. | 853 |
-| RVP – sommer4 | kPa | Maks. | 70,0 |
+| Research-oktantall (RON) | – | Min. | 95[^3] |
+| Motor-oktantall (MON) | – | Min. | 85[^3] |
+| RVP – sommer[^4] | kPa | Maks. | 70,0 |
 | Destillasjon: |  |  |  |
 | – fordampet ved 100 °C | % v/v | Min. | 46,0 |
 | – fordampet ved 150 °C | % v/v | Min. | 75,0 |
@@ -638,7 +638,7 @@ Forordning [(EU) nr. 1103/2010](eu/32010r1103): [(pdf)](static/SF/32010r1103u.pd
 | – tertbutylalkohol | % v/v | Maks. | 15 |
 | – isobutylalkohol | % v/v | Maks. | 15 |
 | – etere som inneholder 5 karbonatomer pr. molekyl eller flere | % v/v | Maks. | 22 |
-| – andre oksygenater5 | % v/v | Maks. | 15 |
+| – andre oksygenater[^5] | % v/v | Maks. | 15 |
 | Svovelinnhold | mg/kg | Maks. | 10 |
 | Blyinnhold | g/l | Maks. | 0,005 |
 
@@ -658,7 +658,7 @@ Forordning [(EU) nr. 1103/2010](eu/32010r1103): [(pdf)](static/SF/32010r1103u.pd
 
 *Krav til autodiesel*
 
-| *Parameter*1 | *Enhet* | *Grenseverdier*2 |  |
+| *Parameter*[^1] | *Enhet* | *Grenseverdier*[^2] |  |
 | --- | --- | --- | --- |
 |  |  | *Kriterium* |  |
 | Cetantall | – | Min. | 51,0 |
@@ -667,7 +667,7 @@ Forordning [(EU) nr. 1103/2010](eu/32010r1103): [(pdf)](static/SF/32010r1103u.pd
 | – 95 % v/v gjenvunnet ved | °C | Maks. | 360 |
 | Polyaromatiske hydrokarboner (PAH) | % m/m | Maks. | 8 |
 | Svovelinnhold | mg/kg | Maks. | 10 |
-| FAME-innhold EN 14078 | % v/v | Maks. | 73 |
+| FAME-innhold EN 14078 | % v/v | Maks. | 7[^3] |
 
 > Endret ved [forskrifter 12 mai 2005 nr. 430](forskrift/2005-05-12-430), [24 mars 2009 nr. 351](forskrift/2009-03-24-351), [17 nov 2011 nr. 1113](forskrift/2011-11-17-1113) (tidligere Vedlegg IV til kapittel 3), [2 nov 2015 nr. 1261](forskrift/2015-11-02-1261).
 
@@ -895,7 +895,7 @@ Underkategorier
 
 *Tabell A: maksimalt VOC-innhold i bygningsmaling og -lakk*
 
-|  | *Underkategori av produkter* | *Type\*\** | *Fase I VOC g/l\* fra 1.1.2007* | *Fase II VOC g/l\* fra 1.1.2010* |
+|  | *Underkategori av produkter* | *Type[^\*\*]* | *Fase I VOC g/l[^\*] fra 1.1.2007* | *Fase II VOC g/l[^\*] fra 1.1.2010* |
 | --- | --- | --- | --- | --- |
 | a | Matt vegg- og takmaling (glansnivå < 25 60°) | VF<br>LB | 75<br>400 | 30<br>30 |
 | b | Blank vegg- og takmaling (glansnivå >25 60°) | VF<br>LB | 150<br>400 | 100<br>100 |
@@ -916,7 +916,7 @@ Underkategorier
 
 *Tabell B: maksimalt VOC-innhold i lakkeringsprodukter reparasjon av kjøretøy*
 
-|  | *Produktkategori* | *Overflatebehandlingsmiddel* | *VOC g/l\* fra 1.1.2007* |
+|  | *Produktkategori* | *Overflatebehandlingsmiddel* | *VOC g/l[^\*] fra 1.1.2007* |
 | --- | --- | --- | --- |
 | a | Produkter til forbehandling og rensing | Forbehandlingsprodukt<br>Rengjøringsprodukter | 850<br>200 |
 | b | Sparkelmasse | Alle typer | 250 |
@@ -1267,15 +1267,15 @@ Bruksområder som er unntatt fra forbudet i § 2a-3
 | 4(f)-IV | Kvikksølv i lamper som sender ut lys i det ultrafiolette spekteret | Utløper 24. februar 2027 |
 | 4(g) | Kvikksølv i håndlagede gassutladningslamper (HLDT) til bruk i skilt, dekorativ eller arkitektonisk belysning samt spesialbelysning og lyskunst | Utløp 31. desember 2018 |
 | 5(a) | Bly i glass i katodestrålerør | Fram til:<br>Kategori 1–7 og 10: utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
-| 5(b) | Bly i glass i lysrør, høyst 0,2 vektprosent | i |
+| 5(b) | Bly i glass i lysrør, høyst 0,2 vektprosent | [^i] |
 | 6(a) | Bly som legeringselement i stål for maskineringsformål og i galvanisert stål som inneholder opptil 0,35 vektprosent bly | Utløper 11. desember 2026 |
-| 6(a)-I | Bly som legeringselement i stål for maskineringsformål som inneholder opptil 0,35 vektprosent blyii | Utløper 30. juni 2027 for alle kategorier |
-| 6(a)-II | Bly som legeringselement i satsvis varmgalvaniserte stålkomponenter som inneholder opptil 0,2 vektprosent blyii | Utløper 30. juni 2027 for alle kategorier |
+| 6(a)-I | Bly som legeringselement i stål for maskineringsformål som inneholder opptil 0,35 vektprosent bly[^ii] | Utløper 30. juni 2027 for alle kategorier |
+| 6(a)-II | Bly som legeringselement i satsvis varmgalvaniserte stålkomponenter som inneholder opptil 0,2 vektprosent bly[^ii] | Utløper 30. juni 2027 for alle kategorier |
 | 6(b) | Bly som legeringselement i aluminium som inneholder opptil 0,4 vektprosent bly | Utløper 11. juni 2027 |
-| 6(b)-I | Bly som legeringselement i aluminium som inneholder opptil 0,4 vektprosent bly, forutsatt at det stammer fra gjenvinning av blyholdig aluminiumskrapii | Fram til:<br>Kategori 1–7 og 10: 11. desember 2026.<br>Kategori 9 industrielle overvåkings- og kontrollinstrumenter, og 11: 30. juni 2027 |
-| 6(b)-II | Bly som legeringselement i aluminium for maskineringsformål med et blyinnhold på opptil 0,4 vektprosentii | Fram til:<br>Kategori 1–7 og 10: 11. juni 2027<br>Kategori 9 industrielle overvåkings- og kontrollinstrumenter, og 11: 30. juni 2027 |
-| 6(b)-III | Bly som legeringselement i støpegods av aluminiumslegeringer som inneholder opptil 0,3 vektprosent bly, forutsatt at det stammer fra gjenvinning av blyholdig aluminiumskrapii | Frem til:<br>Kategori 1–8, 9 unntatt industrielle overvåkings- og kontrollinstrumenter, og 10: 30. juni 2027 |
-| 6(c) | Kobberlegeringer som inneholder opptil 4 vektprosent blyii | Utløper 30. juni 2027 |
+| 6(b)-I | Bly som legeringselement i aluminium som inneholder opptil 0,4 vektprosent bly, forutsatt at det stammer fra gjenvinning av blyholdig aluminiumskrap[^ii] | Fram til:<br>Kategori 1–7 og 10: 11. desember 2026.<br>Kategori 9 industrielle overvåkings- og kontrollinstrumenter, og 11: 30. juni 2027 |
+| 6(b)-II | Bly som legeringselement i aluminium for maskineringsformål med et blyinnhold på opptil 0,4 vektprosent[^ii] | Fram til:<br>Kategori 1–7 og 10: 11. juni 2027<br>Kategori 9 industrielle overvåkings- og kontrollinstrumenter, og 11: 30. juni 2027 |
+| 6(b)-III | Bly som legeringselement i støpegods av aluminiumslegeringer som inneholder opptil 0,3 vektprosent bly, forutsatt at det stammer fra gjenvinning av blyholdig aluminiumskrap[^ii] | Frem til:<br>Kategori 1–8, 9 unntatt industrielle overvåkings- og kontrollinstrumenter, og 10: 30. juni 2027 |
+| 6(c) | Kobberlegeringer som inneholder opptil 4 vektprosent bly[^ii] | Utløper 30. juni 2027 |
 | 7(a) | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) | Gjelder alle produktkategorier (unntatt bruksområder som dekkes av punkt 24 i dette vedlegget) og utløper 30. juni 2027 |
 | 7(a)-I | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) for innvendige sammenkoplinger for å feste brikker eller andre komponenter sammen med en brikke i halvledersammenstillinger med stasjonære eller variable/impulsstrømmer på 0,1 A eller mer eller blokkeringsspenninger over 10 V, eller brikker med kantstørrelser større enn 0,3 mm × 0,3 mm | Gjelder alle produktkategorier (unntatt bruksområder som dekkes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
 | 7(a)-II | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) for integrerte (dvs. interne og eksterne) tilkoplinger for å feste brikker i elektriske og elektroniske komponenter, dersom alle følgende vilkår er oppfylt:<br><br>- varmeledningsevnen til det herdede/sintrede loddematerialet er > 35 W/(m × K),<br>- den elektriske ledningsevnen til det herdede/sintrede loddematerialet er > 4,7 MS/m,<br>- solidus-smeltetemperaturen er høyere enn 260 °C | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
@@ -1937,7 +1937,7 @@ For oppfyllelse av kravet til klimagassreduksjon i [§ 3-6](forskrift/2004-06-01
 | Biodiesel fra soyabønner | 31 % |
 | Biodiesel fra palmeolje (prosess ikke angitt) | 19 % |
 | Biodiesel fra palmeolje (prosess med metanfangst ved oljemølle) | 56 % |
-| Biodiesel fra vegetabilsk eller animalsk\* avfallsolje | 83 % |
+| Biodiesel fra vegetabilsk eller animalsk[^\*] avfallsolje | 83 % |
 | Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 47 % |
 | Hydrogenbehandlet vegetabilsk olje fra solsikke | 62 % |
 | Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess ikke angitt) | 26 % |
@@ -2075,7 +2075,7 @@ For oppfyllelse av kravet til klimagassreduksjon i [§ 3-6](forskrift/2004-06-01
 | Biodiesel fra solsikke | 18 |
 | Biodiesel fra soyabønner | 19 |
 | Biodiesel fra palmeolje | 14 |
-| Biodiesel fra vegetabilsk eller animalsk avfallsolje\* | 0 |
+| Biodiesel fra vegetabilsk eller animalsk avfallsolje[^\*] | 0 |
 | Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 30 |
 | Hydrogenbehandlet vegetabilsk olje fra solsikke | 18 |
 | Hydrogenbehandlet vegetabilsk olje fra palmeolje | 15 |
@@ -2692,7 +2692,7 @@ Faktorer for skogarealer med en trekronedekning på minst 10 %
 
 | *Klimasone* | *Arealbruk*<br>(*FLU*) | *Forvaltning*<br>(*FMG*) | *Tilførsel*<br>(*FI*) | *FLU* | *FMG* | *FI* |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alle | Naturskog (ikke-forringet) | Ikke relevant1 | Ikke relevant | 1 |  |  |
+| Alle | Naturskog (ikke-forringet) | Ikke relevant[^1] | Ikke relevant | 1 |  |  |
 | Alle | Forvaltet skog | Alle | Alle | 1 | 1 | 1 |
 | Tropisk fuktig/tørt klima | Svedjebruk – kort brakkleggingstid | Ikke relevant | Ikke relevant | 0,64 |  |  |
 |  | Svedjebruk – full brakkleggingstid | Ikke relevant | Ikke relevant | 0,8 |  |  |

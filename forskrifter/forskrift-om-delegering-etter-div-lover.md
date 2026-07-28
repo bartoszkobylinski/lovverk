@@ -15,7 +15,7 @@ xml_hash: "36bc683dbef82f985d0b29e9cd7a5a9fba6c01fb166afa4319ce9a3eff4b85fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,13 +30,13 @@ I medhold av [lov 8. februar 1980 nr. 3](lov/1980-02-08-3) om [lov om endringer 
 2. Lovens del V, om endring i [lov 13. mai 1977 nr. 35](lov/1977-05-13-35) om regnskapsplikt mv. § 16 fjerde og følgende ledd og del VI om endring i [lov 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre [§ 4](lov/1978-06-02-37/§4) nr. 2 for så vidt gjelder tinglyst salgspant i henhold til panteloven § 3 – 17 tredje ledd, trer likevel ikke inntil videre ikke i kraft.
 3. Kongens myndighet etter lovens del VII (1) legges til Justisdepartementet for så vidt gjelder ikraftsetting av de deler av loven som er nevnt under pkt. 2 foran.
 
-## II.1
+## II.[^1]
 
 1 [Forskrift av 18. desember 1987 nr. 985](forskrift/1987-12-18-985) trer i stedet for del II.
 
 ## III.
 
-1. – – -1
+1. – – -[^1]
 2. Kongens myndighet etter [lov 4. juni 1976 nr. 59](lov/1976-06-04-59) om aksjeselskaper [§ 11-14](lov/1976-06-04-59/§11-14) annet og følgende ledd og [lov 13. mai 1977 nr. 35](lov/1977-05-13-35) om regnskapsplikt mv. [§ 16](lov/1977-05-13-35/§16) femte og følgende ledd, slik bestemmelsene lyder etter endringene ved lov 8. februar 1980 legges til Handelsdepartementet.
 
 1 Se nå lov 4 juni 1991 nr. 47.

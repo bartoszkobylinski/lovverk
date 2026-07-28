@@ -15,7 +15,7 @@ xml_hash: "d2a6d23b60b23fa12bba403bd45121149cb5dffbe653909811befbab569c776e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -174,7 +174,7 @@ Selges slike gjenstander på auksjon, har staten, eller dernest vedkommende fylk
 
 ### § 13. Vern, finnerlønn m.v.
 
-Ingen må skade løse kulturminner. Uten hensyn til hvem som er eier kan vedkommende myndighet grave fram, flytte, granske og ta opp ting som nevnt i [§ 12](lov/1978-06-09-50/§12) a-c,1 og sette i verk andre tiltak for å verne eller ta hånd om dem.
+Ingen må skade løse kulturminner. Uten hensyn til hvem som er eier kan vedkommende myndighet grave fram, flytte, granske og ta opp ting som nevnt i [§ 12](lov/1978-06-09-50/§12) a-c,[^1] og sette i verk andre tiltak for å verne eller ta hånd om dem.
 
 Finner av løse kulturminner plikter snarest mulig å melde funnet til vedkommende politimyndighet på stedet eller til vedkommende myndighet etter loven her.
 
@@ -354,7 +354,7 @@ Med stevningen etter første ledd første punktum skal det følge et dokument de
 
 Adgangen til å anlegge sak om tilbakelevering som omhandlet i [§§ 23 a](lov/1978-06-09-50/§23a) til [23 f](lov/1978-06-09-50/§23f) foreldes tre år etter den dag den anmodende stat fikk kjennskap til hvor kulturgjenstanden befant seg, og til besitterens eller innehaverens identitet. Foreldelse inntrer i alle tilfeller senest 50 år etter at kulturgjenstanden er fjernet ulovlig fra den anmodende stats territorium, og senest 75 år etter at kulturgjenstanden er fjernet ulovlig dersom det dreier seg om kulturgjenstander som er en del av offentlige samlinger eller kirkegods som omfattes av særlig vern etter nasjonal lovgivning.
 
-I tilfeller som nevnt i [§ 23 b](lov/1978-06-09-50/§23b) annet punktum1 skal kulturgjenstanden regnes som fjernet ulovlig den dag da den skulle ha blitt sendt tilbake etter vilkårene i utførselstillatelsen.
+I tilfeller som nevnt i [§ 23 b](lov/1978-06-09-50/§23b) annet punktum[^1] skal kulturgjenstanden regnes som fjernet ulovlig den dag da den skulle ha blitt sendt tilbake etter vilkårene i utførselstillatelsen.
 
 Den anmodende stat bærer utgiftene i forbindelse med fullbyrdingen av avgjørelsen om tilbakelevering av en kulturgjenstand.
 
@@ -414,7 +414,7 @@ Departementet kan gi nærmere regler om utfylling og gjennomføring av loven.
 
 ### § 29. Ikrafttreden. Oppheving og endring av andre lover.
 
-1. Denne loven trer i kraft fra den tid Kongen bestemmer.1 Fra lovens ikrafttreden oppheves – – –.
+1. Denne loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra lovens ikrafttreden oppheves – – –.
 
 1 Fra 15 feb 1979 iflg. res. 9 feb 1979. I [lov 3 juli 1992 nr. 96](lov/1992-07-03-96) II annet og tredje ledd er bestemt:
 

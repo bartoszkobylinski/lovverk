@@ -16,7 +16,7 @@ xml_hash: "7fcfcfe71cfe97a84f0538b4694bae3daf5b6ebafb6b10447e175330d4ac4379"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,7 +196,7 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 234 nr. 2, artikkel 237 nr. 4 og artikkel 239 nr. 2, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 234 nr. 2, artikkel 237 nr. 4 og artikkel 239 nr. 2, og
 
 ut fra følgende betraktninger:
 
@@ -214,7 +214,7 @@ ut fra følgende betraktninger:
 12. I artikkel 239 nr. 2 i «dyrehelseforordningen» er det fastsatt at Kommisjonen skal vedta delegerte rettsakter om særlige regler og ytterligere krav med hensyn til visse bestemte former for innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse, og at det kan gis unntak fra de generelle kravene til dyrehelse fastsatt i artikkel 229 nr. 1 og artikkel 237 nr. 1 i nevnte forordning samt i de utfyllende reglene fastsatt i delegerte rettsakter som er vedtatt i henhold til artikkel 234 nr. 2 og artikkel 237 nr. 4 i nevnte forordning.
 13. De utfyllende reglene som skal fastsettes i denne forordningen i henhold til artikkel 234 nr. 2 og artikkel 239 nr. 2 i «dyrehelseforordningen», er innbyrdes tilknyttet. I artikkel 234 nr. 2 er det fastsatt at Kommisjonen skal vedta generelle krav ved innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse, mens det i artikkel 239 nr. 2 er fastsatt at Kommisjonen skal fastsette særlige regler og ytterligere krav for unntak fra disse generelle kravene.
 14. Helsesertifikatkravene fastsatt i artikkel 237 i «dyrehelseforordningen» er en del av rammereglene som gjelder ved innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse. Den myndigheten som gis Kommisjonen i henhold til artikkel 237 nr. 4 i nevnte forordning om å gi unntak fra kravene til dyrehelse, er en del av disse generelle rammereglene.
-15. I «dyrehelseforordningen» er det allerede fastsatt en rekke definisjoner. I tillegg bør denne forordningen også ta hensyn til definisjonene fastsatt i andre unionsrettsakter på tilknyttede områder som næringsmiddelhygiene og offentlig kontroll, for eksempel definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)2. I forbindelse med fastsettelse av kravene til dyrehelse ved innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse, bør imidlertid bestemte definisjoner tas med, herunder definisjoner av visse kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse. Disse definisjonene er nødvendige for å klargjøre hvilke kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse som utgjør en risiko for dyrehelsen, og derfor er underlagt kravene til dyrehelse ved innførsel til Unionen.
+15. I «dyrehelseforordningen» er det allerede fastsatt en rekke definisjoner. I tillegg bør denne forordningen også ta hensyn til definisjonene fastsatt i andre unionsrettsakter på tilknyttede områder som næringsmiddelhygiene og offentlig kontroll, for eksempel definisjonene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)[^2]. I forbindelse med fastsettelse av kravene til dyrehelse ved innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse, bør imidlertid bestemte definisjoner tas med, herunder definisjoner av visse kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse. Disse definisjonene er nødvendige for å klargjøre hvilke kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse som utgjør en risiko for dyrehelsen, og derfor er underlagt kravene til dyrehelse ved innførsel til Unionen.
 16. Av hensyn til konsekvens i Unionens regelverk og med grunnlag i den risikoen for dyrehelsen de utgjør, bør definisjonen av «ferskt kjøtt» i denne forordningen omfatte definisjonene av «ferskt kjøtt», «kvernet kjøtt» og «tilberedt kjøtt» fastsatt i vedlegg I til forordning (EF) nr. 853/2004.
 17. Dessuten bør definisjonene av «kjøttprodukter» i denne forordningen omfatte definisjonene av «kjøttprodukter», «behandlede mager, blærer og tarmer», «smeltet animalsk fett» og «kjøttekstrakter» fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853). Ut fra et dyrehelseperspektiv utgjør alle disse varene den samme risikoen for dyrehelsen og bør derfor være omfattet av de samme risikoreduserende tiltakene.
 18. Definisjonen av «skrott» fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853) bør tilpasses til å definere «skrott av hov- og klovdyr» for å skille den fra «slaktebiprodukter». Dette skyldes at disse to varene utgjør forskjellige risikoer for dyrehelsen, og «slaktebiprodukter» utgjør en større risiko.
@@ -223,14 +223,14 @@ ut fra følgende betraktninger:
 21. I artikkel 237 nr. 1 i «dyrehelseforordningen» er det fastsatt at innførsel til Unionen av forsendelser av arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier bare skal tillates dersom disse forsendelsene ledsages enten av et helsesertifikat som er utstedt av vedkommende myndighet i tredjelandet eller territoriet, eller av erklæringer eller andre dokumenter, eller av alle disse dokumentene. Denne forordningen bør derfor presisere hvilke dokumenter som kreves i hvert enkelt tilfelle, og bør gi vedkommende myndighet ansvaret for å kontrollere at slike forsendelser som innføres til Unionen, oppfyller dette generelle kravet.
 22. Opplysningene som helsesertifikatene, erklæringene og de andre dokumentene som ledsager forsendelsene av dyr, avlsmateriale og produkter av animalsk opprinnelse skal inneholde, skal gi en presis angivelse av om disse forsendelsene oppfyller de generelle kravene fastsatt i «dyrehelseforordningen» og de relevante kravene fastsatt i denne forordningen. Denne forordningen bør derfor fastsette hvilke forpliktelser som påhviler de driftsansvarlige som har ansvar for innførsel av slike forsendelser til Unionen, og de vedkommende myndighetene i medlemsstaten der forsendelsene føres inn i Unionen med hensyn til gyldigheten til dokumentene som ledsager forsendelsene, og med hensyn til om slike forsendelser er berettiget til innførsel til Unionen.
 23. Idet det tas hensyn til risikoer for dyrehelsen, som for eksempel inkubasjonstid for sykdommer, og for å unngå misbruk av helsesertifikater, er det bare nødvendig å fastsette en frist for gyldigheten av disse sertifikatene når det dreier seg om dyr og rugeegg. Dette skyldes at disse utgjør en større risiko for dyrehelsen enn produkter av animalsk opprinnelse, som kan ha gjennomgått risikoreduserende tiltak, og avlsmateriale som transporteres fryst i lukkede og plomberte containere. Ettersom sjøtransport av levende dyr og rugeegg kan ta lang tid, bør sertifikatets gyldighetstid i slike tilfeller forlenges, forutsatt at det er truffet visse risikoreduserende tiltak.
-24. Kravene til dyrehelse som skal oppfylles, og garantiene som tredjeland og territorier skal gi i forbindelse med innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse, avhenger av sykdommene som er listeført i artikkel 5 i og i vedlegg II til «dyrehelseforordningen» og kategoriseringen av disse, som fastsatt i artikkel 9 nr. 1 i nevnte forordning og i vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)3. Nevnte forordning fastsetter definisjonene av kategori A-, B-, C-, D- og E-sykdommer og angir at reglene for forebygging og bekjempelse av de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal gjelde for de listeførte artene og gruppene av listeførte arter som det vises til i vedlegget til nevnte forordning.
+24. Kravene til dyrehelse som skal oppfylles, og garantiene som tredjeland og territorier skal gi i forbindelse med innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse, avhenger av sykdommene som er listeført i artikkel 5 i og i vedlegg II til «dyrehelseforordningen» og kategoriseringen av disse, som fastsatt i artikkel 9 nr. 1 i nevnte forordning og i vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)[^3]. Nevnte forordning fastsetter definisjonene av kategori A-, B-, C-, D- og E-sykdommer og angir at reglene for forebygging og bekjempelse av de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal gjelde for de listeførte artene og gruppene av listeførte arter som det vises til i vedlegget til nevnte forordning.
 25. I kapittel 1 i del II av «dyrehelseforordningen» er det fastsatt regler om melding om og rapportering av sykdom for å sikre tidlig påvisning og effektiv bekjempelse av sykdom i Unionen. Denne forordningen bør angi detaljene i meldings- og rapporteringssystemene som skal innføres i tredjelandene eller territoriene for å garantere systemer som er likeverdige med dem som gjennomføres i Unionen, herunder hvilke sykdommer som bør være meldepliktige og rapporteringspliktige. Selv om levende dyr kan overføre sykdommene som de er en listeført art for i gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), kan ikke alle produkter av animalsk opprinnelse og alle typer avlsmateriale som stammer fra disse dyrene, overføre alle disse sykdommene. Denne forordningen bør presisere hvilke dyresykdommer som er av betydning og derfor er meldepliktige og rapporteringspliktige for hver enkelt art og kategori av dyr, avlsmateriale og produkter av animalsk opprinnelse som er beregnet på innførsel til Unionen.
 26. Kravene til dyrehelse som er fastsatt i denne forordningen, bør være basert på forskjellige nivåer av vern mot risikoer for dyrehelsen. De forskjellige kravene varierer avhengig av om de gjelder et opprinnelsestredjeland, et opprinnelsesterritorium, en sone innenfor dette tredjelandet eller territoriet, et segment innenfor dette tredjelandet eller territoriet når det gjelder akvakulturdyr, opprinnelsesanlegget for dyr eller produkter av animalsk opprinnelse, eller anlegget eller uttakssentralen for avlsmateriale.
 27. Overvåking og sporing av sykdommer i anleggene er viktige elementer i Unionens strategi for sykdomsbekjempelse. Denne forordningen bør inneholde visse grunnleggende krav om sporing og dyrehelsebesøk på opprinnelsesanleggene for dyrene som er beregnet på innførsel til Unionen, og på opprinnelsesanlegget for dyrene som avlsmaterialet og produktene av animalsk opprinnelse som er beregnet på innførsel til Unionen, stammer fra. Disse kravene bør være likeverdige med kravene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og i delegerte rettsakter og gjennomføringsrettsakter vedtatt i henhold til nevnte forordning.
 28. Dersom en viss type anlegg der det holdes dyr eller avlsmateriale i et tredjeland eller territorium dessuten utgjør en særlig risiko for dyrehelsen, bør det innhente særlig godkjenning fra vedkommende myndighet i tredjelandet eller territoriet for å kunne eksportere til Unionen og gi garantier som er likeverdige med garantiene fastsatt i artikkel 92–100 i forordning [(EU) 2016/429](eu/32016r0429) for visse anlegg i Unionen.
 29. Forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse som er beregnet på innførsel til Unionen, bør ikke anses å utgjøre noen risiko for dyrehelsen i sitt opprinnelsesland eller opprinnelsesterritorium, og bør ikke være underlagt nasjonale utryddelsesprogrammer eller noen andre nasjonale restriksjoner på grunnlag av dyrehelsebekymringer.
 30. Kravene til dyrehelse ved innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse skal gi effektivt vern mot innføring og spredning av smittsomme dyresykdommer i Unionen. Innførsel til Unionen av disse forsendelsene bør ikke tillates fra tredjeland eller territorier eller soner eller, når det gjelder akvakulturdyr, segmenter i disse som er infisert med visse listeførte sykdommer som i Unionen har sykdomsfri status, og som følgelig utgjør en alvorlig risiko for dyrs helse i Unionen.
-31. Det er opp til Unionen å vurdere om et opprinnelsestredjeland, et opprinnelsesterritorium eller en opprinnelsessone eller, når det gjelder akvakulturdyr, et opprinnelsessegment er fri(tt) for en bestemt sykdom. Unionens vurdering bør være basert på opplysninger knyttet til sykdomsovervåking foretatt av vedkommende myndighet i tredjelandet eller territoriet, og idet det tas hensyn til dyrehelsereglene i Unionen som fastsatt i del II i «dyrehelseforordningen» og i delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)4. Det kan være nødvendig å stille krav om særlige vilkår for visse sykdommer og omstendigheter som ytterligere risikoreduserende tiltak.
+31. Det er opp til Unionen å vurdere om et opprinnelsestredjeland, et opprinnelsesterritorium eller en opprinnelsessone eller, når det gjelder akvakulturdyr, et opprinnelsessegment er fri(tt) for en bestemt sykdom. Unionens vurdering bør være basert på opplysninger knyttet til sykdomsovervåking foretatt av vedkommende myndighet i tredjelandet eller territoriet, og idet det tas hensyn til dyrehelsereglene i Unionen som fastsatt i del II i «dyrehelseforordningen» og i delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)[^4]. Det kan være nødvendig å stille krav om særlige vilkår for visse sykdommer og omstendigheter som ytterligere risikoreduserende tiltak.
 32. Fravær av en bestemt sykdom i et tredjeland eller territorium eller en sone i disse skal være basert på internasjonalt anerkjente diagnostiske tester og metoder som er utført i henhold til samme standarder og prosedyrer som dem som anvendes i Unionen.
 33. Det er nødvendig å sikre at helsestatusen for dyr, avlsmateriale og produkter av animalsk opprinnelse som er beregnet på innførsel til Unionen, oppfyller garantiene fastsatt av opprinnelsestredjelandet, opprinnelsesterritoriet eller opprinnelsessonen. I denne forordningen bør det derfor fastsettes en minste oppholdsperiode for dyr i opprinnelsestredjelandet, opprinnelsesterritoriet, opprinnelsessonen eller opprinnelsesanlegget, og en minsteperiode uten kontakt med varer som har lavere helsestatus, før de sendes til Unionen. Lengden på den minste oppholdsperioden bør ta hensyn til inkubasjonstiden for aktuelle sykdommer og det beregnede bestemmelsesstedet og den beregnede bruken av dyrene, avlsmaterialet og produktene av animalsk opprinnelse.
 34. Når det gjelder hunder, katter og ildrer, er det ikke nødvendig med en oppholdsperiode, ettersom det i alle tilfeller kreves vaksinasjon mot rabies, som er sykdommen av størst betydning for disse artene. Registrerte hester som er beregnet på konkurranser, veddeløp og hesterelaterte kulturarrangementer, bør også unntas fra visse krav når det gjelder oppholdsperiode dersom de oppfyller tilleggsgarantier. Dette unntaket er basert på en forventning om at slike hester vil ha et høyt helsenivå.
@@ -264,7 +264,7 @@ ut fra følgende betraktninger:
 62. Kravene til dyrehelse ved innførsel til Unionen av rugeegg bør håndtere risikoene i forbindelse med listeførte sykdommer som de forskjellige kategoriene av rugeegg kan føre inn i Unionen. Disse kravene bør derfor tilsvare de kravene som gjelder ved innførsel til Unionen av de respektive artene eller kategoriene av fugler.
 63. Dersom rugeegg fra fjørfe er beregnet på innførsel til medlemsstater som har status som fri for infeksjon med Newcastle disease-virus uten vaksinasjon, bør eggene oppfylle ytterligere krav for å sikre at de ikke setter disse bestemte medlemsstatenes status i fare.
 64. Produkter av animalsk opprinnelse kan overføre sykdomsagens til dyr og produkter. Dyrehelserisikoen knyttet til ferske og rå produkter av animalsk opprinnelse er åpenbart høyere enn for foredlede og behandlede produkter. Derfor bør kravene til dyrehelse for opprinnelsestredjelandet eller opprinnelsesterritoriet med hensyn til ferskt kjøtt, rå melk, råmelk og råmelkbaserte produkter være strengere enn kravene som gjelder for kjøttprodukter og melkeprodukter. Behandlingen av disse behandlede produktene må imidlertid være effektiv for å redusere den risikoen de utgjør, avhengig av produktets opprinnelsesart og opprinnelsesland eller -territorium.
-65. De risikoreduserende behandlingene som gjelder for produkter av animalsk opprinnelse som kommer fra restriksjonssoner som er opprettet ved bekreftelse av kategori A-sykdommer i Unionen, er fastsatt i delegert kommisjonsforordning [(EU) 2020/687](eu/32020r0687)5, basert på tilgjengelig vitenskapelig kunnskap og erfaringen fra anvendelsen av tidligere regelverk. De samme risikoreduserende behandlingene bør derfor gjelde for de produktene som kommer fra tredjeland, territorier eller soner i disse som utgjør en tilsvarende dyrehelserisiko.
+65. De risikoreduserende behandlingene som gjelder for produkter av animalsk opprinnelse som kommer fra restriksjonssoner som er opprettet ved bekreftelse av kategori A-sykdommer i Unionen, er fastsatt i delegert kommisjonsforordning [(EU) 2020/687](eu/32020r0687)[^5], basert på tilgjengelig vitenskapelig kunnskap og erfaringen fra anvendelsen av tidligere regelverk. De samme risikoreduserende behandlingene bør derfor gjelde for de produktene som kommer fra tredjeland, territorier eller soner i disse som utgjør en tilsvarende dyrehelserisiko.
 66. Risikoene knyttet til ferskt kjøtt som innføres til Unionen, bør reduseres ved å stille krav om fravær av sykdom i opprinnelsestredjelandet eller opprinnelsesterritoriet, krav som gjelder dyresykdommer hos de levende dyrene som kjøttet kommer fra, krav til avsendelsen av holdte dyr til slakting, krav til slakting og avliving samt krav til håndtering og tilberedning.
 67. Ferskt kjøtt av landdyr kan komme fra holdte dyr, herunder oppdrettsvilt som definert i forordning [(EF) nr. 853/2004](eu/32004r0853), og fra viltlevende dyr. I Unionen skal imidlertid kjøtt fra dyr som holdes som produksjonsdyr, særlig dyr som tilhører artene *Bos taurus*, *Capra hirchus*, *Ovis aries* og *Sus scrofa*, komme fra et slakteri. For å kunne gi tilstrekkelige og likeverdige garantier bør derfor disse artene utelukkes fra muligheten til å bli kategorisert som oppdrettsvilt eller viltlevende dyr når ferskt kjøtt som er beregnet på innførsel til Unionen, kommer fra dem.
 68. Dersom det forekommer et utbrudd av en relevant dyresykdom i et tredjeland eller territorium, er slaktedatoen og slaktestedet for holdte dyr eller fellingsdatoen for viltlevende dyr eller oppdrettsvilt viktig for å fastslå mulige dyrehelserisikoer knyttet til disse dyrene og produkter av animalsk opprinnelse som stammer fra dem. Derfor bør slakte- eller fellingsdatoen fastslås for å kunne kontrollere at dyrene er slaktet eller felt i et tidsrom uten utbrudd av sykdom og på et tidspunkt da tredjelandet eller territoriet var listeført som å ha tillatelse til å innføre ferskt kjøtt til Unionen.
@@ -272,7 +272,7 @@ ut fra følgende betraktninger:
 70. I noen tilfeller vil et tredjeland eller territorium eller en sone i disse kjøpe rått kjøtt med sikte på å produsere kjøttprodukter fra et tredjeland eller territorium eller en sone i disse som er listeført for innførsel til Unionen av kjøttprodukter av den relevante arten som er gjenstand for en særlig behandling. I slike tilfeller bør kjøttproduktet alltid gjennomgå den mest intensive særlige behandlingen for å redusere alle mulige risikoer for dyrehelsen.
 71. Kjøttprodukter som inneholder fjørfekjøtt fra et tredjeland eller territorium eller en sone i disse der det har vært et utbrudd av høypatogen aviær influensa eller infeksjon med Newcastle disease-virus, bør gjennomgå en behandling som er effektiv for å redusere risikoen i tredjelandet eller territoriet eller sonen i tredjelandet eller territoriet som er listeført for innførsel til Unionen. På denne måten kan handelen tillates å fortsette før det innføres bekjempelsestiltak, for eksempel regionalisering. Umiddelbar anvendelse av risikoreduserende behandling etter et utbrudd reduserer dyrehelserisikoene og reduserer samtidig virkningene på handelen.
 72. Dersom kjøttprodukter framstilles av ferskt kjøtt fra forskjellige arter, bør behandlingen som foretas, fjerne alle eventuelle risikoer for dyrehelsen. Dersom behandlingen skjer før blanding, bør de forskjellige typene ferskt kjøtt få den relevante behandlingen som er fastsatt for den arten det ferske kjøttet kommer fra. Dersom behandlingen derimot skjer etter blanding, bør det ferdige kjøttproduktet gjennomgå behandlingen som er fastsatt for den ferske kjøttingrediensen som utgjør den største dyrehelserisikoen.
-73. Behandlinger for å redusere særlige dyrehelserisikoer som er knyttet til innførsel av dyretarmer, bør gjennomgås og oppdateres, idet det tas hensyn til konklusjonene og anbefalingene i den siste vitenskapelige dokumentasjonen vurdert av Den europeiske myndighet for næringsmiddeltrygghets (EFSAs) vitenskapsgruppe for dyrs helse og velferd6.
+73. Behandlinger for å redusere særlige dyrehelserisikoer som er knyttet til innførsel av dyretarmer, bør gjennomgås og oppdateres, idet det tas hensyn til konklusjonene og anbefalingene i den siste vitenskapelige dokumentasjonen vurdert av Den europeiske myndighet for næringsmiddeltrygghets (EFSAs) vitenskapsgruppe for dyrs helse og velferd[^6].
 74. Vilkårene for innførsel til Unionen av rå melk, melkeprodukter, råmelk og råmelkbaserte produkter er basert på de dyrehelserisikoene som disse produktene utgjør. Slike risikoer er knyttet til opprinnelseslandet eller opprinnelsesterritoriet eller en sone i disse og til dyreartene produktene stammer fra. Munn- og klovsyke og infeksjon med kvegpestvirus er to sykdommer av betydning når det gjelder melk og råmelk, og derfor bør rå melk og råmelk bare innføres fra tredjeland eller territorier eller soner i disse som er frie for disse sykdommene. Råmelkbaserte produkter bør også bare komme fra disse tredjelandene, territoriene eller sonene, ettersom det ikke finnes noen vitenskapelig baserte risikoreduserende behandlinger som sikrer destruksjon av sykdomsagens i denne kategorien av produkter.
 75. For melk som kommer fra *Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis* og *Camelus dromedarius*, kan risikoen knyttet til munn- og klovsyke reduseres ved bruk av velkjente særlige risikoreduserende behandlinger. Ettersom det imidlertid ikke kan sikres at visse av disse behandlingene av melkeprodukter fra andre dyrearter enn *Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis* og *Camelus dromedarius* er effektive, bør disse produktene gjennomgå den mest intensive risikoreduserende behandlingen.
 76. Behandlinger av produkter av animalsk opprinnelse bør alltid foretas i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse som er listeført for innførsel av disse produktene til Unionen.
@@ -280,7 +280,7 @@ ut fra følgende betraktninger:
 78. Akvatiske dyr kan innføres til Unionen for mange forskjellige formål. Tatt i betraktning den sykdomsrisikoen som er knyttet til forflytning av levende dyr, bør dyr som innføres til Unionen for konsum, behandles på samme måte som om de ble innført til Unionen for andre formål, for eksempel oppdrett eller utsetting i naturen. Produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr utgjør en lavere risiko enn akvatiske dyr, og tiltakene som skal treffes i forbindelse med slike produkter som innføres til Unionen for videreforedling, er derfor ikke så strenge som dem som gjelder for levende dyr.
 79. Det medfører høy risiko å sette ut akvatiske dyr i naturen i naturlige vannmasser dersom disse dyrene er smittet med en listeført sykdom. Når det gjelder spesifikt kategori A- eller B-sykdommer, bør derfor opprinnelsestredjelandet eller opprinnelsesterritoriet eller sonen eller segmentet i disse være fri(tt) for disse sykdommene når akvatiske dyr er beregnet på utsetting i naturen i naturlige vannmasser i Unionen. Dessuten bør akvatiske dyr som bringes inn i Unionen for å settes ut i naturen i naturlige vannmasser, i alle tilfeller komme fra et tredjeland eller territorium eller en sone eller et segment i disse som er erklært fri(tt) for kategori C-sykdom også når bestemmelsesmedlemsstaten eller bestemmelsessonen eller -segmentet ikke er fri(tt) for denne sykdommen.
 80. Når det gjelder sykdommer hos akvatiske dyr, kan medlemsstatene treffe nasjonale tiltak i henhold til artikkel 226 i «dyrehelseforordningen», som er beregnet på å begrense følgene av andre sykdommer enn listeførte sykdommer innenfor sitt eget territorium. I slike tilfeller vil forsendelser av arter som er mottakelige for sykdommene som disse nasjonale tiltakene gjelder for, også komme fra tredjeland eller territorier eller soner eller segmenter i disse som er frie for disse sykdommene.
-81. Artikkel 226 i «dyrehelseforordningen» har samme formål som artikkel 43 i rådsdirektiv 2006/88/EF7, idet det tillater medlemsstatene å treffe nasjonale tiltak mot sykdommer som ikke er listeført. Listen over sykdommer og de relevante artene som disse tiltakene er innført for, bør derfor fortsatt anerkjennes. Disse opplysningene bør fastsettes i denne forordningen.
+81. Artikkel 226 i «dyrehelseforordningen» har samme formål som artikkel 43 i rådsdirektiv 2006/88/EF[^7], idet det tillater medlemsstatene å treffe nasjonale tiltak mot sykdommer som ikke er listeført. Listen over sykdommer og de relevante artene som disse tiltakene er innført for, bør derfor fortsatt anerkjennes. Disse opplysningene bør fastsettes i denne forordningen.
 82. Registrering og godkjenning av akvakulturanlegg er omfattet av visse regler i Unionen. Forskjellen mellom hvorvidt et anlegg kan registreres eller om det bør godkjennes, er avhengig av hvilken risiko det utgjør med hensyn til å bli rammet av eller spre sykdom. Det er derfor viktig at akvakulturdyr som innføres til Unionen fra akvakulturanlegg i et tredjeland eller et territorium eller en sone eller et segment i disse, kommer fra akvakulturanlegg som vurderes på lignende måte. I den forbindelsen bør slike anlegg oppfylle registrerings- eller godkjenningskrav som er minst like strenge som kravene som er fastsatt for slike anlegg innenfor Unionen.
 83. Det er ikke obligatorisk i alle situasjoner å anvende kravet om at akvatiske dyr av listeførte arter og produkter av animalsk opprinnelse fra disse dyrene må ha opprinnelse i et tredjeland eller territorium eller en sone eller et segment i disse som er fri(tt) for sykdom. Visse risikoreduserende tiltak kan treffes for å lette innførselen til Unionen av akvatiske dyr og visse produkter av animalsk opprinnelse fra slike dyr som ikke har en slik opprinnelse. Visse risikoreduserende tiltak kan godtas for akvatiske dyr av listeførte arter, og på grunn av den lavere risikoen som er knyttet til slike forflytninger, kan det godtas andre og mindre strenge risikoreduserende tiltak for produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr.
 84. De risikoreduserende tiltakene som gjelder akvatiske dyr, omfatter at de sendes til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, et lukket anlegg eller et godkjent karanteneanlegg etter innførsel til Unionen. En rekke andre risikoreduserende tiltak gjelder for bløtdyr og krepsdyr av listeførte arter som føres inn til Unionen levende og i samsvar med forordning [(EU) nr. 853/2004](eu/32004r0853), men som utgjør en akseptabel risiko på grunn av måten de er behandlet eller emballert på før avsendelse, eller fordi de ikke er beregnet på lagring i Unionen før foredling.
@@ -293,7 +293,7 @@ ut fra følgende betraktninger:
 91. Det bør også fastsettes unntak og særlige regler for transitt av forsendelser av dyr og produkter av disse som går mellom medlemsstater via et tredjeland eller territorium. Dette skal omfatte situasjoner der en slik type innførsel til Unionen kreves av en medlemsstat.
 92. I enkelte tilfeller avvises varer med opprinnelse i Unionen av vedkommende myndigheter i et tredjeland eller territorium etter kontroll foretatt på deres grense. Det bør fastsettes særlige regler i henhold til artikkel 239 i «dyrehelseforordningen», slik at disse varene kan sendes tilbake med den begrunnelsen at de er produsert i henhold til Unionens dyrehelseregelverk.
 93. Det er også nødvendig med særlige regler for tilbakesending til Unionen av registrerte hester etter midlertidig eksport til tredjeland for å delta i veddeløp, konkurranser og hesterelaterte kulturarrangementer.
-94. Med sikte på en ensartet anvendelse av Unionens regelverk for innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse, og for å sikre at regelverket er klart og gjennomsiktig, bør kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206)8, Kommisjonens gjennomføringsforordning [(EU) nr. 139/2013](eu/32013r0139)9, kommisjonsforordning [(EU) nr. 605/2010](eu/32010r0605)10, kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798)11, kommisjonsvedtak [2007/777/EF](eu/32007d0777)12, kommisjonsforordning [(EF) nr. 119/2009](eu/32009r0119)13, kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028)14 og Kommisjonens gjennomføringsforordning [(EU) 2016/759](eu/32016r0759)15 oppheves ved denne forordningen.
+94. Med sikte på en ensartet anvendelse av Unionens regelverk for innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse, og for å sikre at regelverket er klart og gjennomsiktig, bør kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206)[^8], Kommisjonens gjennomføringsforordning [(EU) nr. 139/2013](eu/32013r0139)[^9], kommisjonsforordning [(EU) nr. 605/2010](eu/32010r0605)[^10], kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798)[^11], kommisjonsvedtak [2007/777/EF](eu/32007d0777)[^12], kommisjonsforordning [(EF) nr. 119/2009](eu/32009r0119)[^13], kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028)[^14] og Kommisjonens gjennomføringsforordning [(EU) 2016/759](eu/32016r0759)[^15] oppheves ved denne forordningen.
 95. Reglene i denne forordningen er knyttet til og utfyller reglene i «dyrehelseforordningen», som får anvendelse fra 21. april 2021. Derfor, og for å legge til rette for anvendelsen av den nye rettslige rammen på dyrehelseområdet, bør denne forordningen også få anvendelse fra 21. april 2021.
 
 1 EUT L 84 av 31.3.2016, s. 1.
@@ -374,7 +374,7 @@ I tillegg fastsettes det særlige krav til dyrehelse som også får anvendelse p
 1. Fisk av listeførte arter som tilhører overklassen *Agnatha* og klassene *Chondrichthyes*, *Sarcopterygii* og *Actinopterygii*.
 2. Bløtdyr av listeførte arter som lever i vann, og som tilhører rekken *Mollusca*.
 3. Krepsdyr av listeførte arter som lever i vann, og som tilhører underrekken *Crustacea*.
-4. Akvatiske dyr av arter som er oppført i vedlegg XXIX til denne forordningen, og som er mottakelige for de akvatiske sykdommene som visse medlemsstater har nasjonale tiltak for som er godkjent i samsvar med Kommisjonens gjennomføringsbeslutning [(EU) 2021/260](eu/32021d0260)\*.
+4. Akvatiske dyr av arter som er oppført i vedlegg XXIX til denne forordningen, og som er mottakelige for de akvatiske sykdommene som visse medlemsstater har nasjonale tiltak for som er godkjent i samsvar med Kommisjonens gjennomføringsbeslutning [(EU) 2021/260](eu/32021d0260)[^\*].
 
 \* Kommisjonens gjennomføringsbeslutning [(EU) 2021/260](eu/32021d0260) av 11. februar 2021 om godkjenning av nasjonale tiltak som har som formål å begrense virkningene av visse sykdommer hos akvatiske dyr i samsvar med artikkel 226 nr. 3 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429), og om oppheving av kommisjonsbeslutning [2010/221/EU](eu/32010d0221) (EUT L 59 av 19.2.2021, s. 1).
 
@@ -466,13 +466,13 @@ Videre menes med
 
 ►**M2**
 
-1. «brønnbåt» en «brønnbåt» som definert i artikkel 2 nr. 2 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990)\*,
+1. «brønnbåt» en «brønnbåt» som definert i artikkel 2 nr. 2 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990)[^\*],
 
 \* Delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990) av 28. april 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse og helsesertifikater ved forflytning av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr innenfor Unionen (EUT L 221 av 10.7.2020, s. 42).
 
 ◄**M2**
 
-1. «IMSOC» informasjonsstyringssystemet for offentlig kontroll fastsatt i artikkel 131 i forordning (EU) 2017/62516.
+1. «IMSOC» informasjonsstyringssystemet for offentlig kontroll fastsatt i artikkel 131 i forordning (EU) 2017/625[^16].
 
 ►**M4**
 
@@ -616,9 +616,9 @@ Forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse skal bar
    2. bestemmelsesmedlemsstaten, dersom prøvetaking og testing kreves etter innførsel til Unionen,
 2. i samsvar med
 
-   1. de relevante prosedyrene og metodene angitt i delegert forordning [(EU) 2020/689](eu/32020r0689) og delegert forordning [(EU) 2020/688](eu/32020r0688)17,
+   1. de relevante prosedyrene og metodene angitt i delegert forordning [(EU) 2020/689](eu/32020r0689) og delegert forordning [(EU) 2020/688](eu/32020r0688)[^17],
       eller
-   2. med hensyn til innførsel til Unionen av avlsmateriale fra storfe, svin, sau, geit og hestedyr, prosedyrene og metodene angitt i vedlegg II til delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)18,
+   2. med hensyn til innførsel til Unionen av avlsmateriale fra storfe, svin, sau, geit og hestedyr, prosedyrene og metodene angitt i vedlegg II til delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)[^18],
       eller
    3. prosedyrene beskrevet i denne forordningen, dersom det kreves spesifikt,
 3. i et offisielt laboratorium som er utpekt i samsvar med artikkel 37 i forordning (EU) 2017/625.
@@ -810,7 +810,7 @@ Forflytning og håndtering av landdyr etter innførsel
 1. bestemmelsesanlegget i Unionen, der de skal oppholde seg i minst det tidsrommet som kreves i de relevante bestemte artiklene i del II–V,
 2. bestemmelsesslakteriet i Unionen dersom de er beregnet på slakting, der de skal slaktes innen fem dager etter ankomstdatoen i Unionen.
 
-2\. Dersom bestemmelsesstedet for forsendelsene av landdyr som innføres fra et tredjeland eller territorium eller en sone i disse er et slakteri, et godkjent karanteneanlegg eller et lukket anlegg i Unionen, skal transporten til og ankomsten på forsendelsens bestemmelsessted overvåkes i samsvar med artikkel 2 og 3 i delegert kommisjonsforordning [(EU) 2019/1666](eu/32019r1666)19.
+2\. Dersom bestemmelsesstedet for forsendelsene av landdyr som innføres fra et tredjeland eller territorium eller en sone i disse er et slakteri, et godkjent karanteneanlegg eller et lukket anlegg i Unionen, skal transporten til og ankomsten på forsendelsens bestemmelsessted overvåkes i samsvar med artikkel 2 og 3 i delegert kommisjonsforordning [(EU) 2019/1666](eu/32019r1666)[^19].
 
 3\. Nr. 1 og 2 får ikke anvendelse på innførsel til Unionen av registrerte hestedyr fra tredjeland, og på gjeninnførsel etter midlertidig eksport av registrerte hester.
 
@@ -844,7 +844,7 @@ Avsendelse av hov- og klovdyr til Unionen
    2. hestedyr beregnet på slakting.
 2. Oppsamlingen fant sted i et anlegg
 
-   1. som er godkjent av tredjelandets eller territoriets vedkommende myndighet til å foreta oppsamling av hov- og klovdyr, i samsvar med krav som er minst like strenge som kravene fastsatt i artikkel 5 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)20,
+   1. som er godkjent av tredjelandets eller territoriets vedkommende myndighet til å foreta oppsamling av hov- og klovdyr, i samsvar med krav som er minst like strenge som kravene fastsatt i artikkel 5 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)[^20],
    2. som er listeført for dette formålet av vedkommende myndighet i avsendertredjelandet eller avsenderterritoriet, herunder opplysningene gitt i artikkel 21 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
    3. der journaler for følgende føres, ajourføres og oppbevares i minst tre år:
 
@@ -1895,12 +1895,12 @@ Hunder, katter og ildrer
 1. De har fått en vaksine mot infeksjon med rabiesvirus i samsvar med følgende krav:
 
    1. Dyrene skal være minst tolv uker gamle når de vaksineres.
-   2. Vaksinen skal oppfylle kravene fastsatt i vedlegg III til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)21.
+   2. Vaksinen skal oppfylle kravene fastsatt i vedlegg III til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)[^21].
    3. Den dagen forsendelsen sendes til Unionen, skal det ha gått minst 21 dager siden grunnvaksinasjonen mot infeksjon med rabiesvirus var gjennomført.
    4. En bekreftet kopi av vaksinasjonsopplysningene skal være vedlagt helsesertifikatet nevnt i artikkel 3 nr. 1 bokstav c) i).
 2. De skal ha gjennomgått en gyldig test med rabies-antistofftitrering i samsvar med nr. 1 i vedlegg XXI.
 
-2\. Som unntak fra nr. 1 bokstav b) skal hunder, katter og ildrer som kommer fra tredjeland eller territorier eller en sone i disse som er oppført på listen angitt i Kommisjonens gjennomføringsforordning [(EU) nr. 577/2013](eu/32013r0577)22, tillates innført til Unionen uten å ha gjennomgått test med rabies-antistofftitrering.
+2\. Som unntak fra nr. 1 bokstav b) skal hunder, katter og ildrer som kommer fra tredjeland eller territorier eller en sone i disse som er oppført på listen angitt i Kommisjonens gjennomføringsforordning [(EU) nr. 577/2013](eu/32013r0577)[^22], tillates innført til Unionen uten å ha gjennomgått test med rabies-antistofftitrering.
 
 3\. Forsendelser av hunder skal tillates innført til en medlemsstat med sykdomsfri status for *Echinococcus multilocularis* eller et godkjent utryddelsesprogram mot infestasjon med denne sykdommen, dersom dyrene i forsendelsen er behandlet mot slik infestasjon i samsvar med del 2 i vedlegg XXI.
 
@@ -2614,7 +2614,7 @@ Krav ved innførsel til Unionen av forsendelser av avlsmateriale fra andre dyr e
 Forsendelser av sæd, oocytter og embryoer fra andre dyr enn dem som er nevnt i artikkel 1 nr. 4 bokstav a) og b), og er beregnet på et lukket anlegg i Unionen, kan tillates innført til Unionen, forutsatt at
 
 1. vedkommende myndighet i bestemmelsesmedlemsstaten har foretatt en vurdering av risikoene som innførselen av dette avlsmaterialet kan medføre for Unionen,
-2. donordyrene for dette avlsmaterialet kommer fra et tredjeland eller territorium eller en sone i slike som det er gitt tillatelse til å innføre den bestemte arten og kategorien av dyr til Unionen fra, enten ved Kommisjonens gjennomføringsforordning [(EU) 2021/404](eu/32021r0404)\* eller av bestemmelsesmedlemsstaten i henhold til artikkel 230 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), avhengig av den aktuelle arten,
+2. donordyrene for dette avlsmaterialet kommer fra et tredjeland eller territorium eller en sone i slike som det er gitt tillatelse til å innføre den bestemte arten og kategorien av dyr til Unionen fra, enten ved Kommisjonens gjennomføringsforordning [(EU) 2021/404](eu/32021r0404)[^\*] eller av bestemmelsesmedlemsstaten i henhold til artikkel 230 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), avhengig av den aktuelle arten,
 3. donordyrene for dette avlsmaterialet kommer fra et anlegg i tredjelandet eller territoriet eller en sone i disse som er oppført på en liste fastsatt av vedkommende myndighet i bestemmelsesmedlemsstaten som innførsel av dyr av bestemte arter til Unionen kan tillates på grunnlag av,
 4. avlsmaterialet er beregnet på et lukket anlegg i Unionen som er godkjent i samsvar med artikkel 95 i forordning [(EU) 2016/429](eu/32016r0429),
 5. avlsmaterialet transporteres direkte til det lukkede anlegget nevnt i bokstav d).
@@ -3431,7 +3431,7 @@ Krav til opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone el
 
    ►**M4**
 
-   1. Sykdommer som visse medlemsstater har truffet de nasjonale tiltakene nevnt i artikkel 175 i denne forordningen for, når en forsendelse inneholder relevante arter som er oppført i vedlegg XXIX til denne forordningen, og den skal sendes til en medlemsstat, en sone eller et segment som er oppført i vedlegg I eller II til Kommisjonens gjennomføringsbeslutning [(EU) 2021/260](eu/32021d0260).\*
+   1. Sykdommer som visse medlemsstater har truffet de nasjonale tiltakene nevnt i artikkel 175 i denne forordningen for, når en forsendelse inneholder relevante arter som er oppført i vedlegg XXIX til denne forordningen, og den skal sendes til en medlemsstat, en sone eller et segment som er oppført i vedlegg I eller II til Kommisjonens gjennomføringsbeslutning [(EU) 2021/260](eu/32021d0260).[^\*]
 
    ◄**M4**
 2. All innførsel av akvatiske dyr av listeførte arter til tredjelandet, territoriet, sonen eller segmentet som eksporterer til Unionen, skal komme fra et annet tredjeland eller territorium eller en sone eller et segment i disse som er fri(tt) for sykdommene nevnt i bokstav a).
@@ -3441,7 +3441,7 @@ Krav til opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone el
 
 1. registrert i samsvar med krav som er minst like strenge som kravene fastsatt i del IV avdeling II kapittel 1 avsnitt 1 i forordning [(EU) 2016/429](eu/32016r0429),
    eller
-2. godkjent i samsvar med krav som er minst like strenge som kravene fastsatt i del IV avdeling II kapittel 1 avsnitt 2 i forordning [(EU) 2016/429](eu/32016r0429) og del II avdeling I i delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691)23.
+2. godkjent i samsvar med krav som er minst like strenge som kravene fastsatt i del IV avdeling II kapittel 1 avsnitt 2 i forordning [(EU) 2016/429](eu/32016r0429) og del II avdeling I i delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691)[^23].
 
 23 Delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for akvakulturanlegg og transportører av akvatiske dyr (EUT L 174 av 3.6.2020, s. 345).
 
@@ -3698,7 +3698,7 @@ OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 182a. Overgangstiltak
 
-1\. Sædstasjoner, sædlagre, embryouttaksgrupper og embryoproduksjonsgrupper som er godkjent før 21. april 2021 i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407)\*, [89/556/EØF](eu/31989l0556)\*\*, [90/429/EØF](eu/31990l0429)\*\*\* og [92/65/EØF](eu/31992l0065)\*\*\*\* nevnt i sjette, sjuende, åttende og tolvte strekpunkt i artikkel 270 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal anses å være godkjente anlegg for avlsmateriale som nevnt i artikkel 82 nr. 1 i denne forordningen.
+1\. Sædstasjoner, sædlagre, embryouttaksgrupper og embryoproduksjonsgrupper som er godkjent før 21. april 2021 i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407)[^\*], [89/556/EØF](eu/31989l0556)[^\*\*], [90/429/EØF](eu/31990l0429)[^\*\*\*] og [92/65/EØF](eu/31992l0065)[^\*\*\*\*] nevnt i sjette, sjuende, åttende og tolvte strekpunkt i artikkel 270 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal anses å være godkjente anlegg for avlsmateriale som nevnt i artikkel 82 nr. 1 i denne forordningen.
 
 I alle andre henseender skal de være omfattet av reglene fastsatt i artikkel 82 nr. 2 i denne forordningen og i artikkel 233 i forordning [(EU) 2016/429](eu/32016r0429).
 
@@ -3892,9 +3892,9 @@ Krav som gjelder oppholdsperiodene for fjørfe og fugler i fangenskap før innf�
 
 1\. Minsteperioder med fravær av sykdom i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse i samsvar med artikkel 22 nr. 1 for **hov- og klovdyr, unntatt hestedyr**:
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Munn- og klovsyke | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* |
+| Munn- og klovsyke | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] |
 | Infeksjon med kvegpestvirus | 12 måneder | 12 måneder | 12 måneder | 12 måneder | 12 måneder | 12 måneder | 12 måneder |
 | Infeksjon med Rift Valley Fever-virus | 12 måneder | 12 måneder | 12 måneder | NA | 12 måneder | 12 måneder | 12 måneder |
 | Infeksjon med *Mycoplasma mycoides* subsp. *mycoides* SC (ondartet lungesyke hos storfe) | 12 måneder | NA | NA | NA | NA | NA | 12 måneder |
@@ -3902,7 +3902,7 @@ Krav som gjelder oppholdsperiodene for fjørfe og fugler i fangenskap før innf�
 | Saue- og geitekopper | NA | 12 måneder | 12 måneder | NA | NA | NA | NA |
 | Ondartet lungesyke hos geit | NA | 12 måneder | 12 måneder | NA | NA | NA | 12 måneder |
 | Afrikansk svinepest | NA | NA | NA | 12 måneder | NA | NA | NA |
-| Klassisk svinepest | NA | NA | NA | 12 måneder\*\* | NA | NA | 12 måneder |
+| Klassisk svinepest | NA | NA | NA | 12 måneder[^\*\*] | NA | NA | 12 måneder |
 | Infeksjon med lumpy skin disease | 12 måneder | NA | NA | NA | NA | NA | NA |
 
 \* Gjelder bare for listeførte arter i samsvar med vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
@@ -3922,11 +3922,11 @@ NA = Ikke relevant.
 |  |  |
 | --- | --- |
 | Venezuelansk encefalomyelitt hos hest | 24 måneder |
-| Infeksjon med *Burkholderia mallei* (snive) | 36 måneder\*\* |
-| Ondartet beskjelersyke | 24 måneder\*\* |
-| Surra (*Trypanosoma evansi*) | 24 måneder\*\* |
+| Infeksjon med *Burkholderia mallei* (snive) | 36 måneder[^\*\*] |
+| Ondartet beskjelersyke | 24 måneder[^\*\*] |
+| Surra (*Trypanosoma evansi*) | 24 måneder[^\*\*] |
 
-\*\* Eller vedkommende myndighet i tredjelandet eller territoriet har fastsatt særlige vilkår i samsvar med del B, som fastsatt i artikkel 22 nr. 3.
+[^\*\*] Eller vedkommende myndighet i tredjelandet eller territoriet har fastsatt særlige vilkår i samsvar med del B, som fastsatt i artikkel 22 nr. 3.
 
 ### DEL B
 
@@ -3948,7 +3948,7 @@ NA = Ikke relevant.
 
 1\. Krav med hensyn til at det ikke er foretatt vaksinasjon i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse når det gjelder **hov- og klovdyr, unntatt hestedyr**, som nevnt i artikkel 22 nr. 4 bokstav a).
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Munn- og klovsyke | NV/NVA | NV/NVA | NV/NVA | NV/NVA | NV/NVA | NV/NVA | NV/NVA |
 | Infeksjon med kvegpestvirus | NV/NVA | NV/NVA | NV/NVA | NV/NVA | NV/NVA | NV/NVA | NV/NVA |
@@ -4081,7 +4081,7 @@ KRAV TIL DYREHELSE MED HENSYN TIL OPPRINNELSESANLEGGET FOR HOV- OG KLOVDYR
 
 1\. Minsteområder (minsteradius) og minsteperioder (før avsendelse til Unionen) uten rapportert sykdom i området i og rundt opprinnelsesanlegget for **hov- og klovdyr, unntatt hestedyr**, som nevnt i artikkel 23 nr. 1 bokstav a) i).
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Munn- og klovsyke | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager |
 | Infeksjon med kvegpestvirus | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager |
@@ -4093,7 +4093,7 @@ KRAV TIL DYREHELSE MED HENSYN TIL OPPRINNELSESANLEGGET FOR HOV- OG KLOVDYR
 | Afrikansk svinepest | NA | NA | NA | 10 km/30 dager | NA | NA | NA |
 | Klassisk svinepest | NA | NA | NA | 10 km/30 dager | NA | NA | NA |
 | Infeksjon med lumpy skin disease | 10 km/30 dager | NA | NA | NA | NA | NA | NA |
-| Infeksjon med hemoragisk epizooti-virus | 150 km/2 år\*\* | 150 km/2 år\*\* | 150 km/2 år\*\* | NA | 150 km/2 år\*\* | 150 km/2 år\*\* | 150 km/2 år\*\* |
+| Infeksjon med hemoragisk epizooti-virus | 150 km/2 år[^\*\*] | 150 km/2 år[^\*\*] | 150 km/2 år[^\*\*] | NA | 150 km/2 år[^\*\*] | 150 km/2 år[^\*\*] | 150 km/2 år[^\*\*] |
 
 \* Gjelder bare for listeførte arter i samsvar med vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
 
@@ -4107,11 +4107,11 @@ NA = Ikke relevant.
 
 2\. Minsteperioder uten rapportert sykdom i opprinnelsesanlegget for **hov- og klovdyr, unntatt hestedyr**, som nevnt i artikkel 23 nr. 1 bokstav a) i).
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Burkholderia mallei* (snive) | NA |  | 6 måneder | NA | Samme som hestedyr (nr. 4) | NA |  |
 | Rabies | 30 dager |  |  |  |  |  |  |
-| Surra (*Trypanosoma evansi*) | 30 dager\*\* | 30 dager\*\* | 30 dager\*\* | NA | 30 dager\*\* | 30 dager\*\* | 30 dager\*\* |
+| Surra (*Trypanosoma evansi*) | 30 dager[^\*\*] | 30 dager[^\*\*] | 30 dager[^\*\*] | NA | 30 dager[^\*\*] | 30 dager[^\*\*] | 30 dager[^\*\*] |
 | Miltbrann | 15 dager |  |  |  |  |  |  |
 | Infeksjon med pseudorabiesvirus | NA |  |  | 30 dager | NA |  |  |
 
@@ -4267,7 +4267,7 @@ HOV- OG KLOVDYR BEREGNET PÅ LUKKEDE ANLEGG
 
 Minsteperioder uten rapportert sykdom i det lukkede opprinnelsesanlegget for **hov- og klovdyr beregnet på lukkede anlegg i Unionen**:
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Munn- og klovsyke | 6 måneder | 6 måneder | 6 måneder | 6 måneder | 6 måneder | 6 måneder | 6 måneder |
 | Infeksjon med Rift Valley Fever-virus | 6 måneder | 6 måneder | 6 måneder | NA | 6 måneder | 6 måneder | 6 måneder |
@@ -4295,7 +4295,7 @@ NA = Ikke relevant.
 
 Minsteområder (minsteradius) og minsteperioder uten rapportert sykdom i og rundt det lukkede opprinnelsesanlegget for **hov- og klovdyr beregnet på lukkede anlegg i Unionen**:
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Munn- og klovsyke | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager | 10 km/30 dager |
 | Infeksjon med Rift Valley Fever-virus | 150 km/30 dager | 150 km/30 dager | 150 km/30 dager | NA | 150 km/30 dager | 150 km/30 dager | 150 km/30 dager |
@@ -4308,7 +4308,7 @@ Minsteområder (minsteradius) og minsteperioder uten rapportert sykdom i og rund
 | Infeksjon med lumpy skin disease | 150 km/30 dager | NA | NA | NA | NA | NA | NA |
 | Infeksjon med blåtungevirus (serotype 1–24) | 150 km/30 dager | 150 km/30 dager | 150 km/30 dager | NA | 150 km/30 dager | 150 km/30 dager | 150 km/30 dager |
 | Infeksjon med hemoragisk epizooti-virus | 150 km/30 dager | 150 km/30 dager | 150 km/30 dager | NA | 150 km/30 dager | 150 km/30 dager | 150 km/30 dager |
-| Infeksjon med pseudorabiesvirus | NA | NA | NA | 5 km/12 måneder\*\* | NA | NA | NA |
+| Infeksjon med pseudorabiesvirus | NA | NA | NA | 5 km/12 måneder[^\*\*] | NA | NA | NA |
 
 \* Gjelder bare for listeførte arter i samsvar med vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
 
@@ -4320,16 +4320,16 @@ NA = Ikke relevant.
 
 Minsteperioder for fravær av sykdom i tredjelandet eller territoriet eller en sone i disse der det lukkede opprinnelsesanlegget for **hov- og klovdyr beregnet på lukkede anlegg i Unionen** ligger:
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Munn- og klovsyke | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* | 12 md.\*\* | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* |
+| Munn- og klovsyke | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 md.[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] |
 | Infeksjon med kvegpestvirus | 12 måneder | 12 måneder | 12 måneder | 12 måneder | 12 måneder | 12 måneder | 12 måneder |
-| Infeksjon med Rift Valley Fever-virus | 48 måneder\*\* | 48 måneder\*\* | 48 måneder\*\* | NA | 48 måneder\*\* | 48 måneder\*\* | 48 måneder\*\* |
-| Afrikansk svinepest | NA | NA | NA | 12 måneder\*\* | NA | NA | NA |
-| Klassisk svinepest | NA | NA | NA | 12 måneder\*\* | NA | NA | NA |
-| Infeksjon med *Brucella abortus, B. melitensis* og *B. suis* | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* | 12 måneder\*\* |
-| Infeksjon med blåtungevirus (serotype 1–24) | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* | NA | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* |
-| Infeksjon med hemoragisk epizooti-virus | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* | NA | 24 måneder\*\* | 24 måneder\*\* | 24 måneder\*\* |
+| Infeksjon med Rift Valley Fever-virus | 48 måneder[^\*\*] | 48 måneder[^\*\*] | 48 måneder[^\*\*] | NA | 48 måneder[^\*\*] | 48 måneder[^\*\*] | 48 måneder[^\*\*] |
+| Afrikansk svinepest | NA | NA | NA | 12 måneder[^\*\*] | NA | NA | NA |
+| Klassisk svinepest | NA | NA | NA | 12 måneder[^\*\*] | NA | NA | NA |
+| Infeksjon med *Brucella abortus, B. melitensis* og *B. suis* | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] | 12 måneder[^\*\*] |
+| Infeksjon med blåtungevirus (serotype 1–24) | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] | NA | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] |
+| Infeksjon med hemoragisk epizooti-virus | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] | NA | 24 måneder[^\*\*] | 24 måneder[^\*\*] | 24 måneder[^\*\*] |
 
 \* Gjelder bare for listeførte arter i samsvar med vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
 
@@ -4366,12 +4366,12 @@ NA = Ikke relevant.
 
 Krav med hensyn til at det ikke er foretatt vaksinasjon mot visse sykdommer i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse når det gjelder **hov- og klovdyr beregnet på lukkede anlegg**.
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Munn- og klovsyke | NVA | NVA | NVA | NVA | NVA | NVA | NVA |
-| Infeksjon med Rift Valley Fever-virus | NVA\*\* | NVA\*\* | NVA\*\* | NA | NVA\*\* | NVA\*\* | NVA\*\* |
+| Infeksjon med Rift Valley Fever-virus | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] | NA | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] |
 | Klassisk svinepest | NA | NA | NA | NVA | NA | NA | NA |
-| Infeksjon med *Brucella abortus*, *B. melitensis* og *B. suis.* | NVA\*\* | NVA\*\* | NVA\*\* | NVA\*\* | NVA\*\* | NVA\*\* | NVA\*\* |
+| Infeksjon med *Brucella abortus*, *B. melitensis* og *B. suis.* | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] | NVA[^\*\*] |
 | Infeksjon med pseudorabiesvirus | NA | NA | NA | NVA | NA | NA | NA |
 
 \* Gjelder bare for listeførte arter i samsvar med Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
@@ -4731,12 +4731,12 @@ FRAVÆR AV SYKDOM I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET FOR P
 
 Minsteperioder (i måneder) med fravær av sykdom i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse i samsvar med artikkel 133 nr. 1.
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Munn- og klovsyke | 12 md.\*\* | 12 md.\*\* | 12 md.\*\* | 12 mnd.\*\* | 12 md.\*\* | 12 md.\*\* | 12 md.\*\* |
+| Munn- og klovsyke | 12 md.[^\*\*] | 12 md.[^\*\*] | 12 md.[^\*\*] | 12 mnd.[^\*\*] | 12 md.[^\*\*] | 12 md.[^\*\*] | 12 md.[^\*\*] |
 | Infeksjon med kvegpestvirus | 12 md. | 12 md. | 12 md. | 12 md. | 12 md. | 12 md. | 12 md. |
 | Afrikansk svinepest | NA | NA | NA | 12 mnd. | NA | NA | NA |
-| Klassisk svinepest | NA | NA | NA | 12 md.\*\* | NA | NA | NA |
+| Klassisk svinepest | NA | NA | NA | 12 md.[^\*\*] | NA | NA | NA |
 
 \* Gjelder bare for listeførte arter i samsvar med vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
 
@@ -4759,10 +4759,10 @@ VAKSINASJON I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET ELLER EN SO
 
 Krav til dyrehelse med hensyn til at det ikke er foretatt vaksinasjon i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse og i opprinnelsesanlegget for hov- og klovdyrene som det ferske kjøttet kommer fra:
 
-|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*\* |
+|  | *1. Storfe* | *2. Sau* | *3. Geit* | *4. Svin* | *5. Dyr av kamelfamilien* | *6. Hjortedyr* | *7. Andre hov- og klovdyr enn dem som er nevnt i kolonne 1, 2, 3, 4, 5, 6*[^\*] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Munn- og klovsyke | NV/NVE\*\* | NV/NVE\*\* | NV/NVE\*\* | NV/NVE | NV/NVE\*\* | NV/NVE\*\* | NV/NVE\*\* |
-| Infeksjon med kvegpestvirus | NV/NVE\*\* | NV/NVE\*\* | NV/NVE\*\* | NV/NVE | NV/NVE\*\* | NV/NVE\*\* | NV/NVE\*\* |
+| Munn- og klovsyke | NV/NVE[^\*\*] | NV/NVE[^\*\*] | NV/NVE[^\*\*] | NV/NVE | NV/NVE[^\*\*] | NV/NVE[^\*\*] | NV/NVE[^\*\*] |
+| Infeksjon med kvegpestvirus | NV/NVE[^\*\*] | NV/NVE[^\*\*] | NV/NVE[^\*\*] | NV/NVE | NV/NVE[^\*\*] | NV/NVE[^\*\*] | NV/NVE[^\*\*] |
 | Afrikansk svinepest | NA | NA | NA | NV/NVE | NA | NA | NA |
 | Klassisk svinepest | NA | NA | NA | NV/NVE | NA | NA | NA |
 

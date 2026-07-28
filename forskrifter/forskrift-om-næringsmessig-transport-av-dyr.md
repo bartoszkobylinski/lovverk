@@ -16,7 +16,7 @@ xml_hash: "594ee6119e390a11093346f3ee120fe634bedeed1ce4d7d113ce8333faa62235"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -219,20 +219,20 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Europaparlamentet,1
+under henvisning til uttalelse fra Europaparlamentet,[^1]
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,2
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^2]
 
 etter å ha rådspurt Regionkomiteen, og
 
 ut fra følgende betraktninger:
 
 1. I henhold til protokollen om dyrevern og dyrs velferd som er vedlagt traktaten, skal Fellesskapet og medlemsstatene ved fastsettelse og gjennomføring av Fellesskapets landbruks- og transportpolitikk fullt ut ta hensyn til kravene til dyrs velferd.
-2. Ved rådsdirektiv [91/628/EØF](eu/31991l0628) av 19. november 1991 om vern av dyr under transport3 vedtok Rådet regler på området transport av dyr for å fjerne tekniske hindringer for handelen med levende dyr og å legge grunnlaget for at markedsordningene på området skal fungere tilfredsstillende og samtidig sikre tilfredsstillende vern for dyrene det gjelder.
-3. I sin rapport til Europaparlamentet og Rådet om de erfaringene medlemsstatene har gjort siden gjennomføringen av rådsdirektiv [95/29/EF](eu/31995l0029*) av 29. juni 1995 om endring av direktiv [91/628/EØF](eu/31991l0628) om vern av dyr under transport,4 som ble utarbeidet i samsvar med direktiv [91/628/EØF](eu/31991l0628), anbefalte Kommisjonen at gjeldende fellesskapslovgivning på dette området endres.
+2. Ved rådsdirektiv [91/628/EØF](eu/31991l0628) av 19. november 1991 om vern av dyr under transport[^3] vedtok Rådet regler på området transport av dyr for å fjerne tekniske hindringer for handelen med levende dyr og å legge grunnlaget for at markedsordningene på området skal fungere tilfredsstillende og samtidig sikre tilfredsstillende vern for dyrene det gjelder.
+3. I sin rapport til Europaparlamentet og Rådet om de erfaringene medlemsstatene har gjort siden gjennomføringen av rådsdirektiv [95/29/EF](eu/31995l0029*) av 29. juni 1995 om endring av direktiv [91/628/EØF](eu/31991l0628) om vern av dyr under transport,[^4] som ble utarbeidet i samsvar med direktiv [91/628/EØF](eu/31991l0628), anbefalte Kommisjonen at gjeldende fellesskapslovgivning på dette området endres.
 4. De fleste medlemsstatene har ratifisert Den europeiske konvensjon om beskyttelse av dyr under internasjonal transport, og Rådet har gitt Kommisjonen mandat til å forhandle på vegne av Fellesskapet om en revidert europeisk konvensjon om beskyttelse av dyr under internasjonal transport.
 5. Transport av dyr, også slaktedyr, over lange avstander bør reduseres så mye som mulig av hensyn til dyrenes velferd.
-6. Rådet oppfordret 19. juni 20015 Kommisjonen til å framlegge forslag med henblikk på å sikre effektiv gjennomføring av og streng kontroll med eksisterende fellesskapslovgivning, å bedre dyrevernet og dyrs velferd, å forebygge at smittsomme dyresykdommer oppstår og spres, samt å innføre strengere vilkår slik at dyrenes velferd og helse sikres under og etter transport, og slik at de unngår smerte og lidelse.
+6. Rådet oppfordret 19. juni 2001[^5] Kommisjonen til å framlegge forslag med henblikk på å sikre effektiv gjennomføring av og streng kontroll med eksisterende fellesskapslovgivning, å bedre dyrevernet og dyrs velferd, å forebygge at smittsomme dyresykdommer oppstår og spres, samt å innføre strengere vilkår slik at dyrenes velferd og helse sikres under og etter transport, og slik at de unngår smerte og lidelse.
 7. Europaparlamentet anmodet 13. november 2001 Kommisjonen om å framlegge forslag til endring av eksisterende fellesskapslovgivning om transport av levende dyr, særlig å:
 
    - rådspørre vedkommende vitenskapskomité om varigheten av dyretransporter,
@@ -244,25 +244,25 @@ ut fra følgende betraktninger:
 10. I lys av erfaringene med harmonisering av Fellesskapets regelverk om transport av dyr innenfor rammen av direktiv [91/628/EØF](eu/31991l0628) og de vanskelighetene som er oppstått på grunn av forskjellig gjennomføring av nevnte direktiv på nasjonalt plan, er det mer hensiktsmessig å fastsette fellesskapsregler på dette området i en forordning. Inntil det er vedtatt nærmere bestemmelser om visse arter som har særlige behov, og som utgjør en svært begrenset del av Fellesskapets husdyrbestand, er det hensiktsmessig å gi medlemsstatene mulighet til å innføre eller opprettholde ytterligere nasjonale regler for transport av slike dyrearter.
 11. For å sikre en ensartet og effektiv anvendelse av denne forordning i hele Fellesskapet i lys av det grunnleggende prinsippet at dyr ikke skal transporteres under slike forhold at de kan skades eller påføres unødig lidelse, bør det fastsettes nærmere bestemmelser om de særlige behovene som oppstår i forbindelse med forskjellige former for transport. Slike nærmere bestemmelser bør tolkes og anvendes i samsvar med ovennevnte prinsipp og bør ajourføres i tide, særlig når de i lys av nye vitenskapelige uttalelser ikke lenger synes å sikre at ovennevnte prinsipp overholdes for bestemte dyrearter eller former for transport.
 12. Transport i kommersielt øyemed er ikke begrenset til transport som innebærer umiddelbar utveksling av penger, varer eller tjenester. Transport i kommersielt øyemed omfatter blant annet transport som direkte eller indirekte innebærer eller har til formål å oppnå økonomisk gevinst.
-13. Avlessing og påfølgende omlasting av dyr kan også være en kilde til stress for dyrene, og kontakt på kontrollstasjoner, tidligere kalt stoppesteder, kan under visse forhold føre til spredning av smittsomme sykdommer. Det bør derfor fastsettes særlige tiltak som sikrer dyrs helse og velferd under hvile på kontrollstasjoner. Det er derfor nødvendig å endre bestemmelsene i rådsforordning [(EF) nr. 1255/97](eu/31997r1255) av 25. juni 1997 om fellesskapskriterier for stoppesteder og om endring av reiseplanen fastsatt i vedlegget til direktiv [91/628/EØF](eu/31991l0628).6
+13. Avlessing og påfølgende omlasting av dyr kan også være en kilde til stress for dyrene, og kontakt på kontrollstasjoner, tidligere kalt stoppesteder, kan under visse forhold føre til spredning av smittsomme sykdommer. Det bør derfor fastsettes særlige tiltak som sikrer dyrs helse og velferd under hvile på kontrollstasjoner. Det er derfor nødvendig å endre bestemmelsene i rådsforordning [(EF) nr. 1255/97](eu/31997r1255) av 25. juni 1997 om fellesskapskriterier for stoppesteder og om endring av reiseplanen fastsatt i vedlegget til direktiv [91/628/EØF](eu/31991l0628).[^6]
 14. Dårlig velferd skyldes ofte manglende utdanning. Følgelig bør alle som håndterer dyr under transport, på forhånd ha fått opplæring, som bare bør gis av organisasjoner godkjent av vedkommende myndighet.
 15. Velferdsforholdene for dyr under transport avhenger hovedsakelig av transportørens daglige praksis. Vedkommende myndigheter kan bli hindret i å utføre sine kontroller fordi transportørene fritt kan utøve sin virksomhet i forskjellige medlemsstater. Transportørene bør derfor i større grad holdes ansvarlig, og det bør skapes større gjennomsiktighet når det gjelder deres status og virksomhet. Særlig bør de kunne dokumentere at de er autorisert, rapportere systematisk eventuelle problemer og føre nøyaktige bøker over sine aktiviteter og resultater.
 16. Det er ikke bare transportører, men også andre aktører som gårdbrukere, forretningsdrivende, oppsamlingssentraler og slakterier som er engasjert i transport av dyr. Følgelig bør en rekke krav som gjelder dyrs velferd, utvides til å omfatte alle aktører som beskjeftiger seg med transport av dyr.
 17. Oppsamlingssentralene spiller en vesentlig rolle i forbindelse med transport av visse arter av levende dyr. Oppsamlingssentralene bør derfor sørge for at Fellesskapets regelverk om vern av dyr under transport er kjent for og overholdes av alle ansatte og besøkende.
 18. Risikoen for negativ påvirkning av dyrenes velferd er større på lange enn korte reiser. Følgelig bør det fastsettes særlige framgangsmåter for å sikre at standardene overholdes i større grad, særlig ved å gjøre det lettere å spore slik transport.
-19. Ved rådsforordning [(EØF) nr. 3820/85](eu/31985r3820*) av 20. desember 1985 om harmonisering av visse bestemmelser på det sosiale område innen veitransport7 fastsettes lengste kjøretid og minste varighet av hviletider for sjåfører. Reisetiden for dyr bør reguleres tilsvarende. I henhold til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985 om bruk av fartsskriver innen veitransport8 skal fartsskriver installeres og brukes for å sikre en effektiv kontroll med overholdelse av bestemmelsene på det sosiale området innen veitransport. Det er nødvendig at de registrerte opplysningene gjøres tilgjengelige og kontrolleres slik at reglene for lengste transporttid kan håndheves i samsvar med reglene om dyrs velferd.
+19. Ved rådsforordning [(EØF) nr. 3820/85](eu/31985r3820*) av 20. desember 1985 om harmonisering av visse bestemmelser på det sosiale område innen veitransport[^7] fastsettes lengste kjøretid og minste varighet av hviletider for sjåfører. Reisetiden for dyr bør reguleres tilsvarende. I henhold til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985 om bruk av fartsskriver innen veitransport[^8] skal fartsskriver installeres og brukes for å sikre en effektiv kontroll med overholdelse av bestemmelsene på det sosiale området innen veitransport. Det er nødvendig at de registrerte opplysningene gjøres tilgjengelige og kontrolleres slik at reglene for lengste transporttid kan håndheves i samsvar med reglene om dyrs velferd.
 20. Utilstrekkelig utveksling av opplysninger mellom vedkommende myndigheter fører til mangelfull håndheving av Fellesskapets regelverk om vern av dyr under transport. Det bør derfor fastsettes fleksible framgangsmåter for å bedre samarbeidet mellom vedkommende myndigheter i de forskjellige medlemsstatene.
-21. Registrerte dyr av hestefamilien, som definert i artikkel 2 bokstav c) i direktiv [90/426/EØF](eu/31990l0426*),9 blir ofte transportert i ikke-kommersielt øyemed, og slik transport bør utføres i samsvar med de generelle målene for denne forordning. Av hensyn til den karakter slik forflytning har, bør det innrømmes unntak fra visse bestemmelser når registrerte dyr av hestefamilien transporteres til konkurranser, til veddeløp, til kulturelle arrangementer eller for avlsformål. Slike unntak bør imidlertid ikke innrømmes for dyr av hestefamilien som enten direkte eller etter transitt føres via et marked eller en godkjent samleplass til et slakteri for å slaktes, og som i henhold til artikkel 2 bokstav d) og artikkel 8 nr. 1 annet strekpunkt i direktiv [90/426/EØF](eu/31990l0426*) anses som «slaktedyr av hestefamilien».
+21. Registrerte dyr av hestefamilien, som definert i artikkel 2 bokstav c) i direktiv [90/426/EØF](eu/31990l0426*),[^9] blir ofte transportert i ikke-kommersielt øyemed, og slik transport bør utføres i samsvar med de generelle målene for denne forordning. Av hensyn til den karakter slik forflytning har, bør det innrømmes unntak fra visse bestemmelser når registrerte dyr av hestefamilien transporteres til konkurranser, til veddeløp, til kulturelle arrangementer eller for avlsformål. Slike unntak bør imidlertid ikke innrømmes for dyr av hestefamilien som enten direkte eller etter transitt føres via et marked eller en godkjent samleplass til et slakteri for å slaktes, og som i henhold til artikkel 2 bokstav d) og artikkel 8 nr. 1 annet strekpunkt i direktiv [90/426/EØF](eu/31990l0426*) anses som «slaktedyr av hestefamilien».
 22. Utilstrekkelig oppfølging av overtredelser av regelverket for dyrs velferd vil føre til at regelverket ikke overholdes, og dermed til konkurransevridning. Det bør derfor etableres ensartede framgangsmåter i hele Fellesskapet for å øke kontrollen og å iverksette sanksjoner ved overtredelse av regelverket om dyrs velferd. Medlemsstatene bør fastsette regler om sanksjoner for overtredelse av bestemmelsene i denne forordning og sikre at de håndheves. Sanksjonene må være effektive, stå i et rimelig forhold til overtredelsen og være avskrekkende.
 23. Et betydelig antall dyr transporters med fartøy for levende dyr på svært lange reiser fra og innenfor Fellesskapet, og sjøtransport kan kontrolleres på avreisestedet. Det er derfor viktig å fastsette særlige tiltak og standarder for denne formen for transport.
-24. Med henblikk på å sikre et ensartet regelverk i Fellesskapet bør rådsdirektiv [64/432/EØF](eu/31964l0432*) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet10 endres og tilpasses denne forordning når det gjelder godkjenning av oppsamlingssentraler og krav til transportører.
-25. Rådsdirektiv [93/119/EF](eu/31993l0119) av 22. desember 1993 om vern av dyr på tidspunktet for slakting eller avliving11 bør også endres og tilpasses denne forordning når det gjelder bruk av elektrisk piggstav.
-26. De bestemmelser og ordninger for oversendelse av opplysninger som er fastsatt ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene,12 bør anvendes på dyrs velferd under transport for å sikre at denne forordning overholdes.
-27. Ved kommisjonsvedtak [98/139/EF](eu/31998d0139)13 fastsettes det visse nærmere regler for veterinærkontroll på stedet foretatt i medlemsstatene av Kommisjonens sakkyndige, og disse reglene bør bidra til å sikre en ensartet gjennomføring av denne forordning.
-28. Denne forordning inneholder bestemmelser om ventilasjon i veigående kjøretøyer som benyttes til transport av levende dyr på lange reiser. Følgelig bør rådsforordning [(EF) nr. 411/98](eu/31998r0411) av 16. februar 1998 om tilleggsstandarder for vern av dyr under transport i veigående kjøretøyer når reisetiden overstiger åtte timer,14 oppheves.
+24. Med henblikk på å sikre et ensartet regelverk i Fellesskapet bør rådsdirektiv [64/432/EØF](eu/31964l0432*) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet[^10] endres og tilpasses denne forordning når det gjelder godkjenning av oppsamlingssentraler og krav til transportører.
+25. Rådsdirektiv [93/119/EF](eu/31993l0119) av 22. desember 1993 om vern av dyr på tidspunktet for slakting eller avliving[^11] bør også endres og tilpasses denne forordning når det gjelder bruk av elektrisk piggstav.
+26. De bestemmelser og ordninger for oversendelse av opplysninger som er fastsatt ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene,[^12] bør anvendes på dyrs velferd under transport for å sikre at denne forordning overholdes.
+27. Ved kommisjonsvedtak [98/139/EF](eu/31998d0139)[^13] fastsettes det visse nærmere regler for veterinærkontroll på stedet foretatt i medlemsstatene av Kommisjonens sakkyndige, og disse reglene bør bidra til å sikre en ensartet gjennomføring av denne forordning.
+28. Denne forordning inneholder bestemmelser om ventilasjon i veigående kjøretøyer som benyttes til transport av levende dyr på lange reiser. Følgelig bør rådsforordning [(EF) nr. 411/98](eu/31998r0411) av 16. februar 1998 om tilleggsstandarder for vern av dyr under transport i veigående kjøretøyer når reisetiden overstiger åtte timer,[^14] oppheves.
 29. Det bør fastsettes en enkel framgangsmåte som Rådet skal følge ved ajourføring av visse viktige tekniske elementer i denne forordning, særlig i lys av en vurdering av forordningens innvirkning på transporten av levende dyr innenfor et utvidet Fellesskap, og ved fastsettelse av spesifikasjonene for det navigasjonssystemet som skal brukes for alle veigående transportmidler, på bakgrunn av den framtidige teknologiske utviklingen på dette området, for eksempel at Gelileo-systemet blir tatt i bruk.
 30. Det bør kunne innrømmes unntak for å ta hensyn til den lange avstanden fra visse regioner til fastlandsdelen av Fellesskapet, særlig for de mest avsidesliggende områdene nevnt i traktatens artikkel 299.
-31. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen15 –
+31. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen[^15] –
 
 1 Uttalelse avgitt 30.3.2004 (ennå ikke offentliggjort i EUT).
 
@@ -326,11 +326,11 @@ I denne forordning menes med:
 
 ►**M1**
 
-1. «grensekontrollstasjon» en grensekontrollstasjon som definert i artikkel 3 nr. 38 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*),\*
+1. «grensekontrollstasjon» en grensekontrollstasjon som definert i artikkel 3 nr. 38 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*),[^\*]
 
 ◄**M1**
 
-1. *«Fellesskapets veterinærregler»:* reglene oppført i kapittel I i vedlegg A til direktiv [90/425/EØF](eu/31990l0425)2 og alle senere gjennomføringsbestemmelser,
+1. *«Fellesskapets veterinærregler»:* reglene oppført i kapittel I i vedlegg A til direktiv [90/425/EØF](eu/31990l0425)[^2] og alle senere gjennomføringsbestemmelser,
 
 ►**M1**
 
@@ -376,7 +376,7 @@ I denne forordning menes med:
    1. innkvarteres i minst 48 timer før tidspunktet for avgang, eller
    2. slaktes,
 4. *«hvile- eller omlastingssted»:* enhver stopp under reisen, bortsett fra bestemmelsesstedet, herunder et sted der dyrene har skiftet transportmiddel, uansett om de er blitt lesset av eller ikke,
-5. *«registrert dyr av hestefamilien»:* registrert dyr av hestefamilien som definert i direktiv [90/426/EØF](eu/31990l0426*),3
+5. *«registrert dyr av hestefamilien»:* registrert dyr av hestefamilien som definert i direktiv [90/426/EØF](eu/31990l0426*),[^3]
 6. *«rorofartøy»:* sjøgående fartøy som er innrettet slik at vei- eller skinnegående kjøretøyer kan kjøres direkte om bord og fra borde,
 7. *«transport»:* enhver flytting av dyr som foretas ved hjelp av ett eller flere transportmidler, og tilknyttede aktiviteter, herunder lasting, avlessing, omlasting og hvile, inntil avlessingen av dyrene på bestemmelsesstedet er fullført,
 8. *«transportør»:* enhver fysisk eller juridisk person som transporterer dyr for egen eller tredjemanns regning,
@@ -676,7 +676,7 @@ GJENNOMFØRINGSMYNDIGHET OG KOMITÉFRAMGANGSMÅTE
 
 ### Artikkel 31. Komitéframgangsmåte
 
-1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).1
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).[^1]
 
 2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse.
 
@@ -705,12 +705,12 @@ I direktiv [64/432/EØF](eu/31964l0432*) gjøres følgende endringer:
 
 1. i nr. 1 skal ny bokstav lyde:
 
-   1. overholde bestemmelsene i direktiv [98/58/EF](eu/31998l0058) og forordning [(EF) nr. 1/2005](eu/32005r0001*),\* som får anvendelse for dem.
+   1. overholde bestemmelsene i direktiv [98/58/EF](eu/31998l0058) og forordning [(EF) nr. 1/2005](eu/32005r0001*),[^\*] som får anvendelse for dem.
 
       \* EUT L 3 av 5. januar 2005.»
 2. nr. 4 skal lyde:
 
-   «4. Vedkommende myndighet kan oppheve midlertidig eller tilbakekalle en godkjenning ved eventuelle brudd på denne artikkel eller på andre aktuelle bestemmelser i dette direktiv eller i forordning [(EF) nr. 1/2005](eu/32005r0001*) eller av Fellesskapets veterinærregler oppført i kapittel I i vedlegg A til direktiv [90/425/EØF](eu/31990l0425).\* Godkjenningen kan tre i kraft igjen når vedkommende myndighet har fått visshet om at oppsamlingssentralen igjen driver i fullt samsvar med alle de relevante bestemmelsene i dette nummer.
+   «4. Vedkommende myndighet kan oppheve midlertidig eller tilbakekalle en godkjenning ved eventuelle brudd på denne artikkel eller på andre aktuelle bestemmelser i dette direktiv eller i forordning [(EF) nr. 1/2005](eu/32005r0001*) eller av Fellesskapets veterinærregler oppført i kapittel I i vedlegg A til direktiv [90/425/EØF](eu/31990l0425).[^\*] Godkjenningen kan tre i kraft igjen når vedkommende myndighet har fått visshet om at oppsamlingssentralen igjen driver i fullt samsvar med alle de relevante bestemmelsene i dette nummer.
 
 \* EFT L 224 av 18.8.1990, s. 29.»
 
@@ -759,7 +759,7 @@ I forordning [(EF) nr. 1255/97](eu/31997r1255) gjøres følgende endringer:
 1. Ordet «stoppesteder» skal erstattes med ordet «kontrollstasjoner» overalt i forordningen.
 2. Artikkel 1 nr. 1 skal lyde:
 
-   «1. Kontrollstasjoner er steder hvor dyrene får hvile i minst 12 timer eller mer i henhold til punkt 1 nr. 5 eller punkt 1 nr. 7 bokstav b) i kapittel V i vedlegg I til forordning [(EF) 1/2005](eu/32005r0001*).\*
+   «1. Kontrollstasjoner er steder hvor dyrene får hvile i minst 12 timer eller mer i henhold til punkt 1 nr. 5 eller punkt 1 nr. 7 bokstav b) i kapittel V i vedlegg I til forordning [(EF) 1/2005](eu/32005r0001*).[^\*]
 
    \* EFT L 5 av 5. januar 2005.»
 3. Artikkel 3 skal lyde:
@@ -870,7 +870,7 @@ SKIKKETHET TIL TRANSPORT
 3. Syke eller skadde dyr kan imidlertid anses for å være skikket til transport dersom de:
 
    1. er lettere skadet eller syke og ikke vil bli påført ytterligere lidelser som følge av transporten; i tvilstilfelle skal det søkes råd fra veterinær,
-   2. transporteres innenfor rammen av rådsdirektiv [86/609/EØF](eu/31986l0609*)1 dersom sykdommen eller skaden er ledd i et forskningsprogram,
+   2. transporteres innenfor rammen av rådsdirektiv [86/609/EØF](eu/31986l0609*)[^1] dersom sykdommen eller skaden er ledd i et forskningsprogram,
    3. transporteres under tilsyn av veterinær med sikte på eller etter veterinærbehandling eller -diagnose; slik transport kan imidlertid bare tillates dersom de aktuelle dyrene ikke påføres unødig lidelse eller utsettes for mishandling,
    4. har gjennomgått et veterinærinngrep som ledd i driftsmetoder, slik som avhorning eller kastrering, forutsatt at sårene er fullstendig leget.
 4. Dyr som blir syke eller kommer til skade under transport, skal holdes atskilt fra andre dyr og gis førstehjelp så raskt som mulig. De skal gis egnet veterinærbehandling og om nødvendig nødslaktes eller avlives på en måte som sparer dem for unødig lidelse.
@@ -1053,7 +1053,7 @@ Fartøyer til transport av levende dyr eller fartøyer til transport av sjøcont
 
 *Fôr- og vannforsyning på fartøyer til transport av levende dyr eller fartøyer til transport av sjøcontainere*
 
-| *Kategori* | *Fôr*<br>*(i % av dyrenes levende vekt)* |  | *Ferskvann (liter per dyr)*\* |
+| *Kategori* | *Fôr*<br>*(i % av dyrenes levende vekt)* |  | *Ferskvann (liter per dyr)*[^\*] |
 | --- | --- | --- | --- |
 |  | Fôr | Kraftfôr |  |
 | Storfe og dyr av hestefamilien | 2 | 1,6 | 45 |
@@ -1192,7 +1192,7 @@ Plassforholdene for dyr skal minst være i samsvar med følgende tall:
 
 |  |  |
 | --- | --- |
-| Voksne hester | 1,75 m2 (0,7 × 2,5 m)\* |
+| Voksne hester | 1,75 m2 (0,7 × 2,5 m)[^\*] |
 | Unge hester (6–24 måneder) (for reiser på inntil 48 timer) | 1,2 m2 (0,6 × 2 m) |
 | Unge hester (6–24 måneder) (for reiser på over 48 timer) | 2,4 m2 (1,2 × 2 m) |
 | Ponnier (under 144 cm) | 1 m2 (0,6 × 1,8 m) |

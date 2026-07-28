@@ -15,7 +15,7 @@ xml_hash: "c3391590ff529ae360939c2127f2902c6a0712fc6a3070684ecd175f438892ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,7 @@ Påbudet gjelder likevel ikke:
 4. under kjøring med tre- og firehjuls motorsykkel og tre- og firehjuls moped når disse har lukket karosseri og har montert bilbelte,
 5. under kjøring med firehjuls motorsykkel og firehjuls moped når disse har karosseri bestående av minst gulv, front, tak og bakvegg og kjører i lav hastighet der vedkommende med korte mellomrom må forlate sin plass, så som under utdeling av post eller aviser, eller ved renovasjonsarbeid eller lignende,
 6. under kjøring med beltemotorsykkel/fire-/sekshjuls motorsykkel i militære avdelinger når Forsvarets hjelm benyttes,
-7. når godkjent1 og CE-merket2 alpinhjelm brukes under kjøring med beltemotorsykkel eller i slede til beltemotorsykkel.
+7. når godkjent[^1] og CE-merket[^2] alpinhjelm brukes under kjøring med beltemotorsykkel eller i slede til beltemotorsykkel.
 
 > Endret ved [forskrifter 19 des 2001 nr. 1506](forskrift/2001-12-19-1506) (i kraft 1 juli 2002), [8 okt 2004 nr. 1330](forskrift/2004-10-08-1330), [15 feb 2006 nr. 169](forskrift/2006-02-15-169), [24 mai 2011 nr. 544](forskrift/2011-05-24-544) (i kraft 15 juni 2011), [17 sep 2013 nr. 1103](forskrift/2013-09-17-1103).
 

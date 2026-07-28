@@ -15,7 +15,7 @@ xml_hash: "99e0d8c8af75bd0780d597ddd9208502a42b93425ba33929cbe1a5c2e57501d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Retningslinjene gjelder for all arealdisponering i hele kommunen og skal bidra t
 
 4.1 *Nullvekstmålet:* I byområdene skal klimagassutslipp, kø, luftforurensning og støy reduseres gjennom effektiv arealbruk og ved at veksten i persontransporten tas med kollektivtransport, sykling og gange. Dette skal legges til grunn for planlegging i byområder som har inngått avtale med staten og/eller får statlige tilskudd for å nå målet.
 
-I byområdene skal hovedtyngden av vekst i boliger og arbeidsplasser planlegges slik at transport-behovet kan begrenses og det legges godt til rette for kollektivtrafikk, sykling og gange. I byområder med byvekstavtale skal hovedtyngden av veksten komme i eller i nærheten av store kollektivknutepunkter innenfor avtaleområdet.1
+I byområdene skal hovedtyngden av vekst i boliger og arbeidsplasser planlegges slik at transport-behovet kan begrenses og det legges godt til rette for kollektivtrafikk, sykling og gange. I byområder med byvekstavtale skal hovedtyngden av veksten komme i eller i nærheten av store kollektivknutepunkter innenfor avtaleområdet.[^1]
 
 1 Pkt. 4.1 Gjelder de kommunene som også har byvekstavtale, belønningsavtale eller er omfattet av tilskuddsordning for klima- og miljøvennlig byutvikling og god fremkommelighet.
 

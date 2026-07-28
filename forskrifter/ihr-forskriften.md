@@ -15,7 +15,7 @@ xml_hash: "84b71ddb78058b537c2627f163e68a1ad4586ba828409a363c02bae3a1eeef62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -304,7 +304,7 @@ IHR står for International Health Regulations (Internasjonalt helsereglement). 
 
 Forskriften gjennomfører sammen med smittevernloven, helseberedskapsloven og folkehelseloven forpliktelsene Norge har akseptert ved inngåelsen av WHOs helsereglement, IHR (2005), og Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) av 22. oktober 2013 om alvorlige helsetrusler over landegrensene og om oppheving av vedtak nr. [2119/98/EF](eu/31998d2119). IHR (2005) erstatter tidligere helsereglement fra 1969 og har gyldighet fra 15. juni 2007. Dette reglementet er å betrakte som en internasjonal avtale. Reglementet stiller krav om informasjon til WHO og andre land og gjør det nødvendig å organisere et apparat i Norge både på varslings- og responssiden. Med Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) har Norge forpliktet seg til å varsle om grensekryssende helsetrusler i Kommisjonens varslingssystem, EWRS. Beslutningen ble tatt inn i protokoll 31 til EØS-avtalen 20. mars 2015.
 
-Fra 3. juli 2015 er Norge også fullverdig medlem av EUs varslingssystem for atomulykker (ECURIE), der Statens strålevern (Strålevernet)1 er nasjonalt kontaktpunkt.
+Fra 3. juli 2015 er Norge også fullverdig medlem av EUs varslingssystem for atomulykker (ECURIE), der Statens strålevern (Strålevernet)[^1] er nasjonalt kontaktpunkt.
 
 Formålet med forskriften er ikke bare å etterkomme forpliktelsene overfor WHO og Kommisjonen, men også å bidra til at den norske befolkningen til enhver tid er best mulig beskyttet mot alvorlige internasjonale helsetrusler.
 
@@ -341,9 +341,9 @@ En helsetrussel er en hendelse som er uvanlig og uventet for tid og sted, kan fo
 
 Ved mistanke om en alvorlig hendelse av betydning for internasjonal folkehelse skal varsel gå til Folkehelseinstituttet ved Smittevernvakta på instituttet ved smittevernhendelser og til Giftinformasjonen ved andre typer hendelser (se Beredskapstelefoner på [www.fhi.no](https://www.fhi.no)). Folkehelseinstituttet vurderer deretter om hendelsen skal varsles videre til WHO og Kommisjonen.
 
-Helsedirektoratet ved Statens strålevern1 er nasjonalt varslingspunkt for IAEA og fra 3. juli 2015 også nasjonalt varslingspunkt for EUs varslingssystem for atomulykker (ECURIE). Helsedirektoratet ved Statens strålevern sørger for at meldinger via ECURIE mottas og viderevarsles til FHI og andre aktuelle beredskapsaktører.
+Helsedirektoratet ved Statens strålevern[^1] er nasjonalt varslingspunkt for IAEA og fra 3. juli 2015 også nasjonalt varslingspunkt for EUs varslingssystem for atomulykker (ECURIE). Helsedirektoratet ved Statens strålevern sørger for at meldinger via ECURIE mottas og viderevarsles til FHI og andre aktuelle beredskapsaktører.
 
-De nasjonale kontaktpunktene skal til enhver tid være tilgjengelige for kommunikasjon med WHOs IHR-kontaktpunkter og Kommisjonen. For å unngå varsling av samme hendelse i flere ulike systemer bør Folkehelseinstituttet og Helsedirektoratet ved Statens strålevern1 samarbeide og sørge for god kommunikasjonsutveksling.
+De nasjonale kontaktpunktene skal til enhver tid være tilgjengelige for kommunikasjon med WHOs IHR-kontaktpunkter og Kommisjonen. For å unngå varsling av samme hendelse i flere ulike systemer bør Folkehelseinstituttet og Helsedirektoratet ved Statens strålevern[^1] samarbeide og sørge for god kommunikasjonsutveksling.
 
 Relevante myndigheter kan være departementer, Helsedirektoratet, Statens strålevern, Statens helsetilsyn, helse- og omsorgstjenesten, Fylkesmannen, Mattilsynet, Kystverket, Luftfartstilsynet, politi og tollvesen mfl.
 
@@ -361,7 +361,7 @@ Se også varslingsplikten som følger av [lov 23. juni 2000 nr. 56](lov/2000-06-
 
 Det er viktig å understreke at det er plikt til å varsle kommunelegen om mistanke om en alvorlig hendelse som utgjør eller kan utgjøre en folkehelserisiko gjennom spredning av sykdom over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping. Andre myndigheter og kommunelegen skal altså ikke selv vurdere om den aktuelle hendelsen er varslingspliktig til WHO eller Kommisjonen, jf. [§ 7](forskrift/2007-12-21-1573/§7). Det er viktig at alle hendelser som kan tenkes å få betydning, varsles til Folkehelseinstituttet. Varslingsplikten etter andre ledd gjelder hendelser med smittsomme sykdommer. Ansattes varslingsplikt skal være forenelig med deres øvrige oppgaver.
 
-Ved forhold innenfor Mattilsynets ansvarsområde (mat, dyr og planter) skal ansatte i Mattilsynet varsle kommunelegen. Det vises også til [MSIS-forskriften § 3-9](forskrift/2003-06-20-740/§3-9) (varsling om smitte fra næringsmidler) og [§ 3-10](forskrift/2003-06-20-740/§3-10) (varsling om smitte fra dyr). Statens strålevern1 har ikke plikt til å varsle kommunelegen etter denne forskriftens § 4, da Strålevernet allerede har varslingsplikt til Fylkesmannen som så har den videre lokale kontakten, jf. [kgl.res. 23. august 2013 nr. 1023](forskrift/2013-08-23-1023) om atomberedskap.
+Ved forhold innenfor Mattilsynets ansvarsområde (mat, dyr og planter) skal ansatte i Mattilsynet varsle kommunelegen. Det vises også til [MSIS-forskriften § 3-9](forskrift/2003-06-20-740/§3-9) (varsling om smitte fra næringsmidler) og [§ 3-10](forskrift/2003-06-20-740/§3-10) (varsling om smitte fra dyr). Statens strålevern[^1] har ikke plikt til å varsle kommunelegen etter denne forskriftens § 4, da Strålevernet allerede har varslingsplikt til Fylkesmannen som så har den videre lokale kontakten, jf. [kgl.res. 23. august 2013 nr. 1023](forskrift/2013-08-23-1023) om atomberedskap.
 
 *Til tredje ledd*
 
@@ -369,7 +369,7 @@ Bestemmelsen angir at dersom det ikke er mulig å få varslet kommunelegen, skal
 
 *Til fjerde ledd*
 
-Fjerde ledd er en kodifisering av gjeldende varslingspraksis mellom Statens strålevern1 og Folkehelseinstituttet. Det presiseres at Statens strålevern har en varslingsplikt om hendelser som Strålevernet får kjennskap til gjennom sin virksomhet og som kan ha betydning for internasjonal folkehelse. Dette for å sikre at FHI som IHR-kontaktpunkt raskt får kjennskap til aktuelle hendelser. I samsvar med kgl.res. om atomberedskap varsler Statens strålevern også FHI som rådgiver for Kriseutvalget for atomberedskap om hendelser innenfor Kriseutvalget for atomberedskap sitt mandat.
+Fjerde ledd er en kodifisering av gjeldende varslingspraksis mellom Statens strålevern[^1] og Folkehelseinstituttet. Det presiseres at Statens strålevern har en varslingsplikt om hendelser som Strålevernet får kjennskap til gjennom sin virksomhet og som kan ha betydning for internasjonal folkehelse. Dette for å sikre at FHI som IHR-kontaktpunkt raskt får kjennskap til aktuelle hendelser. I samsvar med kgl.res. om atomberedskap varsler Statens strålevern også FHI som rådgiver for Kriseutvalget for atomberedskap om hendelser innenfor Kriseutvalget for atomberedskap sitt mandat.
 
 *Til [§ 5](forskrift/2007-12-21-1573/§5) Varslingsplikt for fører av skip, luftfartøy og andre transportmidler*
 

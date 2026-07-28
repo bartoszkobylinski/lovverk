@@ -15,7 +15,7 @@ xml_hash: "1da734b7ee6e8a9553a950a270c4a0621abd080566f49e4bc95f909d6e2fbe67"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,6 +96,6 @@ Statsministerens kontor gir regler om regnskapsordningen ved regjeringsadvokatem
 
 ## II
 
-Instruksen trer i kraft fra det tidspunkt Justisdepartementet bestemmer.1
+Instruksen trer i kraft fra det tidspunkt Justisdepartementet bestemmer.[^1]
 
 1 Fra 1 okt 1962 iflg. vedtak 9 aug 1962.

@@ -15,7 +15,7 @@ xml_hash: "c9fb36ee888f68775a55e44aab2c655a4f07f9254d93c19a8492a75039f8eab0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,6 +51,6 @@ Kongen kan gi forskrift om innretningen av tilskuddsordningen, herunder virkeomr
 
 ## § 5. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 mars 2019 iflg. [res. 1 mars 2019 nr. 162](forskrift/2019-03-01-162).

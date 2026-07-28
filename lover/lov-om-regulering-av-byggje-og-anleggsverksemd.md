@@ -15,7 +15,7 @@ xml_hash: "f1b13fefa9e84732c7851a7d4dd511ad3a07e6b141f0c84b83195b7b3bcc0f8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,6 +44,6 @@ Den som bryt lova her eller forskrift med heimel i lova, vert straffa med bøter
 
 ## § 5.
 
-Kongen fastset når lova skal ta til å gjelde.1
+Kongen fastset når lova skal ta til å gjelde.[^1]
 
 1 Frå 22 mars 1996 iflg. [res. 22 mars 1996 nr. 288](forskrift/1996-03-22-288).

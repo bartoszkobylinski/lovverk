@@ -15,7 +15,7 @@ xml_hash: "f0cd897bee4556c4026f32d22d146f29a94af6f1d93fd788fd05187cd506045f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1312,7 +1312,7 @@ Kongen i statsråd kan gi forskrift om handelstiltak overfor ett eller flere lan
 
 ### § 14-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 21. desember 2007 nr. 119 om toll og vareførsel](lov/2007-12-21-119).
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Fra samme tidspunkt oppheves [lov 21. desember 2007 nr. 119 om toll og vareførsel](lov/2007-12-21-119).
 
 1 Fra 1. januar 2023 iflg. [res. 16 sep 2022 nr. 1574](forskrift/2022-09-16-1574).
 

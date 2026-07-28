@@ -17,7 +17,7 @@ xml_hash: "e540e318978fdb9d315c225b350362ca54aca9f084263feb6780b816653fe685"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,19 +74,19 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082)1, særlig artikkel 118 nr. 2, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082)[^1], særlig artikkel 118 nr. 2, og
 
 ut fra følgende betraktninger:
 
 1. Antimikrobiell resistens er en alvorlig trussel mot folkehelsen. Når det utvikles resistens mot et antimikrobielt middel som brukes til å behandle en bestemt infeksjon som det ikke finnes andre behandlingsalternativer for, og denne resistensen sprer seg, har det alvorlige og potensielt livstruende konsekvenser for mennesker. Menneskers og dyrs helse og miljøet henger sammen. Et av målene med forordning [(EU) 2019/6](eu/32019r0006) er derfor å begrense spredningen av antimikrobiell resistens ved hjelp av konkrete tiltak for å fremme en tilbakeholden og ansvarlig bruk av antimikrobielle legemidler på dyr.
 2. Bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten er verken tilbakeholden eller ansvarlig. En stor mengde vitenskapelig litteratur har vist at bruk av antimikrobielle midler for slike formål kan utløse antimikrobiell resistens. Ved forordning [(EU) 2019/6](eu/32019r0006) forbys derfor bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten, noe som omfatter antimikrobielle midler i legemidler til dyr og antimikrobielle midler i legemidler til mennesker.
-3. Ved forordning [(EU) 2019/6](eu/32019r0006) fastsettes dessuten framgangsmåten for å bestemme hvilke antimikrobielle legemidler som skal forbeholdes behandling av infeksjoner hos mennesker. Slike antimikrobielle midler skal ikke brukes i antimikrobielle legemidler som gis til dyr. Formålet med dette tiltaket er å opprettholde effekten av visse antimikrobielle midler som brukes til behandling av infeksjoner hos mennesker, særlig de som anses som en siste utvei. Kriteriene for å bestemme hvilke antimikrobielle midler som skal forbeholdes behandling av visse infeksjoner hos mennesker, er fastsatt i delegert kommisjonsforordning [(EU) 2021/1760](eu/32021r1760)2, og listen over antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, er fastsatt i Kommisjonens gjennomføringsforordning [(EU) 2022/1255](eu/32022r1255)3.
+3. Ved forordning [(EU) 2019/6](eu/32019r0006) fastsettes dessuten framgangsmåten for å bestemme hvilke antimikrobielle legemidler som skal forbeholdes behandling av infeksjoner hos mennesker. Slike antimikrobielle midler skal ikke brukes i antimikrobielle legemidler som gis til dyr. Formålet med dette tiltaket er å opprettholde effekten av visse antimikrobielle midler som brukes til behandling av infeksjoner hos mennesker, særlig de som anses som en siste utvei. Kriteriene for å bestemme hvilke antimikrobielle midler som skal forbeholdes behandling av visse infeksjoner hos mennesker, er fastsatt i delegert kommisjonsforordning [(EU) 2021/1760](eu/32021r1760)[^2], og listen over antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, er fastsatt i Kommisjonens gjennomføringsforordning [(EU) 2022/1255](eu/32022r1255)[^3].
 4. Utviklingen av antimikrobiell resistens bør også ses i et internasjonalt perspektiv. I artikkel 118 nr. 1 i forordning (EU) 2019/6 fastsettes det spesifikt at når det gjelder dyr eller produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, skal aktører i tredjeland ikke bruke antimikrobielle legemidler til å fremme vekst eller øke produktiviteten, og at de ikke skal bruke de utpekte antimikrobielle midlene eller gruppene av antimikrobielle midler som er forbeholdt behandling av infeksjoner hos mennesker.
 5. Medisinfôr er én av måtene legemidler til dyr kan gis peroralt på. Forbudet mot bruk av visse antimikrobielle legemidler på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, bør derfor også gjelde når slike antimikrobielle legemidler gis via medisinfôr.
-6. Et robust kontrollsystem for dyr eller produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, er avgjørende for å sikre at kravene fastsatt i forordning [(EU) 2019/6](eu/32019r0006) oppfylles. Det finnes ikke et spesifikt system for kontroll med import av dyr eller produkter av animalsk opprinnelse innenfor unionsrammen for legemidler til dyr. Innføring av en slik særlig kontrollramme ville ha vært svært ressurs- og tidkrevende. Det ville dessuten ha ført til dobbeltarbeid for vedkommende myndigheter og også for de berørte aktørene. Av effektivitetshensyn og for å redusere den administrative byrden skal den eksisterende unionsrammen for offentlig kontroll brukes for å kontrollere at dyr eller produkter av animalsk opprinnelse som innføres til Unionen fra tredjeland, oppfyller kravene i forordning [(EU) 2019/6](eu/32019r0006). Med henblikk på dette er europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)4 blitt endret ved forordning [(EU) 2021/1756](eu/32021r1756)5. Kontrollen av at kravene i artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006) er oppfylt, bør derfor gjøres i samsvar med forordning [(EU) 2017/625](eu/32017r0625).
+6. Et robust kontrollsystem for dyr eller produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, er avgjørende for å sikre at kravene fastsatt i forordning [(EU) 2019/6](eu/32019r0006) oppfylles. Det finnes ikke et spesifikt system for kontroll med import av dyr eller produkter av animalsk opprinnelse innenfor unionsrammen for legemidler til dyr. Innføring av en slik særlig kontrollramme ville ha vært svært ressurs- og tidkrevende. Det ville dessuten ha ført til dobbeltarbeid for vedkommende myndigheter og også for de berørte aktørene. Av effektivitetshensyn og for å redusere den administrative byrden skal den eksisterende unionsrammen for offentlig kontroll brukes for å kontrollere at dyr eller produkter av animalsk opprinnelse som innføres til Unionen fra tredjeland, oppfyller kravene i forordning [(EU) 2019/6](eu/32019r0006). Med henblikk på dette er europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)[^4] blitt endret ved forordning [(EU) 2021/1756](eu/32021r1756)[^5]. Kontrollen av at kravene i artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006) er oppfylt, bør derfor gjøres i samsvar med forordning [(EU) 2017/625](eu/32017r0625).
 7. Forsendelser av dyr eller produkter av animalsk opprinnelse som innføres til Unionen, og som omfattes av forbudet mot bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten, og mot bruk av antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, bør identifiseres tydelig. Ved denne delegerte forordningen bør det derfor fastsettes nærmere regler for forbudet fastsatt i artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006).
 8. Den aller største delen av forbruket av antimikrobielle midler hos dyr (i volum) gjelder dyr bestemt til næringsmiddelproduksjon. Stadig mer vitenskapelig dokumentasjon viser dessuten at bruk av antimikrobielle midler på dyr bestemt til næringsmiddelproduksjon påvirker utviklingen av antimikrobiell resistens. Kampen mot antimikrobiell resistens krever derfor en spesiell innsats når det gjelder bruk av antimikrobielle legemidler på dyr bestemt til næringsmiddelproduksjon eller i produkter av animalsk opprinnelse beregnet på konsum. I samsvar med forholdsmessighetsprinsippet vil en slik innsats bidra effektivt til å håndtere utviklingen av antimikrobiell resistens i et internasjonalt perspektiv og samtidig minimere innvirkningen på handelen.
-9. Det bør videre presiseres at forbudet mot bruk av visse antimikrobielle midler fastsatt i artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006) gjelder dyr bestemt til næringsmiddelproduksjon eller produkter av animalsk opprinnelse beregnet på konsum som eksporteres fra tredjeland til Unionen. For å sikre rettslig forutsigbarhet bør de berørte dyrene og produktene av animalsk opprinnelse identifiseres ved hjelp av henvisninger til kodene i Den kombinerte nomenklatur fastsatt i rådsforordning [(EØF) nr. 2658/87](eu/31987r2658)6.
+9. Det bør videre presiseres at forbudet mot bruk av visse antimikrobielle midler fastsatt i artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006) gjelder dyr bestemt til næringsmiddelproduksjon eller produkter av animalsk opprinnelse beregnet på konsum som eksporteres fra tredjeland til Unionen. For å sikre rettslig forutsigbarhet bør de berørte dyrene og produktene av animalsk opprinnelse identifiseres ved hjelp av henvisninger til kodene i Den kombinerte nomenklatur fastsatt i rådsforordning [(EØF) nr. 2658/87](eu/31987r2658)[^6].
 10. Forsendelser av berørte dyr eller produkter som utelukkende er beregnet på transitt, og berørte produkter beregnet på å bli brukt som prøver i forbindelse med produktanalyse og kvalitetskontroll og som ikke bringes i omsetning, bør ikke omfattes av denne forordningen.
 11. Forsendelser av berørte dyr eller produkter som eksporteres fra tredjeland til Unionen, bør overholde de samme begrensningene som gjelder i Unionen med hensyn til målene som søkes oppnådd ved artikkel 107 nr. 2 og artikkel 37 nr. 5 i forordning [(EU) 2019/6](eu/32019r0006). Forsendelser av berørte dyr eller produkter bør derfor bare kunne innføres til Unionen dersom tredjelandet eller regioner i tredjelandet der disse dyrene eller produktene kommer fra, kan sikre overholdelse av forbudet mot bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten og mot bruk av antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker.
 12. Tredjeland eller regioner i disse som oppfyller disse kravene, skal oppføres på en liste som Kommisjonen skal utarbeide ved hjelp av gjennomføringsrettsakter i samsvar med artikkel 127 i forordning [(EU) 2017/625](eu/32017r0625). Tredjeland eller regioner i disse skal oppføres på den listen på grunnlag av tilgjengelig dokumentasjon og garantier for at de berørte dyrene og produktene som kommer derfra, overholder Unionens forbud mot bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten og mot bruk av antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker.
@@ -112,13 +112,13 @@ VEDTATT DENNE FORORDNINGEN:
 
 1\. I denne forordningen fastsettes det nærmere regler for anvendelsen av forbudet mot bruk av antimikrobielle legemidler for å fremme vekst og øke produktiviteten og antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen.
 
-2\. Denne forordningen får anvendelse på levende dyr bestemt til næringsmiddelproduksjon som det er fastsatt koder for i Den kombinerte nomenklatur («KN-koder») i del to kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)a.
+2\. Denne forordningen får anvendelse på levende dyr bestemt til næringsmiddelproduksjon som det er fastsatt koder for i Den kombinerte nomenklatur («KN-koder») i del to kapittel 1 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)[^a].
 
-Denne forordningen får også anvendelse på produkter av animalsk opprinnelse beregnet på konsum som det er fastsatt KN-koder for i del to kapittel 2–5, 15 og 16 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)b, og som det er fastsatt underposisjoner for i det harmoniserte systemet under posisjon 3501, 3502 og 3504c.
+Denne forordningen får også anvendelse på produkter av animalsk opprinnelse beregnet på konsum som det er fastsatt KN-koder for i del to kapittel 2–5, 15 og 16 i vedlegg I til forordning [(EØF) nr. 2658/87](eu/31987r2658)[^b], og som det er fastsatt underposisjoner for i det harmoniserte systemet under posisjon 3501, 3502 og 3504[^c].
 
 3\. Denne forordningen får ikke anvendelse på følgende:
 
-1. Gelatin og råstoffer til produksjon av gelatin omhandlet i avsnitt XIV kapittel I nr. 1 i vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)7.
+1. Gelatin og råstoffer til produksjon av gelatin omhandlet i avsnitt XIV kapittel I nr. 1 i vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)[^7].
 2. Kollagen og råstoffer til produksjon av kollagen omhandlet i avsnitt XV kapittel I nr. 1 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853).
 3. Høyt foredlede produkter omhandlet i avsnitt XVI kapittel I nr. 1 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853).
 4. Viltlevende dyr og produkter framstilt av disse.
@@ -141,8 +141,8 @@ c Norske underposisjoner: 35.01, 35.02 og 35.04.
 I denne forordningen menes med
 
 1. «antimikrobielt legemiddel» et legemiddel som inneholder eller består av et eller flere antimikrobielle midler,
-2. «legemiddel» et legemiddel som gis til dyr, herunder når det gis i medisinfôr som definert i artikkel 3 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004)8,
-3. «dyr bestemt til næringsmiddelproduksjon» dyr bestemt til næringsmiddelproduksjon som definert i artikkel 2 bokstav b) i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)9,
+2. «legemiddel» et legemiddel som gis til dyr, herunder når det gis i medisinfôr som definert i artikkel 3 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004)[^8],
+3. «dyr bestemt til næringsmiddelproduksjon» dyr bestemt til næringsmiddelproduksjon som definert i artikkel 2 bokstav b) i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)[^9],
 4. «forsendelse» forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625),
 5. «transitt» transitt som definert i artikkel 3 nr. 44 i forordning [(EU) 2017/625](eu/32017r0625).
 
@@ -214,18 +214,18 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 127 nr. 2, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)[^1], særlig artikkel 127 nr. 2, og
 
-under henvisning til delegert kommisjonsforordning [(EU) 2023/905](eu/32023r0905) av 27. februar 2023 om utfylling av europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) med hensyn til anvendelse av forbudet mot bruk av visse antimikrobielle legemidler på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen2, særlig artikkel 5 nr. 1, og
+under henvisning til delegert kommisjonsforordning [(EU) 2023/905](eu/32023r0905) av 27. februar 2023 om utfylling av europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) med hensyn til anvendelse av forbudet mot bruk av visse antimikrobielle legemidler på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen[^2], særlig artikkel 5 nr. 1, og
 
 ut fra følgende betraktninger:
 
-1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter regler for offentlig kontroll og andre kontrolltiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes på bestemte områder. Særlig fastsettes det i artikkel 1 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625) at den nevnte forordningen får anvendelse på offentlig kontroll som skal verifisere overholdelsen av artikkel 118 nr. 1 i europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006)3. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter også at forsendelser av visse dyr og varer bare kan innføres til Unionen fra et tredjeland eller en region i et tredjeland som er oppført på en liste utarbeidet av Kommisjonen for dette formålet.
-2. Det følger av artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006) at med hensyn til dyr eller produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, skal følgende produkter ikke brukes: i) antimikrobielle legemidler som har til formål å fremme vekst eller øke produktiviteten, og ii) antimikrobielle legemidler som inneholder et antimikrobielt middel som er oppført på listen over antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, fastsatt i kommisjonens gjennomføringsforordning [(EU) 2022/1255](eu/32022r1255)4.
+1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter regler for offentlig kontroll og andre kontrolltiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes på bestemte områder. Særlig fastsettes det i artikkel 1 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625) at den nevnte forordningen får anvendelse på offentlig kontroll som skal verifisere overholdelsen av artikkel 118 nr. 1 i europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006)[^3]. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter også at forsendelser av visse dyr og varer bare kan innføres til Unionen fra et tredjeland eller en region i et tredjeland som er oppført på en liste utarbeidet av Kommisjonen for dette formålet.
+2. Det følger av artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006) at med hensyn til dyr eller produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen, skal følgende produkter ikke brukes: i) antimikrobielle legemidler som har til formål å fremme vekst eller øke produktiviteten, og ii) antimikrobielle legemidler som inneholder et antimikrobielt middel som er oppført på listen over antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, fastsatt i kommisjonens gjennomføringsforordning [(EU) 2022/1255](eu/32022r1255)[^4].
 3. Delegert forordning [(EU) 2023/905](eu/32023r0905) supplerer forordning [(EU) 2019/6](eu/32019r0006) med hensyn til blant annet vilkårene for innførsel til Unionen fra tredjeland eller regioner i tredjeland av forsendelser av visse dyr og produkter av animalsk opprinnelse som er beregnet på konsum, for å sikre at de oppfyller forbudet mot bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten, og mot antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker. Disse vilkårene omfatter at de aktuelle forsendelsene av dyr og produkter av animalsk opprinnelse bare kan innføres til Unionen dersom de kommer fra et tredjeland eller en region i et tredjeland som er oppført på en liste utarbeidet av Kommisjonen for dette formålet.
 4. I samsvar med artikkel 5 nr. 2 i delegert forordning [(EU) 2023/905](eu/32023r0905) bør listen bare omfatte tredjeland eller regioner i tredjeland som har framlagt relevant dokumentasjon for og garantier for at de berørte dyrene og produktene overholder forbudet mot bruk av antimikrobielle legemidler for å fremme vekst eller øke produktiviteten og av antimikrobielle midler som er forbeholdt behandling av visse infeksjoner hos mennesker, herunder informasjon som er mottatt om prosedyrene som er innført for å sikre sporbarhet og opprinnelse.
 5. Tredjeland eller regioner i tredjeland som har framlagt dokumentasjonen og garantiene omhandlet i artikkel 5 nr. 2 i delegert forordning [(EU) 2023/905](eu/32023r0905), bør derfor oppføres på listen over godkjente tredjeland eller regioner i tredjeland som dyr og produkter av animalsk opprinnelse kan innføres til Unionen fra.
-6. Vilkårene for innførsel til Unionen av forsendelser av dyr eller produkter med animalsk opprinnelse som er fastsatt i delegert forordning [(EU) 2023/905](eu/32023r0905), gjelder fra og med 24 måneder etter anvendelsesdatoen for gjennomføringsforordning [(EU) 2024/399](eu/32024r0399)5. Denne forordningen bør derfor også få anvendelse fra 3. september 2026.
+6. Vilkårene for innførsel til Unionen av forsendelser av dyr eller produkter med animalsk opprinnelse som er fastsatt i delegert forordning [(EU) 2023/905](eu/32023r0905), gjelder fra og med 24 måneder etter anvendelsesdatoen for gjennomføringsforordning [(EU) 2024/399](eu/32024r0399)[^5]. Denne forordningen bør derfor også få anvendelse fra 3. september 2026.
 7. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
 1 EUT L 95 av 7.4.2017, s. 1, ELI: http://data.europa.eu/eli/reg/2017/625/oj.
@@ -268,80 +268,80 @@ President
 
 Liste over tredjeland eller regioner i tredjeland som det er tillatt å innføre forsendelser av visse dyr og produkter av animalsk opprinnelse som er beregnet på konsum til Unionen fra, med hensyn til anvendelsen av forbudet mot bruk av visse antimikrobielle legemidler i henhold til artikkel 118 nr. 1 i forordning [(EU) 2019/6](eu/32019r0006):
 
-|  |  | *Dyr og produkter av animalsk opprinnelse beregnet på konsum\** |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | *Dyr og produkter av animalsk opprinnelse beregnet på konsum[^\*]* |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| *ISO-landkode* | *Tredjeland1 eller regioner i dette* | *Storfe* | *Sauer/geiter* | *Svin* | *Dyr av hestefamilien* | *Fjørfe* | *Akvakultur14* | *Melk* | *Egg* | *Kanin* | *Oppdrettsvilt* | *Honning* | *Dyretarmer* |
+| *ISO-landkode* | *Tredjeland[^1] eller regioner i dette* | *Storfe* | *Sauer/geiter* | *Svin* | *Dyr av hestefamilien* | *Fjørfe* | *Akvakultur[^14]* | *Melk* | *Egg* | *Kanin* | *Oppdrettsvilt* | *Honning* | *Dyretarmer* |
 | AD | Andorra | X | X | Δ | X |  |  |  |  |  |  | X |  |
-| AL | Albania |  | X |  |  |  | X 11 |  | X |  |  |  | X |
-| AR | Argentina | X | X |  | X | X | X 11 | X | X | X | X | X | X |
+| AL | Albania |  | X |  |  |  | X [^11] |  | X |  |  |  | X |
+| AR | Argentina | X | X |  | X | X | X [^11] | X | X | X | X | X | X |
 | AU | Australia | X | X |  | X |  | X<br>M | X | X |  | X | X | X |
-| AZE | Aserbajdsjan |  |  |  |  |  | X13 |  |  |  |  |  |  |
-| BA | Bosnia-Hercegovina | X | X | X |  | X | X11 | X | X |  |  | X |  |
+| AZE | Aserbajdsjan |  |  |  |  |  | X[^13] |  |  |  |  |  |  |
+| BA | Bosnia-Hercegovina | X | X | X |  | X | X[^11] | X | X |  |  | X |  |
 | BD | Bangladesh |  |  |  |  |  | X |  |  |  |  |  |  |
 | BR | Brasil | X |  |  | X | X | X |  |  |  |  | X | X |
 | BW | Botswana | X |  |  |  |  |  |  |  |  |  |  |  |
-| BY | Belarus |  |  |  | X5 |  | X11 | X | X |  |  | X | X |
+| BY | Belarus |  |  |  | X[^5] |  | X[^11] | X | X |  |  | X | X |
 | CA | Canada | X | X | X | X | X | X<br>M | X | X | X | X | X |  |
-| CH | Sveits | X | X | X | X | X | X11<br>M | X | X | X | X | X | X |
-| CL | Chile | X | X3 | X |  | X | X11<br>M | X |  |  |  | X | X |
+| CH | Sveits | X | X | X | X | X | X[^11]<br>M | X | X | X | X | X | X |
+| CL | Chile | X | X[^3] | X |  | X | X[^11]<br>M | X |  |  |  | X | X |
 | CM | Kamerun |  |  |  |  |  |  |  |  |  |  | X |  |
 | CN | Kina |  |  |  |  | X | X |  | X | X |  | X | X |
 | CO | Colombia |  |  |  |  |  | X |  |  |  |  |  |  |
 | CR | Costa Rica |  |  |  |  |  | X |  |  |  |  |  |  |
-| CU | Cuba |  |  |  |  |  | X12 |  |  |  |  | X |  |
+| CU | Cuba |  |  |  |  |  | X[^12] |  |  |  |  | X |  |
 | DO | Den dominikanske republikk |  |  |  |  |  |  |  |  |  |  | X |  |
 | EC | Ecuador |  |  |  |  |  | X |  |  |  |  |  |  |
 | EG | Egypt |  |  |  |  |  |  |  |  |  |  |  | X |
 | ET | Etiopia |  |  |  |  |  |  |  |  |  |  | X |  |
-| FK | Falklandsøyene | X | X3 |  |  |  | X11 |  |  |  |  |  |  |
-| FO | Færøyene |  |  |  |  |  | X11 |  |  |  |  |  |  |
-| GB | Det forente kongerike4 | X | X | X | X | X | X11<br>Δ<br>M | X | X | Δ | X | X | X |
+| FK | Falklandsøyene | X | X[^3] |  |  |  | X[^11] |  |  |  |  |  |  |
+| FO | Færøyene |  |  |  |  |  | X[^11] |  |  |  |  |  |  |
+| GB | Det forente kongerike[^4] | X | X | X | X | X | X[^11]<br>Δ<br>M | X | X | Δ | X | X | X |
 | GE | Georgia |  |  |  |  |  |  |  |  |  |  | X |  |
-| GL | Grønland |  | X3 |  |  |  |  |  |  |  | X |  |  |
-| GT | Guatemala |  |  |  |  |  | X12 |  |  |  |  | X |  |
+| GL | Grønland |  | X[^3] |  |  |  |  |  |  |  | X |  |  |
+| GT | Guatemala |  |  |  |  |  | X[^12] |  |  |  |  | X |  |
 | HK | Hongkong |  |  |  |  |  | Δ |  | Δ |  |  |  |  |
 | HN | Honduras |  |  |  |  |  | X |  |  |  |  |  |  |
-| IL | Israel2 |  |  |  |  | X | X11 | X |  |  |  | X |  |
-| IM | Isle of Man | X | X3 | X |  |  | X11<br>M | X |  |  |  | X |  |
+| IL | Israel[^2] |  |  |  |  | X | X[^11] | X |  |  |  | X |  |
+| IM | Isle of Man | X | X[^3] | X |  |  | X[^11]<br>M | X |  |  |  | X |  |
 | JE | Jersey | X |  |  |  |  |  | X |  |  |  |  |  |
-| JP | Japan | X |  | Δ |  | X | X11<br>M | X | X |  |  | Δ | X |
+| JP | Japan | X |  | Δ |  | X | X[^11]<br>M | X | X |  |  | Δ | X |
 | KR | Sør-Korea |  |  |  |  | X | X<br>M |  |  |  |  | Δ |  |
 | LB | Libanon |  |  |  |  |  |  |  |  |  |  | X | X |
-| MA | Marokko |  |  |  |  | X | X11<br>Δ<br>M |  |  |  |  | X | X |
-| MD | Moldova |  |  |  |  | X | X11 | X | X |  |  | X |  |
-| ME | Montenegro | X | X | X |  | X | X11 | X | X |  |  | X | X |
+| MA | Marokko |  |  |  |  | X | X[^11]<br>Δ<br>M |  |  |  |  | X | X |
+| MD | Moldova |  |  |  |  | X | X[^11] | X | X |  |  | X |  |
+| ME | Montenegro | X | X | X |  | X | X[^11] | X | X |  |  | X | X |
 | MG | Madagaskar |  |  |  |  |  | X |  |  |  |  | X |  |
-| MK | Nord-Makedonia | X | X | X |  | X | X11 | X | X |  |  | X |  |
+| MK | Nord-Makedonia | X | X | X |  | X | X[^11] | X | X |  |  | X |  |
 | MM | Myanmar/Burma |  |  |  |  |  | X |  |  |  |  | X |  |
 | MN | Mongolia |  |  |  |  |  |  |  |  |  |  |  | X |
 | MX | Mexico |  |  | Δ |  |  | X |  | X |  |  | X |  |
 | MY | Malaysia |  |  |  |  | Δ | X |  |  |  |  |  |  |
-| NA | Namibia | X | X3 |  |  |  |  |  |  |  |  |  |  |
-| NC | Ny-Caledonia |  |  |  |  |  | X12 |  |  |  | X | X |  |
-| NI | Nicaragua |  |  |  |  |  | X12 |  |  |  |  | X |  |
-| NZ | New Zealand | X | X |  |  |  | X11<br>M | X |  |  | X | X | X |
+| NA | Namibia | X | X[^3] |  |  |  |  |  |  |  |  |  |  |
+| NC | Ny-Caledonia |  |  |  |  |  | X[^12] |  |  |  | X | X |  |
+| NI | Nicaragua |  |  |  |  |  | X[^12] |  |  |  |  | X |  |
+| NZ | New Zealand | X | X |  |  |  | X[^11]<br>M | X |  |  | X | X | X |
 | PE | Peru |  |  |  |  |  | X<br>M |  |  |  |  |  |  |
 | PH | Filippinene |  |  |  |  |  | X |  |  |  |  |  |  |
 | PK | Pakistan |  |  |  |  |  |  |  |  |  |  |  | X |
 | PM | Saint Pierre og Miquelon |  |  |  |  | X |  |  |  |  |  |  |  |
 | PY | Paraguay | X |  |  |  |  |  |  |  |  |  |  | X |
-| RU | Russland | X | X | X |  | X |  | X | X |  | X6 | X | X |
+| RU | Russland | X | X | X |  | X |  | X | X |  | X[^6] | X | X |
 | RW | Rwanda |  |  |  |  |  |  |  |  |  |  | X |  |
 | SA | Saudi-Arabia |  |  |  |  |  | X |  |  |  |  |  |  |
-| SG | Singapore | Δ | Δ | Δ |  | Δ | X11 | Δ | Δ |  | X7 |  |  |
+| SG | Singapore | Δ | Δ | Δ |  | Δ | X[^11] | Δ | Δ |  | X[^7] |  |  |
 | SM | San Marino | X |  | Δ |  |  |  | X |  |  |  | X |  |
 | SV | El Salvador |  |  |  |  |  |  |  |  |  |  | X |  |
 | TG | Togo |  |  |  |  |  |  |  |  |  |  | X |  |
 | TH | Thailand |  |  |  |  | X | X<br>M | Δ | Δ |  |  | X |  |
-| TR | Tyrkia |  |  |  |  | X | X11<br>M | X | X |  |  | X | X |
+| TR | Tyrkia |  |  |  |  | X | X[^11]<br>M | X | X |  |  | X | X |
 | TW | Taiwan |  |  |  |  |  | X |  | X |  |  | X |  |
-| UA | Ukraina | X |  | X |  | X | X11<br>M | X | X | X |  | X | X |
-| US | De forente stater | X | X8 | X |  | X | X<br>M | X | X | X | X | X | X |
+| UA | Ukraina | X |  | X |  | X | X[^11]<br>M | X | X | X |  | X | X |
+| US | De forente stater | X | X[^8] | X |  | X | X<br>M | X | X | X | X | X | X |
 | UY | Uruguay | X | X |  | X |  |  | X |  |  |  | X | X |
-| VE | Venezuela |  |  |  |  |  | X12 |  |  |  |  |  |  |
+| VE | Venezuela |  |  |  |  |  | X[^12] |  |  |  |  |  |  |
 | VN | Vietnam |  |  |  |  |  | X<br>M |  |  |  |  | X |  |
-| XK | Kosovo9 |  |  |  |  | Δ |  |  |  |  |  |  |  |
-| ZA | Sør-Afrika |  |  |  |  |  | M |  |  |  | X10 |  |  |
+| XK | Kosovo[^9] |  |  |  |  | Δ |  |  |  |  |  |  |  |
+| ZA | Sør-Afrika |  |  |  |  |  | M |  |  |  | X[^10] |  |  |
 | ZM | Zambia |  |  |  |  |  |  |  |  |  |  | X |  |
 
 \* Ville dyr, produkter avledet fra disse og sammensatte produkter er unntatt fra denne tabellen da disse varene faller utenfor virkeområdet for delegert kommisjonsforordning [(EU) 2023/905](eu/32023r0905) av 27. februar 2023 om utfylling av europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) med hensyn til anvendelse av forbudet mot bruk av visse antimikrobielle legemidler på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen (EUT L 116 av 4.5.2023, s. 1, ELI: http://data.europa.eu/eli/reg_del/2023/905/oj).

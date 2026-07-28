@@ -15,7 +15,7 @@ xml_hash: "902a7c35465b421f20fb89044df935039b3d1d8242da11f021e25ab67bcf4c14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,6 +32,6 @@ Det i [§ 1](lov/1898-12-10-1/§1) bestemte Flag skal benyttes paa Handelsfartø
 
 ## § 3.
 
-Denne Lov træder i Kraft et Aar efter den Dag, den er indrykket i Lovtidenden.1
+Denne Lov træder i Kraft et Aar efter den Dag, den er indrykket i Lovtidenden.[^1]
 
 1 Fra 16. desember 1899.

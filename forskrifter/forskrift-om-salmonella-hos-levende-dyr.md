@@ -15,7 +15,7 @@ xml_hash: "15005fddf60cbe1d05889bdbcd6671067cbb5b1e8b96f8cf2560937f63d06202"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -253,10 +253,10 @@ Denne forskrift trer i kraft straks.
 
   | Dyreart | Besetningsstørrelse | Antall prøver fra ulike kategorier av dyr |
   | --- | --- | --- |
-  | Storfe | Opptil 59 dyr | Alle dyr1 |
-  |  | Mer enn 59 dyr | 59 dyr + samleprøver fra alle binger med kalver og ungdyr1 |
-  | Svin | Opptil 59 purker/råner | Alle purker/råner + samleprøver fra alle binger med smågris og slaktegris1 |
-  |  | Mer enn 59 purker/råner | 59 purker/råner + samleprøver fra alle binger med smågris og slaktegris1 |
+  | Storfe | Opptil 59 dyr | Alle dyr[^1] |
+  |  | Mer enn 59 dyr | 59 dyr + samleprøver fra alle binger med kalver og ungdyr[^1] |
+  | Svin | Opptil 59 purker/råner | Alle purker/råner + samleprøver fra alle binger med smågris og slaktegris[^1] |
+  |  | Mer enn 59 purker/råner | 59 purker/råner + samleprøver fra alle binger med smågris og slaktegris[^1] |
 
 1 Prøveuttak for bakteriologisk undersøkelse utføres i henhold til vedlegg 4 til denne forskrift.
 

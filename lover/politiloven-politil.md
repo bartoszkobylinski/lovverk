@@ -15,7 +15,7 @@ xml_hash: "33d69446f7bd7f2a75fe5db1c05b279105345b6d621ed55f478fdd51f8e8c2f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -734,7 +734,7 @@ hvis ikke forholdet går inn under en strengere straffebestemmelse.
 
 ### § 31. Ikrafttredelse og overgangsbestemmelser
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 Forskrifter, herunder kommunale vedtekter, som er gitt med hjemmel i lover som oppheves i [§ 32](lov/1995-08-04-53/§32) nr. 1, forblir gjeldende inntil de er erstattet med nye forskrifter såfremt de ikke strider mot bestemmelse i denne lov.
 

@@ -15,7 +15,7 @@ xml_hash: "193c702d0194647aec3cae33f1810948bf08a53801c7950535e0580ca7932e68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -197,6 +197,6 @@ Departementet kan foreta endringer i forskriften.
 
 ### § 21. Ikrafttredelse
 
-Denne forskriften trer i kraft når Kongen bestemmer.1
+Denne forskriften trer i kraft når Kongen bestemmer.[^1]
 
 1 I kraft 1 jan 2004, jf. [res. 19 des 2003 nr. 1646](forskrift/2003-12-19-1646).

@@ -15,7 +15,7 @@ xml_hash: "ba9b59b31186acf04d1b4796e5ec95038cb52bf70b4fd6d94584effaf0903028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -542,7 +542,7 @@ Merknad:
 | Ortopediingeniør | Bachelor i ortopediingeniørfag |  | D |
 | Ortoptist | Ikke utdanning i Norge, Tyskland 3 år, England 4 år |  |  |
 | Osteopat | Bachelor i osteopati + ettårig videreutdannelse |  | D |
-| Paramedisiner | Bachelor i paramedisin | \* | D |
+| Paramedisiner | Bachelor i paramedisin | [^\*] | D |
 | Perfusjonist | Ikke utdanning i Norge, Danmark: 2 år Den Danske Perfusionist Skole i Århus, må ha fullført utdannelse som sykepleier, hospitallaborant, lege eller ingeniør (medicoteknik) |  |  |
 | Psykolog | Psykologi (profesjonsstudium) |  | E |
 | Radiograf | Bachelor i radiografi |  | D |

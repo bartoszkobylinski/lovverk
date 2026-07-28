@@ -15,7 +15,7 @@ xml_hash: "9b10b617919f33b028b2a832c6bff121105a4cc6d5915ed22c00b0aea9739b3f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,6 +77,6 @@ Datatilsynet fører tilsyn med at bestemmelsene i denne forskriften blir overhol
 
 ## § 7. Ikrafttredelse
 
-Forskriften trer i kraft samtidig med at [lov 15. juni 2018 nr. 38](lov/2018-06-15-38) om behandling av personopplysninger trer i kraft.1
+Forskriften trer i kraft samtidig med at [lov 15. juni 2018 nr. 38](lov/2018-06-15-38) om behandling av personopplysninger trer i kraft.[^1]
 
 1 I kraft 20 juli 2018, jf. meddelelse 17. juli 2018 nr. 1195.

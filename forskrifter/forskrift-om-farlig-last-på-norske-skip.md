@@ -15,7 +15,7 @@ xml_hash: "76812b9db6e78277c537625feff4031fc3b94768a658090e92f2528ba2306b5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -334,7 +334,7 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for det
 2. *«Farlig last»* betyr stoffer, materialer og varer som omfattes av IMDG-koden.
 3. *«Emballert form»* betyr den formen for emballering som er angitt i IMDG-koden.
 
-### Regel 2 Anvendelse1
+### Regel 2 Anvendelse[^1]
 
 1 Med mindre annet er uttrykkelig fastsatt, får denne delen anvendelse på frakt av farlig last i emballert form på alle skip som omfattes av disse reglene, og på lasteskip med bruttotonnasje under 500.
 
@@ -342,7 +342,7 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for det
 
 3 Frakt av farlig last i emballert form er forbudt, med mindre frakten er i samsvar med bestemmelsene i dette kapittelet.
 
-4 For å utfylle bestemmelsene i denne delen, skal hver kontraherende stats regjering utstede, eller sørge for at det blir utstedt, utførlige instruksjoner om nødtiltak og medisinsk førstehjelp i forbindelse med hendelser med farlig last i emballert form, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.2
+4 For å utfylle bestemmelsene i denne delen, skal hver kontraherende stats regjering utstede, eller sørge for at det blir utstedt, utførlige instruksjoner om nødtiltak og medisinsk førstehjelp i forbindelse med hendelser med farlig last i emballert form, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.[^2]
 
 1 Det vises til:
 
@@ -364,7 +364,7 @@ Frakt av farlig last i emballert form skal være i samsvar med de relevante best
 
 2 Ethvert skip som fører farlig last i emballert form, skal ha en spesiell liste, fraktoppgave eller stuingsplan som i samsvar med de relevante bestemmelsene i IMDG-koden angir den farlige lasten om bord og plasseringen derav. En kopi av ett av disse dokumentene skal før avreise gjøres tilgjengelig for personen eller organisasjonen utpekt av havnestatsmyndigheten.
 
-3 Den eller de personer med ansvar for pakking/lasting av farlig last i en lastetransportenhet1 skal fremlegge en signert attest om pakket container eller en erklæring om pakket kjøretøy, der det oppgis at lasten i enheten er forsvarlig pakket og sikret og at alle gjeldende transportkrav er oppfylt. En slik attest/erklæring kan kombineres med dokumentet nevnt i nr. 2.
+3 Den eller de personer med ansvar for pakking/lasting av farlig last i en lastetransportenhet[^1] skal fremlegge en signert attest om pakket container eller en erklæring om pakket kjøretøy, der det oppgis at lasten i enheten er forsvarlig pakket og sikret og at alle gjeldende transportkrav er oppfylt. En slik attest/erklæring kan kombineres med dokumentet nevnt i nr. 2.
 
 4 Dersom det er skjellig grunn til mistanke om at en lastetransportenhet som inneholder pakket, farlig last, ikke oppfyller kravene i nr. 2 eller 3, eller dersom en attest om pakket container eller erklæring om pakket kjøretøy ikke er tilgjengelig, skal lastetransportenheten avvises for frakt.
 
@@ -374,7 +374,7 @@ Frakt av farlig last i emballert form skal være i samsvar med de relevante best
 
 ### Regel 5 Lastesikringsmanual
 
-All last og alle lasteenheter1 og lastetransportenheter, skal lastes, stues og sikres under hele reisen i samsvar med lastesikringsmanualen som er godkjent av administrasjonen. Lastesikringsmanualen skal utarbeides etter en standard som minst tilsvarer retningslinjene som er utarbeidet av organisasjonen.2
+All last og alle lasteenheter[^1] og lastetransportenheter, skal lastes, stues og sikres under hele reisen i samsvar med lastesikringsmanualen som er godkjent av administrasjonen. Lastesikringsmanualen skal utarbeides etter en standard som minst tilsvarer retningslinjene som er utarbeidet av organisasjonen.[^2]
 
 1 Som definert i «Code of Safe Practice for Cargo Stowage and Securing», vedtatt av organisasjonen ved resolusjon A.714(17), med endringer.
 
@@ -382,7 +382,7 @@ All last og alle lasteenheter1 og lastetransportenheter, skal lastes, stues og s
 
 ### Regel 6 Rapportering av hendelser med farlig last
 
-1 Dersom det inntreffer en hendelse der det er mistet pakket, farlig last eller det er sannsynlig at slik last er mistet i sjøen, skal skipsføreren eller en annen person med ansvar for skipet uten opphold rapportere detaljene omkring hendelsen til nærmeste kyststat, så fullstendig som mulig. Rapporten skal være basert på generelle prinsipper og retningslinjer utarbeidet av organisasjonen.1
+1 Dersom det inntreffer en hendelse der det er mistet pakket, farlig last eller det er sannsynlig at slik last er mistet i sjøen, skal skipsføreren eller en annen person med ansvar for skipet uten opphold rapportere detaljene omkring hendelsen til nærmeste kyststat, så fullstendig som mulig. Rapporten skal være basert på generelle prinsipper og retningslinjer utarbeidet av organisasjonen.[^1]
 
 2 Dersom skipet nevnt i nr. 1 forlates, eller dersom en rapport fra et slikt skip er ufullstendig eller ikke kan fremskaffes, skal rederiet, som definert i regel IX/1.2, så langt det er mulig påta seg de forpliktelser som er tillagt skipsføreren etter denne regel.
 
@@ -395,13 +395,13 @@ Frakt av farlig last som fast bulklast
 
 *«Farlig last som fast bulklast»* betyr ethvert materiale, annet enn væske eller gass, som består av en kombinasjon av partikler, granulert materiale eller materiale i større biter, generelt enhetlig i sin sammensetning, og som omfattes av IMDG-koden og lastes direkte inn i lasterommene i et skip uten noen annen form for emballering, herunder materiale som lastes i lekter på et lekterførende skip.
 
-### Regel 7-1 Anvendelse1
+### Regel 7-1 Anvendelse[^1]
 
 1 Med mindre annet er uttrykkelig fastsatt, får denne delen anvendelse på frakt av farlig last som fast bulklast på alle skip som omfattes av disse reglene, og på lasteskip med bruttotonnasje under 500.
 
 2 Frakt av farlig last som fast bulklast er forbudt med mindre frakten er i samsvar med bestemmelsene i dette kapittelet.
 
-3 For å utfylle bestemmelsene i denne delen, skal hver kontraherende stats regjering utstede, eller sørge for at det blir utstedt, instruksjoner om nødtiltak og medisinsk førstehjelp i forbindelse med hendelser med farlig last som fast bulklast,2 idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.3
+3 For å utfylle bestemmelsene i denne delen, skal hver kontraherende stats regjering utstede, eller sørge for at det blir utstedt, instruksjoner om nødtiltak og medisinsk førstehjelp i forbindelse med hendelser med farlig last som fast bulklast,[^2] idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.[^3]
 
 1 Det vises til regel II-2/19 som inneholder særkrav til skip som fører farlig last.
 
@@ -425,7 +425,7 @@ Frakt av farlig last som fast bulklast
 
 ### Regel 7-4 Rapportering om hendelser med farlig last
 
-1 Dersom det inntreffer en hendelse der det er mistet farlig last som fast bulklast, eller det er sannsynlig at slik last er mistet i sjøen, skal skipsføreren eller en annen person med ansvar for skipet uten opphold rapportere detaljene omkring hendelsen til nærmeste kyststat, så fullstendig som mulig. Rapporten skal være basert på retningslinjene og de generelle prinsippene som Organisasjonen har utarbeidet.1
+1 Dersom det inntreffer en hendelse der det er mistet farlig last som fast bulklast, eller det er sannsynlig at slik last er mistet i sjøen, skal skipsføreren eller en annen person med ansvar for skipet uten opphold rapportere detaljene omkring hendelsen til nærmeste kyststat, så fullstendig som mulig. Rapporten skal være basert på retningslinjene og de generelle prinsippene som Organisasjonen har utarbeidet.[^1]
 
 2 Dersom skipet nevnt i nr. 1 forlates, eller dersom en rapport fra et slikt skip er ufullstendig eller ikke kan fremskaffes, skal skipets reder, som definert i regel IX/1.2, så langt det er mulig påta seg de forpliktelser som er tillagt skipsføreren etter denne regel.
 

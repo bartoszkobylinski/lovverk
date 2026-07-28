@@ -15,7 +15,7 @@ xml_hash: "6b3a01771d67f7e95f91eaa95486fafe1b666d7024f16beab2e87b7db3d19a15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,7 +69,7 @@ Høgskolen for kriminalomsorg kan i forskrift fastsette regler som gjelder ansat
 
 ## § 7. Ikrafttredelse og opphevelse
 
-Forskriften trer i kraft fra det tidspunktet Justis- og beredskapsdepartementet bestemmer1. Fra samme tidspunkt oppheves [forskrift 26. oktober 2012 nr. 993 om delvis innlemming av Kriminalomsorgens høgskole og utdanningssenter (KRUS) under lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2012-10-26-993). Departementet kan beslutte delvis ikrafttredelse.
+Forskriften trer i kraft fra det tidspunktet Justis- og beredskapsdepartementet bestemmer[^1]. Fra samme tidspunkt oppheves [forskrift 26. oktober 2012 nr. 993 om delvis innlemming av Kriminalomsorgens høgskole og utdanningssenter (KRUS) under lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2012-10-26-993). Departementet kan beslutte delvis ikrafttredelse.
 
 1 Fra 24. juni 2026 iflg. vedtak [24. juni 2026 nr. 1325](forskrift/2026-06-24-1325).
 

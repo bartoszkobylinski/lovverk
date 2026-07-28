@@ -15,7 +15,7 @@ xml_hash: "bd441b5512de7049e85124b3aff178d5383cf735b7c5a75560f928a348f7d586"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -532,7 +532,7 @@ Departementet kan gi forskrift med bestemmelser om innholdet i og gjennomføring
 
 ### § 37. Ikraftsetting og overgangsregler
 
-Loven gjelder fra den tiden Kongen bestemmer.1
+Loven gjelder fra den tiden Kongen bestemmer.[^1]
 
 Fra den tid loven trer i kraft, oppheves [lov 15. mars 1991 nr. 3](lov/1991-03-15-3) om megling i konfliktråd.
 

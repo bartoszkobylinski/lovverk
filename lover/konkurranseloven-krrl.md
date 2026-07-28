@@ -15,7 +15,7 @@ xml_hash: "58d4d487cb8ccc8930ed482ac13631b667e1400e0d98d05a42d50c2e689581fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -665,7 +665,7 @@ Kongen kan gi forskrift om Konkurransetilsynets gjennomføring av markedsetterfo
 
 ### § 48. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Fra samme tid oppheves [lov 11. juni 1993 nr. 65](lov/1993-06-11-65) om konkurranse i ervervsvirksomhet.
 

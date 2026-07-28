@@ -15,7 +15,7 @@ xml_hash: "90b3d41d460cbd3bff828f574021b160af123126ae0b3e6a121c4c1dbfe3458c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,7 +101,7 @@ Overtredelser av bestemmelser i denne forskriften straffes etter § 4 i lov av 6
 
 ### § 9
 
-Denne forskrift trer i kraft fra det tidspunkt departementet bestemmer1 .
+Denne forskrift trer i kraft fra det tidspunkt departementet bestemmer[^1] .
 
 [Forskrift av 9. juli 1993 nr. 598](forskrift/1993-07-09-598) om eksportlisens ved eksport av fisk og fiskevarer samt sjøpattedyr og produkter av sjøpattedyr oppheves fra samme tid.
 

@@ -15,7 +15,7 @@ xml_hash: "51fdaf399713ec4a9fecb08f8e10de4c26a8dd3d07c2831188454cbb329d26a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Istedetfor de nuværende Fogedembeder oprettes:
 
-1. Særskilte Amtskassererbestillinger,1 til hvilke henlægges Fogdernes Oppebørselsforretninger.
+1. Særskilte Amtskassererbestillinger,[^1] til hvilke henlægges Fogdernes Oppebørselsforretninger.
 2. særskilte Politimesterembeder, til hvilke henlægges Fogdernes øvrige Forretninger, forsaavidt de ikke ved denne Lov ophæves eller henlægges til andre Tjenestemænd.
 
 Dog kan Forretninger, der ikke ved Lov er tillagte Fogedembederne, efter Kongens Bestemmelse henlægges til andre Tjenestemænd end Politimestre.
@@ -51,7 +51,7 @@ Forsaavidt noget Byfogedembede ophæves, henlægges af de samme nu tilliggende F
 
 1. Dommer- og Skriverforretninger, Skifte- og Auktionsforretninger, Notarialforretninger, Arrest- og Forbudsforretninger, samt Mændsopnævnelser til Sorenskrivere.
 2. Oppebørselsforretninger til Amtskasserere.
-3. Politiforretninger og Raadstuskriverforretninger samt [Magistratsforretninger],1 der ikke ovenfor under Litr. a er nævnt, til Politimestre eller efter Kongens Bestemmelse til en anden offentlig Tjenestemand.
+3. Politiforretninger og Raadstuskriverforretninger samt [Magistratsforretninger],[^1] der ikke ovenfor under Litr. a er nævnt, til Politimestre eller efter Kongens Bestemmelse til en anden offentlig Tjenestemand.
 
 > Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [26 juni 1992 nr. 86](lov/1992-06-26-86).
 
@@ -71,9 +71,9 @@ Den Betaling for Embedsforretninger og de uvisse Indtægter, der i Henhold til L
 
 ## § 8.
 
-Amtskasserere1 og Politimestre samt Amtskassereres Betjente tilkommer paa Reiser Skyds- og Kostgodtgjørelse og henføres til den Klasse, som af Kongen bestemmes.
+Amtskasserere[^1] og Politimestre samt Amtskassereres Betjente tilkommer paa Reiser Skyds- og Kostgodtgjørelse og henføres til den Klasse, som af Kongen bestemmes.
 
-[Politimestre er for Reiser til Eftersyn af Maal og Vægt berettigede til, foruden den dem efter Regulativet tilkommende Skydsgodtgjørelse, at erholde efter Regning godtgjort nødvendigt Udlæg for Befordring af medført fornøden Bagage.]2
+[Politimestre er for Reiser til Eftersyn af Maal og Vægt berettigede til, foruden den dem efter Regulativet tilkommende Skydsgodtgjørelse, at erholde efter Regning godtgjort nødvendigt Udlæg for Befordring af medført fornøden Bagage.][^2]
 
 1 Etter sktbl. skattekontoret, jf. [sktfvl. § 2-1](lov/2016-05-27-14/§2-1).
 

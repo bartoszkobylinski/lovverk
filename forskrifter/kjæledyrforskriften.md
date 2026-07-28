@@ -15,7 +15,7 @@ xml_hash: "50235ff8d69988b17054996dd962b1a1c302bf1f9596ae26cf2728bef45b7f1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -164,25 +164,25 @@ under henvisning til forslag fra Europakommisjonen,
 
 etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
 etter samråd med Regionkomiteen,
 
-etter den ordinære regelverksprosessen2 og
+etter den ordinære regelverksprosessen[^2] og
 
 ut fra følgende betraktninger
 
-1. I europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998)3 fastsettes kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller fra tredjestater samt de kontrollene som gjelder ved slik forflytning. Den har som mål å sikre et tilstrekkelig sikkerhetsnivå med hensyn til risikoer for menneskers og dyrs helse ved slik ikke-kommersiell forflytning og for å fjerne eventuelle uberettigede hindringer for slike bevegelser.
-2. I en erklæring vedlagt europaparlaments- og rådsforordning [(EU) nr. 438/2010](eu/32010r0438) av 19. mai 2010 om endring av forordning [(EF) nr. 998/2003](eu/32003r0998) om kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr4 påtok Kommisjonen seg å foreslå en gjennomgåelse av forordning [(EF) nr. 998/2003 i](eu/32003r0998) sin helhet, særlig når det gjelder delegerte rettsakter og gjennomføringsrettsakter. Som følge av ikrafttredelsen av traktaten som Den europeiske unions virkemåte (TEUV) må den myndighet som gis Kommisjonen i henhold til forordning [(EF) nr. 998/2003](eu/32003r0998), bringes i samsvar med artikkel 290 og 291 TEUV. Med tanke på det antallet endringer som må foretas i kravene til dyrehelse fastsatt i forordning [(EF) nr. 998/2003](eu/32003r0998), og for å sikre at disse kravene er tilstrekkelig tydelige og tilgjengelige for allmennheten, bør forordningen oppheves og erstattes med denne forordning.
+1. I europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998)[^3] fastsettes kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller fra tredjestater samt de kontrollene som gjelder ved slik forflytning. Den har som mål å sikre et tilstrekkelig sikkerhetsnivå med hensyn til risikoer for menneskers og dyrs helse ved slik ikke-kommersiell forflytning og for å fjerne eventuelle uberettigede hindringer for slike bevegelser.
+2. I en erklæring vedlagt europaparlaments- og rådsforordning [(EU) nr. 438/2010](eu/32010r0438) av 19. mai 2010 om endring av forordning [(EF) nr. 998/2003](eu/32003r0998) om kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr[^4] påtok Kommisjonen seg å foreslå en gjennomgåelse av forordning [(EF) nr. 998/2003 i](eu/32003r0998) sin helhet, særlig når det gjelder delegerte rettsakter og gjennomføringsrettsakter. Som følge av ikrafttredelsen av traktaten som Den europeiske unions virkemåte (TEUV) må den myndighet som gis Kommisjonen i henhold til forordning [(EF) nr. 998/2003](eu/32003r0998), bringes i samsvar med artikkel 290 og 291 TEUV. Med tanke på det antallet endringer som må foretas i kravene til dyrehelse fastsatt i forordning [(EF) nr. 998/2003](eu/32003r0998), og for å sikre at disse kravene er tilstrekkelig tydelige og tilgjengelige for allmennheten, bør forordningen oppheves og erstattes med denne forordning.
 3. Ved denne forordning bør det fastsettes en liste over dyrearter som harmoniserte krav til dyrehelse bør få anvendelse på når dyr av disse artene holdes som kjæledyr og omfattes av ikke-kommersiell forflytning. Når listen utarbeides bør det tas hensyn til artenes mottakelighet for eller rolle i rabies' epidemiologi.
-4. Ved rådsdirektiv [92/65/EØF](eu/31992l0065*) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425), og ved innførsel av nevnte dyr, sæd, egg og embryoer til Fellesskapet5 er det bl.a. fastsatt krav til dyrehelse ved handel med og import av hunder, katter og ildrer, som er dyr som er mottakelige for rabies. Ettersom disse artene også holdes som kjæledyr, som ofte ledsager eieren eller en person med fullmakt ved ikke-kommersiell forflytning innenfor og til Unionen, bør det ved denne forordning fastsettes krav til dyrehelse som får anvendelse på ikke-kommersiell forflytning av disse artene til medlemsstatene. Disse artene bør oppføres i del A i vedlegget til denne forordning.
+4. Ved rådsdirektiv [92/65/EØF](eu/31992l0065*) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425), og ved innførsel av nevnte dyr, sæd, egg og embryoer til Fellesskapet[^5] er det bl.a. fastsatt krav til dyrehelse ved handel med og import av hunder, katter og ildrer, som er dyr som er mottakelige for rabies. Ettersom disse artene også holdes som kjæledyr, som ofte ledsager eieren eller en person med fullmakt ved ikke-kommersiell forflytning innenfor og til Unionen, bør det ved denne forordning fastsettes krav til dyrehelse som får anvendelse på ikke-kommersiell forflytning av disse artene til medlemsstatene. Disse artene bør oppføres i del A i vedlegget til denne forordning.
 5. Det bør dessuten fastsettes en rettslig ramme for kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av dyrearter som ikke er mottakelige for rabies, eller som ikke er av epidemiologisk betydning med hensyn til rabies som, dersom de ikke ble holdt som kjæledyr, ville vært omfattet av andre EU-rettsakter, herunder regelverk om dyr bestemt til næringsmiddelproduksjon. Disse artene bør oppføres i del B i vedlegg I.
-6. Listen i del B i vedlegg I bør omfatte virvelløse dyr, med unntak av bier og humler, som omfattes av direktiv [92/65/EØF](eu/31992l0065*), og bløtdyr og krepsdyr, som omfattes av rådsdirektiv [2006/88/EF](eu/32006l0088*) av 24. oktober 2006 om krav til dyrehelse for akvakulturdyr og produkter av disse, og om forebygging og bekjempelse av visse sykdommer hos vanndyr.6 Den bør også omfatte akvariedyr oppdrettet i ikke-kommersielle akvarier som ikke omfattes av virkeområdet for direktiv [2006/88/EF](eu/32006l0088*), og amfibier og krypdyr.
-7. Listen i del B i vedlegg I bør dessuten omfatte alle andre fuglearter enn dem som omfattes av rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om krav til dyrehelse for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg,7 og andre gnagere og kaniner enn dem som er ment for næringsmiddelproduksjon og som er definert i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.8
+6. Listen i del B i vedlegg I bør omfatte virvelløse dyr, med unntak av bier og humler, som omfattes av direktiv [92/65/EØF](eu/31992l0065*), og bløtdyr og krepsdyr, som omfattes av rådsdirektiv [2006/88/EF](eu/32006l0088*) av 24. oktober 2006 om krav til dyrehelse for akvakulturdyr og produkter av disse, og om forebygging og bekjempelse av visse sykdommer hos vanndyr.[^6] Den bør også omfatte akvariedyr oppdrettet i ikke-kommersielle akvarier som ikke omfattes av virkeområdet for direktiv [2006/88/EF](eu/32006l0088*), og amfibier og krypdyr.
+7. Listen i del B i vedlegg I bør dessuten omfatte alle andre fuglearter enn dem som omfattes av rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om krav til dyrehelse for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg,[^7] og andre gnagere og kaniner enn dem som er ment for næringsmiddelproduksjon og som er definert i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.[^8]
 8. Av hensyn til sammenhengen i Unionens regelverk, og i påvente av at det innføres regler for ikke-kommersiell forflytning av kjæledyr av artene oppført i del B i vedlegg I til en medlemsstat fra en annen medlemsstat eller fra et territorium, bør imidlertid nasjonale regler kunne få anvendelse på slik forflytning, forutsatt at de ikke er strengere enn dem som får anvendelse på forflytning for kommersielle formål.
-9. Ettersom dyreartene oppført i del B i vedlegg I til denne forordning kan tilhøre arter som krever særlig vern, bør denne forordning få anvendelse med forbehold for rådsforordning [(EF) nr. 338/97](eu/31997r0338*) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem.9
+9. Ettersom dyreartene oppført i del B i vedlegg I til denne forordning kan tilhøre arter som krever særlig vern, bør denne forordning få anvendelse med forbehold for rådsforordning [(EF) nr. 338/97](eu/31997r0338*) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem.[^9]
 10. For å opprette et klart skille mellom reglene som får anvendelse på ikke-kommersiell forflytning og dem som får anvendelse på handel med og import til Unionen fra tredjestater av hunder, katter og ildrer omfattet av kravene til dyrehelse i direktiv [92/65/EØF](eu/31992l0065*), bør det i denne forordning ikke bare fastsettes en definisjon av kjæledyr, men også av ikke-kommersiell forflytning av kjæledyr, der kjæledyret ledsager eieren eller en person med fullmakt. Erfaringen har vist at det ikke alltid er mulig for kjæledyret å være i umiddelbar nærhet av eieren eller personen med fullmakt til enhver tid under ikke-kommersiell forflytning. Når det er behørig berettiget og dokumentert bør kjæledyret anses å ledsage eieren eller personen med fullmakt selv om den ikke-kommersielle forflytningen av kjæledyret finner sted opptil fem dager før eller etter forflytningen av eieren eller personen med fullmakt, eller finner sted på et annet fysisk sted enn der eieren eller personen med fullmakt befinner seg.
-11. Erfaring fra anvendelsen av gjeldende regler viser at handel med og import til Unionen fra tredjestater av kjæledyr av artene oppført i del A i vedlegg I på bedragersk vis kan kamufleres som ikke-kommersiell forflytning. For å unngå dette, ettersom det kan medføre risiko for dyrs helse, bør det ved denne forordning fastsettes et høyeste antall kjæledyr av artene oppført i del A i vedlegg I som kan ledsage eieren eller en person med fullmakt. Det bør imidlertid på visse særlige vilkår være mulig å overskride dette høyeste antallet. Det bør dessuten presiseres at når de særlige vilkårene ikke er oppfylt og antallet kjæledyr av artene oppført i del A i vedlegg I til denne forordning overstiger det fastsatte høyeste antallet, får de relevante bestemmelsene i direktiv [92/65/EØF](eu/31992l0065*) og direktiv [90/425/EØF](eu/31990l0425)10 eller direktiv [91/496/EØF](eu/31991l0496*)11 anvendelse på disse kjæledyrene.
+11. Erfaring fra anvendelsen av gjeldende regler viser at handel med og import til Unionen fra tredjestater av kjæledyr av artene oppført i del A i vedlegg I på bedragersk vis kan kamufleres som ikke-kommersiell forflytning. For å unngå dette, ettersom det kan medføre risiko for dyrs helse, bør det ved denne forordning fastsettes et høyeste antall kjæledyr av artene oppført i del A i vedlegg I som kan ledsage eieren eller en person med fullmakt. Det bør imidlertid på visse særlige vilkår være mulig å overskride dette høyeste antallet. Det bør dessuten presiseres at når de særlige vilkårene ikke er oppfylt og antallet kjæledyr av artene oppført i del A i vedlegg I til denne forordning overstiger det fastsatte høyeste antallet, får de relevante bestemmelsene i direktiv [92/65/EØF](eu/31992l0065*) og direktiv [90/425/EØF](eu/31990l0425)[^10] eller direktiv [91/496/EØF](eu/31991l0496*)[^11] anvendelse på disse kjæledyrene.
 12. I forordning [(EF) nr. 998/2003](eu/32003r0998) fastsettes det at kjæledyr av artene oppført i del A og B i forordningens vedlegg I i en overgangsperiode skal anses som identifisert når de bærer en lett leselig tatovering eller et elektronisk identifikasjonssystem («signalgiver»). Ved denne forordning bør det derfor fastsettes regler for merking av kjæledyr av artene oppført i del A i vedlegg I til denne forordning etter overgangsperiodens utløp 3. juli 2011.
 13. Implanteringen av en signalgiver er et invasivt inngrep og det kreves visse kvalifikasjoner for å utføre det. Signalgivere bør derfor bare implanteres av en tilstrekkelig kvalifisert person. Dersom en medlemsstat tillater at en person som ikke er veterinær implanterer signalgivere, bør den fastsette regler for de minstekvalifikasjoner denne personen bør ha.
 14. I vedlegg Ia til forordning [(EF) nr. 998/2003](eu/32003r0998) fastsettes tekniske krav til identifisering av kjæledyr ved hjelp av signalgivere. Disse tekniske kravene tilsvarer internasjonalt anerkjente standarder, og bør fastsettes i vedlegg II til denne forordning uten vesentlige endringer.
@@ -191,23 +191,23 @@ ut fra følgende betraktninger
 17. For å forenkle vilkårene for ikke-kommersiell forflytning av kjæledyr av artene oppført i del A i vedlegg I mellom medlemsstater med tilsvarende status med hensyn til rabies, bør det ved denne forordning dessuten gis mulighet til å gi unntak fra kravet om vaksinasjon mot rabies. Denne muligheten bør være til stede for berørte medlemsstater som har inngitt en felles søknad. Unntaket bør bygge på bekreftede vitenskapelige opplysninger, og bør anvendes i rimelig forhold til den risikoen for menneskers eller dyrs helse som er forbundet med ikke-kommersiell forflytning av kjæledyr som sannsynligvis er mottakelige for rabies. Medlemsstater eller deler av medlemsstater som drar fordel av et slikt unntak, bør oppføres på en liste i en gjennomføringsrettsakt som skal vedtas i henhold til denne forordning.
 18. Stater og territorier oppført i avsnitt 2 i del B i vedlegg II til forordning [(EF) nr. 998/2003](eu/32003r0998) anvender regler som tilsvarer medlemsstatenes regler, mens dem som er oppført i del C i vedlegg II til nevnte forordning, oppfyller kriteriene fastsatt i forordningens artikkel 10. Disse listene bør fastsettes uten vesentlige endringer i en gjennomføringsrettsakt som skal vedtas i henhold til denne forordning.
 19. Dessuten bør en liste over territorier eller tredjestater som anvender regler med samme innhold og virkning som reglene fastsatt i denne forordning for kjæledyr av artene oppført i del B i vedlegg I, fastsettes i en gjennomføringsrettsakt som skal vedtas i henhold til denne forordning.
-20. Ved forordning [(EF) nr. 998/2003](eu/32003r0998) fastsettes visse krav til ikke-kommersiell forflytning av kjæledyr til medlemsstatene fra andre medlemsstater eller tredjestater eller territorier oppført i avsnitt 2 del C i vedlegg II til forordningen. Disse kravene omfatter en gyldig vaksinasjon mot rabies utført på det berørte kjæledyret med vaksiner som oppfyller minstestandardene fastsatt i det relevante kapitlet i Verdens dyrehelsehåndboks landdyrhåndbok, eller som det er gitt en markedsføringstillatelse for i samsvar med enten direktiv [2001/82/EF](eu/32001l0082)12 eller forordning [(EF) nr. 726/2004](eu/32004r0726).13 Disse vaksinene har vist seg å være effektive for å beskytte dyr mot rabies og utgjør en del av gyldighetskravene for vaksine mot rabies fastsatt i vedlegg Ib til forordning [(EF) nr. 998/2003](eu/32003r0998). Disse kravene bør fastsettes i vedlegg III til denne forordning, uten vesentlige endringer.
-21. I forordning [(EF) nr. 998/2003](eu/32003r0998) fastsettes strengere krav til dyrehelse for kjæledyr som er flyttet til en medlemsstat fra andre stater eller territorier enn de som er oppført i del C i vedlegg II til nevnte forordning. Disse kravene omfatter kontroller av rabiesvaksiners virkning hos enkeltdyr ved antistofftitrering i et laboratorium godkjent i samsvar med rådsvedtak [2000/258/EF](eu/32000d0258*) av 20. mars 2000 om utpeking av et særskilt institutt som skal utarbeide de kriterier som er nødvendige for å standardisere serologiske prøver for kontroll av rabiesvaksiners virkning.14 Dette kravet bør derfor opprettholdes i vedlegg IV til denne forordning, og det bør tilføyes et vilkår om at prøvingen bør utføres etter metodene fastsatt i det relevante kapitlet i Verdens dyrehelseorganisasjons landdyrhåndbok.
+20. Ved forordning [(EF) nr. 998/2003](eu/32003r0998) fastsettes visse krav til ikke-kommersiell forflytning av kjæledyr til medlemsstatene fra andre medlemsstater eller tredjestater eller territorier oppført i avsnitt 2 del C i vedlegg II til forordningen. Disse kravene omfatter en gyldig vaksinasjon mot rabies utført på det berørte kjæledyret med vaksiner som oppfyller minstestandardene fastsatt i det relevante kapitlet i Verdens dyrehelsehåndboks landdyrhåndbok, eller som det er gitt en markedsføringstillatelse for i samsvar med enten direktiv [2001/82/EF](eu/32001l0082)[^12] eller forordning [(EF) nr. 726/2004](eu/32004r0726).[^13] Disse vaksinene har vist seg å være effektive for å beskytte dyr mot rabies og utgjør en del av gyldighetskravene for vaksine mot rabies fastsatt i vedlegg Ib til forordning [(EF) nr. 998/2003](eu/32003r0998). Disse kravene bør fastsettes i vedlegg III til denne forordning, uten vesentlige endringer.
+21. I forordning [(EF) nr. 998/2003](eu/32003r0998) fastsettes strengere krav til dyrehelse for kjæledyr som er flyttet til en medlemsstat fra andre stater eller territorier enn de som er oppført i del C i vedlegg II til nevnte forordning. Disse kravene omfatter kontroller av rabiesvaksiners virkning hos enkeltdyr ved antistofftitrering i et laboratorium godkjent i samsvar med rådsvedtak [2000/258/EF](eu/32000d0258*) av 20. mars 2000 om utpeking av et særskilt institutt som skal utarbeide de kriterier som er nødvendige for å standardisere serologiske prøver for kontroll av rabiesvaksiners virkning.[^14] Dette kravet bør derfor opprettholdes i vedlegg IV til denne forordning, og det bør tilføyes et vilkår om at prøvingen bør utføres etter metodene fastsatt i det relevante kapitlet i Verdens dyrehelseorganisasjons landdyrhåndbok.
 22. Identifikasjonsdokumenter som ledsager kjæledyr av artene oppført i del A i vedlegg I som omfattes av ikke-kommersiell forflytning til medlemsstater, er nødvendig for å bekrefte samsvar med denne forordning. Det bør ved denne forordning derfor fastsettes vilkår for utstedelse av identifikasjonsdokumenter og krav til deres innhold, gyldighet, sikkerhetsdetaljer, format og layout.
 23. Ved denne forordning bør medlemsstatene få mulighet til å tillate ikke-kommersiell forflytning til sitt territorium av kjæledyr av artene oppført i del A i vedlegg I ledsaget av et identifikasjonsdokument utstedt på et territorium eller i en tredjestat som anvender regler med samme innhold og virkning som medlemsstatenes regler. Medlemsstatene bør også få mulighet til å tillate ikke-kommersiell forflytning til sitt territorium etter en forflytning til et territorium eller en tredjestat av de kjæledyrene som ledsages av et identifikasjonsdokument utstedt i en medlemsstat, forutsatt at vilkårene for tilbakevending fra disse territoriene eller tredjestatene er oppfylt før kjæledyret forlater Unionen.
 24. Ved denne forordning bør medlemsstatene dessuten få muligheten til, når eieren har behov for øyeblikkelig avreise, for eksempel ved plutselig naturkatastrofe, politisk uro eller andre tilfeller av force majeure som berører eieren, tillate direkte innførsel til sitt territorium for kjæledyr av artene oppført i vedlegg I som ikke oppfyller bestemmelsene i denne forordning, forutsatt at det søkes om en tillatelse på forhånd og som bevilges av bestemmelsesmedlemsstaten, og at en tidsbegrenset isolasjonsperiode under offisielt tilsyn gjennomføres for å oppfylle vilkårene i denne forordning. Til tross for behovet for slik øyeblikkelig avgang bør slike tillatelser være et ufravikelig krav, på grunn av den risiko for dyrs helse som innføring av kjæledyr til Unionen som ikke oppfyller denne forordning, medfører.
 25. Direktiv [90/425/EØF](eu/31990l0425) og direktiv [91/496/EØF](eu/31991l0496*) får ikke anvendelse på veterinærkontroll av kjæledyr som ledsager reisende under ikke-kommersiell forflytning.
 26. For at medlemsstatene skal kunne kontrollere at samsvar med denne forordning overholdes, og for å treffe nødvendige tiltak, bør det ved denne forordning kreves at personen som et kjæledyr ledsager framlegger det påkrevde identifikasjonsdokumentet ved enhver ikke-kommersiell forflytning til en medlemsstat, og det bør fastsettes tilstrekkelig dokumentasjons- og identitetskontroll av kjæledyr som ledsager sin eier ved ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat eller fra visse territorier eller tredjestater.
-27. Det bør også kreves at medlemsstatene foretar systematisk dokumentasjons- og identitetskontroll på utpekte innførselssteder av kjæledyr som ledsager sin eier ved ikke-kommersiell forflytning til en medlemsstat fra visse territorier eller tredjestater. I disse kontrollene bør det tas hensyn til de relevante prinsippene i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.15 Når det er nødvendig for videre forflytning til andre medlemsstater, bør det kreves at medlemsstatene dokumenterer kontrollen i identifikasjonsdokumentet slik at datoen for kontrollen kan brukes til å fastsette identifikasjonsdokumentets gyldighetstid.
+27. Det bør også kreves at medlemsstatene foretar systematisk dokumentasjons- og identitetskontroll på utpekte innførselssteder av kjæledyr som ledsager sin eier ved ikke-kommersiell forflytning til en medlemsstat fra visse territorier eller tredjestater. I disse kontrollene bør det tas hensyn til de relevante prinsippene i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.[^15] Når det er nødvendig for videre forflytning til andre medlemsstater, bør det kreves at medlemsstatene dokumenterer kontrollen i identifikasjonsdokumentet slik at datoen for kontrollen kan brukes til å fastsette identifikasjonsdokumentets gyldighetstid.
 28. I tillegg bør det i denne forordning fastsettes beskyttelsestiltak for å håndtere den risiko for menneskers og dyrs helse som ikke-kommersiell forflytning av kjæledyr medfører.
 29. Med henblikk på å gi borgerne klare og tilgjengelige opplysninger om reglene som gjelder ved ikke-kommersiell forflytning til Unionen av kjæledyr av artene oppført i vedlegg I, bør det kreves at medlemsstatene gjør disse opplysningene, særlig relevante bestemmelser i nasjonal lovgivning, tilgjengelige for offentligheten.
 30. For å sikre hensiktsmessig anvendelse av denne forordning bør myndigheten til å vedta rettsakter i samsvar med artikkel 290 TEUV gis Kommisjonen når det gjelder artsspesifikke krav til merking av kjæledyr av artene oppført i del B i vedlegg I og artsspesifikke, forebyggende helsetiltak mot andre sykdommer eller infeksjoner enn rabies som rammer artene oppført i vedlegg I, samt til å vedta regler for begrensning av antallet kjæledyr av artene oppført i del B i vedlegg I som ledsager sin eier ved ikke-kommersiell forflytning og for endring av vedlegg II til IV. Det er særlig viktig at Kommisjonen holder hensiktsmessige samråd under sitt forberedende arbeid, herunder på ekspertnivå. Kommisjonen bør ved forberedelse og utarbeiding av delegerte rettsakter sikre at relevante dokumenter oversendes Europaparlamentet og Rådet samtidig, til rett tid og på en egnet måte.
 31. I tillegg bør myndigheten til å vedta rettsakter etter framgangsmåten for behandling av hastesaker gis Kommisjonen i behørig berettigede tilfeller av risiko for menneskers og dyrs helse, når det gjelder forebyggende helsetiltak mot andre sykdommer eller infeksjoner enn rabies som kan ramme kjæledyr av artene oppført i vedlegg I.
-32. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen gis gjennomføringsmyndighet med hensyn til listen over medlemsstater eller deler av medlemsstater som har tilsvarende gunstig status når det gjelder rabies, og som har tillatelse til å inngå gjensidige avtaler om å gi unntak fra visse vilkår for ikke-kommersiell forflytning av kjæledyr, listen over medlemsstater som er kategorisert i samsvar med reglene for forebyggende helsetiltak mot andre sykdommer eller infeksjoner enn rabies, listene over territorier og tredjestater som er utarbeidet for å gi unntak fra visse vilkår for ikke-kommersiell forflytning, modellen for de identifikasjonsdokumentene som skal ledsage kjæredyr av artene oppført i vedlegg I ved ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat eller fra et territorium eller en tredjestat, reglene for formatet, layouten og språkene for erklæringene som skal undertegnes og beskyttelsestiltakene ved tilfeller eller spredning av rabies eller av en annen sykdom eller infeksjon enn rabies. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet.16
+32. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen gis gjennomføringsmyndighet med hensyn til listen over medlemsstater eller deler av medlemsstater som har tilsvarende gunstig status når det gjelder rabies, og som har tillatelse til å inngå gjensidige avtaler om å gi unntak fra visse vilkår for ikke-kommersiell forflytning av kjæledyr, listen over medlemsstater som er kategorisert i samsvar med reglene for forebyggende helsetiltak mot andre sykdommer eller infeksjoner enn rabies, listene over territorier og tredjestater som er utarbeidet for å gi unntak fra visse vilkår for ikke-kommersiell forflytning, modellen for de identifikasjonsdokumentene som skal ledsage kjæredyr av artene oppført i vedlegg I ved ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat eller fra et territorium eller en tredjestat, reglene for formatet, layouten og språkene for erklæringene som skal undertegnes og beskyttelsestiltakene ved tilfeller eller spredning av rabies eller av en annen sykdom eller infeksjon enn rabies. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet.[^16]
 33. Kommisjonen bør vedta gjennomføringsrettsakter som får anvendelse umiddelbart om ajourføring av listen over medlemsstater eller deler av medlemsstater med tilsvarende gunstig status når det gjelder rabies, som har tillatelse til å inngå avtaler om å gi unntak fra visse vilkår for ikke-kommersiell forflytning av kjæledyr og listen over territorier og tredjestater som er utarbeidet for å gi unntak fra visse vilkår for ikke-kommersiell forflytning, og om beskyttelsestiltak ved forekomst eller spredning av rabies eller av en annen sykdom eller infeksjon enn rabies, der det i behørig begrunnede tilfeller knyttet til dyrs og menneskers helse, er nødvendig av tvingende hasteårsaker.
 34. I en rekke medlemsstater er det påvist manglende overholdelse av bestemmelsene i forordning [(EF) nr. 998/2003](eu/32003r0998). Medlemsstatene bør derfor fastsette regler for sanksjoner ved overtredelse av bestemmelsene i denne forordning.
-35. Ved vedtak [2003/803/EF](eu/32003d0803) av 26. november 2003 om opprettelse av et standardpass for forflytning av hunder, katter og ildrer innenfor Fellesskapet17 fastsettes et standardpass for forflytning av kjæledyr av artene hunder, katter og ildrer mellom medlemsstatene i henhold til forordning [(EF) nr. 998/2003](eu/32003r0998). Identifikasjonsdokumentene utstedt i samsvar med dette standardsertifikatet bør, på visse vilkår, forbli gyldige i hele kjæledyrets levetid, for å begrense den administrative og økonomiske byrden for eierne.
-36. Ved Kommisjonens gjennomføringsbeslutning [2011/874/EU](eu/32011d0874) av 15. desember 2011 om fastsettelse av listen over tredjestater og territorier fra hvilke import av hunder, katter og ildrer samt ikke-kommersiell forflytning av flere enn fem hunder, katter og ildrer til Unionen er tillatt, og om sertifikatmodellene for import og ikke-kommersiell forflytning av disse dyrene til Unionen18 fastsettes modellen for helsesertifikat som bekrefter samsvar med kravene i forordning [(EF) nr. 998/2003](eu/32003r0998) til ikke-kommersiell forflytning av fem eller færre hunder, katter eller ildrer til Unionen. For å sikre en smidig overgang til de nye reglene fastsatt i denne forordning bør sertifikatmodellen forbli gyldig på visse vilkår.
+35. Ved vedtak [2003/803/EF](eu/32003d0803) av 26. november 2003 om opprettelse av et standardpass for forflytning av hunder, katter og ildrer innenfor Fellesskapet[^17] fastsettes et standardpass for forflytning av kjæledyr av artene hunder, katter og ildrer mellom medlemsstatene i henhold til forordning [(EF) nr. 998/2003](eu/32003r0998). Identifikasjonsdokumentene utstedt i samsvar med dette standardsertifikatet bør, på visse vilkår, forbli gyldige i hele kjæledyrets levetid, for å begrense den administrative og økonomiske byrden for eierne.
+36. Ved Kommisjonens gjennomføringsbeslutning [2011/874/EU](eu/32011d0874) av 15. desember 2011 om fastsettelse av listen over tredjestater og territorier fra hvilke import av hunder, katter og ildrer samt ikke-kommersiell forflytning av flere enn fem hunder, katter og ildrer til Unionen er tillatt, og om sertifikatmodellene for import og ikke-kommersiell forflytning av disse dyrene til Unionen[^18] fastsettes modellen for helsesertifikat som bekrefter samsvar med kravene i forordning [(EF) nr. 998/2003](eu/32003r0998) til ikke-kommersiell forflytning av fem eller færre hunder, katter eller ildrer til Unionen. For å sikre en smidig overgang til de nye reglene fastsatt i denne forordning bør sertifikatmodellen forbli gyldig på visse vilkår.
 37. Ettersom målet for denne forordning, som er å fastsette krav til dyrehelse ved ikke kommersiell forflytning av kjæledyr av artene oppført i vedlegg I for å forhindre eller minimere de risikoer for menneskers eller dyrs helse som denne forflytningen medfører, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske unions virkemåte. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.
 38. For å sikre samtidig offentliggjøring av denne forordning og dens gjennomføringsrettsakter med hensyn til listene over territorier og tredjestater som er utarbeidet for å gi unntak fra visse vilkår som får anvendelse på ikke-kommersiell forflytning, med hensyn til modellen for identifikasjonsdokumentene som skal ledsage kjæledyr av artene oppført i del A i vedlegg I ved ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat eller fra et territorium eller en tredjestat, og med hensyn til reglene for formatet, layouten og språkene for erklæringene som skal undertegnes, bør denne forordning tre i kraft den dagen den kunngjøres i *Den europeiske unions tidende* –
 
@@ -303,7 +303,7 @@ Ikke-kommersiell forflytning av kjæledyr som oppfyller kravene til dyrehelse fa
 
 6\. Kommisjonen skal framlegge en rapport for Europaparlamentet og Rådet om gjennomføringen av denne artikkel senest 29. juni 2018. På grunnlag av sin rapport skal Kommisjonen når det er nødvendig foreslå endringer av denne forordning.
 
-### Kapittel II\*
+### Kapittel II[^\*]
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat
 
 \* Tilpasningstekst fra EØS-komitébeslutning nr. 66/2016: «Norge skal ikke anses som tredjestat». Dette innebærer at forflytning mellom EU-stater og Norge skal følge reglene i kapittel II.
@@ -391,7 +391,7 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i del B
 1. anvendes i rimelig forhold til risikoen for menneskers eller dyrs helse forbundet med ikke-kommersiell forflytning av kjæledyr av disse artene, og
 2. ikke er strengere enn dem som får anvendelse på handel med dyr av disse artene i samsvar med direktiv [92/65/EØF](eu/31992l0065*) eller [2006/88/EF](eu/32006l0088*).
 
-### Kapittel III\*
+### Kapittel III[^\*]
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra et territorium eller en tredjestat
 
 \* Tilpasningstekst fra EØS-komitébeslutning nr. 66/2016: «Norge skal ikke anses som tredjestat». Dette innebærer at forflytning mellom EU-stater og Norge skal følge reglene i kapittel II, ikke kapittel III.
@@ -519,7 +519,7 @@ Som unntak fra artikkel 10 og 14 kan ikke-kommersiell forflytning av kjæledyr m
 
 ►**EØS**
 
-1. \* og Sverige,
+1. [^\*] og Sverige,
 
 ◄**EØS**
 
@@ -610,7 +610,7 @@ Format for og innholdet i identifikasjonsdokumentet nevnt i artikkel 6 bokstav d
 
 Utstedelse og utfylling av identifikasjonsdokumentet nevnt i artikkel 6 bokstav d)
 
-1\. Identifikasjonsdokumentet nevnt i artikkel 6 bokstav d) skal utstedes av en autorisert\*\* veterinær etter at
+1\. Identifikasjonsdokumentet nevnt i artikkel 6 bokstav d) skal utstedes av en autorisert[^\*\*] veterinær etter at
 
 1. vedkommende har kontrollert at kjæledyret er merket i samsvar med artikkel 17 nr. 1,
 2. vedkommende har behørig utfylt de relevante rubrikkene i identifikasjonsdokumentet med opplysningene angitt i artikkel 21 nr. 1 bokstav a)–d), og
@@ -894,7 +894,7 @@ Framgangsmåte for behandling av hastesaker
 
 Komitéframgangsmåte
 
-1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved artikkel 58 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.1 Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved artikkel 58 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.[^1] Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
 
 2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse. Dersom uttalelse fra komiteen skal innhentes etter skriftlig framgangsmåte, skal framgangsmåten avsluttes uten resultat når komiteens leder beslutter det eller et simpelt flertall av komitémedlemmene ber om det innenfor tidsfristen for å avgi uttalelse.
 
@@ -921,7 +921,7 @@ Henvisninger i denne forordning til listen i gjennomføringsrettsaktene vedtatt 
 
 2\. Henvisninger til den opphevede forordningen skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegg V.
 
-3\. Opphevingen av forordning [(EF) nr. 998/2003](eu/32003r0998) berører ikke opprettholdelsen av delegert kommisjonsforordning [(EU) nr. 1152/2011](eu/32011r1152) av 14. juli 2011 om utfylling av europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998) med hensyn til forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder,1 som ble vedtatt i henhold til artikkel 5 nr. 1 annet ledd i nevnte forordning.
+3\. Opphevingen av forordning [(EF) nr. 998/2003](eu/32003r0998) berører ikke opprettholdelsen av delegert kommisjonsforordning [(EU) nr. 1152/2011](eu/32011r1152) av 14. juli 2011 om utfylling av europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998) med hensyn til forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder,[^1] som ble vedtatt i henhold til artikkel 5 nr. 1 annet ledd i nevnte forordning.
 
 1 EUT L 296 av 15.11.2011, s. 6.
 
@@ -934,12 +934,12 @@ Henvisninger i denne forordning til listen i gjennomføringsrettsaktene vedtatt 
 1\. Som unntak fra artikkel 21 nr. 1 skal identifikasjonsdokumentet nevnt i artikkel 6 bokstav d) anses å være i samsvar med denne forordning dersom det er
 
 1. utarbeidet i samsvar med standardpasset fastsatt ved vedtak [2003/803/EF](eu/32003d0803) og
-2. utstedt før 29. desember 2014.\*
+2. utstedt før 29. desember 2014.[^\*]
 
 2\. Som unntak fra artikkel 25 nr. 1 og artikkel 27 bokstav a) skal identifikasjonsdokumentet nevnt i artikkel 10 nr. 1 bokstav e) anses å være i samsvar med denne forordning dersom det er
 
 1. utarbeidet i samsvar med standardsertifikatet fastsatt i vedlegg II til beslutning [2011/874/EU](eu/32011d0874), eller eventuelt standardpasset fastsatt i vedtak [2003/803/EF](eu/32003d0803), og
-2. utstedt før 29. desember 2014.\*
+2. utstedt før 29. desember 2014.[^\*]
 
 \* Datoen 29. desember 2014 i artikkel 44 nr. 1 bokstav b og artikkel 44 nr. 2 bokstav b skal for Norges vedkommende være datoen for ikrafttredelse av EØS-komitébeslutning nr. 66/2016, som er 1. juni 2016.
 
@@ -1113,7 +1113,7 @@ Sammenligningstabellen nevnt i artikkel 43 nr. 2
 
 ### Uttalelse fra kommisjonen
 
-Innenfor rammen av Den europeiske unions strategi for dyrevern og dyrs velferd1 vil Kommisjonen undersøke hunders og katters velferd når de er gjenstand for handel.
+Innenfor rammen av Den europeiske unions strategi for dyrevern og dyrs velferd[^1] vil Kommisjonen undersøke hunders og katters velferd når de er gjenstand for handel.
 
 Dersom resultatene av undersøkelsen viser at denne handelspraksisen medfører helserisikoer, vil Kommisjonen vurdere hensiktsmessige alternativer for å beskytte menneskers og dyrs helse, herunder å foreslå for Europaparlamentet og Rådet hensiktsmessige tilpasninger av gjeldende regelverk i Unionen for handel med hunder og katter, herunder innføring av kompatible systemer for registering av hunder og katter som er tilgjengelig på tvers av medlemsstatene.
 
@@ -1148,25 +1148,25 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998)),1 særlig artikkel 7 nr. 3, artikkel 11 nr. 4, artikkel 13 nr. 1 og 2, artikkel 21 nr. 2 og artikkel 25 nr. 2, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998)),[^1] særlig artikkel 7 nr. 3, artikkel 11 nr. 4, artikkel 13 nr. 1 og 2, artikkel 21 nr. 2 og artikkel 25 nr. 2, og
 
 ut fra følgende betraktninger
 
-1. I europaparlaments- og rådsforordning [(EF) nr. 576/2013](eu/32013r0576) fastsettes kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller fra et territorium eller en tredjestat samt reglene for kontroll av at disse kravene er oppfylt ved slik forflytning. Nevnte forordning opphevet og erstattet europaparlaments og rådsforordning [(EF) nr. 998/2003](eu/32003r0998) av 26. mai 2003 om kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr, og om endring av rådsdirektiv [92/65/EØF](eu/31992l0065*).2
+1. I europaparlaments- og rådsforordning [(EF) nr. 576/2013](eu/32013r0576) fastsettes kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller fra et territorium eller en tredjestat samt reglene for kontroll av at disse kravene er oppfylt ved slik forflytning. Nevnte forordning opphevet og erstattet europaparlaments og rådsforordning [(EF) nr. 998/2003](eu/32003r0998) av 26. mai 2003 om kravene til dyrehelse som får anvendelse på ikke-kommersiell forflytning av kjæledyr, og om endring av rådsdirektiv [92/65/EØF](eu/31992l0065*).[^2]
 2. Hunder, katter og ildrer er oppført i del A i vedlegg I til forordning [(EU) nr. 576/2013](eu/32013r0576), som dyrearter som omfattes av nevnte forordning.
 3. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det at hunder, katter og ildrer ikke skal forflyttes til en medlemsstat fra en annen medlemsstat eller fra territorier eller tredjestater med mindre de er vaksinert mot rabies i samsvar med gyldighetskravene fastsatt i vedlegg III til forordningen. Forflytning av unge hunder, katter og ildrer som ikke er vaksinert eller som ikke oppfyller gyldighetskravene i vedlegg III til forordningen, kan imidlertid tillates fra medlemsstater eller fra territorier eller tredjestater oppført i henhold til artikkel 13 i forordning [(EU) nr. 576/2013](eu/32013r0576), når eieren eller personen med fullmakt blant annet framlegger en underskrevet erklæring om at kjæledyrene fra fødselen til tidspunktet for den ikke-kommersielle forflytningen ikke har vært i kontakt med ville dyr av arter som er mottakelige for rabies. Kravene til format, layout og språk for disse erklæringene bør derfor fastsettes i denne forordning.
 4. I forordning [(EU) nr. 576/2013](eu/32013r0576) er det dessuten fastsatt at Kommisjonen skal vedta to lister over territorier eller tredjestater som hunder, katter eller ildrer kan forflyttes fra for ikke-kommersielle formål til en medlemsstat, uten at det kreves at de må gjennomgå titrering av rabiesantistoffer. En av disse listene bør omfatte de territorier eller tredjestater som har vist at de anvender regler med samme innhold og virkning som dem medlemsstatene anvender, og den andre listen bør omfatte de territorier og tredjestater som har vist at de oppfyller minst de kriteriene som er fastsatt i artikkel 13 nr. 2 i forordning [(EU) nr. 576/2013](eu/32013r0576). Disse listene bør derfor fastsettes i et vedlegg til denne forordning.
-5. I tillegg bør det i disse listene tas hensyn til bestemmelsene i tiltredelsestraktaten for Kroatia, i henhold til hvilken Kroatia blir medlem av Den europeiske union 1. juli 2013 og Det europeiske råds avgjerd [2012/419/EU](eu/32012d0419) av 11. juli 2012 om endring av statusen til Mayotte overfor Den europeiske unionen,3 der det er fastsatt at Mayotte fra 1. januar 2014 opphører å være en av de oversjøiske stater eller territorier som omfattes av bestemmelsene i fjerde del av traktaten om Den europeiske unions virkemåte og blir en fjerntliggende region i Unionen i henhold til traktatens artikkel 349.
+5. I tillegg bør det i disse listene tas hensyn til bestemmelsene i tiltredelsestraktaten for Kroatia, i henhold til hvilken Kroatia blir medlem av Den europeiske union 1. juli 2013 og Det europeiske råds avgjerd [2012/419/EU](eu/32012d0419) av 11. juli 2012 om endring av statusen til Mayotte overfor Den europeiske unionen,[^3] der det er fastsatt at Mayotte fra 1. januar 2014 opphører å være en av de oversjøiske stater eller territorier som omfattes av bestemmelsene i fjerde del av traktaten om Den europeiske unions virkemåte og blir en fjerntliggende region i Unionen i henhold til traktatens artikkel 349.
 6. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det dessuten at hunder, katter og ildrer ikke skal forflyttes til en medlemsstat fra et annet territorium eller en annen tredjestat enn de som er oppført i et vedlegg til denne forordning, med mindre de har gjennomgått titrering av rabiesantistoffer som oppfyller gyldighetskravene fastsatt i vedlegg IV til forordning [(EU) nr. 576/2013](eu/32013r0576). Titrering er imidlertid ikke påkrevd ved transitt gjennom et av disse territoriene eller en av disse tredjestatene dersom eieren eller personen med fullmakt framlegger en skriftlig erklæring om at dyrene ikke har vært i kontakt med dyr av arter som er mottakelige for rabies, og at de er holdt i sikker forvaring om bord på et transportmiddel eller på en internasjonal lufthavns område. Kravene til format, layout og språk for disse erklæringene bør derfor fastsettes i denne forordning.
-7. Gyldighetskravene fastsatt i vedlegg IV til forordning [(EU) nr. 576/2013](eu/32013r0576) omfatter forpliktelsen til å foreta prøvingen i et laboratorium som er godkjent i samsvar med rådsvedtak [2000/258/EF](eu/32000d0258*) av 20. mars 2000 om utpeking av et særskilt institutt som skal utarbeide de kriterier som er nødvendige for å standardisere serologiske prøver for kontroll av rabiesvaksiners virkning,4 der det fastsettes at Agence française de sécurité sanitaire des aliments (AFSSA) i Nancy i Frankrike (siden 1. juli 2010 innlemmet i Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ANSES) skal vurdere laboratoriene i medlemsstatene og tredjestater med henblikk på godkjenning av dem til å utføre serologiske prøvinger for å overvåke rabiesvaksiners virkning hos hunder, katter og ildrer.
-8. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det dessuten at hunder, katter og ildrer som forflyttes til en medlemsstat fra en annen medlemsstat for ikke-kommersielle formål skal ledsages av et identifikasjonsdokument i passformat i samsvar med en modell som skal vedtas av Kommisjonen. Modellen skal inneholde rubrikker for angivelse av opplysningene fastsatt i forordning [(EU) nr. 576/2013](eu/32013r0576). Modellen og tilleggskravene til passet bør fastsettes i et vedlegg til denne forordning, og av klarhetshensyn og for å forenkle Unionens regelverk bør vedtak [2003/803/EF](eu/32003d0803) av 26. november 2003 om opprettelse av et standardpass for forflytning av hunder, katter og ildrer innenfor Fellesskapet5 oppheves.
+7. Gyldighetskravene fastsatt i vedlegg IV til forordning [(EU) nr. 576/2013](eu/32013r0576) omfatter forpliktelsen til å foreta prøvingen i et laboratorium som er godkjent i samsvar med rådsvedtak [2000/258/EF](eu/32000d0258*) av 20. mars 2000 om utpeking av et særskilt institutt som skal utarbeide de kriterier som er nødvendige for å standardisere serologiske prøver for kontroll av rabiesvaksiners virkning,[^4] der det fastsettes at Agence française de sécurité sanitaire des aliments (AFSSA) i Nancy i Frankrike (siden 1. juli 2010 innlemmet i Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ANSES) skal vurdere laboratoriene i medlemsstatene og tredjestater med henblikk på godkjenning av dem til å utføre serologiske prøvinger for å overvåke rabiesvaksiners virkning hos hunder, katter og ildrer.
+8. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det dessuten at hunder, katter og ildrer som forflyttes til en medlemsstat fra en annen medlemsstat for ikke-kommersielle formål skal ledsages av et identifikasjonsdokument i passformat i samsvar med en modell som skal vedtas av Kommisjonen. Modellen skal inneholde rubrikker for angivelse av opplysningene fastsatt i forordning [(EU) nr. 576/2013](eu/32013r0576). Modellen og tilleggskravene til passet bør fastsettes i et vedlegg til denne forordning, og av klarhetshensyn og for å forenkle Unionens regelverk bør vedtak [2003/803/EF](eu/32003d0803) av 26. november 2003 om opprettelse av et standardpass for forflytning av hunder, katter og ildrer innenfor Fellesskapet[^5] oppheves.
 9. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det dessuten at hunder, katter og ildrer som forflyttes til en medlemsstat fra et territorium eller en tredjestat for ikke-kommersielle formål skal ledsages av et identifikasjonsdokument helsesertifikatformat i samsvar med en modell som skal vedtas av Kommisjonen. Modellen skal inneholde rubrikker for angivelse av opplysningene fastsatt i forordning [(EU) nr. 576/2013](eu/32013r0576). Denne modellen bør derfor fastsettes i et vedlegg til denne forordning.
 10. Som unntak fra helsesertifikatformatet som skal anvendes ved forflytning til en medlemsstat fra et territorium eller en tredjestat, fastsettes det ved forordning [(EU) nr. 576/2013](eu/32013r0576) at medlemsstater skal tillate ikke-kommersiell forflytning av hunder, katter og ildrer fra et territorium eller en tredjestat som har vist at det anvender regler med samme innhold og virkning som dem medlemsstatene anvender, når identifikasjonsdokumentet som ledsager dem er utstedt etter framgangsmåten fastsatt for forflytning til en medlemsstat fra en annen medlemsstat. En rekke tekniske tilpasninger av standardpasset som skal brukes i slike tilfeller er imidlertid nødvendig, særlig med hensyn til kjennetegn på forsiden som ikke fullt ut oppfyller kravene til pass utstedt av en medlemsstat. Av klarhetshensyn bør det derfor fastsettes en modell for slike pass i denne forordning.
-11. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det at når antallet hunder, katter og ildrer som forflyttes for ikke-kommersielle formål i en enkelt bevegelse overstiger fem, får de relevante kravene til dyrehelse fastsatt i rådsdirektiv [92/65/EØF](eu/31992l0065*)6 av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425), og ved innførsel av nevnte dyr, sæd, egg og embryoer til Fellesskapet anvendelse på disse dyrene, unntatt under særlige forhold og for visse kategorier av dyr.
-12. I tillegg ble kommisjonsvedtak [2004/839/EF](eu/32004d0839) av 3. desember 2004 om fastsetjing av vilkår for ikkje-kommersiell flytting av hundekvalpar og kattungar frå tredjestatar til Fellesskapet7 og kommisjonsvedtak [2005/91/EF](eu/32005d0091) av 2. februar 2005 om fastsetjing av ein frist for kor lang tid det skal ta før rabiesvaksinasjonen vert rekna som gyldig8 vedtatt for å fastsette enhetlige regler for gjennomføringen av forordning [(EF) nr. 998/2003](eu/32003r0998). Reglene fastsatt i nevnte forordninger er gjennomgått og er nå innlemmet i bestemmelsene i forordning [(EU) nr. 576/2013](eu/32013r0576). Av klarhetshensyn og for å forenkle Unionens regelverk bør derfor vedtak [2004/839/EF](eu/32004d0839) og [2005/91/EF](eu/32005*0091) oppheves.
-13. Ved rådsdirektiv [96/93/EF](eu/31996l0093) av 17. desember 1996 om utstedelse av sertifikater for dyr og animalske produkter9 fastsettes reglene som skal følges ved utstedelse av sertifikater som veterinærlovgivningen krever for å hindre villedende eller ulovlig sertifisering. Det bør derfor sikres at regler og prinsipper som minst tilsvarer dem som er fastsatt i nevnte direktiv, anvendes av offentlige veterinærer fra tredjestater.
-14. I delegert kommisjonsforordning [(EU) nr. 1152/2011](eu/32011r1152) av 14. juli 2011 om utfylling av europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998) med hensyn til forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder10 fastsettes det at fra 1. januar 2012, skal hunder som ankommer medlemsstater eller deler av medlemsstater oppført på listen i forordningens vedlegg I, behandles mot parasitten *Echinococcus multilocularis* i samsvar med kravene fastsatt nevnte forordning.
-15. Denne forordning bør få anvendelse med forbehold for kommisjonsvedtak [2006/146/EF](eu/32006d0146) av 21. februar 2006 om visse vernetiltak med hensyn til visse flygende hunder, hunder og katter som kommer fra Malayahalvøya og Australia11 som forbyr import av hunder og katter fra Malayahalvøya og katter fra Australia, med mindre visse vilkår er oppfylt med hensyn til henholdsvis Nipah disease og Hendra disease.
+11. I forordning [(EU) nr. 576/2013](eu/32013r0576) fastsettes det at når antallet hunder, katter og ildrer som forflyttes for ikke-kommersielle formål i en enkelt bevegelse overstiger fem, får de relevante kravene til dyrehelse fastsatt i rådsdirektiv [92/65/EØF](eu/31992l0065*)[^6] av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425), og ved innførsel av nevnte dyr, sæd, egg og embryoer til Fellesskapet anvendelse på disse dyrene, unntatt under særlige forhold og for visse kategorier av dyr.
+12. I tillegg ble kommisjonsvedtak [2004/839/EF](eu/32004d0839) av 3. desember 2004 om fastsetjing av vilkår for ikkje-kommersiell flytting av hundekvalpar og kattungar frå tredjestatar til Fellesskapet[^7] og kommisjonsvedtak [2005/91/EF](eu/32005d0091) av 2. februar 2005 om fastsetjing av ein frist for kor lang tid det skal ta før rabiesvaksinasjonen vert rekna som gyldig[^8] vedtatt for å fastsette enhetlige regler for gjennomføringen av forordning [(EF) nr. 998/2003](eu/32003r0998). Reglene fastsatt i nevnte forordninger er gjennomgått og er nå innlemmet i bestemmelsene i forordning [(EU) nr. 576/2013](eu/32013r0576). Av klarhetshensyn og for å forenkle Unionens regelverk bør derfor vedtak [2004/839/EF](eu/32004d0839) og [2005/91/EF](eu/32005*0091) oppheves.
+13. Ved rådsdirektiv [96/93/EF](eu/31996l0093) av 17. desember 1996 om utstedelse av sertifikater for dyr og animalske produkter[^9] fastsettes reglene som skal følges ved utstedelse av sertifikater som veterinærlovgivningen krever for å hindre villedende eller ulovlig sertifisering. Det bør derfor sikres at regler og prinsipper som minst tilsvarer dem som er fastsatt i nevnte direktiv, anvendes av offentlige veterinærer fra tredjestater.
+14. I delegert kommisjonsforordning [(EU) nr. 1152/2011](eu/32011r1152) av 14. juli 2011 om utfylling av europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998) med hensyn til forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder[^10] fastsettes det at fra 1. januar 2012, skal hunder som ankommer medlemsstater eller deler av medlemsstater oppført på listen i forordningens vedlegg I, behandles mot parasitten *Echinococcus multilocularis* i samsvar med kravene fastsatt nevnte forordning.
+15. Denne forordning bør få anvendelse med forbehold for kommisjonsvedtak [2006/146/EF](eu/32006d0146) av 21. februar 2006 om visse vernetiltak med hensyn til visse flygende hunder, hunder og katter som kommer fra Malayahalvøya og Australia[^11] som forbyr import av hunder og katter fra Malayahalvøya og katter fra Australia, med mindre visse vilkår er oppfylt med hensyn til henholdsvis Nipah disease og Hendra disease.
 16. Denne forordning bør få anvendelse fra den dato forordning [(EU) nr. 576/2013](eu/32013r0576) får anvendelse.
 17. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
@@ -1311,7 +1311,7 @@ Liste over områder og tredjestater nevnt i artikkel 13 nr. 2 i forordning [(EU)
 | CW | Curaçao |  |
 | FJ | Fiji |  |
 | FK | Falklandsøyene |  |
-| GB | Det forente kongerike\* |  |
+| GB | Det forente kongerike[^\*] |  |
 | GG | Guernsey |  |
 | HK | Hongkong |  |
 | IM | Isle of Man |  |
@@ -1355,7 +1355,7 @@ Standardpass for ikke-kommersiell forflytning av hunder, katter og ildrer
 ### Del 1
 Standardpass utstedt i en medlemsstat
 
-Den europeiske union/Norge\*
+Den europeiske union/Norge[^\*]
 
 [Medlemsstat]
 
@@ -1392,7 +1392,7 @@ av X
   - før forflytning til en annen medlemsstat i samsvar med EUs dyrehelseregelverk, eller
   - når dyret kommer tilbake til Unionen etter en forflytning til territorier eller tredjestater i samsvar med EUs dyrehelseregelverk (skal utfylles før dyret forlater Unionen), eller
   - i samsvar med nasjonal lovgivning.
-- Avsnitt V, «GYLDIG FRA2»: Opplysninger kreves ikke for revaksinasjoner.
+- Avsnitt V, «GYLDIG FRA[^2]»: Opplysninger kreves ikke for revaksinasjoner.
 
 ISO-landkode + nummer
 
@@ -1422,7 +1422,7 @@ By:
 
 Stat:
 
-Telefonnummer:\*
+Telefonnummer:[^\*]
 
 Underskrift:
 
@@ -1440,7 +1440,7 @@ By:
 
 Stat:
 
-Telefonnummer:\*
+Telefonnummer:[^\*]
 
 Underskrift:
 
@@ -1453,11 +1453,11 @@ II. BESKRIVELSE AV DYRET
 *BILDE AV DYRET*
 *(valgfritt)*
 
-1. Navn:\*
+1. Navn:[^\*]
 2. Art:
-3. Rase:\*
+3. Rase:[^\*]
 4. Kjønn:
-5. Fødselsdato:\*
+5. Fødselsdato:[^\*]
 6. Farge:
 7. Eventuelle viktige eller framtredende trekk eller kjennetegn:
 
@@ -1468,7 +1468,7 @@ II. BESKRIVELSE AV DYRET
 III. MERKING AV DYR
 
 1. Signalgiverens alfanumeriske kode
-2. Dato for implantering eller avlesing\* av signalgiveren
+2. Dato for implantering eller avlesing[^\*] av signalgiveren
 3. Signalgiverens plassering
 4. Tatoveringens alfanumeriske kode
 5. Dato for påføring/dato for avlesing av tatoveringen
@@ -1508,23 +1508,23 @@ ISO-landkode + nummer
 **V. VAKSINASJON MOT RABIES**
 **PRODUSENT OG NAVN PÅ VAKSINE**
 **PARTINUMMER**
-**VAKSINASJONSDATO**1
-**GYLDIG FRA**2
-**GYLDIG TIL**3
+**VAKSINASJONSDATO**[^1]
+**GYLDIG FRA**[^2]
+**GYLDIG TIL**[^3]
 **AUTORISERT VETERINÆR**
 
 1.
 2.
-3. \*
+3. [^\*]
 4.
 5.
-6. \*
+6. [^\*]
 
 \* Minst navn, adresse, telefonnummer og underskrift.
 
 ISO-landkode + nummer
 
-ISO-landkode + nummer – 1 2 3 \* 1 2 3 \* 1 2 3 \* –
+ISO-landkode + nummer – 1 2 3 [^\*] 1 2 3 [^\*] 1 2 3 [^\*] –
 
 \* Minst navn, adresse, telefonnummer og underskrift.
 
@@ -1568,7 +1568,7 @@ Dato:
 
 |  |  |  |
 | --- | --- | --- |
-| **PRODUSENT OG PRODUKTNAVN** | **DATO**1 **TIDSPUNKT**2 | **VETERINÆR** |
+| **PRODUSENT OG PRODUKTNAVN** | **DATO**[^1] **TIDSPUNKT**[^2] | **VETERINÆR** |
 
 1
 
@@ -1604,7 +1604,7 @@ ISO-landkode + nummer
 
 |  |  |  |
 | --- | --- | --- |
-| **PRODUSENT OG PRODUKTNAVN** | **DATO**1 **TIDSPUNKT**2 | **VETERINÆR** |
+| **PRODUSENT OG PRODUKTNAVN** | **DATO**[^1] **TIDSPUNKT**[^2] | **VETERINÆR** |
 
 1 2 *STEMPEL OG UNDERSKRIFT*
 
@@ -1628,7 +1628,7 @@ ISO-landkode + nummer
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| **PRODUSENT OG NAVN PÅ VAKSINE** | **PARTINUMMER** | **VAKSINASJONSDATO**1 | **GYLDIG TIL**2 | **VETERINÆR** |
+| **PRODUSENT OG NAVN PÅ VAKSINE** | **PARTINUMMER** | **VAKSINASJONSDATO**[^1] | **GYLDIG TIL**[^2] | **VETERINÆR** |
 
 1 2 *STEMPEL OG UNDERSKRIFT*
 
@@ -1654,13 +1654,13 @@ ISO-landkode + nummer
 | --- | --- | --- |
 | **ERKLÆRING** | **DATO** | **AUTORISERT VETERINÆR** |
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
 \* Minst navn, adresse, telefonnummer og underskrift.
 
@@ -1689,7 +1689,7 @@ Tilleggskrav til pass utstedt i en medlemsstat
 
    1. Forside:
 
-      1. farge: blå (PANTONE® Reflex Blue) og gule stjerner (PANTONE® Yellow) i den øvre firedelen i samsvar med spesifikasjonene for EU-emblemet,1
+      1. farge: blå (PANTONE® Reflex Blue) og gule stjerner (PANTONE® Yellow) i den øvre firedelen i samsvar med spesifikasjonene for EU-emblemet,[^1]
       2. ordene «Den europeiske union» og navnet på den utstedende medlemsstaten skal trykkes med samme skrifttype,
       3. den utstedende medlemsstatens ISO-landkode etterfulgt av en entydig alfanumerisk kode (angitt som «nummer» i standardpasset i del 1) skal være trykt nederst på siden.
    2. Forsidens og baksidens innside: farge hvit.
@@ -1732,7 +1732,7 @@ Standardpass utstedt på et av territoriene eller i en av tredjestatene oppført
   - før forflytning til en annen medlemsstat/... i samsvar med EUs dyrehelseregelverk, eller
   - når dyret kommer tilbake til Unionen/... etter en forflytning til territorier eller tredjestater i samsvar med EUs dyrehelseregelverk (skal utfylles før dyret forlater Unionen/...), eller
   - i samsvar med nasjonal lovgivning.
-- Avsnitt V, «GYLDIG FRA2 »: Opplysninger kreves ikke for revaksinasjoner.
+- Avsnitt V, «GYLDIG FRA[^2] »: Opplysninger kreves ikke for revaksinasjoner.
 
 ISO-landkode + nummer
 
@@ -1762,7 +1762,7 @@ ISO-landkode + nummer
    Postnummer:
    By:
    Stat:
-   Telefonnummer:\*
+   Telefonnummer:[^\*]
    Underskrift:
 
 \* valgfritt
@@ -1774,11 +1774,11 @@ ISO-landkode + nummer
 *BILDE AV DYRET*
 *(valgfritt)*
 
-1. Navn:\*
+1. Navn:[^\*]
 2. Art:
-3. Rase:\*
+3. Rase:[^\*]
 4. Kjønn:
-5. Fødselsdato:\*
+5. Fødselsdato:[^\*]
 6. Farge:
 7. Eventuelle viktige eller framtredende trekk eller kjennetegn:
 
@@ -1789,7 +1789,7 @@ ISO-landkode + nummer
 **III. MERKING AV DYR**
 
 1. Signalgiverens alfanumeriske kode
-2. Dato for implantering eller avlesing\* av signalgiveren
+2. Dato for implantering eller avlesing[^\*] av signalgiveren
 3. Signalgiverens plassering
 4. Tatoveringens alfanumeriske kode
 5. Dato for påføring/dato for avlesing av tatoveringen
@@ -1828,21 +1828,21 @@ ISO-landkode + nummer
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| **PRODUSENT OG NAVN PÅ VAKSINE** | **PARTINUMMER** | **VAKSINASJONSDATO**1 | **GYLDIG FRA**2 | **GYLDIG TIL**3 | **AUTORISERT VETERINÆR** |
+| **PRODUSENT OG NAVN PÅ VAKSINE** | **PARTINUMMER** | **VAKSINASJONSDATO**[^1] | **GYLDIG FRA**[^2] | **GYLDIG TIL**[^3] | **AUTORISERT VETERINÆR** |
 
-1 2 3 \*
+1 2 3 [^\*]
 
-1 2 3 \*
+1 2 3 [^\*]
 
 \* Minst navn, adresse, telefonnummer og underskrift
 
 ISO-landkode + nummer
 
-1 2 3 \*
+1 2 3 [^\*]
 
-1 2 3 \*
+1 2 3 [^\*]
 
-1 2 3 \*
+1 2 3 [^\*]
 
 ISO-landkode + nummer
 
@@ -1888,7 +1888,7 @@ Dato:
 
 |  |  |  |
 | --- | --- | --- |
-| **PRODUSENT OG PRODUKTNAVN** | **DATO**1 **KLOKKESLETT**2 | **VETERINÆR** |
+| **PRODUSENT OG PRODUKTNAVN** | **DATO**[^1] **KLOKKESLETT**[^2] | **VETERINÆR** |
 
 1 2
 
@@ -1928,7 +1928,7 @@ ISO-landkode + nummer
 
 |  |  |  |
 | --- | --- | --- |
-| **PRODUSENT OG PRODUKTNAVN** | **DATO**1 **KLOKKESLETT**2 | **VETERINÆR** |
+| **PRODUSENT OG PRODUKTNAVN** | **DATO**[^1] **KLOKKESLETT**[^2] | **VETERINÆR** |
 
 1 2
 
@@ -1968,7 +1968,7 @@ ISO-landkode + nummer
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| **PRODUSENT OG NAVN PÅ VAKSINE** | **PARTINUMMER** | **VAKSINASJONSDATO**1 | **GYLDIG TIL**2 | **VETERINÆR** |
+| **PRODUSENT OG NAVN PÅ VAKSINE** | **PARTINUMMER** | **VAKSINASJONSDATO**[^1] | **GYLDIG TIL**[^2] | **VETERINÆR** |
 
 1 2
 
@@ -2010,13 +2010,13 @@ ISO-landkode + nummer
 | --- | --- | --- |
 | **ERKLÆRING** | **DATO** | **AUTORISERT VETERINÆR** |
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
-Dyret viser ingen tegn på sykdom og kan transporteres som planlagt\*
+Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 
 \* Minst navn, adresse, telefonnummer og underskrift.
 
@@ -2070,7 +2070,7 @@ Tilleggskrav til passet utstedt på et av territoriene eller i en av tredjestate
 
 ### Del 1
 
-For å lese Del I: Modell for helsesertifikat for ikke-kommersiell forflytning til en medlemsstat fra et territorium eller en tredjestat av hunder, katter eller ildrer i samsvar med artikkel 5 nr. 1 og 2 i forordning [(EU) nr. 576/2013](eu/32013r0576), se her: [(pdf)](static/SF/sf-20160519-0542-32013r0577-52-03.pdf) 1
+For å lese Del I: Modell for helsesertifikat for ikke-kommersiell forflytning til en medlemsstat fra et territorium eller en tredjestat av hunder, katter eller ildrer i samsvar med artikkel 5 nr. 1 og 2 i forordning [(EU) nr. 576/2013](eu/32013r0576), se her: [(pdf)](static/SF/sf-20160519-0542-32013r0577-52-03.pdf) [^1]
 
 1 Fram til 16. november 2020 kan hunder, katter og ildere forflyttes til Norge fra territorier og tredjestater med helsesertifikater som er utstedt i samsvar med modellen som gjaldt før forordning [(EU) nr. 577/2013](eu/32013r0577) ble endret av forordning [(EU) 2019/1293](eu/32019r1293), og som senest er utstedt 15. juli 2020.
 
@@ -2122,7 +2122,7 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998),1 særlig artikkel 19 nr. 1 første ledd, og
+under henvisning til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998),[^1] særlig artikkel 19 nr. 1 første ledd, og
 
 ut fra følgende betraktninger:
 
@@ -2132,13 +2132,13 @@ ut fra følgende betraktninger:
 4. Infeksjon med *Echinococcus multilocularis* hos hunder faller inn under kategorien av andre sykdommer eller infeksjoner enn rabies som det kreves forebyggende tiltak for å bekjempe, som skal vedtas av Kommisjonen ved hjelp av en delegert rettsakt i samsvar med forordning [(EU) nr. 576/2013](eu/32013r0576). *Echinococcus multilocularis* er en bendelorm som på larvestadiet forårsaker alveolær ekinokokkose, en zoonotisk sykdom som anses som en av de mest alvorlige parasittære sykdommene i ikke-tropiske områder. Der sykdommen er etablert i Europa, omfatter parasittens overføringssyklus vanligvis ville rovdyr, særlig rødrev, som hovedverter og smågnagere som mellomverter.
 5. Tamme hunder og katter som oppholder seg utendørs, kan sporadisk pådra seg infeksjonen når de jager infiserte gnagere. Ifølge dagens kunnskap bidrar imidlertid katter i liten grad til å opprettholde livssyklusen til *Echinococcus multilocularis*, og det er ikke rapportert om at ildrer har fungert som hovedverter. Til tross for løpende overvåking er det foreløpig ikke påvist infeksjon med *Echinococcus multilocularis* hos hovedverter i Irland, Malta, Finland og Det forente kongerike.
 6. Ettersom forflytning av tamme hovedverter der infeksjonen er i inkubasjon eller har brutt ut, anses som en viktig innføringsvei, anbefales det å behandle hunder før de innføres til land der det ikke er registrert funn av parasitten, og der det finnes mottakelige hoved- og mellomverter som gjør at *Echinococcus multilocularis* vil kunne gjennomføre livssyklusen sin, for å redusere risikoen for at infeksjonen innføres til slike land gjennom forflytning av hunder.
-7. Kommisjonen vedtok delegert forordning [(EU) nr. 1152/2011](eu/32011r1152)2 i henhold til europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998)3 for å sikre fortsatt vern av Irland, Malta, Finland og Det forente kongerike, som hevdet å være frie for parasitten *Echinococcus multilocularis* som følge av at de hadde anvendt nasjonale regler fram til 31. desember 2011 i samsvar med artikkel 16 i forordning [(EF) nr. 998/2003](eu/32003r0998). Delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) har forblitt i kraft etter at forordning [(EF) nr. 998/2003](eu/32003r0998) ble opphevet og erstattet av forordning [(EU) nr. 576/2013](eu/32013r0576).
-8. I henhold til forordning [(EU) nr. 1152/2011](eu/32011r1152) skal Kommisjonen ta forordningen opp til ny vurdering senest fem år etter ikrafttredelsen på bakgrunn av den vitenskapelige utviklingen når det gjelder infeksjon med *Echinococcus multilocularis* hos dyr, og framlegge resultatene av vurderingen for Europaparlamentet og Rådet. Det skal særlig vurderes om de forebyggende helsetiltakene er forholdsmessige og vitenskapelig begrunnet. I den forbindelse ba Kommisjonen om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA).4
+7. Kommisjonen vedtok delegert forordning [(EU) nr. 1152/2011](eu/32011r1152)[^2] i henhold til europaparlaments- og rådsforordning [(EF) nr. 998/2003](eu/32003r0998)[^3] for å sikre fortsatt vern av Irland, Malta, Finland og Det forente kongerike, som hevdet å være frie for parasitten *Echinococcus multilocularis* som følge av at de hadde anvendt nasjonale regler fram til 31. desember 2011 i samsvar med artikkel 16 i forordning [(EF) nr. 998/2003](eu/32003r0998). Delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) har forblitt i kraft etter at forordning [(EF) nr. 998/2003](eu/32003r0998) ble opphevet og erstattet av forordning [(EU) nr. 576/2013](eu/32013r0576).
+8. I henhold til forordning [(EU) nr. 1152/2011](eu/32011r1152) skal Kommisjonen ta forordningen opp til ny vurdering senest fem år etter ikrafttredelsen på bakgrunn av den vitenskapelige utviklingen når det gjelder infeksjon med *Echinococcus multilocularis* hos dyr, og framlegge resultatene av vurderingen for Europaparlamentet og Rådet. Det skal særlig vurderes om de forebyggende helsetiltakene er forholdsmessige og vitenskapelig begrunnet. I den forbindelse ba Kommisjonen om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA).[^4]
 9. Resultatene av Kommisjonens vurdering viser at delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) gir en tilstrekkelig ramme for et effektivt vern av medlemsstater som hevder å være frie for parasitten *Echinococcus multilocularis*. Det bør derfor tas hensyn til hovedbestemmelsene i delegert forordning [(EU) nr. 1152/2011 i](eu/32011r1152) denne forordning. Særlig bør rettidig og dokumentert behandling av hunder med et effektivt godkjent eller lisensiert veterinærpreparat før forflytning til medlemsstater som har vist kontinuerlig fravær av parasitten, eller til medlemsstater som har lav prevalens, og som i et strengt begrenset tidsrom har gjennomført et program for utryddelse av parasitten hos den mottakelige dyrepopulasjonen, samt vilkårene for å gi unntak fra denne behandlingen, innarbeides i denne forordning.
-10. Dessuten finnes det ifølge EFSAs uttalelse om infeksjon med *Echinococcus multilocularis* hos dyr4 ingen bevis for at hunder kan opprettholde livssyklusen til *Echinococcus multilocularis* der det ikke forekommer rødrev. I medlemsstater der hunder rapporteres som eneste mulige hovedvert, kan derfor ikke infeksjonen med *Echinococcus multilocularis* bli etablert.
+10. Dessuten finnes det ifølge EFSAs uttalelse om infeksjon med *Echinococcus multilocularis* hos dyr[^4] ingen bevis for at hunder kan opprettholde livssyklusen til *Echinococcus multilocularis* der det ikke forekommer rødrev. I medlemsstater der hunder rapporteres som eneste mulige hovedvert, kan derfor ikke infeksjonen med *Echinococcus multilocularis* bli etablert.
 11. Innføring av avføring fra smittede hunder gjennom forflytning av hunder fra endemiske områder til medlemsstater der infeksjonen ikke kan bli etablert, utgjør imidlertid en risiko for infeksjon hos mennesker i disse områdene som ellers ikke hadde vært til stede, og som kan reduseres ved å anvende forebyggende helsetiltak på hunder som føres inn til slike medlemsstater. For å ha rett til å anvende slike forebyggende helsetiltak bør imidlertid medlemsstater som hevder at de ikke har rødrev som kan være bærere av parasitten *Echinococcus multilocularis*, regelmessig framlegge bevis for dette ved å gjennomføre et program for tidlig påvisning av forekomst av rødrev i noen del av medlemsstaten.
 12. I vurderingen framheves også viktigheten av overvåking i medlemsstater som hevder å være frie for parasitten. Det ble konkludert med at visse sider ved overvåkingen bør revurderes. De nåværende reglene om overvåking i delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) bør derfor tilpasses.
-13. I artikkel 14 nr. 1 i rådsdirektiv [92/65/EØF](eu/31992l0065*)5 angis hvilke opplysninger som skal inngå i den dokumentasjonen en medlemsstat skal framlegge for å få godkjent et obligatorisk program for å utrydde sykdommen. Det bør fastsettes at disse opplysningene tas inn i denne forordning.
+13. I artikkel 14 nr. 1 i rådsdirektiv [92/65/EØF](eu/31992l0065*)[^5] angis hvilke opplysninger som skal inngå i den dokumentasjonen en medlemsstat skal framlegge for å få godkjent et obligatorisk program for å utrydde sykdommen. Det bør fastsettes at disse opplysningene tas inn i denne forordning.
 14. Verdens dyrehelseorganisasjons helseregelverk for landdyr bør brukes ved utarbeiding av erklæringene fra medlemsstater som hevder at deres territorium er fritt for parasitten *Echinococcus multilocularis*.
 15. Malene for dyreidentifikasjonsdokumenter bør brukes til å dokumentere de forebyggende helsetiltakene.
 16. For å garantere rettssikkerhet er det nødvendig å oppheve delegert forordning [(EU) nr. 1152/2011](eu/32011r1152).
@@ -2262,14 +2262,14 @@ Denne forordning fastsetter regler for bruk av forebyggende helsetiltak for å b
    2. andre farmakologisk aktive stoffer som alene eller i kombinasjon har vist seg å redusere angrepet av kjønnsmodne og ikke kjønnsmodne, tarmlevende former av parasitten *Echinococcus multilocularis* hos hunder minst like effektivt som praziqvantel, og
 2. som er tildelt
 
-   1. en markedsføringstillatelse i samsvar med artikkel 5 i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082)6 eller artikkel 3 i europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),7 eller
+   1. en markedsføringstillatelse i samsvar med artikkel 5 i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082)[^6] eller artikkel 3 i europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),[^7] eller
    2. en godkjenning eller lisens fra vedkommende myndighet i avsendertredjestaten til hunden som skal forflyttes for ikke-kommersielle formål.
 
 4\. Behandlingen fastsatt i nr. 1 skal attesteres av
 
 1. den behandlende veterinæren, i det relevante avsnittet av det passet som er utarbeidet i samsvar med malen angitt i
 
-   1. del 1 i vedlegg III til Kommisjonens gjennomføringsforordning [(EU) nr. 577/2013](eu/32013r0577)8 når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra en annen medlemsstat, eller innførsel til en medlemsstat etter forflytning til eller transitt gjennom et territorium eller en tredjestat fra en medlemsstat, i samsvar med artikkel 27 bokstav b) i forordning [(EU) nr. 576/2013](eu/32013r0576), eller
+   1. del 1 i vedlegg III til Kommisjonens gjennomføringsforordning [(EU) nr. 577/2013](eu/32013r0577)[^8] når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra en annen medlemsstat, eller innførsel til en medlemsstat etter forflytning til eller transitt gjennom et territorium eller en tredjestat fra en medlemsstat, i samsvar med artikkel 27 bokstav b) i forordning [(EU) nr. 576/2013](eu/32013r0576), eller
    2. del 3 i vedlegg III til gjennomføringsforordning [(EU) nr. 577/2013](eu/32013r0577) når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra et territorium eller en tredjestat oppført i del 1 i vedlegg II til nevnte gjennomføringsforordning, eller
 2. en offentlig veterinær på opprinnelsesterritoriet eller i opprinnelsestredjestaten, eller av en godkjent veterinær og deretter påtegnet av vedkommende myndighet på opprinnelsesterritoriet eller i opprinnelsestredjestaten, i det relevante avsnittet av det helsesertifikatet som er utarbeidet i samsvar med malen angitt i del 1 i vedlegg IV til gjennomføringsforordning [(EU) nr. 577/2013](eu/32013r0577), når det gjelder ikke-kommersiell forflytning av hunder til territoriet eller deler av territoriet til en medlemsstat som omhandlet i artikkel 3 i denne forordning fra et annet territorium eller en annen tredjestat enn de som er oppført i del 1 i vedlegg II til nevnte gjennomføringsforordning.
 
@@ -2383,15 +2383,15 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998),1 særlig artikkel 20, og
+under henvisning til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998),[^1] særlig artikkel 20, og
 
 ut fra følgende betraktninger:
 
 1. Forordning [(EU) nr. 576/2013](eu/32013r0576) fastsetter regler for ikke-kommersiell forflytning av hunder, katter og ildrer til medlemsstatene. Ved artikkel 19 fastsettes framfor alt at det kan anvendes forebyggende helsetiltak for å sikre bekjempelse av andre sykdommer og infeksjoner enn rabies som kan spres gjennom forflytning av disse dyrene.
 2. Artikkel 19 i forordning [(EU) nr. 576/2013](eu/32013r0576) fastsetter også at det kan vedtas regler for kategorisering av medlemsstater eller deler av medlemsstater etter deres dyrehelsetilstand og deres overvåkings- og meldingssystemer med hensyn til visse andre sykdommer eller infeksjoner enn rabies. Medlemsstater eller deler av medlemsstater som oppfyller disse kategoriseringsreglene, kan føres opp på en liste som skal vedtas i henhold til artikkel 20 i nevnte forordning.
-3. I samsvar med artikkel 19 nr. 1 i forordning [(EU) nr. 576/2013](eu/32013r0576) har Kommisjonen vedtatt delegert forordning [(EU) 2018/772](eu/32018r0772),2 som tillater anvendelse av forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder, og som fastsetter reglene for kategorisering av medlemsstater eller deler av medlemsstater med hensyn til nevnte infeksjon samt vilkårene som medlemsstatene må oppfylle for å beholde retten til å anvende slike forebyggende helsetiltak.
+3. I samsvar med artikkel 19 nr. 1 i forordning [(EU) nr. 576/2013](eu/32013r0576) har Kommisjonen vedtatt delegert forordning [(EU) 2018/772](eu/32018r0772),[^2] som tillater anvendelse av forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder, og som fastsetter reglene for kategorisering av medlemsstater eller deler av medlemsstater med hensyn til nevnte infeksjon samt vilkårene som medlemsstatene må oppfylle for å beholde retten til å anvende slike forebyggende helsetiltak.
 4. Kategoriseringsreglene fastsatt i delegert kommisjonsforordning [(EU) 2018/772](eu/32018r0772) omfatter de vilkårene som medlemsstatene må oppfylle for å kunne dokumentere enten at vill rødrev ikke finnes på deres territorium, eller, dersom ville hovedverter som kan være bærere av parasitten *Echinococcus multilocularis*, forekommer på hele eller deler av deres territorium, at det ikke er registrert infeksjon med *Echinococcus multilocularis* hos disse dyrene. Medlemsstater eller deler av medlemsstater som i samsvar med artikkel 20 i forordning [(EU) nr. 576/2013](eu/32013r0576) er oppført på en liste over medlemsstater som overholder disse kategoriseringsreglene, har rett til å anvende de forebyggende helsetiltakene fastsatt i delegert kommisjonsforordning [(EU) 2018/772](eu/32018r0772).
-5. Delegert forordning [(EU) 2018/772](eu/32018r0772) er ment å erstatte delegert kommisjonsforordning [(EU) nr. 1152/2011](eu/32011r1152),3 som inneholder lignende forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder, og der Finland, Irland, Malta og Det forente kongerike er oppført som de medlemsstatene som har rett til å anvende disse tiltakene. Finland, Irland, Malta og Det forente kongerike har beholdt retten til å anvende disse forebyggende helsetiltakene i samsvar med vilkårene fastsatt i delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) fordi de løpende har dokumentert at parasitten *Echinococcus multilocularis* ikke finnes hos deres populasjoner av ville hovedverter, eller, for Maltas vedkommende, har dokumentert at det ikke finnes noen egnet populasjon av ville hovedverter på øya, og at parasitten *Echinococcus multilocularis* aldri er blitt påvist hos tamme hovedverter.
+5. Delegert forordning [(EU) 2018/772](eu/32018r0772) er ment å erstatte delegert kommisjonsforordning [(EU) nr. 1152/2011](eu/32011r1152),[^3] som inneholder lignende forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder, og der Finland, Irland, Malta og Det forente kongerike er oppført som de medlemsstatene som har rett til å anvende disse tiltakene. Finland, Irland, Malta og Det forente kongerike har beholdt retten til å anvende disse forebyggende helsetiltakene i samsvar med vilkårene fastsatt i delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) fordi de løpende har dokumentert at parasitten *Echinococcus multilocularis* ikke finnes hos deres populasjoner av ville hovedverter, eller, for Maltas vedkommende, har dokumentert at det ikke finnes noen egnet populasjon av ville hovedverter på øya, og at parasitten *Echinococcus multilocularis* aldri er blitt påvist hos tamme hovedverter.
 6. Ifølge Den internasjonale naturvernunion finnes ikke vill rødrev i noen del av Malta. På grunnlag av dette og dokumentasjonen nevnt i betraktning 5) anses Malta for å overholde reglene for kategorisering fastsatt i artikkel 2 nr. 2 i delegert forordning [(EU) 2018/772](eu/32018r0772) for hele sitt territorium. Malta bør derfor føres opp som en medlemsstat som overholder disse kategoriseringsreglene for hele sitt territorium.
 7. En populasjon av ville hovedverter som kan være bærere av parasitten *Echinococcus multilocularis*, nemlig en populasjon av rødrev, finnes i hele Finland, Irland og Det forente kongerike. Siden 1. januar 2012 har alle de tre medlemsstatene gjennomført programmer for patogenspesifikk overvåking av sine rødrevpopulasjoner i samsvar med kravene i delegert forordning [(EU) nr. 1152/2011](eu/32011r1152), og ikke i noen av tilfellene er det registrert infeksjon med *Echinococcus multilocularis* hos disse populasjonene. Enhver forekomst av infeksjonen er meldepliktig i henhold til deres nasjonale rett. Det anses derfor at Finland, Irland og Det forente kongerike overholder reglene for kategorisering fastsatt i artikkel 2 nr. 3 i delegert forordning [(EU) 2018/772](eu/32018r0772) for hele sitt territorium. Finland, Irland og Det forente kongerike bør derfor føres opp som medlemsstater som overholder disse kategoriseringsreglene for hele sitt territorium.
 8. I delegert kommisjonsforordning [(EU) 2018/772](eu/32018r0772) er det fastsatt at delegert forordning [(EU) nr. 1152/2011](eu/32011r1152) oppheves med virkning fra 1. juli 2018. For å unngå opphold i anvendelsen av forebyggende helsetiltak på hunder som innføres til Finland, Irland, Malta og Det forente kongerike, bør denne forordning tre i kraft dagen etter at den er kunngjort i Den *europeiske unions tidende* og få anvendelse fra 1. juli 2018.
@@ -2445,7 +2445,7 @@ Liste over medlemsstater som for hele sitt territorium overholder reglene for ka
 ►**M1**
 
 ### DEL 2
-Liste over medlemsstater\* eller deler herav som overholder reglene for kategorisering i artikkel 2 nr. 3 i delegert forordning (EU) 2018/772
+Liste over medlemsstater[^\*] eller deler herav som overholder reglene for kategorisering i artikkel 2 nr. 3 i delegert forordning (EU) 2018/772
 
 |  | *Kode* | *Hele eller deler av området* |
 | --- | --- | --- |

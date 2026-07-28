@@ -15,7 +15,7 @@ xml_hash: "7a1611f8ba830b9d622dcfe46f9e18d78b0355a249c48c17713727d0f3ab079f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,15 +50,15 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1 særlig artikkel 4 nr. 4, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,[^1] særlig artikkel 4 nr. 4, og
 
 ut fra følgende betraktninger:
 
 1. Forordning [(EF) nr. 852/2004](eu/32004r0852*) har som mål å sikre et høyt nivå av forbrukervern med hensyn til næringsmiddeltrygghet. Den definerer «næringsmiddelhygiene» som et sett av tiltak og vilkår som er nødvendige for å kontrollere farer og sikre at et næringsmiddel er egnet til konsum med hensyn til dets bruksområde. Risikoer for næringsmiddeltryggheten oppstår når næringsmiddelet er utsatt for farlige stoffer som fører til forurensning av næringsmiddelet. Næringsmiddelfarer kan være biologiske, kjemiske eller fysiske.
-2. Akrylamid er et forurensende stoff som definert i rådsforordning [(EØF) nr. 315/93](eu/31993r0315)2 og utgjør som sådan en kjemisk fare i næringsmiddelkjeden.
+2. Akrylamid er et forurensende stoff som definert i rådsforordning [(EØF) nr. 315/93](eu/31993r0315)[^2] og utgjør som sådan en kjemisk fare i næringsmiddelkjeden.
 3. Akrylamid er en organisk forbindelse med lav molekylvekt, som er svært lett løselig i vann, som dannes av de naturlig forekommende bestanddelene asparagin og sukker i visse næringsmidler når de tilberedes ved temperaturer som vanligvis er høyere enn 120 °C og med lavt vanninnhold. Det dannes i hovedsak i ovnsbakte eller frityrstekte karbohydratrike næringsmidler der råvarene inneholder forløpere til akrylamid, f.eks. korn, poteter og kaffebønner.
-4. Ettersom akrylamidinnholdet i visse næringsmidler synes å være betydelig høyere enn innholdet i sammenlignbare produkter i samme produktkategori, ble medlemsstatenes vedkommende myndigheter i kommisjonsrekommandasjon [2013/647/EU](eu/32013h0647)3 oppfordret til å foreta undersøkelser av produksjons- og bearbeidingsmetodene som brukes av driftsansvarlige for næringsmiddelforetak dersom akrylamidinnholdet som påvises i et gitt næringsmiddel, overskrider de veiledende grenseverdiene fastsatt i vedlegget til denne rekommandasjonen.
-5. Vitenskapsgruppen for forurensende stoffer i næringsmiddelkjeden (CONTAM-gruppen) ved Den europeiske myndighet for næringsmiddeltrygghet (EFSA) vedtok i 2015 en uttalelse om akrylamid i næringsmidler.4 På grunnlag av dyreforsøk bekrefter EFSA tidligere vurderinger som viser at akrylamid i næringsmidler potensielt kan øke risikoen for å utvikle kreft hos forbrukere i alle aldersgrupper. Ettersom akrylamid finnes i en lang rekke dagligdagse næringsmidler, gjelder dette for alle forbrukere, men barn er den mest utsatte aldersgruppen på grunnlag av kroppsvekten. Mulige skadelige virkninger av akrylamid på nervesystemet, utviklingen før og etter fødselen og mannlig forplantningsevne ble ikke ansett å være et problem på grunnlag av de nåværende nivåene for eksponering gjennom kosten. De nåværende nivåene for eksponering for akrylamid gjennom kosten på tvers av aldersgrupper viser derimot at det kan være et problem med hensyn til dets kreftframkallende virkninger.
+4. Ettersom akrylamidinnholdet i visse næringsmidler synes å være betydelig høyere enn innholdet i sammenlignbare produkter i samme produktkategori, ble medlemsstatenes vedkommende myndigheter i kommisjonsrekommandasjon [2013/647/EU](eu/32013h0647)[^3] oppfordret til å foreta undersøkelser av produksjons- og bearbeidingsmetodene som brukes av driftsansvarlige for næringsmiddelforetak dersom akrylamidinnholdet som påvises i et gitt næringsmiddel, overskrider de veiledende grenseverdiene fastsatt i vedlegget til denne rekommandasjonen.
+5. Vitenskapsgruppen for forurensende stoffer i næringsmiddelkjeden (CONTAM-gruppen) ved Den europeiske myndighet for næringsmiddeltrygghet (EFSA) vedtok i 2015 en uttalelse om akrylamid i næringsmidler.[^4] På grunnlag av dyreforsøk bekrefter EFSA tidligere vurderinger som viser at akrylamid i næringsmidler potensielt kan øke risikoen for å utvikle kreft hos forbrukere i alle aldersgrupper. Ettersom akrylamid finnes i en lang rekke dagligdagse næringsmidler, gjelder dette for alle forbrukere, men barn er den mest utsatte aldersgruppen på grunnlag av kroppsvekten. Mulige skadelige virkninger av akrylamid på nervesystemet, utviklingen før og etter fødselen og mannlig forplantningsevne ble ikke ansett å være et problem på grunnlag av de nåværende nivåene for eksponering gjennom kosten. De nåværende nivåene for eksponering for akrylamid gjennom kosten på tvers av aldersgrupper viser derimot at det kan være et problem med hensyn til dets kreftframkallende virkninger.
 6. Som følge av EFSAs konklusjoner med hensyn til akrylamids kreftframkallende virkninger og ettersom næringsmiddelforetakene ikke behøver å treffe noen konsekvente og obligatoriske tiltak for å senke akrylamidinnholdet, er det nødvendig å sikre næringsmiddeltryggheten og redusere forekomsten av akrylamid i næringsmidler når råvarene inneholder forløpere til akrylamid, ved å fastsette egnede begrensende tiltak. Akrylamidinnholdet kan senkes gjennom begrensende tiltak, som for eksempel gjennomføring av god hygienepraksis og anvendelse av framgangsmåter basert på prinsippene om risikoanalyse og kritiske styringspunkter (HACCP-prinsippene).
 7. I samsvar med artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*) skal de driftsansvarlige for næringsmiddelforetak følge de framgangsmåtene som er nødvendige for å oppfylle mål som er fastsatt for å oppnå målsettingene i nevnte forordning, og utføre prøvetaking og analyse som er relevant for opprettholde sine egne prestasjoner. I den forbindelse kan fastsettelse av mål, f.eks. referansenivåer, være en rettesnor for gjennomføring av hygienereglene, samtidig som de sikrer en reduksjon av eksponeringen for visse farer. Begrensende tiltak vil redusere forekomsten av akrylamid i næringsmidler. For å kontrollere at referansenivåene overholdes, bør effektiviteten av begrensende tiltak verifiseres ved prøvetaking og analyse.
 8. Det bør derfor fastsettes begrensende tiltak som identifiserer de trinnene i næringsmiddelbearbeidingen hvor det kan dannes akrylamid i næringsmidler, og det bør fastsettes tiltak for å redusere akrylamidinnholdet i disse næringsmidlene.
@@ -67,7 +67,7 @@ ut fra følgende betraktninger:
 11. Kommisjonen bør regelmessig gjennomgå referansenivåene med sikte på å fastsette lavere nivåer, som gjenspeiler den kontinuerlige reduksjonen av forekomsten av akrylamid i næringsmidler.
 12. Driftsansvarlige for næringsmiddelforetak som produserer næringsmidler som omfattes av denne forordning, og som driver detaljsalg og/eller leverer direkte bare til lokale detaljister, er vanligvis små operatører. De begrensende tiltakene er derfor tilpasset arten av deres virksomhet. Driftsansvarlige for næringsmiddelforetak som er en del av, eller er franchisetakere innen en større, sammenkoplet virksomhet, og som får forsyninger levert sentralt, bør imidlertid iverksette ytterligere begrensende tiltak som kan brukes i praksis for større foretak, ettersom disse tiltakene ytterligere reduserer forekomsten av akrylamid i næringsmidler og kan brukes i praksis av slike foretak.
 13. Effektiviteten av de begrensende tiltakene for å redusere akrylamidinnholdet bør kontrolleres ved prøvetaking og analyse. Det bør fastsettes krav til den prøvetakingen og analysen som skal utføres av driftsansvarlige for næringsmiddelforetak. Når det gjelder prøvetaking bør det fastsettes analysekrav og prøvetakingsfrekvens for å sikre at de oppnådde analyseresultatene er representative for deres produksjon. Driftsansvarlige for næringsmiddelforetak som produserer næringsmidler som omfattes av denne forordning, og som driver detaljsalg og/eller leverer direkte bare til lokale detaljister, er fritatt fra plikten til å ta prøver og analysere sin produksjon for forekomsten av akrylamid, ettersom et slikt krav vil medføre en uforholdsmessig stor byrde for deres virksomhet.
-14. I tillegg til de driftsansvarliges prøvetaking og analyse, skal medlemsstatene i henhold til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*)5 regelmessig utføre offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket overholdes. Prøvetakingen og analysen som utføres av medlemsstatene innenfor rammen av offentlige kontroller, bør være i samsvar med framgangsmåtene for prøvetaking og analysekriterier fastsatt ved anvendelse av forordning [(EF) nr. 882/2004](eu/32004r0882*).
+14. I tillegg til de driftsansvarliges prøvetaking og analyse, skal medlemsstatene i henhold til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*)[^5] regelmessig utføre offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket overholdes. Prøvetakingen og analysen som utføres av medlemsstatene innenfor rammen av offentlige kontroller, bør være i samsvar med framgangsmåtene for prøvetaking og analysekriterier fastsatt ved anvendelse av forordning [(EF) nr. 882/2004](eu/32004r0882*).
 15. Som et supplement til tiltakene fastsatt i denne forordning, bør det overveies å fastsette øvre grenseverdier for akrylamid i visse næringsmidler i samsvar med forordning [(EØF) nr. 315/93](eu/31993r0315) etter at denne forordningen er trådt i kraft.
 16. De driftsansvarlige for næringsmiddelforetaks gjennomføring av begrensende tiltak kan innebære endringer i deres nåværende produksjonsprosess, og det bør derfor fastsettes en overgangsperiode før tiltakene fastsatt i denne forordning får anvendelse.
 17. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
@@ -100,7 +100,7 @@ VEDTATT DENNE FORORDNING:
    1. Brent kaffe.
    2. Pulverkaffe (oppløselig).
 7. Kaffeerstatninger.
-8. Barnemat og bearbeidede kornbaserte næringsmidler beregnet på spedbarn og småbarn som definert i europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609).6
+8. Barnemat og bearbeidede kornbaserte næringsmidler beregnet på spedbarn og småbarn som definert i europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609).[^6]
 
 6 Europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) av 12. juni 2013 om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), [1999/21/EF](eu/31999l0021*), [2006/125/EF](eu/32006l0125) og [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og (EF) [nr. 953/2009](eu/32009r0953) (EUT L 181 av 29.6.2013, s. 35).
 
@@ -118,7 +118,7 @@ VEDTATT DENNE FORORDNING:
 
 I denne forordning menes med
 
-1. «næringsmidler», «driftsansvarlig for næringsmiddelforetak», «detaljhandel», «bringe i omsetning» og «sluttforbruker» de definisjonene som er fastsatt i artikkel 2 og 3 europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).7
+1. «næringsmidler», «driftsansvarlig for næringsmiddelforetak», «detaljhandel», «bringe i omsetning» og «sluttforbruker» de definisjonene som er fastsatt i artikkel 2 og 3 europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).[^7]
 2. «referansenivåer» ytelsesindikatorer som brukes til å kontrollere effektiviteten av de begrensende tiltakene, og som bygger på erfaringer og forekomst for store næringsmiddelkategorier.
 
 7 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
@@ -164,7 +164,7 @@ Utferdiget i Brussel 20. november 2017.
 ### VEDLEGG I
 BEGRENSENDE TILTAK NEVNT I ARTIKKEL 2 NR. 1
 
-Dersom de begrensende tiltakene nevnt i dette vedlegg omfatter bruk av tilsetningsstoffer i næringsmidler og andre stoffer, skal tilsetningsstoffene i næringsmidler og andre stoffer brukes i samsvar med bestemmelsene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332)8 og (EF) [nr. 1333/2008](eu/32008r1333)9 samt kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231).10
+Dersom de begrensende tiltakene nevnt i dette vedlegg omfatter bruk av tilsetningsstoffer i næringsmidler og andre stoffer, skal tilsetningsstoffene i næringsmidler og andre stoffer brukes i samsvar med bestemmelsene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332)[^8] og (EF) [nr. 1333/2008](eu/32008r1333)[^9] samt kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231).[^10]
 
 I.
 
@@ -214,7 +214,7 @@ PRODUKTER BASERT PÅ RÅ POTETER
 
       *Informasjon til sluttbrukerne*
 
-      1. For sluttbrukerne skal de driftsansvarlige angi anbefalte tilberedningsmetoder med angivelse av tid, temperatur, mengde for stekeovn/frityrapparat/stekepanne på emballasjen og/eller via andre kommunikasjonskanaler. For forbrukerne skal de anbefalte tilberedningsanvisningene vises godt synlig på all produktemballasje i samsvar med europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*)11 om næringsmiddelopplysninger til forbrukerne.
+      1. For sluttbrukerne skal de driftsansvarlige angi anbefalte tilberedningsmetoder med angivelse av tid, temperatur, mengde for stekeovn/frityrapparat/stekepanne på emballasjen og/eller via andre kommunikasjonskanaler. For forbrukerne skal de anbefalte tilberedningsanvisningene vises godt synlig på all produktemballasje i samsvar med europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*)[^11] om næringsmiddelopplysninger til forbrukerne.
 
          De anbefalte tilberedningsmetodene skal være i samsvar med kundens spesifikasjoner og krav fra profesjonelle sluttbrukere, og de skal valideres per produkttype for å sikre at produktene har optimal organoleptisk kvalitet ved den lyseste akseptable fargen, per angitt tilberedningsmetode (f.eks. frityrapparat eller stekeovn), og har et akrylamidinnhold som ligger under referansenivået fastsatt i vedlegg IV.
 
@@ -403,7 +403,7 @@ Dersom kaffeerstatninger ikke utelukkende består av sikori, dvs. om sikoriinnho
 
 VIII.
 
-KJEKS OG KORNBASERTE NÆRINGSMIDLER TIL SPEDBARN OG SMÅBARN12
+KJEKS OG KORNBASERTE NÆRINGSMIDLER TIL SPEDBARN OG SMÅBARN[^12]
 
 For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:
 
@@ -437,7 +437,7 @@ De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gj
 
 IX.
 
-BARNEMAT PÅ GLASS (NÆRINGSMIDDEL MED LAVT SYREINNHOLD OG BASERT PÅ SVISKER13
+BARNEMAT PÅ GLASS (NÆRINGSMIDDEL MED LAVT SYREINNHOLD OG BASERT PÅ SVISKER[^13]
 
 1. Til framstilling av barnemat på glass skal de driftsansvarlige velge råvarer med lavt innhold av forløpere til akrylamid, f.eks. reduserende sukker som fruktose, glukose og asparagin.
 2. For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:
@@ -569,7 +569,7 @@ I.*Prøvetaking*
 II.*Analyse*
 
 1. De driftsansvarlige skal framlegge tilstrekkelige data for å muliggjøre en vurdering av akrylamidinnholdet og av sannsynligheten for at produkttypen kan overskride referansenivået.
-2. Prøven skal analyseres i et laboratorium som deltar i relevante ordninger for egnethetsprøving (som er i samsvar med «International Harmonised Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories»14 utarbeidet i regi av IUPAC/ISO/AOAC) og bruker godkjente analysemetoder for påvisning og mengdebestemmelse. Laboratoriene skal kunne vise at de har tatt i bruk prosedyrer for intern kvalitetskontroll. Eksempler på slike er å finne i «ISO/AOAC/IUPAC Guidelines on Internal Quality Control in Analytical Chemistry Laboratories»15.
+2. Prøven skal analyseres i et laboratorium som deltar i relevante ordninger for egnethetsprøving (som er i samsvar med «International Harmonised Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories»[^14] utarbeidet i regi av IUPAC/ISO/AOAC) og bruker godkjente analysemetoder for påvisning og mengdebestemmelse. Laboratoriene skal kunne vise at de har tatt i bruk prosedyrer for intern kvalitetskontroll. Eksempler på slike er å finne i «ISO/AOAC/IUPAC Guidelines on Internal Quality Control in Analytical Chemistry Laboratories»[^15].
 
    Dersom det er mulig, skal analysens nøyaktighet vurderes ved å inkludere egnet sertifisert referansemateriale i analysen.
 3. Den analysemetoden som brukes for analyse av akrylamid, skal oppfylle følgende ytelseskriterier.
@@ -619,8 +619,8 @@ Referansenivåene for forekomsten av akrylamid i næringsmidler som nevnt i arti
 | b. Annet mykt brød enn brød framstilt av hvete | 100 |
 | Frokostkorn (unntatt grøt) |  |
 | – Kliprodukter og kornvarer med hele korn, puffet korn | 300 |
-| – Produkter framstilt av hvete og rug1 | 300 |
-| – Produkter framstilt av mais, havre, spelthvete, bygg og ris1 | 150 |
+| – Produkter framstilt av hvete og rug[^1] | 300 |
+| – Produkter framstilt av mais, havre, spelthvete, bygg og ris[^1] | 150 |
 | Kjeks og vaffelkjeks | 350 |
 | Kjeks unntatt kjeks framstilt av poteter | 400 |
 | Knekkebrød | 350 |
@@ -630,10 +630,10 @@ Referansenivåene for forekomsten av akrylamid i næringsmidler som nevnt i arti
 | Pulverkaffe (oppløselig) | 850 |
 | Kaffeerstatninger |  |
 | a. Kaffeerstatninger utelukkende framstilt av korn | 500 |
-| b. Kaffeerstatninger framstilt av en blanding av korn og sikori | 2 |
+| b. Kaffeerstatninger framstilt av en blanding av korn og sikori | [^2] |
 | c. Kaffeerstatninger utelukkende framstilt av sikori | 4 000 |
-| Barnemat, bearbeidede kornbaserte næringsmidler for spedbarn og småbarn, unntatt kjeks og kavringer3 | 40 |
-| Kjeks og kavringer for spedbarn og småbarn3 | 150 |
+| Barnemat, bearbeidede kornbaserte næringsmidler for spedbarn og småbarn, unntatt kjeks og kavringer[^3] | 40 |
+| Kjeks og kavringer for spedbarn og småbarn[^3] | 150 |
 
 1 Kornvarer uten hele korn og/eller uten kli. Kategorien blir bestemt av kornslaget det er mest av.
 

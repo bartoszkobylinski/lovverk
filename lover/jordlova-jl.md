@@ -15,7 +15,7 @@ xml_hash: "26519362b7aac778b0276a6117ceaccb9d6fdf3367e889e7cd6a46661fc6c9e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -190,13 +190,13 @@ Med bøter straffast den som forsettleg bryt forbodet mot omdisponering i [§ 9]
 
 ## II.
 
-Frå den tida1 Kongen fastset, skal følgjande føresegner i andre lover endrast slik: – – –
+Frå den tida[^1] Kongen fastset, skal følgjande føresegner i andre lover endrast slik: – – –
 
 1 Frå 1 juli 1995 iflg. [res. 12 mai 1995 nr. 412](forskrift/1995-05-12-412).
 
 ## III.
 
-Lovendringane gjeld frå den tid1 Kongen fastset.
+Lovendringane gjeld frå den tid[^1] Kongen fastset.
 
 Frå same tid held [lov av 18. mars 1955 nr. 2](lov/1955-03-18-2) om tilskiping av jordbruk (jordlova), [lov av 18. mars 1949 nr. 5](lov/1949-03-18-5) om vern mot jordøydelegging og [lov av 11. mai 1984 nr. 26](lov/1984-05-11-26) om endringar i jordlova, opp å gjelda.
 

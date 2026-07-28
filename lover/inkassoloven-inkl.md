@@ -15,7 +15,7 @@ xml_hash: "5c5a903bec88ba4ace7ab8d039ac477ff5f16db1efcfe6d6ed399bd192ff3a96"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,7 +75,7 @@ Inkassobevilling til stadig og ervervsmessig å inndrive forfalte pengekrav for 
 1. den eller de som faktisk leder inkassovirksomheten har inkassobevilling etter annet ledd,
 2. styremedlemmer, daglig leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,
 3. styremedlemmer og daglig leder har lagt frem politiattest,
-4. inkassovirksomheten drives fra fast forretningssted innenfor EØS,1 og
+4. inkassovirksomheten drives fra fast forretningssted innenfor EØS,[^1] og
 5. foretaket har stilt sikkerhet som nevnt i [§ 29](lov/1988-05-13-26/§29).
 
 Inkassobevilling etter første ledd bokstav a gis etter søknad til personer som anses egnet til å være faktisk leder for foretak som stadig og ervervsmessig inndriver forfalte pengekrav for andre. Søkeren må fremlegge politiattest og godtgjøre å ha minst tre års praktisk erfaring med inndriving av pengekrav i løpet av de siste ti år. For godkjenning av personer med statsborgerskap fra en EØS-stat eller Sveits, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits, samt personer fra tredjeland som omfattes av direktiv [2004/38/EF](eu/32004l0038*), gjelder reglene i yrkeskvalifikasjonsloven.
@@ -313,7 +313,7 @@ Tilsyn med inkassovirksomhet som drives i medhold av en inkassobevilling etter [
 
 Finanstilsynet tildeler og inndrar inkassobevillinger, jf. [§§ 5](lov/1988-05-13-26/§5) og [31](lov/1988-05-13-26/§31).
 
-Finanstilsynet kan gi inkassatorer som driver inkassovirksomhet i medhold av bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om å endre praksis som medfører fare for overtredelser av loven her eller av lov om Finanstilsynet.1 Finanstilsynet kan gi en eier med betydelig eierandel i foretak som har bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om retting dersom han ikke er egnet etter [§ 5](lov/1988-05-13-26/§5).
+Finanstilsynet kan gi inkassatorer som driver inkassovirksomhet i medhold av bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om å endre praksis som medfører fare for overtredelser av loven her eller av lov om Finanstilsynet.[^1] Finanstilsynet kan gi en eier med betydelig eierandel i foretak som har bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om retting dersom han ikke er egnet etter [§ 5](lov/1988-05-13-26/§5).
 
 Finanstilsynet kan nedlegge forbud mot inkassovirksomheten dersom ett eller flere av vilkårene i [§ 4](lov/1988-05-13-26/§4) og [§ 5](lov/1988-05-13-26/§5) første, tredje og fjerde ledd ikke er oppfylt for inkassovirksomhet som drives i medhold av inkassobevilling etter [§ 5](lov/1988-05-13-26/§5). Finanstilsynet kan i stedet gi inkassatoren en frist for å oppfylle vilkårene.
 
@@ -361,7 +361,7 @@ Den som uaktsomt overtrer første ledd, straffes med bøter.
 
 ### § 33. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 > Endret ved lov [20 des 2002 nr. 106](lov/2002-12-20-106) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1616](forskrift/2002-12-20-1616)), tidligere § 27.
 

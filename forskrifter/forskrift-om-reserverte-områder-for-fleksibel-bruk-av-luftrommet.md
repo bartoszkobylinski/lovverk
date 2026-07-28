@@ -15,7 +15,7 @@ xml_hash: "5cbaf8e58bbd7adfc385ed2ffb22dc181d25c4ac70f6c5ec10b1fc439599eee1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Ved akutte eller uavklarte militære situasjoner kan Forsvaret fravike begrensni
 
 ## § 5. Publisering
 
-Den felles sivil-militære enheten for styring av luftrommet (AMC)1 er ansvarlig for at enhver planlagt bruk av reserverte områder etter denne forskriften blir publisert på NOTAM, og for at kontaktinformasjon for luftromsbrukere som kan be om særskilt adgang til områdene fremkommer av enten AIP Norge, NOTAM eller som bestemt av Luftfartstilsynet.
+Den felles sivil-militære enheten for styring av luftrommet (AMC)[^1] er ansvarlig for at enhver planlagt bruk av reserverte områder etter denne forskriften blir publisert på NOTAM, og for at kontaktinformasjon for luftromsbrukere som kan be om særskilt adgang til områdene fremkommer av enten AIP Norge, NOTAM eller som bestemt av Luftfartstilsynet.
 
 1 Jf. [forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 30](forskrift/2021-12-14-3530/§30).
 

@@ -15,7 +15,7 @@ xml_hash: "c0070cf25dc86ed5fc5fed05aab63d18dc0826236bc9f804390bcbfe486d6b3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,6 +32,6 @@ Meldinger som er mottatt eller er under behandling i fylkeskommunen når loven t
 
 ## § 3. Ikraftsetting
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2020 iflg. [res. 13 des 2019 nr. 1751](forskrift/2019-12-13-1751).

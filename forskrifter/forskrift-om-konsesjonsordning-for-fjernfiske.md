@@ -15,7 +15,7 @@ xml_hash: "42ab334678a4c59800af5eb51872968b236a8f79b3ba0c35f2580757967e6042"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,7 @@ Fiskeridirektoratet kan tilbakekalle en fjernfisketillatelse etter [deltakerlove
 
 ## § 8. Overtredelsesgebyr
 
-Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til [deltakerloven § 28](lov/1999-03-26-15/§28) og forskrift 20. desember 2011 nr. 14771 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til [deltakerloven § 28](lov/1999-03-26-15/§28) og forskrift 20. desember 2011 nr. 1477[^1] om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.
 
 > Endret ved [forskrift 1 sep 2017 nr. 1325](forskrift/2017-09-01-1325).
 

@@ -15,7 +15,7 @@ xml_hash: "2c5d25aed037604e748f3d1bbe1fbb066604a7b015656dc148759060cf87475c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -186,7 +186,7 @@ Denne forskrift trer i kraft 1. juli 2001.
 Fra samme tidspunkt oppheves:
 
 - [Forskrift av 14. november 1994 nr. 1289](forskrift/1994-11-14-1289) om flymaskinistsertifikat (BSL C 5-2).
-- Forskrift av 1. mars 19721 om navigatørsertifikat (BSL C 5-1).
-- Forskrift av 1. mars 19721 om flytelegrafist sertifikat (BSL C 5-3).
+- Forskrift av 1. mars 1972[^1] om navigatørsertifikat (BSL C 5-1).
+- Forskrift av 1. mars 1972[^1] om flytelegrafist sertifikat (BSL C 5-3).
 
 1 Ikke tidligere kunngjort i Norsk Lovtidend.

@@ -15,7 +15,7 @@ xml_hash: "65342eeeaa491ff5ea72f0dc7805aabae4ca275726940a77fe2f3b3aebb7fcfc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,20 +33,20 @@ I medhold av vedkommende bestemmelser i sjøfartsloven bestemmes:
 1. Til kap. 7 (felleshavari).
 
    1. York-Antwerpen-reglene (jfr. § 211) kunngjøres i samsvar med et framlagt utkast.
-   2. Handelsdepartementet1 er fagdepartement etter § 217 annet ledd.
+   2. Handelsdepartementet[^1] er fagdepartement etter § 217 annet ledd.
 
-      Myndigheten til å gi nærmere bestemmelser etter § 217 fjerde ledd om dispasjørenes virksomhet legges til Handelsdepartementet.1
-   3. Myndigheten til å gi nærmere bestemmelser etter § 218 annet ledd om dispasjøreksamen og eksamenkommisjonen legges til Kirkedepartementet.2
+      Myndigheten til å gi nærmere bestemmelser etter § 217 fjerde ledd om dispasjørenes virksomhet legges til Handelsdepartementet.[^1]
+   3. Myndigheten til å gi nærmere bestemmelser etter § 218 annet ledd om dispasjøreksamen og eksamenkommisjonen legges til Kirkedepartementet.[^2]
 2. Til kap. 13 (skipsbøker, sjøforklaring, sjørettsskjønn).
 
    1. Myndigheten til å gi regler etter § 300 første ledd om føring av skipsbøker legges til Sjøfartsdirektoratet.
-   2. Myndigheten til å treffe bestemmelse og gi forskrifter etter § 308 tredje ledds siste punktum legges til Handelsdepartementet.1
+   2. Myndigheten til å treffe bestemmelse og gi forskrifter etter § 308 tredje ledds siste punktum legges til Handelsdepartementet.[^1]
    3. Myndigheten til å nedsette undersøkelseskommisjon etter § 314 og til å gi nærmere regler om kommisjonen legges til Justisdepartementet.
-   4. Myndigheten til å gi forskrifter etter § 322 legges til Handelsdepartementet1 for så vidt gjelder forskrifter til utfylling og gjennomføring av reglene om sjøforklaring (lovens § 301 flg.) og til Justisdepartementet for så vidt gjelder forskrifter til utfylling og gjennomføring av reglene om sjørettsskjønn (lovens § 316 flg.).
+   4. Myndigheten til å gi forskrifter etter § 322 legges til Handelsdepartementet[^1] for så vidt gjelder forskrifter til utfylling og gjennomføring av reglene om sjøforklaring (lovens § 301 flg.) og til Justisdepartementet for så vidt gjelder forskrifter til utfylling og gjennomføring av reglene om sjørettsskjønn (lovens § 316 flg.).
 3. Til kap. 14 (forskjellige bestemmelser).
 
    1. Myndigheten til å gi regler etter § 323 nr. 1, 2, 3, 5, 6 og 7 legges til Sjøfartsdirektoratet.
-   2. Myndigheten til å fastsette bestemmelser etter § 325 første ledd legges til Direktoratet for sjømenn.3
+   2. Myndigheten til å fastsette bestemmelser etter § 325 første ledd legges til Direktoratet for sjømenn.[^3]
 
 1 Nå Nærings- og handelsdepartementet (Lovdatas anm.).
 
@@ -69,9 +69,9 @@ I medhold av lov 18. juli 1958 om utenrikstjenesten §§ 2 og 22 og lov 13. augu
 
 I medhold av lov 18. desember 1959 om betaling for rettsforretninger § 87 annet ledd bestemmes:
 
-Myndigheten til å gi nærmere forskrifter om betaling til domsmenn ved konsulretten etter § 87 annet ledds fjerde punktum, jfr. tredje punktum, legges til Direktoratet for sjømenn.1
+Myndigheten til å gi nærmere forskrifter om betaling til domsmenn ved konsulretten etter § 87 annet ledds fjerde punktum, jfr. tredje punktum, legges til Direktoratet for sjømenn.[^1]
 
-Utkastet under II lyder:2
+Utkastet under II lyder:[^2]
 
 – – –
 

@@ -15,7 +15,7 @@ xml_hash: "46976eda4e83d72a1f4292b3080cc6f3960190b950a67eb6aa22d1b4315cfac6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Med helsepersonell menes i denne lov:
 2. personell i helse- og omsorgstjenesten eller i apotek som utfører handlinger som nevnt i tredje ledd,
 3. elever og studenter som i forbindelse med helsefaglig opplæring utfører handlinger som nevnt i tredje ledd.
 
-Departementet kan i forskrift bestemme at loven eller enkelte bestemmelser i loven skal gjelde for nærmere angitt personell som ikke omfattes av første ledd, herunder personell som Norge etter folkerettslige regler er forpliktet til å gi rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning.1
+Departementet kan i forskrift bestemme at loven eller enkelte bestemmelser i loven skal gjelde for nærmere angitt personell som ikke omfattes av første ledd, herunder personell som Norge etter folkerettslige regler er forpliktet til å gi rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning.[^1]
 
 Med helsehjelp menes enhver handling som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål og som utføres av helsepersonell.
 
@@ -1055,7 +1055,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvilke titler som er b
 
 ### § 75. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
 1 Fra 1 jan 2001 unntatt § 38 (opph.) iflg. [res. 1 des 2000 nr. 1199](forskrift/2000-12-01-1199). § 77 (2) nr. 2, ny [§ 1-3a i lov 19 nov 1982 nr. 66 (kommunehelseloven)](lov/1982-11-19-66/§1-3a), ble satt ikr. 14 apr 2000 iflg. [res. 14 apr 2000 nr. 325](forskrift/2000-04-14-325).
 

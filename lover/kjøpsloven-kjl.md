@@ -15,7 +15,7 @@ xml_hash: "4a55ab7c8b71cbd9efd5b34a9d8f1362554efb8083d37353d698d04b6d16b23c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -687,7 +687,7 @@ FN-konvensjonen 11. april 1980 om kontrakter for internasjonale løsørekjøp gj
 
 ### § 88
 
-(1) Loven trer i kraft fra den dag Kongen fastsetter.1
+(1) Loven trer i kraft fra den dag Kongen fastsetter.[^1]
 
 (2) Fra samme tid oppheves [lov 24 mai 1907 nr. 2](lov/1907-05-24-2) om kjøb.
 

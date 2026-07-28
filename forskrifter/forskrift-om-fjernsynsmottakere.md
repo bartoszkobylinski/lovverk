@@ -15,7 +15,7 @@ xml_hash: "d653fd3253849c3cfcf89bf8e1216dfe6c32c3e7dd14c8009c091a57e0fa947f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Kvittering for betalt avgift gis ved kringkastingskort.
 
 ## § 2. Betaling av avgiften
 
-Kringkastingsavgiften skal betales for et halvt år av gangen. Avgift for perioden 1. januar til 30. juni betales med forfall 31. januar. Avgift for perioden 1. juli til 31. desember betales med forfall 31. juli.1
+Kringkastingsavgiften skal betales for et halvt år av gangen. Avgift for perioden 1. januar til 30. juni betales med forfall 31. januar. Avgift for perioden 1. juli til 31. desember betales med forfall 31. juli.[^1]
 
 Avgiftsplikt inntrer fra og med måneden etter at mottakeren ble anskaffet/tatt i bruk. For nye avgiftspliktige avkortes årets kringkastingsavgift for hver måned vedkommende ikke har hatt fjernsynsmottaker, inkludert den måneden mottakeren ble anskaffet.
 

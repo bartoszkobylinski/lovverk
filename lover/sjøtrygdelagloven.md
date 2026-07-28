@@ -15,7 +15,7 @@ xml_hash: "ac8a489eb8e9dfa248bf65fcdba739d2a04464fb988c9f68adf1d8e83fb822c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Ein kjøl, garnlenk, anna reiskapseining eller ein lagringsplass vert rekna for 
 
 Kongen kan fastsetja at lova og skal gjelda andre sjøtrygdelag når det er rimelegt etter den verksemd dei driv.
 
-Kongen kan fastsetja at eit ymsesidig sjøtrygdelag skal gå inn under [forsikringsloven](lov/2005-06-10-44)1 når det trengst etter den verksemd laget driv. Eit slikt lag står då ikkje lenger under denne lova her.
+Kongen kan fastsetja at eit ymsesidig sjøtrygdelag skal gå inn under [forsikringsloven](lov/2005-06-10-44)[^1] når det trengst etter den verksemd laget driv. Eit slikt lag står då ikkje lenger under denne lova her.
 
 > Endra med [lover 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)).
 

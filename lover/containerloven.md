@@ -15,7 +15,7 @@ xml_hash: "923b6fe6267ccdef9c18cf34b5e36be4ff6f9a34ce3f5b2e663577ca2cce8f83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -99,7 +99,7 @@ Forsettlig eller uaktsom overtredelse av loven her eller forskrift gitt med hjem
 
 ## § 10. Ikrafttreden.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 > Endret ved [lov 11 nov 1983 nr. 67](lov/1983-11-11-67), tidligere § 9.
 

@@ -15,13 +15,13 @@ xml_hash: "dbeb19ea0f5692b76d693631aeab5e38af6cd9b210275ceeabd624368a63af7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Forsvarsdepartementet til å vedta og iverksette nytt anskaffelsesregelverk (ARF).
 
-Bestemmelser av 3. desember 19931 vedrørende anskaffelser til Forsvaret oppheves fra den dato Forsvarsdepartementet fastsetter, og Forsvarsdepartementet gis med dette myndighet til å vedta og iverksette det nye anskaffelsesregelverket (ARF) fra samme dato.
+Bestemmelser av 3. desember 1993[^1] vedrørende anskaffelser til Forsvaret oppheves fra den dato Forsvarsdepartementet fastsetter, og Forsvarsdepartementet gis med dette myndighet til å vedta og iverksette det nye anskaffelsesregelverket (ARF) fra samme dato.
 
 1 Ikke kunngjort i Norsk Lovtidend.

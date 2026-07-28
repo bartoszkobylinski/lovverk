@@ -15,7 +15,7 @@ xml_hash: "9670ef4493b6d569d58aa83c8590c3e118dc1990c86f58531c3d51ee50168cd3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## I
 
-1. Forvaltningsansvaret for [lov av 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her (utlendingsloven)1 og [lov av 8. desember 1950 nr. 3](lov/1950-12-08-3) om norsk riksborgarrett med forskrifter til lovene og det administrative ansvaret for Utlendingsnemnda og utvalget oppnevnt ved kgl.res. 12. januar 1999 for å utrede og utarbeide utkast til ny lov om statsborgerrett overføres fra Justis- og politidepartementet til Kommunal- og regionaldepartementet med virkning fra 1. januar 2001.
+1. Forvaltningsansvaret for [lov av 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her (utlendingsloven)[^1] og [lov av 8. desember 1950 nr. 3](lov/1950-12-08-3) om norsk riksborgarrett med forskrifter til lovene og det administrative ansvaret for Utlendingsnemnda og utvalget oppnevnt ved kgl.res. 12. januar 1999 for å utrede og utarbeide utkast til ny lov om statsborgerrett overføres fra Justis- og politidepartementet til Kommunal- og regionaldepartementet med virkning fra 1. januar 2001.
 2. Forvaltningsansvaret for [lov av 24. februar 1995 nr. 11](lov/1995-02-24-11) om lotterier m.v. med forskrifter og det administrative ansvaret for Lotteritilsynet og Lotterinemnda overføres fra Justis- og politidepartementet til Kulturdepartementet med virkning fra 1. januar 2001.
 3. Ansvaret for forskrifter og enkeltsaker under [lov av 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger (personopplysningsloven) og det administrative ansvaret for Datatilsynet og Personvernnemnda overføres fra Justis- og politidepartementet til Arbeids- og administrasjonsdepartementet med virkning fra 1. januar 2001.
 4. Det administrative ansvaret for Registerenheten i Brønnøysund overføres fra Justis- og politidepartementet til Nærings- og handelsdepartementet med virkning fra 1. januar 2001.

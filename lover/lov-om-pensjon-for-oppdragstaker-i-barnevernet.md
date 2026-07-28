@@ -15,7 +15,7 @@ xml_hash: "f862a312c5ddbdfee6c8c31c8c5815f84b9b7c38d4bbccc02badf2837b22c88e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,6 +74,6 @@ Departementet kan i forskrift fastsette regler for administrasjon av ordningen o
 
 ## § 8. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 12 feb 2010 iflg. [res. 12 feb 2010 nr. 157](forskrift/2010-02-12-157).

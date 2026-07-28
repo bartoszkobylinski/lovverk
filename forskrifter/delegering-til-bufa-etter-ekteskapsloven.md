@@ -15,7 +15,7 @@ xml_hash: "003d54f88807f8ffc439dcbed4686905cb05620a13364bfe24a1ff054450428e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 Fra og med 1. april 2002 gjør Barne- og familiedepartementet følgende delegeringsbeslutning:
 
-Følgende oppgaver etter [lov av 4. juli 1991 nr. 47](lov/1991-07-04-47) om ekteskap delegeres til Statens ungdoms- og adopsjonskontor:1
+Følgende oppgaver etter [lov av 4. juli 1991 nr. 47](lov/1991-07-04-47) om ekteskap delegeres til Statens ungdoms- og adopsjonskontor:[^1]
 
 - Klage over fylkesmannens vedtak om dispensasjon fra kravet om 18 års aldersgrense i [ekteskapsloven § 1](lov/1991-07-04-47/§1).
 - Klage over fylkesmannens vedtak etter [ekteskapsloven § 2](lov/1991-07-04-47/§2), samtykke fra verge for umyndiggjorte.

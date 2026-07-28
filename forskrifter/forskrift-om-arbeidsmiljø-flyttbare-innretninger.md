@@ -15,7 +15,7 @@ xml_hash: "883329bdd0441eba2b1a3b140032b5807c3182496db2021208bf210f7955fbc6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -494,7 +494,7 @@ Lagring.
 
 4.1.
 
-Alle rør, borekroner, reservedeler, stålplater og profiler, etc. skal lagres på en hensiktsmessig og forsvarlig måte og sikres for å tåle en krengning som tilsvarer den maksimale krengevinkel innretningen kan få ved den antatte skaden som definert i stabilitetsforskriften § 21.1
+Alle rør, borekroner, reservedeler, stålplater og profiler, etc. skal lagres på en hensiktsmessig og forsvarlig måte og sikres for å tåle en krengning som tilsvarer den maksimale krengevinkel innretningen kan få ved den antatte skaden som definert i stabilitetsforskriften § 21.[^1]
 
 4.2.
 
@@ -514,7 +514,7 @@ For dekk m.v. som benyttes for lagring av last skal maksimal lastemengde og till
 
 ## § 13. Personlig verneutstyr.
 
-1.1
+1.[^1]
 
 Generelt
 
@@ -532,7 +532,7 @@ Plattformsjefen skal forsikre seg om at nødvendig verneutstyr er om bord, og at
 
 1.4.
 
-Personlig verneutstyr som anskaffes skal være CE-merket.1 Dette gjelder ikke når den flyttbare innretningen befinner seg utenfor EØS-området og det er vanskelig å skaffe CE-merket utstyr. Utstyret må i så fall være av likeverdig kvalitet som CE-merket utstyr.
+Personlig verneutstyr som anskaffes skal være CE-merket.[^1] Dette gjelder ikke når den flyttbare innretningen befinner seg utenfor EØS-området og det er vanskelig å skaffe CE-merket utstyr. Utstyret må i så fall være av likeverdig kvalitet som CE-merket utstyr.
 
 2\.
 

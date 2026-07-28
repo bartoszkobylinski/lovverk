@@ -15,7 +15,7 @@ xml_hash: "0db2fa67f16876f1780d17f21e29f3d6dc2657954b1502d1ddf1d8257dd8243f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -137,6 +137,6 @@ Den omstendighet at et forsøk på å foreta bevisoptagelse på den i artikkel 8
 
 Den ene høie kontraherende parts undersåtter skal på den annen høie kontraherende parts territorium nyte godt av fullstendig samme behandling som den sistnevnte parts egne undersåtter for så vidt angår fri rettshjelp for fattige og fengsling for gjeld; og forutsatt at de bor innen et av disse territorier, skal de ikke plikte å stille sikkerhet for saksomkostninger i noe tilfelle hvor den annen høie kontraherende parts egne undersåtter ikke vilde ha plikt til det.
 
-## V. Almindelige bestemmelser.1
+## V. Almindelige bestemmelser.[^1]
 
 1 Artiklene 12 til 15 som inneholder bestemmelser bl.a. om Konvensjonens ratifikasjon, stedlige virkeområde og oppsigelse, er ikke tatt med her. De er trykt bl.a. senest i utgaven 1682-1969 av Norges Lover og i «Norges Traktater» I s. 1036-37.

@@ -15,7 +15,7 @@ xml_hash: "e18f43e890e28c08a16c40b6dc1744b2a93c85190adc23da548d8948eafeeb94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,7 @@ Retten til innsyn etter [personvernforordningen artikkel 15](lov/2018-06-15-38/g
 
 ## § 18. Ikraftsetting
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1. juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920).
 

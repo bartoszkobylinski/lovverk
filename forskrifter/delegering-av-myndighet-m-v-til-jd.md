@@ -15,7 +15,7 @@ xml_hash: "0313ac01ba0d8644813f863816ac740b7ba5cbe6b48833d2cdcf83e862684bca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ eu_basis: []
 
 ## II.
 
-Kongens myndighet etter §§ 5, 6, 7, 8, 9, 10, 11, 12, 14, 17, 19, 22, 23, 24, 25, 26, 37, 42, 43, 45, 48, 49 og 50 i utlendingsloven, herunder til å supplere og endre [utlendingsforskriften,](forskrift/1990-12-21-1028/§5) delegeres til Justis- og politidepartementet.1 Justis- og politidepartementet gis også myndighet til å sette § 93 i kraft.
+Kongens myndighet etter §§ 5, 6, 7, 8, 9, 10, 11, 12, 14, 17, 19, 22, 23, 24, 25, 26, 37, 42, 43, 45, 48, 49 og 50 i utlendingsloven, herunder til å supplere og endre [utlendingsforskriften,](forskrift/1990-12-21-1028/§5) delegeres til Justis- og politidepartementet.[^1] Justis- og politidepartementet gis også myndighet til å sette § 93 i kraft.
 
 1 Delegeringsvedtak opphevet fra 29 april 2005, jf. [forskrift 29 april 2005 nr. 378](forskrift/2005-04-29-378).
 

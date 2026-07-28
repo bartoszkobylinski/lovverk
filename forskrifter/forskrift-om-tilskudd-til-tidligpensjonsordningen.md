@@ -15,7 +15,7 @@ xml_hash: "aeedbcb258e09c8ec55e60a62a5a742e6f3b16de05084cb8f820035b1882bf21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Tidligpensjon etter denne forskriften skal bidra til å lette generasjonsovergan
 
 ## § 2. Virkeområde
 
-Denne forskriften gjelder ved eiendomsoverdragelser som er kontraktfestet 31. desember 1998 eller senere, og ved forpaktningsavtaler1 som er sagt opp denne dato eller senere.
+Denne forskriften gjelder ved eiendomsoverdragelser som er kontraktfestet 31. desember 1998 eller senere, og ved forpaktningsavtaler[^1] som er sagt opp denne dato eller senere.
 
 Statsforvalteren kan etter en særskilt vurdering innvilge søknader om tidligpensjon ved eiendomsoverdragelser som er kontraktfestet 1. mai 1998 eller senere, og ved forpaktningsavtaler som er sagt opp denne dato eller senere.
 
@@ -67,7 +67,7 @@ I denne forskrift menes med;
 
 For å være berettiget tidligpensjon kan bruker og/eller dennes ektefelle/samboer ikke lenger eie eller forpakte landbrukseiendom. De kan heller ikke drive eller ha næringsinntekt fra jordbruk/gartneri eller skogbruk. Den som mottar tidligpensjon kan heller ikke være innehaver av, deltaker i, aksjonær i eller for øvrig ha næringsinteresser i foretak som driver slik virksomhet.
 
-Ved avhending må hjemmelen til eiendommen være tinglyst på ny eier. Dersom salget er konsesjonspliktig i henhold til [lov 28. november 2003 nr. 98](lov/2003-11-28-98) om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv., og kjøper etter kjøpekontrakt har tatt risiko for konsesjon, er det tilstrekkelig at kopi av tinglyst kjøpekontrakt foreligger på søketidspunktet. Ved forpaktning1 skal forpaktningsavtalen være skriftlig oppsagt.
+Ved avhending må hjemmelen til eiendommen være tinglyst på ny eier. Dersom salget er konsesjonspliktig i henhold til [lov 28. november 2003 nr. 98](lov/2003-11-28-98) om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv., og kjøper etter kjøpekontrakt har tatt risiko for konsesjon, er det tilstrekkelig at kopi av tinglyst kjøpekontrakt foreligger på søketidspunktet. Ved forpaktning[^1] skal forpaktningsavtalen være skriftlig oppsagt.
 
 Statsforvalteren kan i særlige tilfeller gjøre unntak fra første ledd når:
 

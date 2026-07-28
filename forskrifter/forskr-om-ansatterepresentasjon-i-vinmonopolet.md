@@ -15,7 +15,7 @@ xml_hash: "c3122b6f858e66a8bb1e2380f028ac3ea5ca705c2bb13f34aaa1aa73301a7a8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -307,6 +307,6 @@ Departementets vedtak etter denne paragraf kan ikke påklages.
 
 ### § 27. Ikrafttredelse
 
-Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift om valg m.v. av ansatte til A/S Vinmonopolets styre og bedriftsforsamling m.v. fastsatt ved kgl.res. av 6. april 19791 med hjemmel i [lov av 19. juni 1931 nr. 18](lov/1931-06-19-18) om Aktieselskapet Vinmonopolet [§ 5](lov/1931-06-19-18/§5) siste ledd og [§ 9](lov/1931-06-19-18/§9) siste ledd.
+Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift om valg m.v. av ansatte til A/S Vinmonopolets styre og bedriftsforsamling m.v. fastsatt ved kgl.res. av 6. april 1979[^1] med hjemmel i [lov av 19. juni 1931 nr. 18](lov/1931-06-19-18) om Aktieselskapet Vinmonopolet [§ 5](lov/1931-06-19-18/§5) siste ledd og [§ 9](lov/1931-06-19-18/§9) siste ledd.
 
 1 Ikke kunngjort i Norsk Lovtidend.

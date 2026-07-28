@@ -15,7 +15,7 @@ xml_hash: "6bad22462207c62104155870bb48ad254ae2fc70f592ab17ce277d0a274f32cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Nærmere forskrifter kan gis av vedkommende departement.
 
 ## § 2.
 
-Kontrollen med at denne lov blir overholdt, skal føres av det tilsyn som er oprettet ved lov om arbeiderbeskyttelse i industrielle virksomheter.1 Herunder skal vedkommende bestemmelser i nevnte lov gjelde på tilsvarende måte.
+Kontrollen med at denne lov blir overholdt, skal føres av det tilsyn som er oprettet ved lov om arbeiderbeskyttelse i industrielle virksomheter.[^1] Herunder skal vedkommende bestemmelser i nevnte lov gjelde på tilsvarende måte.
 
 Dersom politiet, skibskontrollen, havne- eller tollvesenet blir kjent med noen overtredelse av denne lov, skal disse myndigheter straks melde dette til nærmeste tilsyn.
 

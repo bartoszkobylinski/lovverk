@@ -15,7 +15,7 @@ xml_hash: "f67ac934b97968a6c663d23110ebd6b203fc3df633e8ac3ba84393dd45f7840b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -434,7 +434,7 @@ Første ledd gjelder ikke dersom de mottatte opplysningene viser at arbeidstaker
 
 ### § 30. Ikrafttredelse
 
-Loven gjelder fra det tidspunktet1 Kongen bestemmer.
+Loven gjelder fra det tidspunktet[^1] Kongen bestemmer.
 
 > Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 29).
 

@@ -15,7 +15,7 @@ xml_hash: "331aacf4a939f9ebcdc9f7bab57df385e58d63c02602874e7cfd1cfb1266b6cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -148,7 +148,7 @@ Kongen kan ved forskrift gi regler om hvilke navnerettsregler som skal gjelde fo
 
 ### § 15. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen1 bestemmer. Fra samme tid opphører [lov 29. mai 1964 nr. 1](lov/1964-05-29-1) om personnamn å gjelde.
+Loven gjelder fra den tid Kongen[^1] bestemmer. Fra samme tid opphører [lov 29. mai 1964 nr. 1](lov/1964-05-29-1) om personnamn å gjelde.
 
 1 Iflg. [res. 7 juni 2002 nr. 527](forskrift/2002-06-07-527) Justisdepartementet, som ved [forskr. 14 okt 2002 nr. 1126](forskrift/2002-10-14-1126) bestemte at loven trådte ikr. 1 jan 2003.
 

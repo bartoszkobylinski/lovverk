@@ -15,7 +15,7 @@ xml_hash: "9f9f407454cc04f1890b01f4d46b3a763db0222826e604974ae0ecd2fa5387d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -133,7 +133,7 @@ Kongen kan bestemme at loven helt eller delvis skal gjelde for Svalbard og kan h
 
 ### § 15. (ikrafttredelse, overgangsregler m.v.).
 
-1. Denne lov trer i kraft fra den dag Kongen bestemmer.1
+1. Denne lov trer i kraft fra den dag Kongen bestemmer.[^1]
 2. Fra samme tid oppheves – – –.
 
 1 Fra 1 jan 1978.

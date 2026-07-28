@@ -15,7 +15,7 @@ xml_hash: "dea8213c025939d4e3486f248936a5f93e6ff1878344c7eaf7112c7cd90e9bca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1-1. Formål og virkeområde
 
-(1) Forskriftens formål er å sikre at studentenes rettigheter etter fagskoleloven1 og forskrift om fagskoleutdanning2 ivaretas. Forskriften presiserer enkelte plikter og rettigheter for fagskolens studenter og søkere, og skal sikre forutberegnelighet og likebehandling i fagskolens saksbehandling.
+(1) Forskriftens formål er å sikre at studentenes rettigheter etter fagskoleloven[^1] og forskrift om fagskoleutdanning[^2] ivaretas. Forskriften presiserer enkelte plikter og rettigheter for fagskolens studenter og søkere, og skal sikre forutberegnelighet og likebehandling i fagskolens saksbehandling.
 
 (2) Forskriften gjelder for opptak, studier og eksamen ved Fagskolen Aldring og helse. Bestemmelsene får anvendelse både for personer som søker om opptak til studietilbud, og personer som har eller har hatt studierett og status som student ved fagskolen.
 
@@ -54,7 +54,7 @@ eu_basis: []
 
 ### § 2-1. Kriterier for opptak
 
-(1) For opptak på grunnlag av formell kompetanse kreves fullført og bestått videregående opplæring innen helse- og oppvekstfag, samt fagbrev/yrkeskompetanse som helsefagarbeider, hjelpepleier, omsorgsarbeider eller aktivitør. Søkere med utenlandsk fag- eller yrkesopplæring kan gis opptak på grunnlag av formell kompetanse dersom opplæringen er godkjent som sidestilt med norsk vitnemål og fagbrev som nevnt i forrige punktum, jf. [opplæringslova1 § 3-4a](lov/1998-07-17-61/§3-4a) første ledd.
+(1) For opptak på grunnlag av formell kompetanse kreves fullført og bestått videregående opplæring innen helse- og oppvekstfag, samt fagbrev/yrkeskompetanse som helsefagarbeider, hjelpepleier, omsorgsarbeider eller aktivitør. Søkere med utenlandsk fag- eller yrkesopplæring kan gis opptak på grunnlag av formell kompetanse dersom opplæringen er godkjent som sidestilt med norsk vitnemål og fagbrev som nevnt i forrige punktum, jf. [opplæringslova[^1] § 3-4a](lov/1998-07-17-61/§3-4a) første ledd.
 
 (2) Søkere som ikke oppfyller det formelle opptakskravet i første ledd, og som har fylt 23 år på søknadstidspunktet, kan søke opptak på grunnlag av realkompetanse. Søkerens realkompetanse er den kompetansen søkeren har opparbeidet seg gjennom utdanning, lønnet eller ulønnet arbeid, organisasjonserfaring, fritidsaktiviteter eller på annen måte. Realkompetansen vurderes av studieleder opp mot de formelle kompetansekravene i første ledd. Søkeren må kunne dokumentere relevant yrkeserfaring tilsvarende minst fem årsverk. Som relevant yrkeserfaring regnes arbeid med målgruppen i hjemmebaserte tjenester, i sykehjem, innen boligvirksomhet, på dagsenter eller i andre offentlige eller private virksomheter, samt frivillig arbeid for og sammen med målgruppen, pårørendearbeid, organisasjonsarbeid, arbeid som støttekontakt, og lignende. I tillegg må søkeren dokumentere relevant opplæring tilsvarende læreplanene for VG 3 i yrkesfaglige opplæringsprogram som oppfyller det formelle kriteriet etter første ledd, tilsvarende nivå 4 i Nasjonalt rammeverk for livslang læring. Vedtak vedrørende realkompetanse er et enkeltvedtak som kan påklages til lokal klagenemnd etter bestemmelsene i denne forskriftens [kapittel 6](forskrift/2017-05-22-661/kap6). Klagen sendes til fagskolens administrasjon.
 
@@ -87,7 +87,7 @@ eu_basis: []
 
 ### § 2-4. Krav om politiattest
 
-(1) Fagskolen skal kreve fremlagt politiattest i henhold til lovbestemte krav1 som gjelder for yrkesutøvelse i praksisopplæringen, jf. [fagskoleloven § 12](lov/2003-06-20-56/§12) annet ledd og forskrift om fagskoleutdanning kapittel 3. Fagskolen skal informere om kravet om politiattest, og informasjon om dette samt frist for fremleggelse av politiattest skal fremgå av tilbud om studieplass. Merknader på politiattesten kan medføre utestenging etter denne forskriftens [§ 5-4](forskrift/2017-05-22-661/§5-4), jf. [fagskoleloven § 12](lov/2003-06-20-56/§12) tredje til femte ledd og fagskoleforskriften kapittel 3. Fornyet vandelskontroll kan foretas i samsvar med [politiregisterloven § 43](lov/2010-05-28-16/§43).
+(1) Fagskolen skal kreve fremlagt politiattest i henhold til lovbestemte krav[^1] som gjelder for yrkesutøvelse i praksisopplæringen, jf. [fagskoleloven § 12](lov/2003-06-20-56/§12) annet ledd og forskrift om fagskoleutdanning kapittel 3. Fagskolen skal informere om kravet om politiattest, og informasjon om dette samt frist for fremleggelse av politiattest skal fremgå av tilbud om studieplass. Merknader på politiattesten kan medføre utestenging etter denne forskriftens [§ 5-4](forskrift/2017-05-22-661/§5-4), jf. [fagskoleloven § 12](lov/2003-06-20-56/§12) tredje til femte ledd og fagskoleforskriften kapittel 3. Fornyet vandelskontroll kan foretas i samsvar med [politiregisterloven § 43](lov/2010-05-28-16/§43).
 
 (2) Studenter som ikke legger frem politiattest i henhold til [fagskoleloven § 12](lov/2003-06-20-56/§12) annet ledd og forskrift om fagskoleutdanning kapittel 3, eller ikke legger frem dokumentasjon om forhold som ligger til grunn for merknader på politiattesten, har ikke rett til å delta i praksisopplæringen.
 
@@ -149,7 +149,7 @@ eu_basis: []
 
 ### § 4-3. Oppnevnelse av sensorer
 
-(1) Sensor oppnevnes av rektor når resultatet av vurderingen skal inngå på vitnemålet eller innregnes i karakter for utdanningen.1 Til gjennomføring av mappevurdering, samt for vurdering av praksisperioden, oppnevnes én sensor. Til vurdering av hjemmeeksamen oppnevnes både intern og ekstern sensor.
+(1) Sensor oppnevnes av rektor når resultatet av vurderingen skal inngå på vitnemålet eller innregnes i karakter for utdanningen.[^1] Til gjennomføring av mappevurdering, samt for vurdering av praksisperioden, oppnevnes én sensor. Til vurdering av hjemmeeksamen oppnevnes både intern og ekstern sensor.
 
 1 Jf. [fagskoleloven § 6](lov/2003-06-20-56/§6) annet ledd og [§ 3](lov/2003-06-20-56/§3) tredje ledd.
 

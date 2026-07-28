@@ -15,7 +15,7 @@ xml_hash: "777940bee0439abe7caa29539fb85efb3b296be5405f33ecf61106479cbef805"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32006L0054"
@@ -39,7 +39,7 @@ Ombudets og nemndas virksomhet omfatter:
 6. [burettslagslova § 1-5](lov/2003-06-06-39/§1-5)
 7. [skipsarbeidsloven kapittel 10](lov/2013-06-21-102/kap10), med unntak av [§ 10-1](lov/2013-06-21-102/§10-1) tredje ledd.
 
-Ombudets virksomhet omfatter også rapporteringen om arbeidet med likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).1
+Ombudets virksomhet omfatter også rapporteringen om arbeidet med likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).[^1]
 
 Nemndas virksomhet omfatter også saker om gjengjeldelse etter [arbeidsmiljøloven § 2 A-4](lov/2005-06-17-62/§2a-4) og oppreisning og erstatning etter [§ 2 A-5](lov/2005-06-17-62/§2a-5), med unntak av saker om oppsigelse eller avskjed.
 
@@ -110,7 +110,7 @@ Ombudet skal føre tilsyn med at norsk rett og forvaltningspraksis samsvarer med
 2. De forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskriminering
 3. De forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne
 
-Ombudet skal følge opp aktivitets- og redegjørelsesplikten etter [likestillings- og diskrimineringsloven §§ 24](lov/2017-06-16-51/§24), [25](lov/2017-06-16-51/§25), [26](lov/2017-06-16-51/§26) og [26 a](lov/2017-06-16-51/§26a), samt rapporteringsplikten om likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).1 Ombudets oppfølging kan blant annet innebære at ombudet og arbeidsgiver utarbeider en felles tilnærming til hvordan aktivitetsplikten følges opp i virksomheten. Ombudet kan videre gjennomgå likestillingsredegjørelsene, analysere funnene og komme med et forslag til forbedringstiltak og styrket innsats på likestillingsarbeidet i virksomheten. Ombudet kan også gjennomføre oppfølgingsbesøk i virksomhetene.
+Ombudet skal følge opp aktivitets- og redegjørelsesplikten etter [likestillings- og diskrimineringsloven §§ 24](lov/2017-06-16-51/§24), [25](lov/2017-06-16-51/§25), [26](lov/2017-06-16-51/§26) og [26 a](lov/2017-06-16-51/§26a), samt rapporteringsplikten om likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).[^1] Ombudets oppfølging kan blant annet innebære at ombudet og arbeidsgiver utarbeider en felles tilnærming til hvordan aktivitetsplikten følges opp i virksomheten. Ombudet kan videre gjennomgå likestillingsredegjørelsene, analysere funnene og komme med et forslag til forbedringstiltak og styrket innsats på likestillingsarbeidet i virksomheten. Ombudet kan også gjennomføre oppfølgingsbesøk i virksomhetene.
 
 > Endret ved lov [21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)).
 
@@ -301,7 +301,7 @@ Departementet kan gi forskrifter om ombudets og nemndas organisering, oppgaver o
 
 ### § 23. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 10. juni 2005 nr. 40](lov/2005-06-10-40) om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [lov 10. juni 2005 nr. 40](lov/2005-06-10-40) om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda.
 
 1 Fra 1 jan 2018 iflg. [res. 16 juni 2017 nr. 750](forskrift/2017-06-16-750).
 

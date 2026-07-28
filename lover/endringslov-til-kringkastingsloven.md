@@ -15,7 +15,7 @@ xml_hash: "69a6d4ffeaf4a07613b4391e05a14ff242c81d7b86487e7b231db56c19d1fd92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,6 +42,6 @@ Noverande tredje ledd blir nytt fjerde ledd.
 
 ## II
 
-Denne lova trer i kraft frå det tidspunktet Kongen fastset.1 Dei enkelte reglane kan setjast i kraft til ulik tid.
+Denne lova trer i kraft frå det tidspunktet Kongen fastset.[^1] Dei enkelte reglane kan setjast i kraft til ulik tid.
 
 1 Frå 1 juli 2005 iflg. [res. 17 juni 2005 nr. 631](forskrift/2005-06-17-631), med unntak av ny § 4-4 tredje leden, endring i § 10-3 første og andre leden og opphevinga av § 4-6. Etter [res. 30 mai 2008 nr. 524](forskrift/2008-05-30-524) trådte endringa i § 10-3 ikr. 1 juli 2008.

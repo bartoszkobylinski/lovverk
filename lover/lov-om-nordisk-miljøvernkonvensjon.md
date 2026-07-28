@@ -15,7 +15,7 @@ xml_hash: "43a08ec87b8e0280a7d42b8279158a2559c3f2493bc1d0aa3426b736d37ed04a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Miljøvernkonvensjonen av 19 februar 1974 mellom Norge, Danmark, Finland og Sver
 
 ## § 2.
 
-Denne lov trer i kraft fra den tid1 Kongen bestemmer.
+Denne lov trer i kraft fra den tid[^1] Kongen bestemmer.
 
 1 Straks iflg. res. 17 des 1976.
 

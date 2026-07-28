@@ -15,7 +15,7 @@ xml_hash: "1fec5e6d63326a0b43231fbbef9ba99e02f18e935b9649af2e81a622ad68203f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,6 +50,6 @@ Ny [§ 2-6](lov/2021-06-18-97/§2-6) skal lyde:
 
 ## IV
 
-Loven gjelder fra den tiden1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 1 Fra 1 juni 2022 for del I unntatt ny [§ 4-3a](lov/1992-07-17-100/§4-3a), fra 1 juni 2022 for del II og fra 25 mars 2022 for del III unntatt ny [§ 2-6](lov/2021-06-18-97/§2-6), iflg. [res. 25 mars 2022 nr. 465](forskrift/2022-03-25-465).

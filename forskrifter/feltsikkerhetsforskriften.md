@@ -15,7 +15,7 @@ xml_hash: "727cdc68ec746bc6a5f2c0715319af78b368b80903a8a1088ed5bd217aad9b56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -133,7 +133,7 @@ Sysselmesteren skal utstede godkjenningsbevis til personer som oppfyller kravene
 
 Svalbardguider skal forevise godkjenningsbeviset ved tilsyn, jf. [§ 21](forskrift/2025-06-06-940/§21). Turistvirksomheter og feltvirksomheter skal kunne forevise godkjenningsbevis for alle ansatte og tilknyttede personer, som driver guidevirksomhet.
 
-Sysselmesteren fastsetter gebyr for behandling av søknader og for utstedelse av godkjenningsbevis. Gebyr skal dekke kostnadene ved å produsere og levere tjenesten basert på kostnadseffektiv drift. Prinsippene for statlig gebyr- og forskriftsfinansiering skal legges til grunn.1
+Sysselmesteren fastsetter gebyr for behandling av søknader og for utstedelse av godkjenningsbevis. Gebyr skal dekke kostnadene ved å produsere og levere tjenesten basert på kostnadseffektiv drift. Prinsippene for statlig gebyr- og forskriftsfinansiering skal legges til grunn.[^1]
 
 1 Rundskriv 112/2015
 
@@ -172,7 +172,7 @@ Endres innholdet i kurset kan forhåndsgodkjenningen trekkes tilbake dersom innh
 
 Dersom kravene i [§ 11](forskrift/2025-06-06-940/§11) endres eller kurs- og læringskravene gitt av Sysselmesteren endres vesentlig, skal det gis rimelig varsel om dette til de opplæringsinstitusjonene som har gyldig forhåndsgodkjenning.
 
-Sysselmesteren fastsetter gebyr for behandling av søknader. Gebyret skal dekke kostnadene ved å produsere og levere tjenesten basert på kostnadseffektiv drift. Prinsippene for statlig gebyr- og forskriftsfinansiering skal legges til grunn.2
+Sysselmesteren fastsetter gebyr for behandling av søknader. Gebyret skal dekke kostnadene ved å produsere og levere tjenesten basert på kostnadseffektiv drift. Prinsippene for statlig gebyr- og forskriftsfinansiering skal legges til grunn.[^2]
 
 2 Rundskriv 112/2015
 

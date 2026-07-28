@@ -15,7 +15,7 @@ xml_hash: "77e1b3c1f2c17cdf6530947ebbd70eb5d16b45f49ed11cb633bd54565f533e09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,7 @@ For innretninger som ikke har klasse i en MOU-klasseinstitusjon, skal rederiet k
 
 4\.
 
-Rederiet skal kunne dokumentere at elektriske anlegg og områdeklassifisering (eksplosjonsfarlige områder) oppfyller gjeldene forskrifter om maritime elektriske anlegg fastsatt av Direktoratet for samfunnssikkerhet og beredskap.1 Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse bestemmes av Direktoratet for samfunnssikkerhet og beredskap som på forespørsel skal få direkte tilsendt den ønskede dokumentasjon.
+Rederiet skal kunne dokumentere at elektriske anlegg og områdeklassifisering (eksplosjonsfarlige områder) oppfyller gjeldene forskrifter om maritime elektriske anlegg fastsatt av Direktoratet for samfunnssikkerhet og beredskap.[^1] Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse bestemmes av Direktoratet for samfunnssikkerhet og beredskap som på forespørsel skal få direkte tilsendt den ønskede dokumentasjon.
 
 > Endret ved [forskrifter 18 feb 1997 nr. 142](forskrift/1997-02-18-142) (i kraft 1 jan 1998), [2 mars 1999 nr. 402](forskrift/1999-03-02-402) (i kraft 1 sept 1999), [11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -360,7 +360,7 @@ Sikring av overbygg og utstyr ved krengning
 
 7.1.
 
-Innretningens overbygg og fastmonterte utstyr skal være konstruert og festet slik at det vil kunne tåle en krengning som tilsvarer den ugunstigste krengevinkel i en hvilken som helst retning som innretningen kan få etter skade som definert i stabilitetsforskriftens [§ 21](forskrift/1991-12-20-878/§21).1
+Innretningens overbygg og fastmonterte utstyr skal være konstruert og festet slik at det vil kunne tåle en krengning som tilsvarer den ugunstigste krengevinkel i en hvilken som helst retning som innretningen kan få etter skade som definert i stabilitetsforskriftens [§ 21](forskrift/1991-12-20-878/§21).[^1]
 
 7.2.
 
@@ -372,7 +372,7 @@ Innretningen skal være slik konstruert at alt utstyr som kan blokkere rømnings
 
 ## § 6a. Elektrisk anlegg og utstyr
 
-Elektriske anlegg og utstyr skal være i samsvar med gjeldende forskrifter for maritime elektriske anlegg.1,2
+Elektriske anlegg og utstyr skal være i samsvar med gjeldende forskrifter for maritime elektriske anlegg.[^1],[^2]
 
 > Tilføyd ved [forskrift 11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046).
 
@@ -492,7 +492,7 @@ Halvt nedsenkbare innretninger.
 
 1.1.1.
 
-Avstanden mellom underste dekk og havflaten er bestemt av det fastsatte fribord. Vedrørende fribord og lastelinjeforhold, vises det til [stabilitetsforskriftens § 29](forskrift/1991-12-20-878/§29).1
+Avstanden mellom underste dekk og havflaten er bestemt av det fastsatte fribord. Vedrørende fribord og lastelinjeforhold, vises det til [stabilitetsforskriftens § 29](forskrift/1991-12-20-878/§29).[^1]
 
 1.1.2.
 
@@ -508,7 +508,7 @@ Oppjekkbare innretninger.
 
 I oppjekket tilstand skal avstanden mellom underste dekk og høyeste bølgetopp være positiv ved høyeste bølge med en årlig sannsynlighet på 10-4 med sesongjustering. Utregningen av høyeste beregningsbølge skal baseres på maksimal vannstand. Miljøeffektene skal kombineres i henhold til tabellen under:
 
-|  | *Vind* | *Bølger* | *Strøm* | *Vannstand*\* |
+|  | *Vind* | *Bølger* | *Strøm* | *Vannstand*[^\*] |
 | --- | --- | --- | --- | --- |
 | Kombinering av miljøeffekter iht. [§ 10](forskrift/1987-09-04-856/§10).1.2.<br>(Returperiode). | 10-4 | 10-4 | 10-1 | 10-2 |
 
@@ -522,7 +522,7 @@ I oppjekket tilstand skal avstanden mellom underste dekk og høyeste bølgetopp 
 
 1\.
 
-Innretningen skal være utstyrt med en uavhengig kraftforsyning som er arrangert og konstruert for å kunne yte maksimum kontinuerlig effekt i minst 18 timer ved den ugunstigste krengevinkel som følger av stabilitetsforskriftens [§ 21](forskrift/1991-12-20-878/§21).1
+Innretningen skal være utstyrt med en uavhengig kraftforsyning som er arrangert og konstruert for å kunne yte maksimum kontinuerlig effekt i minst 18 timer ved den ugunstigste krengevinkel som følger av stabilitetsforskriftens [§ 21](forskrift/1991-12-20-878/§21).[^1]
 
 2\.
 
@@ -564,7 +564,7 @@ På innretninger hvor hovedgeneratorene er fordelt på to eller flere maskinrom 
 - et brannklasse A-60 skille pluss kofferdam, eller
 - et stålskott isolert til klasse A-60 på begge sider.
 
-Nødkraftkilder skal plasseres i rom utenfor skadeområder definert i henhold til stabilitetsforskriften.1
+Nødkraftkilder skal plasseres i rom utenfor skadeområder definert i henhold til stabilitetsforskriften.[^1]
 
 En nødkraftkilde skal være slik plassert i forhold til maskinrom av kategori A eller eksplosjonsfarlige områder at brann eller eksplosjon i nevnte områder ikke setter nødkraftkilden ut av drift.
 
@@ -646,7 +646,7 @@ I tillegg til nødlys tilknyttet nødkraftkilden, skal det på steder nevnt i nr
 
 - Batterikraftkilden skal stå under konstant lading, og den skal umiddelbart tre i funksjon hvis nødkraftkilden faller ut.
 - Nødlysene skal gi kontinuerlig belysning i minst en time ved den aktuelle temperaturgrense gitt av [§ 7](forskrift/1987-09-04-856/§7).
-- De skal ikke ha lavere eksplosjonsbeskyttelse enn sone 2, jf. brannforskriften § 26.1
+- De skal ikke ha lavere eksplosjonsbeskyttelse enn sone 2, jf. brannforskriften § 26.[^1]
 - De skal ha innbygget ladelikeretter med innbygget varsel for svikt i batteriets ladekrets eller spenning.
 
 5\.
@@ -943,7 +943,7 @@ I maskinrom hvor folk ferdes og arbeider skal belysningen være minst 200 lux. M
 
 4\.
 
-Til belysning av tanker for olje og andre ildsfarlige væsker, samt rom hvor det føres spesielt ildsfarlig last eller av rom og tanker som ikke er gassfri, skal lampene som benyttes være sertifisert for bruk i eksplosjonsfarlige områder sone 1.1
+Til belysning av tanker for olje og andre ildsfarlige væsker, samt rom hvor det føres spesielt ildsfarlig last eller av rom og tanker som ikke er gassfri, skal lampene som benyttes være sertifisert for bruk i eksplosjonsfarlige områder sone 1.[^1]
 
 > Endret ved [forskrift 11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046).
 
@@ -951,7 +951,7 @@ Til belysning av tanker for olje og andre ildsfarlige væsker, samt rom hvor det
 
 ## § 20. Bærbart elektrisk utstyr
 
-Bærbart elektrisk utstyr (lykter, VHF-utstyr og lignende) som skal brukes utenfor boligkvarteret, skal være sertifisert for bruk i eksplosjonsfarlige områder sone 1.1
+Bærbart elektrisk utstyr (lykter, VHF-utstyr og lignende) som skal brukes utenfor boligkvarteret, skal være sertifisert for bruk i eksplosjonsfarlige områder sone 1.[^1]
 
 > Endret ved [forskrift 11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046).
 
@@ -969,7 +969,7 @@ De skal være bygget av stål eller annnet likeverdig materiale m.h.t. styrke og
 
 1.2.
 
-All kledning, isolasjon og eventuell innredning skal være laget av ubrennbare materialer. Overflatematerialer skal ha lav flammespredning.1
+All kledning, isolasjon og eventuell innredning skal være laget av ubrennbare materialer. Overflatematerialer skal ha lav flammespredning.[^1]
 
 1.3.
 
@@ -993,7 +993,7 @@ Minst 1 stk. batterinødlys skal være montert.
 
 1.8.
 
-Alt elektrisk utstyr skal være sertifisert for bruk i eksplosjonsfarlige områder sone 2.2 Er unntak fra dette gjort for containere som er plassert i sikkert område, må elektrisk forsyning være koplet til innretningens nødavstengningssystem. Containere som ikke er utstyrt for plassering i sone 2-område, skal være klart merket med at de kun kan plasseres i sikkert område. Dersom containeren inneholder tennkilder, skal den være utstyrt for og merket med at den må tilknyttes innretningens nødavstengningssystem, jfr. krav om nødavstengning m.v. i den til enhver tid gjeldende forskrift om sikringstiltak mot brann og eksplosjon på flyttbare innretninger.
+Alt elektrisk utstyr skal være sertifisert for bruk i eksplosjonsfarlige områder sone 2.[^2] Er unntak fra dette gjort for containere som er plassert i sikkert område, må elektrisk forsyning være koplet til innretningens nødavstengningssystem. Containere som ikke er utstyrt for plassering i sone 2-område, skal være klart merket med at de kun kan plasseres i sikkert område. Dersom containeren inneholder tennkilder, skal den være utstyrt for og merket med at den må tilknyttes innretningens nødavstengningssystem, jfr. krav om nødavstengning m.v. i den til enhver tid gjeldende forskrift om sikringstiltak mot brann og eksplosjon på flyttbare innretninger.
 
 1.9.
 

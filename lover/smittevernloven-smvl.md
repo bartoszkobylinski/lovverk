@@ -15,7 +15,7 @@ xml_hash: "db6a5efb4513757ec061f12c86a8e8f29996976d92258f4c885545a8c7d5328d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -648,7 +648,7 @@ Forskrifter eller enkeltvedtak med hjemmel i lovbestemmelser som blir opphevet e
 
 ### § 8-6. Ikrafttredelse m.m.
 
-Denne loven trer i kraft fra den tid Kongen bestemmer.1 I forbindelse med lovens ikrafttredelse eller senere kan departementet sette en frist for alle eller enkelte kommuner eller fylkeskommuner til å oppfylle de forpliktelser som loven pålegger kommunene eller fylkeskommunene.
+Denne loven trer i kraft fra den tid Kongen bestemmer.[^1] I forbindelse med lovens ikrafttredelse eller senere kan departementet sette en frist for alle eller enkelte kommuner eller fylkeskommuner til å oppfylle de forpliktelser som loven pålegger kommunene eller fylkeskommunene.
 
 1 Fra 1 jan 1995 iflg. [res. 5 aug 1994 nr. 790](forskrift/1994-08-05-790).
 

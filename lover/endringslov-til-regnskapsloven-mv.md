@@ -15,7 +15,7 @@ xml_hash: "8d56d8027a66ea5a6b9b4f2a6331d07e92efb5fac03b955cd417fc6fadefdf40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32022L2464"
@@ -81,7 +81,7 @@ I [lov 18. juni 2021 nr. 99 om virksomheters åpenhet og arbeid med grunnleggend
 
 ## XIII
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Departementet kan fastsette overgangsregler.
 
 1 Fra 1. november 2024 for

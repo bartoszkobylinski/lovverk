@@ -15,7 +15,7 @@ xml_hash: "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -127,11 +127,11 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler1, særlig artikkel 2 nr. 3, og
+under henvisning til rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler[^1], særlig artikkel 2 nr. 3, og
 
 ut fra følgende betraktninger:
 
-1. Ved kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881)2 fastsettes det grenseverdier for visse forurensende stoffer i næringsmidler. Den forordningen er allerede blitt vesentlig endret mange ganger, og ettersom det skal gjøres en rekke nye endringer i den, bør den erstattes.
+1. Ved kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881)[^2] fastsettes det grenseverdier for visse forurensende stoffer i næringsmidler. Den forordningen er allerede blitt vesentlig endret mange ganger, og ettersom det skal gjøres en rekke nye endringer i den, bør den erstattes.
 2. Det bør fastsettes strenge grenseverdier på et nivå som det med rimelighet er mulig å oppnå ved hjelp av god landbruks-, fiskeri- og framstillingspraksis, samtidig som det tas hensyn til risikoen forbundet med inntak av næringsmidlene. Ved en mulig helserisiko bør grenseverdier for forurensende stoffer settes på et så lavt nivå som det med rimelighet er mulig å oppnå (i henhold til ALARA-prinsippet – «as low as reasonably achievable»). Dette sikrer at driftsansvarlige for næringsmiddelforetak treffer tiltak for å unngå og redusere forurensning så mye som mulig for å verne folkehelsen. Videre bør det for å verne helsen til spedbarn og småbarn, som er en sårbar gruppe, fastsettes så lave grenseverdier som det er mulig å oppnå ved en nøye utvelging av råvarene som brukes til framstilling av næringsmidler for den befolkningsgruppen, eventuelt kombinert med spesifikk framstillingspraksis. Denne nøye utvelgingen av råvarer bør også skje ved produksjon av spesifikke næringsmidler som bringes i omsetning til sluttforbrukere, og som det for å verne sårbare befolkningsgrupper er fastsatt en streng grenseverdi for.
 3. For å sikre et effektivt vern av folkehelsen bør næringsmidler med et innhold av forurensende stoffer som er høyere enn grenseverdiene, ikke bringes i omsetning som sådan, og heller ikke brukes som næringsmiddelingrediens eller blandes med næringsmidler.
 4. For å gjøre det mulig å bruke grenseverdier på tørkede, fortynnede, foredlede og sammensatte næringsmidler som det ikke er fastsatt spesifikke grenseverdier på unionsplan for, bør driftsansvarlige for næringsmiddelforetak for vedkommende myndigheter framlegge opplysninger om de spesifikke konsentrasjons-, fortynnings- og foredlingsfaktorene og, når det gjelder sammensatte næringsmidler, andelen av ingrediensene sammen med relevante forsøksdata som er lagt til grunn for de foreslåtte faktorene.
@@ -141,8 +141,8 @@ ut fra følgende betraktninger:
 8. Visse fiskearter med opprinnelse i Baltikum kan inneholde høye nivåer av dioksider, dioksinlignende polyklorerte bifenyler (DL-PCB) og ikke-dioksinlignende polyklorerte bifenyler (NDL-PCB). I en betydelig andel av disse fiskeartene fra Baltikum overholdes ikke grenseverdiene, og de vil derfor måtte utelates fra kosten dersom grenseverdiene anvendes. Å utelate fisk fra kosten kan imidlertid ha en negativ innvirkning på helsen til befolkningen i Baltikum.
 9. For å begrense inntaket av fisk fra Baltikum og unngå helserisikoer har Latvia, Finland og Sverige innført ordninger for å sikre at sluttforbrukerne informeres om kostanbefalingene som gjelder for spesifikke sårbare befolkningsgrupper. Det er derfor hensiktsmessig å opprettholde et unntak for Latvia, Finland og Sverige, slik at de, uten tidsbegrensning, kan tillate at visse fiskearter med opprinnelse i Baltikum med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er fastsatt i denne forordningen, kan bringes i omsetning til sluttforbrukere. For at Kommisjonen skal kunne overvåke situasjonen, bør Latvia, Finland og Sverige fortsatt rapportere årlig til Kommisjonen om tiltakene de har truffet for effektivt å informere sluttforbrukerne om kostanbefalingene, og for å sikre at fisk og produkter av fisk som ikke overholder grenseverdiene, ikke markedsføres i andre medlemsstater, og om hvor effektive disse tiltakene er.
 10. Selv om det så langt det er mulig brukes god røykepraksis, er det i flere medlemsstater ikke mulig å overholde de gjeldende grenseverdiene for polysykliske aromatiske hydrokarboner (PAH) i visse typer tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter og tradisjonelt røykt fisk og tradisjonelt røykte fiskerivarer der røykepraksisen ikke kan endres uten at næringsmidlenes organoleptiske egenskaper endres betraktelig. Bruk av grenseverdier vil dermed føre til at slike tradisjonelt røykte produkter vil forsvinne fra markedet, og til at mange små og store bedrifter legges ned. Dette gjelder visse typer tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter i Irland, Spania, Kroatia, Kypros, Latvia, Polen, Portugal, Slovakia, Finland og Sverige og visse typer tradisjonelt røykt fisk og røykte fiskerivarer i Latvia, Finland og Sverige. Et ikke-tidsbegrenset unntak for lokal produksjon og lokalt forbruk bør derfor opprettholdes for visse typer tradisjonelt røykt kjøtt og tradisjonelt røykte kjøttprodukter og tradisjonelt røykt fisk og tradisjonelt røykte fiskerivarer utelukkende i disse medlemsstatene.
-11. Medlemsstatene skal samle inn og innrapportere data fra offentlige kontroller og fra overvåking av forurensende stoffer i samsvar med kontrollplaner og de særlige kravene til offentlig kontroll av forurensende stoffer fastsatt i delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931)3 og Kommisjonens gjennomføringsforordning [(EU) 2022/932](eu/32022r0932)4. For visse spesifikke forurensende stoffer, der det er behov for mer data om forekomst, anbefales det at medlemsstatene, driftsansvarlige for næringsmiddelforetak og berørte parter overvåker og innrapporterer data om forekomst og rapporterer om hvilke framskritt som er gjort med hensyn til gjennomføringen av forebyggende tiltak, slik at Kommisjonen kan vurdere behovet for å endre eksisterende tiltak eller vedta ytterligere tiltak. Av samme grunner bør medlemsstatene også framlegge opplysningene de har samlet inn om andre forurensende stoffer, for Kommisjonen.
-12. De gjeldende grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), med endringer, bør opprettholdes ved denne forordningen. I lys av erfaringene gjort i forbindelse med den forordningen og for å gjøre reglene mer leservennlige bør det imidlertid unngås å bruke altfor mange fotnoter, i stedet bør antallet henvisninger til vedlegg I i europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396)5 økes når det gjelder definisjonene av kategoriene.
+11. Medlemsstatene skal samle inn og innrapportere data fra offentlige kontroller og fra overvåking av forurensende stoffer i samsvar med kontrollplaner og de særlige kravene til offentlig kontroll av forurensende stoffer fastsatt i delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931)[^3] og Kommisjonens gjennomføringsforordning [(EU) 2022/932](eu/32022r0932)[^4]. For visse spesifikke forurensende stoffer, der det er behov for mer data om forekomst, anbefales det at medlemsstatene, driftsansvarlige for næringsmiddelforetak og berørte parter overvåker og innrapporterer data om forekomst og rapporterer om hvilke framskritt som er gjort med hensyn til gjennomføringen av forebyggende tiltak, slik at Kommisjonen kan vurdere behovet for å endre eksisterende tiltak eller vedta ytterligere tiltak. Av samme grunner bør medlemsstatene også framlegge opplysningene de har samlet inn om andre forurensende stoffer, for Kommisjonen.
+12. De gjeldende grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), med endringer, bør opprettholdes ved denne forordningen. I lys av erfaringene gjort i forbindelse med den forordningen og for å gjøre reglene mer leservennlige bør det imidlertid unngås å bruke altfor mange fotnoter, i stedet bør antallet henvisninger til vedlegg I i europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396)[^5] økes når det gjelder definisjonene av kategoriene.
 13. Også i lys av erfaringene gjort i forbindelse med nevnte forordning og for å muliggjøre en ensartet håndheving av grenseverdiene bør det presiseres at nedre konsentrasjoner bør brukes i tilfeller der det er fastsatt grenseverdier for flere forbindelser (summen av konsentrasjoner), med mindre noe annet er angitt, og det bør også presiseres hvilke kroppsdeler av krepsdyr som grenseverdiene gjelder for.
 14. Når det gjelder kadmium, bør det nåværende unntaket for malt utvides til å omfatte alt korn som brukes til produksjon av øl eller destillater, forutsatt at kornrestproduktet som blir igjen, ikke bringes i omsetning som næringsmiddel, ettersom kadmium hovedsakelig blir værende i dette kornrestproduktet, og ettersom kadmiuminnholdet i øl derfor er svært lavt.
 15. Når det gjelder PAH, bør pulverkaffe / løselig kaffe, på grunnlag av de tilgjengelige analysedataene og produksjonsmetoden som har vist at det er funnet ubetydelige mengder av disse stoffene i pulverkaffe / løselig kaffe, være unntatt fra grenseverdiene for næringsmidler av vegetabilsk opprinnelse i pulverform som brukes til tilberedning av drikker. Når det gjelder grenseverdier for PAH i morsmelkerstatninger, tilskuddsblandinger og småbarnsnæring og i næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn, er de i dag fastsatt for produktene slik de bringes i omsetning, uansett produktets fysiske form. Det bør derfor presiseres at disse grenseverdiene gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering etter produsentens anvisninger).
@@ -167,11 +167,11 @@ VEDTATT DENNE FORORDNINGEN:
 
 I denne forordningen menes med
 
-1. «næringsmidler» næringsmidler som definert i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)6,
+1. «næringsmidler» næringsmidler som definert i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^6],
 2. «driftsansvarlig for næringsmiddelforetak» en driftsansvarlig for et næringsmiddelforetak som definert i artikkel 3 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178),
 3. «bringe i omsetning» omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),
 4. «sluttforbruker» en sluttforbruker som definert i artikkel 3 nr. 18 i forordning [(EF) nr. 178/2002](eu/32002r0178),
-5. «foredling» foredling som definert i artikkel 2 nr. 1 bokstav m) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)7,
+5. «foredling» foredling som definert i artikkel 2 nr. 1 bokstav m) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)[^7],
 6. «uforedlede produkter» uforedlede produkter som definert i artikkel 2 nr. 1 bokstav n) i forordning [(EF) nr. 852/2004](eu/32004r0852) og
 7. «foredlede produkter» foredlede produkter som definert i artikkel 2 nr. 1 bokstav o) i forordning [(EF) nr. 852/2004](eu/32004r0852),
 
@@ -246,7 +246,7 @@ Det opprinnelige følgedokumentet og hver enkelt pakning i forsendelsen skal væ
 
 ### Artikkel 7. Unntak fra artikkel 2
 
-1\. Som unntak fra artikkel 2 kan Latvia, Finland og Sverige, innenfor sin årlige kvote som fastsatt i europaparlaments- og rådsforordning [(EU) nr. 1380/2013](eu/32013r1380)8, tillate at villfanget laks (*Salmo salar*) og produkter av dette med opprinnelse i Baltikum med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er angitt i nr. 4.1.5 i vedlegg I, bringes i omsetning til sluttforbrukere på de respektive markedene, forutsatt at
+1\. Som unntak fra artikkel 2 kan Latvia, Finland og Sverige, innenfor sin årlige kvote som fastsatt i europaparlaments- og rådsforordning [(EU) nr. 1380/2013](eu/32013r1380)[^8], tillate at villfanget laks (*Salmo salar*) og produkter av dette med opprinnelse i Baltikum med et høyere innhold av dioksiner og/eller DL-PCB og/eller NDL-PCB enn det som er angitt i nr. 4.1.5 i vedlegg I, bringes i omsetning til sluttforbrukere på de respektive markedene, forutsatt at
 
 1. det for å unngå potensielle helserisikoer er innført en ordning for å sikre at sluttforbrukerne er fullt ut informert om de nasjonale kostanbefalingene som gjelder begrensningene for spesifikke sårbare befolkningsgruppers inntak av villfanget laks fra Baltikum og produkter av dette,
 2. Latvia, Finland og Sverige fortsetter å anvende de tiltakene som er nødvendige for å sikre at villfanget laks og produkter av dette som ikke oppfyller kravene i nr. 4.1.5 i vedlegg I, ikke markedsføres i andre medlemsstater,
@@ -373,7 +373,7 @@ Ursula von der Leyen
 *President*
 
 ### VEDLEGG I
-Grenseverdier for visse forurensende stoffer i næringsmidler1
+Grenseverdier for visse forurensende stoffer i næringsmidler[^1]
 
 | 1 | *Mykotoksiner* |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -394,10 +394,10 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.1.13 | Mais og ris som skal gjennomgå sortering eller annen fysisk behandling før de bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens | 5,0 | 10,0 | – |  |
 | 1.1.14 | Følgende typer tørket krydder:<br>*Capsicum* spp. (tørkede frukter, hele eller malte, herunder chilipepper, chilipulver, kajennepepper eller paprika)<br>Pepper (frukter av *Piper* spp., herunder hvit og svart pepper)<br>Muskatnøtt (*Myristica fragrans*)<br>Gurkemeie (*Curcuma longa*)<br>Blandinger av tørket krydder som inneholder en eller flere av de ovennevnte typene tørket krydder | 5,0 | 10,0 | – |  |
 | 1.1.15 | Ingefær (*Zingiber officinale*) (tørket) | 5,0 | 10,0 | – |  |
-| 1.1.16 | Rå melk2, varmebehandlet melk og melk til produksjon av melkebaserte produkter | – | – | 0,050 |  |
-| 1.1.17 | Morsmelkerstatninger, tilskuddsblandinger3 og småbarnsnæring4 | – | – | 0,025 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
-| 1.1.18 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 0,10 | – | – | Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. |
-| 1.1.19 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 | 0,10 | – | 0,025 | For melk, melkeprodukter og lignende produkter gjelder grenseverdien for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentens anvisninger) og for andre produkter enn melk, melkeprodukter og lignende produkter gjelder grenseverdien for tørrstoffet5. |
+| 1.1.16 | Rå melk[^2], varmebehandlet melk og melk til produksjon av melkebaserte produkter | – | – | 0,050 |  |
+| 1.1.17 | Morsmelkerstatninger, tilskuddsblandinger[^3] og småbarnsnæring[^4] | – | – | 0,025 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 1.1.18 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 0,10 | – | – | Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. |
+| 1.1.19 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] | 0,10 | – | 0,025 | For melk, melkeprodukter og lignende produkter gjelder grenseverdien for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentens anvisninger) og for andre produkter enn melk, melkeprodukter og lignende produkter gjelder grenseverdien for tørrstoffet[^5]. |
 
 | 1.2 | *Okratoksin A* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
@@ -411,7 +411,7 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.2.6 | Ingefærrøtter (tørkede) til bruk i urtete | 15 |  |
 | 1.2.7 | Legestokkroserøtter (tørkede), løvetannrøtter (tørkede) og appelsinblomster (tørkede) til bruk i urtete eller kaffeerstatninger | 20 |  |
 | 1.2.8 | Solsikkefrø, gresskarfrø, (vann)melonfrø, hampefrø, soyabønner | 5,0 |  |
-| ►**M7**<br>1.2.9 | Uforedlet korn | 5,0 | Grenseverdien gjelder for uforedlet korn (for havre gjelder det korn med agn) som bringes i omsetning for første foredling6. |
+| ►**M7**<br>1.2.9 | Uforedlet korn | 5,0 | Grenseverdien gjelder for uforedlet korn (for havre gjelder det korn med agn) som bringes i omsetning for første foredling[^6]. |
 | 1.2.10 | Korn som bringes i omsetning til sluttforbrukere<br>Produkter avledet av uforedlet korn, unntatt produkter oppført i nr. 1.2.11, 1.2.12, 1.2.13, 1.2.23 og 1.2.24 | 3,0 | Omfatter foredlede kornprodukter.<br>Med «produkter avledet av uforedlet korn» menes produkter som inneholder minst 80 % kornprodukter. ◄**M7** |
 | 1.2.11 | Bakervarer, kornsnacks og frokostkorn |  |  |
 | 1.2.11.1 | Produkter som ikke inneholder oljeholdige frø, nøtter eller tørkede frukter | 2,0 |  |
@@ -429,25 +429,25 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.2.19.2 | Lakrisekstrakt til bruk i næringsmidler, særlig drikker og sukkervarer | 80 | Grenseverdien gjelder for rent og ufortynnet ekstrakt, der 1 kg ekstrakt utvinnes fra 3-4 kg lakrisrot. |
 | 1.2.19.3 | Lakrisvarer som inneholder ≥ 97 % lakrisekstrakt (tørrstoff) | 50 |  |
 | 1.2.19.4 | Andre lakrisvarer | 10,0 |  |
-| 1.2.20 | Vin7 og fruktvin | 2,0 | Herunder perlende og musserende vin, unntatt sterkvin og vin med en alkoholstyrke på minst 15 % vol.<br>Grenseverdiene gjelder for produkter framstilt fra og med frukthøsten i 2005. |
-| 1.2.21 | Aromatisert vin, aromatiserte vinbaserte drikker og aromatiserte cocktailer av vinprodukter8 | 2,0 | Grenseverdiene gjelder for produkter framstilt fra og med frukthøsten i 2005.<br>Grenseverdien som gjelder for disse drikkene, avhenger av andelen vin og/eller druemost i det ferdige produktet. |
-| 1.2.22 | Druejuice, druejuice fra konsentrat, konsentrert druejuice, druenektar, druemost og konsentrert druemost som bringes i omsetning til sluttforbrukere9 | 2,0 | For konsentrert druejuice eller konsentrert druemost gjelder grenseverdien for juice eller most etter rekonstituering.<br>Grenseverdiene gjelder for produkter framstilt fra og med frukthøsten i 2005. |
-| 1.2.23 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 0,50 | Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. |
-| 1.2.24 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 | 0,50 | For melk, melkeprodukter og lignende produkter gjelder grenseverdien for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentens anvisninger) og for andre produkter enn melk, melkeprodukter og lignende produkter gjelder grenseverdien for tørrstoffet5. |
+| 1.2.20 | Vin[^7] og fruktvin | 2,0 | Herunder perlende og musserende vin, unntatt sterkvin og vin med en alkoholstyrke på minst 15 % vol.<br>Grenseverdiene gjelder for produkter framstilt fra og med frukthøsten i 2005. |
+| 1.2.21 | Aromatisert vin, aromatiserte vinbaserte drikker og aromatiserte cocktailer av vinprodukter[^8] | 2,0 | Grenseverdiene gjelder for produkter framstilt fra og med frukthøsten i 2005.<br>Grenseverdien som gjelder for disse drikkene, avhenger av andelen vin og/eller druemost i det ferdige produktet. |
+| 1.2.22 | Druejuice, druejuice fra konsentrat, konsentrert druejuice, druenektar, druemost og konsentrert druemost som bringes i omsetning til sluttforbrukere[^9] | 2,0 | For konsentrert druejuice eller konsentrert druemost gjelder grenseverdien for juice eller most etter rekonstituering.<br>Grenseverdiene gjelder for produkter framstilt fra og med frukthøsten i 2005. |
+| 1.2.23 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 0,50 | Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. |
+| 1.2.24 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] | 0,50 | For melk, melkeprodukter og lignende produkter gjelder grenseverdien for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentens anvisninger) og for andre produkter enn melk, melkeprodukter og lignende produkter gjelder grenseverdien for tørrstoffet[^5]. |
 
 | 1.3 | *Patulin* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
-| 1.3.1 | Fruktjuice, fruktjuice fra konsentrat, konsentrert fruktjuice og fruktnektar9 | 50 | For konsentrert fruktjuice gjelder grenseverdien for juice etter rekonstituering. |
-| 1.3.2 | Alkoholsterke drikker10, eplesider og andre gjærede drikker framstilt av epler eller som inneholder eplejuice | 50 |  |
+| 1.3.1 | Fruktjuice, fruktjuice fra konsentrat, konsentrert fruktjuice og fruktnektar[^9] | 50 | For konsentrert fruktjuice gjelder grenseverdien for juice etter rekonstituering. |
+| 1.3.2 | Alkoholsterke drikker[^10], eplesider og andre gjærede drikker framstilt av epler eller som inneholder eplejuice | 50 |  |
 | 1.3.3 | Produkter basert på eple i fast form som bringes i omsetning til sluttforbrukere, unntatt produkter oppført i nr. 1.3.4 og 1.3.5 | 25 | Herunder eplekompott og eplepuré. |
-| 1.3.4 | Eplejuice og produkter basert på eple i fast form beregnet på spedbarn og småbarn3 og som er merket og bringes i omsetning som dette | 10,0 | Herunder eplekompott og eplepuré.<br>Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
-| 1.3.5 | Barnemat3 | 10,0 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 1.3.4 | Eplejuice og produkter basert på eple i fast form beregnet på spedbarn og småbarn[^3] og som er merket og bringes i omsetning som dette | 10,0 | Herunder eplekompott og eplepuré.<br>Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 1.3.5 | Barnemat[^3] | 10,0 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
 
 | ►**M4**<br>1.4 | *Deoksynivalenol* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
-| 1.4.1 | Uforedlet korn unntatt produkter oppført i nr. 1.4.2 og 1.4.3 | 1 000 | Unntatt uforedlede maiskorn beregnet på foredling ved våtformaling og unntatt ris.<br>Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling6. |
-| 1.4.2 | Uforedlede durumhvetekorn og uforedlede maiskorn | 1 500 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede durumhvetekorn og uforedlede maiskorn som bringes i omsetning for første foredling6. |
-| 1.4.3 | Uforedlede havrekorn med ikke-spiselig agn | 1 750 | Grenseverdien gjelder for uforedlede havrekorn med agn som bringes i omsetning for første foredling6.<br>Grenseverdien gjelder for havrekorn med ikke-spiselig agn. |
+| 1.4.1 | Uforedlet korn unntatt produkter oppført i nr. 1.4.2 og 1.4.3 | 1 000 | Unntatt uforedlede maiskorn beregnet på foredling ved våtformaling og unntatt ris.<br>Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling[^6]. |
+| 1.4.2 | Uforedlede durumhvetekorn og uforedlede maiskorn | 1 500 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede durumhvetekorn og uforedlede maiskorn som bringes i omsetning for første foredling[^6]. |
+| 1.4.3 | Uforedlede havrekorn med ikke-spiselig agn | 1 750 | Grenseverdien gjelder for uforedlede havrekorn med agn som bringes i omsetning for første foredling[^6].<br>Grenseverdien gjelder for havrekorn med ikke-spiselig agn. |
 | 1.4.4 | Korn som bringes i omsetning til sluttforbrukere, mais til popping og popkorn | 750 | Unntatt ris. |
 | 1.4.5 | Mølleprodukter av korn, unntatt produktene oppført i nr. 1.4.6 | 600 | Unntatt mølleprodukter av ris. |
 | 1.4.6 | Mølleprodukter av mais |  |  |
@@ -456,15 +456,15 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.4.6.3 | Forkokt, spiseklar polenta | 250 |  |
 | ►**M7**<br>1.4.7 | Bakervarer, kornsnacks og frokostkorn | 400 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Herunder småbakst. ◄**M7** |
 | 1.4.8 | Pasta | 600 | Med «pasta» menes pasta (tørr) med et vanninnhold på cirka 12 %. |
-| ►**M7**<br>1.4.9 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 150 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. |
-| 1.4.10 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 | 150 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. ◄**M7** |
+| ►**M7**<br>1.4.9 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 150 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. |
+| 1.4.10 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] | 150 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. ◄**M7** |
 
 ◄**M4**
 
 | 1.5 | *Zearalenon* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
-| ►**M7**<br>1.5.1 | Uforedlet korn, unntatt produkter oppført i nr. 1.5.2 | 100 | Unntatt uforedlede maiskorn beregnet på foredling ved våtformaling og unntatt ris.<br>Grenseverdien gjelder for uforedlet korn (for havre gjelder det korn med agn) som bringes i omsetning for første foredling6. |
-| 1.5.2 | Uforedlede maiskorn | 350 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede maiskorn som bringes i omsetning for første foredling6. |
+| ►**M7**<br>1.5.1 | Uforedlet korn, unntatt produkter oppført i nr. 1.5.2 | 100 | Unntatt uforedlede maiskorn beregnet på foredling ved våtformaling og unntatt ris.<br>Grenseverdien gjelder for uforedlet korn (for havre gjelder det korn med agn) som bringes i omsetning for første foredling[^6]. |
+| 1.5.2 | Uforedlede maiskorn | 350 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede maiskorn som bringes i omsetning for første foredling[^6]. |
 | 1.5.3 | Korn, kli og kim som bringes i omsetning til sluttforbrukere<br>Mel og semulegryn<br>Unntatt produkter oppført i nr. 1.5.5, 1.5.6 og 1.5.8 | 75 | Unntatt ris og risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene). |
 | 1.5.4 | Brød, kaker, kjeks, kornsnacks og frokostkorn, unntatt produkter oppført i nr. 1.5.5 | 50 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Omfatter småbakst. ◄**M7** |
 | 1.5.5 | Mais som bringes i omsetning til sluttforbrukere<br>Maisbaserte snacks og maisbaserte frokostkorn | 100 |  |
@@ -472,18 +472,18 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.5.6.1 | Maismel som ikke bringes i omsetning til sluttforbrukere | 300 | Minst 90 %, målt etter vekt, av partiklene i mølleproduktet har en størrelse på ≤ 500 μm. |
 | 1.5.6.2 | Andre mølleprodukter av mais som ikke bringes i omsetning til sluttforbrukere | 200 | Mindre enn 90 %, målt etter vekt, av partiklene i mølleproduktet har en størrelse på ≤ 500 μm. |
 | 1.5.7 | Raffinert maisolje | 400 |  |
-| ►**M7**<br>1.5.8 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 20 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning.<br>◄**M7** |
+| ►**M7**<br>1.5.8 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 20 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning.<br>◄**M7** |
 
 | 1.6 | *Fumonisiner* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
 |  |  | *Summen av B1 og B2* | For fumonisiner viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
-| ►**M7**<br>1.6.1 | Uforedlede maiskorn | 4 000 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede maiskorn som bringes i omsetning for første foredling6. ◄**M7** |
+| ►**M7**<br>1.6.1 | Uforedlede maiskorn | 4 000 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede maiskorn som bringes i omsetning for første foredling[^6]. ◄**M7** |
 | 1.6.2 | Mais som bringes i omsetning til sluttforbrukere, mølleprodukter av mais som bringes i omsetning til sluttforbrukere, og maisbaserte næringsmidler som bringes i omsetning til sluttforbrukere, unntatt produkter oppført i nr. 1.6.3 og 1.6.5 | 1 000 |  |
 | 1.6.3 | Maisbaserte frokostkorn og maisbasert snacks | 800 |  |
 | 1.6.4 | Mølleprodukter av mais som ikke bringes i omsetning til sluttforbrukere |  |  |
 | 1.6.4.1 | Maismel som ikke bringes i omsetning til sluttforbrukere | 2 000 | Minst 90 %, målt etter vekt, av partiklene i mølleproduktet har en størrelse på ≤ 500 μm. |
 | 1.6.4.2 | Andre mølleprodukter av mais som ikke bringes i omsetning til sluttforbrukere | 1 400 | Mindre enn 90 %, målt etter vekt, av partiklene i mølleproduktet har en størrelse på ≤ 500 μm. |
-| 1.6.5 | Barnemat som inneholder mais, og foredlede maisbaserte næringsmidler til spedbarn og småbarn3 | 200 | Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. |
+| 1.6.5 | Barnemat som inneholder mais, og foredlede maisbaserte næringsmidler til spedbarn og småbarn[^3] | 200 | Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. |
 
 | 1.7 | *Citrinin* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
@@ -492,7 +492,7 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.8 | *Meldrøyesklerotier og meldrøyealkaloider* |  |  |
 | --- | --- | --- | --- |
 | ►**M7**<br>1.8.1 | *Meldrøyesklerotier* | *Grenseverdi (g/kg)* | *Merknader* |
-|  |  |  | Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling6.<br>Dersom kornet skal tines6 ved forekomst av meldrøyesklerotier, må kornet renses før tining kan gjennnomføres.<br>◄**M7** |
+|  |  |  | Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling[^6].<br>Dersom kornet skal tines[^6] ved forekomst av meldrøyesklerotier, må kornet renses før tining kan gjennnomføres.<br>◄**M7** |
 | 1.8.1.1 | Uforedlet korn, unntatt produkter oppført i nr. 1.8.1.2 | 0,2 | Unntatt mais og ris. |
 | ►**M8**<br>1.8.1.2 | Uforedlede rugkorn | 0,5<br>0,2 fra 1. juli 2025 | ◄**M8** |
 | 1.8.2 | *Meldrøyealkaloider* | Grenseverdi (μg/kg) | Merknader |
@@ -502,16 +502,16 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.8.2.2 | Mølleprodukter av bygg, hvete, spelt og havre (med et askeinnhold på 900 mg/100 g tørrstoff eller over)<br>Korn fra bygg, hvete, spelt og havre som bringes i omsetning til sluttforbrukere | 150 |  |
 | ►**M8**<br>1.8.2.3 | Mølleprodukter av rug<br>Rug som bringes i omsetning til sluttforbrukere | 500<br>250 fra 1. juli 2028 | ◄**M8** |
 | 1.8.2.4 | Hvetegluten | 400 |  |
-| 1.8.2.5 | Foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 20 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 1.8.2.5 | Foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 20 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 
 | ►**M5**<br>1.9 | *T-2- og HT-2 toksiner* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
 |  |  | *Summen av T-2- og HT-2-toksiner* | For summen av T-2- og HT-2-toksiner viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
-| 1.9.1 | Uforedlet korn, unntatt produkter oppført i nr. 1.9.1.1, 1.9.1.2, 1.9.1.3 og 1.9.1.4 | 50 | Unntatt uforedlede maiskorn beregnet på foredling ved våtformaling og unntatt ris.<br>Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling6. |
-| 1.9.1.1 | Uforedlede maltbyggkorn | 200 | Grenseverdien gjelder for uforedlede maltbyggkorn som bringes i omsetning for første foredling6. |
-| 1.9.1.2 | Uforedlede byggkorn, unntatt maltbyggkorn | 150 | Grenseverdien gjelder for uforedlede byggkorn som bringes i omsetning for første foredling6. |
-| 1.9.1.3 | Uforedlede maiskorn og uforedlede durumhvetekorn | 100 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede maiskorn og uforedlede durumhvetekorn som bringes i omsetning for første foredling6. |
-| 1.9.1.4 | Uforedlede havrekorn med ikke-spiselig agn | 1 250 | Grenseverdien gjelder for uforedlede havrekorn med agn som bringes i omsetning for første foredling6.<br>Grenseverdien gjelder for havrekorn med ikke-spiselig agn. |
+| 1.9.1 | Uforedlet korn, unntatt produkter oppført i nr. 1.9.1.1, 1.9.1.2, 1.9.1.3 og 1.9.1.4 | 50 | Unntatt uforedlede maiskorn beregnet på foredling ved våtformaling og unntatt ris.<br>Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling[^6]. |
+| 1.9.1.1 | Uforedlede maltbyggkorn | 200 | Grenseverdien gjelder for uforedlede maltbyggkorn som bringes i omsetning for første foredling[^6]. |
+| 1.9.1.2 | Uforedlede byggkorn, unntatt maltbyggkorn | 150 | Grenseverdien gjelder for uforedlede byggkorn som bringes i omsetning for første foredling[^6]. |
+| 1.9.1.3 | Uforedlede maiskorn og uforedlede durumhvetekorn | 100 | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon).<br>Grenseverdien gjelder for uforedlede maiskorn og uforedlede durumhvetekorn som bringes i omsetning for første foredling[^6]. |
+| 1.9.1.4 | Uforedlede havrekorn med ikke-spiselig agn | 1 250 | Grenseverdien gjelder for uforedlede havrekorn med agn som bringes i omsetning for første foredling[^6].<br>Grenseverdien gjelder for havrekorn med ikke-spiselig agn. |
 | 1.9.2 | Korn som bringes i omsetning til sluttforbrukere, unntatt produkter oppført i nr. 1.9.2.1 og 1.9.2.2 | 20 | Unntatt ris. |
 | 1.9.2.1 | Havre som bringes i omsetning til sluttforbrukere | 100 |  |
 | 1.9.2.2 | Bygg, mais og durumhvete som bringes i omsetning til sluttforbrukere | 50 |  |
@@ -523,8 +523,8 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 1.9.6 | Havreflak | 100 |  |
 | 1.9.7 | Frokostkorn som består av minst 50 % kornkli, mølleprodukter av havrekorn, mølleprodukter av maiskorn, hele havrekorn, byggkorn, maiskorn eller durumhvetekorn, og som består av mindre enn 40 % mølleprodukter av havrekorn og hele havrekorn | 50 |  |
 | 1.9.8 | Frokostkorn som består av minst 50 % kornkli, mølleprodukter av havrekorn, mølleprodukter av maiskorn, hele havrekorn, byggkorn, maiskorn eller durumhvetekorn, og som består av minst 40 % mølleprodukter av havrekorn og hele havrekorn | 75 |  |
-| ►**M7**<br>1.9.9 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 10 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. |
-| 1.9.10 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 | 10 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet5 i produktet slik det bringes i omsetning. ◄M7 |
+| ►**M7**<br>1.9.9 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 10 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. |
+| 1.9.10 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] | 10 | Unntatt risprodukter (produkter der ris eller foredlede produkter av ris er de eneste korningrediensene).<br>Grenseverdien gjelder for tørrstoffet[^5] i produktet slik det bringes i omsetning. ◄M7 |
 
 ◄**M5**
 
@@ -538,11 +538,11 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 2.2 | *Tropanalkaloider* | *Grenseverdi (μg/kg)* |  | *Merknader* |
 | --- | --- | --- | --- | --- |
 |  |  | *Atropin* | *Skopolamin* |  |
-| ►**M7**<br>2.2.1 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 som inneholder hirse, sorghum, bokhvete, mais eller avledede produkter av disse | 1,0 | 1,0 | Med «avledede produkter» menes produkter som inneholder minst 80 % av disse kornproduktene.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning<br>◄**M7** |
+| ►**M7**<br>2.2.1 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] som inneholder hirse, sorghum, bokhvete, mais eller avledede produkter av disse | 1,0 | 1,0 | Med «avledede produkter» menes produkter som inneholder minst 80 % av disse kornproduktene.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning<br>◄**M7** |
 |  |  | *Summen av atropin og skopolamin* |  | For summen av atropin og skopolamin viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
-| ►**M7**<br>2.2.2 | Uforedlede hirsekorn og sorghumkorn | 5,0 |  | Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling6. |
-| 2.2.3 | Uforedlede maiskorn | 15 |  | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon), og unntatt uforedlede maiskorn til popping.<br>Grenseverdien gjelder for uforedlede maiskorn som bringes i omsetning for første foredling6. |
-| 2.2.4 | Uforedlede bokhvetekorn | 10 |  | Grenseverdien gjelder for uforedlede bokhvetekorn som bringes i omsetning for første foredling6. ◄**M7** |
+| ►**M7**<br>2.2.2 | Uforedlede hirsekorn og sorghumkorn | 5,0 |  | Grenseverdien gjelder for uforedlet korn som bringes i omsetning for første foredling[^6]. |
+| 2.2.3 | Uforedlede maiskorn | 15 |  | Unntatt uforedlede maiskorn når det klart framgår, f.eks. ved merking eller pga. bestemmelsessted, at de bare er ment til bruk i en våtformalingsprosess (stivelsesproduksjon), og unntatt uforedlede maiskorn til popping.<br>Grenseverdien gjelder for uforedlede maiskorn som bringes i omsetning for første foredling[^6]. |
+| 2.2.4 | Uforedlede bokhvetekorn | 10 |  | Grenseverdien gjelder for uforedlede bokhvetekorn som bringes i omsetning for første foredling[^6]. ◄**M7** |
 | 2.2.5 | Mais til popping<br>Hirse, sorghum og mais som bringes i omsetning til sluttforbrukere<br>Mølleprodukter av hirse, sorghum og mais | 5,0 |  |  |
 | 2.2.6 | Bokhvete som bringes i omsetning til sluttforbrukere<br>Mølleprodukter av bokhvete | 10 |  |  |
 | 2.2.7 | Urtete (tørket produkt) og ingredienser som brukes til urtete (tørkede produkter), unntatt produkter oppført i nr. 2.2.8 | 25 |  | Med «urtete (tørket produkt)» menes<br>– urtete (tørket produkt) fra blomster, blader, stilker, røtter og andre plantedeler (i poser eller løsvekt) som brukes til å lage urtete (flytende produkt), og<br>– urtete i pulverform. For ekstrakter i pulverform skal konsentrasjonsfaktoren være 4. |
@@ -552,8 +552,8 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 2.3 | *Hydrogencyanid, herunder hydrogencyanid bundet i cyanogene glykosider* | *Øvre gren­se­verdi (mg/<br>kg)* | *Merknader* |
 | --- | --- | --- | --- |
 | ►**M7**<br>2.3.1 | Uforedlede hele, malte, knuste, kvernede eller hakkede linfrø som ikke bringes i omsetning til sluttforbrukere | 250 | Grenseverdien gjelder ikke for oljeholdige frø som skal knuses til bruk i produksjon av raffinert vegetabilsk olje, forutsatt at restene av de pressede oljeholdige frøene ikke bringes i omsetning som næringsmiddel. Dersom restene av de pressede oljeholdige frøene bringes i omsetning som næringsmiddel, gjelder grenseverdien, idet det tas hensyn til artikkel 3 nr. 1 og 2 |
-| 2.3.2 | Hele, malte, knuste, kvernede eller hakkede linfrø som bringes i omsetning til sluttforbrukere | 150 | Grenseverdien gjelder ikke for hele, malte, knuste, kvernede eller hakkede linfrø som bringes i omsetning til sluttforbrukere i små mengder der advarselen «Skal bare brukes til matlaging og baking. Må ikke spises rå!» vises i etikettens hovedsynsfelt (med den spesifikke skriftstørrelsen11). De hele, malte, knuste, kvernede eller hakkede linfrøene med denne advarselen skal overholde grenseverdien fastsatt i nr. 2.3.1. ◄**M7** |
-| 2.3.3 | Uforedlede hele, malte, knuste, kvernede eller hakkede mandler som bringes i omsetning til sluttforbrukere | 35 | Grenseverdien gjelder ikke for uforedlede hele, malte, knuste, kvernede eller hakkede bitre mandler som bringes i omsetning til sluttforbrukere i små mengder der advarselen «Skal bare brukes til matlaging og baking. Må ikke spises rå!» vises i etikettens hovedsynsfelt (med den spesifikke skriftstørrelsen11). |
+| 2.3.2 | Hele, malte, knuste, kvernede eller hakkede linfrø som bringes i omsetning til sluttforbrukere | 150 | Grenseverdien gjelder ikke for hele, malte, knuste, kvernede eller hakkede linfrø som bringes i omsetning til sluttforbrukere i små mengder der advarselen «Skal bare brukes til matlaging og baking. Må ikke spises rå!» vises i etikettens hovedsynsfelt (med den spesifikke skriftstørrelsen[^11]). De hele, malte, knuste, kvernede eller hakkede linfrøene med denne advarselen skal overholde grenseverdien fastsatt i nr. 2.3.1. ◄**M7** |
+| 2.3.3 | Uforedlede hele, malte, knuste, kvernede eller hakkede mandler som bringes i omsetning til sluttforbrukere | 35 | Grenseverdien gjelder ikke for uforedlede hele, malte, knuste, kvernede eller hakkede bitre mandler som bringes i omsetning til sluttforbrukere i små mengder der advarselen «Skal bare brukes til matlaging og baking. Må ikke spises rå!» vises i etikettens hovedsynsfelt (med den spesifikke skriftstørrelsen[^11]). |
 | 2.3.4 | Uforedlede hele, malte, knuste, kvernede eller hakkede aprikoskjerner som bringes i omsetning til sluttforbrukere | 20,0 | En driftsansvarlig som bringer uforedlede hele, malte, knuste, kvernede eller hakkede aprikoskjerner i omsetning til sluttforbrukere, skal på anmodning fra vedkommende myndighet framlegge dokumentasjon på at det omsatte produktet overholder grenseverdien. |
 | 2.3.5 | Kassavarot (frisk, skrellet) | 50,0 |  |
 | 2.3.6 | Kassavamel og tapiokamel | 10,0 |  |
@@ -564,14 +564,14 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 2.4.1 | Blader av agurkurt (friske, frosne) som bringes i omsetning til sluttforbrukere | 750 | Dette berører ikke mer restriktive nasjonale regler i visse medlemsstater for å bringe planter som inneholder pyrrolizidinalkaloider, i omsetning. |
 | 2.4.2 | Tørkede urter, unntatt produkter oppført i nr. 2.4.3 | 400 | Dette berører ikke mer restriktive nasjonale regler i visse medlemsstater for å bringe planter som inneholder pyrrolizidinalkaloider, i omsetning. |
 | 2.4.3 | Agurkurt, løpstikke, merian og oregano (tørket produkt) og blandinger som utelukkende består av disse tørkede urtene | 1 000 | Dette berører ikke mer restriktive nasjonale regler i visse medlemsstater for å bringe planter som inneholder pyrrolizidinalkaloider, i omsetning. |
-| 2.4.4 | Te (*Camellia sinensis*) og aromatisert te12 (*Camellia sinensis*) (tørket produkt), unntatt te og aromatisert te oppført i nr. 2.4.5 | 150 | For te med tørkede frukter og tørkede urter gjelder artikkel 3.<br>Med «Te (*Camellia sinensis*) (tørket produkt)» menes<br>– te (*Camellia sinensis*) (tørket produkt) fra tørkede blader, stilker og blomster (i pose eller løsvekt) som brukes til å lage te (flytende produkt), og<br>– pulverte. For teekstrakter i pulverform skal konsentrasjonsfaktoren være 4. |
-| 2.4.5 | Te (*Camellia sinensis*), aromatisert te12 (*Camellia sinensis*) og urtete (tørket produkt) og ingredienser som brukes til urtete (tørkede produkter) til spedbarn og småbarn | 75 | For te med tørkede frukter og tørkede urter gjelder artikkel 3. |
-| 2.4.6 | Te (*Camellia sinensis*), aromatisert te12 (*Camellia sinensis*) og urtete (flytende produkt) til spedbarn og småbarn | 1,0 | For te med tørkede frukter og tørkede urter gjelder artikkel 3. |
+| 2.4.4 | Te (*Camellia sinensis*) og aromatisert te[^12] (*Camellia sinensis*) (tørket produkt), unntatt te og aromatisert te oppført i nr. 2.4.5 | 150 | For te med tørkede frukter og tørkede urter gjelder artikkel 3.<br>Med «Te (*Camellia sinensis*) (tørket produkt)» menes<br>– te (*Camellia sinensis*) (tørket produkt) fra tørkede blader, stilker og blomster (i pose eller løsvekt) som brukes til å lage te (flytende produkt), og<br>– pulverte. For teekstrakter i pulverform skal konsentrasjonsfaktoren være 4. |
+| 2.4.5 | Te (*Camellia sinensis*), aromatisert te[^12] (*Camellia sinensis*) og urtete (tørket produkt) og ingredienser som brukes til urtete (tørkede produkter) til spedbarn og småbarn | 75 | For te med tørkede frukter og tørkede urter gjelder artikkel 3. |
+| 2.4.6 | Te (*Camellia sinensis*), aromatisert te[^12] (*Camellia sinensis*) og urtete (flytende produkt) til spedbarn og småbarn | 1,0 | For te med tørkede frukter og tørkede urter gjelder artikkel 3. |
 | 2.4.7 | Urtete (tørket produkt) og ingredienser som brukes til urtete (tørkede produkter), unntatt produkter oppført i nr. 2.4.5 og 2.4.8 | 200 | Med «urtete (tørket produkt)» menes<br>– urtete (tørket produkt) fra blomster, blader, stilker, røtter og andre plantedeler (i poser eller løsvekt) som brukes til å lage urtete (flytende produkt), og |
 |  |  |  | – urtete i pulverform. For ekstrakter i pulverform skal konsentrasjonsfaktoren være 4.<br>Dette berører ikke mer restriktive nasjonale regler i visse medlemsstater for å bringe planter som inneholder pyrrolizidinalkaloider, i omsetning. |
 | 2.4.8 | Urtete (tørket produkt) og ingredienser som brukes til urtete (tørkede produkter) av rooibos, anis (*Pimpinella anisum*), sitronmelisse, kamille, timian, peppermynte, sitronverbena og blandinger som utelukkende består av disse tørkede urtene, unntatt urtete oppført i nr. 2.4.5 | 400 | Med «urtete (tørket produkt)» menes<br>– urtete (tørket produkt) fra blomster, blader, stilker, røtter og andre plantedeler (i poser eller løsvekt) som brukes til å lage urtete (flytende produkt), og<br>– urtete i pulverform. For ekstrakter i pulverform skal konsentrasjonsfaktoren være 4. |
 | 2.4.9 | Spisskummen | 400 |  |
-| 2.4.10 | Kosttilskudd som inneholder plantepreparater13, herunder ekstrakter, unntatt produkter oppført i nr. 2.4.11 | 400 | Grenseverdien gjelder for kosttilskuddene slik de bringes i omsetning.<br>Dette berører ikke mer restriktive nasjonale regler i visse medlemsstater for å bringe planter som inneholder pyrrolizidinalkaloider, i omsetning. |
+| 2.4.10 | Kosttilskudd som inneholder plantepreparater[^13], herunder ekstrakter, unntatt produkter oppført i nr. 2.4.11 | 400 | Grenseverdien gjelder for kosttilskuddene slik de bringes i omsetning.<br>Dette berører ikke mer restriktive nasjonale regler i visse medlemsstater for å bringe planter som inneholder pyrrolizidinalkaloider, i omsetning. |
 | 2.4.11 | Pollenbaserte kosttilskudd<br>Pollen og pollenprodukter | 500 | Grenseverdien gjelder for kosttilskuddene slik de bringes i omsetning. |
 
 | 2.5 | *Opiumalkaloider* | *Øvre gren­se­verdi (mg/<br>kg)* | *Merknader* |
@@ -619,43 +619,43 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 3.1.12.4 | Krydder i form av røtter og jordstengler | 1,50 |  |
 | 3.1.12.5 | Krydder i form av knopper | 1,0 |  |
 | 3.1.12.6 | Krydder i form av støvveier | 1,0 |  |
-| 3.1.13 | Kjøtt av storfe, sau, svin og fjørfe2, unntatt produkter oppført i nr. 3.1.14 | 0,10 | Grenseverdien gjelder for våtvekten. |
-| 3.1.14 | Slaktebiprodukter2 |  | Grenseverdien gjelder for våtvekten. |
+| 3.1.13 | Kjøtt av storfe, sau, svin og fjørfe[^2], unntatt produkter oppført i nr. 3.1.14 | 0,10 | Grenseverdien gjelder for våtvekten. |
+| 3.1.14 | Slaktebiprodukter[^2] |  | Grenseverdien gjelder for våtvekten. |
 | 3.1.14.1 | fra storfe og sau | 0,20 |  |
 | 3.1.14.2 | fra svin | 0,15 |  |
 | 3.1.14.3 | fra fjørfe | 0,10 |  |
-| 3.1.15 | Fiskerivarer2 og muslinger2 |  | Grenseverdien gjelder for våtvekten. |
+| 3.1.15 | Fiskerivarer[^2] og muslinger[^2] |  | Grenseverdien gjelder for våtvekten. |
 | 3.1.15.1 | Muskelkjøtt fra fisk | 0,30 | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.1.15.2 | Blekksprut | 0,30 | Grenseverdien gjelder for dyret uten indre organer. |
 | 3.1.15.3 | Krepsdyr | 0,50 | Grenseverdien gjelder for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. For krabber og krabbelignende krepsdyr (*Brachyura* og *Anomura*) gjelder grenseverdien for muskelkjøtt fra lemmer.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.1.15.4 | Muslinger | 1,50 | For *Pecten maximus* gjelder grenseverdien bare for skjellmuskelen og gonaden.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
-| 3.1.16 | Rå melk2, varmebehandlet melk og melk til produksjon av melkebaserte produkter | 0,020 | Grenseverdien gjelder for våtvekten. |
+| 3.1.16 | Rå melk[^2], varmebehandlet melk og melk til produksjon av melkebaserte produkter | 0,020 | Grenseverdien gjelder for våtvekten. |
 | 3.1.17 | Honning | 0,10 |  |
 | 3.1.18 | Fettstoffer og oljer | 0,10 | Herunder melkefett. |
-| 3.1.19 | Fruktjuice, fruktjuice fra konsentrat, konsentrert fruktjuice og fruktnektar9 |  | Grenseverdien gjelder for våtvekten.<br>For konsentrert fruktjuice gjelder grenseverdien for juice etter rekonstituering. |
+| 3.1.19 | Fruktjuice, fruktjuice fra konsentrat, konsentrert fruktjuice og fruktnektar[^9] |  | Grenseverdien gjelder for våtvekten.<br>For konsentrert fruktjuice gjelder grenseverdien for juice etter rekonstituering. |
 | 3.1.19.1 | utelukkende fra bær og andre små frukter | 0,05 |  |
 | 3.1.19.2 | fra annet enn utelukkende fra bær og andre små frukter, herunder blandinger | 0,03 |  |
-| 3.1.20 | Vin7, eplesider, pæresider og fruktvin |  | Grenseverdien gjelder for våtvekten.<br>Herunder perlende og musserende vin, unntatt sterkvin og vin med en alkoholstyrke på minst 15 % vol. |
+| 3.1.20 | Vin[^7], eplesider, pæresider og fruktvin |  | Grenseverdien gjelder for våtvekten.<br>Herunder perlende og musserende vin, unntatt sterkvin og vin med en alkoholstyrke på minst 15 % vol. |
 | 3.1.20.1 | produkter framstilt fra frukthøsten i 2001 til frukthøsten i 2015 | 0,20 |  |
 | 3.1.20.2 | produkter framstilt fra frukthøsten i 2016 til frukthøsten i 2021 | 0,15 |  |
 | 3.1.20.3 | produkter framstilt fra og med frukthøsten i 2022 | 0,10 |  |
-| 3.1.21 | Aromatisert vin, aromatiserte vinbaserte drikker og aromatiserte cocktailer av vinprodukter8 |  | Grenseverdien gjelder for våtvekten. |
+| 3.1.21 | Aromatisert vin, aromatiserte vinbaserte drikker og aromatiserte cocktailer av vinprodukter[^8] |  | Grenseverdien gjelder for våtvekten. |
 | 3.1.21.1 | produkter framstilt fra frukthøsten i 2001 til frukthøsten i 2015 | 0,20 |  |
 | 3.1.21.2 | produkter framstilt fra frukthøsten i 2016 til frukthøsten i 2021 | 0,15 |  |
 | 3.1.21.3 | produkter framstilt fra og med frukthøsten i 2022 | 0,10 |  |
-| 3.1.22 | Sterkvin laget av druer7 |  | Grenseverdien gjelder for våtvekten. |
+| 3.1.22 | Sterkvin laget av druer[^7] |  | Grenseverdien gjelder for våtvekten. |
 | 3.1.22.1 | produkter framstilt fra og med frukthøsten i 2022 | 0,15 |  |
 | 3.1.23 | Salter |  |  |
 | 3.1.23.1 | Salter, unntatt produkter oppført i nr. 3.1.23.2 | 1,0 |  |
 | 3.1.23.2 | Følgende uraffinerte salter: «fleur de sel» og «gråsalt» som høstes for hånd fra saltsumper med leirbunn | 2,0 |  |
-| 3.1.24 | Morsmelkerstatninger, tilskuddsblandinger3 og småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.1.24 | Morsmelkerstatninger, tilskuddsblandinger[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.1.24.1 | som bringes i omsetning i pulverform | 0,020 |  |
 | 3.1.24.2 | som bringes i omsetning i flytende form | 0,010 |  |
 | 3.1.25 | Drikker til spedbarn og småbarn som bringes i omsetning og merkes som dette, unntatt produkter oppført i nr. 3.1.24 og 3.1.27 |  |  |
 | 3.1.25.1 | som bringes i omsetning i flytende form, eller som skal rekonstitueres i henhold til produsentens anvisninger | 0,020 | Herunder fruktjuice.<br>Grenseverdien gjelder for bruksklare produkter. |
 | 3.1.25.2 | som skal tilberedes ved uttrekking eller avkoking | 0,50 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.1.26 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3, unntatt produkter oppført i nr. 3.1.25 | 0,020 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.1.27 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.1.26 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3], unntatt produkter oppført i nr. 3.1.25 | 0,020 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.1.27 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.1.27.1 | som bringes i omsetning i pulverform | 0,020 |  |
 | 3.1.27.2 | som bringes i omsetning i flytende form | 0,010 |  |
 | 3.1.28 | Kosttilskudd | 3,0 |  |
@@ -715,12 +715,12 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 3.2.12.3 | Ris, kinoa, hvetekli og hvetegluten | 0,15 |  |
 | 3.2.12.4 | Durumhvete (*Triticum durum*) | 0,18 |  |
 | 3.2.12.5 | Hvetekim | 0,20 |  |
-| 3.2.13 | Produkter av animalsk opprinnelse2 |  | Grenseverdien gjelder for våtvekten. |
+| 3.2.13 | Produkter av animalsk opprinnelse[^2] |  | Grenseverdien gjelder for våtvekten. |
 | 3.2.13.1 | Kjøtt fra storfe, sau, svin og fjørfe | 0,050 | Unntatt slaktebiprodukter. |
 | 3.2.13.2 | Hestekjøtt | 0,20 | Unntatt slaktebiprodukter. |
 | 3.2.13.3 | Lever fra storfe, sau, svin, fjørfe og hest | 0,50 |  |
 | 3.2.13.4 | Nyrer fra storfe, sau, svin, fjørfe og hest | 1,0 |  |
-| 3.2.14 | Fiskerivarer2 og muslinger2 |  | Grenseverdien gjelder for våtvekten. |
+| 3.2.14 | Fiskerivarer[^2] og muslinger[^2] |  | Grenseverdien gjelder for våtvekten. |
 | 3.2.14.1 | Muskelkjøtt fra fisk, unntatt artene oppført i nr. 3.2.14.2, 3.2.14.3 og 3.2.14.4 | 0,050 | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.2.14.2 | Muskelkjøtt fra følgende fiskearter:<br>Makrell (*Scomber* spp.)<br>Tunfisk (*Thunnus* spp., *Katsuwonus pelamis, Euthynnus* spp.)<br>*Sicyopterus lagocephalus* | 0,10 | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.2.14.3 | Muskelkjøtt fra auxid (*Auxis* spp.) | 0,15 | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
@@ -728,30 +728,30 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 3.2.14.5 | Krepsdyr | 0,50 | Grenseverdien gjelder for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. For krabber og krabbelignende krepsdyr (*Brachyura* og *Anomura*) gjelder grenseverdien for muskelkjøtt fra lemmer.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.2.14.6 | Muslinger | 1,0 | For *Pecten maximus* gjelder grenseverdien bare for skjellmuskelen og gonaden.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.2.14.7 | Blekksprut | 1,0 | Grenseverdien gjelder for dyret uten indre organer.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
-| 3.2.15 | Kakao- og sjokoladeprodukter14 |  |  |
+| 3.2.15 | Kakao- og sjokoladeprodukter[^14] |  |  |
 | 3.2.15.1 | Melkesjokolade med < 30 % kakaotørrstoff i alt | 0,10 |  |
 | 3.2.15.2 | Sjokolade med < 50 % kakaotørrstoff i alt, melkesjokolade med ≥ 30 % kakaotørrstoff i alt | 0,30 |  |
 | 3.2.15.3 | Sjokolade med ≥ 50 % kakaotørrstoff i alt | 0,80 |  |
 | 3.2.15.4 | Kakaopulver som bringes i omsetning til sluttforbrukere eller som ingrediens i søtet kakaopulver eller sjokoladepulver som bringes i omsetning til sluttforbrukere (drikkesjokolade) | 0,60 |  |
 | 3.2.16 | Salt | 0,50 |  |
-| 3.2.17 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 og småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.2.17 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.2.17.1 | som bringes i omsetning i pulverform og er framstilt av kumelkproteiner eller kumelkproteinhydrolysater | 0,010 |  |
 | 3.2.17.2 | som bringes i omsetning i flytende form og er framstilt av kumelkproteiner eller kumelkproteinhydrolysater | 0,005 |  |
 | 3.2.17.3 | som bringes i omsetning og er framstilt av soyaproteinisolater, alene eller blandet med kumelkproteiner | 0,020 |  |
 | 3.2.17.4 | som bringes i omsetning i flytende form og er framstilt av soyaproteinisolater, alene eller blandet med kumelkproteiner | 0,010 |  |
-| 3.2.18 | Småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.2.18 | Småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.2.18.1 | som bringes i omsetning i pulverform og er framstilt av andre planteproteinisolater enn soyaproteinisolater, alene eller blandet med kumelkproteiner | 0,020 |  |
 | 3.2.18.2 | som bringes i omsetning i flytende form og er framstilt av andre planteproteinisolater enn soyaproteinisolater, alene eller blandet med kumelkproteiner | 0,010 |  |
 | 3.2.19 | Drikker til spedbarn og småbarn som merkes og bringes i omsetning som dette, unntatt produkter oppført i nr. 3.2.17 og 3.2.18 |  |  |
 | 3.2.19.1 | som bringes i omsetning i flytende form, eller som skal rekonstitueres i henhold til produsentens anvisninger | 0,020 | Herunder fruktjuice.<br>Grenseverdien gjelder for bruksklare produkter. |
-| 3.2.20 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 0,040 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.2.20 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 0,040 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.2.21 | Kosttilskudd |  |  |
 | 3.2.21.1 | Kosttilskudd, unntatt produkter oppført i nr. 3.2.21.2 | 1,0 |  |
-| 3.2.21.2 | Kosttilskudd som består av minst 80 % tørkede makroalger, produkter framstilt av makroalger eller tørkede muslinger2 | 3,0 |  |
+| 3.2.21.2 | Kosttilskudd som består av minst 80 % tørkede makroalger, produkter framstilt av makroalger eller tørkede muslinger[^2] | 3,0 |  |
 
 | 3.3 | *Kvikksølv* | *Øvre gren­se­verdi (mg/<br>kg)* | *Merknader* |
 | --- | --- | --- | --- |
-| 3.3.1 | Fiskerivarer2 og muslinger2 |  | Grenseverdien gjelder for våtvekten.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
+| 3.3.1 | Fiskerivarer[^2] og muslinger[^2] |  | Grenseverdien gjelder for våtvekten.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.3.1.1 | Krepsdyr, bløtdyr og muskelkjøtt fra fisk, unntatt arter oppført i nr. 3.3.1.2 og 3.3.1.3 | 0,50 | For krepsdyr gjelder grenseverdien for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. For krabber og krabbelignende krepsdyr (*Brachyura* og *Anomura*) gjelder grenseverdien for muskelkjøtt fra lemmer.<br>For *Pecten maximus* gjelder grenseverdien bare for skjellmuskelen og gonaden. |
 | 3.3.1.2 | Muskelkjøtt fra følgende fiskearter:<br>*Pagellus acarne*<br>Dolkfisk (*Aphanopus carbo*)<br>Flekkpagell (*Pagellus bogaraveo*)<br>Stripet pelamide (*Sarda sarda*)<br>Rødpagell (*Pagellus erythrinus*)<br>Escolar (*Lepidocybium flavobrunneum*)<br>Kveite (*Hippoglossus* spp.)<br>*Genypterus capensis*<br>Marlin (*Makaira* spp.)<br>Glassvar (*Lepidorhombus* spp.)<br>*Ruvettus pretiosus*<br>*Hoplostethus atlanticus*<br>*Genypterus blacodes*<br>Gjedde (*Esox* spp.)<br>Ustripet pelamide (*Orcynopsis unicolor*)<br>Sypike (*Trisopterus* spp.)<br>Rødmulle (*Mullus barbatus barbatus*)<br>Skolest (*Coryphaenoides rupestris*)<br>Seilfisk (*Istiophorus* spp.)<br>Slirefisk (*Lepidopus caudatus*)<br>*Gempylus serpens*<br>Stør (*Acipenser* spp.)<br>Mulle (*Mullus surmuletus)*<br>Tunfisk (*Thunnus* spp., *Euthynnus* spp., *Katsuwonus pelamis*)<br>Hai (alle arter)<br>Sverdfisk (*Xiphias gladius*) | 1,0 |  |
 | 3.3.1.3 | Blekksprut<br>Sjøsnegler<br>Muskelkjøtt fra følgende fiskearter:<br>Ansjos (*Engraulis* spp.)<br>Alaskatorsk (*Theragra chalcogramma*)<br>Torsk (*Gadus morhua*)<br>Sild (*Clupea harengus*)<br>*Pangasius bocourti*<br>Karpe (arter som tilhører *Cyprinidae*-familien)<br>Sandflyndre (*Limanda limanda*)<br>Makrell (*Scomber* spp.)<br>Skrubbe (*Platichthys flesus*)<br>Rødspette (*Pleuronectes platessa*)<br>Brisling (*Sprattus sprattus*)<br>*Pangasianodon gigas*<br>Lyr (*Pollachius pollachius*) | 0,30 | For blekksprut gjelder grenseverdien for dyret uten innvoller. |
@@ -767,13 +767,13 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 3.4.1.2 | Forvellet ris og avskallet ris | 0,25 |  |
 | 3.4.1.3 | Rismel | 0,25 |  |
 | 3.4.1.4 | Risvafler, riskjeks, riskaker, risflak og puffet ris | 0,30 |  |
-| 3.4.1.5 | Ris beregnet på framstilling av næringsmidler til spedbarn og småbarn3 | 0,10 |  |
+| 3.4.1.5 | Ris beregnet på framstilling av næringsmidler til spedbarn og småbarn[^3] | 0,10 |  |
 | 3.4.1.6 | Alkoholfrie risbaserte drikker | 0,030 |  |
-| 3.4.2 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 og småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.4.2 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.4.2.1 | som bringes i omsetning i pulverform | 0,020 |  |
 | 3.4.2.2 | som bringes i omsetning i flytende form | 0,010 |  |
-| 3.4.3 | Barnemat3 | 0,020 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.4.4 | Fruktjuice, konsentrert fruktjuice etter rekonstituering og fruktnektar9 | 0,020 |  |
+| 3.4.3 | Barnemat[^3] | 0,020 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.4.4 | Fruktjuice, konsentrert fruktjuice etter rekonstituering og fruktnektar[^9] | 0,020 |  |
 | ►**M10**<br>3.4.5 | Muskelkjøtt fra følgende fiskearter: |  | Grenseverdien gjelder for våtvekten.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 3.4.5.1 | Andre arter enn de som er oppført i nr. 4.3.5.2 | 0,10 |  |
 | 3.4.5.2 | Breiflabb, marulk og newzealandsk stjernekikker (arter av *Lophius*; *Kathetostoma giganteum*), flyndrefisk (arter av *Pleuronectiformes*), hyse (*Melanogrammus aeglefinus*), sild (arter av *Clupea*), skate (arter av *Rajidae*) og hai (alle arter) | 0,50 |  |
@@ -792,9 +792,9 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | --- | --- | --- | --- |
 | 3.5.1 | Næringsmidler på boks, unntatt produkter oppført i nr. 3.5.2, 3.5.3, 3.5.4 og 3.5.5 | 200 | Grenseverdien gjelder for våtvekten. |
 | 3.5.2 | Drikker på boks, unntatt produkter oppført i nr. 3.5.3, 3.5.4 og 3.5.5 | 100 | Grenseverdien gjelder for våtvekten.<br>Herunder fruktjuice og grønnsakjuice. |
-| 3.5.3 | Morsmelkerstatninger på boks, tilskuddsblandinger på boks3 og småbarnsnæring på boks4 | 50 | Unntatt tørkede produkter på boks og produkter i pulverform på boks.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.5.4 | Barnemat på boks og foredlede kornbaserte næringsmidler til spedbarn og småbarn på boks3 | 50 | Unntatt tørkede produkter på boks og produkter i pulverform på boks.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.5.5 | Næringsmidler på boks til spesielle medisinske formål beregnet på spedbarn og småbarn3 | 50 | Unntatt tørkede produkter på boks og produkter i pulverform på boks.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.5.3 | Morsmelkerstatninger på boks, tilskuddsblandinger på boks[^3] og småbarnsnæring på boks[^4] | 50 | Unntatt tørkede produkter på boks og produkter i pulverform på boks.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.5.4 | Barnemat på boks og foredlede kornbaserte næringsmidler til spedbarn og småbarn på boks[^3] | 50 | Unntatt tørkede produkter på boks og produkter i pulverform på boks.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.5.5 | Næringsmidler på boks til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] | 50 | Unntatt tørkede produkter på boks og produkter i pulverform på boks.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 
 ►**M9**
 
@@ -813,7 +813,7 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 3.6.6.1 | Belgfrukter, unntatt produkter oppført i nr. 3.6.6.2 | 1,0 |  |
 | 3.6.6.2 | Soyabønner/edamame (*Glycine max*) | 6,0 |  |
 | 3.6.7 | Stengelgrønnsaker | 0,40 | Grenseverdien gjelder for våtvekten.<br>Grenseverdien gjelder etter vasking og etter at den spiselige delen er skilt fra. |
-| 3.6.8 | Makroalger |  | For tørkede makroalger gjelder grenseverdien for produktet slik det bringes i omsetning.<br>For friske makroalger gjelder grenseverdien etter vasking og etter at den spiselige delen er skilt fra. For ferske makroalger gjelder grenseverdien i tørrstoff\*. |
+| 3.6.8 | Makroalger |  | For tørkede makroalger gjelder grenseverdien for produktet slik det bringes i omsetning.<br>For friske makroalger gjelder grenseverdien etter vasking og etter at den spiselige delen er skilt fra. For ferske makroalger gjelder grenseverdien i tørrstoff[^\*]. |
 | 3.6.8.1 | Makroalger, unntatt produkter oppført i nr. 3.6.8.2. | 30 |  |
 | 3.6.8.2 | Wakame | 40 |  |
 | 3.6.9 | Belgfrukter |  |  |
@@ -829,17 +829,17 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 3.6.11.3 | Avskallet ris | 2,0<br>Fra 1. juli 2026. |  |
 | 3.6.11.4 | Pseudokorn og hirse | 3,0<br>Fra 1. juli 2026. |  |
 | 3.6.11.5 | Havre | 5,0<br>Fra 1. juli 2026. | Grenseverdien gjelder for havrekorn uten den ikke-spiselige agnen. For å beregne grenseverdien for havrekorn med den ikke-spiselige agnen, må det benyttes en prosessfaktor på 1,5, noe som gir en grenseverdi på 7,5 mg/kg for havre med den ikke-spiselige agnen. |
-| 3.6.12 | Kakao- og sjokoladeprodukter14 |  |  |
+| 3.6.12 | Kakao- og sjokoladeprodukter[^14] |  |  |
 | 3.6.12.1 | Melkesjokolade med < 30 % kakaotørrstoff i alt | 2,5 |  |
 | 3.6.12.2 | Melkesjokolade med ≥ 30 % kakaotørrstoff i alt | 7,0 |  |
 | 3.6.12.3 | Kakaopulver og kakaopulver med redusert fettinnhold som bringes i omsetning til sluttforbrukere eller som ingrediens i søtet kakaopulver eller sjokoladepulver som bringes i omsetning til sluttforbrukere (drikkesjokolade) | 15 |  |
-| 3.6.13 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 og til småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.6.13 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og til småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 3.6.13.1 | som bringes i omsetning i pulverform, unntatt produkter som er oppført i nr. 3.6.13.2 | 0,25 |  |
 | 3.6.13.2 | som bringes i omsetning i pulverform og er framstilt av soyaproteinisolater, alene eller blandet med kumelkproteiner | 0,40 |  |
 | 3.6.13.3 | som bringes i omsetning i flytende form | 0,10 |  |
-| 3.6.14 | Foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 3,0 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.6.15 | Barnemat3, unntatt produkter oppført i nr. 3.6.16 | 0,50 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 3.6.16 | Fruktjuice9, fruktnektar9 og grønnsaksjuice, inkludert fruktjuice9, fruktnektar9 og grønnsaksjuice beregnet til babymat3. |  |  |
+| 3.6.14 | Foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 3,0 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.6.15 | Barnemat[^3], unntatt produkter oppført i nr. 3.6.16 | 0,50 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 3.6.16 | Fruktjuice[^9], fruktnektar[^9] og grønnsaksjuice, inkludert fruktjuice[^9], fruktnektar[^9] og grønnsaksjuice beregnet til babymat[^3]. |  |  |
 | 3.6.16.1 | Fruktjuice, fruktnektar og grønnsakjuice, unntatt produkter oppført i nr. 3.6.16.2 | 0,25 |  |
 | 3.6.16.2 | Fruktjuice og fruktnektar som inneholder juice og nektar fra pasjonsfrukt, kakaofrukter og fra små frukter og bær og kokosvann | 1,0 |  |
 
@@ -850,8 +850,8 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 4 | *Halogenerte persistente organiske forurensende stoffer* |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | 4.1 | *Dioksiner og PCB* | *Grenseverdi* |  |  | *Merknader* |
-|  |  | *Sum­men av dioksiner (pg WHO-PCDD/F-TEQ/g)15* | *Summen av dioksiner og dioksinlignende PCB (pg WHO-PCDD/F-PCB-TEQ/g)15* | *Sum­men av ikke-dioksinlignende PCB (ng/g)15* | Sum­men av ikke-dioksinlignende PCB omfatter PCB28, PCB52, PCB101, PCB138, PCB153 og PCB180 (ICES – 6).<br>Grenseverdiene viser til øvre konsentrasjoner som beregnes ved å anta at alle verdier for de forskjellige forbindelsene som ligger under grensen for mengdebestemmelse, er lik grensen for mengdebestemmelse. |
-| ►**M7**<br>4.1.1 | Kjøtt og kjøttprodukter, unntatt spiselige slaktebiprodukter og produkter oppført i nr. 4.1.3 og 4.1.42 |  |  |  | De fettbaserte grenseverdiene gjelder ikke for næringsmidler med mindre enn 2 % fett. For næringsmidler som inneholder mindre enn 2 % fett, er grenseverdien den produktbaserte verdien.<br>Grenseverdien beregnes ved hjelp av følgende formel:<br>Produktbasert grenseverdi for næringsmidler med mindre enn 2 % fett = den fettbaserte grenseverdien for det aktuelle næringsmiddelet × 0,02 ◄**M7** |
+|  |  | *Sum­men av dioksiner (pg WHO-PCDD/F-TEQ/g)[^15]* | *Summen av dioksiner og dioksinlignende PCB (pg WHO-PCDD/F-PCB-TEQ/g)[^15]* | *Sum­men av ikke-dioksinlignende PCB (ng/g)[^15]* | Sum­men av ikke-dioksinlignende PCB omfatter PCB28, PCB52, PCB101, PCB138, PCB153 og PCB180 (ICES – 6).<br>Grenseverdiene viser til øvre konsentrasjoner som beregnes ved å anta at alle verdier for de forskjellige forbindelsene som ligger under grensen for mengdebestemmelse, er lik grensen for mengdebestemmelse. |
+| ►**M7**<br>4.1.1 | Kjøtt og kjøttprodukter, unntatt spiselige slaktebiprodukter og produkter oppført i nr. 4.1.3 og 4.1.4[^2] |  |  |  | De fettbaserte grenseverdiene gjelder ikke for næringsmidler med mindre enn 2 % fett. For næringsmidler som inneholder mindre enn 2 % fett, er grenseverdien den produktbaserte verdien.<br>Grenseverdien beregnes ved hjelp av følgende formel:<br>Produktbasert grenseverdi for næringsmidler med mindre enn 2 % fett = den fettbaserte grenseverdien for det aktuelle næringsmiddelet × 0,02 ◄**M7** |
 | 4.1.1.1 | fra storfe, sau og geit | 2,5 pg/g fett | 4,0 pg/g fett | 40 ng/g fett |  |
 | 4.1.1.2 | fra svin | 1,0 pg/g fett | 1,25 pg/g fett | 40 ng/g fett |  |
 | 4.1.1.3 | fra fjørfe | 1,75 pg/g fett | 3,0 pg/g fett | 40 ng/g fett |  |
@@ -869,27 +869,27 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 4.1.3.2 | fra svin | 1,0 pg/g fett | 1,25 pg/g fett | 40 ng/g fett |  |
 | 4.1.3.3 | fra fjørfe | 1,75 pg/g fett | 3,0 pg/g fett | 40 ng/g fett |  |
 | 4.1.4 | Blandet animalsk fett | 1,5 pg/g fett | 2,50 pg/g fett | 40 ng/g fett |  |
-| 4.1.5 | Fiskerivarer2 og muslinger2, unntatt produkter oppført i nr. 4.1.6, 4.1.7, 4.1.8, 4.1.9 og 4.1.10 | 3,5 pg/g våtvekt | 6,5 pg/g våtvekt | 75 ng/g våtvekt | For fisk gjelder grenseverdien for muskelkjøtt fra fisk.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>Grenseverdien for krepsdyr gjelder for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. |
+| 4.1.5 | Fiskerivarer[^2] og muslinger[^2], unntatt produkter oppført i nr. 4.1.6, 4.1.7, 4.1.8, 4.1.9 og 4.1.10 | 3,5 pg/g våtvekt | 6,5 pg/g våtvekt | 75 ng/g våtvekt | For fisk gjelder grenseverdien for muskelkjøtt fra fisk.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>Grenseverdien for krepsdyr gjelder for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. |
 | 4.1.6 | Muskelkjøtt fra villfanget ferskvannsfisk og produkter av dette | 3,5 pg/g våtvekt | 6,5 pg/g våtvekt | 125 ng/g våtvekt | Unntatt arter av vandrefisk fanget i ferskvann og produkter av dette.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken. |
 | 4.1.7 | Muskelkjøtt fra villfanget pigghå (*Squalus acanthias*) og produkter av dette | 3,5 pg/g våtvekt | 6,5 pg/g våtvekt | 200 ng/g våtvekt |  |
 | 4.1.8 | Muskelkjøtt fra villfanget ål (*Anguilla anguilla*) og produkter av dette | 3,5 pg/g våtvekt | 10,0 pg/g våtvekt | 300 ng/g våtvekt |  |
 | 4.1.9 | Fiskelever og avledede produkter av fiskelever, unntatt produkter oppført i nr. 4.1.10 | – | 20,0 pg/g våtvekt | 200 ng/g våtvekt | For fiskelever på boks gjelder grenseverdien for alt spiselig innhold i boksen. |
 | 4.1.10 | Marine oljer (fiskeolje, fiskeleverolje og olje fra andre marine organismer som bringes i omsetning til sluttforbrukere) | 1,75 pg/g fett | ►**EØS-tilpasning som følge av [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz**<br>4,0 pg/g fett<br>**◄EØS-tilpasning som følge av [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz** | 200 ng/g fett |  |
-| ►**M7**<br>4.1.11 | Rå melk2 og melkeprodukter2 | 2,0 pg/g fett | 4,0 pg/g fett | 40 ng/g fett | Herunder smørfett.<br>De fettbaserte grenseverdiene gjelder ikke for næringsmidler med mindre enn 2 % fett. For næringsmidler som inneholder mindre enn 2 % fett, er grenseverdien den produktbaserte verdien.<br>Grenseverdien beregnes ved hjelp av følgende formel:<br>Produktbasert grenseverdi for næringsmidler med mindre enn 2 % fett = den fettbaserte grenseverdien for det aktuelle næringsmiddelet × 0,02. |
-| 4.1.12 | Egg og eggprodukter, unntatt gåseegg2 | 2,5 pg/g fett | 5,0 pg/g fett | 40 ng/g fett | De fettbaserte grenseverdiene gjelder ikke for næringsmidler med mindre enn 2 % fett. For næringsmidler som inneholder mindre enn 2 % fett, er grenseverdien den produktbaserte verdien.<br>Grenseverdien beregnes ved hjelp av følgende formel:<br>Produktbasert grenseverdi for næringsmidler med mindre enn 2 % fett = den fettbaserte grenseverdien for det aktuelle næringsmiddelet × 0,02. ◄**M7** |
+| ►**M7**<br>4.1.11 | Rå melk[^2] og melkeprodukter[^2] | 2,0 pg/g fett | 4,0 pg/g fett | 40 ng/g fett | Herunder smørfett.<br>De fettbaserte grenseverdiene gjelder ikke for næringsmidler med mindre enn 2 % fett. For næringsmidler som inneholder mindre enn 2 % fett, er grenseverdien den produktbaserte verdien.<br>Grenseverdien beregnes ved hjelp av følgende formel:<br>Produktbasert grenseverdi for næringsmidler med mindre enn 2 % fett = den fettbaserte grenseverdien for det aktuelle næringsmiddelet × 0,02. |
+| 4.1.12 | Egg og eggprodukter, unntatt gåseegg[^2] | 2,5 pg/g fett | 5,0 pg/g fett | 40 ng/g fett | De fettbaserte grenseverdiene gjelder ikke for næringsmidler med mindre enn 2 % fett. For næringsmidler som inneholder mindre enn 2 % fett, er grenseverdien den produktbaserte verdien.<br>Grenseverdien beregnes ved hjelp av følgende formel:<br>Produktbasert grenseverdi for næringsmidler med mindre enn 2 % fett = den fettbaserte grenseverdien for det aktuelle næringsmiddelet × 0,02. ◄**M7** |
 | 4.1.13 | Vegetabilske oljer og fettstoffer | 0,75 pg/g fett | 1,25 pg/g fett | 40 ng/g fett |  |
-| 4.1.14 | Spedbarns- og småbarnsmat3 | 0,1 pg/g våtvekt | 0,2 pg/g våtvekt | 1,0 ng/g våtvekt | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 4.1.14 | Spedbarns- og småbarnsmat[^3] | 0,1 pg/g våtvekt | 0,2 pg/g våtvekt | 1,0 ng/g våtvekt | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
 
 | 4.2 | *Perfluoralkylstoffer* | *Grenseverdi (μg/kg)* |  |  |  |  | *Merknader* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | *PFOS* | *PFOA* | *PFNA* | *PFHxS* | *Summen av PFOS, PFOA, PFNA og PFHxS* | Grenseverdien gjelder for våtvekten.<br>PFOS: perfluoroktansulfonsyre<br>PFOA: perfluoroktansyre<br>PFNA: perfluornonansyre<br>PFHxS: perfluorheksansulfonsyre<br>For PFOS, PFOA, PFNA, PFHxS og summen av disse viser grenseverdien til summen av lineære og forgrenede stereoisomerer, enten de er kromatografisk separert eller ikke.<br>For summen av PFOS, PFOA, PFNA og PFHxS viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
-| 4.2.1 | Kjøtt og spiselige slaktebiprodukter2 |  |  |  |  |  |  |
+| 4.2.1 | Kjøtt og spiselige slaktebiprodukter[^2] |  |  |  |  |  |  |
 | 4.2.1.1 | Kjøtt fra storfe, svin og fjørfe | 0,30 | 0,80 | 0,20 | 0,20 | 1,3 |  |
 | 4.2.1.2 | Kjøtt fra sau | 1,0 | 0,20 | 0,20 | 0,20 | 1,6 |  |
 | 4.2.1.3 | Slaktebiprodukter fra storfe, sau, svin og fjørfe | 6,0 | 0,70 | 0,40 | 0,50 | 8,0 |  |
 | 4.2.1.4 | Kjøtt fra vilt, unntatt bjørnekjøtt | 5,0 | 3,5 | 1,5 | 0,60 | 9,0 |  |
 | 4.2.1.5 | Slaktebiprodukter fra vilt, unntatt slaktebiprodukter fra bjørn | 50 | 25 | 45 | 3,0 | 50 |  |
-| 4.2.2 | Fiskerivarer2 og muslinger2 |  |  |  |  |  | For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
+| 4.2.2 | Fiskerivarer[^2] og muslinger[^2] |  |  |  |  |  | For tørkede, fortynnede, foredlede og/eller sammensatte næringsmidler får artikkel 3 nr. 1 og 2 anvendelse. |
 | 4.2.2.1 | Fiskekjøtt |  |  |  |  |  | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken. |
 | 4.2.2.1.1 | Muskelkjøtt fra fisk, unntatt produkter oppført i nr. 4.2.2.1.2 og 4.2.2.1.3<br>Muskelkjøtt fra fisk oppført i nr. 4.2.2.1.2 og 4.2.2.1.3 dersom det er beregnet på produksjon av næringsmidler til spedbarn og småbarn | 2,0 | 0,20 | 0,50 | 0,20 | 2,0 |  |
 | 4.2.2.1.2 | Muskelkjøtt fra følgende fiskearter dersom det ikke er beregnet på produksjon av næringsmidler til spedbarn og småbarn:<br>Østersjøsild (*Clupea harengus membras*)<br>Pelamide (*Sarda* spp. og *Orcynopsis* spp.)<br>Lake (*Lota lota*)<br>Brisling (*Sprattus sprattus*)<br>Skrubbe (*Platichthys flesus* og *Glyptocephalus cynoglossus*)<br>Multe (*Mugil cephalus*)<br>Hestmakrell (*Trachurus trachurus*)<br>Gjedde (*Esox* spp.)<br>Rødspette (*Pleuronectes* spp. og *Lepidopsetta* spp.)<br>Sardin (*Sardina* spp.)<br>Havabbor (*Dicentrarchus* spp.)<br>Malle (*Silurus* spp. og *Pangasius* spp.)<br>Havniøye (*Petromyzon marinus*)<br>Suter (*Tinca tinca*)<br>Lagesild (*Coregonus albula* og *Coregonus vandesius*)<br>*Phosichthys argenteus*<br>Villaks og -ørret (ville arter av *Salmo* og *Oncorhynchus*)<br>Steinbit (*Anarhichas* spp.) | 7,0 | 1,0 | 2,5 | 0,20 | 8,0 |  |
@@ -907,21 +907,21 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 5.1.4 | Kakaobønner og avledede produkter av kakaobønner, unntatt produkter oppført i nr. 5.1.5 | 5,0 μg/kg fett | 30,0 μg/kg fett | Herunder kakaosmør. |
 | 5.1.5 | Kakaofiber og produkter framstilt av kakaofiber beregnet på bruk som næringsmiddelingrediens | 3,0 | 15,0 | Kakaofiber er et spesifikt kakaoprodukt som framstilles av skallet på kakaobønnen, og som inneholder høyere nivåer av PAH enn kakaoprodukter framstilt av kakaonibs. Kakaofiber og avledede produkter av kakaofiber er mellomprodukter i produksjonskjeden og brukes som ingrediens ved framstilling av næringsmidler med lavt kaloriinnhold og høyt fiberinnhold. |
 | 5.1.6 | Røykt kjøtt og røykte kjøttprodukter | 2,0 | 12,0 |  |
-| 5.1.7 | Røykte fiskerivarer2, unntatt produkter oppført i nr. 5.1.8 | 2,0 | 12,0 | For fisk gjelder grenseverdien for muskelkjøtt fra fisk.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>Grenseverdien for røykte krepsdyr gjelder for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. For røykte krabber og krabbelignende krepsdyr (*Brachyura* og *Anomura*) gjelder grenseverdien for muskelkjøtt fra lemmer. |
-| 5.1.8 | Røykt brisling og røykt brisling på boks (*Sprattus sprattus*)<br>Røykt østersjøsild ≤ 14 cm og røykt østersjøsild på boks ≤ 14 cm (*Clupea harengus membras*)<br>Katsuobushi (tørket pelamide, *Katsuwonus pelamis*)<br>Muslinger2 (ferske, kjølte, fryste)<br>Varmebehandlet kjøtt og varmebehandlede kjøttprodukter som bringes i omsetning til sluttforbrukere | 5,0 | 30,0 | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>Kjøtt og kjøttprodukter som har gjennomgått en varmebehandling som kan føre til at det dannes PAH, for eksempel bare grilling.<br>For produkter på boks gjelder grenseverdien for alt innholdet i boksen. Når det gjelder grenseverdien for hele det sammensatte produktet, får artikkel 3 nr. 1 bokstav c) og artikkel 3 nr. 2 anvendelse. |
-| 5.1.9 | Røykte muslinger2 | 6,0 | 35,0 |  |
+| 5.1.7 | Røykte fiskerivarer[^2], unntatt produkter oppført i nr. 5.1.8 | 2,0 | 12,0 | For fisk gjelder grenseverdien for muskelkjøtt fra fisk.<br>Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>Grenseverdien for røykte krepsdyr gjelder for muskelkjøtt fra lemmer og bakkropp, det vil si at krepsdyrets hodebryststykke ikke omfattes. For røykte krabber og krabbelignende krepsdyr (*Brachyura* og *Anomura*) gjelder grenseverdien for muskelkjøtt fra lemmer. |
+| 5.1.8 | Røykt brisling og røykt brisling på boks (*Sprattus sprattus*)<br>Røykt østersjøsild ≤ 14 cm og røykt østersjøsild på boks ≤ 14 cm (*Clupea harengus membras*)<br>Katsuobushi (tørket pelamide, *Katsuwonus pelamis*)<br>Muslinger[^2] (ferske, kjølte, fryste)<br>Varmebehandlet kjøtt og varmebehandlede kjøttprodukter som bringes i omsetning til sluttforbrukere | 5,0 | 30,0 | Dersom fisken skal spises hel, gjelder grenseverdien for hele fisken.<br>Kjøtt og kjøttprodukter som har gjennomgått en varmebehandling som kan føre til at det dannes PAH, for eksempel bare grilling.<br>For produkter på boks gjelder grenseverdien for alt innholdet i boksen. Når det gjelder grenseverdien for hele det sammensatte produktet, får artikkel 3 nr. 1 bokstav c) og artikkel 3 nr. 2 anvendelse. |
+| 5.1.9 | Røykte muslinger[^2] | 6,0 | 35,0 |  |
 | 5.1.10 | Tørket krydder | 10,0 | 50,0 | Unntatt kardemomme og røykt *Capsicum* spp.<br>Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.1.11 | Oljer og fettstoffer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens | 2,0 | 10,0 | Unntatt kakaosmør og kokosolje.<br>Denne grenseverdien gjelder for vegetabilske oljer som brukes som ingrediens i kosttilskudd. |
 | 5.1.12 | Kokosolje som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens | 2,0 | 20,0 |  |
-| ►**M7**<br>5.1.13 | Morsmelkerstatninger, tilskuddsblandinger3 og småbarnsnæring4 |  |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| ►**M7**<br>5.1.13 | Morsmelkerstatninger, tilskuddsblandinger[^3] og småbarnsnæring[^4] |  |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.1.13.1 | som bringes i omsetning i pulverform | 1,0 | 1,0 |  |
 | 5.1.13.2 | som bringes i omsetning i flytende form | 1,0 | 1,0 | ◄**M7** |
-| 5.1.14 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 1,0 | 1,0 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
-| 5.1.15 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 | 1,0 | 1,0 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
-| ►**M7**<br>5.1.15 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 |  |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.1.14 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 1,0 | 1,0 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.1.15 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] | 1,0 | 1,0 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| ►**M7**<br>5.1.15 | Næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] |  |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.1.15.1 | som bringes i omsetning i pulverform | 1,0 | 1,0 |  |
 | 5.1.15.2 | som bringes i omsetning i flytende form | 1,0 | 1,0 | ◄**M7** |
-| 5.1.16 | Kosttilskudd som inneholder planteprodukter og preparater av disse13<br>Kosttilskudd som inneholder propolis, dronninggelé, spirulina eller preparater av disse | 10,0 | 50,0 | Grenseverdien gjelder ikke for kosttilskudd som inneholder vegetabilske oljer. Se punkt 5.1.11 for informasjon om vegetabilske oljer som brukes som ingrediens i kosttilskudd. |
+| 5.1.16 | Kosttilskudd som inneholder planteprodukter og preparater av disse[^13]<br>Kosttilskudd som inneholder propolis, dronninggelé, spirulina eller preparater av disse | 10,0 | 50,0 | Grenseverdien gjelder ikke for kosttilskudd som inneholder vegetabilske oljer. Se punkt 5.1.11 for informasjon om vegetabilske oljer som brukes som ingrediens i kosttilskudd. |
 
 | 5.2 | *3-monoklorpropan-1,2-diol (3-MCPD)* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
@@ -931,21 +931,21 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 5.3 | *Summen av 3-monoklorpropandiol (3-MCPD) og 3-MCPD-fettsyreestere uttrykt som 3-MCPD* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
 |  |  |  | For summen av 3-monoklorpropandiol (3-MCPD) og 3-MCPD-fettsyreestere viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
-| 5.3.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, og som hører inn under følgende kategorier: |  | Unntatt jomfruolje av oliven7. |
-| 5.3.1.1 | Oljer og fettstoffer fra kokos, mais, raps, solsikke, soyabønner og palmekjerner samt olivenoljer (bestående av raffinert olivenolje og jomfruolje av oliven) og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 1 250 | Unntatt jomfruolje av oliven7. |
+| 5.3.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, og som hører inn under følgende kategorier: |  | Unntatt jomfruolje av oliven[^7]. |
+| 5.3.1.1 | Oljer og fettstoffer fra kokos, mais, raps, solsikke, soyabønner og palmekjerner samt olivenoljer (bestående av raffinert olivenolje og jomfruolje av oliven) og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 1 250 | Unntatt jomfruolje av oliven[^7]. |
 | 5.3.1.2 | Andre vegetabilske oljer, fiskeoljer og oljer fra andre marine organismer og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 2 500 | Herunder oljer av olivenpressrester. |
 | 5.3.1.3 | Blandinger av oljer og fettstoffer fra produkter oppført i nr. 5.3.1.1 og 5.3.1.2 | – | Oljer og fettstoffer som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet. Summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen må derfor ikke overstige verdien beregnet i samsvar med artikkel 3 nr. 1 bokstav c). |
 |  |  |  | Dersom den kvantitative sammensetningen ikke er kjent for vedkommende myndighet og den driftsansvarlige for næringsmiddelforetaket, som ikke produserer blandingen, skal summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen uansett ikke overstige 2 500 μg/kg. |
-| 5.3.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 750 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen. Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet i nr. 5.3.1. |
-| ►**M3**<br>5.3.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 og småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.3.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 750 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen. Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet i nr. 5.3.1. |
+| ►**M3**<br>5.3.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.3.3.1 | som bringes i omsetning i pulverform | 80 |  |
 | 5.3.3.2 | som bringes i omsetning i flytende form | 12 | ◄**M3** |
 
 | 5.4 | *Glysidylfettsyreestere uttrykt som glysidol* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
-| 5.4.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, unntatt produkter oppført i nr. 5.4.2 | 1 000 | Unntatt jomfruolje av oliven7. |
-| 5.4.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 500 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen.<br>Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet i nr. 5.4.1. |
-| 5.4.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 og småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.4.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, unntatt produkter oppført i nr. 5.4.2 | 1 000 | Unntatt jomfruolje av oliven[^7]. |
+| 5.4.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 500 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen.<br>Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet i nr. 5.4.1. |
+| 5.4.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.4.3.1 | som bringes i omsetning i pulverform | 50 |  |
 | 5.4.3.2 | som bringes i omsetning i flytende form | 6,0 |  |
 
@@ -965,12 +965,12 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 6.1.5 | Salatsennep (*Eruca sativa, Diplotaxis* sp.*, Brassica tenuifolia, Sisymbrium tenuifolium*) |  |  |
 | 6.1.5.1 | høstet mellom 1. oktober og 31. mars | 7 000 |  |
 | 6.1.5.2 | høstet mellom 1. april og 30. september: | 6 000 |  |
-| 6.1.6 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn3 | 200 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 6.1.6 | Barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 200 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
 
 | 6.2 | *Melamin* | *Øvre gren­se­verdi (mg/<br>kg)* | *Merknader* |
 | --- | --- | --- | --- |
 | 6.2.1 | Næringsmidler, unntatt produkter oppført i nr. 6.2.2 | 2,5 | Grenseverdien gjelder ikke for næringsmidler der det kan dokumenteres at et melamininnhold på over 2,5 mg/kg skyldes tillatt bruk av cyromazin som insektmiddel. Innholdet av melamin må ikke overstige innholdet av cyromazin. |
-| 6.2.2 | Morsmelkerstatninger, tilskuddsblandinger3 og småbarnsnæring4 |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 6.2.2 | Morsmelkerstatninger, tilskuddsblandinger[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 6.2.2.1 | som bringes i omsetning i pulverform | 1,0 |  |
 | 6.2.2.2 | som bringes i omsetning i flytende form | 0,15 |  |
 
@@ -981,9 +981,9 @@ Grenseverdier for visse forurensende stoffer i næringsmidler1
 | 6.3.1.2 | Bladgrønnsaker og urter | 0,50 |  |
 | 6.3.1.3 | Bønner (*Phaseolus vulgaris*) med belg | 0,15 | ◄**M2** |
 | 6.3.2 | Te (*Camellia sinensis*) (tørket produkt)<br>Urte- og fruktte (tørket produkt) og ingredienser som brukes til urte- og fruktte (tørkede produkter) | 0,75 | Med «urtete (tørket produkt)» menes<br>– urtete (tørket produkt) fra blomster, blader, stilker, røtter og andre plantedeler (i poser eller løsvekt) som brukes til å lage urtete (flytende produkt), og<br>– urtete i pulverform. For ekstrakter i pulverform skal konsentrasjonsfaktoren være 4. |
-| 6.3.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn3 og småbarnsnæring4 | 0,01 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
-| 6.3.4 | Barnemat3 | 0,02 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
-| 6.3.5 | Foredlede kornbaserte næringsmidler3 | 0,01 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 6.3.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] | 0,01 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 6.3.4 | Barnemat[^3] | 0,02 | Grenseverdien gjelder for bruksklare produkter (som bringes i omsetning som dette eller etter rekonstituering i henhold til produsentenes anvisninger). |
+| 6.3.5 | Foredlede kornbaserte næringsmidler[^3] | 0,01 | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 
 1 Frukt, trenøtter, grønnsaker, korn, oljeholdige frø og krydder som oppført i de relevante kategoriene som definert i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av pesticider i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (EUT L 70 av 16.3.2005, s. 1). Med henblikk på denne forordningen omfattes trenøtter ikke av grenseverdien for frukt.
 

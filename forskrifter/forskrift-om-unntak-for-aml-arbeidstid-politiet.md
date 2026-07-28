@@ -15,7 +15,7 @@ xml_hash: "6cbba7d38417a4de7ef378e6323dbdcffe4a030b871d44ffc102ffeedd277254"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,6 +68,6 @@ Arbeid under reservetjeneste, annet enn utrykning, som er pålagt av overordnet,
 
 ## § 8. Ikrafttredelse
 
-Denne forskriften trer i kraft fra den tid departementet bestemmer.1
+Denne forskriften trer i kraft fra den tid departementet bestemmer.[^1]
 
 1 I kraft 1 juli 2009, jf. [vedtak 1 juli 2009 nr. 880](forskrift/2009-07-01-880).

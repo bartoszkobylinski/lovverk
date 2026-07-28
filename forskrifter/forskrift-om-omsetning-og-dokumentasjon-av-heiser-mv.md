@@ -15,7 +15,7 @@ xml_hash: "7e239c1a27d441330550051187be07e413101298a7a18331a42a1a41d620732e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -549,7 +549,7 @@ Fra 20. april 2016 endres [forskrift 17. desember 2013 nr. 1579](forskrift/2013-
 
 1.1*Anvendelse av direktiv [2006/42/EF](eu/32006l0042*)*
 
-Dersom den relevante risiko foreligger og ikke er omhandlet i dette vedlegg, får de grunnleggende helse- og sikkerhetskravene i vedlegg I til europaparlaments- og rådsdirektiv [2006/42/EF](eu/32006l0042*)1 anvendelse. De grunnleggende helse- og sikkerhetskravene i nr. 1.1.2 i vedlegg I til direktiv [2006/42/EF](eu/32006l0042*) får anvendelse uansett.
+Dersom den relevante risiko foreligger og ikke er omhandlet i dette vedlegg, får de grunnleggende helse- og sikkerhetskravene i vedlegg I til europaparlaments- og rådsdirektiv [2006/42/EF](eu/32006l0042*)[^1] anvendelse. De grunnleggende helse- og sikkerhetskravene i nr. 1.1.2 i vedlegg I til direktiv [2006/42/EF](eu/32006l0042*) får anvendelse uansett.
 
 1.2*Heisstol*
 

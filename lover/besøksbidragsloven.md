@@ -15,7 +15,7 @@ xml_hash: "db67093486d2c27c96d8183604f265e5a54dda2421941bdbe3a961a6a084e3ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -162,7 +162,7 @@ Kommunen er innkrevingsmyndighet.
 
 ### § 5-1. Ikrafttredelse
 
-(1) Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+(1) Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 (2) Departementet kan gi overgangsbestemmelser.
 

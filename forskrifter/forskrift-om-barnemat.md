@@ -15,7 +15,7 @@ xml_hash: "9653f143c151ac29992aec2bf7e3b6606cd11baa0944cbf14c7cf17c68600c3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1. Omfang
 
-Denne forskriften gir bestemmelser om sammensetning, merking og omsetning av næringsmidler som er beregnet til friske spedbarn og småbarn.1
+Denne forskriften gir bestemmelser om sammensetning, merking og omsetning av næringsmidler som er beregnet til friske spedbarn og småbarn.[^1]
 
 Forskriften omfatter næringsmidler som dekker spesielle ernæringsmessige behov hos friske spedbarn og småbarn, og som er beregnet til
 
@@ -108,7 +108,7 @@ Bestemmelsene gitt i denne paragrafen gjelder for kornbasert barnemat og annen b
 
 ### § 9. Generelle krav
 
-Bearbeidet kornbasert barnemat og annen barnemat skal merkes etter gjeldende forskrifter om merking av næringsmidler.1
+Bearbeidet kornbasert barnemat og annen barnemat skal merkes etter gjeldende forskrifter om merking av næringsmidler.[^1]
 
 1 [Forskrift av 21. desember 1993 nr. 1386](forskrift/1993-12-21-1386) om deklarasjon av næringsinnhold. [Forskrift av 21. desember 1993 nr. 1385](forskrift/1993-12-21-1385) om merking mv av næringsmidler. [Forskrift av 21. desember 1993 nr. 1384](forskrift/1993-12-21-1384) om identifikasjonsmerking av næringsmiddelpartier.
 
@@ -131,7 +131,7 @@ Hvis det anbefalte alderstrinn for bruk av produktet er under 6 måneder, skal d
 1. Bearbeidet kornbasert barnemat og annen barnemat skal være merket med energiinnholdet uttrykt i kilojoule (kJ) og kilokalorier (kcal) samt innholdet av protein, karbohydrat og fett, uttrykt i tall. Innholdet skal oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet.
 2. Kategorier av bearbeidet kornbasert barnemat eller annen barnemat hvor det i vedleggene 1 respektive 2 er gitt krav om et bestemt innhold av visse vitaminer og/eller mineraler, skal merkes med det gjennomsnittlige innhold av de vitaminer og/eller mineraler det er gitt krav om i den aktuelle produkttypen, uttrykt i tall. Innholdet skal oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet.
 3. Bearbeidet kornbasert barnemat og annen barnemat kan i tillegg merkes med innholdet av de næringsstoffene som er angitt i vedlegg 4, uttrykt i tall, når en slik deklarasjon ikke omfattes av [pkt](forskrift/2002-10-18-1185/kap2). 2. Innholdet kan oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet.
-4. I tillegg til merking i henhold til [pkt. 1](forskrift/2002-10-18-1185/kap1), [2](forskrift/2002-10-18-1185/kap2) og 3, kan innholdet av de vitaminer og mineraler som er angitt i vedlegg 5 også oppgis som en prosentandel av de referanseverdier1 som er fastsatt i vedlegget. Prosentandelen kan oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet, forutsatt at innholdet av de aktuelle vitaminer/mineraler utgjør minst 15% av referanseverdiene.
+4. I tillegg til merking i henhold til [pkt. 1](forskrift/2002-10-18-1185/kap1), [2](forskrift/2002-10-18-1185/kap2) og 3, kan innholdet av de vitaminer og mineraler som er angitt i vedlegg 5 også oppgis som en prosentandel av de referanseverdier[^1] som er fastsatt i vedlegget. Prosentandelen kan oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet, forutsatt at innholdet av de aktuelle vitaminer/mineraler utgjør minst 15% av referanseverdiene.
 
 > Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
 
@@ -211,14 +211,14 @@ Tilsetning av aminosyrer er bare tillatt i den hensikt å forbedre proteinblandi
 
 3.1
 
-Hvis sukrose, fruktose, glukose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 eller nr. 4, skal
+Hvis sukrose, fruktose, glukose, glukosesirup eller honning[^1] tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 eller nr. 4, skal
 
 - mengden tilsatt karbohydrat fra disse kildene ikke overstige 1,8 g/100 kJ (7,5 g/100 kcal) og
 - mengden tilsatt fruktose ikke overstige 0,9 g/100 kJ (3,75 g/100 kcal).
 
 3.2
 
-Hvis sukrose, fruktose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal
+Hvis sukrose, fruktose, glukosesirup eller honning[^1] tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal
 
 - mengden tilsatt karbohydrat fra disse kildene ikke overstige 1,2 g/100 kJ (5 g/100 kcal) og
 - mengden tilsatt fruktose ikke overstige 0,6 g/100 kJ (2,5 g/100 kcal).
@@ -273,8 +273,8 @@ Produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bok
 |  | *Per 100 kJ* |  | *Per 100 kcal* |  |
 | --- | --- | --- | --- | --- |
 |  | *Minimum* | *Maksimum* | *Minimum* | *Maksimum* |
-| Vitamin A (μg RE)1 | 14 | 43 | 60 | 180 |
-| Vitamin D (μg)2 | 0,25 | 0,75 | 1 | 3 |
+| Vitamin A (μg RE)[^1] | 14 | 43 | 60 | 180 |
+| Vitamin D (μg)[^2] | 0,25 | 0,75 | 1 | 3 |
 
 1 RE = all-trans-retinolekvivalenter.
 
@@ -291,19 +291,19 @@ Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare
 | *Næringsstoff* | *Maksimum per 100 kcal* |
 | --- | --- |
 | Vitamin A (μg RE) | 180 |
-| Vitamin E (mg α-TE)1 | 3 |
+| Vitamin E (mg α-TE)[^1] | 3 |
 | Vitamin D (μg) | 3 |
-| Vitamin C (mg) | 12,5/252 |
+| Vitamin C (mg) | 12,5/25[^2] |
 | Tiamin (mg) | 0,5 |
 | Riboflavin (mg) | 0,4 |
-| Niacin (mg NE)3 | 4,5 |
+| Niacin (mg NE)[^3] | 4,5 |
 | Vitamin B6 (mg) | 0,35 |
 | Folsyre (μg) | 50 |
 | Vitamin B12 (μg) | 0,35 |
 | Pantotensyre (mg) | 1,5 |
 | Biotin (μg) | 10 |
 | Kalium (mg) | 160 |
-| Kalsium (mg) | 80/1804 /1005 |
+| Kalsium (mg) | 80/180[^4] /100[^5] |
 | Magnesium (mg) | 40 |
 | Jern (mg) | 3 |
 | Sink (mg) | 2 |
@@ -423,7 +423,7 @@ I fruktjuice, nektar og grønnsaksjuice skal det endelige innholdet av vitamin C
 
 Vitamin A
 
-I grønnsaksjuice skal det endelige innholdet av vitamin A være minimum 25 μg RE/100 kJ (100 μg RE/100 kcal).1
+I grønnsaksjuice skal det endelige innholdet av vitamin A være minimum 25 μg RE/100 kJ (100 μg RE/100 kcal).[^1]
 
 Vitamin A kan ikke tilsettes til andre barnematprodukter som omfattes av dette vedlegget.
 
@@ -441,9 +441,9 @@ Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare
 
 | *Næringsstoff* | *Maksimum per 100 kcal* |
 | --- | --- |
-| Vitamin A (μg RE) | 1802 |
+| Vitamin A (μg RE) | 180[^2] |
 | Vitamin E (mg α-TE) | 3 |
-| Vitamin C (mg) | 12,5/253 /1254 |
+| Vitamin C (mg) | 12,5/25[^3] /125[^4] |
 | Tiamin (mg) | 0,25 |
 | Riboflavin (mg) | 0,4 |
 | Niacin (mg NE) | 4,5 |
@@ -524,7 +524,7 @@ Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare
 | Mangan (Mn) | Mangankarbonat<br>Manganklorid<br>Mangansitrat<br>Manganglukonat<br>Mangansulfat<br>Manganglyserofosfat |
 | Jod (I) | Natriumjodid<br>Kaliumjodid<br>Kaliumjodat<br>Natriumjodat |
 
-## Vedlegg 5. Referanseverdier for deklarasjon av næringsinnhold i bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn1
+## Vedlegg 5. Referanseverdier for deklarasjon av næringsinnhold i bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn[^1]
 
 | *Næringsstoff* | *Referanseverdi for deklarasjon* |
 | --- | --- |

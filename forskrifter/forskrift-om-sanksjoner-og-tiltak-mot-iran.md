@@ -15,7 +15,7 @@ xml_hash: "cbf2ad0207cf2042ab03ff60a378c78939c78516220433a3a6c6d816ea35cd05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-24T06:23:42.727491+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -428,7 +428,7 @@ E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 Notwithstanding the contents of this Annex, it shall not apply to:
 
-1. equipment, technology or software which are specified in Annex I to [Council Regulation (EC) 428/2009](eu/32009r0428)[1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) or the Common Military List; or
+1. equipment, technology or software which are specified in Annex I to [Council Regulation (EC) 428/2009](eu/32009r0428)[[^1]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) or the Common Military List; or
 2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
 
    1. over the counter transactions;
@@ -449,9 +449,9 @@ The ‘equipment, technology and software’ referred to in Article 1b is:
    - Network and Satellite jamming equipment
    - Remote Infection equipment
    - Speaker recognition/processing equipment
-   - IMSI [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), MSISDN [3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), IMEI [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), TMSI [5](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipment
-   - Tactical SMS [6](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GSM [7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPS [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPRS [9](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /UMTS [10](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /CDMA [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /PSTN [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipment
-   - DHCP [13](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /SMTP [14](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), GTP [15](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) information interception and monitoring equipment
+   - IMSI [[^2]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), MSISDN [[^3]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), IMEI [[^4]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), TMSI [[^5]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipment
+   - Tactical SMS [[^6]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GSM [[^7]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPS [[^8]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPRS [[^9]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /UMTS [[^10]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /CDMA [[^11]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /PSTN [[^12]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipment
+   - DHCP [[^13]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /SMTP [[^14]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), GTP [[^15]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) information interception and monitoring equipment
    - Pattern Recognition and Pattern Profiling equipment
    - Remote Forensics equipment
    - Semantic Processing Engine equipment

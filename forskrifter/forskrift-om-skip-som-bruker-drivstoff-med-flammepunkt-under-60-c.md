@@ -15,7 +15,7 @@ xml_hash: "53c6d00eca7181ffc00bfc834876ce06677ede222bd2166dc20b30bd2dbb656c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -439,7 +439,7 @@ Gjennomføring av risikoanalyse for bygging og drift av skip som bruker drivstof
 
 1. Analysen utføres ved identifisering av uønskede hendelser, vurdering av sannsynligheten for at de kan oppstå og konsekvenser av disse.
 2. Analysen skal sikre en helhetlig sikkerhetsvurdering av hele det gassdrevne skipskonseptet.
-3. Analysen skal gjennomføres i henhold til anerkjente fremgangsmåter og metoder samt oppdatert programvare. Retningslinjer for planlegging, gjennomføring og bruk av risikoanalyser finnes eksempelvis i Krav til risikoanalyser Norsk Standard NS-5814.1 Den internasjonale standarden IEC-60300-3-9 Risk Analysis of Technological Systems gir tilsvarende retningslinjer. De metoder som beskrives i standardene og veiledningene omhandler de mest brukte metodene i risikoanalyse.
+3. Analysen skal gjennomføres i henhold til anerkjente fremgangsmåter og metoder samt oppdatert programvare. Retningslinjer for planlegging, gjennomføring og bruk av risikoanalyser finnes eksempelvis i Krav til risikoanalyser Norsk Standard NS-5814.[^1] Den internasjonale standarden IEC-60300-3-9 Risk Analysis of Technological Systems gir tilsvarende retningslinjer. De metoder som beskrives i standardene og veiledningene omhandler de mest brukte metodene i risikoanalyse.
 4. Det bør utnevnes en koordinator som er ansvarlig for oppfølging og kommunikasjon mellom aktuelle parter under arbeidet med risikoanalysen.
 
 1 Veiledning til denne er utgitt i SINTEF-rapport no STF75A91021.
@@ -462,7 +462,7 @@ Risikoanalysen skal utføres av foretak som kan dokumentere kunnskap om og har e
 
 1. *Konseptanalyse*
 
-   Konseptanalysen skal omfatte alle skipets gassrelaterte arrangementer og systemer, deres plassering i forhold til hverandre samt eventuell redundans. Analysen skal inkludere en pålitelighets- og sårbarhetsanalyse der menneskelig feilhandling, konstruksjonsbegrensninger, funksjons- og systemsvikt, m.m. tas med. Alle leverandører av utstyr og systemer for gassanlegg om bord skal være underlagt en slik sårbarhetsanalyse.1
+   Konseptanalysen skal omfatte alle skipets gassrelaterte arrangementer og systemer, deres plassering i forhold til hverandre samt eventuell redundans. Analysen skal inkludere en pålitelighets- og sårbarhetsanalyse der menneskelig feilhandling, konstruksjonsbegrensninger, funksjons- og systemsvikt, m.m. tas med. Alle leverandører av utstyr og systemer for gassanlegg om bord skal være underlagt en slik sårbarhetsanalyse.[^1]
 
    Resultatet av hele konseptanalysen skal være retningsgivende ved valg av konstruksjonsløsninger for skip og utstyr, slik at gjeldende funksjonskrav tilfredsstilles. Risiko- og konsekvensreduserende tiltak skal kun omfatte forhold vedrørende gassdrift. Tiltakene skal identifiseres og sammenfattes i analysen. Identifiseringen skal vise hvilke strukturelle og operasjonelle tiltak som forutsettes iverksatt for å få sikkerhetsnivået på minst samme nivå som for dieseldrevne skip.
 2. *Beredskapsanalyse*

@@ -15,7 +15,7 @@ xml_hash: "299ae9aa245d67606bfb410ce17f9033c1d045e5c72da4af5ec3aa886db625a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,7 +118,7 @@ Kommunen skal tilby opphold i sykehjem eller tilsvarende bolig særskilt tilrett
 
 Kommunen skal gi forskrift med kriterier for tildeling av langtidsopphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester. Forskriften skal også omfatte pasienter og brukere som vil være best tjent med langtidsopphold, men hvor kommunen vurderer at vedkommende med forsvarlig hjelp kan bo hjemme i påvente av langtidsopphold. Forskriften skal videre regulere hvordan kommunen skal følge opp pasienter eller brukere som venter på langtidsopphold.
 
-[Kongen gir forskrift med kriterier for tildeling av langtidsopphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester. Forskriften skal også omfatte pasienter og brukere som vil være best tjent med langtidsopphold, men hvor kommunen vurderer at vedkommende med forsvarlig hjelp kan bo hjemme i påvente av langtidsopphold.]1
+[Kongen gir forskrift med kriterier for tildeling av langtidsopphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester. Forskriften skal også omfatte pasienter og brukere som vil være best tjent med langtidsopphold, men hvor kommunen vurderer at vedkommende med forsvarlig hjelp kan bo hjemme i påvente av langtidsopphold.][^1]
 
 Kommunen skal treffe vedtak om kriteriene etter andre ledd er oppfylt. Kommunen skal føre ventelister over pasienter og brukere som venter på langtidsopphold etter andre ledd.
 
@@ -821,7 +821,7 @@ Departementet kan fastsette regler om overtredelsesgebyr til den som forsettlig 
 
 ### § 13-1. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer.1 Kongen kan sette de enkelte bestemmelser i loven i kraft til forskjellig tid.
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[^1] Kongen kan sette de enkelte bestemmelser i loven i kraft til forskjellig tid.
 
 1 Iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252) trådte loven ikr. fra 1 jan 2012 med unntak av [§ 3-5](lov/2011-06-24-30/§3-5/ledd/3) tredje ledd og [§ 13-3](lov/2011-06-24-30/§13-3) andre ledd nr. 23, endringen i [pasientskadeloven § 1](lov/2001-06-15-53/§1) første ledd, mens [§ 13-3](lov/2011-06-24-30/§13-3/ledd/2) andre ledd nr. 15 om endringer i spesialisthelsetjenestloven, ny § 3-3, trådte ikr. 1 juli 2012. Iflg. [res. 21 mars 2014 nr. 305](forskrift/2014-03-21-305) trådte [§ 13-3](lov/2011-06-24-30/§13-3/ledd/2) andre ledd ikr. 1 apr 2014. Iflg. [res. 20 nov 2015 nr. 1334](forskrift/2015-11-20-1334) trådte [§ 3-5](lov/2011-06-24-30/§3-5/ledd/3) tredje ledd ikr. 1 jan 2016.
 

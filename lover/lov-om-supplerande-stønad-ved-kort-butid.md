@@ -15,7 +15,7 @@ xml_hash: "a2cf03a92e9f4ad2ac96c86fb910c63ef27057c04fd584483bccbd8179af760c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -239,6 +239,6 @@ Reglane i [folketrygdlova §§ 21-10](lov/1997-02-28-19/§21-10), [21-11](lov/19
 
 ### § 24. Når lova tek til å gjelde
 
-Lova tek til å gjelde frå det tidspunktet Kongen bestemmer.1
+Lova tek til å gjelde frå det tidspunktet Kongen bestemmer.[^1]
 
 1 Frå 1 jan 2006 iflg. [res. 16 des 2005 nr. 1561](forskrift/2005-12-16-1561).

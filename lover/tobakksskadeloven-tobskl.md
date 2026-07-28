@@ -15,7 +15,7 @@ xml_hash: "aca8ac8dc5a86b08152c15691641597043e2653b4f0b9e283e8a2e04ba437b74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0040"
@@ -755,11 +755,11 @@ Tolletaten og Skatteetaten skal uten hinder av lovbestemt taushetsplikt på fore
 
 Opplysninger mottatt i medhold av [§§ 34 a](lov/1973-03-09-14/§34a), [34 c](lov/1973-03-09-14/§34c), [34 d](lov/1973-03-09-14/§34d) og [38](lov/1973-03-09-14/§38), kan uten hinder av lovbestemt taushetsplikt utleveres til EFTAs overvåkingsorgan, EU-kommisjonen og relevante myndigheter i andre EØS-land.
 
-Opplysninger mottatt i medhold av [kapittel 3](lov/1973-03-09-14/kap3) og [3A](lov/1973-03-09-14/kap3a) kan uten hinder av lovbestemt taushetsplikt utleveres til ansvarlige myndigheter hos partene til protokollen mot ulovlig handel med tobakksvarer og til sekretariatet til tobakkskonvensjonen.1
+Opplysninger mottatt i medhold av [kapittel 3](lov/1973-03-09-14/kap3) og [3A](lov/1973-03-09-14/kap3a) kan uten hinder av lovbestemt taushetsplikt utleveres til ansvarlige myndigheter hos partene til protokollen mot ulovlig handel med tobakksvarer og til sekretariatet til tobakkskonvensjonen.[^1]
 
-Opplysninger mottatt i medhold av [kapittel 3](lov/1973-03-09-14/kap3) og [3A](lov/1973-03-09-14/kap3a) kan uten hinder av lovbestemt taushetsplikt utveksles mellom Helsedirektoratet, politiet, tollmyndighetene og skattemyndighetene.1
+Opplysninger mottatt i medhold av [kapittel 3](lov/1973-03-09-14/kap3) og [3A](lov/1973-03-09-14/kap3a) kan uten hinder av lovbestemt taushetsplikt utveksles mellom Helsedirektoratet, politiet, tollmyndighetene og skattemyndighetene.[^1]
 
-Departementet kan i forskrift gi nærmere bestemmelser om utlevering av opplysninger som nevnt i første til tredje ledd.1
+Departementet kan i forskrift gi nærmere bestemmelser om utlevering av opplysninger som nevnt i første til tredje ledd.[^1]
 
 > Tilføyd ved lov [10 feb 2017 nr. 5](lov/2017-02-10-5) (ikr. 1 juli 2021 iflg. [res. 23. juni 2021 nr. 2065](forskrift/2021-06-23-2065)), endret ved lov [22 juni 2018 nr. 77](lov/2018-06-22-77) (ikr. 1 nov 2020 iflg. [res. 23 okt 2020 nr. 2122](forskrift/2020-10-23-2122)).
 
@@ -837,7 +837,7 @@ Departementet kan gi overgangsregler og forskrifter ellers til gjennomføring og
 
 ### § 46. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 > Tilføyd ved lov [22 juni 2018 nr. 77](lov/2018-06-22-77) (ikr. 1 nov 2020 iflg. [res. 23 okt 2020 nr. 2122](forskrift/2020-10-23-2122)).
 

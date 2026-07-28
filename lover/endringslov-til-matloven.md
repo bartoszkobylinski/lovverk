@@ -15,7 +15,7 @@ xml_hash: "fe4fe328e07def3870f9c5b489666fdf0149ab04275c8e55ec330f9354cc7fdd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,6 +28,6 @@ I [lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv.](lov/2003-1
 
 ## II
 
-Loven gjelder fra den tid Kongen bestemmer1.
+Loven gjelder fra den tid Kongen bestemmer[^1].
 
 1 Fra 1. januar 2027 iflg. [res. 20. juni 2025 nr. 1143](forskrift/2025-06-20-1143).

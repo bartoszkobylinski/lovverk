@@ -15,7 +15,7 @@ xml_hash: "f34a30ad0d5e38b238ff6e5cca06e535c7b934b7c6d45bf15868ead76079a42a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -611,7 +611,7 @@ Departementet er klageinstans ved klage på vedtak fattet av Direktoratet for st
 
 ### § 58. (ikrafttredelse m.m.)
 
-Denne lov trer i kraft fra den tid Kongen bestemmer1. [Paragrafene 40](lov/1972-05-12-28/§40) og [41](lov/1972-05-12-28/§41) kan settes i kraft fra et senere tidspunkt2 enn loven ellers.
+Denne lov trer i kraft fra den tid Kongen bestemmer[^1]. [Paragrafene 40](lov/1972-05-12-28/§40) og [41](lov/1972-05-12-28/§41) kan settes i kraft fra et senere tidspunkt[^2] enn loven ellers.
 
 Loven gjelder også på Svalbard, Jan Mayen og de norske biland, med mindre Kongen bestemmer noe annet. Kongen kan fastsette endringer som de stedlige forhold måtte gjøre påkrevet.
 

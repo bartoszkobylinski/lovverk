@@ -15,7 +15,7 @@ xml_hash: "ee665c06cec5477fa537b47c56d4e63a98a9c582793e054938cd97edb1d30ca2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -312,7 +312,7 @@ Juridiske personer kan ikke være styremedlemmer, jf. likevel [§ 21](lov/2001-0
 Minst halvdelen av styrets medlemmer skal være
 
 1. bosatt her i riket;
-2. statsborgere i stater som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl) eller statsborgere i Det forente kongerike Storbritannia og Nord-Irland, når de er bosatt i en slik stat.1
+2. statsborgere i stater som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl) eller statsborgere i Det forente kongerike Storbritannia og Nord-Irland, når de er bosatt i en slik stat.[^1]
 
 Følgende personer kan ikke hver for seg eller sammen være de eneste medlemmer av styret:
 
@@ -735,7 +735,7 @@ Stiftelsestilsynet kan pålegge stiftelsen helt eller delvis å dekke det offent
 
 ### § 60. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2005 iflg. [res. 19 nov 2004 nr. 1489](forskrift/2004-11-19-1489), med unntak av følgende bestemmelser i § 62: – nr. 1 om endringer i [arveavgiftsloven 19 juni 1964 nr. 14](lov/1964-06-19-14), – nr. 3 om endringer i [konkursloven 8 juni 1984 nr. 58](lov/1984-06-08-58), – endringene i nr. 4 av [foretaksregisterloven 21 juni 1985 nr. 78 § 4-4](lov/1985-06-21-78/§4-4) (1) bokstav a og bokstav e annet punktum, – nr. 5 om endringer i finansieringsvirksomhetsloven [10 juni 1988 nr. 40](lov/1988-06-10-40), og – endringen i nr. 9 av [regnskapsloven 17 juli 1998 nr. 56 § 9-1](lov/1998-07-17-56/§9-1). Ved [lov 29 apr 2005 nr. 22](lov/2005-04-29-22) ble endringen i § 62 nr. 1 og nr. 3 opphevet. Iflg. [res. 29 apr 2005 nr. 366](forskrift/2005-04-29-366) trådte følgende bestemmelser i § 62 ikr. 29 apr 2005: – endringen i nr. 4 av [lov 21. juni 1985 nr. 78](lov/1985-06-21-78) om registrering av foretak [§ 4-4](lov/1985-06-21-78/§4-4) (1) bokstav a og bokstav e annet punktum og – endringen i nr. 9 av [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. [§ 9-1](lov/1998-07-17-56/§9-1). Iflg. [res. 21 des 2005 nr. 1608](forskrift/2005-12-21-1608) trådte endringen i nr. 5 av [finansieringsvirksomhetsloven § 2-22](lov/1988-06-10-40/§2-22) ikr. 21 des 2005.
 
@@ -757,7 +757,7 @@ For stiftelser som er opprettet før loven trer i kraft, gjelder loven med følg
 
 ### § 62. Endringer i andre lover
 
-Fra den tid1 loven trer i kraft gjøres følgende endringer i andre lover:
+Fra den tid[^1] loven trer i kraft gjøres følgende endringer i andre lover:
 
 – – –
 

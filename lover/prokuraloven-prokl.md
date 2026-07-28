@@ -15,7 +15,7 @@ xml_hash: "46c6e39012a08f5cc96f0df05d4c859d4d6e53885448192e4bb4e4db1d6a3964"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,6 +54,6 @@ Prokura kan når som helst tilbakekalles. Prokurafullmakten faller ikke bort om 
 
 ## § 6.
 
-Loven tar til å gjelde fra den tid1 Kongen bestemmer.
+Loven tar til å gjelde fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 1988 iflg. [res. 18 des 1987 nr. 963](forskrift/1987-12-18-963).

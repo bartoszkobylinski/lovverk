@@ -15,7 +15,7 @@ xml_hash: "8711638e7f7dc3fc1b8190c5a9d7ec829c7d026834dfe451d2f8231cdb243b82"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,7 @@ Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at
 
 ## § 13. Ikraftsetting mv.
 
-Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 30. mars 1984 nr. 15](lov/1984-03-30-15) om statlig tilsyn med helse- og omsorgstjenesten m.m.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [lov 30. mars 1984 nr. 15](lov/1984-03-30-15) om statlig tilsyn med helse- og omsorgstjenesten m.m.
 
 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 

@@ -15,7 +15,7 @@ xml_hash: "8f40dc68a335c7a2784863de965387d4256037acb3dc4c4e6634167d57960b97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -151,7 +151,7 @@ Eksamener til modulær og integrert flybesetningsutdanning må være i samsvar m
 
 ### § 3-3. Vitnemål
 
-1. Etter fullført fagskolestudium med bestått ATPL-teori, CPL skill test og MCC-kurs1 vil Luftfartsskolen utstede vitnemål til studenten for bestått utdanning. Vitnemålet dokumenterer karakterer, utdanningens innhold, hvilke kvalifikasjoner som er oppnådd og beskrivelse av karaktersystemet samt antall studiepoeng for det gjeldende studium.
+1. Etter fullført fagskolestudium med bestått ATPL-teori, CPL skill test og MCC-kurs[^1] vil Luftfartsskolen utstede vitnemål til studenten for bestått utdanning. Vitnemålet dokumenterer karakterer, utdanningens innhold, hvilke kvalifikasjoner som er oppnådd og beskrivelse av karaktersystemet samt antall studiepoeng for det gjeldende studium.
 2. Etter bestått teorieksamen vil studenten motta en bevitnelse av eksamensresultat i de ulike fagene (Notice of examination result) fra luftfartsmyndigheten.
 3. Når hele den praktiske delen av utdanningen er fullført vil studenten få utstedt trafikkflygersertifikat (CPL) fra luftfartsmyndigheten (CAA-N).
 4. Studenter som avbryter utdanningen underveis, kan ved anmodning få utstedt en karakterutskrift for de deler av utdanningen som er bestått. De oppnår også studiepoeng for den delen som er bestått.

@@ -15,7 +15,7 @@ xml_hash: "bad0d1c28f0d295d3829860445de86fce8d814b996752116bc2cddd9defc6d80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,9 @@ Forskriften gjelder på sjøen i områdene som er angitt i bestemmelsene under. 
 
 Forskriftens bestemmelser om næringsfartøy gjelder ikke for politiets fartøy, brannvesenets fartøy, ambulansefartøy, forsvarets fartøy, fartøy med lege ombord eller fartøy i sjøredningstjenesten i forbindelse med utrykninger eller øvelser.
 
-Hvor hoved- og biled går fremkommer av [farledsforskriften](forskrift/2019-12-11-1834)1.
+Hvor hoved- og biled går fremkommer av [farledsforskriften](forskrift/2019-12-11-1834)[^1].
 
-Fartsgrensene som fremkommer av bestemmelsene under finnes i Kystverkets digitale kart Kystinfo2 3.
+Fartsgrensene som fremkommer av bestemmelsene under finnes i Kystverkets digitale kart Kystinfo[^2] [^3].
 
 1 Jf. [forskrift 11. desember 2019 nr. 1834 om farleder](forskrift/2019-12-11-1834) (farledsforskrifter).
 

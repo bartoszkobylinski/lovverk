@@ -15,7 +15,7 @@ xml_hash: "bf91b928b7dced52689c60db0cff4c58b977f81752ebf51a7879d968c00d5a07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,7 +23,7 @@ eu_basis: []
 # Opprettelse av Jernbanedirektoratet
 
 1. Deler av virksomheten i dagens Jernbaneverk videreføres i et nytt forvaltningsorgan; Jernbanedirektoratet.
-2. Forvaltningsorganet gis instruks i samsvar med vedlagte forslag.1
+2. Forvaltningsorganet gis instruks i samsvar med vedlagte forslag.[^1]
 3. Samferdselsdepartementet gis fullmakt til å gi nødvendige overgangsregler.
 
 1 Se instruks 5. februar 2016 nr. 127, Lovdatas anm.

@@ -15,7 +15,7 @@ xml_hash: "268e38cb0bec16f23962e2151e4776655d22af443d246f39065e6d3395f2b12f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32001L0095"
@@ -331,7 +331,7 @@ Kongen kan gi nærmere bestemmelser til gjennomføring av denne lov, herunder om
 
 ## § 16. Ikrafttreden – oppheving av og endring i andre lover.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1 Fra samme dag oppheves – – –.
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme dag oppheves – – –.
 
 > Endret ved [lov 3 juni 1977 nr. 53](lov/1977-06-03-53).
 

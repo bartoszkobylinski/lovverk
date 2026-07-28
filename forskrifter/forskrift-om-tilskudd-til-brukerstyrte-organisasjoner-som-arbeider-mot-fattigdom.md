@@ -15,7 +15,7 @@ xml_hash: "a275e764228c8519628f6bef3593c02ebf6825c13d0ab5772180fd6e258ff9d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -129,7 +129,7 @@ Tilskudd kan ikke brukes til:
 
 *Årsregnskap*
 
-Organisasjonen skal sende inn signert revidert årsregnskap innen 31. mars det påfølgende året. Regnskapet skal føres i henhold til [lov om årsregnskap m.v. (regnskapsloven)](lov/1998-07-17-56).1
+Organisasjonen skal sende inn signert revidert årsregnskap innen 31. mars det påfølgende året. Regnskapet skal føres i henhold til [lov om årsregnskap m.v. (regnskapsloven)](lov/1998-07-17-56).[^1]
 
 Regnskapsoppstillingen skal vise hvordan tilskudd er benyttet. Tilskuddsmottakers regnskapssystem skal gi sporbarhet og mulighet til å gjennomføre kontroller, herunder:
 

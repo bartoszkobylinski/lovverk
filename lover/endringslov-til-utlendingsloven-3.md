@@ -15,7 +15,7 @@ xml_hash: "8ce6606142ab41d4838f4fc64de2526d1d41a8e518fd0c3eaf681c39737288d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Kongen kan i forskrift gi nærmere regler om varigheten av tillatelser til å ta
 
 ## II
 
-1. Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 1. juli 2026 for § 34 iflg. [res. 19 juni 2026 nr. 1136](forskrift/2026-06-19-1136).

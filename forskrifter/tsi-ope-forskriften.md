@@ -15,7 +15,7 @@ xml_hash: "1b227d50196a0f232de1bc7cb4e3a6f9f6a803fc02cc66c391dc3386d85910bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Statens jernbanetilsyn utøver myndighet etter denne forskriften.
 
 ## § 3.
 
-Forskriften trer i kraft samtidig som beslutningen i EØS-komiteen som tar forordning [(EU) 2019/773](eu/32019r0773) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1 Samtidig oppheves [forskrift 19. juni 2012 nr. 564 om gjennomføring av TSI-drift og trafikkstyring på det nasjonale jernbanenettet](forskrift/2012-06-19-564) og [kapittel 3 i forskrift 12. juni 2019 nr. 721 om helsekrav for operativt personell på jernbane og signaler på tog](forskrift/2019-06-12-721/kap3).
+Forskriften trer i kraft samtidig som beslutningen i EØS-komiteen som tar forordning [(EU) 2019/773](eu/32019r0773) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1] Samtidig oppheves [forskrift 19. juni 2012 nr. 564 om gjennomføring av TSI-drift og trafikkstyring på det nasjonale jernbanenettet](forskrift/2012-06-19-564) og [kapittel 3 i forskrift 12. juni 2019 nr. 721 om helsekrav for operativt personell på jernbane og signaler på tog](forskrift/2019-06-12-721/kap3).
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 770](forskrift/2022-05-06-770).
 

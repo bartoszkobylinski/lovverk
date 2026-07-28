@@ -15,13 +15,13 @@ xml_hash: "4a4490448ddbc66a458eb34a26bbd5f6caa7c53818b2eb0cff9de33c00bc5bcf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av Kongens myndighet etter lov 16. juli 1999 nr. 69 om offentlige anskaffelser § 11a [nå § 7] til Arbeidsdepartementet
 
-Delegering av Kongens myndighet etter [lov 16. juli 1999 nr. 69](lov/1999-07-16-69) om offentlige anskaffelser § 11a1 til Arbeidsdepartementet.
+Delegering av Kongens myndighet etter [lov 16. juli 1999 nr. 69](lov/1999-07-16-69) om offentlige anskaffelser § 11a[^1] til Arbeidsdepartementet.
 
 1 Etter lovendring 1. juli 2012 er dette nå [lov om offentlige anskaffelser § 7](lov/1999-07-16-69/§7), Lovdatas anm.

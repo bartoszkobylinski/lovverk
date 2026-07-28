@@ -15,7 +15,7 @@ xml_hash: "bbaa5f4329a5d3625f24219f0f987c2c279f4e18106ac0a3b5ce4caeb68e042d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -280,10 +280,10 @@ Forskrift trer i kraft straks.
 
 Samtidig oppheves:
 
-- Forskrift 1. januar 19811 for statskontrollert produksjon og omsetning av såvare, planter og plantedeler forsåvidt angår poteter.
-- Retningslinjer 1. desember 19831 for godkjenning av forretninger for produksjon og omsetning av statskontrollerte settepoteter.
-- Forskrift 1. februar 19841 om utfyllende bestemmelser for statskontrollert produksjon, klassifisering og omsetning av settepotet.
-- Retningslinjer 23. oktober 19851 for klonavl av poteter.
+- Forskrift 1. januar 1981[^1] for statskontrollert produksjon og omsetning av såvare, planter og plantedeler forsåvidt angår poteter.
+- Retningslinjer 1. desember 1983[^1] for godkjenning av forretninger for produksjon og omsetning av statskontrollerte settepoteter.
+- Forskrift 1. februar 1984[^1] om utfyllende bestemmelser for statskontrollert produksjon, klassifisering og omsetning av settepotet.
+- Retningslinjer 23. oktober 1985[^1] for klonavl av poteter.
 - [Forskrift 15. mai 1989 nr. 514](forskrift/1989-05-15-514) om forbud mot omsetning av ikke-statskontrollerte settepoteter.
 
 > Endret ved [forskrift 21 nov 2006 nr. 1298](forskrift/2006-11-21-1298) (tidligere § 18).
@@ -330,7 +330,7 @@ Krav i prosent for de ulike klasser ved laboratoriekontroll:
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | *P2, P3* | *P4* | *B1* | *B2* | *B3* | *C* |
 | Potetringråte | På knoll | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
-| PVA\* og PVY<br>PVX<br>PVS og PVM | På knoll eller plante (Vintertest) | 0,0<br>0,0<br>1,0 | 0,5<br>0,0<br>3,0 | 1,0<br>–<br>– | 2,0<br>–<br>– | 4,0<br>–<br>– | 10,0<br>–<br>– |
+| PVA[^\*] og PVY<br>PVX<br>PVS og PVM | På knoll eller plante (Vintertest) | 0,0<br>0,0<br>1,0 | 0,5<br>0,0<br>3,0 | 1,0<br>–<br>– | 2,0<br>–<br>– | 4,0<br>–<br>– | 10,0<br>–<br>– |
 | Potetcyste-nematode | På jord | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
 
 \* På særlig motstandsdyktige sorter, fastsatt av Mattilsynet, utføres ikke testing for A-virus.
@@ -461,10 +461,10 @@ Avstand til partier av sertifiserte settepoteter og ukontrollerte poteter.
 
 | *Klasser* | *Minimumskrav i meter mellom ulike klasser* |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | *Prebasis*\* | *Basis* | *Sertifisert* | *Ukontrollert* |
-| Prebasis\* | 1,5\*\* | 25 | 25 | 100 |
-| Basis |  | 1,5\*\* | 1,5\*\* | 50 |
-| Sertifisert |  |  | 1,5\*\* | 25 |
+|  | *Prebasis*[^\*] | *Basis* | *Sertifisert* | *Ukontrollert* |
+| Prebasis[^\*] | 1,5[^\*\*] | 25 | 25 | 100 |
+| Basis |  | 1,5[^\*\*] | 1,5[^\*\*] | 50 |
+| Sertifisert |  |  | 1,5[^\*\*] | 25 |
 
 \* Gjelder ikke mellom prebasispartier i veksthus.
 

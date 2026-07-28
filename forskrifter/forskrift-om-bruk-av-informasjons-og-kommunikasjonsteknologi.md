@@ -15,7 +15,7 @@ xml_hash: "a7762f7f0a487e8908d1338ad924db9f33c47cd97086bcbafa949d99ef06a724"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ Foretaket skal sikre at prosedyrer for avviks- og endringshåndtering foreligger
 
 Prosedyrene for avvikshåndtering skal omfatte alle avvik som oppstår i driften av IKT-systemene. Avviksbehandlingen skal ha som formål å gjenopprette normal tilstand i IKT-virksomheten. Avviksbehandlingen skal identifisere årsaken til avvik, hindre gjentagelser og sikre forsvarlig og formell behandling av avviket. Avvikene skal dokumenteres. Prosedyrene for avvikshåndtering skal inneholde retningslinjer for eskalering.
 
-Operasjonelle hendelser eller sikkerhetshendelser som medfører vesentlig reduksjon i funksjonalitet som følge av brudd på konfidensialitet (beskyttelse av data), integritet (sikring mot uautoriserte endringer) eller tilgjengelighet til IKT-systemer og/eller data skal uten ugrunnet opphold rapporteres til Finanstilsynet. Rapporteringen skal normalt omfatte hendelser som foretaket selv kategoriserer til alvorlighetsgrad svært alvorlig eller kritisk, men kan også omfatte andre avvik dersom disse avdekker spesielle sårbarheter i applikasjon, arkitektur, infrastruktur eller forsvarsverk. Foretak som nevnt i [§ 1](forskrift/2003-05-21-630/§1) første ledd nr. 121 (Eiendomsmeglerforetak) omfattes ikke av kravet til hendelsesrapportering.
+Operasjonelle hendelser eller sikkerhetshendelser som medfører vesentlig reduksjon i funksjonalitet som følge av brudd på konfidensialitet (beskyttelse av data), integritet (sikring mot uautoriserte endringer) eller tilgjengelighet til IKT-systemer og/eller data skal uten ugrunnet opphold rapporteres til Finanstilsynet. Rapporteringen skal normalt omfatte hendelser som foretaket selv kategoriserer til alvorlighetsgrad svært alvorlig eller kritisk, men kan også omfatte andre avvik dersom disse avdekker spesielle sårbarheter i applikasjon, arkitektur, infrastruktur eller forsvarsverk. Foretak som nevnt i [§ 1](forskrift/2003-05-21-630/§1) første ledd nr. 12[^1] (Eiendomsmeglerforetak) omfattes ikke av kravet til hendelsesrapportering.
 
 Prosedyrene for endringshåndtering skal omfatte alle endringer som kan påvirke IKT-systemene og skal sikre forsvarlig, formell behandling og dokumentering av endringene. Foretaket skal sikre at prosedyrene for endringshåndtering gir en stabil, planlagt og forutsigbar drift.
 

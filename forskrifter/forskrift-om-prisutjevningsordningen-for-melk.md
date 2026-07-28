@@ -15,7 +15,7 @@ xml_hash: "1f9c58f1baea620ba88cf4fea08d637db39df5e2ec2454e00a9a4105edfe7c8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,7 +59,7 @@ For å utjevne mellom ulike anvendelser av melk, innplasserer Landbruksdirektora
 | --- | --- | --- | --- | --- |
 |  | *Sure og søte smakstilsatte flytende melkeprodukter og ferske oster* | *Ikke smakstilsatte flytende melkeprodukter* | *Modnede oster, mysoster og geitemelks-produkter* | *Tørrmelk og kasein* |
 | *Dagligvare:* Marked for innenlands og utenlands salg av melkeprodukter til detaljister, grossister, storhusholdnings-kunder, skoler, institusjoner og lignende | Prisgruppe 1 | Prisgruppe 2 | Prisgruppe 3 |  |
-| *Industri:* Marked for innenlands og utenlands salg av melkeprodukter til foredlingsindustri for bruk til fremstilling av annen videreforedlet vare | Prisgruppe 4\* |  |  |  |
+| *Industri:* Marked for innenlands og utenlands salg av melkeprodukter til foredlingsindustri for bruk til fremstilling av annen videreforedlet vare | Prisgruppe 4[^\*] |  |  |  |
 
 \* Flytende produkter, ferske oster, modnede oster, mysoster og geitemelksprodukter i industrimarkedet, samt tørrmelk og kasein i industri- og dagligvaremarkedet.
 

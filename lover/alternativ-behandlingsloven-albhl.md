@@ -15,7 +15,7 @@ xml_hash: "ca606527fe97f97b01a1d78761b91bbd3f3e26d004c842b34df34b45390fa1a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,7 +109,7 @@ Det fritar ikke for straff etter første og andre ledd at vedkommende ikke forst
 
 ## § 10. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
 1 Fra 1 jan 2004 iflg. [res. 12 des 2003 nr. 1473](forskrift/2003-12-12-1473).
 

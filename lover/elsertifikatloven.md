@@ -15,7 +15,7 @@ xml_hash: "0602b7321081e4fbd14c9dd07b44b5e86dda743174796ef93f78b49ca5459510"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -168,7 +168,7 @@ En eldre rettighet går uten hensyn til første ledd foran en yngre rettighet, d
 1. den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, eller
 2. den yngre rettigheten er ervervet ved arv.
 
-   1 Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd.
+   [^1] Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd.
 
 1 Inkurie: Skulle ha vært tredje ledd.
 
@@ -334,7 +334,7 @@ Departementet kan fastsette forskrifter til gjennomføring og utfylling av loven
 
 ### § 31. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 jan 2012 iflg. [res. 16 des 2011 nr. 1244](forskrift/2011-12-16-1244).
 

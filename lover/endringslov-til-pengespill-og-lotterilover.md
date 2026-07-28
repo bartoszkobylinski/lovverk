@@ -15,7 +15,7 @@ xml_hash: "1079347c25603640365680f12718cdf23e4ef9d7bab1a8a3f9e6dabd6d65056c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Ny [§ 15](lov/1995-02-24-11/§15) skal lyde:
 
 ## III
 
-1. Loven her gjelder fra den tid Kongen fastsetter.1 De enkelte bestemmelser kan settes i kraft fra ulik tid.
+1. Loven her gjelder fra den tid Kongen fastsetter.[^1] De enkelte bestemmelser kan settes i kraft fra ulik tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 1 jan 2004 for del I, endringene i [pengespilloven § 1](lov/1992-08-28-103/§1) (1), ny [§ 9 a](lov/1992-08-28-103/§9a), [§ 10](lov/1992-08-28-103/§10) nytt (2) og [§ 11](lov/1992-08-28-103/§11) nytt (2) og endringene i del II, lotteriloven ny [§ 1](lov/1992-08-28-103/§1) a og ny [§ 15](lov/1992-08-28-103/§15) første og annet punktum iflg. [res. 29 aug 2003 nr. 1091](forskrift/2003-08-29-1091).

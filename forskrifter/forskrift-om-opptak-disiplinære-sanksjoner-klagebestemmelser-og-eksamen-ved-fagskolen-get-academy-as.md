@@ -15,7 +15,7 @@ xml_hash: "43aa535f41096920bfa547015546ca1be0d529d641286be9d0a2595fc231c1f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -480,6 +480,6 @@ Fagskolestudentene ved Fagskolen GET Academy AS vil ha tilgang til et studentomb
 
 ### § 8-1. Ikrafttredelse
 
-Forskriften trer i kraft når akkreditering fra NOKUT foreligger1.
+Forskriften trer i kraft når akkreditering fra NOKUT foreligger[^1].
 
 1 Akkreditering fra NOKUT ble gitt 5. januar 2023, Lovtidend-redaksjonens anmerkning.

@@ -15,7 +15,7 @@ xml_hash: "03f9e4ec7c498f5fac69a7642a23db95a6d8636cda05f9b13d304c2e0b19ba68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -200,7 +200,7 @@ Temporært dykkesystem vil få en godkjennelse for det aktuelle tidsrom i hvert 
 
 ### § 7. Konstruksjon.
 
-Dykkesystemet skal konstrueres til en standard som oppfyller IMO's «Code of Safety for Diving Systems»,1 Chapter 2 Design and Construction (Vedlegg I).
+Dykkesystemet skal konstrueres til en standard som oppfyller IMO's «Code of Safety for Diving Systems»,[^1] Chapter 2 Design and Construction (Vedlegg I).
 
 1 Res. A 536(13)
 
@@ -336,7 +336,7 @@ Materialer for deler av dykkesystemer skal passe til det bruk de er tiltenkt.
 
 2.1.4.
 
-Alle deler av et dykkesystem skal konstrueres, bygges og testes i henhold til internasjonale eller nasjonale standarder1 som er godkjent av administrasjonen eller merkespesifikasjoner som kan godtas av administrasjonen, jfr. forskriftens [§ 7](forskrift/1984-04-10-940/§7).
+Alle deler av et dykkesystem skal konstrueres, bygges og testes i henhold til internasjonale eller nasjonale standarder[^1] som er godkjent av administrasjonen eller merkespesifikasjoner som kan godtas av administrasjonen, jfr. forskriftens [§ 7](forskrift/1984-04-10-940/§7).
 
 2.1.5.
 
@@ -510,7 +510,7 @@ Oksygenbeholdere skal ikke lagres nær brennbare stoffer.
 
 2.6.6.
 
-Dykkesystem og pustegassbeholdning skal ikke plasseres i rom med maskineri dersom ikke maskineriet har tilknytning til dykkesystemet. Dersom dykkesystemet av operasjonelle årsaker plasseres i fareområder, skal det elektriske anlegget være i samsvar med de krav som gjelder for slikt utstyr i fareområder. Dykkesystemer må ikke tillates plassert i fareområder klassifisert som sone 0.1
+Dykkesystem og pustegassbeholdning skal ikke plasseres i rom med maskineri dersom ikke maskineriet har tilknytning til dykkesystemet. Dersom dykkesystemet av operasjonelle årsaker plasseres i fareområder, skal det elektriske anlegget være i samsvar med de krav som gjelder for slikt utstyr i fareområder. Dykkesystemer må ikke tillates plassert i fareområder klassifisert som sone 0.[^1]
 
 2.6.7.
 
@@ -595,7 +595,7 @@ Alt materiale og utstyr som brukes i forbindelse med dykkesystemet skal, så lan
 
 2.9.2.
 
-Innvendige rom i skip eller flytende innretninger hvor dykkesystem eller tilhørende hjelpeutstyr er plassert skal ha strukturell brannsikring på samme måte som kontrollstasjoner1 som avgrenser hovedsoner.
+Innvendige rom i skip eller flytende innretninger hvor dykkesystem eller tilhørende hjelpeutstyr er plassert skal ha strukturell brannsikring på samme måte som kontrollstasjoner[^1] som avgrenser hovedsoner.
 
 2.9.3.
 
@@ -646,9 +646,9 @@ Det skal ved den sentrale kontrollposisjonen som et minimum finnes overvåkingsm
 | Parametre | Rom |  |
 | --- | --- | --- |
 |  | Overflatekompresjonskammer | Dykker klokke |
-| Trykk eller dybde1 | 0 | 02 |
-| Temperatur1 | 0 |  |
-| Fuktighet1 | 0 |  |
+| Trykk eller dybde[^1] | 0 | 0[^2] |
+| Temperatur[^1] | 0 |  |
+| Fuktighet[^1] | 0 |  |
 | Partielt oksygentrykk | 0 | 0 |
 | Partielt CO2 trykk | 0 | 0 |
 

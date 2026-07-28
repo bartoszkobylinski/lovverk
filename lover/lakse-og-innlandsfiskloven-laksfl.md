@@ -15,7 +15,7 @@ xml_hash: "0d0a1d421bbca1bd85c7bc68c0cc652a65e859bb2b921f0b9d5218c29fa826e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,15 +72,15 @@ I denne lov menes med:
 
 Fiskeforvaltningen etter denne lov er:
 
-1. Departementet1
+1. Departementet[^1]
 2. Miljødirektoratet
 3. Statsforvalteren
 4. Fylkeskommunen
 5. Kommunen
 
-Kongen1 kan gi nærmere regler om etablering av særskilte organer for forvaltning av anadrome laksefisk.
+Kongen[^1] kan gi nærmere regler om etablering av særskilte organer for forvaltning av anadrome laksefisk.
 
-Departementet1 gir nærmere regler om fiskeforvaltningens virksomhet og saksbehandling.
+Departementet[^1] gir nærmere regler om fiskeforvaltningens virksomhet og saksbehandling.
 
 Departementet kan gi forskrift om at fylkeskommunen og kommunen tildeles ansvaret for nærmere bestemte oppgaver etter loven. Statlig klageinstans for vedtak fattet med hjemmel i, eller i medhold av, loven kan også fastsettes i forskrift.
 
@@ -94,9 +94,9 @@ Departementet kan gi forskrift om at fylkeskommunen og kommunen tildeles ansvare
 
 Hensynet til fiskeinteressene og ivaretakelse av fiskens og andre ferskvannsorganismers økologiske funksjonsområder skal innpasses i planer etter plan- og bygningsloven i kommune og fylke.
 
-Departementet1 kan gi bestemmelser om at fysiske tiltak, herunder terskler og fiskehøler skal godkjennes.
+Departementet[^1] kan gi bestemmelser om at fysiske tiltak, herunder terskler og fiskehøler skal godkjennes.
 
-Departementet1 kan forlange at tiltak, anlegg eller annen virksomhet som er satt i verk i strid med bestemmelsene i denne paragraf fjernes og at den opprinnelige tilstand i vassdraget blir gjenopprettet. Dersom pålegget ikke blir etterfulgt innen den frist som blir satt, kan departementet la arbeidet bli utført for vedkommendes regning. Utgifter ved dette er tvangsgrunnlag for utlegg.
+Departementet[^1] kan forlange at tiltak, anlegg eller annen virksomhet som er satt i verk i strid med bestemmelsene i denne paragraf fjernes og at den opprinnelige tilstand i vassdraget blir gjenopprettet. Dersom pålegget ikke blir etterfulgt innen den frist som blir satt, kan departementet la arbeidet bli utført for vedkommendes regning. Utgifter ved dette er tvangsgrunnlag for utlegg.
 
 Er det nødvendig for å gjennomføre pålegg etter tredje ledd, kan det gjøres bruk av den ansvarliges eller andres faste eiendom. Blir det gjort bruk av andres faste eiendom, skal vedkommende ha erstatning av den ansvarlige for tap som skyldes skade og ulempe. Staten innestår for beløpet.
 
@@ -124,11 +124,11 @@ Kongen kan ved forskrift gi nærmere bestemmelser om blant annet forbud mot, beg
 
 ### § 10. Kultiveringstiltak
 
-Uten tillatelse fra departementet1 må ingen sette i verk kultiveringstiltak for anadrome laksefisk og innlandsfisk.
+Uten tillatelse fra departementet[^1] må ingen sette i verk kultiveringstiltak for anadrome laksefisk og innlandsfisk.
 
 Tillatelse til kultiveringstiltak kan gis ved forskrift for visse typer arbeider og områder eller ved enkeltvedtak etter søknad.
 
-Departementet1 kan gi forskrift om etablering og drift av kultiveringsanlegg for anadrome laksefisk og innlandsfisk.
+Departementet[^1] kan gi forskrift om etablering og drift av kultiveringsanlegg for anadrome laksefisk og innlandsfisk.
 
 > Endret ved [lov 17 juni 2005 nr. 79](lov/2005-06-17-79) (ikr. 1 jan 2006).
 
@@ -136,9 +136,9 @@ Departementet1 kan gi forskrift om etablering og drift av kultiveringsanlegg for
 
 ### § 11. Spesielle reguleringer i en fiskesesong
 
-Selv om det er tillatt å fiske i henhold til bestemmelser gitt i eller i medhold av denne lov, kan departementet1 for å sikre en rasjonell utnytting eller for å sikre fiskebestanden, gi regler om fangstintensiteten og tillatt oppfisket mengde i vassdrag eller fastsette andre hensiktsmessige tiltak innenfor vedkommende fiskesesong.
+Selv om det er tillatt å fiske i henhold til bestemmelser gitt i eller i medhold av denne lov, kan departementet[^1] for å sikre en rasjonell utnytting eller for å sikre fiskebestanden, gi regler om fangstintensiteten og tillatt oppfisket mengde i vassdrag eller fastsette andre hensiktsmessige tiltak innenfor vedkommende fiskesesong.
 
-Departementet2 kan med øyeblikkelig virkning forlenge eller stoppe et fiske når vannføringen eller andre særlige forhold tilsier det.
+Departementet[^2] kan med øyeblikkelig virkning forlenge eller stoppe et fiske når vannføringen eller andre særlige forhold tilsier det.
 
 1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
@@ -146,7 +146,7 @@ Departementet2 kan med øyeblikkelig virkning forlenge eller stoppe et fiske nå
 
 ### § 12. Tiltak i særskilte situasjoner
 
-Når artsmangfoldet er truet av forurensning eller andre miljøforstyrrelser, kan departementet1 sette i verk de tiltak som anses nødvendig for å forebygge, begrense eller hindre skade.
+Når artsmangfoldet er truet av forurensning eller andre miljøforstyrrelser, kan departementet[^1] sette i verk de tiltak som anses nødvendig for å forebygge, begrense eller hindre skade.
 
 Departementet kan treffe vedtak om fjerning av organismer som kan ha vesentlig skadepotensial for andre ferskvannsorganismer.
 
@@ -160,15 +160,15 @@ Denne paragraf får ikke anvendelse på sykdom hos fisk eller andre forhold hos 
 
 ### § 13. Dispensasjon for tiltak som har vern eller utvikling av fiskestammer som formål
 
-Departementet1 kan uten hensyn til den enkelte grunneier eller rettighetshaver, eller til bestemmelser gitt i eller i medhold av denne lov, gi tillatelse til å fange stamfisk og settefisk og til vitenskapelige undersøkelser eller praktiske forsøk og fiskekulturtiltak. Før fangst eller arbeid igangsettes, skal grunneiere og fiskeberettigete varsles.
+Departementet[^1] kan uten hensyn til den enkelte grunneier eller rettighetshaver, eller til bestemmelser gitt i eller i medhold av denne lov, gi tillatelse til å fange stamfisk og settefisk og til vitenskapelige undersøkelser eller praktiske forsøk og fiskekulturtiltak. Før fangst eller arbeid igangsettes, skal grunneiere og fiskeberettigete varsles.
 
 1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 14. Sperreanordninger
 
-Departementet1 kan gi pålegg om at vanninntak og utløp skal ha sperreanordning og hvorledes denne skal være konstruert og tilpasset for å sikre fiskens gang og for å hindre at fisk går inn i anlegget eller skades.
+Departementet[^1] kan gi pålegg om at vanninntak og utløp skal ha sperreanordning og hvorledes denne skal være konstruert og tilpasset for å sikre fiskens gang og for å hindre at fisk går inn i anlegget eller skades.
 
-Etterkommes ikke pålegg gitt i medhold av første ledd, kan departementet1 iverksette nødvendige tiltak for den ansvarliges regning og risiko. Utgifter ved slike tiltak er tvangsgrunnlag for utlegg.
+Etterkommes ikke pålegg gitt i medhold av første ledd, kan departementet[^1] iverksette nødvendige tiltak for den ansvarliges regning og risiko. Utgifter ved slike tiltak er tvangsgrunnlag for utlegg.
 
 > Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
 
@@ -176,9 +176,9 @@ Etterkommes ikke pålegg gitt i medhold av første ledd, kan departementet1 iver
 
 ### § 15. Fisketrapp, fiskerenne o.l.
 
-Det er forbudt å fange fisk i fisketrapp, fiskerenne eller liknende anlegg, øke eller minske vannføringen eller hindre eller forsøke å hindre fisk i å komme inn i eller gjennom anlegget. Forbudet gjelder også på en strekning fra 50 meter ovenfor og til 50 meter nedenfor fisketrapp, fiskerenne eller liknende anlegg. Departementet1 kan fastsette en annen fredningssone der dette er nødvendig.
+Det er forbudt å fange fisk i fisketrapp, fiskerenne eller liknende anlegg, øke eller minske vannføringen eller hindre eller forsøke å hindre fisk i å komme inn i eller gjennom anlegget. Forbudet gjelder også på en strekning fra 50 meter ovenfor og til 50 meter nedenfor fisketrapp, fiskerenne eller liknende anlegg. Departementet[^1] kan fastsette en annen fredningssone der dette er nødvendig.
 
-Grensene skal avmerkes med tydelige merker. Utgiftene til dette dekkes av statskassen. Departementet2 kan ta i bruk privat grunn til merking av grenser fastsatt med hjemmel i denne bestemmelsen. Det samme gjelder for merking av grenser fastsatt med hjemmel i [§ 31](lov/1992-05-15-47/§31) og [§ 40](lov/1992-05-15-47/§40). Økonomisk tap som følge av departementets bruk etter tredje og fjerde punktum kan kreves erstattet av staten i samsvar med alminnelige rettsgrunnsetninger. For vedlikehold eller nedlegging av slike anlegg gjelder bestemmelsene i [vannressursloven §§ 37](lov/2000-11-24-82/§37), [41](lov/2000-11-24-82/§41) og [42](lov/2000-11-24-82/§42).
+Grensene skal avmerkes med tydelige merker. Utgiftene til dette dekkes av statskassen. Departementet[^2] kan ta i bruk privat grunn til merking av grenser fastsatt med hjemmel i denne bestemmelsen. Det samme gjelder for merking av grenser fastsatt med hjemmel i [§ 31](lov/1992-05-15-47/§31) og [§ 40](lov/1992-05-15-47/§40). Økonomisk tap som følge av departementets bruk etter tredje og fjerde punktum kan kreves erstattet av staten i samsvar med alminnelige rettsgrunnsetninger. For vedlikehold eller nedlegging av slike anlegg gjelder bestemmelsene i [vannressursloven §§ 37](lov/2000-11-24-82/§37), [41](lov/2000-11-24-82/§41) og [42](lov/2000-11-24-82/§42).
 
 > Endret ved [lover 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
 
@@ -214,7 +214,7 @@ I andre vassdrag har personer som ikke har fylt 16 år rett til å fiske innland
 
 Bestemmelsene i første og annet ledd gjelder ikke i vassdrag eller deler av vassdrag som fører anadrome laksefisk eller i kunstige dammer. Bestemmelsene er også underordnet regler gitt i medhold av [§ 34](lov/1992-05-15-47/§34) eller naturmangfoldloven.
 
-Der fiske etter denne paragrafen vil være til skade for fiskekulturtiltak eller hvor barns fiske er til vesentlig fortrengsel for rettighetshavernes fiske, skal departementet1 regulere utøvelsen av fisket.
+Der fiske etter denne paragrafen vil være til skade for fiskekulturtiltak eller hvor barns fiske er til vesentlig fortrengsel for rettighetshavernes fiske, skal departementet[^1] regulere utøvelsen av fisket.
 
 Bestemmelsene i denne paragraf gjelder ikke for kreps.
 
@@ -230,7 +230,7 @@ Bestemmelsen i første ledd er ikke til hinder for at det ved avtale mellom fler
 
 Ved salg av fast eiendom i Finnmark fra staten eller Finnmarkseiendommen kan fiskeretten holdes tilbake til fordel for allmennheten.
 
-Utleie av fiskerett til fordel for allmennheten kan med godkjenning av departementet1 avtales for lengre tid enn 10 år.
+Utleie av fiskerett til fordel for allmennheten kan med godkjenning av departementet[^1] avtales for lengre tid enn 10 år.
 
 Dersom bruksrett til fast eiendom overdras, får brukeren den fiskerett som hører til eiendommen når ikke annet er avtalt.
 
@@ -242,7 +242,7 @@ Når mindre grunnstykker som tomter med eller uten bebyggelse, hager og liknende
 
 ### § 20. Fritt fiske
 
-Hvor fisket i vassdrag er fritt, jfr. [§ 5](lov/1992-05-15-47/§5) bokstav d, gir departementet1 bestemmelser om hvordan fisket skal forvaltes.
+Hvor fisket i vassdrag er fritt, jfr. [§ 5](lov/1992-05-15-47/§5) bokstav d, gir departementet[^1] bestemmelser om hvordan fisket skal forvaltes.
 
 1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
@@ -258,7 +258,7 @@ På statsgrunn som ikke reguleres av [lov av 6. juni 1975 nr. 31](lov/1975-06-06
 
 Reindriftssamenes fiske reguleres av [reindriftsloven § 26](lov/2007-06-15-40/§26).
 
-Departementet1 kan fastsette nærmere regler om fiske på statens grunn utenom statsallmenning, herunder om lavere pris og fortrinnsrett til fiske for fast bosatte i kommunen og om utlendingers fiske.
+Departementet[^1] kan fastsette nærmere regler om fiske på statens grunn utenom statsallmenning, herunder om lavere pris og fortrinnsrett til fiske for fast bosatte i kommunen og om utlendingers fiske.
 
 > Endret ved [lover 17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)), [15 juni 2007 nr. 40](lov/2007-06-15-40) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627)).
 
@@ -276,7 +276,7 @@ Bestemmelsene i første og annet ledd gjelder for all kommunal og fylkeskommunal
 
 ### § 24. Særlige rettigheter i Finnmark
 
-Denne lov medfører ingen endringer i de særlige regler som gjelder for den lokale befolknings rett til fiske i Finnmark etter kgl. res. av 27. mai 17751 angående Jorddelingen i Finnmarken samt Bopladses Udvisning og Skyldlægning sammesteds, [finnmarksloven kapittel 4](lov/2005-06-17-85/kap4) og Tanaloven.
+Denne lov medfører ingen endringer i de særlige regler som gjelder for den lokale befolknings rett til fiske i Finnmark etter kgl. res. av 27. mai 1775[^1] angående Jorddelingen i Finnmarken samt Bopladses Udvisning og Skyldlægning sammesteds, [finnmarksloven kapittel 4](lov/2005-06-17-85/kap4) og Tanaloven.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [20 juni 2014 nr. 51](lov/2014-06-20-51) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 802](forskrift/2014-06-20-802)).
 
@@ -290,7 +290,7 @@ Denne lov medfører ingen endringer i de særlige regler som gjelder for den lok
 
 For å fremme en forsvarlig og rasjonell forvaltning av fiskeressursene skal fiskeforvaltningen arbeide for felles organisering.
 
-I vassdrag med selvreproduserende bestander av anadrome laksefisk plikter fiskerettshaverne å gå sammen om felles forvaltning. Fellesforvaltningen skal omfatte regulering av fisket, fiskeoppsyn, informasjon, smitteforebyggende tiltak, fangststatistikk og rapportering, kultiveringstiltak og bestandsovervåking. Departementet1 kan unnlate å åpne for fiske i deler av vassdrag dersom fiskerettshaver bryter eller unnlater å følge opp brudd på bestemmelser som nevnt i annet punktum om fisket. Departementet kan gi forskrift om utøvelsen av fellesforvaltningen, samt om oppfølging av brudd på fellesforvaltningens bestemmelser.
+I vassdrag med selvreproduserende bestander av anadrome laksefisk plikter fiskerettshaverne å gå sammen om felles forvaltning. Fellesforvaltningen skal omfatte regulering av fisket, fiskeoppsyn, informasjon, smitteforebyggende tiltak, fangststatistikk og rapportering, kultiveringstiltak og bestandsovervåking. Departementet[^1] kan unnlate å åpne for fiske i deler av vassdrag dersom fiskerettshaver bryter eller unnlater å følge opp brudd på bestemmelser som nevnt i annet punktum om fisket. Departementet kan gi forskrift om utøvelsen av fellesforvaltningen, samt om oppfølging av brudd på fellesforvaltningens bestemmelser.
 
 I vassdrag der kravene til pliktig organisering ikke er oppfylt, kan departementet unnlate å åpne for fiske.
 
@@ -304,7 +304,7 @@ Departementet gir nærmere bestemmelser om hvordan den enkelte rettighetshavers 
 
 Utgifter knyttet til fellesforvaltningen er tvangsgrunnlag for utlegg.
 
-For gjennomføring av felles organisering kan bruksordning kreves etter jordskiftelova. Departementet2 kan kreve bruksordning etter [jordskiftelova § 3-8](lov/2013-06-21-100/§3-8) når ingen av partene vil kreve det eller resultatet av minnelig ordning ikke er hensiktsmessig.
+For gjennomføring av felles organisering kan bruksordning kreves etter jordskiftelova. Departementet[^2] kan kreve bruksordning etter [jordskiftelova § 3-8](lov/2013-06-21-100/§3-8) når ingen av partene vil kreve det eller resultatet av minnelig ordning ikke er hensiktsmessig.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
@@ -334,13 +334,13 @@ Når det bevilges vesentlige økonomiske midler til tiltak som omfattes av loven
 
 ### § 27. Pålegg om salg av fiskekort
 
-Fiskeforvaltningen skal gjennom frivillige ordninger tilrettelegge for best mulig tilbud om fiske til allmennheten. I vassdrag hvor allmennheten ikke har rimelig adgang til fiske, eller fiskerettshaverne ikke utnytter fiskeproduksjonen, kan departementet,1 dersom forholdene ellers gjør det rimelig, gi pålegg om et bedre tilbud til fiske ved bortleie eller kortsalg. Det skal i tilfelle tas hensyn til rettighetshavernes egen utnytting av fiske.
+Fiskeforvaltningen skal gjennom frivillige ordninger tilrettelegge for best mulig tilbud om fiske til allmennheten. I vassdrag hvor allmennheten ikke har rimelig adgang til fiske, eller fiskerettshaverne ikke utnytter fiskeproduksjonen, kan departementet,[^1] dersom forholdene ellers gjør det rimelig, gi pålegg om et bedre tilbud til fiske ved bortleie eller kortsalg. Det skal i tilfelle tas hensyn til rettighetshavernes egen utnytting av fiske.
 
 Pålegget skal være tidsbegrenset og kan gis for inntil 10 år om gangen. Prisen på fisket settes til det som er vanlig for tilsvarende fiske. Pålegget kan gjennomføres ved tvangsmulkt.
 
-Spørsmål om rettighetshaverne etter alminnelige rettsgrunnsetninger har krav på erstatning for tap som følge av vedtak etter denne paragraf, avgjøres ved skjønn styrt av tingretten om ikke annet blir avtalt. Begjæring om skjønn må fremmes innen ett år etter at vedtaket er kunngjort. Departementet1 kan forlenge fristen. Reglene i [tvisteloven §§ 16-12](lov/2005-06-17-90/§16-12) til [16-14](lov/2005-06-17-90/§16-14) gjelder så langt de passer. Lov av 23. oktober 1959 om oreigning av fast eiendom kommer ikke til anvendelse.
+Spørsmål om rettighetshaverne etter alminnelige rettsgrunnsetninger har krav på erstatning for tap som følge av vedtak etter denne paragraf, avgjøres ved skjønn styrt av tingretten om ikke annet blir avtalt. Begjæring om skjønn må fremmes innen ett år etter at vedtaket er kunngjort. Departementet[^1] kan forlenge fristen. Reglene i [tvisteloven §§ 16-12](lov/2005-06-17-90/§16-12) til [16-14](lov/2005-06-17-90/§16-14) gjelder så langt de passer. Lov av 23. oktober 1959 om oreigning av fast eiendom kommer ikke til anvendelse.
 
-Kongen2 kan gi regler om forbud mot framleie av fiskerett.
+Kongen[^2] kan gi regler om forbud mot framleie av fiskerett.
 
 > Endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
@@ -352,9 +352,9 @@ Kongen2 kan gi regler om forbud mot framleie av fiskerett.
 
 Fiskeforvaltningen skal påse at hensiktsmessige tiltak for vern og utvikling av fiskestammer blir organisert og utført på en tilfredsstillende måte for de enkelte vassdrag.
 
-Når hensynet til fisken ikke blir ivaretatt på en forsvarlig måte, og minnelige ordninger ikke oppnås, kan departementet1 pålegge rettighetshaverne å utføre tiltak til vern og utvikling.
+Når hensynet til fisken ikke blir ivaretatt på en forsvarlig måte, og minnelige ordninger ikke oppnås, kan departementet[^1] pålegge rettighetshaverne å utføre tiltak til vern og utvikling.
 
-Om pålegget ikke blir etterkommet, kan departementet1 overlate driften av vassdraget til det lokale fiskeorgan for et tidsrom av inntil 10 år. Tilbakeføring til rettighetshaverne skjer vederlagsfritt.
+Om pålegget ikke blir etterkommet, kan departementet[^1] overlate driften av vassdraget til det lokale fiskeorgan for et tidsrom av inntil 10 år. Tilbakeføring til rettighetshaverne skjer vederlagsfritt.
 
 Spørsmål om rettighetshaverne etter alminnelige rettsgrunnsetninger har krav på erstatning for økonomisk tap som følge av vedtak etter denne paragraf, avgjøres ved rettslig skjønn om ikke annet blir avtalt. Begjæring om skjønn må fremmes innen ett år etter at vedtaket er kunngjort. Departementet kan forlenge fristen. Reglene i [tvisteloven §§ 16-12](lov/2005-06-17-90/§16-12) til [16-14](lov/2005-06-17-90/§16-14) gjelder så langt de passer.
 
@@ -372,7 +372,7 @@ Lov av 23. oktober 1959 om oreigning av fast eiendom gjelder ikke for pålegg el
 
 For å finansiere tiltak som skal sikre og utvikle bestander av vill anadrom laksefisk og legge til rette for fiske etter anadrome laksefisk, skal den statlige fiskeravgiften gå inn i et statlig fiskefond. I fondet inngår de inntektene som er nevnt i [§§ 30](lov/1992-05-15-47/§30) og [47](lov/1992-05-15-47/§47).
 
-Fondet styres av departementet1 innenfor de rammene Kongen gir for fondets forvaltning og bruken av midlene.
+Fondet styres av departementet[^1] innenfor de rammene Kongen gir for fondets forvaltning og bruken av midlene.
 
 > Endret ved lov [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
 
@@ -386,7 +386,7 @@ Stangfiske i sjøen er unntatt fra avgiftsplikten etter første ledd. Norske og 
 
 Betaling av avgift til Statens fiskefond er et vilkår for utøving av fiske, men gir ikke rett til fiske i noe bestemt område.
 
-Departementet1 fastsetter størrelsen på avgiften og for hvilket tidsrom betalingen gjelder. Departementet kan gi forskrift om dispensasjon fra plikten til å betale avgift, om betalingen og om kontroll med slik betaling.
+Departementet[^1] fastsetter størrelsen på avgiften og for hvilket tidsrom betalingen gjelder. Departementet kan gi forskrift om dispensasjon fra plikten til å betale avgift, om betalingen og om kontroll med slik betaling.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
 
@@ -396,7 +396,7 @@ Departementet1 fastsetter størrelsen på avgiften og for hvilket tidsrom betali
 
 ### § 31. Tvist om grenser m.m.
 
-Fiskeberettiget eier eller bruker av fiskerett i sjø eller vassdrag, det lokale fiskeorgan, statsforvalteren, politimesteren eller Miljødirektoratet kan kreve at departementet1 avgjør:
+Fiskeberettiget eier eller bruker av fiskerett i sjø eller vassdrag, det lokale fiskeorgan, statsforvalteren, politimesteren eller Miljødirektoratet kan kreve at departementet[^1] avgjør:
 
 1. midtstrømslinje i elv eller bekk, jfr. [§ 35](lov/1992-05-15-47/§35) annet ledd,
 2. om elvestrekning skal anses som foss,
@@ -404,11 +404,11 @@ Fiskeberettiget eier eller bruker av fiskerett i sjø eller vassdrag, det lokale
 4. grensen mellom elv eller bekk og innsjø eller tjern og grensen mellom elv eller bekk og sjø,
 5. om vassdrag eller deler av vassdrag skal anses for å føre anadrome laksefisk.
 
-Når det er nødvendig, kan departementet1 avgjøre ovennevnte spørsmål uten at det foreligger krav om det fra de som er nevnt i første punktum.
+Når det er nødvendig, kan departementet[^1] avgjøre ovennevnte spørsmål uten at det foreligger krav om det fra de som er nevnt i første punktum.
 
-Departementets1 vedtak etter første ledd kan ikke påklages etter [lov om behandlingsmåten i forvaltningssaker](lov/1967-02-10) av 10. februar 1967 [kap. VI](lov/1967-02-10/kapvi). Partene kan innen 3 måneder etter departementets vedtak kreve spørsmålet avgjort ved skjønn styrt av tingretten.
+Departementets[^1] vedtak etter første ledd kan ikke påklages etter [lov om behandlingsmåten i forvaltningssaker](lov/1967-02-10) av 10. februar 1967 [kap. VI](lov/1967-02-10/kapvi). Partene kan innen 3 måneder etter departementets vedtak kreve spørsmålet avgjort ved skjønn styrt av tingretten.
 
-Nytt vedtak av departementet1 kan kreves når det kan påvises at forholdene i vassdraget eller tilstøtende sjøstrekning er vesentlig endret eller når 10 år er gått siden saken forrige gang ble avgjort. Tredje ledd gjelder tilsvarende.
+Nytt vedtak av departementet[^1] kan kreves når det kan påvises at forholdene i vassdraget eller tilstøtende sjøstrekning er vesentlig endret eller når 10 år er gått siden saken forrige gang ble avgjort. Tredje ledd gjelder tilsvarende.
 
 > Endret ved [lover 14 juni 2013 nr. 48](lov/2013-06-14-48) (ikr. 1 juli 2013), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
@@ -424,7 +424,7 @@ Når redskap til fiske etter anadrome laksefisk er satt ut fra en eiendom og for
 
 I samsvar med naturmangfoldloven og formålet i loven her kan Kongen tillate fiske etter anadrome laksefisk. Tillatelsen kan gis for nærmere angitt tidsrom og gjelde bestemte områder, redskaper, fangstmåter, arter eller fangstkvantum.
 
-Departementet1 kan gi utfyllende bestemmelser. Det kan fastsettes ulike bestemmelser for de enkelte områder og vassdrag.
+Departementet[^1] kan gi utfyllende bestemmelser. Det kan fastsettes ulike bestemmelser for de enkelte områder og vassdrag.
 
 > Endret ved [lov 19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)).
 
@@ -444,7 +444,7 @@ Det er forbudt å stenge helt for fiskens frie gang uten konsesjon etter vannres
 
 Midtstrømslinjen går midt i djupålen hvis denne kan påvises. Ellers går midtstrømslinjen midt i vannløpet eller der hvor den i tilfelle er fastsatt etter [§ 31](lov/1992-05-15-47/§31) bokstav a. Ved avgjørelsen skal så vidt mulig tas hensyn til at det kan gå omtrent like mye fisk på hver side av midtstrømslinjen på den tid da fisket er størst på vedkommende sted.
 
-Departementet1 kan innskrenke eller utvide friløpets bredde.
+Departementet[^1] kan innskrenke eller utvide friløpets bredde.
 
 > Endret ved [lover 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
 
@@ -456,7 +456,7 @@ Det er forbudt å sette fiskeredskaper slik at redskapet enten alene eller i for
 
 I friløpet er det forbudt uten konsesjon etter vannressursloven å slippe stein eller andre ting som kan være til hinder for fiskens frie gang. Det er også forbudt å gjøre dypere enn friløpet det løp som ovenfra eller nedenfra fører inn til et redskap. Dersom friløpet er oppfylt eller vassdraget utdypet i strid med denne bestemmelse, er det forbudt å fiske på vedkommende sted inntil friløpet eller vassdraget er bragt tilbake i samme tilstand som før det ulovlige tiltak.
 
-Departementet1 kan gi pålegg om gjenoppretting av endring av friløpet i strid med annet ledd. Bestemmelsene i [§ 7](lov/1992-05-15-47/§7) femte ledd gjelder tilsvarende.
+Departementet[^1] kan gi pålegg om gjenoppretting av endring av friløpet i strid med annet ledd. Bestemmelsene i [§ 7](lov/1992-05-15-47/§7) femte ledd gjelder tilsvarende.
 
 Er oppfylling eller utdyping skjedd uten noens skyld, gjelder vannressurslovens regler for gjenoppretting av friløpet.
 
@@ -487,7 +487,7 @@ Uten tillatelse fra departementet, ved enkeltvedtak eller forskrift, er det forb
 
 Fisk som fanges og ikke settes ut umiddelbart, skal avlives omgående. Organismer som ikke er av stedegen stamme, skal ikke gjenutsettes, men avlives omgående. Første punktum gjelder ikke for fangst av edelkreps eller for fiske med tillatelse etter [§ 13](lov/1992-05-15-47/§13) eller [naturmangfoldloven § 18](lov/2009-06-19-100/§18).
 
-Departementet1 kan for det enkelte tilfelle dispensere fra bestemmelsene i tredje ledd.
+Departementet[^1] kan for det enkelte tilfelle dispensere fra bestemmelsene i tredje ledd.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
@@ -495,7 +495,7 @@ Departementet1 kan for det enkelte tilfelle dispensere fra bestemmelsene i tredj
 
 ### § 38. Særlige bestemmelser om konsesjon
 
-Kongen1 kan bestemme at det skal være konsesjonsplikt for bestemte fangstmetoder for anadrome laksefisk. Kongen1 kan ved forskrift gi nærmere regler om adgangen til å få konsesjon og om vilkår som kan knyttes til den enkelte konsesjon.
+Kongen[^1] kan bestemme at det skal være konsesjonsplikt for bestemte fangstmetoder for anadrome laksefisk. Kongen[^1] kan ved forskrift gi nærmere regler om adgangen til å få konsesjon og om vilkår som kan knyttes til den enkelte konsesjon.
 
 1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
@@ -509,15 +509,15 @@ Forbudet er likevel ikke til hinder for ålefiske, kasting med not etter sild, b
 
 Forbudet er heller ikke til hinder for fiske med stang og håndsnøre når dette foregår i større avstand enn 50 meter fra faststående redskap.
 
-Departementet1 kan gi regler om ferdsel i nærheten av faststående redskap som står til fangst av anadrome laksefisk.
+Departementet[^1] kan gi regler om ferdsel i nærheten av faststående redskap som står til fangst av anadrome laksefisk.
 
-Departementet1 kan gi regler om avstanden mellom redskaper som står til fangst av anadrome laksefisk.
+Departementet[^1] kan gi regler om avstanden mellom redskaper som står til fangst av anadrome laksefisk.
 
 1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 40. Regulering av alt fiske
 
-Departementet1 kan forby eller gi regler om utøvelsen av alt fiske, herunder saltvannsfiske, ved utløpet av vassdrag, i saltvannsstrøm, i sund og mellom elv og vann der det går anadrome laksefisk. Reguleringen skal ikke overstige 2 km fra munningen når ikke særlige forhold gjør det påkrevet. Det regulerte området skal avmerkes tydelig for statskassens regning.
+Departementet[^1] kan forby eller gi regler om utøvelsen av alt fiske, herunder saltvannsfiske, ved utløpet av vassdrag, i saltvannsstrøm, i sund og mellom elv og vann der det går anadrome laksefisk. Reguleringen skal ikke overstige 2 km fra munningen når ikke særlige forhold gjør det påkrevet. Det regulerte området skal avmerkes tydelig for statskassens regning.
 
 1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
@@ -533,11 +533,11 @@ I den tiden det ikke er åpnet for fiske etter anadrome laksefisk, kan det med h
 
 ### § 42. Kontroll, oppsyn og overvåking
 
-Departementet1 skal føre kontroll med at bestemmelsene gitt i eller i medhold av denne lov blir overholdt og påse at nødvendig oppsyn blir etablert.
+Departementet[^1] skal føre kontroll med at bestemmelsene gitt i eller i medhold av denne lov blir overholdt og påse at nødvendig oppsyn blir etablert.
 
-Departementets1 oppsyn skal under sin kontrollvirksomhet gis uhindret adgang til båt eller fartøy og til områder der virksomheten drives fra. Under kontrollvirksomheten kan båt eller fartøy stanses for undersøkelse, og oppsynet kan trekke redskaper og forankring for slike, eller gi den ansvarlige pålegg om dette. Oppsynet kan videre kreve å få vist fram redskaper som kan benyttes til fiske, samt fangst som er tatt om bord i båt eller fartøy. Den ansvarlige for virksomheten skal gi oppsynet nødvendig bistand og opplysninger. Oppsynet kan om nødvendig kreve hjelp av politiet for å utføre kontrollen.
+Departementets[^1] oppsyn skal under sin kontrollvirksomhet gis uhindret adgang til båt eller fartøy og til områder der virksomheten drives fra. Under kontrollvirksomheten kan båt eller fartøy stanses for undersøkelse, og oppsynet kan trekke redskaper og forankring for slike, eller gi den ansvarlige pålegg om dette. Oppsynet kan videre kreve å få vist fram redskaper som kan benyttes til fiske, samt fangst som er tatt om bord i båt eller fartøy. Den ansvarlige for virksomheten skal gi oppsynet nødvendig bistand og opplysninger. Oppsynet kan om nødvendig kreve hjelp av politiet for å utføre kontrollen.
 
-Departementet1 kan gi forskrifter om kontroll som utøves etter første ledd og instruks for oppsynsmenn.
+Departementet[^1] kan gi forskrifter om kontroll som utøves etter første ledd og instruks for oppsynsmenn.
 
 Fiskeforvaltningen kan utenom statsallmenning tilsette oppsyn. Oppsynet bør gis politimyndighet etter [lov 4. august 1995 nr. 53](lov/1995-08-04-53) om politiet [§ 20](lov/1995-08-04-53/§20).
 
@@ -553,7 +553,7 @@ Den som i sjø eller vassdrag fisker anadrome laksefisk med andre redskap enn st
 
 Departementet kan nekte registrering av redskap for inntil to år for den som har vist seg uskikket til å bruke redskapet og har overtrådt første ledd eller bestemmelser gitt i eller i medhold av [§ 11](lov/1992-05-15-47/§11), [§ 33](lov/1992-05-15-47/§33), [§ 37](lov/1992-05-15-47/§37) annet, tredje og fjerde ledd, [§ 40](lov/1992-05-15-47/§40) eller [§ 41](lov/1992-05-15-47/§41).
 
-Departementet1 gir nærmere regler om registrering og merking av redskap. Departementet kan utvide plikten til registrering til å gjelde fiske etter innlandsfisk.
+Departementet[^1] gir nærmere regler om registrering og merking av redskap. Departementet kan utvide plikten til registrering til å gjelde fiske etter innlandsfisk.
 
 > Endret ved [lov 19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
@@ -567,9 +567,9 @@ Ved leie av fiskerett, eller kjøp av fiskekort i vassdrag plikter fiskeren å g
 
 Registrering av redskap etter [§ 43](lov/1992-05-15-47/§43) skal som hovedregel nektes når fangstoppgave ikke er innsendt. I vassdrag eller deler av vassdrag hvor skriftlig oppgave over fangsten ikke innleveres, skal det som hovedregel unnlates å åpne for fiske etter anadrome laksefisk.
 
-Departementet1 gir nærmere bestemmelser om oppgaveplikten, frister og hvem oppgavene skal sendes til.
+Departementet[^1] gir nærmere bestemmelser om oppgaveplikten, frister og hvem oppgavene skal sendes til.
 
-Departementet1 kan gjøre denne paragraf gjeldende for fiske etter innlandsfisk.
+Departementet[^1] kan gjøre denne paragraf gjeldende for fiske etter innlandsfisk.
 
 Opplysninger gitt i medhold av denne bestemmelse er underlagt taushetsplikt. Dette gjelder ikke for utveksling av slike opplysninger mellom organer som er en del av den offentlige fiskeforvaltningen, jf. [§ 6](lov/1992-05-15-47/§6), eller mellom lokale fiskeforvaltningsorganer, jf. [§ 25](lov/1992-05-15-47/§25), og offentlige fiskeforvaltningsorganer. I vassdrag med fellesforvaltning skal forvaltningens styre ha adgang til all fangstinformasjon, og kunne benytte denne i forvaltningen.
 
@@ -581,7 +581,7 @@ Opplysninger gitt i medhold av denne bestemmelse er underlagt taushetsplikt. Det
 
 Den som i sin næring omsetter, foredler eller bruker anadrome laksefisk eller innlandsfisk plikter å oppgi vekt og verdi, hver fiskeart for seg, og selgerens navn og adresse til bruk for den offentlige statistikk.
 
-Departementet1 gir nærmere bestemmelser om oppgaveplikten og hvem oppgavene skal sendes til.
+Departementet[^1] gir nærmere bestemmelser om oppgaveplikten og hvem oppgavene skal sendes til.
 
 1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
@@ -603,11 +603,11 @@ Anadrome laksefisk som er fanget med redskap som er ulovlig til fangst av slik f
 
 Departementets oppsyn kan inndra umerket redskap som er satt ut eller brukt i strid med bestemmelser gitt i eller i medhold av denne loven, og som ikke er av vesentlig verdi. Inndratt redskap kan destrueres etter tre måneder eller etter særskilt kunngjøring, eller det kan besluttes at redskapet tilfaller fiskefondet.
 
-Anadrome laksefisk som er ulovlig fanget og bragt i land eller verdien av denne tilfaller fiskefondet. Departementet1 skal så vidt mulig sørge for at fangsten eller dens verdi blir tatt vare på.
+Anadrome laksefisk som er ulovlig fanget og bragt i land eller verdien av denne tilfaller fiskefondet. Departementet[^1] skal så vidt mulig sørge for at fangsten eller dens verdi blir tatt vare på.
 
 Verdien av ulovlig fanget fisk er tvangsgrunnlag for utlegg.
 
-Departementet1 kan gi nærmere bestemmelser om utkasting og inndragning herunder om ulovlig fanget innlandsfisk.
+Departementet[^1] kan gi nærmere bestemmelser om utkasting og inndragning herunder om ulovlig fanget innlandsfisk.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
@@ -655,7 +655,7 @@ Den som krenker en annens rett ved å fiske, straffes med bøter. Forsøk er str
 
 ### § 50. Ikrafttreden
 
-1. Denne lov trer i kraft fra den tid Kongen bestemmer1. Det kan bestemmes at de enkelte bestemmelser i loven skal tre i kraft til ulike tider. Fra samme tid oppheves [lov av 6. mars 1964](lov/1964-03-06) om laksefisket og innlandsfisket.
+1. Denne lov trer i kraft fra den tid Kongen bestemmer[^1]. Det kan bestemmes at de enkelte bestemmelser i loven skal tre i kraft til ulike tider. Fra samme tid oppheves [lov av 6. mars 1964](lov/1964-03-06) om laksefisket og innlandsfisket.
 2. Bestemmelser gitt i medhold av [lov av 6. mars 1964](lov/1964-03-06) om laksefisket og innlandsfisket og eldre lover gjelder fortsatt i den utstrekning de fortsatt har hjemmel i eller i bestemmelser gitt i medhold av loven her.
 3. Fra lovens ikrafttreden gjøres følgende endringer i andre lover: – – –
 

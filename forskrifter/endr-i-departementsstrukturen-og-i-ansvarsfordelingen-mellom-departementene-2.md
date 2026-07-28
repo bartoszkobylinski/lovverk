@@ -15,7 +15,7 @@ xml_hash: "4fd4e28af45af92e131c090acbead86875a82a4ede40dd98ff68a6fce0d22ff8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -93,7 +93,7 @@ eu_basis: []
 - [Lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard (Svalbardloven)
 - [Lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)
 - [Lov 27. februar 1930 nr. 2](lov/1930-02-27-2) om Jan Mayen
-- Lov 27. februar nr. 31 om Bouvet-øya, Peter I's øy og Dronning Mauds Land m.m. (bilandsloven)
+- Lov 27. februar nr. 3[^1] om Bouvet-øya, Peter I's øy og Dronning Mauds Land m.m. (bilandsloven)
 - [Lov 21. mai 1971 nr. 47](lov/1971-05-21-47) om brannfarlige varer samt væsker og gasser under trykk (brannfarligvareloven) (gjelder bare for Svalbard)
 - [Lov 14. juni 1974 nr. 39](lov/1974-06-14-39) om eksplosive varer (gjelder bare for Svalbard)
 - [Lov 11. juni 1976 nr. 79](lov/1976-06-11-79) om kontroll med produkter og forbrukertjenester (produktkontrolloven)
@@ -126,7 +126,7 @@ eu_basis: []
 - [Lov 7. juni 1996 nr. 33](lov/1996-06-07-33) om Opplysningsvesenets fond
 - Lov [28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), [kapittel 14](lov/1997-02-28-19/kap14) Ytelser ved svangerskap, fødsel og adopsjon
 - [Lov 19. juni 1997 nr. 62](lov/1997-06-19-62) om familievernkontorer (familievernkontorloven)
-- Lov 4. juli 1997 nr. 471 om ekteskap (ekteskapsloven)
+- Lov 4. juli 1997 nr. 47[^1] om ekteskap (ekteskapsloven)
 - [Lov 26. juni 1998 nr. 41](lov/1998-06-26-41) om kontantstøtte til småbarnsforeldre (kontantstøtteloven)
 - [Lov 8. mars 2002 nr. 4](lov/2002-03-08-4) om barnetrygd (barnetrygdloven)
 - [Lov 9. januar 2009 nr. 2](lov/2009-01-09-2) om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)

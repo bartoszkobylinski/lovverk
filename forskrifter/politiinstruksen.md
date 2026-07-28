@@ -15,7 +15,7 @@ xml_hash: "95f9fa1fd6ec220f368a1584aa4d4b7d3554252f072cdc7b5aec1bd761f49f2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,7 +109,7 @@ Håndjern eller annet bendsel kan anvendes på person som under pågripelse elle
 
 Politiets adgang til å bruke særlige maktmidler av teknisk eller annen art i tjenesten er regulert i egen instruks. I ethvert tilfelle skal vilkårene i første ledd være oppfylt før disse midler tas i bruk.
 
-Politiutstyr som nevnt i 3. og 4. ledd skal være godkjent av Justisdepartementet.1
+Politiutstyr som nevnt i 3. og 4. ledd skal være godkjent av Justisdepartementet.[^1]
 
 Dersom politiets bruk av makt medfører skade på person eller eiendom, eller situasjonen tilsier at det kan bli klaget over politiets handlemåte, skal vedkommende politimann innrapportere forholdet til sin foresatte umiddelbart. Denne rapportering bør være skriftlig.
 
@@ -133,7 +133,7 @@ En politimann skal uten opphold gi den foresatte melding om sin bopel til enhver
 
 Med bopel menes her det sted vedkommende regelmessig tar sin døgnhvile og ellers oppholder seg i sin fritid.
 
-Justisdepartementet1 håndhever boplikten overfor politimestrene. For øvrige embetsmenn og tjenestemenn i politiet tillegger dette politimesteren. Statsforvalteren forestår denne håndhevelse overfor tjenestemenn i lensmannsetaten.
+Justisdepartementet[^1] håndhever boplikten overfor politimestrene. For øvrige embetsmenn og tjenestemenn i politiet tillegger dette politimesteren. Statsforvalteren forestår denne håndhevelse overfor tjenestemenn i lensmannsetaten.
 
 Når det finnes påkrevet av tjenestemessige grunner, kan politimesteren bestemme at en politimann på forhånd må varsle sin foresatte ved fravær fra bopel i fritiden som overskrider en bestemt varighet.
 

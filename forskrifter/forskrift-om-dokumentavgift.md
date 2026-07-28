@@ -15,7 +15,7 @@ xml_hash: "4c83f7a8037cb643aef49b61a4ef914d10a6ec89e52813bc7242337c49c523cb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,11 +120,11 @@ Ved betaling av avgiften via bank skal forhåndstrykket blankett med kundeidenti
 
 > Opphevet ved [forskrift 8 april 2005 nr. 298](forskrift/2005-04-08-298) (i kraft 11 april 2005).
 
-## Kap. III. Sluttsedler ved overføring av aksjer.1
+## Kap. III. Sluttsedler ved overføring av aksjer.[^1]
 
 1 Opphevet ved [forskrift 12. desember 1983 nr. 1807](forskrift/1983-12-12-1807).
 
-## Kap. IV. Firmameldinger.1
+## Kap. IV. Firmameldinger.[^1]
 
 1 Opphevet ved [forskrift 12. desember 1983 nr. 1807](forskrift/1983-12-12-1807).
 

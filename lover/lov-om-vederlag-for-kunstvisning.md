@@ -15,7 +15,7 @@ xml_hash: "4120640cd4acf3d15204b9be6b2e1d7fa87f0156dd58f88edeb9d89b9d846993"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Vederlaget fordeles til fond som forvaltes av opphaverorganisasjoner innen de om
 
 Fondenes midler kan disponeres til fordel for opphavere, eller til fordel for formål som gjelder vedkommende gruppe opphavere. Ved utbetaling til enkelte opphavere skal det ikke kunne tas hensyn til organisasjonstilhørighet.
 
-Departementet kan fastsette nærmere regler om fordeling av vederlaget og anvendelse av midlene.1
+Departementet kan fastsette nærmere regler om fordeling av vederlaget og anvendelse av midlene.[^1]
 
 > Endret ved [lov 20 des 2018 nr. 120](lov/2018-12-20-120) (ikr. 1 aug 2019 iflg. [res. 21 juni 2019 nr. 807](forskrift/2019-06-21-807)).
 

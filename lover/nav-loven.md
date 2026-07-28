@@ -15,7 +15,7 @@ xml_hash: "3077e8dd9077639237a6e3d04212e6556720182f4f845a7d44464b8db63ce794"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -216,7 +216,7 @@ Taushetsplikt etter denne loven eller etter [lov 18. desember 2009 nr. 131](lov/
 
 ### § 17. Ikrafttredelse
 
-Loven trer i kraft fra den tiden Kongen bestemmer.1
+Loven trer i kraft fra den tiden Kongen bestemmer.[^1]
 
 1 Fra 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631).
 

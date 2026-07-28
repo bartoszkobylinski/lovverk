@@ -15,7 +15,7 @@ xml_hash: "2cd5dd9f68dba5a3fd9edf8daeaac67c3ef2f33d419c4dc5fda43c74fb6a326b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,10 +50,10 @@ Arbeidet med samfunnssikkerhet bygger på fire grunnleggende prinsipper:
 Arbeidet med samfunnssikkerhet skal være basert på systematisk risikostyring. Det stilles derfor krav om at det enkelte departement skal kunne dokumentere at det:
 
 1. avklarer og beskriver sentrale roller og ansvarsområder innenfor samfunnssikkerhetsarbeidet i eget departement og i egen sektor.
-2. utarbeider og vedlikeholder systematiske risiko- og sårbarhetsanalyser1 med grunnlag i vurderinger av tilsiktede og utilsiktede hendelser som kan true departementets og sektorens funksjonsevne og sette liv, helse og materielle verdier i fare.
+2. utarbeider og vedlikeholder systematiske risiko- og sårbarhetsanalyser[^1] med grunnlag i vurderinger av tilsiktede og utilsiktede hendelser som kan true departementets og sektorens funksjonsevne og sette liv, helse og materielle verdier i fare.
 3. iverksetter nødvendige kompenserende tiltak som reduserer sannsynligheten for – og konsekvensene av – uønskede hendelser i egen sektor.
 4. beskriver beredskapstiltakenes evne til å redusere sannsynligheten for – og håndtere konsekvensene av – uønskede hendelser i egen sektor.
-5. utarbeider mål for samfunnssikkerhetsarbeidet i egen sektor.2
+5. utarbeider mål for samfunnssikkerhetsarbeidet i egen sektor.[^2]
 6. koordinerer eget arbeid med forebygging, beredskap og krisehåndtering med berørte departementer.
 7. ivaretar ansvaret for krisehåndtering innenfor egen sektor, også som eventuelt lederdepartement, og er i stand til å understøtte håndteringen i andre departementer, se for øvrig kap. VIII. Dette innbefatter bl.a. å:
 
@@ -69,7 +69,7 @@ Arbeidet med samfunnssikkerhet skal være basert på systematisk risikostyring. 
 
 ## V. Krav til departementer med hovedansvar for kritiske samfunnsfunksjoner
 
-Det er utpekt hovedansvarlige departementer3 som har et særlig ansvar for nødvendig koordinering og samordning innenfor enkelte kritiske samfunnsfunksjoner. Disse departementene skal innenfor sitt hovedansvarsområde, i tillegg til oppgaver som beskrevet under kap. IV:
+Det er utpekt hovedansvarlige departementer[^3] som har et særlig ansvar for nødvendig koordinering og samordning innenfor enkelte kritiske samfunnsfunksjoner. Disse departementene skal innenfor sitt hovedansvarsområde, i tillegg til oppgaver som beskrevet under kap. IV:
 
 1. sørge for at det utarbeides og vedlikeholdes risiko- og sårbarhetsanalyser for de kritiske samfunnsfunksjonene som departementet har et hovedansvar for.
 2. ha oversikt over tilstanden knyttet til sårbarheter for de områder som departementet har et hovedansvar for, og utarbeide status- og tilstandsvurderinger for disse som fremlegges for Stortinget i de årlige budsjettproposisjonene. Status- og tilstandsvurderingene utarbeides etter en tidsplan fastsatt av Justis- og beredskapsdepartementet.
@@ -316,7 +316,7 @@ JD tar et særlig ansvar for å planlegge og gjennomføre større øvelser på s
 
 JD innhenter også årlig rapportering om øvelsesvirksomheten i departementene.
 
-JD og DSB er gjennom kgl. res. 1. juli 20051 ansvarlige for å legge til rette for systemer for robust, helhetlig og koordinert kommunikasjon mellom myndighetene og til befolkningen under kriser.
+JD og DSB er gjennom kgl. res. 1. juli 2005[^1] ansvarlige for å legge til rette for systemer for robust, helhetlig og koordinert kommunikasjon mellom myndighetene og til befolkningen under kriser.
 
 1 Kgl.res. 1. juli 2005 Overføring av ansvar for risiko- og krisekommunikasjon og ansvar for Regjeringens kriseinformasjonsenhet fra Moderniseringsdepartementet til Justis- og politidepartementet fra 1. juli 2005 – nedleggelse av Regjeringens kriseinformasjonsenhet fra januar 2006 januar 2006.
 

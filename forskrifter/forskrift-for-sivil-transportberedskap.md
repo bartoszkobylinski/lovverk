@@ -15,7 +15,7 @@ xml_hash: "47ad8d17fcc4ca20230eddccf68527b0c6da9233037d717bc7938f498d338db3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,6 +64,6 @@ Fylkeskommunen skal på anmodning fra Samferdselsdepartementet eller statsforval
 
 ## § 6. Ikrafttreden og opphevelse av annen forskrift
 
-Denne forskrift trer i kraft 1. juli 2005. Fra samme tid oppheves forskrift 8. juni 19791 om planlegging, organisering og utøving av den sivile vegtransport- og kysttransportberedskap med senere endringer.
+Denne forskrift trer i kraft 1. juli 2005. Fra samme tid oppheves forskrift 8. juni 1979[^1] om planlegging, organisering og utøving av den sivile vegtransport- og kysttransportberedskap med senere endringer.
 
 1 Ikke kunngjort i Norsk Lovtidend.

@@ -15,7 +15,7 @@ xml_hash: "e1ea3fc65c6ee853bc8d9ea39ac0dc8ac895d3ed7f5ccce02d6bd51db3f98452"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -330,7 +330,7 @@ Ansvarlig myndighet kan frafalle en påløpt tvangsmulkt. Avgjørelsen regnes ik
 
 ### § 6-1. Ikrafttredelse
 
-Loven gjelder fra den tid1 Avtalen trer i kraft for Norge.
+Loven gjelder fra den tid[^1] Avtalen trer i kraft for Norge.
 
 1 Fra 17. januar 2026 iflg. [meddelelse 7 nov 2025 nr. 2226](forskrift/2025-11-07-2226).
 

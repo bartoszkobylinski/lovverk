@@ -15,16 +15,16 @@ xml_hash: "c1a282b7212c13f79c959f069346dfef7ae0840131d5bed2fca36068a63c3df8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Tillegg til forskrifter om internasjonal transport av lett bedervelige næringsmidler
 
-## Annex 1. Definisjoner og standardkrav for spesialmateriell1 for transport av lett bedervelige næringsmidler.
+## Annex 1. Definisjoner og standardkrav for spesialmateriell[^1] for transport av lett bedervelige næringsmidler.
 
-1. *Isolert materiell.* Materiell som har karosseri2 hvor vegger, dører, gulv og tak er isolert slik at varmegjennomgangen mellom karosseriets innside og utside er så begrenset at den samlede varmegjennomgangskoeffisient (K-verdi) plasserer materiellet i en av følgende to kategorier:
+1. *Isolert materiell.* Materiell som har karosseri[^2] hvor vegger, dører, gulv og tak er isolert slik at varmegjennomgangen mellom karosseriets innside og utside er så begrenset at den samlede varmegjennomgangskoeffisient (K-verdi) plasserer materiellet i en av følgende to kategorier:
 
    - IN = Normalisolert – K-verdi lik eller mindre enn 0,7 W/m2°C (0,6 Kcal/hm2°C)
    - IR = Kraftigisolert – K-verdi lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C)
@@ -64,7 +64,7 @@ eu_basis: []
    - Klasse B. For bruk når gjennomsnittlig utetemperatur er -20°C
 
    K-verdien for materiell i klasse B skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
-5. *Overgangsbestemmelser.* I en periode på 3 år etter den dato3 avtalen har trådt i kraft, kan materiell som er tatt i bruk på dette tidspunkt ha en varmegjennomgangskoeffisient (K-verdi) lik eller mindre enn
+5. *Overgangsbestemmelser.* I en periode på 3 år etter den dato[^3] avtalen har trådt i kraft, kan materiell som er tatt i bruk på dette tidspunkt ha en varmegjennomgangskoeffisient (K-verdi) lik eller mindre enn
 
    - 0.9 W/m2°C (0,8 Kcal/hm2°C) når det gjelder isolert materiell i kategorien IN, materiell med kjøling i klasse A, alt materiell med mekanisk kjøle-/fryseanlegg samt oppvarmet materiell i klasse A
    - 0,6 W/m2°C (0,5 Kcal/hm2°C) når det gjelder materiell med kjøling i klasse B og C samt oppvarmet materiell i klasse B.
@@ -231,7 +231,7 @@ eu_basis: []
      3. Vedtak
 
         1. Dersom karosseriets alminnelige tilstand kan betegnes som bra, får materiellet fortsatt brukes som isolert materiell i den opprinnelige klasse i inntil 3 år. Hvis den eller de sakkyndige ikke kan betegne materiellet som bra, får det bare benyttes dersom det ved kontroll på prøvelaboratorium består prøvene beskrevet i nummer 7 til 27 i dette appendix. I så fall kan materiellet anvendes i en ytterligere periode på 6 år.
-2. Overgangsbestemmelser for nytt utstyr. I 4 år1 regnet fra den dato avtalen trer i kraft kan nytt utstyr prøves etter bestemmelsene i nummer 29 i dette appendix såfremt det ikke finnes laboratorier der K-verdien kan måles slik det er beskrevet i nummer 7 til 27. Det forutsettes da at isolasjonskapasiteten bedømmes etter disse retningslinjer:
+2. Overgangsbestemmelser for nytt utstyr. I 4 år[^1] regnet fra den dato avtalen trer i kraft kan nytt utstyr prøves etter bestemmelsene i nummer 29 i dette appendix såfremt det ikke finnes laboratorier der K-verdien kan måles slik det er beskrevet i nummer 7 til 27. Det forutsettes da at isolasjonskapasiteten bedømmes etter disse retningslinjer:
 
    Det isolerende materiale i hovedelementene (vegger, gulv, tak, luker, dører etc.) skal ha tilnærmet ens tykkelse som i metrisk mål skal være større enn det tall som fremkommer når materialets termiske ledningskoeffisient i fuktige omgivelser divideres med den K-verdi som er fastsatt for den kategori utstyret skal godkjennes for.
 
@@ -316,13 +316,13 @@ Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.
 
 ### Overgangsbestemmelser som gjelder nytt utstyr
 
-1. I 4 år,1 regnet fra den dato avtalen trer i kraft, kan nytt utstyr prøves etter bestemmelsene i nummer 49 i dette appendix såfremt det ikke finnes laboratorier der effektiviteten av de varmeregulerende innretninger i utstyret kan fastslås slik det er beskrevet i nummer 32 til 47 i dette appendix.
+1. I 4 år,[^1] regnet fra den dato avtalen trer i kraft, kan nytt utstyr prøves etter bestemmelsene i nummer 49 i dette appendix såfremt det ikke finnes laboratorier der effektiviteten av de varmeregulerende innretninger i utstyret kan fastslås slik det er beskrevet i nummer 32 til 47 i dette appendix.
 
 1 I overensstemmelse med beslutning i Inland Transport Committee, møte nr. 30.
 
 ## Annex 1, Appendix 3. Sertifikatblankett for isolert, kjølt, mekanisk kjølt eller oppvarmet materiell som brukes til internasjonal transport av lett bedervelige næringsmidler på landjorden.
 
-.....1
+.....[^1]
 
 MATERIELL
 
@@ -330,18 +330,18 @@ ISOLERT     KJØLT     MEKANISK KJØLT     OPPVARMET
 
 (Stryk det som ikke passer)
 
-SERTIFIKAT2
+SERTIFIKAT[^2]
 
 utstedt i overensstemmelse med konvensjonen om internasjonal transport av lett bedervelige næringsmidler og om det spesielle materiell som skal anvendes for slik transport (ATP).
 
 1. Utstedende myndighet
-2. Materiell3
+2. Materiell[^3]
 3. Identifikasjonsnummer ......... tildelt av
 4. Eier eller bruker
 5. Innlevert av
-6. Er godkjent som4
+6. Er godkjent som[^4]
 
-   1. med en eller flere temperaturregulerende anordninger som:5
+   1. med en eller flere temperaturregulerende anordninger som:[^5]
 
       - er uavhengig(e)
       - ikke er uavhengig(e)
@@ -349,19 +349,19 @@ utstedt i overensstemmelse med konvensjonen om internasjonal transport av lett b
       - ikke kan fjernes
 7. Grunnlag for utstedelse av sertifikat
 
-   1. Dette sertifikat er utstedt på grunnlag av:5
+   1. Dette sertifikat er utstedt på grunnlag av:[^5]
 
       - prøving av materiellet
       - samsvar med referansemateriell
       - periodisk ettersyn
       - overgangsbestemmelser
-   2. Dersom sertifikatet er utstedt på grunnlag av prøve, eller under henvisning til en annen materiellenhet av samme type som er prøvet, angi:6
+   2. Dersom sertifikatet er utstedt på grunnlag av prøve, eller under henvisning til en annen materiellenhet av samme type som er prøvet, angi:[^6]
 
       - prøveinstituttet
       - hva slags prøve
       - rapportens (rapportenes) nummer
       - K-verdien
-      - den effektive kjølekapasitet7 ved utvendig temperatur 30°C og innvendig temperatur ...... °C ...... W
+      - den effektive kjølekapasitet[^7] ved utvendig temperatur 30°C og innvendig temperatur ...... °C ...... W
         samme ved ...... °C ...... W
         samme ved ...... °C ...... W
 8. Dette sertifikat er gyldig til
@@ -404,15 +404,15 @@ Den merking som kreves ifølge pkt. 5 i appendix 1 til dette annex skal bestå a
 | Klasse C, kjølt materiell med rikelig isolasjon | RRC |
 | Klasse A, mekanisk kjølt materiell med normal isolasjon | FNA |
 | Klasse A, mekanisk kjølt materiell med rikelig isolasjon | FRA |
-| Klasse B, mekanisk kjølt materiell med normal isolasjon1 | FNB |
+| Klasse B, mekanisk kjølt materiell med normal isolasjon[^1] | FNB |
 | Klasse B, mekanisk kjølt materiell med rikelig isolasjon | FRB |
-| Klasse C, mekanisk kjølt materiell med normal isolasjon1 | FNC |
+| Klasse C, mekanisk kjølt materiell med normal isolasjon[^1] | FNC |
 | Klasse C, mekanisk kjølt materiell med rikelig isolasjon | FRC |
 | Klasse D, mekanisk kjølt materiell med normal isolasjon | FND |
 | Klasse D, mekanisk kjølt materiell med rikelig isolasjon | FRD |
-| Klasse E, mekanisk kjølt materiell med normal isolasjon1 | FNE |
+| Klasse E, mekanisk kjølt materiell med normal isolasjon[^1] | FNE |
 | Klasse E, mekanisk kjølt materiell med rikelig isolasjon | FRE |
-| Klasse F, mekanisk kjølt materiell med normal isolasjon1 | FNF |
+| Klasse F, mekanisk kjølt materiell med normal isolasjon[^1] | FNF |
 | Klasse F, mekanisk kjølt materiell med rikelig isolasjon | FRF |
 | Klasse A, oppvarmet materiell med normal isolasjon | CNA |
 | Klasse A, oppvarmet materiell med rikelig isolasjon | CRA |
@@ -452,14 +452,14 @@ Under transporten skal temperaturen i nedenfor nevnte næringsmidler aldri være
 
 |  |  |
 | --- | --- |
-| Innmat3 | +3°C |
+| Innmat[^3] | +3°C |
 | Smør | +6°C |
 | Vilt | +4°C |
-| Konsummelk (ubehandlet eller pasteurisert) i tanker3 | +4°C |
-| Industrimelk3 | +6°C |
-| Meieriprodukter (yoghurt, kefir, fløte og fersk ost)3 | +4°C |
-| Fisk1 (må alltid transporteres «iset») | +2°C |
-| Kjøttprodukter2 | +6°C |
+| Konsummelk (ubehandlet eller pasteurisert) i tanker[^3] | +4°C |
+| Industrimelk[^3] | +6°C |
+| Meieriprodukter (yoghurt, kefir, fløte og fersk ost)[^3] | +4°C |
+| Fisk[^1] (må alltid transporteres «iset») | +2°C |
+| Kjøttprodukter[^2] | +6°C |
 | Kjøtt (ikke innmat) | +7°C |
 | Fjørfe og kaniner | +4°C |
 

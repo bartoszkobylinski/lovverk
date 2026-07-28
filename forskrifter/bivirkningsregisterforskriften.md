@@ -15,7 +15,7 @@ xml_hash: "3af33d50446c2921fbc22b699f22ff769cd518fddcbf3383a76b026395027e75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -125,7 +125,7 @@ Bare spesielt autoriserte personer som har behov for det i arbeidet, skal ha til
 
 ### § 6-1. Ikrafttreden
 
-Forskriften trer i kraft fra det tidspunktet departementet bestemmer.1 Departementet kan bestemme at ulike deler av forskriften trer i kraft til ulik tid. Departementet kan herunder bestemme at meldeplikten etter [§ 3-1](forskrift/2019-02-15-115/§3-1) trer i kraft for ulike grupper av helsepersonell til ulik tid.
+Forskriften trer i kraft fra det tidspunktet departementet bestemmer.[^1] Departementet kan bestemme at ulike deler av forskriften trer i kraft til ulik tid. Departementet kan herunder bestemme at meldeplikten etter [§ 3-1](forskrift/2019-02-15-115/§3-1) trer i kraft for ulike grupper av helsepersonell til ulik tid.
 
 1 I kraft 1 jan 2020 med unntak av [§ 4-4](forskrift/2019-02-15-115/§4-4), jf. [forskrift 6 des 2019 nr. 1653](forskrift/2019-12-06-1653).
 

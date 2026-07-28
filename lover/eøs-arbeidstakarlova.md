@@ -15,7 +15,7 @@ xml_hash: "e89cdaa819af763602f875b507f54ba2d5157925adba1d6185392833b85df83c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32011R0492"
@@ -40,11 +40,11 @@ Lova gjeld ikkje for Svalbard.
 
 ## § 4.
 
-Lova gjeld frå den tid Kongen fastset.1 Frå same tid som lova trer i kraft, blir [lov 27. november 1992 nr. 112](lov/1992-11-27-112) om gjennomføring i norsk rett av EØS-avtalens vedlegg V punkt 2 (rådsforordning [(EØF) nr. 1612/68](eu/31968r1612*)) om fri bevegelighet for arbeidstakere mv. innenfor EØS oppheva.
+Lova gjeld frå den tid Kongen fastset.[^1] Frå same tid som lova trer i kraft, blir [lov 27. november 1992 nr. 112](lov/1992-11-27-112) om gjennomføring i norsk rett av EØS-avtalens vedlegg V punkt 2 (rådsforordning [(EØF) nr. 1612/68](eu/31968r1612*)) om fri bevegelighet for arbeidstakere mv. innenfor EØS oppheva.
 
 1 Frå 14 des 2012 iflg. [res. 14 des 2012 nr. 1249](forskrift/2012-12-14-1249).
 
-## Forordning1
+## Forordning[^1]
 
 Nedafor er teken inn – etter [Prop. 152 L (2011–2012) s. 6-14 – EØS-avtalen vedlegg V punkt 2](forarbeid/prop-152-l-201112/kap2) (forordning [(EU) nr. 492/2011](eu/32011r0492)) slik Arbeidsdepartementet tolkar denne delen av EØS-avtalen med dei endringane og tillegga som følgjer av vedlegg V, protokoll 1 til avtalen og avtalen for elles. Vedlegg I og II til frd. [492/2011](eu/32011r0492) inneheld lister med endringar av den tidlegare frd. [1612/68](eu/31968r1612*) og «artikkelspegel» for frd. [1612/68](eu/31968r1612*) og frd. [492/2011](eu/32011r0492) og er ikkje tekne med her.
 
@@ -60,13 +60,13 @@ med tilvising til framlegget frå Europakommisjonen,
 
 etter oversending av utkast til regelverksakt til dei nasjonale parlamenta,
 
-med tilvising til fråsegna frå Det europeiske økonomi- og sosialutvalet,1
+med tilvising til fråsegna frå Det europeiske økonomi- og sosialutvalet,[^1]
 
-etter den ordinære regelverksprosessen2 og
+etter den ordinære regelverksprosessen[^2] og
 
 ut frå desse synsmåtane:
 
-1. Rådsforordning [(EØF) nr. 1612/68](eu/31968r1612*) av 15. oktober 1968 om fri bevegelighet for arbeidstakere innen Fellesskapet3 er vorten endra monaleg fleire gonger.4 Av omsyn til klarleiken og av praktiske årsaker bør forordninga kodifiserast.
+1. Rådsforordning [(EØF) nr. 1612/68](eu/31968r1612*) av 15. oktober 1968 om fri bevegelighet for arbeidstakere innen Fellesskapet[^3] er vorten endra monaleg fleire gonger.[^4] Av omsyn til klarleiken og av praktiske årsaker bør forordninga kodifiserast.
 2. Fri rørsle for arbeidstakarar bør sikrast innanfor Unionen. For å nå dette målet må all forskjellsbehandling på grunnlag av nasjonalitet mellom arbeidstakarar frå medlemsstatane avskaffast når det gjeld sysselsetjing, lønn og andre arbeidsvilkår, og det same gjeld den retten desse arbeidstakarane har til å flytte fritt innanfor Fellesskapet for å utøve løna verksemd, med atterhald for dei avgrensingane som er grunngjevne med omsynet til offentleg orden, offentleg tryggleik eller folkehelse.
 3. Det bør fastsetjast føresegner for at dei måla på området fri rørsle som er fastsette i artikkel 45 og 46 i traktaten om verkemåten til Den europeiske unionen, skal kunne oppnåast.
 4. Fri rørsle er ein grunnleggjande rett for arbeidstakarar og familiane deira. Mobiliteten til arbeidskrafta innanfor Unionen må vere eitt av midla til å sikre at arbeidstakarar kan få betre leve- og arbeidsvilkåra sine og lette den sosiale framgangen sin, samstundes som slik mobilitet medverkar til å oppfylle dei økonomiske behova til medlemsstatane. Retten til å utøve verksemd etter eige val innanfor Fellesskapet må stadfestast for alle arbeidstakarar i Unionen.
@@ -119,7 +119,7 @@ Denne føresegna gjeld ikkje for vilkår om språkkunnskapar som er naudsynte p�
 
 1\. Føresegner som er fastsette ved lov eller forskrift i *EØS-statane*, og som i tal eller prosent avgrensar sysselsetjinga av utanlandske statsborgarar i eit einskilt føretak, ei einskild næring, ein einskild region eller på nasjonalt plan, skal ikkje nyttast på statsborgarar frå dei andre *EØS-statane.*
 
-2\. Når det i ein *EØS-stat* vert sett som vilkår at ein viss prosentdel innanlandske arbeidstakarar skal tilsetjast for at eit føretak skal få føremoner, skal statsborgarar frå dei andre *EØS-statane* reknast som innanlandske arbeidstakarar, med atterhald for føresegnene i europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*) av 7. september 2005 om godkjenning av yrkeskvalifikasjoner.5
+2\. Når det i ein *EØS-stat* vert sett som vilkår at ein viss prosentdel innanlandske arbeidstakarar skal tilsetjast for at eit føretak skal få føremoner, skal statsborgarar frå dei andre *EØS-statane* reknast som innanlandske arbeidstakarar, med atterhald for føresegnene i europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*) av 7. september 2005 om godkjenning av yrkeskvalifikasjoner.[^5]
 
 5 TEU L 255 av 30.9.2005, s. 22.
 
@@ -402,9 +402,9 @@ Tilvisingar til forordninga som vert oppheva, skal forståast som tilvisingar ti
 
 ### Art 42
 
-Denne forordninga tek til å gjelde 20. dagen etter at ho er kunngjord i *Den europeiske unions tidende.*1
+Denne forordninga tek til å gjelde 20. dagen etter at ho er kunngjord i *Den europeiske unions tidende.*[^1]
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.2
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.[^2]
 
 1 I EØS: 14 des 2012.
 

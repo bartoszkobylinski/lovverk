@@ -15,7 +15,7 @@ xml_hash: "28671cc08c871fca67d4b623ac3f8877878453a93e15177523989b5561ee700f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -883,7 +883,7 @@ Ved Universitetet i Oslo skal det foregå skikkethetsvurdering i følgende utdan
 
 (3) I det femårige masterprogrammet i informatikk kan en programstudent etter hvert semester være inntil 20 studiepoeng på etterskudd i forhold til full studieprogresjon på det aktuelle semesteret. Blir programstudenten ytterligere forsinket, mister programstudenten studieretten med mindre han/hun får innvilget søknad om å gå ned et kull. Overgang til kullet under er avhengig av ledig kapasitet.
 
-(4) Utfyllende regler1 til § 7-1, 6 og § 7-2 i forskrift om studier og eksamener ved Universitetet i Oslo oppheves fra og med 1. januar 2013.
+(4) Utfyllende regler[^1] til § 7-1, 6 og § 7-2 i forskrift om studier og eksamener ved Universitetet i Oslo oppheves fra og med 1. januar 2013.
 
 (5) Forkurs i matematikk ved opptak til grunnskolelærer- og lektorutdanningen kan ha en kortere klagefrist i tråd med § 5-3 i lov 1. april 2005 nr. 15 om universiteter og høyskoler. Fakultetet selv fastsetter klagefristen.
 

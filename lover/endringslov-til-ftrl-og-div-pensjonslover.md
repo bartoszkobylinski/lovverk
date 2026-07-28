@@ -15,7 +15,7 @@ xml_hash: "0d9076fcaf4015e4087ca608f2a36811339f3f5166d8d8c710d8abf85b4df50f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,11 @@ eu_basis: []
 
 I [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse gjøres følgende endringer:
 
-[§ 31](lov/1949-07-28-26/§31) første ledd andre punktum skal lyde:1
+[§ 31](lov/1949-07-28-26/§31) første ledd andre punktum skal lyde:[^1]
 
 Legeerklæring avgis etter et skjema som fastsettes av Pensjonskassen.
 
-[§ 31](lov/1949-07-28-26/§31) tredje ledd andre punktum skal lyde:1
+[§ 31](lov/1949-07-28-26/§31) tredje ledd andre punktum skal lyde:[^1]
 
 Har pensjonisten selv krevd ny behandling etter [§ 30](lov/1949-07-28-26/§30), kan Pensjonskassen bestemme at han selv skal betale omkostningene ved legeundersøkelsen.
 
@@ -38,6 +38,6 @@ Har pensjonisten selv krevd ny behandling etter [§ 30](lov/1949-07-28-26/§30),
 
 ## XII
 
-Loven trer i kraft fra den tid Kongen bestemmer,1 med unntak av del VIII, X og XI, som trer i kraft straks.
+Loven trer i kraft fra den tid Kongen bestemmer,[^1] med unntak av del VIII, X og XI, som trer i kraft straks.
 
 1 Fra 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717).

@@ -15,7 +15,7 @@ xml_hash: "17c0d353e0dfdd8e69c764479fdc8c4a51e3f470371bb4472fd2caf955e74867"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -202,7 +202,7 @@ Studentens nødvendige og dokumenterte utgifter til juridisk bistand dekkes av P
 
 ### § 18. Klageadgang
 
-Styrets vedtak om utvisning, bortvisning eller utestengning er enkeltvedtak og kan påklages til Politidirektoratet1 i samsvar med [forvaltningslovens](lov/1967-02-10) bestemmelser.
+Styrets vedtak om utvisning, bortvisning eller utestengning er enkeltvedtak og kan påklages til Politidirektoratet[^1] i samsvar med [forvaltningslovens](lov/1967-02-10) bestemmelser.
 
 Vedtaket iverksettes fra vedtakelsestidspunktet, med mindre klagen gis oppsettende virkning.
 

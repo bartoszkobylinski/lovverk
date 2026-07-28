@@ -15,7 +15,7 @@ xml_hash: "b71b5939b6a550ad111a839f0c5658c8dab3ed43d9873947760b9fa027520ae8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -141,7 +141,7 @@ Kontoret for voldsoffererstatning og Statens sivilrettsforvaltning kan uten hind
 
 ## § 17. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid.
 
 Fra den tid loven trer i kraft, oppheves [lov 20. april 2001 nr. 13 om erstatning fra staten for personskade voldt ved straffbar handling m.m.](lov/2001-04-20-13)
 

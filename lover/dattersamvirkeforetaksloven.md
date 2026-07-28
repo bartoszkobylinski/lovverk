@@ -15,7 +15,7 @@ xml_hash: "29b9076fb73061d3955cefb6201277b375e7d7016728905648e3153307b73f85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Hvis styret ikke finner grunnlag for å foreslå tiltak som nevnt i annet ledd, 
 
 ## § 3.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 > Endret ved [lov 29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), tidligere § 2.
 

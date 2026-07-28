@@ -15,7 +15,7 @@ xml_hash: "36cc14160838abc89e801cde6944f84be6e4b1432dd5e8b82e6c6b698380450d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1742,7 +1742,7 @@ Tilbyder i forenklet registreringsordning har ikke rett til fradrag for inngåen
 
 ### § 22-2. Ikrafttredelse. Overgangsbestemmelser
 
-(1) Loven gjelder fra det tidspunktet Kongen bestemmer.1
+(1) Loven gjelder fra det tidspunktet Kongen bestemmer.[^1]
 
 (2) Fra samme tidspunkt oppheves [lov 19. juni 1969 nr. 66](lov/1969-06-19-66) om merverdiavgift.
 

@@ -15,7 +15,7 @@ xml_hash: "cbbf16af3c5581a40f89a5e8f8a1b7062d30560160235e67b277e658e61fcff7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,16 +74,16 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007r0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007r0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)[^1], særlig artikkel 34 nr. 6, og
 
 ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt regler for gjennomføring av offentlig kontroll og andre offentlige tiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes, blant annet på området næringsmiddeltrygghet i alle ledd i produksjon, bearbeiding og distribusjon. Den inneholder særlige regler for offentlig kontroll av stoffer hvis bruk kan føre til restmengder i næringsmidler og fôr, og fastsetter generelle krav til metodene for prøvetaking samt for laboratorieanalyser og laboratorieundersøkelser ved offentlig kontroll og annen offentlig virksomhet.
-2. Kommisjonsvedtak [2002/657/EF](eu/32002d0657)2 fastsetter krav til analysemetoders ytelse og tolking av resultater av analyser av visse stoffer og deres restmengder i levende dyr og animalske produkter, og kommisjonsvedtak 98/EF 179/EF3 fastsetter nærmere regler for offisiell prøvetaking for overvåking av visse stoffer og deres restmengder i levende dyr og animalske produkter. Begge vedtak ble gjort på grunnlag av rådsdirektiv [96/23/EF](eu/31996l0023)4, som ble opphevet ved forordning [(EU) 2017/625](eu/32017r0625). På bakgrunn av ny vitenskapelig utvikling bør disse reglene ajourføres og innarbeides i rammen for offentlig kontroll fastsatt i forordning [(EU) 2017/625](eu/32017r0625).
-3. I samsvar med artikkel 1 nr. 2 i vedtak 2002/657/EF får det nevnte vedtaket ikke anvendelse på stoffer som det er fastsatt mer spesifikke regler for i annet unionsregelverk. Disse stoffene er mykotoksiner i næringsmidler, dioksiner og dioksinlignende polyklorerte bifenyler (PCB) i næringsmidler og bly, kadmium, kvikksølv og benzo(a)pyren i næringsmidler. Mykotoksiner i næringsmidler skal oppfylle kravene fastsatt ved kommisjonsforordning [(EF) nr. 401/2006](eu/32006r0401)5 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av mykotoksiner i næringsmidler. Når det gjelder dioksiner og dioksinlignende PCB, gjelder kommisjonsforordning [(EU) 2017/644](eu/32017r0644)6 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler. Bestemmelser om prøvetaking og analyse med hensyn til offentlig kontroll av bly, kadmium, kvikksølv og benzo(a)pyren i næringsmidler er fastsatt i kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333)7.
+2. Kommisjonsvedtak [2002/657/EF](eu/32002d0657)[^2] fastsetter krav til analysemetoders ytelse og tolking av resultater av analyser av visse stoffer og deres restmengder i levende dyr og animalske produkter, og kommisjonsvedtak 98/EF 179/EF[^3] fastsetter nærmere regler for offisiell prøvetaking for overvåking av visse stoffer og deres restmengder i levende dyr og animalske produkter. Begge vedtak ble gjort på grunnlag av rådsdirektiv [96/23/EF](eu/31996l0023)[^4], som ble opphevet ved forordning [(EU) 2017/625](eu/32017r0625). På bakgrunn av ny vitenskapelig utvikling bør disse reglene ajourføres og innarbeides i rammen for offentlig kontroll fastsatt i forordning [(EU) 2017/625](eu/32017r0625).
+3. I samsvar med artikkel 1 nr. 2 i vedtak 2002/657/EF får det nevnte vedtaket ikke anvendelse på stoffer som det er fastsatt mer spesifikke regler for i annet unionsregelverk. Disse stoffene er mykotoksiner i næringsmidler, dioksiner og dioksinlignende polyklorerte bifenyler (PCB) i næringsmidler og bly, kadmium, kvikksølv og benzo(a)pyren i næringsmidler. Mykotoksiner i næringsmidler skal oppfylle kravene fastsatt ved kommisjonsforordning [(EF) nr. 401/2006](eu/32006r0401)[^5] om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av mykotoksiner i næringsmidler. Når det gjelder dioksiner og dioksinlignende PCB, gjelder kommisjonsforordning [(EU) 2017/644](eu/32017r0644)[^6] om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler. Bestemmelser om prøvetaking og analyse med hensyn til offentlig kontroll av bly, kadmium, kvikksølv og benzo(a)pyren i næringsmidler er fastsatt i kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333)[^7].
 4. Av klarhetshensyn og av hensyn til rettssikkerheten bør bestemmelsene om prøvetaking og analyse av farmakologisk virksomme stoffer slås sammen i én rettsakt, som gjelder mykotoksiner, dioksiner, dioksinlignende PCB, bly, kadmium, kvikksølv og benzo(a)pyren i næringsmidler.
 5. Vedtak [98/179/EF](eu/31998d0179) og [2002/657/EF](eu/32002d0657) bør derfor oppheves og erstattes av denne forordningen.
-6. I samsvar med europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)8 kan koksidiostatika og histomonostatika brukes som tilsetningsstoffer i fôrvarer, og kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152)9 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av fôrvarer får derfor anvendelse på analyser av innholdet av disse stoffene i fôrvarer. Denne forordningen bør imidlertid gjelde dersom fôrvarer analyseres som del av oppfølgingstiltak for å undersøke kilden til positive prøver ved tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer.
+6. I samsvar med europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)[^8] kan koksidiostatika og histomonostatika brukes som tilsetningsstoffer i fôrvarer, og kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152)[^9] om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av fôrvarer får derfor anvendelse på analyser av innholdet av disse stoffene i fôrvarer. Denne forordningen bør imidlertid gjelde dersom fôrvarer analyseres som del av oppfølgingstiltak for å undersøke kilden til positive prøver ved tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer.
 7. For å sikre kontinuitet i gjennomføringen av offentlig kontroll og annen offentlig virksomhet med hensyn til restmengder av farmakologisk virksomme stoffer, og for å unngå at alle metodene må valideres på nytt samtidig, kan metoder som er blitt validert før datoen for denne forordningens ikrafttredelse fortsatt brukes i et begrenset tidsrom, med forbehold for kravene i vedlegg I nr. 2 og 3 til vedtak [2002/657/EF](eu/32002d0657). Medlemsstatene bør derfor gis tilstrekkelig tid til å anvende kravene fastsatt i denne forordningen, på alle analysemetoder.
 8. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
@@ -111,7 +111,7 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-Denne forordningen fastsetter regler for analysemetodene som skal brukes ved prøvetaking og laboratorieanalyser for restmengder av farmakologisk virksomme stoffer innenfor rammen av nasjonale planer som definert i artikkel 3 i Kommisjonens gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646)\*. Den fastsetter også regler for tolkingen av analyseresultater fra disse laboratorieanalysene.
+Denne forordningen fastsetter regler for analysemetodene som skal brukes ved prøvetaking og laboratorieanalyser for restmengder av farmakologisk virksomme stoffer innenfor rammen av nasjonale planer som definert i artikkel 3 i Kommisjonens gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646)[^\*]. Den fastsetter også regler for tolkingen av analyseresultater fra disse laboratorieanalysene.
 
 Denne forordningen får også anvendelse på offentlig kontroll med henblikk på å verifisere at kravene som gjelder for forekomsten av restmengder av farmakologisk virksomme stoffer, overholdes.
 
@@ -121,19 +121,19 @@ Denne forordningen får også anvendelse på offentlig kontroll med henblikk på
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen skal definisjonene i artikkel 2 i delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)10, i kommisjonsforordning [(EU) 2019/1871](eu/32019r1871)11, i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)12 og i rådsforordning [(EØF) nr. 315/93](eu/31993r0315)13 gjelde.
+I denne forordningen skal definisjonene i artikkel 2 i delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)[^10], i kommisjonsforordning [(EU) 2019/1871](eu/32019r1871)[^11], i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)[^12] og i rådsforordning [(EØF) nr. 315/93](eu/31993r0315)[^13] gjelde.
 
 Videre menes med
 
 1. «absolutt gjenfinning» utbyttet av siste trinn i en analysemetode for en analytt dividert med analyttmengden i den opprinnelige prøven, uttrykt i prosent,
-2. «nøyaktighet» graden av samsvar mellom et prøvingsresultat og den aksepterte sanne referanseverdien, bestemt ved å anslå riktighet og presisjon14,
+2. «nøyaktighet» graden av samsvar mellom et prøvingsresultat og den aksepterte sanne referanseverdien, bestemt ved å anslå riktighet og presisjon[^14],
 3. «alfa (α)-feil» sannsynligheten for at den analyserte prøven oppfyller kravene, selv om resultatet av målingen viser det motsatte,
 4. «analytt» den bestanddelen i et system som skal analyseres,
-5. «godkjent stoff» et farmakologisk virksomt stoff som er godkjent for bruk til dyr bestemt til næringsmiddelproduksjon i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082)15,
+5. «godkjent stoff» et farmakologisk virksomt stoff som er godkjent for bruk til dyr bestemt til næringsmiddelproduksjon i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082)[^15],
 6. «beta (β)-feil» sannsynligheten for at den analyserte prøven egentlig ikke oppfyller kravene, selv om resultatet av målingen viser det motsatte,
 7. «skjevhet» forskjellen mellom et estimert prøvingsresultat og den aksepterte referanseverdien,
 8. «kalibreringsstandard» en sporbar referanse for målinger som representerer mengden av det aktuelle stoffet på en måte som knytter verdien til et referansegrunnlag,
-9. «sertifisert referansemateriale» (CRM) et referansemateriale som er ledsaget av dokumentasjon utstedt av et organ med delegerte oppgaver, og som gir en eller flere angitte egenskapsverdier med tilhørende usikkerhet og sporbarhet ved hjelp av gyldige framgangsmåter16,
+9. «sertifisert referansemateriale» (CRM) et referansemateriale som er ledsaget av dokumentasjon utstedt av et organ med delegerte oppgaver, og som gir en eller flere angitte egenskapsverdier med tilhørende usikkerhet og sporbarhet ved hjelp av gyldige framgangsmåter[^16],
 10. «kokromatografi» en teknikk der et ukjent stoff påføres et kromatografisk underlag sammen med en eller flere kjente forbindelser, idet det forventes at den relative atferden til de ukjente og kjente stoffene vil bidra til å identifisere det ukjente stoffet,
 11. «metodeprøving» analyse av samme prøve(r) ved hjelp av samme metode for å bestemme metodens ytelsesegenskaper i ulike laboratorier, der undersøkelsen gjør det mulig å beregne tilfeldige målefeil og skjevheter i laboratoriet for den metoden som brukes,
 12. «bekreftelsesmetode» en metode som gir fullstendige eller utfyllende opplysninger, slik at stoffene kan identifiseres entydig og om nødvendig mengdebestemmes på en av følgende måter:
@@ -152,7 +152,7 @@ Videre menes med
 18. «intern standard (IS)» et stoff som ikke inngår i prøven, og som har fysisk-kjemiske egenskaper som i størst mulig grad tilsvarer egenskapene til analytten som skal identifiseres eller mengdebestemmes,
 19. «det aktuelle nivået» den konsentrasjonen av stoff eller analytt i en prøve som er av betydning for å fastslå om den er i samsvar med regelverket når det gjelder
 
-    1. øvre grenseverdier for restmengder eller høyeste tillatte innhold for godkjente stoffer, i samsvar med kommisjonsforordning [(EF) nr. 124/2009](eu/32009r0124)17 og kommisjonsforordning [(EU) 37/2010](eu/32010r0037)18,
+    1. øvre grenseverdier for restmengder eller høyeste tillatte innhold for godkjente stoffer, i samsvar med kommisjonsforordning [(EF) nr. 124/2009](eu/32009r0124)[^17] og kommisjonsforordning [(EU) 37/2010](eu/32010r0037)[^18],
     2. referanseverdier for tiltak for forbudte eller ikke-tillatte stoffer, som det er fastsatt en referanseverdi for tiltak for i samsvar med forordning [(EU) 2019/1871](eu/32019r1871),
     3. en konsentrasjon som er så lav som det i analytisk sammenheng er mulig å oppnå for forbudte eller ikke-godkjente stoffer som det ikke er fastsatt noen referanseverdi for tiltak for,
 20. «laveste kalibrerte nivå» (LCL) den laveste konsentrasjonen som målesystemet er kalibrert for,
@@ -168,12 +168,12 @@ Videre menes med
 30. «kvantitativ metode» en analysemetode for å bestemme mengden eller massefraksjonen av et stoff slik at den kan uttrykkes som en tallverdi i egnede enheter,
 31. «gjenfinning» den utbyttekorrigerte mengden av en analytt dividert med den mengden analytt som er tilsatt i matriseprøven, uttrykt i prosent,
 32. «gjenfinningskorreksjon» bruk av interne standarder, bruk av en matrisekalibreringskurve samt bruk av en korreksjonsfaktor for gjenfinning, og en kombinasjon av disse metodene,
-33. «referansemateriale» et materiale som er tilstrekkelig homogent og stabilt med hensyn til én eller flere nærmere angitte egenskaper, og som er fastslått å være egnet for den tiltenkte bruken i en måleprosess eller ved undersøkelse av nominelle egenskaper19,
+33. «referansemateriale» et materiale som er tilstrekkelig homogent og stabilt med hensyn til én eller flere nærmere angitte egenskaper, og som er fastslått å være egnet for den tiltenkte bruken i en måleprosess eller ved undersøkelse av nominelle egenskaper[^19],
 34. «relativ matrisevirkning» forskjellen i analytisk respons mellom en standard oppløst i løsemiddelet og en matrisetilpasset standard med korreksjon ved bruk av en intern standard,
 35. «repeterbarhet» presisjon under forhold der det oppnås uavhengige prøvingsresultater med den samme metoden på identiske forsøksgjenstander ved det samme laboratoriet av den samme personen med det samme utstyret innenfor korte tidsintervaller,
 
     ►**M2**
-36. «reproduserbarhet»: presisjon under forhold der prøvingsresultatene oppnås med den samme metoden på identiske forsøksgjenstander ved forskjellige laboratorier av forskjellige operatører med ulikt utstyr\* ◄**M2**
+36. «reproduserbarhet»: presisjon under forhold der prøvingsresultatene oppnås med den samme metoden på identiske forsøksgjenstander ved forskjellige laboratorier av forskjellige operatører med ulikt utstyr[^\*] ◄**M2**
 37. «robusthet» en analysemetodes følsomhet for endringer av forsøksvilkårene som metoden kan anvendes under slik den er eller med små spesifiserte justeringer,
 38. «screeningmetode» en metode som brukes for å undersøke et stoff eller en stoffgruppe på det aktuelle nivået,
 39. «screeningmålkonsentrasjon» (STC) den konsentrasjonen som er lavere enn eller lik CCβ, og der en screeningmåling kategoriserer prøven som potensielt positiv («screening positiv») og utløser en bekreftende prøving,
@@ -186,8 +186,8 @@ Videre menes med
 46. «riktighet» graden av samsvar mellom gjennomsnittsverdien fra en lang rekke prøvingsresultater, og en akseptert referanseverdi,
 
     ►**M2**
-47. «enheter»: enhetene beskrevet i ISO 80000-1:2022\*\*​ og rådsdirektiv [80/181/EØF](eu/31980l0181)\*\*\* ◄**M2**
-48. «validering» påvisning ved undersøkelse og framskaffelse av faktiske beviser for at de særlige kravene for en bestemt tiltenkt bruk overholdes23, gjennom undersøkelse foretatt ved ett laboratorium eller flere laboratorier,
+47. «enheter»: enhetene beskrevet i ISO 80000-1:2022[^\*\*]​ og rådsdirektiv [80/181/EØF](eu/31980l0181)[^\*\*\*] ◄**M2**
+48. «validering» påvisning ved undersøkelse og framskaffelse av faktiske beviser for at de særlige kravene for en bestemt tiltenkt bruk overholdes[^23], gjennom undersøkelse foretatt ved ett laboratorium eller flere laboratorier,
 49. «intern reproduserbarhet» eller «intermediær presisjon/intern reproduserbarhet» målepresisjon under en rekke interne vilkår i et bestemt laboratorium.
 
 10 Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090) av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer (EUT L 317 av 9.12.2019, s. 28).
@@ -222,7 +222,7 @@ Videre menes med
 
 Medlemsstatene skal sikre at prøver som tas i samsvar med artikkel 34 i forordning (EU) 2017/625, analyseres med metoder som tilfredsstiller følgende krav:
 
-1. De er dokumentert i prøvingsinstruksjoner, fortrinnsvis i samsvar med vedleggene til ISO 78-2:1999 Chemistry-Layouts for standards – Part 2: Methods of chemical analysis24.
+1. De er dokumentert i prøvingsinstruksjoner, fortrinnsvis i samsvar med vedleggene til ISO 78-2:1999 Chemistry-Layouts for standards – Part 2: Methods of chemical analysis[^24].
 2. De oppfyller ytelseskriteriene og andre krav til analysemetoder som er fastsatt i kapittel I i vedlegg I til denne forordningen.
 3. De er validert i samsvar med kravene fastsatt i kapittel 2 og 4 i vedlegg I til denne forordningen.
 4. De gjør det mulig å håndheve referanseverdiene for tiltak fastsatt i forordning [(EU) 2019/1871](eu/32019r1871), identifisere forekomsten av forbudte og ikke-tillatte stoffer og håndhevingen av høyeste tillatte innhold som er fastsatt på grunnlag av forordning [(EØF) nr. 315/93](eu/31993r0315) og forordning [(EF) nr. 124/2009](eu/32009r0124) og øvre grenseverdier for restmengder som er fastsatt på grunnlag av forordning [(EF) nr. 1831/2003](eu/32003r1831) og [(EF) nr. 470/2009](eu/32009r0470).
@@ -316,7 +316,7 @@ Dersom bekreftelsesmetoden krever det, skal en egnet intern standard tilsettes t
 
 1.2.1a.*Spesifikk bruk av kokromatografi dersom det ikke finnes noen intern standard*
 
-Dersom det ikke er mulig å benytte en egnet intern standard, skal identifikasjonen av analytten fortrinnsvis bekreftes ved kokromatografi\*. I så fall skal det oppnås bare én topp, der økningen i topphøyde (eller areal) tilsvarer mengden av tilsatt analytt. Dersom dette ikke er praktisk mulig, skal det benyttes matrisetilpassede eller matrisetilsatte standarder.
+Dersom det ikke er mulig å benytte en egnet intern standard, skal identifikasjonen av analytten fortrinnsvis bekreftes ved kokromatografi[^\*]. I så fall skal det oppnås bare én topp, der økningen i topphøyde (eller areal) tilsvarer mengden av tilsatt analytt. Dersom dette ikke er praktisk mulig, skal det benyttes matrisetilpassede eller matrisetilsatte standarder.
 
 \* Kokromatografi er en metode der prøveekstraktet som skal analyseres, deles i to før kromatograferingen. Den ene delen kromatograferes i uendret tilstand. I den andre delen tilsettes den standardanalytten som skal måles. Deretter kromatograferes også denne blandingen. Mengden av tilsatt standardanalytt skal være tilnærmet lik den antatte mengden analytt i ekstraktet. Kokromatografi brukes for å forbedre identifiseringen av en analytt ved bruk av kromatografimetoder, særlig når det ikke kan brukes en passende intern standard. ◄**M2**
 
@@ -356,8 +356,8 @@ Akseptabel variasjonskoeffisient
 | --- | --- |
 | > 1 000 μg/kg | 16 (tilpasset etter Horwitz’ ligning) |
 | > 120 μg/kg–1 000 μg/kg | 22 (tilpasset etter Horwitz’ ligning) |
-| 10–120 μg/kg | 25\* |
-| < 10 μg/kg | 30\* |
+| 10–120 μg/kg | 25[^\*] |
+| < 10 μg/kg | 30[^\*] |
 
 \* Tallet for CV (%) er veiledende og bør være så lavt som rimelig mulig.
 
@@ -444,7 +444,7 @@ Et system av identifikasjonspunkter skal brukes til å velge egnede innsamlingsm
    | GC- eller LC-MS3 | GC eller LC | 1 morion + 1 MS2-datterion + 1 MS3-produkt | 1 + 1 + 1,5 + 1,5 = 5 |
    | GC- eller LC-HRMS | GC eller LC | n | 1 + n × 1,5 |
    | GC- eller LC-HRMS/MS | GC eller LC | 1 morion (< ± 0,5 Da-masseintervall) + 1 datterion | 1 + 1 + 2,5 = 4,5 |
-   | GC- eller LC-HRMS og HRMS/MS | GC eller LC | 1 fullskann-ion + 1 HRMS-datteriona | 1 + 1,5 + 2,5 = 5 |
+   | GC- eller LC-HRMS og HRMS/MS | GC eller LC | 1 fullskann-ion + 1 HRMS-datterion[^a] | 1 + 1,5 + 2,5 = 5 |
    | GC- og LC-MS | GC og LC | 2 ioner (GCMS) + 1 ion (LCMS) | 1 + 1 + 2 + 1 + 1 = 6 |
 
 a Det oppnås ikke ytterligere identifikasjonspunkt for valg av morion dersom dette morionet er det samme ionet (eller en addukt eller isotop) som HRMS-ionet som er konstatert i full skann.
@@ -519,7 +519,7 @@ Beregning av parametrene etter konvensjonelle metoder krever at det utføres fle
 
 Riktighet på grunnlag av et sertifisert referansemateriale
 
-Det er ønskelig å bestemme en analysemetodes riktighet ved hjelp av sertifisert referansemateriale. Framgangsmåten for dette er beskrevet i ISO 5725-4:199426.
+Det er ønskelig å bestemme en analysemetodes riktighet ved hjelp av sertifisert referansemateriale. Framgangsmåten for dette er beskrevet i ISO 5725-4:1994[^26].
 
 Et eksempel:
 
@@ -542,8 +542,8 @@ Dersom det ikke finnes noe sertifisert referansemateriale, skal metodens riktigh
 
    ►**M2**
 
-   1. 0,5\*\*, 1,0 og 1,5 ganger referanseverdien for tiltak, eller ◄**M2**
-   2. 0,128, 1,0 og 1,5 ganger øvre grenseverdi for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller
+   1. 0,5[^\*\*], 1,0 og 1,5 ganger referanseverdien for tiltak, eller ◄**M2**
+   2. 0,1[^28], 1,0 og 1,5 ganger øvre grenseverdi for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller
    3. 1,0, 2,0 og 3,0 ganger laveste kalibrerte nivå for ikke-godkjente stoffer (som det ikke er fastsatt referanseverdi for tiltak for).
 2. På hvert nivå skal analysen utføres med seks parallellprøver.
 3. Analyser prøvene.
@@ -565,8 +565,8 @@ Repeterbarhet
 1. For metoder som er validert fra datoen for denne forordningens ikrafttredelse, skal det tilberedes et sett prøver med identiske blindmatriser av samme art. De skal tilsettes analytten til konsentrasjoner som tilsvarer
    ►**M2**
 
-   1. 0,5\*\*\*, 1,0 og 1,5 ganger referanseverdien for tiltak, eller ◄**M2**
-   2. 0,130, 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller
+   1. 0,5[^\*\*\*], 1,0 og 1,5 ganger referanseverdien for tiltak, eller ◄**M2**
+   2. 0,1[^30], 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller
    3. 1,0, 2,0 og 3,0 ganger laveste kalibrerte nivå for ikke-godkjente eller forbudte stoffer dersom det ikke er fastsatt noen referanseverdi for tiltak.
 2. På hvert nivå skal analysen utføres med minst seks parallellprøver.
 3. Analyser prøvene.
@@ -578,7 +578,7 @@ Repeterbarhet
 
 For metoder for godkjente stoffer som er validert før datoen for ikrafttredelse av denne forordningen, er det tilstrekkelig å bestemme repeterbarheten ved bruk av matriser med tilsetning ved konsentrasjoner på 0,5, 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold.
 
-Alternativt kan beregningen av repeterbarhet utføres i henhold til ISO 5725-2:201931.
+Alternativt kan beregningen av repeterbarhet utføres i henhold til ISO 5725-2:2019[^31].
 
 30 Dersom det for et bestemt farmakologisk virksomt stoff ikke er rimelig mulig å validere en konsentrasjon på 0,1 ganger øvre grenseverdi, kan konsentrasjonen 0,1 ganger øvre grenseverdi erstattes med den laveste konsentrasjonen mellom 0,1 og 0,5 ganger øvre grenseverdi som med rimelighet kan oppnås.
 
@@ -593,8 +593,8 @@ Intern reproduserbarhet
 1. Ved validering som er utført etter datoen for ikrafttredelse av denne forordningen, tilberedes et sett med prøver av spesifisert prøvemateriale (identiske eller forskjellige matriser), med tilsetning av analytten(e) til konsentrasjoner som tilsvarer
    ►**M2**
 
-   1. 0,5\*\*\*\*, 1,0 og 1,5 ganger referanseverdien for tiltak, eller◄**M2**
-   2. 0,133, 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller
+   1. 0,5[^\*\*\*\*], 1,0 og 1,5 ganger referanseverdien for tiltak, eller◄**M2**
+   2. 0,1[^33], 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller
    3. 1,0, 2,0 og 3,0 ganger laveste kalibrerte nivå for ikke-godkjente eller forbudte stoffer dersom det ikke er fastsatt noen referanseverdi for tiltak.
 2. Utfør analysen ved hvert konsentrasjonsnivå med minst seks parallellprøver av blindmateriale.
 3. Analyser prøvene.
@@ -605,7 +605,7 @@ Intern reproduserbarhet
 
 For metoder for godkjente stoffer som er validert før datoen for ikrafttredelse av denne forordningen, er det tilstrekkelig å bestemme intern reproduserbarhet ved bruk av matriser med tilsetting ved konsentrasjoner på 0,5, 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold.
 
-Alternativt kan beregningen av intern reproduserbarhet/intermediær presisjon utføres i samsvar med ISO 5725-2:2019, ISO 11843-1:199734 og Codex CAC/GL 59-200635.
+Alternativt kan beregningen av intern reproduserbarhet/intermediær presisjon utføres i samsvar med ISO 5725-2:2019, ISO 11843-1:1997[^34] og Codex CAC/GL 59-2006[^35].
 
 33 Dersom det for et bestemt farmakologisk virksomt stoff ikke er rimelig mulig å validere en konsentrasjon på 0,1 ganger øvre grenseverdi, kan konsentrasjonen 0,1 ganger øvre grenseverdi erstattes med den laveste konsentrasjonen mellom 0,1 og 0,5 ganger øvre grenseverdi som med rimelighet kan oppnås.
 
@@ -619,7 +619,7 @@ Alternativt kan beregningen av intern reproduserbarhet/intermediær presisjon ut
 
 Beregning av parametrene etter alternative modeller krever at det gjennomføres en forsøksplan. Forsøksplanen skal utformes ut fra hvor mange ulike arter og faktorer som skal undersøkes. Første trinn i framgangsmåten for validering vil derfor være en vurdering av prøvepopulasjonene som skal analyseres i laboratoriet i framtiden, for å kunne bestemme de viktigste artene og hvilke faktorer som kan påvirke måleresultatene. Den faktorbaserte tilnærmingen gjør det mulig å vurdere måleusikkerheten for testresultatene, som er oppnådd under forskjellige prøvebetingelser i et gitt laboratorium, f.eks. forskjellige laboranter, forskjellige instrumenter, forskjellige partier av reagenser, forskjellige matriser, forskjellige analysetider og -temperaturer. Deretter skal konsentrasjonsområdet velges på en måte som er tilpasset formålet i samsvar med øvre grenseverdi for restmengder eller høyeste tillatte innhold for godkjente stoffer, eller referanseverdien for tiltak (RPA) eller laveste kalibrerte nivå (LCL) for forbudte eller ikke-godkjente stoffer.
 
-Den faktorbaserte tilnærmingen har som mål å fastsette pålitelige presisjonsdata og måledata gjennom samtidig kontrollert variasjon av de utvalgte faktorene. Den gjør det mulig å evaluere den kombinerte virkningen av faktorvirkninger og tilfeldige virkninger. Utformingen av forsøket gjør det mulig å undersøke forsøksmetodens robusthet36 og bestemme standardavviket for intern reproduserbarhet i ulike matriser.
+Den faktorbaserte tilnærmingen har som mål å fastsette pålitelige presisjonsdata og måledata gjennom samtidig kontrollert variasjon av de utvalgte faktorene. Den gjør det mulig å evaluere den kombinerte virkningen av faktorvirkninger og tilfeldige virkninger. Utformingen av forsøket gjør det mulig å undersøke forsøksmetodens robusthet[^36] og bestemme standardavviket for intern reproduserbarhet i ulike matriser.
 
 Nedenfor gis et eksempel på en alternativ framgangsmåte med anvendelse av en ortogonal plan for utformingen av forsøket.
 
@@ -641,7 +641,7 @@ Eksempel på en ortogonal forsøksplan der sju faktorer (I–VII) varierer på t
 
 ►**M2**
 
-Metodens egenskaper skal beregnes som beskrevet av Jülicher et al.\*\*\*\*\* eller ISO/TS 23471:2022\*\*\*\*\*\* ◄**M2**
+Metodens egenskaper skal beregnes som beskrevet av Jülicher et al.[^\*\*\*\*\*] eller ISO/TS 23471:2022[^\*\*\*\*\*\*] ◄**M2**
 
 36 Endringene i forsøksvilkårene som det vises til der, kan gjelde prøvematerialer, analytter, lagringsvilkår, miljømessige forhold og/eller forholdene prøvene tilberedes under. For alle forsøksvilkår som i praksis kan utsettes for variasjoner (f.eks. reagensenes stabilitet, prøvens sammensetning, pH, temperatur), skal alle variasjoner som kan påvirke resultatet av analysen oppgis.
 
@@ -651,7 +651,7 @@ Metodens egenskaper skal beregnes som beskrevet av Jülicher et al.\*\*\*\*\* el
 
 2.2.3.*Andre valideringsmåter*
 
-Andre framgangsmåter for å påvise at metoden oppfyller ytelseskriteriene for ytelsesegenskapene kan brukes, forutsatt at opplysningene de gir har tilsvarende nivå og kvalitet. Validering kan også utføres ved å gjennomføre en laboratoriesammenligning, for eksempel som definert i Codex Alimentarius, ISO eller IUPAC38, eller i samsvar med alternative metoder, for eksempel undersøkelse foretatt ved ett laboratorium eller intern validering39. Dersom alternative framgangsmåter for validering anvendes, skal den underliggende modellen og strategien og de respektive forutsetningene, antagelsene og formlene angis i valideringsprotokollen, eller det skal i det minste gis henvisninger til hvor de er tilgjengelige.
+Andre framgangsmåter for å påvise at metoden oppfyller ytelseskriteriene for ytelsesegenskapene kan brukes, forutsatt at opplysningene de gir har tilsvarende nivå og kvalitet. Validering kan også utføres ved å gjennomføre en laboratoriesammenligning, for eksempel som definert i Codex Alimentarius, ISO eller IUPAC[^38], eller i samsvar med alternative metoder, for eksempel undersøkelse foretatt ved ett laboratorium eller intern validering[^39]. Dersom alternative framgangsmåter for validering anvendes, skal den underliggende modellen og strategien og de respektive forutsetningene, antagelsene og formlene angis i valideringsprotokollen, eller det skal i det minste gis henvisninger til hvor de er tilgjengelige.
 
 38 IUPAC (1995), Protocol for the design, conduct and interpretation of method-performance studies, Pure & Applied Chem, 67, 331.
 
@@ -681,7 +681,7 @@ Vanligvis er analyttens stabilitet godt beskrevet under forskjellige lagringsvil
 
 ►**M2**
 
-Dersom de påkrevde holdbarhetsdataene ikke er tilgjengelige, bør de følgende metodene brukes. En isokron tilnærming\*\*\*\*\*\*\* med en lagringstemperaturplan tilsvarende den i tabell 7 i dette vedlegget gjør det også mulig å bestemme analyttens potensielle ustabiliteter og å estimere passende lagringsperioder, og kan også brukes.
+Dersom de påkrevde holdbarhetsdataene ikke er tilgjengelige, bør de følgende metodene brukes. En isokron tilnærming[^\*\*\*\*\*\*\*] med en lagringstemperaturplan tilsvarende den i tabell 7 i dette vedlegget gjør det også mulig å bestemme analyttens potensielle ustabiliteter og å estimere passende lagringsperioder, og kan også brukes.
 
 \*\*\*\*\*\*\* Lamberty, A., Schimmel, H. og Pauwels, J. (1998) The study of the stability of reference materials by isochronous measurements. Fres. J. Anal. Chem. 360, 359. ◄**M2**
 
@@ -725,7 +725,7 @@ Ved kontroll av prøvenes samsvar er det allerede tatt hensyn til kombinert stan
 
 1. For ikke-tillatte eller forbudte farmakologisk aktive stoffer skal CCα beregnes på følgende måte:
 
-   1. Metode 1: ved framgangsmåten med kalibreringskurve i samsvar med ISO 111843-1:199740 (hvor den kalles «kritisk verdi av nettotilstandsvariabelen»). I så fall skal det brukes blindmateriale med tilsetning til og over referanseverdien for tiltak (RPA) eller laveste kalibrerte nivå (LCL) i like store trinn. Analyser prøvene. Etter identifikasjon skal signalet, dersom dette er mulig, eller den nye beregnede konsentrasjonen plottes i forhold til den tilsatte konsentrasjonen. Beslutningsgrensen er lik den tilsvarende konsentrasjonen ved skjæringspunktet på y-aksen pluss 2,33 ganger standardavviket for den interne reproduserbarheten ved skjæringspunktet. Dette gjelder bare for kvantitative bestemmelser. Beslutningsgrenser som beregnes med denne metoden, skal kontrolleres ved å analysere blindmatrise med tilsetning til den beregnede beslutningsgrensen.
+   1. Metode 1: ved framgangsmåten med kalibreringskurve i samsvar med ISO 111843-1:1997[^40] (hvor den kalles «kritisk verdi av nettotilstandsvariabelen»). I så fall skal det brukes blindmateriale med tilsetning til og over referanseverdien for tiltak (RPA) eller laveste kalibrerte nivå (LCL) i like store trinn. Analyser prøvene. Etter identifikasjon skal signalet, dersom dette er mulig, eller den nye beregnede konsentrasjonen plottes i forhold til den tilsatte konsentrasjonen. Beslutningsgrensen er lik den tilsvarende konsentrasjonen ved skjæringspunktet på y-aksen pluss 2,33 ganger standardavviket for den interne reproduserbarheten ved skjæringspunktet. Dette gjelder bare for kvantitative bestemmelser. Beslutningsgrenser som beregnes med denne metoden, skal kontrolleres ved å analysere blindmatrise med tilsetning til den beregnede beslutningsgrensen.
    2. Metode 2: ved analyse av minst 20 representative blindmaterialer per matrise for å beregne signal/støy-forholdet i det tidsintervallet der analytten forventes. Tre ganger signal/støy-forholdet kan brukes som beslutningsgrense. Dette gjelder for kvantitative og kvalitative bestemmelser. Beslutningsgrenser som beregnes med denne metoden, skal kontrolleres ved å analysere blindmatrise med tilsetning til den beregnede beslutningsgrensen.
    3. Metode 3: \\(\\begin{align}CC\\alpha = \\text{laveste kalibrerte nivå (LCL)} + k(\\text{ensidig}, 99 \\%) \\cdot \\\\\\text{(kombinert) standard måleusikkerhet ved laveste kalibrerte nivå}\\end{align}\\)
 
@@ -746,7 +746,7 @@ Ved kontroll av prøvenes samsvar er det allerede tatt hensyn til kombinert stan
       Den interne reproduserbarheten og riktigheten er egnet til å definere (kombinert) standard måleusikkerhet, dersom den bestemmes under hensyn til alle relevante faktorer som påvirker målingen.
 
       For farmakologisk virksomme stoffer der det er fastsatt en øvre grenseverdi for restmengder for summen av ulike stoffer, skal CCα av stoffet med den høyeste konsentrasjonen i prøven brukes som CCα til å vurdere summen av stoffene i den målte prøven.
-   2. For godkjente stoffer i matrise-/artskombinasjoner som det ikke er fastsatt øvre grenseverdier for restmengder for, skal det ikke forekomme restmengder med mindre det er foretatt en godkjent behandling i samsvar med artikkel 11 i direktiv 2001/82/EF. For godkjente stoffer som det ikke er fastsatt noen øvre grenseverdi for restmengder for, skal kaskade-grenseverdien fastsatt i henhold til Kommisjonens gjennomføringsforordning [(EU) 2018/470](eu/32018r0470)41 brukes til å beregne CCα. Metode 1 eller 2 i avsnittet over skal anvendes, men «grenseverdi for restmengder» (MRL) viser til «0,5 ganger kaskade-grenseverdien, der målet er 0,1 ganger kaskade-grenseverdien der det er praktisk mulig».
+   2. For godkjente stoffer i matrise-/artskombinasjoner som det ikke er fastsatt øvre grenseverdier for restmengder for, skal det ikke forekomme restmengder med mindre det er foretatt en godkjent behandling i samsvar med artikkel 11 i direktiv 2001/82/EF. For godkjente stoffer som det ikke er fastsatt noen øvre grenseverdi for restmengder for, skal kaskade-grenseverdien fastsatt i henhold til Kommisjonens gjennomføringsforordning [(EU) 2018/470](eu/32018r0470)[^41] brukes til å beregne CCα. Metode 1 eller 2 i avsnittet over skal anvendes, men «grenseverdi for restmengder» (MRL) viser til «0,5 ganger kaskade-grenseverdien, der målet er 0,1 ganger kaskade-grenseverdien der det er praktisk mulig».
 
       40 ISO 11843-1:1997 Capability of detection – Part 1: Terms and definitions.
 
@@ -797,7 +797,7 @@ For kalibreringskurver basert på en standardløsning, matrisetilpassede standar
 
 Det er ikke nødvendig å bestemme den absolutte gjenfinningen ved metoden dersom en intern standard og/eller en matrisetilsatt kalibrering er tilgjengelig. I alle andre tilfeller skal den absolutte gjenfinningen ved metoden bestemmes. ◄**M2**
 
-Når kravene til riktighet i tabell 1 er oppfylt, kan det brukes en fast korreksjonsfaktor. I motsatt fall skal gjenfinningsfaktoren for det bestemte partiet brukes. Alternativt skal framgangsmåten med standardtilsetning(42) eller en intern standard brukes i stedet for å bruke en korreksjonsfaktor for gjenfinning.
+Når kravene til riktighet i tabell 1 er oppfylt, kan det brukes en fast korreksjonsfaktor. I motsatt fall skal gjenfinningsfaktoren for det bestemte partiet brukes. Alternativt skal framgangsmåten med standardtilsetning([^42]) eller en intern standard brukes i stedet for å bruke en korreksjonsfaktor for gjenfinning.
 
 Den absolutte gjenfinningen skal beregnes for minst seks representative partier av matrise.
 
@@ -831,11 +831,11 @@ Variasjonskoeffisienten skal ikke være større enn verdiene oppført i tabell 2
 ### KAPITTEL 3
 KVALITETSKONTROLL UNDER RUTINEANALYSER – LØPENDE VERIFISERING AV METODENES YTELSE
 
-Kravene til sikring av kvaliteten på analyseresultatene i kapittel 7.7 i ISO/IEC 17025:201743 skal være oppfylt.
+Kravene til sikring av kvaliteten på analyseresultatene i kapittel 7.7 i ISO/IEC 17025:2017[^43] skal være oppfylt.
 
 ►**M2**
 
-Under rutineanalyser er analyse av sertifisert referansemateriale den beste måten å dokumentere metodens ytelse på. Ettersom sertifisert referansemateriale som inneholder relevante analytter ved de påkrevde konsentrasjonsnivåene, sjelden er tilgjengelig, kan også referansematerialer som leveres og karakteriseres av EURL eller laboratorier som har akkreditering i henhold til ISO/IEC 17043:202344, brukes som et alternativ. Som et annet alternativ kan det brukes internt referansemateriale som kontrolleres regelmessig. ◄**M2**
+Under rutineanalyser er analyse av sertifisert referansemateriale den beste måten å dokumentere metodens ytelse på. Ettersom sertifisert referansemateriale som inneholder relevante analytter ved de påkrevde konsentrasjonsnivåene, sjelden er tilgjengelig, kan også referansematerialer som leveres og karakteriseres av EURL eller laboratorier som har akkreditering i henhold til ISO/IEC 17043:2023[^44], brukes som et alternativ. Som et annet alternativ kan det brukes internt referansemateriale som kontrolleres regelmessig. ◄**M2**
 
 Den løpende kontrollen av metodens ytelse under rutineanalyser bør gjennomføres på screeningstadiet og på verifikasjonsstadiet.
 
@@ -947,7 +947,7 @@ Om nødvendig kan den driftsansvarlige eller eieren av virksomheten underrettes 
 
 6.**Prøvetakingsrapport til laboratoriet**
 
-Prøvetakingsrapporten for laboratoriet opprettet av de vedkommende myndighetene skal være i samsvar med kravene fastsatt i kapittel 7 i ISO/IEC 17025:201745, og skal inneholde minst følgende opplysninger:
+Prøvetakingsrapporten for laboratoriet opprettet av de vedkommende myndighetene skal være i samsvar med kravene fastsatt i kapittel 7 i ISO/IEC 17025:2017[^45], og skal inneholde minst følgende opplysninger:
 
 1. Vedkommende myndighets eller organs adresse.
 2. Inspektørens navn eller identifikasjonskode.

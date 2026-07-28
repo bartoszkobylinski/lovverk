@@ -15,7 +15,7 @@ xml_hash: "5782f39f6fe294aa110c53372aa40aa200c5149719f95242bab9bf58cb5bf66e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,6 +34,6 @@ Første ledd gjelder ikke for lån som faller inn under statens ansvar etter avs
 
 ## § 3. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 10 sep 2004 iflg. [res. 27 aug 2004 nr. 1220](forskrift/2004-08-27-1220).

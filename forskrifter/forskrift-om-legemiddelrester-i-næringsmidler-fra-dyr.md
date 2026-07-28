@@ -17,7 +17,7 @@ xml_hash: "5d18ffe2c29d79ac39e7fa5abc6055f5656d25baa50ffcd463c2da2c287c91d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,42 +86,42 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
 etter samråd med Regionkomiteen,
 
-etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^2] og
 
 ut fra følgende betraktninger:
 
 1. Den vitenskapelige og tekniske utvikling gjør det mulig å påvise rester av veterinærpreparater i næringsmidler i stadig lavere konsentrasjoner.
 2. For å verne folkehelsen bør det fastsettes grenseverdier for rester i samsvar med allment anerkjente prinsipper for sikkerhetsvurdering, idet det tas hensyn til toksikologiske risikoer, miljøforurensning samt resters mikrobiologiske og farmakologiske virkninger. Det bør også tas hensyn til andre vitenskapelige sikkerhetsvurderinger av de berørte stoffene som kan ha blitt utført av internasjonale organisasjoner eller av vitenskapelige organer som er etablert i Fellesskapet.
 3. Denne forordning vedrører folkehelsen direkte og er relevant for det indre markeds funksjon på området produkter av animalsk opprinnelse, som er omfattet av vedlegg I til traktaten. Det må derfor fastsettes grenseverdier for rester av farmakologisk virksomme stoffer i flere næringsmidler av animalsk opprinnelse, herunder kjøtt, fisk, melk, egg og honning.
-4. Ved rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse3 ble det innført fellesskapsframgangsmåter for å vurdere sikkerheten i forbindelse med rester av farmakologisk virksomme stoffer i samsvar med sikkerhetskravene til næringsmiddeltrygghet. Et farmakologisk virksomt stoff kan tilføres dyr bestemt til næringsmiddelproduksjon bare dersom vurderingen av stoffet er positiv. Det fastsettes grenseverdier for rester av slike stoffer når det anses nødvendig for å verne folkehelsen.
-5. I henhold til europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater4 kan veterinærpreparater godkjennes eller tilføres dyr bestemt til næringsmiddelproduksjon, bare dersom de er blitt vurdert som uskadelige i samsvar med forordning [(EØF) nr. 2377/90](eu/31990r2377). Videre inneholder direktivet regler for dokumentasjon om anvendelse, ikke-anbefalt bruk, forskriving og distribuering av veterinærpreparater for dyr bestemt til næringsmiddelproduksjon.
-6. I lys av Europaparlamentets resolusjon av 3. mai 20015 om tilgjengeligheten av veterinærpreparater, Kommisjonens offentlige høring fra 2004 og dens vurdering av erfaringen så langt, har det vist seg nødvendig å endre framgangsmåtene for fastsettelse av grenseverdier for rester, samtidig som den generelle ordningen for fastsettelse av slike grenseverdier opprettholdes.
+4. Ved rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse[^3] ble det innført fellesskapsframgangsmåter for å vurdere sikkerheten i forbindelse med rester av farmakologisk virksomme stoffer i samsvar med sikkerhetskravene til næringsmiddeltrygghet. Et farmakologisk virksomt stoff kan tilføres dyr bestemt til næringsmiddelproduksjon bare dersom vurderingen av stoffet er positiv. Det fastsettes grenseverdier for rester av slike stoffer når det anses nødvendig for å verne folkehelsen.
+5. I henhold til europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater[^4] kan veterinærpreparater godkjennes eller tilføres dyr bestemt til næringsmiddelproduksjon, bare dersom de er blitt vurdert som uskadelige i samsvar med forordning [(EØF) nr. 2377/90](eu/31990r2377). Videre inneholder direktivet regler for dokumentasjon om anvendelse, ikke-anbefalt bruk, forskriving og distribuering av veterinærpreparater for dyr bestemt til næringsmiddelproduksjon.
+6. I lys av Europaparlamentets resolusjon av 3. mai 2001[^5] om tilgjengeligheten av veterinærpreparater, Kommisjonens offentlige høring fra 2004 og dens vurdering av erfaringen så langt, har det vist seg nødvendig å endre framgangsmåtene for fastsettelse av grenseverdier for rester, samtidig som den generelle ordningen for fastsettelse av slike grenseverdier opprettholdes.
 7. Grenseverdier for rester ligger til grunn for de tilbakeholdingstider som i samsvar med direktiv [2001/82/EF](eu/32001l0082) skal angis i markedsføringstillatelser for veterinærpreparater for dyr bestemt til næringsmiddelproduksjon samt for den kontroll av rester i næringsmidler av animalsk opprinnelse som utføres i medlemsstatene og ved grensekontrollstasjoner.
-8. I henhold til rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold6 er det forbudt å bruke visse stoffer til bestemte formål i dyr bestemt til næringsmiddelproduksjon. Denne forordning bør få anvendelse uten at det berører de deler av Fellesskapets regelverk som forbyr tilførsel av visse stoffer med hormonelle virkninger til dyr bestemt til næringsmiddelproduksjon.
-9. Ved rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler7 fastsettes særlige regler for stoffer som ikke er tilført med hensikt. Disse stoffene bør ikke være underlagt regelverket for grenseverdier for rester.
-10. Ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet8 fastsettes en ramme for næringsmiddelregelverket på fellesskapsplan samt definisjoner på dette området. Definisjonene bør gjelde i forbindelse med regelverket for grenseverdier for rester.
-11. Ved europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes9 fastsettes generelle bestemmelser om kontroll av næringsmidler i Fellesskapet samt definisjoner på dette området. Nevnte bestemmelser og definisjoner bør gjelde i forbindelse med regelverket for grenseverdier for rester. Påvisning av ulovlig bruk av stoffer bør prioriteres, og en del av prøvene bør velges ut etter en risikobasert metode.
-12. Ved europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726) av 31. mars 2004 om fastsettelse av fellesskapsframgangsmåter for godkjenning og overvåking av legemidler for mennesker og dyr og om opprettelse av et europeisk legemiddelkontor10 får Det europeiske legemiddelkontor (heretter kalt «kontoret») i oppgave å gi råd om de grenseverdier for rester av veterinærpreparater som kan tillates for næringsmidler av animalsk opprinnelse.
+8. I henhold til rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold[^6] er det forbudt å bruke visse stoffer til bestemte formål i dyr bestemt til næringsmiddelproduksjon. Denne forordning bør få anvendelse uten at det berører de deler av Fellesskapets regelverk som forbyr tilførsel av visse stoffer med hormonelle virkninger til dyr bestemt til næringsmiddelproduksjon.
+9. Ved rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler[^7] fastsettes særlige regler for stoffer som ikke er tilført med hensikt. Disse stoffene bør ikke være underlagt regelverket for grenseverdier for rester.
+10. Ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet[^8] fastsettes en ramme for næringsmiddelregelverket på fellesskapsplan samt definisjoner på dette området. Definisjonene bør gjelde i forbindelse med regelverket for grenseverdier for rester.
+11. Ved europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes[^9] fastsettes generelle bestemmelser om kontroll av næringsmidler i Fellesskapet samt definisjoner på dette området. Nevnte bestemmelser og definisjoner bør gjelde i forbindelse med regelverket for grenseverdier for rester. Påvisning av ulovlig bruk av stoffer bør prioriteres, og en del av prøvene bør velges ut etter en risikobasert metode.
+12. Ved europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726) av 31. mars 2004 om fastsettelse av fellesskapsframgangsmåter for godkjenning og overvåking av legemidler for mennesker og dyr og om opprettelse av et europeisk legemiddelkontor[^10] får Det europeiske legemiddelkontor (heretter kalt «kontoret») i oppgave å gi råd om de grenseverdier for rester av veterinærpreparater som kan tillates for næringsmidler av animalsk opprinnelse.
 13. Det bør fastsettes grenseverdier for rester av farmakologisk virksomme stoffer som brukes eller er beregnet brukt i veterinærpreparater som bringes i omsetning i Fellesskapet.
 14. Den offentlige høringen og det at bare et fåtall veterinærpreparater for dyr bestemt til næringsmiddelproduksjon er blitt godkjent i de senere år, har ført til at slike preparater ikke er like tilgjengelige lenger.
 15. For å sikre dyrs helse og velferd må det finnes veterinærpreparater til behandling av bestemte sykdomstilstander. Mangel på egnede veterinærpreparater til en bestemt behandling av en bestemt art kan dessuten bidra til feilaktig eller ulovlig bruk av stoffer.
 16. Ordningen som ble innført ved forordning [(EØF) nr. 2377/90](eu/31990r2377), bør derfor endres for å øke tilgjengeligheten av veterinærpreparater for dyr bestemt til næringsmiddelproduksjon. For å nå dette mål bør det vedtas at kontoret systematisk skal vurdere om en grenseverdi for rester som er fastsatt for en bestemt art eller et bestemt næringsmiddel, kan anvendes på en annen art eller et annet næringsmiddel. I den forbindelse bør det tas hensyn til egnetheten av de sikkerhetsfaktorer som allerede inngår i ordningen, for å sikre at næringsmiddeltryggheten og dyrenes velferd ikke bringes i fare.
 17. Det er allment anerkjent at vitenskapelige risikovurderinger i visse tilfeller ikke er tilstrekkelig for å framskaffe alle de opplysninger som avgjørelser om risikohåndtering bør bygge på, og at det kan tas berettiget hensyn til andre forhold som er relevante for saken, herunder de tekniske sidene ved næringsmiddelproduksjonen og muligheten for å gjennomføre kontroller. Kontoret bør derfor avgi en uttalelse som inneholder en vitenskapelig risikovurdering og anbefalinger om risikohåndtering av rester av farmakologisk virksomme stoffer.
 18. For at den generelle rammen for grenseverdier for rester skal fungere problemfritt, må det vedtas nærmere regler for hvilket format og hvilket innhold søknader om fastsettelse av grenseverdier skal ha, samt metodologiske prinsipper for risikovurdering og anbefalinger om risikohåndtering.
-19. I tillegg til veterinærpreparater brukes det innen husdyrhold også andre produkter, som ikke er underlagt særlige regler for rester, f.eks. biocidprodukter. Biocidproduktene er definert i europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om markedsføring av biocidprodukter.11 Videre kan veterinærpreparater som ikke innehar en markedsføringstillatelse i Fellesskapet, være tillatte i land utenfor Fellesskapet. Det kan skyldes at andre sykdommer eller arter i målgruppen er vanligere i andre regioner, eller at foretakene har valgt å ikke markedsføre et preparat i Fellesskapet. At et preparat ikke er tillatt i Fellesskapet, behøver ikke å bety at det er skadelig. Med hensyn til slike preparaters farmakologisk virksomme stoffer bør Kommisjonen ha mulighet til å fastsette en grenseverdi for rester i næringsmidler, etter en uttalelse fra kontoret, i samsvar med prinsippene som er fastsatt for farmakologisk virksomme stoffer beregnet på bruk i veterinærpreparater. Forordning [(EF) nr. 726/2004](eu/32004r0726) må dessuten endres slik at rådgivning om grenseverdier for rester av virksomme stoffer i biocidprodukter også inngår i kontorets oppgaver.
+19. I tillegg til veterinærpreparater brukes det innen husdyrhold også andre produkter, som ikke er underlagt særlige regler for rester, f.eks. biocidprodukter. Biocidproduktene er definert i europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om markedsføring av biocidprodukter.[^11] Videre kan veterinærpreparater som ikke innehar en markedsføringstillatelse i Fellesskapet, være tillatte i land utenfor Fellesskapet. Det kan skyldes at andre sykdommer eller arter i målgruppen er vanligere i andre regioner, eller at foretakene har valgt å ikke markedsføre et preparat i Fellesskapet. At et preparat ikke er tillatt i Fellesskapet, behøver ikke å bety at det er skadelig. Med hensyn til slike preparaters farmakologisk virksomme stoffer bør Kommisjonen ha mulighet til å fastsette en grenseverdi for rester i næringsmidler, etter en uttalelse fra kontoret, i samsvar med prinsippene som er fastsatt for farmakologisk virksomme stoffer beregnet på bruk i veterinærpreparater. Forordning [(EF) nr. 726/2004](eu/32004r0726) må dessuten endres slik at rådgivning om grenseverdier for rester av virksomme stoffer i biocidprodukter også inngår i kontorets oppgaver.
 20. I henhold til ordningen som ble innført ved direktiv [98/8/EF](eu/31998l0008*), er driftsansvarlige som markedsfører eller ønsker å markedsføre biocidprodukter, forpliktet til å betale avgifter for de vurderinger som utføres i forbindelse med de ulike framgangsmåtene i nevnte direktiv. I henhold til denne forordning skal kontoret utføre vurderinger i forbindelse med fastsettelsen av en grenseverdi for rester av farmakologisk virksomme stoffer beregnet på bruk i biocidprodukter. Det bør derfor tydelig framgå av forordningen hvordan vurderingene skal finansieres, slik at det tas behørig hensyn til de avgifter som allerede er innkrevd for vurderinger som er utført eller skal utføres i henhold til nevnte direktiv.
 21. Innenfor rammen av Codex Alimentarius bidrar Fellesskapet til å utarbeide internasjonale standarder for grenseverdier for rester, samtidig som den sørger for at det høye nivået for vern av folkehelsen i Fellesskapet opprettholdes. Fellesskapet bør derfor uten ytterligere risikovurdering kunne overta de grenseverdier for rester i Codex Alimentarius som den har støttet i de relevante møtene i Codex Alimentarius-kommisjonen. På den måten vil samsvaret øke ytterligere mellom internasjonale standarder og Fellesskapets regelverk for grenseverdier for rester.
 22. Næringsmidler kontrolleres med hensyn til rester av farmakologisk virksomme stoffer i samsvar med forordning [(EF) nr. 882/2004](eu/32004r0882*). Selv om det ikke er fastsatt grenseverdier for slike stoffer i henhold til denne forordning, kan det likevel forekomme rester av slike stoffer i form av miljøforurensning eller naturlige metabolitter hos dyret. Med laboratoriemetoder kan det påvises stadig mindre rester av slike stoffer. Rester av denne typen har medført forskjellige kontrollrutiner i medlemsstatene.
-23. I henhold til rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater12 skal alle sendinger som importeres fra tredjestater gjennomgå veterinærkontroll, og i henhold til kommisjonsvedtak [2005/34/EF](eu/32005d0034)13 fastsettes harmoniserte standarder for analyse av visse rester i produkter av animalsk opprinnelse importert fra tredjestater. Bestemmelsene i vedtak [2005/34/EF](eu/32005d0034) bør utvides til å omfatte alle produkter av animalsk opprinnelse som bringes i omsetning i Fellesskapet.
-24. En rekke farmakologisk virksomme stoffer er forbudt eller for tiden ikke tillatt i henhold til forordning [(EF) nr. 2377/90](eu/31990r2377), direktiv [96/22/EF](eu/31996l0022) eller europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer til bruk i fôrvarer.14 Rester av farmakologisk virksomme stoffer i produkter av animalsk opprinnelse som skyldes ulovlig bruk eller miljøforurensning, bør kontrolleres og overvåkes nøye i samsvar med rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres rester i levende dyr og animalske produkter,15 uavhengig av produktets opprinnelse.
+23. I henhold til rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater[^12] skal alle sendinger som importeres fra tredjestater gjennomgå veterinærkontroll, og i henhold til kommisjonsvedtak [2005/34/EF](eu/32005d0034)[^13] fastsettes harmoniserte standarder for analyse av visse rester i produkter av animalsk opprinnelse importert fra tredjestater. Bestemmelsene i vedtak [2005/34/EF](eu/32005d0034) bør utvides til å omfatte alle produkter av animalsk opprinnelse som bringes i omsetning i Fellesskapet.
+24. En rekke farmakologisk virksomme stoffer er forbudt eller for tiden ikke tillatt i henhold til forordning [(EF) nr. 2377/90](eu/31990r2377), direktiv [96/22/EF](eu/31996l0022) eller europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer til bruk i fôrvarer.[^14] Rester av farmakologisk virksomme stoffer i produkter av animalsk opprinnelse som skyldes ulovlig bruk eller miljøforurensning, bør kontrolleres og overvåkes nøye i samsvar med rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres rester i levende dyr og animalske produkter,[^15] uavhengig av produktets opprinnelse.
 25. For å lette handelen innenfor og innførselen til Fellesskapet bør Fellesskapet innføre framgangsmåter for å fastsette referanseverdier for tiltak ved resteverdier som det er teknisk mulig å fastsette ved en laboratorieanalyse, uten å undergrave et høyt nivå for vern av menneskers helse i Fellesskapet. Fastsettelsen av referanseverdier for tiltak bør ikke på noen som helst måte brukes som et påskudd for å tolerere ulovlig bruk av forbudte eller ikke tillatte stoffer til behandling av dyr bestemt til næringsmiddelproduksjon. Alle rester av slike stoffer i næringsmidler av animalsk opprinnelse skal derfor anses som uønsket.
 26. Det er også hensiktsmessig at Fellesskapet fastsetter en harmonisert metode for tilfeller der medlemsstatene finner tegn på et tilbakevendende problem, i og med at et slikt funn kan tyde på et mønster med misbruk av et bestemt stoff eller manglende respekt for garantier avgitt av tredjestater med hensyn til produksjon av næringsmidler bestemt til innførsel til Fellesskapet. Medlemsstatene bør underrette Kommisjonen om tilbakevendende problemer, og det bør treffes passende oppfølgingstiltak.
 27. Det nåværende regelverket for grenseverdier for rester bør forenkles ved at alle beslutninger om klassifisering av farmakologisk virksomme stoffer med hensyn til rester samles i én kommisjonsforordning.
-28. De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.16
+28. De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[^16]
 29. Kommisjonen bør særlig få myndighet til å vedta metodologiske prinsipper for risikovurdering og anbefalinger om risikohåndtering når det gjelder fastsettelsen av grenseverdier for rester, bestemmelser om vilkårene for ekstrapolering, bestemmelser om fastsettelse av referanseverdier for tiltak, herunder tiltak for å revurdere referanseverdiene, samt metodologiske prinsipper og vitenskapelige metoder for fastsettelse av referanseverdier for tiltak. Ettersom disse tiltakene er allmenne og har som formål å endre ikke-grunnleggende bestemmelser i denne forordning eller utfylle den med nye ikke-grunnleggende bestemmelser, bør de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).
 30. Når det av tvingende hasteårsaker ikke er mulig å overholde de normale fristene for framgangsmåten med forskriftskomité med kontroll, bør Kommisjonen kunne anvende framgangsmåten for behandling av hastesaker fastsatt i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å vedta bestemmelser om fastsettelsen av referanseverdier for tiltak og om revurdering av disse referanseverdiene.
 31. Ettersom målene for denne forordning, nemlig å verne menneskers og dyrs helse og sikre tilgjengeligheten av passende veterinærpreparater, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor på grunn av forordningens omfang og virkninger bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.
@@ -296,7 +296,7 @@ Farmakologisk virksomme stoffer i biocidprodukter som brukes i husdyrhold
 
 Eventuelle særlige bestemmelser om vilkår for bruk av stoffene som er klassifisert i samsvar med første ledd i dette nummer, skal fastsettes i henhold til artikkel 10 nr. 2 i direktiv [98/8/EF](eu/31998l0008*).
 
-3\. Kostnadene ved de vurderinger som kontoret utfører etter anmodninger i samsvar med nr. 1 bokstav a) i denne artikkel, skal dekkes over kontorets budsjett som omhandlet i artikkel 67 i forordning [(EF) nr. 726/2004](eu/32004r0726). Dette gjelder likevel ikke vurderingskostnader for en rapportør som i samsvar med artikkel 62 nr. 1 i nevnte forordning har fått i oppgave å fastsette en grenseverdi for rester, dersom rapportøren er utpekt av en medlemsstat som allerede har innkrevd et gebyr for vurderingen på grunnlag av artikkel 25 i direktiv [98/8/EF](eu/31998l0008*). Størrelsen på gebyrene for vurderinger som utføres av kontoret og rapportøren etter en søknad i samsvar med nr. 1 bokstav b) i denne artikkel, skal fastsettes i samsvar med artikkel 70 i rådsforordning [(EF) nr. 726/2004](eu/32004r0726). Rådsforordning [(EF) nr. 297/95](eu/31995r0297*) av 10. februar 1995 om fastsettelse av gebyrer til Det europeiske legemiddelkontor1 får anvendelse.
+3\. Kostnadene ved de vurderinger som kontoret utfører etter anmodninger i samsvar med nr. 1 bokstav a) i denne artikkel, skal dekkes over kontorets budsjett som omhandlet i artikkel 67 i forordning [(EF) nr. 726/2004](eu/32004r0726). Dette gjelder likevel ikke vurderingskostnader for en rapportør som i samsvar med artikkel 62 nr. 1 i nevnte forordning har fått i oppgave å fastsette en grenseverdi for rester, dersom rapportøren er utpekt av en medlemsstat som allerede har innkrevd et gebyr for vurderingen på grunnlag av artikkel 25 i direktiv [98/8/EF](eu/31998l0008*). Størrelsen på gebyrene for vurderinger som utføres av kontoret og rapportøren etter en søknad i samsvar med nr. 1 bokstav b) i denne artikkel, skal fastsettes i samsvar med artikkel 70 i rådsforordning [(EF) nr. 726/2004](eu/32004r0726). Rådsforordning [(EF) nr. 297/95](eu/31995r0297*) av 10. februar 1995 om fastsettelse av gebyrer til Det europeiske legemiddelkontor[^1] får anvendelse.
 
 1 EFT L 35 av 15.2.1995, s. 1.
 
@@ -519,7 +519,7 @@ I direktiv [2001/82/EF](eu/32001l0082) gjøres følgende endringer:
 
 Artikkel 57 nr. 1 bokstav g) i forordning [(EF) nr. 726/2004](eu/32004r0726) skal lyde:
 
-1. å gi råd om grenseverdier for rester av veterinærpreparater og biocidprodukter som brukes i husdyrhold, som kan tillates i næringsmidler av animalsk opprinnelse i samsvar med europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for rester av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse.»18
+1. å gi råd om grenseverdier for rester av veterinærpreparater og biocidprodukter som brukes i husdyrhold, som kan tillates i næringsmidler av animalsk opprinnelse i samsvar med europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for rester av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse.»[^18]
 
 18 EUT L 152 av 16.6.2009, s. 11.
 
@@ -563,7 +563,7 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),1 særlig artikkel 13 nr. 1, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),[^1] særlig artikkel 13 nr. 1, og
 
 ut fra følgende betraktninger:
 
@@ -582,7 +582,7 @@ VEDTATT DENNE FORORDNING:
 
 2\. Opplysningene og dokumentene som ledsager en søknad eller anmodning om fastsettelse av grenseverdier for restmengder, skal framlegges i samsvar med kravene fastsatt i vedlegget.
 
-►**M1** Når det gjelder anmodninger om klassifiseringen «Ikke krav om MRL» for ikke-kjemikalielignende biologiske stoffer, skal opplysningene og dokumentene imidlertid være de som er angitt i avsnitt I.7 første ledd bokstav a)–e) i vedlegg I til kommisjonsforordning [(EU) 2018/782](eu/32018r0782)\*.
+►**M1** Når det gjelder anmodninger om klassifiseringen «Ikke krav om MRL» for ikke-kjemikalielignende biologiske stoffer, skal opplysningene og dokumentene imidlertid være de som er angitt i avsnitt I.7 første ledd bokstav a)–e) i vedlegg I til kommisjonsforordning [(EU) 2018/782](eu/32018r0782)[^\*].
 
 \* Kommisjonsforordning [(EU) 2018/782](eu/32018r0782) av 29. mai 2018 om fastsettelse av de metodologiske prinsippene for risikovurderingen og anbefalingene om risikohåndtering nevnt i forordning [(EF) nr. 470/2009](eu/32009r0470) (EUT L 132, 30.5.2018, s. 5, ELI: https://data.europa.eu/eli/reg/2018/782/oj).
 
@@ -623,7 +623,7 @@ Søknad/anmodning om fastsettelse av grenseverdier for restmengder
 
 4\. Søknaden eller anmodningen skal inngis i samsvar med kravene angitt nedenfor og i den rekkefølgen som angis.
 
-5\. Det skal utføres farmakologiske og toksikologiske prøvinger samt analyser av restmengder i samsvar med europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010)2 og europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063),3 og resultatene av disse skal legges ved en søknad eller anmodning om fastsettelse av grenseverdier for restmengder.
+5\. Det skal utføres farmakologiske og toksikologiske prøvinger samt analyser av restmengder i samsvar med europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010)[^2] og europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063),[^3] og resultatene av disse skal legges ved en søknad eller anmodning om fastsettelse av grenseverdier for restmengder.
 
 2 Europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010) av 11. februar 2004 om tilnærming av lover og forskrifter om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer (EUT L 50 av 20.2.2004, s. 44).
 
@@ -942,7 +942,7 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),1 særlig artikkel 13 nr. 2 bokstav b), og
+under henvisning til europaparlaments- og rådsforordning [(EF) 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),[^1] særlig artikkel 13 nr. 2 bokstav b), og
 
 ut fra følgende betraktninger:
 
@@ -1074,13 +1074,13 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),1 særlig artikkel 23, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),[^1] særlig artikkel 23, og
 
 ut fra følgende betraktninger:
 
 1. I henhold til i forordning [(EF) nr. 470/2009](eu/32009r0470) skal det fastsettes øvre grenseverdier for restmengder («grenseverdier») for farmakologisk virksomme stoffer beregnet på bruk i Unionen i veterinærpreparater for dyr bestemt til næringsmiddelproduksjon og i biocidprodukter som brukes i husdyrhold.
-2. Farmakologisk virksomme stoffer og deres klassifisering med hensyn til grenseverdier for næringsmidler av animalsk opprinnelse er oppført i tabell 1 i vedlegget til kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037*)2 («tabell 1»). For visse stoffer er det angitt forskjellige grenseverdier for forskjellige arter eller grupper av arter og for forskjellige målvev fra disse artene eller gruppene av arter.
-3. I artikkel 11 i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082)3 er det fastsatt regler for behandling av dyr bestemt til næringsmiddelproduksjon som lider av en tilstand som det ikke finnes noe godkjent veterinærpreparat for i en medlemsstat. Nærmere bestemt fastsetter nr. 2 i nevnte artikkel, sammenholdt med artikkel 29 i forordning [(EF) nr. 470/2009](eu/32009r0470), at slike dyr bare kan behandles med legemidler som inneholder farmakologisk virksomme stoffer, dersom disse stoffene er oppført i tabell 1 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037*).
+2. Farmakologisk virksomme stoffer og deres klassifisering med hensyn til grenseverdier for næringsmidler av animalsk opprinnelse er oppført i tabell 1 i vedlegget til kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037*)[^2] («tabell 1»). For visse stoffer er det angitt forskjellige grenseverdier for forskjellige arter eller grupper av arter og for forskjellige målvev fra disse artene eller gruppene av arter.
+3. I artikkel 11 i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082)[^3] er det fastsatt regler for behandling av dyr bestemt til næringsmiddelproduksjon som lider av en tilstand som det ikke finnes noe godkjent veterinærpreparat for i en medlemsstat. Nærmere bestemt fastsetter nr. 2 i nevnte artikkel, sammenholdt med artikkel 29 i forordning [(EF) nr. 470/2009](eu/32009r0470), at slike dyr bare kan behandles med legemidler som inneholder farmakologisk virksomme stoffer, dersom disse stoffene er oppført i tabell 1 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037*).
 4. Kommisjonen er pålagt å vedta nærmere regler for de grenseverdiene som skal tas i betraktning ved kontroll av næringsmidler som kommer fra dyr behandlet i henhold til artikkel 11 i direktiv [2001/82/EF](eu/32001l0082). For spesifikke målvev fra dyrearter som er blitt behandlet i EU i henhold til artikkel 11 i direktiv [2001/82/EF](eu/32001l0082), er det ikke nødvendigvis oppført noen grenseverdier i tabell 1 i vedlegget til kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037*). For å sikre et høyt nivå for forbrukervern er det behov for særlige regler som angir hvilke grenseverdier som gjelder i slike tilfeller. Reglene bør ta hensyn til grenseverdiene fastsatt i henhold til forordning [(EF) nr. 470/2009](eu/32009r0470) for forskjellige dyrearter og forskjellige målvev, som ved en risikovurdering er påvist å være sikre for forbrukerne. Anvendelse av de eksisterende grenseverdiene på kombinasjoner av vev og arter som det ikke er fastsatt noen grenseverdi for, sammen med anvendelsen av de relevante tilbakeholdingstidene eller de standard minimumstilbakeholdingstidene som er fastsatt i artikkel 11, gir tilstrekkelige garantier for forbrukersikkerheten.
 5. Når det gjelder behandlinger i henhold til artikkel 11 i direktiv [2001/82/EF](eu/32001l0082), er det ved fastsettelse av grenseverdier for veterinærpreparater i dyrearter som ikke er oppført i tabell 1, mest hensiktsmessig å vise til de grenseverdiene som er fastsatt i tabell 1 for arter som har lignende anatomi og stoffskifte. Derfor bør dyr bestemt til næringsmiddelproduksjon grupperes og ses i forhold til hverandre ut fra de ulike anatomiske og metabolske relasjonene mellom dem.
 6. I første hånd bør de grenseverdiene som er angitt i tabell 1 for samme målvev fra en beslektet eller nærmere beslektet art tas i betraktning, og i siste hånd den laveste grenseverdien for et hvilket som helst målvev fra en hvilken som helst art.
@@ -1179,7 +1179,7 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),1 særlig artikkel 13 nr. 2 bokstav a), og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),[^1] særlig artikkel 13 nr. 2 bokstav a), og
 
 ut fra følgende betraktninger:
 
@@ -1236,13 +1236,13 @@ GENERELLE PRINSIPPER
 
 I.1.
 
-Det skal gjennomføres sikkerhets- og restmengdetester for å fastsette øvre grenseverdier for restmengder (heretter kalt «øvre grenseverdier») i samsvar med bestemmelsene om god laboratoriepraksis som fastsatt i europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010).1
+Det skal gjennomføres sikkerhets- og restmengdetester for å fastsette øvre grenseverdier for restmengder (heretter kalt «øvre grenseverdier») i samsvar med bestemmelsene om god laboratoriepraksis som fastsatt i europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010).[^1]
 
 Dersom det foreligger data som ikke er blitt generert i henhold til god laboratoriepraksis, skal de potensielle virkningene av dette undersøkes.
 
 I.2.
 
-Bruk av forsøksdyr i sikkerhets- og restmengdetester skal skje i samsvar med europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063).2
+Bruk av forsøksdyr i sikkerhets- og restmengdetester skal skje i samsvar med europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063).[^2]
 
 I.3.
 
@@ -1279,7 +1279,7 @@ Testrapportene skal inneholde følgende opplysninger (alt etter hva som er relev
 
 I.6.
 
-Biologiske stoffer, bortsett fra dem angitt i artikkel 1 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470),3 skal
+Biologiske stoffer, bortsett fra dem angitt i artikkel 1 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470),[^3] skal
 
 1. være omfattet av en normal øvre grenseverdi dersom det biologiske stoffet er kjemikalielignende på den måten at det kan framstilles ved kjemisk syntese, og dermed gir opphav til lignende bekymringer som de som er forbundet med kjemiske stoffer, og kan forventes å gi restmengder på samme måte som kjemiske stoffer (f.eks. cytokiner, hormoner),
 2. vurderes i hvert enkelt tilfelle dersom det biologiske stoffet er ikke-kjemikalielignende på den måten at det er mer komplekst enn farmakologisk virksomme stoffer framstilt ved kjemisk syntese, og dermed kan inneholde flere typer kjemikalier hvis reststoffer normalt vil være celler, aminosyrer, lipider, karbohydrater, nukleinsyrer og nedbrytingsprodukter av disse.
@@ -1298,7 +1298,7 @@ For ikke-kjemikalielignende biologiske stoffer skal det framlegges en rapport so
 
 I.8.
 
-Når det gjelder visse aspekter av den informasjonen som skal framlegges for å underbygge en søknad om fastsettelse av øvre grenseverdier for et stoff beregnet på bruk hos mindre utbredte arter eller på mindre vanlig bruk, kan det stilles lavere krav enn for et stoff som ikke tilhører denne kategorien. Vurderingen skal gjøres på grunnlag av kravene til informasjon fastsatt i Byråets veiledning *Guideline on safety and residue data requirements for pharmaceutical veterinary medicinal products intended for minor use or minor species (MUMS)/limited market*.4
+Når det gjelder visse aspekter av den informasjonen som skal framlegges for å underbygge en søknad om fastsettelse av øvre grenseverdier for et stoff beregnet på bruk hos mindre utbredte arter eller på mindre vanlig bruk, kan det stilles lavere krav enn for et stoff som ikke tilhører denne kategorien. Vurderingen skal gjøres på grunnlag av kravene til informasjon fastsatt i Byråets veiledning *Guideline on safety and residue data requirements for pharmaceutical veterinary medicinal products intended for minor use or minor species (MUMS)/limited market*.[^4]
 
 I.9.
 
@@ -1333,7 +1333,7 @@ Det utførlige og kritiske sammendraget skal
 1. inneholde en tydelig stillingtaken til om de framlagte dataene er tilstrekkelige i lys av gjeldende vitenskapelig kunnskap,
 2. ha en innledning der det redegjøres for det faktiske eller foreslåtte mønsteret for bruk av det undersøkte stoffet i dyrehold, og et sammendrag av eventuelle andre erfaringer med bruken av det,
 3. inneholde en vurdering av eventuelle likheter mellom det aktuelle stoffet og andre kjente stoffer som kan være relevante for vurderingen,
-4. dekke alle standarddatakrav som fastsatt i Kommisjonens gjennomføringsforordning [(EU) 2017/12](eu/32017r0012)5 og inneholde en kritisk vurdering av tilgjengelige eksperimentelle studier og en fortolkning av resultatene,
+4. dekke alle standarddatakrav som fastsatt i Kommisjonens gjennomføringsforordning [(EU) 2017/12](eu/32017r0012)[^5] og inneholde en kritisk vurdering av tilgjengelige eksperimentelle studier og en fortolkning av resultatene,
 5. inneholde en vitenskapelig begrunnelse for hvorfor eventuelle studier beskrevet i dette avsnitt er utelatt,
 6. inneholde en drøfting av behovet for ytterligere studier,
 7. inneholde en beskrivelse av og forklaring på de viktigste resultatene i hver studie. Følgende emner skal drøftes: Dyreartene som er brukt, antall dyr som er brukt, tilførselsvei(er), dosering, behandlingens varighet, oppnådd eksponering, forholdet mellom dosering og virkning, skadevirkningenes art (inntreden og varighet, doseavhengighet og reversibilitet samt eventuelle arts- eller kjønnsrelaterte forskjeller), kjente relevante forhold mellom struktur og aktivitet og om resultatene er relevante for forbrukerne,
@@ -1380,7 +1380,7 @@ Det skal tas særlig hensyn til farmakodynamiske virkninger av stoffet som kan f
 
 II.6.1.3.
 
-Studier som er relevante for å fastsette et farmakologisk ADI, skal identifisere eller karakterisere virkemåten, forholdet mellom dosering og virkning og om mulig identifisere en NOEL eller BMDL, og skal brukes som utgangspunkt for beregning av et farmakologisk ADI. Dersom det foreligger egnede data fra studier utført på mennesker (f.eks. for stoffer som i lengre tid er blitt brukt innen humanmedisin), vil disse normalt være de mest nyttige med henblikk på å identifisere en farmakologisk NOEL eller BMDL. De retningslinjene som Byrået har offentliggjort om fastsettelse av et farmakologisk ADI,6 skal følges.
+Studier som er relevante for å fastsette et farmakologisk ADI, skal identifisere eller karakterisere virkemåten, forholdet mellom dosering og virkning og om mulig identifisere en NOEL eller BMDL, og skal brukes som utgangspunkt for beregning av et farmakologisk ADI. Dersom det foreligger egnede data fra studier utført på mennesker (f.eks. for stoffer som i lengre tid er blitt brukt innen humanmedisin), vil disse normalt være de mest nyttige med henblikk på å identifisere en farmakologisk NOEL eller BMDL. De retningslinjene som Byrået har offentliggjort om fastsettelse av et farmakologisk ADI,[^6] skal følges.
 
 II.6.1.4.
 
@@ -1408,7 +1408,7 @@ Farmakokinetiske undersøkelser skal gi informasjon om stoffets absorpsjon, dist
 
 II.6.2.2.
 
-Metabolitter som produseres hos forsøksdyrearter, skal sammenlignes med dem som ses hos måldyreartene, i samsvar med VICH-retningslinjene (det internasjonale samarbeidet om harmonisering av tekniske krav til registrering av veterinærpreparater) – *VICH GL47: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: laboratory animal comparative metabolism studies*.7
+Metabolitter som produseres hos forsøksdyrearter, skal sammenlignes med dem som ses hos måldyreartene, i samsvar med VICH-retningslinjene (det internasjonale samarbeidet om harmonisering av tekniske krav til registrering av veterinærpreparater) – *VICH GL47: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: laboratory animal comparative metabolism studies*.[^7]
 
 II.6.2.3.
 
@@ -1442,7 +1442,7 @@ Det stoffet som skal testes, skal være det virksomme stoffet. Dersom restmengde
 
 II.6.3.1.4.
 
-*VICH GL33: Studies to evaluate the safety of residues of veterinary drugs in human food: general approach to testing*8 skal følges.
+*VICH GL33: Studies to evaluate the safety of residues of veterinary drugs in human food: general approach to testing*[^8] skal følges.
 
 II.6.3.2.
 
@@ -1476,7 +1476,7 @@ Data fra studiene av oral toksisitet ved gjentatt dosering skal
 
 II.6.3.3.1.3.
 
-Retningslinjer for utforming av studier av toksisitet ved gjentatt dosering (90 dager) finnes i *VICH GL31: Studies to evaluate the safety of residues of veterinary drugs in human food: repeat-dose (90 days) toxicity testing*,9 og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
+Retningslinjer for utforming av studier av toksisitet ved gjentatt dosering (90 dager) finnes i *VICH GL31: Studies to evaluate the safety of residues of veterinary drugs in human food: repeat-dose (90 days) toxicity testing*,[^9] og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
 
 II.6.3.3.1.4.
 
@@ -1497,7 +1497,7 @@ Dataene fra studier av kronisk oral toksisitet skal gjøre det mulig å
 
 II.6.3.3.2.3.
 
-Retningslinjer for utforming av studier ved gjentatt dosering (kronisk) finnes i *VICH GL37: Studies to evaluate the safety of residues of veterinary drugs in human food: repeat-dose (chronic) toxicity testing*,10 og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
+Retningslinjer for utforming av studier ved gjentatt dosering (kronisk) finnes i *VICH GL37: Studies to evaluate the safety of residues of veterinary drugs in human food: repeat-dose (chronic) toxicity testing*,[^10] og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
 
 II.6.3.3.2.4.
 
@@ -1543,7 +1543,7 @@ Dataene skal gjøre det mulig å fastsette NO(A)EL, LO(A)EL eller BMDL.
 
 II.6.3.5.1.6.
 
-Retningslinjer for utformingen av studier med tanke på testing av reproduksjonstoksisitet finnes i *VICH GL22: Studies to evaluate the safety of residues of veterinary drugs in human food: reproduction testing*,11 og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
+Retningslinjer for utformingen av studier med tanke på testing av reproduksjonstoksisitet finnes i *VICH GL22: Studies to evaluate the safety of residues of veterinary drugs in human food: reproduction testing*,[^11] og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
 
 II.6.3.5.1.7.
 
@@ -1561,7 +1561,7 @@ Dersom det finnes tydelige bevis på teratogenitet hos rotte, er det ikke nødve
 
 II.6.3.5.2.3.
 
-Retningslinjer for metoder for testing av utviklingstoksisitet er beskrevet i *VICH GL32: Studies to evaluate the safety of residues of veterinary drugs in human food: developmental toxicity testing*.12 Det er snakk om en trinnvis framgangsmåte som innebærer at det i første omgang utføres tester på én dyreart (rotte). Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
+Retningslinjer for metoder for testing av utviklingstoksisitet er beskrevet i *VICH GL32: Studies to evaluate the safety of residues of veterinary drugs in human food: developmental toxicity testing*.[^12] Det er snakk om en trinnvis framgangsmåte som innebærer at det i første omgang utføres tester på én dyreart (rotte). Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
 
 II.6.3.5.2.4.
 
@@ -1585,7 +1585,7 @@ I de fleste tilfellene er det bare den opprinnelige forbindelsen som skal testes
 
 II.6.3.6.2.
 
-*VICH GL23: Studies to evaluate the safety of residues of veterinary drugs in human food: genotoxicity testing*13 inneholder en beskrivelse av et standardutvalg av tester som anbefales for å undersøke et stoffs genotoksiske potensial. Standardutvalget omfatter tester til påvisning av arvestoffskadelige, klastogene og aneugene virkninger. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
+*VICH GL23: Studies to evaluate the safety of residues of veterinary drugs in human food: genotoxicity testing*[^13] inneholder en beskrivelse av et standardutvalg av tester som anbefales for å undersøke et stoffs genotoksiske potensial. Standardutvalget omfatter tester til påvisning av arvestoffskadelige, klastogene og aneugene virkninger. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
 
 II.6.3.6.3.
 
@@ -1629,11 +1629,11 @@ Identifisering av mindre viktige metabolitter er i prinsippet ikke påkrevd.
 
 II.6.3.6.13.
 
-Mindre viktige metabolitter er metabolitter som forekommer i mengder på under 100 μg/kg, eller som utgjør mindre enn 10 % av de samlede restmengdene som beskrevet i *VICH GL46: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: metabolism study to determine the quantity and identify the nature of residues*.14
+Mindre viktige metabolitter er metabolitter som forekommer i mengder på under 100 μg/kg, eller som utgjør mindre enn 10 % av de samlede restmengdene som beskrevet i *VICH GL46: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: metabolism study to determine the quantity and identify the nature of residues*.[^14]
 
 II.6.3.6.14.
 
-Dersom en mindre viktig metabolitts struktur er kjent eller kan antas, og dersom metabolitten interagerer eller forventes å interagere direkte med DNA, skal den potensielle risikoen for forbrukerne undersøkes. Det skal framlegges dokumentasjon som bekrefter at nivået er så lavt at det kan anses for å være praktisk talt sikkert, dvs. at det er tilstrekkelig lavt til å garantere at den økte kreftrisikoen som følge av forbrukereksponering for stoffet, er mindre enn 1 av 106 . Dette skal oppnås enten ved bruk av kjemikaliespesifikke data eller dersom slike data ikke foreligger, ved bruk av terskelverdien for toksikologisk risiko (TTC-konseptet), som er en metode for kvantifisering av risikoen forbundet med en gitt eksponering for et stoff. De retningslinjene som EFSA og Verdens helseorganisasjon har offentliggjort om TTC-metoden, skal følges.15
+Dersom en mindre viktig metabolitts struktur er kjent eller kan antas, og dersom metabolitten interagerer eller forventes å interagere direkte med DNA, skal den potensielle risikoen for forbrukerne undersøkes. Det skal framlegges dokumentasjon som bekrefter at nivået er så lavt at det kan anses for å være praktisk talt sikkert, dvs. at det er tilstrekkelig lavt til å garantere at den økte kreftrisikoen som følge av forbrukereksponering for stoffet, er mindre enn 1 av 10[^6] . Dette skal oppnås enten ved bruk av kjemikaliespesifikke data eller dersom slike data ikke foreligger, ved bruk av terskelverdien for toksikologisk risiko (TTC-konseptet), som er en metode for kvantifisering av risikoen forbundet med en gitt eksponering for et stoff. De retningslinjene som EFSA og Verdens helseorganisasjon har offentliggjort om TTC-metoden, skal følges.[^15]
 
 II.6.3.6.15.
 
@@ -1659,7 +1659,7 @@ II.6.3.7.1.*Kriterier for valg av stoffer til testing av kreftframkallende egens
 
 II.6.3.7.1.1.
 
-*VICH GL28: Studies to evaluate the safety of residues of veterinary drugs in human food: carcinogenicity testing*16 inneholder retningslinjer for hvilke faktorer som skal tas i betraktning ved fastsettelse av behovet for testing av kreftframkallende egenskaper, og om testing av kreftframkallende egenskaper som skal gjennomføres, og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
+*VICH GL28: Studies to evaluate the safety of residues of veterinary drugs in human food: carcinogenicity testing*[^16] inneholder retningslinjer for hvilke faktorer som skal tas i betraktning ved fastsettelse av behovet for testing av kreftframkallende egenskaper, og om testing av kreftframkallende egenskaper som skal gjennomføres, og skal følges. Alle avvik fra fastsatte retningslinjer skal begrunnes, og konsekvensene av slike avvik skal drøftes.
 
 II.6.3.7.1.2.
 
@@ -1731,7 +1731,7 @@ Stoffer som i andre toksikologiske undersøkelser har vist seg å forårsake his
 
 II.6.4.2.2.3.
 
-Nevrotoksisitetstestene skal utføres ved bruk av tilførsel gjennom munnen og i samsvar med anbefalingene i retningslinjene til Organisasjonen for økonomisk samarbeid og utvikling (OECD) om testing av kjemikalier, testretningslinje 424,17 om de metodene som skal brukes i nevrotoksisitetsstudier av gnagere. Denne studien kan utføres som en selvstendig studie, eller den kan inngå i andre studier av toksisitet ved gjentatt dosering.
+Nevrotoksisitetstestene skal utføres ved bruk av tilførsel gjennom munnen og i samsvar med anbefalingene i retningslinjene til Organisasjonen for økonomisk samarbeid og utvikling (OECD) om testing av kjemikalier, testretningslinje 424,[^17] om de metodene som skal brukes i nevrotoksisitetsstudier av gnagere. Denne studien kan utføres som en selvstendig studie, eller den kan inngå i andre studier av toksisitet ved gjentatt dosering.
 
 II.6.4.2.2.4.
 
@@ -1739,11 +1739,11 @@ Selv om OECDs testretningslinje 424 ikke spesifikt omhandler virkningene på ace
 
 II.6.4.2.2.5.
 
-Dersom et stoff har vist seg å forårsake nevropatologi eller nevrotoksisitet hos voksne, eller andre typer toksisitet som tyder på påvirkning av nervesystemet i et utviklingsstadium, kan testing av utviklingsnevrotoksisitet være nødvendig. I et slikt tilfelle skal OECDs testretningslinje 42618 som inneholder anbefalinger om hvilken metode som skal brukes i studier av utviklingsnevrotoksisitet, følges. Den utvidede én-generasjonsstudien av reproduksjonstoksisitet (OECDs testretningslinje 44319 ) inneholder også anbefalinger om testing av utviklingsnevrotoksisitet.
+Dersom et stoff har vist seg å forårsake nevropatologi eller nevrotoksisitet hos voksne, eller andre typer toksisitet som tyder på påvirkning av nervesystemet i et utviklingsstadium, kan testing av utviklingsnevrotoksisitet være nødvendig. I et slikt tilfelle skal OECDs testretningslinje 426[^18] som inneholder anbefalinger om hvilken metode som skal brukes i studier av utviklingsnevrotoksisitet, følges. Den utvidede én-generasjonsstudien av reproduksjonstoksisitet (OECDs testretningslinje 443[^19] ) inneholder også anbefalinger om testing av utviklingsnevrotoksisitet.
 
 II.6.4.2.2.6.
 
-Organiske fosfatforbindelser skal testes med tanke på forsinket nevrotoksisitet i et forsøk på høner som omfatter måling av NTE («neuropathy target esterase») i hjernevev. Både enkelteksponering (OECDs testretningslinje 41820 ) og gjentatt eksponering (OECDs testretningslinje 41921 skal vurderes. Mens det i enkeltdosestudier som utføres i henhold til OECDs testretningslinje 418, kanskje bare er mulig å identifisere en forsinket nevrotoksisk virkning, kan studier med gjentatt dosering (OECDs testretningslinje 419) gjøre det mulig å identifisere NO(A)EL eller BMDL.
+Organiske fosfatforbindelser skal testes med tanke på forsinket nevrotoksisitet i et forsøk på høner som omfatter måling av NTE («neuropathy target esterase») i hjernevev. Både enkelteksponering (OECDs testretningslinje 418[^20] ) og gjentatt eksponering (OECDs testretningslinje 419[^21] skal vurderes. Mens det i enkeltdosestudier som utføres i henhold til OECDs testretningslinje 418, kanskje bare er mulig å identifisere en forsinket nevrotoksisk virkning, kan studier med gjentatt dosering (OECDs testretningslinje 419) gjøre det mulig å identifisere NO(A)EL eller BMDL.
 
 II.6.4.2.2.7.
 
@@ -1757,7 +1757,7 @@ II.6.4.3.1.*Mulige virkninger på tarmfloraen hos mennesker*
 
 II.6.4.3.1.1.
 
-Når det gjelder stoffer med antimikrobiell aktivitet, kan det forekomme antimikrobielle virkninger på tarmfloraen hos mennesker ved doser som er lavere enn dem som er vist å gi toksisitet i toksisitetstestene. For slike stoffer skal det fastsettes et mikrobiologisk ADI i samsvar med *VICH GL36: Studies to evaluate the safety of residues of veterinary drugs in human food: general approach to establish a microbiological ADI*.22
+Når det gjelder stoffer med antimikrobiell aktivitet, kan det forekomme antimikrobielle virkninger på tarmfloraen hos mennesker ved doser som er lavere enn dem som er vist å gi toksisitet i toksisitetstestene. For slike stoffer skal det fastsettes et mikrobiologisk ADI i samsvar med *VICH GL36: Studies to evaluate the safety of residues of veterinary drugs in human food: general approach to establish a microbiological ADI*.[^22]
 
 II.6.4.3.1.2.
 
@@ -1834,7 +1834,7 @@ Dersom metoden med referansedose («BMD») brukes, skal BMDL brukes som utgangsp
 
 II.6.6.1.1.6.
 
-Ved valg av standardverdier for omfanget av den responsen som BMDL beregnes for (dvs. referanseresponsen («BMR»)), og av de anbefalte modellene for dosering-virkning samt ved rapportering av resultatene fra en BMD-analyse skal veiledningen som gis i EFSAs vitenskapelige uttalelse om bruk av referansedosemetoden ved risikovurderinger,23 følges.
+Ved valg av standardverdier for omfanget av den responsen som BMDL beregnes for (dvs. referanseresponsen («BMR»)), og av de anbefalte modellene for dosering-virkning samt ved rapportering av resultatene fra en BMD-analyse skal veiledningen som gis i EFSAs vitenskapelige uttalelse om bruk av referansedosemetoden ved risikovurderinger,[^23] følges.
 
 II.6.6.1.1.7.
 
@@ -1884,7 +1884,7 @@ Det skal ikke beregnes farmakologiske ADI-verdier for alle farmakologisk virksom
 
 II.6.6.1.2.2.
 
-De anbefalingene som gjelder behovet for et farmakologisk ADI, og som finnes i Komiteen for veterinærpreparaters retningslinjer for fastsettelse av et farmakologisk ADI,24 skal følges. Dersom det ikke beregnes et farmakologisk ADI, skal dette begrunnes.
+De anbefalingene som gjelder behovet for et farmakologisk ADI, og som finnes i Komiteen for veterinærpreparaters retningslinjer for fastsettelse av et farmakologisk ADI,[^24] skal følges. Dersom det ikke beregnes et farmakologisk ADI, skal dette begrunnes.
 
 II.6.6.1.2.3.
 
@@ -2017,15 +2017,15 @@ Testmaterialet skal inneholde en representativ konsentrasjon av det stoffet som 
 
 III.3.4.
 
-Retningslinjene i *VICH GL46: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: metabolism study to determine the quantity and identify the nature of residues*25 skal følges for å overvåke (kvantifisere) nedbrytingen av de samlede restmengdene og de viktigste metabolittene over tid. Disse studiene skal vanligvis utføres ved bruk av radioaktivt merket legemiddel.
+Retningslinjene i *VICH GL46: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: metabolism study to determine the quantity and identify the nature of residues*[^25] skal følges for å overvåke (kvantifisere) nedbrytingen av de samlede restmengdene og de viktigste metabolittene over tid. Disse studiene skal vanligvis utføres ved bruk av radioaktivt merket legemiddel.
 
 III.3.5.
 
-Retningslinjene i *VICH GL49: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: validation of analytical methods used in residue depletion studies*26 skal følges for å dokumentere analysemetodestandardene og for å framskaffe data av akseptabel kvalitet om nedbrytingen av restmarkøren.
+Retningslinjene i *VICH GL49: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing animals: validation of analytical methods used in residue depletion studies*[^26] skal følges for å dokumentere analysemetodestandardene og for å framskaffe data av akseptabel kvalitet om nedbrytingen av restmarkøren.
 
 III.3.6.
 
-Spesifikke retningslinjer for restmengdestudier som skal gjennomføres på stoffer beregnet på bruk hos honningbier, og som finnes i *VICH GL56: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing species: study design recommendations for residue studies in honey for establishing MRLs and withdrawal periods*27 skal følges.
+Spesifikke retningslinjer for restmengdestudier som skal gjennomføres på stoffer beregnet på bruk hos honningbier, og som finnes i *VICH GL56: Studies to evaluate the metabolism and residue kinetics of veterinary drugs in food-producing species: study design recommendations for residue studies in honey for establishing MRLs and withdrawal periods*[^27] skal følges.
 
 III.3.7.
 
@@ -2105,7 +2105,7 @@ Dataene skal brukes til å fastsette en restmengdekonsentrasjon uten virkning p�
 
 III.6.3.
 
-De studiene som skal gjennomføres, skal følge Byråets retningslinjer for vurdering av antimikrobielle stoffers virkning på startkulturer for melkeprodukter.28
+De studiene som skal gjennomføres, skal følge Byråets retningslinjer for vurdering av antimikrobielle stoffers virkning på startkulturer for melkeprodukter.[^28]
 
 III.6.4.
 
@@ -2214,7 +2214,7 @@ Standardmatkurven skal bestå av de mengdene av næringsmidler som er angitt i t
 | *Pattedyr* |  | *Fjørfe* |  | *Fisk* |  | *Bier* |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Muskel | 0,300 kg | Muskel | 0,300 kg | Muskel og hud i naturlig forhold | 0,300 kg | Honning | 0,020 kg |
-| Fett | 0,050 kg1 | Fett og hud i naturlig forhold | 0,090 kg |  |  |  |  |
+| Fett | 0,050 kg[^1] | Fett og hud i naturlig forhold | 0,090 kg |  |  |  |  |
 | Lever | 0,100 kg | Lever | 0,100 kg |  |  |  |  |
 | Nyre | 0,050 kg | Nyre | 0,010 kg |  |  |  |  |
 | Melk | 1,500 kg | Egg | 0,100 kg |  |  |  |  |
@@ -2257,7 +2257,7 @@ TILGANG PÅ ALTERNATIVE LEGEMIDLER OG ANDRE RELEVANTE FAKTORER
 
 II.1.**Tilgang på alternative legemidler**
 
-Behovet for stoffet for å unngå at måldyr lider unødig eller for å garantere sikkerheten for dem som behandler dyrene, kan være relevante faktorer å ta hensyn til i tilfeller der det er mangel på praktiske behandlingsalternativer. Disse hensynene kan berettige at selv opplysninger som ikke er fullstendige, godtas i samsvar med anbefalingene i Byråets veiledning «*Guideline on safety and residue data requirements for pharmaceutical veterinary medicinal products intended for minor use or minor species (MUMS)/limited market*».2 Det kan også tas hensyn til disse faktorene i forbindelse med behovet for å fastsette øvre grenseverdier på nivåer som vil gjøre det mulig å utvikle et produkt med en praktisk gjennomførbar tilbakeholdingstid, som definert i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082).3
+Behovet for stoffet for å unngå at måldyr lider unødig eller for å garantere sikkerheten for dem som behandler dyrene, kan være relevante faktorer å ta hensyn til i tilfeller der det er mangel på praktiske behandlingsalternativer. Disse hensynene kan berettige at selv opplysninger som ikke er fullstendige, godtas i samsvar med anbefalingene i Byråets veiledning «*Guideline on safety and residue data requirements for pharmaceutical veterinary medicinal products intended for minor use or minor species (MUMS)/limited market*».[^2] Det kan også tas hensyn til disse faktorene i forbindelse med behovet for å fastsette øvre grenseverdier på nivåer som vil gjøre det mulig å utvikle et produkt med en praktisk gjennomførbar tilbakeholdingstid, som definert i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082).[^3]
 
 II.2.**Teknologiske aspekter ved næringsmiddel- og fôrproduksjon**
 
@@ -2340,7 +2340,7 @@ Ettersom den metoden som brukes for å fastsette øvre grenseverdier for plantev
 
 II.6.5.
 
-For stoffer med doble bruksområder som brukes som biocider i husdyrhold, skal retningslinjene for risikokarakterisering og vurdering av øvre grenseverdier for biocider utarbeidet av Komiteen for veterinærpreparater4 følges.
+For stoffer med doble bruksområder som brukes som biocider i husdyrhold, skal retningslinjene for risikokarakterisering og vurdering av øvre grenseverdier for biocider utarbeidet av Komiteen for veterinærpreparater[^4] følges.
 
 II.6.6.
 
@@ -2366,7 +2366,7 @@ VURDERINGER AV EN MULIG EKSTRAPOLERING AV ØVRE GRENSEVERDIER
 
 III.1.
 
-Ekstrapolering av øvre grenseverdier skal vurderes i samsvar med kravene fastsatt i kommisjonsforordning [(EU) 2017/880](eu/32017r0880).5
+Ekstrapolering av øvre grenseverdier skal vurderes i samsvar med kravene fastsatt i kommisjonsforordning [(EU) 2017/880](eu/32017r0880).[^5]
 
 III.2.
 
@@ -2403,19 +2403,19 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)1, særlig artikkel 18, artikkel 19 nr. 3 og artikkel 24 nr. 4, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)[^1], særlig artikkel 18, artikkel 19 nr. 3 og artikkel 24 nr. 4, og
 
 ut fra følgende betraktninger:
 
 1. Dersom det er nødvendig med henblikk på offentlig kontroll av næringsmidler av animalsk opprinnelse, kan Kommisjonen fastsette referanseverdier (heretter kalt «referanseverdier for tiltak») for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse som det ikke er fastsatt øvre grenseverdier for restmengder for. Referanseverdiene for tiltak bør få anvendelse på næringsmidler av animalsk opprinnelse som importeres fra tredjeland, og på næringsmidler av animalsk opprinnelse som produseres i Unionen.
-2. På anmodning fra Kommisjonen har EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden (CONTAM) vedtatt retningslinjer for metodologiske prinsipper og vitenskapelige metoder som skal tas i betraktning ved vurderingen av om referanseverdiene for tiltak er sikre (heretter kalt «EFSAs retningslinjer»)2. EFSAs retningslinjer inneholder en beskrivelse av en prosess for å vurdere om den analytiske konsentrasjonen av et farmakologisk virksomt stoff, som kan bestemmes av offentlige kontrollaboratorier ved hjelp av en validert analysemetode, er lav nok til å sikre et tilstrekkelig vern av menneskers helse.
+2. På anmodning fra Kommisjonen har EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden (CONTAM) vedtatt retningslinjer for metodologiske prinsipper og vitenskapelige metoder som skal tas i betraktning ved vurderingen av om referanseverdiene for tiltak er sikre (heretter kalt «EFSAs retningslinjer»)[^2]. EFSAs retningslinjer inneholder en beskrivelse av en prosess for å vurdere om den analytiske konsentrasjonen av et farmakologisk virksomt stoff, som kan bestemmes av offentlige kontrollaboratorier ved hjelp av en validert analysemetode, er lav nok til å sikre et tilstrekkelig vern av menneskers helse.
 3. I EFSAs retningslinjer angis det også i hvilke situasjoner EFSA skal foreta en stoffspesifikk risikovurdering i samsvar med forordning [(EF) nr. 470/2009](eu/32009r0470). For å sikre et tilstrekkelig helsevernnivå bør det foretas stoffspesifikke risikovurderinger av farmakologisk virksomme stoffer som forårsaker bloddyskrasier (aplastisk anemi) eller allergi (bortsett fra hudsensibilisering), eller som er høypotente kreftframkallende stoffer eller uorganiske stoffer.
 4. Det bør derfor vedtas metodologiske prinsipper og vitenskapelige metoder for å vurdere om referanseverdiene for tiltak er sikre.
-5. Ved kommisjonsvedtak [2002/657/EF](eu/32002d0657)3 ble det fastsatt minstekrav til yteevne for analysemetoder som brukes til påvisning av et begrenset antall stoffer som det ikke er tillatt å bruke, eller som er uttrykkelig forbudt i Unionen. Disse minstekravene til yteevne svarer til den gjennomsnittlige verdien over hvilken påvisning av et stoff eller restmengder av det kan anses som metodologisk signifikant. Minstekravene til yteevne får anvendelse på matrisene angitt i vedlegg II til nevnte vedtak.
-6. I henhold til kommisjonsvedtak [2005/34/EF](eu/32005d0034)4 skal minstekravene til yteevne fastsatt i vedtak [2002/657/EF](eu/32002d0657) brukes som referanseverdier for tiltak, uansett hvilken næringsmiddelmatrise som testes for næringsmidler av animalsk opprinnelse som er importert fra tredjeland. Næringsmidler av animalsk opprinnelse som inneholder restmengder av et farmakologisk virksomt stoff i en konsentrasjon som er lik eller høyere enn referanseverdien for tiltak, skal anses for å ikke være i samsvar med Unionens regelverk, mens næringsmidler av animalsk opprinnelse som inneholder konsentrasjoner som er lavere enn referanseverdiene for tiltak, ikke skal forbys å komme inn i næringsmiddelkjeden. Fastsettelsen av referanseverdier for tiltak bør imidlertid ikke under noen omstendigheter brukes som et påskudd for å tolerere ulovlig bruk av forbudte eller ikke-tillatte stoffer. Alle restmengder av slike stoffer i næringsmidler av animalsk opprinnelse bør derfor anses som uønsket. Referanseverdiene for tiltak fastsatt i vedtak [2005/34/EF](eu/32005d0034) er utelukkende basert på analytiske overveielser der det tas hensyn til den laveste restmengdekonsentrasjonen som kan påvises og bekreftes ved hjelp av en validert analysemetode, uten hensyn til det aktuelle stoffets toksiske potensial.
-7. For kloramfenikol, malakittgrønt og nitrofuranmetabolitter er referanseverdier for tiltak fastsatt i vedtak [2005/34/EF](eu/32005d0034). For disse stoffene har EFSA imidlertid fastslått at det i henhold til EFSAs retningslinjer er behov for en stoffspesifikk risikovurdering i stedet for standardmetoden for risikovurdering. På anmodning fra Kommisjonen har EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden vedtatt vitenskapelige uttalelser om kloramfenikol i næringsmidler og fôr5, om nitrofuraner og nitrofuranmetabolitter i næringsmidler6 og om malakittgrønt i næringsmidler7.
+5. Ved kommisjonsvedtak [2002/657/EF](eu/32002d0657)[^3] ble det fastsatt minstekrav til yteevne for analysemetoder som brukes til påvisning av et begrenset antall stoffer som det ikke er tillatt å bruke, eller som er uttrykkelig forbudt i Unionen. Disse minstekravene til yteevne svarer til den gjennomsnittlige verdien over hvilken påvisning av et stoff eller restmengder av det kan anses som metodologisk signifikant. Minstekravene til yteevne får anvendelse på matrisene angitt i vedlegg II til nevnte vedtak.
+6. I henhold til kommisjonsvedtak [2005/34/EF](eu/32005d0034)[^4] skal minstekravene til yteevne fastsatt i vedtak [2002/657/EF](eu/32002d0657) brukes som referanseverdier for tiltak, uansett hvilken næringsmiddelmatrise som testes for næringsmidler av animalsk opprinnelse som er importert fra tredjeland. Næringsmidler av animalsk opprinnelse som inneholder restmengder av et farmakologisk virksomt stoff i en konsentrasjon som er lik eller høyere enn referanseverdien for tiltak, skal anses for å ikke være i samsvar med Unionens regelverk, mens næringsmidler av animalsk opprinnelse som inneholder konsentrasjoner som er lavere enn referanseverdiene for tiltak, ikke skal forbys å komme inn i næringsmiddelkjeden. Fastsettelsen av referanseverdier for tiltak bør imidlertid ikke under noen omstendigheter brukes som et påskudd for å tolerere ulovlig bruk av forbudte eller ikke-tillatte stoffer. Alle restmengder av slike stoffer i næringsmidler av animalsk opprinnelse bør derfor anses som uønsket. Referanseverdiene for tiltak fastsatt i vedtak [2005/34/EF](eu/32005d0034) er utelukkende basert på analytiske overveielser der det tas hensyn til den laveste restmengdekonsentrasjonen som kan påvises og bekreftes ved hjelp av en validert analysemetode, uten hensyn til det aktuelle stoffets toksiske potensial.
+7. For kloramfenikol, malakittgrønt og nitrofuranmetabolitter er referanseverdier for tiltak fastsatt i vedtak [2005/34/EF](eu/32005d0034). For disse stoffene har EFSA imidlertid fastslått at det i henhold til EFSAs retningslinjer er behov for en stoffspesifikk risikovurdering i stedet for standardmetoden for risikovurdering. På anmodning fra Kommisjonen har EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden vedtatt vitenskapelige uttalelser om kloramfenikol i næringsmidler og fôr[^5], om nitrofuraner og nitrofuranmetabolitter i næringsmidler[^6] og om malakittgrønt i næringsmidler[^7].
 8. For disse stoffene bør det derfor fastsettes referanseverdier for tiltak der det både tas hensyn til de analytiske overveielsene som gjelder stoffene, og stoffenes toksiske potensial. Med tanke på de usikkerhetene som EFSA har identifisert i sine risikovurderinger av kloramfenikol og nitrofuranmetabolitter, bør analysemetodenes sensitivitet forbedres for å gjøre det mulig å håndheve lavest mulige konsentrasjoner.
-9. Dersom det påvises restmengder av forbudte eller ikke-tillatte stoffer, også under de fastsatte referanseverdiene for tiltak, kan det være et tegn på feilaktig bruk av disse stoffene. I henhold til forordning [(EF) nr. 470/2009](eu/32009r0470) skal medlemsstatene og Kommisjonen, alt etter hva som er relevant, treffe oppfølgingstiltak i slike tilfeller. For dette formålet bør medlemsstatene og Kommisjonen ha tilgang til informasjon via hurtigvarslingssystemet for næringsmidler og fôr8.
+9. Dersom det påvises restmengder av forbudte eller ikke-tillatte stoffer, også under de fastsatte referanseverdiene for tiltak, kan det være et tegn på feilaktig bruk av disse stoffene. I henhold til forordning [(EF) nr. 470/2009](eu/32009r0470) skal medlemsstatene og Kommisjonen, alt etter hva som er relevant, treffe oppfølgingstiltak i slike tilfeller. For dette formålet bør medlemsstatene og Kommisjonen ha tilgang til informasjon via hurtigvarslingssystemet for næringsmidler og fôr[^8].
 10. For å gi offentlige laboratorier mulighet til å tilpasse sine metoder til de oppdaterte referanseverdiene for tiltak for kloramfenikol, malakittgrønt og nitrofuranmetabolitter bør det kunne gå tre år før disse senkede referanseverdiene for tiltak får anvendelse.
 11. Ettersom denne forordningene tar over, oppdaterer og utvider bestemmelsene i vedtak [2005/34/EF, bør vedtak 2005/34/EF](eu/32005d0034) oppheves av hensyn til rettssikkerheten.
 12. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
@@ -2449,7 +2449,7 @@ Ved denne forordningen fastsettes følgende:
 
 ### Artikkel 2. Regler for fastsettelse av referanseverdier for tiltak
 
-Referanseverdiene for tiltak skal fastsettes på det laveste nivået som kan oppnås ved analyse på de offentlige kontrollaboratoriene som er utpekt i samsvar med artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)9.
+Referanseverdiene for tiltak skal fastsettes på det laveste nivået som kan oppnås ved analyse på de offentlige kontrollaboratoriene som er utpekt i samsvar med artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)[^9].
 
 Referanseverdiene for tiltak skal gjennomgås regelmessig for å sikre at de svarer til de laveste nivåene som kan oppnås, idet det tas hensyn til den seneste vitenskapelige utviklingen.
 
@@ -2494,7 +2494,7 @@ Næringsmidler av animalsk opprinnelse som inneholder restmengder av et farmakol
 
 ### Artikkel 6. Informasjonsutveksling og undersøkelser ved bekreftet forekomst av et forbudt eller ikke-tillatt stoff
 
-Dersom resultatene av den offentlige kontrollen, herunder analytiske tester, påviser restmengder av forbudte eller ikke-tillatte stoffer på nivåer som er høyere enn, lik eller lavere enn referanseverdiene for tiltak, skal vedkommende myndighet utføre undersøkelsene nevnt i artikkel 137 nr. 2 eller 3 i forordning [(EU) 2017/625](eu/32017r0625) og i artikkel 13, artikkel 16 nr. 2, artikkel 17 og artikkel 22–24 i direktiv [96/23/EF](eu/31996l0023)10 for å fastslå om det har forekommet ulovlig behandling med et forbudt eller ikke-tillatt farmakologisk virksomt stoff.
+Dersom resultatene av den offentlige kontrollen, herunder analytiske tester, påviser restmengder av forbudte eller ikke-tillatte stoffer på nivåer som er høyere enn, lik eller lavere enn referanseverdiene for tiltak, skal vedkommende myndighet utføre undersøkelsene nevnt i artikkel 137 nr. 2 eller 3 i forordning [(EU) 2017/625](eu/32017r0625) og i artikkel 13, artikkel 16 nr. 2, artikkel 17 og artikkel 22–24 i direktiv [96/23/EF](eu/31996l0023)[^10] for å fastslå om det har forekommet ulovlig behandling med et forbudt eller ikke-tillatt farmakologisk virksomt stoff.
 
 Dersom det fastslås manglende overholdelse, skal vedkommende myndighet treffe et eller flere av tiltakene nevnt i artikkel 138 i forordning [(EU) 2017/625](eu/32017r0625) og i artikkel 15 nr. 3, artikkel 17 og artikkel 23–25 i direktiv [96/23/EF](eu/31996l0023).
 
@@ -2541,7 +2541,7 @@ Referanseverdier for tiltak (RPA)
 | --- | --- | --- |
 | Kloramfenikol | 0,15 |  |
 | Malakittgrønt | 0,5 | 0,5 µg/kg for summen av malakittgrønt og leukomalakittgrønt |
-| Nitrofuraner og nitrofuranmetabolitter | 0,512 | 0,5 µg/kg for hver av metabolittene av furazolidon (AOZ eller 3-amino-2-oksazolidinon), furaltadon (AMOZ eller 3-amino-5-metylmorfolin-2-oksazolidinon), nitrofurantoin (AHD eller 1-aminohydantoin), nitrofurazon (SEM eller semikarbazid) og nifursol (DNSH eller 3,5-dinitrosalisylsyrehydrazid) |
+| Nitrofuraner og nitrofuranmetabolitter | 0,5[^1][^2] | 0,5 µg/kg for hver av metabolittene av furazolidon (AOZ eller 3-amino-2-oksazolidinon), furaltadon (AMOZ eller 3-amino-5-metylmorfolin-2-oksazolidinon), nitrofurantoin (AHD eller 1-aminohydantoin), nitrofurazon (SEM eller semikarbazid) og nifursol (DNSH eller 3,5-dinitrosalisylsyrehydrazid) |
 
 1 På grunn av den naturlige forekomsten av SEM i kreps på et nivå som ligger over referanseverdien for tiltak, er bare nivåer av AOZ, AMOZ, AHD og DNSH over referanseverdien for tiltak en klar indikasjon på ulovlig bruk av nitrofuraner og deres metabolitter. Referanseverdien for tiltak på 0,5 μg/kg for SEM i kreps får bare anvendelse når det er konstatert ulovlig bruk av nitro-furazon eller SEM i kreps, dvs. at minst én av de andre nitrofuranmetabolittene er påvist.
 
@@ -2559,11 +2559,11 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådforordning (EF) [nr. 470/2009](eu/32009r0470) av 6. mai om framgangsmåter i Fellesskapet for å fastsette grenseverdier for rester av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, som opphever rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og endrer europaparlaments- og rådsdirektiv nr. [2011/82/EF](eu/31982*2011) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),1 særlig artikkel 27 nr. 1, og
+under henvisning til europaparlaments- og rådforordning (EF) [nr. 470/2009](eu/32009r0470) av 6. mai om framgangsmåter i Fellesskapet for å fastsette grenseverdier for rester av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, som opphever rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og endrer europaparlaments- og rådsdirektiv nr. [2011/82/EF](eu/31982*2011) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726),[^1] særlig artikkel 27 nr. 1, og
 
 ut fra følgende betraktninger:
 
-1. For å verne menneskers helse ble farmakologisk virksomme stoffer, på grunnlag av den vitenskapelige vurderingen av disse stoffenes sikkerhet, klassifisert i fire vedlegg til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en fremgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse.2 Vedlegg I inneholdt stoffer som det ble fastsatt en grenseverdi for rester for, vedlegg II inneholdt stoffer som det ikke var nødvendig å fastsette en grenseverdi for rester for, vedlegg III inneholdt stoffer som det ble fastsatt en midlertidig grenseverdi for rester for, og vedlegg IV inneholdt stoffer som det ikke kunne fastsettes en grenseverdi for rester for, fordi restene av disse stoffene, uansett mengde, utgjør en fare for menneskers helse.
+1. For å verne menneskers helse ble farmakologisk virksomme stoffer, på grunnlag av den vitenskapelige vurderingen av disse stoffenes sikkerhet, klassifisert i fire vedlegg til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en fremgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse.[^2] Vedlegg I inneholdt stoffer som det ble fastsatt en grenseverdi for rester for, vedlegg II inneholdt stoffer som det ikke var nødvendig å fastsette en grenseverdi for rester for, vedlegg III inneholdt stoffer som det ble fastsatt en midlertidig grenseverdi for rester for, og vedlegg IV inneholdt stoffer som det ikke kunne fastsettes en grenseverdi for rester for, fordi restene av disse stoffene, uansett mengde, utgjør en fare for menneskers helse.
 2. Av forenklingshensyn er det nødvendig å oppføre disse farmakologisk virksomme stoffene og deres klassifisering med hensyn til grenseverdier for rester i en en kommisjonsforordning. Ettersom denne klassifiseringen følger klassifiseringssystemet i forordning [(EF) nr. 470/2009](eu/32009r0470), bør det også tas høyde for klassifiseringen når det gjelder muligheten for å gi disse farmakologisk virksomme stoffene til dyr som brukes til produksjon av næringsmidler.
 3. Eksisterende opplysninger om den terapeutiske klassifiseringen av farmakologisk virksomme stoffer som finnes i vedleggene til forordning [(EØF) nr. 2377/90](eu/31990r2377), bør oppføres i en kolonne over terapeutisk klassifisering av stoffer.
 4. Av hensyn til brukervennligheten bør alle farmakologisk virksomme stoffer oppføres i et vedlegg i alfabetisk rekkefølge. Av klarhetshensyn bør det utarbeides to forskjellige tabeller: én for tillatte stoffer, oppført i vedlegg I, II og III til forordning [(EØF) nr. 2377/90](eu/31990r2377), og én for forbudte stoffer, oppført i vedlegg IV til denne forordning.

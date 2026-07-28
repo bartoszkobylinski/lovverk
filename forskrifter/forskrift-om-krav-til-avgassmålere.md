@@ -15,7 +15,7 @@ xml_hash: "1a0990c3bc97c1007d41458e0aa9ce8b5d4c65d7c1edf60e98bde31a26ccf8de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -296,7 +296,7 @@ Oppløsningen skal være lik eller én størrelsesorden høyere enn verdiene vis
 
 |  | *CO* | *CO2* | *O2* | *HC* |
 | --- | --- | --- | --- | --- |
-| *Klasse 0 og klasse I* | 0,01 % vol. | 0,1 % vol. | 1 | 1 ppm vol. |
+| *Klasse 0 og klasse I* | 0,01 % vol. | 0,1 % vol. | [^1] | 1 ppm vol. |
 
 1 0,01 % vol. for målte verdier under eller lik 4 % vol, ellers 0,1 % vol.
 

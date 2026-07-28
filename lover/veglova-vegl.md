@@ -15,7 +15,7 @@ xml_hash: "7ba3671112a82f3ab3c42a9a3253a0c0dbe3784f525564264649ed3b2d503ccd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -190,7 +190,7 @@ Departementet kan gi utfyllande reglar om fastsetting av tvangsmulkt.
 
 ### § 11 f. Handsaming av personopplysningar
 
-Vegstyremaktene etter [kapittel II](lov/1963-06-21-23/kapii) og tilsynsmyndigheita etter [kapittel II A](lov/1963-06-21-23/kapiia) kan handsame1 personopplysningar2 når det er naudsynt for å utføre oppgåver gitt i eller i medhald av lova her, eller for å oppfylle internasjonale plikter under verkeområdet til lova. Det same gjeld eit statleg utbyggingsselskap for veg som er tildelt oppgåver i medhald av [§ 9](lov/1963-06-21-23/§9) første ledd.
+Vegstyremaktene etter [kapittel II](lov/1963-06-21-23/kapii) og tilsynsmyndigheita etter [kapittel II A](lov/1963-06-21-23/kapiia) kan handsame[^1] personopplysningar[^2] når det er naudsynt for å utføre oppgåver gitt i eller i medhald av lova her, eller for å oppfylle internasjonale plikter under verkeområdet til lova. Det same gjeld eit statleg utbyggingsselskap for veg som er tildelt oppgåver i medhald av [§ 9](lov/1963-06-21-23/§9) første ledd.
 
 Departementet kan gi forskrift om handsaming av personopplysningar, slik som føresegner om formålet med handsaminga, kva for opplysningar som kan handsamast, korleis opplysningar skal handsamast, vilkår for eventuell utlevering, bruk av datahandsamar, krav til sletting og krav til samanstillingar av personopplysningar til bruk for forsking og statistiske formål.
 
@@ -705,7 +705,7 @@ Blir ein veg tatt opp som riksveg eller fylkesveg etter [§§ 3](lov/1963-06-21-
 
 ### § 66
 
-Denne lova tar til å gjelde frå den dagen Kongen fastsetter det.1
+Denne lova tar til å gjelde frå den dagen Kongen fastsetter det.[^1]
 
 Det kan fastsettast at visse deler av lova skal ta til å gjelde frå eit tidligare eller seinare tidspunkt enn andre. Det kan òg fastsettast at lova skal ta til å gjelde for einskilde fylke frå eit seinare tidspunkt enn for andre.
 

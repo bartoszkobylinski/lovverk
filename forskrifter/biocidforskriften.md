@@ -16,7 +16,7 @@ xml_hash: "c3a9141a1b6ca87de0a588d10adc9a846da805c648bf8baf1694e412be190187"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-23T06:28:35.687988+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -338,7 +338,7 @@ Denne forskrift gjelder fra 18. april 2017. Fra samme tidspunkt oppheves [forskr
 
 > Endret ved forskrifter [10 feb 2022 nr. 234](forskrift/2022-02-10-234), [22 april 2024 nr. 652](forskrift/2024-04-22-652), [6 aug 2025 nr. 1598](forskrift/2025-08-06-1598).
 
-### A. Gebyrer for søknadsvurdering\*
+### A. Gebyrer for søknadsvurdering[^\*]
 
 \* Alle artikler refererer til forordning [(EU) nr. 528/2012](eu/32012r0528) (BPR).
 
@@ -454,7 +454,7 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 
 ## Vedlegg 2. Aktive stoffer som er godkjent for bruk i angitt(e) produkttype(r)
 
-| *Aktivt stoff* | *CAS-nr.* | *Produkttype(r)* | *Frist for søknad om produkt-*<br>*godkjenning*1 | *Godkjennings-*<br>*vedtak*2 | *Inntatt i EØS-avtalen vedlegg II kapittel XV* |
+| *Aktivt stoff* | *CAS-nr.* | *Produkttype(r)* | *Frist for søknad om produkt-*<br>*godkjenning*[^1] | *Godkjennings-*<br>*vedtak*[^2] | *Inntatt i EØS-avtalen vedlegg II kapittel XV* |
 | --- | --- | --- | --- | --- | --- |
 | Diklofluanid | 1085-98-9 | 8 | 1.3.2009 | [2007/20/EF](eu/32007l0020) | Nr. 12n |
 | Karbondioksid | 124-38-9 | 14 | 1.11.2009 | [2007/70/EF](eu/32007l0070) | Nr. 12n |
@@ -466,8 +466,8 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Tiabendazol | 148-79-8 | 8 | 1.7.2010 | [2008/85/EF](eu/32008l0085) | Nr. 12n |
 | Tebukonazol | 107534-96-3 | 8 | 1.4.2010 | [2008/86/EF](eu/32008*0086) | Nr. 12n |
 | Fenpropimorf | 67564-91-4 | 8 | 1.7.2011 | [2009/86/EF](eu/32009l0086) | Nr. 12n |
-| Indoksakarb | 173584-44-6 | 18 | 3 | [2009/87/EF](eu/32009l0087) | Nr. 12n |
-| Tiakloprid | 111988-49-9 | 8 | 3 | [2009/88/EF](eu/32009l0088) | Nr. 12n |
+| Indoksakarb | 173584-44-6 | 18 | [^3] | [2009/87/EF](eu/32009l0087) | Nr. 12n |
+| Tiakloprid | 111988-49-9 | 8 | [^3] | [2009/88/EF](eu/32009l0088) | Nr. 12n |
 | Nitrogen | 7727-37-9 | 18 | 1.9.2011 | [2009/89/EF](eu/32009l0089) | Nr. 12n |
 | Dinatriumtetraborat, vannfritt | 1330-43-4 | 8 | 1.9.2011 | [2009/91/EF](eu/32009l0091) | Nr. 12n |
 | Kloralose | 15879-93-3 | 14 | 1.7.2011 | [2009/93/EF](eu/32009l0093) | Nr. 12n |
@@ -501,9 +501,9 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Margosa-ekstrakt | 84696-25-3 | 18 | 1.05.2014 | [2012/15/EU](eu/32012l0015) | Nr. 12n |
 | Hydrogenklorid |  | 2 | 1.05.2014 | [2012/16/EU](eu/32012*0016) | Nr. 12n |
 | Flufenoksuron | 101463-69-8 | 8 | 1.02.2014 | [2012/20/EU](eu/32012l0020) | Nr. 12n |
-| DDA-karbon | 894406-76-9 | 8 | 3 | [2012/22/EU](eu/32012l0022) | Nr. 12n |
+| DDA-karbon | 894406-76-9 | 8 | [^3] | [2012/22/EU](eu/32012l0022) | Nr. 12n |
 | Cis-Tricos-9-ene | 27519-02-4 | 19 | 1.10.2014 | [2012/38/EU](eu/32012l0038) | Nr. 12n |
-| Dinatriumtetraborat4 | 1330-43-4, 12179-04-3, 1303-96-4 | 8 | 1.9.2011 | [2012/40/EU](eu/32012*0040) | Nr. 12n |
+| Dinatriumtetraborat[^4] | 1330-43-4, 12179-04-3, 1303-96-4 | 8 | 1.9.2011 | [2012/40/EU](eu/32012*0040) | Nr. 12n |
 | Nonansyre | 112-05-0 | 2 | 1.10.2014 | [2012/41/EU](eu/32012l0041) | Nr. 12n |
 | Hydrogencyanid, blåsyre | 74-90-8 | 8, 14, 18 | 1.10.2014 | [2012/42/EU](eu/32012l0042) | Nr. 12n |
 | Tiametoksam | 153719-23-4 | 18 | 1.02.2015 | [2013/03/EU](eu/32013l0003) | Nr. 12n |
@@ -536,8 +536,8 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | DCOIT | 64359-81-5 | 21 | 01.01.2016 | [2014/437/EU](eu/32014r0437) | Nr. 12ny |
 | Cyprokonazol | 94361-06-5 | 8 | 01.11.2015 | [2014/438/EU](eu/32014r0438) | Nr. 12nz |
 | Permetrin | 52645-53-1 | 8, 18 | 01.05.2016 | (EU) [nr. 1090/2014](eu/32014r1090) | Nr. 12nzb |
-| Tralopyril | 122454-29-9 | 21 | 3 | (EU) [nr. 1091/2014](eu/32014r1091) | Nr. 12nzc |
-| Karbondioksid | 124-38-9 | 15 | 3 | (EU) [2015/292](eu/32015r0292) | Nr. 12zzr |
+| Tralopyril | 122454-29-9 | 21 | [^3] | (EU) [nr. 1091/2014](eu/32014r1091) | Nr. 12nzc |
+| Karbondioksid | 124-38-9 | 15 | [^3] | (EU) [2015/292](eu/32015r0292) | Nr. 12zzr |
 | Alfacypermetrin | 67375-30-8 | 18 | 01.07.2016 | (EU) [2015/405](eu/32015r0405) | Nr. 12zzs |
 | *Bacillus thuringiensis* subsp. israelensis, strain SA3A | – | 18 | 01.07.2016 | (EU) [2015/406](eu/32015r0406) | Nr. 12zzt |
 | Propan-2-ol | 67-63-0 | 1, 2, 4 | 01.07.2016 | (EU) [2015/407](eu/32015r0407) | Nr. 12zzu |
@@ -546,14 +546,14 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Kobberpyrition | 14915-37-8 | 21 | 01.10.2016 | (EU) [2015/984](eu/32015r0984) | Nr. 12zzza |
 | Klotianidin | 210880-92-5 | 18 | 01.10.2016 | (EU) [2015/985](eu/32015r0985) | Nr. 12zzzb |
 | Propikonazol | 60207-90-1 | 7 | 1.12.2016 | (EU) [2015/1609](eu/32015r1609) | Nr. 12nnf |
-| *Pythium oligandrum*, stamme M1 | – | 10 | 3 | (EU) [2015/1610](eu/32015r1610) | Nr. 12nng |
+| *Pythium oligandrum*, stamme M1 | – | 10 | [^3] | (EU) [2015/1610](eu/32015r1610) | Nr. 12nng |
 | 2-metyl-2H-isotiazol-3-on (MIT) | 2682-20-4 | 13 | 1.10.2016 | (EU) [2015/1726](eu/32015r1726) | Nr. 12nnh |
 | 5-klor-2-(4-klorfenoksy)fenol (DCPP) | 3380-30-1 | 1, 2, 4 | 1.12.2016 | (EU) [2015/1727](eu/32015r1727) | Nr. 12nni |
 | IPBC | 55406-53-6 | 13 | 1.12.2016 | (EU) [2015/1728](eu/32015r1728) | Nr. 12nnj |
 | Kaliumsorbat | 24634-61-5 | 8 | 1.12.2016 | (EU) [2015/1729](eu/32015r1729) | Nr. 12nnk |
 | Hydrogenperoksid | 7722-84-1 | 1, 2, 3, 4, 5, 6 | 1.2.2017 | (EU) [2015/1730](eu/32015r1730) | Nr. 12nnl |
-| Medetomidin | 86347-14-0 | 21 | 3 | (EU) [2015/1731](eu/32015r1731) | Nr. 12nnm |
-| Folpet | 133-07-3 | 6 | 3 | (EU) [2015/1757](eu/32015r1757) | Nr. 12nnq |
+| Medetomidin | 86347-14-0 | 21 | [^3] | (EU) [2015/1731](eu/32015r1731) | Nr. 12nnm |
+| Folpet | 133-07-3 | 6 | [^3] | (EU) [2015/1757](eu/32015r1757) | Nr. 12nnq |
 | Folpet | 133-07-3 | 7, 9 | 1.10.2016 | (EU) [2015/1758](eu/32015r1758) | Nr. 12nnr |
 | Glutaraldehyd | 111-30-8 | 2, 3, 4, 6, 11, 12 | 1.10.2016 | (EU) [2015/1759](eu/32015r1759) | Nr. 12nns |
 | Formaldehyd frigitt fra N,N'-<br>metylenbismorfolin (MBM) | 5625-90-1 | 6, 13 | 1.04.2017 | (EU) [2015/1981](eu/32015r1981) | Nr. 12nnt |
@@ -625,7 +625,7 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Aktivt klor frigjort fra hypoklorsyre | 7790-92-3 | 2, 3, 4, 5 | 01.07.2022 | [(EU) 2021/347](eu/32021r0347) | Nr. 12zzzzzzw |
 | Karbendazim | 10605-21-7 | 7, 10 | 01.02.2022 | [(EU) 2021/348](eu/32021r0348) | Nr. 12zzzzzzx |
 | Aktivt klor generert fra natriumklorid ved elektrolyse | 7647-14-5 | 1 | 01.07.2021 | [(EU) 2021/364](eu/32021r0364) | Nr. 12zzzzzzzb |
-| Aktivt klor frigjort fra hypoklorsyre | 7790-92-3 | 1 | 3 | [(EU) 2021/365](eu/32021r0365) | Nr. 12zzzzzzzc |
+| Aktivt klor frigjort fra hypoklorsyre | 7790-92-3 | 1 | [^3] | [(EU) 2021/365](eu/32021r0365) | Nr. 12zzzzzzzc |
 | didecyldimetylammoniumklorid | 7173-51-5 | 3, 4 | 01.11.2022 | 2021/1045 | 12zzzzzzze |
 | alkyl (C12-16) dimetylbenzylammoniumklorid | 68424-85-1 | 3, 4 | 01.11.2022 | 2021/1063 | 12zzzzzzzf |
 | Kreosot | 8001-58-9 | 8 | 01.05.2013 | [2011/71/EF](eu/32011l0071)<br>[(EU) 2022/1950](eu/32022r1950) | Nr. 12n<br>Nr. 12zzzzzzzp |
@@ -650,7 +650,7 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Pralletrin | 23031-36-9 | 18 | 01.03.2026 | [(EU) 2024/2576](eu/32024*2576) | Nr. 12zzzzzzzzzzzd |
 | Sølvsinkzeolitt | 130328-20-0 | 2, 7, 9 | 01.03.2026 | [(EU) 2024/2635](eu/32024*2635) | Nr. 12zzzzzzzzzzze |
 | Reaksjonsprodukter av borsyre med didecylamin og etylenoksid (polymer betain) | 214710-34-6 | 8 | 01.06.2026 | [(EU) 2024/2964](eu/32024r2964) | Nr. 12zzzzzzzzzzzl |
-| Dinotefuran | 165252-70-0 | 18 | 3 | [(EU) 2015/416](eu/32015r0416)<br>[(EU) 2025/457](eu/32025r0457) | Nr. 12zzw<br>Nr. 12zzzzzzzzzzzy |
+| Dinotefuran | 165252-70-0 | 18 | [^3] | [(EU) 2015/416](eu/32015r0416)<br>[(EU) 2025/457](eu/32025r0457) | Nr. 12zzw<br>Nr. 12zzzzzzzzzzzy |
 | 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 6, 13 | 01.10.2026 | [(EU) 2025/929](eu/32025r0929) | Nr. 12zzzzzzzzzzzzm |
 | 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 6 | 01.11.2026 | [(EU) 2025/937](eu/32025r0937) | Nr. 12zzzzzzzzzzzzn |
 | Maursyre | 64-18-6 | 6 | 01.10.2026 | [(EU) 2025/1043](eu/32025r1043) | Nr. 12zzzzzzzzzzzzo |
@@ -1121,102 +1121,102 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | N,N-(decan-1,10-diydi-1(4H)-pyridyl-4-yliden)bis (oktylammonium)diklorid | 70775-75-6 | 1 | 01/02/2014 | [2013/85/EU](eu/32013d0085) | Nr. 12zzn |
 | Salicylsyre | 69-72-7 | 1 | 01/02/2014 | [2013/85/EU](eu/32013d0085) | Nr. 12zzn |
 | Formaldehyd | 50-00-0 | 20 | 01/07/2015 | [2013/204/EU](eu/32013d0204) | Nr. 12zzo |
-| Bis[1-cyclohexyl-1,2-di(hydroksy-kappa.O) diazeniumato(2-)]-kobber | 312600-89-8 | 7, 9, 10 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Nonansyre | 112-05-0 | 10 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Glutaral | 111-30-8 | 1, 13 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Disølvoksid | 20667-12-3 | 11 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| 4,4-demetyloksazolidin | 51200-87-4 | 6, 12, 13 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| 2-butanon, peroksid | 1338-23-4 | 3, 6 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Polymer av formaldehyd og akrolein | 26781-23-7 | 3 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Sølvklorid | 7783-90-6 | 3, 4, 5, 13 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Furutre, ekstrakt | 94266-48-5 | 10 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Triklosan | 3380-34-5 | 2, 7, 9 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| 2-fenoksyetanol | 122-99-6 | 3 | 15.05.20151 | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
-| Triflumuron | 64628-44-0 | 18 | 28.09.20161 | (EU) [2015/1736](eu/32015d1736) | Nr. 12nnn |
-| Cybutryn | 28159-98-0 | 21 | 17.02.20171 | (EU) [2016/107](eu/32016d0107) | Nr. 12zzzd |
-| 2-butanon, peroksid | 1338-23-4 | 1, 2 | 17.02.20171 | (EU) [2016/108](eu/32016d0108) | Nr. 12zzze |
-| PHMB (1600; 1.8) | 27083-27-8 | 1, 6, 9 | 17.02.20171 | (EU) [2016/109](eu/32016d0109) | Nr. 12zzzf |
-| Triklosan | 3380-34-5 | 1 | 17.02.20171 | (EU) [2016/110](eu/32016d0110) | Nr. 12zzzg |
-| 1,3-diklor-5,5-dimetylhydantoin (omdefinert i hht. post 152)2 | 118-52-5 | 11 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Cetalkoniumklorid (se post 948)2 | 122-18-9 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Benzyldimetyl(oktadecyl)ammoniumklorid (se post 948)2 | 122-19-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Benzododeciniumklorid (se post 948)2 | 139-07-1 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Miristalkoniumklorid (se post 948)2 | 139-08-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Didecyldimetylammoniumbromid (se post 949)2 | 2390-68-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Dimetyldioktylammoniumklorid (se post 949)2 | 5538-94-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Benzyldodecyldimetylammonium bromid (se post 948)2 | 7281-04-1 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Silisiumdioksid – amorft | 7631-86-9 | 18 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kobbersulfat | 7758-98-7 | 2 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| p-[(dijodmetyl)sulfonyl]toluen | 20018-09-1 | 2 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Decyldimetyloktylammoniumklorid (se post 949)2 | 32426-11-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Benzyldimetyloleylammonium chloride (se post 948)2 | 37139-99-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| 3-fenoksybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-diklorvinyl)-2,2-dimetylsyklopropankarboksylat (Permetrin) | 52645-53-1 | 9 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzylkokosalkyldimetyl, klorider (se post 948)2 | 61789-71-7 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, dikokosalkyldimetyl, klorider (se post 949)2 | 61789-77-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, bis(hydrogenert talgalkyl)dimetyl, klorider (se post 949)2 | 61789-80-8 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C8-18-alkyldimetyl, klorider (se post 948)2 | 63449-41-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, di-C6-12-alkyldimetyl, klorider (se post 949)2 | 68391-06-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C8-16-alkyldimetyl, klorider (se post 948)2 | 68424-84-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C10-16-alkyldimetyl, klorider (se post 948)2 | 68989-00-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 2 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, di-C8-18-alkyldimetyl, klorider (se post 949)2 | 73398-64-8 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Dihydrogenbis[monoperoksyftalato(2-)-O1,OO1]magnesat(2-) heksahydrat | 14915-85-4 | 2 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Margosaekstrakt som ikke er fra kjerner av Azadirachta indica ekstrahert med vann og videre bearbeidet med organiske løsemidler og ikke fra kaldpresset olje fra kjerner av Azadirachta Indica ekstrahert med superkritisk karbondioksid | 84696-25-3 | 18 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C8-18-alkyldimetyl, bromider (se post 948)2 | 91080-29-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| 1,3-diklor-5-etyl-5-metylimidazolidin-2,4-dion (omdefinert i hht. post 777)2 | 89415-87-2 | 11 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| 1-(4-klorfenyl)-4,4-dimetyl-3-(1,2,4-triazol-1-ylmetyl)pentan-3-ol (tebukonazol) | 107534-96-3 | 9 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Reaksjonsprodukt av dimetyladipat, dimetylglutarat, dimetylsuksinat med hydrogenperoksid (perestan) | – | 2 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Alkyl-benzyl-dimetylammoniumklorid/ benzalkoniumklorid (se post 948)2 | 8001-54-5 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser (dialkyldimetyl (alkyl fra C6-C18, mettet og umettet, og talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller metylsulfater) (DDAC) | – | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser (alkyltrimetyl (alkyl fra C8-C18, mettet og umettet, og talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller metylsulfater) (TMAC) | – | 8 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser (benzylalkyldimetyl (alkyl fra C8-C22, mettet og umettet, talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller hydroksider) (BKC) | – | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| 3-fenoksybenzyl (1R)-cis,trans-2,2-dimetyl-3-(2-metylprop-1-enyl)syklopropankarboksylat (d-fenotrin) | 188023-86-1 | 18 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C12-16-alkyldimetyl, klorider (andre enn stoffet omfattet av post 671)2 | – | 1, 2, 3, 4, 8, 10, 11, 12, 22 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C12-18-alkyldimetyl, klorider (andre enn stoffet omfattet av post 667)2 | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, C12-14-alkyl[(etylfenyl)metyl]dimetyl, klorider (andre enn stoffet omfattet av post 725)2 | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, benzyl-C12-14-alkyldimetyl, klorider (andre enn stoffet omfattet av post 724)2 | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Sølv-sink-aluminium-boronfosfatglass/glassoksid, med sølv- og sinkinnhold | 398477-47-9 | 2, 7, 9 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, di-C8-10-alkyldimetyl, klorider (andre enn stoffet omfattet av post 673)2 | – | 1, 2, 3, 4, 5, 6, 10, 11, 12 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Kvartære ammoniumforbindelser, kokosalkyltrimetyl, klorider (andre enn stoffet omfattet av post 635)2 | – | 8 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| Aluminiumnatriumsilikat-sølv-sink kompleks/sølvsinkzeolitt | 130328-20-0 | 2, 7, 9 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| (±)-1-(.beta.-allyloksy-2,4-diklorfenyletyl)imidazol (teknisk imazalil) | 73790-28-0 | 3 | 28.11.20171 | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
-| PHMB (1600; 1.8) | 27083-27-8 og<br>32289-58-0 | 5 | 31.05.20181 | (EU) [2017/802](eu/32017d0802*) | Nr. 12zzzzp |
-| 2-metyl-1,2-benzisotiazol-3(2H)-on (MBIT) | 2527-66-4 | 13 | 04.08.20181 | (EU) [2017/1282](eu/32017d1282) | Nr. 12zzzzw |
-| PHMB (1415; 4,7) | 32289-58-0 og 1802181-67-4 | 1, 5, 6 | 13.05.20191 | (EU) [2018/619](eu/32018d0619) | Nr. 12zzzzzl |
-| Klorofen | 120-32-1 | 3 | 13.05.20191 | (EU) [2018/622](eu/32018d0622) | Nr. 12zzzzzi |
-| Sitronsyre | 77-92-9 | 1 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Cetylpyridinklorid | 123-03-5 | 2 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Karbondioksid | 124-38-9 | 19 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Natrium-2-bifenylat | 132-27-4 | 1, 2, 3 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| N-(diklorfluormetyltio)-N',N'-dimetyl-N-fenylsulfamid (diklofluanid) | 1085-98-9 | 7 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Pyridin-2-tiol-1-oksid, natriumsalt (natriumpyrition) | 3811-73-2 | 3 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Sølv | 7440-22-4 | 9 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Svoveldioksid | 7446-09-5 | 4 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Natriumbromid | 7647-15-6 | 2, 11, 12 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Ammoniumsulfat | 7783-20-2 | 11,12 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Sølvklorid | 7783-90-6 | 10, 11 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Ammoniumbromid | 12124-97-9 | 11, 12 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Kalium-2-bifenylat | 13707-65-8 | 6, 9, 10, 13 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Bromklorid | 13863-41-7 | 11 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Natrium-p-klor-m-kresolat | 15733-22-9 | 1, 2, 3, 6, 9, 13 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Blanding av cis- og trans-p-mentan-3,8 diol (citriodiol) | - | 19 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Tetrakis(hydroksymetyl)fosfoniumsulfat(2:1) (THPS) | 55566-30-8 | 2 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Didecyldimetylammoniumklorid (DDAC (C8-10)) | 68424-95-3 | 5 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| 6-(ftalimid)peroksyheksansyre (PAP) | 128275-31-0 | 3, 4 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Tetraklordekaoksidkompleks (TCDO) | 92047-76-2 | 1 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| *Bacillus sphaericus* med unntak av *Bacillus sphaericus* 2362, stamme ABTS-1743 | 143447-72-7 | 18 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| *Bacillus thuringiensis subsp.israelensis* Serotype H14, med unntak av stamme AM65-52 og stamme SA3A | - | 18 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| *Bacillus subtilis* | - | 3 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Aktivt klor: dannet ved reaksjon av hypoklorsyre og natriumhypokloritt produsert *in situ* | - | 2, 3, 4, 5 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Søvsinkzeolitt | 130328-20-0 | 5 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Sølvkobberzeolitt | 130328-19-7 | 5 | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Esfenvalerat/(S)-alfa-cyano-3-fenoksybenzyl (S)-2-(4-klorfenyl)-3-metylbutyrat (esfenvalerat) | 66230-04-4 | 18ø | 30.10.20191 | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
-| Willaertia magna c2c maky | - | 11 | 03.01.20201 | (EU) [2018/1985](eu/32018d1985) | Nr. 12zzzzzv |
-| Empentrin | 54406-48-3 | 18 | 09.10.20191 | (EU) [2018/1251](eu/32018d1251) | Nr. 12zzzzzw |
-| Karbendazim | 10605-21-7 | 9 | 15.12.20201 | (EU) [2019/1942](eu/32019d1942) | 12zzzzzzd |
-| Sølvnatrium hydrogen zirkoniumfosfat | 265647-11-8 | 2, 7 | 17.12.20201 | (EU) [2019/1959](eu/32019d1959) | 12zzzzzzg |
-| Sølvzeolitt | 130328-18-6 | 2, 7 | 17.12.20201 | (EU) [2019/1960](eu/32019d1960) | 12zzzzzzh |
-| Sølvkobberzeolitt | 130328-19-7 | 2, 7 | 18.12.20201 | (EU) [2019/1973](eu/32019d1973) | 12zzzzzzj |
+| Bis[1-cyclohexyl-1,2-di(hydroksy-kappa.O) diazeniumato(2-)]-kobber | 312600-89-8 | 7, 9, 10 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Nonansyre | 112-05-0 | 10 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Glutaral | 111-30-8 | 1, 13 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Disølvoksid | 20667-12-3 | 11 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| 4,4-demetyloksazolidin | 51200-87-4 | 6, 12, 13 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| 2-butanon, peroksid | 1338-23-4 | 3, 6 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Polymer av formaldehyd og akrolein | 26781-23-7 | 3 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Sølvklorid | 7783-90-6 | 3, 4, 5, 13 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Furutre, ekstrakt | 94266-48-5 | 10 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Triklosan | 3380-34-5 | 2, 7, 9 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| 2-fenoksyetanol | 122-99-6 | 3 | 15.05.2015[^1] | [2014/227/EU](eu/32014d0227) | Nr. 12nx |
+| Triflumuron | 64628-44-0 | 18 | 28.09.2016[^1] | (EU) [2015/1736](eu/32015d1736) | Nr. 12nnn |
+| Cybutryn | 28159-98-0 | 21 | 17.02.2017[^1] | (EU) [2016/107](eu/32016d0107) | Nr. 12zzzd |
+| 2-butanon, peroksid | 1338-23-4 | 1, 2 | 17.02.2017[^1] | (EU) [2016/108](eu/32016d0108) | Nr. 12zzze |
+| PHMB (1600; 1.8) | 27083-27-8 | 1, 6, 9 | 17.02.2017[^1] | (EU) [2016/109](eu/32016d0109) | Nr. 12zzzf |
+| Triklosan | 3380-34-5 | 1 | 17.02.2017[^1] | (EU) [2016/110](eu/32016d0110) | Nr. 12zzzg |
+| 1,3-diklor-5,5-dimetylhydantoin (omdefinert i hht. post 152)[^2] | 118-52-5 | 11 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Cetalkoniumklorid (se post 948)[^2] | 122-18-9 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Benzyldimetyl(oktadecyl)ammoniumklorid (se post 948)[^2] | 122-19-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Benzododeciniumklorid (se post 948)[^2] | 139-07-1 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Miristalkoniumklorid (se post 948)[^2] | 139-08-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Didecyldimetylammoniumbromid (se post 949)[^2] | 2390-68-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Dimetyldioktylammoniumklorid (se post 949)[^2] | 5538-94-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Benzyldodecyldimetylammonium bromid (se post 948)[^2] | 7281-04-1 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Silisiumdioksid – amorft | 7631-86-9 | 18 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kobbersulfat | 7758-98-7 | 2 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| p-[(dijodmetyl)sulfonyl]toluen | 20018-09-1 | 2 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Decyldimetyloktylammoniumklorid (se post 949)[^2] | 32426-11-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Benzyldimetyloleylammonium chloride (se post 948)[^2] | 37139-99-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| 3-fenoksybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-diklorvinyl)-2,2-dimetylsyklopropankarboksylat (Permetrin) | 52645-53-1 | 9 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzylkokosalkyldimetyl, klorider (se post 948)[^2] | 61789-71-7 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, dikokosalkyldimetyl, klorider (se post 949)[^2] | 61789-77-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, bis(hydrogenert talgalkyl)dimetyl, klorider (se post 949)[^2] | 61789-80-8 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C8-18-alkyldimetyl, klorider (se post 948)[^2] | 63449-41-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, di-C6-12-alkyldimetyl, klorider (se post 949)[^2] | 68391-06-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C8-16-alkyldimetyl, klorider (se post 948)[^2] | 68424-84-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C10-16-alkyldimetyl, klorider (se post 948)[^2] | 68989-00-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 2 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, di-C8-18-alkyldimetyl, klorider (se post 949)[^2] | 73398-64-8 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Dihydrogenbis[monoperoksyftalato(2-)-O1,OO1]magnesat(2-) heksahydrat | 14915-85-4 | 2 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Margosaekstrakt som ikke er fra kjerner av Azadirachta indica ekstrahert med vann og videre bearbeidet med organiske løsemidler og ikke fra kaldpresset olje fra kjerner av Azadirachta Indica ekstrahert med superkritisk karbondioksid | 84696-25-3 | 18 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C8-18-alkyldimetyl, bromider (se post 948)[^2] | 91080-29-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| 1,3-diklor-5-etyl-5-metylimidazolidin-2,4-dion (omdefinert i hht. post 777)[^2] | 89415-87-2 | 11 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| 1-(4-klorfenyl)-4,4-dimetyl-3-(1,2,4-triazol-1-ylmetyl)pentan-3-ol (tebukonazol) | 107534-96-3 | 9 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Reaksjonsprodukt av dimetyladipat, dimetylglutarat, dimetylsuksinat med hydrogenperoksid (perestan) | – | 2 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Alkyl-benzyl-dimetylammoniumklorid/ benzalkoniumklorid (se post 948)[^2] | 8001-54-5 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser (dialkyldimetyl (alkyl fra C6-C18, mettet og umettet, og talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller metylsulfater) (DDAC) | – | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser (alkyltrimetyl (alkyl fra C8-C18, mettet og umettet, og talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller metylsulfater) (TMAC) | – | 8 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser (benzylalkyldimetyl (alkyl fra C8-C22, mettet og umettet, talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller hydroksider) (BKC) | – | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| 3-fenoksybenzyl (1R)-cis,trans-2,2-dimetyl-3-(2-metylprop-1-enyl)syklopropankarboksylat (d-fenotrin) | 188023-86-1 | 18 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C12-16-alkyldimetyl, klorider (andre enn stoffet omfattet av post 671)[^2] | – | 1, 2, 3, 4, 8, 10, 11, 12, 22 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C12-18-alkyldimetyl, klorider (andre enn stoffet omfattet av post 667)[^2] | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, C12-14-alkyl[(etylfenyl)metyl]dimetyl, klorider (andre enn stoffet omfattet av post 725)[^2] | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C12-14-alkyldimetyl, klorider (andre enn stoffet omfattet av post 724)[^2] | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Sølv-sink-aluminium-boronfosfatglass/glassoksid, med sølv- og sinkinnhold | 398477-47-9 | 2, 7, 9 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, di-C8-10-alkyldimetyl, klorider (andre enn stoffet omfattet av post 673)[^2] | – | 1, 2, 3, 4, 5, 6, 10, 11, 12 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, kokosalkyltrimetyl, klorider (andre enn stoffet omfattet av post 635)[^2] | – | 8 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| Aluminiumnatriumsilikat-sølv-sink kompleks/sølvsinkzeolitt | 130328-20-0 | 2, 7, 9 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| (±)-1-(.beta.-allyloksy-2,4-diklorfenyletyl)imidazol (teknisk imazalil) | 73790-28-0 | 3 | 28.11.2017[^1] | (EU) [2016/1950](eu/32016d1950) | Nr. 12zzzzg |
+| PHMB (1600; 1.8) | 27083-27-8 og<br>32289-58-0 | 5 | 31.05.2018[^1] | (EU) [2017/802](eu/32017d0802*) | Nr. 12zzzzp |
+| 2-metyl-1,2-benzisotiazol-3(2H)-on (MBIT) | 2527-66-4 | 13 | 04.08.2018[^1] | (EU) [2017/1282](eu/32017d1282) | Nr. 12zzzzw |
+| PHMB (1415; 4,7) | 32289-58-0 og 1802181-67-4 | 1, 5, 6 | 13.05.2019[^1] | (EU) [2018/619](eu/32018d0619) | Nr. 12zzzzzl |
+| Klorofen | 120-32-1 | 3 | 13.05.2019[^1] | (EU) [2018/622](eu/32018d0622) | Nr. 12zzzzzi |
+| Sitronsyre | 77-92-9 | 1 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Cetylpyridinklorid | 123-03-5 | 2 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Karbondioksid | 124-38-9 | 19 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Natrium-2-bifenylat | 132-27-4 | 1, 2, 3 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| N-(diklorfluormetyltio)-N',N'-dimetyl-N-fenylsulfamid (diklofluanid) | 1085-98-9 | 7 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Pyridin-2-tiol-1-oksid, natriumsalt (natriumpyrition) | 3811-73-2 | 3 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Sølv | 7440-22-4 | 9 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Svoveldioksid | 7446-09-5 | 4 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Natriumbromid | 7647-15-6 | 2, 11, 12 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Ammoniumsulfat | 7783-20-2 | 11,12 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Sølvklorid | 7783-90-6 | 10, 11 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Ammoniumbromid | 12124-97-9 | 11, 12 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Kalium-2-bifenylat | 13707-65-8 | 6, 9, 10, 13 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Bromklorid | 13863-41-7 | 11 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Natrium-p-klor-m-kresolat | 15733-22-9 | 1, 2, 3, 6, 9, 13 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Blanding av cis- og trans-p-mentan-3,8 diol (citriodiol) | - | 19 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Tetrakis(hydroksymetyl)fosfoniumsulfat(2:1) (THPS) | 55566-30-8 | 2 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Didecyldimetylammoniumklorid (DDAC (C8-10)) | 68424-95-3 | 5 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| 6-(ftalimid)peroksyheksansyre (PAP) | 128275-31-0 | 3, 4 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Tetraklordekaoksidkompleks (TCDO) | 92047-76-2 | 1 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| *Bacillus sphaericus* med unntak av *Bacillus sphaericus* 2362, stamme ABTS-1743 | 143447-72-7 | 18 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| *Bacillus thuringiensis subsp.israelensis* Serotype H14, med unntak av stamme AM65-52 og stamme SA3A | - | 18 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| *Bacillus subtilis* | - | 3 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Aktivt klor: dannet ved reaksjon av hypoklorsyre og natriumhypokloritt produsert *in situ* | - | 2, 3, 4, 5 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Søvsinkzeolitt | 130328-20-0 | 5 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Sølvkobberzeolitt | 130328-19-7 | 5 | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Esfenvalerat/(S)-alfa-cyano-3-fenoksybenzyl (S)-2-(4-klorfenyl)-3-metylbutyrat (esfenvalerat) | 66230-04-4 | 18ø | 30.10.2019[^1] | (EU) [2018/1622](eu/32018d1622*) | Nr. 12zzzzzr |
+| Willaertia magna c2c maky | - | 11 | 03.01.2020[^1] | (EU) [2018/1985](eu/32018d1985) | Nr. 12zzzzzv |
+| Empentrin | 54406-48-3 | 18 | 09.10.2019[^1] | (EU) [2018/1251](eu/32018d1251) | Nr. 12zzzzzw |
+| Karbendazim | 10605-21-7 | 9 | 15.12.2020[^1] | (EU) [2019/1942](eu/32019d1942) | 12zzzzzzd |
+| Sølvnatrium hydrogen zirkoniumfosfat | 265647-11-8 | 2, 7 | 17.12.2020[^1] | (EU) [2019/1959](eu/32019d1959) | 12zzzzzzg |
+| Sølvzeolitt | 130328-18-6 | 2, 7 | 17.12.2020[^1] | (EU) [2019/1960](eu/32019d1960) | 12zzzzzzh |
+| Sølvkobberzeolitt | 130328-19-7 | 2, 7 | 18.12.2020[^1] | (EU) [2019/1973](eu/32019d1973) | 12zzzzzzj |
 | Maursyre | 64-18-6 | 11, 12 | 05.08.2021 | [(EU) 2020/1036](eu/32020d1036) | Nr. 12zzzzzzm |
 | Permaursyre framstilt av maursyre og hydrogenperoksid | – | 3, 5, 6 | 05.08.2021 | [(EU) 2020/1036](eu/32020d1036) | Nr. 12zzzzzzm |
 | Pereddiksyre framstilt av 1,3-diacetyloksypropan-2-ylacetat og hydrogenperoksid | – | 4 | 05.08.2021 | [(EU) 2020/1036](eu/32020d1036) | Nr. 12zzzzzzm |
@@ -1244,30 +1244,30 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Sølvnatriumhydrogenzirkoniumfosfat | 265647-11-8 | 1 | 05.08.2021 | [(EU) 2020/1036](eu/32020d1036) | Nr. 12zzzzzzm |
 | Sølvzeolitt | – | 5 | 05.08.2021 | [(EU) 2020/1036](eu/32020d1036) | Nr. 12zzzzzzm |
 | Polyheksametylbiguanidhydroklorid med gjennomsnittlig molekylvekt (Mn) på 1415 og et gjennomsnittlig polydispersitet (PDI) på 4,7 (PHMB (1415; 4,7)) | 1802181-67-4 og 32289-58-0 | 3, 9, 11 | 05.08.2021 | [(EU) 2020/1036](eu/32020d1036) | Nr. 12zzzzzzm |
-| Klorofen | 120-32-1 | 2 | 16.12.20211 | [(EU) 2020/1765](eu/32020d1765) | Nr. 12zzzzzzr |
-| Esbiotrin | 260359-57-7 | 18 | 18.02.20221 | [(EU) 2021/98](eu/32021d0098) | 12zzzzzzs |
-| Karbondioksid | 124-38-9 | 19 | 21.02.20221 | [(EU) 2021/103](eu/32021d0103) | 12zzzzzzt |
-| Bronopol | 52-51-7 | 9 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Tiram | 137-26-8 | 9 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Metam-natrium | 137-42-8 | 9, 11 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Sølv, som nanomateriale | 7440-22-4 | 2, 4, 9 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 13 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| *Eukalyptus citriodora* olje og sitronellal, hydratert, syklisert | – | 19 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| 2-Hydroksy-α,α,4-trimetylsykloheksanmetanol | 42822-86-6 | 19 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Peroksyoktansyre | 33734-57-5 | 2, 3, 4 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Klordioksid generert fra natriumkloritt og natriumpersulfat | – | 2, 3, 4, 5, 11 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Malt, ekst.<br>Ekstrakter og deres fysisk modifiserte derivater som<br>tinkturer, konkreter, absolutter, essensielle oljer, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Hordeum, Gramineae* | 8002-48-0 | 19 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 4 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| *Capsicum oleoresin*<br>Ekstrakter og deres fysiske modifiserte derivater. Det er et produkt som kan inneholde harpikssyrer og deres estere, terpener og oksidasjons- eller polymeriseringsprodukter av disse terpenene (*Capsicum frutescens, Solanaceae*) | 8023-77-6 | 19 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| *Capsicum annuum*, ekst.<br>Ekstrakter og deres fysiske modifiserte derivater som tinkturer, konkreter, absolutter, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Capsicum annuum, Solanaceae*. | 84625-29-6 | 19 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
-| Reaksjonsmasse av (6E)-N-(4-hydroksy-3-metoksy-2-metylfenyl)-8-metylnon-6-enamid og N-(4-hydroksy-3- metoksy-2-metylfenyl)-8-metylnonanamid | – | 19 | 23.08.20211 | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Klorofen | 120-32-1 | 2 | 16.12.2021[^1] | [(EU) 2020/1765](eu/32020d1765) | Nr. 12zzzzzzr |
+| Esbiotrin | 260359-57-7 | 18 | 18.02.2022[^1] | [(EU) 2021/98](eu/32021d0098) | 12zzzzzzs |
+| Karbondioksid | 124-38-9 | 19 | 21.02.2022[^1] | [(EU) 2021/103](eu/32021d0103) | 12zzzzzzt |
+| Bronopol | 52-51-7 | 9 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Tiram | 137-26-8 | 9 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Metam-natrium | 137-42-8 | 9, 11 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Sølv, som nanomateriale | 7440-22-4 | 2, 4, 9 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 13 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| *Eukalyptus citriodora* olje og sitronellal, hydratert, syklisert | – | 19 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| 2-Hydroksy-α,α,4-trimetylsykloheksanmetanol | 42822-86-6 | 19 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Peroksyoktansyre | 33734-57-5 | 2, 3, 4 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Klordioksid generert fra natriumkloritt og natriumpersulfat | – | 2, 3, 4, 5, 11 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Malt, ekst.<br>Ekstrakter og deres fysisk modifiserte derivater som<br>tinkturer, konkreter, absolutter, essensielle oljer, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Hordeum, Gramineae* | 8002-48-0 | 19 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 4 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| *Capsicum oleoresin*<br>Ekstrakter og deres fysiske modifiserte derivater. Det er et produkt som kan inneholde harpikssyrer og deres estere, terpener og oksidasjons- eller polymeriseringsprodukter av disse terpenene (*Capsicum frutescens, Solanaceae*) | 8023-77-6 | 19 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| *Capsicum annuum*, ekst.<br>Ekstrakter og deres fysiske modifiserte derivater som tinkturer, konkreter, absolutter, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Capsicum annuum, Solanaceae*. | 84625-29-6 | 19 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
+| Reaksjonsmasse av (6E)-N-(4-hydroksy-3-metoksy-2-metylfenyl)-8-metylnon-6-enamid og N-(4-hydroksy-3- metoksy-2-metylfenyl)-8-metylnonanamid | – | 19 | 23.08.2021[^1] | [(EU) 2021/1283](eu/32021d1283) | Nr. 12zzzzzzzh |
 | N-(3-aminopropyl)-N-dodecylpropan-1,3-diamin | 2372-82-9 | 8 | 14.07.2022 | [(EU) 2022/986](eu/32022d0986) | Nr. 12zzzzzzzw |
 | Tolylfluanid | 731-27-1 | 7 | 10.11.2022 | [(EU) 2022/1990](eu/31990r2022) | Nr. 12zzzq |
-| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 10 | 18.12.20231 | [(EU) 2022/2325](eu/32022d2325) | Nr. 12zzzzzzzzp |
-| Epsilon-metoflutrin | 240494-71-7 | 19 | 18.12.20231 | [(EU) 2022/2326](eu/32022d2326) | Nr. 12zzzzzzzzq |
-| Kloramin B | 127-52-6 | 2, 3, 4, 5 | 18.12.20231 | [(EU) 2022/2327](eu/32022d2327) | Nr. 12zzzzzzzzr |
-| Metylenditiocyanat | 6317-18-6 | 12 | 13.11.20231 | [(EU) 2022/2005](eu/32022d2005) | Nr. 12zzzzzzzzu |
-| Sølvnitrat | 7761-88-8 | 7 | 12.01.20231 | [(EU) 2022/2570](eu/32022d2570) | Nr. 12zzzzzzzzx |
+| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 10 | 18.12.2023[^1] | [(EU) 2022/2325](eu/32022d2325) | Nr. 12zzzzzzzzp |
+| Epsilon-metoflutrin | 240494-71-7 | 19 | 18.12.2023[^1] | [(EU) 2022/2326](eu/32022d2326) | Nr. 12zzzzzzzzq |
+| Kloramin B | 127-52-6 | 2, 3, 4, 5 | 18.12.2023[^1] | [(EU) 2022/2327](eu/32022d2327) | Nr. 12zzzzzzzzr |
+| Metylenditiocyanat | 6317-18-6 | 12 | 13.11.2023[^1] | [(EU) 2022/2005](eu/32022d2005) | Nr. 12zzzzzzzzu |
+| Sølvnitrat | 7761-88-8 | 7 | 12.01.2023[^1] | [(EU) 2022/2570](eu/32022d2570) | Nr. 12zzzzzzzzx |
 | Dialuminiumkloridpentahydroksid | 12042-91-0 | 2 | 22.04.2024 | [(EU) 2023/458](eu/32023d0458) | Nr. 12zzzzzzzzza |
 | Natrium N-(hydroksymetyl)glysinat | 70161-44-3 | 6 | 22.04.2024 | [(EU) 2023/458](eu/32023d0458) | Nr. 12zzzzzzzzza |
 | Reaksjonsmasse av titaniumdioksid og sølvklorid | – | 1, 2, 6, 7, 9, 10, 11 | 22.04.2024 | [(EU) 2023/458](eu/32023d0458) | Nr. 12zzzzzzzzza |
@@ -1277,35 +1277,35 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Cis-1-(3-klorallyl)-3,5,7-triaza-1-azoniaadamantan klorid (cis CTAC) | 51229-78-8 | 6, 13 | 22.04.2024 | [(EU) 2023/458](eu/32023d0458) | Nr. 12zzzzzzzzza |
 | Metenamin 3-klorallyloklorid (CTAC) | 4080-31-3 | 6, 12, 13 | 22.04.2024 | [(EU) 2023/458](eu/32023d0458) | Nr. 12zzzzzzzzza |
 | 2,2-Dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 4 | 22.04.2024 | [(EU) 2023/459](eu/32023d0459) | Nr. 12zzzzzzzzzb |
-| Akrolein | 107-02-8 | 12 | 27.07.20241 | [(EU) 2023/1424](eu/32023d1424) | Nr. 13zzzzzzzzzzzzzc |
-| Cyanamid | 420-04-2 | 1, 18 | 26.06.20241 | [(EU) 2023/1097](eu/32023d1097) | Nr. 12zzzzzzzzzl |
+| Akrolein | 107-02-8 | 12 | 27.07.2024[^1] | [(EU) 2023/1424](eu/32023d1424) | Nr. 13zzzzzzzzzzzzzc |
+| Cyanamid | 420-04-2 | 1, 18 | 26.06.2024[^1] | [(EU) 2023/1097](eu/32023d1097) | Nr. 12zzzzzzzzzl |
 | D-alletrin | 231937-89-6 | 8 | 25.03.2024 | [(EU) 2023/470](eu/32023d0470) | Nr. 12zzzzzzzzzm |
-| Sølvkobberzeolitt | 130328-19-7 | 4 | 22.10.20241 | [(EU) 2023/2377](eu/32023d2377) | Nr. 12zzzzzzzzzr |
-| Sølvsinkzeolitt | 130328-20-0 | 4 | 17.12.20241 | [(EU) 2023/2622](eu/32023d2622) | Nr. 12zzzzzzzzzy |
-| Sølvzeolitt | 7446-09-5 | 4 | 18.12.20241 | [(EU) 2023/2648](eu/32023d2648) | Nr. 12zzzzzzzzzzb |
-| Sølvnatriumhydrogenzirkoniumfosfat | 155925-27- 2 | 4 | 15.10.20241 | [(EU) 2023/2052](eu/32023d2052) | Nr. 12zzzzzzzzzzh |
-| *Willaertia magna c2c maky* | – | 11 | 05.02.20251 | [(EU) 2024/241](eu/32024d0241) | Nr. 12zzzzzzzzzzl |
-| Bifenyl-2-ol | 90-43-7 | 7 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Kaliumdimetylditiokarbamat | 128-03-0 | 9, 11, 12 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Sølvpolyetyleniminklorid | – | 1, 2, 9 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 2 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Aktiv klor generert fra magnesiumklorheksahydrat og kaliumklorid ved elektrolyse | – | 2 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Reaksjonsprodukt av glutaminsyre og N-(C12-C14-alkyl)propylendiamin (Glukoprotamin) | 164907-72-6 | 2, 4 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Poly(oksy-1,2-etandiyl),.alfa.-[2-(didecylmetylammonio)etyl]-.omega.-hydroksy, propanoat (salt) (Bardap 26) | 94667-33-1 | 2, 4, 10 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Hvitløk, ekst. Ekstrakter og deres fysisk modifiserte derivater som tinkturer, konkreter, absolutter, essensielle oljer, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Allium sativum, Liliaceae* | 8008-99-9 | 19 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
-| Brandy | – | 19 | 15.04.20251 | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Sølvkobberzeolitt | 130328-19-7 | 4 | 22.10.2024[^1] | [(EU) 2023/2377](eu/32023d2377) | Nr. 12zzzzzzzzzr |
+| Sølvsinkzeolitt | 130328-20-0 | 4 | 17.12.2024[^1] | [(EU) 2023/2622](eu/32023d2622) | Nr. 12zzzzzzzzzy |
+| Sølvzeolitt | 7446-09-5 | 4 | 18.12.2024[^1] | [(EU) 2023/2648](eu/32023d2648) | Nr. 12zzzzzzzzzzb |
+| Sølvnatriumhydrogenzirkoniumfosfat | 155925-27- 2 | 4 | 15.10.2024[^1] | [(EU) 2023/2052](eu/32023d2052) | Nr. 12zzzzzzzzzzh |
+| *Willaertia magna c2c maky* | – | 11 | 05.02.2025[^1] | [(EU) 2024/241](eu/32024d0241) | Nr. 12zzzzzzzzzzl |
+| Bifenyl-2-ol | 90-43-7 | 7 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Kaliumdimetylditiokarbamat | 128-03-0 | 9, 11, 12 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Sølvpolyetyleniminklorid | – | 1, 2, 9 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 2 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Aktiv klor generert fra magnesiumklorheksahydrat og kaliumklorid ved elektrolyse | – | 2 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Reaksjonsprodukt av glutaminsyre og N-(C12-C14-alkyl)propylendiamin (Glukoprotamin) | 164907-72-6 | 2, 4 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Poly(oksy-1,2-etandiyl),.alfa.-[2-(didecylmetylammonio)etyl]-.omega.-hydroksy, propanoat (salt) (Bardap 26) | 94667-33-1 | 2, 4, 10 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Hvitløk, ekst. Ekstrakter og deres fysisk modifiserte derivater som tinkturer, konkreter, absolutter, essensielle oljer, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Allium sativum, Liliaceae* | 8008-99-9 | 19 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Brandy | – | 19 | 15.04.2025[^1] | [(EU) 2024/888](eu/32024d0888) | Nr. 12zzzzzzzzzzs |
 | Sulfurylfluorid | 2699-79-8 | 8, 18 | 03.10.2025 | [(EU) 2024/2402](eu/32024d2402) | Nr. 12zzzzzzzzzzzm |
 | Sølv adsorbert på silisiumdioksid (som et nanomateriale i form av et stabilt aggregat med primærpartikler av nanostørrelse) | – | 9 | 23.12.2025 | [(EU) 2024/2948](eu/32024d2948) | Nr. 12zzzzzzzzzzzp |
 | p-[(Dijodmetyl)sulfonyl]toluen | 20018-09-1 | 6, 7, 9, 10 | 23.12.2025 | [(EU) 2024/2948](eu/32024d2948) | Nr. 12zzzzzzzzzzzp |
-| 5-kloro-2-metyl-2H-isotiazol-3-on (CIT) | 247-500-7 | 6 | 16.03.20261 | [(EU) 2025/357](eu/32025d0357) | Nr. 12zzzzzzzzzzzr |
-| Etylenoksid | 75-21-8 | 2 | 23.06.20261 | [(EU) 2025/1074](eu/32025d1074) | Nr. 12zzzzzzzzzzzzz |
-| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 2 | 21.07.20261 | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
-| Klordioksid | 10049-04-4 | 12 | 21.07.20261 | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
-| Sinkpyrition | 13463-41-7 | 2, 10 | 21.07.20261 | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
-| Reaksjonsprodukter av 5,5-dimetylhydantoin, 5-etyl-5-metylhydantoin med brom og klor (DCDMH) | – | 11 | 21.07.20261 | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
-| Reaksjonsprodukter av 5,5-dimetylhydantoin, 5-etyl-5-metylhydantoin med klor (DCEMH) | – | 11 | 21.07.20261 | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
-| Etofenproks | 80844-07-1 | 8, 18 | 11.09.20261 | [(EU) 2026/378](eu/32026*0378) | Nr. 12zzzzzzzzzzzzzi |
-| Formaldehyd som frigjøres fra reaksjonsproduktene av paraformaldehyd og 2-hydroksypropylamin (forhold 1:1) | – | 6 | 09.04.20271 | [(EU) 2026/599](eu/32026*0599) | Nr. 12zzzzzzzzzzzzzl |
+| 5-kloro-2-metyl-2H-isotiazol-3-on (CIT) | 247-500-7 | 6 | 16.03.2026[^1] | [(EU) 2025/357](eu/32025d0357) | Nr. 12zzzzzzzzzzzr |
+| Etylenoksid | 75-21-8 | 2 | 23.06.2026[^1] | [(EU) 2025/1074](eu/32025d1074) | Nr. 12zzzzzzzzzzzzz |
+| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 2 | 21.07.2026[^1] | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Klordioksid | 10049-04-4 | 12 | 21.07.2026[^1] | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Sinkpyrition | 13463-41-7 | 2, 10 | 21.07.2026[^1] | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Reaksjonsprodukter av 5,5-dimetylhydantoin, 5-etyl-5-metylhydantoin med brom og klor (DCDMH) | – | 11 | 21.07.2026[^1] | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Reaksjonsprodukter av 5,5-dimetylhydantoin, 5-etyl-5-metylhydantoin med klor (DCEMH) | – | 11 | 21.07.2026[^1] | [(EU) 2025/1262](eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Etofenproks | 80844-07-1 | 8, 18 | 11.09.2026[^1] | [(EU) 2026/378](eu/32026*0378) | Nr. 12zzzzzzzzzzzzzi |
+| Formaldehyd som frigjøres fra reaksjonsproduktene av paraformaldehyd og 2-hydroksypropylamin (forhold 1:1) | – | 6 | 09.04.2027[^1] | [(EU) 2026/599](eu/32026*0599) | Nr. 12zzzzzzzzzzzzzl |
 
 > Endret ved [forskrifter 29 sep 2017 nr. 1574](forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](forskrift/2017-12-21-2363), [21 sep 2018 nr. 1402](forskrift/2018-09-21-1402), [8 feb 2019 nr. 90](forskrift/2019-02-08-90), [8 mai 2019 nr. 589](forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 747](forskrift/2019-06-14-747), [30 april 2020 nr. 939](forskrift/2020-04-30-939), [5 feb 2021 nr. 478](forskrift/2021-02-05-478), [23 april 2021 nr. 1393](forskrift/2021-04-23-1393), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409), [18 mars 2022 nr. 425](forskrift/2022-03-18-425), [28 okt 2022 nr. 1911](forskrift/2022-10-28-1911), [28 april 2023 nr. 650](forskrift/2023-04-28-650), [13 juni 2023 nr. 858](forskrift/2023-06-13-858), [22 sep 2023 nr. 1485](forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](forskrift/2024-02-02-206), [15 mars 2024 nr. 495](forskrift/2024-03-15-495), [26 april 2024 nr. 719](forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [14 mars 2025 nr. 627](forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](forskrift/2025-12-05-2963), [26 juni 2026 nr. 1448](forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](forskrift/2026-07-16-1575).
 

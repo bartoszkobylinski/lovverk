@@ -15,7 +15,7 @@ xml_hash: "42cdb75ec9853e0c01b3dabebf29800a698b381e9ded24b04cbfb6e9e782ca2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,7 +53,7 @@ Bestemmelsene i kapittel I får anvendelse for alle løyvekategorier når ikke a
 
 Den som mot vederlag vil drive
 
-1. godstransport med motorvogn1 eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg, eller
+1. godstransport med motorvogn[^1] eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg, eller
 2. persontransport i rute med motorvogn eller fartøy, eller
 3. persontransport med motorvogn utenfor rute,
 

@@ -15,7 +15,7 @@ xml_hash: "258f9d54c1d19335de4d48821222f3d1d0ecd6f3cad9282122aeed8b7cece604"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,6 +58,6 @@ Materiale som i utgangspunktet inngår i kommisjonens arkiv, men som ikke skal a
 
 Loven trer i kraft straks.
 
-§§ 2 og 4 oppheves når kommisjonen har avsluttet sitt arbeid.1
+§§ 2 og 4 oppheves når kommisjonen har avsluttet sitt arbeid.[^1]
 
 1 Kommisjonen leverte avsluttende rapport 26. april 2022 iflg. [NOU 2022:5](forarbeid/nou-2022-5).

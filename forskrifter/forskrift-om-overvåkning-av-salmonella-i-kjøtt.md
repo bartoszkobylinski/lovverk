@@ -15,7 +15,7 @@ xml_hash: "99d80f1085da5ba75ef5af5a0d93ff42679b4dee3bfa5514ffa7a0662bdb5d61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Formålet med denne forskrift er å gi utfyllende bestemmelser om overvåkning a
 
 Denne forskrift gjelder for overvåkning av og kontroll med salmonella i virksomheter for ferskt kjøtt.
 
-Forskriften omfatter ikke overvåkning i besetninger og tiltak mot forekomst av salmonella hos levende dyr.1
+Forskriften omfatter ikke overvåkning i besetninger og tiltak mot forekomst av salmonella hos levende dyr.[^1]
 
 > Endret ved [forskrift 8 juni 2007 nr. 604](forskrift/2007-06-08-604).
 

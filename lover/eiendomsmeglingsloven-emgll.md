@@ -15,7 +15,7 @@ xml_hash: "439aba40d5e8cf5d866c9b0a2e270ef7214c6da5b7300e22c3de2ff03d373c8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -695,7 +695,7 @@ Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av 
 
 ### § 9-1. Ikrafttredelse og overgangsregler
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
 
 (2) Kongen kan fastsette overgangsregler.
 

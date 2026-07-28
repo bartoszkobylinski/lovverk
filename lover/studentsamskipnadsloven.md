@@ -15,7 +15,7 @@ xml_hash: "05e2b603adad85b9381d7b6b957830e8131bc9a762385282f288ec2cc20f479f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,7 @@ Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan fo
 
 ## § 14. Sluttbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Fra samme tidspunkt oppheves [lov 28. juni 1996 nr. 54](lov/1996-06-28-54) om studentsamskipnader.
 

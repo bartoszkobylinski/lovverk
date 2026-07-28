@@ -15,7 +15,7 @@ xml_hash: "1d9cfe3162fd7be07b5d714fcdf17152d47ba8f2391ff3e7cae6aaaeed8c2149"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,12 +48,12 @@ Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres
 
 Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter, organer eller grupper som er oppført på Sanksjonskomiteens liste.
 
-Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, grupper, foretak og enheter
+Sanksjonskomiteens liste[^1] omfatter fysiske eller juridiske personer, grupper, foretak og enheter
 
 1. som umiddelbart forut for vedtakelsen av FNs sikkerhetsrådsresolusjon 1988 (2011) ble oppført som medlem av Taliban, samt andre fysiske personer, grupper, foretak og enheter tilknyttet dem, i del A («Fysiske personer tilknyttet Taliban») og del B («Enheter og andre grupper og foretak tilknyttet Taliban») på den konsoliderte listen fra komiteen nedsatt ved resolusjon 1267, eller
 2. som Sanksjonskomiteen har fastslått er fysiske personer, grupper, foretak og enheter tilknyttet Taliban som utgjør en trussel mot freden, stabiliteten og sikkerheten i Afghanistan.
 
-Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, kan anmode om å bli fjernet fra listen i samsvar med FNs Sikkerhetsråds resolusjon 2082 (2012).2
+Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, kan anmode om å bli fjernet fra listen i samsvar med FNs Sikkerhetsråds resolusjon 2082 (2012).[^2]
 
 > Endret ved [forskrifter 25 mai 2016 nr. 537](forskrift/2016-05-25-537), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 

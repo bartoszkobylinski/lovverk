@@ -15,7 +15,7 @@ xml_hash: "4ffc870fff1dfe1d2faa91f90d3c8153d1f7d85573048afb631d96452cb6fe3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Det er et vilkår at påvirkning som nevnt i andre ledd bokstav b og tredje ledd
 
 ## II
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid. Loven gjelder ikke for skader eller sykdommer som er konstatert før lovens ikrafttredelse.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid. Loven gjelder ikke for skader eller sykdommer som er konstatert før lovens ikrafttredelse.
 
 1 Fra 1. januar 2026 for endring i [§ 13-4 første ledd andre punktum](lov/1997-02-28-19/§13-4/ledd/1/setning/2), samt et nytt femte ledd, og endring i [§ 13-14 første ledd](lov/1997-02-28-19/§13-4/ledd/1/ledd/1),
 Fra 1. januar 2027 for endring i [§ 13-4 tredje ledd](lov/1997-02-28-19/§13-4/ledd/3), samt et nytt fjerde ledd, iflg. [res. 29 aug 2025 nr. 1743](forskrift/2025-08-29-1743).

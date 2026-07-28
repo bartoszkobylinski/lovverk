@@ -15,7 +15,7 @@ xml_hash: "ce161f1e421e672b1bb580a003e9672b3f0eb6879902829b04b18386f15626a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -315,7 +315,7 @@ Loven gjelder ikke for Svalbard.
 
 Loven trer i kraft fra den tid Kongen bestemmer.
 
-Fra den tid1 loven trer i kraft, oppheves:
+Fra den tid[^1] loven trer i kraft, oppheves:
 
 1. [Lov 3. august 1897 nr 1 om Kirker og Kirkegaarde](lov/1897-08-03-1) §§ 33-43 og
 2. [Lov 3. mai 1913](lov/1913-05-03) om likbrænding.

@@ -15,7 +15,7 @@ xml_hash: "c12caf68557e2c371b7e24393624c4a914fcef12ec0a7e9b2e856f3b0e3b598a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -356,7 +356,7 @@ Bestemmelsen her får ikke anvendelse dersom forholdet rammes av en strengere st
 
 ### § 37. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 1 Fra 5 nov 1999 iflg. [res. 5 nov 1999 nr. 1143](forskrift/1999-11-05-1143).
 

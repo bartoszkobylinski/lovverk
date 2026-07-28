@@ -15,7 +15,7 @@ xml_hash: "3d7b79304fbd40c7f65a2aec88b8b63532e146e99ee3eaeae0395390c50fbefa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -828,7 +828,7 @@ Bestemmelsene i [foretakspensjonsloven kapittel 14](lov/2000-03-24-16/kap14) om 
 
 ### § 9-1. Ikrafttredelse. Overgangsregler
 
-(1) Loven gjelder fra det tidspunkt Kongen bestemmer.1 De enkelte deler av loven kan settes i kraft til ulik tid.
+(1) Loven gjelder fra det tidspunkt Kongen bestemmer.[^1] De enkelte deler av loven kan settes i kraft til ulik tid.
 
 (2) Kongen kan gi overgangsregler.
 

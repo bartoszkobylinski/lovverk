@@ -15,7 +15,7 @@ xml_hash: "04781107660c86f0b43107666644026859741634c55e804025d82ca4aa8b5671"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32003L0087"
@@ -143,7 +143,7 @@ Kongen kan gi forskrift om at operatører har plikt til å gi melding til klimak
 
 > Tilføyd ved [lov 15 apr 2011 nr. 12](lov/2011-04-15-12), opphevet ved [lov 25 mai 2012 nr. 29](lov/2012-05-25-29).
 
-## Kapittel 2. Tildeling av kvoter1
+## Kapittel 2. Tildeling av kvoter[^1]
 
 > Overskriften endret ved [lov 25 mai 2012 nr. 29](lov/2012-05-25-29).
 

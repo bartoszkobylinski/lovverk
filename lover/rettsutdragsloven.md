@@ -15,7 +15,7 @@ xml_hash: "1f8dc1e7ecf7251d9fb9de1416ca152a80d9d5df85949dc8882129222698a311"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,6 +104,6 @@ Når særlige grunner taler for det, kan retten også ellers i saker for lagmann
 
 ## Slutningsbestemmelse.
 
-Tiden for denne lovs ikrafttræden fastsættes ved særskilt lov.1
+Tiden for denne lovs ikrafttræden fastsættes ved særskilt lov.[^1]
 
 1 Loven ble satt i kraft 1 juli 1927 iflg. [lov 14 aug 1918 nr. 4](lov/1918-08-14-4), se dens [§ 1](lov/1918-08-14-4/§1).

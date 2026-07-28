@@ -15,7 +15,7 @@ xml_hash: "21273bc42c9d278677313c31fe1c16b265a019db502d2e3f11a544576b9c92f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,7 @@ Kongen kan gi nærmere forskrifter til gjennomføring av denne lov.
 
 ## § 13.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Kongen kan sette loven i kraft særskilt overfor enkelte av de stater som er nevnt i [§ 1](lov/1970-06-05-35/§1).
 

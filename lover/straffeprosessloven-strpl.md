@@ -15,7 +15,7 @@ xml_hash: "66c24b1b690c158009c017f8a96768fc6c1611afea9438f22916b1db2890db32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -302,7 +302,7 @@ Bestemmelsen i første ledd gjelder ikke personaliarapport og andre dokumenter s
 
 Enhver kan kreve utskrift av en dom i en bestemt straffesak så langt som det ikke gjelder forbud mot offentlig gjengivelse av dommen, eller, dersom det gjelder slikt forbud eller utskrift nektes etter fjerde ledd, innsyn i domslutningen. Tilsvarende gjelder også for kjennelser som avgjør anker og kjennelser om habilitet, avvisning, gjenopptakelse, erstatning i anledning forfølgning og heving. Kravet kan alltid avslås hvis avgjørelsen er eldre enn fem år eller den som krever utskrift bare identifiserer avgjørelsen ved siktedes navn. Utskrift av dom eller kjennelse kan gis selv om de inneholder gjengivelser fra psykiatriske erklæringer, personundersøkelser eller andre personopplysninger. Utskrift av kjennelser i saker som nevnt i [§ 100 a](lov/1981-05-22-25/§100a) skal ikke gis.
 
-Utskrift skal nektes når det av hensyn til rikets sikkerhet eller forhold til fremmed stat ville være betenkelig å gi utskrift, eller når det er grunn til å frykte at utskriften vil bli nyttet på urettmessig vis. Overfor andre enn partene gjelder det samme når retten har gitt pålegg om hemmelighold. Utskrift kan nektes på de vilkår som er fastsatt i [§ 242 a](lov/1981-05-22-25/§242a) første ledd. Reglene i [§ 242 a](lov/1981-05-22-25/§242a) annet til sjette ledd gjelder tilsvarende så langt de passer. Det kan ikke gis utskrift av dokumenter som inneholder opplysninger som kan føre til at identiteten til vitner som har forklart seg anonymt, jf. [§ 130 a](lov/1981-05-22-25/§130a) eller [§ 234 a](lov/1981-05-22-25/§234a), blir kjent, eller som inneholder opplysninger som tidligere er unntatt fra innsyn etter reglene i [§ 28](lov/1981-05-22-25/§28) fjerde ledd,1 [§ 242 a](lov/1981-05-22-25/§242a), [§ 264](lov/1981-05-22-25/§264) sjette ledd eller [§ 267](lov/1981-05-22-25/§267) første ledd tredje punktum, jf. [§ 264](lov/1981-05-22-25/§264) sjette ledd. Det kan heller ikke gis utskrift av dokumenter som inneholder opplysninger som påtalemyndigheten tidligere har begjært unntatt fra innsyn etter disse bestemmelsene, dersom påtalemyndigheten har innstilt forfølgningen etter [§ 72](lov/1981-05-22-25/§72) første ledd annet punktum annet alternativ fordi den ikke fikk medhold i begjæringen.
+Utskrift skal nektes når det av hensyn til rikets sikkerhet eller forhold til fremmed stat ville være betenkelig å gi utskrift, eller når det er grunn til å frykte at utskriften vil bli nyttet på urettmessig vis. Overfor andre enn partene gjelder det samme når retten har gitt pålegg om hemmelighold. Utskrift kan nektes på de vilkår som er fastsatt i [§ 242 a](lov/1981-05-22-25/§242a) første ledd. Reglene i [§ 242 a](lov/1981-05-22-25/§242a) annet til sjette ledd gjelder tilsvarende så langt de passer. Det kan ikke gis utskrift av dokumenter som inneholder opplysninger som kan føre til at identiteten til vitner som har forklart seg anonymt, jf. [§ 130 a](lov/1981-05-22-25/§130a) eller [§ 234 a](lov/1981-05-22-25/§234a), blir kjent, eller som inneholder opplysninger som tidligere er unntatt fra innsyn etter reglene i [§ 28](lov/1981-05-22-25/§28) fjerde ledd,[^1] [§ 242 a](lov/1981-05-22-25/§242a), [§ 264](lov/1981-05-22-25/§264) sjette ledd eller [§ 267](lov/1981-05-22-25/§267) første ledd tredje punktum, jf. [§ 264](lov/1981-05-22-25/§264) sjette ledd. Det kan heller ikke gis utskrift av dokumenter som inneholder opplysninger som påtalemyndigheten tidligere har begjært unntatt fra innsyn etter disse bestemmelsene, dersom påtalemyndigheten har innstilt forfølgningen etter [§ 72](lov/1981-05-22-25/§72) første ledd annet punktum annet alternativ fordi den ikke fikk medhold i begjæringen.
 
 Det kan ikke gis utskrift av den delen av rettsboken som er nevnt i [§ 21 a](lov/1981-05-22-25/§21a), [§ 40](lov/1981-05-22-25/§40) femte ledd eller [§ 52 tredje ledd](lov/2005-05-20-28/§52/ledd/3).
 
@@ -1111,7 +1111,7 @@ Som forsvarere ved Høyesterett brukes advokater med rett til å føre saker for
 
 Ved de øvrige domstoler kan enhver advokat være forsvarer. Med særskilt tillatelse av retten kan en annen skikket person gjøre tjeneste.
 
-Ved alle domstoler kan en utenlandsk advokat være forsvarer når retten etter sakens art og forholdene ellers finner det ubetenkelig. Kongen kan ved forskrift gi regler om utenlandske advokaters adgang til å være forsvarer.1
+Ved alle domstoler kan en utenlandsk advokat være forsvarer når retten etter sakens art og forholdene ellers finner det ubetenkelig. Kongen kan ved forskrift gi regler om utenlandske advokaters adgang til å være forsvarer.[^1]
 
 For flere siktede som har motstridende interesser, kan ikke samme person være forsvarer.
 
@@ -5585,7 +5585,7 @@ Kongen kan for straffesaker med tilknytning til Forsvaret gi forskrift om
 
 ### § 482
 
-Denne lov trer i kraft fra den tid1 som bestemmes ved særskilt lov.
+Denne lov trer i kraft fra den tid[^1] som bestemmes ved særskilt lov.
 
 > Endret ved lov [24 juni 1994 nr. 36](lov/1994-06-24-36) (ikr. 1 juli 1997 iflg. [res. 13 juni 1997 nr. 573](forskrift/1997-06-13-573), tidligere § 463).
 

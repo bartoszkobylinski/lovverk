@@ -15,7 +15,7 @@ xml_hash: "9db8276572e48330dae1027c49864730ae059dc042909d313c868e9c29e106bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,6 +146,6 @@ Kongen kan gi nærmere regler om lovens anvendelse på Svalbard og Jan Mayen.
 
 ## § 23. Ikrafttreden
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 des 2008 iflg. [res. 7 nov 2008 nr. 1195](forskrift/2008-11-07-1195).

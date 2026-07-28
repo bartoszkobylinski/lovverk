@@ -15,14 +15,14 @@ xml_hash: "ae2e280fda1b851e8203f5a7eb07fbb2d079852334159f11b01afddef8b6ec13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Meddelelse om ikrafttredelse av lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven)
 
-Kapitlene 1 til 13, 17 til 24, 26, 27, 30 og 31 trer i kraft fra og med det konstituerende møtet1 i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023. Det konstituerende møtet skal finne sted innen utgangen av oktober 2019, jf. [kommuneloven § 7-1](lov/2018-06-22-83/§7-1). [Kapitlene 14](lov/2018-06-22-83/kap14), [15](lov/2018-06-22-83/kap15), [16](lov/2018-06-22-83/kap16), [28](lov/2018-06-22-83/kap28) og [29](lov/2018-06-22-83/kap29) trer i kraft 1. januar 2020, med unntak for [kap. 25](lov/2018-06-22-83/kap25), iflg. [kgl.res. 20. des 2018 nr. 2062](forskrift/2018-12-20-2062). § 31-6 trer i kraft 1. november 2019, iflg. [kgl.res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879).
+Kapitlene 1 til 13, 17 til 24, 26, 27, 30 og 31 trer i kraft fra og med det konstituerende møtet[^1] i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023. Det konstituerende møtet skal finne sted innen utgangen av oktober 2019, jf. [kommuneloven § 7-1](lov/2018-06-22-83/§7-1). [Kapitlene 14](lov/2018-06-22-83/kap14), [15](lov/2018-06-22-83/kap15), [16](lov/2018-06-22-83/kap16), [28](lov/2018-06-22-83/kap28) og [29](lov/2018-06-22-83/kap29) trer i kraft 1. januar 2020, med unntak for [kap. 25](lov/2018-06-22-83/kap25), iflg. [kgl.res. 20. des 2018 nr. 2062](forskrift/2018-12-20-2062). § 31-6 trer i kraft 1. november 2019, iflg. [kgl.res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879).
 
 1 Se vedlegg.
 

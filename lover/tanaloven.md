@@ -15,7 +15,7 @@ xml_hash: "790c12d5c6721b3f4d4ad7dbb71c5ba5e921d95cafae9e1cfc1b3546b65e94d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,7 @@ Den som forsettlig eller uaktsomt utøver uberettiget fiske eller som krenker en
 
 ## § 8. Ikraftsetting og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Forskrifter gitt med hjemmel i [finnmarksloven § 28](lov/2005-06-17-85/§28) annet ledd og [lov 23. juni 1888 nr. 1](lov/1888-06-23-1) om Retten til Fiskeri i Tanavasdraget i Finmarkens Amt gjelder også etter at loven her har trådt i kraft.
 

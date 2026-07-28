@@ -17,7 +17,7 @@ xml_hash: "ab3d1b9084b36de02423ba957fe84c789fc69f030a6b9ef187e289a525829f09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -281,10 +281,10 @@ Samtidig oppheves følgende forskrifter:
 
 | *Tollposisjon/varenummer:* | *Beskrivelse:* |
 | --- | --- |
-| 07.01.9011\* | Nypoteter (15. mai–15. juli) |
-| 07.01.9018\* | Poteter, ellers (ikke skrelte eller avskallede) (15. mai–15. juli) |
-| 07.01.9022\* | Nypoteter (16. juli–14. mai) |
-| 07.01.9028\* | Poteter, ellers (ikke skrelte eller avskallede) (16. juli–14. mai) |
+| 07.01.9011[^\*] | Nypoteter (15. mai–15. juli) |
+| 07.01.9018[^\*] | Poteter, ellers (ikke skrelte eller avskallede) (15. mai–15. juli) |
+| 07.01.9022[^\*] | Nypoteter (16. juli–14. mai) |
+| 07.01.9028[^\*] | Poteter, ellers (ikke skrelte eller avskallede) (16. juli–14. mai) |
 | 07.02 | Tomater – Hele posisjonen |
 | 07.03 | Kepaløk, sjalottløk, hvitløk, purre og andre løkslag – Hele posisjonen |
 | 07.04 | Hodekål, blomkål, knutekål og liknende spiselig kål – Hele posisjonen |
@@ -293,9 +293,9 @@ Samtidig oppheves følgende forskrifter:
 | 07.07 | Agurker – Hele posisjonen |
 | 07.08 | Belgfrukter, med eller uten belg – Hele posisjonen |
 | 07.09 | Andre grønnsaker, unntatt:<br>07.09.9930 – sukkermais, til dyrefôr |
-| 08.03\*\* | Bananer og kokebananer (pisanger) |
-| 08.04\*\* | Dadler, fikener, ananas, avocadopærer, guavaer, mangoer og mangostan, unntatt:<br>08.04.2090 – fikener, ellers |
-| 08.05\*\* | Sitrusfrukter, unntatt:<br>08.05.1010 – appelsiner, til dyrefôr<br>08.05.2110 – mandariner (herunder tangeriner og satsumas), til dyrefôr<br>08.05.2210 – klementiner, til dyrefôr<br>08.05.2910 – andre (wilkings og liknende krysninger av sitrusfrukter), til dyrefôr<br>08.05.4010 – grapefrukt, herunder pomelos, til dyrefôr<br>08.05.5010 – sitroner og limefrukter, til dyrefôr<br>08.05.9010 – andre sitrusfrukter, til dyrefôr |
+| 08.03[^\*\*] | Bananer og kokebananer (pisanger) |
+| 08.04[^\*\*] | Dadler, fikener, ananas, avocadopærer, guavaer, mangoer og mangostan, unntatt:<br>08.04.2090 – fikener, ellers |
+| 08.05[^\*\*] | Sitrusfrukter, unntatt:<br>08.05.1010 – appelsiner, til dyrefôr<br>08.05.2110 – mandariner (herunder tangeriner og satsumas), til dyrefôr<br>08.05.2210 – klementiner, til dyrefôr<br>08.05.2910 – andre (wilkings og liknende krysninger av sitrusfrukter), til dyrefôr<br>08.05.4010 – grapefrukt, herunder pomelos, til dyrefôr<br>08.05.5010 – sitroner og limefrukter, til dyrefôr<br>08.05.9010 – andre sitrusfrukter, til dyrefôr |
 | 08.06 | Vindruer, unntatt:<br>08.06.2000 – tørkede vindruer |
 | 08.07 | Meloner (herunder vannmeloner) og papayas – Hele posisjonen |
 | 08.08 | Epler, pærer og kveder – Hele posisjonen |

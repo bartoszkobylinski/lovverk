@@ -15,7 +15,7 @@ xml_hash: "1cacc38401f532239c272ad584027c23c67e2b2490e1129579117545d6818b5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32011L0007"
@@ -66,7 +66,7 @@ Er skyldneren en offentlig myndighet, gjelder i tillegg til lovens øvrige beste
 
 ## § 3. Størrelsen av forsinkelsesrenten. Krav ut over forsinkelsesrenten
 
-Departementet fastsetter hvert halvår størrelsen av forsinkelsesrenten til en fast prosent årlig rente, som skal svare til den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar og 1. juli det aktuelle år tillagt minst åtte prosentpoeng.1 For skyldnere som er skyldner i egenskap av forbruker, kan departementet fastsette en lavere forsinkelsesrente. Endring i forsinkelsesrentens størrelse får virkning fra ikrafttredelsen også for krav hvor fordringshaveren har krav på forsinkelsesrente før ikrafttredelsen.
+Departementet fastsetter hvert halvår størrelsen av forsinkelsesrenten til en fast prosent årlig rente, som skal svare til den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar og 1. juli det aktuelle år tillagt minst åtte prosentpoeng.[^1] For skyldnere som er skyldner i egenskap av forbruker, kan departementet fastsette en lavere forsinkelsesrente. Endring i forsinkelsesrentens størrelse får virkning fra ikrafttredelsen også for krav hvor fordringshaveren har krav på forsinkelsesrente før ikrafttredelsen.
 
 Løp det rente i forholdet før betalingsplikt inntrådte, kan fordringshaveren i stedet for forsinkelsesrente etter første ledd kreve den løpende renten.
 
@@ -80,7 +80,7 @@ Erstatning for rentetap e.l. som ikke dekkes av forsinkelsesrenten, fastsettes u
 
 Når fordringshaveren kan kreve forsinkelsesrente etter [§ 2](lov/1976-12-17-100/§2), kan fordringshaveren også kreve en kompensasjon av skyldneren for inndrivelseskostnader tilsvarende 40 euro.
 
-Departementet kan i forskrift fastsette kompensasjonen etter første ledd i norske kroner.1
+Departementet kan i forskrift fastsette kompensasjonen etter første ledd i norske kroner.[^1]
 
 Reglene i paragrafen her kan ikke fravikes ved avtale til skade for fordringshaveren.
 
@@ -119,7 +119,7 @@ I fullbyrdelsesdom for pengekrav utenfor formuerettens område kan retten etter 
 
 ## § 6. Ikrafttredelse. Oppheving og endring av andre lover
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1 Det reknes ikke rente etter denne lov for tiden før lovens ikrafttredelse.
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Det reknes ikke rente etter denne lov for tiden før lovens ikrafttredelse.
 
 Fra samme tid gjøres følgende endringer i etternevnte lover: – – –
 

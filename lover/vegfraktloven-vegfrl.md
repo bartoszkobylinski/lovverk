@@ -15,7 +15,7 @@ xml_hash: "8f717b231d4b78efdbe984a5eab323d6b602eb8f56ee6d6884acb062c3bbb0f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -523,7 +523,7 @@ Bestemmelsene i [§ 43](lov/1974-12-20-68/§43) annet og følgende ledd og [§ 4
 
 ### § 50
 
-Denne lov trer i kraft fra den dag Kongen bestemmer.1
+Denne lov trer i kraft fra den dag Kongen bestemmer.[^1]
 
 – – –
 

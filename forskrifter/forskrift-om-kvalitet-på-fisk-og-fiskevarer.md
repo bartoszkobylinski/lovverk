@@ -15,7 +15,7 @@ xml_hash: "25b8c61d09c4e8511645f4acb7d053c8c834b00bcca9b4345bb3302609ebe3c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -431,7 +431,7 @@ Samtidig oppheves kvalitetsforskrift 14. juni 1996 nr. 667 for fisk og fiskevare
 
 ### A. Beskrivelse av hvilke varer som er omfattet av merkekrav for fisk og fiskevarer:
 
-| *Pos. nr. i tolltariffen*1 | *Varebeskrivelse* |
+| *Pos. nr. i tolltariffen*[^1] | *Varebeskrivelse* |
 | --- | --- |
 | 03.01 | Fisk, levende. |
 | 03.02 | Fisk, fersk eller kjølt, unntatt fiskefileter og annet fiskekjøtt som hører under posisjon 03.04. |

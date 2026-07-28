@@ -15,7 +15,7 @@ xml_hash: "3140d8b4172897b2e1fddbe7006b1881c7c415e6af54c3de75b0353382b38560"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -223,6 +223,6 @@ Frå den tida lova tek til å gjelde, skal desse endringane gjerast: – – –
 
 ### § 25. Iverksetjing
 
-Lova gjeld frå den tida Kongen fastset.1 Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+Lova gjeld frå den tida Kongen fastset.[^1] Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
 
 1 Frå 1 jan 2016 iflg. [res. 13 nov 2015 nr. 1289](forskrift/2015-11-13-1289).

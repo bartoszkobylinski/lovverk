@@ -15,7 +15,7 @@ xml_hash: "4b0d97650017ffe7bac04dd3d14b4aa54b32e2812db2563ad3a53a5e2c64f156"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1497,9 +1497,9 @@ Frem til 1. januar 2007 gjelder [§ 4-4](forskrift/2004-06-01-930/§4-4) bare fo
 
 1. Batterier
 2. Blylodd for vibrasjonsdemping
-3. Loddetinn i elektroniske kretskort og i andre elektriske bruksområder 1
+3. Loddetinn i elektroniske kretskort og i andre elektriske bruksområder [^1]
 4. Kobber i bremsebelegg som inneholder mer enn 0,4 vektprosent bly
-5. Elektriske komponenter som inneholder bly bundet i glass eller keramisk materiale unntatt glass i lyspærer og tennplugger som er glassert 2
+5. Elektriske komponenter som inneholder bly bundet i glass eller keramisk materiale unntatt glass i lyspærer og tennplugger som er glassert [^2]
 
 *Komponenter som inneholder seksverdig krom*
 
@@ -1531,7 +1531,7 @@ Frem til 1. januar 2007 gjelder [§ 4-4](forskrift/2004-06-01-930/§4-4) bare fo
 2. Navn og adresse på den myndighet som er ansvarlig for tillatelsen (jf. [§ 4-7](forskrift/2004-06-01-930/§4-7)) til den virksomhet eller det foretak som utsteder vrakmeldingen.
 3. Navn og adresse samt underskrift og register- eller identifikasjonsnummer (foretaksnummer) på den virksomhet eller det foretak som utsteder vrakmeldingen, dersom det gjøres av en produsent, forhandler eller innsamlingsvirksomhet på vegne av en godkjent biloppsamlingsplass.
 4. Dato for utstedelse.
-5. Kjøretøyets nasjonalitetsbetegnelse og registreringsnummer (dokumentasjon for registrering vedlegges, eller det vedlegges en erklæring fra den virksomhet eller det foretak som utsteder vrakmeldingen, om at registreringsdokumentet er destruert).1
+5. Kjøretøyets nasjonalitetsbetegnelse og registreringsnummer (dokumentasjon for registrering vedlegges, eller det vedlegges en erklæring fra den virksomhet eller det foretak som utsteder vrakmeldingen, om at registreringsdokumentet er destruert).[^1]
 6. Kjøretøyets gruppe (M1 eller N1) samt merke og modell.
 7. Kjøretøyets identifikasjonsnummer (understellsnummer//chassisnummer).
 8. Navn, adresse og nasjonalitet på den som leverer kjøretøyet eller eieren, samt dennes underskrift.
@@ -3110,7 +3110,7 @@ Disse bestemmelsene kan fravikes på deponier for inert avfall.
 
   Fyllingens bunn og sider skal bestå av et mineralsk sjikt som oppfyller følgende krav til permeabilitet og tykkelse:
 
-  - deponi beregnet på farlig avfall: K1 ≤ 1,0 x 10-9 m/s, tykkelse ≥ 5 m,
+  - deponi beregnet på farlig avfall: K[^1] ≤ 1,0 x 10-9 m/s, tykkelse ≥ 5 m,
   - deponi beregnet på ordinært avfall: K ≤ 1,0 x 10-9 m/s, tykkelse ≥ 1 m,
   - deponi beregnet på inert avfall: K ≤ 1,0 x 10-7 m/s, tykkelse ≥ 1 m,
 
@@ -3120,7 +3120,7 @@ Disse bestemmelsene kan fravikes på deponier for inert avfall.
 - På deponier for farlig avfall og ordinært avfall skal det etableres en kunstig tetningsmembran og et dreneringslag med tykkelse på minst 0,5 m i tillegg til den geologiske barrieren nevnt i pkt. 3.2 for i størst mulig grad å samle opp og begrense opphopning av sigevann i deponiet.
 
   Det kan settes krav om topptetting dersom det anses nødvendig å forebygge sigevannsdannelse.
-- Dersom en miljørisikovurdering, jf. direktiv [80/68/EØF](eu/31980l0068),2 tilsier at det ikke er nødvendig å samle opp og behandle sigevannet, eller at deponiet ikke medfører noen mulig fare for jord, grunnvann og overflatevann, kan det lempes tilsvarende på kravene i nr. 2 bokstav c, 3.2 og 3.3 ovenfor.
+- Dersom en miljørisikovurdering, jf. direktiv [80/68/EØF](eu/31980l0068),[^2] tilsier at det ikke er nødvendig å samle opp og behandle sigevannet, eller at deponiet ikke medfører noen mulig fare for jord, grunnvann og overflatevann, kan det lempes tilsvarende på kravene i nr. 2 bokstav c, 3.2 og 3.3 ovenfor.
 
 4\. *Gasskontroll*
 
@@ -3200,7 +3200,7 @@ Opplysninger om avfallets sammensetning og utlekkingspotensial skal underbygges 
 
 1. Avfallet stammer fra en og samme kilde og er klassifisert som inert avfall i en av følgende avfallskoder:
 
-   | *Kode i europeisk avfallsliste1* | *Beskrivelse* | *Restriksjoner* |
+   | *Kode i europeisk avfallsliste[^1]* | *Beskrivelse* | *Restriksjoner* |
    | --- | --- | --- |
    | 10 11 03 | Glassfiberavfall | Bare uten organiske bindemidler |
    | 15 01 07 | Emballasje av glass |  |
@@ -3272,10 +3272,10 @@ Lett forurensede masser som tas imot ved deponier for inert avfall kan ikke over
 | Sink (Zn) | 4 | 1,2 |
 | Klorid | 800 | 460 |
 | Fluorid | 10 | 2,5 |
-| Sulfat | 1000\* | 1500 |
+| Sulfat | 1000[^\*] | 1500 |
 | Fenoltall | 1 | 0,3 |
-| Løst organisk karbon (DOC)\*\* | 500 | 160 |
-| Totalt oppløst fast stoff (TDS)\*\*\* | 4000 | – |
+| Løst organisk karbon (DOC)[^\*\*] | 500 | 160 |
+| Totalt oppløst fast stoff (TDS)[^\*\*\*] | 4000 | – |
 
 \* Dersom avfallet overskrider grenseverdiene for sulfat, kan det likevel anses som å oppfylle mottakskriteriene dersom utlekkingen ikke overskrider noen av følgende verdier: 1500 mg/l som C0 ved L/S = 0,1 l/kg og 6000 mg/kg ved L/S = 10 l/kg.
 
@@ -3289,7 +3289,7 @@ I tillegg til grenseverdiene for utlekking i nr. 2.1.1 kan lett forurensede mass
 
 | *Parameter* | *Verdi* |
 | --- | --- |
-| Totalt organisk karbon (TOC) | 3%\* |
+| Totalt organisk karbon (TOC) | 3%[^\*] |
 | Benzen, toluen, etylbenzen og xylener (BTEX) | 6 mg/kg |
 | Polyklorerte bifenyler (7 kongenerer av PCB) | 1 mg/kg |
 | Mineralolje (C10 til C40) | 500 mg/kg |
@@ -3336,8 +3336,8 @@ Stabilt, ikke-reaktivt farlig avfall kan deponeres sammen med ordinært avfall i
 | Klorid | 15000 | 8500 |
 | Fluorid | 150 | 40 |
 | Sulfat | 20000 | 7000 |
-| Løst organisk karbon (DOC)\* | 800 | 250 |
-| Totalt oppløst fast stoff (TDS)\*\* | 60000 | – |
+| Løst organisk karbon (DOC)[^\*] | 800 | 250 |
+| Totalt oppløst fast stoff (TDS)[^\*\*] | 60000 | – |
 
 \* Dersom avfallet overskrider grenseverdien for DOC ved sin egen pH-verdi, kan det alternativt testes ved L/S = 10 l/kg og en pH på 7,5-8,0. Avfallet kan anses som å oppfylle mottakskriteriene for DOC, dersom resultatet av denne testen ikke overstiger 800 mg/kg.
 
@@ -3349,7 +3349,7 @@ Stabilt, ikke-reaktivt farlig avfall kan deponeres sammen med ordinært avfall i
 
    | *Parameter* | *Verdi* |
    | --- | --- |
-   | Totalt organisk karbon (TOC) | 5%\* |
+   | Totalt organisk karbon (TOC) | 5%[^\*] |
    | pH | Minst 6 |
 
 \* Dersom denne verdien ikke oppnås, kan forurensningsmyndigheten tillate en høyere grenseverdi, forutsatt at grenseverdien på 800 mg/kg overholdes for DOC ved L/S 10 l/kg, enten ved materialets egen pH eller ved en pH-verdi på mellom 7,5 og 8,0.
@@ -3388,8 +3388,8 @@ Farlig avfall som deponeres ved deponier for farlig avfall kan ikke overskride f
 | Klorid | 25000 | 15000 |
 | Fluorid | 500 | 120 |
 | Sulfat | 50000 | 17000 |
-| Løst organisk karbon (DOC)\* | 1000 | 320 |
-| Totalt oppløst fast stoff (TDS)\*\* | 100000 | – |
+| Løst organisk karbon (DOC)[^\*] | 1000 | 320 |
+| Totalt oppløst fast stoff (TDS)[^\*\*] | 100000 | – |
 
 \* Dersom avfallet overskrider grenseverdiene for DOC ved sin egen pH, kan det alternativt testes ved L/S = 10 l/kg og en pH på 7,5-8,0. Avfallet kan anses som å oppfylle mottakskriteriene for DOC dersom resultatet av denne bestemmelsen ikke overstiger 1000 mg/kg.
 
@@ -3402,7 +3402,7 @@ I tillegg til grenseverdiene for utlekkingspotensial fastsatt i 2.4.1, kan farli
 | *Parameter* | *Verdi* |
 | --- | --- |
 | Glødetap | 10% |
-| Totalt organisk karbon (TOC) | 6%\* |
+| Totalt organisk karbon (TOC) | 6%[^\*] |
 
 \* Dersom denne verdien ikke oppnås, kan vedkommende myndighet tillate en høyere grenseverdi, forutsatt at grenseverdien på 1000 mg/kg overholdes for DOC ved L/S = 10 l/kg, enten ved materialets egen pH eller ved en pH-verdi på mellom 7,5 og 8,0.
 
@@ -3517,11 +3517,11 @@ Dersom det vurderes som hensiktsmessig, for eksempel som et ledd i kontrollen av
 
 3\. *Utslippsdata: overvåking av sigevann, overflatevann, grunnvann og deponigass*
 
-Alle deponier med krav om sigevannsoppsamling, jf. vedlegg I til dette kapitlet pkt. 2, jf. pkt. 3.4, skal ha et overvåkingsprogram for sigevann. Prøvetaking og måling av sigevannets mengde og sammensetning må foretas på hvert punkt der det er utslipp av sigevann fra deponiet.1
+Alle deponier med krav om sigevannsoppsamling, jf. vedlegg I til dette kapitlet pkt. 2, jf. pkt. 3.4, skal ha et overvåkingsprogram for sigevann. Prøvetaking og måling av sigevannets mengde og sammensetning må foretas på hvert punkt der det er utslipp av sigevann fra deponiet.[^1]
 
 Overvåking av overflatevann skal utføres på minst to punkter, ett oppstrøms og ett nedstrøms i forhold til deponiet, og ved bruk av metoder og parametre som fanger opp utlekking over tid.
 
-Overvåkingen av grunnvann må rettes mot grunnvann som kan bli påvirket av deponiet, med minst ett målepunkt i grunnvannets innstrømmingsområde og to i utstrømmingsområdet. Antall prøvepunkter kan økes på grunnlag av en spesifikk hydrogeologisk undersøkelse og graden av behov for en rask konstatering av eventuelle utslipp av sigevann i grunnvannet som følge av uhell. Før deponiet settes i drift, må det tas prøver på minst tre steder for å fastsette referanseverdier for framtidige prøvetakinger.2 I den grad det er mulig, skal det etableres tiltaksgrenser for grunnvann som definerer når en betydelig skadevirkning på miljøet er oppstått og som utløser meldeplikt etter [§ 9-14](forskrift/2004-06-01-930/§9-14) og [§ 9-15](forskrift/2004-06-01-930/§9-15).
+Overvåkingen av grunnvann må rettes mot grunnvann som kan bli påvirket av deponiet, med minst ett målepunkt i grunnvannets innstrømmingsområde og to i utstrømmingsområdet. Antall prøvepunkter kan økes på grunnlag av en spesifikk hydrogeologisk undersøkelse og graden av behov for en rask konstatering av eventuelle utslipp av sigevann i grunnvannet som følge av uhell. Før deponiet settes i drift, må det tas prøver på minst tre steder for å fastsette referanseverdier for framtidige prøvetakinger.[^2] I den grad det er mulig, skal det etableres tiltaksgrenser for grunnvann som definerer når en betydelig skadevirkning på miljøet er oppstått og som utløser meldeplikt etter [§ 9-14](forskrift/2004-06-01-930/§9-14) og [§ 9-15](forskrift/2004-06-01-930/§9-15).
 
 Overvåkingen av gassdannelse er avhengig av deponiets innhold av biologisk nedbrytbart avfall, og må være representativ for hver seksjon av deponiet.
 
@@ -4139,7 +4139,7 @@ Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 tim
 
 | *Utslippsparameter* | *Utslippsgrenser for ufiltrerte døgnblandprøver* |  |
 | --- | --- | --- |
-| Total mengde suspendert stoff1 | A (100%)2 | B (95%)3 |
+| Total mengde suspendert stoff[^1] | A (100%)[^2] | B (95%)[^3] |
 |  | 45 mg/l | 30 mg/l |
 | Kvikksølv og kvikksølvforbindelser, uttrykt som kvikksølv (Hg) | 0,03 mg/l |  |
 | Kadmium og kadmiumforbindelser, uttrykt som kadmium (Cd) | 0,05 mg/l |  |
@@ -4179,7 +4179,7 @@ b. *Halvtimesmiddelverdier*
 
 | *Utslippsparameter* | *Utslippsgrenser* |  | *Enhet* |
 | --- | --- | --- | --- |
-|  | *A (100 %)1* | *B (97 %)2* |  |
+|  | *A (100 %)[^1]* | *B (97 %)[^2]* |  |
 | Totalt støv | 30 | 10 | mg/Nm3 |
 | Gass- og dampformige organiske forbindelser, uttrykt som totalt organisk karbon (TOC) | 20 | 10 | mg/Nm3 |
 | Hydrogenklorid (HCl) | 60 | 10 | mg/Nm3 |
@@ -4205,7 +4205,7 @@ Middelverdiene ovenfor omfatter totalutslipp i gass- og partikkelfase av de rele
 d. *Middelverdier for karbonmonoksid (CO)*
 
 - 50 mg/Nm3 som døgnmiddelverdi
-- 100 mg/Nm3 som halvtimesmiddelverdi,1 150 mg/Nm3 som timinuttersmiddelverdi.2
+- 100 mg/Nm3 som halvtimesmiddelverdi,[^1] 150 mg/Nm3 som timinuttersmiddelverdi.[^2]
 
 Forurensningsmyndigheten kan gjøre unntak fra utslippskravene til CO for anlegg som er utstyrt med fluidized bed teknologi forutsatt at det fastsettes en utslippsgrense på maksimalt 100 mg/Nm3 som timesmiddelverdi.
 
@@ -4327,7 +4327,7 @@ For midlingstider gjelder følgende definisjoner:
 | --- | --- | --- |
 | Kontinuerlig | Halvtimesmiddelverdi | Middelverdi over en periode på 30 minutter |
 | Kontinuerlig | Døgnmiddelverdi | Middelverdi over en periode på et døgn basert på gyldige halvtimesmiddelverdier |
-| Periodisk | Gjennomsnitt i prøvetakingsperioden | Middelverdi av tre påfølgende målinger på minst 30 minutter hver1<br><br>For PCDD/F og dioksinlignende PCBer benyttes en prøvetakingsperiode på 6–8 timer ved korttidsprøvetaking |
+| Periodisk | Gjennomsnitt i prøvetakingsperioden | Middelverdi av tre påfølgende målinger på minst 30 minutter hver[^1]<br><br>For PCDD/F og dioksinlignende PCBer benyttes en prøvetakingsperiode på 6–8 timer ved korttidsprøvetaking |
 | Periodisk | Langtidsprøvetaking | Verdi over en prøvetakingsperiode på 2–4 uker |
 
 1 For parametere hvor prøvetaking/måling på 30 minutter og/eller en middelverdi av tre påfølgende målinger er uegnet på grunn av begrensninger i forbindelse med prøvetaking eller analyse, kan en mer passende prosedyre benyttes.
@@ -4350,10 +4350,10 @@ Med kanaliserte utslipp menes utslipp av forurensende stoffer til miljøet gjenn
 | Karbonmonoksid (CO) | 10–50 | mg/Nm3 | døgnmiddelverdi |
 | Ammoniakk (NH3) fra bruk av selektiv ikke-katalytisk reduksjon SNCR og/eller selektiv katalytisk reduksjon SCR | 2–10 | mg/Nm3 | døgnmiddelverdi |
 | Totalt flyktig organisk karbon, uttrykt som C (TOC) | < 3–10 | mg/Nm3 | døgnmiddelverdi |
-| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)1 | < 0,01–0,04 | ng I-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
-| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)1 | < 0,01–0,06 | ng I-TEQ/Nm3 | langtidsprøvetaking2 |
-| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)1 | < 0,01–0,06 | ng WHO-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
-| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)1 | < 0,01–0,08 | ng WHO-TEQ/Nm3 | langtidsprøvetaking2 |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)[^1] | < 0,01–0,04 | ng I-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)[^1] | < 0,01–0,06 | ng I-TEQ/Nm3 | langtidsprøvetaking[^2] |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)[^1] | < 0,01–0,06 | ng WHO-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)[^1] | < 0,01–0,08 | ng WHO-TEQ/Nm3 | langtidsprøvetaking[^2] |
 | Summen av kvikksølv (Hg) og kvikksølvforbindelser, uttrykt som Hg | < 5–20 | µg/Nm3 | døgnmiddelverdi |
 
 1 Hvis utslippet av dioksinlignende PCB er påvist til under 0,01 ng WHO-TEQ/Nm3 skal utslippsgrenseverdiene for PCDD/F brukes. Dersom utslippet av dioksinlignende PCB ikke er påvist å være under 0,01 ng WHO-TEQ/Nm3 skal utslippsgrenseverdiene for PCDD/F + dioksinlignende PCB brukes.
@@ -4364,20 +4364,20 @@ Med kanaliserte utslipp menes utslipp av forurensende stoffer til miljøet gjenn
 
 | *Utslippsparameter* | *Utslippsgrense* | *Enhet* | *Midlingstid* |
 | --- | --- | --- | --- |
-| Totalt støv | < 2–51 | mg/Nm3 | døgnmiddelverdi |
+| Totalt støv | < 2–5[^1] | mg/Nm3 | døgnmiddelverdi |
 | Summen av kadmium (Cd), thallium (Tl) og deres forbindelser, uttrykt som Cd+Tl. | 0,005–0,02 | mg/Nm3 | gjennomsnitt i prøvetakingsperioden |
 | Summen av antimon, arsen, bly, krom, kobolt, kobber, mangan, nikkel, vanadium og deres forbindelser, uttrykt som Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V. | 0,01–0,3 | mg/Nm3 | gjennomsnitt i prøvetakingsperioden |
 | Hydrogenklorid (HCl) | < 2–8 | mg/Nm3 | døgnmiddelverdi |
 | Hydrogenfluorid (HF) | < 1 | mg/Nm3 | døgnmiddelverdi |
 | Svoveldioksid (SO2) | 5–40 | mg/Nm3 | døgnmiddelverdi |
-| Summen av nitrogenmonoksid (NO) og nitrogendioksid (NO2), uttrykt som NO2 | 50–1502 | mg/Nm3 | døgnmiddelverdi |
+| Summen av nitrogenmonoksid (NO) og nitrogendioksid (NO2), uttrykt som NO2 | 50–150[^2] | mg/Nm3 | døgnmiddelverdi |
 | Karbonmonoksid (CO) | 10–50 | mg/Nm3 | døgnmiddelverdi |
-| Ammoniakk (NH3) fra bruk av selektiv ikke-katalytisk reduksjon SNCR og/eller selektiv katalytisk reduksjon SCR | 2–103 | mg/Nm3 | døgnmiddelverdi |
+| Ammoniakk (NH3) fra bruk av selektiv ikke-katalytisk reduksjon SNCR og/eller selektiv katalytisk reduksjon SCR | 2–10[^3] | mg/Nm3 | døgnmiddelverdi |
 | Totale flyktige organisk karbon, uttrykt som C (TOC) | < 3–10 | mg/Nm3 | Døgnmiddelverdi |
-| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)4 | < 0,01–0,06 | ng I-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
-| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)4 | < 0,01–0,08 | ng I-TEQ/Nm3 | langtidsprøvetaking5 |
-| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)4 | < 0,01–0,08 | ng WHO-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
-| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)4 | < 0,01–0,1 | ng WHO-TEQ/Nm3 | langtidsprøvetaking5 |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)[^4] | < 0,01–0,06 | ng I-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)[^4] | < 0,01–0,08 | ng I-TEQ/Nm3 | langtidsprøvetaking[^5] |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)[^4] | < 0,01–0,08 | ng WHO-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)[^4] | < 0,01–0,1 | ng WHO-TEQ/Nm3 | langtidsprøvetaking[^5] |
 | Summen av kvikksølv (Hg) og kvikksølvforbindelser, uttrykt som Hg | < 5–20 | µg/Nm3 | døgnmiddelverdi |
 
 1 For anlegg for forbrenning av farlig avfall, og der et posefilter ikke kan brukes, er den øvre grensen i intervallet 7 mg/Nm3.
@@ -5542,7 +5542,7 @@ For virksomheter som nevnt i første ledd gjelder de øvrige bestemmelsene i ved
    | \*16 01 07 | oljefiltre |
    | \*16 01 08 | kvikksølvholdige komponenter |
    | \*16 01 09 | komponenter som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget |
-   | \*16 01 10 | Eksplosive komponenter (f.eks. airbager)1 |
+   | \*16 01 10 | Eksplosive komponenter (f.eks. airbager)[^1] |
    | \*16 01 11 | bremsebelegg som inneholder asbest |
    | 16 01 12 | andre typer bremsebelegg enn dem nevnt i 16 01 11 |
    | \*16 01 13 | bremsevæske |
@@ -5571,7 +5571,7 @@ For virksomheter som nevnt i første ledd gjelder de øvrige bestemmelsene i ved
    | \*16 03 05 | organisk avfall som inneholder farlige stoffer |
    | 16 03 06 | annet organisk avfall enn det nevnt i 16 03 05 |
    | \*16 03 07 | metallisk kvikksølv |
-   | **16 04** | Kasserte eksplosive stoffer1 |
+   | **16 04** | Kasserte eksplosive stoffer[^1] |
    | \*16 04 01 | Kassert ammunisjon |
    | \*16 04 02 | Kassert fyrverkeri |
    | \*16 04 03 | Andre kasserte eksplosive stoffer |
@@ -5869,7 +5869,7 @@ Ved vurderingen av avfallets egenskaper kan følgende merknader i CLP-forordning
 - Avsnitt 1.1.3.1; merknad B, D, F, J, L, M, P, Q, R og U
 - Avsnitt 1.1.3.2; merknad 1, 2, 3 og 5.
 
-*HP 1 Eksplosivt*1*:* Avfall som ved kjemiske reaksjoner kan utvikle gass med slik temperatur, trykk og så hurtig at omgivelsene kan ta skade. Dette inkluderer pyroteknisk avfall, avfall i form av eksplosive organiske peroksider og eksplosivt selvreaktivt avfall.
+*HP 1 Eksplosivt*[^1]*:* Avfall som ved kjemiske reaksjoner kan utvikle gass med slik temperatur, trykk og så hurtig at omgivelsene kan ta skade. Dette inkluderer pyroteknisk avfall, avfall i form av eksplosive organiske peroksider og eksplosivt selvreaktivt avfall.
 
 Når et avfall inneholder ett eller flere stoffer som er tildelt en av kodene for faresetning vist i tabellen nedenfor skal avfallet vurderes med hensyn til HP 1 i henhold til testmetoder dersom dette er hensiktsmessig og forholdsmessig.
 
@@ -6064,7 +6064,7 @@ Dersom konsentrasjonen av stoffer etter summering er under 25 % og avfallet i t
 
 Ʃc (H410) + Ʃc (H411) + Ʃc (H412) + Ʃc (H413) = total Ʃc
 
-*HP 15 Avfall som kan ha en farlig egenskap som er nevnt ovenfor som ikke direkte framgår av det opprinnelige avfallet*2.
+*HP 15 Avfall som kan ha en farlig egenskap som er nevnt ovenfor som ikke direkte framgår av det opprinnelige avfallet*[^2].
 
 Avfall som inneholder ett eller flere stoffer klassifisert med en av kodene for faresetning eller supplerende faresetning i tabellen nedenfor skal klassifiseres som farlig av typen HP 15, med mindre avfallet er i en slik form at det ikke under noen omstendigheter vil ha eksplosive eller potensielt eksplosive egenskaper.
 
@@ -6126,7 +6126,7 @@ Med betjent stasjonært mottak menes mottak der husholdninger og virksomheter ka
 
 *2.2 Ubetjente stasjonære mottak*
 
-Med ubetjente stasjonære mottak, også kalt miljøstasjoner, menes boder, containere e.l. plassert på sentrale steder i renovasjonsområdet. Mottaket er begrenset til farlig avfall fra husholdninger. Husholdningene plasserer selv avfall i mottaket. På grunn av deklarasjonsplikten tas det her ikke imot farlig avfall fra virksomheter.1
+Med ubetjente stasjonære mottak, også kalt miljøstasjoner, menes boder, containere e.l. plassert på sentrale steder i renovasjonsområdet. Mottaket er begrenset til farlig avfall fra husholdninger. Husholdningene plasserer selv avfall i mottaket. På grunn av deklarasjonsplikten tas det her ikke imot farlig avfall fra virksomheter.[^1]
 
 *2.3 Mobilt mottak/innsamling*
 
@@ -6144,7 +6144,7 @@ På de kommunale mottakene som omfattes av unntaksbestemmelsen i [§ 11-7](forsk
 
 *4. Andre avfallstyper*
 
-Disse standardiserte kravene omfatter ikke mottak av avfall i følgende ADR1 -klasser: eksplosive stoffer (klasse 1) og radioaktive materialer (klasse 7) eller stoffer med tilsvarende egenskaper. Myndigheten for nevnte stoffer og materialer er henholdsvis Direktoratet for samfunnssikkerhet og beredskap (DSB) og Direktoratet for strålevern og atomsikkerhet. Infeksjonsfremmende stoffer (klasse 6.2) er heller ikke omfattet av dette vedleggets standardiserte krav. Regulering av denne avfallstypen er under utvikling av Landbruksdepartementet, Helsedepartementet og Klima- og miljødepartementet.
+Disse standardiserte kravene omfatter ikke mottak av avfall i følgende ADR[^1] -klasser: eksplosive stoffer (klasse 1) og radioaktive materialer (klasse 7) eller stoffer med tilsvarende egenskaper. Myndigheten for nevnte stoffer og materialer er henholdsvis Direktoratet for samfunnssikkerhet og beredskap (DSB) og Direktoratet for strålevern og atomsikkerhet. Infeksjonsfremmende stoffer (klasse 6.2) er heller ikke omfattet av dette vedleggets standardiserte krav. Regulering av denne avfallstypen er under utvikling av Landbruksdepartementet, Helsedepartementet og Klima- og miljødepartementet.
 
 1 ADR: Europeisk avtale om internasjonal vegtransport av farlig gods.
 
@@ -6813,7 +6813,7 @@ Eksportøren skal gi Direktoratet for strålevern og atomsikkerhet melding når 
 
 Viser det seg at avfallet likevel ikke blir miljømessig forsvarlig håndtert på bestemmelsesstedet, skal eksportøren ta avfallet tilbake.
 
-Kasserte kapslede radioaktive kilder som returneres i henhold til [forskrift 16. desember 2016 nr. 1659 om strålevern og bruk av stråling](forskrift/2016-12-16-1659) § 13 første ledd1 trenger ikke tillatelse etter første ledd. Kravene i fjerde og femte ledd gjelder likevel.
+Kasserte kapslede radioaktive kilder som returneres i henhold til [forskrift 16. desember 2016 nr. 1659 om strålevern og bruk av stråling](forskrift/2016-12-16-1659) § 13 første ledd[^1] trenger ikke tillatelse etter første ledd. Kravene i fjerde og femte ledd gjelder likevel.
 
 Eksport av offshoreinstallasjoner som inneholder både radioaktivt avfall og farlig avfall krever kun tillatelse fra Miljødirektoratet etter kapittel 13 om grensekryssende transport av avfall og rådsforordning [(EF) nr. 1310/2006](eu/32006r1310). Miljødirektoratet skal innhente en uttalelse fra Direktoratet for strålevern og atomsikkerhet om eksporten av det radioaktive avfallet før tillatelse til eksport kan gis.
 

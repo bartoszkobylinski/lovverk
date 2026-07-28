@@ -15,7 +15,7 @@ xml_hash: "c4f89ffdc23999c47128de556f821d7a9f7e8f201a1e6c8ebd22c10d5983c2ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -437,7 +437,7 @@ Departementet kan gi forskrift om meldeplikt for kommuner, helseforetak og helse
 
 ### § 34. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
 1 Fra 1 jan 2012 iflg. [res. 24 juni 2011 nr. 637](forskrift/2011-06-24-637).
 

@@ -15,7 +15,7 @@ xml_hash: "8b9e5618fbee4bd98d8f1ed495844e49581be287dbbb796fff9f1d2cd967a9b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -154,7 +154,7 @@ Fritatt for avgift er sluttsedler ved overføring av aksjer:
 
 ### § 17
 
-1\. Denne lov trer i kraft fra den tid Kongen bestemmer.1
+1\. Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 2\. Departementet kan gi overgangsbestemmelser.
 

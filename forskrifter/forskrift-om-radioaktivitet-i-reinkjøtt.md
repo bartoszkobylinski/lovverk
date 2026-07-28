@@ -15,7 +15,7 @@ xml_hash: "a30beece5324e7437e7f98fe51ea447d3ea18feb3b3e2d9daeba1bf98097654f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,7 +55,7 @@ For at økonomisk kompensasjon skal kunne innvilges etter denne forskrift må:
 
 ## § 4. Tiltak det kan gis kompensasjon til
 
-Det kan gis kompensasjon etter fastsatte satser1 til:
+Det kan gis kompensasjon etter fastsatte satser[^1] til:
 
 1. Fremskyndet slakt. Kompensasjon ytes kun dersom det er sannsynliggjort at radioaktivitetsnivået vil komme over grenseverdien dersom fremskyndet slakt ikke gjennomføres.
 2. Nedfôring i anlegg.
@@ -87,7 +87,7 @@ Kompensasjon ved fôringstiltak skal dekke utgifter til kjøp og transport av f�
 
 ## § 6. Kassering av reinkjøtt
 
-Det skal normalt ikke ytes kompensasjon for kassert reinkjøtt. Statsforvalteren kan likevel godkjenne kompensasjon for kassert kjøtt etter fastsatte satser1 når:
+Det skal normalt ikke ytes kompensasjon for kassert reinkjøtt. Statsforvalteren kan likevel godkjenne kompensasjon for kassert kjøtt etter fastsatte satser[^1] når:
 
 1. når det på forhånd er klart at tiltak etter [§ 4](forskrift/2015-07-01-814/§4) ikke kan gjennomføres, eller i tilfeller der kostnadene ved slike tiltak blir uforholdsmessig høye.
 2. når tiltak er gjennomført i samsvar med godkjente planer, men hvor innholdet av radioaktivitet fortsatt er for høyt til at kjøttet blir godkjent for omsetning,
@@ -102,7 +102,7 @@ Tap av kalv dekkes etter sats 6, mens tap av rein over 1 år dekkes etter sats 7
 
 ## § 7. Tap av dyr ved måling av radioaktivitet eller ved nedfôring
 
-Tap av dyr ved måling av radioaktivitet, eller ved gjennomføring av nedfôring etter [§ 4](forskrift/2015-07-01-814/§4), dekkes etter fastsatte satser.1 Tap av kalv dekkes etter sats 6, mens tap av rein over 1 år dekkes etter sats 7.
+Tap av dyr ved måling av radioaktivitet, eller ved gjennomføring av nedfôring etter [§ 4](forskrift/2015-07-01-814/§4), dekkes etter fastsatte satser.[^1] Tap av kalv dekkes etter sats 6, mens tap av rein over 1 år dekkes etter sats 7.
 
 Tap skal være godkjent av statsforvalteren.
 

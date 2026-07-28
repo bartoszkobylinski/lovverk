@@ -15,7 +15,7 @@ xml_hash: "931dc0d974a09916538177bbbb00b7701e40885ccbae68ebcbbf6bc6b7895fc9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -105,7 +105,7 @@ Inntil ett år etter ikrafttredelsen av denne forskrift tillates produksjon og m
 
 Denne forskrift trer i kraft samtidig med at EØS-avtalen trer i kraft i Norge.
 
-## Vedlegg I. Ekstraksjonsmidler som kan brukes til alle formål i samsvar med god produksjonspraksis1
+## Vedlegg I. Ekstraksjonsmidler som kan brukes til alle formål i samsvar med god produksjonspraksis[^1]
 
 Ekstraksjonsmiddel:
 
@@ -114,7 +114,7 @@ Ekstraksjonsmiddel:
 - Etylacetat
 - Etanol
 - Karbondioksid
-- Aceton2
+- Aceton[^2]
 - Dinitrogenoksid
 
 > Endret ved [forskrift 8 mars 1999 nr. 295](forskrift/1999-03-08-295).
@@ -127,7 +127,7 @@ Ekstraksjonsmiddel:
 
 | *Navn* | *Bruksområde (kortfattet beskrivelse av ekstraksjonen)* | *Maksimale grenseverdier for restmengder i næringsmiddel eller næringsmiddelingrediens* |
 | --- | --- | --- |
-| Heksan1 | Fremstilling eller fraksjonering av fett og oljer, samt fremstilling av kakaosmør | 1 mg/kg i fett, oljer eller kakaosmør |
+| Heksan[^1] | Fremstilling eller fraksjonering av fett og oljer, samt fremstilling av kakaosmør | 1 mg/kg i fett, oljer eller kakaosmør |
 |  | Bearbeiding av proteinprodukter og fettfritt mel | 10 mg/kg i næringsmidler som inneholder proteinprodukter og fettfritt mel |
 |  | Bearbeiding av fettfri kornkim | 5 mg/kg i fettfri kornkim |
 |  | Fettfrie soyaprodukter | 30 mg/kg i det soyaprodukt som frambys den endelige forbruker |
@@ -136,13 +136,13 @@ Ekstraksjonsmiddel:
 |  | Tilberedning av avfettede kornkimer | 5 mg/kg i avfettede kornkimer |
 | Metylacetat | Fjerning av koffein, irriterende stoffer og bitterstoffer fra kaffe og te | 20 mg/kg kaffe eller te |
 |  | Fremstilling av sukker fra melasse | 1 mg/kg sukker |
-| Metyletyl-keton2 | Fraksjonering av fett og oljer | 5 mg/kg i fett eller oljer |
+| Metyletyl-keton[^2] | Fraksjonering av fett og oljer | 5 mg/kg i fett eller oljer |
 |  | Fjerning av koffein, irriterende stoffer og bitterstoffer fra kaffe og te | 20 mg/kg kaffe eller te |
 | Diklormetan | Fjerning av koffein, irriterende stoffer og bitterstoffer fra kaffe og te | 2 mg/kg i brent kaffe og 5 mg/kg i brent kaffe og te |
 | Metanol | Alle bruksområder | 10 mg/kg |
 | 2-propanol | Alle bruksområder | 10 mg/kg |
-| Dimetylether | Tilberedning av avfettede animalske proteinprodukter, herunder gelatin3 | 0,009 mg/kg i avfettede animalske proteinprodukter, herunder gelatin |
-| Dimetylether | Tilberedning av kollagen4 og kollagenderivater, unntatt gelatin | 3 mg/kg i kollagen og kollagenderivater, unntatt gelatin |
+| Dimetylether | Tilberedning av avfettede animalske proteinprodukter, herunder gelatin[^3] | 0,009 mg/kg i avfettede animalske proteinprodukter, herunder gelatin |
+| Dimetylether | Tilberedning av kollagen[^4] og kollagenderivater, unntatt gelatin | 3 mg/kg i kollagen og kollagenderivater, unntatt gelatin |
 
 1 Heksan er en handelsvare som hovedsakelig inneholder asykliske mettede hydrokarboner med 6 karbonatomer og som destillerer mellom 64 °C og 70 °C.
 
@@ -165,10 +165,10 @@ Ekstraksjonsmiddel:
 | Metylacetat | 1 mg/kg |
 | 1-butanol | 1 mg/kg |
 | 2-butanol | 1 mg/kg |
-| Metyletylketon | 1 mg/kg1 |
-| Diklormetan | 0,02 mg/kg1 |
+| Metyletylketon | 1 mg/kg[^1] |
+| Diklormetan | 0,02 mg/kg[^1] |
 | 1-propanol | 1 mg/kg |
-| 1,1,1,2- tetrafluoretan2 | 0,02 mg/kg |
+| 1,1,1,2- tetrafluoretan[^2] | 0,02 mg/kg |
 | Metanol | 1,5 mg/kg |
 | 2-Propanol | 1 mg/kg |
 

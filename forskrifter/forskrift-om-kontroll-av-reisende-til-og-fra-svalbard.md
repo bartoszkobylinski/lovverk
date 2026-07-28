@@ -15,7 +15,7 @@ xml_hash: "9a36eba91b25e93024ff154397ea14c4a5282024b3be91b3e2c30e53a981483f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Med politiet og grensekontrollmyndigheten i [grenseloven](lov/2018-04-20-8) og g
 
 Reisende til og fra Svalbard skal fremstille seg for kontroll når det kreves av Sysselmesteren på Svalbard.
 
-Under kontrollen skal den reisende legitimere sin identitet ved pass gyldig for innreise i Norge som fastsatt i [utlendingsforskriften § 2-3](forskrift/2009-10-15-1286/§2-3) første ledd. De samme kravene som fremgår i [utlendingsforskriften § 2-4](forskrift/2009-10-15-1286/§2-4) første, andre og tredje ledd, [§ 2-5](forskrift/2009-10-15-1286/§2-5), [§ 2-6](forskrift/2009-10-15-1286/§2-6) og [§ 2-7](forskrift/2009-10-15-1286/§2-7) første, andre og tredje ledd, [§ 2-8](forskrift/2009-10-15-1286/§2-8) og [§ 2-9](forskrift/2009-10-15-1286/§2-9), gjelder for Svalbard. Sysselmesteren kan godta andre dokumenter som gyldig legitimasjonsdokument, for eksempel passerbrev etter [utlendingsforskriften § 12-9](forskrift/2009-10-15-1286/§12-9) og [§ 12-10](forskrift/2009-10-15-1286/§12-10).1
+Under kontrollen skal den reisende legitimere sin identitet ved pass gyldig for innreise i Norge som fastsatt i [utlendingsforskriften § 2-3](forskrift/2009-10-15-1286/§2-3) første ledd. De samme kravene som fremgår i [utlendingsforskriften § 2-4](forskrift/2009-10-15-1286/§2-4) første, andre og tredje ledd, [§ 2-5](forskrift/2009-10-15-1286/§2-5), [§ 2-6](forskrift/2009-10-15-1286/§2-6) og [§ 2-7](forskrift/2009-10-15-1286/§2-7) første, andre og tredje ledd, [§ 2-8](forskrift/2009-10-15-1286/§2-8) og [§ 2-9](forskrift/2009-10-15-1286/§2-9), gjelder for Svalbard. Sysselmesteren kan godta andre dokumenter som gyldig legitimasjonsdokument, for eksempel passerbrev etter [utlendingsforskriften § 12-9](forskrift/2009-10-15-1286/§12-9) og [§ 12-10](forskrift/2009-10-15-1286/§12-10).[^1]
 
 Grenseforskriften § 1-3 første ledd andre punktum om pass og nasjonalt ID-kort gjelder for Svalbard.
 

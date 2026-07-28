@@ -15,7 +15,7 @@ xml_hash: "7b6d38ab09a7192575bbfd795ee9cdfef284dd9184fb7ddc9b737ba052e999f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,19 +104,19 @@ I denne forordning menes med
    1. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi fra et tredjeland til et annet tredjeland, eller
    2. salg eller kjøp av varer og teknologi som befinner seg i tredjeland med henblikk på overføring til et annet tredjeland.
 3. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, spesielt finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som oppstår i henhold til eller i forbindelse med transaksjonen,
-4. «kredittinstitusjon»: en kredittinstitusjon som definert i artikkel 4 nr. 1 i europaparlaments- og rådsdirektiv [2006/48/EF](eu/32006l0048) av 14. juni 2006 om adgang til å starte og utøve virksomhet som kredittinstitusjon, 1 herunder filialer innenfor eller utenfor EU,
+4. «kredittinstitusjon»: en kredittinstitusjon som definert i artikkel 4 nr. 1 i europaparlaments- og rådsdirektiv [2006/48/EF](eu/32006l0048) av 14. juni 2006 om adgang til å starte og utøve virksomhet som kredittinstitusjon, [^1] herunder filialer innenfor eller utenfor EU,
 5. «råolje og oljeprodukter»: produktene oppført i vedlegg IV,
 6. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
 7. «finansinstitusjon»:
 
    1. et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere av transaksjonene nevnt i nr. 2 til 12 og nr. 14 og 15 i vedlegg I til direktiv [2006/48/EF](eu/32006l0048), herunder virksomhet som vekslekontor,
-   2. et forsikringsselskap som har fått tillatelse i henhold til europaparlaments- og rådsdirektiv [2002/83/EF](eu/32002l0083) av 5. november 2002 om livsforsikring,2 i den grad det utøver virksomhet som dekkes av dette direktivet,
-   3. et verdipapirforetak som definert i artikkel 4 punkt 1 nr. 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*) av 21. april 2004 om markeder for finansielle instrumenter,3
+   2. et forsikringsselskap som har fått tillatelse i henhold til europaparlaments- og rådsdirektiv [2002/83/EF](eu/32002l0083) av 5. november 2002 om livsforsikring,[^2] i den grad det utøver virksomhet som dekkes av dette direktivet,
+   3. et verdipapirforetak som definert i artikkel 4 punkt 1 nr. 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*) av 21. april 2004 om markeder for finansielle instrumenter,[^3]
    4. et foretak for kollektiv investering som markedsfører sine enheter eller andeler,
 
    eller
 
-   1. en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092) av 9. desember 2002 om forsikringsformidling,4 med unntak av formidlerne nevnt i artikkel 2 nr. 7 i nevnte direktiv, når de utøver virksomhet med hensyn til livsforsikring og andre investeringsrelaterte tjenester,
+   1. en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092) av 9. desember 2002 om forsikringsformidling,[^4] med unntak av formidlerne nevnt i artikkel 2 nr. 7 i nevnte direktiv, når de utøver virksomhet med hensyn til livsforsikring og andre investeringsrelaterte tjenester,
 
 herunder foretakenes filialer i og utenfor EU,
 
@@ -148,7 +148,7 @@ herunder foretakenes filialer i og utenfor EU,
    4. enhver juridisk person, enhver enhet eller ethvert organ, i eller utenfor Syria, som er eid eller direkte eller indirekte kontrollert av en eller flere av de ovennevnte personer eller organer,
 9. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, samling, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,
 10. «EUs territorium»: de av medlemsstatenes territorier der traktaten om Den europeiske unions virkemåte om kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder deres luftrom.
-11. «EUs tollområde»: området definert i artikkel 3 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks.5
+11. «EUs tollområde»: området definert i artikkel 3 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks.[^5]
 
 1 EUT L 177 av 30.6.2006, s. 1.
 
@@ -188,11 +188,11 @@ EKSPORT- OG IMPORTRESTRIKSJONER
 
 2\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse til salg, levering, overføring eller eksport av utstyret, varene eller teknologien oppført i vedlegg IX dersom det er skjellig grunn til å fastslå at utstyret, varene eller teknologien som salget, leveringen, overføringen eller eksporten gjelder, brukes eller kan brukes til intern undertrykking eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking.
 
-3\. Tillatelsen skal gis av de kompetente myndigheter i medlemsstaten der eksportøren er etablert, og skal være i samsvar med de detaljerte reglene fastsatt i artikkel 11 i rådsforordning [(EF) nr. 428/2009](eu/32009r0428*) av 5. mai 2009 om en fellesskapsordning for kontroll med eksport, overføring, formidling og transitt av flerbruksvarer.6 Tillatelsen skal gjelde i hele Den europeiske union.
+3\. Tillatelsen skal gis av de kompetente myndigheter i medlemsstaten der eksportøren er etablert, og skal være i samsvar med de detaljerte reglene fastsatt i artikkel 11 i rådsforordning [(EF) nr. 428/2009](eu/32009r0428*) av 5. mai 2009 om en fellesskapsordning for kontroll med eksport, overføring, formidling og transitt av flerbruksvarer.[^6] Tillatelsen skal gjelde i hele Den europeiske union.
 
 ### Artikkel 2c
 
-1\. Reglene om plikten til å gi forhåndsopplysninger som fastsatt i de relevante bestemmelsene om summariske deklarasjoner samt tolldeklarasjoner i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) av 2. juli 1993 om fastsettelse av regler for gjennomføringen av rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*)7 gjelder for alle varer som forlater EUs tollområde på vei til Syria.
+1\. Reglene om plikten til å gi forhåndsopplysninger som fastsatt i de relevante bestemmelsene om summariske deklarasjoner samt tolldeklarasjoner i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) av 2. juli 1993 om fastsettelse av regler for gjennomføringen av rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*)[^7] gjelder for alle varer som forlater EUs tollområde på vei til Syria.
 
 Personen eller enheten som gir opplysningene, skal også legge fram eventuelle tillatelser som kreves i denne forordning.
 
@@ -557,7 +557,7 @@ Annex Ia: List of equipment, goods and technology referred to in article 2a
 
 1\.
 
-This Part comprises goods, software and technology listed in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).1
+This Part comprises goods, software and technology listed in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).[^1]
 
 2\.
 
@@ -1080,7 +1080,7 @@ Animal pathogens, as follows:
    2. Avian influenza virus, which are:
 
       1. Uncharacterised; or
-      2. Defined in Annex I(2) to Directive [2005/94/EC](eu/32005l0094*)2 as having high pathogenicity, as follows:
+      2. Defined in Annex I(2) to Directive [2005/94/EC](eu/32005l0094*)[^2] as having high pathogenicity, as follows:
 
          1. Type A viruses with an IVPI (intravenous pathogenicity index) in six-week-old chickens of greater than 1,2; or
          2. Type A viruses of the subtypes H5 or H7 with genome sequences codified for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other HPAI viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease;
@@ -1516,7 +1516,7 @@ Annex V: Equipment, technology and software referred to in article 4
 
 Notwithstanding the contents of this Annex, it shall not apply to:
 
-1. equipment, technology or software which are specified in Annex I to Council Regulation [(EC) 428/2009](eu/32009r0428*)1 or the Common Military List; or
+1. equipment, technology or software which are specified in Annex I to Council Regulation [(EC) 428/2009](eu/32009r0428*)[^1] or the Common Military List; or
 2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
 
    1. over the counter transactions;
@@ -1537,9 +1537,9 @@ The «equipment, technology and software» referred to in Article 4 is:
 - Network and Satellite jamming equipment
 - Remote Infection equipment
 - Speaker recognition/processing equipment
-- IMSI,2 MSISDN,3 IMEI,4 TMSI5 interception and monitoring equipment
-- Tactical SMS6 /GSM7 /GPS8 /GPRS9 /UMTS10 /CDMA11 /PSTN12 interception and monitoring equipment
-- DHCP13 /SMTP,14 GTP15 information interception and monitoring equipment
+- IMSI,[^2] MSISDN,[^3] IMEI,[^4] TMSI[^5] interception and monitoring equipment
+- Tactical SMS[^6] /GSM[^7] /GPS[^8] /GPRS[^9] /UMTS[^10] /CDMA[^11] /PSTN[^12] interception and monitoring equipment
+- DHCP[^13] /SMTP,[^14] GTP[^15] information interception and monitoring equipment
 - Pattern Recognition and Pattern Profiling equipment
 - Remote Forensics equipment
 - Semantic Processing Engine equipment

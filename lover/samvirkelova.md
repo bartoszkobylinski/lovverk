@@ -15,7 +15,7 @@ xml_hash: "78704e91392a1f51abc2bcd6d0b6549efb8b9a11119f2955889c657dfd1a6a03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1455,7 +1455,7 @@ I saker mellom foretaket og styret eller enkelte styremedlemmar skal årsmøtet 
 
 ### § 162. Iverksetjing
 
-Lova gjeld frå den tid Kongen fastset.1 Dei einskilde føresegnene kan setjast i verk til ulik tid.
+Lova gjeld frå den tid Kongen fastset.[^1] Dei einskilde føresegnene kan setjast i verk til ulik tid.
 
 1 Frå 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287).
 

@@ -15,7 +15,7 @@ xml_hash: "adfa086c1512d3086c9e57897844a1b92fbc990e00c6922f106c1638787d8d47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,7 +116,7 @@ Departementet kan gi forskrift om hvilke betingelser for betaling, frakt og leve
 
 Ved gjennomføring av plikter etter denne loven eller avtaler som omfattes av loven, kan utgivere og forhandlere ikke gi hverandre særlig gunstige vilkår basert på eierskap.
 
-## § 12. Innkjøpsrabatt1
+## § 12. Innkjøpsrabatt[^1]
 
 For papirbøker med fastpris etter [§ 5](lov/2023-06-16-64/§5) skal det være en maksimalsats og en minimumssats for innkjøpsrabatt fra utgiver til forhandler. Departementet gir forskrift om størrelsen på disse satsene.
 
@@ -136,7 +136,7 @@ Innenfor denne lovens virkeområde skal bestemmelsene i loven ved motstrid gå f
 
 ## § 14. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Departementet kan gi forskrift om overgangsbestemmelser for bøker som omfattes av fastpris etter en gjeldende bokavtale på det tidspunktet loven begynner å gjelde.
 

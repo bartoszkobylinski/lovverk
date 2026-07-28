@@ -15,7 +15,7 @@ xml_hash: "1885d653d06670b632caef4c9281600a09c8b294a4ac7c494ea687b21917542d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -447,7 +447,7 @@ Nasjonale godkjenninger for pyrotekniske artikler til kjøretøyer gitt før 1. 
 
 ### § 34. Ikrafttredelse
 
-Forskriften trer i kraft ved kunngjøring i Norsk Lovtidend.1
+Forskriften trer i kraft ved kunngjøring i Norsk Lovtidend.[^1]
 
 1 Kunngjort 11 okt 2013.
 
@@ -858,7 +858,7 @@ MODUL H: *Samsvar på grunnlag av full kvalitetssikring*
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Registreringsnummer | Dato for utstedelse av EF-typeprøvingssertifikat (modul B), samsvarssertifikat (modul G) eller godkjenning av kvalitetssystem (modul H) og eventuell utløpsdato | Produsent | Type produkt og eventuelt undertype | Produksjonsfase samsvarsmodul1 | Meldt organ ansvarlig for vurdering av samsvar på basis av produksjonsfase1 | Tilleggsinformasjon |
+| Registreringsnummer | Dato for utstedelse av EF-typeprøvingssertifikat (modul B), samsvarssertifikat (modul G) eller godkjenning av kvalitetssystem (modul H) og eventuell utløpsdato | Produsent | Type produkt og eventuelt undertype | Produksjonsfase samsvarsmodul[^1] | Meldt organ ansvarlig for vurdering av samsvar på basis av produksjonsfase[^1] | Tilleggsinformasjon |
 
 1 Må alltid fylles ut dersom det meldte organ gjennomfører samsvarsvurdering etter vedlegg II modul (B). Ikke nødvendig for samsvarsvurderingsprosedyrer etter vedlegg II modul (G) og (H). Informasjon skal gis (der denne er kjent) hvis et annet meldt organ er involvert.
 

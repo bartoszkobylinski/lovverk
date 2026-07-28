@@ -15,7 +15,7 @@ xml_hash: "2542a3a437a0ed0198be8c5e8326a0d2513ec70234098f776eb2d0e6d0eba528"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -132,7 +132,7 @@ Hovedtegninger som omfatter skrog og eventuell værtett lukket overbygning når 
 
 1.2.2.
 
-Øvrige tegninger i forbindelse med skrog hvor det fordres beregninger for styrke m.v., skal sammen med beregningsunderlaget innsendes i 1 eksemplar for gjennomsyn og eventuell oppfølging1. Ytterligere detaljtegninger kan forlanges innsendt i det omfang som Sjøfartsdirektoratet bestemmer. Nødvendig tegningsunderlag skal dessuten stilles til Skipskontrollens rådighet ved byggetilsyn, jfr. [§ 7](forskrift/1991-10-15-712/§7).
+Øvrige tegninger i forbindelse med skrog hvor det fordres beregninger for styrke m.v., skal sammen med beregningsunderlaget innsendes i 1 eksemplar for gjennomsyn og eventuell oppfølging[^1]. Ytterligere detaljtegninger kan forlanges innsendt i det omfang som Sjøfartsdirektoratet bestemmer. Nødvendig tegningsunderlag skal dessuten stilles til Skipskontrollens rådighet ved byggetilsyn, jfr. [§ 7](forskrift/1991-10-15-712/§7).
 
 2\.
 
@@ -144,7 +144,7 @@ For klassifiserte fiske- og fangstfartøy gjelder tilsvarende som i nr. 1.1. ove
 
 2.2.
 
-For uklassifiserte fartøy skal 1 eksemplar av tegning som viser maskinromsarrangement, lense-, brennolje- og sjøkjølevannsystem med angivelse av relevante data for motorer, pumper og andre komponenter som er nødvendig for skipets sikkerhet og drift, samt akselledning, ror og propell, innsendes for gjennomsyn og eventuell oppfølging1. Beregninger skal vedlegges tegningene. Rapport fra torsjonssvingningskontroll skal sendes inn i de tilfeller motorytelsen overstiger 500 KW eller dersom motorytelsen overstiger 300 KW og akselarrangementet samtidig har en lengde på over 6 m. Den som utfører, eller får utført slik kontroll er ansvarlig for at kontrollen er korrekt utført.
+For uklassifiserte fartøy skal 1 eksemplar av tegning som viser maskinromsarrangement, lense-, brennolje- og sjøkjølevannsystem med angivelse av relevante data for motorer, pumper og andre komponenter som er nødvendig for skipets sikkerhet og drift, samt akselledning, ror og propell, innsendes for gjennomsyn og eventuell oppfølging[^1]. Beregninger skal vedlegges tegningene. Rapport fra torsjonssvingningskontroll skal sendes inn i de tilfeller motorytelsen overstiger 500 KW eller dersom motorytelsen overstiger 300 KW og akselarrangementet samtidig har en lengde på over 6 m. Den som utfører, eller får utført slik kontroll er ansvarlig for at kontrollen er korrekt utført.
 
 Ytterligere detaljtegninger kan forlanges innsendt i det omfang Sjøfartsdirektoratet bestemmer. Nødvendig tegningsunderlag skal dessuten stilles til Skipskontrollens rådighet ved byggetilsyn, jfr. [§ 7](forskrift/1991-10-15-712/§7).
 
@@ -1308,7 +1308,7 @@ Ventilasjon eller luftrør fra tanker med brennolje, vann m.v. skal være utfør
 
 Vedrørende ventilasjon av innredning, proviantrom, fryseeller kjølerom vises det til den til enhver tid gjeldende forskrift om plassering m.v. av innredning og om forpleiningstjenesten på fiske- og fangstfartøy.
 
-3.1
+3.[^1]
 
 . Skansekledning, rekkverk, fester for dekkslast m.v. på dekk.
 
@@ -1324,7 +1324,7 @@ Det skal være tilfredsstillende 2-veis samband mellom utkikksplass og broen.
 
 På fartøy hvor det føres dekkslast, herunder fiskeredskap, fat m.v., skal det være forsvarlige fester for surringer, eller andre sikringsanordninger som hindrer forskyvning av lasten. Dekkslast i form av fisk, skal være anbrakt i kasser eller binger som er utført og dimensjonert for å tåle de påkjenninger som kan oppstå. Binger skal dessuten være plassert og utført slik at av overvann på dekk er sikret god drenering.
 
-4.2
+4.[^2]
 
 Sikring av maskineri, vinsjer m.v.
 
@@ -1344,7 +1344,7 @@ Vinsj og utstyr/innretninger i tilknytning til vinsj, skal være utført i henho
 
 Innhivningsmaskineri for garn og line (garn- og linespill, m.v.) skal sikres slik at det stopper dersom en person dras med mot innhivningsanordningen.
 
-5.3
+5.[^3]
 
 Person- og vare/personheis.
 
@@ -1352,7 +1352,7 @@ Person- og vare/personheis.
 
 Bygging, installasjon, drift og kontroll av person- og vare/personheis skal tilfredsstille anerkjent klasseinstitusjons regler om skipsheiser dog minst tilsvarende den internasjonale standard, ISO nr. 8383, «Lifts on Ships-Specific Requirements».
 
-6.4
+6.[^4]
 
 Trålarrangement, snurrevadarrangement, m.v.
 

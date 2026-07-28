@@ -15,7 +15,7 @@ xml_hash: "4237001de5e7ed5a640ecf97ce5a40e72b911fe2bbc667bdf90ffb3057043db4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 Med formål å forebygge trøtthet skal
 
-1. det etableres og håndheves hvileperioder1 for vaktgående personell, og
+1. det etableres og håndheves hvileperioder[^1] for vaktgående personell, og
 2. kreves at vaktordningen innrettes slik at effektiviteten til alt vaktgående personell ikke blir nedsatt på grunn av trøtthet, og at tjenesten må være lagt slik til rette at første vakt ved begynnelsen av en reise og etterfølgende avløsningsvakter er tilstrekkelig uthvilt og ellers i stand til å gjøre tjeneste.
 
 1 Jf. [lov av 3. juni 1977 nr. 50](lov/1977-06-03-50) om arbeidstiden på skip med senere endringer.
@@ -481,7 +481,7 @@ alarmer, indikatorer og kontroller for ubemannede maskinrom fungerer skikkelig.
 
 35
 
-Den vakthavende dekksoffiseren skal ha i minne nødvendigheten av å oppfylle, til alle tider, gjeldende krav i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs (](traktat/1974-11-01-1)[SOLAS), 1974.1](traktat/1974-11-01-1) Den vakthavende dekksoffiseren skal ta hensyn til:
+Den vakthavende dekksoffiseren skal ha i minne nødvendigheten av å oppfylle, til alle tider, gjeldende krav i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs (](traktat/1974-11-01-1)[SOLAS), 1974.[^1]](traktat/1974-11-01-1) Den vakthavende dekksoffiseren skal ta hensyn til:
 
 35.1
 
@@ -1385,7 +1385,7 @@ Det er avgjørende at ansvarshavende vaktoffiserer på broen forstår at effekti
 
 4
 
-Rederiene bør utarbeide veiledning om forsvarlige prosedyrer på broen og fremme bruk av sjekklister som er tilpasset hvert skip, idet det tas hensyn til nasjonal og internasjonal veiledning.1
+Rederiene bør utarbeide veiledning om forsvarlige prosedyrer på broen og fremme bruk av sjekklister som er tilpasset hvert skip, idet det tas hensyn til nasjonal og internasjonal veiledning.[^1]
 
 5
 
@@ -1405,7 +1405,7 @@ pliktene bør på en klar og utvetydig måte tildeles bestemte personer, som bø
 
 5.4
 
-oppgavene bør utføres i en klart prioritert rekkefølge;1
+oppgavene bør utføres i en klart prioritert rekkefølge;[^1]
 
 5.5
 

@@ -15,7 +15,7 @@ xml_hash: "9d7a6376ded128ba8fe624c5578160c1ae25492fc56d3a7651f7b4128d664569"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,6 +92,6 @@ Søksmål om Medieklagenemndas vedtak i medhold av denne loven skal rettes mot s
 
 ### § 13. Ikraftsetting
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Loven trer i kraft 1 jan 2021 iflg. res. [18 des 2020 nr. 2835](forskrift/2020-12-18-2835).

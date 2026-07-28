@@ -15,7 +15,7 @@ xml_hash: "58b17eddae4aa3b9282006c1989c7e0adace1c003387ca08d6992c692e69677c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -182,7 +182,7 @@ Statsorgan skal gje Språkrådet dei rapportane og opplysningane som Språkråde
 
 ## § 21. Iverksetjing og overgangsreglar
 
-Lova gjeld frå den tida1 Kongen fastset. Frå same tidspunkt blir [lov 11. april 1980 nr. 5 om målbruk i offentleg teneste](lov/1980-04-11-5) oppheva.
+Lova gjeld frå den tida[^1] Kongen fastset. Frå same tidspunkt blir [lov 11. april 1980 nr. 5 om målbruk i offentleg teneste](lov/1980-04-11-5) oppheva.
 
 Forskrifter som er gjevne i medhald av [lov 11. april 1980 nr. 5 om målbruk i offentleg teneste](lov/1980-04-11-5), held fram å gjelde så langt dei ikkje er i strid med i lova her.
 

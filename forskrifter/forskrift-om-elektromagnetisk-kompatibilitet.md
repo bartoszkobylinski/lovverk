@@ -16,7 +16,7 @@ xml_hash: "2642b5145638a088779d0c308ad14e6df9b80d9f61faa1dd235c317d0ba0cd3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -569,7 +569,7 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 Produsentens forpliktelser angitt i nr. 3 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
-## Vedlegg IV. Samsvarserklæring1
+## Vedlegg IV. Samsvarserklæring[^1]
 
 1\.
 

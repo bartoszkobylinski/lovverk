@@ -15,7 +15,7 @@ xml_hash: "a481dd33a89a91486d7aa149b1927da1ad305e7da30a177b195401a6f5ffc78b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -208,7 +208,7 @@ Den som uaktsomt eller forsettlig overtrer §§ 9 første ledd, 16, 19 eller 25 
 
 ## § 27. Ikrafttredelse og endringer i andre lover
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 – – –
 

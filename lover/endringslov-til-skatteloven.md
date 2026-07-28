@@ -15,7 +15,7 @@ xml_hash: "67f0247c2b8f99354f673354ad3ca1756f971e7ff86726b9c46fbed7dbfa18c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 I [lov 26. mars 1999 nr. 14](lov/1999-03-26-14) om skatt av formue og inntekt gjøres følgende endringer:
 
-## X1
+## X[^1]
 
 1 Se [lov 12 des 2008 nr. 99](lov/2008-12-12-99) del VII.
 

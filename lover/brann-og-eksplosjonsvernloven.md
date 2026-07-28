@@ -15,7 +15,7 @@ xml_hash: "db34e8956dc6347f6ee49fce8e92c6f4552d971b961b6bf1123e16643112e0c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32012L0018"
@@ -570,7 +570,7 @@ Forskrifter, vedtekter og andre bestemmelser gitt i medhold av [lov 21. mai 1971
 
 ### § 45. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Iflg. [res. 14 juni 2002 nr. 536](forskrift/2002-06-14-536) trer loven ikr. 1 juli 2002 med følgende unntak: For Svalbard gjelder ikke [lovens § 46](lov/2002-06-14-20/§46) nr. 2 og 3.
 

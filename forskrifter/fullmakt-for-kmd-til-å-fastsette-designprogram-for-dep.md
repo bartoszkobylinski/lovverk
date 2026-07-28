@@ -15,14 +15,14 @@ xml_hash: "b6e602d65f05b8bcf8e1a129cf16882fc3c511675226aeb9d3f393120118730c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Fullmakt for Kommunal- og moderniseringsdepartementet til å fastsette og vedlikeholde designprogrammet for departementene
 
-1. Kongelig resolusjon 9. oktober 19961 om fastsettelse av grafisk designprogram for departementene og for regjeringens dokumenter til Stortinget oppheves med virkning fra 1. juli 2015.
+1. Kongelig resolusjon 9. oktober 1996[^1] om fastsettelse av grafisk designprogram for departementene og for regjeringens dokumenter til Stortinget oppheves med virkning fra 1. juli 2015.
 2. Kommunal- og moderniseringsdepartementet gis fullmakt til å fastsatte et revidert designprogram for departementene, samt gjøre nødvendige tilpasninger i fremtiden. Prinsipielle spørsmål vedrørende utforming av regjeringens dokumenter til Stortinget skal forelegges Statsministerens kontor før beslutning.
 
 1 Ikke kunngjort i Norsk Lovtidend. Lovdatas anm.

@@ -15,7 +15,7 @@ xml_hash: "72425323ad83a708dc87fd02236cb96c281f125b0ff2022cb2900621ae1d814b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31998L0071"
@@ -632,7 +632,7 @@ Hvis en internasjonal registrering helt eller delvis opphører å gjelde, opphø
 
 ### § 62. Ikraftsettings- og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Designloven gjelder også for design som er registrert eller søkt registrert før loven trådte i kraft, med de unntakene som følger av paragrafen her.
 

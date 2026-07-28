@@ -15,7 +15,7 @@ xml_hash: "6ede1618ca8ea5005be2c6b84725136e53e62704e9fc5ad2d82119040ac102f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ I [lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar](lov/2
 
 ## III
 
-Lova gjeld frå den tida1 Kongen fastset. Kongen kan fastsetje at dei enkelte føresegnene skal ta til å gjelde til ulik tid.
+Lova gjeld frå den tida[^1] Kongen fastset. Kongen kan fastsetje at dei enkelte føresegnene skal ta til å gjelde til ulik tid.
 
 Forskrifter og enkeltvedtak gjevne med heimel i [deltakerloven](lov/1999-03-26-15) eller [havressurslova](lov/2008-06-06-37) før denne lova tek til å gjelde, skal framleis gjelde dersom dei ikkje strir mot denne lova eller mot forskrifter eller enkeltvedtak som vert fastsette etter at lova her tek til å gjelde.
 

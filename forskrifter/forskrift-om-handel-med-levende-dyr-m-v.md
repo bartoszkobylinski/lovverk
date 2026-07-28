@@ -15,7 +15,7 @@ xml_hash: "32a74a6b816ac2fd022012480503e5ef7278b3a12424558cece56e7c1af3d93a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -162,7 +162,7 @@ Midlertidig innførsel av registrerte dyr av hestefamilien og forsøksdyr til go
 
 ### § 13. Virkeområde for kapittel IV
 
-Bestemmelsene i dette kapittelet gjelder ved innførsel fra land utenfor EØS av levende dyr. Annet avlsmateriale og animalsk avfall skal kontrolleres i henhold til forskrift om tilsyn og kontroll ved import og transitt mv. av animalske næringsmidler og av produkter av animalsk opprinnelse mv. fra tredjeland.1
+Bestemmelsene i dette kapittelet gjelder ved innførsel fra land utenfor EØS av levende dyr. Annet avlsmateriale og animalsk avfall skal kontrolleres i henhold til forskrift om tilsyn og kontroll ved import og transitt mv. av animalske næringsmidler og av produkter av animalsk opprinnelse mv. fra tredjeland.[^1]
 
 > Endret ved [forskrift 18 okt 1999 nr. 1164](forskrift/1999-10-18-1164).
 
@@ -172,7 +172,7 @@ Bestemmelsene i dette kapittelet gjelder ved innførsel fra land utenfor EØS av
 
 Alle forsendelser fra tredjestater skal underkastes kontroll av en offentlig veterinær på en veterinær grensekontrollstasjon i henhold til liste utarbeidet av Mattilsynet over norske grensekontrollstasjoner og kontrollsentre for import av levende dyr, næringsmidler og andre produkter av animalsk opprinnelse.
 
-Ved grensekontrollstasjonen skal det foretas dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelsen i samsvar med bestemmelsene i gjeldende instruks.1 Ved slik kontroll kan det tas ut prøver som vurderes som nødvendige.
+Ved grensekontrollstasjonen skal det foretas dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelsen i samsvar med bestemmelsene i gjeldende instruks.[^1] Ved slik kontroll kan det tas ut prøver som vurderes som nødvendige.
 
 Etter gjennomført kontroll utsteder offentlig veterinær på grensekontrollstasjonen CHED på den måte som er fastsatt i [forskrift 9. mars 2020 nr. 708](forskrift/2020-03-09-708) om offentlig kontroll – generelle regler for grensekontroll forordning [(EU) 2019/2123](eu/32019r2123), forordning [2019/2126](eu/32019r2126), forordning [2019/2129](eu/32019r2129) og forordning [2019/2130](eu/32019r2130) og [forskrift 9. mars 2020 nr. 715](forskrift/2020-03-09-715) om offentlig kontroll – IMSOC – forordning [(EU) 2019/1715](eu/32019r1715*).
 

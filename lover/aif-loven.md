@@ -15,7 +15,7 @@ xml_hash: "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32011L0061"
@@ -100,7 +100,7 @@ I denne lov forstås med:
 
 ### § 1-6. Behandling av personopplysninger i tilknytning til autorisasjonsordninger for ansatte
 
-Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og autoriserer personer som er ansatt hos en forvalter for et alternativt investeringsfond med tillatelse etter [§ 2-2](lov/2014-06-20-28/§2-2), eller som er registreringspliktig etter [§ 1-4](lov/2014-06-20-28/§1-4), kan behandle slike opplysninger som nevnt i personvernforordningen1 artikkel 10 som ledd i vurderingen av om en ansatt skal gis autorisasjon, fratas autorisasjon eller gis advarsel.
+Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og autoriserer personer som er ansatt hos en forvalter for et alternativt investeringsfond med tillatelse etter [§ 2-2](lov/2014-06-20-28/§2-2), eller som er registreringspliktig etter [§ 1-4](lov/2014-06-20-28/§1-4), kan behandle slike opplysninger som nevnt i personvernforordningen[^1] artikkel 10 som ledd i vurderingen av om en ansatt skal gis autorisasjon, fratas autorisasjon eller gis advarsel.
 
 > Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
@@ -971,7 +971,7 @@ Med bøter eller fengsel i inntil ett år straffes den som forsettlig eller uakt
 
 ### § 12-1. Ikrafttredelse
 
-(1) Loven gjelder fra den tid Kongen bestemmer.1
+(1) Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 (2) Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 

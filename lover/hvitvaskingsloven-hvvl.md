@@ -15,7 +15,7 @@ xml_hash: "9acfaf0753d363db347c4f24b461428fe298ce94b4d94522273ec24b266951d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -563,7 +563,7 @@ Rapporteringspliktige skal før etablering av et kundeforhold eller gjennomføri
 
 1. utnevne etterlevelsesansvarlig
 2. gjennomføre skikkethetsvurderinger av ansatte
-3. opprette en uavhengig kontroll med at virksomhetens interne rutiner overholdes1
+3. opprette en uavhengig kontroll med at virksomhetens interne rutiner overholdes[^1]
 
 1 Inkurie: Teksten er vedtatt uten avsluttende punktum.
 
@@ -718,7 +718,7 @@ Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter
 7. graden av samarbeid med myndighetene
 8. eventuelle tidligere overtredelser av hvitvaskingsloven eller forskrifter med hjemmel i loven
 
-De samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.1
+De samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.[^1]
 
 1 Inkurie: Skal vel være «overtredelsesgebyr».
 
@@ -730,7 +730,7 @@ De samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.1
 
 (3) Styremedlemmer, ledere, ansatte og andre som utfører oppdrag på vegne av foretaket, straffes med bøter dersom vedkommende forsettlig eller grovt uaktsomt overtrer [§ 26](lov/2018-06-01-23/§26) eller [§ 28](lov/2018-06-01-23/§28). Ved særlig skjerpende omstendigheter kan fengsel inntil 1 år anvendes.
 
-## Kapittel 11.1 Avsluttende bestemmelser
+## Kapittel 11.[^1] Avsluttende bestemmelser
 
 1 Inkurie: Loven er vedtatt uten kapittel 10.
 
@@ -744,7 +744,7 @@ De samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.1
 
 ### § 53. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid. Departementet kan gi overgangsregler.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid. Departementet kan gi overgangsregler.
 
 1 Fra 15 okt 2018 iflg. [res. 14 sep 2018 nr. 1326](forskrift/2018-09-14-1326).
 

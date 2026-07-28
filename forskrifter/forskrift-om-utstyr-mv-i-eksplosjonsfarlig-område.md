@@ -16,7 +16,7 @@ xml_hash: "4bfe061ddb98e5e578d00ce609b9e71222deb04538adc407260b269e3bdf2302"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1441,7 +1441,7 @@ Produsenten skal utarbeide en skriftlig samsvarsattest og kunne stille den til r
 
 Produsentens forpliktelser angitt i nr. 2.2 og 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
-## Vedlegg X. Samsvarserklæring1
+## Vedlegg X. Samsvarserklæring[^1]
 
 1\.
 

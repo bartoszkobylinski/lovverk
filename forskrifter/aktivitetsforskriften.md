@@ -17,7 +17,7 @@ xml_hash: "3ea468a01bafbe13c7b40a2252a2e058b15845a406f1b9f8f5acd3170d973cce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1096,7 +1096,7 @@ Alle brønner skal sikres før de forlates slik at brønnintegriteten ivaretas i
 
 For havbunnskompletterte brønner skal brønnintegriteten overvåkes dersom brønnene planlegges forlatt i mer enn tolv måneder.
 
-Letebrønner som påbegynnes etter 1. januar 2014 (dvs. endringsforskriftens1 ikrafttredelse), skal ikke midlertidig forlates utover to år. I utvinningsbrønner som forlates etter 1. januar 2014 (dvs. endringsforskriftens1 ikrafttredelse) skal hydrokarbonførende soner plugges og forlates permanent innen tre år dersom brønnen ikke overvåkes kontinuerlig.
+Letebrønner som påbegynnes etter 1. januar 2014 (dvs. endringsforskriftens[^1] ikrafttredelse), skal ikke midlertidig forlates utover to år. I utvinningsbrønner som forlates etter 1. januar 2014 (dvs. endringsforskriftens[^1] ikrafttredelse) skal hydrokarbonførende soner plugges og forlates permanent innen tre år dersom brønnen ikke overvåkes kontinuerlig.
 
 Det skal være mulig å kontrollere brønnintegriteten ved tilbakekopling på midlertidig forlatte brønner.
 

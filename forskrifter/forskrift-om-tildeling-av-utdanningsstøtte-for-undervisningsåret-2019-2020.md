@@ -15,7 +15,7 @@ xml_hash: "cf8c1652756de87a0168c81f0941ec4c1583a0eb1903e43697b758622f2dcbcb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,13 +96,13 @@ Søkere som har rett til støtte etter [§ 2-1](forskrift/2019-03-15-254/§2-1),
 
 For å ha rett til støtte må søkeren være tatt opp som elev eller student og ha rett til å gå opp til eksamen. Lærlinger må ha godkjent lærekontrakt, og lærekandidater og praksisbrevkandidater må ha godkjent opplæringskontrakt.
 
-[Søkere som tar utdanning i utlandet, må oppholde seg på lærestedet og følge undervisningen. Se likevel [§ 3-2](forskrift/2019-03-15-254/§3-2). Vilkåret om opphold på lærestedet gjelder ikke for søkere som får støtte til høyere utdanning som er tilrettelagt som et nettstudium ved et lærested i et EØS-land etter [§ 7-5](forskrift/2019-03-15-254/§7-5).]1
+[Søkere som tar utdanning i utlandet, må oppholde seg på lærestedet og følge undervisningen. Se likevel [§ 3-2](forskrift/2019-03-15-254/§3-2). Vilkåret om opphold på lærestedet gjelder ikke for søkere som får støtte til høyere utdanning som er tilrettelagt som et nettstudium ved et lærested i et EØS-land etter [§ 7-5](forskrift/2019-03-15-254/§7-5).][^1]
 
 1 Andre ledd gjelder ikke våren 2020, jf. [forskrift 3 april 2020 nr. 569 § 4](forskrift/2020-04-03-569/§4).
 
 ### § 3-2. Fravær og permisjon
 
-[Søkere som følger obligatorisk undervisning og som har ulegitimert fravær på mer enn 20 skoledager per semester, kan miste retten til støtte. Søkere som har fullstendig studiepermisjon i mer enn seks uker, får ikke støtte i permisjonstiden.]1
+[Søkere som følger obligatorisk undervisning og som har ulegitimert fravær på mer enn 20 skoledager per semester, kan miste retten til støtte. Søkere som har fullstendig studiepermisjon i mer enn seks uker, får ikke støtte i permisjonstiden.][^1]
 
 Det gjelder egne regler om permisjon eller fravær for søkere som får barn og som har rett til foreldrestipend etter [kapittel 39](forskrift/2019-03-15-254/kap39), og for søkere som har rett til sykestipend etter [kapittel 40](forskrift/2019-03-15-254/kap40). Søkere som tar permisjon fra utdanningen på grunn av fødsel, har ikke rett til støtte utover perioden det kan gis foreldrestipend etter [§ 39-3](forskrift/2019-03-15-254/§39-3).
 
@@ -666,7 +666,7 @@ For søkere som er gift eller har barn å forsørge og bor sammen med barnet, bl
 
 Tabellene viser satser per måned for grunnstipend etter forsørgernes inntekt og antall barn. Antall barn omfatter søkeren og søkerens søsken/halvsøsken født i 2001 eller senere. Inntekten blir satt lik personinntekt og netto positiv kapitalinntekt ved fastsettingen av formues- og inntektsskatt for 2017.
 
-*Tabell A: Inntektsgrense for forsørgere som bor sammen og forsørger som er alene om forsørgeransvaret jf. [§ 3-7](forskrift/2019-03-15-254/§3-7):\**
+*Tabell A: Inntektsgrense for forsørgere som bor sammen og forsørger som er alene om forsørgeransvaret jf. [§ 3-7](forskrift/2019-03-15-254/§3-7):[^\*]*
 
 | *Antall barn:* | *Satser:* |  |  |
 | --- | --- | --- | --- |
@@ -678,7 +678,7 @@ Tabellene viser satser per måned for grunnstipend etter forsørgernes inntekt o
 
 \* Inntekten til forsørgeren økes med kr 46 643 dersom han/hun har ektefelle/samboer som ikke er søkerens forsørger, se [§ 19-2](forskrift/2019-03-15-254/§19-2).
 
-*Tabell B: Inntektsgrense for to forsørgere som ikke bor sammen:\**
+*Tabell B: Inntektsgrense for to forsørgere som ikke bor sammen:[^\*]*
 
 | *Antall barn:* | *Satser:* |  |  |
 | --- | --- | --- | --- |
@@ -746,7 +746,7 @@ Forsørgerstipendet blir behovsprøvd etter [kapittel 20](forskrift/2019-03-15-2
 
 ### § 23-1. Lån
 
-Det gis et lån på inntil kr 3 261 per måned for søkere som er 18 år eller eldre og som ikke bor sammen med foreldrene,1 se [§ 26-2](forskrift/2019-03-15-254/§26-2) andre ledd.
+Det gis et lån på inntil kr 3 261 per måned for søkere som er 18 år eller eldre og som ikke bor sammen med foreldrene,[^1] se [§ 26-2](forskrift/2019-03-15-254/§26-2) andre ledd.
 
 Lånet kan tas opp fra måneden etter at eleven har fylt 18 år.
 

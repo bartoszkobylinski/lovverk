@@ -15,7 +15,7 @@ xml_hash: "7de79abec5d3d24685f0f9134970f5042b83b07e108d7367ad1e81f6b25093c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -711,7 +711,7 @@ Avtaler om levering av kraft i henhold til reglene i tidligere [lov 15. mars 194
 
 ### § 68. (ikrafttreden)
 
-Denne lov trer i kraft når Kongen bestemmer.1
+Denne lov trer i kraft når Kongen bestemmer.[^1]
 
 Fra samme tid oppheves alle paragrafene unntatt [§§ 2](lov/1940-03-15-3/§2)-[6](lov/1940-03-15-3/§6) i [lov 15. mars 1940 nr. 3 om vassdragene](lov/1940-03-15-3).
 

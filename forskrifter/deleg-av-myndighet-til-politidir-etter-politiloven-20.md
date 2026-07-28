@@ -15,7 +15,7 @@ xml_hash: "f7c35db0bf655c764257d62f412ecb01d67f64b8d24ec9ffadd716630e4d6a79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,6 +26,6 @@ Med virkning fra 1. juli 2015 delegeres myndighet etter [politiloven § 20](lov/
 
 Saker av prinsipiell karakter og mer omfattende endringer i politiuniformens profil skal fortsatt forelegges for Justis- og beredskapsdepartementet for godkjenning. Departementet ber for øvrig om å bli holdt orientert om direktoratets endringer av uniformsreglementet.
 
-Denne delegeringen av myndighet erstatter den myndigheten som ble gitt til Justis- og beredskapsdepartementet ved kongelig resolusjon 5. august 1994.1
+Denne delegeringen av myndighet erstatter den myndigheten som ble gitt til Justis- og beredskapsdepartementet ved kongelig resolusjon 5. august 1994.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend. Lovdatas anm.

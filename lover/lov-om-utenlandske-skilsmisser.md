@@ -15,7 +15,7 @@ xml_hash: "38d7ddfbc63daf27a367e2f45db12aabf90a2839b0c9ba37b0737efe8752b749"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,7 +67,7 @@ Kongen kan gi forskrifter til utfylling av loven.
 
 Kongen kan i forskrifter også fravike bestemmelsene i loven her, dersom det er nødvendig for å oppfylle Norges forpliktelser etter overenskomst med fremmed stat.
 
-For gyldigheten her i riket av enkelte skilsmisser og separasjoner oppnådd i annen nordisk stat gjelder særlige regler.1
+For gyldigheten her i riket av enkelte skilsmisser og separasjoner oppnådd i annen nordisk stat gjelder særlige regler.[^1]
 
 > Endret ved [lov 22 juni 2018 nr. 50](lov/2018-06-22-50), tidligere § 6.
 
@@ -75,7 +75,7 @@ For gyldigheten her i riket av enkelte skilsmisser og separasjoner oppnådd i an
 
 ## § 8.
 
-Loven trer i kraft fra den tid Kongen fastsetter.1
+Loven trer i kraft fra den tid Kongen fastsetter.[^1]
 
 Fra samme tidspunkt – – –
 

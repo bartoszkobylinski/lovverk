@@ -15,7 +15,7 @@ xml_hash: "56534e2d08a4172b10dd2e24bb6a4fd9cd03db5b3089ef8ba8df4d7a90477f05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -222,7 +222,7 @@ Når lovleg og ulovleg fangst er blanda saman, kan heile fangsten inndragast.
 
 ### § 24. Iverksetjing
 
-Lova gjeld frå den tid Kongen fastset.1 Frå same tid vert [lov 14. desember 1951 nr. 3](lov/1951-12-14-3) om omsetning av råfisk oppheva.
+Lova gjeld frå den tid Kongen fastset.[^1] Frå same tid vert [lov 14. desember 1951 nr. 3](lov/1951-12-14-3) om omsetning av råfisk oppheva.
 
 Forskrifter og enkeltvedtak som er fastsette i eller i medhald av [lov 14. desember 1951 nr. 3](lov/1951-12-14-3) om omsetning av råfisk, gjeld framleis inntil dei vert oppheva.
 

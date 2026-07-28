@@ -15,7 +15,7 @@ xml_hash: "6271b995e0bdd983950f962960c6a6b0702e060f32047071dd048013db7cb0af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Opplæringa i grunnskolen og den vidaregåande opplæringa skal vere i samsvar m
 
 ## § 2.
 
-Forskrifta trer i kraft fra det tidspunktet departementet fastsett1. Departementet kan fastsette forskjellige ikraftsettingstidspunkt for ulike delar av Overordnet del – verdier og prinsipper for grunnopplæringen, og fastsette opphevingstidspunkt for [forskrift 25. juni 1999 nr. 708](forskrift/1999-06-25-708) om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa.
+Forskrifta trer i kraft fra det tidspunktet departementet fastsett[^1]. Departementet kan fastsette forskjellige ikraftsettingstidspunkt for ulike delar av Overordnet del – verdier og prinsipper for grunnopplæringen, og fastsette opphevingstidspunkt for [forskrift 25. juni 1999 nr. 708](forskrift/1999-06-25-708) om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa.
 
 1 Fra 1 august 2020, jf. [§ 24-1](forskrift/2006-06-23-724/§24-1) første ledd nummer 1 i [forskrift til opplæringslova av 23 juni 2006 nr. 724](forskrift/2006-06-23-724) (som endret ved forskrift [2 juli 2020 nr. 1495](forskrift/2020-07-02-1495)).
 

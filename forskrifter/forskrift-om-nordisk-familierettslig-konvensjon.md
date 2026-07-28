@@ -15,7 +15,7 @@ xml_hash: "f4127f2a654fb2aa5d861bd63ff64f048239fbf4f6183339bbf7a79a8e7a3744"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,6 +39,6 @@ Justis- og politidepartementet er vedkommende departement etter konvensjonens ar
 
 ## § 4.
 
-Forskriften trer i kraft når endringsoverenskomst 26. januar 2006 trer i kraft mellom de nordiske landene.1
+Forskriften trer i kraft når endringsoverenskomst 26. januar 2006 trer i kraft mellom de nordiske landene.[^1]
 
 1 1 des 2008 iflg [vedtak 22 sep 2008 nr. 1108](forskrift/2008-09-22-1108).

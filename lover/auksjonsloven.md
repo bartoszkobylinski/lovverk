@@ -15,7 +15,7 @@ xml_hash: "f73311df3a877cf1c52cedb307cbcac2e3e334bf5f027889d6093dc0de7c7638"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,6 +114,6 @@ Overtredelse i bestemmelsene i [§§ 4](lov/1918-08-14-3/§4), 7, 9, 10 første 
 
 ## Slutningsbestemmelse.
 
-Tiden for denne lovs ikrafttræden bestemmes ved særskilt lov.1
+Tiden for denne lovs ikrafttræden bestemmes ved særskilt lov.[^1]
 
 1 Loven ble satt ikr. 1 juli 1927 iflg. [lov 14 aug 1918 nr. 4](lov/1918-08-14-4), se dens [§ 1](lov/1918-08-14-4/§1).

@@ -15,7 +15,7 @@ xml_hash: "2bcc5f688aa98010cc6f77abce1fad5c915c57b7d5d1030d054b0712c91b5927"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,6 +63,6 @@ Ein framand rettsregel som ikkje er samhøveleg med ålmennskipnaden (l'ordre pu
 
 ## § 7.
 
-Kongen avgjer kva tid denne lova skal taka til å gjelda.1
+Kongen avgjer kva tid denne lova skal taka til å gjelda.[^1]
 
 1 Frå 1 sep 1964 iflg. res. 3 apr 1964.

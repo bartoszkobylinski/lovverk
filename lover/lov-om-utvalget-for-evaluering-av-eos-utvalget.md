@@ -15,7 +15,7 @@ xml_hash: "e7cc8660a33cf4419603a721d835e1dfda77855e9f0f96e9e3c06abaa8c5434c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1.
 
-Utvalget som 27. mars 2014 ble oppnevnt av Stortingets presidentskap for å evaluere EOS-utvalgets virksomhet og rammebetingelser/regelverk, har rett til å innhente opplysninger uten hinder av taushetsplikten i [lov 3. februar 1995 nr. 7](lov/1995-02-03-7) om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste [§ 9](lov/1995-02-03-7/§9) første ledd.1
+Utvalget som 27. mars 2014 ble oppnevnt av Stortingets presidentskap for å evaluere EOS-utvalgets virksomhet og rammebetingelser/regelverk, har rett til å innhente opplysninger uten hinder av taushetsplikten i [lov 3. februar 1995 nr. 7](lov/1995-02-03-7) om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste [§ 9](lov/1995-02-03-7/§9) første ledd.[^1]
 
 1 Inkurie: Skal vel være § 11 etter endring ved [lov 21 juni 2017 nr. 95](lov/2017-06-21-95).
 

@@ -15,7 +15,7 @@ xml_hash: "f21325d9e38396fb3a9ee9138f982efce9a0ccd53a74a54c1ba43d4f4bceba51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,6 +70,6 @@ Departementet kan gi forskrift om deling av personopplysninger etter denne loven
 
 ## § 6. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunktet1 Kongen bestemmer.
+Loven trer i kraft fra det tidspunktet[^1] Kongen bestemmer.
 
 1 Fra 1. juli 2026 iflg. [res. 12 juni 2026 nr. 1075](forskrift/2026-06-12-1075).

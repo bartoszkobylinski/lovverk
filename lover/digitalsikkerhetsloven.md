@@ -15,7 +15,7 @@ xml_hash: "1c3cd97f2e03b4d5520311cf57dffc3c683371cacd775f845d1c9ffb07ae5efa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016L1148"
@@ -194,6 +194,6 @@ Kongen kan gi forskrift om sikkerhetssertifisering av IKT-produkter, IKT-tjenest
 
 ### § 20. Ikrafttredelse
 
-Loven trer i kraft fra den tiden1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven trer i kraft fra den tiden[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 1 Fra 1 okt 2025 iflg. [res. 20 juni 2025 nr. 1088](forskrift/2025-06-20-1088).

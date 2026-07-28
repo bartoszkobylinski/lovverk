@@ -15,7 +15,7 @@ xml_hash: "b6b7f8f21738d53b8fecdbdcd9b9158eed4d3fcd766ce2f3ba3e8d66fa08042e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1.
 
-Bestemmelsene i hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde skal gjelde som norsk lov, med de endringer som følger av [protokoll om justering av avtalen av 17. mars 1993](traktat/1993-03-17-3), av EØS-utvidelsesavtalen av 14. oktober 2003, av EØS-utvidelsesavtalen for Bulgaria og Romania i 2007 og av EØS-utvidelsesavtalen for Kroatia av 2014.1 Det samme gjelder [artikkel 1](avtale/avt-1992-05-02-1-p25/a1) til [3](avtale/avt-1992-05-02-1-p25/a3) i avtalens [Protokoll 25](avtale/avt-1992-05-02-1-p25) om konkurranse innen kull- og stålproduksjon.
+Bestemmelsene i hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde skal gjelde som norsk lov, med de endringer som følger av [protokoll om justering av avtalen av 17. mars 1993](traktat/1993-03-17-3), av EØS-utvidelsesavtalen av 14. oktober 2003, av EØS-utvidelsesavtalen for Bulgaria og Romania i 2007 og av EØS-utvidelsesavtalen for Kroatia av 2014.[^1] Det samme gjelder [artikkel 1](avtale/avt-1992-05-02-1-p25/a1) til [3](avtale/avt-1992-05-02-1-p25/a3) i avtalens [Protokoll 25](avtale/avt-1992-05-02-1-p25) om konkurranse innen kull- og stålproduksjon.
 
 > Endret ved [lover 11 juni 1993 nr. 62](lov/1993-06-11-62) (ikr. 1 jan 1994), [7 mai 2004 nr. 20](lov/2004-05-07-20) (ikr. 7 mai 2004 iflg. [res. 7 mai 2004 nr. 723](forskrift/2004-05-07-723)), [10 aug 2007 nr. 96](lov/2007-08-10-96) (ikr. 10 aug 2007 iflg. [res. 10 aug 2007 nr. 948](forskrift/2007-08-10-948)), [11 apr 2014 nr. 11](lov/2014-04-11-11) (ikr. 12 apr 2014 iflg. [res. 11 apr 2014 nr. 413](forskrift/2014-04-11-413)).
 
@@ -32,43 +32,43 @@ Bestemmelsene i hoveddelen i avtale om Det europeiske økonomiske samarbeidsomr�
 
 ## § 2.
 
-Bestemmelser i lov som tjener til å oppfylle Norges forpliktelser etter avtalen, skal i tilfelle konflikt gå foran andre bestemmelser som regulerer samme forhold. Tilsvarende gjelder dersom en forskrift som tjener til å oppfylle Norges forpliktelser etter avtalen, er i konflikt med en annen forskrift, eller kommer i konflikt med en senere lov.1
+Bestemmelser i lov som tjener til å oppfylle Norges forpliktelser etter avtalen, skal i tilfelle konflikt gå foran andre bestemmelser som regulerer samme forhold. Tilsvarende gjelder dersom en forskrift som tjener til å oppfylle Norges forpliktelser etter avtalen, er i konflikt med en annen forskrift, eller kommer i konflikt med en senere lov.[^1]
 
 1 Jf. [EØS-avtalens protokoll 35](avtale/avt-1992-05-02-1-p35).
 
 ## § 3.
 
-[§§ 1](lov/1992-11-27-109/§1) og [2](lov/1992-11-27-109/§2) er ikke til hinder for at andre lover og forskrifter får anvendelse i den utstrekning særlige overgangsregler eller andre særskilte ordninger i avtalen for øvrig gir anledning til det.1
+[§§ 1](lov/1992-11-27-109/§1) og [2](lov/1992-11-27-109/§2) er ikke til hinder for at andre lover og forskrifter får anvendelse i den utstrekning særlige overgangsregler eller andre særskilte ordninger i avtalen for øvrig gir anledning til det.[^1]
 
 1 Jf. særlig norsk forbehold mot fri etablering og investering i fiskerivirksomhet inntatt i [EØS-avtalens vedlegg VIII](avtale/avt-1992-05-02-1-v8) nr. 10 og [vedlegg XII](avtale/avt-1992-05-02-1-v12) nr. 1 bokstav h.
 
 ## § 4.
 
-Vedtak om pengeforpliktelser som nevnt i avtalens [artikkel 110](lov/1992-11-27-109/eøsl/a110), som De Europeiske Fellesskapsinstitusjoner retter til foretak i Norge, skal ikke ha tvangskraft i Norge.1
+Vedtak om pengeforpliktelser som nevnt i avtalens [artikkel 110](lov/1992-11-27-109/eøsl/a110), som De Europeiske Fellesskapsinstitusjoner retter til foretak i Norge, skal ikke ha tvangskraft i Norge.[^1]
 
 1 Jf. erklæring til EØS-avtalens sluttakt fra regjeringen i Norge om [manglende] direkte tvangskraft for EF-organenes vedtak om pengeforpliktelser rettet til foretak i Norge.
 
 ## § 5.
 
-Uten hinder av lovbestemt taushetsplikt kan norske myndigheter gi EFTA's overvåkingsorgan og EFTA-domstolen de opplysninger som overvåkingsorganet og domstolen kan kreve i medhold av Avtale om Det europeiske økonomiske samarbeidsområde og Avtale mellom EFTA-statene om opprettelse av et Overvåkingsorgan og en Domstol.1
+Uten hinder av lovbestemt taushetsplikt kan norske myndigheter gi EFTA's overvåkingsorgan og EFTA-domstolen de opplysninger som overvåkingsorganet og domstolen kan kreve i medhold av Avtale om Det europeiske økonomiske samarbeidsområde og Avtale mellom EFTA-statene om opprettelse av et Overvåkingsorgan og en Domstol.[^1]
 
 1 Se særlig [EØS-avtalens art. 6](lov/1992-11-27-109/eøsl/a6) og ODA protokoll 5 art. 21.
 
 ## § 6.
 
-Denne lov gjelder ikke for Svalbard.1
+Denne lov gjelder ikke for Svalbard.[^1]
 
 1 Jf. [EØS-avtalens protokoll 40](avtale/avt-1992-05-02-1-p40).
 
 ## § 7.
 
-Denne lov trer i kraft samtidig med at Avtale om det europeiske økonomiske samarbeidsområde trer i kraft for Norge.1
+Denne lov trer i kraft samtidig med at Avtale om det europeiske økonomiske samarbeidsområde trer i kraft for Norge.[^1]
 
 1 Fra 1 jan 1994.
 
 ## Avtale om Det europeiske økonomiske samarbeidsområde.
 
-Det Europeiske Fellesskap, Kongeriket Belgia, Republikken Bulgaria, Den tsjekkiske republikken, Kongeriket Danmark, Forbundsrepublikken Tyskland, Republikken Estland, Republikken Hellas, Kongeriket Spania, Republikken Frankrike, Republikken Kroatia, Irland, Republikken Italia, Republikken Kypros, Republikken Latvia, Republikken Litauen, Storhertugdømmet Luxemborg, Ungarn, Republikken Malta, Kongeriket Nederland, Republikken Østerrike, Republikken Polen, Republikken Portugal, Romania, Republikken Slovenia, Den slovakiske republikken, Republikken Finland, Kongeriket Sverige, Det forente kongeriket Storbritannia og Nord-Irland, og Island, Fyrstedømmet Liechtenstein, Kongeriket Norge heretter kalt avtalepartene –1
+Det Europeiske Fellesskap, Kongeriket Belgia, Republikken Bulgaria, Den tsjekkiske republikken, Kongeriket Danmark, Forbundsrepublikken Tyskland, Republikken Estland, Republikken Hellas, Kongeriket Spania, Republikken Frankrike, Republikken Kroatia, Irland, Republikken Italia, Republikken Kypros, Republikken Latvia, Republikken Litauen, Storhertugdømmet Luxemborg, Ungarn, Republikken Malta, Kongeriket Nederland, Republikken Østerrike, Republikken Polen, Republikken Portugal, Romania, Republikken Slovenia, Den slovakiske republikken, Republikken Finland, Kongeriket Sverige, Det forente kongeriket Storbritannia og Nord-Irland, og Island, Fyrstedømmet Liechtenstein, Kongeriket Norge heretter kalt avtalepartene –[^1]
 
 Som er overbevist om det bidrag et Europeisk Økonomisk Samarbeidsområde vil gi til oppbyggingen av et Europa grunnlagt på fred, demokrati og menneskerettigheter,
 
@@ -123,12 +123,12 @@ Som tar i betraktning at denne avtale ikke begrenser avtalepartenes selvstendige
 
 I denne avtale menes med
 
-1. «avtale»: avtalens hoveddel, dens protokoller og vedlegg samt de rettsakter som er omhandlet i dem,1
-2. «EFTA-stater»: Island, Fyrstedømmet Liechtenstein, Kongeriket Norge,2
-3. «avtaleparter», når det gjelder Fellesskapet og EFs medlemsstater: Fellesskapet og EFs medlemsstater, eller Fellesskapet eller EFs medlemsstater. Betydningen som skal legges i betegnelsen i det enkelte tilfelle, må utledes fra de aktuelle bestemmelser i denne avtale og fra den myndighet som er tillagt henholdsvis Fellesskapet og EFs medlemsstater slik den fremgår av Traktaten om opprettelse av Det europeiske økonomiske fellesskap.3
-4. «tiltredelsesakten av 16 april 2003:» Akten om tiltredelsesvilkårene for Den tsjekkiske republikken, Republikken Estland, Republikken Kypros, Republikken Latvia, Republikken Litauen, Republikken Ungarn, Republikken Malta, Republikken Polen, Republikken Slovenia og Den slovakiske republikken og tilpasningen av de traktater som er Den europeiske unions grunnlag, vedtatt i Aten 16 april 2003.4
-5. «tiltredelsesakten av 25 april 2005»: Akten om tiltredelsesvilkårene for Republikken Bulgaria og Romania og tilpasningen av de traktater som er Den europeiske unions grunnlag, vedtatt i Luxembourg 25 april 2005,5
-6. «tiltredelsesakten av 9. desember 2011»: Akten om tiltredelsesvilkårene for Republikken Kroatia og tilpasninger av traktaten om Den europeiske union, traktaten om Den europeiske unions virkeområde og traktaten om opprettelse av Det europeiske atomenergifellesskap, undertegnet i Brussel 9. desember 2011.6
+1. «avtale»: avtalens hoveddel, dens protokoller og vedlegg samt de rettsakter som er omhandlet i dem,[^1]
+2. «EFTA-stater»: Island, Fyrstedømmet Liechtenstein, Kongeriket Norge,[^2]
+3. «avtaleparter», når det gjelder Fellesskapet og EFs medlemsstater: Fellesskapet og EFs medlemsstater, eller Fellesskapet eller EFs medlemsstater. Betydningen som skal legges i betegnelsen i det enkelte tilfelle, må utledes fra de aktuelle bestemmelser i denne avtale og fra den myndighet som er tillagt henholdsvis Fellesskapet og EFs medlemsstater slik den fremgår av Traktaten om opprettelse av Det europeiske økonomiske fellesskap.[^3]
+4. «tiltredelsesakten av 16 april 2003:» Akten om tiltredelsesvilkårene for Den tsjekkiske republikken, Republikken Estland, Republikken Kypros, Republikken Latvia, Republikken Litauen, Republikken Ungarn, Republikken Malta, Republikken Polen, Republikken Slovenia og Den slovakiske republikken og tilpasningen av de traktater som er Den europeiske unions grunnlag, vedtatt i Aten 16 april 2003.[^4]
+5. «tiltredelsesakten av 25 april 2005»: Akten om tiltredelsesvilkårene for Republikken Bulgaria og Romania og tilpasningen av de traktater som er Den europeiske unions grunnlag, vedtatt i Luxembourg 25 april 2005,[^5]
+6. «tiltredelsesakten av 9. desember 2011»: Akten om tiltredelsesvilkårene for Republikken Kroatia og tilpasninger av traktaten om Den europeiske union, traktaten om Den europeiske unions virkeområde og traktaten om opprettelse av Det europeiske atomenergifellesskap, undertegnet i Brussel 9. desember 2011.[^6]
 
 > Endret ved [protokoll 17 mars 1993](traktat/1993-03-17-3), avtale 14 okt 2003, avtale 25 juli 2007, avtale 11 apr 2014.
 
@@ -166,7 +166,7 @@ En avtalepart kan til enhver tid ta opp en sak av viktighet i EØS-komiteen elle
 
 ### Art 6
 
-Ved gjennomføringen og anvendelsen av bestemmelsene i denne avtale, og med forbehold for den fremtidige utvikling av rettspraksis, skal bestemmelsene, så langt de i sitt materielle innhold er identiske med de tilsvarende regler i Traktaten om opprettelse av Det europeiske økonomiske fellesskap og Traktaten om opprettelse av Det europeiske kull- og stålfellesskap og med rettsakter som er vedtatt i henhold til de to traktatene, fortolkes i samsvar med de relevante rettsavgjørelser som De europeiske fellesskaps domstol2 har truffet før undertegningen av denne avtale.
+Ved gjennomføringen og anvendelsen av bestemmelsene i denne avtale, og med forbehold for den fremtidige utvikling av rettspraksis, skal bestemmelsene, så langt de i sitt materielle innhold er identiske med de tilsvarende regler i Traktaten om opprettelse av Det europeiske økonomiske fellesskap og Traktaten om opprettelse av Det europeiske kull- og stålfellesskap og med rettsakter som er vedtatt i henhold til de to traktatene, fortolkes i samsvar med de relevante rettsavgjørelser som De europeiske fellesskaps domstol[^2] har truffet før undertegningen av denne avtale.
 
 1 Jf. ODA art. 3.
 
@@ -189,12 +189,12 @@ Rettsakter som er omhandlet i eller inntatt i vedlegg til denne avtale eller i E
 
 1\. I samsvar med bestemmelsene i denne avtale skal det innføres fritt varebytte mellom avtalepartene.
 
-2\. Med mindre annet er særskilt angitt, får [artikkel 10](lov/1992-11-27-109/eøsl/a10) til [15](lov/1992-11-27-109/eøsl/a15), [19](lov/1992-11-27-109/eøsl/a19), [20](lov/1992-11-27-109/eøsl/a20) og [25](lov/1992-11-27-109/eøsl/a25) til [27](lov/1992-11-27-109/eøsl/a27) anvendelse bare for produkter med opprinnelse i avtalepartene.1
+2\. Med mindre annet er særskilt angitt, får [artikkel 10](lov/1992-11-27-109/eøsl/a10) til [15](lov/1992-11-27-109/eøsl/a15), [19](lov/1992-11-27-109/eøsl/a19), [20](lov/1992-11-27-109/eøsl/a20) og [25](lov/1992-11-27-109/eøsl/a25) til [27](lov/1992-11-27-109/eøsl/a27) anvendelse bare for produkter med opprinnelse i avtalepartene.[^1]
 
-3\. Med mindre annet er særskilt angitt,2 får bestemmelsene i denne avtale anvendelse bare for
+3\. Med mindre annet er særskilt angitt,[^2] får bestemmelsene i denne avtale anvendelse bare for
 
-1. varer som hører inn under kapittel 25 til 97 i det harmoniserte system for beskrivelse og koding av varer,3 med unntak av varer oppført i [protokoll 2](avtale/avt-1992-05-02-1-p2);4
-2. varer oppført i [protokoll 3](avtale/avt-1992-05-02-1-p3)5 i samsvar med de særlige bestemmelser som er fastsatt i protokollen.
+1. varer som hører inn under kapittel 25 til 97 i det harmoniserte system for beskrivelse og koding av varer,[^3] med unntak av varer oppført i [protokoll 2](avtale/avt-1992-05-02-1-p2);[^4]
+2. varer oppført i [protokoll 3](avtale/avt-1992-05-02-1-p3)[^5] i samsvar med de særlige bestemmelser som er fastsatt i protokollen.
 
 1 Jf. [EØS-avtalens protokoll 4](avtale/avt-1992-05-02-1-p4) om opprinnelsesregler.
 
@@ -216,7 +216,7 @@ Rettsakter som er omhandlet i eller inntatt i vedlegg til denne avtale eller i E
 
 ### Art 10
 
-Toll på import og eksport og avgifter med tilsvarende virkning1 skal være forbudt mellom avtalepartene. Med forbehold for de bestemmelser som er fastsatt i [protokoll 5](avtale/avt-1992-05-02-1-p5), skal dette gjelde også fiskaltoll.
+Toll på import og eksport og avgifter med tilsvarende virkning[^1] skal være forbudt mellom avtalepartene. Med forbehold for de bestemmelser som er fastsatt i [protokoll 5](avtale/avt-1992-05-02-1-p5), skal dette gjelde også fiskaltoll.
 
 1 Sml. [TEUV art. 30](eu/12016e/a30), tidl. EF-traktaten art. 25 (før 1 mai 1999 art. 12).
 
@@ -327,7 +327,7 @@ og når de situasjoner som er nevnt ovenfor, fører til eller sannsynligvis vil 
 
 ### Art 26
 
-Anti-dumping-tiltak, beskyttelsestoll og tiltak mot ulovlig handelspraksis som kan tilskrives tredjestat, skal ikke anvendes mellom avtalepartene, med mindre annet er særskilt angitt i denne avtale.1
+Anti-dumping-tiltak, beskyttelsestoll og tiltak mot ulovlig handelspraksis som kan tilskrives tredjestat, skal ikke anvendes mellom avtalepartene, med mindre annet er særskilt angitt i denne avtale.[^1]
 
 1 Jf. [EØS-avtalens protokoll 13](avtale/avt-1992-05-02-1-p13) om ikke-anvendelse av anti-dumping og utjevningstiltak og omforenet møtereferat fra EØS-forhandl. «ad artikkel 26 og protokoll 13».
 
@@ -373,7 +373,7 @@ For å gjennomføre den frie bevegelighet for arbeidstagere og selvstendig næri
 
 For å lette adgangen til å starte og utøve virksomhet som arbeidstager og selvstendig næringsdrivende skal avtalepartene treffe de nødvendige tiltak, som fastsatt i [vedlegg VII](avtale/avt-1992-05-02-1-v7), for gjensidig godkjennelse av diplomer, eksamensbevis og andre kvalifikasjonsbevis og samordning av de bestemmelser som avtalepartene har gitt ved lov eller forskrift om adgangen til å starte og utøve virksomhet som arbeidstager og selvstendig næringsdrivende.
 
-### Kapittel 2. Etableringsrett.1
+### Kapittel 2. Etableringsrett.[^1]
 
 1 Jf. norsk forbehold mot etablering innenfor fisket i [EØS-avtalens vedlegg VIII](avtale/avt-1992-05-02-1-v8) punkt 10.
 
@@ -588,7 +588,7 @@ Slik utilbørlig utnyttelse kan særlig bestå i
 
 ### Art 55
 
-1\. Med forbehold for bestemmelsene i [protokoll 21](avtale/avt-1992-05-02-1-p21) og [vedlegg XIV](avtale/avt-1992-05-02-1-v14) til denne avtale til gjennomføring av [artikkel 53](lov/1992-11-27-109/eøsl/a53) og [54](lov/1992-11-27-109/eøsl/a54) skal EF-kommisjonen og EFTAs overvåkingsorgan jfr. [artikkel 108](lov/1992-11-27-109/eøsl/a108) nr. 1, sikre anvendelse av de prinsipper som er fastlagt i [artikkel 53](lov/1992-11-27-109/eøsl/a53) og [54](lov/1992-11-27-109/eøsl/a54).1
+1\. Med forbehold for bestemmelsene i [protokoll 21](avtale/avt-1992-05-02-1-p21) og [vedlegg XIV](avtale/avt-1992-05-02-1-v14) til denne avtale til gjennomføring av [artikkel 53](lov/1992-11-27-109/eøsl/a53) og [54](lov/1992-11-27-109/eøsl/a54) skal EF-kommisjonen og EFTAs overvåkingsorgan jfr. [artikkel 108](lov/1992-11-27-109/eøsl/a108) nr. 1, sikre anvendelse av de prinsipper som er fastlagt i [artikkel 53](lov/1992-11-27-109/eøsl/a53) og [54](lov/1992-11-27-109/eøsl/a54).[^1]
 
 Det kompetente overvåkingsorgan etter [artikkel 56](lov/1992-11-27-109/eøsl/a56) skal på eget initiativ eller etter anmodning fra en stat innen dens område eller fra det annet overvåkingsorgan undersøke tilfeller av antatt overtredelse av disse prinsippene. Det kompetente overvåkingsorgan skal gjøre disse undersøkelsene sammen med vedkommende nasjonale myndigheter innen sitt område og i samarbeid med det annet overvåkingsorgan, som skal yte bistand i samsvar med sine interne regler.
 
@@ -610,7 +610,7 @@ Det kompetente overvåkingsorgan kan offentliggjøre sitt vedtak og gi statene i
 
 2\. Enkeltsaker som kommer inn under [artikkel 54](lov/1992-11-27-109/eøsl/a54), skal behandles av overvåkingsorganet innen hvis område det konstateres at et foretak har en dominerende stilling. Bestemmelsene i nr. 1 bokstav b) og c) får anvendelse bare når slik dominans konstateres innen begge overvåkingsorganers område.
 
-3\. Enkeltsaker som kommer inn under nr. 1 bokstav c), og hvor virkningen på handelen mellom EFs medlemsstater eller på konkurranse innen Fellesskapet ikke er nevneverdig,1 skal behandles av EFTAs overvåkingsorgan.
+3\. Enkeltsaker som kommer inn under nr. 1 bokstav c), og hvor virkningen på handelen mellom EFs medlemsstater eller på konkurranse innen Fellesskapet ikke er nevneverdig,[^1] skal behandles av EFTAs overvåkingsorgan.
 
 4\. Betegnelsene foretak og omsetning er for denne artikkels formål definert i [protokoll 22](avtale/avt-1992-05-02-1-p22).
 
@@ -622,7 +622,7 @@ Det kompetente overvåkingsorgan kan offentliggjøre sitt vedtak og gi statene i
 
 2\. Tilsyn med de foretakssammenslutninger som kommer inn under nr. 1, skal føres av
 
-1. EF-kommisjonen i tilfeller som kommer inn under forordning [(EØF) nr. 4064/89](eu/31989r4064*),1 i samsvar med forordningen og i samsvar med [protokoll 21](avtale/avt-1992-05-02-1-p21) og [24](avtale/avt-1992-05-02-1-p24) og [vedlegg XIV](avtale/avt-1992-05-02-1-v14). Med forbehold for EF-domstolens overprøving skal Kommisjonen alene ha myndighet til å gjøre vedtak i disse sakene,
+1. EF-kommisjonen i tilfeller som kommer inn under forordning [(EØF) nr. 4064/89](eu/31989r4064*),[^1] i samsvar med forordningen og i samsvar med [protokoll 21](avtale/avt-1992-05-02-1-p21) og [24](avtale/avt-1992-05-02-1-p24) og [vedlegg XIV](avtale/avt-1992-05-02-1-v14). Med forbehold for EF-domstolens overprøving skal Kommisjonen alene ha myndighet til å gjøre vedtak i disse sakene,
 2. EFTAs overvåkingsorgan, i tilfeller som ikke kommer inn under bokstav a), når de aktuelle terskelverdier fastsatt i [vedlegg XIV](avtale/avt-1992-05-02-1-v14) til denne avtale er oppfylt innen EFTA-statenes territorium i samsvar med [protokoll 21](avtale/avt-1992-05-02-1-p21) og [24](avtale/avt-1992-05-02-1-p24) og [vedlegg XIV](avtale/avt-1992-05-02-1-v14). Dette berører ikke den myndighet EFs medlemsstater har.
 
 1 Forordning [(EØF) nr. 4064/89](eu/31989r4064*) er nå avløst av forordning [(EF) nr. 139/2004](eu/32004r0139), jf. [EØS-avtalens vedlegg XIV](avtale/avt-1992-05-02-1-v14) nr. 1.
@@ -670,8 +670,8 @@ De kompetente organer skal samarbeide i samsvar med bestemmelsene i [protokoll 2
 
 1\. Alle bestående statsstøtteordninger på avtalepartenes territorium og alle planer om å innføre eller endre statsstøtte skal kontinuerlig granskes for å fastslå om de er forenlige med [artikkel 61](lov/1992-11-27-109/eøsl/a61). Denne gransking skal utføres
 
-1. med hensyn til EFs medlemsstater, av EF-kommisjonen i samsvar med reglene fastsatt i [artikkel 93](lov/1992-11-27-109/eøsl/a93) i Traktaten om opprettelse av Det europeiske økonomiske fellesskap,2
-2. med hensyn til EFTA-statene, av EFTAs overvåkingsorgan i samsvar med reglene fastlagt i en avtale mellom EFTA-statene om opprettelse av EFTAs overvåkingsorgan,1 som har den myndighet og de oppgaver som er fastsatt i [protokoll 26](avtale/avt-1992-05-02-1-p26).
+1. med hensyn til EFs medlemsstater, av EF-kommisjonen i samsvar med reglene fastsatt i [artikkel 93](lov/1992-11-27-109/eøsl/a93) i Traktaten om opprettelse av Det europeiske økonomiske fellesskap,[^2]
+2. med hensyn til EFTA-statene, av EFTAs overvåkingsorgan i samsvar med reglene fastlagt i en avtale mellom EFTA-statene om opprettelse av EFTAs overvåkingsorgan,[^1] som har den myndighet og de oppgaver som er fastsatt i [protokoll 26](avtale/avt-1992-05-02-1-p26).
 
 2\. Med henblikk på å sikre lik overvåking av statsstøtte innen det territorium som er omfattet av denne avtale, skal EF-kommisjonen og EFTAs overvåkingsorgan samarbeide i samsvar med bestemmelsene i [protokoll 27](avtale/avt-1992-05-02-1-p27).
 
@@ -1023,7 +1023,7 @@ EØS-komiteen skal særlig bestrebe seg på å finne frem til en gjensidig godta
 
 5\. Dersom EØS-komiteen ved utløpet av fristen etter nr. 4 ikke har tatt noen beslutning om å endre et vedlegg til denne avtale, skal den berørte del av vedlegget, slik det er fastslått i samsvar med nr. 2, betraktes som midlertidig satt ut av kraft, med mindre EØS-komiteen bestemmer det motsatte. Et slikt midlertidig opphør skal få virkning seks måneder etter utløpet av fristen etter nr. 4, men under ingen omstendigheter tidligere enn den dag det tilsvarende fellesskapsregelverk er gjennomført i Fellesskapet. EØS-komiteen skal fortsette sine bestrebelser på å komme til enighet om en gjensidig godtagbar løsning slik at opphøret kan avbrytes så snart som mulig.
 
-6\. De praktiske følger av opphøret etter nr. 5 skal drøftes i EØS-komiteen. Rettigheter og forpliktelser som personer og markedsdeltagere allerede har ervervet i henhold til denne avtale, skal fortsatt bestå.1 Avtalepartene skal avgjøre de justeringer som måtte være nødvendige som følge av opphøret.
+6\. De praktiske følger av opphøret etter nr. 5 skal drøftes i EØS-komiteen. Rettigheter og forpliktelser som personer og markedsdeltagere allerede har ervervet i henhold til denne avtale, skal fortsatt bestå.[^1] Avtalepartene skal avgjøre de justeringer som måtte være nødvendige som følge av opphøret.
 
 1 Jf. omforenet møtereferat fra EØS-forhandl. «ad artikkel 102 nr. 6»: gjelder bare faktisk ervervede rettigheter, og ikke alene forventninger.
 
@@ -1047,7 +1047,7 @@ Beslutninger truffet av EØS-komiteen i de tilfelle som er nevnt i denne avtale,
 
 1\. For å nå avtalepartenes mål om å nå frem til en mest mulig lik fortolkning av bestemmelsene i denne avtale og de bestemmelser i Fellesskapets regelverk som i det vesentlige er gjengitt i avtalen, skal EØS-komiteen gå frem i samsvar med denne artikkel.
 
-2\. EØS-komiteen skal holde kontinuerlig oppsyn med utviklingen i rettspraksis, jfr. [artikkel 108](lov/1992-11-27-109/eøsl/a108) nr. 2, i De europeiske fellesskaps domstol1 og EFTA-domstolen. Dommer fra disse domstolene skal for dette formål oversendes EØS-komiteen, som skal arbeide for å bevare den ensartede fortolkning av avtalen.
+2\. EØS-komiteen skal holde kontinuerlig oppsyn med utviklingen i rettspraksis, jfr. [artikkel 108](lov/1992-11-27-109/eøsl/a108) nr. 2, i De europeiske fellesskaps domstol[^1] og EFTA-domstolen. Dommer fra disse domstolene skal for dette formål oversendes EØS-komiteen, som skal arbeide for å bevare den ensartede fortolkning av avtalen.
 
 3\. Dersom EØS-komiteen innen to måneder etter at en forskjell i rettspraksis i de to domstoler er blitt brakt inn for den, ikke har lykkes i å bevare den ensartede fortolkning av avtalen, kan fremgangsmåten fastsatt i [artikkel 111](lov/1992-11-27-109/eøsl/a111) komme til anvendelse.
 
@@ -1055,7 +1055,7 @@ Beslutninger truffet av EØS-komiteen i de tilfelle som er nevnt i denne avtale,
 
 ### Art 106
 
-Med henblikk på å sikre en mest mulig lik fortolkning av denne avtale, og med full respekt for domstolenes uavhengighet, skal EØS-komiteen opprette en ordning for utveksling av opplysninger om dommer avsagt av EFTA-domstolen, De europeiske fellesskaps domstol1 og De europeiske fellesskaps domstol i første instans2 og EFTA-statenes domstoler i siste instans. Ordningen skal omfatte:
+Med henblikk på å sikre en mest mulig lik fortolkning av denne avtale, og med full respekt for domstolenes uavhengighet, skal EØS-komiteen opprette en ordning for utveksling av opplysninger om dommer avsagt av EFTA-domstolen, De europeiske fellesskaps domstol[^1] og De europeiske fellesskaps domstol i første instans[^2] og EFTA-statenes domstoler i siste instans. Ordningen skal omfatte:
 
 1. oversendelse til justissekretæren for De europeiske fellesskaps domstol av dommer om fortolkning og anvendelse av på den ene side denne avtale og på den annen side Traktaten om opprettelse av Det europeiske økonomiske fellesskap og Traktaten om opprettelse av Det europeiske kull- og stålfellesskap, slik de er endret eller utfylt, samt de rettsakter som er tatt i henhold til dem, i den utstrekning de gjelder bestemmelser som i sitt materielle innhold er identiske med bestemmelser i denne avtale;
 2. systematisering av dommene hos justissekretæren for De europeiske fellesskaps domstol, herunder i nødvendig utstrekning utarbeidelse og offentliggjøring av oversettelser og resymeer;
@@ -1067,7 +1067,7 @@ Med henblikk på å sikre en mest mulig lik fortolkning av denne avtale, og med 
 
 ### Art 107
 
-Bestemmelser om muligheten for en EFTA-stat til å samtykke i at en domstol ber De europeiske fellesskaps domstol1 om å avgjøre fortolkningen av en EØS-regel, er fastsatt i [protokoll 34](avtale/avt-1992-05-02-1-p34).
+Bestemmelser om muligheten for en EFTA-stat til å samtykke i at en domstol ber De europeiske fellesskaps domstol[^1] om å avgjøre fortolkningen av en EØS-regel, er fastsatt i [protokoll 34](avtale/avt-1992-05-02-1-p34).
 
 1 Nå Den europeiske unions domstol.
 
@@ -1079,9 +1079,9 @@ Bestemmelser om muligheten for en EFTA-stat til å samtykke i at en domstol ber 
 
 2\. EFTA-statene skal opprette en domstol (EFTA-domstolen). I samsvar med en særskilt avtale mellom EFTA-statene skal EFTA-domstolen med hensyn til anvendelsen av denne avtale særlig ha myndighet til
 
-1. å behandle saker som gjelder overvåkingsbestemmelsene i forhold til EFTA-statene,1
-2. å behandle klager over vedtak av EFTAs overvåkingsorgan i konkurransesaker,2
-3. å avgjøre tvister mellom to eller flere EFTA-stater.3
+1. å behandle saker som gjelder overvåkingsbestemmelsene i forhold til EFTA-statene,[^1]
+2. å behandle klager over vedtak av EFTAs overvåkingsorgan i konkurransesaker,[^2]
+3. å avgjøre tvister mellom to eller flere EFTA-stater.[^3]
 
 1 Jf. ODA art. 31.
 
@@ -1091,7 +1091,7 @@ Bestemmelser om muligheten for en EFTA-stat til å samtykke i at en domstol ber 
 
 ### Art 109
 
-1\. Oppfyllelse av forpliktelsene etter denne avtale skal overvåkes av på den ene side EFTAs overvåkingsorgan og på den annen side av EF-kommisjonen i henhold til Traktaten om opprettelse av Det europeiske økonomiske fellesskap1 og denne avtale.
+1\. Oppfyllelse av forpliktelsene etter denne avtale skal overvåkes av på den ene side EFTAs overvåkingsorgan og på den annen side av EF-kommisjonen i henhold til Traktaten om opprettelse av Det europeiske økonomiske fellesskap[^1] og denne avtale.
 
 2\. For å sikre lik overvåking innen hele EØS skal EFTAs overvåkingsorgan og EF-kommisjonen samarbeide, utveksle opplysninger og rådføre seg med hverandre om retningslinjer for overvåkingen og om enkeltsaker.
 
@@ -1105,7 +1105,7 @@ Bestemmelser om muligheten for en EFTA-stat til å samtykke i at en domstol ber 
 
 ### Art 110
 
-Vedtak som er truffet i henhold til denne avtale av EFTAs overvåkingsorgan og EF-kommisjonen,1 og som pålegger andre enn stater en pengeforpliktelse, skal i seg selv utgjøre tvangsgrunnlag. Det samme gjelder dommer i henhold til denne avtale avsagt av De europeiske fellesskaps domstol,2 De europeiske fellesskaps domstol i første instans3 og EFTA-domstolen.
+Vedtak som er truffet i henhold til denne avtale av EFTAs overvåkingsorgan og EF-kommisjonen,[^1] og som pålegger andre enn stater en pengeforpliktelse, skal i seg selv utgjøre tvangsgrunnlag. Det samme gjelder dommer i henhold til denne avtale avsagt av De europeiske fellesskaps domstol,[^2] De europeiske fellesskaps domstol i første instans[^3] og EFTA-domstolen.
 
 For tvangsfullbyrdelse skal gjelde de sivile rettergangsregler i den stat på hvis territorium den finner sted. Attestasjon om at tvangsfullbyrdelse kan finne sted, skal gis uten annen prøving enn en kontroll av tvangsgrunnlagets ekthet av den myndighet som av hver av avtalepartene blir utpekt til det og anmeldt til de andre avtaleparter, EFTAs overvåkingsorgan, EF-kommisjonen, De europeiske fellesskaps domstol, De europeiske fellesskaps domstol i første instans og EFTA-domstolen.
 
@@ -1127,7 +1127,7 @@ Tvangsfullbyrdelsen kan utsettes bare i henhold til vedtak av De europeiske fell
 
 2\. EØS-komiteen kan avgjøre tvisten. Den skal gis alle opplysninger som kan bidra til å muliggjøre en grundig undersøkelse av situasjonen med sikte på å finne en godtagbar løsning. For dette formål skal EØS-komiteen undersøke alle muligheter for at avtalen fortsatt skal kunne virke tilfredsstillende.
 
-3\. Dersom en tvist gjelder tolkningen av bestemmelser i denne avtale som i sitt materielle innhold er identiske med tilsvarende regler i Traktaten om opprettelse av Det europeiske økonomiske fellesskap og Traktaten om opprettelse av Det europeiske kull- og stålfellesskap og med rettsakter som er tatt i henhold til disse traktatene, og dersom tvisten ikke er avgjort innen tre måneder etter at den ble brakt inn for EØS-komiteen, kan avtalepartene i tvisten bli enige om å be De europeiske fellesskaps domstol1 om en avgjørelse i spørsmålet om fortolkning av de relevante regler.
+3\. Dersom en tvist gjelder tolkningen av bestemmelser i denne avtale som i sitt materielle innhold er identiske med tilsvarende regler i Traktaten om opprettelse av Det europeiske økonomiske fellesskap og Traktaten om opprettelse av Det europeiske kull- og stålfellesskap og med rettsakter som er tatt i henhold til disse traktatene, og dersom tvisten ikke er avgjort innen tre måneder etter at den ble brakt inn for EØS-komiteen, kan avtalepartene i tvisten bli enige om å be De europeiske fellesskaps domstol[^1] om en avgjørelse i spørsmålet om fortolkning av de relevante regler.
 
 Dersom EØS-komiteen i en slik tvist ikke er kommet til enighet om en løsning innen seks måneder fra det tidspunkt denne prosessen ble påbegynt, eller dersom avtalepartene i tvisten på det tidspunkt ikke har besluttet å be De europeiske fellesskaps domstol om en avgjørelse, kan en avtalepart for å gjenopprette mulig manglende likevekt
 
@@ -1182,7 +1182,7 @@ EFTA-statene skal opprette en låne- og tilskuddsordning som skal bidra, i EØS-
 
 ### Art 117
 
-Bestemmelsene om finansieringsordningene er fastsatt i [protokoll 38](avtale/avt-1992-05-02-1-p38), [protokoll 38a](avtale/avt-1992-05-02-1-p38a), tillegget til protokoll 38a, [protokoll 38b](avtale/avt-1992-05-02-1-p38b), tillegget til protokoll 38b, [protokoll 38c](avtale/avt-1992-05-02-1-p38c) og [protokoll 38d](avtale/avt-1992-05-02-1-p38d).1
+Bestemmelsene om finansieringsordningene er fastsatt i [protokoll 38](avtale/avt-1992-05-02-1-p38), [protokoll 38a](avtale/avt-1992-05-02-1-p38a), tillegget til protokoll 38a, [protokoll 38b](avtale/avt-1992-05-02-1-p38b), tillegget til protokoll 38b, [protokoll 38c](avtale/avt-1992-05-02-1-p38c) og [protokoll 38d](avtale/avt-1992-05-02-1-p38d).[^1]
 
 > Endret ved avtale 14 okt 2003, avtale 25 juli 2007 (endelig fra 9 nov 2011), avtale 11 apr 2014, avtale 3 mai 2016, avtale 12 sep 2024 nr. 15.
 
@@ -1200,13 +1200,13 @@ EØS-rådet kan, når det er hensiktsmessig, ta den politiske beslutning med sik
 
 ### Art 119
 
-Vedleggene og de rettsakter som er omhandlet i dem, slik de er tilpasset for denne avtales formål, samt protokollene skal utgjøre en integrerende del av denne avtale.1
+Vedleggene og de rettsakter som er omhandlet i dem, slik de er tilpasset for denne avtales formål, samt protokollene skal utgjøre en integrerende del av denne avtale.[^1]
 
 1 Jf. [EØS-avtalens art. 2](lov/1992-11-27-109/eøsl/a2) bokstav a.
 
 ### Art 120
 
-Med mindre annet er bestemt i denne avtale og særlig i [protokoll 41](avtale/avt-1992-05-02-1-p41)1 og [43](avtale/avt-1992-05-02-1-p43),2 skal bestemmelsene i denne avtale gå foran bestemmelsene i bestående bilaterale eller multilaterale avtaler som forplikter Det europeiske økonomiske fellesskap på den ene side og en eller flere EFTA-stater på den annen side,3 i den utstrekning det samme saksområde er regulert av denne avtale.
+Med mindre annet er bestemt i denne avtale og særlig i [protokoll 41](avtale/avt-1992-05-02-1-p41)[^1] og [43](avtale/avt-1992-05-02-1-p43),[^2] skal bestemmelsene i denne avtale gå foran bestemmelsene i bestående bilaterale eller multilaterale avtaler som forplikter Det europeiske økonomiske fellesskap på den ene side og en eller flere EFTA-stater på den annen side,[^3] i den utstrekning det samme saksområde er regulert av denne avtale.
 
 > Endret ved [protokoll 17 mars 1993](traktat/1993-03-17-3).
 
@@ -1251,7 +1251,7 @@ Denne avtale skal ikke på noen måte berøre avtalepartenes regler om eiendomsr
 
 ### Art 126
 
-1\. Denne avtale skal anvendes på de territorier hvor Traktaten om opprettelse av Det europeiske økonomiske fellesskap anvendes på de vilkår som er fastsatt i den nevnte traktat, og på Islands, Fyrstedømmet Liechtensteins, Kongeriket Norges territorium.2
+1\. Denne avtale skal anvendes på de territorier hvor Traktaten om opprettelse av Det europeiske økonomiske fellesskap anvendes på de vilkår som er fastsatt i den nevnte traktat, og på Islands, Fyrstedømmet Liechtensteins, Kongeriket Norges territorium.[^2]
 
 2\. Uten hensyn til nr. 1 skal denne avtale ikke gjelde for Åland. Ved en erklæring som – samtidig med at denne avtale ratifiseres – deponeres hos depositaren, som skal oversende en bekreftet kopi til avtalepartene, kan Finlands regjering meddele at denne avtale skal gjelde for Åland på de samme vilkår som den anvendes på andre deler av Finland, med forbehold for følgende bestemmelser:
 
@@ -1386,7 +1386,7 @@ De skal avholde seg fra alle tiltak som kan sette virkeliggjøringen av denne av
 
 ### Art 3
 
-1\. Ved gjennomføringen og anvendelsen av bestemmelsene i protokoll 1-4 og bestemmelsene i de rettsakter som svarer til dem som er oppført i vedlegg I og II til denne avtale, og, med forbehold for den fremtidig utvikling eller rettspraksis, skal bestemmelsene, så langt de i sitt materielle innhold er identiske med de tilsvarende regler i traktaten om opprettelse av Det europeiske økonomiske fellesskap og traktaten om opprettelse av Det europeiske kull- og stålfellesskap og med rettsakter som er vedtatt i henhold til de to traktatene, fortolkes i samsvar med de relevante rettsavgjørelser som De europeiske fellesskaps domstol1 har truffet før undertegningen av EØS-avtalen.2
+1\. Ved gjennomføringen og anvendelsen av bestemmelsene i protokoll 1-4 og bestemmelsene i de rettsakter som svarer til dem som er oppført i vedlegg I og II til denne avtale, og, med forbehold for den fremtidig utvikling eller rettspraksis, skal bestemmelsene, så langt de i sitt materielle innhold er identiske med de tilsvarende regler i traktaten om opprettelse av Det europeiske økonomiske fellesskap og traktaten om opprettelse av Det europeiske kull- og stålfellesskap og med rettsakter som er vedtatt i henhold til de to traktatene, fortolkes i samsvar med de relevante rettsavgjørelser som De europeiske fellesskaps domstol[^1] har truffet før undertegningen av EØS-avtalen.[^2]
 
 2\. EFTAs overvåkingsorgan og EFTA-domstolen skal gjennom fortolkningen og anvendelsen av EØS-avtalen og denne avtale ta tilbørlig hensyn til de prinsipper som er fastlagt gjennom de relevante rettsavgjørelser som De europeiske fellesskaps domstol har truffet etter undertegningen av EØS-avtalen, og som berører fortolkningen av [EØS-avtalen](lov/1992-11-27-109) eller av regler i traktaten om opprettelse av Det europeiske økonomiske fellesskap og traktaten om opprettelse av Det europeiske kull- og stålfellesskap så langt de i sitt materielle innhold er identiske med bestemmelsene i EØS-avtalen eller bestemmelsene i protokoll 1-4 og bestemmelsene i de rettsakter som svarer til dem som er oppført i vedlegg I og II til denne avtale.
 
@@ -1515,7 +1515,7 @@ EFTAs overvåkingsorgan skal i samsvar med denne avtales artikkel 22 og 37 og [E
 
 ### Art 24
 
-EFTAs overvåkingsorgan skal i samsvar med [EØS-avtalens artikkel 49](lov/1992-11-27-109/eøsl/a49), [61-64](lov/1992-11-27-109/eøsl/a61) og [109](lov/1992-11-27-109/eøsl/a109), [protokoll 14](avtale/avt-1992-05-02-1-p14), [26](avtale/avt-1992-05-02-1-p26) og [27](avtale/avt-1992-05-02-1-p27), [vedlegg XIII](avtale/avt-1992-05-02-1-v13) avdeling I iv)1 og [vedlegg XV](avtale/avt-1992-05-02-1-v15), og i henhold til bestemmelsene i protokoll 3 til denne avtale, håndheve EØS-avtalens bestemmelser om statsstøtte og sikre at bestemmelsene blir anvendt av EFTA-statene.
+EFTAs overvåkingsorgan skal i samsvar med [EØS-avtalens artikkel 49](lov/1992-11-27-109/eøsl/a49), [61-64](lov/1992-11-27-109/eøsl/a61) og [109](lov/1992-11-27-109/eøsl/a109), [protokoll 14](avtale/avt-1992-05-02-1-p14), [26](avtale/avt-1992-05-02-1-p26) og [27](avtale/avt-1992-05-02-1-p27), [vedlegg XIII](avtale/avt-1992-05-02-1-v13) avdeling I iv)[^1] og [vedlegg XV](avtale/avt-1992-05-02-1-v15), og i henhold til bestemmelsene i protokoll 3 til denne avtale, håndheve EØS-avtalens bestemmelser om statsstøtte og sikre at bestemmelsene blir anvendt av EFTA-statene.
 
 I medhold av artikkel 5 nr. 2 bokstav b) skal EFTAs overvåkingsorgan ved denne avtales ikrafttredelse særlig vedta rettsakter som svarer til dem som er oppført i vedlegg I.
 
@@ -1561,7 +1561,7 @@ De fratredende dommere kan oppnevnes på nytt.
 
 Dommerne skal i sin midte velge EFTA-domstolens president for tre år. Presidenten kan gjenvelges.
 
-Dersom én av dommerne etter de to andre dommernes mening ikke kan behandle en bestemt sak fordi han er ugild,2 skal de to andre dommerne bli enige om en person til å erstatte ham, valgt fra en liste utarbeidet av EFTA-statenes regjeringer ved felles overenskomst. Dersom de ikke kommer til enighet, skal vedkommende velges fra listen ved loddtrekning foretatt av presidenten. Reglene som gjelder for ordinære dommere, får tilsvarende på en dommer valgt etter denne framgangsmåte. Protokoll 5 artikkel 4 annet ledd og artikkel 13 kommer ikke i noe tilfelle til anvendelse.
+Dersom én av dommerne etter de to andre dommernes mening ikke kan behandle en bestemt sak fordi han er ugild,[^2] skal de to andre dommerne bli enige om en person til å erstatte ham, valgt fra en liste utarbeidet av EFTA-statenes regjeringer ved felles overenskomst. Dersom de ikke kommer til enighet, skal vedkommende velges fra listen ved loddtrekning foretatt av presidenten. Reglene som gjelder for ordinære dommere, får tilsvarende på en dommer valgt etter denne framgangsmåte. Protokoll 5 artikkel 4 annet ledd og artikkel 13 kommer ikke i noe tilfelle til anvendelse.
 
 > Endret ved [protokoll 17 mars 1993](traktat/1993-03-17-3) og Justeringsavtale mellom Norge og Island inngått i desember 1994.
 
@@ -1737,7 +1737,7 @@ Til bekreftelse på dette har de befullmektigede undertegnet denne avtale.
 
 Utferdiget i Oporto 2. mai 1992 i ett eksemplar med gyldighet på engelsk, som skal deponeres hos Kongeriket Sveriges regjering. Depositaren skal sende bekreftede kopier til alle stater som har undertegnet eller tiltrer denne avtale.
 
-### Protokoll 3 om oppgaver og myndighet for EFTAs overvåkingsorgan i forbindelse med statsstøtte.1
+### Protokoll 3 om oppgaver og myndighet for EFTAs overvåkingsorgan i forbindelse med statsstøtte.[^1]
 
 ### Del I. Alminnelige regler
 

@@ -15,7 +15,7 @@ xml_hash: "686dfaf56dc072ed1d887557e499d6c427c3f943d0e8c742f03a5cadcde19d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32007L0002"
@@ -87,7 +87,7 @@ Departementet kan i forskrift gi nærmere regler om saksbehandling og klage, her
 
 ## § 10. Ikraftsetting og overgangsregler
 
-Loven trer i kraft fra det tidspunktet Kongen1 bestemmer.
+Loven trer i kraft fra det tidspunktet Kongen[^1] bestemmer.
 
 Departementet kan gi nærmere overgangsbestemmelser.
 

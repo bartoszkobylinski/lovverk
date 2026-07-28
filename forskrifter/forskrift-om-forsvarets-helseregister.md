@@ -15,7 +15,7 @@ xml_hash: "395c48fe4e013f6991e26d4c19d75994f9d4ef0241fb0fa82e6daafc96dbe524"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -244,7 +244,7 @@ Opplysninger i Forsvarets helseregister skal oppbevares i ubegrenset tid, med mi
 
 ### § 8-1. Ikrafttredelse
 
-Forskriften trer i kraft fra den tid departementet bestemmer1.
+Forskriften trer i kraft fra den tid departementet bestemmer[^1].
 
 1 I kraft 24 april 2006 jf [forskrift 24 april 2006 nr. 436](forskrift/2006-04-24-436).
 

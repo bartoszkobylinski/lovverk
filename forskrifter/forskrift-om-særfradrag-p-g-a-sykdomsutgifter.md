@@ -15,7 +15,7 @@ xml_hash: "da0db326f0e9e057cc650adbfb624af9d68caa30775c2f26338e46ab0d32d4bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Departementets myndighet etter [skatteloven § 6-83](lov/1999-03-26-14/§6-83) a
 
 > Endret ved [forskrifter 1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [13 april 2004 nr. 617](forskrift/2004-04-13-617), [18 feb 2005 nr. 167](forskrift/2005-02-18-167), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
 
-## § 2.1
+## § 2.[^1]
 
 Statsforvalteren avgjør om følgende vilkår er oppfylt:
 

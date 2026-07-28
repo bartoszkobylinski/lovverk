@@ -15,7 +15,7 @@ xml_hash: "88083590ac30e4122033b67106fb9e35ad88d555cd67c03578277ce0d373a3d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -105,7 +105,7 @@ Meldeplikten gjelder ikke dersom rekvirenten, ved rekvirering, ikke har tilgang 
 
 Meldeplikten gjelder heller ikke dersom pasienten ønsker å få utlevert legemidler i utlandet.
 
-[Når en lege gjør endring i en pasients legemiddelbehandling, skal endringen også registreres i pasientens legemiddelliste, med mindre pasienten har motsatt seg at pasientens legemiddelliste gjøres tilgjengelig for legen. Fjerde og femte ledd gjelder tilsvarende.]1
+[Når en lege gjør endring i en pasients legemiddelbehandling, skal endringen også registreres i pasientens legemiddelliste, med mindre pasienten har motsatt seg at pasientens legemiddelliste gjøres tilgjengelig for legen. Fjerde og femte ledd gjelder tilsvarende.][^1]
 
 > Endres ved [forskrift 8 des 2017 nr. 1952](forskrift/2017-12-08-1952) (i kraft når departementet bestemmer).
 

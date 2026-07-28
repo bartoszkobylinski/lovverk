@@ -15,7 +15,7 @@ xml_hash: "4078eee5de8713f37686712b8703d2c0f1e3ee8a003d79f306e0a8d29142ab7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -238,7 +238,7 @@ Granneskjøn er rettsleg skjøn.
 
 ### § 24
 
-1. Denne lova gjeld frå den tid Kongen fastset.1
+1. Denne lova gjeld frå den tid Kongen fastset.[^1]
 2. Frå den tid denne lova tek til å gjelda vert det gjort desse brigde i andre lover:
 
    – – –

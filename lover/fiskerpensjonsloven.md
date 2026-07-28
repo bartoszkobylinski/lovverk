@@ -15,7 +15,7 @@ xml_hash: "2ed7bb5c6d4242631f651ba0ce506a78862ad029c4df3601269383dbb9dec2be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -320,6 +320,6 @@ Arbeids- og velferdsdirektoratet kan også ellers godskrive premieuker når sær
 
 ### § 34
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 1958 iflg. res. 6 des 1957.

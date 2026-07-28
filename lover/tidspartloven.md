@@ -15,7 +15,7 @@ xml_hash: "a65a42001c79314d63fee91ec875cd70b138d822640a8495b63ea0cae7051346"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32008L0122"
@@ -82,7 +82,7 @@ Departementet gir ved forskrift utfyllende bestemmelser om hvordan opplysningspl
 
 Den næringsdrivende skal kostnadsfritt gi opplysningene skriftlig på papir eller et annet varig medium som er lett tilgjengelig for forbrukeren.
 
-Opplysningene skal gis på et offisielt språk i staten der forbrukeren har sitt bosted eller er statsborger. Dersom flere språk er aktuelle, kan forbrukeren velge språk, forutsatt at dette språket er et offisielt språk etter EØS-avtalen.1
+Opplysningene skal gis på et offisielt språk i staten der forbrukeren har sitt bosted eller er statsborger. Dersom flere språk er aktuelle, kan forbrukeren velge språk, forutsatt at dette språket er et offisielt språk etter EØS-avtalen.[^1]
 
 1 Se [EØS-avtalen art. 129](lov/1992-11-27-109/eøsl/a129).
 
@@ -100,7 +100,7 @@ Det er forbudt å markedsføre deltidsbruksrett eller langtidsferieprodukter som
 
 Avtaler som omfattes av denne lov, skal utformes skriftlig på papir eller på et annet varig medium og underskrives av begge parter.
 
-Avtalen skal utformes på et offisielt språk i staten der forbrukeren har sitt bosted eller er statsborger. Dersom flere språk er aktuelle, kan forbrukeren velge språk, forutsatt at dette språket er et offisielt språk etter EØS-avtalen.1 Ved avtale om deltidsbruksrett som gjelder en bestemt eiendom som befinner seg i en annen EØS-stat enn der hvor forbrukeren har sitt bosted eller er statsborger, skal den næringsdrivende i tillegg utlevere en autorisert oversettelse av avtalen til et etter EØS-avtalen offisielt språk i dette landet.
+Avtalen skal utformes på et offisielt språk i staten der forbrukeren har sitt bosted eller er statsborger. Dersom flere språk er aktuelle, kan forbrukeren velge språk, forutsatt at dette språket er et offisielt språk etter EØS-avtalen.[^1] Ved avtale om deltidsbruksrett som gjelder en bestemt eiendom som befinner seg i en annen EØS-stat enn der hvor forbrukeren har sitt bosted eller er statsborger, skal den næringsdrivende i tillegg utlevere en autorisert oversettelse av avtalen til et etter EØS-avtalen offisielt språk i dette landet.
 
 Forbrukeren skal få kopi av avtalen når den inngås.
 
@@ -174,7 +174,7 @@ Avtaler om kreditt som innvilges forbrukeren av den næringsdrivende eller av en
 
 ### § 16. Ikraftsetting og oppheving av tidligere lov
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Fra samme tidspunkt oppheves [lov 13. juni 1997 nr. 37](lov/1997-06-13-37) om salg av tidsparter i fritidsbolig.
 

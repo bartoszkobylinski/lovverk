@@ -15,7 +15,7 @@ xml_hash: "37e1bc4d0e847548af4cad4c59e9c5eeb0da5ce5e99abc7b9e416d837a955a65"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -429,7 +429,7 @@ En kommune må oppfylle et vedtak fra et statlig forvaltningsorgan som gir en pr
 
 ### § 50. Lovens ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Lovens bestemmelser om kvalifiseringsprogram og kvalifiseringsstønad gjelder for den enkelte kommunen fra det tidspunktet det er inngått avtale mellom Arbeids- og velferdsetaten og kommunen etter [arbeids- og velferdsforvaltningsloven §§ 13](lov/2006-06-16-20/§13) og [14](lov/2006-06-16-20/§14), og felles lokalt kontor er etablert. Fra 1. januar 2010 gjelder bestemmelsene for alle landets kommuner.
 

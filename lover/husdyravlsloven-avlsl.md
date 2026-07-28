@@ -15,7 +15,7 @@ xml_hash: "cf61543639ac5a2a7244af8c2e73dfef15262d267c9f79ee0cac392fe29ce2af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,9 +76,9 @@ Den som overtrer bestemmelser gitt i eller i medhold av denne lov straffes med b
 
 ## § 7a.
 
-Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven1 for godkjenning etter [§§ 2](lov/1992-12-04-130/§2) og [4](lov/1992-12-04-130/§4) herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse.
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven[^1] for godkjenning etter [§§ 2](lov/1992-12-04-130/§2) og [4](lov/1992-12-04-130/§4) herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse.
 
-Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.1
+Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.[^1]
 
 Saksbehandlingsreglene kan fravike reglene i forvaltningsloven.
 
@@ -88,7 +88,7 @@ Saksbehandlingsreglene kan fravike reglene i forvaltningsloven.
 
 ## § 8.
 
-Loven trer i kraft fra den tid1 EØS-avtalen trer i kraft for Norge.
+Loven trer i kraft fra den tid[^1] EØS-avtalen trer i kraft for Norge.
 
 Fra samme tid oppheves – – –
 

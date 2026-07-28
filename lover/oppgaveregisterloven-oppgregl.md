@@ -15,7 +15,7 @@ xml_hash: "1c260d87a040bc47fc46b69ce36a537511f27c0bd7760f0ba0ca0e912880f313"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,7 @@ Gjelder feilen en opplysning som er samordnet, skal øvrige registre som er omfa
 
 ## § 8. Ikrafttredelse
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 nov 1997 iflg. [res. 10 okt 1997 nr. 1088](forskrift/1997-10-10-1088).
 

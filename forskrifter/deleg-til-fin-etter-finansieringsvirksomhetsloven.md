@@ -15,13 +15,13 @@ xml_hash: "980d3cfd3094b436c86890d911dee9fcd34f43253687b267b34b66cc5e313c65"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Finansdepartementet etter finansieringsvirksomhetsloven § 2-28, § 2-29, § 2-30, § 2-31, § 2-32, § 2-33, § 2-34 og § 2-35.
 
-Kongens myndighet etter [lov 16. mars 2007 nr. 11](lov/2007-03-16-11) del VI til å fastsette forskrifter delegeres til Finansdepartementet.1
+Kongens myndighet etter [lov 16. mars 2007 nr. 11](lov/2007-03-16-11) del VI til å fastsette forskrifter delegeres til Finansdepartementet.[^1]
 
 1 Kongens myndighet etter [lov 10. juni 1988 nr. 40](lov/1988-06-10-40) om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven) [§ 2-28](lov/1988-06-10-40/§2-28), [§ 2-29](lov/1988-06-10-40/§2-29), [§ 2-30](lov/1988-06-10-40/§2-30), [§ 2-31](lov/1988-06-10-40/§2-31), [§ 2-32](lov/1988-06-10-40/§2-32), [§ 2-33](lov/1988-06-10-40/§2-33), [§ 2-34](lov/1988-06-10-40/§2-34) og [§ 2-35](lov/1988-06-10-40/§2-35), jf. [lov 16. mars 2007 nr. 11](lov/2007-03-16-11) om endringer i finanslovgivningen mv. (forvalterregistrering av aksjer, obligasjoner med fortrinnsrett, mv.) del VI til å fastsette forskrifter, delegeres til Finansdepartementet.

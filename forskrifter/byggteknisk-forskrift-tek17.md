@@ -15,7 +15,7 @@ xml_hash: "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1700,7 +1700,7 @@ Ved oppføring og hovedombygging av boligblokk og yrkesbygning skal det utarbeid
 
 Tabell: Bygningsdeler
 
-| *Bygningsdel\** | *Bygningselement* |
+| *Bygningsdel[^\*]* | *Bygningselement* |
 | --- | --- |
 | 215 | Pelefundamentering |
 | 216 | Direkte fundamentering |

@@ -15,7 +15,7 @@ xml_hash: "96d61de5d23cfcc60521c57549320fae31b0a76ad1dc5aee7165962921dc8c2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## 1. Innledning
 
-Bevilgningsreglementet, vedtatt av Stortinget 26. mai 2005,1 inneholder en del fullmakter for Kongen til å gjøre unntak fra eller utfylle reglementets bestemmelser. Ved kongelig [resolusjon av 2. desember 2005 nr. 1359](forskrift/2005-12-02-1359) er disse fullmaktene, med et par unntak, delegert til Finansdepartementet. Med hjemmel i resolusjonen fastsetter Finansdepartementet i dette rundskrivet departementenes fullmakter til å gjøre unntak fra enkelte av bevilgningsreglementets hovedprinsipper, jf. punkt 2. I tillegg blir det redegjort for fullmakter som ikke delegeres til departementene, men som åpner for at departementene kan søke om samtykke fra Finansdepartementet i enkeltsaker, jf. punkt 3. Punkt 4 redegjør for et par andre fullmakter som Finansdepartementet har fått, mens punkt 5 inneholder bestemmelser om ikrafttredelse.
+Bevilgningsreglementet, vedtatt av Stortinget 26. mai 2005,[^1] inneholder en del fullmakter for Kongen til å gjøre unntak fra eller utfylle reglementets bestemmelser. Ved kongelig [resolusjon av 2. desember 2005 nr. 1359](forskrift/2005-12-02-1359) er disse fullmaktene, med et par unntak, delegert til Finansdepartementet. Med hjemmel i resolusjonen fastsetter Finansdepartementet i dette rundskrivet departementenes fullmakter til å gjøre unntak fra enkelte av bevilgningsreglementets hovedprinsipper, jf. punkt 2. I tillegg blir det redegjort for fullmakter som ikke delegeres til departementene, men som åpner for at departementene kan søke om samtykke fra Finansdepartementet i enkeltsaker, jf. punkt 3. Punkt 4 redegjør for et par andre fullmakter som Finansdepartementet har fått, mens punkt 5 inneholder bestemmelser om ikrafttredelse.
 
 Dette rundskrivet erstatter rundskriv [R-2013-110](rundskriv/r-2013-110) av 25. november 2013. Ordningen med overskridelse til investeringsformål mot innsparing i de kommende budsjetterminer er som en prøveordning for årene 2017–2019 utvidet slik at innsparingsperioden øker fra tre til fem år, jf. punkt 2.6. Det er også presisert at investeringer i IKT-baserte tjenester og systemer kan inngå i ordningen.
 
@@ -58,7 +58,7 @@ Med hjemmel i kongelig [resolusjon av 2. desember 2005 nr. 1359](forskrift/2005-
 
 Det vises for øvrig til [bevilgningsreglementet § 10](forskrift/2005-05-26-876/§10) første ledd der det bl.a. kreves at utgiftsbevilgninger skal disponeres på en slik måte at ressursbruk og virkemidler er effektive i forhold til de forutsatte resultater, samt til tilsvarende krav i økonomireglementet § 4. På dette området innebærer disse bestemmelsene både et krav til å vurdere mulige alternativer til leie og kjøp av tjenester, og til utformingen av vilkårene i eventuelle avtaler om leie og kjøp av tjenester.
 
-Det understrekes at bestemmelsene i punkt 2.3 bare gjelder adgangen til å pådra forpliktelser utover budsjettåret. Departementene må derfor være oppmerksom på at det på enkelte områder kan være fastsatt bestemmelser som også regulerer adgangen til å inngå driftsavtaler av den art det her er tale om.2 Slike bestemmelser kommer selvsagt i tillegg.
+Det understrekes at bestemmelsene i punkt 2.3 bare gjelder adgangen til å pådra forpliktelser utover budsjettåret. Departementene må derfor være oppmerksom på at det på enkelte områder kan være fastsatt bestemmelser som også regulerer adgangen til å inngå driftsavtaler av den art det her er tale om.[^2] Slike bestemmelser kommer selvsagt i tillegg.
 
 2 I Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor reguleres lokalanskaffelser i statlig sivil sektor. Instruksen er fastsatt ved kongelig [resolusjon 20. januar 2012 nr. 39](forskrift/2012-01-20-39), med senere endringer. Fra 1. januar 2014 forvaltes saksområdet av Kommunal- og moderniseringsdepartementet.
 

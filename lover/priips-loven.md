@@ -15,7 +15,7 @@ xml_hash: "1b8666bac1a664f2d928b4710894d294e61fea7ef972e7926bbd9052fc525633"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014R1286"
@@ -91,7 +91,7 @@ Departementet kan i forskrift gi regler som utfyller reglene i første og annet 
 
 ## § 10. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Departementet kan gi overgangsregler.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Departementet kan gi overgangsregler.
 
 > **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 11).
 

@@ -15,7 +15,7 @@ xml_hash: "ff4e873d778e7b0eb737d9ec6eb71d9b5865b909349920d6afca631563017664"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,6 +94,6 @@ Departementet kan gi forskrift om behandling av personopplysninger etter denne l
 
 ## § 10. Ikrafttredelse
 
-Loven trer i kraft fra den tiden1 Kongen bestemmer.
+Loven trer i kraft fra den tiden[^1] Kongen bestemmer.
 
 1 Fra 1. juli 2025 iflg. [res. 20 juni 2025 nr. 1112](forskrift/2025-06-20-1112).

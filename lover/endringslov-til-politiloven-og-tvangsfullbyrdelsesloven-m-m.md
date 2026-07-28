@@ -15,7 +15,7 @@ xml_hash: "671848072dcaca4dd3e4b43a85f27276b6da944d66dfadd2d52092591c4648c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -151,6 +151,6 @@ I følgende bestemmelser endres ordet «polititjenestemann» til «polititjenest
 
 ## II
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
 
 1 Fra 1. juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146) med unntak av del I nr. 16, endring av [rettsgebyrloven § 14 første ledd annet punktum](lov/1982-12-17-86/§14/ledd/1/setning/2), som trer i kraft når [lov 20. juni 2025 nr. 40 om barn og foreldre](lov/2025-06-20-40) trer i kraft, og del I nr. 30, endring av [utlendingsloven §§ 103b](lov/2008-05-15-35/§103b) og [104a](lov/2008-05-15-35/§104a), som trer i kraft når [§§ 103b](lov/2008-05-15-35/§103b) og [104a](lov/2008-05-15-35/§104a) blir tilføyd ved ikrafttredelsen av [lov 20. desember 2022 nr. 120 om endringer i utlendingsloven (visitasjon og undersøkelse i forbindelse med registrering av søknad om beskyttelse mv.)](lov/2022-12-20-120).

@@ -15,7 +15,7 @@ xml_hash: "0cf9873676c1b9fb1bb75e6d8373fcb659a22dea14656cdec03ef2bd3a9548b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31985R2137"
@@ -71,7 +71,7 @@ Nedenfor gjengis [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10
 
 ### EØS-avtalen vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85 av 25 juli 1985 om europeiske økonomiske foretaksgrupper (EØFG)) – med de endringer som følger av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig
 
-[Rådet for De europeiske fellesskap har1 –
+[Rådet for De europeiske fellesskap har[^1] –
 
 under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 235,
 
@@ -135,7 +135,7 @@ De parter som har til hensikt å opprette en gruppe, skal derfor inngå en avtal
 
 2\. En gruppe som er stiftet på denne måten, kan fra tidspunktet for registreringen fastsatt i artikkel 6 i eget navn ha alle slags rettigheter og forpliktelser, inngå avtaler eller foreta andre juridiske disposisjoner, samt ha partsevne ved søksmål.
 
-3\. **EØS-statene**1 skal bestemme om en gruppe som er registrert ved deres registre i samsvar med artikkel 6, skal være eget rettssubjekt.
+3\. **EØS-statene**[^1] skal bestemme om en gruppe som er registrert ved deres registre i samsvar med artikkel 6, skal være eget rettssubjekt.
 
 1 Begrepet «medlemsstat» må anses også å omfatte EFTA-landene. Her er derfor ordet «EØS-statene» satt inn istedenfor «medlemsstatene».
 
@@ -163,7 +163,7 @@ Gruppens virksomhet skal være knyttet til deltakernes økonomiske virksomhet og
 
 1\. Foretaksgruppen kan bare bestå av:
 
-1. selskaper i henhold til traktatens artikkel 58 annet ledd, og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i samsvar med en **EØF-stats** lovgivning og som har sitt forretningskontor eller lovfestede sete og sin hovedadministrasjon i **EØS**;1 dersom et selskap eller et annet rettssubjekt i henhold til en **EØF-stats** lovgivning ikke har plikt til å ha et forretningskontor eller lovfestet sete, skal det være tilstrekkelig at et slikt selskap eller annet rettssubjekt har sin hovedadministrasjon i **EØS**,
+1. selskaper i henhold til traktatens artikkel 58 annet ledd, og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i samsvar med en **EØF-stats** lovgivning og som har sitt forretningskontor eller lovfestede sete og sin hovedadministrasjon i **EØS**;[^1] dersom et selskap eller et annet rettssubjekt i henhold til en **EØF-stats** lovgivning ikke har plikt til å ha et forretningskontor eller lovfestet sete, skal det være tilstrekkelig at et slikt selskap eller annet rettssubjekt har sin hovedadministrasjon i **EØS**,
 2. fysiske personer som utøver industri-, handels-, håndverks- eller landbruksvirksomhet eller et fritt yrke eller som yter andre tjenester i **EØS**.
 
 2\. En gruppe skal bestå av minst:
@@ -221,7 +221,7 @@ Opplysningene nevnt i bokstav a) og b) skal offentliggjøres i sin helhet. Dokum
 
 ### Art 9
 
-1\. Foretaksgruppen kan påberope seg dokumentene og opplysningene som skal offentliggjøres i henhold til denne forordning overfor tredjemann på de vilkår som er fastsatt i gjeldende nasjonal lovgivning i samsvar med artikkel 3 nr. 5 og nr. 7 i rådsdirektiv [68/151/EØF](eu/31968l0151) av 9. mars 1968,1 med sikte på den samordning som kreves av **EØS-statene** overfor selskaper for å gjøre garantiene innbyrdes likeverdige, slik det er definert i **EØS-avtalens** artikkel **34** annet ledd,2 for å beskytte både medlemmenes og tredjemanns interesser.
+1\. Foretaksgruppen kan påberope seg dokumentene og opplysningene som skal offentliggjøres i henhold til denne forordning overfor tredjemann på de vilkår som er fastsatt i gjeldende nasjonal lovgivning i samsvar med artikkel 3 nr. 5 og nr. 7 i rådsdirektiv [68/151/EØF](eu/31968l0151) av 9. mars 1968,[^1] med sikte på den samordning som kreves av **EØS-statene** overfor selskaper for å gjøre garantiene innbyrdes likeverdige, slik det er definert i **EØS-avtalens** artikkel **34** annet ledd,[^2] for å beskytte både medlemmenes og tredjemanns interesser.
 
 2\. Dersom det er foretatt handlinger i en gruppes navn før den er registrert i samsvar med artikkel 6 og gruppen etter registrering ikke påtar seg de forpliktelser som følger av disse handlinger, hefter de fysiske personer, selskaper eller andre rettssubjekter som foretok handlingene, ubegrenset og solidarisk for dem.
 
@@ -235,7 +235,7 @@ Når foretaksgruppen har et forretningssted i en annen stat enn staten der den h
 
 ### Art 11
 
-Melding om at en foretaksgruppe er stiftet eller at avvikling av en gruppe er avsluttet, med registreringsnummer, -dato og -sted, samt dato og sted for offentliggjøring og lysingsbladets navn, skal gis i De Europeiske Fellesskaps Tidendes **EØS-avdeling**1 etter offentliggjøring i lysingsbladet nevnt i artikkel 39 nr. 1.
+Melding om at en foretaksgruppe er stiftet eller at avvikling av en gruppe er avsluttet, med registreringsnummer, -dato og -sted, samt dato og sted for offentliggjøring og lysingsbladets navn, skal gis i De Europeiske Fellesskaps Tidendes **EØS-avdeling**[^1] etter offentliggjøring i lysingsbladet nevnt i artikkel 39 nr. 1.
 
 1 Jf. EØS-avtalen protokoll 1 nr. 6. Når EUs medlemsstater i henhold til denne rettsakt skal offentliggjøre visse opplysninger om faktiske forhold, framgangsmåter og lignende i De Europeiske Fellesskaps Tidende, skal EFTA-statene kunngjøre tilsvarende informasjon i en særskilt EØS-avdeling i De Europeiske Fellesskaps Tidende (nå: Den europeiske unions tidende).
 
@@ -479,9 +479,9 @@ Resultatet som skriver seg fra gruppens virksomhet kan beskattes bare på deltak
 
 ### Art 41
 
-[1. *Medlemsstatene skal innen 1. juli 1989 treffe de tiltak som kreves i henhold til artikkel 39. De skal umiddelbart underrette Kommisjonen om dette.*]1
+[1. *Medlemsstatene skal innen 1. juli 1989 treffe de tiltak som kreves i henhold til artikkel 39. De skal umiddelbart underrette Kommisjonen om dette.*][^1]
 
-2\. **EFTA-statene** skal til orientering underrette **EFTAs faste komité**2 om hvilke kategorier fysiske personer, selskaper og andre rettssubjekter som de utelukker fra deltakelse i en gruppe i henhold til artikkel 4 nr. 4. **EFTAs faste komité** skal underrette de øvrige **EØS-statene** om dette.
+2\. **EFTA-statene** skal til orientering underrette **EFTAs faste komité**[^2] om hvilke kategorier fysiske personer, selskaper og andre rettssubjekter som de utelukker fra deltakelse i en gruppe i henhold til artikkel 4 nr. 4. **EFTAs faste komité** skal underrette de øvrige **EØS-statene** om dette.
 
 1 Jf. EØS-avtalen protokoll 1 nr. 11. Rettsaktens egne regler om ikrafttredelse og gjennomføring er ikke relevant i forhold til EØS-avtalen.
 
@@ -496,7 +496,7 @@ Resultatet som skriver seg fra gruppens virksomhet kan beskattes bare på deltak
 
 *2. Kontaktkomiteen skal bestå av representanter for medlemsstatene og representanter for Kommisjonen. Formannen skal være en representant for Kommisjonen. Sekretariatsfunksjonene skal ivaretas av Kommisjonen.*
 
-*3. Kontaktkomiteen skal innkalles av formannen, enten på eget initiativ eller etter anmodning fra et av medlemmene*]1
+*3. Kontaktkomiteen skal innkalles av formannen, enten på eget initiativ eller etter anmodning fra et av medlemmene*][^1]
 
 1 Jf. EØS-avtalen protokoll 1 nr. 2: EØS-avtalen art. 81, 100 og 101 og protokoll 31 gjelder i stedet for EUs interne komitéprosedyrer. Etter avtalen om EFTAs faste komité kan komiteen opprette underkomiteer og andre organer til hjelp i dens arbeid.
 

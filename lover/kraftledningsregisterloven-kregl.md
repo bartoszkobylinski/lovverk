@@ -15,7 +15,7 @@ xml_hash: "0b6b868ba4739996da3ad140fe691361106b2cb4f041ec13aedc16b47514d228"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,7 @@ Vil nogen overfor eier av eller rettighetshaver i ledningen gjøre innsigelse mo
 
 ## § 7.
 
-Ved overdragelse av eiendomsrett til og stiftelse av pant eller annen rettighet i registrert kraftledning er inntegning på ledningens folium i registret av det dokument som hjemler rettigheten, nødvendig i samme utstrekning hvori ellers tinglysing utfordres ved fast eiendom. Bestemmelsene i [lov om tinglysing](lov/1935-06-07-2) av 7. juni 19351 [§§ 12](lov/1935-06-07-2/§12)-14 og [16](lov/1935-06-07-2/§16)-19 samt [§ 39](lov/1935-06-07-2/§39) nr. 3 gjelder tilsvarende. Tinglysing, foretatt etter denne lovs ikrafttreden vedkommende rettighet i registrert kraftledning, har ingen rettsvirkning.
+Ved overdragelse av eiendomsrett til og stiftelse av pant eller annen rettighet i registrert kraftledning er inntegning på ledningens folium i registret av det dokument som hjemler rettigheten, nødvendig i samme utstrekning hvori ellers tinglysing utfordres ved fast eiendom. Bestemmelsene i [lov om tinglysing](lov/1935-06-07-2) av 7. juni 1935[^1] [§§ 12](lov/1935-06-07-2/§12)-14 og [16](lov/1935-06-07-2/§16)-19 samt [§ 39](lov/1935-06-07-2/§39) nr. 3 gjelder tilsvarende. Tinglysing, foretatt etter denne lovs ikrafttreden vedkommende rettighet i registrert kraftledning, har ingen rettsvirkning.
 
 > Endret ved lover 24 juni 1949 nr. 2, [8 feb 1980 nr. 2](lov/1980-02-08-2).
 
@@ -188,6 +188,6 @@ Gebyravgjørelser som gjelder registrering og anmerkning, kan ankes etter de reg
 
 ## § 17.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 juni 1928 iflg. res. 13 apr 1928 del VI.

@@ -15,7 +15,7 @@ xml_hash: "59e070623b55ba8f023b7f7ca013698608ef0db5a15343217640266ab1e3454d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,9 +146,9 @@ Etter avsluttet eksamen skal studenten gjennom sin hovedveileder få en nærmere
 
 Styret fastsetter nærmere regler i Eksamensreglementet.
 
-### 9. Ikke bestått studiesemester/hovedelement\* /eksamen
+### 9. Ikke bestått studiesemester/hovedelement[^\*] /eksamen
 
-En student som iht. [pkt](forskrift/2003-06-25-1236/kap7). 7 ikke får godkjent semesteret/hovedelementet,\* må ta det angjeldende semester/hovedelement på nytt. Studenten kan få samme semester/hovedelement vurdert ytterligere to ganger.
+En student som iht. [pkt](forskrift/2003-06-25-1236/kap7). 7 ikke får godkjent semesteret/hovedelementet,[^\*] må ta det angjeldende semester/hovedelement på nytt. Studenten kan få samme semester/hovedelement vurdert ytterligere to ganger.
 
 En student som iht. [pkt](forskrift/2003-06-25-1236/kap8). 8 får karakteren «Ikke bestått» ved eksamensvurderingen, kan påbegynne denne eksamenen ytterligere to ganger.
 

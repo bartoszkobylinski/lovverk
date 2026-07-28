@@ -15,14 +15,14 @@ xml_hash: "9f09c9221018211f2d82e61baee80f3d038af87061156ae1b3b9dee1219ebbe4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Kultur- og kirkedepartementet etter lov om kringkasting § 2-1 andre ledd.
 
-Kongens myndighet etter [lov av 4. desember 1992 nr. 127](lov/1992-12-04-127) om kringkasting § 2-1 andre ledd til å foreta justeringer i [forskrift av 25. august 1995 nr. 769](forskrift/1995-08-25-769) om konsesjonsområder for lokalfjernsyn1 delegeres til Kultur- og kirkedepartementet.
+Kongens myndighet etter [lov av 4. desember 1992 nr. 127](lov/1992-12-04-127) om kringkasting § 2-1 andre ledd til å foreta justeringer i [forskrift av 25. august 1995 nr. 769](forskrift/1995-08-25-769) om konsesjonsområder for lokalfjernsyn[^1] delegeres til Kultur- og kirkedepartementet.
 
 > Endret ved [forskrift 25 mars 2002 nr. 376](forskrift/2002-03-25-376) (med virkning fra 1 jan 2002).
 

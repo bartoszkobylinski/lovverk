@@ -15,7 +15,7 @@ xml_hash: "9b20270ca88fd1f7e53ecaabd207674b2b59417464047702df7bd7ff067b7f5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Andre lovbestemmelser gjelder ikke for Svalbard, uten når det særskilt er fast
 
 ### § 3
 
-Lovene om offentlige tjenestemenn,1 om betaling for offentlige forretninger, om mynt, mål og vekt, om tid, om formidling av landsdekkende postsendinger, om elektronisk kommunikasjon, om arbeidervern og om arbeidstvister skal gjelde for Svalbard med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.
+Lovene om offentlige tjenestemenn,[^1] om betaling for offentlige forretninger, om mynt, mål og vekt, om tid, om formidling av landsdekkende postsendinger, om elektronisk kommunikasjon, om arbeidervern og om arbeidstvister skal gjelde for Svalbard med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.
 
 > Endret ved [lover 9 jan 1998 nr. 5](lov/1998-01-09-5), [4 juli 2003 nr. 83](lov/2003-07-04-83) (ikr. 25 juli 2003 iflg. [res. 4 juli 2003 nr. 879](forskrift/2003-07-04-879)), [26 jan 2007 nr. 4](lov/2007-01-26-4) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 86](forskrift/2007-01-26-86)).
 
@@ -455,7 +455,7 @@ Kongen kan fastsette at personer og selskaper fra stater som står utenfor [Sval
 
 ### § 46
 
-Denne lov trer i kraft fra den tid Kongen fastsetter.1
+Denne lov trer i kraft fra den tid Kongen fastsetter.[^1]
 
 > Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695), tidligere § 30).
 

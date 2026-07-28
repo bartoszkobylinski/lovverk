@@ -15,7 +15,7 @@ xml_hash: "f4f73e51ae93c71ca7f6feb39a43eaf4b75056b460fd3c5b6c16cda5349b8747"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med loven er å regulere forholdet til forretningsbankloven,1 aksjeloven, postbankloven2 og visse overgangsspørsmål i forbindelse med omdanning av Postbanken BA til aksjeselskap (Postbanken AS).
+Formålet med loven er å regulere forholdet til forretningsbankloven,[^1] aksjeloven, postbankloven[^2] og visse overgangsspørsmål i forbindelse med omdanning av Postbanken BA til aksjeselskap (Postbanken AS).
 
 1 Inkurie: Opphevet, se nå [lov 10 apr 2015 nr. 17](lov/2015-04-10-17).
 
@@ -32,7 +32,7 @@ Formålet med loven er å regulere forholdet til forretningsbankloven,1 aksjelov
 
 ## § 2. Omdanning
 
-Postbanken BA kan oppløses ved at bankens eiendeler, rettigheter og forpliktelser som en helhet overføres til Postbanken AS som statens innskudd i selskapet mot at staten erverver samtlige aksjer i det. [Postbankloven1 § 10-1](lov/1992-06-05-51/§10-1), jf. [aksjeloven kapittel 16](lov/1997-06-13-44/kap16), gjelder ikke ved oppløsning av Postbanken BA etter første punktum.
+Postbanken BA kan oppløses ved at bankens eiendeler, rettigheter og forpliktelser som en helhet overføres til Postbanken AS som statens innskudd i selskapet mot at staten erverver samtlige aksjer i det. [Postbankloven[^1] § 10-1](lov/1992-06-05-51/§10-1), jf. [aksjeloven kapittel 16](lov/1997-06-13-44/kap16), gjelder ikke ved oppløsning av Postbanken BA etter første punktum.
 
 1 Inkurie: Opphevet jf § 9 nr. 1.
 
@@ -60,7 +60,7 @@ Fordringshavere og andre rettighetshavere kan ikke motsette seg overføring ette
 
 ## § 8. Ikrafttredelse
 
-Loven trer i kraft straks, med unntak av [§ 9](lov/1999-06-18-42/§9) nr. 1 til 12 som trer i kraft fra den tid1 Kongen bestemmer. Kongen kan gi overgangsregler.
+Loven trer i kraft straks, med unntak av [§ 9](lov/1999-06-18-42/§9) nr. 1 til 12 som trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan gi overgangsregler.
 
 1 Iflg. [res. 18 juni 1999 nr. 665](forskrift/1999-06-18-665) trådte § 9 nr. 1 til 12 ikr. fra 22 juni 1999.
 

@@ -15,7 +15,7 @@ xml_hash: "3b6558e6d7f45a4708b5c003f51685ddc631f0f7f4ab0411911ed3b8bc92a19b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -440,7 +440,7 @@ Domstolen kan utsette avgjørelsen om anerkjennelse og fullbyrding dersom den fi
 
 ### § 48. Ikrafttredelse
 
-Loven gjelder fra det tidspunktet Kongen bestemmer.1
+Loven gjelder fra det tidspunktet Kongen bestemmer.[^1]
 
 1 Ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751).
 

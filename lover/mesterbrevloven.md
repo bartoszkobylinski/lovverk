@@ -15,7 +15,7 @@ xml_hash: "1b05bc4d37020fd4027adf07ac67cf2fd66bbc09d7118058f10ecb3f58453ced"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Kongen bestemmer hvem som skal innkreve og disponere midlene. Er fastsatt årsge
 
 ## § 6.
 
-Kongen kan delegere sin myndighet etter §§ 1-3 og [§ 9](lov/1986-06-20-35/§9) til en mesterbrevnemnd som oppnevnes av Kongen.1
+Kongen kan delegere sin myndighet etter §§ 1-3 og [§ 9](lov/1986-06-20-35/§9) til en mesterbrevnemnd som oppnevnes av Kongen.[^1]
 
 Mesterbrevnemnda skal bestå av 5 medlemmer, herav oppnevnes 1 medlem etter forslag fra Næringslivets Hovedorganisasjon, 1 medlem etter forslag fra Landsorganisasjonen i Norge, 2 medlemmer etter forslag fra Samarbeidsrådet for yrkesopplæring og 1 medlem etter forslag fra vedkommende departement.
 
@@ -82,9 +82,9 @@ Kongen kan gi forskrifter til utfylling og gjennomføring av denne lov.
 
 ## § 8.
 
-Loven her trer i kraft fra den tid1 Kongen bestemmer.
+Loven her trer i kraft fra den tid[^1] Kongen bestemmer.
 
-Fra samme tid oppheves [lov av 19. juni 1970 nr. 59](lov/1970-06-19-59) om handverksnæring. Kongen kan likevel bestemme at reglene i nevnte lov og forskrifter gitt i medhold av den, skal gjelde inntil videre for enkelte fag eller deler av fag.2
+Fra samme tid oppheves [lov av 19. juni 1970 nr. 59](lov/1970-06-19-59) om handverksnæring. Kongen kan likevel bestemme at reglene i nevnte lov og forskrifter gitt i medhold av den, skal gjelde inntil videre for enkelte fag eller deler av fag.[^2]
 
 1 Fra 15 jan 1987 iflg. [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).
 
@@ -92,7 +92,7 @@ Fra samme tid oppheves [lov av 19. juni 1970 nr. 59](lov/1970-06-19-59) om handv
 
 ## § 9.
 
-Den som før denne lov trer i kraft innehar handverksbrev eller håndverksrett etter håndverksloven av 19. juni 19701 eller er godkjent som entreprenør i husbygging i mur og stein eller i tre etter entreprenørloven av 24. oktober 1952, tildeles mesterbrev ved å la seg registrere hos den som tildeler mesterbrev etter [§ 2](lov/1986-06-20-35/§2), jfr. [§ 6](lov/1986-06-20-35/§6).
+Den som før denne lov trer i kraft innehar handverksbrev eller håndverksrett etter håndverksloven av 19. juni 1970[^1] eller er godkjent som entreprenør i husbygging i mur og stein eller i tre etter entreprenørloven av 24. oktober 1952, tildeles mesterbrev ved å la seg registrere hos den som tildeler mesterbrev etter [§ 2](lov/1986-06-20-35/§2), jfr. [§ 6](lov/1986-06-20-35/§6).
 
 Når særlige grunner gjør det rimelig kan mesterbrev også tildeles søker som uten å ha de i foregående ledd nevnte kvalifikasjoner, driver håndverksvirksomhet og har lang praksis i faget når loven her trer i kraft.
 

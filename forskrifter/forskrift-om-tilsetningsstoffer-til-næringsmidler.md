@@ -15,7 +15,7 @@ xml_hash: "d2b72c689f39deab2bda93bd75805e5ab0cf9eb00429b260af34f6215a8000fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -205,40 +205,40 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
-etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^2] og
 
 ut fra følgende betraktninger:
 
 1. Fri omsetning av trygge og sunne næringsmidler er en nødvendig del av det indre marked, og bidrar i høy grad til å verne borgernes helse og velferd, og deres sosiale og økonomiske interesser.
 2. Det bør sikres et høyt vernenivå for menneskers liv og helse ved gjennomføringen av Fellesskapets politikk.
 3. Denne forordning erstatter tidligere direktiver og vedtak om tilsetningsstoffer som kan brukes i næringsmidler, med henblikk på å sikre at det indre marked fungerer tilfredsstillende, samtidig som det sikres et høyt nivå for vern av menneskers helse og et høyt nivå for forbrukervern, herunder vern av forbrukernes interesser, ved hjelp av detaljerte og ensartede framgangsmåter.
-4. Ved denne forordning harmoniseres bruken av tilsetningsstoffer i næringsmidler i Fellesskapet. Dette omfatter bruk av tilsetningsstoffer i næringsmidler som omfattes av rådsdirektiv [89/398/EØF](eu/31989l0398*) av 3. mai 1989 om tilnærming av medlemsstatenes lovgivning om næringsmidler beregnet på spesielle ernæringsmessige behov3 og bruk av visse fargestoffer i næringsmidler til stempelmerking av kjøtt samt til dekorasjon og stempling av egg. Videre harmoniserer forordningen bruk av tilsetningsstoffer i tilsetningsstoffer i næringsmidler og i næringsmiddelenzymer og sikrer på den måten stoffenes trygghet og kvalitet og forenkler lagringen og bruken av dem. Dette har hittil ikke vært regulert på fellesskapsplan.
-5. Tilsetningsstoffer i næringsmidler er stoffer som normalt ikke inntas som et næringsmiddel i seg selv, men som med hensikt tilsettes næringsmidler for å oppfylle et teknisk formål beskrevet i denne forordning, for eksempel konservering av næringsmidler. Alle tilsetningsstoffer i næringsmidler bør omfattes av denne forordning, og derfor bør listen over funksjonsgrupper ajourføres på bakgrunn av den vitenskapelige og teknologiske utvikling. Stoffer bør imidlertid ikke anses som tilsetningsstoffer i næringsmidler når de brukes for å gi aroma og/eller smak eller til ernæringsformål, som salterstatning, vitaminer og mineraler. Videre bør stoffer som anses som næringsmidler og som kan brukes i en teknisk funksjon, som natriumklorid eller safran til farging samt næringsmiddelenzymer, heller ikke omfattes av denne forordning. Preparater som framstilles av næringsmidler og andre naturlige utgangsmaterialer, som er beregnet på å virke teknisk inn på det ferdige næringsmiddelet og som framstilles gjennom en selektiv ekstraksjon av bestanddelene (f.eks. pigmenter) i forhold til de ernæringsmessige eller aromatiske bestanddelene, bør imidlertid anses som tilsetningsstoffer i henhold til denne forordning. Næringsmiddelenzymer omfattes av europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer,4 som utelukker anvendelsen av denne forordning.
+4. Ved denne forordning harmoniseres bruken av tilsetningsstoffer i næringsmidler i Fellesskapet. Dette omfatter bruk av tilsetningsstoffer i næringsmidler som omfattes av rådsdirektiv [89/398/EØF](eu/31989l0398*) av 3. mai 1989 om tilnærming av medlemsstatenes lovgivning om næringsmidler beregnet på spesielle ernæringsmessige behov[^3] og bruk av visse fargestoffer i næringsmidler til stempelmerking av kjøtt samt til dekorasjon og stempling av egg. Videre harmoniserer forordningen bruk av tilsetningsstoffer i tilsetningsstoffer i næringsmidler og i næringsmiddelenzymer og sikrer på den måten stoffenes trygghet og kvalitet og forenkler lagringen og bruken av dem. Dette har hittil ikke vært regulert på fellesskapsplan.
+5. Tilsetningsstoffer i næringsmidler er stoffer som normalt ikke inntas som et næringsmiddel i seg selv, men som med hensikt tilsettes næringsmidler for å oppfylle et teknisk formål beskrevet i denne forordning, for eksempel konservering av næringsmidler. Alle tilsetningsstoffer i næringsmidler bør omfattes av denne forordning, og derfor bør listen over funksjonsgrupper ajourføres på bakgrunn av den vitenskapelige og teknologiske utvikling. Stoffer bør imidlertid ikke anses som tilsetningsstoffer i næringsmidler når de brukes for å gi aroma og/eller smak eller til ernæringsformål, som salterstatning, vitaminer og mineraler. Videre bør stoffer som anses som næringsmidler og som kan brukes i en teknisk funksjon, som natriumklorid eller safran til farging samt næringsmiddelenzymer, heller ikke omfattes av denne forordning. Preparater som framstilles av næringsmidler og andre naturlige utgangsmaterialer, som er beregnet på å virke teknisk inn på det ferdige næringsmiddelet og som framstilles gjennom en selektiv ekstraksjon av bestanddelene (f.eks. pigmenter) i forhold til de ernæringsmessige eller aromatiske bestanddelene, bør imidlertid anses som tilsetningsstoffer i henhold til denne forordning. Næringsmiddelenzymer omfattes av europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer,[^4] som utelukker anvendelsen av denne forordning.
 6. Stoffer som ikke inntas som næringsmidler i seg selv, men som med hensikt brukes i bearbeiding av næringsmidler, og som bare finnes som restmengder i det ferdige næringsmiddelet og ikke har en teknisk virkning på sluttproduktet («tekniske hjelpestoffer»), bør ikke omfattes av denne forordning.
 7. Tilsetningsstoffer i næringsmidler bør godkjennes og brukes bare dersom de oppfyller kriteriene i denne forordning. Tilsetningsstoffer i næringsmidler må være trygge i bruk, det må være et teknisk behov for dem, og bruken av dem må ikke villede forbrukeren og må være til fordel for forbrukeren. Å villede forbrukeren omfatter blant annet spørsmål som gjelder ingrediensenes art, ferskhet og kvalitet, produktets eller produksjonsprosessens naturlighet eller produktets næringsinnhold, herunder innholdet av frukt og grønnsaker. Ved godkjenning av tilsetningsstoffer i næringsmidler bør det også tas hensyn til andre forhold som er relevante for saken, herunder samfunnsmessige, økonomiske, tradisjonelle, etiske og miljømessige forhold, føre-var-prinsippet samt kontrollmulighetene. Når det gjelder anvendelse av og grenseverdier for et tilsetningsstoff i et næringsmiddel bør det tas hensyn til inntaket av tilsetningsstoffet fra andre kilder og til særlige forbrukergruppers (f.eks. allergikeres) eksponering for tilsetningsstoffet.
-8. Tilsetningsstoffer i næringsmidler må oppfylle de godkjente spesifikasjonene, som bør inneholde opplysninger som på en tilfredsstillende måte identifiserer tilsetningsstoffet, herunder opprinnelse, og beskriver godtatte renhetskriterier. Spesifikasjonene som til nå er blitt utarbeidet for tilsetningsstoffer i næringsmidler og fastsatt i kommisjonsdirektiv [95/31/EF](eu/31995l0031) av 5. juli 1995 om fastsetjing av spesifikke reinleikskriterium for søtstoff som kan nyttast i næringsmiddel,5 kommisjonsdirektiv [95/45/EF](eu/31995l0045*) av 26. juli 1995 om spesifikke renhetskriterier for fargestoffer til bruk i næringsmidler6 og kommisjonsdirektiv [96/77/EF](eu/31996l0077) av 2. desember 1996 om fastsettelse av spesifikke renhetskriterier for andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer7 bør opprettholdes inntil de tilsvarende tilsetningsstoffene er oppført i vedleggene til denne forordning. Når dette skjer bør spesifikasjonene for tilsetningsstoffene fastsettes i en forordning. Spesifikasjonene bør være direkte tilknyttet tilsetningsstoffene som er oppført på fellesskapslistene i vedleggene til denne forordning. Ettersom slike spesifikasjoner er sammensatte i form og innhold, bør de av klarhetshensyn ikke integreres som sådan i fellesskapslistene, men fastsettes i en eller flere særskilte forordninger.
+8. Tilsetningsstoffer i næringsmidler må oppfylle de godkjente spesifikasjonene, som bør inneholde opplysninger som på en tilfredsstillende måte identifiserer tilsetningsstoffet, herunder opprinnelse, og beskriver godtatte renhetskriterier. Spesifikasjonene som til nå er blitt utarbeidet for tilsetningsstoffer i næringsmidler og fastsatt i kommisjonsdirektiv [95/31/EF](eu/31995l0031) av 5. juli 1995 om fastsetjing av spesifikke reinleikskriterium for søtstoff som kan nyttast i næringsmiddel,[^5] kommisjonsdirektiv [95/45/EF](eu/31995l0045*) av 26. juli 1995 om spesifikke renhetskriterier for fargestoffer til bruk i næringsmidler[^6] og kommisjonsdirektiv [96/77/EF](eu/31996l0077) av 2. desember 1996 om fastsettelse av spesifikke renhetskriterier for andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer[^7] bør opprettholdes inntil de tilsvarende tilsetningsstoffene er oppført i vedleggene til denne forordning. Når dette skjer bør spesifikasjonene for tilsetningsstoffene fastsettes i en forordning. Spesifikasjonene bør være direkte tilknyttet tilsetningsstoffene som er oppført på fellesskapslistene i vedleggene til denne forordning. Ettersom slike spesifikasjoner er sammensatte i form og innhold, bør de av klarhetshensyn ikke integreres som sådan i fellesskapslistene, men fastsettes i en eller flere særskilte forordninger.
 9. Enkelte tilsetningsstoffer i næringsmidler er godkjent for bestemte formål i visse godkjente ønologiske behandlings- og framstillingsmåter. Bruken av slike tilsetningsstoffer bør overholde denne forordning samt de særlige bestemmelsene som er fastsatt i relevante deler av Fellesskapets regelverk.
-10. Med henblikk på harmonisering bør risikovurderingen og godkjenningen av tilsetningsstoffer i næringsmidler gjennomføres etter framgangsmåten fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) av 16. desember 2008 om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler.8
-11. I henhold til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,9 skal Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») rådspørres i saker som kan påvirke folkehelsen.
-12. Tilsetningsstoffer i næringsmidler som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôr10 bør godkjennes i samsvar med nevnte forordning samt i samsvar med denne forordning.
+10. Med henblikk på harmonisering bør risikovurderingen og godkjenningen av tilsetningsstoffer i næringsmidler gjennomføres etter framgangsmåten fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) av 16. desember 2008 om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler.[^8]
+11. I henhold til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,[^9] skal Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») rådspørres i saker som kan påvirke folkehelsen.
+12. Tilsetningsstoffer i næringsmidler som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôr[^10] bør godkjennes i samsvar med nevnte forordning samt i samsvar med denne forordning.
 13. Tilsetningsstoffer i næringsmidler som allerede er godkjent i henhold til denne forordning og som framstilles ved produksjonsmetoder eller av utgangsmaterialer som i vesentlig grad skiller seg fra dem som omfattes av myndighetens risikovurdering, eller fra dem som omfattes av de fastsatte spesifikasjonene, bør framlegges for myndigheten for vurdering. Vesentlige forskjeller kan blant annet være en endring i produksjonsmetoden fra ekstraksjon fra en plante til produksjon gjennom fermentering ved bruk av en mikroorganisme eller en genmodifisering av den opprinnelige mikroorganismen, en endring i utgangsmaterialene eller en endring i partikkelstørrelsen.
 14. Tilsetningsstoffer i næringsmidler bør kontrolleres løpende og må vurderes på nytt ved behov på bakgrunn av endringer i vilkårene for bruken av dem og nye vitenskapelige opplysninger. Ved behov bør Kommisjonen sammen med medlemsstatene overveie egnede tiltak.
-15. Medlemsstater som 1. januar 1992 opprettholdt forbud mot å anvende visse tilsetningsstoffer i visse særskilte næringsmidler som anses som tradisjonelle og som framstilles på deres territorium, bør få fortsette å anvende disse forbudene. Med hensyn til produkter som «feta» eller «salame cacciatore» bør dessuten denne forordning ikke berøre anvendelsen av strengere regler for bruk av visse betegnelser i henhold til rådsforordning [(EF) nr. 510/2006](eu/32006r0510) av 20. mars 2006 om vern av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler11 og rådsforordning [(EF) nr. 509/2006](eu/32006r0509) av 20. mars 2006 om garanterte tradisjonelle spesialiteter av landbruksvarer og næringsmidler.12
+15. Medlemsstater som 1. januar 1992 opprettholdt forbud mot å anvende visse tilsetningsstoffer i visse særskilte næringsmidler som anses som tradisjonelle og som framstilles på deres territorium, bør få fortsette å anvende disse forbudene. Med hensyn til produkter som «feta» eller «salame cacciatore» bør dessuten denne forordning ikke berøre anvendelsen av strengere regler for bruk av visse betegnelser i henhold til rådsforordning [(EF) nr. 510/2006](eu/32006r0510) av 20. mars 2006 om vern av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler[^11] og rådsforordning [(EF) nr. 509/2006](eu/32006r0509) av 20. mars 2006 om garanterte tradisjonelle spesialiteter av landbruksvarer og næringsmidler.[^12]
 16. Med mindre det omfattes av ytterligere begrensninger kan et tilsetningsstoff forekomme i næringsmidler på andre måter enn gjennom direkte tilførsel, som et resultat av en overføring fra en ingrediens der tilsetningsstoffet var tillatt, forutsatt at mengden av tilsetningsstoffet i det endelige næringsmiddelet ikke er høyere enn den ville vært dersom ingrediensen hadde vært brukt under vanlige tekniske forhold og i henhold til god framstillingspraksis.
-17. Tilsetningsstoffer i næringsmidler er fremdeles omfattet av de generelle kravene til merking som er fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler13 og i gitte tilfeller i forordning [(EF) nr. 1829/2003](eu/32003r1829) og europaparlaments- og rådsforordning [(EF) nr. 1830/2003](eu/32003r1830) av 22. september 2003 om sporbarhet og merking av genmodifiserte organismer og om sporbarhet av næringsmidler og fôr framstilt på grunnlag av genmodifiserte organismer.14 Videre bør det i denne forordning fastsettes særlige bestemmelser om merking av tilsetningsstoffer i næringsmidler som selges som sådan til produsenter eller sluttforbrukere.
+17. Tilsetningsstoffer i næringsmidler er fremdeles omfattet av de generelle kravene til merking som er fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler[^13] og i gitte tilfeller i forordning [(EF) nr. 1829/2003](eu/32003r1829) og europaparlaments- og rådsforordning [(EF) nr. 1830/2003](eu/32003r1830) av 22. september 2003 om sporbarhet og merking av genmodifiserte organismer og om sporbarhet av næringsmidler og fôr framstilt på grunnlag av genmodifiserte organismer.[^14] Videre bør det i denne forordning fastsettes særlige bestemmelser om merking av tilsetningsstoffer i næringsmidler som selges som sådan til produsenter eller sluttforbrukere.
 18. Søtstoffer som er godkjent i henhold til denne forordning, kan brukes i bordsøtningsmidler som selges direkte til forbruker. Produsenter av slike produkter bør på en egnet måte gjøre opplysninger tilgjengelige for forbrukerne slik at de kan bruke produktet på en trygg måte. Opplysningene kan gjøres tilgjengelige på mange måter, blant annet via produktetiketter, nettsteder på Internett, forbrukeropplysningslinjer eller utsalgsstedet. Med henblikk på en ensartet framgangsmåte for gjennomføringen av dette krav kan det bli nødvendig med veiledning utarbeidet på fellesskapsplan.
-19. De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.15
+19. De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[^15]
 20. Kommisjonen bør særlig ha myndighet til å endre vedleggene til denne forordning og vedta egnede overgangstiltak. Ettersom det dreier seg om generelle tiltak som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, blant annet ved å supplere dem med nye ikke-grunnleggende bestemmelser, bør de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).
 21. Av effektivitetshensyn bør fristene som normalt gjelder i forbindelse med framgangsmåten med forskriftskomité med kontroll, kortes ned for vedtak av visse endringer av vedlegg II og III med hensyn til stoffer som allerede er godkjent i henhold til andre deler av Fellesskapets regelverk samt eventuelle egnede overgangstiltak i forbindelse med stoffene.
-22. For å utvikle og ajourføre Fellesskapets regelverk om tilsetningsstoffer i næringsmidler på en forholdsmessig og effektiv måte, må medlemsstatene samle inn opplysninger, utveksle dem seg i mellom og samordne arbeidet. Det kan derfor være hensiktsmessig å gjennomføre undersøkelser om bestemte spørsmål for å forenkle beslutningsprosessen. Fellesskapet bør finansiere slike undersøkelser som en del av den årlige budsjettbehandlingen. Finansieringen av slike tiltak omfattes av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.16
+22. For å utvikle og ajourføre Fellesskapets regelverk om tilsetningsstoffer i næringsmidler på en forholdsmessig og effektiv måte, må medlemsstatene samle inn opplysninger, utveksle dem seg i mellom og samordne arbeidet. Det kan derfor være hensiktsmessig å gjennomføre undersøkelser om bestemte spørsmål for å forenkle beslutningsprosessen. Fellesskapet bør finansiere slike undersøkelser som en del av den årlige budsjettbehandlingen. Finansieringen av slike tiltak omfattes av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.[^16]
 23. Medlemsstatene skal gjennomføre offentlige kontroller for å håndheve denne forordning i samsvar med forordning [(EF) nr. 882/2004](eu/32004r0882*).
 24. Ettersom denne forordnings mål, nemlig å fastsette fellesskapsregler for tilsetningsstoffer i næringsmidler, ikke i tilstrekkelig grad kan nås av medlemsstatene og derfor, med hensyn til et enhetlig marked og et høyt nivå for forbrukervern, bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå det nevnte målet.
 25. Etter at denne forordning er vedtatt, skal Kommisjonen med bistand fra Den faste komité for næringsmiddelkjeden og dyrehelsen gjennomgå alle eksisterende godkjenninger med hensyn til andre kriterier enn trygghet, f.eks. inntak, teknisk behov og muligheten for at forbrukeren villedes. Alle tilsetningsstoffer i næringsmidler som fortsatt skal være godkjent i Fellesskapet, bør overføres til fellesskapslistene i vedlegg II og III til denne forordning. Vedlegg III til denne forordning bør utfylles med de andre tilsetningsstoffene som brukes i tilsetningsstoffer i næringsmidler og næringsmiddelenzymer samt bærere for næringsstoffer og deres bruksvilkår i samsvar med forordning [(EF) nr. 1331/2008](eu/32008r1331) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler. For at overgangsperioden skal bli tilstrekkelig lang bør bestemmelsene i vedlegg III, bortsett fra bestemmelsene om bærere for tilsetningsstoffer og tilsetningsstoffer i aromaer, ikke få anvendelse før 1. januar 2011.
 26. Inntil de framtidige fellesskapslistene over tilsetningsstoffer i næringsmidler er utarbeidet, må det fastsettes en forenklet framgangsmåte som gjør det mulig å ajourføre de nåværende listene over tilsetningsstoffer i næringsmidler i eksisterende direktiver.
 27. Med forbehold for utfallet av gjennomgangen omhandlet i betraktning 25 bør Kommisjonen senest ett år etter vedtakelsen av denne forordning iverksette et vurderingsprogram slik at myndigheten kan foreta en ny vurdering av tryggheten ved de tilsetningsstoffer som allerede er godkjent i Fellesskapet. I programmet bør behovene og den prioriterte rekkefølgen for undersøkelsen av godkjente tilsetningsstoffer fastsettes.
-28. Denne forordning opphever og erstatter følgende rettsakter: rådsdirektiv av 23. oktober 1962 om tilnærming av medlemsstatenes regler om fargestoffer som kan brukes i næringsmidler beregnet på konsum,17 rådsdirektiv [65/66/EØF](eu/31965l0066*) av 26. januar 1965 om fastsettelse av spesifikke renhetskriterier for konserveringsmidler som kan brukes i næringsmidler beregnet på konsum,18 rådsdirektiv [78/663/EØF](eu/31978l0663*) av 25. juli 1978 om fastsettelse av spesifikke renhetskriterier for emulgatorer, stabilisatorer, fortyknings- og geleringsmidler som kan brukes i næringsmidler,19 rådsdirektiv [78/664/EØF](eu/31978l0664) av 25. juli 1978 om fastsettelse av spesifikke renhetskriterier for antioksidanter som kan brukes i næringsmidler,20 første kommisjonsdirektiv [81/712/EØF](eu/31981l0712) av 28. juli 1981 om fastsettelse av analysemetoder i Fellesskapet for kontroll av renhetskriterier for visse tilsetningsstoffer i næringsmidler,21 rådsdirektiv [89/107/EØF](eu/31989l0107) av 21. desember 1988 om tilnærming av medlemsstatenes lovgivning om tilsetningsstoffer som kan anvendes i næringsmidler beregnet på konsum,22 europaparlaments- og rådsdirektiv [94/35/EF](eu/31994l0035) av 30. juni 1994 om søtstoffer til bruk i næringsmidler,23 europaparlaments- og rådsdirektiv [94/36/EF](eu/31994l0036*) av 30. juni 1994 om fargestoffer til bruk i næringsmidler,24 europaparlaments- og rådsdirektiv [95/2/EF](eu/31995l0002*) av 20. februar 1995 om andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer,25 europaparlaments- og rådsvedtak nr. [292/97/EF](eu/31997d0292*) av 19. desember 1996 vidareføring av nasjonal lovgjeving med omsyn til forbod mot bruk av visse tilsetjingsstoff i produksjonen av visse særskilde næringsmiddel26 og kommisjonsvedtak [2002/247/EF](eu/32002d0247) av 27. mars 2002 om midlertidig oppheving av omsetning og import av gelévarer som inneholder tilsetningsstoffet E 425 konjac.27 Visse bestemmelser i disse rettsaktene bør imidlertid fortsette å gjelde i en overgangsperiode slik at det blir tid til å utarbeide fellesskapslistene i vedleggene til denne forordning –
+28. Denne forordning opphever og erstatter følgende rettsakter: rådsdirektiv av 23. oktober 1962 om tilnærming av medlemsstatenes regler om fargestoffer som kan brukes i næringsmidler beregnet på konsum,[^17] rådsdirektiv [65/66/EØF](eu/31965l0066*) av 26. januar 1965 om fastsettelse av spesifikke renhetskriterier for konserveringsmidler som kan brukes i næringsmidler beregnet på konsum,[^18] rådsdirektiv [78/663/EØF](eu/31978l0663*) av 25. juli 1978 om fastsettelse av spesifikke renhetskriterier for emulgatorer, stabilisatorer, fortyknings- og geleringsmidler som kan brukes i næringsmidler,[^19] rådsdirektiv [78/664/EØF](eu/31978l0664) av 25. juli 1978 om fastsettelse av spesifikke renhetskriterier for antioksidanter som kan brukes i næringsmidler,[^20] første kommisjonsdirektiv [81/712/EØF](eu/31981l0712) av 28. juli 1981 om fastsettelse av analysemetoder i Fellesskapet for kontroll av renhetskriterier for visse tilsetningsstoffer i næringsmidler,[^21] rådsdirektiv [89/107/EØF](eu/31989l0107) av 21. desember 1988 om tilnærming av medlemsstatenes lovgivning om tilsetningsstoffer som kan anvendes i næringsmidler beregnet på konsum,[^22] europaparlaments- og rådsdirektiv [94/35/EF](eu/31994l0035) av 30. juni 1994 om søtstoffer til bruk i næringsmidler,[^23] europaparlaments- og rådsdirektiv [94/36/EF](eu/31994l0036*) av 30. juni 1994 om fargestoffer til bruk i næringsmidler,[^24] europaparlaments- og rådsdirektiv [95/2/EF](eu/31995l0002*) av 20. februar 1995 om andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer,[^25] europaparlaments- og rådsvedtak nr. [292/97/EF](eu/31997d0292*) av 19. desember 1996 vidareføring av nasjonal lovgjeving med omsyn til forbod mot bruk av visse tilsetjingsstoff i produksjonen av visse særskilde næringsmiddel[^26] og kommisjonsvedtak [2002/247/EF](eu/32002d0247) av 27. mars 2002 om midlertidig oppheving av omsetning og import av gelévarer som inneholder tilsetningsstoffet E 425 konjac.[^27] Visse bestemmelser i disse rettsaktene bør imidlertid fortsette å gjelde i en overgangsperiode slik at det blir tid til å utarbeide fellesskapslistene i vedleggene til denne forordning –
 
 1 EUT C 168 av 20.7.2007, s. 34.
 
@@ -306,7 +306,7 @@ Ved denne forordning fastsettes regler for tilsetningsstoffer som brukes i næri
 For disse formål inneholder denne forordning bestemmelser om
 
 1. fellesskapslister over godkjente tilsetningsstoffer i næringsmidler som fastsatt i vedlegg II og III,
-2. vilkår for bruk av tilsetningsstoffer i næringsmidler, herunder i tilsetningsstoffer i næringsmidler og i næringsmiddelenzymer som omfattes av forordning [(EF) nr. 1332/2008](eu/32008r1332) om næringsmiddelenzymer, og i aromaer i næringsmidler som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler,1
+2. vilkår for bruk av tilsetningsstoffer i næringsmidler, herunder i tilsetningsstoffer i næringsmidler og i næringsmiddelenzymer som omfattes av forordning [(EF) nr. 1332/2008](eu/32008r1332) om næringsmiddelenzymer, og i aromaer i næringsmidler som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler,[^1]
 3. regler for merking av tilsetningsstoffer i næringsmidler som selges som sådan.
 
 1 Se EUT L 354 av 31.8.2008, s. 34.
@@ -320,7 +320,7 @@ For disse formål inneholder denne forordning bestemmelser om
 1. tekniske hjelpestoffer,
 2. stoffer som brukes til vern av planter og planteprodukter i samsvar med fellesskapsregler for plantehelse,
 3. stoffer som tilsettes næringsmidler som næringsstoffer,
-4. stoffer som brukes til å behandle drikkevann og som omfattes av virkeområdet for rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet;1
+4. stoffer som brukes til å behandle drikkevann og som omfattes av virkeområdet for rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet;[^1]
 5. aromaer som omfattes av virkeområdet for forordning [(EF) nr. 1334/2008](eu/32008r1334) om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler.
 
 3\. Denne forordning får ikke anvendelse på næringsmiddelenzymer som omfattes av virkeområdet for forordning [(EF) nr. 1332/2008](eu/32008r1332) om næringsmiddelenzymer, med virkning fra og med den dagen da fellesskapslisten over næringsmiddelenzymer vedtas i samsvar med artikkel 17 i den forordningen.
@@ -490,7 +490,7 @@ Tilsetningsstoffer i næringsmidler skal ikke brukes i næringsmidler for spedba
 
 ### Artikkel 17. Bruk av fargestoffer til merking
 
-Bare fargestoffer oppført i vedlegg II til denne forordning kan brukes til stempelmerking i henhold til rådsdirektiv [91/497/EØF](eu/31991l0497*) av 29. juli 1991 om endring og konsolidering av direktiv [64/433/EØF](eu/31964l0433*) om helseproblemer ved handel med ferskt kjøtt innenfor Fellesskapet med sikte på at direktivet skal omfatte produksjon og omsetning av ferskt kjøtt1 og annen merking som kreves på kjøttprodukter, til dekorativ farging av eggeskall og til stempling av eggeskall i henhold til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.2
+Bare fargestoffer oppført i vedlegg II til denne forordning kan brukes til stempelmerking i henhold til rådsdirektiv [91/497/EØF](eu/31991l0497*) av 29. juli 1991 om endring og konsolidering av direktiv [64/433/EØF](eu/31964l0433*) om helseproblemer ved handel med ferskt kjøtt innenfor Fellesskapet med sikte på at direktivet skal omfatte produksjon og omsetning av ferskt kjøtt[^1] og annen merking som kreves på kjøttprodukter, til dekorativ farging av eggeskall og til stempling av eggeskall i henhold til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.[^2]
 
 1 EFT L 268 av 24.9.1991, s. 69.
 
@@ -560,7 +560,7 @@ Merking
 
 ### Artikkel 23. Merking av tilsetningsstoffer i næringsmidler som er beregnet på salg til sluttforbrukeren
 
-1\. Uten at det berører direktiv [2000/13/EF](eu/32000l0013*), rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti1 og forordning [(EF) nr. 1829/2003](eu/32003r1829), kan tilsetningsstoffer i næringsmidler som selges hver for seg eller blandet med hverandre og/eller med andre næringsmiddelingredienser, og som er beregnet på salg til sluttforbrukeren, bare markedsføres dersom følgende opplysninger angis på emballasjen:
+1\. Uten at det berører direktiv [2000/13/EF](eu/32000l0013*), rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti[^1] og forordning [(EF) nr. 1829/2003](eu/32003r1829), kan tilsetningsstoffer i næringsmidler som selges hver for seg eller blandet med hverandre og/eller med andre næringsmiddelingredienser, og som er beregnet på salg til sluttforbrukeren, bare markedsføres dersom følgende opplysninger angis på emballasjen:
 
 1. navnet og E-nummeret som er fastsatt i henhold til denne forordning, for hvert tilsetningsstoff eller en varebetegnelse som inneholder navnet og E-nummeret for hvert tilsetningsstoff,
 2. opplysningen «for næringsmidler» eller «begrenset bruk i næringsmidler» eller en mer detaljert henvisning til stoffets beregnede bruk i næringsmidler.
@@ -747,7 +747,7 @@ Unionsliste over tilsetningsstoffer som kan brukes i næringsmidler, og vilkåre
 
 Denne unionslisten omfatter:
 
-- ► **M53** tilsetningsstoffets navn og E-nummer; det kan alternativt brukes mer spesifikke E-numre og navn som oppført i kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231),\* unntatt synonymer, dersom de angitte tilsetningsstoffene faktisk er tilsatt i et visst næringsmiddel. ◄**M53**
+- ► **M53** tilsetningsstoffets navn og E-nummer; det kan alternativt brukes mer spesifikke E-numre og navn som oppført i kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231),[^\*] unntatt synonymer, dersom de angitte tilsetningsstoffene faktisk er tilsatt i et visst næringsmiddel. ◄**M53**
 - næringsmidlene som tilsetningsstoffet kan tilsettes til,
 - vilkårene for bruken av tilsetningsstoffet,
 - begrensninger for salg av næringsmiddelet direkte til sluttforbrukeren.
@@ -780,18 +780,18 @@ Denne unionslisten omfatter:
 |  |  |
 | --- | --- |
 | 1 | ►**M42** Uforedlet kjøtt som definert i artikkel 3 i forordning [(EF) nr. 1333/2008](eu/32008r1333), unntatt bearbeidet kjøtt som definert i forordning [(EF) nr. 853/2004](eu/32004r0853*)◄**M42** |
-| 2 | Honning som definert i rådsdirektiv [2001/110/EF](eu/32001l0110*)1 |
+| 2 | Honning som definert i rådsdirektiv [2001/110/EF](eu/32001l0110*)[^1] |
 | 3 | Ikke-emulgerte oljer og fettstoffer av animalsk eller vegetabilsk opprinnelse |
 | 4 | Smør |
 | 5 | Pasteurisert og sterilisert (herunder UHT-behandlet) melk som ikke er tilsatt aroma, og pasteurisert fløte som ikke er tilsatt aroma (unntatt fløte med redusert fettinnhold) |
 | 6 | Gjærede melkeprodukter som ikke er tilsatt aroma, og som ikke er varmebehandlet etter gjæring |
 | 7 | Kjernemelk ikke tilsatt aroma (unntatt sterilisert kjernemelk) |
-| 8 | Naturlig mineralvann som definert i europaparlaments- og rådsdirektiv [2009/54/EF](eu/32009l0054),2 samt kildevann og alle andre typer vann som er tappet på flaske eller emballert |
+| 8 | Naturlig mineralvann som definert i europaparlaments- og rådsdirektiv [2009/54/EF](eu/32009l0054),[^2] samt kildevann og alle andre typer vann som er tappet på flaske eller emballert |
 | 9 | Kaffe (unntatt pulverkaffe tilsatt aroma) og kaffeekstrakter |
 | 10 | Teblader ikke tilsatt aroma |
-| 11 | Sukker som definert i rådsdirektiv [2001/111/EF](eu/32001l0111)3 |
+| 11 | Sukker som definert i rådsdirektiv [2001/111/EF](eu/32001l0111)[^3] |
 | ►**M122**<br>12 | Tørrpasta, unntatt glutenfri pasta (som næringsmidler produsert spesielt for å redusere gluteninnholdet i glutenholdige ingredienser eller erstatte de glutenholdige ingrediensene) og pasta til bruk i kost med lavt proteininnhold ◄**M122** |
-| ►**M61**<br>13 | Næringsmidler til spedbarn og småbarn, som omhandlet i forordning [(EU) nr. 609/2013](eu/32013r0609),\* herunder næringsmidler til spesielle medisinske formål til spedbarn og småbarn ◄**M61** |
+| ►**M61**<br>13 | Næringsmidler til spedbarn og småbarn, som omhandlet i forordning [(EU) nr. 609/2013](eu/32013r0609),[^\*] herunder næringsmidler til spesielle medisinske formål til spedbarn og småbarn ◄**M61** |
 
 1 EFT L 10 av 12.1.2002, s. 47.
 
@@ -817,7 +817,7 @@ Denne unionslisten omfatter:
 | 3 | Helmelk, delvis skummet melk og skummetmelk, pasteurisert eller sterilisert (herunder UHT-behandlet) (ikke tilsatt aroma) |
 | 4 | Sjokolademelk |
 | 5 | Surmelk (ikke tilsatt aroma) |
-| 6 | Konservert melk, som omhandlet i rådsdirektiv [2001/114/EF](eu/32001l0114)1 (ikke tilsatt aroma) |
+| 6 | Konservert melk, som omhandlet i rådsdirektiv [2001/114/EF](eu/32001l0114)[^1] (ikke tilsatt aroma) |
 | 7 | Kjernemelk (ikke tilsatt aroma) |
 | 8 | Fløte og fløtepulver (ikke tilsatt aroma) |
 | 9 | Oljer og fettstoffer av animalsk eller vegetabilsk opprinnelse |
@@ -830,18 +830,18 @@ Denne unionslisten omfatter:
 | 16 | Sukker, herunder alle mono- og disakkarider |
 | 17 | Tomatpuré og konserverte tomater |
 | 18 | Tomatbaserte sauser |
-| 19 | Fruktjuice og fruktnektar, som omhandlet i rådsdirektiv [2001/112/EF](eu/32001l0112),2 samt grønnsaksjuice og grønnsaksnektar |
+| 19 | Fruktjuice og fruktnektar, som omhandlet i rådsdirektiv [2001/112/EF](eu/32001l0112),[^2] samt grønnsaksjuice og grønnsaksnektar |
 | 20 | Frukt, grønnsaker (herunder poteter) og sopp – herunder på boks eller glass eller tørkede; bearbeidet frukt, bearbeidede grønnsaker (herunder poteter) og bearbeidet sopp |
-| 21 | Syltetøy ekstra, gelé ekstra og kastanjepuré, som omhandlet i rådsdirektiv [2001/113/EF](eu/32001l0113);3 *crème de pruneaux* |
+| 21 | Syltetøy ekstra, gelé ekstra og kastanjepuré, som omhandlet i rådsdirektiv [2001/113/EF](eu/32001l0113);[^3] *crème de pruneaux* |
 | 22 | Fisk, bløtdyr og krepsdyr, kjøtt, fjørfe og vilt, herunder i bearbeidet form, men unntatt ferdigretter som inneholder disse ingrediensene |
-| 23 | Kakaoprodukter og sjokoladebestanddeler i sjokoladeprodukter, som omhandlet i europaparlaments- og rådsdirektiv [2000/36/EF](eu/32000l0036)4 |
+| 23 | Kakaoprodukter og sjokoladebestanddeler i sjokoladeprodukter, som omhandlet i europaparlaments- og rådsdirektiv [2000/36/EF](eu/32000l0036)[^4] |
 | 24 | Brent kaffe, te, urtete og fruktte, sikori; ekstrakter av te, urtete, fruktte og sikori; bearbeidede produkter av te, urter, frukt og korn til uttrekk, samt blandinger og lettløselige pulverpreparater av disse produktene |
 | 25 | Salt, salterstatninger, kryddere og krydderblandinger |
 | ►**M112**<br>26 | Vin og andre produkter som omfattes av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308), som oppført i forordningens vedlegg VII del II |
 | 27 | Alkoholsterke drikker som definert i kategori 1–14 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 2019/787](eu/32019r0787), brennevin (med navnet på frukten, bæret eller nøtten foranstilt) framstilt ved maserasjon og destillasjon samt *London gin* (henholdsvis kategori 16 og 22 i vedlegg I til nevnte forordning)<br>*Sambuca, maraschino, marrasquino* eller *maraskino* og *mistrà*, som definert i henholdsvis kategori 36, 37 og 41 i vedlegg II til forordning [(EF) nr. 2019/787](eu/32019r0787) |
 | 28 | *Sangria, Clarea* og *Zurra* som nevnt i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251) |
 | 29 | Vineddik som omfattes av rådsforordning [(EF) nr. 1308/2013](eu/32013r1308), og som er oppført i forordningens vedlegg VII del II ◄**M112** |
-| ►**M122**<br>30 | Melkebaserte drikker og lignende produkter beregnet på småbarn\* og næringsmidler til spedbarn og småbarn som nevnt i forordning [(EU) nr. 609/2013](eu/32013r0609), herunder næringsmidler til spesielle medisinske formål til spedbarn og småbarn ◄**M122** |
+| ►**M122**<br>30 | Melkebaserte drikker og lignende produkter beregnet på småbarn[^\*] og næringsmidler til spedbarn og småbarn som nevnt i forordning [(EU) nr. 609/2013](eu/32013r0609), herunder næringsmidler til spesielle medisinske formål til spedbarn og småbarn ◄**M122** |
 | 31 | Honning som definert i direktiv [2001/110/EF](eu/32001l0110*) |
 | 32 | Malt og maltprodukter |
 
@@ -918,7 +918,7 @@ Denne unionslisten omfatter:
 | E 140 | Klorofyll og klorofylliner |
 | E 141 | Klorofyll- og klorofyllin-kobberkompleks |
 | E 142 | Grønn S |
-| E 150a | Karamell1 |
+| E 150a | Karamell[^1] |
 | E 150b | Kaustisk sulfitert karamell |
 | E 150c | Ammoniert karamell |
 | E 150d | Ammoniert sulfitert karamell |
@@ -932,11 +932,11 @@ Denne unionslisten omfatter:
 | E 160d | Lykopen |
 | E 160e | Beta-apo-8'-karotenal (C30) |
 | E 161b | Lutein |
-| E 161g | Kantaxantin\* |
+| E 161g | Kantaxantin[^\*] |
 | E 162 | Rødbetfarge |
 | E 163 | Antocyaner |
 | E 170 | Kalsiumkarbonat |
-| ►**M98**<br>E 171 | Titandioksid\*\* ◄**M98** |
+| ►**M98**<br>E 171 | Titandioksid[^\*\*] ◄**M98** |
 | E 172 | Jernoksider og hydroksider |
 | E 173 | Aluminium |
 | E 174 | Sølv |
@@ -989,10 +989,10 @@ Denne unionslisten omfatter:
 | E 200 | Sorbinsyre |
 | E 202 | Kaliumsorbat |
 | ►**M76** | ◄**M76** |
-| E 210 | Benzosyre1 |
-| E 211 | Natriumbenzoat1 |
-| E 212 | Kaliumbenzoat1 |
-| E 213 | Kalsiumbenzoat1 |
+| E 210 | Benzosyre[^1] |
+| E 211 | Natriumbenzoat[^1] |
+| E 212 | Kaliumbenzoat[^1] |
+| E 213 | Kalsiumbenzoat[^1] |
 | E 214 | Etyl-p-hydroksybenzoat |
 | E 215 | Natriumetyl-p-hydroksybenzoat |
 | E 218 | Metyl-p-hydroksybenzoat |
@@ -1183,9 +1183,9 @@ Denne unionslisten omfatter:
 | E 553b | Talkum |
 | E 554 | Natriumaluminiumsilikat |
 | E 555 | Kaliumaluminiumsilikat |
-| ► **M6**<br>E 556 | Kalsiumaluminiumsilikat\* |
-| E 558 | Bentonitt\*\* |
-| E 559 | Aluminiumsilikat (kaolin)\* ◄ **M6** |
+| ► **M6**<br>E 556 | Kalsiumaluminiumsilikat[^\*] |
+| E 558 | Bentonitt[^\*\*] |
+| E 559 | Aluminiumsilikat (kaolin)[^\*] ◄ **M6** |
 | E 570 | Fettsyrer |
 | E 574 | Glukonsyre |
 | E 575 | Glukono-delta-lakton |
@@ -1316,25 +1316,25 @@ Denne unionslisten omfatter:
 | E 352 | Kalsiummalat | *quantum satis* |
 | ►**M115** ◄**M115** |  |  |
 | E 380 | Triammoniumsitrat | *quantum satis* |
-| E 400 | Alginsyre | *quantum satis*1 |
-| E 401 | Natriumalginat | *quantum satis*1 |
-| E 402 | Kaliumalginat | *quantum satis*1 |
-| E 403 | Ammoniumalginat | *quantum satis*1 |
-| E 404 | Kalsiumalginat | *quantum satis*1 |
-| E 406 | Agar | *quantum satis*1 |
-| E 407 | Karragenan | *quantum satis*1 |
-| E 407a | Bearbeidet Eucheuma-tang | *quantum satis*1 |
-| E 410 | Johannesbrødkjernemel | *quantum satis*1, 2 |
-| E 412 | Guarkjernemel | *quantum satis*1, 2 |
-| E 413 | Tragant | *quantum satis*1 |
-| E 414 | Gummi arabicum (akasiegummi) | *quantum satis*1 |
-| E 415 | Xantangummi | *quantum satis*1, 2 |
-| E 417 | Tarakjernemel | *quantum satis*1, 2 |
-| E 418 | Gellan-gummi | *quantum satis*1 |
+| E 400 | Alginsyre | *quantum satis*[^1] |
+| E 401 | Natriumalginat | *quantum satis*[^1] |
+| E 402 | Kaliumalginat | *quantum satis*[^1] |
+| E 403 | Ammoniumalginat | *quantum satis*[^1] |
+| E 404 | Kalsiumalginat | *quantum satis*[^1] |
+| E 406 | Agar | *quantum satis*[^1] |
+| E 407 | Karragenan | *quantum satis*[^1] |
+| E 407a | Bearbeidet Eucheuma-tang | *quantum satis*[^1] |
+| E 410 | Johannesbrødkjernemel | *quantum satis*[^1], [^2] |
+| E 412 | Guarkjernemel | *quantum satis*[^1], [^2] |
+| E 413 | Tragant | *quantum satis*[^1] |
+| E 414 | Gummi arabicum (akasiegummi) | *quantum satis*[^1] |
+| E 415 | Xantangummi | *quantum satis*[^1], [^2] |
+| E 417 | Tarakjernemel | *quantum satis*[^1], [^2] |
+| E 418 | Gellan-gummi | *quantum satis*[^1] |
 | E 422 | Glyserol | *quantum satis* |
-| ►**M53**<br>E 425 | Konjac<br>(i) Konjacgummi<br>(ii) Konjacglukomannan | 10 g/kg, enkeltvis eller i kombinasjon1 2 3 ◄**M53** |
+| ►**M53**<br>E 425 | Konjac<br>(i) Konjacgummi<br>(ii) Konjacglukomannan | 10 g/kg, enkeltvis eller i kombinasjon[^1] [^2] [^3] ◄**M53** |
 | ►**M89**<br>E 426 | Soyabønnehemicellulose | *quantum satis* ◄**M89** |
-| E 440 | Pektiner | *quantum satis*1 |
+| E 440 | Pektiner | *quantum satis*[^1] |
 | E 460 | Cellulose | *quantum satis* |
 | E 461 | Metylcellulose | *quantum satis* |
 | E 462 | Etylcellulose | *quantum satis* |
@@ -1605,7 +1605,7 @@ Denne unionslisten omfatter:
   | E 340 | Kaliumfosfater |
   | E 341 | Kalsiumfosfater |
   | E 343 | Magnesiumfosfater |
-  | E 450 | Difosfater1 |
+  | E 450 | Difosfater[^1] |
   | E 451 | Trifosfater |
   | E 452 | Polyfosfater |
 
@@ -1658,7 +1658,7 @@ Denne unionslisten omfatter:
    | E 523 | Aluminiumammoniumsulfat |
 
    ► **M6**
-7. 1\) E 551–559: Silisiumdioksid – silikater\*
+7. 1\) E 551–559: Silisiumdioksid – silikater[^\*]
 
    | *E-nummer* | *Navn* |
    | --- | --- |
@@ -1670,7 +1670,7 @@ Denne unionslisten omfatter:
    | E 555 | Kaliumaluminiumsilikat |
    | E 556 | Kalsiumaluminiumsilikat |
    | E 559 | Aluminiumsilikat (kaolin) |
-8. 2\) E 551–553: Silisiumdioksid – silikater\*\*
+8. 2\) E 551–553: Silisiumdioksid – silikater[^\*\*]
 
    | *E-nummer* | *Navn* |
    | --- | --- |
@@ -1748,7 +1748,7 @@ Denne unionslisten omfatter:
 | 01.7.6 | Osteprodukter (unntatt produkter som omfattes av kategori 16) |
 | 01.8 | Melkeprodukterstatninger, herunder hvitemidler til drikker |
 | ►**M65**<br>01.9 | Kaseinater til konsum ◄**M65** |
-| ►**M122**<br>01.10 | Melkebaserte drikker og lignende produkter beregnet på småbarn\* ◄**M122** |
+| ►**M122**<br>01.10 | Melkebaserte drikker og lignende produkter beregnet på småbarn[^\*] ◄**M122** |
 | *02.* | *Fett og olje samt fett- og oljeemulsjoner* |
 | 02.1 | Hovedsakelig vannfrie fettstoffer og oljer (unntatt vannfritt melkefett) |
 | 02.2 | Fett- og oljeemulsjoner, hovedsakelig av typen vann i olje |
@@ -1879,7 +1879,7 @@ Denne unionslisten omfatter:
 | ►**M82** | ◄**M82** |
 | ►**M122**<br>*18.* | *Bearbeidede næringsmidler som ikke omfattes av kategori 1–17* |
 | 18.1 | Bearbeidede næringsmidler som ikke omfattes av kategori 18.2 og 18.3, unntatt næringsmidler til spedbarn og småbarn |
-| 18.2 | Måltidserstatning for vektkontroll som nevnt i kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)\*\* |
+| 18.2 | Måltidserstatning for vektkontroll som nevnt i kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)[^\*\*] |
 | 18.3 | Næringsmidler som er produsert spesielt for å redusere gluteninnholdet i glutenholdige ingredienser eller erstatte de glutenholdige ingrediensene |
 
 ►**M122**
@@ -2238,7 +2238,7 @@ Denne unionslisten omfatter:
 |  | E 526 | Kalsiumhydroksid | *quantum satis* |  |  |  |
 |  | E 527 | Ammoniumhydroksid | *quantum satis* |  |  |  |
 |  | E 528 | Magnesiumhydroksid | *quantum satis* |  | ◄**M65** |  |
-| ►**M122**<br>**01.10** | **Melkebaserte drikker og lignende produkter beregnet på småbarn\*** |  |  |  |  |  |
+| ►**M122**<br>**01.10** | **Melkebaserte drikker og lignende produkter beregnet på småbarn[^\*]** |  |  |  |  |  |
 |  | De angitte grenseverdiene gjelder næringsmidler som er gjort ferdige til konsum etter produsentens anvisninger. |  |  |  |  |  |
 |  | *Merk:* Ved framstilling av syrnede melketyper kan det anvendes ikke-patogene kulturer som produserer L(+)-melkesyre. |  |  |  |  |  |
 |  | E 270 | Melkesyre | *quantum satis* |  | Bare i L(+)-form |  |
@@ -2337,7 +2337,7 @@ Denne unionslisten omfatter:
 |  | E 432–436 | Polysorbater | 10 000 | (1) | Bare fettemulsjoner til baking |  |
 |  | E 473–474 | Sukroseestere av fettsyrer – sukroglyserider | 10 000 | (1) | Bare fettemulsjoner til baking |  |
 |  | E 475 | Polyglyserolestere av fettsyrer | 5 000 |  |  |  |
-| ► **M91** | E 476 | Polyglyserolpolyrisinoleat | 4000 |  | Bare smørbart fett som definert i artikkel 75 nr. 1 bokstav h) og artikkel 78 nr.1 bokstav f) samt i del VII og tillegg II i vedlegg VII til forordning [(EF) nr. 1308/2013](eu/32013r1308*)\*, med et fettinnhold på høyst 41 %, og lignende smørbare produkter med et fettinnhold på under 10 %; flytende emulsjoner med vegetabilsk olje med et fettinnhold på høyst 70 % for salg til sluttforbrukere ◄ **M91** |  |
+| ► **M91** | E 476 | Polyglyserolpolyrisinoleat | 4000 |  | Bare smørbart fett som definert i artikkel 75 nr. 1 bokstav h) og artikkel 78 nr.1 bokstav f) samt i del VII og tillegg II i vedlegg VII til forordning [(EF) nr. 1308/2013](eu/32013r1308*)[^\*], med et fettinnhold på høyst 41 %, og lignende smørbare produkter med et fettinnhold på under 10 %; flytende emulsjoner med vegetabilsk olje med et fettinnhold på høyst 70 % for salg til sluttforbrukere ◄ **M91** |  |
 |  | E 477 | Propylenglykolestere av fettsyrer | 10 000 |  | Bare fettemulsjoner til baking |  |
 |  | E 479b | Termisk oksidert soyaolje omsatt med mono- og diglyserider av fettsyrer | 5 000 |  | Bare fettemulsjoner til steking |  |
 |  | E 481–482 | Stearyl-2-laktylater | 10 000 | (1) |  |  |
@@ -4425,7 +4425,7 @@ Denne unionslisten omfatter:
 | ►**M122**<br>**13.1** | **Næringsmidler beregnet på spedbarn og småbarn** |  |  |  |  |  |
 |  | INNLEDENDE DEL, GJELDER FOR ALLE UNDERKATEGORIER |  |  |  |  |  |
 |  | De angitte grenseverdiene gjelder næringsmidler som er gjort ferdige til konsum etter produsentens anvisninger. |  |  |  |  |  |
-|  | E 307, E 325, E 330, E 331, E 332, E 333, E 338, E 340, E 410, E472c og E 1450 skal brukes i samsvar med grenseverdiene fastsatt i vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609), i vedleggene til delegert kommisjonsforordning [(EU) 2016/127](eu/32016r0127)\*, i vedleggene til delegert kommisjonsforordning [(EU) 2016/128](eu/32016r0128)\*\* og i vedleggene til kommisjonsdirektiv [2006/125/EF](eu/32006l0125)\*\*\*. |  |  |  |  |  |
+|  | E 307, E 325, E 330, E 331, E 332, E 333, E 338, E 340, E 410, E472c og E 1450 skal brukes i samsvar med grenseverdiene fastsatt i vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609), i vedleggene til delegert kommisjonsforordning [(EU) 2016/127](eu/32016r0127)[^\*], i vedleggene til delegert kommisjonsforordning [(EU) 2016/128](eu/32016r0128)[^\*\*] og i vedleggene til kommisjonsdirektiv [2006/125/EF](eu/32006l0125)[^\*\*\*]. |  |  |  |  |  |
 |  | \* EUT L 25 av 2.2.2016, s. 1, ELI: http://data.europa.eu/eli/reg_del/2016/127/oj. |  |  |  |  |  |
 |  | \*\* EUT L 25 av 2.2.2016, s. 30, ELI: http://data.europa.eu/eli/reg_del/2016/128/oj. |  |  |  |  |  |
 |  | \*\*\* EUT L 339 av 6.12.2006, s. 16, ELI: http://data.europa.eu/eli/dir/2006/125/oj. ◄**M122** |  |  |  |  |  |
@@ -5517,7 +5517,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 
 *Definisjoner*
 
-1. ►**M122** I dette vedlegg menes med «næringsstoffer» vitaminer, mineraler og andre stoffer som tilsettes for ernæringsformål, i tillegg til stoffer som tilsettes for fysiologiske formål, som omfattet av europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925)\*, direktiv [2002/46/EF](eu/32002l0046) og forordning [(EU) nr. 609/2013](eu/32013r0609). ◄**M122**
+1. ►**M122** I dette vedlegg menes med «næringsstoffer» vitaminer, mineraler og andre stoffer som tilsettes for ernæringsformål, i tillegg til stoffer som tilsettes for fysiologiske formål, som omfattet av europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925)[^\*], direktiv [2002/46/EF](eu/32002l0046) og forordning [(EU) nr. 609/2013](eu/32013r0609). ◄**M122**
 2. For dette vedleggs formål menes med «preparat» en utforming som består av ett eller flere tilsetningsstoffer i næringsmidler, næringsmiddelenzymer og/eller næringsstoffer som er iblandet stoffer som f.eks. tilsetningsstoffer i næringsmidler og/eller andre næringsmiddelingredienser for å forenkle lagring, salg, standardisering, fortynning eller oppløsning.
 
 \* ►**M122** EUT L 404 av 30.12.2006, s. 26, ELI: http://data.europa.eu/eli/reg/2006/1925/oj. ◄**M122**
@@ -5528,7 +5528,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 
 | *Bærerens E-nummer* | *Bærerens navn* | *Grenseverdi* | *Tilsetningsstoffer i næringsmidler som bæreren kan tilsettes i* |
 | --- | --- | --- | --- |
-| E 1520 | Propan-1,2-diol (propylenglykol) | 1 000 mg/kg i ferdig næringsmiddel (som overføring)\* | Fargestoffer, emulgatorer og antioksidanter |
+| E 1520 | Propan-1,2-diol (propylenglykol) | 1 000 mg/kg i ferdig næringsmiddel (som overføring)[^\*] | Fargestoffer, emulgatorer og antioksidanter |
 | E 422 | Glyserol | *quantum satis* | Alle tilsetningsstoffer |
 | E 420 | Sorbitol |  |  |
 | E 421 | Mannitol |  |  |
@@ -5623,7 +5623,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 
 ### Del 2
 
-*Andre tilsetningsstoffer i næringsmidler enn bærere i tilsetningsstoffer i næringsmidler\**
+*Andre tilsetningsstoffer i næringsmidler enn bærere i tilsetningsstoffer i næringsmidler[^\*]*
 
 | *Det tilsatte tilsetningsstoffets E-nummer* | *Det tilsatte tilsetningsstoffets navn* | *Grenseverdi* | *Tilsetningsstoffpreparater som tilsetningsstoffet kan tilsettes* |
 | --- | --- | --- | --- |
@@ -5633,7 +5633,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 | E 211 | Natriumbenzoat |  |  |
 | E 212 | Kaliumbenzoat |  |  |
 | ►**M88** E 200 | Sorbinsyre | 2 500 mg/kg i preparatet | Flytende fargepreparater som selges til sluttforbrukeren for dekorasjonsmaling av eggeskall ◄**M88** |
-| E 220 – E 228 | Svoveldioksid – sulfitter (del 6 tabell 3) | 100 mg/kg i preparatet og 2 mg/kg uttrykt som O2 S i sluttproduktet som beregnet | Fargepreparater (unntatt E163 antocyaner, E 150b Kaustisk sulfitert karamell og E 150d Ammoniert sulfitert karamell\*\* |
+| E 220 – E 228 | Svoveldioksid – sulfitter (del 6 tabell 3) | 100 mg/kg i preparatet og 2 mg/kg uttrykt som O2 S i sluttproduktet som beregnet | Fargepreparater (unntatt E163 antocyaner, E 150b Kaustisk sulfitert karamell og E 150d Ammoniert sulfitert karamell[^\*\*] |
 | E 320 | Butylhydroksyanisol (BHA) | 20 mg/kg til sammen eller hver for seg (uttrykt i forhold til fettmengden) i preparatet, 0,4 mg/kg i sluttproduktet (til sammen eller hver for seg) | Emulgatorer som inneholder fettsyrer |
 | E 321 | Butylhydroksytoluen (BHT) |  |  |
 | ►**M115** E 334–337 og E 354 | Vinsyre – tartrater (del 6 tabell 8) | 220 000 mg/kg til sammen eller hver for seg i preparatet og 11 000 mg/kg i sluttproduktet, uttrykt som fri syre | E 440 Pektiner brukt i næringsmiddelkategori 05.2 (Andre sukkervarer, inkludert svært små pastiller for frisk pust) og næringsmiddelkategori 05.4 (Pynt, overtrekk og fyll, unntatt fruktbasert fyll som omfattes av kategori 4.2.4) ◄**M115** |
@@ -5682,7 +5682,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 
 ### Del 3
 
-*Tilsetningsstoffer i næringsmidler, herunder bærere i næringsmiddelenzymer\**
+*Tilsetningsstoffer i næringsmidler, herunder bærere i næringsmiddelenzymer[^\*]*
 
 | *Det tilsatte tilsetningsstoffets E-nummer* | *Det tilsatte tilsetnings-stoffets navn* | *Grenseverdi i enzympreparat* | *Grenseverdi i ferdig næringsmiddel unntatt drikker* | *Grenseverdi i drikker* | *Kan brukes som bærer?* |
 | --- | --- | --- | --- | --- | --- |
@@ -5826,7 +5826,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 | E 1442 | Hydroksypropyl-distivelsesfosfat | *quantum satis* | *quantum satis* | *quantum satis* | Ja |
 | E 1450 | Natriumoktenyl-suksinatstivelse | *quantum satis* | *quantum satis* | *quantum satis* | Ja |
 | E 1451 | Acetylert oksidert stivelse | *quantum satis* | *quantum satis* | *quantum satis* | Ja |
-| E 1520 | Propan-1,2-diol (propylenglykol) | 500 g/kg | (se fotnote)\*\* | (se fotnote)\*\* | Ja, bare som bærer |
+| E 1520 | Propan-1,2-diol (propylenglykol) | 500 g/kg | (se fotnote)[^\*\*] | (se fotnote)[^\*\*] | Ja, bare som bærer |
 
 \* Herunder enzymer som brukes som tilsetningsstoffer i næringsmidler.
 
@@ -5861,7 +5861,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 | ►**M81** |  |  |  |
 | E 310 | Propylgallat | Eteriske oljer | 1 000 mg/kg (propylgallat, TBHQ og BHA, hver for seg eller sammen) |
 | E 319 | Tertiær-butylhydrokinon (TBHQ) |  |  |
-| E 320 | Butylhydroksyanisol (BHA) | Andre aromaer enn eteriske oljer | 100 mg/kg\* (propylgallat)<br>200 mg/kg\* (TBHQ og BHA, hver for seg eller sammen) i aromaer ◄**M81** |
+| E 320 | Butylhydroksyanisol (BHA) | Andre aromaer enn eteriske oljer | 100 mg/kg[^\*] (propylgallat)<br>200 mg/kg[^\*] (TBHQ og BHA, hver for seg eller sammen) i aromaer ◄**M81** |
 | ►**M115** E 334–337 og E 354 | Vinsyre – tartrater (del 6 tabell 8) | Alle aromaer | 20 000 mg/kg til sammen eller hver for seg i preparatet og 400 mg/kg i sluttproduktet, uttrykt som fri syre ◄**M115** |
 | E 338 – E 452 | Fosforsyre – fosfater – di-, tri- og polyfosfater (del 6 tabell 6) | Alle aromaer | 40 000 mg/kg (hver for seg eller sammen, uttrykt som P2 O5 ) i aromaer |
 | E 392 | Ekstrakter av rosmarin | Alle aromaer | 1 000 mg/kg (uttrykt som summen av karnosol og karnosinsyre) i aromaer |
@@ -5876,8 +5876,8 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 |  |  | Aromaoljeemulsjoner brukt i kategori 14.1.4: Aromatiserte drikker, bare kullsyrefrie aromatiserte drikker med fruktjuice; 14.1.2: Fruktjuice som definert i direktiv [2001/112/EF](eu/32001l0112) og grønnsakjuice, bare grønnsakjuice og i kategori 12.6: Sauser, bare sjyer og søte sauser. | 400 mg/kg i det ferdige næringsmiddelet |
 |  |  | Aromaoljeemulsjoner brukt i kategori 15: Spiseferdig snacks. | 440 mg/kg i det ferdige næringsmiddelet ◄ **M54** |
 | E 425 | Konjac | Alle aromaer | quantum satis |
-| E 432 – E 436 | Polysorbater (del 6 tabell 4) | Alle aromaer, unntatt flytende røykaromaer og aromaer basert på krydderoleoharpiks\*\* | 10 000 mg/kg i aromaer |
-|  |  | Næringsmidler som inneholder flytende røykaromaer og aromaer basert på krydderoleoharpikser\* | 1 000 mg/kg i det ferdige næringsmiddelet |
+| E 432 – E 436 | Polysorbater (del 6 tabell 4) | Alle aromaer, unntatt flytende røykaromaer og aromaer basert på krydderoleoharpiks[^\*\*] | 10 000 mg/kg i aromaer |
+|  |  | Næringsmidler som inneholder flytende røykaromaer og aromaer basert på krydderoleoharpikser[^\*] | 1 000 mg/kg i det ferdige næringsmiddelet |
 | E 459 | Beta-syklodekstrin | Innkapslede aromaer i: |  |
 |  |  | – te og aromatiserte drikkevarer i pulverform | 500 mg/l i det ferdige næringsmiddelet |
 |  |  | – snacks med aromatilsetting | 1 000 mg/kg i næringsmidler som er klare til bruk eller rekonstituert etter produsentens anvisninger |
@@ -6042,7 +6042,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 | E 1450 | Natriumoktenyl-<br>suksinatstivelse | *quantum satis* | Alle næringsstoffer | Ja |
 | E 1451 | Acetylert oksidert stivelse | *quantum satis* | Alle næringsstoffer | Ja |
 | E 1452 | Aluminiumoktenyl-<br>suksinatstivelse | 35 000 mg/kg i det ferdige næringsmiddelet | I kosttilskudd som definert i direktiv [2002/46/EF](eu/32002l0046) som følge av bruk i vitaminpreparater til innkapslingsformål | Ja |
-| E 1518 | Glyseryltriacetat (triacetin) | \* | Alle næringsstoffer | Ja, bare som bærer |
+| E 1518 | Glyseryltriacetat (triacetin) | [^\*] | Alle næringsstoffer | Ja, bare som bærer |
 | E 1520 | Propan-1,2-diol (propylenglykol) | 1 000 mg/kg i ferdig næringsmiddel (som overføring) | Alle næringsstoffer | Ja, bare som bærer |
 
 \* Grenseverdi for E 1518 og E 1520 fra alle kilder i næringsmidler 3 000 mg/kg (hver for seg eller sammen med E 1505, E 1517 og E 1518). I drikker, unntatt i fløtelikører, skal grenseverdien for E 1520 være 1 000 mg/l fra alle kilder.
@@ -6072,7 +6072,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 | E 415 | Xantangummi | Til bruk i næringsstoffpreparater under forutsetning av at grenseverdien i næringsmidlene som er nevnt i nr. 13.1.3 i del E i vedlegg II, ikke overskrides | Alle næringsstoffer | Bearbeidede kornbaserte næringsmidler og barnemat til spedbarn og småbarn som definert i forordning [(EU) nr. 609/2013](eu/32013r0609) |
 | E 421 | Mannitol | 1 000 ganger mer enn vitamin B12,<br>3 mg/kg samlet overføring | Som bærer for vitamin B12 | Næringsmidler til spedbarn og småbarn og næringsmidler nevnt i del E nr. 01.10 i vedlegg II |
 | E 440 | Pektiner | Til bruk i næringsstoffpreparater under forutsetning av at grenseverdien i næringsmidlene som er nevnt i nr. 13.1 i del E i vedlegg II, ikke overskrides | Alle næringsstoffer | Tilskuddsblandinger og bearbeidede kornbaserte næringsmidler og barnemat til spedbarn og småbarn som definert i forordning [(EU) nr. 609/2013](eu/32013r0609) |
-| E 466 | Natriumkarboksymetylcellulose,<br>cellulosegummi | Til bruk i næringsstoffpreparater under forutsetning av at grenseverdien i næringsmidlene som er nevnt i nr. 13.1.5 i del E i vedlegg II, ikke overskrides<br>Bare til 26. april 20271 | Alle næringsstoffer | Næringsmidler til spesielle medisinske formål, som definert i forordning [(EU) nr. 609/2013](eu/32013r0609), beregnet på spedbarn og småbarn |
+| E 466 | Natriumkarboksymetylcellulose,<br>cellulosegummi | Til bruk i næringsstoffpreparater under forutsetning av at grenseverdien i næringsmidlene som er nevnt i nr. 13.1.5 i del E i vedlegg II, ikke overskrides<br>Bare til 26. april 2027[^1] | Alle næringsstoffer | Næringsmidler til spesielle medisinske formål, som definert i forordning [(EU) nr. 609/2013](eu/32013r0609), beregnet på spedbarn og småbarn |
 | E 471 | Mono- og diglyserider av fettsyrer | Til bruk i næringsstoffpreparater under forutsetning av at grenseverdien i næringsmidlene som er nevnt i del E nr. 01.10 og 13.1 i vedlegg II, ikke overskrides, og at bruksvilkårene som er angitt samme sted, overholdes | Alle næringsstoffer | Næringsmidler til spedbarn og småbarn og næringsmidler nevnt i del E nr. 01.10 i vedlegg II |
 | E 472c | Sitronsyreestere av mono- og diglyserider av fettsyrer | Til bruk i næringsstoffpreparater under forutsetning av at grenseverdien i næringsmidlene som er nevnt i del E nr. 01.10 og 13.1 i vedlegg II, ikke overskrides | Alle næringsstoffer | Morsmelkerstatninger og tilskuddsblandinger til friske spedbarn og småbarn |
 | E 551 | Silisiumdioksid | 10 000 mg/kg i næringsstoffpreparater | Tørrpulverpreparater av næringsstoffer | Næringsmidler til spedbarn og småbarn og næringsmidler nevnt i del E nr. 01.10 i vedlegg II |
@@ -6322,7 +6322,7 @@ Liste over fargestoffene i næringsmidler omhandlet i artikkel 24 som medfører 
 
 | *Næringsmidler som inneholder ett eller flere av følgende fargestoffer* | *Angivelse* |
 | --- | --- |
-| Paraoransje (E 110)\*<br>Kinolingult (E 104)\*<br>Azorubin (E 122)\*<br>Allurarød (E 129)\*<br>Tartrazin (E 102)\*<br>Nykockin 4R (E 124)\* | «fargestoffets/fargestoffenes navn og E-nummer»: Kan ha en ugunstig virkning på barns aktivitet og konsentrasjonsevne. |
+| Paraoransje (E 110)[^\*]<br>Kinolingult (E 104)[^\*]<br>Azorubin (E 122)[^\*]<br>Allurarød (E 129)[^\*]<br>Tartrazin (E 102)[^\*]<br>Nykockin 4R (E 124)[^\*] | «fargestoffets/fargestoffenes navn og E-nummer»: Kan ha en ugunstig virkning på barns aktivitet og konsentrasjonsevne. |
 
 ► **M1**
 
@@ -6350,24 +6350,24 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler,1 særlig artikkel 32,
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler,[^1] særlig artikkel 32,
 
 etter samråd med Den europeiske myndighet for næringsmiddeltrygghet og
 
 ut fra følgende betraktninger:
 
 1. I henhold til forordning [(EF) nr. 1333/2008](eu/32008r1333) skal Kommisjonen opprette et program som går ut på at Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «EFSA») skal foreta en ny vurdering av tryggheten ved tilsetningsstoffer som var godkjent i Unionen før 20. januar 2009.
-2. I 2007 framla Kommisjonen en rapport for Europaparlamentet og Rådet om utviklingen i den nye vurderingen av tilsetningsstoffene.2 Rapporten inneholder en sammenfatning av de seneste nye vurderingene av tilsetningsstoffer som Vitenskapskomiteen for næringsmidler (SCF) og EFSA har foretatt, og en beskrivelse av de tiltak Kommisjonen har truffet på grunnlag av de vitenskapelige uttalelsene.
+2. I 2007 framla Kommisjonen en rapport for Europaparlamentet og Rådet om utviklingen i den nye vurderingen av tilsetningsstoffene.[^2] Rapporten inneholder en sammenfatning av de seneste nye vurderingene av tilsetningsstoffer som Vitenskapskomiteen for næringsmidler (SCF) og EFSA har foretatt, og en beskrivelse av de tiltak Kommisjonen har truffet på grunnlag av de vitenskapelige uttalelsene.
 3. Den nye vurderingen av fargestoffer er allerede påbegynt og prioritert, ettersom disse tilsetningsstoffene er dem det er lengst siden SCF sist vurderte. Den nye vurderingen av visse fargestoffer (E 102 tartrazin, E 104 kinolingul, E 110 paraoransje, E 124 ponceau 4R, E 129 allurarød AC, E 122 karmosin og E 160d lykopen) er allerede avsluttet. Noen tilsetningsstoffer, blant andre E 234 nisin og E 214-219 p-hydroksybenzoater, er dessuten vurdert på nytt de senere år fordi det er blitt anmodet om nye vitenskapelige data, eller fordi slike data er blitt tilgjengelige. Det er derfor ikke nødvendig å foreta en ny vurdering av disse tilsetningsstoffene.
 4. Ettersom søtstoffer er de tilsetningsstoffene som ble vurdert for kortest tid siden, bør de være de siste som vurderes på nytt.
-5. Prioriteringsrekkefølgen for den nye vurderingen av tilsetningsstoffer som for tiden er godkjent, bør fastsettes på grunnlag av følgende kriterier: hvor lang tid som er gått siden SCF eller EFSA sist vurderte tilsetningsstoffet, tilgjengeligheten av nye vitenskapelige opplysninger, i hvilket omfang tilsetningsstoffet brukes i næringsmidler, og i hvilken grad mennesker eksponeres for tilsetningsstoffet, samtidig som det bør tas hensyn til konklusjonene i Kommisjonens rapport fra 2001 om inntak gjennom kosten av tilsetningsstoffer i næringsmidler i EU.3 Nordisk ministerråd har framlagt for Kommisjonen en rapport om tilsetningsstoffer i Europa i 20004 som inneholder ytterligere opplysninger som kan brukes ved prioriteringen av tilsetningsstoffer som skal vurderes på nytt.
+5. Prioriteringsrekkefølgen for den nye vurderingen av tilsetningsstoffer som for tiden er godkjent, bør fastsettes på grunnlag av følgende kriterier: hvor lang tid som er gått siden SCF eller EFSA sist vurderte tilsetningsstoffet, tilgjengeligheten av nye vitenskapelige opplysninger, i hvilket omfang tilsetningsstoffet brukes i næringsmidler, og i hvilken grad mennesker eksponeres for tilsetningsstoffet, samtidig som det bør tas hensyn til konklusjonene i Kommisjonens rapport fra 2001 om inntak gjennom kosten av tilsetningsstoffer i næringsmidler i EU.[^3] Nordisk ministerråd har framlagt for Kommisjonen en rapport om tilsetningsstoffer i Europa i 2000[^4] som inneholder ytterligere opplysninger som kan brukes ved prioriteringen av tilsetningsstoffer som skal vurderes på nytt.
 6. Av effektivitetshensyn og av praktiske årsaker bør den nye vurderingen av tilsetningsstoffene så langt det er mulig utføres gruppevis i henhold til hvilken funksjonell gruppe de tilhører. EFSA bør imidlertid på anmodning fra Kommisjonen eller på eget initiativ kunne påbegynne den nye vurderingen av et tilsetningsstoff eller en gruppe tilsetningsstoffer med høyere prioritet dersom det framkommer nye vitenskapelige data som viser en mulig risiko for menneskers helse, eller som på annen måte kan påvirke vurderingen av tryggheten ved et tilsetningsstoff.
 7. Det bør fastsettes frister for den nye vurderingen i samsvar med denne prioriteringsrekkefølgen. Fristene fastsatt i denne forordning kan endres bare i behørig begrunnede tilfeller, og bare når denne nye vurderingen kan føre til at ny vurdering av andre tilsetningsstoffer blir betydelig forsinket.
 8. Det kan senere fastsettes mer spesifikke frister for tilsetningsstoffer enkeltvis eller gruppevis, for at arbeidet med ny vurdering skal fungere tilfredsstillende, eller dersom det skulle være grunn til bekymring.
 9. For at framgangsmåten ved ny vurdering skal være effektiv, er det viktig at EFSA får alle opplysninger som er relevante for vurderingen, fra de berørte parter, og at de berørte parter underrettes i god tid når det er behov for ytterligere opplysninger for å fullføre den nye vurderingen av et tilsetningsstoff.
 10. Driftsansvarlige som ønsker å beholde godkjenningen av et tilsetningsstoff som er under ny vurdering, bør framlegge alle opplysninger som er relevante for den nye vurderingen av tilsetningsstoffet. Om mulig bør driftsansvarlige treffe de nødvendige tiltak for å framlegge opplysninger i fellesskap.
 11. EFSA bør offentliggjøre én eller flere åpne anmodninger om opplysninger om alle tilsetningsstoffer som skal vurderes på nytt. De berørte parter bør innen de fastsatte fristene framlegge for EFSA alle tekniske og vitenskapelige data om et tilsetningsstoff som er nødvendige for å foreta en ny vurdering av det, særlig toksikologiske data og data som er relevante for å beregne menneskers eksponering for det aktuelle tilsetningsstoffet.
-12. Tryggheten ved de tilsetningsstoffene som EFSA skal vurdere på nytt, er tidligere blitt vurdert av SCF, og mange av dem har vært i bruk lenge. Opplysningene som skal framlegges i forbindelse med den nye vurderingen, bør omfatte eksisterende data som lå til grunn for den forrige vurderingen av et tilsetningsstoff, samt eventuelle nye data som er relevante for tilsetningsstoffet, og som er blitt tilgjengelige siden SCF sist vurderte det. Opplysningene bør være så omfattende som mulig, slik at EFSA kan fullføre den nye vurderingen og utarbeide en ajourført uttalelse, og bør så langt det er mulig framlegges i samsvar med gjeldende retningslinjer for framlegging av vurderinger av tilsetningsstoffer i næringsmidler (retningslinjer utarbeidet av SCF 11. juli 2001).5
+12. Tryggheten ved de tilsetningsstoffene som EFSA skal vurdere på nytt, er tidligere blitt vurdert av SCF, og mange av dem har vært i bruk lenge. Opplysningene som skal framlegges i forbindelse med den nye vurderingen, bør omfatte eksisterende data som lå til grunn for den forrige vurderingen av et tilsetningsstoff, samt eventuelle nye data som er relevante for tilsetningsstoffet, og som er blitt tilgjengelige siden SCF sist vurderte det. Opplysningene bør være så omfattende som mulig, slik at EFSA kan fullføre den nye vurderingen og utarbeide en ajourført uttalelse, og bør så langt det er mulig framlegges i samsvar med gjeldende retningslinjer for framlegging av vurderinger av tilsetningsstoffer i næringsmidler (retningslinjer utarbeidet av SCF 11. juli 2001).[^5]
 13. EFSA kan anmode om ytterligere opplysninger for å fullføre den nye vurderingen av et tilsetningsstoff. I så fall bør EFSA anmode om de nødvendige opplysningene i god tid, enten ved en åpen anmodning om opplysninger eller ved å kontakte de parter som har framlagt opplysninger om tilsetningsstoffet. De berørte parter bør, innen en frist som EFSA fastsetter, framlegge opplysningene som det anmodes om, eventuelt etter å ha tatt hensyn til de berørte parters synspunkter.
 14. I forordning [(EF) nr. 1333/2008](eu/32008r1333) er det fastsatt at det ved godkjenning av tilsetningsstoffer i næringsmidler også bør tas hensyn til miljømessige forhold. I forbindelse med ny vurdering av et tilsetningsstoff bør derfor de berørte parter underrette Kommisjonen og EFSA om alle relevante opplysninger om eventuelle miljørisikoer som følge av produksjonen av, bruken av eller avfallet fra dette tilsetningsstoffet.
 15. Dersom opplysningene som det anmodes om, og som er nødvendige for å fullføre den nye vurderingen av et bestemt tilsetningsstoff, ikke framlegges, kan tilsetningsstoffet fjernes fra Unionens liste over godkjente tilsetningsstoffer.
@@ -6397,7 +6397,7 @@ VEDTATT DENNE FORORDNING:
 
 I denne forordning menes med:
 
-1. «godkjent tilsetningsstoff» et tilsetningsstoff som er godkjent før 20. januar 2009 og oppført i europaparlaments- og rådsdirektiv [94/35/EF](eu/31994l0035) av 30. juni 1994 om søtstoffer til bruk i næringsmidler,1 i europaparlaments- og rådsdirektiv [94/36/EF](eu/31994l0036*) av 30. juni 1994 om fargestoffer til bruk i næringsmidler2 eller i europaparlaments- og rådsdirektiv [95/2/EF](eu/31995l0002*) av 20. februar 1995 om andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer,3
+1. «godkjent tilsetningsstoff» et tilsetningsstoff som er godkjent før 20. januar 2009 og oppført i europaparlaments- og rådsdirektiv [94/35/EF](eu/31994l0035) av 30. juni 1994 om søtstoffer til bruk i næringsmidler,[^1] i europaparlaments- og rådsdirektiv [94/36/EF](eu/31994l0036*) av 30. juni 1994 om fargestoffer til bruk i næringsmidler[^2] eller i europaparlaments- og rådsdirektiv [95/2/EF](eu/31995l0002*) av 20. februar 1995 om andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer,[^3]
 2. «driftsansvarlig» den fysiske eller juridiske person som har ansvar for at kravene i forordning [(EF) nr. 1333/2008](eu/32008r1333) overholdes i det næringsmiddelforetak vedkommende driver,
 3. «berørt driftsansvarlig» driftsansvarlig som ønsker å sikre kontinuiteten i godkjenningen av ett eller flere tilsetningsstoffer i næringsmidler,
 4. «opprinnelig dokumentasjon» den dokumentasjon som lå til grunn da tilsetningsstoffet ble vurdert og godkjent til bruk i næringsmidler før 20. januar 2009.
@@ -6452,7 +6452,7 @@ Når et godkjent tilsetningsstoff skal vurderes på nytt, skal EFSA
 
 ### Artikkel 6. Framlegging av opplysninger
 
-1\. Berørte driftsansvarlige og/eller eventuelle andre berørte parter skal framlegge opplysningene knyttet til den nye vurderingen av et tilsetningsstoff nevnt i artikkel 5 nr. 2, innen den fristen som EFSA har fastsatt i sin anmodning om opplysninger. Ved framlegging av opplysninger skal de berørte driftsansvarlige og andre berørte parter vedlegge de opplysningene som EFSA anmoder om, i henhold til den gjeldende veiledningen om framlegging av opplysninger knyttet til vurdering av tilsetningsstoffer1 i den grad dette er mulig.
+1\. Berørte driftsansvarlige og/eller eventuelle andre berørte parter skal framlegge opplysningene knyttet til den nye vurderingen av et tilsetningsstoff nevnt i artikkel 5 nr. 2, innen den fristen som EFSA har fastsatt i sin anmodning om opplysninger. Ved framlegging av opplysninger skal de berørte driftsansvarlige og andre berørte parter vedlegge de opplysningene som EFSA anmoder om, i henhold til den gjeldende veiledningen om framlegging av opplysninger knyttet til vurdering av tilsetningsstoffer[^1] i den grad dette er mulig.
 
 2\. Dersom det finnes flere berørte driftsansvarlige, kan de eventuelt framlegge opplysningene i fellesskap.
 
@@ -6460,7 +6460,7 @@ Når et godkjent tilsetningsstoff skal vurderes på nytt, skal EFSA
 
 4\. Opplysninger som ikke er framlagt innen den fristen som EFSA har fastsatt, skal ikke tas hensyn til ved den nye vurderingen. I unntakstilfeller kan imidlertid EFSA, med Kommisjonens samtykke, beslutte å ta hensyn til opplysninger som framlegges etter fristen dersom disse opplysningene er av vesentlig betydning for den nye vurderingen av et tilsetningsstoff.
 
-5\. Dersom opplysningene som det er anmodet om, ikke er framlagt for EFSA innen de fastsatte fristene, kan tilsetningsstoffet bli fjernet fra Unionens liste i samsvar med framgangsmåten fastsatt i artikkel 10 nr. 3 i forordning [(EF) nr. 1333/2008](eu/32008r1333).2
+5\. Dersom opplysningene som det er anmodet om, ikke er framlagt for EFSA innen de fastsatte fristene, kan tilsetningsstoffet bli fjernet fra Unionens liste i samsvar med framgangsmåten fastsatt i artikkel 10 nr. 3 i forordning [(EF) nr. 1333/2008](eu/32008r1333).[^2]
 
 1 På det nåværende tidspunkt SCFs uttalelse av 11. juli 2001. SCF/CS/ADD/GEN/26, endelig utgave.
 
@@ -6642,9 +6642,9 @@ Følgende stoffer i denne gruppen gis høyere prioritet:
 | E 444 | Sukroseacetatisobutyrat |
 | E 481 | Natriumstearyl-2-laktylat |
 | E 482 | Kalsiumstearyl-2-laktylat |
-| E 414 | Gummi arabicum\* |
+| E 414 | Gummi arabicum[^\*] |
 | E 410 | Johannesbrødkjernemel |
-| E 417 | Tarakjernemel\* |
+| E 417 | Tarakjernemel[^\*] |
 | E 422 | Glyserol |
 | E 475 | Sukroseestere av fettsyrer |
 
@@ -6747,41 +6747,41 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler,1 særlig artikkel 14 og 30 nr. 4, europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) av 16. desember 2008 om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler,2 særlig artikkel 7 nr. 5, og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler,[^1] særlig artikkel 14 og 30 nr. 4, europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) av 16. desember 2008 om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler,[^2] særlig artikkel 7 nr. 5, og
 
 ut fra følgende betraktninger:
 
 1. Spesifikasjoner som gjelder opprinnelse, renhetskriterier og andre nødvendige opplysninger, bør vedtas for de tilsetningsstoffer som kan anvendes i næringsmidler, og som er oppført på unionslistene i vedlegg II og III til forordning [(EF) nr. 1333/2008](eu/32008r1333).
-2. For dette formål bør spesifikasjoner som tidligere er utarbeidet for tilsetningsstoffer i næringsmidler i kommisjonsdirektiv [2008/128/EF](eu/32008l0128) av 22. desember 2008 om spesifikke renhetskriterier for fargestoffer til bruk i næringsmidler,3 kommisjonsdirektiv [2008/84/EF](eu/32008l0084) av 27. august 2008 om fastsettelse av spesifikke renhetskriterier for andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer4 og kommisjonsdirektiv [2008/60/EF](eu/32008l0060) av 17. juni 2008 om fastsettelse av spesifikke renhetskriterier for søtstoffer til bruk i næringsmidler5 ajourføres og overføres til denne forordning. Derfor bør de nevnte direktiver oppheves.
+2. For dette formål bør spesifikasjoner som tidligere er utarbeidet for tilsetningsstoffer i næringsmidler i kommisjonsdirektiv [2008/128/EF](eu/32008l0128) av 22. desember 2008 om spesifikke renhetskriterier for fargestoffer til bruk i næringsmidler,[^3] kommisjonsdirektiv [2008/84/EF](eu/32008l0084) av 27. august 2008 om fastsettelse av spesifikke renhetskriterier for andre tilsetningsstoffer i næringsmidler enn fargestoffer og søtstoffer[^4] og kommisjonsdirektiv [2008/60/EF](eu/32008l0060) av 17. juni 2008 om fastsettelse av spesifikke renhetskriterier for søtstoffer til bruk i næringsmidler[^5] ajourføres og overføres til denne forordning. Derfor bør de nevnte direktiver oppheves.
 3. Det må tas hensyn til spesifikasjonene og analysemetodene som er fastsatt i Codex Alimentarius utarbeidet av den felles FAO-WHO-ekspertgruppen for tilsetningsstoffer i næringsmidler (heretter kalt JECFA).
-4. Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») har avgitt sin uttalelse om tryggheten ved basisk metakrylatkopolymer6 som overflatebehandlingsmiddel. Nevnte tilsetningsstoff i næringsmidler har senere blitt godkjent på grunnlag av spesifikke anvendelser og har fått nummeret E 1205. Derfor bør det vedtas spesifikasjoner for nevnte tilsetningsstoff i næringsmidler.
+4. Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») har avgitt sin uttalelse om tryggheten ved basisk metakrylatkopolymer[^6] som overflatebehandlingsmiddel. Nevnte tilsetningsstoff i næringsmidler har senere blitt godkjent på grunnlag av spesifikke anvendelser og har fått nummeret E 1205. Derfor bør det vedtas spesifikasjoner for nevnte tilsetningsstoff i næringsmidler.
 5. Ifølge opplysninger fra næringsmiddelprodusenter anvendes ikke lenger fargestoffene beta-apo-8'-karotensyre-etylester (E 160 f), brun FK (E 154) og det aluminiumholdige bærestoffet bentonitt (E 558). Derfor bør ikke de gjeldende spesifikasjoner for nevnte tilsetningsstoffer i næringsmidler overføres til denne forordning.
-6. Den 10. februar 2010 avgav myndigheten en uttalelse om tryggheten ved sukroseestere av fettsyrer (E 473) framstilt av vinylestere av fettsyrer,7 De gjeldende spesifikasjoner bør endres tilsvarende, særlig ved å redusere grenseverdiene for urenheter som utgjør et trygghetsproblem.
-7. De spesifikke renhetskriterier som nå kommer til anvendelse, bør endres ved at grenseverdiene for de enkelte berørte tungmetallene endres der det er mulig, og der JECFAs grenseverdier er lavere enn dem som for tiden gjelder. I henhold til denne framgangsmåte bør grenseverdiene for det forurensende stoffet 4-metylimidazol i sukkerkulør (E 150 c), sulfataske i betakaroten (E 160 a (i)) og magnesium- og alkalisalter i kalsiumkarbonat (E 170) settes ned. Ettersom produsentene har oppgitt at det ikke vil være teknisk mulig å overholde strengere unionsbestemmelser som er i samsvar med JECFAs grenseverdier, bør denne framgangsmåte fravikes bare for tilsetningsstoffene trinatriumsitrat (E 331 (iii)) (blyinnhold), karragenan (E 407) og bearbeidet Eucheuma-tang (E407 a) (kadmiuminnhold). Når det gjelder disse tre tilsetningsstoffene i næringsmidler, anses ikke bidraget fra de to forurensende stoffene (bly og kadmium) til det totale inntak å være signifikant. På grunn av nye produksjonsmetoder som er utviklet, bør det derimot fastsettes nye grenseverdier for fosfater (E 338–E 341 og E 450–E 452) som er signifikant lavere enn dem JECFA har angitt, og som bør ta hensyn til de seneste anbefalingene fra myndigheten om å redusere inntaket av arsen, særlig i uorganisk form.8 Dessuten bør det av trygghetshensyn inntas en ny bestemmelse om arsen i glutaminsyre (E 620). Den sammenlagte virkningen av disse tilpasninger vil være til fordel for forbrukerne ettersom grenseverdiene for tungmetaller blir strengere både generelt og i de fleste tilsetningsstoffer i næringsmidler. Nærmere opplysninger om produksjonsprosess og utgangsmaterialer for tilsetningsstoffer i næringsmidler bør inngå i spesifikasjonene for å legge til rette for framtidige beslutninger i henhold til artikkel 12 i forordning [(EF) nr. 1333/2008](eu/32008r1333).
+6. Den 10. februar 2010 avgav myndigheten en uttalelse om tryggheten ved sukroseestere av fettsyrer (E 473) framstilt av vinylestere av fettsyrer,[^7] De gjeldende spesifikasjoner bør endres tilsvarende, særlig ved å redusere grenseverdiene for urenheter som utgjør et trygghetsproblem.
+7. De spesifikke renhetskriterier som nå kommer til anvendelse, bør endres ved at grenseverdiene for de enkelte berørte tungmetallene endres der det er mulig, og der JECFAs grenseverdier er lavere enn dem som for tiden gjelder. I henhold til denne framgangsmåte bør grenseverdiene for det forurensende stoffet 4-metylimidazol i sukkerkulør (E 150 c), sulfataske i betakaroten (E 160 a (i)) og magnesium- og alkalisalter i kalsiumkarbonat (E 170) settes ned. Ettersom produsentene har oppgitt at det ikke vil være teknisk mulig å overholde strengere unionsbestemmelser som er i samsvar med JECFAs grenseverdier, bør denne framgangsmåte fravikes bare for tilsetningsstoffene trinatriumsitrat (E 331 (iii)) (blyinnhold), karragenan (E 407) og bearbeidet Eucheuma-tang (E407 a) (kadmiuminnhold). Når det gjelder disse tre tilsetningsstoffene i næringsmidler, anses ikke bidraget fra de to forurensende stoffene (bly og kadmium) til det totale inntak å være signifikant. På grunn av nye produksjonsmetoder som er utviklet, bør det derimot fastsettes nye grenseverdier for fosfater (E 338–E 341 og E 450–E 452) som er signifikant lavere enn dem JECFA har angitt, og som bør ta hensyn til de seneste anbefalingene fra myndigheten om å redusere inntaket av arsen, særlig i uorganisk form.[^8] Dessuten bør det av trygghetshensyn inntas en ny bestemmelse om arsen i glutaminsyre (E 620). Den sammenlagte virkningen av disse tilpasninger vil være til fordel for forbrukerne ettersom grenseverdiene for tungmetaller blir strengere både generelt og i de fleste tilsetningsstoffer i næringsmidler. Nærmere opplysninger om produksjonsprosess og utgangsmaterialer for tilsetningsstoffer i næringsmidler bør inngå i spesifikasjonene for å legge til rette for framtidige beslutninger i henhold til artikkel 12 i forordning [(EF) nr. 1333/2008](eu/32008r1333).
 8. Spesifikasjonene bør ikke vise til organoleptiske tester forbundet med smak ettersom det ikke kan forventes av kontrollmyndighetene at de tar risikoen på å smake på et kjemisk stoff.
 9. Spesifikasjonene bør ikke vise til klasser ettersom en slik henvisning ikke tilfører noen merverdi.
 10. Spesifikasjonene bør ikke vise til den generelle parameter «Tungmetaller» ettersom denne parameter ikke gjelder toksisitet men snarere en generell analysemetode. Parametrer som gjelder enkelte tungmetaller, er toksisitetsrelatert og er tatt med i spesifikasjonene.
-11. En del tilsetningsstoffer i næringsmidler er for tiden oppført under forskjellige betegnelser (karboksymetylcellulose (E 466), kryssbundet natriumkarboksymetylcellulose (E 468), enzymatisk hydrolysert karboksymetylcellulose (E 469) og bivoks, hvit og gul (E 901)) i ulike bestemmelser i europaparlaments- og rådsdirektiv [95/2/EF](eu/31995l0002*).9 Derfor bør spesifikasjonene som fastsettes ved denne forordning, vise til nevnte ulike betegnelser.
+11. En del tilsetningsstoffer i næringsmidler er for tiden oppført under forskjellige betegnelser (karboksymetylcellulose (E 466), kryssbundet natriumkarboksymetylcellulose (E 468), enzymatisk hydrolysert karboksymetylcellulose (E 469) og bivoks, hvit og gul (E 901)) i ulike bestemmelser i europaparlaments- og rådsdirektiv [95/2/EF](eu/31995l0002*).[^9] Derfor bør spesifikasjonene som fastsettes ved denne forordning, vise til nevnte ulike betegnelser.
 12. Gjeldende bestemmelser om polysykliske aromatiske hydrokarboner (PAH) er for allmenne og ikke relevante for tryggheten; de bør derfor erstattes med grenseverdier for hvert enkelt av tilsetningsstoffene vegetabilsk karbon (E 153) og mikrokrystallinsk voks (E 905). Tilsvarende grenseverdier bør fastsettes for formaldehyd i karragenan (E 407) og bearbeidet Eucheuma-tang (E 407 a), for særskilte mikrobiologiske kriterier i agar (E 406) og for innholdet av *Salmonella* spp. i mannitol (E 421 (ii)) som er framstilt ved gjæring.
-13. Bruken av 2-propanol (isopropanol, isopropylalkohol) bør tillates ved framstilling av tilsetningsstoffene kurkumin (E 100) og paprikaekstrakt (E 160 c), i tråd med spesifikasjonene fra JECFA, ettersom akkurat denne anvendelsen er blitt vurdert som trygg av myndigheten.10 Bruken av etanol i stedet for 2-propanol i framstillingen av gellangummi (E 418) bør tillates dersom sluttproduktet fortsatt oppfyller alle andre spesifikasjoner og etanol anses å være et mindre trygghetsproblem.
+13. Bruken av 2-propanol (isopropanol, isopropylalkohol) bør tillates ved framstilling av tilsetningsstoffene kurkumin (E 100) og paprikaekstrakt (E 160 c), i tråd med spesifikasjonene fra JECFA, ettersom akkurat denne anvendelsen er blitt vurdert som trygg av myndigheten.[^10] Bruken av etanol i stedet for 2-propanol i framstillingen av gellangummi (E 418) bør tillates dersom sluttproduktet fortsatt oppfyller alle andre spesifikasjoner og etanol anses å være et mindre trygghetsproblem.
 14. Prosentdelen av det aktive fargestoffet kochenille, karminsyre, karminer (E 120) bør spesifiseres ettersom grenseverdier skal gjelde for mengdene av dette stoffet.
 15. Nummereringssystemet for underkategoriene av karotener (E 160 a) bør ajourføres slik at det blir i tråd med nummereringssystemet i Codex Alimentarius.
 16. Den faste formen av melkesyre (E 270) bør også inntas i spesifikasjonene ettersom melkesyre nå kan framstilles i fast form og det ikke foreligger noe trygghetsproblem.
 17. Den temperatur som er angitt ved tap ved tørking av mononatriumsitrat (E 331 (i)) i vannfri form, bør justeres ettersom stoffet nedbrytes under de vilkår som nå er angitt. Vilkårene for tørking av trinatriumsitrat (E 331 (iii)) bør også endres for å forbedre metodens reproduserbarhet.
 18. Gjeldende spesifikke absorpsjonsverdi for alfa-tokoferol (E 307) bør korrigeres, og sublimasjonspunktet for sorbinsyre (E 200) bør erstattes med et «løselighetstest» ettersom sublimasjonspunktet ikke er relevant. Spesifikasjonen av bakteriekilder som anvendes ved framstilling av nisin (E 234) og natamycin (E 235) bør ajourføres i samsvar med gjeldende taksonomiske nomenklatur.
 19. Ettersom det nå finnes nye, nyskapende framstillingsmetoder som gir tilsetningsstoffer med mindre forurensning, bør forekomsten av aluminium i tilsetningsstoffer til bruk i næringsmidler begrenses. For å styrke rettssikkerhet og likebehandling bør produsentene av tilsetningsstoffer i næringsmidler gis en overgangsperiode slik at de gradvis kan tilpasse seg disse begrensningene.
-20. Der det er relevant, bør det fastsettes grenseverdier for aluminium i tilsetningsstoffer i næringsmidler, da særlig for kalsiumfosfat (E 341 (i)–(iii)) beregnet på bruk i næringsmidler til spedbarn og småbarn,11 i samsvar med den relevante uttalelse fra Vitenskapskomiteen for næringsmidler avgitt 7. juni 1996.12 Det bør også fastsettes en grenseverdi for aluminum i kalsiumsitrat (E 333).
-21. Grenseverdiene for aluminium i kalsiumfosfater (E 341 (i)–(iii)), dinatriumdifosfat (E 450 (i)) og kalsiumdihydrogendifosfat (E 450 (vii)) bør være i samsvar med myndighetens uttalelse av 22. mai 2008.13 De gjeldende grenseverdiene bør settes ned der dette er teknisk mulig, og der bidraget til det totale inntak av aluminium er signifikant. Dermed bør aluminiumlakk bare tillates i enkelte fargestoffer dersom det er teknisk behov for det.
+20. Der det er relevant, bør det fastsettes grenseverdier for aluminium i tilsetningsstoffer i næringsmidler, da særlig for kalsiumfosfat (E 341 (i)–(iii)) beregnet på bruk i næringsmidler til spedbarn og småbarn,[^11] i samsvar med den relevante uttalelse fra Vitenskapskomiteen for næringsmidler avgitt 7. juni 1996.[^12] Det bør også fastsettes en grenseverdi for aluminum i kalsiumsitrat (E 333).
+21. Grenseverdiene for aluminium i kalsiumfosfater (E 341 (i)–(iii)), dinatriumdifosfat (E 450 (i)) og kalsiumdihydrogendifosfat (E 450 (vii)) bør være i samsvar med myndighetens uttalelse av 22. mai 2008.[^13] De gjeldende grenseverdiene bør settes ned der dette er teknisk mulig, og der bidraget til det totale inntak av aluminium er signifikant. Dermed bør aluminiumlakk bare tillates i enkelte fargestoffer dersom det er teknisk behov for det.
 22. Bestemmelsene om grenseverdier for aluminium i dikalsiumfosfat (E 341 (ii)), trikalsiumfosfat (E 341 (iii)) og kalsiumdihydrogendifosfat (E 450 (vii)) bør ikke forårsake forstyrrelser på markedet på grunn av eventuelt manglende forsyninger.
-23. Ifølge kommisjonsforordning [(EU) nr. 258/2010](eu/32010r0258) av 25. mars 2010 om særlige vilkår for import av guarkjernemel med opprinnelse i eller sendt fra India som følge av risikoen for at produktene er forurenset av pentaklorfenol og dioksiner,14 bør det fastsettes grenseverdier for det forurensende stoffet pentaklorfenol i guarkjernemel (E 412).
-24. I henhold til betraktning 48 i kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler15 oppfordres medlemsstatene til å undersøke andre næringsmidler enn dem som er omhandlet i nevnte forordning, for forekomst av det forurensende stoffet 3-MCPD med henblikk på å vurdere behovet for å fastsette grenseverdier for dette stoffet. Franske myndigheter har framlagt opplysninger om høye konsentrasjoner av 3-MCPD i tilsetningsstoffet glyserol (E 422) og gjennomsnittlig innhold av dette tilsetningsstoffet i ulike kategorier næringsmidler. Grenseverdiene for 3-MCPD i dette tilsetningsstoffet bør fastsettes med henblikk på å unngå forurensning av det ferdige næringsmiddelet i høyere konsentrasjon enn tillatt, fortynningsfaktoren tatt i betraktning.
+23. Ifølge kommisjonsforordning [(EU) nr. 258/2010](eu/32010r0258) av 25. mars 2010 om særlige vilkår for import av guarkjernemel med opprinnelse i eller sendt fra India som følge av risikoen for at produktene er forurenset av pentaklorfenol og dioksiner,[^14] bør det fastsettes grenseverdier for det forurensende stoffet pentaklorfenol i guarkjernemel (E 412).
+24. I henhold til betraktning 48 i kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler[^15] oppfordres medlemsstatene til å undersøke andre næringsmidler enn dem som er omhandlet i nevnte forordning, for forekomst av det forurensende stoffet 3-MCPD med henblikk på å vurdere behovet for å fastsette grenseverdier for dette stoffet. Franske myndigheter har framlagt opplysninger om høye konsentrasjoner av 3-MCPD i tilsetningsstoffet glyserol (E 422) og gjennomsnittlig innhold av dette tilsetningsstoffet i ulike kategorier næringsmidler. Grenseverdiene for 3-MCPD i dette tilsetningsstoffet bør fastsettes med henblikk på å unngå forurensning av det ferdige næringsmiddelet i høyere konsentrasjon enn tillatt, fortynningsfaktoren tatt i betraktning.
 25. I lys av utviklingen innen analysemetoder bør visse av de gjeldende spesifikasjoner ajourføres. Den gjeldende grenseverdi «ikke påviselig» er knyttet til analysemetodenes utvikling og bør erstattes av en bestemt verdi for tilsetningsstoffene syreestere av mono- og diglyserider (E 472 a–f), polyglyserolestere av fettsyrer (E 475) og propylenglykolestere av fettsyrer (E 477).
 26. Spesifikasjoner som gjelder framstillingsmetode bør ajourføres hva angår sitronsyreestere av mono- og diglyserider av fettsyrer (E 472 c), da bruken av alkaliske baser nå er erstattet med bruk av deres svakere salter.
-27. Det gjeldende kriteriet «frie fettsyrer» for tilsetningsstoffene sitronsyreestere av mono- og diglyserider av fettsyrer (E 472 c) og mono- og diacetylvinestere av mono- og diglyserider av fettsyrer (E 472 e) er ikke hensiktsmessig. Det bør erstattes av kriteriet «syretall», da dette bedre uttrykker den titrimetriske vurdering av de frie syregruppene. Dette er i samsvar med JECFAs 71. rapport om tilsetningsstoffer i næringsmidler,16 der denne endring ble vedtatt for mono- og diacetylvinestere av mono- og diglyserider av fettsyrer (E 472 e).
-28. Dagens feilaktige beskrivelse av tilsetningsstoffet magnesiumoksid (E 530) bør endres i samsvar med opplysningene framlagt av produsentene slik at den blir i tråd med Den europeiske farmakopé.17 Gjeldende grenseverdi for det reduserende stoffet i tilsetningsstoffet glukonsyre (E 574) bør også ajourføres da det ikke lenger er teknisk mulig å overholde denne grense. Når det gjelder beregningen av vanninnholdet i xylitol (E 967), bør dagens metode basert på «tap ved tørking» erstattes av en mer egnet metode.
+27. Det gjeldende kriteriet «frie fettsyrer» for tilsetningsstoffene sitronsyreestere av mono- og diglyserider av fettsyrer (E 472 c) og mono- og diacetylvinestere av mono- og diglyserider av fettsyrer (E 472 e) er ikke hensiktsmessig. Det bør erstattes av kriteriet «syretall», da dette bedre uttrykker den titrimetriske vurdering av de frie syregruppene. Dette er i samsvar med JECFAs 71. rapport om tilsetningsstoffer i næringsmidler,[^16] der denne endring ble vedtatt for mono- og diacetylvinestere av mono- og diglyserider av fettsyrer (E 472 e).
+28. Dagens feilaktige beskrivelse av tilsetningsstoffet magnesiumoksid (E 530) bør endres i samsvar med opplysningene framlagt av produsentene slik at den blir i tråd med Den europeiske farmakopé.[^17] Gjeldende grenseverdi for det reduserende stoffet i tilsetningsstoffet glukonsyre (E 574) bør også ajourføres da det ikke lenger er teknisk mulig å overholde denne grense. Når det gjelder beregningen av vanninnholdet i xylitol (E 967), bør dagens metode basert på «tap ved tørking» erstattes av en mer egnet metode.
 29. En del av de gjeldende spesifikasjoner for tilsetningsstoffet candelillavoks (E 902) er feilaktige og bør derfor ikke overføres til denne forordning. For kalsiumdihydrogendifosfat (E 450 (vii)) bør den foreliggende opplysning om innhold av P2 O5 rettes.
 30. Når det gjelder taumatin (E 957), bør opplysningene for kriteriet «innhold» rettes med hensyn til beregningsfaktor. Faktoren skal anvendes i Kjeldahl-metoden for å beregne det totale innhold av stoffet basert på målingen av nitrogeninnhold. Beregningsfaktoren bør ajourføres i samsvar med opplysningene i relevant publisert litteratur om taumatin (E 957).
-31. Myndigheten har vurdert tryggheten ved steviolglykosider som søtstoff og avgav sin uttalelse 10. mars 2010.18 Bruken av steviolglykosider, som har fått nummeret E 960, har senere blitt tillatt på grunnlag av godt definerte vilkår for bruk. Derfor bør det vedtas spesifikasjoner for dette tilsetningsstoffet i næringsmidler.
+31. Myndigheten har vurdert tryggheten ved steviolglykosider som søtstoff og avgav sin uttalelse 10. mars 2010.[^18] Bruken av steviolglykosider, som har fått nummeret E 960, har senere blitt tillatt på grunnlag av godt definerte vilkår for bruk. Derfor bør det vedtas spesifikasjoner for dette tilsetningsstoffet i næringsmidler.
 32. På grunn av en taksonomisk endring bør de gjeldende spesifikasjoner for kildematerialer (gjær) som brukes i framstillingen av erytritol (E 968), ajourføres.
 33. For kvillajaekstrakt (E 999) bør den gjeldende spesifikasjon med hensyn til pH-verdi endres i samsvar med JECFA.
 34. Kombinasjonen av sitronsyre og fosforsyre (som begge for tiden er tillatt brukt enkeltvis ved framstilling av tilsetningsstoffet polydekstrose (E 1200)), bør tillates dersom renhetsgraden i sluttproduktet fortsatt er i samsvar med spesifikasjonene, da den gir bedre utbytte og leder til en mer kontrollerbar reaksjonskinetikk. Denne endringen medfører ingen trygghetsproblemer.
@@ -6863,7 +6863,7 @@ Utferdiget i Brussel, 9. mars 2012.
 
 ►**M37** Etylenoksid kan ikke brukes til sterilisering av næringsmiddeltilsetninger.
 
-Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av etylenoksid og 2-kloretanol uttrykt som etylenoksid\*) skal forekomme i næringsmiddeltilsetninger som er oppført i vedlegg II og III til forordning [(EF) nr. 1333/2008](eu/32008r1333), inkludert blandinger av næringsmiddeltilsetninger.
+Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av etylenoksid og 2-kloretanol uttrykt som etylenoksid[^\*]) skal forekomme i næringsmiddeltilsetninger som er oppført i vedlegg II og III til forordning [(EF) nr. 1333/2008](eu/32008r1333), inkludert blandinger av næringsmiddeltilsetninger.
 
 \* Dvs. etylenoksid + 0,55 \* 2-kloretanol. ◄**M37**
 
@@ -7541,7 +7541,7 @@ Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av
 | **Renhet** |  |
 | Farge bundet til DEAE-cellulose | Ikke over 50 % |
 | Farge bundet til fosforylcellulose | Ikke over 50 % |
-| Fargestyrke1 | 0,01–0,12 |
+| Fargestyrke[^1] | 0,01–0,12 |
 | Nitrogen i alt | Ikke over 0,1 % |
 | Svovel i alt | Ikke over 0,2 % |
 | Arsen | Ikke over 1 mg/kg |
@@ -7567,10 +7567,10 @@ Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av
 | **Identifikasjon** |  |
 | **Renhet** |  |
 | Farge bundet til DEAE-cellulose | Over 50 % |
-| Fargestyrke1 | 0,05–0,13 |
-| Nitrogen i alt | Ikke over 0,3 %2 |
-| Svoveldioksid | Ikke over 0,2 %2 |
-| Svovel i alt | 0,3–3,5 %2 |
+| Fargestyrke[^1] | 0,05–0,13 |
+| Nitrogen i alt | Ikke over 0,3 %[^2] |
+| Svoveldioksid | Ikke over 0,2 %[^2] |
+| Svovel i alt | 0,3–3,5 %[^2] |
 | Svovel bundet til DEAE-cellulose | Over 40 % |
 | Absorbansforhold for farge bundet til DEAE-cellulose | 19–34 |
 | Absorbansforhold (A 280/560 ) | Over 50 |
@@ -7600,12 +7600,12 @@ Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av
 | **Renhet** |  |
 | Farge bundet til DEAE-cellulose | Ikke over 50 % |
 | Farge bundet til fosforylcellulose | Over 50 % |
-| Fargestyrke1 | 0,08–0,36 |
-| Ammoniakk-nitrogen | Ikke over 0,3 %2 |
-| 4-metylimidazol | Ikke over 200 mg/kg2 |
-| 22-acetyl-4-tetrahydroksybutylimidazol | Ikke over 10 mg/kg2 |
-| Svovel i alt | Ikke over 0,2 %2 |
-| Nitrogen i alt | 0,7–3,3 %2 |
+| Fargestyrke[^1] | 0,08–0,36 |
+| Ammoniakk-nitrogen | Ikke over 0,3 %[^2] |
+| 4-metylimidazol | Ikke over 200 mg/kg[^2] |
+| 22-acetyl-4-tetrahydroksybutylimidazol | Ikke over 10 mg/kg[^2] |
+| Svovel i alt | Ikke over 0,2 %[^2] |
+| Nitrogen i alt | 0,7–3,3 %[^2] |
 | Absorbansforhold for farge bundet til DEAE-fosforylcellulose | 13–35 |
 | Arsen | Ikke over 1 mg/kg |
 | Bly | Ikke over 2 mg/kg |
@@ -7632,14 +7632,14 @@ Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av
 | **Identifikasjon** |  |
 | **Renhet** |  |
 | Farge bundet til DEAE-cellulose | Over 50 % |
-| Fargestyrke1 | 0,10–0,60 |
-| Ammoniakk-nitrogen | Ikke over 0,6 %2 |
-| Svoveldioksid | Ikke over 0,2 %2 |
-| 4-metylimidazol | Ikke over 250 mg/kg2 |
-| Nitrogen i alt | 0,3–1,7 %2 |
-| Svovel i alt | 0,8–2,5 %2 |
+| Fargestyrke[^1] | 0,10–0,60 |
+| Ammoniakk-nitrogen | Ikke over 0,6 %[^2] |
+| Svoveldioksid | Ikke over 0,2 %[^2] |
+| 4-metylimidazol | Ikke over 250 mg/kg[^2] |
+| Nitrogen i alt | 0,3–1,7 %[^2] |
+| Svovel i alt | 0,8–2,5 %[^2] |
 | Nitrogen/svovel-forholdet i alkoholbunnfall | 0,7–2,7 |
-| Absorbansforhold for alkoholbunnfall1 | 8–14 |
+| Absorbansforhold for alkoholbunnfall[^1] | 8–14 |
 | Absorbansforhold (A 280/560 ) | Ikke over 50 |
 | Arsen | Ikke over 1 mg/kg |
 | Bly | Ikke over 2 mg/kg |
@@ -7770,7 +7770,7 @@ Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av
 |  |  |  |
 | --- | --- | --- |
 | **Synonymer** | CI Food Orange 5 |  |
-| **Definisjon** | Plantekarotener framstilles ved løsemiddelekstraksjon av sorter av spiselig planter, gulrøtter, vegetabilske oljer, gress, blåluserne og nesle.<br>Det aktive fargestoffet er hovedsakelig karotenoider, hvorav betakaroten er den viktigste. Det kan forekomme alfa-, gammakaroten og andre pigmenter. Stoffet kan i tillegg til fargepigmentene inneholde olje, fettstoffer og voks som forekommer naturlig i utgangsmaterialet.<br>Til ekstraksjon kan bare følgende løsemidler benyttes: aceton, metyletylketon, metanol, 2-propanol, heksan,1 diklormetan og karbondioksid. |  |
+| **Definisjon** | Plantekarotener framstilles ved løsemiddelekstraksjon av sorter av spiselig planter, gulrøtter, vegetabilske oljer, gress, blåluserne og nesle.<br>Det aktive fargestoffet er hovedsakelig karotenoider, hvorav betakaroten er den viktigste. Det kan forekomme alfa-, gammakaroten og andre pigmenter. Stoffet kan i tillegg til fargepigmentene inneholde olje, fettstoffer og voks som forekommer naturlig i utgangsmaterialet.<br>Til ekstraksjon kan bare følgende løsemidler benyttes: aceton, metyletylketon, metanol, 2-propanol, heksan,[^1] diklormetan og karbondioksid. |  |
 | Fargeindeksnummer | 75130 |  |
 | EINECS-nummer | 230-636-6 |  |
 | Kjemisk betegnelse |  |  |
@@ -8449,7 +8449,7 @@ III) BASEBEARBEIDET NORBIXIN, IKKE SYREFELT
 | Sulfataske | Ikke over 0,05 % |
 | Klorerte organiske forbindelser | Ikke over 0,07 % uttrykt som klorid, som tilsvarer 0,3 % uttrykt som monoklorbenzosyre |
 | Lett oksiderbare stoffer | Tilsett 1,5 ml svovelsyre i 100 ml vann, varm opp til kokepunktet og tilsett 0,1 N KMnO4 dråpevis inntil den lyserøde fargen holder seg i 30 sekunder. Løs opp 1 g av prøven, oppveid med en nøyaktighet på 1 mg, i den oppvarmede løsningen og titrer med 0,1 N KMnO4 til det oppnås en lyserød farge som holder seg i 15 sekunder. Det skal ikke være nødvendig med mer enn 0,5 ml |
-| Lett karboniserbare stoffer | Ved kald oppløsning av 0,5 g benzosyre i 5 ml 94,5–95,5 % svovelsyre skal det ikke vises sterkere farging enn hos en referansevæske som inneholder 0,2 ml koboltklorid TSC,1 0,3 ml jernklorid TSC,2 0,1 ml kobbersulfat TSC3 og 4,4 ml vann |
+| Lett karboniserbare stoffer | Ved kald oppløsning av 0,5 g benzosyre i 5 ml 94,5–95,5 % svovelsyre skal det ikke vises sterkere farging enn hos en referansevæske som inneholder 0,2 ml koboltklorid TSC,[^1] 0,3 ml jernklorid TSC,[^2] 0,1 ml kobbersulfat TSC[^3] og 4,4 ml vann |
 | Polysykliske syrer | Ved fraksjonert syredannelse av en nøytralisert løsning av benzosyre, må ikke første bunnfall ha et smeltepunkt som er forskjellig fra benzosyrens smeltepunkt |
 | Arsen | Ikke over 3 mg/kg |
 | Bly | Ikke over 2 mg/kg |
@@ -9004,7 +9004,7 @@ III) BASEBEARBEIDET NORBIXIN, IKKE SYREFELT
 | Kjemisk betegnelse | Kaliumnitritt |
 | Kjemisk formel | KNO2 |
 | Molekylvekt | 85,11 |
-| Innhold | Ikke under 95 % på tørrstoffbasis1 |
+| Innhold | Ikke under 95 % på tørrstoffbasis[^1] |
 | **Beskrivelse** | Hvite eller svakt gule, hygroskopiske korn |
 | **Identifikasjon** |  |
 | Nitritt-test | Positiv test |
@@ -9028,7 +9028,7 @@ III) BASEBEARBEIDET NORBIXIN, IKKE SYREFELT
 | Kjemisk betegnelse | Natriumnitritt |
 | Kjemisk formel | NaNO2 |
 | Molekylvekt | 69,00 |
-| Innhold | Ikke under 97 % på tørrstoffbasis1 |
+| Innhold | Ikke under 97 % på tørrstoffbasis[^1] |
 | **Beskrivelse** | Hvitt, krystallinsk pulver eller gulaktige klumper |
 | **Identifikasjon** |  |
 | Nitritt-test | Positiv test |
@@ -11028,7 +11028,7 @@ E 330 SITRONSYRE
 | **Beskrivelse** | Ekstrakter av rosmarin framstilles fra tørkede rosmarinblader ved acetonekstraksjon, filtrering, rensing og fordamping av løsemiddel, fulgt av tørking og sikting for å oppnå et fint pulver eller en væske. |
 | **Identifikasjon** |  |
 | Innhold av antioksiderende referanseforbindelser | ≥ 10 % w/w, uttrykt som samlet innhold av karnosinsyre og karnosol |
-| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)\* |
+| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)[^\*] |
 | **Renhet** |  |
 | Løsemiddelrester | Aceton: Ikke over 500 mg/kg |
 
@@ -11041,7 +11041,7 @@ E 330 SITRONSYRE
 | **Beskrivelse** | Ekstrakter av rosmarin framstilt ved ekstraksjon av tørkede rosmarinblader med superkritisk karbondioksid og med en liten mengde etanol som hjelpeløsemiddel. |
 | **Identifikasjon** |  |
 | Innhold av antioksiderende referanseforbindelser | ≥ 13 % w/w, uttrykt som samlet innhold av karnosinsyre og karnosol |
-| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)\* |
+| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)[^\*] |
 | **Renhet** |  |
 | Løsemiddelrester | Etanol: ikke over 2 % |
 
@@ -11054,7 +11054,7 @@ E 330 SITRONSYRE
 | **Beskrivelse** | Ekstrakter av rosmarin framstilt av deodorisert etanolekstrakt av rosmarin. Ekstraktene kan renses ytterligere, for eksempel ved behandling med aktivt karbon og/eller molekylær destillasjon. Ekstraktene kan oppløses i egnede og godkjente bærere eller forstøves. |
 | **Identifikasjon** |  |
 | Innhold av antioksiderende referanseforbindelser | ≥ 5 % w/w, uttrykt som samlet innhold av karnosinsyre og karnosol |
-| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)\* |
+| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)[^\*] |
 | **Renhet** |  |
 | Løsemiddelrester | Etanol: ikke over 500 mg/kg |
 
@@ -11067,7 +11067,7 @@ E 330 SITRONSYRE
 | **Beskrivelse** | Ekstrakter av rosmarin framstilt av deodorisert etanolekstrakt av rosmarin, som har gjennomgått heksanekstraksjon. Ekstraktene kan renses ytterligere, for eksempel ved behandling med aktivt karbon og/eller molekylær destillasjon. De kan oppløses i egnede og godkjente bærere eller forstøves. |
 | **Identifikasjon** |  |
 | Innhold av antioksiderende referanseforbindelser | ≥ 5 % w/w, uttrykt som samlet innhold av karnosinsyre og karnosol |
-| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)\* |
+| Forholdet mellom antioksidanter og flyktige forbindelser | (Samlet % w/w av karnosinsyre og karnosol) ≥ 15<br>(% w/w av viktige flyktige referanseforbindelser)[^\*] |
 | **Renhet** |  |
 | Løsemiddelrester | Heksan: ikke over 25 mg/kg<br>Etanol: ikke over 500 mg/kg |
 
@@ -14669,7 +14669,7 @@ E 330 SITRONSYRE
 
 ►**M3**
 
-**E 556 KALSIUMALUMINIUMSILIKAT**\*
+**E 556 KALSIUMALUMINIUMSILIKAT**[^\*]
 
 \* Gyldighetstid til 31. januar 2014.
 
@@ -14699,7 +14699,7 @@ E 330 SITRONSYRE
 
 ►**M3**
 
-**E 559 ALUMINIUMSILIKAT (KAOLIN)**\*
+**E 559 ALUMINIUMSILIKAT (KAOLIN)**[^\*]
 
 \* Gyldighetstid til 31. januar 2014.
 
@@ -16984,7 +16984,7 @@ E 330 SITRONSYRE
 | Løselighet | Lett løselig i vann, etanol, etylenklorid og eter. |
 | IR-spektroskopi | Skal identifiseres |
 | Europeisk fargetest (BY-farge) | Minst BY5 |
-| K-verdi\* (1 % faste stoffer i vandig løsning) | 25,2–30,8 |
+| K-verdi[^\*] (1 % faste stoffer i vandig løsning) | 25,2–30,8 |
 | pH-verdi | 3,0–7,0 (10 % vandig løsning) |
 | **Renhet** |  |
 | Vinylacetatkomponent i kopolymer | Ikke over 42,0 % |
@@ -17310,7 +17310,7 @@ E 1413 FOSFATERT DISTIVELSESFOSFAT
 | Bly | Høyst 0,03 mg/kg (på vannfri basis) (bare dersom tilsatt i næringsmidler beregnet på spedbarn og småbarn)<br>Høyst 0,2 mg/kg (på vannfri basis) (ved all bruk unntatt næringsmidler beregnet på spedbarn og småbarn) |
 | Kvikksølv | Høyst 0,05 mg/kg (på tørrstoffbasis) |
 | Kadmium | Høyst 0,01 mg/kg (på vannfri basis) (bare dersom tilsatt i næringsmidler beregnet på spedbarn og småbarn)<br>Høyst 0,1 mg/kg (på vannfri basis) (ved all bruk unntatt næringsmidler beregnet på spedbarn og småbarn) |
-| Gluten | Glutenfri, bare i morsmelkerstatninger og tilskuddsblandinger, i samsvar med delegert kommisjonsforordning [(EU) 2016/127](eu/32016r0127)\* |
+| Gluten | Glutenfri, bare i morsmelkerstatninger og tilskuddsblandinger, i samsvar med delegert kommisjonsforordning [(EU) 2016/127](eu/32016r0127)[^\*] |
 | **Mikrobiologiske kriterier** |  |
 | *Enterobacteriaceae* | Ikke påvist i 10 g (kun ved tilsetning til morsmelkerstatning i pulverform, næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder, og tilskuddsblandinger i pulverform) |
 | *Escherichia coli* | Ikke påvist i 10 g (bare dersom tilsatt i næringsmidler beregnet på spedbarn) |

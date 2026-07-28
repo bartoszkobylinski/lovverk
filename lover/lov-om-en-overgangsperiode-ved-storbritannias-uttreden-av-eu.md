@@ -15,7 +15,7 @@ xml_hash: "088e485d842042e7e6edbc806c1daae085ca97ce6fcc4f8f82cfe2b8958fd15e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,6 +38,6 @@ Kongen kan i forskrift forlenge tidsperioden fastsatt i første ledd.
 
 ## § 3. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 feb 2020 iflg. [res. 10 jan 2020 nr. 14](forskrift/2020-01-10-14).

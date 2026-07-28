@@ -15,7 +15,7 @@ xml_hash: "6990decb36555fdfcd8cb265a228bd3171e75d8dd5384e594dcbe133d94335ab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,7 @@ enhver flytende farkost, med unntakelse av en installasjon eller annen innretnin
 
 4.1
 
-stoffer som er oppført på den til enhver tid gjeldende liste fastsatt av Organisasjonen,1
+stoffer som er oppført på den til enhver tid gjeldende liste fastsatt av Organisasjonen,[^1]
 
 4.2
 

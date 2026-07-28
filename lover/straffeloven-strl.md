@@ -15,7 +15,7 @@ xml_hash: "df9b1c3fa7d6595cca59f6f3dc0ca7d79a94cc51fcf3403542ef7d401330e81d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3765,7 +3765,7 @@ Med bot eller fengsel inntil 3 år straffes den som
 1. for seg eller andre krever, mottar eller aksepterer et tilbud om en utilbørlig fordel i anledning av utøvelsen av stilling, verv eller utføringen av oppdrag, eller
 2. gir eller tilbyr noen en utilbørlig fordel i anledning av utøvelsen av stilling, verv eller utføringen av oppdrag.
 
-Med stilling, verv eller oppdrag i første ledd menes også stilling, verv eller oppdrag i utlandet.1
+Med stilling, verv eller oppdrag i første ledd menes også stilling, verv eller oppdrag i utlandet.[^1]
 
 > Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
 
@@ -3938,7 +3938,7 @@ En fordringshaver som har medvirket til overtredelse av en bestemmelse i dette k
 
 Loven trer i kraft 1. oktober 2015. Fra samme tid oppheves [straffeloven 22. mai 1902 nr. 10](lov/1902-05-22-10). Forskrifter gitt i medhold av straffeloven 1902 gjelder også etter at loven her har trådt i kraft.
 
-[Kapittel](lov/2005-05-20-28/kap16) 16 kan settes i kraft fra den tid Kongen bestemmer.1 Fra samme tid som [kapittel 16](lov/2005-05-20-28/kap16) settes i kraft, gjelder første del i straffeloven 2005 for bestemmelsene i [kapittel 16](lov/2005-05-20-28/kap16). Alminnelig del i straffeloven 1902 gjelder ikke for [kapittel 16](lov/2005-05-20-28/kap16). Fra den tid [kapittel 16](lov/2005-05-20-28/kap16) tar til å gjelde,1 gjøres følgende endringer i andre lover: – – –
+[Kapittel](lov/2005-05-20-28/kap16) 16 kan settes i kraft fra den tid Kongen bestemmer.[^1] Fra samme tid som [kapittel 16](lov/2005-05-20-28/kap16) settes i kraft, gjelder første del i straffeloven 2005 for bestemmelsene i [kapittel 16](lov/2005-05-20-28/kap16). Alminnelig del i straffeloven 1902 gjelder ikke for [kapittel 16](lov/2005-05-20-28/kap16). Fra den tid [kapittel 16](lov/2005-05-20-28/kap16) tar til å gjelde,[^1] gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), tidligere § 101, [19 juni 2009 nr. 74](lov/2009-06-19-74), tidligere § 401, [19 juni 2015 nr. 65](lov/2015-06-19-65).
 

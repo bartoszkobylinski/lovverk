@@ -15,7 +15,7 @@ xml_hash: "5b239e9c00899964328625b63e816be3622029a8e0b8f46cf3c3fb352ebee1fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017L0828"
@@ -38,7 +38,7 @@ Overskriften til avsnitt III i [kapittel 1](lov/1997-06-13-45/kap1) skal lyde:
 
 ## IV
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 2. Departementet kan gi nærmere overgangsbestemmelser.
 
 1 Fra 1. januar 2022 for del I [(aksjeloven) § 4-5](lov/1997-06-13-44/§4-5) andre ledd og del II [(allmennaksjeloven) § 1-7](lov/1997-06-13-45/§1-7), [§ 4-4](lov/1997-06-13-45/§4-4) annet og tredje ledd, [§ 4-5](lov/1997-06-13-45/§4-5) første, tredje, fjerde og femte ledd, [§ 5-11b](lov/1997-06-13-45/§5-11b), [§ 18-4](lov/1997-06-13-45/§18-4) første ledd og [§ 18-5](lov/1997-06-13-45/§18-5), iflg. [res. 17 des 2021 nr. 3657](forskrift/2021-12-17-3657).

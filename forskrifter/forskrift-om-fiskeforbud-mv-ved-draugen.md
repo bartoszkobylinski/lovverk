@@ -15,7 +15,7 @@ xml_hash: "9dc55a0b4a9484f9327daa1f5ca214b4c4b7bc2307ce95853722b32cd22c93a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,6 +52,6 @@ Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter [lov 22.
 
 ## § 4.
 
-Denne forskrift trer i kraft fra det tidspunkt departementet1 bestemmer.
+Denne forskrift trer i kraft fra det tidspunkt departementet[^1] bestemmer.
 
 1 10 mai 1993 iflg. [forskrift av 5 mai 1993 nr. 335](forskrift/1993-05-05-335).

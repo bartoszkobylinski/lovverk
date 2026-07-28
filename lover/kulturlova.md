@@ -15,7 +15,7 @@ xml_hash: "f370510a54982ba9fc977a707866866c641a8c7ad9eb00a972253d7e754217d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,6 +72,6 @@ Staten, fylkeskommunen og kommunen skal syta for
 
 ## § 6. Ikraftsetjing
 
-Kongen fastset når1 lova skal ta til å gjelda.
+Kongen fastset når[^1] lova skal ta til å gjelda.
 
 1 Frå 1 aug 2007 iflg. [res. 29 juni 2007 nr. 905](forskrift/2007-06-29-905).

@@ -15,7 +15,7 @@ xml_hash: "2179713f2e23d14389b0af8ff8e8f9847c43672b86d6b1071b4e4c5d68a1962f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,6 +48,6 @@ I [lov 20. juni 2014 nr. 43](lov/2014-06-20-43) om helseregistre og behandling a
 
 ## IX
 
-Lova tek til å gjelde frå det tidspunkt1 Kongen bestemmer. Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+Lova tek til å gjelde frå det tidspunkt[^1] Kongen bestemmer. Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
 
 1 Del III § 6, § 11 andre ledd andre punktum, § 17, § 38, § 62 andre ledd og § 74 første ledd første punktum, del IV, del V, del VI og del IX trer i kraft 1. juli 2017, iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762). Del I, del II, del III § 10a, ny § 10b, § 22 andre ledd og § 25 tredje ledd trer i kraft 1 jan 2018, iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951). Del VII endring i § 30 og VIII endring i § 30 ble opphevet ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).

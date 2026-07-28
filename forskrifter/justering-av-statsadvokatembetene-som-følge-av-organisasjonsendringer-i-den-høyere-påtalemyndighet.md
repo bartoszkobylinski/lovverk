@@ -15,7 +15,7 @@ xml_hash: "7ab1c25a5594015052e588981e4e00bdaf359cb8936f6097128ae802d183b898"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,7 +23,7 @@ eu_basis: []
 # Justering av statsadvokatembetene som følge av organisasjonsendringer i Den høyere påtalemyndighet
 
 1. Statsadvokatembetenes navn og distriktsinndeling fastsettes i samsvar med vedlegg til resolusjonen.
-2. Endringene iverksettes fra det tidspunkt1 Justis- og beredskapsdepartementet bestemmer.
+2. Endringene iverksettes fra det tidspunkt[^1] Justis- og beredskapsdepartementet bestemmer.
 
 1 Fra 1. januar 2026 iflg. vedtak [12 feb 2026 nr. 199](forskrift/2026-02-12-199).
 

@@ -15,7 +15,7 @@ xml_hash: "3d61f62a2206b1352db480fd86f28320781be254b20ffccb1d90316a9585e935"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -256,7 +256,7 @@ I dette kapittelet gjelder følgende definisjoner:
 
 2\. I dette kapittelet skal industrielt personell ikke behandles eller regnes som passasjerer.
 
-3\. Når antallet industrielt personell brukes som parameter, enten i dette kapittelet eller i IP-koden, menes det totale antallet industrielt personell, spesialpersonell1 og passasjerer som fraktes om bord, der antallet passasjerer ikke skal overstige 12.
+3\. Når antallet industrielt personell brukes som parameter, enten i dette kapittelet eller i IP-koden, menes det totale antallet industrielt personell, spesialpersonell[^1] og passasjerer som fraktes om bord, der antallet passasjerer ikke skal overstige 12.
 
 4\. Uten hensyn til bestemmelsene i regel 2.1 ovenfor, for hurtiggående fartøy som omfattes av kapittel X, og uten hensyn til bestemmelsene i kapittel 2 til 12 og 18 i HSC-koden, skal et skip som er sertifisert i samsvar med kravene i dette kapittelet og IP-koden, anses å ha oppfylt kravene i kapittel 2 til 12 og 18 i HSC-koden.
 
@@ -270,7 +270,7 @@ I dette kapittelet gjelder følgende definisjoner:
 
 3\. Hurtiggående lasteskip som er bygget før 1. juli 2024 og godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen, skal oppfylle bestemmelsene i regel III/1, III/2 (unntatt nr. 2.1.7), V/7 og V/8 i IP-koden innen det tredje periodiske tilsynet eller det første fornyelsestilsynet, alt etter hva som kommer først, etter 1. juli 2024.
 
-4\. Lasteskip og hurtiggående lasteskip, uansett byggedato, som før 1. juli 2024 ikke er godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen,2 skal oppfylle og være sertifisert i henhold til bestemmelsene i dette kapittelet og IP-koden før de kan frakte mer enn 12 industrielt personell.
+4\. Lasteskip og hurtiggående lasteskip, uansett byggedato, som før 1. juli 2024 ikke er godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen,[^2] skal oppfylle og være sertifisert i henhold til bestemmelsene i dette kapittelet og IP-koden før de kan frakte mer enn 12 industrielt personell.
 
 2 Det vises til «Interim recommendations on the safe carriage of more than 12 industrial personnel on board vessels engaged on international voyages» (resolusjon MSC.418(97)).
 
@@ -527,7 +527,7 @@ For å oppfylle funksjonskravene i nr. II/1.2.2 skal alt industrielt personell v
 
 1.3
 
-For å oppfylle funksjonskravene i nr. II/1.2.3 skal alt industrielt personell ha fått opplæring eller instruksjoner på følgende områder før de går om bord på skipet:1
+For å oppfylle funksjonskravene i nr. II/1.2.3 skal alt industrielt personell ha fått opplæring eller instruksjoner på følgende områder før de går om bord på skipet:[^1]
 
 1. overlevelse til sjøs, som inkluderer å
 
@@ -567,11 +567,11 @@ For å oppfylle funksjonskravet i nr. II/2.2.1 gjelder følgende:
 7. Anordningene for personelloverføring, vannet under anordningene og passasjen som nevnt i nr. .6 over skal ha belysning som kan forsynes med strøm fra nødkraftkilden.
 8. Dekkområdet der personelloverføring finner sted, skal være øremerket for dette og holdes fritt for hindringer.
 9. Det må utføres en «sikker jobb»-analyse når det planlegges, og før det utføres, personelloverføring til havs. Analysen skal ta hensyn til miljømessige forhold samt operasjonelle og utstyrsmessige begrensninger.
-10. Ved planlegging av personelloverføring bør det tas hensyn til veiledningen utarbeidet av organisasjonen2 eller annen relevant veiledning3 som administrasjonen aksepterer.
+10. Ved planlegging av personelloverføring bør det tas hensyn til veiledningen utarbeidet av organisasjonen[^2] eller annen relevant veiledning[^3] som administrasjonen aksepterer.
 
 2.2
 
-For å oppfylle funksjonskravet i nr. II/2.2.2 skal anordninger for personelloverføring være utformet, konstruert, testet og installert i samsvar med standarder4 som administrasjonen aksepterer, eller krav fra et klasseselskap som er anerkjent av administrasjonen i samsvar med bestemmelsene i SOLAS kapittel XI-1 regel 1.
+For å oppfylle funksjonskravet i nr. II/2.2.2 skal anordninger for personelloverføring være utformet, konstruert, testet og installert i samsvar med standarder[^4] som administrasjonen aksepterer, eller krav fra et klasseselskap som er anerkjent av administrasjonen i samsvar med bestemmelsene i SOLAS kapittel XI-1 regel 1.
 
 2.3
 
@@ -579,7 +579,7 @@ I tillegg gjelder følgende:
 
 1. Utformingen av anordningene for personelloverføring skal passe til anordningen på skipet.
 2. Det skal foretas en analyse for å vurdere svikt i IP-overføringsanordningene og alle tilknyttede systemer som kan svekke tilgjengeligheten av overføringsanordningene og/eller sette involverte personers sikkerhet i fare.
-   Analysen5 skal
+   Analysen[^5] skal
 
    1. vurdere konsekvensen av svikt i alt utstyr og alle systemer på grunn av enkeltfeil, brann i et rom eller oversvømmelse i et vanntett rom som kan påvirke tilgangen på overføringsanordninger
    2. finne løsninger for å sørge for at IP-overføringsanordningene er tilgjengelige, og at sikkerheten til alle involverte ivaretas ved svikt som nevnt i nr. .1.
@@ -705,7 +705,7 @@ For å oppfylle funksjonskravene i nr. II/9.2 gjelder følgende:
 
 8.4.1
 
-For å oppfylle funksjonskravene i nr. II/9.2 skal skip som frakter farlige flytende kjemikalier og/eller flytende gasser som bulklast samtidig med industrielt personell, enten være sertifisert i samsvar med kravene i SOLAS kapittel VII del B eller C eller oppfylle kravene og være sertifisert i samsvar med en standard som ikke har lavere kravnivå enn den organisasjonen har utviklet.6 I tillegg gjelder følgende:
+For å oppfylle funksjonskravene i nr. II/9.2 skal skip som frakter farlige flytende kjemikalier og/eller flytende gasser som bulklast samtidig med industrielt personell, enten være sertifisert i samsvar med kravene i SOLAS kapittel VII del B eller C eller oppfylle kravene og være sertifisert i samsvar med en standard som ikke har lavere kravnivå enn den organisasjonen har utviklet.[^6] I tillegg gjelder følgende:
 
 1. Frakt av giftige stoffer, stoffer med lavt flammepunkt eller syrer skal ikke være tillatt når det totale antallet personer om bord er høyere enn 60.
 2. Områder og rom i skipet der industrielt personell ikke har adgang, skal være tydelig merket når industrielt personell føres om bord.

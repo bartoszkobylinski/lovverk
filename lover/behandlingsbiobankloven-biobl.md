@@ -15,7 +15,7 @@ xml_hash: "af0d6be0b8af9659c941c2e52ff06e720b5f3bbcfab07d9d9a60f31964169128"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -213,7 +213,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om plikten til forsikring
 
 ### § 20. Ikraftsetting
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2003 iflg. [res. 23 mai 2003 nr. 625](forskrift/2003-05-23-625).
 

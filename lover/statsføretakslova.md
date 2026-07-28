@@ -15,7 +15,7 @@ xml_hash: "8ad6d0ad5477750869089723b23769d69824a6317258194f9735508d285a0ace"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -690,7 +690,7 @@ Rettargangsreglane i [aksjeloven § 18-1](lov/1997-06-13-44/§18-1) og [§ 18-3]
 
 ### § 10-1. Ikraftsetjing
 
-(1) Lova gjeld frå den tida1 Kongen fastset. Kongen kan setje føresegnene i kraft til ulik tid.
+(1) Lova gjeld frå den tida[^1] Kongen fastset. Kongen kan setje føresegnene i kraft til ulik tid.
 
 (2) Frå den tida lova tek til å gjelde, blir [lov 30. august 1991 nr. 71 om statsforetak](lov/1991-08-30-71) oppheva.
 

@@ -15,7 +15,7 @@ xml_hash: "8d53e843a3024d8cdd72c98af30fee658e24c34c22d2cc22f70cf7d2ed806886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -849,7 +849,7 @@ Departementet gir forskrift om fastsetting av barnepensjon etter bestemmelsen he
 
 Pensjonskassens årlige utgifter utredes av medlemmenes innskott og avkastningen av Pensjonskassens fond med det nødvendige tilskott av staten.
 
-Pensjonskassens fond skal opprettholdes med det beløp som pensjonsfondene for Statens pensjonskasse, Pensjonskassen for Statens Tjenestemenn og Den Norske Enkekasse1 tilsammen utgjør ved denne lovs ikrafttreden.
+Pensjonskassens fond skal opprettholdes med det beløp som pensjonsfondene for Statens pensjonskasse, Pensjonskassen for Statens Tjenestemenn og Den Norske Enkekasse[^1] tilsammen utgjør ved denne lovs ikrafttreden.
 
 > Endret ved lover 8 juni 1973 nr. 54, [21 mai 1982 nr. 27](lov/1982-05-21-27), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011).
 

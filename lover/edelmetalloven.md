@@ -15,7 +15,7 @@ xml_hash: "9326f79fa9c12ddb653d7eb78434ce3de8a983f86f7d69cc40e9c09d91d71e86"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,7 +124,7 @@ Ved forsinket betaling skal det betales rente i henhold til [lov 17. desember 19
 
 ## § 12. Ikrafttredelse og overgangsbestemmelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves
+Loven gjelder fra den tid Kongen bestemmer.[^1] Fra samme tid oppheves
 
 - [lov 6. juni 1891 nr. 2](lov/1891-06-06-2) om Guld-, Sølv- og Platinavarers Finhed og Stempling m.v.
 - [lov 22. mai 1902 nr. 10](lov/1902-05-22-10) Almindelig borgerlig Straffelov [§ 375](lov/1902-05-22-10/§375).

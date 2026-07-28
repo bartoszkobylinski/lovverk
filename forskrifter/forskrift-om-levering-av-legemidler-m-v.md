@@ -15,7 +15,7 @@ xml_hash: "05dd51a44aa0894122afdb8f8c381b0821e780de289dba17a0d79204cd48ef88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Lege eller veterinær som har fått tillatelse til å levere legemidler, forbind
 
 ## § 2.
 
-Legemidlene skal rekvireres i ferdig tilberedt stand, i pakning beregnet for den enkelte forbruker. Hver enkelt pakning skal fra apotekets side være merket og signert i overensstemmelse med forskrifter om rekvirering og utlevering av legemidler fra apotek av 19. februar 1965,1 bortsett fra den signering m.v. som legen (veterinæren) skal foreta i henhold til disse forskrifters [§ 4](forskrift/1976-03-17-9444/§4).
+Legemidlene skal rekvireres i ferdig tilberedt stand, i pakning beregnet for den enkelte forbruker. Hver enkelt pakning skal fra apotekets side være merket og signert i overensstemmelse med forskrifter om rekvirering og utlevering av legemidler fra apotek av 19. februar 1965,[^1] bortsett fra den signering m.v. som legen (veterinæren) skal foreta i henhold til disse forskrifters [§ 4](forskrift/1976-03-17-9444/§4).
 
 1 Nå [forskrift 19. februar 1986 nr. 1086](forskrift/1986-02-19-1086).
 
@@ -40,7 +40,7 @@ Legemidler som er merket «Oppbevares kjølig» bør oppbevares i kjeller. Legem
 
 ## § 4.
 
-Ved utlevering av legemidler som bare skal utleveres mot resept (jfr. forskrifter om rekvirering og utlevering av legemidler fra apotek av 19. februar 1965) skal legen (veterinæren) sørge for at legemidlet blir forsynt med signatur som angir pasientens (dyreeierens) navn, bruksanvisning, dato for utlevering samt legens (veterinærens) navn. Det skal til dette nyttes hvit signatur. For injeksjoner skal det være rød diagonalstrek fra nederste venstre hjørne på signaturen.1
+Ved utlevering av legemidler som bare skal utleveres mot resept (jfr. forskrifter om rekvirering og utlevering av legemidler fra apotek av 19. februar 1965) skal legen (veterinæren) sørge for at legemidlet blir forsynt med signatur som angir pasientens (dyreeierens) navn, bruksanvisning, dato for utlevering samt legens (veterinærens) navn. Det skal til dette nyttes hvit signatur. For injeksjoner skal det være rød diagonalstrek fra nederste venstre hjørne på signaturen.[^1]
 
 1 Ved endring av § 13 i forskrifter om rekvirering og utlevering av legemidler fra apotek av 19. februar 1965 er bestemmelsen om rød diagonalstrek opphevet.
 

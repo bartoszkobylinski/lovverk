@@ -15,7 +15,7 @@ xml_hash: "eb29d3d9c4f4c7397f41c4a295e9e997e18d1b99617bf1669d11e908af3d1ca6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,7 @@ Tilkjende sakskostnader kan drivast inn med tvang etter reglane for dommar.
 
 ## § 10. Ikraftsetjings- og overgangsreglar
 
-Lova gjeld frå den tid Kongen fastset.1 Frå same tid som lova trer i kraft, blir [lov 2. juli 1910 nr. 7](lov/1910-07-02-7) om Styret for det industrielle Retsvern oppheva.
+Lova gjeld frå den tid Kongen fastset.[^1] Frå same tid som lova trer i kraft, blir [lov 2. juli 1910 nr. 7](lov/1910-07-02-7) om Styret for det industrielle Retsvern oppheva.
 
 [§§ 7](lov/2012-06-22-58/§7) og [9](lov/2012-06-22-58/§9) gjeld berre for saker der søknaden, motsegna eller kravet om administrativ overprøving eller administrativ patentavgrensing m.m. blei levert etter at denne lova tok til å gjelde. Kongen kan gi nærmare overgangsreglar.
 

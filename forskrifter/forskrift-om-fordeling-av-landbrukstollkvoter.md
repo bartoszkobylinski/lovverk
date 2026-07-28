@@ -15,7 +15,7 @@ xml_hash: "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -416,19 +416,19 @@ Dersom det er gitt preferanse i tollavgiftssatsen i henhold til frihandelsavtale
 | *I*<br>*Produkt* | *II*<br>*Tolltariffens<br>varenummer* | *III*<br>*Tollavgiftssats<br>(kr/kg)* | *IV*<br>*Mengde<br>(tonn)* | *V*<br>*Kvoteperiode* | *VI*<br>*Import-<br>land* | *VII*<br>*Fordeling* | *VIII*<br>*Avtale* | *IX*<br>*Note* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Islandshest | 01.01.2100/<br>.2902/<br>.2908 | 0.00 | 200 stk. | Kalenderåret | Island | S | [EØS-avtalen](lov/1992-11-27-109/eøsl) |  |
-| Levende rein til slakt og kjøtt av rein, hele/halve skrotter | 01.06.1910/<br>02.08.9021 |  |  | 1.10–30.6 | Alle land | A1 |  | 1 |
+| Levende rein til slakt og kjøtt av rein, hele/halve skrotter | 01.06.1910/<br>02.08.9021 |  |  | 1.10–30.6 | Alle land | A1 |  | [^1] |
 | Kjøtt til messer og lignende | Kap. 2 og 16 | 2,40 | 35 | Kalenderåret | WTO | S | WTO-avtalen |  |
 | Kosherslaktet kjøtt | Kap. 2 og 16 |  | 15 | Kalenderåret |  | S |  |  |
 | Halalslaktet kjøtt (slaktet uten bedøvelse) | Kap. 2 og 16 |  | 150 | Kalenderåret |  | S |  |  |
-| Kjøtt av storfe | Pos. 02.01. og 02.02. | 0.00 | 500 | Kalenderåret | Namibia og Botswana | A2 | WTO-avtalen/<br>frihandelsavtaler | 2 |
+| Kjøtt av storfe | Pos. 02.01. og 02.02. | 0.00 | 500 | Kalenderåret | Namibia og Botswana | A2 | WTO-avtalen/<br>frihandelsavtaler | [^2] |
 | Kjøtt av storfe | 02.01.1000/.2001/<br>.2002/.2003/<br>.2004/<br>02.02.1000/.2001/<br>.2002/.2003/<br>.2004 | 0.00 | 2 500 | Kalenderåret | EU | A2 | [EØS-avtalen](lov/1992-11-27-109/eøsl) (2010 og 2017) |  |
-| Kjøtt av storfe | 02.02.1000/.2001/<br>.2002/.2003/<br>.2004<br>02.02.2008<br>02.02.3001/.3009 | 9,11<br>18,75<br>33,60 | 1 084 | Kalenderåret | WTO | A2 | WTO-avtalen | 2 |
+| Kjøtt av storfe | 02.02.1000/.2001/<br>.2002/.2003/<br>.2004<br>02.02.2008<br>02.02.3001/.3009 | 9,11<br>18,75<br>33,60 | 1 084 | Kalenderåret | WTO | A2 | WTO-avtalen | [^2] |
 | Kjøtt av svin | 02.03.1101/.2101 | 0.00 | 600 | Kalenderåret | EU | A2 | [EØS-avtalen](lov/1992-11-27-109/eøsl) (2010) |  |
 | Kjøtt av svin | 02.03.1101/.2101 | 0.00 | 100 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
 | Kjøtt av svin | 02.03.2101 | 6,96 | 1 381 | Kalenderåret | WTO | A2 | WTO-avtalen |  |
 | Ribbe av svin | 02.03.1904 | 15,00 | 300 | 1.12.–31.12. | EU | A2 | [EØS-avtalen](lov/1992-11-27-109/eøsl) (2017) |  |
 | Ribbe av svin | 02.03.1904 | 0.00 | 50 | 1.12.–31.12. | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
-| Kjøtt av sauer eller geiter | 02.04.1000/.3000<br>02.04.2100/.4100<br>02.04.2200/.4200<br>02.04.4300<br>02.04.5000 | 12,23<br>9,09<br>32,10<br>28,97<br>14,01 | 206 | Kalenderåret | WTO | A2 | WTO-avtalen | 2 |
+| Kjøtt av sauer eller geiter | 02.04.1000/.3000<br>02.04.2100/.4100<br>02.04.2200/.4200<br>02.04.4300<br>02.04.5000 | 12,23<br>9,09<br>32,10<br>28,97<br>14,01 | 206 | Kalenderåret | WTO | A2 | WTO-avtalen | [^2] |
 | Lever av svin | 02.06.4100 | 5,00 | 350 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010) |  |
 | Lever av svin | 02.06.4100 | 0.00 | 60 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
 | Kjøtt av høns og kalkuner | 02.07.1100/.1200/<br>.2400/.2500 | 0.00 | 950 | Kalenderåret | EU | A2 | [EØS-avtalen](lov/1992-11-27-109/eøsl) (2010 og 2017) |  |
@@ -438,9 +438,9 @@ Dersom det er gitt preferanse i tollavgiftssatsen i henhold til frihandelsavtale
 | Kjøtt av ender, gjess og perlehøns | 02.07.4200/.5200/ex.6010 | 13,67 | 221 | Kalenderåret | WTO | A2 | WTO-avtalen |  |
 | Bryst av ender | 02.07.4401 | 30,00 | 200 | Kalenderåret | EU | A2 | [EØS-avtalen](lov/1992-11-27-109/eøsl) (2010 og 2017) |  |
 | Kjøtt av annet vilt | 02.03.1109/.1209/<br>.1909/.2109/.2209/<br>.2909<br>02.08.1000/.9030/<br>.9094/<br>ex.9099 | 0,60 | 250 | Kalenderåret | WTO | A2 | WTO-avtalen/<br>frihandelsavtaler |  |
-| Kjøtt av elg | 02.08.9043/.9044/<br>.9045 | 0,60 | 100 | Kalenderåret | WTO | A2 | WTO-avtalen/<br>frihandelsavtaler | 3 |
-| Kjøtt av hjort | 02.08.9046/.9047/<br>.9048 | 0,60 | 200 | Kalenderåret | WTO | A2 | WTO-avtalen/<br>frihandelsavtaler | 3 |
-| Kjøtt av svin | 02.10.1101<br>02.10.1109<br>02.10.1900 | 0.00 | 600 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003, 2010 og 2017) | 10 |
+| Kjøtt av elg | 02.08.9043/.9044/<br>.9045 | 0,60 | 100 | Kalenderåret | WTO | A2 | WTO-avtalen/<br>frihandelsavtaler | [^3] |
+| Kjøtt av hjort | 02.08.9046/.9047/<br>.9048 | 0,60 | 200 | Kalenderåret | WTO | A2 | WTO-avtalen/<br>frihandelsavtaler | [^3] |
+| Kjøtt av svin | 02.10.1101<br>02.10.1109<br>02.10.1900 | 0.00 | 600 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003, 2010 og 2017) | [^10] |
 | Kjøtt av svin | 02.10.1101<br>02.10.1109<br>02.10.1900 | 0.00 | 100 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
 | Tørket storfekjøtt | 02.10.2000 | 0.00 | 10 | Kalenderåret | EFTA | A2 | Avtale med EFTA |  |
 | Smør | 04.05.1000 | 3,32 | 575 | Kalenderåret | WTO | A2 | WTO-avtalen |  |
@@ -451,10 +451,10 @@ Dersom det er gitt preferanse i tollavgiftssatsen i henhold til frihandelsavtale
 | Hønseegg | 04.07.1100/.2100<br>Ex 04.07.9000 | 0.00 | 290 | Kalenderåret | EU | A2 | Avtale med EF |  |
 | Hønseegg | 04.07.2100 | 3,78 | 1 295 | Kalenderåret | WTO | A2 | WTO-avtalen |  |
 | Hønseegg | 04.07.1100/.2100<br>Ex 04.07.9000 | 0.00 | 48 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
-| Honning | 04.09.0000 | 0.00 | 192 | Kalenderåret | GSP | A2 |  | 4 |
+| Honning | 04.09.0000 | 0.00 | 192 | Kalenderåret | GSP | A2 |  | [^4] |
 | Matpoteter | 07.01.9022 | 0.00 | 2 500 | 1.4–14.5 | EU | A4 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010) |  |
 | Matpoteter | 07.01.9022 | 0.00 | 1 000 | 1.4–14.5 | GB | A4 | Frihandelsavtale med Storbritannia (2021) |  |
-| Matpoteter | Ex. 07.01.9028 | 0.00 | 1 310 | 1.12–14.5 | Egypt | A3 | Frihandelsavtale | 5 |
+| Matpoteter | Ex. 07.01.9028 | 0.00 | 1 310 | 1.12–14.5 | Egypt | A3 | Frihandelsavtale | [^5] |
 | Hvitkål | 07.04.9013/.9020 | 1,43 | 134 | Kalenderåret | WTO | A2 | WTO-avtalen |  |
 | Rødkål | 07.04.9040 | 0,72 | 134 | Kalenderåret | WTO | A2 | WTO-avtalen |  |
 | Issalat, herunder isbergsalat, til industriformål | 07.05.1112/.1119 | 0.00 | 500 | 1.3–31.5 | EU | A4 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010 og 2017) |  |
@@ -480,10 +480,10 @@ Dersom det er gitt preferanse i tollavgiftssatsen i henhold til frihandelsavtale
 | Mais, til dyrefôr | 10.05.9010 | 0.00 | 3 000 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
 | Gryn, grovt mel og pelleter av mais, til dyrefôr | 11.03.1310 | 0.00 | 10 000 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010) |  |
 | Gryn, grovt mel og pelleter av mais, til dyrefôr | 11.03.1310 | 0.00 | 2 000 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
-| Matkorn | 10.01.1900/.9909<br>10.02.9000<br>10.08.4000/.5000/<br>.6000<br>10.08.9000 |  |  | 1.9.–31.8. | Alle land | A5 |  | 6, 7 |
-| Matkorn til beredskap | 10.01.9909 |  |  | 01.10–31.08 | Alle land | B |  | 6, 11 |
-| Råvarer til kraftfôr | 07.13.1001<br>10.01.9909<br>10.02.9000<br>10.03.9000<br>10.04.9000<br>10.05.9010<br>10.07.9010<br>11.03.1310<br>12.14.1000<br>15.20.0010<br>17.03.1010/.9010<br>23.02.1010/.3000/<br>.4090 23.03.2010 |  |  | 1.9.–31.8. | Alle land | A5 |  | 6, 7 |
-| Oljefrø | 12.01.9010<br>12.05.1010/.9010 |  |  | 01.09–31.08. | Alle land | A5 |  | 6, 7 |
+| Matkorn | 10.01.1900/.9909<br>10.02.9000<br>10.08.4000/.5000/<br>.6000<br>10.08.9000 |  |  | 1.9.–31.8. | Alle land | A5 |  | [^6], [^7] |
+| Matkorn til beredskap | 10.01.9909 |  |  | 01.10–31.08 | Alle land | B |  | [^6], [^11] |
+| Råvarer til kraftfôr | 07.13.1001<br>10.01.9909<br>10.02.9000<br>10.03.9000<br>10.04.9000<br>10.05.9010<br>10.07.9010<br>11.03.1310<br>12.14.1000<br>15.20.0010<br>17.03.1010/.9010<br>23.02.1010/.3000/<br>.4090 23.03.2010 |  |  | 1.9.–31.8. | Alle land | A5 |  | [^6], [^7] |
+| Oljefrø | 12.01.9010<br>12.05.1010/.9010 |  |  | 01.09–31.08. | Alle land | A5 |  | [^6], [^7] |
 | Svingelfrø | 12.09.2300 | 0.00 | 75 | Kalenderåret | EU | A2 | Avtale med EF |  |
 | Svingelfrø til plenformål | 12.09.2300 | 0.00 | 400 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010) |  |
 | Engrappfrø | 12.09.2400 | 0.00 | 50 | Kalenderåret | EU | A2 | Avtale med EF |  |
@@ -496,18 +496,18 @@ Dersom det er gitt preferanse i tollavgiftssatsen i henhold til frihandelsavtale
 | Pølser | 16.01.0000 | 0.00 | 10 | Kalenderåret | EFTA | A2 | Avtale med EFTA |  |
 | Pølser | 16.01.0000 | 0.00 | 600 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003, 2010 og 2017) |  |
 | Pølser | 16.01.0000 | 0.00 | 120 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
-| Kalkunrullade | 16.02.3101 | 12,5 % | 20 | Kalenderåret | WTO | A2 | WTO-avtalen | 8 |
+| Kalkunrullade | 16.02.3101 | 12,5 % | 20 | Kalenderåret | WTO | A2 | WTO-avtalen | [^8] |
 | Kalkunrullade | 16.02.3101 | 0.00 | 20 | Kalenderåret | Israel | A2 | Frihandelsavtale med Israel (2021) |  |
-| Hermetisk skinke av svin og tunge av storfe | Ex. 16.02.4100 ex.<br>16.02.5009 | 0.00 | 150 | Kalenderåret | GSP | A2 |  | 4 |
+| Hermetisk skinke av svin og tunge av storfe | Ex. 16.02.4100 ex.<br>16.02.5009 | 0.00 | 150 | Kalenderåret | GSP | A2 |  | [^4] |
 | Bacon Crisp | 16.02.4910 | 0.00 | 350 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010) |  |
 | Bacon Crisp | 16.02.4910 | 0.00 | 40 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
 | Kjøttboller | 16.02.5001 | 0.00 | 200 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010) |  |
-| Corned beef | Ex. 16.02.5009 | 0.00 | 200 | Kalenderåret | GSP | A2 |  | 4, 9 |
-| Melasse til dyrefôr | 17.03.1010<br>17.03.9010 | 0.00 | 40 000 | Kalenderåret | GSP | A2 |  | 4 |
+| Corned beef | Ex. 16.02.5009 | 0.00 | 200 | Kalenderåret | GSP | A2 |  | [^4], [^9] |
+| Melasse til dyrefôr | 17.03.1010<br>17.03.9010 | 0.00 | 40 000 | Kalenderåret | GSP | A2 |  | [^4] |
 | Poteter, halvfabrikata til fremstilling av snacks | 20.05.2091 | 0.00 | 3 000 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010) |  |
 | Poteter, halvfabrikata til fremstilling av snacks | 20.05.2091 | 0.00 | 650 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |
-| Hermetiske erter, snittebønner og brekkbønner | 20.05.4003/.4009<br>ex. 20.05.5901 | 0.00 | 350 | Kalenderåret | GSP | A6 |  | 4 |
-| Hermetiske grønnsaksblandinger | Ex. 20.05.9908 | 0.00 | 150 | Kalenderåret | GSP | A6 |  | 4 |
+| Hermetiske erter, snittebønner og brekkbønner | 20.05.4003/.4009<br>ex. 20.05.5901 | 0.00 | 350 | Kalenderåret | GSP | A6 |  | [^4] |
+| Hermetiske grønnsaksblandinger | Ex. 20.05.9908 | 0.00 | 150 | Kalenderåret | GSP | A6 |  | [^4] |
 | Konsentrert eplesaft, til bearbeidings- industrien | 20.09.7900 | 0.00 | 400 | Kalenderåret | EFTA | A2 | Avtale med EFTA |  |
 | Eplesaft, også konsentrert, til bearbeidings-<br>industrien | 20.09.7100/.7900 | 0.00 | 3 300 | Kalenderåret | EU | A2 | [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010) |  |
 | Eplesaft, også konsentrert, til bearbeidings-<br>industrien | 20.09.7100/.7900 | 0.00 | 100 | Kalenderåret | GB | A2 | Frihandelsavtale med Storbritannia (2021) |  |

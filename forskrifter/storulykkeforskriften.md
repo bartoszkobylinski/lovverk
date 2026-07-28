@@ -15,7 +15,7 @@ xml_hash: "be0d2349b539f52b87b9c12ac857286ed30c99c670b46185db43660cdc000f6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -279,7 +279,7 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 | *Kolonne 1* |  | *Kolonne 2* | *Kolonne 3* |
 | --- | --- | --- | --- |
 |  |  | *Mengdegrense (i tonn) for* |  |
-| *Farlige kjemikalier* | *CAS-nummer*1 | *Meldepliktig*<br>*virksomhet,*<br>*jf. [§ 6](forskrift/2016-06-03-569/§6)* | *Sikkerhetsrapport-*<br>*pliktig*<br>*virksomhet,*<br>*jf. [§ 9](forskrift/2016-06-03-569/§9)* |
+| *Farlige kjemikalier* | *CAS-nummer*[^1] | *Meldepliktig*<br>*virksomhet,*<br>*jf. [§ 6](forskrift/2016-06-03-569/§6)* | *Sikkerhetsrapport-*<br>*pliktig*<br>*virksomhet,*<br>*jf. [§ 9](forskrift/2016-06-03-569/§9)* |
 | 1. Ammoniumnitrat (se merknad 13) | – | 5 000 | 10 000 |
 | 2. Ammoniumnitrat (se merknad 14) | – | 1 250 | 5 000 |
 | 3. Ammoniumnitrat (se merknad 15) | – | 350 | 2 500 |
@@ -320,7 +320,7 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 | 38. Piperidin | 110-89-4 | 50 | 200 |
 | 39. Bis(2-dimetylaminoetyl)(metyl)amin | 3030-47-5 | 50 | 200 |
 | 40. 3-(2-etylheksyloksy)propylamin | 5397-31-9 | 50 | 200 |
-| 41. Blandinger\* av natriumhypokloritt klassifisert som farlig for vannmiljøet, akutt kategori 1 [H400], som inneholder mindre enn 5 % aktivt klor og som ikke er klassifisert under noen av de andre farekategoriene i del 1 i vedlegg I. |  | 200 | 500 |
+| 41. Blandinger[^\*] av natriumhypokloritt klassifisert som farlig for vannmiljøet, akutt kategori 1 [H400], som inneholder mindre enn 5 % aktivt klor og som ikke er klassifisert under noen av de andre farekategoriene i del 1 i vedlegg I. |  | 200 | 500 |
 | 42. Propylamin (se merknad 21) | 107-10-8 | 500 | 2 000 |
 | 43. Tertbutylakrylat (se merknad 21) | 1663-39-4 | 200 | 500 |
 | 44. 2-metyl-3-butennitril (se merknad 21) | 16529-56-9 | 500 | 2 000 |
@@ -365,16 +365,16 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 - For farlige kjemikalier med egenskaper som innebærer klassifisering i mer enn én kategori, skal kategorien med lavest mengdegrense benyttes. Ved anvendelsen av regelen i merknad 4 skal imidlertid den laveste mengdegrensen for hver gruppe av kategorier i merknad 4a), 4b) og 4c) for den aktuelle klassifiseringen benyttes.
 - Farlige kjemikalier som inngår i fareklassen Akutt giftighet, kategori 3, gjennom munnen (H 301) skal falle inn under nr. H2 AKUTT GIFTIGHET i de tilfeller der de ikke kan klassifiseres verken ut fra akutt giftighet ved innånding eller akutt giftighet ved hudkontakt, eksempelvis fordi det mangler entydige data om giftighet ved innånding eller hudkontakt.
 - Farekategori eksplosive varer omfatter eksplosive produkter (se avsnitt 2.1 i vedlegg I til forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) Dersom mengden av det eksplosive stoffet eller den eksplosive stoffblandingen som inngår i produktet er kjent, skal det tas hensyn til denne mengden for denne forskriftens formål. Dersom mengden av det eksplosive stoffet eller den eksplosive stoffblandingen som inngår i produktet, ikke er kjent, skal hele produktet anses som eksplosiv vare for denne forskriftens formål.
-- Det er bare nødvendig å teste stoffers og stoffblandingers eksplosive egenskaper dersom framgangsmåten ved kartlegging i henhold til tillegg 6, del 3 i FNs anbefalinger for transport av farlig gods: forsøkshåndbøker og kriterier1 viser at stoffet eller stoffblandingen kan ha eksplosive egenskaper.
+- Det er bare nødvendig å teste stoffers og stoffblandingers eksplosive egenskaper dersom framgangsmåten ved kartlegging i henhold til tillegg 6, del 3 i FNs anbefalinger for transport av farlig gods: forsøkshåndbøker og kriterier[^1] viser at stoffet eller stoffblandingen kan ha eksplosive egenskaper.
 - Dersom eksplosive varer i faregruppe 1.4 pakkes ut eller ompakkes, skal de klassifiseres i nr. P1a dersom det ikke kan vises at faren fortsatt tilsvarer faregruppe 1.4 i henhold til forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
-- Brannfarlige aerosoler klassifiseres i samsvar med [forskrift 1. mars 1996 nr. 229](forskrift/1996-03-01-229) om aerosolbeholdere.2 «Ekstremt brannfarlige» og «brannfarlige» aerosoler i henhold til direktiv [75/324/EØF](eu/31975l0324) tilsvarer brannfarlige aerosoler i kategori 1 og 2 i forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
+- Brannfarlige aerosoler klassifiseres i samsvar med [forskrift 1. mars 1996 nr. 229](forskrift/1996-03-01-229) om aerosolbeholdere.[^2] «Ekstremt brannfarlige» og «brannfarlige» aerosoler i henhold til direktiv [75/324/EØF](eu/31975l0324) tilsvarer brannfarlige aerosoler i kategori 1 og 2 i forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
 - For å kunne benytte denne må det dokumenteres at aerosolbeholderen ikke inneholder brannfarlige gasser i kategori 1 eller 2 eller brannfarlige væsker i kategori 1.
 - I henhold til nr. 2.6.4.5 i vedlegg I til [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) behøver væsker med et flammepunkt over 35 °C ikke å klassifiseres i kategori 3 dersom det er oppnådd negative resultater i L.2-forsøket med vedvarende forbrenning, beskrevet i del III, avsnitt 32 i FNs forsøkshåndbøker og kriterier. Dette gjelder imidlertid ikke ved endrede forhold slik som høy temperatur eller høyt trykk, og slike væsker inngår derfor i denne.
 - Ammoniumnitrat (5 000/10 000): gjødsel som er i stand til selvoppholdende nedbryting.
 
   Dette gjelder blandet/sammensatt gjødsel basert på ammoniumnitrat (blandet/sammensatt gjødsel inneholder ammoniumnitrat med fosfat og/eller kalium) som er i stand til selvoppholdende nedbryting i henhold til FNs trau-test (FNs forsøkshåndbøker og kriterier, del III punkt 38.2), og der nitrogeninnholdet som følge av ammoniumnitrat er
 
-  - mellom 15,753 og 24,54 vektprosent, og et samlet innhold stoffer som kan forbrennes/organiske stoffer som enten ikke overstiger 0,4 %, eller som oppfyller kravene i vedlegg III-2 til europaparlaments- og rådsdirektiv (EF) [nr. 2003/2003](eu/32003r2003) av 13. oktober 2003 om gjødsel,5
+  - mellom 15,75[^3] og 24,5[^4] vektprosent, og et samlet innhold stoffer som kan forbrennes/organiske stoffer som enten ikke overstiger 0,4 %, eller som oppfyller kravene i vedlegg III-2 til europaparlaments- og rådsdirektiv (EF) [nr. 2003/2003](eu/32003r2003) av 13. oktober 2003 om gjødsel,[^5]
   - 15,75 vektprosent eller mindre, og ingen begrensning av brannfarlige materialer.
 - Ammoniumnitrat (1 250/5 000): gjødselkvalitet
 
@@ -382,7 +382,7 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 
   - høyere enn 24,5 vektprosent, bortsett fra blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %,
   - høyere enn 15,75 vektprosent for blandinger av ammoniumnitrat og ammoniumsulfat,
-  - høyere enn 286 vektprosent for blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %.
+  - høyere enn 28[^6] vektprosent for blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %.
 - Ammoniumnitrat (350/2 500): teknisk kvalitet
 
   Dette gjelder ammoniumnitrat og blandinger av ammoniumnitrat der innholdet av nitrogen som følge av ammoniumnitrat er

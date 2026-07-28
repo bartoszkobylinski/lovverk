@@ -15,7 +15,7 @@ xml_hash: "c1c4fcc184bc64ce3386631d105841ad08227b9ebb1316a6bd51e254dad91004"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 *Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).*
 
-## § 1. Definisjoner1
+## § 1. Definisjoner[^1]
 
 I denne forskrift betyr:
 
@@ -98,7 +98,7 @@ L = største lengde i meter.
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 2. Anvendelse1
+## § 2. Anvendelse[^1]
 
 Denne forskrift gjelder for nytt fiske- og fangstfartøy med største lengde på 10,67 meter (35 engelske fot) og derover.
 
@@ -111,7 +111,7 @@ Slik det fremgår av den enkelte bestemmelse gjelder forskriften også for eksis
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 3. Anmeldelse av nybygg1
+## § 3. Anmeldelse av nybygg[^1]
 
 Bygging av fartøy skal meldes til Sjøfartsdirektoratet i samsvar med [lov 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v. [§ 11](lov/1903-06-09-7/§11) straks kontrakt om bygging er inngått. Meldingen skal innsendes i 3 eksemplarer på fastsatt skjema.
 
@@ -119,7 +119,7 @@ Ved kansellering, endringer i kontraktsforholdet e.l. som medfører at skipet ik
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 4. Tegninger1
+## § 4. Tegninger[^1]
 
 1\.
 
@@ -143,13 +143,13 @@ Tegningene skal innsendes i 3 eksemplarer for hvert fartøy i god tid før arbei
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 5. Ombygging1
+## § 5. Ombygging[^1]
 
 Eksisterende fartøy som ombygges eller forandres skal, med hensyn til det ombyggingen/forandringen gjelder, tilfredsstille kravene til nytt fartøy så langt Sjøfartsdirektoratet finner dette rimelig.
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 6. Konstruksjon, styrke, besiktelse m.v.1
+## § 6. Konstruksjon, styrke, besiktelse m.v.[^1]
 
 1\.
 
@@ -177,7 +177,7 @@ For fartøy som bygges/ombygges/forandres i utlandet skal rederiet sende begjær
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 7. Stabilitet m.v.1
+## § 7. Stabilitet m.v.[^1]
 
 1\.
 
@@ -341,7 +341,7 @@ For fartøy som anvendes i farvann der det kan være fare for nedising, skal det
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 8. Ballast m.v.1
+## § 8. Ballast m.v.[^1]
 
 1\.
 
@@ -361,7 +361,7 @@ Mellom hud og garnering skal det være tilstrekkelig ventilasjon. Lukket rom und
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 9. Åpninger i fribords- og overbygningsdekk m.v.1
+## § 9. Åpninger i fribords- og overbygningsdekk m.v.[^1]
 
 1\.
 
@@ -477,7 +477,7 @@ Eksisterende fartøy under 50 tonn som ikke tilfredsstiller kravene i nr. 6.1 el
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 10. Overbygninger, styrehus og dekkshus m.v.1
+## § 10. Overbygninger, styrehus og dekkshus m.v.[^1]
 
 1\.
 
@@ -523,7 +523,7 @@ Når eksisterende skansekledning inngår som del av lukket bakk, skal skansekled
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 11. Drenering av arbeidsdekk på trålere og garn/linefartøy med shelterdekk, samt drenering av egnerhus m.v. Avfallssjakt1
+## § 11. Drenering av arbeidsdekk på trålere og garn/linefartøy med shelterdekk, samt drenering av egnerhus m.v. Avfallssjakt[^1]
 
 1\.
 
@@ -599,7 +599,7 @@ For nytt fartøy skal innenbordsmunning for avfallssjakt fra bysse og innelukket
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 12. Styrehus, kartrom og radiorom1
+## § 12. Styrehus, kartrom og radiorom[^1]
 
 1\.
 
@@ -611,7 +611,7 @@ Fra styrehus skal det være god oversikt slik at fartøyet kan manøvreres og na
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 13. Skansekledning og rekkverk1
+## § 13. Skansekledning og rekkverk[^1]
 
 1\.
 
@@ -627,7 +627,7 @@ Inngjerdinger, rekkverk m.v. skal være i samsvar med forskrifter om sikkerhetst
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 14. Lenseporter m.v.1
+## § 14. Lenseporter m.v.[^1]
 
 1\.
 
@@ -661,7 +661,7 @@ Dersom det er montert bingearrangement på dekk, skal dette være slik at det ik
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 15. Vanntett inndeling av skrog1
+## § 15. Vanntett inndeling av skrog[^1]
 
 1\.
 
@@ -693,7 +693,7 @@ Der rør og elektriske ledninger er ført gjennom vanntette skott, skal gjennomf
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 16. Samband mellom styrehus og maskinrom1
+## § 16. Samband mellom styrehus og maskinrom[^1]
 
 1\.
 
@@ -717,19 +717,19 @@ Utstyr som benyttes til samband mellom styrehus og maskinrom skal være solid ko
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 17. Avvik, dispensasjoner.1
+## § 17. Avvik, dispensasjoner.[^1]
 
 Sjøfartsdirektoratet kan tillate avvik fra eller stille andre krav enn fastsatt i denne forskrift når dette ikke er i strid med internasjonal overenskomst som Norge har sluttet seg til.
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 18. Straff1
+## § 18. Straff[^1]
 
 Forsettlig eller uaktsom overtredelse av denne forskrift straffes med bøter i henhold til Almindelig Borgerlig Straffelov [22. mai 1902 nr. 10 § 339](lov/1902-05-22-10/§339) nr. 2 hvis ikke strengere straff kommer til anvendelse i henhold til annen lovbestemmelse.
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 
-## § 19. Ikrafttredelse m.v.1
+## § 19. Ikrafttredelse m.v.[^1]
 
 1\.
 

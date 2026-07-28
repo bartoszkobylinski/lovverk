@@ -15,7 +15,7 @@ xml_hash: "39039bf8af114c99557e7959bd4b2f1a572c952bae7715dc7589c02ccf9050da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Omregistrering i grunnboken og andre offentlige registre i forbindelse med omdan
 
 ## § 5. Ikrafttredelse
 
-Loven trer i kraft straks, med unntak av [§ 6](lov/2002-12-13-85/§6) som gjelder fra den tid1 Kongen bestemmer.
+Loven trer i kraft straks, med unntak av [§ 6](lov/2002-12-13-85/§6) som gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2003 iflg. [res. 13 des 2002 nr. 1498](forskrift/2002-12-13-1498).
 

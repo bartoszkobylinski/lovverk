@@ -15,7 +15,7 @@ xml_hash: "5165f63ec73a2670240f3846b99c08e3a58d0ed4bbb09de493730b3e0dd8010e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,6 +60,6 @@ Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.
 
 ## § 9. Ikrafttredelse og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer1. Departementet kan gi overgangsbestemmelser.
+Loven gjelder fra den tid Kongen bestemmer[^1]. Departementet kan gi overgangsbestemmelser.
 
 1 Fra 9. august 2024 iflg. [res. 9 aug 2024 nr. 1914](forskrift/2024-08-09-1914).

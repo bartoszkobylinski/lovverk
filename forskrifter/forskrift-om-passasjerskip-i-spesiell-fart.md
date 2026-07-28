@@ -15,7 +15,7 @@ xml_hash: "5b4ef156e3a5f16ab72971beac8561027f66086535dfb0938d8b6d6abd7069b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,7 +53,7 @@ I denne forskrift betyr:
 10. *Passasjerskip i spesiell fart:* Et mekanisk fremdrevet passasjerskip som fører et stort antall passasjerer i spesiell fart.
 11. *Protokollen:* Protokoll om romkrav for passasjerskip i spesiell fart, 1973, som ble undertegnet i London 13. oktober 1973. Overenskomsten med vedlegg følger som bilag 3 til disse forskrifter.
 12. *Regler:* De regler som er knyttet til Sjøsikkerhetskonvensjonen; henvisning til slike regler, skal forstås som henvisning til nevnte regler slik disse er blitt modifisert ved nærværende forskrifter.
-13. *Sjøsikkerhetskonvensjonen (SOLAS):* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.1
+13. *Sjøsikkerhetskonvensjonen (SOLAS):* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.[^1]
 14. *Spesiell fart:* Befordring på sjøen av et stort antall passasjerer i spesiell fart på en internasjonal reise innenfor et område som definert i overenskomstens regel 2(6).
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).

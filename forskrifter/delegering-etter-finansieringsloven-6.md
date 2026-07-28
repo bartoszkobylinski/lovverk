@@ -15,7 +15,7 @@ xml_hash: "c3a1d563fcb59654033841b933fff71f24c457dd0e6dccd36fdcec7e69f8fd35"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -27,12 +27,12 @@ Kongens myndighet etter følgende bestemmelser delegeres til Finans- og tolldepa
 - § 2a-1 annet ledd
 - § 2a-3 første ledd
 - § 2a-3 annet ledd
-- § 2a-3 tredje1 ledd
-- § 2a-3 femte2 ledd
+- § 2a-3 tredje[^1] ledd
+- § 2a-3 femte[^2] ledd
 - § 2a-6 annet ledd
 - § 2a-7 annet ledd første punktum
 - § 2a-7 annet ledd annet punktum
-- § 2a-9 tredje3 ledd tredje punktum
+- § 2a-9 tredje[^3] ledd tredje punktum
 - § 2a-8 tredje ledd fjerde punktum
 - § 2a-8 fjerde ledd
 - § 2a-8 femte ledd
@@ -40,7 +40,7 @@ Kongens myndighet etter følgende bestemmelser delegeres til Finans- og tolldepa
 - § 2a-12 annet ledd
 - § 2a-14
 - § 2a-15 første ledd første punktum
-- § 2a-164 annet ledd første punktum
+- § 2a-16[^4] annet ledd første punktum
 
 Myndigheten til å sette loven i kraft, til å bestemme at de enkelte bestemmelser skal tre i kraft til ulik tid og til å gi nærmere overgangsregler delegeres Finans- og tolldepartementet.
 

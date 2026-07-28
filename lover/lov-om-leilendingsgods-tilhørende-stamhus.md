@@ -15,7 +15,7 @@ xml_hash: "f103c74e24c43f6fe8951824105d798cabae43af8fb02b9bbd86a04c57dd2924"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Stamhusbesidderen er pligtig til at forestaa Midlernes Anbringelse saavelsom til
 
 ## § 9.
 
-De nærmere Forskrifter til Gjennemførelse af foranstaaende Bestemmelser saavelsom til Varetagelse af Stamhusets Tarv i det hele i Anledning af nærværende Lov gives af Kongen,1 der i fornødent Fald kan bestemme, at Midlernes Forvaltning helt eller delvis skal fratages Stamhusbesidderen.
+De nærmere Forskrifter til Gjennemførelse af foranstaaende Bestemmelser saavelsom til Varetagelse af Stamhusets Tarv i det hele i Anledning af nærværende Lov gives af Kongen,[^1] der i fornødent Fald kan bestemme, at Midlernes Forvaltning helt eller delvis skal fratages Stamhusbesidderen.
 
 1 Gitt ved res. 26 juni 1896.
 

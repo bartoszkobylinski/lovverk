@@ -15,7 +15,7 @@ xml_hash: "4e4ebcd0758a534a4f7cdb49917ef0954af8c1a22614a783e5ef896f8c5e91b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -154,7 +154,7 @@ Departementet kan gje forskrifter til utfylling og gjennomføring av lova, mello
 
 ## § 16. Ikraftsetjing og overgangsreglar
 
-Lova gjeld frå den tid Kongen fastset.1
+Lova gjeld frå den tid Kongen fastset.[^1]
 
 Lova gjeld også der barnet vart bortført før lova tok til å gjelde.
 

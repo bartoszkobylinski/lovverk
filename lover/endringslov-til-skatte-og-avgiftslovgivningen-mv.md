@@ -15,7 +15,7 @@ xml_hash: "f4cb5c98b3359cdcad563b0509eb51bee7b9c48ca0dfb2b496cd08657c73a18e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Fastsettelse av aksjens skjermingsgrunnlag og inngangsverdi
 
 – – –
 
-Ved ikrafttredelse av endringen under XIV [§ 9-3](lov/1999-03-26-14/§9-3) sjette ledd1 og § 14-81 gjelder følgende overgangsregler:
+Ved ikrafttredelse av endringen under XIV [§ 9-3](lov/1999-03-26-14/§9-3) sjette ledd[^1] og § 14-81 gjelder følgende overgangsregler:
 
 1. Til § 9-3 sjette ledd:
 

@@ -15,7 +15,7 @@ xml_hash: "439b582c0cd15df831e329491177b23be87825ac6f3e4efae88a08a0a09426c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Statens jernbanetilsyn utøver myndighet etter denne forskriften.
 
 ## § 3.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/779](eu/32019r0779) av 16. februar 2018, som endret av forordning [(EU) 2020/780](eu/32020r0780), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/779](eu/32019r0779) av 16. februar 2018, som endret av forordning [(EU) 2020/780](eu/32020r0780), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 Fra samme tidspunkt oppheves [forskrift 8. mai 2012 nr. 409 om vedlikehold av godsvogner på det nasjonale jernbanenettet](forskrift/2012-05-08-409).
 

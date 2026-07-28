@@ -15,7 +15,7 @@ xml_hash: "8ceef03f1b1932e89d2243f9d759ddcdc8a470199b386af4266db36dac2a6384"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1847,7 +1847,7 @@ Dersom en kommune ikke overholder fristen for gjennomgang av meldinger etter [§
 
 ### § 18-1. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Fra den tid loven trer i kraft oppheves [lov 17. juli 1992 nr. 100 om barneverntjenester](lov/1992-07-17-100).
 

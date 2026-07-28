@@ -15,7 +15,7 @@ xml_hash: "b67d3d1b285e681238332e54ebe7c52ae4ae656f7d91526473806983862c4653"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1-1. Formål og virkeområde
 
-(1) Forskriftens formål er å sikre at Fagskolen Aldring og helse ivaretar studentenes rettigheter etter fagskoleloven1 og fagskoleforskriften2. Forskriften presiserer enkelte plikter og rettigheter for fagskolens studenter og søkere, og skal sikre forutberegnelighet og likebehandling i fagskolens saksbehandling.
+(1) Forskriftens formål er å sikre at Fagskolen Aldring og helse ivaretar studentenes rettigheter etter fagskoleloven[^1] og fagskoleforskriften[^2]. Forskriften presiserer enkelte plikter og rettigheter for fagskolens studenter og søkere, og skal sikre forutberegnelighet og likebehandling i fagskolens saksbehandling.
 
 (2) Forskriften gjelder for opptak og eksamen ved Fagskolen Aldring og helse. Bestemmelsene får anvendelse både for personer som søker om opptak til studietilbud, og personer som har studierett og status som student ved fagskolen.
 
@@ -51,7 +51,7 @@ eu_basis: []
 
 (2) Søkere med utenlandsk fag- eller yrkesopplæring kan gis opptak på grunnlag av formell kompetanse dersom opplæringen er godkjent som sidestilt med norsk vitnemål eller fagbrev som nevnt i første ledd. Søkere må være autorisert som helsepersonell i Norge.
 
-(3) Søkere som ikke oppfyller de formelle opptakskravene, og som er 23 år eller eldre i opptaksåret, kan tas opp på grunnlag av tilsvarende realkompetanse1. Realkompetansen vurderes av studieleder2 opp mot de formelle kompetansekravene i første ledd. Søkeren må kunne dokumentere relevant yrkeserfaring. Som relevant yrkeserfaring regnes arbeid med målgruppen i hjemmebaserte tjenester, i sykehjem, innen boligvirksomhet, på dagsenter eller i andre offentlige eller private virksomheter, samt frivillig arbeid for og sammen med målgruppen, pårørendearbeid, organisasjonsarbeid, arbeid som støttekontakt, og lignende. I tillegg må søkeren dokumentere relevant kompetanse tilsvarende VG 3-nivå i yrkesfaglige opplæringsprogram som oppfyller det formelle kriteriet etter første ledd, tilsvarende nivå 4 i Nasjonalt rammeverk for livslang læring.
+(3) Søkere som ikke oppfyller de formelle opptakskravene, og som er 23 år eller eldre i opptaksåret, kan tas opp på grunnlag av tilsvarende realkompetanse[^1]. Realkompetansen vurderes av studieleder[^2] opp mot de formelle kompetansekravene i første ledd. Søkeren må kunne dokumentere relevant yrkeserfaring. Som relevant yrkeserfaring regnes arbeid med målgruppen i hjemmebaserte tjenester, i sykehjem, innen boligvirksomhet, på dagsenter eller i andre offentlige eller private virksomheter, samt frivillig arbeid for og sammen med målgruppen, pårørendearbeid, organisasjonsarbeid, arbeid som støttekontakt, og lignende. I tillegg må søkeren dokumentere relevant kompetanse tilsvarende VG 3-nivå i yrkesfaglige opplæringsprogram som oppfyller det formelle kriteriet etter første ledd, tilsvarende nivå 4 i Nasjonalt rammeverk for livslang læring.
 
 (4) Søkere med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk. Søkere med opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk i henhold til fagskoleforskriften § 9 tredje ledd.
 
@@ -108,7 +108,7 @@ For reservasjon av studieplass vises det til fagskoleforskriften § 13.
 1. demensomsorg og alderspsykiatri, eller
 2. utviklingshemning, miljøarbeid og aldring,
 
-må fremlegge politiattest som nevnt i [helsepersonelloven § 20a](lov/1999-07-02-64/§20a)1 og [helse- og omsorgstjenesteloven § 5-4](lov/2011-06-24-30/§5-4)2.
+må fremlegge politiattest som nevnt i [helsepersonelloven § 20a](lov/1999-07-02-64/§20a)[^1] og [helse- og omsorgstjenesteloven § 5-4](lov/2011-06-24-30/§5-4)[^2].
 
 (2) Alle søkere som får tilbud om plass ved utdanningene nevnt i første ledd, skal sende politiattest til fagskolen innen fire uker fra tilbudet kommer frem. Politiattesten må ikke være eldre enn tre måneder på tidspunktet for fremleggelse av attesten.
 
@@ -192,7 +192,7 @@ etter [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapi
 
 ### § 3-6. Tid og sted for vurderinger. Trekk og forfall til eksamen mv.
 
-(1) Tid og sted, eventuelt innleveringssted, for mappevurdering og hjemmeeksamen meddeles studentene ved emnestart. Studenter kan trekke seg fra hjemmeeksamen eller mappevurdering ved å gi skriftlig melding om dette til studieleder1 senest en uke før innleveringsfristen. En student som på grunn av sykdom eller andre tungtveiende grunner ønsker å trekke seg fra mappevurdering eller hjemmeeksamen etter utløpet av fristen, må sende søknad til studieleder, vedlagt legeattest eller annen fyllestgjørende dokumentasjon. Legeattest må leveres eller være poststemplet senest tre dager etter fristen for innlevering av besvarelse/mappe. Legeattesten må opplyse om at den er utstedt i forbindelse med forfall og/eller avbrudd i tilknytning til fagskoleutdanningen.
+(1) Tid og sted, eventuelt innleveringssted, for mappevurdering og hjemmeeksamen meddeles studentene ved emnestart. Studenter kan trekke seg fra hjemmeeksamen eller mappevurdering ved å gi skriftlig melding om dette til studieleder[^1] senest en uke før innleveringsfristen. En student som på grunn av sykdom eller andre tungtveiende grunner ønsker å trekke seg fra mappevurdering eller hjemmeeksamen etter utløpet av fristen, må sende søknad til studieleder, vedlagt legeattest eller annen fyllestgjørende dokumentasjon. Legeattest må leveres eller være poststemplet senest tre dager etter fristen for innlevering av besvarelse/mappe. Legeattesten må opplyse om at den er utstedt i forbindelse med forfall og/eller avbrudd i tilknytning til fagskoleutdanningen.
 
 (2) Praksis utgjør 10 uker i 100 % stilling eller 20 uker i minst 50 % stilling, fordelt gjennom hele studieperioden. Tid og sted for praksisperioder fastsettes av studieleder etter avtale med student og praksissted. Studenten må melde fra til studieleder om fravær. En student som på grunn av sykdom eller andre tungtveiende grunner ønsker å trekke seg fra praksisperioden, må sende søknad til studieleder vedlagt legeattest eller annen fyllestgjørende dokumentasjon.
 

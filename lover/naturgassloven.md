@@ -15,7 +15,7 @@ xml_hash: "059565adbc4be6cf95a41c069f687759ee65e8629bea4bb7d0958d1d7a4f7730"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0073"
@@ -162,7 +162,7 @@ Departementet kan gi forskrift om at reguleringsmyndigheten kan gi forskrift i m
 
 ## § 14. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 > Tilføyd ved [lov 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), endret ved [lov 25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 8.
 

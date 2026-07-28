@@ -15,7 +15,7 @@ xml_hash: "0f477a45691d38e8aa4d0fec74198742f73fb99cc45a1165147a589fb36e3d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ Retningslinjene erstattar tidlegare retningslinjer, jf. [kgl.res. 12. august 202
 
 ## 1. Innleiing
 
-Retningslinjene fastset føremål for den statlege lokaliseringspolitikken, og vurderings- og prosedyrekrav i samband med lokalisering av statlege arbeidsplassar og statleg tenesteproduksjon. Eigne retningslinjer gjeld for den konkrete plasseringa i eit senterområde og for bygge- og leigesaker i statleg sivil sektor1.
+Retningslinjene fastset føremål for den statlege lokaliseringspolitikken, og vurderings- og prosedyrekrav i samband med lokalisering av statlege arbeidsplassar og statleg tenesteproduksjon. Eigne retningslinjer gjeld for den konkrete plasseringa i eit senterområde og for bygge- og leigesaker i statleg sivil sektor[^1].
 
 Retningslinjene kjem i tillegg til og ikkje til erstatning for krava som følgjer av [utgreiingsinstruksen](forskrift/2016-02-19-184).
 
@@ -64,7 +64,7 @@ Retningslinjene gjeld vidare ikkje
 
 - for klart tidsavgrensa oppretta arbeidsplassar
 - for kollegiale organ som råd og utval
-- ved flytting innanfor same kommune som følgje av at leigekontraktar går ut2
+- ved flytting innanfor same kommune som følgje av at leigekontraktar går ut[^2]
 - der ei verksemd berre skifter namn og organisasjonsnummer.
 
 2 [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](forskrift/2012-01-20-39) gjeld likevel her, sjå desse retningslinjene pkt. 1.
@@ -99,7 +99,7 @@ Ved prosessar som er omfatta av retningslinjene, skal ei skriftleg vurdering lig
 
 Utgreiingar om strukturendringar skal innehalde ei vurdering av mogleg utflytting frå Oslo og sentrale kommunar i Oslo-området. Som eit minimum skal det gjerast ei vurdering av om delar av verksemda og løysing av oppgåver kan flyttast ut.
 
-Ved oppretting av ny verksemd eller nye einingar, og ved utflytting frå Oslo, og sentrale kommunar i Oslo-området, skal vurderinga innehalde alternative stader for lokalisering. Minst tre alternativ bør vurderast, eit av alternativa skal vere i sentralitetsklasse 3 til 63. Unntak frå dette skal grunngjevast.
+Ved oppretting av ny verksemd eller nye einingar, og ved utflytting frå Oslo, og sentrale kommunar i Oslo-området, skal vurderinga innehalde alternative stader for lokalisering. Minst tre alternativ bør vurderast, eit av alternativa skal vere i sentralitetsklasse 3 til 6[^3]. Unntak frå dette skal grunngjevast.
 
 Ved omlokalisering av verksemder, funksjonar eller oppgåver, skal moglegheitene i eksisterande regionstruktur vurderast. Dersom verksemda har ein regional struktur, skal omlokalisering i hovudsak skje til den delen av strukturen som ligg utanfor Oslo og sentrale kommunar i Oslo-området.
 

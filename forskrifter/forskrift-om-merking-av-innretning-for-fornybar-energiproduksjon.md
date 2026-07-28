@@ -15,7 +15,7 @@ xml_hash: "8a1fc38226be7dda61e9a4a178fd866294e69eb7a078e1c71fd2b45a8c07391c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ Lyssignal og belysning skal normalt tennes og slukkes når det omgivende lysniv�
 
 *Gul overflatefarge*
 
-De kromatiske verdiene (fargekoordinatene) for gul overflatefarge skal ligge innenfor de hjørnepunktene som er angitt for ordinær gul farge i *IALA Recommendation E-108 – Surface Colours used as Visual Signals On Aids to Navigation*1
+De kromatiske verdiene (fargekoordinatene) for gul overflatefarge skal ligge innenfor de hjørnepunktene som er angitt for ordinær gul farge i *IALA Recommendation E-108 – Surface Colours used as Visual Signals On Aids to Navigation*[^1]
 
 *Gult retrorefleksmateriale*
 
@@ -197,7 +197,7 @@ Radarsvarer skal svare med et signal i form av en passende bokstav i morsealfabe
 
 ### 6.2 AIS navigasjonsinnretning
 
-En AIS navigasjonsinnretning kan være fysisk eller virtuell:1
+En AIS navigasjonsinnretning kan være fysisk eller virtuell:[^1]
 
 - En fysisk AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som eksisterer fysisk.
 - En virtuell AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som ikke eksisterer fysisk.
@@ -227,7 +227,7 @@ Etablering av AIS navigasjonsinnretning krever Maritime Mobile Service Identity 
 
 En vindenergiinnretning kan være belyst for å gjøre innretningen bedre synlig, for arbeid i mørket eller annet formål.
 
-Indirekte lys1 (flomlys) på vindenergiinnretninger skal ikke være til sjenanse for sjøfarende. For å unngå å trekke fisk til innretningen skal belysning av sjø unngås eller begrenses så langt det er mulig.
+Indirekte lys[^1] (flomlys) på vindenergiinnretninger skal ikke være til sjenanse for sjøfarende. For å unngå å trekke fisk til innretningen skal belysning av sjø unngås eller begrenses så langt det er mulig.
 
 1 Med indirekte lys menes her lys hvor observatøren ikke ser lyskilden direkte.
 

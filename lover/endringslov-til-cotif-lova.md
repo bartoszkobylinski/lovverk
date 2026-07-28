@@ -15,7 +15,7 @@ xml_hash: "2929a7c5053f59640ed3954b2ac3df7311cb5881e23a875feabe2f63b371ab32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,6 +38,6 @@ Departementet kan gi nærmere forskrifter til utfylling og gjennomføring av lov
 
 ## II
 
-Lova gjeld frå den tida1 Kongen fastset.
+Lova gjeld frå den tida[^1] Kongen fastset.
 
 1 I kraft samtidig som endringene av 30. september 2015 og 26. september 2018 i Overenskomst om internasjonal jernbanetrafikk. iflg. [res. 20 juni 2023 nr. 957](forskrift/2023-06-20-957).

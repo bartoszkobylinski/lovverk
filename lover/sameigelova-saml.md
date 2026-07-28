@@ -15,7 +15,7 @@ xml_hash: "ddab54e4bab3dbae0127403a915f84360b6528fc769dd625bc7af569cfca28c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -180,7 +180,7 @@ Det er nok at skriftleg utsegn eller melding er inngjeven til den tilbyder av po
 
 ### § 17
 
-Lova gjeld frå den tid Kongen fastset.1
+Lova gjeld frå den tid Kongen fastset.[^1]
 
 Frå same tid held etternemnde føresegner opp å gjelda: – – –
 

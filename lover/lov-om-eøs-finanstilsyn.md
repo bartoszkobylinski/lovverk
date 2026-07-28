@@ -15,7 +15,7 @@ xml_hash: "d87eb39354fe99a08150937e76e0dc2ccad25dcbf1350875b90a29a0344b1932"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32010R1093"
@@ -68,7 +68,7 @@ Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra,
 
 ## § 8. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen2 bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid. Kongen kan gi overgangsregler.
+Loven gjelder fra den tid[^1] Kongen[^2] bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid. Kongen kan gi overgangsregler.
 
 > Endret ved [lov 16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](forskrift/2016-12-16-1607), tidligere § 6).
 

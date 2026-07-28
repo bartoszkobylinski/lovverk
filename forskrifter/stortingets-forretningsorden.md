@@ -15,7 +15,7 @@ xml_hash: "8990759311b4484cb8277963b8127c23a59c2616e034215a37053d38eff3bccc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -250,7 +250,7 @@ En sak skal legges frem for Stortinget når minst seks komitémedlemmer krever d
 
 Regjeringens konsultasjoner med Stortinget om saker som gjelder Avtalen om Det europeiske økonomiske samarbeidsområde (EØS-avtalen), herunder forslag om nye eller endrede rettsakter på et område som omfattes av EØS-avtalen, og saker som gjelder tilgrensende avtaler med Den europeiske union (EU), skal foregå med Europautvalget. Europautvalget kan også benyttes til konsultasjon med Stortinget om andre handelspolitiske saker og forhandlinger. I slike tilfeller skal også næringskomiteen innkalles.
 
-Europautvalget består av utenriks- og forsvarskomiteen og medlemmene av den norske delegasjonen til parlamentarikerkomiteen1 for EØS. Utenriks- og forsvarskomiteen eller dens leder kan dessuten beslutte at en eller flere andre komiteer skal delta ved bestemte konsultasjoner. Varamedlemmer i utenriks- og forsvarskomiteen møter også i Europautvalget. Det samme gjelder varamedlemmer i andre komiteer som deltar i konsultasjoner etter annet punktum. Valgkomiteen kan, etter anmodning fra en partigruppe, oppnevne leder av vedkommende gruppe som medlem av Europautvalget dersom den finner at hensynet til gruppenes forholdsmessige representasjon tilsier det.
+Europautvalget består av utenriks- og forsvarskomiteen og medlemmene av den norske delegasjonen til parlamentarikerkomiteen[^1] for EØS. Utenriks- og forsvarskomiteen eller dens leder kan dessuten beslutte at en eller flere andre komiteer skal delta ved bestemte konsultasjoner. Varamedlemmer i utenriks- og forsvarskomiteen møter også i Europautvalget. Det samme gjelder varamedlemmer i andre komiteer som deltar i konsultasjoner etter annet punktum. Valgkomiteen kan, etter anmodning fra en partigruppe, oppnevne leder av vedkommende gruppe som medlem av Europautvalget dersom den finner at hensynet til gruppenes forholdsmessige representasjon tilsier det.
 
 Lederen i utenriks- og forsvarskomiteen kaller sammen til konsultasjoner i Europautvalget når vedkommende mener det er nødvendig, eller når et regjeringsmedlem eller en tredjedel av utenriks- og forsvarskomiteens medlemmer anmoder om det.
 

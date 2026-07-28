@@ -15,7 +15,7 @@ xml_hash: "5a6cf64dfebea7f277637565b8988e20c6400e86be35826ebe87f23f1b3c13bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32010L0013"
@@ -241,7 +241,7 @@ Departementet kan gi forskrift om ileggelse av tvangsmulkt, herunder om vilkår 
 
 ### § 21. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1 juli 2015 iflg. [res. 12 juni 2015 nr. 633](forskrift/2015-06-12-633).
 

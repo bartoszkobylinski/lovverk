@@ -15,7 +15,7 @@ xml_hash: "26b899c3408d193225b3c879e564e393b9a0e9df46466c6f08ab9519711c9470"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,6 +48,6 @@ Kongen kan gjeva nærare føresegner til gjennomføring av lova.
 
 ## § 5.
 
-Kongen fastsett kva dag1 lova skal taka til å gjelda.
+Kongen fastsett kva dag[^1] lova skal taka til å gjelda.
 
 1 Frå 15 sep 1967 iflg. res. 25 aug 1967.

@@ -15,7 +15,7 @@ xml_hash: "07b8ddb60a5808b967ac92e27978bff4b2bc5eba00b018fbc7e63b750b0dcc7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32006L0123"
@@ -315,7 +315,7 @@ Kongen kan gi forskrifter til gjennomføring av loven i samsvar med EØS-retten.
 
 ### § 28. Ikrafttreden
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672).
 

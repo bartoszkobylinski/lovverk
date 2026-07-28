@@ -15,7 +15,7 @@ xml_hash: "02371989001738f2ff9fbe66c085419c463a8fa1cf184a529392a6c93ee763e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -747,7 +747,7 @@ Mus
 | --- | --- | --- | --- | --- |
 | I besetning og under forsøk | opp til 20<br>fra 20 til 25<br>fra 25 til 30<br>over 30 | 330<br>330<br>330<br>330 | 60<br>70<br>80<br>100 | 12<br>12<br>12<br>12 |
 | Avl |  | 330<br><br>For et monogamt par (utavl/innavl) eller en trio (innavl). For hvert ytterligere hunndyr med kull skal det legges til 180 cm2 |  | 12 |
-| Besetning hos oppdrettere\*<br><br>Oppholdsenhetens størrelse 950 cm2 | mindre enn 20 | 950 | 40 | 12 |
+| Besetning hos oppdrettere[^\*]<br><br>Oppholdsenhetens størrelse 950 cm2 | mindre enn 20 | 950 | 40 | 12 |
 | Oppholdsenhetens størrelse 1500 cm2 | mindre enn 20 | 1500 | 30 | 12 |
 
 \* Avvente mus kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner.
@@ -757,10 +757,10 @@ Rotter
 
 |  | *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Gulvareal per dyr<br>(cm2 )* | *Minste høyde i oppholdsenhet<br>(cm)* |
 | --- | --- | --- | --- | --- |
-| I besetning og under forsøk\* | opp til 200<br>fra 200 til 300<br>fra 300 til 400<br>fra 400 til 600<br>over 600 | 800<br>800<br>800<br>800<br>1500 | 200<br>250<br>350<br>450<br>600 | 18<br>18<br>18<br>18<br>18 |
+| I besetning og under forsøk[^\*] | opp til 200<br>fra 200 til 300<br>fra 300 til 400<br>fra 400 til 600<br>over 600 | 800<br>800<br>800<br>800<br>1500 | 200<br>250<br>350<br>450<br>600 | 18<br>18<br>18<br>18<br>18 |
 | Avl |  | 800<br><br>Mor med kull.<br>For hvert ytterligere voksent dyr som settes permanent inn i oppholdsenheten, skal det legges til 400 cm2 |  | 18 |
-| Besetning hos oppdrettere\*\*<br><br>Oppholdsenhetens størrelse 1500 cm2 | mindre enn 50<br>fra 50 til 100<br>fra 100 til 150<br>fra 150 til 200 | 1500<br>1500<br>1500<br>1500 | 100<br>125<br>150<br>175 | 18<br>18<br>18<br>18 |
-| Besetning hos oppdrettere\*\*<br><br>Oppholdsenhetens størrelse 2500 cm2 | opp til 100<br>fra 100 til 150<br>fra 150 til 200 | 2500<br>2500<br>2500 | 100<br>125<br>150 | 18<br>18<br>18 |
+| Besetning hos oppdrettere[^\*\*]<br><br>Oppholdsenhetens størrelse 1500 cm2 | mindre enn 50<br>fra 50 til 100<br>fra 100 til 150<br>fra 150 til 200 | 1500<br>1500<br>1500<br>1500 | 100<br>125<br>150<br>175 | 18<br>18<br>18<br>18 |
+| Besetning hos oppdrettere[^\*\*]<br><br>Oppholdsenhetens størrelse 2500 cm2 | opp til 100<br>fra 100 til 150<br>fra 150 til 200 | 2500<br>2500<br>2500 | 100<br>125<br>150 | 18<br>18<br>18 |
 
 \* Hvis tilgjengelig areal per dyr kommer under de angitte arealkrav på slutten av langtidsstudier, skal det prioriteres å opprettholde stabile sosiale strukturer.
 
@@ -781,7 +781,7 @@ Hamstere
 | --- | --- | --- | --- | --- |
 | I besetning og under forsøk | opp til 60<br>fra 60 til 100<br>over 100 | 800<br>800<br>800 | 150<br>200<br>250 | 14<br>14<br>14 |
 | Avl |  | 800<br><br>Mor eller monogame par med kull |  | 14 |
-| I besetning hos oppdretter\* | Mindre enn 60 | 1500 | 100 | 14 |
+| I besetning hos oppdretter[^\*] | Mindre enn 60 | 1500 | 100 | 14 |
 
 \* Avvente hamstere kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner.
 
@@ -842,7 +842,7 @@ Minste tillatte areal for hold av hunnkatter med unger er det samme som for en e
 
 Fôringsplasser og avføringskasser skal ikke være mindre enn 0,5 meter fra hverandre, og disse skal ikke bytte plass med hverandre.
 
-|  | *Gulv\*<br>(m2 )* | *Hyller<br>(m2 )* | *Høyde<br>(m)* |
+|  | *Gulv[^\*]<br>(m2 )* | *Hyller<br>(m2 )* | *Høyde<br>(m)* |
 | --- | --- | --- | --- |
 | Minimum for ett voksent dyr | 1,5 | 0,5 | 2 |
 | For hvert dyr i tillegg | 0,75 | 0,25 | – |
@@ -893,7 +893,7 @@ Miljøet skal tilrettelegges slik at primater kan utføre komplekse aktivitetspr
 ### Tabell 6.1
 Silkeaper og tamariner
 
-|  | *Minsteareal i oppholdsenhet for ett\* eller to dyr pluss avkom opp til 5 måneders alder<br>(m2 )* | *Minste volum for hvert ytterligere dyr over 5 måneder<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)*\*\* |
+|  | *Minsteareal i oppholdsenhet for ett[^\*] eller to dyr pluss avkom opp til 5 måneders alder<br>(m2 )* | *Minste volum for hvert ytterligere dyr over 5 måneder<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)*[^\*\*] |
 | --- | --- | --- | --- |
 | Silkeaper | 0,5 | 0,2 | 1,5 |
 | Tamariner | 1,5 | 0,2 | 1,5 |
@@ -907,7 +907,7 @@ Silkeaper og tamariner skal ikke skilles fra moren før de er 8 måneder gamle.
 ### Tabell 6.2
 Ekornaper
 
-| *Minste gulvareal for ett\* eller to dyr<br>(m2 )* | *Minste volum for hvert ytterligere dyr over 6 måneder<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
+| *Minste gulvareal for ett[^\*] eller to dyr<br>(m2 )* | *Minste volum for hvert ytterligere dyr over 6 måneder<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
 | --- | --- | --- |
 | 2,0 | 0,5 | 1,8 |
 
@@ -916,13 +916,13 @@ Ekornaper
 Ekornaper skal ikke skilles fra moren før de er 6 måneder gamle.
 
 ### Tabell 6.3
-Makaker og vervetaper\*
+Makaker og vervetaper[^\*]
 
 |  | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste volum i oppholdsenhet<br>(m3 )* | *Minste volum per dyr<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
 | --- | --- | --- | --- | --- |
-| Dyr yngre enn 3 år\*\* | 2,0 | 3,6 | 1,0 | 1,8 |
-| Dyr fra 3 års alder\*\*\* | 2,0 | 3,6 | 1,8 | 1,8 |
-| Avlsdyr\*\*\*\* |  |  | 3,5 | 2,0 |
+| Dyr yngre enn 3 år[^\*\*] | 2,0 | 3,6 | 1,0 | 1,8 |
+| Dyr fra 3 års alder[^\*\*\*] | 2,0 | 3,6 | 1,8 | 1,8 |
+| Avlsdyr[^\*\*\*\*] |  |  | 3,5 | 2,0 |
 
 \* Enkeltvis oppstalling av dyr kan bare skje i unntakstilfeller.
 
@@ -935,13 +935,13 @@ Makaker og vervetaper\*
 Makaker og vervetaper skal ikke skilles fra moren før de er 8 måneder gamle.
 
 ### Tabell 6.4
-Bavianer\*
+Bavianer[^\*]
 
 |  | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste volum i oppholdsenhet<br>(m3 )* | *Minste volum per dyr<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
 | --- | --- | --- | --- | --- |
-| Dyr yngre enn 4 år\*\* | 4,0 | 7,2 | 3,0 | 1,8 |
-| Dyr fra 4 års alder\*\* | 7,0 | 12,6 | 6,0 | 1,8 |
-| Avlsdyr\*\*\* |  |  | 12,0 | 2,0 |
+| Dyr yngre enn 4 år[^\*\*] | 4,0 | 7,2 | 3,0 | 1,8 |
+| Dyr fra 4 års alder[^\*\*] | 7,0 | 12,6 | 6,0 | 1,8 |
+| Avlsdyr[^\*\*\*] |  |  | 12,0 | 2,0 |
 
 \* Enkeltvis oppstalling av dyr kan bare skje i unntakstilfeller.
 
@@ -972,7 +972,7 @@ Sauer og geiter
 ### Tabell 7.3
 Griser og minigriser
 
-| *Kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet\*<br>(m2 )* | *Minste gulvareal per dyr<br>(m2 /dyr)* | *Minste liggeareal per dyr (under termonøytrale forhold)<br>(m2 /dyr)* |
+| *Kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet[^\*]<br>(m2 )* | *Minste gulvareal per dyr<br>(m2 /dyr)* | *Minste liggeareal per dyr (under termonøytrale forhold)<br>(m2 /dyr)* |
 | --- | --- | --- | --- |
 | opp til 5<br>fra 5 til 10<br>fra 10 til 20<br>fra 20 til 30<br>fra 30 til 50<br>fra 50 til 70<br>fra 70 til 100<br>fra 100 til 150<br>over 150<br>voksne (konvensjonelle)<br>råner | 2,0<br>2,0<br>2,0<br>2,0<br>2,0<br>3,0<br>3,0<br>4,0<br>5,0<br>7,5 | 0,20<br>0,25<br>0,35<br>0,50<br>0,70<br>0,80<br>1,00<br>1,35<br>2,50 | 0,10<br>0,11<br>0,18<br>0,24<br>0,33<br>0,41<br>0,53<br>0,70<br>0,95<br>1,30 |
 
@@ -986,7 +986,7 @@ Den korteste siden skal være minst 1,5 ganger dyrets mankehøyde i stangmål. H
 | *Mankehøyde<br>(m)* | *Minste gulvareal per dyr<br>(m2 /dyr)* |  |  | *Minste høyde i oppholdsenhet<br>(m)* |
 | --- | --- | --- | --- | --- |
 |  | *For hvert dyr oppstallet enkeltvis eller i grupper på opp til 3 dyr* | *For hvert dyr holdt i grupper på 4 dyr eller flere* | *Føllingsboks/hoppe med føll* |  |
-| 1,00 til 1,40<br>fra 1,40 til 1,60<br>over 1,60 | 9,0<br>12,0<br>16,0 | 6,0<br>9,0<br>(2 x MH)2  \* | 16<br>20<br>20 | 3,00<br>3,00<br>3,00 |
+| 1,00 til 1,40<br>fra 1,40 til 1,60<br>over 1,60 | 9,0<br>12,0<br>16,0 | 6,0<br>9,0<br>(2 x MH)2  [^\*] | 16<br>20<br>20 | 3,00<br>3,00<br>3,00 |
 
 \* For å sikre tilstrekkelig plass skal tilgjengelig areal for hvert enkelt dyr beregnes ut fra mankehøyden (MH – stangmål).
 
@@ -1024,10 +1024,10 @@ Ender og gjess
 
 Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 . Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.4.
 
-| *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Areal per fugl<br>(m2 )*\* | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* |
+| *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Areal per fugl<br>(m2 )*[^\*] | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* |
 | --- | --- | --- | --- | --- |
 | *Ender* |  |  |  |  |
-| opp til 300<br>fra 300 til 1200\*\*<br>fra 1200 til 3500<br>over 3500 | 2,00<br>2,00<br>2,00<br>2,00 | 0,10<br>0,20<br>0,25<br>0,50 | 50<br>200<br>200<br>200 | 10<br>10<br>15<br>15 |
+| opp til 300<br>fra 300 til 1200[^\*\*]<br>fra 1200 til 3500<br>over 3500 | 2,00<br>2,00<br>2,00<br>2,00 | 0,10<br>0,20<br>0,25<br>0,50 | 50<br>200<br>200<br>200 | 10<br>10<br>15<br>15 |
 | *Gjess* |  |  |  |  |
 | opp til 500<br>fra 500 til 2000<br>over 2000 | 2,00<br>2,00<br>2,00 | 0,20<br>0,33<br>0,50 | 200<br>200<br>200 | 10<br>15<br>15 |
 
@@ -1036,7 +1036,7 @@ Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til
 \*\* Fugler som ennå ikke er flyvedyktige, kan holdes i oppholdsenheter med en minste høyde på 75 cm.
 
 ### Tabell 8.5
-Ender og gjess: Minste damstørrelser\*
+Ender og gjess: Minste damstørrelser[^\*]
 
 |  | *Areal<br>(m2 )* | *Dybde<br>(cm)* |
 | --- | --- | --- |
@@ -1068,16 +1068,16 @@ Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) slik at fugl
 ### Tabell 9.1
 Vannlevende salamandere
 
-| *Kroppslengde\*<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal per dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
+| *Kroppslengde[^\*]<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal per dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
 | --- | --- | --- | --- |
 | opp til 10<br>fra 10 til 15<br>fra 15 til 20<br>fra 20 til 30<br>over 30 | 262,5<br>525<br>875<br>1837,5<br>3150 | 50<br>110<br>200<br>440<br>800 | 13<br>13<br>15<br>15<br>20 |
 
 \* Målt fra snute til kloakkåpning.
 
 ### Tabell 9.2
-Vannlevende springpadder\*
+Vannlevende springpadder[^\*]
 
-| *Kroppslengde\*\*<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal per dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
+| *Kroppslengde[^\*\*]<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal per dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
 | --- | --- | --- | --- |
 | mindre enn 6<br>fra 6 til 9<br>fra 9 til 12<br>over 12 | 160<br>300<br>600<br>920 | 40<br>75<br>150<br>230 | 6<br>8<br>10<br>12,5 |
 
@@ -1088,7 +1088,7 @@ Vannlevende springpadder\*
 ### Tabell 9.3
 Delvis vannlevende springpadder
 
-| *Kroppslengde\*<br>(cm)* | *Minsteareal i oppholdsenhet\*\*<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*\*<br>(cm)* | *Minste vanndybde<br>(cm)* |
+| *Kroppslengde[^\*]<br>(cm)* | *Minsteareal i oppholdsenhet[^\*\*]<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet[^\*\*\*]<br>(cm)* | *Minste vanndybde<br>(cm)* |
 | --- | --- | --- | --- | --- |
 | opp til 5,0<br>fra 5,0 til 7,5<br>over 7,5 | 1500<br>3500<br>4000 | 200<br>500<br>700 | 20<br>30<br>30 | 10<br>10<br>15 |
 
@@ -1101,7 +1101,7 @@ Delvis vannlevende springpadder
 ### Tabell 9.4
 Landlevende springpadder
 
-| *Kroppslengde\*<br>(cm)* | *Minsteareal i oppholdsenhet\*\*<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*\*<br>(cm)* | *Minste vanndybde<br>(cm)* |
+| *Kroppslengde[^\*]<br>(cm)* | *Minsteareal i oppholdsenhet[^\*\*]<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet[^\*\*\*]<br>(cm)* | *Minste vanndybde<br>(cm)* |
 | --- | --- | --- | --- | --- |
 | opp til 5,0<br>fra 5,0 til 7,5<br>over 7,5 | 1500<br>3500<br>4000 | 200<br>500<br>700 | 20<br>30<br>30 | 10<br>10<br>15 |
 
@@ -1114,7 +1114,7 @@ Landlevende springpadder
 ### Tabell 9.5
 Trelevende springpadder
 
-| *Kroppslengde\*<br>(cm)* | *Minsteareal i oppholdsenhet\*\*<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*\*<br>(cm)* | *Minste vanndybde<br>(cm)* |
+| *Kroppslengde[^\*]<br>(cm)* | *Minsteareal i oppholdsenhet[^\*\*]<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet[^\*\*\*]<br>(cm)* | *Minste vanndybde<br>(cm)* |
 | --- | --- | --- | --- | --- |
 | opp til 3,0<br>over 3,0 | 900<br>1500 | 100<br>200 | 30<br>30 | 10<br>10<br>15 |
 
@@ -1129,7 +1129,7 @@ Trelevende springpadder
 ### Tabell 10.1
 Vannlevende skilpadder
 
-| *Kroppslengde\*<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
+| *Kroppslengde[^\*]<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
 | --- | --- | --- | --- |
 | opp til 5<br>fra 5 til 10<br>fra 10 til 15<br>fra 15 til 20<br>fra 20 til 30<br>over 30 | 600<br>1600<br>3500<br>6000<br>10000<br>20000 | 100<br>300<br>600<br>1200<br>2000<br>5000 | 10<br>15<br>20<br>30<br>35<br>40 |
 
@@ -1138,7 +1138,7 @@ Vannlevende skilpadder
 ### Tabell 10.2
 Landlevende slanger
 
-| *Kroppslengde\*<br>(cm)* | *Minste gulvareal<br>(cm2 )* | *Minste areal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*<br>(cm)* |
+| *Kroppslengde[^\*]<br>(cm)* | *Minste gulvareal<br>(cm2 )* | *Minste areal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet[^\*\*]<br>(cm)* |
 | --- | --- | --- | --- |
 | opp til 30<br>fra 30 til 40<br>fra 40 til 50<br>fra 50 til 75<br>over 75 | 300<br>400<br>600<br>1200<br>2500 | 150<br>200<br>300<br>600<br>1200 | 10<br>12<br>15<br>20<br>28 |
 

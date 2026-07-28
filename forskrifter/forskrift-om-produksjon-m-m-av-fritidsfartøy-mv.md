@@ -15,7 +15,7 @@ xml_hash: "fc108d5df560cb7b12b3bef7d1e8af467ad5b17f28b789b1b2e835e631112c40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -813,7 +813,7 @@ hvor A, B og n er konstanter i samsvar med tabellen, og PN er motorens merkeeffe
 2.2*Verdier som gjelder fra 18. januar 2016:*
 
 *Tabell 2*
-*Grenseverdier for eksosutslipp for motorer med kompresjonstenning*\*\*
+*Grenseverdier for eksosutslipp for motorer med kompresjonstenning*[^\*\*]
 
 \* Alternativt skal motorer med kompresjonstenning med en nominell effekt på eller over 37 kW og under 75 kW, og med et slagvolum på under 0,9 l/syl, ikke overskride en grenseverdi for partikkelutslipp (PT) på 0,20 g/kWh og en grenseverdi for et kombinert HC + NOx-utslipp på 5,8 g/kWh.
 
@@ -1802,7 +1802,7 @@ Dersom n ≥ 20, så er k = 0,860 / √n.
 2. Dersom CE-merkingen blir forminsket eller forstørret, skal størrelsesforholdet slik det framgår av figuren i nr. 1, overholdes.
 3. CE-merkingen skal være minst 5 mm høy.
 
-## Vedlegg 20. EU-samsvarserklæring nr. xxxxx1
+## Vedlegg 20. EU-samsvarserklæring nr. xxxxx[^1]
 
 1. Nr. xxxxx (Produkt: produkt, parti, type eller serienummer).
 2. Navn og adresse til produsenten eller produsentens representant [Representanten skal også oppgi bedriftens navn og produsentens adresse] eller den private importøren.

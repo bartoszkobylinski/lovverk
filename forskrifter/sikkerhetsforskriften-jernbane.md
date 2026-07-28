@@ -15,7 +15,7 @@ xml_hash: "f523c750ea788a4d9ac33b33ebd7089bd53c1ee5ea0d5fd656279e16da34dddf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -505,7 +505,7 @@ Sikkerhetssertifikater som er utstedt før 31. oktober 2020, skal være gyldige 
 
 ### § 12-2. Ikrafttredelse
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/798](eu/32016l0798) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 11. april 2011 nr. 389 om sikkerhetsstyring for jernbanevirksomheter på det nasjonale jernbanenettet (sikkerhetsstyringsforskriften)](forskrift/2011-04-11-389).1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/798](eu/32016l0798) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 11. april 2011 nr. 389 om sikkerhetsstyring for jernbanevirksomheter på det nasjonale jernbanenettet (sikkerhetsstyringsforskriften)](forskrift/2011-04-11-389).[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 797](forskrift/2022-05-06-797).
 

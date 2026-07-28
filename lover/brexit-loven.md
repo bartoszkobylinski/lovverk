@@ -15,7 +15,7 @@ xml_hash: "8fce24931ada2d2a1f9e04d59ad50717bb9c4f0fca69a86ffbcf5f77199661d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Forskriften kan avvike fra bestemmelser i annen lovgivning.
 
 ## § 4. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
 1 Loven trer i kraft straks iflg. [res. 27 nov 2020 nr. 2500](forskrift/2020-11-27-2500), med unntak av § 2 og § 5.
 § 2 og § 5 trer i kraft 1. januar 2021 iflg. [res. 18 des 2020 nr. 2842](forskrift/2020-12-18-2842).

@@ -15,7 +15,7 @@ xml_hash: "caed46f39c9eefd01224a428d1bad25fddf4a107cd104f0ba573707eb2137080"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Forskriftens formål er å ivareta sikkerhet, helse og arbeidsmiljø på bygge- 
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplasser.1 Med arbeid som utføres på bygge- og anleggsplasser, jf. [byggherreforskriften § 2](forskrift/2009-08-03-1028/§2), jf. [§ 4](forskrift/2009-08-03-1028/§4), menes:
+Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplasser.[^1] Med arbeid som utføres på bygge- og anleggsplasser, jf. [byggherreforskriften § 2](forskrift/2009-08-03-1028/§2), jf. [§ 4](forskrift/2009-08-03-1028/§4), menes:
 
 1. oppføring av bygninger
 2. innrednings-, utsmykkings- og installasjonsarbeid
@@ -136,7 +136,7 @@ Forsettlig eller uaktsom overtredelse av denne forskrift eller vedtak gitt i med
 
 ## § 11. Ikrafttredelse
 
-Forskriften gjelder fra den tid departementet bestemmer.1
+Forskriften gjelder fra den tid departementet bestemmer.[^1]
 
 > Endret ved [forskrift 3 mai 2011 nr. 438](forskrift/2011-05-03-438) (i kraft 1 juni 2011, tidligere § 9).
 

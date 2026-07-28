@@ -15,7 +15,7 @@ xml_hash: "ef4328b31047985678c607a33f1633623bdba1172acdca17532e3a8e8abc2d89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1
 
-Denne lov trer i kraft den 1 juli 19271 tillike med følgende lover:
+Denne lov trer i kraft den 1 juli 1927[^1] tillike med følgende lover:
 
 1. [lov om domstolene av 13 august 1915](lov/1915-08-13-5),
 2. [lov om rettergangsmåten for tvistemål av 13 august 1915](lov/1915-08-13-6) ,
@@ -124,9 +124,9 @@ Overdragelse som nevnt i annet ledd kan også skje ved bestemmelse i tariffavtal
 
 Med andragender om sakførerbevilling, indsendt før denne lovs ikrafttræden, forholdes efter den ældre lovgivning.
 
-De, som tidligere har bevilling som underretssakførere, kan ogsaa optræde ved lagmandsretterne (overrettene) under samme betingelser som andre sakførere.1
+De, som tidligere har bevilling som underretssakførere, kan ogsaa optræde ved lagmandsretterne (overrettene) under samme betingelser som andre sakførere.[^1]
 
-Bestemmelsene i domstolslovens2 § 219, annet ledd, gjelder ikke for dem, som tidligere har bevilling som overrettssakførere.
+Bestemmelsene i domstolslovens[^2] § 219, annet ledd, gjelder ikke for dem, som tidligere har bevilling som overrettssakførere.
 
 > Endret ved lov 25 feb 1927.
 
@@ -142,7 +142,7 @@ Bestemmelsene i domstolslovens2 § 219, annet ledd, gjelder ikke for dem, som ti
 
 – - –
 
-Bestemmelsen i tvistemålslovens1 § 279, femte punktum, får ikke anvendelse på forliksfullmakt i gjeldsbrev (vekselobligasjon) som er utstedt før 1. juli 1927.2
+Bestemmelsen i tvistemålslovens[^1] § 279, femte punktum, får ikke anvendelse på forliksfullmakt i gjeldsbrev (vekselobligasjon) som er utstedt før 1. juli 1927.[^2]
 
 > Første og annet ledd utelatt her som uten betydning. Tredje ledd tilføyd ved lov 25 feb 1927.
 
@@ -162,9 +162,9 @@ Bestemmelsen i tvistemålslovens1 § 279, femte punktum, får ikke anvendelse p�
 
 ### § 103
 
-Hvis ikke andet er bestemt i denne lov, kommer bestemmelserne i lov om tvangsfuldbyrdelse1 til anvendelse ogsaa, naar grundlaget for fuldbyrdelsen skriver sig fra tiden før denne lovs ikrafttræden uten at være forældet efter den tidligere lovgivnings bestemmelser.
+Hvis ikke andet er bestemt i denne lov, kommer bestemmelserne i lov om tvangsfuldbyrdelse[^1] til anvendelse ogsaa, naar grundlaget for fuldbyrdelsen skriver sig fra tiden før denne lovs ikrafttræden uten at være forældet efter den tidligere lovgivnings bestemmelser.
 
-Denne bestemmelse kommer ikke til anvendelse på eldre voldgiftsdommer og gjeldsbrev, herfra dog undtatt gjeldsbrev som er utstedt efter 31 desember 1926.2
+Denne bestemmelse kommer ikke til anvendelse på eldre voldgiftsdommer og gjeldsbrev, herfra dog undtatt gjeldsbrev som er utstedt efter 31 desember 1926.[^2]
 
 > Endret ved lov 25 feb 1927.
 
@@ -178,7 +178,7 @@ Denne bestemmelse kommer ikke til anvendelse på eldre voldgiftsdommer og gjelds
 
 Hvis der i henhold til den hittil gjeldende lovgivning er adgang til å forlange eksekusjon eller auksjon uten foregående lovmål og dom i henhold til et før denne lovs ikrafttreden oprettet dokument står denne adgang fremdeles åpen efter det nevnte tidspunkt, uansett de i loven om tvangsfullbyrdelse opstillede betingelser herfor. Likeså skal adgangen til tvangsfullbyrdelse i henhold til Norske lovs 6te boks 14de kapitels 6te artikkel fremdeles stå åpen, såfremt leieforholdet er inngått før nærværende lovs ikrafttreden.
 
-Fullbyrdelsen innledes og foretas efter reglene i lov om tvangsfullbyrdelse.1
+Fullbyrdelsen innledes og foretas efter reglene i lov om tvangsfullbyrdelse.[^1]
 
 > Endret ved lov 25 feb 1927.
 

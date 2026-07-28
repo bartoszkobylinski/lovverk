@@ -15,7 +15,7 @@ xml_hash: "e91d2d1ff248ff6eb2b5ac9fa3bd797d3a850f33c45d52b5fc9e45a8951006e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -256,7 +256,7 @@ Regler gitt i eller i medhold av loven har varighet til 31. desember 2029.
 
 ### § 29. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [midlertidig lov 22. desember 2021 nr. 170 om stønad til husholdninger som følge av ekstraordinære strømutgifter](lov/2021-12-22-170). Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [midlertidig lov 22. desember 2021 nr. 170 om stønad til husholdninger som følge av ekstraordinære strømutgifter](lov/2021-12-22-170). Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 29. august 2025 for [§ 10](lov/2025-06-20-44/§10),
 fra 15. september 2025 for øvrige bestemmelser i loven, iflg. [res. 29 aug 2025 nr. 1742](forskrift/2025-08-29-1742).

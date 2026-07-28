@@ -15,7 +15,7 @@ xml_hash: "5ca806be3c03f878baee9462a8e40fdb51d1f62952dcfd7b5fcc8461c6f95808"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,7 @@ eu_basis: []
 - [Lov 9. mars 1973 nr. 14](lov/1973-03-09-14) om vern mot tobakkskader, [§ 6](lov/1973-03-09-14/§6) og [§ 12](lov/1973-03-09-14/§12)
 - [Lov 14. desember 1973 nr. 61](lov/1973-12-14-61) om statsgaranti for lønnskrav ved konkurs m.v.
 - [Lov 11. juni 1976 nr. 79](lov/1976-06-11-79) om kontroll med produkter og forbrukertjenester, [§ 4](lov/1976-06-11-79/§4)
-- [Lov 12. juni 1981 nr. 61](lov/1981-06-12-61) om pensjonsordningen for stortingsrepresentanter1
+- [Lov 12. juni 1981 nr. 61](lov/1981-06-12-61) om pensjonsordningen for stortingsrepresentanter[^1]
 - [Lov 21. mai 1982 nr. 29](lov/1982-05-21-29) om opphevelse av lov av 9. november 1956 om pensjonsordningen for åremålstilsatte
 - [Lov 21. mai 1982 nr. 25](lov/1982-05-21-25) om tillegg til lov 28. juli 1949 om Statens Pensjonskasse
 - [Lov 21. juni 1985 nr. 83](lov/1985-06-21-83) om ansvarlige selskaper og kommandittselskaper, [§ 2-10](lov/1985-06-21-83/§2-10) og [§ 2-13](lov/1985-06-21-83/§2-13), annet ledd

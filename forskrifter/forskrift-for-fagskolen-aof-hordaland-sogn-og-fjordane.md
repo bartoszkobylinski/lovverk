@@ -15,7 +15,7 @@ xml_hash: "58c2a7baa11b6c17a4c467d7ec6ba14c692338d4811a4cbfd1d41e49ca069fdc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,7 @@ Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på 
 
 (1) Søknad om innpassing eller fritak må inneholde nødvendig dokumentasjon av omfang og innhold i emnet som studenten ønsker godskrevet. Eksempler på dokumentasjon er vitnemål, kompetansebevis, attester, studieplan med mer.
 
-(2) Utgangspunktet for vurderinger om innpassing og fritak er læringsutbyttet for den aktuelle utdanningen eller det aktuelle emnet, og fagskolepoeng1 eller andre vurderinger av omfang, nivå og arbeidsbelastning. Dersom utdanningen eller emnet ikke inneholder læringsutbyttebeskrivelser, kan studenten dokumentere læringsutbytte gjennom studieplan eller lignende.
+(2) Utgangspunktet for vurderinger om innpassing og fritak er læringsutbyttet for den aktuelle utdanningen eller det aktuelle emnet, og fagskolepoeng[^1] eller andre vurderinger av omfang, nivå og arbeidsbelastning. Dersom utdanningen eller emnet ikke inneholder læringsutbyttebeskrivelser, kan studenten dokumentere læringsutbytte gjennom studieplan eller lignende.
 
 (3) Innpassing/fritak for fag/emner vil fremgå av vitnemål eller karakterutskrift med merknad om grunnlaget for fritaket/innpassingen.
 
@@ -130,7 +130,7 @@ Se [§ 2-4](forskrift/2017-12-14-2471/§2-4) Rullerende opptak.
 4. Mappevurdering
 5. Digital eksamen
 6. Fag- og prosjektoppgaver
-7. Fagskoleansvarlig2 kan godkjenne andre vurderingsformer.
+7. Fagskoleansvarlig[^2] kan godkjenne andre vurderingsformer.
 
 (2) Det vil fremgå av den enkelte studieplan hvilke eksamens- og vurderingsformer som benyttes i den enkelte utdanning.
 

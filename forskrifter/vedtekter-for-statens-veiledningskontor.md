@@ -15,7 +15,7 @@ xml_hash: "1899dc2c638247514a6e86ff911f1f0edb3bf4349d399c246baa9a0a079ffba8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,6 +92,6 @@ Fastsettelse av og endringer i vedtektene foretas av Nærings- og handelsdeparte
 
 ## II
 
-Vedtektene trer i kraft straks. Samtidig oppheves vedtekter av 20. august 19931 for Statens Veiledningskontor for Oppfinnere (SVO).
+Vedtektene trer i kraft straks. Samtidig oppheves vedtekter av 20. august 1993[^1] for Statens Veiledningskontor for Oppfinnere (SVO).
 
 1 Ikke kunngjort i Norsk Lovtidend.

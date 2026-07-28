@@ -15,7 +15,7 @@ xml_hash: "ad2ec657a0f76e894806fb51ebca2e8cef0e3ce734b38782e7c7df858363f163"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -390,6 +390,6 @@ For å få utstedt vitnemål for graden må minst 60 studiepoeng av graden være
 
 ### § 9-1. Ikrafttredelse
 
-(1) Forskriften trer i kraft den dato det mottas godkjennelse fra Kunnskapsdepartementet til å tildele graden bachelor i musikkteater.1
+(1) Forskriften trer i kraft den dato det mottas godkjennelse fra Kunnskapsdepartementet til å tildele graden bachelor i musikkteater.[^1]
 
 1 I kraft 13. august 2012, jf. [forskrift 13. august 2012 nr. 804](forskrift/2012-08-13-804) om om endring i forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoer.

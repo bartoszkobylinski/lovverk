@@ -15,7 +15,7 @@ xml_hash: "a61bf6a30f2de6e31e3575b492e88efbf66f0576bc2cbfb7650c4757a5f4be5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016L0943"
@@ -130,7 +130,7 @@ Retten kan i dom i sak om inngrep i forretningshemmeligheter bestemme at informa
 
 ## § 12. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 Loven [§§ 5](lov/2020-03-27-15/§5) til [11](lov/2020-03-27-15/§11) gjelder for inngrep som finner sted etter at loven har trådt i kraft.
 

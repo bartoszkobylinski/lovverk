@@ -15,7 +15,7 @@ xml_hash: "0c5e60b0b61e017fc603891ebfa5e7c9ddbdd52d815e2989afadc965c44a6905"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017R1369"
@@ -38,7 +38,7 @@ Loven omfatter varer som omsettes ved salg eller leie eller er beregnet på slik
 
 Loven omfatter frivillig miljømerking av varer og tjenester, jf. [§ 9](lov/1981-12-18-90/§9).
 
-Bestemmelser i eller gitt i medhold av loven som tjener til oppfyllelse av forpliktelser etter EØS-avtalen,1 gjelder tilsvarende for omsetning innenfor Det europeiske økonomiske samarbeidsområdet.
+Bestemmelser i eller gitt i medhold av loven som tjener til oppfyllelse av forpliktelser etter EØS-avtalen,[^1] gjelder tilsvarende for omsetning innenfor Det europeiske økonomiske samarbeidsområdet.
 
 > Endret ved [lover 15 jan 1988 nr. 3](lov/1988-01-15-3), [22 des 1995 nr. 77](lov/1995-12-22-77), [26 juni 1998 nr. 44](lov/1998-06-26-44), [21 juni 2002 nr. 34](lov/2002-06-21-34) (ikr. 1 juli 2002), [7 juni 2013 nr. 28](lov/2013-06-07-28) (ikr. 1 juli 2013 iflg. [res. 7 juni 2013 nr. 591](forskrift/2013-06-07-591)).
 
@@ -59,7 +59,7 @@ Dersom det ikke er praktisk mulig eller formålstjenlig å merke varen selv elle
 
 For alle typer varer kan Kongen gi forskrift om at det skal utarbeides merke og opplysningsmateriale, herunder teknisk dokumentasjonsmateriale. I forskriften kan det gis bestemmelser om hvem som skal utarbeide og bekoste merkingen, opplysningsmaterialet og det tekniske dokumentasjonsmaterialet. Kongen kan gi forskrift om analysemetoder.
 
-Kongen kan gi forskrift om at merker og annet informasjonsmateriale som inneholder opplysninger om visse egenskaper ved en vare, skal utformes på en bestemt måte, uten samtidig å påby å utstyre varen eller emballasjen med merket eller informasjonen. Kongen1 kan i slike tilfeller også fastsette hvilke målemetoder som skal ligge til grunn for de aktuelle opplysningene og gi nærmere regler for tilsynet med at reglene overholdes.
+Kongen kan gi forskrift om at merker og annet informasjonsmateriale som inneholder opplysninger om visse egenskaper ved en vare, skal utformes på en bestemt måte, uten samtidig å påby å utstyre varen eller emballasjen med merket eller informasjonen. Kongen[^1] kan i slike tilfeller også fastsette hvilke målemetoder som skal ligge til grunn for de aktuelle opplysningene og gi nærmere regler for tilsynet med at reglene overholdes.
 
 > Endret ved [lover 15 jan 1988 nr. 3](lov/1988-01-15-3), [22 des 1995 nr. 77](lov/1995-12-22-77), [3 sep 2010 nr. 53](lov/2010-09-03-53) (ikr. 1 jan 2011 iflg. [res. 3 sep 2010 nr. 1245](forskrift/2010-09-03-1245)), [7 juni 2013 nr. 28](lov/2013-06-07-28) (ikr. 1 juli 2013 iflg. [res. 7 juni 2013 nr. 591](forskrift/2013-06-07-591)).
 
@@ -77,7 +77,7 @@ Departementet kan gi forskrift om hvilke overtredelser av forordning [(EU) 2017/
 
 ## § 4. Opplysninger ved postordresalg o.l.
 
-Kongen1 kan fastsette at opplysninger som nevnt i [§ 3](lov/1981-12-18-90/§3) skal framgå i tilbud, kataloger, annonser og annen markedsføring der varen frambys til salg eller leie, og det er forutsatt at kjøper inngår avtale eller foretar bestilling uten å ha sett varen.
+Kongen[^1] kan fastsette at opplysninger som nevnt i [§ 3](lov/1981-12-18-90/§3) skal framgå i tilbud, kataloger, annonser og annen markedsføring der varen frambys til salg eller leie, og det er forutsatt at kjøper inngår avtale eller foretar bestilling uten å ha sett varen.
 
 > Tilføyd ved [lov 15 jan 1988 nr. 3](lov/1988-01-15-3), endret ved [lover 22 des 1995 nr. 77](lov/1995-12-22-77), [3 sep 2010 nr. 53](lov/2010-09-03-53) (ikr. 1 jan 2011 iflg. [res. 3 sep 2010 nr. 1245](forskrift/2010-09-03-1245)), tidligere § 3 a.
 
@@ -101,7 +101,7 @@ Tilsynsmyndigheten skal ha adgang til ethvert sted hvor det produseres, lagres, 
 
 Tilsyn med frivillig miljømerking av varer og tjenester er regulert i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 2 a (forordning [(EF) nr. 66/2010](eu/32010r0066*)) om EU-miljømerket artikkel 10, jf. [§ 9](lov/1992-11-27-109/§9).
 
-Kongen1 kan gi forskrifter om at prøver til undersøkelse skal stilles til rådighet og hvis nødvendig avstås vederlagsfritt til tilsynsmyndigheten. Kongen kan gi nærmere bestemmelser om at leverandør, forhandler eller importør kan pålegges å betale utgiftene til undersøkelse dersom produkter viser seg å være feilmerket.
+Kongen[^1] kan gi forskrifter om at prøver til undersøkelse skal stilles til rådighet og hvis nødvendig avstås vederlagsfritt til tilsynsmyndigheten. Kongen kan gi nærmere bestemmelser om at leverandør, forhandler eller importør kan pålegges å betale utgiftene til undersøkelse dersom produkter viser seg å være feilmerket.
 
 Vedkommende departement kan fastsette instruks for tilsynsvirksomheten og for den praktiske gjennomføring.
 
@@ -121,7 +121,7 @@ Kongen kan gi nærmere bestemmelser om tvangsmulktens størrelse, varighet, fast
 
 > Tilføyd ved [lov 3 sep 2010 nr. 53](lov/2010-09-03-53) (ikr. 1 jan 2011 iflg. [res. 3 sep 2010 nr. 1245](forskrift/2010-09-03-1245)).
 
-## § 8.1
+## § 8.[^1]
 
 For å gjennomføre Norges forpliktelser etter EØS-avtalen kan Kongen gi forskrift om at opplysninger som har betydning for forbrukerens vurdering av varens energi- og ressursbruk eller virkning på miljøet, også skal tas inn i markedsføring av det aktuelle vareslag.
 
@@ -167,7 +167,7 @@ Denne lov trer i kraft straks.
 
 > Endret ved [lover 9 jan 2009 nr. 2](lov/2009-01-09-2) (ikr. 1 juni 2009 iflg. [res. 9 jan 2009 nr. 7](forskrift/2009-01-09-7)), [3 sep 2010 nr. 53](lov/2010-09-03-53) (ikr. 1 jan 2011 iflg. [res. 3 sep 2010 nr. 1245](forskrift/2010-09-03-1245)), tidligere § 8.
 
-## Forordning1
+## Forordning[^1]
 
 Nedenfor følger forordning [nr. 66/2010](eu/32010r0066*) (jf. [lovens § 9](lov/1981-12-18-90/§9)). Forordningen foreligger ikke i EØS-tilpasset form. Som EØS-regelverk må forordningen sammenholdes med de EØS-tilpasninger som er nevnt i [lovens § 9](lov/1981-12-18-90/§9). I praksis innebærer det at «Fellesskapet» og «medlemsstat» i stor grad må forstås som «EØS» og «EØS-stat». Videre må det tas hensyn til at det for EFTA-statene i EØS kan gjelde særskilte prosedyrer og institusjonelle ordninger som legger kompetanse til Kommisjonen og Utvalget for miljømerking i EU (EUEB).
 
@@ -181,20 +181,20 @@ med tilvising til traktaten om skipinga av Det europeiske fellesskapet, særleg 
 
 med tilvising til framlegget frå Kommisjonen,
 
-med tilvising til fråsegna frå Det europeiske økonomi- og sosialutvalet,1
+med tilvising til fråsegna frå Det europeiske økonomi- og sosialutvalet,[^1]
 
-med tilvising til fråsegna frå Regionutvalet,2
+med tilvising til fråsegna frå Regionutvalet,[^2]
 
-etter den framgangsmåten som er fastsett i artikkel 251 i traktaten,3 og
+etter den framgangsmåten som er fastsett i artikkel 251 i traktaten,[^3] og
 
 ut frå desse synsmåtane:
 
-1. Målet med europaparlaments- og rådsforordning [(EF) nr. 1980/2000](eu/32000r1980) av 17. juli 2000 om ei revidert fellesskapsordning for tildeling av miljømerke4 var å skipe ei frivillig ordning for tildeling av miljømerke med sikte på å fremje produkt som har redusert innverknad på miljøet gjennom heile livssyklusen sin, og å gje forbrukarane nøyaktige, ikkje-villeiande og vitskapleg underbygde opplysningar om miljøverknadene til produkta.
+1. Målet med europaparlaments- og rådsforordning [(EF) nr. 1980/2000](eu/32000r1980) av 17. juli 2000 om ei revidert fellesskapsordning for tildeling av miljømerke[^4] var å skipe ei frivillig ordning for tildeling av miljømerke med sikte på å fremje produkt som har redusert innverknad på miljøet gjennom heile livssyklusen sin, og å gje forbrukarane nøyaktige, ikkje-villeiande og vitskapleg underbygde opplysningar om miljøverknadene til produkta.
 2. Røynslene frå gjennomføringa av forordning [(EF) nr. 1980/2000](eu/32000r1980) har synt at det er behov for å endre denne ordninga for tildeling av miljømerke slik at ho vert meir effektiv og enklare i bruk.
 3. Den endra ordninga (heretter kalla «ordninga for tildeling av EU-miljømerke») bør gjennomførast i samsvar med føresegnene i traktatane, særleg føre-var-prinsippet slik det er fastsett i artikkel 174 nr. 2 i EF-traktaten.
-4. Det er naudsynt å samordne ordninga for tildeling av EU-miljømerke og fastsetjinga av krav innanfor ramma av europaparlaments- og rådsdirektiv [2009/125/EF](eu/32009l0125) av 21. oktober 2009 om fastsettelse av en ramme for å fastsette krav til miljøvennlig utforming av energirelaterte produkter.5
+4. Det er naudsynt å samordne ordninga for tildeling av EU-miljømerke og fastsetjinga av krav innanfor ramma av europaparlaments- og rådsdirektiv [2009/125/EF](eu/32009l0125) av 21. oktober 2009 om fastsettelse av en ramme for å fastsette krav til miljøvennlig utforming av energirelaterte produkter.[^5]
 5. Ordninga for tildeling av EU-miljømerke er ein del av fellesskapspolitikken for berekraftig forbruk og produksjon, som tek sikte på å redusere den negative innverknaden som forbruk og produksjon har på miljøet, helsa, klimaet og naturressursane. Ordninga er meint å skulle fremje dei produkta som har eit høgt nivå for miljøprestasjon gjennom bruken av EU-miljømerket. Det er difor føremålstenleg å krevje at kriteria som produkta må oppfylle for å kunne bere EU-miljømerket, byggjer på den beste miljøprestasjonen som produkt på fellesskapsmarknaden har oppnådd. Desse kriteria bør vere lett forståelege og enkle å bruke, og bør byggje på vitskapleg dokumentasjon, samstundes som det vert teke omsyn til den nyaste teknologiske utviklinga. Kriteria bør vere marknadsorienterte, og bør avgrensast til dei viktigaste miljøverknadene til produkta gjennom heile livssyklusen deira.
-6. For å avgrense talet på miljømerkingsordningar, og for å oppmuntre til betre miljøprestasjon i alle sektorar der miljøverknad påverkar valet til forbrukarane, bør høvet til å nytte EU-miljømerket utvidast. Når det gjeld varegrupper innanfor næringsmiddel og fôrvarer, bør det gjennomførast ei gransking for å sikre at kriteria er føremålstenlege og at ein tilleggsverdi kan sikrast. Når det gjeld næringsmiddel og fôrvarer, og når det gjeld utilverka landbruksprodukt som høyrer inn under verkeområdet for rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkt,6 bør det vurderast om EU-miljømerket skal kunne tildelast berre dei produkta som er sertifiserte som økologiske, for såleis å unngå forvirring hjå forbrukarane.
+6. For å avgrense talet på miljømerkingsordningar, og for å oppmuntre til betre miljøprestasjon i alle sektorar der miljøverknad påverkar valet til forbrukarane, bør høvet til å nytte EU-miljømerket utvidast. Når det gjeld varegrupper innanfor næringsmiddel og fôrvarer, bør det gjennomførast ei gransking for å sikre at kriteria er føremålstenlege og at ein tilleggsverdi kan sikrast. Når det gjeld næringsmiddel og fôrvarer, og når det gjeld utilverka landbruksprodukt som høyrer inn under verkeområdet for rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkt,[^6] bør det vurderast om EU-miljømerket skal kunne tildelast berre dei produkta som er sertifiserte som økologiske, for såleis å unngå forvirring hjå forbrukarane.
 7. EU-miljømerket bør ha som føremål at farlege stoff vert bytte ut med tryggare stoff der dette er teknisk mogleg.
 8. For at ålmenta skal kunne godta ordninga for tildeling av EU-miljømerke, er det særs viktig at ikkje-statlege miljøorganisasjonar og forbrukarorganisasjonar spelar ei viktig rolle og tek aktivt del i utviklinga og fastsetjinga av kriteria for tildeling av EU-miljømerket.
 9. Det er ønskjeleg at alle partar som det gjeld, kan få leie utarbeidinga eller revisjonen av kriteria for tildeling av EU-miljømerke, på det vilkåret at felles sakshandsamingsreglar vert følgde, og at prosessen vert samordna av Kommisjonen. For å sikre ein overordna samanheng i fellesskapstiltaket er det òg føremålstenleg å krevje at det ved utarbeiding eller revisjon av kriteria for tildeling av EU-miljømerke vert teke omsyn til dei nyaste strategiske miljømåla til Fellesskapet, t.d. handlingsprogramma for miljø, strategiane for berekraftig utvikling og programma for klimaendring.
@@ -205,7 +205,7 @@ ut frå desse synsmåtane:
 14. Medlemsstatane bør vurdere å fastsetje retningslinjer når dei innfører sine eigne nasjonale handlingsplanar for miljøvenlege offentlege innkjøp, og bør vurdere å fastsetje mål for offentleg innkjøp av miljøvenlege produkt.
 15. For å gjere det mogleg å marknadsføre miljømerkte produkt på nasjonalt plan og på fellesskapsplan, for å avgrense ekstraarbeidet for føretaka, særleg for små og mellomstore føretak, og for å unngå å skape forvirring blant forbrukarane, er det òg naudsynt å betre samanhengen og fremje harmoniseringa mellom ordninga for tildeling av EU-miljømerke og nasjonale ordningar for miljømerking i Fellesskapet.
 16. For å sikre ein harmonisert bruk av ordninga for tildeling av EU-miljømerke og av marknadsovervakinga og -kontrollen med bruken av EU-miljømerket i heile Fellesskapet, bør dei rette organa utveksle opplysningar og røynsler.
-17. Dei tiltaka som er naudsynte for å gjennomføre denne forordninga, bør vedtakast i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er gitt Kommisjonen.7
+17. Dei tiltaka som er naudsynte for å gjennomføre denne forordninga, bør vedtakast i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er gitt Kommisjonen.[^7]
 18. Kommisjonen bør særleg få fullmakt til å vedta dei kriteria som produkta må oppfylle for at dei skal kunne bere EU-miljømerket, og til å endre vedlegga til denne forordninga. Ettersom desse tiltaka er allmenne og har som føremål å endre ikkje-grunnleggjande føresegner i denne forordninga, m.a. ved å utfylle henne med nye ikkje-grunnleggjande føresegner, bør dei vedtakast etter den framgangsmåten med forskriftsutval med kontroll som er fastsett i artikkel 5a i avgjerd [1999/468/EF](eu/31999d0468).
 19. Av omsyn til klarleiken og rettstryggleiken bør difor forordning [(EF) nr. 1980/2000](eu/32000r1980) bytast ut med denne forordninga.
 20. Det bør fastsetjast høvelege overgangsføresegner for å sikre ein smidig overgang mellom forordning [(EF) nr. 1980/2000](eu/32000r1980) og denne forordninga –
@@ -234,7 +234,7 @@ I denne forordninga vert det fastsett reglar for innføring og bruk av den frivi
 
 1\. Denne forordninga skal nyttast på alle varer eller tenester som vert leverte for distribusjon, konsum eller bruk på fellesskapsmarknaden, anten mot vederlag eller gratis (heretter kalla «produkt»).
 
-2\. Denne forordninga skal ikkje nyttast verken på lækjemiddel slik det er definert i europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler1 eller på veterinærpreparat slik det er definert i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,2 og heller ikkje på noka form for medisinsk utstyr.
+2\. Denne forordninga skal ikkje nyttast verken på lækjemiddel slik det er definert i europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler[^1] eller på veterinærpreparat slik det er definert i europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,[^2] og heller ikkje på noka form for medisinsk utstyr.
 
 1 TEF L 311 av 28.11.2001, s. 67.
 
@@ -284,11 +284,11 @@ I denne forordninga tyder:
 
 4\. Kriteria for tildeling av EU-miljømerke skal omfatte krav som skal sikre at produkta som er påførte EU-miljømerket, fungerer slik dei skal i samsvar med den påtenkte bruken deira.
 
-5\. Før det vert utarbeidd kriterium for tildeling av EU-merke til næringsmiddel og fôrvarer slik det er definert i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1 skal Kommisjonen innan 31. desember 2011 gjennomføre ei gransking for å slå fast om det er mogleg å fastsetje pålitelege kriterium for miljøprestasjonen til slike produkt gjennom heile livssyklusen deira, medrekna fiskeri- og akvakulturprodukt. I denne granskinga bør det leggjast særleg vekt på korleis alle kriteria for tildeling av EU-miljømerke verkar inn på næringsmiddel og fôrvarer, og dessutan på utilverka landbruksprodukt som er omfatta av verkeområdet for forordning [(EF) nr. 834/2007](eu/32007r0834). Granskinga bør ta omsyn til det alternativet at berre dei produkta som er godkjende som økologiske, vil kunne få tildelt EU-miljømerket, for såleis å unngå å skape forvirring blant forbrukarane.
+5\. Før det vert utarbeidd kriterium for tildeling av EU-merke til næringsmiddel og fôrvarer slik det er definert i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,[^1] skal Kommisjonen innan 31. desember 2011 gjennomføre ei gransking for å slå fast om det er mogleg å fastsetje pålitelege kriterium for miljøprestasjonen til slike produkt gjennom heile livssyklusen deira, medrekna fiskeri- og akvakulturprodukt. I denne granskinga bør det leggjast særleg vekt på korleis alle kriteria for tildeling av EU-miljømerke verkar inn på næringsmiddel og fôrvarer, og dessutan på utilverka landbruksprodukt som er omfatta av verkeområdet for forordning [(EF) nr. 834/2007](eu/32007r0834). Granskinga bør ta omsyn til det alternativet at berre dei produkta som er godkjende som økologiske, vil kunne få tildelt EU-miljømerket, for såleis å unngå å skape forvirring blant forbrukarane.
 
 Kommisjonen skal avgjere, samstundes som han tek omsyn til resultatet av granskinga og fråsegna frå EUEB, kva næringsmiddel- og fôrvaregruppe som det eventuelt vil kunne utarbeidast kriterium for tildeling av EU-miljømerke for, i samsvar med framgangsmåten med forskriftsutval med kontroll som er nemnd i artikkel 16 nr. 2.
 
-6\. EU-miljømerket kan ikkje tildelast varer som inneheld stoff eller preparat/blandingar som oppfyller kriteria for klassifisering som giftige, miljøfarlege, kreftframkallande, arvestoffskadelege eller reproduksjonsskadelege i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*) av 16. desember 2008 om klassifisering, merking og emballering av stoffer og stoffblandinger,2 eller varer som inneheld stoff som er nemnde i artikkel 57 i europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) av 18. desember 2006 om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH), og om opprettelse av et europeisk kjemikaliebyrå.3
+6\. EU-miljømerket kan ikkje tildelast varer som inneheld stoff eller preparat/blandingar som oppfyller kriteria for klassifisering som giftige, miljøfarlege, kreftframkallande, arvestoffskadelege eller reproduksjonsskadelege i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*) av 16. desember 2008 om klassifisering, merking og emballering av stoffer og stoffblandinger,[^2] eller varer som inneheld stoff som er nemnde i artikkel 57 i europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) av 18. desember 2006 om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH), og om opprettelse av et europeisk kjemikaliebyrå.[^3]
 
 7\. For visse kategoriar av varer som inneheld stoff som er nemnde i nr. 6, og berre i tilfelle der det ikkje er teknisk mogleg å byte dei ut med tryggare stoff eller ta i bruk alternative materiale eller utformingar, eller for produkt som har ein vesentleg høgare samla miljøprestasjon jamført med andre varer i same kategori, kan Kommisjonen vedta tiltak med sikte på å gje unntak frå nr. 6. Det skal ikkje gjevast unntak for stoff som oppfyller kriteria i artikkel 57 i forordning [(EF) nr. 1907/2006](eu/32006r1907*), og som er identifisert i samsvar med den framgangsmåten som det er gjort greie for i artikkel 59 nr. 1 i den nemnde forordninga, og som finst i blandingar, i ein artikkel eller i ein homogen del av ein samansett artikkel i konsentrasjonar på over 0,1 vektprosent. Dei tiltaka som er utarbeidde for å endre ikkje-grunnleggjande føresegner i denne forordninga, skal vedtakast i samsvar med framgangsmåten med forskriftsutval med kontroll som er nemnd i artikkel 16 nr. 2.
 
@@ -606,7 +606,7 @@ xxxx viser til registreringsstaten, yyy viser til produktgruppa og zzzzz viser t
 
 Merket, den valfrie etiketten med tekstfelt og registreringsnummeret skal prentast anten i to fargar (Pantone 347 grøn til blada og stilken til blomsten, «Є»-symbolet, nettadressa og EU-akronymet, og Pantone 279 til alle andre element, tekst og kantar), eller i svart på kvitt, eller i kvitt på svart.
 
-### Vedlegg III. Gebyr1
+### Vedlegg III. Gebyr[^1]
 
 1 Vedlegget endret ved kommisjonsforordning [(EU) nr. 782/2013](eu/32013r0782).
 
@@ -614,9 +614,9 @@ Merket, den valfrie etiketten med tekstfelt og registreringsnummeret skal prenta
 
    Det rette organet som tek imot ein søknad, skal krevje inn eit gebyr for handsaminga av søknaden. Dette gebyret skal vere på minst 200 euro og høgst 2 000 euro.
 
-   Når det gjeld små og mellomstore føretak1 og marknadsdeltakarar i utviklingsland, skal søknadsgebyret ikkje overstige 600 euro.
+   Når det gjeld små og mellomstore føretak[^1] og marknadsdeltakarar i utviklingsland, skal søknadsgebyret ikkje overstige 600 euro.
 
-   Når det gjeld svært små føretak2, skal søknadsgebyret ikkje overstige 350 euro.
+   Når det gjeld svært små føretak[^2], skal søknadsgebyret ikkje overstige 350 euro.
 
    Søknadsgebyret skal reduserast med 30% for søkjarar som er registrerte i fellesskapsordninga for miljøstyring og miljørevisjon (EMAS), eller med 15% for dei som er sertifiserte i samsvar med ISO-standard 14001. Reduksjonane er ikkje kumulative. Dersom vilkåra i begge ordningane er oppfylte, skal berre den største reduksjonen nyttast.
 
@@ -652,7 +652,7 @@ Innleiing
 
 Det rette organet ................... (fullt namn), heretter kalla «det rette organet»,
 
-registrert i ................... (fullstendig adresse), som i denne avtala er representert av ............... ............ (namnet på den ansvarlege personen), og ....................... (fullt namn på innehavaren), i eigenskap av produsent, tilverkar, importør, tenesteytar, grossist eller detaljist med følgjande offisielle adresse ..... ............ ..... (fullstendig adresse), heretter kalla «innehavaren», representert av ....................... (namnet på den ansvarlege personen), er vortne samde om følgjande med omsyn til bruk av EU-miljømerket, i medhald av europaparlaments- og rådsforordning [(EU) nr. 66/2010](eu/32010r0066*) av 25. november 2009 om EU-miljømerket,1 heretter kalla «forordninga om EU-miljømerket»:
+registrert i ................... (fullstendig adresse), som i denne avtala er representert av ............... ............ (namnet på den ansvarlege personen), og ....................... (fullt namn på innehavaren), i eigenskap av produsent, tilverkar, importør, tenesteytar, grossist eller detaljist med følgjande offisielle adresse ..... ............ ..... (fullstendig adresse), heretter kalla «innehavaren», representert av ....................... (namnet på den ansvarlege personen), er vortne samde om følgjande med omsyn til bruk av EU-miljømerket, i medhald av europaparlaments- og rådsforordning [(EU) nr. 66/2010](eu/32010r0066*) av 25. november 2009 om EU-miljømerket,[^1] heretter kalla «forordninga om EU-miljømerket»:
 
 1 TEU L 27 av 30.1.2010, s. 1.
 
@@ -758,7 +758,7 @@ Etter at denne avtala har slutta å gjelde, kan innehavaren ikkje nytte EU-milj�
 
 5.6.
 
-Alle tvistar mellom det rette organet og innehavaren, eller alle innbyrdes klager mellom partane som vert sette fram innanfor ramma av denne avtala, og som ikkje er vortne avgjorde ved ei minneleg ordning, høyrer inn under den lovgjevinga som vert nytta i samsvar med europaparlaments- og rådsforordning [593/2008](eu/32008r0593*) (EF) av 17. juni 2008 om hvilken lovgivning som får anvendelse på avtaleforpliktelser (Roma I)1 og europaparlaments- og rådsforordning [(EF) nr. 864/2007](eu/32007r0864) av 11. juli 2007 om hvilken lovgivning som får anvendelse på forpliktelser utenfor avtaleforhold (Roma II).2
+Alle tvistar mellom det rette organet og innehavaren, eller alle innbyrdes klager mellom partane som vert sette fram innanfor ramma av denne avtala, og som ikkje er vortne avgjorde ved ei minneleg ordning, høyrer inn under den lovgjevinga som vert nytta i samsvar med europaparlaments- og rådsforordning [593/2008](eu/32008r0593*) (EF) av 17. juni 2008 om hvilken lovgivning som får anvendelse på avtaleforpliktelser (Roma I)[^1] og europaparlaments- og rådsforordning [(EF) nr. 864/2007](eu/32007r0864) av 11. juli 2007 om hvilken lovgivning som får anvendelse på forpliktelser utenfor avtaleforhold (Roma II).[^2]
 
 Dei følgjande vedlegga skal vere ein del av denne avtala:
 

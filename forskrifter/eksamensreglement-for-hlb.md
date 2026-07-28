@@ -15,7 +15,7 @@ xml_hash: "f01f0369345de4a36e3ec3bc49ee954c6b12699b5a0e280dffefdefef9adbd2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -253,7 +253,7 @@ Det er høve til å forbetre karakterar. Dette kan skje ved ordinære eksamenar 
    Normalt skal slik eksamen arrangerast innan utløpet av neste semester.
 2. Dersom det i gjeldande studieplan vert kravd at aktuell eksamen er bestått før vidare studium vert påbegynt, kan det arrangerast ekstraordinær eksamen før eller i samband med oppstart av påfylgjande studium. Studentar kan krevje slik eksamen seinast 7 dagar etter at sensuren er gjort kjent.
 3. Dersom ein student vil gå opp til eksamen, gjeld det pensum og den eksamensform som er fastsett for denne eksamen.
-4. Studentar som stryk til ordinær eksamen blir automatisk oppmeldt til kontinuasjonseksamen. Og må betala ein fastsett kontinuasjons-/eksamensavgift.1 Sjå elles [§ 4](forskrift/2007-08-31-1133/§4) pkt. b om betaling.
+4. Studentar som stryk til ordinær eksamen blir automatisk oppmeldt til kontinuasjonseksamen. Og må betala ein fastsett kontinuasjons-/eksamensavgift.[^1] Sjå elles [§ 4](forskrift/2007-08-31-1133/§4) pkt. b om betaling.
 5. Dersom det arrangerast ny eksamen har også studentar som ynskjer å forbetre karakteren tilgang til eksamen. Studentar som ynskjer å forbetre karakteren må melde seg opp til eksamen skriftleg og innan fristar som høgskulen fastsett. Kontinuasjons-/eksamensavgift må betalast.
 6. Dersom ein kandidat har bestått eksamen, meir enn éin gang, er det den siste karakter som gjeld.
 
@@ -322,6 +322,6 @@ Jf. § 4-7 i lov om universitet og høgskuler.
 
 ## § 19. Ikrafttreden
 
-Dette reglementet trer i kraft frå 31. august 2007 og erstattar eksamensreglement av 2. mars 2005.1
+Dette reglementet trer i kraft frå 31. august 2007 og erstattar eksamensreglement av 2. mars 2005.[^1]
 
 1 Ikkje kunngjort i Norsk Lovtidend.

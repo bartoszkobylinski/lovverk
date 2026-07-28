@@ -15,7 +15,7 @@ xml_hash: "3208a06d1bb3b7bc4b1ea198fb2f66ab64d600275d8a8e8fc68f5bfbb13833bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -939,7 +939,7 @@ Frem til 1. januar 2014 kan behandlingskodene HT DB eller HT KD DB brukes i sted
 | 9 | Jord, dyrkingsmedium, jorddekkings- og jordforbedringsmidler, organisk gjødsel og organisk-mineralsk gjødsel som består helt eller delvis av: |  |
 |  | Jord |  |
 |  | Plantedeler |  |
-|  | Torv1 |  |
+|  | Torv[^1] |  |
 |  | Bark |  |
 |  | Kompost |  |
 |  | Organisk gjødsel i fast form |  |
@@ -1107,9 +1107,9 @@ Wood packaging material must be heated in accordance with a specific time-temper
 
 *Methyl bromide treatment (treatment code for the mark: MB)*
 
-Use of methyl bromide should be undertaken taking into account the CPM Recommendation *Replacement or reduction of the use of methyl bromide as a phytosanitary measure* (2008). NPPOs are encouraged to promote the use of alternative treatments approved in this standard.1
+Use of methyl bromide should be undertaken taking into account the CPM Recommendation *Replacement or reduction of the use of methyl bromide as a phytosanitary measure* (2008). NPPOs are encouraged to promote the use of alternative treatments approved in this standard.[^1]
 
-The wood packaging material must be fumigated with methyl bromide in accordance with a schedule that achieves the minimum concentration-time product2 (CT) over 24 hours at the temperature and final residual concentration specified in Table 1. This CT must be achieved throughout the wood, including at its core, although the concentrations would be measured in the ambient atmosphere. The minimum temperature of the wood and its surrounding atmosphere must be not less than 10° C and the minimum exposure time must be not less than 24 hours. Monitoring of gas concentrations must be carried out at a minimum at 2, 4 and 24 hours (in the case of longer exposure times and weaker concentrations, additional measurement should be recorded at the end of fumigation).
+The wood packaging material must be fumigated with methyl bromide in accordance with a schedule that achieves the minimum concentration-time product[^2] (CT) over 24 hours at the temperature and final residual concentration specified in Table 1. This CT must be achieved throughout the wood, including at its core, although the concentrations would be measured in the ambient atmosphere. The minimum temperature of the wood and its surrounding atmosphere must be not less than 10° C and the minimum exposure time must be not less than 24 hours. Monitoring of gas concentrations must be carried out at a minimum at 2, 4 and 24 hours (in the case of longer exposure times and weaker concentrations, additional measurement should be recorded at the end of fumigation).
 
 1 In addition, contracting parties to the IPPC may also have obligations under the Montreal Protocol on Substances that deplete the Ozone Layer.
 
@@ -1155,7 +1155,7 @@ As new technical information becomes available, existing treatments may be revie
 ### ISPM 15. Annex 2
 The mark and its application
 
-A mark indicating that wood packaging material has been subjected to approved phytosanitary treatment in accordance with this standard1 comprises the following required components:
+A mark indicating that wood packaging material has been subjected to approved phytosanitary treatment in accordance with this standard[^1] comprises the following required components:
 
 - the symbol
 - a country code

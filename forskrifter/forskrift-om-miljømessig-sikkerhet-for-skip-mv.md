@@ -16,7 +16,7 @@ xml_hash: "24c5d0770711bb22f228d0efc8f1479b75f76113ea5d4e8fe98be7fe2c61149b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -368,8 +368,8 @@ Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskri
 
 | *Section* | *Heading* | *Content* |
 | --- | --- | --- |
-| *1* | *Identification of the substance or mixture and of the supplier* | – Name of the category – see guidance in annex 21 for MARPOL Annex 1 type oil cargoes and oil fuels.<br>– The name of the substances.<br>– Trade name of the substances.<br>– Description on Bill of Lading (B/L), Bunker Delivery Note or other shipping document.<br>– Other means of identification.<br>– Supplier's details (including name, address, telephone number, etc.).<br>– Emergency telephone number. |
-| *2* | *Hazards identification* | – GHS2 classification of the substance/mixture and any regional information.<br>– Other hazards which do not result in classification (e.g., hydrogen sulphide) or are not covered by the GHS. See Guidelines in annex 2. |
+| *1* | *Identification of the substance or mixture and of the supplier* | – Name of the category – see guidance in annex 2[^1] for MARPOL Annex 1 type oil cargoes and oil fuels.<br>– The name of the substances.<br>– Trade name of the substances.<br>– Description on Bill of Lading (B/L), Bunker Delivery Note or other shipping document.<br>– Other means of identification.<br>– Supplier's details (including name, address, telephone number, etc.).<br>– Emergency telephone number. |
+| *2* | *Hazards identification* | – GHS[^2] classification of the substance/mixture and any regional information.<br>– Other hazards which do not result in classification (e.g., hydrogen sulphide) or are not covered by the GHS. See Guidelines in annex 2. |
 | *3* | *Composition/information on ingredients* | – Common name, synonyms, etc. on ingredients.<br>– Impurities and stabilizing additives which are themselves classified and which contribute to the classification of the substances.<br>– The chemical identity and concentration or concentration ranges of all ingredients which are hazardous within the meaning of GHS and are present above their cut-off levels. Cut-off level for reproductive toxicity, carcinogenicity and category 1 mutagenicity is 0.1 %. Cut-off level for all other hazard classes is 1 %. See Guidelines in annex 2. |
 | *4* | *First aid measures* | – Description of necessary measures, subdivided according to the different routes of exposure, i.e. inhalation, skin and eye contact and ingestion.<br>– Most important symptoms/effects, acute and delayed.<br>– Indication of immediate medical attention and special treatment, if necessary. |
 | *5* | *Fire-fighting measures* | – Suitable extinguishing media.<br>– Specific hazards arising from the chemical (e.g., nature of any hazardous combustion products).<br>– Special protective equipment and precautions for fire-fighters. |

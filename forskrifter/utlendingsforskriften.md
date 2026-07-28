@@ -16,7 +16,7 @@ xml_hash: "f5c759e568bbbe24454acae38e031c3b573022ee22731f9fe60d225c8bf47f64"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -4648,17 +4648,17 @@ Sjøfolk som er omfattet av følgende bilaterale skipsfartsavtaler, er unntatt f
 Innehavere av følgende diplomat-, tjeneste- og spesialpass er unntatt fra visumplikten pr. 14. august 2025, jf. [utlendingsforskriften § 1-8](forskrift/2009-10-15-1286/§1-8) første ledd:
 
 - Albansk diplomatpass (gjelder kun akkreditert ambassadør til Norge og dennes ektefelle og barn)
-- Armensk diplomatpass1
-- Aserbajdsjansk diplomatpass1
+- Armensk diplomatpass[^1]
+- Aserbajdsjansk diplomatpass[^1]
 - Boliviansk diplomat- og tjenestepass
 - Emiratarabisk diplomat- og spesialpass
 - Filippinsk diplomat-, tjeneste- og spesialpass
-- Indisk diplomatpass1
-- Indonesisk diplomat- og tjenestepass1
-- Jordansk diplomatpass1
-- Kasakhstansk diplomatpass1
-- Kinesisk diplomatpass1
-- Laotiske diplomatpass1
+- Indisk diplomatpass[^1]
+- Indonesisk diplomat- og tjenestepass[^1]
+- Jordansk diplomatpass[^1]
+- Kasakhstansk diplomatpass[^1]
+- Kinesisk diplomatpass[^1]
+- Laotiske diplomatpass[^1]
 - Makedonsk diplomat- og tjenestepass
 - Marokkansk diplomat-, tjeneste- og spesialpass
 - Moldovsk diplomatpass
@@ -4752,7 +4752,7 @@ Følgende identitetsdokumenter er pr. 8. juli 2024 godkjent som reisedokumenter,
 
 Utlendinger fra følgende stater, spesielle administrative regioner og oversjøiske territorier er visumfrie ved innreise i Norge pr. 14. august 2025, jf. [utlendingsforskriften § 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav e og [§ 3-3](forskrift/2009-10-15-1286/§3-3) annet ledd:
 
-- Albania4
+- Albania[^4]
 - Amerikas Forente Stater
 - Andorra
 - Antigua og Barbuda
@@ -4761,8 +4761,8 @@ Utlendinger fra følgende stater, spesielle administrative regioner og oversjøi
 - Bahamas
 - Barbados
 - Belgia
-- Bermuda1
-- Bosnia-Hercegovina4
+- Bermuda[^1]
+- Bosnia-Hercegovina[^4]
 - Brasil
 - Brunei
 - Bulgaria
@@ -4777,39 +4777,39 @@ Utlendinger fra følgende stater, spesielle administrative regioner og oversjøi
 - Finland
 - Forente arabiske emirater
 - Frankrike
-- Georgia4 7
+- Georgia[^4] [^7]
 - Grenada
 - Guatemala
 - Hellas
 - Honduras
-- Hongkong2
+- Hongkong[^2]
 - Irland
 - Island
 - Israel
 - Italia
 - Japan
 - Kiribati
-- Kosovo4
+- Kosovo[^4]
 - Kroatia
 - Kypros
 - Latvia
 - Liechtenstein
 - Litauen
 - Luxembourg
-- Macao3
+- Macao[^3]
 - Malaysia
 - Malta
 - Marshalløyene
 - Mauritius
 - Mexico
 - Mikronesia
-- Moldova4
+- Moldova[^4]
 - Monaco
-- Montenegro4
+- Montenegro[^4]
 - Nederland
 - New Zealand
 - Nicaragua
-- Nord-Makedonia4
+- Nord-Makedonia[^4]
 - Palau
 - Panama
 - Paraguay
@@ -4823,23 +4823,23 @@ Utlendinger fra følgende stater, spesielle administrative regioner og oversjøi
 - Salomonøyene
 - Samoa
 - San Marino
-- Serbia4
+- Serbia[^4]
 - Seychellene
 - Singapore
 - Slovakia
 - Slovenia
 - Spania
-- Storbritannia6
+- Storbritannia[^6]
 - Sveits
 - Sverige
 - Sør-Korea
-- Taiwan5
+- Taiwan[^5]
 - Tonga
 - Trinidad og Tobago
 - Tsjekkia
 - Tuvalu
 - Tyskland
-- Ukraina4
+- Ukraina[^4]
 - Ungarn
 - Uruguay
 - Vatikanstaten
@@ -4876,7 +4876,7 @@ Følgende stater er parter i Den europeiske overenskomst av 20. april 1959 nr. 4
 - Belgia
 - Danmark
 - Finland
-- Irland1
+- Irland[^1]
 - Island
 - Italia
 - Liechtenstein
@@ -4976,7 +4976,7 @@ Følgende stater er parter i ILO-konvensjon nr. 108 vedrørende sjømanns identi
 - Seychellene
 - Salomonøyene
 - Slovenia
-- Storbritannia1
+- Storbritannia[^1]
 - Sverige
 - Tadsjikistan
 - Tanzania
@@ -5162,38 +5162,38 @@ Norske utenriksstasjoner med myndighet til å avgjøre søknader om besøksvisum
 
 Ambassaden i:
 
-- Afghanistan, Kabul\*
-- Algerie, Alger\*
+- Afghanistan, Kabul[^\*]
+- Algerie, Alger[^\*]
 - Cuba, Havanna
 - Danmark, København
 - De forente arabiske emirater, Abu Dhabi
-- Egypt, Kairo\*
-- Filippinene, Manila\* 1
+- Egypt, Kairo[^\*]
+- Filippinene, Manila[^\*] [^1]
 - Hellas, Athen
 - India, New Delhi
-- Iran, Teheran\*
+- Iran, Teheran[^\*]
 - Italia, Roma
 - Jordan, Amman
 - Kenya, Nairobi
 - Kina, Beijing
-- Libanon, Beirut\*
+- Libanon, Beirut[^\*]
 - Nederland, Haag
-- Russland, Moskva\*
-- Pakistan, Islamabad\*
+- Russland, Moskva[^\*]
+- Pakistan, Islamabad[^\*]
 - Spania, Madrid
 - Storbritannia, London
 - Sverige, Stockholm
-- Sudan, Karthoum\* 2
+- Sudan, Karthoum[^\*] [^2]
 - Sør-Afrika, Pretoria
-- Sør-Sudan, Juba\*
+- Sør-Sudan, Juba[^\*]
 - Thailand, Bangkok
 - Tyrkia, Ankara
-- Ukraina, Kiev\*
+- Ukraina, Kiev[^\*]
 
 Generalkonsulatet i:
 
 - Kina, Shanghai
-- Russland, Murmansk\*
+- Russland, Murmansk[^\*]
 - USA, New York
 
 Sysselmester:
@@ -5216,66 +5216,66 @@ Norge blir representert av:
 
 |  |  |  |
 | --- | --- | --- |
-| *Belgia i:* | Jamaica | Kingston2 |
-|  | Kongo DR | Kinshasa2 |
-|  | Kongo DR | Lubumbashi2 |
-| *Danmark i:* | Bangladesh | Dhaka2 |
-|  | Burkina Faso | Ouagadougou2 |
-|  | Irland | Dublin2 |
-|  | Israel | Tel Aviv2 |
-|  | Mali | Bamako2 |
-|  | Marokko | Rabat2 inkluderer Mauritania |
-|  | Mexico | Mexico by2 |
-|  | Singapore | Singapore2 |
-|  | Syria | Damaskus2 (visumseksjonen er for tiden stengt) |
-| *Finland i:* | Kina | Hongkong2 |
-|  | Namibia | Windhoek2 |
-|  | Peru | Lima2 |
-|  | Tunisia | Tunis2 |
-| *Frankrike i:* | Armenia | Jerevan2 |
-|  | Georgia | Tbilisi2 |
-|  | Haiti | Port-au-Prince2 |
-|  | Kambodsja | Phnom Penh2 |
-|  | Mauritius | Port Louis2 |
-|  | Seychellene | Victoria2 |
-| *Italia i:* | Usbekistan | Tasjkent2 |
-| *Litauen i:* | Kasakhstan | Almaty2 |
-|  | Kasakhstan | Astana2 |
-|  | Russland | Kaliningrad2 |
-| *Nederland i:* | Aruba | Oranjestad2 |
-|  | Curacao | Willemstad2 |
-|  | Den dominikanske republikk | Santo Domingo2 |
-|  | New Zealand | Wellington2 |
-|  | Oman | Muscat2 |
-|  | Surinam | Paramaribo2 |
-|  | Trinidad og Tobago | Port of Spain2 |
-|  | Zimbabwe | Harare2 |
-| *Portugal i:* | Guinea Bissau | Bissau2 |
-|  | Kapp Verde | Praia2 |
-|  | São Tomé og Principe | São Tomé2 |
-|  | Øst-Timor | Dili2 |
-|  | Angola | Luanda2 |
-|  | Mosambik | Maputo2 |
-| *Sveits i:* | Madagaskar | Antananarivo2 |
-| *Sverige i:* | Bolivia | La Paz4 |
-|  | Chile | Santiago2 |
-|  | Colombia | Bogotá2 |
-|  | Cuba | Havana2 |
-|  | Equador | Quito1 |
-|  | Guatemala | Guatemala by, inkludert personer bosatt i Belize, Costa Rica, El Salvador, Honduras, Nicaragua og Panama2 |
-|  | Nord-Korea | Pyongyang2 |
-|  | Nord-Makedonia | Skopje2 |
-|  | Sudan | Khartoum2 |
-|  | Sør-Korea | Seoul2 |
-|  | Zambia | Lusaka2 |
-| *Spania i:* | Venezuela | Caracas2 |
-| *Tyskland i:* | Bahrain | Manama2 |
-|  | Kirgisistan | Bisjkek2 |
-|  | Kuwait | Kuwait2 |
-|  | Kypros | Nicosia2 |
-|  | Libya | Tripoli2 (visumseksjonen er for tiden stengt) |
-|  | Tadsjikistan | Dusjanbe2 |
-|  | Turkmenistan | Asjkhabad2 |
+| *Belgia i:* | Jamaica | Kingston[^2] |
+|  | Kongo DR | Kinshasa[^2] |
+|  | Kongo DR | Lubumbashi[^2] |
+| *Danmark i:* | Bangladesh | Dhaka[^2] |
+|  | Burkina Faso | Ouagadougou[^2] |
+|  | Irland | Dublin[^2] |
+|  | Israel | Tel Aviv[^2] |
+|  | Mali | Bamako[^2] |
+|  | Marokko | Rabat[^2] inkluderer Mauritania |
+|  | Mexico | Mexico by[^2] |
+|  | Singapore | Singapore[^2] |
+|  | Syria | Damaskus[^2] (visumseksjonen er for tiden stengt) |
+| *Finland i:* | Kina | Hongkong[^2] |
+|  | Namibia | Windhoek[^2] |
+|  | Peru | Lima[^2] |
+|  | Tunisia | Tunis[^2] |
+| *Frankrike i:* | Armenia | Jerevan[^2] |
+|  | Georgia | Tbilisi[^2] |
+|  | Haiti | Port-au-Prince[^2] |
+|  | Kambodsja | Phnom Penh[^2] |
+|  | Mauritius | Port Louis[^2] |
+|  | Seychellene | Victoria[^2] |
+| *Italia i:* | Usbekistan | Tasjkent[^2] |
+| *Litauen i:* | Kasakhstan | Almaty[^2] |
+|  | Kasakhstan | Astana[^2] |
+|  | Russland | Kaliningrad[^2] |
+| *Nederland i:* | Aruba | Oranjestad[^2] |
+|  | Curacao | Willemstad[^2] |
+|  | Den dominikanske republikk | Santo Domingo[^2] |
+|  | New Zealand | Wellington[^2] |
+|  | Oman | Muscat[^2] |
+|  | Surinam | Paramaribo[^2] |
+|  | Trinidad og Tobago | Port of Spain[^2] |
+|  | Zimbabwe | Harare[^2] |
+| *Portugal i:* | Guinea Bissau | Bissau[^2] |
+|  | Kapp Verde | Praia[^2] |
+|  | São Tomé og Principe | São Tomé[^2] |
+|  | Øst-Timor | Dili[^2] |
+|  | Angola | Luanda[^2] |
+|  | Mosambik | Maputo[^2] |
+| *Sveits i:* | Madagaskar | Antananarivo[^2] |
+| *Sverige i:* | Bolivia | La Paz[^4] |
+|  | Chile | Santiago[^2] |
+|  | Colombia | Bogotá[^2] |
+|  | Cuba | Havana[^2] |
+|  | Equador | Quito[^1] |
+|  | Guatemala | Guatemala by, inkludert personer bosatt i Belize, Costa Rica, El Salvador, Honduras, Nicaragua og Panama[^2] |
+|  | Nord-Korea | Pyongyang[^2] |
+|  | Nord-Makedonia | Skopje[^2] |
+|  | Sudan | Khartoum[^2] |
+|  | Sør-Korea | Seoul[^2] |
+|  | Zambia | Lusaka[^2] |
+| *Spania i:* | Venezuela | Caracas[^2] |
+| *Tyskland i:* | Bahrain | Manama[^2] |
+|  | Kirgisistan | Bisjkek[^2] |
+|  | Kuwait | Kuwait[^2] |
+|  | Kypros | Nicosia[^2] |
+|  | Libya | Tripoli[^2] (visumseksjonen er for tiden stengt) |
+|  | Tadsjikistan | Dusjanbe[^2] |
+|  | Turkmenistan | Asjkhabad[^2] |
 
 1 Visumsøknader til Norge fra borgere av Ecuador blir behandlet ved den svenske ambassaden i Bogotá, Colombia. Gjelder også avslagsmyndighet.
 

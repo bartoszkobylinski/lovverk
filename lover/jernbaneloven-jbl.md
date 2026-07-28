@@ -15,7 +15,7 @@ xml_hash: "f47a398b8083f5e6b6b9f0567302021b107e2e64031a484b858560edee36099b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016L0797"
@@ -280,7 +280,7 @@ Departementet kan gi forskrift om gjennomføring og utfylling av [EØS-avtalen v
 
 ### § 8. (Trafikkeringsrett på det nasjonale jernbanenettet mv.)
 
-Jernbaneforetak som har tillatelse til å drive trafikkvirksomhet etter [§ 6](lov/1993-06-11-100/§6), har rett til å trafikkere kjørevei som er en del av det nasjonale jernbanenettet. Departementetkan1 i forskrift gi regler om vilkårene for å utøve trafikkvirksomhet, herunder avgiftsprinsipper og sportilgang mv. Departementet kan i forskrift også gi regler om vilkår for tilgang, herunder sportilgang, til serviceanlegg knyttet til jernbanenettet og tjenester i disse.
+Jernbaneforetak som har tillatelse til å drive trafikkvirksomhet etter [§ 6](lov/1993-06-11-100/§6), har rett til å trafikkere kjørevei som er en del av det nasjonale jernbanenettet. Departementetkan[^1] i forskrift gi regler om vilkårene for å utøve trafikkvirksomhet, herunder avgiftsprinsipper og sportilgang mv. Departementet kan i forskrift også gi regler om vilkår for tilgang, herunder sportilgang, til serviceanlegg knyttet til jernbanenettet og tjenester i disse.
 
 Retten til å utøve persontransport etter første ledd kan begrenses dersom trafikkvirksomheten vil kunne bringe i fare den økonomiske likevekten i inngåtte avtaler om offentlig kjøp av persontransport med jernbane. Departementet kan i forskrift gi regler om prøving av økonomisk likevekt.
 
@@ -480,7 +480,7 @@ Den som uaktsomt eller forsettlig overtrer forbudet i [§§ 3 a](lov/1993-06-11-
 
 ### § 23. (Ikrafttredelse m.v.)
 
-1. Loven trer i kraft fra den tid Kongen bestemmer.1
+1. Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 2. Fra samme tid oppheves følgende lover og bestemmelser: – – –
 
 > Endret ved [lov 15 juni 2001 nr. 84](lov/2001-06-15-84), tidligere § 15.

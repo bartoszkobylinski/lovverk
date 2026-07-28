@@ -15,7 +15,7 @@ xml_hash: "4f68c3b300f258fd3845e232d23b61e3c03c84c0b1d336b6a4e613f18690ca99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1154,7 +1154,7 @@ Kongen kan gje dei forskrifter som trengst til gjennomføring av lova.
 
 ### § 87. Ikraftsetjing.
 
-Lova her tek til å gjelde frå den tid Kongen fastset.1
+Lova her tek til å gjelde frå den tid Kongen fastset.[^1]
 
 > Endra med [lov 20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), tidlegare § 69.
 

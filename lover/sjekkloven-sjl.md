@@ -15,7 +15,7 @@ xml_hash: "39163baa8f2f871b3ff209bebb134bc19a678c283a3b405cb5db6efc3a7572ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -522,7 +522,7 @@ Med bøter eller fengsel inntil 3 måneder straffes, forsåvidt ikke strengere s
 
 ### § 67
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Fra samme tid opheves – – –
 

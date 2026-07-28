@@ -15,7 +15,7 @@ xml_hash: "9b9f6c95bc7a9e5d3924824cf024e2bae173de994f4260a07ce49cd28b7e4bc8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,7 @@ Meldingen skal inneholde følgende opplysninger:
 | Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer |
 | Daglig fangst | CA | P | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. |
 | Antall fiskedager | DF | P | Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding |
-| Fangstområde | RA | P1 | Kode for område der fangsten er tatt |
+| Fangstområde | RA | P[^1] | Kode for område der fangsten er tatt |
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
@@ -123,12 +123,12 @@ Meldingen skal inneholde følgende opplysninger:
 | Fartøynavn | NA | V | Fartøyets navn |
 | Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer |
 | Kvantum som skal overføres | KG | P | Kvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angitt |
-| Overført fra | TF | P1 | Radiokallesignal på fartøyet det overføres fra |
-| Overført til | TT | P1 | Radiokallesignal på fartøyet det overføres til |
-| Posisjon bredde | LA | P2 | Antatt posisjon bredde for omlasting |
-| Posisjon lengde | LO | P2 | Antatt posisjon lengde for omlasting |
-| Dato | PD | P2 | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD) |
-| Tid | PT | P2 | Antatt tidspunkt for omlasting i UTC (TTMM) |
+| Overført fra | TF | P[^1] | Radiokallesignal på fartøyet det overføres fra |
+| Overført til | TT | P[^1] | Radiokallesignal på fartøyet det overføres til |
+| Posisjon bredde | LA | P[^2] | Antatt posisjon bredde for omlasting |
+| Posisjon lengde | LO | P[^2] | Antatt posisjon lengde for omlasting |
+| Dato | PD | P[^2] | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P[^2] | Antatt tidspunkt for omlasting i UTC (TTMM) |
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
@@ -173,9 +173,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Radiokallesignal | RC | P | Fartøyets radiokallesignal |
 | Fartøynavn | NA | V | Fartøyets navn |
 | Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer |
-| Fangst | CA | P1 | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. |
-| Antall fiskedager | DF | P1 | Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding |
-| Fangstområde | RA | P2 | Kode for område der fangsten er tatt |
+| Fangst | CA | P[^1] | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. |
+| Antall fiskedager | DF | P[^1] | Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding |
+| Fangstområde | RA | P[^2] | Kode for område der fangsten er tatt |
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 

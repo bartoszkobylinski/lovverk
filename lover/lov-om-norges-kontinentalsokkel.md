@@ -15,7 +15,7 @@ xml_hash: "926f62cc56768a19481b39c951fb809739f5d4a5bfcb4d71ef33e4c396b6b9f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Loven gjelder for kontinentalsokkelen utenfor Kongeriket Norge, herunder Fastlan
 
 ## § 5. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 18 juni 2021 iflg. [res. 18 juni 2021 nr. 2009](forskrift/2021-06-18-2009).
 

@@ -15,7 +15,7 @@ xml_hash: "3609e97d565cf64c9438b665f8af72236c639b130669fb0cb68d8760ce92ce4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -190,7 +190,7 @@ Når særlege grunner talar for det, kan departementet i enkelttilfelle gjere un
 
 ## § 16. Iverksetjing
 
-Denne lova gjeld frå den tid Kongen fastset.1
+Denne lova gjeld frå den tid Kongen fastset.[^1]
 
 Frå same tid blir det gjort følgjande endring i [lov av 23. juni 1978 nr. 70](lov/1978-06-23-70) om kartlegging, deling og registrering av grunneiendom (delingsloven): – – –
 

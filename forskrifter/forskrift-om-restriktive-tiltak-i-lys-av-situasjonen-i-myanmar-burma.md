@@ -15,7 +15,7 @@ xml_hash: "4ead3bb5ec02297072ef23d25968a7ece7912555ea92932eb78ac835159db40c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,7 +128,7 @@ I denne forordning menes med
 
    1. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi fra et tredjeland til et annet tredjeland, eller
    2. salg eller kjøp av varer og teknologi som befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
-10. «import»: innførsel av varer til EUs tollområde eller andre områder der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktatens artikkel 349 og 355. Det omfatter også, i henhold til europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*)1 om fastsettelse av Unionens tollkodeks, oppbevaring i frisone, oppbevaring i henhold til en særskilt prosedyre og frigivelse for fri omsetning, men ikke transitt eller midlertidig lagring,
+10. «import»: innførsel av varer til EUs tollområde eller andre områder der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktatens artikkel 349 og 355. Det omfatter også, i henhold til europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*)[^1] om fastsettelse av Unionens tollkodeks, oppbevaring i frisone, oppbevaring i henhold til en særskilt prosedyre og frigivelse for fri omsetning, men ikke transitt eller midlertidig lagring,
 11. «eksport»: utførsel av varer fra EUs tollområde eller andre områder der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktatens artikkel 349 og 355. Det omfatter også, i henhold til forordning [(EU) nr. 952/2013](eu/32013r0952*), utførsel av varer som krever tolldeklarasjon, og utførsel av varer etter lagring i frisone eller etter oppbevaring i henhold til en særskilt prosedyre, men ikke transitt eller midlertidig lagring,
 12. «eksportør»: enhver fysisk eller juridisk person som en eksportdeklarasjon utstedes på vegne av, det vil si den som på det tidspunkt deklarasjonen godkjennes, har kontrakt med mottakeren i tredjelandet, og som har myndighet til å avgjøre at produktet skal føres ut av EUs tollområde eller andre områder der traktaten kommer til anvendelse,
 13. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom.
@@ -157,7 +157,7 @@ I denne forordning menes med
 
 ### Artikkel 3a
 
-1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere flerbruksvarer og -teknologi oppført i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*)2 enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma dersom produktene helt eller delvis er eller kan være beregnet på militær bruk, militære sluttbrukere eller grensevakten.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere flerbruksvarer og -teknologi oppført i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*)[^2] enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma dersom produktene helt eller delvis er eller kan være beregnet på militær bruk, militære sluttbrukere eller grensevakten.
 
 Dersom sluttbrukeren er Myanmar/Burmas militære, skal alle flerbruksvarer og all flerbruksteknologi som militæret anskaffer, anses å være beregnet på militær bruk.
 
@@ -395,7 +395,7 @@ Firearms, ammunition and related accessories therefor, as follows:
 
 1.1.
 
-Firearms not controlled by ML 1 and ML 2 of the EU Common Military List;3
+Firearms not controlled by ML 1 and ML 2 of the EU Common Military List;[^3]
 
 1.2.
 
@@ -660,9 +660,9 @@ A. List of equipment
 - Network and Satellite jamming equipment
 - Remote Infection equipment
 - Speaker recognition/processing equipment
-- IMSI,4 MSISDN,5 IMEI,6 TMSI7 interception and monitoring equipment
-- Tactical SMS8 /GSM9 /GPS10 /GPRS11 /UMTS12 /CDMA13 /PSTN14 interception and monitoring equipment
-- DHCP15 /SMTP16 , GTP17 information interception and monitoring equipment
+- IMSI,[^4] MSISDN,[^5] IMEI,[^6] TMSI[^7] interception and monitoring equipment
+- Tactical SMS[^8] /GSM[^9] /GPS[^10] /GPRS[^11] /UMTS[^12] /CDMA[^13] /PSTN[^14] interception and monitoring equipment
+- DHCP[^15] /SMTP[^16] , GTP[^17] information interception and monitoring equipment
 - Pattern Recognition and Pattern Profiling equipment
 - Remote Forensics equipment
 - Semantic Processing Engine equipment
@@ -712,7 +712,7 @@ For the purpose of this Annex 'monitoring' means acquisition, extraction, decodi
 ### Vedlegg IV
 List of natural and legal persons, entities and bodies referred to in Article 4a
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).18
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^18]
 
 Listeførte med landkode («programme») MMR (Myanmar) er listeført under denne forskriften.
 

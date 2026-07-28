@@ -15,7 +15,7 @@ xml_hash: "edbfe29dc8847f69a02b4cc8da7277001331e8da6347779b28a2ec3ca5a12d48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -170,6 +170,6 @@ Er det tvil om hvem som har myndighet i en sak og det ikke oppnås enighet om de
 
 ## § 15. Ikrafttredelse
 
-Forskriften trer i kraft fra den tid Kongen bestemmer.1 Samtidig oppheves [forskrift 9. februar 1979 nr. 8785](forskrift/1979-02-09-8785) om faglig ansvarsfordeling mv. etter kulturminneloven.
+Forskriften trer i kraft fra den tid Kongen bestemmer.[^1] Samtidig oppheves [forskrift 9. februar 1979 nr. 8785](forskrift/1979-02-09-8785) om faglig ansvarsfordeling mv. etter kulturminneloven.
 
 1 Fra 1 jan 2020 iflg. [res. 13 des 2019 nr. 1749](forskrift/2019-12-13-1749).

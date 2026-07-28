@@ -15,7 +15,7 @@ xml_hash: "e0d5db2abe5fca88fa5d9b448571a4f39b6089a2af6c2cd4fa2ed0fa00f4e52d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -225,7 +225,7 @@ Departementet kan gi forskrift om kvalifikasjonskrav for undervisningspersonalet
 
 ### § 24. Ikrafttredelse, opphevelse og overgangsregler
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Fra det tidspunktet loven trer i kraft, oppheves [lov 6. desember 2002 nr. 72 om folkehøyskoler (folkehøyskoleloven)](lov/2002-12-06-72). Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Fra det tidspunktet loven trer i kraft, oppheves [lov 6. desember 2002 nr. 72 om folkehøyskoler (folkehøyskoleloven)](lov/2002-12-06-72). Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Dispensasjoner gitt med hjemmel i [lov 8. juni 1984 nr. 64 om folkehøgskolar § 3 tredje ledd](lov/1984-06-08-64/§3/ledd/3) fortsetter å gjelde.
 

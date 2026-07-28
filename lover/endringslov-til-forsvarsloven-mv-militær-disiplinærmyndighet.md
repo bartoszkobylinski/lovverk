@@ -15,7 +15,7 @@ xml_hash: "61b341e2c0240c8fa90611c4a6aef013f82d2032ff47d0d662c7fbd3453f1d2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ I [lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker](lov/1981-05-22-2
 
 ## IX
 
-1. Loven gjelder fra den tid Kongen bestemmer.1 De enkelte bestemmelsene kan settes i kraft til ulik tid.
+1. Loven gjelder fra den tid Kongen bestemmer.[^1] De enkelte bestemmelsene kan settes i kraft til ulik tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 1. juli 2024 for del I–V og del VII og VIII iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875).

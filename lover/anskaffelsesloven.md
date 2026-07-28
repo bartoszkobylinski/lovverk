@@ -15,7 +15,7 @@ xml_hash: "38cf27aa5723d654d1ebd9cc39d6957b82b5360b38a2c92c7cde6f3fae5aebb8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0024"
@@ -366,7 +366,7 @@ Departementet kan gi oppdragsgiveren pålegg som er nødvendige for å sikre opp
 
 ## § 18. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 16. juli 1999 nr. 69](lov/1999-07-16-69) om offentlige anskaffelser.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [lov 16. juli 1999 nr. 69](lov/1999-07-16-69) om offentlige anskaffelser.
 
 Departementet kan gi forskrift om overgangsregler.
 

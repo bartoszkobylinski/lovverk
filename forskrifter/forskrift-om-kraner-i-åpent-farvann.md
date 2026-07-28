@@ -15,7 +15,7 @@ xml_hash: "72d19f9fff4bebc6c20943371c4c2f34d4440cb27cc31860301d0587811b8f12"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,7 +116,7 @@ Hive- og nedfiringshastigheten for «hurtigløft»-vinsjen med fem tonns belastn
 
 2.6
 
-Ved dimensjonering av kranfundament inklusive pidestal og svingkrans med bolter skal den beregningslast som anvendes, være 1.32 ganger den beregningslast som brukes for øvrig for kranen og minimum 2 ganger den største tillatte arbeidslast kranen er beregnet og dimensjonert for.1
+Ved dimensjonering av kranfundament inklusive pidestal og svingkrans med bolter skal den beregningslast som anvendes, være 1.3[^2] ganger den beregningslast som brukes for øvrig for kranen og minimum 2 ganger den største tillatte arbeidslast kranen er beregnet og dimensjonert for.[^1]
 
 2.7.
 
@@ -134,9 +134,9 @@ Kranhåndboken skal inneholde en oversiktstegning som gir opplysninger om hvilke
 
 3.3.
 
-Sertifisert ståltau\* skal tilfredsstille en anerkjent standard, passe til diameteren i skiver og tromler og ha en bruddstyrke på ikke mindre enn det maksimale strekk i tauet med hensyn til tillatt arbeidsbelastning, SWL,\*\* multiplisert med en faktor som fås fra følgende tabell:
+Sertifisert ståltau[^\*] skal tilfredsstille en anerkjent standard, passe til diameteren i skiver og tromler og ha en bruddstyrke på ikke mindre enn det maksimale strekk i tauet med hensyn til tillatt arbeidsbelastning, SWL,[^\*\*] multiplisert med en faktor som fås fra følgende tabell:
 
-|  | Tillatt arbeidsbelastning<br>(SWL)\*\* på krankroken | Faktor |
+|  | Tillatt arbeidsbelastning<br>(SWL)[^\*\*] på krankroken | Faktor |
 | --- | --- | --- |
 |  | Opp til 10 metriske tonn<br>(enkelt part i krok) | 5,0 |
 |  | Over 10 metriske tonn,<br>men ikke over 25 tonn | 5,0 –((SWL – 10)/30 |
@@ -379,7 +379,7 @@ Førerhus og operasjonssteder skal være plassert slik at kranføreren hurtig ka
 
 13.4.
 
-Leidere, rekkverk, etc. skal tilfredsstille kravene i de til enhver tid gjeldende forskrifter.3
+Leidere, rekkverk, etc. skal tilfredsstille kravene i de til enhver tid gjeldende forskrifter.[^3]
 
 13.5.
 
@@ -654,7 +654,7 @@ Prøvebelastninger.
 
 Før det første gang blir tatt i bruk eller etter at det er blitt forstrukket, deformert, forandret eller reparert, skal løst utstyr og det faste krantilbehør prøves med følgende prøvelaster:
 
-| Gjenstand | Tillatt arbeidslast<br>(SWL1) | Prøvelaster |
+| Gjenstand | Tillatt arbeidslast<br>(SWL[^1]) | Prøvelaster |
 | --- | --- | --- |
 | Kjetting, ring, | til og med 25 tonn | 2 x SWL |
 | krok, sjakkel, | til og med 30 tonn | 55 tonn |
@@ -681,10 +681,10 @@ Før det første gang blir tatt i bruk eller etter at det er blitt forstrukket, 
 |  | til og med 170 tonn | 230 tonn |
 |  | til og med 180 tonn | 240 tonn |
 |  | over 180 tonn | 1.33 x SWL |
-| Enskivet blokk2 |  | 4 x SWL5 |
-| Enskivet blokk m/hundsvott2 |  | 6 x SWL5 |
-| Ståltau3 |  | Bruddlast |
-| Løfteåk o.l.4 |  | 2,0 x SWL |
+| Enskivet blokk[^2] |  | 4 x SWL[^5] |
+| Enskivet blokk m/hundsvott[^2] |  | 6 x SWL[^5] |
+| Ståltau[^3] |  | Bruddlast |
+| Løfteåk o.l.[^4] |  | 2,0 x SWL |
 
 1 For flerskivede blokker er tillatt arbeidslast (SWL) lik resultantbelastning i blokkøyet. Se også [§ 12](forskrift/1986-01-13-31/§12) pkt. 2.
 

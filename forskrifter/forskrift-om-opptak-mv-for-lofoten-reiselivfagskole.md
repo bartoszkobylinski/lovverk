@@ -15,7 +15,7 @@ xml_hash: "9986902cac9466aaaf24a438e7109ee4167861154526f6683a352d059fd821b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -382,6 +382,6 @@ Klagen bør inneholde begrunnelse. Ved klage på emnekarakter oppfordres student
 
 ### § 7-2. Ikrafttredelse
 
-(1) Denne forskriften trer i kraft 1. april 2018. Samtidig oppheves reglement ved Lofoten fagskole gjeldende fra 2013.1
+(1) Denne forskriften trer i kraft 1. april 2018. Samtidig oppheves reglement ved Lofoten fagskole gjeldende fra 2013.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend.

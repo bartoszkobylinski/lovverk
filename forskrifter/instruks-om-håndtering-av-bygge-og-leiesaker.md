@@ -15,7 +15,7 @@ xml_hash: "132c45a816b7321f5830df1011698597755a7f0a2e719fa2f039d27172f6f0a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,13 @@ eu_basis: []
 
 *1.1 Formål*
 
-Formålet med instruksen er å sikre god saksforberedelse og styring med bygge- og leiesaker i statlig sivil sektor.\*
+Formålet med instruksen er å sikre god saksforberedelse og styring med bygge- og leiesaker i statlig sivil sektor.[^\*]
 
 *1.2 Virkeområde*
 
 Instruksen gjelder for alle virksomheter i statlig sivil sektor, organisert innenfor rettssubjektet staten.
 
-Instruksen gjelder ved inngåelse av avtaler om leie av lokaler,\*\* både i markedet og internt i staten. Instruksen gjelder også ved byggeprosjekter som inkluderer ombygging og rehabilitering.
+Instruksen gjelder ved inngåelse av avtaler om leie av lokaler,[^\*\*] både i markedet og internt i staten. Instruksen gjelder også ved byggeprosjekter som inkluderer ombygging og rehabilitering.
 
 Instruksen gjelder ikke for bygging eller leie av lokaler til departementene.
 
@@ -62,7 +62,7 @@ Graden av spesialtilpasning av lokalene skal begrenses til det høyst nødvendig
 
 Det skal normalt ikke planlegges for vekst i antall ansatte. Dersom ansvarlig departement likevel mener det bør planlegges for slik vekst, skal dette redegjøres for og begrunnes særskilt. Som et ledd i arbeidet med nye lokaler eller endringer i eksisterende lokaler, bør det også vurderes behov for endringer i arbeidsplassutforming som følge av nye arbeidsformer.
 
-Det stilles krav om ekstern kvalitetssikring for prosjekter antatt over de terskelverdier som Finansdepartementet til enhver tid fastsetter. I tidligfase gjelder dette ekstern kvalitetssikring av konseptvalg (KS1), uavhengig av finansieringsmåten for disse prosjektene. Når antatt fremtidig leieforpliktelse\*\*\* overstiger terskelverdien fastsatt av Finansdepartementet, skal kvalitetssikring også gjennomføres ved planer om leie i markedet.
+Det stilles krav om ekstern kvalitetssikring for prosjekter antatt over de terskelverdier som Finansdepartementet til enhver tid fastsetter. I tidligfase gjelder dette ekstern kvalitetssikring av konseptvalg (KS1), uavhengig av finansieringsmåten for disse prosjektene. Når antatt fremtidig leieforpliktelse[^\*\*\*] overstiger terskelverdien fastsatt av Finansdepartementet, skal kvalitetssikring også gjennomføres ved planer om leie i markedet.
 
 Kommunal- og moderniseringsdepartementet kan sette normer for lokalenes areal, energi og standard. Det vises til rundskriv [H-2016-2](rundskriv/h-2016-2).
 
@@ -72,7 +72,7 @@ På bakgrunn av utredningen skal alternative løsninger vurderes. Det skal i den
 
 Departementene er selv ansvarlige for å avklare om en skal dekke lokalbehovet ved leie i markedet eller ved et statlig byggeprosjekt. I denne vurderingen skal det overordnede hensynet være hva som er økonomisk mest gunstig for staten.
 
-Lokaler som det normalt er et velfungerende leiemarked for, klassifiseres som konkurransebygg og leies i utgangspunktet i markedet med lavest mulig grad av spesialtilpasning. I de tilfeller hvor summen av fremtidige leieforpliktelser\*\*\* er på 100 mill. kroner eller mer, skal saken forelegges for Kommunal- og moderniseringsdepartementet for uttalelse. Ved foreleggelsen redegjøres for formålet og de økonomiske og administrative konsekvenser av leieavtalen.
+Lokaler som det normalt er et velfungerende leiemarked for, klassifiseres som konkurransebygg og leies i utgangspunktet i markedet med lavest mulig grad av spesialtilpasning. I de tilfeller hvor summen av fremtidige leieforpliktelser[^\*\*\*] er på 100 mill. kroner eller mer, skal saken forelegges for Kommunal- og moderniseringsdepartementet for uttalelse. Ved foreleggelsen redegjøres for formålet og de økonomiske og administrative konsekvenser av leieavtalen.
 
 Lokaler det ikke er et velfungerende marked for klassifiseres som formålsbygg, og skal som hovedregel gjennomføres som et statlig byggeprosjekt. Forhold som i den forbindelse tillegges vekt, er om lokalenes beliggenhet eller graden av spesialtilpasning gjør at markedsverdien av bygget er vesentlig lavere enn byggekostnaden, eller om utleier antas å komme i en monopolsituasjon overfor den statlige leietakeren ved kontraktens utløp. Bygg med kritisk infrastruktur, jf. forskrift om objektsikkerhet regnes som hovedregel som formålsbygg. Dersom ansvarlig departement mener det vil være økonomisk mest gunstig for staten å løse lokalbehovet ved gjennomføring av statlig byggeprosjekt, må dette forelegges for Kommunal- og moderniseringsdepartementet og begrunnes særskilt.
 
@@ -106,7 +106,7 @@ Før avtalen inngås, skal alle relevante forutsetninger for leieavtalen være a
 
 *3.2 Innhenting av tilbud for leie av lokaler*
 
-For å sikre det mest gunstige leiealternativet for staten (iht. utredning og analyse, jf. pkt. 2.2.) skal det innhentes flere tilbud. Dette gjelder også ved fornyelse av eksisterende leiekontrakt. Vurderingen skal ta hensyn til de totale leieforpliktelsene,\*\*\* og saksbehandlingen skal sikre likebehandling og sporbarhet.
+For å sikre det mest gunstige leiealternativet for staten (iht. utredning og analyse, jf. pkt. 2.2.) skal det innhentes flere tilbud. Dette gjelder også ved fornyelse av eksisterende leiekontrakt. Vurderingen skal ta hensyn til de totale leieforpliktelsene,[^\*\*\*] og saksbehandlingen skal sikre likebehandling og sporbarhet.
 
 I de tilfeller en leiekontrakt i markedet innebærer et privat bygge- eller rehabiliteringsprosjekt, skal det også stilles krav om at utleier er et lovlig etablert foretak, og kan fremlegge attester for innbetalt skatt, merverdiavgift (mva) og arbeidsgiveravgift, iht. de etiske standardene staten har satt for leie i det private markedet.
 
@@ -126,7 +126,7 @@ Kapittel 4 beskriver krav til prosjektavklaringsfase, forprosjektfase og kostnad
 
 *4.1 Generelt om ansvar*
 
-Oppdragsdepartementet er ansvarlig for de byggeprosjekter som settes i gang på departementets område, og for å påse at ressursbruken i byggeprosjektet er effektiv mht. de forutsatte resultater, jf. [bevilgningsreglementets § 10](forskrift/2005-05-26-876/§10). Statsbygg er normalt byggherre for byggeprosjekter i statlig sivil sektor.\*\*\*\*
+Oppdragsdepartementet er ansvarlig for de byggeprosjekter som settes i gang på departementets område, og for å påse at ressursbruken i byggeprosjektet er effektiv mht. de forutsatte resultater, jf. [bevilgningsreglementets § 10](forskrift/2005-05-26-876/§10). Statsbygg er normalt byggherre for byggeprosjekter i statlig sivil sektor.[^\*\*\*\*]
 
 For prosjekter med en antatt investeringskostnad over 300 mill. kroner gjelder krav om avklaringsfase og beslutningspunkt oppstart forprosjekt og beslutningspunkt startbevilgning. Nærmere beskrivelse framgår av egen veileder for styring i tidligfase av store statlige byggeprosjekter. For prosjekter med antatt investeringskostnad under 300 mill. kroner gjelder krav til utredning i pkt. 2.2.
 

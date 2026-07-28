@@ -15,7 +15,7 @@ xml_hash: "02ad49ebb4b73e113711cea3c959bac27ef74a4392dcc82e8efafe21bb6afc7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -385,7 +385,7 @@ Dersom et farlig stoff har flere klassifiseringer, skal klassifiseringen med lav
 | Oksiderende gass | 4,0 m3 |
 | Giftig gass, kategori 1, 2 og 3 | 0,4 m3 |
 | Brannfarlig aerosolbeholder, kategori 1 og 2 | 3,0 m3 |
-| Vanndamp eller hetvann under trykk | \* |
+| Vanndamp eller hetvann under trykk | [^\*] |
 | *Brannfarlig stoff* |  |
 | Brannfarlige gasser, kategori 1A og 1B og 2 | 0,4 m3 |
 | Oksiderende gasser, kategori 1 | 4,0 m3 |

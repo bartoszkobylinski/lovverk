@@ -15,7 +15,7 @@ xml_hash: "981ce898793d7dd78149b69c0687fb1b3d00c5dcede490c7e465b88b2fe50811"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,6 +68,6 @@ Når Ekstremismekommisjonen har avsluttet sitt arbeid, skal det gjennomføres ar
 
 Loven trer i kraft straks.
 
-[§ 3](lov/2022-12-20-97/§3) og [§ 5](lov/2022-12-20-97/§5) første og andre ledd oppheves når Ekstremismekommisjonen har avsluttet sitt arbeid, og [§ 5](lov/2022-12-20-97/§5) tredje ledd blir da første ledd.1
+[§ 3](lov/2022-12-20-97/§3) og [§ 5](lov/2022-12-20-97/§5) første og andre ledd oppheves når Ekstremismekommisjonen har avsluttet sitt arbeid, og [§ 5](lov/2022-12-20-97/§5) tredje ledd blir da første ledd.[^1]
 
 1 Kommisjonen leverte avsluttende rapport 1. mars 2024 iflg. [NOU 2024:3](forarbeid/nou-2024-3).

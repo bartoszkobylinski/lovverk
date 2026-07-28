@@ -15,7 +15,7 @@ xml_hash: "0097ffea437e4571cf77aae5b014fc2b9600aaed48bcf4cfb6edab41c79127c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Departementets myndighet etter [forskrift 17. desember 2004 nr. 1661 om ordning 
 
 ## II
 
-I Helse- og omsorgsdepartementets [vedtak 18. mars 2010 nr. 425 om delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet](forskrift/2010-03-18-425) – – –1
+I Helse- og omsorgsdepartementets [vedtak 18. mars 2010 nr. 425 om delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet](forskrift/2010-03-18-425) – – –[^1]
 
 1 Endringer innarbeidet, Lovdatas anm.
 

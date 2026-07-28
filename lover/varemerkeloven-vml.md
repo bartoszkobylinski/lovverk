@@ -15,7 +15,7 @@ xml_hash: "991acb5d564772f19ba6b136fd14dc0babf5571a1a3e7e9e785fdef8925de1b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32015L2436"
@@ -241,7 +241,7 @@ Om det senere viser seg at den bestanddelen av merket som har blitt unntatt fra 
 
 ### § 18. Vare- og tjenesteklasser
 
-Varemerker registreres for bestemte varer eller tjenester innenfor bestemte vare- eller tjenesteklasser. Inndelingen i vare- og tjenesteklasser fastsettes av Kongen.1
+Varemerker registreres for bestemte varer eller tjenester innenfor bestemte vare- eller tjenesteklasser. Inndelingen i vare- og tjenesteklasser fastsettes av Kongen.[^1]
 
 1 Patentstyret iflg. res. 19 nov 1971.
 
@@ -952,7 +952,7 @@ Kongen kan i forskrift gi nærmere bestemmelser til utfylling og gjennomføring 
 
 ### § 83. Ikraftsettings- og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid som loven settes i kraft oppheves [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker og [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Fra samme tid som loven settes i kraft oppheves [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker og [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker.
 
 [§ 32](lov/2010-03-26-8/§32) første punktum gjelder bare for søknader som leveres etter at loven her har trådt i kraft.
 

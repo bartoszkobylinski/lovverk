@@ -15,7 +15,7 @@ xml_hash: "9f92e14484bd06af56632927da277e5f721f8046bbf5ffb8c7a7bca40af8080d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32016R1011"
@@ -178,7 +178,7 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av gebyr
 
 ## § 14. Ikrafttredelse
 
-(1) Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+(1) Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
 (2) Departementet kan fastsette overgangsregler.
 

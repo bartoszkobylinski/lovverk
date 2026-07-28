@@ -15,7 +15,7 @@ xml_hash: "529f5f80fceb0a046ff8ca9babc9bed853902304f6cf89cb5fa45fc0b427b958"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,7 +104,7 @@ Med Noreg er i denne lova og meint Svalbard, Jan Mayen og norsk underland.
 
 ### § 13
 
-Kongen fastset kva tid denne lova skal taka til å gjelda.1
+Kongen fastset kva tid denne lova skal taka til å gjelda.[^1]
 
 Når lova tek til å gjelda, fell etternemnde lover bort: – – –
 

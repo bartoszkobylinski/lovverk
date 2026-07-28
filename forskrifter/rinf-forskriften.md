@@ -30,7 +30,7 @@ eu_basis: []
 
 ## § 2.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/777](eu/32019r0777) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/777](eu/32019r0777) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 Fra samme tidspunkt oppheves [forskrift 5. mai 2015 nr. 458 om gjennomføring av beslutning 2014/880/EU om de felles spesifikasjonene for registeret over jernbaneinfrastruktur (infrastrukturregisterforskriften)](forskrift/2015-05-05-458).
 

@@ -15,7 +15,7 @@ xml_hash: "16ff4425b774ae7514fee1348f9527fb984cf43b83e3b58cee54d5bd9fdaf26f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,7 +110,7 @@ Utelukkende for å kunne utarbeide slike innlegg, kan Konkurransetilsynet og EFT
 
 ## § 10. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Fra samme tidspunkt oppheves [lov 27. november 1992 nr. 110](lov/1992-11-27-110) om konkurranseregler i EØS-avtalen mv.
 

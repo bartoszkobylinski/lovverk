@@ -15,7 +15,7 @@ xml_hash: "2fd6c2b871268d5bb62ba8d15e9f27f181dd3f5fa952aeebb71bf31bf9a04faa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -597,7 +597,7 @@ Grovt uaktsom overtredelse av andre ledd straffes med bot eller fengsel inntil e
 
 ### § 52. Ikraftsetting
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette bestemmelsene i kraft til forskjellig tid. Bestemmelser som er satt i kraft i henhold til første punktum, gjelder foran bestemmelsene i [lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette bestemmelsene i kraft til forskjellig tid. Bestemmelser som er satt i kraft i henhold til første punktum, gjelder foran bestemmelsene i [lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann.
 
 Fra den tid loven trer i kraft, oppheves [lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann og [lov 15. august 2014 nr. 61](lov/2014-08-15-61) om losordningen. Kongen kan oppheve de enkelte bestemmelser til forskjellig tid.
 

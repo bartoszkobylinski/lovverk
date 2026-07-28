@@ -15,7 +15,7 @@ xml_hash: "44ad3d3025ed261e1b5dfaec21616b5a12677a0c9230f66b62eaa6ef88d406c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,6 +144,6 @@ For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren 
 
 ## IV
 
-Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
 1 Fra 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400) for endringsloven [del II](lov/2025-06-20-71/kapII) (helsepersonelloven) [§§ 29](lov/1999-07-02-64/§29) og [29 b](lov/1999-07-02-64/§29b).

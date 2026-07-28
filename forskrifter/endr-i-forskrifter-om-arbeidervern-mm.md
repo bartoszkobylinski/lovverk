@@ -15,7 +15,7 @@ xml_hash: "59852a9522e238ae07d17d714f8ddfc59ee755ba9ec1a667fac71bcc4e442fae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Følgende forskrifter skal ikke gjelde i petroleumsvirksomhetene:
 
-1. Forskrift om vernetiltak ved lasting og lossing av skip (stuerarbeid), fastsatt av Kommunal- og arbeidsdepartementet den [23. mars 1956 nr. 2](forskrift/1956-03-23-2)1 med hjemmel i Kronprinsregentens resolusjon av 23. mars 1956, jfr. lov om arbeidervern av 19. juni 1936 § 1 punkt 2 og § 9.
+1. Forskrift om vernetiltak ved lasting og lossing av skip (stuerarbeid), fastsatt av Kommunal- og arbeidsdepartementet den [23. mars 1956 nr. 2](forskrift/1956-03-23-2)[^1] med hjemmel i Kronprinsregentens resolusjon av 23. mars 1956, jfr. lov om arbeidervern av 19. juni 1936 § 1 punkt 2 og § 9.
 2. Forskrift om Arbeidstilsynets samtykke ved oppføring av bygning, bygningsmessige endringer, omorganisering m.v. (§ 19), fastsatt av Kommunal- og arbeidsdepartementet [25. mai 1977 nr. 2](forskrift/1977-05-25-2) med hjemmel i [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 19](lov/1977-02-04-4/§19).
 3. Forskrift om maling av stålmaterialer med shop-primer, fastsatt ved [kgl.res. 2. november 1979 nr. 3](forskrift/1979-11-02-3) i medhold av arbeidsmiljølovens § 18 nr. 3, jfr. § 18 nr. 1 bokstav b).
 4. Forskrift om regionale verneombud i bygge- og anleggsvirksomhet, fastsatt ved klg.res. [13. februar 1981 nr. 8824](forskrift/1981-02-13-8824) med hjemmel i [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 28](lov/1977-02-04-4/§28).

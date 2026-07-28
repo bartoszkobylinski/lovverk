@@ -15,7 +15,7 @@ xml_hash: "f13bffe6ab49d38f99cbffe004bbcc4a40b2f64ab58143c924ecb08d689bbe37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Satser for frakttilskudd til husdyrprodusent for transport av kraftfôr
 
-Satsene for frakttilskudd til husdyrprodusent for transport av kraftfôr1 per tonn kraftfôr fordelt etter hvilken kommune kraftfôret er levert er:
+Satsene for frakttilskudd til husdyrprodusent for transport av kraftfôr[^1] per tonn kraftfôr fordelt etter hvilken kommune kraftfôret er levert er:
 
 | *Kommunenummer* | *Kommunenavn* | *Fraktsatser pr. tonn pr. fôrslag* |  |  |
 | --- | --- | --- | --- | --- |

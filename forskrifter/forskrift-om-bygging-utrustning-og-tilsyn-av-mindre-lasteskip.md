@@ -15,7 +15,7 @@ xml_hash: "5b9aee1c2d5f1c966f04cb66590f1803ce50212b95cf2755a759f66403f6f2c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1338,13 +1338,13 @@ I innredning og arbeidsrom kan innvendig kledning, himling og tilhørende festep
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Romkategori |  | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
-| Kontroll­stasjoner | (1) | \* | B-15b | B-15 | A-15 | B-15 | A-15 | A-15 | \* |
-| Innredning | (2) |  | \* | B-15 | A-15 | B-15 | B-15 | A-0 | \* |
-| Arbeidsrom | (3) |  |  | B-15a | A-15 | B-15 | B-15 | A-0 | \* |
-| Maskinrom kategori A | (4) |  |  |  | \* | A-15 | A-0c | A-0 | \* |
-| Bysse | (5) |  |  |  |  | \* | B-15 | A-0 | \* |
-| Lasterom | (6) |  |  |  |  |  | B-15 | A-0 | \* |
-| Annet maskinrom | (7) |  |  |  |  |  |  | \* | \* |
+| Kontroll­stasjoner | (1) | [^\*] | B-15[^b] | B-15 | A-15 | B-15 | A-15 | A-15 | [^\*] |
+| Innredning | (2) |  | [^\*] | B-15 | A-15 | B-15 | B-15 | A-0 | [^\*] |
+| Arbeidsrom | (3) |  |  | B-15[^a] | A-15 | B-15 | B-15 | A-0 | [^\*] |
+| Maskinrom kategori A | (4) |  |  |  | [^\*] | A-15 | A-0[^c] | A-0 | [^\*] |
+| Bysse | (5) |  |  |  |  | [^\*] | B-15 | A-0 | [^\*] |
+| Lasterom | (6) |  |  |  |  |  | B-15 | A-0 | [^\*] |
+| Annet maskinrom | (7) |  |  |  |  |  |  | [^\*] | \* |
 | Åpent dekk | (8) |  |  |  |  |  |  |  | – |
 
 a Det kreves skott eller dekk med verdi som vist i tabellene bare når de tilstøtende rommene er beregnet på andre formål. Hvis rommene brukes til samme formål, skal skillet være av ubrennbart materiale.
@@ -1804,6 +1804,6 @@ Forskriften trer i kraft 1. januar 2026. Fra samme tid oppheves [forskrift 19. d
 
 ### § 158. Endringer i andre forskrifter
 
-Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter:1 – – –
+Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter:[^1] – – –
 
 1 Se opprinnelig kunngjort versjon i Norsk Lovtidend.

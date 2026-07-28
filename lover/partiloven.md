@@ -15,7 +15,7 @@ xml_hash: "ff137df06ff8c5531e75aa7a11bb96fd708f6996b82ff5502b8077dd50805ecf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -350,7 +350,7 @@ Kostnader etter aktivitet
 
 (3) Den som reviderer og godkjenner et politisk partis regnskap etter første ledd, kan ikke samtidig være medlem av partiet eller ha en samlet engasjementstid i partiet som overstiger åtte år. For revisjonsselskap gjelder dette den som er utpekt som ansvarlig revisor.
 
-(4) Reglene om taushetsplikt i [revisorloven § 6-1](lov/1999-01-15-2/§6-1)1 er ikke til hinder for at revisor kan gi opplysninger om partienes regnskapsmessige disposisjoner til Partilovnemnda og Partirevisjonsutvalget.
+(4) Reglene om taushetsplikt i [revisorloven § 6-1](lov/1999-01-15-2/§6-1)[^1] er ikke til hinder for at revisor kan gi opplysninger om partienes regnskapsmessige disposisjoner til Partilovnemnda og Partirevisjonsutvalget.
 
 (5) For øvrig kommer revisorlovens regler til anvendelse.
 
@@ -404,7 +404,7 @@ Kostnader etter aktivitet
 
 (5) Partirevisjonsutvalget skal på anmodning fra Partilovnemnda i år utenom valgår gjennomføre rutinekontroll av innberetningspliktige partiers eller partiledds etterlevelse av pliktene i [kapittel 4](lov/2005-06-17-102/kap4). Kontrollen skal være politisk nøytral og ikke omfatte områder som berører partiets eller partileddets selvstendighet eller politiske handlefrihet. Partirevisjonsutvalget skal veilede partiet eller partileddet om forståelsen av pliktene i [kapittel 4](lov/2005-06-17-102/kap4).
 
-(6) [Revisorloven § 6-1](lov/1999-01-15-2/§6-1)1 om taushetsplikt er ikke til hinder for at Partirevisjonsutvalget legger fram opplysninger av betydning for etterlevelsen av denne loven eller [straffeloven §§ 387](lov/2005-05-20-28/§387) til [389](lov/2005-05-20-28/§389), for Partilovnemnda.
+(6) [Revisorloven § 6-1](lov/1999-01-15-2/§6-1)[^1] om taushetsplikt er ikke til hinder for at Partirevisjonsutvalget legger fram opplysninger av betydning for etterlevelsen av denne loven eller [straffeloven §§ 387](lov/2005-05-20-28/§387) til [389](lov/2005-05-20-28/§389), for Partilovnemnda.
 
 (7) Enhver som utfører tjeneste eller arbeid for Partilovnemnda eller Partirevisjonsutvalget, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om partiinterne forhold. [Forvaltningsloven § 13 a](lov/1967-02-10/§13a) første ledd nr. 1 til 3 og [§ 13 b](lov/1967-02-10/§13b) første ledd nr. 2 til 7 får likevel anvendelse.
 
@@ -464,7 +464,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om nemndas virksomhet og 
 
 ### § 31. Ikrafttredelse og overgangsbestemmelser
 
-(1) Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves kapittel 5 i [lov 28. juni 2002 nr. 57](lov/2002-06-28-57) om valg til Stortinget, fylkesting og kommunestyrer (valgloven).
+(1) Loven gjelder fra den tid Kongen bestemmer.[^1] Fra samme tid oppheves kapittel 5 i [lov 28. juni 2002 nr. 57](lov/2002-06-28-57) om valg til Stortinget, fylkesting og kommunestyrer (valgloven).
 
 (2) Kongen bestemmer når [lov 22. mai 1998 nr. 30](lov/1998-05-22-30) om offentliggjøring av politiske partiers inntekter oppheves.
 

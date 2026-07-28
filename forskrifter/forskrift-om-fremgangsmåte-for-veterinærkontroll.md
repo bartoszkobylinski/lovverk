@@ -17,7 +17,7 @@ xml_hash: "9f4a27f9d159788190de26d46669d70df12fdcb446dd277e0c27526b6f56e680"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,11 +78,11 @@ som endret ved:
 av 22. januar 2004
 om fastsettelse av fremgangsmåtene for veterinærkontroller ved EØS grensekontrollstasjoner ved import av produkter fra tredjestater – med de endringer og tillegg som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
-[KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR1 –
+[KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR[^1] –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
-under henvisning til rådsdirektiv [97/78/EF](eu/31997l0078)2 av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater, særlig artikkel 3 nr. 5, artikkel 4 nr. 5, artikkel 5 nr. 4, artikkel 8 nr. 7, artikkel 16 nr. 3 og artikkel 19 nr. 1, og
+under henvisning til rådsdirektiv [97/78/EF](eu/31997l0078)[^2] av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater, særlig artikkel 3 nr. 5, artikkel 4 nr. 5, artikkel 5 nr. 4, artikkel 8 nr. 7, artikkel 16 nr. 3 og artikkel 19 nr. 1, og
 
 ut fra følgende betraktninger:
 
@@ -171,7 +171,7 @@ VEDTATT DENNE FORORDNING:]
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
-Utferdiget i Brussel, 22. januar 2004.] 3
+Utferdiget i Brussel, 22. januar 2004.] [^3]
 
 3 Ikrafttredelse i EØS følger av EØS-komitéens beslutning nr. 44/2005. Rettsvirkningene i EFTA-landenes interne rett følger av EØS-avtalens artikkel 7.
 

@@ -15,7 +15,7 @@ xml_hash: "1479b6010d35f12ab755b08050b0b07c4323f713764e75cf909e04587c49a107"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ eu_basis: []
 
 Gebyr etter bestemmelse gitt i eller i medhold av denne lov tilfaller staten med mindre annet er bestemt.
 
-Gebyret beregnes med utgangspunkt i et grunngebyr kalt rettsgebyret. Rettsgebyret fastsettes av departementet i forskrift.1
+Gebyret beregnes med utgangspunkt i et grunngebyr kalt rettsgebyret. Rettsgebyret fastsettes av departementet i forskrift.[^1]
 
 > Endret ved [lover 13 des 1985 nr. 90](lov/1985-12-13-90), [19 des 1986 nr. 74](lov/1986-12-19-74), [18 des 1987 nr. 98](lov/1987-12-18-98), [23 des 1988 nr. 103](lov/1988-12-23-103), [22 des 1989 nr. 106](lov/1989-12-22-106), [21 des 1990 nr. 75](lov/1990-12-21-75), [20 des 1991 nr. 85](lov/1991-12-20-85), [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 des 1994 nr. 76](lov/1994-12-23-76), [22 des 1995 nr. 81](lov/1995-12-22-81), [20 des 1996 nr. 105](lov/1996-12-20-105), [19 des 1997 nr. 97](lov/1997-12-19-97), [18 des 1998 nr. 82](lov/1998-12-18-82), [22 des 1999 nr. 101](lov/1999-12-22-101) (ikr. 1 jan 2000, rettsgebyret hevet fra kr 530 til kr 600), [21 des 2000 nr. 120](lov/2000-12-21-120) (ikr. 1 jan 2001, rettsgebyret hevet til kr 655), [14 des 2001 nr. 97](lov/2001-12-14-97) (ikr. 1 jan 2002, rettsgebyret hevet til kr 670), [20 des 2002 nr. 103](lov/2002-12-20-103) (ikr. 1 jan 2003, rettsgebyret hevet til kr 700), [27 juni 2003 nr. 63](lov/2003-06-27-63) (ikr. 1 juli 2003, rettsgebyret hevet til kr 740), [25 juni 2004 nr. 54](lov/2004-06-25-54) (ikr. 1 juli 2004, rettsgebyret hevet til kr 845), [21 des 2005 nr. 132](lov/2005-12-21-132) (ikr. 1 jan 2006, rettsgebyret hevet til kr 860), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016, rettsgebyret hevet til kr 1 025), [16 des 2016 nr. 95](lov/2016-12-16-95) (ikr. 1 jan 2017).
 
@@ -401,7 +401,7 @@ For forretninger som er begjært eller påbegynt før denne lovs ikrafttreden, b
 
 ### § 29
 
-Denne lov trer i kraft fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 18. desember 1959 nr. 11](lov/1959-12-18-11) om betaling for rettsforretninger (sportelloven).
+Denne lov trer i kraft fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [lov 18. desember 1959 nr. 11](lov/1959-12-18-11) om betaling for rettsforretninger (sportelloven).
 
 1 Fra 1 mars 1983 iflg. [res. 11 feb 1983 nr. 84](forskrift/1983-02-11-84).
 

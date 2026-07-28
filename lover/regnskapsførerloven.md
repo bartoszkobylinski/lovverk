@@ -15,7 +15,7 @@ xml_hash: "ead7baa901a8972f84f50bd5c384452092334d56450f04476411e26c269ac523"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -311,7 +311,7 @@ Det kan kreves gebyr for behandling av klage som angitt i første ledd. Departem
 
 ### § 8-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
 
 [Lov 18. juni 1993 nr. 109 om autorisasjon av regnskapsførere](lov/1993-06-18-109) oppheves fra den tid loven trer i kraft.
 

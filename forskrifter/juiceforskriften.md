@@ -15,7 +15,7 @@ xml_hash: "1b4f95d5a0b18726f48ea51d288bf388375b468f4934bc90be8a03ad170f40b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -277,25 +277,25 @@ Produkter fremstilt av de spiselige delene av frukt av samme slag, uten at juice
 
 | *Fruktens alminnelige betegnelse* | *Botanisk betegnelse* | *Minimums Brix-verdi* |
 | --- | --- | --- |
-| Eple\* | *Malus domestica* Borkh. | 11,2 |
-| Aprikos\*\* | *Prunus armeniaca* L. | 11,2 |
-| Banan\*\* | *Musa x paradisiaca* L. (unntatt plantan) | 21,0 |
-| Solbær\* | *Ribes nigrum* L. | 11,0 |
-| Drue\* | *Vitis vinifera* L. eller hybrider derav<br>*Vitis labrusca* L. eller hybrider derav | 15,9 |
-| Grapefrukt\* | *Citrus x paradisi* Macfad. | 10,0 |
-| Guava\*\* | *Psidium guajava* L. | 8,5 |
-| Sitron\* | *Citrus limon* (L.) Burm.f. | 8,0 |
-| Mango\*\* | *Mangifera indica* L. | 13,5 |
-| Appelsin\* | *Citrus sinensis* (L.) Osbeck | 11,2 |
-| Pasjonsfrukt\* | *Passiflora edulis* Sims | 12,0 |
-| Fersken\*\* | *Prunus persica* (L.) Batsch var. persica | 10,0 |
-| Pære\*\* | *Pyrus communis* L. | 11,9 |
-| Ananas\* | *Ananas comosus* (L.) Merr. | 12,8 |
-| Bringebær\* | *Rubus idaeus* L. | 7,0 |
-| Surkirsebær\* | *Prunus cerasus* L. | 13,5 |
-| Jordbær\* | *Fragaria x ananassa* Duch. | 7,0 |
-| Tomat\* | *Lycopersicon esculentum*, Mill. | 5,0 |
-| Mandarin\* | *Citrus reticulata* Blanco | 11,2 |
+| Eple[^\*] | *Malus domestica* Borkh. | 11,2 |
+| Aprikos[^\*\*] | *Prunus armeniaca* L. | 11,2 |
+| Banan[^\*\*] | *Musa x paradisiaca* L. (unntatt plantan) | 21,0 |
+| Solbær[^\*] | *Ribes nigrum* L. | 11,0 |
+| Drue[^\*] | *Vitis vinifera* L. eller hybrider derav<br>*Vitis labrusca* L. eller hybrider derav | 15,9 |
+| Grapefrukt[^\*] | *Citrus x paradisi* Macfad. | 10,0 |
+| Guava[^\*\*] | *Psidium guajava* L. | 8,5 |
+| Sitron[^\*] | *Citrus limon* (L.) Burm.f. | 8,0 |
+| Mango[^\*\*] | *Mangifera indica* L. | 13,5 |
+| Appelsin[^\*] | *Citrus sinensis* (L.) Osbeck | 11,2 |
+| Pasjonsfrukt[^\*] | *Passiflora edulis* Sims | 12,0 |
+| Fersken[^\*\*] | *Prunus persica* (L.) Batsch var. persica | 10,0 |
+| Pære[^\*\*] | *Pyrus communis* L. | 11,9 |
+| Ananas[^\*] | *Ananas comosus* (L.) Merr. | 12,8 |
+| Bringebær[^\*] | *Rubus idaeus* L. | 7,0 |
+| Surkirsebær[^\*] | *Prunus cerasus* L. | 13,5 |
+| Jordbær[^\*] | *Fragaria x ananassa* Duch. | 7,0 |
+| Tomat[^\*] | *Lycopersicon esculentum*, Mill. | 5,0 |
+| Mandarin[^\*] | *Citrus reticulata* Blanco | 11,2 |
 
 \* For produkter markert med en asterisk (\*), som fremstilles som juice, bestemmes en minste relativ densitet i forhold til vann ved 20/20 °C.
 

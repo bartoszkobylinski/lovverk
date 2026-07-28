@@ -15,7 +15,7 @@ xml_hash: "0c2725e0ef852ce62ac8e216156ba488b8ac8107fb08286f9ad2c09e089a44cb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,7 @@ Til grunn for fastsetjinga av vederlaget skal leggjast det tidspunktet då skjø
 
 ## § 11. Ikraftsetjing og overgangsføresegner.
 
-Lova tar til å gjelde frå den tid1 Kongen fastset.
+Lova tar til å gjelde frå den tid[^1] Kongen fastset.
 
 – – –
 

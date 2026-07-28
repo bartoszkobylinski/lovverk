@@ -15,7 +15,7 @@ xml_hash: "0fa404e7a048f2f4b49eff55f4777b976c43a2f1b7d42d825caa63d4374cb808"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017R0745"
@@ -145,7 +145,7 @@ Departementet kan gi forskrift om dispensasjon fra bestemmelser gitt i eller i m
 
 ## § 16. Ikrafttredelse, opphevelse og overgangsbestemmelser
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 [Lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6) oppheves fra den tid Kongen bestemmer. Kongen kan oppheve de enkelte bestemmelsene til forskjellig tid.
 

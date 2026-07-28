@@ -16,7 +16,7 @@ xml_hash: "2823ae86588fb39b4c50ef871c84cf8ab61abaa8bff368ef820ae9a316a409bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -749,13 +749,13 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 | Elvas kontinuitet | Elvas kontinuitet forstyrres ikke av menneskelig virksomhet og muliggjør uforstyrret vandring av akvatiske organismer og sedimenttransport. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Morfologiske forhold | Kanalmønstre, bredde- og dybdevariasjoner, strømningshastigheter, substratforhold og breddesonens struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
-*Fysisk-kjemiske kvalitetselementer1*
+*Fysisk-kjemiske kvalitetselementer[^1]*
 
 | *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
 | --- | --- | --- | --- |
 | Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Verdiene for saltholdighet, pH, oksygenbalanse, syrenøytraliserende kapasitet og temperatur viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Temperatur, oksygenkonsentrasjon, pH, syrenøytraliserende kapasitet og ledningsevne (ioneinnhold) når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og for at verdiene ovenfor for biologiske kvalitetselementer oppnås.<br><br>Næringsstoffkonsentrasjonene overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og for at verdiene angitt ovenfor for biologiske kvalitetselementer oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
-| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,2 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,[^2] med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
 1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
 
@@ -781,13 +781,13 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 | Hydrologisk system | Vannføringens størrelse og variasjon, vannstand, oppholdstid og den resulterende forbindelsen til grunnvann tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som sikrer at verdiene for de biologiske kvalitetselementene angitt ovenfor blir oppnådd | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Morfologiske forhold | Variasjon i innsjødyp, mengde og struktur av substrat, samt breddesonens struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som sikrer at verdiene for de biologiske kvalitetselementene angitt ovenfor blir oppnådd | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
-*Fysisk-kjemiske kvalitetselementer1*
+*Fysisk-kjemiske kvalitetselementer[^1]*
 
 | *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
 | --- | --- | --- | --- |
 | Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Verdiene for saltholdighet, pH, oksygenforhold, syrenøytraliserende kapasitet og temperatur viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Verdiene for temperatur, oksygenforhold, pH, syrenøytraliserende kapasitet, siktedyp og ledningsevne (ioneinnhold) når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og at verdiene ovenfor for biologiske kvalitetselementer oppnås.<br><br>Konsentrasjonene av næringsstoffer overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og at verdiene angitt ovenfor for biologiske kvalitetselementer oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
-| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,2 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocodprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,[^2] med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocodprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
 1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
 
@@ -814,13 +814,13 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 | Tidevannssystem | Ferskvannsgjennomstrømningen tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Morfologiske forhold | Dybdevariasjoner, substratforhold og tidevannssonenes struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
-*Fysisk-kjemiske kvalitetselementer1*
+*Fysisk-kjemiske kvalitetselementer[^1]*
 
 | *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
 | --- | --- | --- | --- |
 | Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Temperatur, oksygenforhold og siktedyp viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Verdiene for temperatur, oksygenforhold og siktedyp når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og sikrer at verdiene ovenfor for biologiske kvalitetselementer oppnås.<br><br>Næringsstoffkonsentrasjonene overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og sikrer at verdiene angitt ovenfor for biologiske kvalitetselementer oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
-| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.602 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.60[^2] med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
 1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
 
@@ -845,13 +845,13 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 | Tidevannssystem | Ferskvannsgjennomstrømningen og de dominerende strømmenes retning og hastighet tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
 | Morfologiske forhold | Dybdevariasjoner, substratforhold og tidevannssonenes struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
 
-*Fysisk-kjemiske kvalitetselementer1*
+*Fysisk-kjemiske kvalitetselementer[^1]*
 
 | *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
 | --- | --- | --- | --- |
 | Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Konsentrasjonen av næringsstoff er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Temperatur, oksygenkonsentrasjon og siktedyp viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Temperatur, oksygenkonsentrasjon og siktedyp når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og betyr at verdiene ovenfor for biologiske kvalitetselementer kan oppnås.<br><br>Konsentrasjonen av næringsstoff overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene angitt ovenfor for biologiske kvalitetselementer kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
-| Spesifikke ikke-syntetiske forurensende 1stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,2 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
+| Spesifikke ikke-syntetiske forurensende 1stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,[^2] med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
 
 1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
 
@@ -868,7 +868,7 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 | Fysisk-kjemiske elementer |  |  |  |
 | Generelle forhold | De fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig de uberørte forhold som forbindes med den typen overflatevannforekomst som er mest sammenlignbar med den aktuelle kunstige eller sterkt modifiserte vannforekomsten.<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Temperatur, oksygenforhold og siktedyp viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Verdiene for fysisk-kjemiske elementer er innenfor området fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås.<br><br>Temperatur og pH når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås.<br><br>Næringsstoffkonsentrasjonene overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 | Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
-| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold i den nærmeste sammenlignbare overflatevannforekomsten til den kunstige eller stekt modifiserte vannforekomsten (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,1 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidforskrifter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold i den nærmeste sammenlignbare overflatevannforekomsten til den kunstige eller stekt modifiserte vannforekomsten (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,[^1] med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidforskrifter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
 
 > Endret ved [forskrift 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010).
 
@@ -1003,7 +1003,7 @@ Ved valg av overvåkningsfrekvenser skal det tas hensyn til variasjonen i parame
 | Forsuringstilstand | 3 måneder | 3 måneder |  |  |
 | Vannregionspesifikke stoffer | 3 måneder | 3 måneder | 3 måneder | 3 måneder |
 | Prioriterte stoffer, prioritert farlige stoffer og andre EU-utvalgte stoffer i vannsøylen | 1 måned | 1 måned | 1 måned | 1 måned |
-| Miljøgifter som fremgår av vedlegg VIII i sediment\* | 6 år | 6 år | 6 år | 6 år |
+| Miljøgifter som fremgår av vedlegg VIII i sediment[^\*] | 6 år | 6 år | 6 år | 6 år |
 | Miljøgifter som fremgår av vedlegg VIII i organismer | 1 år | 1 år | 1 år | 1 år |
 
 \* Gjennomføres oftere i områder hvor sedimentasjonshastigheten tilsier hyppigere prøvetaking.
@@ -1663,58 +1663,58 @@ et sammendrag av eventuelle ytterligere midlertidige tiltak som er truffet i hen
 
 *Miljøkvalitetsstandarder i vann er angitt i µg/l*
 
-| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Årlig gjennomsnitt2 for ferskvann3* | *Årlig gjennomsnitt2 for kystvann* | *Maksimal verdi4 for ferskvann*3 | *Maksimal verdi4 for kystvann* |
+| *Nr.* | *Navn på substans* | *CAS-nr.[^1]* | *Årlig gjennomsnitt[^2] for ferskvann[^3]* | *Årlig gjennomsnitt[^2] for kystvann* | *Maksimal verdi[^4] for ferskvann*[^3] | *Maksimal verdi[^4] for kystvann* |
 | --- | --- | --- | --- | --- | --- | --- |
 | (1) | Alaklor | 15972-60-8 | 0,3 | 0,3 | 0,7 | 0,7 |
-| (2) | AntracenA | 120-12-7 | 0,1 | 0,1 | 0,1 | 0,1 |
+| (2) | Antracen[^A] | 120-12-7 | 0,1 | 0,1 | 0,1 | 0,1 |
 | (3) | Atrazin | 1912-24-9 | 0,6 | 0,6 | 2,0 | 2,0 |
 | (4) | Benzen | 71-43-2 | 10 | 8 | 50 | 50 |
-| (5) | Bromerte difenyletereA5 | 32534-81-9 |  |  | 0,14 | 0,014 |
-| (6) | Kadmium og kadmium-forbindelserA6 (avhengig av vannets hardhet) | 7440-43-9 | ≤ 0,08 (klasse 1)<br>0,08 (klasse 2)<br>0,09 (klasse 3)<br>0,15 (klasse 4) 0,25 (klasse 5) | 0,2 | ≤ 0,45 (klasse 1)<br>0,45 (klasse 2)<br>0,6 (klasse 3)<br>0,9 (klasse 4) 1,5 (klasse 5) | ≤ 0,45 (klasse 1)<br>0,45 (klasse 2)<br>0,6 (klasse 3)<br>0,9 (klasse 4) 1,5 (klasse 5) |
-| (7) | Kortkjedete klorparafiner (C10-13)A7 | 85535-84-8 | 0,4 | 0,4 | 1,4 | 1,4 |
+| (5) | Bromerte difenyletere[^A][^5] | 32534-81-9 |  |  | 0,14 | 0,014 |
+| (6) | Kadmium og kadmium-forbindelser[^A][^6] (avhengig av vannets hardhet) | 7440-43-9 | ≤ 0,08 (klasse 1)<br>0,08 (klasse 2)<br>0,09 (klasse 3)<br>0,15 (klasse 4) 0,25 (klasse 5) | 0,2 | ≤ 0,45 (klasse 1)<br>0,45 (klasse 2)<br>0,6 (klasse 3)<br>0,9 (klasse 4) 1,5 (klasse 5) | ≤ 0,45 (klasse 1)<br>0,45 (klasse 2)<br>0,6 (klasse 3)<br>0,9 (klasse 4) 1,5 (klasse 5) |
+| (7) | Kortkjedete klorparafiner (C10-13)[^A][^7] | 85535-84-8 | 0,4 | 0,4 | 1,4 | 1,4 |
 | (8) | Klorfenvinfos | 470-90-6 | 0,1 | 0,1 | 0,3 | 0,3 |
 | (9) | Klorpyrifos | 2921-88-2 | 0,03 | 0,03 | 0,1 | 0,1 |
 | (10) | 1,2-Dikloretan | 107-06-2 | 10 | 10 | Ikke oppgitt | Ikke oppgitt |
 | (11) | Diklorometan | 75-09-2 | 20 | 20 | Ikke oppgitt | Ikke oppgitt |
-| (12) | Di(2-etylheksyl)ftalat (DEHP)A | 117-81-7 | 1,3 | 1,3 | Ikke oppgitt | Ikke oppgitt |
+| (12) | Di(2-etylheksyl)ftalat (DEHP)[^A] | 117-81-7 | 1,3 | 1,3 | Ikke oppgitt | Ikke oppgitt |
 | (13) | Diuron | 330-54-1 | 0,2 | 0,2 | 1,8 | 1,8 |
-| (14) | EndosulfanA | 115-29-7 | 0,005 | 0,0005 | 0,01 | 0,004 |
+| (14) | Endosulfan[^A] | 115-29-7 | 0,005 | 0,0005 | 0,01 | 0,004 |
 | (15) | Fluoranten | 206-44-0 | 0,0063 | 0,0063 | 0,12 | 0,12 |
-| (16) | HeksaklorbenzenA | 118-74-1 |  |  | 0,05 | 0,05 |
-| (17) | HeksaklorbutadienA | 87-68-3 |  |  | 0,6 | 0,6 |
-| (18) | Heksaklor-sykloheksanA | 608-73-1 | 0,02 | 0,002 | 0,04 | 0,02 |
+| (16) | Heksaklorbenzen[^A] | 118-74-1 |  |  | 0,05 | 0,05 |
+| (17) | Heksaklorbutadien[^A] | 87-68-3 |  |  | 0,6 | 0,6 |
+| (18) | Heksaklor-sykloheksan[^A] | 608-73-1 | 0,02 | 0,002 | 0,04 | 0,02 |
 | (19) | Isoproturon | 34123-59-6 | 0,3 | 0,3 | 1,0 | 1,0 |
-| (20) | Bly og blyforbindelser | 7439-92-1 | 1,28 | 1,3 | 14 | 14 |
-| (21) | Kvikksølv og kvikksølv forbindelserA | 7439-97-6 |  |  | 0,07 | 0,07 |
+| (20) | Bly og blyforbindelser | 7439-92-1 | 1,2[^8] | 1,3 | 14 | 14 |
+| (21) | Kvikksølv og kvikksølv forbindelser[^A] | 7439-97-6 |  |  | 0,07 | 0,07 |
 | (22) | Naftalen | 91-20-3 | 2 | 2 | 130 | 130 |
-| (23) | Nikkel og nikkelforbindelser | 7440-02-0 | 48 | 8,6 | 34 | 34 |
-| (24) | Nonylfenoler (4-nonylfenol)A9 | 104-40-5 | 0,3 | 0,3 | 2,0 | 2,0 |
-| (25) | Oktylfenol 4-(1,1,3,3-tetrametylbutyl)fenol10 | 140-66-9 | 0,1 | 0,01 | Ikke oppgitt | Ikke oppgitt |
-| (26) | PentaklorbenzenA | 608-93-5 | 0,007 | 0,0007 | Ikke oppgitt | Ikke oppgitt |
+| (23) | Nikkel og nikkelforbindelser | 7440-02-0 | 4[^8] | 8,6 | 34 | 34 |
+| (24) | Nonylfenoler (4-nonylfenol)[^A][^9] | 104-40-5 | 0,3 | 0,3 | 2,0 | 2,0 |
+| (25) | Oktylfenol 4-(1,1,3,3-tetrametylbutyl)fenol[^10] | 140-66-9 | 0,1 | 0,01 | Ikke oppgitt | Ikke oppgitt |
+| (26) | Pentaklorbenzen[^A] | 608-93-5 | 0,007 | 0,0007 | Ikke oppgitt | Ikke oppgitt |
 | (27) | Pentaklorfenol | 87-86-5 | 0,4 | 0,4 | 1,0 | 1,0 |
-| (28) | Polyaromatiske hydrokarboner (PAH)A11 | Ikke relevant | Ikke oppgitt | Ikke oppgitt | Ikke oppgitt | Ikke oppgitt |
+| (28) | Polyaromatiske hydrokarboner (PAH)[^A][^11] | Ikke relevant | Ikke oppgitt | Ikke oppgitt | Ikke oppgitt | Ikke oppgitt |
 |  | Benzo(a)pyren | 50-32-8 | 1,7x10-4 | 1,7x10-4 | 0,27 | 0,027 |
 |  | Benzo(b)fluoranten | 205-99-2 | Se fotnote 11 | Se fotnote 11 | 0,017 | 0,017 |
 |  | Benzo(k)fluoranten | 207-08-9 | Se fotnote 11 | Se fotnote 11 | 0,017 | 0,017 |
 |  | Benzo(g,h,i)perylen | 191-24-2 | Se fotnote 11 | Se fotnote 11 | 8,2x10-3 | 8,2x10-4 |
 |  | Indeno((1,2,3-cd)pyren | 193-39-5 | Se fotnote 11 | Se fotnote 11 | Ikke oppgitt | Ikke oppgitt |
 | (29) | Simazin | 122-34-9 | 1,0 | 1,0 | 4,0 | 4,0 |
-| (30) | Tributyltinn forbindelser (tributyltinn kation)A | 36643-28-4 | 0,0002 | 0,0002 | 0,0015 | 0,0015 |
+| (30) | Tributyltinn forbindelser (tributyltinn kation)[^A] | 36643-28-4 | 0,0002 | 0,0002 | 0,0015 | 0,0015 |
 | (31) | Triklorobenzener | 12002-48-1 | 0,4 | 0,4 | Ikke oppgitt | Ikke oppgitt |
 | (32) | Triklormetan (Kloroform) | 67-66-3 | 2,5 | 2,5 | Ikke oppgitt | Ikke oppgitt |
-| (33) | TrifluralinA | 1582-09-8 | 0,03 | 0,03 | Ikke oppgitt | Ikke oppgitt |
-| (34)12 | DicofolA | 115-32-2 | 1,3 x 10-3 | 3,2 x 10-5 | Ikke oppgitt13 | Ikke oppgitt13 |
-| (35)12 | Perfluoroktylsulfonat og dets derivater (PFOS)A | 1763-23-1 | 6,5 x 10-4 | 1,3 x 10-4 | 36 | 7,2 |
-| (36)12 | QuinoxyfenA | 124495-18-7 | 0,15 | 0,015 | 2,7 | 0,54 |
-| (37)12 | Dioksin og dioksinlignende forbindelserA | Se fotnote 14 |  |  | Ikke oppgitt | Ikke oppgitt |
-| (38)12 | Aklonifen | 74070-46-5 | 0,12 | 0,012 | 0,12 | 0,012 |
-| (39)12 | Bifenox | 42576-02-3 | 0,012 | 0,0012 | 0,04 | 0,004 |
-| (40)12 | Cybutryne | 28159-98-0 | 0,0025 | 0,0025 | 0,016 | 0,016 |
-| (41)12 | Cypermetrin15 | 52315-07-8 | 8 x 10-5 | 8 x 10-6 | 6 x 10-4 | 6 x 10-5 |
-| (42)12 | Diklorvos | 62-73-7 | 6 x 10-4 | 6 x 10-5 | 7 x 10-4 | 7 x 10-5 |
-| (43)12 | Heksabromsyklododdekan (HBCDD)A | Se fotnote 16 | 0,0016 | 0,0008 | 0,5 | 0,05 |
-| (44)12 | Heptaklor og heptaklorepoksidA | 76-44-8/1024-57-3 | 2 x 10-7 | 1 x 10-8 | 3 x 10-4 | 3 x 10-5 |
-| (45)12 | Terbutryn | 886-50-0 | 0,065 | 0,0065 | 0,34 | 0,034 |
+| (33) | Trifluralin[^A] | 1582-09-8 | 0,03 | 0,03 | Ikke oppgitt | Ikke oppgitt |
+| (34)[^12] | Dicofol[^A] | 115-32-2 | 1,3 x 10-3 | 3,2 x 10-5 | Ikke oppgitt[^13] | Ikke oppgitt[^13] |
+| (35)[^12] | Perfluoroktylsulfonat og dets derivater (PFOS)[^A] | 1763-23-1 | 6,5 x 10-4 | 1,3 x 10-4 | 36 | 7,2 |
+| (36)[^12] | Quinoxyfen[^A] | 124495-18-7 | 0,15 | 0,015 | 2,7 | 0,54 |
+| (37)[^12] | Dioksin og dioksinlignende forbindelser[^A] | Se fotnote [^14] |  |  | Ikke oppgitt | Ikke oppgitt |
+| (38)[^12] | Aklonifen | 74070-46-5 | 0,12 | 0,012 | 0,12 | 0,012 |
+| (39)[^12] | Bifenox | 42576-02-3 | 0,012 | 0,0012 | 0,04 | 0,004 |
+| (40)[^12] | Cybutryne | 28159-98-0 | 0,0025 | 0,0025 | 0,016 | 0,016 |
+| (41)[^12] | Cypermetrin[^15] | 52315-07-8 | 8 x 10-5 | 8 x 10-6 | 6 x 10-4 | 6 x 10-5 |
+| (42)[^12] | Diklorvos | 62-73-7 | 6 x 10-4 | 6 x 10-5 | 7 x 10-4 | 7 x 10-5 |
+| (43)[^12] | Heksabromsyklododdekan (HBCDD)[^A] | Se fotnote [^16] | 0,0016 | 0,0008 | 0,5 | 0,05 |
+| (44)[^12] | Heptaklor og heptaklorepoksid[^A] | 76-44-8/1024-57-3 | 2 x 10-7 | 1 x 10-8 | 3 x 10-4 | 3 x 10-5 |
+| (45)[^12] | Terbutryn | 886-50-0 | 0,065 | 0,0065 | 0,34 | 0,034 |
 
 1 CAS- Chemical Abstracs service.
 
@@ -1754,36 +1754,36 @@ A Prioritert farlige stoffer
 
 *Miljøkvalitetsstandarder i organismer er angitt i µg/kg våtvekt*
 
-| *Nr*. | *Navn på substans* | *CAS-nr.1* | *Miljøkvalitetsstandard i organismer2* |
+| *Nr*. | *Navn på substans* | *CAS-nr.[^1]* | *Miljøkvalitetsstandard i organismer[^2]* |
 | --- | --- | --- | --- |
-| (1) | AntracenA | 120-12-7 | 2400 |
-| (2) | Bromerte difenyletereA | 32534-81-9 | 0,0085 |
-| (3) | Kortkjedete klorparafiner (C10-13)A | 85535-84-8 | 6000 |
-| (4) | Di-(2-etylheksyl)ftalat (DEHP)A | 117-81-7 | 2900 |
-| (5) | EndosulfanA | 115-29-7 | 370 |
+| (1) | Antracen[^A] | 120-12-7 | 2400 |
+| (2) | Bromerte difenyletere[^A] | 32534-81-9 | 0,0085 |
+| (3) | Kortkjedete klorparafiner (C10-13)[^A] | 85535-84-8 | 6000 |
+| (4) | Di-(2-etylheksyl)ftalat (DEHP)[^A] | 117-81-7 | 2900 |
+| (5) | Endosulfan[^A] | 115-29-7 | 370 |
 | (6) | Fluoranten | 206-44-0 | 30 |
-| (7) | HeksaklorbenzenA | 118-74-1 | 10 |
-| (8) | HeksaklorbutadienA | 87-68-3 | 55 |
-| (9) | Heksaklor- sykloheksanA | 608-73-1 | 61 |
-| (10) | Kvikksølv og kvikksølvforbindelserA | 7439-97-6 | 20 |
+| (7) | Heksaklorbenzen[^A] | 118-74-1 | 10 |
+| (8) | Heksaklorbutadien[^A] | 87-68-3 | 55 |
+| (9) | Heksaklor- sykloheksan[^A] | 608-73-1 | 61 |
+| (10) | Kvikksølv og kvikksølvforbindelser[^A] | 7439-97-6 | 20 |
 | (11) | Naftalen | 91-20-3 | 2400 |
-| (12) | Nonylfenol (4-nonylfenol)A | 104-40-5 | 3000 |
+| (12) | Nonylfenol (4-nonylfenol)[^A] | 104-40-5 | 3000 |
 | (13) | Oktylfenol 4-(1,1,3,3-Tetrametylbutyl)fenol | 140-66-9 | 0,004 |
-| (14) | PentaklorbenzenA | 608-93-5 | 50 |
+| (14) | Pentaklorbenzen[^A] | 608-93-5 | 50 |
 | (15) | Pentaklorfenol | 87-86-5 | 180 |
 | (16) | PAH |  |  |
 |  | Benzo(a)pyren | 50-32-8 | 5 |
-|  | Benzo(b)fluoranten | 205-99-2 | Se fotnote 4. |
-|  | Benzo(k)fluoranten | 207-08-9 | Se fotnote 4. |
-|  | Benzo(g,h,i)perylen | 191-24-2 | Se fotnote 4. |
-|  | Indeno((1,2,3-cd)pyren | 193-39-5 | Se fotnote 4. |
-| (17) | Tributyltinnforbindelser (tributyltinn kation)A | 36643-28-4 | 150 |
+|  | Benzo(b)fluoranten | 205-99-2 | Se fotnote [^4]. |
+|  | Benzo(k)fluoranten | 207-08-9 | Se fotnote [^4]. |
+|  | Benzo(g,h,i)perylen | 191-24-2 | Se fotnote [^4]. |
+|  | Indeno((1,2,3-cd)pyren | 193-39-5 | Se fotnote [^4]. |
+| (17) | Tributyltinnforbindelser (tributyltinn kation)[^A] | 36643-28-4 | 150 |
 | (18) | Triklorobenzener | 12002-48-1 | 490 |
 | (19) | Dicofol | 115-32-2 | 33 |
-| (20) | Perfluoroktylsulfonat og dets derivater (PFOS)A | 1763-21-1 | 9,1 |
-| (21) | Dioksin og dioksinlignende forbindelserA | Se fotnote 14 i del A i dette vedlegg. | Sum av PCDD+PCDF+PVB-DL 0,0065 µg/kg TEQ5 |
-| (22) | Heksabromsyklododekan (HBCDD)A | Se fotnote 16 i del A i dette vedlegg. | 167 |
-| (23) | Heptaklor og heptaklorepoksidA | 76-44-8/1024-57-3 | 6,7x10-3 |
+| (20) | Perfluoroktylsulfonat og dets derivater (PFOS)[^A] | 1763-21-1 | 9,1 |
+| (21) | Dioksin og dioksinlignende forbindelser[^A] | Se fotnote [^14] i del A i dette vedlegg. | Sum av PCDD+PCDF+PVB-DL 0,0065 µg/kg TEQ[^5] |
+| (22) | Heksabromsyklododekan (HBCDD)[^A] | Se fotnote [^16] i del A i dette vedlegg. | 167 |
+| (23) | Heptaklor og heptaklorepoksid[^A] | 76-44-8/1024-57-3 | 6,7x10-3 |
 
 1 CAS- Chemical Abstracs service.
 
@@ -1799,41 +1799,41 @@ A Prioritert farlige stoffer
 
 *Miljøkvalitetsstandarder i sediment er angitt i mg/kg tørrstoff*
 
-| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Miljøkvalitetsstandard i sediment (kystvann)2* | *Miljøkvalitetsstandard i sediment (ferskvann)2* |
+| *Nr.* | *Navn på substans* | *CAS-nr.[^1]* | *Miljøkvalitetsstandard i sediment (kystvann)[^2]* | *Miljøkvalitetsstandard i sediment (ferskvann)[^2]* |
 | --- | --- | --- | --- | --- |
 | (1) | Alaklor | 15972-60-8 | 0,0003 |  |
-| (2) | AntracenA | 120-12-7 | 0,0046 |  |
-| (3) | Bromerte difenyletereA | 32534-81-9 | 0,062 | 0,31 |
-| (4) | Kadmium og kadmiumforbindelserA | 7440-43-9 | 2,5 |  |
-| (5) | C 10-13 kloralkanerA | 85535-84-8 | 0,8 |  |
+| (2) | Antracen[^A] | 120-12-7 | 0,0046 |  |
+| (3) | Bromerte difenyletere[^A] | 32534-81-9 | 0,062 | 0,31 |
+| (4) | Kadmium og kadmiumforbindelser[^A] | 7440-43-9 | 2,5 |  |
+| (5) | C 10-13 kloralkaner[^A] | 85535-84-8 | 0,8 |  |
 | (6) | Klorfenvifos | 470-90-6 | 0,0005 |  |
 | (7) | Klorpyrifos | 2921-88-2 | 0,0013 |  |
-| (8) | Di-(2-etylheksyl)ftalat (DEHP)A | 117-81-7 | 10 |  |
-| (9) | EndosulfanA | 115-29-7 | 0,00007 |  |
+| (8) | Di-(2-etylheksyl)ftalat (DEHP)[^A] | 117-81-7 | 10 |  |
+| (9) | Endosulfan[^A] | 115-29-7 | 0,00007 |  |
 | (10) | Fluoranten | 206-44-0 | 0,40 |  |
-| (11) | HeksaklorbensenA | 118-74-1 | 0,017 |  |
-| (12) | HeksaklorbutadienA | 87-68-3 | 0,049 |  |
-| (13) | Heksaklor- sykloheksanA | 608-73-1 | 0,000074 | 0,00074 |
+| (11) | Heksaklorbensen[^A] | 118-74-1 | 0,017 |  |
+| (12) | Heksaklorbutadien[^A] | 87-68-3 | 0,049 |  |
+| (13) | Heksaklor- sykloheksan[^A] | 608-73-1 | 0,000074 | 0,00074 |
 | (14) | Bly og blyforbindelser | 7439-92-1 | 150 | 66 |
-| (15) | Kvikksølv og kvikksølvforbindelserA | 7439-97-6 | 0,52 |  |
+| (15) | Kvikksølv og kvikksølvforbindelser[^A] | 7439-97-6 | 0,52 |  |
 | (16) | Naftalen | 91-20-3 | 0,027 |  |
 | (17) | Nikkel og nikkelforbindelser | 7440-02-0 | 42 |  |
-| (18) | NonylfenolA | 104-40-5 | 0,016 |  |
+| (18) | Nonylfenol[^A] | 104-40-5 | 0,016 |  |
 | (19) | Oktylfenol | 140-66-9 | 0,0003 | 0,003 |
-| (20) | PentaklorbenzenA | 608-93-5 | 0,4 |  |
+| (20) | Pentaklorbenzen[^A] | 608-93-5 | 0,4 |  |
 | (21) | Pentaklorfenol | 87-86-5 | 0,014 |  |
-| (22) | PAHA |  |  |  |
+| (22) | PAH[^A] |  |  |  |
 |  | Benzo(a)pyren | 50-32-8 | 0,18 |  |
 |  | Benzo(b)fluoranten | 205-99-2 | 0,14 |  |
 |  | Benzo(k)fluoranten | 207-08-9 | 0,14 |  |
 |  | Benzo(g,h,i)perylen | 191-24-2 | 0,084 |  |
 |  | Ideno(1,2,3-cd)pyren | 193-39-5 | 0,063 |  |
-| (23) | Tributyltinn forbindelser (tributyltinn kation)A | 36643-28-4 | 0,000002 |  |
+| (23) | Tributyltinn forbindelser (tributyltinn kation)[^A] | 36643-28-4 | 0,000002 |  |
 | (24) | Triklorbenzener | 12002-48-1 | 0,0056 |  |
-| (25) | TrifluralinA | 1582-09-8 | 1,6 |  |
-| (26) | Perfluoroktylsulfonat og dets derivater (PFOS)A | 1763-23-1 | 0,00023 | 0,0023 |
-| (27) | Dioksin og dioksinlignende PCBA | Se fotnote 14 i tabell A i dette vedlegg. | 8,6 x 10-7 TEQ |  |
-| (28) | Heksabromsyklododdekan (HBCDD)A | Se fotnote 16 i tabell A i dette vedlegg. | 0,034 | 0,17 |
+| (25) | Trifluralin[^A] | 1582-09-8 | 1,6 |  |
+| (26) | Perfluoroktylsulfonat og dets derivater (PFOS)[^A] | 1763-23-1 | 0,00023 | 0,0023 |
+| (27) | Dioksin og dioksinlignende PCB[^A] | Se fotnote [^14] i tabell A i dette vedlegg. | 8,6 x 10-7 TEQ |  |
+| (28) | Heksabromsyklododdekan (HBCDD)[^A] | Se fotnote [^16] i tabell A i dette vedlegg. | 0,034 | 0,17 |
 
 1 CAS- Chemical Abstracs service.
 
@@ -1845,9 +1845,9 @@ A Prioritert farlige stoffer.
 
 *1. Miljøkvalitetsstandarder for andre EU-utvalgte stoffer i vann, angitt i µg/l*
 
-| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Årlig gjennomsnitt2 for ferskvann3* | *Årlig gjennomsnitt for2 kystvann* | *Maksimal verdi4 for ferskvann3* | *Maksimal verdi4 for kystvann* |
+| *Nr.* | *Navn på substans* | *CAS-nr.[^1]* | *Årlig gjennomsnitt[^2] for ferskvann[^3]* | *Årlig gjennomsnitt for[^2] kystvann* | *Maksimal verdi[^4] for ferskvann[^3]* | *Maksimal verdi[^4] for kystvann* |
 | --- | --- | --- | --- | --- | --- | --- |
-| (1) | DDT totalt5 | Ikke relevant | 0,025 | 0,025 | Ikke oppgitt | Ikke oppgitt |
+| (1) | DDT totalt[^5] | Ikke relevant | 0,025 | 0,025 | Ikke oppgitt | Ikke oppgitt |
 |  | para-para-DDT | 50-29-3 | 0,01 | 0,01 | Ikke oppgitt | Ikke oppgitt |
 | (2) | Aldrin | 309-00-2 | ∑ = 0,01 | ∑ = 0,005 | Ikke oppgitt | Ikke oppgitt |
 | (3) | Dieldrin | 60-57-1 | ∑ = 0,01 | ∑ = 0,005 | Ikke oppgitt | Ikke oppgitt |
@@ -1869,9 +1869,9 @@ A Prioritert farlige stoffer.
 
 *2. Miljøkvalitetsstandarder for andre EU-utvalgte stoffer i organismer og sediment*
 
-| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Miljøkvalitetsstandard i organismer (µg/kg våtvekt)* | *Miljøkvalitetsstandard i sediment (mg/kg tørrvekt)* |
+| *Nr.* | *Navn på substans* | *CAS-nr.[^1]* | *Miljøkvalitetsstandard i organismer (µg/kg våtvekt)* | *Miljøkvalitetsstandard i sediment (mg/kg tørrvekt)* |
 | --- | --- | --- | --- | --- |
-| (1) | DDT totalt2 | Ikke relevant | 609 | 0,015 |
+| (1) | DDT totalt[^2] | Ikke relevant | 609 | 0,015 |
 |  | para-para-DDT | 50-29-3 |  | 0,006 |
 
 1 CAS- Chemical Abstracs service.

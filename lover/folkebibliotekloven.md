@@ -15,7 +15,7 @@ xml_hash: "5decd32d5c65abc46b9d219b3142d5717c33cbabb3bb98f2d91bac44d59789f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,7 +108,7 @@ Statlige oppgaver omfatter bibliotekformål som ikke naturlig hører inn under d
 
 ### § 10
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1 Fra samme dag endres følgende lover slik: – – –
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme dag endres følgende lover slik: – – –
 
 > Endret ved [lov 21 juni 2013 nr. 95](lov/2013-06-21-95) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 747](forskrift/2013-06-21-747)), tidligere § 16.
 

@@ -15,7 +15,7 @@ xml_hash: "ad2ae31683415fdb7e3a359a6dd48122aaf062e9376fe4036e0a0db8a22c2a0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ I områder med lite utbyggingspress og mye tilgjengelig strandsone, kan det i st
 
 Kommunene skal legge retningslinjene til grunn i planleggingen og ved behandlingen av dispensasjonssøknader. Fylkeskommunene skal legge retningslinjene til grunn i den regionale planleggingen. Statsforvalterne og fylkeskommunene skal legge retningslinjene til grunn ved sin medvirkning i det kommunale planarbeidet og når de blir forelagt dispensasjonssøknader. Kommuner, fylkeskommuner og statlige myndigheter skal legge retningslinjene til grunn når de treffer enkeltvedtak etter annen lovgivning enn [plan- og bygningsloven](lov/2008-06-27-71).
 
-Statlige og regionale myndigheter kan fremme innsigelse1 til planer som er i strid med disse retningslinjene, når motstriden innebærer at nasjonale og vesentlige regionale interesser i strandsonen blir tilsidesatt. Statlige og regionale myndigheter skal legge stor vekt på det lokale selvstyret i vurderingen av om det skal fremmes innsigelse. Retningslinjene gjelder også når statlige og regionale organer vurderer å klage på kommunale enkeltvedtak i strandsonen.
+Statlige og regionale myndigheter kan fremme innsigelse[^1] til planer som er i strid med disse retningslinjene, når motstriden innebærer at nasjonale og vesentlige regionale interesser i strandsonen blir tilsidesatt. Statlige og regionale myndigheter skal legge stor vekt på det lokale selvstyret i vurderingen av om det skal fremmes innsigelse. Retningslinjene gjelder også når statlige og regionale organer vurderer å klage på kommunale enkeltvedtak i strandsonen.
 
 Regionale myndigheter bør utarbeide regionale planer for å sikre en helhetlig tilnærming til strandsonen på tvers av kommunegrenser.
 

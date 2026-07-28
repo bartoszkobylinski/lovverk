@@ -15,7 +15,7 @@ xml_hash: "2f6d7472afebb930f144e1e5fe0e5df929203de8343c9753a0c41f25e1673407"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -83,7 +83,7 @@ Grunnbeløpet fastsettes av Kongen og reguleres årlig med virkning fra 1. mai i
 
 Til grunn for reguleringen legges forventet lønnsutvikling i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk lønnsutvikling siste to år.
 
-Kongen gir forskrifter med nærmere regler om regulering av grunnbeløpet,1 herunder fra hvilket tidspunkt nytt grunnbeløp får virkning for de enkelte ytelsene etter denne loven.
+Kongen gir forskrifter med nærmere regler om regulering av grunnbeløpet,[^1] herunder fra hvilket tidspunkt nytt grunnbeløp får virkning for de enkelte ytelsene etter denne loven.
 
 > Endret ved lover [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011), [11 mai 2012 nr. 24](lov/2012-05-11-24), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II).
 
@@ -3265,7 +3265,7 @@ Sykdom som angitt i forskriftene skal godkjennes som yrkesskade dersom
 
 Det er et vilkår at påvirkningen som nevnt i bokstav b har skjedd mens vedkommende var yrkesskadedekket, se [§§ 13-6](lov/1997-02-28-19/§13-6) til [13-13](lov/1997-02-28-19/§13-13).
 
-– – –1
+– – –[^1]
 
 Departementet oppretter et rådgivende yrkessykdomsutvalg som regelmessig skal vurdere hvilke sykdommer som bør likestilles med yrkesskade og inkluderes i forskrift gitt i medhold av første ledd andre punktum. Departementet oppnevner utvalgets leder, medlemmer og varamedlemmer. Departementet gir forskrift om utvalgets sammensetning og øvrige oppgaver.
 
@@ -3514,7 +3514,7 @@ Likestilt med yrkesaktivitet er også tidsrom med
 2. ventelønn etter [lov av 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m. [§ 13](lov/1983-03-04-3/§13) nr. 6,
 3. vartpenger etter [lov av 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 24](lov/1949-07-28-26/§24) tredje ledd,
 4. etterlønn fra arbeidsgiver,
-5. avtjening av militærtjeneste eller obligatorisk sivilforsvarstjeneste,1
+5. avtjening av militærtjeneste eller obligatorisk sivilforsvarstjeneste,[^1]
 6. ytelse i medhold av midlertidig lov om kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet inntekt som følge av utbrudd av covid-19.
 
 > Endret ved lover [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [27 juni 2008 nr. 52](lov/2008-06-27-52), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)), [19 des 2017 nr. 116](lov/2017-12-19-116) (ikr. 1 jan 2019 iflg. [res. 7 des 2018 nr. 1818](forskrift/2018-12-07-1818)), [12 juni 2020 nr. 62](lov/2020-06-12-62).

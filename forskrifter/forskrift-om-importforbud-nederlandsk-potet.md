@@ -15,7 +15,7 @@ xml_hash: "b8f6b8a215e8b4dc39711c8a8570cf877f673c06601db8db83aa97586e1de5f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,6 +24,6 @@ eu_basis: []
 
 1\. Det innføres midlertidig importforbud av poteter fra Nederland.
 
-2\. Importforbudet trer i kraft 21. mai 1996. Samtidig oppheves innførselsvilkårene fastsatt i brev av 17. november 19951 fra Landbruksdepartementet med ikrafttredelsesdato 20. november 1995.
+2\. Importforbudet trer i kraft 21. mai 1996. Samtidig oppheves innførselsvilkårene fastsatt i brev av 17. november 1995[^1] fra Landbruksdepartementet med ikrafttredelsesdato 20. november 1995.
 
 1 Ikke kunngjort i Norsk Lovtidend

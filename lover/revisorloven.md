@@ -15,7 +15,7 @@ xml_hash: "41ceb3a3bc8ac0e7f7aa32cd543e90573df5b033ec37ada3729679221a577f89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32006L0043"
@@ -865,7 +865,7 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 
 ### § 16-1. Ikrafttredelse
 
-(1) Loven trer i kraft fra den tid1 Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
+(1) Loven trer i kraft fra den tid[^1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
 
 (2) [Lov 15. januar 1999 nr. 2](lov/1999-01-15-2) om revisjon og revisorer oppheves fra den tiden loven trer i kraft.
 

@@ -15,7 +15,7 @@ xml_hash: "19d146ac90ed08db798b5fa2d33231e9b1153633f645a4bd1b29c2882fc19d91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0065"
@@ -1426,7 +1426,7 @@ Med bøter eller fengsel inntil 1 år straffes den som grovt eller gjentatte gan
 
 ### § 13-1. Ikrafttredelse
 
-(1) Loven gjelder fra den tid Kongen bestemmer.1
+(1) Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 (2) Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 

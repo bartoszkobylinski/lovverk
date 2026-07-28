@@ -15,7 +15,7 @@ xml_hash: "de4f269ba2c0f2b1c7134b6e015eb22cc5d0776002a1683adcb8204bfa8c6a8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -725,7 +725,7 @@ Legemidler uten markedsføringstillatelse som utleveres etter søknad om unntak 
 
 ## Kap. 16. Ikrafttredelse og endringer i andre forskrifter
 
-Forskriften trer i kraft samtidig med [lov 17. juni 2022 nr. 54 om endringer i legemiddelloven (legemidler til dyr)](lov/2022-06-17-54).1 Fra samme tidspunkt oppheves [forskrift 27. april 1998 nr. 455 om rekvirering og utlevering av legemidler fra apotek](forskrift/1998-04-27-455).
+Forskriften trer i kraft samtidig med [lov 17. juni 2022 nr. 54 om endringer i legemiddelloven (legemidler til dyr)](lov/2022-06-17-54).[^1] Fra samme tidspunkt oppheves [forskrift 27. april 1998 nr. 455 om rekvirering og utlevering av legemidler fra apotek](forskrift/1998-04-27-455).
 
 [§ 7-1a](forskrift/2022-06-02-977/§7-1a) og [§ 7-2](forskrift/2022-06-02-977/§7-2) annet og tredje ledd opphører 1. juli 2024. [§ 7-2](forskrift/2022-06-02-977/§7-2) fjerde ledd blir da annet ledd.
 

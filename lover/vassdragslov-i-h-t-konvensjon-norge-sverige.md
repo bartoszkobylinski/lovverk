@@ -15,7 +15,7 @@ xml_hash: "295cf125dbe52c5a40231b346c8a7927df2ea87712bdc15abf7301252084c81c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -222,6 +222,6 @@ Omfatter et foretagende overføring av vann fra et nedbørområde til et annet, 
 
 ### § 33
 
-Denne lov trer i kraft fra den tid Kongen fastsetter.1 Fra samme tid opheves lov om vassdragenes benyttelse m.v. av 1 juli 1887 § 76 og lov om vassdragsreguleringer av 14 desember 1917 § 24, forsåvidt angår vassdrag som danner grense mot Sverige. For anlegg, arbeide eller foranstaltning som er utført eller påbegynt, før konvensjonen av 11 mai 1929 trer i kraft, eller iverksettes efter denne med hjemmel i tidligere meddelt tillatelse, skal eldre bestemmelser fremdeles gjelde. Bestemmelsene i nærværende lovs [§§ 24](lov/1931-06-12-1/§24) og [25](lov/1931-06-12-1/§25) kommer dog til anvendelse også på sådanne foretagender.
+Denne lov trer i kraft fra den tid Kongen fastsetter.[^1] Fra samme tid opheves lov om vassdragenes benyttelse m.v. av 1 juli 1887 § 76 og lov om vassdragsreguleringer av 14 desember 1917 § 24, forsåvidt angår vassdrag som danner grense mot Sverige. For anlegg, arbeide eller foranstaltning som er utført eller påbegynt, før konvensjonen av 11 mai 1929 trer i kraft, eller iverksettes efter denne med hjemmel i tidligere meddelt tillatelse, skal eldre bestemmelser fremdeles gjelde. Bestemmelsene i nærværende lovs [§§ 24](lov/1931-06-12-1/§24) og [25](lov/1931-06-12-1/§25) kommer dog til anvendelse også på sådanne foretagender.
 
 1 Fra 5 jan 1932 iflg. res. 5 jan 1932.

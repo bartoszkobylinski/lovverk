@@ -15,7 +15,7 @@ xml_hash: "85997fad708d2b7d6c5eab52afa5363270648adfa823f38c4ee8eeab686b51f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -600,7 +600,7 @@ Før avtale etter denne paragraf inngås, skal et utkast ha vært forelagt kommu
 
 Nærmere regler om forvaltningen av jakt og fangst i bygdeallmenning – herunder hvordan det skal forholdes med jakt på hjortevilt og bever – fastsettes i bruksregler for den enkelte allmenning, jfr. [§ 3-7](lov/1992-06-19-59/§3-7). I reglene kan det fastsettes begrensninger i antall jegere, i antall vilt av ulike slag som tillates felt eller fanget, og begrensninger i tid, område og måten for utøvelse av jakt og fangst.
 
-Utkast til slike regler skal, før det legges ut til gjennomsyn for de bruksberettigede etter [§ 3-8](lov/1992-06-19-59/§3-8), ha vært forelagt viltnemnda1 til uttalelse.
+Utkast til slike regler skal, før det legges ut til gjennomsyn for de bruksberettigede etter [§ 3-8](lov/1992-06-19-59/§3-8), ha vært forelagt viltnemnda[^1] til uttalelse.
 
 1 Vel nå kommunen, jf. [lov 29 mai 1981 nr. 38 § 4](lov/1981-05-29-38/§4).
 
@@ -686,7 +686,7 @@ Både departementet og allmenningsstyret er påtaleberettiget.
 
 ### § 9-4. (ikrafttredelse)
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 1993 iflg. [res. 13 nov 1992 nr. 795](forskrift/1992-11-13-795).
 

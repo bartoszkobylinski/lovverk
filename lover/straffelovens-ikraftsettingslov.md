@@ -15,7 +15,7 @@ xml_hash: "0ce6a870d023f22ef8ae5fdd078493811f66dd337c93e5c8de523c8258c9d5d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,13 +24,13 @@ eu_basis: []
 
 ## § 1. Ikraftsetting av straffeloven 2005
 
-I [lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff skal [§ 411](lov/2005-05-20-28/§411)1 første ledd lyde: – – –
+I [lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff skal [§ 411](lov/2005-05-20-28/§411)[^1] første ledd lyde: – – –
 
 1 Fastsetter ikrafttredelsen av loven til 1 okt 2015, se [straffeloven § 411](lov/2005-05-20-28/§411).
 
 ## § 2. Opphevelse av andre lover
 
-Med virkning fra den tid straffeloven 2005 trer i kraft1 oppheves følgende lover:
+Med virkning fra den tid straffeloven 2005 trer i kraft[^1] oppheves følgende lover:
 
 1. [lov 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter
 2. [lov 25. juni 1926 nr. 4](lov/1926-06-25-4) om straff for å delta i og medvirke til smugling på andre land
@@ -49,19 +49,19 @@ Med virkning fra den tid straffeloven 2005 trer i kraft1 oppheves følgende love
 
 ## § 4. Endringer i militær straffelov
 
-Med virkning fra den tid straffeloven 2005 trer i kraft1 gjøres følgende endringer i [lov 22. mai 1902 nr. 13](lov/1902-05-22-13) [militær straffelov:](lov/1902-05-22-13) – – –
+Med virkning fra den tid straffeloven 2005 trer i kraft[^1] gjøres følgende endringer i [lov 22. mai 1902 nr. 13](lov/1902-05-22-13) [militær straffelov:](lov/1902-05-22-13) – – –
 
 1 Fra 1 okt 2015, se [straffeloven § 411](lov/2005-05-20-28/§411).
 
 ## § 5. Endringer i straffeprosessloven
 
-Med virkning fra den tid straffeloven 2005 trer i kraft1 gjøres følgende endringer i [lov 22. mai 1981 nr. 25](lov/1981-05-22-25) om rettergangsmåten i straffesaker: – – –
+Med virkning fra den tid straffeloven 2005 trer i kraft[^1] gjøres følgende endringer i [lov 22. mai 1981 nr. 25](lov/1981-05-22-25) om rettergangsmåten i straffesaker: – – –
 
 1 Fra 1 okt 2015, se [straffeloven § 411](lov/2005-05-20-28/§411).
 
 ## § 6. Endringer i andre lover
 
-Med virkning fra den tid straffeloven 2005 trer i kraft1 gjøres følgende endringer i annen lovgivning: – – –
+Med virkning fra den tid straffeloven 2005 trer i kraft[^1] gjøres følgende endringer i annen lovgivning: – – –
 
 1 Fra 1 okt 2015, se [straffeloven § 411](lov/2005-05-20-28/§411).
 

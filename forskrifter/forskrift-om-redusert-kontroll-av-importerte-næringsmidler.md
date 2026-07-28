@@ -15,7 +15,7 @@ xml_hash: "b3951fceea907309772c6b5c1aab82272fac6e14dac3744f6a621d1500864671"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,18 +70,18 @@ THE EUROPEAN COMMISSION,
 
 Having regard to the Treaty on the Functioning of the European Union,
 
-Having regard to Regulation [(EC) No 882/2004](eu/32004r0882*) of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules,1 and in particular Article 23 thereof,
+Having regard to Regulation [(EC) No 882/2004](eu/32004r0882*) of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules,[^1] and in particular Article 23 thereof,
 
 Whereas:
 
-1. Commission Regulation [(EC) No 1881/2006](eu/32006r1881)2 lays down permitted maximum levels of ochratoxin A and aflatoxins in food. Only foods complying with the maximum level may be placed on the Union market.
+1. Commission Regulation [(EC) No 1881/2006](eu/32006r1881)[^2] lays down permitted maximum levels of ochratoxin A and aflatoxins in food. Only foods complying with the maximum level may be placed on the Union market.
 2. Regulation [(EC) No 882/2004](eu/32004r0882*) provides an obligation for the Member States to ensure that official controls are carried out regularly, on a risk basis and with appropriate frequency in order to achieve the objectives of the Regulation, which are, inter alia, preventing, eliminating or reducing to acceptable levels risks to humans and animals.
 3. Article 23 of Regulation [(EC) No 882/2004](eu/32004r0882*) provides that specific pre-export checks that a third country carries out on feed and food immediately prior to export to the European Union with a view to verifying that the exported products satisfy Union requirements may be approved.
 4. Such an approval may only be granted to a third country if an European Union audit has shown that feed or food exported to the European Union meets Union requirements or equivalent requirements and that the controls carried out in the third country prior to dispatch are considered sufficiently effective and efficient as to replace or reduce the documentary, identity and physical checks laid down in EU law.
 5. In April 2005, the United States of America (hereinafter referred to as the 'United States') have submitted to the Commission an application for obtaining an approval of the pre-export checks performed by the competent authorities of the United States on the aflatoxin contamination in peanuts intended for export to the Union.
-6. After an audit performed by the Commission's Food and Veterinary Office (FVO), the approval of those pre-export checks aiming at ensuring compliance with the maximum levels of aflatoxins laid down in Union law was granted by Commission Decision [2008/47/EC](eu/32008*0047).3
+6. After an audit performed by the Commission's Food and Veterinary Office (FVO), the approval of those pre-export checks aiming at ensuring compliance with the maximum levels of aflatoxins laid down in Union law was granted by Commission Decision [2008/47/EC](eu/32008*0047).[^3]
 7. On 8 October 2007, Canada submitted to the Commission an application for obtaining an approval of the pre- export checks performed by the competent authorities of Canada on the ochratoxin A contamination in wheat (common and durum) and wheat flour intended for export to the European Union.
-8. The Commission assessed in detail the information provided by the Canadian Grain Commission, the competent authority of Canada under the responsibility of which the pre-export checks are performed, and considered that the guarantees provided are satisfactory in order to accept the application for approval of the pre-export checks on wheat and certain derived products thereof as regards the presence of ochratoxin A. Therefore the approval of those pre-export checks aiming at ensuring compliance with the maximum levels of ochratoxin A laid down in Union law was granted by Commission Implementing Regulation [(EU) No 844/2011](eu/32011r0844).4
+8. The Commission assessed in detail the information provided by the Canadian Grain Commission, the competent authority of Canada under the responsibility of which the pre-export checks are performed, and considered that the guarantees provided are satisfactory in order to accept the application for approval of the pre-export checks on wheat and certain derived products thereof as regards the presence of ochratoxin A. Therefore the approval of those pre-export checks aiming at ensuring compliance with the maximum levels of ochratoxin A laid down in Union law was granted by Commission Implementing Regulation [(EU) No 844/2011](eu/32011r0844).[^4]
 9. On 21 November 2012, the United States have submitted to the Commission an application for obtaining an approval of the pre-export checks performed by the competent authorities of the United States of America on the aflatoxin contamination in almonds intended for export to the Union.
 10. After an audit performed by the Commission's FVO and having assessed in detail the additional information provided by the United States, the Commission considers that the guarantees provided are satisfactory and justify the approval of the pre-export checks. It is therefore appropriate to grant approval of those pre-export checks aiming at ensuring compliance with the maximum levels of aflatoxins laid down in Union law.
 11. It is appropriate to have all approvals of pre-export checks carried out by certain third countries as regards the presence of mycotoxins in food into one Regulation in order to simplify legislation and ensure an uniform approach. Therefore, Decision [2008/47/EC](eu/32008*0047) and Implementing Regulation [(EU) No 844/2011](eu/32011r0844) should be replaced and the rules contained in those acts be merged with this Implementing Regulation. Nevertheless some small changes have been introduced to align the provisions as regards frequency of controls and to update the provisions to reflect changes in CN codes.
@@ -112,7 +112,7 @@ HAS ADOPTED THIS REGULATION:
 
 1\. Each consignment of products referred to in Article 1 shall be accompanied by:
 
-1. a report containing the results of sampling and analysis performed in accordance with the provisions of Commission Regulation [(EC) No 401/2006](eu/32006r0401),1 or with equivalent requirements, by a laboratory approved for that purpose by the competent authority;
+1. a report containing the results of sampling and analysis performed in accordance with the provisions of Commission Regulation [(EC) No 401/2006](eu/32006r0401),[^1] or with equivalent requirements, by a laboratory approved for that purpose by the competent authority;
 2. a certificate in accordance with the model set out in Annex II, completed, verified and signed by a representative of the competent authority; the certificate shall be valid for four months from the date of issuance.
 
 2\. Each consignment of products referred to in Article 1 shall bear an identification code which shall be reproduced on the report and on the certificate referred to in paragraph 1. Each individual bag, or other packaging form, or packaging combining several individual entities into one package, of the consignment shall be identified with the same code.

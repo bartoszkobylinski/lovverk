@@ -15,7 +15,7 @@ xml_hash: "3d94d7d4981a8592ea024c89ffeea4a0d40949ed200e23c36e52a55a1578dc9a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -178,7 +178,7 @@ Kostnaden ved avgjerd i jordskifteretten etter denne lova skal leggjast på den 
 
 ### § 20
 
-Denne lova gjeld frå den tid Kongen fastset.1
+Denne lova gjeld frå den tid Kongen fastset.[^1]
 
 Frå same tid vert etternemnde lover og lovføresegner sette ut or kraft eller brigda såleis: – – –.
 

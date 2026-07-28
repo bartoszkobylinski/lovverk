@@ -15,7 +15,7 @@ xml_hash: "e476c81b0bbabbc3f7e6896d63f1b60a2a2c46829a75a3ef6a7bed4d1da17542"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ På samme måte straffes den som forsettlig eller uaktsomt gir uriktige eller uf
 
 ## § 8. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.
+Loven trer i kraft fra det tidspunkt[^1] Kongen bestemmer.
 
 Fra samme tid oppheves [lov 22. juni 1928 nr. 27](lov/1928-06-22-27) om landets kornforsyning.
 

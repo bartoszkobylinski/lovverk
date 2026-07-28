@@ -15,7 +15,7 @@ xml_hash: "48d4637c1ec4e3248d266f75eac9ae936a47f8bfe403d771dccff7bf3fc373f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,7 +53,7 @@ Markedsverdien av midlene ved utløpet av oppsigelsesfristen skal legges til gru
 
 ## III
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.2
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.[^2]
 2. Departementet kan gi nærmere overgangsregler.
 
 1 Fra 1. juli 2026, med unntak av loven [del II](lov/2026-05-07-16/kapII) [§ 3-19 fjerde ledd](lov/2005-06-10-44/§3-19/ledd/4) og [§ 6-7 fjerde ledd første punktum](lov/2005-06-10-44/§6-7/ledd/4/setning/1), som trer i kraft 1. januar 2027 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341). Se denne for overgangsregler.

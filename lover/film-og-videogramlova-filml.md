@@ -15,7 +15,7 @@ xml_hash: "680d4948380f8607cdb8414568eaa9b700096bb2159e7116f29ac8fbba81b088"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -134,6 +134,6 @@ Den som ved vilje eller aktlaust bryt denne lova eller forskrifter givne med hei
 
 ### § 17. Ikraftsetjing
 
-Lova tek til å gjelda frå den tid Kongen fastset1.
+Lova tek til å gjelda frå den tid Kongen fastset[^1].
 
 1 Frå 1 jan 1988 iflg. [res. 18 des 1987 nr. 965](forskrift/1987-12-18-965).

@@ -15,7 +15,7 @@ xml_hash: "874a120a0464b161a160a4ca7100273409e1bbe0c08b2652a3b853daa91b1dbf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017L1132"
@@ -1596,22 +1596,22 @@ Merknad fra redaksjonen i Norges Lover: Det følger av EØS-avtalen protokoll 1 
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95 nr. 1,
 
-under henvisning til forslag fra Kommisjonen,1
+under henvisning til forslag fra Kommisjonen,[^1]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^2]
 
-etter framgangsmåten fastsatt i traktatens artikkel 2513 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^3] og
 
 ut fra følgende betraktninger:
 
 1. Under sitt møte i Lisboa 23. og 24. mars 2000 understreket Det europeiske råd behovet for å påskynde gjennomføringen av det indre marked for finansielle tjenester, fastsatte 2005 som frist for gjennomføringen av Kommisjonens handlingsplan for finansielle tjenester og framholdt at det bør iverksettes tiltak for å gjøre det lettere å sammenligne finansregnskap som utarbeides av selskaper med offentlig omsatte verdipapirer.
 2. Med henblikk på å bedre det indre markeds virkemåte bør selskaper med offentlig omsatte verdipapirer være forpliktet til å anvende felles internasjonale regnskapsstandarder av høy kvalitet når de utarbeider sitt konsernregnskap. Det er dessuten viktig at de standarder for finansiell rapportering som anvendes av selskaper i Fellesskapet som deltar i finansmarkeder, er internasjonalt aksepterte og virkelig er felles for hele verden. Dette forutsetter en stadig større samordning av de regnskapsstandarder som for tiden brukes internasjonalt, der det endelige målet er ett enkelt sett med regnskapsstandarder for hele verden.
-3. Rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 om årsregnskapene for visse selskapsformer,4 rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 om konsoliderte regnskaper,5 rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper6 og rådsdirektiv [91/674/EØF](eu/31991l0674) av 19. desember 1991 om forsikringsforetaks årsregnskaper og konsoliderte regnskaper7 er også rettet mot selskaper i Fellesskapet med offentlig omsatte verdipapirer. Rapporteringskravene i disse direktivene kan ikke sikre den høye graden av innsyn og sammenlignbarhet med hensyn til finansiell rapportering for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer som er et nødvendig vilkår for å kunne bygge et integrert kapitalmarked som fungerer effektivt, smidig og rasjonelt. Det er derfor nødvendig å utfylle den rettslige rammen som gjelder for selskaper med offentlig omsatte verdipapirer.
+3. Rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 om årsregnskapene for visse selskapsformer,[^4] rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 om konsoliderte regnskaper,[^5] rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper[^6] og rådsdirektiv [91/674/EØF](eu/31991l0674) av 19. desember 1991 om forsikringsforetaks årsregnskaper og konsoliderte regnskaper[^7] er også rettet mot selskaper i Fellesskapet med offentlig omsatte verdipapirer. Rapporteringskravene i disse direktivene kan ikke sikre den høye graden av innsyn og sammenlignbarhet med hensyn til finansiell rapportering for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer som er et nødvendig vilkår for å kunne bygge et integrert kapitalmarked som fungerer effektivt, smidig og rasjonelt. Det er derfor nødvendig å utfylle den rettslige rammen som gjelder for selskaper med offentlig omsatte verdipapirer.
 4. Denne forordning har som mål å bidra til en rasjonell og kostnadseffektiv virkemåte for kapitalmarkedet. Vern av investorer og opprettholdelse av tillit til finansmarkedene er også et viktig aspekt ved fullføringen av det indre marked på dette område. Forordningen styrker den frie bevegelighet for kapital i det indre marked og bidrar til at selskaper i Fellesskapet kan konkurrere på like vilkår om tilgjengelige finansielle midler i Fellesskapets kapitalmarkeder samt i verdenskapitalmarkedene.
 5. Det er viktig for konkurranseevnen til Fellesskapets kapitalmarkeder å oppnå tilnærming av standardene som brukes i Europa ved utarbeidingen av finansregnskap, til internasjonale regnskapsstandarder som kan brukes over hele verden, for transaksjoner over landegrenser eller for børsnotering hvor som helst i verden.
 6. 13\. juni 2000 offentliggjorde Kommisjonen meldingen «Den europeiske unions strategi for finansiell rapportering: veien framover» der den foreslo at alle selskaper i Fellesskapet med offentlig omsatte verdipapirer innen 2005 skal utarbeide sitt konsernregnskap i henhold til ett enkelt sett med regnskapsstandarder, nemlig de internasjonale regnskapsstandardene IAS («International Accounting Standards»).
 7. De internasjonale regnskapsstandardene «International Accounting Standards» (IAS) utarbeides av International Accounting Standards Committee (IASC), hvis mål er å utarbeide ett enkelt sett med regnskapsstandarder for hele verden. I forbindelse med omorganiseringen av IASC vedtok det nye styret 1. april 2001, som en av sine første beslutninger, å endre navnet på IASC til International Accounting Standards Board (IASB), og når det gjelder framtidige internasjonale regnskapsstandarder, å endre navnet på IAS til «International Financial Reporting Standards» (IFRS). Dersom det er mulig, og under forutsetning av at det sikrer en høy grad av innsyn og sammenlignbarhet med hensyn til finansiell rapportering i Fellesskapet, bør disse standardene gjøres obligatoriske for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer.
-8. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen8 og med behørig hensyn til Kommisjonens erklæring i Europaparlamentet 5. februar 2002 om gjennomføring av regelverket om finansielle tjenester.
+8. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen[^8] og med behørig hensyn til Kommisjonens erklæring i Europaparlamentet 5. februar 2002 om gjennomføring av regelverket om finansielle tjenester.
 9. For å kunne vedta at en internasjonal regnskapsstandard skal anvendes i Fellesskapet, er det for det første nødvendig at den oppfyller det grunnleggende krav i ovennevnte rådsdirektiver, det vil si at dens anvendelse resulterer i et rettvisende bilde av et foretaks økonomiske stilling og resultat, idet dette prinsippet ses i lys av ovennevnte rådsdirektiver uten at det krever nøyaktig samsvar med alle bestemmelsene i direktivene. For det andre er det nødvendig at den, i samsvar med Rådets konklusjoner av 17. juli 2000, fremmer den europeiske offentlighetens interesse, og endelig at den oppfyller grunnleggende kriterier når det gjelder kvaliteten på informasjonen som kreves for at finansregnskaper skal være til nytte for brukerne.
 10. En regnskapsfaglig komité vil bistå Kommisjonen med støtte og sakkunnskap ved vurderingen av internasjonale regnskapsstandarder.
 11. Godkjenningsordningen for internasjonale regnskapsstandarder bør sikre rask behandling av forslag til internasjonale standarder, og bør også være et hjelpemiddel for de viktigste berørte parter til å drøfte, overveie og utveksle opplysninger om internasjonale regnskapsstandarder, særlig for nasjonale organer som fastsetter regnskapsstandarder, tilsynsmyndigheter innenfor områdene verdipapirer, bankvirksomhet og forsikring, sentralbanker, herunder Den europeiske sentralbank, regnskapsbransjen samt de som bruker og utarbeider regnskap. Ordningen bør være et hjelpemiddel til å frambringe en felles forståelse av vedtatte internasjonale regnskapsstandarder i Fellesskapet.
@@ -1643,7 +1643,7 @@ Vedtatt denne forordning:]
 
 ### Art 1. Mål
 
-Målet med denne forordning er å vedta og anvende internasjonale regnskapsstandarder i Fellesskapet [EØS] med sikte på å harmonisere den finansielle informasjon som framlegges av selskapene omhandlet i artikkel 4 for å sikre en høy grad av innsyn i og sammenlignbarhet mellom finansregnskaper og dermed en rasjonell virkemåte for kapitalmarkedet i Fellesskapet [EØS] og det indre marked.\*
+Målet med denne forordning er å vedta og anvende internasjonale regnskapsstandarder i Fellesskapet [EØS] med sikte på å harmonisere den finansielle informasjon som framlegges av selskapene omhandlet i artikkel 4 for å sikre en høy grad av innsyn i og sammenlignbarhet mellom finansregnskaper og dermed en rasjonell virkemåte for kapitalmarkedet i Fellesskapet [EØS] og det indre marked.[^\*]
 
 \* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 8 at henvisninger til «Fellesskapet» som territorium må leses som henvisning til territoriet til avtalepartene i EØS. Dette er her markert ved å sette inn [EØS] i teksten.
 
@@ -1668,7 +1668,7 @@ I denne forordning menes med «internasjonale regnskapsstandarder» Internationa
 
 ### Art 4. Konsernregnskap for selskaper med offentlig omsatte verdipapirer
 
-For hvert regnskapsår som starter 1. januar 2005 eller senere skal selskaper som er underlagt en medlemsstats [EØS-stat] lovgivning, utarbeide sitt konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2, dersom deres verdipapirer på balansedagen er notert i et regulert marked i en medlemsstat [EØS-stat] i henhold til artikkel 1 nr. 13 i rådsdirektiv [93/22/EØF](eu/31993l0022*) av 10. mai 1993 om investeringstjenester i forbindelse med verdipapirer.1 \*
+For hvert regnskapsår som starter 1. januar 2005 eller senere skal selskaper som er underlagt en medlemsstats [EØS-stat] lovgivning, utarbeide sitt konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2, dersom deres verdipapirer på balansedagen er notert i et regulert marked i en medlemsstat [EØS-stat] i henhold til artikkel 1 nr. 13 i rådsdirektiv [93/22/EØF](eu/31993l0022*) av 10. mai 1993 om investeringstjenester i forbindelse med verdipapirer.[^1] [^\*]
 
 1 EFT L 141 av 11.6.1993, s. 27. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2000/64/EF](eu/32000l0064) (EFT L 290 av 17.11.2000, s. 27).
 
@@ -1713,7 +1713,7 @@ Dersom medlemsstater vedtar tiltak i henhold til artikkel 5, skal de umiddelbart
 
 Som unntak fra artikkel 4 kan medlemsstatene [EØS-statene] fastsette at kravene i artikkel 4 får anvendelse bare for regnskapsår som starter i januar 2007 eller senere for de selskaper
 
-1. hvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),\* eller
+1. hvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),[^\*] eller
 2. hvis verdipapirer er tatt opp til notering for offentlig handel i en tredjestat og som for det formål har anvendt internasjonalt aksepterte standarder fra og med et regnskapsår som startet før denne forordning ble kunngjort i *De Europeiske Fellesskaps Tidende*.
 
 \* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Dir [93/22](eu/31993l0022*) er nå erstattet av dir [2004/39](eu/32004l0039*), jf. EØS-avtalen vedlegg IX nr. 31ba.

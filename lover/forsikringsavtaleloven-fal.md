@@ -15,7 +15,7 @@ xml_hash: "3bfbc41bea28503803e50bdd09fdecd918ed47b646d4a0104c701121208d6c72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1052,7 +1052,7 @@ Forsikringsforetakets plikter etter lovens fjerde del gjelder så langt de passe
 
 ### § 10-5. (forskrifter)
 
-Når det er nødvendig som følge av avtale med fremmed stat,1 kan Kongen gi supplerende bestemmelser til [del B](lov/1989-06-16-69/delb).
+Når det er nødvendig som følge av avtale med fremmed stat,[^1] kan Kongen gi supplerende bestemmelser til [del B](lov/1989-06-16-69/delb).
 
 > Tilføyd ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113), endret ved lover [24 juni 1994 nr. 40](lov/1994-06-24-40), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), tidligere § 10-4.
 
@@ -1883,7 +1883,7 @@ Ved forsettlig eller uaktsom overtredelse av reglene om informasjonsplikt overfo
 
 ### § 24-1. (ikrafttredelse)
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte deler av loven skal tre i kraft til ulik tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte deler av loven skal tre i kraft til ulik tid.
 
 Fra lovens ikrafttredelse oppheves [forsikringsavtaleloven av 6 juni 1930 nr. 20](lov/1930-06-06-20).
 

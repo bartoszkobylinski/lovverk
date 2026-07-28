@@ -15,14 +15,14 @@ xml_hash: "b71ff114a755eb1fe0758cb538dcc2c4a87d8bb636b21887187bd2741d5c09b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Fastsettelse av Sivilt beredskapssystem (SBS) og delegering av fullmakter
 
-1. Sivilt beredskapssystem (SBS 2025) fastsettes i samsvar med vedlegg til resolusjonen.1
+1. Sivilt beredskapssystem (SBS 2025) fastsettes i samsvar med vedlegg til resolusjonen.[^1]
 2. Departementene og Statsministerens kontor delegeres myndighet til å foreta nødvendige endringer og oppdateringer i beredskapstiltakene i Sivilt beredskapssystem innenfor sine ansvarsområder, med mindre endringene er vesentlige.
 3. Justis- og beredskapsdepartementet delegeres myndighet til å videreutvikle, oppdatere og gjøre endringer i Sivilt beredskapssystem, med mindre endringene er vesentlige.
 4. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]

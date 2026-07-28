@@ -16,7 +16,7 @@ xml_hash: "9b24e137a1718cbf8fbf040b51de4899b74a222c86b8249930d6ae5f15971b21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -434,31 +434,31 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Afrikansk hestepest**\* (AHP) | African horse sickness (AHS) | AHS-virus (Orbivirus, *Rheoviridae*) | A (*Equidae*) |
-| **Afrikansk svinepest**\* (ASP) | African swine fever (ASF) | ASF-virus (ASF-virus, *Asfariviridae*) | A (*Suidae*) |
-| **Aviær influensa**\* (AI) | Avian influenza (AI) | AI-virus (Infuensavirus A, *Orthomyxoviridae*)<br>Gjelder høypatogen (HP) AI hos alle fugler og Lavpatogen (LP) AI subtype H5 eller H7 hos tamme fugler | HPAI = A (*Aves*) |
-| **Blåtunge**\* | Bluetongue | Bluetongue-virus<br>(Orbivirus, *Rheoviridae*) Serotype 1-24 | C (*Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae*) |
-| **Brucellose**\* | Brucellosis | *Brucella* spp. | B/D/E (se forordning [(EU) 2018/1882](eu/32018r1882)) |
+| **Afrikansk hestepest**[^\*] (AHP) | African horse sickness (AHS) | AHS-virus (Orbivirus, *Rheoviridae*) | A (*Equidae*) |
+| **Afrikansk svinepest**[^\*] (ASP) | African swine fever (ASF) | ASF-virus (ASF-virus, *Asfariviridae*) | A (*Suidae*) |
+| **Aviær influensa**[^\*] (AI) | Avian influenza (AI) | AI-virus (Infuensavirus A, *Orthomyxoviridae*)<br>Gjelder høypatogen (HP) AI hos alle fugler og Lavpatogen (LP) AI subtype H5 eller H7 hos tamme fugler | HPAI = A (*Aves*) |
+| **Blåtunge**[^\*] | Bluetongue | Bluetongue-virus<br>(Orbivirus, *Rheoviridae*) Serotype 1-24 | C (*Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae*) |
+| **Brucellose**[^\*] | Brucellosis | *Brucella* spp. | B/D/E (se forordning [(EU) 2018/1882](eu/32018r1882)) |
 | **Ebola- og Marburgvirus** | Ebola hemorrhagic fever and Marburg hemorrhagic fever | Ebolavirus (Ebolavirus, *Filoviridae*), Marburg virus<br>(Marburgvirus, *Filoviridae*) | D (*Apes*) |
-| **Epizootisk hemoragisk sykdom**\* hos hjortedyr | Epizootic haemorrahgic disease of deer (EHD) | EHD-virus (Orbivirus, *Rheoviridae*) | D (*Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae*) |
-| **Klassisk svinepest**\* (KSP) | Classical swine fever (CSF) | KSP-virus (Pestivirus, *Flaviviridae*) | A (*Suidae, Tayassuidae*) |
-| **Kvegpest**\*\* | Rinderpest | Rinderpestvirus<br>(Morbillivirus, *Paramyxoviridae*) | A (*Artiodactyla*) |
-| **Lumpy skin disease**\* | Lumpy skin disease (LSD) | LSD-virus<br>(Capropoxvirus, *Poxviridae*) | A (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
-| **Miltbrann**\* | Anthrax | *Bacillus anthracis* | D (*Perissodactyla, Artiodactyla, Proboscidea*) |
-| **Munn- og klovsyke**\* (MKS) | Foot and mouth disease (FMD) | FMD-virus<br>(Aphtovirus, *Picornaviridae*) | A (*Artiodactyla, Proboscidea*) |
-| **Newcastlesyke**\* | Newcastle disease (ND) | ND-virus (Aviært paramyxovirus 1/ Aviært orthoavulavirus 1, *Paramyxoviridae*) | A (*Aves*) |
-| **Ondartet beskjelersyke**\* | Dourine | *Trypanosoma equiperdum* | D (*Equidae*) |
-| **Ondartet lungesyke hos geit**\* | Contagious caprine pleuropneumonia (CCPP) | *Mycoplasma capricolum* subsp. *capripneumoniae* | A (*Ovis* ssp., *Capra* ssp., *Gazella* ssp.) |
-| **Ondartet lungesyke hos storfe**\* | Contagious bovine pleuropneumonia (CBPP) | *Mycoplasma mycoides* subsp*. mycoide*s SC | A (*Bison* ssp., *Bos* ssp., *Bubalus* ssp., *Syncerus cafer*) |
+| **Epizootisk hemoragisk sykdom**[^\*] hos hjortedyr | Epizootic haemorrahgic disease of deer (EHD) | EHD-virus (Orbivirus, *Rheoviridae*) | D (*Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae*) |
+| **Klassisk svinepest**[^\*] (KSP) | Classical swine fever (CSF) | KSP-virus (Pestivirus, *Flaviviridae*) | A (*Suidae, Tayassuidae*) |
+| **Kvegpest**[^\*\*] | Rinderpest | Rinderpestvirus<br>(Morbillivirus, *Paramyxoviridae*) | A (*Artiodactyla*) |
+| **Lumpy skin disease**[^\*] | Lumpy skin disease (LSD) | LSD-virus<br>(Capropoxvirus, *Poxviridae*) | A (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
+| **Miltbrann**[^\*] | Anthrax | *Bacillus anthracis* | D (*Perissodactyla, Artiodactyla, Proboscidea*) |
+| **Munn- og klovsyke**[^\*] (MKS) | Foot and mouth disease (FMD) | FMD-virus<br>(Aphtovirus, *Picornaviridae*) | A (*Artiodactyla, Proboscidea*) |
+| **Newcastlesyke**[^\*] | Newcastle disease (ND) | ND-virus (Aviært paramyxovirus 1/ Aviært orthoavulavirus 1, *Paramyxoviridae*) | A (*Aves*) |
+| **Ondartet beskjelersyke**[^\*] | Dourine | *Trypanosoma equiperdum* | D (*Equidae*) |
+| **Ondartet lungesyke hos geit**[^\*] | Contagious caprine pleuropneumonia (CCPP) | *Mycoplasma capricolum* subsp. *capripneumoniae* | A (*Ovis* ssp., *Capra* ssp., *Gazella* ssp.) |
+| **Ondartet lungesyke hos storfe**[^\*] | Contagious bovine pleuropneumonia (CBPP) | *Mycoplasma mycoides* subsp*. mycoide*s SC | A (*Bison* ssp., *Bos* ssp., *Bubalus* ssp., *Syncerus cafer*) |
 | **Ondartet smittsom griselammelse** | Teschen disease | Porcine teshovirus serotype 1 (PTV-1) (Teschovirus, *Picornaviridae*) | Ikke-listeført i EU |
-| **Pseudorabies**\* | Aujeszky's disease | AD-virus (Suis herpesvirus 1, *Alphaherpes-virinae, Herpesviridae*) | C (*Suidae*) |
-| **Rabies**\* | Rabies | Rabiesvirus<br>(Lyssavirus, *Rhabdoviridae*) | B (*Carnivora, Bovidae, Suidae, Equidae, Cervidae, Camelidae*) E (*Chiroptera*) |
-| **Rift Valley Fever**\* | Rift Valley Fever (RVF) | RVF-virus<br>(Phlebovirus, *Bunyaviridiae*) | A (*Perissodactyla, Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Hippopotamidae, Moschidae, Proboscidea*) |
-| **Saue- og geitekopper**\* | Sheep and goat pox | Saue- og geitekoppevirus (Capripoxvirus, *Poxviridae*) | A (*Ovis* ssp., *Capra* ssp.) |
-| **Smittsom gastroenteritt**\* | Transmissible gastroenteritis of swine (TGE) | TGE-virus (Alphacorona-virus, *Coronaviridae*) | Ikke-listeført i EU |
+| **Pseudorabies**[^\*] | Aujeszky's disease | AD-virus (Suis herpesvirus 1, *Alphaherpes-virinae, Herpesviridae*) | C (*Suidae*) |
+| **Rabies**[^\*] | Rabies | Rabiesvirus<br>(Lyssavirus, *Rhabdoviridae*) | B (*Carnivora, Bovidae, Suidae, Equidae, Cervidae, Camelidae*) E (*Chiroptera*) |
+| **Rift Valley Fever**[^\*] | Rift Valley Fever (RVF) | RVF-virus<br>(Phlebovirus, *Bunyaviridiae*) | A (*Perissodactyla, Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Hippopotamidae, Moschidae, Proboscidea*) |
+| **Saue- og geitekopper**[^\*] | Sheep and goat pox | Saue- og geitekoppevirus (Capripoxvirus, *Poxviridae*) | A (*Ovis* ssp., *Capra* ssp.) |
+| **Smittsom gastroenteritt**[^\*] | Transmissible gastroenteritis of swine (TGE) | TGE-virus (Alphacorona-virus, *Coronaviridae*) | Ikke-listeført i EU |
 | **Smittsomt blæreutslett gris** | Swine vesicular disease (SVD) | SVD-virus<br>(Enterovirus, *Picornaviridae*) | Ikke-listeført i EU |
-| **Småfepest**\* | Peste des petits ruminants (PPR) | PPR-virus<br>(Morbillivirus, *Paramyxoviridae*) | A (*Ovis* ssp., *Capra* ssp., *Camelidae, Cervidae*) |
-| **Snive**\* | Glanders | *Burkholderia mallei* | A (*Equidae, Capra* ssp., *Camelidae*) |
+| **Småfepest**[^\*] | Peste des petits ruminants (PPR) | PPR-virus<br>(Morbillivirus, *Paramyxoviridae*) | A (*Ovis* ssp., *Capra* ssp., *Camelidae, Cervidae*) |
+| **Snive**[^\*] | Glanders | *Burkholderia mallei* | A (*Equidae, Capra* ssp., *Camelidae*) |
 | **Vesikulær stomatitt** (VS) | Vesicular stomatitis (VS) | VS-virus<br>(Vesikulovirus, *Rhabdoviridae*) | Ikke-listeført i EU |
 
 \* Meldepliktig WOAH.
@@ -471,18 +471,18 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Aviær klamydiose**\* | Avian chlamydiosis | *Chlamydophila* ssp., *C. psittaci*, *C. avium* og *C. gallinacea* | D (*Psittaciformes*) |
-| **Ekinokokkose**\* | Echinococcosis/hydatidosis | *Echinococcus multilocularis* og *Echinococcus granulosus* | C (*Canidae*) |
-| **Infeksiøs bovin rhinotrakeitt, Infeksiøs pustuløs vulvovagenitt**\* | Infectious bovine rhinotracheitis Infectious pustular vulvovaginitis (IBR/IPV) | IBR/IPV-virus (Bovine herpesvirus 1 (BoHV-1), *Herpesviridae*) | C (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) + D (*Camelidae*, *Cervidae*) |
+| **Aviær klamydiose**[^\*] | Avian chlamydiosis | *Chlamydophila* ssp., *C. psittaci*, *C. avium* og *C. gallinacea* | D (*Psittaciformes*) |
+| **Ekinokokkose**[^\*] | Echinococcosis/hydatidosis | *Echinococcus multilocularis* og *Echinococcus granulosus* | C (*Canidae*) |
+| **Infeksiøs bovin rhinotrakeitt, Infeksiøs pustuløs vulvovagenitt**[^\*] | Infectious bovine rhinotracheitis Infectious pustular vulvovaginitis (IBR/IPV) | IBR/IPV-virus (Bovine herpesvirus 1 (BoHV-1), *Herpesviridae*) | C (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) + D (*Camelidae*, *Cervidae*) |
 | **Overførbare spongiforme encefalopatier**, unntatt skrapesjuke hos småfe og BSE hos storfe | Transmissible spongiform encephalopathy (TSE), inkludert Chronic wasting disease | Prion (PrPSc) | Ikke-listeført i EU – reguleres i stedet av TSE-regelverket |
-| **Paratuberkulose**\* | Paratuberculosis Johne's disease | *Mycobacterium avium* subsp. *paratuberculosis* | E (*Bison* ssp., *Bos* ssp., *Bubalus* ssp., *Ovis* ssp., *Capra* ssp., *Camelidae*, *Cervidae*) |
+| **Paratuberkulose**[^\*] | Paratuberculosis Johne's disease | *Mycobacterium avium* subsp. *paratuberculosis* | E (*Bison* ssp., *Bos* ssp., *Bubalus* ssp., *Ovis* ssp., *Capra* ssp., *Camelidae*, *Cervidae*) |
 | **Q-feber** | Q-fever | *Coxiella burnetii* | E (*Bison* ssp., *Bos* ssp., *Bubalus* ssp., *Ovis* ssp., *Capra* ssp.) |
-| **Salmonellainfeksjoner** | Salmonellosis (inkludert Fowl typhoid\*) | *Salmonella* spp. (inkludert *S. abortusovis*\* og *S. gallinarium*\*) | D (*Gallus gallus*, *Meleagris gallopavo*, *Numida meleagris*, *Coturnix coturnix*, *Phasianus colchicus*, *Perdix perdix*, *Anas* spp.) |
+| **Salmonellainfeksjoner** | Salmonellosis (inkludert Fowl typhoid[^\*]) | *Salmonella* spp. (inkludert *S. abortusovis*[^\*] og *S. gallinarium*[^\*]) | D (*Gallus gallus*, *Meleagris gallopavo*, *Numida meleagris*, *Coturnix coturnix*, *Phasianus colchicus*, *Perdix perdix*, *Anas* spp.) |
 | **Saueskabb** hos småfe og kameldyr | Scabies psoroptica | *Psoroptes ovis* | Ikke-listeført i EU |
-| **Surra**\* | Surra | *Trypanosoma evansis* | D (*Equidae*, Artiodactyla) |
-| **Trikinoser**\* | Trichinellosis | *Trichinella* spp. | Ikke-listeført i EU |
-| **Tuberkulose**\* | Tuberculosis | *M. bovis*, *M. tuberculosis* og *M. caprae* | B/D/E (se forordning [(EU) 2018/1882](eu/32018r1882)) |
-| **Vestnilfeber**\* | West Nile fever (WNF) | WNF-virus<br>(Alphavirus, *Togaviridae*) | E (*Equidae*, *Aves*) |
+| **Surra**[^\*] | Surra | *Trypanosoma evansis* | D (*Equidae*, Artiodactyla) |
+| **Trikinoser**[^\*] | Trichinellosis | *Trichinella* spp. | Ikke-listeført i EU |
+| **Tuberkulose**[^\*] | Tuberculosis | *M. bovis*, *M. tuberculosis* og *M. caprae* | B/D/E (se forordning [(EU) 2018/1882](eu/32018r1882)) |
+| **Vestnilfeber**[^\*] | West Nile fever (WNF) | WNF-virus<br>(Alphavirus, *Togaviridae*) | E (*Equidae*, *Aves*) |
 
 \* Meldepliktig WOAH.
 
@@ -490,9 +490,9 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Infeksiøs anemi**\* | Equine infectious anaemia (EIA) | EIA-virus (Lentivirus, *Retroviridae*) | D (*Equidae*) |
+| **Infeksiøs anemi**[^\*] | Equine infectious anaemia (EIA) | EIA-virus (Lentivirus, *Retroviridae*) | D (*Equidae*) |
 | **Kverke** | Strangles | *Streptococcus equi subsp. equi* | Ikke-listeført i EU |
-| **Virusencefalomylitt hos hest**\* i form av Venezuelan equine encefalomyelitis (VEE), Eastern equine encephalomyelitis (EEE), Western equine encephalomyelitis (WEE) og Japanese encephalomyelitis (JE) | Equine encephalomyelitis | VEE-virus<br>(Alphavirus, *Togaviridae*)<br>EEE-virus<br>(Alphavirus, *Togaviridae*)<br>WEE-virus<br>(Alphavirus, *Togaviridae*) og<br>JE-virus<br>(Alphavirus, *Togavirdae*) | D (Venezuelan equine encephalomyelitis – *Equidae*) |
+| **Virusencefalomylitt hos hest**[^\*] i form av Venezuelan equine encefalomyelitis (VEE), Eastern equine encephalomyelitis (EEE), Western equine encephalomyelitis (WEE) og Japanese encephalomyelitis (JE) | Equine encephalomyelitis | VEE-virus<br>(Alphavirus, *Togaviridae*)<br>EEE-virus<br>(Alphavirus, *Togaviridae*)<br>WEE-virus<br>(Alphavirus, *Togaviridae*) og<br>JE-virus<br>(Alphavirus, *Togavirdae*) | D (Venezuelan equine encephalomyelitis – *Equidae*) |
 
 \* Meldepliktig WOAH.
 
@@ -500,12 +500,12 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Bovin genital campylobakteriose**\* | Bovine genital campylobacteriosis | *Campylobacter fetus* subsp. *veneralis* | D (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
-| **Bovin spongiform encefalopati**\* (BSE) | Bovine spongiform encephalopathy | Prion (PrPSc) | Ikke-listeført i EU – reguleres i stedet av TSE-regelverket |
-| **Bovin tritrichomoniasis**\* | Trichomonosis | *Tritrichomonas foetus* | D (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
-| **Bovin virusdiaré**\* | Bovine viral diarrhoea (BVD) | Bovint virusdiaré virus | C (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
+| **Bovin genital campylobakteriose**[^\*] | Bovine genital campylobacteriosis | *Campylobacter fetus* subsp. *veneralis* | D (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
+| **Bovin spongiform encefalopati**[^\*] (BSE) | Bovine spongiform encephalopathy | Prion (PrPSc) | Ikke-listeført i EU – reguleres i stedet av TSE-regelverket |
+| **Bovin tritrichomoniasis**[^\*] | Trichomonosis | *Tritrichomonas foetus* | D (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
+| **Bovin virusdiaré**[^\*] | Bovine viral diarrhoea (BVD) | Bovint virusdiaré virus | C (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
 | **MRSA** som har vist eller viser evne til å etablere seg og spres mellom dyr i husdyrbesetninger (Dyreassosiert MRSA) | Livestock associated Methicillin-resistant *Staphylococcus aureus* (LA-MRSA) | *Staphylococcus aureus* resistente mot cefoxitin (MIC > 4 mg/L, sonediameter < 22 mm), eller ved påvist *mecA*- eller *mecC*-gen | Ikke-listeført i EU |
-| **Enzootisk bovin leukose**\* | Enzootic bovine leukosis (EBL) | BL-virus<br>(Retrovirus, *Retroviridae*) | C (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
+| **Enzootisk bovin leukose**[^\*] | Enzootic bovine leukosis (EBL) | BL-virus<br>(Retrovirus, *Retroviridae*) | C (*Bison* ssp., *Bos* ssp., *Bubalus* ssp.) |
 | **Leptospirose** | Leptospirosis | *Leptospira sejroe* | Ikke-listeført i EU |
 | **Mycoplasma bovis** | Mycoplasma bovis | *Mycoplasma bovis* | Ikke-listeført i EU |
 | **Ringorm** | Ringworm | *Trichophyton verrucosum* | Ikke-listeført i EU |
@@ -518,12 +518,12 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 | --- | --- | --- | --- |
 | **Border disease** | Border disease (BD) | BD-virus (Pestivirus, *Flaviviridae*) | Ikke-listeført i EU |
 | **MRSA** som har vist eller viser evne til å etablere seg og spres mellom dyr i husdyrbesetninger (Dyreassosiert MRSA) | Livestock associated Methicillin-resistant *Staphylococcus aureus* (LA-MRSA) | *Staphylococcus aureus* resistente mot cefoxitin (MIC > 4 mg/L, sonediameter < 22 mm), eller ved påvist *mecA*- eller *mecC*-gen | Ikke-listeført i EU |
-| **Enzootisk abort hos søye**\* | Enzootic abortion of ewes (ovine chlamydiosis) | *Chlamydophila abortus* | Ikke-listeført i EU |
+| **Enzootisk abort hos søye**[^\*] | Enzootic abortion of ewes (ovine chlamydiosis) | *Chlamydophila abortus* | Ikke-listeført i EU |
 | **Ondartet fotråte** | Infectous foot rot | Virulente stammer av *Dichelobacter nodosus* | Ikke-listeført i EU |
-| **Infeksiøs agalakti**\* | Contagious agalactia | *Mycoplasma agalactiae* | Ikke-listeført i EU |
-| **Lentivirus infeksjoner hos småfe\* (Artritt-encefalitt hos sau og geit og mædi)** | Caprine arthritis-encephalitis (CAE) og maedi-visna viral infection | CAE-virus og MV-virus (Lentivirus og Retrovirus*, Retroviridae*) | Ikke-listeført i EU |
+| **Infeksiøs agalakti**[^\*] | Contagious agalactia | *Mycoplasma agalactiae* | Ikke-listeført i EU |
+| **Lentivirus infeksjoner hos småfe[^\*] (Artritt-encefalitt hos sau og geit og mædi)** | Caprine arthritis-encephalitis (CAE) og maedi-visna viral infection | CAE-virus og MV-virus (Lentivirus og Retrovirus*, Retroviridae*) | Ikke-listeført i EU |
 | **Lungeadenomatose** | Ovine pulmonary adenocarsinoma | Jaagsiekte sheep virus (retrovirus, *Retroviridae*) | Ikke-listeført i EU |
-| **Skrapesyke**\* | Scrapie | Prion (PrPSc) | Ikke-listeført i EU – reguleres i stedet av TSE-regelverket |
+| **Skrapesyke**[^\*] | Scrapie | Prion (PrPSc) | Ikke-listeført i EU – reguleres i stedet av TSE-regelverket |
 
 \* Meldepliktig WOAH.
 
@@ -537,7 +537,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 | **Mycoplasma hyopneumoniae** | Porcine enzootic pneumonia | *Mycoplasma hyopneumoniae* | Ikke-listeført i EU |
 | **Nekrotiserende enteritt (tarmbrann)** | Clostridium perfringens type C infection | *Clostridium perfringens* type C | Ikke-listeført i EU |
 | **Porcin epidemisk diaré** | Porcine epidemic diarrhoea (PED) | PED-virus (Alphacorona-virus, *Coronaviridae*) | Ikke-listeført i EU |
-| **Porcint respiratorisk og reproduksjonssyndrom**\* | Porcine reproductive and respiratory syndrome (PRRS) | PRRS-virus<br>(Arterivirus, *Arteriviridae*) | D (*Suidae*) |
+| **Porcint respiratorisk og reproduksjonssyndrom**[^\*] | Porcine reproductive and respiratory syndrome (PRRS) | PRRS-virus<br>(Arterivirus, *Arteriviridae*) | D (*Suidae*) |
 
 \* Meldepliktig WOAH.
 
@@ -545,16 +545,16 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Aviær mycoplasmose**\* | Avian mycoplasmosis | *M. gallisepticum, M. meleagridis* og *M. synoviae* | D (*Gallus gallus, Meleagris gallopavo*) |
-| **Aviær rhinotrakeitt hos kalkun**\* | Turkey rhinotracheitis (TRT) | Aviært metapneumo-virus (Metapneumo-virus, *Paramyxoviridae*) | Ikke-listeført i EU |
+| **Aviær mycoplasmose**[^\*] | Avian mycoplasmosis | *M. gallisepticum, M. meleagridis* og *M. synoviae* | D (*Gallus gallus, Meleagris gallopavo*) |
+| **Aviær rhinotrakeitt hos kalkun**[^\*] | Turkey rhinotracheitis (TRT) | Aviært metapneumo-virus (Metapneumo-virus, *Paramyxoviridae*) | Ikke-listeført i EU |
 | **Egg dropp syndrom** | Egg drop syndrome (EDS-76) | EDS-76-virus<br>(Adenovirus, *Adenoviridae*) | Ikke-listeført i EU |
 | **Hønsekolera** | Fowl cholera | *Pasteurella multocida* subsp. *multocida* | Ikke-listeført i EU |
-| **Infeksiøs bronkitt**\* | Avian infectious bronchitis (IB) | IB-virus<br>(Gammacoronavirus, *Coronaviridae*) | Ikke-listeført i EU |
-| **Infeksiøs laryngotrakeitt**\* | Avian infectious laryngotracheitis (ILT) | ILT-virus (Gallid herpesvirus 1, *Alphaherpes-virinae, Herpesviridae*) | Ikke-listeført i EU |
+| **Infeksiøs bronkitt**[^\*] | Avian infectious bronchitis (IB) | IB-virus<br>(Gammacoronavirus, *Coronaviridae*) | Ikke-listeført i EU |
+| **Infeksiøs laryngotrakeitt**[^\*] | Avian infectious laryngotracheitis (ILT) | ILT-virus (Gallid herpesvirus 1, *Alphaherpes-virinae, Herpesviridae*) | Ikke-listeført i EU |
 | **Paramyxovirus-infeksjon hos tamduer, unntatt Newcastlesyke** | Avian paramyxovirus infection (except Newcastle disease) | Aviært paramyxovirus 1, (Avulavirus*, Paramyxoviridae*) | Ikke-listeført i EU |
 | **Tuberkulose** | Tuberculosis | *M. avium* subsp*. avium* | Ikke-listeført i EU |
 | **Virusenteritt hos and** | Duck virus enteritis (DVE) | Andeenterittvirus (Alphaherpes-virus, *Herpesviridae*) | Ikke-listeført i EU |
-| **Virushepatitt hos and**\* | Duck virus hepatitis (DVH) | DVH I, II, III. DVH I (Avihepatovirus, *Picornaviridae*) DVH II og III (Astrovirus 1og 2, Avastrovirus, *Astroviridae*) | Ikke-listeført i EU |
+| **Virushepatitt hos and**[^\*] | Duck virus hepatitis (DVH) | DVH I, II, III. DVH I (Avihepatovirus, *Picornaviridae*) DVH II og III (Astrovirus 1og 2, Avastrovirus, *Astroviridae*) | Ikke-listeført i EU |
 
 \* Meldepliktig WOAH.
 
@@ -562,11 +562,11 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Liten kubebille**\* | Small Hive Beetle | *Aethina tumida* | D (*Apis, Bombus* ssp.) |
-| **Lukket yngelråte**\* | American foulbrood of honeybees | *Paenibacillus larvae* | D (*Apis*) |
+| **Liten kubebille**[^\*] | Small Hive Beetle | *Aethina tumida* | D (*Apis, Bombus* ssp.) |
+| **Lukket yngelråte**[^\*] | American foulbrood of honeybees | *Paenibacillus larvae* | D (*Apis*) |
 | **Steinyngel** | Stonebrood | *Aspergillus flavus*, *A. fumigatus* og *A. niger* | Ikke-listeført i EU |
-| **Tropilaelaps-midd**\* | Infestation with Tropilaelaps of honeybees | *Tropilaelaps* ssp. | D (*Apis*) |
-| **Åpen yngelråte**\* | European foulbrood | *Melissococcus plutonius* | Ikke-listeført i EU |
+| **Tropilaelaps-midd**[^\*] | Infestation with Tropilaelaps of honeybees | *Tropilaelaps* ssp. | D (*Apis*) |
+| **Åpen yngelråte**[^\*] | European foulbrood | *Melissococcus plutonius* | Ikke-listeført i EU |
 
 \* Meldepliktig WOAH.
 
@@ -576,13 +576,13 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 | --- | --- | --- | --- |
 | **Apekopper** | Monkey Pox | *Poxviridae* | Ikke-listeført i EU |
 | **Europeisk brunharesyndrom (EHBS)** | European brown hare syndrom | Lagovirus (*Calciviridae)* | Ikke-listeført i EU |
-| **Leishmaniose**\* | Leishmaniosis | *Leishmania* spp. | Ikke-listeført i EU |
+| **Leishmaniose**[^\*] | Leishmaniosis | *Leishmania* spp. | Ikke-listeført i EU |
 | **Leptospirose** hos hund | Leptospirosis | *Leptospira canicola* | Ikke-listeført i EU |
-| **Myxomatose**\* | Myxomatosis | Myxomavirus (Leporipoxvirus, *Poxviridae*) | Ikke-listeført i EU |
+| **Myxomatose**[^\*] | Myxomatosis | Myxomavirus (Leporipoxvirus, *Poxviridae*) | Ikke-listeført i EU |
 | **Ringorm** hos pelsdyr (rev og mink) | Ringworm | *Microsporum canis* | Ikke-listeført i EU |
 | **Koronavirus** hos mink | SARS Covid 19 | SARS-CoV-2 | Ikke-listeført i EU |
 | **Sarcoptesskabb** hos rev i fangenskap | Sarcopic mange in foxes | *Sarcoptes scabiei* | Ikke-listeført i EU |
-| **Viral hemoragisk sykdom hos kanin**\* | Rabbit haemorrarhagisc disease (RHD) | RHD-virus<br>(Lagovirus, *Caliciviridae*) | Ikke-listeført i EU |
+| **Viral hemoragisk sykdom hos kanin**[^\*] | Rabbit haemorrarhagisc disease (RHD) | RHD-virus<br>(Lagovirus, *Caliciviridae*) | Ikke-listeført i EU |
 | **Virusenteritt** hos mink | Parvovirus enteritis | Parvovirus (*Parvoviridae*) | Ikke-listeført i EU |
 
 \* Meldepliktig WOAH.
@@ -594,10 +594,10 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
 | **Godartet beskjelersyke** | Equine coital exanthema | Equin herpesvirus 3 (EHV-3) *Herpesviridae* | Ikke-listeført i EU |
-| **Hesteinfluensa**\* | Equine influenza | Influenza virus A H7N7 eller H3N8 (Influenzavirus A, *Orthomyxo-viridae*) | Ikke-listeført i EU |
-| **Rhinopneumonitt\* (virusabort)** | Equine rhinopneumonitis | Equine herpevirus -1 eller -4 (EHV-1, EHV-4) (*Herpesviridae*) | Ikke-listeført i EU |
-| **Smittsom metritt**\* | Contagious equine metritis (CEM) | *Taylorella equigenitalis* | D (*Equidae*) |
-| **Virusarteritt**\* | Equine viral artheritis (EVA) | Equine arteritis virus (*Arteriviridae*) | D (*Equidae*) |
+| **Hesteinfluensa**[^\*] | Equine influenza | Influenza virus A H7N7 eller H3N8 (Influenzavirus A, *Orthomyxo-viridae*) | Ikke-listeført i EU |
+| **Rhinopneumonitt[^\*] (virusabort)** | Equine rhinopneumonitis | Equine herpevirus -1 eller -4 (EHV-1, EHV-4) (*Herpesviridae*) | Ikke-listeført i EU |
+| **Smittsom metritt**[^\*] | Contagious equine metritis (CEM) | *Taylorella equigenitalis* | D (*Equidae*) |
+| **Virusarteritt**[^\*] | Equine viral artheritis (EVA) | Equine arteritis virus (*Arteriviridae*) | D (*Equidae*) |
 
 \* Meldepliktig WOAH.
 
@@ -605,7 +605,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Cysticerkose hos storfe**\* | Bovine cysticercosis | *Taenia saginata* | Ikke-listeført i EU |
+| **Cysticerkose hos storfe**[^\*] | Bovine cysticercosis | *Taenia saginata* | Ikke-listeført i EU |
 | **Infeksjon med Schmallenbergvirus (SBV)** | Schmallenberg | *Bunyaviridae* | Ikke-listeført i EU |
 | **Smittsom diare** (Vinterdysenteri) | Winter dysentery in cattle | Bovine coronavirus (BCV) *(Coronaviridae)* | Ikke-listeført i EU |
 | **Smittsomme luftveisinfeksjoner hos storfe** | Contagious respiratory tract infections in bovine animals | Bovin respiratorisk syncytial virus, (BRSV) og Parainfluensa virus type 3 (PIV-3) | Ikke-listeført i EU |
@@ -623,7 +623,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Cysticerkose hos svin**\* | Porcine cysticercosis | *Taenia solium* | Ikke-listeført i EU |
+| **Cysticerkose hos svin**[^\*] | Porcine cysticercosis | *Taenia solium* | Ikke-listeført i EU |
 | **Infeksjon med porcint respiratorisk coronavirus** | Porcine respiratory coronavirus infection (PRCV) | PRC-virus (Alphacorona-virus, *Coronaviridae*) | Ikke-listeført i EU |
 | **Influensa** | Swine influenza | Influensavirus: *H1N1pdm09* | Ikke-listeført i EU |
 
@@ -633,7 +633,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Infeksiøs bursitt (Gumboro)**\* | Infectious bursal disease (IBD) Gumboro disease | IBD-virus<br>(Avibirnavirus, *Birnaviridae*) | Ikke-listeført i EU |
+| **Infeksiøs bursitt (Gumboro)**[^\*] | Infectious bursal disease (IBD) Gumboro disease | IBD-virus<br>(Avibirnavirus, *Birnaviridae*) | Ikke-listeført i EU |
 | **Smittsom hjerne- og ryggmargbetennelse hos høns – aviær encefalomyelitt (AE)** | Avian encephalomyelitis (AE) | Aviært encephalomyelitvirus (AE-virus) (Hepatovirus, *Picornaviridae*) | Ikke-listeført i EU |
 | **Smittsom hønselammelse** | Marek's disease (MD) | MD-virus<br>(Mardivirus, *Herpesviridae*) | Ikke-listeført i EU |
 
@@ -643,8 +643,8 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Trakémiddinfeksjon**\* | Acarapiosis of honeybees | *Acarapis woodi* | Ikke-listeført i EU |
-| **Varroainfeksjon**\* | Varroosis of honey bees | *Varroa* spp. | C (*Apis*) |
+| **Trakémiddinfeksjon**[^\*] | Acarapiosis of honeybees | *Acarapis woodi* | Ikke-listeført i EU |
+| **Varroainfeksjon**[^\*] | Varroosis of honey bees | *Varroa* spp. | C (*Apis*) |
 
 \* Meldepliktig WOAH.
 
@@ -652,7 +652,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Infeksjon med *Batrachochytrium salamandrivorans* (Bsal)**\* | Infection with *Batrachochytrium salamandrivorans* (Bsal) | *Batrachochytrium salamandrivorans* | D (*Caudata*) |
+| **Infeksjon med *Batrachochytrium salamandrivorans* (Bsal)**[^\*] | Infection with *Batrachochytrium salamandrivorans* (Bsal) | *Batrachochytrium salamandrivorans* | D (*Caudata*) |
 | **Klamydiainfeksjoner hos andre dyrearter enn småfe og fugler** | Chlamydia infections | *Chlamydia* spp. | Ikke-listeført i EU |
 | **Kopper og koppelignende sjukdommer – unntatt saue- og geitekopper** | Cow pox Swine pox | Orthipoxvirus (*Poxviridae*), Swinepox virus (Suipoxvirus, *Poxviridae*) | Ikke-listeført i EU |
 | **Leptospirose** | Leptospirosis | *Leptospira* ssp., ikke *L. pomona* og *L. australis* (svin), *L. sejroe* (storfe) og *L. canicola* (hund) | Ikke-listeført i EU |
@@ -662,10 +662,10 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 | **Parafilariose** | Parafilariosis | *Parafilaria multipapillosa* (hest), *Parafilaria bovicola* (storfe) | Ikke-listeført i EU |
 | **Parvovirus-infeksjoner**, unntatt virusenteritt hos mink | Parvovirus | Parvovirus (*Parvoviridae*) | Ikke-listeført i EU |
 | **Pasteurellose** hos rein | Pasteurellosis | *Pasturella multocida* og *Manheimia haemolytica* | Ikke-listeført i EU |
-| **Rabies**\* hos flaggermus | Rabies | Rabiesvirus (Lyssavirus, *Rhabdoviridae*) | E (*Chiroptera*) |
+| **Rabies**[^\*] hos flaggermus | Rabies | Rabiesvirus (Lyssavirus, *Rhabdoviridae*) | E (*Chiroptera*) |
 | **Ringorm som ikke er Liste 2-sykdom** | Ringworm | *Microsporum* spp. og *Trichophyton* spp. | Ikke-listeført i EU |
 | **Tuberkulose hos pattedyr, unntatt*****M. tuberculosis*****,*****M. bovis*****og*****M. caprae*** | Tuberculosis | *Mycobacterium avium* subsp. *hominisuis* | Ikke-listeført i EU |
-| **Tularemi (harepest)**\* | Tularemia | *Francisella tularensis* | Ikke-listeført i EU |
+| **Tularemi (harepest)**[^\*] | Tularemia | *Francisella tularensis* | Ikke-listeført i EU |
 | **Valpesyke** | Distemper | Valpesykevirus (Morbillivirus, *Paramyxoviridae*) | Ikke-listeført i EU |
 
 \* Meldepliktig WOAH.
@@ -718,11 +718,11 @@ under henvisning til forslag fra Europakommisjonen,
 
 etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité1,
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité[^1],
 
 etter samråd med Regionkomiteen,
 
-etter den ordinære regelverksprosedyren2 og
+etter den ordinære regelverksprosedyren[^2] og
 
 ut fra følgende betraktninger:
 
@@ -731,8 +731,8 @@ ut fra følgende betraktninger:
 3. I tillegg er det observert interaktive skadevirkninger med hensyn til biologisk mangfold, klimaendring og andre miljøaspekter. Klimaendring kan påvirke utviklingen av nye sykdommer, prevalensen av eksisterende sykdommer og den geografiske fordelingen av sykdomsagenser og vektorer, herunder slike som rammer viltlevende dyr.
 4. For å sikre et høyt vernenivå for dyrehelsen og folkehelsen i Unionen og en rasjonell utvikling av landbruks- og akvakultursektorene samt for å øke produktiviteten bør det fastsettes dyrehelseregler på unionsplan. Disse reglene er nødvendige blant annet for å bidra til gjennomføringen av det indre marked og unngå spredning av infeksjonssykdommer. Disse reglene bør også så langt som mulig sikre opprettholdelse av nåværende dyrehelsestatus i Unionen og støtte til forbedring av dyrehelsen.
 5. Unionens gjeldende dyrehelseregelverk består av en rekke grunnleggende rettsakter som hører sammen og er innbyrdes forbundet, som fastsetter dyrehelseregler som gjelder for handel innenfor Unionen, innførsel til Unionen av dyr og produkter, sykdomsutryddelse, veterinærkontroller, melding om sykdommer og finansiell støtte for ulike dyrearter, men en overordnet rettslig ramme med harmoniserte prinsipper for hele sektoren mangler.
-6. Finansielle regler for støtte til dyrehelsemessige formål er fastsatt i europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652)3 og inngår ikke i denne forordningen. Dessuten bør reglene om offentlig kontroll av dyrehelsetiltak fastsatt i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882)4 og i rådsdirektiv [89/662/EØF](eu/31989l0662)5, [90/425/EØF](eu/31990l0425)6, [91/496/EØF](eu/31991l0496)7 og [97/78/EF](eu/31997l0078)8 brukes til å regulere offentlig kontroll på dyrehelseområdet.
-7. Denne forordningen inneholder ingen bestemmelser som regulerer dyrevelferden. Dyrs helse og velferd henger imidlertid sammen ettersom bedre dyrehelse fremmer bedre dyrevelferd og omvendt. Når tiltak for forebygging og bekjempelse av sykdom gjennomføres i samsvar med denne forordningen, bør det tas hensyn til deres virkning på dyrevelferden på bakgrunn av artikkel 13 i traktaten om Den europeiske unions virkemåte (TEUV), for å skåne de berørte dyrene for enhver smerte, belastning og lidelse som kan unngås. Regelverket for dyrevelferd, for eksempel rådsforordning [(EF) nr. 1/2005](eu/32005r0001)9 og [(EF) nr. 1099/2009](eu/32009r1099)10, bør nødvendigvis fortsatt få anvendelse og bør gjennomføres korrekt. Reglene i denne forordningen bør ikke gjenta eller overlappe bestemmelsene fastsatt i nevnte regelverk.
+6. Finansielle regler for støtte til dyrehelsemessige formål er fastsatt i europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652)[^3] og inngår ikke i denne forordningen. Dessuten bør reglene om offentlig kontroll av dyrehelsetiltak fastsatt i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882)[^4] og i rådsdirektiv [89/662/EØF](eu/31989l0662)[^5], [90/425/EØF](eu/31990l0425)[^6], [91/496/EØF](eu/31991l0496)[^7] og [97/78/EF](eu/31997l0078)[^8] brukes til å regulere offentlig kontroll på dyrehelseområdet.
+7. Denne forordningen inneholder ingen bestemmelser som regulerer dyrevelferden. Dyrs helse og velferd henger imidlertid sammen ettersom bedre dyrehelse fremmer bedre dyrevelferd og omvendt. Når tiltak for forebygging og bekjempelse av sykdom gjennomføres i samsvar med denne forordningen, bør det tas hensyn til deres virkning på dyrevelferden på bakgrunn av artikkel 13 i traktaten om Den europeiske unions virkemåte (TEUV), for å skåne de berørte dyrene for enhver smerte, belastning og lidelse som kan unngås. Regelverket for dyrevelferd, for eksempel rådsforordning [(EF) nr. 1/2005](eu/32005r0001)[^9] og [(EF) nr. 1099/2009](eu/32009r1099)[^10], bør nødvendigvis fortsatt få anvendelse og bør gjennomføres korrekt. Reglene i denne forordningen bør ikke gjenta eller overlappe bestemmelsene fastsatt i nevnte regelverk.
 8. Kommisjonens melding av 19. september 2007 om en ny dyrehelsestrategi for Den europeiske union (2007–2013) der «det er bedre å forebygge enn å helbrede», har som mål å forbedre dyrehelsen ved å legge større vekt på forebyggende tiltak, sykdomsovervåking, sykdomsbekjempelse og forskning for å redusere forekomsten av dyresykdommer og begrense skadevirkningene av utbrudd når de oppstår. Strategien inneholder forslag om å vedta et felles, forenklet dyrehelseregelverk med sikte på tilnærming til internasjonale standarder og en bindende forpliktelse til et høyt vernenivå for dyrehelsen.
 9. Målet med denne forordningen er å gjennomføre forpliktelsene og visjonene fastsatt i nevnte dyrehelsestrategi, herunder prinsippet om én helse («One Health»), og konsolidere den rettslige rammen for Unionens felles politikk på dyrehelseområdet i et felles, forenklet og fleksibelt dyrehelseregelverk.
 10. Dyr kan bli rammet av en rekke infeksiøse og ikke-infeksiøse sykdommer. Mange sykdommer kan behandles eller har bare innvirkning på det enkelte berørte dyret, eller spres ikke til andre dyr eller til mennesker. Smittsomme sykdommer kan derimot ha bredere innvirkning på dyrehelsen eller folkehelsen med merkbare virkninger på popolasjonsnivå. Dyrehelsereglene i denne forordningen bør begrenses til bare de sistnevnte sykdommene.
@@ -740,15 +740,15 @@ ut fra følgende betraktninger:
 12. Avtalen om helse- og plantehelsetiltak (SPS) som Unionen er part i, regulerer bruken av tiltak som er nødvendige for å verne menneskers, dyrs eller planters liv eller helse slik at tiltakene ikke medfører vilkårlig eller uberettiget forskjellsbehandling av medlemmene i Verdens handelsorganisasjon (WTO). Dersom det finnes internasjonale standarder, bør disse benyttes som utgangspunkt for Unionens tiltak. Partene i SPS-avtalen har imidlertid rett til å fastsette egne relevante standarder, forutsatt at standardene er basert på vitenskapelige bevis.
 13. Når det gjelder dyrehelse, viser SPS-avtalen til standardene fra Verdens dyrehelseorganisasjon (OIE) om krav til dyrehelse ved internasjonal handel. For å redusere risikoen for handelsforstyrrelser bør Unionens dyrehelsetiltak ha som mål å oppnå en hensiktsmessig grad av tilnærming til OIE-standardene.
 14. Under særlige omstendigheter der det foreligger en betydelig risiko for dyrehelsen eller folkehelsen, men der det råder vitenskapelig usikkerhet, er det i samsvar med artikkel 5 nr. 7 i SPS-avtalen, som er fortolket for Unionen i kommisjonsmelding av 2. februar 2000 om føre-var-prinsippet, mulig for avtalepartene å vedta midlertidige tiltak på grunnlag av tilgjengelige relevante opplysninger. I slike tilfeller skal det berørte medlemmet innhente nødvendige tilleggsopplysninger for en mer upartisk vurdering av risikoen og deretter revidere tiltaket i samsvar med dette innen rimelig tid.
-15. Den risikovurderingen som danner grunnlaget for tiltakene i henhold til denne forordningen, bør bygge på tilgjengelige vitenskapelige bevis og utføres på en uavhengig, objektiv og åpen måte. Det bør også tas behørig hensyn til uttalelsene fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA), opprettet ved artikkel 22 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)11.
-16. Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)12 fastsetter både dyrehelseregler og hygieneregler for visse animalske biprodukter og avledede produkter for å forebygge og redusere risikoene for folkehelsen og dyrehelsen som følge av disse produktene, og særlig for å sikre tryggheten i næringsmiddel- og fôrkjeden. For å unngå overlapping med unionsregelverket bør denne forordningen derfor bare gjelde for animalske biprodukter og avledede produkter som det ikke er fastsatt særlige regler for i forordning [(EF) nr. 1069/2009](eu/32009r1069), og som innebærer en dyrehelserisiko. Forordning [(EF) nr. 1069/2009](eu/32009r1069) regulerer for eksempel ikke hvordan animalske biprodukter og avledede produkter skal håndteres i forbindelse med tiltak for sykdomsbekjempelse; derfor omfattes disse spørsmålene av denne forordningen.
-17. I tillegg er det allerede fastsatt særlige regler for smittsomme dyresykdommer, herunder sykdommer som kan overføres til mennesker («zoonoser»), i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)13, europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099)14 og europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160)15, og for smittsomme sykdommer hos mennesker, i europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082)16. Disse rettsaktene bør fortsatt gjelde etter vedtakelsen av denne forordningen. For å unngå overlapping i unionsregelverket bør denne forordningen derfor bare gjelde zoonoser i den utstrekning det ikke allerede er fastsatt særlige regler i de nevnte andre unionsrettsaktene. Dessuten gjelder denne forordningen uten at det berører anvendelsen av bestemmelser fastsatt i andre regelverksakter i Unionen, for eksempel innenfor veterinærmedisin og dyrevelferd.
+15. Den risikovurderingen som danner grunnlaget for tiltakene i henhold til denne forordningen, bør bygge på tilgjengelige vitenskapelige bevis og utføres på en uavhengig, objektiv og åpen måte. Det bør også tas behørig hensyn til uttalelsene fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA), opprettet ved artikkel 22 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^11].
+16. Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)[^12] fastsetter både dyrehelseregler og hygieneregler for visse animalske biprodukter og avledede produkter for å forebygge og redusere risikoene for folkehelsen og dyrehelsen som følge av disse produktene, og særlig for å sikre tryggheten i næringsmiddel- og fôrkjeden. For å unngå overlapping med unionsregelverket bør denne forordningen derfor bare gjelde for animalske biprodukter og avledede produkter som det ikke er fastsatt særlige regler for i forordning [(EF) nr. 1069/2009](eu/32009r1069), og som innebærer en dyrehelserisiko. Forordning [(EF) nr. 1069/2009](eu/32009r1069) regulerer for eksempel ikke hvordan animalske biprodukter og avledede produkter skal håndteres i forbindelse med tiltak for sykdomsbekjempelse; derfor omfattes disse spørsmålene av denne forordningen.
+17. I tillegg er det allerede fastsatt særlige regler for smittsomme dyresykdommer, herunder sykdommer som kan overføres til mennesker («zoonoser»), i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)[^13], europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099)[^14] og europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160)[^15], og for smittsomme sykdommer hos mennesker, i europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082)[^16]. Disse rettsaktene bør fortsatt gjelde etter vedtakelsen av denne forordningen. For å unngå overlapping i unionsregelverket bør denne forordningen derfor bare gjelde zoonoser i den utstrekning det ikke allerede er fastsatt særlige regler i de nevnte andre unionsrettsaktene. Dessuten gjelder denne forordningen uten at det berører anvendelsen av bestemmelser fastsatt i andre regelverksakter i Unionen, for eksempel innenfor veterinærmedisin og dyrevelferd.
 18. Sykdommer som forekommer hos dyr som holdes av mennesker, kan ha stor innvirkning på sektorene landbruk og akvakultur, på folkehelsen, miljøet og det biologiske mangfoldet. Ettersom slike dyr holdes av mennesker, er det imidlertid ofte lettere å iverksette tiltak for å forebygge og bekjempe sykdom hos dem enn hos viltlevende dyr.
 19. Ikke desto mindre kan sykdommer som oppstår i populasjoner av viltlevende dyr, ha en skadevirkning på landbruks- og akvakultursektorene og på folkehelsen, miljøet og det biologiske mangfoldet. Denne forordningens virkeområde bør derfor i slike tilfeller omfatte viltlevende dyr, både som potensielle ofre for slike sykdommer, og som vektorer for dem. I denne forordningen omfatter begrepet «viltlevende dyr» alle dyr som ikke holdes av mennesker, herunder eierløse og forvillede dyr, selv av arter som normalt er tamme.
 20. Dyresykdommer overføres ikke bare gjennom direkte kontakt mellom dyr eller mellom dyr og mennesker. De spres også videre gjennom vann- og luftsystemer og vektorer som insekter, eller via sæd, oocytter eller embryoer som benyttes ved inseminering, oocyttdonasjon eller embryooverføring. Sykdomsagenser kan også finnes i næringsmidler og andre produkter av animalsk opprinnelse som lær, pels, fjør, horn og andre materialer fra kroppen av et dyr. Sykdomsagenser kan også spres via transportkjøretøyer, utstyr, fôr samt høy og halm. Effektive dyrehelseregler må derfor omfatte alle smitteveier og alle relevante materialer.
 21. Dyresykdommer kan ha skadevirkninger på fordelingen av dyrearter i naturen og dermed påvirke det biologiske mangfoldet. Mikroorganismer som forårsaker slike dyresykdommer, kan derfor anses som invaderende fremmede arter i henhold til De forente nasjoners [konvensjon om biologisk mangfold](traktat/1992-06-05-1). Tiltakene fastsatt i denne forordningen tar også hensyn til biologisk mangfold, og dermed bør denne forordningen omfatte de dyreartene og sykdomsagensene, herunder dem som defineres som invaderende dyrearter, som spiller en rolle i overføringen av eller rammes av sykdommer som omfattes av denne forordningen.
-22. Unionsregelverk vedtatt før denne forordningen fastsetter særskilte dyrehelseregler for landdyr og akvatiske dyr. Rådsdirektiv [2006/88/EF](eu/32006l0088)17 fastsetter særlige regler for akvatiske dyr. I de fleste tilfellene gjelder imidlertid hovedprinsippene for god forvaltning av dyrehelse og godt husdyrhold for begge grupper av dyrearter. Følgelig bør denne forordningen omfatte både landdyr og akvatiske dyr, og dyrehelsereglene bør ved behov bringes i samsvar med hverandre. På visse områder, særlig registrering og godkjenning av anlegg samt sporbarhet og forflytning av dyr innenfor Unionen, følger denne forordningen den tilnærmingen som tidligere er valgt, som er å fastsette forskjellige dyrehelseregler for landdyr og akvatiske dyr fordi de lever i forskjellige miljøer, og det dermed må stilles forskjellige krav for å verne helsen.
-23. Unionsregelverk vedtatt før denne forordningen, særlig rådsdirektiv [92/65/EØF](eu/31992l0065)18, fastsetter også grunnleggende dyrehelseregler for andre dyrearter som ikke er regulert i andre unionsrettsakter, som krypdyr, amfibier, havpattedyr og andre dyr som verken er akvatiske dyr eller landdyr i henhold til definisjonen i denne forordningen. Disse artene utgjør normalt ikke noen særlig helserisiko for mennesker eller andre dyr og omfattes derfor bare av få eller ingen dyrehelseregler. For å unngå unødvendige administrative og økonomiske byrder bør denne forordningen følge den tilnærmingen som tidligere er vedtatt, nemlig å fastsette en rettslig ramme som gjør det mulig å kunne fastsette nærmere dyrehelseregler for forflytninger av slike dyr og deres produkter, dersom de tilknyttede risikoene krever det.
+22. Unionsregelverk vedtatt før denne forordningen fastsetter særskilte dyrehelseregler for landdyr og akvatiske dyr. Rådsdirektiv [2006/88/EF](eu/32006l0088)[^17] fastsetter særlige regler for akvatiske dyr. I de fleste tilfellene gjelder imidlertid hovedprinsippene for god forvaltning av dyrehelse og godt husdyrhold for begge grupper av dyrearter. Følgelig bør denne forordningen omfatte både landdyr og akvatiske dyr, og dyrehelsereglene bør ved behov bringes i samsvar med hverandre. På visse områder, særlig registrering og godkjenning av anlegg samt sporbarhet og forflytning av dyr innenfor Unionen, følger denne forordningen den tilnærmingen som tidligere er valgt, som er å fastsette forskjellige dyrehelseregler for landdyr og akvatiske dyr fordi de lever i forskjellige miljøer, og det dermed må stilles forskjellige krav for å verne helsen.
+23. Unionsregelverk vedtatt før denne forordningen, særlig rådsdirektiv [92/65/EØF](eu/31992l0065)[^18], fastsetter også grunnleggende dyrehelseregler for andre dyrearter som ikke er regulert i andre unionsrettsakter, som krypdyr, amfibier, havpattedyr og andre dyr som verken er akvatiske dyr eller landdyr i henhold til definisjonen i denne forordningen. Disse artene utgjør normalt ikke noen særlig helserisiko for mennesker eller andre dyr og omfattes derfor bare av få eller ingen dyrehelseregler. For å unngå unødvendige administrative og økonomiske byrder bør denne forordningen følge den tilnærmingen som tidligere er vedtatt, nemlig å fastsette en rettslig ramme som gjør det mulig å kunne fastsette nærmere dyrehelseregler for forflytninger av slike dyr og deres produkter, dersom de tilknyttede risikoene krever det.
 24. Det er vanlig at mennesker holder visse dyr som kjæledyr i husholdningen. Hold av slike kjæledyr til rent private formål, herunder akvariedyr, innendørs eller utendørs, utgjør vanligvis en lavere helserisiko enn andre måter å holde eller flytte dyr på i større skala, for eksempel de måtene som er vanlige innenfor landbruk og akvakultur, dyremottak og transport av dyr generelt. De generelle kravene til registrering, journalføring og forflytninger innenfor Unionen bør derfor ikke gjelde slike kjæledyr ettersom dette ville medføre en uberettiget administrativ byrde og kostnad. Krav til registrering og journalføring bør derfor ikke gjelde for kjæledyrholdere. I tillegg bør særlige regler gjelde for ikke-kommersielle forflytninger av kjæledyr innenfor Unionen.
 25. Visse definerte grupper dyr som det fastsettes særlige dyrehelseregler for i denne forordningen, må listeføres som arter i et vedlegg på grunn av denne gruppens mangfold. Dette gjelder gruppen pattedyr med hover eller klover, som klassifiseres som hov- og klovdyr. Det kan bli nødvendig å endre listen over slike dyr på et senere tidspunkt som følge av endret taksonomi. For å ta høyde for slike endringer bør myndigheten til å vedta rettsakter i samsvar med TEUV artikkel 290 delegeres til Kommisjonen når det gjelder listen over hov- og klovdyr angitt i vedlegg III til denne forordningen.
 26. Ikke alle smittsomme dyresykdommer kan eller bør forebygges og bekjempes ved hjelp av lovgivningsmessige tiltak; det gjelder for eksempel dersom en sykdom er altfor utbredt, dersom diagnoseverktøyer ikke er tilgjengelig, eller dersom privat sektor selv kan treffe tiltak for å bekjempe sykdommen. Lovgivningsmessige tiltak for å forebygge og bekjempe smittsomme dyresykdommer kan ha store økonomiske konsekvenser for de berørte sektorene og kan forstyrre handelen. Det er derfor viktig at slike tiltak bare anvendes når de er forholdsmessige og nødvendige, for eksempel når en sykdom utgjør eller antas å utgjøre en vesentlig risiko for dyrehelsen eller folkehelsen.
@@ -840,9 +840,9 @@ ut fra følgende betraktninger:
 112. Et viktig verktøy for å hindre at en smittsom dyresykdom innføres og spres, er restriksjoner på forflytninger av dyr og produkter som kan overføre sykdommen. Restriksjoner på forflytninger av dyr og produkter kan imidlertid få alvorlige økonomiske konsekvenser og gripe forstyrrende inn i det indre markeds virkemåte. Slike restriksjoner bør derfor benyttes bare når det er nødvendig og står i rimelig forhold til tilknyttede risikoer. Denne tilnærmingen er i tråd med prinsippene i SPS-avtalen og OIEs internasjonale standarder.
 113. De generelle kravene i denne forordningen bør gjelde for alle forflytninger av dyr, for eksempel forbudet mot forflytning av dyr fra et anlegg med unormal dødelighet eller andre sykdomssymptomer av ubestemt årsak, eller krav til sykdomsforebygging under transport.
 114. Den nåværende rettslige rammen fastsatt i Unionens dyrehelseregelverk om forflytning av landdyr og produkter, fastsetter harmoniserte regler primært for slike forflytninger mellom medlemsstater, mens det overlates til medlemsstatene å fastsette de nødvendige kravene til forflytninger på deres territorium. Den konsekvensanalysen som ble gjennomført i forbindelse med at denne forordningen skulle vedtas, omfattet en utførlig sammenligning mellom dagens situasjon og en modell der reglene for forflytning innenfor den enkelte medlemsstaten også ville bli harmonisert på unionsplan. Det er konkludert med at den nåværende tilnærmingen bør beholdes, ettersom fullstendig harmonisering av alle forflytninger vil bli svært komplisert og fordelene i form av enklere forflytninger mellom medlemsstatene ikke oppveier de negative konsekvensene som dette kan ha på muligheten for å bekjempe sykdommer.
-115. Dyr som flyttes mellom medlemsstater, bør omfattes av en rekke grunnleggende krav til dyrehelse. Først og fremst bør dyr ikke flyttes fra anlegg med unormal dødelighet eller tegn på sykdom av ukjent årsak. Dødelighet, også unormal dødelighet, i forbindelse med vitenskapelige forsøk som er godkjent i henhold til europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063)19, og som ikke har en infeksiøs opprinnelse knyttet til listeførte sykdommer, bør likevel ikke være en grunn til å hindre forflytning av dyr for vitenskapelige formål.
+115. Dyr som flyttes mellom medlemsstater, bør omfattes av en rekke grunnleggende krav til dyrehelse. Først og fremst bør dyr ikke flyttes fra anlegg med unormal dødelighet eller tegn på sykdom av ukjent årsak. Dødelighet, også unormal dødelighet, i forbindelse med vitenskapelige forsøk som er godkjent i henhold til europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063)[^19], og som ikke har en infeksiøs opprinnelse knyttet til listeførte sykdommer, bør likevel ikke være en grunn til å hindre forflytning av dyr for vitenskapelige formål.
 116. Denne forordningen bør imidlertid være fleksibel nok til å tillate forflytning av arter og kategorier av landdyr som utgjør en lav risiko når det gjelder å spre listeførte sykdommer mellom medlemsstatene. Dessuten bør det være fastsatt ytterligere muligheter for unntak i tilfeller der medlemsstater eller driftsansvarlige har innført effektive alternative risikoreduserende tiltak, for eksempel et høyt biosikkerhetsnivå og effektive overvåkingssystemer.
-117. Hov- og klovdyr og fjørfe er grupper av dyrearter av stor økonomisk betydning og omfattes av særlige krav til forflytning i samsvar med unionsregelverk vedtatt før denne forordningen, nemlig rådsdirektiv [64/432/EØF](eu/31964l0432)20, [91/68/EØF](eu/31991l0068)21, [2009/156/EF](eu/32009l0156)22, [2009/158/EF](eu/32009l0158)23 og delvis direktiv [92/65/EØF](eu/31992l0065). De viktigste bestemmelsene om forflytning av disse dyreartene bør fastsettes i denne forordningen. De detaljerte kravene, som i stor grad avhenger av de sykdommene som kan overføres av de ulike artene eller kategoriene av dyr, bør fastsettes i senere kommisjonsrettsakter på grunnlag av særtrekkene ved de aktuelle sykdommene, artene og kategoriene av dyr.
+117. Hov- og klovdyr og fjørfe er grupper av dyrearter av stor økonomisk betydning og omfattes av særlige krav til forflytning i samsvar med unionsregelverk vedtatt før denne forordningen, nemlig rådsdirektiv [64/432/EØF](eu/31964l0432)[^20], [91/68/EØF](eu/31991l0068)[^21], [2009/156/EF](eu/32009l0156)[^22], [2009/158/EF](eu/32009l0158)[^23] og delvis direktiv [92/65/EØF](eu/31992l0065). De viktigste bestemmelsene om forflytning av disse dyreartene bør fastsettes i denne forordningen. De detaljerte kravene, som i stor grad avhenger av de sykdommene som kan overføres av de ulike artene eller kategoriene av dyr, bør fastsettes i senere kommisjonsrettsakter på grunnlag av særtrekkene ved de aktuelle sykdommene, artene og kategoriene av dyr.
 118. Ettersom oppsamling av hov- og klovdyr og fjørfe er forbundet med særlig høy sykdomsrisiko, bør det antallet dyr som kan oppsamles i én enkelt forflytning mellom medlemsstater, begrenses, og det bør fastsettes særlige regler i denne forordningen for å verne de berørte dyrenes helse og hindre spredning av smittsomme dyresykdommer. Oppsamling finner som regel sted i et anlegg som er godkjent for formålet, eller dersom det er tillatt i opprinnelsesmedlemsstaten, med et transportmiddel som for eksempel en lastebil, som samler opp dyr fra forskjellige steder i nevnte medlemsstat.
 119. Avhengig av hvilke listeførte sykdommer og listeførte arter det gjelder, bør det fastsettes særlige krav til dyrehelse for visse andre dyrearter enn holdte hov- og klovdyr og fjørfe. Det var også fastsatt regler for disse artene i den rettslige rammen som gjaldt før denne forordningen, særlig i direktiv [92/65/EØF](eu/31992l0065). Nevnte direktiv fastsetter særlige regler for forflytning av dyrearter, herunder bier, humler, aper, hunder og katter, og denne forordningen bør derfor inneholde et rettslig grunnlag for vedtakelse av delegerte rettsakter og gjennomføringsrettsakter som fastsetter særlige regler for forflytning for disse dyreartene.
 120. Avgrensede anlegg, som vanligvis benyttes til hold av laboratoriedyr eller dyr i zoologiske hager, kjennetegnes normalt av et høyt biosikkerhetsnivå og en god og velkontrollert helsestatus samt færre forflytninger eller forflytninger utelukkende innenfor kretsen av slike anlegg. Status som avgrensede anlegg, som driftsansvarlige kan søke om på frivillig grunnlag, ble først innført ved direktiv [92/65/EØF](eu/31992l0065), som fastsetter regler og krav om godkjenning og krav med hensyn til forflytninger for godkjente organer, institutter og stasjoner. Gjennom det systemet som derved ble opprettet, kan disse anleggene utveksle dyr seg imellom med færre krav med hensyn til forflytninger, samtidig som det gis helsegarantier innenfor kretsen av avgrensede anlegg. Systemet har derfor fått bred tilslutning fra de driftsansvarlige og benyttes som et frivillig alternativ. Begrepet avgrensede anlegg bør derfor beholdes i denne forordningen, som også bør fastsette regler for forflytning mellom slike anlegg.
@@ -854,7 +854,7 @@ ut fra følgende betraktninger:
 126. I den grad det er teknisk, praktisk og økonomisk gjennomførbart, bør den teknologiske utviklingen utnyttes for å redusere de administrative byrdene for driftsansvarlige og vedkommende myndigheter i forbindelse med sertifisering og melding, ved at informasjonsteknologi benyttes til erstatning for papirdokumentasjonen, og for å forenkle framgangsmåtene for melding og så vidt mulig benytte slik teknologi til flere ulike formål.
 127. I tilfeller der det ikke er krav om utstedelse av et helsesertifikat fra en vedkommende myndighet, bør en driftsansvarlig som flytter dyr til en annen medlemsstat, utstede et egenerklæringsdokument som bekrefter at dyrene oppfyller kravene til forflytning fastsatt i denne forordningen.
 128. For å sikre at målene i betraktning 125, 126 og 127 i denne forordningen nås, bør myndigheten til å vedta rettsakter i samsvar med TEUV artikkel 290 delegeres til Kommisjonen når det gjelder reglene for helsesertifikatets innhold, opplysningsplikt, unntak fra kravene til helsesertifisering, særlige sertifiseringsregler og offentlige veterinærers plikt til å utføre hensiktsmessige kontroller før de undertegner et helsesertifikat.
-129. Melding om forflytning av dyr og avlsmateriale mellom medlemsstater og i enkelte tilfeller innenfor en medlemsstats nasjonale territorium er av avgjørende betydning for å sikre at de berørte dyrene og avlsmaterialet kan spores, i tilfeller der forflytningene kan knyttes til en risiko for spredning av smittsomme dyresykdommer. Slike forflytninger bør derfor meldes og registreres gjennom et integrert veterinærdatasystem («TRACES»). TRACES integrerer datasystemene nevnt i henholdsvis artikkel 20 i direktiv 90/425/EØF og i rådsvedtak [92/438/EØF](eu/31992d0438)24 i en felles arkitektur på grunnlag av kommisjonsvedtak [2003/24/EF](eu/32003d0024)25 og [2004/292/EF](eu/32004d0292)26.
+129. Melding om forflytning av dyr og avlsmateriale mellom medlemsstater og i enkelte tilfeller innenfor en medlemsstats nasjonale territorium er av avgjørende betydning for å sikre at de berørte dyrene og avlsmaterialet kan spores, i tilfeller der forflytningene kan knyttes til en risiko for spredning av smittsomme dyresykdommer. Slike forflytninger bør derfor meldes og registreres gjennom et integrert veterinærdatasystem («TRACES»). TRACES integrerer datasystemene nevnt i henholdsvis artikkel 20 i direktiv 90/425/EØF og i rådsvedtak [92/438/EØF](eu/31992d0438)[^24] i en felles arkitektur på grunnlag av kommisjonsvedtak [2003/24/EF](eu/32003d0024)[^25] og [2004/292/EF](eu/32004d0292)[^26].
 130. For å sikre ensartede vilkår for gjennomføringen av reglene fastsatt i denne forordningen når det gjelder utstedelse av helsesertifikater og melding om forflytning, bør Kommisjonen gis gjennomføringsmyndighet til å fastsette regler for standardskjemaene for helsesertifikater, egenerklæringsdokumenter, formater og frister for melding om forflytning for både landdyr og akvatiske dyr, avlsmateriale og dersom det også er relevant, produkter av animalsk opprinnelse.
 131. Forflytninger av kjæledyr er av en slik art at de utgjør en dyrehelserisiko som skiller seg betraktelig fra risikoen ved andre holdte dyr. Det bør i denne forordningen derfor fastsettes særlige, mindre strenge regler for slike forflytninger. Slike mindre strenge regler er likevel bare berettiget dersom kjæledyret faktisk ledsager sin eier under eierens forflytning eller i løpet av en begrenset periode deretter, og dersom høyst fem kjæledyr som nevnt i del A i vedlegg I, flyttes samtidig med sin eier på én gang. For å sikre at kjæledyr ikke utgjør en vesentlig risiko for spredning av smittsomme dyresykdommer og for å klargjøre i hvilke unntakstilfeller flere enn fem kjæledyr kan ledsage eieren, eller når kjæledyret skal flyttes lenge før eller etter eieren, bør myndigheten til å vedta rettsakter i samsvar med TEUV artikkel 290 delegeres til Kommisjonen når det gjelder nærmere regler for forflytning av slike dyr. For å sikre ensartede vilkår for gjennomføringen av kravene til dyrehelse fastsatt i denne forordningen når det gjelder forflytninger av kjæledyr, bør Kommisjonen gis gjennomføringsmyndighet til å fastsette regler for tiltak for forebygging og bekjempelse av sykdom som skal treffes for slike forflytninger.
 132. Viltlevende dyr kan av ulike årsaker utgjøre en risiko for dyrehelsen og folkehelsen, for eksempel dersom de flyttes til et anlegg eller fra ett miljø til et annet. Det kan være nødvendig å treffe passende forebyggende tiltak for forflytning av slike dyr for å unngå å spre smittsomme dyresykdommer. For å sikre at viltlevende dyr ikke utgjør en vesentlig risiko for spredning av smittsomme dyresykdommer, bør myndigheten til å vedta rettsakter i samsvar med TEUV artikkel 290 delegeres til Kommisjonen når det gjelder ytterligere krav til forflytning av viltlevende landdyr.
@@ -891,18 +891,18 @@ ut fra følgende betraktninger:
 163. For å sikre en effektiv og rask reaksjon på nye risikoer bør Kommisjonen gis gjennomføringsmyndighet til å fastsette nødtiltak.
 164. Kommisjonen bør i behørig begrunnede tilfeller vedta gjennomføringsrettsakter med umiddelbar virkning med hensyn til blant annet tiltak for nye sykdommer, lageroppbygging, forsyning, oppbevaring, utlevering og andre framgangsmåter for Unionens antigen-, vaksine- og diagnosereagensbanker, fastsettelse av særlige tiltak for sykdomsbekjempelse og unntak for et begrenset tidsrom, særlige regler for forflytning av landdyr og akvatiske dyr for et begrenset tidsrom, nødtiltak samt listeføring av tredjeland og territorier med hensyn til innførsel til Unionen.
 165. Denne forordningen fastsetter alminnelige og særlige regler for forebygging og bekjempelse av smittsomme dyresykdommer og sikrer en harmonisert tilnærming til dyrehelse i hele Unionen. På visse områder, for eksempel generelle ansvarsområder for dyrehelse, melding, overvåking, registrering og godkjenning eller sporbarhet, bør medlemsstatene ha tillatelse til eller oppfordres til å benytte ytterligere eller strengere nasjonale tiltak. Slike nasjonale tiltak bør bare tillates dersom de ikke bringer dyrehelsemålene fastsatt i denne forordningen i fare, ikke er i strid med reglene i denne forordningen, og ikke er til hinder for forflytning av dyr eller produkter mellom medlemsstatene, med mindre dette er nødvendig for å forhindre innføring av sykdommer eller bekjempe deres spredning.
-166. De nasjonale tiltakene nevnt i betraktning 165 bør være omfattet av en forenklet framgangsmåte for melding for å redusere den administrative byrden. Erfaringen har vist at den samlede framgangsmåten for melding i europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034)27 har vært et viktig verktøy for å styre og forbedre kvaliteten på nasjonale tekniske forskrifter – i form av økt innsyn, lesbarhet og effektivitet – på områder som ikke er eller bare delvis er harmonisert. Derfor bør denne samlede framgangsmåten for melding benyttes.
+166. De nasjonale tiltakene nevnt i betraktning 165 bør være omfattet av en forenklet framgangsmåte for melding for å redusere den administrative byrden. Erfaringen har vist at den samlede framgangsmåten for melding i europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034)[^27] har vært et viktig verktøy for å styre og forbedre kvaliteten på nasjonale tekniske forskrifter – i form av økt innsyn, lesbarhet og effektivitet – på områder som ikke er eller bare delvis er harmonisert. Derfor bør denne samlede framgangsmåten for melding benyttes.
 167. Unionens dyrehelseregler er i dag fastsatt i følgende rettsakter fra Europaparlamentet og Rådet og i senere kommisjonsrettsakter vedtatt i henhold til dem:
-     Direktiv [64/432/EØF](eu/31964l0432), rådsdirektiv [77/391/EØF](eu/31977l0391)28, rådsdirektiv [78/52/EØF](eu/31978l0052)29, rådsdirektiv [80/1095/EØF](eu/31980l1095)30, rådsdirektiv [82/894/EØF](eu/31982l0894)31, rådsdirektiv [88/407/EØF](eu/31988l0407)32, rådsdirektiv [89/556/EØF](eu/31989l0556)33, rådsdirektiv [90/429/EØF](eu/31990l0429)34, direktiv [91/68/EØF](eu/31991l0068), rådsvedtak [91/666/EØF](eu/31991d0666)35, rådsdirektiv [92/35/EØF](eu/31992l0035)36, direktiv [92/65/EØF](eu/31992l0065), rådsdirektiv [92/66/EØF](eu/31992l0066)37, rådsdirektiv [92/118/EØF](eu/31992l0118)38, rådsdirektiv [92/119/EØF](eu/31992l0119)39, rådsvedtak [95/410/EF](eu/31995d0410)40, rådsdirektiv [2000/75/EF](eu/32000l0075)41, rådsvedtak [2000/258/EF](eu/32000d0258)42, rådsdirektiv [2001/89/EF](eu/32001l0089)43, rådsdirektiv [2002/60/EF](eu/32002l0060)44, rådsdirektiv [2002/99/EF](eu/32002l0099)45, rådsdirektiv [2003/85/EF](eu/32003l0085)46, rådsforordning [(EF) nr. 21/2004](eu/32004r0021)47, rådsdirektiv [2004/68/EF](eu/32004l0068)48, rådsdirektiv [2005/94/EF](eu/32005l0094)49, direktiv [2006/88/EF](eu/32006l0088), rådsdirektiv [2008/71/EF](eu/32008l0071)50, direktiv [2009/156/EF](eu/32009l0156), direktiv [2009/158/EF](eu/32009l0158), europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)51.
-168. I denne forordningen fastsettes reglene for identifikasjon og registrering av storfe, mens regler for merking av storfekjøtt ligger utenfor dens virkeområde. Europaparlaments- og rådsforordning [(EF) nr. 1760/2000](eu/32000r1760)52 fastsetter regler for identifikasjon og registrering av storfe og regler for merking av storfekjøtt. Den bør derfor endres for å oppheve bestemmelsene om identifikasjon og registrering av storfe, mens bestemmelsene om merking av storfekjøtt fortsatt bør gjelde.
+     Direktiv [64/432/EØF](eu/31964l0432), rådsdirektiv [77/391/EØF](eu/31977l0391)[^28], rådsdirektiv [78/52/EØF](eu/31978l0052)[^29], rådsdirektiv [80/1095/EØF](eu/31980l1095)[^30], rådsdirektiv [82/894/EØF](eu/31982l0894)[^31], rådsdirektiv [88/407/EØF](eu/31988l0407)[^32], rådsdirektiv [89/556/EØF](eu/31989l0556)[^33], rådsdirektiv [90/429/EØF](eu/31990l0429)[^34], direktiv [91/68/EØF](eu/31991l0068), rådsvedtak [91/666/EØF](eu/31991d0666)[^35], rådsdirektiv [92/35/EØF](eu/31992l0035)[^36], direktiv [92/65/EØF](eu/31992l0065), rådsdirektiv [92/66/EØF](eu/31992l0066)[^37], rådsdirektiv [92/118/EØF](eu/31992l0118)[^38], rådsdirektiv [92/119/EØF](eu/31992l0119)[^39], rådsvedtak [95/410/EF](eu/31995d0410)[^40], rådsdirektiv [2000/75/EF](eu/32000l0075)[^41], rådsvedtak [2000/258/EF](eu/32000d0258)[^42], rådsdirektiv [2001/89/EF](eu/32001l0089)[^43], rådsdirektiv [2002/60/EF](eu/32002l0060)[^44], rådsdirektiv [2002/99/EF](eu/32002l0099)[^45], rådsdirektiv [2003/85/EF](eu/32003l0085)[^46], rådsforordning [(EF) nr. 21/2004](eu/32004r0021)[^47], rådsdirektiv [2004/68/EF](eu/32004l0068)[^48], rådsdirektiv [2005/94/EF](eu/32005l0094)[^49], direktiv [2006/88/EF](eu/32006l0088), rådsdirektiv [2008/71/EF](eu/32008l0071)[^50], direktiv [2009/156/EF](eu/32009l0156), direktiv [2009/158/EF](eu/32009l0158), europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)[^51].
+168. I denne forordningen fastsettes reglene for identifikasjon og registrering av storfe, mens regler for merking av storfekjøtt ligger utenfor dens virkeområde. Europaparlaments- og rådsforordning [(EF) nr. 1760/2000](eu/32000r1760)[^52] fastsetter regler for identifikasjon og registrering av storfe og regler for merking av storfekjøtt. Den bør derfor endres for å oppheve bestemmelsene om identifikasjon og registrering av storfe, mens bestemmelsene om merking av storfekjøtt fortsatt bør gjelde.
 169. For å sikre at ordningene i gjeldende forordninger om systemer for identifikasjon og registrering av storfe, sauer og geiter skal være pålitelige, krever dette regelverket at medlemsstatene gjennomfører hensiktsmessige og effektive kontrolltiltak. Slike hensiktsmessige og effektive offentlige kontrolltiltak bør også beholdes i framtiden. Som en del av forslagspakken om smartere regler for tryggere næringsmidler («Smarter rules for safer food»), fastsettes det i denne forordningen ikke bestemmelser om offentlig kontroll, ettersom slike regler bør fastsettes innenfor rammen av det foreslåtte tverrgående regelverket om offentlig kontroll. Selv om de foreslåtte nye tverrgående reglene om offentlig kontroll ikke skulle tre i kraft samtidig som denne forordningen, vil Kommisjonen ved hjelp av gjeldende tverrgående regler for offentlig kontroll likevel kunne sikre et likeverdig kontrollnivå.
 170. Reglene i regelverksaktene nevnt i betraktning 167 skal erstattes med denne forordningen og med senere kommisjonsrettsakter som skal vedtas i henhold til denne forordningen. Følgelig bør nevnte regelverksakter oppheves. For å sikre juridisk klarhet og unngå juridisk tomrom bør opphevingen likevel først få virkning når de relevante delegerte rettsaktene og gjennomføringsrettsaktene er vedtatt i henhold til denne forordningen. Det er derfor nødvendig å gi Kommisjonen myndighet til å bestemme datoene for når opphevingen av de aktuelle regelverksaktene skal få virkning, mens lovgiver bør fastsette en frist.
-171. Følgende rådsrettsakter på dyrehelseområdet er foreldet og bør uttrykkelig oppheves av hensyn til klarheten i unionsregelverket: Rådsvedtak [78/642/EØF](eu/31978d0642)53, rådsdirektiv [79/110/EØF](eu/31979l0110)54, rådsdirektiv [81/6/EØF](eu/31981l0006)55, rådsvedtak [89/455/EØF](eu/31989d0455)56, rådsdirektiv [90/423/EØF](eu/31990l0423)57, rådsvedtak [90/678/EØF](eu/31990d0678)58, rådsdirektiv [92/36/EØF](eu/31992l0036)59, rådsdirektiv [98/99/EF](eu/31998l0099)60.
+171. Følgende rådsrettsakter på dyrehelseområdet er foreldet og bør uttrykkelig oppheves av hensyn til klarheten i unionsregelverket: Rådsvedtak [78/642/EØF](eu/31978d0642)[^53], rådsdirektiv [79/110/EØF](eu/31979l0110)[^54], rådsdirektiv [81/6/EØF](eu/31981l0006)[^55], rådsvedtak [89/455/EØF](eu/31989d0455)[^56], rådsdirektiv [90/423/EØF](eu/31990l0423)[^57], rådsvedtak [90/678/EØF](eu/31990d0678)[^58], rådsdirektiv [92/36/EØF](eu/31992l0036)[^59], rådsdirektiv [98/99/EF](eu/31998l0099)[^60].
 172. Kravene angitt i denne forordningen bør ikke gjelde før de viktigste delegerte rettsaktene og gjennomføringsrettsaktene er vedtatt av Kommisjonen i henhold til denne forordningen, noe som vil gi en frist på 24 måneder fra de viktigste rettsaktene vedtas, og fram til den datoen de begynner å gjelde, slik at medlemsstatene og driftsansvarlige får mulighet til å tilpasse seg de nye reglene slik de skal. I tillegg bør Kommisjonen gis minst 36 måneder til å utarbeide disse nye reglene.
 173. Av hensyn til rettssikkerheten når det gjelder bruken av reglene for identifikasjon og registrering av dyr og tiltak for å bekjempe visse dyresykdommer og zoonoser, bør myndigheten til å vedta rettsakter i samsvar med TEUV artikkel 290 delegeres til Kommisjonen når det gjelder datoen for når forordning [(EF) nr. 21/2004](eu/32004r0021) og direktiv [92/66/EØF](eu/31992l0066), [2000/75/EF](eu/32000l0075), [2001/89/EF](eu/32001l0089), [2002/60/EF](eu/32002l0060), [2003/85/EF](eu/32003l0085), [2005/94/EF](eu/32005l0094) og [2008/71/EF](eu/32008l0071) skal opphøre å gjelde, samtidig som en frist for dette bør fastsettes i denne forordningen.
 174. I tråd med den forebyggende tilnærmingen til dyrehelse som denne forordningen legger opp til, bør de særlige tiltakene med hensyn til salmonella som gjaldt levende dyr sendt til Finland og Sverige før 20. april 2016, fortsatt gjelde, og forordning [(EF) nr. 2160/2003](eu/32003r2160) bør endres i samsvar med dette.
 175. Ettersom forordning [(EU) nr. 576/2013](eu/32013r0576) nylig er vedtatt, er det ønskelig å sette en lang overgangsperiode før de tilsvarende reglene angitt i denne forordningen begynner å gjelde.
-176. Gjennomføringsmyndigheten fastsatt i denne forordningen bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)61.
+176. Gjennomføringsmyndigheten fastsatt i denne forordningen bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)[^61].
 177. Det er særlig viktig at Kommisjonen holder hensiktsmessige samråd under sitt forberedende arbeid, herunder på ekspertnivå. Kommisjonen bør ved forberedelse og utarbeiding av delegerte rettsakter sikre at relevante dokumenter oversendes Europaparlamentet og Rådet samtidig, til rett tid og på en egnet måte.
 178. Denne forordningen bør ikke medføre uforholdsmessig store administrative byrder eller økonomiske konsekvenser for små og mellomstore bedrifter. Etter samråd med berørte parter er det i denne forordningen tatt hensyn til den særlige situasjonen for små og mellomstore bedrifter. I betraktning av de samfunnsmessige målene om å verne dyrehelsen og folkehelsen er det ikke tatt stilling til et eventuelt generelt unntak fra kravene i denne forordningen for slike bedrifter. Det bør imidlertid fastsettes en del unntak for slike bedrifter i forbindelse med de ulike kravene i denne forordningen, på grunnlag av tilknyttede risikoer.
 179. Ettersom målene med denne forordningen, som er å fastsette helseregler for dyr og hygieneregler for avlsmateriale, produkter av animalsk opprinnelse, animalske biprodukter og avledede produkter i den utstrekning de ikke omfattes av særlige regler i annet unionsregelverk, og for andre materialer som kan bidra til å spre smittsomme dyresykdommer, ikke kan nås i tilstrekkelig grad av medlemsstatene og bedre kan nås på unionsplan gjennom en felles, samordnet rettslig ramme for dyrehelsen, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordningen ikke lenger enn det som er nødvendig for å nå disse målene.
@@ -1198,7 +1198,7 @@ I denne forordningen menes med
     3. animalske biprodukter og avledede produkter,
 
     ►**M1**
-33. «offentlig kontroll» enhver form for kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)\*,
+33. «offentlig kontroll» enhver form for kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)[^\*],
     ◄**M1**
 34. «helsestatus» sykdomsstatus med hensyn til listeførte sykdommer som er relevante for en bestemt listeført art, når det gjelder
 
@@ -2227,7 +2227,7 @@ Opprettelse av Unionens antigen-, vaksine- og diagnosereagensbanker
 
 ###### Artikkel 49
 
-Tilgang til Unionens antigen-, vaksine- og diagnosereagensbanker\*
+Tilgang til Unionens antigen-, vaksine- og diagnosereagensbanker[^\*]
 
 1\. Kommisjonen skal på anmodning sørge for at Unionens antigen-, vaksine- og diagnosereagensbanker leverer de biologiske produktene nevnt i artikkel 48 nr. 1, forutsatt at de finnes på lager,
 
@@ -4587,7 +4587,7 @@ Godkjenning av næringsmiddelforetak som gjennomfører tiltak for å bekjempe sy
 
 Driftsansvarlige for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal
 
-1. sørge for at den nødvendige godkjenningen i samsvar med artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)62 er innhentet, og
+1. sørge for at den nødvendige godkjenningen i samsvar med artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)[^62] er innhentet, og
 2. søke vedkommende myndighet i samsvar med artikkel 180 nr. 1 om godkjenning til å slakte eller bearbeide akvatiske dyr med henblikk på sykdomsbekjempelse i samsvar med artikkel 61 nr. 1 bokstav b), artikkel 62, artikkel 68 nr. 1, artikkel 79 og 80 samt reglene vedtatt i henhold til artikkel 63, artikkel 70 nr. 3 og artikkel 71 nr. 3.
 
    62 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
@@ -5823,7 +5823,7 @@ Virkeområde for del VI
 
 2\. Den får anvendelse uten hensyn til
 
-1. rådsforordning [(EF) nr. 338/97](eu/31997r0338)63,
+1. rådsforordning [(EF) nr. 338/97](eu/31997r0338)[^63],
 2. eventuelle nasjonale tiltak som medlemsstatene har truffet, offentliggjort og gjort tilgjengelig for offentligheten for å begrense forflytningen av visse arter eller raser av kjæledyr på grunnlag av andre hensyn enn dem som er knyttet til dyrehelsen.
 
    63 Rådsforordning [(EF) nr. 338/97](eu/31997r0338) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem (EFT L 61 av 3.3.1997, s. 1).
@@ -6124,7 +6124,7 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 
 ###### Artikkel 262
 
-Nødtiltak som skal treffes av medlemsstatene når Kommisjonen ikke handler\*\*\*
+Nødtiltak som skal treffes av medlemsstatene når Kommisjonen ikke handler[^\*\*\*]
 
 1\. Dersom en medlemsstat har bedt Kommisjonen om å treffe nødtiltak i samsvar med artikkel 261 og Kommisjonen ikke har gjort det,
 
@@ -6204,9 +6204,9 @@ Komitéprosedyre
 
 Vern av personopplysninger
 
-1\. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046)64 får anvendelse på den behandlingen av personopplysninger som utføres i medlemsstatene i henhold til denne forordningen.
+1\. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046)[^64] får anvendelse på den behandlingen av personopplysninger som utføres i medlemsstatene i henhold til denne forordningen.
 
-2\. Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045)65 får anvendelse på den behandlingen av personopplysninger som utføres av Kommisjonen i henhold til denne forordningen.
+2\. Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045)[^65] får anvendelse på den behandlingen av personopplysninger som utføres av Kommisjonen i henhold til denne forordningen.
 
 64 Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger (EFT L 281 av 23.11.1995, s. 31).
 
@@ -6305,7 +6305,7 @@ Nevnte dato skal være anvendelsesdatoen for de tilsvarende reglene som skal ved
 
 I artikkel 9 nr. 3 i forordning [(EF) nr. 2160/2003](eu/32003r2160) tilføyes følgende:
 
-Disse særlige tiltakene skal omfatte tiltak som bygger på bestemmelsene i vedtak [95/410/EF](eu/31995d0410) i den utgaven som gjaldt før det ble opphevet, og kommisjonsvedtak [2003/644/EF](eu/32003d0644)\* og [2004/235/EF](eu/32004d0235)\*\* i de utgavene som gjaldt på det tidspunktet direktiv [90/539/EØF](eu/31990l0539) ble opphevet.
+Disse særlige tiltakene skal omfatte tiltak som bygger på bestemmelsene i vedtak [95/410/EF](eu/31995d0410) i den utgaven som gjaldt før det ble opphevet, og kommisjonsvedtak [2003/644/EF](eu/32003d0644)[^\*] og [2004/235/EF](eu/32004d0235)[^\*\*] i de utgavene som gjaldt på det tidspunktet direktiv [90/539/EØF](eu/31990l0539) ble opphevet.
 
 \* Kommisjonsvedtak [2003/644/EF](eu/32003d0644) av 8. september 2003 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av avlsfjørfe og daggamle kyllinger som skal settes inn i flokker med avlsfjørfe eller flokker med produksjonsfjørfe (EUT L 228 av 12.9.2003, s. 29).
 
@@ -7742,17 +7742,17 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 8 nr. 2 og artikkel 9 nr. 2, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 8 nr. 2 og artikkel 9 nr. 2, og
 
 ut fra følgende betraktninger:
 
-1. Ved forordning [(EU) 2016/429](eu/32016r0429) fastsettes regler for forebygging og bekjempelse av sykdommer som kan overføres til dyr eller mennesker, blant annet regler for prioritering og kategorisering av listeførte sykdommer som er av betydning på unionsplan. Etter artikkel 5 i forordning [(EU) 2016/429](eu/32016r0429) skal sykdomsspesifikke regler for forebygging og bekjempelse av sykdommer gjelde for de listeførte sykdommene nevnt i nevnte artikkel og i vedlegg II til nevnte forordning. Vedlegg II til forordning [(EU) 2016/429](eu/32016r0429) ble endret ved delegert kommisjonsforordning [(EU) 2018/1629](eu/32018r1629)2, og de endringene gjelder fra 21. april 2021.
+1. Ved forordning [(EU) 2016/429](eu/32016r0429) fastsettes regler for forebygging og bekjempelse av sykdommer som kan overføres til dyr eller mennesker, blant annet regler for prioritering og kategorisering av listeførte sykdommer som er av betydning på unionsplan. Etter artikkel 5 i forordning [(EU) 2016/429](eu/32016r0429) skal sykdomsspesifikke regler for forebygging og bekjempelse av sykdommer gjelde for de listeførte sykdommene nevnt i nevnte artikkel og i vedlegg II til nevnte forordning. Vedlegg II til forordning [(EU) 2016/429](eu/32016r0429) ble endret ved delegert kommisjonsforordning [(EU) 2018/1629](eu/32018r1629)[^2], og de endringene gjelder fra 21. april 2021.
 2. Reglene for forebygging og bekjempelse av listeførte sykdommer bør bare gjelde for arter og grupper av arter som kan overføre slike listeførte sykdommer ved å være mottakelige for dem eller ved å fungere som vektorer.
 3. Listeførte sykdommer krever ulike typer håndteringstiltak, som fastsatt i reglene for forebygging og bekjempelse av sykdommer i artikkel 9 i forordning [(EU) 2016/429](eu/32016r0429), og med hensyn til hvor alvorlig innvirkning de kan ha på folke- eller dyrehelsen, økonomien, samfunnet eller miljøet. Disse tiltakene omfatter alt fra grunnleggende ansvarsområder og forpliktelser, slik som rapportering og melding om forekomst av eller mistanke om en listeført sykdom og utryddelsesprogrammer, til grundige sykdomsspesifikke overvåkings- og utryddelsestiltak i hele Unionen, samt tiltak knyttet til forflytning av dyr og produkter av animalsk opprinnelse innenfor Unionen og ved innførsel av dem til Unionen.
 4. I artikkel 8 nr. 2 og 3 og artikkel 9 nr. 1 og 2 i forordning [(EU) 2016/429](eu/32016r0429) og i dens vedlegg IV er det fastsatt visse kriterier for å listeføre bestemte arter eller grupper av arter som omfattes av reglene for forebygging og bekjempelse av sykdom fastsatt i nevnte forordning, samt metodene for anvendelse av disse reglene på de listeførte sykdommene.
 5. Kommisjonen har med bistand fra Den europeiske myndighet for næringsmiddeltrygghet (EFSA) og med støtte av vitenskapelig kunnskap fra EUs referanselaboratorier for dyrehelse foretatt en systematisk vurdering av listeførte sykdommer som krever inngripen fra Unionens side. Den tok også hensyn til tilgjengelig informasjon fra Verdens dyrehelseorganisasjon.
 6. I den systematiske vurderingen tok Kommisjonen også hensyn til ulike faktorer, slik som arter som er mottakelige for visse listeførte sykdommer, sykdomsreservoarer og sykdomsvektorer, om den listeførte sykdommen forekommer i Unionen for øyeblikket eller ikke, og hvordan den listeførte sykdommen overføres mellom dyr og fra dyr til mennesker, samt dens mulige innvirkning på dyrs og menneskers helse, herunder sykelighet og dødelighet. Den systematiske vurderingen omfattet også den bredere virkningen av disse listeførte sykdommene, for eksempel den innvirkningen de har på økonomien, samfunnet, dyrevelferden, miljøet og det biologiske mangfoldet.
-7. I forbindelse med den systematiske vurderingen avga EFSA vitenskapelige uttalelser om infeksjon med *Brucella abortus*, B. *melitensis* og B. *suis*3, infeksjon med *Mycobacterium tuberculosis*-kompleks (M.*bovis*, M.*caprae* og M.*tuberculosis*)4, infeksjon med blåtungevirus (serotype 1–24)5, miltbrann6, surra (*Trypanosoma evansi*)7, ebolavirussykdom8, paratuberkulose9, japansk encefalitt10, vestnilfeber11, infeksjon med *Mycoplasma mycoides* subsp. *mycoides* SC (ondartet lungesyke hos storfe)12, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt13, bovin virusdiaré14, bovin genital campylobakteriose15, trichomoniasis16, enzootisk bovin leukose17, ondartet lungesyke hos geit18, epididymitt hos sau (*Brucella ovis*)19, venezuelansk encefalomyelitt hos hest20, encefalomyelitt hos hest (østlig og vestlig)21, infeksjon med pseudorabiesvirus22, infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin23, aviær mykoplasma (*Mycoplasma gallisepticum* og M.*meleagridis*)24, infeksjon med *Salmonella* Pullorum, S. *Gallinarum* og S. *arizonae*25, infeksjon med lavpatogen aviær influensa-virus26, infestasjon med *Varroa* spp. (varroatose)27, infeksjon med *Batrachochytrium salamandrivorans*28 og koiherpesvirussykdom29 i samsvar med artikkel 8 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) og dens vedlegg IV, og den fulgte metoden angitt i dens vitenskapelige uttalelse vedtatt 5. april 2017 om en ad hoc-metode for vurdering av listeføring og kategorisering av dyresykdommer innenfor rammen av dyrehelseforordningen30.
+7. I forbindelse med den systematiske vurderingen avga EFSA vitenskapelige uttalelser om infeksjon med *Brucella abortus*, B. *melitensis* og B. *suis*[^3], infeksjon med *Mycobacterium tuberculosis*-kompleks (M.*bovis*, M.*caprae* og M.*tuberculosis*)[^4], infeksjon med blåtungevirus (serotype 1–24)[^5], miltbrann[^6], surra (*Trypanosoma evansi*)[^7], ebolavirussykdom[^8], paratuberkulose[^9], japansk encefalitt[^10], vestnilfeber[^11], infeksjon med *Mycoplasma mycoides* subsp. *mycoides* SC (ondartet lungesyke hos storfe)[^12], infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt[^13], bovin virusdiaré[^14], bovin genital campylobakteriose[^15], trichomoniasis[^16], enzootisk bovin leukose[^17], ondartet lungesyke hos geit[^18], epididymitt hos sau (*Brucella ovis*)[^19], venezuelansk encefalomyelitt hos hest[^20], encefalomyelitt hos hest (østlig og vestlig)[^21], infeksjon med pseudorabiesvirus[^22], infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin[^23], aviær mykoplasma (*Mycoplasma gallisepticum* og M.*meleagridis*)[^24], infeksjon med *Salmonella* Pullorum, S. *Gallinarum* og S. *arizonae*[^25], infeksjon med lavpatogen aviær influensa-virus[^26], infestasjon med *Varroa* spp. (varroatose)[^27], infeksjon med *Batrachochytrium salamandrivorans*[^28] og koiherpesvirussykdom[^29] i samsvar med artikkel 8 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) og dens vedlegg IV, og den fulgte metoden angitt i dens vitenskapelige uttalelse vedtatt 5. april 2017 om en ad hoc-metode for vurdering av listeføring og kategorisering av dyresykdommer innenfor rammen av dyrehelseforordningen[^30].
 8. Ettersom forordning [(EU) 2016/429](eu/32016r0429) får anvendelse fra 21. april 2021, bør tiltakene fastsatt i denne forordningen også få anvendelse fra nevnte dato.
 9. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 

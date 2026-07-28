@@ -15,7 +15,7 @@ xml_hash: "286ec00422442a289eb011bb25dd2a370082ff92ec9a0e417889475a6e9837df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -293,7 +293,7 @@ Bestemmelsene om utlevering i kapitlene I, II og IV og bestemmelsene i samband m
 
 ### § 28
 
-1. Loven trer i kraft fra den tid Kongen bestemmer.1
+1. Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 2. Kongen kan gi nærmere bestemmelser til gjennomføring av loven.
 3. Fra lovens ikrafttreden oppheves – – –.
 

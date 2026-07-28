@@ -15,7 +15,7 @@ xml_hash: "bb35ca39f805c60d9e86b5791be7ecfc009c7d86b9c386283a6ef2a7fc2c82e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Ved avgifter som pålegges etter denne lov, opprettes et fond. Fondet skal brukes til støtte for komponister som bor og hovedsakelig har sitt virke i Norge, deres etterlatte og andre formål til fremme av norsk skapende tonekunst.
 
-Departementet kan gi nærmere bestemmelser om tildeling av støtte etter denne lov.1
+Departementet kan gi nærmere bestemmelser om tildeling av støtte etter denne lov.[^1]
 
 > Endret ved [lov 4 des 1992 nr. 128](lov/1992-12-04-128).
 

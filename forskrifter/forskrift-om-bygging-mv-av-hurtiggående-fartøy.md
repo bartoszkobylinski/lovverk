@@ -15,7 +15,7 @@ xml_hash: "82bbf60c588d304f917176cf5b7ad45e476e83a32c67b8296aa5a684a714c1d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ eu_basis: []
 
 skal bygges, utrustes og drives i henhold til HSC2000-koden.
 
-(4) For eksisterende hurtiggående passasjerfartøy1 med lengde (L) 24 m eller mer i innenriks fart og som kan oppnå en hastighet på 20 knop eller mer gjelder følgende:
+(4) For eksisterende hurtiggående passasjerfartøy[^1] med lengde (L) 24 m eller mer i innenriks fart og som kan oppnå en hastighet på 20 knop eller mer gjelder følgende:
 
 1. Hurtiggående passasjerfartøy som er bygd eller som det er foretatt større reparasjoner, forandringer eller ombygging av, på eller etter 1. januar 1996, men ikke senere 14. februar 2012, skal oppfylle kravene i HSC94-koden med mindre:
 
@@ -186,7 +186,7 @@ forutsatt at følgende vilkår er oppfylt:
 1. Sjøfartsdirektoratet er overbevist om at det definerte området er representert med den signifikante bølgehøyden (hs ) som ikke overskrides med en sannsynlighet på mer enn 10%, og
 2. fartsområdet, og eventuelt den del av året som en viss verdi for signifikant bølgehøyde (hs ) er fastsatt for, er oppført i sertifikatene.
 
-(6) Som (et) alternativ til kravene i tredje eller femte ledd kan Sjøfartsdirektoratet gi fritak fra disse kravene og godta verifikasjon utarbeidet med modellforsøk for et enkelt skip i samsvar med modellforsøksmetoden,2 som viser at skipet ikke vil kantre med det antatte skadeomfanget fastsatt i regel II-1/B/8.4 på det verste stedet vurdert i henhold til tredje ledd i en uregelmessig sjøgang.
+(6) Som (et) alternativ til kravene i tredje eller femte ledd kan Sjøfartsdirektoratet gi fritak fra disse kravene og godta verifikasjon utarbeidet med modellforsøk for et enkelt skip i samsvar med modellforsøksmetoden,[^2] som viser at skipet ikke vil kantre med det antatte skadeomfanget fastsatt i regel II-1/B/8.4 på det verste stedet vurdert i henhold til tredje ledd i en uregelmessig sjøgang.
 
 (7) Henvisning til godkjenning av resultatene fra modellforsøket som likeverdig med overholdelse av tredje eller femte ledd og verdien av den signifikante bølgehøyden (hs ) brukt i modellforsøkene skal være påført skipets sertifikater.
 
@@ -213,7 +213,7 @@ forutsatt at følgende vilkår er oppfylt:
    - Slike lenseporter skal være utstyrt med lukkeinnretninger eller klaffer for å hindre vann i å trenge inn på roro-dekket, mens de tillater at vann som samler seg på roro-dekket, lenses.
 6. Når et skott over roro-dekket antas å være skadet, skal begge rommene som grenser til skottet antas å være fylt til det samme vannivået som beregnet i tredje eller femte ledd.
 
-(10) Ved bestemmelse av signifikant bølgehøyde skal den bølgehøyde som fremgår av kartene i vedlegg 13 til forskriften her legges til grunn.
+(10) Ved bestemmelse av signifikant bølgehøyde skal den bølgehøyde som fremgår av kartene i vedlegg 1[^3] til forskriften her legges til grunn.
 
 (11) For hurtiggående roro-passasjerfartøy som utelukkende trafikkerer havområder hvor den signifikante bølgehøyde er 1,5 m eller lavere, anses kravene i Sjøsikkerhetskonvensjonen regel II-1/B/8 som nevnt i første ledd som ekvivalent til de særlige stabilitetskrav som er fastsatt i paragrafen her.
 
@@ -221,7 +221,7 @@ forutsatt at følgende vilkår er oppfylt:
 
 (13) Ved anvendelse av kravene i paragrafen her, skal Sjøfartsdirektoratet følge retningslinjene som er fastsatt i vedlegg II (Retningslinjer for nasjonale myndigheter) til direktiv [2003/25/EF](eu/32003l0025) av 14. april 2003 om særlige stabilitetskrav for roro-passasjerskip, endret ved direktiv [2005/12/EF](eu/32005l0012) av 18. februar 2005.
 
-(14) For hurtiggående roro-passasjerfartøy som skal gå i rutefart i andre områder enn de som dekkes av kartene i vedlegg 13 , jf. [§ 8C](forskrift/1998-01-05-6/§8c), skal en signifikant bølgehøyde på 4 meter legges til grunn med mindre det kan dokumenteres at en mindre signifikant bølgehøyde kan legges til grunn.
+(14) For hurtiggående roro-passasjerfartøy som skal gå i rutefart i andre områder enn de som dekkes av kartene i vedlegg 1[^3] , jf. [§ 8C](forskrift/1998-01-05-6/§8c), skal en signifikant bølgehøyde på 4 meter legges til grunn med mindre det kan dokumenteres at en mindre signifikant bølgehøyde kan legges til grunn.
 
 (15) Når det foretas modellforsøk, skal disse utføres i samsvar med vedlegg 2.
 
@@ -366,7 +366,7 @@ forutsatt at følgende vilkår er oppfylt:
 
 ### § 18. Besiktelse av elektriske anlegg
 
-(1) Ved begjæring om besiktelse av elektriske anlegg1 med spenning høyere enn 50 V gjelder følgende:
+(1) Ved begjæring om besiktelse av elektriske anlegg[^1] med spenning høyere enn 50 V gjelder følgende:
 
 1. For besiktelse av nye anlegg om bord i hurtiggående fartøy som bygges i Norge, sendes begjæring om besiktelse til Direktoratet for brann- og elsikkerhet (DBE). Ved bygging i utlandet sendes begjæring om besiktelse til Sjøfartsdirektoratet.
 2. Når anlegget er ferdig installert og eventuelle pålegg er etterkommet, utferdiger DBE en tilsynserklæring som skal oppbevares om bord sammen med sertifikatene.
@@ -410,10 +410,10 @@ forutsatt at følgende vilkår er oppfylt:
 
 (3) For hurtiggående roro-passasjerfartøy som skal oppfylle kravene i [§ 8](forskrift/1998-01-05-6/§8) skal det utstedes et vedlegg til operasjonstillatelsen. Av vedlegget skal det framgå opp til hvilken signifikant bølgehøyde skipet kan oppfylle de særlige stabilitetskravene som fastsatt i [§ 8](forskrift/1998-01-05-6/§8). Vedlegget er gyldig så lenge skipet trafikkerer et område med tilsvarende eller lavere signifikant bølgehøyde.
 
-(4) Fartøy med gyldig sikkerhetssertifikat for hurtiggående fartøy1 kan under forflytning gå utenfor operasjonsområdet angitt i operasjonstillatelsen under forutsetning av at:
+(4) Fartøy med gyldig sikkerhetssertifikat for hurtiggående fartøy[^1] kan under forflytning gå utenfor operasjonsområdet angitt i operasjonstillatelsen under forutsetning av at:
 
 1. øvrige begrensninger i operasjonstillatelsen er overholdt
-2. reisen foregår i innenriks fart2 uten passasjerer og last
+2. reisen foregår i innenriks fart[^2] uten passasjerer og last
 3. det er innsendt seilingsplan for forflytningen slik at bemanningen kan vurderes.
 
 > Endret ved [forskrifter 28 mars 2000 nr. 307](forskrift/2000-03-28-307) (i kraft 1 mai 2000), [4 juni 2002 nr. 618](forskrift/2002-06-04-618) (tidligere § 15), [2 des 2004 nr. 1560](forskrift/2004-12-02-1560), [2 jan 2006 nr. 1714](forskrift/2006-01-02-1714), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
@@ -646,7 +646,7 @@ Kystområdene skal anses å ha signifikante bølgehøyder på mindre enn 1,5 m m
 
 (Kart 1)
 
-(Kart er utelatt.)1
+(Kart er utelatt.)[^1]
 
 Merknad:
 
@@ -654,7 +654,7 @@ Bølgehøydene oppgitt på dette kartet er de signifikante bølgehøydene (Hs) s
 
 (Kart 2)
 
-(Kart er utelatt.)1
+(Kart er utelatt.)[^1]
 
 Merknad:
 

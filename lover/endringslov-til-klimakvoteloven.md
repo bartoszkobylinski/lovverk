@@ -15,7 +15,7 @@ xml_hash: "ebf6a90ea48cc03e7479a751b7e34ca60500dd699976ec86f8a207902c9e2259"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,9 +34,9 @@ Ny § 21 a skal lyde:
 
 Loven trer i kraft straks med følgende unntak:
 
-For luftfartsaktiviteter gjelder [§ 4](lov/2004-12-17-99/§4) fra 1. januar 2012 og § 131 første ledd fra 1. januar 2013.
+For luftfartsaktiviteter gjelder [§ 4](lov/2004-12-17-99/§4) fra 1. januar 2012 og § 13[^1] første ledd fra 1. januar 2013.
 
-§ 21 a2 gjelder fra den tid Kongen bestemmer.
+§ 21 a[^2] gjelder fra den tid Kongen bestemmer.
 
 1 Inkurie: Ved [endringslov 25 mai 2012 nr. 29](lov/2012-05-25-29) er bestemmelsene i § 13 flyttet til § 12 og endret slik at luftfartsaktiviteter ikke lenger er nevnt særskilt. Det er dermed uklart om denne ikrafttredelsesbestemmelsen har noen mening.
 

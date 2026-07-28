@@ -17,7 +17,7 @@ xml_hash: "be34b13e237a876ed283682e855e88e58326af3def4038847f39392bc1f4b6af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -123,7 +123,7 @@ Nødvendige tiltak innebærer også kontroll av all dokumentasjon og kontroll me
 
 > Endret ved [forskrift 28 mars 2001 nr. 358](forskrift/2001-03-28-358), tidligere § 8.
 
-### § 8. Plikt til å føre register over behandling med veterinærpreparater1
+### § 8. Plikt til å føre register over behandling med veterinærpreparater[^1]
 
 Den som er ansvarlig for virksomhet omfattet av dette kapittel, skal føre tilsyn over dato for og art av behandlinger med veterinærpreparater som er foretatt på produksjonsdyr og fisk. Reseptene utskrevet for behandling skal oppbevares som dokumentasjon i fem år.
 

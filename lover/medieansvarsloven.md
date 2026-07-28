@@ -15,7 +15,7 @@ xml_hash: "92563df8a3109cc6b31189ebe5c3f63585d838f068c3cd1203f37189b2b5a48f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -115,7 +115,7 @@ Redaktøren, eller den som handler på vegne av redaktøren, kan ikke holdes ans
 
 ### § 14. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Fra den tid loven trer i kraft, oppheves [lov 13. juni 2008 nr. 41](lov/2008-06-13-41) om redaksjonell fridom i media.
 

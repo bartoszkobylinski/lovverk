@@ -15,7 +15,7 @@ xml_hash: "61d22e7f5fd3db9c66aa5f40193f84a639add22bbea5449fa54167e6602cbd85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -540,7 +540,7 @@ Når vilkårene etter første ledd er oppfylt, fastsettes erstatningen for tap i
 Kongen fastsetter ved forskrift hva som regnes som igangværende bruk for virksomhet i henhold til
 
 1. utvinningstillatelse etter [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet (petroleumsloven),
-2. utmål etter [lov 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk (bergverksloven)1,
+2. utmål etter [lov 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk (bergverksloven)[^1],
 3. [mineralloven](lov/2009-06-19-101).
 
 1 Inkurie: Loven er opphevet, se [mineralloven](lov/2009-06-19-101).
@@ -830,7 +830,7 @@ Dersom en overtredelse av en eller flere av bestemmelsene som nevnt i første le
 
 ### § 76. (ikrafttreden)
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan fastsette at loven skal tre i kraft til forskjellig tid for forskjellige bestemmelser eller forskjellige grupper av organismer.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan fastsette at loven skal tre i kraft til forskjellig tid for forskjellige bestemmelser eller forskjellige grupper av organismer.
 
 1 Fra 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704) med unntak av kapittel IV og § 78 nr. 7, endringene i [viltloven § 26](lov/1981-05-29-38/§26) nr. 9 og [§ 47](lov/1981-05-29-38/§47), nr. 8, endringene i lakse- og [innlandsfiskeloven § 8](lov/1992-05-15-47/§8) og [§ 9](lov/1992-05-15-47/§9) og nr. [15](lov/1992-05-15-47/§15), endringen i havressursloven [§ 7](lov/1992-05-15-47/§7). Ved [res. 7 jan 2011 nr. 10](forskrift/2011-01-07-10) er nr. 15, endringen i [havressursloven § 7](lov/2008-06-06-37/§7), satt ikr. 1 feb 2011. Ved [res. 25 jan 2013 nr. 72](forskrift/2013-01-25-72) er § 28, § 30, § 31 og § 32 satt ikr. 1 juli 2012 for utenlandske treslag. Ved res. 18 des 2015 nr. 1583 er kapittel IV samt [§ 78](lov/2009-06-19-100/§78) nr. 8 og den delen av [§ 78](lov/2009-06-19-100/§78) nr. 7 som gjelder oppheving av viltloven [§ 47](lov/2009-06-19-100/§47) satt ikr. 1 jan 2016.
 

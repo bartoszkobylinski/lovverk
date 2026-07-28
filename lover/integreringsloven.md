@@ -15,7 +15,7 @@ xml_hash: "ee18fa7229c9952774ea22e407350e491222e18b0ae01c82ccceafde3739d8f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -658,7 +658,7 @@ Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, pr
 
 ### § 51. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Fra samme tidspunkt oppheves [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere.
 
 > Endret ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871), tidligere § 50).
 

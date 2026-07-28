@@ -15,7 +15,7 @@ xml_hash: "77c830072e949657499623a7ed95967010ec2d018563eb8651ca1a27318387b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -311,7 +311,7 @@ I [lov av 18. august 1911 nr. 8](lov/1911-08-18-8) om skatt av formue og inntekt
 
 ### § 31. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 [§ 23](lov/1997-05-09-26/§23) (endring i skatteloven § 26 første ledd bokstav e) skal gjelde fra og med inntektsåret 1997.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] [§ 23](lov/1997-05-09-26/§23) (endring i skatteloven § 26 første ledd bokstav e) skal gjelde fra og med inntektsåret 1997.
 
 Kongen kan fastsette nærmere overgangsregler.
 

@@ -15,7 +15,7 @@ xml_hash: "6c942c4ffa5b3accf024f4836eb35cfe3602f3889dcc943dd93d22aa9ed3751c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -428,7 +428,7 @@ Kongen kan gje forskrift om mellom anna:
 
 ### § 42. Ikraftsetjing
 
-Lova gjeld frå den tid Kongen fastset.1
+Lova gjeld frå den tid Kongen fastset.[^1]
 
 Kongen kan setje i kraft dei ulike reglane til ulik tid. Frå same tid vert [lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon mv. oppheva.
 

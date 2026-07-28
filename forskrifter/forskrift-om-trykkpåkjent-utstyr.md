@@ -16,7 +16,7 @@ xml_hash: "f2f5994721c41142dd8a41c030e4e496ea3c5cf44c019b109eb8c6552e1bfb4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2444,7 +2444,7 @@ Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er
 
 Produsentens representant kan inngi søknaden nevnt i nr. 4.1 og 4.2 og oppfylle forpliktelsene i nr. 3.1, 3.5, 4.4, 4.6, 6 og 7, på produsenten vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
-## Vedlegg IV. Samsvarserklæring (nr. xxxx)1
+## Vedlegg IV. Samsvarserklæring (nr. xxxx)[^1]
 
 1. Trykkpåkjent utstyr/sammenstilling (produkt-, type-, parti- eller serienummer):
 2. Navn og adresse til produsenten og eventuelt dennes representant:

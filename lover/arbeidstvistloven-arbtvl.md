@@ -15,7 +15,7 @@ xml_hash: "1d50dcccea9e1cf0c69544faac4ca8b88564e4316320c9de5e1b5523e2b28887"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -572,7 +572,7 @@ For åpenbart grunnløs anke kan Høyesteretts ankeutvalg ilegge bøter og omkos
 
 ### § 64. Ikraftsetting
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra den tid loven trer i kraft, oppheves [lov 5. mai 1927 nr. 1](lov/1927-05-05-1) om arbeidstvister.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra den tid loven trer i kraft, oppheves [lov 5. mai 1927 nr. 1](lov/1927-05-05-1) om arbeidstvister.
 
 1 Fra 1 mars 2012 iflg. [res. 27 jan 2012 nr. 71](forskrift/2012-01-27-71).
 

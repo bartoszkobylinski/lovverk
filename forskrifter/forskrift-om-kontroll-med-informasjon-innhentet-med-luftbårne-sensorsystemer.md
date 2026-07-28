@@ -15,7 +15,7 @@ xml_hash: "e9fa09cc1f01332b359990adbcb2c088a72c0d932ff94f82106efdc6d13dd44d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,7 @@ For utenlandske luftfartøyer som skal anvende luftbårne sensorsystemer over no
 
 Bruk av luftbårne sensorsystemer over et forbudsområde, forutsetter innvilget søknad om tillatelse fra Nasjonal sikkerhetsmyndighet for det enkelte oppdrag. Det samme gjelder for innhenting av informasjon om et forbudsområde ved å bruke luftbårne fotosensorer utenfor det aktuelle området.
 
-Tillatelse etter første ledd kan gis til forvaltningsorganer1 og operatørselskap som har leverandørklarering på nivå KONFIDENSIELT eller høyere.
+Tillatelse etter første ledd kan gis til forvaltningsorganer[^1] og operatørselskap som har leverandørklarering på nivå KONFIDENSIELT eller høyere.
 
 Nasjonal sikkerhetsmyndighet kan gi dispensasjon til å bruke luftbårne sensorsystemer innenfor et forbudsområde. Dispensasjon kan kun gis dersom det innhentes UGRADERT informasjon og Nasjonal sikkerhetsmyndighet har innhentet samtykke fra objekt- eller områdeeier til å gi slik dispensasjon. Dispensasjonen skal avgrenses i tid og kan kun gjelde for et avgrenset og bestemt angitt del av forbudsområdet.
 

@@ -15,7 +15,7 @@ xml_hash: "dbe7b7efb9e793312a5747900ce0351f65b1837e1daf217f3f9f3ec70a95274a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,6 +142,6 @@ Avgiften kan inndrives ved utpantning (lov av 24. mai 1929 om tilsyn med elektri
 
 Nærværende regulativ trer i kraft 1. januar 1988.
 
-Samtidig oppheves regulativ fastsatt ved kgl.res. av 25. november 1983.1
+Samtidig oppheves regulativ fastsatt ved kgl.res. av 25. november 1983.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend.

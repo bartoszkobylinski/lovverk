@@ -15,7 +15,7 @@ xml_hash: "e4a17d0dd522ffe190fdd0088b1c74a429c57c242244bbafa2a528e59d07ec48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1515,7 +1515,7 @@ Når kjennelsen om stadfestelse er rettskraftig, skal retten dekke massekravene 
 
 ### § 179. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Fra den tid loven trer i kraft, oppheves [lov 21. februar 1930](lov/1930-02-21) om skifte og [lov 3. mars 1972 nr. 5](lov/1972-03-03-5) om arv m.m. Forskrifter gitt i medhold av [lov 3. mars 1972 nr. 5](lov/1972-03-03-5) om arv m.m. gjelder også etter at loven her har trådt i kraft.
 

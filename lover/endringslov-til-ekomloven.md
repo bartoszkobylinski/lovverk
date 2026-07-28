@@ -15,7 +15,7 @@ xml_hash: "3709ae2c20d41f171530cc5daec07f4a59dd99d8b02028c1a2b1a74f62208503"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,6 +44,6 @@ Nåværende fjerde ledd blir nytt åttende ledd.
 
 ## II
 
-Loven her gjelder fra den tid1 Kongen bestemmer.
+Loven her gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 15 jan 2008 iflg. [res. 11 jan 2008 nr. 8](forskrift/2008-01-11-8), med unntak av endringene i § 6-2.

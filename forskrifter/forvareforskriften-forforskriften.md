@@ -16,7 +16,7 @@ xml_hash: "a36fc2df5bd1329511897d98e4cdadc7af92142235cb8c4aef52acceb1ff6a7e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ I denne forskriften menes med:
 3. *Diettfôr (fôrvarer med særlige ernæringsformål):* Fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess, kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv [90/167/EØF](eu/31990l0167*).
 4. *Dyr:* Dyrearter som mennesker normalt fôrer og holder eller anvender til konsum samt dyr som lever fritt i naturen dersom de fôres med fôrvarer.
 5. *Fôrblanding:* Blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet til ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr.
-6. *Fôrmiddel:*1 Produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser.
+6. *Fôrmiddel:*[^1] Produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser.
 7. *Fôrvare (fôr eller dyrefôr):* Alle stoffer eller produkter, herunder tilsetningsstoffer, uansett om de er bearbeidet, delvis bearbeidet eller ubearbeidet, som er beregnet til fôring av dyr, herunder også levende fôr til akvatiske dyr.
 8. *Fullfôr:* En blanding av fôrvarer som på grunn av sin sammensetning er tilstrekkelig til å dekke dyrets dagsbehov.
 9. *Gen:* En DNA-sekvens som koder for et funksjonelt polypeptid, protein eller RNA-molekyl.
@@ -61,7 +61,7 @@ I denne forskriften menes med:
 16. *Premikser:* Blandinger av tilsetningsstoffer eller blandinger av ett eller flere tilsetningsstoffer med fôrmiddel eller vann som er brukt som bærestoffer, som ikke er ment for direkte fôring til dyr.
 17. *Dyr bestemt til matproduksjon*: Alle dyr som fôres, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men tilhører arter som normalt brukes til konsum i Fellesskapet.
 18. *Risikofôrvarer:* Fôrvarer hvor det er en forhøyet sannsynlighet for innhold av salmonella.
-19. *Råvare:* Se fôrmiddel.1
+19. *Råvare:* Se fôrmiddel.[^1]
 20. *Særlige ernæringsformål:* formålet å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessig for deres tilstand.
 21. *Tilsetningsstoff:* Stoffer, mikroorganismer eller andre preparater enn fôrmidler eller premikser, som med hensikt tilsettes fôrvarer eller vann for særskilt å oppfylle en eller flere av følgende funksjoner:
 
@@ -293,16 +293,16 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 
 | *Uønskede stoffer* | *Produkter beregnet til fôrvarer* | *Øvre grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
 | --- | --- | --- |
-| 1. Arsen1 | Fôrmidler, | 2 |
+| 1. Arsen[^1] | Fôrmidler, | 2 |
 |  | med unntak av: |  |
 |  | – mel av gress, av tørket luserne og av tørket kløver, samt tørket sukkerbetemasse og tørket melasse av sukkerbetemasse | 4 |
-|  | – palmekjerneekspeller | 42 |
-|  | – torv, leonarditt | 52 |
+|  | – palmekjerneekspeller | 4[^2] |
+|  | – torv, leonarditt | 5[^2] |
 |  | – fosfater, kalkholdige havalger | 10 |
-|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat,10 kalkholdige skall av marine skjell | 15 |
+|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat,[^10] kalkholdige skall av marine skjell | 15 |
 |  | – magnesiumoksid, magnesiumkarbonat | 20 |
-|  | – fisk, andre akvatiske dyr og produkter framstilt av disse | 252 |
-|  | – makroalgemel og fôrmidler framstilt av makroalger | 402 |
+|  | – fisk, andre akvatiske dyr og produkter framstilt av disse | 25[^2] |
+|  | – makroalgemel og fôrmidler framstilt av makroalger | 40[^2] |
 |  | Jernpartikler brukt som sporstoff | 50 |
 |  | Fôrtilsetningsstoffer som tilhører funksjonsgruppen forbindelser av sporstoffer, | 30 |
 |  | med unntak av: |  |
@@ -311,12 +311,12 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 |  | Tilskuddsfôr, | 4 |
 |  | med unntak av: |  |
 |  | – mineralfôr | 12 |
-|  | – tilskuddsfôr som er til kjæledyr, og som inneholder fisk, andre akvatiske dyr og produkter framstilt av disse og/eller makroalgemel og fôrmidler framstilt av makroalger | 102 |
+|  | – tilskuddsfôr som er til kjæledyr, og som inneholder fisk, andre akvatiske dyr og produkter framstilt av disse og/eller makroalgemel og fôrmidler framstilt av makroalger | 10[^2] |
 |  | – sammensetninger av fôr med særlige ernæringsformål som frigis over lang tid, med en konsentrasjon av sporstoffer som er høyere enn 100 ganger den fastsatte øvre grenseverdien for fullfôr | 30 |
 |  | Fullfôr, | 2 |
 |  | med unntak av: |  |
-|  | – fullfôr til fisk og pelsdyr | 102 |
-|  | – fullfôr som er til kjæledyr, og som inneholder fisk, andre akvatiske dyr og produkter framstilt av disse og/eller makroalgemel og fôrmidler framstilt av makroalger | 102 |
+|  | – fullfôr til fisk og pelsdyr | 10[^2] |
+|  | – fullfôr som er til kjæledyr, og som inneholder fisk, andre akvatiske dyr og produkter framstilt av disse og/eller makroalgemel og fôrmidler framstilt av makroalger | 10[^2] |
 | 2. Kadmium | Fôrmidler av vegetabilsk opprinnelse | 1 |
 |  | Fôrmidler av animalsk opprinnelse | 2 |
 |  | Fôrmidler av mineralsk opprinnelse, | 2 |
@@ -326,30 +326,30 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 |  | med unntak av: |  |
 |  | – kobberoksid, mangan(II)oksid, sinkoksid og mangansulfat, monohydrat | 30 |
 |  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 2 |
-|  | Premikser6 | 15 |
+|  | Premikser[^6] | 15 |
 |  | Tilskuddsfôr, | 0,5 |
 |  | med unntak av: |  |
 |  | – mineralfôr |  |
-|  | – – som inneholder < 7 % fosfor8 | 5 |
-|  | – – som inneholder ≥ 7 % fosfor8 | 0,75 per 1 % fosfor,8 høyst 7,5 |
+|  | – – som inneholder < 7 % fosfor[^8] | 5 |
+|  | – – som inneholder ≥ 7 % fosfor[^8] | 0,75 per 1 % fosfor,[^8] høyst 7,5 |
 |  | – – tilskuddsfôr til kjæledyr | 2 |
 |  | – – Diettfôr, som avgir næringsstoffer over lang tid (bolus), til spesielle ernæringsmessige formål og har en konsentrasjon av mikromineraler over 100 ganger fastsatt maksimumsverdi for innhold i fullfôr | 15 |
 |  | Fullfôr, | 0,5 |
 |  | med unntak av: |  |
 |  | – fullfôr til storfe (med unntak av kalver), sauer (med unntak av lam), geiter (med unntak av kje) og fisk | 1 |
 |  | – fullfôr til kjæledyr | 2 |
-| 3. Fluor7 | Fôrmidler, | 150 |
+| 3. Fluor[^7] | Fôrmidler, | 150 |
 |  | med unntak av: |  |
 |  | – fôrmidler av animalsk opprinnelse, med unntak av marine krepsdyr som f.eks. krill og kalkholdige marine skjell | 500 |
 |  | – marine krepsdyr som f.eks. marin krill | 3000 |
 |  | – fosfater | 2000 |
-|  | – kalsiumkarbonat; kalsium- og magnesiumkarbonat10 | 350 |
+|  | – kalsiumkarbonat; kalsium- og magnesiumkarbonat[^10] | 350 |
 |  | – magnesiumoksid | 600 |
 |  | – kalkholdige marine alger | 1 250 |
 |  | Vermikulitt (E 561) | 3000 |
 |  | Tilskuddsfôr |  |
-|  | – som inneholder ≤ 4 % fosfor8 | 500 |
-|  | – som inneholder > 4 % fosfor8 | 125 per 1 % fosfor8 |
+|  | – som inneholder ≤ 4 % fosfor[^8] | 500 |
+|  | – som inneholder > 4 % fosfor[^8] | 125 per 1 % fosfor[^8] |
 |  | Fullfôr, | 150 |
 |  | med unntak av: |  |
 |  | – fullfôr til svin, | 100 |
@@ -358,11 +358,11 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 |  | – fullfôr til storfe, sauer og geiter |  |
 |  | – – i laktasjon | 30 |
 |  | – – andre | 50 |
-| 4. Bly12 | Fôrmidler, | 10 |
+| 4. Bly[^12] | Fôrmidler, | 10 |
 |  | med unntak av: |  |
-|  | – grøntfôr3 | 30 |
+|  | – grøntfôr[^3] | 30 |
 |  | – fosfater, kalkholdige havalger og kalkholdige skall av marine skjell | 15 |
-|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat10 | 20 |
+|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat[^10] | 20 |
 |  | – gjær | 5 |
 |  | Fôrtilsetningsstoffer som tilhører funksjonsgruppen forbindelser av sporstoffer, | 100 |
 |  | med unntak av: |  |
@@ -371,24 +371,24 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 |  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler, | 30 |
 |  | med unntak av: |  |
 |  | – klinoptilolitt av vulkansk opprinnelse, natrolitt-fonolitt | 60 |
-|  | Premikser6 | 200 |
+|  | Premikser[^6] | 200 |
 |  | Tilskuddsfôr, | 10 |
 |  | med unntak av: |  |
 |  | – mineralfôr | 15 |
 |  | – sammensetninger av fôr med særlige ernæringsformål som frigis over lang tid, med en konsentrasjon av sporstoffer som er høyere enn 100 ganger den fastsatte øvre grenseverdien for fullfôr | 60 |
 |  | Fullfôr | 5 |
-| 5. Kvikksølv4 | Fôrmidler, | 0,1 |
+| 5. Kvikksølv[^4] | Fôrmidler, | 0,1 |
 |  | med unntak av: |  |
 |  | – fisk, andre akvatiske dyr og produkter framstilt av disse, som er beregnet på produksjon av fôrblandinger til dyr bestemt til næringsmiddelproduksjon | 0,5 |
-|  | – fisk, andre akvatiske dyr og produkter framstilt av disse, som er beregnet på produksjon av fôrblandinger til hunder, katter, prydfisk og pelsdyr | 1,013 |
+|  | – fisk, andre akvatiske dyr og produkter framstilt av disse, som er beregnet på produksjon av fôrblandinger til hunder, katter, prydfisk og pelsdyr | 1,0[^13] |
 |  | – fisk, andre akvatiske dyr og produkter framstilt av disse som våtfôrmidler på boks til direkte fôring av hunder og katter | 0,3 |
-|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat10 | 0,3 |
+|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat[^10] | 0,3 |
 |  | Fôrblandinger, | 0,1 |
 |  | med unntak av: |  |
 |  | – mineralfôr | 0,2 |
 |  | – fôrblandinger til fisk | 0,2 |
 |  | – fôrblandinger til hunder, katter, prydfisk og pelsdyr | 0,3 |
-| 6. Nitritt5 | Fôrmidler, | 15 |
+| 6. Nitritt[^5] | Fôrmidler, | 15 |
 |  | med unntak av: |  |
 |  | – fiskemel | 30 |
 |  | – ensilasje | – |
@@ -396,9 +396,9 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 |  | Fullfôr, | 15 |
 |  | med unntak av: |  |
 |  | – fullfôr til hunder og katter og med vanninnhold på over 20 % | – |
-| 7. Melamin9 | Fôr | 2,5 |
+| 7. Melamin[^9] | Fôr | 2,5 |
 |  | med unntak av |  |
-|  | – boksefôr til kjæledyr, | 2,511 |
+|  | – boksefôr til kjæledyr, | 2,5[^11] |
 |  | – følgende fôrtilsetningsstoffer: |  |
 |  | – guanidineddiksyre, | 20 |
 |  | – urea, | – |
@@ -470,8 +470,8 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 | 4. Vinyltiooxazolidon (5-vinyloxazolidin-2-tion) | Fullfôr til fjørfe, | 1000 |
 |  | med unntak av: |  |
 |  | – fullfôr til verpehøner | 500 |
-| 5. Flyktig sennepsolje1 | Fôrmidler, | 100 |
-|  | med unntak av:<br>– camelina sativa og avledede produkter,\* produkter avledet av sennepsfrø,\* rapsfrø og avledede produkter | 4000 |
+| 5. Flyktig sennepsolje[^1] | Fôrmidler, | 100 |
+|  | med unntak av:<br>– camelina sativa og avledede produkter,[^\*] produkter avledet av sennepsfrø,[^\*] rapsfrø og avledede produkter | 4000 |
 |  | Fullfôr, | 150 |
 |  | med unntak av: |  |
 |  | – fullfôr til storfe (med unntak av kalver), sauer (med unntak av lam) og geiter (med unntak av kje) | 1000 |
@@ -485,11 +485,11 @@ Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fort
 
 | *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
 | --- | --- | --- |
-| 1. Aldrin1 | Fôrmidler og fôrblandinger, | 0,012 |
-| 2. Dieldrin1 | med unntak av: |  |
-|  | – fett og olje | 0,12 |
-|  | – fôrblandinger til fisk | 0,022 |
-| 3. Kamfeklor (toksafen) – summen av indikatorforbindelsene CHB 26, 50 og 623 | Fisk, andre vanndyr samt produkter av disse, | 0,02 |
+| 1. Aldrin[^1] | Fôrmidler og fôrblandinger, | 0,01[^2] |
+| 2. Dieldrin[^1] | med unntak av: |  |
+|  | – fett og olje | 0,1[^2] |
+|  | – fôrblandinger til fisk | 0,02[^2] |
+| 3. Kamfeklor (toksafen) – summen av indikatorforbindelsene CHB 26, 50 og 62[^3] | Fisk, andre vanndyr samt produkter av disse, | 0,02 |
 |  | med unntak av: |  |
 |  | – fiskeolje | 0,2 |
 |  | Fullfôr til fisk | 0,05 |
@@ -539,9 +539,9 @@ CHB 50: 2-endo,3-ekso,5-endo,6-ekso,8,8,9,10,10-nonaklorbornan, CHB 62: 2,2,5,5,
 
 *Del V: Dioksiner og pcb*
 
-| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i ng WHO-PCDD/F-TEQ/kg (ppt)1 i fôr med et vanninnhold på 12 %* |
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i ng WHO-PCDD/F-TEQ/kg (ppt)[^1] i fôr med et vanninnhold på 12 %* |
 | --- | --- | --- |
-| 1. Dioksiner (summen av polyklorerte dibenzo-para-dioksiner (PCDD) og polyklorerte dibenzofuraner (PCDF), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005)2 ) | Fôrmidler av vegetabilsk opprinnelse, | 0,75 |
+| 1. Dioksiner (summen av polyklorerte dibenzo-para-dioksiner (PCDD) og polyklorerte dibenzofuraner (PCDF), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005)[^2] ) | Fôrmidler av vegetabilsk opprinnelse, | 0,75 |
 |  | med unntak av: |  |
 |  | – vegetabilske oljer og biprodukter av disse | 0,75 |
 |  | Fôrmidler av mineralsk opprinnelse | 0,75 |
@@ -549,25 +549,25 @@ CHB 50: 2-endo,3-ekso,5-endo,6-ekso,8,8,9,10,10-nonaklorbornan, CHB 62: 2,2,5,5,
 |  | – animalsk fett, herunder melkefett og fett i egg | 1,50 |
 |  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,75 |
 |  | – fiskeolje | 5,0 |
-|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett3 og krepsdyrmel | 1,25 |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[^3] og krepsdyrmel | 1,25 |
 |  | – hydrolysater av fiskeprotein som inneholder mer enn 20 % fett, krepsdyrmel | 1,75 |
-|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler\* | 0,75 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler[^\*] | 0,75 |
 |  | Tilsetningsstoffer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 1,0 |
 |  | Premikser | 1,0 |
 |  | Fôrblandinger, | 0,75 |
 |  | med unntak av: |  |
 |  | – fôrblandinger til kjæledyr og fisk | 1,75 |
 |  | – fôrblandinger til pelsdyr | – |
-| 2. Summen av dioksiner og dioksinlignende PCB-er (summen av polyklorerte dibenzo-para-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF) og polyklorerte bifenyler (PCB), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005))2 | Fôrmidler av vegetabilsk opprinnelse, med unntak av: | 1,25 |
+| 2. Summen av dioksiner og dioksinlignende PCB-er (summen av polyklorerte dibenzo-para-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF) og polyklorerte bifenyler (PCB), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005))[^2] | Fôrmidler av vegetabilsk opprinnelse, med unntak av: | 1,25 |
 |  | – vegetabilske oljer og biprodukter av disse | 1,5 |
 |  | Fôrmidler av mineralsk opprinnelse | 1,0 |
 |  | Fôrmidler av animalsk opprinnelse: |  |
 |  | – animalsk fett, herunder melkefett og fett i egg | 2,0 |
 |  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 1,25 |
 |  | – fiskeolje | 20,0 |
-|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett1 | 4,0 |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[^1] | 4,0 |
 |  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 9,0 |
-|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler\* | 1,5 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler[^\*] | 1,5 |
 |  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 1,5 |
 |  | Premikser | 1,5 |
 |  | Fôrblandinger, | 1,5 |
@@ -575,17 +575,17 @@ CHB 50: 2-endo,3-ekso,5-endo,6-ekso,8,8,9,10,10-nonaklorbornan, CHB 62: 2,2,5,5,
 |  | – fôrblandinger til kjæledyr og fisk | 5,5 |
 |  | – fôrblandinger til pelsdyr | – |
 
-| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i μg/kg (ppb) i fôr med et vanninnhold på 12 %*1 |
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i μg/kg (ppb) i fôr med et vanninnhold på 12 %*[^1] |
 | --- | --- | --- |
-| 3. Ikke-dioksinlignende PCB-er (sum av PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 og PCB 180 (ICES – 6))1 | Fôrmidler av vegetabilsk opprinnelse | 10 |
+| 3. Ikke-dioksinlignende PCB-er (sum av PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 og PCB 180 (ICES – 6))[^1] | Fôrmidler av vegetabilsk opprinnelse | 10 |
 |  | Fôrmidler av mineralsk opprinnelse | 10 |
 |  | Fôrmidler av animalsk opprinnelse: |  |
 |  | – animalsk fett, herunder melkefett og fett i egg | 10 |
 |  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 10 |
 |  | – fiskeolje | 175 |
-|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett4 | 30 |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[^4] | 30 |
 |  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 50 |
-|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler\* | 10 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler[^\*] | 10 |
 |  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 10 |
 |  | Premikser | 10 |
 |  | Fôrblandinger, | 10 |
@@ -634,12 +634,12 @@ Forkortelser: «T» = tetra, «Pe» = penta, «Hx» = heksa, «Hp» = hepta, «O
 | 1. Ugressfrø og frukt som ikke er malt eller knust, og som inneholder alkaloider, glukosider eller andre giftige stoffer, isolert eller sammen, herunder: | Fôrmidler og fôrblandinger | 3000 |
 | – *Datura* sp. |  | 1000 |
 | 2. *Crotalaria* spp. | Fôrmidler og fôrblandinger | 100 |
-| 3. Frø og skall fra *Ricinus communis* L., *Croton tiglium* L. og *Abrus precatorius* L. samt avledede produkter av disse,1 isolert eller sammen | Fôrmidler og fôrblandinger | 102 |
+| 3. Frø og skall fra *Ricinus communis* L., *Croton tiglium* L. og *Abrus precatorius* L. samt avledede produkter av disse,[^1] isolert eller sammen | Fôrmidler og fôrblandinger | 10[^2] |
 | 4. Uavskallet bøk – *Fagus silvatica* L. og | Fôrmidler og fôrblandinger | Frø og frukter fra planteartene samt avledede produkter av disse kan forekomme i fôr bare i spormengder som ikke kan bestemmes |
 | 5. Oljejatropha – *Jatropha curcas* L. |  |  |
-| 6. Frø fra *Ambrosia* spp. | Fôrmidler3 | 50 |
+| 6. Frø fra *Ambrosia* spp. | Fôrmidler[^3] | 50 |
 |  | unntatt: |  |
-|  | hirse (korn av *Panicum miliaceum* L.) og sorghum (korn av *Sorghum bicolor* (L) Moench s.l) som ikke gis direkte til dyr3 | 200 |
+|  | hirse (korn av *Panicum miliaceum* L.) og sorghum (korn av *Sorghum bicolor* (L) Moench s.l) som ikke gis direkte til dyr[^3] | 200 |
 |  | Fullfôr som inneholder umalt korn og frø | 50 |
 | 7. Frø av: |  |  |
 | – Indisk sennepskål – *Brassica juncea* (L.) Czern. og Coss. ssp. *integrifolia* (West.) Thell. | Fôrmidler og fôrblandinger | Frø må bare forekomme i fôr som spormengder som ikke kan bestemmes |
@@ -662,72 +662,72 @@ I tilfelle disse betingelsene ikke er oppfylt, skal forsendelsen renses før enh
 
 *Del VII: Godkjente tilsetningsstoffer som etter uunngåelig overføring forekommer i fôr utenfor målgruppen*
 
-| *Koksidiostatika* | *Produkter beregnet til fôrvarer*1 | Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 % |
+| *Koksidiostatika* | *Produkter beregnet til fôrvarer*[^1] | Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 % |
 | --- | --- | --- |
 | 1. Dekokinat | Fôrmidler | 0,4 |
 |  | Fôrblandinger til |  |
 |  | – eggleggende fjørfe og livkyllinger (> 16 uker), | 0,4 |
 |  | – andre dyrearter. | 1,2 |
-|  | Premikser til bruk i fôr der bruk av dekokinat ikke er tillatt. | 2 |
+|  | Premikser til bruk i fôr der bruk av dekokinat ikke er tillatt. | [^2] |
 | 2. Diclazuril | Fôrmidler | 0,01 |
 |  | Fôrblandinger til |  |
 |  | – eggleggende fjørfe og livkyllinger (> 16 uker) | 0,01 |
 |  | – slaktekaniner og avlskaniner i tiden før slakting da bruk av diclazuril er forbudt (tilbaketrukket fôr) | 0,01 |
 |  | – andre dyrearter enn eggleggende fjørfe (< 16 uker), livkyllinger, perlehøns og livkalkuner | 0,03 |
-|  | Premikser til bruk i fôr der bruk av diclazuril ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av diclazuril ikke er tillatt | [^2] |
 | 3. Halofuginonhydrobromid | Fôrmidler | 0,03 |
 |  | Fôrblandinger til |  |
 |  | – eggleggende fjørfe, livkyllinger og kalkuner (> 12 uker) | 0,03 |
 |  | – oppfôringskyllinger og kalkuner (< 12 uker) i tiden før slakting da bruk av halofuginonhydrobromid er forbudt (tilbaketrukket fôr) | 0,03 |
 |  | – andre dyrearter | 0,09 |
-|  | Premikser til bruk i fôr der bruk av halofuginonhydrobromid ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av halofuginonhydrobromid ikke er tillatt | [^2] |
 | 4. Lasalocid A-natrium | Fôrmidler | 1,25 |
 |  | Fôrblandinger til |  |
 |  | – hunder, kalver, kaniner, hester, melkeproduserende dyr, eggleggende fjørfe, kalkuner (> 16 uker) og livkyllinger (> 16 uker) | 1,25 |
 |  | – slaktekyllinger, livkyllinger (< 16 uker) og kalkuner (< 16 uker) i tiden før slakting da bruk av lasalocid A-natrium er forbudt (tilbaketrukket fôr) | 1,25 |
 |  | – fasaner, perlehøns, vaktler og rapphøns (unntatt eggleggende fjørfe) i tiden før slakting da bruk av lasalocid A-natrium er forbudt (tilbaketrukket fôr) | 1,25 |
 |  | – andre dyrearter | 3,75 |
-|  | Premikser til bruk i fôr der bruk av lasalocid A-natrium ikke er tillatt. | 2 |
+|  | Premikser til bruk i fôr der bruk av lasalocid A-natrium ikke er tillatt. | [^2] |
 | 5. Alfa-maduramicinammonium | Fôrmidler | 0,05 |
 |  | Fôrblandinger til |  |
 |  | – hester, kaniner, kalkuner (> 16 uker), eggleggende fjørfe og livkyllinger (> 16 uker) | 0,05 |
 |  | – oppfôringskyllinger og kalkuner (< 16 uker) i tiden før slakting da bruk av alfa-maduramicinammonium er forbudt (tilbaketrukket fôr) | 0,05 |
 |  | – andre dyrearter | 0,15 |
-|  | Premikser til bruk i fôr der bruk av alfa-maduramicinammonium ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av alfa-maduramicinammonium ikke er tillatt | [^2] |
 | 6. Monensinnatrium | Fôrmidler | 1,25 |
 |  | Fôrblandinger til |  |
 |  | – hester, hunder, små drøvtyggere (sauer og geiter), ender, storfe, melkekyr, eggleggende fjørfe, livkyllinger (> 16 uker) og kalkuner (> 16 uker) | 1,25 |
 |  | – oppfôringskyllinger, livkyllinger (< 16 uker) og kalkuner (< 16 uker) i tiden før slakting da bruk av monensinnatrium er forbudt (tilbaketrukket fôr) | 1,25 |
 |  | – andre dyrearter | 3,75 |
-|  | Premikser til bruk i fôr der bruk av monensinnatrium ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av monensinnatrium ikke er tillatt | [^2] |
 | 7. Narasin | Fôrmidler | 0,7 |
 |  | Fôrblandinger til |  |
 |  | – kalkuner, kaniner, hester, eggleggende fjørfe og livkyllinger (> 16 uker) | 0,7 |
 |  | – andre dyrearter | 2,1 |
-|  | Premikser til bruk i fôr der bruk av narasin ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av narasin ikke er tillatt | [^2] |
 | 8. Nicarbazin | Fôrmidler | 1,25 |
 |  | Fôrblandinger til |  |
 |  | – hester, eggleggende fjørfe og livkyllinger (> 16 uker) | 1,25 |
 |  | – andre dyrearter | 3,75 |
-|  | Premikser til bruk i fôr der bruk av nicarbazin (alene eller kombinert med narasin) ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av nicarbazin (alene eller kombinert med narasin) ikke er tillatt | [^2] |
 | 9. Robenidinhydroklorid | Fôrmidler | 0,7 |
 |  | Fôrblandinger til |  |
 |  | – eggleggende fjørfe og livkyllinger (> 16 uker) | 0,7 |
 |  | – oppfôringskyllinger, oppfôrings- og avlskaniner og kalkuner i tiden før slakting da bruk av robenidinhydroklorid er forbudt (tilbaketrukket fôr) | 0,7 |
 |  | – andre dyrearter | 2,1 |
-|  | Premikser til bruk i fôr der bruk av robenidinhydroklorid ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av robenidinhydroklorid ikke er tillatt | [^2] |
 | 10. Salinomycin-natrium | Fôrmidler | 0,7 |
 |  | Fôrblandinger til |  |
 |  | – hester, kalkuner, eggleggende fjørfe og livkyllinger (> 12 uker) | 0,7 |
 |  | – oppfôringskyllinger, livkyllinger (< 12 uker) og oppfôringskaniner i tiden før slakting da bruk av salinomycinnatrium er forbudt (tilbaketrukket fôr) | 0,7 |
 |  | – andre dyrearter | 2,1 |
-|  | Premikser til bruk i fôr der bruk av salinomycinnatrium ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av salinomycinnatrium ikke er tillatt | [^2] |
 | 11. Semduramicinnatrium | Fôrmidler | 0,25 |
 |  | Fôrblandinger til |  |
 |  | – eggleggende fjørfe og livkyllinger (> 16 uker) | 0,25 |
 |  | – oppfôringskyllinger i tiden før slakting da bruk av semduramicinnatrium er forbudt (tilbaketrukket fôr) | 0,25 |
 |  | – andre dyrearter | 0,75 |
-|  | Premikser til bruk i fôr der bruk av semduramicinnatrium ikke er tillatt | 2 |
+|  | Premikser til bruk i fôr der bruk av semduramicinnatrium ikke er tillatt | [^2] |
 
 1 Uten at det berører godkjente grenseverdier innenfor rammen av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) (EUT L 268 av 18.10.2003, s. 29).
 
@@ -739,39 +739,39 @@ I tilfelle disse betingelsene ikke er oppfylt, skal forsendelsen renses før enh
 
 *Del: Dioksiner og pcb*
 
-| *Uønskede stoffer* | *Produkter beregnet til fôrvarer* | *Tiltaksgrense i ng WHO-PCDD/F-TEQ/kg (ppt)2 i fôr med et vanninnhold på 12 %* | *Merknader og tilleggsopplysninger (f.eks. hva slags undersøkelser som skal foretas)* |
+| *Uønskede stoffer* | *Produkter beregnet til fôrvarer* | *Tiltaksgrense i ng WHO-PCDD/F-TEQ/kg (ppt)[^2] i fôr med et vanninnhold på 12 %* | *Merknader og tilleggsopplysninger (f.eks. hva slags undersøkelser som skal foretas)* |
 | --- | --- | --- | --- |
-| 1. Dioksiner (summen av polyklorerte dibenzo-para-dioksiner (PCDD) og polyklorerte dibenzofuraner (PCDF), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005)1 ) | Fôrmidler av vegetabilsk opprinnelse, | 0,5 | 3 |
+| 1. Dioksiner (summen av polyklorerte dibenzo-para-dioksiner (PCDD) og polyklorerte dibenzofuraner (PCDF), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005)[^1] ) | Fôrmidler av vegetabilsk opprinnelse, | 0,5 | [^3] |
 |  | med unntak av: |  |  |
 |  | – vegetabilske oljer og biprodukter av disse | 0,5 | 3 |
-|  | Fôrmidler av mineralsk opprinnelse | 0,5 | 3 |
+|  | Fôrmidler av mineralsk opprinnelse | 0,5 | [^3] |
 |  | Fôrmidler av animalsk opprinnelse: |  |  |
-|  | – animalsk fett, herunder melkefett og fett i egg | 0,75 | 3 |
-|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,5 | 3 |
-|  | – fiskeolje | 4,0 | 4 |
-|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett og krepsdyrmel | 0,75 | 4 |
-|  | – hydrolysater av fiskeprotein som inneholder mer enn 20 % fett, krepsdyrmel | 1,25 | 4 |
-|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 0,5 | 3 |
-|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 0,5 | 3 |
-|  | Premikser | 0,5 | 3 |
-|  | Fôrblandinger, med unntak av: | 0,5 | 3 |
-|  | – fôrblandinger til kjæledyr og fisk | 1,25 | 4 |
+|  | – animalsk fett, herunder melkefett og fett i egg | 0,75 | [^3] |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,5 | [^3] |
+|  | – fiskeolje | 4,0 | [^4] |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett og krepsdyrmel | 0,75 | [^4] |
+|  | – hydrolysater av fiskeprotein som inneholder mer enn 20 % fett, krepsdyrmel | 1,25 | [^4] |
+|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 0,5 | [^3] |
+|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 0,5 | [^3] |
+|  | Premikser | 0,5 | [^3] |
+|  | Fôrblandinger, med unntak av: | 0,5 | [^3] |
+|  | – fôrblandinger til kjæledyr og fisk | 1,25 | [^4] |
 |  | – fôrblandinger til pelsdyr | – |  |
-| 2. Dioksinlignende PCB-er (summen av polyklorerte bifenyler (PCB), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005))1 | Fôrmidler av vegetabilsk opprinnelse, med unntak av: | 0,35 | 3 |
-|  | – vegetabilske oljer og biprodukter av disse | 0,5 | 3 |
-|  | Fôrmidler av mineralsk opprinnelse | 0,35 | 3 |
+| 2. Dioksinlignende PCB-er (summen av polyklorerte bifenyler (PCB), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005))[^1] | Fôrmidler av vegetabilsk opprinnelse, med unntak av: | 0,35 | [^3] |
+|  | – vegetabilske oljer og biprodukter av disse | 0,5 | [^3] |
+|  | Fôrmidler av mineralsk opprinnelse | 0,35 | [^3] |
 |  | Fôrmidler av animalsk opprinnelse: |  |  |
-|  | – animalsk fett, herunder melkefett og fett i egg | 0,75 | 3 |
-|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,35 | 3 |
-|  | – fiskeolje | 11,0 | 4 |
-|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett3 | 2,0 | 4 |
-|  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 5,0 | 4 |
-|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 0,5 | 3 |
-|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 0,35 | 3 |
-|  | Premikser | 0,35 | 3 |
-|  | Fôrblandinger, | 0,5 | 3 |
+|  | – animalsk fett, herunder melkefett og fett i egg | 0,75 | [^3] |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,35 | [^3] |
+|  | – fiskeolje | 11,0 | [^4] |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[^3] | 2,0 | [^4] |
+|  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 5,0 | [^4] |
+|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 0,5 | [^3] |
+|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 0,35 | [^3] |
+|  | Premikser | 0,35 | [^3] |
+|  | Fôrblandinger, | 0,5 | [^3] |
 |  | med unntak av: |  |  |
-|  | – fôrblandinger til kjæledyr og fisk | 2,5 | 4 |
+|  | – fôrblandinger til kjæledyr og fisk | 2,5 | [^4] |
 |  | – fôrblandinger til pelsdyr | – |  |
 
 1 Tabell over TEF (toksisk ekvivalensfaktor) for dioksiner, furaner og dioksinlignende PCB-er: WHO-TEF til vurdering av helserisiko for mennesker, basert på konklusjoner fra WHOs ekspertmøte for det internasjonale programmet for kjemisk sikkerhet, som ble holdt i Genève i juni 2005 (Martin van den Berg et al., The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).
@@ -878,7 +878,7 @@ Risikofôrvarer kan ikke tas i bruk i virksomheten uten at varepartiet er analys
 
 Følgende fôrmidler er klassifisert som risikofôrvarer:
 
-1. Oljefrø, oljefrukter og produkter fremstilt av disse)1
+1. Oljefrø, oljefrukter og produkter fremstilt av disse)[^1]
 2. Foredlede produkter av mais
 3. Fiskemel, fjørfemel, svinemel og insektmel.
 

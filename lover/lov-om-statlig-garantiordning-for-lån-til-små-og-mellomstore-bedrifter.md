@@ -15,7 +15,7 @@ xml_hash: "7b351f58a24c45afdaa859894151149c9dfea89430a480e10178cf56cece7bd4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -93,6 +93,6 @@ Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring
 
 ## § 11. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Departementet kan gi nærmere overgangsregler.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Departementet kan gi nærmere overgangsregler.
 
 1 Fra 27 mars 2020 iflg. [vedtak 27 mars 2020 nr. 476](forskrift/2020-03-27-476).

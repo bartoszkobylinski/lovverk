@@ -15,7 +15,7 @@ xml_hash: "d0657fdac9756878b512ccba61d44496d1ad9c7f5910e0979d2b082ab1faa888"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -122,7 +122,7 @@ Men straff vert ikkje nytta dersom forsøminga berre har ført med seg at det er
 
 ### § 17
 
-Denne lova tek til å gjelda frå den tid Kongen fastset.1 Samstundes held desse føresegnene opp å gjelda:
+Denne lova tek til å gjelda frå den tid Kongen fastset.[^1] Samstundes held desse føresegnene opp å gjelda:
 
 – – –
 

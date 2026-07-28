@@ -15,7 +15,7 @@ xml_hash: "c1f3c67bdb5971ce4144700618ae193575068c2e340fdd785a8ca155700ec899"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres
 
 Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført på Sanksjonskomiteens liste.
 
-Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, enheter og organer som Sanksjonskomiteen anser for å være involvert i eller å støtte handlinger som truer freden, sikkerheten eller stabiliteten i Jemen, herunder men ikke begrenset til
+Sanksjonskomiteens liste[^1] omfatter fysiske eller juridiske personer, enheter og organer som Sanksjonskomiteen anser for å være involvert i eller å støtte handlinger som truer freden, sikkerheten eller stabiliteten i Jemen, herunder men ikke begrenset til
 
 1. handlinger som hindrer eller undergraver en vellykket sluttføring av den politiske overgangsprosessen, som angitt i initiativet fra Samarbeidsrådet for de arabiske statene i Gulfen (GCC) og avtalen om en gjennomføringsordning,
 2. voldshandlinger som hemmer gjennomføringen av tiltakene omhandlet i sluttrapporten fra den utvidete nasjonale dialogkonferansen, eller angrep på nødvendig infrastruktur,

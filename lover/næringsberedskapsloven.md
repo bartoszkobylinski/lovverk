@@ -15,7 +15,7 @@ xml_hash: "525cfed6d49da41f7810acd750b113174fa3d0fc9a3699813ba8718942f6ec59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,7 +63,7 @@ Når det på grunn av risiko for etterspørselssjokk, tilbudssvikt eller logisti
 6. plikt for næringsdrivende til å gjennomføre eller bidra til gjennomføring av analysearbeid og utredninger knyttet til leveringssikkerhet
 7. plikt for næringsdrivende, næringsorganisasjon eller -sammenslutning til å delta i særskilte organer som er opprettet eller opprettes for å bidra til å sikre tilgangen på varer og tjenester i kriser
 8. plikt for næringsdrivende til å planlegge eller delta i planlegging og gjennomføring av øvelser og annen opplæring i krisehåndtering
-9. plikt for næringsdrivende til å varsle om forhold som kan gi grunnlag for særskilte tiltak1
+9. plikt for næringsdrivende til å varsle om forhold som kan gi grunnlag for særskilte tiltak[^1]
 10. plikt for næringsdrivende til å planlegge, forberede og gjennomføre, eller bidra til planlegging, forberedelse og gjennomføring av særskilte tiltak
 
 1 Helse- og omsorgsdepartementet, Justisdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
@@ -76,9 +76,9 @@ Når særlige grunner foreligger, kan departementet gi en tidsbegrenset forskrif
 
 ### § 8. Vedtak om særskilte tiltak
 
-Når det på grunn av risiko for tilbudssvikt, etterspørselssjokk eller logistikkbrist er nødvendig for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester, dekkes, kan Kongen1 fatte vedtak om særskilte tiltak eller vedtak om forberedelser til særskilte tiltak.
+Når det på grunn av risiko for tilbudssvikt, etterspørselssjokk eller logistikkbrist er nødvendig for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester, dekkes, kan Kongen[^1] fatte vedtak om særskilte tiltak eller vedtak om forberedelser til særskilte tiltak.
 
-Kongen1 kan i forskrift gi nærmere bestemmelser om myndighet til og vilkår for å fatte vedtak om særskilte tiltak.
+Kongen[^1] kan i forskrift gi nærmere bestemmelser om myndighet til og vilkår for å fatte vedtak om særskilte tiltak.
 
 1 Helse- og omsorgsdepartementet, Justisdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
 
@@ -131,7 +131,7 @@ Drifts- og forretningshemmeligheter avgitt etter denne loven, skal kun brukes ti
 
 ### § 17. Kompensasjon til næringsdrivende
 
-Næringsdrivendes økonomiske meromkostninger eller tap ved forberedelser til og gjennomføring av særskilte tiltak skal kompenseres etter bestemmelser fastsatt av Kongen.1 Ansvarlig myndighet for forberedelser til eller gjennomføringen av tiltaket skal utbetale kompensasjonen så snart som mulig.
+Næringsdrivendes økonomiske meromkostninger eller tap ved forberedelser til og gjennomføring av særskilte tiltak skal kompenseres etter bestemmelser fastsatt av Kongen.[^1] Ansvarlig myndighet for forberedelser til eller gjennomføringen av tiltaket skal utbetale kompensasjonen så snart som mulig.
 
 1 Helse. og omsorgsdepartementet, Justis- og beredskapsdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. res. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
 
@@ -199,7 +199,7 @@ For håndheving av sanksjoner overfor kommuner og fylkeskommuner gjelder bestemm
 
 ### § 23. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2012 iflg. [res. 16 des 2011 nr. 1247](forskrift/2011-12-16-1247).
 

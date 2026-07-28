@@ -15,7 +15,7 @@ xml_hash: "53c46f557b56fdd48a006115a0c27fa9c6b420cfe0e82f78defdffd58e6d0a1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ Med mindre det fremgår noe annet av de enkelte bestemmelser er følgende unntat
 
 1. lystfartøy som brukes til ikke-ervervsmessige formål, og som ikke er bemannet med profesjonelt mannskap,
 2. slepebåter som opererer i havneområder,
-3. flyttbare innretninger i petroleumsvirksomheten på norsk kontinentalsokkel når det kan dokumenteres at disse omfattes av beredskap etablert med hjemmel i § 9-2 i [petroleumsloven1](lov/1996-11-29-72/§9-2) som er minst likeverdig med kravene i denne forskrift,
+3. flyttbare innretninger i petroleumsvirksomheten på norsk kontinentalsokkel når det kan dokumenteres at disse omfattes av beredskap etablert med hjemmel i § 9-2 i [petroleumsloven[^1]](lov/1996-11-29-72/§9-2) som er minst likeverdig med kravene i denne forskrift,
 4. sjøforsvarets fartøyer, dersom de ikke opprettholder sivile sertifikater.
 
 1 [Lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet.
@@ -45,13 +45,13 @@ Med mindre det fremgår noe annet av de enkelte bestemmelser er følgende unntat
 
 I forskriften menes med:
 
-1. *passasjerskip:* skip som skal ha passasjersertifikat, sikkerhetssertifikat for passasjerskip, sikkerhetssertifikat for hurtiggående passasjerfartøy eller tillatelse til begrenset passasjerbefordring i henhold til sjødyktighetsloven,1
+1. *passasjerskip:* skip som skal ha passasjersertifikat, sikkerhetssertifikat for passasjerskip, sikkerhetssertifikat for hurtiggående passasjerfartøy eller tillatelse til begrenset passasjerbefordring i henhold til sjødyktighetsloven,[^1]
 2. *redningsmiddel:* livbåt, redningsbåt, redningsflåter og lettbåt,
 3. *rederi:* et fartøys registrerte eier, bortsett fra når fartøyet er leid til totalbefraktning eller helt eller delvis drives av annen fysisk eller juridisk person enn eieren på grunnlag av en driftsavtale; i slike tilfeller skal totalbefrakteren, eventuelt den fysiske eller juridiske personen som driver fartøyet, anses som rederiet,
 4. *skipsfører:* den som har høyeste myndighet om bord,
 5. *arbeidstaker:* enhver som tar tjeneste på norsk skip, herunder praktikanter og lærlinger, unntatt havneloser og landbasert personell som utfører arbeid om bord på skip som ligger ved kai,
 6. *skipsmedisin:* legemidler, medisinsk utstyr mv., jf. de ikke-uttømmende lister i vedlegg 1 og 2,
-7. *narkotika:* legemidler som er oppført i narkotikalisten,2 se vedlegg 3,
+7. *narkotika:* legemidler som er oppført i narkotikalisten,[^2] se vedlegg 3,
 8. *utlevering:* utlevering av skipsmedisin fra bemyndiget person til rekvirent og pasient og umiddelbar bruk av skipsmedisin av bemyndiget person på pasient,
 9. *farlig last:* last som er omtalt som farlig i IMDG-koden, International Maritime Dangerous Goods Code, utgitt av International Maritime Organization (IMO).
 
@@ -103,7 +103,7 @@ Legemidlene skal være merket med salgsstedets navn, produsent, produksjonsnumme
 
 Skip skal være utstyrt med en skipsmedisinenhet inneholdende skipsmedisin som minst er i samsvar med vedlegg 1 og 2 for skipets fartøygruppe, jf. [§ 4](forskrift/2001-03-09-439/§4).
 
-Fiske- og fangstfartøyer som opererer innenfor fartsområde bankfiske II, jf. forskrift om fartsområder1 [§ 23](forskrift/2001-03-09-439/§23), kan utstyres som fartøygruppe B, jf. første ledd.
+Fiske- og fangstfartøyer som opererer innenfor fartsområde bankfiske II, jf. forskrift om fartsområder[^1] [§ 23](forskrift/2001-03-09-439/§23), kan utstyres som fartøygruppe B, jf. første ledd.
 
 Fartøy under 15 meter som tilhører fartøygruppe C og fartøy med tillatelse til begrenset passasjerbefordring, kan i stedet for skipsmedisinenhet i samsvar med første ledd utstyres med nødvendig førstehjelpsutstyr.
 
@@ -155,11 +155,11 @@ For passasjerskip gjelder i tillegg kravene i [forskrift 2. oktober 1972 nr. 4](
 
 ### § 16. Rekvirering
 
-Skipsfører, rederi eller den lege som er tilknyttet rederiet, har etter [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977),1 rett til å rekvirere de legemidler som skal være om bord i skip. Ved behov for øyeblikkelig hjelp plikter skipsfører å skaffe til veie nødvendig skipsmedisin så raskt som mulig.
+Skipsfører, rederi eller den lege som er tilknyttet rederiet, har etter [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977),[^1] rett til å rekvirere de legemidler som skal være om bord i skip. Ved behov for øyeblikkelig hjelp plikter skipsfører å skaffe til veie nødvendig skipsmedisin så raskt som mulig.
 
 Rederiers og skipsføreres rett til å rekvirere narkotika er begrenset til legemidler og mengder angitt i vedlegg 3.
 
-Helsedirektoratet kan gi skipsverft og firmaer som leverer redningsmidler til skip, tillatelse til å rekvirere legemidler til nybygg, jf. [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)1 Det kan stilles særskilte krav til slik tillatelse.
+Helsedirektoratet kan gi skipsverft og firmaer som leverer redningsmidler til skip, tillatelse til å rekvirere legemidler til nybygg, jf. [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)[^1] Det kan stilles særskilte krav til slik tillatelse.
 
 Legemidler som rekvireres, skal være lovlig omsatt i det land de utleveres fra og være av tilfredsstillende kvalitet, jf. [§ 7](forskrift/2001-03-09-439/§7) og [§ 8](forskrift/2001-03-09-439/§8).
 
@@ -173,7 +173,7 @@ Ved innkjøp av skipsmedisin skal skipsfører påse at selger utsteder en forteg
 
 ### § 17. Tap av rekvisisjonsrett
 
-Dersom Helsedirektoratet finner at skipsførers eller rederis rekvirering av reseptpliktige legemidler er uforsvarlig, kan dennes rett til å rekvirere reseptpliktige legemidler, gitt i medhold av [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977), 1 tilbakekalles.
+Dersom Helsedirektoratet finner at skipsførers eller rederis rekvirering av reseptpliktige legemidler er uforsvarlig, kan dennes rett til å rekvirere reseptpliktige legemidler, gitt i medhold av [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977), [^1] tilbakekalles.
 
 > Endret ved forskrifter [10 juni 2002 nr. 530](forskrift/2002-06-10-530), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
@@ -221,7 +221,7 @@ Det må vises særskilt aktsomhet ved utlevering av narkotika. Et hvert uttak av
 
 Skipsmedisin skal underlegges sakkyndig ettersyn minst en gang hver tolvte måned. Kontrollen kan i unntakstilfeller utsettes i opptil fem måneder. Utført ettersyn skal dokumenteres, jf. fjerde ledd. Med sakkyndig ettersyn menes ettersyn av farmasøyt eller lege.
 
-For skip med sikkerhetsstyringssertifikat, jf. [sjødyktighetsloven1 femte kapittel med](lov/1903-06-09-7) tilhørende forskrifter, kan sakkyndig ettersyn foretas hvert tredje år, forutsatt at skipsfører eller den han gir fullmakt, jf. [§ 5](forskrift/2001-03-09-439/§5), foretar tilsvarende ettersyn av legemidler og medisinsk utstyr, jf. første ledd, minst en gang hver tolvte måned. Sikkerhetsstyringssystemet skal inneholde prosedyre for kontroll og ettersyn av skipsmedisin.
+For skip med sikkerhetsstyringssertifikat, jf. [sjødyktighetsloven[^1] femte kapittel med](lov/1903-06-09-7) tilhørende forskrifter, kan sakkyndig ettersyn foretas hvert tredje år, forutsatt at skipsfører eller den han gir fullmakt, jf. [§ 5](forskrift/2001-03-09-439/§5), foretar tilsvarende ettersyn av legemidler og medisinsk utstyr, jf. første ledd, minst en gang hver tolvte måned. Sikkerhetsstyringssystemet skal inneholde prosedyre for kontroll og ettersyn av skipsmedisin.
 
 Skipsmedisin i redningsmidler skal i tillegg til ettersynet etter første og annet ledd kontrolleres av skipsfører eller den han gir fullmakt en gang hver måned. Skipsmedisin i oppblåsbare redningsflåter skal etterses ved den årlige kontroll av godkjent servicestasjon, jf. Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs (](traktat/1974-11-01-1)[SOLAS).](traktat/1974-11-01-1)
 
@@ -276,7 +276,7 @@ Skip som transporterer farlig last, jf. [§ 12](forskrift/2001-03-09-439/§12), 
 
 ### § 26. Opplæring
 
-Skipsføreren og de han gir fullmakt til utlevering og bruk av skipsmedisin på pasient om bord skal ha gjennomgått godkjent opplæring, jf. forskrift om kvalifikasjonskrav, utstedelse av sertifikater og om sertifikatrettigheter for personell på norske skip.1
+Skipsføreren og de han gir fullmakt til utlevering og bruk av skipsmedisin på pasient om bord skal ha gjennomgått godkjent opplæring, jf. forskrift om kvalifikasjonskrav, utstedelse av sertifikater og om sertifikatrettigheter for personell på norske skip.[^1]
 
 > Endret ved [forskrift 14 juni 2004 nr. 888](forskrift/2004-06-14-888).
 
@@ -292,7 +292,7 @@ Helsedirektoratet, eller den det gir myndighet, kan når særlige grunner foreli
 
 ### § 28. Straffebestemmelser
 
-Overtredelse straffes med bøter i henhold til § 339 nr. 2 i straffeloven,1 hvis ikke strengere straff kommer til anvendelse i henhold til annen lovbestemmelse.
+Overtredelse straffes med bøter i henhold til § 339 nr. 2 i straffeloven,[^1] hvis ikke strengere straff kommer til anvendelse i henhold til annen lovbestemmelse.
 
 1 Den almindelige borgerlige straffelov [av 22. mai 1902 nr. 10](lov/1902-05-22-10).
 

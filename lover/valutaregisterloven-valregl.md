@@ -15,7 +15,7 @@ xml_hash: "df89ff38b9ee3b8f26ecfc068c3e8e4ba955fdf6c090bba5c9e5ec403503e392"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -93,7 +93,7 @@ Departementet kan i forskrift fastsette regler til utfylling og gjennomføring a
 
 ## § 10. Ikrafttredelse og overgangsbestemmelser
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer.1
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[^1]
 
 Opplysninger fra Kontrolloppgaven fra kortselskapene, BRAVO-registeret og register over inn- og utførsel av sedler og mynt innhentet med hjemmel i [lov 14. juli 1950 nr. 10](lov/1950-07-14-10) om valutaregulering, kan overføres til registeret som opprettes med hjemmel i denne lov.
 

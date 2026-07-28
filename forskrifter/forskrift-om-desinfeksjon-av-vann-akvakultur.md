@@ -15,7 +15,7 @@ xml_hash: "3a0ec7a9c098ab2474fa1fb9f2279b2918c410f96b8cd442e4c270303efcad18"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,10 +32,10 @@ Formålet med denne forskriften er å forebygge og begrense spredning av smittso
 
 Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksvann, og/eller avløpsvann med hjemmel i annet regelverk eller enkeltvedtak, slik som;
 
-- virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett1
-- virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk2
-- virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum3
-- transportenheter for akvatiske organismer fra oppdrett4
+- virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett[^1]
+- virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk[^2]
+- virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum[^3]
+- transportenheter for akvatiske organismer fra oppdrett[^4]
 - virksomheter som driver smitteforsøk med akvatiske organismer, og andre virksomheter etter fylkesveterinærens bestemmelser
 
 1 Jfr. slakteriforskriften.
@@ -51,7 +51,7 @@ Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksv
 I denne forskriften menes med:
 
 - *Akvatiske organismer:* alle vannlevende dyr inklusive deres kjønnsprodukter, hvile- og forplantningsstadier, unntatt amfibier, krypdyr, pattedyr og fugler.
-- *Akvakultur:* virksomhet der en driver oppdrett1 eller på annen måte holder akvatiske organismer i fangenskap.
+- *Akvakultur:* virksomhet der en driver oppdrett[^1] eller på annen måte holder akvatiske organismer i fangenskap.
 - *Eksotisk smittestoff:* et kjent smittestoff som ikke er dokumentert tilstede i Norge.
 - *Eksotiske arter av akvatiske organismer:* akvatiske organismer som ikke er naturlig hjemmehørende i norsk fauna.
 - *Prosedyre:* dokumentert beskrivelse av en prosess for å angi hvem som gjør hva, og i hvilken rekkefølge.

@@ -17,7 +17,7 @@ xml_hash: "70beb88d34e2faf51fab7d5a6199d88f08b72cdd4252f668e8d4b4126ec83375"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -462,47 +462,47 @@ Forskriften kan endres av Landbruks- og matdepartementet, Klima- og miljødepart
 
 [Vedlegg 1](forskrift/2025-01-29-115/vedlegg1) og [vedlegg 2](forskrift/2025-01-29-115/vedlegg2) kan endres av Landbruksdirektoratet.
 
-## Vedlegg 1: Normtall for forventet mengde fosfor (P) per individ av ulike dyreslag\*
+## Vedlegg 1: Normtall for forventet mengde fosfor (P) per individ av ulike dyreslag[^\*]
 
 > Vedlegg endret ved forskrift [15 mai 2026 nr. 836](forskrift/2026-05-15-836) (tittel).
 
-| *Storfe* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*\*\* |
+| *Storfe* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- | --- |
-| Melkeku med årsavdråtti i 7–9,5 tonn | 15 | Påslag for høg avdrått | Om middelavdråtti «x» overstiger 9,5 tonn justeres mengden med (x:7,7)2/3. Om middelavdrått «x» er lavere enn 7 tonn kan mengden justeres med (x:7,7)2/3. | Ved avdrått på 10 tonn justeres med (10:7,7)2/3, til snaut 18 kg.<br><br>Ved avdrått 5 tonn, justeres med (5:7,7)2/3, til drøyt 11 kg | PT-kode 120 |
+| Melkeku med årsavdrått[^i] i 7–9,5 tonn | 15 | Påslag for høg avdrått | Om middelavdrått[^i] «x» overstiger 9,5 tonn justeres mengden med (x:7,7)2/3. Om middelavdrått «x» er lavere enn 7 tonn kan mengden justeres med (x:7,7)2/3. | Ved avdrått på 10 tonn justeres med (10:7,7)2/3, til snaut 18 kg.<br><br>Ved avdrått 5 tonn, justeres med (5:7,7)2/3, til drøyt 11 kg | PT-kode 120 |
 | Ammekyr | 8 |  |  |  | PT-kode 121 |
 | Ungdyr, middelverdi per år over livsløpet, med forventet slaktevekt 320 kg ved 18 mnd alder | 5 |  |  |  | PT-kode 119 |
 
-| *Småfe* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*\*\* |
+| *Småfe* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- | --- |
 | Sau | 2 |  |  |  | PT-kode 145 + 146 + 139 |
 | Geit | 2 |  |  |  | PT-kode 140 + 142 |
 
-| *Gris* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*\*\* |
+| *Gris* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- | --- |
 | Avlsgriser, inkl årsproduksjon av 30 spedgris og smågris fram til 30 kg | 8,1 |  |  |  | PT-kode 155 |
-| Avlsgriser, satellittii i purkering | 14,3 |  |  |  | PT-kode 155 |
+| Avlsgriser, satellitt[^ii] i purkering | 14,3 |  |  |  | PT-kode 155 |
 | Avlsgriser (årspurker), nav i purkering | 2,4 |  |  |  | PT-kode 155 |
 | Unggris til avl, 30 kg fram til bedekning | 0,53 |  |  |  | Antall utrangerte avslgriser (slakta purker) fra leveransedatabasen |
-| Slaktegriseriii, livsløpet fra 30 kg til slakt i intervallet 100–130 kg | 0,37 | Påslag ved utsatt slakting | Dersom levendevekt («x») ved slakt overstiger 130 kg, justeres P-mengden med (x:115)3/2 | Dersom levendevekt («x») ved slakt er 150 kg justeres P-mengden med (150:115)3/2, altså regnes 0,55 kg P per individ | PT-kode 184 eller leveransedatabasen |
+| Slaktegriser[^iii], livsløpet fra 30 kg til slakt i intervallet 100–130 kg | 0,37 | Påslag ved utsatt slakting | Dersom levendevekt («x») ved slakt overstiger 130 kg, justeres P-mengden med (x:115)3/2 | Dersom levendevekt («x») ved slakt er 150 kg justeres P-mengden med (150:115)3/2, altså regnes 0,55 kg P per individ | PT-kode 184 eller leveransedatabasen |
 
-| *Hest* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*\*\* |
+| *Hest* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- | --- |
 | Hest under<br>3 år | 5 |  |  |  | PT-kode 115 |
 | Hest over<br>3 år | 7,5 |  |  |  | PT-kode 116 |
 
-| *Andre husdyr* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*\*\* |
+| *Andre husdyr* | *Kg P per individ/årsdyr* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- | --- |
 | Hjort, esel, lama, alpakka | 2 |  |  |  | PT-kode 178, 192, 196, 197 |
 
-| *Fjørfe* | *g P per individ* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*\*\* |
+| *Fjørfe* | *g P per individ* | *Justering* | *Regneregel for justering* | *Regneksempel for justering* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- | --- |
 | Verpehøns | 120 |  |  |  | PT-kode 161 |
-| Avlsdyr av høns, ender, kalkuner og gjess | 250 |  |  |  | PT-kode 168 + slaktekyllingmødreiv |
-| Livkyllingeriii | 14 |  |  |  | PT-kode 185 eller leveransedatabasen |
-| Slaktekyllingeriii, rasktvoksende rase, livsløpet fram til slakt ved 32–38 dager og levendevekt inntil 2,3 kg | 8,6 | Påslag ved utsatt slakting | Dersom levendevekt («x») ved slakt overstiger 2,3 kg, justeres P-mengden med (x:2,1)3/2 | Om levendevekt («x») ved slakt er 2,5 kg justeres P-mengden med (2,5:2,1)3/2, altså regnes 11,2 g P per individ | PT-kode 176 eller leveransedatabasen |
-| Slaktekyllingeriii, saktevoksende rase, livsløpet fram til slakt ved slakt ved 40–45 dager og levendevekt inntil 2,5 kg | 11,6 | Påslag ved utsatt slakting | Dersom levendevekt («x») ved slakt overstiger 2,5 kg, justeres P-mengden med (x:2,3)3/2 | Om levendevekt («x») ved slakt er 2,7 kg justeres P-mengden med (2,7:2,3)3/2, altså regnes 14,8 g P per individ | PT-kode 176 eller leveransedatabasen |
-| Ender og gjess for slaktiii | 25 |  |  |  | Leveransedatabasen |
-| Kalkuner for<br>slaktiii, gitt<br>gjennomsnitts<br>slaktevekt på<br>inntil 9 kg | 106 |  |  |  | Leveransedatabasen |
+| Avlsdyr av høns, ender, kalkuner og gjess | 250 |  |  |  | PT-kode 168 + slaktekyllingmødre[^iv] |
+| Livkyllinger[^iii] | 14 |  |  |  | PT-kode 185 eller leveransedatabasen |
+| Slaktekyllinger[^iii], rasktvoksende rase, livsløpet fram til slakt ved 32–38 dager og levendevekt inntil 2,3 kg | 8,6 | Påslag ved utsatt slakting | Dersom levendevekt («x») ved slakt overstiger 2,3 kg, justeres P-mengden med (x:2,1)3/2 | Om levendevekt («x») ved slakt er 2,5 kg justeres P-mengden med (2,5:2,1)3/2, altså regnes 11,2 g P per individ | PT-kode 176 eller leveransedatabasen |
+| Slaktekyllinger[^iii], saktevoksende rase, livsløpet fram til slakt ved slakt ved 40–45 dager og levendevekt inntil 2,5 kg | 11,6 | Påslag ved utsatt slakting | Dersom levendevekt («x») ved slakt overstiger 2,5 kg, justeres P-mengden med (x:2,3)3/2 | Om levendevekt («x») ved slakt er 2,7 kg justeres P-mengden med (2,7:2,3)3/2, altså regnes 14,8 g P per individ | PT-kode 176 eller leveransedatabasen |
+| Ender og gjess for slakt[^iii] | 25 |  |  |  | Leveransedatabasen |
+| Kalkuner for<br>slakt[^iii], gitt<br>gjennomsnitts<br>slaktevekt på<br>inntil 9 kg | 106 |  |  |  | Leveransedatabasen |
 
 \* I regnskapet for mengde fosfor kan det gjøres fratrekk for oppholdstid på utmarksbeite.
 
@@ -516,47 +516,47 @@ iii Oppgitt faktor gjelder for livsløpet fram til slakt (for livkyllinger fram 
 
 iv Antall slaktekyllingmødre finnes ved å benytte PT-kode 162 (ant rugeegg) dividert med 184 som er ant. egg per høne per år.
 
-## Vedlegg 2: Normtall for forventet mengde nitrogen (N) per individ av ulike dyreslag\*
+## Vedlegg 2: Normtall for forventet mengde nitrogen (N) per individ av ulike dyreslag[^\*]
 
 > Vedlegg endret ved forskrift [15 mai 2026 nr. 836](forskrift/2026-05-15-836) (tittel).
 
-| *Storfe* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*\*\* |
+| *Storfe* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- |
-| Melkeku med årsavdråtti 7–9,5 tonn | 139 | 14,7 | 118 | PT-kode 120 |
+| Melkeku med årsavdrått[^i] 7–9,5 tonn | 139 | 14,7 | 118 | PT-kode 120 |
 | Ammekyr | 66 | 14,0 | 57 | PT-kode 121 |
 | Ungdyr, middelverdi per år over livsløpet, med forventet slaktevekt 320 kg ved 18 mnd alder | 44 | 15,7 | 37 | PT-kode 119 |
 
-| *Småfe* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*\*\* |
+| *Småfe* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- |
 | Sau | 12 | 16,2 | 10 | PT-kode 145 + 146 + 139 |
 | Geit | 16 | 16,4 | 13 | PT-kode 140 + 142 |
 
-| *Gris* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*\*\* |
+| *Gris* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- |
 | Avlsgriser, inkl årsproduksjon av 30 spedgris og smågris fram til 30 kg | 51 | 17,3 | 42 | PT-kode 155 |
-| Avlsgriser, satellittii i purkering | 90 | 17,3 | 74 | PT-kode 155 |
+| Avlsgriser, satellitt[^ii] i purkering | 90 | 17,3 | 74 | PT-kode 155 |
 | Avlsgriser (årspurker), nav i purkering | 15 | 17,3 | 12 | PT-kode 155 |
 | Unggris til avl, 30 kg fram til bedekning | 3,8 | 17,3 | 3,1 | Antall utrangerte avslgriser (slakta purker) fra leveransedatabasen |
-| Slaktegriseriii, livsløpet fra 30 kg til slakt i intervallet 100–130 kg | 3,2 | 17,3 | 2,7 | PT-kode 184 eller leveransedatabasen |
+| Slaktegriser[^iii], livsløpet fra 30 kg til slakt i intervallet 100–130 kg | 3,2 | 17,3 | 2,7 | PT-kode 184 eller leveransedatabasen |
 
-| *Hest* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*\*\* |
+| *Hest* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- |
 | Hest under<br>3 år | 40 | 16,6 | 33 | PT-kode 115 |
 | Hest over<br>3 år | 50 | 16,6 | 42 | PT-kode 116 |
 
-| *Andre husdyr* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*\*\* |
+| *Andre husdyr* | *Kg N per individ/årsdyr* | *Faktor for ammoniakktap, %* | *Kg N per individ/årsdyr etter fratrekk* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- |
 | Hjort, esel, lama, alpakka | 12 | 15,0 | 10 | PT-kode 178, 192, 196, 197 |
 
-| *Fjørfe* | *g N per individ* | *Faktor for ammoniakktap, %* | *g N per individ etter fratrekk* | *Datakilde for dyretall*\*\* |
+| *Fjørfe* | *g N per individ* | *Faktor for ammoniakktap, %* | *g N per individ etter fratrekk* | *Datakilde for dyretall*[^\*\*] |
 | --- | --- | --- | --- | --- |
 | Verpehøns | 670 | 10,5 | 600 | PT-kode 161 |
-| Avlsdyr av høns, ender, kalkuner og gjess | 800 | 12,5 | 700 | PT-kode 168 + slaktekyllingmødreiv |
-| Livkyllingeriii | 50 | 11,3 | 44 | PT-kode 185 eller leveransedatabasen |
-| Slaktekyllingeriii, rasktvoksende rase, livsløpet fram til slakt ved 32–38 dager og levendevekt inntil 2,3 kg | 30 | 11,3 | 27 | PT-kode 176 eller leveransedatabasen |
-| Slaktekyllingeriii, saktevoksende rase, livsløpet fram til slakt ved slakt ved 40–45 dager og levendevekt inntil 2,5 kg | 40 | 11,3 | 35 | PT-kode 176 eller leveransedatabasen |
-| Ender og gjess for slaktiii | 100 | 12,5 | 88 | Leveransedatabasen |
-| Kalkuner for<br>slaktiii, gitt<br>gjennomsnitts<br>slaktevekt på<br>inntil 9 kg | 452 | 15,8 | 381 | Leveransedatabasen |
+| Avlsdyr av høns, ender, kalkuner og gjess | 800 | 12,5 | 700 | PT-kode 168 + slaktekyllingmødre[^iv] |
+| Livkyllinger[^iii] | 50 | 11,3 | 44 | PT-kode 185 eller leveransedatabasen |
+| Slaktekyllinger[^iii], rasktvoksende rase, livsløpet fram til slakt ved 32–38 dager og levendevekt inntil 2,3 kg | 30 | 11,3 | 27 | PT-kode 176 eller leveransedatabasen |
+| Slaktekyllinger[^iii], saktevoksende rase, livsløpet fram til slakt ved slakt ved 40–45 dager og levendevekt inntil 2,5 kg | 40 | 11,3 | 35 | PT-kode 176 eller leveransedatabasen |
+| Ender og gjess for slakt[^iii] | 100 | 12,5 | 88 | Leveransedatabasen |
+| Kalkuner for<br>slakt[^iii], gitt<br>gjennomsnitts<br>slaktevekt på<br>inntil 9 kg | 452 | 15,8 | 381 | Leveransedatabasen |
 
 \* I regnskapet for mengde nitrogen kan det gjøres fratrekk for oppholdstid på utmarksbeite.
 

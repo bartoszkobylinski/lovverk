@@ -15,7 +15,7 @@ xml_hash: "52773fa07b4e8e4092d0b9b3244de67bb707168d7e495d46cd669f516569c38d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -518,7 +518,7 @@ Dersom Foretaksregisteret gir feil opplysning ved utskrift, attest eller kunngjÃ
 
 ### Â§ 13-1. Ikrafttredelse
 
-(1) Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+(1) Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 
 (2) Fra den tid loven trer i kraft, oppheves [lov 21. juni 1985 nr. 78 om registrering av foretak](lov/1985-06-21-78).
 

@@ -15,7 +15,7 @@ xml_hash: "a288f58a1790c8529c093534b5a153c087e90f160b0215c8cf646e168a421348"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -235,7 +235,7 @@ eu_basis:
 
 (4) Dersom pensjonsordningens administrasjonsreserve ikke er tilstrekkelig til å dekke kostnadene knyttet til utstedelse av fripoliser ved opprettelse av kombinerte pensjonsordninger etter paragrafen her, skal de resterende kostnadene først dekkes av midler i premiefondet og deretter ved innbetaling fra foretaket dersom midlene i premiefondet ikke er tilstrekkelige.
 
-(5) Foretaket kan tegne uførepensjon enten i tilknytning til den ytelsesbaserte pensjonsordningen eller i tilknytning til begge pensjonsordningene i den kombinerte ordningen. Den samlede kombinerte ordningen skal legges til grunn ved fastsettelse av uførepensjonens størrelse etter [§ 6-3](lov/2000-03-24-16/§6-3)1 første ledd. Dersom uførepensjonen er tegnet kun i tilknytning til foretakets ytelsesbaserte pensjonsordning, skal det fastsettes i regelverket at det skal ytes et tillegg til den uførepensjon som fastsettes på grunnlag av størrelsen på den ytelsesbaserte alderspensjonen.
+(5) Foretaket kan tegne uførepensjon enten i tilknytning til den ytelsesbaserte pensjonsordningen eller i tilknytning til begge pensjonsordningene i den kombinerte ordningen. Den samlede kombinerte ordningen skal legges til grunn ved fastsettelse av uførepensjonens størrelse etter [§ 6-3](lov/2000-03-24-16/§6-3)[^1] første ledd. Dersom uførepensjonen er tegnet kun i tilknytning til foretakets ytelsesbaserte pensjonsordning, skal det fastsettes i regelverket at det skal ytes et tillegg til den uførepensjon som fastsettes på grunnlag av størrelsen på den ytelsesbaserte alderspensjonen.
 
 (6) Forsikring av rett til premie- eller innskuddsfritak ved uførhet etter reglene i [§ 6-6](lov/2000-03-24-16/§6-6) skal knyttes til begge pensjonsordningene.
 
@@ -478,7 +478,7 @@ For hvert forhold det opplyses om etter bokstav a til d skal det samtidig opplys
 
 (3) Reglene om uttak av alderspensjon i [§§ 5-1](lov/2000-03-24-16/§5-1), [5-7 a](lov/2000-03-24-16/§5-7a) til [5-7 c](lov/2000-03-24-16/§5-7c) gjelder tilsvarende for fripoliser. Det er adgang til å ta ut mindre enn full alderspensjon fra fripoliser etter reglene om gradert uttak i [§ 5-7 b](lov/2000-03-24-16/§5-7b) annet og tredje ledd dersom pensjonsinnretningen samtykker til dette.
 
-(4) Midlene knyttet til en fripolise kan overføres til annet livsforsikringsselskap eller pensjonskasse etter reglene i forsikringsloven1 kapittel 11.2 Midlene kan ikke overføres til annet livsforsikringsselskap enn nevnt i [§ 1-1](lov/2000-03-24-16/§1-1) annet ledd.
+(4) Midlene knyttet til en fripolise kan overføres til annet livsforsikringsselskap eller pensjonskasse etter reglene i forsikringsloven[^1] kapittel 11.[^2] Midlene kan ikke overføres til annet livsforsikringsselskap enn nevnt i [§ 1-1](lov/2000-03-24-16/§1-1) annet ledd.
 
 > Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
 
@@ -502,7 +502,7 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 
 (2) Medregningen skal gjennomføres ved at arbeidstakeren gis et tillegg i den pensjonsgivende tjenestetid.
 
-(3) I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i forsikringsloven1 kapittel 11.2
+(3) I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i forsikringsloven[^1] kapittel 11.[^2]
 
 > Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [19 des 2003 nr. 121](lov/2003-12-19-121) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1767](forskrift/2003-12-19-1767)), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
 
@@ -674,7 +674,7 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 
 (3) Uttaksgraden kan på ethvert tidspunkt etter uttak fram til fylte 75 år endres til fullt uttak av pensjon. Uttaksgraden kan for øvrig endres ved nådd opptjeningsalder og deretter på tidspunkter fastsatt i regelverket. Ved fylte 75 år skal uttaket uansett endres til fullt uttak.
 
-(4) Medlem som mottar uførepensjon etter [§ 6-1](lov/2000-03-24-16/§6-1),1 kan ikke samtidig ta ut alderspensjon i den utstrekning samlet uførepensjon og alderspensjon overstiger en pensjonsgrad på 100 prosent. Blir arbeidstaker ufør etter uttak av alderspensjon, reduseres alderspensjonsutbetalingen slik at pensjonsgraden ikke overskrider 100 prosent.
+(4) Medlem som mottar uførepensjon etter [§ 6-1](lov/2000-03-24-16/§6-1),[^1] kan ikke samtidig ta ut alderspensjon i den utstrekning samlet uførepensjon og alderspensjon overstiger en pensjonsgrad på 100 prosent. Blir arbeidstaker ufør etter uttak av alderspensjon, reduseres alderspensjonsutbetalingen slik at pensjonsgraden ikke overskrider 100 prosent.
 
 > Tilføyd ved [lov 17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011, se dens VII om overgangsregler).
 
@@ -912,7 +912,7 @@ I etterlattepensjon til ektefelle som har fylt 67 år, men ikke 70 år, skal fra
 
 (1) Avkastningen på midler som er tilført en pensjonskasse som ansvarlig kapital, skal ikke overstige en rente som står i rimelig forhold til størrelsen av innskutt kapital og den risiko som knytter seg til innskuddet.
 
-(2) Vedtektene for en pensjonskasse kan fastsette at en del av overskuddet etter § 8-1 i [lov om forsikringsvirksomhet av 10. juni 1988](lov/1988-06-10-39/§8-1) nr. 39,1 skal tilbakeholdes i pensjonskassen.
+(2) Vedtektene for en pensjonskasse kan fastsette at en del av overskuddet etter § 8-1 i [lov om forsikringsvirksomhet av 10. juni 1988](lov/1988-06-10-39/§8-1) nr. 39,[^1] skal tilbakeholdes i pensjonskassen.
 
 (3) Bestemmelsene i [§ 8-3](lov/2000-03-24-16/§8-3) første og annet ledd gjelder tilsvarende for forholdet mellom foretaket og risikoutjevningsfond og egenkapital i pensjonskassen.
 
@@ -1374,7 +1374,7 @@ Midler knyttet til en foretakspensjonsordning kan overføres til annen pensjonsi
 
 ### § 16-1. Ikrafttreden
 
-(1) Loven trer i kraft fra den dag Kongen bestemmer.1 De enkelte deler av loven kan settes i kraft til ulik tid.
+(1) Loven trer i kraft fra den dag Kongen bestemmer.[^1] De enkelte deler av loven kan settes i kraft til ulik tid.
 
 1 Fra 1 jan 2001 iflg. [res. 25 aug 2000 nr. 879](forskrift/2000-08-25-879).
 
@@ -1426,11 +1426,11 @@ Midler knyttet til en foretakspensjonsordning kan overføres til annen pensjonsi
 
 (21) Bestemmelsene i [kapitlene 13](lov/2000-03-24-16/kap13) til [15](lov/2000-03-24-16/kap15) gjelder ikke avtale eller beslutning vedrørende sammenslåing, deling eller avvikling inngått eller truffet før loven er trådt i kraft. Avtalen eller beslutningen må være gjennomført senest to år etter at loven trådte i kraft. Fristen på to år i [§ 14-3](lov/2000-03-24-16/§14-3) fjerde ledd regnes fra det tidspunkt loven trådte i kraft. Før fordeling av midlene i premiefondet i henhold til [§ 15-3](lov/2000-03-24-16/§15-3) tredje ledd skal premiefondet først benyttes til å dekke opp manglende premiereserve som nevnt i 14. ledd. Det samme gjelder ved omdanning etter [§ 15-6](lov/2000-03-24-16/§15-6).
 
-(22) Midler i premiefond som nevnt i § 16 punkt 6 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger i henhold til skatteloven1 § 44 første ledd bokstav k, skal være overført til pensjonsordningens premiefond innen fem år etter at loven trådte i kraft. Forskriften [§ 17](forskrift/1968-06-28-3/§17) gjelder tilsvarende.
+(22) Midler i premiefond som nevnt i § 16 punkt 6 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger i henhold til skatteloven[^1] § 44 første ledd bokstav k, skal være overført til pensjonsordningens premiefond innen fem år etter at loven trådte i kraft. Forskriften [§ 17](forskrift/1968-06-28-3/§17) gjelder tilsvarende.
 
-(23) For pensjonsfond opprettet før 1. juli 1968 gjelder bestemmelsene i § 16 punkt 7 og § 17 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger i henhold til skatteloven1 § 44 første ledd bokstav k. For pensjonsfond som er suppleringsfond etter § 9 i forskriften gjelder bestemmelsene i § 17.
+(23) For pensjonsfond opprettet før 1. juli 1968 gjelder bestemmelsene i § 16 punkt 7 og § 17 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger i henhold til skatteloven[^1] § 44 første ledd bokstav k. For pensjonsfond som er suppleringsfond etter § 9 i forskriften gjelder bestemmelsene i § 17.
 
-(24) Innen 5 år etter det år lov om foretakspensjon er trådt i kraft, skal pensjonsreguleringsfond etter skatteloven1 avvikles ved at midlene i fondet benyttes til pensjonsregulering i samsvar med regelverket for pensjonsordningen, eller overføres til premiefond knyttet til foretakets foretakspensjonsordning.
+(24) Innen 5 år etter det år lov om foretakspensjon er trådt i kraft, skal pensjonsreguleringsfond etter skatteloven[^1] avvikles ved at midlene i fondet benyttes til pensjonsregulering i samsvar med regelverket for pensjonsordningen, eller overføres til premiefond knyttet til foretakets foretakspensjonsordning.
 
 (25) Kongen fastsetter øvrige overgangsregler.
 
@@ -1450,11 +1450,11 @@ Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – �
 
 **2.** Overgangsregler til [§ 6-46](lov/1999-03-26-14/§6-46) skal lyde:
 
-(1) Dersom premiereserven knyttet til en foretakspensjonsordning ved lovens ikrafttredelse ikke er tilstrekkelig til å sikre opptjent pensjon som følge av at denne beregnes etter det regelverket som gjelder etter at loven er trådt i kraft, og tjenestetid fra tiden før loven trådte i kraft1 medregnes ved beregningen, gjelder følgende: Foretaket kan i disse tilfeller benytte midler i premiefondet til å dekke opp manglende premiereserve, eller dekke denne ved tilskudd fra foretaket dersom dette gjøres før utløpet av ti år etter det år lov om foretakspensjon trådte i kraft. For slike tilskudd kan foretaket kreve fradrag som premie etter lov av 26. mars 1999 om skatt på formue og inntekt § 6-46.
+(1) Dersom premiereserven knyttet til en foretakspensjonsordning ved lovens ikrafttredelse ikke er tilstrekkelig til å sikre opptjent pensjon som følge av at denne beregnes etter det regelverket som gjelder etter at loven er trådt i kraft, og tjenestetid fra tiden før loven trådte i kraft[^1] medregnes ved beregningen, gjelder følgende: Foretaket kan i disse tilfeller benytte midler i premiefondet til å dekke opp manglende premiereserve, eller dekke denne ved tilskudd fra foretaket dersom dette gjøres før utløpet av ti år etter det år lov om foretakspensjon trådte i kraft. For slike tilskudd kan foretaket kreve fradrag som premie etter lov av 26. mars 1999 om skatt på formue og inntekt § 6-46.
 
-(2) Pensjonsfond etter [lov av 18. august 1911 nr. 8](lov/1911-08-18-8) om skatt på formue og inntekt § 44 første ledd bokstav k som er oppsamlingsfond som nevnt i § 10 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger etter skatteloven av 1911, skal tilbakeføres til foretaket dersom foretakspensjonsordning ikke er opprettet innen tre år etter at lov om foretakspensjon er trådt i kraft.1 Beløp som tilbakeføres til foretaket, skal tas til inntekt i tilbakeføringsåret.
+(2) Pensjonsfond etter [lov av 18. august 1911 nr. 8](lov/1911-08-18-8) om skatt på formue og inntekt § 44 første ledd bokstav k som er oppsamlingsfond som nevnt i § 10 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger etter skatteloven av 1911, skal tilbakeføres til foretaket dersom foretakspensjonsordning ikke er opprettet innen tre år etter at lov om foretakspensjon er trådt i kraft.[^1] Beløp som tilbakeføres til foretaket, skal tas til inntekt i tilbakeføringsåret.
 
-(3) Pensjonsfond etter [skatteloven av 18. august 1911 nr. 8 § 44](lov/1911-08-18-8/§44) første ledd bokstav k som er suppleringsfond etter § 9 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger etter skatteloven av 1911, og tilsvarende pensjonsfond opprettet før 1968, skal avvikles innen tre år etter at lov om foretakspensjon er trådt i kraft1 dersom foretaket har foretakspensjonsordning. Midlene i suppleringsfondet skal i tilfelle tilføres pensjonsordningen. Fradragsretten etter lov av 26. mars 1999 om skatt på formue og inntekt § 6-46 gjelder tilsvarende for tilskudd til suppleringsfond som ikke skal avvikles, likevel ikke i mer enn tre år fra og med det inntektsår lov om foretakspensjon trer i kraft.2
+(3) Pensjonsfond etter [skatteloven av 18. august 1911 nr. 8 § 44](lov/1911-08-18-8/§44) første ledd bokstav k som er suppleringsfond etter § 9 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger etter skatteloven av 1911, og tilsvarende pensjonsfond opprettet før 1968, skal avvikles innen tre år etter at lov om foretakspensjon er trådt i kraft[^1] dersom foretaket har foretakspensjonsordning. Midlene i suppleringsfondet skal i tilfelle tilføres pensjonsordningen. Fradragsretten etter lov av 26. mars 1999 om skatt på formue og inntekt § 6-46 gjelder tilsvarende for tilskudd til suppleringsfond som ikke skal avvikles, likevel ikke i mer enn tre år fra og med det inntektsår lov om foretakspensjon trer i kraft.[^2]
 
 (4) Departementet kan fastsette øvrige overgangsregler i forbindelse med gjennomføringen av lov om foretakspensjon.
 

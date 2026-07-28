@@ -15,7 +15,7 @@ xml_hash: "2b00d25597bf7e4617e0d67f9094da79de2c1fa280a4aaa078594b3719e9d4df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -316,7 +316,7 @@ Reglene i loven her gjelder ikke i den utstrekning annet følger av lovgivningen
 
 ### § 6-1. (ikrafttredelse.)
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer.1
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[^1]
 
 1 Fra 1 juli 1969 iflg. res. 13 juni 1969.
 

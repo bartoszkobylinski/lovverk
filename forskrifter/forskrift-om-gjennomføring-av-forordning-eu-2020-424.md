@@ -15,7 +15,7 @@ xml_hash: "393d2fd031b571ec40dadc2d43b5b4052e5a8857c3b27216a0a25e971a543363"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Anmodninger om unntak fra anvendelse av tekniske spesifikasjoner for samtrafikke
 
 ## § 3.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2020/424](eu/32020r0424) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2020/424](eu/32020r0424) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 772](forskrift/2022-05-06-772).
 

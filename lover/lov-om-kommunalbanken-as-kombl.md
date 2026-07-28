@@ -15,7 +15,7 @@ xml_hash: "de0a9dc2fabe0f082228415b8f5d8489bfd3076954a17fa847b25daa635672f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Når denne lova trer i kraft, blir Noregs Kommunalbank omdanna til aksjeselskap.
 
 ## § 3. Om retten til å bruke ordet «bank» i namn (foretaksnavn)
 
-Aksjeselskapet Kommunalbanken kan utan hinder av [lov 24. mai 1961 nr. 2](lov/1961-05-24-2) om forretningsbanker [§ 2](lov/1961-05-24-2/§2)1 bruke ordet «bank», med eller utan tillegg, i sitt namn (foretaksnavn) og ved omtale av si verksemd.
+Aksjeselskapet Kommunalbanken kan utan hinder av [lov 24. mai 1961 nr. 2](lov/1961-05-24-2) om forretningsbanker [§ 2](lov/1961-05-24-2/§2)[^1] bruke ordet «bank», med eller utan tillegg, i sitt namn (foretaksnavn) og ved omtale av si verksemd.
 
 > Endra med [lov 5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
 
@@ -52,7 +52,7 @@ Kravshavarar og andre rettshavarar kan ikkje setje seg imot overføringa eller g
 
 ## § 6. Førerett til anna statsstilling og venteløn
 
-[Lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tenestemenn m.m.1 § 13 nr. 2 til 6 om førerett til anna statsstilling og venteløn skal framleis gjelde for tidlegare arbeidstakarar i forvaltningsbedrifta Noregs Kommunalbank som blir sagde opp av grunn som nemnd i tenestemannslova [§ 13](lov/1983-03-04-3/§13) nr. 1 bokstavene a, b og c, og som var omfatta av desse reglane før omdanninga. Føreretten til anna statsstilling og retten til venteløn etter førre punktum opphøyrer 3 år etter at lova her tek til å gjelde. Føresegna her gjer inga innskrenking i arbeidstakars rettar etter [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidarvern og arbeidsmiljø m.v.2 §§ 60 nr. 2 og 67.
+[Lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tenestemenn m.m.[^1] § 13 nr. 2 til 6 om førerett til anna statsstilling og venteløn skal framleis gjelde for tidlegare arbeidstakarar i forvaltningsbedrifta Noregs Kommunalbank som blir sagde opp av grunn som nemnd i tenestemannslova [§ 13](lov/1983-03-04-3/§13) nr. 1 bokstavene a, b og c, og som var omfatta av desse reglane før omdanninga. Føreretten til anna statsstilling og retten til venteløn etter førre punktum opphøyrer 3 år etter at lova her tek til å gjelde. Føresegna her gjer inga innskrenking i arbeidstakars rettar etter [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidarvern og arbeidsmiljø m.v.[^2] §§ 60 nr. 2 og 67.
 
 1 Inkurie: [Lova er opphevd. Sjå no lov 16 juni 2017 nr. 67](lov/2017-06-16-67).
 
@@ -64,7 +64,7 @@ Kongen kan gi overgangsreglar.
 
 ## § 8. Iverksetting
 
-Lova her tek til å gjelde frå den tid Kongen fastset.1
+Lova her tek til å gjelde frå den tid Kongen fastset.[^1]
 
 1 Frå 1 nov 1999 iflg. [res. 29 okt 1999 nr. 1137](forskrift/1999-10-29-1137).
 

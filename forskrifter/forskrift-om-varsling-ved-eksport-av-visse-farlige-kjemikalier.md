@@ -16,7 +16,7 @@ xml_hash: "a5a74460ca16d488ab46cb122b4eb90b2e9f646b3eb89cbbdd0f0e1290704d19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -138,7 +138,7 @@ Samtidig oppheves [forskrift 24. oktober 1995 nr. 865](forskrift/1995-10-24-865)
 
 | *Chemical* | *CAS number* | *Category* |
 | --- | --- | --- |
-| 2,4,5-T and its salts and esters | 93-76-5\* | Pesticide |
+| 2,4,5-T and its salts and esters | 93-76-5[^\*] | Pesticide |
 | Alachlor | 15972-60-8 | Pesticide |
 | Aldicarb | 116-06-3 | Pesticide |
 | Aldrin | 309-00-2 | Pesticide |
@@ -153,7 +153,7 @@ Samtidig oppheves [forskrift 24. oktober 1995 nr. 865](forskrift/1995-10-24-865)
 | Decabromodiphenyl ether | 1163-19-5 | Industrial |
 | Dieldrin | 60-57-1 | Pesticide |
 | Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium salt, potassium salt and sodium salt) | 534-52-1<br>2980-64-5<br>5787-96-2<br>2312-76-7 | Pesticide |
-| Dinoseb and its salts and esters | 88-85-7\* | Pesticide |
+| Dinoseb and its salts and esters | 88-85-7[^\*] | Pesticide |
 | 1,2-dibromoethane (EDB) | 106-93-4 | Pesticide |
 | Endosulfan | 115-29-7 | Pesticide |
 | Ethylene dichloride | 107-06-2 | Pesticide |
@@ -168,7 +168,7 @@ Samtidig oppheves [forskrift 24. oktober 1995 nr. 865](forskrift/1995-10-24-865)
 | Methamidophos | 10265-92-6 | Pesticide |
 | Monocrotophos | 6923-22-4 | Pesticide |
 | Parathion | 56-38-2 | Pesticide |
-| Pentachlorophenol and its salts and esters | 87-86-5\* | Pesticide |
+| Pentachlorophenol and its salts and esters | 87-86-5[^\*] | Pesticide |
 | Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds<br>The following substances are included:<br>– Perfluorooctanoic acid (PFOA) and its salts<br>– Any related substance (including its salts and polymers) having a linear or branched perfluoroheptyl group with the formula C7F15- directly attached to another carbon atom as one of the structural elements<br>– Any related substance (including its salts and polymers) having a linear or branched perfluorooctyl group with the formula C8F17- as one of the structural elements<br>The following substances are excluded:<br>– C8F17-X, where X = F, Cl, Br<br>– C8F17-C(=O)OH, C8F17-C(=O)O-X′ or C8F17- CF2-X′ (where X′ = any group, including salts)<br>– Perfluorooctane sulfonic acid (PFOS) and its derivatives (C8F17SO2X X = OH, metal salt (O-M+), halide, amide and other derivatives including polymers)). | 335-67-1 | Industrial |
 | Phorate | 298-02-2 | Pesticide |
 | Terbufos | 13971-79-9 | Pesticide |

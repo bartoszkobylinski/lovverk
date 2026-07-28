@@ -15,7 +15,7 @@ xml_hash: "745e92abee017856f59f50c0164ee02b561a2c6dbbd3e6f2ad2a8d64e0dba164"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Forskriften retter seg mot enhver som innfører akvatiske dyr og/eller produkter
 
 Det er forbudt å innføre levende fisk tilhørende laksefamilien *Salmonidae* med opprinnelse på Færøyene.
 
-Levende rogn av fisk tilhørende familien *Salmonidae* med opprinnelse på Færøyene, kan innføres hvis rognen er blitt desinfisert1 to ganger, på grønneggstadiet og øyerognstadiet. Forsendelsen skal følges av et helsesertifikat etter modell i vedtak [2003/71/EF](eu/32003d0071) vedlegg I.
+Levende rogn av fisk tilhørende familien *Salmonidae* med opprinnelse på Færøyene, kan innføres hvis rognen er blitt desinfisert[^1] to ganger, på grønneggstadiet og øyerognstadiet. Forsendelsen skal følges av et helsesertifikat etter modell i vedtak [2003/71/EF](eu/32003d0071) vedlegg I.
 
 Melke av fisk tilhørende familien *Salmonidae* med opprinnelse på Færøyene, kan innføres. Forsendelsen skal følges av et helsesertifikat etter modell i vedtak [2003/71/EF](eu/32003d0071) vedlegg I.
 

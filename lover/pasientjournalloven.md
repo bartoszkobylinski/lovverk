@@ -15,7 +15,7 @@ xml_hash: "d8915b62570abc74bdf072881f15f356825200e0420431675f37540dc408cc95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -378,7 +378,7 @@ Den dataansvarlige og databehandleren skal erstatte skader som er oppstått som 
 
 ### § 32. Ikraftsetting
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.
 
 1 Fra 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732).
 

@@ -15,7 +15,7 @@ xml_hash: "1b6bdf2820ce69747fa56c5b0b92e41f3e4b2d70e00595ef967a7dbcee907ba4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -141,7 +141,7 @@ Innretningen skal ha ombord gyldig internasjonalt lastelinjesertifikat (1966), j
 1. I operasjonstilstand skal innretningen følge intaktstabilitetskravene i [§ 20](forskrift/1991-12-20-878/§20) med vindhastighet på minst 36 meter pr. sekund (m/s) (70 knop) og skadestabilitetskravene i [§ 21](forskrift/1991-12-20-878/§21) med vindhastighet på minst 25,8 m/s (50 knop) etter antatt skade i samsvar med [§ 23](forskrift/1991-12-20-878/§23). Halvt nedsenkbare innretninger skal i tillegg følge reserveoppdriftskravene i [§ 22](forskrift/1991-12-20-878/§22).
 2. Maks. KG for å følge ovennevnte stabilitetskrav skal tegnes opp for alle aktuelle dypganger for operasjon og betegnes i det følgende som KG-grensekurve I-op. Aktuelle operasjonsbegrensninger for tilstanden skal angis i tilknytning til KG-grensekurven.
 3. Det skal være mulig å bringe innretningen til sikkerhetstilstand fra enhver operasjonstilstand kun ved å deballastere, eventuelt dumpe flytende boreslam, jf. [§ 12](forskrift/1991-12-20-878/§12). Hvis Maks. KG knyttet til sikkerhetstilstanden eller temporære tilstander gir begrensninger med hensyn til å bringe innretningen fra operasjonstilstand til sikkerhetstilstand, vil disse bestemme Maks. KG for operasjonstilstanden, jf. [§ 13](forskrift/1991-12-20-878/§13).
-4. For nedsenkbare og oppjekkbare innretninger kommer ovennevnte krav ikke til anvendelse1.
+4. For nedsenkbare og oppjekkbare innretninger kommer ovennevnte krav ikke til anvendelse[^1].
 5. Spesialtilstander for operasjon.
 
    KG-grensekurver for spesielle eller kortvarige operasjoner kan baseres på andre kriterier eller lavere vindhastigheter enn det som er angitt i nr. 1. Dette forutsetter at den totale sikkerhet for tilstanden minst er den samme som for ordinære operasjonstilstander når det også tas hensyn til operasjonsbegrensninger.
@@ -160,7 +160,7 @@ Innretningen skal ha ombord gyldig internasjonalt lastelinjesertifikat (1966), j
 
 1. I sikkerhetstilstand skal innretningen følge intaktstabilitetskravene i [§ 20](forskrift/1991-12-20-878/§20) med vindhastighet på minst 51,5 m/s (100 knop). Beregning av skadestabilitet kreves ikke i sikkerhetstilstand, forutsatt at fartøy ikke tillates å anløpe innretningen. Andre aktiviteter som kan representere fare for skade og fylling, skal begrenses til det minimum som er nødvendig for innretningens sikkerhet. Dersom innretningens tiltenkte funksjon ikke gjør det forenelig å etterkomme ovennevnte forutsetninger, skal den følge skadestabilitetskravene i [§ 21](forskrift/1991-12-20-878/§21) med vindhastighet på minst 36 m/s (70 knop) etter antatt skade i samsvar med [§ 23](forskrift/1991-12-20-878/§23).
 2. Det kreves ikke at boliginnretning i sikkerhetstilstand skal følge skadestabilitetskravene uten at ovennevnte forhold tilsier det eller at innretningen ikke trekker seg bort fra andre installasjoner i sikkerhetstilstanden pga gangbroforbindelse eller lignende forhold.
-3. Maks. KG for å følge ovennevnte stabilitetskrav skal tegnes for alle aktuelle dypganger for sikkerhetstilstand og betegnes i det følgende som KG-grensekurve II. Aktuelle operasjonsbegrensninger i samsvar med det ovennevnte, skal angis i tilknytning til KG-grensekurven for sikkerhetstilstand. når sikkerhetsdypganger fastsettes for halvt nedsenkbare innretninger må det også tas hensyn til kravene om dekkets avstand til vannflaten1.
+3. Maks. KG for å følge ovennevnte stabilitetskrav skal tegnes for alle aktuelle dypganger for sikkerhetstilstand og betegnes i det følgende som KG-grensekurve II. Aktuelle operasjonsbegrensninger i samsvar med det ovennevnte, skal angis i tilknytning til KG-grensekurven for sikkerhetstilstand. når sikkerhetsdypganger fastsettes for halvt nedsenkbare innretninger må det også tas hensyn til kravene om dekkets avstand til vannflaten[^1].
 4. For nedsenkbare og oppjekkbare innretninger kommer ovennevnte krav kun til anvendelse i forbindelse med forflytning.
 
 1 Se krav om dekkets avstand til vannflaten i [forskrift av 4. september 1987 om bygging av flyttbare innretninger, § 10](forskrift/1987-09-04-856/§10).
@@ -342,7 +342,7 @@ For halvt nedsenkbare innretninger kan det ved beregning av skadestabilitet ette
 ### § 29. Fribord og lastelinjeforhold
 
 1. Innretningens lastelinjemerker skal angi maksimum tillatt dypgående utfra innretningens stabilitet og styrke samt eventuelle andre bestemmelser som har betydning for fastsettelse av dypgående.
-2. Det fastsatte fribord må ikke være mindre enn det kravene og denne forskriftens kapittel V tilsier1.
+2. Det fastsatte fribord må ikke være mindre enn det kravene og denne forskriftens kapittel V tilsier[^1].
 3. For boreskip og eventuelle andre typer innretninger hvor den internasjonale konvensjon om lastelinjer, 1966, kommer til anvendelse, skal også bestemmelsene i nevnte konvensjon følges. Maksimum dypgående skal da ikke overstige lastelinjen beregnet i henhold til denne konvensjonen.
 4. Lufterør med lukningsmidler til tanker o.l. skal være godt beskyttet mot sjøslag og mot slag fra løsnet dekkslast.
 
@@ -433,7 +433,7 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
       – lav-nivå-alarm for lagret energi (trykk) i akkumulatorene
 
       – lav-nivå-alarm for krafttilførsel (måles nærmest mulig drivkilden)
-2. Kontrollpanelet skal, sammen med ballastkontrollpanelet, være plassert i bemannet kontrollstasjon1.
+2. Kontrollpanelet skal, sammen med ballastkontrollpanelet, være plassert i bemannet kontrollstasjon[^1].
 3. Kontrollstasjonen skal være plassert over ugunstigste vannlinje ved krengevinkler spesifisert i [§ 30](forskrift/1991-12-20-878/§30), samt være tilstrekkelig beskyttet mot vær og vind.
 
 > Endret ved [forskrift 11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).

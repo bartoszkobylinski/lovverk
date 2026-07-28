@@ -15,7 +15,7 @@ xml_hash: "ff3fa2aac4f68383dd8d8f6820d76ba95913d669ae1f794e9d4e8398f2442d3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,7 +118,7 @@ Utvidet barnetrygd kan likevel gis i tilfeller der foreldrene er gift, hvis den 
 1. samlivet mellom ektefellene har vært hevet i minst 6 måneder (faktisk separasjon),
 2. den ene ektefellen har vært forsvunnet i minst 6 måneder. Tilsvarende gjelder for forsvunnet samboer eller partner,
 3. ektefellene er midlertidig separert ved kjennelse etter [ekteskapsloven § 92](lov/1991-07-04-47/§92), eller
-4. den ene ektefellen er innsatt i fengsel med dom på fengselsstraff der den ubetingede delen av straffen ikke er lavere enn 6 måneder eller er idømt forvaring. Det samme gjelder hvis vedkommende er idømt overføring til tvungent psykisk helsevern reller1 tvungen omsorg og av den grunn ikke kan bo sammen med ektefellen. Videre kan utvidet barnetrygd gis ved utholdt varetekt i minst 6 måneder. Bestemmelsen gjelder tilsvarende for samboer eller partner.
+4. den ene ektefellen er innsatt i fengsel med dom på fengselsstraff der den ubetingede delen av straffen ikke er lavere enn 6 måneder eller er idømt forvaring. Det samme gjelder hvis vedkommende er idømt overføring til tvungent psykisk helsevern reller[^1] tvungen omsorg og av den grunn ikke kan bo sammen med ektefellen. Videre kan utvidet barnetrygd gis ved utholdt varetekt i minst 6 måneder. Bestemmelsen gjelder tilsvarende for samboer eller partner.
 
 Det foreligger ikke rett til utvidet barnetrygd i tilfeller der barnas foreldre vanligvis bor sammen, men der de midlertidig bor atskilt som følge av arbeid, utdannelse e.l.
 
@@ -140,7 +140,7 @@ Det foreligger ikke rett til utvidet barnetrygd for særkullsbarn dersom stønad
 
 ### § 10. Barnetrygdens størrelse
 
-Barnetrygd gis med de beløp som fastsettes av Stortinget.1
+Barnetrygd gis med de beløp som fastsettes av Stortinget.[^1]
 
 1 Beløpet fastsettes i forbindelse med statsbudsjettet. I årene 1996 – 2018 var stønadssatsen for ordinær barnetrygd kr. 11.640 per barn per år. Fra 1 mars 2019 er den ordinære barnetrygd kr. 1.054 per barn per måned. Fra 1 jan 2023 til og med 28 feb 2023 er satsen for ordinær barnetrygd kr 1.676 pr måned for barn i alderen 0–6 år og kr. 1.054 for barn i alderen 6–18 år. Fra 1 mars 2023 til og med 30 juni 2023 er satsen for ordinær barnetrygd kr 1.723 pr måned for barn i alderen 0–6 år og kr. 1.083 for barn i alderen 6–18 år. Fra 1 juli 2023 til og med 31 desember 2023 er satsen for ordinær barnetrygd kr 1.766 pr måned for barn i alderen 0–6 år og kr. 1.310 for barn i alderen 6–18 år. Fra 1 januar 2024 til og med 31 august 2024 er satsen for ordinær barnetrygd kr 1.766 pr måned for barn i alderen 0–6 år og kr. 1.510 for barn i alderen 6–18 år. Fra 1 september 2024 er satsen for ordinær barnetrygd kr 1.766 pr måned for barn i alderen 0–6 år og kr. 1.766 for barn i alderen 6–18 år
 
@@ -187,7 +187,7 @@ Krav må likevel settes fram på skjema fastsatt av Arbeids- og velferdsdirektor
 1. barnets mor ikke er registrert som bosatt i Norge i henhold til [lov 9. desember 2016 nr. 88](lov/2016-12-09-88) om folkeregistrering,
 2. barnet er eldre enn seks måneder når rett til barnetrygd inntrer, selv om barnet tidligere har vært berettiget til barnetrygd fra Norge,
 3. stønadsmottakeren har krav på barnetrygd for ett barn mer enn det faktiske barnetall, utvidet barnetrygd, etter [§ 9](lov/2002-03-08-4/§9), eller
-4. retten til barnetrygd skal vurderes etter EØS-avtalens regler1 eller regler i andre trygdeavtaler.
+4. retten til barnetrygd skal vurderes etter EØS-avtalens regler[^1] eller regler i andre trygdeavtaler.
 
 Når krav om barnetrygd må settes fram skal kravet i alminnelighet settes fram av den som barnet bor fast sammen med. Når barnet bor sammen med begge foreldrene, setter en av disse fram kravet.
 
@@ -278,7 +278,7 @@ Departementet kan gi forskrifter om gjennomføringen av denne loven.
 
 ### § 25. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme dato blir [lov 24. oktober 1946 nr. 2](lov/1946-10-24-2) om barnetrygd opphevet.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme dato blir [lov 24. oktober 1946 nr. 2](lov/1946-10-24-2) om barnetrygd opphevet.
 
 1 Fra 1 jan 2003 iflg. [res. 8 mars 2002 nr. 225](forskrift/2002-03-08-225).
 

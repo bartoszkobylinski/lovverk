@@ -15,7 +15,7 @@ xml_hash: "55a1e3a0b224665108dd1956771507f109a40cf7209ae20441c1631c36ba6bf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32019L1152"
@@ -991,7 +991,7 @@ Med bøter eller fengsel inntil 6 måneder straffes den som på vegne av arbeids
 
 ### § 13-1. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan settes i kraft til ulik tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] De enkelte bestemmelser kan settes i kraft til ulik tid.
 
 1 Iflg. [res. 21 juni 2013 nr. 730](forskrift/2013-06-21-730) trådte loven ikr. 20 aug 2013, med unntak av [lovens kapittel 10](lov/2013-06-21-102/kap10) som trådte ikr. 1 jan 2014. Opphevelse av [sjømannsloven 30 mai 1975 nr. 18](lov/1975-05-30-18) trådte ikr. 20 aug 2013, med unntak av lovens kapittel IIA som ble opphevet fra 1 jan 2014.
 

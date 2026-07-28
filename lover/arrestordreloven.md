@@ -15,7 +15,7 @@ xml_hash: "84ae3006e659b6ed2fca97949b7448da88d981611f403041fdeaba0e59312587"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -434,7 +434,7 @@ Andre ledd gjeld tilsvarande ved transitt av ein person som skal utleverast frå
 
 ### § 42. Iverksetjing m.m.
 
-Loven trer i kraft frå det tidspunktet1 Kongen fastset. Kongen kan bestemme at loven skal tre i kraft mellom enkelte av dei nordiske statane, eller for berre nordiske eller nordisk-europeiske arrestordrar. Frå det tidspunkt loven trer i kraft for nordiske arrestordrar, vert [lov 3. mars 1961 nr. 1](lov/1961-03-03-1) om utlevering av lovbrytarar til Danmark, Finland, Island og Sverige og [lov 19. september 2008 nr. 77](lov/2008-09-19-77) om nordisk arrestordre oppheva.
+Loven trer i kraft frå det tidspunktet[^1] Kongen fastset. Kongen kan bestemme at loven skal tre i kraft mellom enkelte av dei nordiske statane, eller for berre nordiske eller nordisk-europeiske arrestordrar. Frå det tidspunkt loven trer i kraft for nordiske arrestordrar, vert [lov 3. mars 1961 nr. 1](lov/1961-03-03-1) om utlevering av lovbrytarar til Danmark, Finland, Island og Sverige og [lov 19. september 2008 nr. 77](lov/2008-09-19-77) om nordisk arrestordre oppheva.
 
 Loven gjeld for arrestordrar mottekne etter at loven har tredd i kraft. Utleveringskrav mottekne før loven har tredd i kraft, vert behandla etter [lov 3. mars 1961 nr. 1](lov/1961-03-03-1) om utlevering av lovbrytarar til Danmark, Finland, Island og Sverige eller etter [lov 13. juni 1975 nr. 39](lov/1975-06-13-39) om utlevering av lovbrytarar m.v.
 
@@ -442,6 +442,6 @@ Loven gjeld for arrestordrar mottekne etter at loven har tredd i kraft. Utleveri
 
 ### § 43. Endringar i andre lover
 
-Frå den tida Kongen fastset,1 blir det gjort følgjande endringar i anna lovgiving: – – –
+Frå den tida Kongen fastset,[^1] blir det gjort følgjande endringar i anna lovgiving: – – –
 
 1 § 1 til § 42 tek til å gjelde 16 okt 2012 for nordiske arrestordrar. § 43 med unntak av endringa i [lov 13 juni 1975 nr. 39 § 1](lov/1975-06-13-39/§1) tek til å gjelde 16 okt 2012 iflg. [res. 21 sep 2012 nr. 895](forskrift/2012-09-21-895). § 1 til § 42 tek til å gjelde 1 nov 2019 for så vidt gjeld nordisk-europeiske arrestordrar. § 43 om endring i [lov 13 juni 1975 nr. 39 § 1](lov/1975-06-13-39/§1) tek til å gjelde 1 nov 2019 iflg. [res. 18 okt 2019 nr. 1387](forskrift/2019-10-18-1387).

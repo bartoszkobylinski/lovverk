@@ -15,7 +15,7 @@ xml_hash: "f4f6437cac03946f7803bb2e6c89edc8751020d2d04f6c1f6e9c83cd1cf845db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Statsforvalteren skal gi råd, veilede og være pådriver for et målrettet og s
 *Statsforvalteren skal*
 
 1. i samarbeid med fagetatene påse at kommunene ivaretar kravene til samfunnssikkerhet i sin samfunnsplanlegging etter plan- og bygningsloven og gi nødvendig veiledning til kommunene og fylkeskommunen i planarbeidet
-2. veilede kommunene i hvordan de skal oppfylle kravene i [sivilbeskyttelsesloven § 14](lov/2010-06-25-45/§14) og § [15](lov/2010-06-25-45/§15), bestemmelser fastsatt i medhold av disse, og øvrige beredskapsrelaterte tilsynsbestemmelser i lovverket1
+2. veilede kommunene i hvordan de skal oppfylle kravene i [sivilbeskyttelsesloven § 14](lov/2010-06-25-45/§14) og § [15](lov/2010-06-25-45/§15), bestemmelser fastsatt i medhold av disse, og øvrige beredskapsrelaterte tilsynsbestemmelser i lovverket[^1]
 3. ta initiativ til, veilede og samordne arbeidet med den sivile beredskapsplanleggingen i fylket, samt det sivil-militære samarbeidet om beredskapsplanlegging i fylket
 4. ta initiativ til og tilrettelegge for beredskapsøvelser og andre kompetansehevende tiltak i fylket
 5. ta initiativ til og følge opp evalueringer etter øvelser og hendelser for å sikre læring og utvikling av samfunnssikkerhets- og beredskapsarbeidet lokalt og regionalt.
@@ -133,7 +133,7 @@ Statsforvalteren skal på regionalt nivå samordne den sivile krisehåndteringen
 3. skaffe oversikt over situasjonen i fylket, kartlegge kommunenes og andre berørte aktørers behov og gi en situasjonsrapport til sentrale myndigheter
 4. informere fylkesberedskapsrådet om situasjonen, og innkalle hele eller deler av fylkesberedskapsrådet ved større uønskede hendelser og skape enighet om hvilke sivile tiltak som bør iverksettes, samt hvilke anmodninger som skal fremmes for Forsvaret om militære tiltak
 5. bidra til å avklare spørsmål som måtte komme fra kommunene, fylkeskommunen, den regionale statsforvaltningen og andre aktører
-6. behandle anmodninger fra kommuner og regionale aktører om bistand fra Forsvaret.1
+6. behandle anmodninger fra kommuner og regionale aktører om bistand fra Forsvaret.[^1]
 7. ta initiativ overfor sentrale myndigheter ved behov for tilførsel av ekstra ressurser, samt videreformidle ekstra ressurser til kommunene
 8. bidra til å etablere god kontakt, tilrettelegge for gjensidig bistand og samarbeid mellom sivile og militære myndigheter og samordne den sivile del av totalforsvaret
 9. etablere kontakt med andre berørte embeter med sikte på å samordne håndteringen av uønskede hendelser på tvers av fylkesgrensene, eller der behovet for ressurser er stort
@@ -163,7 +163,7 @@ Lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og lik
 
 Instruksen trer i kraft straks.
 
-Fra samme tidspunkt opphører kgl.res. 12. desember 19971 om retningslinjer for regionalt samordningsansvar ved kriser og katastrofer i fred og [kgl.res. 18. april 2008 nr. 388](forskrift/2008-04-18-388) om instruks for samfunnssikkerhets- og beredskapsarbeidet til fylkesmannen og Sysselmannen på Svalbard.
+Fra samme tidspunkt opphører kgl.res. 12. desember 1997[^1] om retningslinjer for regionalt samordningsansvar ved kriser og katastrofer i fred og [kgl.res. 18. april 2008 nr. 388](forskrift/2008-04-18-388) om instruks for samfunnssikkerhets- og beredskapsarbeidet til fylkesmannen og Sysselmannen på Svalbard.
 
 1 Ikke kunngjort i Norsk Lovtidend. Lovtidend-redaksjonens anm.
 
@@ -314,6 +314,6 @@ Det er et pågående arbeid for at [lov 15. desember 1950 nr. 7](lov/1950-12-15-
 
 ### XI. Ikrafttredelse
 
-Instruksen trer i kraft straks og avløser kgl.res. 12. desember 19971 – Retningslinjer for regionalt samordningsansvar ved kriser og katastrofer i fred, og [kgl.res. 18. april 2008 nr. 388](forskrift/2008-04-18-388) – Instruks for samfunnssikkerhets- og beredskapsarbeidet til Fylkesmannen og Sysselmannen på Svalbard.
+Instruksen trer i kraft straks og avløser kgl.res. 12. desember 1997[^1] – Retningslinjer for regionalt samordningsansvar ved kriser og katastrofer i fred, og [kgl.res. 18. april 2008 nr. 388](forskrift/2008-04-18-388) – Instruks for samfunnssikkerhets- og beredskapsarbeidet til Fylkesmannen og Sysselmannen på Svalbard.
 
 1 Ikke kunngjort i Norsk Lovtidend. Lovtidend-redaksjonens anm.

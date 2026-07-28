@@ -15,7 +15,7 @@ xml_hash: "3966351eb8268e57649cf71829e9fe6b1184c470de1880faacc2719bd7a70a2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31998L0026"
@@ -91,7 +91,7 @@ Norges Bank kan gjøre unntak fra kravet til tillatelse for systemer som har et 
 
 Et interbanksystem skal ha en operatør som er ansvarlig for etablering og drift. Operatøren kan være en av de deltakende banker, annet selskap, selveiende institusjon eller forening.
 
-Daglig leder av operatørens virksomhet skal oppfylle nødvendige krav til hederlig vandel og erfaring. Tilsvarende gjelder for styremedlemmene.1
+Daglig leder av operatørens virksomhet skal oppfylle nødvendige krav til hederlig vandel og erfaring. Tilsvarende gjelder for styremedlemmene.[^1]
 
 Avtalen mellom deltakerne i et interbanksystem skal angi hvilke rettigheter og plikter deltakerne skal ha overfor hverandre, samt angi operatør.
 
@@ -210,7 +210,7 @@ Sikkerhet som er stilt overfor en sentralbank innenfor EØS-området, en operat�
 
 En operatørs rett til sikkerhet stilt overfor en annen operatør i forbindelse med et samvirkende system skal ikke påvirkes av insolvensbehandling hos mottakende operatør. Ved insolvensbehandling har operatøren rett til å få dekket sin fordring på tilbakeføring av sikkerheten før andre fordringer med unntak av massefordringer. Fortrinnsretten er begrenset til den del av sikkerheten som overstiger den mottatte operatørens krav mot vedkommende. Fordringen skal dekkes uten ugrunnet opphold.
 
-Dersom finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2) er stilt som sikkerhet etter første ledd, og retten til de finansielle instrumentene er registrert i et register, en konto eller i en verdipapirsentral i en EØS-stat, skal lovgivningen i dette landet være bestemmende for rettighetene til innehaver av sikkerhetsstillelsen.1 For sikkerhet stilt i forbindelse med deltakelse i interbanksystemer eller verdipapiroppgjørssystemer som har valgt lovgivningen i en stat utenfor EØS for systemet, må systemet være meldt og offentliggjort i samsvar med [§ 4-1](lov/1999-12-17-95/§4-1) fjerde ledd.
+Dersom finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2) er stilt som sikkerhet etter første ledd, og retten til de finansielle instrumentene er registrert i et register, en konto eller i en verdipapirsentral i en EØS-stat, skal lovgivningen i dette landet være bestemmende for rettighetene til innehaver av sikkerhetsstillelsen.[^1] For sikkerhet stilt i forbindelse med deltakelse i interbanksystemer eller verdipapiroppgjørssystemer som har valgt lovgivningen i en stat utenfor EØS for systemet, må systemet være meldt og offentliggjort i samsvar med [§ 4-1](lov/1999-12-17-95/§4-1) fjerde ledd.
 
 > Endret ved [lover 5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [29 juni 2007 nr. 75](lov/2007-06-29-75) (ikr. 1 nov 2007 iflg. [res. 29 juni 2007 nr. 752](forskrift/2007-06-29-752)), [18 nov 2011 nr. 42](lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](forskrift/2011-11-18-1107)), [20 juni 2014 nr. 29](lov/2014-06-20-29) (ikr. 1 juli 2014 iflg. [vedtak 26 juni 2014 nr. 866](forskrift/2014-06-26-866)), [16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 717](forskrift/2017-06-09-717)), [20 des 2018 nr. 103](lov/2018-12-20-103) (ikr. 1 jan 2019), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [21 des 2020 nr. 165](lov/2020-12-21-165).
 
@@ -317,9 +317,9 @@ Kongen gir forskrift om denne lovs anvendelse for Norges økonomiske sone og for
 
 ### § 7-1. Ikrafttredelse og overgangsregler
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan settes i kraft til ulik tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] De enkelte bestemmelser kan settes i kraft til ulik tid.
 
-Departementet1 kan fastsette nærmere overgangsregler.
+Departementet[^1] kan fastsette nærmere overgangsregler.
 
 > Endret ved [lov 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), tidligere § 6-1.
 

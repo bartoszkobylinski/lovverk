@@ -15,7 +15,7 @@ xml_hash: "9ba3d7e8b0d858042e1c29e79774500bf0c935fc4cb12c2972935d8bea07d8ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,6 +76,6 @@ Den som med vilje eller aktløyse bryt føresegner gitt i eller med heimel i lov
 
 ## § 7.
 
-Denne lova tek til å gjelda frå den tid Kongen fastset.1 Lov frå 4 juli 1919 om innskrenkning i adgangen til å slippe hingstar, graoksar, geitebukker og graværer på beite, held samstundes opp å gjelda. Det same gjeld vedtekter gitt med heimel i den lova.
+Denne lova tek til å gjelda frå den tid Kongen fastset.[^1] Lov frå 4 juli 1919 om innskrenkning i adgangen til å slippe hingstar, graoksar, geitebukker og graværer på beite, held samstundes opp å gjelda. Det same gjeld vedtekter gitt med heimel i den lova.
 
 1 Frå 1 jan 1971 iflg. res. 6 mai 1970.

@@ -15,7 +15,7 @@ xml_hash: "e833533276ca039044c4d62a87feed744747fcdd378b004f9fd737b6a4d60acd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1.
 
-Bestemmelsen i Lov om det beneficerede Gods af 20de August 18211 § 38 skal ikke være til Hinder for, at Staten frafalder til Fordel for Røros Verk ethvert Krav paa Rettigheder i og over Strækningerne Røros vestre Statsalmenning og Røros østre Statsalmenning, saaledes at der fra Statens Side indrømmes, at disse Strækninger fremtidig tilhører Røros Verk med fra Statens side ubestridt Eiendomsret. Den Ret til Jagt og Fangst efter Smaavildt, som efter [Lov angaaende Jagt og Fangst af 20de Mai 1899 § 6]2 tilkommer Indvaanere af Røros Herred, samt de Rettigheder, som ifølge Kontrakt, Hævd, Alders Tids Brug eller Lov maatte tilkomme Almuen, – skal forbeholdes Vedkommende.
+Bestemmelsen i Lov om det beneficerede Gods af 20de August 1821[^1] § 38 skal ikke være til Hinder for, at Staten frafalder til Fordel for Røros Verk ethvert Krav paa Rettigheder i og over Strækningerne Røros vestre Statsalmenning og Røros østre Statsalmenning, saaledes at der fra Statens Side indrømmes, at disse Strækninger fremtidig tilhører Røros Verk med fra Statens side ubestridt Eiendomsret. Den Ret til Jagt og Fangst efter Smaavildt, som efter [Lov angaaende Jagt og Fangst af 20de Mai 1899 § 6][^2] tilkommer Indvaanere af Røros Herred, samt de Rettigheder, som ifølge Kontrakt, Hævd, Alders Tids Brug eller Lov maatte tilkomme Almuen, – skal forbeholdes Vedkommende.
 
 1 Inkurie: Nå [lov 7 juni 1996 nr. 33](lov/1996-06-07-33).
 

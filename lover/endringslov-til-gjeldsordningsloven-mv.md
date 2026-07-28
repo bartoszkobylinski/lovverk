@@ -15,7 +15,7 @@ xml_hash: "ca82100303adf1186db6c281c20288f6d1f9089b0017923bdb93ad56229354cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ I [lov 23. juni 2020 nr. 98 om behandling av forbrukerklager i Forbrukertilsynet
 
 ## III
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Endringene i del I gjelder for saker hvor gjeldsforhandling åpnes etter at loven er trådt i kraft. Opphevelsen av [§ 6-2 fjerde ledd](lov/1992-07-17-99/§6-2/ledd/4) gjelder likevel også for eldre saker, så lenge toårsperioden ikke er utløpt når loven trer i kraft.
 3. Departementet kan fastsette overgangsregler.
 

@@ -15,7 +15,7 @@ xml_hash: "0c741888572fbaef88c21b679cea3f6dde3f3fa03fb1811f6b7f9f44e714d414"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2321,22 +2321,22 @@ Gebyr etter [§ 15-3](forskrift/2009-12-18-1839/§15-3), [§ 15-3A](forskrift/20
 
 | *Søknadstype* | *Human* |
 | --- | --- |
-| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 2 | 10 881 |
-| Endring type II; indikasjonsendring1 2 3 | 96 009 |
-| Endring type II; endring i reseptstatus1 2 | 96 009 |
-| Øvrige endringer type II1 2 4 | 16 002 |
-| Fornyelser5 | 51 204 |
-| Tradisjonelle plantebaserte legemidler; Endring type II; nytt bruksområde1 2 3 | 28 802 |
-| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 2 | 10 881 |
-| Tradisjonelle plantebaserte legemidler; Øvrige endringer type II1 2 | 16 002 |
-| Tradisjonelle plantebaserte legemidler; Fornyelser5 | 25 602 |
+| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking[^1] [^2] | 10 881 |
+| Endring type II; indikasjonsendring[^1] [^2] [^3] | 96 009 |
+| Endring type II; endring i reseptstatus[^1] [^2] | 96 009 |
+| Øvrige endringer type II[^1] [^2] [^4] | 16 002 |
+| Fornyelser[^5] | 51 204 |
+| Tradisjonelle plantebaserte legemidler; Endring type II; nytt bruksområde[^1] [^2] [^3] | 28 802 |
+| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking[^1] [^2] | 10 881 |
+| Tradisjonelle plantebaserte legemidler; Øvrige endringer type II[^1] [^2] | 16 002 |
+| Tradisjonelle plantebaserte legemidler; Fornyelser[^5] | 25 602 |
 
 *Parallellimport (Nasjonale)*
 
 | *Søknadstype* | *Human* |
 | --- | --- |
 | Søknad om markedsføringstillatelse | 20 481 |
-| Fornyelser5 | 6 400 |
+| Fornyelser[^5] | 6 400 |
 
 MRP der Norge er RMS
 
@@ -2344,8 +2344,8 @@ MRP der Norge er RMS
 
 | *Søknadstype* | *Human* |
 | --- | --- |
-| Inngåelse av avtale om RMS-oppdrag6 | 64 005 |
-| Igangsetting av MRP-oppdrag, alle typer MT-søknader7 | 128 012 |
+| Inngåelse av avtale om RMS-oppdrag[^6] | 64 005 |
+| Igangsetting av MRP-oppdrag, alle typer MT-søknader[^7] | 128 012 |
 | Repeat use, alle typer MT-søknader | 128 012 |
 | Annex I: søknader unntatt nye former og styrker, | 115 209 |
 | Annex I (line extension): Nye former/styrker | 160 013 |
@@ -2354,17 +2354,17 @@ MRP der Norge er RMS
 
 | *Søknadstype* | *Human* |
 | --- | --- |
-| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 2 | 14 079 |
-| Endring type II; indikasjonsendring1 2 3 | 96 009 |
-| Øvrige endringer type II1 2 4 | 15 362 |
-| Worksharing; indikasjonsendring 3 8 | 96 009 |
-| Worksharing; Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 8 | 12 802 |
+| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking[^1] [^2] | 14 079 |
+| Endring type II; indikasjonsendring[^1] [^2] [^3] | 96 009 |
+| Øvrige endringer type II[^1] [^2] [^4] | 15 362 |
+| Worksharing; indikasjonsendring [^3] [^8] | 96 009 |
+| Worksharing; Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking [^1] [^2] [^8] | 12 802 |
 | Worksharing; harmonisering av SmPC | 32 002 |
-| Worksharing; øvrige endringer type II8 | 16 002 |
-| Fornyelser5 | 51 204 |
-| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 | 10 241 |
-| Tradisjonelle plantebaserte legemidler; Endringer, type II 1 2 | 15 362 |
-| Tradisjonelle plantebaserte legemidler; Fornyelser5 | 25 602 |
+| Worksharing; øvrige endringer type II[^8] | 16 002 |
+| Fornyelser[^5] | 51 204 |
+| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking [^1] [^2] | 10 241 |
+| Tradisjonelle plantebaserte legemidler; Endringer, type II [^1] [^2] | 15 362 |
+| Tradisjonelle plantebaserte legemidler; Fornyelser[^5] | 25 602 |
 
 MRP der Norge er CMS
 
@@ -2385,17 +2385,17 @@ MRP der Norge er CMS
 
 | *Søknadstype* | *Human* |
 | --- | --- |
-| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 | 8 321 |
-| Endring type II; indikasjonsendring 1 2 3 | 44 804 |
-| Øvrige endringer type II 1 2 4 | 12 802 |
-| Worksharing; indikasjonsendring 8 | 38 402 |
-| Worksharing Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 8 | 12 802 |
+| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking [^1] [^2] | 8 321 |
+| Endring type II; indikasjonsendring [^1] [^2] [^3] | 44 804 |
+| Øvrige endringer type II [^1] [^2] [^4] | 12 802 |
+| Worksharing; indikasjonsendring [^8] | 38 402 |
+| Worksharing Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking [^1] [^2] [^8] | 12 802 |
 | Worksharing harmonisering av SmPC | 25 602 |
-| Worksharing øvrige endringer type II 8 | 12 802 |
-| Fornyelser 5 | 21 762 |
-| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 | 6 400 |
-| Tradisjonelle plantebaserte legemidler; Endringer, type II 1 2 | 8 959 |
-| Tradisjonelle plantebaserte legemidler; Fornyelser 5 | 6 400 |
+| Worksharing øvrige endringer type II [^8] | 12 802 |
+| Fornyelser [^5] | 21 762 |
+| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking [^1] [^2] | 6 400 |
+| Tradisjonelle plantebaserte legemidler; Endringer, type II [^1] [^2] | 8 959 |
+| Tradisjonelle plantebaserte legemidler; Fornyelser [^5] | 6 400 |
 
 DCP der Norge er RMS
 
@@ -2403,7 +2403,7 @@ DCP der Norge er RMS
 
 | *Søknadstype* | *Human* |
 | --- | --- |
-| Inngåelse av avtale om RMS-oppdrag6 | 64 005 |
+| Inngåelse av avtale om RMS-oppdrag[^6] | 64 005 |
 | Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b. | 448 040 |
 | Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c. | 192 016 |
 | Flere former og styrker søkt samtidig. | 19 202 |

@@ -15,7 +15,7 @@ xml_hash: "fd30a7969a07e69990958e0b2542012087fc332c4379fd5cb23d3a673c16542e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,13 +30,13 @@ Formålet med denne instruksen er å sikre tilsyn og kontroll ved innførsel og 
 
 2\. *Virkeområde*
 
-Instruksen gjelder tilsyn og kontroll ved innførsel og utførsel av levende dyr, annet avlsmateriale, animalsk avfall og produkter av animalsk opprinnelse innen EØS, slik at dyrehelsemessige og avlsmessige vilkår er oppfylt, jf. [forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484)1 og [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471).2
+Instruksen gjelder tilsyn og kontroll ved innførsel og utførsel av levende dyr, annet avlsmateriale, animalsk avfall og produkter av animalsk opprinnelse innen EØS, slik at dyrehelsemessige og avlsmessige vilkår er oppfylt, jf. [forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484)[^1] og [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471).[^2]
 
 3\. *Definisjoner*
 
 I denne instruks forstås med:
 
-1. produkter av animalsk opprinnelse; produkter som helt eller delvis stammer fra dyr eller bier, som ikke er næringsmidler,3 og som er omfattet av særskilt forskrift.4
+1. produkter av animalsk opprinnelse; produkter som helt eller delvis stammer fra dyr eller bier, som ikke er næringsmidler,[^3] og som er omfattet av særskilt forskrift.[^4]
 2. forsendelse; en mengde levende dyr, annet avlsmateriale, animalsk avfall eller produkter av animalsk opprinnelse, som sendes med samme transportmiddel, med samme rute og bestemmelsessted, og som dekkes av samme helsesertifikat eller annen pålagt dokumentasjon.
 
 4\. *Unntatt fra instruksen*
@@ -54,7 +54,7 @@ Statens dyrehelsetilsyn – distriktsveterinæren skal under utøvelsen av kontr
 
 6\. *Ikrafttredelse*
 
-Instruksen trer i kraft straks og opphever instruks av 11. februar 2000 om tilsyn og kontroll ved innførsel og utførsel av levende dyr, annet avlmateriale og animalsk avfall innen EØS.5
+Instruksen trer i kraft straks og opphever instruks av 11. februar 2000 om tilsyn og kontroll ved innførsel og utførsel av levende dyr, annet avlmateriale og animalsk avfall innen EØS.[^5]
 
 1 [Forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484) om tilsyn og kontroll ved innførsel og utførsel av levende dyr, annet avlsmateriale og animalsk avfall innen EØS, og ved innførsel av levende dyr fra land utenfor EØS.
 
@@ -72,7 +72,7 @@ Instruksen trer i kraft straks og opphever instruks av 11. februar 2000 om tilsy
 
 Ved utførsel av levende dyr, annet avlsmateriale, animalsk avfall og produkter av animalsk opprinnelse til et land i EØS skal Statens dyrehelsetilsyn – distriktsveterinæren kontrollere at:
 
-1. de krav som stilles i særskilte forskrifter om dyrehelsemessige betingelser for innførsel og utførsel, [forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484)1 og [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471)2 er oppfylt.
+1. de krav som stilles i særskilte forskrifter om dyrehelsemessige betingelser for innførsel og utførsel, [forskrift av 31. desember 1998 nr. 1484](forskrift/1998-12-31-1484)[^1] og [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471)[^2] er oppfylt.
 2. de dyrehelsemessige krav som mottakerlandet stiller er oppfylt dersom den aktuelle forsendelsen består av arter/varer som ikke omfattes av EØS-regelverk.
 3. forsendelsen kommer fra dyrehold som oppfyller eventuelle tilleggskrav som stilles i mottakerlandet på grunnlag av tilleggsgarantier/fristatus som er innvilget.
 4. forsendelsen er merket slik at den kan identifiseres i henhold til gjeldende bestemmelser og at virksomheten/dyreholdet er registrert slik at opprinnelsen kan spores.
@@ -127,12 +127,12 @@ Dersom forsendelsen ikke tilfredsstiller gjeldende krav til dokumentasjon eller 
 
 1. sette dyrene i isolasjon, eller holde forsendelsen tilbake til nødvendig dokumentasjon er lagt fram innen nærmere bestemte frister, eller
 2. med tillatelse fra veterinærmyndighetene i avsenderlandet og forhåndsunderretning til veterinærmyndighetene i eventuelle andre land som forsendelsen må passere, returnere forsendelsen, eller
-3. benytte produktene1 til andre formål dersom dyrehelsemessige forhold tilsier det, eller
+3. benytte produktene[^1] til andre formål dersom dyrehelsemessige forhold tilsier det, eller
 4. avlive dyr eller destruere produkter.
 
 2\. *Avliving og destruksjon*
 
-Dersom vilkårene i punkt 1 ikke er oppfylt innen nærmere bestemte frister eller kontrollen avdekker forekomst av smittestoff som kan forårsake alvorlig sjukdom, zoonose eller andre forhold som kan utgjøre en alvorlig fare for dyr eller mennesker, eller at produktene kommer fra et område som er smittet med en epizootisk dyresjukdom, skal dyrene isoleres, avlives og destrueres. Annet avlsmateriale og animalsk avfall skal destrueres. Produkter1 skal destrueres eller benyttes til andre formål dersom dyrehelsemessige forhold tilsier det.
+Dersom vilkårene i punkt 1 ikke er oppfylt innen nærmere bestemte frister eller kontrollen avdekker forekomst av smittestoff som kan forårsake alvorlig sjukdom, zoonose eller andre forhold som kan utgjøre en alvorlig fare for dyr eller mennesker, eller at produktene kommer fra et område som er smittet med en epizootisk dyresjukdom, skal dyrene isoleres, avlives og destrueres. Annet avlsmateriale og animalsk avfall skal destrueres. Produkter[^1] skal destrueres eller benyttes til andre formål dersom dyrehelsemessige forhold tilsier det.
 
 1 Jf. [forskrift av 23. desember 1998 nr. 1471](forskrift/1998-12-23-1471) om tilsyn og kontroll ved import og eksport av næringsmidler og av produkter av animalsk opprinnelse innen EØS, og av ikke-animalske næringsmidler fra tredjeland.
 

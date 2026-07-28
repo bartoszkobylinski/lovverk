@@ -15,7 +15,7 @@ xml_hash: "e2aba207c2f4f7873f1cca0827253657279b3d7825ef50bc21291612acec7efe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,6 +32,6 @@ Krav etter garantier avgitt i medhold av [§ 1](lov/2001-05-18-22/§1) kan gjør
 
 ## § 3.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 18 mai 2001 iflg. [res. 18 mai 2001 nr. 515](forskrift/2001-05-18-515).

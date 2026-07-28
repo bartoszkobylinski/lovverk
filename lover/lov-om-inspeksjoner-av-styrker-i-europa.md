@@ -15,7 +15,7 @@ xml_hash: "59ba356e81a4ba756a10f418b0d06ec0ce6915d7c35eacce0b23901492ca8449"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,6 +46,6 @@ Den som forsettlig eller uaktsomt hindrer en inspeksjon som er omfattet av Avtal
 
 ## § 5.
 
-Denne lov trer i kraft på det tidspunkt1 avtalen om konvensjonelle styrker i Europa trer i kraft.
+Denne lov trer i kraft på det tidspunkt[^1] avtalen om konvensjonelle styrker i Europa trer i kraft.
 
 1 Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) trådte i kraft 9 nov 1992 iflg. [vedtak 9 nov 1992 nr. 1262](forskrift/1992-11-09-1262).

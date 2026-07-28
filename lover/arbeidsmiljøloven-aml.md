@@ -15,7 +15,7 @@ xml_hash: "56546f38f0274d93f3bcb154bfdc0e0b25548ec615ee80bfb8d6d92e6c862488"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2285,7 +2285,7 @@ Overtredelse av denne lov er undergitt offentlig påtale.
 
 ### § 20-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Iflg. [res. 17 juni 2005 nr. 609](forskrift/2005-06-17-609) trådte loven ikr. 1 jan 2006 med følgende unntak og presiseringer: – § 10-12 sjette ledd trådte ikr. 1 juli 2005. – [§ 14-9](lov/2005-06-17-62/§14-9) femte ledd andre punktum får ikke anvendelse overfor midlertidig arbeidsavtale som løper på tidspunktet for lovens ordinære ikrafttreden. – For oppsigelser som fant sted før lovens ikrafttreden, gjelder [lov 4 feb 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 61](lov/1977-02-04-4/§61) nr. 4. – For arbeidstakere som på tidspunktet for lovens ordinære ikrafttreden har en særlig uavhengig stilling skal, for så vidt arbeidstakeren fortsetter i denne stillingen, [lovens kapittel 10](lov/2005-06-17-62/kap10) tre ikr. 1 jan 2011 (ifølge departementet er denne utsatte ikrafttredelsen ikke lenger aktuell etter at bestemmelsene ble endret ved [lov 21 des 2005 nr. 121](lov/2005-12-21-121) med ikrafttreden 1 jan 2006), § 10-2 første, andre og fjerde ledd trådte likevel ikr. 1 jan 2006. – Ikrafttreden for [§ 2-4](lov/2005-06-17-62/§2-4) fastsettes senere (dog virker det som [§ 2-4](lov/2005-06-17-62/§2-4) er ment satt ikr. idet den ble endret ved [lov 1 des 2006 nr. 64](lov/2006-12-01-64), ikr. 1 jan 2007 iflg. [res. 1 des 2006 nr. 1324](forskrift/2006-12-01-1324)).
 

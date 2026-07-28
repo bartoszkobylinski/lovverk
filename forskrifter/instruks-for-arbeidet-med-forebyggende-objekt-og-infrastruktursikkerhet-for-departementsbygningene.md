@@ -15,7 +15,7 @@ xml_hash: "1c143c67064a451af733edfa8a71714d7690af13469d820c0765dacb7ab901f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Forsvarsdepartementet og Statsministerens kontors midlertidige lokaler i Forsvar
 | *Departementsfellesskapet* | Alle departementene og Statsministerens kontor. |
 | *Erstatningslokaler* | Midlertidige lokaler for departementer som må flytte ut av sine faste departementsbygninger. |
 | *Felles bygningsmasse* | Samtlige departementsbygninger med unntak av Forsvarsdepartementet og Statsministerens kontors midlertidige lokaler i Forsvarets ledelsesbygg. |
-| *Fellesområder* | Områder i en departementsbygning hvor flere har tilgang1, og som er underlagt adgangskontrollbestemmelser eller er permanent bemannet |
+| *Fellesområder* | Områder i en departementsbygning hvor flere har tilgang[^1], og som er underlagt adgangskontrollbestemmelser eller er permanent bemannet |
 | *Flerbrukerbygg* | Departementsbygning som huser flere enn ett departement. |
 | *Grunnsikring* | Sikkerhetstiltak som skal bidra til et forsvarlig sikkerhetsnivå i en normaltilstand (omfatter også påbygningstiltak som kan iverksettes ved endringer i trusselbildet), jf. [virksomhetsikkerhetsforskriften § 14](forskrift/2018-12-20-2053/§14). |
 | *Myndighetspersoner* | Medlemmer av regjeringen. |
@@ -93,7 +93,7 @@ Det enkelte departement plikter å utøve forebyggende sikkerhetsarbeid innenfor
    Departementenes eventuelle behov for sikkerhetsmessige tilpasninger i egne lokaler utover det som dekkes gjennom felles grunnsikring, kan dekkes gjennom tjenesteleveranser fra Statsbygg eller Departementenes sikkerhets- og serviceorganisasjon. Ansvaret for slik tilpasning ligger hos det enkelte departement.
 2. Behandling av personopplysninger
 
-   1. et hvert departement er, iht. generell [personvernforordning2 artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7, behandlingsansvarlig for personopplysninger som behandles som del av adgangskontroll og kameraovervåkning i departementsinterne områder
+   1. et hvert departement er, iht. generell [personvernforordning[^2] artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7, behandlingsansvarlig for personopplysninger som behandles som del av adgangskontroll og kameraovervåkning i departementsinterne områder
    2. et hvert departement skal inngå databehandleravtale med Departementenes sikkerhets- og serviceorganisasjon for behandling av personopplysninger som er del av adgangskontroll og kameraovervåkning i departementsinterne områder.
 
 2 Europaparlaments- og rådsforordning [2016/679](eu/32016r0679) av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv [95/46/EF](eu/31995l0046) (generell [personvernforordning](lov/2018-06-15-38/gdpr)
@@ -123,7 +123,7 @@ Kommunal- og moderniseringsdepartementets sikkerhetsmessige ansvar for objekt- o
 1. Departementenes sikkerhets- og serviceorganisasjon:
 
    1. er tjenesteleverandør av vakt- og resepsjonstjenester med understøttende tekniske sikringssystem til felles grunnsikring for departementsbygningene
-   2. håndhever felles adgangsbestemmelser3 i departmentsfellesskapet
+   2. håndhever felles adgangsbestemmelser[^3] i departmentsfellesskapet
    3. er databehandler for personopplysninger som behandles i forbindelse med felles grunnsikring, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 8
    4. er databehandler for personopplysninger som behandles i forbindelse med adgangskontroll og kameraovervåkning i departementsinterne områder, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 8
 2. Statsbygg:

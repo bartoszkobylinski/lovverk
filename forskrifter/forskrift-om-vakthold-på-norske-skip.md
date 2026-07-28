@@ -15,7 +15,7 @@ xml_hash: "68ac0a63bd1942980a3c7439e846f5975d4257188d348014590e8f68f2dd677d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -171,7 +171,7 @@ Sjøfartsdirektoratet kan tillate avvik eller stille andre krav enn bestemt i de
 
 ## § 7. Ikrafttredelse
 
-Denne forskrift trer i kraft 1. juli 1987.1
+Denne forskrift trer i kraft 1. juli 1987.[^1]
 
 Fra samme tid oppheves forskrift om vakthold for dekksavdelingen og maskinavdelingen på norske skip av 17. februar 1983 med vedlegg.
 
@@ -443,7 +443,7 @@ forhold og farer som rimeligvis kan påtreffes i løpet av vakten;
 
 7.4.5.
 
-mulige virkninger av krengning, trim, vannets saltholdighet og «squat»1 på klaring under kjølen.
+mulige virkninger av krengning, trim, vannets saltholdighet og «squat»[^1] på klaring under kjølen.
 
 1 «Squat»: Den minskning av klaringen under kjølen som oppstår når skipet beveger seg gjennom vannet, og som er forårsaket av så vel skrogets nedsynkning som trimforandring. Virkningen blir forsterket i grunne farvann og reduseres med avtagende fart.
 

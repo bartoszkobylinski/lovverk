@@ -15,7 +15,7 @@ xml_hash: "eb1d7b0f3c0e5d0c8da09fa1fb0089a0f0e4194feaf0a1bc70375fc55219994d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,7 +49,7 @@ I [lov 26. mai 1995 nr. 25 om gjennomføring av fellesregler om innenlands trans
 
 ## III
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Endringene i lovens del II trer likevel i kraft straks.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Endringene i lovens del II trer likevel i kraft straks.
 2. Departementet kan gi nærmere overgangsbestemmelser.
 
 1 Fra 1. januar 2026 for [§ 9 andre ledd første punktum](lov/2002-06-21-45/§9/ledd/2/setning/1), nytt andre punktum og tredje punktum, slik at nåværende tredje og fjerde punktum blir fjerde og femte punktum, ny [§ 9a](lov/2002-06-21-45/§9a) og ny [§ 9b](lov/2002-06-21-45/§9b), omnummerering av paragrafene gjennomføres, overskriften i [§ 9e](lov/2002-06-21-45/§9e) og ny [§ 9g](lov/2002-06-21-45/§9g), ny [§ 9h](lov/2002-06-21-45/§9h), [§ 12 andre ledd](lov/2002-06-21-45/§12/ledd/2) og [§ 27 andre ledd](lov/2002-06-21-45/§27/ledd/2), og

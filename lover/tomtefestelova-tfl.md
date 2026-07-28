@@ -15,7 +15,7 @@ xml_hash: "e1039e41ac4fd067f58421724413e471a65435b86646640d88621f826a7444bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -392,7 +392,7 @@ Ved skjønn etter [§ 37](lov/1996-12-20-106/§37) kan saka bli delt slik at det
 
 ### § 44. Ikraftsetjing. Overgangsføresegner
 
-Lova tek til å gjelde frå den tida Kongen fastset.1
+Lova tek til å gjelde frå den tida Kongen fastset.[^1]
 
 [§ 10](lov/1996-12-20-106/§10) fyrste ledd gjeld berre for åremålsfeste (feste som er skipa for eit visst åretal eller som går ut til ei fastsett tid) som går ut tidlegast tre år etter at lova her tek til å gjelde.
 

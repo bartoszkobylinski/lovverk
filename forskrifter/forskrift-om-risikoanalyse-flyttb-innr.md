@@ -15,7 +15,7 @@ xml_hash: "c18e209d53e3622c0ab8fde57c73bf78eca8294b985e4920101138816149fb4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -318,10 +318,10 @@ Rederiet skal i risikoanalysen innarbeide pålitelighets-/sårbarhetsanalyse fra
 
    Ut fra akseptkriterier som angitt i [§ 19](forskrift/1993-12-22-1239/§19) og [§ 20](forskrift/1993-12-22-1239/§20), avledes generelle minimums dimensjoneringskriterier for sikkerhetsfunksjoner som angitt nedenfor:
 
-   1. SF 1. Rømmingsveier:1
+   1. SF 1. Rømmingsveier:[^1]
 
       Under en ulykkeshendelse skal det være minst en rømmingsvei fra hvert rom/område som leder til midlertidig oppholdssted (TR). Rømmingsveier til midlertidig oppholdssted skal kunne opprettholdes i minst 15 minutter.
-   2. SF 2. Midlertidig oppholdssted (TR):1
+   2. SF 2. Midlertidig oppholdssted (TR):[^1]
 
       Midlertidig oppholdssted for alle om bord skal kunne opprettholdes i minst 1/2 time, og slik at en her skal kunne avvente en ulykkesutvikling, bekjempe ulykken og eventuelt foreta en sjøveis evakuering.
 

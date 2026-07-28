@@ -16,7 +16,7 @@ xml_hash: "2b081f069789af75f69f6c216b06e37a99fa356bb956ccf39ce84e3551f6add2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -240,7 +240,7 @@ Samtidig oppheves [forskrift 9. mai 1996 nr. 489](forskrift/1996-05-09-489) om o
 
 | *Prøvetidspunktet* | *Prøvestedet* | *Prøvemateriale* | *Prøven tas av* |
 | --- | --- | --- | --- |
-| 10-19 dager før slakt\* | Besetning | 1 par svabersokker + 1 støvprøve,<br>analysert som en samleprøve. | Virksomhet |
+| 10-19 dager før slakt[^\*] | Besetning | 1 par svabersokker + 1 støvprøve,<br>analysert som en samleprøve. | Virksomhet |
 
 \* Resultater må foreligge før slakt.
 
@@ -252,7 +252,7 @@ Samtidig oppheves [forskrift 9. mai 1996 nr. 489](forskrift/1996-05-09-489) om o
 | --- | --- | --- | --- | --- |
 | Livkylling | Daggamle | Besetning | 5 transportkasser:<br>Kassepapir (> 1 m2 totalt) eller<br>Svaberprøver (> 1 m2 totalt).<br>Analysert som en samleprøve. | Virksomhet |
 | Livkylling | 2 uker før flytting | Besetning | 2 par svabersokker.<br>Analysert som en samleprøve.<br>Burhøns: Avføringsprøve ( 150 g). | Virksomhet |
-| Verpehøns | Hver 15. uke\* | Besetning | 2 par svabersokker,<br>analysert som en samleprøve.<br>Burhøns: Avføringsprøve 2 x 150 g,<br>analysert som en samleprøve. | Virksomhet |
+| Verpehøns | Hver 15. uke[^\*] | Besetning | 2 par svabersokker,<br>analysert som en samleprøve.<br>Burhøns: Avføringsprøve 2 x 150 g,<br>analysert som en samleprøve. | Virksomhet |
 
 \* Første prøve tas ved alder 24 uker (+/– 2 uker)
 

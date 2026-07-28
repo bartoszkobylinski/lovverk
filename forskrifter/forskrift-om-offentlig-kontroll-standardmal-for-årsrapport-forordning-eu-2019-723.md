@@ -17,7 +17,7 @@ xml_hash: "efb34ef2764eb46b88d724c417979974580e9d37dd8a20f9c7b24f99014d65be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EU) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 113 nr. 2 og artikkel 134 nr. 8 første ledd bokstav f), og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EU) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)[^1], særlig artikkel 113 nr. 2 og artikkel 134 nr. 8 første ledd bokstav f), og
 
 ut fra følgende betraktninger:
 
@@ -71,8 +71,8 @@ ut fra følgende betraktninger:
 3. Standardskjemaene som skal brukes i årsrapportene fra medlemsstatene, bør inkludere andre eksisterende standardskjemaer som Kommisjonen har vedtatt for rapporter om offentlig kontroll som vedkommende myndigheter er pålagt å framlegge for Kommisjonen etter reglene i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*). Dette er for å unngå flerfoldig rapportering og unødvendige administrative byrder.
 4. Det bør være obligatorisk for medlemsstatene å fylle ut standardskjemaet i elektronisk format ettersom dette vil gjøre det lettere å sammenstille opplysninger og data og unngå transkripsjonsfeil.
 5. For å tilrettelegge for avansert kommunikasjon og gjøre mest mulig effektiv bruk av de dataene og opplysningene som inngår i årsrapportene, bør standardskjemaet være tilgjengelig i det databaserte informasjonsstyringssystemet for offentlig kontroll (IMSOC – information management system for official controls), og medlemsstatene bør sende inn årsrapportene via IMSOC.
-6. I standardskjemaet angis visse opplysninger og data som skal rapporteres av medlemsstatene til Kommisjonen, herunder opplysninger og data om velferden til dyr som holdes for landbruksformål. I dag er kravene til innsamling av opplysninger under inspeksjoner av produksjonssteder der visse dyr holdes for landbruksformål og rapportering av disse opplysningene fastsatt i kommisjonsvedtak [2006/778/EF](eu/32006d0778)2. Av hensyn til sammenhengen og rettssikkerheten bør vedtak [2006/778/EF](eu/32006d0778) oppheves og erstattes av denne forordning.
-7. Standardskjemaet omfatter også opplysninger og data om vern av dyr under transport som medlemsstatene skal rapportere til Kommisjonen. I dag er krav til årsrapportene om kontroller av vern av dyr under transport fastsatt i Kommisjonens gjennomføringsbeslutning [2013/188/EU](eu/32013d0188)3. Av hensyn til sammenhengen og rettssikkerheten bør beslutning [2013/188/EU](eu/32013d0188) oppheves og erstattes av denne forordning.
+6. I standardskjemaet angis visse opplysninger og data som skal rapporteres av medlemsstatene til Kommisjonen, herunder opplysninger og data om velferden til dyr som holdes for landbruksformål. I dag er kravene til innsamling av opplysninger under inspeksjoner av produksjonssteder der visse dyr holdes for landbruksformål og rapportering av disse opplysningene fastsatt i kommisjonsvedtak [2006/778/EF](eu/32006d0778)[^2]. Av hensyn til sammenhengen og rettssikkerheten bør vedtak [2006/778/EF](eu/32006d0778) oppheves og erstattes av denne forordning.
+7. Standardskjemaet omfatter også opplysninger og data om vern av dyr under transport som medlemsstatene skal rapportere til Kommisjonen. I dag er krav til årsrapportene om kontroller av vern av dyr under transport fastsatt i Kommisjonens gjennomføringsbeslutning [2013/188/EU](eu/32013d0188)[^3]. Av hensyn til sammenhengen og rettssikkerheten bør beslutning [2013/188/EU](eu/32013d0188) oppheves og erstattes av denne forordning.
 8. Ettersom forordning [(EU) 2017/625](eu/32017r0625*) får anvendelse fra 14. desember 2019, bør denne forordning også få anvendelse fra denne datoen.
 9. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
@@ -213,30 +213,30 @@ Utferdiget i Brussel 2. mai 2019.
 | 7. Korn og kornprodukter |  |  |  |  |  |  |  |  |  |  |
 | 8. Bakervarer |  |  |  |  |  |  |  |  |  |  |
 | 9. Ferskt kjøtt |  |  |  |  |  |  |  |  |  |  |
-| *Tamme hov- og klovdyr*\* |  |  |  |  |  |  |  |  |  |  |
-| *Fjørfe og haredyr*\* |  |  |  |  |  |  |  |  |  |  |
-| *Oppdrettsvilt*\* |  |  |  |  |  |  |  |  |  |  |
-| *Viltlevende vilt*\* |  |  |  |  |  |  |  |  |  |  |
+| *Tamme hov- og klovdyr*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Fjørfe og haredyr*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Oppdrettsvilt*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Viltlevende vilt*[^\*] |  |  |  |  |  |  |  |  |  |  |
 | 10. Kvernet kjøtt, bearbeidet kjøtt og mekanisk utbeinet kjøtt |  |  |  |  |  |  |  |  |  |  |
-| *Kvernet kjøtt*\* |  |  |  |  |  |  |  |  |  |  |
-| *Bearbeidet kjøtt*\* |  |  |  |  |  |  |  |  |  |  |
-| *Mekanisk utbeinet kjøtt*\* |  |  |  |  |  |  |  |  |  |  |
+| *Kvernet kjøtt*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Bearbeidet kjøtt*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Mekanisk utbeinet kjøtt*[^\*] |  |  |  |  |  |  |  |  |  |  |
 | 11. Kjøttprodukter |  |  |  |  |  |  |  |  |  |  |
-| *Behandlede mager, blærer og tarmer*\* |  |  |  |  |  |  |  |  |  |  |
-| *Gelatin, kollagen og høyforedlede produkter*\* |  |  |  |  |  |  |  |  |  |  |
+| *Behandlede mager, blærer og tarmer*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Gelatin, kollagen og høyforedlede produkter*[^\*] |  |  |  |  |  |  |  |  |  |  |
 | 12. Fisk og fiskerivarer |  |  |  |  |  |  |  |  |  |  |
-| *Levende muslinger*\* |  |  |  |  |  |  |  |  |  |  |
-| *Fiskerivarer*\* |  |  |  |  |  |  |  |  |  |  |
+| *Levende muslinger*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Fiskerivarer*[^\*] |  |  |  |  |  |  |  |  |  |  |
 | 13. Egg og eggprodukter |  |  |  |  |  |  |  |  |  |  |
 | 14. Sukker, sirup, honning og bordsøtningsmidler |  |  |  |  |  |  |  |  |  |  |
 | 15. Salt, krydder, supper, sauser, salater og proteinprodukter |  |  |  |  |  |  |  |  |  |  |
-| 16. Næringsmidler til bruk ved spesielle ernæringsmessige behov, som definert i europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609)1 |  |  |  |  |  |  |  |  |  |  |
+| 16. Næringsmidler til bruk ved spesielle ernæringsmessige behov, som definert i europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609)[^1] |  |  |  |  |  |  |  |  |  |  |
 | 17. Drikker |  |  |  |  |  |  |  |  |  |  |
-| *Alkoholfrie drikker*\* |  |  |  |  |  |  |  |  |  |  |
-| *Alkoholholdige drikker og tilsvarende drikker uten alkohol eller med lavt alkoholinnhold*\* |  |  |  |  |  |  |  |  |  |  |
+| *Alkoholfrie drikker*[^\*] |  |  |  |  |  |  |  |  |  |  |
+| *Alkoholholdige drikker og tilsvarende drikker uten alkohol eller med lavt alkoholinnhold*[^\*] |  |  |  |  |  |  |  |  |  |  |
 | 18. Spiseferdig snacks |  |  |  |  |  |  |  |  |  |  |
 | 19. Desserter, unntatt produkter som omfattes av kategori 1, 3 og 4 |  |  |  |  |  |  |  |  |  |  |
-| 20. Kosttilskudd som definert i artikkel 2 bokstav a) i europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046)2, unntatt kosttilskudd til spedbarn og småbarn |  |  |  |  |  |  |  |  |  |  |
+| 20. Kosttilskudd som definert i artikkel 2 bokstav a) i europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046)[^2], unntatt kosttilskudd til spedbarn og småbarn |  |  |  |  |  |  |  |  |  |  |
 | 21. Bearbeidede næringsmidler som ikke omfattes av kategori 1–17, unntatt næringsmidler til spedbarn og småbarn |  |  |  |  |  |  |  |  |  |  |
 | 22. Annet – næringsmidler som ikke omfattes av kategori 1 til 21 |  |  |  |  |  |  |  |  |  |  |
 | Materialer beregnet på å komme i kontakt med næringsmidler |  |  |  |  |  |  |  |  |  |  |
@@ -247,13 +247,13 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **1.5 Merknadsfelt**\* |
+| **1.5 Merknadsfelt**[^\*] |
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **1.6 Manglende overholdelse** |  |  |  |  |  |  |  | Tiltak |  |
 | Driftsansvarliges/virksomheters manglende overholdelse |  |  |  |  |  |  |  |  |  |
-|  |  | Påvist under offentlig kontroll |  | *Samlet antall kontrollerte driftsansvarlige/<br>virksomheter*\* |  | *Antall kontrollerte driftsansvarlige/<br>virksomheter der det ble påvist manglende overholdelse*\* |  | Administrative | Rettslige |
+|  |  | Påvist under offentlig kontroll |  | *Samlet antall kontrollerte driftsansvarlige/<br>virksomheter*[^\*] |  | *Antall kontrollerte driftsansvarlige/<br>virksomheter der det ble påvist manglende overholdelse*[^\*] |  | Administrative | Rettslige |
 | Godkjente virksomheter |  |  |  |  |  |  |  |  |  |
 | Virksomheter med generelle oppgaver (kjølelagre, ompakkings- og reemballeringsforetak, engrosmarkeder, kjølefartøyer) |  |  |  |  |  |  |  |  |  |
 | Kjøtt fra tamme hov- og klovdyr |  |  |  |  |  |  |  |  |  |
@@ -306,27 +306,27 @@ Utferdiget i Brussel 2. mai 2019.
 | 7. Korn og kornprodukter |  |  |  |  |  |  |  |  |  |
 | 8. Bakervarer |  |  |  |  |  |  |  |  |  |
 | 9. Ferskt kjøtt |  |  |  |  |  |  |  |  |  |
-| *Tamme hov- og klovdyr*\* |  |  |  |  |  |  |  |  |  |
-| *Fjørfe og haredyr*\* |  |  |  |  |  |  |  |  |  |
-| *Oppdrettsvilt*\* |  |  |  |  |  |  |  |  |  |
-| *Viltlevende vilt*\* |  |  |  |  |  |  |  |  |  |
+| *Tamme hov- og klovdyr*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Fjørfe og haredyr*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Oppdrettsvilt*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Viltlevende vilt*[^\*] |  |  |  |  |  |  |  |  |  |
 | 10. Kvernet kjøtt, bearbeidet kjøtt og mekanisk utbeinet kjøtt |  |  |  |  |  |  |  |  |  |
-| *Kvernet kjøtt*\* |  |  |  |  |  |  |  |  |  |
-| *Bearbeidet kjøtt*\* |  |  |  |  |  |  |  |  |  |
-| *Mekanisk utbeinet kjøtt*\* |  |  |  |  |  |  |  |  |  |
+| *Kvernet kjøtt*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Bearbeidet kjøtt*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Mekanisk utbeinet kjøtt*[^\*] |  |  |  |  |  |  |  |  |  |
 | 11. Kjøttprodukter |  |  |  |  |  |  |  |  |  |
-| *Behandlede mager, blærer og tarmer*\* |  |  |  |  |  |  |  |  |  |
-| *Gelatin, kollagen og høyforedlede produkter*\* |  |  |  |  |  |  |  |  |  |
+| *Behandlede mager, blærer og tarmer*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Gelatin, kollagen og høyforedlede produkter*[^\*] |  |  |  |  |  |  |  |  |  |
 | 12. Fisk og fiskerivarer |  |  |  |  |  |  |  |  |  |
-| *Levende muslinger*\* |  |  |  |  |  |  |  |  |  |
-| *Fiskerivarer\** |  |  |  |  |  |  |  |  |  |
+| *Levende muslinger*[^\*] |  |  |  |  |  |  |  |  |  |
+| *Fiskerivarer[^\*]* |  |  |  |  |  |  |  |  |  |
 | 13. Egg og eggprodukter |  |  |  |  |  |  |  |  |  |
 | 14. Sukker, sirup, honning og bordsøtningsmidler |  |  |  |  |  |  |  |  |  |
 | 15. Salt, krydder, supper, sauser, salater og protein-produkter |  |  |  |  |  |  |  |  |  |
 | 16. Næringsmidler til bruk ved spesielle ernæringsmessige behov, som definert i forordning [(EU) nr. 609/2013](eu/32013r0609) |  |  |  |  |  |  |  |  |  |
 | 17. Drikker |  |  |  |  |  |  |  |  |  |
-| *Alkoholfrie drikker\** |  |  |  |  |  |  |  |  |  |
-| *Alkoholholdige drikker og tilsvarende drikker uten alkohol eller med lavt alkoholinnhold\** |  |  |  |  |  |  |  |  |  |
+| *Alkoholfrie drikker[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Alkoholholdige drikker og tilsvarende drikker uten alkohol eller med lavt alkoholinnhold[^\*]* |  |  |  |  |  |  |  |  |  |
 | 18. Spiseferdig snacks |  |  |  |  |  |  |  |  |  |
 | 19. Desserter, unntatt produkter som omfattes av kategori 1, 3 og 4 |  |  |  |  |  |  |  |  |  |
 | 20. Kosttilskudd som definert i artikkel 2 bokstav a) i direktiv [2002/46/EF](eu/32002l0046), unntatt kosttilskudd til spedbarn og småbarn |  |  |  |  |  |  |  |  |  |
@@ -344,7 +344,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **1.7 Merknadsfelt\*** |
+| **1.7 Merknadsfelt[^\*]** |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*
 
@@ -358,7 +358,7 @@ Utferdiget i Brussel 2. mai 2019.
 | --- | --- |
 | **2.2 Offentlig kontroll** |  |
 |  | Antall utførte offentlige kontroller |
-| Kommersiell dyrking av genmodifiserte organismer til næringsmiddel- og fôrproduksjon (del C i europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018)3 ) |  |
+| Kommersiell dyrking av genmodifiserte organismer til næringsmiddel- og fôrproduksjon (del C i europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018)[^3] ) |  |
 | Forsøksutsettinger av genmodifiserte organismer for næringsmiddel- og fôrvareformål (del B i direktiv [2001/18/EF](eu/32001l0018)) |  |
 | Frø og vegetativt formeringsmateriale til næringsmiddel- og fôrproduksjon |  |
 
@@ -366,12 +366,12 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **2.3 Merknadsfelt\*** |
+| **2.3 Merknadsfelt[^\*]** |
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **2.4 Manglende overholdelse** |  |  |  | Tiltak |  |
-|  | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige\** | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse\** | Admin-istrative | Rettslige |
+|  | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige[^\*]* | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse[^\*]* | Admin-istrative | Rettslige |
 | 1. Kommersiell dyrking av genmodifiserte organismer til næringsmiddel- og fôrproduksjon |  |  |  |  |  |
 | 2. Forsøksutsettinger av genmodifiserte organismer for næringsmiddel- og fôrvareformål |  |  |  |  |  |
 | 3. Frø og vegetativt formeringsmateriale til næringsmiddel- og fôrproduksjon |  |  |  |  |  |
@@ -381,7 +381,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **2.5 Merknadsfelt\*** |
+| **2.5 Merknadsfelt[^\*]** |
 |  |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
@@ -396,19 +396,19 @@ Utferdiget i Brussel 2. mai 2019.
 | --- | --- | --- |
 | **3.2 Offentlig kontroll** |  |  |
 | Etter virksomhet | Antall virksomheter | Antall utførte offentlige kontroller |
-| Virksomheter som er godkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)4 |  |  |
-| *Primærprodusenter som er godkjent i samsvar med artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183)\** |  |  |
+| Virksomheter som er godkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)[^4] |  |  |
+| *Primærprodusenter som er godkjent i samsvar med artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183)[^\*]* |  |  |
 | Virksomheter som er registrert i samsvar med artikkel 9 i forordning [(EF) nr. 183/2005](eu/32005r0183), bortsett fra primærproduksjon |  |  |
-| *Primærprodusenter som er registrert i samsvar med artikkel 9 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som overholder bestemmelsene i vedlegg I til den forordningen\** |  |  |
+| *Primærprodusenter som er registrert i samsvar med artikkel 9 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som overholder bestemmelsene i vedlegg I til den forordningen[^\*]* |  |  |
 | Driftsansvarlige (gårdbrukere) som bruker fôr |  |  |
 | Driftsansvarlige som produserer og/eller omsetter medisinfôr |  |  |
 | I samsvar med overgripende bestemmelse |  | Antall utførte offentlige kontroller |
 | Merking av fôr |  |  |
 | Fôrets sporbarhet |  |  |
-| Tilsetningsstoffer i fôrvarer (europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)5 ) |  |  |
-| Uønskede stoffer i fôr (artikkel 2 i europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032)6 ) |  |  |
-| Midler som er forbudt i fôrvarer (vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)7 ) |  |  |
-| Medisinfôr (rådsdirektiv [90/167/EØF](eu/31990l0167*)8 ) |  |  |
+| Tilsetningsstoffer i fôrvarer (europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)[^5] ) |  |  |
+| Uønskede stoffer i fôr (artikkel 2 i europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032)[^6] ) |  |  |
+| Midler som er forbudt i fôrvarer (vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)[^7] ) |  |  |
+| Medisinfôr (rådsdirektiv [90/167/EØF](eu/31990l0167*)[^8] ) |  |  |
 | Pesticider i fôr |  |  |
 | Genmodifiserte organismer i fôr |  |  |
 
@@ -424,17 +424,17 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **3.3 Merknadsfelt\*** |
+| **3.3 Merknadsfelt[^\*]** |
 |  |
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **3.4 Manglende overholdelse** |  |  |  | Tiltak |  |
-| Etter virksomhet | Påvist under offentlig kontroll | *Samlet antall kontrollerte virksomheter\** | *Antall kontrollerte virksomheter der det ble påvist manglende overholdelse\** | Administrative | Rettslige |
+| Etter virksomhet | Påvist under offentlig kontroll | *Samlet antall kontrollerte virksomheter[^\*]* | *Antall kontrollerte virksomheter der det ble påvist manglende overholdelse[^\*]* | Administrative | Rettslige |
 | Virksomheter som er godkjent i samsvar med artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183) |  |  |  |  |  |
-| *Primærprodusenter som er godkjent i samsvar med artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183)\** |  |  |  |  |  |
+| *Primærprodusenter som er godkjent i samsvar med artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183)[^\*]* |  |  |  |  |  |
 | Virksomheter som er registrert i samsvar med artikkel 9 i forordning [(EF) nr. 183/2005](eu/32005r0183), bortsett fra primærproduksjon |  |  |  |  |  |
-| *Primærprodusenter som er registrert i samsvar med artikkel 9 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som overholder bestemmelsene i vedlegg I til den forordningen\** |  |  |  |  |  |
+| *Primærprodusenter som er registrert i samsvar med artikkel 9 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som overholder bestemmelsene i vedlegg I til den forordningen[^\*]* |  |  |  |  |  |
 | Driftsansvarlige (gårdbrukere) som bruker fôr |  |  |  |  |  |
 | Driftsansvarlige som produserer og/eller omsetter medisinfôr |  |  |  |  |  |
 | I samsvar med overgripende bestemmelse | Antall konstaterte tilfeller av manglende overholdelse |  |  | Administrative | Rettslige |
@@ -451,7 +451,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **3.5 Merknadsfelt\*** |
+| **3.5 Merknadsfelt[^\*]** |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
 
@@ -469,29 +469,29 @@ Utferdiget i Brussel 2. mai 2019.
 | Identifikasjon og registrering av sauer og geiter |  |  | (ved begynnelsen av året for rapporteringsperioden eller annen nasjonal referansedato for dyrestatistikk) |  |
 | Godkjente oppsamlingssentraler (storfe, sauer, geiter, svin, hestedyr) |  |  |  |  |
 | Godkjente forhandlere (storfe, sauer, geiter, svin) |  |  |  |  |
-| Grensekontrollstasjoner (rådsforordning [(EF) nr. 1255/97](eu/31997r1255)9 ) |  |  |  |  |
-| Godkjente organer, institutter og stasjoner (rådsdirektiv [92/65/EØF](eu/31992l0065*)10 ) |  |  |  |  |
+| Grensekontrollstasjoner (rådsforordning [(EF) nr. 1255/97](eu/31997r1255)[^9] ) |  |  |  |  |
+| Godkjente organer, institutter og stasjoner (rådsdirektiv [92/65/EØF](eu/31992l0065*)[^10] ) |  |  |  |  |
 | Virksomheter som er godkjent for handel med fjørfe og rugeegg innenfor EU |  |  |  |  |
 | Karanteneanlegg for fugler |  |  |  |  |
 | Godkjente akvakulturvirksomheter: |  |  |  |  |
-| *Godkjente akvakulturvirksomheter for fisk\** |  |  |  |  |
-| *Godkjente akvakulturvirksomheter for muslinger\** |  |  |  |  |
-| *Godkjente akvakulturvirksomheter for krepsdyr\** |  |  |  |  |
+| *Godkjente akvakulturvirksomheter for fisk[^\*]* |  |  |  |  |
+| *Godkjente akvakulturvirksomheter for muslinger[^\*]* |  |  |  |  |
+| *Godkjente akvakulturvirksomheter for krepsdyr[^\*]* |  |  |  |  |
 | Godkjente bearbeidingsbedrifter for akvakulturdyr |  |  |  |  |
 | Sædstasjoner: |  |  |  |  |
-| *Storfe\** |  |  |  |  |
-| *Svin\** |  |  |  |  |
-| *Sauer/geiter\** |  |  |  |  |
-| *Hestedyr\** |  |  |  |  |
+| *Storfe[^\*]* |  |  |  |  |
+| *Svin[^\*]* |  |  |  |  |
+| *Sauer/geiter[^\*]* |  |  |  |  |
+| *Hestedyr[^\*]* |  |  |  |  |
 | Sædlagre: |  |  |  |  |
-| *Storfe\** |  |  |  |  |
-| *Sauer/geiter\** |  |  |  |  |
-| *Hestedyr\** |  |  |  |  |
+| *Storfe[^\*]* |  |  |  |  |
+| *Sauer/geiter[^\*]* |  |  |  |  |
+| *Hestedyr[^\*]* |  |  |  |  |
 | Embryooppsamlings-/embryoproduksjonsgrupper: |  |  |  |  |
-| *Storfe\** |  |  |  |  |
-| *Svin\** |  |  |  |  |
-| *Sauer/geiter\** |  |  |  |  |
-| *Hestedyr\** |  |  |  |  |
+| *Storfe[^\*]* |  |  |  |  |
+| *Svin[^\*]* |  |  |  |  |
+| *Sauer/geiter[^\*]* |  |  |  |  |
+| *Hestedyr[^\*]* |  |  |  |  |
 
 9 Council Regulation [(EC) No 1255/97](eu/31997r1255) of 25 June 1997 concerning Community criteria for control posts and amending the route plan referred to in the Annex to Directive [91/628/EEC](eu/31991l0628) (OJ L 174, 2.7.1997, p. 1).
 
@@ -499,7 +499,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **4.3 Merknadsfelt\*** |
+| **4.3 Merknadsfelt[^\*]** |
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -514,30 +514,30 @@ Utferdiget i Brussel 2. mai 2019.
 | Virksomheter som er godkjent for handel med fjørfe og rugeegg innenfor EU |  |  |  |  |  |  |  |  |  |
 | Karanteneanlegg for fugler |  |  |  |  |  |  |  |  |  |
 | Godkjente akvakulturvirksomheter: |  |  |  |  |  |  |  |  |  |
-| *Godkjente akvakulturvirksomheter for fisk\** |  |  |  |  |  |  |  |  |  |
-| *Godkjente akvakulturvirksomheter for muslinger\** |  |  |  |  |  |  |  |  |  |
-| *Godkjente akvakulturvirksomheter for krepsdyr\** |  |  |  |  |  |  |  |  |  |
+| *Godkjente akvakulturvirksomheter for fisk[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Godkjente akvakulturvirksomheter for muslinger[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Godkjente akvakulturvirksomheter for krepsdyr[^\*]* |  |  |  |  |  |  |  |  |  |
 | Godkjente bearbeidingsbedrifter for akvakulturdyr |  |  |  |  |  |  |  |  |  |
 | Sædstasjoner: |  |  |  |  |  |  |  |  |  |
-| *Storfe\** |  |  |  |  |  |  |  |  |  |
-| *Svin\** |  |  |  |  |  |  |  |  |  |
-| *Sauer/geiter\** |  |  |  |  |  |  |  |  |  |
-| *Hestedyr\** |  |  |  |  |  |  |  |  |  |
+| *Storfe[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Svin[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Sauer/geiter[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Hestedyr[^\*]* |  |  |  |  |  |  |  |  |  |
 | Sædlagre: |  |  |  |  |  |  |  |  |  |
-| *Storfe\** |  |  |  |  |  |  |  |  |  |
-| *Sauer/geiter\** |  |  |  |  |  |  |  |  |  |
-| *Hestedyr\** |  |  |  |  |  |  |  |  |  |
+| *Storfe[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Sauer/geiter[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Hestedyr[^\*]* |  |  |  |  |  |  |  |  |  |
 | Embryooppsamlings-/<br>embryoproduksjonsgrupper: |  |  |  |  |  |  |  |  |  |
-| *Storfe\** |  |  |  |  |  |  |  |  |  |
-| *Svin\** |  |  |  |  |  |  |  |  |  |
-| *Sauer/geiter\** |  |  |  |  |  |  |  |  |  |
-| *Hestedyr\** |  |  |  |  |  |  |  |  |  |
+| *Storfe[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Svin[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Sauer/geiter[^\*]* |  |  |  |  |  |  |  |  |  |
+| *Hestedyr[^\*]* |  |  |  |  |  |  |  |  |  |
 | Bedragersk og villedende praksis |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
 |  |
 | --- |
-| **4.5 Merknadsfelt\*** |
+| **4.5 Merknadsfelt[^\*]** |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
 
@@ -551,7 +551,7 @@ Utferdiget i Brussel 2. mai 2019.
 | --- | --- | --- |
 | **5.2 Offentlig kontroll** |  |  |
 | Etter virksomhet/anlegg | Antall virksomheter/anlegg | Antall utførte offentlige kontroller |
-| Virksomheter eller anlegg som er godkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)11 |  |  |
+| Virksomheter eller anlegg som er godkjent i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)[^11] |  |  |
 | Virksomheter eller anlegg som er godkjent i samsvar med artikkel 23 i forordning [(EF) nr. 1069/2009](eu/32009r1069) |  |  |
 | I samsvar med overgripende bestemmelse | Antall utførte offentlige kontroller |  |
 | Merking av og sporbarhet for animalske biprodukter/avledede produkter |  |  |
@@ -565,21 +565,21 @@ Utferdiget i Brussel 2. mai 2019.
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **5.4 Manglende overholdelse** |  |  |  | Tiltak |  |
-| Etter virksomheter/anlegg | Påvist under offentlig kontroll | Samlet antall kontrollerte virksomheter/anlegg\* | Antall kontrollerte virksomheter/anlegg der det ble påvist manglende overholdelse\* | Administrative | Rettslige |
+| Etter virksomheter/anlegg | Påvist under offentlig kontroll | Samlet antall kontrollerte virksomheter/anlegg[^\*] | Antall kontrollerte virksomheter/anlegg der det ble påvist manglende overholdelse[^\*] | Administrative | Rettslige |
 | Virksomheter eller anlegg som er godkjent i samsvar med artikkel 24 i forordning [(EF) nr. 1069/2009](eu/32009r1069) |  |  |  |  |  |
 | Virksomheter eller anlegg som er godkjent i samsvar med artikkel 23 i forordning [(EF) nr. 1069/2009](eu/32009r1069) |  |  |  |  |  |
 | I samsvar med overgripende bestemmelse | Antall konstaterte tilfeller av manglende overholdelse |  |  | Administrative | Rettslige |
 | Produkters manglende overholdelse: Merking av og sporbarhet for animalske biprodukter/avledede produkter |  |  |  |  |  |
-| *Kategori 1 og 2\** |  |  |  |  |  |
-| *Kategori 3\** |  |  |  |  |  |
+| *Kategori 1 og 2[^\*]* |  |  |  |  |  |
+| *Kategori 3[^\*]* |  |  |  |  |  |
 | Produkters manglende overholdelse: animalske biprodukters / avledede produkters trygghet |  |  |  |  |  |
-| *Kategori 1 og 2\** |  |  |  |  |  |
-| *Kategori 3\** |  |  |  |  |  |
+| *Kategori 1 og 2[^\*]* |  |  |  |  |  |
+| *Kategori 3[^\*]* |  |  |  |  |  |
 | Bedragersk og villedende praksis |  |  |  |  |  |
 
 |  |
 | --- |
-| **5.5 Merknadsfelt\*** |
+| **5.5 Merknadsfelt[^\*]** |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
 
@@ -591,13 +591,13 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| **6.2 Dyrevelferd på driftsenheter (rådsdirektiv [98/58/EF](eu/31998l0058)**12 ) |  |  |  |  |  |  |
+| **6.2 Dyrevelferd på driftsenheter (rådsdirektiv [98/58/EF](eu/31998l0058)**[^12] ) |  |  |  |  |  |  |
 |  |  |  | Manglende overholdelse |  | Tiltak |  |
-| Dyr som holdes for landbruksformål<br>(dyrekategori) | Antall produksjonssteder | Antall utførte offentlige kontroller | *Samlet antall kontrollerte produksjonssteder\** | Antall kontrollerte produksjonssteder der det ble påvist manglende overholdelse | Administrative | Rettslige |
-| Svin (som definert i rådsdirektiv [2008/120/EF](eu/32008l0120)13 ) |  |  |  |  |  |  |
-| Verpehøner (som definert i rådsdirektiv [1999/74/EF](eu/31999l0074)14 ) |  |  |  |  |  |  |
-| Kyllinger (som definert i rådsdirektiv [2007/43/EF](eu/32007l0043)15 ) |  |  |  |  |  |  |
-| Kalver (som definert i rådsdirektiv [2008/119/EF](eu/32008l0119)16 ) |  |  |  |  |  |  |
+| Dyr som holdes for landbruksformål<br>(dyrekategori) | Antall produksjonssteder | Antall utførte offentlige kontroller | *Samlet antall kontrollerte produksjonssteder[^\*]* | Antall kontrollerte produksjonssteder der det ble påvist manglende overholdelse | Administrative | Rettslige |
+| Svin (som definert i rådsdirektiv [2008/120/EF](eu/32008l0120)[^13] ) |  |  |  |  |  |  |
+| Verpehøner (som definert i rådsdirektiv [1999/74/EF](eu/31999l0074)[^14] ) |  |  |  |  |  |  |
+| Kyllinger (som definert i rådsdirektiv [2007/43/EF](eu/32007l0043)[^15] ) |  |  |  |  |  |  |
+| Kalver (som definert i rådsdirektiv [2008/119/EF](eu/32008l0119)[^16] ) |  |  |  |  |  |  |
 | Annet (spesifiser) |  |  |  |  |  |  |
 
 12 Rådsdirektiv [98/58/EF](eu/31998l0058) av 20. juli 1998 om vern av dyr som holdes for landbruksformål (EFT L 221 av 8.8.1998, s. 23).
@@ -616,7 +616,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **6.4 Dyrevelferd under transport (rådsforordning [(EF) nr. 1/2005](eu/32005r0001*)**17 ) |  |  |  |  |  |  |  |  |  |
+| **6.4 Dyrevelferd under transport (rådsforordning [(EF) nr. 1/2005](eu/32005r0001*)**[^17] ) |  |  |  |  |  |  |  |  |  |
 |  |  | Antall og kategori av manglende overholdelse |  |  |  |  |  | Tiltak |  |
 | Vern av dyr under transport<br>(etter art) | Antall utførte offentlige kontroller | 1. Dyrenes helsetilstand | 2. Transportpraksis, plassforhold, høyde | 3. Transportmiddel | 4. Vann, fôr, reisetid og hviletid | 5. Dokumenter | 6. Annet | Administrative | Rettslige |
 | Storfe |  |  |  |  |  |  |  |  |  |
@@ -635,14 +635,14 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **6.6 Dyrevelferd på tidspunktet for avliving (rådsforordning [(EF) nr. 1099/2009](eu/32009r1099)18 )** |
+| **6.6 Dyrevelferd på tidspunktet for avliving (rådsforordning [(EF) nr. 1099/2009](eu/32009r1099)[^18] )** |
 |  |
 
 18 Rådsforordning [(EF) nr. 1099/2009](eu/32009r1099) av 24. september 2009 om vern av dyr på tidspunktet for avliving (EUT L 303 av 18.11.2009, s. 1).
 
 |  |
 | --- |
-| **6.7 Merknadsfelt\*** |
+| **6.7 Merknadsfelt[^\*]** |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
 
@@ -662,13 +662,13 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **7.3 Merknadsfelt\*** |
+| **7.3 Merknadsfelt[^\*]** |
 |  |
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **7.4 Manglende overholdelse** |  |  |  | Tiltak |  |
-|  | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige\** | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse\** | Administrative | Rettslige |
+|  | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige[^\*]* | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse[^\*]* | Administrative | Rettslige |
 | Driftsansvarlige som har tillatelse til å utstede plantepass |  |  |  |  |  |
 | Driftsansvarlige som har tillatelse til å påføre merket (emballasjemateriale av tre, tre eller andre gjenstander) |  |  |  |  |  |
 | Bedragersk og villedende praksis |  |  |  |  |  |
@@ -676,7 +676,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **7.5 Merknadsfelt\*** |
+| **7.5 Merknadsfelt[^\*]** |
 |  |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
@@ -701,14 +701,14 @@ Utferdiget i Brussel 2. mai 2019.
 | Annet |  |  |
 | **Vedrørende bruk av plantevernmidler og bærekraftig bruk av pesticider** | Antall driftsansvarlige | Antall utførte offentlige kontroller |
 | Brukere innen landbruk |  |  |
-| *Søkere under EUs grunnstøtteordning eller ordningene for landdistriktsutvikling som er underlagt kontroller av overholdelse av andre vilkår (CC – Cross Compliance)\** |  |  |
-| *Brukere innen landbruk som ikke er underlagt kontroller av overholdelse av andre vilkår\** |  |  |
+| *Søkere under EUs grunnstøtteordning eller ordningene for landdistriktsutvikling som er underlagt kontroller av overholdelse av andre vilkår (CC – Cross Compliance)[^\*]* |  |  |
+| *Brukere innen landbruk som ikke er underlagt kontroller av overholdelse av andre vilkår[^\*]* |  |  |
 | Andre yrkesbrukere |  |  |
-| *Industriell bruk, f.eks. jernbane, veier\** |  |  |
-| *Frøbehandlingsaktører\** |  |  |
-| *Entreprenører/tjenesteytere innen sprøyting\** |  |  |
-| *Skogbruk\** |  |  |
-| *Andre områder enn landbruksområder (golfbaner/andre offentlige områder)\** |  |  |
+| *Industriell bruk, f.eks. jernbane, veier[^\*]* |  |  |
+| *Frøbehandlingsaktører[^\*]* |  |  |
+| *Entreprenører/tjenesteytere innen sprøyting[^\*]* |  |  |
+| *Skogbruk[^\*]* |  |  |
+| *Andre områder enn landbruksområder (golfbaner/andre offentlige områder)[^\*]* |  |  |
 | Annet |  |  |
 
 |  |
@@ -719,7 +719,7 @@ Utferdiget i Brussel 2. mai 2019.
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **8.4 Manglende overholdelse** |  |  |  | Tiltak |  |
-| **Vedrørende markedsføring av plantevernmidler** | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige\** | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse\** | Administrative | Rettslige |
+| **Vedrørende markedsføring av plantevernmidler** | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige[^\*]* | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse[^\*]* | Administrative | Rettslige |
 | Innførselssteder |  |  |  |  |  |
 | Produsenter/tilvirkere |  |  |  |  |  |
 | Foretak innen emballering/reemballering/ommerking |  |  |  |  |  |
@@ -727,23 +727,23 @@ Utferdiget i Brussel 2. mai 2019.
 | Lagre/transportforetak/logistikkforetak |  |  |  |  |  |
 | Innehaver av godkjennelse for/tillatelse til parallellhandel |  |  |  |  |  |
 | Annet |  |  |  |  |  |
-| **Vedrørende bruk av plantevernmidler og bærekraftig bruk av pesticider** | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige\** | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse\** | Administrative | Rettslige |
+| **Vedrørende bruk av plantevernmidler og bærekraftig bruk av pesticider** | Påvist under offentlig kontroll | *Samlet antall kontrollerte driftsansvarlige[^\*]* | *Antall kontrollerte driftsansvarlige der det ble påvist manglende overholdelse[^\*]* | Administrative | Rettslige |
 | Brukere innen landbruk |  |  |  |  |  |
-| *Søkere under EUs grunnstøtteordning eller ordningene for landdistriktsutvikling som er underlagt kontroller av overholdelse av andre vilkår (CC – Cross Compliance)\** |  |  |  |  |  |
-| *Brukere innen landbruk som ikke er underlagt kontroller av overholdelse av andre vilkår\** |  |  |  |  |  |
+| *Søkere under EUs grunnstøtteordning eller ordningene for landdistriktsutvikling som er underlagt kontroller av overholdelse av andre vilkår (CC – Cross Compliance)[^\*]* |  |  |  |  |  |
+| *Brukere innen landbruk som ikke er underlagt kontroller av overholdelse av andre vilkår[^\*]* |  |  |  |  |  |
 | Andre yrkesbrukere |  |  |  |  |  |
-| *Industriell bruk, f.eks. jernbane, veier\** |  |  |  |  |  |
+| *Industriell bruk, f.eks. jernbane, veier[^\*]* |  |  |  |  |  |
 | *Frøbehandlingsaktører\** |  |  |  |  |  |
-| *Entreprenører/tjenesteytere innen sprøyting\** |  |  |  |  |  |
-| *Skogbruk\** |  |  |  |  |  |
-| *Andre områder enn landbruksområder (golfbaner/andre offentlige områder)\** |  |  |  |  |  |
+| *Entreprenører/tjenesteytere innen sprøyting[^\*]* |  |  |  |  |  |
+| *Skogbruk[^\*]* |  |  |  |  |  |
+| *Andre områder enn landbruksområder (golfbaner/andre offentlige områder)[^\*]* |  |  |  |  |  |
 | Annet |  |  |  |  |  |
 | Bedragersk og villedende praksis |  |  |  |  |  |
 |  |  |  |  |  |  |
 
 |  |
 | --- |
-| **8.5 Merknadsfelt\*** |
+| **8.5 Merknadsfelt[^\*]** |
 |  |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.
@@ -785,7 +785,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **10.3 Merknadsfelt\*** |
+| **10.3 Merknadsfelt[^\*]** |
 |  |
 
 |  |  |  |  |  |  |
@@ -800,7 +800,7 @@ Utferdiget i Brussel 2. mai 2019.
 
 |  |
 | --- |
-| **10.5 Merknadsfelt\*** |
+| **10.5 Merknadsfelt[^\*]** |
 |  |
 
 \* *Medlemsstatene kan selv velge om de vil fylle ut tekstfeltene eller cellene merket med en asterisk (\*)*.

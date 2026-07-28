@@ -15,7 +15,7 @@ xml_hash: "f67adc9916bb41f325d153d412a0d60127411460fe5b4494a5c15b5a7b6d0439"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,7 +39,7 @@ I loven betyr:
 1. Barn: medlemmets barn, herunder stebarn og fosterbarn.
 2. Folketrygdens grunnbeløp (G): det til enhver tid gjeldende grunnbeløpet i folketrygden.
 3. Foretak: aksjeselskap, allmennaksjeselskap, ansvarlig selskap, enkeltpersonforetak og ethvert annet rettssubjekt som har arbeidstaker i sin tjeneste.
-4. Foretakspensjon: pensjonsordning i arbeidsforhold undergitt [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon eller [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3)1 om private tjenestepensjonsordninger.
+4. Foretakspensjon: pensjonsordning i arbeidsforhold undergitt [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon eller [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3)[^1] om private tjenestepensjonsordninger.
 5. Frilanser: person som utfører arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse, uten å være selvstendig næringsdrivende.
 6. Fripoliseregisteret: register nevnt i [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon [§ 4-14](lov/2000-03-24-16/§4-14).
 7. Innskuddsplan: den del av regelverket som fastsetter de innskudd som skal foretas for å sikre medlemmene alderspensjon.
@@ -86,7 +86,7 @@ Kongen kan fastsette nærmere regler til utfylling og gjennomføring av bestemme
 Pensjonsordning etter loven her kan opprettes ved avtale med
 
 1. institusjon som har tillatelse fra norske myndigheter til å drive virksomhet her i riket som bank, livsforsikringsselskap, pensjonskasse, innskuddspensjonsforetak eller forvaltningsselskap for verdipapirfond,
-2. kredittinstitusjon, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond som er hjemmehørende i en annen stat innenfor EØS-området og som har adgang til å drive tilsvarende virksomhet som nevnt i bokstav a her i riket.1
+2. kredittinstitusjon, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond som er hjemmehørende i en annen stat innenfor EØS-området og som har adgang til å drive tilsvarende virksomhet som nevnt i bokstav a her i riket.[^1]
 
 > Endret ved [lover 10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 633](forskrift/2008-06-20-633)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
 
@@ -635,7 +635,7 @@ Innskuddsfondet skal tilføres:
 (1) Innskuddsfondet kan brukes til dekning av:
 
 1. årets innskudd i henhold til innskuddsplanen for pensjonsordningen
-2. premie for forsikring av innskuddsfritak ved uførhet og uførepensjon etter reglene i [foretakspensjonsloven § 6-1](lov/2000-03-24-16/§6-1).1
+2. premie for forsikring av innskuddsfritak ved uførhet og uførepensjon etter reglene i [foretakspensjonsloven § 6-1](lov/2000-03-24-16/§6-1).[^1]
 3. kostnad i henhold til [§ 14-1](lov/2000-11-24-81/§14-1) fjerde ledd.
 
 (2) Foretaket kan ikke bruke midler i innskuddsfondet til formål som nevnt i første ledd bokstav b og c, med mindre innskuddsfondet fortsatt vil være tilstrekkelig til å sikre at forpliktelser som nevnt i første ledd bokstav a blir dekket for inneværende og neste år.
@@ -830,7 +830,7 @@ Ved omdanning av pensjonsordning etter loven her til pensjonsordning etter tjene
 
 ### § 15-1. Ikrafttredelse.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1167](forskrift/2000-11-24-1167).
 

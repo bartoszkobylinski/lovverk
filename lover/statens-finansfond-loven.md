@@ -15,7 +15,7 @@ xml_hash: "d5bd3cd5c7e412b225df8d4389aaee2f845dd938f5b6de588762227fb1b29b13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,7 +104,7 @@ Departementet kan gi forskrift med nærmere regler for Finansfondet og dets virk
 
 ## § 12. Ikrafttredelse og overgangsbestemmelser
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Det er adgang til å sette i kraft forskjellige deler av loven til forskjellig tid.
 

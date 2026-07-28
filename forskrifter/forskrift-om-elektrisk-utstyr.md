@@ -15,7 +15,7 @@ xml_hash: "2d68c071ab1d155afc43962c9eb459673b5acc932cc4a109a04318a075a1e3da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -376,7 +376,7 @@ Det elektriske utstyret skal være konstruert og produsert i samsvar med nr. 1 s
 
    Produsentens forpliktelser i henhold til nr. 4 kan på dennes vegne og ansvar oppfylles av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
-## Vedlegg III: Samsvarserklæring for lavspenningsutstyr1
+## Vedlegg III: Samsvarserklæring for lavspenningsutstyr[^1]
 
 1. Utstyrsmodell/utstyr (entydig identifikasjon av lavspenningsutstyret; produkt, type-, parti- eller serienummer):
 2. Navn og adresse til produsenten eller produsentens representant:

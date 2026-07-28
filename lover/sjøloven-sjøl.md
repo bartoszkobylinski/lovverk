@@ -15,7 +15,7 @@ xml_hash: "4e2c351fd7cde5ec5f626fffa6431fd7d63d9d5a96d654f99d6d5d025fb46cb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009R0392"
@@ -41,11 +41,11 @@ Et skip skal anses som norsk når det ikke er innført i annet lands skipsregist
 
 Ved anvendelsen av denne paragraf skal likt med det som eies av norsk statsborger, regnes det som eies av den norske stat, institusjon eller fond som styres av den norske stat, norsk kommune, selskap som selv fyller vilkårene i første ledd, eller norsk bank, stiftelse eller forening dersom styret har sitt sete i Norge og styrets flertall består av norske statsborgere bosatt i Norge.
 
-Ved anvendelsen av denne paragraf skal likt med det som eies av norsk statsborger, regnes det som eies av person, selskap eller virksomhet som omfattet av bestemmelsene i EØS-avtalen.1 Dersom skipet eies av selskap, virksomhet eller lignende må dette være stiftet i samsvar med lovgivningen i et av landene tilknyttet EØS-avtalen1 og ha sitt vedtektsbestemte sete, sin hovedadministrasjon eller sitt hovedforetak i et av disse landene. Likt med kravet til norsk statsborgerskap og bopel for styrets medlemmer i første ledd nr. 4 regnes statsborgerskap og bopel i land tilknyttet EØS-avtalen. Det er et vilkår at skipet inngår som ledd i en økonomisk virksomhet som er etablert i Norge, og at skipet drives fra Norge. Dersom skipet benyttes i fritidsøyemed og ikke inngår i en økonomisk virksomhet, kan det eies av en person som er bosatt i Norge og som er statsborger fra et land tilknyttet EØS-avtalen.2
+Ved anvendelsen av denne paragraf skal likt med det som eies av norsk statsborger, regnes det som eies av person, selskap eller virksomhet som omfattet av bestemmelsene i EØS-avtalen.[^1] Dersom skipet eies av selskap, virksomhet eller lignende må dette være stiftet i samsvar med lovgivningen i et av landene tilknyttet EØS-avtalen[^1] og ha sitt vedtektsbestemte sete, sin hovedadministrasjon eller sitt hovedforetak i et av disse landene. Likt med kravet til norsk statsborgerskap og bopel for styrets medlemmer i første ledd nr. 4 regnes statsborgerskap og bopel i land tilknyttet EØS-avtalen. Det er et vilkår at skipet inngår som ledd i en økonomisk virksomhet som er etablert i Norge, og at skipet drives fra Norge. Dersom skipet benyttes i fritidsøyemed og ikke inngår i en økonomisk virksomhet, kan det eies av en person som er bosatt i Norge og som er statsborger fra et land tilknyttet EØS-avtalen.[^2]
 
-Eies et skip av en utenlandsk statsborger som har fast bosted i Norge og som ikke er fra en av medlemsstatene i EØS-avtalen,2 kan departementet i særlige tilfelle godkjenne skipet som norsk. Likeledes kan departementet i særlige tilfelle gjøre unntak fra kravene i første ledd nr. 2 til 4 jf annet ledd om at norske statsborgere skal eie minst 6/10 av kapitalen og kunne utøve stemmerett med minst 6/10 av stemmene.
+Eies et skip av en utenlandsk statsborger som har fast bosted i Norge og som ikke er fra en av medlemsstatene i EØS-avtalen,[^2] kan departementet i særlige tilfelle godkjenne skipet som norsk. Likeledes kan departementet i særlige tilfelle gjøre unntak fra kravene i første ledd nr. 2 til 4 jf annet ledd om at norske statsborgere skal eie minst 6/10 av kapitalen og kunne utøve stemmerett med minst 6/10 av stemmene.
 
-Dersom eieren ikke har fast bosted i Norge, skal han oppnevne en representant, bosatt i Norge og med statsborgerskap fra et land tilknyttet EØS-avtalen,1 som har fullmakt til å ta imot søksmål på vegne av eieren.
+Dersom eieren ikke har fast bosted i Norge, skal han oppnevne en representant, bosatt i Norge og med statsborgerskap fra et land tilknyttet EØS-avtalen,[^1] som har fullmakt til å ta imot søksmål på vegne av eieren.
 
 Et skip som anses som norsk etter [§ 1](lov/1994-06-24-39/§1) første ledd, anses likevel ikke som norsk så lenge det i henhold til [§ 40 b](lov/1994-06-24-39/§40b) er bareboatregistrert i et annet lands skipsregister.
 
@@ -3132,7 +3132,7 @@ Har bortfrakteren mottatt betaling ut over det som tilkommer bortfrakteren etter
 
 [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 56x (Europaparlaments- og rådsforordning [(EF) nr. 392/2009](eu/32009r0392) av 23. april 2009 om transportørers erstatningsansvar ved ulykker under sjøtransport av passasjerer) gjelder som lov med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-Forordningen nevnt i første ledd gjelder tilsvarende for all passasjertransport i Norge med skip som ikke er omfattet av klasse A og klasse B i direktiv [2009/45/EF](eu/32009l0045)1 artikkel 4, men likevel slik at ansvaret ikke omfatter medansvar for terrorhendelser, jf. 2002 Aten-konvensjonen artikkel 3 nr. 1 bokstav b, og at forsikringsplikten etter 2002 Aten-konvensjonen artikkel 4bis ikke gjelder. For skip som ikke er omfattet av klasse A og klasse B i direktiv [2009/45/EF](eu/32009l0045) artikkel 4, skal bortfrakteren ha ansvarsforsikring dersom skipet er sertifisert til å føre mer enn 12 passasjerer.
+Forordningen nevnt i første ledd gjelder tilsvarende for all passasjertransport i Norge med skip som ikke er omfattet av klasse A og klasse B i direktiv [2009/45/EF](eu/32009l0045)[^1] artikkel 4, men likevel slik at ansvaret ikke omfatter medansvar for terrorhendelser, jf. 2002 Aten-konvensjonen artikkel 3 nr. 1 bokstav b, og at forsikringsplikten etter 2002 Aten-konvensjonen artikkel 4bis ikke gjelder. For skip som ikke er omfattet av klasse A og klasse B i direktiv [2009/45/EF](eu/32009l0045) artikkel 4, skal bortfrakteren ha ansvarsforsikring dersom skipet er sertifisert til å føre mer enn 12 passasjerer.
 
 Aten-konvensjonen om transport av passasjerer og deres reisegods til sjøs, 1974, som endret ved protokollen 1. november 2002, gjelder som lov for passasjertransport som er omfattet av konvensjonen, men som faller utenfor virkeområdet for forordningen som nevnt i første ledd.
 
@@ -3569,7 +3569,7 @@ Bestemmelsene i avsnitt II gjelder, når ikke annet fremgår av den enkelte best
 1. norske skip, herunder fiskefartøy og fritidsbåter,
 2. utenlandske skip når ulykken inntreffer i riket, eller utenfor riket når flaggstaten samtykker eller det i henhold til folkeretten kan utøves norsk jurisdiksjon.
 
-For sjøulykker med roroferger og hurtiggående passasjerfartøy som går i rutetrafikk til eller fra havn i en EØS-stat, gjelder avsnitt II når ulykken inntreffer utenfor norsk sjøterritorium dersom Norge var den siste EØS-staten skipet besøkte før ulykken.1
+For sjøulykker med roroferger og hurtiggående passasjerfartøy som går i rutetrafikk til eller fra havn i en EØS-stat, gjelder avsnitt II når ulykken inntreffer utenfor norsk sjøterritorium dersom Norge var den siste EØS-staten skipet besøkte før ulykken.[^1]
 
 Bestemmelsene i avsnitt II gjelder ikke for sjøulykker som bare involverer militære fartøy.
 
@@ -3903,7 +3903,7 @@ Spørsmål om foreldelse avgjøres etter norsk rett i alle tilfelle hvor søksm�
 
 ### § 505. Definisjon av SDR
 
-Med SDR menes i loven her den spesielle trekkrettighet som er fastsatt av Det internasjonale valutafond.1 Den skal omregnes til norske penger etter kronens verdi uttrykt i SDR den dag da betaling finner sted eller begrensningsfond opprettes etter [kapittel 9](lov/1994-06-24-39/kap9) eller 10.
+Med SDR menes i loven her den spesielle trekkrettighet som er fastsatt av Det internasjonale valutafond.[^1] Den skal omregnes til norske penger etter kronens verdi uttrykt i SDR den dag da betaling finner sted eller begrensningsfond opprettes etter [kapittel 9](lov/1994-06-24-39/kap9) eller 10.
 
 > **Endres** ved [lov 12 mai 2015 nr. 30](lov/2015-05-12-30) (ikr. fra den tid Kongen bestemmer).
 
@@ -3961,7 +3961,7 @@ Flyttbare plattformer som er innført i et annet lands skipsregister, anses like
 
 ### § 511. Ikrafttredelse. Opphevelse av sjøfartsloven 1893
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte deler av loven kan settes i kraft til ulik tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] De enkelte deler av loven kan settes i kraft til ulik tid.
 
 Fra den tid loven trer i kraft, oppheves [lov 20 juli 1893 nr 1](lov/1893-07-20-1) om sjøfarten.
 
@@ -3987,11 +3987,11 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
-under henvisning til uttalelse fra Regionkomiteen,2
+under henvisning til uttalelse fra Regionkomiteen,[^2]
 
-etter framgangsmåten fastsatt i traktatens artikkel 251, på grunnlag av Forlikskomiteens felles forslag av 3. februar 2009,3 og
+etter framgangsmåten fastsatt i traktatens artikkel 251, på grunnlag av Forlikskomiteens felles forslag av 3. februar 2009,[^3] og
 
 ut fra følgende betraktninger:
 
@@ -4004,13 +4004,13 @@ ut fra følgende betraktninger:
 7. Den internasjonale sjøfartsorganisasjons juridiske komité vedtok 19. oktober 2006 IMOs forbehold og retningslinjer for gjennomføring av Athen-konvensjonen (IMOs retningslinjer) for å løse viktige spørsmål i forbindelse med Athen-konvensjonen, særlig spørsmålet om erstatning for skade i forbindelse med terrorisme. IMOs retningslinjer kan derfor anses som en særbestemmelse.
 8. Ved denne forordning er det innarbeidet deler av IMOs retningslinjer som gjøres bindende. Verbet «bør» i bestemmelsene i IMOs retningslinjer bør derfor forstås som «skal».
 9. Bestemmelsene i Athen-konvensjonen (vedlegg I) og i IMOs retningslinjer (vedlegg II) bør får tilsvarende anvendelse i Fellesskapets regelverk.
-10. Den ordningen for erstatningsansvar som er fastsatt ved denne forordning, bør gradvis utvides til å omfatte forskjellige fartøyklasser som fastsatt i artikkel 4 i rådsdirektiv [98/18/EF](eu/31998l0018*) av 17. mars 1998 om sikkerhetsstandarder for passasjerskip.4 Det bør tas hensyn til følgene når det gjelder takster og markedets mulighet for å oppnå forsikringsdekning til overkommelige priser på det nivået som kreves, og det politiske ønsket om å forbedre passasjerens rettigheter samt visse sesongbestemte transporttjenester til sjøs.
-11. De spørsmålene som er omfattet av artikkel 17 og 17a i Athen-konvensjonen, hører inn under Fellesskapets enekompetanse i den utstrekning disse artiklene påvirker de reglene som er fastsatt ved rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) av 22. desember 2000 om domsmyndighet og om anerkjennelse og fullbyrding av dommer i sivile og kommersielle saker.5 I denne forbindelse vil disse to bestemmelsene utgjøre en del av Fellesskapets rettsorden når Fellesskapet tiltrer Athen-konvensjonen.
+10. Den ordningen for erstatningsansvar som er fastsatt ved denne forordning, bør gradvis utvides til å omfatte forskjellige fartøyklasser som fastsatt i artikkel 4 i rådsdirektiv [98/18/EF](eu/31998l0018*) av 17. mars 1998 om sikkerhetsstandarder for passasjerskip.[^4] Det bør tas hensyn til følgene når det gjelder takster og markedets mulighet for å oppnå forsikringsdekning til overkommelige priser på det nivået som kreves, og det politiske ønsket om å forbedre passasjerens rettigheter samt visse sesongbestemte transporttjenester til sjøs.
+11. De spørsmålene som er omfattet av artikkel 17 og 17a i Athen-konvensjonen, hører inn under Fellesskapets enekompetanse i den utstrekning disse artiklene påvirker de reglene som er fastsatt ved rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) av 22. desember 2000 om domsmyndighet og om anerkjennelse og fullbyrding av dommer i sivile og kommersielle saker.[^5] I denne forbindelse vil disse to bestemmelsene utgjøre en del av Fellesskapets rettsorden når Fellesskapet tiltrer Athen-konvensjonen.
 12. I denne forordning bør det med uttrykket «eller er registrert i en medlemsstat» menes at flaggstaten i forbindelse med registrering av fartøyer som leies ut til totalbefraktning, enten skal være en medlemsstat eller en avtalepart i Athen-konvensjonen. Medlemsstatene og Kommisjonen bør treffe de tiltakene som er nødvendige for å anmode IMO om å utvikle retningslinjer for begrepet registrering av fartøyer som leies ut til totalbefraktning.
 13. I denne forordning bør uttrykket «utstyr til bevegelseshemmede personer» ikke anses som verken bagasje eller kjøretøyer i henhold til artikkel 8 i Athen-konvensjonen.
-14. De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.6
+14. De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[^6]
 15. Kommisjonen bør særlig få fullmakt til å endre denne forordning for å innarbeide senere endringer til internasjonale konvensjoner, protokoller, regelverk og resolusjoner i forbindelse med dette. Ettersom disse tiltakene er allmenne og har som formål å endre ikke-grunnleggende bestemmelser i denne forordning eller å utfylle den med nye ikke-grunnleggende bestemmelser, skal de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).
-16. Det europeiske sjøsikkerhetsbyrå, opprettet ved europaparlaments- og rådsforordning [(EF) nr. 1406/2002](eu/32002r1406),7 bør bistå Kommisjonen med å utarbeide et utkast til en framdriftsrapport om hvordan reglene fastsatt i henhold til denne forordning, fungerer.
+16. Det europeiske sjøsikkerhetsbyrå, opprettet ved europaparlaments- og rådsforordning [(EF) nr. 1406/2002](eu/32002r1406),[^7] bør bistå Kommisjonen med å utarbeide et utkast til en framdriftsrapport om hvordan reglene fastsatt i henhold til denne forordning, fungerer.
 17. De nasjonale myndighetene, særlig havnemyndighetene, spiller en grunnleggende og avgjørende rolle i forbindelse med identifikasjon og forvaltning av de forskjellige risikoene for sjøsikkerhet.
 18. Medlemsstatene har i sin erklæring av 9. oktober 2008 om sjøsikkerhet gitt fast tilsagn om at de senest 1. januar 2012 samtykker i å være bundet av den internasjonale konvensjonen av 1976 om begrensning av ansvaret for sjørettslige krav, som endret ved protokollen av 1996. Medlemsstatene kan benytte seg av den muligheten som er fastsatt i artikkel 15 nr. 3a i nevnte konvensjon for ved hjelp av spesifikke bestemmelser i denne forordning å regulere hvilken ordning for begrensing av erstatningsansvar som skal gjelde for passasjerer.
 19. Ettersom målet for denne forordning, nemlig å etablere felles regler for transportørers og passasjerers rettigheter ved sjøulykker, ikke kan nås i tilstrekkelig grad av medlemsstatene, og derfor på grunn av tiltakets omfang og virkninger bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette målet –
@@ -4075,7 +4075,7 @@ I tilfelle tap av eller skade på utstyr til bevegelseshemmede personer eller an
 
 ### Art 7. Informasjon til passasjerer
 
-Med forbehold for reisearrangørers forpliktelser i henhold til rådsdirektiv [90/314/EØF](eu/31990l0314) av 13. juni 1990 om pakkereiser, herunder pakkeferier og pakketurer,1 skal transportøren og/eller undertransportøren sikre at passasjerene får tilstrekkelige og forståelige opplysninger om sine rettigheter i henhold til denne forordning.
+Med forbehold for reisearrangørers forpliktelser i henhold til rådsdirektiv [90/314/EØF](eu/31990l0314) av 13. juni 1990 om pakkereiser, herunder pakkeferier og pakketurer,[^1] skal transportøren og/eller undertransportøren sikre at passasjerene får tilstrekkelige og forståelige opplysninger om sine rettigheter i henhold til denne forordning.
 
 Når transportavtalen er inngått i en medlemsstat, skal disse opplysningene framlegges på alle utsalgssteder, herunder ved salg over telefon og Internett. Dersom avgangsstedet ligger i en medlemsstat, skal disse opplysningene framlegges før avreise. I alle andre tilfeller skal opplysningene framlegges ved avreise. I den utstrekning kravet om opplysninger i henhold til denne artikkel er framlagt av enten transportøren eller undertransportøren, skal den andre ikke være forpliktet til å framlegge disse. Opplysningene skal framlegges på den mest hensiktsmessige måten.
 
@@ -4098,15 +4098,15 @@ Rapporten kan ledsages av et forslag til endring av denne forordning eller av et
 
 ### Art 10. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Komiteen for sjøsikkerhet og hindring av forurensning fra skip (COSS), nedsatt ved artikkel 3 i europaparlaments- og rådsforordning [(EF) nr. 2099/2002](eu/32002r2099).1
+1. Kommisjonen skal bistås av Komiteen for sjøsikkerhet og hindring av forurensning fra skip (COSS), nedsatt ved artikkel 3 i europaparlaments- og rådsforordning [(EF) nr. 2099/2002](eu/32002r2099).[^1]
 2. Når det vises til dette nummer, får artikkel 5a nr. 1-4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
 1 EFT L 324 av 29.11.2002, s. 1.
 
 ### Art 11. Overgangsbestemmelser
 
-1. Når det gjelder transport til sjøs i hver enkelt medlemsstat om bord på fartøyer i klasse A i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*),1 kan medlemsstatene velge å utsette iverksettingen av denne forordning fram til fire år etter den dagen den får anvendelse.
-2. Når det gjelder transport til sjøs i hver enkelt medlemsstat om bord på fartøyer i klasse C i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*),1 kan medlemsstatene velge å utsette iverksettingen av denne forordning fram til 31. desember 2018.
+1. Når det gjelder transport til sjøs i hver enkelt medlemsstat om bord på fartøyer i klasse A i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*),[^1] kan medlemsstatene velge å utsette iverksettingen av denne forordning fram til fire år etter den dagen den får anvendelse.
+2. Når det gjelder transport til sjøs i hver enkelt medlemsstat om bord på fartøyer i klasse C i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*),[^1] kan medlemsstatene velge å utsette iverksettingen av denne forordning fram til 31. desember 2018.
 
 1 Jf. [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 56f (nå dir. [2009/45](eu/32009l0045)).
 
@@ -4156,7 +4156,7 @@ Vedlegget til denne konvensjon skal utgjøre en integrert del av konvensjonen.
 
 ### Art 2. Virkeområde
 
-1. [...]1
+1. [...][^1]
 2. Uten hensyn til nr. 1 i denne artikkel får ikke denne konvensjon anvendelse dersom den aktuelle transporten i henhold til en annen internasjonal konvensjon om andre former for transport av passasjerer og deres bagasje er omfattet av en ordning om erstatningsansvar etter den aktuelle konvensjonens bestemmelser, forutsatt at disse bestemmelsene er bindende for transport til sjøs.
 
 1 Ikke gjengitt.

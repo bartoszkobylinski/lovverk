@@ -15,7 +15,7 @@ xml_hash: "40351d2182b8ed4d74f39d6a3010634bc8180bd7ac4650a6364d584732e61d80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -480,11 +480,11 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) nr. 305/2011](eu/32011r0305) av 9. mars 2011 om fastsettelse av harmoniserte vilkår for markedsføring av byggevarer og om oppheving av rådsdirektiv [89/106/EØF](eu/31989l0106),1 særlig artikkel 27 nr. 1, og
+under henvisning til europaparlaments- og rådsforordning [(EU) nr. 305/2011](eu/32011r0305) av 9. mars 2011 om fastsettelse av harmoniserte vilkår for markedsføring av byggevarer og om oppheving av rådsdirektiv [89/106/EØF](eu/31989l0106),[^1] særlig artikkel 27 nr. 1, og
 
 ut fra følgende betraktninger:
 
-1. Ved kommisjonsvedtak [2000/147/EU](eu/32000d0147*)2 ble det vedtatt et system for klassifisering av byggevarers ytelse ved brannpåvirkning. Det var basert på en harmonisert løsning for vurdering av denne ytelsen og for klassifisering av resultatene av disse vurderingene.
+1. Ved kommisjonsvedtak [2000/147/EU](eu/32000d0147*)[^2] ble det vedtatt et system for klassifisering av byggevarers ytelse ved brannpåvirkning. Det var basert på en harmonisert løsning for vurdering av denne ytelsen og for klassifisering av resultatene av disse vurderingene.
 2. I vedtak [2000/147/EC](eu/32000d0147*) er det fastsatt en rekke klasser for ytelse ved brannpåvirkning. Dessuten inneholder det klasse F, FFL, FL og Fca, som er oppført med «ingen ytelse angitt» («inga fastlagd yting»).
 3. I samsvar med artikkel 2 nr. 7 i forordning [(EU) nr. 305/2011](eu/32011r0305) menes med «klasse» en rekke nivåer, avgrenset ved en laveste og høyeste verdi for en byggevares ytelse. Klasser oppført med «ingen ytelse angitt» er ikke i samsvar med denne definisjonen og kan derfor ikke innarbeides i et klassifiseringssystem i henhold til forordning [(EU) nr. 305/2011](eu/32011r0305).
 4. Bruken av «ingen ytelse angitt» i forbindelse med utarbeiding av ytelseserklæringen er fastsatt i artikkel 6 nr. 3 bokstav f) i forordning [(EU) nr. 305/2011](eu/32011r0305).
@@ -529,7 +529,7 @@ Klasser for ytelse ved brannpåvirkning
 
 1.1.
 
-I tabell 1–4 gjelder følgende symboler:1
+I tabell 1–4 gjelder følgende symboler:[^1]
 
 1. «ΔT» – temperaturstigning
 2. «Δm» – massetap
@@ -540,7 +540,7 @@ I tabell 1–4 gjelder følgende symboler:1
 
 1.2.
 
-I tabell 1, 2 og 3 gjelder følgende symboler:1
+I tabell 1, 2 og 3 gjelder følgende symboler:[^1]
 
 1. «FIGRA» – brannutviklingsfart
 2. «THR» – samlet varmeavgivning
@@ -582,19 +582,19 @@ Klasser for byggevarers ytelse ved brannpåvirkning, unntatt gulvbelegg, lineær
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
 | --- | --- | --- | --- |
-| **A1** | EN ISO 11821<br>*og* | ΔT ≤ 30 °C *og*<br>Δm ≤ 50 % *og*<br>tf = 0 (dvs. ingen vedvarende flammeavgivning) |  |
-|  | EN ISO 1716 | PCS ≤ 2,0 MJkg- 1 *og*<br>PCS ≤ 2,0 MJkg- 2 2a *og*<br>PCS ≤ 1,4 MJm- 3 *og*<br>PCS ≤ 2,0 MJkg-1 4 |  |
-| **A2** | EN ISO 11821<br>*eller* | ΔT ≤ 50 °C *og*<br>Δm ≤ 50 % *og*<br>tf ≤ 20 s |  |
-|  | EN ISO 1716<br>*og* | PCS ≤ 3,0 MJkg-1 1 *og*<br>PCS ≤ 4,0 MJm-2 2 *og*<br>PCS ≤ 4,0 MJm-2 3 *og*<br>PCS ≤ 3,0 MJkg-1 4 |  |
-|  | EN 13823 (SBI) | FIGRA ≤ 120 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-| **B** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 120 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
-| **C** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 250 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 15 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
-| **D** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 750 Ws-1 | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
-| **E** | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s | Brennende dråper/partikler7 |
-| **F** | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs > 150 mm innen 20 s |  |
+| **A1** | EN ISO 1182[^1]<br>*og* | ΔT ≤ 30 °C *og*<br>Δm ≤ 50 % *og*<br>tf = 0 (dvs. ingen vedvarende flammeavgivning) |  |
+|  | EN ISO 1716 | PCS ≤ 2,0 MJkg- [^1] *og*<br>PCS ≤ 2,0 MJkg- [^2] [^2a] *og*<br>PCS ≤ 1,4 MJm- [^3] *og*<br>PCS ≤ 2,0 MJkg-1 [^4] |  |
+| **A2** | EN ISO 1182[^1]<br>*eller* | ΔT ≤ 50 °C *og*<br>Δm ≤ 50 % *og*<br>tf ≤ 20 s |  |
+|  | EN ISO 1716<br>*og* | PCS ≤ 3,0 MJkg-1 [^1] *og*<br>PCS ≤ 4,0 MJm-2 [^2] *og*<br>PCS ≤ 4,0 MJm-2 [^3] *og*<br>PCS ≤ 3,0 MJkg-1 [^4] |  |
+|  | EN 13823 (SBI) | FIGRA ≤ 120 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+| **B** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 120 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
+| **C** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 250 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 15 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
+| **D** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 750 Ws-1 | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
+| **E** | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s | Brennende dråper/partikler[^7] |
+| **F** | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs > 150 mm innen 20 s |  |
 
 1 For ensartede varer og vesentlige komponenter i uensartede varer.
 
@@ -619,19 +619,19 @@ Klasser for gulvbeleggs ytelse ved brannpåvirkning
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
 | --- | --- | --- | --- |
-| **A1FL** | EN ISO 11821<br>*og* | ΔT ≤ 30 °C *og*<br>Δm ≤ 50 % *og*<br>tf = 0 (dvs. ingen vedvarende flammeavgivning) |  |
-|  | EN ISO 1716 | PCS ≤ 2,0 MJkg-1 1 *og*<br>PCS ≤ 2,0 MJkg-1 2 *og*<br>PCS ≤ 1,4 MJm-2 3 *og*<br>PCS ≤ 2,0 MJkg-1 4 |  |
-| **A2FL** | EN ISO 11821<br>*eller* | ΔT ≤ 50 °C *og*<br>Δm ≤ 50 % *og*<br>tf ≤ 20 s |  |
-|  | EN ISO 1716<br>*og* | PCS ≤ 3,0 MJkg-1 1 *og*<br>PCS ≤ 4,0 MJm-2 2 *og*<br>PCS ≤ 4,0 MJm-2 3 *og*<br>PCS ≤ 3,0 MJkg-1 4 |  |
-|  | EN ISO 9239-15 | Kritisk fluks6 ≥ 8,0 kWm- 2 | Røykutvikling7 |
-| **BFL** | EN ISO 9239-15<br>*og* | Kritisk fluks6 ≥ 8,0 kWm- 2 | Røykutvikling7 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
-| **CFL** | EN ISO 9239-15<br>*og* | Kritisk fluks6 ≥ 4,5 kWm- 2 | Røykutvikling7 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
-| **DFL** | EN ISO 9239-15<br>*og* | Kritisk fluks6 ≥ 3,0 kWm- 2 | Røykutvikling7 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
-| **EFL** | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
-| **FFL** | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs > 150 mm innen 20 s |  |
+| **A1FL** | EN ISO 1182[^1]<br>*og* | ΔT ≤ 30 °C *og*<br>Δm ≤ 50 % *og*<br>tf = 0 (dvs. ingen vedvarende flammeavgivning) |  |
+|  | EN ISO 1716 | PCS ≤ 2,0 MJkg-1 [^1] *og*<br>PCS ≤ 2,0 MJkg-1 [^2] *og*<br>PCS ≤ 1,4 MJm-2 [^3] *og*<br>PCS ≤ 2,0 MJkg-1 [^4] |  |
+| **A2FL** | EN ISO 1182[^1]<br>*eller* | ΔT ≤ 50 °C *og*<br>Δm ≤ 50 % *og*<br>tf ≤ 20 s |  |
+|  | EN ISO 1716<br>*og* | PCS ≤ 3,0 MJkg-1 [^1] *og*<br>PCS ≤ 4,0 MJm-2 [^2] *og*<br>PCS ≤ 4,0 MJm-2 [^3] *og*<br>PCS ≤ 3,0 MJkg-1 [^4] |  |
+|  | EN ISO 9239-1[^5] | Kritisk fluks[^6] ≥ 8,0 kWm- 2 | Røykutvikling[^7] |
+| **BFL** | EN ISO 9239-1[^5]<br>*og* | Kritisk fluks[^6] ≥ 8,0 kWm- 2 | Røykutvikling[^7] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
+| **CFL** | EN ISO 9239-1[^5]<br>*og* | Kritisk fluks[^6] ≥ 4,5 kWm- 2 | Røykutvikling[^7] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
+| **DFL** | EN ISO 9239-1[^5]<br>*og* | Kritisk fluks[^6] ≥ 3,0 kWm- 2 | Røykutvikling[^7] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
+| **EFL** | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s |  |
+| **FFL** | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs > 150 mm innen 20 s |  |
 
 1 For ensartede varer og vesentlige komponenter i uensartede varer.
 
@@ -654,19 +654,19 @@ Klasser for ytelse ved brannpåvirkning med hensyn til lineære varmeisolerende 
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
 | --- | --- | --- | --- |
-| **A1L** | EN ISO 11821<br>*og* | ΔT ≤ 30 °C *og*<br>Δm ≤ 50 % *og*<br>tf = 0 (dvs. ingen vedvarende flammeavgivning) |  |
-|  | EN ISO 1716 | PCS ≤ 2,0 MJkg-1 1 *og*<br>PCS ≤ 2,0 MJkg-1 2 *og*<br>PCS ≤ 1,4 MJm-2 3 *og*<br>PCS ≤ 2,0 MJkg-1 4 |  |
-| **A2L** | EN ISO 11821<br>*eller* | ΔT ≤ 50 °C *og*<br>Δm ≤ 50 % *og* tf ≤ 20 s |  |
-|  | EN ISO 1716<br>*og* | PCS ≤ 3,0 MJkg-1 1 *og*<br>PCS ≤ 4,0 MJm-2 2 *og*<br>PCS ≤ 4,0 MJm-2 3 *og*<br>PCS ≤ 3,0 MJkg-1 4 |  |
-|  | EN 13823 (SBI) | FIGRA ≤ 270 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-| **BL** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 270 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
-| **CL** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 460 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 15 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
-| **DL** | EN 13823 (SBI) *og* | FIGRA ≤ 2100 Ws-1<br>THR600s ≤ 100 MJ | Røykutvikling5 *og*<br>brennende dråper/partikler6 |
-|  | EN ISO 11925-2:8<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
-| **EL** | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s | Brennende dråper/partikler7 |
-| **FL** | EN ISO 11925-2:8<br>*Eksponering = 15* s | Fs > 150mm innen 20 s |  |
+| **A1L** | EN ISO 1182[^1]<br>*og* | ΔT ≤ 30 °C *og*<br>Δm ≤ 50 % *og*<br>tf = 0 (dvs. ingen vedvarende flammeavgivning) |  |
+|  | EN ISO 1716 | PCS ≤ 2,0 MJkg-1 [^1] *og*<br>PCS ≤ 2,0 MJkg-1 [^2] *og*<br>PCS ≤ 1,4 MJm-2 [^3] *og*<br>PCS ≤ 2,0 MJkg-1 [^4] |  |
+| **A2L** | EN ISO 1182[^1]<br>*eller* | ΔT ≤ 50 °C *og*<br>Δm ≤ 50 % *og* tf ≤ 20 s |  |
+|  | EN ISO 1716<br>*og* | PCS ≤ 3,0 MJkg-1 [^1] *og*<br>PCS ≤ 4,0 MJm-2 [^2] *og*<br>PCS ≤ 4,0 MJm-2 [^3] *og*<br>PCS ≤ 3,0 MJkg-1 [^4] |  |
+|  | EN 13823 (SBI) | FIGRA ≤ 270 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+| **BL** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 270 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 7,5 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
+| **CL** | EN 13823 (SBI)<br>*og* | FIGRA ≤ 460 Ws-1 *og*<br>LFS < prøvelegemets kant *og*<br>THR600s ≤ 15 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
+| **DL** | EN 13823 (SBI) *og* | FIGRA ≤ 2100 Ws-1<br>THR600s ≤ 100 MJ | Røykutvikling[^5] *og*<br>brennende dråper/partikler[^6] |
+|  | EN ISO 11925-2:[^8]<br>*Eksponering = 30* s | Fs ≤ 150 mm innen 60 s |  |
+| **EL** | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs ≤ 150 mm innen 20 s | Brennende dråper/partikler[^7] |
+| **FL** | EN ISO 11925-2:[^8]<br>*Eksponering = 15* s | Fs > 150mm innen 20 s |  |
 
 1 For ensartede varer og vesentlige komponenter i uensartede varer.
 
@@ -689,14 +689,14 @@ Klasser for elektriske kablers ytelse ved brannpåvirkning
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
 | --- | --- | --- | --- |
-| **Aca** | EN ISO 1716 | PCS ≤ 2,0 MJ/kg1 |  |
-| **B1ca** | EN 50399 (30 kW flammekilde)<br>*og* | FS ≤ 1,75 m *og*<br>THR1200s ≤ 10 MJ *og*<br>Største HRR ≤ 20 kW *og*<br>FIGRA ≤ 120 Ws-1 | Røykutvikling2 5 og brennende dråper/partikler3 og surhetsgrad (pH og konduktivitet)4 |
+| **Aca** | EN ISO 1716 | PCS ≤ 2,0 MJ/kg[^1] |  |
+| **B1ca** | EN 50399 (30 kW flammekilde)<br>*og* | FS ≤ 1,75 m *og*<br>THR1200s ≤ 10 MJ *og*<br>Største HRR ≤ 20 kW *og*<br>FIGRA ≤ 120 Ws-1 | Røykutvikling[^2] [^5] og brennende dråper/partikler[^3] og surhetsgrad (pH og konduktivitet)[^4] |
 |  | EN 60332-1-2 | H ≤ 425 mm |  |
-| **B2ca** | EN 50399 (20,5 kW flammekilde)<br>*og* | FS ≤ 1,5 m *og*<br>THR1200s ≤ 15 MJ *og*<br>Største HRR ≤ 30 kW *og*<br>FIGRA ≤ 150 Ws-1 | Røykutvikling2 6 og brennende dråper/partikler3 og surhetsgrad (pH og konduktivitet)4 |
+| **B2ca** | EN 50399 (20,5 kW flammekilde)<br>*og* | FS ≤ 1,5 m *og*<br>THR1200s ≤ 15 MJ *og*<br>Største HRR ≤ 30 kW *og*<br>FIGRA ≤ 150 Ws-1 | Røykutvikling[^2] [^6] og brennende dråper/partikler[^3] og surhetsgrad (pH og konduktivitet)[^4] |
 |  | EN 60332-1-2 | H ≤ 425 mm |  |
-| **Cca** | EN 50399 (20,5 kW flammekilde)<br>*og* | FS ≤ 2,0 m *og*<br>THR1200s ≤ 30 MJ *og*<br>Største HRR ≤ 60 kW *og*<br>FIGRA ≤ 300 Ws-1 | Røykutvikling2 6 og brennende dråper/partikler3 og surhetsgrad (pH og konduktivitet)4 |
+| **Cca** | EN 50399 (20,5 kW flammekilde)<br>*og* | FS ≤ 2,0 m *og*<br>THR1200s ≤ 30 MJ *og*<br>Største HRR ≤ 60 kW *og*<br>FIGRA ≤ 300 Ws-1 | Røykutvikling[^2] [^6] og brennende dråper/partikler[^3] og surhetsgrad (pH og konduktivitet)[^4] |
 |  | EN 60332-1-2 | H ≤ 425 mm |  |
-| **Dca** | EN 50399 (20,5 kW flammekilde)<br>*og* | THR1200s ≤ 70 MJ *og*<br>Største HRR ≤ 400 kW *og*<br>FIGRA ≤ 1 300 Ws-1 | Røykutvikling2 6 og brennende dråper/partikler3 og surhetsgrad (pH og konduktivitet)4 |
+| **Dca** | EN 50399 (20,5 kW flammekilde)<br>*og* | THR1200s ≤ 70 MJ *og*<br>Største HRR ≤ 400 kW *og*<br>FIGRA ≤ 1 300 Ws-1 | Røykutvikling[^2] [^6] og brennende dråper/partikler[^3] og surhetsgrad (pH og konduktivitet)[^4] |
 |  | EN 60332-1-2 | H ≤ 425 mm |  |
 | **Eca** | EN 60332-1-2 | H ≤ 425 mm |  |
 | **Fca** | EN 60332-1-2 | H > 425 mm |  |

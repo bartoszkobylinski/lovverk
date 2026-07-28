@@ -15,7 +15,7 @@ xml_hash: "6a85951d2b4c5a0139994e3c0222358d947ff108a5c6f0f3d33cd2978c3be8a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1394,9 +1394,9 @@ Departementet kan i forskrift bestemme at mottakeren av avgiftsfrie varer og tje
 
 ### § 19-1. Ikrafttredelse
 
-(1) Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft loven til forskjellig tid for krav som nevnt i [§ 1-1](lov/2005-06-17-67/§1-1) annet og tredje ledd. Kongen kan videre sette i kraft de enkelte deler av [§ 19-3](lov/2005-06-17-67/§19-3) til forskjellig tid.2
+(1) Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft loven til forskjellig tid for krav som nevnt i [§ 1-1](lov/2005-06-17-67/§1-1) annet og tredje ledd. Kongen kan videre sette i kraft de enkelte deler av [§ 19-3](lov/2005-06-17-67/§19-3) til forskjellig tid.[^2]
 
-(2) [Lov 21. november 1952 nr. 2 om betaling og innkreving av skatt (skattebetalingsloven)](lov/1952-11-21-2) oppheves fra den tid Kongen bestemmer.3
+(2) [Lov 21. november 1952 nr. 2 om betaling og innkreving av skatt (skattebetalingsloven)](lov/1952-11-21-2) oppheves fra den tid Kongen bestemmer.[^3]
 
 > Endret ved [lov 14 des 2007 nr. 110](lov/2007-12-14-110).
 

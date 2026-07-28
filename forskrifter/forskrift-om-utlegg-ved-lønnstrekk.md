@@ -15,20 +15,20 @@ xml_hash: "cb0de73e3586bc733ff71f717598e48c1a83bc4e20e3066d3fc55b6f2ff085a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om utlegg ved lønnstrekk o.l. i særlige tilfelle etter lov om fordringshavernes dekningsrett.
 
-## § 1.1
+## § 1.[^1]
 
 Utleggsforretning om utlegg ved lønnstrekk o.l. etter § 2-7 i [lov om fordringshavernes dekningsrett](lov/1984-06-08-59/§2-7) kan holdes på namsmannens kontor på det sted hvor utlegg søkes.
 
 1 Forskriften ble opphevet av [forskrift 4. desember 1992 nr. 899](forskrift/1992-12-04-899). Forskriften §§ 1 og 2 gjelder likevel fortsatt for saker som skal behandles etter [lov 13 august 1915 nr 7](lov/1915-08-13-7) om tvangsfullbyrdelse.
 
-## § 2.1
+## § 2.[^1]
 
 Seinest samtidig med at saksøkte varsles om berammelsen i utleggsforretningen, skal saksøkte med kjent oppholdssted i Norge få tilsendt et eksemplar av utleggsbegjæringen og gis høve til å uttale seg innen en nærmere angitt frist.
 

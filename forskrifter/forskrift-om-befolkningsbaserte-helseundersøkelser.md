@@ -15,7 +15,7 @@ xml_hash: "52a7f69b347b7675bdac897dfc57244c11764906dff99fab6a0580560a13d741"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -239,6 +239,6 @@ Opplysninger og humant biologisk materiale som er innhentet før forskriften tre
 
 ### § 6-2. Ikrafttredelse
 
-Forskriften trer i kraft når departementet bestemmer.1
+Forskriften trer i kraft når departementet bestemmer.[^1]
 
 1 I kraft 13 aug 2018 iflg. [forskrift 13 aug 2018 nr. 1231](forskrift/2018-08-13-1231).

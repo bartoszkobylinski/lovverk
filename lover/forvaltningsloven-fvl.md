@@ -15,7 +15,7 @@ xml_hash: "63a5ceaaa677e95770179b764829beed73ef9cc6b244e9b26fe01bc4b99ff373"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -803,7 +803,7 @@ Forhold knyttet til ileggelsen av tvangsmulkt kan påklages særskilt. Reglene i
 
 ### § 52. (ikrafttredelse).
 
-Tidspunktet for lovens ikrafttredelse fastsettes ved særskilt lov.1
+Tidspunktet for lovens ikrafttredelse fastsettes ved særskilt lov.[^1]
 
 > Endret ved lov [27 mai 2016 nr. 15](lov/2016-05-27-15) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 713](forskrift/2017-06-09-713), tidligere § 43).
 

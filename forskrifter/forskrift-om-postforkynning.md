@@ -15,7 +15,7 @@ xml_hash: "14cc51c077463cb22bdfead5b2dc105005f4df5b9ebdb38f2e6cc74e89c23b8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,7 +124,7 @@ Med mindre annet er bestemt i [domstolloven § 163 a](lov/1915-08-13-5/§163a) k
 
 ### § 11. Ikrafttredelse
 
-Disse forskrifter1 trer i kraft 1. januar 1986.
+Disse forskrifter[^1] trer i kraft 1. januar 1986.
 
 > Endret ved [forskrift 25 juni 2010 nr. 978](forskrift/2010-06-25-978), dette var imidlertid en inkurie som ble opphevet ved [forskrift 20 aug 2010 nr. 1203](forskrift/2010-08-20-1203).
 

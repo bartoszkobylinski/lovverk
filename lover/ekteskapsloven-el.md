@@ -16,7 +16,7 @@ xml_hash: "8a02db518f9cbe2b1ddf1b02b469f36a2b96f144e89a37b99c234d68f6fdff7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -521,7 +521,7 @@ Søksmål må reises innen seks måneder etter at ektefellen fikk kunnskap om av
 
 Når eiendeler som omfattes av [§ 32](lov/1991-07-04-47/§32) eller [§ 33](lov/1991-07-04-47/§33) er sameie mellom ektefellene, gjelder reglene i dette kapitlet tilsvarende for en ektefelles andel i sameiet.
 
-Overdrar en ektefelle sin sameieandel i eiendeler som har tjent til felles personlig bruk, har den andre ektefellen rett til å løse inn andelen etter skiftetakst. Det samme gjelder når en ektefelle har krevd sameiet oppløst. Krav om innløsning må settes fram uten ugrunnet opphold og senest innen seks uker etter at ektefellen har fått slik melding som fastsatt i [sameieloven § 11](lov/1965-06-18-6/§11) fjerde ledd første punktum.1 Innen samme frist må skiftetakst være krevd. Når endelig takst foreligger, må ektefellen innen to uker tilby oppgjør på den måten som er bestemt i [sameieloven § 11](lov/1965-06-18-6/§11) fjerde ledd andre punktum.1
+Overdrar en ektefelle sin sameieandel i eiendeler som har tjent til felles personlig bruk, har den andre ektefellen rett til å løse inn andelen etter skiftetakst. Det samme gjelder når en ektefelle har krevd sameiet oppløst. Krav om innløsning må settes fram uten ugrunnet opphold og senest innen seks uker etter at ektefellen har fått slik melding som fastsatt i [sameieloven § 11](lov/1965-06-18-6/§11) fjerde ledd første punktum.[^1] Innen samme frist må skiftetakst være krevd. Når endelig takst foreligger, må ektefellen innen to uker tilby oppgjør på den måten som er bestemt i [sameieloven § 11](lov/1965-06-18-6/§11) fjerde ledd andre punktum.[^1]
 
 1 Inkurie: Fjerde ledd er opphevet, se nå [lov 9 des 1994 nr. 64 §§ 12](lov/1994-12-09-64/§12) og [13](lov/1994-12-09-64/§13).
 
@@ -787,7 +787,7 @@ Når en ektefelle beholder eiendeler som han eller hun eier fullt ut, skal verds
 
 Overstiger verdien av de eiendeler en ektefelle overtar, den lodd denne ektefellen har krav på, skal han eller hun betale den andre ektefellen det overskytende.
 
-Overtar en ektefelle etter [§ 66](lov/1991-07-04-47/§66) eller [§ 67](lov/1991-07-04-47/§67) fast eiendom eller andel av fast eiendom, andel eller aksje i boligselskap, eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til, må den andre ektefellen nøye seg med en fordring med pantesikkerhet i eiendommen eller rettigheten. Fordringen kan fra begge sider sies opp med seks måneders varsel. Kongen1 fastsetter den rentesats som skal legges til grunn.
+Overtar en ektefelle etter [§ 66](lov/1991-07-04-47/§66) eller [§ 67](lov/1991-07-04-47/§67) fast eiendom eller andel av fast eiendom, andel eller aksje i boligselskap, eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til, må den andre ektefellen nøye seg med en fordring med pantesikkerhet i eiendommen eller rettigheten. Fordringen kan fra begge sider sies opp med seks måneders varsel. Kongen[^1] fastsetter den rentesats som skal legges til grunn.
 
 Dersom en ektefelle får bruksrett til den andre ektefellens eiendom, kan fordringen ikke sies opp av den bruksberettigede ektefellen så lenge bruksretten består.
 
@@ -1135,7 +1135,7 @@ Retten skal sørge for at overføring av fast eiendom som ledd i booppgjøret ti
 
 ### § 110. Ikrafttredelse. Overgangsbestemmelser.
 
-1. Loven trer i kraft fra den tid Kongen bestemmer.1
+1. Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 2. Reglene om ektefellers rettigheter ved separasjon og skilsmisse og om deling gjelder ikke der forhold som nevnt i [§ 60](lov/1991-07-04-47/§60) inntreffer før loven trer i kraft. Reglene i [§§ 79](lov/1991-07-04-47/§79) til [85](lov/1991-07-04-47/§85) gjelder likevel i saker om fastsettelse av bidrag eller om endring eller opphevelse av bidrag når avgjørelsen treffes etter ikrafttredelsestidspunktet. Reglene om oppgjøret ved den ene ektefellens død gjelder ikke der forhold som nevnt i [§ 78](lov/1991-07-04-47/§78) inntreffer før loven trer i kraft.
 3. Reglene om rett til ektefellepensjon gjelder ikke der pensjonstilfellet inntreffer før loven trer i kraft.
 

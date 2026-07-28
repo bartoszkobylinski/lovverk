@@ -15,14 +15,14 @@ xml_hash: "077b885d2266073286bf2417f2ae6afb45301b00758bb2371fb124c329529dd1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Klima- og miljødepartementet etter klimakvoteloven § 3, § 5, § 6, § 7, § 12, § 14, § 16 og § 17
 
-Kongens myndighet etter lov om endringer i klimakvoteloven m.m.1 § 3, § 5, § 6, § 7, § 12, § 14, § 16 og § 17 delegeres til Klima- og miljødepartementet.
+Kongens myndighet etter lov om endringer i klimakvoteloven m.m.[^1] § 3, § 5, § 6, § 7, § 12, § 14, § 16 og § 17 delegeres til Klima- og miljødepartementet.
 
 > Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
 

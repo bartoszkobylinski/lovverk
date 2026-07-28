@@ -15,7 +15,7 @@ xml_hash: "5311f83b21f81616473dd7f47faa85f9f598b4f207f427dff2d09da1d1518bd7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,7 @@ Opplysninger som utvalget mottar i medhold av [§ 2](lov/2009-06-19-73/§2) kan 
 
 ## § 6. Ikrafttredelse mv.
 
-[§§ 1](lov/2009-06-19-73/§1) til [6](lov/2009-06-19-73/§6) trer i kraft straks. [§ 7](lov/2009-06-19-73/§7) trer i kraft fra den tid Kongen bestemmer,1 og de enkelte endringene i andre lover kan settes i kraft til forskjellig tid.
+[§§ 1](lov/2009-06-19-73/§1) til [6](lov/2009-06-19-73/§6) trer i kraft straks. [§ 7](lov/2009-06-19-73/§7) trer i kraft fra den tid Kongen bestemmer,[^1] og de enkelte endringene i andre lover kan settes i kraft til forskjellig tid.
 
 [§§ 1](lov/2009-06-19-73/§1) til [3](lov/2009-06-19-73/§3) gjelder til og med 30. juni 2012.
 

@@ -15,7 +15,7 @@ xml_hash: "6965d272e0de8be906c4fcc4444ff7efea142a6b8f2426d2f8270e4c1d420687"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -423,7 +423,7 @@ For å bestemme om et stoff eller en stoffblanding er en gass, væske eller et f
 | Oksiderende gass | 4,0 m3 |
 | Giftig gass, kategori 1, 2 og 3 | 0,4 m3 |
 | Brannfarlig aerosolbeholder, kategori 1 og 2 | 3,0 m3 |
-| Vanndamp eller hetvann under trykk | \* |
+| Vanndamp eller hetvann under trykk | [^\*] |
 | *Brannfarlig stoff* |  |
 | Brannfarlig væske, kategori 1 og 2 | 6,0 m3 |
 | Brannfarlig væske, kategori 3 | 12,0 m3 |

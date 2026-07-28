@@ -15,7 +15,7 @@ xml_hash: "9e54c29623a569343f6541461dce95f3530f522c056c7f4f14f27afe24ff1e2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -357,7 +357,7 @@ De alminnelige tvangsgrunnlagene er:
 5. rettsforlik for norsk domstol og stadfestet forlik etter [voldgiftsloven § 35](lov/2004-05-14-25/§35),
 6. avgjørelse av utenlandsk domstol eller annen utenlandsk myndighet, utenlandsk offentlig forlik og voldgiftsdom, som etter lov eller overenskomst med fremmed stat vil være bindende og skal kunne fullbyrdes her i riket,
 7. avgjørelse av utenlandsk domstol som vil være bindende her i riket etter [tvisteloven § 19-16](lov/2005-06-17-90/§19-16) annet og tredje ledd,
-8. avgjørelse av internasjonal domstol eller av annen internasjonal myndighet, og forlik inngått for slike domstoler og myndigheter, som etter overenskomst med fremmed stat1 skal kunne fullbyrdes her i riket.
+8. avgjørelse av internasjonal domstol eller av annen internasjonal myndighet, og forlik inngått for slike domstoler og myndigheter, som etter overenskomst med fremmed stat[^1] skal kunne fullbyrdes her i riket.
 
 Når krav på erstatning for sakskostnader i rettergang er fastsatt i et alminnelig tvangsgrunnlag etter annet ledd bokstav a, b, d og e, omfatter grunnlaget også forsinkelsesrente av kravet etter forsinkelsesrenteloven.
 
@@ -474,7 +474,7 @@ Et rettsforlik eller et forlik under voldgift kan begjæres tvangsfullbyrdet nå
 
 Et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1](lov/1992-06-26-86/§4-1) annet ledd bokstavene f og g kan begjæres tvangsfullbyrdet når det er tvangskraftig i opphavsstaten.
 
-Et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1](lov/1992-06-26-86/§4-1) annet ledd bokstav h kan begjæres fullbyrdet når de vilkår som følger av overenskomsten er oppfylt.1 [§ 5-12](lov/1992-06-26-86/§5-12) og [§ 6-5](lov/1992-06-26-86/§6-5) gjelder bare i den utstrekning overenskomsten gir adgang til det. Det samme gjelder [§ 8-2](lov/1992-06-26-86/§8-2) tredje ledd annet punktum, [§ 10-2](lov/1992-06-26-86/§10-2) annet ledd annet punktum, [§ 11-2](lov/1992-06-26-86/§11-2) annet ledd annet punktum og [§ 12-2](lov/1992-06-26-86/§12-2) annet ledd annet punktum dersom det er tatt utlegg på grunnlag av et slikt tvangsgrunnlag.
+Et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1](lov/1992-06-26-86/§4-1) annet ledd bokstav h kan begjæres fullbyrdet når de vilkår som følger av overenskomsten er oppfylt.[^1] [§ 5-12](lov/1992-06-26-86/§5-12) og [§ 6-5](lov/1992-06-26-86/§6-5) gjelder bare i den utstrekning overenskomsten gir adgang til det. Det samme gjelder [§ 8-2](lov/1992-06-26-86/§8-2) tredje ledd annet punktum, [§ 10-2](lov/1992-06-26-86/§10-2) annet ledd annet punktum, [§ 11-2](lov/1992-06-26-86/§11-2) annet ledd annet punktum og [§ 12-2](lov/1992-06-26-86/§12-2) annet ledd annet punktum dersom det er tatt utlegg på grunnlag av et slikt tvangsgrunnlag.
 
 > Endret ved [lov 27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994).
 
@@ -533,7 +533,7 @@ Privatpersoner kan i begjæringen unnlate å opplyse om saksøktes fødselsnumme
 
 Dersom saksøktes fødselsdato ikke kan fremskaffes eller saksøkte, saksøkeren eller saksøkerens prosessfullmektig ikke har fått tildelt fødselsnummer, d-nummer eller organisasjonsnummer, kan opplysningen utelates.
 
-Skriftlige tvangsgrunnlag skal legges ved i gjenpart eller original hvis ikke annet er bestemt. Saksøkeren trenger ikke legge fram bevis for at grunnlaget ikke er angrepet. Dersom tvangsgrunnlaget er en utenlandsk avgjørelse som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f), skal det legges ved dokumentasjon for at avgjørelsen kan fullbyrdes i vedkommende fremmede stat, og de øvrige dokumenter som overenskomsten med den fremmede stat bestemmer. Er grunnlaget en avgjørelse som nevnt i [§ 4-1 annet ledd bokstav g](lov/1992-06-26-86/§4-1/ledd/2/bokstav/g), skal det legges ved dokumentasjon for at avgjørelsen er tvangskraftig. Dersom tvangsgrunnlaget er et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), vedlegges de dokumenter som overenskomsten bestemmer.1 Om oversettelse av dokumenter gjelder [domstolloven § 136](lov/1915-08-13-5/§136) tilsvarende.
+Skriftlige tvangsgrunnlag skal legges ved i gjenpart eller original hvis ikke annet er bestemt. Saksøkeren trenger ikke legge fram bevis for at grunnlaget ikke er angrepet. Dersom tvangsgrunnlaget er en utenlandsk avgjørelse som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f), skal det legges ved dokumentasjon for at avgjørelsen kan fullbyrdes i vedkommende fremmede stat, og de øvrige dokumenter som overenskomsten med den fremmede stat bestemmer. Er grunnlaget en avgjørelse som nevnt i [§ 4-1 annet ledd bokstav g](lov/1992-06-26-86/§4-1/ledd/2/bokstav/g), skal det legges ved dokumentasjon for at avgjørelsen er tvangskraftig. Dersom tvangsgrunnlaget er et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), vedlegges de dokumenter som overenskomsten bestemmer.[^1] Om oversettelse av dokumenter gjelder [domstolloven § 136](lov/1915-08-13-5/§136) tilsvarende.
 
 Begjæring kan fremsettes så vel muntlig som skriftlig. En skriftlig begjæring skal være undertegnet. En muntlig begjæring nedtegnes av namsfogden og undertegnes av saksøkeren. Kongen kan i forskrift bestemme at begjæringer skal settes fram på en nærmere angitt måte. Andre enn privatpersoner kan pålegges å sende begjæringer elektronisk. Det kan fastsettes hvilket format opplysningene i elektroniske begjæringer skal ha.
 
@@ -2449,7 +2449,7 @@ Har saksøkte forårsaket en forandring som strider mot saksøkerens rett, kan d
 
 ### § 14-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen1 bestemmer.
+Loven trer i kraft fra den tid Kongen[^1] bestemmer.
 
 > Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), tidligere § 16-1.
 

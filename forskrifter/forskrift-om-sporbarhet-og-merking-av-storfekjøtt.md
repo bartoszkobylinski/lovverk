@@ -16,7 +16,7 @@ xml_hash: "720a5cd895169e2e45fc94acc7d7be897a8220cfa03b4433dcb56b005915e2e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -302,34 +302,34 @@ som endret ved
 av 17. juli 2000
 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter og om oppheving av rådsforordning [(EF) nr. 820/97](eu/31997r0820)
 
-[EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR1 –
+[EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR[^1] –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 og 152,
 
-under henvisning til forslag fra Kommisjonen,2
+under henvisning til forslag fra Kommisjonen,[^2]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,3
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^3]
 
-under henvisning til uttalelse fra Regionkomiteen,4
+under henvisning til uttalelse fra Regionkomiteen,[^4]
 
-etter framgangsmåten fastsatt i traktatens artikkel 2515 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^5] og
 
 ut fra følgende betraktninger:
 
-1. I artikkel 19 i rådsforordning [(EF) nr. 820/97](eu/31997r0820) av 21. april 1997 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter6 er det fastsatt at det skal innføres et obligatorisk system for merking av storfekjøtt som skal være obligatorisk i alle medlemsstatene fra 1. januar 2000. I samme artikkel fastsettes det også at på grunnlag av forslag fra Kommisjonen, skal det vedtas alminnelige regler for det obligatoriske systemet før denne dato.
-2. Ved rådsforordning [(EF) nr. 2772/1999](eu/31999r2772) av 21. desember 1999 om fastsettelse av alminnelige regler for et obligatorisk system for merking av storfekjøtt,7 er det fastsatt at disse alminnelige reglene skal gjelde bare midlertidig i et tidsrom på høyst åtte måneder, det vil si fra 1. februar til 31. august 2000.
+1. I artikkel 19 i rådsforordning [(EF) nr. 820/97](eu/31997r0820) av 21. april 1997 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter[^6] er det fastsatt at det skal innføres et obligatorisk system for merking av storfekjøtt som skal være obligatorisk i alle medlemsstatene fra 1. januar 2000. I samme artikkel fastsettes det også at på grunnlag av forslag fra Kommisjonen, skal det vedtas alminnelige regler for det obligatoriske systemet før denne dato.
+2. Ved rådsforordning [(EF) nr. 2772/1999](eu/31999r2772) av 21. desember 1999 om fastsettelse av alminnelige regler for et obligatorisk system for merking av storfekjøtt,[^7] er det fastsatt at disse alminnelige reglene skal gjelde bare midlertidig i et tidsrom på høyst åtte måneder, det vil si fra 1. februar til 31. august 2000.
 3. Av klarhetshensyn bør forordning [(EF) nr. 820/97](eu/31997r0820) oppheves og erstattes med denne forordning.
 4. Som følge av det ustabile markedet for storfekjøtt og storfekjøttprodukter som skyldes bovin spongiform encefalopati-krisen, har den større åpenheten omkring vilkårene for produksjon og markedsføring av de aktuelle produktene, særlig når det gjelder sporbarhet, hatt en positiv innvirkning på konsumet av storfekjøtt. For å bevare og styrke forbrukernes tillit til storfekjøtt og for å unngå å villede dem, er det nødvendig å utvikle et rammeverk der opplysninger gjøres tilgjengelig for forbrukerne gjennom en passende og klar produktmerking.
 5. For å oppnå dette er det viktig å opprette både et effektivt system for identifikasjon og registrering av storfe på produksjonsstadiet og et særskilt system for fellesskapsmerking i storfekjøttsektoren basert på objektive kriterier på markedsføringsstadiet.
 6. En slik forbedring vil gi garantier for at det også blir mulig å oppfylle visse krav av allmenn interesse, særlig når det gjelder vern av folkehelsen og dyrehelsen.
 7. Dette vil dessuten bidra til å styrke forbrukernes tillit til kvaliteten på storfekjøtt og storfekjøttprodukter, bevare et høyt nivå for beskyttelse av folkehelsen og styrke den varige stabiliteten på markedet for storfekjøtt.
-8. Ved artikkel 3 nr. 1 bokstav c) i rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll og avlskontroll ved handel med visse levende dyr og produkter innenfor Fellesskapet med sikte på gjennomføring av det indre marked,8 er det fastsatt at dyr beregnet på handel innenfor Fellesskapet, skal identifiseres i samsvar med fellesskapsreglene og registreres på en slik måte at de kan spores tilbake til avsender- eller transittdriftsenheten, -senteret eller -organisasjonen, og at disse identifikasjons- og registreringssystemene innen 1. januar 1993 skal utvides til å omfatte forflytning av dyr innenfor hver medlemsstats territorium.
-9. Ved artikkel 14 i rådsdirektiv [91/496/EØF](eu/31991l0496*) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675),9 er det fastsatt at identifikasjonen og registreringen av slike dyr, bortsett fra slaktedyr og registrerte dyr av hestefamilien, i henhold til artikkel 3 nr. 1 bokstav c) i direktiv [90/425/EØF](eu/31990l0425) skal finne sted etter at denne kontrollen er utført.
+8. Ved artikkel 3 nr. 1 bokstav c) i rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll og avlskontroll ved handel med visse levende dyr og produkter innenfor Fellesskapet med sikte på gjennomføring av det indre marked,[^8] er det fastsatt at dyr beregnet på handel innenfor Fellesskapet, skal identifiseres i samsvar med fellesskapsreglene og registreres på en slik måte at de kan spores tilbake til avsender- eller transittdriftsenheten, -senteret eller -organisasjonen, og at disse identifikasjons- og registreringssystemene innen 1. januar 1993 skal utvides til å omfatte forflytning av dyr innenfor hver medlemsstats territorium.
+9. Ved artikkel 14 i rådsdirektiv [91/496/EØF](eu/31991l0496*) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675),[^9] er det fastsatt at identifikasjonen og registreringen av slike dyr, bortsett fra slaktedyr og registrerte dyr av hestefamilien, i henhold til artikkel 3 nr. 1 bokstav c) i direktiv [90/425/EØF](eu/31990l0425) skal finne sted etter at denne kontrollen er utført.
 10. Forvaltningen av visse fellesskapsstøtteordninger i landbrukssektoren krever individuell identifikasjon av visse typer husdyr. Identifikasjons- og registreringssystemene må derfor være egnet for anvendelse og kontroll av disse ordningene.
-11. Det er nødvendig å sikre hurtig og effektiv utveksling av opplysninger mellom medlemsstatene, slik at denne forordning kan anvendes på en korrekt måte. Det er fastsatt fellesskapsbestemmelser om dette ved rådsforordning [(EØF) nr. 1468/81](eu/31981r1468) av 19. mai 1981 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av reglene for toll- eller landbrukssaker,10 og ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene.11
-12. Gjeldende regler for identifisering og registrering av storfe er fastsatt i rådsdirektiv [92/102/EØF](eu/31992l0102) av 27. november 1992 om identifikasjon og registrering av dyr,12 og i forordning [(EF) nr. 820/97](eu/31997r0820). Erfaringen har vist at gjennomføringen av direktiv [92/102/EØF](eu/31992l0102) ikke har vært helt tilfredsstillende med hensyn til storfe, og at ytterligere forbedring er nødvendig. Det er derfor nødvendig å vedta en egen forordning for storfe for å styrke direktivets bestemmelser.
+11. Det er nødvendig å sikre hurtig og effektiv utveksling av opplysninger mellom medlemsstatene, slik at denne forordning kan anvendes på en korrekt måte. Det er fastsatt fellesskapsbestemmelser om dette ved rådsforordning [(EØF) nr. 1468/81](eu/31981r1468) av 19. mai 1981 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av reglene for toll- eller landbrukssaker,[^10] og ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene.[^11]
+12. Gjeldende regler for identifisering og registrering av storfe er fastsatt i rådsdirektiv [92/102/EØF](eu/31992l0102) av 27. november 1992 om identifikasjon og registrering av dyr,[^12] og i forordning [(EF) nr. 820/97](eu/31997r0820). Erfaringen har vist at gjennomføringen av direktiv [92/102/EØF](eu/31992l0102) ikke har vært helt tilfredsstillende med hensyn til storfe, og at ytterligere forbedring er nødvendig. Det er derfor nødvendig å vedta en egen forordning for storfe for å styrke direktivets bestemmelser.
 13. Dersom innføringen av et forbedret identifikasjonssystem skal bli akseptert, er det viktig at produsentene ikke pålegges for store administrative krav. Det må fastsettes rimelige frister for gjennomføringen.
-14. For å kunne tilbakespore dyr hurtig og effektivt av hensyn til kontrollen av Fellesskapets støtteordninger, må hver enkelt medlemsstat opprette en nasjonal edb-basert database som kan registrere dyrenes identitet, alle driftsenhetene på dens territorium og forflytningene av dyrene i samsvar med bestemmelsene i rådsdirektiv [97/12/EF](eu/31997l0012) av 17. mars 1997 om endring og ajourføring av direktiv [64/432/EØF](eu/31964l0432*) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet,13 som klarlegger helsekravene i forbindelse med denne databasen.
+14. For å kunne tilbakespore dyr hurtig og effektivt av hensyn til kontrollen av Fellesskapets støtteordninger, må hver enkelt medlemsstat opprette en nasjonal edb-basert database som kan registrere dyrenes identitet, alle driftsenhetene på dens territorium og forflytningene av dyrene i samsvar med bestemmelsene i rådsdirektiv [97/12/EF](eu/31997l0012) av 17. mars 1997 om endring og ajourføring av direktiv [64/432/EØF](eu/31964l0432*) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet,[^13] som klarlegger helsekravene i forbindelse med denne databasen.
 15. Det er viktig at hver medlemsstat treffer de tiltak som eventuelt fortsatt er nødvendige for å sikre at den nasjonale edb-baserte databasen er i full drift så raskt som mulig.
 16. Det må tas skritt for å sørge for at det foreligger tekniske vilkår som sikrer best mulig kommunikasjon mellom produsenten og databasen og en utstrakt bruk av databasene.
 17. For å gjøre det mulig å tilbakespore forflytningene av storfe, må dyrene identifiseres med et øremerke i hvert øre og i prinsippet ledsages av et pass under alle forflytninger. Utformingen av øremerket og passet må fastsettes på fellesskapsplan. I prinsippet må det utstedes et pass for hvert dyr som har fått tildelt øremerke.
@@ -346,13 +346,13 @@ ut fra følgende betraktninger:
 28. Det obligatoriske systemet for merking av storfekjøtt bør også gjelde for storfekjøtt som importeres til Fellesskapet. Det må imidlertid tas hensyn til det faktum at ikke alle opplysninger som kreves for merking av storfekjøtt produsert i Fellesskapet, er tilgjengelige for næringsdrivende eller organisasjoner i tredjestater. Det bør derfor fastsettes hvilke minimumsopplysninger som tredjestater må sikre er angitt i merkingen.
 29. For næringsdrivende eller organisasjoner som produserer og markedsfører hakket storfekjøtt, og som ikke er i stand til å framskaffe alle opplysninger som kreves i henhold til det obligatoriske systemet for merking av storfekjøtt, må det fastsettes unntak som sikrer et visst minimum av opplysninger.
 30. Formålet med merking er å skape størst mulig åpenhet omkring markedsføringen av storfekjøtt.
-31. Bestemmelsene i denne forordning må ikke påvirke rådsforordning [(EØF) nr. 2081/92](eu/31992r2081) av 14. juli 1992 om beskyttelse av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler.14
+31. Bestemmelsene i denne forordning må ikke påvirke rådsforordning [(EØF) nr. 2081/92](eu/31992r2081) av 14. juli 1992 om beskyttelse av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler.[^14]
 32. For alle andre angivelser enn dem som hører under det obligatoriske systemet for merking av storfekjøtt, bør det også fastsettes en fellesskapsramme for merking av storfekjøtt, og i lys av de forskjellige beskrivelsene av storfekjøtt som markedsføres i Fellesskapet, er opprettelsen av et frivillig system for merking av storfekjøtt den mest hensiktsmessige løsningen. Dersom et slikt frivillig merkingssystem skal fungere effektivt, må det være mulig å spore merket storfekjøtt tilbake til dyret eller dyrene det stammer fra. Merkingen som gjøres av en næringsdrivende eller en organisasjon, skal godkjennes først etter at vedkommende myndighet har mottatt en spesifikasjon. Næringsdrivende og organisasjoner skal bare ha rett til å merke storfekjøtt dersom merket inneholder deres navn eller identifikasjonslogo. Vedkommende myndigheter i medlemsstatene skal ha tillatelse til å trekke tilbake sin godkjenning av hvilken som helst spesifikasjon i tilfelle uregelmessigheter. For å sikre at merkingsspesifikasjonene kan bli anerkjent i hele Fellesskapet, er det nødvendig å sørge for utveksling av opplysninger mellom medlemsstatene.
 33. Næringsdrivende og organisasjoner som importerer storfekjøtt til Fellesskapet fra tredjestater, ønsker kanskje også å merke sine produkter i samsvar med det frivillige merkingssystemet. Det bør derfor fastsettes bestemmelser som i størst mulig omfang gjør det mulig å sikre at tiltakene for merking av importert storfekjøtt er like pålitelige som for storfekjøtt fra Fellesskapet.
 34. Ved overgangen fra bestemmelsene fastsatt i avdeling II i forordning EF nr. 820/97, til bestemmelsene i denne forordning kan det oppstå vanskeligheter som det ikke er tatt hensyn til i denne forordning. For å være forberedt på disse mulighetene bør Kommisjonen derfor kunne vedta nødvendige overgangsbestemmelser. Kommisjonen bør også være bemyndiget til å løse særlige praktiske problemer, når dette er berettiget.
-35. For å sikre at tiltakene fastsatt i denne forordning er pålitelige, er det nødvendig å pålegge medlemsstatene å utføre egnede og effektive kontrolltiltak. Disse kontrollene skal ikke berøre annen kontroll som Kommisjonen kan foreta analogt med artikkel 9 i rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om beskyttelse av Det europeiske fellesskaps økonomiske interesser.15
+35. For å sikre at tiltakene fastsatt i denne forordning er pålitelige, er det nødvendig å pålegge medlemsstatene å utføre egnede og effektive kontrolltiltak. Disse kontrollene skal ikke berøre annen kontroll som Kommisjonen kan foreta analogt med artikkel 9 i rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om beskyttelse av Det europeiske fellesskaps økonomiske interesser.[^15]
 36. Det må fastsettes egnede sanksjoner i tilfelle overtredelse av bestemmelsene i denne forordning.
-37. De nødvendige tiltak for gjennomføringen av denne forordning bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen16 –
+37. De nødvendige tiltak for gjennomføringen av denne forordning bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen[^16] –
 
 1 Ordlyden i fortalen til de rettsaktene som EØS-avtalens vedlegg omhandler, er ikke tilpasset til EØS, jf. EØS-avtalens protokoll 1 nr. 1. Fortalen er bare relevant i den grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
 
@@ -621,9 +621,9 @@ Utøvelse av delegert myndighet
 
 Komitéprosedyre
 
-1\. Kommisjonen skal, for de gjennomføringsrettsaktene som vedtas i henhold til artikkel 13 nr. 6 i denne forordningen, bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)\*.
+1\. Kommisjonen skal, for de gjennomføringsrettsaktene som vedtas i henhold til artikkel 13 nr. 6 i denne forordningen, bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^\*].
 
-Nevnte komité skal være en komité i henhold til europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)\*\*.
+Nevnte komité skal være en komité i henhold til europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)[^\*\*].
 
 2\. Når det vises til dette nummeret, får artikkel 5 i forordning (EU) nr. 182/2011 anvendelse.
 
@@ -666,7 +666,7 @@ Den får anvendelse på storfekjøtt som stammer fra dyr som er slaktet fra og m
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
-Utferdiget i Brussel, 17. juli 2000.]1
+Utferdiget i Brussel, 17. juli 2000.][^1]
 
 |  |  |
 | --- | --- |

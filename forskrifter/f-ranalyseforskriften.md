@@ -16,7 +16,7 @@ xml_hash: "983c10f314af5382467717ace011d7875b3655998bae2eb699abc382dd9bf6fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,47 +71,47 @@ KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, og
 
-under henvisning til europarlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes1, særlig artikkel 11 nr. 4 bokstav a), b) og c), og
+under henvisning til europarlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes[^1], særlig artikkel 11 nr. 4 bokstav a), b) og c), og
 
 ut fra følgende betraktninger:
 
 1. Følgende rettsakter er vedtatt for gjennomføring av direktiv [70/373/EØS](eu/31970l0373) og er fortsatt i kraft i samsvar med artikkel 61 nr. 2 av forordning [(EF) nr. 882/2004](eu/32004r0882*):
 
-   Første kommisjonsdirektiv [71/250/EØF](eu/31971l0250*) av 15. juni 1971 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer2,
+   Første kommisjonsdirektiv [71/250/EØF](eu/31971l0250*) av 15. juni 1971 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^2],
 
-   Annet kommisjonsdirektiv [71/393/EØF](eu/31971l0393) av 18. november 1971 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer3,
+   Annet kommisjonsdirektiv [71/393/EØF](eu/31971l0393) av 18. november 1971 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^3],
 
-   Tredje kommisjonsdirektiv [72/199/EØF](eu/31972l0199*) av 27. april 1972 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer4,
+   Tredje kommisjonsdirektiv [72/199/EØF](eu/31972l0199*) av 27. april 1972 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^4],
 
-   Fjerde kommisjonsdirektiv [73/46/EØF](eu/31973l0046) av 5. desember 1972 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer5,
+   Fjerde kommisjonsdirektiv [73/46/EØF](eu/31973l0046) av 5. desember 1972 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^5],
 
-   Første kommisjonsdirektiv [76/371/EØF](eu/31976l0371) av 1. mars 1976 om fastsettelse av prøvetakingsmetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer6,
+   Første kommisjonsdirektiv [76/371/EØF](eu/31976l0371) av 1. mars 1976 om fastsettelse av prøvetakingsmetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^6],
 
-   Sjuende kommisjonsdirektiv [76/372/EØF](eu/31976l0372) av 1. mars 1976 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer7,
+   Sjuende kommisjonsdirektiv [76/372/EØF](eu/31976l0372) av 1. mars 1976 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^7],
 
-   Åttende kommisjonsdirektiv [78/633/EØF](eu/31978l0633) av 15. juni 1978 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer8,
+   Åttende kommisjonsdirektiv [78/633/EØF](eu/31978l0633) av 15. juni 1978 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^8],
 
-   Niende kommisjonsdirektiv [81/715/EØF](eu/31981l0715) av 31. juli 1981 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer9,
+   Niende kommisjonsdirektiv [81/715/EØF](eu/31981l0715) av 31. juli 1981 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^9],
 
-   Tiende kommisjonsdirektiv [84/425/EØF](eu/31984l0425) av 25. juli 1984 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer10,
+   Tiende kommisjonsdirektiv [84/425/EØF](eu/31984l0425) av 25. juli 1984 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^10],
 
-   Kommisjonsdirektiv [86/174/EØF](eu/31986l0174) av 9. april 1986 om fastsettelse av en metode til å beregne energiverdien i fôrblandinger for fjørfe11,
+   Kommisjonsdirektiv [86/174/EØF](eu/31986l0174) av 9. april 1986 om fastsettelse av en metode til å beregne energiverdien i fôrblandinger for fjørfe[^11],
 
-   Ellevte kommisjonsdirektiv [93/70/EØF](eu/31993l0070) av 28. juli 1993 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer12,
+   Ellevte kommisjonsdirektiv [93/70/EØF](eu/31993l0070) av 28. juli 1993 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^12],
 
-   Tolvte kommisjonsdirektiv [93/117/EØF](eu/31993l0117) av 17. desember 1993 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer13,
+   Tolvte kommisjonsdirektiv [93/117/EØF](eu/31993l0117) av 17. desember 1993 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer[^13],
 
-   Kommisjonsdirektiv [98/64/EF](eu/31998l0064*) av 3. september 1998 om fastsettelse av analysemetoder i Fellesskapet for bestemmelse av aminosyrer, råoljer og -fett og olakindoks i fôrvarer og om endring av direktiv [71/393/EØF](eu/31971l0393)14,
+   Kommisjonsdirektiv [98/64/EF](eu/31998l0064*) av 3. september 1998 om fastsettelse av analysemetoder i Fellesskapet for bestemmelse av aminosyrer, råoljer og -fett og olakindoks i fôrvarer og om endring av direktiv [71/393/EØF](eu/31971l0393)[^14],
 
-   Kommisjonsdirektiv [1999/27/EF](eu/31999l0027) av 20. april 1999 om fastsettelse av analysemetoder i Fellesskapet for bestemmelse av amprolium, diclazuril og karbadoks i fôrvarer og om endring av direktiv [71/250/EØF](eu/31971l0250*), [73/46/EØF](eu/31973l0046) og oppheving av direktiv [74/203/EØF](eu/31974l0203*)15,
+   Kommisjonsdirektiv [1999/27/EF](eu/31999l0027) av 20. april 1999 om fastsettelse av analysemetoder i Fellesskapet for bestemmelse av amprolium, diclazuril og karbadoks i fôrvarer og om endring av direktiv [71/250/EØF](eu/31971l0250*), [73/46/EØF](eu/31973l0046) og oppheving av direktiv [74/203/EØF](eu/31974l0203*)[^15],
 
-   Kommisjonsdirektiv [1999/76/EF](eu/31999l0076) av 23. juli 1999 om fastsettelse av en analysemetode i Fellesskapet for bestemmelse av lasalocid-natrium i fôrvarer16,
+   Kommisjonsdirektiv [1999/76/EF](eu/31999l0076) av 23. juli 1999 om fastsettelse av en analysemetode i Fellesskapet for bestemmelse av lasalocid-natrium i fôrvarer[^16],
 
-   Kommisjonsdirektiv [2000/45/EF](eu/32000l0045) av 6. juli 2000 om fastsettelse av fellesskapsmetoder for bestemmelse av vitamin A, vitamin E og tryptofan i fôrvarer17,
+   Kommisjonsdirektiv [2000/45/EF](eu/32000l0045) av 6. juli 2000 om fastsettelse av fellesskapsmetoder for bestemmelse av vitamin A, vitamin E og tryptofan i fôrvarer[^17],
 
-   Kommisjonsdirektiv [2002/70/EF](eu/32002l0070) av 26. juli 2002 om fastsettelse av krav til bestemmelse av innholdet av dioksiner og dioksinlignende PCB i fôrvarer18,
+   Kommisjonsdirektiv [2002/70/EF](eu/32002l0070) av 26. juli 2002 om fastsettelse av krav til bestemmelse av innholdet av dioksiner og dioksinlignende PCB i fôrvarer[^18],
 
-   Kommisjonsdirektiv [2003/126/EF](eu/32003l0126) av 23. desember 2003 om analysemetoden for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med offentlig kontroll av fôrvarer19.
+   Kommisjonsdirektiv [2003/126/EF](eu/32003l0126) av 23. desember 2003 om analysemetoden for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med offentlig kontroll av fôrvarer[^19].
 2. Ettersom direktiv [70/373/EØF](eu/31970l0373) er erstattet av forordning [(EF) nr. 882/2004](eu/32004r0882*), bør gjennomføringsrettsaktene for det direktivet erstattes med en enkelt forordning. Samtidig bør metodene tilpasses i tråd med den vitenskapelige og teknologiske utviklingen. Metoder som ikke lenger er gyldige for det tiltenkte formål, bør slettes. Bestemmelsene for prøvetaking vil med tiden bli ajourført for å ta høyde for de siste utviklingene innen framstilling, lagring, transport og markedsføring av fôr, men inntil videre er det likevel hensiktsmessig å opprettholde de eksisterende bestemmelsene for prøvetaking.
 3. Direktiv [71/250/EØF](eu/31971l0250*), [71/393/EØF](eu/31971l0393), [72/199/EØF](eu/31972l0199*), [73/46/EØF](eu/31973l0046), [76/371/EØF](eu/31976l0371), [76/372/EØF](eu/31976l0372), [78/633/EØF](eu/31978l0633), [81/715/EØF](eu/31981l0715), [84/425/EØF](eu/31984l0425), [86/174/EØF](eu/31986l0174), [93/70/EØF](eu/31993*0070), [93/117/EF](eu/31993l0117), [98/64/EF](eu/31998l0064*), [1999/27/EF](eu/31999l0027), [1999/76/EF](eu/31999l0076), [2000/45/EF](eu/32000*0045), [2002/70/EF](eu/32002l0070) og [2003/126/EF](eu/32003l0126) bør derfor oppheves.
 4. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
@@ -160,7 +160,7 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Gjennomføring av forordning (EF) nr. 152/2009
 
-Prøvetaking i forbindelse med offentlig kontroll av fôr, særlig med henblikk på bestemmelse av bestanddeler, herunder materiale som inneholder eller består av eller er framstilt av genmodifiserte organismer (GMO), tilsetningsstoffer i fôrvarer som definert i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)\*, uønskede stoffer som definert i europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032)\*\*, skal utføres i samsvar med metodene som er fastsatt i vedlegg I, med unntak av prøvetaking i forbindelse med kontroll av mikrobiologisk forurensning.
+Prøvetaking i forbindelse med offentlig kontroll av fôr, særlig med henblikk på bestemmelse av bestanddeler, herunder materiale som inneholder eller består av eller er framstilt av genmodifiserte organismer (GMO), tilsetningsstoffer i fôrvarer som definert i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)[^\*], uønskede stoffer som definert i europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032)[^\*\*], skal utføres i samsvar med metodene som er fastsatt i vedlegg I, med unntak av prøvetaking i forbindelse med kontroll av mikrobiologisk forurensning.
 
 \* Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).
 
@@ -223,7 +223,7 @@ Dersom det ved en visuell kontroll eller på grunnlag av andre relevante opplysn
 
 Dersom det fastslås at fôr som det tas prøver av i samsvar med bestemmelsene i denne forordningen, ikke oppfyller EUs krav, og er en del av et parti fôr av samme klasse eller betegnelse, skal det antas at alt fôr i dette partiet er berørt, med mindre det som følge av en nærmere vurdering ikke kan dokumenteres at den resterende delen av partiet ikke oppfyller EUs krav.
 
-Prøvetakingen kan også omfatte fôr som tilbys for salg av driftsansvarlige for fôrforetak ved hjelp av fjernkommunikasjonsmiddel i samsvar med artikkel 11 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)1. Prøvetaking av fôrvarer som tilbys for salg ved hjelp av fjernkommunikasjonsmidler, skal i prinsippet være omfattet av punktene fastsatt i dette vedlegget. Spesifikke aspekter ved prøvetaking av fjernsalgsprøver er beskrevet i punkt 11.
+Prøvetakingen kan også omfatte fôr som tilbys for salg av driftsansvarlige for fôrforetak ved hjelp av fjernkommunikasjonsmiddel i samsvar med artikkel 11 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)[^1]. Prøvetaking av fôrvarer som tilbys for salg ved hjelp av fjernkommunikasjonsmidler, skal i prinsippet være omfattet av punktene fastsatt i dette vedlegget. Spesifikke aspekter ved prøvetaking av fjernsalgsprøver er beskrevet i punkt 11.
 
 1 Europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993l0074), [93/113/EF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsvedtak [2004/217/EF](eu/32004d0217) (EUT L 229 av 1.9.2009, s. 1).
 
@@ -310,7 +310,7 @@ Uemballert fôr i fast form
 | *Prøvemengdens størrelse* | *Minste antall enkeltprøver* |
 | --- | --- |
 | ≤ 2,5 tonn | 7 |
-| > 2,5 tonn | √ (20 ganger det antallet tonn prøvemengden består av)\*, opptil 40 enkeltprøver |
+| > 2,5 tonn | √ (20 ganger det antallet tonn prøvemengden består av)[^\*], opptil 40 enkeltprøver |
 
 \* Når det oppnådde tallet er en desimalbrøk, skal den avrundes oppover til nærmeste hele tall.
 
@@ -320,8 +320,8 @@ Uemballert fôr i flytende form
 
 | *Prøvemengdens størrelse* | *Minste antall enkeltprøver* |
 | --- | --- |
-| ≤ 2,5 tonn eller ≤ 2 500 liter | 4 \* |
-| > 2,5 tonn eller > 2 500 liter | 7 \* |
+| ≤ 2,5 tonn eller ≤ 2 500 liter | 4 [^\*] |
+| > 2,5 tonn eller > 2 500 liter | 7 [^\*] |
 
 \* Dersom det ikke er mulig å homogenisere væsken, skal antall enkeltprøver økes.
 
@@ -331,12 +331,12 @@ Emballert fôr
 
 Fôr (i fast og flytende form) kan emballeres i sekker, poser, bokser, tønner osv., som i den følgende tabellen er omhandlet som enheter. Fra store enheter (≥ 500 kg eller liter) tas prøver i samsvar med bestemmelsene om uemballert fôr (se punkt 5.1.1 og 5.1.2).
 
-| *Prøvemengdens størrelse* | *Minste antall enheter som det skal tas (minst) én enkeltprøve fra\** |
+| *Prøvemengdens størrelse* | *Minste antall enheter som det skal tas (minst) én enkeltprøve fra[^\*]* |
 | --- | --- |
-| 1–20 enheter | 1 enhet \*\* |
-| 21–150 enheter | 3 enheter \*\* |
-| 151–400 enheter | 5 enheter \*\* |
-| > 400 enheter | ¼ av √ (antallet enheter som utgjør prøvemengden)\*\*\* , opptil 40 enheter |
+| 1–20 enheter | 1 enhet [^\*\*] |
+| 21–150 enheter | 3 enheter [^\*\*] |
+| 151–400 enheter | 5 enheter [^\*\*] |
+| > 400 enheter | ¼ av √ (antallet enheter som utgjør prøvemengden)[^\*\*\*] , opptil 40 enheter |
 
 \* Dersom åpningen av en enhet kan påvirke analysen (f.eks. lett bedervelig vått fôr), skal den uåpnede enheten utgjøre en enkeltprøve.
 
@@ -356,10 +356,10 @@ For briketter eller saltslikkesteiner som ikke veier mer enn 1 kg hver, skal én
 
 Grovfôr/fôrvekster
 
-| *Prøvemengdens størrelse* | *Minste antall enkeltprøver\** |
+| *Prøvemengdens størrelse* | *Minste antall enkeltprøver[^\*]* |
 | --- | --- |
 | ≤ 5 tonn | 5 |
-| > 5 tonn | √ (5 ganger det antallet tonn prøvemengden består av)\*\*, opptil 40 enkeltprøver |
+| > 5 tonn | √ (5 ganger det antallet tonn prøvemengden består av)[^\*\*], opptil 40 enkeltprøver |
 
 \* Det erkjennes at det i enkelte situasjoner (f.eks. ved ensilasje) ikke er mulig å ta de påkrevde enkeltprøvene uten å skade partiet på en uakseptabel måte. En alternativ prøvetakingsmetode kan anvendes i slike situasjoner, og det er utarbeidet en veiledning for prøvetaking av slike partier, som er tilgjengelig på https://food.ec.europa.eu/system/files/2016-10/animal-feed-guidance_documents_691_2013_en.pdf
 
@@ -391,15 +391,15 @@ Når det gjelder store prøvemengder (prøvemengder > 500 tonn), er antall enkel
 
 Det kreves én enkelt samleprøve per prøvemengde.
 
-|  | *Fôrtype* | *Samleprøvens minstestørrelse\* \*\** |
+|  | *Fôrtype* | *Samleprøvens minstestørrelse[^\*] [^\*\*]* |
 | --- | --- | --- |
 | 6.1. | Uemballert fôr | 4 kg |
-| 6.2. | Emballert fôr: | 4 kg\*\*\* |
+| 6.2. | Emballert fôr: | 4 kg[^\*\*\*] |
 | 6.3. | Flytende eller halvflytende fôr: | 4 liter |
 | 6.4. | Fôrbriketter eller saltslikkesteiner: |  |
 | 6.4.1. | Med en vekt på over 1 kg per stk. | 4 kg |
 | 6.4.2. | Med en vekt på inntil 1 kg per stk. | Vekten av fire opprinnelige briketter eller saltslikkesteiner |
-| 6.5. | Grovfôr/fôrvekster | 4 kg\*\*\*\* |
+| 6.5. | Grovfôr/fôrvekster | 4 kg[^\*\*\*\*] |
 
 \* Dersom fôret det tas prøver av er av høy verdi, kan det tas en mindre mengde samleprøve, forutsatt at dette beskrives og dokumenteres i prøvetakingsrapporten.
 
@@ -417,8 +417,8 @@ Det kreves analyse av minst én sluttprøve. Mengden av sluttprøven som skal an
 
 |  |  |
 | --- | --- |
-| Fôr i fast form | 500 g\* \*\* \*\*\* \*\*\*\* |
-| Flytende eller halvtflytende fôr | 500 ml\* |
+| Fôr i fast form | 500 g[^\*] [^\*\*] [^\*\*\*] [^\*\*\*\*] |
+| Flytende eller halvtflytende fôr | 500 ml[^\*] |
 
 \* I henhold til bestemmelsene i forordning [(EU) nr. 619/2011](eu/32011r0619) skal sluttprøver til kontroll av forekomst av genmodifisert materiale inneholde minst 10 000 frø/korn. Dette innebærer at størrelsen på sluttprøven skal være minst 3 000 g for mais og 2 000 g for soyabønner. For andre frø og korn, f.eks. bygg, hirse, havre, ris, rug, hvete og rapsfrø, tilsvarer størrelsen på sluttprøven på 500 g over 10 000 frø/korn.
 
@@ -576,7 +576,7 @@ Enkeltprøvene skal blandes slik at de utgjør én enkelt samleprøve.
 
 Tillaging av sluttprøver
 
-Materialet i samleprøven skal blandes omhyggelig2
+Materialet i samleprøven skal blandes omhyggelig[^2]
 
 Hver prøve skal plasseres i en egnet beholder. Alle nødvendige tiltak må treffes for å unngå at prøvens sammensetning endres eller at den kontamineres eller forfalskes under transport eller lagring.
 
@@ -584,7 +584,7 @@ Hver prøve skal plasseres i en egnet beholder. Alle nødvendige tiltak må tref
 
 Jevnt fordelte stoffer
 
-Ved kontroll av bestanddeler eller stoffer som er jevnt fordelt i fôret, kan samleprøven reduseres på en representativ måte til minst 2,0 kg eller 2,0 liter (redusert prøve)3 fortrinnsvis ved anvendelse av et mekanisk eller automatisk deleapparat. Ved kontroll av forekomst av rester av pesticider i belgfrukter, korn og trenøtter skal minstestørrelsen på den reduserte prøven være 3 kg. Dersom fôrtypen gjør det umulig å anvende et deleapparat, eller dersom et deleapparat ikke er tilgjengelig, kan prøven reduseres med firedelingsmetoden.
+Ved kontroll av bestanddeler eller stoffer som er jevnt fordelt i fôret, kan samleprøven reduseres på en representativ måte til minst 2,0 kg eller 2,0 liter (redusert prøve)[^3] fortrinnsvis ved anvendelse av et mekanisk eller automatisk deleapparat. Ved kontroll av forekomst av rester av pesticider i belgfrukter, korn og trenøtter skal minstestørrelsen på den reduserte prøven være 3 kg. Dersom fôrtypen gjør det umulig å anvende et deleapparat, eller dersom et deleapparat ikke er tilgjengelig, kan prøven reduseres med firedelingsmetoden.
 
 Fra samleprøven eller de reduserte prøvene tillages sluttprøvene (til kontroll-, klageadgangs- og eventuelt referanseformål) av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7.
 
@@ -595,7 +595,7 @@ Ujevnt fordelte stoffer
 Ved kontroll av bestanddeler, herunder genmodifisert materiale eller stoffer som kan være ujevnt fordelt i fôr, skal samleprøven være
 
 1. fullstendig homogenisert. Fra de homogeniserte samleprøvene tillages deretter sluttprøvene (til kontroll-, klageadgangs- og eventuelt referanseformål) av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7, eller
-2. redusert til minst 2 kg eller 2 liter4 ved anvendelse av et mekanisk eller automatisk deleapparat. Bare i tilfeller der fôrtypen gjør det umulig å anvende et deleapparat, kan prøven om nødvendig reduseres med firedelingsmetoden. Med sikte på kontroll av forekomst av genmodifisert materiale i henhold til forordning [(EU) nr. 619/2011](eu/32011r0619) må den reduserte prøven inneholde minst 35 000 frø/korn for å oppnå sluttprøvene som kreves til håndhevings-, klageadgangs- og referanseformål på minst 10 000 frø/korn (se fotnote \*\* i punkt 6 og fotnote \* i punkt 7).
+2. redusert til minst 2 kg eller 2 liter[^4] ved anvendelse av et mekanisk eller automatisk deleapparat. Bare i tilfeller der fôrtypen gjør det umulig å anvende et deleapparat, kan prøven om nødvendig reduseres med firedelingsmetoden. Med sikte på kontroll av forekomst av genmodifisert materiale i henhold til forordning [(EU) nr. 619/2011](eu/32011r0619) må den reduserte prøven inneholde minst 35 000 frø/korn for å oppnå sluttprøvene som kreves til håndhevings-, klageadgangs- og referanseformål på minst 10 000 frø/korn (se fotnote \*\* i punkt 6 og fotnote \* i punkt 7).
 
 Fra den reduserte prøven tillages sluttprøvene av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7.
 
@@ -634,7 +634,7 @@ Fra samleprøven tas deretter de tilsvarende sluttprøvene (til kontroll-, klage
 
 Dersom prøven sendes direkte til det offisielle laboratoriet, skal sluttprøven klargjøres og forsegles i laboratoriet av personer som er godkjent for formålet, eller i nærvær av personer som er godkjent for formålet. Prøvetakingsprotokollen for fjernsalgsprøven skal sendes umiddelbart etter at sluttprøvene er utarbeidet til den kompetente myndigheten, som underretter den driftsansvarlige for fôrforetaket om prøvetakingen.
 
-Den mengden som driftsansvarlig for fôrforetak leverer til vedkommende myndighet, anses for å utgjøre en del av et parti fôr av samme klasse eller betegnelse. Dersom det fastslås at denne delen av partiet ikke oppfyller EUs krav, skal det, i samsvar med artikkel 15 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)5, også når det gjelder fjernsalgsprøver, antas at alt fôr i dette partiet er berørt, med mindre det etter en nærmere vurdering (eventuelt ved en kontroll på stedet) kan konstateres at det ikke finnes belegg for at den resterende delen av partiet ikke oppfyller EUs krav.
+Den mengden som driftsansvarlig for fôrforetak leverer til vedkommende myndighet, anses for å utgjøre en del av et parti fôr av samme klasse eller betegnelse. Dersom det fastslås at denne delen av partiet ikke oppfyller EUs krav, skal det, i samsvar med artikkel 15 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^5], også når det gjelder fjernsalgsprøver, antas at alt fôr i dette partiet er berørt, med mindre det etter en nærmere vurdering (eventuelt ved en kontroll på stedet) kan konstateres at det ikke finnes belegg for at den resterende delen av partiet ikke oppfyller EUs krav.
 
 5 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
 
@@ -740,7 +740,7 @@ Når det gjelder kontroll av nedre eller øvre grenseverdi for fôrtilsetningsst
 
 Når det gjelder kontroll av det angitte innholdet av et stoff eller en bestanddel, der resultatet av den første bestemmelsen bekrefter det angitte innholdet, dvs. at analyseresultatet er innenfor det akseptable variasjonsområdet for det angitte innholdet, er det ikke nødvendig med ytterligere bestemmelse, forutsatt at hensiktsmessige kvalitetsprosedyrer er anvendt. I andre tilfeller er to analyser (en annen bestemmelse) nødvendig for å utelukke muligheten for intern krysskontaminering eller utilsiktet forveksling av prøver. Gjennomsnittet av de to bestemmelsene brukes for videre vurdering (det gjennomsnittlige analyseresultatet faller eller faller ikke innenfor det akseptable variasjonsområdet for det angitte innholdet).
 
-I noen tilfeller er dette akseptable variasjonsområdet fastsatt i lovgivningen, som i forordning [(EF) nr. 767/2009](eu/32009r0767) og europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004)6.
+I noen tilfeller er dette akseptable variasjonsområdet fastsatt i lovgivningen, som i forordning [(EF) nr. 767/2009](eu/32009r0767) og europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004)[^6].
 
 6 Europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004) av 11. desember 2018 om tilvirkning, omsetning og bruk av medisinfôr, endring av europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) og oppheving av rådsdirektiv [90/167/EØF](eu/31990l0167) (EUT L 4 av 7.1.2019, s. 1).
 
@@ -779,7 +779,7 @@ Dersom analyseresultatet av klageadgangsprøven overskrider øvre grenseverdi (u
 Analyseresultatet skal rapporteres på følgende måte (i den grad den anvendte analysemetoden gjør det mulig å anslå utvidet analytisk måleusikkerhet):
 
 1. Korrigert for gjenfinning, dersom det er hensiktsmessig og relevant, og dersom det er korrigert, skal dette være angitt. Gjenfinningsgraden skal oppgis med mindre egenkorreksjon for skjevhet er en del av framgangsmåten, der skjevhet er forskjellen mellom den målte verdien og referansekonsentrasjonen. Korreksjon for gjenfinning er ikke nødvendig når gjenfinningsgraden er på mellom 90 og 110 %.
-2. Som «x ± U», der x er analyseresultatet og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 27(2) som gir en konfidensgrad på ca. 95 %.
+2. Som «x ± U», der x er analyseresultatet og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2[^7](2) som gir en konfidensgrad på ca. 95 %.
 
 Dersom analyseresultatet er vesentlig lavere (> 50 %) enn den spesifikasjonen som skal kontrolleres, og forutsatt at hensiktsmessige kvalitetsprosedyrer er anvendt og analysen bare har som formål å kontrollere samsvar med lovbestemmelser, kan imidlertid rapportering av gjenfinningsprosent og utvidet analytisk måleusikkerhet utelates (f.eks. i tilfeller der det ikke er noen spesifikasjoner eller noe lovbestemt nivå), med mindre måleusikkerhetet er nødvendig for fortolkning.
 
@@ -797,7 +797,7 @@ Dersom analyseresultatet av klageadgangsprøven overskrider øvre grenseverdi (u
 Analyseresultatet skal rapporteres på følgende måte (i den grad den anvendte analysemetoden gjør det mulig å anslå utvidet analytisk måleusikkerhet):
 
 1. Korrigert for gjenfinning, dersom det er hensiktsmessig og relevant, og dersom det er korrigert, skal dette være angitt. Gjenfinningsgraden skal oppgis med mindre egenkorreksjon for skjevhet er en del av framgangsmåten, der skjevhet er forskjellen mellom den målte verdien og referansekonsentrasjonen. Korreksjon for gjenfinning er ikke nødvendig når gjenfinningsgraden er på mellom 90 og 110 %.
-2. Som «x ± U», der x er analyseresultatet (gjennomsnitt av to bestemmelser) og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 28 som gir en konfidensgrad på ca. 95 %.
+2. Som «x ± U», der x er analyseresultatet (gjennomsnitt av to bestemmelser) og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2[^8] som gir en konfidensgrad på ca. 95 %.
 
 8 Konfidensintervallet på 95 % kan oppnås ved at en annen faktor, som t-faktor, benyttes.
 
@@ -834,11 +834,11 @@ Analysevekt med en nøyaktighet på 1 mg.
 
 3.3.
 
-Tørre beholdere av korrosjonsbestandig metall eller glass med lufttette lokk. Nytteflaten skal kunne tillate en spredning av prøven på ca. 0,3 g/cm 9.
+Tørre beholdere av korrosjonsbestandig metall eller glass med lufttette lokk. Nytteflaten skal kunne tillate en spredning av prøven på ca. 0,3 g/cm [^9].
 
 3.4.
 
-Elektrisk oppvarmet isotermisk tørkeskap (±2 °C), godt ventilert og utstyrt med hurtigvirkende temperaturregulering 10.
+Elektrisk oppvarmet isotermisk tørkeskap (±2 °C), godt ventilert og utstyrt med hurtigvirkende temperaturregulering [^10].
 
 3.5.
 
@@ -933,7 +933,7 @@ der
 
 5.2.
 
-Tørking med forhåndstørking11
+Tørking med forhåndstørking[^11]
 
 $$X_{p} = \\left\\lbrack \\frac{\\left( m_{2}\\ –\\ m_{0} \\right)\\ \\cdot \\ m_{1}}{m_{2}} + m\\ –\\ m_{1} \\right\\rbrack\\ \\cdot \\frac{100}{m} = 100\\ \\cdot \\ \\left( 1\\ –\\frac{m_{1}\\ \\cdot \\ m_{0}}{m\\ \\cdot \\ m_{2}} \\right)$$
 
@@ -1016,7 +1016,7 @@ Forskjellen i vanninnhold mellom resultatene av to parallelle bestemmelser som u
 
 ###### 1. Formål og virkeområde
 
-Denne metoden gjør det mulig å bestemme innholdet av råprotein i fôrvarer på grunnlag av innholdet av nitrogen i samsvar med Kjeldahl-metoden.12
+Denne metoden gjør det mulig å bestemme innholdet av råprotein i fôrvarer på grunnlag av innholdet av nitrogen i samsvar med Kjeldahl-metoden.[^12]
 
 12 Nitrogeninnholdet kan bestemmes i alle fôr, men omregningsfaktoren på 6,25 for beregning av råproteininnholdet gjelder kanskje ikke for fôrmidler som består av insekter (lavere omregningsfaktor) og visse proteiner fra kjæledyrfôr og blodplasma (høyere omregningsfaktor).
 
@@ -1453,14 +1453,14 @@ Resultatene ovenfor fra undersøkelse foretatt ved flere laboratorier indikerer 
 Analysemetodene som skal brukes til bestemmelse av aminosyrer (med unntak av tryptofan), er
 
 - EN ISO 13903 Fôrvarer – Bestemmelse av aminosyreinnhold,
-- EN ISO 17180 Fôrvarer – Bestemmelse av lysin, metionin og treonin i kommersielle aminosyreprodukter og premikser13,
+- EN ISO 17180 Fôrvarer – Bestemmelse av lysin, metionin og treonin i kommersielle aminosyreprodukter og premikser[^13],
 - analysemetoden som beskrevet i punkt 1 til 10 nedenfor.
 
 13 Analysemetoden som er fastsatt i EN 17180, er referert til som en alternativ metode som skal brukes til offentlig kontroll for bestemmelse av aminosyrer i fôr som inneholder mer enn 10 % aminosyrer
 
 ###### 1. Formål og virkeområde
 
-Denne metoden gjør det mulig å bestemme frie (syntetiske og naturlige) og totale (peptidbundne og frie) aminosyrer i fôrmidler, fôrblandinger og premikser som inneholder mindre enn 10 %14 av hver aminosyre, ved bruk av en aminosyreanalysator. Metoden kan brukes til følgende aminosyrer: cyst(e)in, metionin, lysin, treonin, alanin, arginin, asparaginsyre, glutaminsyre, glysin, histidin, isoleucin, leucin, fenylalanin, prolin, serin, tyrosin og valin.
+Denne metoden gjør det mulig å bestemme frie (syntetiske og naturlige) og totale (peptidbundne og frie) aminosyrer i fôrmidler, fôrblandinger og premikser som inneholder mindre enn 10 %[^14] av hver aminosyre, ved bruk av en aminosyreanalysator. Metoden kan brukes til følgende aminosyrer: cyst(e)in, metionin, lysin, treonin, alanin, arginin, asparaginsyre, glutaminsyre, glysin, histidin, isoleucin, leucin, fenylalanin, prolin, serin, tyrosin og valin.
 
 Metoden skiller ikke mellom aminosyrenes ulike salter og kan ikke differensiere mellom D- og L-former av aminosyrer. Den skal ikke brukes til bestemmelse av tryptofan- eller hydroksy-analoger av aminosyrer.
 
@@ -2380,7 +2380,7 @@ Tørkeovn, enten et vakuumtørkeskap innstilt på 75 ± 3 °C eller et tørkeska
 
 Vei opp 5 g av prøven med en nøyaktighet på 1 mg, overfør til en ekstraksjonshylse (punkt 4.2) og dekk til med en fettfri bomullspropp.
 
-Plasser hylsen i et ekstraksjonsapparat (punkt 4.1) og ekstraher i seks timer med petroleumseter (punkt 3.1). Petroleumseterekstraktet oppsamles i en tørr, tarert kolbe som inneholder fragmenter av pimpstein15.
+Plasser hylsen i et ekstraksjonsapparat (punkt 4.1) og ekstraher i seks timer med petroleumseter (punkt 3.1). Petroleumseterekstraktet oppsamles i en tørr, tarert kolbe som inneholder fragmenter av pimpstein[^15].
 
 Destiller fra løsemiddelet. Restmengden tørkes deretter i halvannen time i tørkeovnen (punkt 4.3). La avkjøle i eksikkator og vei. La tørke en gang til i 30 minutter for å sikre at vekten av fettet forblir konstant (vekttapet fra den ene veiingen til den annen må være mindre enn eller lik 1 mg).
 
@@ -3074,7 +3074,7 @@ Når fôrmidlene nedenfor forekommer i betydelige mengder i fôrvarer, er de kje
 - fettgrever,
 - soyabønneprodukter.
 
-I disse tilfellene kan analysemetoden fastsatt i kommisjonsforordning [(EF) nr. 121/2008](eu/32008r0121)16 anvendes. Denne metoden kan også brukes for fôr som inneholder mindre enn 1 % stivelse.
+I disse tilfellene kan analysemetoden fastsatt i kommisjonsforordning [(EF) nr. 121/2008](eu/32008r0121)[^16] anvendes. Denne metoden kan også brukes for fôr som inneholder mindre enn 1 % stivelse.
 
 16 Kommisjonsforordning [(EF) nr. 121/2008](eu/32008r0121) av 11. februar 2008 om fastsettelse av analysemetode for bestemmelse av stivelsesinnhold i tilberedninger av en type som brukes i dyrefôr (KN-kode 2309) (EUT L 37 av 12.2.2008, s. 3).
 
@@ -3550,7 +3550,7 @@ Analysemetoder for kontroll av nivået av godkjente tilsetningsstoffer i fôrvar
 
 Vitamin A skal bestemmes ved:
 
-- analysemetoden fastsatt i EN 17547 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av innhold av vitamin A, E og D17 – Metode ved bruk av fastfaseekstraksjon (SPE)-rensing og høyoppløselig væskekromatografi (HPLC), eller
+- analysemetoden fastsatt i EN 17547 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av innhold av vitamin A, E og D[^17] – Metode ved bruk av fastfaseekstraksjon (SPE)-rensing og høyoppløselig væskekromatografi (HPLC), eller
 - ved reversertfase høyoppløselig væskekromatografi (RP-HPLC) med UV- eller fluorescensdetektor, som beskrevet nedenfor i punkt 1 til 9.
 
 ###### 1. Formål og virkeområde
@@ -3882,7 +3882,7 @@ For å kontrollere om den anvendte analysemetoden gir pålitelige resultater for
 
 Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 15 % av det høyeste resultatet.
 
-###### 9. Resultater av en undersøkelse foretatt ved flere laboratorier18
+###### 9. Resultater av en undersøkelse foretatt ved flere laboratorier[^18]
 
 |  | *Premiks* | *Fôrvarer iblandet premiks* | *Mineralkonsentrat* | *Proteinfôr* | *Smågrisfôr* |
 | --- | --- | --- | --- | --- | --- |
@@ -3917,7 +3917,7 @@ Tekst til figur 1: Skjematisk framstilling av ekstraksjonsapparat s ved:
 
 Vitamin E skal bestemmes ved:
 
-- analysemetoden fastsatt i EN 17547 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av innhold av vitamin A, E og D19 – Metode ved bruk av fastfaseekstraksjon (SPE)-rensing og høyoppløselig væskekromatografi (HPLC), eller
+- analysemetoden fastsatt i EN 17547 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av innhold av vitamin A, E og D[^19] – Metode ved bruk av fastfaseekstraksjon (SPE)-rensing og høyoppløselig væskekromatografi (HPLC), eller
 - ved reversertfase høyoppløselig væskekromatografi (RP-HPLC) med UV- eller fluorescensdetektor, som beskrevet nedenfor i punkt 1 til 9.
 
 19 Analysemetoden som er fastsatt i EN 17547, er referert til som en alternativ metode som skal brukes til offentlig kontroll for bestemmelse av vitamin A og E i stedet for metoden som er beskrevet for bestemmelse av vitamin A i del A i dette vedlegget og for vitamin E i del B i dette vedlegget.
@@ -4242,7 +4242,7 @@ Vitamin E-acetat hydrolyserer svært raskt under basiske forhold og er derfor sv
 
 Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 15 % av det høyeste resultatet.
 
-###### 9. Resultater av en undersøkelse foretatt ved flere laboratorier20
+###### 9. Resultater av en undersøkelse foretatt ved flere laboratorier[^20]
 
 |  | *Premiks* | *Fôrvarer iblandet premiks* | *Mineralkonsentrat* | *Proteinfôr* | *Smågrisfôr* |
 | --- | --- | --- | --- | --- | --- |
@@ -4282,7 +4282,7 @@ Jern-, kobber-, mangan- og sinkinnhold skal bestemmes ved:
 
 ###### 1. Formål og virkeområde
 
-Dette er en metode for bestemmelse av mikronæringsstoffene jern, kobber, mangan og sink i fôrvarer21. Kvantifiseringsgrensene er:
+Dette er en metode for bestemmelse av mikronæringsstoffene jern, kobber, mangan og sink i fôrvarer[^21]. Kvantifiseringsgrensene er:
 
 - jern (Fe): 20 mg/kg
 - kobber (Cu): 10 mg/kg
@@ -4385,7 +4385,7 @@ Glasstøy skal være av motstandsdyktig borsilikat, og det anbefales at utstyret
 
 Atomabsorpsjonsspektrofotometer som oppfyller metodens krav med hensyn til følsomhet og nøyaktighet i det området som kreves.
 
-###### 5. Framgangsmåte22
+###### 5. Framgangsmåte[^22]
 
 5.1.
 
@@ -4393,7 +4393,7 @@ Prøver som inneholder organisk materiale
 
 5.1.1.
 
-Foraskning og tillaging av løsningen som skal analyseres23
+Foraskning og tillaging av løsningen som skal analyseres[^23]
 
 5.1.1.1.
 
@@ -4819,7 +4819,7 @@ For en blindprøve med økt konsentrasjon skal gjenfinningen være minst 85 %.
 
 ###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
 
-I en undersøkelse foretatt ved flere laboratorier24 ble tre prøver analysert av åtte laboratorier.
+I en undersøkelse foretatt ved flere laboratorier[^24] ble tre prøver analysert av åtte laboratorier.
 
 Resultater
 
@@ -5129,7 +5129,7 @@ Diclazurilinnhold skal bestemmes ved:
 
 ###### 1. Formål og virkeområde
 
-Denne metoden gjør det mulig å bestemme innholdet av diclazuril i fôrblandinger og premikser25. Deteksjonsgrensen er 0,1 mg/kg, kvantifiseringsgrensen er 0,5 mg/kg. Lavere kvantifiseringsgrense kan oppnås, men dette skal valideres av brukeren.
+Denne metoden gjør det mulig å bestemme innholdet av diclazuril i fôrblandinger og premikser[^25]. Deteksjonsgrensen er 0,1 mg/kg, kvantifiseringsgrensen er 0,5 mg/kg. Lavere kvantifiseringsgrense kan oppnås, men dette skal valideres av brukeren.
 
 25 Metoden kan også brukes til bestemmelse av diclazuril i fôrmidler.
 
@@ -5175,7 +5175,7 @@ Standard: diclazuril: (+)-4-klorfenyl-[2,6-diklor-4-(2,3,4,5-tetrahydro-3,5-diok
 
 Diclazuril-standardstamløsning, 500 μg/ml
 
-Vei opp 25 mg diclazurilstandard (punkt 3.8) med en nøyaktighet på 0,1 mg i en 50 ml målekolbe. Løs opp i DMF (punkt 3.6), fyll opp til merket med DMF (punkt 3.6) og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned26.
+Vei opp 25 mg diclazurilstandard (punkt 3.8) med en nøyaktighet på 0,1 mg i en 50 ml målekolbe. Løs opp i DMF (punkt 3.6), fyll opp til merket med DMF (punkt 3.6) og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned[^26].
 
 3.8.2.
 
@@ -5483,7 +5483,7 @@ I den andre undersøkelsen ble tre fôrblandinger til fjørfe, som inneholdt dic
 | SR (mg/kg) | 7,59 | 7,64 | 0,17 | 0,11 | 0,12 | 0,18 | 0,21 | – |
 | CVR (%) | 7,53 | 7,38 | 18,61 | 9,67 | 13,65 | 18,1 | 14,3 | – |
 | Nominelt innhold (mg/kg) | 100 | 100 | 1,0 | 1,0 | 1,0 | 0,9 | 1,5 | – |
-| Referanse\* | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Andre undersøkelse fra 2015 | Andre undersøkelse fra 2015 | Andre undersøkelse fra 2015 |
+| Referanse[^\*] | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Andre undersøkelse fra 2015 | Andre undersøkelse fra 2015 | Andre undersøkelse fra 2015 |
 
 - L = antall laboratorier
 - n = antall enkeltverdier
@@ -5746,7 +5746,7 @@ Gjenfinningen for en (blind)prøve av fôrvarer med økt konsentrasjon skal vær
 
 ###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
 
-I en undersøkelse foretatt ved flere laboratorier\* ble to prøver av premikser (prøve 1 og 2) og fem prøver av fôrvarer (prøve 3–7) analysert av tolv laboratorier. Hver prøve ble analysert to ganger. Resultatene er oppført i tabellen nedenfor:
+I en undersøkelse foretatt ved flere laboratorier[^\*] ble to prøver av premikser (prøve 1 og 2) og fem prøver av fôrvarer (prøve 3–7) analysert av tolv laboratorier. Hver prøve ble analysert to ganger. Resultatene er oppført i tabellen nedenfor:
 
 |  | *Prøve 1*<br>*Kylling-premiks* | *Prøve 2*<br>*Kalkun-premiks* | *Prøve 3*<br>*Kalkun-pelleter* | *Prøve 4*<br>*Kylling-pelleter* | *Prøve 5*<br>*Kalkunfôr* | *Prøve 6*<br>*Fjørfefôr A* | *Prøve 7*<br>*Fjørfefôr B* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5757,7 +5757,7 @@ I en undersøkelse foretatt ved flere laboratorier\* ble to prøver av premikser
 | CVr [%] | 2,12 | 2,52 | 2,24 | 2,84 | 2,44 | 4,00 | 5,37 |
 | sR [mg/kg] | 286 | 883 | 3,85 | 7,32 | 5,29 | 3,47 | 3,49 |
 | CVR [%] | 5,66 | 5,45 | 5,03 | 9,34 | 5,69 | 7,18 | 10,70 |
-| Nominelt innhold [mg/kg] | 5 000\*\* | 16 000\*\* | 80\*\* | 105\*\* | 120\*\* | 50+ | 35+ |
+| Nominelt innhold [mg/kg] | 5 000[^\*\*] | 16 000[^\*\*] | 80[^\*\*] | 105[^\*\*] | 120[^\*\*] | 50[^+] | 35[^+] |
 
 - L = antall laboratorier
 - n = antall enkeltresultater
@@ -6112,11 +6112,11 @@ Prøvetakingsmetoder og tolking av analyseresultater
 
 ###### 1. Virkeområde og definisjoner
 
-Prøver beregnet på offentlig kontroll av innholdet av polyklorerte dibenzo-p-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF), dioksinlignende polyklorerte bifenyler (PCB)27 og ikke-dioksinlignende PCB i fôrvarer skal tas i samsvar med bestemmelsene i vedlegg I.
+Prøver beregnet på offentlig kontroll av innholdet av polyklorerte dibenzo-p-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF), dioksinlignende polyklorerte bifenyler (PCB)[^27] og ikke-dioksinlignende PCB i fôrvarer skal tas i samsvar med bestemmelsene i vedlegg I.
 
 De kvantitative kravene i forbindelse med kontroll av stoffer eller produkter som er jevnt fordelt i fôrvarene, som fastsatt i punkt 5.1 i vedlegg I, får anvendelse. Samleprøver som oppnås på denne måten, skal anses som representative for de partiene eller delpartiene de er tatt fra. På grunnlag av det innholdet som påvises i laboratorieprøvene, skal det fastslås om grenseverdiene fastsatt i direktiv [2002/32/EF](eu/32002l0032) er overholdt.
 
-I denne delen får definisjonene fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808)28 anvendelse.
+I denne delen får definisjonene fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808)[^28] anvendelse.
 
 | *Forbindelse* | *TEF-verdi* | *Forbindelse* | *TEF-verdi* |
 | --- | --- | --- | --- |
@@ -6154,7 +6154,7 @@ I tillegg til disse definisjonene menes i denne delen med
 
 Ikke-dioksinlignende PCB
 
-Partiet eller delpartiet er i samsvar med grenseverdien dersom analyseresultatet for summen av PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 og PCB 180 (heretter kalt ikke-dioksinlignende PCB) ikke overskrider grenseverdien fastsatt i direktiv [2002/32/EF](eu/32002l0032), idet det tas hensyn til den utvidede måleusikkerheten29. Partiet eller delpartiet er ikke i samsvar med grenseverdien fastsatt i direktiv [2002/32/EF](eu/32002l0032) dersom det er hevet over enhver rimelig tvil at gjennomsnittet av den øvre konsentrasjonen30 av to analyseresultater oppnådd ved en dobbeltanalyse31, idet det tas hensyn til den utvidede måleusikkerheten, overskrider grenseverdien, dvs. at den analyserte konsentrasjonen fratrukket den utvidede måleusikkerheten brukes til å vurdere samsvaret.
+Partiet eller delpartiet er i samsvar med grenseverdien dersom analyseresultatet for summen av PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 og PCB 180 (heretter kalt ikke-dioksinlignende PCB) ikke overskrider grenseverdien fastsatt i direktiv [2002/32/EF](eu/32002l0032), idet det tas hensyn til den utvidede måleusikkerheten[^29]. Partiet eller delpartiet er ikke i samsvar med grenseverdien fastsatt i direktiv [2002/32/EF](eu/32002l0032) dersom det er hevet over enhver rimelig tvil at gjennomsnittet av den øvre konsentrasjonen[^30] av to analyseresultater oppnådd ved en dobbeltanalyse[^31], idet det tas hensyn til den utvidede måleusikkerheten, overskrider grenseverdien, dvs. at den analyserte konsentrasjonen fratrukket den utvidede måleusikkerheten brukes til å vurdere samsvaret.
 
 Den utvidede måleusikkerheten beregnes ved bruk av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 %. Et parti eller et delparti oppfyller ikke kravene dersom gjennomsnittet av de målte verdiene, minus den utvidede usikkerheten for gjennomsnittsverdien, er høyere enn den fastsatte grenseverdien.
 
@@ -6170,7 +6170,7 @@ Partiet eller delpartiet er i samsvar med grenseverdien dersom resultatet av en 
 
 For screeningprøver skal det fastsettes en terskelverdi som danner grunnlaget for beslutningen om hvorvidt de ulike grenseverdiene som er fastsatt for enten PCDD/PCDF eller for summen av PCDD/PCDF og dioksinlignende PCB, er overholdt.
 
-Partiet eller delpartiet er ikke i samsvar med grenseverdien fastsatt i direktiv [2002/32/EF](eu/32002l0032) dersom det er hevet over enhver rimelig tvil at gjennomsnittet av den øvre konsentrasjonen32 av to analyseresultater oppnådd ved en dobbeltanalyse 33, der det brukes en bekreftelsesmetode, idet det tas hensyn til den utvidede måleusikkerheten, overskrider grenseverdien, dvs. at den analyserte konsentrasjonen fratrukket den utvidede måleusikkerheten brukes til å vurdere samsvaret.
+Partiet eller delpartiet er ikke i samsvar med grenseverdien fastsatt i direktiv [2002/32/EF](eu/32002l0032) dersom det er hevet over enhver rimelig tvil at gjennomsnittet av den øvre konsentrasjonen[^32] av to analyseresultater oppnådd ved en dobbeltanalyse [^33], der det brukes en bekreftelsesmetode, idet det tas hensyn til den utvidede måleusikkerheten, overskrider grenseverdien, dvs. at den analyserte konsentrasjonen fratrukket den utvidede måleusikkerheten brukes til å vurdere samsvaret.
 
 Den utvidede måleusikkerheten beregnes ved bruk av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 %. Et parti eller et delparti oppfyller ikke kravene dersom gjennomsnittet av de målte verdiene, minus den utvidede usikkerheten for gjennomsnittsverdien, er høyere enn den fastsatte grenseverdien.
 
@@ -6190,7 +6190,7 @@ De reglene som er nevnt i ovenstående ledd i dette nummer, gjelder for resultat
 
 ###### 3. Resultater som overskrider tiltaksgrensene fastsatt i vedlegg II til direktiv [2002/32/EF](eu/32002l0032)
 
-Tiltaksgrenser er et verktøy for utvelging av prøver når det er nødvendig å identifisere en forurensningskilde og treffe tiltak for å redusere eller fjerne den. Hensiktsmessige terskelverdier for utvelging av disse prøvene skal fastsettes ved hjelp av screeningmetoder. Dersom betydelig arbeid er nødvendig for å identifisere en forurensningskilde og redusere eller fjerne den, er det hensiktsmessig å bekrefte overskridelsen av tiltaksgrensen gjennom en dobbeltanalyse med en bekreftelsesmetode og ved å ta hensyn til den utvidede måleusikkerheten34.
+Tiltaksgrenser er et verktøy for utvelging av prøver når det er nødvendig å identifisere en forurensningskilde og treffe tiltak for å redusere eller fjerne den. Hensiktsmessige terskelverdier for utvelging av disse prøvene skal fastsettes ved hjelp av screeningmetoder. Dersom betydelig arbeid er nødvendig for å identifisere en forurensningskilde og redusere eller fjerne den, er det hensiktsmessig å bekrefte overskridelsen av tiltaksgrensen gjennom en dobbeltanalyse med en bekreftelsesmetode og ved å ta hensyn til den utvidede måleusikkerheten[^34].
 
 34 Samme forklaring og krav om dobbeltanalyse for kontroll av tiltaksgrenser som for grenseverdier i fotnote nr. 5.
 
@@ -6200,7 +6200,7 @@ Tillaging av prøver og krav til analysemetoder som brukes ved offentlig kontrol
 
 ###### 1. Anvendelsesområde
 
-Kravene fastsatt i dette kapittel gjelder når fôrvarer analyseres med henblikk på offentlig kontroll av innholdet av 2,3,7,8-substituert PCDD/PCDF og dioksinlignende PCB, og for tillaging av prøver samt analysekrav med henblikk på andre reguleringsformål, herunder kontroller som foretas av driftsansvarlige for fôrforetak for å sikre samsvar med bestemmelsene i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)35.
+Kravene fastsatt i dette kapittel gjelder når fôrvarer analyseres med henblikk på offentlig kontroll av innholdet av 2,3,7,8-substituert PCDD/PCDF og dioksinlignende PCB, og for tillaging av prøver samt analysekrav med henblikk på andre reguleringsformål, herunder kontroller som foretas av driftsansvarlige for fôrforetak for å sikre samsvar med bestemmelsene i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)[^35].
 
 Overvåking av innholdet av PCDD/PCDF og dioksinlignende PCB i fôrvarer kan utføres ved hjelp av to forskjellige typer analysemetoder:
 
@@ -6228,7 +6228,7 @@ Kvantifiseringsgrense for en enkeltforbindelse kan identifiseres som
 1. konsentrasjonen av en analytt i det ekstraktet av en prøve som for de to forskjellige ionene som skal overvåkes, gir et instrumentutslag med et signal/støy-forhold på 3:1 for det minst følsomme rådatasignalet eller,
 2. dersom beregningen av signal/støy av tekniske årsaker ikke gir pålitelige resultater, det punktet for laveste konsentrasjon i en kalibreringskurve som gir et akseptabelt (≤ 30 %) og konsekvent (målt minst i starten og på slutten av en analyseserie) avvik i forhold til den gjennomsnittlige relative responsfaktoren beregnet for alle punkter i kalibreringskurven i hver prøveserie. Kvantifiseringsgrensen (LOQ) beregnes fra punktet for laveste konsentrasjon, idet det tas hensyn til gjenfinning av interne standarder og prøvemengden.
 
-Bioanalytiske screeningmetoder gir ikke resultater på forbindelsesnivå, men gir bare en indikasjon36 på TEQ-nivået, uttrykt i BEQ, der det tas hensyn til det faktum at ikke alle forbindelser i et prøveekstrakt som gir respons i analysen, oppfyller alle kravene i TEQ-prinsippet.
+Bioanalytiske screeningmetoder gir ikke resultater på forbindelsesnivå, men gir bare en indikasjon[^36] på TEQ-nivået, uttrykt i BEQ, der det tas hensyn til det faktum at ikke alle forbindelser i et prøveekstrakt som gir respons i analysen, oppfyller alle kravene i TEQ-prinsippet.
 
 Screening- og bekreftelsesmetoder skal bare brukes til kontroll av en bestemt matrise dersom metodene er tilstrekkelig følsomme til å påvise nivåer ved tiltaksgrensen eller grenseverdien på en pålitelig måte.
 
@@ -6276,7 +6276,7 @@ De enkelte framgangsmåtene for tillaging av prøver som brukes for de aktuelle 
 
 4.1.
 
-I samsvar med bestemmelsene i forordning [(EU) 2017/625](eu/32017r0625) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO/IEC Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og kvantifiseringsgrenser for PCDD/PCDF- og PCB-analyse skal følges37.
+I samsvar med bestemmelsene i forordning [(EU) 2017/625](eu/32017r0625) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO/IEC Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og kvantifiseringsgrenser for PCDD/PCDF- og PCB-analyse skal følges[^37].
 
 4.2.
 
@@ -6354,7 +6354,7 @@ For å sikre pålitelige resultater av bekreftelses- eller screeningmetoder skal
 
 |  | *Screening med bioanalytiske eller fysikalsk-kjemiske metoder* | Bekreftelsesmetoder |
 | --- | --- | --- |
-| Andel falskt negative prøver\* | < 5 % |  |
+| Andel falskt negative prøver[^\*] | < 5 % |  |
 | Riktighet |  | – 20 % til + 20 % |
 | Repeterbarhet (RSDr) | < 20 % |  |
 | Intermediær presisjon (RSDR) | < 25 % | < 15 % |
@@ -6520,7 +6520,7 @@ Gjenfinningsgrad ved biologisk prøving
 
 «Gjenfinningsgrad ved biologisk prøving» skal beregnes ut fra egnede referanseprøver med representative forbindelsesmønstre nær grenseverdien eller tiltaksgrensen, og uttrykkes som en prosent av BEQ-nivået sammenlignet med TEQ-nivået.
 
-Avhengig av analysetype og hvilke TEF-verdier38 som er brukt, kan forskjellene mellom TEF- og REP-faktorene for dioksinlignende PCB forårsake lav gjenfinningsgrad for dioksinlignende PCB sammenlignet med PCDD/PCDF.
+Avhengig av analysetype og hvilke TEF-verdier[^38] som er brukt, kan forskjellene mellom TEF- og REP-faktorene for dioksinlignende PCB forårsake lav gjenfinningsgrad for dioksinlignende PCB sammenlignet med PCDD/PCDF.
 
 Dersom det utføres en separat bestemmelse av PCDD/PCDF og dioksinlignende PCB, skal gjenfinningsgraden ved biologisk prøving derfor være 20–60 % for dioksinlignende PCB og 50–130 % for PCDD/PCDF (områdene gjelder for TCDD-kalibreringskurven). Bidraget fra dioksinlignende PCB til summen av PCDD/PCDF og dioksinlignende PCB kan variere mellom ulike matriser og prøver. Disse variasjonene gjenspeiles i gjenfinningsgraden ved biologisk prøving, som skal være i området 30–130 % for summen av PCDD/PCDF og dioksinlignende PCB. Dersom TEF-verdiene for PCDD/PCDF og dioksinlignende PCB i EUs regelverk endres vesentlig, må disse områdene revideres.
 
@@ -6776,7 +6776,7 @@ Relativ retensjonstid i forhold til interne standarder eller referansestandarder
 
 3.2.
 
-Gasskromatografisk separasjon av ikke-dioksinlignende PCB fra interfererende stoffer, særlig PCB som elueres samtidig, særlig når innholdet i prøvene ligger innenfor de lovfestede grenseverdiene og det skal bekreftes at prøven ikke oppfyller kravene39.
+Gasskromatografisk separasjon av ikke-dioksinlignende PCB fra interfererende stoffer, særlig PCB som elueres samtidig, særlig når innholdet i prøvene ligger innenfor de lovfestede grenseverdiene og det skal bekreftes at prøven ikke oppfyller kravene[^39].
 
 3.3.
 
@@ -6806,7 +6806,7 @@ Metodens ytelse skal valideres innenfor grenseverdiområdet (0,5 til 2 ganger gr
 
 ###### 5. Kvantifiseringsgrense
 
-Summen av kvantifiseringsgrensene40 av ikke-dioksinlignende PCB skal ikke være større enn én tredel av grenseverdien41.
+Summen av kvantifiseringsgrensene[^40] av ikke-dioksinlignende PCB skal ikke være større enn én tredel av grenseverdien[^41].
 
 40 Når det er relevant, skal prinsippene beskrevet i «Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food» (https://data.europa.eu/doi/10.2787/8931) følges.
 
@@ -6850,13 +6850,13 @@ Gjenfinning av umerkede forbindelser skal kontrolleres ved hjelp av prøver med 
 
 ###### 8. Krav til laboratorier
 
-I samsvar med bestemmelsene i forordning [(EU) 2017/625](eu/32017r0625) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO/IEC Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Dessuten skal prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og kvantifiseringsgrenser for PCB-analyse, følges42.
+I samsvar med bestemmelsene i forordning [(EU) 2017/625](eu/32017r0625) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO/IEC Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Dessuten skal prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og kvantifiseringsgrenser for PCB-analyse, følges[^42].
 
 42 Europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene (EUT L 35 av 8.2.2005, s. 1).
 
 ###### 9. Ytelsesegenskaper: Kriterier for summen av ikke-dioksinlignende PCB ved grenseverdien
 
-|  | *Massespektrometrisk isotopfortynning*\* | *Andre teknikker* |
+|  | *Massespektrometrisk isotopfortynning*[^\*] | *Andre teknikker* |
 | --- | --- | --- |
 | Riktighet | – 20 til + 20 % | – 30 til + 30 % |
 | Intermediær presisjon (RSD %) | ≤ 15 % | ≤ 20 % |
@@ -6917,9 +6917,9 @@ Disse to metodene gjør det mulig å påvise forekomsten av bestanddeler av anim
 
 PCR-metoden gjør det mulig å identifisere hvilken taksonomigruppe bestanddelene av animalsk opprinnelse som forekommer i premikser, fôrmidler og fôrblandinger, tilhører.
 
-Disse metodene skal benyttes for å kontrollere anvendelsen av forbudene fastsatt i artikkel 7 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)\*, i vedlegg IV til den nevnte forordningen og i artikkel 11 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*\*.
+Disse metodene skal benyttes for å kontrollere anvendelsen av forbudene fastsatt i artikkel 7 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)[^\*], i vedlegg IV til den nevnte forordningen og i artikkel 11 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)[^\*\*].
 
-Avhengig av hvilken type fôr som skal testes, kan disse metodene benyttes innenfor en enkelt protokoll, enten alene eller kombinert med hverandre, i samsvar med de standardiserte framgangsmåtene fastsatt av EU-referanselaboratoriet for animalske proteiner i fôrvarer (EURL-AP) og offentliggjort på laboratoriets nettsted\*\*\*.
+Avhengig av hvilken type fôr som skal testes, kan disse metodene benyttes innenfor en enkelt protokoll, enten alene eller kombinert med hverandre, i samsvar med de standardiserte framgangsmåtene fastsatt av EU-referanselaboratoriet for animalske proteiner i fôrvarer (EURL-AP) og offentliggjort på laboratoriets nettsted[^\*\*\*].
 
 \* Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).
 

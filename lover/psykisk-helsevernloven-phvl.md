@@ -15,7 +15,7 @@ xml_hash: "5280d637bd0e8a70728309c1a117f99826a94f0a9b3f741570bda41e25391cff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -881,7 +881,7 @@ Kongen gir forskrifter om lovens anvendelse på Svalbard og Jan Mayen og kan fas
 
 ### § 8-2. Ikrafttredelse
 
-Loven her trer i kraft fra den tid1 Kongen i statsråd bestemmer. Kongen i statsråd kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid. [Kapittel 5](lov/1999-07-02-62/kap5) trer i kraft i henhold til egen lov.
+Loven her trer i kraft fra den tid[^1] Kongen i statsråd bestemmer. Kongen i statsråd kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid. [Kapittel 5](lov/1999-07-02-62/kap5) trer i kraft i henhold til egen lov.
 
 Fra lovens ikrafttredelse oppheves [lov av 28. april 1961 nr. 2](lov/1961-04-28-2) om psykisk helsevern.
 

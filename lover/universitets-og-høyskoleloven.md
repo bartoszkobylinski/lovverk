@@ -15,7 +15,7 @@ xml_hash: "36adee974869a718f9a87d9f509def7d21ac28a44eebd48f79edf5ff80d391b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1143,7 +1143,7 @@ Departementet kan gjøre tidsavgrensede unntak fra denne loven med forskrifter i
 
 ### § 17-2. Ikrafttredelse og opphevelse
 
-Loven trer i kraft fra den tiden1 Kongen bestemmer. Samtidig oppheves [lov 1. april 2005 nr. 15 om universiteter og høyskoler](lov/2005-04-01-15). Kongen kan sette i kraft de ulike reglene til ulik tid.
+Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Samtidig oppheves [lov 1. april 2005 nr. 15 om universiteter og høyskoler](lov/2005-04-01-15). Kongen kan sette i kraft de ulike reglene til ulik tid.
 
 1 Fra 1 aug 2024 iflg. [res. 8 mars 2024 nr. 407](forskrift/2024-03-08-407).
 

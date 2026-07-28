@@ -15,7 +15,7 @@ xml_hash: "67a5cd418c911a1b3d796e729db1ee0d295af93c8506723cf8989c980c3d6d93"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,6 +144,6 @@ Justisdepartementet kan endre denne forskriften.
 
 ## § 13.
 
-Denne forskrift trer i kraft fra den tid Justisdepartementet bestemmer.1
+Denne forskrift trer i kraft fra den tid Justisdepartementet bestemmer.[^1]
 
 1 1 nov 1994 iflg. [forskrift 24 okt 1994 nr. 977](forskrift/1994-10-24-977).

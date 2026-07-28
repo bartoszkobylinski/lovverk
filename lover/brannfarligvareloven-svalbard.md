@@ -15,7 +15,7 @@ xml_hash: "103081fe5923899d2a457d5cabe906d7dbe464d254f65e308ca5da2d8870a955"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,7 @@ Beholder, apparat eller annen innretning som blir brukt til oppbevaring, behandl
 
 Departementet kan ved forskrift bestemme at beholder, apparat eller annen innretning til bruk som nevnt i første ledd ikke må selges, utbys til salg eller brukes her i landet med mindre den er godkjent eller med mindre typen av innretning som nevnt er godkjent (typegodkjenning). Godkjenning gis av Direktoratet for brann- og eksplosjonsvern eller den departementet bestemmer.
 
-Produkt som er produsert og kontrollert i overensstemmelse med regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge, anses godkjent i henhold til loven.2
+Produkt som er produsert og kontrollert i overensstemmelse med regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge, anses godkjent i henhold til loven.[^2]
 
 > Endret ved [lover 11 juni 1993 nr. 88](lov/1993-06-11-88), [27 nov 1992 nr. 115](lov/1992-11-27-115) (ikr. 1 jan 1994).
 
@@ -559,7 +559,7 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 
 ### § 48. Ikrafttreden. Oppheving og endring av andre lover.
 
-1. Denne lov trer i kraft fra den tid1 Kongen bestemmer. Det kan fastsettes særskilt tidspunkt for lovens ikrafttreden på Svalbard.2
+1. Denne lov trer i kraft fra den tid[^1] Kongen bestemmer. Det kan fastsettes særskilt tidspunkt for lovens ikrafttreden på Svalbard.[^2]
 2. Fra samme tid oppheves: – – –
 3. Fra samme tid gjøres følgende endringer – – –
 

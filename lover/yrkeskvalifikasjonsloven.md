@@ -15,7 +15,7 @@ xml_hash: "6d1307d405ee01a4a4fcabe49bcddc016a295e8f6eb843257c667a7dd5a19890"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32005L0036"
@@ -42,7 +42,7 @@ For yrker som omfattes av [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsep
 
 [§§ 3](lov/2017-06-16-69/§3), [8](lov/2017-06-16-69/§8), [12](lov/2017-06-16-69/§12), [13](lov/2017-06-16-69/§13) og [15](lov/2017-06-16-69/§15) til [18](lov/2017-06-16-69/§18) gjelder for yrkesutøver med yrkeskvalifikasjoner fra tredjeland, om ikke annet er særskilt bestemt.
 
-Loven gir ikke rett til å utøve yrker innen offentlig myndighetsutøvelse.1 Loven gjelder ikke for offentlig utnevnte notarer.
+Loven gir ikke rett til å utøve yrker innen offentlig myndighetsutøvelse.[^1] Loven gjelder ikke for offentlig utnevnte notarer.
 
 Departementet kan gi forskrift om yrkesutøver som har ervervet sine yrkeskvalifikasjoner i et tredjeland, og tredjelandsborgere som omfattes av direktiv [2004/38/EF](eu/32004l0038).
 
@@ -247,6 +247,6 @@ Ansvarlige myndigheter som mottar eller treffer avgjørelse etter denne loven, s
 
 ### § 25. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.
 
 1 Fra 1 jan 2018, med unntak av [§ 10](lov/2017-06-16-69/§10), [§ 11](lov/2017-06-16-69/§11), [§ 14](lov/2017-06-16-69/§14) og [§ 20](lov/2017-06-16-69/§20), iflg. [res. 16 juni 2017 nr. 756](forskrift/2017-06-16-756). § 14 og § 20 trer i kraft 1 mars 2019 iflg. [res. 1 feb 2019 nr. 64](forskrift/2019-02-01-64).

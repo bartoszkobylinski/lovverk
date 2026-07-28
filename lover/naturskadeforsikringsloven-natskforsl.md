@@ -15,7 +15,7 @@ xml_hash: "0ef3151b2af2904d2835ea48c46134fd00afc13e421e902350c1853b5abc1d25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,6 +96,6 @@ Bestemmelsen i [§ 1](lov/1989-06-16-70/§1) er ufravikelig, selv om det avtales
 
 ## § 6.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 juli 1990 iflg. [res. 15 des 1989 nr. 1241](forskrift/1989-12-15-1241).

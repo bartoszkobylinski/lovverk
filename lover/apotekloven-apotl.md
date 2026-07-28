@@ -15,7 +15,7 @@ xml_hash: "043cfd7141b349e011812db5f4b9cae727297767aeb389715b6cd1d401629457"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -611,7 +611,7 @@ Adgangen til å ilegge overtredelsesgebyr foreldes to år etter at overtredelsen
 
 ### § 10-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
 Fra samme tid oppheves [lov 21. juni 1963 nr. 17](lov/1963-06-21-17) om drift av apotek m.v.
 

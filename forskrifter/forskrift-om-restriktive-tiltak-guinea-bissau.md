@@ -15,7 +15,7 @@ xml_hash: "d6ca5be797aaf6dfd2612804da7f6cf4ccc939eb2b717e598d32011e925c8981"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -209,7 +209,7 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 ### Vedlegg I
 Liste over juridiske personer, enheter og organer nevnt i artiklene 2 nr. 1 og 2 nr. 2
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
 
 Listeførte med landkode («programme») GNB – Guinea-Bissau, er listeført under denne forskriften.
 

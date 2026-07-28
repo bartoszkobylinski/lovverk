@@ -15,7 +15,7 @@ xml_hash: "037502ab916aebe49e59347a6202ce8e8c4c08108e59b00fe0262a8f45615771"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,6 +36,6 @@ Kongen fastsett reglar for bladdrifta, soleis også reglar for kva lysingar som 
 
 ## § 4.
 
-Denne lova gjeld frå den dagen Kongen fastsett.1 – – –
+Denne lova gjeld frå den dagen Kongen fastsett.[^1] – – –
 
 1 Frå 1 jan 1948 iflg. res. 5 des 1947.

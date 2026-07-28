@@ -15,7 +15,7 @@ xml_hash: "3dba59f702062cb0cdc8de7979719a802d8b169e2f2565a19ca4b74d5339650a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1864,7 +1864,7 @@ Prosessfullmektigen har fortrinnsrett foran sin parts øvrige fordringshavere ti
 
 ### § 20-11. Sikkerhetsstillelse for sakskostnadsansvar
 
-(1) Saksøkte kan kreve at en saksøker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saksøker har bopel i en EØS-stat, hvis det ville stride mot en folkerettslig forpliktelse til å likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for øvrig.1
+(1) Saksøkte kan kreve at en saksøker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saksøker har bopel i en EØS-stat, hvis det ville stride mot en folkerettslig forpliktelse til å likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for øvrig.[^1]
 
 (2) Sikkerhet etter første ledd kan ikke kreves av saksøkte ved fremme av krav etter [§ 15-1](lov/2005-06-17-90/§15-1) annet ledd, ved avledet anke etter [§ 29-7](lov/2005-06-17-90/§29-7), eller i saker hvor offentlige hensyn medfører at partenes rådighet er begrenset.
 
@@ -3464,7 +3464,7 @@ Staten bærer alle kostnadene ved saken når ikke annet følger av særskilt lov
 
 ### § 37-1. Ikraftsetting
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid.
 
 Fra den tid loven trer i kraft oppheves [lov 13. august 1915 nr. 6](lov/1915-08-13-6) om rettergangsmåten i tvistemål (tvistemålsloven).
 
@@ -3480,7 +3480,7 @@ Kongen kan gi forskrift om overgangsregler.
 
 > Endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3), [29 juni 2007 nr. 80](lov/2007-06-29-80) (ikr. 1 jan 2008 iflg. [res. 14 des 2007 nr. 1415](forskrift/2007-12-14-1415)), [21 des 2007 nr. 127](lov/2007-12-21-127).
 
-## Konvensjon om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, vedtatt i Lugano 30 okt 2007.1
+## Konvensjon om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, vedtatt i Lugano 30 okt 2007.[^1]
 
 1 Konvensjonen trådte i kraft 1 jan 2010 med virkning for Norge, EU og Danmark, 1 jan 2011 med virkning for Sveits og 1 mai 2011 med virkning for Island. Luganokonvensjonen 1988 og [forskr. 16 okt 2009 nr. 1280](forskrift/2009-10-16-1280) opphørte å gjelde 1 mai 2011, jf. [forskr. 16 okt 2009 nr. 1280](forskrift/2009-10-16-1280) om fortsatt anvendelse av Luganokonvensjonen 1988 [§ 3](forskrift/2009-10-16-1280/§3). Luganokonvensjonen 1988 er inntatt i tidligere utgaver av Norges Lover, senest utgaven 1687-2009, under [lov 8 jan 1993 nr. 21](lov/1993-01-08-21).
 
@@ -3517,10 +3517,10 @@ ER BLITT ENIGE OM FØLGENDE:
 
 2\. Konvensjonen gjelder ikke:
 
-1. fysiske personers rettslige status,1 rettsevne og rettslige handleevne, formuerettigheter som følge av ekteskap, testament og arv;2
-2. konkurs, avvikling av insolvente selskaper, foreninger og stiftelser, offentlige gjeldsforhandlinger (akkord) og liknende ordninger;3
+1. fysiske personers rettslige status,[^1] rettsevne og rettslige handleevne, formuerettigheter som følge av ekteskap, testament og arv;[^2]
+2. konkurs, avvikling av insolvente selskaper, foreninger og stiftelser, offentlige gjeldsforhandlinger (akkord) og liknende ordninger;[^3]
 3. sosiale trygdesaker;
-4. voldgift.4
+4. voldgift.[^4]
 
 3\. I konvensjonen her menes med uttrykket «konvensjonsstat», enhver stat som er part i konvensjonen her, eller som er en medlemsstat i Det europeiske fellesskap. Det kan også bety Det europeiske fellesskap.
 
@@ -3538,7 +3538,7 @@ ER BLITT ENIGE OM FØLGENDE:
 
 ### Art 2
 
-1\. Med forbehold for hva som ellers måtte følge av reglene i konvensjonen her,1 skal personer med bosted i en konvensjonsstat uansett statsborgerskap saksøkes ved domstolene i bostedstaten.2
+1\. Med forbehold for hva som ellers måtte følge av reglene i konvensjonen her,[^1] skal personer med bosted i en konvensjonsstat uansett statsborgerskap saksøkes ved domstolene i bostedstaten.[^2]
 
 2\. Personer som ikke er statsborgere i den konvensjonsstat der de har sitt bosted, skal være underlagt de samme vernetingsreglene som denne statens egne statsborgere.
 
@@ -3548,7 +3548,7 @@ ER BLITT ENIGE OM FØLGENDE:
 
 ### Art 3
 
-1\. Personer med bosted i en konvensjonsstat kan bare saksøkes ved domstolene i en annen konvensjonsstat når dette følger av reglene i avsnitt 2 til 7 i dette kapittel.1
+1\. Personer med bosted i en konvensjonsstat kan bare saksøkes ved domstolene i en annen konvensjonsstat når dette følger av reglene i avsnitt 2 til 7 i dette kapittel.[^1]
 
 2\. Særlig skal de nasjonale vernetingsregler oppført i vedlegg I ikke kunne gjøres gjeldende mot dem.
 
@@ -3566,7 +3566,7 @@ ER BLITT ENIGE OM FØLGENDE:
 
 En person som har bosted i en konvensjonsstat, kan i en annen konvensjonsstat saksøkes:
 
-1. 1. i saker om kontraktforhold, ved domstolen for det sted hvor den forpliktelse tvisten gjelder, skal oppfylles;1
+1. 1. i saker om kontraktforhold, ved domstolen for det sted hvor den forpliktelse tvisten gjelder, skal oppfylles;[^1]
    2. ved anvendelsen av denne bestemmelse skal, med mindre noe annet er avtalt, oppfyllelsesstedet for den forpliktelse tvisten gjelder, være:
 
       - ved kjøp av løsøre, det sted i en konvensjonsstat der varene er levert, eller skulle vært levert, i henhold til avtalen,
@@ -3594,8 +3594,8 @@ En person som har bosted i en konvensjonsstat, kan i en annen konvensjonsstat sa
 
 En person som har bosted i en konvensjonsstat kan også saksøkes:
 
-1. om han er en av flere saksøkte, ved domstolene for det sted hvor en av de saksøkte har bosted,1 forutsatt at kravene er så nært forbundet at det er ønskelig å forene dem til felles behandling og til felles avgjørelse for å unngå risiko for uforenlige avgjørelser som en følge av separat behandling;
-2. når han på grunn av regressplikt eller av andre grunner innstevnes som tredjemann i en sak av noen av de opprinnelige parter,2 ved den domstol som behandler det opprinnelige søksmål – forutsatt at dette ikke ble reist utelukkende for å unndra saken fra den domstol som ellers ville ha vært kompetent i hans sak;
+1. om han er en av flere saksøkte, ved domstolene for det sted hvor en av de saksøkte har bosted,[^1] forutsatt at kravene er så nært forbundet at det er ønskelig å forene dem til felles behandling og til felles avgjørelse for å unngå risiko for uforenlige avgjørelser som en følge av separat behandling;
+2. når han på grunn av regressplikt eller av andre grunner innstevnes som tredjemann i en sak av noen av de opprinnelige parter,[^2] ved den domstol som behandler det opprinnelige søksmål – forutsatt at dette ikke ble reist utelukkende for å unndra saken fra den domstol som ellers ville ha vært kompetent i hans sak;
 3. når det gjelder et motkrav vedrørende det samme kontraktforhold eller saksforhold som det opprinnelige krav var basert på, ved den domstol som behandler det opprinnelige krav;
 4. i saker om kontraktforhold, når søksmålet kan forenes med et søksmål vedrørende tinglige rettigheter i fast eiendom og er rettet mot samme saksøkte, ved domstolen i den konvensjonsstat der den faste eiendom ligger.
 
@@ -3611,7 +3611,7 @@ Når en domstol i en konvensjonsstat ifølge konvensjonen her er kompetent i sak
 
 ### Art 8
 
-I forsikringssaker bestemmes vernetinget av reglene i avsnittet her, men likevel slik at artikkel 4 og artikkel 5 nr. 5 får anvendelse.1
+I forsikringssaker bestemmes vernetinget av reglene i avsnittet her, men likevel slik at artikkel 4 og artikkel 5 nr. 5 får anvendelse.[^1]
 
 1 Jf. art. 24.
 
@@ -3619,11 +3619,11 @@ I forsikringssaker bestemmes vernetinget av reglene i avsnittet her, men likevel
 
 1\. En forsikringsgiver med bosted i en konvensjonsstat kan saksøkes:
 
-1. ved domstolene i bostedsstaten,1 eller
+1. ved domstolene i bostedsstaten,[^1] eller
 2. i en annen konvensjonsstat, i tilfeller der søksmålet anlegges av forsikringstakeren, den forsikrede eller en begunstiget, ved domstolene der saksøkeren har sitt bosted, eller
 3. om han er en koassurandør, ved domstolene i en konvensjonsstat der det reises søksmål mot den ledende assurandør.
 
-2\. En forsikringsgiver uten bosted i noen konvensjonsstat, men med en filial, agentur eller liknende forretningskontor i en konvensjonsstat, skal regnes å ha bosted i den sistnevnte stat når det gjelder tvister oppstått som følge av driften av filialen, agenturet eller forretningskontoret.2
+2\. En forsikringsgiver uten bosted i noen konvensjonsstat, men med en filial, agentur eller liknende forretningskontor i en konvensjonsstat, skal regnes å ha bosted i den sistnevnte stat når det gjelder tvister oppstått som følge av driften av filialen, agenturet eller forretningskontoret.[^2]
 
 1 Se art. 2.
 
@@ -3631,13 +3631,13 @@ I forsikringssaker bestemmes vernetinget av reglene i avsnittet her, men likevel
 
 ### Art 10
 
-Gjelder saken ansvarsforsikring eller forsikring av fast eiendom, kan forsikringsgiveren dessuten saksøkes ved domstolene for skadestedet.1 Det samme gjelder om forsikringen dekker både fast eiendom og løsøre, og begge deler er berørt av samme skadetilfelle.
+Gjelder saken ansvarsforsikring eller forsikring av fast eiendom, kan forsikringsgiveren dessuten saksøkes ved domstolene for skadestedet.[^1] Det samme gjelder om forsikringen dekker både fast eiendom og løsøre, og begge deler er berørt av samme skadetilfelle.
 
 1 Jf. art. 5 (3).
 
 ### Art 11
 
-1\. Ved ansvarsforsikring kan forsikringsgiveren også innstevnes i sak som skadelidte har anlagt mot skadevolderen, dersom de rettsregler som gjelder for vedkommende domstol tillater det.1
+1\. Ved ansvarsforsikring kan forsikringsgiveren også innstevnes i sak som skadelidte har anlagt mot skadevolderen, dersom de rettsregler som gjelder for vedkommende domstol tillater det.[^1]
 
 2\. Artiklene 8, 9 og 10 gjelder for søksmål som skadelidte reiser direkte mot forsikringsgiveren, når slike direkte søksmål er tillatt.
 
@@ -3647,9 +3647,9 @@ Gjelder saken ansvarsforsikring eller forsikring av fast eiendom, kan forsikring
 
 ### Art 12
 
-1\. Med unntak for det som følger av artikkel 11 nr. 3, kan en forsikringsgiver bare anlegge søksmål ved domstolene i den konvensjonsstat der saksøkte har sitt bosted,1 uansett om denne er forsikringstaker, den forsikrede eller en begunstiget.
+1\. Med unntak for det som følger av artikkel 11 nr. 3, kan en forsikringsgiver bare anlegge søksmål ved domstolene i den konvensjonsstat der saksøkte har sitt bosted,[^1] uansett om denne er forsikringstaker, den forsikrede eller en begunstiget.
 
-2\. Reglene i avsnittet her hindrer ikke at motkrav reises ved den domstol som i samsvar med avsnittet her behandler det opprinnelige krav.2
+2\. Reglene i avsnittet her hindrer ikke at motkrav reises ved den domstol som i samsvar med avsnittet her behandler det opprinnelige krav.[^2]
 
 1 Jf. art. 2.
 
@@ -3657,11 +3657,11 @@ Gjelder saken ansvarsforsikring eller forsikring av fast eiendom, kan forsikring
 
 ### Art 13
 
-Reglene i avsnittet her kan bare fravikes i en avtale:1
+Reglene i avsnittet her kan bare fravikes i en avtale:[^1]
 
 1. som er inngått etter at tvisten oppsto, eller
 2. som tillater forsikringstakeren, den forsikrede eller en begunstiget å reise søksmål ved andre domstoler enn dem som er nevnt i avsnittet her, eller
-3. som er inngått mellom en forsikringstaker og en forsikringsgiver som begge på avtaletiden har bosted eller fast opphold i den samme konvensjonsstat, når avtalen går ut på at domstolene i denne stat skal være kompetente selv om skaden skulle oppstå i utlandet, forutsatt at en slik avtale ikke er i strid med rettsreglene i denne staten,2 eller
+3. som er inngått mellom en forsikringstaker og en forsikringsgiver som begge på avtaletiden har bosted eller fast opphold i den samme konvensjonsstat, når avtalen går ut på at domstolene i denne stat skal være kompetente selv om skaden skulle oppstå i utlandet, forutsatt at en slik avtale ikke er i strid med rettsreglene i denne staten,[^2] eller
 4. som er inngått med en forsikringstaker som ikke har bosted i noen konvensjonsstat, unntatt når forsikringen er tvungen eller gjelder fast eiendom i en konvensjonsstat, eller
 5. som gjelder en forsikringsavtale som dekker en eller flere av de risikoer som er nevnt i artikkel 14.
 
@@ -3689,15 +3689,15 @@ Artikkel 13 nr. 5 viser til følgende risikoer:
 
 ### Art 15
 
-1\. I saker om kontrakt sluttet av en person, forbrukeren, for formål som må anses å ligge utenfor hans yrke eller ervervsmessige virksomhet, bestemmes vernetinget av reglene i avsnittet her, med forbehold for artikkel 4 og artikkel 5 nr. 5,1 dersom:
+1\. I saker om kontrakt sluttet av en person, forbrukeren, for formål som må anses å ligge utenfor hans yrke eller ervervsmessige virksomhet, bestemmes vernetinget av reglene i avsnittet her, med forbehold for artikkel 4 og artikkel 5 nr. 5,[^1] dersom:
 
 1. det gjelder en kontrakt om kjøp av løsøre hvor kjøpesummen skal betales i rater, eller
 2. det gjelder en kontrakt om lån som skal betales tilbake i rater, eller om noen annen form for kreditt, gitt for å finansiere løsørekjøp, eller
 3. i alle andre tilfeller, når kontrakten er inngått med en person som utøver kommersiell eller ervervsmessig virksomhet i den konvensjonsstat der forbrukeren har bosted, eller på en hvilken som helst annen måte retter slik virksomhet mot denne stat eller mot flere stater inklusive denne stat, og kontrakten er omfattet av denne virksomhet.
 
-2\. Har forbrukerens medkontrahent ikke bosted i noen konvensjonsstat, men har en filial, et agentur eller liknende forretningskontor2 i en konvensjonsstat, skal medkontrahenten anses å ha bosted i den sistnevnte stat i forhold til tvister som springer ut av driften av filialen, agenturet eller forretningskontoret.
+2\. Har forbrukerens medkontrahent ikke bosted i noen konvensjonsstat, men har en filial, et agentur eller liknende forretningskontor[^2] i en konvensjonsstat, skal medkontrahenten anses å ha bosted i den sistnevnte stat i forhold til tvister som springer ut av driften av filialen, agenturet eller forretningskontoret.
 
-3\. Avsnittet her gjelder ikke for transportkontrakter,3 bortsett fra kontrakter som har bestemmelser om en kombinasjon av reise og opphold til en samlet pris.
+3\. Avsnittet her gjelder ikke for transportkontrakter,[^3] bortsett fra kontrakter som har bestemmelser om en kombinasjon av reise og opphold til en samlet pris.
 
 1 Jf. art. 24.
 
@@ -3756,17 +3756,17 @@ Reglene i avsnittet her kan bare fravikes i en vernetingsavtale:
 
 ### Art 22
 
-Følgende domstoler skal være enekompetente,1 uten hensyn til bosted:
+Følgende domstoler skal være enekompetente,[^1] uten hensyn til bosted:
 
 1. i saker om tinglige rettigheter i fast eiendom eller om leie av fast eiendom, domstolene i den konvensjonsstat der eiendommen ligger.
 
    Men i saker om midlertidig leie av fast eiendom til privat bruk for høyst seks på hverandre følgende måneder er også domstolene i den konvensjonsstat der saksøkte har sitt bosted kompetente, forutsatt at leietakeren er en fysisk person og at utleier og leietaker har bosted i samme konvensjonsstat;
 2. i saker om gyldigheten, ugyldigheten eller oppløsningen av selskaper eller andre juridiske personer eller sammenslutninger av fysiske eller juridiske personer eller om gyldigheten av vedtak i deres styrende organer, domstolene i den konvensjonsstat der selskapet, foreningen eller den juridiske person eller sammenslutningen har sitt sete. For å avgjøre hvor setet er, skal domstolen anvende sin egen internasjonale privatrett;
 3. i saker om gyldigheten av en innføring i et offentlig register, domstolene i den konvensjonsstat der registeret føres;
-4. i saker om registrering eller gyldigheten av patenter, varemerker, design eller liknende rettigheter som forutsetter deponering eller registrering, uansett om spørsmålet reises som søksmål eller forsvar, domstolene i den konvensjonsstat der det søkes om deponering eller registrering, eller der deponering eller registrering er skjedd eller ifølge en fellesskapsrettsakt eller en internasjonal konvensjon skal anses å ha skjedd.2
+4. i saker om registrering eller gyldigheten av patenter, varemerker, design eller liknende rettigheter som forutsetter deponering eller registrering, uansett om spørsmålet reises som søksmål eller forsvar, domstolene i den konvensjonsstat der det søkes om deponering eller registrering, eller der deponering eller registrering er skjedd eller ifølge en fellesskapsrettsakt eller en internasjonal konvensjon skal anses å ha skjedd.[^2]
 
    Med forbehold for den kompetanse som Det europeiske patentverket er tillagt i konvensjonen om meddelelse av europeiske patenter undertegnet i München 5. oktober 1973, skal domstolene i den enkelte konvensjonsstat ha eksklusiv kompetanse, uansett bosted, i saker som gjelder registrering eller gyldighet av et europeisk patent som er meddelt i denne stat, og uansett om spørsmålet reises som søksmål eller forsvar.
-5. i saker om fullbyrdelse av dommer, domstolene i den konvensjonsstat der dommen skal fullbyrdes eller er blitt fullbyrdet.3
+5. i saker om fullbyrdelse av dommer, domstolene i den konvensjonsstat der dommen skal fullbyrdes eller er blitt fullbyrdet.[^3]
 
 1 Jf. art. 24 i.f.
 
@@ -3782,7 +3782,7 @@ Følgende domstoler skal være enekompetente,1 uten hensyn til bosted:
 
 1. skriftlig eller muntlig og bekreftet skriftlig, eller
 2. inngått i en form som er i samsvar med en praksis som disse parter har etablert seg imellom, eller
-3. i internasjonal handel, i en form som er i samsvar med en handelsbruk som partene kjente eller burde ha kjent, og som i slik handel er allment kjent blant og regelmessig fulgt av dem som inngår slike kontrakter i tilsvarende type handelsforhold.1
+3. i internasjonal handel, i en form som er i samsvar med en handelsbruk som partene kjente eller burde ha kjent, og som i slik handel er allment kjent blant og regelmessig fulgt av dem som inngår slike kontrakter i tilsvarende type handelsforhold.[^1]
 
 2\. Enhver elektronisk meddelelse som gir en varig dokumentasjon av avtalen om verneting, skal sidestilles med «skriftlig».
 
@@ -3810,9 +3810,9 @@ Reises søksmål ved en domstol i en konvensjonsstat og søksmålets gjenstand h
 
 2\. Domstolen skal utsette forhandlingene til det er fastslått at saksøkte er blitt satt i stand til å motta det innledende prosesskriv i saken, eller et tilsvarende dokument, i tilstrekkelig tid for å forberede sitt forsvar, eller at alle nødvendige skritt i så måte er blitt tatt.
 
-3\. I stedet for bestemmelsene i nr. 2 skal artikkel 15 i Haagkonvensjonen 15. november 1965 om forkynnelse i utlandet av rettslige og utenrettslige dokumenter i sivile og kommersielle saker1 gjelde såframt det innledende prosesskriv i saken, eller et tilsvarende dokument, skulle oversendes i samsvar med den konvensjonen.
+3\. I stedet for bestemmelsene i nr. 2 skal artikkel 15 i Haagkonvensjonen 15. november 1965 om forkynnelse i utlandet av rettslige og utenrettslige dokumenter i sivile og kommersielle saker[^1] gjelde såframt det innledende prosesskriv i saken, eller et tilsvarende dokument, skulle oversendes i samsvar med den konvensjonen.
 
-4\. Medlemsstater i Det europeiske fellesskap som er bundet av rådsforordning [(EF) nr. 1348/2000](eu/32000r1348) av 29. mai 20002 eller av avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om forkynnelse av rettslige og utenrettslige dokumenter i sivile eller kommersielle saker, undertegnet i Brussel 19. oktober 2005, skal i forbindelsene seg imellom anvende bestemmelsen i forordningens artikkel 19 såframt det innledende prosesskriv i saken, eller et tilsvarende dokument, skulle oversendes i samsvar med den forordningen eller den avtalen.
+4\. Medlemsstater i Det europeiske fellesskap som er bundet av rådsforordning [(EF) nr. 1348/2000](eu/32000r1348) av 29. mai 2000[^2] eller av avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om forkynnelse av rettslige og utenrettslige dokumenter i sivile eller kommersielle saker, undertegnet i Brussel 19. oktober 2005, skal i forbindelsene seg imellom anvende bestemmelsen i forordningens artikkel 19 såframt det innledende prosesskriv i saken, eller et tilsvarende dokument, skulle oversendes i samsvar med den forordningen eller den avtalen.
 
 1 Ratifisert av Norge, jf. [dl. § 180](lov/1915-08-13-5/§180), og alle EU- og EFTA-stater unntatt Østerrike. Jf. Luganokonvensjonen 2007 protokoll 1 art. I.
 
@@ -3822,7 +3822,7 @@ Reises søksmål ved en domstol i en konvensjonsstat og søksmålets gjenstand h
 
 ### Art 27
 
-1\. Dersom søksmål som har samme tvistegjenstand, hviler på samme grunnlag, og som reises mellom de samme parter, anlegges ved domstoler i ulike konvensjonsstater, skal alle andre domstoler enn den som saken først er reist ved,1 av eget tiltak utsette forhandlingene til det er avgjort om den første domstol er kompetent.
+1\. Dersom søksmål som har samme tvistegjenstand, hviler på samme grunnlag, og som reises mellom de samme parter, anlegges ved domstoler i ulike konvensjonsstater, skal alle andre domstoler enn den som saken først er reist ved,[^1] av eget tiltak utsette forhandlingene til det er avgjort om den første domstol er kompetent.
 
 2\. Når det er avgjort at den første domstol er kompetent, skal alle andre domstoler erklære seg inkompetente til fordel for denne domstol.
 
@@ -3830,7 +3830,7 @@ Reises søksmål ved en domstol i en konvensjonsstat og søksmålets gjenstand h
 
 ### Art 28
 
-1\. Er konnekse krav til behandling ved domstoler i ulike konvensjonsstater, kan enhver annen domstol enn den som søksmål først ble reist ved,1 utsette behandlingen.
+1\. Er konnekse krav til behandling ved domstoler i ulike konvensjonsstater, kan enhver annen domstol enn den som søksmål først ble reist ved,[^1] utsette behandlingen.
 
 2\. Så lenge sakene behandles i første instans, kan etter begjæring fra en av partene enhver annen domstol enn den som søksmål først er reist ved, også erklære seg inkompetent dersom den første domstolen er kompetent til å behandle de aktuelle krav og dens rettsregler tillater forening av kravene.
 
@@ -3840,7 +3840,7 @@ Reises søksmål ved en domstol i en konvensjonsstat og søksmålets gjenstand h
 
 ### Art 29
 
-Hører kravene inn under flere domstolers eksklusive kompetanse,1 skal alle andre domstoler enn den som søksmål først er reist ved,2 erklære seg inkompetente til fordel for den første domstol.
+Hører kravene inn under flere domstolers eksklusive kompetanse,[^1] skal alle andre domstoler enn den som søksmål først er reist ved,[^2] erklære seg inkompetente til fordel for den første domstol.
 
 1 Jf. art. 8-24.
 
@@ -3863,7 +3863,7 @@ Det kan for domstolene i en konvensjonsstat begjæres slike bevarende og andre m
 
 ### Art 32
 
-I konvensjonen her menes med «dom» enhver avgjørelse truffet av en domstol1 i en konvensjonsstat, uten hensyn til hva den kalles, herunder kjennelse, fullbyrdelsesordre eller avgjørelse om sakskostnader truffet av en tjenestemann ved domstolen.
+I konvensjonen her menes med «dom» enhver avgjørelse truffet av en domstol[^1] i en konvensjonsstat, uten hensyn til hva den kalles, herunder kjennelse, fullbyrdelsesordre eller avgjørelse om sakskostnader truffet av en tjenestemann ved domstolen.
 
 1 Jf. art. 62.
 
@@ -3871,7 +3871,7 @@ I konvensjonen her menes med «dom» enhver avgjørelse truffet av en domstol1 i
 
 ### Art 33
 
-1\. En dom1 avsagt i en konvensjonsstat (opphavsstaten) skal anerkjennes i de andre konvensjonsstater (mottakerstater) uten noen særskilt prosedyre.2
+1\. En dom[^1] avsagt i en konvensjonsstat (opphavsstaten) skal anerkjennes i de andre konvensjonsstater (mottakerstater) uten noen særskilt prosedyre.[^2]
 
 2\. Bestrides et krav, kan enhver med rettslig interesse og som prinsipalt krever dommens anerkjennelse, begjære å få avgjort etter framgangsmåten i kapitlet her avsnitt 2 og 3 om dommen skal anerkjennes.
 
@@ -3883,10 +3883,10 @@ I konvensjonen her menes med «dom» enhver avgjørelse truffet av en domstol1 i
 
 ### Art 34
 
-En dom1 skal ikke anerkjennes dersom:
+En dom[^1] skal ikke anerkjennes dersom:
 
-1. anerkjennelse åpenbart vil virke støtende på rettsordenen («ordre public») i mottakerstaten;2
-2. den er en fraværsdom og saksøkte ikke fikk forkynt det innledende prosesskriv, eller et tilsvarende dokument i tilstrekkelig tid og på en slik måte at han har kunnet forberede sitt forsvar, med mindre saksøkte unnlot å påklage dommen mens han hadde mulighet til det;3
+1. anerkjennelse åpenbart vil virke støtende på rettsordenen («ordre public») i mottakerstaten;[^2]
+2. den er en fraværsdom og saksøkte ikke fikk forkynt det innledende prosesskriv, eller et tilsvarende dokument i tilstrekkelig tid og på en slik måte at han har kunnet forberede sitt forsvar, med mindre saksøkte unnlot å påklage dommen mens han hadde mulighet til det;[^3]
 3. den er uforenlig med en dom avsagt i en tvist mellom de samme parter i mottakerstaten;
 4. den er uforenlig med en tidligere dom som har den samme tvistegjenstand, hviler på det samme grunnlag og er avsagt i en annen konvensjonsstat eller i en tredjestat mellom de samme parter, såframt den tidligere dommen fyller vilkårene for anerkjennelse i mottakerstaten.
 
@@ -3898,7 +3898,7 @@ En dom1 skal ikke anerkjennes dersom:
 
 ### Art 35
 
-1\. En dom1 skal videre ikke anerkjennes dersom den strider mot reglene i [kapittel II](lov/2005-06-17-90/kapii) avsnitt 3, 4 eller 6, eller i tilfelle som nevnt i artikkel 68. En dom kan dessuten nektes anerkjent i tilfelle som nevnt i artikkel 64 nr. 3 eller artikkel 67 nr. 4.
+1\. En dom[^1] skal videre ikke anerkjennes dersom den strider mot reglene i [kapittel II](lov/2005-06-17-90/kapii) avsnitt 3, 4 eller 6, eller i tilfelle som nevnt i artikkel 68. En dom kan dessuten nektes anerkjent i tilfelle som nevnt i artikkel 64 nr. 3 eller artikkel 67 nr. 4.
 
 2\. Ved prøvingen av de kompetanseregler som er nevnt i foregående ledd, er den domstol eller annen myndighet som begjæringen om anerkjennelse er rettet til, bundet av det faktiske forhold som domstolen i opphavsstaten har lagt til grunn.
 
@@ -3914,7 +3914,7 @@ Ikke i noe tilfelle kan den utenlandske dommen etterprøves når det gjelder rea
 
 ### Art 37
 
-1\. Den domstol i en konvensjonsstat som behandler spørsmålet om anerkjennelse av en dom avsagt i en annen konvensjonsstat, kan utsette behandlingen dersom en ordinær innsigelse (appell) mot dommen er inngitt.2
+1\. Den domstol i en konvensjonsstat som behandler spørsmålet om anerkjennelse av en dom avsagt i en annen konvensjonsstat, kan utsette behandlingen dersom en ordinær innsigelse (appell) mot dommen er inngitt.[^2]
 
 2\. Den domstol i en konvensjonsstat som behandler spørsmålet om anerkjennelse av en dom avsagt i Irland eller Storbritannia, kan utsette behandlingen dersom tvangskraften er utsatt i opphavsstaten fordi det er anvendt rettsmidler mot dommen.
 
@@ -3926,7 +3926,7 @@ Ikke i noe tilfelle kan den utenlandske dommen etterprøves når det gjelder rea
 
 ### Art 38
 
-1\. En dom som er avsagt i en konvensjonsstat og som er tvangskraftig der,1 skal fullbyrdes i en annen konvensjonsstat (mottakerstaten) når den er blitt erklært tvangskraftig i denne staten etter begjæring fra en part med rettslig interesse.
+1\. En dom som er avsagt i en konvensjonsstat og som er tvangskraftig der,[^1] skal fullbyrdes i en annen konvensjonsstat (mottakerstaten) når den er blitt erklært tvangskraftig i denne staten etter begjæring fra en part med rettslig interesse.
 
 2\. Men i Storbritannia skal en dom fullbyrdes i England og Wales, i Skottland eller i Nord-Irland når den er blitt registrert som tvangskraftig i den delen av Storbritannia etter begjæring fra en part med rettslig interesse.
 
@@ -3948,7 +3948,7 @@ Ikke i noe tilfelle kan den utenlandske dommen etterprøves når det gjelder rea
 
 ### Art 41
 
-Dommen skal erklæres tvangskraftig så snart formalitetene omhandlet i artikkel 53 er oppfylt, uten prøving etter artiklene 34 og 35.1 Den part som fullbyrdelse begjæres overfor har ikke rett til å sette fram merknader på dette stadium.2
+Dommen skal erklæres tvangskraftig så snart formalitetene omhandlet i artikkel 53 er oppfylt, uten prøving etter artiklene 34 og 35.[^1] Den part som fullbyrdelse begjæres overfor har ikke rett til å sette fram merknader på dette stadium.[^2]
 
 1 Se også art. 61.
 
@@ -4012,9 +4012,9 @@ En utenlandsk dom på tvangsmulkt kan bare fullbyrdes i mottakerstaten hvis mulk
 
 ### Art 50
 
-1\. Har den som begjærer fullbyrdelse, helt eller delvis nytt godt av fri sakførsel eller rettshjelp, herunder eventuelt også helt eller delvis gebyrfritak i opphavsstaten, skal han ved saksbehandlingen etter reglene i avsnittet her nyte godt av friest mulig sakførsel eller rettshjelp, eller i tilfelle også videst mulig gebyrfritak, etter rettsreglene i mottakerstaten.1
+1\. Har den som begjærer fullbyrdelse, helt eller delvis nytt godt av fri sakførsel eller rettshjelp, herunder eventuelt også helt eller delvis gebyrfritak i opphavsstaten, skal han ved saksbehandlingen etter reglene i avsnittet her nyte godt av friest mulig sakførsel eller rettshjelp, eller i tilfelle også videst mulig gebyrfritak, etter rettsreglene i mottakerstaten.[^1]
 
-2\. Den som begjærer fullbyrdelse av en avgjørelse om underholdsplikt truffet av et forvaltningsorgan i Danmark, Island eller Norge2 skal i mottakerstaten nyte godt av den støtte og de fritak som er nevnt i første ledd dersom han legger fram en erklæring fra henholdsvis det danske, det islandske eller det norske justisministerium om at han oppfyller vilkårene for helt eller delvis fri sakførsel eller rettshjelp, herunder eventuelt gebyrfritak.
+2\. Den som begjærer fullbyrdelse av en avgjørelse om underholdsplikt truffet av et forvaltningsorgan i Danmark, Island eller Norge[^2] skal i mottakerstaten nyte godt av den støtte og de fritak som er nevnt i første ledd dersom han legger fram en erklæring fra henholdsvis det danske, det islandske eller det norske justisministerium om at han oppfyller vilkårene for helt eller delvis fri sakførsel eller rettshjelp, herunder eventuelt gebyrfritak.
 
 1 Jf. art. 54 og Vedlegg V, se [lov 13 juni 1980 nr. 35](lov/1980-06-13-35).
 
@@ -4022,13 +4022,13 @@ En utenlandsk dom på tvangsmulkt kan bare fullbyrdes i mottakerstaten hvis mulk
 
 ### Art 51
 
-En part som begjærer fullbyrdelse i en konvensjonsstat av en dom avsagt i en annen konvensjonsstat, kan ikke pålegges noen form for sikkerhetsstillelse, depositum eller liknende,1 bare fordi han er utenlandsk statsborger eller ikke har bosted eller opphold i mottakerstaten.
+En part som begjærer fullbyrdelse i en konvensjonsstat av en dom avsagt i en annen konvensjonsstat, kan ikke pålegges noen form for sikkerhetsstillelse, depositum eller liknende,[^1] bare fordi han er utenlandsk statsborger eller ikke har bosted eller opphold i mottakerstaten.
 
 1 Jf. art. 52.
 
 ### Art 52
 
-Det må i fullbyrdelsesstaten ikke pålegges gebyr, avgift eller liknende betaling beregnet ut fra tvistegjenstandens verdi for behandling av en begjæring om en avgjørelse som erklærer en dom for tvangskraftig.1
+Det må i fullbyrdelsesstaten ikke pålegges gebyr, avgift eller liknende betaling beregnet ut fra tvistegjenstandens verdi for behandling av en begjæring om en avgjørelse som erklærer en dom for tvangskraftig.[^1]
 
 1 Jf. art. 51.
 
@@ -4052,7 +4052,7 @@ Domstolen eller kompetent myndighet i en konvensjonsstat der en dom er avsagt, s
 
 ### Art 56
 
-Det skal ikke kreves legalisering eller tilsvarende formalitet1 med hensyn til de dokumenter som er nevnt i artikkel 53 eller artikkel 55 nr. 2, eller med hensyn til prosessfullmakt.
+Det skal ikke kreves legalisering eller tilsvarende formalitet[^1] med hensyn til de dokumenter som er nevnt i artikkel 53 eller artikkel 55 nr. 2, eller med hensyn til prosessfullmakt.
 
 1 Jf. Haagkonvensjonen 5 okt 1961 om avskaffelse av legalisering art. 3-4.
 
@@ -4090,7 +4090,7 @@ Et forlik som er inngått for retten under behandlingen av tvistemålet og som h
 
 2\. For Storbritannia og Irland menes med «vedtektsbestemt sete» registrert forretningskontor eller, dersom det ikke finnes, stedet der selskapet er registrert eller, dersom det ikke finnes, stedet i henhold til hvis rettsregler stiftelsen fant sted.
 
-3\. For å avgjøre om en «trust» har bosted i den konvensjonsstat hvor saken er reist, skal retten anvende sin egen internasjonale privatrett.1
+3\. For å avgjøre om en «trust» har bosted i den konvensjonsstat hvor saken er reist, skal retten anvende sin egen internasjonale privatrett.[^1]
 
 1 Jf. art. 5 (6).
 
@@ -4113,13 +4113,13 @@ I konvensjonen her omfatter uttrykket «domstol» enhver myndighet som en konven
 1. dersom saken ble reist i opphavsstaten etter at Luganokonvensjonen av 16. september 1988 trådte i kraft både i opphavsstaten og i mottakerstaten;
 2. i alle andre tilfeller, dersom domstolenes kompetanse bygde på regler som er i samsvar med reglene i enten [kapittel II](lov/2005-06-17-90/kapii) eller i en konvensjon som var i kraft mellom opphavsstaten og mottakerstaten da saken ble reist.
 
-### Kapittel VII. Forholdet til rådsforordning (EF) nr. 44/20011 og andre instrumenter
+### Kapittel VII. Forholdet til rådsforordning (EF) nr. 44/2001[^1] og andre instrumenter
 
 1 Rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) er erstattet av rådsforordning [(EF) nr. 1215/2012](eu/32012r1215) (ikr. 10 jan 2015).
 
 ### Art 64
 
-1\. Konvensjonen her er ikke til hinder for at medlemsstatene i Det europeiske fellesskap anvender rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, med eventuelle endringer,1 konvensjonen om jurisdiksjon og fullbyrdelse av dommer i sivile og kommersielle saker, inngått i Brussel 27. september 1968, samt protokollen om tolking av den konvensjonen ved De europeiske fellesskaps domstol, inngått i Luxembourg 3. juni 1971, som endret ved konvensjoner om tilslutning til nevnte konvensjon og protokoll inngått mellom medlemsstatene i De europeiske fellesskap, så vel som avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, undertegnet i Brussel 19. oktober 2005.
+1\. Konvensjonen her er ikke til hinder for at medlemsstatene i Det europeiske fellesskap anvender rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, med eventuelle endringer,[^1] konvensjonen om jurisdiksjon og fullbyrdelse av dommer i sivile og kommersielle saker, inngått i Brussel 27. september 1968, samt protokollen om tolking av den konvensjonen ved De europeiske fellesskaps domstol, inngått i Luxembourg 3. juni 1971, som endret ved konvensjoner om tilslutning til nevnte konvensjon og protokoll inngått mellom medlemsstatene i De europeiske fellesskap, så vel som avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker, undertegnet i Brussel 19. oktober 2005.
 
 2\. Konvensjonen her skal likevel alltid anvendes:
 
@@ -4127,7 +4127,7 @@ I konvensjonen her omfatter uttrykket «domstol» enhver myndighet som en konven
 2. i spørsmål om litispendens eller konnekse krav som nevnt i artiklene 27 og 28, når sak reises i en stat der konvensjonen her får anvendelse, men ikke et instrument nevnt i nr. 1, og i en stat der konvensjonen her får anvendelse, så vel som et instrument nevnt i nr. 1;
 3. i spørsmål om anerkjennelse og fullbyrdelse, når enten opphavsstaten eller mottakerstaten ikke anvender et instrument nevnt i nr. 1.
 
-3\. Foruten av de grunner som er nevnt i [kapittel III](lov/2005-06-17-90/kapiii) kan anerkjennelse eller fullbyrdelse nektes når det kompetansegrunnlag dommen bygger på, avviker fra det som ville følge av konvensjonen her, og anerkjennelse eller fullbyrdelse begjæres overfor en part som har bosted i en stat der konvensjonen her, men ikke et instrument nevnt i nr. 1 får anvendelse, med mindre dommen etter de rettsregler som ellers måtte gjelde i mottakerstaten likevel kan anerkjennes eller fullbyrdes.2
+3\. Foruten av de grunner som er nevnt i [kapittel III](lov/2005-06-17-90/kapiii) kan anerkjennelse eller fullbyrdelse nektes når det kompetansegrunnlag dommen bygger på, avviker fra det som ville følge av konvensjonen her, og anerkjennelse eller fullbyrdelse begjæres overfor en part som har bosted i en stat der konvensjonen her, men ikke et instrument nevnt i nr. 1 får anvendelse, med mindre dommen etter de rettsregler som ellers måtte gjelde i mottakerstaten likevel kan anerkjennes eller fullbyrdes.[^2]
 
 1 Rådsforordning [(EF) nr. 44/2001](eu/32001r0044*) er erstattet av rådsforordning [(EF) nr. 1215/2012](eu/32012r1215) (ikr. 10 jan 2015).
 
@@ -4145,13 +4145,13 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 ### Art 67
 
-1\. Konvensjonen her berører ikke konvensjoner1 som konvensjonspartene og/eller konvensjonsstatene er bundet av, og som regulerer domsmyndighet eller anerkjennelse eller fullbyrdelse av dommer på særskilt avgrensede saksfelter. Med forbehold for de forpliktelser som følger av andre avtaler mellom visse konvensjonsparter, skal konvensjonen her ikke være til hinder for at konvensjonspartene inngår slike konvensjoner.
+1\. Konvensjonen her berører ikke konvensjoner[^1] som konvensjonspartene og/eller konvensjonsstatene er bundet av, og som regulerer domsmyndighet eller anerkjennelse eller fullbyrdelse av dommer på særskilt avgrensede saksfelter. Med forbehold for de forpliktelser som følger av andre avtaler mellom visse konvensjonsparter, skal konvensjonen her ikke være til hinder for at konvensjonspartene inngår slike konvensjoner.
 
 2\. Konvensjonen her hindrer ikke en domstol i en stat bundet av konvensjonen her, og av en konvensjon om et særskilt avgrenset saksfelt, i å ta domsmyndighet i henhold til sistnevnte konvensjon, selv om saksøkte har bosted i en annen konvensjonsstat som ikke har sluttet seg til den konvensjonen. Den domstol som behandler saken, skal likevel alltid anvende artikkel 26 i konvensjonen her.
 
 3\. Dommer avsagt i en konvensjonsstat av en domstol som var kompetent i kraft av en konvensjon om et særskilt avgrenset saksfelt skal anerkjennes og fullbyrdes i de andre konvensjonsstatene etter reglene i kapittel III i konvensjonen her.
 
-4\. Foruten av de grunner som er nevnt i [kapittel III](lov/2005-06-17-90/kapiii) kan anerkjennelse eller fullbyrdelse nektes dersom mottakerstaten ikke er bundet av konvensjonen på et særskilt avgrenset saksfelt og den person som anerkjennelse eller fullbyrdelse begjæres overfor, har bosted i den staten eller, dersom mottakerstaten er en medlemsstat i Det europeiske fellesskap og med hensyn til konvensjoner som vil måtte inngås av Det europeiske fellesskap, i en av dets medlemsstater, med mindre dommen likevel kan anerkjennes eller fullbyrdes etter de rettsregler som ellers måtte gjelde i mottakerstaten.2
+4\. Foruten av de grunner som er nevnt i [kapittel III](lov/2005-06-17-90/kapiii) kan anerkjennelse eller fullbyrdelse nektes dersom mottakerstaten ikke er bundet av konvensjonen på et særskilt avgrenset saksfelt og den person som anerkjennelse eller fullbyrdelse begjæres overfor, har bosted i den staten eller, dersom mottakerstaten er en medlemsstat i Det europeiske fellesskap og med hensyn til konvensjoner som vil måtte inngås av Det europeiske fellesskap, i en av dets medlemsstater, med mindre dommen likevel kan anerkjennes eller fullbyrdes etter de rettsregler som ellers måtte gjelde i mottakerstaten.[^2]
 
 5\. Har både opphavsstaten og mottakerstaten sluttet seg til en konvensjon om et særskilt avgrenset saksfelt og den konvensjonen inneholder egne vilkår for anerkjennelse eller fullbyrdelse av dommer, skal disse vilkår anvendes. I alle tilfelle kan bestemmelsene i konvensjonen her om framgangsmåten ved anerkjennelse og fullbyrdelse anvendes.
 
@@ -4178,9 +4178,9 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 3\. På tidspunktet for ratifikasjon kan konvensjonspartene avgi erklæringer i samsvar med artikkel I, II og III i protokoll 1.
 
-4\. Konvensjonen trer i kraft den første dag i den sjette måned som følger etter den dag da Det europeiske fellesskap og et medlem av Det europeiske frihandelsforbund har deponert sine ratifikasjonsdokumenter.1
+4\. Konvensjonen trer i kraft den første dag i den sjette måned som følger etter den dag da Det europeiske fellesskap og et medlem av Det europeiske frihandelsforbund har deponert sine ratifikasjonsdokumenter.[^1]
 
-5\. Konvensjonen skal tre i kraft i forhold til enhver annen part den første dag i den tredje måned som følger etter deponeringen av dens ratifikasjonsdokument.2
+5\. Konvensjonen skal tre i kraft i forhold til enhver annen part den første dag i den tredje måned som følger etter deponeringen av dens ratifikasjonsdokument.[^2]
 
 6\. Med forbehold for artikkel 3 nr. 3 i protokoll 2 skal konvensjonen her erstatte konvensjonen om domsmyndighet og fullbyrdelse av dommer i sivile og kommersielle saker vedtatt i Lugano 16. september 1988, fra sin ikrafttredelse i samsvar med nr. 4 og 5 ovenfor. Enhver henvisning til Luganokonvensjonen av 1988 i andre instrumenter, skal forstås som en henvisning til konvensjonen her.
 
@@ -4196,7 +4196,7 @@ Når ikke annet følger av artiklene 63 nr. 2, 66 og 67, skal konvensjonen her e
 
 1. De stater som etter at konvensjonen er åpnet for undertegning, blir medlemmer av Det europeiske frihandelsforbund, på de vilkår som er fastlagt i artikkel 71;
 2. Medlemsstater i Det europeiske fellesskap som handler på vegne av visse territorier utenfor Europa som er en del av vedkommende medlemsstats territorium, eller for hvis internasjonale forbindelser vedkommende medlemsstat er ansvarlig, på de vilkår som er fastlagt i artikkel 71;
-3. enhver annen stat, på de vilkår som er fastlagt i artikkel 72.1
+3. enhver annen stat, på de vilkår som er fastlagt i artikkel 72.[^1]
 
 2\. Stater nevnt i nr. 1 som ønsker å bli part i konvensjonen her, skal rette søknaden til depositaren. Med søknaden, herunder informasjon som er nevnt i artiklene 71 og 72, skal det følge en oversettelse til engelsk og fransk.
 
@@ -4294,11 +4294,11 @@ KONVENSJONSPARTENE ER ENIGE OM FØLGENDE:
 
 ### Art I
 
-1\. Rettslige og utenrettslige dokumenter som er satt opp i en konvensjonsstat og som skal forkynnes for personer i en annen konvensjonsstat, skal formidles i samsvar med framgangsmåten fastsatt i konvensjoner og avtaler inngått mellom disse stater.1
+1\. Rettslige og utenrettslige dokumenter som er satt opp i en konvensjonsstat og som skal forkynnes for personer i en annen konvensjonsstat, skal formidles i samsvar med framgangsmåten fastsatt i konvensjoner og avtaler inngått mellom disse stater.[^1]
 
 2\. Med mindre den konvensjonspart på hvis territorium forkynnelsen skal skje reserverer seg ved en erklæring til depositaren, kan slike dokumenter også sendes fra vedkommende offentlige tjenestemann i den stat hvor dokumentet er satt opp, direkte til vedkommende offentlige tjenestemann i den stat der adressaten befinner seg. Tjenestemannen i opphavsstaten skal i så fall sende en kopi av dokumentet til den tjenestemann i mottakerstaten som har kompetanse til å presentere det for adressaten. Dokumentet skal sendes i samsvar med rettsreglene i mottakerstaten. Sendingen skal fastslås ved en bekreftelse som sendes direkte til tjenestemannen i opphavsstaten.
 
-3\. Medlemsstater i Det europeiske fellesskap som er bundet av rådsforordning [(EF) nr. 1348/2000](eu/32000r1348) av 29. mai 20002 eller av avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om forkynnelse av rettslige og utenrettslige dokumenter i sivile eller kommersielle saker, undertegnet i Brussel 19. oktober 2005, skal i forbindelsene seg imellom anvende den forordningen og den avtalen.
+3\. Medlemsstater i Det europeiske fellesskap som er bundet av rådsforordning [(EF) nr. 1348/2000](eu/32000r1348) av 29. mai 2000[^2] eller av avtalen mellom Det europeiske fellesskap og Kongeriket Danmark om forkynnelse av rettslige og utenrettslige dokumenter i sivile eller kommersielle saker, undertegnet i Brussel 19. oktober 2005, skal i forbindelsene seg imellom anvende den forordningen og den avtalen.
 
 1 Jf. [dl. § 180](lov/1915-08-13-5/§180) og Luganokonvensjonen 2007 art. 26 (3) med henv. i note 1.
 
@@ -4432,7 +4432,7 @@ Vernetingsreglene nevnt i konvensjonen artikkel 3 nr. 2 og artikkel 4 nr. 2 er s
 - i Litauen: artikkel 31 i sivilprosessloven (Civilinio proceso kodeksas),
 - i Luxembourg: artiklene 14 og 15 i sivillovboken (Code civil),
 - i Malta: artiklene 742, 743 og 744 i organisasjons- og sivilprosessloven – [kap. 12](lov/2005-06-17-90/kap12) (Kodiċi ta' Organizzazzjoni u Procedura Ċivili – [Kap](lov/2005-06-17-90/kap12). 12) og artikkel 549 i handelsloven – kap. 13 (Kodiċi tal-kummerc – kap. 13),
-- i Norge: Paragraf 4-3 nr. 21 annet punktum i tvisteloven,
+- i Norge: Paragraf 4-3 nr. 2[^1] annet punktum i tvisteloven,
 - i Polen: artikkel 1103 nr. 4 i sivilprosessloven (Kodeks postępowania cywilnego),
 - i Portugal: artikkel 65 nr. 1b i sivilprosessloven (Código de Processo Civil) for så vidt som den omfatter eksorbitante grunnlag for domsmyndighet, slik som domstolene der filialen, agenturet eller lignende forretningskontor er (hvis beliggende i Portugal) når stevningen ble forkynt for hovedadministrasjonen (hvis beliggende i en annen stat), og artikkel 10 i arbeidsprosessloven (Código de Processo de Trabalho), for så vidt som den omfatter eksorbitante grunnlag for domsmyndighet, slik som domstolen der saksøkeren har sitt bosted i saker om individuelle arbeidskontrakter når arbeidstakeren reiser søksmål mot arbeidsgiveren.
 - i Romania: artiklene 148 til 157 i lov nr. 105/1992 om internasjonal privatrettslige forhold,
@@ -4583,18 +4583,18 @@ Bekreftelse på dom og rettsforlik som omhandlet i artiklene 54 og 58 i konvensj
 2.1. Navn
 2.2. Adresse
 2.3. Tlf/Faks/E-post
-3\. Domstol som har avsagt dommen/godkjent rettsforliket\*
+3\. Domstol som har avsagt dommen/godkjent rettsforliket[^\*]
 3.1. Type domstol
 3.2. Rettssted
-4\. Dom/rettsforlik\*
+4\. Dom/rettsforlik[^\*]
 4.1. Dato
 4.2. Referansenummer
-4.3. Partene i dommen/rettsforliket\*
+4.3. Partene i dommen/rettsforliket[^\*]
 4.3.1. Navn på saksøker(e)
 4.3.2. Navn på saksøkte
 4.3.3. Navn på eventuelle andre parter
 4.4. Dato for forkynnelse av det innledende prosesskrift i saken, dersom det er en fraværsdom
-4.5. Dommen/rettsforliket\* er vedlagt denne bekreftelse
+4.5. Dommen/rettsforliket[^\*] er vedlagt denne bekreftelse
 5\. Navn på parter som har fått fri rettshjelp
 
 Dommen/rettsforliket\* er tvangskraftig i opphavsstaten (konvensjonen artikkel 38/58) mot:

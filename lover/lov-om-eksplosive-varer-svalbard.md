@@ -15,7 +15,7 @@ xml_hash: "4b60744ecd3f326d15d15fd0ead5dacd53312d06413bbd1522b71a354f1cc7d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ Departementet kan ved forskrift bestemme at maskin, apparat, beholder eller anne
 
 ### § 4 a. Produktgodkjenning
 
-Produkt underlagt godkjenningsplikt i henhold til [§§ 3](lov/1974-06-14-39/§3) eller [4](lov/1974-06-14-39/§4) som er produsert og kontrollert i overensstemmelse med regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge, anses godkjent i henhold til loven.2
+Produkt underlagt godkjenningsplikt i henhold til [§§ 3](lov/1974-06-14-39/§3) eller [4](lov/1974-06-14-39/§4) som er produsert og kontrollert i overensstemmelse med regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge, anses godkjent i henhold til loven.[^2]
 
 > Tilføyd ved [lov 27 nov 1992 nr. 115](lov/1992-11-27-115) (ikr. 1 jan 1994), endret ved [lov 8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
@@ -411,7 +411,7 @@ Departementet kan i forskrifter også fastsette bestemmelser om flytting av eksp
 
 ### § 32. Tillatelse til innførsel, utførsel og overføring.
 
-Den som vil innføre eller utføre eksplosiv vare må ha tillatelse av departementet. For søknad herom gjelder [§ 16](lov/1974-06-14-39/§16) tredje ledd tilsvarende. Tillatelse til innførsel og utførsel gjelder også som tillatelse til overføring når dette kreves i henhold til regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge.2 Tillatelse til overføring kreves også for innførsel og utførsel av ammunisjon som er omfattet av andre ledd så langt dette er nødvendig som følge av slik internasjonal avtale.
+Den som vil innføre eller utføre eksplosiv vare må ha tillatelse av departementet. For søknad herom gjelder [§ 16](lov/1974-06-14-39/§16) tredje ledd tilsvarende. Tillatelse til innførsel og utførsel gjelder også som tillatelse til overføring når dette kreves i henhold til regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge.[^2] Tillatelse til overføring kreves også for innførsel og utførsel av ammunisjon som er omfattet av andre ledd så langt dette er nødvendig som følge av slik internasjonal avtale.
 
 Unntatt fra kravet om tillatelse etter første ledd er ammunisjon som innføres eller utføres etter reglene i lov av 9 juni 1961 om skytevåpen og ammunisjon m.v. samt de pyrotekniske varer som kan innføres eller utføres etter forskrifter fastsatt av departementet.
 
@@ -449,7 +449,7 @@ Departementet kan gi forskrifter om bruk av eksplosiv vare, herunder om utleveri
 
 ### § 36. Tilsynsmyndighetene.
 
-Direktoratet for brann- og eksplosjonsvern,2 kommunestyret og for øvrig de myndigheter Kongen bestemmer, fører tilsyn med at reglene i denne lov og vedtak i medhold av loven blir overholdt.
+Direktoratet for brann- og eksplosjonsvern,[^2] kommunestyret og for øvrig de myndigheter Kongen bestemmer, fører tilsyn med at reglene i denne lov og vedtak i medhold av loven blir overholdt.
 
 [Lov av 21 mai 1971 nr. 47 om brannfarlige varer § 35](lov/1971-05-21-47/§35) annet, fjerde, femte og sjette ledd gjelder tilsvarende for denne lov.
 
@@ -556,7 +556,7 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 
 ### § 45. Ikrafttreden. Oppheving og endring av andre lover.
 
-1. Denne lov trer i kraft fra den tid Kongen bestemmer.1 Det kan fastsettes særskilt tidspunkt for lovens ikrafttreden på Svalbard.2
+1. Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Det kan fastsettes særskilt tidspunkt for lovens ikrafttreden på Svalbard.[^2]
 2. Fra samme tid oppheves lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande §§ 1-13, [§ 21](lov/1974-06-14-39/§21) og §§ 23-27.
 3. Fra samme tid gjøres følgende endringer: – – –.
 

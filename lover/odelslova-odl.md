@@ -15,7 +15,7 @@ xml_hash: "81af2c7ba55484db7c06fc3ae5beba853886fe286482167698cebefca4ac07d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -718,7 +718,7 @@ Føresegnene i dette kapitlet gjeld tilsvarande for krav om tilbakesøkjing ette
 
 ### § 77. Ikraftsetting
 
-Denne lova trer i kraft frå den tid Kongen fastset,1 jfr. likevel [§ 78](lov/1974-06-28-58/§78).
+Denne lova trer i kraft frå den tid Kongen fastset,[^1] jfr. likevel [§ 78](lov/1974-06-28-58/§78).
 
 Etternemnde lover blir frå same tid endra eller oppheva slik: – – –
 

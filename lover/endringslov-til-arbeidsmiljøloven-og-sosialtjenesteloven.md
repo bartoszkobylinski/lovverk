@@ -15,7 +15,7 @@ xml_hash: "a72f1021de94a72592508d91ddfe14c7145fc970325c53d6a6a1e08bd0afd14f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ I [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arb
 
 ## III
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Endringene i [arbeidsmiljøloven §§ 14-6](lov/2005-06-17-62/§14-6) første ledd bokstav e og [14-9](lov/2005-06-17-62/§14-9) nytt sjette ledd gjelder arbeidsavtaler som er inngått etter lovens ikrafttredelsestidspunkt.
 

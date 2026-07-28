@@ -15,7 +15,7 @@ xml_hash: "24a940a5638fb6fe216d9243a061e83e107620abaf4de5a92d45fb6cbeb37a9f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -275,7 +275,7 @@ Loven gjelder skade som voldes i riket med Svalbard. Loven gjelder også skade v
 
 ### § 20. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Loven kan settes i kraft særskilt for den offentlige helsetjenesten og for helsehjelp utenfor den offentlige helsetjenesten.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Loven kan settes i kraft særskilt for den offentlige helsetjenesten og for helsehjelp utenfor den offentlige helsetjenesten.
 
 > Endret ved [lov 20 des 2002 nr. 102](lov/2002-12-20-102) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1624](forskrift/2002-12-20-1624)).
 

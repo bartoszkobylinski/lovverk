@@ -15,7 +15,7 @@ xml_hash: "d37ccbbeae3f5222488b74cedd4081c90bc0b672c958790f85368f29982b3dc0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -647,7 +647,7 @@ Dersom en ansatt opptrer i strid med forbudet i første ledd, skal den ansatte b
 
 ### § 44. Ikrafttredelses- og overgangsregler
 
-Loven trer i kraft fra det tidspunktet1 Kongen bestemmer.
+Loven trer i kraft fra det tidspunktet[^1] Kongen bestemmer.
 
 Fra samme tidspunkt oppheves [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleutdanning.
 

@@ -15,7 +15,7 @@ xml_hash: "68caeb0d097210130b7e5119cabab7c3d3f5880df3a9571c138b7966b3184643"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,6 +75,6 @@ Departementet kan gi forskrift om klagenemnda og om saksbehandlingen i nemnda.
 
 ## III
 
-Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
 
 1 Fra 1. august 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141).

@@ -15,7 +15,7 @@ xml_hash: "918b0c10f5959cf5b0019c20f76e026459fcd356eabf04db1f5de2a6c606ce15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32019R0817"
@@ -66,7 +66,7 @@ I [lov 20. desember 2023 nr. 110 om endringer i konfliktrådsloven, straffeloven
 
 ## VII
 
-1. Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Del VI trer i kraft straks.
 3. Kongen kan gi nærmere overgangsregler.
 

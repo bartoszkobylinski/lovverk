@@ -15,7 +15,7 @@ xml_hash: "1c69fe4ff8a2d5f8182050de636ecd170c662c3ae9a503f3eeee5d84327c84ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -331,7 +331,7 @@ Departementet kan i forskrift gi regler om Finanstilsynets behandling av saker s
 
 ### § 7-1. Ikrafttreden
 
-(1) Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
+(1) Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
 
 (2) Fra den tid loven trer i kraft, oppheves [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv.](lov/1956-12-07-1) Forskrifter gitt i medhold av [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv.](lov/1956-12-07-1) gjelder også etter at loven her har trådt i kraft.
 

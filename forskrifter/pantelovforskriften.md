@@ -15,7 +15,7 @@ xml_hash: "826c280b8e2c7239624d6f8d4a6bb2eb2a86972516f6e9749b71687cf85a7200"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. (næringsdrivende).
 
-Som næringsdrivende etter [panteloven § 3-5](lov/1980-02-08-2/§3-5) reknes:1
+Som næringsdrivende etter [panteloven § 3-5](lov/1980-02-08-2/§3-5) reknes:[^1]
 
 1. foretak registrert i Foretaksregisteret
 2. sykehus, pleiehjem, skole (herunder brevskole og språkskole), universitet, museum, idretts- og fritidsinstitusjoner (herunder idrettslag) og andre institusjoner av sosialt, humanitært eller liknende art, selv om de ikke blir drevet med sikte på fortjeneste.

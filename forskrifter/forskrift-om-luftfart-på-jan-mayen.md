@@ -15,14 +15,14 @@ xml_hash: "9bfa6d48a82985ae1228dbf4552ddd45c8ae6e6657e4086eb1fefa1ef1ee0d7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om luftfart på Jan Mayen.
 
-Med hjemmel i [lov av 27. februar 1930 nr. 2](lov/1930-02-27-2) om Jan Mayen [§ 2](lov/1930-02-27-2/§2) og [kgl.res. av 15. mars 1996 nr. 270](forskrift/1996-03-15-270), gjøres [lov av 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart og de forskrifter som gjelder i henhold til den,1 gyldig for Jan Mayen i samme utstrekning som bestemt for Norge for øvrig.
+Med hjemmel i [lov av 27. februar 1930 nr. 2](lov/1930-02-27-2) om Jan Mayen [§ 2](lov/1930-02-27-2/§2) og [kgl.res. av 15. mars 1996 nr. 270](forskrift/1996-03-15-270), gjøres [lov av 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart og de forskrifter som gjelder i henhold til den,[^1] gyldig for Jan Mayen i samme utstrekning som bestemt for Norge for øvrig.
 
 Samferdselsdepartementet kan unnta enkelte av de i første ledd nevnte forskrifter fra å gjelde og kan utferdige tillempingsforskrifter. Tilsvarende myndighet har Forsvarsdepartementet for den militære luftfarts vedkommende.
 

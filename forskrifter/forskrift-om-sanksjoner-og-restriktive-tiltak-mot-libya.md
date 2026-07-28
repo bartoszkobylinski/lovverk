@@ -15,7 +15,7 @@ xml_hash: "056522d73f6d520fc8b5f084aea71d2a9ac733e53690ae8ce4efef095b17f4e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,7 +59,7 @@ eu_basis: []
 
 ## § 3. Avlisting
 
-Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 6 nr. 1 i vedlagte forordning retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs sikkerhetsrådsresolusjon 1730 (2006).1
+Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 6 nr. 1 i vedlagte forordning retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs sikkerhetsrådsresolusjon 1730 (2006).[^1]
 
 1 Resolusjon 1730 (2006)
 
@@ -191,7 +191,7 @@ I denne forordning menes med
 
 ### Artikkel 4
 
-For å unngå overføring av varer og teknologi som omfattes av EUs felles liste over militært utstyr, eller som denne forordning forbyr levering, salg, overføring, eksport eller import av, skal, i forbindelse med alle varer som føres inn i EUs tollområde fra Libya eller ut av Libya til EU, den personen som er ansvarlig for å overholde plikten til å oppgi informasjon før ankomst eller sending, som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel, samt tolldeklarasjoner, i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av en EF-tollkodeks,1 og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) om fastsettelse av regler for gjennomføringen av den nevnte rådsforordning,2 i tillegg oppgi om varene omfattes av EUs felles liste over militært utstyr eller denne forordning, og, dersom det kreves tillatelse til eksport av varene, gi nærmere opplysninger om den tildelte eksportlisensen. Disse tilleggsopplysningene skal sendes til den berørte medlemsstats kompetente tollmyndigheter, enten i skriftlig form eller ved hjelp av en tolldeklarasjon.
+For å unngå overføring av varer og teknologi som omfattes av EUs felles liste over militært utstyr, eller som denne forordning forbyr levering, salg, overføring, eksport eller import av, skal, i forbindelse med alle varer som føres inn i EUs tollområde fra Libya eller ut av Libya til EU, den personen som er ansvarlig for å overholde plikten til å oppgi informasjon før ankomst eller sending, som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel, samt tolldeklarasjoner, i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av en EF-tollkodeks,[^1] og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) om fastsettelse av regler for gjennomføringen av den nevnte rådsforordning,[^2] i tillegg oppgi om varene omfattes av EUs felles liste over militært utstyr eller denne forordning, og, dersom det kreves tillatelse til eksport av varene, gi nærmere opplysninger om den tildelte eksportlisensen. Disse tilleggsopplysningene skal sendes til den berørte medlemsstats kompetente tollmyndigheter, enten i skriftlig form eller ved hjelp av en tolldeklarasjon.
 
 1 EFT L 302 av 19.10.1992, s.1.
 
@@ -422,7 +422,7 @@ Firearms, ammunition and related accessories therefor, as follows:
 
 1.1
 
-Firearms not controlled by ML 1 and ML 2 of the Common Military List of the European Union1 (Common Military List);
+Firearms not controlled by ML 1 and ML 2 of the Common Military List of the European Union[^1] (Common Military List);
 
 1.2
 

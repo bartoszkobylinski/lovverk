@@ -15,14 +15,14 @@ xml_hash: "1eb668aa061d310a7a57f2bd162e1d686c1f2e599486d77f0041268da26f521a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av Kongens myndighet etter forsikringsvirksomhetsloven til Finansdepartementet
 
-Kongens myndighet etter følgende bestemmelser i forsikringsvirksomhetsloven1 delegeres til Finansdepartementet:
+Kongens myndighet etter følgende bestemmelser i forsikringsvirksomhetsloven[^1] delegeres til Finansdepartementet:
 
 - § 1-1 tredje ledd
 - § 1-3

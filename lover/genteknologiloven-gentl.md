@@ -15,7 +15,7 @@ xml_hash: "bd0038ccc9f157e0b1d18dc68c213b07c441806a3331a6a316cb3152aeba68d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32004L0035"
@@ -355,7 +355,7 @@ Kongen kan gi nærmere forskrifter om rådets virksomhet og sammensetning.
 
 ### § 27. Ikraftsetting
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1 Det kan bestemmes at forskjellige deler av loven skal tre i kraft til ulik tid.
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Det kan bestemmes at forskjellige deler av loven skal tre i kraft til ulik tid.
 
 1 Fra 1 sep 1993 med unntak av [§§ 6](lov/1993-04-02-38/§6), 7, 8, 9 bokstav g) og h) og 10 tredje ledd iflg. [res. 20 aug 1993 nr. 811](forskrift/1993-08-20-811). Ved [res. 11 feb 1994 nr. 124](forskrift/1994-02-11-124) ble § 6, § 7 og § 8 satt ikr. 1 mars 1994. Ved [res. 13 nov 1998 nr. 1064](forskrift/1998-11-13-1064) ble § 9 bokstav g) og h) og [§ 10](lov/1993-04-02-38/§10) tredje ledd satt ikr. 1 jan 1999.
 

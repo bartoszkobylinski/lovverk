@@ -15,7 +15,7 @@ xml_hash: "5389918f18a7f21c23997cdbf5886c5eb7a015f6e628c4e5eb04202af1f6559c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,7 +101,7 @@ Dersom opplysninger kan innhentes uavhengig av taushetsplikt, skal opplysningene
 
 ## § 8. Tilgang til opplysningene
 
-Arbeids- og velferdsetaten skal ha tilgang til opplysningene i registeret i forbindelse med forvaltning og beregning av ytelser etter [folketrygdloven](lov/1997-02-28-19) og andre lover som etaten administrerer, forvaltning av arbeidstakerregisteret og fastsetting av underholdsbidrag og deling av reisekostnader ved samvær etter [barnelova](lov/1981-04-08-7), oppfostringsbidrag etter [barnevernloven](lov/1992-07-17-100)1 og bidrag etter [ekteskapsloven](lov/1991-07-04-47). Etaten skal også ha tilgang til opplysningene i registeret i forbindelse med utredning og produksjon av statistikk på de områdene etaten administrerer. Arbeids- og velferdsdirektoratet skal ha tilgang til opplysninger i registeret i forbindelse med utredning og produksjon av statistikk om kvalifiseringsstønad etter [sosialtjenesteloven](lov/2009-12-18-131).
+Arbeids- og velferdsetaten skal ha tilgang til opplysningene i registeret i forbindelse med forvaltning og beregning av ytelser etter [folketrygdloven](lov/1997-02-28-19) og andre lover som etaten administrerer, forvaltning av arbeidstakerregisteret og fastsetting av underholdsbidrag og deling av reisekostnader ved samvær etter [barnelova](lov/1981-04-08-7), oppfostringsbidrag etter [barnevernloven](lov/1992-07-17-100)[^1] og bidrag etter [ekteskapsloven](lov/1991-07-04-47). Etaten skal også ha tilgang til opplysningene i registeret i forbindelse med utredning og produksjon av statistikk på de områdene etaten administrerer. Arbeids- og velferdsdirektoratet skal ha tilgang til opplysninger i registeret i forbindelse med utredning og produksjon av statistikk om kvalifiseringsstønad etter [sosialtjenesteloven](lov/2009-12-18-131).
 
 Skattedirektoratet og skattekontoret skal ha tilgang til opplysningene i registeret i forbindelse med fastsetting av skatt og trygdeavgift etter skattelovgivningen og arbeidsgivers beregning og oppgjør av skattetrekk, arbeidsgiveravgift og finansskatt på lønn etter [skattebetalingsloven](lov/2005-06-17-67) og [folketrygdloven](lov/1997-02-28-19). Skattedirektoratet og Innkrevingsmyndigheten skal ha tilgang til opplysningene i registeret i forbindelse med etablering, beregning og gjennomføring av utleggstrekk.
 
@@ -149,7 +149,7 @@ Bestemmelsene i [§ 10](lov/2012-06-22-43/§10) annet til syvende ledd gjelder t
 
 ## § 12. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer.1
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[^1]
 
 1 Fra 1 jan 2015 med unntak av [§ 12a](lov/2012-06-22-43/§12a) som trådte ikr. 26 sep 2014, iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220).
 

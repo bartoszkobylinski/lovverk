@@ -16,7 +16,7 @@ xml_hash: "215bed129e658686268bcb2e22198661a3fb41dfad9938e76e7e167d3b3a57c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -123,7 +123,7 @@ Forskriften trer i kraft 1. januar 2015. Samtidig oppheves [forskrift 19. mars 1
 | **Epizootisk hemoragisk sjukdom** hos hjortedyr | Epizootic haemorrhagic disease of deer (EHD) | EHD-virus, (Orbivirus, *Rheoviridae*) |
 | **Infeksiøs laryngotrakeitt** (ILT) | Avian infectious laryngotracheitis (ILT) | ILT-virus (Gallid herpesvirus 1, *Alphaherpesvirinae*, *Herpesviridae*) |
 | **Klassisk svinepest** (KSP) | Classical swine fever (CSF) | CSF-virus (Pestivirus, *Flaviviridae*) |
-| **Kvegpest**\* | Rinderpest | Rinderpestvirus (Morbillivirus, *Paramyxoviridae*) |
+| **Kvegpest**[^\*] | Rinderpest | Rinderpestvirus (Morbillivirus, *Paramyxoviridae*) |
 | **Lumpy skin disease** (LSD) | Lumpy skin disease (LSD) | LSD-virus (Capropoxvirus, *Poxviridae*) |
 | **Miltbrann** | Anthrax | *Bacillus anthracis* |
 | **Munn- og klauvsjuke** (MKS) | Foot and mouth disease (FMD) | FMD-virus (Aphtovirus, *Picornaviridae*) |

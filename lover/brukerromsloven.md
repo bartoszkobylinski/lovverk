@@ -15,7 +15,7 @@ xml_hash: "4ae0e9842f0c5db3d6833077614fb92effbd2f91daeb8548aad466be12ab95a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,7 @@ Kongen kan gi nærmere bestemmelser om gjennomføringen av brukerromsordningen, 
 
 ## § 9. Ikrafttredelse
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 > Tilføyd ved [lov 19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)).
 

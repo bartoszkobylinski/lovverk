@@ -15,7 +15,7 @@ xml_hash: "f128f8ed06889ceda50a10dc8ea7f2b369a728457e95dac2b46998900b3f0b80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009L0103"
@@ -84,7 +84,7 @@ Har skadelidaren medverka til skaden med vilje eller i aktløyse, kan retten min
 
 Gjer ei motorvogn skade medan ho står still og skaden ikkje vert gjord medan vogna vert sett i gang eller stogga, kan retten minka skadebotkravet eller lata det falla heilt bort, jamvel når skadelidaren kan leggjast berre lite til last.
 
-Skadelidaren kan ikkje få skadebot utan at særlege grunnar er for det, dersom han av fri vilje køyrde eller let seg køyre i den vogna som gjorde skaden endå han visste1 at vogna var fråvend rette innehavaren med brotsverk.
+Skadelidaren kan ikkje få skadebot utan at særlege grunnar er for det, dersom han av fri vilje køyrde eller let seg køyre i den vogna som gjorde skaden endå han visste[^1] at vogna var fråvend rette innehavaren med brotsverk.
 
 Skadeliden vognførar som køyrde den vogna som gjorde skaden, kan ikkje få skadebot utan at særlege grunnar er for det dersom han visste eller måtte vita at
 
@@ -109,9 +109,9 @@ Var det på skadelidar-sida òg, slike omstende som er nemnde i fyrste leden, av
 
 ### § 9. (ansvarsgrense ved skade på eige)
 
-Når eige vert skadd, kan skadebota vera opptil 100 000 0002 kroner for det som vert skadd i same hending. Var det meir enn ei vogn som gjorde skaden, hefter dei som har ansvaret for kvar vogn, for heile summen.
+Når eige vert skadd, kan skadebota vera opptil 100 000 000[^2] kroner for det som vert skadd i same hending. Var det meir enn ei vogn som gjorde skaden, hefter dei som har ansvaret for kvar vogn, for heile summen.
 
-Er skaden på eiget større enn 100 000 0002 kroner, og meir enn éin har lide skade, vert summen bytt mellom dei etter storleiken på kvart skadebotkrav. Krav om skadebot må setjast fram til trygdeverket eller, om så er, staten eller den kommunen eller kommunale institusjonen som det gjeld, jf. § 16, seinast ein månad etter skaden vart gjord. Skadelidar som set fram kravet sitt etter den tid og etter at skadebota til andre skadelidarar er utreidd, kan krevja sitt berre av det som står att av ansvarssummen (trygdesummen).
+Er skaden på eiget større enn 100 000 000[^2] kroner, og meir enn éin har lide skade, vert summen bytt mellom dei etter storleiken på kvart skadebotkrav. Krav om skadebot må setjast fram til trygdeverket eller, om så er, staten eller den kommunen eller kommunale institusjonen som det gjeld, jf. § 16, seinast ein månad etter skaden vart gjord. Skadelidar som set fram kravet sitt etter den tid og etter at skadebota til andre skadelidarar er utreidd, kan krevja sitt berre av det som står att av ansvarssummen (trygdesummen).
 
 Attåt skadebot som nemnd i paragrafen her, skal det svarast rente etter § 6 og sakskostnad.
 
@@ -123,7 +123,7 @@ Attåt skadebot som nemnd i paragrafen her, skal det svarast rente etter § 6 og
 
 ### § 10. (motorvogn som ikkje er trygda eller ikkje kjend)
 
-Når ei motorvogn som skulle vore trygda, men ikkje er det, gjer skade på folk eller eige, skal dei trygdelaga som er godkjende eller registrerte etter § 17 bokstav a2, bera skaden i lag som om vogna hadde vore lovleg trygda hjå dei. Det same gjeld når ei motorvogn som ikkje er trygda, vert nytta urettmessig. Fyrste og andre punktum gjeld likevel ikkje om skadelidaren av fri vilje har teke plass i motorvogna som gjorde skaden, endå skadelidaren visste at ho ikkje var lovleg trygda.
+Når ei motorvogn som skulle vore trygda, men ikkje er det, gjer skade på folk eller eige, skal dei trygdelaga som er godkjende eller registrerte etter § 17 bokstav a[^2], bera skaden i lag som om vogna hadde vore lovleg trygda hjå dei. Det same gjeld når ei motorvogn som ikkje er trygda, vert nytta urettmessig. Fyrste og andre punktum gjeld likevel ikkje om skadelidaren av fri vilje har teke plass i motorvogna som gjorde skaden, endå skadelidaren visste at ho ikkje var lovleg trygda.
 
 Har ei motorvogn gjort skade på folk, fast eigedom eller dyr, men ingen veit å seia kva for vogn det var, skal dei trygdelaga som er godkjende eller registrerte etter § 17 første ledd bokstav a, bera skaden i lag som om vogna hadde vore lovleg trygda hjå dei. Fyrste punktum gjeld tilsvarande for skade på anna eige enn fast eigedom og dyr, men berre når det ved hendinga også er gjort meir enn uvesentleg skade på person. I vurderinga av om det er gjort meir enn uvesentleg skade på person, skal det leggjast vekt på kor stor og varig skaden er.
 
@@ -159,7 +159,7 @@ Den summen som ein trygdar lyt reide ut for ei trygda motorvogn etter lova her, 
 
 Ingen kan trygde seg mot attsøkjingskrav etter paragrafen her. Avtale om det gjeld ikkje.
 
-Ein trygdar kan ikkje seia frå seg attsøkjingsrett som han har etter paragrafen her. Atterhald om slik attsøkjingsrett i større omfang enn det er sagt her i lova, gjeld ikkje utan det er samhøveleg med reglane i trygdeavtalelova.1 Atterhald om slik attsøkjingsrett av de ein ansvarleg har gjort skaden i aktløyse, gjeld berre i dei tilfelle aktløysa er grov. Retten kan minka attsøkjingskravet etter regelen om lemping i [lov 13 juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 5-2](lov/1969-06-13-26/§5-2).
+Ein trygdar kan ikkje seia frå seg attsøkjingsrett som han har etter paragrafen her. Atterhald om slik attsøkjingsrett i større omfang enn det er sagt her i lova, gjeld ikkje utan det er samhøveleg med reglane i trygdeavtalelova.[^1] Atterhald om slik attsøkjingsrett av de ein ansvarleg har gjort skaden i aktløyse, gjeld berre i dei tilfelle aktløysa er grov. Retten kan minka attsøkjingskravet etter regelen om lemping i [lov 13 juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 5-2](lov/1969-06-13-26/§5-2).
 
 > Endra med lover [21 juni 1985 nr. 81](lov/1985-06-21-81), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [22 sep 2000 nr. 79](lov/2000-09-22-79) (ikr. 1 jan 2001 iflg. [res. 22 sep 2000 nr. 959](forskrift/2000-09-22-959)), [15 juni 2001 nr. 61](lov/2001-06-15-61) (ikr. 16 juni 2001 iflg. [res. 15 juni 2001 nr. 691](forskrift/2001-06-15-691)).
 
@@ -239,7 +239,7 @@ Det same gjeld gebyr etter [§ 17 a](lov/1961-02-03/§17a) og eigen vågnadssum 
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [19 des 2017 nr. 117](lov/2017-12-19-117) (ikr. 1 jan 2018).
 
-### § 19. (når ein trygdeavtale held opp å gjelda og ymist anna; samhøve med trygdeavtalelova1).
+### § 19. (når ein trygdeavtale held opp å gjelda og ymist anna; samhøve med trygdeavtalelova[^1]).
 
 Om ein trygdeavtale held opp å gjelda, skal Trafikkforsikringsforeningen gi melding til motorvognregisteret om dette. Kjennemerke kan utan vidare varsel dragast inn etter nærare føresegner gitt av departementet. I føresegnene kan departementet og fastsetja at kjennemerke som er dregne inn, ikkje skal leverast ut att før det er betalt ei særleg avgift.
 
@@ -262,7 +262,7 @@ Reglane i [forsikringsavtalelova](lov/1989-06-16-69) gjeld for trafikktrygding e
 Om nokon
 
 1. brukar eller køyrer ei motorvogn endå han veit eller må vita at vogna ikkje er lovleg trygda, eller
-2. let vera å retta seg etter påbod om trygdeprov, gjevne med heimel i § 17 fyrste leden bokstav i, vert han straffa med bot.1
+2. let vera å retta seg etter påbod om trygdeprov, gjevne med heimel i § 17 fyrste leden bokstav i, vert han straffa med bot.[^1]
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [19 des 2017 nr. 117](lov/2017-12-19-117) (ikr. 1 jan 2018), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 
@@ -278,7 +278,7 @@ Organet skal ha kompetanse til å gi pålegg om retting ved brot på lover og fo
 
 ### § 22. (kva tid lova tek til å gjelda).
 
-Kongen fastset kva tid lova skal taka til å gjelda.1
+Kongen fastset kva tid lova skal taka til å gjelda.[^1]
 
 – – –
 

@@ -15,7 +15,7 @@ xml_hash: "2d13ebbaf2be5f534065760a016eac6e2bd2e6596e424d282f443f9be530c799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1006,7 +1006,7 @@ Forskriften gjelder fra 1. januar 2017.
 
 Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.
 
-| *NACE Rev. 1*1 |  |  |  | *CPV-kode* |
+| *NACE Rev. 1*[^1] |  |  |  | *CPV-kode* |
 | --- | --- | --- | --- | --- |
 | *HOVEDAVDELING F* |  |  | *BYGGE- OG ANLEGGSVIRKSOMHET* |  |
 | *Hovedgruppe* | *Gruppe* | *Undergruppe* | *Beskrivelse* |  |
@@ -1017,7 +1017,7 @@ Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.
 |  | 45,2 |  | Deler av eller komplette byggekonstruksjoner samt anleggsarbeider | 45200000 |
 |  |  | 45,21 | Oppføring av bygninger og anleggsarbeider | 45210000<br>Unntatt:<br>-45213316<br>45220000<br>45231000 45232000 |
 |  |  | 45,22 | Montasje av takkonstruksjoner og taktekking samt følgearbeid | 45261000 |
-|  |  | 45,23 | Bygging av veier, flyplasser og idrettsanlegg | 45212212 og DA03 (offentlig\* )<br>45230000<br>Unntatt:<br>-45231000<br>-45232000<br>-45234115 |
+|  |  | 45,23 | Bygging av veier, flyplasser og idrettsanlegg | 45212212 og DA03 (offentlig[^\*] )<br>45230000<br>Unntatt:<br>-45231000<br>-45232000<br>-45234115 |
 |  |  | 45,24 | Anleggsarbeider i forbindelse med vannprosjekter | 45240000 |
 |  |  | 45,25 | Andre spesialiserte bygge- og anleggsarbeider | 45250000<br>45262000 |
 |  | 45,3 |  | Bygningsinstallasjonsarbeid | 45300000 |
@@ -1030,7 +1030,7 @@ Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.
 |  |  | 45,42 | Snekkermonteringsarbeid | 45420000 |
 |  |  | 45,43 | Utførelse av gulvlegging og veggbekledning | 45430000 |
 |  |  | 45,44 | Maler- og glassarbeid | 45440000 |
-|  |  | 45,45 | Øvrige arbeider i forbindelse med ferdiggjøring av bygninger | 45212212 og DA04 (private\* )<br>45450000 |
+|  |  | 45,45 | Øvrige arbeider i forbindelse med ferdiggjøring av bygninger | 45212212 og DA04 (private[^\*] )<br>45450000 |
 |  | 45,5 |  | Utleie av entreprenørmateriell og -utstyr med operatør | 45500000 |
 |  |  | 45,50 | Utleie av entreprenørmateriell og -utstyr med operatør | 45500000 |
 

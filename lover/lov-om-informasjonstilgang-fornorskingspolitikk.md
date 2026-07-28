@@ -15,7 +15,7 @@ xml_hash: "e02a0d24cf1773f4cdc6175432bebe328ea7a9d500bd108763b705dec03b6622"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,6 +50,6 @@ Materiale som ikke skal avleveres til Arkivverket, skal kasseres når kommisjone
 
 ## § 7. Ikrafttredelse mv.
 
-Loven trer i kraft straks. [§§ 1](lov/2020-05-12-41/§1) til [3](lov/2020-05-12-41/§3) oppheves når kommisjonen har levert sin rapport.1
+Loven trer i kraft straks. [§§ 1](lov/2020-05-12-41/§1) til [3](lov/2020-05-12-41/§3) oppheves når kommisjonen har levert sin rapport.[^1]
 
 1 Kommisjonen leverte sin rapport 1. juni 2023 iflg. [Dok.nr. 19 (2022-2023)](forarbeid/dok19-202223).

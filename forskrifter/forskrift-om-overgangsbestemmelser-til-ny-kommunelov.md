@@ -15,7 +15,7 @@ xml_hash: "ff8dc1baa8a92c4833e69b10a03c9a85ad64381cb5bd8304bfd09a078eddfd37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Vedtaksmyndighet som er delegert med hjemmel i lov om kommuner og fylkeskommuner
 
 ## § 6. Ikrafttredelse
 
-Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1
+Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.[^1]
 
 > Endret ved [forskrift 30 sep 2019 nr. 1300](forskrift/2019-09-30-1300) (tidligere § 5).
 

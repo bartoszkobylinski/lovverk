@@ -15,7 +15,7 @@ xml_hash: "8325fc110558ec92b16d235a56e1a094dcb881b79a00868ee260ae51fbf2d135"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1087,20 +1087,20 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
 
       Største tillatte aksellast og last fra akselkombinasjon på veger i de forskjellige bruksklasser (Bk) er angitt i tabell 1. Aktuell aksellast kan begrenses ut fra det som er angitt i kjøretøyets vognkort.
 
-      *Tabell 1 Aksellasttabell*5
+      *Tabell 1 Aksellasttabell*[^5]
 
       |  |  | *Tonn* |  |  |  |
       | --- | --- | --- | --- | --- | --- |
       | *Aksel/akselkombinasjon* | *Akselavstand i meter* | *Bk10* | *BkT8* | *Bk8* | *Bk6* |
       | Aksellast (frirullende hjul) |  | 10 | 8 | 8 | 6 |
-      | Aksellast drivaksel |  | 11,51 | 8 | 8 | 6 |
-      | Last fra to aksler | 1,30–1,79 (boggi) | 18,1 2 | 14 | 12 | 9 |
+      | Aksellast drivaksel |  | 11,5[^1] | 8 | 8 | 6 |
+      | Last fra to aksler | 1,30–1,79 (boggi) | 18,[^1] [^2] | 14 | 12 | 9 |
       |  | 1,20–1,29 (boggi) | 16 | 12 | 12 | 9 |
       |  | 0,80–1,19 | 15 | 11,5 | 11,5 | 8,5 |
       |  | Under 0,80 | 10 | 8 | 8 | 6 |
-      | Trippelboggi | 1,30–1,793 | 24 | 19 | 16 | 12 |
-      |  | 1,00–1,294 | 22 | 18 | 16 | 12 |
-      |  | Under 1,004 | 16 | 12 | 12 | 9 |
+      | Trippelboggi | 1,30–1,79[^3] | 24 | 19 | 16 | 12 |
+      |  | 1,00–1,29[^4] | 22 | 18 | 16 | 12 |
+      |  | Under 1,00[^4] | 16 | 12 | 12 | 9 |
 
       1 11,5 tonn bare på én drivaksel.
 
@@ -1121,28 +1121,28 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
 
    Største tillatte vekt av enkeltkjøretøy på veger i de forskjellige bruksklasser er angitt i tabell 2. Aktuell tillatt kjøretøyvekt kan begrenses ut fra aksellasttabellen (tabell 1) og det som er angitt i kjøretøyets vognkort.
 
-   *Tabell 2 Kjøretøyvekttabell*9
+   *Tabell 2 Kjøretøyvekttabell*[^9]
 
    |  |  | *Tonn* |  |  |  |  |
    | --- | --- | --- | --- | --- | --- | --- |
    |  |  | *Bk10* | *BkT8* |  | *Bk8* | *Bk6* |
    | *Kjøretøytype* |  | *50* | *50* | *40* | *32* | *28* |
-   | Motorvogn med 2 aksler unntatt buss |  | 198 | 16 | 16 | 16 | 12 |
+   | Motorvogn med 2 aksler unntatt buss |  | 19[^8] | 16 | 16 | 16 | 12 |
    | Buss med 2 aksler |  | 19,5 | 16 | 16 | 16 | 12 |
-   | Motorvogn med 3 aksler |  | 266 | 22 | 22 | 20 | 15 |
-   | Motorvogn med 4 aksler og flere1,2,3, og fra første til siste aksel | Mindre enn 5,40 m | 26 | 22 | 22 | 20 | 15 |
+   | Motorvogn med 3 aksler |  | 26[^6] | 22 | 22 | 20 | 15 |
+   | Motorvogn med 4 aksler og flere[^1],[^2],[^3], og fra første til siste aksel | Mindre enn 5,40 m | 26 | 22 | 22 | 20 | 15 |
    | 5,40 m–5,59 m | 30 | 26 | 26 | 22 | 16 |  |
    | 5,60 m–5,79 m | 31 | 27 | 27 | 23 | 17 |  |
    | 5,80 m eller større | 32 | 28 | 28 | 24 | 18 |  |
-   | Leddbuss |  | 287 | 24 | 24 | 24 | 18 |
+   | Leddbuss |  | 28[^7] | 24 | 24 | 24 | 18 |
    | Slepvogn og dolly med semitrailer med 2 aksler |  | 20 | 16 | 16 | 16 | 12 |
    | Slepvogn og dolly med semitrailer med 3 aksler |  | 28 | 22 | 22 | 19 | 15 |
    | Slepvogn og dolly med semitrailer med 4 aksler eller flere |  | 30 | 28 | 24 | 19 | 17 |
-   | Påhengsvogn / semitrailer med 1 aksel4 |  | 10 | 8 | 8 | 8 | 6 |
-   | Påhengsvogn / semitrailer med 2 aksler4 |  | 18 | 14 | 14 | 12 | 9 |
-   | Semitrailer med 2 aksler i avstand over 1,79 m med tvillingmonterte hjul der siste akselen er tvangsstyrt4,5 |  | 20 | 16 | 16 | 16 | 12 |
-   | Påhengsvogn / semitrailer med 3 aksler og flere4 |  | 24 | 19 | 19 | 16 | 12 |
-   | Semitrailer med boggi i boggiavstand 1,30–1,79 m og en etterfølgende tvangsstyrt5 aksel i avstand over 1,79 m, og der minst de faste akslene har tvillingmonterte hjul4 |  | 27 | 22 | 22 | 20 | 15 |
+   | Påhengsvogn / semitrailer med 1 aksel[^4] |  | 10 | 8 | 8 | 8 | 6 |
+   | Påhengsvogn / semitrailer med 2 aksler[^4] |  | 18 | 14 | 14 | 12 | 9 |
+   | Semitrailer med 2 aksler i avstand over 1,79 m med tvillingmonterte hjul der siste akselen er tvangsstyrt[^4],[^5] |  | 20 | 16 | 16 | 16 | 12 |
+   | Påhengsvogn / semitrailer med 3 aksler og flere[^4] |  | 24 | 19 | 19 | 16 | 12 |
+   | Semitrailer med boggi i boggiavstand 1,30–1,79 m og en etterfølgende tvangsstyrt[^5] aksel i avstand over 1,79 m, og der minst de faste akslene har tvillingmonterte hjul[^4] |  | 27 | 22 | 22 | 20 | 15 |
 
    1 Både fotnote 2 og 3 må være oppfylt. Hvis ikke, er tillatt vekt som for 3-akslet motorvogn.
 
@@ -1172,12 +1172,12 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
 
       For vogntog bestående av motorvogn M2 eller M3 med slepvogn eller påhengsvogn skal minsteavstanden ikke være mindre enn 3,00 meter. Det samme gjelder vogntog bestående av motorvogn N2 eller N3 med slepvogn eller påhengsvogn O3 eller O4.
 
-      *Tabell 3a Totalvekttabell for vogntog bestående av motorvogn*2
+      *Tabell 3a Totalvekttabell for vogntog bestående av motorvogn*[^2]
 
       | *Vogntog bestående av* |  |  | *Tonn* |  |  |  |  |
       | --- | --- | --- | --- | --- | --- | --- | --- |
       |  |  |  | *Bk10* | *BkT8* |  | *Bk8* | *Bk6* |
-      | *Motorvogn med* | *Slepvogn1 med* | *Minsteavstand, m* | *50* | *50* | *40* | *32* | *28* |
+      | *Motorvogn med* | *Slepvogn[^1] med* | *Minsteavstand, m* | *50* | *50* | *40* | *32* | *28* |
       | 2 aksler | 2 aksler | Mindre enn 3,00 | 19 | 16 | 16 | 16 | 12 |
       |  |  | 3,00 og større | 39 | 32 | 32 | 32 | 24 |
       |  | 3 aksler | Mindre enn 3,00 | 19 | 16 | 16 | 16 | 12 |
@@ -1202,7 +1202,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
 
       2 På veger angitt som Bk10/42 i veglistene, gjelder totalvekter som for BkT8/40.
 
-      *Tabell 3b Totalvekttabell for vogntog bestående av motorvogn med påhengsvogn eller semitrailer*1
+      *Tabell 3b Totalvekttabell for vogntog bestående av motorvogn med påhengsvogn eller semitrailer*[^1]
 
       | *Vogntog bestående av* |  |  | *Tonn* |  |  |  |  |
       | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1220,7 +1220,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
       |  |  | 3,40 til og med 3,69 | 38 | 32 | 32 | 28,6 | 24 |
       |  |  | 3,70 og større | 39 | 32 | 32 | 29 | 24 |
       |  |  | 3,70 og større | 39 | 32 | 32 | 29 | 24 |
-      |  | 3 aksler og flere2 | Mindre enn 3,00 | 19 | 16 | 16 | 16 | 12 |
+      |  | 3 aksler og flere[^2] | Mindre enn 3,00 | 19 | 16 | 16 | 16 | 12 |
       |  |  | 3,00 til og med 3,39 | 37 | 35 | 35 | 28 | 23 |
       |  |  | 3,40 til og med 3,69 | 38 | 35 | 35 | 28,6 | 24 |
       |  |  | 3,70 til og med 3,99 | 39 | 35 | 35 | 29 | 24 |
@@ -1255,7 +1255,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
       |  |  | 3,90 til og med 4,19 | 44 | 38 | 38 | 31,2 | 26,5 |
       |  |  | 4,20 til og med 4,49 | 45 | 38 | 38 | 31,6 | 27 |
       |  |  | 4,50 og større | 46 | 38 | 38 | 32 | 27 |
-      |  | 3 aksler og flere2 | Mindre enn 3,00 | 26 | 22 | 22 | 20 | 15 |
+      |  | 3 aksler og flere[^2] | Mindre enn 3,00 | 26 | 22 | 22 | 20 | 15 |
       |  |  | 3,00 til og med 3,29 | 41 | 41 | 39 | 30 | 25 |
       |  |  | 3,30 til og med 3,59 | 42 | 41 | 39,3 | 30,4 | 25,5 |
       |  |  | 3,60 til og med 3,89 | 43 | 41 | 39,7 | 30,8 | 26 |
@@ -1286,7 +1286,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
       |  |  | 5,00 til og med 5,29 | 48 | 42 | 40 | 32 | 27 |
       |  |  | 5,30 til og med 5,59 | 49 | 42 | 40 | 32 | 27 |
       |  |  | 5,60 og større | 50 | 42 | 40 | 32 | 27 |
-      |  | 2 aksler i avstand<br>over 1,79 m,<br>3 aksler og flere2 | Mindre enn 3,00 | 32 | 28 | 28 | 24 | 18 |
+      |  | 2 aksler i avstand<br>over 1,79 m,<br>3 aksler og flere[^2] | Mindre enn 3,00 | 32 | 28 | 28 | 24 | 18 |
       |  |  | 3,00 til og med 3,39 | 46 | 46 | 40 | 31 | 27 |
       |  |  | 3,40 til og med 3,79 | 48 | 47 | 40 | 32 | 27,5 |
       |  |  | 3,80 til og med 4,19 | 49 | 47 | 40 | 32 | 28 |
@@ -1308,9 +1308,9 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
       | Tilhenger, unntatt semitrailer og slepvogn til bruk i vogntog med tillatt vogntoglengde 24,00 m | 12,00 | 12,00 | 12,00 |
       | Motorvogn med semitrailer | 17,50 | 15,00 | 12,40 |
       | Motorvogn med slepvogn eller påhengsvogn | 19,50 | 15,00 | 12,40 |
-      | Buss med 2 aksler3 | 13,502 | 13,502 | 12,40 |
-      | Buss med 3 aksler eller flere3 | 15,00 | 15,00 | 12,40 |
-      | Leddbuss3 | 18,75 | 15,00 | 12,40 |
+      | Buss med 2 aksler[^3] | 13,50[^2] | 13,50[^2] | 12,40 |
+      | Buss med 3 aksler eller flere[^3] | 15,00 | 15,00 | 12,40 |
+      | Leddbuss[^3] | 18,75 | 15,00 | 12,40 |
       | Buss med slepvogn eller påhengsvogn | 18,75 | 15,00 | 12,40 |
 
       1 Opphevet.
@@ -1366,7 +1366,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
 
          For veger i BkT8 hvor tillatt totalvekt er angitt som 60 tonn, tillates følgende totalvekter, forutsatt at vilkårene i nr. 3 er oppfylt:
 
-         | *Motorvogn*1 *med* | *Slepvogn med* | *Totalvekt for vogntog, i tonn* |
+         | *Motorvogn*[^1] *med* | *Slepvogn med* | *Totalvekt for vogntog, i tonn* |
          | --- | --- | --- |
          | 3 aksler | 4 aksler | 52 |
          | 3 aksler | 5 aksler | 55 |
@@ -1435,7 +1435,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
 
       |  | *Avstand fra første til siste aksel* | *Totalvekt i tonn* |
       | --- | --- | --- |
-      | Slepvogn1 og dolly med semitrailer med 4 aksler eller flere | mindre enn 5,80 m | 30 |
+      | Slepvogn[^1] og dolly med semitrailer med 4 aksler eller flere | mindre enn 5,80 m | 30 |
       |  | 5,80 m–6,35 m | 32 |
       |  | 6,36 m–6,90 m | 33 |
       |  | 6,91 m–7,45 m | 34 |
@@ -1445,7 +1445,7 @@ I tillegg til de definisjoner som følger av [§ 1-2](forskrift/1990-01-25-92/§
       1 Under forutsetning av 2 styrende aksler. Dersom slepvognen ikke har 2 styrende aksler, er største tillatte totalvekt 30 tonn uavhengig av avstand fra første til siste aksel.
    3. Tillatt totalvekt på BkT8 for enkeltkjøretøy som inngår i vogntog som angitt i nr. 1, 2 og 7
 
-      | *Slepvogn*1 2 *og dolly med semitrailer med* | *Avstand fra første til siste aksel* | *Totalvekt i tonn* |
+      | *Slepvogn*[^1] [^2] *og dolly med semitrailer med* | *Avstand fra første til siste aksel* | *Totalvekt i tonn* |
       | --- | --- | --- |
       | 4 eller flere aksler | Mindre enn 5,80 m | 28 |
       |  | 5,80–6,35 m | 29 |
@@ -1550,8 +1550,8 @@ Når aksellast, last fra akselkombinasjon og totalvekt ikke overskrider det som 
       | *Vogntogtype* | *Med gods* |  | *Uten gods* |  |
       | --- | --- | --- | --- | --- |
       |  | *Lengde m* | *Bredde m (for tilhenger)* | *Lengde m* | *Bredde m (for tilhenger)* |
-      | Motorvogn N2 og N3 med tilhenger O3 og O4 spesielt innrettet for transport av tungt, udelbart gods (f.eks. transformator) som har 5 eller flere aksler med lik avstand mellom akslene | 22,001 | 3,25 | 22,001 | 3,00 |
-      | Motorvogn N2 og N3 med semitrailer O3 og O4 spesielt innrettet for transport av tungt, udelbart gods med styrbar aksel på semitraileren | 22,001 | 3,25 | 22,001 | 3,00 |
+      | Motorvogn N2 og N3 med tilhenger O3 og O4 spesielt innrettet for transport av tungt, udelbart gods (f.eks. transformator) som har 5 eller flere aksler med lik avstand mellom akslene | 22,00[^1] | 3,25 | 22,00[^1] | 3,00 |
+      | Motorvogn N2 og N3 med semitrailer O3 og O4 spesielt innrettet for transport av tungt, udelbart gods med styrbar aksel på semitraileren | 22,00[^1] | 3,25 | 22,00[^1] | 3,00 |
       | Motorvogn N2 og N3 med semitrailer O3 og O4 spesielt innrettet for transport av tungt, udelbart gods uten styrbar aksel på semitraileren | 20,00 | 3,25 | 17,50 | 3,00 |
 
       1 Frem til 1. september 2024 er tillatt lengde for vogntog hvor tilhengeren er registrert før 1. juni 2015 20,00 meter dersom vogntoget ikke kan kjøres 120° mellom to konsentriske sirkler med radius 14,50 og 6,50 meter.
@@ -1619,26 +1619,26 @@ Når aksellast, last fra akselkombinasjon og totalvekt ikke overskrider det som 
       | *Vogntogtype* | *Med gods* |  | *Uten gods* |  |
       | --- | --- | --- | --- | --- |
       |  | *Lengde m* | *Bredde m (for tilhenger)* | *Lengde m* | *Bredde m (for tilhenger)* |
-      | Motorvogn N2 og N3 med tilhenger O3 og O4 spesielt innrettet for transport av tungt, udelbart gods (f.eks. transformator) som har 5 eller flere aksler med lik avstand mellom akslene | 22,001 | 3,25 | 22,001 | 3,00 |
-      | Motorvogn N2 og N3 med semitrailer O3 og O4 spesielt innrettet for transport av tungt, udelbart gods med styrbar aksel på semitraileren | 22,001 | 3,25 | 22,001 | 3,00 |
+      | Motorvogn N2 og N3 med tilhenger O3 og O4 spesielt innrettet for transport av tungt, udelbart gods (f.eks. transformator) som har 5 eller flere aksler med lik avstand mellom akslene | 22,00[^1] | 3,25 | 22,00[^1] | 3,00 |
+      | Motorvogn N2 og N3 med semitrailer O3 og O4 spesielt innrettet for transport av tungt, udelbart gods med styrbar aksel på semitraileren | 22,00[^1] | 3,25 | 22,00[^1] | 3,00 |
       | Motorvogn N2 og N3 med semitrailer O3 og O4 spesielt innrettet for transport av tungt, udelbart gods uten styrbar aksel på semitraileren | 20,00 | 3,25 | 17,50 | 3,00 |
 
       1 Frem til 1. september 2024 er tillatt lengde for vogntog hvor tilhengeren er registrert før 1. juni 2015 20,00 meter dersom vogntoget ikke kan kjøres 120° mellom to konsentriske sirkler med radius 14,50 og 6,50 meter.
    4. Dersom største tillatte aksellast, last fra akselkombinasjon eller totalvekt overstiger det som er angitt i [§ 5-4 nr. 1](forskrift/1990-01-25-92/§5-4/nummer/1) til [3](forskrift/1990-01-25-92/§5-4/nummer/3) og veglister for normaltransport, tillates i utgangspunktet kun transport av ett udelbart kolli. Transport av deler som demonteres fra det udelbare kolliet for å redusere kolliets bredde eller høyde eller for å bedre sikkerheten, tillates likevel transportert innenfor de totalvekter som er tillatt etter dispensasjonen. Ved transport av hjul- eller beltegående maskin, tillates også transport av utstyr som skal monteres på/brukes av maskinen (f.eks. ekstra skuffer, dieseltanker, batterier osv.), selv om vekter som angitt i [§ 5-4 nr. 1](forskrift/1990-01-25-92/§5-4/nummer/1) til [3](forskrift/1990-01-25-92/§5-4/nummer/3) og veglister for normaltransport overskrides.
 3. Tillatt aksellast og last fra akselkombinasjon for dispensasjon uten tidsbegrensning på offentlig veg
 
-   1. *Aksellasttabell*1
+   1. *Aksellasttabell*[^1]
 
       |  |  | *Veggruppe A* |  |  | *Veggruppe B* |  |  |
       | --- | --- | --- | --- | --- | --- | --- | --- |
       |  | *Akselavstand i meter* | *Bk10* | *BkT8* | *Bk8* | *Bk10* | *BkT8* | *Bk8* |
       | Aksellast | – | 11 | 9 | 9 | 11 | 9 | 9 |
-      | Aksellast | Drivaksel | 122 | 9 | 9 | 122 | 9 | 9 |
-      | Boggilast | 1,30–1,793 | 212 | 16 | 16 | 202 | 14 | 14 |
+      | Aksellast | Drivaksel | 12[^2] | 9 | 9 | 12[^2] | 9 | 9 |
+      | Boggilast | 1,30–1,79[^3] | 21[^2] | 16 | 16 | 20[^2] | 14 | 14 |
       | Boggilast | 1,20–1,29 | 20 | 16 | 16 | 19 | 14 | 14 |
-      | Trippelboggilast | 1,30–1,79 | 262 | 22 | 19 | 242 | 19 | 16 |
-      | Trippelboggilast | 1,20–1,294 | 24 | 22 | 19 | 22 | 19 | 16 |
-      | Trippelboggilast | Under 1,204 | 22 | 20 | 17 | 20 | 17 | 14 |
+      | Trippelboggilast | 1,30–1,79 | 26[^2] | 22 | 19 | 24[^2] | 19 | 16 |
+      | Trippelboggilast | 1,20–1,29[^4] | 24 | 22 | 19 | 22 | 19 | 16 |
+      | Trippelboggilast | Under 1,20[^4] | 22 | 20 | 17 | 20 | 17 | 14 |
 
       1 For veger angitt som Bk10/42 i vegliste for spesialtransport, kan det gis dispensasjon for aksellaster som for BkT8.
 
@@ -1660,7 +1660,7 @@ Når aksellast, last fra akselkombinasjon og totalvekt ikke overskrider det som 
 
       Ved større akselavstand enn 16 meter regnes den totalvekten som svarer til 16 meter.
 
-      *Totalvekttabell*1
+      *Totalvekttabell*[^1]
 
       |  | *Maks totalvekt i tonn* |  |  |  |
       | --- | --- | --- | --- | --- |
@@ -1780,7 +1780,7 @@ Når aksellast, last fra akselkombinasjon og totalvekt ikke overskrider det som 
       1. Dispensasjon med tidsbegrensning kan gis til motorredskap, mobilkran, betongpumpebil og liftbil for overskridelse av vekter som gitt i [§ 5-4](forskrift/1990-01-25-92/§5-4) nr. 1 til 3 og veglister for normaltransport for veger i veggruppe IKKE, likevel ikke for slike vekter som utløser krav om følge over den enkelte bru.
       2. Dispensasjon med tidsbegrensning kan gis til vogntog som omtalt i [§ 5-8](forskrift/1990-01-25-92/§5-8) nr. 2 for overstigelse av vektene som gitt i [§ 5-8](forskrift/1990-01-25-92/§5-8) for veger i veggruppe A og B og [§ 5-4](forskrift/1990-01-25-92/§5-4) nr. 1 til 3 og veglister for normaltransport for veger i veggruppe IKKE.
       3. For samtidig transport av hjul- eller beltegående maskin og utstyr som skal monteres på/brukes av maskinen (f.eks. ekstra skuffer, dieseltanker, batterier osv.), kan slik dispensasjon gis inntil vekter gitt i [§ 5-8 nr. 3](forskrift/1990-01-25-92/§5-8/nummer/3).
-3. Dispensasjon med tidsbegrensning kan gis for følgende aksellaster3:
+3. Dispensasjon med tidsbegrensning kan gis for følgende aksellaster[^3]:
 
    1. Veggruppe A og B
 
@@ -1791,9 +1791,9 @@ Når aksellast, last fra akselkombinasjon og totalvekt ikke overskrider det som 
       | Aksellast | Drivaksel | 12 | 10 | 10 | 12 | 10 | 10 |
       | Boggilast | 1,30–1,79 | 21 | 16 | 16 | 21 | 16 | 16 |
       | Boggilast | 1,20–1,29 | 20 | 16 | 16 | 20 | 16 | 16 |
-      | Trippelboggilast | 1,30–1,791 | 28 | 24 | 23 | 26 | 23 | 20 |
-      | Trippelboggilast | 1,20–1,292 | 27 | 24 | 23 | 24 | 23 | 20 |
-      | Trippelboggilast | Under 1,202 | 25 | 22 | 21 | 22 | 21 | 18 |
+      | Trippelboggilast | 1,30–1,79[^1] | 28 | 24 | 23 | 26 | 23 | 20 |
+      | Trippelboggilast | 1,20–1,29[^2] | 27 | 24 | 23 | 24 | 23 | 20 |
+      | Trippelboggilast | Under 1,20[^2] | 25 | 22 | 21 | 22 | 21 | 18 |
 
       1 Begge avstander.
 

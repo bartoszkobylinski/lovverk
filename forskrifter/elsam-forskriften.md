@@ -15,7 +15,7 @@ xml_hash: "f54663d7ee925b9d9402445df17f84b351ae3f6f63b56d709a606fe7b323614b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -179,7 +179,7 @@ For arkivering av avansert elektronisk signatur gjelder [forskrift 25. juni 2004
 
 Forskriften trer i kraft straks for Fredrikstad tingrett, Oslo tingrett, Sunnmøre tingrett, Sør-Trøndelag tingrett, Borgarting lagmannsrett og Frostating lagmannsrett. Fra samme tidspunkt oppheves [forskrift 12. februar 2012 nr. 140](forskrift/2012-02-12-140) om prøveordning med elektronisk kommunikasjon med domstolene.
 
-For øvrige domstoler trer forskriften i kraft fra den tid Domstoladminstrasjonen bestemmer. Domstoladministrasjonen kan beslutte at forskriften skal tre i kraft til forskjellig tid for de forskjellige domstolene.1
+For øvrige domstoler trer forskriften i kraft fra den tid Domstoladminstrasjonen bestemmer. Domstoladministrasjonen kan beslutte at forskriften skal tre i kraft til forskjellig tid for de forskjellige domstolene.[^1]
 
 1 I henhold til [vedtak 28 okt 2016 nr. 1260](forskrift/2016-10-28-1260), endret ved [vedtak 17 jan 2017 nr. 44](forskrift/2017-01-17-44), [vedtak 4 apr 2017 nr. 436](forskrift/2017-04-04-436), [vedtak 25 okt 2017 nr. 1683](forskrift/2017-10-25-1683), [vedtak 19 sep 2018 nr. 1340](forskrift/2018-09-19-1340), [vedtak 22 nov 2018 nr. 1743](forskrift/2018-11-22-1743) og [vedtak 9 mars 2020 nr. 249](forskrift/2020-03-09-249):
 Nedre Romerike tingrett 31. oktober 2016,

@@ -15,7 +15,7 @@ xml_hash: "fabac991261b3ce6562d392d35d9e48f027503e5ceaecd8f368d204ab226b4e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0040"
@@ -55,7 +55,7 @@ Ny [§ 37 a](lov/1973-03-09-14/§37a) skal lyde:
 
 ## II
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid og fastsette overgangsperioder.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid og fastsette overgangsperioder.
 
 1 Fra 1 apr 2017 iflg. [res. 31 mars 2017 nr. 415](forskrift/2017-03-31-415), med unntak av § 21 a, kapittel 5, §§ 30, 30 a, 32 første ledd, 34 a til 34 d, 35 annet ledd, 37 a, 38 tredje ledd, 40 a og 43. [Kapittel](lov/1973-03-09-14/kap5) 5 og [§§ 30](lov/1973-03-09-14/§30), [30 a](lov/1973-03-09-14/§30a) første og fjerde ledd og [43](lov/1973-03-09-14/§43) trer i kraft 1. juli 2017.
 [§ 34d](lov/1973-03-09-14/§34d) og [§ 40a](lov/1973-03-09-14/§40a) trer i kraft 1. juli 2021 iflg. [res. 23. juni 2021 nr. 2065](forskrift/2021-06-23-2065).

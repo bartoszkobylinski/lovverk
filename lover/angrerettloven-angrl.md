@@ -15,7 +15,7 @@ xml_hash: "6beb477283dcb5bc468be15ffef21a63fd5f289f020cf0142513ec46e7c4abf6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31993L0013"
@@ -374,7 +374,7 @@ Departementet kan ved forskrift gi nærmere regler om utmåling av overtredelses
 
 ### § 30. Ikrafttredelse og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Loven får bare virkning for markedsføringstiltak og betalinger foretatt etter lovens ikrafttredelse, samt avtaler som inngås etter at loven trer i kraft.
 

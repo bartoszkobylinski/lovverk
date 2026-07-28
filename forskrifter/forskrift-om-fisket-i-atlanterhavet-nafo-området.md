@@ -15,7 +15,7 @@ xml_hash: "452305ff086fc3d6dfbff980ed268e71f06e517060e8e8d0b330eac58984bc8d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -131,12 +131,12 @@ Meldingen skal inneholde følgende opplysninger:
 | Fartøynavn | NA | V | Fartøyets navn |
 | Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
 | Kvantum som skal overføres | KG | P | Kvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angitt |
-| Overført fra | TF | P1 | Radiokallesignal på fartøyet det overføres fra |
-| Overført til | TT | P1 | Radiokallesignal på fartøyet det overføres til |
-| Posisjon bredde | LA | P2 | Antatt posisjon bredde for omlasting, NDDMM |
-| Posisjon lengde | LO | P2 | Antatt posisjon lengde for omlasting, E/WDDMM |
-| Dato | PD | P2 | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD) |
-| Tid | PT | P2 | Antatt tidspunkt for omlasting i UTC (ÅÅÅÅMMDD) |
+| Overført fra | TF | P[^1] | Radiokallesignal på fartøyet det overføres fra |
+| Overført til | TT | P[^1] | Radiokallesignal på fartøyet det overføres til |
+| Posisjon bredde | LA | P[^2] | Antatt posisjon bredde for omlasting, NDDMM |
+| Posisjon lengde | LO | P[^2] | Antatt posisjon lengde for omlasting, E/WDDMM |
+| Dato | PD | P[^2] | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P[^2] | Antatt tidspunkt for omlasting i UTC (ÅÅÅÅMMDD) |
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 

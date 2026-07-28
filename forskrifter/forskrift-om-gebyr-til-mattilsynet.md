@@ -17,7 +17,7 @@ xml_hash: "0d238f30cec515a26a42d4e9bc5389a312a5d7993cef4b064a51865d3f4a9847"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -430,7 +430,7 @@ Samtidig oppheves følgende forskrifter:
 | Tilleggsgebyr for sertifikater og erklæringer som utstedes utenfor ordinær åpningstid | 420 |
 | Tilleggsgebyr for sertifikater og erklæringer som krever inspeksjon | 925 |
 | Utstedelse av bransjestandardattest/inspeksjonsattest | 1 850 |
-| Attestert kopi av felles veterinærdokument til bruk ved import (CHED1) | 520 |
+| Attestert kopi av felles veterinærdokument til bruk ved import (CHED[^1]) | 520 |
 | Sertifisering av settepoteter | 1 850 |
 | Sertifisering av såvarer | 925 |
 | Undersøkelse utført i forbindelse med flytting av honningbier i Norge | 925 |
@@ -443,14 +443,14 @@ Samtidig oppheves følgende forskrifter:
 
 | *Andre særskilte ytelser:* | *Gebyr* |
 | --- | --- |
-| Innmelding i kontrollordningen og utstedelse av økologisertifikat for økologisk produksjon, foredling, omsetning eller import2 | 1 850 |
-| Avvikling av eksamen/utstedelse av autorisasjonsbevis for kjøp og bruk av plantevernmidler3<br>Kurs i regi av statsforvalteren/kommune | 252 |
-| Avvikling av eksamen/utstedelse av tilleggsautorisasjon for kjøp og bruk av gnagermidler3<br>Kurs i regi av statsforvalteren/kommune | 252 |
+| Innmelding i kontrollordningen og utstedelse av økologisertifikat for økologisk produksjon, foredling, omsetning eller import[^2] | 1 850 |
+| Avvikling av eksamen/utstedelse av autorisasjonsbevis for kjøp og bruk av plantevernmidler[^3]<br>Kurs i regi av statsforvalteren/kommune | 252 |
+| Avvikling av eksamen/utstedelse av tilleggsautorisasjon for kjøp og bruk av gnagermidler[^3]<br>Kurs i regi av statsforvalteren/kommune | 252 |
 | Utstedelse av autorisasjon for gassingsprodukter | 925 |
 | Gjennomføring av nettbasert autorisasjonskurs, nettbasert eksamen og utstedelse av autorisasjonsbevis for kjøp og bruk av plantevernmidler | 925 |
 | Brukstillatelse for vaksiner | 1 850 |
 | DUS-test gjennomført i utlandet | 925 |
-| Kopi av DUS-test bestilt fra utenlandsk prøveinstitusjon4 | 3 800 |
+| Kopi av DUS-test bestilt fra utenlandsk prøveinstitusjon[^4] | 3 800 |
 | Behandling av søknad om grenseverdier for restmengder av plantevernmidler i næringsmidler og fôrvarer | 3 700 |
 
 2 Ytelsen utføres av Debio etter fullmakt fra Mattilsynet. Debio krever også inn gebyret.

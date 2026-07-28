@@ -15,7 +15,7 @@ xml_hash: "cabcf3d184b5ee69971022aa86333e13dcb21eeb84f6f5da7142ac494804870a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Formål og virkeområde
 
-Formålet med instruksen er å legge forholdene til rette for utøvelse av effektiv sikkerhetstjeneste1 og enhetlig styring og kontroll i forsvarssektoren. Instruksen skal bidra til å sikre Forsvarets operative evne.
+Formålet med instruksen er å legge forholdene til rette for utøvelse av effektiv sikkerhetstjeneste[^1] og enhetlig styring og kontroll i forsvarssektoren. Instruksen skal bidra til å sikre Forsvarets operative evne.
 
 Instruksen gjelder for Forsvarsdepartementets underlagte etater.
 
@@ -62,7 +62,7 @@ Etatene skal utarbeide interne prosedyrer for identifisering og innmelding av be
 
 Behov etter første ledd skal innmeldes til nivået med myndighet til å fastsette det aktuelle området.
 
-Med restriksjonsområder menes i denne instruksen områder fastsatt i eller i medhold av lov1.
+Med restriksjonsområder menes i denne instruksen områder fastsatt i eller i medhold av lov[^1].
 
 1 [Lov om forebyggende sikkerhetstjeneste](lov/1998-03-20-10).
 

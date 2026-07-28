@@ -15,7 +15,7 @@ xml_hash: "3e450a370492cf56db96fa33d399a34f6ffe5626e96daf5d0a1aeed05901b0f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -343,7 +343,7 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes den som fo
 
 ### § 27. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 1. mai 2022 med unntak av [§ 8](lov/2018-04-20-8/§8) første ledd nr. 2 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638).
 Fra 12. oktober 2025 for [§ 8](lov/2018-04-20-8/§8) første ledd nr. 2 iflg. [res. 19 sep 2025 nr. 1875](forskrift/2025-09-19-1875).

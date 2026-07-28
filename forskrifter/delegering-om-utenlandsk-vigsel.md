@@ -15,18 +15,18 @@ xml_hash: "d574036cc67dcfee1f468e394d533001f4b61a07eaf7c1568f3f3d9d021e4e5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Overføring til Utenriksdepartementet av myndighet etter § 5 i lov om når norsk tenestemakt kan halda brudevigjing i utlandet o.s.b. og etter § 21 i lov om utenrikstjenesten.
 
-1\. Den myndighet som er tillagt Kongen etter § 1 og § 3 i [lov av 30. juni 1955 nr. 20](lov/1955-06-30-20/§3) om når norsk tenestemakt kan halda brudevigjing i utlandet og utenlandsk tenestemakt i Noreg, føres over til Kirkedepartementet.1
+1\. Den myndighet som er tillagt Kongen etter § 1 og § 3 i [lov av 30. juni 1955 nr. 20](lov/1955-06-30-20/§3) om når norsk tenestemakt kan halda brudevigjing i utlandet og utenlandsk tenestemakt i Noreg, føres over til Kirkedepartementet.[^1]
 
 1 Nå Kultur- og kirkedepartementet, jf. [res. 21 des 2001 nr. 1485](forskrift/2001-12-21-1485).
 
-2\. Den myndighet som er tillagt Kongen etter § 2, § 6 og § 7 i [lov av 30. juni 1955 nr. 20](lov/1955-06-30-20/§7) om når norsk tenestemakt kan halde brudevigjing i utlandet og utenlandsk tenestemakt i Noreg, føres over til Familie- og forbrukerdepartementet.1
+2\. Den myndighet som er tillagt Kongen etter § 2, § 6 og § 7 i [lov av 30. juni 1955 nr. 20](lov/1955-06-30-20/§7) om når norsk tenestemakt kan halde brudevigjing i utlandet og utenlandsk tenestemakt i Noreg, føres over til Familie- og forbrukerdepartementet.[^1]
 
 > Endret ved [kgl.res. 22 des 1989 nr. 1273](forskrift/1989-12-22-1273) (i kraft 1 jan 1990).
 

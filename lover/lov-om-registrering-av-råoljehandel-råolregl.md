@@ -15,7 +15,7 @@ xml_hash: "04531a94e740ff389d9511d9514cdd4bdba9adacfc58ce1e9fa6659e5358784a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31995R2964"
@@ -33,11 +33,11 @@ I [lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet g
 
 ## § 3.
 
-Loven trer i kraft straks med unntak av endringene i petroleumsloven, som trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft straks med unntak av endringene i petroleumsloven, som trer i kraft fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 juli 1999 iflg. [res. 25 juni 1999 nr. 705](forskrift/1999-06-25-705).
 
-## Forordninger1
+## Forordninger[^1]
 
 Nedenfor gjengis – etter [Ot.prp. nr. 54 (1998-99) s. 5](forarbeid/otprp-54-199899/s5)-6 – [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 5 (forordning [nr. 2964/95](eu/31995r2964)) slik Olje- og energidepartementet tolker denne del av EØS-avtalen med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig. Noter markert med notetall og \* er Olje- og energidepartementets noter til gjengivelsen i Ot.prp. nr. 54 (likevel slik at «EF» er erstattet med «EU»).
 
@@ -59,13 +59,13 @@ Idet det er ønskelig med oversikt i markedet.
 
 Ut fra forsyningssituasjonen, og for å stabilisere EF-markedet og hindre at unormale svingninger i verdensmarkedet får en uheldig innvirkning på EF-markedet, bør medlemsstatene og Kommisjonen få jevnlige opplysninger om kostnadene ved forsyning av råolje.
 
-Ved forordning [(EØF) nr. 1893/79](eu/31979r1893)1 innførte Rådet ordninger for registrering av import av råolje til Fellesskapet.
+Ved forordning [(EØF) nr. 1893/79](eu/31979r1893)[^1] innførte Rådet ordninger for registrering av import av råolje til Fellesskapet.
 
-Ved forordning [(EØF) nr. 2592/79](eu/31979r2592)2 fastsatte Rådet regler for registrering av import av råolje til Fellesskapet.
+Ved forordning [(EØF) nr. 2592/79](eu/31979r2592)[^2] fastsatte Rådet regler for registrering av import av råolje til Fellesskapet.
 
 Disse forordningene opphørte å gjelde 31. desember 1991, derfor bør de reglene som derved ble fastsatt gjeninnføres og samtidig tilpasses de handelsvilkår som gjelder på de internasjonale oljemarkedene, og ta sikte på å bedre og verne kvaliteten på miljøet og såvidt mulig tilpasses rapporteringskravene til nasjonale myndigheter og Det internasjonale energibyrå –
 
-har vedtatt denne forordning:]3\*
+har vedtatt denne forordning:][^3\*]
 
 1 TEF nr. L 220 av 30.8.1979, s. 1. Forordningen sist endret ved forordning [(EØF) nr. 1370/90](eu/31990r1370) (TEF nr. L 133 av 24.5.1990, s. 1)
 

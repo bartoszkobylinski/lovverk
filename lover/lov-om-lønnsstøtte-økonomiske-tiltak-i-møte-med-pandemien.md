@@ -15,7 +15,7 @@ xml_hash: "b8c854f6c34bffcef9e021d28700a9f2274a4abb6f2cfc44155adad309aeb752"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -183,7 +183,7 @@ Utbetales støtte senere enn den frist som er fastsatt i [§ 18](lov/2022-01-28-
 
 ## § 23. Lovens ikrafttredelse, overgangsbestemmelser
 
-(1) Loven trer i kraft fra den tid Kongen bestemmer1.
+(1) Loven trer i kraft fra den tid Kongen bestemmer[^1].
 
 (2) Departementet kan gi forskrift om overgangsbestemmelser.
 

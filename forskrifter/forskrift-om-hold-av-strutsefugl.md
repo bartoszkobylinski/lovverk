@@ -15,7 +15,7 @@ xml_hash: "af5179db7878d257baee876b18001ca172b99c47463e6c82c68738b2018ba8a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -194,10 +194,10 @@ Tallene angir maksimumsverdier for gruppestørrelse og minimumskrav til areal (d
 |  | fugl/gruppe | areal/fugl | totalt | areal/fugl | totalt |
 | < 4 d | 40 | 0,25 | 1 |  |  |
 | 4 d-3 u | 40 | 0,25-1,2 | 5 | 10 | 100 |
-| 3 u-3 m | 401 | 1,2-2 | 10 | 10 | 100-10003 4 7 |
-| 3 m-kjønns- |  | 2-5 | 20 | 200 | 10003 4 |
+| 3 u-3 m | 40[^1] | 1,2-2 | 10 | 10 | 100-1000[^3] [^4] [^7] |
+| 3 m-kjønns- |  | 2-5 | 20 | 200 | 1000[^3] [^4] |
 | moden |  |  |  |  |  |
-| voksne fugler2 |  | 10 | 30 | 2000 / 36 | 10003 5 |
+| voksne fugler[^2] |  | 10 | 30 | 2000 / 3[^6] | 1000[^3] [^5] |
 
 1 Gruppestørrelsen forutsetter samme størrelse på fuglene.
 
@@ -225,10 +225,10 @@ Tallene angir maksimumsverdier for gruppestørrelse og minimumskrav til areal ( 
 |  | fugl/gruppe | areal/fugl | totalt | areal/fugl | totalt |
 | < 4 d | 40 | 0,25 | 1 |  |  |
 | 4 d-3 u | 40 | 0,25-0,5 | 5 | 5 | 75 |
-| 3 u-6 m | 401 | 1 | 10 | 20 | 100-5003 5 7 |
-| 6m-kjønns- |  | 2-4 | 20 | 150 | 5004 6 |
+| 3 u-6 m | 40[^1] | 1 | 10 | 20 | 100-500[^3] [^5] [^7] |
+| 6m-kjønns- |  | 2-4 | 20 | 150 | 500[^4] [^6] |
 | moden |  |  |  |  |  |
-| voksne fugler 1+12 |  | 5 | 30 | 250 | 5004 6 |
+| voksne fugler 1+1[^2] |  | 5 | 30 | 250 | 500[^4] [^6] |
 
 1 Gruppestørrelsen forutsetter samme størrelse på fuglene.
 

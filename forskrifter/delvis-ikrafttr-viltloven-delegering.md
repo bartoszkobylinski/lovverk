@@ -15,7 +15,7 @@ xml_hash: "813403055839b88e30e201d188ca664d192e893de349c28166d5efe1ad01ced9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,12 +24,12 @@ eu_basis: []
 
 1. I henhold til [lov om viltet av 29. mai 1981 nr. 38 § 57](lov/1981-05-29-38/§57), bestemmes at loven trer i kraft fra 2. april 1982, med unntak av [§ 5](lov/1981-05-29-38/§5), [§ 56](lov/1981-05-29-38/§56) og [§ 51](lov/1981-05-29-38/§51).
 2. Den myndighet som etter [lov av 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet er tillagt departementet legges til Klima- og miljødepartementet.
-3. Den myndighet som etter samme lov er tillagt Kongen og departementet delegeres til Direktoratet for vilt og ferskvannsfisk1 med følgende unntak.
+3. Den myndighet som etter samme lov er tillagt Kongen og departementet delegeres til Direktoratet for vilt og ferskvannsfisk[^1] med følgende unntak.
 
    1. Kongen beholder myndighet til å treffe vedtak etter følgende bestemmelser:
 
       § 7, 2. ledd første punktum § 8, § 12, § 26 nr. 7, § 39, § 40, § 49, 1. ledd.
-   2. Den myndighet som i lovens § 6, 3. ledd er tillagt Kongen delegeres til Klima- og miljødepartementet. Myndighet til å gi nærmere regler om viltnemndenes organisasjon og virksomhet delegeres til Direktoratet for vilt og ferskvannsfisk.1
+   2. Den myndighet som i lovens § 6, 3. ledd er tillagt Kongen delegeres til Klima- og miljødepartementet. Myndighet til å gi nærmere regler om viltnemndenes organisasjon og virksomhet delegeres til Direktoratet for vilt og ferskvannsfisk.[^1]
 
       Den myndighet som etter lovens § 9, 1. ledd, er tillagt Kongen delegeres til Klima- og miljødepartementet.
 

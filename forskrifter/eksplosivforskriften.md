@@ -15,7 +15,7 @@ xml_hash: "6ae8fdb1440dbf0556725e2cf4ed9627e440b1954ca3cae1cdfa68a0ac1508ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2190,7 +2190,7 @@ Produsentens forpliktelser angitt i nr. 2.2 og 5 kan oppfylles av vedkommendes r
 
 ## Vedlegg IV: EU-samsvarserklæring
 
-EU-SAMSVARSERKLÆRING (NR. XXXX)1
+EU-SAMSVARSERKLÆRING (NR. XXXX)[^1]
 
 1. Nr. ... (produkt-, type-, parti- eller serienummer):
 2. Navn og adresse til produsenten og eventuelt dennes representant:

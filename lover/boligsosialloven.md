@@ -15,7 +15,7 @@ xml_hash: "432dd0a65fc840cea0f13469e4b88d7d1c972f53e2287d932b6b9dea43c15d4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,7 @@ Kravene til planstrategi og kommuneplan etter [§ 5](lov/2022-12-20-121/§5) ann
 
 ## § 11. Ikrafttredelse
 
-Loven gjelder fra den tiden1 Kongen bestemmer.
+Loven gjelder fra den tiden[^1] Kongen bestemmer.
 
 1 Fra 1. juli 2023 iflg. [res. 20 des 2022 nr. 2299](forskrift/2022-12-20-2299).
 

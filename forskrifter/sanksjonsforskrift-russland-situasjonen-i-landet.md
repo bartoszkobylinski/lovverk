@@ -15,7 +15,7 @@ xml_hash: "1230f5ef1ec15c77c33fccb82ed2521ac45d6ba39893a716d5db6b1063c3d76b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -390,7 +390,7 @@ Liste over utstyr, teknologi og programvare omtalt i artikkel 3
 
 Notwithstanding the contents of this Annex, it shall not apply:
 
-1. to equipment, technology or software which are specified in Annex I to [Regulation (EU) 2021/821](eu/32021r0821) of the European Parliament and of the Council1 or the Common Military List;
+1. to equipment, technology or software which are specified in Annex I to [Regulation (EU) 2021/821](eu/32021r0821) of the European Parliament and of the Council[^1] or the Common Military List;
 2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
 3. software which is in the public domain; or
 4. where Article 2a of [Regulation (EU) No 833/2014](eu/32014r0833) applies.

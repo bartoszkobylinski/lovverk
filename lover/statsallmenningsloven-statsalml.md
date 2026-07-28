@@ -15,7 +15,7 @@ xml_hash: "ecd77bd92daf8aaa8191bda8d205351d1dec666a0a99f67e991d187875985128"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -431,7 +431,7 @@ Overtredelse av bestemmelsene i denne lov, av bruksregler godkjent av departemen
 
 ### § 4-10. (ikrafttredelse)
 
-Loven trer i kraft fra den tid Kongen1 bestemmer.
+Loven trer i kraft fra den tid Kongen[^1] bestemmer.
 
 1 Fra 1 jan 1993 iflg. [res. 13 nov 1992 nr. 796](forskrift/1992-11-13-796).
 

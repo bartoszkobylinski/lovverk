@@ -15,7 +15,7 @@ xml_hash: "36244915935fa9f53038fba2e890b997039a419f598ac452478175c73d1d3a1c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Angreskjema
 
-Forbrukeren skal ved avtaler der forbrukeren har angrerett i medhold av angrerettloven motta standardisert skjema for bruk av angrerett (angreskjema).1
+Forbrukeren skal ved avtaler der forbrukeren har angrerett i medhold av angrerettloven motta standardisert skjema for bruk av angrerett (angreskjema).[^1]
 
 Ved avtaler om varer og tjenester som ikke er finansielle tjenester, skal angreskjemaet tilsvare malen inntatt i forbrukerrettighetsdirektivet (Europaparlaments- og Rådsdirektiv [2011/83/EU](eu/32011l0083)) vedlegg 1 B.
 

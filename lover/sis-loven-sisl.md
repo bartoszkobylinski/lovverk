@@ -15,7 +15,7 @@ xml_hash: "5200cb54fa801a817ce27245363099956e8e76e0c22518ca63c5ff132d2b67b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32018R1860"
@@ -313,7 +313,7 @@ Departementet kan gi forskrift til utfylling og gjennomføring av denne loven, h
 
 ### § 24. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 > Endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 27).
 

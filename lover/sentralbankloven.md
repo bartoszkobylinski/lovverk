@@ -15,7 +15,7 @@ xml_hash: "0fb4f4a2e9ce21a505ae7d5c640c048165a19eee66744af99254494383ec9df0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -504,7 +504,7 @@ Den som forsettlig eller uaktsomt overtrer bestemmelser eller vedtak i medhold a
 
 ### § 6-1. Ikrafttredelses- og overgangsbestemmelser
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid. Kongen kan gi overgangsbestemmelser.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid. Kongen kan gi overgangsbestemmelser.
 
 1 Loven trer i kraft 1. januar 2020 med unntak av § 6-2 nr 3, for så vidt gjelder omparagraferingen av [lov om Statens pensjonsfond § 7](lov/2005-12-21-123/§7) til [§ 9](lov/2005-12-21-123/§9) og endringen i [§ 10](lov/2005-12-21-123/§10) nytt annet ledd, som trer i kraft 1. juli 2019, iflg. [res. 21 juni 2019 nr. 804](forskrift/2019-06-21-804).
 

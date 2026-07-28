@@ -15,7 +15,7 @@ xml_hash: "ef519e6e7141fe97d188d7be526184e459320a83517491a6b626ddc7664d23a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31985L0374"
@@ -244,7 +244,7 @@ Erstatningskrav foreldes etter reglene i [lov 18 mai 1979 nr 18](lov/1979-05-18-
 
 ### § 4-1. (ikrafttredelse)
 
-(1) Loven tar til å gjelde fra den tid Kongen bestemmer.1 [Kapittel](lov/1988-12-23-104/kap3) 3 kan settes i kraft særskilt til annen tid enn loven ellers.
+(1) Loven tar til å gjelde fra den tid Kongen bestemmer.[^1] [Kapittel](lov/1988-12-23-104/kap3) 3 kan settes i kraft særskilt til annen tid enn loven ellers.
 
 (2) [Lovens kapittel 1](lov/1988-12-23-104/kap1) og 2 får ikke anvendelse på produkter som har forlatt produsentens kontroll (jf [§ 1-2](lov/1988-12-23-104/§1-2) tredje ledd) før lovens ikraftredelse. [Lovens kapittel 3](lov/1988-12-23-104/kap3) får ikke anvendelse på produkter som er gitt til forbruk (jf [§ 1-2](lov/1988-12-23-104/§1-2) annet ledd) før lovens ikrafttredelse.
 

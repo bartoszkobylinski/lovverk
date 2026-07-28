@@ -16,7 +16,7 @@ xml_hash: "b8dd753470cb3c879e118acc1897e13668a19468da927a5c60d35c9cb0c67eff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -758,7 +758,7 @@ Brukerbegrensningene nevnt i [§ 11](forskrift/2013-11-18-1403/§11) første led
 
    I tillegg til opplysningene nevnt i første ledd skal kjemisk leketøy ha følgende advarsel på emballasjen:
 
-   «Ikke egnet for barn under1 år. Skal brukes under tilsyn av en voksen.»
+   «Ikke egnet for barn under[^1] år. Skal brukes under tilsyn av en voksen.»
 
    Særlig skal følgende betraktes som kjemisk leketøy: kjemisett, plaststøpesett, miniatyrverksteder for keramikk, emaljeringsutstyr eller fotoutstyr og liknende leketøy som frambringer en kjemisk reaksjon eller liknende stoffendring under bruk.
 5. *Skøyter, rulleskøyter, inline-skøyter, rullebrett, sparkesykler og lekesykler til barn*

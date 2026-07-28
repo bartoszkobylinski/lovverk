@@ -15,7 +15,7 @@ xml_hash: "17abe5e958d9df8f92616f313995fe75a63913b2a66d5f1124b2c7780dca273b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -113,7 +113,7 @@ Skip som skal foreta operasjoner eller gå i transitt i et område som er define
 
 ### § 7. Terroralarmsystem (Ship security alert system)
 
-(1) Fartøy som omfattes av denne forskrift skal ha et terroralarmsystem om bord i henhold til bestemmelsene i SOLAS kap. XI-2, regel 6.1
+(1) Fartøy som omfattes av denne forskrift skal ha et terroralarmsystem om bord i henhold til bestemmelsene i SOLAS kap. XI-2, regel 6.[^1]
 
 (2) Dersom Hovedredningssentralen mottar alarm fra et norsk fartøy, skal fartøyets rederi snarest mulig bli varslet om dette. Hvert rederi skal ha etablert prosedyrer for å kunne få avklart om det dreier seg om tilsiktet utsendelse av terroralarm eller ikke, og hvis mulig fremskaffe opplysninger om situasjonen om bord. Eventuell kontakt med fartøyet skal skje på en slik måte at ingen uvedkommende vil kunne forstå at det er mottatt terroralarm fra fartøyet.
 
@@ -369,7 +369,7 @@ Skipet skal ha en hensiktsmessig beredskapsplan for håndtering av sikkerhetstru
 
 ## Vedlegg 1
 
-Se her for å lese forordning [(EF) nr. 725/2004](eu/32004r0725):1 [(pdf)](static/SF/32004r0725.pdf)
+Se her for å lese forordning [(EF) nr. 725/2004](eu/32004r0725):[^1] [(pdf)](static/SF/32004r0725.pdf)
 
 > Tilføyd ved [forskrift 4 feb 2005 nr. 119](forskrift/2005-02-04-119).
 

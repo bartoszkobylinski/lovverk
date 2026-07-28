@@ -17,7 +17,7 @@ xml_hash: "3beba360f90c577bc428f3f2a7a8e2cd5769371f9e8302051ea5c94c62f2618a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -264,7 +264,7 @@ Virksomheter som er godkjent eller registrert i henhold til [forskrift 7. novemb
 - Irland
 - Frankrike
 
-*Regioner av EU-stater*\*
+*Regioner av EU-stater*[^\*]
 
 - Nord-Irland
 
@@ -293,7 +293,7 @@ Virksomheter som er godkjent eller registrert i henhold til [forskrift 7. novemb
 - Panama
 - Paraguay
 - Peru
-- Serbia1
+- Serbia[^1]
 - Singapore
 - England, Wales og Skottland i Storbritannia
 - USA
@@ -411,7 +411,7 @@ som endret ved:
 av 22. mai 2001
 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse overførbare spongiforme encefalopatier
 
-[EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR1 –
+[EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR[^1] –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 152 nr. 4 bokstav b),
 
@@ -442,7 +442,7 @@ ut fra følgende betraktninger:
 
 ►**M30**
 
-- Europaparlamentet har i sin resolusjon av 28. oktober 2004\*\* uttrykt bekymring for bruk av animalske proteiner i fôr til drøvtyggere, i og med at dette ikke utgjør en naturlig del av ernæringen til voksent storfe. I etterdønningene etter krisene med BSE og munn- og klovsyke, er det blitt en stadig mer utbredt holdning at den beste måten å sikre menneskers og dyrs helse på, er å holde og fôre dyr på en måte som respekterer de enkelte arters særpreg. I samsvar med føre-var-prinsippet og under hensyn til drøvtyggeres naturlige kostvaner og levekår, er det derfor nødvendig å opprettholde forbudet mot å fôre drøvtyggere med animalske proteiner i en form som vanligvis ikke er en del av deres naturlige kosthold.
+- Europaparlamentet har i sin resolusjon av 28. oktober 2004[^\*\*] uttrykt bekymring for bruk av animalske proteiner i fôr til drøvtyggere, i og med at dette ikke utgjør en naturlig del av ernæringen til voksent storfe. I etterdønningene etter krisene med BSE og munn- og klovsyke, er det blitt en stadig mer utbredt holdning at den beste måten å sikre menneskers og dyrs helse på, er å holde og fôre dyr på en måte som respekterer de enkelte arters særpreg. I samsvar med føre-var-prinsippet og under hensyn til drøvtyggeres naturlige kostvaner og levekår, er det derfor nødvendig å opprettholde forbudet mot å fôre drøvtyggere med animalske proteiner i en form som vanligvis ikke er en del av deres naturlige kosthold.
 - Mekanisk utbeinet kjøtt framkommer ved at kjøttet fjernes fra beinet, slik at muskelfibrene mister eller endrer sin struktur. Det kan inneholde beinbiter og periosteum (beinhinne). Mekanisk utbeinet kjøtt kan derfor ikke sidestilles med alminnelig kjøtt. Bruk av dette til konsum, bør følgelig vurderes på nytt.
 
 ◄**M30**
@@ -595,9 +595,9 @@ Hurtigprøvene skal godkjennes for dette formål etter framgangsmåten fastsatt 
 
 1a. Det årlige programmet for overvåking som nevnt i nr. 1 skal omfatte minst følgende delpopulasjoner:
 
-1. alt storfe over 24 måneder som er sendt til nødslakting eller med kliniske symptomer ved kontroll ante mortem,1
-2. alt storfe over 30 måneder som er slaktet på vanlig måte med henblikk på konsum,2
-3. alt storfe over 24 måneder som ikke er slaktet med henblikk på konsum og er døde eller er blitt avlivet på driftsenheten, under transport eller på et slakteri (selvdøde dyr).1
+1. alt storfe over 24 måneder som er sendt til nødslakting eller med kliniske symptomer ved kontroll ante mortem,[^1]
+2. alt storfe over 30 måneder som er slaktet på vanlig måte med henblikk på konsum,[^2]
+3. alt storfe over 24 måneder som ikke er slaktet med henblikk på konsum og er døde eller er blitt avlivet på driftsenheten, under transport eller på et slakteri (selvdøde dyr).[^1]
 
 EØS-statene kan gjøre unntak fra bestemmelsen i bokstav c) i fjerntliggende områder med lav dyretetthet, der det ikke organiseres innsamling av døde dyr. EØS-stater som benytter denne muligheten, skal underrette ESA/Kommisjonen og framlegge en liste over de berørte områdene med en begrunnelse for unntaket. Unntaket skal ikke omfatte mer enn 10 % av storfebestanden i en EØS-stat.
 
@@ -665,7 +665,7 @@ På anmodning fra en EØS-stat eller tredjestat kan det etter framgangsmåten ne
 
 ►**M30**
 
-1\. Spesifisert risikomateriale skal fjernes og destrueres i samsvar med vedlegg V i denne forordning og forordning [(EF) nr. 1774/2002](eu/32002r1774*).1 Det skal ikke importeres til EØS-området.
+1\. Spesifisert risikomateriale skal fjernes og destrueres i samsvar med vedlegg V i denne forordning og forordning [(EF) nr. 1774/2002](eu/32002r1774*).[^1] Det skal ikke importeres til EØS-området.
 
 Listen over spesifisert risikomateriale nevnt i vedlegg V skal minst omfatte hjerne, ryggmarg, øyne og mandler fra storfe som er over tolv måneder, samt virvelsøyle fra storfe over en bestemt alder som skal fastsettes etter framgangsmåten nevnt i artikkel 24 nr. 3. Idet det tas hensyn til de ulike risikokategoriene som er fastsatt i artikkel 5 nr. 1 første ledd samt kravene i artikkel 6 nr. 1a og 1b, skal listen over spesifisert risikomateriale i vedlegg V endres tilsvarende.
 
@@ -744,7 +744,7 @@ En EØS-stat kan etter framgangsmåten fastsatt i artikkel 24 nr. 2, og som unnt
 
 ►**M30**
 
-3\. Alle kroppsdeler av dyret under mistanke, herunder huden, skal enten holdes tilbake under offentlig tilsyn til det er stilt en negativ diagnose, eller destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*).1
+3\. Alle kroppsdeler av dyret under mistanke, herunder huden, skal enten holdes tilbake under offentlig tilsyn til det er stilt en negativ diagnose, eller destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*).[^1]
 
 ◄**M30**
 
@@ -758,11 +758,11 @@ En EØS-stat kan etter framgangsmåten fastsatt i artikkel 24 nr. 2, og som unnt
 
 ►**M30**
 
-1. alle dyrets kroppsdeler skal destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*), unntatt materiale som holdes tilbake for registrering i samsvar med kapittel B i vedlegg III til denne forordning.1
+1. alle dyrets kroppsdeler skal destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*), unntatt materiale som holdes tilbake for registrering i samsvar med kapittel B i vedlegg III til denne forordning.[^1]
    ◄**M30**
 2. det skal gjennomføres en undersøkelse for å finne fram til alle dyr som er i fare for å bli angrepet, i samsvar med vedlegg VII nr. 1.
    ►**M30**
-3. alle dyr og produkter av animalsk opprinnelse som er oppført i vedlegg VII nr. 2 til denne forordning og i undersøkelsen nevnt i bokstav b) i dette nummer er identifisert som å stå i fare for å bli angrepet, skal nedslaktes og destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*).1
+3. alle dyr og produkter av animalsk opprinnelse som er oppført i vedlegg VII nr. 2 til denne forordning og i undersøkelsen nevnt i bokstav b) i dette nummer er identifisert som å stå i fare for å bli angrepet, skal nedslaktes og destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*).[^1]
 
 På anmodning fra en EØS-stat og på grunnlag av en gunstig risikovurdering som særlig tar hensyn til kontrolltiltak i gjeldende EØS-stat, kan det etter framgangsmåten nevnt i artikkel 24 nr. 2, treffes beslutning om å tillate bruk av storfe som omhandlet i dette nummer, inntil dyrene ikke lenger benyttes til produksjon.
 
@@ -955,7 +955,7 @@ De relevante vitenskapskomiteene skal rådspørres om alle spørsmål innenfor d
 
 [Denne forordning trer i kraft dagen etter at den er kunngjort i *De Europeiske Fellesskaps Tidende*.
 
-Den får anvendelse fra 1. juli 2001.]1
+Den får anvendelse fra 1. juli 2001.][^1]
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle Medlemstater.
 
@@ -968,7 +968,7 @@ Særlige definisjoner ◄**M10**
 
 ►**M66**
 
-1\. I denne forordningen gjelder følgende definisjoner i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*, kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)\*\*, europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)\*\*\*, europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)\*\*\*\*, rådsdirektiv [2006/88/EF](eu/32006l0088)\*\*\*\*\* og europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012)\*\*\*\*\*\*:
+1\. I denne forordningen gjelder følgende definisjoner i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)[^\*], kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)[^\*\*], europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^\*\*\*], europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)[^\*\*\*\*], rådsdirektiv [2006/88/EF](eu/32006l0088)[^\*\*\*\*\*] og europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012)[^\*\*\*\*\*\*]:
 
 ◄**M66**
 
@@ -1184,7 +1184,7 @@ I dette vedlegg menes med:
 
 1. Type A-overvåking
 
-   Gjennom type A-overvåking skal det være mulig å oppdage en antatt prevalens av BSE1 på minst ett tilfelle per 100 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.
+   Gjennom type A-overvåking skal det være mulig å oppdage en antatt prevalens av BSE[^1] på minst ett tilfelle per 100 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.
 2. Type B-overvåking
 
    Gjennom type B-overvåking skal det være mulig å oppdage en antatt prevalens av BSE på minst ett tilfelle per 50 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.
@@ -1222,7 +1222,7 @@ Overvåkingsprøvene må oppnå målverdiene i tabell 2 på grunnlag av poengene
 |  |  |  |  |
 | --- | --- | --- | --- |
 | Overvåket delpopulasjon |  |  |  |
-| Vanlig slakt1 | Selvdøde dyr2 | Nødslakt3 | Klinisk mistenkt4 |
+| Vanlig slakt[^1] | Selvdøde dyr[^2] | Nødslakt[^3] | Klinisk mistenkt[^4] |
 | Alder ≥ 1 år og < 2 år |  |  |  |
 | 0,01 | 0,2 | 0,4 | Ikke relevant |
 | Alder ≥ 2 år og < 4 år (ung voksen) |  |  |  |
@@ -1333,7 +1333,7 @@ Alt friskt storfe eldre enn 30 måneder som slaktes på vanlig måte for konsum,
 
 3.1.
 
-Alt storfe som er eldre enn 24 måneder1 og som er døde eller avlivet, men som ikke:
+Alt storfe som er eldre enn 24 måneder[^1] og som er døde eller avlivet, men som ikke:
 
 - ble avlivet for destruering i henhold til kommisjonsforordning [(EF) nr. 716/96](eu/31996r0716),
 - ble avlivet i forbindelse med en epidemi, for eksempel munn- og klovsyke,
@@ -1396,7 +1396,7 @@ Medlemsstatene kan gjøre unntak fra bestemmelsene i nr. 6.5 dersom det er etabl
 Medlemsstatenes anmodninger til Kommisjonen om revisjon av deres årlige programmer for overvåking av BSE skal inneholde minst følgende:
 
 1. opplysninger om det system for årlig BSE-overvåking som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder detaljert dokumentasjon som viser at de epidemiologiske kriteriene i nr. 7.2 er oppfylt,
-2. opplysninger om det system for identifikasjon og sporbarhet med hensyn til storfe, som omhandlet i artikkel 6 punkt 1b tredje ledd bokstav b), som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder en detaljert beskrivelse av hvordan den edb–baserte databasen nevnt i artikkel 5 i europaparlaments- og rådsforordning [1760/2000](eu/32000r1760)\* virker,
+2. opplysninger om det system for identifikasjon og sporbarhet med hensyn til storfe, som omhandlet i artikkel 6 punkt 1b tredje ledd bokstav b), som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder en detaljert beskrivelse av hvordan den edb–baserte databasen nevnt i artikkel 5 i europaparlaments- og rådsforordning [1760/2000](eu/32000r1760)[^\*] virker,
 3. opplysninger om fôrforbud på medlemsstatens territorium de siste seks årene, herunder en detaljert beskrivelse av håndhevingen av fôrforbudet for produksjonsdyr nevnt i artikkel 6 punkt 1b tredje ledd bokstav c), inklusive en prøvetakingsplan og antallet og arten av overtredelser som er fastslått samt resultatene av oppfølgingen,
 4. en detaljert beskrivelse av det foreslåtte reviderte overvåkingsprogrammet for BSE, herunder det geografiske området der programmet skal gjennomføres og en beskrivelse av delpopulasjonene av storfe som skal omfattes av det reviderte programmet for overvåking av BSE, inklusive opplysninger om aldersgrenser og antall prøver som skal undersøkes,
 5. resultatet av en omfattende risikoanalyse som viser at det reviderte overvåkingsprogrammet for BSE vil sikre vern av menneskers og dyrs helse. Risikoanalysen skal inneholde en analyse av fødselskohort eller andre relevante undersøkelser som viser at de risikoreduserende tiltakene, herunder fôrforbudet nevnt i artikkel 6 punkt 1b tredje ledd bokstav c), er gjennomført på en effektiv måte.
@@ -1455,7 +1455,7 @@ EØS-statene skal ta prøver i samsvar med prøvetakingsreglene fastsatt i nr. 4
 
 *Tabell A*
 
-| *EØS-statens populasjon av søyer og bedekkede søyelam* | *Minste prøvestørrelse for døde sauer1* |
+| *EØS-statens populasjon av søyer og bedekkede søyelam* | *Minste prøvestørrelse for døde sauer[^1]* |
 | --- | --- |
 | >750 000 | 10 000 |
 | 100 000-750 000 | 1 500 |
@@ -1466,7 +1466,7 @@ EØS-statene skal ta prøver i samsvar med prøvetakingsreglene fastsatt i nr. 4
 
 *Tabell B*
 
-| *EØS-statens populasjon av geiter som har fått kje og bedekkede geiter* | *Minste prøvestørrelse for døde geiter1* |
+| *EØS-statens populasjon av geiter som har fått kje og bedekkede geiter* | *Minste prøvestørrelse for døde geiter[^1]* |
 | --- | --- |
 | >750 000 | 10 000 |
 | 250 000-750 000 | 1 500 |
@@ -1763,7 +1763,7 @@ III. REGISTRE
 2. Laboratoriet som utfører undersøkelsene, skal i sju år oppbevare registre med alle opplysninger fra prøvene, særlig laboratoriejournaler og, eventuelt, parafinblokker og fotografier av Western blot.
    ◄**M54**
 
-### Vedlegg IV1
+### Vedlegg IV[^1]
 ►**M48**
 Fôrvarer
 
@@ -2411,8 +2411,8 @@ Eksport av bearbeidet animalsk protein og produkter som inneholder slikt protein
 
 1\. Eksport av bearbeidet animalsk protein fra drøvtyggere, eller av bearbeidet animalsk protein fra både drøvtyggere og andre dyr enn drøvtyggere, er tillatt forutsatt at følgende vilkår er oppfylt:
 
-1. Det bearbeidede animalske proteinet skal transporteres i forseglede containere, direkte fra bearbeidingsanlegget der det er framstilt, til utførselsstedet fra Unionens territorium, som skal være en grensekontrollstasjon oppført i vedlegg I til kommisjonsvedtak [2009/821/EF](eu/32009d0821).\* Før utførsel fra Unionens territorium skal den driftsansvarlige som har ansvaret for å ordne transporten av det bearbeidede animalske proteinet, underrette vedkommende myndighet på grensekontrollstasjonen om forsendelsens ankomst på utførselsstedet.
-2. Forsendelsen skal følges av et behørig utfylt handelsdokument som er utarbeidet i samsvar med modellen fastsatt i nr. 6 i kapittel III i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142) og utstedt av det integrerte edb-systemet for veterinærmyndighetene (TRACES), som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292).\*\* På dette handelsdokumentet skal utførselsgrensekontrollstasjonen være angitt som utførselssted i felt I.28.
+1. Det bearbeidede animalske proteinet skal transporteres i forseglede containere, direkte fra bearbeidingsanlegget der det er framstilt, til utførselsstedet fra Unionens territorium, som skal være en grensekontrollstasjon oppført i vedlegg I til kommisjonsvedtak [2009/821/EF](eu/32009d0821).[^\*] Før utførsel fra Unionens territorium skal den driftsansvarlige som har ansvaret for å ordne transporten av det bearbeidede animalske proteinet, underrette vedkommende myndighet på grensekontrollstasjonen om forsendelsens ankomst på utførselsstedet.
+2. Forsendelsen skal følges av et behørig utfylt handelsdokument som er utarbeidet i samsvar med modellen fastsatt i nr. 6 i kapittel III i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142) og utstedt av det integrerte edb-systemet for veterinærmyndighetene (TRACES), som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292).[^\*\*] På dette handelsdokumentet skal utførselsgrensekontrollstasjonen være angitt som utførselssted i felt I.28.
 3. Når forsendelsen kommer til utførselsstedet, skal vedkommende myndighet på grensekontrollstasjonen kontrollere forseglingen på hver container som framlegges ved grensekontrollstasjonen.
 
 Som unntak, basert på en risikoanalyse, kan vedkommende myndighet på grensekontrollstasjonen beslutte å kontrollere containerens forsegling på stikkprøvebasis.
@@ -2435,7 +2435,7 @@ Som unntak får dette forbudet ikke anvendelse på
    2. er emballert og merket i samsvar med Unionens regelverk,
 
    ►**M74**
-2. organisk gjødsel eller jordforbedringsmidler, som definert i artikkel 3 nr. 22 i forordning [(EF) nr. 1069/2009](eu/32009r1069), hvis sammensetning inneholder bearbeidede animalske proteiner fra drøvtyggere eller en blanding av bearbeidede animalske proteiner fra drøvtyggere og andre dyr enn drøvtyggere, forutsatt at de enten har nådd sluttpunktet som definert i artikkel 4 nr. 1 bokstav c) eller i artikkel 4 nr. 2 i delegert kommisjonsforordning [(EU) 2023/1605](eu/32023r1605)\*, eller
+2. organisk gjødsel eller jordforbedringsmidler, som definert i artikkel 3 nr. 22 i forordning [(EF) nr. 1069/2009](eu/32009r1069), hvis sammensetning inneholder bearbeidede animalske proteiner fra drøvtyggere eller en blanding av bearbeidede animalske proteiner fra drøvtyggere og andre dyr enn drøvtyggere, forutsatt at de enten har nådd sluttpunktet som definert i artikkel 4 nr. 1 bokstav c) eller i artikkel 4 nr. 2 i delegert kommisjonsforordning [(EU) 2023/1605](eu/32023r1605)[^\*], eller
 
    ◄**M74**
 
@@ -2708,7 +2708,7 @@ Det skal opprettes et kontrollsystem for fjerning av virvelsøylen som angitt i 
 1. Dersom det ikke kreves at virvelsøylen fjernes, skal skrotter av storfe, eller stykker av skrotter for engrossalg, som inneholder virvelsøyle, fram til 30. juni 2017 identifiseres ved hjelp av en godt synlig blå stripe på etiketten nevnt i artikkel 13 i forordning [(EF) nr. 1760/2000](eu/32000r1760).
 
    Dersom det kreves at virvelsøylen fjernes, skal skrotter av storfe, eller stykker av skrotter for engrossalg, som inneholder virvelsøyle, fra 1. juli 2017 identifiseres ved hjelp av en godt synlig rød stripe på etiketten nevnt i artikkel 13 i forordning [(EF) nr. 1760/2000](eu/32000r1760).
-2. Når det er relevant, en særskilt angivelse av antallet skrotter av storfe eller antallet skrotter av storfe oppdelt i stykker for engrossalg, der det kreves at virvelsøylen fjernes, skal tilføyes handelsdokumentet knyttet til forsendelser av kjøtt. Når det er relevant, skal denne særskilte angivelsen tilføyes det felles veterinærdokument til bruk ved import (CVED) nevnt i artikkel 2 nr. 1 i kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136),\* når det gjelder import.
+2. Når det er relevant, en særskilt angivelse av antallet skrotter av storfe eller antallet skrotter av storfe oppdelt i stykker for engrossalg, der det kreves at virvelsøylen fjernes, skal tilføyes handelsdokumentet knyttet til forsendelser av kjøtt. Når det er relevant, skal denne særskilte angivelsen tilføyes det felles veterinærdokument til bruk ved import (CVED) nevnt i artikkel 2 nr. 1 i kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136),[^\*] når det gjelder import.
 3. Slakterier skal oppbevare handelsdokumentene nevnt i bokstav b) i minst et år.
 
 \* Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved import av produkter fra tredjestater (EUT L 21 av 28.1.2004, s. 11).
@@ -3116,7 +3116,7 @@ Medlemsstater som innfører nasjonale avlsprogrammer med sikte på utvelging for
 ### Vedlegg VIII
 Markedsføring og eksport
 
-### ►**M50** Kapittel A1
+### ►**M50** Kapittel A[^1]
 Vilkår for handel innenfor Unionen med levende dyr, sæd og embryoer
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg VIII kap. A, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3152,7 +3152,7 @@ En driftsenhet med sauer og/eller geiter kan anerkjennes som en driftsenhet med 
    3. Sauer med prionproteingenotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146.
    4. Sauer eller geiter som oppfyller vilkårene fastsatt i punkt i) eller ii), unntatt det tidsrommet de ble holdt på en sædstasjon, forutsatt at sædstasjonen oppfyller følgende vilkår:
 
-      - Sædstasjonen er godkjent i samsvar med del II kapittel 1 i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)\*.
+      - Sædstasjonen er godkjent i samsvar med del II kapittel 1 i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)[^\*].
       - I løpet av de siste sju årene ble bare sauer og geiter fra driftsenheter som i løpet av denne perioden har oppfylt vilkårene fastsatt i bokstav a), b) og e), og som har vært gjenstand for regelmessig kontroll av en offisiell veterinær eller en veterinær godkjent av vedkommende myndighet, innført i sædstasjonen.
       - Ingen tilfeller av klassisk skrapesyke har vært bekreftet på sædstasjonen i løpet av de siste sju årene.
       - Det er gjennomført biosikkerhetstiltak på sædstasjonen for å sikre at sauer og geiter som holdes på stasjonen, og som kommer fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, verken direkte eller indirekte har kontakt med sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
@@ -3303,7 +3303,7 @@ Følgende medlemsstaters nasjonale programmer for bekjempelse av skrapesyke godk
 
 - Danmark
 - Slovenia
-- Norge.2
+- Norge.[^2]
 
 2 Norges nasjonal program for bekjempelse av skrapesyke er godkjent gjennom tilpasningstekst til EØS-avtalen, jf. EØS-komitébeslutning 161/2014.
 
@@ -3335,7 +3335,7 @@ Sauer og geiter:
       ◄**M66**
 
    ►**M74**
-3. Som unntak fra bokstav a) og b) får kravene fastsatt i nevnte bokstaver ikke anvendelse på sauer og geiter som holdes i og flyttes utelukkende mellom avgrensede anlegg som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429)\*.
+3. Som unntak fra bokstav a) og b) får kravene fastsatt i nevnte bokstaver ikke anvendelse på sauer og geiter som holdes i og flyttes utelukkende mellom avgrensede anlegg som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429)[^\*].
 
    ◄**M74**
 4. Som unntak fra bokstav a) og b) kan vedkommende myndighet i en medlemsstat kan tillate handel innenfor Unionen med dyr som ikke oppfyller kravene fastsatt i nevnte bokstaver, forutsatt at den har innhentet forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten for dyrene, og forutsatt at dyrene oppfyller følgende vilkår:
@@ -3441,7 +3441,7 @@ Som unntak fra nr. 3.1 er følgende forflytninger av levende hjortedyr ut av omr
 1. Forflytninger av levende hjortedyr til Norge, forutsatt at vedkommende myndighet i Norge på forhånd gir sitt skriftlige samtykke til slike forflytninger.
 2. Forflytninger av levende hjortedyr for direkte slakting i Finland eller Sverige, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.
 3. Forflytninger til Finland fra de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende skogsrein, forutsatt at vedkommende myndighet i Finland på forhånd gir sitt skriftlige samtykke til slike forflytninger.
-4. Forflytninger av levende hjortedyr fra et avgrenset anlegg som definert i artikkel 4 nr. 48 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429),1 og som ligger i et område som er oppført i nr. 1.2 bokstav b) i dette vedlegget, til et avgrenset anlegg, som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), i Sverige, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+4. Forflytninger av levende hjortedyr fra et avgrenset anlegg som definert i artikkel 4 nr. 48 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429),[^1] og som ligger i et område som er oppført i nr. 1.2 bokstav b) i dette vedlegget, til et avgrenset anlegg, som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), i Sverige, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
 
 4\.
 
@@ -3463,7 +3463,7 @@ Som unntak fra nr. 4.1 er følgende forflytninger av levende hjortedyr ut av en 
 
 ◄**M72**
 
-### Kapittel B1
+### Kapittel B[^1]
 Vilkår for avkom av dyr som er mistenkt for eller bekreftet å være angrepet av TSE i samsvar med artikkel 15 nr. 2
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg VIII kap. A, B og D, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3509,7 +3509,7 @@ Lokkemidler for jakt som inneholder urin fra hjortedyr
 
 ◄**M72**
 
-### Kapittel D1
+### Kapittel D[^1]
 Vilkår for eksport
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg VIII kap. A, B og D, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3520,7 +3520,7 @@ Reglene fastsatt i denne forordning for handel innenfor EØS-området får også
 Import til unionen av levende dyr, embryoer, egg og produkter av animalsk opprinnelse
 
 ### KAPITTEL B
-Import av storfe1
+Import av storfe[^1]
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. B, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
 
@@ -3530,7 +3530,7 @@ Import fra en stat eller region med en ubetydelig BSE-risiko
 
 Ved import av storfe fra en stat eller region med en ubetydelig BSE-risiko skal det framlegges et helsesertifikat som attesterer at
 
-1. Dyrene ble født og oppdrettet uten avbrudd i en stat eller region eller stater eller regioner som er klassifisert i samsvar med kommisjonsvedtak [2007/453/EF](eu/32007d0453)\* som stater eller regioner med en ubetydelig BSE-risiko,
+1. Dyrene ble født og oppdrettet uten avbrudd i en stat eller region eller stater eller regioner som er klassifisert i samsvar med kommisjonsvedtak [2007/453/EF](eu/32007d0453)[^\*] som stater eller regioner med en ubetydelig BSE-risiko,
    ►**M64**
 2. Dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
    ◄**M64**
@@ -3755,7 +3755,7 @@ Som unntak fra forrige ledd kreves ikke sertifikatet nevnt i bokstav a) og b) ve
 ◄**M64**
 
 ### Kapittel E
-Import av sauer og geiter1
+Import av sauer og geiter[^1]
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. E, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
 
@@ -3811,7 +3811,7 @@ Import av animalske produkter fra oppdrettshjortedyr og viltlevende hjortedyr
 ◄**M72**
 
 ### Kapittel H
-Import av sæd og embryoer av sauer og geiter1
+Import av sæd og embryoer av sauer og geiter[^1]
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. H, jf. EØS-avtalen vedlegg I del 7.1. nr. 12
 

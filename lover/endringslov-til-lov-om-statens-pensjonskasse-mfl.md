@@ -15,7 +15,7 @@ xml_hash: "85ccca8632b169ae501458b038910cdf27f6ed8bf7d247813bb495cd8a551497"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## V. Ikrafttredelse og overgangsbestemmelser
 
-1. Loven trer i kraft fra den tid Kongen bestemmer.1
+1. Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 2. Departementet gir forskrifter om uførepensjon fra tjenestepensjonsordning som omfattes av loven her, og som utbetales når loven trer i kraft, herunder regler om barnetillegg og senere endringer i pensjonene.
 3. Uførepensjonister som har fylt 67 år når loven her trer i kraft, går over på alderspensjon fra og med måneden loven trer i kraft.
 

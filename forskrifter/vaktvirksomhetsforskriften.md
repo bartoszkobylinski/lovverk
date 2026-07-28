@@ -15,7 +15,7 @@ xml_hash: "30c8e1533cfbebb0a7e40e182e81edc435d7bf4b8dfbdce8658985a199f36825"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -427,7 +427,7 @@ Foretak og forvaltningsorgan som skal utøve vaktvirksomhet skal ha forsikring s
 
 ### § 50. Ikrafttredelse
 
-Forskriften trer i kraft 1. april 2011, med unntak av [§ 7](forskrift/2011-03-28-337/§7) og [§ 10](forskrift/2011-03-28-337/§10) til [§ 15](forskrift/2011-03-28-337/§15) som trer i kraft 1. januar 20181 og [§ 8](forskrift/2011-03-28-337/§8) tredje ledd og [§ 9](forskrift/2011-03-28-337/§9) annet ledd som trer i kraft 1. oktober 2023. Fra 1. april 2011 oppheves [forskrift 25. mai 2004 nr. 787 om vaktvirksomhet](forskrift/2004-05-25-787).
+Forskriften trer i kraft 1. april 2011, med unntak av [§ 7](forskrift/2011-03-28-337/§7) og [§ 10](forskrift/2011-03-28-337/§10) til [§ 15](forskrift/2011-03-28-337/§15) som trer i kraft 1. januar 2018[^1] og [§ 8](forskrift/2011-03-28-337/§8) tredje ledd og [§ 9](forskrift/2011-03-28-337/§9) annet ledd som trer i kraft 1. oktober 2023. Fra 1. april 2011 oppheves [forskrift 25. mai 2004 nr. 787 om vaktvirksomhet](forskrift/2004-05-25-787).
 
 > Endret ved forskrift [21 april 2023 nr. 526](forskrift/2023-04-21-526).
 

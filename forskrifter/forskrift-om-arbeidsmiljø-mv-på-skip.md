@@ -15,7 +15,7 @@ xml_hash: "a3c381c28794881a3bbbee50d4c2f5e473bd5acf2e1132b8d3e5e34ed989f159"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2197,7 +2197,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 7429-90-5 | Aluminiumpulver (pyroteknikk) |  | 5 |  |  |
    |  | Aluminiumløselige salter (beregnet som Al) |  | 2 |  |  |
    |  | Aluminiumalkyler |  | 2 |  |  |
-   | 1344-28-1 | Aluminiumoksid |  | 10 | 1 |  |
+   | 1344-28-1 | Aluminiumoksid |  | 10 | [^1] |  |
    |  | Aluminium sveiserøyk |  | 5 |  |  |
    | 141-43-5 | 2-aminoetanol | 1 | 2,5 | HE | 2007 |
    |  | 2-aminopropan se 2-propylamin |  |  |  |  |
@@ -2206,10 +2206,10 @@ Listen inneholder følgende anmerkninger (anm.):
    |  |  | 2 | 8,9 | S |  |
    | 61-82-5 | Amitrol |  | 0,2 | E | 2018 |
    |  | Ammat se ammoniumsulfamat |  |  |  |  |
-   | 7664-41-7 | Ammoniakk | 15 | 11 | E2 | 2012 |
+   | 7664-41-7 | Ammoniakk | 15 | 11 | E[^2] | 2012 |
    |  |  | 50 | 36 | S |  |
-   | 12125-02-9 | Ammoniumklorid |  | 10 | 1 |  |
-   | 7773-06-0 | Ammoniumsulfamat |  | 10 | 1 |  |
+   | 12125-02-9 | Ammoniumklorid |  | 10 | [^1] |  |
+   | 7773-06-0 | Ammoniumsulfamat |  | 10 | [^1] |  |
    |  | Amorf silisiumdioksid |  |  |  |  |
    |  | Respirabelt støv |  | 1,5 |  |  |
    | 625-16-1 | tert-amylacetat | 50 | 260 | E |  |
@@ -2232,7 +2232,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 86-50-0 | Azinfosmetyl |  | 0,2 | H |  |
    |  | Aziridin se Etylenimin |  |  |  |  |
    |  | Barium og bariumforb. (unntatt bariumsulfat) (beregnet som Ba) |  | 0,5 | E |  |
-   | 17804-35-2 | Benomyl | 0,8 | 10 | 1 |  |
+   | 17804-35-2 | Benomyl | 0,8 | 10 | [^1] |  |
    | 71-43-2 | Benzen | 0,2 | 0,66 | HKM | 2020 |
    |  | 1,2-benzendiamin se o-fenylendiamin |  |  |  |  |
    | 108-46-3 | 1,3-benzendiol | 10 | 45 | E | 2007 |
@@ -2243,7 +2243,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 94-36-0 | Benzoylperoksid |  | 5 | A |  |
    | 85-68-7 | Benzylbutylftalat (BBP) |  | 1 | RE | 2007 |
    |  | Benzylklorid se α-klortoluen |  |  |  |  |
-   |  | Beryllium og uorganiske berylliumforbindelser (beregnet som Be), inhalerbar |  | 0,00002 | KAG25 | 2021 |
+   |  | Beryllium og uorganiske berylliumforbindelser (beregnet som Be), inhalerbar |  | 0,00002 | KAG[^25] | 2021 |
    |  |  |  | 0,0002 | S |  |
    | 92-52-4 | Bifenyl | 0,2 | 1 |  |  |
    |  | Bis (2,3-epoksypropyl) eter se 2,2'-[oksibis(metylen)] bisoksiran |  |  |  |  |
@@ -2258,9 +2258,9 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Blytetraetyl se tetraetylbly |  |  |  |  |
    |  | Blytetrametyl se tetrametylbly |  |  |  |  |
    |  | Blåsyre se hydrogencyanid |  |  |  |  |
-   |  | Bomullstøv, totalstøv |  | 0,2 | 3 |  |
+   |  | Bomullstøv, totalstøv |  | 0,2 | [^3] |  |
    |  | Boraks se natriumtetraborat dekahydrat |  |  |  |  |
-   | 1303-86-2 | Boroksid |  | 10 | 1 |  |
+   | 1303-86-2 | Boroksid |  | 10 | [^1] |  |
    | 10294-33-4 | Bortribromid | 1 | 10 | T |  |
    | 7637-07-2 | Bortrifluorid | 1 | 3 | T |  |
    | 7726-95-6 | Brom | 0,1 | 0,7 | E |  |
@@ -2345,7 +2345,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 84-74-2 | Dibutylftalat |  | 3 |  |  |
    | 460-19-5 | Dicyan | 10 | 22 |  |  |
    | 60-57-1 | Dieldrin |  | 0,25 |  |  |
-   |  | Dieseleksos (målt som elementært karbon) |  | 0,05 | KG22,23 | 2021 |
+   |  | Dieseleksos (målt som elementært karbon) |  | 0,05 | KG[^22],[^23] | 2021 |
    |  | Dietanolamin se 2,2'-iminodietanol | 3 | 15 |  |  |
    | 109-89-7 | Dietylamin | 5 | 15 | E | 2007 |
    | 100-37-8 | 2-(dietylamino)etanol | 10 | 50 | H |  |
@@ -2359,7 +2359,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 122-39-4 | Difenylamin |  | 5 |  |  |
    | 101-84-8 | Difenyleter | 1 | 7 | E | 2018 |
    |  |  | 2 | 14 | S |  |
-   | 101-68-8 | Difenylmetan-4,4-diisocyanat (MDI) | 0,005 | 0,05 | A4 |  |
+   | 101-68-8 | Difenylmetan-4,4-diisocyanat (MDI) | 0,005 | 0,05 | A[^4] |  |
    |  | Difluordibrommetan se dibromdifluormetan |  |  |  |  |
    | 75-71-8 | Difluordiklormetan | 500 | 2475 |  |  |
    | 75-45-6 | Difluorklormetan | 500 | 1750 | E |  |
@@ -2369,7 +2369,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 120-80-9 | 1,2-dihydroksybenzen | 5 | 20 |  |  |
    |  | 1,3-dihydrokybenzen se 1,3-benzendiol |  |  |  |  |
    |  | Diisobutylketon se 2,6-dimetyl-4-heptanon |  |  |  |  |
-   |  | Diisocyanater | 0,005 |  | A4 |  |
+   |  | Diisocyanater | 0,005 |  | A[^4] |  |
    | 108-18-9 | Diisopropylamin | 5 | 20 | H |  |
    | 108-20-3 | Diisopropyleter | 125 | 525 |  |  |
    | 7572-29-4 | Dikloracetylen | 0,1 | 0,4 | T |  |
@@ -2407,7 +2407,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 300-76-5 | Dimetyl-1,2-dibrom-2,2-dikloretyl fosfat |  | 3 |  |  |
    | 115-10-6 | Dimetyleter | 200 | 384 | E | 2007 |
    | 598-56-1 | Dimetyletylamin | 2 | 6 |  |  |
-   | 68-12-2 | N,N-dimetylformamid | 2 | 6 | HRG26 | 2022 |
+   | 68-12-2 | N,N-dimetylformamid | 2 | 6 | HRG[^26] | 2022 |
    |  |  | 10 | 30 | S | 2022 |
    | 131-11-3 | Dimetylftalat |  | 3 |  |  |
    | 108-83-8 | 2,6-dimetyl-4-heptanon | 20 | 120 |  |  |
@@ -2427,7 +2427,7 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Disul se 2-(2,4-diklorfenoksy)etylsulfat |  |  |  |  |
    | 97-77-8 | Disulfiram |  | 2 |  |  |
    | 10025-67-9 | Disvoveldiklorid | 1 | 6 |  |  |
-   | 5124-30-1 | Disykloheksylmetan-4,4'-diisocyanat | 0,005 | 0,05 | A4 |  |
+   | 5124-30-1 | Disykloheksylmetan-4,4'-diisocyanat | 0,005 | 0,05 | A[^4] |  |
    | 77-73-6 | Disyklopentadien | 5 | 30 |  |  |
    | 298-04-4 | Disyston |  | 0,1 | H |  |
    | 330-54-1 | Diuron |  | 5 | K |  |
@@ -2450,7 +2450,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 4016-14-2 | 2,3-epoksypropyl isopropyleter | 25 | 120 |  |  |
    | 64-17-5 | Etanol | 500 | 950 |  |  |
    |  | Etanolamin se 2-aminoetanol |  |  |  |  |
-   | 107-21-1 | 1,2-etandiol | 20 | 52 | HE5 | 2012 |
+   | 107-21-1 | 1,2-etandiol | 20 | 52 | HE[^5] | 2012 |
    |  |  | 40 | 104 | S |  |
    | 628-96-6 | 1,2-etandioldinitrat | 0,03 | 0,18 | H |  |
    | 75-08-1 | Etantiol | 0,5 | 1 |  |  |
@@ -2579,7 +2579,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 110-54-3 | n-heksan | 20 | 72 | RE | 2007 |
    |  | Heksan (unntatt n-heksan) | 250 | 1050 |  |  |
    | 124-09-4 | Heksandiamin | 0,5 | 1 | HT | 2007 |
-   | 822-06-0 | Heksan-1,6-diisocyanat | 0,005 | 0,035 | A4 |  |
+   | 822-06-0 | Heksan-1,6-diisocyanat | 0,005 | 0,035 | A[^4] |  |
    |  | 2-heksanon se heksan-2-on |  |  |  |  |
    | 591-78-6 | Heksan-2-on | 1 | 4 | H |  |
    |  | sek-heksylacetat se 1,3-dimetylbutyl acetat |  |  |  |  |
@@ -2621,7 +2621,7 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Isocyanater se diisocyanater |  |  |  |  |
    | 26675-46-7 | Isofluran | 2 | 15 | R | 2010 |
    | 78-59-1 | Isoforon | 5 | 25 | T |  |
-   | 4098-71-9 | Isoforondiisocyanat | 0,005 | 0,045 | A4 |  |
+   | 4098-71-9 | Isoforondiisocyanat | 0,005 | 0,045 | A[^4] |  |
    | 26952-21-6 | Isooktan-1-ol | 25 | 135 |  |  |
    |  | Isooktylalkohol se isooktan-1-ol |  |  |  |  |
    | 78-78-4 | Isopentan | 250 | 750 | E | 2007 |
@@ -2652,13 +2652,13 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Respirabelt støv |  | 4 | S |  |
    | 8001-35-2 | Kamfeklor |  | 0,5 | H |  |
    | 76-22-2 | Kamfer (syntetisk) | 2 | 12 |  |  |
-   | 105-60-2 | ε-kaprolaktam | 10 | 40 | E5 | 2012 |
+   | 105-60-2 | ε-kaprolaktam | 10 | 40 | E[^5] | 2012 |
    | 63-25-2 | Karbaryl |  | 5 | H |  |
    | 1563-66-2 | Karbofuran |  | 0,1 | H |  |
    | 124-38-9 | Karbondioksid | 5000 | 9000 | E |  |
    | 75-15-0 | Karbondisulfid | 5 | 15 | HRE | 2011 |
    | 630-08-0 | Karbonmonoksid | 20 | 23 | RE | 2018 |
-   |  |  | 100 | 117 | S6 |  |
+   |  |  | 100 | 117 | S[^6] |  |
    | 558-13-4 | Karbontetrabromid | 0,1 | 1,4 |  |  |
    |  | Karbontetraklorid se tetraklormetan |  |  |  |  |
    | 353-50-4 | Karbonylfluorid | 2 | 5 |  |  |
@@ -2710,8 +2710,8 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Koboltkabonyl (beregnet som Co) |  | 0,1 |  |  |
    | 1319-77-3 | Kresoler (alle isomere) | 5 | 22 | HE |  |
    | 14464-46-1 | Kristobalitt |  |  |  |  |
-   |  | Totalstøv |  | 0,15 | K7 |  |
-   |  | Respirabelt støv |  | 0,05 | KG7,21 | 2021 |
+   |  | Totalstøv |  | 0,15 | K[^7] |  |
+   |  | Respirabelt støv |  | 0,05 | KG[^7],[^21] | 2021 |
    |  | Krom og Cr2+ – og Crm3+ – forb. (beregnet som Cr) |  | 0,5 | E |  |
    |  | Kromsyre og Kromater (beregnet som Cr(VI)), se seksverdige kromforbindelser (beregnet som Cr(VI)) |  |  |  |  |
    |  | Krotonaldehyd se (E)-2-butenal |  |  |  |  |
@@ -2721,10 +2721,10 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Respirabelt støv |  | 1,5 |  |  |
    |  | Kumen se 1-metyletylbenzen |  |  |  |  |
    | 14808-60-7 | Krystallinsk silika (SiO2), α-kvarts |  |  |  |  |
-   |  | Totalstøv |  | 0,3 | K7 |  |
-   |  | Respirabelt støv |  | 0,05 | KG7,21 | 2021 |
+   |  | Totalstøv |  | 0,3 | K[^7] |  |
+   |  | Respirabelt støv |  | 0,05 | KG[^7],[^21] | 2021 |
    |  | Kvikksølv og kvikksølvforb. (unntatt alkylforbindelser) (beregnet som Hg) |  | 0,02 | AE | 2007 |
-   |  | Biologisk grenseverdi for urin | 30 μg Hg/g kreatinin |  | 8 |  |
+   |  | Biologisk grenseverdi for urin | 30 μg Hg/g kreatinin |  | [^8] |  |
    |  | Kvikksølv, alkylforb. (beregnet som Hg) |  | 0,01 | AH |  |
    |  | Limonen se d-limonen, i-limonen og dipenten |  |  |  |  |
    | 5989-27-5 | d-limonen | 25 | 140 | A |  |
@@ -2733,16 +2733,16 @@ Listen inneholder følgende anmerkninger (anm.):
    | 7580-67-8 | Litiumhydrid Inhalerbar |  | 0,02 | SE | 2018 |
    |  | Loddetråd med harpiksholdig kjerne (beregnet som formaldehyd) |  | 0,1 |  |  |
    |  | Lystgass se dinitrogenoksid |  |  |  |  |
-   | 1309-48-4 | Magnesiumoksid |  | 10 | 1 |  |
+   | 1309-48-4 | Magnesiumoksid |  | 10 | [^1] |  |
    | 121-75-5 | Malation |  | 5 | H |  |
    | 108-31-6 | Maleinsyreanhydrid | 0,2 | 0,8 | A |  |
    | 7439-96-5 | Mangan og uorganiske manganforb. (beregnet som Mn) |  |  |  | 2018 |
-   |  | Inhalerbar fraksjon |  | 0,2 | E9 |  |
-   |  | Respirabel fraksjon |  | 0,05 | E9 |  |
+   |  | Inhalerbar fraksjon |  | 0,2 | E[^9] |  |
+   |  | Respirabel fraksjon |  | 0,05 | E[^9] |  |
    | 12079-65-1 | Mangansyklopentadienyltrikarbonyl (beregnet som Mn) |  | 0,1 | H |  |
    | 64-18-6 | Maursyre | 5 | 9 | E |  |
    |  | MDI se difenylmetan-4,4'-diisocyanat |  |  |  |  |
-   |  | Melstøv, inhalerbar |  | 3 | A10 | 2000 |
+   |  | Melstøv, inhalerbar |  | 3 | A[^10] | 2000 |
    |  | Merkaptoeddiksyre se tioglykolsyre |  |  |  |  |
    | 108-67-8 | Mesitylen (trimetylbenzener) | 20 | 100 | E |  |
    |  | Mesityloksid se 4-metyl-3-penten-2-on |  |  |  |  |
@@ -2804,7 +2804,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 60-34-4 | Metylhydrazin | 0,01 | 0,02 | HK |  |
    |  | Metylisobutylkarbinol se 4-metyl-2-pentanol |  |  |  |  |
    |  | Metylisobutylketon se 4-metylpentan-2-on |  |  |  |  |
-   | 624-83-9 | Metylisocyanat | 0,02 | 0,05 | S (5 min.) AE11 | 2011 |
+   | 624-83-9 | Metylisocyanat | 0,02 | 0,05 | S (5 min.) AE[^11] | 2011 |
    |  | Metylisopropylketon se 3-metyl-2-butanon |  |  |  |  |
    |  | Metyljodid se jodmetan |  |  |  |  |
    |  | Metylklorid se klormetan |  |  |  |  |
@@ -2834,14 +2834,14 @@ Listen inneholder følgende anmerkninger (anm.):
    | 479-45-8 | N-Metyl-2,4,6-N-tetranitroanilin |  | 1,5 | HA |  |
    | 7786-34-7 | Mevinfos | 0,01 | 0,1 | H |  |
    |  | MMMF (Man Made Mineral Fibers) se ildfaste keramiske fibrer, tynne glassfibrer til spesialformål, mineralull og AES-ull |  |  |  |  |
-   |  | Mineraloljer brukt som motorolje |  |  | HKG24 | 2021 |
-   |  | Mineralull | 1 fiber/cm3 |  | 12 | 2007 |
+   |  | Mineraloljer brukt som motorolje |  |  | HKG[^24] | 2021 |
+   |  | Mineralull | 1 fiber/cm3 |  | [^12] | 2007 |
    |  | Molybdenforbindelser, løselige (beregnet som Mo) |  | 5 |  |  |
    |  | Molybdenforbindelser, uløselige (beregnet som Mo) |  | 10 |  |  |
    |  | Monofluordiklormetan se fluordiklormetan |  |  |  |  |
    | 110-91-8 | Morfolin | 10 | 36 | HE | 2007 |
    | 91-20-3 | Naftalen | 10 | 50 | E |  |
-   | 3173-72-6 | Naftalen-1,5-diisocyanat | 0,005 | 0,04 | A4 |  |
+   | 3173-72-6 | Naftalen-1,5-diisocyanat | 0,005 | 0,04 | A[^4] |  |
    | 86-88-4 | 1-naftyltiourea |  | 0,3 |  |  |
    | 26628-22-8 | Natriumazid |  | 0,1 | E | 2014 |
    |  |  |  | 0,3 | S |  |
@@ -2865,9 +2865,9 @@ Listen inneholder følgende anmerkninger (anm.):
    | 98-95-3 | Nitrobenzen | 0,2 | 1 | HKRE | 2007 |
    | 79-24-3 | Nitroetan | 20 | 62 | HE | 2018 |
    |  |  | 100 | 312 | S |  |
-   | 10102-44-0 | Nitrogendioksid | 0,5 | 0,96 | E13 | 2018 |
+   | 10102-44-0 | Nitrogendioksid | 0,5 | 0,96 | E[^13] | 2018 |
    |  |  | 1 | 1,91 | S |  |
-   | 10102-43-9 | Nitrogenmonoksid | 2 | 2,5 | E14 | 2018 |
+   | 10102-43-9 | Nitrogenmonoksid | 2 | 2,5 | E[^14] | 2018 |
    |  | Nitrogenoksid se nitrogenmonoksid |  |  |  |  |
    | 7783-54-2 | Nitrogentrifluorid | 10 | 29 |  |  |
    |  | Nitroglycerol se glyceroltrinitrat |  |  |  |  |
@@ -2890,7 +2890,7 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | Organisk støv, totalstøv |  | 5 |  |  |
    | 20816-12-0 | Osmiumtetraoksid | 0,0002 | 0,002 |  |  |
    | 10028-15-6 | Ozon | 0,1 | 0,2 |  |  |
-   |  | PAH (polyaromatiske hydrokarboner) |  | 0,04 | HKG15,16 | 2021 |
+   |  | PAH (polyaromatiske hydrokarboner) |  | 0,04 | HKG[^15],[^16] | 2021 |
    | 8002-74-2 | Parafin (røyk) |  | 2 |  |  |
    | 4685-14-7 | Parakvat |  | 0,1 | H |  |
    | 56-38-2 | Paration |  | 0,05 | H |  |
@@ -2969,7 +2969,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 7446-34-6 | Selensulfid |  | 0,05 | AK | 2000 |
    | 28523-86-6 | Sevofluran | 5 | 35 |  | 2010 |
    | 7803-62-5 | Silan | 0,5 | 0,7 |  |  |
-   | 7440-21-3 | Silisium |  | 10 | 1 |  |
+   | 7440-21-3 | Silisium |  | 10 | [^1] |  |
    |  | Silisiumkarbid fiber | 0,1 fiber/cm3 | K |  |  |
    |  | Silisiumkarbid se respirabelt støv i silisium karbidindustri |  |  |  |  |
    |  | Silisiumtetrahydrid se silan |  |  |  |  |
@@ -2984,8 +2984,8 @@ Listen inneholder følgende anmerkninger (anm.):
    | 1395-21-7 | Subtilisiner (vaskemiddelenzymer) |  | 0,00006 | T |  |
    | 3689-24-5 | Sulfotep |  | 0,1 | HE | 2014 |
    | 2699-79-8 | Sulfurylfluorid | 5 | 20 |  |  |
-   |  | Sveiserøyk (uspesifisert) |  | 5 | 17 |  |
-   | 7446-09-5 | Svoveldioksid | 0,5 | 1,3 | E18 | 2018 |
+   |  | Sveiserøyk (uspesifisert) |  | 5 | [^17] |  |
+   | 7446-09-5 | Svoveldioksid | 0,5 | 1,3 | E[^18] | 2018 |
    |  |  | 1,0 | 2,7 | S |  |
    | 2551-62-4 | Svovelheksafluorid | 1000 | 6000 |  |  |
    |  | Svovelmonoklorid se disvoveldiklorid |  |  |  |  |
@@ -3041,17 +3041,17 @@ Listen inneholder følgende anmerkninger (anm.):
    |  | TNT se 2,4,6-trinitrotoluen |  |  |  |  |
    |  | Toksafen se kamfeklor |  |  |  |  |
    | 108-88-3 | Toluen | 25 | 94 | HE |  |
-   | 584-84-9 | 2,4-toluendiisocyanat | 0,005 | 0,035 | AK4 |  |
-   | 91-08-7 | 2,6-toluendiisocyanat | 0,005 | 0,035 | AK4 |  |
+   | 584-84-9 | 2,4-toluendiisocyanat | 0,005 | 0,035 | AK[^4] |  |
+   | 91-08-7 | 2,6-toluendiisocyanat | 0,005 | 0,035 | AK[^4] |  |
    | 95-53-4 | o-toluidin | 0,1 | 0,5 | HKG | 2020 |
-   |  | Trestøv fra harde eksotiske tresorter, eik og bøk |  | 1 | KG19 | 2020 |
+   |  | Trestøv fra harde eksotiske tresorter, eik og bøk |  | 1 | KG[^19] | 2020 |
    |  | Trestøv fra nordiske tresorter unntatt eik og bøk, totalstøv |  | 2 | K |  |
    | 75-25-2 | Tribrommetan | 0,5 | 5 | HK |  |
    | 126-73-8 | Tributylfosfat | 0,2 | 2,5 |  |  |
    |  | Tri(cykloheksyl)tinnhydroksid se cyheksatin |  |  |  |  |
    | 15468-32-3 | Tridymitt |  |  |  |  |
-   |  | Totalstøv |  | 0,15 | K7 |  |
-   |  | Respirabelt støv |  | 0,05 | KG7,21 | 2021 |
+   |  | Totalstøv |  | 0,15 | K[^7] |  |
+   |  | Respirabelt støv |  | 0,05 | KG[^7],[^21] | 2021 |
    | 102-71-6 | Trietanolamin |  | 5 |  |  |
    | 121-44-8 | Trietylamin | 2 | 8 | HE |  |
    | 112-24-3 | Trietylentetramin | 1 | 6 | A | 2007 |
@@ -3084,7 +3084,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 118-96-7 | 2,4,6-trinitrotoluen |  | 0,1 | H |  |
    | 78-30-8 | Triortokresylfosfat |  | 0,1 |  |  |
    |  | Trisykloheksylhydroksytinn se cyheksatin |  |  |  |  |
-   |  | Tynne glassfibrer til spesialformål | 0,1 fiber/cm3 | K | 20 | 2007 |
+   |  | Tynne glassfibrer til spesialformål | 0,1 fiber/cm3 | K | [^20] | 2007 |
    |  | Uorganiske fluorider (beregnet som F) |  | 0,5 | E | 2010 |
    |  | Uran og uranforb. (beregnet som U) |  | 0,2 |  |  |
    | 110-62-3 | Valeraldehyd | 25 | 90 |  |  |
@@ -3099,7 +3099,7 @@ Listen inneholder følgende anmerkninger (anm.):
    | 75-01-4 | Vinylklorid, monomer | 1 | 2,6 | KG | 2020 |
    | 106-87-6 | Vinylsykloheksendioksid | 10 | 60 |  |  |
    |  | Vinyltoluen (alle isomere) | 50 | 240 |  |  |
-   | 1304-82-1 | Vismuttellurid |  | 10 | 1 |  |
+   | 1304-82-1 | Vismuttellurid |  | 10 | [^1] |  |
    |  | Vismuttellurid (tilsatt selen) |  | 5 |  |  |
    | 81-81-2 | Warfarin |  | 0,1 |  |  |
    |  | White Spirit (aromatinnhold ≤ 22 %) | 50 | 275 |  |  |
@@ -3194,25 +3194,25 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Actinomyces gerencseriae | 2 |  |
   | Actinomyces israelii | 2 |  |
   | Actinomyces pyogenes | 2 |  |
-  | Actinomyces spp.1 | 2 |  |
-  | Anaplasma spp.1 | 2 |  |
+  | Actinomyces spp.[^1] | 2 |  |
+  | Anaplasma spp.[^1] | 2 |  |
   | Arcanobacterium haemolyticum (Corynebacterium haemolyticum) | 2 |  |
   | Arcobacter butzleri | 2 |  |
   | Bacillus anthracis | 3 | T |
   | Bacteroides fragilis | 2 |  |
-  | Bacteroides spp.1 | 2 |  |
+  | Bacteroides spp.[^1] | 2 |  |
   | Bartonella bacilliformis | 2 |  |
   | Bartonella quintana (Rochalimaea quintana) | 2 |  |
-  | Bartonella (Rochalimea) spp.1 | 2 |  |
+  | Bartonella (Rochalimea) spp.[^1] | 2 |  |
   | Bordetella bronchiseptica | 2 |  |
   | Bordetella parapertussis | 2 |  |
   | Bordetella pertussis | 2 | T, V |
-  | Bordetella spp.1 | 2 |  |
+  | Bordetella spp.[^1] | 2 |  |
   | Borrelia burgdorferi | 2 |  |
   | Borrelia duttonii | 2 |  |
   | Borrelia recurrentis | 2 |  |
-  | Borrelia spp.1 | 2 |  |
-  | Brachyspira spp.1 | 2 |  |
+  | Borrelia spp.[^1] | 2 |  |
+  | Brachyspira spp.[^1] | 2 |  |
   | Brucella abortus | 3 |  |
   | Brucella canis | 3 |  |
   | Brucella inopinata | 3 |  |
@@ -3225,7 +3225,7 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Campylobacter fetus subsp. venerealis | 2 |  |
   | Campylobacter jejuni subsp. doylei | 2 |  |
   | Campylobacter jejuni subsp. jejuni | 2 |  |
-  | Campylobacter spp.1 | 2 |  |
+  | Campylobacter spp.[^1] | 2 |  |
   | Cardiobacterium hominis | 2 |  |
   | Cardiobacterium valvarum | 2 |  |
   | Chlamydia abortus (Chlamydophila abortus) | 2 |  |
@@ -3239,25 +3239,25 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Clostridium difficile | 2 | T |
   | Clostridium perfringens | 2 | T |
   | Clostridium tetani | 2 | T, V |
-  | Clostridium spp.1 | 2 |  |
+  | Clostridium spp.[^1] | 2 |  |
   | Corynebacterium diphtheriae | 2 | T, V |
   | Corynebacterium minutissimum | 2 |  |
   | Corynebacterium pseudotuberculosis | 2 | T |
   | Corynebacterium ulcerans | 2 | T |
-  | Corynebacterium spp.1 | 2 |  |
+  | Corynebacterium spp.[^1] | 2 |  |
   | Coxiella burnetii | 3 |  |
   | Edwardsiella tarda | 2 |  |
   | Ehrlichia sennetsu (Rickettsia sennetsu) | 2 |  |
-  | Ehrlichia spp.1 | 2 |  |
+  | Ehrlichia spp.[^1] | 2 |  |
   | Eikenella corrodens | 2 |  |
   | Elizabethkingia meningoseptica (Flavobacterium meningosepticum) | 2 |  |
   | Enterobacter aerogenes (Klebsiella mobilis) | 2 |  |
   | Enterobacter cloacae subsp. cloacae (Enterobacter cloacae) | 2 |  |
-  | Enterobacter spp.1 | 2 |  |
-  | Enterococcus spp.1 | 2 |  |
+  | Enterobacter spp.[^1] | 2 |  |
+  | Enterococcus spp.[^1] | 2 |  |
   | Erysipelothrix rhusiopathiae | 2 |  |
-  | Escherichia coli2 | 2 |  |
-  | Escherichia coli, verocytotoksiske stammer f.eks. O157:H7 eller O103 | 33 | T |
+  | Escherichia coli[^2] | 2 |  |
+  | Escherichia coli, verocytotoksiske stammer f.eks. O157:H7 eller O103 | 3[^3] | T |
   | Flavobacterium meningosepticum | 2 |  |
   | Fluoribacter bozemanae (Legionella) | 2 |  |
   | Francisella hispaniensis | 2 |  |
@@ -3270,20 +3270,20 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Gardnerella vaginalis | 2 |  |
   | Haemophilus ducreyi | 2 |  |
   | Haemophilus influenzae | 2 | V |
-  | Haemophilus spp.1 | 2 |  |
+  | Haemophilus spp.[^1] | 2 |  |
   | Helicobacter pylori | 2 |  |
-  | Helicobacter spp.1 | 2 |  |
+  | Helicobacter spp.[^1] | 2 |  |
   | Klebsiella oxytoca | 2 |  |
   | Klebsiella pneumoniae subsp. ozaenae | 2 |  |
   | Klebsiella pneumoniae subsp. pneumoniae | 2 |  |
   | Klebsiella pneumoniae subsp. rhinoscleromatis | 2 |  |
-  | Klebsiella spp.1 | 2 |  |
+  | Klebsiella spp.[^1] | 2 |  |
   | Legionella pneumophila subsp. fraseri | 2 |  |
   | Legionella pneumophila subsp. pascullei | 2 |  |
   | Legionella pneumophila subsp. pneumophila | 2 |  |
-  | Legionella spp.1 | 2 |  |
+  | Legionella spp.[^1] | 2 |  |
   | Leptospira interrogans (alle serotyper) | 2 |  |
-  | Leptospira interrogans spp.1 | 2 |  |
+  | Leptospira interrogans spp.[^1] | 2 |  |
   | Listeria monocytogenes | 2 |  |
   | Listeria ivanovii subsp. ivanovii | 2 |  |
   | Listeria invanovii subsp. londoniensis | 2 |  |
@@ -3304,17 +3304,17 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Mycobacterium leprae | 3 |  |
   | Mycobacterium malmoense | 2 |  |
   | Mycobacterium marinum | 2 |  |
-  | Mycobacterium microti | 33 |  |
+  | Mycobacterium microti | 3[^3] |  |
   | Mycobacterium pinnipedii | 3 |  |
   | Mycobacterium scrofulaceum | 2 |  |
   | Mycobacterium simiae | 2 |  |
   | Mycobacterium szulgai | 2 |  |
   | Mycobacterium tuberculosis | 3 | V |
-  | Mycobacterium ulcerans | 33 |  |
+  | Mycobacterium ulcerans | 3[^3] |  |
   | Mycobacterium xenopi | 2 |  |
   | Mycoplasma hominis | 2 |  |
   | Mycoplasma pneumoniae | 2 |  |
-  | Mycoplasma spp.1 | 2 |  |
+  | Mycoplasma spp.[^1] | 2 |  |
   | Neisseria gonorrhoeae | 2 |  |
   | Neisseria meningitidis | 2 | V |
   | Neorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia sennetsu) | 2 |  |
@@ -3323,46 +3323,46 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Nocardia farcinica | 2 |  |
   | Nocardia nova | 2 |  |
   | Nocardia otitidiscaviarum | 2 |  |
-  | Nocardia spp.1 | 2 |  |
+  | Nocardia spp.[^1] | 2 |  |
   | Orientia tsutsugamushi (Rickettsia tsutsugamushi) | 3 |  |
   | Pasteurella multocida subsp. gallicida (Pasteurella gallicida) | 2 |  |
   | Pasteurella multocida subsp. multocida | 2 |  |
   | Pasteurella multocida subsp. septica | 2 |  |
   | Pasteurella multocida | 2 |  |
-  | Pasteurella spp.1 | 2 |  |
+  | Pasteurella spp.[^1] | 2 |  |
   | Peptostreptococcus anaerobius | 2 |  |
   | Plesiomonas shigelloides | 2 |  |
-  | Porphyromonas spp.1 | 2 |  |
-  | Prevotella spp.1 | 2 |  |
+  | Porphyromonas spp.[^1] | 2 |  |
+  | Prevotella spp.[^1] | 2 |  |
   | Proteus mirabilis | 2 |  |
   | Proteus penneri | 2 |  |
   | Proteus vulgaris | 2 |  |
   | Providencia alcalifaciens (Proteus inconstans) | 2 |  |
   | Providencia rettgeri (Proteus rettgeri) | 2 |  |
-  | Providencia spp.1 | 2 |  |
+  | Providencia spp.[^1] | 2 |  |
   | Pseudomonas aeruginosa | 2 | T |
   | Rhodococcus hoagii (Corynebacterium equii) | 2 |  |
   | Rickettsia africae | 3 |  |
-  | Rickettsia akari | 33 |  |
+  | Rickettsia akari | 3[^3] |  |
   | Rickettsia australis | 3 |  |
   | Rickettsia canadensis | 2 |  |
   | Rickettsia conorii | 3 |  |
-  | Rickettsia heilongjiangensis | 33 |  |
+  | Rickettsia heilongjiangensis | 3[^3] |  |
   | Rickettsia japonica | 3 |  |
   | Rickettsia montanensis | 2 |  |
   | Rickettsia typhi | 3 |  |
   | Rickettsia prowazekii | 3 |  |
   | Rickettsia rickettsii | 3 |  |
   | Rickettsia sibirica | 3 |  |
-  | Rickettsia spp.1 | 2 |  |
+  | Rickettsia spp.[^1] | 2 |  |
   | Salmonella enterica (choleraesuis) subsp. arizonae | 2 |  |
   | Salmonella enteritidis | 2 |  |
   | Salmonella typhimurium | 2 |  |
   | Salmonella paratyphi A, B, C | 2 | V |
-  | Salmonella typhi | 33 | V |
+  | Salmonella typhi | 3[^3] | V |
   | Salmonella (andre serotyper) | 2 |  |
   | Shigella boydii | 2 |  |
-  | Shigella dysenteriae (Type 1) | 33 | T |
+  | Shigella dysenteriae (Type 1) | 3[^3] | T |
   | Shigella dysenteriae (bortsett fra type 1) | 2 |  |
   | Shigella flexneri | 2 |  |
   | Shigella sonnei | 2 |  |
@@ -3373,22 +3373,22 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Streptococcus pneumoniae | 2 | T, V |
   | Streptococcus pyogenes | 2 | T |
   | Streptococcus suis | 2 |  |
-  | Streptococcus spp.1 | 2 |  |
+  | Streptococcus spp.[^1] | 2 |  |
   | Treponema carateum | 2 |  |
   | Treponema pallidum | 2 |  |
   | Treponema pertenue | 2 |  |
-  | Treponema spp.1 | 2 |  |
+  | Treponema spp.[^1] | 2 |  |
   | Trueperella pyogenes | 2 |  |
   | Ureaplasma parvum | 2 |  |
   | Ureaplasma urealyticum | 2 |  |
   | Vibrio cholerae (herunder El Tor) | 2 | T, V |
   | Vibrio parahaemoloyticus (Benecka parahaemolytica) | 2 |  |
-  | Vibrio spp.1 | 2 |  |
+  | Vibrio spp.[^1] | 2 |  |
   | Yersinia enterocolitica subsp. enterolitica | 2 |  |
   | Yersinia enterocolitica subsp. palearctica | 2 |  |
   | Yersinia pestis | 3 |  |
   | Yersinia pseudotuberculosis | 2 |  |
-  | Yersinia spp.1 | 2 |  |
+  | Yersinia spp.[^1] | 2 |  |
 
   | *Virus* | *Smitterisikogruppe* | *Merknad* |
   | --- | --- | --- |
@@ -3415,14 +3415,14 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | *Coronaviridae (F)* |  |  |
   | Middle East respiratory syndrome coronavirus (MERS-virus) | 3 |  |
   | Severe acute respiratory syndrome-related coronavirus (SARS-virus) | 3 |  |
-  | Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) | 33 |  |
+  | Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) | 3[^3] |  |
   | Andre coronavirus som man vet er sykdomsfremkallende | 2 |  |
   | *Filoviridae (F)* |  |  |
   | Ebolavirus | 4 |  |
   | Marburgvirus | 4 |  |
   | *Flaviviridae (F)* |  |  |
   | Australsk encerfalittvirus (Murrey VaIley-encefalitt) | 3 |  |
-  | Sentraleuropeisk flåttspredd encefalitt-virus | 33 | V |
+  | Sentraleuropeisk flåttspredd encefalitt-virus | 3[^3] | V |
   | Fjerne Østen flåttspredd encefalitt-virus | 3 |  |
   | Sibirsk flåttspredd encefalitt-virus | 3 | V |
   | Absettarovvirus | 3 |  |
@@ -3430,17 +3430,17 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Hyprvirus | 3 |  |
   | Kumlingevirus | 3 |  |
   | Denguevirus | 3 |  |
-  | Hepatitt C-virus (Hepacivirus C) | 33 | D |
+  | Hepatitt C-virus (Hepacivirus C) | 3[^3] | D |
   | Japansk encefalitt-virus | 3 | V |
   | Kyasanur Forest-virus | 3 | V |
-  | Louping ill-virus | 33 |  |
+  | Louping ill-virus | 3[^3] |  |
   | Negishi virus | 3 |  |
   | Omskvirus (flåttspredd encefalitt) | 3 |  |
   | Powassanvirus | 3 |  |
   | Rociovirus | 3 |  |
   | Russisk vår-/sommerencefalitt-virus (RSSE) (Flåttspredd encefalitt) | 3 | V |
   | St. Louis encefalitt-virus | 3 |  |
-  | Wesselsbronvirus | 33 |  |
+  | Wesselsbronvirus | 3[^3] |  |
   | Vest-Nilen-feber-virus | 3 |  |
   | Gulfebervirus | 3 | V |
   | Zika virus | 2 |  |
@@ -3461,7 +3461,7 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Sin Nombre ortohantavirus (virus som forårsaker hantavirus pulmonar syndrome [HPS]) | 3 |  |
   | Andre hantavirus som man vet er sykdomsfremkallende | 2 |  |
   | *Hepadnaviridae (F)* |  |  |
-  | Hepatitt B-virus | 33 | V, D |
+  | Hepatitt B-virus | 3[^3] | V, D |
   | *Hepeviridae (F)* |  |  |
   | Hepatitt E-virus (Orthohepevirus A) | 2 |  |
   | *Herpesviridae (F)* |  |  |
@@ -3486,11 +3486,11 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Highly Pathogenic Avian Influensa Virus HPAIV (H5), e.g. H5N1 | 3 |  |
   | Highly Pathogenic Avian Influensa Virus HPAIV (H7), e.g. H7N7, H7N9 | 3 |  |
   | Low Pathogenic Avian Influensa Virus (LPAI) H7N9 | 3 |  |
-  | Influensa A virus – ikke nevnt over | 2 | V5 |
-  | Influensa B virus | 2 | V5 |
-  | Influensa C virus | 2 | V5 |
+  | Influensa A virus – ikke nevnt over | 2 | V[^5] |
+  | Influensa B virus | 2 | V[^5] |
+  | Influensa C virus | 2 | V[^5] |
   | Flåttspredde orthomyxoviridae: Dhori- og Thogotovirus | 2 |  |
-  | *Papillomaviridae (F)* | 2 | D6 |
+  | *Papillomaviridae (F)* | 2 | D[^6] |
   | *Paramyxoviridae (F)* |  |  |
   | Hendra henipavirus | 4 |  |
   | Nipah henipavirus | 4 |  |
@@ -3523,7 +3523,7 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Enterovirus D, Human Enterovirus type 70 (akutt hemorragisk konjunktivitt virus) | 2 |  |
   | Hepatitt A-virus (humant enterovirus, type 72, hepatovirus A) | 2 | V |
   | Poliovirus, type 1 og 3 | 2 | V |
-  | Poliovirus, type 211 | 3 | V |
+  | Poliovirus, type 2[^11] | 3 | V |
   | Rhinovirus | 2 |  |
   | Aichivirus A (Aichi virus 1) | 2 |  |
   | Parechoviruses A | 2 |  |
@@ -3534,14 +3534,14 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | *Polyomaviridae (F)* |  |  |
   | BK and JC virus (Humant polymavirus 1 og 2) | 2 | D6 |
   | *Poxviridae (F)* |  |  |
-  | Bøffelkoppevirus7 | 2 |  |
+  | Bøffelkoppevirus[^7] | 2 |  |
   | Kukoppevirus | 2 |  |
-  | Elefantkoppevirus8 | 2 |  |
+  | Elefantkoppevirus[^8] | 2 |  |
   | Melkeknutevirus | 2 |  |
   | Molluscum contagiosum-virus | 2 |  |
   | Apekoppevirus | 3 | V |
   | Orfvirus | 2 |  |
-  | Kaninkoppevirus9 | 2 |  |
+  | Kaninkoppevirus[^9] | 2 |  |
   | Vacciniavirus | 2 |  |
   | Variola (major og minor)-virus | 4 | V |
   | Yatapox-virus (Tana og Yaba) | 2 |  |
@@ -3551,17 +3551,17 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Rotavirus | 2 |  |
   | Orbivirus | 2 |  |
   | Retroviridae (F) |  |  |
-  | Humane immunsviktvirus (HIV), type 1 og 2 | 33 | D |
-  | Humane T-cellelymfotropevirus (HTLV), type 1 og 2 | 33 | D |
-  | SIV (Simianape-immunsviktvirus)10 | 2 |  |
+  | Humane immunsviktvirus (HIV), type 1 og 2 | 3[^3] | D |
+  | Humane T-cellelymfotropevirus (HTLV), type 1 og 2 | 3[^3] | D |
+  | SIV (Simianape-immunsviktvirus)[^10] | 2 |  |
   | *Rhabdoviridae (F)* |  |  |
-  | Australian bat lyssavirus | 33 | V |
-  | Duvenhage lyssavirus | 33 | V |
-  | European bat lyssavirus 1 | 33 | V |
-  | European bat lyssavirus 2 | 33 | V |
-  | Lagos bat lyssavirus | 33 |  |
+  | Australian bat lyssavirus | 3[^3] | V |
+  | Duvenhage lyssavirus | 3[^3] | V |
+  | European bat lyssavirus 1 | 3[^3] | V |
+  | European bat lyssavirus 2 | 3[^3] | V |
+  | Lagos bat lyssavirus | 3[^3] |  |
   | Mokola lyssavirus | 3 |  |
-  | Rabiesvirus (Rabies lyssavirus) | 33 | V |
+  | Rabiesvirus (Rabies lyssavirus) | 3[^3] | V |
   | Vesikulær stomatitt-virus (Alagoas vesiculovirus, Indiana vesiculovirus, New Jersey vesiculovirus) | 2 |  |
   | Piry vesiculovirus (Piry virus) | 2 |  |
   | *Togaviridae (F)* |  |  |
@@ -3569,22 +3569,22 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Cabassouvirus | 3 |  |
   | Østamerikansk heste-encefalomeyelitt-virus | 3 | V |
   | Bebaruvirus | 2 |  |
-  | Chikungunyavirus | 33 |  |
-  | Evergladesvirus | 33 |  |
+  | Chikungunyavirus | 3[^3] |  |
+  | Evergladesvirus | 3[^3] |  |
   | Mayarovirus | 3 |  |
-  | Mucambovirus | 33 |  |
-  | Ndumuvirus | 33 |  |
+  | Mucambovirus | 3[^3] |  |
+  | Ndumuvirus | 3[^3] |  |
   | O'nyong-nyongvirus | 2 |  |
   | Ross River-virus | 2 |  |
   | Semliki Forest-virus | 2 |  |
   | Sindbisvirus | 2 |  |
-  | Tonatevirus | 33 |  |
+  | Tonatevirus | 3[^3] |  |
   | Venezuelansk heste-encefalomeyelitt-virus | 3 | V |
   | Vestamerikansk heste-encefalomeyelitt-virus | 3 | V |
   | Andre kjente alfavirus man vet kan være sykdomsfremkallende | 2 |  |
   | Rubellavirus (røde hunder) | 2 | V |
   | *Uklassifiserte virus* |  |  |
-  | Hepatitt delta virus4 | 2 | V, D |
+  | Hepatitt delta virus[^4] | 2 | V, D |
 
   | *Parasitter* | *Smitterisikogruppe* | *Merknad* |
   | --- | --- | --- |
@@ -3603,7 +3603,7 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Brugia pahangi | 2 |  |
   | Brugia timori | 2 |  |
   | Capillaria philippinensis | 2 |  |
-  | Capillaria spp.1 | 2 |  |
+  | Capillaria spp.[^1] | 2 |  |
   | Clonorchis sinensis (Opisthorchis sinensis) | 2 |  |
   | Clonorchis viverrini (Opisthirchis viverrini) | 2 |  |
   | Cryptosporidium hominis | 2 |  |
@@ -3613,10 +3613,10 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Dipetalonema streptocerca | 2 |  |
   | Diphyllobothrium latum | 2 |  |
   | Dracunculus medinensis | 2 |  |
-  | Echinococcus granulosus | 33 |  |
-  | Echinococcus multilocularis | 33 |  |
-  | Echinococcus oligarthrus | 33 |  |
-  | Echinococcus vogeli | 33 |  |
+  | Echinococcus granulosus | 3[^3] |  |
+  | Echinococcus multilocularis | 3[^3] |  |
+  | Echinococcus oligarthrus | 3[^3] |  |
+  | Echinococcus vogeli | 3[^3] |  |
   | Entamoeba histolytica | 2 |  |
   | Enterobius vermicularis | 2 |  |
   | Enterocytozoon bieneusi | 2 |  |
@@ -3628,16 +3628,16 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Hymenolepis diminuta | 2 |  |
   | Hymenolepis nana | 2 |  |
   | Leishmania aethiopica | 2 |  |
-  | Leishmania braziliensis | 33 |  |
-  | Leishmania donovani | 33 |  |
-  | Leishmania guyanensis (Viannia guyanensis) | 33 |  |
-  | Leishmania infantum (Leishmania chagasi) | 33 |  |
+  | Leishmania braziliensis | 3[^3] |  |
+  | Leishmania donovani | 3[^3] |  |
+  | Leishmania guyanensis (Viannia guyanensis) | 3[^3] |  |
+  | Leishmania infantum (Leishmania chagasi) | 3[^3] |  |
   | Leishmania major | 2 |  |
   | Leishmania mexicana | 2 |  |
-  | Leishmania panamensis (Viannia panamensis) | 33 |  |
+  | Leishmania panamensis (Viannia panamensis) | 3[^3] |  |
   | Leishmania peruviana | 2 |  |
   | Leishmania tropica | 2 |  |
-  | Leishmania spp.1 | 2 |  |
+  | Leishmania spp.[^1] | 2 |  |
   | Loa loa | 2 |  |
   | Mansonella ozzardi | 2 |  |
   | Mansonella perstans | 2 |  |
@@ -3647,12 +3647,12 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Necator americanus | 2 |  |
   | Onchocerca volvulus | 2 |  |
   | Opisthorchis felineus | 2 |  |
-  | Opisthorchis spp.1 | 2 |  |
+  | Opisthorchis spp.[^1] | 2 |  |
   | Paragonimus westermani | 2 |  |
   | Paragonimus spp. | 2 |  |
-  | Plasmodium falciparum | 33 |  |
-  | Plasmodium knowlesi | 33 |  |
-  | Plasmodium spp.1 (hos mennesker og hos aper) | 2 |  |
+  | Plasmodium falciparum | 3[^3] |  |
+  | Plasmodium knowlesi | 3[^3] |  |
+  | Plasmodium spp.[^1] (hos mennesker og hos aper) | 2 |  |
   | Sarcocystis suihominis | 2 |  |
   | Schistosoma haematobioum | 2 |  |
   | Schistosoma intercalatum | 2 |  |
@@ -3660,9 +3660,9 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Schistosoma mansoni | 2 |  |
   | Schistosoma mekongi | 2 |  |
   | Strongyloides stercoralis | 2 |  |
-  | Strongyloides spp.1 | 2 |  |
+  | Strongyloides spp.[^1] | 2 |  |
   | Taenia saginata | 2 |  |
-  | Taenia solium | 33 |  |
+  | Taenia solium | 3[^3] |  |
   | Toxocara canis | 2 |  |
   | Toxocara cati | 2 |  |
   | Toxoplasma gondii | 2 |  |
@@ -3676,15 +3676,15 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Tricuris trichiura | 2 |  |
   | Trypanosoma brucei brucei | 2 |  |
   | Trypanosoma brucei gambiense | 2 |  |
-  | *Trypanosoma brucei rhodesiense* | 33 |  |
-  | *Trypanosoma cruzi* | 33 |  |
+  | *Trypanosoma brucei rhodesiense* | 3[^3] |  |
+  | *Trypanosoma cruzi* | 3[^3] |  |
   | *Wuchereria bancrofti* | 2 |  |
 
   | *Sopp* | *Smitterisikogruppe* | *Merknad* |
   | --- | --- | --- |
   | Aspergillus flavus | 2 | A |
   | Aspergillus fumigatus | 2 | A |
-  | Aspergillus spp.1 | 2 |  |
+  | Aspergillus spp.[^1] | 2 |  |
   | Blastomyces dermatitidis (Ajellomyces dermatitidis) | 3 |  |
   | Blastomyces gilchristii | 3 |  |
   | Candida albicans | 2 | A |
@@ -3694,7 +3694,7 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Candida tropicalis | 2 |  |
   | Cladophialophora bantiana (Xylohypha bantiana, Cladosporium bantianum eller tridhoides) | 3 |  |
   | Cladophialophora modesta | 3 |  |
-  | Cladophialophora spp.1 | 2 |  |
+  | Cladophialophora spp.[^1] | 2 |  |
   | Coccidioides immitis | 3 | A |
   | Coccidioides posadasii | 3 | A |
   | Cryptococcus gattii (Filobasidiella neoformans var. bacillispora) | 2 | A |
@@ -3702,15 +3702,15 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Emmonsia parvavum var. parva | 2 |  |
   | Emmonsia parvavum var. crescens | 2 |  |
   | Epidermophyton floccosum | 2 | A |
-  | Epidermophyton spp.1 | 2 |  |
+  | Epidermophyton spp.[^1] | 2 |  |
   | Fonsecaea pedrosoi | 2 |  |
   | Histoplasma capsulatum | 3 |  |
   | Histoplasma capsulatum var. farciminosum | 3 |  |
   | Histoplasma duboisii | 3 |  |
   | Madurella grisea | 2 |  |
   | Madurella mycetomatis | 2 |  |
-  | Microsporum spp.1 | 2 | A |
-  | Nannizzia spp.1 | 2 |  |
+  | Microsporum spp.[^1] | 2 | A |
+  | Nannizzia spp.[^1] | 2 |  |
   | Neotestudina rosatii | 2 |  |
   | Paracoccidioides brasiliensis | 3 | A |
   | Paracoccidioides lutzii | 3 |  |
@@ -3722,15 +3722,15 @@ Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer ho
   | Talaromyces marneffei (Penicillium marneffei) | 2 | A |
   | Trichophyton rubrum | 2 | A |
   | Trichophyton tonsurans | 2 | A |
-  | Trichophyton spp.1 | 2 |  |
+  | Trichophyton spp.[^1] | 2 |  |
 
   | *Prioner (Ukonvensjonelle faktorer knyttet til overførbare spongiforme encefalopatier)* | *Smitterisikogruppe* | *Merknad* |
   | --- | --- | --- |
-  | Creutzfeldt-Jakobs sykdom | 33 | D6 |
-  | Variant Creutzfeldt-Jakobs sykdom | 33 | D6 |
-  | Bovin spongiform encefalopai (BSE, kugalskap) og andre relaterte spongiforme encefalopatier (TSE-er) | 33 | D6 |
-  | Gerstmann-Sträussler-Scheinker syndromet (GSS) | 33 | D6 |
-  | Kuru | 33 | D6 |
+  | Creutzfeldt-Jakobs sykdom | 3[^3] | D6 |
+  | Variant Creutzfeldt-Jakobs sykdom | 3[^3] | D6 |
+  | Bovin spongiform encefalopai (BSE, kugalskap) og andre relaterte spongiforme encefalopatier (TSE-er) | 3[^3] | D6 |
+  | Gerstmann-Sträussler-Scheinker syndromet (GSS) | 3[^3] | D6 |
+  | Kuru | 3[^3] | D6 |
   | Skrapesyke | 2 |  |
 
 1 Betegnelsen «spp.» henviser til andre arter innen slekten som man vet er sykdomsfremkallende for mennesker.

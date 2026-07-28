@@ -15,7 +15,7 @@ xml_hash: "b5caae75266fc45a16de93813fa241f74218adecb338c4b51924498483b03e04"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -367,7 +367,7 @@ Offentlige organer som behandler søknader om rettshjelp kan, uten hinder av tau
 
 ### § 29. Ikrafttredelse og endring i andre lover.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Fra det tidspunkt loven trer i kraft gjøres følgende endringer i de lover som er nevnt nedenfor: – – –
 

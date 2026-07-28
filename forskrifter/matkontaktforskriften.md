@@ -15,7 +15,7 @@ xml_hash: "df695c2392923a7134a4574acbff59e6f6024520c5cedc51c52e82469c96e422"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -415,7 +415,7 @@ Del 1. Ikke overflatebehandlet regenerert cellulosefilm
 | – Trietylenglykol |  |
 | – Urea |  |
 | *B.2. Andre tilsetningsstoffer* | Total mengde mindre enn eller lik 1% |
-| *Klasse 1* | Mengden stoffer eller stoffgrupper i hvert strekpunkt skal ikke være større enn 2 mg/dm2 av den ikke-belagte filmen. |
+| *Klasse 1* | Mengden stoffer eller stoffgrupper i hvert strekpunkt skal ikke være større enn 2 mg/dm[^2] av den ikke-belagte filmen. |
 | – Eddiksyre og dens NH4, Ca, Mg, K og Na salter |  |
 | – Askorbinsyre og dens NH4, Ca, Mg, K og Na salter |  |
 | – Benzosyre og natriumbenzoat |  |
@@ -435,29 +435,29 @@ Del 1. Ikke overflatebehandlet regenerert cellulosefilm
 | – Oksider og hydroksider av aluminium, kalsium, magnesium og silikon og silikater samt silikathydroksid av aluminium, kalsium, magnesium og kalium |  |
 | – Polyetylenoksid [ = polyetylenglykol ] | Gjennomsnittlig molekylvekt 1200-1400 |
 | – Natriumpropionat |  |
-| *Klasse 2* | Total mengde mindre enn eller lik 1 mg/dm2 av den ikke-belagte filmen, og mengden av stoffer eller stoffgrupper i hvert strekpunkt skal ikke være større enn 0,2 mg/dm2 (eller en lavere grense der det er spesifisert) av den ikke-belagte filmen. |
+| *Klasse 2* | Total mengde mindre enn eller lik 1 mg/dm[^2] av den ikke-belagte filmen, og mengden av stoffer eller stoffgrupper i hvert strekpunkt skal ikke være større enn 0,2 mg/dm[^2] (eller en lavere grense der det er spesifisert) av den ikke-belagte filmen. |
 | – Natriumalkylbenzensulfonat (C8 -C18 ) |  |
 | – Natriumisopropylnaftalensulfonat |  |
 | – Natriumalkylsulfat (C8 -C18 ) |  |
 | – Natriumalkylsulfonat (C8 -C18 ) |  |
 | – Natriumdioktylsulfosuksinat |  |
-| – Distearat av dihydroksyetyldietylentriamin-monoacetat | Mindre enn eller lik 0,05 mg/dm2 av den ikke-belagte filmen |
+| – Distearat av dihydroksyetyldietylentriamin-monoacetat | Mindre enn eller lik 0,05 mg/dm[^2] av den ikke-belagte filmen |
 | – Ammonium-, magnesium- og kaliumlaurylsulfat |  |
 | – N,N'-distearoyldiaminoetan og N,N'-dipalmitoyldiaminoetan og N,N'-dioleoyldiaminoetan |  |
 | – 2-Heptadekyl-4,4-bis(metylen-stearat) oxazolin |  |
-| – Polyetylenaminostearamid-etylsulfat | Mindre enn eller lik 0,1 mg/dm2 av den ikke-belagte filmen |
-| *Klasse 3 – Kryssbindingsmidler* | Total mengde mindre enn eller lik 1 mg/dm2 av den ikke-belagte filmen |
-| – Kondenseringsprodukt av melamin-urea-formaldehyd, modifisert med tri(2-hydroksyetyl) amin | Innhold av fritt formaldehyd mindre enn eller lik 0,5 mg/dm2 av den ikke-belagte filmen.<br>Innhold av fritt melamin mindre enn eller lik 0,3 mg/dm2 av den ikke-belagte filmen. |
-| – Kondenseringsprodukt av melaminformaldehyd, ikke modifisert eller modifisert med ett eller flere av følgende forbindelser: butanol, dietylentriamin, etanol, trietylentetramin, tetraetylenpentamin, tri(2-hydroksyetyl)amin, 3,3'-diaminodipropylamin, 4,4'-diaminodibutylamin | Innhold av fritt formaldehyd mindre enn eller lik 0,5 mg/dm2 av den ikke-belagte filmen.<br>Innhold av fritt melamin mindre enn eller lik 0,3 mg/dm2 av den ikke-belagte filmen. |
+| – Polyetylenaminostearamid-etylsulfat | Mindre enn eller lik 0,1 mg/dm[^2] av den ikke-belagte filmen |
+| *Klasse 3 – Kryssbindingsmidler* | Total mengde mindre enn eller lik 1 mg/dm[^2] av den ikke-belagte filmen |
+| – Kondenseringsprodukt av melamin-urea-formaldehyd, modifisert med tri(2-hydroksyetyl) amin | Innhold av fritt formaldehyd mindre enn eller lik 0,5 mg/dm[^2] av den ikke-belagte filmen.<br>Innhold av fritt melamin mindre enn eller lik 0,3 mg/dm[^2] av den ikke-belagte filmen. |
+| – Kondenseringsprodukt av melaminformaldehyd, ikke modifisert eller modifisert med ett eller flere av følgende forbindelser: butanol, dietylentriamin, etanol, trietylentetramin, tetraetylenpentamin, tri(2-hydroksyetyl)amin, 3,3'-diaminodipropylamin, 4,4'-diaminodibutylamin | Innhold av fritt formaldehyd mindre enn eller lik 0,5 mg/dm[^2] av den ikke-belagte filmen.<br>Innhold av fritt melamin mindre enn eller lik 0,3 mg/dm[^2] av den ikke-belagte filmen. |
 | – Kryssbundne kationiske polyalkylenaminer: |  |
 | a) Polyamidepiklorhydrinharpiks på basis av diaminopropylmetylamin og epiklorhydrin |  |
 | b) Polyamidepiklorhydrinharpiks på basis av epiklorhydrin, adipinsyre, kaprolaktam, dietylentriamin og/eller etylendiamin |  |
 | c) Polyamidepiklorhydrinharpiks på basis av adipinsyre, dietylentriamin og epiklorhydrin, eller en blanding av epiklorhydrin og ammoniakk |  |
 | d) Polyamid-polyamin-epiklorhydrinharpiks på basis av epiklorhydrin, dimetyladipat og dietylentriamin |  |
 | e) Polyamid-polyamin-epiklorhydrinharpiks på basis av epiklorhydrin, adipamid og diaminopropylmetylamin |  |
-| – Polyetylenaminer og polyetyleniminer | Mindre enn eller lik 0,75 mg/dm2 av den ikke-belagte filmen. |
-| – Kondensasjonsprodukter av ureaformaldehyd, ikke modifisert eller modifisert med ett eller flere av følgende produkter: Aminometylsulfonsyre, sulfanilsyre, butanol, diaminobutan, diaminodietylamin, diaminodipropylamin, diaminopropan, dietylentriamin, etanol, guanidin, metanol, tetraetylenpentamin, trietylentetramin, natriumsulfitt | Innhold av fritt formaldehyd mindre enn eller lik 0,5 mg/dm2 av den ikke-belagte filmen. |
-| *Klasse 4* | Total mengde mindre enn eller lik 0,01 mg/dm2 av den ikke-belagte filmen. |
+| – Polyetylenaminer og polyetyleniminer | Mindre enn eller lik 0,75 mg/dm[^2] av den ikke-belagte filmen. |
+| – Kondensasjonsprodukter av ureaformaldehyd, ikke modifisert eller modifisert med ett eller flere av følgende produkter: Aminometylsulfonsyre, sulfanilsyre, butanol, diaminobutan, diaminodietylamin, diaminodipropylamin, diaminopropan, dietylentriamin, etanol, guanidin, metanol, tetraetylenpentamin, trietylentetramin, natriumsulfitt | Innhold av fritt formaldehyd mindre enn eller lik 0,5 mg/dm[^2] av den ikke-belagte filmen. |
+| *Klasse 4* | Total mengde mindre enn eller lik 0,01 mg/dm[^2] av den ikke-belagte filmen. |
 | – Reaksjonsprodukter mellom aminer av spiselige oljer og polyetylenoksid |  |
 | – Monoetanolaminlaurylsulfat |  |
 
@@ -478,13 +478,13 @@ Del 2. Overflatebehandlet regenerert cellulosefilm
 | – Naturharpiks [ = dammar ] |  |
 | – Poly-β-pinen [ = terpenharpiks ] |  |
 | – Ureaformaldehydharpiks (se kryssbindingsmidler) |  |
-| *C.3. Myknere* | Total mengde mindre enn eller lik 6 mg/dm2 av overflatematerialet/belegget på den siden som er i kontakt med næringsmidler |
+| *C.3. Myknere* | Total mengde mindre enn eller lik 6 mg/dm[^2] av overflatematerialet/belegget på den siden som er i kontakt med næringsmidler |
 | – Acetyltributylsitrat |  |
 | – Acetyl-tri(2-etylheksyl)sitrat |  |
 | – Di-iso-butyl- og di-n-butyladipat |  |
 | – Di-n-heksylazelat |  |
 |  |  |
-| – Disykloheksylftalat | Mindre enn eller lik 4 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| – Disykloheksylftalat | Mindre enn eller lik 4 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
 | – 2-Etylheksyldifenylfosfat |  |
 | – Glyserolmonoacetat [ = monoacetin ] |  |
 | – Glyseroldiacetat [ = diacetin ] |  |
@@ -493,9 +493,9 @@ Del 2. Overflatebehandlet regenerert cellulosefilm
 |  |  |
 | – Di-n-butyltartrat |  |
 | – Di-iso-butyltartrat |  |
-| *C.4. Andre tilsetningsstoffer* | Mindre enn eller lik 6 mg/dm2 totalt i den ikke overflatebehandlede regenererte cellulosefilm inklusiv overflatematerialet/belegget på den siden som er i kontakt med næringsmidler |
-| *C.4.1. Tilsetningsstoffer som er angitt i Del 1* | Samme begrensninger som i Del 1 (men mengdene i mg/dm2 refererer til den ikke-overflatebehandlede filmen av regenerert cellulose inklusiv overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler) |
-| *C.4.2. Spesielle tilsetningsstoffer for overflatemateriale/belegg* | Mengden enkeltstoffer eller stoffgrupper i hvert strekpunkt skal ikke være større enn 2 mg/dm2 (eller en lavere grense der det er spesifisert) av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| *C.4. Andre tilsetningsstoffer* | Mindre enn eller lik 6 mg/dm[^2] totalt i den ikke overflatebehandlede regenererte cellulosefilm inklusiv overflatematerialet/belegget på den siden som er i kontakt med næringsmidler |
+| *C.4.1. Tilsetningsstoffer som er angitt i Del 1* | Samme begrensninger som i Del 1 (men mengdene i mg/dm[^2] refererer til den ikke-overflatebehandlede filmen av regenerert cellulose inklusiv overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler) |
+| *C.4.2. Spesielle tilsetningsstoffer for overflatemateriale/belegg* | Mengden enkeltstoffer eller stoffgrupper i hvert strekpunkt skal ikke være større enn 2 mg/dm[^2] (eller en lavere grense der det er spesifisert) av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
 | – 1-Heksadekanol og 1-oktadekanol |  |
 | – Estere av lineære mettede eller umettede fettsyrer med et likt antall karbonatomer (C8 -C20 ) samt ricinolsyre med lineære etyl-, butyl-, amyl- og oleylalkoholer |  |
 | – Montanvoks, herunder renset montansyre (C26 -C32 ) og/eller deres estere med etandiol og/eller 1,3-butandiol og/eller deres kalsium- og kaliumsalter |  |
@@ -503,16 +503,16 @@ Del 2. Overflatebehandlet regenerert cellulosefilm
 | – Bivoks |  |
 | – Alfavoks [ = espartovoks ] |  |
 | – Candelillavoks |  |
-| – Dimetylpolysiloksan | Mindre enn eller lik 1 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| – Dimetylpolysiloksan | Mindre enn eller lik 1 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
 | – Epoksidert soyaolje (med et etylenoksidinnhold på 6-8%) |  |
 | – Raffinert parafin og mikrokrystallinsk voks |  |
 | – Pentaerytritoltetrastearat |  |
-| – Mono- og bis(oktadecyl-di-etylenoksid) fosfater | Mindre enn eller lik 0,2 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| – Mono- og bis(oktadecyl-di-etylenoksid) fosfater | Mindre enn eller lik 0,2 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
 | – Alifatiske syrer (C8 -C20 ) esterifisert med mono- eller di(2-hydroksyetyl)amin |  |
-| – 2- og 3-Tert-butyl-4-hydroksyanisol [ = butylhydroksyanisol-BHA ] | Mindre enn eller lik 0,06 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
-| – 2,6-Di-tert-butyl-4-metylfenol [ = butylhydroksytoluen-BHT ] | Mindre enn eller lik 0,06 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
-| – Di-n-oktyltin-bis(2-etylheksyl)maleat | Mindre enn eller lik 0,06 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
-| *C.5. Løsemidler* | Den samlede mengde stoffer skal ikke være større enn 0,6 mg/dm2 av overflatematerialet/belegget på den siden som er i kontakt med næringsmidler |
+| – 2- og 3-Tert-butyl-4-hydroksyanisol [ = butylhydroksyanisol-BHA ] | Mindre enn eller lik 0,06 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| – 2,6-Di-tert-butyl-4-metylfenol [ = butylhydroksytoluen-BHT ] | Mindre enn eller lik 0,06 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| – Di-n-oktyltin-bis(2-etylheksyl)maleat | Mindre enn eller lik 0,06 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| *C.5. Løsemidler* | Den samlede mengde stoffer skal ikke være større enn 0,6 mg/dm[^2] av overflatematerialet/belegget på den siden som er i kontakt med næringsmidler |
 | – Butylacetat |  |
 | – Etylacetat |  |
 | – Isobutylacetat |  |
@@ -530,7 +530,7 @@ Del 2. Overflatebehandlet regenerert cellulosefilm
 | – Metyletylketon |  |
 | – Metylisobutylketon |  |
 | – Tetrahydrofuran |  |
-| – Toluen | Mindre enn eller lik 0,06 mg/dm2 av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
+| – Toluen | Mindre enn eller lik 0,06 mg/dm[^2] av overflatematerialet/ belegget på den siden som er i kontakt med næringsmidler |
 
 > Vedlegget er endret ved [forskrifter 30 sep 1997 nr. 1069](forskrift/1997-09-30-1069), [11 okt 2004 nr. 1362](forskrift/2004-10-11-1362).
 
@@ -692,39 +692,39 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
-etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^2] og
 
 ut fra følgende betraktninger:
 
-1. I rådsdirektiv [89/109/EØF](eu/31989l0109*) av 21. desember 1988 om tilnærming av medlemsstatenes lovgivning om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler3 fastsettes allmenne prinsipper for å fjerne forskjellene mellom medlemsstatenes lovgivning om slike materialer og gjenstander, og det fastsettes at det skal vedtas gjennomføringsdirektiver for særlige grupper av materialer og gjenstander (særdirektiver). Denne metoden har vært hensiktsmessig og bør videreføres.
+1. I rådsdirektiv [89/109/EØF](eu/31989l0109*) av 21. desember 1988 om tilnærming av medlemsstatenes lovgivning om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler[^3] fastsettes allmenne prinsipper for å fjerne forskjellene mellom medlemsstatenes lovgivning om slike materialer og gjenstander, og det fastsettes at det skal vedtas gjennomføringsdirektiver for særlige grupper av materialer og gjenstander (særdirektiver). Denne metoden har vært hensiktsmessig og bør videreføres.
 2. De særdirektiver som er vedtatt i henhold til direktiv [89/109/EØF](eu/31989l0109*), inneholder generelt bestemmelser som gir medlemsstatene liten handlingsfrihet ved innarbeidingen, og det har også vært nødvendig med hyppige endringer for raskt å tilpasse dem til den tekniske utvikling. Slike tiltak bør derfor kunne ta form av forordninger eller vedtak. Samtidig vil det være hensiktsmessig å ta med visse ytterligere emneområder. Direktiv [89/109/EF](eu/31989l0109*) bør derfor erstattes.
 3. Grunnprinsippet i denne forordning er at alle materialer og gjenstander beregnet på å komme i direkte eller indirekte kontakt med næringsmidler, må være så inerte at de ikke avgir stoffer til næringsmidler i en slik mengde at det kan utgjøre en fare for menneskers helse, føre til en uakseptabel endring i næringsmidlenes sammensetning eller til en forringelse av deres organoleptiske egenskaper.
 4. Nye typer materialer og gjenstander som er utformet med henblikk på aktivt å opprettholde eller forbedre næringsmidlenes tilstand («aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler»), er ikke utformet for å være inerte, i motsetning til tradisjonelle materialer og gjenstander beregnet på å komme i kontakt med næringsmidler. Andre typer nye materialer og gjenstander er utformet for å overvåke næringsmidlenes tilstand («intelligente materialer og gjenstander beregnet på å komme i kontakt med næringsmidler»). Begge disse typer materialer og gjenstander kan komme i kontakt med næringsmidler. Av hensyn til klarhet og rettssikkerheten bør derfor aktive og intelligente materialer og gjenstander som er beregnet på å komme i kontakt med næringsmidler, omfattes av denne forordnings virkeområde, og de viktigste krav til bruken av dem bør fastsettes. Ytterligere krav bør fastsettes i særlige tiltak, herunder positivlister over godkjente stoffer og/eller materialer og gjenstander, som bør vedtas snarest mulig.
 5. Aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler er utformet for bevisst å innlemme «aktive» bestanddeler beregnet på bli avgitt til næringsmiddelet eller til å absorbere stoffer fra næringsmiddelet. De bør skilles fra materialer og gjenstander som tradisjonelt brukes til å avgi naturlige ingredienser til visse typer næringsmidler under framstillingen, for eksempel trefat.
-6. Aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler må endre næringsmiddelets sammensetning eller organoleptiske egenskaper bare dersom endringene er i samsvar med fellesskapsbestemmelsene om næringsmidler, for eksempel bestemmelsene i direktiv [89/107/EØF](eu/31989l0107)4 om tilsetningsstoffer. Særlig bør stoffer som tilsetningsstoffer i næringsmidler som bevisst er innlemmet i visse aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler for å bli avgitt til pakkede næringsmidler eller miljøet rundt dem, være godkjent i henhold til de relevante fellesskapsbestemmelser om næringsmidler og også være underlagt andre regler som vil bli fastsatt i et særlig tiltak.
+6. Aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler må endre næringsmiddelets sammensetning eller organoleptiske egenskaper bare dersom endringene er i samsvar med fellesskapsbestemmelsene om næringsmidler, for eksempel bestemmelsene i direktiv [89/107/EØF](eu/31989l0107)[^4] om tilsetningsstoffer. Særlig bør stoffer som tilsetningsstoffer i næringsmidler som bevisst er innlemmet i visse aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler for å bli avgitt til pakkede næringsmidler eller miljøet rundt dem, være godkjent i henhold til de relevante fellesskapsbestemmelser om næringsmidler og også være underlagt andre regler som vil bli fastsatt i et særlig tiltak.
 
    Dessuten bør egnet merking eller informasjon hjelpe brukerne til å bruke aktive materialer og gjenstander på en sikker og riktig måte i samsvar med næringsmiddellovgivningen, herunder bestemmelsene om merking av næringsmidler.
 7. Aktive og intelligente materialer og gjenstander beregnet på å komme i kontakt med næringsmidler bør ikke endre næringsmiddelets sammensetning eller organoleptiske egenskaper eller gi forbrukerne villedende opplysninger om næringsmiddelets tilstand. Aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler bør for eksempel ikke avgi eller absorbere stoffer som aldehyder eller aminer for å skjule en begynnende bedervelse av næringsmiddelet. Endringer som kan manipulere tegn på fordervelse kan villede forbrukeren og bør derfor ikke være tillatt. På samme måte kan aktive materialer og gjenstander beregnet på å komme i kontakt med næringsmidler som forårsaker fargeendringer i næringsmiddelet og dermed gir gale opplysninger om næringsmiddelets tilstand, villede forbrukeren, og de bør derfor heller ikke være tillatt.
 8. Alle omsatte materialer og gjenstander beregnet på å komme i kontakt med næringsmidler bør oppfylle kravene i denne forordning. Materialer og gjenstander som selges som antikviteter, bør likevel ikke omfattes av forordningen fordi de er tilgjengelig i begrensede mengder og har begrenset kontakt med næringsmidler.
 9. Overtrekksmaterialer som er en del av næringsmiddelet og som muligvis kan konsumeres sammen med det, bør ikke omfattes av denne forordning. Forordningen bør derimot få anvendelse på overtrekksmaterialer som dekker skorper på ost, bearbeidede kjøttvarer eller frukt, men som ikke er en del av næringsmiddelet og ikke er beregnet på å bli konsumert sammen med det.
 10. Det er nødvendig å fastsette forskjellige typer restriksjoner og bruksvilkår for de materialer og gjenstander som omfattes av denne forordning, og for bruk av stoffene som inngår i framstillingen av dem. Det er hensiktsmessig å fastsette restriksjonene og vilkårene i særlige tiltak og å ta hensyn til de tekniske egenskaper som kjennetegner hver gruppe av materialer og gjenstander.
-11. I henhold til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,5 skal Den europeiske myndighet for næringsmiddeltrygghet («Myndigheten») rådspørres før bestemmelser som kan få innvirkning på folkehelsen, vedtas gjennom særlige tiltak.
+11. I henhold til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,[^5] skal Den europeiske myndighet for næringsmiddeltrygghet («Myndigheten») rådspørres før bestemmelser som kan få innvirkning på folkehelsen, vedtas gjennom særlige tiltak.
 12. Dersom særlige tiltak omfatter en liste over stoffer som er godkjent i Fellesskapet ved framstilling av materialer og gjenstander beregnet på å komme i kontakt med næringsmidler, bør stoffene sikkerhetsvurderes før de godkjennes. Sikkerhetsvurderingen og godkjenningen av stoffene bør ikke berøre de relevante krav i Fellesskapets regelverk om registrering, vurdering, godkjenning og begrensning av kjemikalier.
 13. Forskjeller mellom nasjonale lover og forskrifter om sikkerhetsvurdering og godkjenning av stoffer som brukes til å framstille materialer og gjenstander beregnet på å komme i kontakt med næringsmidler, kan hindre fri bevegelighet for slike materialer og gjenstander og føre til ulike konkurransevilkår og illojal konkurranse. En framgangsmåte for godkjenning bør derfor fastsettes på fellesskapsplan. For å sikre en harmonisert sikkerhetsvurdering av stoffene bør vurderingene gjennomføres av Myndigheten.
 14. Etter sikkerhetsvurderingen av stoffene bør det treffes en risikohåndteringsbeslutning om hvorvidt stoffene bør føres opp på en fellesskapsliste over godkjente stoffer.
 15. Det er hensiktsmessig å gi mulighet til en administrativ kontroll av bestemte handlinger eller unnlatelser fra Myndighetens side i henhold til denne forordning. Kontrollen bør ikke berøre Myndighetens rolle som uavhengig vitenskapelig referansepunkt ved risikovurderinger.
 16. Merking skal hjelpe brukere til å bruke materialer og gjenstander på riktig måte. Metodene for slik merking kan variere avhengig av brukeren.
-17. Ved kommisjonsdirektiv [80/590/EØF](eu/31980l0590)6 ble det innført et symbol som kan følge materialer og gjenstander beregnet på å komme i kontakt med næringsmidler. For enkelthets skyld bør symbolet innlemmes i denne forordning.
+17. Ved kommisjonsdirektiv [80/590/EØF](eu/31980l0590)[^6] ble det innført et symbol som kan følge materialer og gjenstander beregnet på å komme i kontakt med næringsmidler. For enkelthets skyld bør symbolet innlemmes i denne forordning.
 18. Det bør sikres at materialer og gjenstander beregnet på å komme i kontakt med næringsmidler kan spores i alle ledd for å forenkle kontroll, tilbaketrekking fra markedet av mangelfulle produkter, forbrukeropplysning og plassering av ansvar. Driftsansvarlige for foretak bør minst kunne identifisere fra og til hvilke foretak materialer og gjenstander leveres.
-19. Med hensyn til kontroll av om materialer og gjenstander overholder bestemmelsene i denne forordning, bør det tas hensyn til de særskilte behovene til utviklingsland, særlig de minst utviklede landene. Ved europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes7 er Kommisjonen blitt pålagt å støtte utviklingslandene med hensyn til næringsmiddeltrygghet, herunder trygghet i forbindelse med materialer og gjenstander som kommer i kontakt med næringsmidler. I nevnte forordning er det derfor fastsatt særlige bestemmelser som bør få anvendelse også på materialer og gjenstander beregnet på å komme i kontakt med næringsmidler.
+19. Med hensyn til kontroll av om materialer og gjenstander overholder bestemmelsene i denne forordning, bør det tas hensyn til de særskilte behovene til utviklingsland, særlig de minst utviklede landene. Ved europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes[^7] er Kommisjonen blitt pålagt å støtte utviklingslandene med hensyn til næringsmiddeltrygghet, herunder trygghet i forbindelse med materialer og gjenstander som kommer i kontakt med næringsmidler. I nevnte forordning er det derfor fastsatt særlige bestemmelser som bør få anvendelse også på materialer og gjenstander beregnet på å komme i kontakt med næringsmidler.
 20. Det må fastsettes framgangsmåter for vedtakelse av beskyttelsestiltak i tilfeller der et materiale eller en gjenstand sannsynligvis vil utgjøre en alvorlig risiko for menneskers helse.
-21. Europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter8 får anvendelse på dokumenter som Myndigheten er i besittelse av.
+21. Europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter[^8] får anvendelse på dokumenter som Myndigheten er i besittelse av.
 22. Det er hensiktsmessig å beskytte de investeringer produktutviklere foretar når de samler inn de opplysninger og data som ligger til grunn for en søknad i henhold til denne forordning. For å unngå unødvendig gjentakelse av undersøkelser, særlig dyreforsøk, bør felles bruk av opplysninger likevel være mulig dersom de berørte parter er enige om det.
 23. Det bør utpekes referanselaboratorier på fellesskapsplan og nasjonalt plan for å bidra til analyseresultater preget av høy kvalitet og ensartethet. Dette mål vil nås innenfor rammen av forordning [(EF) nr. 882/2004](eu/32004r0882*).
 24. Av miljøhensyn bør bruk av resirkulerte materialer og gjenstander fremmes i Fellesskapet, forutsatt at det fastsettes strenge krav for å sikre næringsmiddeltrygghet og forbrukervern. Når det fastsettes slike krav bør det også tas hensyn til de tekniske egenskaper som kjennetegner gruppene av materialer og gjenstander nevnt i vedlegg I. Harmonisering av regler om resirkulerte materialer og gjenstander av plast bør prioriteres, ettersom de brukes stadig mer og nasjonale lover og forskrifter mangler eller er avvikende. Et utkast til et særlig tiltak om resirkulerte materialer og gjenstander av plast bør derfor offentliggjøres så snart som mulig for å klargjøre den rettslige stilling i Fellesskapet.
-25. De tiltak som er nødvendige for gjennomføringen av denne forordning og endringene i vedlegg I og II til forordningen, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.9
+25. De tiltak som er nødvendige for gjennomføringen av denne forordning og endringene i vedlegg I og II til forordningen, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[^9]
 26. Medlemsstatene bør fastsette regler om sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning og sørge for at de gjennomføres. Sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.
 27. Driftsansvarlige for foretak må gis tilstrekkelig tid til å tilpasse seg visse krav i denne forordning.
 28. Ettersom målene for denne forordning ikke kan nås i tilstrekkelig grad av medlemsstatene på grunn av forskjellene mellom medlemsstatenes lover og forskrifter, og bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.
@@ -800,7 +800,7 @@ VEDTATT DENNE FORORDNING:
 
 2\. Inntil det er vedtatt ytterligere regler i et særlig tiltak om aktive og intelligente materialer og gjenstander, skal stoffer som bevisst innlemmes i aktive materialer og gjenstander for å bli avgitt til næringsmidler eller miljøet rundt dem, godkjennes og brukes i samsvar med de relevante fellesskapsbestemmelser om næringsmidler og overholde bestemmelsene i denne forordning og dens gjennomføringstiltak.
 
-Stoffene skal anses som ingredienser som definert i artikkel 6 nr. 4 bokstav a) i direktiv [2000/13/EF](eu/32000l0013*).1
+Stoffene skal anses som ingredienser som definert i artikkel 6 nr. 4 bokstav a) i direktiv [2000/13/EF](eu/32000l0013*).[^1]
 
 3\. Aktive materialer og gjenstander skal ikke føre til endringer i næringsmiddelets sammensetning eller organoleptiske egenskaper, for eksempel ved å skjule at næringsmiddelet begynner å bli bedervet, noe som kan villede forbrukerne.
 
@@ -1194,13 +1194,13 @@ KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109*),1 særlig artikkel 5 nr. 1,
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109*),[^1] særlig artikkel 5 nr. 1,
 
 etter samråd med Den europeiske myndighet for næringsmiddeltrygghet og
 
 ut fra følgende betraktninger:
 
-1. For å unngå fare for menneskers helse og hindringer for fritt varebytte er det i kommisjonsdirektiv [2002/16/EF](eu/32002l0016) av 20. februar 2002 om bruk av visse epoksyderivater i materialer og gjenstander beregnet på å komme i kontakt med næringsmidler2 fastsatt spesifikke migrasjonsgrenser for 2,2-bis(4-hydroksyfenyl)propan bis(2,3-epoksypropyl)eter («BADGE», dvs. bisfenol A diglysidyleter), bis(hydroksyfenyl)metan bis(2,3-epoksypropyl)etere («BFDGE», dvs. bisfenol F diglysidyleter) og novolacglysidyletere (NOGE) og visse derivater av disse.
+1. For å unngå fare for menneskers helse og hindringer for fritt varebytte er det i kommisjonsdirektiv [2002/16/EF](eu/32002l0016) av 20. februar 2002 om bruk av visse epoksyderivater i materialer og gjenstander beregnet på å komme i kontakt med næringsmidler[^2] fastsatt spesifikke migrasjonsgrenser for 2,2-bis(4-hydroksyfenyl)propan bis(2,3-epoksypropyl)eter («BADGE», dvs. bisfenol A diglysidyleter), bis(hydroksyfenyl)metan bis(2,3-epoksypropyl)etere («BFDGE», dvs. bisfenol F diglysidyleter) og novolacglysidyletere (NOGE) og visse derivater av disse.
 2. I henhold til direktiv [2002/16/EF](eu/32002l0016) kan BFDGE og NOGE brukes og/eller forekomme bare fram til 31. desember 2004. For BADGE ble overgangsperioden forlenget til 31. desember 2005 i påvente av at det ble framlagt nye toksikologiske data og at disse ble vurdert av Den europeiske myndighet for næringsmiddeltrygghet (myndigheten).
 3. De nødvendige toksikologiske dataene for BADGE er framlagt. Myndigheten fastslo at BADGE, BADGE.H2 O og BADGE.2H2 O ikke skaper bekymring for kreftframkallende virkninger og genotoksisitet *in vivo*, og at det kan fastsettes et akseptabelt daglig inntak på 0,15 mg/kg kroppsvekt for BADGE, BADGE.H2 O og BADGE.2H2 O. Det kan derfor fastsettes en høyere spesifikk migrasjonsgrense SML(T) for BADGE, BADGE.H2 O og BADGE.2H2 O. Ettersom det ikke foreligger data om genotoksisiteten *in vivo* hos klorhydriner av BADGE, anser myndigheten at den nåværende spesifikke migrasjonsgrensen på 1 mg/kg næringsmidler eller testløsninger for næringsmidler fortsatt er egnet.
 4. Handel med og bruk av materialer og gjenstander som inneholder BADGE i samsvar med denne forordning, skal derfor tillates i hele Fellesskapet fra 1. januar 2006.
@@ -1208,7 +1208,7 @@ ut fra følgende betraktninger:
 6. I store beholdere er bruk og/eller forekomst av BADGE, NOGE og BFDGE tillatt. Disse beholdernes store rominnhold i forhold til flateinnhold, den gjentatte bruken i løpet av en lang levetid, som reduserer migrasjonen, og deres kontakt med næringsmidler ved omgivelsestemperatur for de fleste bruksmåters vedkommende, tyder på at det ikke er nødvendig å fastsette en migrasjonsgrense for BADGE, NOGE og BFDGE i slike beholdere.
 7. I henhold til artikkel 16 i forordning [(EF) nr. 1935/2004](eu/32004r1935) skal materialer og gjenstander som omfattes av særlige tiltak, ledsages av en skriftlig erklæring der det bekreftes at de er i samsvar med de regler som får anvendelse på dem. Dette kravet er ennå ikke innført i direktiv [2002/16/EF](eu/32002l0016). Det er derfor nødvendig å innføre dette kravet og fastsette en overgangsperiode.
 8. Med tanke på de nødvendige endringene og av klarhetshensyn bør direktiv [2002/16/EF](eu/32002l0016) erstattes med en ny forordning.
-9. I direktiv [2002/16/EF](eu/32002l0016) er det fastsatt at bestemmelsene om BADGE, BFDGE og NOGE ikke får anvendelse på materialer og gjenstander som kommer i kontakt med næringsmidler før 1. mars 2003. Disse materialene og gjenstandene kan fortsatt omsettes, forutsatt at de er påført fyllingsdatoen. Denne datoen kan erstattes av «best før»-datoen som fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler,3 eller en annen angivelse, for eksempel partinummeret som fastsatt i rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti,4 for næringsmidler som er pakket i slike materialer og gjenstander, forutsatt at det finnes en forbindelse mellom denne angivelsen og fyllingsdatoen slik at sistnevnte alltid kan fastslås.
+9. I direktiv [2002/16/EF](eu/32002l0016) er det fastsatt at bestemmelsene om BADGE, BFDGE og NOGE ikke får anvendelse på materialer og gjenstander som kommer i kontakt med næringsmidler før 1. mars 2003. Disse materialene og gjenstandene kan fortsatt omsettes, forutsatt at de er påført fyllingsdatoen. Denne datoen kan erstattes av «best før»-datoen som fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler,[^3] eller en annen angivelse, for eksempel partinummeret som fastsatt i rådsdirektiv [89/396/EØF](eu/31989l0396) av 14. juni 1989 om angivelse eller merking for å identifisere et bestemt næringsmiddelparti,[^4] for næringsmidler som er pakket i slike materialer og gjenstander, forutsatt at det finnes en forbindelse mellom denne angivelsen og fyllingsdatoen slik at sistnevnte alltid kan fastslås.
 10. Direktiv [2002/16/EF](eu/32002l0016) bør derfor oppheves.
 11. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
@@ -1301,7 +1301,7 @@ Spesifikk migrasjonsgrense for BADGE og noen av dets derivater
       skal ikke overskride følgende grenser:
 
       - 9 mg/kg i næringsmidler eller testløsninger for næringsmidler, eller
-      - 9 mg/6 dm2 i samsvar med tilfellene nevnt i artikkel 7 i kommisjonsdirektiv [2002/72/EF](eu/32002l0072*).1
+      - 9 mg/6 dm2 i samsvar med tilfellene nevnt i artikkel 7 i kommisjonsdirektiv [2002/72/EF](eu/32002l0072*).[^1]
 2. Summen av migrasjonen av følgende stoffer:
 
    1. BADGE.HCl (CAS-nr. = 013836-48-1)
@@ -1311,7 +1311,7 @@ Spesifikk migrasjonsgrense for BADGE og noen av dets derivater
 
       - 1 mg/kg i næringsmidler eller testløsninger for næringsmidler, eller
       - 1 mg/6 dm2 i samsvar med tilfellene nevnt i artikkel 7 i direktiv [2002/72/EF](eu/32002l0072*).
-3. Migrasjonsanalysen skal utføres i samsvar med reglene fastsatt i rådsdirektiv [82/711/EØF](eu/31982l0711)2 og direktiv [2002/72/EF](eu/32002l0072*).
+3. Migrasjonsanalysen skal utføres i samsvar med reglene fastsatt i rådsdirektiv [82/711/EØF](eu/31982l0711)[^2] og direktiv [2002/72/EF](eu/32002l0072*).
 
 1 EUT L 39 av 13.2.2003, s. 1.
 
@@ -1359,7 +1359,7 @@ KOMMISJONEN FOR DEI EUROPEISKE FELLESSKAPA HAR –
 
 med tilvising til traktaten om skipinga av Det europeiske fellesskapet,
 
-med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler,1 særleg artikkel 5 nr. 1, og
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler,[^1] særleg artikkel 5 nr. 1, og
 
 ut frå desse synsmåtane:
 
@@ -1518,13 +1518,13 @@ KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109*),1 særlig artikkel 5 nr. 1 bokstav h), i), m) og n),
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109*),[^1] særlig artikkel 5 nr. 1 bokstav h), i), m) og n),
 
 etter samråd med Den europeiske myndighet for næringsmiddeltrygghet og
 
 ut fra følgende betraktninger:
 
-1. Forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter at aktive og intelligente materialer og gjenstander beregnet på å komme i kontakt med næringsmidler (aktive og intelligente materialer og gjenstander) faller inn under forordningens anvendelsesområde, og at alle forordningens bestemmelser om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler derfor også får anvendelse for disse materialene og gjenstandene. Andre fellesskapstiltak, som dem som er fastsatt i europaparlaments- og rådsdirektiv [2001/95/EF](eu/32001l0095) av 3. desember 2001 om alminnelig produktsikkerhet2 og dets gjennomføringstiltak, og rådsdirektiv [87/357/EØF](eu/31987l0357) av 25. juni 1987 om tilnærming av medlemsstatenes lovgivning om produkter som medfører fare for forbrukernes helse eller sikkerhet fordi produktene gir inntrykk av å være noe annet enn det de er,3 også får anvendelse, der det er formålstjenlig, for slike materialer og gjenstander.
+1. Forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter at aktive og intelligente materialer og gjenstander beregnet på å komme i kontakt med næringsmidler (aktive og intelligente materialer og gjenstander) faller inn under forordningens anvendelsesområde, og at alle forordningens bestemmelser om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler derfor også får anvendelse for disse materialene og gjenstandene. Andre fellesskapstiltak, som dem som er fastsatt i europaparlaments- og rådsdirektiv [2001/95/EF](eu/32001l0095) av 3. desember 2001 om alminnelig produktsikkerhet[^2] og dets gjennomføringstiltak, og rådsdirektiv [87/357/EØF](eu/31987l0357) av 25. juni 1987 om tilnærming av medlemsstatenes lovgivning om produkter som medfører fare for forbrukernes helse eller sikkerhet fordi produktene gir inntrykk av å være noe annet enn det de er,[^3] også får anvendelse, der det er formålstjenlig, for slike materialer og gjenstander.
 2. Forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter allmenne prinsipper for fjerning av forskjellene mellom medlemsstatenes lovgivning om materialer beregnet på å komme i kontakt med næringsmidler. Artikkel 5 nr. 1 i samme forordning fastsetter at det skal vedtas særlige tiltak for grupper av materialer og gjenstander, og inneholder en nærmere beskrivelse av framgangsmåten for godkjenning av stoffer på fellesskapsplan, når et særlig tiltak krever at det utarbeides en liste over godkjente stoffer.
 3. Visse regler som gjelder for aktive og intelligente materialer og gjenstander er fastsatt i forordning [(EF) nr. 1935/2004](eu/32004r1935). Disse omfatter regler for avgitte aktive stoffer som skal overholde fellesskapsbestemmelser og nasjonale bestemmelser som gjelder for næringsmidler og merking. Særlige regler bør fastsettes i et særlig tiltak.
 4. Denne forordning er et særlig tiltak i henhold til artikkel 5 nr. 1 bokstav b) i forordning [(EF) nr. 1935/2004](eu/32004r1935). Denne forordning skal fastsette de særlige reglene for aktive og intelligente materialer og gjenstander som skal få anvendelse i tillegg til de alminnelige kravene fastsatt i forordning [(EF) nr. 1935/2004](eu/32004r1935) for sikker bruk av disse.
@@ -1541,7 +1541,7 @@ ut fra følgende betraktninger:
 15. De særlige fellesskapstiltakene som omfatter den passive delen av et aktivt eller intelligent materiale, kan fastsette krav til materialets treghet, f.eks. en grense for samlet migrasjon som skal gjelde for plastmaterialer. Dersom en aktiv bestanddel som avgis, innlemmes i et materiale beregnet for kontakt med næringsmidler som faller inn under et særlig fellesskapstiltak, kan det være fare for at grensen for samlet migrasjon overskrides på grunn av avgivelse av det aktive stoffet. Ettersom den aktive funksjonen ikke er et iboende trekk ved det passive materialet, skal mengden avgitt aktivt stoff ikke medregnes i verdien for samlet migrasjon.
 16. Artikkel 4 nr. 5 i forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter at aktive og intelligente materialer og gjenstander som allerede er i kontakt med næringsmidler, skal være tilstrekkelig merket for at forbrukeren skal kunne identifisere deler som ikke er beregnet på konsum. Det er absolutt nødvendig at slik informasjon er konsekvent for å unngå at forbrukere villedes. Aktive og intelligente materialer og gjenstander skal derfor merkes med formålstjenlig ordlyd og om mulig med symbol i alle tilfeller der materialer eller artikler eller deler av disse kan oppfattes som beregnet på konsum.
 17. Artikkel 16 i forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter at materialer og gjenstander skal ledsages av en skriftlig samsvarserklæring som bekrefter at de er i samsvar med de regler som gjelder for dem. I samsvar med artikkel 5 nr. 1 bokstav h) og i) i samme forordning og med sikte på å styrke leverandørenes samordning og ansvar i hvert ledd av framstillingen skal de ansvarlige dokumentere overholdelse av de relevante reglene i en samsvarserklæring som gjøres tilgjengelig for deres kunder. Videre skal det i hvert ledd av framstillingen stilles underlagsdokumentasjon som underbygger samsvarserklæringen, til rådighet for tilsynsmyndighetene.
-18. Artikkel 17 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)4 pålegger driftsansvarlige for næringsmiddelforetak å verifisere at næringsmidler oppfyller relevante krav i næringsmiddelregelverket. Artikkel 15 nr. 1 bokstav e) i forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter at aktive materialer og gjenstander som ennå ikke er i kontakt med næringsmidler når de bringes i omsetning, skal ledsages av opplysninger om tillatt bruk, bruksområder og andre relevante opplysninger, som navn og største mengde av stoffet som avgis av den aktive bestanddelen, slik at driftsansvarlige for næringsmiddelforetak som benytter disse materialene og gjenstandene kan oppnå samsvar med eventuelle andre relevante fellesskapsbestemmelser eller, i mangel av slike, nasjonale bestemmelser som gjelder for næringsmidler, herunder bestemmelser om merking av næringsmidler. For dette formål, og med forbehold for kravet om fortrolighet, skal driftsansvarlige for næringsmiddelforetak gis tilgang til relevante opplysninger som gjør dem i stand til å sikre at migrasjonen eller den tilsiktede avgivelsen fra de aktive og intelligente materialene og gjenstandene til næringsmidlene er i samsvar med de spesifikasjoner og restriksjoner som er fastsatt i fellesskapsbestemmelser eller nasjonale bestemmelser som gjelder for næringsmidler.
+18. Artikkel 17 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^4] pålegger driftsansvarlige for næringsmiddelforetak å verifisere at næringsmidler oppfyller relevante krav i næringsmiddelregelverket. Artikkel 15 nr. 1 bokstav e) i forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter at aktive materialer og gjenstander som ennå ikke er i kontakt med næringsmidler når de bringes i omsetning, skal ledsages av opplysninger om tillatt bruk, bruksområder og andre relevante opplysninger, som navn og største mengde av stoffet som avgis av den aktive bestanddelen, slik at driftsansvarlige for næringsmiddelforetak som benytter disse materialene og gjenstandene kan oppnå samsvar med eventuelle andre relevante fellesskapsbestemmelser eller, i mangel av slike, nasjonale bestemmelser som gjelder for næringsmidler, herunder bestemmelser om merking av næringsmidler. For dette formål, og med forbehold for kravet om fortrolighet, skal driftsansvarlige for næringsmiddelforetak gis tilgang til relevante opplysninger som gjør dem i stand til å sikre at migrasjonen eller den tilsiktede avgivelsen fra de aktive og intelligente materialene og gjenstandene til næringsmidlene er i samsvar med de spesifikasjoner og restriksjoner som er fastsatt i fellesskapsbestemmelser eller nasjonale bestemmelser som gjelder for næringsmidler.
 19. Ettersom flere aktive og intelligente materialer og gjenstander allerede er på markedet i medlemsstatene, bør det fastsettes bestemmelser som sikrer at overgangen til en framgangsmåte for godkjenning på fellesskapsplan går smidig og ikke forstyrrer det markedet som allerede finnes for disse materialene og gjenstandene. Søkere bør derfor gis tilstrekkelig tid til å skaffe til veie de opplysninger som trengs til sikkerhetsvurderingen av stoffet eller av den kombinasjonen av stoffer som bestanddelen består av. Søkere bør derfor gis en frist på 18 måneder for innsending av informasjon om aktive og intelligente materialer og gjenstander. I løpet av denne 18-månedersperioden bør det også være mulig å søke om godkjenning av nye stoffer eller kombinasjoner av stoffer.
 20. Myndigheten skal uten opphold vurdere alle søknader som gjelder eksisterende så vel som nye stoffer som utgjør de bestanddelene som den innledende søknaden gjaldt, dersom den ble innsendt i tide og var i samsvar med myndighetens retningslinjer.
 21. Etter at sikkerhetsvurderingen er fullført for alle stoffer som det er inngitt en søknad for som er gyldig i henhold til myndighetens retningslinjer, bør Kommisjonen i løpet av den innledende 18-månedersperioden utarbeide en fellesskapsliste over godkjente stoffer. For å sikre rettferdige og like vilkår for alle søkere bør fellesskapslisten utarbeides i en enkelt omgang.
@@ -1610,7 +1610,7 @@ Fellesskapsliste over stoffer som kan benyttes i aktive og intelligente bestandd
    2. stoffer som faller inn under virkeområdet for fellesskapsbestemmelser eller nasjonale bestemmelser som gjelder for næringsmidler, som er tilsatt eller inkorporert i aktive materialer og gjenstander ved hjelp av teknikker som poding eller fiksering for å ha en teknologisk funksjon i næringsmiddelet, forutsatt at de er i samsvar med vilkårene fastsatt i artikkel 9,
    3. stoffer benyttet i bestanddeler som ikke er i direkte kontakt med næringsmidler eller miljøet rundt næringsmiddelet og som er atskilt fra næringsmiddelet av en funksjonell barriere, forutsatt at de er i samsvar med vilkårene fastsatt i artikkel 10 og de ikke faller inn under noen av følgende kategorier:
 
-      1. stoffer klassifisert som «arvestoffskadelige», «kreftframkallende» eller «reproduksjonstoksiske» i samsvar med kriteriene fastsatt i nr. 3.5, 3.6 og 3.7 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*),1
+      1. stoffer klassifisert som «arvestoffskadelige», «kreftframkallende» eller «reproduksjonstoksiske» i samsvar med kriteriene fastsatt i nr. 3.5, 3.6 og 3.7 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*),[^1]
       2. stoffer som er bevisst konstruert med partikkelstørrelser som framviser funksjonelle fysiske og kjemiske egenskaper som skiller seg vesentlig fra stoffer med større partikkelstørrelse.
 
 1 EUT L 353 av 31.12.2008, s. 1.
@@ -1663,7 +1663,7 @@ Stoffer nevnt i artikkel 5 nr. 2 bokstav a) og b)
 
 Stoffer nevnt i artikkel 5 nr. 2 bokstav c)
 
-1. Migrasjonen til næringsmidler av stoffer fra bestanddeler som ikke er i direkte kontakt med et næringsmiddel eller miljøet rundt næringsmiddelet som omhandlet i artikkel 5 nr. 2 bokstav c) i denne forordning, skal ikke overstige 0,01 mg/kg, målt med statistisk sikkerhet ved bruk av en analysemetode som er i samsvar med artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).1
+1. Migrasjonen til næringsmidler av stoffer fra bestanddeler som ikke er i direkte kontakt med et næringsmiddel eller miljøet rundt næringsmiddelet som omhandlet i artikkel 5 nr. 2 bokstav c) i denne forordning, skal ikke overstige 0,01 mg/kg, målt med statistisk sikkerhet ved bruk av en analysemetode som er i samsvar med artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).[^1]
 2. Grenseverdien fastsatt i nr. 1 skal alltid være uttrykt som konsentrasjon i næringsmiddelet. Den skal gjelde for en gruppe stoffer, om de er strukturelt og toksikologisk beslektet, særlig isomerer eller stoffer med samme relevante funksjonelle gruppe, og skal omfatte eventuell avsmitting.
 
 1 EUT L 165 av 30.4.2004, s. 1.
@@ -1678,7 +1678,7 @@ MERKING
    1. ordlyden «IKKE TIL KONSUM», og
    2. symbolet gjengitt i vedlegg I i alle tilfeller der det er teknisk mulig.
 2. Informasjonen som kreves i henhold til nr. 1, skal være lett synlig, tydelig og skal ikke kunne fjernes. Informasjonen skal være trykt med en skriftstørrelse på minst 3 mm og overholde kravene fastsatt i artikkel 15 i forordning [(EF) nr. 1935/2004](eu/32004r1935).
-3. Avgitte aktive stoffer skal betraktes som næringsmiddelingredienser i henhold til artikkel 6 nr. 4 bokstav a) i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*)1 og skal være underlagt bestemmelsene i nevnte direktiv.
+3. Avgitte aktive stoffer skal betraktes som næringsmiddelingredienser i henhold til artikkel 6 nr. 4 bokstav a) i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*)[^1] og skal være underlagt bestemmelsene i nevnte direktiv.
 
 1 EFT L 109 av 6.5.2000, s. 29.
 
@@ -1780,17 +1780,17 @@ EUROPAKOMMISJONEN HAR –
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109*),1 særlig artikkel 5 nr. 1 bokstav a), c), d), f), h), i) og j),
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109*),[^1] særlig artikkel 5 nr. 1 bokstav a), c), d), f), h), i) og j),
 
 etter samråd med Den europeiske myndighet for næringsmiddeltrygghet, og
 
 ut fra følgende betraktninger:
 
 1. Forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter allmenne prinsipper for fjerning av forskjellene mellom medlemsstatenes lovgivning om materialer som er i kontakt med næringsmidler. Artikkel 5 nr. 1 i nevnte forordning fastsetter at det skal vedtas særlige tiltak for grupper av materialer og gjenstander, og inneholder en nærmere beskrivelse av framgangsmåten for godkjenning av stoffer på unionsplan, når et særlig tiltak krever at det utarbeides en liste over godkjente stoffer.
-2. Denne forordning er et særlig tiltak i henhold til artikkel 5 nr. 1 i forordning [(EF) nr. 1935/2004](eu/32004r1935). Den skal fastsette de særlige reglene som skal få anvendelse på plastmaterialer og plastgjenstander for at disse skal kunne brukes trygt, og den opphever direktiv [2002/72/EF](eu/32002l0072*) av 6. august 2002 om plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler.2
+2. Denne forordning er et særlig tiltak i henhold til artikkel 5 nr. 1 i forordning [(EF) nr. 1935/2004](eu/32004r1935). Den skal fastsette de særlige reglene som skal få anvendelse på plastmaterialer og plastgjenstander for at disse skal kunne brukes trygt, og den opphever direktiv [2002/72/EF](eu/32002l0072*) av 6. august 2002 om plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler.[^2]
 3. Ved direktiv [2002/72/EF](eu/32002l0072*) er det fastsatt grunnleggende regler for framstilling av plastmaterialer og plastgjenstander. Direktivet er blitt betydelig endret seks ganger. Av klarhetshensyn bør teksten konsolideres og overflødige og foreldede deler oppheves.
 4. Tidligere er direktiv [2002/72/EF](eu/32002l0072*) med endringer innarbeidet i nasjonal lovgivning uten større tilpasninger. Det tar vanligvis tolv måneder å innarbeide bestemmelser i nasjonal lovgivning. Når det gjelder å endre en liste over monomerer og tilsetningsstoffer med henblikk på å godkjenne nye stoffer, fører denne innarbeidingen til at godkjenningen forsinkes og hemmer dermed takten i nyskapingen. Det synes derfor hensiktsmessig å vedta regler for plastmaterialer og plastgjenstander i form av en forordning som kommer direkte til anvendelse i alle medlemsstater.
-5. Direktiv [2002/72/EF](eu/32002l0072*) gjelder for materialer og gjenstander som utelukkende er laget av plast, og for plastpakninger i lokk. Tidligere var dette det viktigste bruksområdet for plast på markedet. Ved siden av materialer og gjenstander som utelukkende er laget av plast, er i de senere årene plast imidlertid brukt sammen med andre materialer i såkalte flerlagsmultimaterialer. Reglene for bruk av vinylkloridmonomer fastsatt i rådsdirektiv [78/142/EØF](eu/31978l0142*) av 30. januar 1978 om tilnærming av medlemsstatenes lovgivning om materialer og gjenstander som inneholder vinylkloridmonomer og er beregnet på å komme i kontakt med næringsmidler,3 har allerede anvendelse på alle typer plast. Det synes derfor hensiktsmessig å utvide denne forordnings virkeområde til å omfatte plastlag i flerlagsmultimaterialer.
+5. Direktiv [2002/72/EF](eu/32002l0072*) gjelder for materialer og gjenstander som utelukkende er laget av plast, og for plastpakninger i lokk. Tidligere var dette det viktigste bruksområdet for plast på markedet. Ved siden av materialer og gjenstander som utelukkende er laget av plast, er i de senere årene plast imidlertid brukt sammen med andre materialer i såkalte flerlagsmultimaterialer. Reglene for bruk av vinylkloridmonomer fastsatt i rådsdirektiv [78/142/EØF](eu/31978l0142*) av 30. januar 1978 om tilnærming av medlemsstatenes lovgivning om materialer og gjenstander som inneholder vinylkloridmonomer og er beregnet på å komme i kontakt med næringsmidler,[^3] har allerede anvendelse på alle typer plast. Det synes derfor hensiktsmessig å utvide denne forordnings virkeområde til å omfatte plastlag i flerlagsmultimaterialer.
 6. Plastmaterialer og plastgjenstander kan bestå av forskjellige lag plast som er forbundet med hverandre ved hjelp av klebemidler. Plastmaterialer og plastgjenstander kan også være påført trykk eller organisk eller uorganisk belegg. Påtrykte eller belagte plastmaterialer og plastgjenstander samt de som er forbundet med hverandre ved hjelp av klebemidler, bør være innenfor forordningens virkeområde. Klebemidler, belegg og trykkfarger består ikke nødvendigvis av de samme stoffene som plast. Ved forordning [(EF) nr. 1935/2004](eu/32004r1935) er det fastsatt at det kan vedtas særlige tiltak for klebemidler, belegg og trykkfarger. Derfor bør plastgjenstander og plastartikler som er påført trykk eller belegg, eller som er forbundet med hverandre ved hjelp av klebemidler, ha tillatelse til i trykket, belegget eller det klebende laget å innholde andre stoffer enn dem som på unionsplan er godkjent for plast. Disse lagene kan være underlagt andre EU-regler eller nasjonale regler.
 7. Både plast og ionebytteharpikser, gummi og silikoner er makromolekylære stoffer som framstilles ved polymerisasjonsprosesser. Ved forordning [(EF) nr. 1935/2004](eu/32004r1935) er det fastsatt at det kan vedtas særlige tiltak for ionebytteharpikser, gummi og silikoner. Siden disse materialene består av andre stoffer enn plast, og har forskjellige fysisk-kjemiske egenskaper, må det gjelde særlige regler for dem, og det bør gjøres klart at de ikke hører inn under denne forordnings virkeområde.
 8. Plast framstilles av monomerer og andre utgangsstoffer som gjennomgår en kjemisk reaksjon og danner en makromolekylær struktur, polymeren, som utgjør den strukturelle hovedbestanddelen i plast. Polymeren tilsettes tilsetningsstoffer for å frambringe bestemte teknologiske virkninger. Polymeren selv er inert og har høy molekylvekt. Siden stoffer med en molekylvekt på over 1000 Da vanligvis ikke kan tas opp i kroppen, er den mulige helsefaren fra selve polymeren minimal. Mulig helsefare kan komme fra monomerer som ikke har reagert, eller som har reagert ufullstendig, eller fra andre utgangsstoffer eller tilsetningsstoffer med lav molekylvekt, som overføres til næringsmidler gjennom migrasjon fra det plastmaterialet som er i kontakt med næringsmidler. Derfor bør monomerer, andre utgangsstoffer og tilsetningsstoffer gjennomgå risikovurdering og godkjennes før de brukes ved framstilling av plastmaterialer og plastgjenstander.
@@ -1809,30 +1809,30 @@ ut fra følgende betraktninger:
 21. Før unionslisten over tilsetningsstoffer blir utarbeidet, kan andre tilsetningsstoffer enn dem som er godkjent på unionsplan, brukes ved framstillingen av plast. For de tilsetningsstoffene som var tillatt i medlemsstatene, utløp fristen for innlevering av opplysninger til deres sikkerhetsevaluering fra myndigheten med sikte på at de skal føres opp på unionslisten, 31. desember 2006. Tilsetningsstoffer som det var innlevert en gyldig søknad for innenfor denne fristen, var oppført på en foreløpig liste. For visse tilsetningsstoffer på den foreløpige listen er det ennå ikke gjort noen beslutning om godkjenning på unionsplan. Disse tilsetningsstoffene bør fortsatt kunne brukes i samsvar med nasjonal lovgivning fram til evalueringen av dem er fullført og det er besluttet om de skal føres opp på unionslisten.
 22. Når et tilsetningsstoff oppført på den foreløpige listen, er ført opp på unionslisten, eller når det er besluttet at det ikke skal føres opp på unionslisten, bør dette tilsetningsstoffet tas ut av den foreløpige listen over tilsetningsstoffer.
 23. Ny teknologi gjør det mulig å framstille stoffer med begrenset partikkelstørrelse som utviser kjemiske og fysiske egenskaper som skiller seg vesentlig fra egenskapene hos stoffer med større partikkelstørrelse, for eksempel nanopartikler. Disse forskjellige egenskapene kan føre til forskjellige toksikologiske egenskaper, og derfor bør disse stoffene i hvert enkelt tilfelle vurderes av myndigheten med hensyn til risiko, inntil det foreligger flere opplysninger om slik ny teknologi. Det bør presiseres at godkjenninger som bygger på risikovurdering for den vanlige partikkelstørrelsen for et stoff, ikke dekker kunstig framstilte nanopartikler.
-24. På grunnlag av risikovurderingen bør godkjenningen om nødvendig fastsette spesifikke migrasjonsgrenser for å sikre at det ferdige materialet eller den ferdige gjenstanden er trygg. Dersom et tilsetningsstoff som er godkjent ved framstillingen av plastmaterialer og plastgjenstander, også er godkjent som tilsetningsstoff eller aromastoff i næringsmidler, bør det sikres at avgivelse av stoffet ikke endrer næringsmiddelets sammensetning på en uakseptabel måte. Avgivelse av et slikt tilsetningsstoff eller aromastoff med to bruksområder bør derfor ikke ha noen teknologisk funksjon på næringsmiddelet, med mindre en slik funksjon er tilsiktet, og materialet som er i kontakt med næringsmidler, oppfyller kravene til materialer som er beregnet på å komme i kontakt med næringsmidler i forordning [(EF) nr. 1935/2004](eu/32004r1935) og kommisjonsforordning [(EF) nr. 450/2009](eu/32009r0450) av 29. mai 2009 om aktive og intelligente materialer og gjenstander beregnet på å komme i kontakt med næringsmidler.4 Kravene i europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler5 eller europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler og om endring av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601*), forordning [(EF) nr. 2232/96](eu/31996r2232) og (EF) [nr. 110/2008](eu/32008r0110) og direktiv [2000/13/E](eu/32000l0013*)6 bør overholdes i det omfang de får anvendelse.
+24. På grunnlag av risikovurderingen bør godkjenningen om nødvendig fastsette spesifikke migrasjonsgrenser for å sikre at det ferdige materialet eller den ferdige gjenstanden er trygg. Dersom et tilsetningsstoff som er godkjent ved framstillingen av plastmaterialer og plastgjenstander, også er godkjent som tilsetningsstoff eller aromastoff i næringsmidler, bør det sikres at avgivelse av stoffet ikke endrer næringsmiddelets sammensetning på en uakseptabel måte. Avgivelse av et slikt tilsetningsstoff eller aromastoff med to bruksområder bør derfor ikke ha noen teknologisk funksjon på næringsmiddelet, med mindre en slik funksjon er tilsiktet, og materialet som er i kontakt med næringsmidler, oppfyller kravene til materialer som er beregnet på å komme i kontakt med næringsmidler i forordning [(EF) nr. 1935/2004](eu/32004r1935) og kommisjonsforordning [(EF) nr. 450/2009](eu/32009r0450) av 29. mai 2009 om aktive og intelligente materialer og gjenstander beregnet på å komme i kontakt med næringsmidler.[^4] Kravene i europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler[^5] eller europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler og om endring av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601*), forordning [(EF) nr. 2232/96](eu/31996r2232) og (EF) [nr. 110/2008](eu/32008r0110) og direktiv [2000/13/E](eu/32000l0013*)[^6] bør overholdes i det omfang de får anvendelse.
 25. I samsvar med artikkel 3 nr. 1 bokstav b) i forordning [(EF) nr. 1935/2004](eu/32004r1935) bør avgivelse av stoffer fra materialer som er i kontakt med næringsmidler, ikke forårsake uakseptable endringer i næringsmiddelets sammensetning. I samsvar med god framstillingspraksis er det mulig å framstille plastmaterialer på en slik måte at de ikke avgir mer enn 10 mg av stoffene per dm2 av plastmaterialets overflateareal. Dersom risikovurderingen av et enkelt stoff ikke angir et lavere nivå, bør dette nivået fastsettes som en generell grense for hvor inert plastmaterialet er (samlet migrasjonsgrense). For å kunne oppnå sammenlignbare resultater når det skal kontrolleres om den samlede migrasjonsgrensen overholdes, bør det foretas prøving under standardiserte prøvingsforhold, herunder prøvingstid, temperatur og prøvingsmedium (næringsmiddelsimulant) som utgjør de verst tenkelige bruksforholdene for plastmaterialet eller plastgjenstanden.
 26. Den samlede migrasjonsgrensen på 10 mg per dm2 vil for 1 kg næringsmiddel i firkantet emballasje gi en migrasjon på 60 mg per kg næringsmiddel. For liten emballasje der overflaten er større i forhold til volumet, vil migrasjonen til næringsmiddelet være større. For spedbarn og småbarn, som har inntar større mengder næringsmiddel per kg kroppsvekt enn voksne, og som ennå ikke har et variert kosthold, bør det fastsettes særlige bestemmelser for å kunne begrense inntaket av stoffer som migrerer fra materialer som er i kontakt med næringsmidler. For å sikre samme beskyttelse for emballasje med lite volum som emballasje med stort volum, bør grenseverdien for samlet migrasjon fra materialer som er i kontakt med næringsmidler, som spesifikt brukes til emballasje for næringsmidler for spedbarn og småbarn, knyttes til grenseverdien i næringsmiddelet og ikke til emballasjens overflate.
 27. I de senere årene er det utviklet plastmaterialer beregnet på å komme i kontakt med næringsmidler, som ikke bare består av én type plast, men kombinerer opptil 15 forskjellige plastlag for å oppnå optimal funksjonalitet og beskyttelse av næringsmiddelet, samtidig som mengden emballasjeavfall reduseres. I et slike flerlags plastmaterialer eller plastgjenstander kan lagene skilles fra næringsmiddelet ved hjelp av en funksjonell barriere. Denne barrieren er et lag inne i materialer eller gjenstander beregnet på å komme i kontakt med næringsmidler, som hindrer at stoffet migrerer gjennom barrieren over i næringsmiddelet. Ikke godkjente stoffer kan brukes utenfor barrieren forutsatt at de oppfyller visse kriterier og graden av migrasjon ikke overskrider en gitt påvisningsgrense. Ettersom det kan dreie seg om næringsmidler beregnet på spedbarn og andre særlig sårbare personer, og av hensyn til den høye analysetoleransen ved migrasjonsanalyse, bør det fastsettes en grenseverdi på 0,01 mg/kg for migrasjon i næringsmidler av ikke godkjente stoffer gjennom en funksjonell barriere. Stoffer som er arvestoffskadelige, kreftframkallende eller reproduksjonstoksiske, bør ikke brukes i materialer eller gjenstander som er i kontakt med næringsmidler uten tidligere godkjenning, og bør derfor ikke omfattes av begrepet funksjonell barriere. Ny teknologi som gjør det mulig å framstille stoffer med begrenset partikkelstørrelse som utviser kjemiske og fysiske egenskaper som skiller seg vesentlig fra egenskapene hos stoffer med større partikkelstørrelse, f.eks. nanopartikler, bør i hvert enkelt tilfelle vurderes med hensyn til risiko, inntil det foreligger flere opplysninger om slik ny teknologi. De skal derfor ikke omfattes av begrepet funksjonell barriere.
 28. I de senere årene er det utviklet materialer og gjenstander beregnet på å komme i kontakt med næringsmidler, som består av en kombinasjon av flere materialer for å oppnå optimal funksjonalitet og beskyttelse av næringsmiddelet, samtidig som mengden emballasjeavfall reduseres. I disse materialene og gjenstandene av flerlagsmultimateriale bør plastlagene oppfylle de samme kravene til sammensetning som plastlag som ikke kombineres med andre materialer. Dersom plastlag i et flerlagsmultimateriale er atskilt fra næringsmiddelet ved hjelp av en funksjonell barriere, bør begrepet funksjonell barriere få anvendelse. Siden andre materialer kombineres med plastlagene, og det for disse andre materialene ennå ikke er vedtatt særlige tiltak på unionsplan, er det ennå ikke mulig å fastsette krav til ferdige materialer og gjenstander av flerlagsmultimateriale. Derfor bør ikke spesifikke migrasjonsgrenser og den samlede migrasjonsgrensen få anvendelse på annet enn vinylkloridmonomer, som det allerede foreligger en slik restriksjon for. I fravær av et særlig tiltak på unionsplan som omfatter hele materialet eller gjenstanden av flerlagsmultimateriale, kan medlemsstatene opprettholde eller vedta nasjonale bestemmelser for disse materialene og gjenstandene, forutsatt at de er i samsvar med reglene i traktaten.
 29. Ved artikkel 16 nr. 1 i forordning [(EF) nr. 1935/2004](eu/32004r1935) er det fastsatt at materialer og gjenstander som omfattes av særlige tiltak, skal ledsages av en skriftlig samsvarserklæring som bekrefter at de er i samsvar med de reglene som gjelder for dem. Med sikte på å styrke leverandørenes samordning og ansvar i hvert ledd av framstillingen, herunder for utgangsstoffene, skal de ansvarlige personene dokumentere at de relevante reglene overholdes, i en samsvarserklæring som gjøres tilgjengelig for vedkommendes kunder.
 30. Belegg, trykkfarger og klebemidler er ennå ikke omfattet av noe bestemt EU-regelverk, og er derfor ikke underlagt kravet om samsvarserklæring. For belegg, trykkfarger og klebemidler som skal brukes i plastmaterialer og plastgjenstander, bør det gis tilstrekkelige opplysninger til produsenten av den ferdige plastgjenstanden som gjør vedkommende i stand til å sikre overholdelse for stoffer som det er fastsatt migrasjonsgrenser for i denne forordning.
-31. Ved artikkel 17 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,7 kreves det at driftsansvarlige for næringsmiddelforetak kontrollerer at næringsmidlene er i samsvar med de reglene som gjelder for dem. For dette formål, og med forbehold for kravet til fortrolighet, bør driftsansvarlige for næringsmiddelforetak gis tilgang til relevante opplysninger som gjør dem i stand til å sikre at migrasjonen fra materialene og gjenstandene til næringsmidlene, er i samsvar med de spesifikasjonene og restriksjonene som er fastsatt i næringsmiddelregelverket.
+31. Ved artikkel 17 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,[^7] kreves det at driftsansvarlige for næringsmiddelforetak kontrollerer at næringsmidlene er i samsvar med de reglene som gjelder for dem. For dette formål, og med forbehold for kravet til fortrolighet, bør driftsansvarlige for næringsmiddelforetak gis tilgang til relevante opplysninger som gjør dem i stand til å sikre at migrasjonen fra materialene og gjenstandene til næringsmidlene, er i samsvar med de spesifikasjonene og restriksjonene som er fastsatt i næringsmiddelregelverket.
 32. Det skal i hvert ledd av framstillingen stilles underlagsdokumentasjon som underbygger samsvarserklæringen, til rådighet for kontrollmyndighetene. Slik dokumentasjon av samsvar skal bygge på migrasjonsprøving. Siden migrasjonsprøving er komplisert, dyr og tidkrevende, bør det tillates at samsvar også kan dokumenteres ved beregninger, herunder modellberegning, annen analyse og vitenskapelige bevis eller vitenskapelige argumenter, dersom disse gir minst like høye verdier som migrasjonsprøvingen. Prøvingsresultatene bør anses som gyldige så lenge utformingen og bearbeidingsforholdene holder seg konstante som ledd i et kvalitetssikringssystem.
 33. Ved prøving av gjenstander som ennå ikke har vært i kontakt med næringsmidler, er det for visse gjenstander, for eksempel folie eller lokk, ofte ikke mulig å bestemme hvor stort overflateareal som er i kontakt med et definert volum av et næringsmiddel. For disse gjenstandene bør det fastsettes særlige regler for samsvarskontroll.
 34. Fastsettelse av migrasjonsgrenser tar hensyn til en generell antakelse om at en person med 60 kg kroppsvekt inntar 1 kg næringsmiddel daglig, og at næringsmiddelet er pakket i firkantet emballasje med en 6 dm2 stor overflate som avgir stoffet. For svært liten og svært stor emballasje varierer forholdet mellom faktisk overflate og volum emballert næringsmiddel mye fra den generelle antakelsen. Derfor bør deres overflate normaliseres før prøvingsresultatene sammenlignes med migrasjonsgrensene. Disse reglene bør gjennomgås på nytt når det foreligger nye data om bruk av emballasje for næringsmidler.
 35. Den spesifikke migrasjonsgrensen er høyeste tillatte mengde av et stoff i et næringsmiddel. Denne grensen bør sikre at materialet som er i kontakt med næringsmiddelet, ikke utgjør noen helsefare. Produsenten bør sikre at materialer og gjenstander som ennå ikke har vært i kontakt med næringsmidler, overholder disse grensene når de kommer i kontakt med næringsmidler under de verst tenkelige kontaktforhold. Derfor bør det undersøkes om materialer og gjenstander som ennå ikke har vært i kontakt med næringsmidler, er i samsvar med bestemmelsene, og det bør fastsettes regler for prøving av dette.
 36. Næringsmidler utgjør en komplisert matrise, og derfor kan det være vanskelig å analysere migrerende stoffer i næringsmidler. Derfor bør det velges prøvingsmedier som simulerer overføring av stoffer fra plastmaterialet til næringsmiddelet. De bør representere næringsmiddelets viktigste fysisk-kjemiske egenskaper. Når det brukes næringsmiddelsimulanter, bør prøvingstid og -temperatur i størst mulig grad gjengi den migrasjonen som kan skje fra gjenstanden til næringsmiddelet.
 37. For å kunne bestemme en hensiktsmessig næringsmiddelsimulant for visse næringsmidler, bør det tas hensyn til den kjemiske sammensetningen og de fysiske egenskapene til næringsmiddelet. Det foreligger forskningsresultater for visse representative næringsmidler der migrasjon til næringsmidler sammenlignes med migrasjon til næringsmiddelsimulanter. På bakgrunn av disse resultatene bør det utpekes næringsmiddelsimulanter. Særlig når det gjelder næringsmidler som inneholder fett, kan de resultatene som oppnås med en næringsmiddelsimulant, i visse tilfeller i betydelig grad gi en overvurdering av migrasjonen til næringsmiddelet. I slike tilfeller bør det fastsettes at resultatet for næringsmiddelsimulanten korrigeres med en reduksjonsfaktor.
-38. Eksponeringen for stoffer som migrerer fra materialer som er i kontakt med næringsmidler, har vært basert på den generelle antakelsen om at en person daglig inntar 1 kg næringsmidler. En person inntar imidlertid høyst 200 g fett per dag. Det bør tas hensyn til dette for lipofile stoffer som bare migrerer til fett. Derfor bør det fastsettes at den spesifikke migrasjonen korrigeres med en korreksjonsfaktor som gjelder for lipofile stoffer, i samsvar med uttalelsen fra Vitenskapskomiteen for næringsmidler8 og uttalelsen fra myndigheten.9
+38. Eksponeringen for stoffer som migrerer fra materialer som er i kontakt med næringsmidler, har vært basert på den generelle antakelsen om at en person daglig inntar 1 kg næringsmidler. En person inntar imidlertid høyst 200 g fett per dag. Det bør tas hensyn til dette for lipofile stoffer som bare migrerer til fett. Derfor bør det fastsettes at den spesifikke migrasjonen korrigeres med en korreksjonsfaktor som gjelder for lipofile stoffer, i samsvar med uttalelsen fra Vitenskapskomiteen for næringsmidler[^8] og uttalelsen fra myndigheten.[^9]
 39. Det bør som ledd i offentlig kontroll fastsettes prøvingsstrategier som gjør det mulig for håndhevende myndigheter å foreta effektiv kontroll med best mulig utnyttelse av tilgjengelige ressurser. Det bør derfor være tillatt å benytte screeningmetoder for å kontrollere samsvar under visse forhold. Dersom et materiale eller en gjenstand ikke er i samsvar med bestemmelsene, bør dette bekreftes ved hjelp av en kontrollmetode.
 40. Grunnregler for migrasjonsprøving bør fastsettes i denne forordning. Siden migrasjonsprøving er svært komplisert, kan imidlertid ikke disse grunnreglene dekke alle tenkelige tilfeller og detaljer som er nødvendige for gjennomføring av prøvingen. Derfor bør det på unionsplan utarbeides et veiledningsdokument som omhandler mer detaljerte aspekter ved gjennomføringen av grunnreglene for migrasjonsprøving.
-41. De ajourførte reglene for næringsmiddelsimulanter og migrasjonsprøving fastsatt ved denne forordning, vil avløse reglene i direktiv [78/142/EØF](eu/31978l0142*) og vedlegget til rådsdirektiv [82/711/EØF](eu/31982l0711) av 18. oktober 1982 om fastsettelse av nødvendige grunnregler for undersøkelse av migrasjon fra bestanddeler fra plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler.10
+41. De ajourførte reglene for næringsmiddelsimulanter og migrasjonsprøving fastsatt ved denne forordning, vil avløse reglene i direktiv [78/142/EØF](eu/31978l0142*) og vedlegget til rådsdirektiv [82/711/EØF](eu/31982l0711) av 18. oktober 1982 om fastsettelse av nødvendige grunnregler for undersøkelse av migrasjon fra bestanddeler fra plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler.[^10]
 42. Stoffer som finnes i plasten, men som ikke er oppført i vedlegg I til denne forordning, er ikke nødvendigvis risikovurdert, siden de ikke har gjennomgått noen godkjenningsrutine. Disse stoffenes samsvar med artikkel 3 i forordning [(EF) nr. 1935/2004](eu/32004r1935) bør vurderes av den relevante ansvarlige for næringsmiddelforetak i samsvar med internasjonalt anerkjente vitenskapelige prinsipper, idet det tas hensyn til eksponering fra materialer som er i kontakt med næringsmidler, og andre kilder.
 43. Myndigheten har nylig gitt en positiv vitenskapelig vurdering av ytterligere monomerer, andre utgangsstoffer og tilsetningsstoffer, og disse bør nå oppføres på unionslisten.
 44. Siden nye stoffer føres opp på unionslisten, bør forordningen få anvendelse så snart som mulig for at produsentene skal kunne tilpasse seg til den tekniske utviklingen, og for å gjøre det mulig med nyskaping.
 45. Visse regler for migrasjonsprøving bør ajourføres i lys av ny vitenskapelig kunnskap. Håndhevende myndigheter og industrien må tilpasse sine nåværende prøvingsordninger til disse ajourførte reglene. For å muliggjøre denne tilpassingen synes det hensiktsmessig å fastsette at de ajourførte reglene skal få anvendelse først to år etter at forordningen er vedtatt.
 46. Driftsansvarlige for foretak baserer nå sin samsvarserklæring på underlagsdokumentasjon i henhold til kravene fastsatt i direktiv [2002/72/EF](eu/32002l0072*). En samsvarserklæring trenger i prinsippet bare å bli ajourført når vesentlige endringer i produksjonen forårsaker endringer i migrasjonen, eller når det foreligger nye vitenskapelige data. For å begrense byrden på de driftsansvarlige, bør materialer som er lovlig brakt i omsetning på grunnlag av de kravene som er fastsatt i direktiv [2002/72/EF](eu/32002l0072*), kunne bringes i omsetning med en samsvarserklæring som bygger på underlagsdokumentasjon i samsvar med direktiv [2002/72/EF](eu/32002l0072*), inntil fem år etter at forordningen er vedtatt.
-47. Analysemetoder for prøving av migrasjon og restinnhold av vinylkloridmonomer som beskrevet i kommisjonsdirektiv [80/766/EØF](eu/31980l0766) av 8. juli 1980 om fastsettelse av en analysemetode i Fellesskapet for offentlig kontroll av nivåer av vinylkloridmonomer i materialer og gjenstander beregnet på å komme i kontakt med næringsmidler11 og [81/432/EØF](eu/31981l0432) av 29. april 1981 om fastsettelse av en analysemetode i Fellesskapet for offentlig kontroll av vinylklorid som avgis av materialer og gjenstander til næringsmidler,12 er utdatert. Analysemetodene bør overholde kriteriene fastsatt i artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*)13 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes. Direktiv [80/766/EØF](eu/31980l0766) og [81/432/EØF](eu/31981l0432) bør derfor oppheves.
+47. Analysemetoder for prøving av migrasjon og restinnhold av vinylkloridmonomer som beskrevet i kommisjonsdirektiv [80/766/EØF](eu/31980l0766) av 8. juli 1980 om fastsettelse av en analysemetode i Fellesskapet for offentlig kontroll av nivåer av vinylkloridmonomer i materialer og gjenstander beregnet på å komme i kontakt med næringsmidler[^11] og [81/432/EØF](eu/31981l0432) av 29. april 1981 om fastsettelse av en analysemetode i Fellesskapet for offentlig kontroll av vinylklorid som avgis av materialer og gjenstander til næringsmidler,[^12] er utdatert. Analysemetodene bør overholde kriteriene fastsatt i artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*)[^13] om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes. Direktiv [80/766/EØF](eu/31980l0766) og [81/432/EØF](eu/31981l0432) bør derfor oppheves.
 48. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 338 av 13.11.2004, s. 4.
@@ -1966,7 +1966,7 @@ Plastmaterialer og plastgjenstander kan bare bringes i omsetning dersom de:
 1. oppfyller de relevante kravene fastsatt i artikkel 3 i forordning [(EF) nr. 1935/2004](eu/32004r1935), ved beregnet og forutsigbar bruk, og
 2. oppfyller kravene til merking fastsatt i artikkel 15 i forordning [(EF) nr. 1935/2004](eu/32004r1935), og
 3. oppfyller kravene til sporbarhet fastsatt i artikkel 17 i forordning [(EF) nr. 1935/2004](eu/32004r1935), og
-4. framstilles i samsvar med god framstillingspraksis som fastsatt i kommisjonsforordning [(EF) nr. 2023/2006](eu/32006r2023),1 og
+4. framstilles i samsvar med god framstillingspraksis som fastsatt i kommisjonsforordning [(EF) nr. 2023/2006](eu/32006r2023),[^1] og
 5. oppfyller kravene til sammensetning og erklæringer fastsatt i [kapittel II](forskrift/1993-12-21-1381/kapii), III og IV i denne forordning.
 
    ►**M19**
@@ -2120,7 +2120,7 @@ Samlet migrasjonsgrense
 
 1\. Plastmaterialer og plastgjenstander skal ikke avgi bestanddeler til næringsmiddelsimulanter i mengder som overstiger 10 milligram av samlet avgitte bestanddeler per dm2 overflate som er i kontakt med næringsmiddelet (mg/dm2 ).
 
-2\. Som unntak fra nr. 1 skal plastmaterialer og plastgjenstander som er beregnet på å komme i kontakt med næringsmidler beregnet på spedbarn og småbarn, som definert i kommisjonsdirektiv [2006/141/EF](eu/32006l0141)1 og [2006/125/EF](eu/32006l0125),2 ikke avgi bestanddeler til næringsmiddelsimulanter i mengder som overstiger 60 milligram av samlet avgitte bestanddeler per kg næringsmiddelsimulant.
+2\. Som unntak fra nr. 1 skal plastmaterialer og plastgjenstander som er beregnet på å komme i kontakt med næringsmidler beregnet på spedbarn og småbarn, som definert i kommisjonsdirektiv [2006/141/EF](eu/32006l0141)[^1] og [2006/125/EF](eu/32006l0125),[^2] ikke avgi bestanddeler til næringsmiddelsimulanter i mengder som overstiger 60 milligram av samlet avgitte bestanddeler per kg næringsmiddelsimulant.
 
 1 EUT L 401 av 30.12.2006, s. 1.
 
@@ -2146,7 +2146,7 @@ SÆRLIGE BESTEMMELSER FOR VISSE MATERIALER OG GJENSTANDER
 
 4\. Stoffene som ikke er oppført på unionslisten ►**M19** ◄**M19** nevnt i nr. 2 bokstav b), skal ikke tilhøre noen av disse kategoriene:
 
-1. stoffer klassifisert som «arvestoffskadelige», «kreftframkallende» eller «reproduksjonstoksiske» i samsvar med kriteriene fastsatt i nr. 3.5, 3.6 og 3.7 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*),1
+1. stoffer klassifisert som «arvestoffskadelige», «kreftframkallende» eller «reproduksjonstoksiske» i samsvar med kriteriene fastsatt i nr. 3.5, 3.6 og 3.7 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*),[^1]
 2. stoffer i nanoform.
 
 5\. Ferdige flerlags plastmaterialer og plastgjenstander skal være i samsvar med de særlige migrasjonsgrensene fastsatt i artikkel 11, og den samlede migrasjonsgrensen fastsatt i artikkel 12 i denne forordning.
@@ -2283,7 +2283,7 @@ SLUTTBESTEMMELSER
 
 ### Artikkel 20. Endringer av unionsrettsakter
 
-Vedlegget til rådsdirektiv [85/572/EØF](eu/31985l0572)1 skal lyde:
+Vedlegget til rådsdirektiv [85/572/EØF](eu/31985l0572)[^1] skal lyde:
 
 «Næringsmiddelsimulanter som skal brukes til prøving av migrasjon fra bestanddeler av plastmaterialer og plastgjenstander beregnet på å komme i kontakt med et enkelt næringsmiddel eller en spesifikk gruppe næringsmidler, er fastsatt i nr. 3 i vedlegg III til kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010).»
 
@@ -2543,7 +2543,7 @@ IP: Ikke påviselig. Påvisningsgrense fastsatt i samsvar med artikkel 11 nr. 4 
 
    1. summen av alle lantanoider som migrerer til næringsmiddelet eller næringsmiddelsimulanten, ikke overstiger den spesifikke migrasjonsgrensen på 0,05 mg/kg, og
    2. dokumentasjonen omhandlet i artikkel 16 omfatter analytiske bevis som bygger på en godt beskrevet metode, og som viser at lantanoidet eller lantanoidene som er brukt, forekommer i næringsmiddelet eller næringsmiddelsimulanten i dissosiert ionisk form.
-5. Primære aromatiske aminer («PAA-er») som er oppført i post 43 i tillegg 8 til vedlegg XVII til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907)\*, og som det ikke er angitt noen migrasjonsgrense for i tabell 1 i vedlegg I, skal ikke migrere eller på annen måte avgis fra plastmaterialer og plastgjenstander til næringsmidler eller næringsmiddelsimulanter. De skal ikke kunne påvises ved hjelp av analyseutstyr med en påvisningsgrense på 0,002 mg/kg næringsmiddel eller næringsmiddelsimulant anvendt på hvert enkelt primære aromatiske amin («PAA»), i samsvar med artikkel 11 nr. 4.
+5. Primære aromatiske aminer («PAA-er») som er oppført i post 43 i tillegg 8 til vedlegg XVII til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907)[^\*], og som det ikke er angitt noen migrasjonsgrense for i tabell 1 i vedlegg I, skal ikke migrere eller på annen måte avgis fra plastmaterialer og plastgjenstander til næringsmidler eller næringsmiddelsimulanter. De skal ikke kunne påvises ved hjelp av analyseutstyr med en påvisningsgrense på 0,002 mg/kg næringsmiddel eller næringsmiddelsimulant anvendt på hvert enkelt primære aromatiske amin («PAA»), i samsvar med artikkel 11 nr. 4.
 
    For PAA-er som ikke er oppført i post 43 i tillegg 8 til vedlegg XVII til forordning [(EF) nr. 1907/2006](eu/32006r1907), men som det ikke er angitt noen spesifikk migrasjonsgrense for i vedlegg I, skal samsvar med [artikkel 3 i forordning (EF) nr. 1935/2004](eu/32004r1935/a3) kontrolleres i samsvar med artikkel 19. Summen av disse PAA-ene skal imidlertid ikke overstige 0,01 mg/kg i et næringsmiddel eller en næringsmiddelsimulant.
 
@@ -2605,9 +2605,9 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 
    For næringsmiddelkategori 01.04 skal næringsmiddelsimulant D2 erstattes med 95 % etanol.
 
-   For næringsmiddelkategorier der krysset i underkolonne B er etterfulgt av \*, kan prøvingen i næringsmiddelsimulant B utelates dersom næringsmiddelet har en pH over 4,5.
+   For næringsmiddelkategorier der krysset i underkolonne B er etterfulgt av [^\*], kan prøvingen i næringsmiddelsimulant B utelates dersom næringsmiddelet har en pH over 4,5.
 
-   For næringsmiddelkategorier der krysset i underkolonne D2 er etterfulgt av \*\*, kan prøvingen i næringsmiddelsimulant D2 utelates dersom det kan påvises at fett ikke har vært i kontakt med plastmaterialet.
+   For næringsmiddelkategorier der krysset i underkolonne D2 er etterfulgt av [^\*\*], kan prøvingen i næringsmiddelsimulant D2 utelates dersom det kan påvises at fett ikke har vært i kontakt med plastmaterialet.
 
 ◄**M6**
 
@@ -2620,11 +2620,11 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 |  |  | *A* | *B* | *C* | *D1* | *D2* | *E* |
 | 01 | *Drikker* |  |  |  |  |  |  |
 | 01.01 | Alkoholfrie drikker eller alkoholholdige drikker med en alkoholstyrke på høyst 6 volumprosent.: |  |  |  |  |  |  |
-|  | A. Klare drikker: Vann, eplesider, klar frukt- eller grønnsakjuice av normal styrke eller konsentrert, fruktnektar, limonade, fruktsaft, bitter drikk, urtete, kaffe, te, øl, alkoholfrie leskedrikker, energidrikker og lignende, smakssatt vann, flytende kaffeekstrakt |  | X\* | X |  |  |  |
-|  | B. Uklare drikker: juice og nektar og alkoholfrie leskedrikker med fruktmasse, most med fruktmasse, flytende sjokolade |  | X\* |  | X |  |  |
+|  | A. Klare drikker: Vann, eplesider, klar frukt- eller grønnsakjuice av normal styrke eller konsentrert, fruktnektar, limonade, fruktsaft, bitter drikk, urtete, kaffe, te, øl, alkoholfrie leskedrikker, energidrikker og lignende, smakssatt vann, flytende kaffeekstrakt |  | X[^\*] | X |  |  |  |
+|  | B. Uklare drikker: juice og nektar og alkoholfrie leskedrikker med fruktmasse, most med fruktmasse, flytende sjokolade |  | X[^\*] |  | X |  |  |
 | 01.02 | Alkoholholdige drikker med en alkoholstyrke mellom 6 og 20 volumprosent. |  |  | X |  |  |  |
 | 01.03 | Alkoholholdige drikker med en alkoholstyrke over 20 volumprosent, samt alle fløtelikører |  |  |  | X |  |  |
-| 01.04 | Forskjellig: udenaturatert etanol |  | X\* |  |  | Erstatning: 95 % etanol |  |
+| 01.04 | Forskjellig: udenaturatert etanol |  | X[^\*] |  |  | Erstatning: 95 % etanol |  |
 | 02 | *Korn, kornprodukter, fint bakverk, baker- og konditorvarer* |  |  |  |  |  |  |
 | 02.01 | Stivelse |  |  |  |  |  | X |
 | 02.02 | Ubearbeidet korn, puffet korn, kornflak (herunder popkorn, corn flakes og annet) |  |  |  |  |  | X |
@@ -2651,10 +2651,10 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 | 04 | *Frukt, grønnsaker og avledede produkter* |  |  |  |  |  |  |
 | ►**M6**<br>04.01 | Frukt, fersk eller kjølt: |  |  |  |  |  |  |
 |  | A. Verken skrelt eller snittet |  |  |  |  | X/10 |  |
-|  | B. Skrelt og/eller snittet | X | X\* |  |  |  | ◄**M6** |
+|  | B. Skrelt og/eller snittet | X | X[^\*] |  |  |  | ◄**M6** |
 | 04.02 | Bearbeidet frukt: |  |  |  |  |  |  |
 |  | A. Tørkede eller dehydrerte frukter, hele eller i skiver, som mel eller pulver |  |  |  |  |  | X |
-|  | B. Frukt i form av puré, hermetisert, mos eller i egen saft eller sukkersirup (syltetøy, kompott og lignende produkter) |  | X\* | X |  |  |  |
+|  | B. Frukt i form av puré, hermetisert, mos eller i egen saft eller sukkersirup (syltetøy, kompott og lignende produkter) |  | X[^\*] | X |  |  |  |
 |  | C. Frukt hermetisert i væske: |  |  |  |  |  |  |
 |  | I. I oljeholdig løsning |  |  |  |  | X |  |
 |  | II. I alkoholholdig løsning |  |  |  | X |  |  |
@@ -2664,11 +2664,11 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 |  | C. I pasta- eller kremform | X |  |  |  | X |  |
 | ►**M6**<br>04.04 | Grønnsaker, ferske eller kjølte: |  |  |  |  |  |  |
 |  | A. Verken skrelt eller snittet |  |  |  |  | X/10 |  |
-|  | B. Skrelt og/eller snittet | X | X\* |  |  |  | ◄**M6** |
+|  | B. Skrelt og/eller snittet | X | X[^\*] |  |  |  | ◄**M6** |
 | ►**M6**<br>04.05 | Bearbeidede grønnsaker: |  |  |  |  |  |  |
 |  | A. Tørkede eller dehydrerte grønnsaker, hele, i skiver eller som mel eller pulver |  |  |  |  | X |  |
 |  | B. (*foreldet*) |  |  |  |  |  |  |
-|  | C. Grønnsaker i form av puré, konserve, mos eller i egen saft (herunder nedlagt i eddik eller i saltlake) | X\* | X |  |  |  |  |
+|  | C. Grønnsaker i form av puré, konserve, mos eller i egen saft (herunder nedlagt i eddik eller i saltlake) | X[^\*] | X |  |  |  |  |
 |  | D. Grønnsakskonserve: |  |  |  |  |  |  |
 |  | I. I oljeholdig løsning X |  |  |  | X |  |  |
 |  | II. I alkoholholdig løsning |  |  | X |  |  | ◄**M6** |
@@ -2677,22 +2677,22 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 | 05.02 | Margarin, smør og andre fettstoffer laget av vannemulsjoner i olje |  |  |  |  | X/2 |  |
 | 06 | *Animalske produkter og egg* |  |  |  |  |  |  |
 | 06.01 | Fisk: |  |  |  |  |  |  |
-|  | A. Fersk, kjølt, foredlet, salt eller røkt, herunder rogn | X |  |  |  | X/3\*\* |  |
+|  | A. Fersk, kjølt, foredlet, salt eller røkt, herunder rogn | X |  |  |  | X/3[^\*\*] |  |
 |  | B. Konserver av fisk: |  |  |  |  |  |  |
 |  | I. I oljeholdig løsning | X |  |  |  | X |  |
-|  | II. I vandig løsning |  | X\* | X |  |  |  |
+|  | II. I vandig løsning |  | X[^\*] | X |  |  |  |
 | 06.02 | Krepsdyr og bløtdyr (herunder østers, blåskjell og snegler) |  |  |  |  |  |  |
 |  | A. Ferske med skall |  |  |  |  |  |  |
 |  | B. Uten skall, foredlet, konservert eller kokt, stekt eller på annen måte varmebehandlet med skall |  |  |  |  |  |  |
 |  | I. I oljeholdig løsning | X |  |  |  | X |  |
-|  | II. I vandig løsning |  | X\* | X |  |  |  |
+|  | II. I vandig løsning |  | X[^\*] | X |  |  |  |
 | 06.03 | Kjøtt av alle dyrearter (herunder fjørfe og vilt): |  |  |  |  |  |  |
-|  | A. Ferskt, kjølt, saltet, røkt | X |  |  |  | X/4\*\* |  |
-|  | B. Foredlede kjøttprodukter (for eksempel skinke, salami, bacon, pølser og annet) eller i form av pasta, krem | X |  |  |  | X/4\*\* |  |
+|  | A. Ferskt, kjølt, saltet, røkt | X |  |  |  | X/4[^\*\*] |  |
+|  | B. Foredlede kjøttprodukter (for eksempel skinke, salami, bacon, pølser og annet) eller i form av pasta, krem | X |  |  |  | X/4[^\*\*] |  |
 |  | C. Marinerte kjøttprodukter i oljeholdig løsning | X |  |  |  | X |  |
 | 06.04 | Konserver av kjøtt: |  |  |  |  |  |  |
 |  | A. I fettholdig eller oljeholdig løsning | X |  |  |  | X/3 |  |
-|  | B. I vandig løsning |  | X\* |  | X |  |  |
+|  | B. I vandig løsning |  | X[^\*] |  | X |  |  |
 | 06.05 | Hele egg, eggeplomme, eggehvite |  |  |  |  |  |  |
 |  | A. Som pulver, tørket eller fryst |  |  |  |  |  | X |
 |  | B. Flytende og kokt |  |  |  | X |  |  |
@@ -2700,16 +2700,16 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 | 07.01 | Melk |  |  |  |  |  |  |
 |  | A. Helmelk, kondensert tørrmelk, delvis skummet melk eller skummetmelk, samt melkebaserte drikker |  |  |  | X |  |  |
 |  | B. Melkepulver, herunder morsmelkerstatning (basert på helmelkpulver) |  |  |  |  |  | X |
-| 07.02 | Surmelk, slik som yoghurt, kjernemelk og lignende produkter |  | X\* |  | X |  |  |
-| 07.03 | Fløte og rømme |  | X\* |  | X |  |  |
+| 07.02 | Surmelk, slik som yoghurt, kjernemelk og lignende produkter |  | X[^\*] |  | X |  |  |
+| 07.03 | Fløte og rømme |  | X[^\*] |  | X |  |  |
 | **►M19**<br>07.04 | Ost: |  |  |  |  |  |  |
 |  | A. Hel ost med ikke-spiselig skorpe |  |  |  |  |  | X |
-|  | B. Umodnet myk ost (fersk ost), f.eks. cottage cheese, kvarg, ricotta, kremost, fromage frais og lignende oster |  | X\* |  | X |  |  |
+|  | B. Umodnet myk ost (fersk ost), f.eks. cottage cheese, kvarg, ricotta, kremost, fromage frais og lignende oster |  | X[^\*] |  | X |  |  |
 |  | C. Myk, fast eller hard modnet ost, skivet eller hel, med spiselig skorpe, f.eks. gouda, cheddar, gruyère, parmesan, stilton, tallegio, beaufort, tomino, brie, camembert og lignende oster |  |  |  |  | X/3 |  |
 |  | D. Bearbeidet ost, f.eks. trekanter, smørbare produkter og skiver |  |  |  |  | X/3 |  |
 |  | E. Ost i saltlake eller fersk ost i væske, f.eks. feta og mozzarella |  |  |  |  |  |  |
 |  | I. I oljeholdig løsning |  |  |  |  | X |  |
-|  | II. I vandig løsning |  | X\* |  | X |  | ◄**M19** |
+|  | II. I vandig løsning |  | X[^\*] |  | X |  | ◄**M19** |
 | 08 | *Forskjellige produkter* |  |  |  |  |  |  |
 | 08.01 | Eddik |  | X |  |  |  |  |
 | 08.02 | Frityrmat eller grillmat: |  |  |  |  |  |  |
@@ -2720,12 +2720,12 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 |  | I. Med fet karakter |  |  |  |  | X//5 |  |
 |  | II. Annet |  |  |  |  |  | X |
 |  | B. I all annen form enn som pulver eller tørket |  |  |  |  |  |  |
-|  | I. Med fet karakter | X | X\* |  |  | X/3 |  |
-|  | II. Annet |  | X\* | X |  |  |  |
+|  | I. Med fet karakter | X | X[^\*] |  |  | X/3 |  |
+|  | II. Annet |  | X[^\*] | X |  |  |  |
 | 08.04 | Sauser: |  |  |  |  |  |  |
-|  | A. Med vandig karakter |  | X\* | X |  |  |  |
-|  | B. Med fet karakter, f.eks. majones, sauser laget av majones, salatdressing og andre emulsjoner av typen olje i vann, f.eks. sauser basert på kokosmelk | X | X\* |  |  | X |  |
-| 08.05 | Sennep (unntatt tørr sennep under posisjon 08.14) | X | X\* |  |  | X//3\*\* |  |
+|  | A. Med vandig karakter |  | X[^\*] | X |  |  |  |
+|  | B. Med fet karakter, f.eks. majones, sauser laget av majones, salatdressing og andre emulsjoner av typen olje i vann, f.eks. sauser basert på kokosmelk | X | X[^\*] |  |  | X |  |
+| 08.05 | Sennep (unntatt tørr sennep under posisjon 08.14) | X | X[^\*] |  |  | X//3[^\*\*] |  |
 | 08.06 | Smørbrød, sandwich, ristet brød, pizza og lignende inneholdende næringsmidler av enhver art |  |  |  |  |  |  |
 |  | A. Med fettstoffer på overflaten | X |  |  |  | X//5 |  |
 |  | B. Annet |  |  |  |  |  | X |
@@ -2734,7 +2734,7 @@ Dette kan være en hvilken som helst vegetabilsk olje med følgende fettsyreford
 |  | A. Med fettstoffer på overflaten |  |  |  |  | X/5 |  |
 |  | B. Annet |  |  |  |  |  | X |
 | 08.09 | Fryste eller dypfryste næringsmidler |  |  |  |  |  | X |
-| 08.10 | Konsentrerte ekstrakter med en alkoholstyrke på minst 6 volumprosent |  | X\* |  | X |  |  |
+| 08.10 | Konsentrerte ekstrakter med en alkoholstyrke på minst 6 volumprosent |  | X[^\*] |  | X |  |  |
 | 08.11 | Kakao: |  |  |  |  |  |  |
 |  | A. Kakaopulver, herunder med redusert fettinnhold og sterkt redusert fettinnhold |  |  |  |  |  | X |
 |  | B. Kakaomasse |  |  |  |  | X/3 |  |
@@ -2935,12 +2935,12 @@ Tabell 2
 | 20 °C < T < 40 °C | 40 °C |
 | 40 °C < T < 70 °C | 70 °C |
 | 70 °C < T ≤ 100 °C | 100 °C eller reflukstemperatur |
-| 100 °C < T ≤ 121 °C | 121 °C\* |
-| 121 °C < T ≤ 130 °C | 130 °C\* |
-| 130 °C < T < 150 °C | 150 °C\* |
-| 150 °C < T < 175 °C | 175 °C\* |
-| 175 °C < T ≤ 200 °C | 200 °C\* |
-| T > 200 °C | 225 °C\* |
+| 100 °C < T ≤ 121 °C | 121 °C[^\*] |
+| 121 °C < T ≤ 130 °C | 130 °C[^\*] |
+| 130 °C < T < 150 °C | 150 °C[^\*] |
+| 150 °C < T < 175 °C | 175 °C[^\*] |
+| 175 °C < T ≤ 200 °C | 200 °C[^\*] |
+| T > 200 °C | 225 °C[^\*] |
 
 \* Denne temperaturen skal bare brukes til næringsmiddelsimulant D2 og E. Til bruk ved oppvarming under trykk kan migrasjonsprøving gjennomføres under trykk ved relevant temperatur. For næringsmiddelsimulant A, B, C eller D1 kan prøvingen erstattes med en prøving ved 100 C eller ved reflukstemperatur med en varighet på fire ganger den varigheten som er valgt i samsvar med vilkårene i tabell 1.
 
@@ -2950,7 +2950,7 @@ Tabell 2
 
 2.1.4.*Særlige vilkår for kontaktvarighet over 30 dager ved romtemperatur og lavere*
 
-For kontaktvarighet over 30 dager (langtidslagring) ved romtemperatur og lavere skal prøven analyseres under akselerert prøving ved høyere temperatur i høyst 10 dager ved 60 °C.\*
+For kontaktvarighet over 30 dager (langtidslagring) ved romtemperatur og lavere skal prøven analyseres under akselerert prøving ved høyere temperatur i høyst 10 dager ved 60 °C.[^\*]
 
 1. Prøving i 10 dager ved 20 °C skal dekke all lagringsvarighet ved frysing. Denne prøvingen kan omfatte frysing og opptining dersom merkingen eller andre instrukser sikrer at temperaturen ikke overstiger 20 °C og total tid over -15 °C ikke overstiger én dag totalt under forventet og forutsatt bruk av materialet eller gjenstanden.
 2. Prøving i 10 dager ved 40 °C skal dekke all lagringsvarighet ved kjøling/frysing, herunder varmfylling og/eller oppvarming til 70 °C ≤ T ≤ 100 °C i høyst t = 120/2 ^((T-70)/10) minutter.
@@ -3229,19 +3229,19 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109)1, særlig artikkel 5 nr. 1 bokstav a), d), e) h), i), j) og n), og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109)[^1], særlig artikkel 5 nr. 1 bokstav a), d), e) h), i), j) og n), og
 
 ut fra følgende betraktninger:
 
 1. Stoffet 4,4’-isopropylidendifenol (CAS-nummer 80-05-7) (FCM 151), vanligvis kjent som bisfenol A («BPA»), brukes i framstillingen av visse materialer og gjenstander som kommer i kontakt med næringsmidler. Stoffet brukes først og fremst som monomer eller utgangsstoff ved framstillingen av epoksyharpikser som danner grunnlaget for lakk og belegg, inkludert de som påføres de innvendige og utvendige overflatene av næringsmiddelemballasje av metall, som hermetikkbokser og lokk til glass, samt store tanker og kar som brukes i næringsmiddelproduksjon. Det brukes også i framstillingen av visse typer plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler, inkludert de som er laget av polykarbonat og polysulfon. På grunn av sine ulike kjemiske egenskaper kan BPA også brukes i trykkfarger, klebemidler og andre materialer som inngår i ferdige gjenstander som kommer i kontakt med næringsmidler. BPA kan migrere til næringsmidler fra materialet eller gjenstanden som næringsmidlene er i kontakt med, slik at forbrukerne av disse næringsmidlene blir eksponert for BPA.
-2. Bruk av BPA som monomer ved framstilling av plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler, er godkjent ved kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010)2. Denne bruken, samt dens forekomst i lakk og belegg som kommer i kontakt med næringsmidler, er underlagt en spesifikk migrasjonsgrense (SML) på 0,05 mg BPA per kg næringsmiddel (mg/kg), fastsatt i kommisjonsforordning [(EU) 2018/213](eu/32018r0213)3, på grunnlag av en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») publisert i 20154. Ved sistnevnte forordning ble det også innført et forbud mot bruk av BPA i drikkekopper og flasker spedbarn og småbarn og migrasjon fra lakk eller belegg som påføres materialer og gjenstander som er spesielt beregnet på å komme i kontakt med morsmelkerstatninger, tilskuddsblandinger, bearbeidede kornbaserte næringsmidler og barnemat, næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle de ernæringsmessige behovene hos spedbarn og småbarn, eller melkebaserte drikker og lignende produkter spesielt beregnet på spedbarn og småbarn. Dette forbudet ble innført i tillegg til forbudet fastsatt i Kommisjonens gjennomføringsforordning [(EU) nr. 321/2011](eu/32011r0321)5 mot å bruke det ved framstilling av tåteflasker og beger av polykarbonat for småbarn.
-3. Etter et mandat fra Kommisjonen i 2016 om å foreta en revurdering av BPA for å ta hensyn til resultatene av nye studier og vitenskapelige data for å håndtere gjenværende uklarheter, inkludert resultatene fra en toårig kronisk studie fra De forente staters National Toxicology Program, offentliggjorde myndigheten i 2023 en oppdatert uttalelse om BPA6. I denne uttalelsen fastslo myndigheten at BPA har en rekke skadevirkninger, blant annet på immunsystemet, som den anså som mest utsatt for virkningene av BPA. På grunnlag av dette fastsatte myndigheten et tolerabelt daglig inntak (TDI) på 0,2 nanogram per kilogram (ng/kg) kroppsvekt, som er 20 000 ganger lavere enn det midlertidige TDI på 4 mikrogram per kilogram (μg/kg) (eller 4 000 ng/kg) kroppsvekt som den fastsatte i sin uttalelse fra 2015. Myndigheten fastslo at et doseintervall tilsvarende det som førte til virkninger på immunsystemet, også forårsaket skadevirkninger på stoffskiftet og skadevirkninger på reproduksjons- og utviklingssystemene. En sammenligning av TDI på 0,2 ng/kg kroppsvekt med anslagene over eksponering gjennom kosten i myndighetens uttalelse fra 2015 viser at eksponeringen for alle aldersgrupper overskrider TDI to til tre ganger. Myndigheten konkluderte derfor med at eksponering for BPA gjennom kosten utgjør et helseproblem for alle befolkningsgrupper.
+2. Bruk av BPA som monomer ved framstilling av plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler, er godkjent ved kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010)[^2]. Denne bruken, samt dens forekomst i lakk og belegg som kommer i kontakt med næringsmidler, er underlagt en spesifikk migrasjonsgrense (SML) på 0,05 mg BPA per kg næringsmiddel (mg/kg), fastsatt i kommisjonsforordning [(EU) 2018/213](eu/32018r0213)[^3], på grunnlag av en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») publisert i 2015[^4]. Ved sistnevnte forordning ble det også innført et forbud mot bruk av BPA i drikkekopper og flasker spedbarn og småbarn og migrasjon fra lakk eller belegg som påføres materialer og gjenstander som er spesielt beregnet på å komme i kontakt med morsmelkerstatninger, tilskuddsblandinger, bearbeidede kornbaserte næringsmidler og barnemat, næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle de ernæringsmessige behovene hos spedbarn og småbarn, eller melkebaserte drikker og lignende produkter spesielt beregnet på spedbarn og småbarn. Dette forbudet ble innført i tillegg til forbudet fastsatt i Kommisjonens gjennomføringsforordning [(EU) nr. 321/2011](eu/32011r0321)[^5] mot å bruke det ved framstilling av tåteflasker og beger av polykarbonat for småbarn.
+3. Etter et mandat fra Kommisjonen i 2016 om å foreta en revurdering av BPA for å ta hensyn til resultatene av nye studier og vitenskapelige data for å håndtere gjenværende uklarheter, inkludert resultatene fra en toårig kronisk studie fra De forente staters National Toxicology Program, offentliggjorde myndigheten i 2023 en oppdatert uttalelse om BPA[^6]. I denne uttalelsen fastslo myndigheten at BPA har en rekke skadevirkninger, blant annet på immunsystemet, som den anså som mest utsatt for virkningene av BPA. På grunnlag av dette fastsatte myndigheten et tolerabelt daglig inntak (TDI) på 0,2 nanogram per kilogram (ng/kg) kroppsvekt, som er 20 000 ganger lavere enn det midlertidige TDI på 4 mikrogram per kilogram (μg/kg) (eller 4 000 ng/kg) kroppsvekt som den fastsatte i sin uttalelse fra 2015. Myndigheten fastslo at et doseintervall tilsvarende det som førte til virkninger på immunsystemet, også forårsaket skadevirkninger på stoffskiftet og skadevirkninger på reproduksjons- og utviklingssystemene. En sammenligning av TDI på 0,2 ng/kg kroppsvekt med anslagene over eksponering gjennom kosten i myndighetens uttalelse fra 2015 viser at eksponeringen for alle aldersgrupper overskrider TDI to til tre ganger. Myndigheten konkluderte derfor med at eksponering for BPA gjennom kosten utgjør et helseproblem for alle befolkningsgrupper.
 4. På grunnlag av myndighetens vitenskapelige uttalelse fra 2023 bør godkjenningen av BPA for bruk ved framstilling av plastmaterialer og plastgjenstander som kommer i kontakt med næringsmidler, samt dets bruk i andre materialer og gjenstander som kommer i kontakt med næringsmidler, oppdateres. I lys av TDI-verdien etablert av myndigheten i uttalelsen fra 2023 kan selv svært små mengder BPA som migrerer fra materialer og gjenstander som kommer i kontakt med næringsmidler, og som er flere ganger lavere enn dagens SML, føre til en eksponering over den nylig etablerte TDI-verdien. Dessuten finnes det ingen validerte analysemetoder som kan kvantifisere migrasjonen av BPA på en pålitelig og konsekvent måte ved nivået for en SML som ville være utledet av den nye TDI-verdien, selv om det kan bli behov for slike metoder for å verifisere at bestemmelsene overholdes eller som støtte for offentlig kontroll. For i størst mulig grad å minimere forekomsten av BPA og migrasjonen til næringsmidler og den påfølgende eksponeringen av forbrukerne gjennom kosten, bør derfor bruk av BPA, herunder salter av BPA, forbys ved framstillingen av de materialer og gjenstander som kommer i kontakt med næringsmidler og som stoffet kan være en del av, inkludert klebemidler, gummi, ionebytterharpikser, plast, trykkfarger, silikoner og lakk og belegg.
 5. Det er unntaksvis nødvendig å ta i betraktning BPAs avgjørende betydning ved framstillingen av visse materialer og gjenstander som kommer i kontakt med næringsmidler for bestemte anvendelser ved produksjonen av næringsmidler, og i hvilken grad det for tiden finnes egnede alternativer, samtidig som det tas hensyn til en eventuell eksponering ved slike anvendelser og om det foreligger en helserisiko som følge av dette.
 6. For det første brukes BPA som utgangsstoff ved framstillingen av plastpolysulfonharpikser. Disse polysulfonharpiksene brukes ved framstillingen av enten separasjonsmembraner for mikro- og ultrafiltrering, eller som et mikroporøst underlag for tynnfilmpolyamidmembraner for nanofiltrering eller omvendt osmose. Disse prosessene har avgjørende betydning for produksjonen av en lang rekke næringsmidler, inkludert næringsmidler basert på melkeprodukter, for å sikre at de er trygge å konsumere ved at patogener, inkludert virus og bakterier, samt visse forurensende stoffer som tungmetaller og pesticider filtreres bort. Imidlertid finnes det for øyeblikket ingen alternativer som er teknisk gjennomførbare i kommersiell målestokk og som kan gi den mekaniske motstandsevne og kjemiske stabilitet som er nødvendig for slike anvendelser. For å unngå potensielle helserisikoer som skyldes restmengder av BPA i den polysulfonbaserte membranen dersom BPA brukes i framstillingen av polysulfon, kan produsentene sørge for at en slik forekomst unngås eller reduseres til ubetydelige mengder i henhold til god framstillingspraksis (GMP). Dette kan oppnås både i framstillingen av polymerer og i de siste stadiene av framstillingen, ved å spyle og rengjøre membranen før den brukes første gang for å fjerne eventuelle gjenværende restmengder av BPA. Dette kan gjøres av brukeren av membranen, inkludert en driftsansvarlig for et næringsmiddelforetak. Dersom en spormengde av BPA er igjen i polysulfonmaterialet ville dessuten den faktiske migrasjonen være svært liten på grunn av den korte tiden som næringsmiddelet er i kontakt med membranen. Med tanke på dette og på gjentatt bruk av membranene over lang tid, anslås det at bruken av slike anvendelser ikke fører til eksponering for BPA som utgjør en risiko for forbrukerne. Disse faktorene tatt i betraktning, og i lys av den avgjørende betydningen disse spesifikke anvendelsene av polysulfon har når det gjelder å sikre forbrukerne trygghet ved inntak av en lang rekke næringsmidler, er det hensiktsmessig å tillate et unntak fra forbudet mot bruk av BPA og godkjenne bruken spesifikt ved framstilling av enheter av polysulfon for membranfiltrering, sammen med en begrensning som går ut på at BPA ikke skal migrere til næringsmidler.
 7. For det andre brukes BPA også ved framstillingen av flytende epoksybaserte lakker og belegg, som herdes på overflaten av store tanker og kar, samt rørledninger med stor kapasitet som forbinder disse beholderne. Disse gjenstandene brukes vanligvis ved bearbeiding, lagring og transport av næringsmidler, inkludert vin, øl, oljer, melkeprodukter og korn. Det er for tiden fortsatt problemer med rettidig utskifting av BPA-baserte epoksybaserte lakker og belegg for slike anvendelser, noe som sannsynligvis vil resultere i at slike store, faste tanker og kar fjernes og destrueres, noe som vil innebære uforholdsmessige kostnader. Forekomsten av restmengder av BPA kan imidlertid unngås eller reduseres til ubetydelige mengder ved god framstillingspraksis og bruk av spyling og rengjøring før første gangs bruk for å fjerne eventuelle restmengder av BPA. I tillegg resulterer påføring av slike lakker og belegg på store tanker og kar i et forhold mellom overflateareal og volum som er lavt når det gjelder mengden næringsmidler som er i kontakt med materialet, særlig hvis beholderne har en kapasitet på over 1 000 liter og faktisk migrasjon ikke forventes å føre til et eksponeringsnivå for BPA som ville utgjøre en risiko for forbrukerne. På bakgrunn av dette og på gjentatt bruk av slike beholdere over lang tid, er det hensiktsmessig å tillate et unntak fra forbudet mot bruk av BPA og godkjenne bruken spesifikt ved framstilling av flytende epoksybaserte lakker og belegg påført på overflaten av slike ferdige gjenstander med stor kapasitet som kommer i kontakt med næringsmidler, sammen med en begrensning som går ut på at BPA ikke skal migrere til næringsmidler.
 8. I stadiene før framstillingen av materialer og gjenstander som kommer i kontakt med næringsmidler, kan BPA også brukes som en forløper i den kjemiske syntesen av andre monomerer eller utgangsstoffer, som bisfenol-A-diglycidyleter («BADGE») (CAS-nr. 1675-54-3), og følgelig utgjøre en del av den kjemiske strukturen til slike stoffer, noe som resulterer i et annet bisfenol eller et annet bisfenolderivat. Selv om andre bisfenoler eller bisfenolderivater kjemisk skiller seg noe fra BPA, kan deres bruk som monomerer eller andre utgangsstoffer ved framstilling av materialer og gjenstander som kommer i kontakt med næringsmidler, resultere i forekomst av små mengder BPA i materialer og gjenstander som kommer i kontakt med næringsmidler. Dette gjelder særlig ved framstilling av flytende epoksyharpikser, som i form av lakker eller belegg påføres et substrat ved framstillingen av en ferdig gjenstand som kommer i kontakt med næringsmidler. Selv om unionsreglene for materialer og gjenstander som kommer i kontakt med næringsmidler i prinsippet ikke regulerer fasene før danningen av monomerer eller andre utgangsstoffer, bør det derfor sikres at bruk av andre bisfenoler eller bisfenolderivater som monomerer eller andre utgangsstoffer ikke fører til forekomst av fritt BPA i materialet eller gjenstandene som kommer i kontakt med næringsmidler som resultat av denne bruken, inkludert mellommaterialer beregnet på bruk i framstillingen av ferdige gjenstander som kommer i kontakt med næringsmidler.
-9. Forbudet mot BPA vil følgelig føre til at driftsansvarlige for foretak vil måtte identifisere stoffer – inkludert andre bisfenoler og bisfenolderivater – som utgjør et trygt alternativ til BPA ved framstilling av materialer og gjenstander som kommer i kontakt med næringsmidler for fortsatt å kunne dekke behovene i næringsmiddelkjeden i tilstrekkelig grad og sikre næringsmiddeltrygghet. Som en konsekvens av likheter i kjemisk struktur og aktivitet kan visse andre bisfenoler eller bisfenolderivater også utgjøre en risiko som ligner på BPA når de brukes i materialer og gjenstander som kommer i kontakt med næringsmidler, og migrerer til næringsmidler. Det er allerede bekreftet at noen bisfenoler har egenskaper som er farlige for menneskers helse på grunn av sin reproduksjonstoksisitet, og de er derfor blitt gjenstand for harmonisert klassifisering og i henhold til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272)7 klassifisert tilsvarende. Dette omfatter 4,4’-sulfonyldifenol (CAS-nummer 80-09-1) (FCM 154), allment kjent som bisfenol S («BPS»), som i dag er godkjent for bruk i plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler. Myndigheten utstedte i 2020 en teknisk rapport om BPS8, som ikke tok hensyn til det fullstendige toksikologiske datasettet som er tilgjengelig for BPS, men anbefalte derimot innsamling av data om bruken av BPS i plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler og om forekomsten i og migrasjon til næringsmidler i sammenheng med dets eventuelle bruk som et alternativ til BPA. Dette alene støtter behovet for å ajourføre vurderingen av hvordan BPS brukes i materialer og gjenstander som er i kontakt med næringsmidler, særlig i lys av den harmoniserte klassifiseringen som reproduksjonstoksisk i kategori 1B. Det vil sannsynligvis skje en ytterligere harmonisert klassifisering av bisfenoler og bisfenolderivater i framtiden, etter at noen av dem er identifisert som stoffer som gir grunn til svært alvorlig bekymring i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907)9 og etter innføringen av nye fareklasser for hormonforstyrrende stoffer ved delegert kommisjonsforordning [(EU) 2023/707](eu/32023r0707)10. Det er derfor hensiktsmessig å sikre at det ved framstillingen av materialer og gjenstander som kommer i kontakt med næringsmidler, ikke er tillatt å bruke bisfenoler eller bisfenolderivater med en bestemt harmonisert klassifisering, inkludert saltene av disse stoffene, uten at myndigheten har foretatt en ajourført vurdering som viser at bruken av dem ikke utgjør en fare for menneskers helse.
+9. Forbudet mot BPA vil følgelig føre til at driftsansvarlige for foretak vil måtte identifisere stoffer – inkludert andre bisfenoler og bisfenolderivater – som utgjør et trygt alternativ til BPA ved framstilling av materialer og gjenstander som kommer i kontakt med næringsmidler for fortsatt å kunne dekke behovene i næringsmiddelkjeden i tilstrekkelig grad og sikre næringsmiddeltrygghet. Som en konsekvens av likheter i kjemisk struktur og aktivitet kan visse andre bisfenoler eller bisfenolderivater også utgjøre en risiko som ligner på BPA når de brukes i materialer og gjenstander som kommer i kontakt med næringsmidler, og migrerer til næringsmidler. Det er allerede bekreftet at noen bisfenoler har egenskaper som er farlige for menneskers helse på grunn av sin reproduksjonstoksisitet, og de er derfor blitt gjenstand for harmonisert klassifisering og i henhold til europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272)[^7] klassifisert tilsvarende. Dette omfatter 4,4’-sulfonyldifenol (CAS-nummer 80-09-1) (FCM 154), allment kjent som bisfenol S («BPS»), som i dag er godkjent for bruk i plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler. Myndigheten utstedte i 2020 en teknisk rapport om BPS[^8], som ikke tok hensyn til det fullstendige toksikologiske datasettet som er tilgjengelig for BPS, men anbefalte derimot innsamling av data om bruken av BPS i plastmaterialer og -gjenstander som kommer i kontakt med næringsmidler og om forekomsten i og migrasjon til næringsmidler i sammenheng med dets eventuelle bruk som et alternativ til BPA. Dette alene støtter behovet for å ajourføre vurderingen av hvordan BPS brukes i materialer og gjenstander som er i kontakt med næringsmidler, særlig i lys av den harmoniserte klassifiseringen som reproduksjonstoksisk i kategori 1B. Det vil sannsynligvis skje en ytterligere harmonisert klassifisering av bisfenoler og bisfenolderivater i framtiden, etter at noen av dem er identifisert som stoffer som gir grunn til svært alvorlig bekymring i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907)[^9] og etter innføringen av nye fareklasser for hormonforstyrrende stoffer ved delegert kommisjonsforordning [(EU) 2023/707](eu/32023r0707)[^10]. Det er derfor hensiktsmessig å sikre at det ved framstillingen av materialer og gjenstander som kommer i kontakt med næringsmidler, ikke er tillatt å bruke bisfenoler eller bisfenolderivater med en bestemt harmonisert klassifisering, inkludert saltene av disse stoffene, uten at myndigheten har foretatt en ajourført vurdering som viser at bruken av dem ikke utgjør en fare for menneskers helse.
 10. Ettersom slike farlige bisfenoler eller farlige bisfenolderivater kan være nødvendige eller av avgjørende betydning ved framstillingen av materialer og gjenstander som kommer i kontakt med næringsmidler for en bestemt anvendelse når egnede alternativer ikke finnes, bør driftsansvarlige gis mulighet til å søke om tillatelse til å bruke de respektive farlige bisfenoler eller bisfenolderivater ved framstillingen av materialer og gjenstander som kommer i kontakt med næringsmidler for en bestemt anvendelse. Søknader om godkjenning av slike farlige bisfenoler eller farlige bisfenolderivater bør inngis i samsvar med framgangsmåtene fastsatt i forordning [(EF) nr. 1935/2004](eu/32004r1935) om godkjenning av stoffer. Forutsatt at en slik søknad inngis innen rimelig tid, bør materialer og gjenstander som kommer i kontakt med næringsmidler, og som er framstilt ved bruk av en farlig bisfenol eller et farlig bisfenolderivat som allerede er i omsetning, fortsatt kunne bringes i omsetning fram til Kommisjonen har truffet beslutning om søknaden.
 11. Selv om det finnes retningslinjer for utarbeiding og framlegging av en søknad om godkjenning av et stoff ved framstilling av materialer og gjenstander som kommer i kontakt med næringsmidler, særlig når det gjelder plastmaterialer og plastgjenstander som kommer i kontakt med næringsmidler, kan det være nødvendig å ajourføre eller supplere disse, i samsvar med den nyeste vitenskapelige utviklingen og myndighetenes krav, særlig for vurdering av farlige bisfenoler eller farlige bisfenolderivater, inkludert bruken av dem i andre materialer enn plast. I tråd med Kommisjonens initiativ «ett stoff, én vurdering» bør myndigheten og Det europeiske kjemikaliebyrå samarbeide, ettersom sistnevnte allerede er i ferd med å vurdere sikkerheten ved bisfenoler og deres derivater. For å støtte dette arbeidet bør driftsansvarlige som er avhengige av å bruke en farlig bisfenol eller et farlig bisfenolderivat i framstillingen av materialer og gjenstander som kommer i kontakt med næringsmidler, om nødvendig framlegge informasjon til myndigheten om den nåværende bruken av disse bisfenolene og bisfenolderivatene.
 12. Selv om fortsatt bruk av BPA for å framstille et svært begrenset antall materialer og gjenstander som kommer i kontakt med næringsmidler for bestemte anvendelser for tiden er berettiget og ikke utgjør en uakseptabel risiko, bør målet på lang sikt være helt å erstatte BPA samt andre bisfenoler og deres derivater med spesifikke egenskaper som er særlig farlige for menneskers helse, med alternativer som ikke har slike egenskaper. For å fremme dette og sette Kommisjonen i stand til å vurdere om det fortsatt er behov for unntak fastsatt ved denne forordningen, bør det kreves at produsenter av relevante materialer og gjenstander som kommer i kontakt med næringsmidler og som bruker BPA eller andre farlige bisfenoler eller bisfenolderivater, rapporterer om status for utviklingen av alternative løsninger. Idet det tas hensyn til behovet for å minimere regelverksbyrden for små og mellomstore bedrifter («SMB-er»), er det imidlertid hensiktsmessig at dette kravet gjøres gjeldende for store bedrifter, som har større kapasitet og ressurser til å utvikle og innføre alternativer.
@@ -3349,7 +3349,7 @@ Materialer og gjenstander som kommer i kontakt med næringsmidler og som er fram
 
 1\. Driftsansvarlige som bruker BPA, andre farlige bisfenoler eller farlige bisfenolderivater som er oppført i vedlegg II, skal gi Kommisjonen opplysninger om status for alternative stoffer.
 
-Som unntak skal slik rapportering være frivillig for svært små, små og mellomstore bedrifter som definert i kommisjonsrekommandasjon av 6. mai 200311.
+Som unntak skal slik rapportering være frivillig for svært små, små og mellomstore bedrifter som definert i kommisjonsrekommandasjon av 6. mai 2003[^11].
 
 2\. Opplysningene nevnt i nr. 1 skal gjøres tilgjengelige for Kommisjonen fire år etter og senest fem år etter datoen da bruken av den farlige bisfenolen eller det farlige bisfenolderivatet ble godkjent for bruk ved framstilling av materialet eller gjenstanden som kommer i kontakt med næringsmidler, for en bestemt anvendelse. Disse opplysningene skal ajourføres og gjøres tilgjengelige for Kommisjonen fire år etter og senest fem år etter forrige framleggingsdato, dersom godkjenningen for bruk av den farlige bisfenolen eller det farlige derivatet for den ferdige gjenstanden som kommer i kontakt med næringsmidler for en bestemt anvendelse fortsatt gjelder.
 
@@ -3365,7 +3365,7 @@ Som unntak skal slik rapportering være frivillig for svært små, små og mello
 
 ### Artikkel 9. Kontroll av samsvar med kravene i denne forordningen
 
-1\. For verifisering av at kravene i denne forordningen overholdes, skal det velges egnede forsøksmetoder i samsvar med artikkel 34 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)12.
+1\. For verifisering av at kravene i denne forordningen overholdes, skal det velges egnede forsøksmetoder i samsvar med artikkel 34 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)[^12].
 
 2\. ►**M1** For valg av metoder som brukes til å verifisere at et materiale eller en gjenstand som kommer i kontakt med næringsmidler, ikke inneholder restmengder av BPA, en annen farlig bisfenol eller et farlig bisfenolderivat, eller ikke avgir disse stoffene til næringsmidler over den angitte påvisningsgrensen eller den spesifikke migrasjonsgrensen, gjelder følgende tilleggsregler:
 
@@ -3484,14 +3484,14 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109)1, særlig artikkel 5 nr. 1 andre ledd bokstav h), i), k) og n), og
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) av 27. oktober 2004 om materialer og gjenstander beregnet på å komme i kontakt med næringsmidler og om oppheving av direktiv [80/590/EØF](eu/31980l0590) og [89/109/EØF](eu/31989l0109)[^1], særlig artikkel 5 nr. 1 andre ledd bokstav h), i), k) og n), og
 
 ut fra følgende betraktninger:
 
-1. Som en del av handlingsplanen for den sirkulære økonomien fra 20152 fastslo Kommisjonen at økt materialgjenvinning av plast var en viktig forutsetning for omstillingen til en sirkulær økonomi, og forpliktet seg til å treffe målrettede tiltak for denne sektoren. Kommisjonen vedtok derfor i 2018 en europeisk strategi for plast i en sirkulær økonomi3, som inneholder viktige tilsagn om tiltak på unionsplan for å begrense skadevirkningene av plastforurensning. Målet er å utvide kapasiteten for materialgjenvinning av plast i Unionen, og øke materialgjenvunnet innhold i plastprodukter og plastemballasje. Ettersom en stor del av plastemballasjematerialene brukes som næringsmiddelemballasje, kan målene for strategien bare nås dersom også innholdet av materialgjenvunnet plast i næringsmiddelemballasjen øker.
+1. Som en del av handlingsplanen for den sirkulære økonomien fra 2015[^2] fastslo Kommisjonen at økt materialgjenvinning av plast var en viktig forutsetning for omstillingen til en sirkulær økonomi, og forpliktet seg til å treffe målrettede tiltak for denne sektoren. Kommisjonen vedtok derfor i 2018 en europeisk strategi for plast i en sirkulær økonomi[^3], som inneholder viktige tilsagn om tiltak på unionsplan for å begrense skadevirkningene av plastforurensning. Målet er å utvide kapasiteten for materialgjenvinning av plast i Unionen, og øke materialgjenvunnet innhold i plastprodukter og plastemballasje. Ettersom en stor del av plastemballasjematerialene brukes som næringsmiddelemballasje, kan målene for strategien bare nås dersom også innholdet av materialgjenvunnet plast i næringsmiddelemballasjen øker.
 2. En forutsetning for en økning av materialgjenvunnet innhold i næringsmiddelemballasje og andre materialer beregnet på å komme i kontakt med næringsmidler, er at det til enhver tid sikres et høyt vernenivå for menneskers helse. Avfall av plastmaterialer og plastgjenstander kan imidlertid, også når de stammer fra bruk til næringsmidler, inneholde forurensende stoffer som er relatert til denne bruken, og som potensielt kan utgjøre en fare for sikkerheten og kvaliteten til materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler. Selv om det er usannsynlig at slikt plastavfall er forurenset med en relativt stor mengde spesifikke stoffer som er kjent for å være farlige for menneskers helse, noe som kan være tilfelle for eksempel i plast som er brukt til industriformål, er identiteten til og mengden av tilfeldige forurensende stoffer som kan forekomme i innsamlet næringsmiddelemballasje, umulig å fastslå, vilkårlig, avhengig av kilden til og innsamlingsmetoden for plastavfallet, og kan variere fra innsamling til innsamling. Plasten bør derfor alltid dekontamineres under materialgjenvinningen til et nivå der det er sikkert at resterende forurensende stoffer ikke vil utgjøre en fare for menneskers helse eller på annen måte påvirke næringsmiddelet, hvis plasten brukes til produksjon av materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler. For å sikre at næringsmiddelforbrukere og driftsansvarlige for næringsmiddelforetak skal kunne ha tillit til dekontaminerte materialer og at det finnes en ensartet tolkning av hvilket omfang av dekontaminering som anses som tilstrekkelig, bør dekontaminering av materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler være underlagt et ensartet sett av regler.
-3. Kommisjonsforordning [(EF) nr. 282/2008](eu/32008r0282)4 har allerede fastsatt særlige krav til materialgjenvinningsprosesser for å sikre at materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler er i samsvar med artikkel 3 i forordning [(EF) nr. 1935/2004](eu/32004r1935). Forordning [(EF) nr. 282/2008](eu/32008r0282) gjaldt imidlertid ikke for alle materialgjenvinningsteknologier, ettersom kjemisk depolymerisering, bruk av avskjær og skrap og bruk av barrierelag var utelukket fra forordningens virkeområde. Bruken av materialer av materialgjenvunnet plast i kontakt med næringsmidler som er framstilt med disse utelukkede teknologiene, anses å være omfattet av kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010)5 om plastmaterialer og plastgjenstander. Forordning [(EU) nr. 10/2011](eu/32011r0010) gir imidlertid ingen tydelig støtte til disse utelukkede teknologiene, ettersom den ikke fastsetter regler for delvis depolymeriserte stoffer eller oligomerer, avskjær og prosessskrap, og begrenser de stoffene som kan brukes bak en funksjonell barriere.
-4. Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») bemerket at det er umulig å forutsi identiteten til forurensende stoffer som potensielt kan forekomme i PET etter forbruksleddet, og som brukes som innsatsmaterialer i en materialgjenvinningsprosess, og dermed sikre at de ikke er genotoksiske6. Ettersom myndighetens resonnement også kan utvides til annet plastavfall, kan det generelt ikke uten ytterligere vitenskapelige data antas at slike andre avfallsstrømmer er frie for visse grupper av forurensende stoffer. Det kan derfor heller ikke antas at det er mulig å vurdere risikoen ved forurensende stoffer på samme måte som urenheter vurderes i henhold til forordning [(EU) nr. 10/2011](eu/32011r0010), eller at blandinger av kjemisk depolymeriserte materialer er frie for slike forurensende stoffer, eller at de kan hindres helt av funksjonelle plastbarrierer. Følgelig kan materialgjenvunnet plast som er framstilt med teknologier som er utelukket fra virkeområdet for forordning [(EF) nr. 282/2008](eu/32008r0282), heller ikke brukes i henhold til forordning [(EU) nr. 10/2011](eu/32011r0010).
+3. Kommisjonsforordning [(EF) nr. 282/2008](eu/32008r0282)[^4] har allerede fastsatt særlige krav til materialgjenvinningsprosesser for å sikre at materialer og gjenstander av materialgjenvunnet plast beregnet på å komme i kontakt med næringsmidler er i samsvar med artikkel 3 i forordning [(EF) nr. 1935/2004](eu/32004r1935). Forordning [(EF) nr. 282/2008](eu/32008r0282) gjaldt imidlertid ikke for alle materialgjenvinningsteknologier, ettersom kjemisk depolymerisering, bruk av avskjær og skrap og bruk av barrierelag var utelukket fra forordningens virkeområde. Bruken av materialer av materialgjenvunnet plast i kontakt med næringsmidler som er framstilt med disse utelukkede teknologiene, anses å være omfattet av kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010)[^5] om plastmaterialer og plastgjenstander. Forordning [(EU) nr. 10/2011](eu/32011r0010) gir imidlertid ingen tydelig støtte til disse utelukkede teknologiene, ettersom den ikke fastsetter regler for delvis depolymeriserte stoffer eller oligomerer, avskjær og prosessskrap, og begrenser de stoffene som kan brukes bak en funksjonell barriere.
+4. Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») bemerket at det er umulig å forutsi identiteten til forurensende stoffer som potensielt kan forekomme i PET etter forbruksleddet, og som brukes som innsatsmaterialer i en materialgjenvinningsprosess, og dermed sikre at de ikke er genotoksiske[^6]. Ettersom myndighetens resonnement også kan utvides til annet plastavfall, kan det generelt ikke uten ytterligere vitenskapelige data antas at slike andre avfallsstrømmer er frie for visse grupper av forurensende stoffer. Det kan derfor heller ikke antas at det er mulig å vurdere risikoen ved forurensende stoffer på samme måte som urenheter vurderes i henhold til forordning [(EU) nr. 10/2011](eu/32011r0010), eller at blandinger av kjemisk depolymeriserte materialer er frie for slike forurensende stoffer, eller at de kan hindres helt av funksjonelle plastbarrierer. Følgelig kan materialgjenvunnet plast som er framstilt med teknologier som er utelukket fra virkeområdet for forordning [(EF) nr. 282/2008](eu/32008r0282), heller ikke brukes i henhold til forordning [(EU) nr. 10/2011](eu/32011r0010).
 5. Følgelig gjelder forordning [(EF) nr. 282/2008](eu/32008r0282) og forordning [(EU) nr. 10/2011](eu/32011r0010) sammen ikke for alle materialgjenvinningsteknologier for plast eller materialer og gjenstander av materialgjenvunnet plast. Etter hvert som nye innovative materialgjenvinningsteknologier for plast utvikles og markedet for materialgjenvunnet plast vokser, skaper mangelen på klart anvendbare og egnede regler en potensiell risiko for menneskers helse og hindrer innovasjon. For å fastsette klare regler og håndtere risikoen for tilfeldige forurensende stoffer, er det derfor hensiktsmessig å erstatte forordning [(EF) nr. 282/2008](eu/32008r0282) med nye regler som dekker alle eksisterende og framtidige materialgjenvinningsteknologier for plast.
 6. Forordning [(EU) nr. 10/2011](eu/32011r0010) krever at stoffer som brukes til å framstille plastmaterialer og plastgjenstander, har en passende renhet, og at de resterende urenhetene skal kunne identifiseres slik at de kan gjøres til gjenstand for en risikovurdering. Ettersom enkeltstoffer kan renses til en grad som er egnet for dette formålet, begrenser det generelt ikke produksjonsmetodene for stoffene på EU-listen over godkjente stoffer. Det er derfor også mulig å framstille disse stoffene fra enhver kilde, også av avfallsmaterialer. Stoffer som er framstilt av avfall og som har oppnådd en høy renhetsgrad, kan dessuten ikke skilles fra de samme stoffene som er framstilt på andre måter. Derfor bør framstillingen av plastmaterialer og plastgjenstander av stoffer med høy renhetsgrad fra avfallsmaterialer, og som er oppført på EU-listen fastsatt ved forordning [(EU) nr. 10/2011](eu/32011r0010), eller som omfattes av visse unntak, omfattes av den forordningen, mens andre stoffer der tilfeldige forurensende stoffer ikke på forhånd kan antas å forekomme eller lett kan utelukkes, inkludert blandinger, oligomerer og polymerer framstilt av avfall, bør omfattes av denne forordningen. For å unngå usikkerhet om hvilken forordning som får anvendelse på en bestemt materialgjenvinningsteknologi som fører til stoffer på et mellomtrinn i materialgjenvinningen, bør stoffer som omfattes av forordning [(EU) nr. 10/2011](eu/32011r0010), klart utelukkes fra denne forordningens virkeområde.
 7. I dagligtale kan utbredt og allment brukt terminologi, som «teknologi», «prosess», «utstyr» og «installasjon», vise til identiske eller lignende begreper, og betydningen av disse kan overlappe, avhengig av sammenhengen og brukeren. For å presisere omfanget av og formålet med forpliktelsene fastsatt i denne forordningen, bør disse begrepene defineres tydelig i denne forordningen. Det er særlig nødvendig å skille mellom «materialgjenvinningsteknologi», som omfatter de generelle begrepene og prinsippene for hvordan forurensende stoffer fjernes fra plastavfall, og «materialgjenvinningsprosess», som viser til beskrivelsen av en bestemt sekvens av operasjoner og utstyr som er utformet ved hjelp av en bestemt materialgjenvinningsteknologi, samt «materialgjenvinningsinstallasjon», som bør vise til det faktiske fysiske utstyret som brukes under materialgjenvinningsprosessen til å framstille materialer og gjenstander av materialgjenvunnet plast.
@@ -3506,7 +3506,7 @@ ut fra følgende betraktninger:
 16. Forordning [(EU) nr. 10/2011](eu/32011r0010) fastsetter krav til sammensetning som sikrer trygg bruk av plastmaterialer beregnet på å komme i kontakt med næringsmidler, inkludert hvilke stoffer som er godkjente for framstillingen, og migrasjonsgrensene. For å sikre det samme sikkerhetsnivået for materialer og gjenstander av materialgjenvunnet plast bør de ha samme sammensetning som plast framstilt i samsvar med forordning [(EU) nr. 10/2011](eu/32011r0010) og overholde de begrensningene og spesifikasjonene, for eksempel migrasjonsgrensene, som er fastsatt i nevnte forordning.
 17. For å sikre gjennomsiktighet og lette kvalitetskontroll og sporbarhet bør det opprettes et offentlig register som inneholder informasjon om materialgjenvinnere, materialgjenvinningsinstallasjoner og materialgjenvinningsprosesser, og registrering i dette registeret bør være en forutsetning for å få bringe materialer og gjenstander av materialgjenvunnet plast i omsetning.
 18. Selv om forordning [(EF) nr. 1935/2004](eu/32004r1935) fastsetter særlige regler for merking av materialer og gjenstander for å informere brukerne om hvordan de skal brukes på en hensiktsmessig måte, finnes det ikke tilsvarende regler for etterbehandling av dekontaminert plast. Avhengig av omfanget av dekontamineringen kan imidlertid visse anvisninger gjelde for videre bearbeiding og bruk av materialgjenvunnet plast, for eksempel krav til blanding for å oppnå et så høyt materialgjenvunnet innhold som mulig, eller begrensninger i bruken av det. Selv om slike anvisninger skal overføres via dokumentasjon, er det kanskje ikke lett å gjenkjenne plastmaterialer som krever spesialbehandling. For å unngå feil og lette kontrollene bør materialgjenvunnet plast derfor også merkes på en tydelig og lett leselig måte for å sikre at den brukes riktig under etterbehandlingen i samsvar med anvisningene fra materialgjenvinneren.
-19. For å sikre at plastmaterialer og plastgjenstander under hele materialgjenvinningsprosessen omfattes av vilkår som garanterer at de er sikre og av god kvalitet, og for å lette håndhevingen og forsyningskjedens funksjon, bør det fastsettes regler for alle trinn i gjenvinningsprosessen, fra forbehandling til dekontaminering og etterbehandling. Særlig bør kontamineringsnivået i innsatsmaterialet av plast som inngår i dekontamineringsprosessen, aldri overskride den øvre grensen for når tilstrekkelig dekontaminering kan oppnås gjennom prosessen, og det bør derfor sikres at kvaliteten på innsatsmaterialet konsekvent oppfyller de relevante spesifikasjonene. Reglene fastsatt i kommisjonsforordning [(EF) nr. 2023/2006](eu/32006r2023)7 om god framstillingspraksis bør derfor, dersom det er relevant, også få anvendelse på avfallshåndtering som finner sted før dekontamineringsprosessen, og sikre at det benyttes et kvalitetssikringssystem. Med tanke på mangfoldet av materialgjenvinningsteknologier og materialgjenvinningsprosesser bør det imidlertid være mulig å vedta særlige regler som utfyller eller avviker fra noen av disse alminnelige reglene, for å ta hensyn til de særlige egenskapene ved en materialgjenvinningsteknologi eller en materialgjenvinningsprosess.
+19. For å sikre at plastmaterialer og plastgjenstander under hele materialgjenvinningsprosessen omfattes av vilkår som garanterer at de er sikre og av god kvalitet, og for å lette håndhevingen og forsyningskjedens funksjon, bør det fastsettes regler for alle trinn i gjenvinningsprosessen, fra forbehandling til dekontaminering og etterbehandling. Særlig bør kontamineringsnivået i innsatsmaterialet av plast som inngår i dekontamineringsprosessen, aldri overskride den øvre grensen for når tilstrekkelig dekontaminering kan oppnås gjennom prosessen, og det bør derfor sikres at kvaliteten på innsatsmaterialet konsekvent oppfyller de relevante spesifikasjonene. Reglene fastsatt i kommisjonsforordning [(EF) nr. 2023/2006](eu/32006r2023)[^7] om god framstillingspraksis bør derfor, dersom det er relevant, også få anvendelse på avfallshåndtering som finner sted før dekontamineringsprosessen, og sikre at det benyttes et kvalitetssikringssystem. Med tanke på mangfoldet av materialgjenvinningsteknologier og materialgjenvinningsprosesser bør det imidlertid være mulig å vedta særlige regler som utfyller eller avviker fra noen av disse alminnelige reglene, for å ta hensyn til de særlige egenskapene ved en materialgjenvinningsteknologi eller en materialgjenvinningsprosess.
 20. Dessuten bør disse alminnelige reglene for alle trinn i materialgjenvinningsprosessen ikke gjelde for materialgjenvinningsteknologier som forutsetter at det innføres en særlig ordning for bruk og innsamling av plastmaterialer og plastgjenstander som materialgjenvinnere, driftsansvarlige for næringsmiddelforetak og andre driftsansvarlige deltar i, og som sikter mot å begrense kontamineringen av innsatsmaterialet av plast til et minimum og dermed redusere kravene til den benyttede dekontamineringsprosessen. Ettersom sikkerheten til den materialgjenvunne plasten derfor er avhengig av at kontaminering hindres og følgelig av at slike materialgjenvinningsordninger fungerer som de skal, snarere enn av behandlingen av avfall og dets etterfølgende dekontaminering, bør det i denne forordningen fastsettes regler for hvordan ordningen skal fungere. For å sikre klarhet i og ensartet anvendelse av en materialgjenvinningsordning bør bare én enhet ha ansvar for å forvalte dens overordnede funksjon, og denne enheten bør ha ansvar for å gi alle deltakende operatører bindende instrukser. Det bør også sikres at deltakere, tredjeparter og kontrollmyndigheter lett kan gjenkjenne de plastmaterialene og plastgjenstandene som skal brukes i henhold til en bestemt materialgjenvinningsordning.
 21. Selv om regelen bør være at bare materialer og gjenstander av materialgjenvunnet plast som er framstilt ved hjelp av teknologier som har vist seg å være egnede, kan bringes i omsetning, bør det, for å muliggjøre og oppmuntre til utvikling av slike teknologier, på strenge vilkår og i en begrenset periode tillates at materialer og gjenstander av materialgjenvunnet plast som er framstilt ved hjelp av nye teknologier, bringes i omsetning. Dette bør gjøre det mulig for utviklere å samle inn data om et så stort og representativt antall prøver at usikkerheten rundt karakteriseringen av innsatsmaterialet av plast og av materialer og gjenstander av materialgjenvunnet plast begrenses til et minimum, og dermed gjør det mulig å vurdere en ny teknologis egnethet og fastsette de særlige kravene når det er nødvendig.
 22. Det bør imidlertid fastsettes regler for å sikre at materialer og gjenstander av materialgjenvunnet plast som er framstilt med nye teknologier, medfører minimal risiko, og at muligheten for å bringe slike materialer og gjenstander i omsetning utnyttes effektivt for å samle inn informasjon og erfaringer som gjør det mulig å vurdere teknologien. Før disse materialgjenvunne materialene og gjenstandene bringes i omsetning, bør derfor all tilgjengelig informasjon om prinsippene, begrepene og praksisene som den nye teknologien bygger på, brukes til å minimere risikoene, og data om teknologiens dekontamineringseffektivitet bør være tilgjengelige. Dersom disse dataene ikke er tilstrekkelige til å verifisere at teknologien fungerer tilfredsstillende, særlig når dekontaminering ikke er det viktigste eller eneste prinsippet som brukes for å oppnå sikkerhet, bør det utformes utfyllende tester på grunnlag av den nye teknologiens særtrekk. For å fastsette innholdet av forurensende stoffer i innsatsmaterialene, samt restinnholdet av forurensede stoffer i de ferdige materialene og gjenstandene samt potensialet for at de overføres til næringsmidler, bør det dessuten fastsettes regler for særlig analytisk overvåking av materialer og gjenstander av materialgjenvunnet plast som framstilles ved hjelp av materialgjenvinningsteknologier som er under utvikling, og den mulige forekomsten av farlige stoffer. For å karakterisere eksponeringsrisikoen bør slik overvåking ikke bare fokusere på gjennomsnittsnivåer, men også vurdere andre faktorer, for eksempel om visse forurensende stoffer ofte forekommer i forskjellige partier eller er knyttet til en bestemt kilde. For å sikre tillit til, allmennhetens kunnskap om og forskriftsmessig kontroll av teknologier som er under utvikling, er det dessuten viktig at rapportene om materialenes sikkerhet og om slik overvåking offentliggjøres.
@@ -3514,7 +3514,7 @@ ut fra følgende betraktninger:
 24. Dersom det foreligger bevis eller indikasjoner som viser at materialer og gjenstander av materialgjenvunnet plast som er gjenvunnet ved hjelp av en egnet gjenvinningsteknologi eller med en ny teknologi, kan utgjøre en fare for forbrukernes helse, bør det være mulig for Kommisjonen å analysere teknologien og sikkerheten til de materialene og gjenstandene av materialgjenvunnet plast som produseres med teknologien, og treffe egnede og umiddelbare tiltak i forbindelse med den.
 25. Ettersom denne forordningen i visse tilfeller krever at materialgjenvinningsprosesser godkjennes individuelt, bør det fastsettes en framgangsmåte for dette formålet. Denne framgangsmåten bør ligne framgangsmåten for godkjenning av et nytt stoff fastsatt i forordning [(EF) nr. 1935/2004](eu/32004r1935), ved behov tilpasset den individuelle godkjenningen av materialgjenvinningsprosesser. Ettersom utarbeiding av en søknad om godkjenning krever at søkeren har inngående kjennskap til den aktuelle materialgjenvinningsprosessen, og for å unngå at det innleveres flere søknader for samme materialgjenvinningsprosess, bør det særlig fastsettes at bare den driftsansvarlige som har utviklet materialgjenvinningsprosessen, og ikke alle materialgjenvinnere som benytter den, kan søke om godkjenning. Godkjente materialgjenvinningsprosesser kan bli gjenstand for mindre og større tekniske og administrative endringer i løpet av sin livssyklus, og denne forordningen bør derfor også sikre klarhet om hvilke framgangsmåter som skal benyttes ved endringer av godkjente materialgjenvinningsprosesser.
 26. Ettersom materialgjenvinningsinstallasjoner er komplekse, og deres utforming og drift kan omfattes av mange parametrer og prosedyrer, og for å lette materialgjenvinnernes egen kontroll av samsvar samt effektive revisjoner som en del av de offentlige kontrollene, bør det kreves at materialgjenvinnere som driver et dekontamineringsanlegg, har tilgjengelig et dokument som på en standardisert måte oppsummerer driften, kontrollen og overvåkingen av installasjonen, samt den materialgjenvinningsinstallasjonen som den er en del av, på en måte som viser at denne forordningen overholdes.
-27. Dekontamineringen av materialgjenvunnet plast bør inspiseres og kontrolleres av vedkommende myndigheter. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket8, omfatter også offentlig kontroll av materialer beregnet på å komme i kontakt med næringsmidler, og omfatter derfor dekontamineringsinstallasjoner. Selv om denne forordningen inneholder alminnelige regler for offentlig kontroll, fastsetter den imidlertid ikke noen spesifikke framgangsmåter for kontroll av dekontamineringsinstallasjoner. For å sikre en ensartet anvendelse av de offentlige kontrollene av dekontamineringsinstallasjoner, uansett hvor de ligger, er det derfor hensiktsmessig å fastsette passende kontrollteknikker, samt regler for når gjenvunnet plast bør anses å ikke være i samsvar med denne forordningen.
+27. Dekontamineringen av materialgjenvunnet plast bør inspiseres og kontrolleres av vedkommende myndigheter. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket[^8], omfatter også offentlig kontroll av materialer beregnet på å komme i kontakt med næringsmidler, og omfatter derfor dekontamineringsinstallasjoner. Selv om denne forordningen inneholder alminnelige regler for offentlig kontroll, fastsetter den imidlertid ikke noen spesifikke framgangsmåter for kontroll av dekontamineringsinstallasjoner. For å sikre en ensartet anvendelse av de offentlige kontrollene av dekontamineringsinstallasjoner, uansett hvor de ligger, er det derfor hensiktsmessig å fastsette passende kontrollteknikker, samt regler for når gjenvunnet plast bør anses å ikke være i samsvar med denne forordningen.
 28. For å sikre at materialgjenvunnet plast og materialer og gjenstander av materialgjenvunnet plast brukes på en hensiktsmessig og sporbar måte av omdanningsforetak og driftsansvarlige for næringsmiddelforetak, bør det framlegges en samsvarserklæring som skal ledsage partiene av materialgjenvunnet plast, med informasjon om materialgjenvinneres identitet, den materialgjenvunne plastens opprinnelse samt anvisninger til omdanningsforetak og sluttbrukerne om bruken av den. For å sikre at dokumentet kan forstås på samme måte av alle som mottar det, bør det kreves at operatørene bruker en forhåndsdefinert mal.
 29. Materialer og gjenstander av materialgjenvunnet plast bringes for tiden i omsetning i henhold til nasjonale regler. Det bør derfor fastsettes bestemmelser som sikrer en smidig overgang til denne forordningen, og som ikke forstyrrer det eksisterende markedet for materialer og gjenstander av materialgjenvunnet plast. Det bør særlig i en begrenset periode være mulig å søke om godkjenning av eksisterende materialgjenvinningsprosesser som i henhold til denne forordningen skal godkjennes individuelt, og å fortsette å bringe materialgjenvunnet plast og materialer og gjenstander av materialgjenvunnet plast som er framstilt ved hjelp av disse materialgjenvinningsprosessene, i omsetning, inntil godkjenningsprosedyren er avsluttet. Søknader som er innlevert i samsvar med forordning [(EF) nr. 282/2008](eu/32008r0282) om materialgjenvinningsprosesser, bør anses som søknader som er innlevert i henhold til denne forordningen. Søknader som er innlevert i henhold til forordning [(EF) nr. 282/2008](eu/32008r0282) om materialgjenvinningsprosesser som ikke omfattes av individuell godkjenning i henhold til denne forordningen, bør avsluttes fordi denne forordningen ikke gir grunnlag for godkjenning av de aktuelle prosessene.
 30. Materialgjenvinnere som i sine nåværende materialgjenvinningsoperasjoner benytter teknologier som ikke er oppført på listen over egnede materialgjenvinningsteknologier, bør få tilstrekkelig tid til å vurdere om de ønsker å utvikle denne teknologien ytterligere, slik at den kan oppføres som egnet, eller i motsatt fall avslutte bruken av disse materialgjenvinningsoperasjonene for framstilling av plastmaterialer og plastgjenstander. Det bør derfor i en begrenset periode fortsatt være tillatt å bringe materialgjenvunnet plast og materialer og gjenstander av materialgjenvunnet plast som er framstilt ved hjelp av materialgjenvinningsprosesser og -installasjoner som bygger på disse teknologiene, i omsetning, og i samsvar med gjeldende nasjonale regler.
@@ -3565,8 +3565,8 @@ FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 2\. I denne forordningen menes videre med
 
-1. «avfall», «kommunalt avfall», «avfallshåndtering», «avfallsinnsamling», «ombruk», «materialgjenvinning» og «ikke-farlig avfall» som fastsatt i artikkel 3 i europaparlaments- og rådsdirektiv [2008/98/EF](eu/32008l0098)9,
-2. «næringsmiddelforetak» og «driftsansvarlig for næringsmiddelforetak» som fastsatt i artikkel 3 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)10,
+1. «avfall», «kommunalt avfall», «avfallshåndtering», «avfallsinnsamling», «ombruk», «materialgjenvinning» og «ikke-farlig avfall» som fastsatt i artikkel 3 i europaparlaments- og rådsdirektiv [2008/98/EF](eu/32008l0098)[^9],
+2. «næringsmiddelforetak» og «driftsansvarlig for næringsmiddelforetak» som fastsatt i artikkel 3 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)[^10],
 3. «vedkommende myndigheter» og «revisjon» som fastsatt i artikkel 3 i forordning [(EU) 2017/625](eu/32017r0625).
 
 3\. I denne forordningen menes videre med
@@ -3765,7 +3765,7 @@ Dersom noen av disse kravene ikke er oppfylt, skal materialene eller gjenstanden
 9\. Driftsansvarlige og andre organisasjoner som deltar i en materialgjenvinningsordning
 
 1. skal ha et kvalitetssikringssystem i samsvar med forordning [(EU) nr. 2023/2006](eu/32006r2023) som er utformet for å sikre at kravene i ordningen oppfylles, eller
-2. kan som et alternativ for driftsansvarlige for små næringsmiddelforetak gjennomføre kravene i ordningen som en del av sine faste prosedyrer basert på prinsippene for «risikoanalyse og kritiske styringspunkter» (HACCP), som nevnt i artikkel 5 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)11, og benytte disse prosedyrene tilsvarende med nødvendige endringer ved fare for kontaminering av plasten.
+2. kan som et alternativ for driftsansvarlige for små næringsmiddelforetak gjennomføre kravene i ordningen som en del av sine faste prosedyrer basert på prinsippene for «risikoanalyse og kritiske styringspunkter» (HACCP), som nevnt i artikkel 5 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)[^11], og benytte disse prosedyrene tilsvarende med nødvendige endringer ved fare for kontaminering av plasten.
 
 11 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
 
@@ -4033,7 +4033,7 @@ Punkt 4 bokstav d) i protokoll 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl) sk
 
 1\. På grunnlag av myndighetens uttalelse, relevante bestemmelser i unionsretten og andre berettigede faktorer som er relevante for saken, skal Kommisjonen vurdere om den individuelle materialgjenvinningsprosessen oppfyller vilkårene for bruk av den egnede materialgjenvinningsteknologien den benytter, og framstiller materialer og gjenstander av materialgjenvunnet plast som er i samsvar med artikkel 3 i forordning [(EF) nr. 1935/2004](eu/32004r1935), og er mikrobiologisk sikre.
 
-Kommisjonen skal utarbeide et utkast til beslutning som er rettet til søkeren, og som innvilger eller avslår godkjenningen av materialgjenvinningsprosessen. Artikkel 23 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) og artikkel 5 i europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)12 får anvendelse.
+Kommisjonen skal utarbeide et utkast til beslutning som er rettet til søkeren, og som innvilger eller avslår godkjenningen av materialgjenvinningsprosessen. Artikkel 23 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935) og artikkel 5 i europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)[^12] får anvendelse.
 
 Dersom utkastet til beslutning ikke er i samsvar med myndighetens uttalelse, skal Kommisjonen grunngi sin beslutning.
 
@@ -4295,7 +4295,7 @@ Liste over egnede materialgjenvinningsteknologier
 ### Tabell 2
 Detaljert spesifikasjon av polymerer
 
-| *Referansenummer* | *Forkortelse* | *Harpiksnummer og/eller gjenvinningssymbol, dersom relevant*1 | *Detaljert spesifikasjon for bruk med denne forordningen* |
+| *Referansenummer* | *Forkortelse* | *Harpiksnummer og/eller gjenvinningssymbol, dersom relevant*[^1] | *Detaljert spesifikasjon for bruk med denne forordningen* |
 | --- | --- | --- | --- |
 | 2.1 | PET | 1 | Polyetylentereftalat-polymer framstilt ved polykondensasjon av komonomerene etylenglykol og tereftalsyre eller dimetyltereftalat, der den polymere grunnstrukturen inneholder inntil 10 vektprosent andre komonomerer oppført i tabell 1 i vedlegg I til forordning [(EU) nr. 10/2011](eu/32011r0010), som for eksempel isoftalsyre og dietylenglykol |
 
@@ -4381,7 +4381,7 @@ Numrene (RIN, RFN, RON, RAN, NTN) nevnt i dette avsnittet skal tilsvare numrene 
 
    |  |  |
    | --- | --- |
-   | Navn på godkjenningsinnehaveren\* / teknologi-utvikleren\*\*, avhengig av hva som er relevant |  |
+   | Navn på godkjenningsinnehaveren[^\*] / teknologi-utvikleren[^\*\*], avhengig av hva som er relevant |  |
    | Adresse |  |
    | Kontaktopplysninger |  |
    | Stilling/rolle |  |
@@ -4572,21 +4572,21 @@ Samsvarserklæring som skal brukes av materialgjenvinnere
 | Avsnitt 1: Identifikasjon |  |  |  |  |  |
 | 1.1 Materialgjenvinner |  | 1.2 Materialgjenvunnet produkt |  | 1.3 Vedkommende myndighet |  |
 | 1.1.1 Navn |  | 1.2.1 Handelsnavn/betegnelse |  | 1.3.1 Navn |  |
-| 1.1.2 FCM-RON\* |  | 1.2.2 Partinr. |  | 1.3.2 Adresse |  |
-| 1.1.3 Land |  | 1.2.3 FCM-RIN\* |  | 1.3.3 Land/region |  |
-| 1.1.4 FCM-RFN\* |  | 1.2.4 Annen informasjon |  | 1.3.4 Tildelt registreringsnummer |  |
+| 1.1.2 FCM-RON[^\*] |  | 1.2.2 Partinr. |  | 1.3.2 Adresse |  |
+| 1.1.3 Land |  | 1.2.3 FCM-RIN[^\*] |  | 1.3.3 Land/region |  |
+| 1.1.4 FCM-RFN[^\*] |  | 1.2.4 Annen informasjon |  | 1.3.4 Tildelt registreringsnummer |  |
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Avsnitt 2: Samsvar |  |  |  |  |
 | 2.1 Grunnlag for godkjenning eller driftstillatelse (kryss bare av i en rute) |  |  |  |  |
 |  |  |  |  |  |
-| 2.1.1 | ☐ | Beslutning om godkjenning | RAN\* |  |
-| 2.1.2 | ☐ | Materialgjenvinningsordning | RSN\* |  |
+| 2.1.1 | ☐ | Beslutning om godkjenning | RAN[^\*] |  |
+| 2.1.2 | ☐ | Materialgjenvinningsordning | RSN[^\*] |  |
 | 2.1.3 | ☐ | Ingen godkjenning eller materialgjenvinningsordning kreves |  |  |
-| 2.1.4 | ☐ | Ny teknologi | NTN\* |  |
+| 2.1.4 | ☐ | Ny teknologi | NTN[^\*] |  |
 | 2.2 Resultater av samsvarsvurderingen som angitt i vedlegg II tabell 3.1 for de obligatoriske kvalitetsvurderingstrinnene; bare obligatorisk dersom felt 2.1.1 er krysset av<br>Viktig: Det er ikke nødvendig å fylle ut felt 2.2.2–2.2.4, forutsatt at felt 2.2.5 er krysset av |  |  |  |  |
-| Trinn\*\* | Beslutningskriterier og resultat(er) |  | Partinummer |  |
+| Trinn[^\*\*] | Beslutningskriterier og resultat(er) |  | Partinummer |  |
 | 2.2.1 Utgående |  |  |  |  |
 | 2.2.2 Inngående |  |  |  |  |
 | 2.2.3 Innsatsmateriale |  |  |  |  |
@@ -4599,10 +4599,10 @@ Samsvarserklæring som skal brukes av materialgjenvinnere
 | 3.1 | Anvisninger til omdanningsforetak |  |  |
 | 3.1.1 | Høyeste materialgjenvunnet innhold (vektprosent) | % |  |
 | 3.1.2 | Nåværende materialgjenvunnet innhold (vektprosent) | % |  |
-| 3.1.3 | **►M2** Bruksbegrensninger\*\*\* **◄M2** |  |  |
+| 3.1.3 | **►M2** Bruksbegrensninger[^\*\*\*] **◄M2** |  |  |
 | 3.1.4 | Andre anvisninger |  |  |
 | 3.2 | Anvisninger til brukere nedover i forsyningskjeden, inkludert sluttbrukere |  |  |
-| 3.2.1 | **►M2** Bruksbegrensninger\*\*\* **◄M2** |  |  |
+| 3.2.1 | **►M2** Bruksbegrensninger[^\*\*\*] **◄M2** |  |  |
 | 3.2.2 | Sammendrag av merking |  |  |
 | 3.2.3 | Andre anvisninger |  |  |
 
@@ -4659,7 +4659,7 @@ Samsvarserklæring som skal brukes av omdanningsforetak dersom det omdannede pla
 | 3.2.5 | Liste over tilsatte stoffer med migrasjonsgrenser; rader legges til ved behov.<br>(Merknad: FCM-nummer og spesifikk migrasjonsgrense (SML) foreligger kanskje ikke for visse stoffer) | FCM-nr.\* | Annen betegnelse (CAS-nr., kjemisk betegnelse) | SMG\* (mg/kg næringsmiddel) |
 |  |  |  |  |  |
 |  |  |  |  |  |
-| 3.2.6 | Andre relevante opplysninger og anvisninger, inkludert i samsvar med nr. 7 og 9 i vedlegg IV til kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010)1 |  |  |  |
+| 3.2.6 | Andre relevante opplysninger og anvisninger, inkludert i samsvar med nr. 7 og 9 i vedlegg IV til kommisjonsforordning [(EU) nr. 10/2011](eu/32011r0010)[^1] |  |  |  |
 | 3.2.7 | Den materialgjenvunne plasten som omfattes av denne erklæringen, er innelukket i et lag i flerlags materialer eller gjenstander som omfattes av henholdsvis artikkel 13 eller 14 i forordning [(EU) nr. 10/2011](eu/32011r0010), og som inneholder plast framstilt i samsvar med nevnte forordning i ett eller flere andre lag. Det foreligger en separat samsvarserklæring i samsvar med artikkel 15 i den forordningen for det eller de lagene, som må tas i betraktning. |  |  | ☐ |
 
 |  |  |
@@ -4821,7 +4821,7 @@ Ettersom det ikke alltid er mulig å benytte næringsmidler for å prøve materi
 
 | *Næringsmiddeltype* | *Vedtatt klassifisering* | *Næringsmiddelsimulant* | *Forkortelse* |
 | --- | --- | --- | --- |
-| Vannholdige næringsmidler (pH > 4,5) | Næringsmidler som i henhold til rådsdirektiv [85/572/EØF](eu/31985l0572)1 skal omfattes av analyse bare med simulant A | Destillert vann eller vann av tilsvarende kvalitet | Simulant A |
+| Vannholdige næringsmidler (pH > 4,5) | Næringsmidler som i henhold til rådsdirektiv [85/572/EØF](eu/31985l0572)[^1] skal omfattes av analyse bare med simulant A | Destillert vann eller vann av tilsvarende kvalitet | Simulant A |
 | Sure næringsmidler (pH </= 4,5) | Næringsmidler som i henhold til rådsdirektiv [85/572/EØF](eu/31985l0572) skal omfattes av analyse bare med simulant B | 3 % (w/v) eddiksyre | Simulant B |
 | Alkoholholdige næringsmidler | Næringsmidler som i henhold til rådsdirektiv [85/572/EØF](eu/31985l0572) skal omfattes av analyse bare med simulant C | 10 % (v/v) etanol. Denne konsentrasjonen skal tilpasses næringsmidlets sanne alkoholstyrke dersom den overstiger 10 % (v/v) | Simulant C |
 | Fete næringsmidler | Næringsmidler som i henhold til rådsdirektiv [85/572/EØF](eu/31985l0572) skal omfattes av analyse bare med simulant D | Renset olivenolje eller andre simulanter for fete næringsmidler | Simulant D |
@@ -4935,10 +4935,10 @@ I tilfeller der de konvensjonelle vilkår for migrasjonsanalyse ikke samsvarer t
 | 20 °C < T </= 40 °C | 40 °C |
 | 40 °C < T </= 70 °C | 70 °C |
 | 70 °C < T </= 100 °C | 100 °C eller reflukstemperatur |
-| 100 °C < T </= 121 °C | 121 °C \* |
-| 121 °C < T </= 130 °C | 130 °C \* |
-| 130 °C < T </= 150 °C | 150 °C \* |
-| T > 150 °C | 175 °C \* |
+| 100 °C < T </= 121 °C | 121 °C [^\*] |
+| 121 °C < T </= 130 °C | 130 °C [^\*] |
+| 130 °C < T </= 150 °C | 150 °C [^\*] |
+| T > 150 °C | 175 °C [^\*] |
 
 \* Denne temperaturen skal brukes bare for simulant D. For simulant A, B eller C kan prøvingen erstattes med en prøving ved 100 °C eller ved reflukstemperatur i fire ganger så lang tid som tiden som velges i henhold til de generelle regler i nr. 1.
 
@@ -4962,22 +4962,22 @@ Som unntak fra nr. 1 er det mulig å utelate én eller to av erstatningsanalysen
 *Tabell 4*
 *Konvensjonelle vilkår for erstatningsanalyse*
 
-| *Vilkår for prøving med simulant D* | *Vilkår for prøving med isooktan* | *Vilkår for prøving med 95 % etanol* | *Vilkår for prøving med MPPO*\* |
+| *Vilkår for prøving med simulant D* | *Vilkår for prøving med isooktan* | *Vilkår for prøving med 95 % etanol* | *Vilkår for prøving med MPPO*[^\*] |
 | --- | --- | --- | --- |
 | 10 døgn ved 5 °C | 0,5 døgn ved 5 °C | 10 døgn ved 5 °C | – |
 | 10 døgn ved 20 °C | 1 døgn ved 20 °C | 10 døgn ved 20 °C | – |
 | 10 døgn ved 40 °C | 2 døgn ved 20 °C | 10 døgn ved 40 °C | – |
 | 2 timer ved 70 °C | 0,5 time ved 40 °C | 2,0 timer ved 60 °C | – |
-| 0,5 time ved 100 °C | 0,5 time ved 60 °C \*\* | 2,5 timer ved 60 °C | 0,5 time ved 100 °C |
-| 1 time ved 100 °C | 1 time ved 60 °C \*\* | 3,0 timer ved 60 °C \*\* | 1 time ved 100 °C |
-| 2 timer ved 100 °C | 1,5 time ved 60 °C \*\* | 3,5 timer ved 60 °C \*\* | 2 timer ved 100 °C |
-| 0,5 time ved 121 °C | 1,5 time ved 60 °C \*\* | 3,5 timer ved 60 °C \*\* | 0,5 time ved 121 °C |
-| 1 time ved 121 °C | 2 timer ved 60 °C \*\* | 4,0 timer ved 60 °C \*\* | 1 time ved 121 °C |
-| 2 timer ved 121 °C | 2,5 timer ved 60 °C \*\* | 4,5 timer ved 60 °C \*\* | 2 timer ved 121 °C |
-| 0,5 time ved 130 °C | 2,0 timer ved 60 °C \*\* | 4,0 timer ved 60 °C \*\* | 0,5 time ved 130 °C |
-| 1 time ved 130 °C | 2,5 timer ved 60 °C \*\* | 4,5 timer ved 60 °C \*\* | 1 time ved 130 °C |
-| 2 timer ved 150 °C | 3,0 timer ved 60 °C \*\* | 5,0 timer ved 60 °C \*\* | 2 timer ved 150 °C |
-| 2 timer ved 175 °C | 4,0 timer ved 60 °C \*\* | 6,0 timer ved 60 °C \*\* | 2 timer ved 175 °C |
+| 0,5 time ved 100 °C | 0,5 time ved 60 °C [^\*\*] | 2,5 timer ved 60 °C | 0,5 time ved 100 °C |
+| 1 time ved 100 °C | 1 time ved 60 °C [^\*\*] | 3,0 timer ved 60 °C [^\*\*] | 1 time ved 100 °C |
+| 2 timer ved 100 °C | 1,5 time ved 60 °C [^\*\*] | 3,5 timer ved 60 °C [^\*\*] | 2 timer ved 100 °C |
+| 0,5 time ved 121 °C | 1,5 time ved 60 °C [^\*\*] | 3,5 timer ved 60 °C [^\*\*] | 0,5 time ved 121 °C |
+| 1 time ved 121 °C | 2 timer ved 60 °C [^\*\*] | 4,0 timer ved 60 °C [^\*\*] | 1 time ved 121 °C |
+| 2 timer ved 121 °C | 2,5 timer ved 60 °C [^\*\*] | 4,5 timer ved 60 °C [^\*\*] | 2 timer ved 121 °C |
+| 0,5 time ved 130 °C | 2,0 timer ved 60 °C [^\*\*] | 4,0 timer ved 60 °C [^\*\*] | 0,5 time ved 130 °C |
+| 1 time ved 130 °C | 2,5 timer ved 60 °C [^\*\*] | 4,5 timer ved 60 °C [^\*\*] | 1 time ved 130 °C |
+| 2 timer ved 150 °C | 3,0 timer ved 60 °C [^\*\*] | 5,0 timer ved 60 °C [^\*\*] | 2 timer ved 150 °C |
+| 2 timer ved 175 °C | 4,0 timer ved 60 °C [^\*\*] | 6,0 timer ved 60 °C [^\*\*] | 2 timer ved 175 °C |
 
 \* MPPO = modifisert polyfenylenoksid
 
@@ -5085,7 +5085,7 @@ M. FICHBACH
 
 *Formann*
 
-### VEDLEGGi
+### VEDLEGG[^i]
 LISTE OVER TESTLØSNINGER
 
 i Fra 31. desember 2012 vil vedlegget erstattes av artikkel 20 i KOMMISJONSFORORDNING [(EU) nr. 10/2011](eu/32011r0010) av 14. januar 2011 om plastmaterialer og plastgjenstander beregnet på å komme i kontakt med næringsmidler
@@ -5099,7 +5099,7 @@ i Fra 31. desember 2012 vil vedlegget erstattes av artikkel 20 i KOMMISJONSFOROR
 - Testløsning C:
 - 15 % (v/v) etanol i vannløsning,
 - Testløsning D:
-- renset olivenolje1 dersom det av tekniske årsaker som har sammenheng med analysemetoden er nødvendig å bruke andre testløsninger, skal det i stedet for olivenolje brukes en blanding av syntetisk triglyserid2 eller solsikkeolje.3
+- renset olivenolje[^1] dersom det av tekniske årsaker som har sammenheng med analysemetoden er nødvendig å bruke andre testløsninger, skal det i stedet for olivenolje brukes en blanding av syntetisk triglyserid[^2] eller solsikkeolje.[^3]
 
 2\. For hvert næringsmiddel eller hver næringsmiddelgruppe skal bare den eller de testløsninger som er angitt med tegnet X brukes, og for hver testløsning brukes en ny prøve av materialet eller gjenstanden. Når tegnet X ikke er angitt, betyr det at der for denne posisjon eller underposisjon ikke er påkrevd med noen migrasjonsanalyse.
 
@@ -5184,8 +5184,8 @@ TABELL
 | 01. | Drikkevarer |  |  |  |  |  |
 | 01.01 | Alkoholfrie drikkevarer eller alkoholholdige drikkevarer med et alkoholinnhold på mindre enn 5 vol %: Vann, eplesider, fruktjuice eller grønnsakjuice av normal styrke eller konsentrert, most, fruktnektar, limonade, mineralvann, sirup, bitter drikk, uttrekk, kaffe, te, sjokoladedrikk, øl og andre |  | X(a) | X(a) |  |  |
 | 01.02 | Alkoholholdige drikkevarer med et alkoholinnhold på 5 vol % eller mer: Drikkevarer nevnt under posisjon 01.01, men med et alkoholinnhold på 5 % eller mer: |  |  |  |  |  |
-|  | Vin, brennevin, likør |  |  | X\* | X\*\* |  |
-| 01.03 | Forskjellig: udenaturert etanol |  |  | X\* | X\*\* |  |
+|  | Vin, brennevin, likør |  |  | X[^\*] | X[^\*\*] |  |
+| 01.03 | Forskjellig: udenaturert etanol |  |  | X[^\*] | X[^\*\*] |  |
 | 02. | Korn, kornprodukter, fint bakverk, baker- og konditorvarer |  |  |  |  |  |
 | 02.01 | Stivelse |  |  |  |  |  |
 | 02.02 | Ubearbeidet korn, puffet korn, kornflak (inkludert popkorn, cornflakes og annet) |  |  |  |  |  |
@@ -5218,11 +5218,11 @@ TABELL
 |  | C. Hermetisk frukt (syltetøy og lignende produkter – hele frukter eller i stykker eller som mel eller pulver, oppbevart i lake): |  |  |  |  |  |
 |  | I. I vandig løsning |  | X(a) | X(a) |  |  |
 |  | II. I oljeholdig løsning |  | X(a) | X(a) |  | X |
-|  | III. I alkoholholdig løsning (>/= 5 vol%) |  |  | X\* | X |  |
+|  | III. I alkoholholdig løsning (>/= 5 vol%) |  |  | X[^\*] | X |  |
 | 04.03 | Nøtter (peanøtter, kastanjer, mandler, hasselnøtter, valnøtter, pinjenøtter og annet): |  |  |  |  |  |
 |  | A. Skrelt, tørket |  |  |  |  |  |
-|  | B. Skrelt og ristet |  |  |  |  | X/5\*\* |
-|  | C. I pasta- eller kremform |  | X |  |  | X/3\*\* |
+|  | B. Skrelt og ristet |  |  |  |  | X/5[^\*\*] |
+|  | C. I pasta- eller kremform |  | X |  |  | X/3[^\*\*] |
 | 04.04 | Hele grønnsaker, ferske eller kjølte |  |  |  |  |  |
 | 04.05 | Bearbeidede grønnsaker: |  |  |  |  |  |
 |  | A. Tørkede eller dehydrerte grønnsaker, hele eller som mel eller pulver |  |  |  |  |  |
@@ -5230,14 +5230,14 @@ TABELL
 |  | C. Hermetiske grønnsaker: |  |  |  |  |  |
 |  | I. I vannholdig løsning |  | X(a) | X(a) |  |  |
 |  | II. I oljeholdig løsning |  | X(a) | X(a)X |  |  |
-|  | III. I alkoholholdig løsning (>/= 5 vol%) |  |  | X\* | X |  |
+|  | III. I alkoholholdig løsning (>/= 5 vol%) |  |  | X[^\*] | X |  |
 | 05. | Fett og oljer |  |  |  |  |  |
 | 05.01 | Animalsk og vegetabilsk fett og oljer, i naturlig form eller bearbeidet (inkludert kakaosmør, smult, smeltet smør) |  |  |  |  | X |
 | 05.02 | Margarin, smør og andre fettstoffer laget av vannemulsjoner i olje |  |  |  |  | X/2 |
 | 06. | Animalske produkter og egg |  |  |  |  |  |
 | 06.01 | Fisk: |  |  |  |  |  |
-|  | A. Fersk, kjølt, saltet, røkt |  | X | X/3\* |  |  |
-|  | B. I pastaform |  |  | X |  | X/3\* |
+|  | A. Fersk, kjølt, saltet, røkt |  | X | X/3[^\*] |  |  |
+|  | B. I pastaform |  |  | X |  | X/3[^\*] |
 | 06.02 | Krepsdyr og bløtdyr (inkludert østers, muslinger, snegler) som ikke på naturlig måte beskyttes av sine skall |  | X |  |  |  |
 | 06.03 | Kjøtt av alle dyrearter (inkludert fjærfe og vilt): |  |  |  |  |  |
 |  | A. Ferskt, kjølt, saltet, røkt |  | X |  |  | X/4 |
@@ -5263,7 +5263,7 @@ TABELL
 | 07.03 | Fløte og rømme |  |  | X(a) |  | X(b) |
 | 07.04 | Oster: |  |  |  |  |  |
 |  | A. Hel ost med skorpe |  |  |  |  |  |
-|  | B. Alle andre |  | X(a) | X(a) |  | X/33 |
+|  | B. Alle andre |  | X(a) | X(a) |  | X/3[^3] |
 | 07.05 | Løpe: |  |  |  |  |  |
 |  | A. Flytende eller i pastaform |  | X(a) | X(a) |  |  |
 | ◄**M1** | B. Som pulver eller tørket |  |  |  |  |  |
@@ -5287,7 +5287,7 @@ TABELL
 |  | A. Uten fettstoffer på overflaten |  | X(a) | X (a) |  |  |
 |  | B. Majones, sauser laget av majones, salat- dressing og andre sausemulsjoner (emulsjoner av typen olje i vann) |  | X(a) | X(a) |  | X/3 |
 |  | C. Saus som inneholder olje og vann som danner to avgrensede lag |  | X(a) | X(a) | X |  |
-| 08.07 | Sennep (unntatt tørr sennep under posisjon 08.17) |  | X(a) | X(a) |  | X/3\* |
+| 08.07 | Sennep (unntatt tørr sennep under posisjon 08.17) |  | X(a) | X(a) |  | X/3[^\*] |
 | 08.08 | Smørbrød, sandwich, ristet brød eller loff og lignende med all slags pålegg: |  |  |  |  |  |
 |  | A. Med fettstoffer på overflaten |  |  |  |  |  |
 |  | B. Annet |  |  |  | X/5 |  |
@@ -5296,10 +5296,10 @@ TABELL
 |  | A. Med fettstoffer på overflaten |  |  |  |  | X/5 |
 |  | B. Annet |  |  |  |  |  |
 | 08.11 | Fryst eller dypfryst mat |  |  |  |  |  |
-| 08.12 | Konsentrerte ekstrakter med et alkoholinnhold på 5 vol % eller mer |  |  | X\*\* | X |  |
+| 08.12 | Konsentrerte ekstrakter med et alkoholinnhold på 5 vol % eller mer |  |  | X[^\*\*] | X |  |
 | 08.13 | Kakao: |  |  |  |  |  |
-|  | A. Kakaopulver |  |  |  |  | X/53 |
-|  | B. Kakaosmør |  |  |  |  | X/33 |
+|  | A. Kakaopulver |  |  |  |  | X/5[^3] |
+|  | B. Kakaosmør |  |  |  |  | X/3[^3] |
 | 08.14 | Kaffe, brent eller ubrent, koffeinfri eller oppløselig, kaffeerstatninger, granulerte eller i pulver |  |  |  |  |  |
 | 08.15 | Flytende kaffeekstrakter |  | X |  |  |  |
 | 08.16 | Aromatiske urter og andre urter: |  |  |  |  |  |

@@ -15,7 +15,7 @@ xml_hash: "f6dd48228f69c29002c8a04badccbc73be7d8f3fe21fcf5de28e15069d5b1df7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Departementets myndighet etter [lov av 15. juni 2001 nr. 75](lov/2001-06-15-75) om veterinærer og annet dyrehelsepersonell [§ 34](lov/2001-06-15-75/§34) delegeres til Mattilsynet.
 
-Landbruksdepartementets delegering av 13. mai 20021 av myndighet etter [lov av 15. juni 2001 nr. 75](lov/2001-06-15-75) om veterinærer og annet [dyrehelsepersonell § 9, § 10](lov/2001-06-15-75/§10), [§ 11](lov/2001-06-15-75/§11), [§ 13](lov/2001-06-15-75/§13) tredje ledd, [§ 35](lov/2001-06-15-75/§35) og [§ 36](lov/2001-06-15-75/§36) til Statens dyrehelsetilsyn videreføres til Mattilsynet.
+Landbruksdepartementets delegering av 13. mai 2002[^1] av myndighet etter [lov av 15. juni 2001 nr. 75](lov/2001-06-15-75) om veterinærer og annet [dyrehelsepersonell § 9, § 10](lov/2001-06-15-75/§10), [§ 11](lov/2001-06-15-75/§11), [§ 13](lov/2001-06-15-75/§13) tredje ledd, [§ 35](lov/2001-06-15-75/§35) og [§ 36](lov/2001-06-15-75/§36) til Statens dyrehelsetilsyn videreføres til Mattilsynet.
 
 1 Ikke kunngjort i Norsk Lovtidend.
 

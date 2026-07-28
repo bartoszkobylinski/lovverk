@@ -15,7 +15,7 @@ xml_hash: "e109d0d7ce4148678f593d267680c7334978bd55b85bcdfb190e09f004219e5d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,7 @@ Loven skal anvendes i samsvar med internasjonale regler Norge er bundet av.
 
 ## § 16. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 1 Fra 19 okt 2020 iflg. [res. 9 okt 2020 nr. 2008](forskrift/2020-10-09-2008).
 

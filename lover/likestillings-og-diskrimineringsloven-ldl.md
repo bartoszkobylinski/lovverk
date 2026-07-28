@@ -15,7 +15,7 @@ xml_hash: "b3a1a07f7d996d4d8c3c98d3a4f66d8297253754fd4f36c81b905e1a6654703b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31992L0085"
@@ -315,7 +315,7 @@ Opplysningene kan bare gis i den utstrekning de er nødvendige for å undersøke
 
 ### § 26 c. Forankring i selskapers styre
 
-Styret i aksjeselskaper og allmennaksjeselskaper skal sørge for at plikten til aktivt likestillingsarbeid og plikten til å redegjøre for dette oppfylles i samsvar med [likestillings- og diskrimineringsloven §§ 26](lov/2017-06-16-51/§26) og [26 a](lov/2017-06-16-51/§26a) og [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).1
+Styret i aksjeselskaper og allmennaksjeselskaper skal sørge for at plikten til aktivt likestillingsarbeid og plikten til å redegjøre for dette oppfylles i samsvar med [likestillings- og diskrimineringsloven §§ 26](lov/2017-06-16-51/§26) og [26 a](lov/2017-06-16-51/§26a) og [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).[^1]
 
 > Tilføyd ved [lov 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)).
 
@@ -501,7 +501,7 @@ Digitaliseringsdirektoratet kan gi dispensasjon fra fristene dersom det vil vær
 
 ### § 42. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 21. juni 2013 nr. 58](lov/2013-06-21-58) om forbud mot diskriminering på grunn av seksuell orientering, kjønnsidentitet og kjønnsuttrykk, [lov 21. juni 2013 nr. 59](lov/2013-06-21-59) om likestilling mellom kjønnene, [lov 21. juni 2013 nr. 60](lov/2013-06-21-60) om forbud mot diskriminering på grunn av etnisitet, religion og livssyn og [lov 21. juni 2013 nr. 61](lov/2013-06-21-61) om forbud mot diskriminering på grunn av nedsatt funksjonsevne.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [lov 21. juni 2013 nr. 58](lov/2013-06-21-58) om forbud mot diskriminering på grunn av seksuell orientering, kjønnsidentitet og kjønnsuttrykk, [lov 21. juni 2013 nr. 59](lov/2013-06-21-59) om likestilling mellom kjønnene, [lov 21. juni 2013 nr. 60](lov/2013-06-21-60) om forbud mot diskriminering på grunn av etnisitet, religion og livssyn og [lov 21. juni 2013 nr. 61](lov/2013-06-21-61) om forbud mot diskriminering på grunn av nedsatt funksjonsevne.
 
 1 Fra 1 jan 2018 iflg. [res. 16 juni 2017 nr. 751](forskrift/2017-06-16-751).
 

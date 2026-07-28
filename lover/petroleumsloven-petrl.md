@@ -15,7 +15,7 @@ xml_hash: "beca4059e1ab6bb79184529f7c327731a081daaa2b5f5a3568da00a232c4b1a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31994L0022"
@@ -422,7 +422,7 @@ Ved statlig overtagelse skal innretningen med tilhørende utstyr være i en slik
 
 ### § 6-1. Registrering av tillatelser
 
-Departementet1 skal føre et register over alle utvinningstillatelser, Petroleumsregisteret. Departementet kan ved forskrift bestemme at registeret også skal omfatte tillatelse som omhandlet i [§ 4-3](lov/1996-11-29-72/§4-3).
+Departementet[^1] skal føre et register over alle utvinningstillatelser, Petroleumsregisteret. Departementet kan ved forskrift bestemme at registeret også skal omfatte tillatelse som omhandlet i [§ 4-3](lov/1996-11-29-72/§4-3).
 
 I registeret gis hver tillatelse eget blad. Departementet skal føre dagbok over de dokumenter som skal registreres. Departementet kan gi nærmere forskrifter om hvordan dagbok og register skal innrettes og føres, om meldeplikt for rettighetshaver ved overdragelse og andre endringer vedrørende tillatelsen og om fremgangsmåten for øvrig ved registreringen. Herunder kan det også gis bestemmelser om hvilke gebyrer som kan kreves.
 
@@ -894,13 +894,13 @@ Kongen kan ved enkeltvedtak eller forskrift fastsette bestemmelser til gjennomf�
 
 ### § 12-1. Ikrafttredelse m.v.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at enkelte bestemmelser i loven skal tre i kraft til ulik tid.
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at enkelte bestemmelser i loven skal tre i kraft til ulik tid.
 
 [§ 3-9](lov/1996-11-29-72/§3-9) første, annet og tredje ledd gjelder ikke utvinningstillatelser gitt i medhold av kgl.res. 9. april 1965 om utforsking og utnyttelse av undersjøiske petroleumsforekomster (1965-resolusjonen). Slike utvinningstillatelser har gyldighet for inntil 46 år fra det tidspunkt tillatelsen ble gitt.
 
 [§ 4-5](lov/1996-11-29-72/§4-5) gjelder ikke utvinningstillatelser som er gitt før 1. juli 1985.
 
-Departementet kan fravike bestemmelsene i [§ 4-9](lov/1996-11-29-72/§4-9)2 annet ledd om utvinningsområdets avskipningspunkt overfor utvinningstillatelser som er gitt i medhold av kgl.res. 9. april 1965 om utforsking og utnyttelse av undersjøiske petroleumsforekomster (1965-resolusjonen).
+Departementet kan fravike bestemmelsene i [§ 4-9](lov/1996-11-29-72/§4-9)[^2] annet ledd om utvinningsområdets avskipningspunkt overfor utvinningstillatelser som er gitt i medhold av kgl.res. 9. april 1965 om utforsking og utnyttelse av undersjøiske petroleumsforekomster (1965-resolusjonen).
 
 Forskrifter gitt i medhold av tidligere [lov av 21. juni 1963 nr. 12](lov/1963-06-21-12) om utforskning og utnyttelse av undersjøiske naturforekomster eller [lov av 22. mars 1985 nr. 11](lov/1985-03-22-11) om petroleumsvirksomhet eller med hjemmel i forskrifter gitt i medhold av disse lovene gjelder for så vidt ikke annet er eller blir bestemt.
 

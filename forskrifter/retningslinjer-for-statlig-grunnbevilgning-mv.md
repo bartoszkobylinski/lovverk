@@ -15,14 +15,14 @@ xml_hash: "3661f37f4e6c459d5e916a174f92f175352920624fb8f6480fda4031aa47a4b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Retningslinjer for statlig grunnbevilgning til forskningsinstitutter og forskningskonsern
 
-Retningslinjene erstatter tidligere retningslinjer fastsatt av daværende Kirke-, utdannings- og forskningsdepartement i 19941 med endringer av 13. oktober 2003.
+Retningslinjene erstatter tidligere retningslinjer fastsatt av daværende Kirke-, utdannings- og forskningsdepartement i 1994[^1] med endringer av 13. oktober 2003.
 
 1 Ikke kunngjort i Norsk Lovtidend.
 

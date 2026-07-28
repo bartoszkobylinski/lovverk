@@ -15,7 +15,7 @@ xml_hash: "38e88cc6b2a6d5ba768d5f61e2b2fe337d18e7ce1bc2e8a4a1b56280aa20d360"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,7 +23,7 @@ eu_basis: []
 # Vedtak om utpeking av Arbeidstilsynet som koordinerende etat for virksomhetsrettet HMS-tilsyn.
 
 1. Arbeidstilsynet utpekes som koordinerende instans for HMS-tilsyn med virksomhetene på land fra våren 2005, jf. dog [kgl.res. 19. desember 2003 nr. 1592](forskrift/2003-12-19-1592) om Petroleumstilsynet, samt den planlagte kgl.res. om Direktoratet for samfunnssikkerhet og beredskaps koordineringsrolle.
-2. Arbeidstilsynets koordineringsrolle skal gjennomføres i samsvar med beskrivelsen ovenfor, jf. pkt. 4.1
+2. Arbeidstilsynets koordineringsrolle skal gjennomføres i samsvar med beskrivelsen ovenfor, jf. pkt. 4.[^1]
 
 1 Det vises her til foredraget, som er gjengitt nedenfor.
 

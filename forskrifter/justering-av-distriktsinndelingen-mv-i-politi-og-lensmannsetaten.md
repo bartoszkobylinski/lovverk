@@ -15,7 +15,7 @@ xml_hash: "c0646e57184688f55ba1d99166a7fb40fbd2352503a7cc3f96b2de708dc7b549"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,6 +28,6 @@ Det geografiske området for Trøndelag politidistrikt utvides til også å omfa
 
 ## II
 
-Vedtaket i den kongelige resolusjonen her trer i kraft 1. januar 2019.1
+Vedtaket i den kongelige resolusjonen her trer i kraft 1. januar 2019.[^1]
 
 1 Se [vedtak 12. oktober 2018 nr. 1575](forskrift/2018-10-12-1575) hvor iverksettelsen av overføringen utsettes, Lovdatas anm.

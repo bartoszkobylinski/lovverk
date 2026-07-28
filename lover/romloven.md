@@ -15,7 +15,7 @@ xml_hash: "a7cc2d154d69267f163de8abdbaeb39dfdc6815e0e1e7e9f457f1b7b696095c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -279,7 +279,7 @@ Departementet kan gi forskrift om utmålingen av overtredelsesgebyr.
 
 ### § 28. Ikrafttredelse og overgangsregler
 
-Loven trer i kraft fra det tidspunktet1 Kongen bestemmer.
+Loven trer i kraft fra det tidspunktet[^1] Kongen bestemmer.
 
 Enhver som utøver romaktivitet ved lovens ikrafttredelse, må søke om tillatelse innen 12 måneder fra lovens ikrafttredelse for å kunne fortsette aktiviteten. Departementet kan i enkeltvedtak fastsette unntak fra søknadsplikten.
 

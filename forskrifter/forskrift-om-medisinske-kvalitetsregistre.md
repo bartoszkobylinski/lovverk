@@ -15,7 +15,7 @@ xml_hash: "20a6e59f839dc94c7f577e60e489a0cf23e6313d8e87e1cf4b298d5765cb5c16"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -233,6 +233,6 @@ Bare spesielt autoriserte personer som har behov for det i arbeidet, skal ha til
 
 ### § 6-1. Ikrafttredelse
 
-Forskriften gjelder fra den tid departementet bestemmer.1 Departementet kan sette i kraft ulike deler av forskriften til ulike tider.
+Forskriften gjelder fra den tid departementet bestemmer.[^1] Departementet kan sette i kraft ulike deler av forskriften til ulike tider.
 
 1 I kraft 1. september 2019 iflg. [vedtak 26 juni 2019 nr. 912](forskrift/2019-06-26-912).

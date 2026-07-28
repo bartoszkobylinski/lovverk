@@ -15,7 +15,7 @@ xml_hash: "f8c18a94b3f6cad616a2f131e939be4e9cb4617aa7050715ab34a122bc38ed20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -408,6 +408,6 @@ Styret for Samisk høgskole gir med hjemmel i denne forskrift delegasjon til Sam
 
 ## § 28. Ikrafttredelse
 
-Denne forskrift trer i kraft den 1. mars 2011. Fra samme dato oppheves Samisk høgskoles forskrift om eksamen og sluttvurdering, med siste endringer godkjent i Studieutvalgets møte 1. mars 2007 i sak OAL 16/07.1
+Denne forskrift trer i kraft den 1. mars 2011. Fra samme dato oppheves Samisk høgskoles forskrift om eksamen og sluttvurdering, med siste endringer godkjent i Studieutvalgets møte 1. mars 2007 i sak OAL 16/07.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend.

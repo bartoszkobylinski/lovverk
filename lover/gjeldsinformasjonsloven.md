@@ -15,7 +15,7 @@ xml_hash: "0ff9203c99e6cff52fbebd94364043e4ceef747e805b51905359ece571f752db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -207,7 +207,7 @@ Departementet kan i forskrift gi nærmere regler om forholdet til [personopplysn
 
 ### § 20. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766).
 

@@ -16,7 +16,7 @@ xml_hash: "a291953a75622859e90bd509e07c9bcbf88d65cc60982dd30bbf5da3fabf5e79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -215,7 +215,7 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 29, artikkel 31 nr. 5, artikkel 32 nr. 2, artikkel 37 nr. 5, artikkel 39, artikkel 41 nr. 3, artikkel 42 nr. 6 og artikkel 280 nr. 4, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 29, artikkel 31 nr. 5, artikkel 32 nr. 2, artikkel 37 nr. 5, artikkel 39, artikkel 41 nr. 3, artikkel 42 nr. 6 og artikkel 280 nr. 4, og
 
 ut fra følgende betraktninger:
 
@@ -232,12 +232,12 @@ ut fra følgende betraktninger:
 11. De særlige utryddelses- og overvåkingsprogrammene som fastsettes i denne forordningen, har som formål å understøtte helsekravene ved visse forflytninger av dyr og produkter av animalsk opprinnelse innenfor Unionen, og i visse tilfeller av dyr og produkter av animalsk opprinnelse som innføres til Unionen.
 12. Dyrehelseforordningen krever at regler for listeførte sykdommer får anvendelse på listeførte arter. Overvåking er kanskje ikke relevant for alle kategorier av dyr av listeførte arter, særlig når det gjelder viltlevende dyr eller visse kategorier av holdte dyr. I denne forordningen bør det derfor fastsettes regler for å angi hvilken målpopulasjon som skal omfattes av overvåking. Det bør også være mulig å utvide målpopulasjonen til også å omfatte holdte arter som ikke er listeført, for å sikre tidlig påvisning av nye sykdommer.
 13. Unntak bør også gjøre det mulig å ytterligere begrense målpopulasjoner av landdyr for særlige overvåkingsformål, det vil si i) Unionens overvåkingsprogrammer, ii) obligatoriske eller frivillige utryddelsesprogrammer, og iii) overvåkingsbaserte krav til dyrehelse ved forflytning innenfor Unionen eller ved innførsel til Unionen.
-14. Diagnostiske metoder og den etterfølgende prøvetakingen for å utføre dem, samt teknikkene, valideringen og fortolkningen, er av svært teknisk art og endres ofte som følge av utviklingen i vitenskapelige standarder. For å sikre at reglene for diagnostiske metoder er oppdaterte bør de på en fleksibel måte angi hvilke metoder som skal brukes, og hvordan de skal brukes. Når det gjelder dyresykdommer, finnes det forskjellige mulige kilder til vitenskapelige standarder for diagnostiske metoder. Det er derfor viktig at det angis hvilken hierarkisk rekkefølge metodene skal vurderes i, samtidig som det tas hensyn til de generelle prinsippene for prøvetaking, analyser, tester og diagnostisering fastsatt i europaparlaments- og rådsforordning [(EU) nr. 2017/625](eu/32017r0625)2.
+14. Diagnostiske metoder og den etterfølgende prøvetakingen for å utføre dem, samt teknikkene, valideringen og fortolkningen, er av svært teknisk art og endres ofte som følge av utviklingen i vitenskapelige standarder. For å sikre at reglene for diagnostiske metoder er oppdaterte bør de på en fleksibel måte angi hvilke metoder som skal brukes, og hvordan de skal brukes. Når det gjelder dyresykdommer, finnes det forskjellige mulige kilder til vitenskapelige standarder for diagnostiske metoder. Det er derfor viktig at det angis hvilken hierarkisk rekkefølge metodene skal vurderes i, samtidig som det tas hensyn til de generelle prinsippene for prøvetaking, analyser, tester og diagnostisering fastsatt i europaparlaments- og rådsforordning [(EU) nr. 2017/625](eu/32017r0625)[^2].
 15. For å sikre optimal bruk av alle ressurser og unngå unødvendige administrative byrder og kostnader for de driftsansvarlige og vedkommende myndigheter, bør påvisningen av listeførte og nye sykdommer bygge på informasjonskilder der opplysningene er innsamlet ved offentlige kontroller og annen offentlig virksomhet som ikke primært er rettet mot overvåking av disse sykdommene.
 16. Bekreftelse av en sykdom i henhold til sykdommens kasusdefinisjon er vedkommende myndighets ansvar. Den bør understøttes av hensiktsmessige undersøkelser for å bekrefte eller utelukke forekomst av en mistenkt sykdom. Slike undersøkelser er relevante når bekreftet sykdom utløser tiltak for sykdomsbekjempelse, samt under visse andre omstendigheter, avhengig av følgene av at sykdommen er bekreftet. Det er derfor viktig at det i denne forordningen fastsettes ytterligere omstendigheter når det er påkrevd med bekreftelse av sykdommen.
 17. Definisjonene av et mistenkt tilfelle og et bekreftet tilfelle av en listeført sykdom og, når det er relevant, en ny sykdom, er av stor betydning. De gjør det mulig for driftsansvarlige, veterinærer og andre berørte parter som er involvert i overvåking, å identifisere under hvilke omstendigheter det er nødvendig å underrette vedkommende myndighet, og når vedkommende myndighet skal iverksette tiltak for sykdomsbekjempelse. Det er derfor nødvendig å fastsette generelle kriterier for å definere et mistenkt tilfelle og et bekreftet tilfelle, og ved behov fastsette sykdomsspesifikke definisjoner ut fra visse sykdommers særlige kjennetegn.
 18. Et unionsovervåkingsprogram er et overvåkingsprogram som er relevant for hele Unionen. Slike programmer kreves for å sikre større grad av harmonisering i overvåkingen av en bestemt sykdom i hele Unionen på grunn av de særlige utfordringene denne sykdommen utgjør for menneskers eller dyrs helse. Det bør derfor fastsettes hvilke kriterier som sykdommer som kan omfattes av Unionens overvåkingsprogrammer, bør oppfylle.
-19. Kommisjonsbeslutning [2010/367/EU](eu/32010d0367)3 fastsetter minstekrav til overvåkingsprogrammer for aviær influensa hos fjørfe og viltlevende fugler, og vedleggene inneholder tekniske retningslinjer. Denne forordningen bør inneholde tilsvarende tekniske retningslinjer i et vedlegg. Detaljnivået i denne forordningen er imidlertid lavere, for å sikre gode muligheter for tilpasning til endringer i situasjonen med hensyn til overvåking av aviær influensa. De tekniske kravene til Unionens overvåkingsprogram for aviær influensa fokuserer derfor utelukkende på målene, virkeområdet og de metodiske prinsippene som skal følges.
+19. Kommisjonsbeslutning [2010/367/EU](eu/32010d0367)[^3] fastsetter minstekrav til overvåkingsprogrammer for aviær influensa hos fjørfe og viltlevende fugler, og vedleggene inneholder tekniske retningslinjer. Denne forordningen bør inneholde tilsvarende tekniske retningslinjer i et vedlegg. Detaljnivået i denne forordningen er imidlertid lavere, for å sikre gode muligheter for tilpasning til endringer i situasjonen med hensyn til overvåking av aviær influensa. De tekniske kravene til Unionens overvåkingsprogram for aviær influensa fokuserer derfor utelukkende på målene, virkeområdet og de metodiske prinsippene som skal følges.
 20. Dyrehelseforordningen fastsetter regler for bruk av obligatoriske og frivillige utryddelsesprogrammer for kategori B- og kategori C-sykdommer i medlemsstatene. Disse sykdommene, eller grupper av disse sykdommene, har sine egne kjennetegn. Utryddelsen av dem bør være basert på en strategi for sykdomsbekjempelse som er spesifikk for den aktuelle sykdommen. Denne strategien bør minst omfatte i) den overvåkingen som må gjennomføres for å oppnå sykdomsfri status som det endelige målet, ii) tidsfristen, iii) en definisjon av dyrepopulasjonen som omfattes av utryddelsesprogrammet, iv) territoriet der utryddelsesprogrammet skal gjennomføres, og v) særlige sykdomsforebyggings- og bekjempelsestiltak som skal gjelde for sykdommen under utryddelsesfasen.
 21. Dersom territoriet der et utryddelsesprogram skal gjennomføres, omfatter medlemsstatens ytre grense, bør vedkommende myndighet etterstrebe å håndtere risikoen for at sykdommen innføres fra områder utenfor medlemsstatens grenser.
 22. Formålet med utryddelsesprogrammet er å oppnå sykdomsfri status i det territoriet som omfattes av programmet. Når det gjelder landdyr, bør programmet ideelt sett omfatte hele territoriet i den medlemsstaten der sykdommen forekommer. Dersom dette ikke er mulig, bør det defineres et minsteområde som kan godtas. Når det gjelder områdets minsteareal, bør det tas hensyn til erfaringene fra tidligere utryddelsesprogrammer, og det bør gis fleksibilitet avhengig av sykdommens særlige kjennetegn.
@@ -248,11 +248,11 @@ ut fra følgende betraktninger:
 27. Hovedansvaret for å oppnå og opprettholde sykdomsfri status for et anlegg ligger hos den driftsansvarlige, ettersom det er denne som i hovedsak drar nytte av fordelene knyttet til sykdomsfri status. Den driftsansvarlige bør derfor oppfylle visse forpliktelser for å kunne få tildelt og opprettholde sykdomsfri status.
 28. Når den driftsansvarlige har oppfylt de generelle og sykdomsspesifikke kriteriene for å oppnå sykdomsfri status, er det opp til vedkommende myndighet å tildele denne statusen. Når disse spesifikke kriteriene ikke lenger er oppfylt, er det også opp til vedkommende myndighet enten å suspendere eller tilbakekalle statusen.
 29. De driftsansvarliges og de vedkommende myndighetenes forpliktelser i forbindelse med utryddelsesprogrammene bør dessuten ved behov beskrives nærmere med hensyn til den spesifikke sykdomsprofilen. De sykdomsspesifikke kravene er av teknisk art og er derfor fastsatt for hver enkelt sykdom i vedleggene til denne forordningen.
-30. I kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)4 er infeksjon med *Brucella abortus*, *B. melitensis* og *B. suis* og infeksjon med *Mycobacterium tuberculosis*-kompleks listeført for obligatoriske utryddelsesprogrammer, mens enzootisk bovin leukose, infeksjon med pseudorabiesvirus, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt og bovin virusdiaré er listeført for frivillige utryddelsesprogrammer. For disse sykdommene bør utryddelsesprogrammene være basert på tildeling av sykdomsfri status til anlegg.
+30. I kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)[^4] er infeksjon med *Brucella abortus*, *B. melitensis* og *B. suis* og infeksjon med *Mycobacterium tuberculosis*-kompleks listeført for obligatoriske utryddelsesprogrammer, mens enzootisk bovin leukose, infeksjon med pseudorabiesvirus, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt og bovin virusdiaré er listeført for frivillige utryddelsesprogrammer. For disse sykdommene bør utryddelsesprogrammene være basert på tildeling av sykdomsfri status til anlegg.
 31. Utryddelsesprogrammer basert på tildeling av sykdomsfri status på anleggsnivå bør omfatte alle anlegg der det holdes dyr fra målpopulasjonen. Vedkommende myndighet bør imidlertid ha mulighet til å utelukke visse bestemte typer anlegg og slakterier fra utryddelsesprogrammet, forutsatt at det iverksettes passende risikoreduserende tiltak.
 32. Når det gjelder utryddelsesprogrammer basert på tildeling av sykdomsfri status på anleggsnivå, bør vedkommende myndighet ha mulighet til å tildele forskjellige epidemiologiske enheter ulik helsestatus.
 33. Når det gjelder landdyr, er kravene om å dokumentere sykdomsfri status på anleggsnivå basert på fravær av infeksjon, støttet av test- og overvåkingsordningen, av vilkårene for innførsel av dyr og avlsmateriale i anlegg og, ved behov, av restriksjoner på bruk av vaksinasjon. Når vilkårene for opprettholdelse av sykdomsfri status ikke lenger er oppfylt, gjelder særlige krav for suspensjon, tilbakekalling og gjeninnføring av denne statusen. På grunn av sin tekniske art er de sykdomsspesifikke, detaljerte kravene og listen over diagnostiske metoder som skal brukes ved tildeling og opprettholdelse av statusen, fastsatt i vedleggene.
-34. Vilkårene for tildeling, opprettholdelse, suspensjon og tilbakekalling av sykdomsfri status på anleggsnivå ble fastsatt i følgende EU-regler som gjaldt før denne forordningens anvendelsesdato: Rådsdirektiv [64/432/EØF](eu/31964l0432)5 for bovin brucellose og bovin tuberkulose samt rådsdirektiv [91/68/EØF](eu/31991l0068)6 for brucellose hos sau og geit. Disse bestemmelsene ble opphevet ved dyrehelseforordningen. Ved delegert kommisjonsforordning [(EU) 2018/1629](eu/32018r1629)7 ble også virkeområdet for sykdomsagenser som forårsaker brucellose og bovin tuberkulose, brakt i samsvar med Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr8 («helseregelverket for landdyr»). Det omfatter nå infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* samt infeksjon med *Mycobacterium tuberculosis*-kompleks. De tekniske kravene knyttet til status for disse sykdommene bør derfor revideres for å bringe dem i samsvar med helseregelverket for landdyr, samtidig som det tas hensyn til erfaringene fra tidligere utryddelsesprogrammer for disse sykdommene.
+34. Vilkårene for tildeling, opprettholdelse, suspensjon og tilbakekalling av sykdomsfri status på anleggsnivå ble fastsatt i følgende EU-regler som gjaldt før denne forordningens anvendelsesdato: Rådsdirektiv [64/432/EØF](eu/31964l0432)[^5] for bovin brucellose og bovin tuberkulose samt rådsdirektiv [91/68/EØF](eu/31991l0068)[^6] for brucellose hos sau og geit. Disse bestemmelsene ble opphevet ved dyrehelseforordningen. Ved delegert kommisjonsforordning [(EU) 2018/1629](eu/32018r1629)[^7] ble også virkeområdet for sykdomsagenser som forårsaker brucellose og bovin tuberkulose, brakt i samsvar med Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr[^8] («helseregelverket for landdyr»). Det omfatter nå infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* samt infeksjon med *Mycobacterium tuberculosis*-kompleks. De tekniske kravene knyttet til status for disse sykdommene bør derfor revideres for å bringe dem i samsvar med helseregelverket for landdyr, samtidig som det tas hensyn til erfaringene fra tidligere utryddelsesprogrammer for disse sykdommene.
 35. Når det gjelder utryddelsesprogrammer for sykdom hos landdyr basert på tildeling av sykdomsfri status på anleggsnivå, bør vedkommende myndighet dersom en sykdom er mistenkt eller bekreftet, iverksette tiltak for å hindre at den sprer seg. Disse tiltakene bør iverksettes hovedsakelig i anlegget der det mistenkte tilfellet holdes, men vedkommende myndighet bør ha mulighet til å utvide tiltakene til andre dyr eller anlegg når det er risiko for spredning av sykdommen.
 36. Når vedkommende myndighet iverksetter tiltak for sykdomsbekjempelse som reaksjon på et mistenkt eller bekreftet tilfelle, bør den innføre visse forbud mot forflytning av dyr. Vedkommende myndighet bør imidlertid også ha mulighet til å tillate forflytning av visse dyr fra anlegget der et mistenkt eller bekreftet tilfelle holdes, for å ta hensyn til dyrevelferd og fremme bærekraftige tiltak for sykdomsbekjempelse.
 37. Etter at et tilfelle er blitt bekreftet, bør minst alle dyr som anerkjennes å være bekreftede tilfeller, fjernes. Vedkommende myndighet bør ha mulighet til å beslutte om disse dyrene skal slaktes, noe som betyr at kjøttet fra dem går inn i næringsmiddelkjeden, eller om de skal avlives, noe som betyr at kjøttet ikke er beregnet på dette formålet.
@@ -262,15 +262,15 @@ ut fra følgende betraktninger:
 41. EU-reglene som gjaldt før denne forordningens anvendelsesdato, inneholdt veletablerte og effektive prinsipper og kriterier for anerkjennelse, opprettholdelse, suspensjon og gjeninnføring av offisiell status som fri for EBL. Mange medlemsstater har lyktes med å anvende disse reglene ved gjennomføringen av tidligere utryddelsesprogrammer for EBL. Reglene er blitt revidert i lys av helseregelverket for landdyr og inngår i denne forordningen.
 42. Medlemsstater eller soner som har vært frie for EBL i flere år og derfor har oppnådd en stabil dyrehelsesituasjon uten EBL, bør også i fortsettelsen dokumentere fravær av infeksjon. Risikobasert overvåking er en egnet måte for å sikre tidlig påvisning dersom sykdommen gjeninnføres, for å dokumentere at EBL ikke forekommer. Medlemsstatene bør derfor opprette et passende overvåkingssystem fra anvendelsesdatoen for denne forordningen.
 43. Ytterligere garantier for handel med svin innenfor Unionen i forbindelse med pseudorabiesvirus (ADV) inngikk i EU-reglene som gjaldt før denne forordningens anvendelsesdato. En rekke medlemsstater har lyktes med å anvende disse reglene og utryddet infeksjon med ADV hos svinepopulasjonen som holdes på deres territorium. Strategien for utryddelse av infeksjon med ADV i denne forordningen tar hensyn til helseregelverket for landdyr og de kriteriene som har vist seg å være vellykkede for å utrydde infeksjon med ADV.
-44. Reglene i denne forordningen om infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt (IBR/IPV) bygger på kommisjonsvedtak [2004/558/EF](eu/32004d0558)9 med bestemmelser om tilleggsgarantier for handel med storfe innenfor Fellesskapet. Disse omfatter krav om oppnåelse, opprettholdelse og gjeninnføring av frihet fra bovint herpesvirus 1 (BoHV-1) på anleggsnivå. Reglene er blitt utarbeidet samtidig som det tas hensyn til standardene i helseregelverket for landdyr og EFSAs vitenskapelige uttalelse10.
+44. Reglene i denne forordningen om infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt (IBR/IPV) bygger på kommisjonsvedtak [2004/558/EF](eu/32004d0558)[^9] med bestemmelser om tilleggsgarantier for handel med storfe innenfor Fellesskapet. Disse omfatter krav om oppnåelse, opprettholdelse og gjeninnføring av frihet fra bovint herpesvirus 1 (BoHV-1) på anleggsnivå. Reglene er blitt utarbeidet samtidig som det tas hensyn til standardene i helseregelverket for landdyr og EFSAs vitenskapelige uttalelse[^10].
 45. EU-reglene som gjaldt før denne forordningens anvendelsesdato, inneholder ingen bestemmelser om bovin virusdiaré (BVD), med unntak av bestemmelser som gjelder handel med avlsmateriale. I gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) er BVD nå listeført som en «kategori C-sykdom» for frivillig utryddelse. I denne forordningen er det derfor fastsatt bestemmelser om utryddelsesprogrammer og om tildeling og opprettholdelse av sykdomsfri status med hensyn til BVD.
 46. Helseregelverket for landdyr mangler et kapittel om BVD og kriterier for å være fri for BVD og forflytning av dyr i denne sammenhengen. Det finnes imidlertid et kapittel om BVD i OIEs landdyrhåndbok. Disse diagnostiske standardene er tatt i betraktning ved utarbeidelse av de bestemmelsene som gjelder BVD i denne forordningen.
 47. I gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) er infeksjon med rabiesvirus oppført som en kategori B-sykdom. Denne forordningen omfatter derfor bestemmelser om obligatoriske utryddelsesprogrammer og om tildeling av opprettholdelse av sykdomsfri status med hensyn til infeksjon med rabiesvirus.
 48. Viltlevende rever er det viktigste reservoaret for infeksjon med rabiesvirus i EU. Tiltakene i utryddelsesprogrammene bør derfor primært fokusere på populasjonen av viltlevende rever. Alle andre pattedyrarter er imidlertid mottakelige, og mange andre dyrearter er listeført for denne sykdommen i gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882). Vedkommende myndigheter bør inkludere andre dyrepopulasjoner i utryddelsesprogrammene når det foreligger en risiko for menneskers eller dyrs helse.
 49. Når det gjelder utryddelsesprogrammer for rabiesinfeksjon, er strategien for sykdomsbekjempelse i hovedsak basert på vaksinasjon av den relevante målpopulasjonen, fulgt av andre viktige aktiviteter som overvåking, gjennomføring av tiltak for sykdomsbekjempelse, kontroll med forflytning av kjæledyr og overvåking av vaksinasjonens effektivitet. Ettersom bestemmelsene om vaksinasjon er av svært teknisk art, er de fastsatt i et vedlegg.
-50. I gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) er infeksjon med blåtungevirus (serotype 1–24) (infeksjon med BTV) listeført som en kategori C-sykdom for et frivillig utryddelsesprogram. Dette innebærer en endring i strategien mot denne sykdommen, ettersom rådsdirektiv [2000/75/EF](eu/32000l0075)11, som gjaldt før denne forordningen, fastsatte umiddelbar utryddelse av sykdommen. I denne forordningen fastsettes det nye bestemmelser for håndtering av sykdommens nye status.
+50. I gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) er infeksjon med blåtungevirus (serotype 1–24) (infeksjon med BTV) listeført som en kategori C-sykdom for et frivillig utryddelsesprogram. Dette innebærer en endring i strategien mot denne sykdommen, ettersom rådsdirektiv [2000/75/EF](eu/32000l0075)[^11], som gjaldt før denne forordningen, fastsatte umiddelbar utryddelse av sykdommen. I denne forordningen fastsettes det nye bestemmelser for håndtering av sykdommens nye status.
 51. Når det gjelder infeksjon med BTV, er strategien for sykdomsbekjempelse i hovedsak basert på vaksinasjon av den relevante målpopulasjonen, fulgt av andre aktiviteter som overvåking, gjennomføring av tiltak for sykdomsbekjempelse, kontroll med forflytning av dyr og avlsmateriale samt minimering av eksponering for vektorer.
-52. I sin uttalelse12 om bekjempelse, overvåking og forflytning av dyr i tilfelle infeksjon med BTV, angir EFSA at dersom man skal lykkes med utryddelsen, bør vaksinasjonsdekningen omfatte minst 95 % av mottakelig storfe og sau i minst fem år. Det forventes derfor at utryddelsesprogrammene for infeksjon med BTV omfatter en vaksinasjonskampanje, selv om det bør sikres fleksibilitet gjennom denne forordningen for å ta hensyn til de særlige omstendighetene i hvert enkelt tilfelle.
+52. I sin uttalelse[^12] om bekjempelse, overvåking og forflytning av dyr i tilfelle infeksjon med BTV, angir EFSA at dersom man skal lykkes med utryddelsen, bør vaksinasjonsdekningen omfatte minst 95 % av mottakelig storfe og sau i minst fem år. Det forventes derfor at utryddelsesprogrammene for infeksjon med BTV omfatter en vaksinasjonskampanje, selv om det bør sikres fleksibilitet gjennom denne forordningen for å ta hensyn til de særlige omstendighetene i hvert enkelt tilfelle.
 53. En medlemsstat eller en sone i denne som er fri for infeksjon med BTV, eller som omfattes av et utryddelsesprogram for infeksjon med BTV, bør beskyttes mot innføring av eventuelle serotyper av BTV ved forflytning av holdte dyr eller avlsmateriale. Krav i forbindelse med innførsel av holdte dyr eller avlsmateriale til medlemsstater eller soner i disse som er frie for infeksjon med BTV, eller som omfattes av et utryddelsesprogram for infeksjon med BTV, bør derfor være en del av bestemmelsene om utryddelsesprogrammer. Dette bør også gjenspeiles i kriteriene for opprettholdelse av sykdomsfri status. De samme prinsippene bør gjelde forflytning av dyr gjennom medlemsstatene eller soner i disse som er frie for infeksjon med BTV, eller som omfattes av et utryddelsesprogram for infeksjon med BTV.
 54. På grunn av de ulike lokale forholdene som kan råde, bør vedkommende myndighet dessuten ha mulighet til å tillate innførsel av dyr eller avlsmateriale på grunnlag av midlertidige krav, forutsatt at innførselen ikke setter helsestatusen på bestemmelsesstedet i fare. Denne forordningen bør derfor fastsette krav og vilkår for når slik innførsel kan tillates. Disse kravene bør være basert på statusen til dyr eller avlsmateriale, uavhengig av opprinnelsesmedlemsstaten eller -sonen.
 55. Et utryddelsesprogram for en kategori B- eller C-sykdom hos akvatiske dyr bør ta hensyn til hvilken type overvåkingskrav som kreves for å oppnå og opprettholde sykdomsfri status, nærmere opplysninger om territoriet og hvilken dyrepopulasjon som skal omfattes av programmet, samt programmets delmål og endelige mål. Utryddelsesprogrammet bør omfatte de bekjempelsestiltakene som skal gjennomføres i infiserte anlegg der det holdes akvatiske dyr.
@@ -280,7 +280,7 @@ ut fra følgende betraktninger:
 59. Når en medlemsstat har besluttet å delta i et utryddelsesprogram for en kategori C-sykdom, har de driftsansvarlige plikt til å oppfylle vilkårene for innførsel av dyr av listeførte arter, melde om mistenkte tilfeller av listeførte sykdommer, overholde tiltakene for sykdomsbekjempelse når en sykdom er mistenkt eller bekreftet, og å treffe alle andre tiltak som kan kreves av vedkommende myndighet, herunder vaksinasjon.
 60. Når forekomsten av en listeført sykdom hos akvatiske dyr er mistenkt eller bekreftet i en medlemstat, en sone eller et segment som er sykdomsfri(tt), eller som omfattes av et utryddelsesprogram, bør vedkommende myndighet treffe hensiktsmessige tiltak for å bekjempe sykdommen. I denne forordningen bør det derfor fastsettes regler om dette. Disse reglene omfatter opprettelse av en restriksjonssone når det er blitt bekreftet forekomst av en listeført sykdom i et anlegg som deltar i utryddelsesprogrammet, eller i et anlegg som er erklært sykdomsfritt. Dette omfatter også minstekravene som gjelder den geografiske avgrensningen av en restriksjonssone og de faktorene som påvirker den.
 61. Etter bekreftelse av en listeført sykdom hos akvatiske dyr i en medlemstat, en sone eller et segment som er sykdomsfri(tt), eller som omfattes av et utryddelsesprogram, foretar vedkommende myndighet strenge kontroller i infiserte anlegg og i andre anlegg som ligger i restriksjonssonen. Kontrollenes art og graden av fleksibilitet som vedkommende myndighet utøver ved forflytninger, fastsettes i denne forordningen. Bruken av fleksibilitet begrenses til omstendigheter der helsestatusen til akvatiske dyr i bestemmelsesanlegget eller som er på vei til dette bestemmelsesstedet, ikke settes i fare.
-62. Når det har funnet sted et sykdomsutbrudd hos akvatiske dyr i et anlegg som viderefører eller har startet et utryddelsesprogram, er det viktig å fjerne akvatiske dyr som er døde, døende eller viser kliniske tegn, innen en frist fastsatt av vedkommende myndighet og i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)13. På denne måten kan det lykkes å holde sykdommen under kontroll.
+62. Når det har funnet sted et sykdomsutbrudd hos akvatiske dyr i et anlegg som viderefører eller har startet et utryddelsesprogram, er det viktig å fjerne akvatiske dyr som er døde, døende eller viser kliniske tegn, innen en frist fastsatt av vedkommende myndighet og i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)[^13]. På denne måten kan det lykkes å holde sykdommen under kontroll.
 63. Dyrehelseforordningen krever at Kommisjonen utarbeider nærmere regler for tildeling av sykdomsfri status til medlemsstater, soner og segmenter. Disse reglene bør omfatte sykdomsspesifikke kriterier for å dokumentere at sykdommen ikke forekommer i målpopulasjonen, samt generelle kriterier som støtter en effektiv kontroll av målpopulasjonens helsestatus.
 64. De generelle kriteriene omfatter geografisk virkeområde, overvåking, biosikkerhet, tiltak for sykdomsbekjempelse og konsekvent gjennomføring av andre praktiske regler fastsatt i dyrehelseforordningen om registrering og godkjenning av anlegg, sporbarhet for dyr og krav til forflytning.
 65. Denne forordningen fastsetter sykdomsspesifikke kriterier på grunnlag av fravær av listeførte arter eller på grunnlag av sykdomsagensens eller vektorens manglende evne til å overleve. Disse kriteriene bør utarbeides på en fleksibel måte for å gjøre det mulig for vedkommende myndighet å begrunne oppnåelsen av sykdomsfri status på grunnlag av den konkrete situasjonen. Det fastsettes derfor generelle krav i denne forordningen for å angi på hvilket grunnlag en medlemsstat kan søke om tildeling av sykdomsfri status for hele sitt territorium eller en sone i dette, eller når det gjelder akvakulturdyr, for segmenter.
@@ -296,7 +296,7 @@ ut fra følgende betraktninger:
 75. Dersom en medlemsstat ønsker å oppnå sykdomsfri status for en listeført sykdom hos akvatiske dyr for hele sitt territorium, eller for en sone i dette som utgjør mer enn 75 % av dens territorium, eller som deles med en annen medlemsstat eller et tredjeland, skal den søke Kommisjonen om godkjenning. I alle andre tilfeller følges en ordning med egenerklæring.
 76. Egenerklæring om sykdomsfrihet hos akvatiske dyr for andre soner og segmenter enn dem som er godkjent av Kommisjonen, følger en ordning som er utformet for å gi innsyn i prosessen, og som vil gjøre det lettere og eventuelt raskere for medlemsstatene å erklære sykdomsfri status. Hele prosessen vil bli gjennomført elektronisk med mindre en annen medlemsstat eller Kommisjonen tar opp problemer som ikke kan løses på tilfredsstillende måte. Dersom det finnes problemer som ikke kan løses på tilfredsstillende måte, framlegges erklæringen for Den faste komité for planter, dyr, næringsmidler og fôr.
 77. Denne forordningen inneholder bestemmelser om godkjenning av sykdomsfri status i medlemsstater eller soner i disse. Disse reglene kan avvike fra de reglene som gjaldt før denne forordningens anvendelsesdato. Det er behov for hensiktsmessige overgangsregler for å sikre en smidig overgang fra den gjeldende ordningen for godkjenning av sykdomsfri status til de nye kravene.
-78. Med sikte på en ensartet anvendelse av Unionens regelverk for overvåking, utryddelsesprogrammer og sykdomsfri status, og for å sikre at regelverket er klart og gjennomsiktig, bør kommisjonsvedtak [2000/428/EF](eu/32000d0428)14, kommisjonsvedtak [2002/106/EF](eu/32002d0106)15, kommisjonsvedtak [2003/422/EF](eu/32003d0422)16, kommisjonsvedtak [2006/437/EF](eu/32006d0437)17, kommisjonsforordning [(EF) nr. 1266/2007](eu/32007r1266)18, kommisjonsvedtak [2008/896/EF](eu/32008d0896)19 og Kommisjonens gjennomføringsbeslutning [(EU) 2015/1554](eu/32015d1554)20 oppheves ved denne forordningen.
+78. Med sikte på en ensartet anvendelse av Unionens regelverk for overvåking, utryddelsesprogrammer og sykdomsfri status, og for å sikre at regelverket er klart og gjennomsiktig, bør kommisjonsvedtak [2000/428/EF](eu/32000d0428)[^14], kommisjonsvedtak [2002/106/EF](eu/32002d0106)[^15], kommisjonsvedtak [2003/422/EF](eu/32003d0422)[^16], kommisjonsvedtak [2006/437/EF](eu/32006d0437)[^17], kommisjonsforordning [(EF) nr. 1266/2007](eu/32007r1266)[^18], kommisjonsvedtak [2008/896/EF](eu/32008d0896)[^19] og Kommisjonens gjennomføringsbeslutning [(EU) 2015/1554](eu/32015d1554)[^20] oppheves ved denne forordningen.
 79. Dyrehelseforordningen får anvendelse fra 21. april 2021. Reglene fastsatt i denne forordningen bør derfor også få anvendelse fra nevnte dato.
 
 1 EUT L 84 av 31.3.2016, s. 1.
@@ -509,7 +509,7 @@ Diagnostiske metoder
 1\. Vedkommende myndighet skal sikre at prøvetakingen, teknikkene, valideringen og fortolkningen av de diagnostiske metodene i forbindelse med overvåkingen er i samsvar med
 
 1. det særlige regelverket vedtatt i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og de relevante opplysningene og veiledningene som er gjort tilgjengelige på nettstedene til Den europeiske unions referanselaboratorier (EURL) og Kommisjonen,
-2. derom de ikke omfattes av regelverket, opplysningene og veiledningene nevnt i bokstav a), prøvetakingen, teknikkene, valideringen og fortolkningen av de diagnostiske metodene som er fastsatt i Verdens dyrehelseorganisasjons landdyrhåndbok («OIEs landdyrhåndbok»)21 med endringer, eller Verdens dyrehelseorganisasjons håndbok for akvatiske dyr («OIEs håndbok for akvatiske dyr»22 med endringer,
+2. derom de ikke omfattes av regelverket, opplysningene og veiledningene nevnt i bokstav a), prøvetakingen, teknikkene, valideringen og fortolkningen av de diagnostiske metodene som er fastsatt i Verdens dyrehelseorganisasjons landdyrhåndbok («OIEs landdyrhåndbok»)[^21] med endringer, eller Verdens dyrehelseorganisasjons håndbok for akvatiske dyr («OIEs håndbok for akvatiske dyr»[^22] med endringer,
 3. dersom de ikke omfattes av bokstav a) og b) i dette nummeret, metodene som er fastsatt i artikkel 34 nr. 2 bokstav b) og artikkel 34 nr. 3 i forordning (EU) 2017/625.
 
 2\. De diagnostiske metodene for tildeling eller opprettholdelse av sykdomsfri status er fastsatt i
@@ -1693,7 +1693,7 @@ Sykdomsfri status på grunnlag av historiske data og overvåkingsdata
 
 3\. Som unntak fra nr. 1 bokstav b) kan Kommisjonen i en periode på to år fra denne forordningen får anvendelse, tildele sykdomsfri status til medlemsstater eller soner med hensyn til
 
-1. infeksjon med RABV, dersom sykdommen var meldepliktig i henhold til artikkel 8 i direktiv 64/432/EØF, dersom nødvendig overvåking ble gjennomført i samsvar med artikkel 4 i europaparlaments- og rådsforordning [2003/99/EF](eu/32003r0099)23, og dersom ingen tilfeller er blitt rapportert hos listeførte dyrearter de siste to årene,
+1. infeksjon med RABV, dersom sykdommen var meldepliktig i henhold til artikkel 8 i direktiv 64/432/EØF, dersom nødvendig overvåking ble gjennomført i samsvar med artikkel 4 i europaparlaments- og rådsforordning [2003/99/EF](eu/32003r0099)[^23], og dersom ingen tilfeller er blitt rapportert hos listeførte dyrearter de siste to årene,
 2. infeksjon med BTV, dersom alle restriksjonssoner er blitt opphevet i samsvar med artikkel 6 i forordning (EF) nr. 1266/2007 før denne forordningens anvendelsesdato.
 
 ►**M3**
@@ -2001,9 +2001,9 @@ OVERGANGS- OG SLUTTBESTEMMELSER
 3. Fri for EBL dersom status som fri for EBL ble tildelt i samsvar med direktiv [64/432/EØF](eu/31964l0432).
 4. Fri for IBR/IPV dersom status som fri for IBR ble tildelt i samsvar med direktiv [64/432/EØF](eu/31964l0432).
 5. Fri for infeksjon med ADV dersom status som fri for pseudorabiesvirus ble tildelt i samsvar med direktiv [64/432/EØF](eu/31964l0432).
-6. Fri for infestasjon med *Varroa* spp. dersom status som fri for varroatose ble tildelt i samsvar med direktiv [92/65/EØF](eu/31992l0065)24.
+6. Fri for infestasjon med *Varroa* spp. dersom status som fri for varroatose ble tildelt i samsvar med direktiv [92/65/EØF](eu/31992l0065)[^24].
 7. Fri for infeksjon med Newcastle disease-virus uten vaksinasjon dersom status som ikke-vaksinert mot Newcastle disease ble tildelt i samsvar med direktiv [2009/158/EF](eu/32009l0158).
-8. Fri for VHS dersom status som fri for VHS ble tildelt i samsvar med rådsdirektiv [2006/88/EF](eu/32006l0088)25.
+8. Fri for VHS dersom status som fri for VHS ble tildelt i samsvar med rådsdirektiv [2006/88/EF](eu/32006l0088)[^25].
 9. Fri for IHN dersom status som fri for IHN ble tildelt i samsvar med direktiv [2006/88/EF](eu/32006l0088).
 10. Fri for infeksjon med HPR-deletert ILAV dersom status som fri for infeksjon med HPR-deletert ILAV ble tildelt i samsvar med direktiv [2006/88/EF](eu/32006l0088).
 11. Fri for infeksjon med *Bonamia ostreae* dersom status som fri for infeksjon med *Bonamia ostreae* ble tildelt i samsvar med direktiv [2006/88/EF](eu/32006l0088).
@@ -2012,7 +2012,7 @@ OVERGANGS- OG SLUTTBESTEMMELSER
 
 2\. Segmentene i medlemsstatene med sykdomsfri status som er godkjent før denne forordningens anvendelsesdato, skal anses å ha en godkjent sykdomsfri status i samsvar med denne forordningen når det gjelder følgende statuser:
 
-1. Fri for høypatogen aviær influensa dersom segmentet er blitt godkjent med hensyn til aviær influensa i samsvar med kommisjonsforordning [(EF) nr. 616/2009](eu/32009r0616)26.
+1. Fri for høypatogen aviær influensa dersom segmentet er blitt godkjent med hensyn til aviær influensa i samsvar med kommisjonsforordning [(EF) nr. 616/2009](eu/32009r0616)[^26].
 2. Fri for VHS dersom status som fri for VHS ble tildelt i samsvar med direktiv [2006/88/EF](eu/32006l0088).
 3. Fri for IHN dersom status som fri for IHN ble tildelt i samsvar med direktiv [2006/88/EF](eu/32006l0088).
 4. Fri for infeksjon med HPR-deletert ILAV dersom status som fri for infeksjon med HPR-deletert ILAV ble tildelt i samsvar med direktiv [2006/88/EF](eu/32006l0088).
@@ -2366,10 +2366,10 @@ Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt (IBR/IPV)
 
 |  | *Metoder:* | *Matrise:* |
 | --- | --- | --- |
-| Uvaksinert storfe | BoHV-1 I-ELISAa | Individuelle serumprøverd<br>Melkeprøver |
-|  | gB B-ELISAb | Individuelle serumprøverd |
+| Uvaksinert storfe | BoHV-1 I-ELISA[^a] | Individuelle serumprøver[^d]<br>Melkeprøver |
+|  | gB B-ELISA[^b] | Individuelle serumprøver[^d] |
 |  |  | Individuelle kjøttsaftprøver |
-| DIVA-vaksinert storfe (med en deletert gE-vaksine) | gE B-ELISAc | Individuelle serumprøver |
+| DIVA-vaksinert storfe (med en deletert gE-vaksine) | gE B-ELISA[^c] | Individuelle serumprøver |
 |  |  | Individuelle kjøttsaftprøver |
 
 a I-ELISA for påvisning av antistoffer mot helvirus av BoHV-1. Det kan brukes samleprøver satt sammen av opptil 50 melkeprøver (fra enkeltdyr eller i bulk) til tester for tildeling og opptil 100 melkeprøver (fra enkeltdyr eller i bulk) til tester for opprettholdelse av status som fri for IBR/IPV.
@@ -2385,10 +2385,10 @@ Infeksjon med pseudorabiesvirus (ADV)
 
 |  | *Metoder:* | *Matrise:* |
 | --- | --- | --- |
-| Uvaksinerte svin | ADV ELISAa | Individuelle prøver av eller høyst fem samleprøver av serum (eller plasma) |
+| Uvaksinerte svin | ADV ELISA[^a] | Individuelle prøver av eller høyst fem samleprøver av serum (eller plasma) |
 |  |  | Individuelle prøver av eller høyst fem samleprøver av filterpapir |
 |  |  | Individuelle kjøttsaftprøver |
-| DIVA-vaksinerte svin (med en deletert gE-vaksine) | gE ELISAb | Individuelle serumprøver |
+| DIVA-vaksinerte svin (med en deletert gE-vaksine) | gE ELISA[^b] | Individuelle serumprøver |
 
 a ELISA for påvisning av antistoffer mot helvirus av ADV, ADV-gB-protein eller ADV-gD-protein. For partikontroll av ADV-gB-testsett og ADV-gD-testsett eller ADV (helvirus)-testsett skal EF-referanseserum ADV 1, eller understandarder, gi et positivt resultat ved en fortynning på 1:2. Enhver av disse testene kan brukes når det vises til tester for påvisning av helvirus av ADV i del V i vedlegg IV.
 
@@ -3279,7 +3279,7 @@ Tekniske krav til vaksinasjon mot rabies
 
 Vaksinasjon av holdte dyr
 
-1. I forbindelse med utryddelsesprogrammer for infeksjon med rabiesvirus (RABV) skal bare identifiserte kjæledyr vaksineres mot rabies, og vaksinasjonen skal oppfylle kravene fastsatt i vedlegg III til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)27.
+1. I forbindelse med utryddelsesprogrammer for infeksjon med rabiesvirus (RABV) skal bare identifiserte kjæledyr vaksineres mot rabies, og vaksinasjonen skal oppfylle kravene fastsatt i vedlegg III til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)[^27].
 2. I forbindelse med utryddelsesprogrammer for infeksjon med RABV skal rabiesvaksinasjon av andre holdte dyr enn dem som er nevnt i nr. 1, være risikobasert og utføres for å verne mennesker mot eksponering for rabiesvirus, ved bruk av vaksiner som oppfyller kravene i nr. 1 bokstav a) og b) i vedlegg III til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576).
 
 27 Europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998) (EUT L 178 av 28.6.2013, s. 1).
@@ -3493,7 +3493,7 @@ Forflytning av avlsmateriale
 
          - ved første og siste uttak av sæd som skal sendes ut, og
          - under sæduttaksperioden: minst hver sjuende dag når det gjelder en virusisolasjonstest, eller minst hver 28. dag når det gjelder en PCR-test.
-   2. Storfeembryoer som har framkommet ved befruktning in vivo, kommer fra donordyr som ikke viser noen kliniske tegn på infeksjon med BTV på uttaksdagen, og de er tatt ut, bearbeidet og lagret i samsvar med del 2 i vedlegg III i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)28.
+   2. Storfeembryoer som har framkommet ved befruktning in vivo, kommer fra donordyr som ikke viser noen kliniske tegn på infeksjon med BTV på uttaksdagen, og de er tatt ut, bearbeidet og lagret i samsvar med del 2 i vedlegg III i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)[^28].
    3. Andre embryoer enn storfeembryoer som har framkommet ved befruktning in vivo, samt oocytter, kommer fra donordyr som oppfyller minst ett av følgende krav:
 
       1. De har vært beskyttet mot angrep fra vektorer i et vektorbeskyttet anlegg i minst de siste 60 dagene før uttaket av embryoer/oocytter begynte og mens uttaket pågikk.
@@ -3765,9 +3765,9 @@ En medlemsstat, en sone eller et segment med ukjent helsestatus med hensyn til V
 *Tabell 1.A*
 *Ordning for medlemsstater, soner og segmenter i den toårige kontrollperioden nevnt i bokstav a) i) forut for oppnåelse av status som fri for VHS og status som fri for IHN*
 
-| *Type anlegg* | *Antall helsebesøk per år i hvert anlegg* | *Antall prøvetakinger per år i hvert anlegg* | *Antall fisk i prøven1* |  |
+| *Type anlegg* | *Antall helsebesøk per år i hvert anlegg* | *Antall prøvetakinger per år i hvert anlegg* | *Antall fisk i prøven[^1]* |  |
 | --- | --- | --- | --- | --- |
-|  |  |  | *Antall fisk i vekst* | *Antall stamfisk2* |
+|  |  |  | *Antall fisk i vekst* | *Antall stamfisk[^2]* |
 | a) Anlegg med stamfisk | 2 | 2 | 50 (første besøk)<br>75 (andre besøk) | 30 (første eller andre besøk) |
 | b) Anlegg med utelukkende stamfisk | 2 | 1 | 0 | 75 (første eller andre besøk) |
 | c) Anlegg uten stamfisk | 2 | 2 | 75 (første OG andre besøk) | 0 |
@@ -3780,9 +3780,9 @@ En medlemsstat, en sone eller et segment med ukjent helsestatus med hensyn til V
 *Tabell 1.B*
 *Ordning for medlemsstater, soner eller segmenter som bruker et redusert prøveantall i den fireårige kontrollperioden nevnt i bokstav a) ii) forut for oppnåelse av status som fri for VHS og status som fri for IHN*
 
-| *Type anlegg* | *Antall helsebesøk per år i hvert anlegg* | *Antall prøvetakinger per år i hvert anlegg* | *Antall fisk i prøven 1* |  |
+| *Type anlegg* | *Antall helsebesøk per år i hvert anlegg* | *Antall prøvetakinger per år i hvert anlegg* | *Antall fisk i prøven [^1]* |  |
 | --- | --- | --- | --- | --- |
-|  |  |  | *Antall fisk i vekst* | *Antall stamfisk2* |
+|  |  |  | *Antall fisk i vekst* | *Antall stamfisk[^2]* |
 | *De første to årene* |  |  |  |  |
 | a) Anlegg med stamfisk | 2 | 1 | 30 (andre besøk) | 0 |
 | b) Anlegg med utelukkende stamfisk | 2 | 1 | 0 | 30 (første eller andre besøk) |
@@ -3847,7 +3847,7 @@ Opprettholdelse av status som fri for VHS og status som fri for IHN
 *Tabell 1.C*
 *Ordning for medlemsstater, soner eller segmenter for å opprettholde status som fri for VHS eller status som fri for IHN*
 
-| *Risikonivå1* | *Antall helsebesøk per år i hvert anlegg* | *Antall fisk i prøven2, 3* |
+| *Risikonivå[^1]* | *Antall helsebesøk per år i hvert anlegg* | *Antall fisk i prøven[^2], [^3]* |
 | --- | --- | --- |
 | Høyt | 1 per år | 30 |
 | Middels | 1 hvert 2. år | 30 |
@@ -3976,9 +3976,9 @@ Opprettholdelse av status som fri for infeksjon med HPR-deletert ILAV
 3. Status som sykdomsfri skal bare opprettholdes så lenge alle prøver som testes med de diagnostiske metodene beskrevet i avsnitt 5 nr. 2, gir negative resultater for HPR-deletert ILAV, og enhver mistanke om infeksjon med HPR-deletert ILAV er blitt utelukket i samsvar med de diagnostiske metodene beskrevet i avsnitt 5 nr. 3.
 
 *Tabell 2.B*
-*Ordning for medlemsstater, soner eller segmenter for å opprettholde status som fri for infeksjon med HPR-deletert ILAV1*
+*Ordning for medlemsstater, soner eller segmenter for å opprettholde status som fri for infeksjon med HPR-deletert ILAV[^1]*
 
-| *Risikonivå2* | *Antall helsebesøk per år* | *Antall laboratorieundersøkelser per år3,4* | *Antall fisk i prøven* |
+| *Risikonivå[^2]* | *Antall helsebesøk per år* | *Antall laboratorieundersøkelser per år[^3],[^4]* | *Antall fisk i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 2 | 2 | 30 |
 | Middels | 1 | 1 | 30 |
@@ -4125,7 +4125,7 @@ Opprettholdelse av status som fri for infeksjon med *Marteilia refringens*
 *Tabell 3.B*
 *Ordning for medlemsstater, soner eller segmenter for opprettholdelse av sykdomsfri status med hensyn til Marteilia refringens*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4237,7 +4237,7 @@ Opprettholdelse av status som fri for infeksjon med *Bonamia exitiosa*
 *Tabell 4.B*
 *Ordning for medlemsstater, soner eller segmenter for å opprettholde status som fri for infeksjon med Bonamia exitiosa*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4349,7 +4349,7 @@ Opprettholdelse av status som fri for infeksjon med *Bonamia ostreae*
 *Tabell 5.B*
 *Ordning for medlemsstater, soner eller segmenter for å opprettholde status som fri for infeksjon med Bonamia ostreae*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4456,7 +4456,7 @@ Opprettholdelse av status som fri for infeksjon med WSSV
 *Tabell 6.B*
 *Ordning for medlemsstater, soner eller segmenter for å opprettholde status som fri for infeksjon med WSSV*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall krepsdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall krepsdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4537,7 +4537,7 @@ Et anlegg som er blitt infisert med VHS eller IHN, kan gjenoppta et overvåkings
 *Tabell 1*
 *Overvåkingsprogram for VHS/IHN*
 
-| *Risikonivå1* | *Antall helsebesøk per år i hvert anlegg* | *Antall fisk i prøven2* |
+| *Risikonivå[^1]* | *Antall helsebesøk per år i hvert anlegg* | *Antall fisk i prøven[^2]* |
 | --- | --- | --- |
 | Høyt | 1 per år | 30 |
 | Middels | 1 hvert 2. år | 30 |
@@ -4575,10 +4575,10 @@ Særlige krav for å dokumentere gjennomføring av et overvåkingsprogram
 *Tabell 2*
 *Overvåkingsprogram for HPR-deletert ILAV*
 
-| *Risikonivå1* | *Antall helsebesøk per år i hvert anlegg* | *Antall laboratorieundersøkelser per år* | *Antall fisk i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk per år i hvert anlegg* | *Antall laboratorieundersøkelser per år* | *Antall fisk i prøven* |
 | --- | --- | --- | --- |
-| Høyt | 2 | 22 | 30 |
-| Middels | 1 | 13 | 30 |
+| Høyt | 2 | 2[^2] | 30 |
+| Middels | 1 | 1[^3] | 30 |
 | Lavt | 1 hvert 2. år | 1 hvert 2. år | 30 |
 | Høyeste antall fisk per samleprøve: 5. |  |  |  |
 
@@ -4629,7 +4629,7 @@ Særlige krav for å dokumentere gjennomføring av et overvåkingsprogram
 *Tabell 3*
 *Overvåkingsprogram for Marteilia refringens*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4680,7 +4680,7 @@ Særlige krav for å dokumentere gjennomføring av et overvåkingsprogram
 *Tabell 4*
 *Overvåkingsprogram for infeksjon med Bonamia exitiosa*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4731,7 +4731,7 @@ Særlige krav for å dokumentere gjennomføring av et overvåkingsprogram
 *Tabell 5*
 *Overvåkingsprogram for infeksjon med Bonamia ostreae*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall bløtdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4780,7 +4780,7 @@ Særlige krav for å dokumentere gjennomføring av et overvåkingsprogram
 *Tabell 6*
 *Overvåkingsprogram for infeksjon med WSSV*
 
-| *Risikonivå1* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall krepsdyr i prøven* |
+| *Risikonivå[^1]* | *Antall helsebesøk i hvert anlegg/hver gruppe av anlegg* | *Antall laboratorieundersøkelser* | *Antall krepsdyr i prøven* |
 | --- | --- | --- | --- |
 | Høyt | 1 per år | 1 hvert 2. år | 150 |
 | Middels | 1 hvert 2. år | 1 hvert 2. år | 150 |
@@ -4823,18 +4823,18 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»),1 særlig artikkel 30 nr. 1 bokstav a) og artikkel 37 nr. 4 første ledd bokstav b), og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»),[^1] særlig artikkel 30 nr. 1 bokstav a) og artikkel 37 nr. 4 første ledd bokstav b), og
 
 ut fra følgende betraktninger:
 
 1. Ved forordning [(EU) 2016/429](eu/32016r0429) fastsettes regler for forebygging og bekjempelse av sykdommer som kan overføres til dyr eller mennesker, blant annet regler for overvåking og utryddelse og for å gi segmenter status som sykdomsfri.
 2. Ved forordning [(EU) 2016/429](eu/32016r0429) er det opprettet en harmonisert liste over smittsomme dyresykdommer («listeførte sykdommer») som utgjør en risiko for dyrehelsen eller folkehelsen i Unionen, enten det er i hele eller deler av Unionen.
 3. I artikkel 28 i forordning [(EU) 2016/429](eu/32016r0429) fastsettes Unionens overvåkingsprogrammer for visse listeførte sykdommer. I henhold til artikkel 30 i nevnte forordning skal det ved hjelp av en gjennomføringsrettsakt fastsettes hvilke listeførte sykdommer som skal omfattes av Unionens overvåkingsprogrammer, herunder programmenes geografiske virkeområde.
-4. Ved forordning [(EU) 2016/429](eu/32016r0429) oppheves rådsdirektiv [2005/94/EF](eu/32005l0094)2 med virkning fra 21. april 2021. Ved direktiv [2005/94/EF](eu/32005l0094) er det fastsatt obligatoriske overvåkingsprogrammer for aviær influensa hos fjørfe og viltlevende fugl. De obligatoriske overvåkingsprogrammene for aviær influensa er fortsatt relevante for å sikre et høyt overvåkingsnivå i hele Unionen på grunn av den virkningen høypatogen aviær influensa har på dyrehelsen. Disse programmene bør også omfatte overvåking av visse områder med økt risiko for at lavpatogen aviær influensa-virus muterer til høypatogen aviær influensa-virus. Overvåkingen av aviær influensa bidrar også til kunnskap om virus som utgjør en potensiell zoonotisk risiko. Denne forpliktelsen bør derfor gjenspeiles i forordning [(EU) 2016/429](eu/32016r0429) gjennom Unionens overvåkingsprogrammer for aviær influensa.
+4. Ved forordning [(EU) 2016/429](eu/32016r0429) oppheves rådsdirektiv [2005/94/EF](eu/32005l0094)[^2] med virkning fra 21. april 2021. Ved direktiv [2005/94/EF](eu/32005l0094) er det fastsatt obligatoriske overvåkingsprogrammer for aviær influensa hos fjørfe og viltlevende fugl. De obligatoriske overvåkingsprogrammene for aviær influensa er fortsatt relevante for å sikre et høyt overvåkingsnivå i hele Unionen på grunn av den virkningen høypatogen aviær influensa har på dyrehelsen. Disse programmene bør også omfatte overvåking av visse områder med økt risiko for at lavpatogen aviær influensa-virus muterer til høypatogen aviær influensa-virus. Overvåkingen av aviær influensa bidrar også til kunnskap om virus som utgjør en potensiell zoonotisk risiko. Denne forpliktelsen bør derfor gjenspeiles i forordning [(EU) 2016/429](eu/32016r0429) gjennom Unionens overvåkingsprogrammer for aviær influensa.
 5. I samsvar med den harmoniserte listen over smittsomme dyresykdommer i forordning [(EU) 2016/429](eu/32016r0429) skilles det mellom høypatogen aviær influensa og infeksjon med lavpatogen aviær influensa-virus. For å sikre sammenheng bør dette skillet gjenspeiles i virkeområdet for Unionens overvåkingsprogrammer.
-6. I delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)3 fastsettes blant annet kriteriene for å fastsette de listeførte sykdommene som omfattes av Unionens overvåkingsprogrammer, og innholdet i slike programmer. Høypatogen aviær influensa og infeksjon med lavpatogen aviær influensa-virus oppfyller disse kriteriene.
+6. I delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)[^3] fastsettes blant annet kriteriene for å fastsette de listeførte sykdommene som omfattes av Unionens overvåkingsprogrammer, og innholdet i slike programmer. Høypatogen aviær influensa og infeksjon med lavpatogen aviær influensa-virus oppfyller disse kriteriene.
 7. Ved artikkel 37 i forordning [(EU) 2016/429](eu/32016r0429) gis medlemsstatene rett til å søke om anerkjennelse av sykdomsfri status for segmenter med hensyn til visse listeførte sykdommer nevnt i [artikkel 9](eu/32005l0094/a9) nr. 1 bokstav a), b) og c) i nevnte forordning. Det bør i en gjennomføringsrettsakt fastslås for hvilke av de listeførte sykdommene segmenter kan gis sykdomsfri status.
-8. Ved forordning [(EU) 2016/429](eu/32016r0429) oppheves rådsdirektiv [2006/88/EF](eu/32006l0088)4 med virkning fra 21. april 2021. I henhold til direktiv [2006/88/EF](eu/32006l0088) skal det fastsettes sykdomsfrie segmenter for listeførte sykdommer hos akvatiske dyr, i tråd med OIEs helseregelverk for akvatiske dyr. For å gjøre det lettere å opprettholde segmenters status som sykdomsfrie bør sykdommene som inngår på denne listen over sykdommer hos akvatiske dyr, så langt som mulig brukes for de listeførte sykdommene som segmenter kan gis sykdomsfri status for innenfor rammen av forordning [(EU) 2016/429](eu/32016r0429).
+8. Ved forordning [(EU) 2016/429](eu/32016r0429) oppheves rådsdirektiv [2006/88/EF](eu/32006l0088)[^4] med virkning fra 21. april 2021. I henhold til direktiv [2006/88/EF](eu/32006l0088) skal det fastsettes sykdomsfrie segmenter for listeførte sykdommer hos akvatiske dyr, i tråd med OIEs helseregelverk for akvatiske dyr. For å gjøre det lettere å opprettholde segmenters status som sykdomsfrie bør sykdommene som inngår på denne listen over sykdommer hos akvatiske dyr, så langt som mulig brukes for de listeførte sykdommene som segmenter kan gis sykdomsfri status for innenfor rammen av forordning [(EU) 2016/429](eu/32016r0429).
 9. Ettersom bestemmelsene i forordning [(EU) 2016/429](eu/32016r0429) som regulerer forholdene som omfattes av denne forordningen, får anvendelse fra 21. april 2021, bør denne forordningen få anvendelse fra den samme datoen.
 10. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
@@ -4923,17 +4923,17 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 23, artikkel 30 nr. 1 bokstav b), artikkel 35 og artikkel 40, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 23, artikkel 30 nr. 1 bokstav b), artikkel 35 og artikkel 40, og
 
 ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt regler for dyresykdommer som kan overføres til dyr eller mennesker, herunder bestemmelser om melding om og rapportering av sykdommer, Unionens overvåkingsprogrammer, utryddelsesprogrammer og sykdomsfri status.
-2. Delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)2 utfyller forordning [(EU) 2016/429](eu/32016r0429) og fastsetter regler for overvåking, utryddelsesprogrammer og sykdomsfri status for visse listeførte og nye sykdommer. Kravene til opplysninger, formater og framgangsmåter for overvåking, utryddelsesprogrammer og sykdomsfri status bør fastsettes i denne forordningen.
+2. Delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)[^2] utfyller forordning [(EU) 2016/429](eu/32016r0429) og fastsetter regler for overvåking, utryddelsesprogrammer og sykdomsfri status for visse listeførte og nye sykdommer. Kravene til opplysninger, formater og framgangsmåter for overvåking, utryddelsesprogrammer og sykdomsfri status bør fastsettes i denne forordningen.
 3. Listeførte sykdommer, som definert i artikkel 4 nr. 18 i forordning [(EU) 2016/429](eu/32016r0429), er listeført i samsvar med artikkel 5 nr. 1 i nevnte forordning. På grunnlag av de ulike sykdomsprofilene bør utbrudd av visse listeførte sykdommer i Unionen meldes umiddelbart, mens utbrudd av andre sykdommer i Unionen bør rapporteres.
 4. Idet det tas hensyn til sykdomsprofilen og helsestatusen til en bestemt medlemsstat, en bestemt sone eller et bestemt segment, bør det stilles krav om at et utbrudd av visse listeførte sykdommer umiddelbart meldes til Kommisjonen og de øvrige medlemsstatene for å sikre at nødvendige risikohåndteringstiltak gjennomføres raskt. En egen liste over disse listeførte sykdommene som krever umiddelbar melding i Unionen, bør fastsettes i denne forordningen sammen med en tidsramme for denne umiddelbare meldingen.
 5. Dyrehelsegarantier gjelder for sykdomsfrie medlemsstater, soner og segmenter for listeførte sykdommer som er nevnt i artikkel 9 nr. 1 bokstav b) og c) i forordning [(EU) 2016/429](eu/32016r0429). Ettersom det ikke er obligatorisk å rapportere om overvåking som utføres for å opprettholde sykdomsfri status, er plikten til å melde om primærutbrudd av disse sykdommene innen 24 timer etter at de er bekreftet, berettiget.
 6. Ved sekundærutbrudd av listeførte sykdommer som det skal meldes om, er den veletablerte praksisen med å sende samlede meldinger ukentlig hensiktsmessig, idet det tas hensyn til sykdomsprofilen og helsestatusen til en medlemsstat, en sone eller et segment.
-7. I Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)3 er det fastsatt hvordan reglene for forebygging og bekjempelse av sykdom skal anvendes på kategoriene av listeførte sykdommer for de listeførte artene eller gruppene av listeførte arter. Når det gjelder medlemsstatenes plikt til å rapportere i Unionen om påvisning av kategori E-sykdommer i samsvar med nevnte forordning for de relevante listeførte artene eller gruppene av listeførte arter, bør kravene til framgangsmåter og opplysninger i forbindelse med slik rapportering fastsettes i denne forordningen.
+7. I Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)[^3] er det fastsatt hvordan reglene for forebygging og bekjempelse av sykdom skal anvendes på kategoriene av listeførte sykdommer for de listeførte artene eller gruppene av listeførte arter. Når det gjelder medlemsstatenes plikt til å rapportere i Unionen om påvisning av kategori E-sykdommer i samsvar med nevnte forordning for de relevante listeførte artene eller gruppene av listeførte arter, bør kravene til framgangsmåter og opplysninger i forbindelse med slik rapportering fastsettes i denne forordningen.
 8. For å sikre ensartede vilkår for gjennomføringen av melding og rapportering i Unionen bør det fastsettes regler for hvilke opplysninger som skal gis, regler for fastsettelse av nødvendige framgangsmåter, formater og data samt regler for listeføring av meldings- og rapporteringsregioner.
 9. Når det gjelder opplysningene som skal oversendes i forbindelse med en melding i Unionen som fastsatt i artikkel 19 i forordning [(EU) 2016/429](eu/32016r0429), bør noen av opplysningskravene beskrives nærmere for å sikre ensartet anvendelse av denne bestemmelsen og gjøre det lettere å legge inn data i det databaserte informasjonssystemet nevnt i artikkel 22 i samme forordning (informasjonssystemet for dyresykdommer (ADIS)).
 10. Når det gjelder rapportering i Unionen av listeførte sykdommer i samsvar med artikkel 20 i forordning [(EU) 2016/429](eu/32016r0429), bør det i denne forordningen presiseres hvilke opplysninger som skal gis om påvisning av listeførte sykdommer og utryddelsesprogrammer.
@@ -5267,7 +5267,7 @@ OPPLYSNINGER SOM SKAL GIS VED RAPPORTERING I UNIONEN OM PÅVISNING AV LISTEFØRT
 ### VEDLEGG IV
 MELDINGS- OG RAPPORTERINGSREGIONER I MEDLEMSSTATENE I SAMSVAR MED ARTIKKEL 5
 
-| ►**M1** *Medlemsstat*\* | *Meldings- og rapporteringsregioner* ◄**M1** |
+| ►**M1** *Medlemsstat*[^\*] | *Meldings- og rapporteringsregioner* ◄**M1** |
 | --- | --- |
 | Belgia | province – provincie |
 | Bulgaria | oблаcт |
@@ -5323,7 +5323,7 @@ Opplysninger som skal gis om programmer for utryddelse av kategori B- og C-sykdo
    ►**M2**
 6. Opplysninger om de berørte anleggene og dyrene i området i samsvar med nr. 5, etter sone dersom mer enn én sone omfattes av programmets geografiske virkeområde:
 
-   1. Antall anlegg der det per 31. desember holdes dyr fra målpopulasjonen, unntatt anlegg som omfattes av unntaket i samsvar med artikkel 19 i delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)\*.
+   1. Antall anlegg der det per 31. desember holdes dyr fra målpopulasjonen, unntatt anlegg som omfattes av unntaket i samsvar med artikkel 19 i delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)[^\*].
    2. Antall dyr fra målpopulasjonen som per 31. desember holdes i anleggene nevnt i bokstav a).
    3. Antall anlegg med sykdomsfri status per 31. desember, herunder anlegg med midlertidig opphevet sykdomsfri status, med eller uten vaksinasjon dersom det er relevant, av det antall anlegg som er nevnt i bokstav a).
    4. Antall dyr som holdes i anleggene nevnt i bokstav c).
@@ -5454,7 +5454,7 @@ Sykdomsfri status på grunnlag av historiske data og overvåkingsdata
 
 2\. Opplysninger som omfatter minst de siste ti årene, og som skal inngå i søknader om anerkjennelse av status som fri for BVD på grunnlag av historiske data og overvåkingsdata, dersom det er rapportert om sykdommen i de siste 25 årene, og den er blitt utryddet i det berørte geografiske området:
 
-1. Antall anlegg som holder storfe, etter helsestatus5, og antall storfe som holdes i disse anleggene, per 31. desember hvert år.
+1. Antall anlegg som holder storfe, etter helsestatus[^5], og antall storfe som holdes i disse anleggene, per 31. desember hvert år.
 2. Teststrategi/-ordninger og diagnostiske metoder som brukes til å fastslå BVD-status for anlegg som holder storfe (infisert, ikke infisert).
 3. Teststrategi/-ordninger og diagnostiske metoder som brukes til å dokumentere at anlegg som holder storfe, opprettholder status som ikke infisert.
 4. Tiltak for å forhindre innføring av BVD-virus i det berørte geografiske området.
@@ -5606,7 +5606,7 @@ Opplysninger som skal inngå i programmer for utryddelse av kategori B- og C-syk
 4. Geografisk virkeområde med en beskrivelse og avgrensing av de geografiske og administrative områdene som omfattes av utryddelsesprogrammet, samt navnet på sonene og regionene dersom mer enn én region omfattes av programmets geografiske virkeområde.
 5. En beskrivelse av den epidemiologiske situasjonen for hver sone eller region dersom mer enn én region omfattes av programmets geografiske virkeområde:
 
-   1. Antall anlegg der det per 31. desember holdes dyr fra målpopulasjonen, etter helsestatus6, unntatt anlegg som omfattes av unntaket nevnt i nr. 6 bokstav f).
+   1. Antall anlegg der det per 31. desember holdes dyr fra målpopulasjonen, etter helsestatus[^6], unntatt anlegg som omfattes av unntaket nevnt i nr. 6 bokstav f).
    2. Antall dyr fra målpopulasjonen som holdes i anleggene nevnt i bokstav a), etter helsestatus.
    3. Kart som viser tettheten for målpopulasjonen nevnt i bokstav b), etter helsestatus.
    4. Tidslinje med prevalens, insidensdata og, dersom det er relevant, utførte vaksinasjoner som omfatter minst de siste fem årene.
@@ -5819,30 +5819,30 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 31 nr. 3, artikkel 36 nr. 4 og artikkel 37 nr. 4 bokstav a), og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 31 nr. 3, artikkel 36 nr. 4 og artikkel 37 nr. 4 bokstav a), og
 
 ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2016/429](eu/32016r0429) fastsetter en ny rettslig ramme for forebygging og bekjempelse av sykdommer som kan overføres til dyr eller mennesker. Særlig fastsettes det i forordning [(EU) 2016/429](eu/32016r0429) sykdomsspesifikke regler for de sykdommene som er listeført i samsvar med artikkel 5 nr. 1 i nevnte forordning (listeførte sykdommer), og i nevnte forordnings artikkel 9 fastsettes det hvordan disse reglene skal anvendes på forskjellige kategorier av listeførte sykdommer. Forordning [(EU) 2016/429](eu/32016r0429) fastsetter også at medlemsstatene skal opprette obligatoriske utryddelsesprogrammer for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) i nevnte forordning og frivillige utryddelsesprogrammer for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav c) i nevnte forordning, samt at slike programmer skal godkjennes av Kommisjonen. Dessuten fastsettes det at Kommisjonen skal godkjenne sykdomsfri status eller ikke-vaksinert status for medlemsstater eller soner eller segmenter i disse med hensyn til visse listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav a), b) og c) i forordning [(EU) 2016/429](eu/32016r0429).
-2. I Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)2 defineres listeførte sykdommer som kategori A–E-sykdommer, og det fastsettes at reglene for forebygging og bekjempelse av listeførte sykdommer nevnt i artikkel 9 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) skal gjelde for kategoriene av listeførte sykdommer for de listeførte artene og gruppene av listeførte arter som er angitt i tabellen i vedlegget til nevnte forordning. I denne forordningen bør det fastsettes regler som gjelder sykdommer i kategori A, B og C.
+2. I Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)[^2] defineres listeførte sykdommer som kategori A–E-sykdommer, og det fastsettes at reglene for forebygging og bekjempelse av listeførte sykdommer nevnt i artikkel 9 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) skal gjelde for kategoriene av listeførte sykdommer for de listeførte artene og gruppene av listeførte arter som er angitt i tabellen i vedlegget til nevnte forordning. I denne forordningen bør det fastsettes regler som gjelder sykdommer i kategori A, B og C.
 3. I forordning [(EU) 2016/429](eu/32016r0429) anses følgende sykdommer som listeførte sykdommer: infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, infeksjon med *Mycobacterium tuberculosis*-kompleks (MTBC), infeksjon med rabiesvirus (RABV), enzootisk bovin leukose (EBL), infeksjon med blåtungevirus (serotype 1–24) (infeksjon med BTV), bovin virusdiaré (BVD), infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt (IBR/IPV), infeksjon med pseudorabiesvirus (ADV), infestasjon med *Varroa* spp., infeksjon med Newcastle disease-virus, infeksjon med høypatogen aviær influensa (HPAI), hemoragisk virusseptikemi (VHS), infeksiøs hematopoietisk nekrose (IHN), infeksjon med HPR-deletert infeksiøs lakseanemi-virus (HPR-deletert ILAV), infeksjon med *Marteilia refringens*, infeksjon med *Bonamia exitiosa*, infeksjon med *Bonamia ostreae* og infeksjon med hvitflekksyndromvirus (WSSV). Alle disse listeførte sykdommene omfattes av definisjonene av kategori A-, kategori B- eller kategori C-sykdom fastsatt i gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), og er oppført i tabellen i vedlegget til nevnte gjennomføringsforordning.
-4. Delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)3 utfyller reglene i forordning [(EU) 2016/429](eu/32016r0429) for utryddelsesprogrammer og sykdomsfri status for visse listeførte sykdommer hos landdyr, akvatiske dyr og andre dyr. I delegert forordning [(EU) 2020/689](eu/32020r0689) er det særlig fastsatt kriterier for tildeling av sykdomsfri status for medlemsstater eller soner eller segmenter i disse samt krav om godkjenning av utryddelsesprogrammer for medlemsstater eller soner eller segmenter i disse.
+4. Delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)[^3] utfyller reglene i forordning [(EU) 2016/429](eu/32016r0429) for utryddelsesprogrammer og sykdomsfri status for visse listeførte sykdommer hos landdyr, akvatiske dyr og andre dyr. I delegert forordning [(EU) 2020/689](eu/32020r0689) er det særlig fastsatt kriterier for tildeling av sykdomsfri status for medlemsstater eller soner eller segmenter i disse samt krav om godkjenning av utryddelsesprogrammer for medlemsstater eller soner eller segmenter i disse.
 5. I artikkel 85 i forordning [(EU) 2020/689](eu/32020r0689) er det fastsatt at medlemsstatene eller soner i disse med et utryddelsesprogram eller et overvåkingsprogram som er godkjent for kategori C-sykdommer før nevnte forordnings anvendelsesdato, skal anses å ha et godkjent utryddelsesprogram i samsvar med nevnte forordning i en periode på seks år fra nevnte forordnings anvendelsesdato. Denne begrensningen bør derfor angis i de relevante vedleggene til denne forordningen.
-6. I artikkel 280 i forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt regler for opprettholdelse av eksisterende sykdomsfri status eller eksisterende godkjente utryddelses- og overvåkingsprogrammer i medlemsstater eller soner eller segmenter i disse for visse listeførte sykdommer som er godkjent ved kommisjonsrettsakter vedtatt i samsvar med rådsdirektiv [64/432/EØF](eu/31964l0432)4, 91/68/EØF5, 92/65/EØF6, 2005/94/EF7, 2006/88/EF8 eller 2009/158/EF9. I tillegg utfyller artikkel 84 og 85 i delegert forordning [(EU) 2020/689](eu/32020r0689) reglene i forordning [(EU) 2016/429](eu/32016r0429) for dette ved å fastsette overgangstiltak for eksisterende sykdomsfri status og eksisterende godkjente utryddelses- og overvåkingsprogrammer med hensyn til disse listeførte sykdommene.
+6. I artikkel 280 i forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt regler for opprettholdelse av eksisterende sykdomsfri status eller eksisterende godkjente utryddelses- og overvåkingsprogrammer i medlemsstater eller soner eller segmenter i disse for visse listeførte sykdommer som er godkjent ved kommisjonsrettsakter vedtatt i samsvar med rådsdirektiv [64/432/EØF](eu/31964l0432)[^4], 91/68/EØF[^5], 92/65/EØF[^6], 2005/94/EF[^7], 2006/88/EF[^8] eller 2009/158/EF[^9]. I tillegg utfyller artikkel 84 og 85 i delegert forordning [(EU) 2020/689](eu/32020r0689) reglene i forordning [(EU) 2016/429](eu/32016r0429) for dette ved å fastsette overgangstiltak for eksisterende sykdomsfri status og eksisterende godkjente utryddelses- og overvåkingsprogrammer med hensyn til disse listeførte sykdommene.
 7. Av hensyn til klarhet og åpenhet bør listene over eksisterende sykdomsfrie medlemsstater, soner og segmenter og eksisterende godkjente utryddelses- og overvåkingsprogrammer som er angitt i kommisjonsrettsaktene vedtatt i henhold til direktivene nevnt i artikkel 280 i forordning [(EU) 2016/429](eu/32016r0429) og i visse direktiver nevnt i artikkel 84 og 85 i delegert forordning [(EU) 2020/689](eu/32020r0689), erstattes med listene i vedleggene til denne forordningen.
 8. For visse listeførte sykdommer er det i delegert forordning [(EU) 2020/689](eu/32020r0689) for første gang fastsatt regler for godkjenning av sykdomsfri status for medlemsstater eller soner eller segmenter i disse, og bestemmelsene i artikkel 280 i forordning [(EU) 2016/429](eu/32016r0429) får derfor ikke anvendelse på disse tilfellene. Dette gjelder for infeksjon med rabiesvirus (RABV), infeksjon med blåtungevirus (serotype 1–24) (infeksjon med BTV), bovin virusdiaré (BVD) eller infeksjon med *Bonamia exitiosa.* Flere medlemsstater har inngitt søknader til Kommisjonen om å få tildelt sykdomsfri status for disse listeførte sykdommene. Kommisjonens vurdering har vist at disse søknadene oppfyller kriteriene i del II kapittel 4 avsnitt 1 og 2 i delegert forordning [(EU) 2020/689](eu/32020r0689), der det er fastsatt regler for tildeling av sykdomsfri status for medlemsstater eller soner og segmenter i disse. Disse medlemsstatene eller de relevante sonene eller segmentene i disse bør derfor tildeles sykdomsfri status, og de bør oppføres i vedleggene til denne forordningen.
 9. For visse listeførte sykdommer er det i delegert forordning [(EU) 2020/689](eu/32020r0689) fastsatt regler for godkjenning av utryddelsesprogrammer for medlemsstater eller soner eller segmenter i disse som ikke omfattes av bestemmelsene i artikkel 280 i forordning [(EU) 2016/429](eu/32016r0429). Dette gjelder for infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, infeksjon med *Mycobacterium tuberculosis-kompleks* (MTBC), infeksjon med rabiesvirus (RABV), enzootisk bovin leukose (EBL), infeksjon med blåtungevirus (serotype 1-24) (infeksjon med BTV), bovin virusdiaré (BVD) eller infeksjon med *Bonamia exitiosa.* Flere medlemsstater har inngitt søknader til Kommisjonen om godkjenning av utryddelsesprogrammene for disse listeførte sykdommene. Kommisjonens vurdering har vist at disse søknadene oppfyller kriteriene i del II kapittel 2 og 3 i delegert forordning [(EU) 2020/689](eu/32020r0689), der det er fastsatt hvilke kriterier som skal være oppfylt for godkjenning av utryddelsesprogrammer for kategori B- og kategori C-sykdommer hos henholdsvis landdyr og akvatiske dyr. Disse utryddelsesprogrammene bør derfor godkjennes, og medlemsstatene eller soner og segmenter i disse bør oppføres i vedleggene til denne forordningen.
 10. For visse listeførte sykdommer har Kommisjonen ennå ikke mottatt søknader fra medlemsstatene om tildeling av sykdomsfri status eller om godkjenning av utryddelsesprogrammer, eller vurderingen av dem er ennå ikke avsluttet. Så snart søknadene er mottatt eller når vurderingen er avsluttet, kan de berørte medlemsstatene, sonene eller segmentene oppføres i vedleggene til denne forordningen.
 11. Når det gjelder infeksjon med *Brucella abortus, B. melitensis* og *B. suis*, har en medlemsstat dessuten nylig inngitt en søknad til Kommisjonen om tildeling av sykdomsfri status for en sone med hensyn til infeksjon med *Brucella abortus, B. melitensis* og *B. suis*. Kommisjonens vurdering har vist at søknaden oppfyller kriteriene i artikkel 71 i delegert forordning [(EU) 2020/689](eu/32020r0689), der det er fastsatt regler for anerkjennelse av sykdomsfri status på grunnlag av utryddelsesprogrammer. Denne sonen bør derfor få tildelt sykdomsfri status, og den bør oppføres i vedleggene til denne forordningen.
-12. Når det gjelder aviær influensa, er det i kommisjonsforordning [(EF) nr. 616/2009](eu/32009r0616)10, som ble vedtatt i samsvar med direktiv [2005/94/EF](eu/32005l0094), fastsatt at medlemsstatene skal godkjenne fjørfesegmenter og segmenter for andre fugler i fangenskap. Listen over godkjente segmenter er offentlig tilgjengelig, og Kommisjonens nettsted inneholder lenker til medlemsstatenes internettbaserte informasjonssider. Fjørfesegmenter og segmenter for andre fugler i fangenskap som er godkjent med hensyn til aviær influensa i samsvar med forordning [(EF) nr. 616/2009](eu/32009r0616), bør opprettholde sin sykdomsfrie status i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og oppføres i vedleggene til denne forordningen.
-13. Kommisjonsvedtak [2003/467/EF](eu/32003d0467)11 inneholder listen over medlemsstater og regioner i disse med status som fri for tuberkulose, brucellose og EBL i samsvar med direktiv [64/432/EØF](eu/31964l0432). Disse medlemsstatene og regioner i disse bør oppføres i vedleggene til denne forordningen.
-14. Kommisjonsvedtak [93/52/EF](eu/31993d0052)12 inneholder listen over medlemsstater og regioner i disse med status som offisielt fri for brucellose (*B. melitensis*) i samsvar med direktiv [91/68/EØF](eu/31991l0068). Disse medlemsstatene og regioner i disse bør oppføres i vedleggene til denne forordningen.
-15. Kommisjonens gjennomføringsbeslutning [2013/503/EU](eu/32013d0503)13 inneholder listen over medlemsstater eller territorier i disse som er anerkjent som fri for varroatose i samsvar med direktiv [92/65/EØF](eu/31992l0065). Disse medlemsstatene eller territorier i disse bør oppføres i vedleggene til denne forordningen.
-16. I kommisjonsvedtak [94/963/EF](eu/31994d0963)14 og 95/98/EF15 fastsettes Finlands og Sveriges status som områder hvor det ikke skal vaksineres mot Newcastle disease i samsvar med direktiv [2009/158/EF](eu/32009l0158). Disse medlemsstatene bør oppføres i vedleggene til denne forordningen.
-17. Kommisjonsvedtak [2004/558/EU](eu/32004d0558)16 inneholder lister over regioner i medlemsstater som har status som fri for IBR, og regioner i medlemsstater som har et godkjent utryddelsesprogram for IBR i samsvar med direktiv [64/432/EØF](eu/31964l0432). Regionene med status som fri for IBR bør oppføres i vedleggene til denne forordningen, mens regionene med godkjente utryddelsesprogrammer for IBR bør opprettholde sitt program i et begrenset tidsrom i samsvar med forordning [(EU) 2020/689](eu/32020r0689) og oppføres i vedleggene til denne forordningen.
-18. Kommisjonsvedtak [2008/185/EU](eu/32008d0185)17 inneholder lister over medlemsstater eller regioner i disse som har status som fri for pseudorabies, og regioner som har et godkjent utryddelsesprogram for pseudorabies i samsvar med direktiv [64/432/EØF](eu/31964l0432). Disse medlemsstatene eller regioner i disse med status som fri for pseudorabies bør oppføres i vedleggene til denne forordningen, mens regioner med godkjente utryddelsesprogrammer for pseudorabies bør opprettholde sine programmer i et begrenset tidsrom i samsvar med forordning [(EU) 2020/689](eu/32020r0689) og oppføres i vedleggene til denne forordningen.
-19. Kommisjonsvedtak [2009/177/EU](eu/32009d0177)18 inneholder lister over medlemsstater og visse soner og segmenter med sykdomsfri status eller som er omfattet av godkjente programmer for overvåking eller utryddelse av listeførte sykdommer hos akvatiske dyr i samsvar med direktiv [2006/88/EØF](eu/32006l0088). Den sykdomsfrie statusen for disse medlemsstatene, sonene og segmentene bør oppføres i vedleggene til denne forordningen, mens de godkjente programmene bør opprettholdes i et begrenset tidsrom i samsvar med artikkel 85 i forordning [(EU) 2020/689](eu/32020r0689) og oppføres i vedleggene til denne forordningen.
-20. Når det gjelder listeførte sykdommer hos akvatiske dyr, finnes det visse sykdomsfrie soner og segmenter samt godkjente overvåkingsprogrammer som ikke er oppført i vedtak [2009/177/EF](eu/32009d0177), men lister over dem er offentlig tilgjengelige på medlemsstatenes internettbaserte informasjonssider i samsvar med direktiv [2006/88/EF](eu/32006l0088). Disse sonene og segmentene bør opprettholde sin sykdomsfrie status, mens programmene bør opprettholdes i et begrenset tidsrom i samsvar med artikkel 85 i forordning [(EU) 2020/689](eu/32020r0689). Oppdatert informasjon om anleggene som ligger i disse sykdomsfrie sonene og segmentene, eller som omfattes av disse programmene, angis på det offentlig tilgjengelige nettstedet som er opprettet og vedlikeholdes i samsvar med artikkel 185 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 21 nr. 2 i delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691)19.
+12. Når det gjelder aviær influensa, er det i kommisjonsforordning [(EF) nr. 616/2009](eu/32009r0616)[^10], som ble vedtatt i samsvar med direktiv [2005/94/EF](eu/32005l0094), fastsatt at medlemsstatene skal godkjenne fjørfesegmenter og segmenter for andre fugler i fangenskap. Listen over godkjente segmenter er offentlig tilgjengelig, og Kommisjonens nettsted inneholder lenker til medlemsstatenes internettbaserte informasjonssider. Fjørfesegmenter og segmenter for andre fugler i fangenskap som er godkjent med hensyn til aviær influensa i samsvar med forordning [(EF) nr. 616/2009](eu/32009r0616), bør opprettholde sin sykdomsfrie status i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og oppføres i vedleggene til denne forordningen.
+13. Kommisjonsvedtak [2003/467/EF](eu/32003d0467)[^11] inneholder listen over medlemsstater og regioner i disse med status som fri for tuberkulose, brucellose og EBL i samsvar med direktiv [64/432/EØF](eu/31964l0432). Disse medlemsstatene og regioner i disse bør oppføres i vedleggene til denne forordningen.
+14. Kommisjonsvedtak [93/52/EF](eu/31993d0052)[^12] inneholder listen over medlemsstater og regioner i disse med status som offisielt fri for brucellose (*B. melitensis*) i samsvar med direktiv [91/68/EØF](eu/31991l0068). Disse medlemsstatene og regioner i disse bør oppføres i vedleggene til denne forordningen.
+15. Kommisjonens gjennomføringsbeslutning [2013/503/EU](eu/32013d0503)[^13] inneholder listen over medlemsstater eller territorier i disse som er anerkjent som fri for varroatose i samsvar med direktiv [92/65/EØF](eu/31992l0065). Disse medlemsstatene eller territorier i disse bør oppføres i vedleggene til denne forordningen.
+16. I kommisjonsvedtak [94/963/EF](eu/31994d0963)[^14] og 95/98/EF[^15] fastsettes Finlands og Sveriges status som områder hvor det ikke skal vaksineres mot Newcastle disease i samsvar med direktiv [2009/158/EF](eu/32009l0158). Disse medlemsstatene bør oppføres i vedleggene til denne forordningen.
+17. Kommisjonsvedtak [2004/558/EU](eu/32004d0558)[^16] inneholder lister over regioner i medlemsstater som har status som fri for IBR, og regioner i medlemsstater som har et godkjent utryddelsesprogram for IBR i samsvar med direktiv [64/432/EØF](eu/31964l0432). Regionene med status som fri for IBR bør oppføres i vedleggene til denne forordningen, mens regionene med godkjente utryddelsesprogrammer for IBR bør opprettholde sitt program i et begrenset tidsrom i samsvar med forordning [(EU) 2020/689](eu/32020r0689) og oppføres i vedleggene til denne forordningen.
+18. Kommisjonsvedtak [2008/185/EU](eu/32008d0185)[^17] inneholder lister over medlemsstater eller regioner i disse som har status som fri for pseudorabies, og regioner som har et godkjent utryddelsesprogram for pseudorabies i samsvar med direktiv [64/432/EØF](eu/31964l0432). Disse medlemsstatene eller regioner i disse med status som fri for pseudorabies bør oppføres i vedleggene til denne forordningen, mens regioner med godkjente utryddelsesprogrammer for pseudorabies bør opprettholde sine programmer i et begrenset tidsrom i samsvar med forordning [(EU) 2020/689](eu/32020r0689) og oppføres i vedleggene til denne forordningen.
+19. Kommisjonsvedtak [2009/177/EU](eu/32009d0177)[^18] inneholder lister over medlemsstater og visse soner og segmenter med sykdomsfri status eller som er omfattet av godkjente programmer for overvåking eller utryddelse av listeførte sykdommer hos akvatiske dyr i samsvar med direktiv [2006/88/EØF](eu/32006l0088). Den sykdomsfrie statusen for disse medlemsstatene, sonene og segmentene bør oppføres i vedleggene til denne forordningen, mens de godkjente programmene bør opprettholdes i et begrenset tidsrom i samsvar med artikkel 85 i forordning [(EU) 2020/689](eu/32020r0689) og oppføres i vedleggene til denne forordningen.
+20. Når det gjelder listeførte sykdommer hos akvatiske dyr, finnes det visse sykdomsfrie soner og segmenter samt godkjente overvåkingsprogrammer som ikke er oppført i vedtak [2009/177/EF](eu/32009d0177), men lister over dem er offentlig tilgjengelige på medlemsstatenes internettbaserte informasjonssider i samsvar med direktiv [2006/88/EF](eu/32006l0088). Disse sonene og segmentene bør opprettholde sin sykdomsfrie status, mens programmene bør opprettholdes i et begrenset tidsrom i samsvar med artikkel 85 i forordning [(EU) 2020/689](eu/32020r0689). Oppdatert informasjon om anleggene som ligger i disse sykdomsfrie sonene og segmentene, eller som omfattes av disse programmene, angis på det offentlig tilgjengelige nettstedet som er opprettet og vedlikeholdes i samsvar med artikkel 185 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 21 nr. 2 i delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691)[^19].
 21. Ettersom listene angitt i vedtak [93/52/EØF](eu/31993d0052), 94/963/EF, 95/98/EF, 2003/467/EF, 2004/558/EF, [2008/185/EF](eu/32008d0185) og [2009/177/EF](eu/32009d0177), forordning [(EF) nr. 616/2009](eu/32009r0616) og gjennomføringsbeslutning [2013/503/EU](eu/32013d0503) erstattes med listene angitt i vedleggene til denne forordningen, bør disse rettsaktene oppheves og erstattes med denne forordningen.
 22. I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap (utmeldingsavtalen), særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, får forordning [(EU) 2016/429](eu/32016r0429) samt kommisjonsrettsaktene som bygger på denne, anvendelse for og i Det forente kongerike med hensyn til Nord-Irland etter utgangen av overgangsperioden fastsatt i utmeldingsavtalen. Det forente kongerike (Nord-Irland) bør derfor oppføres i vedleggene til denne forordningen dersom det er relevant for Nord-Irland.
 23. Ettersom forordning [(EU) 2016/429](eu/32016r0429) får anvendelse fra 21. april 2021, bør denne forordningen også få anvendelse fra nevnte dato.
@@ -5890,7 +5890,7 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-1\. I denne forordningen fastsettes det gjennomføringsregler for de listeførte dyresykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c) i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til sykdomsfri status og ikke-vaksinert status for visse medlemsstater20 eller soner eller segmenter i disse samt godkjenning av utryddelsesprogrammer for disse listeførte sykdommene.
+1\. I denne forordningen fastsettes det gjennomføringsregler for de listeførte dyresykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c) i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til sykdomsfri status og ikke-vaksinert status for visse medlemsstater[^20] eller soner eller segmenter i disse samt godkjenning av utryddelsesprogrammer for disse listeførte sykdommene.
 
 2\. I vedleggene til denne forordningen er det oppført både medlemsstater eller soner eller segmenter i disse som skal anses å ha godkjent sykdomsfri status eller godkjente utryddelsesprogrammer i samsvar med artikkel 280 i forordning [(EU) 2016/429](eu/32016r0429), og dem hvis sykdomsfrie status og utryddelsesprogrammer skal godkjennes ved denne forordningen og også oppføres i vedleggene.
 
@@ -6110,7 +6110,7 @@ Sykdomsfri status med hensyn til infeksjon med *Brucella abortus, B. melitensis*
 
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos storfepopulasjoner
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Belgia | Hele territoriet |
 | Tsjekkia | Hele territoriet |
@@ -6145,7 +6145,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon
 
 Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos populasjoner av sau og geit
 
-| *Medlemsstat*\* | *Territorium* |
+| *Medlemsstat*[^\*] | *Territorium* |
 | --- | --- |
 | Belgia | Hele territoriet |
 | Tsjekkia | Hele territoriet |
@@ -6261,7 +6261,7 @@ Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til i
 ### ►**M4** DEL II
 Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for infeksjon med MTBC
 
-| *Medlemsstat*\* | *Territorium* |
+| *Medlemsstat*[^\*] | *Territorium* |
 | --- | --- |
 | Bulgaria | Hele territoriet |
 | ►**M15** – ◄**M15** |  |
@@ -6287,7 +6287,7 @@ INFEKSJON MED RABIESVIRUS (RABV)
 ### DEL I
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med RABV
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Belgia | Hele territoriet |
 | Bulgaria | Hele territoriet |
@@ -6339,7 +6339,7 @@ ENZOOTISK BOVIN LEUKOSE (EBL)
 ### DEL I
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til EBL
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Belgia | Hele territoriet |
 | Tsjekkia | Hele territoriet |
@@ -6409,7 +6409,7 @@ PSEUDORABIESVIRUS (ADV)
 ### DEL I
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med ADV
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Belgia | Hele territoriet |
 | Tsjekkia | Hele territoriet |
@@ -6476,7 +6476,7 @@ INFEKSJON MED BLÅTUNGEVIRUS (BTV)
 ### DEL I
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med BTV
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | ►**M12** ►**M13**–◄**M12** ◄**M13** | ►**M12** ►**M13**–◄**M12** ◄**M13** |
 | ►**M12**–◄**M12** | ►**M12**–◄**M12** |
@@ -6548,7 +6548,7 @@ Medlemsstater der hele territoriet har sykdomsfri status med hensyn til VHS,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til VHS, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til VHS, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | ►**M10** Danmark | Hele territoriet ◄**M10** |
 | ►**M10** Estland | Hele territoriet ◄**M10** |
@@ -6577,7 +6577,7 @@ Medlemsstater der hele territoriet har sykdomsfri status med hensyn til IHN,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til IHN,
 og soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til IHN, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | ►**M3** – ◄**M3** |  |
 | ►**M10** Estland | Hele territoriet ◄**M10** |
@@ -6606,7 +6606,7 @@ Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjo
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med HPR-deletert ILAV, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med HPR-deletert ILAV, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Belgia | Hele territoriet |
 | Bulgaria | Hele territoriet |
@@ -6654,7 +6654,7 @@ Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjo
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med *Marteilia refringens*, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med *Marteilia refringens*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Irland | Hele territoriet |
 | ►**M14** Sverige | Hele territoriet ◄**M14** |
@@ -6697,7 +6697,7 @@ Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjo
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med *Bonamia ostreae*, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med *Bonamia ostreae*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
 
-| Medlemsstat\* | Territorium |
+| Medlemsstat[^\*] | Territorium |
 | --- | --- |
 | Estland | Hele territoriet |
 | Irland | Hele Irlands kystlinje, unntatt Cork Harbour, Galway Bay, Ballinakill Harbour, Clew Bay, Achill Sound, Loughmore, Blacksod Bay, Lough Foyle, Lough Swilly og Kilkieran Bay |
@@ -6756,22 +6756,22 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 226 nr. 3, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 226 nr. 3, og
 
 ut fra følgende betraktninger:
 
-1. I rådsdirektiv [2006/88/EF](eu/32006l0088)2 fastsettes blant annet krav til dyrehelse som gjelder omsetning, import og transitt av akvakulturdyr og produkter av disse, forebyggende minstetiltak som tar sikte på å øke bevisstheten om sykdommer hos akvakulturdyr, og minstetiltak for sykdomsbekjempelse som skal iverksettes ved mistanke om eller utbrudd av visse sykdommer hos akvatiske dyr. Nevnte direktiv oppheves ved forordning [(EU) 2016/429](eu/32016r0429) med virkning fra 21. april 2021.
+1. I rådsdirektiv [2006/88/EF](eu/32006l0088)[^2] fastsettes blant annet krav til dyrehelse som gjelder omsetning, import og transitt av akvakulturdyr og produkter av disse, forebyggende minstetiltak som tar sikte på å øke bevisstheten om sykdommer hos akvakulturdyr, og minstetiltak for sykdomsbekjempelse som skal iverksettes ved mistanke om eller utbrudd av visse sykdommer hos akvatiske dyr. Nevnte direktiv oppheves ved forordning [(EU) 2016/429](eu/32016r0429) med virkning fra 21. april 2021.
 2. Artikkel 9 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429) gjelder regler for bekjempelse av listeførte sykdommer som det er nødvendig å iverksette tiltak mot for å forhindre spredning, enten ved innførsel til Unionen eller som følge av forflytning mellom medlemsstater.
 3. Unionens akvakultur er svært mangfoldig med hensyn til artene som oppdrettes og produksjonssystemene som brukes i medlemsstatene, og dette mangfoldet vil sannsynligvis øke over tid. Som følge av dette kan visse sykdommer som ikke er listeført i henhold til artikkel 9 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429), likevel være relevante for visse medlemsstater, enten fordi artene finnes i disse medlemsstatene, eller på grunn av de metodene for akvakulturproduksjon som brukes i disse medlemsstatene. Dersom en annen sykdom enn en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429), utgjør en vesentlig risiko for helsen til akvatiske dyr i disse medlemsstatene, kan medlemsstatene treffe nasjonale tiltak i henhold til artikkel 226 nr. 1 i nevnte forordning for å bekjempe spredningen av sykdommen, forutsatt at disse tiltakene er hensiktsmessige og nødvendige for målene som skal nås.
 4. For å sikre at de nasjonale tiltakene som foreslås av en medlemsstat, er hensiktsmessige og nødvendige, skal Kommisjonen på forhånd underrettes om alle tiltak som kan påvirke forflytningen av akvatiske dyr mellom medlemsstater, slik at tiltakene kan godkjennes eller om nødvendig endres.
-5. Visse medlemsstater har fått godkjenning til å treffe nasjonale tiltak som har som formål å begrense visse sykdommers virkning på akvakulturdyr i henhold til artikkel 43 i direktiv 2006/88/EF. Kommisjonsbeslutning [2010/221/EU](eu/32010d0221)3 inneholder nærmere opplysninger om disse medlemsstatene og sykdommene som de har truffet nasjonale tiltak for.
-6. Visse medlemsstater har fått sykdomsfri status for koiherpesvirussykdom eller gjennomfører et godkjent utryddelses- eller overvåkingsprogram for denne sykdommen i henhold til direktiv [2006/88/EF](eu/32006l0088). Koiherpesvirussykdom er imidlertid nå listeført som en kategori E-sykdom i henhold til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)4, det vil si at den er en listeført sykdom som det er nødvendig å overvåke i Unionen. Den kan derfor vurderes for nasjonale tiltak i henhold til artikkel 226 i forordning [(EU) 2016/429](eu/32016r0429).
+5. Visse medlemsstater har fått godkjenning til å treffe nasjonale tiltak som har som formål å begrense visse sykdommers virkning på akvakulturdyr i henhold til artikkel 43 i direktiv 2006/88/EF. Kommisjonsbeslutning [2010/221/EU](eu/32010d0221)[^3] inneholder nærmere opplysninger om disse medlemsstatene og sykdommene som de har truffet nasjonale tiltak for.
+6. Visse medlemsstater har fått sykdomsfri status for koiherpesvirussykdom eller gjennomfører et godkjent utryddelses- eller overvåkingsprogram for denne sykdommen i henhold til direktiv [2006/88/EF](eu/32006l0088). Koiherpesvirussykdom er imidlertid nå listeført som en kategori E-sykdom i henhold til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882)[^4], det vil si at den er en listeført sykdom som det er nødvendig å overvåke i Unionen. Den kan derfor vurderes for nasjonale tiltak i henhold til artikkel 226 i forordning [(EU) 2016/429](eu/32016r0429).
 7. For å sikre en smidig overgang til den nye ordningen i henhold til forordning [(EU) 2016/429](eu/32016r0429) skal de berørte medlemsstatene fra 21. april 2021 søke om godkjenning av nasjonale tiltak i henhold til artikkel 226 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429).
-8. Kommisjonen har vurdert tiltakene som de berørte medlemsstatene har foreslått, idet det er tatt hensyn til standardene fra Verdens dyrehelseorganisasjon (OIE)5 og hvordan de aktuelle sykdommene og de foreslåtte tiltakene vil påvirke Unionen. Kommisjonen anser at de berørte medlemsstatene har vist at disse tiltakene er hensiktsmessige og nødvendige, og at det er berettiget at de godkjennes for å forhindre at de aktuelle sykdommene innføres til deres territorier, eller for å bekjempe spredning av sykdommene mellom medlemsstater. De berørte medlemsstatene bør oppføres i vedleggene til denne beslutningen der det er relevant.
+8. Kommisjonen har vurdert tiltakene som de berørte medlemsstatene har foreslått, idet det er tatt hensyn til standardene fra Verdens dyrehelseorganisasjon (OIE)[^5] og hvordan de aktuelle sykdommene og de foreslåtte tiltakene vil påvirke Unionen. Kommisjonen anser at de berørte medlemsstatene har vist at disse tiltakene er hensiktsmessige og nødvendige, og at det er berettiget at de godkjennes for å forhindre at de aktuelle sykdommene innføres til deres territorier, eller for å bekjempe spredning av sykdommene mellom medlemsstater. De berørte medlemsstatene bør oppføres i vedleggene til denne beslutningen der det er relevant.
 9. I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap (utmeldingsavtalen), særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, får forordning [(EU) 2016/429](eu/32016r0429) samt kommisjonsrettsaktene som bygger på denne, anvendelse for og i Det forente kongerike med hensyn til Nord-Irland etter utgangen av overgangsperioden fastsatt i utmeldingsavtalen. Det forente kongerike (Nord-Irland) bør derfor oppføres i vedleggene til denne beslutningen der det er relevant.
 10. For å beskytte helsestatusen i medlemsstater med nasjonale tiltak som er godkjent for en bestemt sykdom i henhold til artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), skal forsendelser av arter av akvatiske dyr som er mottakelige for de aktuelle sykdommene, komme fra en medlemsstat eller en del av denne som er fri for den samme sykdommen. Slike forsendelser skal ledsages av et offisielt sertifikat som attesterer sykdomsfri status.
-11. Helsesertifikater som attesterer opprinnelsesstedet for en forsendelse beregnet på en medlemsstat eller en del av denne som har nasjonale tiltak som er godkjent i henhold til artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), inngår i de relevante malene for offisielle sertifikater til bruk ved forflytning av akvatiske dyr mellom medlemsstater angitt i Kommisjonens gjennomføringsforordning [(EU) 2020/2236](eu/32020r2236)6. Disse helsesertifikatene skal brukes når akvatiske dyr av listeførte arter er beregnet på en medlemsstat eller en del av denne som Kommisjonen har godkjent nasjonale tiltak for i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429).
-12. De nasjonale tiltakene som godkjennes ved denne beslutningen, bør få anvendelse bare så lenge de fortsatt er hensiktsmessige og nødvendige for å forhindre at sykdommene innføres til de berørte medlemsstatene, eller for å bekjempe spredning av sykdommene mellom medlemsstater. For at Kommisjonen skal kunne foreta en regelmessig vurdering av om disse tiltakene er hensiktsmessige og nødvendige, og for å gjøre det mulig å endre tiltakene ved behov, bør medlemsstatene oversende en årlig rapport til Kommisjonen med nærmere opplysninger om hvordan tiltakene har virket i det foregående året. Slike årlige rapporter og annen relevant rapportering bør inneholde visse opplysninger som er fastsatt i Kommisjonens gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002)7.
+11. Helsesertifikater som attesterer opprinnelsesstedet for en forsendelse beregnet på en medlemsstat eller en del av denne som har nasjonale tiltak som er godkjent i henhold til artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), inngår i de relevante malene for offisielle sertifikater til bruk ved forflytning av akvatiske dyr mellom medlemsstater angitt i Kommisjonens gjennomføringsforordning [(EU) 2020/2236](eu/32020r2236)[^6]. Disse helsesertifikatene skal brukes når akvatiske dyr av listeførte arter er beregnet på en medlemsstat eller en del av denne som Kommisjonen har godkjent nasjonale tiltak for i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429).
+12. De nasjonale tiltakene som godkjennes ved denne beslutningen, bør få anvendelse bare så lenge de fortsatt er hensiktsmessige og nødvendige for å forhindre at sykdommene innføres til de berørte medlemsstatene, eller for å bekjempe spredning av sykdommene mellom medlemsstater. For at Kommisjonen skal kunne foreta en regelmessig vurdering av om disse tiltakene er hensiktsmessige og nødvendige, og for å gjøre det mulig å endre tiltakene ved behov, bør medlemsstatene oversende en årlig rapport til Kommisjonen med nærmere opplysninger om hvordan tiltakene har virket i det foregående året. Slike årlige rapporter og annen relevant rapportering bør inneholde visse opplysninger som er fastsatt i Kommisjonens gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002)[^7].
 13. Utryddelsesprogrammer som er godkjent i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), bør innen rimelig tid føre til en forbedring i sykdomssituasjonen. Av hensyn til konsekvens bør dette tidsrommet ikke være lenger enn det tidsrommet som et utryddelsesprogram for en kategori C-sykdom skal avsluttes innenfor. Anvendelsestiden for et utryddelsesprogram som er godkjent i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429), bør derfor ikke overstige seks år regnet fra datoen for Kommisjonens opprinnelige godkjenning av programmet. I behørig begrunnede tilfeller og på anmodning fra den berørte medlemsstaten bør Kommisjonen ha mulighet til å forlenge anvendelsestiden for utryddelsesprogrammet med ytterligere seks år. Denne maksimale anvendelsestiden er fastsatt for å gi tilstrekkelig tid til å avslutte et utryddelsesprogram og samtidig hindre uforholdsmessige og langvarige forstyrrelser i forflytninger av akvatiske dyr innenfor Unionen.
 14. Av hensyn til klarhet i Unionens regelverk bør beslutning [2010/221/EU](eu/32010d0221) oppheves.
 15. Ettersom forordning [(EU) 2016/429](eu/32016r0429) får anvendelse fra 21. april 2021, bør denne beslutningen også få anvendelse fra nevnte dato.
@@ -6818,14 +6818,14 @@ Medlemsstatene eller deler av disse som er oppført i andre og fjerde kolonne i 
 1\. Akvatiske dyr av arter som er mottakelige for en bestemt sykdom angitt i andre kolonne i vedlegg III, kan bare flyttes til medlemsstater eller deler av disse som er oppført i andre og fjerde kolonne i tabellen i vedlegg I eller II, dersom de
 
 1. kommer fra en medlemsstat eller en del av denne som er oppført i andre og fjerde kolonne i tabellen i vedlegg I som fri for den aktuelle sykdommen,
-2. ledsages av et offisielt sertifikat som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten og utarbeidet i samsvar med en relevant mal for helsesertifikat angitt i kapittel 1, 2, 3 eller 5 i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2020/2236](eu/32020r2236)5, som angir de garantiene som er relevante for de spesifikke, aktuelle nasjonale tiltakene.
+2. ledsages av et offisielt sertifikat som er utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten og utarbeidet i samsvar med en relevant mal for helsesertifikat angitt i kapittel 1, 2, 3 eller 5 i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2020/2236](eu/32020r2236)[^5], som angir de garantiene som er relevante for de spesifikke, aktuelle nasjonale tiltakene.
 
 2\. Som unntak fra nr. 1 bokstav a) kan akvatiske dyr av arter som er mottakelige for en bestemt sykdom angitt i andre kolonne i vedlegg III, bare flyttes til medlemsstater eller deler av disse som er oppført i andre og fjerde kolonne i tabellen i vedlegg I eller II, dersom
 
-1. dyrene er blitt holdt i karantene i en akvakulturvirksomhet som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691)\*, når det gjelder viltlevende akvatiske dyr,
+1. dyrene er blitt holdt i karantene i en akvakulturvirksomhet som er godkjent i samsvar med artikkel 15 i delegert forordning [(EU) 2020/691](eu/32020r0691)[^\*], når det gjelder viltlevende akvatiske dyr,
 2. medlemsstatene eller deler av disse er omfattet av nasjonale tiltak for infeksjon med Gyrodactylus salaris og
 
-   1. de akvatiske dyrene umiddelbart før forflytningen er blitt holdt på de vilkårene som er fastsatt i kapittel 10.3 artikkel 10.3.8 nr. 2 i helseregelverket for akvatiske dyr fra Verdens dyrehelseorganisasjon (OIE)\*\*,
+   1. de akvatiske dyrene umiddelbart før forflytningen er blitt holdt på de vilkårene som er fastsatt i kapittel 10.3 artikkel 10.3.8 nr. 2 i helseregelverket for akvatiske dyr fra Verdens dyrehelseorganisasjon (OIE)[^\*\*],
    2. fiskeeggene er desinfisert og deretter oppbevart på de vilkårene som er fastsatt i kapittel 10.3 artikkel 10.3.8 nr. 3 i OIEs helseregelverk for akvatiske dyr.
 
 \* Delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for akvakulturanlegg og transportører av akvatiske dyr (EUT L 174 av 3.6.2020, s. 345).
@@ -6876,7 +6876,7 @@ Utferdiget i Brussel 11. februar 2021.
 ►**M4**
 
 ### VEDLEGG I
-Medlemsstater1 eller deler av medlemsstater som anses som frie for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
+Medlemsstater[^1] eller deler av medlemsstater som anses som frie for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
 | *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |
 | --- | --- | --- | --- |
@@ -6943,7 +6943,7 @@ Medlemsstater1 eller deler av medlemsstater som anses som frie for visse sykdomm
 ►**M4**
 
 ### VEDLEGG II
-Medlemsstater1 eller deler av medlemsstater som har utryddelsesprogrammer for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
+Medlemsstater[^1] eller deler av medlemsstater som har utryddelsesprogrammer for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
 | *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |
 | --- | --- | --- | --- |
@@ -6958,7 +6958,7 @@ Medlemsstater1 eller deler av medlemsstater som har utryddelsesprogrammer for vi
 ◄**M4**
 
 ### VEDLEGG III
-►**M5** Arter av akvatiske dyr som er mottakelige for sykdommer som visse medlemsstater\* har truffet nasjonale tiltak mot i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
+►**M5** Arter av akvatiske dyr som er mottakelige for sykdommer som visse medlemsstater[^\*] har truffet nasjonale tiltak mot i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
 | *Sykdom* | *Mottakelige arter* |
 | --- | --- |
@@ -6989,22 +6989,22 @@ EUROPAKOMMISJONEN HAR
 
 under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 37 nr. 5, og
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)[^1], særlig artikkel 37 nr. 5, og
 
 ut fra følgende betraktninger:
 
 1. Ved forordning [(EU) 2016/429](eu/32016r0429) fastsettes regler for forebygging og bekjempelse av dyresykdommer nevnt i forordningens artikkel 5, herunder regler for varsling og rapportering av sykdommer, overvåking, utryddelsesprogrammer og sykdomsfri status. Forordningens artikkel 37 nr. 1 gir medlemsstatene mulighet til å søke Kommisjonen om anerkjennelse av sykdomsfri status for segmenter med hensyn til listeførte sykdommer nevnt i forordningens artikkel 9 nr. 1 bokstav a) (kategori A-sykdommer).
-2. Segmentinndelingsmetoden fastsatt i forordning [(EU) 2016/429](eu/32016r0429) er i samsvar med de internasjonale standardene fra Verdens dyrehelseorganisasjon («WOAH»), særlig kapittel 4.4 og 4.5 i helsekoden for landdyr2 om henholdsvis soneinndeling og segmentinndeling og om anvendelse av segmentinndeling, som er beregnet på å brukes av organisasjonens medlemmer som grunnlag for deres forskrifter om forebygging og bekjempelse av dyresykdommer.
+2. Segmentinndelingsmetoden fastsatt i forordning [(EU) 2016/429](eu/32016r0429) er i samsvar med de internasjonale standardene fra Verdens dyrehelseorganisasjon («WOAH»), særlig kapittel 4.4 og 4.5 i helsekoden for landdyr[^2] om henholdsvis soneinndeling og segmentinndeling og om anvendelse av segmentinndeling, som er beregnet på å brukes av organisasjonens medlemmer som grunnlag for deres forskrifter om forebygging og bekjempelse av dyresykdommer.
 3. I artikkel 37 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt alminnelige regler for anerkjennelse av sykdomsfri status med hensyn til kategori A-sykdommer for segmenter der det holdes landdyr, og denne forordningen bør fastsette utfyllende regler for vedkommende myndighets godkjenning av sykdomsfri status for slike segmenter.
 4. For at vedkommende myndighet skal kunne godkjenne sykdomsfri status med hensyn til kategori A-sykdommer i segmenter der det holdes landdyr, bør reglene fastsatt i denne forordningen omfatte alminnelige krav til slike segmenter, i tillegg til regler om ansvar og plikter for segmentansvarlig, krav til et felles forvaltningssystem for biosikkerhet og detaljerte krav og framgangsmåter for vedkommende myndighets godkjenning av slike segmenter, herunder segmenter som ligger på mer enn én medlemsstats territorium.
-5. Artikkel 2 i Kommisjonens gjennomføringsforordning [(EU) 2020/690](eu/32020r0690)3 fastsetter at de listeførte sykdommene som segmenter kan gis status som sykdomsfri for i samsvar med artikkel 37 i forordning [(EU) 2016/429](eu/32016r0492), er angitt i vedlegg II til den nevnte gjennomføringsforordningen. Ved denne forordningen bør det fastsettes særlige krav for vedkommende myndighets godkjenning av sykdomsfri status med hensyn til disse kategori A-sykdommene.
+5. Artikkel 2 i Kommisjonens gjennomføringsforordning [(EU) 2020/690](eu/32020r0690)[^3] fastsetter at de listeførte sykdommene som segmenter kan gis status som sykdomsfri for i samsvar med artikkel 37 i forordning [(EU) 2016/429](eu/32016r0492), er angitt i vedlegg II til den nevnte gjennomføringsforordningen. Ved denne forordningen bør det fastsettes særlige krav for vedkommende myndighets godkjenning av sykdomsfri status med hensyn til disse kategori A-sykdommene.
 6. For å hindre innføring og spredning av kategori A-sykdommer i et segment der det holdes landdyr, og for å bekjempe disse kategori A-sykdommene i Unionen, bør det i denne forordningen fastsettes detaljerte krav til særskilt overvåking og strenge bestemmelser om biosikkerhet. Reglene i denne forordningen bør også fastsette at visse anlegg, for eksempel anlegg der det holdes frittgående dyr eller anlegg for oppsamling som, selv om de har innført strenge biosikkerhetstiltak, fortsatt i seg selv utgjør en økt risiko for spredning av sykdommer på grunn av hyppig forflytning og blanding av dyr fra ulike kategorier eller med ulik helsestatus, ikke kan inngå i et segment med henblikk på godkjenning av sykdomsfri status med hensyn til kategori A-sykdommer.
 7. Det er krevende å etablere og opprettholde spesifikke sykdomsfrie segmenter med hensyn til kategori A-sykdommer, ettersom driftsansvarlige etter etableringen må sikre at dyrepopulasjonen er beskyttet og at dens særskilte helsestatus er bevart under alle omstendigheter, også og spesielt der det finnes en restriksjonssone for kategori A-sykdommen i nærheten av segmentet. De strengeste biosikkerhetstiltakene bør derfor gjelde for alle delene i segmentene, noe som bare kan oppnås gjennom et felles forvaltningssystem for biosikkerhet. Et slikt system krever streng styring, og for dette formålet bør derfor hver driftsansvarlig for et segment utpeke en segmentansvarlig med definerte oppgaver og ansvarsområder.
 8. Driftsansvarlige som søker vedkommende myndighet om godkjenning av sykdomsfri status med hensyn til kategori A-sykdommer for segmenter der det holdes landdyr, bør være kjent med kravene og framgangsmåtene for slike søknader. Det er derfor nødvendige å fastsette slike krav og framgangsmåter i denne forordningen.
 9. En søknad om godkjenning av sykdomsfri status med hensyn til en kategori A-sykdom for et segment der det holdes landdyr, bør ikke tillates når segmentet eller en del av dette ligger i en restriksjonssone for denne kategori A-sykdommen, ettersom det vil være vanskelig å etablere, opprettholde og verifisere effektive biosikkerhetsplaner når utbrudd av denne kategori A-sykdommen skjer i nærheten av segmentet.
 10. Artikkel 94–100 i forordning [(EU) 2016/429](eu/32016r0429) fastsetter alminnelige regler og framgangsmåter for godkjenning av visse typer anlegg, særlig dem som er nevnt i forordningens artikkel 94 nr. 1 bokstav e), som omfatter segmenter. Denne forordningen bør fastsette visse detaljerte framgangsmåter for vedkommende myndighet for godkjenning, midlertidig oppheving og tilbakekalling av sykdomsfri status med hensyn til kategori A-sykdommer i segmenter der det holdes landdyr. Dette skyldes kompleksiteten og spesifisiteten til forvaltningstiltakene for biosikkerhet for segmentene og forskjellene med hensyn til risiko for dyresykdommer mellom brudd på biosikkerhetstiltakene og den faktiske forekomsten i segmentet av den eller de kategori A-sykdommene som segmentet har fått sykdomsfri status for.
 11. De listeførte sykdommene for hvilke sykdomsfri status for segmenter kan fastsettes i samsvar med artikkel 37 i forordning [(EU) 2016/429](eu/32016r0429), er angitt i vedlegg II til gjennomføringsforordning [(EU) 2020/690](eu/32020r0690) og omfatter høypatogen aviær influensa og infeksjon med Newcastle disease-virus. Segmenter der det holdes fjørfe (fjørfesegmenter) som er gitt sykdomsfri status for høypatogen aviær influensa og Newcastle disease-virus, bør oppfylle flere bestemte krav, særlig en detaljert beskrivelse av fjørfesegmentet, et målrettet felles forvaltningssystem for biosikkerhet og verne- og overvåkingssystemer som er skreddersydd for å håndtere risikoen for innføring av disse to kategori A-sykdommene i fjørfesegmentet. Slike bestemte tekniske og detaljerte krav bør fastsettes i denne forordningen.
-12. De reglene som er fastsatt i denne forordningen for godkjenning av sykdomsfri status med hensyn til kategori A-sykdommer i segmenter der det holdes landdyr, avviker fra reglene som var gjeldende før anvendelsesdatoen for forordning [(EU) 2016/429](eu/32016r0429). Når det gjelder landdyr, ble bruken av fjørfesegmenter tillatt i henhold til rådsdirektiv [2005/94/EF](eu/32005l0094)4 med hensyn til aviær influensa. Segmenter som var godkjent i samsvar med nevnte direktiv og kommisjonsforordning [(EF) nr. 616/2009](eu/32009r0616)5, som begge nå er opphevet, anses fortsatt å ha godkjent sykdomsfri status for høypatogen aviær influensa på grunnlag av overgangsbestemmelsene fastsatt i artikkel 280 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 84 nr. 2 bokstav a) i delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)6. De segmentene i medlemsstatene som er anerkjent som frie for høypatogen aviær influensa, er oppført i vedlegg XI til Kommisjonens gjennomføringsforordning [(EU) nr. 2021/620](eu/32021r0620)7. Denne sykdomsfrie statusen bør opprettholdes så lenge det er nødvendig for driftsansvarlige å søke om godkjenning av sykdomsfri status for segmenter i samsvar med denne forordningen. Det bør derfor fastsettes hensiktsmessige overgangsbestemmelser for å sikre en smidig overgang for den gjeldende anerkjente statusen som sykdomsfri for fjørfesegmenter som er oppført i vedlegg XI til gjennomføringsforordning [(EU) 2021/620](eu/32021r0620).
+12. De reglene som er fastsatt i denne forordningen for godkjenning av sykdomsfri status med hensyn til kategori A-sykdommer i segmenter der det holdes landdyr, avviker fra reglene som var gjeldende før anvendelsesdatoen for forordning [(EU) 2016/429](eu/32016r0429). Når det gjelder landdyr, ble bruken av fjørfesegmenter tillatt i henhold til rådsdirektiv [2005/94/EF](eu/32005l0094)[^4] med hensyn til aviær influensa. Segmenter som var godkjent i samsvar med nevnte direktiv og kommisjonsforordning [(EF) nr. 616/2009](eu/32009r0616)[^5], som begge nå er opphevet, anses fortsatt å ha godkjent sykdomsfri status for høypatogen aviær influensa på grunnlag av overgangsbestemmelsene fastsatt i artikkel 280 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 84 nr. 2 bokstav a) i delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689)[^6]. De segmentene i medlemsstatene som er anerkjent som frie for høypatogen aviær influensa, er oppført i vedlegg XI til Kommisjonens gjennomføringsforordning [(EU) nr. 2021/620](eu/32021r0620)[^7]. Denne sykdomsfrie statusen bør opprettholdes så lenge det er nødvendig for driftsansvarlige å søke om godkjenning av sykdomsfri status for segmenter i samsvar med denne forordningen. Det bør derfor fastsettes hensiktsmessige overgangsbestemmelser for å sikre en smidig overgang for den gjeldende anerkjente statusen som sykdomsfri for fjørfesegmenter som er oppført i vedlegg XI til gjennomføringsforordning [(EU) 2021/620](eu/32021r0620).
 
 1 EUT L 84 av 31.3.2016, s. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
 
@@ -7287,7 +7287,7 @@ Felles forvaltningssystem for biosikkerhet for et fjørfesegment
 
 Særlige verne- og overvåkingstiltak for høypatogen aviær influensa
 
-1. Alle anleggene som utgjør en del av fjørfesegmentet, skal godkjennes i samsvar med artikkel 3 nr. 1 bokstav c) i) i denne forordningen, og oppfylle kravene for godkjenning av rugerier fastsatt i artikkel 7 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)8 eller kravene for godkjenning av anlegg der det holdes fjørfe fastsatt i artikkel 8 i forordningen. I tillegg skal følgende krav oppfylles:
+1. Alle anleggene som utgjør en del av fjørfesegmentet, skal godkjennes i samsvar med artikkel 3 nr. 1 bokstav c) i) i denne forordningen, og oppfylle kravene for godkjenning av rugerier fastsatt i artikkel 7 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)[^8] eller kravene for godkjenning av anlegg der det holdes fjørfe fastsatt i artikkel 8 i forordningen. I tillegg skal følgende krav oppfylles:
 
    1. Diagrammet nevnt i del III bokstav b) iii) i vedlegg I til denne forordningen skal vise plasseringen av anleggene der det holdes alle typer fjørfe, samt rugerier, oppdrettssteder, verpesteder, forsøkssteder, egglagre og alle steder der det oppbevares egg eller fjørfe. Det skal vise flyten av produkter og andre varer mellom disse stedene.
    2. En detaljert framgangsmåte skal regulere forflytning av fjørfe, egg og andre produkter fra disse. Fjørfe, egg og andre produkter fra disse som kommer inn i et anlegg som utgjør en del av fjørfesegmentet, skal komme fra et anlegg med sykdomsfri status med hensyn til høypatogen aviær influensa og skal kontrolleres for å sikre at de ikke utgjør noen risiko for innføring av høypatogen aviær influensa.
@@ -7301,7 +7301,7 @@ Særlige verne- og overvåkingstiltak for høypatogen aviær influensa
       1. minst hver sjette måned i produksjonsperioden dersom ingen utbrudd av høypatogen aviær influensa hos fjørfe eller andre fugler i fangenskap er bekreftet i løpet av de foregående seks månedene på medlemsstatens territorium
       2. minst hver tredje måned dersom det er bekreftet utbrudd av sterkt sykdomsframkallende aviær influensa hos fjørfe eller andre fugler i fangenskap i løpet av de foregående seks månedene på medlemsstatens territorium
       3. dersom en del av fjørfesegmentet ligger i en restriksjonssone på grunn av et utbrudd av høypatogen aviær influensa, innen en uke etter datoen for utbruddet og deretter minst hver 28. dag. Dessuten skal overvåkingen oppdateres slik at den omfatter daglig klinisk undersøkelse samt prøver som tas ukentlig på et representativt antall fugler som er syke eller funnet døde, for molekylær virologisk testing.
-   3. Prøvene skal sendes til et laboratorium utpekt i samsvar med artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)9 av vedkommende myndighet for å utføre testene, idet det tas hensyn til fuglenes vaksinasjonsstatus og hvilke typer vaksiner som er brukt.
+   3. Prøvene skal sendes til et laboratorium utpekt i samsvar med artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)[^9] av vedkommende myndighet for å utføre testene, idet det tas hensyn til fuglenes vaksinasjonsstatus og hvilke typer vaksiner som er brukt.
 3. Systemet for tidlig varsling nevnt i del I avsnitt 1 nr. 2 bokstav c) må bygge på en skriftlig protokoll med angivelse av framgangsmåtene for rapportering. Det skal være tilpasset artene av fjørfe som finnes i segmentet og deres mottakelighet for høypatogen aviær influensa, og skal
 
    1. angi tiltaksnivåer basert på resultater og definerte terskler for den passive og aktive overvåkingen som er beskrevet i nr. 2

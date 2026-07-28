@@ -15,7 +15,7 @@ xml_hash: "0ba35f4ba557bfdf3410c32d0a926c0e9960fdfbda8dbdb8a9b42b52b8c67bc4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -112,7 +112,7 @@ Opplysninger kommisjonen mottar i medhold av [§ 7](lov/2025-03-28-5/§7), kan i
 
 ## § 13. Ikraftsetting
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544).
 

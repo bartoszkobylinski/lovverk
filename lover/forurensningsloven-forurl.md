@@ -15,7 +15,7 @@ xml_hash: "ec5c71366aef0b3b7f0393c3f108a1049c81493c6ce7dd688e91de8f52846a00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009R1221"
@@ -44,7 +44,7 @@ Gjennomføringen av loven skal skje etter disse retningslinjer:
 1. Det skal arbeides for å hindre at forurensning oppstår eller øker, og for å begrense forurensning som finner sted. Det skal likeledes arbeides for å unngå avfallsproblemer. Loven skal nyttes for å oppnå en miljøkvalitet som er tilfredsstillende ut fra en samlet vurdering av helse, velferd, naturmiljøet, kostnader forbundet med tiltakene og økonomiske forhold.
 2. Forurensningsmyndighetene skal samordne sin virksomhet med planmyndighetene slik at planlovgivningen sammen med denne lov brukes for å unngå og begrense forurensning og avfallsproblemer.
 3. For å unngå og begrense forurensning og avfallsproblemer skal det tas utgangspunkt i den teknologi som ut fra en samlet vurdering av nåværende og fremtidig bruk av miljøet og av økonomiske forhold, gir de beste resultater.
-4. Avfall skal tas hånd om slik at det blir minst mulig til skade og ulempe. Det skal gjenvinnes, fortrinnsvis ved at det forberedes til ombruk eller materialgjenvinnes, med mindre gjenvinning ikke er berettiget ut fra en avveining av miljøhensyn, ressurshensyn og økonomiske forhold.1
+4. Avfall skal tas hånd om slik at det blir minst mulig til skade og ulempe. Det skal gjenvinnes, fortrinnsvis ved at det forberedes til ombruk eller materialgjenvinnes, med mindre gjenvinning ikke er berettiget ut fra en avveining av miljøhensyn, ressurshensyn og økonomiske forhold.[^1]
 5. Kostnadene ved å hindre eller begrense forurensning og avfallsproblemer skal dekkes av den ansvarlige for forurensningen eller avfallet.
 6. Forurensning og avfallsproblemer som skyldes virksomhet på norsk område skal motvirkes i samme utstrekning hva enten skadene eller ulempene inntrer i eller utenfor Norge.
 
@@ -219,7 +219,7 @@ Forurensningsmyndigheten kan unnlate å holde møte som nevnt i første ledd der
 
 ### § 16. (vilkår i tillatelse)
 
-I tillatelse etter loven eller forskrift i medhold av loven kan det settes nærmere vilkår for å motvirke at forurensning fører til skader eller ulemper, og for å fremme effektiv utnyttelse av energi som virksomheten bruker eller frembringer.1 Det kan herunder fastsettes vilkår om beskyttelses- og rensetiltak, gjenvinning og at tillatelsen bare skal gjelde for en viss tid.
+I tillatelse etter loven eller forskrift i medhold av loven kan det settes nærmere vilkår for å motvirke at forurensning fører til skader eller ulemper, og for å fremme effektiv utnyttelse av energi som virksomheten bruker eller frembringer.[^1] Det kan herunder fastsettes vilkår om beskyttelses- og rensetiltak, gjenvinning og at tillatelsen bare skal gjelde for en viss tid.
 
 Dersom forurensning fra virksomheten jevnlig vil utelukke eller vanskeliggjøre bruk av miljøet til et bestemt formål, kan det settes som vilkår at det treffes tiltak som tilgodeser dette formålet, eller at det gis tilskudd til slike tiltak. Det kan også settes som vilkår at forurenseren ved avtale eller ekspropriasjon erverver eller båndlegger områder som blir sterkt forurenset.
 
@@ -731,7 +731,7 @@ Forurensningsmyndigheten kan gi forskrifter om internkontroll og internkontrolls
 
 Forurensingsmyndigheten eller den forurensningsmyndigheten bemyndiger kan gi forskrifter som gjennomfører [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om frivillig deltakelse i en miljøstyrings- og miljørevisjonsordning (EMAS-ordningen).
 
-Brønnøysundregistrenes vedtak om hvorvidt en organisasjon skal registreres eller strykes fra registeret etter forordningens1 artikkel 6, og Justervesenets vedtak om å gi, utvide, avslå, suspendere eller trekke tilbake akkreditering av miljøkontrollører etter artikkel 4 nr. 4 og 5, kan påklages til forurensningsmyndigheten.
+Brønnøysundregistrenes vedtak om hvorvidt en organisasjon skal registreres eller strykes fra registeret etter forordningens[^1] artikkel 6, og Justervesenets vedtak om å gi, utvide, avslå, suspendere eller trekke tilbake akkreditering av miljøkontrollører etter artikkel 4 nr. 4 og 5, kan påklages til forurensningsmyndigheten.
 
 > Tilføyd ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36), endret ved [lov 15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 21 mars 2003 iflg. [res. 21 mars 2003 nr. 359](forskrift/2003-03-21-359), paragrafen flyttet fra kap. 7A hvis overskrift samtidig ble opphevet).
 
@@ -912,7 +912,7 @@ Vedkommende forvaltningsorgan kan helt eller delvis frafalle sitt krav på dekni
 
 Om lemping av ansvar etter første, annet og tredje ledd gjelder [skadeerstatningsloven § 5-2](lov/1969-06-13-26/§5-2) tilsvarende.
 
-Krav etter paragrafen her foreldes 5 år etter den dag da tiltakene ble gjennomført.1 Dersom den ansvarlige ikke var kjent da tiltakene ble gjennomført, foreldes kravet 5 år etter den dagen da fordringshaveren fikk eller burde ha skaffet seg nødvendig kunnskap om den ansvarlige. Har forurensningsmyndigheten truffet vedtak om krav på refusjon, løper fristen fra tidspunktet da endelig vedtak ble truffet. Kravet foreldes likevel senest 30 år etter at tiltakene ble gjennomført. For øvrig gjelder reglene i [foreldelsesloven](lov/1979-05-18-18) så langt de passer.
+Krav etter paragrafen her foreldes 5 år etter den dag da tiltakene ble gjennomført.[^1] Dersom den ansvarlige ikke var kjent da tiltakene ble gjennomført, foreldes kravet 5 år etter den dagen da fordringshaveren fikk eller burde ha skaffet seg nødvendig kunnskap om den ansvarlige. Har forurensningsmyndigheten truffet vedtak om krav på refusjon, løper fristen fra tidspunktet da endelig vedtak ble truffet. Kravet foreldes likevel senest 30 år etter at tiltakene ble gjennomført. For øvrig gjelder reglene i [foreldelsesloven](lov/1979-05-18-18) så langt de passer.
 
 > Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [21 juni 1996 nr. 36](lov/1996-06-21-36), [14 juni 2013 nr. 52](lov/2013-06-14-52), [21 mai 2021 nr. 41](lov/2021-05-21-41).
 
@@ -1035,7 +1035,7 @@ Når særlige hensyn taler for det, kan kommunestyret og fylkestinget delegere m
 
 Enhver kan anmode forurensningsmyndigheten om å treffe tiltak etter [§ 7](lov/1981-03-13-6/§7).
 
-Forurensningsmyndigheten har plikt til å vurdere en anmodning som er fremsatt av en fysisk eller juridisk person, som berøres eller ventes å bli berørt av betydelig miljøskade, eller som har tilstrekkelig interesse i saken. Anmodningen må underbygges med opplysninger som sannsynliggjør at det foreligger betydelig miljøskade i vann eller på land eller overhengende fare for slik skade.1
+Forurensningsmyndigheten har plikt til å vurdere en anmodning som er fremsatt av en fysisk eller juridisk person, som berøres eller ventes å bli berørt av betydelig miljøskade, eller som har tilstrekkelig interesse i saken. Anmodningen må underbygges med opplysninger som sannsynliggjør at det foreligger betydelig miljøskade i vann eller på land eller overhengende fare for slik skade.[^1]
 
 Forurensningsmyndighetens avgjørelse på grunnlag av anmodning som nevnt i annet ledd er enkeltvedtak også dersom pålegg ikke gis.
 
@@ -1081,7 +1081,7 @@ Departementet kan gi bestemmelser til utfylling og gjennomføring av denne lov, 
 
 ### § 89. (ikrafttreden)
 
-Loven trer i kraft1 fra den tid Kongen bestemmer. Deler av loven kan settes i kraft til forskjellige tider, også i forskjellige fylker og kommuner. I forbindelse med lovens ikrafttreden eller senere kan Kongen sette en frist for alle eller enkelte kommuner til å gjennomføre de plikter som loven pålegger kommunene. Det samme gjelder overfor vegstyresmaktene i forhold til [§ 36](lov/1981-03-13-6/§36).
+Loven trer i kraft[^1] fra den tid Kongen bestemmer. Deler av loven kan settes i kraft til forskjellige tider, også i forskjellige fylker og kommuner. I forbindelse med lovens ikrafttreden eller senere kan Kongen sette en frist for alle eller enkelte kommuner til å gjennomføre de plikter som loven pålegger kommunene. Det samme gjelder overfor vegstyresmaktene i forhold til [§ 36](lov/1981-03-13-6/§36).
 
 > Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
 

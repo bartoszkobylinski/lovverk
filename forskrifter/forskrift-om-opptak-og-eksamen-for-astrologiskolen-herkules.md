@@ -15,7 +15,7 @@ xml_hash: "2c4592ec8eb99f7313f99859304b9f79930b3b8c221d5d4743b2ab84bd9cdd7c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -347,6 +347,6 @@ Fastsatt med hjemmel i § 25 i [lov om høyere yrkesfaglig utdanning.](lov/2018-
 
 (1) Denne forskrift ble vedtatt av Astrologiskolen Herkules sitt styre 15. mai 2019 og gjelder fra kunngjøringsdato.
 
-(2) Samtidig oppheves reglement for opptak og eksamen ved Astrologiskolen Herkules gjeldende fra 11. juli 2016.1
+(2) Samtidig oppheves reglement for opptak og eksamen ved Astrologiskolen Herkules gjeldende fra 11. juli 2016.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend.

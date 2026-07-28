@@ -15,7 +15,7 @@ xml_hash: "fb78564877fb515429be4d4525464be1c6ae531e0854e6fa5973b97b63e3cc24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -443,7 +443,7 @@ For å lese vedlegget se her: [pdf-fil](static/SF/sf-20180615-0889-01-09.pdf).
 | *Phelsuma gouldi* |  |  |  |  |
 | *Phelsuma hoeschi* |  |  |  |  |
 | *Phelsuma ravenala* |  |  |  |  |
-| Significant trade | *Furcifer labordi*1 |  |  |  |
+| Significant trade | *Furcifer labordi*[^1] |  |  |  |
 | Significant trade | *Coracopsis vasa* |  |  |  |
 | Mali | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
 | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Uromastyx dispar* | 22. august 2008 |  |

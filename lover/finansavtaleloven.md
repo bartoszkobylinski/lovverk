@@ -15,7 +15,7 @@ xml_hash: "af5d3a44ac932017ad8adb10deb04eec7b4b0d3a5979719ffa1ad20e7f4aa2ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1963,7 +1963,7 @@ Den som formidler kausjon som ledd i næringsvirksomhet mellom en kausjonist som
 
 ### § 8-1. Ikrafttredelse
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelser i loven kan settes i kraft til ulik tid.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer. De enkelte bestemmelser i loven kan settes i kraft til ulik tid.
 
 (2) Forskrifter gitt i medhold av [lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag](lov/1999-06-25-46) og [lov 20. juni 2014 nr. 27 om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler](lov/2014-06-20-27) gjelder også etter at loven her har trådt i kraft.
 

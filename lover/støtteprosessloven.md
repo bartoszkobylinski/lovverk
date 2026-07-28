@@ -15,7 +15,7 @@ xml_hash: "25cca33aa51621b34bbb5b51e1db286f275af982437704b49143e105e6c0d6eb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -172,7 +172,7 @@ Departementet kan fatte enkeltvedtak om reversering av ytelser som er gitt i str
 
 ## § 18. Ikrafttredelse
 
-Loven gjelder fra den tiden1 Kongen bestemmer.
+Loven gjelder fra den tiden[^1] Kongen bestemmer.
 
 1 Fra 22. juni 2022 for [§ 19](lov/2022-03-04-7/§19) nr. 4 iflg. [res. 22 juni 2022 nr. 1143](forskrift/2022-06-22-1143).
 Fra 1. januar 2023 for øvrige bestemmelser iflg. [res. 16 des 2022 nr. 2252](forskrift/2022-12-16-2252).

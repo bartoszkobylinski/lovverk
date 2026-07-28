@@ -15,7 +15,7 @@ xml_hash: "d65ae08ac27163df4829fbaa2fd417664ed3185360a123a11bd34b8b81ea6f73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -263,6 +263,6 @@ Forpliktelsen til å gi opplysninger som er fastsatt i [§ 4-4 første ledd](for
 
 ### § 7-1. Ikrafttredelse
 
-Forskriften trer i kraft samtidig som beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/797](eu/32016l0797) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/797](eu/32016l0797) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 790](forskrift/2022-05-06-790).

@@ -15,7 +15,7 @@ xml_hash: "39defda4d3ac5c32f20b6d722832be130d557e5b44e809f03c6f24482ebebf13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,14 +52,14 @@ etter samråd med Den europeiske økonomiske og sosiale komité,
 
 etter samråd med Regionkomiteen,
 
-etter den ordinære regelverksprosedyren1 og
+etter den ordinære regelverksprosedyren[^1] og
 
 ut fra følgende betraktninger:
 
 1. Koronavirussykdom (covid-19) er en infeksjonssykdom forårsaket av et nylig oppdaget koronavirus. Den 30. januar 2020 erklærte Verdens helseorganisasjon (WHO) sykdomsutbruddet som en alvorlig hendelse av betydning for internasjonal folkehelse. Den 11. mars 2020 klassifiserte WHO covid-19 som en pandemi.
-2. I henhold til europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083)2 og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)3 skal søknader om tillatelse til å bringe et legemiddel i omsetning i en medlemsstat eller i Unionen ledsages av dokumentasjon som inneholder resultatene av kliniske utprøvinger som er gjennomført med legemiddelet.
-3. Det følger av europaparlaments- og rådsdirektiv [2001/20/EF](eu/32001l0020)4 at sponsorer, før en klinisk utprøving starter, skal søke om tillatelse fra vedkommende myndighet i medlemsstaten der den kliniske utprøvingen skal gjennomføres. Formålet med tillatelsen er å beskytte forsøkspersonenes rettigheter, sikkerhet og velferd og å sikre at dataene som framkommer i den kliniske utprøvingen, er pålitelige og robuste.
-4. I henhold til direktiv [2001/20/EF](eu/32001l0020) berører utstedelsen av en tillatelse til å gjennomføre en klinisk utprøving ikke anvendelsen av europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018)5 og europaparlaments- og rådsdirektiv [2009/41/EF](eu/32009l0041)6.
+2. I henhold til europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083)[^2] og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)[^3] skal søknader om tillatelse til å bringe et legemiddel i omsetning i en medlemsstat eller i Unionen ledsages av dokumentasjon som inneholder resultatene av kliniske utprøvinger som er gjennomført med legemiddelet.
+3. Det følger av europaparlaments- og rådsdirektiv [2001/20/EF](eu/32001l0020)[^4] at sponsorer, før en klinisk utprøving starter, skal søke om tillatelse fra vedkommende myndighet i medlemsstaten der den kliniske utprøvingen skal gjennomføres. Formålet med tillatelsen er å beskytte forsøkspersonenes rettigheter, sikkerhet og velferd og å sikre at dataene som framkommer i den kliniske utprøvingen, er pålitelige og robuste.
+4. I henhold til direktiv [2001/20/EF](eu/32001l0020) berører utstedelsen av en tillatelse til å gjennomføre en klinisk utprøving ikke anvendelsen av europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018)[^5] og europaparlaments- og rådsdirektiv [2009/41/EF](eu/32009l0041)[^6].
 5. I direktiv [2001/18/EF](eu/32001l0018) er det fastsatt at utsetting i miljøet av genmodifiserte organismer («GMO») for andre formål enn å bringe dem i omsetning, skal meldes til og skriftlig godkjennes av vedkommende myndighet i den medlemsstaten der utsettingen skal finne sted. Meldingen skal inneholde en miljørisikovurdering utført i samsvar med vedlegg II til direktiv [2001/18/EF](eu/32001l0018) og teknisk dokumentasjon med opplysningene angitt i vedlegg III til nevnte direktiv.
 6. I direktiv [2009/41/EF](eu/32009l0041) er det fastsatt at risikoene for menneskers helse og miljøet forbundet med innesluttet bruk av genmodifiserte mikroorganismer skal vurderes i hvert enkelt tilfelle. For dette formålet er det i nevnte direktiv fastsatt at brukeren skal vurdere de risikoene for menneskers helse og miljøet som den spesifikke typen innesluttet bruk kan innebære, og i den forbindelse minst bruke vurderingselementene og framgangsmåten fastsatt i vedlegg III til nevnte direktiv.
 7. Ved kliniske utprøvinger kreves det en rekke forskjellige aktiviteter, herunder framstilling, transport og oppbevaring av utprøvingspreparatene, emballering og merking, administrering av preparatene til forsøkspersonene og etterfølgende overvåking av dem samt kassering av avfall og ubrukte utprøvingspreparater. Disse aktivitetene kan i tilfeller der utprøvingspreparatet inneholder eller består av genmodifiserte organismer, omfattes av direktiv [2001/18/EF](eu/32001l0018) eller [2009/41/EF](eu/32009*0041).
@@ -127,7 +127,7 @@ I denne forordningen menes med
 
 ### Artikkel 4
 
-1\. Denne forordningen får anvendelse så lenge WHO klassifiserer covid-19 som en pandemi, eller så lenge en gjennomføringsrettsakt der Kommisjonen anerkjenner situasjonen som en folkehelsekrise forårsaket av covid-19 i samsvar med artikkel 12 i europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*)7, får anvendelse.
+1\. Denne forordningen får anvendelse så lenge WHO klassifiserer covid-19 som en pandemi, eller så lenge en gjennomføringsrettsakt der Kommisjonen anerkjenner situasjonen som en folkehelsekrise forårsaket av covid-19 i samsvar med artikkel 12 i europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*)[^7], får anvendelse.
 
 2\. Når vilkårene for anvendelse av denne forordningen nevnt i nr. 1 ikke lenger er oppfylt, skal Kommisjonen offentliggjøre en melding om dette i Den europeiske unions tidende.
 

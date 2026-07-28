@@ -15,7 +15,7 @@ xml_hash: "98beb867559f729136409eae6badb0462f2b4fded94ac99978de466d8e7c212a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,19 +86,19 @@ Krav i medhold av Stortingets vedtak av 27. april 1972 er oppstått nevnte dato.
 
 1\.
 
-Utbetalingene skal administreres av Direktoratet for sjømenn1 som avgjør hvorvidt fremsatte krav skal imøtekommes.
+Utbetalingene skal administreres av Direktoratet for sjømenn[^1] som avgjør hvorvidt fremsatte krav skal imøtekommes.
 
 1.1
 
-Direktoratet for sjømenn1 innhenter de opplysninger som er nødvendig for å avgjøre størrelsen av krav og hvem som er berettiget til utbetaling.
+Direktoratet for sjømenn[^1] innhenter de opplysninger som er nødvendig for å avgjøre størrelsen av krav og hvem som er berettiget til utbetaling.
 
 1.2
 
-Direktoratet for sjømenn1 utarbeider skjema som skal fylles ut i forbindelse med krav om utbetaling. Slike skjema blir å legge ut på høvelige offentlige kontorer m.v. etter nærmere bestemmelse av direktoratet.
+Direktoratet for sjømenn[^1] utarbeider skjema som skal fylles ut i forbindelse med krav om utbetaling. Slike skjema blir å legge ut på høvelige offentlige kontorer m.v. etter nærmere bestemmelse av direktoratet.
 
 1.3
 
-Utbetalingen skjer slik Direktoratet for sjømenn1 bestemmer, fortrinnsvis over postgiro.
+Utbetalingen skjer slik Direktoratet for sjømenn[^1] bestemmer, fortrinnsvis over postgiro.
 
 1.4
 
@@ -112,7 +112,7 @@ I den utstrekning det er mulig skal utbetaling til kravshavere født i 1905 elle
 
 ## III.
 
-Mulige klager vedrørende utbetalingen i henhold til Stortingets vedtak av 27. april 1972 og nærværende regler, stiles til Handelsdepartementet og sendes Direktoratet for sjømenn1.
+Mulige klager vedrørende utbetalingen i henhold til Stortingets vedtak av 27. april 1972 og nærværende regler, stiles til Handelsdepartementet og sendes Direktoratet for sjømenn[^1].
 
 1 Sjøfartsdirektoratet, ifølge [forskrift 23. desember 1988 nr. 1081](forskrift/1988-12-23-1081).
 

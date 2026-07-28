@@ -15,7 +15,7 @@ xml_hash: "8121d97bd815957247d8f476fc13e5006925b92aa794373f6e99b3ade16a7634"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -266,7 +266,7 @@ Overtredelse av forbudet i første ledd straffes med bøter. Det som er avvirket
 
 ### § 21. (ikrafttredelse)
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Fra samme tid oppheves [lov 31. mai 1974 nr. 19](lov/1974-05-31-19) om konsesjon ved erverv av fast eiendom (konsesjonsloven).
 

@@ -15,7 +15,7 @@ xml_hash: "3a21ff8c9f12937b7e723ad20766b59ab2550568d64104c9e010e84a4d003798"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3217,7 +3217,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 
 | *Dataelement-<br>nummer* | *Navn på dataelement/<br>dataklasse* | *Navn på data-<br>underelement/<br>dataunderklasse* | *Navn på data-<br>underelement* | *F10* | *F11* | *F12* | *F13* | *F14* | *F15* | *F16* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11 03 000 000 | Varelinjenummer |  |  | A1 | A2 1 | A2 | A2 | A1 | A1 |  |
+| 11 03 000 000 | Varelinjenummer |  |  | A[^1] | A[^2] [^1] | A[^2] | A[^2] | A[^1] | A[^1] |  |
 | HI | MI<br>HI | MI | MI | HI | HI |  |  |  |  |  |
 | 11 04 000 000 | Detaljert indikator for omstendigheter |  |  | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
@@ -3229,13 +3229,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D |  |  |  |  |  |  |  |
 | 11 06 002 000 |  | Forutgående MRN |  | A | A | A | A |  |  |  |
 | D | D | D | D |  |  |  |  |  |  |  |
-| 12 02 000 000 | Tilleggsopplysninger |  |  | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 |
+| 12 02 000 000 | Tilleggsopplysninger |  |  | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | MC<br>HC<br>HI | MC<br>HC<br>HI | HC |  |  |  |  |
 | 12 02 008 000 |  | Kode |  | A | A | A | A | A | A | A |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | MC<br>HC<br>HI | MC<br>HC<br>HI | HC |  |  |  |  |
 | 12 02 009 000 |  | Tekst |  | A | A | A | A | A | A | A |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | MC<br>HC<br>HI | MC<br>HC<br>HI | HC |  |  |  |  |
-| 12 03 000 000 | Støttedokument |  |  | A3 | A3 | A3 | A3 | A3 | A3 | A3 |
+| 12 03 000 000 | Støttedokument |  |  | A[^3] | A[^3] | A[^3] | A[^3] | A[^3] | A[^3] | A[^3] |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI | HC |  |  |  |  |
 | 12 03 001 000 |  | Referansenummer |  | A | A | A | A | A | A | A |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI | HC |  |  |  |  |
@@ -3247,7 +3247,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC<br>HC | MC | MC | HC | HC | HC |  |  |  |  |
 | 12 05 002 000 |  | Type |  | A | A | A | A | A | A | A |
 | MC | MC<br>HC | MC | MC | HC | HC | HC |  |  |  |  |
-| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A5 | A5 | A5 | A5 | A5 | A5 | A5 |
+| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A[^5] | A[^5] | A[^5] | A[^5] | A[^5] | A[^5] | A[^5] |
 | D | D | D | D | D | D | D |  |  |  |  |
 | 12 08 000 000 | Referansenummer/<br>UCR |  |  | C | C | C | C | C | C | C |
 | MC<br>HC | MC<br>HC | MC | MC | HC | HC | HC |  |  |  |  |
@@ -3257,19 +3257,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 02 016 000 |  | Navn |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 | A6 |  |
+| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 02 028 000 |  | Type person |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 02 018 000 |  | Adresse |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 02 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 02 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 02 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 02 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 02 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 02 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 02 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 02 018 027 |  |  | Underinndeling | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
@@ -3289,19 +3289,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 03 016 000 |  | Navn |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 | A6 |  |
+| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 03 028 000 |  | Type person |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 03 018 000 |  | Adresse |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 03 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 03 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 03 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 03 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 03 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 03 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 03 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 03 018 027 |  |  | Underinndeling | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
@@ -3325,13 +3325,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 05 018 000 |  | Adresse |  | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 05 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 05 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 05 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 05 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 05 018 027 |  |  | Underinndeling | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
@@ -3357,13 +3357,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 018 000 |  | Adresse |  | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 06 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 06 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 06 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 018 027 |  |  | Underinndeling | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
@@ -3379,23 +3379,23 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 029 002 |  |  | Type | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D |  |  |  |  |
-| 13 08 000 000 | Selger |  |  | A7 | A7 |  |  |  | A7 | A7 |
+| 13 08 000 000 | Selger |  |  | A[^7] | A[^7] |  |  |  | A[^7] | A[^7] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 08 016 000 |  | Navn |  | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 08 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 |  |  |  | A6 | A6 |
+| 13 08 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] |  |  |  | A[^6] | A[^6] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 08 028 000 |  | Type person |  | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 08 018 000 |  | Adresse |  | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 08 018 023 |  |  | Adresselinje 1 | A4 | A4 |  |  |  | A4 | A4 |
+| 13 08 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 08 018 024 |  |  | Adresselinje 2 | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 08 018 025 |  |  | Nummer | A4 | A4 |  |  |  | A4 | A4 |
+| 13 08 018 025 |  |  | Nummer | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 08 018 026 |  |  | Postboks | A4 | A4 |  |  |  | A4 | A4 |
+| 13 08 018 026 |  |  | Postboks | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 08 018 027 |  |  | Underinndeling | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
@@ -3411,23 +3411,23 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 08 029 002 |  |  | Type | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 09 000 000 | Kjøper |  |  | A7 | A7 |  |  |  | A7 | A7 |
+| 13 09 000 000 | Kjøper |  |  | A[^7] | A[^7] |  |  |  | A[^7] | A[^7] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 09 016 000 |  | Navn |  | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 09 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 |  |  |  | A6 | A6 |
+| 13 09 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] |  |  |  | A[^6] | A[^6] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 09 028 000 |  | Type person |  | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 09 018 000 |  | Adresse |  | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 09 018 023 |  |  | Adresselinje 1 | A4 | A4 |  |  |  | A4 | A4 |
+| 13 09 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 09 018 024 |  |  | Adresselinje 2 | A4 | A4 |  |  |  | A | A |
+| 13 09 018 024 |  |  | Adresselinje 2 | A[^4] | A[^4] |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 09 018 025 |  |  | Nummer | A4 | A4 |  |  |  | A4 | A4 |
+| 13 09 018 025 |  |  | Nummer | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
-| 13 09 018 026 |  |  | Postboks | A4 | A4 |  |  |  | A4 | A4 |
+| 13 09 018 026 |  |  | Postboks | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
 | 13 09 018 027 |  |  | Underinndeling | A | A |  |  |  | A | A |
 | GS | GS |  |  |  | GS | GS |  |  |  |  |
@@ -3451,13 +3451,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC | MC | MC | HC | HC | HC |  |  |  |  |
 | 13 12 018 000 |  | Adresse |  | A | A | A | A |  |  |  |
 | MC | MC | MC | MC |  |  |  |  |  |  |  |
-| 13 12 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 |  |  |  |
+| 13 12 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] |  |  |  |
 | MC | MC | MC | MC |  |  |  |  |  |  |  |
 | 13 12 018 024 |  |  | Adresselinje 2 | A | A | A | A |  |  |  |
 | MC | MC | MC | MC |  |  |  |  |  |  |  |
-| 13 12 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 |  |  |  |
+| 13 12 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] |  |  |  |
 | MC | MC | MC | MC |  |  |  |  |  |  |  |
-| 13 12 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 |  |  |  |
+| 13 12 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] |  |  |  |
 | MC | MC | MC | MC |  |  |  |  |  |  |  |
 | 13 12 018 027 |  |  | Underinndeling | A | A | A | A |  |  |  |
 | MC | MC | MC | MC |  |  |  |  |  |  |  |
@@ -3477,19 +3477,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 13 016 000 |  | Navn |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 13 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 | A6 |  |
+| 13 13 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 13 028 000 |  | Type person |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 13 018 000 |  | Adresse |  | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 13 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 13 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 13 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 13 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 13 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
-| 13 13 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 |  |
+| 13 13 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 13 13 018 027 |  |  | Underinndeling | A | A | A | A | A | A |  |
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
@@ -3509,7 +3509,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI | HC |  |  |  |  |
 | 13 14 031 000 |  | Rolle |  | A | A | A | A | A | A | A |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI | HC |  |  |  |  |
-| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 | A6 | A6 |
+| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI | HC |  |  |  |  |
 | 13 15 000 000 | Supplerende deklarant |  |  |  |  | A | A | A | A |  |
 |  |  | MC | MC | HC | HC |  |  |  |  |  |
@@ -3523,7 +3523,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 15 01 000 000 | Estimert dato og tidspunkt for avgang |  |  | A | A | A | A |  |  |  |
 | D | D | D | D |  |  |  |  |  |  |  |
-| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A8 | A8 | A8 | A8 |  |  |  |
+| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A[^8] | A[^8] | A[^8] | A[^8] |  |  |  |
 | D | D | D | D |  |  |  |  |  |  |  |
 | 15 03 000 000 | Estimert dato og tidspunkt for ankomst |  |  | A | A | A | A |  |  |  |
 | D | D | D | D |  |  |  |  |  |  |  |
@@ -3589,7 +3589,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | HI | MI<br>HI | MI | MI | HI | HI |  |  |  |  |  |
 | 18 06 004 000 |  | Antall kolli |  | A | A | A | A | A | A |  |
 | HI | MI<br>HI | MI | MI | HI | HI |  |  |  |  |  |
-| 18 06 054 000 |  | Forsendelsesmerking |  | A9 | A9 | A9 | A9 | A9 | A9 |  |
+| 18 06 054 000 |  | Forsendelsesmerking |  | A[^9] | A[^9] | A[^9] | A[^9] | A[^9] | A[^9] |  |
 | HI | MI<br>HI | MI | MI | HI | HI |  |  |  |  |  |
 | 18 07 000 000 | Farlig gods |  |  | A | A | A | A | A | A |  |
 | HI | MI<br>HI | MI | MI | HI | HI |  |  |  |  |  |
@@ -3607,7 +3607,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC<br>HC | MC | MC | HC | HC |  |  |  |  |  |
 | 19 03 000 000 | Transportmåte ved grensen |  |  | A | A | A | A | A | A |  |
 | D | D | D | D | D | D |  |  |  |  |  |
-| 19 07 000 000 | Transportutstyr |  |  | A3 10 | A3 10 | A3 10 | A3 10 | A3 10 | A3 10 |  |
+| 19 07 000 000 | Transportutstyr |  |  | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] |  |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI |  |  |  |  |  |
 | 19 07 063 000 |  | Identifikasjons-<br>nummer for container |  | A | A | A | A | A | A |  |
 | MC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI | HC<br>HI | HC<br>HI |  |  |  |  |  |
@@ -3648,7 +3648,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 
 | *Dataelement-<br>nummer* | *Navn på dataelement/<br>dataklasse* | *Navn på dataunder-<br>element/<br>dataunder-<br>klasse* | *Navn på dataunder-<br>element* | *F20* | *F21* | *F22* | *F23* | *F24* | *F25* | *F26* | *F27* | *F28* | *F29* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11 03 000 000 | Varelinjenummer |  |  | A2 1 | A2 | A1 | A1 | A1 |  | A1 | A2 1 | A2 1 | A2 1 |
+| 11 03 000 000 | Varelinjenummer |  |  | A[^2] [^1] | A[^2] | A[^1] | A[^1] | A[^1] |  | A[^1] | A[^2] [^1] | A[^2] [^1] | A[^2] [^1] |
 | MI<br>HI | MI | HI | HI | HI |  | HI | MI<br>HI | MI HI | MI HI |  |  |  |  |
 | 11 04 000 000 | Detaljert indikator for omstendigheter |  |  | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
@@ -3662,13 +3662,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 |  |  |  |  |  | D |  |  |  |  |  |  |  |  |
 | 12 01 001 000 |  | Referanse-<br>nummer |  |  |  |  |  |  | A |  |  |  |  |
 |  |  |  |  |  | D |  |  |  |  |  |  |  |  |
-| 12 02 000 000 | Tilleggs-<br>opplysninger |  |  | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 | A3 11 |
+| 12 02 000 000 | Tilleggs-<br>opplysninger |  |  | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI | HC<br>HI | HC<br>HI | HC | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI<br>HI | MC<br>MI<br>HI |  |  |  |  |
 | 12 02 008 000 |  | Kode |  | A | A | A | A | A | A | A | A | A | A |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI | HC<br>HI | HC<br>HI | HC | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI<br>HI | MC<br>MI<br>HI |  |  |  |  |
 | 12 02 009 000 |  | Tekst |  | A | A | A | A | A | A | A | A | A | A |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI | HC<br>HI | HC<br>HI | HC | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI<br>HI | MC<br>MI<br>HI |  |  |  |  |
-| 12 03 000 000 | Støttedokument |  |  | A3 | A3 | A3 |  |  |  | A3 | A3 | A3 | A3 |
+| 12 03 000 000 | Støttedokument |  |  | A[^3] | A[^3] | A[^3] |  |  |  | A[^3] | A[^3] | A[^3] | A[^3] |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI |  |  |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
 | 12 03 001 000 |  | Referanse-<br>nummer |  | A | A | A |  |  |  | A | A | A | A |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI |  |  |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
@@ -3680,7 +3680,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC | MC | HC | HC | HC | HC | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 12 05 002 000 |  | Type |  | A | A | A | A | A | A | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC | HC | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 12 07 000 000 | Referanse for risikoredu-<br>serende forespørsel |  |  | A5 | A5 | A5 | A5 | A5 |  | A5 | A5 | A5 | A5 |
+| 12 07 000 000 | Referanse for risikoredu-<br>serende forespørsel |  |  | A[^5] | A[^5] | A[^5] | A[^5] | A[^5] |  | A[^5] | A[^5] | A[^5] | A[^5] |
 | D | D | D | D | D |  | D | D | D | D |  |  |  |  |
 | 12 08 000 000 | Referanse-<br>nummer/UCR |  |  | C | C | C |  |  |  | C | C | C | C |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
@@ -3690,19 +3690,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 02 016 000 |  | Navn |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 |  | A6 | A6 | A6 | A6 |
+| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 02 028 000 |  | Type person |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 02 018 000 |  | Adresse |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 02 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 |  | A4 | A4 | A4 | A4 |
+| 13 02 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 02 018 024 |  |  | Adresselinje 2 | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 02 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 |  | A4 | A4 | A4 | A4 |
+| 13 02 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 02 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 |  | A4 | A4 | A4 | A4 |
+| 13 02 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 02 018 027 |  |  | Underinndeling | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
@@ -3722,19 +3722,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 03 016 000 |  | Navn |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 |  | A6 | A6 | A6 | A6 |
+| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 03 028 000 |  | Type person |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 03 018 000 |  | Adresse |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 03 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 |  | A4 | A4 | A4 | A4 |
+| 13 03 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 03 018 024 |  |  | Adresselinje 2 | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 03 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 |  | A4 | A4 | A4 | A4 |
+| 13 03 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 03 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 |  | A4 | A4 | A4 | A4 |
+| 13 03 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 03 018 027 |  |  | Underinndeling | A | A | A | A | A |  | A | A | A | A |
 | MC<br>HC | MC | HC | HC | HC |  | HC | MC<br>HC | MC | MC |  |  |  |  |
@@ -3758,13 +3758,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
 | 13 05 018 000 |  | Adresse |  | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
-| 13 05 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
 | 13 05 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
-| 13 05 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
-| 13 05 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
 | 13 05 018 027 |  |  | Underinndeling | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
@@ -3790,13 +3790,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 018 000 |  | Adresse |  | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
-| 13 06 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 018 024 |  |  | Adresselinje 2 | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
-| 13 06 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
-| 13 06 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
 | 13 06 018 027 |  |  | Underinndeling | A | A | A | A | A | A | A | A | A | A |
 | D | D | D | D | D | D | D | D | D | D |  |  |  |  |
@@ -3820,13 +3820,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC | HC |  | HC | HC | HC | MC | MC | MC |  |  |  |  |
 | 13 12 018 000 |  | Adresse |  | A | A |  |  |  |  |  | A | A | A |
 | MC | MC |  |  |  |  |  | MC | MC | MC |  |  |  |  |
-| 13 12 018 023 |  |  | Adresselinje 1 | A4 | A4 |  |  |  |  |  | A4 | A4 | A4 |
+| 13 12 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] |  |  |  |  |  | A[^4] | A[^4] | A[^4] |
 | MC | MC |  |  |  |  |  | MC | MC | MC |  |  |  |  |
 | 13 12 018 024 |  |  | Adresselinje 2 | A | A |  |  |  |  |  | A | A | A |
 | MC | MC |  |  |  |  |  | MC | MC | MC |  |  |  |  |
-| 13 12 018 025 |  |  | Nummer | A4 | A4 |  |  |  |  |  | A4 | A4 | A4 |
+| 13 12 018 025 |  |  | Nummer | A[^4] | A[^4] |  |  |  |  |  | A[^4] | A[^4] | A[^4] |
 | MC | MC |  |  |  |  |  | MC | MC | MC |  |  |  |  |
-| 13 12 018 026 |  |  | Postboks | A4 | A4 |  |  |  |  |  | A4 | A4 | A4 |
+| 13 12 018 026 |  |  | Postboks | A[^4] | A[^4] |  |  |  |  |  | A[^4] | A[^4] | A[^4] |
 | MC | MC |  |  |  |  |  | MC | MC | MC |  |  |  |  |
 | 13 12 018 027 |  |  | Underinndeling | A | A |  |  |  |  |  | A | A | A |
 | MC | MC |  |  |  |  |  | MC | MC | MC |  |  |  |  |
@@ -3846,19 +3846,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 13 016 000 |  | Navn |  | A | A | A |  |  |  | A | A | A | A |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 13 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 |  |  |  | A6 | A6 | A6 | A6 |
+| 13 13 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] |  |  |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 13 028 000 |  | Type person |  | A | A | A |  |  |  | A | A | A | A |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 13 018 000 |  | Adresse |  | C | C | C |  |  |  | C | C | C | C |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 13 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 |  |  |  | A4 | A4 | A4 | A4 |
+| 13 13 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 13 018 024 |  |  | Adresselinje 2 | A | A | A |  |  |  | A | A | A | A |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 13 018 025 |  |  | Nummer | A4 | A4 | A4 |  |  |  | A4 | A4 | A4 | A4 |
+| 13 13 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
-| 13 13 018 026 |  |  | Postboks | A4 | A4 | A4 |  |  |  | A4 | A4 | A4 | A4 |
+| 13 13 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] |  |  |  | A[^4] | A[^4] | A[^4] | A[^4] |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 13 13 018 027 |  |  | Underinndeling | A | A | A |  |  |  | A | A | A | A |
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
@@ -3878,7 +3878,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI | HC<br>HI | HC<br>HI |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
 | 13 14 031 000 |  | Rolle |  | A | A | A | A | A |  | A | A | A | A |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI | HC<br>HI | HC<br>HI |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
-| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 | A6 |  | A6 | A6 | A6 | A6 |
+| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] | A[^6] |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI | HC<br>HI | HC<br>HI |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
 | 13 15 000 000 | Supplerende deklarant |  |  |  | A | A |  |  |  | A |  |  |  |
 |  | MC | HC |  |  |  | HC |  |  |  |  |  |  |  |
@@ -3892,7 +3892,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC | MC | HC |  |  |  | HC | MC<br>HC | MC | MC |  |  |  |  |
 | 15 01 000 000 | Estimert dato og tidspunkt for avgang |  |  | A |  |  |  |  |  |  |  | A |  |
 | D |  |  |  |  |  |  |  | D |  |  |  |  |  |
-| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  |  | A8 |  |  |  |  |  | A8 |  | A8 |
+| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  |  | A[^8] |  |  |  |  |  | A[^8] |  | A[^8] |
 |  | D |  |  |  |  |  | D |  | D |  |  |  |  |
 | 15 03 000 000 | Estimert dato og tidspunkt for ankomst |  |  | A | A |  |  |  |  |  | A | A | A |
 | D | D |  |  |  |  |  | D | D | D |  |  |  |  |
@@ -3958,7 +3958,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MI<br>HI | MI | HI |  |  |  | HI | MI<br>HI | MI | MI |  |  |  |  |
 | 18 06 004 000 |  | Antall kolli |  | A | A | A | A | A |  | A | A | A | A |
 | MI<br>HI | MI | HI | HI | HI |  | HI | MI<br>HI | MI | MI |  |  |  |  |
-| 18 06 054 000 |  | Forsendelses-<br>merker |  | A9 | A9 | A9 |  |  |  | A9 | A9 | A9 | A9 |
+| 18 06 054 000 |  | Forsendelses-<br>merker |  | A[^9] | A[^9] | A[^9] |  |  |  | A[^9] | A[^9] | A[^9] | A[^9] |
 | MI<br>HI | MI | HI |  |  |  | HI | MI<br>HI | MI | MI |  |  |  |  |
 | 18 07 000 000 | Farlig gods |  |  | A | A | A |  |  |  | A | A | A | A |
 | MI<br>HI | MI | HI |  |  |  | HI | MI<br>HI | MI | MI |  |  |  |  |
@@ -3978,7 +3978,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D |  |  |  |  |  | D | D | D |  |  |  |  |
 | 19 03 000 000 | Transportmåte ved grensen |  |  | A | A | A |  |  |  | A | A | A | A |
 | D | D | D |  |  |  | D | D | D | D |  |  |  |  |
-| 19 07 000 000 | Transportutstyr |  |  | A3 10 | A3 10 | A3 10 |  |  |  | A3 10 | A3 10 | A3 10 | A3 10 |
+| 19 07 000 000 | Transportutstyr |  |  | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] |  |  |  | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] | A[^3] [^10] |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI |  |  |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
 | 19 07 063 000 |  | Identifikasjons-<br>nummer for container |  | A | A | A |  |  |  | A | A | A | A |
 | MC<br>MI<br>HC<br>HI | MC<br>MI | HC<br>HI |  |  |  | HC<br>HI | MC<br>MI<br>HC<br>HI | MC<br>MI | MC<br>MI |  |  |  |  |
@@ -3995,7 +3995,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 
 | *Dataelementnummer* | *Navn på dataelement/<br>dataklasse* | *Navn på dataunderelement/<br>dataunderklasse* | *Navn på dataunder-<br>element* | *F30* | *F31* | *F32* | *F33* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11 03 000 000 | Varelinjenummer |  |  | A1 | A2 1 | A1 | A1 |
+| 11 03 000 000 | Varelinjenummer |  |  | A[^1] | A[^2] [^1] | A[^1] | A[^1] |
 | HI | MI<br>HI | HI | HI |  |  |  |  |
 | 11 04 000 000 | Detaljert indikator for omstendigheter |  |  | A | A | A | A |
 | D | D | D | D |  |  |  |  |
@@ -4005,13 +4005,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D |  |  |  |  |  |  |
 | 11 06 001 000 |  | Indikator for delsending |  | A | A |  |  |
 | D | D |  |  |  |  |  |  |
-| 12 02 000 000 | Tilleggsopplysninger |  |  | A3 11 | A3 11 | A3 11 | A3 11 |
+| 12 02 000 000 | Tilleggsopplysninger |  |  | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] | A[^3] [^11] |
 | HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
 | 12 02 008 000 |  | Kode |  | A | A | A | A |
 | HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
 | 12 02 009 000 |  | Tekst |  | A | A | A | A |
 | HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
-| 12 03 000 000 | Støttedokument |  |  | A3 | A3 | A3 | A3 |
+| 12 03 000 000 | Støttedokument |  |  | A[^3] | A[^3] | A[^3] | A[^3] |
 | HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
 | 12 03 001 000 |  | Referansenummer |  | A | A | A | A |
 | HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
@@ -4023,7 +4023,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 12 05 002 000 |  | Type |  | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A5 | A5 | A5 | A5 |
+| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A[^5] | A[^5] | A[^5] | A[^5] |
 | D | D | D | D |  |  |  |  |
 | 12 08 000 000 | Referansenummer/UCR |  |  | C | C | C | C |
 | MC<br>HC | MC<br>HC | HC | HC |  |  |  |  |
@@ -4033,19 +4033,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 02 016 000 |  | Navn |  | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 |
+| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 02 028 000 |  | Type person |  | A | A | A9 | A |
+| 13 02 028 000 |  | Type person |  | A | A | A[^9] | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 02 018 000 |  | Adresse |  | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 02 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 |
+| 13 02 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 02 018 024 |  |  | Adresselinje 2 | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 02 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 |
+| 13 02 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 02 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 |
+| 13 02 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 02 018 027 |  |  | Underinndeling | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
@@ -4065,19 +4065,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 03 016 000 |  | Navn |  | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 |
+| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 03 028 000 |  | Type person |  | A | A | A9 | A |
+| 13 03 028 000 |  | Type person |  | A | A | A[^9] | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 03 018 000 |  | Adresse |  | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 03 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 |
+| 13 03 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 03 018 024 |  |  | Adresselinje 2 | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 03 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 |
+| 13 03 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 13 03 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 |
+| 13 03 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
 | 13 03 018 027 |  |  | Underinndeling | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
@@ -4101,13 +4101,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D |  |  |  |  |
 | 13 05 018 000 |  | Adresse |  | A | A | A | A |
 | D | D | D | D |  |  |  |  |
-| 13 05 018 023 |  |  | Navn | A4 | A4 | A4 | A4 |
+| 13 05 018 023 |  |  | Navn | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D |  |  |  |  |
 | 13 05 018 024 |  |  | Adresselinje 2 | A | A | A | A |
 | D | D | D | D |  |  |  |  |
-| 13 05 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 |
+| 13 05 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D |  |  |  |  |
-| 13 05 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 |
+| 13 05 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D |  |  |  |  |
 | 13 05 018 027 |  |  | Underinndeling | A | A | A | A |
 | D | D | D | D |  |  |  |  |
@@ -4133,13 +4133,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D |  |  |  |  |
 | 13 06 018 000 |  | Adresse |  | A | A | A | A |
 | D | D | D | D |  |  |  |  |
-| 13 06 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 |
+| 13 06 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D |  |  |  |  |
 | 13 06 018 024 |  |  | Adresselinje 2 | A | A | A | A |
 | D | D | D | D |  |  |  |  |
-| 13 06 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 |
+| 13 06 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D |  |  |  |  |
-| 13 06 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 |
+| 13 06 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D |  |  |  |  |
 | 13 06 018 027 |  |  | Underinndeling | A | A | A | A |
 | D | D | D | D |  |  |  |  |
@@ -4163,13 +4163,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC |  | HC |  |  |  |  |
 | 13 12 018 000 |  | Adresse |  | A | A |  |  |
 | MC | MC |  |  |  |  |  |  |
-| 13 12 018 023 |  |  | Adresselinje 1 | A4 | A4 |  |  |
+| 13 12 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] |  |  |
 | MC | MC |  |  |  |  |  |  |
 | 13 12 018 024 |  |  | Adresselinje2 | A | A |  |  |
 | MC | MC |  |  |  |  |  |  |
-| 13 12 018 025 |  |  | Nummer | A4 | A4 |  |  |
+| 13 12 018 025 |  |  | Nummer | A[^4] | A[^4] |  |  |
 | MC | MC |  |  |  |  |  |  |
-| 13 12 018 026 |  |  | Postboks | A4 | A4 |  |  |
+| 13 12 018 026 |  |  | Postboks | A[^4] | A[^4] |  |  |
 | MC | MC |  |  |  |  |  |  |
 | 13 12 018 027 |  |  | Underinndeling | A | A |  |  |
 | MC | MC |  |  |  |  |  |  |
@@ -4189,19 +4189,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 |  | MC<br>HC |  | HC |  |  |  |  |
 | 13 13 016 000 |  | Navn |  |  | A |  | A |
 |  | MC<br>HC |  | HC |  |  |  |  |
-| 13 13 017 000 |  | Identifikasjons-<br>nummer |  |  | A6 |  | A6 |
+| 13 13 017 000 |  | Identifikasjons-<br>nummer |  |  | A[^6] |  | A[^6] |
 |  | MC<br>HC |  | HC |  |  |  |  |
 | 13 13 028 000 |  | Type person |  |  | A |  | A |
 |  | MC<br>HC |  | HC |  |  |  |  |
 | 13 13 018 000 |  | Adresse |  |  | C |  | C |
 |  | MC<br>HC |  | HC |  |  |  |  |
-| 13 13 018 023 |  |  | Adresselinje 1 |  | A4 |  | A4 |
+| 13 13 018 023 |  |  | Adresselinje 1 |  | A[^4] |  | A[^4] |
 |  | MC<br>HC |  | HC |  |  |  |  |
 | 13 13 018 024 |  |  | Adresselinje 2 |  | A |  | A |
 |  | MC<br>HC |  | HC |  |  |  |  |
-| 13 13 018 025 |  |  | Nummer |  | A4 |  | A4 |
+| 13 13 018 025 |  |  | Nummer |  | A[^4] |  | A[^4] |
 |  | MC<br>HC |  | HC |  |  |  |  |
-| 13 13 018 026 |  |  | Postboks |  | A4 |  | A4 |
+| 13 13 018 026 |  |  | Postboks |  | A[^4] |  | A[^4] |
 |  | MC<br>HC |  | HC |  |  |  |  |
 | 13 13 018 027 |  |  | Underinndeling |  | A |  | A |
 |  | MC<br>HC |  | HC |  |  |  |  |
@@ -4221,7 +4221,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
 | 13 14 031 000 |  | Rolle |  | A | A | A | A |
 | MC<br>HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
-| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 | A6 |
+| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] | A[^6] |
 | MC<br>HC<br>HI | MC<br>MI<br>HC<br>HI | HC<br>HI | HC<br>HI |  |  |  |  |
 | 13 15 000 000 | Supplerende deklarant |  |  |  |  |  | A |
 |  |  |  | HC |  |  |  |  |
@@ -4233,7 +4233,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | HC | MC<br>HC |  | HC |  |  |  |  |
 | 14 02 038 000 |  | Betalingsmåte |  | A | A |  | A |
 | HC | MC<br>HC |  | HC |  |  |  |  |
-| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A8 | A8 |  |  |
+| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A[^8] | A[^8] |  |  |
 | D | D |  |  |  |  |  |  |
 | 15 03 000 000 | Estimert dato og tidspunkt for ankomst |  |  | A | A |  |  |
 | D | D |  |  |  |  |  |  |
@@ -4289,7 +4289,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D |  |  |  |  |  |  |
 | 18 03 000 000 | Total bruttovekt |  |  | A | A | A | A |
 | HC | MC<br>HC | HC | HC |  |  |  |  |
-| 18 04 000 000 | Bruttovekt |  |  | A12 | A12 | A12 | A12 |
+| 18 04 000 000 | Bruttovekt |  |  | A[^12] | A[^12] | A[^12] | A[^12] |
 | HI | MI<br>HI | HI | HI |  |  |  |  |
 | 18 05 000 000 | Varebeskrivelse |  |  | A | A | A | A |
 | HI | MI<br>HI | HI | HI |  |  |  |  |
@@ -4299,7 +4299,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 |  | MI<br>HI |  | HI |  |  |  |  |
 | 18 06 004 000 |  | Antall kolli |  | A | A | A | A |
 | HI | MI<br>HI | HI | HI |  |  |  |  |
-| 18 06 054 000 |  | Forsendelses-<br>merker |  |  | A9 |  | A9 |
+| 18 06 054 000 |  | Forsendelses-<br>merker |  |  | A[^9] |  | A[^9] |
 |  | MI<br>HI |  | HI |  |  |  |  |
 | 18 07 000 000 | Farlig gods |  |  | A | A |  | A |
 | HI | MI<br>HI |  | HI |  |  |  |  |
@@ -4319,7 +4319,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D |  |  |  |  |  |  |
 | 19 03 000 000 | Transportmåte ved grensen |  |  | A | A |  | A |
 | D | D |  | D |  |  |  |  |
-| 19 07 000 000 | Transportutstyr |  |  |  | A3 10 |  | A3 10 |
+| 19 07 000 000 | Transportutstyr |  |  |  | A[^3] [^10] |  | A[^3] [^10] |
 |  | MC<br>MI<br>HC<br>HI |  | HC<br>HI |  |  |  |  |
 | 19 07 063 000 |  | Identifikasjons-<br>nummer for container |  |  | A |  | A |
 |  | MC<br>MI<br>HC<br>HI |  | HC<br>HI |  |  |  |  |
@@ -4336,7 +4336,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 
 | *Dataelement-<br>nummer* | *Navn på dataelement/<br>dataklasse* | *Navn på dataunderelement/<br>dataunderklasse* | *Navn på dataunder-<br>element* | *F40* | *F42* | *F43* | *F44* | *F45* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11 03 000 000 | Varelinjenummer |  |  |  |  | A1 |  |  |
+| 11 03 000 000 | Varelinjenummer |  |  |  |  | A[^1] |  |  |
 |  |  | HI |  |  |  |  |  |  |
 | 11 04 000 000 | Detaljert indikator for omstendigheter |  |  | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
@@ -4348,13 +4348,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D |  |  | D |  |  |  |  |
 | 11 06 002 000 |  | Forutgående MRN |  |  |  |  |  | A |
 |  |  |  |  | D |  |  |  |  |
-| 12 02 000 000 | Tilleggsopplysninger |  |  |  |  | A3 11 | A3 11 |  |
+| 12 02 000 000 | Tilleggsopplysninger |  |  |  |  | A[^3] [^11] | A[^3] [^11] |  |
 |  |  | HC | HC |  |  |  |  |  |
 | 12 02 008 000 |  | Kode |  |  |  | A | A |  |
 |  |  | HC | HC |  |  |  |  |  |
 | 12 02 009 000 |  | Tekst |  |  |  | A | A |  |
 |  |  | HC | HC |  |  |  |  |  |
-| 12 03 000 000 | Støttedokument |  |  | A3 | A3 | A3 |  | A3 |
+| 12 03 000 000 | Støttedokument |  |  | A[^3] | A[^3] | A[^3] |  | A[^3] |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 12 03 001 000 |  | Referansenummer |  | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
@@ -4366,7 +4366,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC | HC | HC | MC |  |  |  |  |
 | 12 05 002 000 |  | Type |  | A | A | A | A | A |
 | MC | MC | HC | HC | MC |  |  |  |  |
-| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A5 | A5 | A5 | A5 | A5 |
+| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A[^5] | A[^5] | A[^5] | A[^5] | A[^5] |
 | D | D | D | D | D |  |  |  |  |
 | 12 08 000 000 | Referansenummer/UCR |  |  | C | C |  |  | C |
 | MC | MC |  |  | MC |  |  |  |  |
@@ -4376,19 +4376,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 02 016 000 |  | Navn |  | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 |  | A6 |
+| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] |  | A[^6] |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 02 028 000 |  | Type person |  | A | A | A9 |  | A |
+| 13 02 028 000 |  | Type person |  | A | A | A[^9] |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 02 018 000 |  | Adresse |  | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 02 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 |  | A4 |
+| 13 02 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] |  | A[^4] |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 02 018 024 |  |  | Adresselinje 2 | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 02 018 025 |  |  | Nummer | A4 | A4 | A4 |  | A4 |
+| 13 02 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] |  | A[^4] |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 02 018 026 |  |  | Postboks | A4 | A4 | A4 |  | A4 |
+| 13 02 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] |  | A[^4] |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 02 018 027 |  |  | Underinndeling | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
@@ -4408,19 +4408,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 03 016 000 |  | Navn |  | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 |  | A6 |
+| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] |  | A[^6] |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 03 028 000 |  | Type person |  | A | A | A9 |  | A |
+| 13 03 028 000 |  | Type person |  | A | A | A[^9] |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 03 018 000 |  | Adresse |  | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 03 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 |  | A4 |
+| 13 03 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] |  | A[^4] |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 03 018 024 |  |  | Adresselinje 2 | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 03 018 025 |  |  | Nummer | A4 | A4 | A4 |  | A4 |
+| 13 03 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] |  | A[^4] |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 03 018 026 |  |  | Postboks | A4 | A4 | A4 |  | A4 |
+| 13 03 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] |  | A[^4] |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 03 018 027 |  |  | Underinndeling | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
@@ -4444,13 +4444,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D |  |  |  |  |
 | 13 05 018 000 |  | Adresse |  | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
-| 13 05 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D |  |  |  |  |
 | 13 05 018 024 |  |  | Adresselinje 2 | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
-| 13 05 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D |  |  |  |  |
-| 13 05 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 |
+| 13 05 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D |  |  |  |  |
 | 13 05 018 027 |  |  | Underinndeling | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
@@ -4476,13 +4476,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D | D | D | D | D |  |  |  |  |
 | 13 06 018 000 |  | Adresse |  | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
-| 13 06 018 023 |  |  | Adresselinje 1 | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D |  |  |  |  |
 | 13 06 018 024 |  |  | Adresselinje 2 | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
-| 13 06 018 025 |  |  | Nummer | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 025 |  |  | Nummer | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D |  |  |  |  |
-| 13 06 018 026 |  |  | Postboks | A4 | A4 | A4 | A4 | A4 |
+| 13 06 018 026 |  |  | Postboks | A[^4] | A[^4] | A[^4] | A[^4] | A[^4] |
 | D | D | D | D | D |  |  |  |  |
 | 13 06 018 027 |  |  | Underinndeling | A | A | A | A | A |
 | D | D | D | D | D |  |  |  |  |
@@ -4506,13 +4506,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC |  |  | MC |  |  |  |  |
 | 13 12 018 000 |  | Adresse |  | A | A |  |  | A |
 | MC | MC |  |  | MC |  |  |  |  |
-| 13 12 018 023 |  |  | Adresselinje 1 | A4 | A4 |  |  | A4 |
+| 13 12 018 023 |  |  | Adresselinje 1 | A[^4] | A[^4] |  |  | A[^4] |
 | MC | MC |  |  | MC |  |  |  |  |
 | 13 12 018 024 |  |  | Adresselinje 2 | A | A |  |  | A |
 | MC | MC |  |  | MC |  |  |  |  |
-| 13 12 018 025 |  |  | Nummer | A4 | A4 |  |  | A4 |
+| 13 12 018 025 |  |  | Nummer | A[^4] | A[^4] |  |  | A[^4] |
 | MC | MC |  |  | MC |  |  |  |  |
-| 13 12 018 026 |  |  | Postboks | A4 | A4 |  |  | A4 |
+| 13 12 018 026 |  |  | Postboks | A[^4] | A[^4] |  |  | A[^4] |
 | MC | MC |  |  | MC |  |  |  |  |
 | 13 12 018 027 |  |  | Underinndeling | A | A |  |  | A |
 | MC | MC |  |  | MC |  |  |  |  |
@@ -4532,7 +4532,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC | MC | HC |  | MC |  |  |  |  |
 | 13 14 031 000 |  | Rolle |  | A | A | A |  | A |
 | MC | MC | HC |  | MC |  |  |  |  |
-| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A6 | A6 | A6 |  | A6 |
+| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] | A[^6] | A[^6] |  | A[^6] |
 | MC | MC | HC |  | MC |  |  |  |  |
 | 14 12 000 000 | Postal verdi |  |  |  |  | A |  |  |
 |  |  | HI |  |  |  |  |  |  |
@@ -4548,7 +4548,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 |  |  | HC |  |  |  |  |  |  |
 | 15 01 000 000 | Estimert dato og tidspunkt for avgang |  |  | A | A |  |  | A |
 | D | D |  |  | D |  |  |  |  |
-| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A8 | A8 |  |  | A8 |
+| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A[^8] | A[^8] |  |  | A[^8] |
 | D | D |  |  | D |  |  |  |  |
 | 15 03 000 000 | Estimert dato og tidspunkt for ankomst |  |  | A | A |  |  | A |
 | D | D |  |  | D |  |  |  |  |
@@ -4610,7 +4610,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 |  | D |  |  |  |  |  |  |  |
 | 19 03 000 000 | Transportmåte ved grensen |  |  | A | A |  |  | A |
 | D | D |  |  | D |  |  |  |  |
-| 19 07 000 000 | Transportutstyr |  |  | A10 |  |  |  | A3 10 |
+| 19 07 000 000 | Transportutstyr |  |  | A[^10] |  |  |  | A[^3] [^10] |
 | MC |  |  |  | MC |  |  |  |  |
 | 19 07 063 000 |  | Identifikasjonsnummer for container |  | A |  |  |  | A |
 | MC |  |  |  | MC |  |  |  |  |
@@ -4647,19 +4647,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 
 | *Dataelement-<br>nummer* | *Navn på dataelement/<br>dataklasse* | *Navn på dataunderelement/<br>dataunderklasse* | *Navn på dataunder-<br>element* | *F50* |
 | --- | --- | --- | --- | --- |
-| 11 03 000 000 | Varelinjenummer |  |  | A1 |
+| 11 03 000 000 | Varelinjenummer |  |  | A[^1] |
 | HI |  |  |  |  |
 | 11 04 000 000 | Detaljert indikator for omstendigheter |  |  | A |
 | D |  |  |  |  |
 | 11 05 000 000 | Indikator for gjeninnføring |  |  | A |
 | D |  |  |  |  |
-| 12 02 000 000 | Tilleggsopplysninger |  |  | A3 11 |
+| 12 02 000 000 | Tilleggsopplysninger |  |  | A[^3] [^11] |
 | HC<br>HI |  |  |  |  |
 | 12 02 008 000 |  | Kode |  | A |
 | HC<br>HI |  |  |  |  |
 | 12 02 009 000 |  | Tekst |  | A |
 | HC<br>HI |  |  |  |  |
-| 12 03 000 000 | Støttedokument |  |  | A3 |
+| 12 03 000 000 | Støttedokument |  |  | A[^3] |
 | MC<br>HC<br>HI |  |  |  |  |
 | 12 03 001 000 |  | Referansenummer |  | A |
 | MC<br>HC<br>HI |  |  |  |  |
@@ -4671,7 +4671,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC |  |  |  |  |
 | 12 05 002 000 |  | Type |  | A |
 | MC<br>HC |  |  |  |  |
-| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A5 |
+| 12 07 000 000 | Referanse for risikoreduserende forespørsel |  |  | A[^5] |
 | D |  |  |  |  |
 | 12 08 000 000 | Referansenummer/UCR |  |  | C |
 | MC<br>HC |  |  |  |  |
@@ -4681,19 +4681,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC |  |  |  |  |
 | 13 02 016 000 |  | Navn |  | A |
 | MC |  |  |  |  |
-| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A6 |
+| 13 02 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] |
 | MC |  |  |  |  |
 | 13 02 028 000 |  | Type person |  | A |
 | MC |  |  |  |  |
 | 13 02 018 000 |  | Adresse |  | A |
 | MC |  |  |  |  |
-| 13 02 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 02 018 023 |  |  | Adresselinje 1 | A[^4] |
 | MC |  |  |  |  |
 | 13 02 018 024 |  |  | Adresselinje 2 | A |
 | MC |  |  |  |  |
-| 13 02 018 025 |  |  | Nummer | A4 |
+| 13 02 018 025 |  |  | Nummer | A[^4] |
 | MC |  |  |  |  |
-| 13 02 018 026 |  |  | Postboks | A4 |
+| 13 02 018 026 |  |  | Postboks | A[^4] |
 | MC |  |  |  |  |
 | 13 02 018 027 |  |  | Underinndeling | A |
 | MC |  |  |  |  |
@@ -4713,19 +4713,19 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC |  |  |  |  |
 | 13 03 016 000 |  | Navn |  | A |
 | MC |  |  |  |  |
-| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A6 |
+| 13 03 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] |
 | MC |  |  |  |  |
 | 13 03 028 000 |  | Type person |  | A |
 | MC |  |  |  |  |
 | 13 03 018 000 |  | Adresse |  | A |
 | MC |  |  |  |  |
-| 13 03 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 03 018 023 |  |  | Adresselinje 1 | A[^4] |
 | MC |  |  |  |  |
 | 13 03 018 024 |  |  | Adresselinje 2 | A |
 | MC |  |  |  |  |
-| 13 03 018 025 |  |  | Nummer | A4 |
+| 13 03 018 025 |  |  | Nummer | A[^4] |
 | MC |  |  |  |  |
-| 13 03 018 026 |  |  | Postboks | A4 |
+| 13 03 018 026 |  |  | Postboks | A[^4] |
 | MC |  |  |  |  |
 | 13 03 018 027 |  |  | Underinndeling | A |
 | MC |  |  |  |  |
@@ -4749,13 +4749,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D |  |  |  |  |
 | 13 05 018 000 |  | Adresse |  | A |
 | D |  |  |  |  |
-| 13 05 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 05 018 023 |  |  | Adresselinje 1 | A[^4] |
 | D |  |  |  |  |
 | 13 05 018 024 |  |  | Adresselinje 2 | A |
 | D |  |  |  |  |
-| 13 05 018 025 |  |  | Nummer | A4 |
+| 13 05 018 025 |  |  | Nummer | A[^4] |
 | D |  |  |  |  |
-| 13 05 018 026 |  |  | Postboks | A4 |
+| 13 05 018 026 |  |  | Postboks | A[^4] |
 | D |  |  |  |  |
 | 13 05 018 027 |  |  | Underinndeling | A |
 | D |  |  |  |  |
@@ -4781,13 +4781,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D |  |  |  |  |
 | 13 06 018 000 |  | Adresse |  | A |
 | D |  |  |  |  |
-| 13 06 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 06 018 023 |  |  | Adresselinje 1 | A[^4] |
 | D |  |  |  |  |
 | 13 06 018 024 |  |  | Adresselinje 2 | A |
 | D |  |  |  |  |
-| 13 06 018 025 |  |  | Nummer | A4 |
+| 13 06 018 025 |  |  | Nummer | A[^4] |
 | D |  |  |  |  |
-| 13 06 018 026 |  |  | Postboks | A4 |
+| 13 06 018 026 |  |  | Postboks | A[^4] |
 | D |  |  |  |  |
 | 13 06 018 027 |  |  | Underinndeling | A |
 | D |  |  |  |  |
@@ -4803,23 +4803,23 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | D |  |  |  |  |
 | 13 06 029 002 |  |  | Type | A |
 | D |  |  |  |  |
-| 13 08 000 000 | Selger |  |  | A7 |
+| 13 08 000 000 | Selger |  |  | A[^7] |
 | GS |  |  |  |  |
 | 13 08 016 000 |  | Navn |  | A |
 | GS |  |  |  |  |
-| 13 08 017 000 |  | Identifikasjons-<br>nummer |  | A6 |
+| 13 08 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] |
 | GS |  |  |  |  |
 | 13 08 028 000 |  | Type person |  | A |
 | GS |  |  |  |  |
 | 13 08 018 000 |  | Adresse |  | A |
 | GS |  |  |  |  |
-| 13 08 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 08 018 023 |  |  | Adresselinje 1 | A[^4] |
 | GS |  |  |  |  |
 | 13 08 018 024 |  |  | Adresselinje 2 | A |
 | GS |  |  |  |  |
-| 13 08 018 025 |  |  | Nummer | A4 |
+| 13 08 018 025 |  |  | Nummer | A[^4] |
 | GS |  |  |  |  |
-| 13 08 018 026 |  |  | Postboks | A4 |
+| 13 08 018 026 |  |  | Postboks | A[^4] |
 | GS |  |  |  |  |
 | 13 08 018 027 |  |  | Underinndeling | A |
 | GS |  |  |  |  |
@@ -4835,23 +4835,23 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | GS |  |  |  |  |
 | 13 08 029 002 |  |  | Type | A |
 | GS |  |  |  |  |
-| 13 09 000 000 | Kjøper |  |  | A7 |
+| 13 09 000 000 | Kjøper |  |  | A[^7] |
 | GS |  |  |  |  |
 | 13 09 016 000 |  | Navn |  | A |
 | GS |  |  |  |  |
-| 13 09 017 000 |  | Identifikasjons-<br>nummer |  | A6 |
+| 13 09 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] |
 | GS |  |  |  |  |
 | 13 09 028 000 |  | Type person |  | A |
 | GS |  |  |  |  |
 | 13 09 018 000 |  | Adresse |  | A |
 | GS |  |  |  |  |
-| 13 09 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 09 018 023 |  |  | Adresselinje 1 | A[^4] |
 | GS |  |  |  |  |
 | 13 09 018 024 |  |  | Adresselinje 2 | A |
 | GS |  |  |  |  |
-| 13 09 018 025 |  |  | Nummer | A4 |
+| 13 09 018 025 |  |  | Nummer | A[^4] |
 | GS |  |  |  |  |
-| 13 09 018 026 |  |  | Postboks | A4 |
+| 13 09 018 026 |  |  | Postboks | A[^4] |
 | GS |  |  |  |  |
 | 13 09 018 027 |  |  | Underinndeling | A |
 | GS |  |  |  |  |
@@ -4875,13 +4875,13 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC |  |  |  |  |
 | 13 12 018 000 |  | Adresse |  | A |
 | MC |  |  |  |  |
-| 13 12 018 023 |  |  | Adresselinje 1 | A4 |
+| 13 12 018 023 |  |  | Adresselinje 1 | A[^4] |
 | MC |  |  |  |  |
 | 13 12 018 024 |  |  | Adresselinje 2 | A |
 | MC |  |  |  |  |
-| 13 12 018 025 |  |  | Nummer | A4 |
+| 13 12 018 025 |  |  | Nummer | A[^4] |
 | MC |  |  |  |  |
-| 13 12 018 026 |  |  | Postboks | A4 |
+| 13 12 018 026 |  |  | Postboks | A[^4] |
 | MC |  |  |  |  |
 | 13 12 018 027 |  |  | Underinndeling | A |
 | MC |  |  |  |  |
@@ -4901,7 +4901,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC<br>HI |  |  |  |  |
 | 13 14 031 000 |  | Rolle |  | A |
 | MC<br>HC<br>HI |  |  |  |  |
-| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A6 |
+| 13 14 017 000 |  | Identifikasjons-<br>nummer |  | A[^6] |
 | MC<br>HC<br>HI |  |  |  |  |
 | 14 02 000 000 | Transportkostnader |  |  | A |
 | MC<br>HC |  |  |  |  |
@@ -4909,7 +4909,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | MC<br>HC |  |  |  |  |
 | 15 01 000 000 | Estimert dato og tidspunkt for avgang |  |  | A |
 | D |  |  |  |  |
-| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A8 |
+| 15 02 000 000 | Faktisk dato og tidspunkt for avgang |  |  | A[^8] |
 | D |  |  |  |  |
 | 15 03 000 000 | Estimert dato og tidspunkt for ankomst |  |  | A |
 | D |  |  |  |  |
@@ -4971,7 +4971,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | HI |  |  |  |  |
 | 18 06 004 000 |  | Antall kolli |  | A |
 | HI |  |  |  |  |
-| 18 06 054 000 |  | Forsendelses-<br>merker |  | A9 |
+| 18 06 054 000 |  | Forsendelses-<br>merker |  | A[^9] |
 | HI |  |  |  |  |
 | 18 07 000 000 | Farlig gods |  |  | A |
 | HI |  |  |  |  |
@@ -4990,7 +4990,7 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | 19 02 000 000 | Transportens referansenummer |  |  |  |
 | 19 03 000 000 | Transportmåte ved grensen |  |  | A |
 | D |  |  |  |  |
-| 19 07 000 000 | Transportutstyr |  |  | A3 10 |
+| 19 07 000 000 | Transportutstyr |  |  | A[^3] [^10] |
 | HC<br>HI |  |  |  |  |
 | 19 07 063 000 |  | Identifikasjonsnummer for container |  | A |
 | HC<br>HI |  |  |  |  |

@@ -15,7 +15,7 @@ xml_hash: "3cfc92e6ba8d650cc1bd0c99075a075dce85fa568cc55832151fc4c6c334ce89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,7 +94,7 @@ Krav om at den avtalte pris skal settes ned til lovlig pris eller krav om tilbak
 
 ## § 7. Ikrafttredelse m.v.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Kongen bestemmer om og i hvilken utstrekning bestemmelser som er gitt i eller i medhold av denne lov skal gjelde for Svalbard.
 

@@ -15,7 +15,7 @@ xml_hash: "d32ebcb4439a0c24ff7339adab7aae24855bc3ad264082fa815e55933cc7159e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,6 +56,6 @@ Opplysninger som er mottatt i medhold av [§ 3](lov/2019-11-29-75/§3), kan ikke
 
 ## § 8. Ikrafttredelse mv.
 
-Loven trer i kraft straks. [§§ 2](lov/2019-11-29-75/§2), [3](lov/2019-11-29-75/§3) og [5](lov/2019-11-29-75/§5) oppheves når utvalget har levert sin utredning.1
+Loven trer i kraft straks. [§§ 2](lov/2019-11-29-75/§2), [3](lov/2019-11-29-75/§3) og [5](lov/2019-11-29-75/§5) oppheves når utvalget har levert sin utredning.[^1]
 
 1 Utvalgets utredning ble levert 15. desember 2020 iflg. [NOU 2020:17](forarbeid/nou-2020-17).

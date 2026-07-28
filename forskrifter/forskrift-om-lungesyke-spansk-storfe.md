@@ -15,7 +15,7 @@ xml_hash: "71c96732ce29a369c3d2f9eca7f0e2adcf4c7561dacd9a99c9f1fb517aaf696e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,7 +43,7 @@ Det er forbudt å innføre levende storfe fra følgende områder i Spania:
 
 ## § 5. Tilleggskrav til helsesertifikat
 
-Ved innførsel av levende storfe fra Spania utenom de områder som går frem av vedlegget til denne forskriften, skal det fremgå av det medfølgende helsesertifikatet, jf. forskrifter om handel med levende storfe,1 at dyrene kommer fra besetning hvor alle dyr som er eldre enn 12 måneder har blitt testet serologisk for ondartet lungesyke hos storfe i løpet av de siste 12 måneder uten noen reaksjon, og at dyrene som importeres har blitt testet serologisk for ondartet lungesyke hos storfe uten noen reaksjon i løpet av de siste 30 dager før opplasting for eksport. Kravet er oppfylt om det av helsesertifikatet går frem: «Levende storfe i samsvar med Kbesl. [90/208/EØF](eu/31990d0208).»
+Ved innførsel av levende storfe fra Spania utenom de områder som går frem av vedlegget til denne forskriften, skal det fremgå av det medfølgende helsesertifikatet, jf. forskrifter om handel med levende storfe,[^1] at dyrene kommer fra besetning hvor alle dyr som er eldre enn 12 måneder har blitt testet serologisk for ondartet lungesyke hos storfe i løpet av de siste 12 måneder uten noen reaksjon, og at dyrene som importeres har blitt testet serologisk for ondartet lungesyke hos storfe uten noen reaksjon i løpet av de siste 30 dager før opplasting for eksport. Kravet er oppfylt om det av helsesertifikatet går frem: «Levende storfe i samsvar med Kbesl. [90/208/EØF](eu/31990d0208).»
 
 1 [Forskrift 31. desember 1998 nr. 1476](forskrift/1998-12-31-1476) om dyrehelsemessige betingelser for innførsel og utførsel av storfe.
 

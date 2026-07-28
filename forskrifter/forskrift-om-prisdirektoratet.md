@@ -15,7 +15,7 @@ xml_hash: "bab699fa81e1def598676b72355632c3a92b92a371cc1c82746ed7b053bd0f77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1. Hovedregler om organisasjonen.
 
-Prisdirektoratet hører til sentraladministrasjonen og sorterer under Lønns- og prisdepartementet1. Prisdirektoratet er det sentrale forvaltningsorgan for gjennomføring av tiltak etter kartell- og prislovgivningen.
+Prisdirektoratet hører til sentraladministrasjonen og sorterer under Lønns- og prisdepartementet[^1]. Prisdirektoratet er det sentrale forvaltningsorgan for gjennomføring av tiltak etter kartell- og prislovgivningen.
 
 Departementet bestemmer hvor mange avdelinger og kontorer Prisdirektoratet til enhver tid skal ha.
 
@@ -36,7 +36,7 @@ Prisdirektoratets sjef er prisdirektøren. Hver av avdelingene ledes av en avdel
 
 ### § 2. Ansettelse av tjenestemenn.
 
-Prisdirektøren og avdelingsdirektørene beskikkes av Kongen. Lønns- og prisdepartementet1 kan foreta konstitusjon i stillingene ved midlertidig ledighet eller fravær. Ansettelser av tjenestemenn ellers skjer i samsvar med særskilt fastsatt reglement for ansettelser i Prisdirektoratet.
+Prisdirektøren og avdelingsdirektørene beskikkes av Kongen. Lønns- og prisdepartementet[^1] kan foreta konstitusjon i stillingene ved midlertidig ledighet eller fravær. Ansettelser av tjenestemenn ellers skjer i samsvar med særskilt fastsatt reglement for ansettelser i Prisdirektoratet.
 
 Stillingene går inn under lov av 15. februar 1918 om offentlig tjenestemenn.
 
@@ -86,7 +86,7 @@ Finner Prisdirektoratet at det er nødvendig for å motvirke urimelige priser el
 
 Dersom det finnes påkrevet med omfattende prisinngrep, skal Prisdirektoratet legge saken fram for departementet med sin innstilling. I andre tilfelle kan direktoratet treffe avgjørelse om prisinngrep innenfor de fullmakter som gjelder for direktoratet.
 
-Prisdirektoratet skal ellers forberede og forestå gjennomføringen av prisreguleringstiltak som Kongen eller Lønns- og prisdepartementet1 treffer bestemmelse om.
+Prisdirektoratet skal ellers forberede og forestå gjennomføringen av prisreguleringstiltak som Kongen eller Lønns- og prisdepartementet[^1] treffer bestemmelse om.
 
 1 Arbeids- og administrasjonsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
 
@@ -116,7 +116,7 @@ Bestemmelsene i denne paragraf gjelder tilsvarende for den som fungerer for en t
 
 ### § 16. Utfyllende bestemmelser.
 
-Lønns- og prisdepartementet1 kan gi nærmere bestemmelser om Prisdirektoratets organisasjon og virksomhet, herunder om forholdet til departementet.
+Lønns- og prisdepartementet[^1] kan gi nærmere bestemmelser om Prisdirektoratets organisasjon og virksomhet, herunder om forholdet til departementet.
 
 Til utfylling og gjennomføring av resolusjonen og de bestemmelser som departementet måtte gi, fastsetter prisdirektøren nærmere bestemmelser, herunder bestemmelser om stedfortreder for prisdirektøren, bestemmelser om saksfordelingen mellom avdelingene og kontorene, bestemmelser om samvirket mellom kontorene, bestemmelser om særoppdrag for bestemte tjenestemenn utenom kontororganisasjonen, bestemmelser om post- og arkivordningen og bestemmelser om kasseforretninger og regnskapsførsel.
 

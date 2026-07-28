@@ -15,7 +15,7 @@ xml_hash: "6af7fee70943e37229e96cb7b1b71f453eb2eb96dfd5875182c91aa6f60e04bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -250,7 +250,7 @@ Enhver som vil holde flere enn 10 hester, skal på forhånd gi Mattilsynet meldi
 
 ### § 28. Tillatelse
 
-Den som skal drive hestesenter, omsetning av flere enn 6 hester i året,1 treningsstall eller hestepensjonat, skal søke Mattilsynet om tillatelse. Søknaden skal ha en form og et innhold som oppfyller kravene til melding etter [§ 26](forskrift/2005-06-02-505/§26). Plikten til å melde fra om endringer etter [§ 26](forskrift/2005-06-02-505/§26) gjelder tilsvarende. Tillatelsen skal henges opp på et lett synlig sted i stallen.
+Den som skal drive hestesenter, omsetning av flere enn 6 hester i året,[^1] treningsstall eller hestepensjonat, skal søke Mattilsynet om tillatelse. Søknaden skal ha en form og et innhold som oppfyller kravene til melding etter [§ 26](forskrift/2005-06-02-505/§26). Plikten til å melde fra om endringer etter [§ 26](forskrift/2005-06-02-505/§26) gjelder tilsvarende. Tillatelsen skal henges opp på et lett synlig sted i stallen.
 
 For at Mattilsynet skal kunne gi tillatelse, må anlegget og driften tilfredstille kravene i denne forskriften. Det er også en forutsetning at søker gjennom sin tidligere befatning med dyr har opptrådt i samsvar med gjeldende regelverk for dyrehold. Hvis Mattilsynet finner grunn til det, kan det gis tillatelse for et begrenset tidsrom og settes vilkår for tillatelsen, herunder største antall hester som tillates oppstallet.
 

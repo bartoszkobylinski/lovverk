@@ -15,7 +15,7 @@ xml_hash: "393cecb78ae672105d14af7e09d856e207405c6ca36945f53be2d7167dc15616"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ I [lov 11. mars 2022 nr. 9 om inn- og utførsel av varer](lov/2022-03-11-9) vert
 
 ## III
 
-Endringane under I tek til å gjelde frå den tid1 Kongen fastset.
+Endringane under I tek til å gjelde frå den tid[^1] Kongen fastset.
 
 Endringane under II tek til å gjelde 1. juli 2026.
 

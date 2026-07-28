@@ -15,7 +15,7 @@ xml_hash: "2e7d45e40f046620115aa6cce12255bf5cc0ae316de381e99e941905cbc20a52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -272,7 +272,7 @@ Fakultetet kan oppheve eller endre vedtaket hvis det finner klagen begrunnet. Hv
 
 ## § 17. Ikrafttredelse og frister
 
-Forskriften trer i kraft straks og samtidig oppheves forskrift 8.april 19971 om graden doctor philosophiae (dr.philos.) ved Universitetet i Oslo.
+Forskriften trer i kraft straks og samtidig oppheves forskrift 8.april 1997[^1] om graden doctor philosophiae (dr.philos.) ved Universitetet i Oslo.
 
 Ved behov som skyldes forhold utenfor fakultetets eller kandidatens kontroll, kan fakultetet forlenge frister fastsatt i denne forskriften.
 

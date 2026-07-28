@@ -15,7 +15,7 @@ xml_hash: "edc49546ae3a7e23642a15e2fc6f5e4ebde68e19df99bca2a5999218e96e497a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,9 +51,9 @@ eu_basis: []
 - [Lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova)](lov/2008-06-06-37)
 - [Lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven)](lov/2007-02-16-9)
 - [Lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79)
-- Lov 21. juni 2003 nr. 75 om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)1
+- Lov 21. juni 2003 nr. 75 om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)[^1]
 - [Lov 7. juli 2000 nr. 68 om avgift til forskning og utvikling i fiskeri- og havbruksnæringen (lov om eksportavgift på fiskevarer)](lov/2000-07-07-68)
-- Lov 26. mars 1999 nr. 44 om retten til å delta i fiske og fangst (deltakerloven)2
+- Lov 26. mars 1999 nr. 44 om retten til å delta i fiske og fangst (deltakerloven)[^2]
 - [Lov 26. juni 1998 nr. 47 om fritids- og småbåter (småbåtloven)](lov/1998-06-26-47)
 - [Lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven)](lov/1994-06-24-39) – [kapittel 1](lov/1994-06-24-39/kap1), [2](lov/1994-06-24-39/kap2), [18](lov/1994-06-24-39/kap18) og [21](lov/1994-06-24-39/kap21).
 - [Lov 11. juni 1993 nr. 73 om prisregulering ved import av fisk og fiskevarer m.v. (lov om prisregulering ved fiskeimport m.v)](lov/1993-06-11-73)
@@ -66,7 +66,7 @@ eu_basis: []
 - [Lov 16. juni 1967 nr. 3 om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter (lov om forbud mot at redere gir opplysninger)](lov/1967-06-16-3)
 - [Lov 19. desember 1952 nr. 2 om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold (lov om adgang til rekvisisjon av skip)](lov/1952-12-19-2)
 - [Lov 8. juli 1949 nr. 13 om produksjon, transport og omsetning av agn (agnforsyningsloven)](lov/1949-07-08-13)
-- Lov 14. mars 1930 nr. 14 om landslott (landslottloven)3
+- Lov 14. mars 1930 nr. 14 om landslott (landslottloven)[^3]
 
 1 Skal være [lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)](lov/2013-06-21-75). Lovtidend-redaksjonens anmerkning.
 
@@ -79,7 +79,7 @@ eu_basis: []
 - [Lov 18. juni 2021 nr. 136 om røystingsrådgjevarar](lov/2021-06-18-136)
 - [Lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet](lov/2020-12-21-175)
 - [Lov 18. desember 2020 nr. 156 om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020](lov/2020-12-18-156)
-- Lov 23. juni 2020 nr. 98 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) – kapittel 6.1
+- Lov 23. juni 2020 nr. 98 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) – kapittel 6.[^1]
 - [Lov 17. april 2020 nr. 29 om god handelsskikk i dagligvarekjeden](lov/2020-04-17-29)
 - [Lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven)](lov/2016-06-17-73)
 - [Lov 12. april 2013 nr. 13 om det frie varebytte i EØS (EØS-vareloven)](lov/2013-04-12-13)

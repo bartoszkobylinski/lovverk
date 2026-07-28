@@ -15,7 +15,7 @@ xml_hash: "d93b4c74aa69fb1f1e534c2093f74968484b1ae3a53b8e8d35f4a92e808d17de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,7 @@ Fristen for klage er seks uker, også i saker som nevnt i fjerde ledd.
 
 ## III
 
-Loven gjelder fra den tiden1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
 Departementet kan gi nærmere overgangsregler.
 

@@ -15,7 +15,7 @@ xml_hash: "1f48f05a59a0e934cb40593777c7c66570f4e9ee48777e12ecb98210767f3102"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1071,7 +1071,7 @@ Skogbruksmyndigheita skal gi jordskifteretten innsyn i saldo for skogfondreknesk
 
 ### § 9-5. Iverksetjing
 
-Lova gjeld frå den tid Kongen fastset.1 Samstundes held [lov 21. desember 1979 nr. 77](lov/1979-12-21-77) om jordskifte opp å gjelde.
+Lova gjeld frå den tid Kongen fastset.[^1] Samstundes held [lov 21. desember 1979 nr. 77](lov/1979-12-21-77) om jordskifte opp å gjelde.
 
 1 Frå 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736).
 

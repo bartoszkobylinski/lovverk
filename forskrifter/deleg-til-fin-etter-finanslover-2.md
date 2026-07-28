@@ -15,13 +15,13 @@ xml_hash: "137ec38d39653fb740ce560caa2490bf5623f641bdbc09f985ff0bec0085d845"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet etter lov 20. juni 2014 nr. 29 om endringer i børsloven og verdipapirhandelloven mv. del XIX nr. 1 og lov 20. juni 2014 nr. 30 om kredittvurderingsbyråer § 3
 
-Delegering av Kongens myndighet etter lov 20. juni 20141 til Finansdepartementet.
+Delegering av Kongens myndighet etter lov 20. juni 2014[^1] til Finansdepartementet.
 
 1 Skal vel være [lov 20. juni 2014 nr. 29](lov/2014-06-20-29) om endringer i børsloven og verdipapirhandelloven mv. del XIX nr. 1 og [lov 20. juni 2014 nr. 30](lov/2014-06-20-30) om kredittvurderingsbyråer [§ 3](lov/2014-06-20-30/§3), Lovdatas anm.

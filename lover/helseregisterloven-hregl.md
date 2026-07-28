@@ -15,7 +15,7 @@ xml_hash: "8c20704a55e9ae1f4b242f004840f3a73febacab1d54621b243d91f4ea00b907"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -439,7 +439,7 @@ Den dataansvarlige og databehandleren skal erstatte skader som er oppstått som 
 
 ### § 32. Ikraftsetting
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tid oppheves [lov 18. mai 2001 nr. 24](lov/2001-05-18-24) om helseregistre og behandling av helseopplysninger.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme tid oppheves [lov 18. mai 2001 nr. 24](lov/2001-05-18-24) om helseregistre og behandling av helseopplysninger.
 
 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.
 

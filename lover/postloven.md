@@ -15,7 +15,7 @@ xml_hash: "fa4a4a09f1627e810ecf01a7e33230f429f47ee4f8f9c17662933ec7954df591"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "31997L0067"
@@ -328,7 +328,7 @@ Myndigheten kan gi forskrift og fatte enkeltvedtak om sikkerhet i postnettet, he
 
 ### § 33. Tilgang til sonenøkkelsystem
 
-For å legge til rette for levering av postsendinger til utleveringspostkasser i postkasseanlegg kan myndigheten pålegge Posten Norge AS1 kostnadsfritt å gi tilgang til sonenøkler som hører til hovedlokk i postkasseanlegg og til inngangsdører som fører til slike postkasseanlegg. Myndigheten kan pålegge Posten Norge AS1 kostnadsfritt å gi tilgang til de innarbeidede ordningene for forvaltning av slike nøkler og adgangsmekanismer, og utvikle disse til felles sonenøkkelsystemer i samarbeid med andre tilbydere. Myndigheten kan også pålegge tilbydere eller andre som disponerer sonenøkler kostnadsfritt å gi tilgang til disse. Administrasjon og drift av sonenøkkelsystem skal skje på åpne, objektive og ikke-diskriminerende vilkår, og skal ivareta sikkerhet og personvern.
+For å legge til rette for levering av postsendinger til utleveringspostkasser i postkasseanlegg kan myndigheten pålegge Posten Norge AS[^1] kostnadsfritt å gi tilgang til sonenøkler som hører til hovedlokk i postkasseanlegg og til inngangsdører som fører til slike postkasseanlegg. Myndigheten kan pålegge Posten Norge AS[^1] kostnadsfritt å gi tilgang til de innarbeidede ordningene for forvaltning av slike nøkler og adgangsmekanismer, og utvikle disse til felles sonenøkkelsystemer i samarbeid med andre tilbydere. Myndigheten kan også pålegge tilbydere eller andre som disponerer sonenøkler kostnadsfritt å gi tilgang til disse. Administrasjon og drift av sonenøkkelsystem skal skje på åpne, objektive og ikke-diskriminerende vilkår, og skal ivareta sikkerhet og personvern.
 
 Av hensyn til sikkerhet og personvern for gårdeiere og postkasseeiere kreves tillatelse fra myndigheten for å få tilgang til sonenøkkelsystem. Tilbyder med tilgang til sonenøkler skal ivareta disse på en sikker måte. Gårdeiere og postkasseeiere som omfattes av sonenøkkelsystemet, plikter å gi tilgang til tilbyder med tillatelse fra myndigheten.
 
@@ -594,7 +594,7 @@ Innkreving av krav som nevnt i første ledd kan pålegges Innkrevingsmyndigheten
 
 ### § 56. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt1 Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelser skal tre i kraft på ulikt tidspunkt.
+Loven trer i kraft fra det tidspunkt[^1] Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelser skal tre i kraft på ulikt tidspunkt.
 
 Fra den tid loven trer i kraft oppheves [lov 29. november 1996 nr. 73](lov/1996-11-29-73) om formidling av landsdekkende postsendinger.
 
@@ -603,9 +603,9 @@ Fra 19. april 2024 for [§ 35](lov/2015-09-04-91/§35), [§ 36](lov/2015-09-04-9
 
 ### § 57. Overgangsbestemmelser
 
-Inntil det er inngått avtale med eller utpekt tilbyder med leveringsplikt, utpekes Posten Norge AS1 som leveringspliktig tilbyder.
+Inntil det er inngått avtale med eller utpekt tilbyder med leveringsplikt, utpekes Posten Norge AS[^1] som leveringspliktig tilbyder.
 
-Konsesjon til Posten Norge AS1 av 18. desember 2012 videreføres, med unntak av punkt 3.5, 3.8.1 og 3.8.2, [kapitlene 4](lov/2015-09-04-91/kap4) og 5, og punkt 6.1, 6.2 og 6.3, inntil ny avtale eller vedtak som utpeker leveringspliktig tilbyder trer i kraft, eller konsesjonen på annet vis opphører. Ved motstrid mellom bestemmelser i konsesjon og lov skal bestemmelsene i loven ha forrang.
+Konsesjon til Posten Norge AS[^1] av 18. desember 2012 videreføres, med unntak av punkt 3.5, 3.8.1 og 3.8.2, [kapitlene 4](lov/2015-09-04-91/kap4) og 5, og punkt 6.1, 6.2 og 6.3, inntil ny avtale eller vedtak som utpeker leveringspliktig tilbyder trer i kraft, eller konsesjonen på annet vis opphører. Ved motstrid mellom bestemmelser i konsesjon og lov skal bestemmelsene i loven ha forrang.
 
 Departementet kan i enkeltvedtak endre konsesjonen inntil ny avtale eller vedtak som utpeker leveringspliktig tilbyder trer i kraft, eller konsesjonen opphører.
 

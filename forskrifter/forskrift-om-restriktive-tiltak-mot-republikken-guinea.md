@@ -15,7 +15,7 @@ xml_hash: "cd3b1da47fa7ae3030f50780a8d8350aa3dcc5dc5c5778de4b518a90f2607684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,7 +109,7 @@ I denne forordning menes med
 
 1. Alle penger og formuesgoder som tilhører, eies, besittes eller kontrolleres av de fysiske og juridiske personene, enhetene og organene som er oppført på listen i vedlegg II, skal fryses.
 2. Ingen penger eller formuesgoder skal stilles til rådighet for, verken direkte eller indirekte, eller gjøres tilgjengelige til fordel for de fysiske og juridiske personene, enhetene og organene som er oppført på listen i vedlegg II.
-3. Vedlegg II inneholder en liste over de personene som den internasjonale undersøkelseskommisjonen har fastslått er ansvarlige for hendelsene 28. september 2009 i Republikken Guinea, samt fysiske eller juridiske personer, enheter eller organer som er assosiert med dem, og som Rådet har oppført på listen i samsvar med artikkel 4 nr. 1 i rådsbeslutning 2010/638/FUSP av 25. oktober 2010 om restriktive tiltak rettet mot Republikken Guinea.1
+3. Vedlegg II inneholder en liste over de personene som den internasjonale undersøkelseskommisjonen har fastslått er ansvarlige for hendelsene 28. september 2009 i Republikken Guinea, samt fysiske eller juridiske personer, enheter eller organer som er assosiert med dem, og som Rådet har oppført på listen i samsvar med artikkel 4 nr. 1 i rådsbeslutning 2010/638/FUSP av 25. oktober 2010 om restriktive tiltak rettet mot Republikken Guinea.[^1]
 4. Det er forbudt forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i nr. 1 og 2.
 
 1 EUT L 280 av 26.10.2010, s. 10.

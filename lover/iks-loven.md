@@ -15,7 +15,7 @@ xml_hash: "6746ac1eeb4fd5ab08436e586079b5954c106e0f9bd315a3dbeba6aa80c31c52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -463,7 +463,7 @@ Erstatningsansvar etter første ledd kan lempes for såvidt dette finnes rimelig
 
 ## § 39. Ikraftsetting
 
-Denne lov trer i kraft fra det tidspunkt1 Kongen bestemmer.
+Denne lov trer i kraft fra det tidspunkt[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2000 iflg. [res. 22 okt 1999 nr. 1098](forskrift/1999-10-22-1098).
 

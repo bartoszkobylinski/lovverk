@@ -15,7 +15,7 @@ xml_hash: "a1d121a80a3269ed4edf855a1a1dd573fdf8e2e76ab39d893b56b38e875f68c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1.
 
-Kommunens myndighet etter lov om motorferdsel i utmark og vassdrag [10. juni 1977 nr. 82 § 5](lov/1977-06-10-82/§5) bokstav a)1 til å gi forskrift om adgang til landing og start med luftfartøy på bestemte steder i utmark og vassdrag, er begrenset på følgende måte:
+Kommunens myndighet etter lov om motorferdsel i utmark og vassdrag [10. juni 1977 nr. 82 § 5](lov/1977-06-10-82/§5) bokstav a)[^1] til å gi forskrift om adgang til landing og start med luftfartøy på bestemte steder i utmark og vassdrag, er begrenset på følgende måte:
 
 Det er ikke adgang til å legge ut til landingsplasser fjelltopper, utsiktspunkter, breer og andre liknende steder, som bare har interesse i forbindelse med helikopterskiing, for kortvarig opphold, som utgangspunkt for dagsturer, eller for liknende formål.
 

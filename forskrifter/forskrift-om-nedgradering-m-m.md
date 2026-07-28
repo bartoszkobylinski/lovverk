@@ -15,14 +15,14 @@ xml_hash: "4522c40b089036452310acc37818eaebb49ed10b6c92c3988e03b5368d79b886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om nedgradering m.m.
 
-Endringer i Sikkerhetsinstruksen og Beskyttelsesinstruksen, fastsatt ved kgl.res. av 17. mars 1972 med senere endringer ved kgl.res. av 14. mai 1982.1
+Endringer i Sikkerhetsinstruksen og Beskyttelsesinstruksen, fastsatt ved kgl.res. av 17. mars 1972 med senere endringer ved kgl.res. av 14. mai 1982.[^1]
 
 1 Ikke tidligere kunngjort i NL.
 

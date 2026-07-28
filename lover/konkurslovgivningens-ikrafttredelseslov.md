@@ -15,7 +15,7 @@ xml_hash: "cfdd248d8b7121708390e66600d409df2f6de04f55e1f9849fdbd3bdb37f86fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Lov om gjeldsforhandling og konkurs og lov om fordringshavernes dekningsrett tar
 
 ## II
 
-Fra samme dato1 oppheves eller endres følgende lover og lovbestemmelser: – – –
+Fra samme dato[^1] oppheves eller endres følgende lover og lovbestemmelser: – – –
 
 1 1 jan 1986 iflg. [res. 12 juli 1985 nr. 1435](forskrift/1985-07-12-1435).
 

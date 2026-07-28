@@ -17,7 +17,7 @@ xml_hash: "fda9f2c94749d8992aae8ac1e5a01f44d9c90ec437c28310cdd741ce958bb0ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,7 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i m
 
 ## § 6. Ikrafttredelse
 
-Forskriften trer i kraft fra den tid departementene bestemmer.1
+Forskriften trer i kraft fra den tid departementene bestemmer.[^1]
 
 Samtidig oppheves [forskrift 23. desember 2004 nr. 1809](forskrift/2004-12-23-1809) om sporbarhet av næringsmidler og fôr.
 
@@ -86,13 +86,13 @@ EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37, 95, 133 og artikkel 152 nr. 4 bokstav b),
 
-under henvisning til forslag fra Kommisjonen,1
+under henvisning til forslag fra Kommisjonen,[^1]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^2]
 
-under henvisning til uttalelse fra Regionkomiteen,3
+under henvisning til uttalelse fra Regionkomiteen,[^3]
 
-etter framgangsmåten fastsatt i traktatens artikkel 2514 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^4] og
 
 ut fra følgende betraktninger:
 
@@ -101,7 +101,7 @@ ut fra følgende betraktninger:
 3. Fri omsetning av næringsmidler og fôr innenfor Fellesskapet kan oppnås bare dersom kravene til næringsmiddel- og fôrtrygghet ikke varierer vesentlig fra medlemsstat til medlemsstat.
 4. Det er store ulikheter mellom medlemsstatenes næringsmiddellovgivninger med hensyn til begreper, prinsipper og framgangsmåter. Når medlemsstatene vedtar tiltak som gjelder næringsmidler, kan disse ulikhetene hindre fri omsetning av næringsmidler, skape ulike konkurransevilkår og dermed direkte påvirke det indre markeds virkemåte.
 5. Det er derfor nødvendig med en tilnærming av disse begrepene, prinsippene og framgangsmåtene slik at de danner et felles grunnlag for de tiltakene som treffes i medlemsstatene og på fellesskapsplan med hensyn til næringsmidler og fôr. Det er imidlertid nødvendig å avsette tilstrekkelig tid til å tilpasse eventuelle motstridende bestemmelser i gjeldende regelverk, både på nasjonalt plan og på fellesskapsplan, og å sørge for at det relevante regelverket, i påvente av en slik tilpasning, anvendes på bakgrunn av prinsippene i denne forordning.
-6. Vann inntas direkte eller indirekte i likhet med andre næringsmidler, og bidrar dermed til den enkelte forbrukers samlede eksponering for inntatte stoffer, herunder forurensende kjemiske og mikrobiologiske stoffer. Ettersom kvaliteten på drikkevann imidlertid allerede kontrolleres gjennom rådsdirektiv [80/778/EØF](eu/31980l0778*)5 og rådsdirektiv [98/83/EF](eu/31998l0083*),6 er det tilstrekkelig å ta vann i betraktning etter det sted for overholdelse som er fastsatt i artikkel 6 i direktiv [98/83/EF](eu/31998l0083*).
+6. Vann inntas direkte eller indirekte i likhet med andre næringsmidler, og bidrar dermed til den enkelte forbrukers samlede eksponering for inntatte stoffer, herunder forurensende kjemiske og mikrobiologiske stoffer. Ettersom kvaliteten på drikkevann imidlertid allerede kontrolleres gjennom rådsdirektiv [80/778/EØF](eu/31980l0778*)[^5] og rådsdirektiv [98/83/EF](eu/31998l0083*),[^6] er det tilstrekkelig å ta vann i betraktning etter det sted for overholdelse som er fastsatt i artikkel 6 i direktiv [98/83/EF](eu/31998l0083*).
 7. Det bør i næringsmiddelregelverket innføres krav til fôr, herunder til produksjon og bruk av fôr beregnet på dyr bestemt til næringsmiddelproduksjon. Dette berører ikke lignende krav som har blitt anvendt hittil, og som vil bli anvendt i framtiden i fôrvareregelverket for alle dyr, herunder kjæledyr.
 8. Fellesskapet har ved utformingen av næringsmiddelregelverket valgt et høyt helsevernnivå, som får anvendelse uten forskjellsbehandling på handel med næringsmidler eller fôrvarer uavhengig av om handelen skjer på det indre marked eller internasjonalt.
 9. Det er nødvendig å sikre at forbrukere, andre berørte parter og handelspartnere har tillit til de beslutningsprosessene som ligger til grunn for næringsmiddelregelverket, dets vitenskapelige grunnlag og strukturen og uavhengigheten til de institusjonene som er ansvarlige for vern av helsen og av andre interesser.
@@ -133,7 +133,7 @@ ut fra følgende betraktninger:
 35. Myndigheten bør være en uavhengig vitenskapelig kilde for rådgivning, informasjon og risikokommunikasjon for å øke forbrukernes tillit. For å fremme sammenhengen mellom risikovurdering, risikohåndtering og risikokommunikasjon bør imidlertid forbindelsen mellom dem som vurderer og dem som håndterer risikoer, styrkes.
 36. Myndigheten bør gi en omfattende og uavhengig vitenskapelig oversikt over tryggheten og andre sider ved næringsmiddel- og fôrkjeden i sin helhet, noe som innebærer et utstrakt ansvar for myndigheten. Ansvaret bør omfatte spørsmål som har en direkte eller indirekte innflytelse på tryggheten i næringsmiddel- og fôrkjeden, dyrs helse og velferd og plantehelsen. Det er imidlertid nødvendig å sikre at myndigheten fokuserer på næringsmiddeltrygghet, slik at dens oppdrag med hensyn til dyrs helse og velferd og plantehelse som ikke har sammenheng med næringsmiddelkjedens trygghet, bør begrenses til å avgi vitenskapelige uttalelser. Myndighetens oppdrag bør også omfatte vitenskapelig rådgivning og vitenskapelig og teknisk bistand med hensyn til menneskers ernæring i forbindelse med Fellesskapets regelverk, og bistand til Kommisjonen, på dennes anmodning, når det gjelder informasjon i forbindelse med Fellesskapets helseprogrammer.
 37. Ettersom visse produkter som godkjennes innenfor rammen av næringsmiddelregelverket, som plantevernmidler eller tilsetningsstoffer i fôr, kan utgjøre en risiko for miljøet eller arbeidstakeres sikkerhet, bør visse miljøaspekter og aspekter ved vern av arbeidstakere også vurderes av myndigheten i samsvar med gjeldende regelverk.
-38. For å unngå overlapping av vitenskapelige vurderinger og lignende vitenskapelige uttalelser om genmodifiserte organismer (GMO-er), bør myndigheten uten at det berører framgangsmåtene fastsatt i direktiv [2001/18/EF](eu/32001l0018)7 også avgi vitenskapelige uttalelser om andre produkter enn næringsmidler og fôr som gjelder genmodifiserte organismer i henhold til nevnte direktiv.
+38. For å unngå overlapping av vitenskapelige vurderinger og lignende vitenskapelige uttalelser om genmodifiserte organismer (GMO-er), bør myndigheten uten at det berører framgangsmåtene fastsatt i direktiv [2001/18/EF](eu/32001l0018)[^7] også avgi vitenskapelige uttalelser om andre produkter enn næringsmidler og fôr som gjelder genmodifiserte organismer i henhold til nevnte direktiv.
 39. Myndigheten bør gjennom sin bistand i vitenskapelige spørsmål bidra til Fellesskapets og medlemsstatenes rolle i utviklingen og fastsettelsen av internasjonale standarder for næringsmiddeltrygghet samt handelsavtaler.
 40. Det er av avgjørende betydning at Fellesskapets institusjoner, offentligheten og berørte parter har tillit til myndigheten. Det er derfor absolutt nødvendig å sikre at myndigheten er uavhengig, har høy vitenskapelige kvalitet, er åpen og effektiv. Samarbeid med medlemsstater er også absolutt nødvendig.
 41. Styret bør derfor utpekes på en måte som sikrer det høyeste kompetansenivå, et bredt spekter av relevant sakkunnskap, f.eks. innenfor ledelse og offentlig forvaltning, og størst mulig geografisk spredning i Unionen. Dette bør fremmes gjennom en rotasjonsordning mellom styremedlemmenes hjemstater, uten at noen plasser kan forbeholdes borgere fra en bestemt medlemsstat.
@@ -154,13 +154,13 @@ ut fra følgende betraktninger:
 56. I tillegg til at prinsippene for myndighetens virksomhet bør bygge på uavhengighet og innsyn, bør myndigheten være en organisasjon som er åpen for kontakt med forbrukere og andre berørte grupper.
 57. Myndigheten bør finansieres over Den europeiske unions alminnelige budsjett. På bakgrunn av de erfaringer som er gjort, særlig med hensyn til behandlingen av godkjenningssaker som framlegges av industrien, bør imidlertid muligheten for å innføre avgifter undersøkes innen tre år etter at denne forordning har trådt i kraft. Fellesskapets budsjettbehandling vil fortsatt få anvendelse når det gjelder de tilskudd som skal dekkes over Den europeiske unions alminnelige budsjett. Videre bør revisjonen av regnskapene foretas av Revisjonsretten.
 58. Europeiske stater som ikke er medlemmer av Den europeiske union, men som har inngått avtaler som forplikter dem til å innarbeide og gjennomføre fellesskapsretten på det området denne forordning omhandler, må gis adgang til å delta.
-59. Det finnes allerede et hurtigvarslingssystem innenfor rammen av rådsdirektiv [92/59/EØF](eu/31992l0059) av 29. juni 1992 om alminnelig produktsikkerhet.8 Virkeområdet for det nåværende systemet omfatter næringsmidler og industriprodukter, men ikke fôr. Den senere tids kriser på næringsmiddelområdet har vist at det er behov for å innføre et forbedret og utvidet hurtigvarslingssystem som omfatter næringsmidler og fôr. Dette endrede systemet bør forvaltes av Kommisjonen og omfatte medlemsstatene, Kommisjonen og myndigheten som medlemmer i nettverket. Systemet bør ikke omfatte fellesskapsordninger for hurtig utveksling av informasjon i tilfelle av en radiologisk beredskapssituasjon, fastsatt i rådsvedtak [87/600/Euratom](eu/31987d0600).9
+59. Det finnes allerede et hurtigvarslingssystem innenfor rammen av rådsdirektiv [92/59/EØF](eu/31992l0059) av 29. juni 1992 om alminnelig produktsikkerhet.[^8] Virkeområdet for det nåværende systemet omfatter næringsmidler og industriprodukter, men ikke fôr. Den senere tids kriser på næringsmiddelområdet har vist at det er behov for å innføre et forbedret og utvidet hurtigvarslingssystem som omfatter næringsmidler og fôr. Dette endrede systemet bør forvaltes av Kommisjonen og omfatte medlemsstatene, Kommisjonen og myndigheten som medlemmer i nettverket. Systemet bør ikke omfatte fellesskapsordninger for hurtig utveksling av informasjon i tilfelle av en radiologisk beredskapssituasjon, fastsatt i rådsvedtak [87/600/Euratom](eu/31987d0600).[^9]
 60. Hendelsene nylig med hensyn til næringsmiddeltrygghet har vist at det er behov for å treffe egnede tiltak i nødssituasjoner for å sikre at alle næringsmidler, uansett art eller opprinnelse, og alt fôr blir underlagt felles tiltak i tilfelle av alvorlig risiko for menneskers helse, dyrehelsen eller miljøet. En slik overordnet strategi for nødtiltak med hensyn til næringsmiddeltrygghet bør gjøre det mulig å treffe effektive tiltak og unngå kunstige forskjeller i behandlingen av en alvorlig risiko i forbindelse med næringsmidler eller fôr.
 61. Krisene på næringsmiddelområdet nylig har også vist hvilke fordeler Kommisjonen vil ha av bedre tilpassede og raskere framgangsmåter for krisehåndtering. Disse organisatoriske framgangsmåtene bør gjøre det mulig å bedre samordningen av tiltakene og på grunnlag av de beste vitenskapelige opplysningene fastsette de mest effektive tiltakene. De endrede framgangsmåtene bør derfor ta hensyn til myndighetens ansvarsområde og omfatte bestemmelser om myndighetens vitenskapelige og tekniske bistand i form av rådgivning i tilfelle av en krise på næringsmiddelområdet.
-62. For å sikre en mer effektiv og overordnet strategi i forbindelse med næringsmiddelkjeden, bør det opprettes en komité for næringsmiddelkjeden og dyrehelsen for å erstatte Den faste veterinærkomité. Rådsbeslutning [68/361/EØF](eu/31968d0361),10 rådsbeslutning [69/414/EØF](eu/31969d0414)11 og rådsbeslutning [70/372/EØF](eu/31970d0372)12 bør derfor oppheves. Av samme grunn bør Komiteen for næringsmiddelkjeden og dyrehelsen også erstatte Den faste komité for plantehelse når det gjelder dennes myndighet (direktiv [76/895/EØF](eu/31976l0895*),13 direktiv [86/362/EØF](eu/31986l0362),14 direktiv [86/363/EØF](eu/31986l0363),15 direktiv [90/642/EØF](eu/31990l0642)16 og direktiv [91/414/EØF](eu/31991l0414*)17 ) når det gjelder plantevernmidler og fastsettelse av maksimumsgrenser for restmengder.
-63. De tiltakene som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.18
+62. For å sikre en mer effektiv og overordnet strategi i forbindelse med næringsmiddelkjeden, bør det opprettes en komité for næringsmiddelkjeden og dyrehelsen for å erstatte Den faste veterinærkomité. Rådsbeslutning [68/361/EØF](eu/31968d0361),[^10] rådsbeslutning [69/414/EØF](eu/31969d0414)[^11] og rådsbeslutning [70/372/EØF](eu/31970d0372)[^12] bør derfor oppheves. Av samme grunn bør Komiteen for næringsmiddelkjeden og dyrehelsen også erstatte Den faste komité for plantehelse når det gjelder dennes myndighet (direktiv [76/895/EØF](eu/31976l0895*),[^13] direktiv [86/362/EØF](eu/31986l0362),[^14] direktiv [86/363/EØF](eu/31986l0363),[^15] direktiv [90/642/EØF](eu/31990l0642)[^16] og direktiv [91/414/EØF](eu/31991l0414*)[^17] ) når det gjelder plantevernmidler og fastsettelse av maksimumsgrenser for restmengder.
+63. De tiltakene som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[^18]
 64. Det er nødvendig at de næringsdrivende får nok tid til å tilpasse seg noen av kravene fastsatt i denne forordning, og at Den europeiske myndighet for næringsmiddeltrygghet kan begynne sin virksomhet 1. januar 2002.
-65. Det er viktig å unngå sammenblanding mellom oppdragene til myndigheten og oppdragene til Det europeiske kontor for legemiddelvurdering (EMEA), opprettet ved rådsforordning [(EØF) nr. 2309/93](eu/31993r2309).19 Det er derfor nødvendig å fastslå at denne forordning ikke berører den myndighet som er tillagt EMEA gjennom Fellesskapets regelverk, herunder den myndighet som er tillagt Kontoret ved rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse.20
+65. Det er viktig å unngå sammenblanding mellom oppdragene til myndigheten og oppdragene til Det europeiske kontor for legemiddelvurdering (EMEA), opprettet ved rådsforordning [(EØF) nr. 2309/93](eu/31993r2309).[^19] Det er derfor nødvendig å fastslå at denne forordning ikke berører den myndighet som er tillagt EMEA gjennom Fellesskapets regelverk, herunder den myndighet som er tillagt Kontoret ved rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse.[^20]
 66. Det er nødvendig og hensiktsmessig for å kunne nå de grunnleggende målene for denne forordning at det skjer en tilnærming av begreper, prinsipper og framgangsmåter som utgjør et felles grunnlag for Fellesskapet næringsmiddelregelverk, og at det opprettes en europeisk myndighet for næringsmiddeltrygghet. I samsvar med forholdsmessighetsprinsippet fastsatt i traktatens artikkel 5 går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene –
 
 1 EFT C 96 E av 27.3.2001, s. 247.
@@ -231,9 +231,9 @@ I denne forordning menes med «næringsmidler» ethvert stoff eller produkt, uan
 1. fôr,
 2. levende dyr, med mindre de er klargjort for omsetning til konsum,
 3. planter før innhøsting,
-4. legemidler i henhold til rådsdirektiv [65/65/EØF](eu/31965l0065*)1 og rådsdirektiv [92/73/EØF](eu/31992l0073),2
-5. kosmetikk i henhold til rådsdirektiv [76/768/EØF](eu/31976l0768*),3
-6. tobakk og tobakksvarer i henhold til rådsdirektiv [89/622/EØF](eu/31989l0622),4
+4. legemidler i henhold til rådsdirektiv [65/65/EØF](eu/31965l0065*)[^1] og rådsdirektiv [92/73/EØF](eu/31992l0073),[^2]
+5. kosmetikk i henhold til rådsdirektiv [76/768/EØF](eu/31976l0768*),[^3]
+6. tobakk og tobakksvarer i henhold til rådsdirektiv [89/622/EØF](eu/31989l0622),[^4]
 7. narkotika eller psykotrope stoffer i henhold til De forente nasjoners alminnelige [narkotikakonvensjon av 1961 og](traktat/1961-03-30-1) De forente nasjoners konvensjon om psykotrope stoffer av 1971.
 8. reststoffer og forurensende stoffer.
 
@@ -535,7 +535,7 @@ Ansvar for fôr: driftsansvarlige for fôrforetak
 
 Ansvar
 
-Bestemmelsene i dette kapittel berører ikke rådsdirektiv [85/374/EØF](eu/31985l0374*) av 25. juli 1985 om tilnærming av medlemsstatenes lover og forskrifter om produktansvar.1
+Bestemmelsene i dette kapittel berører ikke rådsdirektiv [85/374/EØF](eu/31985l0374*) av 25. juli 1985 om tilnærming av medlemsstatenes lover og forskrifter om produktansvar.[^1]
 
 1 EFT L 210 av 7.8.1985, s. 29. Direktivet sist endret ved europaparlaments- og rådsdirektiv [1999/34/EF](eu/31999l0034*) (EFT L 141 av 4.6.1999, s. 20).
 
@@ -656,7 +656,7 @@ Styret skal innen 30. mars hvert år vedta en generell rapport om myndighetens v
 
 ► **M1**
 
-9\. Styret skal, etter å ha rådført seg med Kommisjonen, fastsatte myndighetens finansreglement. Dette kan bare avvike fra kommisjonsforordning [(EF, Euratom) nr. 2343/2002](eu/32002r2343*) av 19. november 2002 om det finansielle rammereglement for organene nevnt i artikkel 185 i rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*) om finansreglementet som får anvendelse på De europeiske fellesskaps alminnelige budsjett.1 dersom særskilte kjennetegn ved myndighetens virkemåte krever dette og dersom Kommisjonen på forhånd har gitt sin tillatelse.
+9\. Styret skal, etter å ha rådført seg med Kommisjonen, fastsatte myndighetens finansreglement. Dette kan bare avvike fra kommisjonsforordning [(EF, Euratom) nr. 2343/2002](eu/32002r2343*) av 19. november 2002 om det finansielle rammereglement for organene nevnt i artikkel 185 i rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*) om finansreglementet som får anvendelse på De europeiske fellesskaps alminnelige budsjett.[^1] dersom særskilte kjennetegn ved myndighetens virkemåte krever dette og dersom Kommisjonen på forhånd har gitt sin tillatelse.
 
 ◄ **M1**
 
@@ -1140,7 +1140,7 @@ Vern av personopplysninger
 2. navnene på opphavere av offentliggjorte eller offentlig tilgjengelige undersøkelser som støtter slike anmodninger, og
 3. navnene på alle deltakere og observatører på møter i vitenskapskomiteen og vitenskapsgruppene, deres arbeidsgrupper og eventuelle andre møter i adhocgrupper om emnet.
 
-2\. Uten hensyn til nr. 1 skal offentliggjøring av navn og adresser til fysiske personer som deltar i forsøk på virveldyr eller innhenter toksikologiske opplysninger, anses for i vesentlig grad å skade disse fysiske personenes privatliv og integritet, og skal ikke offentliggjøres med mindre annet er angitt i europaparlaments- og rådsforordning [(EU) 2016/679](eu/32016r0679)\* og ([EU) 2018/1725](eu/32018r1725)\*\*.
+2\. Uten hensyn til nr. 1 skal offentliggjøring av navn og adresser til fysiske personer som deltar i forsøk på virveldyr eller innhenter toksikologiske opplysninger, anses for i vesentlig grad å skade disse fysiske personenes privatliv og integritet, og skal ikke offentliggjøres med mindre annet er angitt i europaparlaments- og rådsforordning [(EU) 2016/679](eu/32016r0679)[^\*] og ([EU) 2018/1725](eu/32018r1725)[^\*\*].
 
 3\. Forordning [(EU) 2016/679](eu/32016r0679) og [(EU) 2018/1725](eu/32018r1725) skal anvendes på behandling av personopplysninger i henhold til denne forordningen. Alle personopplysninger som offentliggjøres i henhold til artikkel 38 i denne forordningen og i henhold til denne artikkelen, skal bare brukes til å sikre innsyn i risikovurderingen i henhold til denne forordningen, og skal ikke viderebehandles på en måte som er uforenlig med disse formålene, i samsvar med artikkel 5 nr. 1 bokstav b) i forordning (EU) 2016/679 og artikkel 4 nr. 1 i forordning (EU) 2018/1725, etter hva som er relevant.
 
@@ -1547,7 +1547,7 @@ Enhver henvisning til Den faste komité for plantehelse i Fellesskapsregelverket
 
 Det europeiske kontor for legemiddelvurderings myndighet
 
-Denne forordning berører ikke den myndighet som er tildelt Det europeiske kontor for legemiddelvurdering ved forordning [(EØF) nr. 2309/93](eu/31993r2309), forordning [(EØF) nr. 2377/90](eu/31990r2377), rådsdirektiv [75/319/EØF](eu/31975l0319)1 og rådsdirektiv [81/851/EØF](eu/31981l0851).2
+Denne forordning berører ikke den myndighet som er tildelt Det europeiske kontor for legemiddelvurdering ved forordning [(EØF) nr. 2309/93](eu/31993r2309), forordning [(EØF) nr. 2377/90](eu/31990r2377), rådsdirektiv [75/319/EØF](eu/31975l0319)[^1] og rådsdirektiv [81/851/EØF](eu/31981l0851).[^2]
 
 1 EFT L 147 av 9.6.1975, s. 13. Direktivet endret ved europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) (EFT L 311 av 28.11.2001, s. 67).
 

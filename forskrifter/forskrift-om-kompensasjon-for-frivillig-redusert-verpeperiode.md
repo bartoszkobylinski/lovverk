@@ -15,7 +15,7 @@ xml_hash: "f04e2741b48aa5759f38da1cb6f5dabd05f9bbb03f070c79ad10a7de2b192272"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,6 +106,6 @@ For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forf
 
 ## § 10. Ikrafttredelse
 
-Forskriften trer i kraft fra det tidspunkt1 Omsetningsrådet bestemmer.
+Forskriften trer i kraft fra det tidspunkt[^1] Omsetningsrådet bestemmer.
 
 1 I kraft 1 jan 2021 jf. forskrift [12 nov 2020 nr. 3310](forskrift/2020-11-12-3310).

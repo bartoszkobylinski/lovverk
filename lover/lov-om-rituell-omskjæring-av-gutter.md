@@ -15,7 +15,7 @@ xml_hash: "8656c14c0ad35dfdb2dfa837d8b697d5557154a4ef3502d1c1199e4738bacafe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,7 @@ Den som uten å være lege forsettlig eller grovt uaktsomt overtrer [lovens §§
 
 ## § 10. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tidspunkt.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tidspunkt.
 
 1 Fra 1 jan 2015 iflg. [res. 5 des 2014 nr. 1512](forskrift/2014-12-05-1512).
 

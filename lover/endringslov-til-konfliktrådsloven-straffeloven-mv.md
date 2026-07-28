@@ -15,7 +15,7 @@ xml_hash: "87cdf59d52bcb94b7094a87841f559a3d629c378851a029bc162baee9e3fc532"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,7 +124,7 @@ Så framt føresegnene i lova her ikkje med reine ord er avgrensa til å gjelda 
 
 **11.** I [lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her](lov/2008-05-15-35) gjøres følgende endringer:
 
-– – –1
+– – –[^1]
 
 1 Inkurie: Opphevelse av endring i [utlendingsloven § 100 b annet ledd](lov/2008-05-15-35/§100/ledd/2) ved [lov 21 juni 2024 nr. 47](lov/2024-06-21-47) kunne ikke gjennomføres da denne endringen allerede er innarbeidet.
 
@@ -142,7 +142,7 @@ Så framt føresegnene i lova her ikkje med reine ord er avgrensa til å gjelda 
 
 ## XII
 
-1. Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Kongen kan gi nærmere overgangsregler.
 
 1 Fra 24. mai 2024 for endringen i [straffeloven § 361 første ledd bokstav a](lov/2005-05-20-28/§361/ledd/1/bokstav/a) under [del II](lov/2023-12-20-110/kapII), endringene i [straffeprosessloven § 21a tredje ledd](lov/1981-05-22-25/§21a/ledd/3), [§ 28 femte ledd](lov/1981-05-22-25/§28/ledd/5), [§ 56 første ledd fjerde punktum](lov/1981-05-22-25/§56/ledd/1/setning/4), [§ 57 første ledd tredje punktum](lov/1981-05-22-25/§57/ledd/1/setning/3), [§ 230 andre ledd første punktum](lov/1981-05-22-25/§230/ledd/2/setning/1) og [§ 434 sjette ledd](lov/1981-05-22-25/§434/ledd/6) under [del III](lov/2023-12-20-110/kapIII), endringen i [domstolloven § 41 første ledd](lov/1915-08-13-5/§41/ledd/1) under [del IV](lov/2023-12-20-110/kapIV), og [del XI](lov/2023-12-20-110/kapXI) med unntak av endringene i [oreigningslova § 30](lov/1959-10-23-3/§30),

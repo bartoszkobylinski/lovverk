@@ -15,7 +15,7 @@ xml_hash: "1cf024725c96ffba1e9bebd85c921acb3c5c85ff8103fe52fdcdc7bb4ab5e739"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -89,7 +89,7 @@ For motorkjøretøy eller båt som er solgt med forbehold om eiendomsrett for se
 
 ## § 11.
 
-Denne lov trer i kraft fra den tid1 Kongen bestemmer.
+Denne lov trer i kraft fra den tid[^1] Kongen bestemmer.
 
 > Endret ved lover 21 apr 1978 nr. 10, tidligere § 9, [9 mai 2008 nr. 16](lov/2008-05-09-16), tidligere § 10.
 

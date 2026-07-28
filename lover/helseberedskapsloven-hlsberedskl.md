@@ -15,7 +15,7 @@ xml_hash: "faaa5084aed54e1fc4c753dc69c9850fa86d323af53684ddae785761460ab023"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -231,7 +231,7 @@ Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter eller på
 
 ### § 7-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til forskjellig tid.
 
 Fra samme dato oppheves [lov 2. desember 1955 nr. 2](lov/1955-12-02-2) om helsemessig beredskap.
 

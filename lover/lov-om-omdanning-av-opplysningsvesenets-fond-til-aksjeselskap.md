@@ -15,7 +15,7 @@ xml_hash: "1cf3df4c2d83a1b9b8133e272eaf279408fe859417093600e424ca7757ef2522"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Omregistrering av eiendeler, rettigheter og heftelser i grunnboken og andre offe
 
 ## § 6. Ikrafttredelse
 
-Loven trer i kraft straks, med unntak av [§ 7 nr. 1](lov/2024-06-25-58/§7/nummer/1), som gjelder fra den tid1 Kongen bestemmer.
+Loven trer i kraft straks, med unntak av [§ 7 nr. 1](lov/2024-06-25-58/§7/nummer/1), som gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1. januar 2025 iflg. [res. 25 juni 2024 nr. 1216](forskrift/2024-06-25-1216).
 

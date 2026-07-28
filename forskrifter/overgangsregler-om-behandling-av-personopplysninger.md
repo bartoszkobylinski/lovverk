@@ -15,7 +15,7 @@ xml_hash: "2877d0146047522c5b456858f1b87536b3eb2659c194fab091f68b8248f72582"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,7 +33,7 @@ eu_basis: []
 
 ## § 2. Vedtak om pålegg og tvangsmulkt
 
-Pålegg vedtatt etter [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger som ikke er etterkommet ved ikrafttredelsen,1 fortsetter å gjelde så langt de ikke strider mot personvernforordningen eller personopplysningsloven.
+Pålegg vedtatt etter [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger som ikke er etterkommet ved ikrafttredelsen,[^1] fortsetter å gjelde så langt de ikke strider mot personvernforordningen eller personopplysningsloven.
 
 Tvangsmulkt som løper ved lovens ikrafttreden, opphører å løpe. Datatilsynet kan fastsette tvangsmulkt i medhold av [personopplysningsloven § 29](lov/2018-06-15-38/§29) så langt pålegget fortsetter å gjelde i henhold til første ledd.
 

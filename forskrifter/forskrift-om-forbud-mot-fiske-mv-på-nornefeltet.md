@@ -15,7 +15,7 @@ xml_hash: "5fda30c15f5c895ed9bd23e2b4ff86766928f81fac7e4da3e59b911c837a756c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,6 +69,6 @@ Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter [lov 22.
 
 ## § 4.
 
-Forskriften trer i kraft fra den tid departementet bestemmer.1
+Forskriften trer i kraft fra den tid departementet bestemmer.[^1]
 
 1 I kraft 1 april 1996 jfr [forskrift 19 mars 1996 nr. 281](forskrift/1996-03-19-281).

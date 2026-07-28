@@ -15,7 +15,7 @@ xml_hash: "5fc89ce4dc585f0c62c61520b82f86930a02dcba1d8c220f7e9bd3f6a24a40d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,7 +102,7 @@ Luftfartstilsynet fører tilsyn med gjennomføringen av arbeidsmiljølovens best
 
 ### § 10
 
-For at forskrifter gitt i medhold av arbeidsmiljøloven skal gjelde for luftfart som faller inn under forskriften her, må Kongen fastsette1 dette særskilt.
+For at forskrifter gitt i medhold av arbeidsmiljøloven skal gjelde for luftfart som faller inn under forskriften her, må Kongen fastsette[^1] dette særskilt.
 
 1 Ved [res. 21. februar 1986 nr. 539](forskrift/1986-02-21-539) er bestemt at forskrift om verneombud og arbeidsmiljøutvalg, fastsatt 29. april 1977, og forskrift om tvangsmulkt, fastsatt 3. juni 1977, gjøres gjeldende for luftfart som omfattes av arbeidsmiljøloven, fra 1. april 1986. Ved [res. 13. desember 2002 nr. 1497](forskrift/2002-12-13-1497) er bestemt at [forskrift av 6. desember 1996 nr. 1127](forskrift/1996-12-06-1127) om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter gjøres gjeldende for luftfart som omfattes av arbeidsmiljøloven, fra 1. januar 2003.
 

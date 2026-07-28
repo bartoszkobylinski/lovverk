@@ -15,7 +15,7 @@ xml_hash: "65f79103540d051f466ab27b3e1e500eba9144b69854f61fd88e2b331cec3561"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -93,6 +93,6 @@ Den anmodende stat bærer utgiftene i forbindelse med tiltakene nevnt i [§ 3](f
 
 ## § 6.
 
-Denne forskrift trer i kraft straks for de bestemmelser som gjelder stater som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), samtidig oppheves [forskrift av 28. februar 1997 nr. 236](forskrift/1997-02-28-236) om tilbakelevering av kulturgjenstander som er fjernet ulovlig fra territoriet til en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS) og som befinner seg i Norge. De bestemmelser som gjelder stater som er part i Unidroit-konvensjonen trer i kraft samtidig som konvensjonen trer i kraft for Norge.1
+Denne forskrift trer i kraft straks for de bestemmelser som gjelder stater som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), samtidig oppheves [forskrift av 28. februar 1997 nr. 236](forskrift/1997-02-28-236) om tilbakelevering av kulturgjenstander som er fjernet ulovlig fra territoriet til en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS) og som befinner seg i Norge. De bestemmelser som gjelder stater som er part i Unidroit-konvensjonen trer i kraft samtidig som konvensjonen trer i kraft for Norge.[^1]
 
 1 1. mars 2002 iflg. [forskrift 1 mars 2002 nr. 229](forskrift/2002-03-01-229).

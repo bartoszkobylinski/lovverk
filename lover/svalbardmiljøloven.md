@@ -15,7 +15,7 @@ xml_hash: "c2031e1ec3029ec3cc14e3e239a4ade2f951c93656aa43ad3e913bc0b8fe5a69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -974,7 +974,7 @@ Kongen kan gi utfyllende forskrifter til gjennomføring av loven.
 
 ### § 101. (ikrafttreden)
 
-Denne lov trer i kraft når Kongen bestemmer.1 Kongen kan fastsette at forskjellige bestemmelser skal tre i kraft til ulik tid.
+Denne lov trer i kraft når Kongen bestemmer.[^1] Kongen kan fastsette at forskjellige bestemmelser skal tre i kraft til ulik tid.
 
 1 Fra 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648).
 

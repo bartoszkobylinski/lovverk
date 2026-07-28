@@ -15,7 +15,7 @@ xml_hash: "3885348cf0f8345b43e053becc8bf289c4af0f3278d267bba54795912d6a39a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2899,7 +2899,7 @@ Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan fo
 
 ### § 21-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan settes i kraft til ulik tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] De enkelte bestemmelser kan settes i kraft til ulik tid.
 
 1 Fra 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615).
 

@@ -15,7 +15,7 @@ xml_hash: "b7cc04b732ef6f8b3488708e002429d3e2a821388c6a5738f37508e0ebf77ec9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,7 @@ Nærings- og fiskeridepartementet kan gjøre endringer i denne forskrift.
 
 ## § 13. Ikrafttredelse
 
-Denne forskrift trer i kraft fra det tidspunkt Nærings- og fiskeridepartementet fastsetter.1
+Denne forskrift trer i kraft fra det tidspunkt Nærings- og fiskeridepartementet fastsetter.[^1]
 
 > Endret ved [forskrift 29 juni 2016 nr. 846](forskrift/2016-06-29-846) (i kraft 1 sep 2016).
 

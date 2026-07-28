@@ -15,7 +15,7 @@ xml_hash: "47f9a4a993e7f0f345993c632f51dcc3a87c4c0312e3a0accf51a1ae0381cb6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Formålet med loven er å regulere forholdet til [lov 22. november 1996 nr. 66](
 
 ## § 2. Omdanning av statens jernbanetrafikkselskap
 
-NSB BA kan oppløses ved at selskapets eiendeler, rettigheter og forpliktelser som en helhet overføres til NSB AS som del av statens innskudd i selskapet mot at staten erverver aksjer i det nye aksjeselskapet. [Lov om statens jernbanetrafikkselskap1 § 65](lov/1996-11-22-66/§65) gjelder ikke ved oppløsning av NSB BA.
+NSB BA kan oppløses ved at selskapets eiendeler, rettigheter og forpliktelser som en helhet overføres til NSB AS som del av statens innskudd i selskapet mot at staten erverver aksjer i det nye aksjeselskapet. [Lov om statens jernbanetrafikkselskap[^1] § 65](lov/1996-11-22-66/§65) gjelder ikke ved oppløsning av NSB BA.
 
 Alle eiendeler og rettigheter som tilhørte forvaltningsbedriften NSBs trafikkdel før denne ble omdannet til NSB BA omfattes av overføringen i første ledd. Dette gjelder uavhengig av om overskjøting og lignende er gjennomført på det tidspunkt NSB BA omdannes til aksjeselskap.
 
@@ -40,7 +40,7 @@ Kongen avgjør i tvilstilfelle om en eiendel, rettighet eller forpliktelse var k
 
 ## § 3. Omdanning av statens postselskap
 
-Posten Norge BA kan oppløses ved at selskapets eiendeler, rettigheter og forpliktelser som en helhet overføres til Posten Norge AS som del av statens innskudd i selskapet, mot at staten erverver aksjer i det nye aksjeselskapet. [Lov om statens postselskap1 § 65](lov/1996-11-22-65/§65) gjelder ikke ved oppløsning av Posten Norge BA.
+Posten Norge BA kan oppløses ved at selskapets eiendeler, rettigheter og forpliktelser som en helhet overføres til Posten Norge AS som del av statens innskudd i selskapet, mot at staten erverver aksjer i det nye aksjeselskapet. [Lov om statens postselskap[^1] § 65](lov/1996-11-22-65/§65) gjelder ikke ved oppløsning av Posten Norge BA.
 
 1 Inkurie: Loven er opphevet.
 
@@ -64,7 +64,7 @@ NSB AS og Posten Norge AS skal videreføre NSB BA og Posten Norge BAs skattemess
 
 ## § 8. Ikrafttredelse
 
-Loven trer i kraft straks, med unntak av [§ 9](lov/2002-06-21-43/§9) som gjelder fra den tid Kongen bestemmer.1
+Loven trer i kraft straks, med unntak av [§ 9](lov/2002-06-21-43/§9) som gjelder fra den tid Kongen bestemmer.[^1]
 
 1 Fra 1 juli 2002 iflg. [res. 21 juni 2002 nr. 569](forskrift/2002-06-21-569).
 

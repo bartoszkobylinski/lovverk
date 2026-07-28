@@ -15,7 +15,7 @@ xml_hash: "a3ca20c3be9fbfb0b5ea5a0d84d192198cd25b22a823c765f5939819c204f76f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,7 +109,7 @@ Risikoavstanden for de forskjellige spenningene er fastsatt i tabellen nedenfor.
 | 3 | 400 | 110 | 1000 |
 | 6 | 400 | 132 | 1100 |
 | 10 | 400 | 150 | 1200 |
-| 15 \* | 400 | 220 | 1600 |
+| 15 [^\*] | 400 | 220 | 1600 |
 | 20 | 400 | 275 | 1900 |
 | 30 | 400 | 380 | 2500 |
 | 36 | 400 | 480 | 3200 |

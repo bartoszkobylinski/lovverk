@@ -15,7 +15,7 @@ xml_hash: "3254e0825ef74d360cbd289898cd0b18d1b55ec846f86e20bd9da0dad75beb7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Kommunen kan tilby introduksjonsprogram til innvandrere med oppholdstillatelse e
 
 ## IV
 
-1. Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Departementet kan gi nærmere overgangsregler.
 
 1 Fra 20. juni 2025 for [endringsloven del I](lov/2025-06-20-35/kapI) (endringene i integreringsloven [§ 1 første ledd andre punktum](lov/2020-11-06-127/§1/ledd/1/setning/2), [§ 12 andre ledd](lov/2020-11-06-127/§12/ledd/2), [§ 30 andre ledd første punktum](lov/2020-11-06-127/§30/ledd/2/setning/1) og [§ 48](lov/2020-11-06-127/§48), samt opphevelse av [§ 40 tredje ledd tredje](lov/2020-11-06-127/§40/ledd/3/setning/3) og [fjerde punktum](lov/2020-11-06-127/§40/ledd/3/setning/4)), [endringsloven del II](lov/2025-06-20-35/kapII) og [endringsloven del III](lov/2025-06-20-35/kapIII),

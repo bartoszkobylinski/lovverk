@@ -15,7 +15,7 @@ xml_hash: "4804c377abdd112f94d2096c409af44b65f4908c480e99a25c015ed1a37039a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,7 +108,7 @@ Kongen kan gi forskrift om adgangen til å dele opplysninger med andre land, Den
 
 ## § 9. Ikrafttredelse mv.
 
-Loven gjelder fra den tiden Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Fra den tiden loven trer i kraft, oppheves følgende lover:
 

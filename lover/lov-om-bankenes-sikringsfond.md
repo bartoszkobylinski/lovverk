@@ -15,7 +15,7 @@ xml_hash: "69837cb3e44e5dc12c3b645b3e3aeb64b335e4e480f6eb740938afc205c718f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,7 @@ Departementet kan i forskrift gi regler om Bankenes sikringsfond og dets virksom
 
 ## § 9. Ikrafttredelse og overgangsregler
 
-(1) Loven gjelder fra den tid1 Kongen bestemmer.
+(1) Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 (2) Departementet kan gi overgangsregler.
 

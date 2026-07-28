@@ -15,7 +15,7 @@ xml_hash: "0bc11b514424c9ca72f0aebddfa5bbeb22515423adf7e0cc138d2ec88bfd3219"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,6 +59,6 @@ Den som setter i verk boikott som er rettsstridig etter denne lov, straffes med 
 
 ## § 6.
 
-Denne lov trer i kraft den dag1 Kongen fastsetter.
+Denne lov trer i kraft den dag[^1] Kongen fastsetter.
 
 1 Fra 16 jan 1948 iflg. res. 16 jan 1948.

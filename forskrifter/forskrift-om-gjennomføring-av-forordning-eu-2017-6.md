@@ -15,7 +15,7 @@ xml_hash: "1d2c5c502e4db727dca4450df73b6e13b3fb8a07b591831b8e35aae1d3be8623"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Bane NOR SF er infrastrukturforvalter for jernbane i denne forskriften.
 
 ## § 3.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2017/6](eu/32017r0006) av 5. januar 2017 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2017/6](eu/32017r0006) av 5. januar 2017 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 801](forskrift/2022-05-06-801).
 

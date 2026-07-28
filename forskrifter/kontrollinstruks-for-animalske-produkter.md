@@ -17,7 +17,7 @@ xml_hash: "b210832c8c438c0d34d0c4731bd84babfeaddd7b9eeac6dd67ca4da73147b344"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,7 @@ Ansvarlig ved grensekontrollstasjonen skal sørge for at grensekontrollstasjonen
 4. oppdatert liste over grensekontrollstasjoner for innførsel av produkter fra tredjeland, med alle detaljer om disse, spesielt deres kommunikasjonsfasiliteter.
 5. oppdatert liste over virksomheter i tredjeland som er godkjent for eksport til EØS, når en slik liste er opprettet for et bestemt produkt.
 6. oppdatert informasjon over forsendelser av varepartier som er blitt nektet import til EØS, og som er returnert.
-7. liste som oppsummerer de feil som er funnet ved undersøkelser utført på importerte varepartier fra tredjeland.1
+7. liste som oppsummerer de feil som er funnet ved undersøkelser utført på importerte varepartier fra tredjeland.[^1]
 8. liste over varepartier som er returnert, destruert eller eventuelt godkjent av ansvarlig ved grensekontrollstasjonen for bruk til annet enn folkemat.
 9. liste over alle prøver som er tatt for laboratorieundersøkelser, og resultatene fra disse undersøkelsene.
 10. liste over resultatene fra undersøkelser utført på varepartier bestemt for besetninger og passasjerer om bord på transportmidler som opererer internasjonalt, og avfall fra disse.
@@ -407,10 +407,10 @@ Ved import fra New Zealand, skal frekvensen for grensekontroll av levende dyr og
 | 2. *Fysisk kontroll* |  |
 | Levende dyr, unntatt bier og humler | 100 % |
 | Dronningbier og små kolonier av humler | 100 % |
-| Forpakninger med bier og humler | 50 %1 |
+| Forpakninger med bier og humler | 50 %[^1] |
 | Sæd, embryo og egg | 10 % |
-| Levende dyr2 og animalske produkter ment for konsum som opplistet i vedlegg V til beslutning [97/132/EF](eu/31997d0132)3 | 1 % |
-| Animalske produkter ikke ment for konsum som opplistet i vedlegg V til beslutning [97/132/EF](eu/31997d0132)3 | 1 % |
+| Levende dyr[^2] og animalske produkter ment for konsum som opplistet i vedlegg V til beslutning [97/132/EF](eu/31997d0132)[^3] | 1 % |
+| Animalske produkter ikke ment for konsum som opplistet i vedlegg V til beslutning [97/132/EF](eu/31997d0132)[^3] | 1 % |
 | Foredlet animalsk protein ikke ment for konsum (i bulk) | 100 % for de første seks varepartier og deretter 1–10 % |
 
 1 For forsendelser med pakkede bier som inneholder færre enn 130 pakker skal 50 % av forsendelsen være gjenstand for kontroll. For forsendelser som inneholder 130 pakker eller fler, skal 65 pakker av forsendelsen kontrolleres ved stikkprøve for å påvise forekomst av sykdom på 5 % med 95 % sannsynlighet.

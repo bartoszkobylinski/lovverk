@@ -15,7 +15,7 @@ xml_hash: "c515cb8359bbc11e5569dbcf38c278b68d0034b65b50e58317c028249853fdda"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Lova gjeld ikkje for krigsmateriell og anna som er serleg tilskipa for militære
 
 ## § 3.
 
-Fiendegodset blir styrt av Direktoratet for fiendegods1 under leiing av ein direktør. Kongen eller den han gjev fullmakt kan nemne opp eit råd og elles gjeva nærare organisasjons- og arbeidsføresegner for direktoratet.
+Fiendegodset blir styrt av Direktoratet for fiendegods[^1] under leiing av ein direktør. Kongen eller den han gjev fullmakt kan nemne opp eit råd og elles gjeva nærare organisasjons- og arbeidsføresegner for direktoratet.
 
 Utgiftene med verksemda blir tekne av dei verde som direktoratet styrer med.
 
@@ -124,6 +124,6 @@ Kongen fastset kva dag denne lova skal ta til å gjelda.
 
 Kongen eller den han gjev fullmakt, fastset i kor stor mon lova skal gjelda på Svalbard.
 
-Lov om fiendegods o.a. frå [22. mars 1946](lov/1946-03-22-4)1 skal framleis gjelda for gods som kjem inn under lova.
+Lov om fiendegods o.a. frå [22. mars 1946](lov/1946-03-22-4)[^1] skal framleis gjelda for gods som kjem inn under lova.
 
 1 Inkurie: Lova er «nr. 4».

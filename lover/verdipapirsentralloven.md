@@ -15,7 +15,7 @@ xml_hash: "0a03dd5eede9d48828e9f274bcfb387c080bfb4bb69d0d8874dcb1fa5f657450"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014R0909"
@@ -533,7 +533,7 @@ Tillitsvalgte, ansatte og revisor i foretak som driver verdipapirsentral og som 
 
 ### § 12-1. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer. De ulike bestemmelsene i loven kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De ulike bestemmelsene i loven kan settes i kraft til ulik tid.
 
 Når loven trer i kraft oppheves [lov 5. juli 2002 nr. 64](lov/2002-07-05-64) om registrering av finansielle instrumenter. De ulike bestemmelsene i loven kan oppheves til ulik tid.
 

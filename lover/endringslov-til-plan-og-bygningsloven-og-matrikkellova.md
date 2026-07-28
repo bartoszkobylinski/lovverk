@@ -15,7 +15,7 @@ xml_hash: "25c661a4c08e39620163683763a0f3456b380bfd7043d9fe4832aa2810a8ad2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,7 @@ Ny [§ 15 a](lov/2005-06-17-101/§15a) skal lyde:
 
 ## III
 
-Loven gjelder fra den tiden Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden Kongen bestemmer[^1]. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Departementet kan gi nærmere overgangsbestemmelser.
 

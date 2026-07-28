@@ -15,7 +15,7 @@ xml_hash: "41c8ba23a2a489331b5135d49c6422f2a396c56bb876cd23be66030429fd8680"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,7 @@ Ved registrering av motorvogn skal trygdeavtale være sluttet for 1 år. Forleng
 
 Bestemmelsene i første ledd kommer ikke til anvendelse ved særskilt registrering av motorvogn for midlertidig bruk i riket.
 
-## § 7.1
+## § 7.[^1]
 
 Når Kjøretøyregisteret har mottatt melding om opphør av trygdeavtale i henhold til [bilansvarslova § 19](lov/1961-02-03/§19) første ledd og eier av vedkommende motorvogn ikke har sørget for gyldig trafikktrygdavtale eller avregistrering av kjøretøyet, vil dette avmerkes i Kjøretøyregisteret med begjæring om inndragning av kjennemerker. Politiet, Statens vegvesen og tollmyndighetene skal uten videre varsel sørge for inndragningen og straks sende kjennemerkene til en av Statens vegvesens trafikkstasjoner.
 
@@ -208,7 +208,7 @@ Dersom motorvognens eier godtgjør at han har oppfylt sin plikt til å holde tra
 
 > Opphevet ved [forskrift av 12 mai 1993 nr. 342](forskrift/1993-05-12-342).
 
-## § 9.1
+## § 9.[^1]
 
 De foranstående bestemmelser trer i kraft 15. mai 1974 hva angår [§§ 1](forskrift/1974-04-01-3/§1)-5. Samtidig bortfaller forskrifter fastsatt av Samferdselsdepartementet den 15. april 1961 med hjemmel i [bilansvarsloven § 17](lov/1961-02-03/§17). Bestemmelsene i [§§ 6](lov/1961-02-03/§6)-[8](lov/1961-02-03/§8) trer i kraft 1. februar 1975.
 

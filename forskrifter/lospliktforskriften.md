@@ -15,7 +15,7 @@ xml_hash: "ba2e02d566091e46c3a545be0ce945a1229604cb9dbfb3155cc0b519f3760ece"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -793,60 +793,60 @@ j 4. Finnmark farvannsområde – Kirkenes
 | --- | --- | --- | --- | --- |
 |  | *Nord* | *Øst* |  |  |
 | *Troms og Finnmark* |  |  |  |  |
-| Kirkenes indre | 69°<br>47,3′ | 030°<br>04,9′ | Sør-Varanger | Max LOA 110,3 kun etter avtale1 |
+| Kirkenes indre | 69°<br>47,3′ | 030°<br>04,9′ | Sør-Varanger | Max LOA 110,[^3] kun etter avtale[^1] |
 | Kirkenes ytre | 69°<br>51,3′ | 030°<br>07,2′ | Sør-Varanger |  |
 | Vardø nord | 70°<br>25,0′ | 031°<br>06,0′ | Vardø |  |
 | Vardø sør | 70°<br>21,0′ | 031°<br>09,0′ | Vardø |  |
 | Båtsfjord | 70°<br>39,5′ | 029°<br>49,0′ | Båtsfjord |  |
-| Honningsvåg ytre | 70°<br>58,0′ | 026°<br>16,9′ | Nordkapp | Passasjerfartøy>25 000BT og STS-fartøy4 |
+| Honningsvåg ytre | 70°<br>58,0′ | 026°<br>16,9′ | Nordkapp | Passasjerfartøy>25 000BT og STS-fartøy[^4] |
 | Honningsvåg indre | 70°<br>57,5′ | 025°<br>57,4′ | Nordkapp |  |
-| Fruholmen | 71°<br>05,0′ | 023°<br>38,0′ | Masøy | >20 000BT og ved helikopterbording2 |
+| Fruholmen | 71°<br>05,0′ | 023°<br>38,0′ | Masøy | >20 000BT og ved helikopterbording[^2] |
 | Akkarfjordnæringen | 70°<br>47,0′ | 023°<br>32,2′ | Hammerfest |  |
 | Fugløya | 70°<br>06,0′ | 020°<br>12,9′ | Karlsøy |  |
-| Grøtnes | 69°<br>52,4′ | 019°<br>47,6′ | Karlsøy | Max LOA 1103 |
+| Grøtnes | 69°<br>52,4′ | 019°<br>47,6′ | Karlsøy | Max LOA 110[^3] |
 | Hekkingen Ytre | 69°<br>36,5′ | 017°<br>51,9′ | Lenvik |  |
-| Hekkingen Indre | 69°<br>31,′7 | 018°<br>01,9′ | Lenvik | Max LOA 1103 |
+| Hekkingen Indre | 69°<br>31,′7 | 018°<br>01,9′ | Lenvik | Max LOA 110[^3] |
 | *Nordland* |  |  |  |  |
 | Andenes | 69°<br>19,5′ | 016°<br>13,5′ | Andøy |  |
-| Myre\* | 69°<br>00,0′ | 014°<br>58,0′ | Øksnes | Kun etter avtale1 |
-| Melbu\* | 68°<br>28,0′ | 014°<br>48,0′ | Hadsel | Kun etter avtale1 |
+| Myre[^\*] | 69°<br>00,0′ | 014°<br>58,0′ | Øksnes | Kun etter avtale[^1] |
+| Melbu[^\*] | 68°<br>28,0′ | 014°<br>48,0′ | Hadsel | Kun etter avtale[^1] |
 | Lødingen | 68°<br>22,9′ | 016°<br>01,7′ | Lødingen |  |
-| Tranøy indre | 68°<br>18,5′ | 015°<br>55,7′ | Tysfjord | Kun etter avtale1 |
+| Tranøy indre | 68°<br>18,5′ | 015°<br>55,7′ | Tysfjord | Kun etter avtale[^1] |
 | Tranøy ytre | 68°<br>12,7′ | 015°<br>35,7′ | Hamarøy |  |
-| Svolvær\* | 68°<br>11,0′ | 014°<br>33,0′ | Vågan | Max LOA 110,3 kun etter avtale1 |
-| Molldøra\* | 68°<br>13,0′ | 014°<br>53,5′ | Vågan | Max LOA 110,3 kun etter avtale1 |
-| Svinøy\* | 68°<br>02,0′ | 013°<br>35,0′ | Vesvågøy | Kun etter avtale1 |
+| Svolvær[^\*] | 68°<br>11,0′ | 014°<br>33,0′ | Vågan | Max LOA 110,[^3] kun etter avtale[^1] |
+| Molldøra[^\*] | 68°<br>13,0′ | 014°<br>53,5′ | Vågan | Max LOA 110,[^3] kun etter avtale[^1] |
+| Svinøy[^\*] | 68°<br>02,0′ | 013°<br>35,0′ | Vesvågøy | Kun etter avtale[^1] |
 | Landegode | 67°<br>30,0′ | 014°<br>22,5′ | Bodø |  |
-| Store Svartoksen | 67°<br>13,9′ | 014°<br>07,2′ | Bodø | Max LOA 1103 |
+| Store Svartoksen | 67°<br>13,9′ | 014°<br>07,2′ | Bodø | Max LOA 110[^3] |
 | Fleinvær | 67°<br>13,5′ | 013°<br>46,2′ | Gildeskål |  |
 | Åsvær Ytre | 66°<br>17,0′ | 012°<br>12,5′ | Dønna |  |
-| Åsvær Indre | 66°<br>15,3′ | 012°<br>36,′7 | Dønna | Max LOA 1103 |
+| Åsvær Indre | 66°<br>15,3′ | 012°<br>36,′7 | Dønna | Max LOA 110[^3] |
 | *Møre og Trøndelag* |  |  |  |  |
-| Grinna\* | 64°<br>44,0′ | 010°<br>58,0′ | Rørvik | Kun etter avtale1 |
-| Rekkøyråsa\* | 64°<br>38,0′ | 010°<br>49,0′ | Flatanger | Kun etter avtale1 |
-| Raudøyleia\* | 64°<br>24,0′ | 010°<br>14,0′ | Osen | Kun etter avtale1 |
+| Grinna[^\*] | 64°<br>44,0′ | 010°<br>58,0′ | Rørvik | Kun etter avtale[^1] |
+| Rekkøyråsa[^\*] | 64°<br>38,0′ | 010°<br>49,0′ | Flatanger | Kun etter avtale[^1] |
+| Raudøyleia[^\*] | 64°<br>24,0′ | 010°<br>14,0′ | Osen | Kun etter avtale[^1] |
 | Flesa | 63°<br>39,0′ | 009°<br>14,9′ | Hitra |  |
 | Grip indre | 63°<br>14,0′ | 007°<br>42,2′ | Kristiansund |  |
-| Grip ytre | 63°<br>15,0′ | 007°<br>35,9′ | Kristiansund | Kun etter avtale1 |
+| Grip ytre | 63°<br>15,0′ | 007°<br>35,9′ | Kristiansund | Kun etter avtale[^1] |
 | Ona | 62°<br>56,0′ | 006°<br>27,0′ |  | >25.000BT og kun helikopterbording |
 | Breisundet | 62°<br>27,0′ | 005°<br>58,9′ | Giske |  |
 | Vanylvsgapet | 62°<br>12,5′ | 005°<br>16,9′ | Selje |  |
 | *Vestlandet* |  |  |  |  |
-| Kvannhovden Vest (1) | 61°<br>43,0′ | 004°<br>23,5′ | Flora | Kun etter avtale,1 Kun helikopterbording |
+| Kvannhovden Vest (1) | 61°<br>43,0′ | 004°<br>23,5′ | Flora | Kun etter avtale,[^1] Kun helikopterbording |
 | Kvannhovden (2) | 61°<br>42,2′ | 004°<br>45,5′ | Flora |  |
-| Hellefjorden (3) | 61°<br>39,1′ | 004°<br>51,2′ | Flora | Kun etter avtale1 |
-| Frøysjøen (4) | 61°<br>45,0′ | 004°<br>56,6′ | Flora | Kun etter avtale1 |
-| Holmengrå Vest (1) | 60°<br>51,0′ | 004°<br>25,9′ | Gulen | >30 000BT og ved helikopterbording2 |
+| Hellefjorden (3) | 61°<br>39,1′ | 004°<br>51,2′ | Flora | Kun etter avtale[^1] |
+| Frøysjøen (4) | 61°<br>45,0′ | 004°<br>56,6′ | Flora | Kun etter avtale[^1] |
+| Holmengrå Vest (1) | 60°<br>51,0′ | 004°<br>25,9′ | Gulen | >30 000BT og ved helikopterbording[^2] |
 | Holmengrå (2) | 60°<br>51,4′ | 004°<br>39,0′ | Fedje |  |
-| Holmengrå indre (3) | 60°<br>51,4′ | 004°<br>45,2′ | Fedje | Kun etter avtale1 |
-| Fedje Vest (1) | 60°<br>46,0′ | 004°<br>27,9′ | Fedje | >30 000BT og ved helikopterbording2 |
+| Holmengrå indre (3) | 60°<br>51,4′ | 004°<br>45,2′ | Fedje | Kun etter avtale[^1] |
+| Fedje Vest (1) | 60°<br>46,0′ | 004°<br>27,9′ | Fedje | >30 000BT og ved helikopterbording[^2] |
 | Fedjeosen (2) | 60°<br>44,1′ | 004°<br>44,0′ | Fedje |  |
-| Fedjeosen indre (3) | 60°<br>45,7′ | 004°<br>46,1′ | Fedje | Kun etter avtale1 |
+| Fedjeosen indre (3) | 60°<br>45,7′ | 004°<br>46,1′ | Fedje | Kun etter avtale[^1] |
 | Korsfjorden | 60°<br>08,6′ | 005°<br>00,9′ | Austevoll |  |
 | *Rogaland* |  |  |  |  |
 | Smørstakk | 59°<br>13,1′ | 005°<br>21,0′ | Bokn |  |
 | Skudenesfjorden | 59°<br>06,7′ | 005°<br>26,2′ | Kvitsøy |  |
-| Skudenesfjorden Vest | 59°<br>02,0′ | 005°<br>10,0′ | Karmøy | >30 000BT og ved helikopterbording2 |
+| Skudenesfjorden Vest | 59°<br>02,0′ | 005°<br>10,0′ | Karmøy | >30 000BT og ved helikopterbording[^2] |
 | Feistein | 58°<br>51,0′ | 005°<br>30,0′ | Sola |  |
 | *Skagerrak* |  |  |  |  |
 | Egersund Nord | 58°<br>26,9′ | 005°<br>50,9′ | Eigersund |  |
@@ -854,15 +854,15 @@ j 4. Finnmark farvannsområde – Kirkenes
 | Sokndal | 58°<br>17,9′ | 006°<br>13,9′ | Sokndal |  |
 | Listafjorden | 58°<br>10,9′ | 006°<br>32,9′ | Flekkefjord |  |
 | Farsund | 58°<br>01,5′ | 006°<br>50,0′ | Farsund |  |
-| Songvår\* | 58°<br>00,7′ | 007°<br>51,3′ | Søgne | Kun etter avtale1 |
+| Songvår[^\*] | 58°<br>00,7′ | 007°<br>51,3′ | Søgne | Kun etter avtale[^1] |
 | Oksøy | 58°<br>03,3′ | 008°<br>05,6′ | Kristiansand |  |
 | Torungen | 58°<br>23,5′ | 008°<br>48,6′ | Arendal |  |
 | Langesundsbukta | 58°<br>56,5′ | 009°<br>47,6′ | Larvik |  |
 | *Oslofjorden* |  |  |  |  |
-| Færder Syd\* | 59°<br>00,0′ | 010°<br>25,0′ | Tjøme | Kun etter avtale1 |
+| Færder Syd[^\*] | 59°<br>00,0′ | 010°<br>25,0′ | Tjøme | Kun etter avtale[^1] |
 | Færder | 59°<br>04,5′ | 010°<br>34,4′ | Tjøme |  |
-| Struten | 59°<br>07,6′ | 010°<br>43,2′ | Fredrikstad | Kun etter avtale1 |
-| Hvaler | 59°<br>03,1′ | 010°<br>47,0′ | Hvaler | Kun etter avtale1 |
+| Struten | 59°<br>07,6′ | 010°<br>43,2′ | Fredrikstad | Kun etter avtale[^1] |
+| Hvaler | 59°<br>03,1′ | 010°<br>47,0′ | Hvaler | Kun etter avtale[^1] |
 | Ytre Vidgrunnen | 59°<br>01,7′ | 010°<br>51,1′ | Hvaler |  |
 | Vidgrunnen | 59°<br>01,0′ | 010°<br>55,9′ | Hvaler |  |
 | Sekken | 58°<br>58,6′ | 011°<br>02,7′ | Hvaler |  |
@@ -891,7 +891,7 @@ Definisjon på natt i denne sammenhengen tilsvarer nattseilas som definert i for
 | --- | --- | --- | --- | --- |
 |  | *Dag* | *Natt* | *Dag* | *Natt* |
 | *Oslofjorden* |  |  |  |  |
-| Tresten–Sekken til Halden (1001), og Tresten-Løperen til Denofa (1002 og 2007). | Ingen FB-seilas for slep\* med lengde 75 m, bredde 20 m eller dypgang 5 m eller mer. |  |  |  |
+| Tresten–Sekken til Halden (1001), og Tresten-Løperen til Denofa (1002 og 2007). | Ingen FB-seilas for slep[^\*] med lengde 75 m, bredde 20 m eller dypgang 5 m eller mer. |  |  |  |
 | Sponvikskansen-Halden (1001) | Max LOA 105 m |  | Max LOA 130 m | Max LOA 125 m |
 | Løperen–Fredrikstad (1002) | Max LOA 125 m |  | Max LOA 150 m |  |
 | Kjøkøysundet (2004) | Max LOA 70 m |  | Max LOA 100 m |  |
@@ -1007,14 +1007,14 @@ Definisjon på natt i denne sammenhengen tilsvarer nattseilas som definert i for
 | Steinesjøen (2790) | Max LOA 120 m |  | Max LOA 120 m |  |
 | Steinesjøen indre havn (2790) | Max LOA 75 m |  | Max LOA 75 m |  |
 | Myre indre havn/innenfor Kartneset (2800) | Max LOA 115 m |  | Max LOA 115 m |  |
-| Andenes (2853)<br>(gjelder innseilingen) | Max LOA 75m |  | Max LOA 90 m\*\*\* |  |
+| Andenes (2853)<br>(gjelder innseilingen) | Max LOA 75m |  | Max LOA 90 m[^\*\*\*] |  |
 | *Troms og Finnmark* |  |  |  |  |
 | Senjahopen (2864) | Max LOA 125 m |  | Max LOA 135 m |  |
 | Husøy (2877) | Max LOA 90 m |  | Max LOA 100 m |  |
 | Sommerøy (2873) (gjelder innseilingen) | Max LOA 95 m |  | Max LOA 110 m |  |
 | Vannavalen (2911) (gjelder innseilingen) | Max LOA 105 m |  | Max LOA 125 m |  |
 | Gjesvær (2970) (gjelder innseilingen) | Max LOA 105 m |  | Max LOA 125 m |  |
-| Skardholmen–Leirpollen (1213) | Max LOA 90 m\*\*<br>Max dypg. 6,8 m for seilas inn<br>Max dypg. 7,2 m for seilas ut |  | Max LOA 127 m\*\* Max dypg. 6,8 m for seilas inn<br>Max dypg. 7,2 m for seilas ut |  |
+| Skardholmen–Leirpollen (1213) | Max LOA 90 m[^\*\*]<br>Max dypg. 6,8 m for seilas inn<br>Max dypg. 7,2 m for seilas ut |  | Max LOA 127 m[^\*\*] Max dypg. 6,8 m for seilas inn<br>Max dypg. 7,2 m for seilas ut |  |
 
 \* Dersom fartøyet skyver eller sleper en eller flere gjenstander, der gjenstanden eller gjenstandene har en total lengde/bredde/dypgående lik eller mer enn en av de oppgitte.
 

@@ -15,7 +15,7 @@ xml_hash: "daaf178ed946a8c78c7952b331e1d1cfe26d7eeb6bf32939ae4116400aa9e9b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,6 +59,6 @@ Kongen tilset ein Riksteatersjef for 5 år. Riksteatersjefen står for den dagle
 
 ## § 5.
 
-Denne lova blir sett i verk frå den dagen1 Kongen fastset.
+Denne lova blir sett i verk frå den dagen[^1] Kongen fastset.
 
 1 Frå 1 april 1949 iflg. res. 18 mars 1949.

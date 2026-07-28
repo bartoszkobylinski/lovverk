@@ -15,7 +15,7 @@ xml_hash: "ac73817c5606a8b6aae1a5cf0ec2eacfca555de5c2d1ffbf7402a7635be87428"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller gro
 
 ## II
 
-1. Loven gjelder fra den tid Kongen1 bestemmer. Endringene i [sjøloven §§ 182 b](lov/1994-06-24-39/§182b), [193](lov/1994-06-24-39/§193), [223](lov/1994-06-24-39/§223) og [430](lov/1994-06-24-39/§430) trer likevel i kraft straks. For øvrig kan Kongen sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid Kongen[^1] bestemmer. Endringene i [sjøloven §§ 182 b](lov/1994-06-24-39/§182b), [193](lov/1994-06-24-39/§193), [223](lov/1994-06-24-39/§223) og [430](lov/1994-06-24-39/§430) trer likevel i kraft straks. For øvrig kan Kongen sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Reglene om ansvar og forsikring i [sjøloven kapittel 11](lov/1994-06-24-39/kap11) får bare anvendelse på hendelser som inntreffer etter ikrafttredelsen av [§§ 212](lov/1994-06-24-39/§212) og [218](lov/1994-06-24-39/§218).
 3. Departementet kan gi nærmere overgangsregler.
 

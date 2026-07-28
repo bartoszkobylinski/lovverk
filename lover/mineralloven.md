@@ -15,7 +15,7 @@ xml_hash: "ed098d4a74343b5f9e8555cbab69bcbe65a8dabd9d455fb656156556f47cca9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -768,7 +768,7 @@ Departementet kan gi forskrift om forvaltningstiltak og administrative sanksjone
 
 ### § 12-1. Ikrafttredelse
 
-Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Fra den tiden loven trer i kraft, oppheves [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101).
 

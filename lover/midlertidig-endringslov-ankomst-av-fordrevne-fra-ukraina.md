@@ -15,7 +15,7 @@ xml_hash: "938b5fda8f63db1d31530c16772380d61345f2e644956acd9c0b2f99f7c7d628"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ## XI
 
-1. Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Del I til X i loven oppheves 1. juli 2028.
 3. Kongen kan gi nærmere overgangsregler.
 

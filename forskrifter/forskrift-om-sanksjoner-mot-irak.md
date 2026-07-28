@@ -15,7 +15,7 @@ xml_hash: "742a5723a420166aff424afad256f5a4643e9d547bb22a22eb65d83d68c435b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Det er forbudt for enhver på norsk territorium, og for norske borgere, foretak,
 
 Unntatt fra forbudet er leveranser av nødvendig materiell som nevnt i første ledd for stabilisering og sikkerhet i Irak i samsvar med Sikkerhetsrådets resolusjoner.
 
-## § 2.1
+## § 2.[^1]
 
 Finansielle midler eller aktiva tilhørende den tidligere irakiske regjering eller dennes statsorganer, selskaper eller virksomheter, skal fryses. Dette gjelder ikke midler som ikke befant seg i Norge per 22. mai 2003.
 
@@ -40,7 +40,7 @@ Finansielle midler eller aktiva som er frosset i henhold til første eller annet
 
 Finansielle midler eller aktiva som er omfattet av første eller annet ledd kan ikke være gjenstand for beslag eller midlertidig sikring.
 
-Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs Sikkerhetsråds resolusjon 1730 (2006).2
+Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs Sikkerhetsråds resolusjon 1730 (2006).[^2]
 
 [Lov 4. august 1995 nr. 53](lov/1995-08-04-53) om politiet [§ 17b](lov/1995-08-04-53/§17b) nr. 4 får anvendelse.
 

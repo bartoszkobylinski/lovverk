@@ -15,7 +15,7 @@ xml_hash: "a8439f2a0210f6195e51abe20f318694039d4104a2ee23c883428cb0fb39eaab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,6 +38,6 @@ Andre vilkår kan etter søknad opphevast av departementet.
 
 ## § 4. Ikraftsetjing
 
-Lova gjeld frå den tid Kongen fastset.1
+Lova gjeld frå den tid Kongen fastset.[^1]
 
 1 Frå 1 juli 2002 iflg. [res. 21 juni 2002 nr. 561](forskrift/2002-06-21-561).

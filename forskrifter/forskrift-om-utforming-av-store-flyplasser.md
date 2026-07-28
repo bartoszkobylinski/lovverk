@@ -15,7 +15,7 @@ xml_hash: "cfe0b3a2e631c52033c6e3077afd2849e9003d03c4680c6e3fc8f1a0d8ecb87b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -812,7 +812,7 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 | *Utflygingsflate* |  |  |  |  |
 | Lengde på innerkant | 60 m | 80 m | 180 m | 180 m |
 | Divergens på sidekanter | 10% | 10% | 12,5% | 12,5% |
-| Ytre bredde | 380 m | 580 m | 1200 m | 1200 m<br>1800 ma |
+| Ytre bredde | 380 m | 580 m | 1200 m | 1200 m<br>1800 m[^a] |
 | Lengde | 1600 m | 2500 m | 15000 m | 15000 m |
 | Helning | 5% | 4% | 2% | 2% |
 | *Innflygingsflate* |  |  |  |  |
@@ -823,10 +823,10 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 | Lengde | 3000 m | 3000 m | 3000 m | 3000 m |
 | Helning | 2,5% | 2,5% | 2% | 2% |
 | *Andre seksjon:* |  |  |  |  |
-| Lengdeb | 12000 m | 12000 m | 3600 m | 3600 m |
+| Lengde[^b] | 12000 m | 12000 m | 3600 m | 3600 m |
 | Helning | 3% | 3% | 2,5% | 2,5% |
 | *Horisontal seksjon* |  |  |  |  |
-| Lengdeb | – | – | 8400 m | 8400 m |
+| Lengde[^b] | – | – | 8400 m | 8400 m |
 | *Horisontalflate* |  |  |  |  |
 | Radius | 3500 m | 3500 m | 4000 m | 4000 m |
 | *Sideflate* |  |  |  |  |
@@ -838,7 +838,7 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 | Lengde | 900 m | 900 m | 900 m | 900 m |
 | *Utflygingsflate for avbrutt landing* |  |  |  |  |
 | Lengde på innerkant | 90 m | 90 m | 120 m | 120 m |
-| Avstand fra terskelc | – | – | 1800 m | 1800 m |
+| Avstand fra terskel[^c] | – | – | 1800 m | 1800 m |
 | Divergens | 10% | 10% | 10% | 10% |
 | Helning | 4% | 4% | 3,33% | 3,33% |
 | *Indre sideflate* |  |  |  |  |

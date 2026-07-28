@@ -15,7 +15,7 @@ xml_hash: "077d3626ad4ea69e98819f16775ab4f91ed3c69820acd760c747bdbc27979a66"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -187,14 +187,14 @@ Forskriften trer i kraft 1. april 2006.
 
 *Kategori 1*
 
-| *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*1 |
+| *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*[^1] |
 | --- | --- | --- | --- |
 | 1-fenyl-2 propanon (BMK) | Fenylaceton | 29.14.3100 | 103-79-7 |
 | N-acetylantranilsyre | 2-acetamidobenzosyre | 29.24.2300 | 89-52-1 |
 | Isosafrol (cis + trans) |  | 29.32.9100 | 120-58-1 |
 | 3,4-metylendioksyfenylpropan-2-on | 1-(1,3-Benzodioksol-5-yl) propan-2-on | 29.32.9200 | 4676-39-5 |
-| 2-metyl-3-fenyloksiran-2-karboksylsyre (BMK-glycidsyre)\* |  | 29.18. 9900 | 25547-51-7 |
-| 3-(1,3-benzodioksol-5-yl)-2-metyloksiran-2-karboksylsyre (PMK-glycidsyre)\*\* |  | 29.32. 9900 | 2167189-50-4 |
+| 2-metyl-3-fenyloksiran-2-karboksylsyre (BMK-glycidsyre)[^\*] |  | 29.18. 9900 | 25547-51-7 |
+| 3-(1,3-benzodioksol-5-yl)-2-metyloksiran-2-karboksylsyre (PMK-glycidsyre)[^\*\*] |  | 29.32. 9900 | 2167189-50-4 |
 | Isopropyliden-(2-(3,4-metylendioksyfenyl)acetyl)malonat (IMDPAM) |  | 29.32.9900 |  |
 | 4-anilino-N-fenetylpiperidin (ANPP) |  | 29.33.3908 | 21409-26-7 |
 | Alfa-fenylacetoacetamid (APAA) |  | 29.24.2900 | 4433-77-6 |
@@ -203,7 +203,7 @@ Forskriften trer i kraft 1. april 2006.
 | (1S,2R)-(+)-klorefedrin |  | 29.39.4100 | 110925-64-9 |
 | (1S,2S)-(+)- klorpseudoefedrin |  | 29.39.4200 | 73393-61-0 |
 | (1R,2R)-(-)- klorpseudoefedrin |  | 29.39.4200 | 771434-80-1 |
-| Metyl-alfa-fenylacetoacetat (MAPA)1 |  | 29.18.3090 | 16648-44-5 |
+| Metyl-alfa-fenylacetoacetat (MAPA)[^1] |  | 29.18.3090 | 16648-44-5 |
 | N-fenetyl-4-piperidon (NPP) |  | 29.33.3908 | 39742-60-4 |
 | 4-piperidon (piperidin-4-on) |  | 29 33 39 08 | 41661-47-6 |
 | 1-boc-4-piperidon (tert-butyl 4-oksopiperidin-1-karboksylat) |  | 29 33 39 08 | 79099-07-3 |
@@ -223,13 +223,13 @@ Forskriften trer i kraft 1. april 2006.
 
 \*\* Oppføringen gjelder også følgende estere: etyl- (CAS-nr. 28578-16-7), metyl- (CAS-nr. 13605-48-6), propyl-, isopropyl-, butyl-, isobutyl-, sec-butyl- og tert-butylester. De oppførte esterne har samme varenummer i tolltariffen som PMK-glycidsyre.
 
-Stereoisomere former av stoffene oppført i denne kategori, med unntak av katin,2 i alle tilfeller der forekomst av slike former er mulig.
+Stereoisomere former av stoffene oppført i denne kategori, med unntak av katin,[^2] i alle tilfeller der forekomst av slike former er mulig.
 
 Saltene av stoffene oppført i denne kategori i alle tilfeller der forekomst av slike salter er mulig, bortsett fra salter av katin.
 
 *Kategori 2*
 
-| *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*1 |
+| *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*[^1] |
 | --- | --- | --- | --- |
 | Eddiksyreanhydrid |  | 29.15.2400 | 108-24-7 |
 | Fenyleddiksyre |  | 29.16.3410 | 103-82-2 |
@@ -241,7 +241,7 @@ Saltene av stoffene oppført i denne kategori i alle tilfeller der forekomst av 
 
 *Kategori 3*
 
-| *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*1 |
+| *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*[^1] |
 | --- | --- | --- | --- |
 | Saltsyre | Hydrogenklorid | 28.06.1000 | 7647-01-0 |
 | Svovelsyre |  | 28.07.0000 | 7664-93-9 |
@@ -266,7 +266,7 @@ Antigua og Barbuda
 
 Benin
 
-Bolivia1,2,4,5
+Bolivia[^1],[^2],[^4],[^5]
 
 Brasil
 
@@ -300,7 +300,7 @@ Libanon
 
 Madagaskar
 
-Malaysia2
+Malaysia[^2]
 
 Maldivene
 
@@ -310,11 +310,11 @@ Moldova
 
 Nigeria
 
-Pakistan1
+Pakistan[^1]
 
 Paraguay
 
-Peru1,2,3,4,5,6
+Peru[^1],[^2],[^3],[^4],[^5],[^6]
 
 Romania
 
@@ -326,7 +326,7 @@ Tadsjikistan
 
 Tanzania
 
-Tsjekkia3
+Tsjekkia[^3]
 
 Tunisia
 

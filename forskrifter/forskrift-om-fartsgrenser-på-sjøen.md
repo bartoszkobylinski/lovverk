@@ -15,7 +15,7 @@ xml_hash: "83bfe6d37f2c7f2962e8b5118f87d16a6b3e51cd5d21fb7718224e417b296d1a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Enhver som fører et fartøy skal utvise forsiktighet og avpasse farten etter si
 
 ## § 3. Ferdsel ved badeplasser
 
-Fartøy skal ikke gå med høyere fart enn 5 knop innenfor 50 meter fra steder hvor bading pågår eller fra merkebøyer1 som er utlagt ved offentlige badeplasser.
+Fartøy skal ikke gå med høyere fart enn 5 knop innenfor 50 meter fra steder hvor bading pågår eller fra merkebøyer[^1] som er utlagt ved offentlige badeplasser.
 
 Det er forbudt å ankre opp eller ferdes med motor- og seildrevne fartøy innenfor merkebøyer som er lagt ut ved offentlige badeplasser.
 

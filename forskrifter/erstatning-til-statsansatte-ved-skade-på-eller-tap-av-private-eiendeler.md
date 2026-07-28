@@ -15,7 +15,7 @@ xml_hash: "20a34d28daf7d7a3371d697fef6fa3c435e3fe46c58d052713c15b492208a9c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,6 +34,6 @@ eu_basis: []
 
 Bestemmelsene trer i kraft 1. januar 2018.
 
-Fra samme tidspunkt oppheves kongelig resolusjon 10. juni 19831 om erstatning til statstilsatte ved skade på eller tap av private eiendeler i forbindelse med tjenesten.
+Fra samme tidspunkt oppheves kongelig resolusjon 10. juni 1983[^1] om erstatning til statstilsatte ved skade på eller tap av private eiendeler i forbindelse med tjenesten.
 
 1 Ikke kunngjort i Norsk Lovtidend.

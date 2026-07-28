@@ -15,7 +15,7 @@ xml_hash: "de9a7a63ea82cc9584781e733dcb1bd86073f24d441210c7dd1dbec5fad0ff5d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ eu_basis: []
 
 ## § 1A.
 
-[EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 521 (rådsforordning [(EØF) nr. 954/79](eu/31979r0954)) om stater tilsluttet Det europeiske økonomiske samarbeidsområdes ratifikasjon av eller tiltredelse til De forente nasjoners konvensjon om et regelverk for linjekonferansers virksomhet, gjelder som norsk lov med de presiseringer og begrensninger som følger av protokoll 1 til avtalen og avtalen forøvrig.
+[EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 52[^1] (rådsforordning [(EØF) nr. 954/79](eu/31979r0954)) om stater tilsluttet Det europeiske økonomiske samarbeidsområdes ratifikasjon av eller tiltredelse til De forente nasjoners konvensjon om et regelverk for linjekonferansers virksomhet, gjelder som norsk lov med de presiseringer og begrensninger som følger av protokoll 1 til avtalen og avtalen forøvrig.
 
 > Tilføyd ved [lov 4 des 1992 nr. 121](lov/1992-12-04-121), jf. forordning [(EF) 1490/2007](eu/32007r1490).
 
@@ -124,7 +124,7 @@ Vedtak etter første eller annet ledd kan ikke påklages. Søksmål om lovmessig
 
 ## § 11. Ikrafttreden. Endring i andre lover.
 
-1. Denne lov trer i kraft fra den tid Kongen fastsetter.1
+1. Denne lov trer i kraft fra den tid Kongen fastsetter.[^1]
 2. – – –
 
 1 Fra 28 des 1985 iflg. [res. 6 des 1985 nr. 2075](forskrift/1985-12-06-2075).

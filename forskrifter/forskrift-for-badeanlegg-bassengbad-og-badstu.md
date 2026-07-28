@@ -15,7 +15,7 @@ xml_hash: "f2ff394905a20ac6cbc5d7954c149573c67b905a362c3c76a75a98ae33576c42"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,7 @@ Bestemmelsen er ikke til hinder for sjokklorering.
 
 | Vanntemperatur | Vannets laveste innhold | Sum av fritt og bundet |
 | --- | --- | --- |
-|  | av fritt klor\* | klor, maksimalverdi\*\* |
+|  | av fritt klor[^\*] | klor, maksimalverdi[^\*\*] |
 | =<27°C | 0,4 mg/l | 3 mg/l |
 | 27-29°C | 0,5 mg/l | 3 mg/l |
 | 29-33°C | 0,7 mg/l | 4 mg/l |

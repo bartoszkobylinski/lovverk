@@ -15,7 +15,7 @@ xml_hash: "969ba4e27b1965df31fbab9dfda8654256a67ce03c0954902636f5be97e400ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,7 +128,7 @@ Meldermyndigheten skal
 1. [Forskrift 16. juni 2010 nr. 820 om samtrafikkevnen i jernbanesystemet (samtrafikkforskriften) § 3](forskrift/2010-06-16-820/§3) syvende og åttende ledd.
 2. [Forskrift 20. desember 2016 nr. 1747 om lisens, sikkerhetssertifikat, sikkerhetsgodkjenning og andre forhold relatert til sikkerheten på jernbanen (lisensforskriften) § 3](forskrift/2016-12-20-1747/§3) fjerde til sjette ledd.
 
-Øvrige bestemmelser enn de som er nevnt i første ledd trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2016/796](eu/32016r0796) av 11. mai 2016 om Den europeiske unions jernbanebyrå og om oppheving av forordning [(EF) nr. 881/2004](eu/32004r0881), forordning [(EU) 2018/764](eu/32018r0764) av 2. mai 2018 om gebyrer og betaling til Den europeiske unions jernbanebyrå og om betalingsbetingelser og forordning [(EU) 2018/867](eu/32018r0867) av 13. juni 2018 om prosedyreregler for klageorganet til Den europeiske unions jernbanebyrå inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt1 endres følgende forskrifter:
+Øvrige bestemmelser enn de som er nevnt i første ledd trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2016/796](eu/32016r0796) av 11. mai 2016 om Den europeiske unions jernbanebyrå og om oppheving av forordning [(EF) nr. 881/2004](eu/32004r0881), forordning [(EU) 2018/764](eu/32018r0764) av 2. mai 2018 om gebyrer og betaling til Den europeiske unions jernbanebyrå og om betalingsbetingelser og forordning [(EU) 2018/867](eu/32018r0867) av 13. juni 2018 om prosedyreregler for klageorganet til Den europeiske unions jernbanebyrå inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt[^1] endres følgende forskrifter:
 
 1. [Forskrift 16. juni 2010 nr. 820 om samtrafikkevnen i jernbanesystemet (samtrafikkforskriften)](forskrift/2010-06-16-820) oppheves.
 2. [Forskrift 20. desember 2016 nr. 1747 om lisens, sikkerhetssertifikat, sikkerhetsgodkjenning og andre forhold relatert til sikkerheten på jernbanen (lisensforskriften)](forskrift/2016-12-20-1747) oppheves.

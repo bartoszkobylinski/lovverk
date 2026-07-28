@@ -15,7 +15,7 @@ xml_hash: "50b000c870ca7411f7cb83d83be116f90bc3013d6781f948510cb047d0c999cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -326,7 +326,7 @@ Søkjarar vert rangert på grunnlag av opptaksgrunnlaget i [kapittel 2](forskrif
 
 | *Poengtype* | *Forklaring* |
 | --- | --- |
-| Karakterpoeng | Karaktersnitt frå yrkesfagleg vidaregåande utdanning1 x 10 |
+| Karakterpoeng | Karaktersnitt frå yrkesfagleg vidaregåande utdanning[^1] x 10 |
 | + Poeng for fagbrev | 5 poeng |
 | + Poeng for praksis innanfor relevante yrkesfaglege områder | 1 poeng pr. 12 månader, maksimalt 5 poeng |
 | + Kjønnspoeng | 2 tilleggspoeng for kvinnelege søkjarar |
@@ -340,7 +340,7 @@ Søkjarar vert rangert på grunnlag av opptaksgrunnlaget i [kapittel 2](forskrif
 
 | *Poengtype* | *Forklaring* |
 | --- | --- |
-| Karakterpoeng | Karaktersnitt frå yrkesfagleg vidaregåande utdanning2 x 10 |
+| Karakterpoeng | Karaktersnitt frå yrkesfagleg vidaregåande utdanning[^2] x 10 |
 | + Poeng for relevant arbeidspraksis utover opptakskravet | 1 poeng pr. 12 månader, maksimalt 5 poeng |
 | + Poeng for kjønn der det er gitt i studieplanen | 2 poeng |
 | = *Konkurransepoengsum* |  |

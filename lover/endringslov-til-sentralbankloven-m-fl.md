@@ -15,7 +15,7 @@ xml_hash: "3eac94d578d0edb1b78c00fed3c8bf2bb770c48aeef6b306c8c9c735c6e7dc0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ eu_basis: []
 
 ## V
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelser i loven kan settes i kraft til ulik tid. De enkelte bestemmelser i [lov 14. juli 1950 nr. 10](lov/1950-07-14-10) om valutaregulering og i [lov 25. juni 1965 nr. 2](lov/1965-06-25-2) om adgang til regulering av penge- og kredittforholdene kan oppheves til ulik tid.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] De enkelte bestemmelser i loven kan settes i kraft til ulik tid. De enkelte bestemmelser i [lov 14. juli 1950 nr. 10](lov/1950-07-14-10) om valutaregulering og i [lov 25. juni 1965 nr. 2](lov/1965-06-25-2) om adgang til regulering av penge- og kredittforholdene kan oppheves til ulik tid.
 
 Kongen kan gi overgangsregler.
 

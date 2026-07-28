@@ -15,7 +15,7 @@ xml_hash: "ddd33b12c15837635f4433de000d4c3af2a813d27bbeb15736e50354c577b8ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ I forskriften menes med:
 2. *opptak:* innhenting av informasjon som lagres på et medium til senere bruk
 3. *annen bruk av informasjon:* alle andre former for behandling av informasjon, som å mangfoldiggjøre, systematisere, direkteoverføre eller på annen måte videreformidle informasjonen til andre.
 
-Bruk av Voyage Data Recorder, ekkolodd og andre navigasjonshjelpemidler i samsvar med forskrift 9. mai 2014 nr. 11571 om navigasjon og navigasjonshjelpemidler for skip og flyttbare innretninger regnes ikke som opptak etter første ledd bokstav b.
+Bruk av Voyage Data Recorder, ekkolodd og andre navigasjonshjelpemidler i samsvar med forskrift 9. mai 2014 nr. 1157[^1] om navigasjon og navigasjonshjelpemidler for skip og flyttbare innretninger regnes ikke som opptak etter første ledd bokstav b.
 
 1 Skal være [forskrift 5. september 2014 nr. 1157](forskrift/2014-09-05-1157). Lovtidend-redaksjonens anmerkning.
 

@@ -15,7 +15,7 @@ xml_hash: "6680d6ad78ed8bb7b529b506e8b77b81dd3d0ff0f4d1fac23bdf098611c7afd3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -149,7 +149,7 @@ Alle dødsfall som inntreffer om bord på eller i forbindelse med driften av nor
 
 ### § 7. Melding og rapportering ved utslipp eller fare for utslipp
 
-(1) Skipsføreren eller rederiet skal uten opphold gi melding til hovedredningssentralen eller nærmeste kystradiostasjon og innen 721 innsende rapport til Sjøfartsdirektoratet når en hendelse medfører:
+(1) Skipsføreren eller rederiet skal uten opphold gi melding til hovedredningssentralen eller nærmeste kystradiostasjon og innen 72[^1] innsende rapport til Sjøfartsdirektoratet når en hendelse medfører:
 
 1. Utslipp eller sannsynlig utslipp av olje eller skadelige, flytende stoffer, som overstiger den mengde eller det utslipp som til enhver tid er tillatt etter bestemmelsene i MARPOL 73/78, og uansett av hvilken grunn utslippet skjer, herunder for å ivareta skipets sikkerhet eller for å redde liv til sjøs, eller
 2. tap/utslipp eller sannsynlig tap/utslipp av farlige eller skadelige stoffer i pakket form, herunder stoffer i transportabel tank eller tankkjøretøy, samt om det er kjøretøy, fraktcontainer eller andre lastetransportenheter inneholdende pakker, eller

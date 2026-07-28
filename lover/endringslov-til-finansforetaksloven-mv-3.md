@@ -15,7 +15,7 @@ xml_hash: "c39f1cb145041613000dffa9f3221cc15c6146f779870aefbf821fa852a51bf0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32024L1619"
@@ -455,7 +455,7 @@ I [lov 6. februar 2026 nr. 3 om endringer i verdipapirhandelloven mv. (kapitalkr
 
 ## XIX
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Bestemmelsene kan settes i kraft til ulik tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Bestemmelsene kan settes i kraft til ulik tid.
 2. Departementet kan gi overgangsregler.
 
 1 Fra 1. juli 2026 for [endringsloven del I](lov/2026-06-19-40/kapI) [(finansforetaksloven) § 2-1 tredje ledd](lov/2015-04-10-17/§2-1/ledd/3), [§ 5-1 annet ledd](lov/2015-04-10-17/§5-1/ledd/2), [§ 5-2 første ledd bokstav d](lov/2015-04-10-17/§5-2/ledd/1/bokstav/d) og [e](lov/2015-04-10-17/§5-2/ledd/1/bokstav/e), [§ 5-9](lov/2015-04-10-17/§5-9), [§ 7-5](lov/2015-04-10-17/§7-5), [§ 8-5 fjerde ledd](lov/2015-04-10-17/§8-5/ledd/4), [§ 16-2](lov/2015-04-10-17/§16-2), [§ 19-11 sjette ledd](lov/2015-04-10-17/§19-11/ledd/6), og [§ 20-51 sjette ledd](lov/2015-04-10-17/§20-51/ledd/6) og [endringsloven del VIII](lov/2026-06-19-40/kapVIII) ([lov om Bankenes sikringsfond](lov/2018-03-23-3)) iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151).

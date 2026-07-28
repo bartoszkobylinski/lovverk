@@ -15,7 +15,7 @@ xml_hash: "d9ee49c0aad70e95766bf6dbe98495295e9eaf1544760b6d3eded5006a9c6b39"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32018L0843"
@@ -79,7 +79,7 @@ I [lov 16. desember 2022 nr. 90 om regnskapsførere](lov/2022-12-16-90) gjøres 
 
 ## IX
 
-1. Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid Kongen bestemmer[^1]. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Departementet kan gi overgangsregler.
 
 1 Fra 1. juli 2024 for endringsloven del IV ([finansforetaksloven](lov/2015-04-10-17)), endringsloven del V ([hvitvaskingsloven](lov/2018-06-01-23)) endringen i § 2 og endringene i § 22, endringsloven del VIII ([regnskapsførerloven](lov/2022-12-16-90)) og endringsloven del IX nr. 2,

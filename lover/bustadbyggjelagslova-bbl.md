@@ -15,7 +15,7 @@ xml_hash: "9bd5436b14359f170dbd937b2c931905e9f125d31bb80b6a1ad278fd252fed6c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1104,7 +1104,7 @@ I saker mellom laget og styret eller enkelte styremedlemmer skal generalforsamli
 
 ### § 13-1. Ikraftsetjing
 
-(1) Lova gjeld frå den tid1 Kongen fastset.
+(1) Lova gjeld frå den tid[^1] Kongen fastset.
 
 (2) Frå same tid blir [lov 4. februar 1960 nr. 1](lov/1960-02-04-1) om boligbyggelag oppheva.
 

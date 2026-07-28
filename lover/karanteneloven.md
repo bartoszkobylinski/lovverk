@@ -15,7 +15,7 @@ xml_hash: "e2faa81aebcc1b17115be7e7436ed423924733b91f73a654fa3f5ff94b6157d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -266,7 +266,7 @@ Endelig vedtak om tilbakekreving av godtgjørelse er tvangsgrunnlag for utlegg. 
 
 ### § 22. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 > Endret ved lov [7 feb 2025 nr. 1](lov/2025-02-07-1) (i kraft 1 juli 2025 iflg. [res. 7 feb 2025 nr. 145](forskrift/2025-02-07-145), tidligere § 21).
 

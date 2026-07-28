@@ -15,7 +15,7 @@ xml_hash: "801d931a20e4618bf0d4142a17db458ee89655ad1ab67af9f6d287f69505dbb6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -413,7 +413,7 @@ Leder av brann- og redningsvesenet i ansvarsområde med mellom 20 000 og 50 00
 1. universitets- eller høgskoleutdanning på bachelornivå, eller
 2. minst to års erfaring som leder av brann- og redningsvesen i ansvarsområde med inntil 20 000 innbyggere.
 
-Leder av brann- og redningsvesen i ansvarsområde med mer enn 50 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern1 og kurs i overordnet vaktberedskap og innsatsledelse, og enten ha
+Leder av brann- og redningsvesen i ansvarsområde med mer enn 50 000 innbyggere skal ha gjennomført yrkesutdanning i forebyggende brannvern[^1] og kurs i overordnet vaktberedskap og innsatsledelse, og enten ha
 
 1. høgskole- eller universitetsutdanning på masternivå, eller
 2. kvalifikasjoner som leder av brann- og redningsvesen i ansvarsområde med inntil 50 000 innbyggere, og minst fem års erfaring som leder av brann- og redningsvesen.

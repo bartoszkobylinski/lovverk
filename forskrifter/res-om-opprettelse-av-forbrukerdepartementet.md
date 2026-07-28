@@ -15,7 +15,7 @@ xml_hash: "b7a7c3e5e0e1ee88929d0a5684b8629553066d90e100b3916671138339242b2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Med virkning fra 8. mai 1972 nedlegges Departementet for familie- og forbrukersa
 
 ## II.
 
-Med virkning fra samme dato opprettes to nye departementer, Miljøverndepartementet og Forbruker- og administrasjonsdepartementet1 med myndighetsområde som nevnt i foredraget og vedlagte utkast. Overføringen av ansvaret for forhandlingene om støtteavtaler i jordbruk og fiske til Arbeids- og administrasjonsdepartementet foretas fra det tidspunkt de pågående forhandlinger er sluttført og avtalene godkjent av Stortinget.
+Med virkning fra samme dato opprettes to nye departementer, Miljøverndepartementet og Forbruker- og administrasjonsdepartementet[^1] med myndighetsområde som nevnt i foredraget og vedlagte utkast. Overføringen av ansvaret for forhandlingene om støtteavtaler i jordbruk og fiske til Arbeids- og administrasjonsdepartementet foretas fra det tidspunkt de pågående forhandlinger er sluttført og avtalene godkjent av Stortinget.
 
 1 Arbeids- og administrasjonsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
 

@@ -15,7 +15,7 @@ xml_hash: "a274b98d485b8ac30d5dc0607d7a78ec137aa89d9befd3e84c8f2f051c15cb96"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -171,7 +171,7 @@ Nåværende tredje og fjerde ledd blir fjerde og nytt femte ledd.
 
 ## II
 
-Loven gjelder fra den tiden1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.
+Loven gjelder fra den tiden[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til forskjellig tid.
 
 1 Fra 1 juli 2025 for [endringsloven del I](lov/2025-06-20-100/kapI) [§§ 22](lov/2005-06-17-64/§22) til [23](lov/2005-06-17-64/§23) og [§ 23c](lov/2005-06-17-64/§23c) og
 fra 1. august 2026 for [endringsloven del I](lov/2025-06-20-100/kapI) [§§ 1a](lov/2005-06-17-64/§1a) til [2](lov/2005-06-17-64/§2), [§ 4](lov/2005-06-17-64/§4), [§§ 6](lov/2005-06-17-64/§6) til [7a](lov/2005-06-17-64/§7a), [§§ 8](lov/2005-06-17-64/§8) til [9](lov/2005-06-17-64/§9), [§ 12](lov/2005-06-17-64/§12), [§§ 14](lov/2005-06-17-64/§14) til [15](lov/2005-06-17-64/§15), [§ 17](lov/2005-06-17-64/§17), [§§ 19](lov/2005-06-17-64/§19) til [20a](lov/2005-06-17-64/§20a), [§§ 25](lov/2005-06-17-64/§25) til [30](lov/2005-06-17-64/§30), [§§ 42](lov/2005-06-17-64/§42) til [43](lov/2005-06-17-64/§43), [§ 49](lov/2005-06-17-64/§49), [§ 51](lov/2005-06-17-64/§51), [§ 53](lov/2005-06-17-64/§53) og [§ 56](lov/2005-06-17-64/§56)

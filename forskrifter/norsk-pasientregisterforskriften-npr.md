@@ -15,7 +15,7 @@ xml_hash: "b59648939c8557e08c580d52dd2d256ad3daba140d46b1e6d02f5dc6176ebdca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-09T07:34:50.708170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -319,7 +319,7 @@ Den dataansvarlige og databehandleren skal erstatte skade som er oppstått som f
 
 ### § 7-3. Ikraftsetting
 
-Forskriften trer i kraft fra den tid departementet bestemmer.1
+Forskriften trer i kraft fra den tid departementet bestemmer.[^1]
 
 1 I kraft 15 april 2009, jf. [vedtak 14 april 2009 nr. 408](forskrift/2009-04-14-408).
 

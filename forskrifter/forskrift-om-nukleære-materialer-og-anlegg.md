@@ -15,7 +15,7 @@ xml_hash: "7d2c7411fb8a13af38ebc6d39c370154ac898e66f9cdd928cad304d6426f4b5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -311,14 +311,14 @@ Forskriftene trer i kraft straks.
 
 |  |  | Klasse |  |  |
 | --- | --- | --- | --- | --- |
-| Materiale | Form | I | II | III c |
-| 1. Plutonium a | Ubestrålt b | 2 kg eller mer | Mindre en 2 kg, men mer enn 500 g | 500 g eller mindre, men mer enn 15 g |
-| 2. Uran-235 | Ubestrålt b |  |  |  |
+| Materiale | Form | I | II | III [^c] |
+| 1. Plutonium [^a] | Ubestrålt [^b] | 2 kg eller mer | Mindre en 2 kg, men mer enn 500 g | 500 g eller mindre, men mer enn 15 g |
+| 2. Uran-235 | Ubestrålt [^b] |  |  |  |
 |  | -uran anriket til 20% U-235 eller mer | 5 kg eller mer | Mindre enn 5 kg, men mer enn 1 kg | 1 kg eller mindre, men mer enn 15 g |
 |  | -uran anriket til 10% U-235, men mindre enn 20% |  | 10 kg eller mer | Mindre enn 10 kg, men mer enn 1 kg |
 |  | -uran anriket over naturlig nivå, men mindre enn 10% U-235 |  |  | 10 kg eller mer |
-| 3. Uran-233 | Ubestrålt b | 2 kg eller mer | Mindre enn 2 kg, men mer enn 500 g | 500 g eller mindre, men mer enn 15 g |
-| 4. Bestrålt brensel |  |  | Utarmet eller naturlig uran eller lavanriket brensel (mindre enn 10% spaltbart innhold) d e |  |
+| 3. Uran-233 | Ubestrålt [^b] | 2 kg eller mer | Mindre enn 2 kg, men mer enn 500 g | 500 g eller mindre, men mer enn 15 g |
+| 4. Bestrålt brensel |  |  | Utarmet eller naturlig uran eller lavanriket brensel (mindre enn 10% spaltbart innhold) [^d] [^e] |  |
 
 a All plutonium unntatt plutonium som inneholder mer enn 80 % plutonium-238.
 

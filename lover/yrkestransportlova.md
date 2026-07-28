@@ -15,7 +15,7 @@ xml_hash: "4c327a7e6be1605ca9de810f5d2733e8cba5bae3ed042e85823fe13ad33a9904"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -305,7 +305,7 @@ Departementet kan delegere sine oppgåver etter denne lova til fylkeskommunen.
 
 ### § 17. Transport av post
 
-Posten Norge AS treng ikkje løyve for transport av postsendingar som ligg innanfor samfunnspålagte oppgåver og som følgjer av selskapet sin konsesjon etter [lov 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger (postloven)](lov/1996-11-29-73).1 Unnatak frå løyveplikta gjeld berre transporter som Posten Norge AS utfører med motorvogner selskapet eig eller har bruksretten til etter leasing- eller leigekontrakt som skal visast fram ved kontroll.
+Posten Norge AS treng ikkje løyve for transport av postsendingar som ligg innanfor samfunnspålagte oppgåver og som følgjer av selskapet sin konsesjon etter [lov 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger (postloven)](lov/1996-11-29-73).[^1] Unnatak frå løyveplikta gjeld berre transporter som Posten Norge AS utfører med motorvogner selskapet eig eller har bruksretten til etter leasing- eller leigekontrakt som skal visast fram ved kontroll.
 
 > Endra ved [lov 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
 
@@ -457,7 +457,7 @@ Departementet kan gje forskrifter om at motorvogn som vert nytta til løyveplikt
 
 ### § 32 a. Passasjerrettar
 
-(1) Departementet kan gje forskrift om gjennomføring og utfylling av reglar om busspassasjerrettar som er tekne inn i [EØS-avtalen](lov/1992-11-27-109/eøsl).1
+(1) Departementet kan gje forskrift om gjennomføring og utfylling av reglar om busspassasjerrettar som er tekne inn i [EØS-avtalen](lov/1992-11-27-109/eøsl).[^1]
 
 (2) Departementet kan peike ut bussterminalar som skal tilby assistanse til personar med nedsett funksjons- eller rørsleevne, og kan gje nærare forskrift om slike ordningar.
 
@@ -703,7 +703,7 @@ Om nokon med vilje eller aktløyse bryt denne lova, forskrifter eller vilkår so
 
 ### § 42. Iverksetjing. Overgangsføresegner
 
-1. Kongen fastset kva tid lova skal ta til å gjelde.1
+1. Kongen fastset kva tid lova skal ta til å gjelde.[^1]
 2. Reglar, forskrifter og vedtak som er gitt i medhald av [lov 4. juni 1976 nr. 63 om samferdsel](lov/1976-06-04-63) gjeld òg etter at lova her er sett i kraft.
 
 1 Frå 1 jan 2003 iflg. [res. 20 des 2002 nr. 1695](forskrift/2002-12-20-1695).

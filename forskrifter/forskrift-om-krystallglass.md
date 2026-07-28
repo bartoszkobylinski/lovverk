@@ -15,7 +15,7 @@ xml_hash: "1b2f1ed8e75fb244c21882a8a412f082a21beedfacc5a55810236b3c62cfc9e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,9 +61,9 @@ Forskriften trer i kraft 1. august 1997.
 | 1 | Cristal Superiuer |  |  |  |  |  | Runde merker |
 |  | 30% |  |  |  |  |  | Farge: gull |
 |  | Cristallo Superiore |  |  |  |  |  | diameter: |
-|  | 30%\* | PbO |  |  |  |  | ≥1 cm |
+|  | 30%[^\*] | PbO |  |  |  |  | ≥1 cm |
 |  | Hochbleikristall | ≥30% | ≥3,00 |  |  |  |  |
-|  | 30%\* |  |  |  |  |  |  |
+|  | 30%[^\*] |  |  |  |  |  |  |
 |  | Volloodkristal 30% |  |  |  |  |  |  |
 |  | Full Lead Crystal |  |  |  |  |  |  |
 |  | 30% |  |  |  |  |  |  |

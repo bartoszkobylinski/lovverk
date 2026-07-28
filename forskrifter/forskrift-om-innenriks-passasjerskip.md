@@ -15,7 +15,7 @@ xml_hash: "a1a700220b320a2c56c623924cea1a3159509b4d58d899e635a93aff02ca07f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -281,7 +281,7 @@ Redningsvester skal ha arrangement eller konstruksjon som gjør at redningsveste
 
 (1) Fastmonterte lokaltvirkende brannslokkingsanlegg på passasjerskip på 500 tonn og mer, kjølstrukket på eller etter 1. august 2000 og på passasjerskip på 2000 tonn og mer, kjølstrukket før 1. august 2000.
 
-(2) Maskinrom av kategori A med bruttovolum på mer enn 500 m3 skal, i stedet for det faste brannslokkingsanlegget som for passasjerskip kreves i SOLAS' regel II-2/10.5 og som for passasjerskip i klasse B, C og D kreves i vedlegg I regel II-2/A/6.8, beskyttes av et fastmontert vannbasert eller tilsvarende lokaltvirkende brannslokkingsanlegg. For periodevis ubemannede maskinrom skal det lokaltvirkende brannslokkingsanlegget ha mulighet for både automatisk og manuell utløsning. For fast bemannede maskinrom kreves det utelukkende en mulighet for manuell utløsning. Vannbasert anlegg skal være godkjent.1
+(2) Maskinrom av kategori A med bruttovolum på mer enn 500 m3 skal, i stedet for det faste brannslokkingsanlegget som for passasjerskip kreves i SOLAS' regel II-2/10.5 og som for passasjerskip i klasse B, C og D kreves i vedlegg I regel II-2/A/6.8, beskyttes av et fastmontert vannbasert eller tilsvarende lokaltvirkende brannslokkingsanlegg. For periodevis ubemannede maskinrom skal det lokaltvirkende brannslokkingsanlegget ha mulighet for både automatisk og manuell utløsning. For fast bemannede maskinrom kreves det utelukkende en mulighet for manuell utløsning. Vannbasert anlegg skal være godkjent.[^1]
 
 (3) Fastmonterte lokaltvirkende brannslokkingsanlegg skal minst beskytte områdene som er angitt nedenfor, og uten at det er nødvendig med avstenging av maskin, evakuering av personell eller forsegling av rom:
 
@@ -829,7 +829,7 @@ Ved beregning av stabilitet i skadet tilstand skal fyllingsgraden for volum og o
 | Bestemt for last eller forråd | 60 |
 | Anvendt til innredning | 95 |
 | Anvendt til maskineri | 85 |
-| Bestemt for væsker | 0 eller 95\* |
+| Bestemt for væsker | 0 eller 95[^\*] |
 
 \* Den verdien som medfører de strengeste kravene, skal brukes.
 
@@ -1035,7 +1035,7 @@ For å sikre at den påkrevde graden av oppdeling opprettholdes, skal en lasteli
 
 De fastsatte og avmerkede oppdelingslastelinjene skal være registrert i sikkerhetssertifikatet for passasjerskip, og skal angis med betegnelsen C.1 dersom det finnes bare én oppdelingslastelinje.
 
-Dersom det finnes mer enn én oppdelingslastelinje, skal de øvrige fartsforholdene angis med betegnelsene C.2, C.3, C.4 osv.1
+Dersom det finnes mer enn én oppdelingslastelinje, skal de øvrige fartsforholdene angis med betegnelsene C.2, C.3, C.4 osv.[^1]
 
 .3
 
@@ -2022,7 +2022,7 @@ Alle utløpsrør fra startluftkompressorene skal føres direkte til startlufttan
 
 Det skal treffes tiltak for at så lite olje som mulig trenger inn i trykkluftsystemene og for å drenere disse systemene.
 
-### 15. Regel II-1/C/15: Vern mot støy (R 36)2
+### 15. Regel II-1/C/15: Vern mot støy (R 36)[^2]
 
 NYE SKIP I KLASSE B, C OG D SOM IKKE OMFATTES AV REGEL II-1/A-1/4
 
@@ -2067,7 +2067,7 @@ Elektriske installasjoner skal være slik at
 
 .2
 
-Flaggstatens myndighet skal treffe de nødvendige tiltak for å sikre ensartet gjennomføring og anvendelse av bestemmelsene i denne delen med hensyn til elektriske installasjoner3.
+Flaggstatens myndighet skal treffe de nødvendige tiltak for å sikre ensartet gjennomføring og anvendelse av bestemmelsene i denne delen med hensyn til elektriske installasjoner[^3].
 
 3 Det vises til anbefaling utgitt av Den internasjonale elektrotekniske standardiseringsorganisasjon, særlig serie 60092 – Elektriske installasjoner om bord på skip.
 
@@ -3868,19 +3868,19 @@ Skott som avgrenser verken vertikale hovedsoner eller horisontale soner*
 
 | *Rom* |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* | *(12)* | *(13)* | *(14)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | B-0a | A-0 | A-0 | A-0 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-60 | A-60 | A-60 | A-60 |
-| Trapper | (2) |  | A-0a | A-0 | A-0 | A-0 | A-0 | A-15 | A-15 | A-0c | A-0 | A-15 | A-30 | A-15 | A-30 |
+| Kontrollstasjoner | (1) | B-0[^a] | A-0 | A-0 | A-0 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-60 | A-60 | A-60 | A-60 |
+| Trapper | (2) |  | A-0[^a] | A-0 | A-0 | A-0 | A-0 | A-15 | A-15 | A-0[^c] | A-0 | A-15 | A-30 | A-15 | A-30 |
 | Korridorer | (3) |  |  | B-15 | A-60 | A-0 | B-15 | B-15 | B-15 | B-15 | A-0 | A-15 | A-30 | A-0 | A-30 |
-| Evakueringsstasjoner og utvendige rømningsveier | (4) |  |  |  |  | A-0 | A-60b d | A-60b d | A-60b d | A-0d | A-0 | A-60b | A-60b | A-60b | A-60b |
+| Evakueringsstasjoner og utvendige rømningsveier | (4) |  |  |  |  | A-0 | A-60[^b] [^d] | A-60[^b] [^d] | A-60[^b] [^d] | A-0[^d] | A-0 | A-60[^b] | A-60[^b] | A-60[^b] | A-60[^b] |
 | Åpne plasser på dekk | (5) |  |  |  |  | – | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med liten brannrisiko | (6) |  |  |  |  |  | B-0 | B-0 | B-0 | C | A-0 | A-0 | A-30 | A-0 | A-30 |
 | Rom i innredningen med moderat brannrisiko | (7) |  |  |  |  |  |  | B-0 | B-0 | C | A-0 | A-15 | A-60 | A-15 | A-60 |
 | Rom i innredningen med større brannrisiko | (8) |  |  |  |  |  |  |  | B-0 | C | A-0 | A-30 | A-60 | A-15 | A-60 |
 | Sanitærrom og lignende rom | (9) |  |  |  |  |  |  |  |  | C | A-0 | A-0 | A-0 | A-0 | A-0 |
-| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-0 | A-0 | A-0 |
-| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-0 | A-15 |
-| Maskinrom og hovedbysser | (12) |  |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-60 |
-| Lagerrom, verksteder, penterier osv. | (13) |  |  |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 |
+| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 | A-0 | A-0 | A-0 |
+| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) |  |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 | A-0 | A-15 |
+| Maskinrom og hovedbysser | (12) |  |  |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 | A-60 |
+| Lagerrom, verksteder, penterier osv. | (13) |  |  |  |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 |
 | Andre rom der brannfarlige væsker oppbevares | (14) |  |  |  |  |  |  |  |  |  |  |  |  |  | A-30 |
 
 *Tabell 4.2
@@ -3890,16 +3890,16 @@ Dekk som verken danner trinn i vertikale hovedsoner eller avgrenser horisontale 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kontrollstasjoner | (1) | A-30 | A-30 | A-15 | A-0 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0 | A-60 | A-0 | A-60 |
 | Trapper | (2) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
-| Korridorer | (3) | A-15 | A-0 | A-0a | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
+| Korridorer | (3) | A-15 | A-0 | A-0[^a] | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
 | Evakueringsstasjoner og utvendige rømningsveier | (4) | A-0 | A-0 | A-0 | A-0 | – | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Åpne plasser på dekk | (5) | A-0 | A-0 | A-0 | A-0 | – | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med liten brannrisiko | (6) | A-60 | A-15 | A-0 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med moderat brannrisiko | (7) | A-60 | A-15 | A-15 | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med større brannrisiko | (8) | A-60 | A-15 | A-15 | A-60 | A-0 | A-15 | A-15 | A-30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Sanitærrom og lignende rom | (9) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
-| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0a | A-0 | A-0 | A-0 | A-0 |
-| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) | A-60 | A-60 | A-60 | A-60 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0a | A-0 | A-0 | A-30 |
-| Maskinrom og hovedbysser | (12) | A-60 | A-60 | A-60 | A-60 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-30 | A-30a | A-0 | A-60 |
+| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0[^a] | A-0 | A-0 | A-0 | A-0 |
+| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) | A-60 | A-60 | A-60 | A-60 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0[^a] | A-0 | A-0 | A-30 |
+| Maskinrom og hovedbysser | (12) | A-60 | A-60 | A-60 | A-60 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-30 | A-30[^a] | A-0 | A-60 |
 | Lagerrom, verksteder, penterier osv. | (13) | A-60 | A-30 | A-15 | A-60 | A-0 | A-15 | A-30 | A-30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Andre rom der brannfarlige væsker oppbevares | (14) | A-60 | A-60 | A-60 | A-60 | A-0 | A-30 | A-60 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
@@ -3985,18 +3985,18 @@ I utvendige avgrensninger som etter regel II-2/B/1 nr. .1 skal være av stål el
 
 | *Rom* |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | A-0c | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | \* | A-60 |
-| Korridorer | (2) |  | Ce | B-0e | A-0a | B-0e | A-60 | A-0 | A-0 | A-15 | \* | A-15 |
-|  |  |  |  |  | B-0e |  |  |  |  | A-0d |  |  |
-| Rom i innredningen | (3) |  |  | Ce | A-0a | B-0e | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e |  |  |  |  | A-0d |  | A-0d |
-| Trapper | (4) |  |  |  | A-0a | A-0a | A-60 | A-0 | A-0 | A-15 | \* | A-15 |
-|  |  |  |  |  | B-0e | B-0e |  |  |  | A-0d |  |  |
-| Arbeidsrom (lav risiko) | (5) |  |  |  |  | Ce | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Maskinrom av kategori A | (6) |  |  |  |  |  | \* | A-0 | A-0 | A-60 | \* | A-60 |
-| Andre maskinrom | (7) |  |  |  |  |  |  | A-0b | A-0 | A-0 | \* | A-0 |
-| Lasterom | (8) |  |  |  |  |  |  |  | \* | A-0 | \* | A-0 |
-| Arbeidsrom (høy risiko) | (9) |  |  |  |  |  |  |  |  | A-0b | \* | A-30 |
+| Kontrollstasjoner | (1) | A-0[^c] | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | [^\*] | A-60 |
+| Korridorer | (2) |  | C[^e] | B-0[^e] | A-0[^a] | B-0[^e] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-15 |
+|  |  |  |  |  | B-0[^e] |  |  |  |  | A-0[^d] |  |  |
+| Rom i innredningen | (3) |  |  | C[^e] | A-0[^a] | B-0[^e] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] |  |  |  |  | A-0[^d] |  | A-0[^d] |
+| Trapper | (4) |  |  |  | A-0[^a] | A-0[^a] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-15 |
+|  |  |  |  |  | B-0[^e] | B-0[^e] |  |  |  | A-0[^d] |  |  |
+| Arbeidsrom (lav risiko) | (5) |  |  |  |  | C[^e] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Maskinrom av kategori A | (6) |  |  |  |  |  | [^\*] | A-0 | A-0 | A-60 | [^\*] | A-60 |
+| Andre maskinrom | (7) |  |  |  |  |  |  | A-0[^b] | A-0 | A-0 | [^\*] | A-0 |
+| Lasterom | (8) |  |  |  |  |  |  |  | [^\*] | A-0 | [^\*] | A-0 |
+| Arbeidsrom (høy risiko) | (9) |  |  |  |  |  |  |  |  | A-0[^b] | [^\*] | A-30 |
 | Åpent dekk | (10) |  |  |  |  |  |  |  |  |  |  | A-0 |
 | Spesiallasterom | (11) |  |  |  |  |  |  |  |  |  |  | A-0 |
 
@@ -4007,18 +4007,18 @@ Brannmotstand for skott som skiller tilstøtende rom*
 
 | *Rom* |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | A-0c | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | \* | A-60 |
-| Korridorer | (2) |  | Ce | B-0e | A-0a | B-0e | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e |  |  |  |  | A-0d |  |  |
-| Rom i innredningen | (3) |  |  | Ce | A-0a | B-0e | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e |  |  |  |  | A-0d |  | A-0d |
-| Trapper | (4) |  |  |  | A-0a | A-0a | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e | B-0e |  |  |  | A-0d |  |  |
-| Arbeidsrom (lav risiko) | (5) |  |  |  |  | Ce | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Maskinrom av kategori A | (6) |  |  |  |  |  | \* | A-0 | A-0 | A-60 | \* | A-60 |
-| Andre maskinrom | (7) |  |  |  |  |  |  | A-0b | A-0 | A-0 | \* | A-0 |
-| Lasterom | (8) |  |  |  |  |  |  |  | \* | A-0 | \* | A-0 |
-| Arbeidsrom (høy risiko) | (9) |  |  |  |  |  |  |  |  | A-0b | \* | A-30 |
+| Kontrollstasjoner | (1) | A-0[^c] | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | [^\*] | A-60 |
+| Korridorer | (2) |  | C[^e] | B-0[^e] | A-0[^a] | B-0[^e] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] |  |  |  |  | A-0[^d] |  |  |
+| Rom i innredningen | (3) |  |  | C[^e] | A-0[^a] | B-0[^e] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] |  |  |  |  | A-0[^d] |  | A-0[^d] |
+| Trapper | (4) |  |  |  | A-0[^a] | A-0[^a] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] | B-0[^e] |  |  |  | A-0[^d] |  |  |
+| Arbeidsrom (lav risiko) | (5) |  |  |  |  | C[^e] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Maskinrom av kategori A | (6) |  |  |  |  |  | [^\*] | A-0 | A-0 | A-60 | [^\*] | A-60 |
+| Andre maskinrom | (7) |  |  |  |  |  |  | A-0[^b] | A-0 | A-0 | [^\*] | A-0 |
+| Lasterom | (8) |  |  |  |  |  |  |  | [^\*] | A-0 | [^\*] | A-0 |
+| Arbeidsrom (høy risiko) | (9) |  |  |  |  |  |  |  |  | A-0[^b] | [^\*] | A-30 |
 | Åpent dekk | (10) |  |  |  |  |  |  |  |  |  |  | A-0 |
 | Spesiallasterom | (11) |  |  |  |  |  |  |  |  |  |  | A-30 |
 
@@ -4027,20 +4027,20 @@ Brannmotstand for dekk som skiller tilstøtende rom*
 
 | *Rom under* ↓ *Rom over* → |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-| Korridorer | (2) | A-0 | \* | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Rom i innredningen | (3) | A-60 | A-0 | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-|  |  |  |  |  |  |  |  |  |  |  |  | A-0d |
-| Trapper | (4) | A-0 | A-0 | A-0 | \* | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Arbeidsrom (lav risiko) | (5) | A-15 | A-0 | A-0 | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | \* | A-60f | A-30 | A-60 | \* | A-60 |
-| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | A-0 | \* | A-0 |
-| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | \* | A-0 |
-| Arbeidsrom (høy risiko) | (9) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-|  |  |  | A-0d | A-0d | A-0d |  |  |  |  |  |  |  |
-| Åpent dekk | (10) | \* | \* | \* | \* | \* | \* | \* | \* | \* | – | A-0 |
+| Kontrollstasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+| Korridorer | (2) | A-0 | [^\*] | [^\*] | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Rom i innredningen | (3) | A-60 | A-0 | [^\*] | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+|  |  |  |  |  |  |  |  |  |  |  |  | A-0[^d] |
+| Trapper | (4) | A-0 | A-0 | A-0 | [^\*] | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Arbeidsrom (lav risiko) | (5) | A-15 | A-0 | A-0 | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | [^\*] | A-60[^f] | A-30 | A-60 | [^\*] | A-60 |
+| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | [^\*] | A-0 | A-0 | [^\*] | A-0 |
+| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | [^\*] | A-0 | [^\*] | A-0 |
+| Arbeidsrom (høy risiko) | (9) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+|  |  |  | A-0[^d] | A-0[^d] | A-0[^d] |  |  |  |  |  |  |  |
+| Åpent dekk | (10) | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | – | A-0 |
 | Spesiallasterom | (11) | A-60 | A-15 | A-30 | A-15 | A-0 | A-30 | A-0 | A-0 | A-30 | A-0 | A-0 |
-|  |  |  |  | A-0d |  |  |  |  |  |  |  |  |
+|  |  |  |  | A-0[^d] |  |  |  |  |  |  |  |  |
 
 Følgende tabell får anvendelse på ALLE SKIP I KLASSE B, C OG D BYGD 1. JANUAR 2018 ELLER SENERE:
 
@@ -4049,20 +4049,20 @@ Brannmotstand for dekk som skiller tilstøtende rom*
 
 | *Rom under* ↓ *Rom over* → |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-| Korridorer | (2) | A-0 | \* | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Rom i innredningen | (3) | A-60 | A-0 | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-|  |  |  |  |  |  |  |  |  |  |  |  | A-0d |
-| Trapper | (4) | A-0 | A-0 | A-0 | \* | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Arbeidsrom (lav risiko) | (5) | A-15 | A-0 | A-0 | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | \* | A-60 (f) | A-30 | A-60 | \* | A-60 |
-| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | A-0 | \* | A-0 |
-| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | \* | A-0 |
-| Arbeidsrom (høy risiko) | (9) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-|  |  |  | A-0d | A-0d | A-0d |  |  |  |  |  |  |  |
-| Åpent dekk | (10) | \* | \* | \* | \* | \* | \* | \* | \* | \* | – | A-0 |
+| Kontrollstasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+| Korridorer | (2) | A-0 | [^\*] | [^\*] | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Rom i innredningen | (3) | A-60 | A-0 | [^\*] | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+|  |  |  |  |  |  |  |  |  |  |  |  | A-0[^d] |
+| Trapper | (4) | A-0 | A-0 | A-0 | [^\*] | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Arbeidsrom (lav risiko) | (5) | A-15 | A-0 | A-0 | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | [^\*] | A-60 (f) | A-30 | A-60 | [^\*] | A-60 |
+| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | [^\*] | A-0 | A-0 | [^\*] | A-0 |
+| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | [^\*] | A-0 | [^\*] | A-0 |
+| Arbeidsrom (høy risiko) | (9) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+|  |  |  | A-0[^d] | A-0[^d] | A-0[^d] |  |  |  |  |  |  |  |
+| Åpent dekk | (10) | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | – | A-0 |
 | Spesiallasterom | (11) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-30 | A-0 | A-30 |
-|  |  |  |  | A-0d |  |  |  |  |  |  |  |  |
+|  |  |  |  | A-0[^d] |  |  |  |  |  |  |  |  |
 
 *Noter til tabell 5.1, 5.1.a, 5.2 og 5.2.a:*
 
@@ -5057,15 +5057,15 @@ Skip som ikke fører en livbåt eller MOB-båt, skal for redningsformål være u
 | --- | --- | --- | --- | --- | --- | --- |
 | Antall personer (N) |  |  |  |  |  |  |
 | Antall passasjerer (P) | > 250 | ≤ 250 | > 250 | ≤ 250 | > 250 | ≤ 250 |
-| Redningsfarkostenes kapasitet1 2 3 4: |  |  |  |  |  |  |
+| Redningsfarkostenes kapasitet[^1] [^2] [^3] [^4]: |  |  |  |  |  |  |
 | – eksisterende skip | 1,10 N | 1,10 N | 1,10 N | 1,10 N | 1,10 N | 1,10 N |
 | – nye skip | 1,25 N | 1,25 N | 1,25 N | 1,25 N | 1,25 N | 1,25 N |
-| MOB-båter4 5 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Livbøyer6 | 8 | 8 | 8 | 4 | 8 | 4 |
-| Redningsvester8 9 12 13 | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N |
-| Redningsvester for barn9 13 | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P |
-| Redningsvester for spedbarn10 13 | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P |
-| Nødbluss7 | 12 | 12 | 12 | 12 | 6 | 6 |
+| MOB-båter[^4] [^5] | 1 | 1 | 1 | 1 | 1 | 1 |
+| Livbøyer[^6] | 8 | 8 | 8 | 4 | 8 | 4 |
+| Redningsvester[^8] [^9] [^12] [^13] | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N |
+| Redningsvester for barn[^9] [^13] | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P |
+| Redningsvester for spedbarn[^10] [^13] | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P |
+| Nødbluss[^7] | 12 | 12 | 12 | 12 | 6 | 6 |
 | Linekastingsapparater | 1 | 1 | 1 | 1 | – | – |
 | Radartranspondere | 1 | 1 | 1 | 1 | 1 | 1 |
 | Toveis VHF-radiotelefonapparat | 3 | 3 | 3 | 3 | 3 | 2 |
@@ -5485,7 +5485,7 @@ I tillegg skal det være mulig å henge opp livbåten for å frigjøre utløsing
 
 .2a
 
-Senest ved den første planlagte tørrdokksetting etter 1. januar 2018, men ikke senere enn 1. juli 2019, skal utsettingsmekanismer for livbåter som utløses ved trykk og som ikke oppfyller kravene i nr. 4.4.7.6.4 til 4.4.7.6.6 i LSA-regelverket, erstattes med utstyr som oppfyller kravene i regelverket\*.
+Senest ved den første planlagte tørrdokksetting etter 1. januar 2018, men ikke senere enn 1. juli 2019, skal utsettingsmekanismer for livbåter som utløses ved trykk og som ikke oppfyller kravene i nr. 4.4.7.6.4 til 4.4.7.6.6 i LSA-regelverket, erstattes med utstyr som oppfyller kravene i regelverket[^\*].
 
 \* Se retningslinjene for vurdering og utskifting av utsettings- og ombordtakingssystemer for livbåter (MSC.1/Circ.1392).
 
@@ -5549,7 +5549,7 @@ SKIP I KLASSE B, C OG D BYGD 1. JANUAR 2018 ELLER SENERE
 
 .1
 
-Alle skip skal ha skipsspesifikke planer og prosedyrer for ombordtaking av personer fra vannet, idet det tas hensyn til IMOs retningslinjer\*. I planene og prosedyrene skal det angis hvilket utstyr som skal brukes for dette formål, og tiltak som skal treffes for å minimere risikoen for personell om bord som deltar i ombordtakingen. Skip bygd før 1. januar 2018 skal oppfylle dette kravet ved første periodiske besiktelse av sikkerhetsutstyret eller ved fornyelsen av det.
+Alle skip skal ha skipsspesifikke planer og prosedyrer for ombordtaking av personer fra vannet, idet det tas hensyn til IMOs retningslinjer[^\*]. I planene og prosedyrene skal det angis hvilket utstyr som skal brukes for dette formål, og tiltak som skal treffes for å minimere risikoen for personell om bord som deltar i ombordtakingen. Skip bygd før 1. januar 2018 skal oppfylle dette kravet ved første periodiske besiktelse av sikkerhetsutstyret eller ved fornyelsen av det.
 
 .2
 
@@ -5831,7 +5831,7 @@ Et sett med byggetegninger av det ferdige skipet og andre tegninger som viser ev
 
 2\.
 
-Et ytterligere sett med slike tegninger skal oppbevares i land av selskapet, som definert i forordning (EF) nr. 336/20061 med endringer.
+Et ytterligere sett med slike tegninger skal oppbevares i land av selskapet, som definert i forordning (EF) nr. 336/2006[^1] med endringer.
 
 1 EUT L 64 av 4.3.2006, s. 1–36.
 
@@ -6275,7 +6275,7 @@ Elektriske installasjoner skal være slik at
 
 2\.
 
-Flaggstatens myndighet skal treffe de nødvendige tiltak for å sikre ensartet gjennomføring og anvendelse av bestemmelsene i denne delen med hensyn til elektriske installasjoner5.
+Flaggstatens myndighet skal treffe de nødvendige tiltak for å sikre ensartet gjennomføring og anvendelse av bestemmelsene i denne delen med hensyn til elektriske installasjoner[^5].
 
 5 Det vises til anbefaling utgitt av Den internasjonale elektrotekniske standardiseringsorganisasjon, særlig serie 60092 – Elektriske installasjoner om bord på skip.
 
@@ -7663,19 +7663,19 @@ Skott som avgrenser verken vertikale hovedsoner eller horisontale soner*
 
 | *Rom* |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* | *(12)* | *(13)* | *(14)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | B-0a | A-0 | A-0 | A-0 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-60 | A-60 | A-60 | A-60 |
-| Trapper | (2) |  | A-0a | A-0 | A-0 | A-0 | A-0 | A-15 | A-15 | A-0c | A-0 | A-15 | A-30 | A-15 | A-30 |
+| Kontrollstasjoner | (1) | B-0[^a] | A-0 | A-0 | A-0 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-60 | A-60 | A-60 | A-60 |
+| Trapper | (2) |  | A-0[^a] | A-0 | A-0 | A-0 | A-0 | A-15 | A-15 | A-0[^c] | A-0 | A-15 | A-30 | A-15 | A-30 |
 | Korridorer | (3) |  |  | B-15 | A-60 | A-0 | B-15 | B-15 | B-15 | B-15 | A-0 | A-15 | A-30 | A-0 | A-30 |
-| Evakueringsstasjoner og utvendige rømningsveier | (4) |  |  |  |  | A-0 | A-60b d | A-60b d | A-60b d | A-0d | A-0 | A-60b | A-60b | A-60b | A-60b |
+| Evakueringsstasjoner og utvendige rømningsveier | (4) |  |  |  |  | A-0 | A-60[^b] [^d] | A-60[^b] [^d] | A-60[^b] [^d] | A-0[^d] | A-0 | A-60[^b] | A-60[^b] | A-60[^b] | A-60[^b] |
 | Åpne plasser på dekk | (5) |  |  |  |  | – | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med liten brannrisiko | (6) |  |  |  |  |  | B-0 | B-0 | B-0 | C | A-0 | A-0 | A-30 | A-0 | A-30 |
 | Rom i innredningen med moderat brannrisiko | (7) |  |  |  |  |  |  | B-0 | B-0 | C | A-0 | A-15 | A-60 | A-15 | A-60 |
 | Rom i innredningen med større brannrisiko | (8) |  |  |  |  |  |  |  | B-0 | C | A-0 | A-30 | A-60 | A-15 | A-60 |
 | Sanitærrom og lignende rom | (9) |  |  |  |  |  |  |  |  | C | A-0 | A-0 | A-0 | A-0 | A-0 |
-| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-0 | A-0 | A-0 |
-| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-0 | A-15 |
-| Maskinrom og hovedbysser | (12) |  |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 | A-60 |
-| Lagerrom, verksteder, penterier osv. | (13) |  |  |  |  |  |  |  |  |  |  |  |  | A-0a | A-0 |
+| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 | A-0 | A-0 | A-0 |
+| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) |  |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 | A-0 | A-15 |
+| Maskinrom og hovedbysser | (12) |  |  |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 | A-60 |
+| Lagerrom, verksteder, penterier osv. | (13) |  |  |  |  |  |  |  |  |  |  |  |  | A-0[^a] | A-0 |
 | Andre rom der brannfarlige væsker oppbevares | (14) |  |  |  |  |  |  |  |  |  |  |  |  |  | A-30 |
 
 *Tabell 9.2
@@ -7685,16 +7685,16 @@ Dekk som verken danner trinn i vertikale hovedsoner eller avgrenser horisontale 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kontrollstasjoner | (1) | A-30 | A-30 | A-15 | A-0 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0 | A-60 | A-0 | A-60 |
 | Trapper | (2) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
-| Korridorer | (3) | A-15 | A-0 | A-0a | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
+| Korridorer | (3) | A-15 | A-0 | A-0[^a] | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-30 | A-0 | A-30 |
 | Evakueringsstasjoner og utvendige rømningsveier | (4) | A-0 | A-0 | A-0 | A-0 | – | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Åpne plasser på dekk | (5) | A-0 | A-0 | A-0 | A-0 | – | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med liten brannrisiko | (6) | A-60 | A-15 | A-0 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med moderat brannrisiko | (7) | A-60 | A-15 | A-15 | A-60 | A-0 | A-0 | A-15 | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Rom i innredningen med større brannrisiko | (8) | A-60 | A-15 | A-15 | A-60 | A-0 | A-15 | A-15 | A-30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Sanitærrom og lignende rom | (9) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
-| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0a | A-0 | A-0 | A-0 | A-0 |
-| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) | A-60 | A-60 | A-60 | A-60 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0a | A-0 | A-0 | A-30 |
-| Maskinrom og hovedbysser | (12) | A-60 | A-60 | A-60 | A-60 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-30 | A-30a | A-0 | A-60 |
+| Tanker, tomrom og rom for hjelpemaskineri med liten eller ingen brannrisiko | (10) | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0[^a] | A-0 | A-0 | A-0 | A-0 |
+| Rom for hjelpemaskineri, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannrisiko | (11) | A-60 | A-60 | A-60 | A-60 | A-0 | A-0 | A-15 | A-30 | A-0 | A-0 | A-0[^a] | A-0 | A-0 | A-30 |
+| Maskinrom og hovedbysser | (12) | A-60 | A-60 | A-60 | A-60 | A-0 | A-60 | A-60 | A-60 | A-0 | A-0 | A-30 | A-30[^a] | A-0 | A-60 |
 | Lagerrom, verksteder, penterier osv. | (13) | A-60 | A-30 | A-15 | A-60 | A-0 | A-15 | A-30 | A-30 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 | Andre rom der brannfarlige væsker oppbevares | (14) | A-60 | A-60 | A-60 | A-60 | A-0 | A-30 | A-60 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 |
 
@@ -7822,18 +7822,18 @@ Brannmotstand for skott som skiller tilstøtende rom*
 
 | *Rom under* ↓ *Rom over* → |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | A-0c | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | \* | A-60 |
-| Korridorer | (2) |  | Ce | B-0e | A-0a | B-0e | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e |  |  |  |  | A-0d |  |  |
-| Rom i innredningen | (3) |  |  | Ce | A-0a | B-0e | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e |  |  |  |  | A-0d |  | A-0d |
-| Trapper | (4) |  |  |  | A-0a | A-0a | A-60 | A-0 | A-0 | A-15 | \* | A-30 |
-|  |  |  |  |  | B-0e | B-0e |  |  |  | A-0d |  |  |
-| Arbeidsrom (lav risiko) | (5) |  |  |  |  | Ce | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Maskinrom av kategori A | (6) |  |  |  |  |  | \* | A-0 | A-0 | A-60 | \* | A-60 |
-| Andre maskinrom | (7) |  |  |  |  |  |  | A-0b | A-0 | A-0 | \* | A-0 |
-| Lasterom | (8) |  |  |  |  |  |  |  | \* | A-0 | \* | A-0 |
-| Arbeidsrom (høy risiko) | (9) |  |  |  |  |  |  |  |  | A-0b | \* | A-30 |
+| Kontrollstasjoner | (1) | A-0[^c] | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | [^\*] | A-60 |
+| Korridorer | (2) |  | C[^e] | B-0[^e] | A-0[^a] | B-0[^e] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] |  |  |  |  | A-0[^d] |  |  |
+| Rom i innredningen | (3) |  |  | C[^e] | A-0[^a] | B-0[^e] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] |  |  |  |  | A-0[^d] |  | A-0[^d] |
+| Trapper | (4) |  |  |  | A-0[^a] | A-0[^a] | A-60 | A-0 | A-0 | A-15 | [^\*] | A-30 |
+|  |  |  |  |  | B-0[^e] | B-0[^e] |  |  |  | A-0[^d] |  |  |
+| Arbeidsrom (lav risiko) | (5) |  |  |  |  | C[^e] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Maskinrom av kategori A | (6) |  |  |  |  |  | [^\*] | A-0 | A-0 | A-60 | [^\*] | A-60 |
+| Andre maskinrom | (7) |  |  |  |  |  |  | A-0[^b] | A-0 | A-0 | [^\*] | A-0 |
+| Lasterom | (8) |  |  |  |  |  |  |  | [^\*] | A-0 | [^\*] | A-0 |
+| Arbeidsrom (høy risiko) | (9) |  |  |  |  |  |  |  |  | A-0[^b] | [^\*] | A-30 |
 | Åpent dekk | (10) |  |  |  |  |  |  |  |  |  |  | A-0 |
 | Spesiallasterom og roro-lasterom | (11) |  |  |  |  |  |  |  |  |  |  | A-30 |
 
@@ -7842,20 +7842,20 @@ Brannmotstand for dekk som skiller tilstøtende rom*
 
 | *Rom under* ↓ *Rom over* → |  | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kontrollstasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-| Korridorer | (2) | A-0 | \* | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Rom i innredningen | (3) | A-60 | A-0 | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-|  |  |  |  |  |  |  |  |  |  |  |  | A-0d |
-| Trapper | (4) | A-0 | A-0 | A-0 | \* | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Arbeidsrom (lav risiko) | (5) | A-15 | A-0 | A-0 | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* | A-0 |
-| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | \* | A-60f | A-30 | A-60 | \* | A-60 |
-| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | A-0 | \* | A-0 |
-| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | \* | A-0 |
-| Arbeidsrom (høy risiko) | (9) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-0 | \* | A-30 |
-|  |  |  | A-0d | A-0d | A-0d |  |  |  |  |  |  |  |
-| Åpent dekk | (10) | \* | \* | \* | \* | \* | \* | \* | \* | \* | – | A-0 |
+| Kontrollstasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+| Korridorer | (2) | A-0 | [^\*] | [^\*] | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Rom i innredningen | (3) | A-60 | A-0 | [^\*] | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+|  |  |  |  |  |  |  |  |  |  |  |  | A-0[^d] |
+| Trapper | (4) | A-0 | A-0 | A-0 | [^\*] | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Arbeidsrom (lav risiko) | (5) | A-15 | A-0 | A-0 | A-0 | [^\*] | A-60 | A-0 | A-0 | A-0 | [^\*] | A-0 |
+| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | [^\*] | A-60[^f] | A-30 | A-60 | [^\*] | A-60 |
+| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | [^\*] | A-0 | A-0 | [^\*] | A-0 |
+| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | [^\*] | A-0 | [^\*] | A-0 |
+| Arbeidsrom (høy risiko) | (9) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-0 | [^\*] | A-30 |
+|  |  |  | A-0[^d] | A-0[^d] | A-0[^d] |  |  |  |  |  |  |  |
+| Åpent dekk | (10) | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | [^\*] | – | A-0 |
 | Spesiallasterom og roro-lasterom | (11) | A-60 | A-30 | A-30 | A-30 | A-0 | A-60 | A-0 | A-0 | A-30 | A-0 | A-30 |
-|  |  |  |  | A-0d |  |  |  |  |  |  |  |  |
+|  |  |  |  | A-0[^d] |  |  |  |  |  |  |  |  |
 
 Noter til tabell 9.3 og 9.4.
 
@@ -9465,7 +9465,7 @@ Flaggstatens myndighet kan tillate bruk av andre fastmonterte brannslokkingsanle
 
 I betraktning av det alvorlige tap av stabilitet som vil kunne oppstå som følge av oppsamling av store vannmengder på dekket eller dekkene når det fastmonterte vannforstøvingssystemet trer i virksomhet, skal følgende arrangementer finnes:
 
-- I spesiallasterom og roro-lasterom over skottdekket skal det være montert spygatt for å sikre at slikt vann får hurtig og direkte avløp over bord, idet det tas hensyn til retningslinjene i IMO MSC.1/Circ.1320 «Drainage of fire-fighting water from enclosed vehicle and ro-ro spaces and special category spaces for passenger and cargo ships», med endringer1.
+- I spesiallasterom og roro-lasterom over skottdekket skal det være montert spygatt for å sikre at slikt vann får hurtig og direkte avløp over bord, idet det tas hensyn til retningslinjene i IMO MSC.1/Circ.1320 «Drainage of fire-fighting water from enclosed vehicle and ro-ro spaces and special category spaces for passenger and cargo ships», med endringer[^1].
 
   - Avløpsventiler for spygatt, utstyrt med lukkemidler som kan betjenes fra et sted over skottdekket i samsvar med kravene i gjeldende internasjonale konvensjon om lastelinjer, skal holdes åpne når skipet er i sjøen.
   - Enhver betjening av ventilene nevnt i nr. 6.1.4.1.2.1 skal noteres i skipsdagboken.
@@ -9529,13 +9529,13 @@ Skip som ikke fører en livbåt eller MOB-båt, skal for redningsformål være u
 | *Skipets klasse:* | *B* |  | *C* |  | *D* |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Antall personer (N)<br>Antall passasjerer (P) | > 250 | ≤ 250 | > 250 | ≤ 250 | > 250 | ≤ 250 |
-| Redningsfarkostenes kapasitet:1 2 3 4 | 1,25 N | 1,25 N | 1,25 N | 1,25 N | 1,25 N | 1,25 N |
-| MOB-båter4 5 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Livbøyer6 | 8 | 8 | 8 | 4 | 8 | 4 |
-| Redningsvester8 9 12 13 | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N |
-| Redningsvester for barn9 13 | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P |
-| Redningsvester for spedbarn10 13 | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P |
-| Nødbluss7 | 12 | 12 | 12 | 12 | 6 | 6 |
+| Redningsfarkostenes kapasitet:[^1] [^2] [^3] [^4] | 1,25 N | 1,25 N | 1,25 N | 1,25 N | 1,25 N | 1,25 N |
+| MOB-båter[^4] [^5] | 1 | 1 | 1 | 1 | 1 | 1 |
+| Livbøyer[^6] | 8 | 8 | 8 | 4 | 8 | 4 |
+| Redningsvester[^8] [^9] [^12] [^13] | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N | 1,05 N |
+| Redningsvester for barn[^9] [^13] | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P | 0,10 P |
+| Redningsvester for spedbarn[^10] [^13] | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P | 0,025 P |
+| Nødbluss[^7] | 12 | 12 | 12 | 12 | 6 | 6 |
 | Linekastingsapparater | 1 | 1 | 1 | 1 | – | – |
 | Radartranspondere | 1 | 1 | 1 | 1 | 1 | 1 |
 | Toveis VHF-radiotelefonapparat | 3 | 3 | 3 | 3 | 3 | 2 |
@@ -9932,7 +9932,7 @@ Arrangementer for innskiping i og ombordtaking av MOB-båter skal muliggjøre si
 
 .1
 
-Alle skip skal ha skipsspesifikke planer og prosedyrer for ombordtaking av personer fra vannet, idet det tas hensyn til IMOs retningslinjer\*. I planene og prosedyrene skal det angis hvilket utstyr som skal brukes for dette formål, og tiltak som skal treffes for å minimere risikoen for personell om bord som deltar i ombordtakingen.
+Alle skip skal ha skipsspesifikke planer og prosedyrer for ombordtaking av personer fra vannet, idet det tas hensyn til IMOs retningslinjer[^\*]. I planene og prosedyrene skal det angis hvilket utstyr som skal brukes for dette formål, og tiltak som skal treffes for å minimere risikoen for personell om bord som deltar i ombordtakingen.
 
 .2
 
@@ -10358,12 +10358,12 @@ Opplysninger som skal inngå i underretningen i samsvar med § 8B første ledd.
 
    1. dl, dp, ds
    2. R – obligatorisk faktor
-   3. Oversiktsplan (plan for vanntett integritet) for underavdelingene med alle innvendige og utvendige åpningspunkter inkludert underavdelinger som er forbundet med dem, og opplysninger som brukes ved måling av mellomrommene, slik som plan over generell utforming og plassering av tanker. Grensene for langsgående, tverrgående og vertikale inndelinger må inkluderes1.
-   4. Oppnådd oppdelingsfaktor A med en oppsummeringstabell for alle bidrag for alle skadede soner2 med en egen kolonne med den oppnåelige oppdelingsfaktoren (w\*p\*v).
+   3. Oversiktsplan (plan for vanntett integritet) for underavdelingene med alle innvendige og utvendige åpningspunkter inkludert underavdelinger som er forbundet med dem, og opplysninger som brukes ved måling av mellomrommene, slik som plan over generell utforming og plassering av tanker. Grensene for langsgående, tverrgående og vertikale inndelinger må inkluderes[^1].
+   4. Oppnådd oppdelingsfaktor A med en oppsummeringstabell for alle bidrag for alle skadede soner[^2] med en egen kolonne med den oppnåelige oppdelingsfaktoren (w\*p\*v).
    5. For tilfeller av skader i én eller to soner, prosentandelen av skadetilfeller som ikke ble undersøkt (dvs. tilfeller som ikke er inkludert i faktoren (w\*p\*v)), ders = 0,s = 1 og 0 < s < 1.
    6. For tilfeller av skader i én eller to soner, prosentandelen av skadetilfeller som involverer roro-rom som ikke ble undersøkt (dvs. tilfeller som ikke er inkludert i faktoren (w\*p\*v)), ders = 0,s = 1 og 0 < s < 1.
-   7. For hver skade som bidrar til den oppnådde oppdelingsfaktoren A, identifikasjon av vannfylte rom, bidragsverdi og faktor «s»3.
-   8. Opplysninger om ikke-bidragsytende skader (s = 0 og p > 0) for roro-passasjerskip utstyrt med lange lavtliggende laste-rom, herunder fullstendige opplysninger om de beregnede faktorene4.
+   7. For hver skade som bidrar til den oppnådde oppdelingsfaktoren A, identifikasjon av vannfylte rom, bidragsverdi og faktor «s»[^3].
+   8. Opplysninger om ikke-bidragsytende skader (s = 0 og p > 0) for roro-passasjerskip utstyrt med lange lavtliggende laste-rom, herunder fullstendige opplysninger om de beregnede faktorene[^4].
 3. Særskilte opplysninger – for roro-passasjerskip som anvender vedlegg I avsnitt A
 
    1. Samsvarsmetode:

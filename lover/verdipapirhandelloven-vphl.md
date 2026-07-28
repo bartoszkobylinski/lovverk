@@ -15,7 +15,7 @@ xml_hash: "a91120ad09ddc254955a31ef3af399f0d88fab649dd6b494d7e0cde012dd13ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014R0596"
@@ -561,7 +561,7 @@ Departementet kan i forskrift fastsette at rapporteringsplikten etter første le
    1. halvårsregnskapet, etter deres beste overbevisning, er utarbeidet i samsvar med gjeldende regnskapsstandarder og at opplysningene i regnskapet gir et rettvisende bilde av foretaket og konsernets eiendeler, gjeld, finansielle stilling og resultat som helhet, samt at
    2. halvårsberetningen, etter deres beste overbevisning, gir en rettvisende oversikt over opplysningene nevnt i fjerde ledd.
 
-(3) Utsteder som er pliktig å utarbeide konsernregnskap etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) første og annet ledd, etter nasjonal lovgivning som gjennomfører forordning [(EF) nr. 1606/2002](eu/32002r1606)1 eller tilsvarende regler i land utenfor EØS, skal ved utarbeiding av halvårsregnskapet benytte den internasjonale regnskapsstandard for delårsregnskaper. Dersom utsteder ikke er forpliktet til å utarbeide konsernregnskap, skal halvårsregnskapet minst inneholde sammenfattede balansetall, sammenfattede tall over inntekt og tap og forklarende noter vedrørende disse tallene. Ved utarbeidelsen av halvårsregnskapet skal utsteder benytte samme krav til prinsippanvendelse for innregning og måling som ved utarbeidelse av årsregnskapet.
+(3) Utsteder som er pliktig å utarbeide konsernregnskap etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) første og annet ledd, etter nasjonal lovgivning som gjennomfører forordning [(EF) nr. 1606/2002](eu/32002r1606)[^1] eller tilsvarende regler i land utenfor EØS, skal ved utarbeiding av halvårsregnskapet benytte den internasjonale regnskapsstandard for delårsregnskaper. Dersom utsteder ikke er forpliktet til å utarbeide konsernregnskap, skal halvårsregnskapet minst inneholde sammenfattede balansetall, sammenfattede tall over inntekt og tap og forklarende noter vedrørende disse tallene. Ved utarbeidelsen av halvårsregnskapet skal utsteder benytte samme krav til prinsippanvendelse for innregning og måling som ved utarbeidelse av årsregnskapet.
 
 (4) Halvårsberetningen skal minst inneholde opplysninger om viktige begivenheter i regnskapsperioden og deres innflytelse på halvårsregnskapet. Det skal i tillegg gis en beskrivelse av de mest sentrale risiko- og usikkerhetsfaktorer virksomheten står overfor i neste regnskapsperiode. For aksjeutstedere skal halvårsberetningen inneholde en beskrivelse av nærståendes vesentlige transaksjoner.
 
@@ -575,7 +575,7 @@ Departementet kan i forskrift fastsette at rapporteringsplikten etter første le
 
 ### § 5-7. Utstedere fra land utenfor EØS
 
-Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](eu/32004l0109)1 artikkel 23. Departementet kan dessuten bestemme at nasjonal lovgivning som gjennomfører artikkel 10 i direktiv [2004/25/EF](eu/32004l0025)2 og artikkel 1 og 2 i direktiv [2006/46/EF](eu/32006l0046) skal gjelde tilsvarende for utstedere fra land utenfor EØS.
+Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](eu/32004l0109)[^1] artikkel 23. Departementet kan dessuten bestemme at nasjonal lovgivning som gjennomfører artikkel 10 i direktiv [2004/25/EF](eu/32004l0025)[^2] og artikkel 1 og 2 i direktiv [2006/46/EF](eu/32006l0046) skal gjelde tilsvarende for utstedere fra land utenfor EØS.
 
 > Endret ved lov [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)).
 
@@ -832,7 +832,7 @@ Hvis et erverv etter selskapets vedtekter er avhengig av styrets samtykke, anses
 
 (3) Etter at tilbudet er godkjent, skal den tilbudspliktige og selskapet gjøre tilbudet kjent for sine ansatte.
 
-(4) Tilbudsdokument som er godkjent av kontrollmyndigheten i en annen EØS-stat, skal anses godkjent fra det tidspunkt det foreligger melding fra EØS-staten om at tilbudsdokumentet er utarbeidet i samsvar med nasjonale regler som gjennomfører direktiv [2004/25/EF](eu/32004l0025),1 og godkjent av kontrollmyndigheten i vedkommende EØS-stat. Tilbudsmyndigheten kan likevel stille krav om at tilbudsdokumentet oversettes.
+(4) Tilbudsdokument som er godkjent av kontrollmyndigheten i en annen EØS-stat, skal anses godkjent fra det tidspunkt det foreligger melding fra EØS-staten om at tilbudsdokumentet er utarbeidet i samsvar med nasjonale regler som gjennomfører direktiv [2004/25/EF](eu/32004l0025),[^1] og godkjent av kontrollmyndigheten i vedkommende EØS-stat. Tilbudsmyndigheten kan likevel stille krav om at tilbudsdokumentet oversettes.
 
 1 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.
 
@@ -863,11 +863,11 @@ Tilbudsmyndigheten kan kreve gebyr av tilbyder til dekning av utgifter ved godkj
 
 (3) Selskapets generalforsamling kan gjennom vedtekt fastsette at EØS-regler som svarer til direktiv [2004/25/EF](eu/32004l0025) artikkel 9(2) og (3), jf. artikkel 12(2), skal gjelde for selskapet.
 
-(4) Selskapets generalforsamling kan gjennom vedtekt også fastsette at EØS-regler som svarer til direktiv [2004/25/EF](eu/32004l0025)1 artikkel 11, jf. artikkel 12(2), skal gjelde. I et eventuelt vedtak etter første punktum skal selskapets generalforsamling fastsette de nærmere betingelser for beregning og utbetaling av erstatning i henhold til artikkel 11(5) i samme direktiv.
+(4) Selskapets generalforsamling kan gjennom vedtekt også fastsette at EØS-regler som svarer til direktiv [2004/25/EF](eu/32004l0025)[^1] artikkel 11, jf. artikkel 12(2), skal gjelde. I et eventuelt vedtak etter første punktum skal selskapets generalforsamling fastsette de nærmere betingelser for beregning og utbetaling av erstatning i henhold til artikkel 11(5) i samme direktiv.
 
 (5) Selskaper som har fattet vedtak i henhold til tredje og fjerde ledd, skal melde vedtaket til tilbudsmyndigheten, samt til de kompetente myndigheter i andre medlemsstater der selskapet er opptatt til notering på et regulert marked, eller hvor det er anmodet om slik notering.
 
-(6) Innkalling til generalforsamling for beslutning av vedtektsfestede tiltak som nevnt i tredje og fjerde ledd kan, uten hensyn til fristen for innkalling til generalforsamling etter [allmennaksjeloven § 5-11 b](lov/1997-06-13-45/§5-11b) nr. 1, sendes aksjeeierne senest to uker før møtet skal holdes.2 Vedtektene kan sette en lengre frist for innkalling til generalforsamling for beslutning av vedtak som nevnt i fjerde ledd.
+(6) Innkalling til generalforsamling for beslutning av vedtektsfestede tiltak som nevnt i tredje og fjerde ledd kan, uten hensyn til fristen for innkalling til generalforsamling etter [allmennaksjeloven § 5-11 b](lov/1997-06-13-45/§5-11b) nr. 1, sendes aksjeeierne senest to uker før møtet skal holdes.[^2] Vedtektene kan sette en lengre frist for innkalling til generalforsamling for beslutning av vedtak som nevnt i fjerde ledd.
 
 > Endret ved lov [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)).
 
@@ -3698,7 +3698,7 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 (7) Dersom beslutningen om administrativ inndragning ikke vedtas, kan Finanstilsynet innen tre måneder etter utløpet av vedtaksfristen reise sak mot vedkommende i den rettskrets der vedkommende kan saksøkes. Saken følger tvisteloven. Megling i forliksrådet er ikke nødvendig.
 
-(8) Det skal gjøres fradrag i kravet om administrativ inndragning for beløp som den ansvarlige etter dom er forpliktet til å betale tilbake til den skadelidte. Det samme gjelder hvis vedkommende på forhånd har foretatt slik tilbakebetaling og godtgjør at tilbakebetaling har funnet sted. Dersom dom som nevnt i første punktum avsies etter at vinning er inndratt, og den ansvarlige ikke har midler til å dekke kravet, skal den inndratte vinningen tilbakeføres til skadelidte i den grad det er nødvendig for å betale det beløpet som er fastsatt i dommen.1
+(8) Det skal gjøres fradrag i kravet om administrativ inndragning for beløp som den ansvarlige etter dom er forpliktet til å betale tilbake til den skadelidte. Det samme gjelder hvis vedkommende på forhånd har foretatt slik tilbakebetaling og godtgjør at tilbakebetaling har funnet sted. Dersom dom som nevnt i første punktum avsies etter at vinning er inndratt, og den ansvarlige ikke har midler til å dekke kravet, skal den inndratte vinningen tilbakeføres til skadelidte i den grad det er nødvendig for å betale det beløpet som er fastsatt i dommen.[^1]
 
 (9) Adgangen for Finanstilsynet til å treffe beslutning om administrativ inndragning foreldes ti år etter at overtredelsen er opphørt. Fristen avbrytes ved at Finanstilsynet gir forhåndsvarsel eller treffer beslutning om administrativ inndragning.
 
@@ -3996,7 +3996,7 @@ Ved avgjørelsen av om en administrativ sanksjon skal ilegges og ved utmåling k
 
 ### § 22-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Kongen kan fastsette virkningstidspunkt for bestemmelsene i [lovens §§ 5-5](lov/2007-06-29-75/§5-5) og [5-6](lov/2007-06-29-75/§5-6).
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Kongen kan fastsette virkningstidspunkt for bestemmelsene i [lovens §§ 5-5](lov/2007-06-29-75/§5-5) og [5-6](lov/2007-06-29-75/§5-6).
 
 > Endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 18-1).
 
@@ -4026,7 +4026,7 @@ Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de en
 
 ### § 23-1. Endringer i andre lover
 
-Fra den tid1 loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+Fra den tid[^1] loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 19-1).
 

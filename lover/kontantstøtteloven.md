@@ -15,7 +15,7 @@ xml_hash: "bfd68a77f9f826b1e1b6facb62d545687a0a298a994f96d650ad430dc74b88b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -170,7 +170,7 @@ Søknad om kontantstøtte avgjøres av det organ som Arbeids- og velferdsdirekto
 
 ### § 16. Opplysningsplikt
 
-Søkeren plikter å gi de opplysninger og levere de erklæringer og attester som er nødvendige for at Arbeids- og velferdsetaten skal kunne avgjøre om vedkommende har rett til kontantstøtte. Arbeids- og velferdsetaten fører kontroll med de opplysninger søkeren har gitt, jf. [barnehageloven § 8](lov/2005-06-17-64/§8).1
+Søkeren plikter å gi de opplysninger og levere de erklæringer og attester som er nødvendige for at Arbeids- og velferdsetaten skal kunne avgjøre om vedkommende har rett til kontantstøtte. Arbeids- og velferdsetaten fører kontroll med de opplysninger søkeren har gitt, jf. [barnehageloven § 8](lov/2005-06-17-64/§8).[^1]
 
 > Endret ved lover [21 des 2005 nr. 122](lov/2005-12-21-122) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 

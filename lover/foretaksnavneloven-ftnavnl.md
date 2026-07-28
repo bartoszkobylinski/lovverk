@@ -15,7 +15,7 @@ xml_hash: "d277547a17423b45ce02841adf330cc88b4cb3ce816861480e678a3324ad9d98"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -350,7 +350,7 @@ Er bruken skjedd i god tro, kan retten i den utstrekning det finnes rimelig, på
 
 Partsangivelse ved foretaksnavn i dokumenter skal skje ved at det fulle foretaksnavn skrives med tydelig leselige bokstaver, stemples e.l., og at den eller de signaturberettigede egenhendig skriver sitt navn.
 
-Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller konkurs hos innehaveren av et foretaksnavn skal foretaksnavnet ved tegning av foretaksnavnet gis en tilføyelse som angir dette, jf. [foretaksregisterloven § 7-2](lov/2025-06-20-106/§7-2).1
+Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller konkurs hos innehaveren av et foretaksnavn skal foretaksnavnet ved tegning av foretaksnavnet gis en tilføyelse som angir dette, jf. [foretaksregisterloven § 7-2](lov/2025-06-20-106/§7-2).[^1]
 
 > Endret ved lover [27 nov 1992 nr. 118](lov/1992-11-27-118), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [19 juni 2015 nr. 77](lov/2015-06-19-77) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 675](forskrift/2015-06-19-675)), [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -360,7 +360,7 @@ Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller k
 
 ### § 8-1
 
-Loven tar til å gjelde fra den tid1 Kongen bestemmer.
+Loven tar til å gjelde fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 1988 iflg. [res. 18 des 1987 nr. 963](forskrift/1987-12-18-963).
 

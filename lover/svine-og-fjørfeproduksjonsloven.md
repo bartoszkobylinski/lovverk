@@ -15,7 +15,7 @@ xml_hash: "c952a69ff0a6fd9d8508bce46baaaaf663fa667b52d204ae536fe185c4eb5bfa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,6 +90,6 @@ Den som forsettlig eller uaktsomt overtrer loven eller forskrifter gitt i medhol
 
 ## § 12. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves [lov 13. juni 1975 nr. 46](lov/1975-06-13-46) om regulering av ervervsmessig husdyrhold.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Fra samme tid oppheves [lov 13. juni 1975 nr. 46](lov/1975-06-13-46) om regulering av ervervsmessig husdyrhold.
 
 1 Fra 1 apr 2004 iflg. [res. 16 jan 2004 nr. 92](forskrift/2004-01-16-92).

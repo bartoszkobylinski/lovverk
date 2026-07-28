@@ -15,13 +15,13 @@ xml_hash: "d02b0ccd2bc9e301bac9093478b4b0d4284ae14a19d04341467992e528b925b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet til Finansdepartementet etter sentralbankloven § 11 fjerde ledd.
 
-Kongens myndighet etter lovvedtaket del V til å fastsette forskrifter delegeres til Finansdepartementet.1
+Kongens myndighet etter lovvedtaket del V til å fastsette forskrifter delegeres til Finansdepartementet.[^1]
 
 1 Kongens myndighet etter [lov 24. mai 1985 nr. 28](lov/1985-05-24-28) om Norges Bank og pengevesenet mv. (sentralbankloven) [§ 11](lov/1985-05-24-28/§11) fjerde ledd, jf. [lov 16. mars 2007 nr. 11](lov/2007-03-16-11) om endringer i finanslovgivningen mv. (forvalterregistrering av aksjer, obligasjoner med fortrinnsrett, mv.) del V til å fastsette forskrifter, delegeres til Finansdepartementet.

@@ -15,7 +15,7 @@ xml_hash: "fecdf638884a97b420b3f916f034db999c456756af373b926b833769499440ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,7 +69,7 @@ Loven trer i kraft straks.
 
 ## Vedlegg 1. Den europeiske menneskerettskonvensjon med protokoller (autentisk engelsk tekst)
 
-### Convention for the Protection of Human Rights and Fundamental Freedoms1
+### Convention for the Protection of Human Rights and Fundamental Freedoms[^1]
 
 1 Teksten er for Norges del endret i samsvar med bestemmelsene i protokoll 15, som trådte ikr. 1 august 2021. (Protokoll 15 har tatt opp i seg tidligere endringsprotokoller, herunder protokollene 2, 3, 5, 8, 9, 11 og 14).
 
@@ -359,7 +359,7 @@ The Court may receive applications from any person, non-governmental organisatio
 
 ### Art 35. Admissibility criteria
 
-1\. The Court may only deal with the matter after all domestic remedies have been exhausted, according to the generally recognised rules of international law, and within a period of four1 months from the date on which the final decision was taken.
+1\. The Court may only deal with the matter after all domestic remedies have been exhausted, according to the generally recognised rules of international law, and within a period of four[^1] months from the date on which the final decision was taken.
 
 2\. The Court shall not deal with any application submitted under Article 34 that
 
@@ -878,7 +878,7 @@ In witness whereof the undersigned, being duly authorised thereto, have signed t
 
 Done at Vilnius, this 3 May 2002, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe.
 
-## Vedlegg 2. Den europeiske menneskerettskonvensjon med protokoller (norsk oversettelse)1
+## Vedlegg 2. Den europeiske menneskerettskonvensjon med protokoller (norsk oversettelse)[^1]
 
 1 Teksten er for Norges del endret i samsvar med bestemmelsene i protokoll 15, som trådte ikr. 1 august 2021. (Protokoll 15 har tatt opp i seg tidligere endringsprotokoller, herunder protokollene 2, 3, 5, 8, 9, 11 og 14).
 
@@ -1170,7 +1170,7 @@ Domstolen kan motta klager fra enhver person, frivillig organisasjon eller grupp
 
 ### Art 35. Saker som kan prøves
 
-1\. Domstolen kan bare behandle en sak etter at alle nasjonale rettsmidler er uttømt, i samsvar med allment anerkjente folkerettslige regler, og innen et tidsrom på fire1 måneder etter at siste avgjørelse ble tatt.
+1\. Domstolen kan bare behandle en sak etter at alle nasjonale rettsmidler er uttømt, i samsvar med allment anerkjente folkerettslige regler, og innen et tidsrom på fire[^1] måneder etter at siste avgjørelse ble tatt.
 
 2\. Domstolen skal ikke behandle en individklage som er innbrakt i samsvar med artikkel 34 og som
 
@@ -7086,7 +7086,7 @@ Den arabiske, engelske, franske, kinesiske, russiske og spanske teksten til denn
 
 Til bekreftelse på dette har de undertegnede, med behørig fullmakt fra sine respektive regjeringer, undertegnet denne konvensjon.
 
-## Vedlegg 13. Den europeiske menneskerettskonvensjonen med protokoller (nordsamisk oversettelse)1
+## Vedlegg 13. Den europeiske menneskerettskonvensjonen med protokoller (nordsamisk oversettelse)[^1]
 
 Dán Eurohpá olmmošvuoigatvuođakonvenšuvnna jorgalusas leat ođđaseamos rievdadusat maid jorgaluvvon, gitta ja oktan 15 protokollain.
 (Denne oversettelsen av Den europeiske menneskerettskonvensjonen er à jour til og med endringer ved protokoll 15.)
@@ -7095,7 +7095,7 @@ Se her for å lese konvensjonen på nordsamisk: [pdf-lenke](static/NL/nl-1999052
 
 1 Konvensjonen er oversatt av Inger-Marie Oskal. Oversettelsen ble tilføyd som vedlegg 9. juni 2023 av Lovdata.
 
-## Vedlegg 14. FNs konvensjon om barnets rettigheter med protokoller (nordsamisk oversettelse)1
+## Vedlegg 14. FNs konvensjon om barnets rettigheter med protokoller (nordsamisk oversettelse)[^1]
 
 ON´ konvenšuvdna máná vuoigatvuođaid birra.
 (FNs konvensjon om barns rettigheter.)

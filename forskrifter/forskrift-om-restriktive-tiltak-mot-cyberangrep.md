@@ -15,7 +15,7 @@ xml_hash: "f49d9b65f48f699a602153893f917e125f674e51b30b88e9e2f943efdbd456cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -321,7 +321,7 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 ### VEDLEGG I
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 3
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
 
 Listeførte med programkode («programme») CYB – CYBER-ATTACKS er listeført under denne forskriften.
 

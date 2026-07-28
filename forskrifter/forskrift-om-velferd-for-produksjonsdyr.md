@@ -15,7 +15,7 @@ xml_hash: "0545eabba47eb299ebd26ea8661ca1599c3ec7b69ef36e1854cd3db7088caba9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -99,7 +99,7 @@ Utstyr og innredning som benyttes i forbindelse med fôr- og drikkevannforsyning
 
 ## § 11. Tilføring av substanser
 
-Ingen legemidler eller andre substanser skal tilføres dyr, unntatt dersom formålet er behandlende eller forebyggende eller er en zooteknisk behandling som, bl.a., inkluderer brunstsynkronisering og forberedelse av giver og mottaker i forbindelse med embryoimplantasjon.1
+Ingen legemidler eller andre substanser skal tilføres dyr, unntatt dersom formålet er behandlende eller forebyggende eller er en zooteknisk behandling som, bl.a., inkluderer brunstsynkronisering og forberedelse av giver og mottaker i forbindelse med embryoimplantasjon.[^1]
 
 Dette gjelder ikke dersom etablert erfaring eller vitenskapelig undersøkelse viser at substansen ikke har skadelige virkninger på dyrets helse eller velferd.
 

@@ -15,7 +15,7 @@ xml_hash: "0d0a7c114edc220ff993fbaf849b9330c07f79314afb673ccd52e235822c010d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0040"
@@ -33,13 +33,13 @@ Ny [§ 36 a](lov/1973-03-09-14/§36a) skal lyde:
 
 – – –
 
-[§ 40 a](lov/1973-03-09-14/§40a) nytt annet til fjerde ledd skal lyde:1
+[§ 40 a](lov/1973-03-09-14/§40a) nytt annet til fjerde ledd skal lyde:[^1]
 
 1 Endring ble satt i kraft før § 40a var tilføyd.
 
 ## II
 
-1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid.
 2. Kongen kan gi overgangsbestemmelser.
 
 1 Fra 1. november 2020 med unntak av tobakksskadeloven nytt kapittel 3A og ny § 36a iflg. [res. 23 okt 2020 nr. 2122](forskrift/2020-10-23-2122).

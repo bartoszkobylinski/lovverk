@@ -15,7 +15,7 @@ xml_hash: "321dfa04c4aa929dcb42050c5dd781a881d68f0abe3cc0926ee73edcdd83347a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -261,7 +261,7 @@ Forbrukertilsynet skal utarbeide årsrapport om klagebehandlingen i Forbrukertil
 
 ### § 26. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 17. februar 2017 nr. 7](lov/2017-02-17-7) om Forbrukerklageutvalget.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Fra samme tid oppheves [lov 17. februar 2017 nr. 7](lov/2017-02-17-7) om Forbrukerklageutvalget.
 
 Departementet kan fastsette overgangsregler.
 

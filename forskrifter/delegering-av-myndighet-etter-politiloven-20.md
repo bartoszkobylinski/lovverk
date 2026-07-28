@@ -15,7 +15,7 @@ xml_hash: "3ac348da66e5c4bef186c8b48f9de8e4d7119c8bfc14e48e9758d2c2deeb6eb4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,6 +28,6 @@ Med virkning fra 20. september 2021 delegeres myndighet etter [politiloven § 20
 
 Saker av prinsipiell karakter og mer omfattende endringer av gradssystemet skal forelegges for Justis- og beredskapsdepartementet for godkjenning.
 
-Denne delegeringen av myndighet erstatter den myndigheten som ble gitt til Justis- og beredskapsdepartementet ved kongelig resolusjon 5. august 1994.1
+Denne delegeringen av myndighet erstatter den myndigheten som ble gitt til Justis- og beredskapsdepartementet ved kongelig resolusjon 5. august 1994.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend. Lovtidend-redaksjonens anmerkning.

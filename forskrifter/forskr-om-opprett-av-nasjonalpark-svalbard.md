@@ -15,7 +15,7 @@ xml_hash: "b839efb555c22578e826ddaedbc0bea0acb7afbc145711e686be0eb018f46155"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Disse forskrifter trer i kraft 1. juli 1973. Samtidig oppheves kgl.res. av 23. a
 
 Bestemmelser for Sør-Spitsbergen, Forlandet og Nordvest-Spitsbergen nasjonalparker, Nordaust-Svalbard og Søraust-Svalbard naturreservater samt 15 fuglereservater langs vestkysten av Spitsbergen.
 
-I. Avgrensning.1
+I. Avgrensning.[^1]
 
 1 Grensebeskrivelsene refererer til Norsk Polarinstitutt's kart, Svalbard 1:500.000, førebels utgåve:
 

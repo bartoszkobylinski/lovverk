@@ -15,7 +15,7 @@ xml_hash: "1a06af278222276b7fa4dde1aaac24983529aea99a356a0549b91777ab4ca15d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -526,7 +526,7 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes den som un
 
 ### § 13-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575).
 

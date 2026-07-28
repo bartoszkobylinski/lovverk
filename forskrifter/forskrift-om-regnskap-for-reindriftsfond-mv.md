@@ -15,7 +15,7 @@ xml_hash: "1a68a602d57e9c83d50976ebb8e18c670c07a06a2996c72855e8f0934fb4204f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -107,6 +107,6 @@ Reindriftssjefen kan gi dispensasjon fra denne forskrift.
 
 ## § 16. Ikrafttredelse
 
-Denne forskrift trer i kraft 1. januar 1994. Samtidig oppheves Reindriftsstyrets forskrift om regnskapsføring av reindriftsfond og reinbeitedistriktenes regnskap av 24. mars 1992.1
+Denne forskrift trer i kraft 1. januar 1994. Samtidig oppheves Reindriftsstyrets forskrift om regnskapsføring av reindriftsfond og reinbeitedistriktenes regnskap av 24. mars 1992.[^1]
 
 1 Ikke tidligere kunngjort i Norsk Lovtidend.

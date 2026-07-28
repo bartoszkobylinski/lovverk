@@ -15,7 +15,7 @@ xml_hash: "8c5a4dcd94376f3c25e7ed14099421a81271a7ff5004dc00d0f573a33d33a246"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-15T06:11:59.231506+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -392,7 +392,7 @@ Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold a
 
 Forskriften trer i kraft 15. april 2026.
 
-Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N1.
+Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N[^1].
 
 > Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 29), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 31).
 

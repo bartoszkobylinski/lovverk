@@ -15,7 +15,7 @@ xml_hash: "33bc9d6f990253620efea111b4efb8b70641896babb23a1ffeaf36178210e355"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -974,7 +974,7 @@ Andre minimumsavstander som Direktoratet for samfunnssikkerhet og beredskap kan 
 | *Nominell spenning, V* | *Minimum luftavstander, mm for* |  |
 | --- | --- | --- |
 |  | *Hovedtavler og generatorer* | *Annet utstyr* |
-| < 1.100 | 14\* | 14 |
+| < 1.100 | 14[^\*] | 14 |
 | < 3.300 | 32 | 26 |
 | < 6.600 | 60 | 50 |
 | ≤ 11.000 | 100 | 80 |
@@ -990,7 +990,7 @@ Som tilfredsstillende krypestrømavstander regnes bl.a. følgende minimumsverdie
 | *Nominell spenning V* | *Min. krypestrømavstander, mm for krypestrømindeks* |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | 300 V | 375 V | 500 V | > 600 V |
-| < 1.100 | 26\* | 24\* | 22\* | 20\* |
+| < 1.100 | 26[^\*] | 24[^\*] | 22[^\*] | 20[^\*] |
 | < 3.300 | 63 | 59 | 53 | 48 |
 | < 6.600 | 113 | 108 | 99 | 90 |
 | ≤ 11.000 | 183 | 175 | 162 | 150 |

@@ -15,7 +15,7 @@ xml_hash: "ac1adff136ec4c2d7b1b6582f3e0041273f46662622b24d458e21c697fa9a66b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -339,7 +339,7 @@ Liste med varer nevnt i artikkel 3c
 2. ‘Technology’ ‘required’ for the ‘production’ or ‘use’ of the items listed at paragraphs 1 and 3. (The definitions of the terms ‘technology’, ‘required’, ‘production’ and ‘use’ are from the Common Military List of the European Union)
 3. Explosive materials and precursors, as follows, and mixtures containing one or more thereof:
 
-   | *Name of the substance* | *Chemical Abstracts Service Registry number (CAS RN)* | *Combined Nomenclature (CN) code [1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02003R0147-20240320)* |
+   | *Name of the substance* | *Chemical Abstracts Service Registry number (CAS RN)* | *Combined Nomenclature (CN) code [[^1]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02003R0147-20240320)* |
    | --- | --- | --- |
    | Nitroglycerin (except when packaged/prepared in individual medicinal doses) unless compounded or mixed with the ‘energetic material’ specified by ML8.a. or powdered metals specified by ML8.c. of the EU Common Military List | 55-63-0 | ex 2920 90 70 |
    | Nitric acid | 7697-37-2 | ex 28 08 |

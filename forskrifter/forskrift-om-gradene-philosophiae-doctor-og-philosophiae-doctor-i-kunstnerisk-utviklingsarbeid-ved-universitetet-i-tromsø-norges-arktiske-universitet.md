@@ -15,7 +15,7 @@ xml_hash: "adebeab6d6a52e1d563ded7bf979673e109210be2e92b191e9e7307b7aa36008"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -211,7 +211,7 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 ### § 15. Veiledning
 
-(1) En doktorgradskandidat skal få individuell veiledning i arbeidet med doktorgradsarbeidet i samsvar med gjeldende retningslinjer1 og etter tidsnorm som fakultetet har fastsatt.
+(1) En doktorgradskandidat skal få individuell veiledning i arbeidet med doktorgradsarbeidet i samsvar med gjeldende retningslinjer[^1] og etter tidsnorm som fakultetet har fastsatt.
 
 (2) Fakultetene har, i samråd med veilederne, ansvar for å legge til rette for at kandidatene tar regelmessig del i et aktivt miljø for forsking eller kunstnerisk utviklingsarbeid. For kandidater som har hovedtilknytning ved en annen institusjon skal avtalen mellom universitetet og den samarbeidende institusjon regulere arbeidsvilkårene og sikre at kandidaten tar del i et aktivt miljø for forsking eller kunstnerisk utviklingsarbeid.
 
@@ -243,7 +243,7 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 (4) Veilederne skal gi råd om formulering og avgrensing av tema og problemstillinger, drøfte og vurdere hypoteser, spørsmål og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring av framstillingen, under dette disposisjon, språklig form, dokumentasjon mv., og gi hjelp til orientering i faglitteratur og forskningsdata etc. Videre skal veilederne veilede kandidaten i forskningsetiske spørsmål tilknyttet doktorgradsarbeidet.
 
-(5) Veilederne skal veilede kandidaten i UiTs gjeldende prinsipper og retningslinjer for forvaltning av forskningsdata.1
+(5) Veilederne skal veilede kandidaten i UiTs gjeldende prinsipper og retningslinjer for forvaltning av forskningsdata.[^1]
 
 1 Prinsipper og retningslinjer for forvaltning av forskningsdata ved UiT.
 
@@ -335,7 +335,7 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 ### § 20. Meldeplikt for resultater som har potensial for næringsmessig utnyttelse
 
-(1) En stipendiat ved UiT har plikt til å melde fra om arbeidsresultat i samsvar med gjeldende reglement.1
+(1) En stipendiat ved UiT har plikt til å melde fra om arbeidsresultat i samsvar med gjeldende reglement.[^1]
 
 (2) For doktorgradskandidater med ekstern arbeidsgiver skal det gå fram av avtalen mellom universitetet, kandidaten og arbeidsgiveren om kandidaten har meldeplikt.
 

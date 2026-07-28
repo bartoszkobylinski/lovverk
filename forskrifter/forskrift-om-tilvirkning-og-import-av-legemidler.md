@@ -15,7 +15,7 @@ xml_hash: "4b1ac833351aa23e76df1e5410cf1821ce918a1ae19802920521116b5d00b059"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -392,7 +392,7 @@ Tilvirker med tillatelse etter [§ 2-5](forskrift/2004-11-02-1441/§2-5) kan ute
 
 Grossist med tillatelse etter [forskrift 21. desember 1993 nr. 1219](forskrift/1993-12-21-1219) om grossistvirksomhet med legemidler [§ 2](forskrift/1993-12-21-1219/§2) kan uten nærmere tillatelse importere legemidler fra land i EØS-området.
 
-Apotek kan uten nærmere tillatelse importere legemidler fra godkjent grossist i EØS-området.1
+Apotek kan uten nærmere tillatelse importere legemidler fra godkjent grossist i EØS-området.[^1]
 
 Import av legemidler som anses som narkotika er regulert særskilt i [forskrift 30. juni 1978 nr. 8](forskrift/1978-06-30-8) om narkotika.
 

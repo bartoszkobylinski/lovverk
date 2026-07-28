@@ -15,7 +15,7 @@ xml_hash: "b9c9d8aee13c0af27ebd9b9e78922bdf2ded21f63c0e2f90a8404edf1bb2893a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32017L0828"
@@ -90,6 +90,6 @@ Ein røystingsrådgjevar skal utan opphald identifisere og opplyse kundane sine 
 
 ## § 8. Ikraftsetjing
 
-Lova gjeld frå den tida1 Kongen fastset.
+Lova gjeld frå den tida[^1] Kongen fastset.
 
 1 Frå 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1984](forskrift/2021-06-18-1984).

@@ -15,7 +15,7 @@ xml_hash: "f02e7f9f6ff597d91cc01e99536c26f5b4ef5da2dc679001de212ae32cfbab48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ eu_basis: []
 
 (2) Kongen kan bestemme at ankerett etter første ledd også skal gjelde vedtak om individuelle rettigheter og plikter i
 
-1. supplerende pensjonsordninger for kommunale arbeidstakere1
+1. supplerende pensjonsordninger for kommunale arbeidstakere[^1]
 2. supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale foretak og i andre institusjoner av offentlig karakter og
 3. supplerende private pensjonsordninger og herunder fastsette regler om tilpasning av lovens bestemmelser.
 
@@ -94,7 +94,7 @@ eu_basis: []
 
 ### § 4. Arbeidsordning og administrasjon
 
-Kongen1 kan fastsette nærmere regler om rettens arbeidsordning og administrasjon.
+Kongen[^1] kan fastsette nærmere regler om rettens arbeidsordning og administrasjon.
 
 > Endret ved [lover 13 juni 1997 nr. 59](lov/1997-06-13-59), [18 des 2015 nr. 105](lov/2015-12-18-105) (ikr. 1 apr 2016 iflg. [res. 18 des 2015 nr. 1581](forskrift/2015-12-18-1581)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2020).
 
@@ -472,7 +472,7 @@ Den som mot bedre vitende gir uriktige opplysninger, eller fortier vesentlige op
 
 ### § 36. Forskrifter
 
-(1) Kongen kan fastsette forskrift om gjennomføringen av denne lov.1
+(1) Kongen kan fastsette forskrift om gjennomføringen av denne lov.[^1]
 
 (2) Kongen kan i forskrift gjøre de unntak fra loven og gi de supplerende regler som er nødvendige til oppfylling av plikter som følge av overenskomst med fremmed stat.
 

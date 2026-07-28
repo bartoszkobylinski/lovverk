@@ -15,7 +15,7 @@ xml_hash: "c9d8bf269f21a2de7acd4d40f31268060fbe2a602de89f09fd151a8c943b45c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,14 +47,14 @@ Det integrerte delsystemet «styring, kontroll og signal», ERTMS (European Rail
 
 2.1. *ERTMS/ETCS:*
 
-Delsystemet «styring, kontroll og signal» bygger på spesifikasjonene i oversikten nedenfor.1 Disse spesifikasjonene vil om nødvendig bli revidert etter ERTMS-programmets forsøksfase («Master Plan»). Revisjonen vil bli forberedt av AEIF under en Change Control-prosedyre, og vil deretter bli framlagt for komiteen som fastsatt i artikkel 6 i direktiv [96/48/EF](eu/31996l0048*).
+Delsystemet «styring, kontroll og signal» bygger på spesifikasjonene i oversikten nedenfor.[^1] Disse spesifikasjonene vil om nødvendig bli revidert etter ERTMS-programmets forsøksfase («Master Plan»). Revisjonen vil bli forberedt av AEIF under en Change Control-prosedyre, og vil deretter bli framlagt for komiteen som fastsatt i artikkel 6 i direktiv [96/48/EF](eu/31996l0048*).
 
 | *Dokument* | *Referansenummer* | *Versjonsnummer* | *Obligatorisk/informativ* |
 | --- | --- | --- | --- |
 | ERTMS/ETCS functional requirements specification | – | 4.29 | Obligatorisk |
 | ERTMS/ETCS functional statements | 99E5362 | 2.00 | Obligatorisk |
 | ERTMS/ETCS system requirements specification | SUBSET-026 | 2.0.0 | Obligatorisk |
-| Clarification and amendment specification\* | SUBSET-055 | 2.0.0 | Obligatorisk |
+| Clarification and amendment specification[^\*] | SUBSET-055 | 2.0.0 | Obligatorisk |
 | ERTMS/ETCS SSRS Part 1: system macro functions overview | SUBSET-030 | 2.0.0 | Informativ |
 | ERTMS/ETCS SSRS Part 2: onboard subsystem requirements specification | SUBSET-031 | 2.0.0 | Informativ |
 | ERTMS/ETCS SSRS Part 3: trackside subsystem requirements specification | SUBSET-032 | 2.0.0 | Informativ |

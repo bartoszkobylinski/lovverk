@@ -15,7 +15,7 @@ xml_hash: "3402df44f2eac51d0e8111200ba67cdd0b86b1626b825b7d551dc6b147c98ae1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,7 @@ Den som forsettleg eller aktlaust bryt føresegner gitt i eller i medhald av den
 
 ## § 6. Ikraftsetjings- og overgangsreglar
 
-Lova gjeld frå den tid1 Kongen fastset. Frå same tidspunkt vert [lov av 6. juni 1980 nr. 21](lov/1980-06-06-21) om handelsvirksomhet oppheva.
+Lova gjeld frå den tid[^1] Kongen fastset. Frå same tidspunkt vert [lov av 6. juni 1980 nr. 21](lov/1980-06-06-21) om handelsvirksomhet oppheva.
 
 Løyve frå politiet gitt med heimel i [lov av 6. juni 1980 nr. 21](lov/1980-06-06-21) om handelsvirksomhet gjeld òg etter ikraftsetjinga av lova her.
 

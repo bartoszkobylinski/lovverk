@@ -15,7 +15,7 @@ xml_hash: "a967547e4ca0eaa052377eedd287501840b3b32c5d8eeabdc886c43cb733f6e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,7 +47,7 @@ Skip som omfattes av denne forskrift tillates å føre last mellom havner på Sv
 Lasteskip der en vesentlig del av skipets virksomhet skjer utenfor norske farvann, tillates å føre last mellom norske havner når dette skjer
 
 1. som del av en regulær rute mellom norsk og utenlandsk havn; eller
-2. som frakt av petroleum1 i bulk fra innretning på norsk kontinentalsokkel; eller
+2. som frakt av petroleum[^1] i bulk fra innretning på norsk kontinentalsokkel; eller
 3. leilighetsvis i inntil 3 måneder.
 
 Sjøfartsdirektoratet fører kontroll med at betingelsene etterleves.

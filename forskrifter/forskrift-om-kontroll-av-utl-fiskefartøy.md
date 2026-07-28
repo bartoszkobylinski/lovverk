@@ -15,7 +15,7 @@ xml_hash: "b3e706d7f5c57e1c0a08c1b7f122ce56d336f53e58dd88f6dc6ab52c72f90fb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,15 +92,15 @@ Meldingen som nevnt i [§ 1](forskrift/2005-07-19-1834/§1) skal inneholde følg
 | *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Innhold:* |
 | --- | --- | --- | --- |
 | Meldingstype | TM | P | CON, Melding om fremstilling for kontroll |
-| Meldingsnummer | RN | P1 | Serienummer for meldingen i inneværende år |
+| Meldingsnummer | RN | P[^1] | Serienummer for meldingen i inneværende år |
 | Radiokallesignal | RC | P | Fartøyets radiokallesignal |
 | Fartøynavn | NA | V | Fartøyets navn |
 | Registreringsmerke | XR | V | Fartøyets registreringsnummer |
 | Posisjon lengde | LA | P | Posisjon lengde på meldingstidspunktet (NDDMM) |
 | Posisjon bredde | LO | P | Posisjon bredde på meldingstidspunktet (E/WDDMM) |
 | Kontrollpunkt/kontrollområde/havn | CP | P | Angivelse av kontrollpunkt, kontrollområde eller landingshavn |
-| Posisjon lengde | LI | P2 | Posisjon lengde på grensen til kontrollområdet eller landingsstedet (NDDMM) |
-| Posisjon lengde | LN | P2 | Posisjon bredde på grensen til kontrollområdet eller landingsstedet (E/WDDMM) |
+| Posisjon lengde | LI | P[^2] | Posisjon lengde på grensen til kontrollområdet eller landingsstedet (NDDMM) |
+| Posisjon lengde | LN | P[^2] | Posisjon bredde på grensen til kontrollområdet eller landingsstedet (E/WDDMM) |
 | Dato | PD | P | Dato for ankomst kontrollpunktet/kontrollområdet/landingsstedet i UTC (ÅÅÅÅMMDD) |
 | Tid | PT | P | Tidspunkt for ankomst kontrollpunktet/kontrollområdet/landingsstedet i UTC (TTMM) |
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
@@ -112,7 +112,7 @@ Meldingen som nevnt i [§ 1](forskrift/2005-07-19-1834/§1) skal inneholde følg
 
 ## § 3. Ikrafttredelse
 
-Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift 11. oktober 1993 nr. 1001](forskrift/1993-10-11-1001) om fremstilling for kontroll for utenlandske fartøy som driver fiske og fangst i Norges økonomiske sone nord for 62° N og forskrift 19. juli 1995 om fremstilling for kontroll for utenlandske fartøy som er lisensiert for fiske etter makrell i Norges økonomiske sone.1
+Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift 11. oktober 1993 nr. 1001](forskrift/1993-10-11-1001) om fremstilling for kontroll for utenlandske fartøy som driver fiske og fangst i Norges økonomiske sone nord for 62° N og forskrift 19. juli 1995 om fremstilling for kontroll for utenlandske fartøy som er lisensiert for fiske etter makrell i Norges økonomiske sone.[^1]
 
 1 Ikke kunngjort i Norsk Lovtidend.
 

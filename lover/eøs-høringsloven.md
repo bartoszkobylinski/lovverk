@@ -15,7 +15,7 @@ xml_hash: "f31251a63074fa8db8666bef92587dfb2b374dbf45781d648ac3281c316c4e68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32015L1535"
@@ -239,7 +239,7 @@ Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at k
 
 ### § 19. Ikrafttredelse og overgangsbestemmelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
 Loven gjelder ikke for tekniske regler vedtatt før lovens ikrafttredelse.
 

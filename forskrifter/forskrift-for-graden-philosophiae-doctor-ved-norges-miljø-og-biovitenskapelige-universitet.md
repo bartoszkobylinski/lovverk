@@ -15,7 +15,7 @@ xml_hash: "9ddcde60d5c1dd36122f8ba24e6e98253c78f6eea1ab2c9cd832e6ca4a24460a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -524,12 +524,12 @@ Karakterfastsetting ved eksamener som er avlagt under opplæringsdelen, kan påk
 
 ### § 24. Ikrafttredelse
 
-Forskriften trer i kraft fra og med 1. januar 2025. Samtidig oppheves forskrift 1. juli 20201 for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitetet.
+Forskriften trer i kraft fra og med 1. januar 2025. Samtidig oppheves forskrift 1. juli 2020[^1] for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitetet.
 
 1 Skal vel være [forskrift 30. januar 2020 nr. 1471](forskrift/2020-01-30-1471). Lovtidend-redaksjonens anmerkning.
 
 ### § 25. Overgangsbestemmelser
 
-Den som når denne forskriften trer i kraft, er tatt opp til ph.d.-utdanning etter forskrift 1. juli 20201 for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitetet, beholder de rettigheter som står i denne, dersom dette er til gunst for vedkommende.
+Den som når denne forskriften trer i kraft, er tatt opp til ph.d.-utdanning etter forskrift 1. juli 2020[^1] for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitetet, beholder de rettigheter som står i denne, dersom dette er til gunst for vedkommende.
 
 1 Skal vel være [forskrift 30. januar 2020 nr. 1471](forskrift/2020-01-30-1471). Lovtidend-redaksjonens anmerkning.

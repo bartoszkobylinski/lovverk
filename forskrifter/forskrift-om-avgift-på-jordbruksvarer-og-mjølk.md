@@ -15,7 +15,7 @@ xml_hash: "09971ac99752e572df5b68e42eaaca5a085e649d27aa1d69f9d321646f95eebb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,7 +47,7 @@ Produsentar som omsetter pelsdyrskinn, skal svara avgift på 0,0 % av salssumme
 
 ## § 3. Overproduksjonsavgift på mjølk
 
-For mjølk som blir omsett ut over disponibel kvote eller lokalforedlingskvote1 skal det i tillegg til omsetningsavgift svaras ei overproduksjonsavgift.
+For mjølk som blir omsett ut over disponibel kvote eller lokalforedlingskvote[^1] skal det i tillegg til omsetningsavgift svaras ei overproduksjonsavgift.
 
 Satsen for overproduksjonsavgift for mjølk er 490 øre pr. liter kumjølk og 490 øre pr. liter geitemjølk.
 

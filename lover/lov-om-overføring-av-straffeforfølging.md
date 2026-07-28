@@ -15,7 +15,7 @@ xml_hash: "957942cd7c33242f8f2f24ed8f329c226d4325c2a6ca2326341ecfdcfcd22684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,7 @@ Loven gjelder bare handlinger som er foretatt etter at konvensjonen er trådt i 
 
 ### § 7
 
-Loven trer i kraft når Kongen bestemmer.1
+Loven trer i kraft når Kongen bestemmer.[^1]
 
 1 Fra 30 mars 1978 iflg. res. 10 mars 1978.
 
@@ -62,7 +62,7 @@ Fra den tid loven trer i kraft, gjøres disse endringer: – – –
 
 ## Del C
 
-I den europeiske konvensjon 15. mai 1972 om overføring av straffesaker lyder følgende bestemmelser slik:1
+I den europeiske konvensjon 15. mai 1972 om overføring av straffesaker lyder følgende bestemmelser slik:[^1]
 
 1 Ved ratifikasjon ble det tatt forbehold i henhold til konvensjonens artikkel 41 nr. 1, jf. konvensjonens vedlegg I bokstavene (d) og (h), om ikke å akseptere artikkel 23 samt konvensjonens bestemmelser om negativ rettskraft («ne bis in idem»), jf. artiklene 35-37, for de tilfelle gjerningsmannen var norsk statsborger eller hadde bopel i Norge da handlingen ble begått, jf. [lov 25 mars 1977 nr. 23](lov/1977-03-25-23) om samtykke til ratifikasjon, med visse forbehold, av Den europeiske konvensjon om overføring av straffesaker, datert Strasbourg 15 mai 1972 [pkt](lov/1977-03-25-22/kap2). 2.
 

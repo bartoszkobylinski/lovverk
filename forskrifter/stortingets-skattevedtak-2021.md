@@ -15,7 +15,7 @@ xml_hash: "ede5c534c724b20fa7f226e81a1f289b43d1eecc4a76d730dd5962c92cc3d9cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,7 +114,7 @@ Maksimumssatsene skal gjelde med mindre fylkestinget eller kommunestyret vedtar 
 
 ### § 3-9. Skatt til staten for personer bosatt i utlandet
 
-Skattyter som skattlegges etter reglene i [skatteloven kapittel 19](lov/1999-03-26-14/kap19), svarer skatt til staten med 25 pst. av inntekten. Dersom det følger av lov 28. juni 1997 nr. 191 om folketrygd § 23-3 annet ledd nr. 1 bokstav c, trygdeavtaler med andre land eller forordning [(EF) nr. 883/2004](eu/32004r0883) at skattyter ikke skal betale trygdeavgift til Norge eller bare skal betale trygdeavgift med lav sats, skal skattesatsen etter første punktum reduseres tilsvarende.
+Skattyter som skattlegges etter reglene i [skatteloven kapittel 19](lov/1999-03-26-14/kap19), svarer skatt til staten med 25 pst. av inntekten. Dersom det følger av lov 28. juni 1997 nr. 19[^1] om folketrygd § 23-3 annet ledd nr. 1 bokstav c, trygdeavtaler med andre land eller forordning [(EF) nr. 883/2004](eu/32004r0883) at skattyter ikke skal betale trygdeavgift til Norge eller bare skal betale trygdeavgift med lav sats, skal skattesatsen etter første punktum reduseres tilsvarende.
 
 1 Skal vel være [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19), Lovtidend-redaksjonens anm.
 

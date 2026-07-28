@@ -15,7 +15,7 @@ xml_hash: "5143f1dffc56a65d5761ba677fb44a3198599f92315bc565127b3905f4d747c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,9 +44,9 @@ Departementet kan gi forskrift med nærmere bestemmelser om innretningen av tils
 
 ## § 5. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer.1
+Loven gjelder fra den tid Kongen bestemmer.[^1]
 
-Gjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs2 gjelder også etter at loven har trådt i kraft.
+Gjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs[^2] gjelder også etter at loven har trådt i kraft.
 
 1 Fra 1 juni 2017 iflg. [res. 22 mai 2017 nr. 616](forskrift/2017-05-22-616).
 

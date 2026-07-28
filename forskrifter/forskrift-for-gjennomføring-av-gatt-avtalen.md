@@ -15,7 +15,7 @@ xml_hash: "880b187478c9d41e0cdb81845931be4752f56286be00aeb059aa877d29fc0923"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -250,7 +250,7 @@ Artikkel VI i Avtalen inneholder bestemmelser om plikt til å gi opplysninger sl
 Etatene skal føre statistikk over sine innkjøp. Innen den 1. mai hvert år skal etatene sende statistikk for det foregående år til den myndighet som Industridepartementet bestemmer. Statistikken skal omfatte
 
 1. verdien av tildelte kontrakter over og under terskelverdien,
-2. antall og total verdi av tildelte kontrakter over terskelverdien, fordelt på 26 varekategorier og varens opprinnelsesland.1
+2. antall og total verdi av tildelte kontrakter over terskelverdien, fordelt på 26 varekategorier og varens opprinnelsesland.[^1]
 3. det totale antall og verdien av de kontrakter som er tildelt under hvert av tilfellene i avtalens artikkel V § 15 (gjelder bruk av anbudsinnbydelse til en enkelt leverandør).
 
 Det vil bli utarbeidet et skjema som etatene skal bruke ved rapporteringen.

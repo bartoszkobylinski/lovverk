@@ -15,7 +15,7 @@ xml_hash: "31a3ce00694096387c8dff6ab615e671602c2203f99c4100ee3230924dc5fc94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1594,7 +1594,7 @@ Ein kommune eller fylkeskommune skal oppfylle eit vedtak frå eit statleg forval
 
 ### § 30-1. Iverksetjing og oppheving
 
-Lova gjeld frå den tida1 Kongen fastset. Samstundes blir [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61) oppheva. Kongen kan setje i verk ulike kapittel eller reglar i lova til ulik tid.
+Lova gjeld frå den tida[^1] Kongen fastset. Samstundes blir [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61) oppheva. Kongen kan setje i verk ulike kapittel eller reglar i lova til ulik tid.
 
 1 Frå 1. august 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028).
 

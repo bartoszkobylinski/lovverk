@@ -15,7 +15,7 @@ xml_hash: "20e1be60d44b13197955bac8c67e94d15118b0cc373a6c04f1e5f5c29b2a3df0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## I.
 
-Ved avgjørelsen av hvad der skal henføres til skattepliktig formue og inntekt kommer følgende bestemmelser i skattelov for landet av 18. august 1911 med senere tilleggslover til anvendelse: §§ 37, 38, 39, 41 fjerde, sjette og syvende ledd,1 42, 43 første ledd, 44, 45 første ledd, 50, 51, 53 og 54 første ledd, likevel slik at det gis fradrag i bruttoinntekten for livsforsikringspremie, spareinnskudd og aksjesparing som omhandlet i § 44 ellevte ledd, inntil de der fastsatte maksimumsbeløp. Tillegg som omhandlet i § 44 ellevte ledd nr. 2 og nr. 3 skal på tilsvarende måte gjennomføres som inntektstillegg.
+Ved avgjørelsen av hvad der skal henføres til skattepliktig formue og inntekt kommer følgende bestemmelser i skattelov for landet av 18. august 1911 med senere tilleggslover til anvendelse: §§ 37, 38, 39, 41 fjerde, sjette og syvende ledd,[^1] 42, 43 første ledd, 44, 45 første ledd, 50, 51, 53 og 54 første ledd, likevel slik at det gis fradrag i bruttoinntekten for livsforsikringspremie, spareinnskudd og aksjesparing som omhandlet i § 44 ellevte ledd, inntil de der fastsatte maksimumsbeløp. Tillegg som omhandlet i § 44 ellevte ledd nr. 2 og nr. 3 skal på tilsvarende måte gjennomføres som inntektstillegg.
 
 1 Se nå § 41 fjerde, syvende og niende ledd.
 

@@ -15,7 +15,7 @@ xml_hash: "b6687b313e55990019d6a6a6c8181fa5e37af9c3dd7dedd5185ff980f030daef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,7 @@ Forskriften trer i kraft 1. februar 2012. Forskriften gjelder overtredelser beg√
 | GHB | 100 | 300 | 1200 |
 | *Hallusinoger* |  |  |  |
 | Ketamin | 0,400 | 1,000 | 2,400 |
-| LSD | 0,001 | \* | \* |
+| LSD | 0,001 | [^\*] | [^\*] |
 | *Opioider* |  |  |  |
 | Buprenorfin | 0,0006 | 0,0015 | 0,0036 |
 | Metadon | 0,080 | 0,200 | 0,48 |
@@ -74,10 +74,10 @@ Forskriften trer i kraft 1. februar 2012. Forskriften gjelder overtredelser beg√
 | Oksykodon | 0,050 | 0,120 | 0,300 |
 | *Sentralstimulerende* |  |  |  |
 | Amfetamin | 0,300 | 1,5 | 3,6 |
-| Kokain | 0,080 | \* | \* |
-| MDMA | 0,500 | \* | \* |
+| Kokain | 0,080 | [^\*] | [^\*] |
+| MDMA | 0,500 | [^\*] | [^\*] |
 | Metamfetamin | 0,300 | 1,5 | 3,6 |
-| Metylfenidat | 0,015 | \* | \* |
+| Metylfenidat | 0,015 | [^\*] | [^\*] |
 
 \* Straffeutm√•lingsgrenser er ikke fastsatt fordi sammenhengen mellom stoffkonsentrasjon i blodet og ulykkesrisiko/prestasjonsforringelse er sv√¶rt variabel, eller d√•rlig dokumentert.
 

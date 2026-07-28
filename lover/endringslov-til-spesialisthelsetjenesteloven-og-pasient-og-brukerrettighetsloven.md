@@ -15,7 +15,7 @@ xml_hash: "912f72bf9d5c8d0f8273d5e7e47c4741a02bd09f2dbac542d9e293e36dc461d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,6 +38,6 @@ I [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter 
 
 ## III
 
-Loven gjelder fra den tid1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
 1 Fra 1 jan 2020 iflg. [res. 20 des 2019 nr. 1933](forskrift/2019-12-20-1933) med unntak av romertall I § 5-5 nytt tredje ledd.

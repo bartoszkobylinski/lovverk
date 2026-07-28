@@ -15,7 +15,7 @@ xml_hash: "55ec7c36536670c064c61937281f11a0e8c892069e46fc8d6d965ffc5ad7030b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -195,7 +195,7 @@ Kommunestyret kan fritaka desse eigedomane heilt eller delvis for eigedomsskatt:
 
 (5) Ved kommunefordeling av eigedomsskattegrunnlaget for kraftanlegg som nemnt i tredje og fjerde leden, gjeld korrigeringsregelen i andre leden tilsvarande for investeringar som vart ført i skatterekneskapet første gong for inntektsåret 2000 eller seinare år.
 
-(6) Som GAV etter denne paragraf skal reknast dei verdiar som vart fastsett av NVE og rapportert i 1997 og i 2001 etter [§ 2-3 i forskrift av 20. januar 1997 nr. 79](forskrift/1997-01-20-79/§2-3) om fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 for særskilte driftsmidler i kraftforetak, jf. [§ 2](lov/1975-06-06-29/§2) nr. 2 i forskrift av 20. desember 2000 nr. 13431 om kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg.
+(6) Som GAV etter denne paragraf skal reknast dei verdiar som vart fastsett av NVE og rapportert i 1997 og i 2001 etter [§ 2-3 i forskrift av 20. januar 1997 nr. 79](forskrift/1997-01-20-79/§2-3) om fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 for særskilte driftsmidler i kraftforetak, jf. [§ 2](lov/1975-06-06-29/§2) nr. 2 i forskrift av 20. desember 2000 nr. 1343[^1] om kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg.
 
 > Føyd til med [lov 15 des 2000 nr. 89](lov/2000-12-15-89) (f o m eigedomsskatteåret 2001), endra med lover [15 juni 2001 nr. 46](lov/2001-06-15-46) (f o m eigedomsskatteåret 2001), [21 des 2001 nr. 104](lov/2001-12-21-104) (f o m eigedomsskatteåret 2001), [20 des 2002 nr. 95](lov/2002-12-20-95), [12 des 2003 nr. 103](lov/2003-12-12-103), [22 juni 2012 nr. 44](lov/2012-06-22-44) som endra med [lov 7 des 2012 nr. 79](lov/2012-12-07-79) (f o m skatteåret 2013), tidlegare § 8A-1.
 
@@ -338,7 +338,7 @@ Skattytaren kan klage på den utskrivne eigedomsskatten. Klaga må gjevast inn s
 
 For anlegg for produksjon av elektrisk kraft og bustader som vert verdsette etter [§ 8 C](lov/1975-06-06-29/§8c), kan klaga ikkje gjelda det verdet som er sett på eigedomen ved fastsetjinga av formues- og inntektsskatt, jf. [skatteforvaltningsloven § 13-2](lov/2016-05-27-14/§13-2) fjerde ledd.
 
-Er eigedomen bortleigd og skal leigaren svara eigedomsskatten, har leigaren likevel høve til å klaga over det verdet som ligg til grunn for eigedomsskatten. Klaga må vera sett fram for skattekontoret, innan fristen som er nemnd i første leden. Avgjerd i klagesaka får verknad også for formueslikninga åt eigaren.1
+Er eigedomen bortleigd og skal leigaren svara eigedomsskatten, har leigaren likevel høve til å klaga over det verdet som ligg til grunn for eigedomsskatten. Klaga må vera sett fram for skattekontoret, innan fristen som er nemnd i første leden. Avgjerd i klagesaka får verknad også for formueslikninga åt eigaren.[^1]
 
 > Endra med lover [29 juni 2007 nr. 50](lov/2007-06-29-50) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [22 juni 2012 nr. 44](lov/2012-06-22-44) (f o m skatteåret 2013), [7 des 2012 nr. 73](lov/2012-12-07-73) (f o m skatteåret 2014), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
@@ -457,7 +457,7 @@ Vedkomande departement kan gjeva reglar til utfylling og gjennomføring av lova 
 
 Denne lova, bortsett frå [§§ 8](lov/1975-06-06-29/§8), [9](lov/1975-06-06-29/§9), [17](lov/1975-06-06-29/§17) andre leden, og 18-22 tek til å gjelda 1 januar 1976 og får verknad første gongen ved utlikning- og utrekning av eigedomsskatt for skatteåret 1976. Frå same tid held [§ 6](lov/1975-06-06-29/§6) i lov frå [11 juli 1947 nr. 8](lov/1947-07-11-8) og lov frå 4 mars 1960 om tillegg til skattelovene for landet og byane frå 18 august 1911 opp å gjelda, sjå likevel andre leden.
 
-[§§ 8](lov/1975-06-06-29/§8), [9](lov/1975-06-06-29/§9), [17](lov/1975-06-06-29/§17) andre leden, og 18-22 i denne lova tek til å gjelda frå den tid1 som vert fastsett av Kongen.
+[§§ 8](lov/1975-06-06-29/§8), [9](lov/1975-06-06-29/§9), [17](lov/1975-06-06-29/§17) andre leden, og 18-22 i denne lova tek til å gjelda frå den tid[^1] som vert fastsett av Kongen.
 
 > Endra med lover 16 des 1977 nr. 93, [14 des 2007 nr. 101](lov/2007-12-14-101), [22 juni 2012 nr. 44](lov/2012-06-22-44) (f o m skatteåret 2013).
 

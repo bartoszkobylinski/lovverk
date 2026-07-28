@@ -15,7 +15,7 @@ xml_hash: "e7f014a7aac619dab794aa36843fb5d35a733fd09c0ee27d3e219d9489cff6a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,7 @@ Helse- og omsorgsdepartementet delegerer følgende myndighet til Helsedirektorat
 *[Lov 2. juli 1999 nr. 62](lov/1999-07-02-62) om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)*
 
 - § 6-1 tredje ledd: Oppnevne kontrollkommisjoner og bestemme hvilke områder som skal være tillagt den enkelte kontrollkommisjon.
-- § 6-5: Myndighet til å gi forskrifter om den nærmere saksbehandling.1
+- § 6-5: Myndighet til å gi forskrifter om den nærmere saksbehandling.[^1]
 - § 7-1: Myndighet til å opptre som stedfortreder for Helse- og omsorgsdepartementet i saker om søksmål.
 
 1 Kongens myndighet ble delegert til Helse- og omsorgsdepartementet ved Kongelig resolusjon av 21. desember 2001, jf. [forskrift 21. desember 2001 nr. 1478](forskrift/2001-12-21-1478).

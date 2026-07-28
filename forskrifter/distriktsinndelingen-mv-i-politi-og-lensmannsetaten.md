@@ -15,7 +15,7 @@ xml_hash: "8887bea8a6a02928485b48e6568cbf5665a1dbec09d6140fc45c28b997eb99bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,10 +49,10 @@ Følgende ni nye politidistrikter med politimesterembeter opprettes:
    Bjerkreim, Bokn, Bømlo, Eigersund, Etne, Finnøy, Fitjar, Forsand, Gjesdal, Haugesund, Hjelmeland, Hå, Karmøy, Klepp, Kvitsøy, Lund, Randaberg, Rennesøy, Sandnes, Sauda, Sirdal, Sokndal, Sola, Stavanger, Stord, Strand, Suldal, Sveio, Time, Tysvær, Utsira og Vindafjord.
 5. *Vest* politidistrikt med geografisk ansvarsområde for følgende kommuner:
 
-   Askvoll, Askøy, Aurland, Austevoll, Austrheim, Balestrand, Bergen, Bremanger, Eid, Eidfjord, Fedje, Fjaler, Fjell, Flora, Fusa, Førde, Gaular, Gloppen, Granvin, Gulen, Hornindal, Hyllestad, Høyanger, Jondal, Jølster, Kvam, Kvinnherad, Leikanger, Lindås, Luster, Lærdal, Masfjorden, Meland, Modalen, Naustdal, Odda, Os, Osterøy, Radøy, Samnanger, Selje, Sogndal, Solund, Stryn, Sund, Tysnes, Ullensvang, Ulvik, Vaksdal, Vanylven,1 Vik, Voss, Vågsøy, Øygarden og Årdal.
+   Askvoll, Askøy, Aurland, Austevoll, Austrheim, Balestrand, Bergen, Bremanger, Eid, Eidfjord, Fedje, Fjaler, Fjell, Flora, Fusa, Førde, Gaular, Gloppen, Granvin, Gulen, Hornindal, Hyllestad, Høyanger, Jondal, Jølster, Kvam, Kvinnherad, Leikanger, Lindås, Luster, Lærdal, Masfjorden, Meland, Modalen, Naustdal, Odda, Os, Osterøy, Radøy, Samnanger, Selje, Sogndal, Solund, Stryn, Sund, Tysnes, Ullensvang, Ulvik, Vaksdal, Vanylven,[^1] Vik, Voss, Vågsøy, Øygarden og Årdal.
 6. *Møre og Romsdal* politidistrikt med geografisk ansvarsområde for følgende kommuner:
 
-   Aukra, Aure, Averøy, Eide, Fræna, Giske, Gjemnes, Halsa, Haram, Hareid, Herøy, Kristiansund, Midsund, Molde, Nesset, Norddal, Rauma, Rindal,2 Sande, Sandøy, Skodje, Smøla, Stordal, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørskog, Ørsta og Ålesund.
+   Aukra, Aure, Averøy, Eide, Fræna, Giske, Gjemnes, Halsa, Haram, Hareid, Herøy, Kristiansund, Midsund, Molde, Nesset, Norddal, Rauma, Rindal,[^2] Sande, Sandøy, Skodje, Smøla, Stordal, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørskog, Ørsta og Ålesund.
 7. *Trøndelag* politidistrikt med geografisk ansvarsområde for følgende kommuner:
 
    Agdenes, Bindal, Bjugn, Flatanger, Fosnes, Frosta, Frøya, Grong, Hemne, Hitra, Holtålen, Høylandet, Inderøy, Klæbu, Leka, Leksvik, Levanger, Lierne, Malvik, Meldal, Melhus, Meråker, Midtre Gauldal, Namdalseid, Namsos, Namsskogan, Nærøy, Oppdal, Orkdal, Osen, Overhalla, Raarvihke Røyrvik, Rennebu, Rissa, Roan, Røros, Selbu, Skaun, Snillfjord, Snåase Snåsa, Steinkjer, Stjørdal, Trondheim, Tydal, Verdal, Verran, Vikna, Ørland og Åfjord.
@@ -99,7 +99,7 @@ De nye politidistriktene tillegges ansvar etter følgende inndeling:
 - Sør-Vest politidistrikt overtar for Rogaland politidistrikt.
 - Møre og Romsdal politidistrikt overtar for Nordmøre og Romsdal politidistrikt.
 - Nordland politidistrikt overtar for Helgeland politidistrikt.
-- Troms politidistrikt opprettholdes som i dag.1
+- Troms politidistrikt opprettholdes som i dag.[^1]
 
 1 Geografisk område endret ved [vedtak 22 mai 2017 nr. 620](forskrift/2017-05-22-620), Lovdatas anm.
 

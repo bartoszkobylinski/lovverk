@@ -15,7 +15,7 @@ xml_hash: "9f3a7a6901e3daee8fe0cff49e75b0210c2f698716ac06de95ca8fa444110207"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -127,6 +127,6 @@ Den som med vilje eller aktlaust handlar i strid med føresegner gjevne i eller 
 
 ## § 10. Ikraftsetjing
 
-Kongen fastset når1 denne lova skal ta til å gjelda. – – –
+Kongen fastset når[^1] denne lova skal ta til å gjelda. – – –
 
 1 Frå 1 juli 1990 iflg. [res. 25 mai 1990 nr. 366](forskrift/1990-05-25-366).

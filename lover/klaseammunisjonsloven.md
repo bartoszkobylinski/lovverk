@@ -15,7 +15,7 @@ xml_hash: "180204946d8436960d68cc29da68cbcafc93a3155bd86053b5d95168cacbb80d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Den som bryter denne loven eller forskrifter gitt med hjemmel i loven, straffes 
 
 ## § 4.
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 aug 2010 iflg. [res. 26 mars 2010 nr. 446](forskrift/2010-03-26-446).
 

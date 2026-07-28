@@ -15,7 +15,7 @@ xml_hash: "ce8e5fd5ef24174df64e62d3042ca46ba0ee96e07066acd852edaef352988a92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -374,6 +374,6 @@ Kongen kan fastsette nærare forskrifter til gjennomføring av lova, herunder og
 
 ### § 39
 
-Lova tek til å gjelde frå den tid Kongen fastset.1 Frå same tid vert det gjort slike brigde i etternemnde lover: – – –
+Lova tek til å gjelde frå den tid Kongen fastset.[^1] Frå same tid vert det gjort slike brigde i etternemnde lover: – – –
 
 1 Frå 1 jan 1976 iflg. res. 21 nov 1975 ([kap. XI](lov/1975-06-06-31/kapxi) frå 1 apr 1976).

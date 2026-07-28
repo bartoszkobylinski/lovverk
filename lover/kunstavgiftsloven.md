@@ -15,7 +15,7 @@ xml_hash: "7a34754b5eeadd327ee46af17418857af1c66bc2122450d97687a5b091b1d96e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,7 @@ Unntatt fra avgiftsplikten er omsetning som omfattes av [åndsverkloven §§ 59]
 
 Avgiften skal innbetales til et særskilt hjelpefond som administreres av et styre.
 
-Fondet skal brukes til støtte for kunstnere som hovedsakelig har eller har hatt sitt virke i Norge, deres etterlatte og andre formål til fremme av norsk kunst.1
+Fondet skal brukes til støtte for kunstnere som hovedsakelig har eller har hatt sitt virke i Norge, deres etterlatte og andre formål til fremme av norsk kunst.[^1]
 
 Fondets styre oppnevnes av vedkommende departement for fire år om gangen. Det skal bestå av fem medlemmer med personlige varamedlemmer.
 
@@ -89,6 +89,6 @@ Den avgift som i henhold til [merverdiavgiftsloven](lov/2009-06-19-58) i tilfell
 
 ## § 7.
 
-Denne lov trer i kraft fra den tid Kongen bestemmer.1
+Denne lov trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Fra 15 nov 1948 iflg. res. 4 nov 1948.

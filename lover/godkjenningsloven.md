@@ -15,7 +15,7 @@ xml_hash: "a174ec6da536a4976fddcbfc0800e44d0317e162f86434edfb0511b45f8f4f15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32013L0011"
@@ -247,7 +247,7 @@ Innmeldingen etter første ledd foretas av departementet. Departementet skal på
 
 ### § 27. Ikraftsettings- og overgangsregler
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Departementet kan gi nærmere overgangsregler.
 

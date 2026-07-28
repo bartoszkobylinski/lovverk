@@ -15,7 +15,7 @@ xml_hash: "9d6854936cc9f670c26c95bb98e3ef039b1d07cabe2b420ecc46912e4f480e00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,7 +41,7 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i denne forskriften. Stat
 
 ## § 4.
 
-Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/545](eu/32018r0545) av 4. april 2018, som endret av forordning [(EU) 2020/781](eu/32020r0781), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/545](eu/32018r0545) av 4. april 2018, som endret av forordning [(EU) 2020/781](eu/32020r0781), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.[^1]
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 800](forskrift/2022-05-06-800).
 

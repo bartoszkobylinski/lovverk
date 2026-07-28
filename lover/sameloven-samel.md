@@ -15,7 +15,7 @@ xml_hash: "cd975add15849d3ccc6625bc3609123c3322e7ac4a81440fae3432736fb5a9b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -466,7 +466,7 @@ Kongen gir regler om sammenkalling av og arbeidsordningen i Sametinget. Disse re
 
 ### § 5-2. Ikrafttredelse.
 
-Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.
+Loven trer i kraft fra det tidspunkt[^1] Kongen bestemmer.
 
 > Endret ved lover [21 des 1990 nr. 78](lov/1990-12-21-78) (tidligere § 3-2), [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870), tidligere § 4-2).
 

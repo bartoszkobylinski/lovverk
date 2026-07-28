@@ -15,7 +15,7 @@ xml_hash: "1a9ea2db05a31a65df21b11dacf6934ee4881f1d4c081e9db24a6a53e803cb52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -126,7 +126,7 @@ Brudd på taushetsplikten straffes med bøter eller fengsel, jf. [straffeloven �
 
 Forskriften trer i kraft 14. mars 2008.
 
-## Veiledning til forskrift om informasjons- og påseplikt og innsynsrett1
+## Veiledning til forskrift om informasjons- og påseplikt og innsynsrett[^1]
 
 1 Veiledningen er ikke oppdatert i henhold til endringer i forskriftsteksten ved [forskrift 6 jan 2023 nr. 20](forskrift/2023-01-06-20), Lovdatas anm.
 

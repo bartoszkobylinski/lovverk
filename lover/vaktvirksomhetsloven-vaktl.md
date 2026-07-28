@@ -15,7 +15,7 @@ xml_hash: "15059a6f0dca95232f25f2fdef5b433d90e2b635d07d0cac3ba5a07658562d03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -228,7 +228,7 @@ Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold a
 
 ## § 21. Ikraftsetting
 
-1. Loven trer i kraft fra den tid Kongen bestemmer.1
+1. Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 2. Fra samme tid oppheves [lov om vaktvirksomhet av 13. mai 1988 nr. 29](lov/1988-05-13-29).
 3. Forskrifter som er gitt med hjemmel i [lov om vaktvirksomhet av 13. mai 1988 nr. 29](lov/1988-05-13-29) forblir gjeldende inntil departementet bestemmer noe annet.
 

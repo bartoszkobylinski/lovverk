@@ -15,7 +15,7 @@ xml_hash: "bb681f0948c501c2ef6d93b19feb4b2a0e80154bb06d6cbb3cc9285e248169df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Loven gjelder på Svalbard og Jan Mayen.
 
 Loven trer i kraft straks.
 
-[§§ 2](lov/2022-12-20-118/§2) og [4](lov/2022-12-20-118/§4) oppheves når utvalget har avsluttet sitt arbeid.1
+[§§ 2](lov/2022-12-20-118/§2) og [4](lov/2022-12-20-118/§4) oppheves når utvalget har avsluttet sitt arbeid.[^1]
 
 1 Utvalget leverte avsluttende rapport 2. juni 2023 iflg. [NOU 2023:16](forarbeid/nou-2023-16).
 

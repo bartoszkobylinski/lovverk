@@ -15,7 +15,7 @@ xml_hash: "912c4b05b4636a18fed8729776699da40cec75337355d6a2dee33cf4db15e8be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -245,6 +245,6 @@ Fastsett med heimel i [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleu
 ### § 7-1. Ikraftsetjing og oppheving
 
 1. Denne forskrifta trer i kraft frå 1. juli 2017.
-2. Samtidig vert Studentreglement gjeldande frå 20. august 20161 oppheva.
+2. Samtidig vert Studentreglement gjeldande frå 20. august 2016[^1] oppheva.
 
 1 Ikke kunngjort i i Norsk Lovtidend. Lovtidend-redaksjonens anm.

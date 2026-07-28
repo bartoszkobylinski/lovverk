@@ -15,7 +15,7 @@ xml_hash: "52f819017f92178b92eea7a5e652c3d4cea334ba153076516d5323bfdce012d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -177,7 +177,7 @@ Kongen kan i forskrift gi nærmere regler om utstedelse av visum, herunder om ut
 
 ### § 14. (Opphevet)
 
-> Opphevet ved lov [20 april 2018 nr. 8](lov/2018-04-20-8) som endret ved lov [29 april 2022 nr. 26](lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638)).1
+> Opphevet ved lov [20 april 2018 nr. 8](lov/2018-04-20-8) som endret ved lov [29 april 2022 nr. 26](lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638)).[^1]
 
 1 Inkurie: Endring ved lov [11 mars 2022 nr. 9](lov/2022-03-11-9) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1574](forskrift/2022-09-16-1574)) kan ikke innføres fordi § 14 allerede er opphevet.
 
@@ -461,14 +461,14 @@ En søknad om oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) kan nekte
 
 1. har fått asyl eller annen form for beskyttelse i et annet land,
 2. kan kreves mottatt av et annet land i henhold til forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, jf. fjerde ledd,
-3. kan kreves mottatt av en annen nordisk stat etter reglene i den nordiske passkontrolloverenskomsten,1
+3. kan kreves mottatt av en annen nordisk stat etter reglene i den nordiske passkontrolloverenskomsten,[^1]
 4. har reist til riket etter å ha hatt opphold i en stat eller et område hvor utlendingen ikke var forfulgt.
 
 I tilfeller som nevnt i første ledd bokstav b, c og d skal søknaden om oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) likevel tas til realitetsbehandling dersom utlendingen har en tilknytning til riket som gjør at Norge er nærmest til å realitetsbehandle den. Kongen kan gi nærmere regler i forskrift om når en søknad som faller inn under første ledd, skal realitetsbehandles.
 
 Adgangen til å nekte realitetsbehandling etter første ledd gjelder likevel ikke dersom [§ 73](lov/2008-05-15-35/§73) er til hinder for det.
 
-Forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering del III, V og VII og forordning [(EU) 2024/1359](eu/32024r1359) om håndtering av krise- og force majeure-situasjoner innenfor asyl- og migrasjonsområdet artikkel 12 og 13, samt artikkel 1 til 6 i den utstrekning de gjelder for artikkel 12 og 13, gjelder som lov. Kongen kan i forskrift gi regler om definisjoner og gjennomføring av bestemmelsen.2
+Forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering del III, V og VII og forordning [(EU) 2024/1359](eu/32024r1359) om håndtering av krise- og force majeure-situasjoner innenfor asyl- og migrasjonsområdet artikkel 12 og 13, samt artikkel 1 til 6 i den utstrekning de gjelder for artikkel 12 og 13, gjelder som lov. Kongen kan i forskrift gi regler om definisjoner og gjennomføring av bestemmelsen.[^2]
 
 I en krisesituasjon med ekstraordinært høye ankomster av asylsøkere kan Kongen i statsråd beslutte at søknader om beskyttelse, jf. [§ 28](lov/2008-05-15-35/§28), skal kunne nektes realitetsbehandlet dersom søkeren ankommer direkte fra en nordisk stat. Kongen i statsråd kan beslutte at myndighet til å nekte realitetsbehandling, og myndighet til å bortvise i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller legges til polititjenesteperson. Kongen i statsråd kan beslutte at nektelse av realitetsbehandling, og bortvisning i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller ikke anses som enkeltvedtak. Bestemmelsene i første til tredje punktum gjelder uten hensyn til hva som ellers ville fulgt av fjerde ledd. Det gjelder ikke plikt til forhåndsvarsling etter [forvaltningsloven § 37](lov/1967-02-10/§37) før Kongen i statsråd fatter beslutninger som nevnt i første til tredje punktum.
 
@@ -1792,7 +1792,7 @@ Kongen kan gi nærmere regler i forskrift.
 
 ### § 101. Systemet Eurodac
 
-Forordning [(EU) 2024/1358](eu/32024r1358) (Eurodac-forordningen) gjelder som lov, med unntak av artikkel 8 til 11 og kapittel VII og VIII, og gjelder med de begrensninger som følger av Norges tilknytningsavtale til Dublin-samarbeidet.1
+Forordning [(EU) 2024/1358](eu/32024r1358) (Eurodac-forordningen) gjelder som lov, med unntak av artikkel 8 til 11 og kapittel VII og VIII, og gjelder med de begrensninger som følger av Norges tilknytningsavtale til Dublin-samarbeidet.[^1]
 
 Kongen kan gi forskrift om behandling av opplysninger i Eurodac, herunder om behandlingsansvar, klageadgang og fremgangsmåte for klagebehandling.
 
@@ -2652,7 +2652,7 @@ Foruten forskrifter som nevnt i de enkelte paragrafer, kan Kongen i forskrift gi
 
 ### § 140. Ikrafttreden og overgangsbestemmelser
 
-Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Fra den tiden loven trer i kraft oppheves [lov 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her. Kongen kan gi overgangsbestemmelser i forskrift.
+Loven gjelder fra den tid Kongen bestemmer.[^1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Fra den tiden loven trer i kraft oppheves [lov 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her. Kongen kan gi overgangsbestemmelser i forskrift.
 
 > Endret ved lover [9 jan 2009 nr. 1](lov/2009-01-09-1) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324), tidligere § 125), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497), tidligere § 127).
 
@@ -2823,22 +2823,22 @@ under henvisning til traktaten om Den europeiske unions virkemåte, særlig arti
 
 under henvisning til forslag fra Europakommisjonen,
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,1 under henvisning til uttalelse fra Regionkomiteen,2
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^1] under henvisning til uttalelse fra Regionkomiteen,[^2]
 
-etter den ordinære regelverksprosessen,3 og ut fra følgende betraktninger:
+etter den ordinære regelverksprosessen,[^3] og ut fra følgende betraktninger:
 
-1. Det skal gjøres en rekke vesentlige endringer i rådsforordning [(EF) nr. 343/2003](eu/32003r0343) av 18. februar 2003 om fastsettelse av kriterier og ordninger for å avgjøre hvilken medlemsstat som er ansvarlig for behandlingen av en asylsøknad inngitt i en medlemsstat av en tredjelandsborger.4 Av klarhetshensyn bør direktivet omarbeides.
+1. Det skal gjøres en rekke vesentlige endringer i rådsforordning [(EF) nr. 343/2003](eu/32003r0343) av 18. februar 2003 om fastsettelse av kriterier og ordninger for å avgjøre hvilken medlemsstat som er ansvarlig for behandlingen av en asylsøknad inngitt i en medlemsstat av en tredjelandsborger.[^4] Av klarhetshensyn bør direktivet omarbeides.
 2. En felles asylpolitikk, herunder en felles europeisk asylordning (CEAS), er en av komponentene i Den europeiske unions mål om gradvis å opprette et område med frihet, sikkerhet og rettferdighet som er åpent for dem som, tvunget av omstendighetene, legitimt søker beskyttelse i Unionen.
 3. På sitt særlige møte i Tampere 15. og 16. oktober 1999 oppnådde Det europeiske råd enighet om å arbeide for å opprette en felles europeisk asylordning som bygger på en fullstendig og altomfattende anvendelse av FN-konvensjonen av 28. juli 1951 om flyktningers stilling, supplert med New York-protokollen av 31. januar 1967 («Genève-konvensjonen»), for derved å sikre at ingen blir sendt tilbake til forfølgelse, altså at prinsippet om vern mot retur («non refoulement») opprettholdes. I så henseende, og uten at ansvarskriteriene fastsatt i denne forordning berøres, betraktes medlemsstatene, som alle etterlever prinsippet om vern mot retur, som trygge land for tredjelandsborgere.
 4. I konklusjonene fra Tampere presiseres det også at den felles europeiske asylordning på kort sikt bør omfatte en klar og praktisk gjennomførbar metode for å avgjøre hvilken medlemsstat som er ansvarlig for behandlingen av en asylsøknad.
 5. En slik metode bør baseres på kriterier som er objektive og rettferdige for både medlemsstatene og de berørte personer. Den bør særlig gjøre det mulig å raskt avgjøre hvilken medlemsstat som er ansvarlig, for å sikre faktisk adgang til prosedyrene for innvilgelse av internasjonal beskyttelse, uten at det går på bekostning av målsettingen om rask behandling av søknader om internasjonal beskyttelse.
 6. Den første fasen i opprettelsen av en felles europeisk asylordning som på lengre sikt bør lede til en felles prosedyre og en ensartet status som gjelder i hele Unionen, for personer som innvilges internasjonal beskyttelse, er nå fullført. På sitt møte 4. november 2004 vedtok Det europeiske råd Haag-programmet, som fastsatte målene som skal oppnås på området frihet, sikkerhet og rettferdighet i perioden 2005–2010. I denne forbindelse oppfordret Haag- programmet Europakommisjonen til å avslutte evalueringen av rettsaktene fra første fase og legge rettsakter og tiltak for annen fase fram for Europaparlamentet og Rådet med henblikk på vedtakelse innen 2010.
 7. I Stockholm-programmet bekreftet Det europeiske råd sin forpliktelse til å nå målet om senest i 2012 å opprette et felles område for beskyttelse og solidaritet i henhold til artikkel 78 i traktaten om Den europeiske unions virkemåte (TEUV) for personer som innvilges internasjonal beskyttelse. Det understreket videre at Dublin-systemet fortsatt er en av hjørnesteinene i den felles europeiske asylordning, ettersom det klart fastlegger hvilken av medlemsstatene som er ansvarlig for behandlingen av søknader om internasjonal beskyttelse.
-8. Ressursene ved Det europeiske støttekontor på asylfeltet (EASO), som ble opprettet ved europaparlaments- og rådsforordning [(EU) nr. 439/2010](eu/32010r0439),5 bør være tilgjengelige for å gi hensiktsmessig støtte til de relevante tjenester i medlemsstatene som har ansvaret for å gjennomføre denne forordning. Særlig bør EASO tilby solidaritetstiltak, som asylinnsatsreserven med asylstøttegrupper, for å bistå medlemsstater som står under særlig press, og der personer som søker om internasjonal beskyttelse («søkerne»), ikke kan nyte godt av tilfredsstillende standarder, særlig med hensyn til mottak og beskyttelse.
+8. Ressursene ved Det europeiske støttekontor på asylfeltet (EASO), som ble opprettet ved europaparlaments- og rådsforordning [(EU) nr. 439/2010](eu/32010r0439),[^5] bør være tilgjengelige for å gi hensiktsmessig støtte til de relevante tjenester i medlemsstatene som har ansvaret for å gjennomføre denne forordning. Særlig bør EASO tilby solidaritetstiltak, som asylinnsatsreserven med asylstøttegrupper, for å bistå medlemsstater som står under særlig press, og der personer som søker om internasjonal beskyttelse («søkerne»), ikke kan nyte godt av tilfredsstillende standarder, særlig med hensyn til mottak og beskyttelse.
 9. I lys av resultatene av evalueringene som er foretatt av gjennomføringen av rettsaktene fra første fase, er det på dette stadium hensiktsmessig å bekrefte prinsippene som ligger til grunn for forordning [(EF) nr. 343/2003](eu/32003r0343), og samtidig, i lys av erfaringene, gjøre de nødvendige forbedringer i Dublin-systemets effektivitet og i den beskyttelse søkerne gis innenfor rammen av nevnte system. Ettersom et velfungerende Dublin-system er av avgjørende betydning for den felles europeiske asylordning, bør dets prinsipper og virkemåte revideres, mens andre komponenter i den felles europeiske asylordning og Unionens solidaritetsverktøyer bygges opp. Det bør foretas en omfattende kvalitetskontroll i form av en kunnskapsbasert revisjon som omfatter Dublin-systemets juridiske, økonomiske og sosiale virkninger, herunder dets virkninger for de grunnleggende rettigheter.
-10. For å sikre at alle som søker om eller har fått rett til internasjonal beskyttelse, behandles likt, og sikre samsvar med gjeldende EU-rett på asylområdet, særlig europaparlaments- og rådsdirektiv [2011/95/EU](eu/32011l0095) av 13. desember 2011 om fastsettelse av standarder for vilkår som tredjelandsborgere og statsløse må oppfylle for å ha rett til internasjonal beskyttelse, for en ensartet status for flyktninger og for personer som har rett til subsidiær beskyttelse, og for innholdet i den beskyttelse som innvilges,6 omfatter denne forordnings virkeområde personer som søker om subsidiær beskyttelse og personer som har rett til subsidiær beskyttelse.
-11. Europaparlaments- og rådsdirektiv [2013/33/EU](eu/32013l0033) av 26. juni 2013 om fastsettelse av standarder for mottak av personer som søker om internasjonal beskyttelse7 bør få anvendelse på prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, som fastsatt i denne forordning, med forbehold for begrensningene med hensyn til anvendelsen av nevnte direktiv.
-12. Europaparlaments- og rådsdirektiv [2013/32/EU](eu/32013l0032) av 26. juni 2013 om felles prosedyrer for innvilgelse og tilbaketrekking av internasjonal beskyttelse8 bør også få anvendelse, uten at dette berører bestemmelsene om garantier for rett saksbehandling gitt i denne forordning, med forbehold for begrensningene med hensyn til anvendelsen av nevnte direktiv.
+10. For å sikre at alle som søker om eller har fått rett til internasjonal beskyttelse, behandles likt, og sikre samsvar med gjeldende EU-rett på asylområdet, særlig europaparlaments- og rådsdirektiv [2011/95/EU](eu/32011l0095) av 13. desember 2011 om fastsettelse av standarder for vilkår som tredjelandsborgere og statsløse må oppfylle for å ha rett til internasjonal beskyttelse, for en ensartet status for flyktninger og for personer som har rett til subsidiær beskyttelse, og for innholdet i den beskyttelse som innvilges,[^6] omfatter denne forordnings virkeområde personer som søker om subsidiær beskyttelse og personer som har rett til subsidiær beskyttelse.
+11. Europaparlaments- og rådsdirektiv [2013/33/EU](eu/32013l0033) av 26. juni 2013 om fastsettelse av standarder for mottak av personer som søker om internasjonal beskyttelse[^7] bør få anvendelse på prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, som fastsatt i denne forordning, med forbehold for begrensningene med hensyn til anvendelsen av nevnte direktiv.
+12. Europaparlaments- og rådsdirektiv [2013/32/EU](eu/32013l0032) av 26. juni 2013 om felles prosedyrer for innvilgelse og tilbaketrekking av internasjonal beskyttelse[^8] bør også få anvendelse, uten at dette berører bestemmelsene om garantier for rett saksbehandling gitt i denne forordning, med forbehold for begrensningene med hensyn til anvendelsen av nevnte direktiv.
 13. I samsvar med FNs konvensjon om barnets rettigheter fra 1989 og Den europeiske unions pakt om grunnleggende rettigheter bør barnets beste være et grunnleggende hensyn for medlemsstatene ved anvendelse av denne forordning. Ved vurdering av barnets beste bør medlemsstatene særlig ta behørig hensyn til den mindreåriges trivsel og sosiale utvikling, sikkerhets- og trygghetshensyn og den mindreåriges egen mening avhengig av vedkommendes alder og modenhet, herunder vedkommendes bakgrunn. Det bør videre fastsettes særlige garantier for rett saksbehandling for enslige mindreårige på grunn av deres særlige sårbarhet.
 14. I samsvar med Den europeiske konvensjon om beskyttelse av menneskerettighetene og de grunnleggende friheter og Den europeiske unions pakt om grunnleggende rettigheter bør retten til respekt for familieliv være et grunnleggende hensyn for medlemsstatene ved anvendelse av denne forordning.
 15. Ved å foreta en samlet behandling i én medlemsstat av søknader om internasjonal beskyttelse fra medlemmer av samme familie kan det sikres at søknadene behandles grundig, at vedtakene som gjøres på grunnlag av dem, er forenlige med hverandre, og at medlemmene av en familie ikke skilles fra hverandre.
@@ -2850,16 +2850,16 @@ etter den ordinære regelverksprosessen,3 og ut fra følgende betraktninger:
 21. Mangler ved eller sammenbrudd i asylordninger, som et særlig press på ordningene ofte kan forverre eller bidra til, kan gjøre at en ordning som er opprettet i henhold til denne forordning ikke fungerer smidig, noe som kan medføre risiko for krenkelse av søkernes rettigheter som fastsatt i gjeldende EU-rett på asylområdet og i Den europeiske unions pakt om grunnleggende rettigheter, og krenkelse av andre internasjonale menneskerettigheter og flyktningers rettigheter.
 22. Det bør etableres en prosess for tidlig varsling, beredskap og håndtering av kriser på asylområdet som kan forebygge forverring eller sammenbrudd av asylordninger, og der EASO spiller en sentral rolle ved å bruke sin myndighet i henhold til forordning [(EU) nr. 439/2010](eu/32010r0439) til å sikre et et robust samarbeid innenfor rammen av denne forordning og utvikle gjensidig tillit mellom medlemsstatene med hensyn til asylpolitikken. En slik prosess bør sikre at Unionen varsles så raskt som mulig når det er bekymring for at ordningen som opprettes gjennom denne forordning, ikke lenger kan fungere smidig som følge av at asylordningen i en eller flere av medlemsstatene utsettes for særlig press og/eller på grunn av mangler ved asylordningen i en eller flere av medlemsstatene. En slik prosess ville gi Unionen mulighet til å fremme forebyggende tiltak på et tidlig stadium og vie slike situasjoner den nødvendige politiske oppmerksomhet. Solidaritet, som er et sentralt element i den felles europeiske asylordning, går hånd i hånd med gjensidig tillit. Ved å styrke den gjensidige tillit kan prosessen for tidlig varsling, beredskap og håndtering av kriser på asylområdet forbedre styringen av konkrete tiltak for reell og praktisk solidaritet overfor medlemsstatene for å bistå de berørte medlemsstater generelt og søkerne spesielt. I samsvar med artikkel 80 i TEUV bør EU-rettsakter, når det er nødvendig, inneholde egnede tiltak for å gjennomføre prinsippet om solidaritet, og prosessen bør ledsages av slike tiltak. Rådets konklusjoner av 8. mars 2012 om en felles ramme for reell og praktisk solidaritet overfor medlemsstater hvis asylordninger er utsatt for særlig press, blant annet på grunn av blandede migrasjonsstrømmer, er en «verktøykasse» for både eksisterende og potensielle nye tiltak som det bør tas hensyn til innenfor rammen av ordningen for tidlig varsling, beredskap og krisehåndtering.
 23. Medlemsstatene bør samarbeide med EASO om å samle inn opplysninger om medlemsstatenes evne til å håndtere et særlig press på deres asyl- og mottaksordninger, særlig innenfor rammen av anvendelsen av denne forordning. EASO bør regelmessig avlegge rapport om opplysningene som er samlet inn i samsvar med forordning [(EU) nr. 439/2010](eu/32010r0439).
-24. I samsvar med kommisjonsforordning [(EF) nr. 1560/2003](eu/32003r1560)9 kan overføringer til den medlemsstat som er ansvarlig for å behandle en søknad om internasjonal beskyttelse, gjennomføres på frivillig grunnlag gjennom kontrollert utreise eller med ledsagelse. Medlemsstatene bør fremme frivillige overføringer ved å gi søkeren tilstrekkelig informasjon og bør sikre at kontrollerte overføringer og overføringer med ledsagelse gjennomføres på en human måte som fullt ut respekterer de grunnleggende rettigheter og menneskeverdet samt barnets beste og tar størst mulig hensyn til utviklingen i relevant rettspraksis, særlig når det gjelder overføringer av humanitære grunner.
+24. I samsvar med kommisjonsforordning [(EF) nr. 1560/2003](eu/32003r1560)[^9] kan overføringer til den medlemsstat som er ansvarlig for å behandle en søknad om internasjonal beskyttelse, gjennomføres på frivillig grunnlag gjennom kontrollert utreise eller med ledsagelse. Medlemsstatene bør fremme frivillige overføringer ved å gi søkeren tilstrekkelig informasjon og bør sikre at kontrollerte overføringer og overføringer med ledsagelse gjennomføres på en human måte som fullt ut respekterer de grunnleggende rettigheter og menneskeverdet samt barnets beste og tar størst mulig hensyn til utviklingen i relevant rettspraksis, særlig når det gjelder overføringer av humanitære grunner.
 25. Den gradvise innføringen av et område uten indre grenser der fri bevegelighet for personer er garantert i samsvar med TEUV, og innføringen av en EU-politikk for vilkårene for tredjelandsborgeres innreise og opphold, med felles innsats for å kontrollere de ytre grenser, gjør det nødvendig å finne en balanse mellom ansvarskriteriene i en solidarisk ånd.
-26. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger10 får anvendelse på medlemsstatenes behandling av personopplysninger i henhold til denne forordning.
+26. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger[^10] får anvendelse på medlemsstatenes behandling av personopplysninger i henhold til denne forordning.
 27. Utveksling av en søkers personopplysninger, herunder følsomme opplysninger om vedkommendes helsetilstand, før en overføring vil sikre at de kompetente asylmyndigheter kan yte søkerne hensiktsmessig bistand og sikre kontinuitet i beskyttelsen og rettighetene som gis. Det bør fastsettes særlige bestemmelser for å sikre at opplysninger om søkere som befinner seg i denne situasjonen, blir beskyttet i samsvar med direktiv [95/46/EF](eu/31995l0046).
 28. Anvendelsen av denne forordning kan lettes og gjøres mer effektiv gjennom bilaterale avtaler mellom medlemsstatene med henblikk på å forbedre kommunikasjonen mellom kompetente myndigheter, korte ned behandlingsfristene, forenkle behandlingen av anmodninger om overtakelse eller tilbaketakelse og fastsette prosedyrer for gjennomføring av overføringer.
-29. Det bør sikres sammenheng mellom bestemmelsene om ansvarlig medlemsstat i forordning [(EF) nr. 343/2003](eu/32003r0343) og bestemmelsene i denne forordning. Tilsvarende bør det sikres samsvar mellom denne forordning og europaparlaments- og rådsforordning [(EU) nr. 603/2013](eu/32013r0603) av 26. juni 2013 om opprettelse av «Eurodac» for sammenligning av fingeravtrykk med henblikk på effektiv anvendelse av forordning [(EU) nr. 604/2013](eu/32013r0604*) om fastsettelse av kriterier og ordninger for å avgjøre hvilken medlemsstat som er ansvarlig for behandlingen av en søknad om internasjonal beskyttelse inngitt i en medlemsstat av en tredjelandsborger eller en statsløs, og om medlemsstatenes rettshåndhevende myndigheters og Europols adgang til å anmode om sammenligning med Eurodac-data med henblikk på rettshåndhevelse.11
+29. Det bør sikres sammenheng mellom bestemmelsene om ansvarlig medlemsstat i forordning [(EF) nr. 343/2003](eu/32003r0343) og bestemmelsene i denne forordning. Tilsvarende bør det sikres samsvar mellom denne forordning og europaparlaments- og rådsforordning [(EU) nr. 603/2013](eu/32013r0603) av 26. juni 2013 om opprettelse av «Eurodac» for sammenligning av fingeravtrykk med henblikk på effektiv anvendelse av forordning [(EU) nr. 604/2013](eu/32013r0604*) om fastsettelse av kriterier og ordninger for å avgjøre hvilken medlemsstat som er ansvarlig for behandlingen av en søknad om internasjonal beskyttelse inngitt i en medlemsstat av en tredjelandsborger eller en statsløs, og om medlemsstatenes rettshåndhevende myndigheters og Europols adgang til å anmode om sammenligning med Eurodac-data med henblikk på rettshåndhevelse.[^11]
 30. Eurodac-systemet, som ble opprettet ved forordning [(EU) nr. 603/2013](eu/32013r0603), bør lette anvendelsen av denne forordning.
-31. Visuminformasjonssystemet, som ble opprettet ved europaparlaments- og rådsforordning [(EF) nr. 767/2008](eu/32008r0767*) av 9. juli 2008 om visuminformasjonssystemet (VIS) og utveksling av opplysninger mellom medlemsstatene om visum for kortvarig opphold,12 og særlig gjennomføringen av artikkel 21 og 22 i nevnte forordning, bør lette anvendelsen av denne forordning.
+31. Visuminformasjonssystemet, som ble opprettet ved europaparlaments- og rådsforordning [(EF) nr. 767/2008](eu/32008r0767*) av 9. juli 2008 om visuminformasjonssystemet (VIS) og utveksling av opplysninger mellom medlemsstatene om visum for kortvarig opphold,[^12] og særlig gjennomføringen av artikkel 21 og 22 i nevnte forordning, bør lette anvendelsen av denne forordning.
 32. Når det gjelder behandlingen av personer som omfattes av denne forordnings virkeområde, er medlemsstatene bundet av sine forpliktelser i henhold til folkerettslige instrumenter, herunder relevant rettspraksis fra Den europeiske menneskerettighetsdomstol.
-33. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen tildeles gjennomføringsmyndighet. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av gjennomføringsmyndighet.13
+33. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen tildeles gjennomføringsmyndighet. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av gjennomføringsmyndighet.[^13]
 34. Prosedyren med undersøkelseskomité bør anvendes i forbindelse med vedtakelsen av en felles brosjyre om Dublin/Eurodac og en særskilt brosjyre for enslige mindreårige, et standardskjema for utveksling av relevante opplysninger om enslige mindreårige, ensartede vilkår for tilgang til og utveksling av opplysninger om mindreårige og forsørgede personer, ensartede vilkår for utarbeidelse og framsetting av anmodninger om overtakelse og tilbaketakelse, to lister over relevante beviselementer og indisier og den periodiske revisjonen av disse, et passerbrev, ensartede vilkår for tilgang til og utveksling av opplysninger om overføringer, et standardskjema for utveksling av opplysninger forut for en overføring, en felles helseattest, ensartede vilkår og praktiske ordninger for utveksling av en persons helseopplysninger forut for en overføring, og sikre elektroniske kanaler for oversending av anmodninger.
 35. For å fastsette utfyllende bestemmelser bør myndigheten til å vedta rettsakter delegeres til Kommisjonen i samsvar med artikkel 290 i TEUV når det gjelder identifikasjon av en enslig mindreårigs familiemedlemmer, søsken eller slektninger, kriteriene for å fastslå om det foreligger en dokumentert familiemessig tilknytning, kriteriene for vurdering av en slektnings evne til å ta seg av en enslig mindreårig, herunder i tilfeller der den enslige mindreåriges familiemedlemmer, søsken eller slektninger oppholder seg i mer enn én medlemsstat, hvilke elementer som skal tas hensyn til ved vurdering av et avhengighetsforhold, kriteriene for vurdering av en persons evne til å ta seg av en forsørget person, og hvilke elementer som skal tas hensyn til ved vurdering av om det i et vesentlig tidsrom er umulig for en person å reise. Når Kommisjonen utøver sin myndighet til å vedta delegerte rettsakter, skal den ikke gå lenger enn det som er til barnets beste i henhold til artikkel 6 nr. 3 i denne forordning. Det er av særlig betydning at Kommisjonen under sine forberedelser gjennomfører hensiktsmessige samråd, herunder på ekspertnivå. Når Kommisjonen forbereder og utarbeider delegerte rettsakter, bør den sørge for samtidig oversending av relevante dokumenter på hensiktsmessig måte og i god tid til Europaparlamentet og Rådet.
 36. Ved anvendelse av denne forordning, herunder ved utarbeiding av delegerte rettsakter, bør Kommisjonen blant annet samrå seg med eksperter fra alle relevante nasjonale myndigheter.
@@ -2936,11 +2936,11 @@ I denne forordning menes med
 
 ### Art 3. Adgang til prosedyren for behandling av en søknad om internasjonal beskyttelse
 
-1\. Medlemsstatene skal behandle enhver søknad om internasjonal beskyttelse1 som inngis av en tredjelandsborger2 eller statsløs på territoriet til en av dem, herunder ved grensen eller i transittområder. Søknaden skal behandles av en enkelt medlemsstat, som skal være den medlemsstat som etter kriteriene fastsatt i [kapittel III](lov/2008-05-15-35/kapiii) er ansvarlig.
+1\. Medlemsstatene skal behandle enhver søknad om internasjonal beskyttelse[^1] som inngis av en tredjelandsborger[^2] eller statsløs på territoriet til en av dem, herunder ved grensen eller i transittområder. Søknaden skal behandles av en enkelt medlemsstat, som skal være den medlemsstat som etter kriteriene fastsatt i [kapittel III](lov/2008-05-15-35/kapiii) er ansvarlig.
 
 2\. Når det ikke er mulig å utpeke noen ansvarlig medlemsstat på grunnlag av kriteriene fastsatt i denne forordning, skal den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, være ansvarlig for å behandle den.
 
-Når det ikke er mulig å overføre en søker3 til den medlemsstat som opprinnelig ble utpekt som ansvarlig, fordi det er vesentlige grunner til å tro at det finnes systemfeil ved asylprosedyren og mottaksforholdene for søkere i nevnte medlemsstat som medfører en risiko for umenneskelig eller nedverdigende behandling som definert i artikkel 4 i Den europeiske unions pakt om grunnleggende rettigheter, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, fortsette med å undersøke kriteriene i [kapittel III](lov/2008-05-15-35/kapiii) for å fastslå om en annen medlemsstat kan utpekes som ansvarlig.
+Når det ikke er mulig å overføre en søker[^3] til den medlemsstat som opprinnelig ble utpekt som ansvarlig, fordi det er vesentlige grunner til å tro at det finnes systemfeil ved asylprosedyren og mottaksforholdene for søkere i nevnte medlemsstat som medfører en risiko for umenneskelig eller nedverdigende behandling som definert i artikkel 4 i Den europeiske unions pakt om grunnleggende rettigheter, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, fortsette med å undersøke kriteriene i [kapittel III](lov/2008-05-15-35/kapiii) for å fastslå om en annen medlemsstat kan utpekes som ansvarlig.
 
 Dersom overføringen ikke kan foretas i henhold til dette nummer til noen medlemsstat utpekt på grunnlag av kriteriene i [kapittel III](lov/2008-05-15-35/kapiii), eller til den medlemsstat der søknaden først ble inngitt, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, bli den ansvarlige medlemsstat.
 
@@ -2954,7 +2954,7 @@ Dersom overføringen ikke kan foretas i henhold til dette nummer til noen medlem
 
 ### Art 4. Rett til informasjon
 
-1\. Så snart en søknad om internasjonal beskyttelse1 er inngitt i en medlemsstat i henhold til artikkel 20 nr. 2, skal de kompetente myndigheter i medlemsstaten underrette søkeren2 om anvendelsen av denne forordning, og særlig om
+1\. Så snart en søknad om internasjonal beskyttelse[^1] er inngitt i en medlemsstat i henhold til artikkel 20 nr. 2, skal de kompetente myndigheter i medlemsstaten underrette søkeren[^2] om anvendelsen av denne forordning, og særlig om
 
 1. formålene med denne forordning og konsekvensene av å inngi en ny søknad i en annen medlemsstat samt konsekvensene av å flytte fra en medlemsstat til en annen mens vurderingen av hvilken medlemsstat som er ansvarlig i henhold til denne forordning pågår og søknaden om internasjonal beskyttelse behandles,
 2. kriteriene for å avgjøre hvilken medlemsstat som er ansvarlig, hierarkiet mellom kriteriene i de ulike trinnene i prosedyren og deres varighet, samt det faktum at når en søknad om internasjonal beskyttelse inngis i en medlemsstat, kan dette medføre at denne medlemsstat blir ansvarlig i henhold til denne forordning, selv når et slikt ansvar ikke følger av nevnte kriterier,
@@ -2975,7 +2975,7 @@ Når det er nødvendig for å sikre at søkeren forstår opplysningene korrekt, 
 
 ### Art 5. Personlig intervju
 
-1\. For å gjøre det lettere å avgjøre hvilken medlemsstat som er ansvarlig, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, gjennomføre et personlig intervju med søkeren.1 Intervjuet skal også sikre at informasjonen som gis til søkeren i samsvar med artikkel 4, blir korrekt forstått.
+1\. For å gjøre det lettere å avgjøre hvilken medlemsstat som er ansvarlig, skal den medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, gjennomføre et personlig intervju med søkeren.[^1] Intervjuet skal også sikre at informasjonen som gis til søkeren i samsvar med artikkel 4, blir korrekt forstått.
 
 2\. Det er ikke nødvendig å gjennomføre det personlige intervjuet dersom
 
@@ -2996,7 +2996,7 @@ Når det er nødvendig for å sikre at søkeren forstår opplysningene korrekt, 
 
 1\. Barnets beste skal være et grunnleggende hensyn for medlemsstatene i alle prosedyrer som er fastsatt i denne forordning.
 
-2\. Medlemsstatene skal sikre at en representant representerer og/eller bistår en enslig mindreårig1 i forbindelse med alle prosedyrer som er fastsatt i denne forordning. Representantene skal ha de kvalifikasjoner og den sakkunnskap som er nødvendig for å sikre at det blir tatt hensyn til den mindreåriges beste under de prosedyrer som gjennomføres i henhold til denne forordning. En slik representant skal ha tilgang til innholdet i de relevante dokumenter i søkerens saksmappe, herunder den særskilte brosjyren for enslige mindreårige.
+2\. Medlemsstatene skal sikre at en representant representerer og/eller bistår en enslig mindreårig[^1] i forbindelse med alle prosedyrer som er fastsatt i denne forordning. Representantene skal ha de kvalifikasjoner og den sakkunnskap som er nødvendig for å sikre at det blir tatt hensyn til den mindreåriges beste under de prosedyrer som gjennomføres i henhold til denne forordning. En slik representant skal ha tilgang til innholdet i de relevante dokumenter i søkerens saksmappe, herunder den særskilte brosjyren for enslige mindreårige.
 
 Dette nummer skal ikke berøre de relevante bestemmelsene i artikkel 25 i direktiv [2013/32/EU](eu/32013l0032).
 
@@ -3007,7 +3007,7 @@ Dette nummer skal ikke berøre de relevante bestemmelsene i artikkel 25 i direkt
 3. sikkerhetshensyn, særlig dersom det er en risiko for at barnet er offer for menneskehandel,
 4. den mindreåriges egen mening avhengig av vedkommendes alder og modenhet.
 
-4\. Ved anvendelse av artikkel 8 skal den medlemsstat der den enslige mindreårige har inngitt en søknad om internasjonal beskyttelse,2 raskest mulig iverksette hensiktsmessige tiltak for å identifisere den enslige mindreåriges familiemedlemmer,3 søsken eller slektninger4 på medlemsstatenes territorium, samtidig som den ivaretar barnets beste.
+4\. Ved anvendelse av artikkel 8 skal den medlemsstat der den enslige mindreårige har inngitt en søknad om internasjonal beskyttelse,[^2] raskest mulig iverksette hensiktsmessige tiltak for å identifisere den enslige mindreåriges familiemedlemmer,[^3] søsken eller slektninger[^4] på medlemsstatenes territorium, samtidig som den ivaretar barnets beste.
 
 Med henblikk på dette kan den berørte medlemsstat søke bistand fra internasjonale eller andre relevante organisasjoner og legge til rette for at den mindreårige kan få adgang til disse organisasjonenes sporingstjenester.
 
@@ -3031,7 +3031,7 @@ Personalet hos de kompetente myndigheter som er nevnt i artikkel 35, og som beha
 
 2\. Avgjørelsen om hvilken medlemsstat som er ansvarlig i henhold til kriteriene i dette kapittel, skal treffes på grunnlag av situasjonen på tidspunktet da søkeren for første gang innga en søknad om internasjonal beskyttelse i en medlemsstat.
 
-3\. Ved anvendelsen av kriteriene i artikkel 8, 10 og 16 skal medlemsstatene ta hensyn til alle tilgjengelige beviser vedrørende tilstedeværelsen av familiemedlemmer,1 slektninger2 eller andre nærstående på en medlemsstats territorium, forutsatt at slike beviser legges fram før en annen medlemsstat har akseptert anmodningen om å overta eller ta tilbake ansvaret for vedkommende, i henhold til henholdsvis artikkel 22 og 25, og forutsatt at det ennå ikke er truffet en første realitetsavgjørelse om søkerens tidligere søknader om internasjonal beskyttelse.
+3\. Ved anvendelsen av kriteriene i artikkel 8, 10 og 16 skal medlemsstatene ta hensyn til alle tilgjengelige beviser vedrørende tilstedeværelsen av familiemedlemmer,[^1] slektninger[^2] eller andre nærstående på en medlemsstats territorium, forutsatt at slike beviser legges fram før en annen medlemsstat har akseptert anmodningen om å overta eller ta tilbake ansvaret for vedkommende, i henhold til henholdsvis artikkel 22 og 25, og forutsatt at det ennå ikke er truffet en første realitetsavgjørelse om søkerens tidligere søknader om internasjonal beskyttelse.
 
 1 Se art 2, g.
 
@@ -3039,11 +3039,11 @@ Personalet hos de kompetente myndigheter som er nevnt i artikkel 35, og som beha
 
 ### Art 8. Mindreårige
 
-1\. Når søkeren1 er en enslig mindreårig,2 skal den medlemsstat der et medlem av den mindreåriges familie eller en av hans eller hennes søsken lovlig oppholder seg, være den ansvarlige medlemsstat, forutsatt at dette er til den mindreåriges beste. Når søkeren er en gift mindreårig hvis ektefelle ikke oppholder seg lovlig på medlemsstatenes territorium, skal den medlemsstat der den mindreåriges far, mor eller en annen voksen som er ansvarlig for vedkommende i henhold til lovgivning eller sedvane i medlemsstaten, eller en av vedkommendes søsken, lovlig oppholder seg, være den ansvarlige medlemsstat.
+1\. Når søkeren[^1] er en enslig mindreårig,[^2] skal den medlemsstat der et medlem av den mindreåriges familie eller en av hans eller hennes søsken lovlig oppholder seg, være den ansvarlige medlemsstat, forutsatt at dette er til den mindreåriges beste. Når søkeren er en gift mindreårig hvis ektefelle ikke oppholder seg lovlig på medlemsstatenes territorium, skal den medlemsstat der den mindreåriges far, mor eller en annen voksen som er ansvarlig for vedkommende i henhold til lovgivning eller sedvane i medlemsstaten, eller en av vedkommendes søsken, lovlig oppholder seg, være den ansvarlige medlemsstat.
 
 2\. Når søkeren er en enslig mindreårig som har en slektning som oppholder seg lovlig i en annen medlemsstat, og det på grunnlag av en individuell vurdering er fastslått at slektningen kan ta seg av vedkommende, skal den berørte medlemsstat føre den mindreårige sammen med vedkommendes slektning og være den ansvarlige medlemsstat, forutsatt at dette er til den mindreåriges beste.
 
-3\. Når familiemedlemmer,3 søsken eller slektninger4 som nevnt i nr. 1 og 2, oppholder seg i mer enn én medlemsstat, skal avgjørelsen om hvilken medlemsstat som er ansvarlig, treffes på grunnlag av hva som er til den enslige mindreåriges beste.
+3\. Når familiemedlemmer,[^3] søsken eller slektninger[^4] som nevnt i nr. 1 og 2, oppholder seg i mer enn én medlemsstat, skal avgjørelsen om hvilken medlemsstat som er ansvarlig, treffes på grunnlag av hva som er til den enslige mindreåriges beste.
 
 4\. Finnes det ingen familiemedlemmer, søsken eller slektninger som nevnt i nr. 1 og 2, skal den medlemsstat der den enslige mindreårige har inngitt sin søknad om internasjonal beskyttelse, være den ansvarlige medlemsstat, forutsatt at dette er til den mindreåriges beste.
 
@@ -3061,7 +3061,7 @@ Personalet hos de kompetente myndigheter som er nevnt i artikkel 35, og som beha
 
 ### Art 9. Familiemedlemmer med rett til internasjonal beskyttelse
 
-Når søkeren,1 uavhengig av om familien opprinnelig var stiftet i hjemlandet, har et familiemedlem2 som i egenskap av å være en person med rett til internasjonal beskyttelse har fått tillatelse til å oppholde seg i en medlemsstat, skal denne medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse, forutsatt at de berørte personer skriftlig har uttrykt ønske om dette.
+Når søkeren,[^1] uavhengig av om familien opprinnelig var stiftet i hjemlandet, har et familiemedlem[^2] som i egenskap av å være en person med rett til internasjonal beskyttelse har fått tillatelse til å oppholde seg i en medlemsstat, skal denne medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse, forutsatt at de berørte personer skriftlig har uttrykt ønske om dette.
 
 1 Se art 2, c.
 
@@ -3075,7 +3075,7 @@ Dersom søkeren har et familiemedlem i en medlemsstat og det ennå ikke er truff
 
 Dersom flere medlemmer av en familie og/eller mindreårige ugifte søsken inngir søknader om internasjonal beskyttelse i samme medlemsstat samtidig eller på datoer som er tilstrekkelig nær i tid til at det kan gjennomføres en felles prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig, og dersom anvendelsen av kriteriene i denne forordning ville føre til at de ble skilt fra hverandre, skal avgjørelsen om hvilken medlemsstat som er ansvarlig, treffes på grunnlag av følgende bestemmelser:
 
-1. Ansvaret for behandlingen av søknadene om internasjonal beskyttelse1 til samtlige familiemedlemmer2 og/eller mindreårige ugifte søsken skal påhvile den medlemsstat som etter kriteriene er ansvarlig for det største antallet av dem.
+1. Ansvaret for behandlingen av søknadene om internasjonal beskyttelse[^1] til samtlige familiemedlemmer[^2] og/eller mindreårige ugifte søsken skal påhvile den medlemsstat som etter kriteriene er ansvarlig for det største antallet av dem.
 2. Dersom denne løsningen ikke er mulig, skal ansvaret påhvile den medlemsstat som etter kriteriene er ansvarlig for behandlingen av søknaden til den eldste av dem.
 
 1 Se art 2, d.
@@ -3084,9 +3084,9 @@ Dersom flere medlemmer av en familie og/eller mindreårige ugifte søsken inngir
 
 ### Art 12. Utstedelse av oppholdsdokumenter eller visum
 
-1\. Når søkeren1 er i besittelse av et gyldig oppholdsdokument,2 er den medlemsstat som har utstedt dokumentet, ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.3
+1\. Når søkeren[^1] er i besittelse av et gyldig oppholdsdokument,[^2] er den medlemsstat som har utstedt dokumentet, ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.[^3]
 
-2\. Når søkeren er i besittelse av et gyldig visum,4 skal den medlemsstat som har utstedt visumet, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse, med mindre visumet ble utstedt på vegne av en annen medlemsstat i henhold til en representasjonsavtale som nevnt i artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 810/2009](eu/32009r0810*) om innføring av fellesskapsregler for visum.5 I så tilfelle skal sistnevnte medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
+2\. Når søkeren er i besittelse av et gyldig visum,[^4] skal den medlemsstat som har utstedt visumet, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse, med mindre visumet ble utstedt på vegne av en annen medlemsstat i henhold til en representasjonsavtale som nevnt i artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 810/2009](eu/32009r0810*) om innføring av fellesskapsregler for visum.[^5] I så tilfelle skal sistnevnte medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
 
 3\. Når søkeren er i besittelse av flere gyldige oppholdsdokumenter eller visa som er utstedt av forskjellige medlemsstater, er medlemsstatene i følgende rekkefølge ansvarlige for behandlingen av søknaden om internasjonal beskyttelse:
 
@@ -3112,7 +3112,7 @@ Når søkeren er i besittelse av et eller flere oppholdsdokumenter som utløp fo
 
 ### Art 13. Innreise og/eller opphold
 
-1\. Når det på grunnlag av bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 i denne forordning, herunder opplysningene nevnt i forordning [(EF) nr. 603/2013](eu/32013r0603), er fastslått at en søker1 ulovlig har krysset grensen land-, sjø- eller luftveien fra et tredjeland til en medlemsstat, skal den medlemsstat der innreisen fant sted, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse. Dette ansvar skal opphøre tolv måneder etter den dato da den ulovlige grensepasseringen fant sted.
+1\. Når det på grunnlag av bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3 i denne forordning, herunder opplysningene nevnt i forordning [(EF) nr. 603/2013](eu/32013r0603), er fastslått at en søker[^1] ulovlig har krysset grensen land-, sjø- eller luftveien fra et tredjeland til en medlemsstat, skal den medlemsstat der innreisen fant sted, være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse. Dette ansvar skal opphøre tolv måneder etter den dato da den ulovlige grensepasseringen fant sted.
 
 2\. Når en medlemsstat ikke kan eller ikke lenger kan holdes ansvarlig i henhold til nr. 1, og når det på grunnlag av bevis eller indisier som beskrevet i de to listene nevnt i artikkel 22 nr. 3, er fastslått at en søker som har reist ulovlig inn på medlemsstatenes territorium, eller der omstendighetene rundt søkerens innreise ikke kan fastslås, allerede har oppholdt seg i en medlemsstat sammenhengende i minst fem måneder før søknaden om internasjonal beskyttelse ble inngitt, skal denne medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
 
@@ -3122,7 +3122,7 @@ Dersom søkeren har oppholdt seg i tidsrom på minst fem måneder i flere medlem
 
 ### Art 14. Innreise etter fritak for visumplikt
 
-1\. Dersom en tredjelandsborger1 eller statsløs reiser inn på en medlemsstats territorium der han eller hun er fritatt for visumplikt, skal denne medlemsstat være ansvarlig for behandlingen av hans eller hennes søknad om internasjonal beskyttelse.2
+1\. Dersom en tredjelandsborger[^1] eller statsløs reiser inn på en medlemsstats territorium der han eller hun er fritatt for visumplikt, skal denne medlemsstat være ansvarlig for behandlingen av hans eller hennes søknad om internasjonal beskyttelse.[^2]
 
 2\. Prinsippet i nr. 1 skal ikke få anvendelse dersom tredjelandsborgeren eller den statsløse inngir sin søknad om internasjonal beskyttelse i en annen medlemsstat der han eller hun også er fritatt for visumplikt ved innreise. I så tilfelle skal sistnevnte medlemsstat være ansvarlig for behandlingen av søknaden om internasjonal beskyttelse.
 
@@ -3132,7 +3132,7 @@ Dersom søkeren har oppholdt seg i tidsrom på minst fem måneder i flere medlem
 
 ### Art 15. Inngivelse av søknad i et internasjonalt transittområde i en lufthavn
 
-Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transittområde i en lufthavn i en medlemsstat av en tredjelandsborger1 eller en statsløs, skal denne medlemsstat være ansvarlig for behandlingen av søknaden.
+Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transittområde i en lufthavn i en medlemsstat av en tredjelandsborger[^1] eller en statsløs, skal denne medlemsstat være ansvarlig for behandlingen av søknaden.
 
 1 Se art 2, a.
 
@@ -3140,7 +3140,7 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 16. Forsørgede personer
 
-1\. Når søkeren1 på grunn av graviditet, et nyfødt barn, alvorlig sykdom, alvorlig funksjonshemning eller høy alder er avhengig av hjelp fra barn, bror, søster eller forelder som har lovlig opphold i en av medlemsstatene, eller når søkerens barn, bror, søster eller forelder som har lovlig opphold i en av medlemsstatene, er avhengig av hjelp fra søkeren, skal medlemsstatene normalt holde eller føre søkeren sammen med barnet, søsteren, broren eller forelderen, under forutsetning av at familiebånd fantes i hjemlandet, at barnet, søsteren, broren eller forelderen eller søkeren er i stand til å ta seg av den forsørgede personen, og at de berørte skriftlig har uttrykt ønske om dette.
+1\. Når søkeren[^1] på grunn av graviditet, et nyfødt barn, alvorlig sykdom, alvorlig funksjonshemning eller høy alder er avhengig av hjelp fra barn, bror, søster eller forelder som har lovlig opphold i en av medlemsstatene, eller når søkerens barn, bror, søster eller forelder som har lovlig opphold i en av medlemsstatene, er avhengig av hjelp fra søkeren, skal medlemsstatene normalt holde eller føre søkeren sammen med barnet, søsteren, broren eller forelderen, under forutsetning av at familiebånd fantes i hjemlandet, at barnet, søsteren, broren eller forelderen eller søkeren er i stand til å ta seg av den forsørgede personen, og at de berørte skriftlig har uttrykt ønske om dette.
 
 2\. Når barnet, broren, søsteren eller forelderen nevnt i nr. 1 har lovlig opphold i en annen medlemsstat enn den der søkeren oppholder seg, skal den ansvarlige medlemsstat være den der barnet, broren, søsteren eller forelderen har lovlig opphold, med mindre søkerens helsetilstand i et vesentlig tidsrom gjør det umulig for vedkommende å reise til denne medlemsstaten. I så tilfelle skal den ansvarlige medlemsstat være den medlemsstat der søkeren oppholder seg. Nevnte medlemsstat skal ikke være forpliktet til å bringe søkerens barn, bror, søster eller forelder til sitt territorium.
 
@@ -3152,7 +3152,7 @@ Dersom en søknad om internasjonal beskyttelse inngis i et internasjonalt transi
 
 ### Art 17. Skjønnsbestemmelser
 
-1\. Som unntak fra artikkel 3 nr. 1 kan enhver medlemsstat velge å behandle en søknad om internasjonal beskyttelse1 som er inngitt til den av en tredjelandsborger eller statsløs, selv om slik behandling ikke er dens ansvar i henhold til kriteriene som er fastsatt i denne forordning.
+1\. Som unntak fra artikkel 3 nr. 1 kan enhver medlemsstat velge å behandle en søknad om internasjonal beskyttelse[^1] som er inngitt til den av en tredjelandsborger eller statsløs, selv om slik behandling ikke er dens ansvar i henhold til kriteriene som er fastsatt i denne forordning.
 
 Den medlemsstat som velger å behandle en søknad om internasjonal beskyttelse i henhold til dette nummer, skal bli den ansvarlige medlemsstat og skal påta seg forpliktelsene som er forbundet med dette ansvar. Om relevant skal den, ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560), underrette den medlemsstat som tidligere var ansvarlig, den medlemsstat som gjennomfører en prosedyre for å avgjøre hvilken medlemsstat som er ansvarlig, eller den medlemsstat som har mottatt en anmodning om å overta eller ta tilbake ansvaret for søkeren.
 
@@ -3176,7 +3176,7 @@ Dersom den anmodede medlemsstat etterkommer anmodningen, skal ansvaret for behan
 
 1. overta, på vilkårene fastsatt i artikkel 21, 22 og 29, ansvaret for en søker som har inngitt en søknad i en annen medlemsstat,
 2. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en søker hvis søknad er under behandling, og som har inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,
-3. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger1 eller statsløs som har trukket tilbake2 søknaden som er under behandling og inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,
+3. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger[^1] eller statsløs som har trukket tilbake[^2] søknaden som er under behandling og inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument,
 4. ta tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, en tredjelandsborger eller statsløs som har fått avslag på sin søknad og som har inngitt en søknad i en annen medlemsstat, eller som oppholder seg på en annen medlemsstats territorium uten et oppholdsdokument.
 
 2\. I tilfellene som faller inn under virkeområdet til nr. 1 bokstav a) og b), skal den ansvarlige medlemsstat behandle eller fullføre behandlingen av søknaden om internasjonal beskyttelse som søkeren har inngitt.
@@ -3191,7 +3191,7 @@ Når det bare er gitt avslag på søknaden i første instans, skal den ansvarlig
 
 ### Art 19. Opphør av ansvar
 
-1\. Når en medlemsstat utsteder et oppholdsdokument til en søker,1 skal forpliktelsene angitt i artikkel 18 nr. 1 overføres til denne medlemsstat.
+1\. Når en medlemsstat utsteder et oppholdsdokument til en søker,[^1] skal forpliktelsene angitt i artikkel 18 nr. 1 overføres til denne medlemsstat.
 
 2\. Forpliktelsene i artikkel 18 nr. 1 skal opphøre når den ansvarlige medlemsstat kan godtgjøre, etter å ha blitt anmodet om å overta eller ta tilbake ansvaret for en søker eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), at vedkommende har forlatt medlemsstatenes territorium i minst tre måneder, med mindre vedkommende er i besittelse av et gyldig oppholdsdokument utstedt av den ansvarlige medlemsstat.
 
@@ -3213,13 +3213,13 @@ En søknad som inngis etter at en uttransportering faktisk har funnet sted, skal
 
 2\. En søknad om internasjonal beskyttelse skal anses å være inngitt når et skjema innlevert av søkeren eller en rapport utarbeidet av myndighetene er mottatt av de kompetente myndigheter i den berørte medlemsstat. Dersom søknaden ikke inngis skriftlig, skal det gå kortest mulig tid fra intensjonserklæringen framlegges og til det er utarbeidet en rapport.
 
-3\. I henhold til denne forordning skal situasjonen til en mindreårig som ledsager søkeren og oppfyller definisjonen av familiemedlem,1 være uløselig forbundet med vedkommendes familiemedlems situasjon og skal være et anliggende for den medlemsstat som er ansvarlig for behandlingen av nevnte familiemedlems søknad om internasjonal beskyttelse, selv om den mindreårige selv ikke er søker, under forutsetning av at dette er til den mindreåriges beste. Samme behandling skal gis barn født etter at søkeren har ankommet medlemsstatenes territorium, uten at det er nødvendig å innlede en ny prosedyre for å overta ansvaret for dem.
+3\. I henhold til denne forordning skal situasjonen til en mindreårig som ledsager søkeren og oppfyller definisjonen av familiemedlem,[^1] være uløselig forbundet med vedkommendes familiemedlems situasjon og skal være et anliggende for den medlemsstat som er ansvarlig for behandlingen av nevnte familiemedlems søknad om internasjonal beskyttelse, selv om den mindreårige selv ikke er søker, under forutsetning av at dette er til den mindreåriges beste. Samme behandling skal gis barn født etter at søkeren har ankommet medlemsstatenes territorium, uten at det er nødvendig å innlede en ny prosedyre for å overta ansvaret for dem.
 
-4\. Dersom en søker2 som oppholder seg på en medlemsstats territorium, inngir en søknad om internasjonal beskyttelse til de kompetente myndigheter i en annen medlemsstat, skal den medlemsstat på hvis territorium søkeren oppholder seg, avgjøre hvilken medlemsstat som er ansvarlig. Sistnevnte medlemsstat skal uten opphold underrettes av den medlemsstat som mottok søknaden, og skal deretter, i henhold til denne forordning, betraktes som den medlemsstat der søknaden om internasjonal beskyttelse ble inngitt.
+4\. Dersom en søker[^2] som oppholder seg på en medlemsstats territorium, inngir en søknad om internasjonal beskyttelse til de kompetente myndigheter i en annen medlemsstat, skal den medlemsstat på hvis territorium søkeren oppholder seg, avgjøre hvilken medlemsstat som er ansvarlig. Sistnevnte medlemsstat skal uten opphold underrettes av den medlemsstat som mottok søknaden, og skal deretter, i henhold til denne forordning, betraktes som den medlemsstat der søknaden om internasjonal beskyttelse ble inngitt.
 
 Søkeren skal underrettes skriftlig om endringen av medlemsstat som gjennomfører prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, og om på hvilken dato endringen fant sted.
 
-5\. En søker som oppholder seg i en annen medlemsstat uten et oppholdsdokument eller som inngir en søknad om internasjonal beskyttelse der etter å ha trukket tilbake3 sin første søknad inngitt i en annen medlemsstat mens prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig pågår, skal tas tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, av den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, med henblikk på å fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig.
+5\. En søker som oppholder seg i en annen medlemsstat uten et oppholdsdokument eller som inngir en søknad om internasjonal beskyttelse der etter å ha trukket tilbake[^3] sin første søknad inngitt i en annen medlemsstat mens prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig pågår, skal tas tilbake, på vilkårene fastsatt i artikkel 23, 24, 25 og 29, av den medlemsstat der søknaden om internasjonal beskyttelse først ble inngitt, med henblikk på å fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig.
 
 Denne forpliktelse skal opphøre dersom den medlemsstat som er blitt anmodet om fullføre prosedyren for å avgjøre hvilken medlemsstat som er ansvarlig, kan godtgjøre at søkeren i mellomtiden har forlatt medlemsstatenes territorium i et tidsrom på minst tre måneder, eller har fått utstedt et oppholdsdokument av en annen medlemsstat.
 
@@ -3294,7 +3294,7 @@ Kommisjonen skal gjennom gjennomføringsrettsakter vedta ensartede vilkår for u
 
 1\. Dersom en medlemsstat på hvis territorium en person som nevnt i artikkel 18 nr. 1 bokstav b), c) eller d) oppholder seg uten oppholdsdokument, og som ikke har mottatt noen ny søknad om internasjonal beskyttelse, anser at en annen medlemsstat er ansvarlig i henhold til artikkel 20 nr. 5 og artikkel 18 nr. 1 bokstav b), c) eller d), kan den anmode den andre medlemsstaten om å ta vedkommende tilbake.
 
-2\. Som unntak fra artikkel 6 nr. 2 i europaparlaments- og rådsdirektiv [2008/115/EF](eu/32008l0115) av 16. desember 2008 om felles standarder og prosedyrer i medlemsstatene for retur av tredjelandsborgere med ulovlig opphold1 skal en medlemsstat på hvis territorium en person oppholder seg uten oppholdsdokument, når den beslutter å søke i Eurodac-systemet i samsvar med artikkel 17 i forordning [(EU) nr. 603/2013](eu/32013r0603), framsette anmodningen om tilbaketakelse av en person som nevnt i artikkel 18 nr. 1 bokstav b) eller c) i denne forordning, eller en person som nevnt i artikkel 18 nr. 1 bokstav d) i denne forordning, som ikke har fått endelig avslag på sin søknad om internasjonal beskyttelse, så raskt som mulig og under alle omstendigheter senest to måneder etter at treffet i Eurodac ble registrert i henhold til artikkel 17 nr. 5 i forordning [(EU) nr. 603/2013](eu/32013r0603).
+2\. Som unntak fra artikkel 6 nr. 2 i europaparlaments- og rådsdirektiv [2008/115/EF](eu/32008l0115) av 16. desember 2008 om felles standarder og prosedyrer i medlemsstatene for retur av tredjelandsborgere med ulovlig opphold[^1] skal en medlemsstat på hvis territorium en person oppholder seg uten oppholdsdokument, når den beslutter å søke i Eurodac-systemet i samsvar med artikkel 17 i forordning [(EU) nr. 603/2013](eu/32013r0603), framsette anmodningen om tilbaketakelse av en person som nevnt i artikkel 18 nr. 1 bokstav b) eller c) i denne forordning, eller en person som nevnt i artikkel 18 nr. 1 bokstav d) i denne forordning, som ikke har fått endelig avslag på sin søknad om internasjonal beskyttelse, så raskt som mulig og under alle omstendigheter senest to måneder etter at treffet i Eurodac ble registrert i henhold til artikkel 17 nr. 5 i forordning [(EU) nr. 603/2013](eu/32013r0603).
 
 Dersom anmodningen om tilbaketakelse er basert på andre beviser enn opplysninger fra Eurodac-systemet, skal den sendes til den anmodede medlemsstat senest tre måneder etter datoen da den anmodende medlemsstat ble oppmerksom på at en annen medlemsstat kan være ansvarlig for vedkommende.
 
@@ -3320,7 +3320,7 @@ Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide og jevnlig revidere
 
 ### Art 26. Meddelelse av et vedtak om overføring
 
-1\. Når den anmodede medlemsstat etterkommer anmodningen om å overta eller ta tilbake ansvaret for en søker1 eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), skal den anmodende medlemsstat underrette vedkommende om vedtaket om å overføre ham eller henne til den ansvarlige medlemsstat og, om relevant, om at den ikke vil behandle hans eller hennes søknad om internasjonal beskyttelse. Dersom en juridisk rådgiver eller annen rådgiver representerer vedkommende, kan medlemsstatene velge å meddele beslutningen til en slik juridisk rådgiver eller annen rådgiver i stedet for til den berørte selv og, om relevant, underrette vedkommende om beslutningen.
+1\. Når den anmodede medlemsstat etterkommer anmodningen om å overta eller ta tilbake ansvaret for en søker[^1] eller annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), skal den anmodende medlemsstat underrette vedkommende om vedtaket om å overføre ham eller henne til den ansvarlige medlemsstat og, om relevant, om at den ikke vil behandle hans eller hennes søknad om internasjonal beskyttelse. Dersom en juridisk rådgiver eller annen rådgiver representerer vedkommende, kan medlemsstatene velge å meddele beslutningen til en slik juridisk rådgiver eller annen rådgiver i stedet for til den berørte selv og, om relevant, underrette vedkommende om beslutningen.
 
 2\. Vedtaket nevnt i nr. 1 skal inneholde opplysninger om tilgjengelige rettsmidler, herunder om retten til eventuelt å framsette begjæring om oppsettende virkning, og om fristene for anvendelse av disse rettsmidler og for iverksetting av overføringen, og skal om nødvendig omfatte opplysninger om hvor og når vedkommende skal møte opp dersom han eller hun reiser til den ansvarlige medlemsstat på eget initiativ.
 
@@ -3364,7 +3364,7 @@ Prosedyrene for adgang til juridisk bistand skal fastsettes i nasjonal lovgivnin
 
 1\. Medlemsstatene skal ikke holde en person fengslet utelukkende med den begrunnelse at vedkommende er gjenstand for prosedyren fastsatt ved denne forordning.
 
-2\. Når det foreligger en vesentlig unndragelsesfare,1 kan medlemsstatene holde vedkommende fengslet for å sikre prosedyrer for overføring i henhold til denne forordning, på grunnlag av en individuell vurdering og bare i den utstrekning fengsling er et forholdsmessig tiltak og alternative, mindre inngripende tiltak ikke kan anvendes effektivt.
+2\. Når det foreligger en vesentlig unndragelsesfare,[^1] kan medlemsstatene holde vedkommende fengslet for å sikre prosedyrer for overføring i henhold til denne forordning, på grunnlag av en individuell vurdering og bare i den utstrekning fengsling er et forholdsmessig tiltak og alternative, mindre inngripende tiltak ikke kan anvendes effektivt.
 
 3\. Fengslingen skal være så kortvarig som mulig og skal ikke være lengre enn det som er rimelig for at de nødvendige forvaltningsmessige prosedyrer kan gjennomføres på behørig vis, fram til overføringen i henhold til denne forordning gjennomføres.
 
@@ -3382,7 +3382,7 @@ Dersom den anmodende medlemsstat ikke overholder fristene for å framsette en an
 
 ### Art 29. Nærmere bestemmelser og frister
 
-1\. Overføringen av søkeren1 eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d) fra den anmodende medlemsstat til den ansvarlige medlemsstat skal gjennomføres i samsvar med nasjonal lovgivning i den anmodende medlemsstat, etter samråd mellom de berørte medlemsstater, så snart som mulig og senest innen seks måneder etter at en annen medlemsstat har etterkommet anmodningen om å overta eller ta tilbake ansvaret for vedkommende, eller etter at klagen eller overprøvingen med oppsettende virkning i samsvar med artikkel 27 nr. 3 er endelig avgjort.
+1\. Overføringen av søkeren[^1] eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d) fra den anmodende medlemsstat til den ansvarlige medlemsstat skal gjennomføres i samsvar med nasjonal lovgivning i den anmodende medlemsstat, etter samråd mellom de berørte medlemsstater, så snart som mulig og senest innen seks måneder etter at en annen medlemsstat har etterkommet anmodningen om å overta eller ta tilbake ansvaret for vedkommende, eller etter at klagen eller overprøvingen med oppsettende virkning i samsvar med artikkel 27 nr. 3 er endelig avgjort.
 
 Dersom overføringer til den ansvarlige medlemsstat skjer ved kontrollert utreise eller med ledsagelse, skal medlemsstaten sikre at de gjennomføres på en human måte som fullt ut respekterer de grunnleggende rettigheter og menneskeverdet.
 
@@ -3400,7 +3400,7 @@ Den ansvarlige medlemsstat skal underrette den anmodende medlemsstat om at vedko
 
 ### Art 30. Kostnader ved overføring
 
-1\. Nødvendige kostnader ved overføring av en søker1 eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d) til den ansvarlige medlemsstat, skal dekkes av den overførende medlemsstat.
+1\. Nødvendige kostnader ved overføring av en søker[^1] eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d) til den ansvarlige medlemsstat, skal dekkes av den overførende medlemsstat.
 
 2\. Dersom vedkommende må overføres tilbake til en medlemsstat som følge av en feilaktig overføring eller en beslutning om overføring som er blitt omgjort etter klage eller overprøving etter at overføringen er gjennomført, skal den medlemsstat som opprinnelig gjennomførte overføringen, være ansvarlig for kostnadene ved å overføre vedkommende tilbake til sitt territorium.
 
@@ -3410,13 +3410,13 @@ Den ansvarlige medlemsstat skal underrette den anmodende medlemsstat om at vedko
 
 ### Art 31. Utveksling av relevante opplysninger før en overføring gjennomføres
 
-1\. En medlemsstat som gjennomfører en overføring av en søker1 eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), skal oversende til den ansvarlige medlemsstat personopplysninger som er tilstrekkelige, relevante og ikke mer omfattende enn det som er nødvendig, for det ene formål å sikre at de kompetente myndigheter, i samsvar med nasjonal lovgivning i den ansvarlige medlemsstat, er i stand til å gi vedkommende hensiktsmessig bistand, herunder den øyeblikkelige legehjelp vedkommende trenger for å beskytte sine vitale interesser, og sikre kontinuitet i den beskyttelse og de rettigheter som gis ved denne forordning og andre relevante asylrettslige instrumenter. Nevnte opplysninger skal oversendes til den ansvarlige medlemsstat innen rimelig tid før overføringen gjennomføres for å sikre at dens kompetente myndigheter i samsvar med nasjonal lovgivning har tilstrekkelig tid til å treffe de nødvendige tiltak.
+1\. En medlemsstat som gjennomfører en overføring av en søker[^1] eller en annen person som nevnt i artikkel 18 nr. 1 bokstav c) eller d), skal oversende til den ansvarlige medlemsstat personopplysninger som er tilstrekkelige, relevante og ikke mer omfattende enn det som er nødvendig, for det ene formål å sikre at de kompetente myndigheter, i samsvar med nasjonal lovgivning i den ansvarlige medlemsstat, er i stand til å gi vedkommende hensiktsmessig bistand, herunder den øyeblikkelige legehjelp vedkommende trenger for å beskytte sine vitale interesser, og sikre kontinuitet i den beskyttelse og de rettigheter som gis ved denne forordning og andre relevante asylrettslige instrumenter. Nevnte opplysninger skal oversendes til den ansvarlige medlemsstat innen rimelig tid før overføringen gjennomføres for å sikre at dens kompetente myndigheter i samsvar med nasjonal lovgivning har tilstrekkelig tid til å treffe de nødvendige tiltak.
 
 2\. Den overførende medlemsstat skal, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat alle opplysninger som er vesentlige for å ivareta de rettigheter og umiddelbare særlige behov personen som skal overføres har, da særlig:
 
 1. de umiddelbare tiltak som den ansvarlige medlemsstat må treffe for å sikre at de særlige behov personen som skal overføres har, blir tilfredsstillende ivaretatt, herunder eventuelt nødvendig umiddelbar tilgang til helsetjenester,
 2. kontaktopplysninger til familiemedlemmer, slektninger eller andre nærstående i mottakermedlemsstaten, om slike finnes,
-3. når det gjelder mindreårige,2 opplysninger om utdanning,
+3. når det gjelder mindreårige,[^2] opplysninger om utdanning,
 4. en vurdering av søkerens alder.
 
 3\. Utvekslingen av opplysninger i henhold til denne artikkel skal finne sted bare mellom myndigheter som er meldt til Kommisjonen i samsvar med artikkel 35 ved bruk av det elektroniske kommunikasjonsnettet «DubliNet» opprettet i henhold til artikkel 18 i forordning [(EF) nr. 1560/2003](eu/32003r1560). Opplysningene som utveksles, skal ikke brukes for andre formål enn dem som er angitt i nr. 1, og skal ikke være gjenstand for videre behandling.
@@ -3431,7 +3431,7 @@ Den ansvarlige medlemsstat skal underrette den anmodende medlemsstat om at vedko
 
 ### Art 32. Utveksling av helseopplysninger før en overføring gjennomføres
 
-1\. For det ene formål å yte legehjelp eller behandling, særlig når det gjelder funksjonshemmede, eldre personer, gravide kvinner, mindreårige1 og personer som har vært utsatt for tortur, voldtekt eller andre alvorlige former for psykisk, fysisk og seksuell vold, skal den overførende medlemsstat, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat opplysninger om eventuelle særlige behov som personen som skal overføres har, noe som i visse tilfeller kan omfatte opplysninger om vedkommendes fysiske eller psykiske helse. Opplysningene skal overføres i form av en felles helseattest vedlagt de nødvendige dokumenter. Den ansvarlige medlemsstat skal sikre at nevnte særlige behov blir tilfredsstillende ivaretatt, særlig gjennom å gi nødvendig legehjelp.
+1\. For det ene formål å yte legehjelp eller behandling, særlig når det gjelder funksjonshemmede, eldre personer, gravide kvinner, mindreårige[^1] og personer som har vært utsatt for tortur, voldtekt eller andre alvorlige former for psykisk, fysisk og seksuell vold, skal den overførende medlemsstat, i den utstrekning slike opplysninger er tilgjengelige for den kompetente myndighet i samsvar med nasjonal lovgivning, oversende til den ansvarlige medlemsstat opplysninger om eventuelle særlige behov som personen som skal overføres har, noe som i visse tilfeller kan omfatte opplysninger om vedkommendes fysiske eller psykiske helse. Opplysningene skal overføres i form av en felles helseattest vedlagt de nødvendige dokumenter. Den ansvarlige medlemsstat skal sikre at nevnte særlige behov blir tilfredsstillende ivaretatt, særlig gjennom å gi nødvendig legehjelp.
 
 Kommisjonen skal gjennom gjennomføringsrettsakter utarbeide den felles helseattesten. Gjennomføringsrettsaktene skal vedtas i samsvar med prosedyren med undersøkelseskomité nevnt i artikkel 44 nr. 2.
 
@@ -3476,16 +3476,16 @@ Kommisjonen skal underrette Europaparlamentet og Rådet om krisehåndteringsplan
 1\. Hver medlemsstat skal oversende til enhver medlemsstat som anmoder om det, slike personopplysninger om søkeren som er tilstrekkelige, relevante og ikke mer omfattende enn det som er nødvendig for å
 
 1. avgjøre hvilken medlemsstat som er ansvarlig,
-2. behandle søknaden om internasjonal beskyttelse,1
+2. behandle søknaden om internasjonal beskyttelse,[^1]
 3. gjennomføre alle forpliktelser i henhold til denne forordning.
 
 2\. Informasjonen nevnt i nr. 1 kan bare omfatte
 
-1. personopplysninger som gjelder søkeren,2 samt eventuelt hans eller hennes familiemedlemmer,3 slektninger4 eller andre nærstående (fullt navn og eventuelt tidligere navn, kallenavn eller pseudonymer, nåværende og tidligere nasjonalitet, fødselsdato og -sted),
+1. personopplysninger som gjelder søkeren,[^2] samt eventuelt hans eller hennes familiemedlemmer,[^3] slektninger[^4] eller andre nærstående (fullt navn og eventuelt tidligere navn, kallenavn eller pseudonymer, nåværende og tidligere nasjonalitet, fødselsdato og -sted),
 2. legitimasjons- og reisedokumenter (referanser, gyldighet, utstedelsesdato, utstedende myndighet, utstedelsessted osv.),
 3. annen informasjon som er nødvendig for å fastslå søkerens identitet, herunder fingeravtrykk behandlet i samsvar med forordning [(EU) nr. 603/2013](eu/32013r0603),
 4. bosteder og reiseruter,
-5. oppholdsdokumenter5 eller visaer6 utstedt av en medlemsstat,
+5. oppholdsdokumenter[^5] eller visaer[^6] utstedt av en medlemsstat,
 6. det sted søknaden ble inngitt,
 7. datoen da en eventuell tidligere søknad om internasjonal beskyttelse ble inngitt, datoen som den aktuelle søknad ble inngitt på, hvor langt behandlingen er kommet, samt vedtaket som eventuelt er gjort.
 
@@ -3630,7 +3630,7 @@ Etter å ha framlagt nevnte rapport skal Kommisjonen rapportere til Europaparlam
 
 ### Art 47. Statistikk
 
-I henhold til artikkel 4 nr. 4 i europaparlaments- og rådsforordning [(EF) nr. 862/2007](eu/32007r0862) av 11. juli 2007 om Fellesskapets statistikk over inn- og utvandring og internasjonal beskyttelse1 skal medlemsstatene meddele Kommisjonen (Eurostat) statistikk om anvendelsen av denne forordning og forordning [(EF) nr. 1560/2003](eu/32003r1560).
+I henhold til artikkel 4 nr. 4 i europaparlaments- og rådsforordning [(EF) nr. 862/2007](eu/32007r0862) av 11. juli 2007 om Fellesskapets statistikk over inn- og utvandring og internasjonal beskyttelse[^1] skal medlemsstatene meddele Kommisjonen (Eurostat) statistikk om anvendelsen av denne forordning og forordning [(EF) nr. 1560/2003](eu/32003r1560).
 
 1 EUT L 199 av 31.7.2007, s. 23.
 
@@ -3650,7 +3650,7 @@ Den får anvendelse på søknader om internasjonal beskyttelse inngitt fra og me
 
 Avgjørelsen om hvilken medlemsstat som er ansvarlig for behandlingen av en søknad om internasjonal beskyttelse som er inngitt før denne dato, treffes etter kriteriene i forordning [(EF) nr. 343/2003](eu/32003r0343).
 
-Henvisninger i denne forordning til forordning [(EU) nr. 603/2013](eu/32013r0603), direktiv [2013/32/EU](eu/32013l0032) og direktiv [2013/33/EU](eu/32013l0033) skal inntil den dato de får anvendelse, forstås som henvisninger til henholdsvis forordning [(EF) nr. 2725/2000](eu/32000r2725),1 direktiv [2003/9/EF](eu/32003l0009)2 og direktiv [2005/85/EC](eu/32005l0085).3
+Henvisninger i denne forordning til forordning [(EU) nr. 603/2013](eu/32013r0603), direktiv [2013/32/EU](eu/32013l0032) og direktiv [2013/33/EU](eu/32013l0033) skal inntil den dato de får anvendelse, forstås som henvisninger til henholdsvis forordning [(EF) nr. 2725/2000](eu/32000r2725),[^1] direktiv [2003/9/EF](eu/32003l0009)[^2] og direktiv [2005/85/EC](eu/32005l0085).[^3]
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i medlemsstatene i henhold til traktatene.
 

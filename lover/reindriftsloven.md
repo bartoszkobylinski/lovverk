@@ -15,7 +15,7 @@ xml_hash: "21917fe698d0d96c46b0be74eab663fa2a91bdc6ba3328d23e99bd52f9d7c0f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -911,7 +911,7 @@ Er det gitt tilskudd med hjemmel i forskrifter etter første ledd, og det er fat
 
 ### § 83. Ikrafttredelse
 
-Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tidspunkt oppheves [lov 9. juni 1978 nr. 49](lov/1978-06-09-49) om reindrift.
+Loven trer i kraft fra den tid Kongen bestemmer.[^1] Fra samme tidspunkt oppheves [lov 9. juni 1978 nr. 49](lov/1978-06-09-49) om reindrift.
 
 Kongen kan gi overgangsbestemmelser, herunder bestemme i hvilken grad bestemmelser gitt i medhold av den tidligere lov skal gjelde fortsatt, så fremt de ikke kommer i strid med loven her.
 

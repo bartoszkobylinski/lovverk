@@ -15,7 +15,7 @@ xml_hash: "2817f5e3f076285dfbc13ea22781baa1f2c62301f9994db98f74264f01161c73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ Den som forskriften retter seg mot, skal kunne dokumentere at krav om sikkerhets
 
 ## § 7. Dispensasjon
 
-I særskilte tilfeller kan tilsynsmyndigheten1 gjøre unntak fra denne forskriften.
+I særskilte tilfeller kan tilsynsmyndigheten[^1] gjøre unntak fra denne forskriften.
 
 > Endret ved [forskrifter 30 juni 2003 nr. 888](forskrift/2003-06-30-888), [6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
 
@@ -70,7 +70,7 @@ I særskilte tilfeller kan tilsynsmyndigheten1 gjøre unntak fra denne forskrift
 
 ## § 8. Tilsyn
 
-Tilsynsmyndigheten1 eller den som bemyndiges fører tilsyn med overholdelse av krav fastsatt i denne forskriften.
+Tilsynsmyndigheten[^1] eller den som bemyndiges fører tilsyn med overholdelse av krav fastsatt i denne forskriften.
 
 > Endret ved [forskrifter 30 juni 2003 nr. 888](forskrift/2003-06-30-888), [6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
 
@@ -78,7 +78,7 @@ Tilsynsmyndigheten1 eller den som bemyndiges fører tilsyn med overholdelse av k
 
 ## § 9. Klage
 
-Vedtak truffet av tilsynsmyndigheten1 eller av den som bemyndiges kan påklages til departementet.
+Vedtak truffet av tilsynsmyndigheten[^1] eller av den som bemyndiges kan påklages til departementet.
 
 > Endret ved [forskrifter 30 juni 2003 nr. 888](forskrift/2003-06-30-888), [6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
 

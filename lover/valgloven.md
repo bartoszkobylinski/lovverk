@@ -15,7 +15,7 @@ xml_hash: "b11bc3140a0e8d36ba87d7667f0e2bb2e29d80aee657f3e194c5078f5dcad8df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1321,7 +1321,7 @@ Dersom overtredelsen er begått av et foretak, skal det også legges vekt på om
 
 ### § 22-1. Ikrafttredelse
 
-(1) Loven gjelder fra det tidspunktet1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 28. juni 2002 nr. 57 om valg til Stortinget, fylkesting og kommunestyrer](lov/2002-06-28-57).
+(1) Loven gjelder fra det tidspunktet[^1] Kongen bestemmer. Fra samme tidspunkt oppheves [lov 28. juni 2002 nr. 57 om valg til Stortinget, fylkesting og kommunestyrer](lov/2002-06-28-57).
 
 (2) Kongen kan sette i kraft og oppheve de enkelte bestemmelsene til forskjellig tid.
 

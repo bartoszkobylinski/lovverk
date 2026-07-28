@@ -15,7 +15,7 @@ xml_hash: "de359dc90d32686571ba197149d57e997e6bd924a3ad4c052771fc95e793bd8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ Forsettlig eller grovt uaktsom overtredelse av [§ 1](lov/2019-06-21-63/§1) str
 
 ## § 7. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 > Endret ved lov [18 juni 2021 nr. 135](lov/2021-06-18-135) (i kraft 25 mars 2022 iflg. [res. 25 mars 2022 nr. 466](forskrift/2022-03-25-466), tidligere § 5).
 

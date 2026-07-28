@@ -15,7 +15,7 @@ xml_hash: "2020dd28864a2a80ba30bf79aff7c144b966c7a8c615dcdf93510ba34c96f879"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -262,7 +262,7 @@ Kommunestyret velger et av medlemmene til formann. Har denne forfall, trer den a
 
 Med samtykke fra departementet kan kommunestyret fastsette at forliksrådet skal ha to eller flere avdelinger. Hver avdeling velges etter annet og tredje ledd. Den ene formannen velges som leder for domstolen. Den andre formannen, eller de andre formennene i den rekkefølge kommunen har fastsatt, er lederens stedfortreder som leder for domstolen.
 
-Arbeids-, skyss- og kostgodtgjørelse til medlemmene og varamedlemmene fastsettes i samsvar med forskrift gitt av Kongen. For bestemte kommuner kan departementet fastsette at formannen og i tilfelle også de øvrige medlemmene skal ha et midlertidig tilsettingsforhold etter [tjenestemannsloven](lov/1983-03-04-3).1
+Arbeids-, skyss- og kostgodtgjørelse til medlemmene og varamedlemmene fastsettes i samsvar med forskrift gitt av Kongen. For bestemte kommuner kan departementet fastsette at formannen og i tilfelle også de øvrige medlemmene skal ha et midlertidig tilsettingsforhold etter [tjenestemannsloven](lov/1983-03-04-3).[^1]
 
 Namsfogden er sekretariat for forliksrådene i sitt distrikt. Kongen kan ved forskrift gi regler om forholdet mellom forliksrådet og sekretariatet.
 
@@ -336,9 +336,9 @@ Direktøren for domstoladministrasjonen eller den direktøren bemyndiger, har m�
 
 [Forvaltningsloven](lov/1967-02-10) og [offentleglova](lov/2006-05-19-16) gjelder for domstoladministrasjonens virksomhet. Klageinstans for direktørens vedtak er styret og for styrets vedtak Kongen i statsråd.
 
-Styret har tilsettingsmyndighet for domstoladministrasjonens stillinger. For lederstillinger utenom stillingen som domstoladministrasjonens direktør, avgir direktøren forslag. For andre stillinger avgis innstillingen fra et innstillingsråd etter tjenestemannsloven.1 Styret kan delegere til direktøren å foreta ansettelser.
+Styret har tilsettingsmyndighet for domstoladministrasjonens stillinger. For lederstillinger utenom stillingen som domstoladministrasjonens direktør, avgir direktøren forslag. For andre stillinger avgis innstillingen fra et innstillingsråd etter tjenestemannsloven.[^1] Styret kan delegere til direktøren å foreta ansettelser.
 
-Når styret er tilsettingsmyndighet, skal minst to representanter for de ansatte i domstoladministrasjonen tiltre styret. Dette gjelder også når styret behandler slike saker som nevnt i [tjenestemannsloven1 §§ 8](lov/1983-03-04-3/§8) til [10](lov/1983-03-04-3/§10) og [§§ 12](lov/1983-03-04-3/§12) til [17](lov/1983-03-04-3/§17) nr. 3.2
+Når styret er tilsettingsmyndighet, skal minst to representanter for de ansatte i domstoladministrasjonen tiltre styret. Dette gjelder også når styret behandler slike saker som nevnt i [tjenestemannsloven[^1] §§ 8](lov/1983-03-04-3/§8) til [10](lov/1983-03-04-3/§10) og [§§ 12](lov/1983-03-04-3/§12) til [17](lov/1983-03-04-3/§17) nr. 3.[^2]
 
 Styret fastsetter eventuell stillingsinstruks for direktøren og instruks for saksbehandlingen i domstoladministrasjonen.
 
@@ -625,7 +625,7 @@ En dommer som er utnevnt etter [§ 55](lov/1915-08-13-5/§55) kan ved siden av s
 
 Konstitusjon av dommer til jordskifterett kan skje for inntil fire år.
 
-En dommer eller en pensjonert dommer, med unntak av jordskiftelagdommer og dommer i jordskifterettene, kan likevel alltid konstitueres ved en annen domstol for å foreta vigsler.1 Slik konstitusjon gjøres av domstollederen der vigselen skal foretas.
+En dommer eller en pensjonert dommer, med unntak av jordskiftelagdommer og dommer i jordskifterettene, kan likevel alltid konstitueres ved en annen domstol for å foreta vigsler.[^1] Slik konstitusjon gjøres av domstollederen der vigselen skal foretas.
 
 Beslutning om konstitusjon som nevnt i første ledd, gjøres av Innstillingsrådet for dommere. Innstillingsrådet kan delegere til domstoladministrasjonen å foreta konstitusjonen. Konstitusjoner med varighet inntil tre måneder kan foretas av domstollederen.
 
@@ -733,7 +733,7 @@ Protokollsekretærer og utredere ved Høyesterett tilsettes av departementet, el
 
 ### § 62
 
-For tjenestemenn ved domstolene gjelder [lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m.1 dersom ikke annet følger av loven her.
+For tjenestemenn ved domstolene gjelder [lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m.[^1] dersom ikke annet følger av loven her.
 
 Etter bestemmelser gitt av domstoladministrasjonen kan domstollederen for kortere eller lengre tid eller for den enkelte sak oppnevne stedfortredere for domstolens tjenestemenn.
 
@@ -2356,7 +2356,7 @@ Kongen kan gi nærmere forskrifter om organiseringen og behandlingen av disiplin
 
 Når denne eller annen lov krever juridisk embetseksamen eller mastergrad i rettsvitenskap for utnevning til embete eller tilsetting i stilling, kan vedkommende styresmakt i særlige tilfelle godta tilsvarende juridisk eksamen i utlandet, såfremt det godtgjøres at vedkommende har tilstrekkelige kunnskaper i norsk rett. Avgjørelsen tas etter en samlet vurdering av den avlagte eksamen og vedkommendes virksomhet, særlig her i landet, eventuelt supplert med en prøve.
 
-For andre tilfeller der denne eller annen lov krever juridisk embetseksamen, kan Kongen gi forskrift om i hvilken utstrekning og på hvilke vilkår juridisk utdannelse i utlandet kan godtas.1
+For andre tilfeller der denne eller annen lov krever juridisk embetseksamen, kan Kongen gi forskrift om i hvilken utstrekning og på hvilke vilkår juridisk utdannelse i utlandet kan godtas.[^1]
 
 Dette gjelder på tilsvarende måte når denne eller annen lov krever jordskiftefaglig utdanning på mastergradsnivå.
 
@@ -2366,7 +2366,7 @@ Dette gjelder på tilsvarende måte når denne eller annen lov krever jordskifte
 
 ### § 242
 
-Tida for ikraftsetting av denne loven fastsettes ved særskilt lov.1
+Tida for ikraftsetting av denne loven fastsettes ved særskilt lov.[^1]
 
 > Paragrafnummer tilføyd ved lov [25 mai 1973 nr. 27](lov/1973-05-25-27), endret ved lover [4 juli 1991 nr. 44](lov/1991-07-04-44) (ikr. 1 feb 1992, tidligere § 232), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), tidligere § 236).
 

@@ -15,7 +15,7 @@ xml_hash: "08d167e586efb060e6823554fb7d7026a84cd227d0f2b1e8f7c943dae1e3b369"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32010R0996"
@@ -37,7 +37,7 @@ eu_basis:
 
 Luftfart kan her i riket bare finne sted i samsvar med denne lov og forskrifter gitt med hjemmel i loven.
 
-For luftfart som omfattes av EØS-avtalens bestemmelser,1 gjelder regler om utfylling og gjennomføring av EØS-avtalen på luftfartens område i denne lov foran lovens øvrige bestemmelser.
+For luftfart som omfattes av EØS-avtalens bestemmelser,[^1] gjelder regler om utfylling og gjennomføring av EØS-avtalen på luftfartens område i denne lov foran lovens øvrige bestemmelser.
 
 > Endret ved [lov 4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)).
 
@@ -347,7 +347,7 @@ Reglene i denne paragraf medfører ingen endring i det som er bestemt i [pantelo
 En eldre rettsstiftelse går uten hensyn til reglene i [§ 3-26](lov/1993-06-11-101/§3-26) foran en yngre, dersom:
 
 1. det yngre erverv bygger på avtale eller annet grunnlag som for erververen fremtrer som avtalelignende, og erververen da hans rett ble dagbokført, kjente eller burde kjenne den eldre rett, eller
-2. det yngre erverv er skjedd ved arv.1
+2. det yngre erverv er skjedd ved arv.[^1]
 
 For lovbestemte rettigheter har registrering ingen betydning med mindre annet er bestemt ved lov.
 
@@ -586,7 +586,7 @@ Særskilt tvangssalg av reservedeler til et utenlandsk luftfartøy kan gjennomf�
 
 ### § 3-53. Internasjonale sikkerhetsretter
 
-For panterett eller tilsvarende sikkerhetsretter som faller inn under Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsrettigheter i mobilt løsøre og protokoll 16. november 2001 om særlige forhold for luftfartøysløsøre1, har konvensjonens og protokollens regler forrang så langt de gjelder foran bestemmelsene i denne lovens [kapittel III](lov/1993-06-11-101/kapiii).
+For panterett eller tilsvarende sikkerhetsretter som faller inn under Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsrettigheter i mobilt løsøre og protokoll 16. november 2001 om særlige forhold for luftfartøysløsøre[^1], har konvensjonens og protokollens regler forrang så langt de gjelder foran bestemmelsene i denne lovens [kapittel III](lov/1993-06-11-101/kapiii).
 
 > Tilføyd ved [lov 12 nov 2010 nr. 58](lov/2010-11-12-58) (ikr. 1 apr 2011 iflg. meddelelse fra Justisdepartementet [28 mars 2011 nr. 322](forskrift/2011-03-28-322)).
 
@@ -862,7 +862,7 @@ Den som har gjort tjeneste som fører av luftfartøy eller om bord, må ikke nyt
 
 Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om en person er påvirket av annet berusende eller bedøvende middel, når
 
-1. det er grunn til å tro at vedkommende har overtrådt bestemmelsene i [§§ 6-1](lov/1993-06-11-101/§6-1)1 eller [6-12](lov/1993-06-11-101/§6-12),
+1. det er grunn til å tro at vedkommende har overtrådt bestemmelsene i [§§ 6-1](lov/1993-06-11-101/§6-1)[^1] eller [6-12](lov/1993-06-11-101/§6-12),
 2. personen med eller uten egen skyld er innblandet i en luftfartsulykke eller luftfartshendelse, eller
 3. når det blir krevd som ledd i kontroll av luftfartsvirksomheten.
 
@@ -1094,7 +1094,7 @@ Departementet kan gi forskrifter om personers adgang til og ferdsel på landings
 
 Dersom et luftfartøy eller deler av det eller gjenstander fra det er til hinder eller ulempe for virksomheten på en landingsplass, kan dens innehaver fjerne eller flytte det for fartøyeierens regning hvis ikke fartøyeieren selv gjør det innen en frist fastsatt av landingsplassens innehaver. Ved fastsettelsen av fristen skal det tas tilbørlig hensyn til landingsplassens drift og fartøyets verdi.
 
-For sine utgifter har landingsplassens innehaver panterett i gjenstander nevnt i annet ledd som fjernes, forvares eller berges. Panteretten har fortrinnsrett foran alle andre fordringer etter bestemmelsene om legalpanterett, dog med forbehold for det som er bestemt i [§ 12-3](lov/1993-06-11-101/§12-3).1 Oppnås ikke full dekning av utgiftene, er fartøyets eier ansvarlig for restbeløpet.
+For sine utgifter har landingsplassens innehaver panterett i gjenstander nevnt i annet ledd som fjernes, forvares eller berges. Panteretten har fortrinnsrett foran alle andre fordringer etter bestemmelsene om legalpanterett, dog med forbehold for det som er bestemt i [§ 12-3](lov/1993-06-11-101/§12-3).[^1] Oppnås ikke full dekning av utgiftene, er fartøyets eier ansvarlig for restbeløpet.
 
 > Endret ved [lover 11 juni 2004 nr. 35](lov/2004-06-11-35) (ikr. 24 sep 2004 iflg. [res. 24 sep 2004 nr. 1280](forskrift/2004-09-24-1280)), [29 juni 2007 nr. 95](lov/2007-06-29-95), [10 aug 2012 nr. 63](lov/2012-08-10-63), [29 mai 2020 nr. 60](lov/2020-05-29-60) (ikr. 29 mai 2020 iflg. [res. 29 mai 2020 nr. 1106](forskrift/2020-05-29-1106)).
 
@@ -1138,7 +1138,7 @@ Midlene (avgiften) kan tilfalle et særskilt finansieringsselskap med formål å
 
 Departementet kan gi bestemmelser om plikt for luftfartøyets eier eller bruker til å medvirke til gjennomføring av ordningen og kan gjennomføre kontroll med at medvirkningen skjer i samsvar med de bestemmelser som er fastsatt.
 
-Bestemmelsene i [luftfartsloven §§ 13-2](lov/1993-06-11-101/§13-2) og [13-7](lov/1993-06-11-101/§13-7)1 gis tilsvarende anvendelse.
+Bestemmelsene i [luftfartsloven §§ 13-2](lov/1993-06-11-101/§13-2) og [13-7](lov/1993-06-11-101/§13-7)[^1] gis tilsvarende anvendelse.
 
 1 Inkurie: Bestemmelsen er opphevet.
 
@@ -1347,7 +1347,7 @@ Anvendes fremgangsmåten i [§ 10-5](lov/1993-06-11-101/§10-5) annet ledd, skal
 Luftfraktbrevet og godskvitteringen skal inneholde:
 
 1. opplysning om avgangsstedet og bestemmelsesstedet,
-2. opplysning om stedet for minst en mellomlanding når avgangs- og bestemmelselsstedet1 ligger i samme stat og en eller flere mellomlandinger skal skje i en annen stat,
+2. opplysning om stedet for minst en mellomlanding når avgangs- og bestemmelselsstedet[^1] ligger i samme stat og en eller flere mellomlandinger skal skje i en annen stat,
 3. opplysninger om sendingens vekt.
 
 1 Inkurie: Skal vel være «bestemmelsesstedet».
@@ -1420,7 +1420,7 @@ Blir en passasjer drept eller skadd på legeme eller helse, er fraktføreren ans
 
 ### § 10-18. Ansvar for reisegods
 
-Blir innskrevet reisegods skadd, eller går det helt eller delvis tapt, er fraktføreren ansvarlig, såfremt den hendelse som har forårsaket skaden, er inntruffet om bord på luftfartøy eller mens godset var i fraktførerens varetekt. Fraktføreren er likevel ikke ansvarlig i den utstrekning skaden skyldes reisegodsets egen beskaffenhet eller av1 feil eller mangler ved reisegodset.
+Blir innskrevet reisegods skadd, eller går det helt eller delvis tapt, er fraktføreren ansvarlig, såfremt den hendelse som har forårsaket skaden, er inntruffet om bord på luftfartøy eller mens godset var i fraktførerens varetekt. Fraktføreren er likevel ikke ansvarlig i den utstrekning skaden skyldes reisegodsets egen beskaffenhet eller av[^1] feil eller mangler ved reisegodset.
 
 For ikke innskrevet reisegods, herunder personlige eiendeler, er fraktføreren ansvarlig dersom skaden er forårsaket av feil begått av fraktføreren, dennes ansatte eller andre som fraktføreren svarer for.
 
@@ -1720,7 +1720,7 @@ Departementet kan i forskrift gi nærmere regler om forsikring eller sikkerhetss
 
 > Endret ved [lover 16 jan 2004 nr. 4](lov/2004-01-16-4) (ikr. 28 juni 2004 iflg. [res. 28 mai 2004 nr. 793](forskrift/2004-05-28-793)), [10 juni 2005 nr. 54](lov/2005-06-10-54) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 534](forskrift/2005-06-10-534)), [5 apr 2013 nr. 11](lov/2013-04-05-11).
 
-### Kapittel XII. Varsling, rapportering og undersøkelse av luftfartsulykker og luftfartshendelser m.m.1
+### Kapittel XII. Varsling, rapportering og undersøkelse av luftfartsulykker og luftfartshendelser m.m.[^1]
 
 > Endret ved [lover 3 juni 2005 nr. 35](lov/2005-06-03-35), [17 juni 2016 nr. 75](lov/2016-06-17-75) (ikr. 1 juli 2016). Tidligere [kapittel XII](lov/1993-06-11-101/kapxii) Luftfartsulykker med [§§ 12-1](lov/1993-06-11-101/§12-1) til [12-8](lov/1993-06-11-101/§12-8) erstattet i sin helhet ved [lov 3 juni 2005 nr. 35](lov/2005-06-03-35).
 
@@ -2097,7 +2097,7 @@ Luftfartsmyndigheten kan gi pålegg om et overtredelsesgebyr til statskassen til
 3. anlegger, driver eller innehar landingsplass uten konsesjon som nevnt i [§ 7-5](lov/1993-06-11-101/§7-5) første ledd eller i strid med konsesjon som nevnt i [§ 7-7](lov/1993-06-11-101/§7-7) dersom denne inneholder bestemmelser som har som formål å redusere støy eller regulere trafikkomfanget.
 4. driver landingsplass uten eller i strid med kravene til teknisk og operativ godkjenning som nevnt i [§ 7-11](lov/1993-06-11-101/§7-11) første, tredje og femte ledd.
 5. bruker opplysninger i strid med [§§ 12-10](lov/1993-06-11-101/§12-10) eller [12-11](lov/1993-06-11-101/§12-11).
-6. har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av [§ 4-1](lov/1993-06-11-101/§4-1) annet ledd, [§ 4-10](lov/1993-06-11-101/§4-10), [§ 5-1](lov/1993-06-11-101/§5-1) annet ledd, [§ 5-3](lov/1993-06-11-101/§5-3), [§ 5-4](lov/1993-06-11-101/§5-4) første ledd, [§§ 6-2](lov/1993-06-11-101/§6-2), [6-12](lov/1993-06-11-101/§6-12), [7-1](lov/1993-06-11-101/§7-1) eller [7-3](lov/1993-06-11-101/§7-3), [§ 7-4](lov/1993-06-11-101/§7-4) – herunder for brudd på nasjonal ytelsesplan etter reglene om et felles europeisk luftrom, [§ 7-5](lov/1993-06-11-101/§7-5) fjerde ledd, [§§ 7-11](lov/1993-06-11-101/§7-11) eller [7-22](lov/1993-06-11-101/§7-22), [§ 7-24](lov/1993-06-11-101/§7-24) første ledd, [§§ 7-25](lov/1993-06-11-101/§7-25), [7-29](lov/1993-06-11-101/§7-29), [8-8](lov/1993-06-11-101/§8-8), [8-9](lov/1993-06-11-101/§8-9), [8-10](lov/1993-06-11-101/§8-10),1 [9-1](lov/1993-06-11-101/§9-1), [9-1 a](lov/1993-06-11-101/§9-1a) eller [9-2](lov/1993-06-11-101/§9-2), [§ 9-3](lov/1993-06-11-101/§9-3) annet ledd, [§§ 9-4](lov/1993-06-11-101/§9-4), [9-5](lov/1993-06-11-101/§9-5), [9-7](lov/1993-06-11-101/§9-7), [10-41 a](lov/1993-06-11-101/§10-41a), [10-42](lov/1993-06-11-101/§10-42), [10-45](lov/1993-06-11-101/§10-45), [12-9](lov/1993-06-11-101/§12-9), [13-3](lov/1993-06-11-101/§13-3), [13-4](lov/1993-06-11-101/§13-4)1 eller [15-2](lov/1993-06-11-101/§15-2) dersom det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.
+6. har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av [§ 4-1](lov/1993-06-11-101/§4-1) annet ledd, [§ 4-10](lov/1993-06-11-101/§4-10), [§ 5-1](lov/1993-06-11-101/§5-1) annet ledd, [§ 5-3](lov/1993-06-11-101/§5-3), [§ 5-4](lov/1993-06-11-101/§5-4) første ledd, [§§ 6-2](lov/1993-06-11-101/§6-2), [6-12](lov/1993-06-11-101/§6-12), [7-1](lov/1993-06-11-101/§7-1) eller [7-3](lov/1993-06-11-101/§7-3), [§ 7-4](lov/1993-06-11-101/§7-4) – herunder for brudd på nasjonal ytelsesplan etter reglene om et felles europeisk luftrom, [§ 7-5](lov/1993-06-11-101/§7-5) fjerde ledd, [§§ 7-11](lov/1993-06-11-101/§7-11) eller [7-22](lov/1993-06-11-101/§7-22), [§ 7-24](lov/1993-06-11-101/§7-24) første ledd, [§§ 7-25](lov/1993-06-11-101/§7-25), [7-29](lov/1993-06-11-101/§7-29), [8-8](lov/1993-06-11-101/§8-8), [8-9](lov/1993-06-11-101/§8-9), [8-10](lov/1993-06-11-101/§8-10),[^1] [9-1](lov/1993-06-11-101/§9-1), [9-1 a](lov/1993-06-11-101/§9-1a) eller [9-2](lov/1993-06-11-101/§9-2), [§ 9-3](lov/1993-06-11-101/§9-3) annet ledd, [§§ 9-4](lov/1993-06-11-101/§9-4), [9-5](lov/1993-06-11-101/§9-5), [9-7](lov/1993-06-11-101/§9-7), [10-41 a](lov/1993-06-11-101/§10-41a), [10-42](lov/1993-06-11-101/§10-42), [10-45](lov/1993-06-11-101/§10-45), [12-9](lov/1993-06-11-101/§12-9), [13-3](lov/1993-06-11-101/§13-3), [13-4](lov/1993-06-11-101/§13-4)[^1] eller [15-2](lov/1993-06-11-101/§15-2) dersom det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.
 7. har overtrådt, eller latt være å etterkomme vedtak truffet med hjemmel i, forskrift gitt i medhold av [§ 16-1](lov/1993-06-11-101/§16-1) dersom disse omhandler tidsluker (slots), markedsadgang for lufthavntjenester, driftstillatelser (lisenser), leieavtaler for luftfartøy, retten til å etablere og drive flyruter, krav til informasjon og likebehandling ved salg av flybilletter, reglene om krav til å opplyse passasjerene om identiteten til det flyselskapet som utfører en transport eller reglene om et felles europeisk luftrom dersom det er nødvendig for å gjennomføre EØS-avtalen og det er bestemt i vedkommende forskrift at overtredelsen skal kunne sanksjoneres etter paragrafen her.
 8. har overtrådt, eller latt være å etterkomme, vedtak fattet i medhold av [§ 4-3](lov/1993-06-11-101/§4-3), [§ 7-5](lov/1993-06-11-101/§7-5) første ledd, [§§ 7-6](lov/1993-06-11-101/§7-6) eller [7-7](lov/1993-06-11-101/§7-7), [§ 7-11](lov/1993-06-11-101/§7-11) tredje ledd, [§ 7-15](lov/1993-06-11-101/§7-15) første ledd, [§ 9-3](lov/1993-06-11-101/§9-3) første ledd eller [§ 13-1](lov/1993-06-11-101/§13-1).
 9. har overtrådt, eller latt være å etterkomme, krav eller pålegg under tilsyn, besiktigelse eller undersøkelse som nevnt i [§§ 4-2](lov/1993-06-11-101/§4-2), [4-8](lov/1993-06-11-101/§4-8) eller [5-2](lov/1993-06-11-101/§5-2), [§ 5-8](lov/1993-06-11-101/§5-8) annet ledd, [§ 7-2](lov/1993-06-11-101/§7-2), [§ 7-26](lov/1993-06-11-101/§7-26) tredje ledd, [§ 7-27](lov/1993-06-11-101/§7-27) annet og tredje ledd, [§ 9-8](lov/1993-06-11-101/§9-8), [§ 10-42](lov/1993-06-11-101/§10-42) annet ledd bokstav a og [§ 13](lov/1993-06-11-101/§13a-3) a-3.
@@ -2316,7 +2316,7 @@ Den som handler i strid med et forbud etter [§ 13-1](lov/1993-06-11-101/§13-1)
 
 ### § 14-25. Hinder av tilsynsmyndighet m.v.
 
-Den som hindrer utføring av besiktelse, tilsyn eller annen undersøkelse etter denne lov eller forskrifter gitt med hjemmel i den, eller som unnlater å yte hjelp ved slik undersøkelse når det kreves med hjemmel i loven eller forskriftene, straffes med bøter eller med fengsel inntil 3 måneder. Det samme gjelder den som i strid med reglene i [§ 12-14](lov/1993-06-11-101/§12-14)1 fjerner eller rører luftfartøy, vrakrester eller annet etter en luftfartsulykke.
+Den som hindrer utføring av besiktelse, tilsyn eller annen undersøkelse etter denne lov eller forskrifter gitt med hjemmel i den, eller som unnlater å yte hjelp ved slik undersøkelse når det kreves med hjemmel i loven eller forskriftene, straffes med bøter eller med fengsel inntil 3 måneder. Det samme gjelder den som i strid med reglene i [§ 12-14](lov/1993-06-11-101/§12-14)[^1] fjerner eller rører luftfartøy, vrakrester eller annet etter en luftfartsulykke.
 
 > Endret ved [lover 10 aug 2012 nr. 63](lov/2012-08-10-63), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -2386,7 +2386,7 @@ Straffebud i dette kapittel som er rettet mot eieren eller brukeren av et luftfa
 
 ### § 14-34. Foreldelse
 
-Dersom det foretas undersøkelse etter [§ 12-12](lov/1993-06-11-101/§12-12),1 foreldes adgangen til å reise straffesak tidligst etter 5 år.
+Dersom det foretas undersøkelse etter [§ 12-12](lov/1993-06-11-101/§12-12),[^1] foreldes adgangen til å reise straffesak tidligst etter 5 år.
 
 > Tilføyd ved [lov 25 apr 1997 nr. 24](lov/1997-04-25-24), endret ved [lov 10 aug 2012 nr. 63](lov/2012-08-10-63).
 
@@ -2436,7 +2436,7 @@ Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene
 
 ### § 16-1. Forskriftsfullmakt – EØS-avtalen
 
-Kongen kan gi forskrifter om gjennomføring av EØS-avtalen på luftfartens område, herunder regler om krav om lisens, markedsadgang (anbud for regional luftfart), tidsluker, takster og rater i lufttrafikk, erstatningsordning ved nektelse av ombordstigning i regelbundet luftfart, harmonisering av tekniske krav og administrative fremgangsmåter, fraktflygning og om deling av setekapasitet mellom luftfartsselskaper.1
+Kongen kan gi forskrifter om gjennomføring av EØS-avtalen på luftfartens område, herunder regler om krav om lisens, markedsadgang (anbud for regional luftfart), tidsluker, takster og rater i lufttrafikk, erstatningsordning ved nektelse av ombordstigning i regelbundet luftfart, harmonisering av tekniske krav og administrative fremgangsmåter, fraktflygning og om deling av setekapasitet mellom luftfartsselskaper.[^1]
 
 Regler gitt i medhold av første ledd skal gå foran lovens alminnelige bestemmelser, herunder regler om konsesjon for ervervsmessig og regelbundet trafikk (rutefart).
 
@@ -2575,7 +2575,7 @@ For så vidt ikke annet følger av forskrifter fastsatt etter første ledd, og i
 
 ### § 19-1. Ikrafttredelse
 
-Denne lov trer i kraft fra den dag1 Kongen bestemmer.
+Denne lov trer i kraft fra den dag[^1] Kongen bestemmer.
 
 Det kan bestemmes at visse deler av loven skal tre i kraft fra et tidligere tidspunkt enn andre.
 
@@ -2622,11 +2622,11 @@ Merknad fra redaksjonen i Norges Lover: Det følger av EØS-avtalens protokoll 1
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 84 nr. 2,
 
-under henvisning til forslag fra Kommisjonen,1
+under henvisning til forslag fra Kommisjonen,[^1]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^2]
 
-etter framgangsmåten fastsatt i traktatens artikkel 189 C3 og
+etter framgangsmåten fastsatt i traktatens artikkel 189 C[^3] og
 
 ut fra følgende betraktninger:
 
@@ -2639,7 +2639,7 @@ ut fra følgende betraktninger:
 7. Det vil være hensiktsmessig å oppheve alle økonomiske ansvarsgrenser fastsatt i Warszawa-overenskomstens artikkel 22 nr. 1, eller andre rettslige eller avtalefestede begrensninger, i samsvar med utviklingen på internasjonalt plan.
 8. For å unngå at ofre for ulykker ikke får erstatning, bør EF- luftfartsselskaper ikke kunne påberope seg Warszawa-overenskomstens artikkel 20 nr. 1 i forbindelse med krav om skadeserstatning som følge av at en passasjer er blitt drept eller skadd på legeme eller helbred som omhandlet i artikkel 17 i Warszawa-overenskomsten, dersom kravet ligger innenfor en viss grense.
 9. EF-luftfartsselskaper kan fritas for erstatningsansvar dersom den berørte passasjeren har medvirket til skaden ved egen uaktsomhet.
-10. Det er nødvendig å klargjøre de forpliktelser som følger av denne forordning på bakgrunn av artikkel 7 i rådsforordning [(EØF) nr. 2407/92](eu/31992r2407) av 23. juli 1992 om lisenser til luftfartsselskaper.4 I så henseende bør EF- luftfartsselskaper være forsikret opptil en viss grense fastsatt i denne forordning.
+10. Det er nødvendig å klargjøre de forpliktelser som følger av denne forordning på bakgrunn av artikkel 7 i rådsforordning [(EØF) nr. 2407/92](eu/31992r2407) av 23. juli 1992 om lisenser til luftfartsselskaper.[^4] I så henseende bør EF- luftfartsselskaper være forsikret opptil en viss grense fastsatt i denne forordning.
 11. EF-luftfartsselskaper bør alltid kunne reise krav mot tredjemenn.
 12. Rask utbetaling av et forskuddsbeløp kan være til stor hjelp for skadde passasjerer eller erstatningsberettigede personer, for å dekke umiddelbare kostnader etter en luftfartsulykke.
 13. Reglene om erstatningsansvarets karakter og begrensning dersom en passasjer blir drept eller skadd på legeme eller helbred, inngår i transportvilkårene i transportavtalen mellom luftfartsselskapet og passasjeren. For å minske risikoen for konkurransevridning bør luftfartsselskaper fra tredjestater gi passasjerene tilstrekkelige opplysninger om sine transportvilkår.
@@ -2662,22 +2662,22 @@ Nedenfor gjengis fortalen til Europaparlaments- og rådsforordning [(EF) nr. 889
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 80 nr. 2,
 
-under henvisning til forslag fra Kommisjonen,1
+under henvisning til forslag fra Kommisjonen,[^1]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^2]
 
 etter samråd med Regionkomiteen,
 
-etter framgangsmåten fastsatt i traktatens artikkel 2513 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^3] og
 
 ut fra følgende betraktninger:
 
 1. Innenfor rammen av den felles transportpolitikk er det viktig å sikre et rimelig erstatningsnivå for passasjerer som blir utsatt for luftfartsulykker.
-2. Ved en ny overenskomst om innføring av visse ensartede regler om internasjonal luftbefordring som ble vedtatt i Montreal 28. mai 1999, ble det fastsatt nye internasjonale regler om erstatningsansvar ved luftfartsulykker som erstatter reglene i [Warszawa-konvensjonen](traktat/1929-10-12-1) fra 1929 og senere endringer av den.4
+2. Ved en ny overenskomst om innføring av visse ensartede regler om internasjonal luftbefordring som ble vedtatt i Montreal 28. mai 1999, ble det fastsatt nye internasjonale regler om erstatningsansvar ved luftfartsulykker som erstatter reglene i [Warszawa-konvensjonen](traktat/1929-10-12-1) fra 1929 og senere endringer av den.[^4]
 3. [Warszawa-konvensjonen](traktat/1929-10-12-1) vil fortsatt være gjeldende ved siden av [Montreal-konvensjonen](traktat/1999-05-28-22) på ubestemt tid.
 4. Ved [Montreal-konvensjonen](traktat/1999-05-28-22) innføres det en ordning med ubegrenset erstatningsansvar dersom flypassasjerer blir drept eller skadd.
 5. Fellesskapet har undertegnet [Montreal-konvensjonen og](traktat/1999-05-28-22) vist at det har til hensikt å tiltre konvensjonen ved å ratifisere den.
-6. Rådsforordning [(EF) nr. 2027/97](eu/31997r2027) av 9. oktober 1997 om luftfartsselskapers erstatningsansvar ved ulykker5 bør endres for å tilpasse den til bestemmelsene i [Montreal-konvensjonen for](traktat/1999-05-28-22) på den måten å skape en ensartet ansvarsordning for internasjonal lufttransport.
+6. Rådsforordning [(EF) nr. 2027/97](eu/31997r2027) av 9. oktober 1997 om luftfartsselskapers erstatningsansvar ved ulykker[^5] bør endres for å tilpasse den til bestemmelsene i [Montreal-konvensjonen for](traktat/1999-05-28-22) på den måten å skape en ensartet ansvarsordning for internasjonal lufttransport.
 7. Denne forordning og [Montreal-konvensjonen](traktat/1999-05-28-22) styrker vernet av passasjerer og personer de forsørger og kan ikke tolkes slik at den svekker vernet av disse personene i forhold til gjeldende lovgivning på denne forordnings vedtakelsesdato.
 8. I det indre luftfartsmarked skjelnes det ikke lenger mellom innenriks- og utenriksflyging, og det vil derfor være hensiktsmessig at erstatningsansvaret for innenriks- og utenriksflyging har samme omfang og karakter innenfor Fellesskapet.
 9. I samsvar med nærhetsprinsippet er det ønskelig med en innsats på fellesskapsplan for å skape et ensartet regelverk for alle EF- luftfartsselskaper.
@@ -2686,7 +2686,7 @@ ut fra følgende betraktninger:
 12. Ensartede grenser for erstatningsansvar ved tap av, skade på eller ødeleggelse av bagasje og ved skade som skyldes forsinkelse, som gjelder alle reiser med EF-luftfartsselskaper, vil sikre enkle og klare regler for både passasjerer og luftfartsselskaper samt gjøre det mulig for passasjerer å vite når tilleggsforsikring er nødvendig.
 13. Det ville være upraktisk for EF-luftfartsselskaper og forvirrende for deres passasjerer dersom det skulle gjelde forskjellige ansvarsordninger på forskjellige deler av deres rutenett.
 14. Det er ønskelig å hjelpe ofre for ulykker og personer de forsørger så de slipper økonomiske problemer på kort sikt i tiden umiddelbart etter en ulykke.
-15. I henhold til Montreal-konvensjonens artikkel 50 skal partene sikre at luftfartsselskapene er tilstrekkelig forsikret, og det er nødvendig å ta hensyn til artikkel 7 i rådsforordning [(EØF) nr. 2407/92](eu/31992r2407) av 23. juli 1992 om lisenser til luftfartsselskaper6 for å overholde denne bestemmelsen.
+15. I henhold til Montreal-konvensjonens artikkel 50 skal partene sikre at luftfartsselskapene er tilstrekkelig forsikret, og det er nødvendig å ta hensyn til artikkel 7 i rådsforordning [(EØF) nr. 2407/92](eu/31992r2407) av 23. juli 1992 om lisenser til luftfartsselskaper[^6] for å overholde denne bestemmelsen.
 16. Det er ønskelig at alle passasjerer får grunnleggende opplysninger om gjeldende regler for erstatningsansvar for at de eventuelt skal kunne forsikre seg ytterligere før reisen.
 17. Det er nødvendig å gjennomgå beløpene i denne forordning på nytt for å ta hensyn til inflasjonen og eventuelle endringer av grensene for erstatningsansvar i [Montreal-konvensjonene.](traktat/1999-05-28-22)
 18. I den grad ytterligere regler er nødvendig for å gjennomføre Montreal- konvensjonen på de punkter som ikke omfattes av forordning [(EF) nr. 2027/97](eu/31997r2027), er det medlemsstatenes ansvar å fastsette slike bestemmelser –
@@ -2719,7 +2719,7 @@ Denne forordning gjennomfører de relevante bestemmelser i [Montreal-konvensjone
 2. «EF[EØS]-luftfartsselskap»: et luftfartsselskap som har gyldig lisens utstedt av en medlemsstat [EØS-stat] i samsvar med bestemmelsene i forordning [(EØF) nr. 2407/92](eu/31992r2407),
 3. «person som har rett til erstatning»: en passasjer eller enhver person som etter gjeldende lovgivning har rett til å reise krav i forbindelse med en passasjer,
 4. «bagasje»: med mindre annet er oppgitt, både innsjekket og ikke- innsjekket bagasje, som definert i Montreal-konvensjonens artikkel 17 nr. 4,
-5. «SDR»: spesiell trekkrettighet som er fastsatt av Det internasjonale valutafond,1
+5. «SDR»: spesiell trekkrettighet som er fastsatt av Det internasjonale valutafond,[^1]
 6. «[Warszawa-konvensjonen»:](traktat/1929-10-12-1) overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Warszawa 12. oktober 1929, eller Warszawa-overenskomsten som endret i Haag 28. september 1955 og tilleggskonvensjonen til Warszawa-overenskomsten vedtatt i Guadalajara 18. september 1961,
 7. «[Montreal-konvensjonen»:](traktat/1999-05-28-22) overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Montreal 28. mai 1999.
 
@@ -2789,31 +2789,31 @@ Dette dokument inneholder et sammendrag av de regler for erstatningsansvar som g
 
 Erstatning ved dødsfall eller personskade
 
-Det er ingen økonomiske grenser for erstatningsansvaret dersom passasjerer blir drept eller skadd. For skader opptil 100.000 SDR1 (omtrentlig beløp i lokal valuta) kan luftfartsselskapet ikke bestride erstatningskrav. Ved høyere beløp kan luftfartsselskapet motsette seg krav dersom det kan bevise at det ikke har handlet uaktsomt eller på annen måte har voldt skaden.
+Det er ingen økonomiske grenser for erstatningsansvaret dersom passasjerer blir drept eller skadd. For skader opptil 100.000 SDR[^1] (omtrentlig beløp i lokal valuta) kan luftfartsselskapet ikke bestride erstatningskrav. Ved høyere beløp kan luftfartsselskapet motsette seg krav dersom det kan bevise at det ikke har handlet uaktsomt eller på annen måte har voldt skaden.
 
 1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
 
 Forskuddsbetalinger
 
-Dersom en passasjer blir drept eller skadd, skal luftfartsselskapet senest 15 dager etter at identiteten til den person som har rett til erstatning, er fastslått, utbetale et forskudd som dekker umiddelbare økonomiske behov. Ved dødsfall skal forskuddet ikke være mindre enn 16 000 SDR1 (omtrentlig beløp i lokal valuta).
+Dersom en passasjer blir drept eller skadd, skal luftfartsselskapet senest 15 dager etter at identiteten til den person som har rett til erstatning, er fastslått, utbetale et forskudd som dekker umiddelbare økonomiske behov. Ved dødsfall skal forskuddet ikke være mindre enn 16 000 SDR[^1] (omtrentlig beløp i lokal valuta).
 
 1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
 
 Forsinkelse av passasjerer
 
-Dersom passasjerene blir forsinket, er luftfartsselskapet erstatningsansvarlig med mindre det har tatt alle rimelige forholdsregler for å unngå skaden eller det var umulig å ta slike forholdsregler. Erstatningsansvaret ved forsinkelse av passasjerer er begrenset til 4 150 SDR1 (omtrentlig beløp i lokal valuta).
+Dersom passasjerene blir forsinket, er luftfartsselskapet erstatningsansvarlig med mindre det har tatt alle rimelige forholdsregler for å unngå skaden eller det var umulig å ta slike forholdsregler. Erstatningsansvaret ved forsinkelse av passasjerer er begrenset til 4 150 SDR[^1] (omtrentlig beløp i lokal valuta).
 
 1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
 
 Forsinkelse av bagasje
 
-Dersom bagasjen blir forsinket, er luftfartsselskapet erstatningsansvarlig med mindre det har tatt alle rimelige forholdsregler for å unngå skaden eller det var umulig å ta slike forholdsregler. Erstatningsansvaret ved forsinkelse av bagasje er begrenset til 1 000 SDR1 (omtrentlig beløp i lokal valuta).
+Dersom bagasjen blir forsinket, er luftfartsselskapet erstatningsansvarlig med mindre det har tatt alle rimelige forholdsregler for å unngå skaden eller det var umulig å ta slike forholdsregler. Erstatningsansvaret ved forsinkelse av bagasje er begrenset til 1 000 SDR[^1] (omtrentlig beløp i lokal valuta).
 
 1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
 
 Ødelagt, tapt eller skadd bagasje
 
-Luftfartsselskapet er erstatningsansvarlig for ødeleggelse, tap av eller skade på bagasje med opptil 1 000 SDR1 (omtrentlig beløp i lokal valuta). Når det gjelder innsjekket bagasje er luftfartsselskapet erstatningsansvarlig selv om det ikke har voldt skaden, med mindre bagasjen var defekt. Når det gjelder ikke-innsjekket bagasje er luftfartsselskapet erstatningsansvarlig bare dersom det har voldt skaden.
+Luftfartsselskapet er erstatningsansvarlig for ødeleggelse, tap av eller skade på bagasje med opptil 1 000 SDR[^1] (omtrentlig beløp i lokal valuta). Når det gjelder innsjekket bagasje er luftfartsselskapet erstatningsansvarlig selv om det ikke har voldt skaden, med mindre bagasjen var defekt. Når det gjelder ikke-innsjekket bagasje er luftfartsselskapet erstatningsansvarlig bare dersom det har voldt skaden.
 
 1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
 
@@ -2849,18 +2849,18 @@ under henvisning til forslag fra Europakommisjonen,
 
 etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
 etter samråd med Regionkomiteen,
 
-etter den ordinære regelverksprosessen2 og
+etter den ordinære regelverksprosessen[^2] og
 
 ut fra følgende betraktninger:
 
 1. Det bør sikres et høyt allment sikkerhetsnivå innen sivil luftfart i Unionen, og alt bør gjøres for å redusere antall ulykker og hendelser for å sikre offentlighetens tillit til lufttransport.
 2. Antall ulykker med dødelig utgang innen sivil luftfart har vært relativt konstant i den siste tiårsperioden. Økt lufttrafikk og stadig mer teknisk kompliserte luftfartøyer kan imidlertid føre til at antall ulykker stiger i de neste tiårsperiodene.
-3. Formålet med europaparlaments- og rådsforordning [(EU) nr. 996/2010](eu/32010r0996)3 er å forebygge ulykker ved å fremme rask gjennomføring av effektive sikkerhetsundersøkelser av høy kvalitet. Denne forordning bør ikke være til hinder for undersøkelser av ulykker og hendelser som håndteres av nasjonale myndigheter med ansvar for sikkerhetsundersøkelser, som definert i forordning [(EU) nr. 996/2010](eu/32010r0996). Ved en eventuell ulykke eller alvorlig hendelse skal tilfellet også meldes i henhold til forordning [(EU) nr. 996/2010](eu/32010r0996).
-4. I henhold til unionens eksisterende regelverksakter, særlig europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216)4 og dens gjennomføringsforordninger, er visse organisasjoner pålagt å innføre systemer for rapportering av tilfeller som skal inngå i deres sikkerhetsstyringssystemer. Overholdelse av forordning [(EF) nr. 216/2008](eu/32008r0216) og dens gjennomføringsforordninger bør ikke frita organisasjoner for å overholde denne forordning. Overholdelse av denne forordning bør ikke frita organisasjoner for å overholde forordning [(EF) nr. 216/2008](eu/32008r0216) og dens gjennomføringsforordninger. Dette bør imidlertid ikke føre til at det innføres to parallelle rapporteringssystemer, og forordning [(EF) nr. 216/2008](eu/32008r0216), dens gjennomføringsforordninger og denne forordning bør anses som utfyllende.
+3. Formålet med europaparlaments- og rådsforordning [(EU) nr. 996/2010](eu/32010r0996)[^3] er å forebygge ulykker ved å fremme rask gjennomføring av effektive sikkerhetsundersøkelser av høy kvalitet. Denne forordning bør ikke være til hinder for undersøkelser av ulykker og hendelser som håndteres av nasjonale myndigheter med ansvar for sikkerhetsundersøkelser, som definert i forordning [(EU) nr. 996/2010](eu/32010r0996). Ved en eventuell ulykke eller alvorlig hendelse skal tilfellet også meldes i henhold til forordning [(EU) nr. 996/2010](eu/32010r0996).
+4. I henhold til unionens eksisterende regelverksakter, særlig europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216)[^4] og dens gjennomføringsforordninger, er visse organisasjoner pålagt å innføre systemer for rapportering av tilfeller som skal inngå i deres sikkerhetsstyringssystemer. Overholdelse av forordning [(EF) nr. 216/2008](eu/32008r0216) og dens gjennomføringsforordninger bør ikke frita organisasjoner for å overholde denne forordning. Overholdelse av denne forordning bør ikke frita organisasjoner for å overholde forordning [(EF) nr. 216/2008](eu/32008r0216) og dens gjennomføringsforordninger. Dette bør imidlertid ikke føre til at det innføres to parallelle rapporteringssystemer, og forordning [(EF) nr. 216/2008](eu/32008r0216), dens gjennomføringsforordninger og denne forordning bør anses som utfyllende.
 5. Erfaring viser at det før en ulykke ofte har inntruffet sikkerhetsrelaterte hendelser og mangler som tydet på at det forelå sikkerhetsfarer. Sikkerhetsopplysninger er derfor en viktig ressurs for å oppdage potensielle sikkerhetsfarer. Selv om det er svært viktig å kunne ta lærdom av en ulykke, er det i tillegg vist at rent reaktive systemer har begrenset nytte med henblikk på å bedre sikkerheten. For å oppnå en faktisk bedring av flysikkerheten bør reaktive systemer derfor utfylles med proaktive systemer der det brukes andre typer sikkerhetsopplysninger. Unionen, medlemsstatene, Det europeiske flysikkerhetsbyrå («Byrået») og organisasjoner bør bidra til å bedre flysikkerheten ved å innføre mer proaktive og kunnskapsbaserte sikkerhetssystemer der det fokuseres på forebygging av ulykker gjennom en analysering av alle relevante sikkerhetsopplysninger, herunder opplysninger om tilfeller som inntreffer innen sivil luftfart.
 6. For å bedre flysikkerheten bør relevante sikkerhetsopplysninger om sivil luftfart rapporteres, samles inn, lagres, vernes, utveksles, videreformidles og analyseres, og det bør treffes egnede sikkerhetstiltak på grunnlag av disse opplysninger. Denne proaktive og kunnskapsbaserte strategien bør innføres av berørte flysikkerhetsmyndigheter i medlemsstatene, av organisasjoner som en del av deres sikkerhetsstyringssystem og av Byrået.
 7. Pålegget om at organisasjoner skal rapportere tilfeller bør stå i forhold til den berørte organisasjonens størrelse og omfanget av dens aktivitet. Særlig for mindre organisasjoner bør det derfor være mulig å gruppere eller slå sammen organisasjonens funksjoner knyttet til håndtering av tilfeller, å dele oppgaver i forbindelse med rapportering av tilfeller med andre organisasjoner av samme type eller å sette ut innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller til spesialiserte enheter som er godkjente av vedkommende myndigheter i medlemsstatene. Slike enheter bør overholde prinsippene om vern og fortrolighet som fastsettes ved denne forordning. En organisasjon som setter ut oppgaver til andre, bør beholde en tilstrekkelig grad av kontroll med oppgavene som settes ut, og bør være den som i siste instans har ansvar for at kravene fastsatt i denne forordning oppfylles.
@@ -2905,13 +2905,13 @@ ut fra følgende betraktninger:
 46. For å støtte Byråets økte ansvar i henhold til denne forordning bør det få tilstrekkelige ressurser til å kunne utføre de nye oppgavene det tildeles.
 47. For å utfylle eller endre denne forordning bør Kommisjonen delegeres myndighet til å vedta rettsakter i henhold til artikkel 290 i traktaten om Den europeiske unions virkemåte. Det er særlig viktig at Kommisjonen gjennomfører hensiktsmessige samråd under det forberedende arbeidet, herunder på ekspertplan. Kommisjonen bør i forbindelse med det forberedende arbeidet med og utarbeidingen av delegerte rettsakter sørge for samtidig, rettidig og korrekt oversending av relevante dokumenter til Europaparlamentet og til Rådet.
 48. Ved anvendelse av denne forordning bør Kommisjonen rådspørre Byrået og nettverket av flysikkerhetsanalytikere nevnt i denne forordning.
-49. For å sikre ensartede vilkår for gjennomføring av denne forordning bør Kommisjonen gis gjennomføringsmyndighet. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182).5
-50. Reglene for databehandling og personvern fastsatt i europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046)6 og i europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*)7 bør overholdes fullt ut ved anvendelse av denne forordning. Reglene for tilgang til data fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049)8 bør overholdes fullt ut ved anvendelse av denne forordning, unntatt når det gjelder videreformidling av data og opplysninger som er lagret i det europeiske sentrale datalageret, som omfattes av strengere regler for tilgang fastsatt ved denne forordning.
+49. For å sikre ensartede vilkår for gjennomføring av denne forordning bør Kommisjonen gis gjennomføringsmyndighet. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182).[^5]
+50. Reglene for databehandling og personvern fastsatt i europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046)[^6] og i europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*)[^7] bør overholdes fullt ut ved anvendelse av denne forordning. Reglene for tilgang til data fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049)[^8] bør overholdes fullt ut ved anvendelse av denne forordning, unntatt når det gjelder videreformidling av data og opplysninger som er lagret i det europeiske sentrale datalageret, som omfattes av strengere regler for tilgang fastsatt ved denne forordning.
 51. Sanksjoner bør særlig gjøres gjeldende mot personer eller enheter som i strid med denne forordning misbruker opplysninger som skal vernes i henhold til denne forordning, opptrer på en måte som er til skade for rapportøren eller andre personer som er nevnt i rapportene om tilfeller, bortsett fra når unntakene fastsatt i denne forordning får anvendelse, ikke skaper et miljø som gjør det mulig å samle inn opplysninger om tilfeller, ikke analyserer de innsamlede opplysningene, ikke treffer tiltak for å utbedre sikkerhetsmangler eller potensielle sikkerhetsmangler som oppdages, eller ikke utveksler opplysningene som er samlet inn i henhold til denne forordning.
 52. Ettersom målet for denne forordning, som er å innføre felles regler for rapportering av tilfeller innen sivil luftfart, ikke i tilstrekkelig grad kan nås av medlemsstatene alene, men fordi det omfatter og har virkning i hele unionen bedre kan nås på unionsplan, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette målet.
 53. Forordning [(EU) nr. 996/2010](eu/32010r0996) bør derfor endres.
-54. Europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042),9 kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321)10 og kommisjonsforordning [(EF) nr. 1330/2007](eu/32007r1330)11 bør derfor oppheves.
-55. EUs datatilsynsmann er rådspurt i samsvar med artikkel 28 nr. 2 i forordning [(EF) nr. 45/2001](eu/32001r0045*) og avga uttalelse 10. april 201312 –
+54. Europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042),[^9] kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321)[^10] og kommisjonsforordning [(EF) nr. 1330/2007](eu/32007r1330)[^11] bør derfor oppheves.
+55. EUs datatilsynsmann er rådspurt i samsvar med artikkel 28 nr. 2 i forordning [(EF) nr. 45/2001](eu/32001r0045*) og avga uttalelse 10. april 2013[^12] –
 
 1 EUT C 198 av 10.7.2013, s. 73.
 
@@ -3037,7 +3037,7 @@ I disse gjennomføringsrettsakter skal Kommisjonen innføre en atskilt liste med
 2. en person som under tilsyn av en medlemsstat eller Byrået arbeider med design, konstruksjon, sikring av kontinuerlig luftdyktighet, vedlikehold eller endring av et luftfartøy eller utstyr i eller deler av et luftfartøy,
 3. en person som under tilsyn av en medlemsstat eller Byrået underskriver et sertifikat for inspeksjon av luftdyktighet, eller et sertifikat for frigivelse for bruk for et luftfartøy eller utstyr i eller deler av et luftfartøy,
 4. en person som utøver en funksjon som krever at vedkommende er godkjent av en medlemsstat som ansatt hos en yter av lufttrafikktjenester som er blitt tillagt ansvar knyttet til flysikringstjenester, eller som ansatt i en flygeinformasjonstjeneste,
-5. en person som utøver en funksjon i forbindelse med sikkerhetsstyring av en lufthavn, som europaparlaments- og rådsforordning [(EF) nr. 1008/2008](eu/32008r1008)1 får anvendelse for,
+5. en person som utøver en funksjon i forbindelse med sikkerhetsstyring av en lufthavn, som europaparlaments- og rådsforordning [(EF) nr. 1008/2008](eu/32008r1008)[^1] får anvendelse for,
 6. en person som utøver en funksjon i forbindelse med installering, endring, vedlikehold, reparasjon, ettersyn, kontrollflyging eller inspeksjon av luftfartsanlegg som en medlemsstat fører tilsyn med,
 7. en person som utøver en funksjon i forbindelse med bakkearbeid på et luftfartøy, herunder drivstoffpåfylling, utarbeiding av lastedokumentasjon, lasting, avising og tauing, ved en lufthavn som omfattes av forordning [(EF) nr. 1008/2008](eu/32008r1008).
 
@@ -3591,7 +3591,7 @@ Ved registrering i de respektive databaser av opplysninger om tilfeller som omfa
    E-post:
    Dato:
    Virksomhetens art:
-   Kategori av berørt part (se vedlegg II til europaparlaments- og rådsforordning [(EU) nr. 376/2014](eu/32014r0376) av 3. april 2014 om rapportering, analysering og oppfølging av tilfeller innen sivil luftfart):1
+   Kategori av berørt part (se vedlegg II til europaparlaments- og rådsforordning [(EU) nr. 376/2014](eu/32014r0376) av 3. april 2014 om rapportering, analysering og oppfølging av tilfeller innen sivil luftfart):[^1]
 2. Opplysninger det anmodes om (vær så detaljert som mulig, og angi hvilken dato/periode som er av interesse):
    BOKS
 3. Årsak til anmodningen:
@@ -3621,23 +3621,23 @@ under henvisning til traktaten om Den europeiske unions virkemåte, særlig arti
 
 under henvisning til forslag fra Europakommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
 etter samråd med Regionkomiteen,
 
-under henvisning til uttalelse fra EUs datatilsynsmann,2
+under henvisning til uttalelse fra EUs datatilsynsmann,[^2]
 
-etter den ordinære regelverksprosessen3 og
+etter den ordinære regelverksprosessen[^3] og
 
 ut fra følgende betraktninger:
 
 1. Det bør sikres et høyt allment sikkerhetsnivå innen sivil luftfart i Europa, og alt bør gjøres for å redusere antallet ulykker og hendelser for å sikre offentlighetens tillit til lufttransport.
 2. Rask gjennomføring av sikkerhetsundersøkelser av ulykker og hendelser innen sivil luftfart bedrer flysikkerheten og bidrar til å forebygge forekomsten av ulykker og hendelser.
-3. Rapportering, analyser og spredning av resultater fra sikkerhetsrelaterte hendelser er av grunnleggende betydning for å forbedre flysikkerheten. Kommisjonen bør derfor før 31. desember 2011 framlegge forslag om endring av europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042) av 13. juni 2003 om rapportering av hendelser i sivil luftfart.4
+3. Rapportering, analyser og spredning av resultater fra sikkerhetsrelaterte hendelser er av grunnleggende betydning for å forbedre flysikkerheten. Kommisjonen bør derfor før 31. desember 2011 framlegge forslag om endring av europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042) av 13. juni 2003 om rapportering av hendelser i sivil luftfart.[^4]
 4. Det eneste formålet for sikkerhetsundersøkelsene bør være å forebygge framtidige ulykker og hendelser uten at skyld eller ansvar fordeles.
 5. Det bør tas hensyn til Konvensjonen om internasjonal luftfart, undertegnet i Chicago 7. desember 1944 (Chicago-konvensjonen), der det fastsettes at nødvendige tiltak for å sikre sikker drift av luftfartøyer skal gjennomføres. Det bør tas særlig hensyn til vedlegg 13 til Chicago- konvensjonen og dens senere endringer, der det fastsettes internasjonale standarder og anbefalt praksis for undersøkelse av luftfartsulykker og – hendelser samt en definisjon av uttrykkene registreringsstat, operatørens hjemstat, konstruksjonsstat, produksjonsstat og hendelsesstat som benyttes der.
 6. Ifølge internasjonale standarder og anbefalt praksis fastsatt i vedlegg 13 til Chicago-konvensjonen skal undersøkelsen av ulykker og alvorlige hendelser gjennomføres under den stats ansvar der ulykken eller den alvorlige hendelsen inntreffer, eller under registreringsstatens ansvar dersom stedet der ulykken eller den alvorlige hendelsen inntreffer, ikke entydig kan anses å tilhøre noen stats territorium. En stat kan delegere oppgaven med å gjennomføre undersøkelsen til en annen stat eller anmode den om bistand. Sikkerhetsundersøkelser i Unionen bør gjennomføres på tilsvarende måte.
-7. Erfaringene fra gjennomføringen av rådsdirektiv [94/56/EF](eu/31994l0056*) av 21. november 1994 om fastsettelse av de grunnleggende prinsipper for undersøkelse av ulykker og hendelser innen sivil luftfart5 bør brukes for å forbedre effektiviteten i undersøkelsen og forebyggingen av ulykker og hendelser innen sivil luftfart i Unionen.
+7. Erfaringene fra gjennomføringen av rådsdirektiv [94/56/EF](eu/31994l0056*) av 21. november 1994 om fastsettelse av de grunnleggende prinsipper for undersøkelse av ulykker og hendelser innen sivil luftfart[^5] bør brukes for å forbedre effektiviteten i undersøkelsen og forebyggingen av ulykker og hendelser innen sivil luftfart i Unionen.
 8. Det bør tas hensyn til de endringer i de institusjonelle rammene og rammereglene for sikkerheten i sivil luftfart i Unionen som har funnet sted etter vedtakelsen av direktiv [94/56/EF](eu/31994l0056*), særlig opprettelsen av Det europeiske flysikkerhetsbyrå (EASA). Det bør også tas hensyn til sikkerhetstilrådingenes unionsdimensjon, ettersom flysikkerhet i økende grad reguleres på unionsplan.
 9. EASA ivaretar på medlemsstatenes vegne konstruksjons-, produksjons- og registreringsmedlemsstatens funksjoner og oppgaver når det gjelder godkjenning av konstruksjon, som angitt i Chicago-konvensjonen med vedlegg. EASA bør derfor i samsvar med vedlegg 13 til Chicago-konvensjonen inviteres til å delta i en sikkerhetsundersøkelse for å bidra, innenfor sitt myndighetsområde, til at undersøkelsene gjennomføres på en effektiv måte og for å sikre sikker luftfartøykonstruksjon, uten at undersøkelsens uavhengighet berøres. Nasjonale sivile luftfartsmyndigheter bør tilsvarende inviteres til å delta i sikkerhetsundersøkelser.
 10. Med tanke på deres sikkerhetsansvar bør personer som er utpekt av EASA og av nasjonale sivile luftfartsmyndigheter, ha tilgang til opplysninger som er nødvendige for å vurdere sikkerhetskravenes effektivitet.
@@ -3762,7 +3762,7 @@ I denne forordning menes med:
 
 ### Art 5. Undersøkelsesplikt
 
-1\. Alle ulykker og alvorlige hendelser som involverer andre luftfartøyer enn dem som er angitt i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) av 20. februar 2008 om felles regler for sivil luftfart og om opprettelse av et europeisk flysikkerhetsbyrå,1 skal være gjenstand for en sikkerhetsundersøkelse i den medlemsstat på hvis territorium ulykken eller den alvorlige hendelsen inntraff.
+1\. Alle ulykker og alvorlige hendelser som involverer andre luftfartøyer enn dem som er angitt i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) av 20. februar 2008 om felles regler for sivil luftfart og om opprettelse av et europeisk flysikkerhetsbyrå,[^1] skal være gjenstand for en sikkerhetsundersøkelse i den medlemsstat på hvis territorium ulykken eller den alvorlige hendelsen inntraff.
 
 2\. Dersom et annet luftfartøy enn dem som er angitt i vedlegg II til forordning [(EF) nr. 216/2008](eu/32008r0216), som er registrert i en medlemsstat, er innblandet i en ulykke eller alvorlig hendelse på et sted som ikke entydig kan anses å tilhøre noen stats territorium, skal sikkerhetsundersøkelsen gjennomføres av myndigheten med ansvar for sikkerhetsundersøkelser i den medlemsstaten der luftfartøyet er registrert.
 
@@ -3959,7 +3959,7 @@ Oversendelse av opplysningene nevnt i nr. 1 og 2 til en annen medlemsstat for an
 
 4\. Alle organer som mottar sikkerhetstilrådinger, herunder myndighetene med ansvar for sikkerheten i sivil luftfart på medlemsstats- og unionsplan, skal innføre framgangsmåter for å overvåke utviklingen i tiltak som iverksettes på grunnlag av mottatte sikkerhetstilrådinger.
 
-5\. Myndighetene med ansvar for sikkerhetsundersøkelser skal registrere i det sentrale datalageret opprettet ved kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321) av 12. november 2007 om fastsettelse av gjennomføringsregler for registrering i et sentralt datalager av hendelser innen sivil luftfart som utveksles i samsvar med direktiv [2003/42/EF](eu/32003l0042),1 alle sikkerhetstilrådinger som er utstedt i samsvar med artikkel 17 nr. 1 og 2, samt svarene på disse. Myndighetene med ansvar for sikkerhetsundersøkelser skal på samme måte registrere i det sentrale datalageret alle sikkerhetstilrådinger som de mottar fra tredjestater.
+5\. Myndighetene med ansvar for sikkerhetsundersøkelser skal registrere i det sentrale datalageret opprettet ved kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321) av 12. november 2007 om fastsettelse av gjennomføringsregler for registrering i et sentralt datalager av hendelser innen sivil luftfart som utveksles i samsvar med direktiv [2003/42/EF](eu/32003l0042),[^1] alle sikkerhetstilrådinger som er utstedt i samsvar med artikkel 17 nr. 1 og 2, samt svarene på disse. Myndighetene med ansvar for sikkerhetsundersøkelser skal på samme måte registrere i det sentrale datalageret alle sikkerhetstilrådinger som de mottar fra tredjestater.
 
 1 EUT L 294 av 13.11.2007, s. 3.
 
@@ -3998,15 +3998,15 @@ Oversendelse av opplysningene nevnt i nr. 1 og 2 til en annen medlemsstat for an
 
 5\. En sakkyndig utpekt i samsvar med nr. 4 kan bistå, med forbehold for gjeldende lovgivning, i identifiseringen av ofrene og delta på møter med overlevende fra sin stat.
 
-6\. I samsvar med artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 785/2004](eu/32004r0785) av 21. april 2004 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører1 skal også tredjestaters luftfartsselskaper oppfylle forsikringsplikten fastsatt i nevnte forordning.
+6\. I samsvar med artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 785/2004](eu/32004r0785) av 21. april 2004 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører[^1] skal også tredjestaters luftfartsselskaper oppfylle forsikringsplikten fastsatt i nevnte forordning.
 
 1 EUT L 138 av 30.4.2004, s. 1.
 
 ### Art 22. Tilgang til dokumenter og vern av personopplysninger
 
-1\. Denne forordning får anvendelse uten at det berører europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter.1
+1\. Denne forordning får anvendelse uten at det berører europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter.[^1]
 
-2\. Denne forordning får anvendelse i samsvar med europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger2 og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger.3
+2\. Denne forordning får anvendelse i samsvar med europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger[^2] og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger.[^3]
 
 1 EFT L 145 av 31.5.2001, s. 43.
 

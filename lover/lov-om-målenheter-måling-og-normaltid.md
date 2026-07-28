@@ -15,7 +15,7 @@ xml_hash: "1b7703dd8a80c5799d23c8a60a1ec193fcdc6884534ed22e3543c6b5aef628bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -293,7 +293,7 @@ Departementet kan fastsette utfyllende forskrifter om saksbehandling etter denne
 
 ### § 33. Ikrafttredelse
 
-Denne loven trer i kraft fra den tid Kongen bestemmer.1
+Denne loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 1 Satt ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 86](forskrift/2007-01-26-86).
 

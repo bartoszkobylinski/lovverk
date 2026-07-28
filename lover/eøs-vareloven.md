@@ -15,7 +15,7 @@ xml_hash: "314ecd4eaf1bbff8c2d9d53e13a816d618e8d83630d6f4a1b8c4b7cb3e070c51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32019R0515"
@@ -68,20 +68,20 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap, sær
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,[^1]
 
 etter samråd med Regionkomiteen,
 
-etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+etter framgangsmåten fastsatt i traktatens artikkel 251[^2] og
 
 ut fra følgende betraktninger:
 
 1. Det er nødvendig å sikre at produkter som er omfattet av det frie varebyttet i Fellesskapet, oppfyller krav som gir et høyt nivå for vern av offentlige interesser som helse og sikkerhet i alminnelighet, helse og sikkerhet på arbeidsplassen, forbrukervern, miljøvern og sikkerhet, og samtidig sikre at det frie varebyttet ikke begrenses mer enn det som er tillatt i henhold til Fellesskapets harmoniseringsregelverk eller andre relevante fellesskapsregler. Det bør derfor fastsettes regler for akkreditering, markedstilsyn, kontroll av produkter fra tredjestater og CE-merking.
 2. Det er nødvendig å opprette en helhetlig ramme for regler og prinsipper for akkreditering og markedstilsyn. Denne rammen bør ikke påvirke de materielle reglene i gjeldende regelverk for bestemmelser som skal følges for å verne offentlige interesser som helse, sikkerhet, forbrukervern og miljøvern, men bør ha som mål å bedre anvendelsen av dem.
-3. Denne forordning bør ses som en utfylling av europaparlaments- og rådsbeslutning nr. [768/2008/EF](eu/32008d0768*) av 9. juli 2008 om en felles ramme for markedsføring av produkter.3
+3. Denne forordning bør ses som en utfylling av europaparlaments- og rådsbeslutning nr. [768/2008/EF](eu/32008d0768*) av 9. juli 2008 om en felles ramme for markedsføring av produkter.[^3]
 4. Det er svært vanskelig å vedta fellesskapsregelverk for alle produkter som finnes, eller som kan bli utviklet. Det er behov for et omfattende regelverk av horisontal karakter for at slike produkter skal omfattes og for å tette igjen hullene, særlig i påvente av revisjonen av det eksisterende særlige regelverk, og for å utfylle bestemmelsene i nåværende eller framtidig særlig regelverk, særlig for å sikre et høyt nivå for vern av helse og sikkerhet samt miljøvern og forbrukervern i samsvar med traktatens artikkel 95.
 5. Rammen for markedstilsyn opprettet ved denne forordning bør utfylle og styrke gjeldende bestemmelser om markedstilsyn i Fellesskapets harmoniseringsregelverk eller håndhevingen av slike bestemmelser. I samsvar med lex specialis-prinsippet bør imidlertid denne forordning få anvendelse bare i den utstrekning det ikke finnes noen særbestemmelser med samme formål, av samme art eller med samme virkning i andre gjeldende eller framtidige bestemmelser i Fellesskapets harmoniseringsregelverk. Eksempler kan finnes på følgende områder: utgangsstoffer for narkotika, medisinsk utstyr, legemidler og veterinærpreparater, motorvogner og luftfart. De tilsvarende bestemmelsene i denne forordning bør derfor ikke få anvendelse på de områdene som omfattes av slike særbestemmelser.
-6. I europaparlaments- og rådsdirektiv [2001/95/EF](eu/32001l0095) av 3. desember 2001 om alminnelig produktsikkerhet4 er det fastsatt regler for å bedre forbruksvarers sikkerhet. Markedstilsynsmyndighetene bør ha mulighet til å treffe de særskilte tiltakene de har til rådighet i henhold til nevnte direktiv.
+6. I europaparlaments- og rådsdirektiv [2001/95/EF](eu/32001l0095) av 3. desember 2001 om alminnelig produktsikkerhet[^4] er det fastsatt regler for å bedre forbruksvarers sikkerhet. Markedstilsynsmyndighetene bør ha mulighet til å treffe de særskilte tiltakene de har til rådighet i henhold til nevnte direktiv.
 7. For å oppnå et høyere sikkerhetsnivå for forbruksvarer bør imidlertid markedstilsynsordningene fastsatt i direktiv [2001/95/EF](eu/32001l0095) styrkes med hensyn til produkter som utgjør en alvorlig risiko, i samsvar med prinsippene fastsatt ved denne forordning. Direktiv [2001/95/EF](eu/32001l0095) bør derfor endres.
 8. Akkreditering er en del av et overordnet system som omfatter samsvarsvurdering og markedstilsyn, og som har som formål å vurdere og sikre at gjeldende krav oppfylles.
 9. Akkrediteringens særlige verdi ligger i det faktum at den er en autoritativ erklæring om den tekniske kompetansen til organer som har som oppgave å sikre at gjeldende krav oppfylles.
@@ -106,10 +106,10 @@ ut fra følgende betraktninger:
 28. Samarbeid mellom vedkommende myndigheter på nasjonalt plan og over landegrensene om utveksling av informasjon, undersøkelse av overtredelser og tiltak for å bringe dem til opphør, selv før farlige produkter bringes i omsetning, ved å styrke tiltak for å identifisere dem, særlig i havner, er avgjørende for vernet av helse og sikkerhet og for at det indre marked skal virke på en tilfredsstillende måte. Nasjonale forbrukervernmyndigheter bør på nasjonalt plan samarbeide med nasjonale markedstilsynsmyndigheter og utveksle informasjon med dem om produkter som de mener kan utgjøre en risiko.
 29. Risikovurderingen bør ta hensyn til alle relevante opplysninger, herunder opplysninger om risiko som har oppstått med hensyn til vedkommende produkt, dersom slike opplysninger foreligger. Det bør også tas hensyn til alle tiltak som de berørte markedsdeltakerne måtte ha truffet for å redusere denne risikoen.
 30. Situasjoner der et produkt utgjør en alvorlig risiko krever at det gripes inn raskt, noe som kan føre til at produktet trekkes tilbake fra markedet, tilbakekalles eller at det forbys å gjøre produktet tilgjengelig på markedet. I slike situasjoner er det nødvendig å ha tilgang til et system for rask utveksling av informasjon mellom medlemsstatene og Kommisjonen. Systemet omhandlet i artikkel 12 i direktiv [2001/95/EF](eu/32001l0095) har vist seg å være effektivt og virkningsfullt for forbruksvarer. For å unngå unødvendig overlapping bør det nevnte systemet benyttes for denne forordnings formål. Et ensartet markedstilsyn i hele Fellesskapet krever omfattende utveksling av informasjon om nasjonal virksomhet i denne sammenheng, som går lenger enn dette systemet.
-31. Informasjon som utveksles mellom vedkommende myndigheter, bør være underlagt de strengeste garantier for fortrolighet og taushetsplikt og behandles i samsvar med fortrolighetsregler i gjeldende nasjonal lovgivning eller, når det gjelder Kommisjonen, europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter,5 for å sikre at undersøkelsene ikke vanskeliggjøres og at markedsdeltakernes omdømme ikke skades. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger6 og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger7 får anvendelse innenfor rammen av denne forordning.
+31. Informasjon som utveksles mellom vedkommende myndigheter, bør være underlagt de strengeste garantier for fortrolighet og taushetsplikt og behandles i samsvar med fortrolighetsregler i gjeldende nasjonal lovgivning eller, når det gjelder Kommisjonen, europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter,[^5] for å sikre at undersøkelsene ikke vanskeliggjøres og at markedsdeltakernes omdømme ikke skades. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger[^6] og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger[^7] får anvendelse innenfor rammen av denne forordning.
 32. I Fellesskapets harmoniseringsregelverk er det fastsatt særlige framgangsmåter for å fastslå om et nasjonalt tiltak som begrenser fritt varebytte, er berettiget eller ikke (framgangsmåter for beskyttelsesklausuler). Disse framgangsmåtene får anvendelse etter en rask utveksling av informasjon om produkter som utgjør en alvorlig risiko.
 33. Innførselssteder ved de ytre grensene er godt egnet til å oppdage farlige produkter som ikke oppfyller kravene, eller produkter med uriktig eller villedende CE-merking, før de bringes i omsetning. En forpliktelse for myndigheter med ansvar for å utføre kontroll av produkter som innføres på fellesskapsmarkedet, til å utføre kontroller i tilstrekkelig stort omfang, kan derfor bidra til et sikrere marked. For å gjøre kontrollene mer effektive bør disse myndighetene i god tid få alle nødvendige opplysninger fra markedsmyndighetene om farlige produkter som ikke oppfyller kravene.
-34. I rådsforordning [(EØF) nr. 339/93](eu/31993r0339*) av 8. februar 1993 om kontroll av samsvar med reglene om produktsikkerhet ved innførsel av produkter fra tredjestater8 er det fastsatt regler for tollmyndigheters utsettelse av frigivelse av produkter, og det er fastsatt ytterligere tiltak, herunder å trekke inn markedstilsynsmyndighetene. Det er derfor hensiktsmessig at disse bestemmelsene, herunder det å trekke inn markedstilsynsmyndighetene, blir innarbeidet i denne forordning.
+34. I rådsforordning [(EØF) nr. 339/93](eu/31993r0339*) av 8. februar 1993 om kontroll av samsvar med reglene om produktsikkerhet ved innførsel av produkter fra tredjestater[^8] er det fastsatt regler for tollmyndigheters utsettelse av frigivelse av produkter, og det er fastsatt ytterligere tiltak, herunder å trekke inn markedstilsynsmyndighetene. Det er derfor hensiktsmessig at disse bestemmelsene, herunder det å trekke inn markedstilsynsmyndighetene, blir innarbeidet i denne forordning.
 35. Erfaring har vist at produkter som ikke frigis, ofte blir gjenutført og deretter kommer inn på fellesskapsmarkedet på andre innførselssteder, og dermed undergraver tollmyndighetenes arbeid. Markedstilsynsmyndighetene bør derfor gis midler til å destruere produkter dersom de anser det som hensiktsmessig.
 36. Innen ett år etter kunngjøring av denne forordning i *Den europeiske unions tidende* bør Kommisjonen legge fram en dyptgående analyse på området forbrukersikkerhetsmerking, fulgt av forslag til regelverk der dette er nødvendig.
 37. CE-merking, som viser at et produkt er i samsvar med kravene, er det synlige resultat av en hel prosess som omfatter samsvarsvurdering i vid betydning. Allmenne prinsipper for CE-merkingen bør fastsettes i denne forordning, slik at de kan anvendes umiddelbart og dermed forenkle framtidig regelverk.
@@ -117,7 +117,7 @@ ut fra følgende betraktninger:
 39. Medlemsstatene må sørge for egnede muligheter til å klage til vedkommende domstoler på tiltak truffet av vedkommende myndigheter som begrenser omsetningen av et produkt, eller krever at produktet trekkes tilbake eller tilbakekalles.
 40. Medlemsstatene kan finne det nyttig å opprette et samarbeid med berørte parter, herunder sektorvise yrkesorganisasjoner og forbrukerorganisasjoner, for å dra fordel av tilgjengelig markedskunnskap når de oppretter, gjennomfører og ajourfører markedstilsynsprogrammer.
 41. Medlemsstatene bør fastsette regler for sanksjoner som skal anvendes ved overtredelse av bestemmelsene i denne forordning og sikre at de blir gjennomført. Disse sanksjonene bør være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende og kan skjerpes dersom den berørte markedsdeltaker tidligere har begått en lignende overtredelse av bestemmelsene i denne forordning.
-42. For å nå denne forordnings mål er det nødvendig at Fellesskapet bidrar til finansiering av den virksomhet som kreves for å gjennomføre Fellesskapets politikk på området akkreditering og markedstilsyn. Finansiering bør skje enten i form av tilskudd til det organ som er anerkjent i henhold til denne forordning uten forslagsinnbydelse, i form av tilskudd etter forslagsinnbydelse eller ved å tildele kontrakter til dette eller andre organer, avhengig av arten av den virksomhet som skal finansieres og i samsvar med rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*) av 25. juni 2002 om finansreglementet som får anvendelse på De europeiske fellesskaps alminnelige budsjett9 («finansreglementet»).
+42. For å nå denne forordnings mål er det nødvendig at Fellesskapet bidrar til finansiering av den virksomhet som kreves for å gjennomføre Fellesskapets politikk på området akkreditering og markedstilsyn. Finansiering bør skje enten i form av tilskudd til det organ som er anerkjent i henhold til denne forordning uten forslagsinnbydelse, i form av tilskudd etter forslagsinnbydelse eller ved å tildele kontrakter til dette eller andre organer, avhengig av arten av den virksomhet som skal finansieres og i samsvar med rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*) av 25. juni 2002 om finansreglementet som får anvendelse på De europeiske fellesskaps alminnelige budsjett[^9] («finansreglementet»).
 43. For visse spesialiserte oppgaver, f.eks. utarbeiding og revisjon av sektorvise akkrediteringsordninger, og for andre oppgaver knyttet til kontroll av laboratoriers samt sertifiserings- eller inspeksjonsorganers tekniske kompetanse og utstyr, bør EA i utgangspunktet være berettiget til fellesskapsfinansiering, ettersom det er godt egnet til å sørge for den tekniske sakkunnskap som er nødvendig for dette.
 44. I betraktning av rollen til det organ som er anerkjent i henhold til denne forordning i forbindelse med fagfellevurdering av akkrediteringsorganer, og dets evne til å bistå medlemsstatene med forvaltning av slik vurdering, bør Kommisjonen kunne gi tilskudd til driften av sekretariatet til det organ som er anerkjent i henhold til denne forordning, som bør gi løpende støtte til akkrediteringsvirksomhet på fellesskapsplan.
 45. Det bør i samsvar med bestemmelsene i finansreglementet inngås en partnerskapsavtale mellom Kommisjonen og det organ som er anerkjent i henhold til denne forordning, for å fastsette de administrative og finansielle bestemmelsene om finansiering av akkrediteringsvirksomhet.
@@ -169,7 +169,7 @@ I denne forordning menes med:
 6. «distributør» enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et produkt tilgjengelig på markedet,
 7. «markedsdeltakere» produsenten, representanten, importøren og distributøren,
 8. «teknisk spesifikasjon» et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av et produkt, en prosess eller en tjeneste,
-9. «harmonisert standard» en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 19981 om en informasjonsprosedyre for standarder og tekniske forskrifter2 på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv,
+9. «harmonisert standard» en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998[^1] om en informasjonsprosedyre for standarder og tekniske forskrifter[^2] på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv,
 10. «akkreditering» en attestering fra et nasjonalt akkrediteringsorgan om at et samsvarsvurderingsorgan oppfyller kravene fastsatt i harmoniserte standarder og, der det er relevant, eventuelle tilleggskrav, herunder dem som er fastsatt i relevante sektorordninger, til å utøve en bestemt samsvarsvurderingsvirksomhet,
 11. «nasjonalt akkrediteringsorgan» det eneste organ i en medlemsstat som utfører akkreditering på oppdrag fra staten,
 12. «samsvarsvurdering» en prosess for å fastslå om nærmere angitte krav til et produkt, en prosess, en tjeneste, et system, en person eller et organ er oppfylt,
@@ -179,7 +179,7 @@ I denne forordning menes med:
 16. «fagfellevurdering» en prosess der et nasjonalt akkrediteringsorgan vurderes av andre nasjonale akkrediteringsorganer i samsvar med kravene i denne forordning og, der det er relevant, ytterligere sektorvise tekniske spesifikasjoner,
 17. «markedstilsyn» virksomhet som utøves og tiltak som treffes av offentlige myndigheter for å sikre at produkter oppfyller kravene i Fellesskapets gjeldende harmoniseringsregelverk og ikke setter helse, sikkerhet eller andre sider ved vernet av offentlige interesser i fare,
 18. «markedstilsynsmyndighet» en myndighet i en medlemsstat med ansvar for å utføre markedstilsyn på medlemsstatens territorium,
-19. «frigivelse for fri omsetning» framgangsmåten fastsatt i artikkel 79 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks,3
+19. «frigivelse for fri omsetning» framgangsmåten fastsatt i artikkel 79 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks,[^3]
 20. «CE-merking» merking der produsenten angir at produktet oppfyller gjeldende krav fastsatt i Fellesskapets harmoniseringsregelverk for slik merking,
 21. «Fellesskapets harmoniseringsregelverk» alt fellesskapsregelverk som harmoniserer vilkårene for markedsføring av produkter.
 
@@ -311,7 +311,7 @@ Et nasjonalt akkrediteringsorgan skal oppfylle følgende krav:
 
 ### Art 13. Anmodninger til det organ som er anerkjent i henhold til artikkel 14
 
-1\. Kommisjonen kan, etter samråd med komiteen nedsatt i henhold til artikkel 5 i direktiv [98/34/EF](eu/31998l0034),1 anmode det organ som er anerkjent i henhold til artikkel 14, om å bidra til utvikling, opprettholdelse og gjennomføring av akkreditering i Fellesskapet.
+1\. Kommisjonen kan, etter samråd med komiteen nedsatt i henhold til artikkel 5 i direktiv [98/34/EF](eu/31998l0034),[^1] anmode det organ som er anerkjent i henhold til artikkel 14, om å bidra til utvikling, opprettholdelse og gjennomføring av akkreditering i Fellesskapet.
 
 2\. Kommisjonen kan også etter framgangsmåten fastsatt i nr. 1
 
@@ -346,7 +346,7 @@ Et nasjonalt akkrediteringsorgan skal oppfylle følgende krav:
 
 2\. Alle bestemmelser i artikkel 16–26 får anvendelse i den utstrekning det ikke finnes særlige bestemmelser med samme formål i Fellesskapets harmoniseringsregelverk.
 
-3\. Anvendelsen av denne forordning skal ikke hindre markedstilsynsmyndighetene i å treffe særskilte tiltak som fastsatt i direktiv [2001/95/EF](eu/32001l0095).1
+3\. Anvendelsen av denne forordning skal ikke hindre markedstilsynsmyndighetene i å treffe særskilte tiltak som fastsatt i direktiv [2001/95/EF](eu/32001l0095).[^1]
 
 4\. I artikkel 16-26 menes med «produkt» et stoff, en stoffblanding eller en vare framstilt ved en produksjonsprosess, bortsett fra næringsmidler, fôr, levende planter og dyr, produkter som skriver seg fra mennesker og produkter av planter og dyr som er direkte knyttet til deres framtidige reproduksjon.
 
@@ -435,7 +435,7 @@ De skal samarbeide med markedsdeltakerne om tiltak som kan hindre eller redusere
 
 3\. De opplysningene som gis i henhold til nr. 1 og 2, skal inneholde alle tilgjengelige detaljopplysninger, særlig de som er nødvendige for å identifisere produktet, produktets opprinnelse og omsetningskjede, tilknyttet risiko, arten og varigheten av nasjonale tiltak som er truffet, samt eventuelle frivillige tiltak som er truffet av markedsdeltakerne.
 
-4\. Med hensyn til nr. 1, 2 og 3 skal det system for markedstilsyn og informasjonsutveksling som er fastsatt i artikkel 12 i direktiv [2001/95/EF](eu/32001l0095),1 benyttes. Nr. 2, 3 og 4 i artikkel 12 i nevnte direktiv får tilsvarende anvendelse.
+4\. Med hensyn til nr. 1, 2 og 3 skal det system for markedstilsyn og informasjonsutveksling som er fastsatt i artikkel 12 i direktiv [2001/95/EF](eu/32001l0095),[^1] benyttes. Nr. 2, 3 og 4 i artikkel 12 i nevnte direktiv får tilsvarende anvendelse.
 
 1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap XIX nr. 3h.
 
@@ -540,7 +540,7 @@ Dersom det blir forbudt å bringe et produkt i omsetning i henhold til første l
 
 ### Art 31. Organer som arbeider for et mål av allmenn europeisk interesse
 
-Det organ som er anerkjent i henhold til artikkel 14, skal anses som et organ som arbeider for et mål av allmenn europeisk interesse i henhold til artikkel 162 i kommisjonsforordning [(EF, Euratom) nr. 2342/2002](eu/32002r2342*) av 23. desember 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*).1
+Det organ som er anerkjent i henhold til artikkel 14, skal anses som et organ som arbeider for et mål av allmenn europeisk interesse i henhold til artikkel 162 i kommisjonsforordning [(EF, Euratom) nr. 2342/2002](eu/32002r2342*) av 23. desember 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*).[^1]
 
 1 EFT L 357 av 31.12.2002, s. 1. Forordningen sist endret ved forordning [(EF, Euratom) nr. 478/2007](eu/32007r0478) (EUT L 111 av 28.4.2007, s. 13).
 
@@ -556,7 +556,7 @@ Det organ som er anerkjent i henhold til artikkel 14, skal anses som et organ so
 6. utførelse av forberedende arbeid eller tilleggsarbeid i forbindelse med gjennomføringen av samsvarsvurderingen, metrologi, akkreditering og markedstilsyn knyttet til gjennomføringen av Fellesskapets regelverk, som for eksempel undersøkelser, programmer, vurderinger, retningslinjer, sammenlignende analyser, gjensidige felles besøk, forskningsarbeid, utvikling og vedlikehold av databaser, opplæringsvirksomhet, laboratoriearbeid, egnethetsprøving, sammenlignende laboratorieprøvinger og samsvarsvurderingsarbeid samt europeiske markedstilsynskampanjer og lignende virksomhet,
 7. virksomhet innenfor rammen av programmer for teknisk bistand, samarbeid med tredjestater og fremming og forbedring av europeiske prinsipper og ordninger for samsvarsvurdering, markedstilsyn og akkreditering blant berørte parter i Fellesskapet og på internasjonalt plan.
 
-2\. Den virksomhet som er omhandlet i nr. 1 bokstav a), skal være berettiget til fellesskapsfinansiering bare dersom komiteen nedsatt ved artikkel 5 i direktiv [98/34/EF](eu/31998l0034)1 er rådspurt om anmodningene som skal legges fram for det organ som er anerkjent i henhold til artikkel 14 i denne forordning.
+2\. Den virksomhet som er omhandlet i nr. 1 bokstav a), skal være berettiget til fellesskapsfinansiering bare dersom komiteen nedsatt ved artikkel 5 i direktiv [98/34/EF](eu/31998l0034)[^1] er rådspurt om anmodningene som skal legges fram for det organ som er anerkjent i henhold til artikkel 14 i denne forordning.
 
 1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap. XIX nr. 1.
 
@@ -591,7 +591,7 @@ Bevilgningene til den virksomhet som omhandles i denne forordning, skal fastsett
 
 ### Art 37. Vern av Fellesskapets økonomiske interesser
 
-1\. Kommisjonen skal ved gjennomføring av virksomhet finansiert i henhold til denne forordning sikre vern av Fellesskapets økonomiske interesser gjennom forebyggende tiltak mot bedrageri, korrupsjon og annen ulovlig virksomhet, gjennom effektiv kontroll og inndrivelse av beløp som er urettmessig utbetalt, og dersom det oppdages uregelmessigheter, gjennom sanksjoner som er virkningsfulle, står i forhold til overtredelsen og er avskrekkende, i samsvar med rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om vern av De europeiske fellesskaps økonomiske interesser,1 rådsforordning [(Euratom, EF) nr. 2185/96](eu/31996r2185) av 11. november 1996 om kontroll og inspeksjon på stedet som foretas av Kommisjonen for å verne De europeiske fellesskaps økonomiske interesser mot bedrageri og andre uregelmessigheter2 og europaparlaments- og rådsforordning [(EF) nr. 1073/1999](eu/31999r1073) av 25. mai 1999 om undersøkelser som foretas av Det europeiske kontor for bedrageribekjempelse (OLAF).3
+1\. Kommisjonen skal ved gjennomføring av virksomhet finansiert i henhold til denne forordning sikre vern av Fellesskapets økonomiske interesser gjennom forebyggende tiltak mot bedrageri, korrupsjon og annen ulovlig virksomhet, gjennom effektiv kontroll og inndrivelse av beløp som er urettmessig utbetalt, og dersom det oppdages uregelmessigheter, gjennom sanksjoner som er virkningsfulle, står i forhold til overtredelsen og er avskrekkende, i samsvar med rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om vern av De europeiske fellesskaps økonomiske interesser,[^1] rådsforordning [(Euratom, EF) nr. 2185/96](eu/31996r2185) av 11. november 1996 om kontroll og inspeksjon på stedet som foretas av Kommisjonen for å verne De europeiske fellesskaps økonomiske interesser mot bedrageri og andre uregelmessigheter[^2] og europaparlaments- og rådsforordning [(EF) nr. 1073/1999](eu/31999r1073) av 25. mai 1999 om undersøkelser som foretas av Det europeiske kontor for bedrageribekjempelse (OLAF).[^3]
 
 2\. For den fellesskapsvirksomhet som finansieres i henhold til denne forordning, menes med begrepet uregelmessighet omhandlet i artikkel 1 nr. 2 i forordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) enhver overtredelse av en bestemmelse i fellesskapsretten eller ethvert brudd på en avtaleforpliktelse som følge av en markedsdeltakers handling eller unnlatelse, som skader eller vil kunne skade Den europeiske unions alminnelige budsjett eller budsjetter som den forvalter, som følge av en urettmessig utgiftspost.
 
@@ -639,11 +639,11 @@ Henvisninger til den opphevede forordningen skal forstås som henvisninger til d
 
 ### Art 44. Ikrafttredelse
 
-Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.1
+Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.[^1]
 
-Den får anvendelse fra 1. januar 2010.1
+Den får anvendelse fra 1. januar 2010.[^1]
 
-Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.2
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.[^2]
 
 1 I EØS 1 apr 2013.
 

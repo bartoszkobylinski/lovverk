@@ -15,7 +15,7 @@ xml_hash: "b3340efe7481ff5a08137df8286e2bcba3b233a90e12cef7b03cc21321483642"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Nye pensjonsavtaler etter denne loven kan ikke inngås etter ikrafttredelse av d
 
 (2) Pensjonsavtale kan inngås med institusjon som har tillatelse fra norske myndigheter til å drive virksomhet her i riket som bank, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond, med mindre annet følger av bestemmelse gitt i eller i medhold av lov.
 
-(3) Pensjonsavtale kan også inngås med kredittinstitusjon, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond som er hjemmehørende i annen stat innenfor Det europeiske økonomiske samarbeidsområdet, og som har adgang til å drive tilsvarende virksomhet som nevnt i annet ledd her i riket.1
+(3) Pensjonsavtale kan også inngås med kredittinstitusjon, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond som er hjemmehørende i annen stat innenfor Det europeiske økonomiske samarbeidsområdet, og som har adgang til å drive tilsvarende virksomhet som nevnt i annet ledd her i riket.[^1]
 
 1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1 (direktiv [2009/138](eu/32009l0138*)), nr. 14 (direktiv [2006/48](eu/32006l0048)), nr. 30 (direktiv [2009/65](eu/32009l0065)) og nr. 31d (direktiv [2003/41](eu/32003l0041)).
 

@@ -15,7 +15,7 @@ xml_hash: "bc12d485479e8ba91638d6eeabe8cf2b57a3c360b5584ec0688033d831084663"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -296,15 +296,15 @@ under henvisning til traktaten om opprettelse av Det europeiske økonomiske fell
 
 under henvisning til forslag fra Kommisjonen,
 
-under henvisning til uttalelse fra Europaparlamentet,1
+under henvisning til uttalelse fra Europaparlamentet,[^1]
 
-under henvisning til uttalelse fra Den økonomiske og sosiale komité,2 og
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,[^2] og
 
 ut fra følgende betraktninger:
 
-I henhold til rådsdirektiv [84/647/EØF](eu/31984l0647)3 har transportører som utfører transport for egen eller for en annens regning, adgang til å benytte leiebil.
+I henhold til rådsdirektiv [84/647/EØF](eu/31984l0647)[^3] har transportører som utfører transport for egen eller for en annens regning, adgang til å benytte leiebil.
 
-Definisjonen av godstransport på vei for egen regning i artikkel 9 i forordning nr. 114 ((EØF) [nr. 11/60](eu/31960r0011*)) utelukker bruk av leiebil. Det er derfor nødvendig å endre nevnte forordning –
+Definisjonen av godstransport på vei for egen regning i artikkel 9 i forordning nr. 11[^4] ((EØF) [nr. 11/60](eu/31960r0011*)) utelukker bruk av leiebil. Det er derfor nødvendig å endre nevnte forordning –
 
 1 EFT nr. C 10 av 16.1.1984, s. 91.
 
@@ -320,7 +320,7 @@ VEDTATT DENNE FORORDNING:
 
 Artikkel 9 første strekpunkt i forordning nr. 11 ((EØF) [nr. 11/60](eu/31960r0011*)) skal lyde:
 
-« – varene skal transporteres med transportmidler som foretaket eier, har kjøpt på avbetaling eller leier, i det siste tilfellet forutsatt at de oppfyller vilkårene i artikkel 2 i direktiv [84/647/EØF](eu/31984l0647).1
+« – varene skal transporteres med transportmidler som foretaket eier, har kjøpt på avbetaling eller leier, i det siste tilfellet forutsatt at de oppfyller vilkårene i artikkel 2 i direktiv [84/647/EØF](eu/31984l0647).[^1]
 
 1 EFT nr. L 335 av 22.12.1984, s. 72.»
 

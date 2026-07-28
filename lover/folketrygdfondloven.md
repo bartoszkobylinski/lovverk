@@ -15,7 +15,7 @@ xml_hash: "9664d89a6e2619b666959decb8030634f6df579be3f14085477f0274bbf3139c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,7 @@ Departementet kan i forskrift fastsette nærmere regler for Folketrygdfondet.
 
 ## § 16. Ikrafttredelse og endringer i andre lover
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 

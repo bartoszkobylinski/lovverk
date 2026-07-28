@@ -15,7 +15,7 @@ xml_hash: "c80284df355161a93b7f8c1eac34771e7df0ce92888d6a570e6891d76764665f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -329,7 +329,7 @@ Vedtaket til klageinstansen er særleg tvangsgrunnlag etter [tvangsfullbyrdelses
 
 ### § 33. Iverksetjing og overgangsreglar
 
-Lova gjeld frå den tid Kongen fastset.1 Frå same tid blir [lov 19. juni 1970 nr. 69](lov/1970-06-19-69) om offentlighet i forvaltningen oppheva.
+Lova gjeld frå den tid Kongen fastset.[^1] Frå same tid blir [lov 19. juni 1970 nr. 69](lov/1970-06-19-69) om offentlighet i forvaltningen oppheva.
 
 For rettssubjekt som blir omfatta av lova etter [§ 2](lov/2006-05-19-16/§2) første ledd bokstav c eller d, gjeld innsynsretten og plikta til å føre journal berre for dokument som er komme inn til eller oppretta av rettssubjektet etter at lova her tek til å gjelde.
 

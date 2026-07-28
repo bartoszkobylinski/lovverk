@@ -15,7 +15,7 @@ xml_hash: "250032b31d8463fc0d9660b1b5ffaa45f29fd531e46cfd2a0b9428b96b5c64b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -119,7 +119,7 @@ For den som er ansatt på fiske- eller fangstfartøy på 100 brutto registertonn
 
 ### § 6. Unntak for fiske- og fangstfartøyer.
 
-Når særlige omstendigheter er tilstede, kan Direktoratet for sjømenn1 bestemme at grupper av personer på fiske- og fangstfartøyer helt eller delvis skal være unntatt fra loven.
+Når særlige omstendigheter er tilstede, kan Direktoratet for sjømenn[^1] bestemme at grupper av personer på fiske- og fangstfartøyer helt eller delvis skal være unntatt fra loven.
 
 1 Sjøfartsdirektoratet iflg. [forskrift 23. desember 1988 nr. 1081](forskrift/1988-12-23-1081).
 
@@ -134,7 +134,7 @@ Når særlige omstendigheter er tilstede, kan Direktoratet for sjømenn1 bestemm
 
    skal ikke gjelde.
 
-   Bestemmelsene i §§ 21, 22 og 28 nr. 2 om beregning og utbetaling av hyre skal kunne fravikes ved tariffavtale eller skriftlig avtale mellom partene, godkjent av Direktoratet for sjømenn1.
+   Bestemmelsene i §§ 21, 22 og 28 nr. 2 om beregning og utbetaling av hyre skal kunne fravikes ved tariffavtale eller skriftlig avtale mellom partene, godkjent av Direktoratet for sjømenn[^1].
 2. For personer som ikke omfattes av nr. 1 i denne paragraf gjelder følgende bestemmelser i loven:
 
    - [§ 4](forskrift/1986-01-31-222/§4) om lavalder m.v.,

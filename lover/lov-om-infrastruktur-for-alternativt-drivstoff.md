@@ -15,7 +15,7 @@ xml_hash: "c89ea2eb09ddeed7eeb8a4d0437f6a1e9724714886d9e4e68af7c69af79731ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32014L0094"
@@ -68,6 +68,6 @@ Loven gjelder ikke for ladepunkter og energistasjoner som er etablert før loven
 
 ## § 7. Ikrafttreden
 
-Loven gjelder fra den tid1 Kongen bestemmer.
+Loven gjelder fra den tid[^1] Kongen bestemmer.
 
 1 Fra 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1276](forskrift/2020-06-19-1276).

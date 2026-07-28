@@ -15,7 +15,7 @@ xml_hash: "1d0d6007dfde1849d3a44f14acd52456848dfe89323a7c403f2c49d8467156f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -914,7 +914,7 @@ Selskapets midler kan ikke deles ut eller kreves utdelt til deltakerne i større
 
 ### § 4-1. Ikrafttredelse
 
-Kongen bestemmer når loven trer i kraft.1
+Kongen bestemmer når loven trer i kraft.[^1]
 
 1 Fra 1 juli 1986 iflg. [res. 13 des 1985 nr. 2091](forskrift/1985-12-13-2091).
 
@@ -933,7 +933,7 @@ Kongen bestemmer når loven trer i kraft.1
 
 – – –
 
-1. (2) Når særlige grunner tilsier det, kan Kongen1 i det enkelte tilfelle gjøre unntak fra bestemmelsene i foregående ledd
+1. (2) Når særlige grunner tilsier det, kan Kongen[^1] i det enkelte tilfelle gjøre unntak fra bestemmelsene i foregående ledd
 
 – – –
 
@@ -945,6 +945,6 @@ Kongen bestemmer når loven trer i kraft.1
 
 ### § 4-3. Endringer i andre lover
 
-Fra den tid1 loven trer i kraft gjøres følgende endringer i andre lover: – – –
+Fra den tid[^1] loven trer i kraft gjøres følgende endringer i andre lover: – – –
 
 1 Fra 1 juli 1986 iflg. [res. 13 des 1985 nr. 2091](forskrift/1985-12-13-2091).

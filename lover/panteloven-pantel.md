@@ -15,7 +15,7 @@ xml_hash: "e39807518da1af0c09552b3844488605751b7254565ac30e53a11e959ebb31a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -408,7 +408,7 @@ Pantsettelsen kan skje enkeltvis eller for motorvogner, anleggsmaskiner eller je
 2. drivstoff og andre varer som forbrukes under virksomheten,
 3. emballasje til virksomhetens produkter.
 
-(3) Panteretten må gjelde pantsetterens varelager i sin helhet eller en nærmere angitt del som driftsmessig er adskilt fra det øvrige og fremtrer som en selvstendig enhet, slik lageret eller vedkommende del av det er til enhver tid. Kongen1 kan gi forskrift om adgang til å pantsette del av varelager.
+(3) Panteretten må gjelde pantsetterens varelager i sin helhet eller en nærmere angitt del som driftsmessig er adskilt fra det øvrige og fremtrer som en selvstendig enhet, slik lageret eller vedkommende del av det er til enhver tid. Kongen[^1] kan gi forskrift om adgang til å pantsette del av varelager.
 
 (4) Panterett i varelager omfatter ikke ting som kan pantsettes etter [§§ 3-3](lov/1980-02-08-2/§3-3), [3-8](lov/1980-02-08-2/§3-8), [3-9](lov/1980-02-08-2/§3-9) eller [3-10](lov/1980-02-08-2/§3-10).
 
@@ -888,7 +888,7 @@ Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, fors
 
 ### § 7-1. Ikrafttredelse.
 
-(1) Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.1
+(1) Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.[^1]
 
 (2) Kongen kan bestemme at deler av loven skal tre i kraft fra et senere tidspunkt enn loven forøvrig. Dette gjelder også bestemmelsene i [§ 7-3](lov/1980-02-08-2/§7-3).
 
@@ -898,7 +898,7 @@ Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, fors
 
 (1) Reglene i [kapitlene 1](lov/1980-02-08-2/kap1) til [5](lov/1980-02-08-2/kap5) skal gjelde for panterett som blir stiftet etter at loven (eller vedkommende del av loven) er trådt i kraft.
 
-(2) Fullbyrdelsen av eldre panteretter skal følge de regler som til enhver tid gjelder. Eldre gyldig eiendomsforbehold og forbehold med tilsvarende virkning skal i den forbindelse regnes likt med salgspant; reglene i tvangsfullbyrdelseslovens1 nye § 215 a gjelder likevel ikke for eldre forbehold.
+(2) Fullbyrdelsen av eldre panteretter skal følge de regler som til enhver tid gjelder. Eldre gyldig eiendomsforbehold og forbehold med tilsvarende virkning skal i den forbindelse regnes likt med salgspant; reglene i tvangsfullbyrdelseslovens[^1] nye § 215 a gjelder likevel ikke for eldre forbehold.
 
 (3) Reglene i [kapittel 6](lov/1980-02-08-2/kap6) skal gjelde for krav som opptjenes i tiden etter at loven er trådt i kraft. Lovbestemt panterett etter bestemmelser som oppheves ved denne lov, kan bare gjøres gjeldende for krav som opptjenes i tiden før loven trer i kraft.
 

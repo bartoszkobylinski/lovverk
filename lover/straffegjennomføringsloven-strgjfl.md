@@ -15,7 +15,7 @@ xml_hash: "0e334a35a9c90e39bd5ad69d4eedbe57973148b3ebdf6eb4dc32244499298c78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -705,7 +705,7 @@ Kriminalomsorgen skal beslutte delvis utelukkelse dersom dette er tilstrekkelig 
 
 Hel eller delvis utelukkelse etter første, andre eller tredje ledd skal ikke opprettholdes lenger enn nødvendig, og kriminalomsorgen skal fortløpende vurdere om det fortsatt er grunnlag for utelukkelsen.
 
-Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgsdirektoratet. Melding skal deretter gis til direktoratet med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det. Beslutning om utelukkelse av person under 18 år skal omgående meldes til regionalt nivå. Kriminalomsorgen skal fortløpende vurdere om det er grunnlag for å opprettholde tiltaket. Dersom utelukkelsen overstiger 3 dager, skal saken oversendes regionalt nivå til ny vurdering. Dersom utelukkelsen overstiger 5 dager, skal det sendes melding til Kriminalomsorgsdirektoratet. [Hel utelukkelse av innsatte under 18 år kan under enhver omstendighet ikke overstige 7 dager.]1
+Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgsdirektoratet. Melding skal deretter gis til direktoratet med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det. Beslutning om utelukkelse av person under 18 år skal omgående meldes til regionalt nivå. Kriminalomsorgen skal fortløpende vurdere om det er grunnlag for å opprettholde tiltaket. Dersom utelukkelsen overstiger 3 dager, skal saken oversendes regionalt nivå til ny vurdering. Dersom utelukkelsen overstiger 5 dager, skal det sendes melding til Kriminalomsorgsdirektoratet. [Hel utelukkelse av innsatte under 18 år kan under enhver omstendighet ikke overstige 7 dager.][^1]
 
 Dersom delvis utelukkelse fra fellesskapet overstiger 30 dager, skal tiltaket meldes til regionalt nivå. Dersom delvis utelukkelse fra fellesskapet av en innsatt under 18 år overstiger 7 dager, skal Kriminalomsorgsdirektoratet ta stilling til om den innsatte fortsatt skal utelukkes. Melding skal deretter gis til direktoratet med 7 dagers mellomrom.
 
@@ -816,7 +816,7 @@ Den som forsettlig eller grovt uaktsomt unnlater å etterkomme pålegg som nevnt
 
 Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til at domfelte unndrar seg gjennomføringen av fengselsstraff eller forvaring, skal kriminalomsorgen så snart som mulig varsle fornærmede eller dennes etterlatte om unndragelsen.
 
-[Reaksjonene i annet ledd og fjerde ledd annet og tredje punktum kan ikke brukes overfor innsatte under 18 år. Departementet kan gi forskrift med utfyllende bestemmelser om mindre inngripende reaksjoner ved brudd på straffegjennomføringen for denne gruppen innsatte.]1
+[Reaksjonene i annet ledd og fjerde ledd annet og tredje punktum kan ikke brukes overfor innsatte under 18 år. Departementet kan gi forskrift med utfyllende bestemmelser om mindre inngripende reaksjoner ved brudd på straffegjennomføringen for denne gruppen innsatte.][^1]
 
 > Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [29 juni 2007 nr. 83](lov/2007-06-29-83) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1138](forskrift/2007-10-12-1138)), [29 juni 2007 nr. 84](lov/2007-06-29-84) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1139](forskrift/2007-10-12-1139)), [14 juni 2013 nr. 44](lov/2013-06-14-44), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)) **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
@@ -1060,7 +1060,7 @@ Dersom den domfelte er siktet for en straffbar handling som kan føre til fullby
 
 ### § 60. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunktet Kongen bestemmer.1
+Loven trer i kraft fra det tidspunktet Kongen bestemmer.[^1]
 
 Fra samme tidspunkt oppheves fengselsloven av 12. desember 1958. Forskriftene gitt i medhold av fengselsloven og i medhold av [straffeloven § 28 b](lov/1902-05-22-10/§28b) og [§ 53](lov/1902-05-22-10/§53) nr. 6 skal likevel fortsatt gjelde, for så vidt de ikke er i strid med denne loven, inntil de oppheves eller endres av Kongen.
 

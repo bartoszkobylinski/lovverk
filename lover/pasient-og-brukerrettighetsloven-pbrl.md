@@ -15,7 +15,7 @@ xml_hash: "35cddf038849f68254f7331c5dc04be77ffa5c4ffc186d43a796b418cc01d450"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,7 +43,7 @@ Kongen gir forskrift om lovens anvendelse på Svalbard og Jan Mayen og kan fasts
 I loven her menes med
 
 1. pasient: en person som henvender seg til helse- og omsorgstjenesten med anmodning om helsehjelp, eller som helse- og omsorgstjenesten gir eller tilbyr helsehjelp i det enkelte tilfelle;
-2. pasientens og brukerens pårørende: den pasienten eller brukeren oppgir som pårørende og nærmeste pårørende. Dersom pasienten eller brukeren er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten eller brukeren, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner1, personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten eller brukeren, barn over 18 år, foreldre eller andre som har foreldreansvaret, søsken over 18 år, besteforeldre, andre familiemedlemmer som står pasienten eller brukeren nær, verge eller fremtidsfullmektig med kompetanse på det personlige området. Ved tvungen observasjon eller tvungent psykisk helsevern har den som i størst utstrekning har hatt varig og løpende kontakt med pasienten tilsvarende rettigheter som den nærmeste pårørende etter [psykisk helsevernloven](lov/1999-07-02-62) og loven her, dersom ikke særlige grunner taler mot dette.
+2. pasientens og brukerens pårørende: den pasienten eller brukeren oppgir som pårørende og nærmeste pårørende. Dersom pasienten eller brukeren er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten eller brukeren, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner[^1], personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten eller brukeren, barn over 18 år, foreldre eller andre som har foreldreansvaret, søsken over 18 år, besteforeldre, andre familiemedlemmer som står pasienten eller brukeren nær, verge eller fremtidsfullmektig med kompetanse på det personlige området. Ved tvungen observasjon eller tvungent psykisk helsevern har den som i størst utstrekning har hatt varig og løpende kontakt med pasienten tilsvarende rettigheter som den nærmeste pårørende etter [psykisk helsevernloven](lov/1999-07-02-62) og loven her, dersom ikke særlige grunner taler mot dette.
 3. helsehjelp: handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som er utført av helsepersonell;
 4. helse- og omsorgstjenesten: den kommunale helse- og omsorgstjenesten, spesialisthelsetjenesten, tannhelsetjenesten og private tilbydere av helse- og omsorgstjenester;
 5. helsepersonell: personer som nevnt i [lov om helsepersonell § 3](lov/1999-07-02-64/§3);
@@ -812,7 +812,7 @@ Departementet kan gi forskrifter til gjennomføring og utfylling av bestemmelsen
 
 ### § 9-1. Ikrafttredelse
 
-Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+Loven trer i kraft fra den tid[^1] Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
 1 Fra 1 jan 2001 iflg. [res. 1 des 2000 nr. 1198](forskrift/2000-12-01-1198) med unntak av § 2-5 som ble satt ikr. 1 juli 2001 iflg. [res. 8 juni 2001 nr. 595](forskrift/2001-06-08-595).
 

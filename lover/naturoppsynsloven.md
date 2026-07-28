@@ -15,7 +15,7 @@ xml_hash: "272721dc30ed32c48c8a55017f61c996fd8c7db28067f003c7b0ada959971502"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,7 +77,7 @@ Med bøter eller fengsel inntil 3 måneder straffes den som ved kontroll forsett
 
 ## § 4. Forholdet til politiet
 
-Oppsynspersonell kan gis begrenset politimyndighet etter lov av 1. oktober 1995 nr. 531 om politiet, og er ved utøvelse av denne myndighet underlagt politiet.
+Oppsynspersonell kan gis begrenset politimyndighet etter lov av 1. oktober 1995 nr. 53[^1] om politiet, og er ved utøvelse av denne myndighet underlagt politiet.
 
 Oppsynets kontrollvirksomhet skal utføres i nært samarbeid med og supplere det lokale politi.
 

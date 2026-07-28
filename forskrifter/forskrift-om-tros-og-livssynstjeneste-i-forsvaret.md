@@ -15,7 +15,7 @@ xml_hash: "1f042a66ef8601cbab1e957806bfb5fa6c2606ce3c3bfb6241ec6aa6e6a98629"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,6 +56,6 @@ Departementet kan foreta justeringer eller mindre endringer i denne forskriften.
 
 ## § 7. Ikrafttredelse
 
-Forskrift om tros- og livssynstjeneste i Forsvaret trer i kraft fra den tid departementet bestemmer.1 Fra samme tidspunkt oppheves Tjenesteordning [10. april 2015 nr. 369](forskrift/2015-04-10-369) for feltprester.
+Forskrift om tros- og livssynstjeneste i Forsvaret trer i kraft fra den tid departementet bestemmer.[^1] Fra samme tidspunkt oppheves Tjenesteordning [10. april 2015 nr. 369](forskrift/2015-04-10-369) for feltprester.
 
 1 I kraft 15 februar 2019 ved [vedtak 7 feb 2019 nr. 111](forskrift/2019-02-07-111).

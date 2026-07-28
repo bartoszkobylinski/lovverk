@@ -15,7 +15,7 @@ xml_hash: "5c6c31043015ebd982463fd5045cafd21e0f9d2530d1dd13ed75f7d5382b0909"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -237,8 +237,8 @@ Røyking eller bruk av open flamme på utvendige dekk er forbode når skipet fø
 | --- | --- |
 |  | Innvendige passasjerområde. |
 |  | Lasterom eller utvendige passasjerområde. |
-|  | Fastmontert skap på utvendig dekk. Skapet skal<br>a. reknast som eit eige rom med kategori 14, jf. [SOLAS](traktat/1974-11-01-1) kapittel II-2 regel 9, eller kategori A, jf. HSC2000-koden kapittel 7.3. Skapet skal ha ventilasjonsarrangement som rom med kategori 14/A. Skap på skip som ikkje er bygde etter desse standardane, skal ha brannisolering som gjev likeverdig vern<br>b. ha oppsamlingsbrønn på minst 25 liter<br>c. vere utstyrt med varme- eller røykdetektor<br>d. ha fastmontert brannsløkkeanlegg\*<br>e. vere tilrettelagt for sjøsikring av kolli<br>f. kunne overvakast under overfart, om naudsynt ved hjelp av kamera<br>g. vere tydeleg merka utvendig med «FARLEG REISEGODS». Merkinga kan supplerast med IMDG-symbol for dei aktuelle fareklassane. |
-|  | Fastmontert skap eller fastmonterte hyller på utvendig dekk. Skapet eller hyllene skal<br>a. vere plasserte minst tre meter frå dører, ventilasjonsopningar, naudutgangar, rømmingsvegar, mønstrings- og innskipingsstasjonar og brann- og redningsmidlar<br>b. ha naturleg ventilasjon i topp og botn eller minst ei heil breiside av skapet eller hyllene<br>c. ha fastmontert brannsløkkeanlegg\*<br>d. vere tilrettelagte for sjøsikring av kolli<br>e. kunne overvakast under overfart, om naudsynt ved hjelp av kamera<br>f. vere tydeleg merka utvendig med «FARLEG REISEGODS». Merkinga kan supplerast med IMDG-symbol for dei aktuelle fareklassane |
+|  | Fastmontert skap på utvendig dekk. Skapet skal<br>a. reknast som eit eige rom med kategori 14, jf. [SOLAS](traktat/1974-11-01-1) kapittel II-2 regel 9, eller kategori A, jf. HSC2000-koden kapittel 7.3. Skapet skal ha ventilasjonsarrangement som rom med kategori 14/A. Skap på skip som ikkje er bygde etter desse standardane, skal ha brannisolering som gjev likeverdig vern<br>b. ha oppsamlingsbrønn på minst 25 liter<br>c. vere utstyrt med varme- eller røykdetektor<br>d. ha fastmontert brannsløkkeanlegg[^\*]<br>e. vere tilrettelagt for sjøsikring av kolli<br>f. kunne overvakast under overfart, om naudsynt ved hjelp av kamera<br>g. vere tydeleg merka utvendig med «FARLEG REISEGODS». Merkinga kan supplerast med IMDG-symbol for dei aktuelle fareklassane. |
+|  | Fastmontert skap eller fastmonterte hyller på utvendig dekk. Skapet eller hyllene skal<br>a. vere plasserte minst tre meter frå dører, ventilasjonsopningar, naudutgangar, rømmingsvegar, mønstrings- og innskipingsstasjonar og brann- og redningsmidlar<br>b. ha naturleg ventilasjon i topp og botn eller minst ei heil breiside av skapet eller hyllene<br>c. ha fastmontert brannsløkkeanlegg[^\*]<br>d. vere tilrettelagte for sjøsikring av kolli<br>e. kunne overvakast under overfart, om naudsynt ved hjelp av kamera<br>f. vere tydeleg merka utvendig med «FARLEG REISEGODS». Merkinga kan supplerast med IMDG-symbol for dei aktuelle fareklassane |
 
 \* Eit fastmontert brannsløkkeanlegg kan i denne samanhengen vere ei løysing med dyse(r) inne i skapet som blir forsynt(e) frå ei NOR-kopling utanfor skapet.
 

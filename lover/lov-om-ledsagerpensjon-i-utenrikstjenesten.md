@@ -15,7 +15,7 @@ xml_hash: "f37d16cd6007dc534008e4b5dfa67ef28496048bf3fb474875e46243084adb50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,7 @@ Pensjonen utbetales etterskuddsvis hver måned. Terminbeløpet avrundes til nær
 
 ## § 5. Overgangsbestemmelser og ikrafttredelse
 
-Denne loven trer i kraft straks.1
+Denne loven trer i kraft straks.[^1]
 
 Rett til pensjon etter loven har ledsager som fyller vilkårene i [§ 3](lov/1999-01-15-1/§3) og som ikke har fylt 70 år på det tidspunkt ordningen trer i kraft.
 

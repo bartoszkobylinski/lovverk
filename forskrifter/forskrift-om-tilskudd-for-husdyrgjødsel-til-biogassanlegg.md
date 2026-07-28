@@ -15,7 +15,7 @@ xml_hash: "305a3a3f06612e12ee25925d59dca907c022187ce974961029a812af5b9b551c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,19 +49,19 @@ Der foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra 
 |  |  |
 | --- | --- |
 | *Dyreslag* | *Tilskudd (kroner)* |
-| Melkeku1 | 3040 |
-| Ammeku1 | 1583 |
-| Ungdyr av storfe1 | 1000 |
-| Avlsgris1 | 563 |
-| Slaktegris2 | 63 |
-| 1000 Verpehøns og slaktekyllingmødre1 | 16 993 |
-| 1000 Livkylling3 | 2124 |
-| 1000 Slaktekylling3 | 850 |
-| 1000 Slaktekalkun3 | 10 621 |
-| 1000 And3 | 2124 |
-| Sau > 1 år1 | 311 |
-| Mjølkegeit1 | 311 |
-| Hest1 | 1296 |
+| Melkeku[^1] | 3040 |
+| Ammeku[^1] | 1583 |
+| Ungdyr av storfe[^1] | 1000 |
+| Avlsgris[^1] | 563 |
+| Slaktegris[^2] | 63 |
+| 1000 Verpehøns og slaktekyllingmødre[^1] | 16 993 |
+| 1000 Livkylling[^3] | 2124 |
+| 1000 Slaktekylling[^3] | 850 |
+| 1000 Slaktekalkun[^3] | 10 621 |
+| 1000 And[^3] | 2124 |
+| Sau > 1 år[^1] | 311 |
+| Mjølkegeit[^1] | 311 |
+| Hest[^1] | 1296 |
 
 1 Oppgitt faktor gjelder gjødselmengde per årsdyr.
 

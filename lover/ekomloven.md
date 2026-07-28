@@ -15,7 +15,7 @@ xml_hash: "2faadaeabb00b9fb182d71e21c1b1c06384b20274b1e5736eef57682a5c84499"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32002D0676"
@@ -1713,7 +1713,7 @@ Departementet kan gi forskrift om vederlag, herunder om innkrevingen og måten v
 
 ### § 18-1. Ikrafttredelse
 
-Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 
 Fra den tid loven trer i kraft, oppheves [lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon](lov/2003-07-04-83).
 

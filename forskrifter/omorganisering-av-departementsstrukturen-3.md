@@ -15,7 +15,7 @@ xml_hash: "b9bf78b9456e5b8a5364a5f10f2684785f168991db3711b0dc5ddb1847b8ab27"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -27,10 +27,10 @@ eu_basis: []
 3. (Gjelder utnevnelser.)
 4. (Gjelder utnevnelser.)
 5. (Gjelder utnevnelser.)
-6. Overføring av ansvaret for lover til de nye departementene i samsvar med et vedlagt forslag.1
+6. Overføring av ansvaret for lover til de nye departementene i samsvar med et vedlagt forslag.[^1]
 
    1 Se vedlegg 1 til 4.
-7. Ansvaret for eierinteresser i statlige selskaper overføres til Nærings- og handelsdepartementet i samsvar med et vedlagt forslag.1
+7. Ansvaret for eierinteresser i statlige selskaper overføres til Nærings- og handelsdepartementet i samsvar med et vedlagt forslag.[^1]
 
    1 Se vedlegg 5.
 8. Forvaltningsansvaret for [lov av 29. november 1991 nr. 78](lov/1991-11-29-78) om Statens Bankinvesteringsfond overføres fra Finansdepartementet til Nærings- og handelsdepartementet.

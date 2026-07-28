@@ -15,7 +15,7 @@ xml_hash: "aea43f57bc0418a65813d68972aa0491c1f50073aafe3db93a970c17cd4cf178"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis:
   - "32009R0080"
@@ -39,7 +39,7 @@ EFTAs overvåkingsorgan og EFTA-domstolen kan ilegge foretak, sammenslutninger a
 
 ## § 4. Virkeområde
 
-Loven gjelder kun innenfor EØS-området.1
+Loven gjelder kun innenfor EØS-området.[^1]
 
 1 Se [EØS-avtalen art. 126](lov/1992-11-27-109/eøsl/a126).
 

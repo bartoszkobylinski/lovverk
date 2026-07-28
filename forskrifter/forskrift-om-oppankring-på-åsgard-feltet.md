@@ -15,7 +15,7 @@ xml_hash: "629f938211a1c122db964f1e9a4e50d8ddabd5ae3036c5ce0aacb232eae62727"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Forskriften får anvendelse på 16 undervannsinnretninger fordelt på tre områd
 
 Innenfor området som vil bli endelig fastlagt av Oljedirektoratet forbys oppankring og fiske med bunnredskaper som bunntrål og snurrevad.
 
-Innretningens endelige betegnelser og posisjoner er:1
+Innretningens endelige betegnelser og posisjoner er:[^1]
 
 | Undervanns- | UTM | Geografiske |
 | --- | --- | --- |
@@ -62,6 +62,6 @@ Forsettlig eller uaktsom overtredelse av denne forskriften straffes etter [lov 2
 
 ## § 4.
 
-Forskriften trer i kraft fra den tid1 Oljedirektoratet bestemmer.
+Forskriften trer i kraft fra den tid[^1] Oljedirektoratet bestemmer.
 
 1 I kraft 1. mars 1997 jfr. [forskrift 13. februar 1997 nr. 357](forskrift/1997-02-13-357).

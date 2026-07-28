@@ -15,7 +15,7 @@ xml_hash: "d11e3bf5308f4307acd5616ffec2b69ec90471ff3ac09d998675f33bbc98c6d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-27T19:02:17.427238+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,7 +109,7 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i m
 
 ### § 10. Ikrafttredelse
 
-Forskriften trer i kraft den tid departementet bestemmer.1 Samtidig oppheves [forskrift 22. desember 2005 nr. 1722](forskrift/2005-12-22-1722) om gjennomføring av forordning [(EF) nr. 37/2005](eu/32005r0037) av 12. januar 2005 om måling av temperatur ved lagring, transport m.v. av dypfryste næringsmidler.
+Forskriften trer i kraft den tid departementet bestemmer.[^1] Samtidig oppheves [forskrift 22. desember 2005 nr. 1722](forskrift/2005-12-22-1722) om gjennomføring av forordning [(EF) nr. 37/2005](eu/32005r0037) av 12. januar 2005 om måling av temperatur ved lagring, transport m.v. av dypfryste næringsmidler.
 
 1 I kraft 1 mars 2010 jf. [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316).
 
