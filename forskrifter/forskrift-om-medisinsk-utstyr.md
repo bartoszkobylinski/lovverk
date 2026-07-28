@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2021-05-26"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-07-11"
 last_updated: "2022-06-16"
-xml_hash: "915fba9eb70418d7ea98ffb05ebb4f91e815a5fca7d0e462a614d9aae8b99a2e"
+xml_hash: "8512424ea859ec56c1ef3c48fc4a522f9a11ae43acfc997d07364418b8b15614"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-28T06:24:19.283231+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,13 +71,13 @@ Forordning [(EU) 2021/2226](eu/32021r2226) om elektroniske bruksanvisninger for 
 
 ### § 1f. EU-referanselaboratorier
 
-[EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XXX nr. 12b (forordning [(EU) 2022/944](eu/32022r0944)) som fastsetter bestemmelser for anvendelse av europaparlaments- og rådsforordning [(EU) 2017/746](eu/32017r0746) med hensyn til oppgaver og kriterier for EU-referanselaboratorier på området in vitro-diagnostisk medisinsk utstyr gjelder som forskrift med de tilpasninger som følger av [vedlegg II](eu/32017r0746/vedleggII), protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2022/944](eu/32022r0944) om oppgaver og kriterier for EU-referanselaboratorier på området in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-[EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2), kapittel XXX nr.12c (forordning [(EU) 2022/945](eu/32022r0945)) som fastsetter bestemmelser for anvendelse av europaparlaments- og rådsforordning [(EU) 2017/746](eu/32017r0746) med hensyn til avgifter som pålegges av EU-referanselaboratorier på området in vitro-diagnostisk medisinsk utstyr gjelder som forskrift med de tilpasninger som følger av [vedlegg II](eu/32017r0746/vedleggII), protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2022/945](eu/32022r0945) om avgifter som pålegges av EU-referanselaboratorier på området in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12c, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-[EØS-avtalens vedlegg II kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12d (forordning [(EU) 2023/2713](eu/32023r2713) av 5. desember 2023 om utpeking av EU-referanselaboratorier på området for in vitro-diagnostisk medisinsk utstyr) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2023/2713](eu/32023r2713) om utpeking av EU-referanselaboratorier på området for in vitro diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12d, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning [(EU) 2025/2526](eu/32025r2526).
 
-> Tilføyd ved forskrift [12 mars 2023 nr. 352](forskrift/2023-03-12-352) (i kraft 18 mars 2023), endret ved forskrifter [12 aug 2024 nr. 1957](forskrift/2024-08-12-1957), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1e).
+> Tilføyd ved forskrift [12 mars 2023 nr. 352](forskrift/2023-03-12-352) (i kraft 18 mars 2023), endret ved forskrifter [12 aug 2024 nr. 1957](forskrift/2024-08-12-1957), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1e), [3 juli 2026 nr. 1579](forskrift/2026-07-03-1579) (i kraft 11 juli 2026).
 
 ### § 1g. Felles spesifikasjoner og omklassifisering av produkter uten tiltenkt medisinsk formål
 
