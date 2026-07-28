@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-09-16"
-last_change_in_force: "2026-06-06"
+last_change_in_force: "2026-07-11"
 last_updated: "2025-01-02"
-xml_hash: "0db5acf29e2c53adb39d38c7dc3b0920919ea329cad8cd2ee8cbd6341b678e97"
+xml_hash: "23c4d71e8bfa07a2585f4dd88e3b277043225a25ef3bd98f5d996a39d32787f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T14:44:44.915821+00:00"
+retrieved_at: "2026-07-28T06:24:19.283231+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,13 +40,14 @@ Forordning om legemidler til dyr, jf. [legemiddelloven § 2b](lov/1992-12-04-132
 
 ### § 1-3. Endringer som ikke krever forhåndsvurdering
 
-Forordning [(EU) 2021/17](eu/32021r0017) om opprettelse av liste over endringer som ikke krever vurdering i samsvar med forordning [(EU) 2019/6](eu/32019r0006), som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+Forordning [(EU) 2021/17](eu/32021r0017) om opprettelse av liste over endringer som ikke krever vurdering i samsvar med forordning [(EU) 2019/6](eu/32019r0006), som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
 
 - forordning [(EU) 2023/997](eu/32023r0997)
 - forordning [(EU) 2024/916](eu/32024r0916)
 - forordning [(EU) 2025/163](eu/32025r0163)
+- forordning [(EU) 2026/758](eu/32026r0758)
 
-> Endret ved forskrifter [30 april 2024 nr. 714](forskrift/2024-04-30-714), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1-2), [21 jan 2025 nr. 53](forskrift/2025-01-21-53), [27 april 2026 nr. 712](forskrift/2026-04-27-712) (i kraft 1 mai 2026).
+> Endret ved forskrifter [30 april 2024 nr. 714](forskrift/2024-04-30-714), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1-2), [21 jan 2025 nr. 53](forskrift/2025-01-21-53), [27 april 2026 nr. 712](forskrift/2026-04-27-712) (i kraft 1 mai 2026), [3 juli 2026 nr. 1578](forskrift/2026-07-03-1578) (i kraft 11 juli 2026).
 
 ### § 1-4. Innsamling av opplysninger om salgsvolum for og bruk av antimikrobielle legemidler på dyr.
 
