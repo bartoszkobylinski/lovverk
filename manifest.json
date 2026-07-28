@@ -2,7 +2,7 @@
   "documents": {
     "nl-16870415-000": {
       "doc_type": "lov",
-      "embedding_hash": "f0091c85fe047bb33c76b3d993013917c2dce7a707d2a99c2402d2917d1578ab",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -306,7 +306,7 @@
     },
     "nl-19160630-001": {
       "doc_type": "lov",
-      "embedding_hash": "07a9b11eaf09b1535e9ff25ea53ed563e07beddeec5e093518760723b1e99b5e",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": "2026-06-20",
       "last_seen": "2026-06-20T07:47:39.444689Z",
@@ -580,7 +580,7 @@
     },
     "nl-19290524-004": {
       "doc_type": "lov",
-      "embedding_hash": "dfe299d5b9f484550d69cb3410b92fcf5008267db37d8e23b8dfbd34478e1982",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -788,7 +788,7 @@
     },
     "nl-19320617-006": {
       "doc_type": "lov",
-      "embedding_hash": "9583e0de54c78b8bb4272cf0fbeb5957f56dae7103552a7677dc0f667602ea09",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -852,7 +852,7 @@
     },
     "nl-19341119-000": {
       "doc_type": "lov",
-      "embedding_hash": "3896e23c83c89fa838d5071f3aa9aeaff199b67e92acdc45518d19ec6805929b",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -15569,7 +15569,7 @@
     },
     "sf-19740315-4092": {
       "doc_type": "forskrift",
-      "embedding_hash": "42a353f381402b1df4ca6ebd1386400dd080f72109c410bbce1bbcebdf3ccc32",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -17793,7 +17793,7 @@
     },
     "sf-19820226-3791": {
       "doc_type": "forskrift",
-      "embedding_hash": "13d858000c1b9e9f7611712af751a9776d078e9b1edc290dd12f81c63f130e9d",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -18929,7 +18929,7 @@
     },
     "sf-19841210-3584": {
       "doc_type": "forskrift",
-      "embedding_hash": "a17f2754850ec5ea986a3d4ca3aaf845f68dceaed975de135f8ac1312348a0b4",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": "2026-06-30",
       "last_seen": "2026-06-30T07:51:25.240716Z",
@@ -21969,7 +21969,7 @@
     },
     "sf-19900608-4151": {
       "doc_type": "forskrift",
-      "embedding_hash": "00ea449f73e1d3dba6dd479c208e61ae8c80e650e2fc42a6979d5650544f8f2f",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": "2026-06-30",
       "last_seen": "2026-06-30T07:51:25.240716Z",
@@ -24193,7 +24193,7 @@
     },
     "sf-19930430-0316": {
       "doc_type": "forskrift",
-      "embedding_hash": "31f79392adb87da91c111e8893f8322c5ed1a96e8ded0398f072f2b3c0b3ea25",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -29073,7 +29073,7 @@
     },
     "sf-19971217-1400": {
       "doc_type": "forskrift",
-      "embedding_hash": "40eddadbf7fe3619ffec1f8392da1a771c16afb6363ace624be556680eddd6f3",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -35345,7 +35345,7 @@
     },
     "sf-20020628-0651": {
       "doc_type": "forskrift",
-      "embedding_hash": "c5a26485af9bf5a667eb5fe8a4674df6a983468958d9dfe7581b159210bb5dbe",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -35697,7 +35697,7 @@
     },
     "sf-20021018-1133": {
       "doc_type": "forskrift",
-      "embedding_hash": "2ad74d188bde14d13319f4d97e9962a709490b03b9ff169d0f7ace8b0560855e",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -35729,7 +35729,7 @@
     },
     "sf-20021018-1165": {
       "doc_type": "forskrift",
-      "embedding_hash": "341451e8b563f7db66529261f9bf8e525039b4919b7b110b262338975ff11d67",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -38385,7 +38385,7 @@
     },
     "sf-20031211-1501": {
       "doc_type": "forskrift",
-      "embedding_hash": "41ba0a078e3b68e145734d5c722eb12c242db6ff49a2fdf5f16bc7e09a0be167",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -39105,7 +39105,7 @@
     },
     "sf-20040217-0408": {
       "doc_type": "forskrift",
-      "embedding_hash": "707167f6967183683b3fe77c1aba67da3161b6201b72f685178c0584c9de45b5",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -41329,7 +41329,7 @@
     },
     "sf-20050701-0749": {
       "doc_type": "forskrift",
-      "embedding_hash": "d5e2f53ebfe33a07676a1df6cd22e49a06612c57dc46ee7aeaad7064988e3ff7",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -44465,7 +44465,7 @@
     },
     "sf-20070316-0277": {
       "doc_type": "forskrift",
-      "embedding_hash": "3c371a409885da9ac6da833c818653e83dd2a21b79cdfc44f55f16225fa478ab",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -47969,7 +47969,7 @@
     },
     "sf-20090327-0357": {
       "doc_type": "forskrift",
-      "embedding_hash": "fc7a40e22f7ef42af5aad4bfc5c24cfe18c6ea0effa720ede487c7e4236d9565",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -48369,7 +48369,7 @@
     },
     "sf-20090615-0669": {
       "doc_type": "forskrift",
-      "embedding_hash": "8d3cd31b8113b5abd7578c681ebb21c645ff9b55a4b68914ed73b9f439429060",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -48929,7 +48929,7 @@
     },
     "sf-20090909-1169": {
       "doc_type": "forskrift",
-      "embedding_hash": "15a453b10563d90f10e8cc9cc6a09912197d15c4748e65861ba83149bba287db",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -49521,7 +49521,7 @@
     },
     "sf-20091218-1641": {
       "doc_type": "forskrift",
-      "embedding_hash": "304c5922c0a3eb61e8cf94b6f13363392354e83232591335fdcef5285c38f6ce",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -55425,7 +55425,7 @@
     },
     "sf-20130204-0206": {
       "doc_type": "forskrift",
-      "embedding_hash": "74f8938eeb8ae5fe96014cc165b1a8c13362ea154fd415fe85d93a6bdcf3df89",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -65137,7 +65137,7 @@
     },
     "sf-20170511-0597": {
       "doc_type": "forskrift",
-      "embedding_hash": "7ae544197b71c1cce726589bfa8c8c0c692e3acada3d89ed43c6be82f6afcdcb",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -71873,7 +71873,7 @@
     },
     "sf-20200214-0139": {
       "doc_type": "forskrift",
-      "embedding_hash": "f3cf248c409a1af724ac3c9354c5adcd5c6d135c7e08e3281c54841a41f53c6d",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": "2026-06-30",
       "last_seen": "2026-06-30T07:51:25.240716Z",
@@ -76049,7 +76049,7 @@
     },
     "sf-20210531-1825": {
       "doc_type": "forskrift",
-      "embedding_hash": "63199e69345ee7fea7b3dfae40bd6ca5a87b9f98e9f94f3a8286bf178b0c58b5",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
@@ -95200,6 +95200,6 @@
       "xml_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d"
     }
   },
-  "generated_at": "2026-07-28T06:24:19.283231Z",
+  "generated_at": "2026-07-28T16:53:35.723717Z",
   "version": 1
 }
