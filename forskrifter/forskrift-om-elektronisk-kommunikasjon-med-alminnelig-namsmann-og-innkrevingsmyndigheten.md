@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-03-19"
+last_change_in_force: "2026-07-22"
 last_updated: null
-xml_hash: "8550fd490e5a74ec0528494244f42c6c56c29e9755769cb7dc9a78c4fd44ccdb"
+xml_hash: "a3e714e64a634e6b3770856281f9adb21b003a96258809cf8bca252a1b254e16"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-28T06:24:19.283231+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,10 +120,10 @@ For arkivering av elektroniske signaturer gjelder [forskrift 25. juni 2004 nr. 9
 
 ### § 16. Ikrafttredelse og overgangsbestemmelser m.m.
 
-Forskriften trer i kraft 1. januar 2026, med unntak av [§ 4](forskrift/2025-07-09-1509/§4) som trer i kraft 1. september 2026.
+Forskriften trer i kraft 1. januar 2026, med unntak av [§ 4](forskrift/2025-07-09-1509/§4) som trer i kraft 1. januar 2027.
 
 Fra 1. januar 2026 oppheves [forskrift 21. desember 1992 nr. 1185 om bruk av skjemaer ved begjæring av tvangsforretninger](forskrift/1992-12-21-1185) og [forskrift 25. juni 2010 nr. 977 om elektronisk kommunikasjon med namsmannen og Statens innkrevingssentral i saker etter tvangsfullbyrdelsesloven og i saker for forliksrådet](forskrift/2010-06-25-977).
 
 For kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten i saker om utlegg gjelder forskriften bare for saker som blir behandlet etter nytt regelverk for utlegg, jf. [delegering 10. juni 2025 nr. 968 av Kongens myndighet etter innkrevingsloven § 40 andre og tredje ledd til Finansdepartementet](forskrift/2025-06-10-968). For saker som behandles etter tidligere regelverk for utlegg, gjelder tidligere bestemmelser om kommunikasjon.
 
-> Endret ved forskrift [19 mars 2026 nr. 441](forskrift/2026-03-19-441).
+> Endret ved forskrifter [19 mars 2026 nr. 441](forskrift/2026-03-19-441), [22 juli 2026 nr. 1580](forskrift/2026-07-22-1580).
