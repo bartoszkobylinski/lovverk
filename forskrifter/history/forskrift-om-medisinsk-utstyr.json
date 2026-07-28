@@ -2,6 +2,16 @@
   "doc_id": "sf-20210509-1476",
   "events": [
     {
+      "commit": "a6b5453",
+      "date": "2026-07-28",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-medisinsk-utstyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

@@ -2,6 +2,16 @@
   "doc_id": "sf-20250709-1509",
   "events": [
     {
+      "commit": "2918652",
+      "date": "2026-07-28",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-elektronisk-kommunikasjon-med-alminnelig-namsmann-og-innkrevingsmyndigheten",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

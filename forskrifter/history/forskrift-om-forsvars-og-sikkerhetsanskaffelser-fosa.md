@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa — Change history
 
-_5 events; doc_id `sf-20131004-1185`._
+_6 events; doc_id `sf-20131004-1185`._
+
+## 2026-07-28 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa`
+Commit: `f2d3764`.
 
 ## 2026-07-25 — Content updated
 Lines: +15 -15.

@@ -56849,10 +56849,10 @@
     },
     "sf-20131004-1185": {
       "doc_type": "forskrift",
-      "embedding_hash": "b472f5569f9ca63875b80eaf5f8edba22f68661b954c7425c53a7b09f5c20bbe",
+      "embedding_hash": "6663e5424993f60d2dd4cac11b5883aec76bbcacef56bb04f6bf10045ad801a9",
       "eu_basis": [],
-      "last_changed": "2026-07-25",
-      "last_seen": "2026-07-27T19:02:17.427238Z",
+      "last_changed": "2026-07-28",
+      "last_seen": "2026-07-28T06:24:19.283231Z",
       "markdown_path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
       "removed_reason": null,
       "renderer_version": 4,
@@ -56860,8 +56860,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forsvars- og sikkerhetsanskaffelser",
-      "total_changes": 5,
-      "xml_hash": "b472f5569f9ca63875b80eaf5f8edba22f68661b954c7425c53a7b09f5c20bbe"
+      "total_changes": 6,
+      "xml_hash": "6663e5424993f60d2dd4cac11b5883aec76bbcacef56bb04f6bf10045ad801a9"
     },
     "sf-20131004-1186": {
       "doc_type": "forskrift",
@@ -75857,10 +75857,10 @@
     },
     "sf-20210509-1476": {
       "doc_type": "forskrift",
-      "embedding_hash": "915fba9eb70418d7ea98ffb05ebb4f91e815a5fca7d0e462a614d9aae8b99a2e",
+      "embedding_hash": "8512424ea859ec56c1ef3c48fc4a522f9a11ae43acfc997d07364418b8b15614",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-27T19:02:17.427238Z",
+      "last_changed": "2026-07-28",
+      "last_seen": "2026-07-28T06:24:19.283231Z",
       "markdown_path": "forskrifter/forskrift-om-medisinsk-utstyr.md",
       "removed_reason": null,
       "renderer_version": 4,
@@ -75868,8 +75868,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om medisinsk utstyr",
-      "total_changes": 6,
-      "xml_hash": "915fba9eb70418d7ea98ffb05ebb4f91e815a5fca7d0e462a614d9aae8b99a2e"
+      "total_changes": 7,
+      "xml_hash": "8512424ea859ec56c1ef3c48fc4a522f9a11ae43acfc997d07364418b8b15614"
     },
     "sf-20210511-1456": {
       "doc_type": "forskrift",
@@ -79585,10 +79585,10 @@
     },
     "sf-20220611-1171": {
       "doc_type": "forskrift",
-      "embedding_hash": "52646624966a4008f81342f51b954b5871ea616f2dd625dfe736d4bdb3c11270",
+      "embedding_hash": "bf3d09b76b8fa8a4b6404d42b940f5094d513f227d8a420bc7640ab0bc84c1a7",
       "eu_basis": [],
-      "last_changed": "2026-07-24",
-      "last_seen": "2026-07-27T19:02:17.427238Z",
+      "last_changed": "2026-07-28",
+      "last_seen": "2026-07-28T06:24:19.283231Z",
       "markdown_path": "forskrifter/økologiforskriften.md",
       "removed_reason": null,
       "renderer_version": 4,
@@ -79596,8 +79596,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)",
-      "total_changes": 8,
-      "xml_hash": "52646624966a4008f81342f51b954b5871ea616f2dd625dfe736d4bdb3c11270"
+      "total_changes": 9,
+      "xml_hash": "bf3d09b76b8fa8a4b6404d42b940f5094d513f227d8a420bc7640ab0bc84c1a7"
     },
     "sf-20220613-1005": {
       "doc_type": "forskrift",
@@ -80289,10 +80289,10 @@
     },
     "sf-20220908-1573": {
       "doc_type": "forskrift",
-      "embedding_hash": "0db5acf29e2c53adb39d38c7dc3b0920919ea329cad8cd2ee8cbd6341b678e97",
+      "embedding_hash": "23c4d71e8bfa07a2585f4dd88e3b277043225a25ef3bd98f5d996a39d32787f2",
       "eu_basis": [],
-      "last_changed": "2026-06-11",
-      "last_seen": "2026-07-27T19:02:17.427238Z",
+      "last_changed": "2026-07-28",
+      "last_seen": "2026-07-28T06:24:19.283231Z",
       "markdown_path": "forskrifter/forskrift-om-legemidler-til-dyr.md",
       "removed_reason": null,
       "renderer_version": 4,
@@ -80300,8 +80300,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om legemidler til dyr",
-      "total_changes": 5,
-      "xml_hash": "0db5acf29e2c53adb39d38c7dc3b0920919ea329cad8cd2ee8cbd6341b678e97"
+      "total_changes": 6,
+      "xml_hash": "23c4d71e8bfa07a2585f4dd88e3b277043225a25ef3bd98f5d996a39d32787f2"
     },
     "sf-20220909-1552": {
       "doc_type": "forskrift",
@@ -89489,10 +89489,10 @@
     },
     "sf-20250709-1509": {
       "doc_type": "forskrift",
-      "embedding_hash": "8550fd490e5a74ec0528494244f42c6c56c29e9755769cb7dc9a78c4fd44ccdb",
+      "embedding_hash": "a3e714e64a634e6b3770856281f9adb21b003a96258809cf8bca252a1b254e16",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-27T19:02:17.427238Z",
+      "last_changed": "2026-07-28",
+      "last_seen": "2026-07-28T06:24:19.283231Z",
       "markdown_path": "forskrifter/forskrift-om-elektronisk-kommunikasjon-med-alminnelig-namsmann-og-innkrevingsmyndigheten.md",
       "removed_reason": null,
       "renderer_version": 4,
@@ -89500,8 +89500,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om elektronisk kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten",
-      "total_changes": 3,
-      "xml_hash": "8550fd490e5a74ec0528494244f42c6c56c29e9755769cb7dc9a78c4fd44ccdb"
+      "total_changes": 4,
+      "xml_hash": "a3e714e64a634e6b3770856281f9adb21b003a96258809cf8bca252a1b254e16"
     },
     "sf-20250709-1510": {
       "doc_type": "forskrift",
@@ -95200,6 +95200,6 @@
       "xml_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d"
     }
   },
-  "generated_at": "2026-07-27T19:02:17.427238Z",
+  "generated_at": "2026-07-28T06:24:19.283231Z",
   "version": 1
 }

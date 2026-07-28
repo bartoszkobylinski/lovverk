@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-elektronisk-kommunikasjon-med-alminnelig-namsmann-og-innkrevingsmyndigheten — Change history
 
-_3 events; doc_id `sf-20250709-1509`._
+_4 events; doc_id `sf-20250709-1509`._
+
+## 2026-07-28 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-elektronisk-kommunikasjon-med-alminnelig-namsmann-og-innkrevingsmyndigheten`
+Commit: `2918652`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

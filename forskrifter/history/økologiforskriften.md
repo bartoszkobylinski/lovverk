@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # økologiforskriften — Change history
 
-_8 events; doc_id `sf-20220611-1171`._
+_9 events; doc_id `sf-20220611-1171`._
+
+## 2026-07-28 — Content updated
+Lines: +12 -11.
+Subject: `update(forskrift): økologiforskriften`
+Commit: `0d96879`.
 
 ## 2026-07-24 — Content updated
 Lines: +13 -10.
