@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1989-10-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2021-08-24"
-xml_hash: "5c5a903bec88ba4ace7ab8d039ac477ff5f16db1efcfe6d6ed399bd192ff3a96"
+xml_hash: "15742d759dae5c8e49f91c17ccf86ae77e32d9bdb3d9bd164f0aa21973e4ab80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -309,17 +309,15 @@ Kongen gir nærmere forskrift om sikkerhetsstillelsen.
 
 ### § 30. Bevillings- og tilsynsmyndighet
 
-Tilsyn med inkassovirksomhet som drives i medhold av en inkassobevilling etter [§ 5](lov/1988-05-13-26/§5), føres av Finanstilsynet etter finanstilsynsloven.
+Tilsyn med inkassovirksomhet som drives i medhold av en inkassobevilling etter [§ 5](lov/1988-05-13-26/§5), føres av Finanstilsynet etter [finanstilsynsloven](lov/2024-06-21-41).
 
 Finanstilsynet tildeler og inndrar inkassobevillinger, jf. [§§ 5](lov/1988-05-13-26/§5) og [31](lov/1988-05-13-26/§31).
 
-Finanstilsynet kan gi inkassatorer som driver inkassovirksomhet i medhold av bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om å endre praksis som medfører fare for overtredelser av loven her eller av lov om Finanstilsynet.[^1] Finanstilsynet kan gi en eier med betydelig eierandel i foretak som har bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om retting dersom han ikke er egnet etter [§ 5](lov/1988-05-13-26/§5).
+Finanstilsynet kan gi inkassatorer som driver inkassovirksomhet i medhold av bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om å endre praksis som medfører fare for overtredelser av loven her eller av [lov om Finanstilsynet](lov/2024-06-21-41). Finanstilsynet kan gi en eier med betydelig eierandel i foretak som har bevilling etter [§ 5](lov/1988-05-13-26/§5), pålegg om retting dersom han ikke er egnet etter [§ 5](lov/1988-05-13-26/§5).
 
 Finanstilsynet kan nedlegge forbud mot inkassovirksomheten dersom ett eller flere av vilkårene i [§ 4](lov/1988-05-13-26/§4) og [§ 5](lov/1988-05-13-26/§5) første, tredje og fjerde ledd ikke er oppfylt for inkassovirksomhet som drives i medhold av inkassobevilling etter [§ 5](lov/1988-05-13-26/§5). Finanstilsynet kan i stedet gi inkassatoren en frist for å oppfylle vilkårene.
 
 > Endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [20 des 2002 nr. 106](lov/2002-12-20-106) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1616](forskrift/2002-12-20-1616)), tidligere § 24, [17 juni 2005 nr. 83](lov/2005-06-17-83) (ikr. 1 jan 2006 iflg. [res. 17. juni 2005 nr. 624](forskrift/2005-06-17-624)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)).
-
-1 Inkurie: Loven heter [lov om tilsynet med finansforetak mv. (finanstilsynsloven)](lov/1956-12-07-1).
 
 ### § 30 a. Klagebehandling av vedtak etter loven
 
