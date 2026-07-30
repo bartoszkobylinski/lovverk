@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-07-01"
 last_change_in_force: null
 last_updated: "2023-06-15"
-xml_hash: "d329aa11aecfddc11df653972900394bfa46cd22e9cf97a2a627cf5dede2c2e8"
+xml_hash: "907509679a1da543e489afae213ff4157ba38c75217e6ca04e0cbd1fa49c1b40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -366,7 +366,7 @@ Utlevering av opplysninger etter første punktum kan bare skje i henhold til sty
 
 ### § 9-1. Tilsyn
 
-(1) Finanstilsynet fører tilsyn med overholdelse av bestemmelsene i denne lov i samsvar med bestemmelsene i loven her og [finanstilsynsloven](lov/1956-12-07-1).
+(1) Finanstilsynet fører tilsyn med overholdelse av bestemmelsene i denne lov i samsvar med bestemmelsene i loven her og [finanstilsynsloven](lov/2024-06-21-41).
 
 (2) Finanstilsynet kan i forskrift gi nærmere regler om rapportering for låneformidlingsforetak.
 
