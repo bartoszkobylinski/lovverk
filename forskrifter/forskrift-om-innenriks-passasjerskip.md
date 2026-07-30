@@ -15,7 +15,7 @@ xml_hash: "a1a700220b320a2c56c623924cea1a3159509b4d58d899e635a93aff02ca07f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -319,9 +319,11 @@ Denne forskriften trer i kraft 1. mai 2000.
 > Vedlegg I endret ved [forskrifter 14 feb 2012 nr. 236](forskrift/2012-02-14-236), [22 mai 2015 nr. 652](forskrift/2015-05-22-652), [28 juni 2017 nr. 1146](forskrift/2017-06-28-1146) (i kraft 1 juli 2017), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### AVSNITT 1
+
 SIKKERHETSKRAV FOR NYE OG EKSISTERENDE PASSASJERSKIP I INNENRIKS HVIS KJØL BLE STRUKKET, ELLER SOM VAR PÅ ET TILSVARENDE BYGGETRINN, FØR 19. SEPTEMBER 2021
 
 ### KAPITTEL I
+
 ALMINNELIGE BESTEMMELSER
 
 1\.
@@ -370,9 +372,11 @@ Bestemmelser som får anvendelse på RORO-PASSASJERSKIP I KLASSE A:
 - kapittel II-1/B-2, regel II-1/B-2/17-2 og II-1/B-2/20.
 
 ### KAPITTEL II-1
+
 BYGGING – OPPDELING OG STABILITET, MASKINERI OG ELEKTRISKE INSTALLASJONER
 
 ### DEL A
+
 GENERELLE BESTEMMELSER
 
 ### 1. Regel II-1/A/1: Definisjoner til del B (R 2)
@@ -518,6 +522,7 @@ Kraftoverføringsinnretning er det hydrauliske utstyret som skal forsyne kraft t
 Kontrollstasjoner er de rommene der skipets radio eller hovednavigasjonsutstyr eller elektrisk nødkraftkilde er plassert, eller der brannregistrerings- eller brannkontrollutstyret er samlet.
 
 ### DEL A-1
+
 SKIPSKONSTRUKSJON
 
 ### 1. Regel II-1/A-1/1: Ny installering av materialer som inneholder asbest (R 3-5)
@@ -594,6 +599,7 @@ Prosedyren (se retningslinjene for eiere/operatører for utarbeiding av nødslep
 4. eksempler på prosedyrer for å gjøre det lettere å forberede og utføre nødsleping.
 
 ### DEL B
+
 INTAKTSTABILITET, OPPDELING OG SKADESTABILITET
 
 ### Del B-1
@@ -1575,6 +1581,7 @@ På utvendige dekk som passasjerer har adgang til, og der det ikke er noen skans
 Det skal likedan sørges for rekkverk av tilsvarende konstruksjon på trapper og avsatser på slike utvendige dekk.
 
 ### DEL C
+
 MASKINERI
 
 ### 1. Regel II-1/C/1: Generelle bestemmelser (R 26)
@@ -2051,6 +2058,7 @@ Etter godkjenning utsteder flaggstatens myndighet et sertifikat som skal oppbeva
 Flaggstatens myndighet kan tillate at periodiske kontroller utføres av en sakkyndig godkjent av myndigheten, eller av en anerkjent organisasjon.
 
 ### DEL D
+
 ELEKTRISKE INSTALLASJONER
 
 ### 1. Regel II-1/D/1: Generelle bestemmelser (R 40)
@@ -2255,6 +2263,7 @@ Det skal ikke installeres noe elektrisk utstyr i noe rom der det kan samle seg b
 4. behørig sertifisert for sikker bruk i slikt støv eller slik damp eller gass som forventes å forekomme.
 
 ### DEL E
+
 TILLEGGSKRAV TIL SKIP BYGGET MED PERIODISK UBEMANNEDE MASKINROM
 
 ### Særskilt vurdering (R 54)
@@ -2430,6 +2439,7 @@ Det skal innrettes en sentral kontrollplass med de nødvendige alarmtavler og in
 Der forbrenningsmotorer som er avgjørende for hovedframdrift startes med trykkluft, skal det finnes midler til å holde startlufttrykket på det nivået som kreves.
 
 ### DEL G:
+
 SKIP SOM BRUKER DRIVSTOFF MED LAVT FLAMMEPUNKT
 
 ### 1. Regel II-1/G/1: Krav til skip som bruker drivstoff med lavt flammepunkt (R 57)
@@ -2439,9 +2449,11 @@ NYE SKIP I KLASSE B, C OG D [SAMT EKSISTERENDE SKIP I KLASSE B]:
 Skip, uansett byggedato, som er bygget om til å bruke eller påtar seg å bruke gassformig eller flytende drivstoff med et flammepunkt som er lavere enn ellers tillatt i henhold til regel II-2/A/10 nr. .1.1, skal oppfylle kravene i IGF-regelverket som definert i SOLAS II-1/2.28.
 
 ### KAPITTEL II-2
+
 BRANNVERN, BRANNDETEKSJON OG BRANNSLOKKING
 
 ### DEL A
+
 GENERELLE BESTEMMELSER
 
 ### 1. Regel II-2/A/1: Grunnleggende prinsipper (R 2)
@@ -3645,6 +3657,7 @@ Driftshåndboken for brannvern skal være skrevet på skipets arbeidsspråk.
 Driftshåndboken for brannvern kan kombineres med opplæringshåndbøkene som kreves etter regel II-2/A/15 nr. .3.
 
 ### DEL B
+
 BRANNSIKRINGSTILTAK
 
 ### 1. Regel II-2/B/1: Konstruksjon (R 23)
@@ -5008,6 +5021,7 @@ SKIP I KLASSE B, C OG D BYGD 1. JANUAR 2003 ELLER SENERE:
 Skip utstyrt med helikopterdekk skal være i samsvar med kravene i SOLAS-kapittel II-2 del G regel 18, som revidert 1. januar 2003.
 
 ### KAPITTEL III
+
 REDNINGSREDSKAPER
 
 ### 1. Regel III/1: Definisjoner (R 3)
@@ -5643,6 +5657,7 @@ NYE OG EKSISTERENDE SKIP I KLASSE B, C OG D:
 Datoen for gjennomføring av mønstringer, nærmere opplysninger om båtøvelser og brannøvelser, øvelser i entring av og redning fra innelukkede rom, øvelser med andre redningsredskaper og opplæring om bord skal registreres i en dagbok, eventuelt slik det fastsettes av flaggstatens myndighet. Dersom full mønstring, øvelse eller opplæring ikke er gjennomført på fastsatt tidspunkt, skal en redegjørelse for omstendighetene ved og omfanget av den gjennomførte mønstringen, øvelsen eller opplæringen, noteres i dagboken.
 
 ### KAPITTEL IV
+
 RADIOKOMMUNIKASJON
 
 ### 1. Regel IV/1: Radiokommunikasjonsutstyr
@@ -5661,9 +5676,11 @@ Skip i klasse D skal minst være utstyrt med følgende:
 - Det vises til regel IV/7.1.1 og IV/8.2 i SOLAS-konvensjonen av 1974.
 
 ### AVSNITT 2
+
 SIKKERHETSKRAV FOR NYE PASSASJERSKIP I INNENRIKSFART HVIS KJØL BLE STRUKKET ELLER SOM VAR PÅ ET TILSVARENDE BYGGETRINN 19. SEPTEMBER 2021 ELLER SENERE
 
 ### KAPITTEL I
+
 ALMINNELIGE BESTEMMELSER
 
 1\.
@@ -5694,9 +5711,11 @@ Benevnelsen « (R ...)», som står etter overskriftene på regler i kapittel II
 Nummereringen av og overskriftene på regler i kapittel II-1 og II-2 er i tråd med SOLAS-konvensjonen av 1974. Hullene i nummereringen av regler og ledd er tilsiktet, ettersom bare de relevante reglene og leddene er tatt med.
 
 ### KAPITTEL II-1
+
 BYGGING – KONSTRUKSJON, OPPDELING OG STABILITET, MASKINERI OG ELEKTRISKE INSTALLASJONER
 
 ### DEL A
+
 GENERELLE BESTEMMELSER
 
 ### Regel II-1/A/3: Definisjoner til del A-1, C, D og E
@@ -5782,6 +5801,7 @@ Maskinrom av kategori A er rom og sjakter til slike rom som inneholder
 Kontrollstasjoner er de rommene der skipets radio eller hovednavigasjonsutstyr eller elektrisk nødkraftkilde er plassert, eller der brannregistrerings- eller brannkontrollutstyret er samlet.
 
 ### DEL A-1
+
 SKIPSKONSTRUKSJON
 
 ### Regel II-1/A-1/3-2: Beskyttende overflatebehandling av dedikerte sjøvannsballasttanker
@@ -5881,11 +5901,13 @@ Skip med bruttotonnasje 1 600 eller mer skal bygges på en måte som gir reduse
 For skip som ikke omfattes av foregående nummer, skal det treffes tiltak for å redusere maskinstøy til akseptable nivåer i maskinrom og, som definert i kapittel II-2, i roro-lasterom og spesiallasterom. Dersom denne støyen ikke kan reduseres tilstrekkelig, skal kilden til den kraftige støyen isoleres på passende måte, eller det skal finnes ly for støyen dersom det kreves at rommet er bemannet. Det skal finnes hørselsvern for personale som må gå inn i slike rom.
 
 ### DEL B
+
 INTAKTSTABILITET, OPPDELING OG SKADESTABILITET
 
 Skip skal anvende kravene i de relevante bestemmelsene i SOLAS kapittel II-1 del B til B-4, med endringer, med unntak av Regel 8-1.
 
 ### DEL C
+
 MASKINERI
 
 ### Regel II-1/C/26: Generelle bestemmelser
@@ -6261,6 +6283,7 @@ Det skal finnes maskinistalarm som betjenes enten fra maskinkontrollrommet eller
 Elektriske nødkraftkilder, brannpumper, lensepumper, unntatt slike som særlig betjener rom forenfor kollisjonsskottet, og fastmonterte brannslokkingsanlegg som kreves etter kapittel II-2, og andre nødinstallasjoner som er avgjørende for skipets sikkerhet, unntatt ankerspill, skal ikke installeres forenfor kollisjonsskottet.
 
 ### DEL D
+
 ELEKTRISKE INSTALLASJONER
 
 ### Regel II-1/D/40: Generelle bestemmelser
@@ -6476,6 +6499,7 @@ Det skal ikke installeres noe elektrisk utstyr i noe rom der det kan samle seg b
 Fordelingssystemer skal være slik innrettet at brann i en hvilken som helst vertikal hovedsone i henhold til regel II-2/A/3 nr. 32 ikke vil påvirke vesentlige sikkerhetsfunksjoner i noen annen slik sone. Dette kravet vil være oppfylt dersom hoved- og nødtilførselsledninger som føres gjennom en slik sone, er så godt atskilt både vertikalt og horisontalt som praktisk mulig.
 
 ### DEL E
+
 TILLEGGSKRAV TIL SKIP BYGGET MED PERIODISK UBEMANNEDE MASKINROM
 
 ### Regel II-1/E/46: Generelle bestemmelser
@@ -6622,6 +6646,7 @@ Der forbrenningsmotorer som er avgjørende for hovedframdrift startes med trykkl
 Skip skal vurderes særskilt av flaggstatens myndighet med hensyn til om deres maskinrom kan være periodevis ubemannet, og om det i så fall er nødvendig å stille krav i tillegg til det som er fastsatt i de relevante reglene, for å oppnå tilsvarende sikkerhet som for normalt bemannede maskinrom.
 
 ### DEL G:
+
 SKIP SOM BRUKER DRIVSTOFF MED LAVT FLAMMEPUNKT
 
 ### Regel II-1/G/57: Krav til skip som bruker drivstoff med lavt flammepunkt
@@ -6629,6 +6654,7 @@ SKIP SOM BRUKER DRIVSTOFF MED LAVT FLAMMEPUNKT
 Skip som bruker gassformig eller flytende brennstoff med et flammepunkt som er lavere enn ellers tillatt i henhold til regel II-2/4.2.1.1, skal oppfylle kravene i IGF-regelverket, som definert i SOLAS II-1/2.28.
 
 ### DEL Z
+
 SÆRLIGE KRAV I DIREKTIV 2009/45/EF
 
 ### Regel II-1/Z/100: Heisbare bilplattformer og -ramper
@@ -6664,9 +6690,11 @@ Etter godkjenning utsteder flaggstatens myndighet et sertifikat som skal oppbeva
 Flaggstatens myndighet kan tillate at periodiske kontroller utføres av en sakkyndig godkjent av myndigheten, eller av en anerkjent organisasjon.
 
 ### KAPITTEL II-2
+
 BRANNVERN, BRANNDETEKSJON OG BRANNSLOKKING
 
 ### DEL A
+
 GENERELLE BESTEMMELSER
 
 ### Regel II-2/A/1: Anvendelse
@@ -6929,6 +6957,7 @@ Røykspjeld betyr, med henblikk på gjennomføring av regel II-2/C/9 nr. 7, en i
 3. Fjernbetjent røykspjeld betyr et røykspjeld som lukkes av besetningen ved hjelp av en betjeningsinnretning plassert på avstand fra røykspjeldet som reguleres.
 
 ### DEL B
+
 FOREBYGGING AV BRANN OG EKSPLOSJON
 
 ### Regel II-2/B/4: Sannsynlighet for antenning
@@ -7277,6 +7306,7 @@ Underste dekkskledning skal, dersom det brukes i rom i innredningen, arbeidsrom 
 Underste dekkskledning på lugarbalkonger skal ikke forårsake fare for røyk, forgiftning eller eksplosjon ved høye temperaturer, som bestemt i samsvar med Regelverk for brannprøvingsmetoder.
 
 ### DEL C
+
 BRANNDEMPING
 
 ### Regel II-2/C/7: Deteksjon og alarm
@@ -8767,6 +8797,7 @@ Materialer i utstyr over bord
 Materialer som lett gjøres ubrukelige av varme, skal ikke brukes til overbordsspygatt, sanitæravløpsrør og andre utløp som er nær vannlinjen, og der svikt i materialet i tilfelle brann vil forårsake fare for innstrømming av vann.
 
 ### DEL D
+
 RØMNING
 
 ### Regel II-2/D/12: Varsling av besetning og passasjerer
@@ -9078,6 +9109,7 @@ Det skal være montert håndlister eller andre holdemidler i alle korridorer lan
 De nederste 0,5 m av skott og andre skillevegger som danner vertikale skiller langs rømningsveier, skal kunne tåle en belastning på 750 N/m for at det skal være mulig å gå på dem når skipet har stor krengingsvinkel.
 
 ### DEL E
+
 DRIFTSKRAV
 
 ### Regel II-2/E/14: Operativ beredskap og vedlikehold
@@ -9280,6 +9312,7 @@ Driftshåndboken for brannvern skal være skrevet på skipets arbeidsspråk.
 Driftshåndboken for brannvern kan kombineres med opplæringshåndbøkene som kreves etter regel II-2/E/15 nr. 2.3.
 
 ### DEL G:
+
 SÆRLIGE KRAV
 
 ### Regel II-2/G/18: Særlige krav til helikopteranlegg
@@ -9493,6 +9526,7 @@ I tillegg skal følgende brannslokkingsredskaper finnes i spesiallasterom og ror
 1 Dette rundskrivet bør også tas hensyn til for åpne roro-lasterom der det er relevant.
 
 ### KAPITTEL III
+
 REDNINGSREDSKAPER
 
 ### Regel III/1: Definisjoner (R 3)
@@ -10024,6 +10058,7 @@ Havarikontrolløvelser skal utføres i samsvar med kravene i SOLAS II-1/19-1 med
 Datoen for gjennomføring av mønstringer, nærmere opplysninger om båtøvelser og brannøvelser, øvelser i entring av og redning fra innelukkede rom, øvelser med andre redningsredskaper og opplæring om bord skal registreres i en dagbok, eventuelt slik det fastsettes av flaggstatens myndighet. Dersom full mønstring, øvelse eller opplæring ikke er gjennomført på fastsatt tidspunkt, skal en redegjørelse for omstendighetene ved og omfanget av den gjennomførte mønstringen, øvelsen eller opplæringen, noteres i dagboken.
 
 ### KAPITTEL IV
+
 RADIOKOMMUNIKASJON
 
 ### Regel IV/1: Radiokommunikasjonsutstyr

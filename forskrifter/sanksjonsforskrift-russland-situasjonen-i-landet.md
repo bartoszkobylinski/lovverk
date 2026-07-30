@@ -15,7 +15,7 @@ xml_hash: "1230f5ef1ec15c77c33fccb82ed2521ac45d6ba39893a716d5db6b1063c3d76b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -57,6 +57,7 @@ Forskriften trer i kraft straks.
 ## Vedlegg A
 
 ### RÅDSFORORDNING [(EU) 2024/1485](eu/32024r1485)
+
 av 27. mai 2024 om restriktive tiltak i lys av situasjonen i Russland
 
 > Endret ved [forskrift 31 mars 2025 nr. 632](forskrift/2025-03-31-632).
@@ -341,6 +342,7 @@ Denne forordningen trer i kraft den dag den kunngjøres i Den europeiske unions 
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Liste over varer som kan bli brukt til intern undertrykkelse som omtalt i artikkel 2
 
 1\.
@@ -384,6 +386,7 @@ Military knives, combat knives and bayonets with blade lengths in excess of 10 c
 Production equipment specially designed for the items listed in this Annex.
 
 ### Vedlegg II
+
 Liste over utstyr, teknologi og programvare omtalt i artikkel 3
 
 *General Note*
@@ -442,6 +445,7 @@ For the purpose of this Annex 'monitoring' means acquisition, extraction, decodi
 14. GTP stands for GPRS Tunnelling Protocol.
 
 ### Vedlegg III
+
 Nettsider med opplysninger om kompetente myndigheter og om adresser for å underrette kommisjonen
 
 - BELGIUM
@@ -509,6 +513,7 @@ Nettsider med opplysninger om kompetente myndigheter og om adresser for å under
   Email: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 ### Vedlegg IV
+
 Liste over fysiske og juridiske personer, enheter og organer som nevnt i artikkel 6
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en).

@@ -15,7 +15,7 @@ xml_hash: "cbbf16af3c5581a40f89a5e8f8a1b7062d30560160235e67b277e658e61fcff7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,6 +67,7 @@ som endret ved
 ►**M3** Forordning [(EU) 2025/127](eu/32025r0127) (rettelser i andre språkversjoner av forordning [(EU) 2021/808](eu/32021r0808), tatt inn i EØS-avtaleverket men gjennomføres ikke i norsk rett i forskrift.)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/808
+
 av 22. mars 2021
 om analysemetoders ytelse for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon og om tolking av resultater, samt om metodene som skal brukes til prøvetaking, og om oppheving av vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179)
 
@@ -280,6 +281,7 @@ Utferdiget i Brussel 22. mars 2021.
 ### VEDLEGG I
 
 ### KAPITTEL 1
+
 YTELSESKRITERIER OG ANDRE KRAV TIL ANALYSEMETODER
 
 1.1.**Krav til screeningmetoder**
@@ -479,6 +481,7 @@ Det nærmeste toppmaksimumet i kromatogrammet skal være atskilt fra analytt-top
 Dette gjelder bare for molekyler med naturlig fluorescens og for molekyler med fluorescens som skyldes enten omdanning eller derivatisering.
 
 ### KAPITTEL 2
+
 VALIDERING
 
 2.1.**Ytelsesegenskaper som skal bestemmes for analysemetoder**
@@ -829,6 +832,7 @@ MMS: matrisetilpasset standard
 Variasjonskoeffisienten skal ikke være større enn verdiene oppført i tabell 2 i dette vedlegget for MF (standard normalisert for IS). ◄**M2**.
 
 ### KAPITTEL 3
+
 KVALITETSKONTROLL UNDER RUTINEANALYSER – LØPENDE VERIFISERING AV METODENES YTELSE
 
 Kravene til sikring av kvaliteten på analyseresultatene i kapittel 7.7 i ISO/IEC 17025:2017[^43] skal være oppfylt.
@@ -867,6 +871,7 @@ Dersom det er praktisk mulig, skal riktigheten (på grunnlag av prøver med tils
 44 ►**M2** ISO/IEC 17043:2023 Samsvarsvurdering – Generelle krav til kvalifikasjonsprøving. ◄**M2**
 
 ### KAPITTEL 4
+
 UTVIDELSE AV DET VALIDERTE VIRKEOMRÅDET FOR EN TIDLIGERE VALIDERT METODE
 
 Noen ganger er det nødvendig å utvide virkeområdet for en tidligere fullstendig validert metode. I slike tilfeller bør virkeområdet utvides på en effektiv og analytisk forsvarlig måte. Dette kan oppnås ved å foreta en validering med et redusert antall prøver (f.eks. halvere antallet prøver) sammenlignet med en fullstendig validering.
@@ -898,6 +903,7 @@ Dersom resultatene ikke ligger innenfor et akseptabelt intervall sammenlignet me
 I tilfeller der øvre grenseverdier for restmengder for et bestemt stoff varierer for visse matriser, vil det være mest sannsynlig være vanskelig å tilpasse metodens virkeområde til den ytterligere matrisen/arten og konsentrasjonen, ettersom det i dette tilfellet må tas hensyn til to endringer. I slike tilfeller anbefales fullstendig validering.
 
 ### VEDLEGG II
+
 FRAMGANGSMÅTER FOR PRØVETAKING OG OFFISIELL BEHANDLING AV PRØVER
 
 1.**Prøvemengde**

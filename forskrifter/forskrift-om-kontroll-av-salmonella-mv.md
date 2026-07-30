@@ -16,7 +16,7 @@ xml_hash: "0445f2e32b20d84f2ae7e8b02669253bac6f945cd3f72a0d14c3c3ed9dd2cd0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,6 +102,7 @@ som endret ved:
 ► **EØS** Tilpasning som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 2160/2003](eu/32003r2160)
+
 av 17. november 2003
 om kontroll av salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler
 
@@ -196,6 +197,7 @@ ut fra følgende betraktninger:
 HAR VEDTATT DENNE FORORDNING: ]
 
 ### Kapittel I
+
 Innledende bestemmelser
 
 ### Artikkel 1. Formål og virkeområde
@@ -246,6 +248,7 @@ I denne forordning kommer følgende definisjoner til anvendelse:
 3. gjennomføre regelmessige kontroller i lokalene til næringsmiddelforetak og, om nødvendig, fôrforetak, for å kontrollere overholdelsen av denne forordning.
 
 ### Kapittel II
+
 Fellesskapsmål
 
 ### Artikkel 4. Fellesskapsmål for reduksjon av prevalensen av zoonoser og zoonotiske smittestoffer
@@ -307,6 +310,7 @@ Overgangsperioden skal gjelde for hvert fellesskapsmål for reduksjon av prevale
 9\. Tiltak som er truffet for å redusere prevalensen av zoonoser og zoonotiske smittestoffer oppført i vedlegg I, skal være gjennomført i samsvar med reglene fastsatt i denne forordning og alle regler som er innført etter den.
 
 ### Kapittel III
+
 Kontrollprogrammer
 
 ### Artikkel 5. Nasjonale kontrollprogrammer
@@ -367,6 +371,7 @@ For Kroatia, i de tilfeller der dato for innsendelse av det nasjonale kontrollpr
 5\. Driftsansvarlige for næringsmiddel- og fôrforetak eller organisasjonene som representerer dem, skal regelmessig formidle resultatene av sine kontrollprogrammer til de vedkommende myndigheter.
 
 ### Kapittel IV
+
 Kontrollmetoder
 
 ### Artikkel 8. Spesifikke kontrollmetoder
@@ -381,6 +386,7 @@ Kontrollmetoder
 2\. Bestemmelsene det vises i nr. 1 bokstav a), b) og c), får ikke anvendelse på metoder der det brukes substanser eller teknikker som dekkes av fellesskapslovgivning om fôrvarer, tilsetningsstoff i næringsmiddel eller veterinærpreparater.
 
 ### Kapittel V
+
 Handel
 
 ### Artikkel 9. Handel innenfor Fellesskapet
@@ -420,6 +426,7 @@ Disse særlige tiltakene skal omfatte tiltak som bygger på bestemmelsene i vedt
 6\. Oppføring eller opprettholdelse av en tredjestat på listene over tredjestater som er fastsatt i Fellesskapets regelverk for den relevante produktkategorien, og som medlemsstatene har tillatelse til å importere produkter omhandlet i denne forordning fra, skal være betinget av at den berørte tredjestaten framlegger garantier som tilsvarer dem som er fastsatt i denne forordning, for Kommisjonen.
 
 ### Kapittel VI
+
 Laboratorier
 
 ### Artikkel 11. Referanselaboratorier
@@ -448,6 +455,7 @@ Alternative metoder kan brukes dersom de er validert i henhold til internasjonal
 Når det er nødvendig, kan andre prøvemetoder godkjennes i samsvar med framgangsmåten det vises til i artikkel 14 nr. 2.
 
 ### Kapittel VII
+
 Gjennomføring
 
 ### Artikkel 13. Gjennomførings- og overgangstiltak
@@ -482,6 +490,7 @@ Kommisjonen skal rådføre seg med Den europeiske myndighet for næringsmiddeltr
 4\. Medlemsstatene skal, når de blir bedt om det, gi Kommisjonen all bistand som er nødvendig for at den skal kunne utarbeide rapporten.
 
 ### Kapittel VIII
+
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 17. Fellesskapskontroller
@@ -507,6 +516,7 @@ Utferdiget i Brussel, 17. november 2003.
 | *President* | *Formann* |
 
 ### Vedlegg I
+
 Spesifiserte zoonoser og zoonotiske smittestoffer som det skal opprettes fellesskapsmål for reduksjon av prevalens for i henhold til artikkel 4
 
 | 1. Zoonose eller zoonotisk smittestoff | 2. Dyrepopulasjon | 3. Trinn i næringskjeden | 4. Dato da målet må være opprettet[^\*] | 5. Dato som prøving må finne sted fra |
@@ -521,6 +531,7 @@ Spesifiserte zoonoser og zoonotiske smittestoffer som det skal opprettes felless
 \* Datoene er basert på antakelsen om at sammenlignbare data om prevalens er tilgjengelige minst seks måneder før opprettelsen av målet. Dersom slike data ikke er tilgjengelige, skal datoen for opprettelse av målet utsettes tilsvarende.
 
 ### Vedlegg II
+
 Kontroll av zoonoser og zoonotiske smittestoffer som er oppført i vedlegg I
 
 ### A. Generelle krav for nasjonale kontrollprogrammer
@@ -653,6 +664,7 @@ Programmet må ta i betraktning den aktuelle zoonosens og/eller det zoonotiske s
 \* ► **M7** EUT L 338 av 22.12.2005, s. 1. ◄ **M7**
 
 ### Vedlegg III
+
 Særlige kriterier for bestemmelse av salmonellaserotyper av betydning for folkehelsen
 
 Ved bestemmelse av hvilke salmonellaserotyper av betydning for folkehelsen som fellesskapsmålene skal gjelde for, må følgende kriterier tas i betraktning:
@@ -669,6 +681,7 @@ Uoffisiell versjon.
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 7.2 nr. 29 (forordning [(EF) nr. 1177/2006](eu/32006r1177)) med endringer og tillegg som følger av EØS-tilpasningen av rettsaktene i vedlegg I til EØS-avtalen.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1177/2006](eu/32006r1177)
+
 av 1. august 2006
 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) med hensyn til krav til anvendelsen av særlige kontrollmetoder innenfor rammen av nasjonale programmer for bekjempelse av salmonella i fjørfe
 
@@ -776,6 +789,7 @@ som endret ved
 ► **M2** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 200/2010](eu/32010r0200)
+
 av 10. mars 2010
 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) med hensyn til et unionsmål for reduksjon av prevalensen av salmonellaserotyper i flokker av voksent avlsfjørfe av arten *Gallus gallus*
 
@@ -849,6 +863,7 @@ Utferdiget i Brussel, 10. mars 2010.
 |  | *President* |
 
 ### Vedlegg
+
 Prøveprogram som er nødvendig for å kontrollere at unionsmålet for reduksjon av de relevante salmonellaserotypene i flokker av voksent avlsfjørfe av arten *Gallus gallus* er oppnådd
 
 1.*Utvalgsgrunnlag*
@@ -1087,6 +1102,7 @@ som endret ved:
 ►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 517/2011](eu/32011r0517*)
+
 av 25. mai 2011
 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) med hensyn til et unionsmål for reduksjon av prevalensen av visse salmonellaserotyper hos verpehøner av arten *Gallus gallus* og om endring av forordning [(EF) nr. 2160/2003](eu/32003r2160) og kommisjonsforordning [(EU) nr. 200/2010](eu/32010r0200)
 
@@ -1191,6 +1207,7 @@ Utferdiget i Brussel, 25. mai 2011.
 |  | *President* |
 
 ### Vedlegg
+
 Prøveprogrammet som er nødvendig for å kontrollere om unionsmålet er oppnådd når det gjelder å redusere forekomsten av *Salmonella enteritidis* og *Salmonella typhimurium* hos voksne verpehøner av arten *Gallus gallus*, som nevnt i artikkel 1 nr. 2
 
 1\.
@@ -1357,6 +1374,7 @@ som endret ved:
 ►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 200/2012](eu/32012r0200*)
+
 av 8. mars 2012
 om et unionsmål for reduksjon av *Salmonella enteritidis* og *Salmonella typhimurium* i flokker av broilere, som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160)
 
@@ -1431,6 +1449,7 @@ Utferdiget i Brussel, 8. mars 2012.
 |  | *President* |
 
 ### Vedlegg
+
 Prøveprogrammet som er nødvendig for å kontrollere om unionsmålet er nådd, som nevnt i artikkel 1 nr. 2
 
 1.*Utvalgsgrunnlag*
@@ -1594,6 +1613,7 @@ som endret ved:
 ►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1190/2012](eu/32012r1190*)
+
 av 12. desember 2012
 om et unionsmål for reduksjon av *Salmonella Enteritidis* og *Salmonella Typhimurium* i kalkunflokker, som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160)
 
@@ -1674,6 +1694,7 @@ Utferdiget i Brussel, 12. desember 2012.
 |  | *President* |
 
 ### Vedlegg
+
 Prøveprogram som er nødvendig for å kontrollere om unionsmålet som nevnt i artikkel 1 nr. 2 er oppnådd
 
 1.*UTVALGSGRUNNLAG*

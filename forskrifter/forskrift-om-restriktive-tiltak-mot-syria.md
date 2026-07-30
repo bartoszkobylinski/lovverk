@@ -15,7 +15,7 @@ xml_hash: "7b6d38ab09a7192575bbfd795ee9cdfef284dd9184fb7ddc9b737ba052e999f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,10 +88,12 @@ Denne forskrift trer i kraft straks.
 > Vedlegg A tilføyd ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214), endret ved [forskrifter 25 april 2014 nr. 587](forskrift/2014-04-25-587), [7 mai 2015 nr. 487](forskrift/2015-05-07-487), [17 juli 2015 nr. 910](forskrift/2015-07-17-910), [27 juli 2016 nr. 945](forskrift/2016-07-27-945), [23 mars 2017 nr. 373](forskrift/2017-03-23-373), [28 mars 2023 nr. 438](forskrift/2023-03-28-438), [20 juli 2023 nr. 1276](forskrift/2023-07-20-1276), [16 jan 2025 nr. 43](forskrift/2025-01-16-43), [18 mars 2025 nr. 490](forskrift/2025-03-18-490), [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ### RÅDSFORORDNING [(EU) NR. 36/2012](eu/32012r0036*)
+
 av 18. januar 2012
 om restriktive tiltak i lys av situasjonen i Syria samt om oppheving av forordning [(EU) nr. 442/2011](eu/32011r0442)
 
 ### KAPITTEL I
+
 DEFINISJONER
 
 ### Artikkel 1
@@ -163,6 +165,7 @@ herunder foretakenes filialer i og utenfor EU,
 ### Artikkel 1a. (Opphevet)
 
 ### KAPITTEL II
+
 EKSPORT- OG IMPORTRESTRIKSJONER
 
 ### Artikkel 2
@@ -293,11 +296,13 @@ med mindre den relevante medlemsstatens kompetente myndigheter, som angitt på n
 7 EUT L 253 av 11.10.1993, s. 1.
 
 ### KAPITTEL III
+
 RESTRIKSJONER PÅ DELTAKELSE I INFRASTRUKTURPROSJEKTER
 
 ### Artikkel 12. (Opphevet)
 
 ### KAPITTEL IV
+
 RESTRIKSJONER PÅ FINANSIERING AV BESTEMTE FORETAK
 
 ### Artikkel 13. (Opphevet)
@@ -305,6 +310,7 @@ RESTRIKSJONER PÅ FINANSIERING AV BESTEMTE FORETAK
 ### Artikkel 13a. (Opphevet)
 
 ### KAPITTEL V
+
 FRYSING AV PENGER OG FORMUESGODER
 
 ### Artikkel 14
@@ -447,6 +453,7 @@ forutsatt at den relevante medlemsstatens kompetente myndigheter i hvert enkelt 
 Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble fryst eller tilbakeholdt som følge av uaktsomhet.
 
 ### KAPITTEL VI
+
 RESTRIKSJONER PÅ FINANSIELLE TJENESTER
 
 ### Artikkel 23. (Opphevet)
@@ -460,11 +467,13 @@ RESTRIKSJONER PÅ FINANSIELLE TJENESTER
 ### Artikkel 26. (Opphevet)
 
 ### KAPITTEL VIA
+
 RESTRIKSJONER PÅ TRANSPORT
 
 ### Artikkel 26a. (Opphevet)
 
 ### KAPITTEL VII
+
 GENERELLE BESTEMMELSER OG SLUTTBESTEMMELSER
 
 ### Artikkel 27
@@ -549,6 +558,7 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 > Vedlegg I opphevet ved [forskrift 25 april 2014 nr. 587](forskrift/2014-04-25-587).
 
 ## Vedlegg Ia.
+
 Annex Ia: List of equipment, goods and technology referred to in article 2a
 
 *Part 1*
@@ -1359,6 +1369,7 @@ Chemicals at 95 % concentration or greater, as follows:
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 
 ## Vedlegg II.
+
 Annex II: List of natural and legal persons, entities or bodies referred to in Articles 14, 15(1)(a) and 15(1a).
 
 EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). Listeførte med landkode («programme») SYR er listeført under denne forskrift.
@@ -1366,16 +1377,19 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 > Endret ved [forskrifter 14 feb 2014 nr. 214](forskrift/2014-02-14-214), [28 juli 2014 nr. 1017](forskrift/2014-07-28-1017), [7 mai 2015 nr. 487](forskrift/2015-05-07-487), [17 juli 2015 nr. 910](forskrift/2015-07-17-910), [27 juli 2016 nr. 945](forskrift/2016-07-27-945).
 
 ## Vedlegg IIa.
+
 *(Opphevet)*
 
 > Endret ved [forskrifter 14 feb 2014 nr. 214](forskrift/2014-02-14-214), [27 juli 2016 nr. 945](forskrift/2016-07-27-945), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg IIb.
+
 *(Opphevet)*
 
 > Tilføyd ved forskrift [18 mars 2025 nr. 490](forskrift/2025-03-18-490), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg III.
+
 Annex III: Websites for information on the competent authorities and address for notifications to the European Commission
 
 [Lenker er gjengitt som i Utenriksdepartementets kunngjøring i Norsk Lovtidend, Lovdatas anm.]
@@ -1505,11 +1519,13 @@ BELGIQUE/BELGIË
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 
 ## Vedlegg IV.
+
 *(Opphevet)*
 
 > Endret ved [forskrifter 14 feb 2014 nr. 214](forskrift/2014-02-14-214), [23 mars 2017 nr. 373](forskrift/2017-03-23-373), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg V.
+
 Annex V: Equipment, technology and software referred to in article 4
 
 *General Note*
@@ -1591,31 +1607,37 @@ For the purpose of this Annex «monitoring» means acquisition, extraction, deco
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 
 ## Vedlegg Va.
+
 *(Opphevet)*
 
 > Vedlegg Va tilføyd ved [forskrift 7 mai 2015 nr. 487](forskrift/2015-05-07-487), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg Vb.
+
 *(Opphevet)*
 
 > Vedlegg Vb tilføyd ved [forskrift 7 mai 2015 nr. 487](forskrift/2015-05-07-487), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg VI.
+
 *(Opphevet)*
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg VII.
+
 *(Opphevet)*
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg VIII.
+
 *(Opphevet)*
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## Vedlegg IX.
+
 Annex IX: List of equipment, goods and technology referred to in article 2b
 
 *Introductory Notes*
@@ -1781,11 +1803,13 @@ Annex IX: List of equipment, goods and technology referred to in article 2b
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 
 ## Vedlegg X.
+
 *(Opphevet)*
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).
 
 ## VEDLEGG XI
+
 *(Opphevet)*
 
 > Vedlegg XI tilføyd ved [forskrift 25 april 2014 nr. 587](forskrift/2014-04-25-587), opphevet ved forskrift [2 juli 2025 nr. 1419](forskrift/2025-07-02-1419).

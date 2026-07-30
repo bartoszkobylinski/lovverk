@@ -15,7 +15,7 @@ xml_hash: "894b70859a9babf449c78efb5240e04f028a072ec451888caf83e0fd4d288697"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,6 +23,7 @@ eu_basis: []
 # Vedtak om delegering av myndighet fra Arbeids- og sosialdepartementet til statsforvalteren, Statens helsetilsyn og Arbeids- og velferdsdirektoratet
 
 ## 1
+
 Delegering til statsforvalteren
 
 Arbeids- og sosialdepartementet delegerer følgende myndighet til statsforvalteren:
@@ -44,6 +45,7 @@ Departementets myndighet etter [forvaltningsloven § 9](lov/1967-02-10/§9) andr
 > Endret ved [vedtak 27 juli 2018 nr. 1210](forskrift/2018-07-27-1210), [16 juni 2021 nr. 2019](forskrift/2021-06-16-2019).
 
 ## 2
+
 Delegering til Statens helsetilsyn
 
 Arbeids- og sosialdepartementet delegerer følgende myndighet til Statens helsetilsyn:
@@ -59,6 +61,7 @@ Departementets myndighet som overordnet organ etter [offentleglova § 32](lov/20
 > Endret ved vedtak [16 juni 2021 nr. 2019](forskrift/2021-06-16-2019).
 
 ## 3
+
 Delegering til Arbeids- og velferdsdirektoratet
 
 Arbeids- og sosialdepartementet delegerer følgende myndighet til Arbeids- og velferdsdirektoratet:

@@ -15,7 +15,7 @@ xml_hash: "c23a64a42b42a11e45eec359e7c43264c96a83ef6fe5316c79013f2b84323bcb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -57,6 +57,7 @@ Denne forskrift trer i kraft straks.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/372](eu/32023r0372) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2023/372](eu/32023r0372)
+
 av 17. februar 2023
 om fastsettelse av regler for registrering, lagring og deling av skriftlig dokumentasjon på offentlig kontroll utført på dyretransportfartøyer, om beredskapsplaner for dyretransportfartøyer i nødssituasjoner, om godkjenning av dyretransportfartøyer og om minstekrav for utførselssteder
 
@@ -212,6 +213,7 @@ Utferdiget i Brussel 17. februar 2023.
 |  | *For Kommisjonen*<br>Ursula von der Leyen<br>*President* |
 
 ### VEDLEGG
+
 **RAPPORT OM FYSISK KONTROLL OMBORD UNDER TRANSPORTEN**
 (nevnt i artikkel 10)
 
@@ -250,6 +252,7 @@ Utferdiget i Brussel 17. februar 2023.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/842](eu/32023r0842) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I. (Bare utkast til offisiell norsk oversettelse foreligger d.d.)
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2023/842](eu/32023r0842)
+
 av 17. februar 2023
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for gjennomføring av offentlig kontroll for å verifisere overholdelsen av krav til dyrevelferd ved transport av dyr med dyretransportfartøyer
 

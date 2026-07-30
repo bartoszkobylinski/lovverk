@@ -288,6 +288,7 @@ Forskriften trer i kraft 25. juni 2022. Fra samme tidspunkt oppheves [forskrift 
 2. Inntil det fastsettes nærmere bestemmelser om rengjørings- og desinfiseringsmidler som kan brukes i økologisk planteproduksjon, på lagre og i foredlingsvirksomheter, jf. [§ 3](forskrift/2022-06-11-1171/§3) jf. forordning [(EU) 2021/1165](eu/32021r1165) vedlegg IV, gjelder det ikke særskilte forbud mot bruk av slike midler etter denne forskriften.
 
 ## Vedlegg I
+
 Liste over tredjestater og relevante spesifikasjoner nevnt i § 19
 
 > Endret ved forskrift [9 des 2024 nr. 2996](forskrift/2024-12-09-2996).

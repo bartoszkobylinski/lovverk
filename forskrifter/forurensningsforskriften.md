@@ -15,7 +15,7 @@ xml_hash: "f9bda3551457dc1f17fbe8fbab96f5b7b10be785b70446df86fa30825befab40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -748,6 +748,7 @@ Dersom det er over 50000 sivile flybevegelser skal likevel militær trafikk samt
 > [Kapittel 5](forskrift/2004-06-01-931/kap5) endret ved [forskrift 19 nov 2004 nr. 1497](forskrift/2004-11-19-1497) (i kraft 1 jan 2005).
 
 ### Vedlegg 5
+
 Vurderingsmetoder for skadelige virkninger
 (nevnt i artikkel 6 nr. 3)
 
@@ -3168,6 +3169,7 @@ R. STEICHEN
 > [Kapittel 15b](forskrift/2004-06-01-931/kap15b) tilføyd ved [forskrift 15 des 2005 nr. 1691](forskrift/2005-12-15-1691) (i kraft 1 jan 2007).
 
 ### VEDLEGG I
+
 KRAV TIL AVLØPSVANN FRA BYOMRÅDER
 
 *A. Avløpsnett[^1]*
@@ -3264,6 +3266,7 @@ Analyser av utslipp etter bassengbehandling skal utføres på filtrerte prøver;
 > [Kapittel 15b](forskrift/2004-06-01-931/kap15b) tilføyd ved [forskrift 15 des 2005 nr. 1691](forskrift/2005-12-15-1691) (i kraft 1 jan 2007).
 
 ### VEDLEGG II
+
 KRITERIER FOR UTARBEIDING AV FORTEGNELSE OVER FØLSOMME OG MINDRE FØLSOMME OMRÅDER
 
 *A. Følsomme områder*
@@ -3293,6 +3296,7 @@ Det skal tas hensyn til forholdene nedenfor når mindre følsomme områder regis
 1 EFT nr. L 194 av 25.7.1975, s. 26. Direktivet endret ved direktiv [79/869/EØF](eu/31979l0869) (EFT nr. L 271 av 29.10.1979, s. 44).
 
 ### VEDLEGG III
+
 INDUSTRISEKTORER
 
 1. Fremstilling av melkeprodukter.
@@ -4023,6 +4027,7 @@ Prosedyrene for mottak, innsamling, lagring, behandling og videre håndtering b�
 > Endret ved forskrift [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023).
 
 ### Vedlegg II
+
 Kostnadskategorier og nettoinntekter knyttet til drift og administrasjon av mottaksanlegg i havner
 
 | *Direkte kostnader*<br>*Direkte driftskostnader forbundet med den faktiske håndteringen av avfall fra skip, herunder kostnadspostene oppført nedenfor* | *Indirekte kostnader*<br>*Indirekte administrasjonskostnader forbundet med forvaltningen av systemet i havnen, herunder kostnadspostene oppført nedenfor* | *Nettoinntekter*<br>*Nettoinntekter fra avfallshåndteringsordninger og tilgjengelig nasjonal/regional finansiering, herunder inntektspostene oppført nedenfor* |
@@ -4032,6 +4037,7 @@ Kostnadskategorier og nettoinntekter knyttet til drift og administrasjon av mott
 > Tilføyd ved forskrift [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023).
 
 ### Vedlegg III
+
 Standardskjema for melding om avfallslevering til mottaksanlegg i havner
 
 For å lese vedlegget se her: [(pdf)](static/SF/sf-20040601-0931-kap20-v3-01-01.pdf)
@@ -4039,6 +4045,7 @@ For å lese vedlegget se her: [(pdf)](static/SF/sf-20040601-0931-kap20-v3-01-01.
 > Endret ved forskrifter [24 aug 2010 nr. 1291](forskrift/2010-08-24-1291) (i kraft 31 okt 2010), [25 okt 2016 nr. 1252](forskrift/2016-10-25-1252), [31 mars 2017 nr. 435](forskrift/2017-03-31-435), [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023, tidligere vedlegg II).
 
 ### Vedlegg IV
+
 Standardskjema for avfallskvittering
 
 For å lese vedlegget se her: [(pdf)](static/SF/sf-20040601-0931-kap20-v4-01-01.pdf)
@@ -5922,6 +5929,7 @@ Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatu
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Del 1:
+
 Utslippsgrenseverdier for forbrenningsanlegg med tillatelse fra før 7. januar 2013 eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen denne datoen, og anlegget ble satt i drift senest 7. januar 2014
 
 *1.1 Utslippsgrenseverdier for forbrenningsanlegg som benytter faste brensler, med unntak av hva som er angitt i 1.2:*
@@ -6041,6 +6049,7 @@ Gassturbiner og gassmotorer i reservedrift med mindre enn 500 driftstimer per å
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Del 2:
+
 Utslippsgrenseverdier for forbrenningsanlegg med tillatelse gitt første gang fra og med 7. januar 2013
 
 Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatur på 273,15 K, et trykk på 101,3 kPa og for korreksjon av vanndampinnhold i røykgassene ved et standardisert O2-innhold på 6 % for faste brensel, 3 % for flytende og gassformige brensler, unntatt for gassturbiner og gassmotorer hvor standardisert O2-innhold er 15 %.
@@ -6120,6 +6129,7 @@ Gassturbiner og gassmotorer som kjøres i reservedrift med mindre enn 500 drifts
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Vedlegg 2
+
 Gjennomsnittlige utslippsgrenseverdier for multibrenselsanlegg innenfor raffinerier jf. [§ 31-9](forskrift/2004-06-01-931/§31-9), tredje ledd
 
 Utslippsgrenseverdiene skal beregnes ved en temperatur på 273,15 K, et trykk på 101,3 kPa og korreksjon for vanndampinnhold i røykgassene ved et standardisert O2-innhold på 6 % for faste brensel, 3 % for flytende og gassformige brensler.
@@ -6132,6 +6142,7 @@ I multibrenselsanlegg som benytter destillasjons- og omvandlingsrester fra råol
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Vedlegg 3
+
 Bestemmelser om oppstarts- og nedkjøringsperioder for forbrenningsanlegg dekket av [kapittel 31 i forurensingsforskriften](forskrift/2004-06-01-931/kap31)
 
 *1. Generelle regler for å bestemme oppstarts- og nedkjøringsperioder*

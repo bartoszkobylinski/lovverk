@@ -16,7 +16,7 @@ xml_hash: "268cb88e93b52ebc358d2918dac06662ba0b984b9fd5ff25b79a7a2cacb06fcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,6 +78,7 @@ Nedenfor følger en norsk oversettelse av forordning [(EF) nr. 1950/2006](eu/320
 > Tilføyd ved [forskrift 14 mars 2014 nr. 290](forskrift/2014-03-14-290).
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1950/2006](eu/32006r1950)
+
 av 13. desember 2006
 om opprettelse av en liste over stoffer som er vesentlige for behandling av dyr av hestefamilien, og stoffer med ytterligere kliniske fordeler i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) om innføring av et fellesskapsregelverk for veterinærpreparater
 

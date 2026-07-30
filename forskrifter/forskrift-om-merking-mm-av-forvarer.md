@@ -16,7 +16,7 @@ xml_hash: "9c007fb07eeb4e3df9bae10a55e5953348d356e0fb0e27143ab70393c154e422"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,6 +101,7 @@ som endret ved
 - ► **M4** Forordning [(EU) 2018/1903](eu/32018r1903)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 767/2009](eu/32009r0767)
+
 av 13. juli 2009
 om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373*), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993*0074), [93/113/EF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsbeslutning [2004/217/EF](eu/32004d0217)
 
@@ -203,6 +204,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Innledende bestemmelser
 
 ### Artikkel 1. Mål
@@ -269,6 +271,7 @@ Formålet med denne forordning, i samsvar med de allmenne prinsippene fastsatt i
 21. «presentasjon» form, utseende eller emballasje og emballasjemateriale som er brukt til fôret, samt den måten fôret er arrangert på og de omgivelsene det stilles ut i.
 
 ### Kapittel 2
+
 Generelle krav
 
 ### Artikkel 4. Krav til sikkerhet og omsetning
@@ -308,6 +311,7 @@ Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette 
 I de tilfeller der det av tvingende grunner er nødvendig med hastesaksbehandling, kan Kommisjonen anvende framgangsmåten for behandling av hastesaker omhandlet i artikkel 28 nr. 5, med henblikk på å vedta disse tiltakene.
 
 ### Kapittel 3
+
 Omsetning av særlige typer fôrvarer
 
 ### Artikkel 7. Fôrtypers egenskaper
@@ -349,6 +353,7 @@ I slike tilfeller skal Kommisjonen når det er relevant informere søkeren og me
 7\. Kommisjonen skal, etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3, vedta gjennomføringstiltak angående utarbeiding og framlegging av søknaden.
 
 ### Kapittel 4
+
 Merking, presentasjon og emballering
 
 ### Artikkel 11. Prinsipper for merking og presentasjon
@@ -526,6 +531,7 @@ Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette 
 7. blokker eller slikkesteiner.
 
 ### Kapittel 5
+
 Fellesskapsfortegnelse over fôrmidler og fellesskapsregler for god merkingspraksis
 
 ### Artikkel 24. Fellesskapsfortegnelse over fôrmidler
@@ -581,6 +587,7 @@ Fellesskapsfortegnelse over fôrmidler og fellesskapsregler for god merkingsprak
 5\. Fortegnelsen skal kunngjøres i L-serien i *Den europeiske unions tidende*. Titlene og henvisningene til reglene skal kunngjøres i C-serien i *Den europeiske unions tidende*.
 
 ### Kapittel 6
+
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 27. Gjennomføringstiltak
@@ -675,6 +682,7 @@ Utferdiget i Brussel, 13. juli 2009.
 | *President* | *Formann* |
 
 ### Vedlegg I
+
 Tekniske bestemmelsene om urenheter, melkeerstatningsfôr, fôrmidler til binding eller denaturering, askeinnhold og vanninnhold som nevnt i artikkel 4
 
 1. I samsvar med god praksis nevnt i artikkel 4 i forordning [(EF) nr. 183/2005](eu/32005r0183), skal fôrmidler være fri for kjemiske urenheter fra produksjonsprosessen og fra tekniske hjelpestoffer, med mindre det er fastsatt en særlig grenseverdi i fortegnelsen nevnt i artikkel 24.
@@ -698,6 +706,7 @@ Tekniske bestemmelsene om urenheter, melkeerstatningsfôr, fôrmidler til bindin
    - 14 % for andre fôrmidler.
 
 ### Vedlegg II
+
 Alminnelige bestemmelser om merking som nevnt i artikkel 11 nr. 4
 
 1. Innhold som er angitt eller som skal angis, viser til fôrets vekt, med mindre annet er fastsatt.
@@ -721,6 +730,7 @@ Alminnelige bestemmelser om merking som nevnt i artikkel 11 nr. 4
 5. Uten at det berører analysemetodene som brukes, kan uttrykket «råprotein» erstattes med «protein», ►**M4** «råfett» ◄**M4** erstattes med «fettinnhold» og «råaske» kan erstattes med «forbrent rest» eller «uorganisk stoff» for fôr til kjæledyr.
 
 ### Vedlegg III
+
 Liste over fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt som nevnt i artikkel 6
 
 Kapittel 1: Forbudte fôrmidler
@@ -844,6 +854,7 @@ Kapittel 2: Fôrmidler som er underlagt begrensninger
 ◄ **M2**
 
 ### Vedlegg V
+
 Den obligatoriske angivelsen for fôrmidler som nevnt i artikkel 16 nr. 1 bokstav b)
 
 |  | *Fôrmidler som består av* | *Obligatorisk angivelse av* |
@@ -893,6 +904,7 @@ Den obligatoriske angivelsen for fôrmidler som nevnt i artikkel 16 nr. 1 boksta
 |  |  | Aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet |
 
 ### ► **M3** Vedlegg VI
+
 Merkingsopplysninger for fôrmidler og fôrblandinger til dyr bestemt til næringsmiddelproduksjon
 
 ### Kapittel I: Obligatorisk og frivillig merking av fôrtilsetningsstoffer som nevnt i artikkel 15 bokstav f) og artikkel 22 nr. 1
@@ -943,6 +955,7 @@ Merkingsopplysninger for fôrmidler og fôrblandinger til dyr bestemt til nærin
    ◄ **M3**
 
 ### ► **M3** Vedlegg VII
+
 Merkingsopplysninger for fôrmidler og fôrblandinger til dyr som ikke er bestemt til næringsmiddelproduksjon
 
 ### Kapittel I: Obligatorisk og frivillig merking av tilsetningsstoffer som nevnt i artikkel 15 bokstav f) og artikkel 22 nr. 1
@@ -998,6 +1011,7 @@ Merkingsopplysninger for fôrmidler og fôrblandinger til dyr som ikke er bestem
 ◄ **M3**
 
 ### Vedlegg VIII
+
 Særlige bestemmelser for merking av fôrvarer som ikke oppfyller krav til sikkerhet og omsetning i henhold til fellesskapsretten som nevnt i artikkel 20 nr. 1
 
 ► **M3**
@@ -1015,6 +1029,7 @@ Særlige bestemmelser for merking av fôrvarer som ikke oppfyller krav til sikke
 ◄ **M3**
 
 ### Vedlegg IX
+
 Sammenligningstabell
 
 | *Direktiv [79/373/EØF](eu/31979l0373*)* | *Direktiv [96/25/EØF](eu/31996l0025)* | *Andre rettsakter: direktiv [80/511/EØF](eu/31980l0511) (1), [82/471/EØF](eu/31982l0471) (2), [93/74/EØF](eu/31993*0074) (3), 93/113 EF (4) eller vedtak [2004/217/EF](eu/32004d0217) (5)* | *Denne forordning* |
@@ -1079,6 +1094,7 @@ Sammenligningstabell
 ### Forordning (EU) nr. 454/2010
 
 ### KOMMISJONSFORORDNING [(EU) nr. 454/2010](eu/32010r0454)
+
 av 26. mai 2010
 om overgangstiltak i henhold til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) med hensyn til bestemmelsene om merking av fôrvarer
 
@@ -1143,6 +1159,7 @@ Som endret ved
 - ► **M1** Forordning [(EU) 2017/1017](eu/32017r1017)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 68/2013](eu/32013r0068)
+
 av 16. januar 2013
 om fortegnelsen over fôrmidler
 
@@ -1202,6 +1219,7 @@ Utferdiget i Brussel, 16. januar 2013.
 ► **M1**
 
 ### Vedlegg
+
 Katalog over fôrmidler
 
 ### Del A: Alminnelige bestemmelser
@@ -2163,6 +2181,7 @@ som endret ved
 - ►**M1** Forordning [(EU) 2024/2899](eu/32024r2899)
 
 ### Kommisjonsforordning [(EU) 2020/354](eu/32020r0354)
+
 av 4. mars 2020
 om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv [2008/38/EF](eu/32008l0038)
 
@@ -2233,6 +2252,7 @@ Ursula von der Leyen
 ### Vedlegg
 
 ### Del A
+
 Alminnelig bestemmelse om fôr med særlige ernæringsformål
 
 1. Dersom det for samme særlige ernæringsformål er oppført mer enn én gruppe grunnleggende ernæringsegenskaper i kolonne 2 i del B, angitt med «og/eller», kan produsenten velge å bruke en eller flere grupper av grunnleggende egenskaper for å oppnå det særlige ernæringsformålet definert i kolonne 1 i del B. De tilsvarende merkingsopplysningene for hvert alternativ er angitt i kolonne 4 i del B.
@@ -2252,6 +2272,7 @@ Alminnelig bestemmelse om fôr med særlige ernæringsformål
 2 Europaparlaments- og rådsdirektiv [2004/48/EF](eu/32004l0048) av 29. april 2004 om håndheving av immaterialrettigheter (EUT L 157 av 30.4.2004, s. 45).
 
 ### Del B
+
 **Liste over bruksområder**
 
 | *Nummer* | *Særlig ernærings­formål* | *Grunnleggende ernærings­egenskaper [^GP1]* | *Dyreart eller dyregruppe* | *Merkings­opplysninger [^GP2]* | *Anbefalt bruksperiode* | *Andre bestemmelser* |

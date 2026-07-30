@@ -17,7 +17,7 @@ xml_hash: "a4c82b664ecdd41e5449c7d97ae693641320872ecfe86ee9d4673e55094c776c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,6 +91,7 @@ som endret ved:
 ►**M1** Kommisjonsforordning [(EU) 2021/2141](eu/32021r2141) av 3. desember 2021
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/2129](eu/32019r2129)
+
 av 25. november 2019
 om fastsettelse av regler for en enhetlig bruk av frekvensene for identitetskontroll og fysisk kontroll av visse forsendelser med dyr og varer som innføres til Unionen
 
@@ -196,6 +197,7 @@ Utferdiget i Brussel 25. november 2019.
 |  | *President* |
 
 ### ►**M1** VEDLEGG I
+
 Referansekriterier for bestemmelse av standardhyppigheten av identitetskontroll og fysisk kontroll av forsendelser med dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter
 
 | Referansekriterier for bestemmelse av standardhyppighet av identitetskontroll og fysisk kontroll |  | Standardhyppighet som gjelder for |  |
@@ -236,6 +238,7 @@ Referansekriterier for bestemmelse av standardhyppigheten av identitetskontroll 
 ◄**M1**
 
 ### VEDLEGG II
+
 Liste over visse tredjestater nevnt i artikkel 4 nr. 2 og hyppighet av fysisk kontroll
 
 1. **New Zealand**
@@ -259,6 +262,7 @@ Liste over visse tredjestater nevnt i artikkel 4 nr. 2 og hyppighet av fysisk ko
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bs, kap. II nr. 31qs og vedlegg II kap. XII nr. 164s (forordning [(EU) 2019/2130](eu/32019r2130)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/2130](eu/32019r2130)
+
 av 25. november 2019
 om fastsettelse av nærmere regler for de oppgavene som skal utføres under og etter dokumentkontroll, identitetskontroll og fysisk kontroll av dyr og varer som omfattes av offentlig kontroll på grensekontrollstasjonene
 
@@ -408,6 +412,7 @@ Utferdiget i Brussel 25. november 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 Nærmere regler for de handlingene som skal utføres under fysisk kontroll av dyr nevnt i artikkel 4 nr. 3
 
 I. Kontroll med hensyn til dyrenes skikkethet til videre transport
@@ -454,6 +459,7 @@ III. Prøvetakingsmetode for hovdyr
 1 Kommisjonens gjennomføringsforordning [(EU) 2018/659](eu/32018r0659*) av 12. april 2018 om vilkår for innførsel til Unionen av levende dyr av hestefamilien og sæd, egg og embryoer fra dyr av hestefamilien (EUT L 110 av 30.4.2018, s. 1).
 
 ### VEDLEGG II
+
 Nærmere regler for de handlingene som skal utføres under fysisk kontroll av varer nevnt i artikkel 4 nr. 4
 
 1. Vedkommende myndighet skal utføre fysisk kontroll for å kontrollere
@@ -489,6 +495,7 @@ Nærmere regler for de handlingene som skal utføres under fysisk kontroll av va
 2 Kommisjonens delegerte forordning [(EU) 2019/2124](eu/32019r2124) av 10. oktober 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til regler for offentlig kontroll av forsendelser med dyr og varer i transitt, ved omlasting og videre transport gjennom Unionen, og om endring av kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798), (EF) [nr. 1251/2008](eu/32008r1251), (EF) [nr. 119/2009](eu/32009r0119), (EU) [nr. 206/2010](eu/32010r0206*), (EU) [nr. 605/2010](eu/32010r0605*), (EU) [nr. 142/2011](eu/32011r0142), (EU) [nr. 28/2012](eu/32012r0028), kommisjonens gjennomføringsforordning [(EU) 2016/759](eu/32016r0759) og kommisjonsvedtak [2007/777/EF](eu/32007d0777*) (EUT L 321 av 12.12.2019, s. 73).
 
 ### VEDLEGG III
+
 Nærmere regler for de handlingene som skal utføres under fysisk kontroll av planter, planteprodukter og andre gjenstander nevnt i artikkel 4 nr. 6
 
 1. Vedkommende myndighet skal utføre fysisk kontroll av forsendelsene og partiene i dem, enten i sin helhet eller av et representativt utvalg. Ensartede partier i forsendelsen skal identifiseres på grunnlag av opplysningene som er gitt i det offisielle plantehelsesertifikatet, og idet det tas hensyn til elementene nevnt i nr. 2.
@@ -549,6 +556,7 @@ Nærmere regler for de handlingene som skal utføres under fysisk kontroll av pl
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bx, kap. II nr. 31qx og vedlegg II kap. XII nr. 164x (forordning [(EU) 2019/2126](eu/32019r2126)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2019/2126](eu/32019r2126)
+
 av 10. oktober 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til regler for særlig offentlig kontroll av visse kategorier av dyr og varer, tiltak som skal treffes etter slik kontroll og visse kategorier av dyr og varer som er unntatt fra offentlig kontroll på grensekontrollstasjoner
 
@@ -693,6 +701,7 @@ Utferdiget i Brussel 10. oktober 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 Særlig offentlig kontroll av varer som innføres til Unionen via godkjente innførselssteder på visse greske øyer og visse franske territorier
 
 1. Vedkommende myndighet skal sikre at alle data om produkter av animalsk opprinnelse og sammensatte produkter og, når det gjelder de franske oversjøiske departementene Guadeloupe, Fransk Guyana, Martinique og Mayotte, også alle data om dyr som framvises for å bringes i omsetning, legges inn i IMSOC.
@@ -710,6 +719,7 @@ Særlig offentlig kontroll av varer som innføres til Unionen via godkjente innf
 6. Når det gjelder de franske oversjøiske departementene Guadeloupe, Fransk Guyana, Martinique og Mayotte, skal vedkommende myndighet gjennomføre regelmessige inspeksjoner av husdyrlokalene for dyr som skal bringes i omsetning, for å verifisere at kravene til dyrehelse er oppfylt, og at disse dyrene og produkter som stammer fra disse dyrene, ikke videresendes til andre deler av Unionens territorium.
 
 ### VEDLEGG II
+
 Sammenligningstabeller nevnt i artikkel 10 nr. 2
 
 1\. Vedtak [94/641/EF](eu/31994d0641)
@@ -769,6 +779,7 @@ som endret ved:
 - ►**M2** Kommisjonsforordning [(EU) 2025/65](eu/32025r0065) av 31. oktober 2024
 
 ### KOMMISJONENS DELEGERTE FORORDNING [(EU) 2019/2123](eu/32019r2123)
+
 av 10. oktober 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til regler for i hvilke tilfeller og på hvilke vilkår identitetskontroll og fysisk kontroll av visse varer kan gjennomføres på kontrollsteder og dokumentkontroll kan gjennomføres på en viss avstand fra grensekontrollstasjoner
 
@@ -858,6 +869,7 @@ I denne forordning menes med
 ◄**M1**
 
 ### KAPITTEL I
+
 Identitetskontroll og fysisk kontroll som gjennomføres på andre kontrollsteder enn grensekontrollstasjoner
 
 ### Artikkel 2. Vilkårene for å gjennomføre identitetskontroll og fysisk kontroll på et annet kontrollsted enn grensekontrollstasjonen
@@ -1025,6 +1037,7 @@ Identitetskontroll og fysisk kontroll som gjennomføres på andre kontrollsteder
 ◄**M1**
 
 ### KAPITTEL II
+
 Dokumentkontroll som gjennomføres på en viss avstand fra en grensekontrollstasjon
 
 ### Artikkel 7. Dokumentkontroll av forsendelser med planter, planteprodukter og andre gjenstander som gjennomføres på en viss avstand fra en grensekontrollstasjon
@@ -1064,6 +1077,7 @@ Dokumentkontroll av forsendelser av planter, planteprodukter og andre gjenstande
 1 Kommisjonens delegerte forordning [(EU) 2019/1012](eu/32019r1012) av 12. mars 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) gjennom unntak fra reglene om utpeking av kontrollsteder og fra minstekravene til grensekontrollstasjoner (EUT L 165 av 21.6.2019, s. 4).
 
 ### KAPITTEL III
+
 Sluttbestemmelser
 
 ### Artikkel 9. Oppheving

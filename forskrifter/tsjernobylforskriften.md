@@ -15,7 +15,7 @@ xml_hash: "a097ecc25cd77fb365ce4044c4091ac93ac9f22e02eb3d4f4d23856ba7b6bebd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,6 +88,7 @@ som endret ved:
 - ►**M1** Kommisjonsforordning [(EU) 2024/256](eu/32024r0256) av 17. januar 2024
 
 ### COMMISSION IMPLEMENTING REGULATION [(EU) 2020/1158](eu/32020r1158)
+
 of 5 August 2020
 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station
 
@@ -279,6 +280,7 @@ Done at Brussels, 5 August 2020.
 |  | *Ursula VON DER LEYEN* |
 
 ### VEDLEGG I
+
 Lister over stater utenfor EØS-området som nevnt i artikkel 1:[^1]
 
 Albania
@@ -314,6 +316,7 @@ Det forente kongerike Storbritannia, unntatt Nord-Irland[^2]
 ►**M1**
 
 ### VEDLEGG II
+
 List of products to which the conditions laid down in Article 3(3) apply
 
 |  |  |  |
@@ -363,11 +366,13 @@ List of products to which the conditions laid down in Article 3(3) apply
 ◄**M1**
 
 ### VEDLEGG III
+
 MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION [(EU) 2020/1158](eu/32020r1158) ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION
 
 For å lese vedlegg III med offisielt sertifikat som skal benyttes, se pdf-filen for forordning [(EU) 2020/1158](eu/32020r1158) nedenfor.
 
 ### VEDLEGG IV
+
 INSTRUCTIONS FOR THE COMPLETION OF THE MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION [(EU) 2020/1158](eu/32020r1158) ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION
 
 For å lese vedlegg IV med veileder som skal benyttes, se pdf-filen for forordning [(EU) 2020/1158](eu/32020r1158) nedenfor.

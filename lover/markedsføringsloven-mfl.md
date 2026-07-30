@@ -15,7 +15,7 @@ xml_hash: "a333377a4006e4d2a154dae2f975ba7a650f9bc8b5c721ee8fa5776bc713227c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis:
   - "32002L0065"
@@ -649,6 +649,7 @@ Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – �
 > Tilføyd som vedheng etter kunngjøring [25 okt 2023 nr. 1721](forskrift/2023-10-25-1721) (med virkning fra 1 sep 2023).
 
 ### Europaparlaments- og rådsforordning [(EU) 2017/2394](eu/32017r2394)
+
 av 12. desember 2017
 om samarbeid mellom nasjonale myndigheter med ansvar for håndheving av forbrukervernlovgivning og om oppheving av forordning [(EF) nr. 2006/2004](eu/32006r2004)
 
@@ -746,6 +747,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Innledende bestemmelser
 
 ### Artikkel 1. Formål
@@ -813,6 +815,7 @@ I denne forordning menes med
 Hvert sentralt kontaktorgan skal underrette Kommisjonen om foreldelsesfristene som får anvendelse i dets egen medlemsstat og gjelder for håndhevingstiltakene nevnt i artikkel 9 nr. 4. Kommisjonen skal sammenfatte de meldte foreldelsesfristene og gjøre sammendraget tilgjengelig for vedkommende myndigheter.
 
 ### Kapittel II
+
 Vedkommende myndigheter og deres myndighet
 
 ### Artikkel 5. Vedkommende myndigheter og sentrale kontaktorganer
@@ -909,6 +912,7 @@ Vedkommende myndigheter og deres myndighet
 2\. Gjennomføringen og utøvelsen av myndighet som omhandlet i artikkel 9 ved anvendelse av denne forordning, skal stå i forhold til og være i samsvar med unionsretten og nasjonal rett, herunder med gjeldende prosessuelle garantier og med prinsippene i [Den europeiske unions pakt om grunnleggende rettigheter](eu/12016p). Undersøkelses- og håndhevingstiltak som vedtas ved anvendelse av denne forordning, skal stå i forhold til arten av og den samlede faktiske eller potensielle skaden som følger av overtredelsen av unionsrett som beskytter forbrukernes interesser.
 
 ### Kapittel III
+
 Ordning for gjensidig bistand
 
 ### Artikkel 11. Anmodninger om opplysninger
@@ -971,6 +975,7 @@ Ordning for gjensidig bistand
 6\. Dersom det er hensiktsmessig, kan Kommisjonen utstede retningslinjer og gi råd til medlemsstatene for å sikre at ordningen for gjensidig bistand fungerer på en effektiv måte.
 
 ### Kapittel IV
+
 Samordnede undersøkelses- og håndhevingsordninger for utbredte overtredelser og for utbredte overtredelser med unionsdimensjon
 
 ### Artikkel 15. Framgangsmåte ved beslutninger mellom medlemsstater
@@ -1084,6 +1089,7 @@ Håndhevingstiltak er særlig hensiktsmessige når
 I forbindelse med framgangsmåtene fastsatt i dette kapittelet, skal den næringsdrivende ha rett til å kommunisere på det offisielle språket eller et av de offisielle språkene som benyttes for offentlige formål i den medlemsstaten der den næringsdrivende er etablert eller bosatt.
 
 ### Kapittel V
+
 Unionsomfattende virksomhet
 
 ### Artikkel 26. Varsler
@@ -1153,6 +1159,7 @@ I det omfang som er nødvendig for å nå målet for denne forordning, skal vedk
 4\. Opplysninger som oversendes i henhold til denne forordning, kan av vedkommende myndighet også oversendes til en myndighet i en tredjestat i henhold til en bilateral bistandsavtale med denne tredjestaten, forutsatt at det er innhentet samtykke fra den vedkommende myndigheten som opprinnelig oversendte opplysningene, og forutsatt at dette er i samsvar med unionsretten om beskyttelse av enkeltpersoner i forbindelse med behandling av personopplysninger.
 
 ### Kapittel VI
+
 Felles ordninger
 
 ### Artikkel 33. Bruk og offentliggjøring av opplysninger samt taushetsplikt og forretningshemmeligheter
@@ -1211,6 +1218,7 @@ Disse opplysningene skal omfatte følgende:
 4\. Kommisjonen skal sammenfatte prioriteringene for håndhevingen som er framlagt av medlemsstatene i henhold til nr. 1 i denne artikkel, og skal årlig rapportere til komiteen nevnt i artikkel 38 nr. 1 for å gjøre det lettere å prioritere tiltak i henhold til denne forordning. Kommisjonen skal utveksle opplysninger om beste praksis og referansemåling med medlemsstatene, særlig med sikte på å utvikle kapasitetsbyggende virksomhet.
 
 ### Kapittel VII
+
 Sluttbestemmelser
 
 ### Artikkel 38. Komité
@@ -1252,6 +1260,7 @@ Utferdiget i Strasbourg 12. desember 2017.
 | *President* | *Formann* |
 
 ### Vedlegg
+
 Direktiver og forordninger nevnt i artikkel 3 nr. 1
 
 1. Rådsdirektiv [93/13/EØF](eu/31993l0013) av 5. april 1993 om urimelige vilkår i forbrukeravtaler (EFT L 95 av 21.4.1993, s. 29).

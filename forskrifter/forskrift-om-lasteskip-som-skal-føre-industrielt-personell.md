@@ -15,7 +15,7 @@ xml_hash: "3d61f62a2206b1352db480fd86f28320781be254b20ffccb1d90316a9585e935"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -228,14 +228,17 @@ Det vil ikke bli utstedt sertifikat etter denne forskriften før Direktoratet fo
 Nedenfor gjengis Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) kapittel XV om sikkerhetstiltak for skip frakter industrielt personell, slik Sjøfartsdirektoratet tolker denne delen av konvensjonen.
 
 ### VEDLEGG
+
 ENDRINGER I DEN INTERNASJONALE KONVENSJONEN OM SIKKERHET FOR MENNESKELIV TIL SJØS, 1974 (SOLAS 1974)
 
 ### KAPITTEL XV
+
 SIKKERHETSTILTAK FOR SKIP SOM FRAKTER INDUSTRIELT PERSONELL
 
 Følgende nytt kapittel XV (Sikkerhetstiltak for skip som frakter industrielt personell) tilføyes etter eksisterende kapittel XIV (Sikkerhetstiltak for skip som opererer i polare farvann):
 
 ### KAPITTEL XV
+
 Sikkerhetstiltak for skip som frakter industrielt personell
 
 ### Regel 1 – Definisjoner
@@ -299,9 +302,11 @@ I dette kapittelet gjelder følgende definisjoner:
 Nedenfor gjengis det internasjonale sikkerhetsregelverket for skip som fører industrielt personell (IP-koden), slik Sjøfartsdirektoratet tolker dette regelverket.
 
 ### RESOLUSJON MSC.527(106)
+
 (vedtatt 10. november 2022)
 
 ### VEDLEGG
+
 INTERNASJONALT SIKKERHETSREGELVERK FOR SKIP SOM FØRER INDUSTRIELT PERSONELL (IP-KODEN)
 
 ### DEL I – GENERELLE BESTEMMELSER
@@ -371,6 +376,7 @@ Gyldighet, tilsynsdatoer og påtegninger i forbindelse med sikkerhetssertifikate
 Sikkerhetssertifikatet for industrielt personell og utstyrslisten skal utstedes i tillegg til de relevante sertifikatene som kreves i SOLAS kapittel XV regel 5.1.1.
 
 ### DEL II
+
 MÅL OG FUNKSJONSKRAV
 
 ### 1 Industrielt personell
@@ -602,6 +608,7 @@ For å oppfylle funksjonskravet i nr. II/2.2.4 skal det være prosedyrer på pla
 5 En egnet analyse kan være QFA- eller FMEA-analyse og tilhørende rapporter.
 
 ### DEL IV
+
 TILLEGGSREGLER FOR SKIP SOM ER SERTIFISERT I SAMSVAR MED SOLAS KAPITTEL I
 
 ### Regel 1 – Generelle bestemmelser
@@ -739,6 +746,7 @@ For å oppfylle funksjonskravene i nr. II/9.2 når flytende gasser fraktes i bul
 6 Se «Code for the Transport and Handling of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels» (OSV Chemical Code) (resolusjon A.1122(30)).
 
 ### DEL V
+
 TILLEGGSREGLER FOR FARTØY SOM ER SERTIFISERT I SAMSVAR MED SOLAS KAPITTEL X
 
 ### Regel 1 – Generelle bestemmelser

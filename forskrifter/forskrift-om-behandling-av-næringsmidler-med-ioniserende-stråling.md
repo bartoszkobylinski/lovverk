@@ -15,7 +15,7 @@ xml_hash: "292b2a4792fb8de8bc586b7743e208793d9d0c86a245a59b60673753edb0eecc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -230,6 +230,7 @@ Dosemålingene foretas ved hjelp av anerkjente dosimetrisystemer, og målingene 
 Under bestrålingen skal det føres kontroll med de relevante anleggsparametre, og disse skal registreres løpende. For så vidt angår de radioaktive isotoper omfatter disse parametre produktets fremføringshastighet og den tid det tilbringer i bestrålingssonen, samt positiv indikasjon av at strålingskilden befinner seg i den riktige posisjon. For partikkelakselleratoren omfatter disse parametre produktets fremføringshastighet, samt anleggets energinivå, elektronstrøm og scanningsbredde.
 
 ## Vedlegg III
+
 Liste over strålingsanlegg i tredjeland som er godkjent av Unionen
 
 > Tilføyd ved forskrift [12 des 2022 nr. 2161](forskrift/2022-12-12-2161).

@@ -15,7 +15,7 @@ xml_hash: "4ead3bb5ec02297072ef23d25968a7ece7912555ea92932eb78ac835159db40c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -95,6 +95,7 @@ Denne forskrift trer i kraft straks.
 > Vedlegget med forordning tilføyd ved [forskrift 8 juli 2018 nr. 1170](forskrift/2018-07-08-1170), endret ved forskrifter [21 april 2021 nr. 1228](forskrift/2021-04-21-1228), [10 mai 2022 nr. 829](forskrift/2022-05-10-829), [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### RÅDSFORORDNING [(EU) nr. 401/2013](eu/32013r0401)
+
 av 2. mai 2013
 om restriktive tiltak i lys av situasjonen i Myanmar/Burma og opphevelse av forordning [(EF) nr. 194/2008](eu/32008r0194)
 
@@ -387,6 +388,7 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 List of equipment which might be used for internal repression as referred to in Articles 2, 3 and 4
 
 1\.
@@ -508,6 +510,7 @@ Specific technology for the development, production or use of the items specifie
 3 Common Military List of the European Union (adopted by the Council on 11 March 2013) (OJ C 30, 27.3.2013, p. 1).
 
 ### Vedlegg II
+
 Websites for information on the competent authorities referred to in Articles 4, 7 and 9 and address for notifications to the European Commission
 
 BELGIUM
@@ -633,6 +636,7 @@ Belgium
 E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 ### Vedlegg III
+
 Equipment, technology and software referred to in Articles 3b and 3c
 
 General Note
@@ -710,6 +714,7 @@ For the purpose of this Annex 'monitoring' means acquisition, extraction, decodi
 17 GTP stands for GPRS Tunnelling Protocol.
 
 ### Vedlegg IV
+
 List of natural and legal persons, entities and bodies referred to in Article 4a
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^18]

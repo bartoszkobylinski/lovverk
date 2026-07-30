@@ -15,7 +15,7 @@ xml_hash: "0d0f8c3d6a73a6c7af4d4c95736a11e980c664d4a2115f3809aa2e9a25b05f3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -850,6 +850,7 @@ Dersom det ikke er myndighetene i den avtalepart der en fører har sin faste bop
 3\. Utskriftene som er omtalt i nr. 1 skal merkes med opplysninger som gjør det mulig å identifisere førerne (navn og førerkortnummer), herunder førernes underskrifter.
 
 ### Tillegg 1[^1]
+
 Krav til konstruksjon, testing, installering og kontroll
 
 ### I. Definisjoner
@@ -1206,6 +1207,7 @@ Måling av feil under installering og bruk skal foretas under følgende forhold,
 - kjøretøyets bevegelse: kjøretøyet skal bevege seg for egen motor i en rett linje på et jevnt underlag med en fart på 50 +/-5 km/t. Kontrollen kan også foretas på en egnet prøvestand, under forutsetning av at den er like nøyaktig.
 
 ### Tillegg 1B[^1]
+
 Krav til konstruksjon, testing, installering og kontroll av digitale fartsskrivere som brukes innen veitransport
 
 1 Lagt til i avtaletillegg nr. 5.
@@ -1290,6 +1292,7 @@ Innholdet i dette tillegget er derfor begrenset til en innledning som inneholder
 \*) Endret gjennom rådsforordning [(EF) nr. 2135/98](eu/31998r2135*) av 24. september 1998 (OJ L 274 av 9. oktober 1998) og gjennom kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 (OJ L 207 av 5. august 2002 (corrigendum OJ L 77 av 13. mars 2004)) og forordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (OJ L 71 av 10. mars 2004).
 
 ### Tillegg 2[^1]
+
 Godkjenningsmerke og godkjenningsdokument
 
 *I. Godkjenningsmerke*

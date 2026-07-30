@@ -17,7 +17,7 @@ xml_hash: "4b89000b66509c614ddd5c5b00a2d6a99044ec8e3f2e026da60f5362539c8ceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -240,6 +240,7 @@ som endret ved
 - ► **M3** Kommisjonsforordning [(EU) 2021/382](eu/32021r0382) av 3. mars 2021
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 852/2004](eu/32004r0852*)
+
 av 29. april 2004
 om næringsmiddelhygiene
 
@@ -305,6 +306,7 @@ ut fra følgende betraktninger:
 – VEDTATT DENNE FORORDNING:]
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Virkeområde
@@ -357,6 +359,7 @@ Denne forordning får anvendelse på alle ledd i produksjonen, bearbeidingen og 
 1 EFT L 330 av 5.12.1998, s. 32. Direktivet endret ved fordning (EF) [nr. 1882/2003](eu/32003r1882).
 
 ### Kapittel II
+
 Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
 
 ### Artikkel 3. Alminnelige forpliktelser
@@ -430,6 +433,7 @@ Driftsansvarlige for næringsmiddelforetak skal også sørge for at vedkommende 
 Enhver *EØS-stat* som i henhold til nasjonal lovgivning krever at visse virksomheter som ligger på dens territorium, godkjennes som fastsatt i bokstav a), skal underrette *EFTAs overvåkingsorgan (ESA)* og de andre *EØS-statene* om relevant nasjonal lovgivning.
 
 ### Kapittel III
+
 Retningslinjer for god praksis
 
 ### Artikkel 7. Utarbeiding, formidling og bruk av retningslinjer
@@ -488,6 +492,7 @@ Formålet med denne gjennomgåelsen skal være å sikre at retningslinjene forbl
 5\. Titler på og henvisninger til fellesskapsretningslinjene som er utformet i samsvar med denne artikkel, skal offentliggjøres i C-serien av *Den europeiske unions tidende*.
 
 ### Kapittel IV
+
 Import og eksport
 
 ### Artikkel 10. Import
@@ -499,6 +504,7 @@ Når det gjelder hygiene i forbindelse med importerte næringsmidler, skal de re
 Når det gjelder hygiene i forbindelse med eksporterte eller gjeneksporterte næringsmidler, skal de relevante kravene i næringsmiddelregelverket nevnt i artikkel 12 i forordning [(EF) nr. 178/2002](eu/32002r0178), omfatte kravene som er fastsatt i artikkel 3-6 i denne forordning.
 
 ### Kapittel V
+
 Sluttbestemmelser
 
 ### Artikkel 12. Gjennomføringstiltak og overgangsbestemmelser
@@ -608,6 +614,7 @@ Utferdiget i Strasbourg, 29. april 2004.
 3 EUT L 157 av 30.4.2004, s. 33.
 
 ### Vedlegg I
+
 primærproduksjon
 
 DEL A: ALMINNELIGE HYGIENEBESTEMMELSER FOR PRIMÆRPRODUKSJON OG TILKNYTTEDE AKTIVITETER
@@ -698,6 +705,7 @@ DEL B: ANBEFALINGER FOR RETNINGSLINJER FOR GOD HYGIENEPRAKSIS
    10. tiltak knyttet til registrering.
 
 ### Vedlegg II
+
 Allmenne hygienekrav til alle driftsansvarlige for næringsmiddelforetak (unntatt når vedlegg i får anvendelse)
 
 ► **M3**
@@ -714,6 +722,7 @@ Kapittel V, Va, VI, VII, VIII, IX, X, XI, XIa og XII får anvendelse på alle le
 ◄ **M3**
 
 ### Kapittel I
+
 Allmenne krav til lokaler som brukes til næringsmidler (unntatt dem som er angitt i kapittel III)
 
 1. Lokaler der det finnes næringsmidler, skal holdes rene og i god stand.
@@ -734,6 +743,7 @@ Allmenne krav til lokaler som brukes til næringsmidler (unntatt dem som er angi
 10. Rengjøringsmidler og desinfeksjonsmidler skal ikke lagres i områder der næringsmidler håndteres.
 
 ### Kapittel II
+
 Særlige krav til lokaler der næringsmidler tilberedes, behandles eller foredles (med unntak av serveringsområder og de lokalene som er angitt i kapittel III)
 
 1. I lokaler der næringsmidler tilberedes, behandles eller foredles (med unntak av serveringsområder og de lokalene som er angitt i [kapittel III](forskrift/2008-12-22-1623/kapiii), men inkludert lokaler som utgjør en del av transportmidler), skal utformingen og planløsningen være slik at det er mulighet for god hygienepraksis for næringsmidler, herunder beskyttelse mot forurensning mellom og under arbeidsoperasjonene. Det omfatter særlig følgende:
@@ -748,6 +758,7 @@ Særlige krav til lokaler der næringsmidler tilberedes, behandles eller foredle
 3. Når det er nødvendig, skal det finnes egnede innretninger for vask av næringsmidler. Vasker eller lignende innretninger for vask av næringsmidler skal ha egnet tilførsel av varmt og/eller kaldt drikkevann i samsvar med kravene i [kapittel VII](forskrift/2008-12-22-1623/kapvii), og de skal holdes rene, og når det er nødvendig, desinfiserte.
 
 ### Kapittel III
+
 Bestemmelser som får anvendelse på flyttbare og/eller midlertidige lokaler (som f.eks. telt, markedsboder, mobile salgskjøretøyer), lokaler som fortrinnsvis brukes som privatbolig, men der næringsmidler regelmessig tilberedes for omsetning, samt salgsautomater
 
 1. Lokalene og salgsautomatene skal så langt det er praktisk mulig være plassert, utformet og konstruert og holdes rene og vedlikeholdes på en slik måte at risikoen for forurensning, særlig fra dyr og skadedyr, unngås.
@@ -763,6 +774,7 @@ Bestemmelser som får anvendelse på flyttbare og/eller midlertidige lokaler (so
    8. Næringsmidlene skal plasseres på en slik måte at risikoen for forurensning unngås så langt det er praktisk mulig.
 
 ### Kapittel IV
+
 Transport
 
 1. Transportmidler og/eller containere som brukes til transport av næringsmidler, skal holdes rene og i god stand slik at næringsmidlene beskyttes mot forurensning, og de skal når det er nødvendig, være utformet og konstruert slik at de kan rengjøres og/eller desinfiseres på en egnet måte.
@@ -774,6 +786,7 @@ Transport
 7. Når det er nødvendig, skal transportmidler og/eller containere som brukes til transport av næringsmidler, kunne holde næringsmidlene ved en hensiktsmessig temperatur og gjøre det mulig å overvåke temperaturen.
 
 ### Kapittel V
+
 Krav til utstyr
 
 1. Alle gjenstander, anlegg og utstyr som næringsmidlene kommer i kontakt med, skal:
@@ -787,6 +800,7 @@ Krav til utstyr
 3. Dersom det er nødvendig å bruke kjemiske tilsetningsstoffer for å hindre at utstyr og beholdere korroderer, skal de brukes i samsvar med god praksis.
 
 ### ► **M3** KAPITTEL Va
+
 Redistribusjon av næringsmidler
 
 Driftsansvarlige for næringsmiddelforetak kan redistribuere næringsmidler til næringsmiddeldonasjon på følgende vilkår:
@@ -814,6 +828,7 @@ Driftsansvarlige for næringsmiddelforetak kan redistribuere næringsmidler til 
 ◄ **M3**
 
 ### Kapittel VI
+
 Næringsmiddelavfall
 
 1. Næringsmiddelavfall, uspiselige biprodukter og annet avfall skal så raskt som mulig fjernes fra lokaler der det finnes næringsmidler, for å unngå at de hoper seg opp.
@@ -822,6 +837,7 @@ Næringsmiddelavfall
 4. Alt avfall skal fjernes på en hygienisk og miljøvennlig måte i samsvar med gjeldende *EØS-regelverk*, og skal ikke utgjøre en direkte eller indirekte kilde til forurensning.
 
 ### Kapittel VII
+
 Vannforsyning
 
 1. 1. Det skal være egnet tilførsel av drikkevann, som skal brukes dersom det er nødvendig for å unngå at næringsmidlene forurenses.
@@ -841,12 +857,14 @@ Vannforsyning
 6. Dersom varmebehandling benyttes til næringsmidler i hermetisk lukkede beholdere, skal det sikres at vannet som brukes til å kjøle beholderne etter varmebehandlingen, ikke er en kilde til forurensning av næringsmidlene.
 
 ### Kapittel VIII
+
 Personlig hygiene
 
 1. Alle personer som arbeider på steder der næringsmidler håndteres, skal tilstrebe en høy grad av personlig renslighet og bruke klær som er hensiktsmessige og rene, og når det er nødvendig, bruke vernetøy.
 2. Personer som lider av eller er bærere av en sykdom som kan overføres gjennom næringsmidler, eller som f.eks. har infiserte sår, hudinfeksjoner eller andre sår eller diaré, skal ikke under noen omstendighet håndtere næringsmidler eller gis adgang til et sted der næringsmidler håndteres, dersom det er fare for direkte eller indirekte forurensning. Alle personer med slike lidelser som er ansatt i et næringsmiddelforetak, og som vil kunne komme i kontakt med næringsmidler, skal umiddelbart melde fra om sykdommen eller symptomene, og om mulig om deres årsaker, til driftsansvarlige for næringsmiddelforetaket.
 
 ### Kapittel IX
+
 Bestemmelser som får anvendelse på næringsmidler
 
 1. Driftsansvarlige for næringsmiddelforetak skal ikke akseptere råvarer eller ingredienser, bortsett fra levende dyr, eller noen andre materialer som brukes i foredlingen av produkter, som det er kjent eller som det er rimelig å anta er forurenset av parasitter, sykdomsframkallende mikroorganismer, giftige stoffer, stoffer som har gått i oppløsning eller fremmede stoffer i en slik grad at sluttproduktet selv etter at næringsmiddelforetaket har benyttet vanlige hygieniske sorterings- og/eller tilberednings- eller foredlingsmetoder, fremdeles ikke er egnet til konsum.
@@ -865,6 +883,7 @@ Bestemmelser som får anvendelse på næringsmidler
 ◄ **M3**
 
 ### Kapittel X
+
 Bestemmelser som får anvendelse på innpakking og emballering av næringsmidler
 
 1. Materialer som brukes til innpakking og emballering, skal ikke utgjøre en kilde til forurensning.
@@ -873,6 +892,7 @@ Bestemmelser som får anvendelse på innpakking og emballering av næringsmidler
 4. Innpakkings- og emballeringsmaterialer som brukes om igjen til næringsmidler, skal være lette å rengjøre og, når det er nødvendig, desinfisere.
 
 ### Kapittel XI
+
 Varmebehandling
 
 Følgende krav får anvendelse bare på næringsmidler som omsettes i hermetisk lukkede beholdere:
@@ -886,6 +906,7 @@ Følgende krav får anvendelse bare på næringsmidler som omsettes i hermetisk 
 3. Prosessen som brukes, skal være i samsvar med en internasjonalt anerkjent standard (for eksempel pasteurisering, ultrahøy temperatur eller sterilisering).
 
 ### ► **M3** KAPITTEL XIa
+
 Næringsmiddeltrygghetskultur
 
 1. Driftsansvarlige for næringsmiddelforetak skal opprette, opprettholde og påvise en passende næringsmiddeltrygghetskultur ved å oppfylle følgende krav:
@@ -908,6 +929,7 @@ Næringsmiddeltrygghetskultur
 ◄ **M3**
 
 ### Kapittel XII
+
 Opplæring
 
 Driftsansvarlige for næringsmiddelforetak skal sikre at:
@@ -926,6 +948,7 @@ Se her for å lese norsk oversettelse av forordning [(EU) 2021/382](eu/32021r038
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 208/2013](eu/32013r0208) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll I til avtalen og avtalen for øvrig.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 208/2013](eu/32013r0208)
+
 av 11. mars 2013
 om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer
 
@@ -1025,6 +1048,7 @@ Utferdiget i Brussel, 11. mars 2013.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 931/2011](eu/32011r0931) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, protokoll I til avtalen og avtalen for øvrig.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 931/2011](eu/32011r0931)
+
 av 19. september 2011
 om kravene til sporbarhet fastsatt ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) for næringsmidler av animalsk opprinnelse
 
@@ -1124,6 +1148,7 @@ som endret ved:
 - ► **M11** Kommisjonsforordning [(EU) 2024/2895](eu/32024r2895) om *Listeria monocytogenes*
 
 ### KOMMISJONSFORORDNING [(EF) nr. 2073/2005](eu/32005r2073*)
+
 av 15. november 2005
 om mikrobiologiske kriterier for næringsmidler
 
@@ -1375,6 +1400,7 @@ Markos KYPRIANOU
 1 Ikrafttredelse for EFTA-statene vil skje i henhold til [EØS-komiteens beslutning nr. 137/2007](eu/22007d0137) artikkel 4.
 
 ### ► M1 Vedlegg I
+
 Mikrobiologiske kriterier for næringsmidler
 
 ### [Kapittel](forskrift/2008-12-22-1623/kap1) 1. Kriterier for næringsmiddeltrygghet
@@ -1892,6 +1918,7 @@ som endret ved
 - ► **M2** Kommisjonsforordning [(EU) 2019/978](eu/32019r0978) av 14. juni 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 579/2014](eu/32014r0579)
+
 av 28. mai 2014
 om unntak fra visse bestemmelser i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) med hensyn til sjøtransport av flytende oljer og fettstoffer
 
@@ -1986,6 +2013,7 @@ Utferdiget i Brussel, 28. mai 2014.
 |  | *President* |
 
 ### Vedlegg
+
 Liste over akseptable tidligere laster
 
 | *Stoff (synonymer)* | *CAS-nr.* |
@@ -2111,6 +2139,7 @@ Liste over akseptable tidligere laster
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 210/2013](eu/32013r0210) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 210/2013](eu/32013r0210)
+
 av 11. mars 2013
 om godkjenning av virksomheter som produserer spirer, i henhold til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)
 
@@ -2170,6 +2199,7 @@ Utferdiget i Brussel, 11. mars 2013.
 |  | *President* |
 
 ### Vedlegg
+
 Krav til godkjenning av virksomheter som produserer spirer
 
 1. Virksomhetenes utforming og planløsning skal være slik at det er mulighet for god hygienepraksis, herunder beskyttelse mot forurensning mellom og under arbeidsoperasjonene. Overflater (herunder overflater på utstyr) i områder der næringsmidler håndteres, og særlig de overflatene som kommer i kontakt med næringsmidler, skal holdes i god stand, være lette å rengjøre, og ved behov desinfisere.

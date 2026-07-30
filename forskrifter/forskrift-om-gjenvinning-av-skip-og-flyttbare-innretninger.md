@@ -15,7 +15,7 @@ xml_hash: "a1058cb5190c7d5908bf419b7d68143cb96289522cee5e546e28ed335e6f5372"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -123,6 +123,7 @@ Formatet på erklæringen om sluttført gjenvinning av skip, jf. Kommisjonens gj
 Nedenfor følger EØS-avtalen vedlegg XX nr. 32c og vedlegg XIII nr. 56b slik Klima- og miljødepartementet forstår denne med endringer og tillegg som følger av vedlegg XX nr. 32fh, vedlegg XIII og vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 1257/2013](eu/32013r1257)
+
 av 20. november 2013
 om gjenvinning av skip og om endring av forordning [(EF) nr. 1013/2006](eu/32006r1013*) og direktiv [2009/16/EF](eu/32009l0016*)
 
@@ -190,6 +191,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### AVDELING I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål
@@ -272,6 +274,7 @@ Uten at det berører europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l00
 3 Europaparlaments- og rådsdirektiv [2005/36/EF](eu/32005l0036*) av 7. september 2005 om godkjenning av yrkeskvalifikasjoner (EUT L 255 av 30.9.2005, s. 22).
 
 ### AVDELING II
+
 SKIP
 
 ### Artikkel 4. Kontroll av farlige materialer
@@ -476,6 +479,7 @@ Bruk av farlige materialer nevnt i vedlegg I på skip som seiler under en tredje
 8\. Med forbehold for artikkel 32 nr. 2 bokstav b) skal skip som seiler under en tredjestats flagg og søker om å bli registrert under en *EØS-stats* flagg, sikre at en fortegnelse over farlige materialer som fastsatt i artikkel 5 nr. 2 oppbevares om bord eller utarbeides innen seks måneder fra registreringen under den gjeldende *EØS-statens* flagg eller i løpet av neste besiktelse i henhold til artikkel 8 nr. 3, alt etter hvilken dato som kommer først.
 
 ### AVDELING III
+
 SKIPSGJENVINNINGSANLEGG
 
 ### Artikkel 13. Nødvendige krav til skipsgjenvinningsanlegg som skal oppføres på den europeiske listen
@@ -603,6 +607,7 @@ Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevn
 *For denne artikkels formål skal EFTAs overvåkingsorgan melde til kommisjonen all relevant informasjon det mottar fra EFTA-statene i henhold til første avsnitt av artikkel 14*.
 
 ### AVDELING IV
+
 GENERELLE ADMINISTRATIVE BESTEMMELSER
 
 ### Artikkel 17. Språk
@@ -630,6 +635,7 @@ GENERELLE ADMINISTRATIVE BESTEMMELSER
 Dersom medlemsstatene ber om det, eller dersom det ellers er hensiktsmessig, skal Kommisjonen med jevne mellomrom avholde et møte med kontaktpersonene for å drøfte spørsmål som oppstår i forbindelse med gjennomføringen av denne forordning. Dersom alle medlemsstatene og Kommisjonen er enige om at det er hensiktsmessig, skal relevante berørte parter inviteres til slike møter eller til deler av slike møter.
 
 ### AVDELING V
+
 RAPPORTERING OG HÅNDHEVING
 
 ### Artikkel 21. Rapporter fra EØS-statene
@@ -677,6 +683,7 @@ Den interessen som en hvilken som helst ikke-statlig organisasjon som arbeider f
 1 Europaparlaments- og rådsforordning [(EF) nr. 1367/2006](eu/32006r1367) av 6. september 2006 om anvendelse på fellesskapsinstitusjoner og -organer av bestemmelsene i [Århus-konvensjonen](traktat/1998-06-25-1) om tilgang til miljøinformasjon, allmenn deltaking i beslutningsprosesser og tilgang til rettsmidler i miljøspørsmål (EUT L 264 av 25.9.2006, s. 13).
 
 ### AVDELING VI
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 24. Utøvelse av delegert myndighet
@@ -766,6 +773,7 @@ Utferdiget i Strasbourg 20. november 2013.
 | *President* | *Formann* |
 
 ### VEDLEGG I
+
 KONTROLL AV FARLIGE MATERIALER
 
 | *Farlig materiale* | *Definisjoner* | *Kontrolltiltak* |
@@ -782,6 +790,7 @@ KONTROLL AV FARLIGE MATERIALER
 2 Europaparlaments- og rådsforordning [(EF) nr. 850/2004](eu/32004r0850*) av 29. april 2004 om persistente organiske forurensende stoffer og om endring av direktiv [79/117/EØF](eu/31979l0117) (EUT L 158 av 30.4.2004, s. 7).
 
 ### VEDLEGG II
+
 LISTE OVER POSTER TIL FORTEGNELSEN OVER FARLIGE MATERIALER
 
 1. Farlige materialer som er oppført i vedlegg I
@@ -1064,6 +1073,7 @@ Utferdiget i Hongkong, Kina, 15. mai 2009
 Som bekreftelse på dette har de undertegnede, som er behørig autorisert til det av sine respektive regjeringer, undertegnet denne konvensjonen.
 
 ### VEDLEGG
+
 REGLER FOR SIKKER OG MILJØMESSIG FORSVARLIG GJENVINNING AV SKIP
 
 ### KAPITTEL 1 – GENERELLE BESTEMMELSER
@@ -1438,6 +1448,7 @@ Skipsgjenvinningsanlegg som er autorisert av en part, skal utforme og vedlikehol
 Når delvis eller fullstendig gjenvinning av et skip er fullført i samsvar med kravene i denne konvensjonen, skal skipsgjenvinningsanlegget utstede en erklæring om sluttført gjenvinning og rapportere den til sin(e) kompetente myndighet(er). Erklæringen skal utarbeides i samsvar med malen i tillegg 7. Den eller de kompetente myndigheten(e) skal sende en kopi av erklæringen til administrasjonen som utstedte det internasjonale sertifikatet for gjenvinningsklart skip. Erklæringen skal utstedes innen 14 dager etter datoen for delvis eller fullstendig skipsgjenvinning i samsvar med skipsgjenvinningsplanen og skal inneholde en rapport om eventuelle hendelser og ulykker som har forårsaket skade på menneskers helse og/eller miljøet.
 
 ### Tillegg 1
+
 Kontroller av farlige materialer
 
 | *Farlig materiale* | *Definisjoner* | *Kontrolltiltak* |
@@ -1448,6 +1459,7 @@ Kontroller av farlige materialer
 | Grohemmende forbindelser og systemer | Grohemmende forbindelser og systemer som reguleres gjennom vedlegg I til den internasjonale konvensjonen om regulering av skadelige bunnstoffsystemer på skip (AFS-konvensjonen), 2001, som er gjeldende på tidspunktet for anvendelsen eller tolkningen av dette vedlegget. | 1 Ingen skip kan bruke grohemmende systemer som inneholder organiske tinnforbindelser som biocid eller andre grohemmende systemer som AFS-konvensjonen forbyr bruken av.<br><br>2 Ingen nye skip eller nye installeringer på skip kan bruke grohemmende forbindelser eller systemer på en måte som ikke er i samsvar med AFS-konvensjonen. |
 
 ### Tillegg 2
+
 Minimumsliste over poster til fortegnelsen over farlige materialer
 
 - Farlige materialer som er oppført i tillegg 1

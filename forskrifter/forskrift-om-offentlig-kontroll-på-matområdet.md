@@ -17,7 +17,7 @@ xml_hash: "924931401ced17a70e0e1ba55923d52e92c202a9bb36768653c193538b9ff3cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,6 +69,7 @@ som endret ved:
 ►**M3** Forordning [(EU) 2021/1756](eu/32021r1756) av 6. oktober 2021
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) 2017/625](eu/32017r0625*)
+
 av 15. mars 2017
 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)
 
@@ -283,6 +284,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### AVDELING I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -413,9 +415,11 @@ I denne forordning menes med
 51 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1).
 
 ### Avdeling II
+
 OFFENTLIG KONTROLL OG ANNEN OFFENTLIG VIRKSOMHET I MEDLEMSSTATENE
 
 ### KAPITTEL I
+
 Vedkommende myndigheter
 
 ###### Artikkel 4
@@ -510,6 +514,7 @@ For dette formålet skal medlemsstatene sikre at det fastsettes en hensiktsmessi
 2. Opplysningene som offentliggjøres eller på annen måte gjøres tilgjengelig for offentligheten, tar hensyn til eventuelle merknader fra den berørte driftsansvarlige eller offentliggjøres eller frigis sammen med slike merknader.
 
 ### KAPITTEL II
+
 Offentlig kontroll
 
 ###### Avsnitt I
@@ -1013,6 +1018,7 @@ Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende 
 3\. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til alvorlig risiko for menneskers eller dyrs helse eller for miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
 
 ### KAPITTEL III
+
 Delegering av visse av vedkommende myndigheters oppgaver
 
 ###### Artikkel 28
@@ -1095,6 +1101,7 @@ Vedkommende myndigheter som har delegert visse offentlige kontrolloppgaver til o
    Denne bokstav skal ikke hindre de vedkommende myndighetene i å tilbakekalle delegeringen av andre årsaker enn dem nevnt i denne forordning.
 
 ### KAPITTEL IV
+
 Prøvetaking, analyser, undersøkelser og diagnostisering
 
 ###### Artikkel 34
@@ -1270,6 +1277,7 @@ Midlertidige unntak fra vilkårene om obligatorisk akkreditering av offentlige l
 4\. De offentlige laboratoriene som er utpekt i samsvar med nr. 1, skal ligge i de medlemsstatene på hvis territorium de vedkommende myndighetene som utpekte dem, befinner seg.
 
 ### KAPITTEL V
+
 Offentlig kontroll av dyr og varer som innføres til Unionen
 
 ###### Artikkel 43
@@ -1918,6 +1926,7 @@ Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedy
 61 Rådsforordning [(EF) nr. 1005/2008](eu/32008r1005*) av 29. september 2008 om opprettelse av en fellesskapsordning for å forebygge, avverge og stanse ulovlig, urapportert og uregulert fiske, om endring av forordning [(EØF) 2847/93](eu/31993r2847), (EF) [nr. 1936/2001](eu/32001r1936) og (EF) [nr. 601/2004](eu/32004r0601) og om oppheving av forordning [(EF) nr. 1093/94](eu/31994r1093) og (EF) [nr. 1447/1999](eu/31999r1447) (EUT L 286 av 29.10.2008, s. 1).
 
 ### KAPITTEL VI
+
 Finansiering av offentlig kontroll og annen offentlig virksomhet
 
 ###### Artikkel 78
@@ -2028,6 +2037,7 @@ Innsyn
 3\. Medlemsstatene skal rådføre seg med berørte parter om de generelle metodene som brukes for å beregne gebyrene eller avgiftene fastsatt i artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80.
 
 ### KAPITTEL VII
+
 Offentlig attestering
 
 ###### Artikkel 86
@@ -2128,6 +2138,7 @@ Offisielle attestasjoner
 2. attestasjonen utstedes på grunnlag av relevante, korrekte og kontrollerbare forhold og data.
 
 ### AVDELING III
+
 REFERANSELABORATORIER OG REFERANSESENTRE
 
 ### Artikkel 92. Beslutning om å opprette et EU-referanselaboratorium
@@ -2323,6 +2334,7 @@ Som unntak fra artikkel 37 nr. 4 bokstav e) i denne artikkel kan vedkommende myn
 2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av ansvarsområder og oppgaver for nasjonale referanselaboratorier i tillegg til dem som er fastsatt i nr. 1 i denne artikkel. Slike delegerte rettsakter skal begrenses til å sikre sammenheng med eventuelle ytterligere ansvarsområder og oppgaver vedtatt i samsvar med artikkel 99 nr. 2.
 
 ### AVDELING IV
+
 ADMINISTRATIV BISTAND OG SAMARBEID
 
 ### Artikkel 102. Alminnelige regler
@@ -2441,6 +2453,7 @@ I slike tilfeller skal personalet hos de anmodende vedkommende myndighetene
 3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for rask utveksling av opplysninger i tilfellene nevnt i nr. 1.
 
 ### AVDELING V
+
 PLANLEGGING OG RAPPORTERING
 
 ### Artikkel 109. Flerårige nasjonale kontrollplaner (MANCP) og ett organ for flerårige nasjonale kontrollplaner
@@ -2538,9 +2551,11 @@ Disse gjennomføringsrettsaktene skal, når det er mulig, tillate bruk av de sta
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### AVDELING VI
+
 UNIONENS VIRKSOMHET
 
 ### KAPITTEL I
+
 Kommisjonens kontroll
 
 ###### Artikkel 116
@@ -2677,6 +2692,7 @@ Tredjestaters kontroll i medlemsstatene
 3. tilrettelegge for sammenheng og ensartethet i den kontrollen som tredjestatens vedkommende myndigheter gjennomfører i forskjellige medlemsstater.
 
 ### KAPITTEL II
+
 Vilkår for innførsel til Unionen av dyr og varer
 
 ###### Artikkel 125
@@ -2779,6 +2795,7 @@ Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedy
 3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter umiddelbart oppheve gjennomføringsrettsaktene fastsatt i nr. 1 i denne artikkel dersom noen av vilkårene for å anerkjenne likeverdighet ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### KAPITTEL III
+
 Opplæring av personale hos vedkommende myndigheter og hos andre myndigheter
 
 ###### Artikkel 130
@@ -2808,6 +2825,7 @@ Slik utveksling kan skje gjennom midlertidig utplassering av personale fra de ve
 6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for organisering av opplæringen nevnt i nr. 1 og for programmene nevnt i nr. 5 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### KAPITTEL IV
+
 Informasjonsstyringssystem
 
 ###### Artikkel 131
@@ -2888,9 +2906,11 @@ Datasikkerhet
 Medlemsstatene og Kommisjonen skal sikre at IMSOC overholder reglene for datasikkerhet som er vedtatt av Kommisjonen i henhold til henholdsvis artikkel 17 i direktiv [95/46/EF](eu/31995l0046) og artikkel 22 i forordning [(EF) nr. 45/2001](eu/32001r0045*).
 
 ### AVDELING VII
+
 HÅNDHEVINGSTILTAK
 
 ### KAPITTEL I
+
 Tiltak fra vedkommende myndigheters side og sanksjoner
 
 ###### Artikkel 137
@@ -2965,6 +2985,7 @@ Rapportering av overtredelser
 3. vern av personopplysninger om den personen som rapporterer en overtredelse i samsvar med unionsretten og nasjonal rett.
 
 ### KAPITTEL II
+
 Unionens håndhevingstiltak
 
 ###### Artikkel 141
@@ -2985,9 +3006,11 @@ Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedy
 3\. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, til vern av miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
 
 ### AVDELING VIII
+
 FELLES BESTEMMELSER
 
 ### KAPITTEL I
+
 Saksbehandlingsbestemmelser
 
 ###### Artikkel 142
@@ -3035,6 +3058,7 @@ Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til g
 3\. Når det vises til dette nummer, får artikkel 8 i forordning [(EU) nr. 182/2011](eu/32011r0182) sammenholdt med artikkel 5 i samme forordning anvendelse.
 
 ### KAPITTEL II
+
 Overgangs- og sluttbestemmelser
 
 ###### Artikkel 146
@@ -3492,6 +3516,7 @@ Utferdiget i Strasbourg 15. mars 2017.
 |  | I. BORG | A. TAJANI |
 
 ### VEDLEGG I
+
 TERRITORIER NEVNT I ARTIKKEL 3 NR. 40, UNNTATT I FORBINDELSE MED ANVENDELSEN AV ARTIKKEL 1 NR. 2 BOKSTAV G)
 
 1. Kongeriket Belgias territorium
@@ -3524,9 +3549,11 @@ TERRITORIER NEVNT I ARTIKKEL 3 NR. 40, UNNTATT I FORBINDELSE MED ANVENDELSEN AV 
 28. Det forente kongerike Storbritannia og Nord-Irlands territorium
 
 ### VEDLEGG II
+
 OPPLÆRING AV VEDKOMMENDE MYNDIGHETERS PERSONALE
 
 ### KAPITTEL I
+
 Emner i opplæringen av personale som gjennomfører offentlig kontroll og annen offentlig virksomhet
 
 1. Forskjellige kontrollmetoder og -teknikker, for eksempel inspeksjon, verifisering, screening, målrettet screening, prøvetaking og laboratorieanalyse, -undersøkelse og -diagnostisering.
@@ -3545,6 +3572,7 @@ Emner i opplæringen av personale som gjennomfører offentlig kontroll og annen 
 14. Alle andre nødvendige områder for å sikre at offentlig kontroll gjennomføres i samsvar med denne forordning.
 
 ### KAPITTEL II
+
 Områder som kontrollprosedyrene skal omfatte
 
 1. De vedkommende myndighetenes organisering og forholdet mellom sentrale vedkommende myndigheter og de myndighetene de har delegert oppgaven med å gjennomføre offentlig kontroll eller annen offentlig virksomhet til.
@@ -3560,6 +3588,7 @@ Områder som kontrollprosedyrene skal omfatte
 11. All annen virksomhet eller andre opplysninger som kreves for at den offentlige kontrollen skal fungere effektivt.
 
 ### VEDLEGG III
+
 KARAKTERISERING AV ANALYSEMETODER
 
 1. Analysemetodene og resultatene av målingene bør kjennetegnes av følgende kriterier:
@@ -3585,6 +3614,7 @@ KARAKTERISERING AV ANALYSEMETODER
 ### VEDLEGG IV
 
 ### KAPITTEL I
+
 Gebyrer eller avgifter for offentlig kontroll av forsendelser av dyr og varer som innføres til Unionen
 
 1. FORSENDELSER AV LEVENDE DYR
@@ -3733,6 +3763,7 @@ Gebyrer eller avgifter for offentlig kontroll av forsendelser av dyr og varer so
    Når en forsendelse ikke utelukkende består av produkter som omfattes av beskrivelsen i det relevante strekpunktet, skal de delene av forsendelsen som består av produkter som omfattes av beskrivelsen i det relevante strekpunktet (partiet eller partiene), behandles som en separat forsendelse.
 
 ### KAPITTEL II
+
 Gebyrer eller avgifter for offentlig kontroll på slakterier, nedskjæringsanlegg og viltbehandlingsanlegg, av melkeproduksjon og av produksjon og omsetning av fiskerivarer og akvakulturprodukter
 
 1. GEBYRER ELLER AVGIFTER FOR OFFENTLIG KONTROLL PÅ SLAKTERIER
@@ -3799,6 +3830,7 @@ Gebyrer eller avgifter for offentlig kontroll på slakterier, nedskjæringsanleg
       2. 0,5 euro per tonn ut over dette.
 
 ### VEDLEGG V
+
 SAMMENLIGNINGSTABELLENE NEVNT I ARTIKKEL 146 NR. 2
 
 1\. Forordning [(EF) nr. 882/2004](eu/32004r0882*)
@@ -4590,6 +4622,7 @@ Nedenfor gjengis til informasjon [EØS-avtalen vedlegg II kapittel XII](avtale/a
 ►**B** Kommisjonens gjennomføringsforordning [(EU) 2024/2463](eu/32024r2463) av 12. september 2024
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2024/2463](eu/32024r2463)
+
 av 12. september 2024
 om fastsettelse av analysemetoder for offentlig kontroll som gjennomføres for å verifisere at driftsansvarlige for næringsmiddelforetak overholder forordning [(EF) nr. 2073/2005](eu/32005r2073)
 

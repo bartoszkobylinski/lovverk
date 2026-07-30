@@ -15,7 +15,7 @@ xml_hash: "3bd8adb78a73c073d393f6b060f63fdda50da14d46b0b06e2c97d9ba113aa20b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,6 +68,7 @@ Forskriften trer i kraft straks.
 ## Vedlegg A
 
 ### RÅDSFORORDNING (EU) 2024/2642
+
 av 8. oktober 2024 om restriktive tiltak i lys av Russlands destabiliserende aktiviteter
 
 ### Artikkel 1
@@ -308,6 +309,7 @@ Denne forordningen trer i kraft dagen etter at den er kunngjort i Den europeiske
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Liste over fysiske og juridiske personer, enheter og organer som nevnt i [artikkel 2](forskrift/2025-03-14-466/a2)
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en).
@@ -317,6 +319,7 @@ Listeførte med landkode («programme») RUSDA – RUSSIA er listeført under de
 > Endret ved forskrifter [28 mai 2025 nr. 896](forskrift/2025-05-28-896), [8 juli 2025 nr. 1505](forskrift/2025-07-08-1505) (i kraft 10 juli 2025).
 
 ### Vedlegg II
+
 Nettsider med opplysninger om kompetente myndigheter og om adresser for å underrette kommisjonen
 
 - BELGIA

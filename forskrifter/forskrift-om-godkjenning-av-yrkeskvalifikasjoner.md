@@ -15,7 +15,7 @@ xml_hash: "cf48ab714179b9b55642681c74ccad708c0820fc77c2f2032299ed7dc22ffbf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -690,9 +690,11 @@ Forskriften trer i kraft 1. januar 2018 med unntak av bestemmelsene i [kapittel 
 ## Vedlegg 1: Virksomhet knyttet til kategoriene av yrkeserfaring som vist til i § 4-2 til § 4-4 og yrkeskvalifikasjonsdirektivets artikkel 17, 18 og 19
 
 ### Liste I
+
 Næringshovedgrupper som omfattes av direktiv 64/427/EØF, endret ved direktiv 69/77/EØF, og av direktiv 68/366/EØF og 82/489/EØF
 
 ### 1
+
 (liberaliseringsdirektiv 64/429/EØF)
 NICE-nomenklatur (tilsvarer Nærings- hovedgruppene 23–40 ISIC)
 
@@ -799,6 +801,7 @@ NICE-nomenklatur (tilsvarer Nærings- hovedgruppene 23–40 ISIC)
 |  | 404 | Innredningsvirksomhet |
 
 ### 2
+
 Direktiv 68/366/EØF
 (liberaliseringsdirektiv 68/365/EØF)
 NICE-nomenklatur
@@ -825,6 +828,7 @@ NICE-nomenklatur
 |  | 304 | Produksjon av stivelsesprodukter |
 
 ### 3
+
 Direktiv 82/489/EØF
 ISIC-nomenklatur
 
@@ -833,9 +837,11 @@ ISIC-nomenklatur
 | ex 855 | frisørvirksomhet (unntatt fotterapeutvirksomhet og fagskoler for skjønnhetspleie) |
 
 ### Liste II
+
 Næringshovedgrupper som omfattes av direktiv 75/368/EØF, 75/369/EØF, og 82/470/EØF
 
 ### 1
+
 Direktiv 75/368/EØF (virksomhet vist til i artikkel 5 nr. 1))
 ISIC-nomenklatur
 
@@ -860,6 +866,7 @@ ISIC-nomenklatur
 |  | ex 859 | Personlige tjenesteytelser ikke nevnt andre steder (kun vedlikehold og rengjøring av bygninger eller lokaler) |
 
 ### 2
+
 Direktiv 75/369/EØF (artikkel 6: der virksomheten anses for å være industri- eller håndverksvirksomhet)
 ISIC-nomenklatur
 
@@ -872,6 +879,7 @@ Følgende virksomhet utenom fast utsalgssted:
 2. virksomhet som omfattes av overgangstiltak som allerede er vedtatt, og som uttrykkelig utelukker eller unnlater å nevne utøvelse av slik virksomhet utenom fast utsalgssted.
 
 ### 3
+
 Direktiv 82/470/EØF (artikkel 6 nr. 1) og 3))
 Gruppe 718 og 720 i ISIC-nomenklaturen
 
@@ -892,9 +900,11 @@ Virksomheten består særlig i
   De virksomheter som det er vist til i artikkel 2 avsnitt A) bokstav a), b) og d).
 
 ### Liste III
+
 Direktiv 64/222/EØF, 68/364/EØF, 68/368/EØF, 75/368/EØF, 75/369/EØF, 70/523/EØF og 82/470/EØF
 
 ### 1
+
 Direktiv 64/222/EØF
 (liberaliseringsdirektiv 64/223/EØF og 64/224/EØF)
 
@@ -907,6 +917,7 @@ Direktiv 64/222/EØF
 7. Virksomhet som består i forretningsmessig ytelse av tjenester gjennom en lønnet mellommann som er i lønnet arbeid ved et eller flere foretak innenfor handel, industri eller håndverk.
 
 ### 2
+
 Direktiv 68/364/EØF
 (liberaliseringsdirektiv 68/363/EØF)
 
@@ -929,6 +940,7 @@ Virksomheter som ikke omfattes:
 | 859 | Utleie av klær |
 
 ### 3
+
 Direktiv 68/368/EØF
 (liberaliseringsdirektiv 68/367/EØF)
 ISIC-nomenklatur
@@ -939,6 +951,7 @@ Ex Næringshovedgruppe 85 ISIC:
 2. Hoteller og andre overnattingssteder og campingplasser (næringsgruppe 853 ISIC)
 
 ### 4
+
 Direktiv 75/368/EØF (artikkel 7)
 All virksomhet oppført i vedlegget til direktiv 75/368/EØF, bortsett fra virksomhet som vist til i artikkel 5 nr. 1 i dette direktiv (liste II nr. 1 i dette vedlegg).
 ISIC-nomenklatur
@@ -960,6 +973,7 @@ ISIC-nomenklatur
 |  | ex 859 | Personlige tjenesteytelser ikke nevnt andre steder, unntatt idrettsmassasje og paramedisinsk massasje utført av ikke-legeutdannede personer, og dessuten fjellførervirksomhet, gruppert som følger:<br>– Desinfeksjon og skadedyrbekjempelse<br>– Utleie av klær og oppbevaring<br>– Ekteskapsbyråer og liknende virksomhet<br>– Virksomhet som har karakter av sannsiger- og spådomsvirksomhet<br>– Tjenester innenfor hygiene og virksomhet knyttet til dette<br>– Begravelsesbyråer og vedlikehold av kirkegårder<br>– Reiseledere og turisttolker |
 
 ### 5
+
 Direktiv 75/369/EØF (artikkel 5)
 
 Følgende virksomhet utenom fast utsalgssted:
@@ -971,11 +985,13 @@ Følgende virksomhet utenom fast utsalgssted:
 2. virksomhet som omfattes av overgangstiltak som allerede er vedtatt, og som uttrykkelig utelukker eller unnlater å nevne utøvelse av slik virksomhet utenom fast utsalgssted.
 
 ### 6
+
 Direktiv 70/523/EØF
 
 Selvstendig virksomhet innenfor engroshandel med kull og mellommannsvirksomhet på kullsektoren (ex næringsgruppe 6112 ISIC).
 
 ### 7
+
 Direktiv 82/470/EØF (artikkel 6 nr. 2))
 
 De virksomheter det er vist til i artikkel 2 avsnitt A) bokstav c) og e), avsnitt B) bokstav b), avsnitt C) og avsnitt D).

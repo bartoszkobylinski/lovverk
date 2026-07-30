@@ -15,7 +15,7 @@ xml_hash: "2bddf911ebe128010854a4ac9156b99db6ef0595989c36676ccf339bc85d5749"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,6 +75,7 @@ Forskriften trer i kraft straks.
 Konsolidert versjon av 31. januar 2014.
 
 ### RÅDSFORORDNING [(EU) NR. 101/2011](eu/32011r0101)
+
 av 4. februar 2011
 om restriktive tiltak
 mot visse personer, enheter og organer i lys av situasjonen i Tunisia
@@ -235,11 +236,13 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ## Vedlegg I
+
 List of persons and entities referred to in Article 2
 
 EUs konsoliderte liste over personer, enheter eller organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). Listeførte med landkode («programme») TUN er listeført under denne forskrift.
 
 ## Vedlegg II
+
 LIST OF COMPETENT AUTHORITIES IN THE MEMBER STATES REFERRED TO IN ARTICLES 4(1) AND 5(1), ARTICLE 7 AND ARTICLE 9(1)(a) AND ADDRESS FOR NOTIFICATIONS TO THE EUROPEAN COMMISSION
 
 ### A. Competent authorities in each Member State:

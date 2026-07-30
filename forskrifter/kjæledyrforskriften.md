@@ -15,7 +15,7 @@ xml_hash: "50235ff8d69988b17054996dd962b1a1c302bf1f9596ae26cf2728bef45b7f1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -153,6 +153,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 576/
 ►**B**
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 576/2013](eu/32013r0576)
+
 av 12. juni 2013
 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998)
 
@@ -250,6 +251,7 @@ ut fra følgende betraktninger
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Formål
@@ -304,11 +306,13 @@ Ikke-kommersiell forflytning av kjæledyr som oppfyller kravene til dyrehelse fa
 6\. Kommisjonen skal framlegge en rapport for Europaparlamentet og Rådet om gjennomføringen av denne artikkel senest 29. juni 2018. På grunnlag av sin rapport skal Kommisjonen når det er nødvendig foreslå endringer av denne forordning.
 
 ### Kapittel II[^\*]
+
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat
 
 \* Tilpasningstekst fra EØS-komitébeslutning nr. 66/2016: «Norge skal ikke anses som tredjestat». Dette innebærer at forflytning mellom EU-stater og Norge skal følge reglene i kapittel II.
 
 ### Avsnitt 1
+
 Kjæledyr av artene oppført i del A i vedlegg I
 
 ###### Artikkel 6
@@ -372,6 +376,7 @@ Fellessøknaden skal inneholde tilstrekkelige, pålitelige og vitenskapelig doku
 6\. Av behørig begrunnede, tvingende hasteårsaker knyttet til risikoer for menneskers eller dyrs helse skal Kommisjonen vedta gjennomføringsrettsakter som får anvendelse umiddelbart om ajourføring av listen over medlemsstater eller deler av medlemsstater nevnt i nr. 2 i denne artikkel etter framgangsmåten omhandlet i artikkel 41 nr. 3.
 
 ### Avsnitt 2
+
 Kjæledyr av artene oppført i del B i vedlegg I
 
 ###### Artikkel 9
@@ -392,11 +397,13 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i del B
 2. ikke er strengere enn dem som får anvendelse på handel med dyr av disse artene i samsvar med direktiv [92/65/EØF](eu/31992l0065*) eller [2006/88/EF](eu/32006l0088*).
 
 ### Kapittel III[^\*]
+
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra et territorium eller en tredjestat
 
 \* Tilpasningstekst fra EØS-komitébeslutning nr. 66/2016: «Norge skal ikke anses som tredjestat». Dette innebærer at forflytning mellom EU-stater og Norge skal følge reglene i kapittel II, ikke kapittel III.
 
 ### Avsnitt 1
+
 Kjæledyr av artene oppført i del A i vedlegg I
 
 ###### Artikkel 10
@@ -474,6 +481,7 @@ Utarbeiding av en liste over territorier og tredjestater
 Av behørig begrunnede, tvingende hasteårsaker knyttet til risikoer for menneskers eller dyrs helse skal Kommisjonen vedta gjennomføringsrettsakter som får anvendelse umiddelbart om ajourføring av listen over territorier eller tredjestater nevnt i nr. 1 og 2 i denne artikkel etter framgangsmåten omhandlet i artikkel 41 nr. 3.
 
 ### Avsnitt 2
+
 Kjæledyr av artene oppført i del B i vedlegg I
 
 ###### Artikkel 14
@@ -501,6 +509,7 @@ Utarbeiding av en liste over territorier og tredjestater
 Kommisjonen kan gjennom en gjennomføringsrettsakt vedta en liste over territorier og tredjestater som har vist at de for kjæledyr av artene oppført i del B i vedlegg I anvender regler med samme innhold og virkning som reglene fastsatt i avsnitt 2 i kapittel II, i dette avsnitt og i avsnitt 2 i kapittel VI samt eventuelle regler som er vedtatt i henhold til disse reglene.
 
 ### Avsnitt 3
+
 Unntak fra vilkårene for ikke-kommersiell forflytning av kjæledyr
 
 ###### Artikkel 16
@@ -531,9 +540,11 @@ Som unntak fra artikkel 10 og 14 kan ikke-kommersiell forflytning av kjæledyr m
 \* Ifølge tilpasningstekst til forordningen i EØS-beslutning nr. 66/2016 skal Norge ikke regnes som tredjestat. Artikkel 16 bokstav f) er i kapittel III i forordning [(EU) nr. 576/2013](eu/32013r0576). Artikkel 16 bokstav f) regulerer derfor ikke forflytning mellom Norge og Sverige direkte.
 
 ### Kapittel IV
+
 Merking og forebyggende helsetiltak
 
 ### Avsnitt 1
+
 Merking
 
 ###### Artikkel 17
@@ -555,6 +566,7 @@ Kvalifikasjonskrav ved implantering av signalgivere i kjæledyr
 Når en medlemsstat har til hensikt å tillate at en annen person enn en veterinær implanterer signalgivere, skal den fastsette regler for de minstekvalifikasjonene disse personene må ha.
 
 ### Avsnitt 2
+
 Forebyggende helsetiltak mot andre sykdommer eller infeksjoner enn rabies
 
 ###### Artikkel 19
@@ -581,9 +593,11 @@ Liste over medlemsstater eller deler av medlemsstater nevnt i artikkel 19 nr. 3 
 Kommisjonen kan gjennom en gjennomføringsrettsakt vedta lister over medlemsstater eller deler av medlemsstatenes territorium som følger reglene for kategorisering av medlemsstater eller deler av medlemsstater som nevnt i artikkel 19 nr. 3 bokstav a). Gjennomføringsrettsakten skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 41 nr. 2.
 
 ### Kapittel V
+
 Identifikasjonsdokumenter
 
 ### Avsnitt 1
+
 Identifikasjonsdokumenter for ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat av kjæledyr av artene oppført i del A i vedlegg I
 
 ###### Artikkel 21
@@ -643,6 +657,7 @@ Unntak fra formatet for identifikasjonsdokumentet fastsatt i artikkel 21 nr. 1
 2\. Om nødvendig skal samsvar med kravene nevnt i artikkel 6 bokstav c) dokumenteres i identifikasjonsdokumentet nevnt i nr. 1, etter at kontrollene i artikkel 34 nr. 1 er fullført.
 
 ### Avsnitt 2
+
 Identifikasjonsdokumenter for ikke-kommersiell forflytning til en medlemsstat fra et territorium eller en tredjestat av kjæledyr av artene oppført i del A i vedlegg I
 
 ###### Artikkel 25
@@ -689,6 +704,7 @@ Som unntak fra artikkel 25 nr. 1 skal medlemsstatene tillate ikke-kommersiell fo
    2. gjennomgikk en titrering av rabiesantistoffer som fastsatt i artikkel 10 nr. 1 bokstav c), unntatt i tilfelle av unntak som fastsatt i artikkel 12.
 
 ### Avsnitt 3
+
 Identifikasjonsdokumenter for ikke-kommersiell forflytning til en medlemsstat fra en annen medlemsstat av kjæledyr av artene oppført i del B i vedlegg I
 
 ###### Artikkel 28
@@ -720,6 +736,7 @@ Utstedelse og utfylling av identifikasjonsdokumentet nevnt i artikkel 9 nr. 2 bo
 2\. Etter å ha kontrollert at kjæledyret er merket eller beskrevet i samsvar med artikkel 17 nr. 2 skal en autorisert veterinær fylle ut de relevante rubrikkene i identifikasjonsdokumentet nevnt i artikkel 9 nr. 2 bokstav c) med opplysningene omhandlet i artikkel 28 nr. 1 bokstav d) og f), og når det relevant dermed bekrefte at vilkårene fastsatt i artikkel 9 nr. 2 bokstav b) er oppfylt.
 
 ### Avsnitt 4
+
 Identifikasjonsdokumenter for ikke-kommersiell forflytning til en medlemsstat fra et territorium eller en tredjestat av kjæledyr av artene oppført i del B i vedlegg I
 
 ###### Artikkel 30
@@ -752,9 +769,11 @@ Identifikasjonsdokumentet omhandlet i artikkel 14 nr. 2 bokstav c) skal utstedes
 2. behørig har utfylt de relevante rubrikkene i identifikasjonsdokumentet med de opplysningene som angis i artikkel 30 nr. 1 bokstav a)–f), og dermed, når det er relevant, bekrefter at vilkårene fastsatt i artikkel 14 nr. 2 bokstav a) og bokstav b), er oppfylt.
 
 ### Kapittel VI
+
 Felles bestemmelser
 
 ### Avsnitt 1
+
 Unntak fra ikke-kommersiell forflytning av kjæledyr til medlemsstater
 
 ###### Artikkel 32
@@ -772,6 +791,7 @@ Unntak fra vilkårene i artikkel 6, 9, 10 og 14
 2\. Tillatelsen nevnt i nr. 1 bokstav a) kan omfatte en tillatelse til transitt gjennom en annen medlemsstat, forutsatt at transittmedlemsstaten gitt bestemmelsesmedlemsstaten sitt forhåndssamtykke til dette.
 
 ### Avsnitt 2
+
 Alminnelige vilkår om samsvar
 
 ###### Artikkel 33
@@ -860,6 +880,7 @@ Opplysningsplikt
 2. opplysningene nevnt i nr. 2 bokstav b), d) og e) i denne artikkel, og opplysningene som er gjort tilgjengelige for allmennheten som nevnt i artikkel 2 nr. 2 bokstav b) på eventuelle ytterligere språk.
 
 ### Avsnitt 3
+
 Bestemmelser om framgangsmåter
 
 ###### Artikkel 38
@@ -911,6 +932,7 @@ Medlemsstatene skal fastsette regler for sanksjoner mot overtredelser av denne f
 Medlemsstatene skal omgående underrette Kommisjonen om disse bestemmelsene og om alle senere endringer av den.
 
 ### Kapittel VII
+
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 43. Oppheving
@@ -964,6 +986,7 @@ Utferdiget i Strasbourg, 12. juni 2013.
 | *President* | *President* |
 
 ### Vedlegg I
+
 Arter av kjæledyr
 
 ### Del A
@@ -987,6 +1010,7 @@ Fugler: andre eksemplarer av fuglearter enn dem som er nevnt i artikkel 2 i dire
 Pattedyr: andre gnagere og kaniner enn dem som er beregnet på næringsmiddelproduksjon og definert under «haredyr» i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*).
 
 ### Vedlegg II
+
 Tekniske krav til signalgivere
 
 Signalgiverne må
@@ -995,6 +1019,7 @@ Signalgiverne må
 2. kunne avleses med en leser som er forenlig med ISO-standard 11785.
 
 ### Vedlegg III
+
 Gyldighetskrav til rabiesvaksiner
 
 1\. Rabiesvaksinen skal
@@ -1022,6 +1047,7 @@ Vaksinasjonens gyldighetstid er angitt av en autorisert veterinær eller en offe
 1. En revaksinasjon skal anses som en grunnvaksinasjon dersom den ikke ble utført innenfor gyldighetstiden nevnt i bokstav e) for forrige vaksinasjon.
 
 ### Vedlegg IV
+
 Gyldighetskrav til titrering av rabiesantistoffer
 
 1\. Den blodprøven som kreves for titrering av rabiesantistoffer skal tas og dokumenteres av en autorisert veterinær i det relevante avsnittet i identifikasjonsdokumentet.
@@ -1040,6 +1066,7 @@ Gyldighetskrav til titrering av rabiesantistoffer
 4. trenger ikke å gjentas etter et vellykket resultat beskrevet i bokstav b), forutsatt at kjæledyret revaksineres innenfor gyldighetstiden for den forrige vaksinasjonen, som angitt i nr. 2 bokstav e) i vedlegg III.
 
 ### Vedlegg V
+
 Sammenligningstabellen nevnt i artikkel 43 nr. 2
 
 | Forordning [(EF) nr. 998/2003](eu/32003r0998) | Denne forordning |
@@ -1141,6 +1168,7 @@ som endret ved
 - ►**B**
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 577/2013](eu/32013r0577)
+
 av 28. juni 2013
 om modellen for identifikasjonsdokumentene for ikke-kommersiell forflytning av hunder, katter og ildrer, om fastsettelse av lister over territorier og tredjestater og om krav til format, layout og språk for erklæringene som godtgjør samsvar med visse vilkår fastsatt i europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)
 
@@ -1241,20 +1269,24 @@ Utferdiget i Brussel, 28. juni 2013.
 |  | *President* |
 
 ### Vedlegg I
+
 Krav til format, layout og språk for erklæringene
 nevnt i artikkel 7 nr. 2 bokstav a) og artikkel 11 nr. 2 og i artikkel 12 nr. 1 bokstav c) i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 ### Del 1
+
 Format og layout for erklæringen nevnt i artikkel 7 nr. 2 bokstav a) og artikkel 11 nr. 2 i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 For å lese Del 1 se her: [(pdf)](static/SF/sf-20160519-0542-32013r0577-01-01.pdf)
 
 ### Del 2
+
 Format og layout for erklæringen nevnt i artikkel 12 nr. 1 bokstav c) i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 For å lese Del 2 se her: [(pdf)](static/SF/sf-20160519-0542-32013r0577-02-01.pdf)
 
 ### Del 3
+
 Krav til språk i erklæringene nevnt i artikkel 7 nr. 2 bokstav a) og artikkel 11 nr. 2 og i artikkel 12 nr. 1 bokstav c) i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 Erklæringene skal utarbeides på minst ett av de offisielle språkene i bestemmelsesmedlemsstaten/innførselsmedlemsstaten og på engelsk.
@@ -1268,9 +1300,11 @@ Erklæringene skal utarbeides på minst ett av de offisielle språkene i bestemm
 ►**M3**
 
 ### Vedlegg II
+
 Lister over territorier og tredjestater nevnt i artikkel 13 i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 ### Del 1
+
 Liste over territorier og tredjestater nevnt i artikkel 13 nr. 1 i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 | *ISO-kode* | *Territorium eller tredjestat* |
@@ -1291,6 +1325,7 @@ Liste over territorier og tredjestater nevnt i artikkel 13 nr. 1 i forordning [(
 ►**M5**
 
 ### Del 2
+
 Liste over områder og tredjestater nevnt i artikkel 13 nr. 2 i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 | *ISO-kode* | *Territorium eller tredjestat* | *Omfattede territorier* |
@@ -1346,6 +1381,7 @@ Liste over områder og tredjestater nevnt i artikkel 13 nr. 2 i forordning [(EU)
 ◄**M5**
 
 ### Vedlegg III
+
 Standardpass for ikke-kommersiell forflytning av hunder, katter og ildrer
 
 ◄**B**
@@ -1353,6 +1389,7 @@ Standardpass for ikke-kommersiell forflytning av hunder, katter og ildrer
 ►**EØS**
 
 ### Del 1
+
 Standardpass utstedt i en medlemsstat
 
 Den europeiske union/Norge[^\*]
@@ -1681,6 +1718,7 @@ Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 **XII. ØVRIG –** ISO-landkode + nummer
 
 ### Del 2
+
 Tilleggskrav til pass utstedt i en medlemsstat
 
 1. Passets format:
@@ -1710,6 +1748,7 @@ Tilleggskrav til pass utstedt i en medlemsstat
 1 Grafisk veiledning til EU-emblemet: [http://publications.europa.eu/code/en/en-5000100.htm](https://publications.europa.eu/code/en/en-5000100.htm)
 
 ### Del 3
+
 Standardpass utstedt på et av territoriene eller i en av tredjestatene oppført i del 1 i vedlegg II til denne forordning
 
 |  |  |  |  |
@@ -2037,6 +2076,7 @@ Dyret viser ingen tegn på sykdom og kan transporteres som planlagt[^\*]
 **XII. ØVRIG –** ISO-landkode + nummer
 
 ### Del 4
+
 Tilleggskrav til passet utstedt på et av territoriene eller i en av tredjestatene oppført i del 1 i vedlegg II til denne forordning
 
 1. Passets format:
@@ -2079,6 +2119,7 @@ For å lese Del I: Modell for helsesertifikat for ikke-kommersiell forflytning t
 ►**B**
 
 ### Del 2
+
 Forklarende merknader til utfylling av helsesertifikatene
 
 1. Dersom det i sertifikatet er angitt at visse ikke relevante erklæringer skal strykes, kan erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren, eller slettes helt fra sertifikatet.
@@ -2092,6 +2133,7 @@ Forklarende merknader til utfylling av helsesertifikatene
 7. Sertifikatreferansenummeret nevnt i felt I.2 og II.a skal utstedes av avsenderterritoriets eller avsendertredjestatens vedkommende myndighet.
 
 ### Del 3
+
 Skriftlig erklæring nevnt i artikkel 25 nr. 3 i forordning [(EU) nr. 576/2013](eu/32013r0576)
 
 ###### Avsnitt A
@@ -2115,6 +2157,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/772
 ►**B** Forordning [(EU) 2018/772](eu/32018r0772)
 
 ### Delegert kommisjonsforordning [(EU) 2018/772](eu/32018r0772)
+
 av 21. November 2017
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) med hensyn til forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder, og om oppheving av delegert forordning [(EU) nr. 1152/2011](eu/32011r1152)
 
@@ -2318,6 +2361,7 @@ Utferdiget i Brussel 21. november 2017.
 |  | *President* |
 
 ### VEDLEGG I
+
 Krav til det patogenspesifikke overvåkingsprogrammet omhandlet i artikkel 2 nr. 3 bokstav c), artikkel 4 nr. 2 bokstav c) og artikkel 4 nr. 3 bokstav c) i)
 
 1\. Det patogenspesifikke overvåkingsprogrammet skal, ved hjelp av egnet risikobasert eller representativ prøvetaking, utformes for å påvise parasitten *Echinococcus multilocularis* hos populasjonen av ville hovedverter i hver epidemiologisk relevant geografisk enhet i medlemsstaten eller en del av denne, dersom den forekommer i noen del av medlemsstaten med en prevalens på høyst 1 % med et konfidensnivå på minst 95 %.
@@ -2330,6 +2374,7 @@ Krav til det patogenspesifikke overvåkingsprogrammet omhandlet i artikkel 2 nr.
 2. polymerasekjedereaksjon (PCR) eller en metode med tilsvarende følsomhet og spesifisitet, ved undersøkelse av tarminnhold eller avføring med henblikk på å påvise artsspesifikk deoksyribonukleinsyre (DNA) fra vev eller egg av parasitten *Echinococcus multilocularis*.
 
 ### VEDLEGG II
+
 Sammenligningstabell nevnt i artikkel 8
 
 | *Delegert forordning [(EU) nr. 1152/2011](eu/32011r1152)* | *Denne forordning* |
@@ -2376,6 +2421,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/878
 ►**EØS** Tilpasning som følge av EØS-avtalen vedlegg I
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2018/878](eu/32018r0878)
+
 av 18. juni 2018
 om vedtakelse av listen over medlemsstater eller deler av medlemsstaters territorium som overholder reglene for kategorisering fastsatt i artikkel 2 nr. 2 og 3 i delegert forordning [(EU) 2018/772](eu/32018r0772) med hensyn til anvendelse av forebyggende helsetiltak for å bekjempe infeksjon med *Echinococcus multilocularis* hos hunder
 
@@ -2434,6 +2480,7 @@ Utferdiget i Brussel 18. juni 2018.
 ### VEDLEGG
 
 ### DEL 1
+
 Liste over medlemsstater som for hele sitt territorium overholder reglene for kategorisering fastsatt i artikkel 2 nr. 2 i delegert forordning [(EU) 2018/772](eu/32018r0772)
 
 | *ISO-landkode* | *Medlemsstat* |
@@ -2445,6 +2492,7 @@ Liste over medlemsstater som for hele sitt territorium overholder reglene for ka
 ►**M1**
 
 ### DEL 2
+
 Liste over medlemsstater[^\*] eller deler herav som overholder reglene for kategorisering i artikkel 2 nr. 3 i delegert forordning (EU) 2018/772
 
 |  | *Kode* | *Hele eller deler av området* |

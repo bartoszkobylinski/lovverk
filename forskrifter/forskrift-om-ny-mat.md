@@ -15,7 +15,7 @@ xml_hash: "3d8c3531501fc154c1cd618349270aa8732bc6401b5a7ed9981e246d8bc8f6e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,6 +91,7 @@ som endret ved:
 ►**M1** Rådsforordning (EU) nr. 518/2013 av 13. mai 2013
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) 2015/2283](eu/32015r2283)
+
 av 25. november 2015
 om nye næringsmidler og om endring av europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) og oppheving av europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) og kommisjonsforordning [(EF) nr. 1852/2001](eu/32001r1852)
 
@@ -190,6 +191,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og mål
@@ -262,6 +264,7 @@ FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 Kommisjonen kan på eget initiativ eller på anmodning fra en medlemsstat gjennom gjennomføringsrettsakter bestemme om et bestemt næringsmiddel omfattes av definisjonen av nytt næringsmiddel som fastsatt i artikkel 3 nr. 2 bokstav a). Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 30 nr. 3.
 
 ### KAPITTEL II
+
 KRAV TIL OMSETNING AV NYE NÆRINGSMIDLER PÅ MARKEDET I UNIONEN
 
 ### Artikkel 6. EU-liste over godkjente nye næringsmidler
@@ -304,9 +307,11 @@ Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med rådgivende
 3. krav om overvåking etter markedsføring i samsvar med artikkel 24.
 
 ### KAPITTEL III
+
 FRAMGANGSMÅTER FOR GODKJENNING AV ET NYTT NÆRINGSMIDDEL
 
 ### AVSNITT I
+
 Alminnelige regler
 
 ###### Artikkel 10
@@ -403,6 +408,7 @@ Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker om
 Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 30 nr. 3.
 
 ### AVSNITT II
+
 Særlige regler for tradisjonelle næringsmidler fra tredjestater
 
 ###### Artikkel 14
@@ -525,6 +531,7 @@ Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker om
 Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 30 nr. 3.
 
 ### KAPITTEL IV
+
 YTTERLIGERE SAKSBEHANDLINGSREGLER OG ANDRE KRAV
 
 ### Artikkel 21. Tilleggsopplysninger om risikohåndtering
@@ -576,6 +583,7 @@ Alle driftsansvarlige for næringsmiddelforetak som har brakt et nytt næringsmi
 Kommisjonen skal gjøre disse opplysningene tilgjengelig for medlemsstatene.
 
 ### KAPITTEL V
+
 VERN AV OPPLYSNINGER
 
 ### Artikkel 26. Framgangsmåte for godkjenning ved vern av opplysninger
@@ -626,6 +634,7 @@ Kommisjonen skal underrette søkeren om fra hvilken dato framgangsmåten for god
 6\. Søkeren kan når som helst trekke tilbake anmodningen om å stille framgangsmåten i bero, som er framlagt i samsvar med nr. 1. I så fall skal framgangsmåten for godkjenning gjenopptas og nr. 5 får ikke anvendelse.
 
 ### KAPITTEL VI
+
 SANKSJONER OG ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 29. Sanksjoner
@@ -667,6 +676,7 @@ For å nå målene i denne forordning skal Kommisjonen ved hjelp av delegerte re
 6\. En delegert rettsakt vedtatt i henhold til artikkel 31 skal tre i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot rettsakten innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet og Rådet, eller dersom Europaparlamentet og Rådet innen utløpet av denne fristen begge har underrettet Kommisjonen om at de ikke kommer til å gjøre innsigelse. Denne fristen skal forlenges med to måneder på initiativ fra Europaparlamentet eller Rådet.
 
 ### KAPITTEL VII
+
 OVERGANGSTILTAK OG SLUTTBESTEMMELSER
 
 ### Artikkel 33. Endringer av forordning (EU) nr. 1169/2011
@@ -732,6 +742,7 @@ som endret ved
 ►**M1** Forordning [(EU) 2020/1772](eu/32020r1772) av 26. november 2020
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2017/2469](eu/32017r2469)
+
 av 20. desember 2017
 om fastsettelse av administrative og vitenskapelige krav til søknader nevnt i artikkel 10 i europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler
 
@@ -914,6 +925,7 @@ Utferdiget i Brussel 20. desember 2017.
 5 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).
 
 ### ►**M1** VEDLEGG
+
 Mal for følgebrev til en søknad om et nytt næringsmiddel
 
 EUROPAKOMMISJONEN
@@ -1198,6 +1210,7 @@ som endret ved
 - ►**M165** Forordning [(EU) 2026/397](eu/32026r0397) av 23. februar 2026
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470)
+
 av 20. desember 2017
 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler
 
@@ -1245,6 +1258,7 @@ Utferdiget i Brussel 20. desember 2017.
 ► **M9**
 
 ### VEDLEGG
+
 EU-LISTE OVER NYE NÆRINGSMIDLER
 
 *Innhold i listen*
@@ -3193,7 +3207,7 @@ a Det brukes en minimumsspesifikasjon for innholdet av vitamin D i vitamin D2-so
 | *Zeaxantin* | **Beskrivelse/definisjon:**<br>Zeaxantin er et naturlig forekommende xantofyllpigment og et oksygenert karotenoid.<br>Syntetisk zeaxantin framstår enten som et spraytørket pulver av gelatin eller stivelsesbase («beadlets») tilsatt α-tokoferol og askorbylpalmitat eller som maisoljesuspensjon med tilsatt α-tokoferol. Syntetisk zeaxantin framstilles ved flertrinns kjemisk syntese av mindre molekyler.<br>Oransjerødt krystallinsk pulver med liten eller ingen lukt.<br>Kjemisk formel: C40 H56 O2<br>CAS-nr.: 144-68-3<br>Molekylvekt: 568,9 dalton<br>**fysisk-kjemiske egenskaper:**<br>Tap ved tørking: <0,2 %<br>*All*-trans-zeaxantin: >96 %<br>Cis-zeaxantin: <2,0 %<br>Andre karotenoider: <1,5 %<br>Trifenylfosfinoksid (CAS-nr. 791-28-6): <50 mg/kg |  |  |  |  |  |
 | *Sink-L-pidolat* | **Beskrivelse/definisjon:**<br>Sink-L-pidolat er et hvitt til hvitaktig pulver med karakteristisk lukt.<br>Internasjonalt fellesnavn (INN): L-pyroglutaminsyre, sinksalt<br>Synonymer: Sink 5-oksoprolin, sinkpyroglutamat, sinkpyrrolidonkarboksylat, sink-PCA, L-sinkpidolat<br>CAS-nr.: 15454-75-8<br>Molekylformel: (C5 H6 NO3 )2 Zn<br>Relativ vannfri molekylmasse: 321,4<br>Utseende: Hvitt til hvitaktig pulver<br>**Renhet:**<br>Sink-L-pidolat (renhet): ≥98 %<br>pH (10 % vandig løsning): 5,0-6,0<br>Spesifikk rotasjon: 19,6-22,8°<br>Vann: ≤10,0 %<br>Glutaminsyre: <2,0 %<br>**Tungmetaller:**<br>Bly: ≤3,0 ppm<br>Arsen: ≤2,0 ppm<br>Kadmium: ≤1,0 ppm<br>Kvikksølv: ≤0,1 ppm<br>**Mikrobiologiske kriterier:**<br>Antall levedyktige mesofile bakterier i alt: <1 000 KDE/g<br>Gjær og mugg: ≤100 KDE/g<br>Sykdomsframkallende stoffer: Ikke påvist |  |  |  |  |  |
 | ***►*****M79** *Acheta domesticus* (hussiriss) i fryst form, tørket form og pulverform | **Beskrivelse/definisjon:**<br>Det nye næringsmiddelet består av europeisk hel hussiriss i fryst form, tørket form og pulverform. «Hussiriss» viser til voksne dyr av *Acheta domesticus*, en insektart som tilhører Gryllidae-familien.<br>Det nye næringsmiddelet kan markedsføres i tre forskjellige former: i) varmebehandlet og fryst hel *A. domesticus* (fryst AD), ii) varmebehandlet og frysetørket *A. domesticus* (tørket AD) og iii) varmebehandlet frysetørket og malt hel *A. domesticus* (pulver av hel AD).<br>Det kreves minst 24 timers faste før insektene kan avlives ved frysing, slik at de voksne insektene kan kvitte seg med mageinnholdet. |  |  |  |  |  |
-| **Egenskaper/sammensetning (fryst AD):**<br>Aske (vektprosent): 0,6–1,2<br>Vanninnhold (vektprosent): 76–82<br>Råprotein (N x 6,25) (vektprosent): 12–21<br>Fordøyelige karbohydrater (vektprosent) 0,1–2<br>Fett (vektprosent): 3–12<br>hvorav mettet fett (vektprosent): 36–45<br>Peroksidverdi (meq O2/kg fett): ≤ 5<br>Kostfiber (vektprosent): 0,8–3<br>\*Kitin (vektprosent): 0,7–3,0<br>**Tungmetaller:**<br>Bly: ≤ 0,05 mg/kg<br>Kadmium: ≤ 0,06 mg/kg<br>**Mykotoksiner:**<br>Aflatoksiner (summen av B1, B2, G1, G2): ≤ 4 μg/kg<br>Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*](WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105[^\*\*\*] KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*] (WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105 KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g |  |  | **Egenskaper/sammensetning (AD tørket eller pulver):**<br>Aske (vektprosent): 2,9–5,1<br>Vanninnhold (vektprosent): ≤ 5<br>Råprotein (N x 6,25) (vektprosent): 55–65<br>Fordøyelige karbohydrater (vektprosent) 1–4<br>Fett (vektprosent): 29–35<br>hvorav mettet fett (vektprosent): 36–45<br>Peroksidverdi (meq O2/kg fett): ≤ 5<br>Kostfiber (vektprosent): 3–6<br>[^\*]Kitin (vektprosent): 5,3–10,0<br>**Tungmetaller:**<br>Bly: ≤ 0,05 mg/kg<br>Kadmium: ≤ 0,06 mg/kg<br>**Mykotoksiner:**<br>Aflatoksiner (summen av B1, B2, G1, G2): ≤ 4 μg/kg<br>Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*](WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105[^\*\*\*] KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*] (WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105 KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g ◄**M79** |  |  |  |
+| **Egenskaper/sammensetning (fryst AD):**<br>Aske (vektprosent): 0,6–1,2<br>Vanninnhold (vektprosent): 76–82<br>Råprotein (N x 6,25) (vektprosent): 12–21<br>Fordøyelige karbohydrater (vektprosent) 0,1–2<br>Fett (vektprosent): 3–12<br>hvorav mettet fett (vektprosent): 36–45<br>Peroksidverdi (meq O2/kg fett): ≤ 5<br>Kostfiber (vektprosent): 0,8–3<br>\*Kitin (vektprosent): 0,7–3,0<br>**Tungmetaller:**<br>Bly: ≤ 0,05 mg/kg<br>Kadmium: ≤ 0,06 mg/kg<br>**Mykotoksiner:**<br>Aflatoksiner (summen av B1, B2, G1, G2): ≤ 4 μg/kg<br>Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*]\(WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105[^\*\*\*] KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*] (WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105 KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g |  |  | **Egenskaper/sammensetning (AD tørket eller pulver):**<br>Aske (vektprosent): 2,9–5,1<br>Vanninnhold (vektprosent): ≤ 5<br>Råprotein (N x 6,25) (vektprosent): 55–65<br>Fordøyelige karbohydrater (vektprosent) 1–4<br>Fett (vektprosent): 29–35<br>hvorav mettet fett (vektprosent): 36–45<br>Peroksidverdi (meq O2/kg fett): ≤ 5<br>Kostfiber (vektprosent): 3–6<br>[^\*]Kitin (vektprosent): 5,3–10,0<br>**Tungmetaller:**<br>Bly: ≤ 0,05 mg/kg<br>Kadmium: ≤ 0,06 mg/kg<br>**Mykotoksiner:**<br>Aflatoksiner (summen av B1, B2, G1, G2): ≤ 4 μg/kg<br>Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*]\(WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105[^\*\*\*] KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g Aflatoksin B1 (μg/kg) ≤ 2<br>Deoksynivalenol: ≤ 200 μg/kg<br>Okratoksin A: ≤ 1 μg/kg<br>**Dioksiner og dioksinlignende PCB**<br>Summen av dioksiner og dioksinlignende PCB[^\*\*] (WHO2005 PCDD/F-PCB-TEQ) ≤ 1,25 pg/g fett<br>**Mikrobiologiske kriterier:**<br>Samlet aerobt kimtall: ≤ 105 KDE/g<br>Gjær og mugg: ≤ 100 KDE/g<br>*Escherichia coli*: ≤ 50 KDE/g<br>*Salmonella* spp.: Ikke påvist i 25 g<br>*Listeria monocytogenes*: Ikke påvist i 25 g<br>Sulfittreduserende anaerobe bakterier: ≤ 30 KDE/g<br>*Bacillus cereus* (presumptivt): ≤ 100 KDE/g<br>Enterobacteriaceae (presumptivt): < 100 KDE/g<br>Koagulasepositive stafylokokker: ≤ 100 KDE/g ◄**M79** |  |  |  |
 | ►**M79**<br>\* På grunn av de ulike analysemetodene kan det hende at kitin ikke inngår i kostfiber.<br>\*\* Summen av de øvre konsentrasjonene av polyklorerte dibenzo-para-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF) og dioksinlignende polyklorerte bifenyler (PCB) uttrykt som toksisitetsekvivalenter i samsvar med Verdens helseorganisasjon (ved bruk av WHOs toksisitetsekvivalensfaktorer (TEF) fra 2005).<br>\*\*\* KDE: Kolonidannende enheter. ◄**M79** |  |  |  |  |  |  |
 | ►**M70** *Locusta migratoria (europeisk vandregresshoppe) i fryst og i tørket form og i pulverform* | **Beskrivelse/definisjon:**<br>Det nye næringsmiddelet består av europeisk vandregresshoppe i fryst og i tørket form og i pulverform. «Europeisk vandregresshoppe» viser til voksne dyr av *Locusta migratoria*, en insektsart som tilhører *Acrididae*-familien (underfamilien *Locustinae*).<br>Det nye næringsmiddelet kan markedsføres i tre forskjellige former: (i) varmebehandlet og fryst L. migratoria (fryst LM), (ii) varmebehandlet og frysetørket L. migratoria (tørket LM) og (iii) varmebehandlet frysetørket og malt hel L. migratoria (pulver av hel LM). Tørket LM kan markedsføres som sådan eller i pulverform.<br>For fryst LM og tørket LM må bein og vinger fjernes for å redusere risikoen for forstoppelse ved fordøyelse av de lange tappene på skinnebeinet til insektet. Pulver av hel LM framstilles ved mekanisk maling av insektet med bein og vinger og ved sikting for å redusere partikkelstørrelsen til under 1 mm.<br>Det kreves minst 24 timers faste før insektene kan avlives ved frysing, slik at de voksne insektene kan kvitte seg med mageinnholdet. |  |  |  |  |  |
 | *Para­metrer* |  | *Fryst LM* |  | *Tørket LM* | *Pulver av hel LM* |  |
@@ -3395,6 +3409,7 @@ som endret ved
 ►**M1** Forordning [(EU) 2020/1824](eu/32020r1824) av 2. desember 2020
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2017/2468](eu/32017r2468)
+
 av 20. desember 2017
 om fastsettelse av administrative og vitenskapelige krav til tradisjonelle næringsmidler fra tredjestater i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler
 
@@ -3595,6 +3610,7 @@ Utferdiget i Brussel 20. desember 2017.
 2 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
 
 ### ►**M1** VEDLEGG I
+
 MAL FOR FØLGEBREV TIL EN MELDING OM ET TRADISJONELT NÆRINGSMIDDEL FRA ET TREDJELAND I SAMSVAR MED ARTIKKEL 14 I FORORDNING [(EU) 2015/2283](eu/32015r2283)
 
 EUROPAKOMMISJONEN
@@ -3689,6 +3705,7 @@ Vedlegg:
 ◄**M1**
 
 ### ►**M1** VEDLEGG II
+
 MAL FOR FØLGEBREV TIL EN MELDING OM ET TRADISJONELT NÆRINGSMIDDEL FRA ET TREDJELAND I SAMSVAR MED ARTIKKEL 16 I FORORDNING [(EU) 2015/2283](eu/32015r2283)
 
 EUROPAKOMMISJONEN
@@ -3773,6 +3790,7 @@ Vedlegg:
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/456](eu/32018r0456). Dette er grunnrettsakten. Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, kapittel XII nr. 124d er innarbeidet nedenfor.
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2018/456](eu/32018r0456)
+
 av 19. mars 2018
 om saksbehandlingstrinnene i samrådsprosessen for fastsettelse av status som nytt næringsmiddel i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler
 
@@ -3915,6 +3933,7 @@ Utferdiget i Brussel 19. mars 2018.
 |  | *President* |
 
 ### VEDLEGG I
+
 MAL FOR FØLGEBREV TIL EN ANMODNING OM SAMRÅD FOR FASTSETTELSE AV STATUS SOM NYTT NÆRINGSMIDDEL
 
 *Medlemsstatens vedkommende myndighet*
@@ -3950,6 +3969,7 @@ Vedlegg:
 ☐ Forklarende note
 
 ### VEDLEGG II
+
 MAL FOR TEKNISK DOKUMENTASJON
 
 Sammenhengen mellom de ulike deler av opplysningene skal angis i en forklarende note. Dette gjelder særlig dokumentasjonen som framlegges som bevis for konsum i betydelig omfang i Unionen før 15. mai 1997 dersom dokumenter fra en rekke kilder må vurderes før det kan trekkes en konklusjon.

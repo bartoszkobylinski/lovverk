@@ -16,7 +16,7 @@ xml_hash: "18c6c9b0df821d2892031d91a549bf236e9bbf676f45aa34f4417dae6a80996e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,6 +56,7 @@ Endringene er innarbeidet nedenfor.
 ► **M3** Forordning [(EU) 2021/1325](eu/32021r1325)
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2020/977](eu/32020r0977)
+
 av 7. juli 2020
 om unntak fra forordning [(EF) nr. 889/2008](eu/32008r0889) og (EF) [nr. 1235/2008](eu/32008r1235) med hensyn til kontroll av produksjonen av økologiske produkter som følge av covid-19-pandemien
 

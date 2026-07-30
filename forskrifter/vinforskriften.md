@@ -15,7 +15,7 @@ xml_hash: "8405d3afe1dd39f4b1ba25f3a54df46d2a16db0789fe56822e263d261c160ba6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -111,6 +111,7 @@ Forordning [(EU) nr. 1308/2013](eu/32013r1308) er konsolidert til og med endring
 ►**M5** Forordning [(EU) 2017/2393](eu/32017r2393)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 1308/2013](eu/32013r1308*)
+
 av 17. desember 2013
 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), (EØF) [nr. 234/79](eu/31979r0234), (EF) [nr. 1037/2001](eu/32001r1037) og (EF) [nr. 1234/2007](eu/32007r1234)
 
@@ -554,9 +555,11 @@ Merkingen av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg VII del II ka
 2\. Fysiske eller juridiske personer eller sammenslutninger av personer som i forbindelse med utøvelsen av sitt yrke oppbevarer produkter fra vinsektoren, særlig produsenter, tappere, bearbeidere og forhandlere, skal føre inngangs- og utgangsregistre for disse produktene.
 
 ### VEDLEGG I
+
 LISTE OVER PRODUKTER NEVNT I ARTIKKEL 1 NR. 2
 
 ### DEL XII
+
 Vin
 
 Vinsektoren omfatter produktene oppført i følgende tabell:
@@ -582,6 +585,7 @@ Vinsektoren omfatter produktene oppført i følgende tabell:
 ### VEDLEGG II
 
 ### DEL IV
+
 Definisjoner for vinsektoren
 
 Termer som gjelder vinstokker
@@ -642,11 +646,13 @@ Alkoholstyrke
 7. «Total alkoholstyrke i masse»: summen av sann og potensiell alkoholstyrke i masse.
 
 ### VEDLEGG VII
+
 DEFINISJONER, BETEGNELSER OG VAREBETEGNELSR NEVNT I ARTIKKEL 78
 
 I dette vedlegg menes med «varebetegnelse» betegnelsen som næringsmiddelet selges under i henhold til artikkel 5 nr. 1 i direktiv [2000/13/EF](eu/32000l0013*), eller næringsmiddelets betegnelse i henhold til artikkel 17 i forordning [(EU) nr. 1169/2011](eu/32011r1169*).
 
 ### DEL II
+
 Kategorier vinprodukter
 
 1. Vin
@@ -848,6 +854,7 @@ Kategorier vinprodukter
     2. som har et totalt syreinnhold på minst 60 gram per liter, uttrykt som eddiksyre.
 
 ### Tillegg I
+
 Vindyrkingssoner
 
 Det finnes følgende vindyrkingssoner:
@@ -940,9 +947,11 @@ Det finnes følgende vindyrkingssoner:
 7. Avgrensningen av områdene som omfattes av de administrative enhetene nevnt i dette vedlegg, er den som framgår av gjeldende nasjonale bestemmelser 15. desember 1981, og med hensyn til Spania, gjeldende nasjonale bestemmelser 1. mars 1986, samt med hensyn til Portugal, gjeldende nasjonale bestemmelser 1. mars 1998.
 
 ### VEDLEGG VIII
+
 ØNOLOGISKE FRAMSTILLINGSMÅTER NEVNT I ARTIKKEL 80
 
 ### DEL I
+
 Anriking, syrning og avsyrning i visse vindyrkingssoner
 
 ###### A. Anrikingsgrenser
@@ -1029,6 +1038,7 @@ Anriking, syrning og avsyrning i visse vindyrkingssoner
 7. Uten hensyn til nr. 6 kan konsentrasjon ved kjøling samt syrning og avsyrning av vin imidlertid foretas hele året.
 
 ### DEL II
+
 Restriksjoner
 
 ###### A. Generelt
@@ -1066,6 +1076,7 @@ Sammenstikning av en vin med opprinnelse i en tredjestat med en vin fra Unionen,
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 172/2013](eu/32013r0172). Dette er grunnrettsakten. Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med protokoll 47 tillegg 1 nr. 13 er innarbeidet nedenfor.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 172/2013](eu/32013r0172)
+
 av 26. februar 2013
 om fjerning av visse eksisterende vinbetegnelser fra registeret omhandlet i rådsforordning [(EF) nr. 1234/2007](eu/32007r1234)
 
@@ -1113,6 +1124,7 @@ José Manuel BARROSO
 *President*
 
 ### VEDLEGG
+
 Vinbetegnelser omhandlet i artikkel 1
 
 | *Stat* | *Betegnelser som skal fjernes* |
@@ -1147,6 +1159,7 @@ som endret ved
 ► EØS-tilpasning som følge av EØS-avtalen protokoll 47 tillegg 1 nr. 9
 
 ### KOMMISJONSFORORDNING [(EF) nr. 436/2009](eu/32009r0436)
+
 av 26. mai 2009
 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til vingårdsregisteret, obligatoriske oppgaver og innsamling av opplysninger til overvåking av vinmarkedet, følgedokumenter ved forsendelser av vinprodukter og om registre som skal føres i vinsektoren
 
@@ -1244,9 +1257,11 @@ Bestemmelsene skal gjelde med de tilpasningene som kan utledes av EØS-avtalens 
 ◄ **EØS-tilpasning som følge av EØS-avtalen protokoll 47 tillegg 1 nr. 9 bokstav a)**
 
 ### Avdeling III
+
 Følgedokumenter ved forsendelser av vinprodukter og registre som skal føres i vinsektoren
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ###### Artikkel 21
@@ -1287,6 +1302,7 @@ I denne avdeling menes med
 Ved anvendelsen av nr. 1 bokstav b) skal medlemsstatene ta i betraktning gjennomsnittlig årsproduksjon for minst tre vinår på rad. Medlemsstatene kan unnlate å anse som mindre produsenter produsenter som kjøper friske druer eller druemost for å foredle dem til vin.
 
 ### Kapittel II
+
 Følgedokumenter ved forsendelser av vinprodukter
 
 ►**M1**
@@ -1537,6 +1553,7 @@ Dersom det under transporten oppstår et tilfelle av *force majeure* eller en an
 Dersom det er mulig, skal transportøren også underrette vedkommende myndighet som er nærmest det sted der hendelsen eller tilfellet av *force majeure* fant sted, for at den skal treffe de nødvendige tiltak for å bringe transporten i lovlige former.
 
 ### Kapittel IV
+
 Felles bestemmelser for kapittel II og III
 
 ###### Artikkel 47
@@ -1595,6 +1612,7 @@ Underretninger
 ◄**M1**
 
 ### Vedlegg VI
+
 ►**M1** Instrukser for utarbeiding av følgedokumenter ◄**M1**
 
 ### A. Alminnelige regler
@@ -1748,6 +1766,7 @@ Rekkefølgen til og nærmere opplysninger om postene fastsettes av medlemsstaten
 ### ►**M1** Vedlegg VII (opphevet) ◄**M1**
 
 ### ►**M1** Vedlegg VIII
+
 Særlig stempel som nevnt i artikkel 26 nr. 1 bokstav c) ii)
 
 1. Medlemsstatens symbol
@@ -1992,6 +2011,7 @@ som endret ved
 ►**M11** Forordning [(EU) 2017/1961](eu/32017r1961)
 
 ### KOMMISJONSFORORDNING [(EF) nr. 606/2009](eu/32009r0606)
+
 av 10. juli 2009
 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til kategoriene av vinprodukter, ønologiske framstillingsmåter og gjeldende restriksjoner
 
@@ -2200,6 +2220,7 @@ Utferdiget i Brussel, 10. juli 2009.
 |  | *Medlem av Kommisjonen* |
 
 ### Vedlegg I A
+
 Tillatte ønologiske framstillings- og behandlingsmåter
 
 |  | *1* | *2* | *3* |
@@ -2279,6 +2300,7 @@ Tillatte ønologiske framstillings- og behandlingsmåter
 ►**M2** (tillegg 1 opphevet) ◄**M2**
 
 ### Tillegg 2
+
 L(+)-vinsyre
 
 1. Vinsyre, som er tillatt til avsyrning i henhold til nr. 13 i vedlegg I A, kan brukes bare for produkter som stammer fra druesortene Elbling og Riesling, og som framstilles av druer som er høstet i følgende vindyrkingsområder i den nordlige delen av vindyrkingssone A:
@@ -2294,6 +2316,7 @@ L(+)-vinsyre
 2. Vinsyre, som er tillatt til bruk i henhold til nr. 12 og 13 i dette vedlegg, også kalt L(+)-vinsyre, skal være av landbruksopprinnelse og utvinnes særlig av vinprodukter. Den må også oppfylle renhetskriteriene fastsatt i direktiv [2008/84/EF](eu/32008l0084).
 
 ### Tillegg 3
+
 Aleppofuruharpiks
 
 1. Aleppofuruharpiks, som er tillatt til bruk i henhold til nr. 14 i vedlegg I A, kan bare brukes til å framstille «retsina»-vin. Denne ønologiske framgangsmåte kan bare utføres
@@ -2304,6 +2327,7 @@ Aleppofuruharpiks
 2. Dersom Hellas planlegger å endre bestemmelsene nevnt i nr. 1 bokstav b), skal Kommisjonen underrettes om dette på forhånd. Dersom Kommisjonen ikke svarer innen to måneder fra slik underretning, kan Hellas gjennomføre de planlagte endringene.
 
 ### Tillegg 4
+
 Ionebytterharpiks
 
 De ionebytterharpikser som kan brukes i samsvar med nr. 20 i vedlegg I A, er kopolymerer av styren eller divinylbenzen som inneholder grupper av sulfonsyre eller ammonium. De må være i samsvar med kravene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1935/2004](eu/32004r1935)[^1] og de bestemmelser som på fellesskapsplan og nasjonalt plan er vedtatt til gjennomføring av denne forordning. I tillegg kan de når de kontrolleres ved hjelp av analysemetoden fastsatt i nr. 2, ikke tape mer enn 1 milligram per liter av organisk materiale til noen av de nevnte midler. Ionebytterharpikser skal regenereres ved hjelp av stoffer som er godkjent for bruk ved framstilling av næringsmidler.
@@ -2421,6 +2445,7 @@ Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på s
 1 EUT L 338 av 13.11.2004, s. 4.
 
 ### Tillegg 5
+
 Kaliumferrocyanid
 Kalsiumfytat
 DL-vinsyre
@@ -2432,6 +2457,7 @@ Etter behandling med kaliumferrocyanid eller kalsiumfytat skal vinen inneholde s
 Bestemmelsene om tilsyn med anvendelsen av produktet nevnt i nr. 1, skal fastsettes av medlemsstatene.
 
 ### ►**M3** Tillegg 6
+
 Bestemmelser om dimetyldikarbonat
 
 ###### Virkeområde
@@ -2451,6 +2477,7 @@ Dimetyldikarbonat kan tilsettes til vin for ett eller flere av følgende formål
 ◄**M3**
 
 ### Tillegg 7
+
 Krav til behandling med elektrodialyse
 
 Formålet med denne behandling er å stabilisere vinens syreinnhold med hensyn til forholdet mellom kaliumhydrogentartrat og kalsiumtartrat (og andre kalsiumsalter) ved at overskytende ioner i vinen fjernes under påvirkning av et elektrisk felt ved hjelp av membraner som er permeable bare for anioner og membraner som kun er permeable for kationer.
@@ -2514,6 +2541,7 @@ Behandlingen skal registreres i registeret nevnt i artikkel 112 nr. 2 i forordni
 1 EFT L 220 av 15.8.2002, s. 18.
 
 ### Tillegg 8
+
 Krav til urease
 
 1\.
@@ -2553,6 +2581,7 @@ Spesifikasjoner for kjemisk og mikrobiologisk renhet:
 Urease til behandling av vin skal produseres under tilsvarende forhold som den urease som Vitenskapskomiteen for næringsmidler avga uttalelse om 10. desember 1998.
 
 ### Tillegg 9
+
 Krav til eikeflis
 
 ###### Formål, opprinnelse og bruksområde
@@ -2578,6 +2607,7 @@ Eikeflisene kan ikke frigi stoffer i konsentrasjoner som kan være helseskadelig
 Denne behandlingen skal angis i registeret nevnt i artikkel 112 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*).
 
 ### ►**M4** Tillegg 10
+
 Krav til behandling for å endre alkoholinnholdet i vin
 
 Formålet med behandlingen for å endre alkoholinnholdet («behandlingen») er å redusere etanolinnholdet i vin, slik at smaksbalansen forbedres.
@@ -2597,6 +2627,7 @@ Formålet med behandlingen for å endre alkoholinnholdet («behandlingen») er �
 ### ►**M3** Tillegg 11 (opphevet) ◄**M3**
 
 ### Tillegg 12
+
 Krav til behandling med kationebyttere for å sikre vinsteinstabilisering
 
 Formålet med denne behandling er å sikre vinens vinsteinstabilitet med hensyn til kaliumhydrogentartrat og kalsiumtartrat (og andre kalsiumsalter).
@@ -2614,6 +2645,7 @@ Formålet med denne behandling er å sikre vinens vinsteinstabilitet med hensyn 
 1 EFT L 338 av 13.11.2004, s. 4.
 
 ### ►**M2** Tillegg 13
+
 ►**M3** Krav til behandling av vin med kitosan framstilt av Aspergillus niger og med kitinglukan framstilt av Aspergillus niger ◄**M3**
 
 ###### Bruksområder:
@@ -2633,6 +2665,7 @@ Formålet med denne behandling er å sikre vinens vinsteinstabilitet med hensyn 
 - Bunnfall fjernes med fysiske metoder.
 
 ### Tillegg 14
+
 Krav til syrning ved hjelp av elektromembranbehandling
 
 - Kationmembranene skal utformes på en slik måte at de bare gjør det mulig å fjerne kationer, særlig K+.
@@ -2650,6 +2683,7 @@ Krav til syrning ved hjelp av elektromembranbehandling
 ◄**M4**
 
 ### ►**M4** Tillegg 15
+
 Krav til syrning ved behandling med kationebyttere
 
 Formålet med behandling med kationebyttere («behandlingen») er å øke den titrerbare syregraden og faktiske syregraden (pH-reduksjon) ved en delvis fysisk ekstraksjon av kationer ved bruk av kationebytter.
@@ -2667,6 +2701,7 @@ Formålet med behandling med kationebyttere («behandlingen») er å øke den ti
 ◄**M4**
 
 ### ►**M4** Tillegg 16
+
 Krav til behandling for å redusere sukkerinnholdet i moster ved bruk av membrankopling
 
 Formålet med behandlingen for å redusere sukkerinnholdet («behandlingen») er å fjerne sukker fra most ved bruk av membrankopling som kombinerer mikrofiltrering eller ultrafiltrering med nanofiltrering eller omvendt osmose.
@@ -2688,6 +2723,7 @@ Formålet med behandlingen for å redusere sukkerinnholdet («behandlingen») er
 ◄**M4**
 
 ### ►**M4** Tillegg 17
+
 Krav til avsyrning ved bruk av elektromembranbehandling
 
 Elektromembranbehandling («behandlingen») er en fysisk metode for ionekstraksjon av most eller vin under påvirkning av et elektrisk felt ved hjelp av membraner som er ugjennomtrengelige for anioner og bipolare membraner. Bruk av membraner som er ugjennomtrengelige for anioner og bipolare membraner gjør det mulig å kontrollere reduksjonen i det titrerbare syreinnholdet og faktiske syreinnholdet (pH-økning).
@@ -2705,6 +2741,7 @@ Elektromembranbehandling («behandlingen») er en fysisk metode for ionekstraksj
 ◄**M4**
 
 ### ►**M6** Tillegg 18
+
 Krav til håndtering av oppløst gass i vin ved bruk av membrankontaktorer
 
 Håndtering av oppløst gass i vin ved bruk av membrankontaktorer er en fysisk metode for håndtering av konsentrasjoner av oppløst gass i vin ved bruk av membrankontaktorer (hydrofobe membraner) og gass som anvendes innen ønologi.
@@ -2717,6 +2754,7 @@ Håndtering av oppløst gass i vin ved bruk av membrankontaktorer er en fysisk m
 4. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De må oppfylle kravene i OIVs internasjonale ønologiske regelverk. ◄**M6**
 
 ### ►**M9** Tillegg 19
+
 Krav til behandling av vin med membranteknologi kombinert med aktivt karbon for å redusere overskudd av 4-etylfenol og 4-etylguajacol
 
 Målet med behandlingen er å redusere innholdet av 4-etylfenol og 4-etylguajacol av mikrobiologisk opprinnelse som utgjør organoleptiske mangler og maskerer vinens aromaer.
@@ -2728,6 +2766,7 @@ Krav:
 3. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og forordning [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser vedtatt for å gjennomføre disse rettsaktene. De må oppfylle kravene i OIVs internasjonale ønologiske regelverk.
 
 ### Tillegg 20
+
 Krav til polyvinylimidazol/polyvinylpyrrolidon (PVI/PVP) kopolymerer
 
 Formålet med bruk av PVI/PVP er å forhindre mangler som skyldes for høye metallkonsentrasjoner, og å redusere uønskede høye metallkonsentrasjoner.
@@ -2740,6 +2779,7 @@ Krav:
 4. Behandlingen må registreres i registrene nevnt i artikkel 147 nr. 2 i forordning [(EF) nr. 1308/2013](eu/32013r1308*).
 
 ### Tillegg 21
+
 Krav til sølvklorid
 
 Sølvklorid brukes til behandling av vin for å fjerne gjærings- og lagringsrelaterte unormale lukter (forårsaket av reduksjonsreaksjoner som kjennetegnes ved tilstedeværelsen av hydrogensulfid og tioler).
@@ -2753,6 +2793,7 @@ Krav:
 ◄ **M9**
 
 ### ► **M10** Tillegg 22
+
 Aktivatorer for malolaktisk gjæring
 
 Formålet er å tilsette aktivatorer for malolaktisk gjæring på slutten av eller etter alkoholgjæringen for å lette malolaktisk gjæring.
@@ -2770,6 +2811,7 @@ Fremme igangsetting, kinetikk eller avslutning av malolaktisk gjæring:
 4. Aktivatorer for malolaktisk gjæring skal være i samsvar med spesifikasjonene i OIVs internasjonale ønologiske regelverk. Dersom aktivatorene er mikrokrystallinsk cellulose, skal de være i samsvar med spesifikasjonene fastsatt i vedlegget til kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231). ◄ **M10**
 
 ### ►**M11** Tillegg 23
+
 Krav til bruk av filterplater med zeolitten Y-faujasitt
 
 Formålet med å bruke en filterplate med zeolitten Y-faujasitt under filtrering er å redusere konsentrasjonen av haloanisoler som gir viner bismak, til under den sensoriske terskelverdien.
@@ -2781,6 +2823,7 @@ Spesifikasjoner:
 3. Zeolitten Y-faujasitt må brukes i samsvar med spesifikasjonene I OIVs internasjonale ønologiske regelverk.
 
 ### Tillegg 24
+
 Krav til behandling av vin med kaliumpolyaspartat
 
 Formålet med å tilsette kaliumpolyaspartat i vin er å bidra til vinsyrestabilisering.
@@ -2792,6 +2835,7 @@ Spesifikasjoner:
 3. Kaliumpolyaspartat må brukes i samsvar med spesifikasjonene i OIVs internasjonale ønologiske regelverk. ◄**M11**
 
 ### Vedlegg I B
+
 Grenseverdier for svoveldioksidinnhold i vin
 
 ### A. Svoveldioksidinnhold i vin
@@ -2931,6 +2975,7 @@ Det totale svoveldioksidinnhold i sterkvin kan ved frigivelsen til direkte konsu
 2. Når de klimatiske forhold i visse vindyrkingssoner i Fellesskapet gjør det nødvendig, kan de berørte medlemsstater tillate at grenseverdien for svoveldioksidinnhold økes med høyst 40 milligram per liter for musserende viner som er nevnt i nr. 1 bokstav a) og b) som er framstilt på deres territorium, forutsatt at vinene som omfattes av denne godkjenning, ikke sendes ut fra den berørte medlemsstat.
 
 ### ► **M8** Tillegg 1
+
 Økning av grenseverdien for svoveldioksidinnhold dersom klimatiske forhold gjør dette nødvendig
 
 |  | *År* | *Medlemsstat* | *Vindyrkingsområde(r)* | *Berørte viner* |
@@ -2944,6 +2989,7 @@ Det totale svoveldioksidinnhold i sterkvin kan ved frigivelsen til direkte konsu
 ◄ **M8**
 
 ### Vedlegg I C
+
 Grenseverdier for innhold av flyktig syre i vin
 
 1. Innholdet av flyktig syre kan ikke overstige
@@ -2966,6 +3012,7 @@ Grenseverdier for innhold av flyktig syre i vin
    Medlemsstatene må underrette Kommisjonen om disse unntakene, og Kommisjonen må underrette de øvrige medlemsstatene.
 
 ### Vedlegg I D
+
 Grenseverdier og vilkår for søtning av vin
 
 1. Søtning av vin er bare tillatt ved hjelp av ett eller flere av følgende produkter:
@@ -2997,6 +3044,7 @@ Grenseverdier og vilkår for søtning av vin
    De personer som er nevnt i bokstav a), skal føre inngangs- og utgangsregistre med angivelse av de mengder druemost, konsentrert druemost eller rektifisert konsentrert druemost som de innehar for søtningsformål.
 
 ### Vedlegg II
+
 Tillatte ønologiske framstillingsmåter og restriksjoner som gjelder for musserende viner, musserende kvalitetsviner og musserende kvalitetsviner av aromatisk type
 
 ### A. Musserende vin
@@ -3124,6 +3172,7 @@ Tillatte ønologiske framstillingsmåter og restriksjoner som gjelder for musser
    7. med forbehold for bokstav C nr. 6 skal prosessen med å framstille musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse ikke være under én måned.
 
 ### Tillegg 1
+
 Liste over vinstokksorter som gir druer som kan brukes som bestanddeler i vinblandingen til musserende kvalitetsviner av aromatisk type og musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse
 
 | *Airén* | *Alle Malvoisies-sorter* |
@@ -3155,6 +3204,7 @@ Liste over vinstokksorter som gir druer som kan brukes som bestanddeler i vinbla
 | Macabeu B |  |
 
 ### Vedlegg III
+
 Tillatte ønologiske framgangsmåter og restriksjoner som gjelder for sterkviner og sterkviner med beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse
 
 ### A. Sterkviner
@@ -3241,6 +3291,7 @@ Tillatte ønologiske framgangsmåter og restriksjoner som gjelder for sterkviner
     - frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
 
 ### Tillegg 1
+
 Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling er underlagt særlige regler
 
 ###### A. Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling innebærer bruk av druemost eller en blanding av druemost og vin
@@ -3442,11 +3493,13 @@ Trentino.
 | Porto – Port | Branco leve seco |
 
 ### Tillegg 3
+
 Liste over sorter som kan brukes til å framstille sterkviner med beskyttet opprinnelsesbetegnelse med de tradisjonelle betegnelsene «vino dulce natural», «vino dolce naturale», «vinho doce natural» og «oινoς γλυκυς φυσικoς»
 
 Muscats – Grenache – Garnacha Blanca – Garnacha Peluda – Listán Blanco – Listán Negro-Negramoll – Maccabéo – Malvoisies – Mavrodaphne – Assirtiko – Liatiko – Garnacha tintorera – Monastrell – Palomino – Pedro Ximénez – Albarola – Aleatico – Bosco – Cannonau – Corinto nero – Giró – Monica – Nasco – Primitivo – Vermentino – Zibibbo – ►**M2** Moscateles – Garnacha ◄**M2**.
 
 ### Vedlegg IV
+
 Særskilte fellesskapsanalysemetoder
 
 ### A. Allylisotiocyanat
@@ -3615,6 +3668,7 @@ Meso-inositol og scyllo-inositol uttrykkes i mg/kg totalsukker.
 Sukrose uttrykkes i g/kg most.
 
 ### Vedlegg V
+
 Sammenligningstabellen nevnt i artikkel 16 annet ledd
 
 | *Forordning [(EF) nr. 1493/1999](eu/31999r1493)* | *Forordning [(EF) nr. 2676/90](eu/31990r2676)* | *Forordning [(EF) nr. 423/2008](eu/32008r0423)* | *Denne forordning* |
@@ -3690,6 +3744,7 @@ som endret ved
 ► EØS-tilpasning som følge av EØS-avtalen protokoll 47 tillegg 1 nr. 11
 
 ### KOMMISJONSFORORDNING [(EF) nr. 607/2009](eu/32009r0607)
+
 av 14. juli 2009
 om fastsettelse av regler for gjennomføring av rådsforordning [(EF) nr. 479/2008](eu/32008r0479*) med hensyn til beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser, tradisjonelle betegnelser, merking og presentasjon av visse vinprodukter
 
@@ -3756,6 +3811,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Innledende bestemmelser
 
 ### Artikkel 1. Formål
@@ -3767,9 +3823,11 @@ I denne forordning fastsettes nærmere regler for gjennomføring av avdeling III
 3. bestemmelsene i kapittel VI i nevnte avdeling om merking og presentasjon av visse vinprodukter.
 
 ### Kapittel II
+
 Beskyttede opprinnelsesbetegnelser og beskyttede geografiske betegnelser
 
 ### Avsnitt 1
+
 Søknad om beskyttelse
 
 ###### Artikkel 2
@@ -3860,6 +3918,7 @@ Emballering i det avgrensede geografiske området
 Dersom det i produktspesifikasjonen er angitt at produktet skal emballeres i det avgrensede geografiske området eller i et område i umiddelbar nærhet av det berørte avgrensede området i samsvar med et krav nevnt i artikkel 35 nr. 2 bokstav h) i forordning [(EF) nr. 479/2008](eu/32008r0479*), skal dette kravet begrunnes for det berørte produktet.
 
 ### Avsnitt 2
+
 Framgangsmåte for Kommisjonens undersøkelse
 
 ►**M3**
@@ -3937,6 +3996,7 @@ Undersøkelse av vilkårene for gyldighet
 3\. Kommisjonen treffer beslutning om å avslå opprinnelsesbetegnelsen eller den geografiske betegnelsen på grunnlag av de dokumentene og opplysningene den har til rådighet. Medlemsstatens eller tredjestatens myndigheter eller søkeren etablert i den berørte tredjestat skal underrettes om beslutningen om å avslå søknaden.
 
 ### Avsnitt 3
+
 Framgangsmåter for innsigelse
 
 ###### Artikkel 13
@@ -3995,6 +4055,7 @@ Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene ti
 Dersom en søknad avslås, skal de framgangsmåtene for innsigelse som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal behørig underrettes.
 
 ### Avsnitt 4
+
 Beskyttelse
 
 ###### Artikkel 17
@@ -4042,6 +4103,7 @@ Beskyttelse
 3\. Beskyttelsen av en opprinnelsesbetegnelse eller en geografisk betegnelse skal gjelde for hele betegnelsen, herunder dens bestanddeler, forutsatt at de har det nødvendige særpreg. En bestanddel som mangler det nødvendige særpreg, eller en generisk bestanddel som inngår i en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal ikke beskyttes.
 
 ### Avsnitt 5
+
 Endringer og annullering
 
 ###### Artikkel 20
@@ -4138,6 +4200,7 @@ Dersom en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegne
 5\. Når en annullering får virkning, skal Kommisjonen slette betegnelsen fra registeret.
 
 ### Avsnitt 6
+
 Kontroller
 
 ►**M1**
@@ -4232,6 +4295,7 @@ Kontroll av produkter med opprinnelse i tredjestater
 Dersom en tredjestats viner er omfattet av en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse, skal den berørte tredjestat på Kommisjonens anmodning sende Kommisjonen opplysninger om de vedkommende myndigheter som er nevnt i artikkel 48 nr. 2 i forordning [(EF) nr. 479/2008](eu/32008r0479*), og om de elementene som omfattes av kontrollen, samt bevis for at den berørte vinen oppfyller vilkårene som gjelder for den berørte opprinnelsesbetegnelsen eller geografiske betegnelsen.
 
 ### Avsnitt 7
+
 Omgjøring til geografisk betegnelse
 
 ###### Artikkel 28
@@ -4255,9 +4319,11 @@ Søknaden skal utarbeides i samsvar med artikkel 70a nr. 1. En søknad om omgjø
 5\. Artikkel 40 og 49 nr. 1 i forordning [(EF) nr. 479/2008](eu/32008r0479*) får ikke anvendelse.
 
 ### Kapittel III
+
 Tradisjonelle betegnelser
 
 ### Avsnitt 1
+
 Søknad
 
 ###### Artikkel 29
@@ -4306,6 +4372,7 @@ Regler for tradisjonelle betegnelser i tredjestater
 ◄**M2**
 
 ### Avsnitt 2
+
 Framgangsmåte for undersøkelse
 
 ►**M3**
@@ -4377,6 +4444,7 @@ Kommisjonen treffer beslutning om beskyttelsen på grunnlag av de opplysningene 
 2\. Dersom søkeren ikke fjerner hindringene innen fristen nevnt i nr. 1, skal Kommisjonen avslå søknaden. Kommisjonen treffer beslutning om å avslå søknaden om den berørte tradisjonelle betegnelsen på grunnlag av de dokumentene og opplysningene den har til rådighet. Søkeren skal underrettes om beslutningen om at søknaden ikke kan godtas.
 
 ### Avsnitt 3
+
 Framgangsmåter for innsigelse
 
 ###### Artikkel 37
@@ -4431,6 +4499,7 @@ Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene ti
 Dersom en søknad avslås, skal de framgangsmåtene for innsigelse som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal behørig underrettes.
 
 ### Avsnitt 4
+
 Beskyttelse
 
 ►**M3**
@@ -4515,6 +4584,7 @@ Håndheving av beskyttelsen
 Ved anvendelsen av artikkel 55 i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal vedkommende nasjonale myndigheter ved ulovlig bruk av beskyttede tradisjonelle betegnelser på eget initiativ eller på anmodning fra tredjemann treffe alle tiltak for å stanse markedsføring, herunder eksport, av de berørte produktene.
 
 ### Avsnitt 5
+
 Framgangsmåte for annullering
 
 ###### Artikkel 44
@@ -4583,6 +4653,7 @@ Dersom en tradisjonell betegnelse annulleres, skal de framgangsmåtene for annul
 ◄**M3**
 
 ### Avsnitt 6
+
 Eksisterende beskyttede tradisjonelle betegnelser
 
 ###### Artikkel 48
@@ -4595,6 +4666,7 @@ Tradisjonelle betegnelser som er beskyttet i samsvar med artikkel 24, 28 og 29 i
 2. medlemsstatene eller tredjestatene ikke har opphørt med å beskytte visse tradisjonelle betegnelser.
 
 ### Kapittel IV
+
 Merking og presentasjon
 
 ### Artikkel 49. Felles regler for alle merkingsopplysninger
@@ -4602,6 +4674,7 @@ Merking og presentasjon
 Dersom ikke annet er fastsatt i denne forordning, kan merking av produktene nevnt i nr. 1–11, 13, 15 og 16 i vedlegg IV til forordning [(EF) nr. 479/2008](eu/32008r0479*) (heretter kalt «produkter») ikke utfylles med andre opplysninger enn dem som er fastsatt i artikkel 58, og dem som er omhandlet i artikkel 59 nr. 1 og i artikkel 60 nr. 1 i nevnte forordning, med mindre de oppfyller kravene i artikkel 2 nr. 1 bokstav a) i direktiv [2000/13/EF](eu/32000l0013*).
 
 ### Avsnitt 1
+
 Obligatoriske angivelser
 
 ###### Artikkel 50
@@ -4810,6 +4883,7 @@ Uttrykket «framstilt ved tilsetting av kullsyre» skal angis også når artikke
 2\. For musserende kvalitetsvin kan henvisningen til kategorien vinprodukt utelates for viner med etikett som inneholder uttrykket «sekt».
 
 ### Avsnitt 2
+
 Frivillige opplysninger
 
 ###### Artikkel 61
@@ -5031,6 +5105,7 @@ Medlemsstatene kan, når det dreier seg om registrerte varemerker eller varemerk
 4. et administrasjonsområde.
 
 ### Avsnitt 3
+
 Regler for visse særlige flaskeformer og lukkemekanismer og tilleggsbestemmelser fastsatt av produsentmedlemsstatene
 
 ###### Artikkel 68
@@ -5082,6 +5157,7 @@ Medlemsstatenes tilleggsbestemmelser om merking og presentasjon
 4\. For kontrollformål kan medlemsstatene beslutte at artikkel 58, 59 og 60 i forordning [(EF) nr. 479/2008](eu/32008r0479*) skal gjelde for vin som er tappet på deres territorium, men som ennå ikke er markedsført eller eksportert.
 
 ### Kapittel V
+
 Alminnelige bestemmelser, overgangs- og sluttbestemmelser
 
 ►**M3**
@@ -5241,6 +5317,7 @@ Piktogrammer nevnt i artikkel 51 nr. 2
 ►**M3** (vedleggene XI og XII opphevet) ◄**M3**
 
 ### ►**M5** Vedlegg Xa
+
 Uttrykk omhandlet i artikkel 56 nr. 3 bokstav b)
 
 | *Språk* | *Uttrykk som er tillatt istedenfor «produsent»* | *Uttrykk som er tillatt istedenfor «produsert av»* |
@@ -5272,6 +5349,7 @@ Uttrykk omhandlet i artikkel 56 nr. 3 bokstav b)
 ◄**M5**
 
 ### Vedlegg XIII
+
 Betegnelser som viser til en enhet
 
 | *Medlemsstat eller tredjestat* | *Betegnelse* |
@@ -5288,6 +5366,7 @@ Betegnelser som viser til en enhet
 | Slovenia | Klet, Kmetija, Posestvo, Vinska klet |
 
 ### Vedlegg XIV
+
 Angivelse av sukkerinnholdet
 
 ### DEL A – Liste over betegnelser som skal brukes på musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin og musserende kvalitetsvin av aromatisk type
@@ -5312,6 +5391,7 @@ Angivelse av sukkerinnholdet
 | cладкo, dulce, sladké, sød, süss, magus, γλυκóς, sweet, doux, dolce, saldais, saldus, édes, ħelu, zoet, słodkie, doce, dulce, sladko, makea, sött. | Dersom sukkerinnholdet er på minst 45 gram per liter. |
 
 ### Vedlegg XV
+
 Liste over druesorter og deres synonymer som kan forekomme ved merking av vin
 
 ►**M1**
@@ -5464,6 +5544,7 @@ Liste over druesorter og deres synonymer som kan forekomme ved merking av vin
 ◄**M1**
 
 ### Vedlegg XVI
+
 Angivelser som er tillatt ved merking av vin i henhold til artikkel 66 nr. 2
 
 | *Gjæret på fat* | *Modnet på fat.* | *Lagret på fat* |
@@ -5472,6 +5553,7 @@ Angivelser som er tillatt ved merking av vin i henhold til artikkel 66 nr. 2
 | gjæret på fat | modnet på fat | lagret på fat |
 
 ### Vedlegg XVII
+
 Forbehold med hensyn til visse flasketyper
 
 1. *«Flûte d'Alsace»:*
@@ -5570,6 +5652,7 @@ Forbehold med hensyn til visse flasketyper
       For denne flasketypen skal begrensningen av bruken gjelde bare for viner som er produsert av druer som er høstet i Ungarn eller Slovakia.
 
 ### Vedlegg XVIII
+
 Tilgang til de metodene og elektroniske skjemaene som er nevnt i artikkel 70a nr. 1 bokstav b)
 
 ►**M3**
@@ -5579,6 +5662,7 @@ Det er fri tilgang til de metodene og elektroniske skjemaene som er nevnt i arti
 [http://ec.europa.eu/agriculture/markets/wine/e-bacchus/](https://ec.europa.eu/agriculture/markets/wine/e-bacchus/).
 
 ### Vedlegg XIX
+
 Praktiske regler for oversending og utlevering av opplysninger i henhold til artikkel 70a nr. 2
 
 For å få opplysninger om hvilke praktiske regler som gjelder for tilgang til informasjonssystemene og for meddelelser og utlevering av opplysninger, skal de myndigheter og personer som er berørt av denne forordning, henvende seg til Kommisjonen på følgende adresse:
@@ -5592,6 +5676,7 @@ Funksjonell postkasse: AGRI-CONTACT-BACCHUS ec.europa.eu
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1022/2010](eu/32010r1022) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med protokoll 47 tillegg 1 nr. 12.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1022/2010](eu/32010r1022)
+
 av 12. november 2010
 om tillatelse til å heve anrikingsgrensene for vin som framstilles av druer som er høstet i 2010 i visse vindyrkingssoner
 
@@ -5636,6 +5721,7 @@ Utferdiget i Brussel, 12. november 2010.
 |  | *President* |
 
 ### Vedlegg
+
 Geografiske områder der det i henhold til artikkel 1 er tillatt å heve anrikingsgrensen
 
 | *Medlemsstat* | *Geografiske områder (vindyrkingssone)* |
@@ -5661,6 +5747,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1271
 ► **B** Forordning [(EU) nr. 1271/2014](eu/32014r1271)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 1271/2014](eu/32014r1271)
+
 av 28. november 2014
 om tillatelse til å heve anrikingsgrensene for vin som framstilles av druer som er høstet i 2014 av visse vindruesorter i visse vindyrkingsområder eller deler av slike områder
 
@@ -5708,6 +5795,7 @@ Utferdiget i Brussel, 28. november 2014.
 |  | *President* |
 
 ### VEDLEGG
+
 Vindruesorter og vindyrkingsområder eller deler av slike områder der det i henhold til artikkel 1 er tillatt å heve anrikingsgrensen
 
 | *Medlemsstat* | *Vindyrkingsområder eller deler av disse (vindyrkingssone)* | *Sorter* |
@@ -5745,6 +5833,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/214
 ►**B** Forordning [(EU) 2016/2147](eu/32016r2147)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2016/2147](eu/32016r2147)
+
 av 7. desember 2016
 om tillatelse til å heve anrikingsgrensene for vin som framstilles av druer som er høstet i 2016 i visse vindyrkingsområder i Tyskland og i alle vindyrkingsområder i Ungarn
 
@@ -5789,6 +5878,7 @@ Utferdiget i Brussel 7. desember 2016.
 |  | *President* |
 
 ### VEDLEGG
+
 Vindruesorter og vindyrkingsområder eller deler av slike områder der det i henhold til artikkel 1 er tillatt å heve anrikingsgrensen
 
 | *Medlemsstat* | *Vindyrkingsområder eller deler av disse (vindyrkingssone)* | *Sorter* |
@@ -5812,6 +5902,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/228
 ►**B** Forordning [(EU) 2017/2281](eu/32017r2281)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/2281](eu/32017r2281)
+
 av 11. desember 2017
 om tillatelse til å heve anrikingsgrensene for vin som framstilles av druer som er høstet i 2017 i visse vindyrkingsområder i Tyskland og i alle vindyrkingsområder i Danmark, Nederland og Sverige
 
@@ -5852,6 +5943,7 @@ Utferdiget i Brussel 11. desember 2017.
 |  | *President* |
 
 ### VEDLEGG
+
 Vindruesorter og vindyrkingsområder eller deler av slike områder der det i henhold til artikkel 1 er tillatt å heve anrikingsgrensen
 
 | Medlemsstat | Vindyrkingsområder eller deler av disse (vindyrkingssone) | Sorter |
@@ -5896,6 +5988,7 @@ Bestemmelsene skal gjelde med de tilpasningene som kan utledes av [EØS-avtalens
 Slik informasjon skal oversendes i tråd med prosedyren i [EØS-avtalen protokoll 47](avtale/avt-1992-05-02-1-p47) vedlegg 2.
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2018/273
+
 av 11. desember 2017
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, vingårdsregisteret, følgedokumenter og sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger, meldinger og offentliggjøring av meldt informasjon, utfylling av europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller og sanksjoner, endring av kommisjonsforordning [(EF) nr. 555/2008](eu/32008r0555), [(EF) nr. 606/2009](eu/32009r0606) og [(EF) nr. 607/2009](eu/32009r0607) og oppheving av kommisjonsforordning [(EF) nr. 436/2009](eu/32009r0436) og delegert kommisjonsforordning [(EU) 2015/560](eu/32015r0560)
 
@@ -5916,6 +6009,7 @@ under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1306/2013](e
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 INNLEDENDE BESTEMMELSER
 
 ### Artikkel 1. Formål
@@ -5953,9 +6047,11 @@ Medlemsstatene kan beslutte at definisjonen av «småprodusent» ikke omfatter p
 [...]
 
 ### KAPITTEL IV
+
 FØLGEDOKUMENTER OG REGLER FOR IMPORT AV VINPRODUKTER
 
 ### AVSNITT I
+
 FØLGEDOKUMENTER FOR OVERVÅKING OG SERTIFISERING AV VINPRODUKTER
 
 ###### Artikkel 8
@@ -6138,6 +6234,7 @@ Informasjon som skal gis
 [...]
 
 ### KAPITTEL IX
+
 ENDRINGER, OPPHEVINGER, OVERGANGSBESTEMMELSER OG SLUTTBESTEMMELSER
 
 [...]
@@ -6208,6 +6305,7 @@ Utferdiget i Brussel 11. desember 2017.
 [...]
 
 ### VEDLEGG V
+
 FØLGEDOKUMENTER
 
 A.
@@ -6358,11 +6456,13 @@ SPESIALSTEMPEL NEVNT I ARTIKKEL 10 NR. 3 FØRSTE LEDD BOKSTAV b) PUNKT i)
 [...]
 
 ### VEDLEGG VI
+
 SERTIFIKAT FOR VINPRODUKTENES OPPRINNELSE ELLER HERKOMST, EGENSKAPER, ÅRGANG, VINDRUESORT(ER) PRODUKTENE ER FRAMSTILT AV, OG BOB ELLER BGB FOR VIN I UNIONEN
 
 (Artikkel 11 nr. 1 og artikkel 12 nr. 1)
 
 ### DEL I
+
 Relevante opplysninger nevnt i artikkel 11 nr. 1 eller artikkel 12 nr. 1 bokstav a)
 
 ###### Opplysninger som skal angis i felt 17l i følgedokumentet eller handelsdokumentet som brukes i samsvar med artikkel 21 nr. 6 i direktiv [2008/118/EF](eu/32008l0118) eller artikkel 12 nr. 1 bokstav a) i denne forordningen
@@ -6404,6 +6504,7 @@ Bare følgende bestemmelser i forordningen skal gjelde:
 Bestemmelsene skal gjelde med de tilpasningene som kan utledes av [EØS-avtalens](lov/1992-11-27-109/eøsl) hoveddel, de gjennomgående tilpasningene i den innledende delen av protokoll 47 til avtalen og de spesifikke tilpasningene i tillegg 1 til protokoll 47 til avtalen.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2018/274
+
 av 11. desember 2017
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til tillatelsesordningen for planting av vinstokker, sertifisering, inngangs- og utgangsregisteret, obligatoriske opplysninger og meldinger og europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til relevante kontroller, og om oppheving av Kommisjonens gjennomføringsforordning [(EU) 2015/561](eu/32015r0561)
 
@@ -6424,6 +6525,7 @@ under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1306/2013](e
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL III
+
 SERTIFISERING AV VINPRODUKTER
 
 ### Artikkel 12. Prosedyre og tekniske kriterier for sertifisering
@@ -6446,6 +6548,7 @@ Kostnadene for sertifiseringen skal dekkes av de markedsdeltakerne som omfattes 
 [...]
 
 ### KAPITTEL VII
+
 MELDINGER
 
 [...]
@@ -6487,6 +6590,7 @@ I vedlegg II:
 Forordning [(EU) 2019/33](eu/32019r0033) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2021/1375](eu/32021r1375)
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2019/33
+
 av 17. oktober 2018
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til søknader om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og tradisjonelle betegnelser i vinsektoren, innsigelsesprosedyren, bruksbegrensninger, endringer av produktspesifikasjoner, annullering av beskyttelse samt merking og presentasjon
 
@@ -6572,6 +6676,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 INNLEDENDE BESTEMMELSER
 
 ### Artikkel 1. Formål
@@ -6586,9 +6691,11 @@ Denne forordningen fastsetter regler som utfyller forordning [(EU) nr. 1308/2013
 6. merking og presentasjon.
 
 ### KAPITTEL II
+
 BESKYTTEDE OPPRINNELSESBETEGNELSER OG BESKYTTEDE GEOGRAFISKE BETEGNELSER
 
 ### AVSNITT 1
+
 Søknad om beskyttelse
 
 ###### Artikkel 2
@@ -6677,6 +6784,7 @@ Undersøkelse av søknaden
 Kommisjonens undersøkelse av søknaden som nevnt i artikkel 97 nr. 2 i forordning [(EU) nr. 1308/2013](eu/32013r1308), skal bestå av en kontroll av at det ikke er åpenbare feil i søknaden. Ved undersøkelse av søknaden skal Kommisjonen særlig undersøke enhetsdokumentet. Undersøkelsen skal være avsluttet innen en frist på seks måneder. Dersom denne fristen overskrides, skal Kommisjonen informere søkeren skriftlig om årsakene til forsinkelsen.
 
 ### AVSNITT 2
+
 Innsigelsesprosedyre
 
 ###### Artikkel 11
@@ -6737,6 +6845,7 @@ Første ledd gjelder tilsvarende med nødvendige endringer for en beskyttet geog
 Slike overgangsperioder skal angis i søknadsdokumentet nevnt i artikkel 94 nr. 1 i forordning [(EU) nr. 1308/2013](eu/32013r1308).
 
 ### AVSNITT 3
+
 Endringer av produktspesifikasjoner
 
 ###### Artikkel 14
@@ -6825,6 +6934,7 @@ Midlertidige endringer
 5\. Kommisjonen skal offentliggjøre slike endringer innen tre måneder fra datoen da meldingen ble mottatt fra medlemsstaten, tredjelandet eller den enkelte produsenten eller produsentgruppen i tredjelandet. En midlertidig endring får anvendelse på unionens territorium så snart den er offentliggjort av Kommisjonen.
 
 ### AVSNITT 4
+
 Annullering av en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse
 
 ###### Artikkel 19
@@ -6855,6 +6965,7 @@ Godtakbarhet for anmodninger om annullering
 3\. Begrunnede innsigelser mot annullering kan bare godtas dersom de viser at den registrerte betegnelsen har kommersiell betydning for en berørt person.
 
 ### AVSNITT 5
+
 Bruk av symboler, betegnelser og forkortelser
 
 ###### Artikkel 22
@@ -6893,9 +7004,11 @@ I samsvar med artikkel 119 nr. 3 i forordning [(EU) nr. 1308/2013](eu/32013r1308
    Madeira eller Madère, Port eller Porto.
 
 ### KAPITTEL III
+
 TRADISJONELLE BETEGNELSER
 
 ### AVSNITT 1
+
 Søknader om beskyttelse og undersøkelsesprosedyre
 
 ###### Artikkel 24
@@ -7014,6 +7127,7 @@ Som ledd i undersøkelsen av en innsigelse skal Kommisjonen oppfordre partene ti
 Dersom en søknad avslås, skal de innsigelsesprosedyrene som er utsatt, anses som avsluttet, og de berørte partene som gjør innsigelse, skal underrettes.
 
 ### AVSNITT 3
+
 Beskyttelse
 
 ###### Artikkel 32
@@ -7050,6 +7164,7 @@ En registrert homonym betegnelse kan brukes bare dersom det er en klar forskjell
 2\. Nr. 1 gjelder tilsvarende med nødvendige endringer for tradisjonelle betegnelser som ble beskyttet før 1. august 2009, og som er helt eller delvis homonyme med en beskyttet opprinnelsesbetegnelse eller en beskyttet geografisk betegnelse eller med navnet på en vindruesort eller et av dets synonymer oppført i vedlegg IV.
 
 ### AVSNITT 4
+
 Endring og annullering
 
 ►**M1**
@@ -7115,9 +7230,11 @@ Eksisterende beskyttede tradisjonelle betegnelser
 En tradisjonell betegnelse som er beskyttet i samsvar med forordning [(EF) nr. 607/2009](eu/32009r0607), skal automatisk beskyttes i henhold til denne forordningen.
 
 ### KAPITTEL IV
+
 **MERKING OG PRESENTASJON**
 
 ### AVSNITT 1
+
 Obligatoriske opplysninger
 
 ###### Artikkel 40
@@ -7259,6 +7376,7 @@ Særlige regler for kullsyreimpregnert musserende vin, kullsyreimpregnert perlen
 3\. For musserende kvalitetsvin kan henvisningen til kategorien av vinprodukt utelates for viner med etikett som inneholder uttrykket *«sekt»*.
 
 ### AVSNITT 2
+
 Frivillige opplysninger
 
 ###### Artikkel 49
@@ -7419,6 +7537,7 @@ Medlemsstatene kan, når det dreier seg om registrerte varemerker eller varemerk
 4. et administrasjonsområde.
 
 ### AVSNITT 3
+
 Regler for visse særlige flaskeformer og lukkemekanismer
 
 ###### Artikkel 56
@@ -7458,6 +7577,7 @@ Produsentmedlemsstatenes tilleggsbestemmelser om merking og presentasjon
 4\. Medlemsstatene kan for kontrollformål beslutte at artikkel 118, 119 og 120 i forordning (EU) nr. 1308/2013 skal gjelde for vinprodukter som er tappet på deres territorium, men som ennå ikke er markedsført eller eksportert.
 
 ### KAPITTEL V
+
 ALMINNELIGE BESTEMMELSER, OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 59. Prosedyrespråk
@@ -7519,6 +7639,7 @@ Utferdiget i Brussel 17. oktober 2018.
 ### VEDLEGG I
 
 ### DEL A
+
 Betegnelsene nevnt i artikkel 41 nr. 1
 
 | *Språk* | *Betegnelser som gjelder sulfitter* | *Betegnelser som gjelder egg og eggbaserte produkter* | *Betegnelser som gjelder melk og melkebaserte produkter* |
@@ -7549,6 +7670,7 @@ Betegnelsene nevnt i artikkel 41 nr. 1
 | ►**EØS-tilpasning som følge av [EØS-avtalen protokoll 47](avtale/avt-1992-05-02-1-p47) tillegg 1 nr. 8c**<br>på norsk | «sulfitter» eller «svoveldioksid» | «egg», «eggprotein», «eggprodukt», «egglysozym» eller «eggalbumin» | «melk», «melkeprodukt», «melkekasein» eller «melkeprotein»<br>◄**EØS-tilpasning som følge av [EØS-avtalen protokoll 47](avtale/avt-1992-05-02-1-p47) tillegg 1 nr. 8c** |
 
 ### DEL B
+
 Piktogrammer nevnt i artikkel 41 nr. 2
 
 |  |  |  |  |
@@ -7556,6 +7678,7 @@ Piktogrammer nevnt i artikkel 41 nr. 2
 |  |  |  |  |
 
 ### VEDLEGG II
+
 Uttrykk nevnt i artikkel 46 nr. 3 andre ledd bokstav b)
 
 | *Språk* | *Uttrykk som er tillatt istedenfor «produsent»* | *Uttrykk som er tillatt istedenfor «produsert av»* |
@@ -7587,6 +7710,7 @@ Uttrykk nevnt i artikkel 46 nr. 3 andre ledd bokstav b)
 ### VEDLEGG III
 
 ### DEL A
+
 Liste over betegnelser nevnt i artikkel 47 nr. 1 som skal brukes på musserende vin, kullsyreimpregnert musserende vin, musserende kvalitetsvin eller musserende kvalitetsvin av aromatisk type
 
 | *Betegnelser* | *Bruksvilkår* |
@@ -7600,6 +7724,7 @@ Liste over betegnelser nevnt i artikkel 47 nr. 1 som skal brukes på musserende 
 | doux, mild, dolce, sweet, sød, γλυκóς, dulce, doce, söt, makea, saldus, magus, édes, ħelu, słodkie, sladko, sladké, cладкo, dulce, saldais, slatko | Dersom sukkerinnholdet er høyere enn 50 gram per liter. |
 
 ### DEL B
+
 Liste over betegnelser nevnt i artikkel 52 nr. 1 som skal brukes på andre produkter enn dem som er oppført i del A
 
 | *Betegnelser* | *Bruksvilkår* |
@@ -7610,9 +7735,11 @@ Liste over betegnelser nevnt i artikkel 52 nr. 1 som skal brukes på andre produ
 | cладкo, dulce, sladké, sød, süss, magus, γλυκóς, sweet, doux, dolce, saldais, saldus, édes, ħelu, zoet, słodkie, doce, dulce, sladko, makea, sött, slatko | Dersom sukkerinnholdet er på minst 45 gram per liter. |
 
 ### VEDLEGG IV
+
 LISTE OVER VINDRUESORTER OG DERES SYNONYMER SOM KAN FOREKOMME VED MERKING AV VIN[^15]
 
 ### DEL A
+
 Liste over vindruesorter og deres synonymer som kan forekomme ved merking av vin i samsvar med artikkel 50 nr. 3
 
 |  | *Beskyttet opprinnelsesbetegnelse eller beskyttet geografisk betegnelse* | *Sortsnavn eller synonym for dette* | *Land som kan bruke sortsnavnet eller synonymene*[^(1)] |
@@ -7688,6 +7815,7 @@ Liste over vindruesorter og deres synonymer som kan forekomme ved merking av vin
 |  | – | Normal skrift: | Kolonne 3: navn på synonymet til en vinstokksort.<br>Kolonne 4: navn på landet som bruker synonymet til en vinstokksort. |
 
 ### DEL B
+
 Liste over vindruesorter og deres synonymer som kan forekomme ved merking av vin i samsvar med artikkel 50 nr. 4
 
 |  | *Beskyttet opprinnelses-*<br>*betegnelse eller beskyttet geografisk betegnelse* | *Sortsnavn eller synonym for dette* | *Land som kan bruke sortsnavnet eller synonymene*[^(1)] |
@@ -7760,6 +7888,7 @@ Liste over vindruesorter og deres synonymer som kan forekomme ved merking av vin
 (2) Kan brukes i samsvar med bestemmelsene i artikkel 22 nr. 4 i avtalen av 1. desember 2008 mellom Det europeiske fellesskap og Australia om handel med vin (EUT L 28 av 30.1.2009, s. 3).
 
 ### VEDLEGG V
+
 Angivelser som er tillatt ved merking av vin i samsvar med artikkel 53 nr. 2
 
 | *gjæret på fat* | *modnet på fat* | *lagret på fat* |
@@ -7770,6 +7899,7 @@ Angivelser som er tillatt ved merking av vin i samsvar med artikkel 53 nr. 2
 Ordet «fat» kan erstattes med ordet «tønne».
 
 ### VEDLEGG VI
+
 Uttrykk nevnt i artikkel 54 nr. 1
 
 | *Medlemsstat* | *Uttrykk* |
@@ -7786,6 +7916,7 @@ Uttrykk nevnt i artikkel 54 nr. 1
 | Slovakia | Kaštieľ, Kúria, Pivnica, Vinárstvo, Usadlosť |
 
 ### VEDLEGG VII
+
 Begrensninger i bruken av visse flasketyper som nevnt i artikkel 56
 
 1. «Flûte d'Alsace»:
@@ -7896,6 +8027,7 @@ For [EØS-avtalens](lov/1992-11-27-109/eøsl) formål skal artikkel 30 gjelde me
 Uten hensyn til bestemmelsene i protokoll 1 skal kommunikasjonen i henhold til artikkel 30 nr. 1 fra de kompetente myndigheter i EFTA-statene til Kommisjonen følge framgangsmåten fastsatt i bokstav b). Protokoll 1 nr. 4 får ikke anvendelse på artikkel 30.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/34
+
 av 17. oktober 2018
 om regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til søknader om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og tradisjonelle betegnelser i vinsektoren, innsigelsesprosedyren, endringer av produktspesifikasjoner, registeret over beskyttede betegnelser, annullering av beskyttelse og bruk av symboler, og av europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306) med hensyn til en passende kontrollordning
 
@@ -7967,6 +8099,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 INNLEDENDE BESTEMMELSER
 
 ### Artikkel 1. Formål
@@ -7983,9 +8116,11 @@ Denne forordningen fastsetter regler for anvendelse av henholdsvis forordning [(
 8. underretninger.
 
 ### KAPITTEL II
+
 BESKYTTEDE OPPRINNELSESBETEGNELSER OG BESKYTTEDE GEOGRAFISKE BETEGNELSER
 
 ### AVSNITT 1
+
 Søknad om beskyttelse
 
 ###### Artikkel 2
@@ -8054,6 +8189,7 @@ Dersom det som følge av disse opplysningene foretas vesentlige endringer av pro
 3\. Kommisjonen skal treffe en beslutning om avvisning av den aktuelle søknaden på grunnlag av de dokumentene og opplysningene den har til rådighet. Kommisjonen skal underrette medlemsstatens eller tredjelandets myndigheter eller søkeren etablert i det berørte tredjelandet om beslutningen om avvisning av søknaden.
 
 ### AVSNITT 2
+
 Innsigelsesprosedyre
 
 ###### Artikkel 8
@@ -8084,6 +8220,7 @@ En begrunnet innsigelse skal utarbeides i samsvar med skjemaet i vedlegg II.
 3\. Kommisjonen skal underrettes om resultatene av samrådet nevnt i artikkel 12 nr. 3 og 4 i delegert forordning [(EU) 2019/33](eu/32019r0033) senest en måned etter avslutningen av samrådet, idet det gjøres bruk av skjemaet i vedlegg III til denne forordningen.
 
 ### AVSNITT 3
+
 Endringer av produktspesifikasjonen
 
 ###### Artikkel 9
@@ -8144,6 +8281,7 @@ Underretning om en midlertidig endring
 5\. Skjemaet i vedlegg VI skal brukes til underretningene i nr. 3.
 
 ### AVSNITT 4
+
 Register
 
 ###### Artikkel 12
@@ -8170,6 +8308,7 @@ Register
 5\. Registeret skal være offentlig tilgjengelig.
 
 ### AVSNITT 5
+
 Annullering
 
 ###### Artikkel 13
@@ -8189,6 +8328,7 @@ Anmodningen om annullering kan ledsages av underlagsdokumenter dersom det er rel
 En anmodning om annullering skal utarbeides i samsvar med skjemaet i vedlegg VII.
 
 ### AVSNITT 6
+
 Bruk av unionssymbolet
 
 ###### Artikkel 14
@@ -8198,6 +8338,7 @@ Unionssymbolet
 Unionssymbolet for den beskyttede opprinnelsesbetegnelsen eller den beskyttede geografiske betegnelsen omhandlet i artikkel 120 nr. 1 bokstav e) i forordning [(EU) nr. 1308/2013](eu/32013r1308) skal gjengis som fastsatt i vedlegg X til gjennomføringsforordning [(EU) nr. 668/2014](eu/32014r0668).
 
 ### AVSNITT 7
+
 Kontroller
 
 ###### Artikkel 15
@@ -8311,9 +8452,11 @@ Den analytiske og organoleptiske undersøkelsen nevnt i artikkel 19 nr. 1 først
 3. En organoleptisk undersøkelse som omfatter utseende, lukt og smak.
 
 ### KAPITTEL III
+
 TRADISJONELLE BETEGNELSER
 
 ### AVSNITT 1
+
 Søknader om beskyttelse
 
 ###### Artikkel 21
@@ -8325,6 +8468,7 @@ Søknad om beskyttelse
 2\. Dersom en representativ bransjeorganisasjon etablert i et tredjeland inngir en anmodning, skal søkeren oversende Kommisjonen opplysningene om den representative bransjeorganisasjonen og dens medlemmer i samsvar med artikkel 30 nr. 3. Kommisjonen skal offentliggjøre disse opplysningene.
 
 ### AVSNITT 2
+
 Innsigelsesprosedyre
 
 ###### Artikkel 22
@@ -8359,6 +8503,7 @@ Partenes inngivelse av merknader
 2\. Dersom Kommisjonen som ledd i undersøkelsen av en innsigelse anmoder partene om å inngi merknader til de underretningene som er mottatt fra de andre partene, skal disse merknadene inngis senest to måneder etter datoen for anmodningen.
 
 ### AVSNITT 3
+
 Beskyttelse av tradisjonelle betegnelser
 
 ###### Artikkel 25
@@ -8385,6 +8530,7 @@ Håndheving av beskyttelsen
 Ved anvendelsen av artikkel 113 i forordning (EU) nr. 1308/2013 skal vedkommende nasjonale myndigheter ved ulovlig bruk av beskyttede tradisjonelle betegnelser på eget initiativ eller på anmodning fra en part treffe alle nødvendige tiltak for å hindre eller stanse omsetning, herunder eksport, av de aktuelle produktene.
 
 ### AVSNITT 4
+
 Endring og annullering
 
 ###### Artikkel 27
@@ -8434,6 +8580,7 @@ Dersom det treffes en beslutning om annullering av en tradisjonell betegnelse, s
 5\. Når en beslutning om annullering av en tradisjonell betegnelse får virkning, skal Kommisjonen stryke betegnelsen fra registeret og protokollføre annulleringen.
 
 ### KAPITTEL IV
+
 KOMMUNIKASJON, OFFENTLIGGJØRING OG SLUTTBESTEMMELSER
 
 ### Artikkel 30. Kommunikasjon mellom Kommisjonen, medlemsstatene, tredjeland og andre aktører
@@ -8508,6 +8655,7 @@ Utferdiget i Brussel 17. oktober 2018.
 |  | *President* |
 
 ### VEDLEGG I
+
 ENHETSDOKUMENT
 
 «BETEGNELSE»
@@ -8590,6 +8738,7 @@ Smak
 11.2.**Særlige oppgaver for vedkommende myndigheter eller sertifiseringsorganer som er ansvarlige for kontrollene:**
 
 ### VEDLEGG II
+
 BEGRUNNET INNSIGELSE
 
 [Sett «X» i den relevante ruten:] ☐ BOB ☐ BGB
@@ -8661,6 +8810,7 @@ E-postadresse: ...
 [E-postadresse: ]
 
 ### VEDLEGG III
+
 UNDERRETNING OM AVSLUTNING AV SAMRÅD SOM LEDD I INNSIGELSESPROSEDYREN
 
 [Sett «X» i den relevante ruten:] ☐ BOB ☐ BGB
@@ -8718,6 +8868,7 @@ Dato for offentliggjøring i *Den europeiske unions tidende*:
 [E-postadresse: ]
 
 ### VEDLEGG IV
+
 SØKNAD OM EN UNIONSENDRING AV PRODUKTSPESIFIKASJONEN
 
 [Registrert betegnelse] «...»...
@@ -8763,6 +8914,7 @@ Det endrede konsoliderte og behørig utfylte enhetsdokumentet
 Den konsoliderte utgaven av produktspesifikasjonen som offentliggjort eller henvisningen til offentliggjøringen av produktspesifikasjonen
 
 ### VEDLEGG V
+
 UNDERRETNING OM GODKJENNING AV EN STANDARDENDRING
 
 [Registrert betegnelse] «...»...
@@ -8806,6 +8958,7 @@ Det endrede konsoliderte enhetsdokumentet dersom det er relevant
 En kopi av den konsoliderte utgaven av produktspesifikasjonen som offentliggjort eller henvisningen til offentliggjøringen av produktspesifikasjonen
 
 ### VEDLEGG VI
+
 UNDERRETNING OM GODKJENNING AV EN MIDLERTIDIG ENDRING
 
 [Registrert betegnelse] «...»
@@ -8841,6 +8994,7 @@ Beslutningen om godkjenning av den midlertidige endringen
 Beviset for at endringen får anvendelse i tredjelandet
 
 ### VEDLEGG VII
+
 ANMODNING OM ANNULLERING
 
 [Registrert betegnelse:] «...»
@@ -8888,6 +9042,7 @@ EU-nr.: [brukes bare i EU]
 [E-postadresse: ]
 
 ### VEDLEGG VIII
+
 SØKNAD OM BESKYTTELSE AV EN TRADISJONELL BETEGNELSE
 
 Dato for mottak (DD/MM/ÅÅÅÅ) ...
@@ -8945,6 +9100,7 @@ Underskriverens navn ...
 Underskrift ...
 
 ### VEDLEGG IX
+
 **INNSIGELSE MOT EN SØKNAD OM BESKYTTELSE AV EN TRADISJONELL BETEGNELSE**
 
 Dato for mottak (DD/MM/ÅÅÅÅ) ...
@@ -9029,6 +9185,7 @@ Underskriverens navn ...
 Underskrift ...
 
 ### VEDLEGG X
+
 ANMODNING OM ENDRING AV EN TRADISJONELL BETEGNELSE
 
 Dato for mottak (DD/MM/ÅÅÅÅ) ...
@@ -9064,6 +9221,7 @@ Underskriverens navn ...
 Underskrift ...
 
 ### VEDLEGG XI
+
 ANMODNING OM ANNULLERING AV EN TRADISJONELL BETEGNELSE
 
 Dato for mottak (DD/MM/ÅÅÅÅ) ...
@@ -9113,6 +9271,7 @@ Underskrift ...
 ### VEDLEGG XII
 
 ### DEL A
+
 PRAKTISKE REGLER FOR KOMMUNIKASJON OG OFFENTLIGGJØRING I FORBINDELSE MED GJENNOMFØRING AV KAPITTEL II SOM NEVNT I ARTIKKEL 30 NR. 4 ANNET LEDD
 
 De myndighetene og personene som er omfattet av denne forordningen, skal kontakte Kommisjonen på følgende e-postadresse for å innhente opplysninger om de praktiske reglene for tilgang til informasjonssystemer, om kommunikasjonsmetodene og om hvordan de opplysningene som er nødvendige for gjennomføring av kapittel II, skal gjøres tilgjengelige som nevnt i artikkel 30 nr. 4 annet ledd:
@@ -9120,6 +9279,7 @@ De myndighetene og personene som er omfattet av denne forordningen, skal kontakt
 Funksjonell postkasse: [AGRI-CONTACT-E-Ambrosia@ec.europa.eu](mailto:AGRI-CONTACT-E-Ambrosia@ec.europa.eu)
 
 ### DEL B
+
 PRAKTISKE REGLER FOR KOMMUNIKASJON OG OFFENTLIGGJØRING I FORBINDELSE MED GJENNOMFØRING AV KAPITTEL III SOM NEVNT I ARTIKKEL 30 NR. 4 ANNET LEDD
 
 De myndighetene og personene som er omfattet av denne forordningen, skal kontakte Kommisjonen på følgende e-postadresse for å innhente opplysninger om de praktiske reglene for tilgang til informasjonssystemer, om kommunikasjonsmetodene og om hvordan de opplysningene som er nødvendige for gjennomføring av kapittel III, skal gjøres tilgjengelige som nevnt i artikkel 30 nr. 4 annet ledd:
@@ -9143,6 +9303,7 @@ som endret ved
 ►**M3** Forordning [(EU) 2022/68](eu/32022r0068)
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2019/934
+
 av 12. mars 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til vindyrkingsområder der alkoholstyrken kan økes, tillatte ønologiske framstillingsmåter og restriksjoner som gjelder for produksjon og konservering av vinprodukter, minsteinnholdet av alkohol for biprodukter og bortskaffing av disse samt offentliggjøring av OIV-dokumenter
 
@@ -9359,6 +9520,7 @@ Utferdiget i Brussel 12. mars 2019.
 ### VEDLEGG I
 
 ### DEL A
+
 TILLATTE ØNOLOGISKE FRAMSTILLINGSMÅTER
 
 ►**M3**
@@ -9527,6 +9689,7 @@ TABELL 2: TILLATTE ØNOLOGISKE FORBINDELSER NEVNT I ARTIKKEL 3 NR. 1
 **◄M3**
 
 ### Tillegg 1
+
 Vinsyre (L(+)-) og avledede produkter
 
 **►M3**
@@ -9859,6 +10022,7 @@ Krav:
 3. De membranene som brukes, skal oppfylle kravene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og [(EU) nr. 10/2011](eu/32011r0010) samt nasjonale bestemmelser for gjennomføring av disse. De skal oppfylle kravene i OIVs internasjonale ønologiske regelverk.
 
 ### DEL B
+
 GRENSEVERDIER FOR SVOVELDIOKSID I VIN
 
 A. SVOVELDIOKSIDINNHOLD I VIN
@@ -10016,6 +10180,7 @@ C. SVOVELDIOKSIDINNHOLD I MUSSERENDE VIN
 2. Når klimaforholdene i visse vindyrkingsområder i Unionen gjør det nødvendig, kan de berørte medlemsstatene tillate at det totale svoveldioksidinnholdet økes med høyst 40 mg/l for de musserende vinene som er nevnt i nr. 1 bokstav a) og b) og framstilt på deres territorium, forutsatt at vinene som omfattes av denne godkjenningen, ikke sendes ut fra den berørte medlemsstaten.
 
 ### DEL C
+
 GRENSEVERDIER FOR FLYKTIGE SYRER I VIN
 
 1. Innholdet av flyktige syrer kan ikke være høyere enn
@@ -10038,6 +10203,7 @@ GRENSEVERDIER FOR FLYKTIGE SYRER I VIN
    Medlemsstatene skal underrette Kommisjonen om disse unntakene i samsvar med delegert forordning [(EU) 2017/1183](eu/32017r1183) innen en måned etter at unntaket er innvilget. Kommisjonen skal så offentliggjøre unntaket på sitt nettsted.
 
 ### DEL D
+
 GRENSEVERDIER OG VILKÅR FOR SØTNING AV VIN
 
 1. Søtning av vin er tillatt bare ved hjelp av ett eller flere av følgende produkter:
@@ -10057,6 +10223,7 @@ GRENSEVERDIER OG VILKÅR FOR SØTNING AV VIN
 4. Søtning av vin er tillatt bare i framstillings- og engrosleddet.
 
 ### VEDLEGG II
+
 TILLATTE ØNOLOGISKE FRAMSTILLINGSMÅTER OG RESTRIKSJONER SOM GJELDER FOR MUSSERENDE VINER, MUSSERENDE KVALITETSVINER OG MUSSERENDE KVALITETSVINER AV AROMATISK TYPE
 
 A. **Musserende vin**
@@ -10172,6 +10339,7 @@ C. **Musserende viner og musserende kvalitetsviner med beskyttet opprinnelsesbet
    7. Uansett nr. 6 i dette avsnittet skal prosessen med å framstille musserende kvalitetsviner av aromatisk type med beskyttet opprinnelsesbetegnelse være minst én måned.
 
 ### Tillegg
+
 Liste over vindruesorter som kan brukes som bestanddeler i vinblandingen til musserende kvalitetsviner av aromatisk type og musserende kvalitetsviner med beskyttet opprinnelsesbetegnelse
 
 |  |  |
@@ -10201,6 +10369,7 @@ Liste over vindruesorter som kan brukes som bestanddeler i vinblandingen til mus
 | Macabeo B | Zefír B |
 
 ### VEDLEGG III
+
 TILLATTE ØNOLOGISKE FRAMSTILLINGSMÅTER OG RESTRIKSJONER SOM GJELDER FOR STERKVINER OG STERKVINER MED BESKYTTET OPPRINNELSESBETEGNELSE ELLER BESKYTTET GEOGRAFISK BETEGNELSE
 
 A. **Sterkviner**
@@ -10278,6 +10447,7 @@ B. **Sterkviner med beskyttet opprinnelsesbetegnelse (andre bestemmelser enn dem
     - frigis for omsetning etter lagring på eikefat i gjennomsnittlig to år.
 
 ### Tillegg 1
+
 Liste over sterkviner med beskyttet opprinnelsesbetegnelse hvis framstilling er underlagt særlige regler
 
 A. LISTE OVER STERKVINER MED BESKYTTET OPPRINNELSESBETEGNELSE HVIS FRAMSTILLING INNEBÆRER BRUK AV DRUEMOST ELLER EN BLANDING AV DRUEMOST OG VIN
@@ -10515,6 +10685,7 @@ Muscats – Grenache – Garnacha Blanca – Garnacha Peluda – Listán Blanco 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/935](eu/32019r0935) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll 1.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/935
+
 av 16. april 2019
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) med hensyn til analysemetoder for å bestemme vinprodukters fysiske, kjemiske og organoleptiske egenskaper og meldinger om medlemsstatenes beslutninger med hensyn til økning av naturlig alkoholstyrke
 
@@ -10581,6 +10752,7 @@ Utferdiget i Brussel 16. april 2019.
 |  | *President* |
 
 ### VEDLEGG
+
 SÆRSKILTE EU-ANALYSEMETODER
 
 ALLYLISOTIOCYANAT

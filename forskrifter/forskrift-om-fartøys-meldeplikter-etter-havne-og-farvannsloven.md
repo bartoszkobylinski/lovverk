@@ -15,7 +15,7 @@ xml_hash: "ffc4db2753c9df5cb9aa5a4d26f40ade97c7a08ce32f68905d637bf2a40bb92a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -315,14 +315,17 @@ Fra samme tidspunkt oppheves:
 - [Forskrift 29. mai 2013 nr. 552](forskrift/2013-05-29-552) om påbudt skipsrapporteringssystem i norsk territorialfarvann og økonomisk sone.
 
 ## Vedlegg 1
+
 Ship pre-arrival security information form
 
 Se her for å lese vedlegg 1: [(pdf)](static/SF/sf-20151221-1790-01-01.pdf)
 
 ## Vedlegg 2
+
 Kart over «Barents SRS» virkeområde med nærmere angivelse av det norske ansvars- og rapporteringsområdet
 
 ## Vedlegg 3
+
 Rapporteringskrav og rapporteringsalternativer
 
 *Sammendrag:*

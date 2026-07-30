@@ -16,7 +16,7 @@ xml_hash: "98f3efc22f069f5f868d3cc5d5cc1f5982cd432df0bbacf75afd41b03ca54a59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,6 +56,7 @@ Under «Forordninger i PDF» finnes forordning [(EU) nr. 636/2014 i](eu/32014r06
 ### Forordning (EU) nr. 636/2014
 
 ### Kommisjonens gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636)
+
 av 13. juni 2014
 om en sertifikatmodell for handel med uflådd viltlevende storvilt
 
@@ -105,6 +106,7 @@ Utferdiget i Brussel 13. juni 2014.
 |  | *President* |
 
 ### VEDLEGG
+
 En modell for helsesertifikat for handel med uflådd viltlevende storvilt
 
 [(pdf)](static/SF/sf-20170206-0141-32014r0636-01-01.pdf)

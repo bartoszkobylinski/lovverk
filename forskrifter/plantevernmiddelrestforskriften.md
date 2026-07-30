@@ -102,6 +102,7 @@ som endret ved
 - ►**M32** Forordning [(EU) nr. 2017/625](eu/32017r0625*).
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 396/2005/EF](eu/32005r0396)
+
 av 23. februar 2005
 om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôr av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](eu/31991l0414*)
 
@@ -183,6 +184,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål
@@ -240,9 +242,11 @@ I denne forordning er det fastsatt harmoniserte fellesskapsbestemmelser om grens
 2\. Vedlegg IV skal først opprettes senest tolv måneder etter at denne forordning er trådt i kraft.
 
 ### Kapittel II
+
 Framgangsmåte for søknader om grenseverdier for restmengder
 
 ### Avsnitt 1
+
 Inngivelse av søknader om grenseverdier for restmengder
 
 ###### Artikkel 6
@@ -298,6 +302,7 @@ Inngivelse av vurderte søknader til Kommisjonen og myndigheten
 2\. Myndigheten skal omgående sende en skriftlig bekreftelse til søkeren, den medlemsstaten som skal foreta vurderingen, og til Kommisjonen om at søknaden er mottatt. I bekreftelsen skal det opplyses om når søknaden og medfølgende dokumentasjon ble mottatt.
 
 ### Avsnitt 2
+
 Myndighetens behandling av søknader om grenseverdier for restmengder
 
 ###### Artikkel 10
@@ -349,6 +354,7 @@ For dette formål skal en anmodning framlegges for Kommisjonen innen to måneder
 Kommisjonen skal treffe en beslutning innen to måneder og eventuelt kreve at myndigheten trekker tilbake sin beslutning eller treffer tiltak for å bøte på sin unnlatelse innenfor en bestemt tidsfrist.
 
 ### Avsnitt 3
+
 Fastsette, endre eller stryke grenseverdier for restmengder
 
 ###### Artikkel 14
@@ -406,6 +412,7 @@ Endringer av grenseverdier for restmengder etter at godkjenninger av plantefarma
 Endringer i vedlegg II eller III som er nødvendige for å stryke en grenseverdi for restmengder, etter at en eksisterende godkjenning av et plantefarmasøytisk produkt tilbakekalles, kan vedtas uten å innhente en uttalelse fra myndigheten.
 
 ### Kapittel III
+
 Grenseverdier for restmengder for produkter av vegetabilsk og animalsk opprinnelse
 
 ### Artikkel 18. Overholdelse av grenseverdier for restmengder
@@ -443,6 +450,7 @@ Det er forbudt å bearbeide og/eller blande de produktene som er omfattet av ved
 2\. Særskilte konsentrasjons- og fortynningsfaktorer for bestemte bearbeidings- og/eller blandingsprosesser eller for bestemte bearbeidede og/eller sammensatte produkter kan føres opp på listen i vedlegg VI i samsvar med framgangsmåten i artikkel 45 nr. 2.
 
 ### Kapittel IV
+
 Særlige bestemmelser om innarbeiding av eksisterende grenseverdier for restmengder i denne forordning
 
 ### Artikkel 21. Første fastsettelse av grenseverdier for restmengder
@@ -482,9 +490,11 @@ Når et virksomt stoff ennå ikke er oppført i vedlegg I til direktiv [91/414/E
 Midlertidige grenseverdier for restmengder for virksomme stoffer nevnt i artikkel 23 kan fastsettes og oppføres i vedlegg III i samsvar med artikkel 22 nr. 1 eller, dersom det er relevant, det virksomme stoffet kan oppføres i vedlegg IV i samsvar med artikkel 5 nr. 1, idet det tas hensyn til myndighetens uttalelse, dersom det er nødvendig med en slik uttalelse. Midlertidige grenseverdier for restmengder skal fastsettes med den laveste verdien som kan oppnås i alle medlemsstater på grunnlag av god landbrukspraksis.
 
 ### Kapittel V
+
 Offentlige kontroller, rapporter og sanksjoner
 
 ### Avsnitt 1
+
 Offentlige kontroller av grenseverdier for restmengder
 
 ►**M32**
@@ -518,6 +528,7 @@ Analysemetoder
 3\. Alle laboratorier som analyserer prøver med henblikk på de offentlige kontrollene av rester av plantevernmidler, skal delta i Fellesskapets egnethetsprøvinger for rester av plantevernmidler, som gjennomføres av Kommisjonen.
 
 ### Avsnitt 2
+
 Fellesskapets kontrollprogram
 
 ###### Artikkel 29
@@ -529,6 +540,7 @@ Fellesskapets kontrollprogram
 2\. Fellesskapets kontrollprogram skal vedtas og ajourføres hvert år i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2. Utkastet til Fellesskapets kontrollprogram skal framlegges for den komiteen som er nevnt i artikkel 45 nr. 1 senest seks måneder før utgangen av hvert kalenderår.
 
 ### Avsnitt 3
+
 Nasjonale kontrollprogrammer
 
 ►**M32**
@@ -540,6 +552,7 @@ Nasjonale kontrollprogrammer
 ◄**M32**
 
 ### Avsnitt 4
+
 Opplysninger fra medlemsstatene og årlig rapport
 
 ###### Artikkel 31
@@ -586,6 +599,7 @@ Innlevering av den årlige rapporten om rester av plantevernmidler til komiteen
 Kommisjonen skal omgående framlegge den årlige rapporten om rester av plantevernmidler for den komiteen som er nevnt i artikkel 45 nr. 1, for at komiteen skal kunne gjennomgå og utforme rekommandasjoner om eventuelle nødvendige tiltak som skal treffes med hensyn til rapporterte overtredelser av de grenseverdiene for restmengder, som er fastsatt i vedlegg II og III.
 
 ### Avsnitt 5
+
 Sanksjoner
 
 ###### Artikkel 34
@@ -597,6 +611,7 @@ Medlemsstatene skal fastsette bestemmelser om sanksjoner for overtredelser av be
 Medlemsstatene skal omgående melde om disse bestemmelsene og eventuelle senere endringer til Kommisjonen.
 
 ### Kapittel VI
+
 Nødtiltak
 
 ### Artikkel 35. Nødtiltak
@@ -604,6 +619,7 @@ Nødtiltak
 Artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178) får anvendelse når det omgående må treffes tiltak ettersom nye opplysninger eller en ny vurdering av gjeldende opplysninger viser at rester av plantevernmidler eller grenseverdier for restmengder som er omfattet av denne forordning, kan være til skade for menneskers eller dyrs helse. Når det gjelder ferske produkter, reduseres Kommisjonens frist for å treffe en beslutning til sju dager.
 
 ### Kapittel VII
+
 Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
 
 ### Artikkel 36. Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
@@ -625,6 +641,7 @@ Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
 2\. Bevilgningene skal godkjennes hvert regnskapsår som en del av den årlige budsjettbehandlingen.
 
 ### Kapittel VIII
+
 Samordning av søknader om grenseverdier for restmengder
 
 ### Artikkel 38. Utpeking av nasjonale myndigheter
@@ -662,6 +679,7 @@ Med forbehold for de relevante bestemmelsene i Fellesskapets regelverk og nasjon
 Det gis anledning til å benytte en fastsatt gebyrtabell basert på gjennomsnittlige kostnader for det arbeidet som er nevnt i nr. 1.
 
 ### Kapittel IX
+
 Gjennomføring
 
 ### Artikkel 43. Vitenskapelig uttalelse fra myndigheten
@@ -698,6 +716,7 @@ I henhold til framgangsmåten i artikkel 45 nr. 2 kan følgende eventuelt fastse
 Senest ti år etter at denne forordning er trådt i kraft, skal Kommisjonen oversende en rapport om gjennomføringen av forordningen med eventuelle relevante forslag til Europaparlamentet og Rådet.
 
 ### Kapittel X
+
 Sluttbestemmelser
 
 ### Artikkel 48. Oppheving og tilpasning av lovgivning

@@ -15,7 +15,7 @@ xml_hash: "f77a63198279864c51033497be583eccc6a6b294f3be8fad7f0e5881515338ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,6 +61,7 @@ som endret ved
 ►**M1** Forordning [(EU) nr. 1056/2012](eu/32012r1056)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1332/2008](eu/32008r1332)
+
 av 16. desember 2008
 om næringsmiddelenzymer og om endring av rådsdirektiv [83/417/EØF](eu/31983l0417), rådsforordning [(EF) nr. 1493/1999](eu/31999r1493), direktiv [2000/13/EF](eu/32000l0013*), rådsdirektiv [2001/112/EF](eu/32001l0112) og forordning [(EF) nr. 258/97](eu/31997r0258)
 
@@ -136,6 +137,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål
@@ -177,6 +179,7 @@ For disse formål inneholder denne forordning bestemmelser om
 2. «næringsmiddelenzympreparat» en utforming som består av ett eller flere næringsmiddelenzymer og som er iblandet stoffer som f.eks. tilsetningsstoffer i næringsmidler og/eller andre næringsmiddelingredienser for å forenkle lagring, salg, standardisering, fortynning eller oppløsning.
 
 ### Kapittel II
+
 Fellesskapsliste over godkjente næringsmiddelenzymer
 
 ### Artikkel 4. Fellesskapsliste over næringsmiddelenzymer
@@ -224,6 +227,7 @@ Om nødvendig kan det etter framgangsmåten med forskriftskomité omhandlet i ar
 2. et bestemt næringsmiddel tilhører en næringsmiddelkategori på fellesskapslisten over næringsmiddelenzymer.
 
 ### Kapittel III
+
 Merking
 
 ### Artikkel 10. Merking av næringsmiddelenzymer og næringsmiddelenzympreparater som ikke er beregnet på salg til sluttforbrukeren
@@ -272,6 +276,7 @@ Merking
 Artikkel 10–12 skal ikke berøre mer detaljerte eller mer omfattende lover og forskrifter om vekt og mål eller om presentasjon, klassifisering, emballering og merking av farlige stoffer og stoffblandinger eller om transport av slike stoffer og blandinger.
 
 ### Kapittel IV
+
 Bestemmelser om framgangsmåte og gjennomføring
 
 ### Artikkel 14. Opplysningsplikt
@@ -297,6 +302,7 @@ Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468)
 Rettsgrunnlaget for finansieringen av tiltak på grunnlag av denne forordning er artikkel 66 nr. 1 bokstav c) i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 ### Kapittel V
+
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 17. Opprettelse av fellesskapslisten over næringsmiddelenzymer

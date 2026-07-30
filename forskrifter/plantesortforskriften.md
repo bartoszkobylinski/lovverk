@@ -15,7 +15,7 @@ xml_hash: "d31f275dae52a6ca1bce29c6ba58abcbe63706ca885b6213751e157e7355cc53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -325,6 +325,7 @@ For å gjøre det lett å finne frem til ordlyden i den forordningen som blir gj
 Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EU) nr. 2021/384](eu/32021r0384). Endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med EØS-avtalen vedlegg 1 kap III er innarbeidet.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2021/384](eu/32021r0384)
+
 av 3. mars 2021
 om egnetheten av sortsnavn på arter av jordbruksvekster og grønnsaker, og om oppheving av forordning [(EF) nr. 637/2009](eu/32009r0637)
 
@@ -494,6 +495,7 @@ Ursula von der Leyen
 *President*
 
 ### VEDLEGG
+
 Definisjon av nært beslektede arter i henhold til artikkel 5 nr. 3
 
 Med hensyn til definisjonen av «nært beslektet art» i henhold til artikkel 5 nr. 3, skal følgende gjelde:
@@ -503,6 +505,7 @@ Med hensyn til definisjonen av «nært beslektet art» i henhold til artikkel 5 
 3. Generelt gjelder for slekter og arter som ikke omfattes av listene over klasser i del I og II, at slekten anses for å være en klasse.
 
 ### DEL I
+
 KLASSER SOM INNGÅR I EN SLEKT
 
 | *Klasser* | *Botaniske navn* |
@@ -521,6 +524,7 @@ KLASSER SOM INNGÅR I EN SLEKT
 | Klasse 4.4: | *Solanum* unntatt klasse 4.1, 4.2 og 4.3 |
 
 ### DEL II
+
 KLASSER SOM OMFATTER MER ENN ÉN SLEKT
 
 | *Klasser* | *Botaniske navn* |

@@ -17,7 +17,7 @@ xml_hash: "fda9f2c94749d8992aae8ac1e5a01f44d9c90ec437c28310cdd741ce958bb0ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -79,6 +79,7 @@ som endret ved
 - ►**M10** Kommisjonsforordning [(EU) 2024/908](eu/32024r0908) av 17. januar 2024
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 178/2002](eu/32002r0178)
+
 av 28. januar 2002
 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet
 
@@ -206,6 +207,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Virkeområde og definisjoner
 
 ### Artikkel 1. Mål og virkeområde
@@ -269,6 +271,7 @@ I denne forordning menes med:
 18. «sluttforbruker»: den endelige forbruker av et næringsmiddel som ikke bruker næringsmiddelet som ledd i et næringsmiddelforetaks virksomhet.
 
 ### Kapittel II
+
 Allment næringsmiddelregelverk
 
 ### Artikkel 4. Virkeområde
@@ -282,6 +285,7 @@ Allment næringsmiddelregelverk
 4\. Inntil da, og som unntak fra nr. 2, skal gjeldende regelverk gjennomføres, samtidig som det tas hensyn til prinsippene fastsatt i artikkel 5-10.
 
 ### Avsnitt 1
+
 Allmenne prinsipper i næringsmiddelregelverket
 
 ###### Artikkel 5
@@ -323,6 +327,7 @@ Vern av forbrukerinteresser
 3. enhver annen praksis som kan villede forbrukeren.
 
 ### ►**M4** Avsnitt 1a
+
 Risikokommunikasjon
 
 ###### Artikkel 8a
@@ -369,6 +374,7 @@ Generell plan for risikokommunikasjon
 ◄**M4**
 
 ### Avsnitt 2
+
 Prinsipper om åpenhet
 
 ###### Artikkel 9
@@ -384,6 +390,7 @@ Informasjon til offentligheten
 Uten at det berører gjeldende regler i Fellesskapet og nasjonal lovgivning om tilgang til dokumenter, skal offentlige myndigheter når det er rimelig grunn til mistanke om at et næringsmiddel eller fôr kan utgjøre en risiko for menneskers eller dyrs helse, avhengig av risikoens art, grad og omfang, treffe hensiktsmessige tiltak for å informere offentligheten om helserisikoens art slik at det så utførlig som mulig opplyses om hvilket næringsmiddel eller fôr eller hvilken type næringsmiddel eller fôr som er berørt, risikoen det kan utgjøre og tiltakene som er truffet eller vil bli truffet for å forebygge, redusere eller fjerne denne risikoen.
 
 ### Avsnitt 3
+
 Allmenne forpliktelser ved handel med næringsmidler
 
 ###### Artikkel 11
@@ -420,6 +427,7 @@ Uten at det berører deres rettigheter og plikter skal Fellesskapet og medlemsst
 5. fremme samsvar mellom internasjonale tekniske standarder og næringsmiddelregelverket, samtidig som det sikres at det høye vernenivået som er vedtatt i Fellesskapet, ikke senkes.
 
 ### Avsnitt 4
+
 Allmenne krav i næringsmiddelregelverket
 
 ###### Artikkel 14
@@ -540,9 +548,11 @@ Bestemmelsene i dette kapittel berører ikke rådsdirektiv [85/374/EØF](eu/3198
 1 EFT L 210 av 7.8.1985, s. 29. Direktivet sist endret ved europaparlaments- og rådsdirektiv [1999/34/EF](eu/31999l0034*) (EFT L 141 av 4.6.1999, s. 20).
 
 ### Kapittel III
+
 Den europeiske myndighet for næringsmiddeltrygghet
 
 ### Avsnitt 1
+
 Oppdrag og oppgaver
 
 ###### Artikkel 22
@@ -599,6 +609,7 @@ Myndigheten skal ha som oppgave å:
 12. utføre andre oppgaver som Kommisjonen pålegger den og som oppdraget omfatter.
 
 ### Avsnitt 2
+
 Organisasjon
 
 ###### Artikkel 24
@@ -832,6 +843,7 @@ Disse framgangsmåtene skal særlig gjelde:
 7. muligheten for å holde offentlige høringer.
 
 ### Avsnitt 3
+
 Virksomhet
 
 ###### Artikkel 29
@@ -1009,6 +1021,7 @@ Nettverk av organisasjoner som er virksomme på de områdene som hører inn unde
 4\. Innen ett år etter at denne forordning har trådt i kraft, skal Kommisjonen offentliggjøre en fortegnelse over de fellesskapsordningene som finnes på de områdene som hører inn under myndighetens oppdrag, der det er fastsatt at medlemsstatene skal utføre visse oppgaver i forbindelse med vitenskapelig vurdering, særlig behandling av godkjenningssaker. Rapporten, som eventuelt skal følges av forslag, skal for hver enkelt ordning særlig angi hvilke endringer eller forbedringer som eventuelt vil være nødvendige for at myndigheten skal kunne utføre sitt oppdrag, i samarbeid med medlemsstatene.
 
 ### Avsnitt 4
+
 Uavhengighet, innsyn, fortrolighet og informasjon
 
 ###### Artikkel 37
@@ -1221,6 +1234,7 @@ Forbrukere, produsenter og andre berørte parter
 Myndigheten skal opprette effektive forbindelser med representanter for forbrukere og produsenter, bearbeidingsvirksomheter og andre berørte parter.
 
 ### Avsnitt 5
+
 Finansielle bestemmelser
 
 ###### Artikkel 43
@@ -1288,6 +1302,7 @@ Gebyrer som mottas av myndigheten
 Innen tre år etter at denne forordning har trådt i kraft, og etter samråd med myndigheten, medlemsstatene og de berørte parter, skal Kommisjonen offentliggjøre en rapport om hvorvidt det er mulig og tilrådelig å framlegge et forslag til regelverk i henhold til framgangsmåten for medbestemmelse og i samsvar med traktaten, om andre tjenester som ytes av myndigheten.
 
 ### Avsnitt 6
+
 Alminnelige bestemmelser
 
 ###### Artikkel 46
@@ -1329,9 +1344,11 @@ Myndigheten skal være åpen for deltaking for stater som har inngått avtaler m
 Det vil bli utarbeidet ordninger innenfor rammen av relevante bestemmelser i disse avtalene, som blant annet skal angi arten og omfanget av samt vilkårene for disse statenes deltaking i myndighetens arbeid, herunder bestemmelser om deltaking i de nettverk som myndigheten driver, oppføring på listen over vedkommende organisasjoner som myndigheten kan tildele visse oppgaver, finansielle bidrag og personale.
 
 ### Kapittel IV
+
 System for hurtig varsling, krisehåndtering og nødssituasjoner
 
 ### Avsnitt 1
+
 Hurtigvarslingssystem
 
 ###### Artikkel 50
@@ -1379,6 +1396,7 @@ Medlemmene av nettverket skal imidlertid treffe de tiltak som er nødvendige for
 2\. Taushetsplikten skal ikke hindre at vedkommende myndigheter får opplysninger som kan være av betydning for et effektivt markedstilsyn og effektive håndhevingstiltak på næringsmiddel- og fôrområdet. Myndigheter som mottar opplysninger som er underlagt taushetsplikt, skal sikre at denne ikke brytes, i samsvar med nr. 1.
 
 ### Avsnitt 2
+
 Nødssituasjoner
 
 ###### Artikkel 53
@@ -1436,6 +1454,7 @@ Andre nødtiltak
 4. *EØS-komiteen kan ta Fellesskapets vedtak i betraktning*.
 
 ### Avsnitt 3
+
 Krisehåndtering
 
 ###### Artikkel 55
@@ -1469,9 +1488,11 @@ Kriseenhetens oppgaver
 3\. Kriseenheten skal holde offentligheten underrettet om risikoene som foreligger, og om tiltakene som treffes.
 
 ### Kapittel V
+
 Framgangsmåter og sluttbestemmelser
 
 ### Avsnitt 1
+
 Komitéframgangsmåte og meklingsframgangsmåte
 
 ###### Artikkel 58
@@ -1499,6 +1520,7 @@ Meklingsframgangsmåte
 2\. De to berørte medlemsstatene og Kommisjonen skal gjøre det de kan for å løse problemet. Dersom det ikke er mulig å komme til enighet, kan Kommisjonen anmode myndigheten om å avgi en uttalelse om alle relevante omstridte vitenskapelige spørsmål. Vilkårene for denne anmodningen og myndighetens frist for å avgi sin uttalelse skal fastsettes ved en gjensidig avtale mellom Kommisjonen og myndigheten etter samråd med de to berørte medlemsstatene.
 
 ### Avsnitt 2
+
 Sluttbestemmelser
 
 ►**M4**

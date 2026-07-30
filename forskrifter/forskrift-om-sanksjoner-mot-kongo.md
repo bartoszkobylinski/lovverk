@@ -15,7 +15,7 @@ xml_hash: "653dbe5f37d22e5467e7e6f382641f7ea2ca0812782d266f83b41d70b07fab4d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -309,11 +309,13 @@ Denne forordningen trer i kraft den dag den kunngjøres i Den europeiske unions 
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### VEDLEGG I
+
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2a
 
 FNs sanksjonskomites liste over personer, enheter og organer underlagt FN-sanksjoner i lys av situasjonen i DR Kongo er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1533/materials/summaries).
 
 ### VEDLEGG Ia
+
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2b
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). [^1]
@@ -323,6 +325,7 @@ Listeførte med programkode («programme») COD – Democractic Republic of Cong
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken. [Denne fotnoten er tilsynelatende utdatert, Lovdatas anm.]
 
 ### VEDLEGG II
+
 Liste over kompetente myndigheters nettsider.
 
 BELGIUM

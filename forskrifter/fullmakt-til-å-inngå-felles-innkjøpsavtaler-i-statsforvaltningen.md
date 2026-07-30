@@ -15,7 +15,7 @@ xml_hash: "8fdf8716b90357e3b60d7e776262cb8207c1ced7895c2bfcc74d20c56f6f11c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,6 +39,7 @@ eu_basis: []
 8\. Fullmakten trer i kraft straks. Samtidig oppheves fullmakt til Direktoratet for forvaltning og IKT (Difi) til å inngå felles innkjøpsavtaler, gitt ved [kongelig resolusjon 13. januar 2017 nr. 21](forskrift/2017-01-13-21).
 
 ## Vedlegg til fullmakten
+
 Virksomheter som er omfattet av den obligatoriske ordningen per 1. juli 2021
 
 - Arbeids- og sosialdepartementet

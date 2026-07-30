@@ -15,7 +15,7 @@ xml_hash: "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -182,6 +182,7 @@ For skip i innenriks fart og flyttbare innretninger kan Sjøfartsdirektoratet et
 Denne forskriften trer i kraft 18. september 2016. Fra samme tid oppheves [forskrift 29. desember 1998 nr. 1455](forskrift/1998-12-29-1455) om skipsutstyr.
 
 ## Vedlegg I
+
 Rattmerke
 
 Samsvarsmerket skal utformes på følgende måte:
@@ -193,6 +194,7 @@ De ulike delene av rattmerket skal ha i hovedsak ha samme vertikale dimensjon, s
 Dette minstemålet kan fravikes for små enheter.
 
 ## Vedlegg II
+
 Framgangsmåter for samsvarsvurdering
 
 ### I. Modul B: EF-typeprøving
@@ -620,6 +622,7 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 Produsentens forpliktelser angitt i nr. 2 og 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg III
+
 EC DECLARATION OF CONFORMITY
 
 1. No . . . (unique identification of the product):

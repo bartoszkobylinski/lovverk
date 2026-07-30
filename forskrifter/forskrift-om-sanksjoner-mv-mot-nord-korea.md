@@ -15,7 +15,7 @@ xml_hash: "6f6cac3c90e854dc33a6f4be6ceab9bbb199e163c4154eba08cf866553952e6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -127,10 +127,12 @@ Forskriften trer i kraft straks.
 > Endret ved [forskrifter 28 mars 2014 nr. 335](forskrift/2014-03-28-335), [16 nov 2014 nr. 1447](forskrift/2014-11-16-1447), [7 juni 2016 nr. 603](forskrift/2016-06-07-603), [14 okt 2016 nr. 1228](forskrift/2016-10-14-1228), [4 april 2017 nr. 453](forskrift/2017-04-04-453), [9 mai 2017 nr. 628](forskrift/2017-05-09-628), [21 nov 2017 nr. 1853](forskrift/2017-11-21-1853) (tidligere forordning erstattet), [31 jan 2018 nr. 138](forskrift/2018-01-31-138), [9 mai 2018 nr. 706](forskrift/2018-05-09-706), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
 
 ### RÅDSFORORDNING [(EU) 2017/1509](eu/32017r1509*)
+
 av 30. august 2017
 om restriktive tiltak mot Den demokratiske folkerepublikk Korea
 
 ### KAPITTEL I
+
 Definisjoner
 
 ### Artikkel 1
@@ -259,6 +261,7 @@ I denne forordning menes med
 9 Europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260) av 14. mars 2012 om tekniske og forretningsmessige krav til kreditoverføringer og direkte debiteringer i euro og om endring av forordning [(EF) nr. 924/2009](eu/32009r0924) (EUT L 94 av 30.3.2012, s. 22).
 
 ### KAPITTEL II
+
 Eksport- og importrestriksjoner
 
 ### Artikkel 3
@@ -490,6 +493,7 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### KAPITTEL III
+
 Restriksjoner på visse former for næringsvirksomhet
 
 ### Artikkel 17
@@ -555,6 +559,7 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i arti
 2\. I denne artikkel menes med «fast eiendom» grunn, bygninger og tilhørende deler som befinner seg utenfor Nord-Koreas territorium.
 
 ### KAPITTEL IV
+
 Restriksjoner på overføring av penger og finansielle tjenester
 
 ### Artikkel 21
@@ -704,6 +709,7 @@ Det er forbudt å yte finansiering eller finansiell bistand til handel med Nord-
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### KAPITTEL V
+
 Frysing av penger og formuesgoder
 
 ### Artikkel 34
@@ -785,6 +791,7 @@ Vedlegg XV omfatter personer, enheter og organer som ikke står oppført i vedle
 Uavhengig av artikkel 34 nr. 10 gjelder ikke forbudene i artikkel 34 nr. 1 og 3 for penger og formuesgoder som tilhører eller stilles til rådighet for Foreign Trade Bank eller Korean National Insurance Company (KNIC) dersom pengene og formuesgodene er forutsatt benyttet utelukkende til offisielle formål på en utenriksstasjon i Nord-Korea eller til humanitær bistandsvirksomhet som utføres av eller i samordning med FN.
 
 ### KAPITTEL VI
+
 Transportrestriksjoner
 
 ### Artikkel 38
@@ -881,6 +888,7 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel
 Det er forbudt å legge til rette for eller delta i skip-til-skip-overføringer til eller fra fartøyer som fører nordkoreansk flagg, av varer eller produkter som selges, leveres, overføres eller eksporteres til eller fra Nord-Korea.
 
 ### KAPITTEL VII
+
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 45
@@ -991,6 +999,7 @@ Denne forordning trer i kraft dagen etter at den kunngjøres i Den europeiske un
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Websites for information on the competent authorities referred to in Articles 2, 4, 6, 8, 14, 16, 19, 22, 25, 27, 29, 33, 34, 35, 36, 37, 40, 42, 44, 45, 49 and 50 and address for notifications to the European Commission
 
 *BELGIUM*
@@ -1122,6 +1131,7 @@ B-1049 Brussels, Belgium
 E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 ### Vedlegg II
+
 Goods and technology referred to in point (a) of Article 3(1) and in Article 7
 
 ### PART I
@@ -1778,6 +1788,7 @@ Weapons of mass destruction-related items, materials, equipment, goods and techn
 Conventional arms-related items, materials, equipment, goods and technology designated, pursuant to paragraph 5 of UNSCR 2375 (2017).
 
 ### Vedlegg III
+
 Aviation fuel referred to in point (b) of Article 3(1)
 
 *EXPLANATORY NOTE*
@@ -1792,6 +1803,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 2710 19 25 | Kerosene-type rocket fuel |
 
 ### Vedlegg IV
+
 Gold, titanium ore, vanadium ore and rare earth minerals referred to in point (d) of Article 3(1)
 
 *EXPLANATORY NOTE*
@@ -1807,6 +1819,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 |  | 2616 90 00 10 | Gold ores and concentrates |
 
 ### Vedlegg V
+
 Coal, iron and iron ore as referred to in point (e) of Article 3(1)
 
 *EXPLANATORY NOTE*
@@ -1844,6 +1857,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | ex | 72 17 | Wire of iron or non-alloy steel |
 
 ### Vedlegg VI
+
 Petroleum products referred to in point (f) of Article 3(1)
 
 *EXPLANATORY NOTE*
@@ -1876,6 +1890,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 |  | 3826 00 90 | Other |
 
 ### Vedlegg VII
+
 Copper, nickel, silver and zinc referred to in point (g) of Article 3(1)
 
 *EXPLANATORY NOTE*
@@ -1923,6 +1938,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 |  | 79 | Zinc and articles thereof |
 
 ### Vedlegg VIII
+
 Luxury goods referred to in Article 10
 
 *EXPLANATORY NOTE*
@@ -2398,6 +2414,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 |  | 9504 90 80 | Other |
 
 ### Vedlegg IX
+
 List of gold, precious metals and diamonds referred to in Article 11
 
 *EXPLANATORY NOTE*
@@ -2415,6 +2432,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in pa
 | ex | 7112 | Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal |
 
 ### Vedlegg X
+
 The statues referred to in Article 13
 
 *EXPLANATORY NOTE*
@@ -2445,6 +2463,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in pa
 | ex | 9703 | Original statuary, of any material |
 
 ### Vedlegg XI
+
 The helicopters and vessels referred to in Article 15
 
 *EXPLANATORY NOTE*
@@ -2470,6 +2489,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in pa
 | 8907 10 | Inflatable rafts |
 
 ### Vedlegg XIa
+
 Seafood referred to in Article 16a
 
 *EXPLANATORY NOTE*
@@ -2486,6 +2506,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | ex 2104 | Soups and broths and preparations therefor; homogenised composite food preparations, containing fish, crustaceans, molluscs or other aquatic invertebrates. |
 
 ### Vedlegg XIb
+
 Lead and lead ore referred to in Article 16b
 
 *EXPLANATORY NOTE*
@@ -2503,6 +2524,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in pa
 | ex 7806 00 80 | the following lead articles:<br>– collapsible tubes for packing colours or other products;<br>– vats, reservoirs, drums and similar containers other than those from 7806 00 10 (for acids or other chemicals), not fitted with mechanical or thermal equipment;<br>– lead weights for fishing nets, lead weights for clothing, curtains,.. etc...;<br>– weights for clocks, and general purpose counterweights;<br>– skeins, hanks and ropes of lead fibres or strands used for packing or for caulking pipe joints;<br>– parts of building structures;<br>– yacht keels, divers' breast plates;<br>– electroplating anodes;<br>– lead bars, rods, profiles and wire other than those under 7801;<br>– tubes and pipes and tube or pipe fittings (for example, couplings, elbows, sleeves), of lead. |
 
 ### Vedlegg XIc
+
 Condensates and natural gas liquids referred to in Article 16c
 
 *EXPLANATORY NOTE*
@@ -2515,6 +2537,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 2711 11 | Liquefied natural gas |
 
 ### Vedlegg XId
+
 Refined petroleum products referred to in Article 16d
 
 *EXPLANATORY NOTE*
@@ -2552,6 +2575,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in in
 |  | 3826 00 90 | Other |
 
 ### Vedlegg XIe
+
 Crude oil referred to in Article 16f
 
 *EXPLANATORY NOTE*
@@ -2563,6 +2587,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 |  | 2709 00 90 | Petroleum oils and oils obtained from bituminous minerals, crude, other than natural gas condensates |
 
 ### Vedlegg XIf
+
 Textiles referred to in Article 16h
 
 *EXPLANATORY NOTE*
@@ -2587,6 +2612,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 63 | Other made-up textile articles; sets; worn clothing and worn textile articles; rags |
 
 ### Vedlegg XIg
+
 Food and agricultural products referred to in Article 16j
 
 *EXPLANATORY NOTE*
@@ -2600,6 +2626,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 12 | Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder |
 
 ### Vedlegg XIh
+
 Machinery and electrical equipment referred to in Article 16j
 
 *EXPLANATORY NOTE*
@@ -2612,6 +2639,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 85 | Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles |
 
 ### Vedlegg XIi
+
 Earth and stone, including magnesite and magnesia, referred to in Article 16l
 
 EXPLANATORY NOTE
@@ -2623,6 +2651,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 25 | Salt; sulphur; earths and stone; plastering materials, lime and cement |
 
 ### Vedlegg XIj
+
 Wood referred to in Article 16m
 
 *EXPLANATORY NOTE*
@@ -2634,6 +2663,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 44 | Wood and articles of wood; wood charcoal |
 
 ### Vedlegg XIk
+
 Vessels referred to in Article 16n
 
 *EXPLANATORY NOTE*
@@ -2647,6 +2677,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 ### Vedlegg XIl
 
 ### Part A
+
 Industrial machinery, transportation vehicles, and iron, steel and other metals referred to in Article 16p
 
 *EXPLANATORY NOTE*
@@ -2674,11 +2705,13 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | 89 | Ships, boats and floating structures |
 
 ### Part B
+
 Aircraft models and types referred to in Article 16q(1)
 
 An-24R/RV, An-148-100B, Il-18D, Il-62M, Tu-134B-3, Tu-154B, Tu-204-100B, and Tu-204-300.
 
 ### Vedlegg XII
+
 List of services referred to in Article 18
 
 *NOTES*
@@ -2687,6 +2720,7 @@ List of services referred to in Article 18
 2. Only the parts of the CPC codes described below are covered by the prohibition.
 
 ### Part A:
+
 Services incidental to mining and manufacturing in the chemical, mining and refining industry:
 
 | Description of services | Stemming from CPC Code |
@@ -2713,6 +2747,7 @@ Services incidental to mining and manufacturing in the chemical, mining and refi
 | Repair services of other transport equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8868 |
 
 ### Part B:
+
 Computer and related services (CPC: 84)
 
 | Description of services | Stemming from CPC Code |
@@ -2720,16 +2755,19 @@ Computer and related services (CPC: 84)
 | Consultancy services related to the installation of computer hardware;<br>Software implementation services;<br>Data processing services;<br>Data base services;<br>Maintenance and repair services of office machinery and equipment including computers;<br>Data preparation services;<br>Training services for staff of clients. | CPC 84 |
 
 ### Vedlegg XIII
+
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
 FNs liste over personer og enheter identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsresolusjon 1718 (2006), er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1718/materials/summaries).
 
 ### Vedlegg XIV
+
 The vessels referred to in Article 34(2) and point (g) of Article 39(1) and applicable measures as specified by the Sanctions Committee
 
 FNs liste over fartøy identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsresolusjon 1718 (2006), er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1718/materials/list-of-designated-vessels).
 
 ### Vedlegg XV
+
 List of persons, entities and bodies referred to in Article 34
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
@@ -2739,6 +2777,7 @@ Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under d
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.
 
 ### Vedlegg XVI
+
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
@@ -2748,6 +2787,7 @@ Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under d
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.
 
 ### Vedlegg XVII
+
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]

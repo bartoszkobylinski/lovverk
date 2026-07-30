@@ -15,7 +15,7 @@ xml_hash: "b453fa73f1add8ca9f5ed59e0db1c788a33839c6038d8b0f5180257579335367"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -73,6 +73,7 @@ som endret ved
 ►**M1** Forordning [(EU) 2024/885](eu/32024r0885) om prøvetakingsmetoden for tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2023/2782](eu/32023r2782)
+
 av 14. desember 2023
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning [(EF) nr. 401/2006](eu/32006r0401)
 
@@ -174,11 +175,13 @@ Utferdiget i Brussel 14. desember 2023.
 |  | *President* |
 
 ### VEDLEGG I
+
 Prøvetakingsmetoder for kontroll av innholdet av mykotoksiner i næringsmidler[^6]
 
 6 En veiledning for vedkommende myndigheter for kontroll av samsvaret med EUs regelverk for aflatoksiner er tilgjengelig på https://food.ec.europa.eu/document/download/5e7138d9-26c5-4f38-900c-933fe605a92_en?filename=cs_contaminants_sampling_analysis-guidance-2010_en.pdf Veiledningen inneholder praktiske tilleggsopplysninger, men opplysningene i veiledningen er underordnet bestemmelsene i denne forordningen.
 
 ### DEL I
+
 ALMINNELIGE BESTEMMELSER
 
 A.1.**Alminnelige bestemmelser**
@@ -238,6 +241,7 @@ A.3**Prøvetaking av varer med et høyt volum i forhold til vekt**
 Med unntak av næringsmidlene som omfattes av del L og M i del II i dette vedlegget, kan vektkravene ved prøvetaking av næringsmidler som har et høyt volum i forhold til vekten (dvs. volum (dm3)/vekt (kg) > 5), erstattes av et tilsvarende volumkrav (dvs. at 1 kg erstattes av 1 dm3).
 
 ### DEL II
+
 PRØVETAKINGSMETODER
 
 I denne delen fastsettes prøvetakingsmetodene for følgende næringsmiddelkategorier:
@@ -1177,6 +1181,7 @@ N.6.**Prøvetaking av uemballerte næringsmidler i store lukkede beholdere**
 Prøver fra slike partier kan ofte ikke tas før de losses. Det er i enkelte tilfeller ikke mulig å losse slike beholdere på innførsels- eller kontrollstedet, og prøvetakingen bør derfor utføres når beholderne losses. Den driftsansvarlige skal underrette inspektøren om stedet og tidspunktet for lossing av beholderne, slik at inspektøren har mulighet til å være til stede.
 
 ### VEDLEGG II
+
 Kriterier for tillaging av prøver og for analysemetoder brukt ved kontroll av innholdet av mykotoksiner i næringsmidler
 
 1\.
@@ -1535,6 +1540,7 @@ Laboratoriet skal overholde bestemmelsene i artikkel 37 nr. 4 og 5 i forordning 
 Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EU) 2023/2782](eu/32023r2782)) om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning [(EU) 2015/705](eu/32015r0705).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2023/2783](eu/32023r2783)
+
 av 14. desember 2023
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning [(EU) 2015/705](eu/32015r0705)
 
@@ -1606,9 +1612,11 @@ Utferdiget i Brussel 14. desember 2023.
 |  | *President* |
 
 ### VEDLEGG I
+
 Prøvetakingsmetoder for kontroll av innholdet av plantetoksiner i næringsmidler
 
 ### DEL I
+
 ALMINNELIGE BESTEMMELSER
 
 A.1.**Alminnelige bestemmelser**
@@ -1668,6 +1676,7 @@ A.3.**Prøvetaking av varer med et høyt volum i forhold til vekt**
 Med unntak av næringsmidlene som omfattes av del L og M i del II i vedlegg I til gjennomføringsforordning [(EU) 2023/2782](eu/32023r2782), kan vektkravene ved prøvetaking av næringsmidler som har et høyt volum i forhold til vekten (dvs. volum (dm3)/vekt (kg) > 5), erstattes av et tilsvarende volumkrav (dvs. at 1 kg erstattes av 1 dm3).
 
 ### DEL II
+
 PRØVETAKINGSMETODER
 
 Prøvetakingsmetodene fastsatt i del II i vedlegg I til kommisjonens gjennomføringsforordning [(EU) nr. 2023/2782](eu/32023r2782) skal benyttes.
@@ -1675,6 +1684,7 @@ Prøvetakingsmetodene fastsatt i del II i vedlegg I til kommisjonens gjennomfør
 For prøvetaking av poteter og potetprodukter (glykoalkaloider) samt honning (pyrrolizidinalkaloider) får imidlertid del B i vedlegget til forordning [(EF) nr. 333/2007](eu/32007r0333) anvendelse.
 
 ### VEDLEGG II
+
 Kriterier for tillaging av prøver og for analysemetoder brukt ved kontroll av innholdet av plantetoksiner i næringsmidler
 
 1\.
@@ -2016,6 +2026,7 @@ Laboratoriet skal overholde bestemmelsene i artikkel 37 nr. 4 og 5 i forordning 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1882/2006](eu/32006r1882).
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1882/2006](eu/32006r1882)
+
 av 19. desember 2006
 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrater i visse næringsmidler
 
@@ -2060,6 +2071,7 @@ Utferdiget i Brussel, 19. desember 2006.
 |  | *Medlem av Kommisjonen* |
 
 ### Vedlegg
+
 Prøvetakingsmetoder, tillaging av prøver og analyser for offentlig kontroll av innholdet av nitrater i visse næringsmidler
 
 ### A. Alminnelige bestemmelser
@@ -2313,6 +2325,7 @@ som endret ved
 - ►**M7** Kommisjonsforordning [(EU) 2024/1045](eu/32024r1045)
 
 ### KOMMISJONSFORORDNING [(EF) nr. 333/2007](eu/32007r0333)
+
 av 28. mars 2007
 ►**M2** om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av sporstoffer og prosessframkalte forurensninger i næringsmidler ◄**M2**
 
@@ -2389,6 +2402,7 @@ Utferdiget i Brussel, 28. mars 2007.
 ### Vedlegg
 
 ### Del A
+
 Definisjoner
 
 I dette vedlegg menes med:
@@ -2403,6 +2417,7 @@ I dette vedlegg menes med:
 | ►**M5** «sammenlignbar størrelse eller vekt» | forskjellen i størrelse eller vekt overstiger ikke 50 %. ◄**M5** |
 
 ### Del B
+
 Prøvetakingsmetoder
 
 B.1.*ALMINNELIGE BESTEMMELSER*
@@ -2568,6 +2583,7 @@ Dersom prøvetakingen ikke kan foretas etter metoden fastsatt i nr. B.2.2 uten a
 ◄**M1**
 
 ### Del C
+
 Tillaging og analyse av prøver
 
 C.1.*KVALITETSSIKRING AV LABORATORIENE*
@@ -2911,6 +2927,7 @@ Den som foretar analysen, skal ta hensyn til «Report on the relationship betwee
 4 Standard EN 13804:2002, «Foodstuffs – Determination of trace elements – Performance criteria, general considerations and sample preparation», CEN, Rue de Stassart 36, B-1050 Brussels.
 
 ### Del D
+
 Rapportering og tolking av resultatene
 
 D.1*RAPPORTERING*
@@ -2959,6 +2976,7 @@ De eksisterende tolkingsreglene gjelder for de analyseresultatene som oppnås p�
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/644](eu/32017r0644).
 
 ### KOMMISJONSFORORDNING [(EU) 2017/644](eu/32017r0644)
+
 av 5. april 2017
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning [(EU) nr. 589/2014](eu/32014r0589)
 
@@ -3038,6 +3056,7 @@ Utferdiget i Brussel 5. april 2017.
 |  | *President* |
 
 ### VEDLEGG I
+
 DEFINISJONER OG FORKORTELSER
 
 1. DEFINISJONER
@@ -3094,6 +3113,7 @@ DEFINISJONER OG FORKORTELSER
 11 Grensen for mengdebestemmelse (LOQ) beregnes fra punktet for laveste konsentrasjon, idet det tas hensyn til gjenfinning av interne standarder og prøvemengde.
 
 ### VEDLEGG II
+
 PRØVTETAKINGSMETODER FOR OFFENTLIG KONTROLL AV INNHOLDET AV DIOKSINER (PCDD/PCDF), DIOKSINLIGNENDE PCB OG IKKE-DIOKSINLIGNENDE PCB I VISSE NÆRINGSMIDLER
 
 1. VIRKEOMRÅDE
@@ -3255,6 +3275,7 @@ PRØVTETAKINGSMETODER FOR OFFENTLIG KONTROLL AV INNHOLDET AV DIOKSINER (PCDD/PCD
 18 Samme forklaring og krav til to analyser for kontroll av tiltaksgrenser som for grenseverdier i fotnote nr. 6.
 
 ### VEDLEGG III
+
 TILLAGING AV PRØVER OG KRAV TIL ANALYSEMETODER FOR KONTROLL AV INNHOLDET AV DIOKSINER (PCDD/F) OG DIOKSINLIGNENDE PCB I VISSE NÆRINGSMIDLER
 
 1\.
@@ -3600,6 +3621,7 @@ WHOs toksisitetsekvivalensfaktorer (WHO-TEF) for vurdering av risikoen for menne
 | Forkortelser: T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta, CDD = klordibenzodioksin, CDF = klordibenzofuran, CB = klorbifenyl. |
 
 ### VEDLEGG IV
+
 TILLAGING AV PRØVER OG KRAV TIL ANALYSEMETODER FOR KONTROLL AV INNHOLDET AV IKKE-DIOKSINLIGNENDE PCB I VISSE NÆRINGSMIDLER
 
 Kravene fastsatt i dette vedlegg får anvendelse når næringsmidler analyseres med henblikk på offentlig kontroll av innholdet av ikke-dioksinlignende PCB og tillaging av prøver og krav til analysemetoder for andre forskriftsmessige formål, herunder kontroll foretatt av driftsansvarlige for næringsmiddelforetak for å sikre samsvar med bestemmelsene i artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
@@ -3691,6 +3713,7 @@ Bestemmelsene om tillaging av prøver fastsatt i nr. 3 i vedlegg III til denne f
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg II kapittel XII nr. 108 (forordning [(EU) nr. 705/2015](eu/32015r0705))
 
 ### KOMMISJONSFORORDNING [(EU) 2015/705](eu/32015r0705)
+
 av 30. april 2015
 om fastsettelse av prøvetakingsmetoder og ytelseskriterier for analysemetodene ved offentlig kontroll av innholdet av erukasyre i næringsmidler og om oppheving av kommisjonsdirektiv [80/891/EØF](eu/31980l0891)
 
@@ -4047,6 +4070,7 @@ Tolkingsreglene angitt i punkt D.2.1 og D.2.2 gjelder for analyseresultatet av p
 Nedenfor gjengis til informasjon den uoffisielle norske oversettelsen av forordning [(EU) 2022/931](eu/32022r0931) om supplerende regler til Europaparlamentets og Rådets forordning [(EU) 2017/625](eu/32017r0625) om gjennomføringen av offentlig kontroll når det gjelder forurensende stoffer i næringsmidler.
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2022/931
+
 av 23. mars 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler
 
@@ -4109,6 +4133,7 @@ Ursula VON DER LEYEN
 *President*
 
 ### VEDLEGG I
+
 Regler for utvelging av særlige kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper
 
 1. Medlemsstatene skal kontrollere følgende kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer i følgende varegrupper:
@@ -4148,6 +4173,7 @@ Regler for utvelging av særlige kombinasjoner av forurensende stoffer eller gru
       3. Opplysninger om økt aktsomhet.
 
 ### VEDLEGG II
+
 Kriterier for prøvetakingsstrategien
 
 1. For hver driftsansvarlig for næringsmiddelforetak som skal kontrolleres, skal medlemsstaten vurdere følgende kriterier for å velge ut hvilken type næringsmiddel som skal kontrolleres:
@@ -4174,6 +4200,7 @@ Nedenfor gjengis til informasjon den uoffisielle norske oversettelsen av forordn
 - ►**M1** Kommisjonsforordning [(EU) 2025/2246](eu/32025r2246)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932
+
 av 9. juni 2022
 om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse
 
@@ -4214,6 +4241,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -4242,6 +4270,7 @@ I denne forordningen gjelder definisjonene i rådsforordning [(EØF) nr. 315/93]
 14 Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158) av 20. november 2017 om fastsettelse av begrensende tiltak og referansenivåer for å redusere forekomsten av akrylamid i næringsmidler (EUT L 304 av 21.11.2017, s. 24).
 
 ### KAPITTEL II
+
 INNHOLD I DEN FLERÅRIGE NASJONALE KONTROLLPLANEN
 
 ### Artikkel 3. Generelle bestemmelser
@@ -4284,6 +4313,7 @@ Kontrollplanene nevnt i artikkel 3 skal dessuten angi følgende:
 3. Opplysninger om hvilke(n) vedkommende myndighet(er) som har ansvaret for å gjennomføre planene.
 
 ### KAPITTEL III
+
 FRAMLEGGING OG EVALUERING AV KONTROLLPLANENE, OG FRAMLEGGING AV DATA FRA MEDLEMSSTATENE
 
 ### Artikkel 7. Framlegging og evaluering av kontrollplanene
@@ -4301,6 +4331,7 @@ Dersom en medlemsstat beslutter at den ikke skal oppdatere sine kontrollplaner b
 Medlemsstatene skal innen 30. juni oversende Den europeiske myndighet for næringsmiddeltrygghet (EFSA) alle data som er innsamlet i henhold til kontrollplanene nevnt i artikkel 3.
 
 ### KAPITTEL IV
+
 GENERELLE BESTEMMELSER
 
 ### Artikkel 9. Ikrafttredelse og anvendelse
@@ -4318,6 +4349,7 @@ Ursula VON DER LEYEN
 *President*
 
 ### VEDLEGG I
+
 Minstehyppighet av kontroll per medlemsstat i kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet
 
 **1. Næringsmidler av animalsk opprinnelse**
@@ -4371,6 +4403,7 @@ Prøvetakingen skal være representativ for de ulike forurensende stoffene som k
 15 Ved anvendelse av denne forordningen skal de kriteriene som gjelder for næringsmidler av ikke-animalsk opprinnelse, også anvendes på sammensatte produkter.
 
 ### VEDLEGG II
+
 Minstehyppighet av kontroll per medlemsstat i kontrollplanen for næringsmidler av animalsk opprinnelse som innføres til Unionen
 
 Medlemsstatene skal oppfylle kravene til minstehyppighet for kontroll som fastsatt i tabellen nedenfor.
@@ -4416,6 +4449,7 @@ Tilleggsbestemmelser:
 > Tilføyd ved forskrift [25 sep 2023 nr. 1496](forskrift/2023-09-25-1496).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2022/1428](eu/32022r1428)
+
 av 24. august 2022
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av perfluoralkylstoffer i visse næringsmidler
 
@@ -4474,6 +4508,7 @@ Ursula von der Leyen
 ### VEDLEGG
 
 ### DEL A
+
 PRØVETAKINGSMETODER
 
 A.1.
@@ -4610,6 +4645,7 @@ Prøvetaking av næringsmidler i detaljistleddet skal om mulig skje i samsvar me
 4 [https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-samp-fishes.pdf](https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-samp-fishes.pdf).
 
 ### DEL B
+
 TILLAGING OG ANALYSE AV PRØVER
 
 B.1.*Kvalitetsstandarder for laboratorier*
@@ -4659,6 +4695,7 @@ Om mulig skal valideringen av de internt validerte metodene omfatte bruk av et s
 5 [https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-doc-analyt-para_0.pdf](https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-doc-analyt-para_0.pdf).
 
 ### DEL C
+
 RAPPORTERING OG TOLKING AV RESULTATENE
 
 C.1.

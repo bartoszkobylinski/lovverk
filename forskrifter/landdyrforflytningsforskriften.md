@@ -15,7 +15,7 @@ xml_hash: "a3616841eea007117700ad7e84e3381f8227b2ee57b610765867e509dd312742"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -492,6 +492,7 @@ som endret ved:
 - ►**M4** Delegert kommisjonsforordning [(EU) 2024/3160](eu/32024r3160) av 9. oktober 2024
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2020/688
+
 av 17. desember 2019
 om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen
 
@@ -574,6 +575,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 ALMINNELIGE REGLER
 
 ### Artikkel 1. Formål
@@ -638,9 +640,11 @@ I denne forordningen menes med
 16 [http://www.edqm.eu](https://www.edqm.eu) (siste utgave).
 
 ### DEL II
+
 FORFLYTNING AV HOLDTE LANDDYR OG RUGEEGG INNENFOR UNIONEN
 
 ### KAPITTEL 1
+
 Generelle krav ved forflytning av holdte landdyr og rugeegg innenfor Unionen
 
 ###### Avsnitt 1
@@ -766,6 +770,7 @@ eller
 ◄**M3**
 
 ### KAPITTEL 2
+
 Utfyllende krav til dyrehelse ved forflytning av holdte hov- og klovdyr til andre medlemsstater
 
 ###### Avsnitt 1
@@ -1703,6 +1708,7 @@ eller
 2\. Som unntak fra nr. 1 kan vedkommende myndighet i opprinnelsesmedlemsstaten tillate forflytning av dyr av arter som er listeført for infeksjon med blåtungevirus (serotype 1–24) gjennom en annen medlemsstat eller en sone i denne som dyrene passerer gjennom, med status som fri for eller med et godkjent utryddelsesprogram for denne sykdommen, dersom medlemsstaten som dyrene passerer gjennom, har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt på de vilkårene som er fastsatt i artikkel 43 nr. 2 bokstav a), c) og d) i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### KAPITTEL 3
+
 Utfyllende krav til dyrehelse ved forflytning av fjørfe og rugeegg til andre medlemsstater
 
 ###### Avsnitt 1
@@ -1910,6 +1916,7 @@ De driftsansvarlige skal bare flytte fjørfe og rugeegg fra fjørfe fra en medle
       - er vaksinert mot infeksjon med Newcastle disease-virus med levende vaksiner som oppfyller kriteriene i vedlegg VI, og vaksinasjonen er foretatt minst 30 dager før rugeeggene ble innsamlet.
 
 ### KAPITTEL 4
+
 Oppsamling av holdte hov- og klovdyr og holdt fjørfe
 
 ###### Artikkel 43
@@ -1957,6 +1964,7 @@ Unntak for forflytning av hov- og klovdyr til utstillinger, idretts- eller kultu
 2\. Tillatelsen fra medlemsstaten nevnt i artikkel 133 nr. 2 andre ledd i forordning [(EU) 2016/429](eu/32016r0429) skal ikke være påkrevd når individuelt sertifiserte registrerte hestedyr deler et transportmiddel for å bli transportert til en annen medlemsstat for å delta i noen av aktivitetene nevnt i nr. 1.
 
 ### KAPITTEL 5
+
 Krav ved forflytning av andre holdte landdyr enn holdte hov- og klovdyr og holdt fjørfe, og ved forflytning av rugeegg fra fugler i fangenskap til andre medlemsstater
 
 ###### Avsnitt 1
@@ -2224,6 +2232,7 @@ De driftsansvarlige skal bare flytte fugler i fangenskap av arter i ordenen Gall
       - er vaksinert mot infeksjon med Newcastle disease-virus med levende vaksiner som oppfyller kriteriene i vedlegg VI, og vaksinasjonen er foretatt minst 30 dager før rugeeggene ble innsamlet.
 
 ### KAPITTEL 6
+
 Krav ved forflytning av holdte landdyr til avgrensede anlegg
 
 ###### Artikkel 63
@@ -2269,6 +2278,7 @@ eller
 1. uten sykdomsfri status og uten et godkjent utryddelsesprogram for infeksjon med blåtungevirus (serotype 1–24), dersom bestemmelsesmedlemsstaten har underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt. Dersom bestemmelsesmedlemsstaten fastsetter vilkår for å tillate slik forflytning, skal disse vilkårene tilsvare ett eller flere av vilkårene nevnt i del II kapittel 2 avsnitt 1 nr. 5–8 i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### KAPITTEL 7
+
 Særlige regler og unntak
 
 ###### Artikkel 65
@@ -2370,6 +2380,7 @@ De driftsansvarlige skal bare flytte brevduer til idrettsarrangementer i en anne
 ◄**M1**
 
 ### KAPITTEL 8
+
 Helsesertifikater og melding om forflytning
 
 ###### Avsnitt 1
@@ -2796,6 +2807,7 @@ Når medlemsstatene utpeker regioner til forvaltning av meldinger om forflytning
 4. personalet fra vedkommende myndighet som er ansvarlig for den utpekte regionen, har relevant kompetanse og kunnskap, og har fått særskilt opplæring eller har tilsvarende praktisk erfaring i bruken av IMSOC til utarbeiding, håndtering og oversending av informasjonen fastsatt i artikkel 97 og 98.
 
 ### DEL III
+
 FORFLYTNING AV VILTLEVENDE LANDDYR
 
 ### Artikkel 101. Krav ved forflytning av viltlevende landdyr til andre medlemsstater
@@ -2884,6 +2896,7 @@ Vedkommende myndighet i opprinnelsesmedlemsstaten som gir melding til vedkommend
 Ved strømbrudd og andre forstyrrelser i IMSOC skal vedkommende myndighet på opprinnelsesstedet for de viltlevende landdyrene overholde beredskapsplanene fastsatt i samsvar med artikkel 134 bokstav d) i forordning (EU) 2017/625.
 
 ### DEL IV
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 108
@@ -2905,9 +2918,11 @@ Utferdiget i Brussel 17. desember 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 DIAGNOSTISKE METODER
 
 ### Del 1
+
 Infeksjon med *Brucella abortus, B. melitensis* og *B. suis*
 
 1. Serologiske tester for storfe, sau, geit og dyr av kamelfamilien:
@@ -2927,6 +2942,7 @@ Infeksjon med *Brucella abortus, B. melitensis* og *B. suis*
 3. Brucellin-hudtest (BST) for sau, geit og svin.
 
 ### Del 2
+
 Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*)
 
 1. Tuberkulinhudtester:
@@ -2938,6 +2954,7 @@ Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M
    1. Gammainterferontest.
 
 ### Del 3
+
 Surra (*Trypanosoma evansi*)
 
 Serologiske tester:
@@ -2946,6 +2963,7 @@ Serologiske tester:
 2. Kortagglutinasjonstest for trypanosomiasis (CATT) ved en serumfortynning på 1:4.
 
 ### Del 4
+
 Enzootisk bovin leukose
 
 Serologiske tester:
@@ -2960,6 +2978,7 @@ Serologiske tester:
    1. Indirekte enzymmerket antistoffprøve (I-ELISA).
 
 ### Del 5
+
 Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt
 
 |  | Metoder: |
@@ -2972,6 +2991,7 @@ Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt
 | c ELISA for påvisning av antistoffer mot BoHV-1-gE-protein. |  |
 
 ### Del 6
+
 Bovin virusdiaré
 
 1. Direkte metoder:
@@ -2987,6 +3007,7 @@ Bovin virusdiaré
       ◄**M3**
 
 ### Del 7
+
 Infeksjon med pseudorabiesvirus
 
 |  | Metoder: |
@@ -2997,11 +3018,13 @@ Infeksjon med pseudorabiesvirus
 | b ELISA for påvisning av antistoffer mot ADV-gE-protein. For partikontroll skal EF-referanseserum ADV 1, eller understandarder, gi et positivt resultat ved en fortynning på 1:8. |  |
 
 ### Del 8
+
 Ondartet beskjelersyke
 
 Komplementbindingstest for ondartet beskjelersyke ved en serumfortynning på 1:5.
 
 ### Del 9
+
 Infeksiøs anemi hos hest
 
 Serologiske tester:
@@ -3010,6 +3033,7 @@ Serologiske tester:
 2. Enzymmerket antistoffprøve (ELISA) for infeksiøs anemi hos hest.
 
 ### Del 10
+
 Venezuelansk encefalomyelitt hos hest
 
 1. Serologiske tester:
@@ -3021,9 +3045,11 @@ Venezuelansk encefalomyelitt hos hest
    Revers transkripsjon-polymerasekjedereaksjon (RT-PCR) for påvisning av virusgenom for venezuelansk encefalomyelitt hos hest.
 
 ### VEDLEGG II
+
 MINSTEKRAV FØR FORFLYTNING MED HENSYN TIL INFEKSJON MED *MYCOBACTERIUM TUBERCULOSIS*-KOMPLEKS (*M. BOVIS, M. CAPRAE* OG *M. TUBERCULOSIS*) HOS GEIT, DYR AV KAMELFAMILIEN OG HJORTEDYR
 
 ### Del 1
+
 Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos geit
 
 1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte geiter til en annen medlemsstat som nevnt i artikkel 15 nr. 3, skal minst omfatte følgende elementer:
@@ -3046,6 +3072,7 @@ Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobac
    ◄**M1**
 
 ### Del 2
+
 Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos dyr av kamelfamilien
 
 1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte dyr av kamelfamilien til en annen medlemsstat som nevnt i artikkel 23 nr. 1 bokstav e), skal minst omfatte følgende elementer:
@@ -3064,6 +3091,7 @@ Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobac
    ◄**M1**
 
 ### Del 3
+
 Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr
 
 1. Programmet for overvåking før forflytning for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i et anlegg med henblikk på forflytning av holdte hjortedyr til en annen medlemsstat som nevnt i artikkel 26 nr. 1 bokstav e), skal minst omfatte følgende elementer:
@@ -3079,6 +3107,7 @@ Minstekrav til et program før forflytning med hensyn til infeksjon med *Mycobac
 3. Dersom det er rapportert om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) hos hjortedyr som holdes i anlegget, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle hjortedyr som er eldre enn seks uker og som holdes i anlegget, er blitt testet med negativt resultat ved to anledninger med minst seks måneders mellomrom for infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*). Den første testen skal utføres på hjortedyr eller prøver som er tatt fra hjortedyr minst seks måneder etter at det siste bekreftede tilfellet og det siste dyret som testet positivt ved hjelp av en diagnostisk metode, ble fjernet.
 
 ### VEDLEGG III
+
 MINSTEKRAV FØR FORFLYTNING MED HENSYN TIL INFEKSJON MED *BRUCELLA ABORTUS, B. MELITENSIS* OG *B SUIS* HOS SVIN
 
 1. Programmet for overvåking før forflytning for å påvise infeksjon med *Brucella abortus, B. melitensis* og *B suis* i et anlegg med henblikk på forflytning av holdte svin til en annen medlemsstat som nevnt i artikkel 19 nr. 1 bokstav f) ii), skal minst omfatte følgende elementer:
@@ -3093,11 +3122,13 @@ MINSTEKRAV FØR FORFLYTNING MED HENSYN TIL INFEKSJON MED *BRUCELLA ABORTUS, B. M
 3. Dersom det er rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos svin som holdes i anlegget, kan disse dyrene bare flyttes til en annen medlemsstat dersom alle svin som holdes i anlegget, er blitt testet med negativt resultat ved to anledninger. Den første testen skal utføres på prøver som er tatt minst tre måneder etter at de smittede dyrene og dyrene som testet positivt ved hjelp av en av de diagnostiske metodene fastsatt i del 1 nr. 2 i vedlegg I, ble fjernet. Den andre testen skal utføres på prøver som er tatt minst seks måneder og høyst tolv måneder etter den første testen.
 
 ### VEDLEGG IV
+
 TESTING AV ENDER OG GJESS FOR HØYPATOGEN AVIÆR INFLUENSA
 
 I løpet av den siste uken før lasting for avsendelse skal ender og gjess ha testet negativt ved en virologisk undersøkelse for høypatogen aviær influensa, enten ved virusisolasjon eller ved molekylær testing som med et konfidensnivå på 95 % påviser infeksjon ved en prevalens på 5 %.
 
 ### VEDLEGG V
+
 KRAV TIL TESTING AV FORSENDELSER AV FÆRRE ENN 20 DYR AV ANNET FJØRFE ENN STRUTSEFUGLER ELLER FÆRRE ENN 20 RUGEEGG FRA ANNET FJØRFE ENN STRUTSEFUGLER
 
 1. Forsendelser av færre enn 20 dyr av annet fjørfe enn strutsefugler eller færre enn 20 rugeegg fra annet fjørfe enn strutsefugler skal ha testet negativt i samsvar med nr. 2 for følgende sykdomsagenser for de relevante listeførte artene:
@@ -3111,6 +3142,7 @@ KRAV TIL TESTING AV FORSENDELSER AV FÆRRE ENN 20 DYR AV ANNET FJØRFE ENN STRUT
    3. Dersom dyrene er blitt vaksinert mot infeksjon med en hvilken som helst serotype av *Salmonella* eller *Mycoplasma*, skal det bare brukes bakteriologiske tester. Bekreftelsesmetoden skal kunne differensiere mellom levende vaksinestammer og feltstammer.
 
 ### VEDLEGG VI
+
 KRITERIER FOR VAKSINER MOT INFEKSJON MED NEWCASTLE DISEASE-VIRUS
 
 Svekkede levende vaksiner mot infeksjon med Newcastle disease-virus skal framstilles av en stamme av Newcastle disease-virus der originalvirusstammen er blitt testet og har vist seg å ha en intracerebral patogenitetsindeks (ICPI) på
@@ -3119,9 +3151,11 @@ Svekkede levende vaksiner mot infeksjon med Newcastle disease-virus skal framsti
 2. mindre enn 0,5 dersom minst 108 EID50 er gitt til hver fugl som inngår i ICPI-testen.
 
 ### VEDLEGG VII
+
 GYLDIGHET AV VAKSINASJON MOT RABIES OG RISIKOREDUSERENDE TILTAK FOR ANDRE SYKDOMMER ENN RABIES
 
 ### Del 1
+
 Gyldighet av vaksinasjon mot rabies for hunder, katter, ildrer og andre kjøttetere
 
 Gyldighetskravene til vaksinasjon mot infeksjon med rabiesvirus nevnt i artikkel 53 bokstav b) i), artikkel 55 bokstav b) i) og artikkel 58 nr. 1 bokstav c) er de som er fastsatt i vedlegg III til europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)[^18].
@@ -3131,6 +3165,7 @@ Dersom det ikke er godkjent noen vaksine mot rabies i en medlemsstat for andre k
 18 Europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998) (EUT L 178 av 28.6.2013, s. 1).
 
 ### Del 2
+
 Risikoreduserende tiltak for andre sykdommer enn rabies
 
 1. De risikoreduserende tiltakene for infestasjon med *Echinococcus multilocularis* nevnt i artikkel 53 bokstav b) ii) og artikkel 55 bokstav b) ii) er de som er fastsatt i delegert kommisjonsforordning [(EU) 2018/772](eu/32018r0772)[^19] kombinert med Kommisjonens gjennomføringsforordning [(EU) 2018/878](eu/32018r0878)[^20].
@@ -3142,9 +3177,11 @@ Risikoreduserende tiltak for andre sykdommer enn rabies
 20 Kommisjonenes gjennomføringsforordning [(EU) 2018/878](eu/32018r0878) av 18. juni 2018 om vedtakelse av listen over medlemsstater eller deler av medlemsstaters territorium som overholder reglene for kategorisering fastsatt i artikkel 2 nr. 2 og 3 i delegert forordning [(EU) 2018/772](eu/32018r0772) med hensyn til anvendelse av forebyggende helsetiltak for å bekjempe infeksjon med Echinococcus multilocularis hos hunder (EUT L 155 av 19.6.2018, s. 1).
 
 ### VEDLEGG VIII
+
 OPPLYSNINGER SOM SKAL INNGÅ I HELSESERTIFIKATER OG MELDINGER
 
 ### Del 1
+
 Opplysninger som skal inngå i helsesertifikatet for landdyr og rugeegg som flyttes til en annen medlemsstat
 
 1. Helsesertifikatet for holdte landdyr nevnt i artikkel 143 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og i artikkel 71 nr. 1 i denne forordningen og som flyttes til en annen medlemsstat, skal minst inneholde følgende opplysninger:
@@ -3201,6 +3238,7 @@ Opplysninger som skal inngå i helsesertifikatet for landdyr og rugeegg som flyt
    5. Dato og sted for utstedelse av og gyldighetstid for helsesertifikatet, den offentlige veterinærens navn, stilling og underskrift samt stempel for den vedkommende myndigheten på forsendelsens opprinnelsessted.
 
 ### Del 2
+
 Opplysninger i meldingen om forflytning av visse landdyr som det ikke kreves helsesertifikat for
 
 Meldingen om forflytning av humler fra godkjente produksjonsanlegg som er isolert fra det omgivende miljøet, til en annen medlemsstat, skal inneholde minst følgende opplysninger:
@@ -3217,9 +3255,11 @@ Meldingen om forflytning av humler fra godkjente produksjonsanlegg som er isoler
 ►**M3**
 
 ### VEDLEGG IX
+
 RISIKOREDUSERENDE TILTAK FOR INFEKSJON MED HEMORAGISK EPIZOOTI-VIRUS VED FORFLYTNING AV HOLDTE HOV- OG KLOVDYR TIL ANDRE MEDLEMSSTATER
 
 ### Del 1
+
 Soner som er sesongmessig frie for hemoragisk epizooti
 
 1\. Ved forflytning av holdte hov- og klovdyr til andre medlemsstater kan det opprettes soner som er sesongmessig frie for hemoragisk epizooti, dersom begynnelsen og slutten av den vektorfrie sesongen er dokumentert av vedkommende myndighet på grunnlag av entomologisk overvåking i samsvar med del 2.
@@ -3229,6 +3269,7 @@ Soner som er sesongmessig frie for hemoragisk epizooti
 3\. Sonene som er sesongmessig frie for hemoragisk epizooti, skal oppheves umiddelbart dersom det finnes bevis for at den vektorfrie sesongen er avsluttet eller at hemoragisk epizooti-viruset sirkulerer.
 
 ### Del 2
+
 Entomologisk overvåking
 
 1\. Entomologisk overvåking skal bestå av minst et aktivt årlig program for å fange vektorer ved hjelp av fast oppsatte sugefeller, slik at populasjonsdynamikken for vektoren kan kartlegges, og dersom det er relevant, den vektorfrie sesongen.
@@ -3245,6 +3286,7 @@ Brukshyppigheten for sugefellene kan endres på grunnlag av de opplysningene som
 4\. Når entomologisk overvåking organiseres som ledd i fastsettelsen av en vektorfri sesong, skal det fastsettes en terskelverdi for *Culicoides*-arter for fortolkning av resultatene. Dersom det mangler pålitelig dokumentasjon som støtter fastsettelsen av en terskelverdi, skal det benyttes fullstendig fravær av eksemplarer av *Culicoides imicola* og mindre enn fem eksemplarer per felle av *Culicoides* som har lagt egg, som terskelverdi.
 
 ### Del 3
+
 Vektorbeskyttet anlegg
 
 Et vektorbeskyttede anlegg skal oppfylle følgende krav:

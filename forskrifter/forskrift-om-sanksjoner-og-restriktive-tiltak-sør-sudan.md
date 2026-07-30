@@ -15,7 +15,7 @@ xml_hash: "807f1e19f57738777330db078b6795ed1a63e5bb377528dd20348399a2650421"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,6 +78,7 @@ Denne forskrift trer i kraft straks.
 > Forordningstekst endret ved [forskrifter 30 mars 2017 nr. 413](forskrift/2017-03-30-413), [3 okt 2018 nr. 1596](forskrift/2018-10-03-1596), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
 
 ### RÅDSFORORDNING [(EU) 2015/735](eu/32015r0735*)
+
 av 7. mai 2015
 om restriktive tiltak i lys av situasjonen i Sør-Sudan
 
@@ -341,6 +342,7 @@ Rådsforordning [(EU) nr. 748/2014](eu/32014r0748) oppheves.
 Denne forordning trer i kraft dagen etter at den er kunngjort i Den europeiske unions tidende.
 
 ## Vedlegg I
+
 List of natural and legal persons, entities and bodies referred to in Article 5(1)
 
 FNs liste over personer og enheter som er identifisert av FNs sikkerhetsråds komité etablert i medhold av sikkerhetsrådsresolusjon 2206 (2015), og som er listeført under denne forskrift, er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/2206/materials/summaries).
@@ -348,6 +350,7 @@ FNs liste over personer og enheter som er identifisert av FNs sikkerhetsråds ko
 > Endret ved [forskrift 30 mars 2017 nr. 413](forskrift/2017-03-30-413).
 
 ## Vedlegg II
+
 List of natural and legal persons, entities and bodies referred to in Article 5(2)
 
 EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). [^1]
@@ -359,6 +362,7 @@ Listeførte med landkode («programme») SSD er listeført under denne forskrift
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken. [Denne fotnoten er tilsynelatende utdatert, Lovdatas anm.]
 
 ## Vedlegg III
+
 Websites for information on the competent authorities and address for notifications to the European Commission
 
 *Belgium*

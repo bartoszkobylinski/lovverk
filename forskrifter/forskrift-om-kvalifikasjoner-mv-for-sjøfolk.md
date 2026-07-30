@@ -15,7 +15,7 @@ xml_hash: "b6e7b4637bfb1aecf869716030542c843b956c95a3dc1c3dd26da05171baa881"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1302,6 +1302,7 @@ Sjøfartsdirektoratet kan gi tillatelse til at skipsfører, dekkssjef eller ansv
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Tabell B-I/2
+
 Liste over sertifikater eller dokumenter som kreves i henhold til STCW-konvensjonen og forskriften
 
 | *Regler* | *Type sertifikat og kort beskrivelse* | *Påtegning som attesterer anerkjennelse av et sertifikat* | *Registrering nødvendig* | *Fornyelse av sertifikat* |
@@ -1330,6 +1331,7 @@ Liste over sertifikater eller dokumenter som kreves i henhold til STCW-konvensjo
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Tabell A-VI/1-1
+
 Spesifikasjon av minstenormer for kompetanse i personlige redningsteknikker
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1338,6 +1340,7 @@ Spesifikasjon av minstenormer for kompetanse i personlige redningsteknikker
 | Overleve til sjøs i tilfeller der skipet må forlates | Typer av nødssituasjoner som kan forekomme, for eksempel sammenstøt, brann, forlis<br><br>Typer av redningsredskaper som normalt føres om bord på skip<br><br>Utstyr i redningsfarkost<br><br>Plassering av personlige redningsredskaper<br><br>Prinsipper vedrørende redning, herunder:<br><br>.1 verdien av opplæring og øvelser<br><br>.2 personlige verneklær og personlig verneutstyr<br><br>.3 nødvendigheten av å være rede for enhver nødssituasjon<br><br>.4 hva som skal gjøres ved signal om å møte ved innskipningsstasjoner<br><br>.5 hva som skal gjøres når det er nødvendig å forlate skipet<br><br>.6 hva som skal gjøres under opphold i vannet<br><br>.7 hva som skal gjøres om bord i en redningsfarkost<br><br>.8 de største faremomentene for overlevende | Bedømmelse av prestasjoner fra godkjent instruksjon eller fra deltakelse på godkjent kurs eller godkjent erfaring og prøving fra tjeneste, herunder praktisk demonstrasjon av kompetanse i å:<br><br>.1 ta på redningsvest<br><br>.2 ta på og bruke en redningsdrakt<br><br>.3 hoppe trygt i vannet fra en viss høyde<br><br>.4 snu en kantret redningsflåte iført redningsvest<br><br>.5 svømme med redningsvest<br><br>.6 holde seg flytende uten redningsvest<br><br>.7 borde en redningsfarkost fra skipet og vannet iført redningsvest<br><br>.8 utføre de første handlingene ved ombordstigning i en redningsfarkost som øker sjansene for å overleve<br><br>.9 sette ut drivanker fra livbåten<br><br>.10 betjene utstyret om bord i redningsfarkosten<br><br>.11 betjene innretninger til å angi posisjon, herunder radioutstyr | Tiltak som treffes ved identifikasjon av alarmsignal er tilpasset den angitte nødssituasjonen og er i samsvar med etablerte prosedyrer<br><br>Tidspunktene og sekvensen for de enkelte tiltakene er passende for de rådende omstendigheter og forhold og minimaliserer mulige farer og trusler hva angår overlevelse<br><br>Metoden for ombordstigning i redningsfarkost er egnet og medfører ingen fare for andre overlevende<br><br>De første handlingene etter at skipet er forlatt, og prosedyrer og handlinger i vannet minimaliserer trusler mot overlevelse |
 
 ### Tabell A-VI/1-2
+
 Spesifikasjon av minstenormer for kompetanse i forebyggende brannvern og brannslokking
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1348,6 +1351,7 @@ Spesifikasjon av minstenormer for kompetanse i forebyggende brannvern og brannsl
 | Bekjempe og slokke branner (*forts*.) | .8 bruk av åndedrettsvern ved brannslokking og berging av menneskeliv | .3 slokke mindre branner, f.eks. branner i elektrisk utstyr, oljebranner, propanbranner<br><br><br>.4 slokke omfattende branner med vann ved bruk av stråle- og spredemunnstykke<br><br><br>.5 slokke branner med skum, pulver eller et hvilket som helst annet egnet kjemisk slokkemiddel<br><br><br>.6 gå inn i og gjennom, med livline, men uten åndedrettsvern, et rom der skum som utvider seg sterkt, er sprøytet inn<br><br><br>.7 bekjempe brann i røykfylte, lukkede rom, iført bærbart åndedrettsvern<br><br><br>.8 slokke brann med vanntåke eller et hvilket som helst annet slokkemiddel, i et rom i innredningen eller simulert maskinrom med brann og kraftig røykutvikling<br><br><br>.9 slokke oljebrann med tåkeapplikator og spredermunnstykker, pulver- eller skumapplikatorer<br><br><br>.10 berge menneskeliv i et røykfylt rom, iført åndedrettsvern |  |
 
 ### Tabell A-VI/1-3
+
 Spesifikasjon av minstenormer for kompetanse i grunnleggende førstehjelp
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1356,6 +1360,7 @@ Spesifikasjon av minstenormer for kompetanse i grunnleggende førstehjelp
 | Treffe tiltak umiddelbart ved kjennskap til en ulykke eller annen medisinsk nødssituasjon | Vurdering av behovene til skadde personer og trusler mot egen sikkerhet<br><br>Forståelse av kroppens oppbygning og funksjoner<br><br>Forståelse av tiltak som må iverksettes umiddelbart i nødssituasjoner, herunder ferdighet i å:<br><br>.1 legge en skadd person i riktig stilling anvende<br><br>.2 gjenopplivingsteknikker<br><br>.3 stanse blødning<br><br>.4 iverksette egnede tiltak for grunnleggende behandling av sjokk<br><br>.5 iverksette egnede tiltak i tilfelle av brannsår og skåldsår, herunder ulykker forårsaket av elektrisk strøm<br><br>.6 redde og transportere en skadd person<br><br>.7 improvisere bandasjer og bruke materialer i medisinkiste | Bedømmelse av prestasjoner fra godkjent instruksjon eller fra deltakelse på godkjent kurs | Måten det gis alarm på og tidspunktet for å gi alarm er tilpasset omstendighetene ved ulykken eller den medisinske nødssituasjonen<br><br>Identifikasjonen av sannsynlig årsak til, art og omfang av skader er umiddelbar og fullstendig og prioriteringen og rekkefølgen av handlinger er proporsjonal med enhver potensiell trussel mot menneskeliv<br><br>Risikoen for videre skade på en selv eller den skadde personen minimaliseres til enhver tid |
 
 ### Tabell A-VI/1-4
+
 Spesifikasjon av minstenormer for kompetanse i personlig sikkerhet og omsorg for mennesker og miljø
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1376,6 +1381,7 @@ Spesifikasjon av minstenormer for kompetanse i personlig sikkerhet og omsorg for
 2 Som definert i ILO-konvensjon nr. 190 om avskaffelse av vold og trakassering i arbeidslivet, vedtatt i 2019.
 
 ### Tabell A-VI/2-1
+
 Spesifikasjon for minstenormer for kompetanse for redningsfarkoster og MOB-båter unntatt hurtiggående MOB-båter
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1388,6 +1394,7 @@ Spesifikasjon for minstenormer for kompetanse for redningsfarkoster og MOB-båte
 | Gi førstehjelp til overlevende | Bruk av medisinkiste og gjenopplivingsteknikker<br><br>Behandling av skadde personer, herunder å stanse blødninger og behandle sjokk | Bedømmelse av prestasjoner fra praktisk demonstrasjon av ferdighet i å behandle skadde personer både under evakueringen av skipet og seinere ved bruk av medisinkiste og gjenopplivingsteknikker | Identifikasjon av sannsynlig årsak til, art og omfang av skader eller tilstand er umiddelbar og nøyaktig<br><br>Prioritering og rekkefølge ved behandling minimaliserer enhver trussel mot menneskeliv |
 
 ### Tabell A-VI/3
+
 Spesifikasjon av minstekrav til kompetanse i ledelse av brannslokking
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1399,6 +1406,7 @@ Spesifikasjon av minstekrav til kompetanse i ledelse av brannslokking
 | Undersøke hendelser som involverer brann og utarbeide rapporter om disse | Vurdering av årsak til hendelser som involverer brønn | Praktiske øvelser i et realistisk opplæringsmiljø | Brannårsaker identifiseres og virkningskraften i mottiltak evalueres |
 
 ### Tabell A-VI/4-1
+
 Spesifikasjon av minstekrav til kompetanse i medisinsk førstehjelp
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1407,6 +1415,7 @@ Spesifikasjon av minstekrav til kompetanse i medisinsk førstehjelp
 | Gi førstehjelp omgående i tilfelle ulykke eller sykdom om bord | Medisinkiste<br><br>Kroppens oppbygning og funksjoner<br><br>Toksikologiske farer om bord, herunder bruk av «Medical First Aid Guide for Use in Accidents Involving Dangerous Goods (MFAG)» (Veiledning for medisinsk førstehjelp i ulykker med farlig gods) eller tilsvarende nasjonal veiledning<br><br>Undersøkelse av skadd person eller pasient<br><br>Ryggskader<br><br>Brannsår, skåldsår og virkninger av varme og kulde<br><br>Lukkede brudd, forvridninger og muskelskader<br><br>Medisinsk behandling av reddede personer<br><br>Medisinsk rådgivning over radio<br><br>Farmakologi<br><br>Sterilisering<br><br>Hjertestans, drukning og kvelning | Bedømmelse av prestasjoner fra praktisk instruksjon | Identifikasjon av sannsynlig årsak til art og omfang av skadene er umiddelbar og fullstendig og følger gjeldende praksis for førstehjelp<br><br>Risikoen for skade på en selv og andre minimaliseres til alle tider<br><br>Behandlingen av skader og pasienters sykdom er passende og følger anerkjent praksis for førstehjelp og internasjonale retningslinjer |
 
 ### Tabell A-VI/6-1
+
 Spesifikasjon av minstestandard for kompetanse i sikkerhetsbevissthet
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1417,6 +1426,7 @@ Spesifikasjon av minstestandard for kompetanse i sikkerhetsbevissthet
 | Forståelse av behovet for og metodene for å opprettholde sikkerhetsbevissthet og årvåkenhet | Grunnleggende kjennskap til krav til opplæring, drill og øvelser i henhold til relevante konvensjoner, koder og IMO-rundskriv, herunder slike som er relevante for bekjempelse av piratvirksomhet og væpnet ran | Bedømmelse av prestasjoner fra godkjent instruksjon eller fra deltakelse på godkjent kurs | Krav knyttet til større maritim sikkerhet blir riktig identifisert |
 
 ### Tabell A-VI/6-2
+
 Spesifikasjoner av minstekrav til kompetanse for sjøfolk med anviste sikkerhetsplikter
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1433,6 +1443,7 @@ Spesifikasjoner av minstekrav til kompetanse for sjøfolk med anviste sikkerhets
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Tabell A-II/1
+
 Spesifikasjon av minstenormer for kompetanse for vakthavende dekksoffiser på skip med bruttotonnasje på 500 eller mer
 
 *Opplæring og bedømmelse etter tabell A-II/1*
@@ -1508,6 +1519,7 @@ Spesifikasjon av minstenormer for kompetanse for vakthavende dekksoffiser på sk
 > Endret ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
 ### Tabell A-II/2
+
 Spesifikasjon av minstenormer for kompetanse for skipsførere og dekksjefer på skip med bruttotonnasje på 500 eller mer
 
 *Opplæring og bedømmelse etter vedlegg III tabell A-II/2*
@@ -1562,6 +1574,7 @@ Spesifikasjon av minstenormer for kompetanse for skipsførere og dekksjefer på 
 | Organisere og lede den medisinske behandlingen som gis om bord | Grundig kjennskap til bruken av og innholdet i følgende publikasjoner:<br><br>.1 Den internasjonale medisinske veiledning for skip eller tilsvarende nasjonale publikasjoner<br><br>.2 det medisinske avsnittet i International Code of Signals<br><br>.3 Medisinsk veiledning for førstehjelp til bruk i ulykker med farlig gods | Prøving og bedømmelse av prestasjoner fra godkjent opplæring | Tiltak som treffes og prosedyrer som følges anvender tilgjengelige råd riktig og fullt ut |
 
 ### Tabell A-II/3
+
 Spesifikasjon av minstenormer for kompetanse for vakthavende dekksoffiser og for skipsførere på skip med bruttotonnasje på mindre enn 500 i fart nær kystlandet
 
 *Opplæring og bedømmelse etter vedlegg III tabell A-II/3*
@@ -1618,6 +1631,7 @@ Spesifikasjon av minstenormer for kompetanse for vakthavende dekksoffiser og for
 | Bidra til skipets og personellets sikkerhet | Kjennskap til personlige overlevelsesteknikker<br><br>Kjennskap til forebyggende brannvern og ferdighet i å bekjempe og slokke branner<br><br>Kjennskap til grunnleggende førstehjelp<br><br>Kjennskap til personlig sikkerhet og sosialt ansvar | Bedømmelse av prestasjoner fra godkjent opplæring og erfaring som angitt i avsnitt A-VI/1 nr. 2 | Egnet sikkerhets- og verneutstyr brukes riktig<br><br>Prosedyrer og sikre arbeidsrutiner utformet for å sikre personell og skipet følges til enhver tid<br><br>Prosedyrer utformet for å verne miljøet følges til enhver tid<br><br>Opprinnelige og oppfølgende tiltak for å bli oppmerksom på en nødssituasjon er i samsvar med etablerte nødprosedyrer |
 
 ### Tabell A-II/4
+
 Spesifikasjon av minstenormer for kompetanse for mannskap som inngår i brovakten
 
 *Opplæring og bedømmelse for ferdighetssertifikat brovakt vedlegg III tabell A-II/4*
@@ -1637,6 +1651,7 @@ Spesifikasjon av minstenormer for kompetanse for mannskap som inngår i brovakte
 | Betjene nødutstyr og anvende nødprosedyrer | Kjennskap til plikter i nødssituasjoner og alarmsignaler<br><br>Kjennskap til lys- og røyknødsignaler, satellitt-nødpeilesendere og radartranspondere<br><br>Hvordan unngå falske nødvarsler, og tiltak som skal iverksettes ved tilfeldig aktivering | Bedømmelse av prestasjoner ved demonstrasjon og fra godkjent erfaring fra tjeneste eller godkjent erfaring fra opplæring på skip | De første tiltakene etter oppdagelsen av en nødssituasjon eller unormal situasjon er i samsvar med etablert praksis og etablerte prosedyrer<br><br>Kommunikasjonen er klar og konsis til enhver tid og ordrer bekreftes i tråd med godt sjømannskap<br><br>Integriteten til nødvarslingssystemer opprettholdes til enhver tid |
 
 ### Tabell A-II/5
+
 Spesifikasjon av minstenormer for kompetanse som mannskap som matros
 
 *Opplæring og bedømmelse for ferdighetssertifikat matros vedlegg III tabell A-II/5*
@@ -1691,6 +1706,7 @@ Spesifikasjon av minstenormer for kompetanse som mannskap som matros
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Tabell A-III/1
+
 Spesifikasjon av minstenormer for kompetanse for vakthavende maskinoffiserer i bemannet maskinrom eller maskinoffiserer på beredskapsvakt i periodevis ubemannet maskinrom
 
 *Opplæring og bedømmelse etter tabell A-III/1*
@@ -1747,6 +1763,7 @@ Spesifikasjon av minstenormer for kompetanse for vakthavende maskinoffiserer i b
 | Bidra til skipets og personellets sikkerhet | Kjennskap til personlige overlevelsesteknikker<br><br>Kjennskap til forebyggende brannvern og ferdighet i å bekjempe og slokke branner<br><br>Kjennskap til grunnleggende førstehjelp<br><br>Kjennskap til personlig sikkerhet og sosialt ansvar | Bedømmelse av prestasjoner fra godkjent opplæring og erfaring som angitt i avsnitt A-VI/1 nr. 2 | Egnet sikkerhets- og verneutstyr brukes riktig<br><br>Prosedyrer og sikre arbeidsrutiner utformet for å sikre personell og skipet følges til enhver tid<br><br>Prosedyrer utformet for å verne miljøet følges til enhver tid<br><br>Opprinnelige og oppfølgende tiltak for å bli oppmerksom på en nødssituasjon er i samsvar med etablerte nødprosedyrer |
 
 ### Tabell A-III/2
+
 Spesifikasjon av minstenormer for kompetanse for maskinsjef og førstemaskinist på skip som drives av hovedmaskineri med framdriftskraft på 3 000 kW eller mer
 
 *Opplæring og bedømmelse etter tabell A-III/2 i*
@@ -1805,6 +1822,7 @@ Spesifikasjon av minstenormer for kompetanse for maskinsjef og førstemaskinist 
 > Endret ved [forskrift 16 juni 2016 nr. 696](forskrift/2016-06-16-696) (i kraft 1 juli 2016).
 
 ### Tabell A-III/4
+
 Spesifikasjon av minstenormer for kompetanse for mannskap som inngår i maskinvakten
 
 *Opplæring og bedømmelse ferdighetssertifikat maskinvakt tabell A-III/4*
@@ -1823,6 +1841,7 @@ Spesifikasjon av minstenormer for kompetanse for mannskap som inngår i maskinva
 | Betjene nødutstyr og anvende nødprosedyrer | Kjennskap til plikter i nødssituasjoner<br><br>Rømningsveier fra maskinrom<br><br>Fortrolighet med plassering og bruk av brannslokkingsutstyr i maskinrom | Bedømmelse av prestasjoner ved demonstrasjon og fra godkjent erfaring fra tjeneste eller godkjent erfaring fra opplæring på skip | De første tiltakene etter oppdagelsen av en nødssituasjon eller unormal situasjon er i samsvar med etablerte prosedyrer<br><br>Kommunikasjonen er klar og konsis til enhver tid og ordrer bekreftes i tråd med godt sjømannskap |
 
 ### Tabell A-III/5
+
 Spesifikasjon av minstenormer for kompetanse som mannskap som skipsmotormekaniker i et bemannet maskinrom eller som skipsmotormekaniker som skal utføre plikter i et periodevis ubemannet maskinrom
 
 *Opplæring og bedømmelse for ferdighetssertifikat skipsmotormekaniker tabell A-III/5*
@@ -1868,6 +1887,7 @@ Spesifikasjon av minstenormer for kompetanse som mannskap som skipsmotormekanike
 | Anvende prosedyrer for helse og sikkerhet på arbeidsplassen | Praktisk kjennskap til sikre arbeidsrutiner og personlig sikkerhet om bord, herunder:<br><br>.1 elektrisk sikkerhet<br><br>.2 sperring/merking<br><br>.3 mekanisk sikkerhet<br><br>.4 tillatelse til å bruke systemer<br><br>.5 arbeide i høyden<br><br>.6 arbeide i lukkede rom<br><br>.7 løfteteknikk og metoder for å hindre ryggskade<br><br>.8 sikkerhet mot kjemisk og biologisk fare<br><br>.9 personlig sikkerhetsutstyr | Bedømmelse av prestasjoner fra ett eller flere av følgende områder:<br><br>.1 godkjent erfaring fra tjeneste<br><br>.2 praktisk opplæring<br><br>.3 Undersøkelse<br><br>.4 godkjent erfaring fra opplæring på skip | Prosedyrer utformet for å verne personell og skipet følges til enhver tid<br><br>Sikre arbeidsrutiner følges og egnet sikkerhets- og verneutstyr brukes riktig til enhver tid |
 
 ### Tabell A-III/6
+
 Spesifikasjon av minstenormer for kompetanse for skipselektrikeroffiserer
 
 *Opplæring og bedømmelse for kompetansesertifikat skipselektrikeroffiser tabell A-III/6*
@@ -1918,6 +1938,7 @@ Spesifikasjon av minstenormer for kompetanse for skipselektrikeroffiserer
 > Endret ved [forskrift 16 juni 2016 nr. 696](forskrift/2016-06-16-696) (i kraft 1 juli 2016).
 
 ### Tabell A-III/7
+
 Spesifikasjon av minstenormer for kompetanse for skipselektriker
 
 *Opplæring og bedømmelse for ferdighetssertifikat skipselektriker tabell A-III/7*
@@ -1961,6 +1982,7 @@ Spesifikasjon av minstenormer for kompetanse for skipselektriker
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Tabell A-VI/2-2
+
 Spesifikasjon av minstenormer for kompetanse for hurtiggående MOB-båter
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1973,6 +1995,7 @@ Spesifikasjon av minstenormer for kompetanse for hurtiggående MOB-båter
 | Betjene motor på en hurtiggående MOB-båt | Metoder for å starte og betjene motor med tilbehør på en hurtiggående MOB-båt | Bedømmelse av prestasjoner fra praktisk demonstrasjon av ferdighet i å starte og betjene motor på hurtiggående MOB-båt | Motoren startes og betjenes slik manøvreringen krever |
 
 ### Tabell A-VI/4-2
+
 Spesifikasjon av minstenormer for kompetanse i medisinsk behandling
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -1985,6 +2008,7 @@ Spesifikasjon av minstenormer for kompetanse i medisinsk behandling
 ## Vedlegg VI
 
 ### Tabell A-V/1-1-1
+
 Spesifikasjon av minstenormer for kompetanse i grunnleggende opplæring i lasteoperasjoner på oljetankskip og kjemikalietankskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2005,6 +2029,7 @@ Spesifikasjon av minstenormer for kompetanse i grunnleggende opplæring i lasteo
 | Ta forholdsregler for å hindre forurensning av miljøet fra utslipp av olje eller kjemikalier | Grunnleggende kjennskap til virkningene av olje- og kjemikalieforurensning på mennesker og livet i havet<br><br>Grunnleggende kjennskap til prosedyrer om bord for å hindre forurensning<br><br>Grunnleggende kjennskap til tiltak som må iverksettes i tilfelle av spill, herunder behovet for å:<br><br>.1 melde relevant informasjon til dem som er ansvarlige<br><br>.2 bistå ved gjennomføring av rutiner for oppsamling av spill om bord | Prøving og bedømmelse av prestasjoner fra ett eller flere av følgende områder:<br><br>.1 godkjent erfaring fra tjeneste<br><br>.2 godkjent erfaring fra opplæring på skip<br><br>.3 godkjent simulatortrening<br><br>.4 godkjent opplæringsprogram | Prosedyrer utformet for å verne miljøet følges til enhver tid |
 
 ### Tabell A-V/1-1-2
+
 Spesifikasjon av minstenormer for kompetanse i opplæring i ledelse av lasteoperasjoner på oljetankskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2026,6 +2051,7 @@ Spesifikasjon av minstenormer for kompetanse i opplæring i ledelse av lasteoper
 | Overvåke og kontrollere oppfyllelsen av regelverkets krav | Kjennskap til og forståelse av relevante bestemmelser i Den internasjonale konvensjon om hindring av forurensning fra skip (MARPOL) med endringer, og andre relevante IMO-dokumenter, retningslinjer for industrien og havneforskrifter slik de normalt gjelder | Prøving og bedømmelse av prestasjoner fra ett eller flere av følgende områder:<br><br>.1 godkjent erfaring fra tjeneste<br><br>.2 godkjent erfaring fra opplæring på skip<br><br>.3 godkjent simulatortrening<br><br>.4 godkjent opplæringsprogram | Håndteringen av last er i samsvar med relevante IMO-dokumenter og etablerte industristandarder og regelverk for sikre arbeidsrutiner |
 
 ### Tabell A-V/1-1-3
+
 Spesifikasjon av minstenormer for kompetanse i opplæring i ledelse av lasteoperasjoner på kjemikalietankskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2058,6 +2084,7 @@ Spesifikasjon av minstenormer for kompetanse i opplæring i ledelse av lasteoper
 | Overvåke og kontrollere oppfyllelsen av regelverkets krav | Kjennskap til og forståelse av relevante bestemmelser i Den internasjonale konvensjon om hindring av forurensning fra skip (MARPOL) og andre relevante IMO-dokumenter, retningslinjer for industrien og havneforskrifter slik de normalt gjelder Dyktighet i bruk av IBC-regelverket og tilhørende dokumenter | Prøving og bedømmelse av prestasjoner fra ett eller flere av følgende områder:<br><br>.1 godkjent erfaring fra tjeneste<br><br>.2 godkjent erfaring fra opplæring på skip<br><br>.3 godkjent simulatortrening<br><br>.4 godkjent opplæringsprogram | Håndteringen av last er i samsvar med relevante IMO-dokumenter og etablerte industristandarder og regelverk for sikre arbeidsrutiner |
 
 ### Tabell A-V/1-2-1
+
 Spesifikasjon av minstenormer for kompetanse i grunnleggende opplæring i lasteoperasjoner på gasstankskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2080,6 +2107,7 @@ Spesifikasjon av minstenormer for kompetanse i grunnleggende opplæring i lasteo
 | Ta forholdsregler for å hindre forurensning av miljøet fra utslipp av flytende gass | Grunnleggende kjennskap til virkningene av forurensning på mennesker og livet i havet<br><br>Grunnleggende kjennskap til prosedyrer om bord for å hindre forurensing<br><br>Grunnleggende kjennskap til tiltak som må iverksettes i tilfelle av spill, herunder behovet for å:<br><br>.1 melde relevant informasjon til dem som er ansvarlige<br><br>.2 bistå ved gjennomføring av rutiner for oppsamling av spill om bord<br><br>.3 hindre sprøbrudd | Prøving og bedømmelse av prestasjoner fra ett eller flere av følgende områder:<br><br>.1 godkjent erfaring fra tjeneste<br><br>.2 godkjent erfaring fra opplæring på skip<br><br>.3 godkjent simulatortrening<br><br>.4 godkjent opplæringsprogram | Prosedyrer utformet for å verne miljøet følges til enhver tid |
 
 ### Tabell A-V/1-2-2
+
 Spesifikasjon av minstenormer for kompetanse i opplæring i ledelse av lasteoperasjoner på gasstankskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2236,6 +2264,7 @@ Før skipsførere, maskinsjefer, dekksjefer, førstemaskinister og alle som har 
 > Endret ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
 ### Tabell A-V/2-1
+
 Spesifikasjon av minstekrav til kompetanse innen opplæring i passasjerhåndtering på passasjerskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2247,6 +2276,7 @@ Spesifikasjon av minstekrav til kompetanse innen opplæring i passasjerhåndteri
 > Endret ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
 ### Tabell A-V/2-2
+
 Spesifikasjon av minstekrav til kompetanse i krisehåndtering og menneskelig atferd på passasjerskip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2263,6 +2293,7 @@ Spesifikasjon av minstekrav til kompetanse i krisehåndtering og menneskelig atf
 ## Vedlegg VIII
 
 ### Tabell A-VI/5
+
 Spesifikasjoner av minstekrav til kompetanse for sikkerhetsoffiserer på skip
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2280,6 +2311,7 @@ Spesifikasjoner av minstekrav til kompetanse for sikkerhetsoffiserer på skip
 ## Vedlegg IX. Opplæring av bemanning på gassdrevet passasjerskip
 
 ### Tabell A-V/3-1
+
 Spesifikasjon av minstekrav til kompetanse i grunnleggende opplæring for skip som bruker drivstoff med flammepunkt under 60 °C
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2295,6 +2327,7 @@ Spesifikasjon av minstekrav til kompetanse i grunnleggende opplæring for skip s
 > Endret ved [forskrift 27 des 2016 nr. 1884](forskrift/2016-12-27-1884) (i kraft 1 jan 2017).
 
 ### Tabell A-V/3-2
+
 Spesifikasjon av minstekrav til kompetanse i videregående opplæring for skip som bruker drivstoff med flammepunkt under 60 °C Tabell A-V/3-1
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2360,6 +2393,7 @@ Når skipsførere og ansvarshavende vaktoffiserer på broen har ansvar for anker
 > Tilføyd ved [forskrift 11 juli 2014 nr. 974](forskrift/2014-07-11-974) (i kraft 15 juli 2014).
 
 ### Tabell A-IV/2
+
 Spesifikasjon av minstenormer for kompetanse for GDMSS-radiooperatører
 
 Funksjon: Radiokommunikasjon på det operative nivået
@@ -2399,6 +2433,7 @@ Alle som søker om sertifikat for videregående opplæring for skip som opererer
 > Tilføyd ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
 ### Tabell A-V/4-1
+
 Spesifikasjon av minstekrav til kompetanse i grunnleggende opplæring for skip som opererer i polare farvann
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |
@@ -2414,6 +2449,7 @@ Spesifikasjon av minstekrav til kompetanse i grunnleggende opplæring for skip s
 > Tilføyd ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
 ### Tabell A-V/4-2
+
 Spesifikasjon av minstekrav til kompetanse i videregående opplæring for skip som opererer i polare farvann
 
 | *Kolonne 1* | *Kolonne 2* | *Kolonne 3* | *Kolonne 4* |

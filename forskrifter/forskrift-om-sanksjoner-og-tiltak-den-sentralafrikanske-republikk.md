@@ -15,7 +15,7 @@ xml_hash: "6700fac328eb29199a799aed14f3344821eeb781d5df29a317a33fe2f19713b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,7 @@ Denne forskrift trer i kraft straks.
 > Endret ved forskrifter [3 mars 2021 nr. 639](forskrift/2021-03-03-639), [24 jan 2022 nr. 117](forskrift/2022-01-24-117), [30 nov 2022 nr. 2052](forskrift/2022-11-30-2052), [28 nov 2023 nr. 1933](forskrift/2023-11-28-1933), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
 
 ### RÅDSFORORDNING [(EU) NR. 224/2014](eu/32014r0224)
+
 av 10. mars 2014
 om restriktive tiltak i lys av situasjonen i Den sentralafrikanske republikk
 
@@ -306,6 +307,7 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Liste over personer og enheter nevnt i artikkel 5
 
 Liste over personer og enheter som det er henvist til i artikkel 5, er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/2127/sanctions-list-materials/summaries).

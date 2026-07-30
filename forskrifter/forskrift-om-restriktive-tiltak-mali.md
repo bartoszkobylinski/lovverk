@@ -15,7 +15,7 @@ xml_hash: "84947816223f0b299a0cbd692476c04c26e9042ff720f1d77edee91766fc3d14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,6 +63,7 @@ Denne forskriften trer i kraft straks.
 ## Vedlegg A
 
 ### RÅDSFORORDNING (EU) 2017/1770
+
 av 28. september 2017
 om restriktive tiltak i lys av situasjonen i Mali
 
@@ -289,6 +290,7 @@ Denne forordning trer i kraft dagen etter at den kunngjøres i Den europeiske un
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Liste over fysiske eller juridiske personer, enheter eller organer henvist til i artikkel 2
 
 FNs liste over personer, enheter og organer identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsrådsresolusjon 2374 (2017), er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/2374/materials/summaries).
@@ -302,6 +304,7 @@ Listeførte med programkode («programme») MLI – Mali er listeført under den
 > Tilføyd ved forskrift [18 des 2024 nr. 3382](forskrift/2024-12-18-3382) (i kraft 1 jan 2025).
 
 ### Vedlegg II
+
 Nettsider med opplysninger om kompetente myndigheter og med adresser for å underrette Kommisjonen
 
 BELGIUM

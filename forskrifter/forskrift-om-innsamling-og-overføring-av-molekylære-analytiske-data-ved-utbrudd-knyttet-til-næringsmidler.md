@@ -17,7 +17,7 @@ xml_hash: "54d10b298cf2c6d1446bf6a68927ff632bb50894cdd6da472e730ba740f304a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,6 +53,7 @@ For å gjøre det lett å finne frem til ordlyden i forordningen som blir gjenno
 Nedenfor gjengis til informasjon norsk oversettelse av kommisjonens gjennomføringsforordning [(EU) 2025/179](eu/32025r0179), med de endringer og tillegg som følger av EØS-tilpasninger av rettsakten i samsvar ved [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2025/179](eu/32025r0179)
+
 av 31. januar 2025
 om innsamling og overføring av molekylære analytiske data innenfor rammen av epidemiologisk undersøkelser av utbrudd av næringsmidler i samsvar med europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099)
 

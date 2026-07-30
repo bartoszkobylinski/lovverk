@@ -15,7 +15,7 @@ xml_hash: "9b5c82ac05f31dd0b272bb00eb59dcf38e89c8551d7ed2c28929f9253d4b5e4d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -432,9 +432,11 @@ Hvis brennbare materialer er brukt for å gi fartøyet oppdrift i skadet tilstan
 Nedenfor gjengis til informasjon Sjøfartsdirektoratets oversettelse av den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) kapittel II-2 om bygging, brannvern, branndeteksjon og brannslokking, tatt inn i konsolidert utgave 2020 med endringer til og med IMO-resolusjon MSC.550(108).
 
 ### KAPITTEL II-2
+
 BYGGING – BRANNVERN, BRANNDETEKSJON OG BRANNSLOKKING
 
 ### Del A
+
 Generelle bestemmelser
 
 ### Regel 1[^1] Anvendelse
@@ -779,6 +781,7 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for det
 14 Tilføyd ved resolusjon MSC.520(106).
 
 ### Del B
+
 Hindring av brann og eksplosjon[^15]
 
 ### Regel 4 Sannsynlighet for antenning
@@ -1391,6 +1394,7 @@ Underste dekkskledninger skal, hvis de brukes i rom i innredningen, arbeidsrom o
 På passasjerskip bygget 1. juli 2008 eller senere, skal underste dekkskledninger på lugarbalkonger ikke utgjøre en fare på grunn av røyk, giftighet eller eksplosjon ved høye temperaturer, som bestemt i samsvar med FTP-koden.
 
 ### Del C
+
 Branndempende tiltak
 
 ### Regel 7 Deteksjon og alarm
@@ -3406,6 +3410,7 @@ Slike innretninger skal være installert på nøytralgassledningen, med mindre d
 Ventilasjonsutløp for lasting, lossing og ballastering fastsatt i nr. 6.1.2, skal være utformet på grunnlag av høyeste konstruksjonslastemengde multiplisert med en faktor på minst 1,25 for å ta hensyn til gassdannelse, for derved å hindre at trykket i en lastetank overstiger konstruksjonstrykket. Skipsføreren skal ha opplysninger om største tillatte lastemengde for hver lastetank og, når det gjelder kombinerte ventilasjonssystemer, for hver gruppe av lastetanker.
 
 ### Del D
+
 Rømning
 
 ### Regel 12 Varsling av besetning og passasjerer
@@ -3751,6 +3756,7 @@ De nederste 0,5 m av skott og andre skillevegger som danner vertikale skiller la
 53 Det vises til «Symbols related to life-saving appliances and arrangements» (resolusjon A.760(18), som endret ved resolusjon MSC.82(70)).
 
 ### Del E
+
 Driftskrav
 
 ### Regel 14 Operativ beredskap og vedlikehold
@@ -4005,6 +4011,7 @@ Hvis nøytralgassystemet ikke kan tilfredsstille kravet i nr. 16.3.3.1, og det h
 58 Det vises til «Clarification of inert gas system requirements under the Convention» (MSC/Circ.485 med endringer) og til «Revised Guidelines for inert gas systems» (MSC/Circ.353, som endret ved MSC/Circ.387).
 
 ### Del F
+
 Alternative utforminger og arrangementer
 
 ### Regel 17 Alternative utforminger og arrangementer
@@ -4066,6 +4073,7 @@ Hvis forutsetningene og de driftsmessige begrensningene som ble fastsatt for alt
 60 Det vises til «Guidelines on alternative design and arrangements for fire safety» (MSC/Circ.1002 og Corr.1, Corr.2 og Corr.3, som endret ved MSC.1/Circ.1552).
 
 ### Del G
+
 Særlige krav
 
 ### Regel 18 Helikopteranlegg

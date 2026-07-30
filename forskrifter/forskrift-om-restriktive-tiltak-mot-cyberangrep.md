@@ -15,7 +15,7 @@ xml_hash: "f49d9b65f48f699a602153893f917e125f674e51b30b88e9e2f943efdbd456cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,6 +67,7 @@ Forskriften trer i kraft straks.
 > Endret ved forskrift [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### RÅDSFORORDNING [(EU) 2019/796](eu/32019r0796)
+
 av 17. mai 2019
 om restriktive tiltak mot cyberangrep som truer EU eller EUs medlemsstater
 
@@ -319,6 +320,7 @@ Denne forordningen trer i kraft dagen etter at den kunngjøres i Den europeiske 
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### VEDLEGG I
+
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 3
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
@@ -330,6 +332,7 @@ Listeførte med programkode («programme») CYB – CYBER-ATTACKS er listeført 
 _________________
 
 ### VEDLEGG II
+
 Nettsider med opplysninger om kompetente myndigheter og om adresser for å underrette Kommisjonen
 
 BELGIA

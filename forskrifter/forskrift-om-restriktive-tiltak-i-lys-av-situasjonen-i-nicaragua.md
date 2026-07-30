@@ -15,7 +15,7 @@ xml_hash: "20493a46cdfe6626cc4ebf85bde78561678b72d982c78bbf9624fc3cb0208fdc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,7 @@ Denne forskriften trer i kraft straks.
 > Vedlegg endret ved [forskrifter 16 jan 2023 nr. 57](forskrift/2023-01-16-57), [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### Rådsforordning [(EU) 2019/1716](eu/32019r1716*)
+
 av 14. oktober 2019
 om restriktive tiltak i lys av situasjonen i Nicaragua
 
@@ -278,6 +279,7 @@ Denne forordningen trer i kraft dagen etter at den kunngjøres i Den europeiske 
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ## VEDLEGG I
+
 Liste over fysiske eller juridiske personer, enheter eller organer henvist til i artikkel 2
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
@@ -287,6 +289,7 @@ Listeførte med landkode («programme») (NIC), er listeført under denne forskr
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken
 
 ## VEDLEGG II
+
 Internettsider for opplysninger om kompetente myndigheter og adresse for å notifisere EU-kommisjonen
 
 > Vedlegg endret ved [forskrift 16 jan 2023 nr. 57](forskrift/2023-01-16-57).

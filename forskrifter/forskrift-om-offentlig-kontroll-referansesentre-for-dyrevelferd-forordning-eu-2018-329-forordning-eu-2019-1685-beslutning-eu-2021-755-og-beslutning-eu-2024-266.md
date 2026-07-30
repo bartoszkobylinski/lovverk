@@ -15,7 +15,7 @@ xml_hash: "038a8afcbe168a52076b82204bb66663753c3db25a7cd589655a4052af461fe5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,6 +51,7 @@ Denne forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/329](eu/32018r0329) om utpeking av EU referansesentre for dyrevelferd.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2018/329](eu/32018r0329)
+
 av 5. mars 2018
 om utpeking av et EU-referansesenter for dyrevelferd
 
@@ -110,6 +111,7 @@ Utferdiget i Brussel 5. mars 2018.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/1685](eu/32019r1685) om utpeking av EU referansesentre for dyrevelferd for fjørfe og andre mindre husdyrarter med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2019/1685](eu/32019r1685)
+
 av 4. oktober 2019
 om utpeking av et EU-referansesenter for dyrevelferd for fjørfe og andre små produksjonsdyr
 
@@ -174,6 +176,7 @@ Utferdiget i Brussel 4. oktober 2019.
 Nedenfor gjengis til informasjon norsk oversettelse av kommisjonsbeslutning [(EU) 2021/755](eu/32021d0755) om utpeking av et EU-referansesenter for dyrevelferd for drøvtyggere og dyr av hestefamilien med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### Kommisjonens gjennomføringsbeslutning (EU) 2021/755
+
 av 6. mai 2021
 om utpeking av et EU-referansesenter for dyrevelferd for drøvtyggere og dyr av hestefamilien i samsvar med europaparlaments- og rådsforordning (EU) 2017/625
 
@@ -242,6 +245,7 @@ Utferdiget i Brussel 6. mai 2021.
 Nedenfor gjengis til informasjon norsk oversettelse av kommisjonsbeslutning [(EU) 2024/266](eu/32024d0266) om EU-referansesenter for dyrevelferd for akvatiske dyr.
 
 ### KOMMISJONENS GJENNOMFØRINGSBESLUTNING [(EU) 2024/266](eu/32024d0266)
+
 av 17. januar 2024
 om utpeking av et EU-referansesenter for dyrevelferd for akvatiske dyr i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)
 

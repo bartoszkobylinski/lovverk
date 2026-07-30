@@ -17,7 +17,7 @@ xml_hash: "99cf5821b562b1c3381cea02b8cdd5491c7fb1d1ce5b8814c0c7e9b1f557dc10"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,6 +108,7 @@ som endret ved:
 - ►**C2** Korrigendum OJ L 2025/90633, 6.8.2025, (2025/636)
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020
+
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019r0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007d0240)
 
 EUROPAKOMMISJONEN HAR

@@ -15,7 +15,7 @@ xml_hash: "51c40e3fd4250e0568c94147dcc5d295c16f7657757517870222c7216efa83d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -354,11 +354,13 @@ Denne forordningen får anvendelse
 Denne forordningen trer i kraft den dagen den kunngjøres i *Den europeiske unions tidende*. Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### VEDLEGG I
+
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2, 3 og 9
 
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2, 3 og 9, er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/2653/materials/summaries).
 
 ### VEDLEGG Ia
+
 Liste over fysiske og juridiske personer, enheter og organer nevnt i [artikkel 4a](forskrift/2023-03-24-404/a4a)
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en).
@@ -366,6 +368,7 @@ EUs konsoliderte liste over personer, enheter og organer underlagt restriktive t
 Listeførte med programkode («programme») HTI – Haiti er listeført under denne forskriften.
 
 ### [Vedlegg II](forskrift/2023-03-24-404/VedleggA)
+
 Internettsider for informasjon om kompetente myndigheter og adresse for å underrette EU-kommisjonen
 
 BELGIUM

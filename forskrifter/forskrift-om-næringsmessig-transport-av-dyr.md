@@ -16,7 +16,7 @@ xml_hash: "594ee6119e390a11093346f3ee120fe634bedeed1ce4d7d113ce8333faa62235"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -210,6 +210,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1/20
 ►**M1** Forordning [(EU) nr. 2017/625](eu/32017r0625*) av 15. mars 2017
 
 ### RÅDSFORORDNING [(EF) nr. 1/2005](eu/32005r0001*)
+
 av 22. desember 2004
 om vern av dyr under transport og tilknyttede aktiviteter og om endring av direktiv [64/432/EØF](eu/31964l0432*) og [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255)
 
@@ -297,6 +298,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 VIRKEOMRÅDE, DEFINISJONER OG ALMINNELIGE VILKÅR FOR TRANSPORT AV DYR
 
 ### Artikkel 1. Virkeområde
@@ -411,6 +413,7 @@ Dessuten skal følgende vilkår være oppfylt:
 8. dyrene skal tilbys vann, fôr og hvile med passende mellomrom og i mengder som er passende i forhold til dyrenes art og størrelse.
 
 ### KAPITTEL II
+
 ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 
 ### Artikkel 4. Transportdokumenter
@@ -494,6 +497,7 @@ ORGANISATORER, TRANSPORTØRER, RØKTERE OG OPPSAMLINGSSENTRALER
 5. vedta, overvåke og iverksette nødvendige interne regler for å sikre at bokstav a)–d) overholdes.
 
 ### KAPITTEL III
+
 VEDKOMMENDE MYNDIGHETS OPPGAVER OG FORPLIKTELSER
 
 ### Artikkel 10. Krav til godkjenning av transportør
@@ -611,6 +615,7 @@ Transportører skal søke om godkjenning i henhold til artikkel 10 eller 11 bare
 ◄**M1**
 
 ### KAPITTEL IV
+
 HÅNDHEVING OG UTVEKSLING AV OPPLYSNINGER
 
 ►**M1**
@@ -654,6 +659,7 @@ Medlemsstatene skal fastsette de sanksjoner som skal anvendes ved overtredelse a
 Medlemsstatene skal oppmuntre til utarbeiding av retningslinjer for god praksis som skal omfatte anbefaling om overholdelse av denne forordning og særlig artikkel 10 nr. 1. Disse retningslinjene skal utarbeides på nasjonalt plan i samarbeid mellom en rekke medlemsstater, eller på fellesskapsplan. Det skal oppmuntres til formidling og bruk av både nasjonale retningslinjer og Fellesskapets retningslinjer.
 
 ### KAPITTEL V
+
 GJENNOMFØRINGSMYNDIGHET OG KOMITÉFRAMGANGSMÅTE
 
 ### Artikkel 30. Endring av vedleggene og gjennomføringsbestemmelser
@@ -691,6 +697,7 @@ Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468)
 Innen fire år etter datoen nevnt i artikkel 37 annet ledd, skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet om virkningen av denne forordning på velferden for dyr som blir transportert, og på handelen med levende dyr innenfor det utvidede Fellesskap. Rapporten skal særlig ta hensyn til vitenskapelige opplysninger om dyrs velferdsbehov, og rapporten om gjennomføring av navigasjonssystemet som nevnt i kapittel VI punkt 4 nr. 3 i vedlegg I, samt de sosioøkonomiske virkningene av denne forordning, herunder regionale aspekter. Denne rapporten kan om nødvendig ledsages av egnede forslag til lovgivning vedrørende lange reiser, særlig med hensyn til reise- og hviletid samt plassforhold.
 
 ### KAPITTEL VI
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 33. Oppheving
@@ -851,10 +858,12 @@ Utferdiget i Brussel, 22. desember 2004.
 |  | C. *VEERMAN* |
 
 ### VEDLEGG I
+
 TEKNISKE BESTEMMELSER
 (som nevnt i artikkel 6 nr. 3, artikkel 8 nr. 1, artikkel 9 nr. 1 og nr. 2 bokstav a))
 
 ### KAPITTEL I
+
 SKIKKETHET TIL TRANSPORT
 
 1. Ingen dyr skal transporteres med mindre de er skikket til å tåle den påtenkte reisen, og alle dyr skal transporteres under slike forhold at de ikke kommer til skade eller påføres unødig lidelse.
@@ -881,6 +890,7 @@ SKIKKETHET TIL TRANSPORT
 1 EFT L 358 av 18.12.1986, s. 1. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2003/65/EF](eu/32003l0065) (EFT L 230 av 16.9.2003, s. 32).
 
 ### KAPITTEL II
+
 TRANSPORTMIDLER
 
 ### 1. Bestemmelser for alle transportmidler
@@ -941,6 +951,7 @@ TRANSPORTMIDLER
 - Containere på over 50 kg skal være utstyrt med et tilstrekkelig antall festepunkter som er utformet og plassert, og som vedlikeholdes på en slik måte at de kan festes forsvarlig til det transportmiddelet de skal lastes på. Containere skal være festet til transportmiddelet før reisen begynner for å hindre at de flytter seg når transportmiddelet beveger seg.
 
 ### KAPITTEL III
+
 TRANSPORTPRAKSIS
 
 ### 1. Lasting, lossing og håndtering
@@ -1020,9 +1031,11 @@ TRANSPORTPRAKSIS
   *Tilleggsbestemmelser om hest når reisen utelukkende foregår innenlands er fastsatt i [§ 12](forskrift/2012-02-08-139/§12).*
 
 ### KAPITTEL IV
+
 TILLEGGSBESTEMMELSER FOR FARTØYER TIL TRANSPORT AV LEVENDE DYR ELLER FARTØYER TIL TRANSPORT AV CONTAINERE
 
 ### Avsnitt 1
+
 Krav til konstruksjon av og utstyr på fartøyer til transport av levende dyr
 
 1. Rekkverket i innhegninger og på lastedekk skal ha tilstrekkelig styrke i forhold til de dyrene som transporteres. Et klassifiseringsselskap godkjent av vedkommende myndighet, skal kontrollere styrkeberegningen i forbindelse med bygging eller ombygging av fartøyet til transport av levende dyr.
@@ -1045,6 +1058,7 @@ Krav til konstruksjon av og utstyr på fartøyer til transport av levende dyr
 9. Hovedstrømforsyningen skal være tilstrekkelig til å forsyne systemene nevnt i punkt 2, 4, 5 og 6, med strøm hele tiden under normale driftsforhold på fartøyer til transport av levende dyr. Nødstrømforsyningen skal være tilstrekkelig til å erstatte hovedstrømforsyningen kontinuerlig i tre dager.
 
 ### AVSNITT 2
+
 Fôr- og vannforsyning på fartøyer til transport av levende dyr, eller fartøyer til transport av sjøcontainere
 
 Fartøyer til transport av levende dyr eller fartøyer til transport av sjøcontainere med enhovede husdyr og husdyr av artene storfe, sau, geit og svin skal for reiser som varer mer enn 24 timer, fra avgangstidspunktet ha med tilstrekkelig strø og tilstrekkelig fôr og vann til å dekke minstebehovet for daglig fôr og vann som oppført i tabell 1, for den planlagte reisen, pluss 25 % eller tre dagers ekstra forsyning av strø, fôr og vann, alt etter hva som er den største mengden.
@@ -1065,6 +1079,7 @@ Fartøyer til transport av levende dyr eller fartøyer til transport av sjøcont
 Fôr kan byttes ut med kraftfôr og omvendt. Det skal imidlertid tas behørig hensyn til at visse kategorier dyr har behov for å tilvennes til fôrendringer på grunn av stoffskifte.
 
 ### KAPITTEL V
+
 VANNINGS- OG FÔRINGSHYPPIGHET, REISE- OG HVILETIDER
 
 ### 1. Husdyr av hestefamilien og husdyr av artene storfe, sau, geit og svin
@@ -1112,6 +1127,7 @@ VANNINGS- OG FÔRINGSHYPPIGHET, REISE- OG HVILETIDER
   *Tilleggsbestemmelser om kanin, gnagere og pelsdyr når reisen utelukkende foregår innenlands er fastsatt i [§ 15](forskrift/2012-02-08-139/§15).*
 
 ### KAPITTEL VI
+
 TILLEGGSBESTEMMELSER FOR LANGE REISER FOR ENHOVEDE HUSDYR OG HUSDYR AV ARTENE STORFE, SAU, GEIT OG SVIN
 
 ### 1. Alle lange reiser
@@ -1182,6 +1198,7 @@ TILLEGGSBESTEMMELSER FOR LANGE REISER FOR ENHOVEDE HUSDYR OG HUSDYR AV ARTENE ST
 - Kommisjonen skal senest 1. januar 2010 framlegge for Rådet en rapport om innføringen av navigasjonssystemet nevnt i punkt 4 nr. 2, ledsaget av eventuelle forslag som Kommisjonen anser for å være nødvendige, og som særlig tar sikte på å fastsette spesifikasjoner for det navigasjonssystemet som skal brukes for alle transportmidler. Rådet skal treffe sin beslutning om disse forslagene med kvalifisert flertall.
 
 ### KAPITTEL VII
+
 PLASSFORHOLD
 
 Plassforholdene for dyr skal minst være i samsvar med følgende tall:
@@ -1360,6 +1377,7 @@ Tallene kan variere avhengig ikke bare av fuglenes vekt og størrelse, men også
 *Tilleggsbestemmelser om plassforhold for tamrein når reisen utelukkende foregår innenlands er fastsatt i [§ 14](forskrift/2012-02-08-139/§14).*
 
 ### VEDLEGG II
+
 LOGGBOK
 (som nevnt i artikkel 5 nr. 4, artikkel 8 nr. 2, artikkel 14 bokstav a) og c) og artikkel 21 nr. 2)
 
@@ -1402,55 +1420,66 @@ LOGGBOK
 ### Tillegg
 
 ### AVSNITT 1
+
 PLANLEGGING
 
 For å lese avsnitt 1 se her: [(pdf)](static/SF/sf-20120208-0139-01-01.pdf)
 
 ### AVSNITT 2
+
 AVSENDERSTED
 
 For å lese avsnitt 2 se her: [(pdf)](static/SF/sf-20120208-0139-02-01.pdf)
 
 ### AVSNITT 3
+
 BESTEMMELSESSTED
 
 For å lese avsnitt 3 se her: [(pdf)](static/SF/sf-20120208-0139-03-01.pdf)
 
 ### AVSNITT 4
+
 ERKLÆRING FOR TRANSPORTØR
 
 For å lese avsnitt 4 se her: [(pdf)](static/SF/sf-20120208-0139-04-01.pdf)
 
 ### AVSNITT 5
+
 MODELL FOR RAPPORT OM AVVIK NR. ...
 
 For å lese avsnitt 5 se her: [(pdf)](static/SF/sf-20120208-0139-05-01.pdf)
 
 ### VEDLEGG III
+
 BLANKETTER
 (som nevnt i artikkel 10 nr. 2, 11 nr. 2, 17 nr. 2 og 18 nr. 2)
 
 ### KAPITTEL I
+
 Transportørens godkjenning i henhold til artikkel 10 nr. 1
 
 For å lese kapittel I se her: [(pdf)](static/SF/sf-20120208-0139-06-01.pdf)
 
 ### KAPITTEL II
+
 Transportørens godkjenning i henhold til artikkel 11 nr. 1
 
 For å lese kapittel II se her: [(pdf)](static/SF/sf-20120208-0139-07-01.pdf)
 
 ### KAPITTEL III
+
 Godkjenningsbevis for sjåfører og ledsagere i henhold til artikkel 17 nr. 2
 
 For å lese kapittel III se her: [(pdf)](static/SF/sf-20120208-0139-08-01.pdf)
 
 ### KAPITTEL IV
+
 Godkjenningsbevis for veigående transportmiddel som brukes til lange reiser, i henhold til artikkel 18 nr. 2
 
 For å lese kapittel IV se her: [(pdf)](static/SF/sf-20120208-0139-09-01.pdf)
 
 ### VEDLEGG IV
+
 UTDANNING
 
 1. Sjåfører og ledsagere i veigående kjøretøyer nevnt i artikkel 6 nr. 5 og artikkel 17 nr. 1, skal ha gjennomgått og fullført utdanningen fastsatt i nr. 2, og skal ha bestått eksamen som er godkjent av vedkommende myndighet, som skal sikre at eksaminatorene er uavhengige.
@@ -1464,6 +1493,7 @@ UTDANNING
    6. sikkerhetsmessige hensyn for personell som håndterer dyr.
 
 ### VEDLEGG V
+
 INTERNASJONALE AVTALER
 (som nevnt i artikkel 21 nr. 1 bokstav e)
 

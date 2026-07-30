@@ -15,7 +15,7 @@ xml_hash: "80dd8f3b7699a5bc2aa77122c4f9cacf424e2e327fddfc9c2819a47d80fa9c29"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -121,6 +121,7 @@ som endret ved
 - ►**M39** Forordning [(EU) 2026/175](eu/32026r0175)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1334/2008](eu/32008r1334)
+
 av 16. desember 2008
 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler og om endring av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601*), forordning [(EF) nr. 2232/96](eu/31996r2232), forordning [(EF) nr. 110/2008](eu/32008r0110) og direktiv [2000/13/EF](eu/32000l0013*)
 
@@ -211,6 +212,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål
@@ -280,6 +282,7 @@ For disse formål inneholder denne forordning bestemmelser om
 4\. Aromaer kan inneholde tilsetningsstoffer i næringsmidler som er tillatt i samsvar med forordning [(EF) nr. 1333/2008](eu/32008r1333), og/eller andre næringsmiddelingredienser som er innarbeidet for tekniske formål.
 
 ### Kapittel II
+
 Vilkår for bruk av aromaer, næringsmiddelingredienser med aromagivende egenskaper og kildematerialer
 
 ### Artikkel 4. Alminnelige vilkår for bruk av aromaer eller næringsmiddelingredienser med aromagivende egenskaper
@@ -319,6 +322,7 @@ Ingen skal bringe i omsetning en aroma eller et næringsmiddel som inneholder en
 2\. Uten hensyn til nr. 1 skal Myndigheten gjennomføre en risikovurdering av en aroma eller en næringsmiddelingrediens med aromagivende egenskaper omhandlet i nr. 1, dersom Kommisjonen, en medlemsstat eller Myndigheten er i tvil om tryggheten av aromaen eller næringsmiddelingrediensen med aromagivende egenskaper. Artikkel 4, 5 og 6 i forordning [(EF) nr. 1331/2008](eu/32008r1331) får deretter tilsvarende anvendelse. Om nødvendig skal Kommisjonen vedta tiltak, etter Myndighetens uttalelse, som er utformet med sikte på å endre forordningens ikke-grunnleggende bestemmelser, blant annet ved å supplere den, etter framgangsmåten med forskriftskomité med kontroll som omhandles i artikkel 21 nr. 3. Slike tiltak skal fastsettes i vedlegg III, IV og/eller V når det er hensiktsmessig. Når det foreligger grunner som nødvendiggjør hastesaksbehandling, kan Kommisjonen benytte seg av framgangsmåten for behandling av hastesaker nevnt i artikkel 21 nr. 4.
 
 ### Kapittel III
+
 Fellesskapsliste over aromaer og kildematerialer som er godkjent for bruk i eller på næringsmidler
 
 ### Artikkel 9. Aromaer og kildematerialer som det kreves vurdering og godkjenning for
@@ -362,6 +366,7 @@ Om nødvendig, i samsvar med framgangsmåten med forskriftskomité omhandlet i a
 3. om et bestemt produkt tilhører en næringsmiddelkategori eller er et næringsmiddel omhandlet i del B vedlegg I eller vedlegg III.
 
 ### Kapittel IV
+
 Merking
 
 ### Artikkel 14. Merking av aromaer som ikke er beregnet på salg til sluttforbrukeren
@@ -421,6 +426,7 @@ Beskrivelsen skal lyde «naturlig aroma fra «næringsmiddel/næringsmidler elle
 Artikkel 14–17 skal ikke berøre mer detaljerte eller mer omfattende lover og forskrifter om vekt og mål eller om presentasjon, klassifisering, emballering og merking av farlige stoffer og stoffblandinger eller om transport av slike stoffer og blandinger.
 
 ### Kapittel V
+
 Bestemmelser om framgangsmåte og gjennomføring
 
 ### Artikkel 19. Rapportering fra driftsansvarlige for næringsmiddelforetak
@@ -464,6 +470,7 @@ Når det foreligger grunner som nødvendiggjør hastesaksbehandling, kan Kommisj
 Rettsgrunnlaget for finansieringen av tiltak på grunnlag av denne forordning er artikkel 66 nr. 1 bokstav c) i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 ### Kapittel VI
+
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 24. Oppheving
@@ -596,6 +603,7 @@ Utferdiget i Strasbourg, 16. desember 2008.
 | *President* | *Formann* |
 
 ### ►**M1** Vedlegg I
+
 Fellesskapsliste over aromaer og kildematerialer som er godkjent for bruk i og på næringsmidler
 
 > Vedlegg I til konsolidert forordning [(EF) nr. 1334/2008](eu/32008r1334) består av forordning [(EU) nr. 872/2012](eu/32012r0872) som følger under.
@@ -605,6 +613,7 @@ Fellesskapsliste over aromaer og kildematerialer som er godkjent for bruk i og p
 > **Dette er vedlegg I til konsolidert forordning [(EF) nr. 1334/2008](eu/32008r1334).** Endret ved [forskrifter 2 nov 2015 nr. 1262](forskrift/2015-11-02-1262), [6 juni 2016 nr. 579](forskrift/2016-06-06-579), [7 juni 2016 nr. 586](forskrift/2016-06-07-586), [26 sep 2016 nr. 1146](forskrift/2016-09-26-1146), [7 juli 2017 nr. 1187](forskrift/2017-07-07-1187), [24 sep 2018 nr. 1405](forskrift/2018-09-24-1405), [11 feb 2019 nr. 92](forskrift/2019-02-11-92), [1 okt 2019 nr. 1290](forskrift/2019-10-01-1290), [20 mars 2023 nr. 390](forskrift/2023-03-20-390), [25 sep 2023 nr. 1514](forskrift/2023-09-25-1514), [16 juni 2025 nr. 1043](forskrift/2025-06-16-1043), [22 sep 2025 nr. 1897](forskrift/2025-09-22-1897), [8 des 2025 nr. 2453](forskrift/2025-12-08-2453), [4 mai 2026 nr. 741](forskrift/2026-05-04-741).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 872/2012](eu/32012r0872)
+
 av 1. oktober 2012
 om vedtakelse av listen over aromastoffer fastsatt i europaparlaments- og rådsforordning [(EF) nr. 2232/96](eu/31996r2232), om innføring av den i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) og om opphevelse av kommisjonsforordning [(EF) nr. 1565/2000](eu/32000r1565) og kommisjonsvedtak [1999/217/EF](eu/31999d0217)
 
@@ -749,9 +758,11 @@ Utferdiget i Brussel, 1. oktober 2012.
 |  | *President* |
 
 ### Vedlegg I
+
 Unionsliste over aromaer og kildematerialer
 
 ### Del A
+
 Unionsliste over aromastoffer
 
 ###### Avsnitt 1
@@ -3526,15 +3537,19 @@ Merknader
 | ►**M17** 17.038 | gamma-glutamyl-valyl-glysin | 38837-70-6 | 2123 |  | Mindre enn 0,7 % 5-okso-L-prolyl-L-valyl-glysin (PCA-Val-Gly) og L-alfa-glutamyl-L-valyl-glysin, mindre enn 2,0 % L-gamma-glutamyl-L-valyl-L-valyl-glysin, toluen ikke påviselig (påvisningsgrense: 10 mg/kg) | Begrensninger for bruk som aromastoff:<br>I kategori 1 – ikke mer enn 50 mg/kg<br>I kategori 2 og 5 – ikke mer enn 60 mg/kg<br>I kategori 6.3 frokostkorn – ikke mer enn 160 mg/kg<br>I kategori 7,2 – ikke mer enn 60 mg/kg<br>I kategori 8 – ikke mer enn 45 mg/kg<br>I kategori 12 – ikke mer enn 160 mg/kg<br>I kategori 14,1 – ikke mer enn 15 mg/kg<br>I kategori 15 – ikke mer enn 160 mg/kg |  | EFSA ◄**M17** |
 
 ### Del B
+
 Aromapreparater
 
 ### Del C
+
 Reaksjonsaromaer
 
 ### Del D
+
 Aromaforløpere
 
 ### Del E
+
 Andre aromaer
 
 | *FL-nr.* | *Navn* | *CAS-nr.* | *JECFA-nr.* | *CoE-nr.* | *Den aktuelle aromaens renhet* | *Restriksjoner for bruk* | *Fotnote* | *Henvisning* |
@@ -3544,11 +3559,13 @@ Andre aromaer
 > Tilføyd ved [forskrift 11 feb 2019 nr. 92](forskrift/2019-02-11-92).
 
 ### Del F
+
 Kildematerialer
 
 ◄**M1**
 
 ### Vedlegg II
+
 Liste over tradisjonelle prosesser for bearbeiding av næringsmidler
 
 |  |  |
@@ -3568,6 +3585,7 @@ Liste over tradisjonelle prosesser for bearbeiding av næringsmidler
 | Bløtlegging |  |
 
 ### Vedlegg III
+
 Forekomst av visse stoffer
 
 ### Del A: Stoffer som ikke som sådan må tilsettes næringsmidler
@@ -3654,6 +3672,7 @@ Tujon (alfa og beta)
 2 Som definert i vedlegg II nr. 32 i forordning [(EF) nr. 110/2008](eu/32008r0110).
 
 ### Vedlegg IV
+
 Liste over kildematerialer som det gjelder bruksbegrensninger for ved framstilling av aromaer og næringsmiddelingredienser med aromagivende egenskaper
 
 ### Del A: Kildematerialer som ikke skal brukes til framstilling av aromaer og næringsmiddelingredienser med aromagivende egenskaper
@@ -3674,6 +3693,7 @@ Liste over kildematerialer som det gjelder bruksbegrensninger for ved framstilli
 | Teucrium chamaedrys L. | Prydfirtann |  |
 
 ### Vedlegg V
+
 Vilkår for framstilling av reaksjonsaromaer og grenseverdier for visse stoffer i reaksjonsaromaer
 
 ### Del A: Vilkår for framstilling
@@ -3714,6 +3734,7 @@ som endret ved
 - ►**M1** Forordning [(EF) nr. 1334/2008](eu/32008r1334)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 2232/96](eu/31996r2232)
+
 av 28. oktober 1996
 om fastsetjing av ein framgangsmåte for Fellesskapet for aromastoff som vert nytta eller skal nyttast i eller på næringsmiddel
 
@@ -3859,6 +3880,7 @@ Utferda i Luxembourg, 28. oktober 1996.
 | *President* | *Formann* |
 
 ### Vedlegg
+
 Allmenne kriterium for bruken av aromastoff i medhald av artikkel 2 nr. 1
 
 1\. Det kan gjevast løyve til å nytte aromastoff på det vilkåret at
@@ -3877,6 +3899,7 @@ Allmenne kriterium for bruken av aromastoff i medhald av artikkel 2 nr. 1
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1565/2000](eu/32000r1565) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1565/2000](eu/32000r1565)
+
 av 18. juli 2000
 om fastsettelse av tiltak som er nødvendige for vedtakelse av et vurderingsprogram i henhold til europaparlaments- og rådsforordning [(EF) nr. 2232/96](eu/31996r2232)
 
@@ -4018,6 +4041,7 @@ Utferdiget i Brussel, 18. juli 2000.
 |  | *Medlem av Kommisjonen* |
 
 ### Vedlegg I
+
 Kjemiske grupper av aromastoffer [^1]
 
 1. Rettkjedede primære alifatiske alkoholer/aldehyder/syrer, acetaler og estere, der esterne inneholder mettede alkoholer og acetalene inneholder mettede aldehyder. Ingen aromatisk eller heteroaromatisk bestanddel i esterne eller acetalene.
@@ -4058,6 +4082,7 @@ Kjemiske grupper av aromastoffer [^1]
 1 Disse gruppene av kjemisk beslektede stoffer forventes å ha visse fellestrekk med hensyn til virkninger på stoffskiftet og biologisk atferd.
 
 ### Vedlegg II
+
 Kjemiske spesifikasjoner som skal framlegges for aromastoffer
 
 - kjemisk betegnelse som er brukt i registeret i vedtak [1999/217/EF](eu/31999d0217),
@@ -4081,6 +4106,7 @@ Kjemiske spesifikasjoner som skal framlegges for aromastoffer
 - andre relevante opplysninger.
 
 ### Vedlegg III
+
 Næringsmiddelgrupper
 
 1\.
@@ -4164,6 +4190,7 @@ Spiseferdig snacks.
 Sammensatte næringsmidler (f.eks. gryteretter, kjøttpaier, produkter av kjøttdeig), næringsmidler som ikke kan plasseres i kategori 1–15.
 
 ### Vedlegg IV
+
 Format for oversendelse av opplysninger om aromastoffer
 
 1. Opplysningene nevnt i artikkel 3 nr. 1 første til fjerde strekpunkt samt sammendrag av opplysninger som det anmodes om i henhold til femte strekpunkt, må framlegges i et standardisert elektronisk format kalt IF-FL (Input Form for the FLAVIS database). Sammendraget av opplysningene nevnt i femte strekpunkt bør inneholde de viktigste resultatene av den nevnte undersøkelsen, slik at det kan trekkes slutninger om stoffenes virkninger på stoffskiftet og giftvirkninger. IF-FL kan bestilles fra samordningsinstituttet for SCOOP-oppgave 1.1 (se adressen nedenfor) eller lastes ned fra følgende nettsted:
@@ -4182,6 +4209,7 @@ Format for oversendelse av opplysninger om aromastoffer
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 622/2002](eu/32002r0622) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 622/2002](eu/32002r0622)
+
 av 11. april 2002
 om fastsetjing av fristar for framlegging av opplysningar om kjemisk definerte aromastoff som vert nytta i eller på næringsmiddel
 
@@ -4255,6 +4283,7 @@ som endret ved:
 - ►**M1** Europaparlaments- og rådsforordning (EU) 2019/1381 av 20. juni 2019
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 2065/2003](eu/32003r2065)
+
 av 10. november 2003
 om røykaromaer som brukes eller er beregnet på bruk i eller på næringsmidler
 
@@ -4573,6 +4602,7 @@ For Europaparlamentet For Rådet
 | *President* | *Formann* |
 
 ### Vedlegg I
+
 Vilkår for framstilling av råvarer
 
 1\. Røyk framstilles av tre som nevnt i artikkel 5 nr. 1. Urter, krydder, einerbærkvister samt kvister, nåler og kongler av Picea kan tilsettes dersom de er uten rester fra tilsiktet eller utilsiktet kjemisk behandling, eller dersom de oppfyller kravene i mer spesifikke deler av Fellesskapets regelverk. Kildematerialet utsettes for kontrollert forbrenning, tørrdestillering eller behandling med overopphetet damp i et miljø med kontrollert oksygenkonsentrasjon med en høyeste temperatur på 600 °C.
@@ -4590,6 +4620,7 @@ Vilkår for framstilling av råvarer
 Dersom det ikke er skjedd en faseseparasjon under eller etter kondenseringen, skal røykkondensatet anses som en vannuløselig tjærefase med høy tetthet og behandles med egnede fysiske metoder for å oppnå primærtjærefraksjoner som ligger innenfor de angitte grensene.
 
 ### Vedlegg II
+
 Nødvendige opplysninger i forbindelse med den vitenskapelige vurderingen av råvarer
 
 Opplysningene bør samles i samsvar med veiledningen nevnt i artikkel 7 nr. 4 og bør framlegges som angitt i denne. Med forbehold for artikkel 8 nr. 2 bør følgende opplysninger inngå i søknaden om godkjenning som nevnt i artikkel 7:
@@ -4616,6 +4647,7 @@ som endret ved
 - ►**M3** Forordning [(EU) 2024/2067](eu/32024r2067) (NB! Se overgangsbestemmelsene i artikkel 2 i denne forordningen)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 1321/2013](eu/32013r1321)
+
 av 10. desember 2013
 om opprettelse av EU-listen over godkjente røykaromaråvarer for bruk uten videre behandling i eller på næringsmidler og/eller til framstilling av avledede røykaromaer
 
@@ -4714,6 +4746,7 @@ Utferdiget i Brussel, 10. desember 2013.
 |  | *President* |
 
 ### Vedlegg
+
 EU-liste over godkjente røykaromaråvarer for bruk uten videre behandling i eller på næringsmidler og/eller til framstilling av avledede røykaromaer
 
 *Merknad 1:* Grenseverdier henviser til verdier i eller på næringsmiddelet, slik det er brakt i omsetning. Som unntak fra dette prinsippet skal grenseverdiene for tørkede og/eller konsentrerte næringsmidler som må rekonstitueres, gjelde næringsmiddelet etter at det er rekonstituert etter anvisningene på etiketten og med hensyn til minste fortynningsfaktor. Dersom råvarer brukes til framstilling av avledede røykaromaer, skal grenseverdiene justeres tilsvarende.
@@ -4740,6 +4773,7 @@ Dette får ikke anvendelse på morsmelkerstatninger, tilskuddsblandinger, bearbe
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 627/2006](eu/32006r0627) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 627/2006](eu/32006r0627)
+
 av 21. april 2006
 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 2065/2003](eu/32003r2065) med hensyn til kvalitetskriterier for validerte analysemetoder for prøvetaking, identifisering og karakterisering av råvarer brukt til røyking
 
@@ -4814,6 +4848,7 @@ Utferdiget i Brussel, 21. april 2006.
 |  | *President* |
 
 ### Vedlegg
+
 Kvalitetskriterier for validerte analysemetoder for prøvetaking, identifisering og karakterisering av råvarer brukt til røyking
 
 ### 1. Prøvetaking

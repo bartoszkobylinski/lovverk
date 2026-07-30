@@ -15,7 +15,7 @@ xml_hash: "a9ed5ba7c9ef95002f8921e007114fd88a7898f0fc5226fc96efcfb463783f12"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,6 +110,7 @@ som endret ved
 - ►**M4** Forordning [(EU) nr. 1169/2011](eu/32011r1169)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1924/2006](eu/32006r1924*)
+
 av 20. desember 2006
 om ernærings- og helsepåstander om næringsmidler
 
@@ -188,6 +189,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
@@ -247,6 +249,7 @@ Denne forordning får også anvendelse på næringsmidler som er beregnet på le
 1 EFT L 31 av 1.2.2002, s. 1. Forordningen sist endret ved kommisjonsforordning [(EF) nr. 575/2006](eu/32006r0575) (EUT L 100 av 8.4.2006, s. 3).
 
 ### Kapittel II
+
 Allmenne prinsipper
 
 ### Artikkel 3. Allmenne prinsipper for alle påstander
@@ -338,6 +341,7 @@ Mengden av det eller de stoffene som ernærings- eller helsepåstanden gjelder, 
 For kosttilskudd skal opplysningene om næringsinnhold gis i samsvar med artikkel 8 i direktiv [2002/46/EF](eu/32002l0046).
 
 ### Kapittel III
+
 Ernæringspåstander
 
 ### Artikkel 8. Særlige vilkår
@@ -353,6 +357,7 @@ Ernæringspåstander
 2\. Sammenlignende ernæringspåstander skal sammenligne sammensetningen av det aktuelle næringsmiddelet med et utvalg næringsmidler i samme gruppe, som ikke har en sammensetning som gjør at de kan forsynes med en påstand, herunder næringsmidler av andre varemerker.
 
 ### Kapittel IV
+
 Helsepåstander
 
 ### Artikkel 10. Særlige vilkår
@@ -509,6 +514,7 @@ Søkeren/brukeren eller enhver annen person kan framsette kommentarer til Kommis
 Kommisjonen skal snarest mulig behandle myndighetens uttalelse og eventuelle innsendte kommentarer. Når det er aktuelt, skal godkjenningen endres, oppheves midlertidig eller tilbakekalles etter framgangsmåtene fastsatt i artikkel 17 og 18.
 
 ### Kapittel V
+
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 20. Fellesskapsregister
@@ -632,6 +638,7 @@ Utferdiget i Brussel, 20. desember 2006.
 | *President* | *Formann* |
 
 ### Vedlegg
+
 Ernæringspåstander og vilkårene som gjelder for dem
 
 *Lavt energiinnhold*
@@ -784,6 +791,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 353/
 ► **M1** Forordning [(EF) nr. 1169/2009](eu/32009r1169)
 
 ### KOMMISJONSFORORDNING [(EF) nr. 353/2008](eu/32008r0353)
+
 av 18. april 2008
 om fastsettelse av gjennomføringsregler for søknader om godkjenning av helsepåstander som fastsatt i artikkel 15 i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*)
 
@@ -893,6 +901,7 @@ Utferdiget i Brussel, 18. april 2008.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG
+
 Tekniske bestemmelser om utarbeiding og framlegging av søknader om godkjenning av helsepåstander
 
 *INNLEDNING*
@@ -1066,6 +1075,7 @@ Annet
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 983/2009](eu/32009r0983). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 376/2010](eu/32010r0376) og forordning [(EU) nr. 686/2014](eu/32014r0686). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 54zzzzzb er innarbeidet nedenfor.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 983/2009](eu/32009r0983)
+
 av 21. oktober 2009
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -1214,6 +1224,7 @@ Utferdiget i Brussel, 21. oktober 2009.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG I
+
 TILLATTE HELSEPÅSTANDER
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
@@ -1227,6 +1238,7 @@ TILLATTE HELSEPÅSTANDER
 | Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Vitamin D | Vitamin D er nødvendig for at barns bein skal vokse og utvikles normalt | Påstanden kan brukes bare på næringsmidler som minst er en kilde til vitamin D i henhold til det som er angitt i påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL], som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-323 |
 
 ### VEDLEGG II
+
 AVSLÅTTE HELSEPÅSTANDER
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -1253,6 +1265,7 @@ AVSLÅTTE HELSEPÅSTANDER
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 984/2009](eu/32009r0984) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzc.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 984/2009](eu/32009r0984)
+
 av 21. oktober 2009
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -1309,6 +1322,7 @@ Utferdiget i Brussel, 21. oktober 2009.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG
+
 AVSLÅTTE HELSEPÅSTANDER
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
@@ -1323,6 +1337,7 @@ AVSLÅTTE HELSEPÅSTANDER
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1024/2009](eu/32009r1024) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzd.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1024/2009](eu/32009r1024)
+
 av 29. oktober 2009
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til en redusert sykdomsrisiko og barns utvikling og helse
 
@@ -1443,6 +1458,7 @@ Utferdiget i Brussel, 29. oktober 2009.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG I
+
 TILLATTE HELSEPÅSTANDER
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
@@ -1451,6 +1467,7 @@ TILLATTE HELSEPÅSTANDER
 | Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Danone SA, C/Buenos Aires, 21, 08029 Barcelona, Spania | Fosfor | Fosfor er nødvendig for at barnets benstamme skal vokse og utvikles normalt | Påstanden kan bare brukes på næringsmidler som minst er en kilde til fosfor i henhold til det som er angitt i påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL], som er oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-217 |
 
 ### VEDLEGG II
+
 AVSLÅTTE HELSEPÅSTANDER
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -1477,6 +1494,7 @@ AVSLÅTTE HELSEPÅSTANDER
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1025/2009](eu/32009r1025) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzze.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1025/2009](eu/32009r1025)
+
 av 29. oktober 2009
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -1531,6 +1549,7 @@ Utferdiget i Brussel, 29. oktober 2009.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG
+
 AVSLÅTTE HELSEPÅSTANDER
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
@@ -1545,6 +1564,7 @@ AVSLÅTTE HELSEPÅSTANDER
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1167/2009](eu/32009r1167) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzf.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1167/2009](eu/32009r1167)
+
 av 30. november 2009
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -1609,6 +1629,7 @@ Utferdiget i Brussel, 30. november 2009.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG
+
 AVSLÅTTE HELSEPÅSTANDER
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
@@ -1625,6 +1646,7 @@ AVSLÅTTE HELSEPÅSTANDER
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1168/2009](eu/32009r1168) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzg.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1168/2009](eu/32009r1168)
+
 av 30. november 2009
 om avslag på godkjenning av en helsepåstand om næringsmidler som ikke viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -1675,6 +1697,7 @@ Utferdiget i Brussel, 30. november 2009.
 |  | Medlem av Kommisjonen |
 
 ### VEDLEGG
+
 AVSLÅTT HELSEPÅSTAND
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
@@ -1688,6 +1711,7 @@ AVSLÅTT HELSEPÅSTAND
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 375/2010](eu/32010r0375) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzh.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 375/2010](eu/32010r0375)
+
 av 3. mai 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -1738,6 +1762,7 @@ Utferda i Brussel, 3. mai 2010.
 |  | José Manuel BARROSO |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -1751,6 +1776,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 382/2010](eu/32010r0382) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzi.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 382/2010](eu/32010r0382)
+
 av 5. mai 2010
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -1813,6 +1839,7 @@ Utferda i Brussel, 5. mai 2010.
 |  | President |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -1829,6 +1856,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 383/2010](eu/32010r0383) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzj.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 383/2010](eu/32010r0383)
+
 av 5. mai 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -1878,6 +1906,7 @@ Utferda i Brussel, 5. mai 2010.
 |  | President |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -1891,6 +1920,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 384/2010](eu/32010r0384). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 686/2014](eu/32014r0686). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 54zzzzzk er innarbeidet nedenfor.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 384/2010](eu/32010r0384)
+
 av 5. mai 2010
 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -1963,6 +1993,7 @@ Utferda i Brussel, 5. mai 2010.
 |  | José Manuel BARROSO |
 
 ### VEDLEGG I
+
 Helsepåstandar som er tillatne
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring* | *Referanse-nummeret til EFSA-fråsegna* |
@@ -1970,6 +2001,7 @@ Helsepåstandar som er tillatne
 | Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Danone France, 150 Bd Victor Hugo, 93589 Saint-Ouen Cedex, Frankrike | Fytosterolar/fytostanolesterar | Det er påvist at fytosterolar/fytostanolesterar senkar/reduserer blodkolesterolet. Høgt blodkolesterol er ein risikofaktor i utviklinga av koronar hjartesjukdom. | ►**M1** Forbrukarane vert informerte om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 1,5–3 g fytosterolar/fytostanolar. Det kan visast til omfanget av verknaden berre for næringsmiddel innanfor følgjande grupper: gule smørbare feittstoff, meieriprodukt, majones og salatdressingar. Når det vert vist til omfanget av verknaden, skal forbrukaren opplysast om skalaen «7 til 10 %» for næringsmiddel som gjev eit dagleg inntak på 1,5–2,4 g fytosterolar/fytostanolar, og skalaen «10 til 12,5 %» for næringsmiddel som gjev eit dagleg inntak på 2,5–3 g fytosterolar/fytostanolar, og at det tek «2 til 3 veker» før verknaden vert oppnådd. ◄**M1** |  | ►**M1** Q-2008-779 Q-2009-00530 og Q-2009-00718 Q-2011-01241 ◄**M1** |
 
 ### VEDLEGG II
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -1984,6 +2016,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 957/2010](eu/32010r0957) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr 54zzzzy.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 957/2010](eu/32010r0957)
+
 av 22. oktober 2010
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -2056,6 +2089,7 @@ Utferdiget i Brussel, 22. oktober 2010.
 |  | *President* |
 
 ### VEDLEGG I
+
 Tillatte helsepåstander
 
 | Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Søker – adresse | Næringsstoff, stoff, næringsmiddel eller næringsmiddel-kategori | Påstand | Vilkår for bruk av påstanden | Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel | EFSA-uttalelsens referanse-nummer |
@@ -2064,6 +2098,7 @@ Tillatte helsepåstander
 | Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42 rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Jern | Jern bidrar til en normal kognitiv utvikling hos barn | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-325 |
 
 ### VEDLEGG II
+
 Avslåtte helsepåstander
 
 | Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelsens referansenummer |
@@ -2079,6 +2114,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 958/2010](eu/32010r0958) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr 54zzzzz.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 958/2010](eu/32010r0958)
+
 av 22. oktober 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -2127,6 +2163,7 @@ Utferda i Brussel, 22. oktober 2010.
 |  | José Manuel BARROSO |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -2140,6 +2177,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1161/2010](eu/32010r1161) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr 54zzzzu.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1161/2010](eu/32010r1161)
+
 av 9. desember 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -2187,6 +2225,7 @@ Utferda i Brussel, 9. desember 2010.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -2200,6 +2239,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1162/2010](eu/32010r1162) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr 54zzzzv.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1162/2010](eu/32010r1162)
+
 av 9. desember 2010
 om avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -2253,6 +2293,7 @@ Utferda i Brussel, 9. desember 2010.
 |  | *President* |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -2267,6 +2308,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 432/2011](eu/32011r0432) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 57.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 432/2011](eu/32011r0432)
+
 av 4. mai 2011
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -2343,6 +2385,7 @@ Utferda i Brussel, 4. mai 2011.
 |  | *President* |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -2362,6 +2405,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 440/2011](eu/32011r0440) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 58.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 440/2011](eu/32011r0440)
+
 av 6. mai 2011
 om godkjenning og ikke-godkjenning av visse helsepåstander om næringsmidler med hensyn til barns utvikling og helse
 
@@ -2453,6 +2497,7 @@ Utferdiget i Brussel, 6. mai 2011.
 |  | José Manuel BARROSO |
 
 ### VEDLEGG I
+
 Tillatte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Søkers adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Påstandens bruksvilkår* | *Bruksvilkår og/eller bruksrestriksjoner for næringsmiddelet og/eller tilleggsangivelse eller tilleggsadvarsel* | *EFSA-uttalelse* |
@@ -2462,6 +2507,7 @@ Tillatte helsepåstander
 | Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Merck Selbstmedikation GmbH, Roesslerstrasse 96, 64293 Darmstadt, Tyskland | Dokosaheksaensyre (DHA) | Mors inntak av dokosaheksaensyre (DHA) bidrar til normal utvikling av hjernen hos fostre og diende spedbarn. | Gravide kvinner og kvinner i laktasjon skal opplyses om at nyttevirkningen oppnås med et daglig inntak av DHA på 200 mg i tillegg til det anbefalte daglige inntaket av omega-3 fettsyrer for voksne, dvs. 250 mg DHA og EPA. Påstanden kan bare brukes om næringsmidler som gir et daglig inntak på minst 200 mg DHA. |  | Q-2008-773 |
 
 ### VEDLEGG II
+
 Avviste helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -2477,6 +2523,7 @@ Avviste helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 665/2011](eu/32011r0665) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 59.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 665/2011](eu/32011r0665)
+
 av 11. juli 2011
 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko
 
@@ -2540,6 +2587,7 @@ Utferda i Brussel, 11. juli 2011.
 |  | *President* |
 
 ### VEDLEGG I
+
 HELSEPÅSTANDAR SOM ER TILLATNE
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring* | *Referansenummeret til EFSA-fråsegna* |
@@ -2548,6 +2596,7 @@ HELSEPÅSTANDAR SOM ER TILLATNE
 | Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Wrigley GmbH, Scientific and Regulatory Affairs EMEAI, Biberger Str. 18, 82008 Unterhaching, TYSKLAND | Sukkerfri tyggegummi | Sukkerfri tyggegummi medverkar til å nøytralisere syrene i plakk. Syrer i plakk er ein risikofaktor i utviklinga av karies. | Forbrukaren skal få opplysningar om at den gunstige verknaden vert oppnådd ved tygging av 2–3 g sukkerfri tyggegummi i 20 minutt minst tre gonger dagleg etter måltid. |  | Q-2010-00120 |
 
 ### VEDLEGG II
+
 AVVIST HELSEPÅSTAND
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -2561,6 +2610,7 @@ AVVIST HELSEPÅSTAND
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 666/2011](eu/32011r0666) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 60.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 666/2011](eu/32011r0666)
+
 av 11. juli 2011
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -2616,6 +2666,7 @@ Utferda i Brussel, 11. juli 2011.
 |  | *President* |
 
 ### VEDLEGG
+
 AVVISTE HELSEPÅSTANDAR
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -2776,6 +2827,7 @@ Utferda i Brussel, 13. desember 2010.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1160/2011](eu/32011r1160) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 65.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1160/2011](eu/32011r1160)
+
 av 14. november 2011
 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko
 
@@ -2838,6 +2890,7 @@ Utferda i Brussel, 14. november 2011.
 |  | *President* |
 
 ### Vedlegg I
+
 Helsepåstand som er tillaten
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, nærings-<br>middel eller nærings-<br>middelgruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for<br>bruk av nærings-<br>middelet og/eller ei tilleggs-<br>fråsegn<br>eller -åtvaring* | *Referanse-<br>nummeret til<br>EFSA-fråsegna* |
@@ -2845,6 +2898,7 @@ Helsepåstand som er tillaten
 | Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdoms-<br>risiko | CreaNutrition AG, Business Park, 6301 Zug, Sveits | Havrebeta-<br>glukan | Havrebeta-<br>glukan har vist seg å senke/redusere blodkolesterolet. Høgt blodkolesterol er ein riskofaktor i utviklinga av koronar hjartesjukdom. | Forbrukaren skal få opplysningar om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 3 g havrebetaglukan. Påstanden kan nyttast på nærings-<br>middel som inneheld minst 1 g havrebetaglukan per oppgjevne porsjon. |  | Q-2008-681 |
 
 ### Vedlegg II
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -2859,6 +2913,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1170/2011](eu/32011r1170) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 66.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1170/2011](eu/32011r1170)
+
 av 16. november 2011
 om avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko
 
@@ -2910,6 +2965,7 @@ Utferda i Brussel, 16. november 2011.
 |  | *President* |
 
 ### Vedlegg
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -2924,6 +2980,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1171/2011](eu/32011r1171) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 67.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1171/2011](eu/32011r1171)
+
 av 16. november 2011
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -2979,6 +3036,7 @@ Utferda i Brussel, 16. november 2011.
 |  | *President* |
 
 ### Vedlegg
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -2993,6 +3051,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 378/2012](eu/32012r0378) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 71.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 378/2012](eu/32012r0378)
+
 av 3. mai 2012
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -3072,6 +3131,7 @@ Utferdiget i Brussel, 3. mai 2012.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1048/2012](eu/32012r1048) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 72.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1048/2012](eu/32012r1048)
+
 av 8. november 2012
 om godkjenning av ein helsepåstand om næringsmiddel som viser til redusert sjukdomsrisiko
 
@@ -3127,6 +3187,7 @@ Utferda i Brussel, 8. november 2012.
 |  | *President* |
 
 ### Vedlegg
+
 Helsepåstand som er tillaten
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddel-<br>gruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring* | *Referanse-<br>nummeret til EFSA-fråsegna* |
@@ -3141,6 +3202,7 @@ Helsepåstand som er tillaten
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 379/2012](eu/32012r0379) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzzzzo.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 379/2012](eu/32012r0379)
+
 av 3. mai 2012
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -3194,6 +3256,7 @@ Utferda i Brussel, 3. mai 2012.
 |  | *President* |
 
 ### Vedlegg
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -3223,6 +3286,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 432/
 - ►**M16** Forordning [(EU) 2025/1560](eu/32025r1560)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 432/2012](eu/32012r0432)
+
 av 16. mai 2012
 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse
 
@@ -3290,6 +3354,7 @@ Utferdiget i Brussel, 16. mai 2012.
 |  | *President* |
 
 ### Vedlegg
+
 Liste over tillatte helsepåstander
 
 | *Nærings-<br>stoff, stoff, nærings-<br>middel eller nærings-<br>middel-<br>kategori* | *Påstand* | *Vilkår for bruk av<br>påstanden* | *Vilkår og/eller begrens-<br>ninger for bruk av nærings-<br>middelet og/eller en tilleggs-<br>erklæring eller -advarsel* | *EFSA Journal-<br>nummer* | *Registrerings-<br>nummer på den konsoliderte listen innsendt til EFSA for vurdering* |
@@ -3612,6 +3677,7 @@ Fra 21. juli 2016 til 14. september 2019 skal den mengden kalium som næringsmid
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 851/2013](eu/32013r0851) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 851/2013](eu/32013r0851)
+
 av 3. september 2013
 om godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
@@ -3718,6 +3784,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1017
 > Tilføyd ved [forskrift 19 mai 2014 nr. 653](forskrift/2014-05-19-653).
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1017/2013](eu/32013r1017)
+
 av 23. oktober 2013
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -3824,6 +3891,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1066
 > Tilføyd ved [forskrift 19 mai 2014 nr. 653](forskrift/2014-05-19-653).
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1066/2013](eu/32013r1066)
+
 av 30. oktober 2013
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -3975,6 +4043,7 @@ Utferdiget i Brussel, 30. oktober 2013.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 907/2013](eu/32013r0907) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 83.
 
 ### Kommisjonsforordning [(EU) nr. 907/2013](eu/32013r0907)
+
 av 20. september 2013
 om fastsettelse av regler for søknader om bruk av generiske beskrivelser (betegnelser)
 
@@ -4019,6 +4088,7 @@ Utferdiget i Brussel, 20. september 2013.
 ### Vedlegg
 
 ### Del A
+
 Inngivelse av søknaden
 
 1. Det kan søkes om bruk av en generisk beskrivelse i én eller flere medlemsstater. Søknaden skal inngis til vedkommende nasjonale myndighet i én medlemsstat (heretter kalt «mottakermedlemsstaten»). Driftsansvarlige kan velge i hvilken medlemsstat søknaden skal inngis, blant medlemsstatene der den generiske beskrivelsen brukes.
@@ -4036,6 +4106,7 @@ Inngivelse av søknaden
 8. Etter å ha mottatt en gyldig søknad fra en medlemsstat og uttalelsene nevnt i nr. 7 i denne del av vedlegget, kan Kommisjonen innen rimelig tid innlede framgangsmåten for godkjenning av den generiske beskrivelsen i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Del B
+
 Søknadens innhold
 
 1.*Obligatoriske opplysninger*
@@ -4095,6 +4166,7 @@ Dersom mottakermedlemsstatene og den eller de berørte medlemsstatene anser det 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 40/2014](eu/32014r0040) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 85.
 
 ### Kommisjonsforordning [(EU) nr. 40/2014](eu/32014r0040)
+
 av 17. januar 2014
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
@@ -4163,6 +4235,7 @@ I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgend
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 155/2014](eu/32014r0155) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 81.
 
 ### Kommisjonsforordning [(EU) nr. 155/2014](eu/32014r0155)
+
 av 19. februar 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -4269,6 +4342,7 @@ Utferdiget i Brussel, 19. februar 2014.
 |  | *President* |
 
 ### Vedlegg
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4293,6 +4367,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 175/2014](eu/32014r0175) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 82.
 
 ### Kommisjonsforordning [(EU) nr. 175/2014](eu/32014r0175)
+
 av 25. februar 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -4365,6 +4440,7 @@ Utferdiget i Brussel, 25. februar 2014.
 |  | *President* |
 
 ### Vedlegg
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4383,6 +4459,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1135/2014](eu/32014r1135) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 90.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1135/2014](eu/32014r1135)
+
 av 24. oktober 2014
 om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -4433,6 +4510,7 @@ Utferdiget i Brussel, 24. oktober 2014.
 |  | *President* |
 
 ### Vedlegg
+
 Tillatt helsepåstand
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
@@ -4446,6 +4524,7 @@ Tillatt helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1154/2014](eu/32014r1154) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 91.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1154/2014](eu/32014r1154)
+
 av 29. oktober 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -4529,6 +4608,7 @@ Utferdiget i Brussel, 29. oktober 2014.
 |  | José Manuel BARROSO |
 
 ### Vedlegg
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4549,6 +4629,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1226/2014](eu/32014r1226) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 92.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1226/2014](eu/32014r1226)
+
 av 17. november 2014
 om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -4601,6 +4682,7 @@ Utferdiget i Brussel, 17. november 2014.
 |  | *President* |
 
 ### Vedlegg
+
 Tillatte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
@@ -4614,6 +4696,7 @@ Tillatte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1228/2014](eu/32014r1228) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 93.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1228/2014](eu/32014r1228)
+
 av 17. november 2014
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -4702,6 +4785,7 @@ Utferdiget i Brussel, 17. november 2014.
 |  | *President* |
 
 ### Vedlegg I
+
 Tillatte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
@@ -4711,6 +4795,7 @@ Tillatte helsepåstander
 | Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | DSM Nutritional Products Europe AG, P.O. Box 2676, 4002 Basel, Sveits. | Vitamin D | Vitamin D bidrar til å reduserer risikoen for å falle, som er forbundet med ustøhet og muskelsvekkelse. Fall er en risikofaktor for beinbrudd blant menn og kvinner som er 60 år eller eldre | Påstanden kan brukes bare om kosttilskudd som minst inneholder 15 μg vitamin D per daglige dose.<br>Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 20 μg vitamin D fra alle kilder. | For kosttilskudd med tilsatt vitamin D kan påstanden bare brukes om dem som har menn og kvinner som er 60 år og eldre, som målgruppe | Q-2010-01233 |
 
 ### Vedlegg II
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4728,6 +4813,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1229/2014](eu/32014r1229) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 94.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1229/2014](eu/32014r1229)
+
 av 17. november 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -4798,6 +4884,7 @@ Utferdiget i Brussel, 17. november 2014.
 |  | *President* |
 
 ### Vedlegg
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4817,6 +4904,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/391](eu/32015r0391) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 95.
 
 ### Kommisjonsforordning [(EU) 2015/391](eu/32015r0391)
+
 av 9. mars 2015
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til barns utvikling og helse
 
@@ -4872,6 +4960,7 @@ Utferdiget i Brussel, 9. mars 2015.
 |  | *President* |
 
 ### Vedlegg
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4887,6 +4976,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/402](eu/32015r0402) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 98.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/402](eu/32015r0402)
+
 av 11. mars 2015
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -4940,6 +5030,7 @@ Utferdiget i Brussel, 11. mars 2015.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
@@ -4955,6 +5046,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/539](eu/32015r0539) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 99.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/539](eu/32015r0539)
+
 av 31. mars 2015
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
@@ -5039,6 +5131,7 @@ Posten for kakaoflavanoler i vedlegget til forordning [(EU) nr. 432/2012](eu/320
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/7](eu/32015r0007) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 100.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/7](eu/32015r0007)
+
 av 6. januar 2015
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
@@ -5106,6 +5199,7 @@ I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgend
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/8](eu/32015r0008) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 101.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/8](eu/32015r0008)
+
 av 6. januar 2015
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -5189,6 +5283,7 @@ Utferdiget i Brussel, 6. januar 2015.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/1041](eu/32015r1041) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 103.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/1041](eu/32015r1041)
+
 av 30. juni 2015
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -5277,6 +5372,7 @@ Utferdiget i Brussel, 21. februar 2014.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/1052](eu/32015r1052) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 104.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/1052](eu/32015r1052)
+
 av 1. juli 2015
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -5353,6 +5449,7 @@ Utferdiget i Brussel, 1. juli 2015.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/1886](eu/32015r1886) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 106.
 
 ### Kommisjonsforordning [(EU) 2015/1886](eu/32015r1886)
+
 av 20. oktober 2015
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til barns utvikling og helse
 
@@ -5408,6 +5505,7 @@ Utferdiget i Brussel, 20. oktober 2015.
 |  | *President* |
 
 ### Vedlegg
+
 Avviste helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5423,6 +5521,7 @@ Avviste helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/1898](eu/32015r1898) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 107.
 
 ### Kommisjonsforordning [(EU) 2015/1898](eu/32015r1898)
+
 av 21. oktober 2015
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -5470,6 +5569,7 @@ Utferdiget i Brussel, 21. oktober 2015.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5483,6 +5583,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/2314](eu/32015r2314) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 109.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/2314](eu/32015r2314)
+
 av 7. desember 2015
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
@@ -5565,6 +5666,7 @@ I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgend
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/371](eu/32016r0371) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 110.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/371](eu/32016r0371)
+
 av 15. mars 2016
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -5626,6 +5728,7 @@ Utferdiget i Brussel, 15. mars 2016.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5643,6 +5746,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/372](eu/32016r0372) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 111.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/372](eu/32016r0372)
+
 av 15. mars 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -5687,6 +5791,7 @@ Utferdiget i Brussel, 15. mars 2016.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5700,6 +5805,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/862](eu/32016r0862) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 113.
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2016/862](eu/32016r0862)
+
 av 31. mai 2016
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -5747,6 +5853,7 @@ Utferdiget i Brussel, 31. mai 2016.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5760,6 +5867,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/1379](eu/32016r1379) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 115.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/1379](eu/32016r1379)
+
 av 16. august 2016
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -5809,6 +5917,7 @@ Utferdiget i Brussel, 16. august 2016.
 |  | President |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5823,6 +5932,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/1381](eu/32016r1381) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 116.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/1381](eu/32016r1381)
+
 av 16. august 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
@@ -5867,6 +5977,7 @@ Utferdiget i Brussel, 16. august 2016.
 |  | President |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5880,6 +5991,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/1389](eu/32016r1389) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 117.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/1389](eu/32016r1389)
+
 av 17. august 2016
 om godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
@@ -5928,6 +6040,7 @@ Utferdiget i Brussel, 17. august 2016.
 |  | President |
 
 ### VEDLEGG
+
 Tillatte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en utfyllende erklæring eller advarsel* | *Referansenummer for EFSA-uttalelse* |
@@ -5941,6 +6054,7 @@ Tillatte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/1390](eu/32016r1390) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 118.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/1390](eu/32016r1390)
+
 av 17. august 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
@@ -5985,6 +6099,7 @@ Utferdiget i Brussel, 17. august 2016.
 |  | President |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -5998,6 +6113,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/1411](eu/32016r1411) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 119.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/1411](eu/32016r1411)
+
 av 24. august 2016
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6075,6 +6191,7 @@ Utferdiget i Brussel 24. august 2016.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -6094,6 +6211,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/1412](eu/32016r1412) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 120.
 
 ### KOMMISJONSFORORDNING [(EU) 2016/1412](eu/32016r1412)
+
 av 24. august 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -6138,6 +6256,7 @@ Utferdiget i Brussel 24. august 2016.
 |  | President |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -6151,6 +6270,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/236](eu/32017r0236) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 123.
 
 ### Kommisjonsforordning [(EU) 2017/236](eu/32017r0236)
+
 av 10. februar 2017
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -6197,6 +6317,7 @@ Utferdiget i Brussel 10. februar 2017.
 |  | President |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummer for EFSA-uttalelse |
@@ -6210,6 +6331,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/1200](eu/32017r1200) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 126.
 
 ### KOMMISJONSFORORDNING [(EU) 2017/1200](eu/32017r1200)
+
 av 5. juli 2017
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6264,6 +6386,7 @@ Utferdiget i Brussel 5. juli 2017.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -6279,6 +6402,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/1201](eu/32017r1201) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 127.
 
 ### KOMMISJONSFORORDNING [(EU) 2017/1201](eu/32017r1201)
+
 av 5. juli 2017
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6326,6 +6450,7 @@ Utferdiget i Brussel onsdag 5. juli 2017.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -6339,6 +6464,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/1202](eu/32017r1202) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 128.
 
 ### KOMMISJONSFORORDNING [(EU) 2017/1202](eu/32017r1202)
+
 av 5. juli 2017
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6393,6 +6519,7 @@ Utferdiget i Brussel onsdag 5. juli 2017.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
@@ -6408,6 +6535,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/199](eu/32018r0199) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 135.
 
 ### Kommisjonsforordning [(EU) 2018/199](eu/32018r0199)
+
 av 9. februar 2018
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6453,6 +6581,7 @@ Utferdiget i Brussel 9. februar 2018.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelse |
@@ -6466,6 +6595,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/1555](eu/32018r1555) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 152.
 
 ### Kommisjonsforordning [(EU) 2018/1555](eu/32018r1555)
+
 av 17. oktober 2018
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -6518,6 +6648,7 @@ Utferdiget i Brussel 17. oktober 2018.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelse |
@@ -6533,6 +6664,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/1556](eu/32018r1556) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 153.
 
 ### Kommisjonsforordning [(EU) 2018/1556](eu/32018r1556)
+
 av 17. oktober 2018
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6601,6 +6733,7 @@ Utferdiget i Brussel 17. oktober 2018.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelse |
@@ -6620,6 +6753,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/343](eu/32019r0343) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 160.
 
 ### Kommisjonsforordning [(EU) 2019/343](eu/32019r0343)
+
 av 28. februar 2019
 om unntak fra artikkel 1 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) om ernærings- og helsepåstander om næringsmidler med henblikk på bruk av visse generiske beskrivelser
 
@@ -6733,6 +6867,7 @@ Utferdiget i Brussel 28. februar 2019.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/651](eu/32019r0651) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 165.
 
 ### Kommisjonsforordning [(EU) 2019/651](eu/32019r0651)
+
 av 24. april 2019
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
@@ -6780,6 +6915,7 @@ Utferdiget i Brussel 24. april 2019.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -6791,6 +6927,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/77](eu/32021r0077) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 193.
 
 ### KOMMISJONSFORORDNING (EU) 2021/77
+
 av 27. januar 2021
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -6853,6 +6990,7 @@ Utferdiget i Brussel 27. januar 2021.
 |  | *President* |
 
 ### VEDLEGG
+
 Avslåtte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -6868,6 +7006,7 @@ Avslåtte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/709](eu/32022r0709) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 215.
 
 ### KOMMISJONSFORORDNING (EU) 2022/709
+
 av 6. mai 2022
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til utviklinga og helsa til barn
 
@@ -6914,6 +7053,7 @@ Utferda i Brussel 6. mai 2022.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -6925,6 +7065,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/710](eu/32022r0710) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 216.
 
 ### KOMMISJONSFORORDNING (EU) 2022/710
+
 av 6. mai 2022
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til redusert sjukdomsrisiko
 
@@ -6971,6 +7112,7 @@ Utferda i Brussel 6. mai 2022.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -6982,6 +7124,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/711](eu/32022r0711) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 217.
 
 ### KOMMISJONSFORORDNING (EU) 2022/711
+
 av 6. mai 2022
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -7033,6 +7176,7 @@ Utferda i Brussel 6. mai 2022.
 |  | *President* |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -7045,6 +7189,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/719](eu/32022r0719) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 218.
 
 ### KOMMISJONSFORORDNING (EU) 2022/719
+
 av 10. mai 2022
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -7100,6 +7245,7 @@ Utferda i Brussel 10. mai 2022.
 |  | *President* |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -7113,6 +7259,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/727](eu/32022r0727) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 219.
 
 ### KOMMISJONSFORORDNING (EU) 2022/727
+
 av 11. mai 2022
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til redusert sjukdomsrisiko
 
@@ -7160,6 +7307,7 @@ Utferda i Brussel 11. mai 2022.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
@@ -7173,6 +7321,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/648
 > Tilføyd ved forskrift [23 sep 2023 nr. 1524](forskrift/2023-09-23-1524).
 
 ### KOMMISJONSFORORDNING [(EU) 2023/648](eu/32023r0648)
+
 av 20. mars 2023
 om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -7246,6 +7395,7 @@ Utferdiget i Brussel 20. mars 2023.
 |  | *President* |
 
 ### VEDLEGG
+
 Tillatte helsepåstander
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Søker – Søkers adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddel-<br>kategori* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrens-<br>ninger for bruk av nærings-<br>middelet og/eller en tilleggs-<br>erklæring eller<br>-advarsel* | *EFSA-uttalelse* |
@@ -7261,6 +7411,7 @@ Tillatte helsepåstander
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/1101](eu/32023r1101) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 238.
 
 ### KOMMISJONSFORORDNING [(EU) 2023/1101](eu/32023r1101)
+
 av 6. juni 2023
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til utviklinga og helsa til barn
 
@@ -7308,6 +7459,7 @@ Utferda i Brussel 6. juni 2023.
 |  | *President* |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -7321,6 +7473,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/1141](eu/32023r1141) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 239.
 
 ### KOMMISJONSFORORDNING [(EU) 2023/1101](eu/32023r1101)
+
 av 1. juni 2023
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
@@ -7380,6 +7533,7 @@ Utferda i Brussel 1. juni 2023.
 |  | *President* |
 
 ### VEDLEGG
+
 Avviste helsepåstandar
 
 | *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
@@ -7396,6 +7550,7 @@ Avviste helsepåstandar
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2024/2063](eu/32024r2063) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 257.
 
 ### KOMMISJONSFORORDNING (EU) 2024/2063
+
 av 30. juli 2024
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -7504,6 +7659,7 @@ Utferdiget i Brussel 30. juli 2024.
 |  | For Kommisjonen<br>Ursula von der Leyen<br>President |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -7517,6 +7673,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2024/2105](eu/32024r2105) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 259.
 
 ### KOMMISJONSFORORDNING (EU) 2024/2105
+
 av 31. juli 2024
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -7575,6 +7732,7 @@ Utferdiget i Brussel 31. juli 2024.
 |  | For Kommisjonen<br>Ursula von der Leyen<br>President |
 
 ### VEDLEGG
+
 Avvist helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -7588,6 +7746,7 @@ Avvist helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/350](eu/32025r0350) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 265.
 
 ### KOMMISJONSFORORDNING [(EU) 2025/350](eu/32025r0350)
+
 av 21. februar 2025
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -7642,6 +7801,7 @@ Utferdiget i Brussel 21. februar 2025.
 |  | *For Kommisjonen*<br>Ursula von der Leyen<br>*President* |
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -7655,6 +7815,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/1560](eu/32025r1560) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 271.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2025/1560](eu/32025r1560)
+
 av 30. juli 2025
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
@@ -7724,6 +7885,7 @@ I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgend
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/2222](eu/32025r2222) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 272.
 
 ### KOMMISJONSFORORDNING [(EU) 2025/2222](eu/32025r2222)
+
 av 4. november 2025
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
@@ -7774,6 +7936,7 @@ Ursula von der Leyen
 *President*
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
@@ -7787,6 +7950,7 @@ Avslått helsepåstand
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/2223](eu/32025r2223) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 273.
 
 ### KOMMISJONSFORORDNING [(EU) 2025/2223](eu/32025r2223)
+
 av 4. november 2025
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
@@ -7831,6 +7995,7 @@ Ursula VON DER LEYEN
 *President*
 
 ### VEDLEGG
+
 Avslått helsepåstand
 
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |

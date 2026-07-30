@@ -15,7 +15,7 @@ xml_hash: "ffddfac7245480ba8fa17d7df683b26d93993e923d31f7cb9f8635dace48e284"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -65,6 +65,7 @@ Forskriften trer i kraft straks.
 ## VEDLEGG A
 
 ### RÅDSFORORDNING [(EU) 2018/1542](eu/32018*1542)
+
 av 15. oktober 2018
 om restriktive tiltak mot spredning og bruk av kjemiske våpen
 
@@ -255,6 +256,7 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 ____________
 
 ### VEDLEGG I
+
 Liste over fysiske eller juridiske personer, enheter eller organer henvist til i artikkel 2
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). [^1]

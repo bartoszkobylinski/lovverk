@@ -15,7 +15,7 @@ xml_hash: "1fe4002d0bfdf6590a0a3cb75c5b662064b93d5f4a138ce7b56fbd7176c4fca4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,7 @@ Forskriften trer i kraft straks.
 > Overskrift tilføyd ved [forskrift 17 juli 2017 nr. 1214](forskrift/2017-07-17-1214), endret ved forskrift [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### RÅDSFORORDNING [(EU) 2015/1755](eu/32015r1755)
+
 av 1. oktober 2015
 om restriktive tiltak i lys av situasjonen i Burundi
 

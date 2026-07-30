@@ -15,7 +15,7 @@ xml_hash: "b3951fceea907309772c6b5c1aab82272fac6e14dac3744f6a621d1500864671"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,6 +62,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av vedlegg I kapittel I innl
 Forordning [(EU) 2015/949](eu/32015r0949) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2017/1269](eu/32017r1269).
 
 ### COMMISSION IMPLEMENTING REGULATION [(EU) 2015/949](eu/32015r0949)
+
 of 19 June 2015
 approving the pre-export checks carried out on certain food by certain third countries as regards the presence of certain mycotoxins
 (Text with EEA relevance)

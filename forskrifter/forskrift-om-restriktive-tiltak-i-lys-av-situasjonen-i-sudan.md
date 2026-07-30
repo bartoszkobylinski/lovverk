@@ -15,7 +15,7 @@ xml_hash: "bcf18924ea3b78eb62ac80356d3c163b1c70654a1de59aa672865d1ec5751763"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -85,6 +85,7 @@ Forskriften trer i kraft straks.
 > Tilføyd ved forskrift [4 juni 2024 nr. 923](forskrift/2024-06-04-923).
 
 ## RÅDSFORORDNING [(EU) 747/2014](eu/32014r0747)
+
 av 10. juli 2014
 om restriktive tiltak i lys av situasjonen i Sudan og om oppheving av forordning [(EF) nr. 131/2004](eu/32004r0131) og [(EF) nr. 1184/2005](eu/32005r1184)
 
@@ -361,6 +362,7 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 > Tilføyd ved forskrift [4 juni 2024 nr. 923](forskrift/2024-06-04-923).
 
 ## RÅDSFORORDNING [(EU) 2023/2147](eu/32023r2147)
+
 av 9. oktober 2023
 om restriktive tiltak i lys av aktiviteter som undergraver stabiliteten og den politiske overgangen i Sudan
 

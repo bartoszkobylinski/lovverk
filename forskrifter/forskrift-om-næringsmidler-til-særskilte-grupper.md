@@ -15,7 +15,7 @@ xml_hash: "399c0c65c59f292f965a5c40edbbafb296f42f07c22f0c1a763c48ec269fc97e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -93,6 +93,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 609/
 - ►**M5** Forordning [(EU) 2025/1735](eu/32025r1735)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 609/2013](eu/32013r0609)
+
 av 12. juni 2013
 om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og (EF) [nr. 953/2009](eu/32009r0953)
 
@@ -202,6 +203,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål
@@ -267,9 +269,11 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 For å sikre et høyt nivå av helsevern for personer som næringsmidlene nevnt i artikkel 1 nr. 1 i denne forordning er beregnet på, gjelder føre-var-prinsippet som omhandlet i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
 ### KAPITTEL II
+
 KRAV TIL SAMMENSETNING OG INFORMASJON
 
 ### AVSNITT 1
+
 Alminnelige krav
 
 ###### Artikkel 6
@@ -321,6 +325,7 @@ Tilleggskrav for morsmelkerstatninger og tilskuddsblandinger
 Med forbehold for første ledd er det tillatt med grafiske framstillinger for å lette identifikasjonen av morsmelkerstatninger og tilskuddsblandinger og for å illustrere tilberedningsmetodene.
 
 ### AVSNITT 2
+
 Særlige krav
 
 ###### Artikkel 11
@@ -362,6 +367,7 @@ Tekniske retningslinjer
 Kommisjonen kan vedta tekniske retningslinjer som gjør det lettere for næringsmiddelforetak, særlig SMB-er, å overholde dette kapittel og kapittel III.
 
 ### KAPITTEL III
+
 UNIONSLISTE
 
 ### Artikkel 15. Unionsliste
@@ -408,6 +414,7 @@ Medlemsstatene kan opprettholde nasjonale regler med strengere renhetskriterier.
 2\. Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått helsefare, skal framgangsmåten fastsatt i artikkel 19 få anvendelse på delegerte rettsakter vedtatt i henhold til denne artikkel.
 
 ### KAPITTEL IV
+
 BESTEMMELSER OM FRAMGANGSMÅTER
 
 ### Artikkel 17. Komitéframgangsmåte
@@ -436,6 +443,7 @@ Dersom uttalelse fra komiteen skal innhentes etter skriftlig framgangsmåte, ska
 2\. Europaparlamentet eller Rådet kan komme med innsigelser mot en delegert rettsakt etter framgangsmåten i artikkel 18 nr. 5. I så fall skal Kommisjonen snarest oppheve rettsakten etter at Europaparlamentet og Rådet har underrettet om beslutningen om innsigelse.
 
 ### KAPITTEL V
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 20. Oppheving
@@ -730,6 +738,7 @@ som endret ved
 ► **M1** Forordning [(EU) nr. 1161/2011](eu/32011r1161)
 
 ### KOMMISJONSFORORDNING [(EF) nr. 953/2009](eu/32009r0953)
+
 av 13. oktober 2009
 om stoffer som for særlige ernæringsformål kan tilsettes næringsmidler til bruk ved spesielle ernæringsmessige behov
 
@@ -815,6 +824,7 @@ Utferdiget i Brussel, 13. oktober 2009.
 |  | *Medlem av Kommisjonen* |
 
 ### Vedlegg
+
 Stoffer som for særlige ernæringsformål kan tilsettes næringsmidler til bruk ved spesielle ernæringsmessige behov
 
 I denne tabell menes med:
@@ -1061,6 +1071,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/128
 ► EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77a
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2016/128](eu/32016r0128)
+
 av 25. september 2015
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til bestemte sammensetnings- og informasjonskrav om næringsmidler til spesielle medisinske formål
 
@@ -1263,9 +1274,11 @@ Utferdiget i Brussel, 25. september 2015.
 |  | *President* |
 
 ### VEDLEGG I
+
 KRAV TIL SAMMENSETNING NEVNT I ARTIKKEL 2 NR. 3
 
 ### DEL A
+
 Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov
 
 1. Produktene som nevnt i artikkel 2 nr. 1 bokstav a) som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal inneholde vitaminene og mineralene som er angitt i tabell 1.
@@ -1326,6 +1339,7 @@ Innhold av vitaminer og mineraler i næringsmidler til spesielle medisinske form
 6 Totalfosfor.
 
 ### DEL B
+
 Andre næringsmidler til spesielle medisinske formål enn dem som er utviklet for å oppfylle spedbarns ernæringsmessige behov
 
 1. Andre produkter som nevnt i artikkel 2 nr. 1 bokstav a) enn dem som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal inneholde vitaminene og mineralene som er angitt i tabell 2.
@@ -1373,6 +1387,7 @@ Innhold av vitaminer og mineraler i andre næringsmidler til spesielle medisinsk
 1 For produkter beregnet på barn i alderen ett til ti år.
 
 ### VEDLEGG II
+
 ►**M2** AKTIVE STOFFER NEVNT I ARTIKKEL 3 NR. 3
 
 | *Kjemisk betegnelse på stoffets opprinnelige forbindelse*[^1] | *Øvre grenseverdi for restmengder (mg/kg)* |
@@ -1390,6 +1405,7 @@ Innhold av vitaminer og mineraler i andre næringsmidler til spesielle medisinsk
 ◄**M2**
 
 ### VEDLEGG III
+
 ►**M2** AKTIVE STOFFER NEVNT I ARTIKKEL 3 NR. 4
 
 | *Kjemisk betegnelse på stoffets opprinnelige forbindelse*[^1] |
@@ -1401,6 +1417,7 @@ Innhold av vitaminer og mineraler i andre næringsmidler til spesielle medisinsk
 ◄**M2**
 
 ### VEDLEGG IV
+
 BETEGNELSE NEVNT I ARTIKKEL 4
 
 Næringsmidler til spesielle medisinske formål skal henholdsvis ha følgende betegnelser:
@@ -1456,6 +1473,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/127
 - ► EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2016/127](eu/32016r0127)
+
 av 25. september 2015
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til bestemte sammensetnings- og informasjonskrav til morsmelkerstatninger og tilskuddsblandinger og med hensyn til kravene til informasjon om spedbarns- og småbarnsernæring
 
@@ -1703,6 +1721,7 @@ Utferdiget i Brussel, 25. september 2015.
 |  | *President* |
 
 ### VEDLEGG I
+
 KRAV TIL SAMMENSETNING NEVNT I ARTIKKEL 2 NR. 1
 
 1\.
@@ -2178,6 +2197,7 @@ Følgende nukleotider kan tilsettes:
 1 Samlet konsentrasjon av nukleotider skal være høyst 1,2 mg/100 kJ (5 mg/100 kcal).
 
 ### VEDLEGG II
+
 KRAV TIL SAMMENSETNING NEVNT I ARTIKKEL 2 NR. 2
 
 1\.
@@ -2611,6 +2631,7 @@ Følgende nukleotider kan tilsettes:
 1 Samlet konsentrasjon av nukleotider skal være høyst 1,2 mg/100 kJ (5 mg/100 kcal).
 
 ### VEDLEGG III
+
 ESSENSIELLE OG BETINGET ESSENSIELLE AMINOSYRER I MORSMELK
 
 Ved anvendelsen av nr. 2 i vedlegg I og II skal morsmelk brukes som referanseprotein som fastsatt i henholdsvis avsnitt A og B i dette vedlegg.
@@ -2665,6 +2686,7 @@ Ved anvendelsen av nr. 2.3.1 i vedlegg I og II er de essensielle og betinget ess
 1 1 kJ = 0,239 kcal.
 
 ### VEDLEGG IV
+
 ►**M4** AKTIVE STOFFER NEVNT I ARTIKKEL 4 NR. 3
 
 | *Kjemisk betegnelse på stoffets opprinnelige forbindelse*[^1] | *Øvre grenseverdi for restmengder (mg/kg)* |
@@ -2683,6 +2705,7 @@ Ved anvendelsen av nr. 2.3.1 i vedlegg I og II er de essensielle og betinget ess
 ◄**M4**
 
 ### VEDLEGG V
+
 ►**M4** AKTIVE STOFFER NEVNT I ARTIKKEL 4 NR. 4
 
 | *Kjemisk betegnelse på stoffets opprinnelige forbindelse*[^1] |
@@ -2694,9 +2717,11 @@ Ved anvendelsen av nr. 2.3.1 i vedlegg I og II er de essensielle og betinget ess
 **◄M4**
 
 ### VEDLEGG VI
+
 BETEGNELSER NEVNT I ARTIKKEL 5
 
 ### DEL A
+
 Betegnelse nevnt i artikkel 5 nr. 1
 
 Andre morsmelkerstatninger og tilskuddsblandinger enn morsmelkerstatninger og tilskuddsblandinger som er produsert helt og holdent på grunnlag av kumelk- eller geitemelkproteiner, skal henholdsvis ha følgende betegnelser:
@@ -2734,6 +2759,7 @@ på norsk: «Morsmelkerstatning» og «Tilskuddsblanding»
 ◄**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
 
 ### DEL B
+
 Betegnelse nevnt i artikkel 5 nr. 2
 
 Morsmelkerstatninger og tilskuddsblandinger som er produsert helt og holdent på grunnlag av kumelk- eller geitemelkproteiner, skal henholdsvis ha følgende betegnelser:
@@ -2771,6 +2797,7 @@ på norsk: «Morsmelkerstatning basert på melk» og «Tilskuddsblanding basert 
 ◄**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
 
 ### VEDLEGG VII
+
 REFERANSEINNTAK NEVNT I ARTIKKEL 7 NR. 7
 
 | *Næringsstoff* | *Referanseinntak* |
@@ -2811,6 +2838,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/179
 - ►**M1** Forordning [(EU) 2022/2182](eu/32022r2182)
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2017/1798](eu/32017r1798)
+
 av 2. juni 2017
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til særlige sammensetnings- og informasjonskrav til totale kosterstatninger for vektkontroll
 
@@ -2955,6 +2983,7 @@ Utferdiget i Brussel 2. juni 2017.
 |  | *President* |
 
 ### Vedlegg I
+
 Krav til sammensetning nevnt i artikkel 3
 
 1.*Energi*
@@ -3037,6 +3066,7 @@ Totale kosterstatninger for vektkontroll skal inneholde minst de mengdene av vit
 4 Kostfolatekvivalenter: 1 μg DFE = 1 μg kostfolat = 0,6 μg folsyre fra total kosterstatning for vektkontroll.
 
 ### Vedlegg II
+
 Oversikt over aminosyrebehov[^1]
 
 |  |  |

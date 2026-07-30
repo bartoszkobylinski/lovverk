@@ -15,7 +15,7 @@ xml_hash: "d2b72c689f39deab2bda93bd75805e5ab0cf9eb00429b260af34f6215a8000fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,6 +196,7 @@ som endret ved
 - ► **MZ** Forordning [(EU) 2026/196](eu/32026r0196) (skal gjelde / må følges i EØS fra 18. august 2026)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1333/2008](eu/32008r1333)
+
 av 16. desember 2008
 om tilsetningsstoffer i næringsmidler
 
@@ -297,6 +298,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål
@@ -369,6 +371,7 @@ For disse formål inneholder denne forordning bestemmelser om
 8. «quantum satis» at ingen numerisk grenseverdi er fastsatt og at tilsetningsstoffer skal brukes i samsvar med god framstillingspraksis, i en mengde som ikke er større enn det som er nødvendig for å oppnå den ønskede virkning, og på en slik måte at forbrukeren ikke villedes.
 
 ### Kapittel II
+
 Fellesskapslister over godkjente tilsetningsstoffer i næringsmidler
 
 ### Artikkel 4. Fellesskapslister over tilsetningsstoffer i næringsmidler
@@ -478,6 +481,7 @@ Når et tilsetningsstoff allerede er oppført på en fellesskapsliste og det for
 Spesifikasjoner for tilsetningsstoffer i næringsmidler, særlig med hensyn til opprinnelse, renhetskriterier og eventuelle andre nødvendige opplysninger, skal vedtas når tilsetningsstoffene for første gang oppføres på fellesskapslistene i vedlegg II og III etter framgangsmåten i forordning [(EF) nr. 1331/2008](eu/32008r1331) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler.
 
 ### Kapittel III
+
 Bruk av tilsetningsstoffer i næringsmidler
 
 ### Artikkel 15. Bruk av tilsetningsstoffer i næringsmidler i ubearbeidede næringsmidler
@@ -527,6 +531,7 @@ Om nødvendig, i samsvar med framgangsmåten med forskriftskomité omhandlet i a
 Medlemsstatene oppført i vedlegg IV kan fortsatt forby bruk av visse grupper av tilsetningsstoffer i næringsmidler i tradisjonelle næringsmidler som framstilles på deres territorium og som er oppført i nevnte vedlegg.
 
 ### Kapittel IV
+
 Merking
 
 ### Artikkel 21. Merking av tilsetningsstoffer i næringsmidler som ikke er beregnet på salg til sluttforbrukeren
@@ -591,6 +596,7 @@ Merking
 Artikkel 21–24 skal ikke berøre mer detaljerte eller mer omfattende lover og forskrifter om vekt og mål eller om presentasjon, klassifisering, emballering og merking av farlige stoffer og stoffblandinger eller om transport av slike stoffer og blandinger.
 
 ### Kapittel V
+
 Bestemmelser om framgangsmåte og gjennomføring
 
 ### Artikkel 26. Opplysningsplikt
@@ -624,6 +630,7 @@ Tidsfristene nevnt i artikkel 5a nr. 3 bokstav c) og i nr. 4 bokstav b) og e) i 
 Rettsgrunnlaget for finansieringen av tiltak på grunnlag av denne forordning er artikkel 66 nr. 1 bokstav c) i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 ### Kapittel VI
+
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 30. Opprettelse av fellesskapslister over tilsetningsstoffer i næringsmidler
@@ -739,6 +746,7 @@ Funksjonsgrupper av tilsetningsstoffer i næringsmidler og av tilsetningsstoffer
 27. «Kontrastforsterkere» er stoffer som når de anbringes på overflaten av frukter eller grønnsaker etter pigmentfjerning av bestemte deler (f.eks. ved laserbehandling), bidrar til å skille disse delene fra resten av overflaten ved å etterlate farge etter vekselvirkning med visse komponenter i epidermis.◄**M24**
 
 ### Vedlegg II
+
 Unionsliste over tilsetningsstoffer som kan brukes i næringsmidler, og vilkårene for bruken av dem
 
 ### Del A
@@ -5511,6 +5519,7 @@ Denne unionslisten omfatter:
 ◄**M2**
 
 ### Vedlegg III
+
 Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetningsstoffer, enzymer, aromaer og næringsstoffer i næringsmidler, og vilkårene for bruken av dem
 
 ►**M3**
@@ -6295,6 +6304,7 @@ Unionsliste over tilsetningsstoffer, herunder bærere, som kan brukes i tilsetni
 ◄**M115**
 
 ### Vedlegg IV
+
 Tradisjonelle næringsmidler for hvilke enkelte medlemsstater kan fortsette å forby visse kategorier av tilsetningsstoffer i næringsmidler
 
 | *Medlemsstat* | *Næringsmidler* | *Kategorier av tilsetningsstoffer som fortsatt kan forbys* |
@@ -6318,6 +6328,7 @@ Tradisjonelle næringsmidler for hvilke enkelte medlemsstater kan fortsette å f
 | Norge | Tradisjonell norsk «Leverpostei» | Konserveringsmidler (unntatt natriumnitritt) og farger |
 
 ### Vedlegg V
+
 Liste over fargestoffene i næringsmidler omhandlet i artikkel 24 som medfører at merkingen av næringsmidlene skal innehold tilleggsopplysninger
 
 | *Næringsmidler som inneholder ett eller flere av følgende fargestoffer* | *Angivelse* |
@@ -6343,6 +6354,7 @@ som endret ved
 ►**M1** Forordning [(EU) 2021/148](eu/32021r0148)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 257/2010](eu/32010r0257)
+
 av 25. mars 2010
 om opprettelse av et program for ny vurdering av godkjente tilsetningsstoffer i næringsmidler i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) om tilsetningsstoffer i næringsmidler
 
@@ -6521,6 +6533,7 @@ Utferdiget i Brussel, 25. mars 2010.
 |  | *President* |
 
 ### Vedlegg I
+
 Liste over tilsetningsstoffer som er godkjent før 20. januar 2009, og som EFSA har fullført ny vurdering av når denne forordning vedtas
 
 | *E-nummer* | *Stoff* | *Året da stoffet sist ble vurdert av SCF eller EFSA* | *Status for ny vurdering foretatt av EFSA* |
@@ -6544,6 +6557,7 @@ Liste over tilsetningsstoffer som er godkjent før 20. januar 2009, og som EFSA 
 | E 901 | Bivoks, hvit og gul | 2007 | Ny vurdering fullført 27. november 2007 |
 
 ### Vedlegg II
+
 Særlige prioriteringer for visse tilsetningsstoffer innenfor de funksjonelle gruppene med tilsetningsstoffer nevnt i artikkel 3 nr. 1 og 2
 
 ### Del I: Fargestoffer
@@ -6740,6 +6754,7 @@ som endret ved
 - ►**MX** Forordning [(EU) 2026/196](eu/32026r0196)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 231/2012](eu/32012r0231)
+
 av 9. mars 2012
 om fastsettelse av spesifikasjoner for tilsetningsstoffer i næringsmidler oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333)
 
@@ -7496,10 +7511,10 @@ Ingen restmengder over 0,1 mg/kg, uansett opprinnelse, av etylenoksid (summen av
 |  |  |
 | --- | --- |
 | **Synonymer** | CI Food Green 4, briljantgrønn BS |
-| **Definisjon** | Grønn S består hovedsakelig av natrium N-[4-[[4-<br>(dimetylamino)fenyl](2-hydroksy-3,6-disulfo-1-naftalenyl)metylen]-<br>2,5-sykloheksadien-1-yliden]-N-metylmetanaminium og andre<br>fargestoffer samt natriumklorid og/eller natriumsulfat som de viktigste ufargede komponenter.<br>Beskrivelsen av grønn S gjelder natriumsaltet. Kalsium- og kaliumsaltet er også tillatt. |
+| **Definisjon** | Grønn S består hovedsakelig av natrium N-[4-[[4-<br>(dimetylamino)fenyl]\(2-hydroksy-3,6-disulfo-1-naftalenyl)metylen]-<br>2,5-sykloheksadien-1-yliden]-N-metylmetanaminium og andre<br>fargestoffer samt natriumklorid og/eller natriumsulfat som de viktigste ufargede komponenter.<br>Beskrivelsen av grønn S gjelder natriumsaltet. Kalsium- og kaliumsaltet er også tillatt. |
 | Fargeindeksnummer | 44090 |
 | EINECS-nummer | 221-409-2 |
-| Kjemisk betegnelse | Natrium N-[4-[[4-(dimetylamino)fenyl](2-hydroksy-3,6-disulfo-1-<br>naftalenyl)-metylen]-2,5-sykloheksadien-1-yliden]-N-<br>metylmetanaminium; natrium 5-[4-dimetylamino-α-(4-<br>dimetyliminosykloheksa-2,5-dienyliden)benzyl]-6-hydroksy-7-<br>sulfonatonaftalen-2-sulfonat (alternativt kjemisk navn). |
+| Kjemisk betegnelse | Natrium N-[4-[[4-(dimetylamino)fenyl]\(2-hydroksy-3,6-disulfo-1-<br>naftalenyl)-metylen]-2,5-sykloheksadien-1-yliden]-N-<br>metylmetanaminium; natrium 5-[4-dimetylamino-α-(4-<br>dimetyliminosykloheksa-2,5-dienyliden)benzyl]-6-hydroksy-7-<br>sulfonatonaftalen-2-sulfonat (alternativt kjemisk navn). |
 | Kjemisk formel | C27 H25 N2 NaO7 S2 |
 | Molekylvekt | 576,63 |
 | Innhold | Ikke under 80 % fargestoff i alt, beregnet som natriumsalt<br>(E*1cm 1%* ) 1720 ved ca. 632 nm i vandig løsning |
@@ -14648,7 +14663,7 @@ E 330 SITRONSYRE
 | **Definisjon** | Naturlig glimmer består hovedsakelig av kaliumaluminiumsilikat (kaliglimmer) |
 | EINECS-nummer | 310-127-6 |
 | Kjemisk betegnelse | Kaliumaluminiumsilikat |
-| Kjemisk formel | KAl2 [AlSi3 O10 ](OH)2 |
+| Kjemisk formel | KAl2 [AlSi3 O10 ]\(OH)2 |
 | Molekylvekt | 398 |
 | Innhold | Ikke under 98 % |
 | **Beskrivelse** | Lysegrå til hvite krystallinske plater eller pulver |

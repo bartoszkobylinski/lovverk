@@ -15,7 +15,7 @@ xml_hash: "a497367370d9d47a354fc105105876a516a84f0f17d13b1ac7f2c0fde920bc3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,6 +61,7 @@ Forskriften trer i kraft straks.
 > Endret ved forskrift [21 mai 2024 nr. 804](forskrift/2024-05-21-804).
 
 ### RÅDSFORORDNING [(EU) 2023/888](eu/32023r0888)
+
 av 28. april 2023 om restriktive tiltak i lys av handlinger som destabiliserer Republikken Moldova
 
 ### Artikkel 1
@@ -268,6 +269,7 @@ Denne forordningen trer i kraft den dagen den kunngjøres i *Den europeiske unio
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### VEDLEGG I
+
 Personer som det er henvist til i artikkel 2 nr. 1
 
 EUs konsoliderte liste over personer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en).

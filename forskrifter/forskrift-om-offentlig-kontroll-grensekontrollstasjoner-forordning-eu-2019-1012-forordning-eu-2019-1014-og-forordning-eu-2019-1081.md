@@ -17,7 +17,7 @@ xml_hash: "b5f79cfd1d98d6bba354260ac706896ef4196094a6824da8a1db9366f86deabe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -81,6 +81,7 @@ som endret ved
 - ►**M1** Kommisjonsforordning [(EU) 2025/917](eu/32025r0917) av 19. mai 2025
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1014](eu/32019r1014)
+
 av 12. juni 2019
 om fastsettelse av nærmere regler for minstekrav til grensekontrollstasjoner, herunder kontrollsentre, og til format, kategorier og forkortelser som skal brukes i lister over grensekontrollstasjoner og kontrollsteder
 
@@ -149,6 +150,7 @@ I denne forordning menes med
 8 Rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og import av slike dyr fra tredjestater (EUT L 192 av 23.7.2010, s. 1).
 
 ### KAPITTEL I
+
 Felles minstekrav til grensekontrollstasjoner
 
 ### Artikkel 3. Infrastruktur på grensekontrollstasjoner
@@ -236,6 +238,7 @@ Slike kommersielle lagringsanlegg kan brukes til gjennomføring av identitetskon
 3\. Dersom det er nødvendig for å sikre at de prøvene som er tatt som del av offentlig kontroll, er intakte, skal nærmere anvisninger om prøvetaking med sikte på analyse og transport av disse prøvene til det utpekte offentlige laboratoriet, være tilgjengelig.
 
 ### KAPITTEL II
+
 Særlige minstekrav til grensekontrollstasjoner
 
 ### Artikkel 5. Grensekontrollstasjoner utpekt for kategorier av dyr
@@ -299,6 +302,7 @@ Anleggene nevnt i nr. 1 skal brukes til gjennomføring av offentlig kontroll og 
 ◄**M1**
 
 ### KAPITTEL III
+
 Lister over grensekontrollstasjoner og kontrollsteder
 
 ### Artikkel 7. Format, kategorier, forkortelser og andre opplysninger som brukes i listene over grensekontrollstasjoner og kontrollsteder
@@ -310,6 +314,7 @@ Lister over grensekontrollstasjoner og kontrollsteder
 3\. Listene over grensekontrollstasjoner og kontrollsteder skal ledsages av en forklarende note som inneholder de forkortelsene og spesifikasjonene som er fastsatt i vedlegg II.
 
 ### KAPITTEL IV
+
 Kontrollsentre
 
 ### Artikkel 8. Krav til kontrollsentre
@@ -504,6 +509,7 @@ Tilleggsspesifikasjoner om omfanget av utpekingen: fritekst hvor det kan gis til
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11be, kap. II nr. 31qe og vedlegg II kap. XII nr. 164e (forordning [(EU) 2019/1012](eu/32019r1012)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll I til EØS-avtalen.
 
 ### Kommisjonens delegerte forordning [(EU) 2019/1012](eu/32019r1012)
+
 av 12. mars 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) gjennom unntak fra reglene om utpeking av kontrollsteder og fra minstekravene til grensekontrollstasjoner
 
@@ -615,6 +621,7 @@ Utferdiget i Brussel 12. mars 2019.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bh, kap. II nr. 31qh og vedlegg II kap. XII nr. 164h (forordning [(EU) 2019/1081](eu/32019r1081)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll I til EØS-avtalen.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2019/1081](eu/32019r1081)
+
 av 8. mars 2019
 om fastsettelse av regler om særlige krav til opplæring av personale som gjennomfører visse fysiske kontroller på grensekontrollstasjoner
 

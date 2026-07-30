@@ -15,7 +15,7 @@ xml_hash: "87cdf59d52bcb94b7094a87841f559a3d629c378851a029bc162baee9e3fc532"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,6 +63,7 @@ I [lov 2. juli 1999 nr. 64 om helsepersonell mv.](lov/1999-07-02-64) skal [§ 12
 I [lov 28. mai 2010 nr. 16 om behandling av opplysninger i politiet og påtalemyndigheten](lov/2010-05-28-16) skal [§ 40 nr. 6](lov/2010-05-28-16/§40/nummer/6) lyde: – – –
 
 ## XI
+
 Inkurieopprettinger
 
 **1.** I [lov 22. mai 1902 nr. 13 militær straffelov](lov/1902-05-22-13) gjøres følgende endringer: – – –

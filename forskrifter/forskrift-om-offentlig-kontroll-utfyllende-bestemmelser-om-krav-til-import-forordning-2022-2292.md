@@ -17,7 +17,7 @@ xml_hash: "8d0aa6c03f7e65604acb4fb22946f3163aef72852e07f6c2828e0140a94acf70"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,7 @@ som endret ved:
 - ►**M3** Kommisjonsforordning [(EU) 2025/637](eu/32025r0637) av 29. januar 2025
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/2292](eu/32022r2292)
+
 av 6. september 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til krav ved innførsel til Unionen av forsendelser av dyr bestemt til næringsmiddelproduksjon og visse varer beregnet på konsum
 
@@ -173,6 +174,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -280,6 +282,7 @@ I denne forordningen menes med
 ◄**M2**
 
 ### KAPITTEL II
+
 VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL OPPRINNELSESTREDJELAND ELLER REGIONER I DISSE
 
 ### Artikkel 3. Dyr bestemt til næringsmiddelproduksjon og varer som skal komme fra tredjeland eller regioner i tredjeland, som er oppført på listen nevnt i artikkel 126 nr. 2 bokstav a) i forordning (EU) 2017/625
@@ -384,6 +387,7 @@ For tredjeland som på grunn av krav til dyrehelse ikke kan innføre bestemte dy
 30 Kommisjonens gjennomføringsforordning [(EU) 2021/404](eu/32021r0404) av 24. mars 2021 om fastsettelse av lister over tredjeland, territorier eller soner av disse som det er tillatt å innføre dyr, avlsmateriale og produkter av animalsk opprinnelse fra til Unionen i samsvar med europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) (EUT L 114 av 31.3.2021, s. 1).
 
 ### KAPITTEL III
+
 VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL BRUK AV FARMAKOLOGISK VIRKSOMME STOFFER OG RESTMENGDER AV DISSE, FORURENSENDE STOFFER OG RESTER AV PLANTEVERNMIDLER
 
 ### Artikkel 9. Krav med hensyn til bruk av farmakologisk virksomme stoffer til dyr bestemt til næringsmiddelproduksjon og restmengder av disse i produkter av animalsk opprinnelse og sammensatte produkter
@@ -410,6 +414,7 @@ Produkter av animalsk opprinnelse og sammensatte produkter skal bare innføres t
 Produkter av animalsk opprinnelse og sammensatte produkter skal bare innføres til Unionen fra tredjeland som gir garantier for at disse produktene overholder toleransegrensene for forurensende stoffer fastsatt på grunnlag av forordning [(EØF) nr. 315/93](eu/31993r0315). Disse garantiene skal minst være likeverdige de som er fastsatt i de flerårige nasjonale kontrollplanene fastsatt i samsvar med delegert forordning [(EU) 2022/931](eu/32022r0931) og gjennomføringsforordning [(EU) 2022/932](eu/32022r0932).
 
 ### KAPITTEL IV
+
 VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL VIRKSOMHETER
 
 ### Artikkel 13. Krav til virksomheter
@@ -469,6 +474,7 @@ Kravene fastsatt i artikkel 13 nr. 1 får ikke anvendelse på virksomheter som b
 k ►**M2** Norske underposisjoner: 29.32 eller 35.03. ◄**M2**
 
 ### KAPITTEL V
+
 TILLEGGSKRAV VED INNFØRSEL TIL UNIONEN AV VISSE VARER BEREGNET PÅ KONSUM
 
 ### Artikkel 15. Krav til forsendelser av ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt, mekanisk utbeinet kjøtt og kjøttprodukter samt råstoffer beregnet på produksjon av gelatin og kollagen
@@ -550,6 +556,7 @@ n Norske underposisjoner: 03.01, 03.02, 03.03, 03.04, 03.05, 03.06, 03.07, 03.08
 o Norske underposisjoner: 15.17, 15.18, 16.01.00, 16.02, 16.03.00, 16.04, 16.05, 17.02, 17.04, 18.06, 19.01, 19.02, 19.04, 19.05, 20.01, 20.04, 20.05, 20.08, 21.01, 21.03, 21.04, 21.05.00, 21.06, 22.02 eller 22.08.
 
 ### KAPITTEL VI
+
 VILKÅR FOR INNFØRSEL TIL UNIONEN MED HENSYN TIL SERTIFISERING OG ATTESTERING
 
 ### Artikkel 21. Offisielle sertifikater
@@ -652,6 +659,7 @@ bb ►**M2** Norske underposisjoner: 39.33, 39.26 eller 96.02. ◄**M2**
 5. de bearbeidede produktene av animalsk opprinnelse som brukes i de sammensatte produktene, har gjennomgått minst en av behandlingene nevnt i artikkel 163 nr. 1 i kommisjonsforordning [(EU) 2020/692](eu/32020r0692), med en kort beskrivelse av alle gjennomførte prosesser og temperaturer som er anvendt på det sammensatte produktet.
 
 ### KAPITTEL VII
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 23. Henvisninger
@@ -687,6 +695,7 @@ Utferdiget i Brussel 6. september 2022.
 Dette vedlegget fastsetter hvilke opplysninger om kontrollplanen, og den oppdaterte kontrollplanen, for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer som et tredjeland skal framlegge med henblikk på å bli oppført og forbli oppført på listen nevnt i artikkel 7.
 
 ### DEL I
+
 Generelle krav med hensyn til innlevering av kontrollplan, og oppdatert kontrollplan, for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer
 
 1\. Kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer som et tredjeland skal framlegge, sammen med anmodningen om oppføring på listen nevnt i artikkel 7 for spesifikke dyr bestemt til næringsmiddelproduksjon eller produkter av animalsk opprinnelse, skal inneholde de opplysningene som er angitt i del II i dette vedlegget.
@@ -700,6 +709,7 @@ Generelle krav med hensyn til innlevering av kontrollplan, og oppdatert kontroll
 5\. Kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer skal sendes til Kommisjonen elektronisk, i det formatet som er beskrevet i veiledningsdokumentene nevnt i nr. 4, eller i et annet format, forutsatt at den inneholder alle opplysningene oppført i del II og III, der det er aktuelt.
 
 ### DEL II
+
 Tredjelandenes kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer – nødvendige opplysninger
 
 ###### A. Bruksområdet for kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer
@@ -803,6 +813,7 @@ Tredjelandenes kontrollplan for farmakologisk virksomme stoffer, plantevernmidle
 En beskrivelse av systemet som er innført for å sikre at ingen antimikrobielle stoffer, hvis bruk i dyr bestemt for næringsmiddelproduksjon er forbudt i Unionen i samsvar med tabell 2 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037), brukes til behandling av tarmene.
 
 ### DEL III
+
 Oppdatert kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer – nødvendige opplysninger
 
 ###### A. Endringer som er innført i den oppdaterte kontrollplanen for farmakologisk virksomme stoffer, plantevernmidler og forurensende stoffer
@@ -819,6 +830,7 @@ Oppdatert kontrollplan for farmakologisk virksomme stoffer, plantevernmidler og 
 4. For hvert av resultatene som viser manglende overholdelse, en beskrivelse av resultatet av de oppfølgingsundersøkelsene som er gjennomført av vedkommende myndigheter, hva som var årsaken til manglende overholdelse, og eventuelle tiltak som er truffet for å hindre at dette gjentar seg.
 
 ### VEDLEGG II
+
 Sammenligningstabell nevnt i artikkel 24 nr. 2
 
 | *Delegert forordning [(EU) 2019/625](eu/32019r0625)* | *Denne forordningen* |

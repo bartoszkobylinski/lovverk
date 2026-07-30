@@ -15,7 +15,7 @@ xml_hash: "eae5a6282b06f7331418d71c8def5dddfac8619b2032839db9b4c5e6241b6692"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,7 +101,8 @@ Denne forskrift trer i kraft straks.
 ### RÅDSFORORDNING (EF) nr. 765/2006
 
 ### RÅDSFORORDNING (EF) nr. 765/2006 av
-18. mai 2006
+
+18\. mai 2006
 om restriktive tiltak i lys av situasjonen i Belarus og Belarus' medvirkning i Russlands aggresjon mot Ukraina
 
 ### Artikkel 1
@@ -1230,6 +1231,7 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Personer som det er henvist til i artikkel 2 nr. 1
 
 EUs konsoliderte liste over personer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
@@ -1239,6 +1241,7 @@ Listeførte med landkode («programme») BLR (Belarus), er listeført under denn
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.
 
 ### VEDLEGG II
+
 Internettsider for opplysninger om kompetente myndigheter som henvist til i artiklene 3, 4 nr. 2 og 5, samt adresse for å notifisere den EU-kommisjonen
 
 *Websites for information on the competent authorities referred to in Articles 3, 4(2), and 5, and address for notifications to the European Commission*
@@ -1376,6 +1379,7 @@ Tel.: (32 2) 295 55 85
 Fax: (32 2) 299 08 73
 
 ### VEDLEGG III
+
 Liste over utstyr som kan bli brukt til intern undertrykking, som henvist til i artikkel 1a og artikkel 1b
 
 *List of equipment which might be used for internal repression as referred to in Article 1a and Article 1b*
@@ -1500,6 +1504,7 @@ Production equipment specially designed for the items specified in this list.
 Specific technology for the development, production or use of the items specified in this list.
 
 ### Vedlegg IV
+
 Utstyr, teknologi og programvare som det er henvist til i [artiklene 1c](forskrift/2006-09-08-1041/a1c) og [1d](forskrift/2006-09-08-1041/a1d)
 
 *General note*
@@ -1547,6 +1552,7 @@ Equipment, technology and software falling within those categories is within the
 For the purpose of this Annex, «monitoring» means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
 
 ### Vedlegg V
+
 Fysiske og juridiske personer, enheter og organer som det er henvist til i artiklene 1e (7), 1f (7) og 1fa (1)
 
 - Belarus Ministry of Defence
@@ -1576,6 +1582,7 @@ Fysiske og juridiske personer, enheter og organer som det er henvist til i artik
 - Volatavto OJSC
 
 ### Vedlegg Va
+
 Varer og teknologi som det er henvist til i artiklene 1f nr. 1 og 1fa nr. 1
 
 ### Part A
@@ -3476,11 +3483,13 @@ X.E.X.004 «Technology» for the «use» of portable electric generators control
 | 8807 30 | Other parts of aeroplanes, helicopters or unmanned aircraft |
 
 ### Vedlegg Vb
+
 Partnerland som det er henvist til i artiklene 1e(4), 1f(4) og 1fc(4)
 
 [...]
 
 ### Vedlegg Vba
+
 Land som det er henvist til i artiklene 8g nr. 1 og 8ga nr. 2
 
 - NORWAY
@@ -3496,6 +3505,7 @@ Land som det er henvist til i artiklene 8g nr. 1 og 8ga nr. 2
 - ICELAND
 
 ### Vedlegg Vc
+
 Skjemaer som nevnt i artikkel 1fb
 
 ### A. Model for supply, transfer or export notification, application and authorisation forms
@@ -3515,6 +3525,7 @@ Skjemaer som nevnt i artikkel 1fb
 [pdf-fil](static/SF/sf-20060908-1041-vc-03-01.pdf)
 
 ### Vedlegg VI
+
 Varer som brukes til produksjon eller framstilling av tobakksprodukter som det er henvist til i artikkel 1g
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3526,6 +3537,7 @@ Varer som brukes til produksjon eller framstilling av tobakksprodukter som det e
 | Other knives and cutting blades, for machines or for mechanical appliances | ex 8208 90 00 |
 
 ### Vedlegg VII
+
 Mineralske produkter som det er henvist til i artikkel 1h
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3538,6 +3550,7 @@ Mineralske produkter som det er henvist til i artikkel 1h
 | Bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch | 2715 |
 
 ### Vedlegg VIII
+
 Kaliumklorid (pottaske)-produkter som det er henvist til i artikkel 1i
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3548,6 +3561,7 @@ Kaliumklorid (pottaske)-produkter som det er henvist til i artikkel 1i
 | Other fertilisers containing potassium chloride | ex 3105 90 20<br>ex 3105 90 80 |
 
 ### Vedlegg IX
+
 Kredittinstitusjoner som det er henvist til i artiklene 1j og 1k
 
 - Belarusbank
@@ -3557,6 +3571,7 @@ Kredittinstitusjoner som det er henvist til i artiklene 1j og 1k
 - Development Bank of the Republic of Belarus
 
 ### Vedlegg X
+
 Treprodukter som det er henvist til i artikkel 1o
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3564,6 +3579,7 @@ Treprodukter som det er henvist til i artikkel 1o
 | Wood and articles of wood; wood charcoal | 44 |
 
 ### Vedlegg XI
+
 Sementprodukter som det er henvist til i artikkel 1p
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3572,6 +3588,7 @@ Sementprodukter som det er henvist til i artikkel 1p
 | Articles of cement, concrete or artificial stone, whether or not reinforced | 6810 |
 
 ### Vedlegg XII
+
 Jern- og stålprodukter som det er henvist til i artikkel 1q
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3580,6 +3597,7 @@ Jern- og stålprodukter som det er henvist til i artikkel 1q
 | Articles of iron and steel | 73 |
 
 ### Vedlegg XIII
+
 Gummiprodukter som det er henvist til i artikkel 1r
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3587,6 +3605,7 @@ Gummiprodukter som det er henvist til i artikkel 1r
 | New pneumatic tyres, of rubber | 4011 |
 
 ### Vedlegg XIV
+
 Maskiner som det er henvist til i artikkel 1s
 
 | *Name of the good* | *Combined Nomenclature (CN) code* |
@@ -3664,6 +3683,7 @@ Maskiner som det er henvist til i artikkel 1s
 | Confidential products under Chapter 85; goods under Chapter 85 transported by post or by parcel post (extra)/reconstituted code for statistical distribution |  |
 
 ### Vedlegg XIVa
+
 Varer og teknologi som det er henvist til i artikkel 1s nr. 1a om forbud mot transitt gjennom Belarus
 
 | *CN Code* | *Description* |
@@ -3685,6 +3705,7 @@ Varer og teknologi som det er henvist til i artikkel 1s nr. 1a om forbud mot tra
 | 8507 10 | Lead-acid accumulators of a kind used for starting piston engines |
 
 ### Vedlegg XV
+
 Juridiske personer, enheter og organer som det er henvist til i artikkel 1zb
 
 | *Name of the legal person, entity or body* | *Date of application* |
@@ -3695,6 +3716,7 @@ Juridiske personer, enheter og organer som det er henvist til i artikkel 1zb
 | Belinvestbank (Belarusian Bank for Development and Reconstruction) | 14 June 2022 |
 
 ### Vedlegg XVI
+
 Skytevåpen og andre våpen som det er henvist til i artikkel 1ba
 
 | *CN Code* | *Description* |
@@ -3703,6 +3725,7 @@ Skytevåpen og andre våpen som det er henvist til i artikkel 1ba
 | ex 9304 | Other arms (for example, spring, air or gas guns and pistols), excluding those of heading 9307 |
 
 ### Vedlegg XVII
+
 Varer og teknologi som det er henvist til i artikkel 1sa
 
 | *CN Code* | *Description* |
@@ -3724,6 +3747,7 @@ Varer og teknologi som det er henvist til i artikkel 1sa
 | 9026 00 00 | Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014, 9015, 9028 or 9032 |
 
 ### Vedlegg XVIII
+
 Varer og teknologi som kan bidra til å forbedre Belarus' industrielle kapasitet som det er henvist til i artikkel 1bb
 
 | *CN Code* | *Description* |
@@ -4158,6 +4182,7 @@ Varer og teknologi som kan bidra til å forbedre Belarus' industrielle kapasitet
 | Ex 98 | Complete industrial plants, except plants for the production of food and drinks, pharmaceuticals, medicines and medical devices |
 
 ### Vedlegg XIX
+
 Varer og teknologi som det er henvist til i artikkel 1bb nr. 1 om forbud mot transitt gjennom Belarus
 
 | *CN Code* | *Description* |
@@ -4168,6 +4193,7 @@ Varer og teknologi som det er henvist til i artikkel 1bb nr. 1 om forbud mot tra
 | 8705 10 | Crane lorries |
 
 ### Vedlegg XX
+
 Varer og teknologi som er tilpasset bruk i raffinering av olje og omdanning til væske av naturgass som referert til i artikkel 1gc
 
 |  | *CN code* | *Product* |
@@ -4177,6 +4203,7 @@ Varer og teknologi som er tilpasset bruk i raffinering av olje og omdanning til 
 | ex | 8419 60 00 | Refinery fuel gas treatment and sulphur recovery technology (including amine scrubbing units, sulphur recovery units, tail gas treatment units) |
 
 ### Vedlegg XXI
+
 Gull som det er henvist til i artikkel 1rb nr. 1 og nr. 2
 
 |  | *CN code* | *Description* |
@@ -4186,6 +4213,7 @@ Gull som det er henvist til i artikkel 1rb nr. 1 og nr. 2
 | ex | 7118 90 | Gold coins |
 
 ### Vedlegg XXII
+
 Gull som det er henvist til i artikkel 1rb nr. 3
 
 |  | *CN code* | *Name of the good* |
@@ -4194,6 +4222,7 @@ Gull som det er henvist til i artikkel 1rb nr. 3
 | ex | 7114 | Articles of goldsmiths' or silversmiths' wares and parts thereof, of gold, containing gold, or of metal clad with gold |
 
 ### Vedlegg XXIII
+
 Råolje som det er henvist til i artikkel 1h
 
 |  | *CN code* | *Name of the good* |
@@ -4201,6 +4230,7 @@ Råolje som det er henvist til i artikkel 1h
 | ex | 2709 00 | Petroleum oils and oils obtained from bituminous minerals, crude other than natural gas condensates of subheading CN 2709 00 10 from liquefied natural gas production plants |
 
 ### Vedlegg XXIV
+
 Varer og teknologi beregnet på maritim sikkerhet om det er henvist til i artikkel 1fd
 
 ### Category VI – Marine
@@ -4211,6 +4241,7 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 2. Equipment contained in Chapter 5 (radio-communication equipment) of the applicable Commission Implementing Regulation on design, construction and performance requirements and testing standards for marine equipment adopted in accordance with Article 35(2) of [Directive 2014/90/EU](eu/32014l0090) of the European Parliament and of the Council of 23 July 2014 on marine equipment.
 
 ### Vedlegg XXV
+
 Luksusvarer som det er henvist til i artikkel 1ga
 Explanatory note
 
@@ -4334,6 +4365,7 @@ The nomenclature codes are taken from the Combined Nomenclature as defined in Ar
 | ex | 9013 80 90 | Red Dot Sights |
 
 ### Vedlegg XXVI
+
 Programvare som det er henvist til i artikkel 1jc nr. 4
 
 Software for the management of enterprises, i.e. systems that digitally represent and steer all processes happening in an enterprise, including:
@@ -4357,6 +4389,7 @@ Design and Manufacturing Software used in the areas of architecture, engineering
 - typical components of above-mentioned suites.
 
 ### Vedlegg XXVII
+
 Varer som gjør det mulig for Belarus å diversifisere sine inntektskilder som det er henvist til i artikkel 1ra
 
 | *CN Code* | *Name of the good* |
@@ -4549,6 +4582,7 @@ Varer som gjør det mulig for Belarus å diversifisere sine inntektskilder som d
 | 9406 | Prefabricated buildings, whether or not complete or already assembled |
 
 ### Vedlegg XXVIII
+
 Varer og teknologi som det er henvist til i artikkel 8g
 
 | *CN Code* | *Description* |
@@ -4592,6 +4626,7 @@ Varer og teknologi som det er henvist til i artikkel 8g
 1 Provided it still contains 70 % or more by weight of petroleum oils or bituminous mineral oils.
 
 ### Vedlegg XXIX
+
 Varer og teknologi som det er henvist til i artikkel 1rc
 
 ### Part A
@@ -4620,6 +4655,7 @@ Varer og teknologi som det er henvist til i artikkel 1rc
 | Ex | 9101 | Wristwatches, pocket-watches and other watches, including stopwatches, incorporating diamonds, with case of precious metal or of metal clad with precious metal |
 
 ### Vedlegg XXX
+
 Felles høyt prioriterte varer og teknologi som det er henvist til i artikkel 8g
 
 | *CN Code* | *Description* |

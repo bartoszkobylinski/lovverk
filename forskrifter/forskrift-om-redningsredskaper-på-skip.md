@@ -15,7 +15,7 @@ xml_hash: "4bfcfdf8f5ddada732aa899bdaca3a63e825b84cc230b993ff3ee01440b73620"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -230,9 +230,11 @@ Ved ikrafttredelsen oppheves samtidig
 Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs](traktat/1974-11-01-1), 1974 (SOLAS) kapittel III om redningsredskaper og -arrangementer, slik Sjøfartsdirektoratet tolker denne delen av konvensjonen tatt inn i konsolidert utgave 2020 med endringer til og med IMO-resolusjon MSC.496(105).
 
 ### KAPITTEL III
+
 REDNINGSREDSKAPER OG -ARRANGEMENTER
 
 ### Del A
+
 Generelle bestemmelser
 
 ### Regel 1 Anvendelse
@@ -331,6 +333,7 @@ Generelle bestemmelser
 Administrasjonen skal kreve at redningsredskaper gjennomgår de produksjonsprøvene som er nødvendige for å sikre at de er av samme standard som den godkjente prototypen.
 
 ### Del B
+
 Krav til skip og redningsredskaper
 
 ### Avsnitt I – Passasjerskip og lasteskip
@@ -955,6 +958,7 @@ Inngående undersøkelse, driftsprøving og overhaling som kreves i nr. 11.1 til
 23 Det vises til «Recommendation on testing of life-saving appliances» (resolusjon A.689(17) med endringer). For redningsredskaper som er installert 1. juli 1999 eller senere, vises det til «Revised Recommendations on testing of life-saving appliances» (resolusjon MSC.81(70) med endringer).
 
 ### Avsnitt II – Passasjerskip
+
 (Tilleggskrav)
 
 ### Regel 21 Redningsfarkoster og MOB-båter
@@ -1259,6 +1263,7 @@ Alle redningsvester på roro-passasjerskip skal være utstyrt med et lys som opp
 3 Skadekontrolløvelser skal utføres som fastsatt i regel II-1/19-1.
 
 ### Avsnitt III – Lasteskip
+
 (Tilleggskrav)
 
 ### Regel 31 Redningsfarkoster og MOB-båter
@@ -1482,6 +1487,7 @@ Instruksene for vedlikehold av redningsredskaper om bord skal være lette å for
 8 Alarminstruksen som brukes på passasjerskip skal foreligge i et godkjent format.
 
 ### Del C
+
 Alternative utforminger og arrangementer
 
 ### Regel 38 Alternative utforminger og arrangementer

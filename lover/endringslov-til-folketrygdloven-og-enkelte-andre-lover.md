@@ -15,7 +15,7 @@ xml_hash: "080ce7a65ed9ccc3a4a278de3e07f012c0cf85209f9f6c50d412df900f3188bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,6 +31,7 @@ I [lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd gjøres følgen
 – – –
 
 ## V
+
 Ikrafttredelse. Overgangsregler.
 
 1. Endringene i [folketrygdloven §§ 6-3](lov/1997-02-28-19/§6-3), [8-10](lov/1997-02-28-19/§8-10), [8-47](lov/1997-02-28-19/§8-47), [8-49](lov/1997-02-28-19/§8-49), [9-10](lov/1997-02-28-19/§9-10), [22-17](lov/1997-02-28-19/§22-17) og [23-4](lov/1997-02-28-19/§23-4) trer i kraft 1. januar 2020. Oppheving av § 6-3 første ledd bokstavene d og e gis ikke virkning for saker der vedtak fattes før ikrafttredelsen. Opphevingen av § 8-49 gis ikke virkning i saker der en tiltaksdeltaker før 1. januar 2020 har valgt å motta tiltakspenger i stedet for dagpenger.

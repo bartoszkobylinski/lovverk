@@ -15,7 +15,7 @@ xml_hash: "755a4a1644668709f3b067c6c7b6b73199b4e0b0c2456ced749a0fd80eae63dd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1382,7 +1382,7 @@ Kjemiske betegnelser på enkelte substanser er oppgitt etter tabellen.
 | AM-2201 2-hydroksyindol metabolitt | (1-(5-fluorpentyl)-2-hydroksy-1H-indol-3-yl)(naftalen-1-yl)metanon |
 | AM-2201 5-hydroksyindol metabolitt | (1-(5-fluorpentyl)-5-hydroksy-1H-indol-3-yl)(naftalen-1-yl)metanon |
 | AM-2201 6-hydroksyindol metabolitt | (1-(5-fluorpentyl)-6-hydroksy-1H-indol-3-yl)(naftalen-1-yl)metanon |
-| AM-2201 7-hydroksyindol metabolitt | [1-(5-fluorpentyl)-7-hydroksy-1H-indol-3-yl](1-naftyl)metanon;<br>[1-(5-fluorpentyl)-7-hydroksyindol-3-yl]-naftalen-1-ylmetanon;<br>[1-(5-fluorpentyl)-7-hydroksyindol-3-yl]-naftalen-1-ylmetanon |
+| AM-2201 7-hydroksyindol metabolitt | [1-(5-fluorpentyl)-7-hydroksy-1H-indol-3-yl]\(1-naftyl)metanon;<br>[1-(5-fluorpentyl)-7-hydroksyindol-3-yl]-naftalen-1-ylmetanon;<br>[1-(5-fluorpentyl)-7-hydroksyindol-3-yl]-naftalen-1-ylmetanon |
 | AM-2201 kloranalog | (1-(5-klorpentyl)-1H-indol-3-yl)(naftalen-1-yl)metanon |
 | AM-679 | (1-pentyl-1H-indol-3-yl)(2-jodfenyl)metanon |
 | AM-694 | (1-(5-fluorpentyl)-1H-indol-3-yl)(2-jodfenyl)metanon |
@@ -1605,7 +1605,7 @@ Kjemiske betegnelser på enkelte substanser er oppgitt etter tabellen.
 | Trefentanil | N-{1-[2-(4-etyl-5-okso-4,5-dihydro-1H-tetrazol-1-yl)etyl]-4-fenylpiperidin-4-yl}-N-(2-fluorfenyl)propanamid |
 | U-47700 | 3,4-dikloro-N-(2-dimetylamino-sykloheksyl)-N-metyl-benzamid |
 | UR-144 | (1-pentyl-1H-indol-3-yl)(2,2,3,3-tetrametylsyklopropyl)metanon |
-| XLR-11 | [1-(5-fluoropentyl)-1H-indol-3-yl](2,2,3,3-tetrametylsyklopropyl)metanon |
+| XLR-11 | [1-(5-fluoropentyl)-1H-indol-3-yl]\(2,2,3,3-tetrametylsyklopropyl)metanon |
 | Zopiklon | [6-(5-klor-2-pyridinyl)-5-okso-7H-pyrrolo[3,4-b]pyrazin-7-yl] 4-metylpiperazin-1-karboksylat |
 
 ### Følgende grupper av stoffer regnes også som narkotika

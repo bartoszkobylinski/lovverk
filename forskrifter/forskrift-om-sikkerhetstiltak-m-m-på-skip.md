@@ -15,7 +15,7 @@ xml_hash: "cae2b0ad2b670882cc6910d205d6b71001cb978d923bc13356db9c8012483dd9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -672,9 +672,11 @@ Landgangen, eller en prototype, skal være prøvebelastet i horisontal stilling 
 Nedenfor gjengis til informasjon Sjøfartsdirektoratets oversettelse av den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) kapittel II-1 om bygging – konstruksjon, oppdeling og stabilitet, maskineri og elektriske anlegg, tatt inn i konsolidert utgave 2024 med endringer til og med IMO-resolusjon MSC.532(107).
 
 ### KAPITTEL II-1
+
 BYGGING – KONSTRUKSJON, OPPDELING OG STABILITET, MASKINERI OG ELEKTRISKE ANLEGG
 
 ### Del A
+
 Generelle bestemmelser
 
 ### Regel 1 Anvendelse
@@ -862,6 +864,7 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i del C
     etter hva som er relevant.
 
 ### Del A-1
+
 Skipskonstruksjon
 
 ### Regel 3-1 Strukturelle, mekaniske og elektriske krav til skip
@@ -1294,6 +1297,7 @@ Med unntak av det som er angitt i regel I/11(c), skal alle rimelige tiltak iverk
 28 Det vises til «Guidelines for lifting appliances» (MSC.1/Circ.1663).
 
 ### Del B
+
 Oppdeling og stabilitet
 
 ### Regel 4 Generelle bestemmelser
@@ -1346,6 +1350,7 @@ Når det er planlagt å montere dekk, indre hud eller langskipsskott med tilstre
 2. For spesialskip gjelder «Code of safety for special purpose ships», 2008 (resolusjon MSC.266(84) med endringer).
 
 ### Del B-1
+
 Stabilitet
 
 ### Regel 5 Intaktstabilitet
@@ -1850,6 +1855,7 @@ Passasjerskip bygget før 1. januar 2014 skal oppfylle kravene i nr. 3.1 ikke se
 38 Det vises til «Guidelines on operational information for masters of passenger ships for safe return to port by own power or under tow» (MSC.1/Circ.1400) for skip bygget 1. januar 20214 eller senere, men før 13. Mai 2016, eller «Revised Guidelines on operational information for masters of passenger ships for safe return to port» (MSC.1/Circ.1532) for skip bygget 13. Mai 2016 eller senere, eller «Revised Guidelines on operational information for masters in case of flooding for passenger ships constructed before 1 January 2014» (MSC.1/Circ.1589).
 
 ### Del B-2
+
 Oppdeling, vanntett og værtett integritet
 
 ### Regel 9 Dobbeltbunner i passasjerskip og andre lasteskip enn tankskip
@@ -2358,6 +2364,7 @@ Indikatorer skal tilveiebringes på navigasjonsbroen for alle porter i skipsside
 TV-overvåkning og et vannlekkasjedeteksjonssystem skal arrangeres for å gi en indikasjon på navigasjonsbroen og på maskinerikontrollstasjonen om enhver lekkasje gjennom innvendige og utvendige baugporter og -dører, akterporter og -dører eller enhver annen port i skipssiden som kan føre til fylling av spesiallasterom eller roro-rom.
 
 ### Del B-3
+
 Fastsettelse av oppdelingslastelinje for passasjerskip
 
 ### Regel 18 Fastsettelse, avmerking og innføring av oppdelingslastelinjer for passasjerskip
@@ -2391,6 +2398,7 @@ Uansett plasseringen av oppdelingslastelinjemerkene, skal et skip aldri lastes s
 Ikke i noe tilfelle skal et skip lastes slik når det er i saltvann, at det oppdelingslastelinjemerket som gjelder for vedkommende reise og fartsmønster, kommer under vann.
 
 ### Del B-4
+
 Stabilitetsstyring
 
 ### Regel 19 Skadekontrollopplysninger[^42]
@@ -2670,6 +2678,7 @@ Som et alternativ til vannstandsdetektoren i en høyde på minst 0,3 m som nevnt
 - .2 lensenivåsensoren utløser en lyd- og lysalarm på kommandobroen som skiller seg tydelig fra alarmen som utløses av den andre vannstandsdetektoren som er montert i lasterommet.
 
 ### Del C
+
 Maskinerianlegg
 
 (Unntatt når annet er uttrykkelig fastsatt, får del C anvendelse på passasjerskip og lasteskip)
@@ -3226,6 +3235,7 @@ Det skal finnes en maskinistalarm som betjenes enten fra maskinkontrollrommet el
 Elektriske nødkraftkilder, brannpumper, lensepumper, unntatt slike som særlig betjener rom forut for kollisjonsskottet, eventuelle fastmonterte brannslokkingsanlegg som kreves etter kapittel II-2, og andre nødinstallasjoner som er vesentlige for skipets sikkerhet, unntatt ankerspill, skal ikke installeres forut for kollisjonsskottet.
 
 ### Del D
+
 Elektriske installasjoner
 
 (Unntatt når annet er uttrykkelig fastsatt, får del D anvendelse på passasjerskip og lasteskip)
@@ -3785,6 +3795,7 @@ På passasjerskip skal fordelingssystemer være slik innrettet at brann i en hvi
 60 Dette viser til gjeldende kapittel II-2 før 1. juli 2002. Tilsvarende i det endrede kapittel II-2 er 3.32.
 
 ### Del E
+
 Tilleggskrav for periodisk ubemannede maskinrom
 
 (Del E får anvendelse på lasteskip bortsett fra at regel 54 gjelder passasjerskip)
@@ -3958,6 +3969,7 @@ Når forbrenningsmotorer brukes til hovedframdrift, skal det finnes midler til �
 Passasjerskip skal vurderes særskilt av administrasjonen når det gjelder spørsmål om deres maskinrom kan være periodisk ubemannet, og om det i så fall er nødvendig å stille krav i tillegg til det som er fastsatt i disse reglene for å oppnå tilsvarende sikkerhet som for normalt bemannede maskinrom.
 
 ### Del F
+
 Alternative utforminger og arrangementer
 
 ### Regel 55 Alternative utforminger og arrangementer
@@ -4014,6 +4026,7 @@ Administrasjonen skal oversende organisasjonen relevante opplysninger om alterna
 Når forutsetningene og driftsbegrensningene som ble fastsatt for alternative utforminger og arrangementer, er endret, skal den tekniske analysen utføres under de endrede forholdene og skal godkjennes av administrasjonen.
 
 ### Del G
+
 Skip som bruker drivstoff med lavt flammepunkt
 
 ### Regel 56 Anvendelse

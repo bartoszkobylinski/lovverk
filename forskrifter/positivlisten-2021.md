@@ -17,7 +17,7 @@ xml_hash: "a35e17b944e41cf4a6b26307c84b9edc41c267b36aeb249adecfdb2245eed53f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,6 +82,7 @@ som endret ved:
 - ►**M2** Kommisjonsforordning [(EU) 2022/1322](eu/32022r1322) av 25. juli 2022
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/632
+
 av 13. april 2021
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til listene over dyr, produkter av animalsk opprinnelse, avlsmateriale, animalske biprodukter og avledede produkter, sammensatte produkter samt høy og halm som omfattes av offentlig kontroll på grensekontrollstasjoner, og om oppheving av Kommisjonens gjennomføringsforordning (EU) 2019/2007 og kommisjonsvedtak 2007/275/EF
 
@@ -161,6 +162,7 @@ Utferdiget i Brussel 13. april 2021.
 | *President* |  |
 
 ### ►**M2** VEDLEGG
+
 LISTE OVER DYR, PRODUKTER AV ANIMALSK OPPRINNELSE, AVLSMATERIALE, ANIMALSKE BIPRODUKTER OG AVLEDEDE PRODUKTER, SAMMENSATTE PRODUKTER SAMT HØY OG HALM SOM OMFATTES AV OFFENTLIG KONTROLL PÅ GRENSEKONTROLLSTASJONENE SOM NEVNT I ARTIKKEL 3
 
 *Merknader:*
@@ -214,6 +216,7 @@ LISTE OVER DYR, PRODUKTER AV ANIMALSK OPPRINNELSE, AVLSMATERIALE, ANIMALSKE BIPR
 13 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
 
 ### KAPITTEL 1
+
 Levende dyr
 
 **Merknad til kapittel 1 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -267,6 +270,7 @@ Denne posisjonen omfatter ikke dyr som hører til sirkus, menasjerier eller andr
 |  |  |  | 01.06.90 (andre): alle andre levende dyr som ikke er oppført andre steder, men ikke pattedyr, krypdyr, fugler og insekter. Levende frosker, som enten er beregnet på å bli holdt levende i vivarier eller skal avlives med tanke på konsum, hører inn under denne posisjonen. |
 
 ### KAPITTEL 2
+
 Kjøtt og spiselig slakteavfall
 
 **Merknad til kapittel 2 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -307,6 +311,7 @@ Kjøtt og spiselig slakteavfall
 14 Kommisjonsforordning [(EF) nr. 1125/2006](eu/32006r1125) av 21. juli 2006 om tariffering av visse varer i Den kombinerte nomenklatur (EUT L 200 av 22.7.2006, s. 3).
 
 ### KAPITTEL 3
+
 Fisk og krepsdyr, bløtdyr og andre virvelløse akvatiske dyr
 
 **Generelle merknader**
@@ -350,6 +355,7 @@ Alle produkter i dette kapittelet omfattes av offentlig kontroll.
 | 0309 | 03.09.1000; 03.09.9000 | Mel og pelleter av fisk, krepsdyr, bløtdyr og andre virvelløse dyr som lever i vann, egnet til konsum | Alle. |
 
 ### KAPITTEL 4
+
 Melk og melkeprodukter, fugleegg, naturlig honning og spiselige produkter av animalsk opprinnelse som ikke er angitt eller tatt med andre steder
 
 **Merknader til kapittel 4 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -433,6 +439,7 @@ Posisjon 04.10 omfatter ikke dyreblod, uansett om det er spiselig eller ikke, fl
 |  |  |  | Denne posisjonen omfatter spiselige bein og beinprodukter som konsumeres direkte (f.eks. beinmel, beinpulver, kraftbein), dersom de kommer fra skrotter som er blitt slaktet for konsum. |
 
 ### KAPITTEL 5
+
 Produkter av animalsk opprinnelse som ikke er angitt eller tatt med andre steder
 
 **Generelle merknader**
@@ -500,6 +507,7 @@ Posisjon 05.05 omfatter også pulver, mel og avfall av fjør og deler av fjør.�
 |  |  |  | Omfatter mel, pulver og pelleter av insekter, uegnet til konsum. |
 
 ### KAPITTEL 6
+
 Levende trær og andre planter, løker, røtter og lignende, avskårne blomster og blad til pryd
 
 **Generelle merknader**
@@ -520,6 +528,7 @@ Denne underposisjonen omfatter også produkter bestående av mycelium som ikke e
 | ex 0602 90 10 | ex 06.02.9010 | Mycelium | Bare hvis det inneholder bearbeidet husdyrgjødsel, og det er fastsatt særlige krav i rad 1 i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 9
+
 KAFFE, TE, MATÉ OG KRYDDERIER
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -528,6 +537,7 @@ KAFFE, TE, MATÉ OG KRYDDERIER
 | ex 0901 | ex 09.01.1100;<br>ex 09.01.1200;<br>ex 09.01.2100;<br>ex 09.01.2200;<br>ex 09.01.9000 | Kaffe, også brent eller koffeinfri; skall og hinner av kaffe; kaffeerstatninger med innhold av kaffe, uansett blandingsforhold | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 12
+
 Oljeholdige frø og frukter, forskjellige andre frø og frukter, planter til industriell eller medisinsk bruk, halm og fôrplanter
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -538,6 +548,7 @@ Oljeholdige frø og frukter, forskjellige andre frø og frukter, planter til ind
 | ex 1214 90 | ex 12.14.9091 | Kålrot, fôrbeter og andre fôrvekster, høy, luserne (alfalfa), kløver, esparsett, fôrkål, lupiner, vikker og lignende fôrprodukter, også som pelleter: unntatt mel og pelleter av luserne (alfalfa) | Bare høy. |
 
 ### KAPITTEL 15
+
 Animalske, vegetabilske eller mikrobielle oljer og fettstoffer samt spaltningsprodukter derav; tilberedt spisefett; animalsk og vegetabilsk voks
 
 **Generelle merknader**
@@ -611,6 +622,7 @@ Posisjonen omfatter også hydrogenerte, interforestrede, reforestrede eller elai
 |  |  |  | Særlige krav er fastsatt i rad 18 (fettderivater) i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 16
+
 Tilberedte produkter av kjøtt, fisk, krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller insekter
 
 **Merknader til kapittel 16 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -633,6 +645,7 @@ For tilberedte produkter som inneholder lever, får ikke bestemmelsene i andre p
 | 1605 | 16.05 | Krepsdyr, bløtdyr og andre virvelløse dyr som lever i vann, tilberedte eller konserverte. | Omfatter helt eller delvis tilberedte snegler, konserverte krepsdyr eller andre virvelløse akvatiske dyr samt muslingpulver. |
 
 ### KAPITTEL 17
+
 Sukker og sukkervarer
 
 **Merknader til kapittel 17 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -650,6 +663,7 @@ Sukker og sukkervarer
 | ex 1704 | ex 17.04 | Sukkervarer (herunder hvit sjokolade) uten innhold av kakao | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 18
+
 Kakao og tilberedte produkter av kakao
 
 **Merknader til kapittel 18 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -666,6 +680,7 @@ Kakao og tilberedte produkter av kakao
 | ex 1806 | ex 18.06 | Sjokolade og andre næringsmidler som inneholder kakao | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 19
+
 Tilberedte produkter av korn, mel, stivelse eller melk; bakverk
 
 **Merknader til kapittel 19 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -698,6 +713,7 @@ Tilberedte produkter av korn, mel, stivelse eller melk; bakverk
 | ex 1905 | ex 19.05 | Brød, kaker, kjeks og annet bakverk, også med innhold av kakao; alterbrød, tomme kapsler til farmasøytisk bruk, forseglingsoblater, rispapir og liknende varer | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 20
+
 Tilberedte produkter av grønnsaker, frukt, nøtter eller andre plantedeler
 
 **Merknader til kapittel 20 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -716,6 +732,7 @@ Tilberedte produkter av grønnsaker, frukt, nøtter eller andre plantedeler
 | ex 2008 99 | ex 20.08.9901;<br>ex 20.08.9902;<br>ex 20.08.9903;<br>ex 20.08.9909 | Frukter, nøtter og andre spiselige plantedeler, tilberedte eller konserverte på annen måte, også tilsatt sukker eller annet søtningsstoff eller alkohol, ikke nevnt eller innbefattet annet sted. | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 21
+
 Diverse spiselige tilberedninger
 
 **Merknader til kapittel 21 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -747,6 +764,7 @@ Diverse spiselige tilberedninger
 | ex 2106 90 98 | ex 21.06.9098 | Andre næringsmidler som ikke er angitt eller tatt med andre steder | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 22
+
 Drikkevarer, sprit og eddik
 
 **Merknader til kapittel 22 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -762,6 +780,7 @@ Drikkevarer, sprit og eddik
 | ex 2208 70 | ex 22.08.7000 | Likører | Bare hvis de inneholder produkter av animalsk opprinnelse. |
 
 ### KAPITTEL 23
+
 Rester og avfall fra næringsmiddelindustrien, tilberedt fôr
 
 **Merknad til kapittel 23 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -786,6 +805,7 @@ Rester og avfall fra næringsmiddelindustrien, tilberedt fôr
 |  |  |  | Særlige krav til eggprodukter er fastsatt i rad 9 i tabell 1 i kapittel I avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 28
+
 Uorganiske kjemikalier, organiske eller uorganiske forbindelser av edelmetaller, av metaller av sjeldne jordarter, av radioaktive elementer eller av isotoper
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -797,6 +817,7 @@ Uorganiske kjemikalier, organiske eller uorganiske forbindelser av edelmetaller,
 |  |  |  | Særlige krav til trikalsiumfosfat er fastsatt i rad 7 i tabell 1 i kapittel I avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 29
+
 Organiske kjemikalier
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -815,6 +836,7 @@ Organiske kjemikalier
 | ex 2942 00 00 | ex 29.42.0000 | Andre organiske forbindelser | Utelukkende av animalsk opprinnelse. |
 
 ### KAPITTEL 30
+
 Legemidler
 
 **Generelle merknader**
@@ -842,6 +864,7 @@ Halvfabrikater er omfattet.
 |  |  |  | Omfatter farmasøytisk avfall, legemidler som er uegnet for sitt opprinnelige bruksformål. |
 
 ### KAPITTEL 31
+
 Gjødsel
 
 **Merknader til kapittel 31 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -863,6 +886,7 @@ Gjødsel
 |  |  |  | Særlige krav til bearbeidet husdyrgjødsel, avledede produkter fra bearbeidet husdyrgjødsel og guano fra flaggermus er fastsatt i rad 1 i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 32
+
 Garvestoff- eller fargeekstrakter, tanniner og deres derivater, farger, pigmenter og andre fargestoffer, maling og lakk, kitt og andre fyllings- og tetningsmidler, trykkfarger
 
 **Merknader til kapittel 32 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -876,6 +900,7 @@ Garvestoff- eller fargeekstrakter, tanniner og deres derivater, farger, pigmente
 | ex 3204 | ex 32.04 | Syntetiske, organiske fargestoffer, også kjemisk definerte; preparater som angitt i merknad 3 til dette kapittelet basert på syntetiske organiske fargestoffer; syntetiske organiske produkter til bruk som fluorescerende hvitemidler eller luminoforer, også kjemisk definerte | Utelukkende fargedispersjoner i melkefett som brukes til framstilling av næringsmidler eller fôr. |
 
 ### KAPITTEL 33
+
 Eteriske oljer og resinoider, parfyme-, kosmetikk- eller toalettpreparater
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -884,6 +909,7 @@ Eteriske oljer og resinoider, parfyme-, kosmetikk- eller toalettpreparater
 | ex 3302 | ex 33.02 | Blandinger av duftstoffer samt blandinger (herunder alkoholholdige løsninger) på basis av ett eller flere av disse stoffene, som brukes som råstoff i industrien; andre preparater basert på duftstoffer som brukes til produksjon av drikkevarer | Utelukkende aromaer i melkefett som brukes til framstilling av næringsmidler eller fôr. |
 
 ### KAPITTEL 35
+
 Eggehvitestoffer, modifisert stivelse, lim, enzymer
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -905,6 +931,7 @@ Eggehvitestoffer, modifisert stivelse, lim, enzymer
 | ex 3507 90 90 | ex 35.07.9000 | Andre enzymer enn løype og konsentrater av løype, lipoprotein-lipase eller *Aspergillus* alkalisk protease | Utelukkende av animalsk opprinnelse. |
 
 ### KAPITTEL 38
+
 Diverse kjemiske produkter
 
 **Merknader til kapittel 38 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -923,6 +950,7 @@ Diverse kjemiske produkter
 16 Europaparlaments- og rådsforordning [(EU) 2017/746](eu/32017r0746) av 5. april 2017 om medisinsk utstyr til in vitro-diagnostikk og om oppheving av direktiv [98/79/EF](eu/31998l0079) og kommisjonsbeslutning [2010/227/EU](eu/32010d0227) (EUT L 117 av 5.5.2017, s. 176).
 
 ### KAPITTEL 39
+
 PLAST OG PRODUKTER AV PLAST; GUMMI OG PRODUKTER AV GUMMI
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -933,6 +961,7 @@ PLAST OG PRODUKTER AV PLAST; GUMMI OG PRODUKTER AV GUMMI
 | ex 3926 90 97 | ex 39.26.9098 | Andre varer av plast og varer av andre materialer som hører inn under posisjon 39.01–39.14, framstilt av andre materialer enn plastfolie | Omfatter tomme kapsler av herdet gelatin til konsum eller fôr.<br>Særlige krav til gelatin er fastsatt i rad 5 i tabell 1 i kapittel I avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 41
+
 Ubehandlede huder og skinn (unntatt pelsskinn) samt lær
 
 **Generelle merknader**
@@ -960,6 +989,7 @@ Særlige krav til huder og skinn av hovdyr er fastsatt i rad 4 og 5 i tabell 2 i
 |  |  |  | Import uten begrensninger kan være mulig for behandlede huder og skinn som nevnt i kapittel V del C.2 i vedlegg XIII til forordning [(EU) nr. 142/2011](eu/32011r0142), dersom bestemmelsene i artikkel 41 nr. 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069) er overholdt, særlig for varenumrene ex 41.03.9001 og 41.03.9009. |
 
 ### KAPITTEL 42
+
 Varer av lær, salmakerarbeider, reiseeffekter, håndvesker og lignende varer, varer av tarmer (unntatt tarmer av silkeormer)
 
 **Merknader til kapittel 42 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -979,6 +1009,7 @@ Varer av lær, salmakerarbeider, reiseeffekter, håndvesker og lignende varer, v
 | ex 4206 00 00 | ex 42.06.0000 | Varer av tarmer (unntatt tarmer av silkeorm), gullslagerhinner, blærer eller sener | Utelukkende fôr til kjæledyr og råstoff til framstilling av tyggesaker til hunder. |
 
 ### KAPITTEL 43
+
 Pelsskinn og kunstig pelsskinn samt varer av disse materialene
 
 **Merknader til kapittel 43 (utdrag fra merknadene til dette kapittelet i KN)**
@@ -1005,6 +1036,7 @@ Pelsskinn og kunstig pelsskinn samt varer av disse materialene
 |  |  |  | ex 43.01.9000 (hoder, haler, bein eller andre stykker eller klipp egnet til buntmakerarbeid): Særlige krav til avledede produkter til bruk utenfor fôrkjeden (pelsskinn) er fastsatt i rad 14 i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 51
+
 Ull, fine eller grove dyrehår, garn og vevnad av hestehår
 
 **Generelle merknader**
@@ -1031,6 +1063,7 @@ For posisjon 51.01–51.03 er det fastsatt særlige krav til ubehandlet ull og u
 | ex 5103 | ex 51.03 | Avfall av ull eller av fint eller grovt dyrehår, herunder garnavfall, men ikke opprevet materiale | Omfatter ubehandlet ull eller fine eller grove dyrehår. |
 
 ### KAPITTEL 67
+
 Bearbeidede fjør og dun samt varer framstilt av fjør og dun, kunstige blomster, varer av menneskehår
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
@@ -1054,6 +1087,7 @@ Bearbeidede fjør og dun samt varer framstilt av fjør og dun, kunstige blomster
 |  |  |  | Særlige krav til fjør er fastsatt i rad 9 i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 71
+
 Natur- eller kulturperler, edel- eller halvedelsteiner, edelmetaller, metaller plettert med edelmetall samt varer av slike produkter, bijouteri, mynter
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -1063,6 +1097,7 @@ Natur- eller kulturperler, edel- eller halvedelsteiner, edelmetaller, metaller p
 |  |  |  | Ubearbeidede kulturperler som omhandlet i kapittel IV avsnitt 2 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142), med mindre de i henhold til artikkel 2 nr. 2 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069) ikke faller inn under virkeområdet for nevnte forordning. |
 
 ### KAPITTEL 95
+
 Leketøy, spill og sportsartikler samt deler og tilbehør til dette
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
@@ -1077,6 +1112,7 @@ Leketøy, spill og sportsartikler samt deler og tilbehør til dette
 | ex 9508 40 | ex 95.08.4000 | Omreisende teatre | Utelukkende levende dyr. |
 
 ### KAPITTEL 96
+
 Diverse varer
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
@@ -1094,6 +1130,7 @@ Posisjon 96.02 omfatter plater av uherdet gelatin tilskåret i annen form enn kv
 | ex 9602 00 00 | ex 96.02.0000 | Bearbeidede vegetabilske eller mineralske utskjæringsmaterialer og varer av disse materialene; støpte eller utskårne varer av voks, av stearin, av naturlig gummi eller naturlig harpiks eller av modellermasse og andre støpte eller utskårne varer, ikke angitt eller tatt med andre steder; bearbeidet, uherdet gelatin (unntatt gelatin som hører inn under posisjon 3503) og varer av uherdet gelatin | Omfatter tomme kapsler av uherdet gelatin beregnet på konsum eller fôring; det er fastsatt særlige krav når det gjelder bruk som fôr i rad 5 tabell 1 i kapittel I avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 97
+
 Kunstverk, samlerobjekter og antikviteter
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
@@ -1116,6 +1153,7 @@ Kunstverk, samlerobjekter og antikviteter
 |  |  |  | Særlige krav til jakttrofeer er fastsatt i rad 6 i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142). |
 
 ### KAPITTEL 99
+
 **Særlige KN-koder**
 
 **Statistiske koder for visse særlige varebevegelser**
@@ -1146,6 +1184,7 @@ som endret ved:
 - ►**M4** Kommisjonsforordning [(EU) 2023/2652](eu/32023r2652) av 15. september 2023
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2021/630
+
 av 16. februar 2021
 om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til visse kategorier varer som er unntatt fra offentlig kontroll på grensekontrollstasjoner, og om endring av kommisjonsvedtak 2007/275/EF
 
@@ -1251,6 +1290,7 @@ Utferdiget i Brussel 16. februar 2021.
 | *President* |  |
 
 ### VEDLEGG
+
 Liste over sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjoner (artikkel 3)
 
 På denne listen angis sammensatte produkter som i samsvar med Den kombinerte nomenklatur (KN) som brukes i Unionen, ikke trenger gjennomgå offentlig kontroll på en grensekontrollstasjon.

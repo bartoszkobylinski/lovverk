@@ -17,7 +17,7 @@ xml_hash: "e540e318978fdb9d315c225b350362ca54aca9f084263feb6780b816653fe685"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,6 +67,7 @@ Forskriften får rettsvirkning fra 3. september 2026.
 Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg II kap. XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22l (forordning [(EU) 2023/905](eu/32023r0905)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll I til EØS-avtalen.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2023/905](eu/32023r0905)
+
 av 27. februar 2023
 om utfylling av europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) med hensyn til anvendelse av forbudet mot bruk av visse antimikrobielle legemidler på dyr eller i produkter av animalsk opprinnelse som eksporteres fra tredjeland til Unionen
 
@@ -207,6 +208,7 @@ President
 Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bzh og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164zi (forordning [(EU) 2024/2598](eu/32024r2598)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll I til EØS-avtalen.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2024/2598](eu/32024r2598)
+
 av 4. oktober 2024
 om fastsettelse av liste over tredjeland eller regioner av disse fra som det er tillatt å innføre visse dyr og produkter av animalsk opprinnelse beregnet på konsum til Unionen i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til anvendelse av forbudet mot bruk av visse antimikrobielle legemidler
 

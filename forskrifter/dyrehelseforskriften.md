@@ -16,7 +16,7 @@ xml_hash: "9b24e137a1718cbf8fbf040b51de4899b74a222c86b8249930d6ae5f15971b21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -707,6 +707,7 @@ og korrigert av:
 ►**C1** Corrigendum av 11. februar 2021
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING (EU) 2016/429
+
 av 9. mars 2016
 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)
 
@@ -1032,9 +1033,11 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 ALMINNELIGE REGLER
 
 ### KAPITTEL 1
+
 Formål, mål, virkeområde og definisjoner
 
 ###### Artikkel 1
@@ -1267,6 +1270,7 @@ I denne forordningen menes med
 ►**M1**
 
 ### KAPITTEL 2
+
 Listeførte sykdommer, nye sykdommer og listeførte arter
 
 ###### Artikkel 5
@@ -1453,6 +1457,7 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 4\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som utgjør en ny, svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
 ### KAPITTEL 3
+
 Ansvarsområder innen dyrehelse
 
 ###### Avsnitt 1
@@ -1644,9 +1649,11 @@ Dyrehelselaboratorier
 2. uten unødig opphold om resultater som tyder på mistanke om eller påvisning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav e), som ikke er nevnt i artikkel 9 nr. 1 bokstav a).
 
 ### DEL II
+
 MELDING OM OG RAPPORTERING AV SYKDOM, OVERVÅKING, UTRYDDELSESPROGRAMMER, SYKDOMSFRI STATUS
 
 ### KAPITTEL 1
+
 Melding om og rapportering av sykdom
 
 ###### Artikkel 18
@@ -1732,6 +1739,7 @@ Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for kra
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 2
+
 Overvåking
 
 ###### Artikkel 24
@@ -1838,6 +1846,7 @@ Gjennomføringsmyndighet
 3\. Gjennomføringsrettsaktene nevnt i nr. 1 og 2 skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 3
+
 Utryddelsesprogrammer
 
 ###### Artikkel 31
@@ -1934,6 +1943,7 @@ Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for kra
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 4
+
 Sykdomsfri status
 
 ###### Artikkel 36
@@ -2089,9 +2099,11 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 6\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder bestemmelser som utfyller reglene om midlertidig oppheving, tilbakekalling og gjeninnføring av sykdomsfri status som angitt i nr. 1 og 2.
 
 ### DEL III
+
 BEVISSTHET OM, BEREDSKAP MOT OG BEKJEMPELSE AV SYKDOM
 
 ### AVDELING I
+
 BEVISSTHET OM OG BEREDSKAP MOT SYKDOM
 
 ###### KAPITTEL 1
@@ -2287,6 +2299,7 @@ Disse opplysningene skal behandles som graderte opplysninger av Kommisjonen og s
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### AVDELING II
+
 TILTAK FOR SYKDOMSBEKJEMPELSE
 
 ###### KAPITTEL 1
@@ -2823,9 +2836,11 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 3\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) eller c) som utgjør en ny, svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
 ### DEL IV
+
 REGISTRERING, GODKJENNING, SPORBARHET OG FORFLYTNINGER
 
 ### AVDELING I
+
 LANDDYR, AVLSMATERIALE OG PRODUKTER AV ANIMALSK OPPRINNELSE FRA LANDDYR
 
 ###### KAPITTEL 1
@@ -4443,6 +4458,7 @@ Dersom en annen sykdom enn en listeført sykdom utgjør en vesentlig risiko for 
 2. går ut over det som er hensiktsmessig og nødvendig for å bekjempe sykdommen.
 
 ### AVDELING II
+
 AKVATISKE DYR OG PRODUKTER AV ANIMALSK OPPRINNELSE FRA AKVATISKE DYR
 
 ###### KAPITTEL 1
@@ -5407,6 +5423,7 @@ Medlemsstatene skal sikre at nevnte nasjonale tiltak ikke går lenger enn det so
 4\. Godkjenningen nevnt i nr. 3 skal bare gis dersom det er nødvendig å innføre restriksjoner på forflytninger mellom medlemsstater for å forhindre innføringen eller bekjempe spredningen av sykdommen nevnt i nr. 1, idet det tas hensyn til hvordan den aktuelle sykdommen og tiltakene som er truffet, vil påvirke Unionen.
 
 ### AVDELING III
+
 DYR AV ANDRE ARTER ENN DEM SOM ER DEFINERT SOM LANDDYR OG AKVATISKE DYR, SAMT AVLSMATERIALE OG PRODUKTER AV ANIMALSK OPPRINNELSE FRA SLIKE ANDRE DYR
 
 ###### Artikkel 227
@@ -5449,9 +5466,11 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 5. De typene sykdommer som rammer slike andre dyr, som kan være enten sykdommer som normalt rammer landdyr eller akvatiske dyr, uansett hvilket miljø dyrene vanligvis lever i som nevnt i bokstav d).
 
 ### DEL V
+
 INNFØRSEL TIL UNIONEN OG EKSPORT
 
 ### KAPITTEL 1
+
 Innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland og territorier
 
 ###### Avsnitt 1
@@ -5721,6 +5740,7 @@ Disse delegerte rettsaktene skal ta hensyn til forholdene nevnt i artikkel 235 o
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 2
+
 Innførsel til Unionen av visse andre varer enn dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland og territorier
 
 ###### Artikkel 240
@@ -5791,6 +5811,7 @@ Transportmidler, utstyr, emballasjemateriale, transportvann og fôr, samt delege
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 3
+
 Eksport
 
 ###### Artikkel 243
@@ -5810,9 +5831,11 @@ For EFTA-statene skal artikkel 243 lyde: «EFTA-statenes lovgivning om forebyggi
 ◄**EØS**
 
 ### DEL VI
+
 IKKE-KOMMERSIELLE FORFLYTNINGER AV KJÆLEDYR TIL EN MEDLEMSSTAT FRA EN ANNEN MEDLEMSSTAT, ELLER FRA ET TREDJELAND ELLER ET TERRITORIUM
 
 ### KAPITTEL 1
+
 Alminnelige bestemmelser
 
 ###### Artikkel 244
@@ -5858,6 +5881,7 @@ Høyeste antall kjæledyr
 3\. For å forhindre at kommersielle forflytninger av kjæledyr av artene oppført i vedlegg I del B framstilles som ikke-kommersielle forflytninger i bedragersk hensikt, skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler som angir det høyeste antallet kjæledyr av disse artene som kan flyttes i løpet av én ikke-kommersiell forflytning.
 
 ### KAPITTEL 2
+
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat
 
 ###### Artikkel 247
@@ -5888,6 +5912,7 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i vedle
 2. ikke er strengere enn dem som gjelder for forflytninger av dyr av disse artene i samsvar med del IV.
 
 ### KAPITTEL 3
+
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra et tredjeland eller et territorium
 
 ###### Artikkel 249
@@ -5938,6 +5963,7 @@ Som unntak fra artikkel 249 og 250 kan ikke-kommersielle forflytninger av kjæle
 8. Grønland og Danmark.
 
 ### KAPITTEL 4
+
 Identifikasjon samt forebyggende og risikoreduserende tiltak
 
 ###### Artikkel 252
@@ -5982,6 +6008,7 @@ Gjennomføringsrettsakter som gjelder forebyggende og risikoreduserende tiltak
 4\. I behørig begrunnede, tvingende hastetilfeller knyttet til en alvorlig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning om ajourføring av listene nevnt i nr. 1 bokstav b) og d) i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
 ### KAPITTEL 5
+
 Identifikasjonsdokumenter
 
 ###### Artikkel 254
@@ -6009,6 +6036,7 @@ Gjennomføringsrettsakter som gjelder identifikasjonsdokumenter
 3\. Gjennomføringsrettsaktene nevnt i nr. 1 og 2 i denne artikkelen skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 6
+
 Opplysningsplikt
 
 ###### Artikkel 256
@@ -6032,9 +6060,11 @@ Opplysningsplikt
 2. Opplysningene nevnt i nr. 1 bokstav a) og d), og de opplysningene som er gjort tilgjengelig for allmennheten som nevnt i artikkel 244 nr. 2 bokstav b), eventuelt på flere språk.
 
 ### DEL VII
+
 NØDTILTAK
 
 ### Avsnitt 1
+
 Nødtiltak som gjelder forflytning av dyr og produkter i Unionen, og transportmidler samt annet materiell som kan ha kommet i kontakt med slike dyr eller produkter
 
 ###### Artikkel 257
@@ -6091,6 +6121,7 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til en alvorlig risiko for spredning av sykdom eller en fare, kan Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med artikkel 266 nr. 3.
 
 ### Avsnitt 2
+
 Nødtiltak som gjelder forsendelser av dyr og produkter fra tredjeland og territorier, samt transportmidler og annet materiell som kan ha kommet i kontakt med slike forsendelser
 
 ###### Artikkel 260
@@ -6149,9 +6180,11 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 ◄**EØS**
 
 ### DEL VIII
+
 FELLES BESTEMMELSER
 
 ### AVDELING I
+
 BESTEMMELSER OM FRAMGANGSMÅTER
 
 ###### Artikkel 263
@@ -6213,6 +6246,7 @@ Vern av personopplysninger
 65 Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger (EFT L 8 av 12.1.2001 s. 1).
 
 ### AVDELING II
+
 SANKSJONER
 
 ###### Artikkel 268
@@ -6224,6 +6258,7 @@ Medlemsstatene skal fastsette regler for sanksjoner som gjelder for brudd på be
 Medlemsstatene skal senest 22. april 2022 melde til Kommisjonen om disse bestemmelsene og umiddelbart underrette den om eventuelle senere endringer som påvirker disse bestemmelsene.
 
 ### AVDELING III
+
 MEDLEMSSTATENES TILTAK
 
 ###### Artikkel 269
@@ -6244,6 +6279,7 @@ Ytterligere eller strengere tiltak som treffes av medlemsstatene
 2. være i strid med reglene nevnt i nr. 1.
 
 ### DEL IX
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 270. Opphevinger
@@ -6394,6 +6430,7 @@ Utferdiget i Strasbourg 9. mars 2016.
 |  | *Formann* |
 
 ### VEDLEGG I
+
 ARTER AV KJÆLEDYR
 
 ### DEL A
@@ -6421,6 +6458,7 @@ Pattedyr: andre gnagere og kaniner enn dem som er beregnet på næringsmiddelpro
 ►**M2**
 
 ### VEDLEGG II
+
 LISTE OVER DYRESYKDOMMER
 
 - Infeksjon med kvegpestvirus
@@ -6485,6 +6523,7 @@ LISTE OVER DYRESYKDOMMER
 ◄**M2**
 
 ### VEDLEGG III
+
 ARTER AV HOV- OG KLOVDYR
 
 | *Takson* |  |  |
@@ -6506,6 +6545,7 @@ ARTER AV HOV- OG KLOVDYR
 | *Proboscidea* | *Elephantidae* | *Elephas* ssp., *Loxodonta* ssp. |
 
 ### VEDLEGG IV
+
 KRITERIER FOR ANVENDELSE AV REGLENE FOR FOREBYGGING OG BEKJEMPELSE AV SYKDOM NEVNT I ARTIKKEL 9 NR. 1 PÅ SYKDOMMER SOM ER LISTEFØRT I SAMSVAR MED ARTIKKEL 5
 
 Formålet med dette vedlegget er å fastsette de kriteriene som Kommisjonen skal vurdere når den bestemmer hvilke regler for forebygging og bekjempelse av sykdom som skal gjelde for de ulike kategoriene sykdommer som er listeført i samsvar med artikkel 5.
@@ -6513,6 +6553,7 @@ Formålet med dette vedlegget er å fastsette de kriteriene som Kommisjonen skal
 Kategoriseringen skal ta hensyn til den aktuelle sykdomsprofilen, hvilken innvirkning sykdommen har på dyrehelsen og folkehelsen, dyrevelferden og økonomien, samt hvor tilgjengelige, gjennomførbare og effektive diagnoseverktøyene og de ulike typene tiltak er for å forebygge og bekjempe sykdom, som fastsatt i denne forordningen for den aktuelle sykdommen.
 
 ### Avsnitt 1
+
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav a)
 
 De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav a), skal anses å være de som har de alvorligste følgene for dyrehelsen eller folkehelsen, økonomien, samfunnet eller miljøet i Unionen. Disse sykdommene må oppfylle følgende kriterier:
@@ -6539,6 +6580,7 @@ I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfyl
    4. Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
 
 ### Avsnitt 2
+
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav b)
 
 De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav b), skal bekjempes i alle medlemsstater med mål om at de skal utryddes i hele Unionen.
@@ -6562,6 +6604,7 @@ I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfyl
 En sykdom som omfattes av tiltakene nevnt i artikkel 9 nr. 1 bokstav a), og som ikke blir raskt og effektivt utryddet i en del av Unionen, og som i denne delen av Unionen er blitt endemisk, kan omfattes av tiltak for forebygging og bekjempelse av sykdom i samsvar med artikkel 9 nr. 1 bokstav b) i samme del av Unionen.
 
 ### Avsnitt 3
+
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav c)
 
 De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav c), er relevante for enkelte medlemsstater, og det er nødvendig med tiltak for å forhindre at de sprer seg til andre deler av Unionen som er offisielt sykdomsfrie eller har utryddelsesprogrammer for den aktuelle listeførte sykdommen.
@@ -6584,16 +6627,19 @@ I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfyl
    4. Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
 
 ### Avsnitt 4
+
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav d)
 
 Reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav d), skal gjelde for sykdommer som oppfyller kriteriene fastsatt i avsnitt 1, 2 eller 3, og for andre sykdommer som oppfyller kriteriene fastsatt i avsnitt 5, dersom den risikoen som den aktuelle sykdommen utgjør, kan begrenses på en effektiv og forholdsmessig måte gjennom tiltak for forflytning av dyr og produkter for å forebygge eller begrense forekomsten og spredningen av sykdommen.
 
 ### Avsnitt 5
+
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav e)
 
 Reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav e), skal gjelde for sykdommer som oppfyller kriteriene fastsatt i avsnitt 1, 2 eller 3 og for andre sykdommer når overvåking av sykdommen er nødvendig av årsaker knyttet til dyrehelse, dyrevelferd, menneskers helse, økonomien, samfunnet eller miljøet.
 
 ### VEDLEGG V
+
 SAMMENLIGNINGSTABELLEN NEVNT I ARTIKKEL 270 NR. 2
 
 1\. Direktiv [64/432/EØF](eu/31964l0432)
@@ -7735,6 +7781,7 @@ Nedenfor gjengis til informasjon norsk konsolidert oversettelse av forordning [(
 ►**M1** Forordning [(EU) 2022/925](eu/32022r0925)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2018/1882](eu/32018r1882)
+
 av 3. desember 2018
 om anvendelsen av visse regler for forebygging og bekjempelse av sykdom som skal gjelde for kategorier av listeførte sykdommer, og om opprettelse av en liste over arter og grupper av arter som utgjør en betydelig risiko for spredning av disse listeførte sykdommene
 
@@ -7851,6 +7898,7 @@ Utferdiget i Brussel 3. desember 2018.
 |  | *President* |
 
 ### VEDLEGG
+
 TABELL NEVNT I ARTIKKEL 2
 
 | *Navn på listeført sykdom* | *Kategori av listeført sykdom* | *Listeførte arter* |  |

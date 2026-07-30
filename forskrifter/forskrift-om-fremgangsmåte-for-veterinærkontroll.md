@@ -17,7 +17,7 @@ xml_hash: "9f4a27f9d159788190de26d46669d70df12fdcb446dd277e0c27526b6f56e680"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,6 +75,7 @@ som endret ved:
 ► **M7** Kommisjonens gjennomføringsforordning [(EU) 2019/2130](eu/32019r2130) av 25. november 2019
 
 ### Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136)
+
 av 22. januar 2004
 om fastsettelse av fremgangsmåtene for veterinærkontroller ved EØS grensekontrollstasjoner ved import av produkter fra tredjestater – med de endringer og tillegg som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -180,7 +181,9 @@ Utferdiget i Brussel, 22. januar 2004.] [^3]
 ► **M7 M7** ◄
 
 ### VEDLEGG IV
+
 (Opphevet)
 
 ### VEDLEGG V
+
 (Opphevet)

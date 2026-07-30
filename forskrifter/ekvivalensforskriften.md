@@ -17,7 +17,7 @@ xml_hash: "e6d718c3e612ddf22d2aa2e540ed8834224c13fc4266032e552c958019fd1547"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,6 +61,7 @@ Denne forskriften trer i kraft 26. november 2020.
 Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kap. I innledende del 7 (forordning [(EU) 2020/1641](eu/32020r1641), som endret av forordning [(EU) 2022/158](eu/32022r0158)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og til [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
 ### COMMISSION IMPLEMENTING REGULATION (EU) 2020/1641
+
 of 5 November 2020
 regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America
 (Text with EEA relevance)
@@ -140,6 +141,7 @@ Done at Brussels, 5 November 2020.
 | Ursula VON DER LEYEN |  |
 
 ### VEDLEGG
+
 OFFICIAL MODEL CERTIFICATE FOR IMPORTS OF LIVE, FROZEN, CHILLED OR PROCESSED BIVALVE MOLLUSCS, ECHINODERMS, TUNICATES AND MARINE GASTROPODS INTENDED FOR HUMAN CONSUMPTION FROM THE UNITED STATES OF AMERICA
 
 For å lese vedlegget med offisielt sertifikat som skal benyttes, se pdf-filen for forordning [(EU) 2022/158](eu/32022r0158) nedenfor.

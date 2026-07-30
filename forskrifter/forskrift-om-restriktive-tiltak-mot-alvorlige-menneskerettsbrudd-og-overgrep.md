@@ -15,7 +15,7 @@ xml_hash: "157a848f86626317cd0dd0707b5e37cf8089f17079a2f0242d4d935b4dcb9e5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,6 +67,7 @@ Forskriften trer i kraft straks.
 > Endret ved forskrift [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### RÅDSFORORDNING (EU) 2020/1998
+
 av 7. desember 2020
 om restriktive tiltak mot alvorlige menneskerettsbrudd og -overgrep
 
@@ -322,6 +323,7 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 _______
 
 ### VEDLEGG I
+
 Liste over fysiske eller juridiske personer, enheter eller organer henvist til i artikkel 3
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en).
@@ -331,6 +333,7 @@ Listeførte med programkode («programme») HR- HUMAN RIGHTS er listeført under
 _______
 
 ### VEDLEGG II
+
 Internettsider for opplysninger om kompetente myndigheter og adresse for å notifisere EU-kommisjonen
 
 BELGIUM

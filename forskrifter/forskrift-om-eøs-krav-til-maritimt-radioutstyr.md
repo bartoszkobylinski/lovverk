@@ -15,7 +15,7 @@ xml_hash: "970ef9d60a7dc711a13f02db055863bf9b6443a566b5ac30238f708b82a1f062"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -355,6 +355,7 @@ Underskrevet for og på vegne av:
 ## Vedlegg D. Samsvarsprosedyrer
 
 ### Modul B
+
 EF-typeprøving
 
 1\. EF-typeprøving er den del av framgangsmåten for samsvarsvurdering der et meldt organ undersøker det maritime radioutstyrets tekniske konstruksjon og kontrollerer og bekrefter at det maritime radioutstyrets tekniske konstruksjon oppfyller gjeldende krav.
@@ -416,6 +417,7 @@ Kommisjonen, medlemsstatene og de andre meldte organene kan på anmodning få en
 10\. Produsentens representant kan inngi søknaden omhandlet i nr. 3 og oppfylle pliktene omhandlet i nr. 7 og 9, forutsatt at dette er angitt i fullmakten.
 
 ### Modul D
+
 Typesamsvar på grunnlag av kvalitetssikring av produksjonsprosessen
 
 1\. Typesamsvar basert på kvalitetssikring av produksjonsprosessen er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller pliktene i nr. 2 og 5, og forsikrer og erklærer som eneansvarlig at det berørte maritime radioutstyret er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i de relevante internasjonale instrumenter.
@@ -498,6 +500,7 @@ Hvert meldt organ skal underrette de andre meldte organene om kvalitetssystemgod
 Produsentens plikter i henhold til nr. 3.1, 3.5, 5 og 6 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
 ### Modul E
+
 Typesamsvar basert på kvalitetssikring av produkter
 
 1\. Typesamsvar basert på kvalitetssikring av produkter er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller pliktene i nr. 2 og 5, og forsikrer og erklærer på eget ansvar at vedkommende produkter er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller kravene i relevante internasjonale instrumenter.
@@ -579,6 +582,7 @@ Hvert meldt organ skal underrette de andre meldte organene om godkjenninger av k
 Produsentens plikter i henhold til nr. 3.1, 3.5, 5 og 6 kan oppfylles, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
 ### Modul F
+
 Typesamsvar basert på produktverifisering
 
 1\. Typesamsvar basert på produktverifisering er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene i nr. 2, 5.1 og 6, og sikrer og erklærer som eneansvarlig at de berørte produktene, som har vært omfattet av bestemmelsene i nr. 3, er i samsvar med typen som beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i de internasjonale instrumenter.
@@ -630,6 +634,7 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for rele
 Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og underlagt dennes ansvar, av produsentens representant, forutsatt at dette er angitt i fullmakten. En representant kan ikke oppfylle produsentens plikter i henhold til nr. 2 og 5.1.
 
 ### Modul G
+
 Samsvar basert på enhetsverifisering
 
 1\. Samsvar basert på enhetsverifisering er den framgangsmåten for samsvarsvurdering der produsenten oppfyller pliktene i nr. 2, 3 og 5, og forsikrer og erklærer på eget ansvar at vedkommende produkter som er underlagt bestemmelsene i nr. 4, er i samsvar med kravene i de relevante internasjonale instrumenter.

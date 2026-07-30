@@ -15,7 +15,7 @@ xml_hash: "4589c866542d067433bdc9b757709ac42dc5fdc89baab88d689a3eda789dd0a5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -202,6 +202,7 @@ Forskriften trer i kraft 1. juli 2018. Fra samme tidspunkt oppheves [forskrift 3
 ### Skjema 1
 
 ### Standardopplysningsskjema
+
 for pakkereiseavtaler der det er mulig å benytte hyperlenker
 
 Den kombinasjonen av reisetjenester du tilbys, er en pakkereise etter [lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](lov/2018-06-15-32).
@@ -249,6 +250,7 @@ Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):
 ### Skjema 2
 
 ### Standardopplysningsskjema
+
 for pakkereiseavtaler der det ikke er mulig å benytte hyperlenker
 
 Den kombinasjonen av reisetjenester du tilbys, er en pakkereise etter [lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](lov/2018-06-15-32).
@@ -292,6 +294,7 @@ Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata
 ### Skjema 3
 
 ### Standardopplysningsskjema
+
 der arrangøren overfører opplysninger til en annen næringsdrivende etter [pakkereiseloven § 6 første ledd bokstav b](lov/2018-06-15-32/§6/ledd/1/bokstav/b) [nr. 5](lov/2018-06-15-32/§6/ledd/1/nummer/5)
 
 Dersom du inngår en avtale med selskap AB senest 24 timer etter å ha mottatt bestillingsbekreftelsen fra selskap XY, utgjør reisetjenestene som leveres av XY og AB en pakkereise etter [lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](lov/2018-06-15-32).
@@ -343,6 +346,7 @@ Sentrale rettigheter etter [pakkereiseloven](lov/2018-06-15-32):
 ### Skjema 4
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement via internett etter [pakkereiseloven § 7 første ledd bokstav a](lov/2018-06-15-32/§7/ledd/1/bokstav/a) er en transportør som selger returbillett
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](lov/2018-06-15-32).
@@ -381,6 +385,7 @@ Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfyll
 ### Skjema 5
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement via internett etter [pakkereiseloven § 7 første ledd bokstav a](lov/2018-06-15-32/§7/ledd/1/bokstav/a) ikke er en transportør som selger returbillett
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -419,6 +424,7 @@ Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfyll
 ### Skjema 6
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement via internett etter [pakkereiseloven § 7 første ledd bokstav a](lov/2018-06-15-32/§7/ledd/1/bokstav/a) ikke er en transportør som selger returbillett. Den næringsdrivende mottar ikke betaling for reisetjenestene.
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -434,6 +440,7 @@ Merk: Ettersom XY ikke mottar betaling fra deg for reisetjenestene har vårt sel
 ### Skjema 7
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement etter [pakkereiseloven § 7 første ledd bokstav a](lov/2018-06-15-32/§7/ledd/1/bokstav/a) er en transportør som selger en returbillett, og avtalene inngås mens partene samtidig er fysisk til stede
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -468,6 +475,7 @@ Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata
 ### Skjema 8
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement etter [pakkereiseloven § 7 første ledd bokstav a](lov/2018-06-15-32/§7/ledd/1/bokstav/a) og den reisende samtidig er fysisk til stede. Den næringsdrivende er ikke en transportør som selger returbillett.
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -502,6 +510,7 @@ Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata
 ### Skjema 9
 
 ### Standardopplysningsskjema
+
 der avtalene inngås mens den næringsdrivende som formidler et sammensatt reisearrangement etter [pakkereiseloven § 7 første ledd bokstav a](lov/2018-06-15-32/§7/ledd/1/bokstav/a) og den reisende samtidig er fysisk til stede. Den næringsdrivende er ikke en transportør som selger returbillett. Den næringsdrivende mottar ikke betaling for reisetjenestene.
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -517,6 +526,7 @@ Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata
 ### Skjema 10
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement via internett etter [pakkereiseloven § 7 første ledd bokstav b](lov/2018-06-15-32/§7/ledd/1/bokstav/b) er en transportør som selger returbillett
 
 Dersom du bestiller andre reisetjenester til din reise eller ferie via denne lenken / disse lenkene, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -555,6 +565,7 @@ Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfyll
 ### Skjema 11
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement via internett etter [pakkereiseloven § 7 første ledd bokstav b](lov/2018-06-15-32/§7/ledd/1/bokstav/b) ikke er en transportør som selger returbillett
 
 Dersom du bestiller andre reisetjenester til din reise eller ferie via denne lenken / disse lenkene, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -593,6 +604,7 @@ Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfyll
 ### Skjema 12
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement via internett etter [pakkereiseloven § 7 første ledd bokstav b](lov/2018-06-15-32/§7/ledd/1/bokstav/b) ikke er en transportør som selger returbillett. Den næringsdrivende mottar ikke betaling for reisetjenester
 
 Dersom du bestiller andre reisetjenester til din reise eller ferie via denne lenken / disse lenkene, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -606,6 +618,7 @@ Merk: Ettersom XY ikke mottar betaling fra deg for reisetjenestene har vårt sel
 ### Skjema 13
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement etter [pakkereiseloven § 7 første ledd bokstav b](lov/2018-06-15-32/§7/ledd/1/bokstav/b) og den reisende samtidig er fysisk til stede. Den næringsdrivende er en transportør som selger en returbillett.
 
 Dersom du, etter å ha valgt og betalt for én reisetjeneste, bestiller andre reisetjenester til din reise eller ferie via vårt selskap/XY, omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)
@@ -640,6 +653,7 @@ Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata
 ### Skjema 14
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement etter [pakkereiseloven § 7 første ledd bokstav b](lov/2018-06-15-32/§7/ledd/1/bokstav/b) og den reisende samtidig er fysisk til stede. Den næringsdrivende er ikke en transportør som selger returbillett
 
 Dersom du bestiller andre reisetjenester til din reise eller ferie omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](lov/2018-06-15-32).
@@ -674,6 +688,7 @@ Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata
 ### Skjema 15
 
 ### Standardopplysningsskjema
+
 der den næringsdrivende som formidler et sammensatt reisearrangement etter [pakkereiseloven § 7 første ledd bokstav b](lov/2018-06-15-32/§7/ledd/1/bokstav/b) og den reisende samtidig er fysisk til stede. Den næringsdrivende er ikke en transportør som selger en returbillett. Den næringsdrivende mottar ikke betaling for reisetjenester.
 
 Dersom du bestiller andre reisetjenester til din reise eller ferie omfattes du IKKE av rettighetene som gjelder for pakkereiser etter [lov om pakkereiser og reisegaranti mv.](lov/2018-06-15-32)

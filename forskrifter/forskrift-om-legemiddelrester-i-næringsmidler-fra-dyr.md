@@ -17,7 +17,7 @@ xml_hash: "5d18ffe2c29d79ac39e7fa5abc6055f5656d25baa50ffcd463c2da2c287c91d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,6 +77,7 @@ Nedenfor gjengis norske oversettelser av forordning [(EF) nr. 470/2009](eu/32009
 ### Forordning (EF) nr. 470/2009
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 470/2009](eu/32009r0470)
+
 av 6. mai 2009
 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for rester av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)
 
@@ -163,6 +164,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Avdeling I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Formål og virkeområde
@@ -187,9 +189,11 @@ I tillegg til definisjonene i artikkel 1 i direktiv [2001/82/EF](eu/32001l0082),
 2. «dyr bestemt til næringsmiddelproduksjon» dyr som ales opp, oppfôres, holdes, slaktes eller høstes med sikte på næringsmiddelproduksjon.
 
 ### Avdeling II
+
 Grenseverdier for rester
 
 ### Kapittel I
+
 Risikovurdering og risikohåndtering
 
 ###### Avsnitt 1
@@ -332,6 +336,7 @@ Gjennomføringstiltak
 Disse tiltakene, som er ment å endre ikke-grunnleggende bestemmelser i denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll som omhandlet i artikkel 25 nr. 3.
 
 ### Kapittel II
+
 Klassifisering
 
 ###### Artikkel 14
@@ -396,6 +401,7 @@ Når en uttalelse fra kontoret er påkrevd og utkastet til forordning ikke stemm
 3\. Ved en framskyndet framgangsmåte som omhandlet i artikkel 15, skal Kommisjonen vedta forordningen omhandlet i nr. 1 i denne artikkel etter framgangsmåten omhandlet i artikkel 25 nr. 2, og senest 15 dager etter avslutningen av nevnte framgangsmåte.
 
 ### Avdeling III
+
 Referanseverdier for tiltak
 
 ### Artikkel 18. Fastsettelse og revurdering
@@ -421,6 +427,7 @@ Disse tiltakene, som er ment å endre ikke-grunnleggende bestemmelser i denne fo
 Dersom Fellesskapet i forbindelse med anvendelsen av denne avdeling må finansiere tiltak til støtte for fastsettelsen og anvendelsen av referanseverdier for tiltak, skal artikkel 61 nr. 1 bokstav c) i forordning [(EF) nr. 882/2004](eu/32004r0882*) få anvendelse.
 
 ### Avdeling IV
+
 Diverse bestemmelser
 
 ### Artikkel 21. Analysemetoder
@@ -453,6 +460,7 @@ Kommisjonen skal vedta nærmere regler for den grenseverdi for rester som skal t
 4\. Det skal vedtas nærmere regler for anvendelsen av denne artikkel. Disse tiltakene, som er ment å endre ikke-grunnleggende bestemmelser i denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll som omhandlet i artikkel 26 nr. 3.
 
 ### Avdeling V
+
 Sluttbestemmelser
 
 ### Artikkel 25. Den faste komité for veterinærpreparater
@@ -556,6 +564,7 @@ som endret ved
 - ►**M1** Forordning [(EU) 2025/1103](eu/32025r1103)
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2017/12](eu/32017r0012)
+
 av 6. januar 2017
 om formen på og innholdet i søknader og anmodninger om fastsettelse av grenseverdier for restmengder i samsvar med europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)
 
@@ -613,6 +622,7 @@ Utferdiget i Brussel 6. januar 2017.
 |  | *President* |
 
 ### VEDLEGG
+
 Søknad/anmodning om fastsettelse av grenseverdier for restmengder
 
 1\. Søknaden eller anmodningen skal inneholde alle administrative opplysninger og all vitenskapelig dokumentasjon som er nødvendig for å påvise sikkerheten ved restmengdene av det berørte stoffet, samt risikohåndteringsvurderinger.
@@ -630,6 +640,7 @@ Søknad/anmodning om fastsettelse av grenseverdier for restmengder
 3 Europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063) av 22. september 2010 om vern av dyr som brukes til vitenskapelige formål (EUT L 276 av 20.10.2010, s. 33).
 
 ### Kapittel 1
+
 Administrative opplysninger
 
 De administrative opplysningene skal bestå av to deler, en del som inneholder de administrative opplysningene, og en del som inneholder et sammendrag av vurderingen som søkeren/anmoderen foreslår.
@@ -658,6 +669,7 @@ Følgende opplysninger skal tas med:
     - foreslått analysemetode (herunder grense for mengdebestemmelse og henvisning, dersom det er relevant).
 
 ### Kapittel 2
+
 Opplysninger med henblikk på vitenskapelig risikovurdering
 
 ###### A. Sikkerhetsdokumentasjon
@@ -919,6 +931,7 @@ B.3.2.
 validering av metoden i samsvar med relevante retningslinjer offentliggjort av Kommisjonen og EMA.
 
 ### Kapittel 3
+
 Risikohåndteringsvurderinger
 
 På grunnlag av risikovurderingen som er utført, skal det tas hensyn til relevante anbefalinger om risikohåndtering i samsvar med artikkel 7 i forordning [(EF) nr. 470/2009](eu/32009r0470), særlig
@@ -935,6 +948,7 @@ Nedenfor gjengis til informasjon EØS-avtalen vedlegg II kapittel XIII nr. 12a (
 > Tilføyd ved [forskrift 25 sep 2017 nr. 1524](forskrift/2017-09-25-1524).
 
 ### Kommisjonsforordning [(EU) 2017/880](eu/32017r0880)
+
 av 23. mai 2017
 om fastsettelse av regler for bruken av en grenseverdi for restmengder som er fastsatt for et farmakologisk virksomt stoff i et bestemt næringsmiddel, på et annet næringsmiddel som stammer fra samme art, og for bruken av en grenseverdi for restmengder som er fastsatt for et farmakologisk virksomt stoff i en eller flere arter, på andre arter, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)
 
@@ -1067,6 +1081,7 @@ Ekstrapolering fra viktige arter til mindre utbredte arter:
 > Tilføyd ved [forskrift 1 april 2019 nr. 441](forskrift/2019-04-01-441).
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2018/470](eu/32018r0470)
+
 av 21. mars 2018
 om nærmere regler for den øvre grenseverdien for restmengder som skal tas i betraktning ved kontroll av næringsmidler fra dyr som er blitt behandlet i EU i henhold til artikkel 11 i direktiv [2001/82/EF](eu/32001l0082)
 
@@ -1172,6 +1187,7 @@ som endret ved
 - ►**M1** Forordning [(EU) 2025/1101](eu/32025r1101)
 
 ### Kommisjonsforordning [(EU) 2018/782](eu/32018r0782)
+
 av 29. mai 2018
 om fastsettelse av de metodologiske prinsippene for risikovurderingen og anbefalingene om risikohåndtering nevnt i forordning [(EF) nr. 470/2009](eu/32009r0470)
 
@@ -1228,6 +1244,7 @@ Utferdiget i Brussel 29. mai 2018.
 |  | *President* |
 
 ### VEDLEGG I
+
 Metodologiske prinsipper for den vitenskapelige risikovurderingen nevnt i artikkel 6 i forordning [(EF) nr. 470/2009](eu/32009r0470)
 
 I.
@@ -2178,6 +2195,7 @@ Dersom andre vitenskapelige EU-organer eller internasjonale organer, herunder EF
 28 *Note for guidance for the assessment of the effect of antimicrobial substances on diary starter cultures* ( [http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/document/document_detail.jsp?webContentId=WC500004533&mid=WC0b01ac058009a3dc](https://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/document/document_detail.jsp?webContentId=WC500004533&mid=WC0b01ac058009a3dc).)
 
 ### VEDLEGG II
+
 Metodologiske prinsipper for anbefalingene om risikohåndtering nevnt i artikkel 7 i forordning [(EF) nr. 470/2009](eu/32009r0470)
 
 I.
@@ -2396,6 +2414,7 @@ som endret ved
 - ►**M2** Forordning [(EU) 2024/2858](eu/32024r2858)
 
 ### KOMMISJONSFORORDNING (EU) 2019/1871
+
 av 7. november 2019
 om referanseverdier for tiltak for ikke-tillatte farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse og om oppheving av vedtak 2005/34/EF
 
@@ -2533,6 +2552,7 @@ Utferdiget i Brussel 7. november 2019.
 |  | *President* |
 
 ### VEDLEGG
+
 Referanseverdier for tiltak (RPA)
 
 ►**M1**
@@ -2552,6 +2572,7 @@ Referanseverdier for tiltak (RPA)
 > Forordningen er endret ved [forskrifter 5 okt 2012 nr. 944](forskrift/2012-10-05-944), [4 feb 2013 nr. 140](forskrift/2013-02-04-140), [22 mars 2013 nr. 317](forskrift/2013-03-22-317), [7 okt 2013 nr. 1211](forskrift/2013-10-07-1211), [12 nov 2013 nr. 1325](forskrift/2013-11-12-1325), [8 april 2014 nr. 408](forskrift/2014-04-08-408), [17 mai 2014 nr. 652](forskrift/2014-05-17-652), [26 sep 2014 nr. 1248](forskrift/2014-09-26-1248), [7 jan 2015 nr. 16](forskrift/2015-01-07-16), [2 mars 2015 nr. 172](forskrift/2015-03-02-172), [25 mars 2015 nr. 306](forskrift/2015-03-25-306), [1 juni 2015 nr. 587](forskrift/2015-06-01-587), [13 juli 2015 nr. 895](forskrift/2015-07-13-895), [25 sep 2015 nr. 1125](forskrift/2015-09-25-1125), [2 nov 2015 nr. 1248](forskrift/2015-11-02-1248), [2 nov 2015 nr. 1468](forskrift/2015-11-02-1468), [8 feb 2016 nr. 108](forskrift/2016-02-08-108), [23 mars 2016 nr. 323](forskrift/2016-03-23-323) (i kraft 19 mars 2016), [2 mai 2016 nr. 458](forskrift/2016-05-02-458), [6 juni 2016 nr. 578](forskrift/2016-06-06-578), [8 juli 2016 nr. 910](forskrift/2016-07-08-910), [4 feb 2017 nr. 122](forskrift/2017-02-04-122), [4 feb 2017 nr. 123](forskrift/2017-02-04-123), [20 mars 2017 nr. 348](forskrift/2017-03-20-348), [6 mai 2017 nr. 550](forskrift/2017-05-06-550), [7 juli 2017 nr. 1175](forskrift/2017-07-07-1175), [10 feb 2018 nr. 214](forskrift/2018-02-10-214), [5 des 2018 nr. 1846](forskrift/2018-12-05-1846), [30 mars 2019 nr. 439](forskrift/2019-03-30-439), [9 mai 2019 nr. 587](forskrift/2019-05-09-587), [27 sep 2019 nr. 1269](forskrift/2019-09-27-1269), [26 okt 2020 nr. 2141](forskrift/2020-10-26-2141), [14 des 2020 nr. 2897](forskrift/2020-12-14-2897), [22 mars 2021 nr. 1026](forskrift/2021-03-22-1026), [13 juli 2021 nr. 2415](forskrift/2021-07-13-2415), [12 des 2022 nr. 2221](forskrift/2022-12-12-2221), [30 okt 2023 nr. 1760](forskrift/2023-10-30-1760), [29 april 2024 nr. 720](forskrift/2024-04-29-720), [26 feb 2025 nr. 318](forskrift/2025-02-26-318), [27 okt 2025 nr. 2129](forskrift/2025-10-27-2129), [8 des 2025 nr. 2433](forskrift/2025-12-08-2433).
 
 ### Kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037*)
+
 av 22. desember 2009
 om farmakologisk virksomme stoffer og deres klassifisering med hensyn til grenseverdier for rester i næringsmidler av animalsk opprinnelse
 

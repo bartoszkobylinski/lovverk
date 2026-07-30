@@ -17,7 +17,7 @@ xml_hash: "1fd525aadea68ef73fdb3da48b08b122a1e3a5ec0eb880b0bba878c36140da4d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -831,6 +831,7 @@ Forordning [(EF) nr. 1831/2003](eu/32003r1831) er konsolidert til og med endring
 ► **M6** Forordning [(EU) 2019/1381](eu/32019r1381)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1831/2003](eu/32003r1831)
+
 av 22. september 2003
 om tilsetningsstoffer i fôrvarer
 
@@ -909,6 +910,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Virkeområde
@@ -950,6 +952,7 @@ VIRKEOMRÅDE OG DEFINISJONER
 14 EFT L 115 av 4.5.1999, s. 32. Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
 
 ### Kapittel II
+
 GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRVARER
 
 ### Artikkel 3. Omsetning, foredling og bruk
@@ -1174,6 +1177,7 @@ Dersom en godkjenning er utstedt til en bestemt innehaver, kan innehaveren av go
 I særlige tilfeller der det er behov for en hastegodkjenning for å sikre dyrs velferd, kan Kommisjonen etter framgangsmåten fastsatt i artikkel 22 nr. 2, midlertidig godkjenne bruk av et tilsetningsstoff i et tidsrom på høyst fem år.
 
 ### KAPITTEL III
+
 MERKING OG EMBALLERING
 
 ### Artikkel 16. Merking og emballering av tilsetningsstoffer i fôrvarer og premikser
@@ -1199,6 +1203,7 @@ MERKING OG EMBALLERING
 6\. Endringer i vedlegg III for å ta hensyn til teknologiske framskritt og vitenskapelig utvikling, kan vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
 ### Kapittel IV
+
 ALMINNELIGE BESTEMMELSER OG SLUTTBESTEMMELSER
 
 ### Artikkel 17. Fellesskapsregister over tilsetningsstoffer i fôrvarer
@@ -1299,6 +1304,7 @@ Utferdiget i Brussel, 22. september 2003.
 | *President* | *Formann* |
 
 ### VEDLEGG I
+
 GRUPPER AV TILSETNINGSSTOFFER
 
 1. Kategorien «teknologiske tilsetningsstoffer» omfatter følgende funksjonelle grupper:
@@ -1359,6 +1365,7 @@ GRUPPER AV TILSETNINGSSTOFFER
    ◄ **M5**
 
 ### VEDLEGG II
+
 OPPGAVER OG PLIKTER FOR FELLESSKAPETS REFERANSELABORATORIUM
 
 1\. Fellesskapets referanselaboratorium nevnt i artikkel 21, er Det felles forskningssenter (FFS).
@@ -1440,6 +1447,7 @@ Fellesskapets referanselaboratorium skal ha ansvaret for:
    ◄ **M1**
 
 ### VEDLEGG IV
+
 GENERELLE BRUKSVILKÅR
 
 1. Mengden av tilsetningsstoffer som også forekommer i naturlig tilstand i visse fôrmidler, skal beregnes slik at det samlede innhold av tilsatt og naturlig stoff ikke overstiger det høyeste tillatte innhold som er fastsatt i forordningen om godkjenning.

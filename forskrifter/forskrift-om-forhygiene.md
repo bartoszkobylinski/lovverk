@@ -16,7 +16,7 @@ xml_hash: "cbcd3036d469c454838f86596fa35ed4b1474f064a7fa90b3787ba23299f01f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,6 +72,7 @@ Forordning [(EF) nr. 183/2005](eu/32005r0183) er konsolidert til og med endringe
 ► **M2** Forordning [(EU) 2015/1905](eu/32015r1905)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 183/2005](eu/32005r0183)
+
 av 12. januar 2005
 om fastsettelse av krav til fôrvarehygiene
 
@@ -148,6 +149,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål
@@ -196,6 +198,7 @@ I denne forordning får definisjonene i forordning [(EF) nr. 178/2002](eu/32002r
 2 EUT L 268 av 18.10.2003, s. 29.
 
 ### Kapittel II
+
 Forpliktelser
 
 ### Artikkel 4. Alminnelige forpliktelser
@@ -359,6 +362,7 @@ Vedkommende myndighet skal på anmodning endre registreringen eller godkjenninge
 7\. Medlemsstatene skal offentliggjøre listene over virksomheter nevnt i nr. 1.
 
 ### Kapittel III
+
 Retningslinjer for god praksis
 
 ### Artikkel 20. Utarbeiding, formidling og bruk av retningslinjer
@@ -418,6 +422,7 @@ Når det er nødvendig, skal medlemsstatene legge til rette for at det utarbeide
 6\. Titler på og henvisninger til fellesskapsretningslinjene som er utformet i samsvar med denne artikkel, skal offentliggjøres i C-serien av *Den europeiske unions tidende*.
 
 ### Kapittel IV
+
 Import og eksport
 
 ### Artikkel 23. Import
@@ -447,6 +452,7 @@ Som unntak fra artikkel 33 og i påvente av at listene fastsatt i artikkel 23 nr
 Fôrvarer, herunder fôrvarer til dyr som ikke er bestemt til næringsmiddelproduksjon, som produseres i Fellesskapet for omsetning i tredjestater, skal oppfylle bestemmelsene i artikkel 12 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
 ### Kapittel V
+
 Sluttbestemmelser
 
 ### Artikkel 26. Gjennomføringstiltak
@@ -515,9 +521,11 @@ Utferdiget i Strasbourg, 12. januar 2005.
 | *President* | *Formann* |
 
 ### Vedlegg I
+
 Primærproduksjon
 
 ### DEL A
+
 Krav til fôrforetak som driver primærproduksjon av fôrvarer som nevnt i artikkel 5 nr. 1
 
 *I. Hygienebestemmelser*
@@ -552,6 +560,7 @@ Krav til fôrforetak som driver primærproduksjon av fôrvarer som nevnt i artik
 3. Andre personer, som veterinærer, agronomer og landbruksteknikere, kan bistå driftsansvarlige for fôrforetak med å føre journaler som er relevante for aktivitetene som utøves på driftsenheten.
 
 ### DEL B
+
 Anbefalinger for retningslinjer for god praksis
 
 1. Når de nasjonale retningslinjene og fellesskapsretningslinjene nevnt i kapittel III i denne forordning utarbeides, skal de inneholde veiledning om god praksis ved kontroll av farer i primærproduksjonen av fôrvarer.
@@ -568,6 +577,7 @@ Anbefalinger for retningslinjer for god praksis
    9. nærmere opplysninger knyttet til registrering.
 
 ### Vedlegg II
+
 Krav til fôrforetak som ikke driver primærproduksjon av fôrvarer som nevnt i artikkel 5 nr. 1
 
 ► **M1**
@@ -817,6 +827,7 @@ Animalsk fett som er definert som kategori 3-materiale i artikkel 10 i forordnin
 2. De skal også om nødvendig innføre et system for hurtig tilbakekalling av produkter fra distribusjonsnettet. De skal ved hjelp av skriftlige framgangsmåter fastsette hva som skal skje med eventuelle tilbakekalte produkter, og disse produktene skal gjennomgå en ny kvalitetskontroll før de eventuelt kan bringes i omsetning igjen.
 
 ### Vedlegg III
+
 God fôringspraksis
 
 *Beiting*
@@ -929,6 +940,7 @@ Identifikasjonsnummeret skal ha følgende form:
 Utfyllende bestemmelser til forordning [(EF) nr. 183/2005](eu/32005r0183):
 
 ### KOMMISJONSFORORDNING [(EF) nr. 141/2007](eu/32007r0141)
+
 av 14. februar 2007
 om krav om godkjenning i samsvar med europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) for fôrforetak som framstiller eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika»
 

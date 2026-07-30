@@ -15,7 +15,7 @@ xml_hash: "3208a06d1bb3b7bc4b1ea198fb2f66ab64d600275d8a8e8fc68f5bfbb13833bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1090,6 +1090,7 @@ Merkingen skal være fastgjort til plantene eller emballasjen.
 ## Vedlegg 12. Den internasjonale standarden for plantesanitære tiltak nr. 15 (ISPM 15) Regulering av treemballasje i internasjonal handel, vedlegg I og II
 
 ### ISPM 15. Annex 1
+
 Approved treatments associated with wood packaging material
 
 *Use of debarked wood*
@@ -1153,6 +1154,7 @@ NPPOs should recommend that measures be taken to reduce or eliminate emissions o
 As new technical information becomes available, existing treatments may be reviewed and modified, and alternative treatments and/or new treatment schedule(s) for wood packaging material may be adopted by the Commission on Phytosanitary Measures. If a new treatment or a revised treatment schedule is adopted for wood packaging material and incorporated into this ISPM, material treated under the previous treatment and/or schedule does not need to be re-treated or re-marked.
 
 ### ISPM 15. Annex 2
+
 The mark and its application
 
 A mark indicating that wood packaging material has been subjected to approved phytosanitary treatment in accordance with this standard[^1] comprises the following required components:

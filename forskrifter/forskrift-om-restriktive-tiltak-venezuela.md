@@ -15,7 +15,7 @@ xml_hash: "a51f27622537d8e6dd2c20f1e1dbeeded772785c017deee1ce4700a14e9a7258"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,6 +75,7 @@ Denne forskrift trer i kraft straks.
 > Endret ved forskrift [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### RÅDSFORORDNING [(EU) 2017/2063](eu/32017r2063)
+
 av 13. november 2017
 om restriktive tiltak i lys av situasjonen i Venezuela
 
@@ -325,6 +326,7 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 List of equipment which might be used for internal repression
 as referred to in Article 3
 
@@ -374,6 +376,7 @@ as referred to in Article 3
 11. Specific technology for the development, production or use of the items specified in this list.
 
 ### Vedlegg II
+
 Equipment, technology and software referred to in Articles 6 and 7
 
 *General note*
@@ -455,6 +458,7 @@ For the purpose of this Annex, 'monitoring' means acquisition, extraction, decod
 15 'GTP' stands for GPRS Tunnelling Protocol.
 
 ### Vedlegg III
+
 Websites for information on the competent authorities and address for notifications to the Commission
 
 *BELGIUM*
@@ -584,6 +588,7 @@ B-1049 Brussels, Belgium
 Email: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 ### Vedlegg IV
+
 List of natural and legal persons, entities and bodies referred to in Article 8(3)
 
 |  | **Name** | **Identifying information** | **Reasons** | **Date of listing** |
@@ -610,4 +615,5 @@ List of natural and legal persons, entities and bodies referred to in Article 8(
 > Endret ved [forskrifter 5 feb 2018 nr. 151](forskrift/2018-02-05-151), [13 feb 2020 nr. 145](forskrift/2020-02-13-145).
 
 ### Vedlegg V
+
 List of natural and legal persons, entities and bodies referred to in Article 8(4)

@@ -15,7 +15,7 @@ xml_hash: "3252caa6f5e5162b6d6b8cc32ca11a8eeb7c812e1c419d852a29f6e9f090507f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,6 +50,7 @@ Forskriften trer i kraft 15. september 2014.
 Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (](traktat/1974-11-01-1)SOLAS) kapittel XII om Supplerende sikkerhetstiltak for bulkskip, slik Sjøfartsdirektoratet tolker denne del av konvensjonen tatt inn i konsolidert utgave 2009 med endringer til og med IMO-resolusjon MSC.216(82).
 
 ### Kapittel XII
+
 Supplerende sikkerhetstiltak for bulkskip
 
 ### Regel 1 Definisjoner

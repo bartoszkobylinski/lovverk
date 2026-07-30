@@ -15,7 +15,7 @@ xml_hash: "35de7c7d842b9e4d326bed1ef46502ea4c2e2ed51fd7968a0a0024d2c1562df0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -166,6 +166,7 @@ Som endret ved:
 - ►**M2** Forordning [(EU) 2023/647](eu/32023r0647) av 13. Januar 2023
 
 ### Delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)
+
 av 17. desember 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr
 
@@ -252,6 +253,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -357,9 +359,11 @@ I tillegg til definisjonene fastsatt i artikkel 1 i gjennomføringsforordning (E
 31. «parti med donordyr» en gruppe dyr med samme helsestatus, som avlsmateriale tas ut fra og bearbeides på samme tid, og som transporteres sammen.
 
 ### DEL II
+
 GODKJENNING AV ANLEGG FOR AVLSMATERIALE, REGISTRE, JOURNALFØRING OG SPORBARHET
 
 ### KAPITTEL 1
+
 Godkjenning av anlegg for avlsmateriale
 
 ###### Artikkel 3
@@ -418,6 +422,7 @@ Særlige regler ved opphør av virksomhet i godkjente anlegg for avlsmateriale f
 2\. Dersom forsendelsene av sæd, oocytter eller embryoer ikke flyttes fra det godkjente anlegget for avlsmateriale før datoen for tilbakekalling som nevnt i nr. 1, skal slike forsendelser ikke flyttes til en annen medlemsstat.
 
 ### KAPITTEL 2
+
 Registre over registrerte og godkjente anlegg for avlsmateriale som skal føres av vedkommende myndighet
 
 ###### Artikkel 6
@@ -462,6 +467,7 @@ Registre over godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og 
 Dersom nettadressen til vedkommende myndighets nettsted er endret, skal den uten unødig opphold gi Kommisjonen melding om den nye nettadressen til dette nettstedet.
 
 ### KAPITTEL 3
+
 Journalføring og sporbarhet
 
 ###### Avsnitt 1
@@ -563,9 +569,11 @@ Sporbarhetskrav til avlsmateriale fra hunder og katter, fra andre landdyr enn st
 4\. Dersom et enkelt strå eller annen emballasje inneholder sæd som er tatt ut fra mer enn ett donordyr, skal den driftsansvarlige sikre at opplysningene nevnt i nr. 1 omfatter identifikasjon av alle donordyr.
 
 ### DEL III
+
 FORFLYTNING AV AVLSMATERIALE MELLOM MEDLEMSSTATER
 
 ### KAPITTEL 1
+
 Krav til dyrehelse ved forflytning av avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
 ###### Avsnitt 1
@@ -911,6 +919,7 @@ Dersom driftsansvarlige flytter forsendelser av sæd fra storfe, svin, sau eller
 2. ha innført prosedyrer med hensyn til bearbeiding av denne sæden for å sikre at den kan spores i samsvar med artikkel 10 og 19.
 
 ### KAPITTEL 2
+
 Utstedelse av helsesertifikat, egenerklæring og melding om forflytning for avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
 ###### Artikkel 30
@@ -990,6 +999,7 @@ Ved strømbrudd og andre forstyrrelser i IMSOC skal vedkommende myndighet på op
 ◄**M1**
 
 ### KAPITTEL 3
+
 Krav til dyrehelse, utstedelse av helsesertifikat og melding for avlsmateriale fra andre dyr enn storfe, svin, sau, geit og hestedyr
 
 ###### Artikkel 36
@@ -1130,6 +1140,7 @@ Ved strømbrudd og andre forstyrrelser i IMSOC skal den vedkommende myndigheten 
 ◄**M1**
 
 ### KAPITTEL 4
+
 Ytterligere regler for vedkommende myndigheters innrømmelse av unntak for avlsmateriale
 
 ###### Artikkel 44
@@ -1197,6 +1208,7 @@ Ved strømbrudd og andre forstyrrelser i IMSOC skal den vedkommende myndigheten 
 ◄**M1**
 
 ### DEL IV
+
 SLUTTBESTEMMELSER
 
 ►**M1**
@@ -1234,9 +1246,11 @@ Utferdiget i Brussel 17. desember 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 REGLER FOR UTTAK, PRODUKSJON, BEARBEIDING OG LAGRING AV AVLSMATERIALE FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR SOM NEVNT I KAPITTEL 1 I DEL II
 
 ### DEL 1
+
 KRAV TIL SÆDSTASJONER NEVNT I ARTIKKEL 4
 
 1. Stasjonsveterinæren har følgende ansvarsområder, som nevnt i artikkel 4 nr. 1 bokstav a) i):
@@ -1294,6 +1308,7 @@ KRAV TIL SÆDSTASJONER NEVNT I ARTIKKEL 4
    4. Sædstasjonen skal være bygd på en slik måte at uvedkommende effektivt hindres adgang.
 
 ### DEL 2
+
 KRAV TIL GODKJENNING AV EN EMBRYOUTTAKSGRUPPE NEVNT I ARTIKKEL 4
 
 1. Gruppeveterinæren i en embryouttaksgruppe har følgende ansvarsområder, som nevnt i artikkel 4 nr. 1 bokstav a) ii):
@@ -1340,6 +1355,7 @@ KRAV TIL GODKJENNING AV EN EMBRYOUTTAKSGRUPPE NEVNT I ARTIKKEL 4
 ◄**M2**
 
 ### DEL 3
+
 KRAV TIL GODKJENNING AV EN EMBRYOPRODUKSJONSGRUPPE NEVNT I ARTIKKEL 4
 
 1. I tillegg til ansvarsområdene oppført i nr. 1 i del 2 i dette vedlegget skal gruppeveterinæren i en embryoproduksjonsgruppe, som nevnt i artikkel 4 nr. 1 bokstav a) ii), sikre at medlemmene i embryoproduksjonsgruppen har fått tilstrekkelig opplæring i sykdomsbekjempelse og laboratorieteknikker, særlig når det gjelder arbeid under sterile forhold.
@@ -1361,6 +1377,7 @@ KRAV TIL GODKJENNING AV EN EMBRYOPRODUKSJONSGRUPPE NEVNT I ARTIKKEL 4
       2. er lagret for å brukes av embryoproduksjonsgruppen i atskilte lagringscontainere i lokalene nevnt i nr. 2 bokstav b) i del 2 der det lagres produserte embryoer.
 
 ### DEL 4
+
 KRAV TIL GODKJENNING AV ET BEARBEIDINGSANLEGG FOR AVLSMATERIALE NEVNT I ARTIKKEL 4
 
 1. Stasjonsveterinæren har følgende ansvarsområder, som nevnt i artikkel 4 nr. 1 bokstav a) i):
@@ -1406,6 +1423,7 @@ KRAV TIL GODKJENNING AV ET BEARBEIDINGSANLEGG FOR AVLSMATERIALE NEVNT I ARTIKKEL
    5. Bearbeidingsanlegget for avlsmateriale skal være bygd på en slik måte at uvedkommende effektivt hindres adgang.
 
 ### DEL 5
+
 KRAV TIL GODKJENNING AV ET LAGER FOR AVLSMATERIALE NEVNT I ARTIKKEL 4
 
 1. Stasjonsveterinæren har følgende ansvarsområder, som nevnt i artikkel 4 nr. 1 bokstav a) i):
@@ -1440,9 +1458,11 @@ KRAV TIL GODKJENNING AV ET LAGER FOR AVLSMATERIALE NEVNT I ARTIKKEL 4
    5. Lageret for avlsmateriale skal være bygd på en slik måte at uvedkommende effektivt hindres adgang.
 
 ### VEDLEGG II
+
 YTTERLIGERE KRAV TIL DYREHELSE FOR STORFE, SVIN, SAU, GEIT OG HESTEDYR SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I DEL III KAPITTEL 1 AVSNITT 2
 
 ### DEL 1
+
 YTTERLIGERE KRAV TIL DYREHELSE FOR STORFE SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 20
 
 ###### Kapittel I
@@ -1532,6 +1552,7 @@ Ytterligere krav til dyrehelse for storfe som oocytter til in vitro-produksjon a
 4. Sæd som brukes til å befrukte oocytter fra storfe for *in vitro*-produksjon av embryoer, skal være tatt ut, bearbeidet og lagret i samsvar med kravene i vedlegg II del 1 kapittel I og i vedlegg III del 1.
 
 ### DEL 2
+
 YTTERLIGERE KRAV TIL DYREHELSE FOR SVIN SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 21
 
 ###### Kapittel I
@@ -1633,6 +1654,7 @@ Ytterligere krav til dyrehelse for svin som oocytter og embryoer er tatt ut fra,
 4. Sæd som brukes til inseminering av donordyr av svin, skal være tatt ut, bearbeidet og lagret i samsvar med kravene i vedlegg II del 2 kapittel I og i vedlegg III del 1.
 
 ### DEL 3
+
 YTTERLIGERE KRAV TIL DYREHELSE FOR SAU OG GEIT SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 22
 
 ###### Kapittel I
@@ -1677,6 +1699,7 @@ Ytterligere krav til dyrehelse for sau og geit som oocytter og embryoer er tatt 
 2. Sæd som brukes til inseminering av donordyr av sau og geit, skal være tatt ut, bearbeidet og lagret i samsvar med kravene i vedlegg II del 3 kapittel I og i vedlegg III del 1.
 
 ### DEL 4
+
 YTTERLIGERE KRAV TIL DYREHELSE FOR HESTEDYR SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 23
 
 ###### Kapittel I
@@ -1752,6 +1775,7 @@ Ytterligere krav til dyrehelse for hestedyr som oocytter og embryoer er tatt ut 
 3. Sæd som brukes til inseminering av donordyr, skal være tatt ut, bearbeidet og lagret i samsvar med kravene i vedlegg II del 4 kapittel I og i vedlegg III del 1.
 
 ### DEL 5
+
 ANDRE KRAV TIL DYREHELSE FOR STORFE, SVIN, SAU OG GEIT OG DYR AV FAMILIENE CAMELIDAE OG CERVIDAE SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 20, 21, 22 OG 38
 
 ###### Kapittel I
@@ -1875,9 +1899,11 @@ For at et anlegg for svin skal kunne anses som fritt for infeksjon med *Brucella
 6. I løpet av minst de siste tre årene er det ikke påvist noe tegn på infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i andre epidemiologiske enheter i samme anlegg, eller det er truffet tiltak for å forebygge overføring av infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* fra disse andre epidemiologiske enhetene.
 
 ### VEDLEGG III
+
 KRAV TIL DYREHELSE VED UTTAK, PRODUKSJON, BEARBEIDING OG LAGRING AV AVLSMATERIALE FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR SOM NEVNT I ARTIKKEL 26
 
 ### DEL 1
+
 KRAV TIL DYREHELSE VED UTTAK, BEARBEIDING OG LAGRING AV FERSK, KJØLT ELLER FRYST SÆD FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR, OG VED TRANSPORT AV SLIK SÆD
 
 1. Alle instrumenter som brukes til uttak, bearbeiding, konservering eller frysing av sæd, skal være rengjort og enten desinfisert eller sterilisert før bruk, unntatt nye engangsinstrumenter.
@@ -1906,6 +1932,7 @@ KRAV TIL DYREHELSE VED UTTAK, BEARBEIDING OG LAGRING AV FERSK, KJØLT ELLER FRYS
    2. under tids- og temperaturforhold som gir tilsvarende dokumentert bakteriedrepende aktivitet.
 
 ### DEL 2
+
 KRAV TIL DYREHELSE VED UTTAK OG BEARBEIDING AV IN VIVO-PRODUSERTE EMBRYOER FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR
 
 *In vivo*-produserte embryoer skal tas ut, bearbeides og konserveres i samsvar med følgende krav:
@@ -1927,6 +1954,7 @@ KRAV TIL DYREHELSE VED UTTAK OG BEARBEIDING AV IN VIVO-PRODUSERTE EMBRYOER FRA S
 13. Dersom det ikke finnes noen annen prosedyre for å kontrollere donordyrenes helsestatus, eller for å kontrollere samsvar med kravene til dyrehelse og biosikkerhet fastsatt av gruppeveterinæren, herunder innenfor rammen av kvalitetskontrollordningen nevnt i del 2 nr. 1 bokstav b) i vedlegg I, skal embryouttaksgruppen i samsvar med IETS-håndboken rutinemessig sende inn til et offisielt laboratorium eller et laboratorium som er godkjent av vedkommende myndighet, prøver av ikke-levedyktige embryoer eller oocytter, skyllevæsker eller vaskevæsker i forbindelse med gruppens arbeid for påvisning av bakteriell og viral forurensning, med en hyppighet som gruppeveterinæren skal fastsette.
 
 ### DEL 3
+
 KRAV TIL DYREHELSE VED UTTAK OG BEARBEIDING AV OOCYTTER, OVARIER OG ANNET VEV TIL IN VITRO-PRODUKSJON AV EMBRYOER FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR
 
 I tillegg til kravene fastsatt i del 2 får følgende ytterligere krav anvendelse på uttak, bearbeiding og transport av oocytter, ovarier og annet vev til bruk ved *in vitro*-befruktning og *in vitro*-dyrking:
@@ -1944,6 +1972,7 @@ I tillegg til kravene fastsatt i del 2 får følgende ytterligere krav anvendels
    Det skal brukes separat utstyr til å håndtere oocytter og embryoer fra forskjellige individuelle donordyr og fra forskjellige partier med donordyr.
 
 ### DEL 4
+
 KRAV TIL DYREHELSE VED BEARBEIDING AV IN VITRO-PRODUSERTE EMBRYOER FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR
 
 I tillegg til kravene fastsatt i del 2 får følgende ytterligere krav anvendelse på bearbeiding av *in vitro*-produserte embryoer:
@@ -1953,6 +1982,7 @@ I tillegg til kravene fastsatt i del 2 får følgende ytterligere krav anvendels
 3. Embryoer fra forskjellige individuelle donordyr eller fra forskjellige partier med donordyr skal ikke plasseres i samme strå eller emballasje.
 
 ### DEL 5
+
 KRAV TIL DYREHELSE VED BEARBEIDING AV MIKROMANIPULERTE EMBRYOER FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR
 
 Før enhver mikromanipulering som innvirker på *zona pellucida*, eller når det gjelder embryoer fra hestedyr, embryonisk kapsel, skal alle embryoer eller oocytter tas ut og bearbeides i samsvar med kravene til dyrehelse fastsatt i del 2, 3 og 4.
@@ -1968,6 +1998,7 @@ I tillegg gjelder følgende krav:
    Slik mikromanipulering kan bare utføres på et embryo med en intakt *zona pellucida*, eller når det gjelder embryoer fra hestedyr, en intakt embryonisk kapsel
 
 ### DEL 6
+
 KRAV TIL DYREHELSE VED LAGRING AV IN VIVO-PRODUSERTE OG IN VITRO-PRODUSERTE EMBRYOER OG AV OOCYTTER FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR
 
 1. Hver embryouttaksgruppe og embryoproduksjonsgruppe skal sikre at embryoene og oocyttene lagres ved passende temperatur i lagerlokaler som nevnt i del 2 nr. 2 bokstav b) i vedlegg I.
@@ -1989,6 +2020,7 @@ KRAV TIL DYREHELSE VED LAGRING AV IN VIVO-PRODUSERTE OG IN VITRO-PRODUSERTE EMBR
 5. Bare embryoer eller oocytter fra et individuelt donordyr eller fra ett parti med donordyr nevnt i del 3 nr. 1 skal plasseres i samme strå eller emballasje.
 
 ### VEDLEGG IV
+
 OPPLYSNINGER SOM SKAL INNTAS I HELSESERTIFIKATET FOR AVLSMATERIALE SOM SKAL FLYTTES MELLOM MEDLEMSSTATER, SOM NEVNT I ARTIKKEL 31 OG 40
 
 1. Helsesertifikatet for avlsmateriale fra storfe, svin, sau, geit og hestedyr som flyttes mellom medlemsstater, nevnt i artikkel 31, skal inneholde minst følgende opplysninger:
@@ -2071,6 +2103,7 @@ OPPLYSNINGER SOM SKAL INNTAS I HELSESERTIFIKATET FOR AVLSMATERIALE SOM SKAL FLYT
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2020/999](eu/32020r0999) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2020/999](eu/32020*0999)
+
 av 9. juli 2020
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale samt sporing av avlsmateriale fra storfe, svin, sau, geit og dyr av hestefamilien
 
@@ -2194,9 +2227,11 @@ Utferdiget i Brussel 9. juli 2020.
 |  | President |
 
 ### VEDLEGG
+
 Tekniske krav og spesifikasjoner for merking av strå og annen emballasje for avlsmateriale fra storfe, svin, sau, geit og hestedyr, og driftsmessige krav til sporing av disse, som nevnt i artikkel 5
 
 ### Del 1
+
 Tekniske krav og spesifikasjoner for merking av strå og annen emballasje som sæd, oocytter eller embryoer plasseres, lagres eller transporteres i
 
 1\. Merkingen på strå og annen emballasje skal være lett leselig, og alle opplysninger som merkingen inneholder, skal være påtrykt eller skrevet slik at hvert enkelt element framstår tydelig.
@@ -2226,6 +2261,7 @@ Dersom det ikke er nok plass på strået eller annen emballasje til å trykke el
 5 Delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035) av 28. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for anlegg for landdyr og rugerier, samt sporing av visse holdte landdyr og rugeegg (EUT L 314 av 5.12.2019, s. 115).
 
 ### Del 2
+
 Driftsmessige krav til sporing av sæd, oocytter eller embryoer
 
 1\. Hver forsendelse av avlsmateriale skal ledsages av spesifikasjoner som forklarer merkingen som er trykt eller skrevet på stråene og annen emballasje som sæd, oocytter eller embryoer er plassert i.

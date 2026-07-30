@@ -15,7 +15,7 @@ xml_hash: "53c6d00eca7181ffc00bfc834876ce06677ede222bd2166dc20b30bd2dbb656c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -431,6 +431,7 @@ Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskri
 Forskriften trer i kraft 1. januar 2017. Fra samme tid oppheves [forskrift 17. juni 2002 nr. 644](forskrift/2002-06-17-644) for lasteskip hvor forbrenningsmotorer drives med naturgass og [forskrift 9. september 2005 nr. 1218](forskrift/2005-09-09-1218) om bygging og drift av passasjerskip drevet med gass.
 
 ## Vedlegg 1
+
 Gjennomføring av risikoanalyse for bygging og drift av skip som bruker drivstoff med flammepunkt under 60 °C
 
 > Vedlegget endret ved [forskrift 4 des 2019 nr. 1621](forskrift/2019-12-04-1621) (i kraft 1 jan 2020, tidligere vedlegg 3).

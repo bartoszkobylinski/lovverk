@@ -17,7 +17,7 @@ xml_hash: "d78369da7614252af1a28768635437bcdff4f85fb644d960df861d35b00024d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,6 +106,7 @@ som endret ved:
 - ►**C4** Korrigendum OJ L 2025/90618, 29.07.2025, (2024/1044)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/403
+
 av 24. mars 2021
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2016/429 og (EU) 2017/625 med hensyn til maler for helsesertifikater og maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen og forflytning mellom medlemsstatene av forsendelser av visse kategorier av landdyr og avlsmateriale fra disse, offisiell utstedelse av slike sertifikater og oppheving av beslutning 2010/470/EU
 

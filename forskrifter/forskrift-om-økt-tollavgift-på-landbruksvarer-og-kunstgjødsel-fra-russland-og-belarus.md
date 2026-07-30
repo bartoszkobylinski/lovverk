@@ -15,7 +15,7 @@ xml_hash: "de680a4c6442b127e4248bab8eb4dcc18b567a9e10176b0e41664d44f961a124"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,6 +41,7 @@ For varer omfattet av denne forskriften gis det ikke nedsettelse av tollavgiftss
 Forskriften trer i kraft 1. juli 2026.
 
 ## Vedlegg
+
 Liste over varer som ilegges tollavgift på 50 pst. av varens tollverdi i tillegg til tollavgift etter [Forskrift om klassifisering av varer (tolltariffen)](forskrift/2025-12-16-2594)
 
 | *Varenummer* | *Vareslag* |

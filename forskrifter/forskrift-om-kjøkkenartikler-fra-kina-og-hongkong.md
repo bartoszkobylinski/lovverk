@@ -15,7 +15,7 @@ xml_hash: "b992aaf4698bcf292d5f2cc1c6bb0edcd0a80d610ad483303df34bd7d247d396"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,6 +63,7 @@ Denne forskriften trer i kraft 1. juli 2011.
 ### Forordning (EU) nr. 284/2011 (dansk versjon)
 
 ### KOMMISSIONENS FORORDNING [(EU) Nr. 284/2011](eu/32011r0284)
+
 af 22. marts 2011
 om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina
 

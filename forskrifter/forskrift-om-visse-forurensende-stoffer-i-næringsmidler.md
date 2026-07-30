@@ -15,7 +15,7 @@ xml_hash: "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,6 +120,7 @@ som endret ved
 - ►**EØS-tilpasning som følge av [EØS-avtalen vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII), nr. 54zzzz**
 
 ### KOMMISJONSFORORDNING [(EU) 2023/915](eu/32023r0915)
+
 av 25. april 2023
 om grenseverdier for visse forurensende stoffer i næringsmidler og om oppheving av forordning [(EF) nr. 1881/2006](eu/32006r1881)
 
@@ -373,6 +374,7 @@ Ursula von der Leyen
 *President*
 
 ### VEDLEGG I
+
 Grenseverdier for visse forurensende stoffer i næringsmidler[^1]
 
 | 1 | *Mykotoksiner* |  |  |  |  |
@@ -1041,6 +1043,7 @@ Grenseverdier for visse forurensende stoffer i næringsmidler[^1]
 | Forkortelser: T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta, CDD = klordibenzodioksin, CDF = klordibenzofuran, CB = klorbifenyl. |  |  |  |
 
 ### VEDLEGG II
+
 Sammenligningstabell nevnt i artikkel 9
 
 | *Forordning [(EF) nr. 1881/2006](eu/32006r1881)* | *Denne forordningen* |

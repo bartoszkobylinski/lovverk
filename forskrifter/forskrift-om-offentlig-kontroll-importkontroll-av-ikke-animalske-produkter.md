@@ -17,7 +17,7 @@ xml_hash: "afed05b5293634bf7b9fbfc4a5e6f0109424129991a1210949639d39be9fdf9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,6 +110,7 @@ som endret ved:
 - ►**M15** Kommisjonsforordning [(EU) 2026/1206](eu/32026r1206) av 9. juni 2026
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1793](eu/32019r1793)
+
 av 22. oktober 2019
 om midlertidig strengere offentlig kontroll og beskyttelsestiltak ved innførsel til Unionen av visse varer fra visse tredjestater, om gjennomføring av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) og (EF) [nr. 178/2002](eu/32002r0178), og om oppheving av kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669), (EU) [nr. 884/2014](eu/32014r0884), (EU) [2015/175](eu/32015r0175), (EU) [2017/186](eu/32017r0186) og (EU) [2018/1660](eu/32018r1660)
 
@@ -185,6 +186,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### AVSNITT 1
+
 FELLES BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -289,6 +291,7 @@ Prøvetakingen og analysene som skal utføres av vedkommende myndigheter på gre
 Tollmyndighetene skal ikke tillate frigivelse for fri omsetning av forsendelser med næringsmidler og fôr som er oppført i vedlegg I og II, før det er framlagt et behørig ferdigstilt felles innførselsdokument om helse eller hygiene (CHED-dokument) som fastsatt i artikkel 57 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*), som bekrefter at forsendelsen er i samsvar med de gjeldende reglene nevnt i artikkel 1 nr. 2 i nevnte forordning.
 
 ### AVSNITT 2
+
 MIDLERTIDIG STRENGERE OFFENTLIG KONTROLL PÅ GRENSEKONTROLLSTASJONER OG KONTROLLPUNKTER AV VISSE NÆRINGSMIDLER OG FÔR FRA VISSE TREDJESTATER
 
 ### Artikkel 5. Liste over næringsmidler og fôr av ikke-animalsk opprinnelse
@@ -304,6 +307,7 @@ MIDLERTIDIG STRENGERE OFFENTLIG KONTROLL PÅ GRENSEKONTROLLSTASJONER OG KONTROLL
 2\. Hyppigheten av identitetskontroll og fysisk kontroll fastsatt i en post i vedlegg I skal benyttes som en felles hyppighet for alle produkter som hører inn under den aktuelle posten.
 
 ### AVSNITT 3
+
 SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN AV VISSE NÆRINGSMIDLER OG FÔR FRA VISSE TREDJESTATER
 
 ### Artikkel 7. Innførsel til Unionen
@@ -410,6 +414,7 @@ SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN
 ◄ **M1**
 
 ### AVSNITT 4
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 12. Ajourføring av vedlegg
@@ -461,6 +466,7 @@ Utferdiget i Brussel 22. oktober 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 Nærings­midler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll på grensekontrollstasjoner og kontrollsteder
 
 ►**M15**
@@ -604,6 +610,7 @@ a TARIC er en nærmere inndeling av produktgrupper i tillegg til KN-koden. TARIC
 ►**M15**
 
 ### VEDLEGG II
+
 Nærings­midler og fôr fra visse tredjestater som er underlagt særlige vilkår for innførsel til Unionen på grunn av risiko for forurensning med mykotoksiner, herunder aflatoksiner, cereulidtoksin, plantevernmiddelrester, mikrobiologisk forurensning, Sudan-fargestoffer og plantetoksiner
 
 ◄**M15**
@@ -747,6 +754,7 @@ Nærings­midler og fôr fra visse tredjestater som er underlagt særlige vilkå
 ◄**M15**
 
 ### ► **M3** VEDLEGG IIa
+
 Næringsmidler og fôr fra visse stater utenfor EØS-området som skal underkastes forbud mot innførsel til unionen, som nevnt i artikkel 11a
 
 ◄ **M3**
@@ -782,6 +790,7 @@ Næringsmidler og fôr fra visse stater utenfor EØS-området som skal underkast
 1 Den siste versjonen av referansemetoden for analyse skal brukes, eller det skal brukes en metode som er validert mot den, i samsvar med protokollen fastsatt i EN ISO 16140-2.
 
 ### VEDLEGG IV
+
 Mal for offisielt sertifikat nevnt i artikkel 11 i Kommisjonens gjennomføringsforordning (EU) 2019/1793 til bruk ved innførsel til unionen av visse næringsmidler eller fôr
 
 For å lese vedlegg IV med offisielt sertifikat, og veileder, som skal benyttes, se pdf-filen for forordning [(EU) 2019/1793](eu/32019r1793) nedenfor (norsk utgave).

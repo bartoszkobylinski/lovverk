@@ -15,7 +15,7 @@ xml_hash: "b74fde7792510f0779de98871e84a3bd8dd98d13782d689160e29d62852ef336"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,6 +53,7 @@ Forskriften trer i kraft straks.
 ## Vedlegg A
 
 ### Rådsforordning [(EU) 2023/2406](eu/32023r2406)
+
 av 23. oktober 2023 om restriktive tiltak i lys av situasjonen i Niger
 
 ### Artikkel 1

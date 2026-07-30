@@ -15,7 +15,7 @@ xml_hash: "90fb48cf89241e39abce056c6e1e252a3f84eb8e79520cd52b9dc5792cfbd089"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -183,6 +183,7 @@ som endret ved
 - ►**M51** Forordning [(EU) 2026/909](eu/32026r0909) som rettet ved EUT L, 2026/90354
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1223/2009](eu/32009r1223)
+
 av 30. november 2009
 om kosmetiske produkter
 (omarbeiding)
@@ -298,6 +299,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Virkeområde, definisjoner
 
 ### Artikkel 1. Virkeområde og mål
@@ -335,6 +337,7 @@ Ved denne forordning fastsettes regler som alle kosmetiske produkter som gjøres
 1 EFT L 204 av 21.7.1998, s. 37.
 
 ### Kapittel II
+
 Sikkerhet, ansvar, fritt varebytte
 
 ### Artikkel 3. Sikkerhet
@@ -419,6 +422,7 @@ Denne forpliktelsen skal gjelde i et tidsrom på tre år etter den datoen som pa
 Medlemsstatene skal ikke, med begrunnelse i kravene fastsatt i denne forordning, nekte, forby eller begrense at kosmetiske produkter som oppfyller kravene i denne forordning, gjøres tilgjengelig på markedet.
 
 ### Kapittel III
+
 Sikkerhetsvurdering, produktinformasjonsdokument, melding
 
 ### Artikkel 10. Sikkerhetsvurdering
@@ -513,6 +517,7 @@ Disse opplysningene kan brukes av disse organene bare med hensyn til medisinsk b
 Disse tiltakene, som er ment å endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 32 nr. 3.
 
 ### Kapittel IV
+
 Begrensninger for visse stoffer
 
 ### Artikkel 14. Begrensninger for stoffer oppført i vedleggene
@@ -621,6 +626,7 @@ Den første revisjonen skal være foretatt innen 11. juli 2018.
 Utilsiktet forekomst av små mengder av et forbudt stoff, som stammer fra urenheter i naturlige eller syntetiske bestanddeler, framstillingsprosessen, lagring, migrasjon fra emballasje, noe som er teknisk uunngåelig i god framstillingspraksis, skal være tillatt, forutsatt at slik forekomst er i samsvar med artikkel 3.
 
 ### Kapittel V
+
 Dyreforsøk
 
 ### Artikkel 18. Dyreforsøk
@@ -661,6 +667,7 @@ Tiltakene nevnt i sjette ledd, som har som formål å endre ikke-grunnleggende b
 1 EUT L 142 av 31.5.2008, s. 1.
 
 ### Kapittel VI
+
 Forbrukeropplysning
 
 ### Artikkel 19. Merking
@@ -726,6 +733,7 @@ Med forbehold for særlig forretningshemmeligheter og immaterialrettigheter, ska
 De kvantitative opplysningene om det kosmetiske produktets sammensetning som skal offentliggjøres, skal være begrenset til farlige stoffer i samsvar med artikkel 3 i forordning [(EF) nr. 1272/2008](eu/32008r1272*).
 
 ### Kapittel VII
+
 Markedstilsyn
 
 ### Artikkel 22. Kontroll på markedet
@@ -761,6 +769,7 @@ Dersom det skulle oppstå alvorlig tvil om sikkerheten til et stoff som inngår 
 Vedkommende myndigheter kan bruke opplysningene nevnt i denne artikkel, i forbindelse med markedstilsyn, markedsanalyse, vurdering og forbrukeropplysning innenfor rammen av artikkel 25, 26 og 27.
 
 ### Kapittel VIII
+
 Manglende overholdelse og beskyttelsesklausul
 
 ### Artikkel 25. Manglende overholdelse fra den ansvarlige personens side
@@ -832,6 +841,7 @@ Artikkel 12 nr. 2, 3 og 4 i direktiv [2001/95/EF](eu/32001l0095) får anvendelse
 3\. Bestemmelsene nevnt i nr. 1 og 2, får eventuelt anvendelse på distributøren når det gjelder beslutninger som tas i henhold til artikkel 26 og 27.
 
 ### Kapittel IX
+
 Administrativt samarbeid
 
 ### Artikkel 29. Samarbeid mellom vedkommende myndigheter
@@ -851,6 +861,7 @@ Anmodende vedkommende myndighet skal begrunne anmodningen.
 Ved slik anmodning skal vedkommende myndighet som har mottatt anmodningen, uten unødig opphold og idet det tas hensyn til hvor mye saken haster, utføre verifikasjonen og underrette anmodende vedkommende myndighet om sine funn.
 
 ### Kapittel X
+
 Gjennomføringstiltak og sluttbestemmelser
 
 ### Artikkel 31. Endring av vedlegg
@@ -953,6 +964,7 @@ Utferdiget i Brussel, 30. november 2009.
 ___________
 
 ### Vedlegg I
+
 Sikkerhetsrapport for kosmetisk produkt
 
 Sikkerhetsrapporten for det kosmetiske produktet skal minst inneholde følgende:
@@ -1093,6 +1105,7 @@ ___________
 ______________
 
 ### Vedlegg II
+
 Liste over stoffer som er forbudt i kosmetiske produkter
 
 |  | *Identifikasjon av stoff* |  |  |
@@ -1483,7 +1496,7 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 383 | 2-Amino-4-nitrofenol | 99-57-0 | 202-767-9 |
 | 384 | 2-Amino-5-nitrofenol | 121-88-0 | 204-503-8 |
 | 385 | 11-α-hydroksypregn-4-en-3,20-dion og dets estere | 80-75-1 | 201-306-9 |
-| 386 | Fargestoff CI 42640 ([4-[[4-(dimetylamino)fenyl][4-[etyl(3-sulfonatobenzyl)amino]fenyl]metylen]sykloheksa-<br>2,5-dien-1-yliden](etyl)(3-sulfonatobenzyl)ammonium, natriumsalt) | 1694-09-3 | 216-901-9 |
+| 386 | Fargestoff CI 42640 ([4-[[4-(dimetylamino)fenyl][4-[etyl(3-sulfonatobenzyl)amino]fenyl]metylen]sykloheksa-<br>2,5-dien-1-yliden]\(etyl)(3-sulfonatobenzyl)ammonium, natriumsalt) | 1694-09-3 | 216-901-9 |
 | 387 | Fargestoff CI 13065 | 587-98-4 | 209-608-2 |
 | 388 | Fargestoff CI 42535 (Basic Violet 1) | 8004-87-3 |  |
 | 389 | Fargestoff CI 61554 (Solvent Blue 35) | 17354-14-2 | 241-379-4 |
@@ -3044,6 +3057,7 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 ◄**M51**
 
 ### Vedlegg III
+
 Liste over stoffer som kosmetiske produkter ikke kan inneholde, unntatt med forbehold for de begrensningene som er fastsatt
 
 | *Referanse-<br>nummer* | *Identifikasjon av stoff* |  |  |  | *Begrensninger* |  |  | *Ordlyd i bruksvilkår og advarsler* |
@@ -3792,6 +3806,7 @@ Liste over stoffer som kosmetiske produkter ikke kan inneholde, unntatt med forb
 ◄**M13**
 
 ### Vedlegg IV
+
 Liste over fargestoffer som er tillatt i kosmetiske produkter
 
 ### Preambel
@@ -3863,13 +3878,13 @@ Med forbehold for andre bestemmelser i denne forordning skal et fargestoff omfat
 | 59 | (4-(alfa-(p-(dietylamino)fenyl)-2,4-disulfobenzyliden)-2,5-sykloheksadien-1-yliden)dietylammonium, hydroksid, mononatriumsalt | 42045 |  |  | Blå | Må ikke brukes i produkter som påføres slimhinner |  |  |  |
 | 60 | Etanamin, N-(4-((4-(dietylamino)fenyl)(5-Hydroksy-2,4-Disulfofenyl)metylen)-2,5-sykloheksadien-1-yliden)-N-etyl-, hydroksid, indre salt, kalsiumsalt (2:1) og dets uløselige lakker, salter og pigmenter av barium, strontium og zirkonium | 42051 |  | 222-573-8 | Blå |  |  | Renhetskriterier som angitt i kommisjonsdirektiv [95/45/EF](eu/31995l0045*) (E 131) |  |
 | 61 | Benzenemetanamin, N-etyl-N-(4-((4-(etyl((3-sulfofenyl)metyl)amino)-fenyl)(4-hydroksy-2-sulfofenyl)metylen)-2,5-<br>sykloheksadien-1-yliden)-3-sulfo-,hydroksid, indre salt, dinatriumsalt | 42053 |  |  | Grønn |  |  |  |  |
-| 62 | Hydrogen(benzyl)[4-[[4-[benzyletylamino]fenyl](2,4-disulfonatofenyl)metylen]sykloheksa-2,5-Dien-1-yliden](etyl)ammonium, natriumsalt | 42080 |  |  | Blå | Produkter som skylles av |  |  |  |
+| 62 | Hydrogen(benzyl)[4-[[4-[benzyletylamino]fenyl]\(2,4-disulfonatofenyl)metylen]sykloheksa-2,5-Dien-1-yliden]\(etyl)ammonium, natriumsalt | 42080 |  |  | Blå | Produkter som skylles av |  |  |  |
 | 63 | Benzenemetanamin, N-etyl-N-(4-((4-(etyl((3-sulfofenyl)metyl)amino)-fenyl)(2-sulfofenyl)metylen)-2,5-sykloheksadien-1-yliden)-3-sulfo-, hydroksid, indre salt, dinatriumsalt | 42090 |  | 223-339-8 | Blå |  |  | Renhetskriterier som angitt i kommisjonsdirektiv [95/45/EF](eu/31995l0045*) (E 133) |  |
-| 64 | Hydrogen[4-[(2-klorfenyl)[4-[etyl(3-sulfonatobenzyl)amino]fenyl]metylen]sykloheksa-<br>2,5-Dien-1-yliden](etyl)(3-sulfonatobenzyl)ammonium, natriumsalt | 42090 |  | 223-339-8 | Blå |  |  | Renhetskriterier som angitt i kommisjons-direktiv [95/45/EF](eu/31995*0045) (E 133) |  |
-| 65 |  |  |  |  |  | Hydrogen[4-[(2-klorfenyl)[4-[etyl(3-sulfonatobenzyl)amino]-o-tolyl]metylen]-3-metylsykloheksa-2,5-Dien-1-yliden](etyl)(3-sul |  |  |  |
+| 64 | Hydrogen[4-[(2-klorfenyl)[4-[etyl(3-sulfonatobenzyl)amino]fenyl]metylen]sykloheksa-<br>2,5-Dien-1-yliden]\(etyl)(3-sulfonatobenzyl)ammonium, natriumsalt | 42090 |  | 223-339-8 | Blå |  |  | Renhetskriterier som angitt i kommisjons-direktiv [95/45/EF](eu/31995*0045) (E 133) |  |
+| 65 |  |  |  |  |  | Hydrogen[4-[(2-klorfenyl)[4-[etyl(3-sulfonatobenzyl)amino]-o-tolyl]metylen]-3-metylsykloheksa-2,5-Dien-1-yliden]\(etyl)(3-sul |  |  |  |
 | 66 | (4-(4-Aminofenyl)(4-iminosykloheksa-2,5-dienyliden)metyl)-2-metylanilinhydroklorid | 42510 |  |  | Fiolett | Må ikke brukes i produkter som påføres slimhinner |  |  |  |
 | 67 | 4-[(4-Amino-m-tolyl)(4-imino-3-metylsykloheksa-2,5-dien-1-yliden)metyl]-o-toluidinmonohydroklorid | 42520 |  |  | Fiolett | Produkter som skylles av | 5ppm |  |  |
-| 68 | Hydrogen[4-[[4-(dietylamino)fenyl][4-[etyl[(3-sulfonatobenzyl)amino]-o-tolyl]metylen]-3-metylsykloheksa-2,5-dien-1-yliden](ety produkter som påføres slimhinner |  |  |  |  |  |  |  |  |
+| 68 | Hydrogen[4-[[4-(dietylamino)fenyl][4-[etyl[(3-sulfonatobenzyl)amino]-o-tolyl]metylen]-3-metylsykloheksa-2,5-dien-1-yliden]\(ety produkter som påføres slimhinner |  |  |  |  |  |  |  |  |
 | 69 | [4-[[4-anilin-1-naftyl][4-(dimetylamino)fenyl]metylen]sykloheksa-2,5-dien-1-yliden]dimetylammoniumklorid | 44045 |  |  | Blå | Må ikke brukes i produkter som påføres slimhinner |  |  |  |
 | 70 | Hydrogen-[4-[4-(dimetylamino)-.alfa.-(2-hydroksy-3,6-disulfonato-1-naftyl)benzyliden]sykloheksa-<br>2,5-dien-1-yliden]dimetylammonium, mononatriumsalt | 44090 |  | 221-409-2 | Grønn |  |  | Renhetskriterier som angitt i kommisjonsdirektiv [95/45/EF](eu/31995l0045*) (E 142) |  |
 | 71 | Hydrogen 3,6-bis(dietylamino)-9-(2,4-disulfonatofenyl)xantylium, natriumsalt | 45100 |  |  | Rød | Produkter som skylles av |  |  |  |
@@ -3969,6 +3984,7 @@ Med forbehold for andre bestemmelser i denne forordning skal et fargestoff omfat
 ◄**M37**
 
 ### Vedlegg V
+
 Liste over konserveringsmidler som er tillatt i kosmetiske produkter
 
 ### Preambel
@@ -4147,6 +4163,7 @@ Liste over konserveringsmidler som er tillatt i kosmetiske produkter
 ◄**M47**
 
 ### Vedlegg VI
+
 Liste over uv-filtre som er tillatt i kosmetiske produkter
 
 | *Referanse-<br>nummer* | *Identifikasjon av stoff* |  |  |  | *Vilkår* |  |  | *Ordlyd i bruksvilkår og advarsler* |
@@ -4248,6 +4265,7 @@ Liste over uv-filtre som er tillatt i kosmetiske produkter
 ◄**M51**
 
 ### Vedlegg VII
+
 Symboler som brukes på emballasje/beholder
 
 1\. *Henvisning til vedlagt informasjon*
@@ -4259,6 +4277,7 @@ Symboler som brukes på emballasje/beholder
 ______________
 
 ### Vedlegg VIII
+
 Liste over validerte alternative metoder til dyreforsøk
 
 I dette vedlegg angis de alternative metodene som er validert av Det europeiske senter for validering av alternative metoder (ECVAM) ved Det felles forskningssenter, som oppfyller kravene i denne forordning, og som ikke er angitt i forordning [(EF) nr. 440/2008](eu/32008r0440*) av 30. mai 2008 om fastsettelse av forsøksmetoder i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH). Da det ikke alltid er mulig å fullstendig erstatte dyreforsøk med en alternativ metode, bør det angis i vedlegg VIII om den alternative metoden helt eller delvis erstatter dyreforsøk.
@@ -4270,6 +4289,7 @@ I dette vedlegg angis de alternative metodene som er validert av Det europeiske 
 ### Vedlegg IX
 
 ### Del A
+
 Opphevet direktiv med etterfølgende endringer
 
 (nevnt i artikkel 33)
@@ -4341,6 +4361,7 @@ Opphevet direktiv med etterfølgende endringer
 | Kommisjonsdirektiv [2009/36/EF](eu/32009l0036*) av 16. april 2009 | (EUT L 98 av 17.4.2009, s. 31) |
 
 ### Del B
+
 Liste over frister for innarbeiding i nasjonal lovgivning og anvendelse
 
 (nevnt i artikkel 33)
@@ -4412,6 +4433,7 @@ Liste over frister for innarbeiding i nasjonal lovgivning og anvendelse
 | Kommisjonsdirektiv [2009/36/EF](eu/32009l0036*) av 16. april 2009 | 15.11.2009 |
 
 ### Vedlegg X
+
 Sammenligningstabell
 
 | *Direktiv [76/768/EØF](eu/31976l0768*)* | *Denne forordning* |
@@ -4464,6 +4486,7 @@ Sammenligningstabell
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 655/2013](eu/32013r0655) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XVI nr. 1b.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 655/2013](eu/32013r0655)
+
 av 10. juli 2013
 om fastsettelse av felles kriterier for begrunnelse av påstander brukt om kosmetiske produkter
 
@@ -4522,6 +4545,7 @@ Utferdiget i Brussel, 10. juli 2013.
 |  | *President* |
 
 ### VEDLEGG
+
 FELLES KRITERIER
 
 1. *Overholdelse av lovbestemte krav*
@@ -4565,6 +4589,7 @@ FELLES KRITERIER
 Nedenfor gjengis til informasjon norsk oversettelse av gjennomføringsbeslutning [(EU) 2025/1175](eu/32025d1175) med de endringer og tillegg som følger av EØS tilpasningen av rettsakten i samsvar med [vedlegg II kapittel XVI](avtale/avt-1992-05-02-1-v2/kapXVI) nr. 1ab.
 
 ### KOMMISJONENS GJENNOMFØRINGSBESLUTNING [(EU) 2025/1175](eu/32025d1175)
+
 av 16. juni 2025
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EF) nr. 1223/2009](eu/32009r1223) med hensyn til ordlisten over vanlige navn på bestanddeler til bruk ved merking av kosmetiske produkter og om oppheving av Kommisjonens gjennomføringsbeslutning [(EU) 2022/677](eu/32022d0677)
 
@@ -4614,6 +4639,7 @@ Ursula VON DER LEYEN
 *Medlem av Kommisjonen*
 
 ### VEDLEGG
+
 ORDLISTE OVER VANLIGE NAVN PÅ BESTANDDELER
 
 *Innledning*
@@ -35048,6 +35074,7 @@ Bestanddelenes vanlige navn er oppført i alfabetisk rekkefølge og er nummerert
 Nedenfor gjengis til informasjon norsk oversettelse av gjennomføringsbeslutning [2013/674/EU](eu/32013d0674) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XVI nr. 1aa.
 
 ### KOMMISJONENS GJENNOMFØRINGSBESLUTNING [2013/674/EU](eu/32013d0674)
+
 av 25. november 2013
 om retningslinjer for vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 1223/2009](eu/32009r1223) om kosmetiske produkter
 
@@ -35089,6 +35116,7 @@ Utferdiget i Brussel, 25. november 2013.
 |  | *President* |
 
 ### VEDLEGG
+
 RETNINGSLINJER FOR VEDLEGG I TIL FORORDNING [(EF) NR. 1223/2009](eu/32009r1223) MED HENSYN TIL SIKKERHETSRAPPORTER FOR KOSMETISKE PRODUKTER
 
 1\.

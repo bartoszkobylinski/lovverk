@@ -17,7 +17,7 @@ xml_hash: "495ccd8fcaa8cbf9da3d49b963220d48afa532806fded190ac42a0b317d00c78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -57,6 +57,7 @@ som endret ved:
 - ►**T** Tilpasningstekst – EØS-komitébeslutning nr. 3/2026 av 6. februar 2026
 
 ### Europaparlaments- og rådsforordning [(EU) 2023/1231](eu/32023r1231)
+
 av 14. juni 2023
 om særlige regler for innførsel til Nord-Irland fra andre deler av Det forente kongerike av visse forsendelser av detaljvarer, planter til planting, settepoteter, maskiner og visse kjøretøyer som er blitt brukt for landbruks- eller skogbruksformål, samt for ikke-kommersiell forflytning av visse kjæledyr til Nord-Irland
 
@@ -134,6 +135,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL 1
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -211,6 +213,7 @@ For [EØS-avtalens](lov/1992-11-27-109/eøsl) formål gjelder følgende tilpasni
 Artikkel 3 til 12 får ikke anvendelse for EFTA-statene.
 
 ### KAPITTEL 2
+
 SÆRLIGE REGLER FOR INNFØRSEL TIL NORD-IRLAND FRA ANDRE DELER AV DET FORENTE KONGERIKE AV VISSE FORSENDELSER AV DETALJVARER MED OPPRINNELSE I ANDRE DELER AV DET FORENTE KONGERIKE, ELLER SOM KOMMER FRA EN MEDLEMSSTAT, ELLER AV DETALJVARER FRA RESTEN AV VERDEN FOR Å BRINGE DEM I OMSETNING I NORD-IRLAND
 
 ### Artikkel 3. Virkeområde for kapittel 2
@@ -396,6 +399,7 @@ Dersom det foreligger dokumentasjon, for eksempel i form av en vurdering fra Kom
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 18 nr. 2 og 3.
 
 ### KAPITTEL 3
+
 SÆRLIGE REGLER FOR INNFØRSEL TIL NORD-IRLAND FRA ANDRE DELER AV DET FORENTE KONGERIKE AV FORSENDELSER AV PLANTER TIL PLANTING, BORTSETT FRA SETTEPOTETER, AV MASKINER OG KJØRETØYER SOM ER BLITT BRUKT FOR LANDBRUKS- ELLER SKOGBRUKSFORMÅL, OG AV SETTEPOTETER MED HENBLIKK PÅ BRUK OG PÅ Å BRINGE DEM I OMSETNING I NORD-IRLAND
 
 ### Artikkel 10. Særlige regler for forsendelser av planter til planting, bortsett fra settepoteter, og av maskiner og kjøretøyer som er blitt brukt for landbruks- og skogbruksformål, med henblikk på avsending og salg som foretas av profesjonelle aktører
@@ -453,6 +457,7 @@ Dersom det foreligger dokumentasjon, for eksempel i form av en EU-inspeksjonsrap
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 18 nr. 2 og 3.
 
 ### KAPITTEL 4
+
 SÆRLIGE REGLER FOR IKKE-KOMMERSIELL FORFLYTNING AV KJÆLEDYR TIL NORD-IRLAND FRA ANDRE DELER AV DET FORENTE KONGERIKE
 
 ### Artikkel 12. Særlige regler for ikke-kommersiell forflytning av kjæledyr
@@ -494,6 +499,7 @@ Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedy
 ◄**T**
 
 ### KAPITTEL 5
+
 FORBUD OG MIDLERTIDIG OPPHEVING
 
 ### Artikkel 13. Forbud mot at varer og kjæledyr som omfattes av denne forordningen, forflyttes til eller bringes i omsetning i en medlemsstat
@@ -530,6 +536,7 @@ Dersom det forente kongerike ikke oppfyller vilkårene fastsatt i nr. 1 bokstav 
 16 EUT L 102 av 17.4.2023, s. 61.
 
 ### KAPITTEL 6
+
 DELEGERTE RETTSAKTER OG GJENNOMFØRINGSRETTSAKTER
 
 ### Artikkel 15. Endring av vedlegg I og II
@@ -575,6 +582,7 @@ Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til g
 17 Europaparlaments- og rådsforordning [(EU) nr. 1380/2013](eu/32013r1380) av 11. desember 2013 om den felles fiskeripolitikk, om endring av rådsforordning [(EF) nr. 1954/2003](eu/32003r1954) og [(EF) nr. 1224/2009](eu/32009r1224) og om oppheving av rådsforordning [(EF) nr. 2371/2002](eu/32002r2371) og [(EF) nr. 639/2004](eu/32004r0639) samt rådsbeslutning [2004/585/EF](eu/32004d0585) (EUT L 354 av 28.12.2013, s. 22).
 
 ### KAPITTEL 7
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ►**T**
@@ -612,6 +620,7 @@ For [EØS-avtalens](lov/1992-11-27-109/eøsl) formål gjelder følgende tilpasni
 Vedlegg I til IV får ikke anvendelse for EFTA-statene.
 
 ### VEDLEGG I
+
 Liste over EU-rettsakter eller deler av disse
 
 Merk: På følgende liste over EU-rettsakter eller deler av disse nevnt i artikkel 1 nr. 2 er de som er relevante for folkehelsen og forbrukeropplysning, som nevnt i artikkel 6 nr. 6, merket med en asterisk (\*):
@@ -819,6 +828,7 @@ Merk: På følgende liste over EU-rettsakter eller deler av disse nevnt i artikk
 67 EUT L 304 av 24.11.2022, s. 1.
 
 ### VEDLEGG II
+
 Krav til SPS-kontrollanlegg
 
 SPS-kontrollanleggene i Nord-Irland skal ha strukturelle og menneskelige ressurser med en kapasitet og ekspertise som er tilpasset typen og mengden av detaljvarer som framvises for offentlig kontroll i henhold til denne forordningen.
@@ -826,6 +836,7 @@ SPS-kontrollanleggene i Nord-Irland skal ha strukturelle og menneskelige ressurs
 De skal også ha en kapasitet og ekspertise som er tilpasset typen og mengden av dyr og varer som ikke omfattes av virkeområdet for denne forordningen, og som framvises for offentlig kontroll i henhold til forordning [(EU) 2017/625](eu/32017r0625).
 
 ### DEL 1
+
 Drift av midlertidige SPS-kontrollanlegg
 
 | *Minstekrav til SPS-kontrollanlegg* | *Tidsplan* |
@@ -840,6 +851,7 @@ Drift av midlertidige SPS-kontrollanlegg
 1 Kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014) av 12. juni 2019 om fastsettelse av nærmere regler for minstekrav til grensekontrollstasjoner, herunder kontrollsentre, og til format, kategorier og forkortelser som skal brukes i lister over grensekontrollstasjoner og kontrollsteder (EUT L 165 av 21.6.2019, s. 10).
 
 ### DEL 2
+
 Etablering av endelige SPS-kontrollanlegg
 
 | *Minstekrav til SPS-kontrollanlegg* | *Tidsplan* |
@@ -852,9 +864,11 @@ Det forente kongerike skal framlegge en framdriftsrapport om ferdigstillingen av
 Det forente kongerike og Kommisjonen skal samarbeide om elektronisk sertifisering.
 
 ### VEDLEGG III
+
 Krav vedrørende overvåking og oppføring av virksomheter på en liste som nevnt i artikkel 7 og 8
 
 ### DEL 1
+
 Overvåkingskrav
 
 1\. Forsendelser av detaljvarer som innføres til Nord-Irland fra andre deler av Det forente kongerike, skal overvåkes av vedkommende myndigheter i Nord-Irland fra SPS-kontrollanlegget for første ankomst til Nord-Irland til virksomheten på bestemmelsesstedet i samsvar med artikkel 2 nr. 1, artikkel 2 nr. 2 bokstav b) og c), artikkel 2 nr. 3 og artikkel 3 nr. 2-5 i delegert kommisjonsforordning [(EU) 2019/1666](eu/32019r1666)[^1].
@@ -870,6 +884,7 @@ Forseglingsnummeret skal bekreftes eller avstemmes av vedkommende myndigheter i 
 1 Delegert kommisjonsforordning [(EU) 2019/1666](eu/32019r1666) av 24. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til vilkårene for overvåking av transport og ankomst av forsendelser av visse varer fra grensekontrollstasjonen på ankomststedet til virksomheten på bestemmelsesstedet i Unionen (EUT L 255 av 4.10.2019, s. 1).
 
 ### DEL 2
+
 Lister over virksomheter i andre deler av Det forente kongerike enn Nord-Irland som avsender forsendelser av detaljvarer, og lister over virksomheter i Nord-Irland som mottar disse forsendelsene
 
 1\. Listen over virksomheter i andre deler av Det forente kongerike enn Nord-Irland og i Nord-Irland som har tillatelse til å avsende eller motta leveranser av forsendelser av detaljvarer, skal utarbeides og holdes oppdatert av vedkommende myndigheter i Det forente kongerike i samsvar med offentlig tilgjengelige prosedyrer som også skal holdes oppdatert.
@@ -887,6 +902,7 @@ Hver tredje måned fram til 30. juni 2025 skal Det forente kongerike framlegge e
 5\. Listene over virksomheter nevnt i nr. 1 skal uten opphold gjøres elektronisk tilgjengelige for Kommisjonen og for vedkommende myndigheter i Nord-Irland.
 
 ### VEDLEGG IV
+
 Merkingskrav
 
 *1. Individuell merking*
@@ -910,6 +926,7 @@ Et skilt med ordene «Not for EU» skal plasseres ved siden av prisetiketten ell
 Et tilstrekkelig antall plakater skal være synlig plassert i nærheten av detaljvarene og informere forbrukerne om at disse detaljvarene bare er beregnet på salg til sluttforbrukere i Nord-Irland, og at de ikke senere må forflyttes til en medlemsstat.
 
 ### VEDLEGG V
+
 Liste over detaljvarer som nevnt i artikkel 6 nr. 1
 
 ### DEL 1
@@ -925,6 +942,7 @@ Ferdigpakket melk og ferdigpakkede melkeprodukter som skal merkes i samsvar med 
 7. Kvarg / cottage cheese.
 
 ### DEL 2
+
 Visse detaljvarer som ikke trenger å merkes individuelt i samsvar med artikkel 6 nr. 1 bokstav c)
 
 1\. Følgende detaljvarer, dersom de er langtidsholdbare sammensatte produkter som oppfyller kravene fastsatt i artikkel 3 nr. 1 i delegert kommisjonsforordning [(EU) 2021/630](eu/32021r0630)[^1]:

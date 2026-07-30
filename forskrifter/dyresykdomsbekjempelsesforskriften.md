@@ -16,7 +16,7 @@ xml_hash: "8ce7c92055afbe69b7002c3518baf3fe9c719cbf68bf723a2e1da86865016c68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -235,6 +235,7 @@ som endret ved:
 - ►**M2** Kommisjonens gjennomføringsforordning [(EU) 2023/751](eu/32023r0751) av 30. januar 2023
 
 ### Delegert kommisjonsforordning (EU) 2020/687
+
 av 17. desember 2019
 om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til regler for forebygging og bekjempelse av visse listeførte sykdommer
 
@@ -317,6 +318,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -411,9 +413,11 @@ Videre menes med
 Vedkommende myndighet skal gjennomføre tiltakene fastsatt i denne forordningen i samsvar med beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429).
 
 ### DEL II
+
 LANDDYR
 
 ### KAPITTEL I
+
 Tiltak for bekjempelse av kategori A-sykdommer hos holdte landdyr
 
 ###### Avsnitt 1
@@ -677,6 +681,7 @@ Tiltak som skal iverksettes ved offisiell bekreftelse av utbrudd av en kategori 
 2\. Vedkommende myndighet skal anvende bestemmelsene i artikkel 12–19 også i opprinnelsesanlegget for de rammede dyrene eller produktene som befinner seg i anleggene og på stedene nevnt i nr. 1.
 
 ### KAPITTEL II
+
 Tiltak for bekjempelse av kategori A-sykdommer hos holdte landdyr i restriksjonssonene
 
 ###### Avsnitt 1
@@ -1286,6 +1291,7 @@ Unntak fra forbud mot forflytning av dyr innenfor restriksjonssoner når restrik
 2\. Dersom forflytning av dyr tillates i henhold til nr. 1, skal vedkommende myndighet sikre at transporten oppfyller kravene i artikkel 24.
 
 ### KAPITTEL III
+
 Gjeninnsetting av landdyr i anlegg som ligger i restriksjonssoner
 
 ###### Artikkel 57
@@ -1380,6 +1386,7 @@ Avslutning av gjeninnsetting i det rammede anlegget og oppheving av tiltak for s
 2\. Vedkommende myndighet skal oppheve alle tiltak for sykdomsbekjempelse i det berørte anlegget i samsvar med denne forordningen når gjeninnsettingen anses som avsluttet som fastsatt i nr. 1.
 
 ### KAPITTEL IV
+
 Tiltak for bekjempelse av sykdom hos viltlevende dyr av listeførte arter
 
 ###### Artikkel 62
@@ -1462,6 +1469,7 @@ Varighet av tiltak i den infiserte sonen
 Vedkommende myndighet skal opprettholde de tiltakene som er iverksatt i den infiserte sonen i samsvar med dette kapittelet, til de epidemiologiske opplysningene viser at den aktuelle viltlevende populasjonen ikke lenger utgjør noen risiko for at en kategori A-sykdom innføres i anlegg der det holdes dyr av listeførte arter, og den operative gruppen anbefaler at tiltakene oppheves.
 
 ### KAPITTEL V
+
 Tiltak for bekjempelse av kategori B- og C-sykdommer hos landdyr
 
 ###### Artikkel 68
@@ -1485,9 +1493,11 @@ Ved bekreftelse av en kategori B- eller C-sykdom i samsvar med artikkel 9 nr. 2 
 3. artikkel 42 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med blåtungevirus (serotype 1–24).
 
 ### DEL III
+
 AKVATISKE DYR
 
 ### KAPITTEL I
+
 Tiltak for bekjempelse av kategori A-sykdommer hos akvakulturdyr
 
 ###### Avsnitt 1
@@ -1697,6 +1707,7 @@ Tiltak som skal iverksettes ved bekreftelse av en kategori A-sykdom i næringsmi
 2\. Vedkommende myndighet skal anvende bestemmelsene i artikkel 78, 80 og 81 også i opprinnelsesanleggene for de dyrene eller produktene som befinner seg i anleggene og på stedene nevnt i nr. 1.
 
 ### KAPITTEL II
+
 Tiltak for bekjempelse av kategori A-sykdommer hos akvakulturdyr i restriksjonssonen
 
 ###### Avsnitt 1
@@ -1946,6 +1957,7 @@ Varighet av tiltak for sykdomsbekjempelse i overvåkingssonen
 Vedkommende myndighet skal oppheve de tiltakene for sykdomsbekjempelse som er fastsatt i dette avsnittet, når overvåkingsperioden angitt i nr. 2 i vedlegg XV for den aktuelle kategori A-sykdommen er utløpt med tilfredsstillende resultat.
 
 ### KAPITTEL III
+
 Tiltak for sykdomsbekjempelse hos viltlevende akvatiske dyr
 
 ###### Artikkel 102
@@ -2044,6 +2056,7 @@ Varighet av tiltak i den infiserte sonen
 Vedkommende myndighet skal opprettholde tiltakene fastsatt i dette kapittelet til de epidemiologiske opplysningene viser at den aktuelle viltlevende populasjonen ikke lenger utgjør noen risiko for spredning av sykdommen, og den operative gruppen anbefaler at tiltakene oppheves.
 
 ### KAPITTEL IV
+
 Tiltak for bekjempelse av kategori B- og C-sykdommer hos akvatiske dyr
 
 ###### Artikkel 110
@@ -2059,6 +2072,7 @@ Tiltak for sykdomsbekjempelse som skal iverksettes når en kategori B- eller C-s
 Vedkommende myndighet skal iverksette tiltakene fastsatt i artikkel 58–65 i delegert forordning [(EU) 2020/689](eu/32020r0689) ved bekreftelse av en kategori B- eller C-sykdom i samsvar med artikkel 9 nr. 2, 3 eller 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i medlemsstater, soner eller segmenter som er tildelt sykdomsfri status som fastsatt i artikkel 36 nr. 4 og artikkel 37 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429), eller artikkel 83, artikkel 84 nr. 1 bokstav h)–m) eller artikkel 84 nr. 2 bokstav b)–g) i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### DEL IV
+
 SLUTTBESTEMMELSER
 
 ►**M1**
@@ -2090,6 +2104,7 @@ Utferdiget i Brussel 17. desember 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 KLINISKE UNDERSØKELSER, PRØVETAKINGSMETODER OG DIAGNOSTISKE METODER FOR KATEGORI A-SYKDOMMER SAMT TRANSPORT AV PRØVER
 
 (som nevnt i artikkel 3 i denne forordningen)
@@ -2168,6 +2183,7 @@ C.**Transport av prøver**
 4. Den ansvarlige personen ved det offisielle laboratoriet som mottar prøvene, skal informeres i god tid om prøvenes ankomst.
 
 ### VEDLEGG II
+
 OVERVÅKINGSPERIODE
 
 (som nevnt i artikkel 8, 17, 27, 32, 48, 57 og 59 i denne forordningen)
@@ -2190,6 +2206,7 @@ OVERVÅKINGSPERIODE
 | Infeksjon med Newcastle disease-virus (NCD) | 21 dager |
 
 ### VEDLEGG III
+
 VILKÅR FOR VISSE UNNTAK FRA ARTIKKEL 12 NR. 1 BOKSTAV A) FOR HESTEDYR
 
 (som nevnt i artikkel 13 nr. 4)
@@ -2205,6 +2222,7 @@ VILKÅR FOR VISSE UNNTAK FRA ARTIKKEL 12 NR. 1 BOKSTAV A) FOR HESTEDYR
    3. de gjenværende dyrene har gjennomgått en komplementbindingstest, utført med negativt resultat ved en serumfortynning på 1:5 på prøver som er tatt minst seks måneder etter rengjøringen og desinfiseringen nevnt i bokstav b).
 
 ### VEDLEGG IV
+
 FRAMGANGSMÅTER FOR RENGJØRING, DESINFISERING OG OM NØDVENDIG BEKJEMPELSE AV INSEKTER OG GNAGERE
 
 (som nevnt i artikkel 12, 15, 16, 39, 45 og 57 i denne forordningen)
@@ -2249,6 +2267,7 @@ Ved endelig rengjøring og desinfisering som fastsatt i artikkel 57, gjelder fø
 3. Etter sju dager skal anleggene rengjøres og desinfiseres igjen.
 
 ### VEDLEGG V
+
 MINSTERADIUS FOR VERNESONER OG OVERVÅKINGSSONER
 
 (som nevnt i artikkel 21 i denne forordningen)
@@ -2273,6 +2292,7 @@ Angitt som radius av en sirkel med sentrum i anlegget
 | Infeksjon med Newcastle disease-virus | 3 km | 10 km |
 
 ### VEDLEGG VI
+
 FORBUD I RESTRIKSJONSSONEN
 
 (som nevnt i artikkel 27 i denne forordningen)
@@ -2314,6 +2334,7 @@ MERKNADER
 ◄**M1**
 
 ### VEDLEGG VII
+
 RISIKOREDUSERENDE BEHANDLINGER FOR PRODUKTER AV ANIMALSK OPPRINNELSE FRA RESTRIKSJONSSONEN
 
 (som nevnt i artikkel 27, 33 og 49 i denne forordningen)
@@ -2378,6 +2399,7 @@ RISIKOREDUSERENDE BEHANDLINGER FOR PRODUKTER AV ANIMALSK OPPRINNELSE FRA RESTRIK
 | Varmebehandling:<br>– Hele egg:<br>  – 55 °C – 2 521 sekunder<br>  – 57 °C – 1 596 sekunder<br>  – 59 °C – 674 sekunder<br>  – gjennomkokt<br>– Flytende eggehvite:<br>  – 55 °C – 2 278 sekunder<br>  – 57 °C – 986 sekunder<br>  – 59 °C – 301 sekunder<br>– 10 % saltet eggeplomme:<br>  – 55 °C – 176 sekunder<br>– Tørket eggehvite:<br>  – 57 °C – 54,0 timer |  | X |
 
 ### VEDLEGG VIII
+
 ►M2 RISIKOREDUSERENDE BEHANDLINGER FOR PRODUKTER AV IKKE-ANIMALSK OPPRINNELSE FRA RESTRIKSJONSSONEN ◄M2
 
 (som nevnt i artikkel 36 og 52 i denne forordningen)
@@ -2390,6 +2412,7 @@ RISIKOREDUSERENDE BEHANDLINGER FOR PRODUKTER AV ANIMALSK OPPRINNELSE FRA RESTRIK
 1 Sykdomsforkortelser i samsvar med vedlegg II.
 
 ### VEDLEGG IX
+
 MERKING AV FERSKT KJØTT FRA VERNESONEN
 
 (som nevnt i artikkel 33 og 49 i denne forordningen)
@@ -2417,6 +2440,7 @@ MERKING AV FERSKT KJØTT FRA VERNESONEN
       - Bokstavene skal være minst 0,8 cm høye og tallene minst 1 cm høye.
 
 ### VEDLEGG X
+
 VARIGHET AV TILTAKENE I VERNESONEN
 
 (som nevnt i artikkel 39 i denne forordningen)
@@ -2439,6 +2463,7 @@ VARIGHET AV TILTAKENE I VERNESONEN
 | Infeksjon med Newcastle disease-virus | 21 dager | 9 dager |
 
 ### VEDLEGG XI
+
 VARIGHET AV TILTAKENE I OVERVÅKINGSSONEN
 
 (som nevnt i artikkel 55 og 56 i denne forordningen)
@@ -2461,6 +2486,7 @@ VARIGHET AV TILTAKENE I OVERVÅKINGSSONEN
 | Infeksjon med Newcastle disease-virus | 30 dager |
 
 ### VEDLEGG XII
+
 PRØVETAKINGSMETODER OG DIAGNOSTISKE METODER FOR KATEGORI A-SYKDOMMER HOS AKVATISKE DYR
 
 1. Følgende gjelder for klinisk undersøkelse og prøvetaking:
@@ -2505,6 +2531,7 @@ PRØVETAKINGSMETODER OG DIAGNOSTISKE METODER FOR KATEGORI A-SYKDOMMER HOS AKVATI
 2. Prøvene skal undersøkes på laboratoriet ved hjelp av de diagnostiske metodene og framgangsmåtene som er godkjent av EU-referanselaboratoriet for den aktuelle sykdommen.
 
 ### VEDLEGG XIII
+
 MINSTETID FOR BRAKKLEGGING AV RAMMEDE AKVAKULTURANLEGG
 
 Varighet av brakkleggingen fastsatt i artikkel 81 og den samtidige brakkleggingen fastsatt i artikkel 96 nr. 4 og 5 i denne forordningen
@@ -2518,6 +2545,7 @@ Varighet av brakkleggingen fastsatt i artikkel 81 og den samtidige brakklegginge
 | *Epizootisk hematopoietisk nekrose* | 8 uker | 4 uker | Skal omfatte den varmeste tiden av året |
 
 ### VEDLEGG XIV
+
 KRITERIER FOR Å OPPRETTE RESTRIKSJONSSONER MED HENSYN TIL KATEGORI A-SYKDOMMER HOS AKVATISKE DYR
 
 1. Restriksjonssoner som nevnt i artikkel 85 skal fastsettes for hvert enkelt tilfelle idet det tas hensyn til minst følgende faktorer:
@@ -2546,6 +2574,7 @@ KRITERIER FOR Å OPPRETTE RESTRIKSJONSSONER MED HENSYN TIL KATEGORI A-SYKDOMMER 
       2. I områder inne i landet: Et utvidet område utenfor den opprettede vernesonen.
 
 ### VEDLEGG XV
+
 OVERVÅKINGSORDNING OG VARIGHET AV BEKJEMPELSESTILTAK I OVERVÅKINGSSONEN FOR KATEGORI A-SYKDOMMER HOS AKVAKULTURDYR
 
 (som nevnt i artikkel 98 og 101 i denne forordningen)
@@ -2604,6 +2633,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/361
 ►**B** Forordning [(EU) 2023/361](eu/32023r0361) om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for bruk av visse legemidler til dyr med henblikk på forebygging og bekjempelse av visse listeførte sykdommer
 
 ### Delegert kommisjonsforordning [(EU) 2023/361](eu/32023r0361)
+
 av 28. november 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for bruk av visse legemidler til dyr med henblikk på forebygging og bekjempelse av visse listeførte sykdommer
 
@@ -2653,6 +2683,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -2713,9 +2744,11 @@ Medlemsstatene skal forby bruk av følgende legemidler til dyr som gis til dyr f
 4. Antimikrobielle midler.
 
 ### DEL II
+
 REGLER FOR BRUK AV VAKSINER FOR Å FOREBYGGE OG BEKJEMPE KATEGORI A-SYKDOMMER HOS DYR
 
 ### KAPITTEL 1
+
 Forutsetninger
 
 ###### Artikkel 5
@@ -2750,6 +2783,7 @@ Offisiell vaksinasjonsplan for å forebygge og bekjempe kategori A-sykdommer hos
 5\. Kommisjonen skal, i samsvar med artikkel 71 i forordning [(EU) 2016/429](eu/32016r0429), gjennomgå de nasjonale tiltakene nevnt i nr. 2 i nevnte artikkel, som fastsatt i den offisielle vaksinasjonsplanen, og handle i samsvar med nevnte artikkel.
 
 ### KAPITTEL 2
+
 Regler for gjennomføring av vaksinasjon av landdyr og ikrafttredelse
 
 ###### Avsnitt 1
@@ -2973,16 +3007,19 @@ Utferdiget i Brussel 28. november 2022.
 ### VEDLEGG I
 
 ### DEL 1
+
 KATEGORI A-SYKDOMMER SOM MEDLEMSSTATENE SKAL FORBY BRUK AV VAKSINER MOT
 
 - Infeksjon med kvegpest-virus
 
 ### DEL 2
+
 KATEGORI B-SYKDOMMER SOM MEDLEMSSTATENE SKAL FORBY BRUK AV VAKSINER MOT
 
 - Infeksjon med *Mycobacterium tuberculosis complex (M. bovis, M. caprae og M. tuberculosis)*
 
 ### DEL 3
+
 BRUK AV VISSE LEGEMIDLER TIL DYR, BORTSETT FRA VAKSINER, FOR Å FOREBYGGE OG BEKJEMPE KATEGORI A- OG B-SYKDOMMER
 
 *(Artikkel 4)*
@@ -2993,6 +3030,7 @@ BRUK AV VISSE LEGEMIDLER TIL DYR, BORTSETT FRA VAKSINER, FOR Å FOREBYGGE OG BEK
 | Infeksjon med *Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis)* | Immunologiske legemidler til dyr for å bestemme dyrs immunstatus: tuberkulin | Bruk skal tillates bare i samsvar med delegert forordning [(EU) 2020/688](eu/32020r0688), delegert forordning [(EU) 2020/689](eu/32020r0689), delegert forordning [(EU) 2020/686](eu/32020r0686) og forordning [(EU) nr. 853/2004](eu/32004r0853), eller for eksportformål |
 
 ### VEDLEGG II
+
 Kriterier for bruk av en vaksine for å forebygge og bekjempe en kategori A-sykdom hos dyr
 
 ### DEL 1
@@ -3031,6 +3069,7 @@ I tillegg til kriteriene fastsatt i nr. 1 skal følgende kriterier tas i betrakt
 7. Muligheten til å kontrollere vaksinasjonen og etablere et overvåkingssystem for å påvise den spesifikke sykdomsagensen og vurdere vaksinasjonens effektivitet.
 
 ### DEL 2
+
 FORENKLET VURDERING AV VAKSINASJONSSTRATEGIEN
 
 1. Antall anlegg der kategori A-sykdommen er bekreftet eller mistenkt.
@@ -3041,6 +3080,7 @@ FORENKLET VURDERING AV VAKSINASJONSSTRATEGIEN
 6. Grad av luftbåren eller vektorbåren spredning av sykdomsagensen fra anleggene eller området der kategori A-sykdommen er bekreftet.
 
 ### VEDLEGG III
+
 Opplysninger som skal tas med i den offisielle vaksinasjonsplanen
 
 ### DEL 1
@@ -3077,6 +3117,7 @@ Dersom vaksinasjonen omfatter viltlevende dyr av listeførte arter, skal den off
 5. Utleveringssystem for vaksinen.
 
 ### DEL 2
+
 FORENKLEDE OPPLYSNINGER SOM SKAL TAS MED I DEN OFFISIELLE VAKSINASJONSPLANEN
 
 1. Beskrivelse og resultatene av vurderingen som er foretatt i samsvar med vedlegg II, herunder den epidemiologiske situasjonen og de relevante opplysningene som ligger til grunn for vurderingen.
@@ -3088,6 +3129,7 @@ FORENKLEDE OPPLYSNINGER SOM SKAL TAS MED I DEN OFFISIELLE VAKSINASJONSPLANEN
 7. Oversikt over vaksinens egenskaper, herunder navn på produkter og produsenter.
 
 ### VEDLEGG IV
+
 Foreløpige opplysninger som skal framlegges for andre medlemsstater og for Kommisjonen før vaksinasjon
 
 Medlemsstaten som har til hensikt å bruke vaksinasjon mot kategori A-sykdommer, skal gi følgende opplysninger før vaksinasjonen påbegynnes:
@@ -3101,6 +3143,7 @@ Medlemsstaten som har til hensikt å bruke vaksinasjon mot kategori A-sykdommer,
 7. Beskrivelse av den antatte vaksinasjonssonen.
 
 ### VEDLEGG V
+
 Minstekrav til vaksinasjonsregistreringer
 
 *1. Holdte dyr*
@@ -3125,6 +3168,7 @@ Minstekrav til vaksinasjonsregistreringer
 - metoder for å overvåke vaksinasjonseffektivitet og metoder for sykdomsovervåking i vaksinerte soner
 
 ### VEDLEGG VI
+
 Minstekrav til opplysninger som vedkommende myndighet skal framlegge for andre medlemsstater og Kommisjonen om gjennomføring av vaksinasjon
 
 *1. Minstekrav til opplysninger som skal inngå i rapportene*
@@ -3151,9 +3195,11 @@ Minstekrav til opplysninger som vedkommende myndighet skal framlegge for andre m
 | Innen sju dager etter at vaksinen er administrert til alle dyr som inngår i den offisielle vaksinasjonsplanen | Minst én gang ved avslutningen av den årlige vaksinasjonen for flerårige vaksinasjonskampanjer | Minst hver sjette måned for flerårige vaksinasjonskampanjer | Én gang i året |
 
 ### VEDLEGG VII
+
 Munn- og klovsyke (FMD)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE FMD
 
 1. Type vaksine som skal brukes eller prioriteres: inaktiverte vaksiner (svekkede levende vaksiner skal ikke brukes).
@@ -3162,6 +3208,7 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 4. Måldyr/-arter: listeførte arter i samsvar med gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE FMD
 
 Følgende kliniske overvåking og laboratorieovervåking skal gjennomføres i vaksinasjonssonen for å identifisere anlegg som holder dyr av listeførte arter som har hatt kontakt med FMD-viruset, uten å vise kliniske tegn på sykdommen i perioden som begynner tidligst 30 dager etter at beskyttende nødvaksinasjon er fullført. Denne overvåkingen skal omfatte
@@ -3178,6 +3225,7 @@ Følgende kliniske overvåking og laboratorieovervåking skal gjennomføres i va
    4. Dersom vedkommende myndighet i tillegg bruker kontrolldyr som er innført i rammede anlegg som en del av gjeninnsettingen, skal det tas hensyn til vilkårene for gjeninnsetting i rammede anlegg fastsatt i delegert forordning [(EU) 2020/687](eu/32020r0687).
 
 ### DEL 3
+
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I VAKSINASJONSSONER DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE FMD
 
 1\.
@@ -3250,6 +3298,7 @@ Etter at den særlige overvåkingen fastsatt i del 2 i dette vedlegget er fullf�
 5. Uttak av sæd i samsvar med nr. 3.1 bokstav d).
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR FMD ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking for å dokumentere fravær av forekomst av FMD* |
@@ -3258,9 +3307,11 @@ RESTITUSJONSPERIODER FOR FMD ETTER BESKYTTENDE NØDVAKSINASJON
 | De relevante anbefalingene i FMD-kapittelet, 30. utgave 2022, i Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr er oppfylt |  |
 
 ### VEDLEGG VIII
+
 Infeksjon med Rift Valley Fever-virus (RVF)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE RVF
 
 1. Størrelse på vaksinasjonssonen: 50 km radius rundt rammede anlegg eller ringvaksinasjon mellom 20 og 50 km.
@@ -3270,11 +3321,13 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 5. Måldyr/-arter: Dyr av listeførte arter i samsvar med gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) som holdes i vaksinasjonssonen, herunder minst storfe, sau, geit og dyr av kamelfamilien.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE RVF
 
 Passiv overvåking: i vaksinasjons- og randsonene, økt passiv overvåking av aborter, dødfødsler og neonatal dødelighet om sommeren og høsten (under toppen av og slutten av vektorsesongen).
 
 ### DEL 3
+
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I EN VAKSINASJONSSONE DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE RVF
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger: vaksinerte dyr og produkter av disse, herunder sæd, embryoer og oocytter som er beregnet på forflytning til andre medlemsstater.
@@ -3284,14 +3337,17 @@ SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVIL
    Forflytning av vaksinerte dyr og produkter av disse, herunder sæd, embryoer og oocytter, til en annen medlemsstat der vedkommende myndighet i bestemmelsesmedlemsstaten gir en særlig tillatelse til innførsel av hver sending vaksinerte dyr eller produkter av disse. Denne tillatelsen kan baseres på resultatene av laboratorieundersøkelser.
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR RVF
 
 Ingen ytterligere sykdomsspesifikke krav.
 
 ### VEDLEGG IX
+
 Infeksjon med lumpy skin disease-virus (LSD)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE LSD
 
 1\.
@@ -3327,11 +3383,13 @@ Minimumsdekning: vaksinasjonsdekning for minst 95 % av anleggene som holder sto
 Måldyr/-arter: alle storfe og deres avkom som holdes i vaksinasjonssonen.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE LSD
 
 Ingen ytterligere sykdomsspesifikke krav.
 
 ### DEL 3
+
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I VAKSINASJONSSONER DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE LSD
 
 1\.
@@ -3471,6 +3529,7 @@ Krav til transportmiddelet som brukes til forflytning av forsendelser av storfe 
 9 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR LSD ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking for å dokumentere fravær av forekomst av LSD* |
@@ -3480,9 +3539,11 @@ RESTITUSJONSPERIODER FOR LSD ETTER BESKYTTENDE NØDVAKSINASJON
 | 8 måneder etter siste vaksinasjon dersom beskyttende nødvaksinasjon er blitt brukt (i vaksinasjonssone II), og klinisk overvåking og laboratorieovervåking ikke har dokumentert forekomst av LSD i løpet av denne perioden | Klinisk og laboratorium (virologisk og serologisk) |
 
 ### VEDLEGG X
+
 Infeksjon med småfepest-virus (PPR)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE PPR
 
 1. Størrelse på vaksinasjonssonen: ingen særlige vilkår.
@@ -3492,11 +3553,13 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 5. Måldyr/-arter: dyr av listeførte arter i samsvar med gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) som holdes i vaksinasjonssonen, herunder minst sau og geit.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE PPR
 
 Passiv overvåking: i vaksinasjons- og randsonene, økt passiv overvåking for å se etter tegn og symptomer på PPR og økt dødelighet hos små drøvtyggere.
 
 ### DEL 3
+
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I EN VAKSINASJONSSONE DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE PPR
 
 1\.
@@ -3526,6 +3589,7 @@ Forflytninger av vaksinerte dyr og produkter av disse fra anlegg i vaksinasjonss
 Forflytninger av vaksinerte dyr og produkter av disse fra anlegg i vaksinasjonssonen etter at det har gått to år siden vaksinasjonens opphør.
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR PPR ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking for å dokumentere fravær av forekomst av PPR* |
@@ -3534,9 +3598,11 @@ RESTITUSJONSPERIODER FOR PPR ETTER BESKYTTENDE NØDVAKSINASJON
 | 24 måneder etter slakting eller avliving av det siste tilfellet, eller etter siste vaksinasjon dersom beskyttende nødvaksinasjon er blitt brukt, avhengig av hva som skjedde sist, og klinisk overvåking og laboratorieovervåking ikke har dokumentert forekomst av PPR i løpet av denne perioden | Klinisk og laboratorium (virologisk og serologisk) |
 
 ### VEDLEGG XI
+
 Afrikansk hestepest (AHS)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE AHS
 
 1. Type vaksine som skal brukes eller prioriteres: monovalente vaksiner eller, dersom monovalente vaksiner ikke er tilgjengelige, polyvalente vaksiner med minst mulig antall valenser som er godkjent av vedkommende myndighet.
@@ -3546,6 +3612,7 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 5. Måldyr/-arter: alle hestedyr i vaksinasjonssonen, i samsvar med vaksineprodusentens/markedsføringstillatelsens instruksjoner.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE AHS
 
 Klinisk overvåking og laboratorieovervåking skal utføres i vaksinasjonssonen. Overvåkingen skal minst omfatte
@@ -3555,6 +3622,7 @@ Klinisk overvåking og laboratorieovervåking skal utføres i vaksinasjonssonen.
 3. overvåking av *Culicoides*.
 
 ### DEL 3
+
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I VAKSINASJONSSONER DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE AHS
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger:
@@ -3573,6 +3641,7 @@ SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVIL
       5. er beskyttet mot angrep fra vektorer.
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR AHS ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking som skal gjennomføres i løpet av restitusjonsperioden* |
@@ -3581,9 +3650,11 @@ RESTITUSJONSPERIODER FOR AHS ETTER BESKYTTENDE NØDVAKSINASJON
 | De relevante anbefalingene i AHS-kapittelet, 30. utgave 2022, i Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr |  |
 
 ### VEDLEGG XII
+
 Klassisk svinepest (CSF)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE CSF
 
 1. Størrelse på vaksinasjonssonen: ingen særlige vilkår.
@@ -3593,11 +3664,13 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 5. Måldyr/-arter: dyr av listeførte arter i samsvar med gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882), som holdes i vaksinasjonssonen.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE CSF
 
 Ingen ytterligere sykdomsspesifikke krav.
 
 ### DEL 3
+
 DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I EN VAKSINASJONSSONE DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE CSF
 
 *1. Dyr og produkter som er underlagt forbud mot forflytninger*
@@ -3630,6 +3703,7 @@ Forflytning av dyr og produkter av disse som kan tillates:
    4. etter gjeninnsetting har svin i alle anlegg i vaksinasjonssonen gjennomgått kliniske undersøkelser og laboratorieundersøkelser i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687) for å påvise mulig forekomst av CSF-virus, og disse undersøkelsene ble ikke gjennomført før det hadde gått minst 40 dager etter gjeninnsettingen, og i denne perioden er det ikke tillatt å flytte svin fra anlegget.
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR CSF ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking som skal gjennomføres i løpet av restitusjonsperioden* |
@@ -3638,9 +3712,11 @@ RESTITUSJONSPERIODER FOR CSF ETTER BESKYTTENDE NØDVAKSINASJON
 | De relevante anbefalingene i CSF-kapittelet, 30. utgave 2022, i Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr |  |
 
 ### VEDLEGG XIII
+
 Høypatogen aviær influensa (HPAI)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE HPAI
 
 1. Størrelse på vaksinasjonssonen: ingen særlige vilkår.
@@ -3650,11 +3726,13 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 5. Måldyr/-arter: fjørfe eller fugler i fangenskap som holdes i de anleggene som inngår i den offisielle vaksinasjonsplanen.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE HPAI
 
 Laboratorieovervåking ved innsamling av prøver for virologisk undersøkelse skal gjennomføres annenhver uke i anlegg der det er utført beskyttende nødvaksinasjon for å påvise forekomst av infeksjon med HPAI-feltvirus. Overvåkingen skal gjøre det mulig å påvise en prevalens av infeksjon med HPAI-viruset i det vaksinerte anlegget på høyst 5 % med et konfidensnivå på 95 %.
 
 ### DEL 3
+
 DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I EN VAKSINASJONSSONE DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE HPAI
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger: vaksinert fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen.
@@ -3666,6 +3744,7 @@ DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVI
    Etter utgangen av restitusjonsperioden skal tiltakene fastsatt i del 5 nr. 2–4 opprettholdes i anlegg som holder vaksinerte dyr, så lenge de holder vaksinerte dyr.
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR HPAI ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking som skal gjennomføres i løpet av restitusjonsperioden* |
@@ -3673,6 +3752,7 @@ RESTITUSJONSPERIODER FOR HPAI ETTER BESKYTTENDE NØDVAKSINASJON
 | 28 dager etter at den beskyttende nødvaksinasjonen er fullført, eller på tidspunktet for oppheving av restriksjonssonene som er opprettet i samsvar med artikkel 21 i delegert forordning [(EU) 2020/687](eu/32020r0687), dersom dette skjer senere | Forsterket overvåking i samsvar med artikkel 9 nr. 1 bokstav c) og del 2 |
 
 ### DEL 5
+
 SÆRLIGE VILKÅR FOR FOREBYGGENDE VAKSINASJON MOT HPAI
 
 1\.
@@ -3750,9 +3830,11 @@ Vilkår for å innvilge unntak for forflytning av egg beregnet på konsum og kj�
 2. forflytning av kjøtt fra fjørfe i samsvar med vilkårene fastsatt i nr. 4.1 bokstav a) i) og v) og 4.1 bokstav c) kan tillates uten ytterligere vilkår.
 
 ### VEDLEGG XIV
+
 Infeksjon med Newcastle disease-virus (NCD)
 
 ### DEL 1
+
 SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE NCD
 
 1. Størrelse på vaksinasjonssonen: ingen særlige vilkår.
@@ -3762,11 +3844,13 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 5. Måldyr/-arter: Fjørfe og fugler i fangenskap.
 
 ### DEL 2
+
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE NCD
 
 Ingen særlige vilkår i tillegg til den forsterkede overvåkingen i samsvar med artikkel 9 nr. 1 bokstav c).
 
 ### DEL 3
+
 DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I EN VAKSINASJONSSONE DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE NCD
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger: vaksinert fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen.
@@ -3776,6 +3860,7 @@ DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVI
    Forflytning av vaksinerte fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen kan tillates bare i de tilfellene som omfattes av og på de samme alminnelige og særlige vilkårene som dem som er fastsatt i artikkel 28, 29, 30, 31, 33, 34 og 37 i delegert forordning [(EU) 2020/687](eu/32020r0687).
 
 ### DEL 4
+
 RESTITUSJONSPERIODER FOR NCD ETTER BESKYTTENDE NØDVAKSINASJON
 
 | *Restitusjonsperiode* | *Type overvåking som skal gjennomføres i løpet av restitusjonsperioden* |
@@ -3789,6 +3874,7 @@ RESTITUSJONSPERIODER FOR NCD ETTER BESKYTTENDE NØDVAKSINASJON
 ►**B** KOMMISJONENS DELEGERTE FORORDNING [(EU) 2022/139](eu/32022r0139) av 16. november 2021 om utfyllende bestemmelser til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med regler om forvaltning, lagring og utskifting av lagre av Unionens antigen, vaksine og diagnostiske banker og biosikkerhet, biologisk trygghet og biologiske begrensningskrav for drift av slike banker.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/139](eu/32022r0139)
+
 av 16. november 2021
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til forvaltning, oppbevaring og erstatning av beholdninger i Unionens antigen-, vaksine- og diagnosereagensbanker og om kravene til biosikkerhet, biotrygghet og biologisk inneslutning ved drift av disse bankene
 
@@ -3969,6 +4055,7 @@ Utferdiget i Brussel 16. november 2021.
 |  | *President* |
 
 ### VEDLEGG I
+
 VILKÅR FOR LEVERING OG OPPBEVARING AV ANTIGENER, VAKSINER OG DIAGNOSEREAGENSER SOM NEVNT I ARTIKKEL 6 NR. 1
 
 1. Antigener, vaksiner eller diagnosereagenser skal oppbevares ved anlegget og være underlagt ansvarsområdet til de utvalgte produsentene nevnt i artikkel 3 nr. 1 eller artikkel 4 nr. 1, eller til EU-referanselaboratoriene nevnt i artikkel 5.
@@ -3993,6 +4080,7 @@ VILKÅR FOR LEVERING OG OPPBEVARING AV ANTIGENER, VAKSINER OG DIAGNOSEREAGENSER 
 15 Europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726) av 31. mars 2004 om fastsettelse av framgangsmåter i Fellesskapet for godkjenning og overvåking av legemidler for mennesker og veterinærpreparater og om opprettelse av et europeisk legemiddelkontor (EUT L 136 av 30.4.2004, s. 1).
 
 ### VEDLEGG II
+
 TILLEGGSVILKÅR FOR LEVERING OG OPPBEVARING AV KONSENTRERTE INAKTIVERTE ANTIGENER AV MUNN- OG KLOVSYKEVIRUS SOM NEVNT I ARTIKKEL 6 NR. 2
 
 1. Hvert antigen skal bestå av ett homogent parti.
@@ -4019,6 +4107,7 @@ TILLEGGSVILKÅR FOR LEVERING OG OPPBEVARING AV KONSENTRERTE INAKTIVERTE ANTIGENE
 ►**B** KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2022/140](eu/32022r0140) av 16. november 2021 om bestemmelser som gjennomfører europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med regler om Unionens antigen, vaksine og diagnostiske banker.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/140 av 16. november 2021
+
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til Unionens antigen-, vaksine- og diagnosereagensbanker
 
 EUROPAKOMMISJONEN HAR
@@ -4125,6 +4214,7 @@ Utferdiget i Brussel 16. november 2021.
 |  | *President* |
 
 ### VEDLEGG I
+
 Biologiske produkter som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker, som nevnt i artikkel 3
 
 | *Navn på kategori A-sykdom* | *Biologisk produkt* | *Type og/eller stamme av biologisk produkt* | *Antall doser* | *Det biologiske produktets holdbarhetstid* |
@@ -4137,6 +4227,7 @@ Biologiske produkter som skal finnes i Unionens antigen-, vaksine- og diagnosere
 | Saue- og geitekopper | vaksine | levende svekket eller inaktivert | minst 250 000 | minst 20 måneder |
 
 ### VEDLEGG II
+
 Tilleggskrav vedrørende oppbevaring av antigener og vaksiner, som nevnt i artikkel 4 nr. 2
 
 ### A. Antigener fra munn- og klovsykevirus
@@ -4160,6 +4251,7 @@ Tilleggskrav vedrørende oppbevaring av antigener og vaksiner, som nevnt i artik
 5 Europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082) (EUT L 4 av 7.1.2019, s. 43).
 
 ### VEDLEGG III
+
 Krav vedrørende formulering av antigener fra munn- og klovsykevirus til vaksiner og vedrørende merking av bruksferdige vaksiner, som nevnt i artikkel 5
 
 1. Formuleringen av antigenet eller antigenene til vaksiner skal utføres på følgende måte:
@@ -4173,6 +4265,7 @@ Krav vedrørende formulering av antigener fra munn- og klovsykevirus til vaksine
 6. Eskene med vaksiner skal ha følgende etikett i A4-format:
 
 ### VEDLEGG IV
+
 Prosedyrer for frigivelse og levering av vaksiner formulert fra antigenene fra munn- og klovsykeviruset, som nevnt i artikkel 6 nr. 2
 
 1. Etter at Kommisjonen har varslet om anmodningen om levering, skal produsenten som det er inngått avtale med, overholde følgende leveringsfrister:
@@ -4189,6 +4282,7 @@ Prosedyrer for frigivelse og levering av vaksiner formulert fra antigenene fra m
 6 WHO, Verdens helseorganisasjon, «Temperature monitors for vaccines and the cold chain», dokument WHO/V&B/99.15 (1999).
 
 ### VEDLEGG V
+
 Prosedyrer for levering av vaksiner som oppbevares i Unionens vaksinebanker, som nevnt i artikkel 6 nr. 3
 
 1. Levering av vaksinene fra oppbevaringsstedet skal skje innen 3-15 virkedager etter at Kommisjonen har varslet om anmodningen om levering, avhengig av hvor mye det haster.
@@ -4196,6 +4290,7 @@ Prosedyrer for levering av vaksiner som oppbevares i Unionens vaksinebanker, som
 3. Eskene med vaksiner skal ha følgende etikett i A4-format:
 
 ### VEDLEGG VI
+
 Tilleggskriterier for distribusjon av de nødvendige mengdene og typene av vaksiner, som nevnt i artikkel 8 nr. 2
 
 1. En medlemsstat, et tredjeland eller et territorium som anmoder om et antigen, en vaksine eller en diagnosereagens, kan høyst motta halvparten av de beholdningene som er tilgjengelige i Unionens antigen-, vaksine- og diagnosereagensbank.

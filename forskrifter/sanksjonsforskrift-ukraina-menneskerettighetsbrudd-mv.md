@@ -15,7 +15,7 @@ xml_hash: "46efe8700e6e3db3b75e653f966956785296529268e2caca96e3bca4d8f9d9e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,7 @@ Denne forskrift trer i kraft straks.
 ## Vedlegg A:
 
 ### RÅDSFORORDNING [(EU) NR. 208/2014](eu/32014r0208*)
+
 av 5. mars 2014
 om restriktive tiltak
 mot visse personer, enheter og organer
@@ -234,6 +235,7 @@ EUs konsoliderte liste over personer, enheter og organer underlagt restriktive t
 > Endret ved [forskrifter 27 aug 2015 nr. 1012](forskrift/2015-08-27-1012), [23 nov 2016 nr. 1364](forskrift/2016-11-23-1364), [21 mars 2017 nr. 360](forskrift/2017-03-21-360).
 
 ## Vedlegg II.
+
 Websites for information on the competent authorities and address for notification to the European Commission
 
 [Lenker er gjengitt som i Utenriksdepartementets kunngjøring i Norsk Lovtidend, Lovdatas anm.]

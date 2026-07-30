@@ -15,7 +15,7 @@ xml_hash: "2c1698230f78e32849339803c28674c6d368d2192e485e3f308498f2a945f5d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -648,6 +648,7 @@ Teknisk dokumentasjon skal minst inneholde følgende opplysninger:
 > Tilføyd ved forskrift [17 april 2024 nr. 632](forskrift/2024-04-17-632) (i kraft 28 des 2024 og 28 april 2026).
 
 ### Del 1
+
 Spesifikasjoner for ladeegenskaper
 
 1\.
@@ -731,6 +732,7 @@ støtte USB Power Delivery, som beskrevet i standarden EN IEC 62680-1-2:2022 «U
 være slik konstruert at eventuelle tilleggsprotokoller for lading muliggjør full funksjonalitet av USB Power Delivery nevnt i nr. 3.1, uavhengig av hvilken ladeenhet som brukes.
 
 ### Del 2
+
 Opplysninger om spesifikasjoner for ladeegenskaper og kompatible ladere
 
 For radioutstyr som omfattes av del 1, skal følgende opplysninger angis i samsvar med kravene fastsatt i § 25 fjerde ledd. Opplysningene kan i tillegg gjøres tilgjengelige ved hjelp av QR-koder eller lignende elektroniske løsninger:
@@ -739,6 +741,7 @@ For radioutstyr som omfattes av del 1, skal følgende opplysninger angis i samsv
 2. Når det gjelder radioutstyr som er underlagt kravene i del 1 nr. 3, en beskrivelse av spesifikasjonene for radioutstyrets ladekapasitetsegenskaper, i den grad det kan lades ved kabellading ved en høyere spenning enn 5 volt, høyere strømstyrke enn 3 ampere eller høyere effekt enn 15 watt, inkludert en angivelse av at radioutstyret støtter ladeprotokollen for USB Power Delivery ved å vise teksten «Hurtiglading via USB PD», eller tilsvarende tekst på dansk, svensk eller engelsk, og en angivelse av eventuelle andre ladeprotokoller som støttes, ved å vise navnet i tekstformat.
 
 ### Del 3
+
 Piktogram som angir om en ladeenhet følger med radioutstyret eller ikke
 
 1\.
@@ -758,6 +761,7 @@ Dersom det ikke følger noen ladeenhet med radioutstyret:
 Så lenge det forblir synlig og leselig, kan piktogrammets utforming variere (f.eks. når det gjelder farge, kontur og linjetykkelse). Dersom piktogrammet forminskes eller forstørres, skal størrelsesforholdet som er angitt i figurene i nr. 1 i denne delen, opprettholdes. Størrelsen «a» nevnt i nr. 1 i denne delen skal være minst 7 mm, uavhengig av endringen.
 
 ### Del 4
+
 Etikettens innhold og format
 
 1\.

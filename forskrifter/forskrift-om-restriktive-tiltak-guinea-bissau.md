@@ -15,7 +15,7 @@ xml_hash: "d6ca5be797aaf6dfd2612804da7f6cf4ccc939eb2b717e598d32011e925c8981"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,6 +71,7 @@ Denne forskrift trer i kraft straks.
 > Endret ved forskrift [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
 
 ### RÅDSFORORDNING [(EU) NR. 377/2012](eu/32012r0377*)
+
 av 3. mai 2012
 om restriktive tiltak mot visse personer, enheter og organer som truer freden, sikkerheten eller stabiliteten i Republikken Guinea-Bissau
 
@@ -207,6 +208,7 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 ### Vedlegg I
+
 Liste over juridiske personer, enheter og organer nevnt i artiklene 2 nr. 1 og 2 nr. 2
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).[^1]
@@ -218,6 +220,7 @@ Listeførte med landkode («programme») GNB – Guinea-Bissau, er listeført un
 1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.
 
 ### Vedlegg II
+
 Nettsider for informasjon om de kompetente myndigheter i EUs medlemsstater nevnt i artiklene 4 nr. 1, 5 nr. 1 og 8 nr. 1, samt adresse for notifikasjon til EU-kommisjonen
 
 *A. Competent authorities in each Member State:*

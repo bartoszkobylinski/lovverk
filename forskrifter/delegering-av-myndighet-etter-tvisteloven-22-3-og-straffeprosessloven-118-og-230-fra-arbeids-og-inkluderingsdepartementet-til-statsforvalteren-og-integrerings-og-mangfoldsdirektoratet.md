@@ -15,7 +15,7 @@ xml_hash: "b48d3859feb4449f7727d623ad06385cadb4e432ba33219608b01b332d1a5502"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,6 +23,7 @@ eu_basis: []
 # Delegering av myndighet etter tvisteloven § 22-3 og straffeprosessloven §§ 118 og 230 fra Arbeids- og inkluderingsdepartementet til statsforvalteren og Integrerings- og mangfoldsdirektoratet
 
 ## I
+
 Delegering til statsforvalteren
 
 Arbeids- og inkluderingsdepartementet delegerer følgende myndighet til statsforvalteren:
@@ -38,6 +39,7 @@ Arbeids- og inkluderingsdepartementet delegerer følgende myndighet til statsfor
 3. Delegeringen er begrenset til å gjelde samtykke til å føre som bevis opplysninger omfattet av lovbestemt taushetsplikt etter [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13](lov/1967-02-10/§13) og opplysninger eller forhold ansatte nevnt i punkt 1 og 2 har fått kjennskap til i forbindelse med tjeneste, arbeid, oppdrag eller på annen måte i saker etter [introduksjonsloven](lov/2003-07-04-80) eller [integreringsloven](lov/2020-11-06-127).
 
 ## II
+
 Delegering til Integrerings- og mangfoldsdirektoratet
 
 Arbeids- og inkluderingsdepartementet delegerer følgende myndighet til Integrerings- og mangfoldsdirektoratet:

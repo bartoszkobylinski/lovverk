@@ -16,7 +16,7 @@ xml_hash: "7bcc38dbfd7c28de5d439ae511af7d5d5a7e1e205bf3f41820194e6b6c842c1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,6 +50,7 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/160](eu/32022r0160) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2022/160](eu/32022r0160)
+
 av 4. februar 2022
 om fastsettelse av samme minstehyppighet for visse offentlige kontroller for å verifisere overholdelsen av dyrehelsekravene i Unionen i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625), og om oppheving av forordning [(EF) nr. 1082/2003](eu/32003r1082) og [(EF) nr. 1505/2006](eu/32006r1505)
 
@@ -185,6 +186,7 @@ Utferdiget i Brussel 4. februar 2022.
 |  | *President* |
 
 ### VEDLEGG
+
 Sammenligningstabeller nevnt i artikkel 7 nr. 2
 
 2\. Forordning [(EF) nr. 1505/2006](eu/32006r1505)
@@ -222,6 +224,7 @@ Sammenligningstabeller nevnt i artikkel 7 nr. 2
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/671](eu/32022r0671) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/671](eu/32022r0671)
+
 av 4. februar 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til særlige regler for vedkommende myndigheters offentlige kontroll av dyr, produkter av animalsk opprinnelse og avlsmateriale, oppfølgingstiltak som skal treffes av vedkommende myndighet ved manglende overholdelse av reglene for identifikasjon og registrering av storfe, sau og geit eller manglende overholdelse under transitt av visse dyr av storfe gjennom Unionen, samt om oppheving av kommisjonsforordning [(EF) nr. 494/98](eu/31998r0494)
 

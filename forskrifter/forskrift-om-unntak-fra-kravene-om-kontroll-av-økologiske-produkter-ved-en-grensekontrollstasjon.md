@@ -17,7 +17,7 @@ xml_hash: "e6ceb41254665a4cb822451f8c9e53cea36eca2ccb330b913ff257e7eb0a42a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,6 +59,7 @@ Denne forskriften trer i kraft 25. juni 2022.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/2305](eu/32021r2305) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II.
 
 ### Delegert kommisjonsforordning (EU) 2021/2305
+
 av 21. oktober 2021
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med regler for i hvilke tilfeller og på hvilke vilkår økologiske produkter og omleggingsprodukter er unntatt fra offentlig kontroll på grensekontrollstasjoner, om stedet for offentlig kontroll av slike produkter og om endring av delegert kommisjonsforordning [(EU) 2019/2123](eu/32019r2123) og [(EU) 2019/2124](eu/32019r2124)
 

@@ -15,7 +15,7 @@ xml_hash: "40351d2182b8ed4d74f39d6a3010634bc8180bd7ac4650a6364d584732e61d80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -473,6 +473,7 @@ Nedenfor gjengis forordning [(EU) 2016/364](eu/32016r0364) slik Kommunal- og mod
 > Tilføyd ved [forskrift 21 sep 2016 nr. 1093](forskrift/2016-09-21-1093).
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2016/364](eu/32016r0364)
+
 av 1. juli 2015
 om klassifisering av byggevarers ytelse ved brannpåvirkning i henhold til europaparlaments- og rådsforordning [(EU) nr. 305/2011](eu/32011r0305)
 
@@ -525,6 +526,7 @@ Utferdiget i Brussel, 1. juli 2015.
 |  | *President* |
 
 ### VEDLEGG
+
 Klasser for ytelse ved brannpåvirkning
 
 1.1.
@@ -578,6 +580,7 @@ To eller flere uvesentlige lag som grenser til hverandre, uten noen vesentlige k
 1 Egenskapene defineres ut fra den relevante prøvingsmetoden.
 
 ### Tabell 1
+
 Klasser for byggevarers ytelse ved brannpåvirkning, unntatt gulvbelegg, lineære varmeisolerende varer for rør samt elektriske kabler
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
@@ -615,6 +618,7 @@ Klasser for byggevarers ytelse ved brannpåvirkning, unntatt gulvbelegg, lineær
 8 Ved flammeangrep på overflaten og, dersom det er relevant for varens tiltenkte bruk, flammeangrep på kanten.
 
 ### Tabell 2
+
 Klasser for gulvbeleggs ytelse ved brannpåvirkning
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
@@ -650,6 +654,7 @@ Klasser for gulvbeleggs ytelse ved brannpåvirkning
 8 Ved flammeangrep på overflaten og, dersom det er relevant for varens tiltenkte bruk, flammeangrep på kanten.
 
 ### Tabell 3
+
 Klasser for ytelse ved brannpåvirkning med hensyn til lineære varmeisolerende varer for rør
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |
@@ -685,6 +690,7 @@ Klasser for ytelse ved brannpåvirkning med hensyn til lineære varmeisolerende 
 8 Ved flammeangrep på overflaten og, dersom det er relevant for varens tiltenkte bruk, flammeangrep på kanten.
 
 ### Tabell 4
+
 Klasser for elektriske kablers ytelse ved brannpåvirkning
 
 | *Klasse* | *Prøvingsmetode(r)* | *Klassifiseringskriterier* | *Tilleggsklassifisering* |

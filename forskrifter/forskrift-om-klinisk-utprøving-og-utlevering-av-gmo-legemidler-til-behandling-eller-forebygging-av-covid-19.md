@@ -15,7 +15,7 @@ xml_hash: "39defda4d3ac5c32f20b6d722832be130d557e5b44e809f03c6f24482ebebf13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,6 +37,7 @@ Forskriften trer i kraft straks.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg II kapittel XIII nr. 20 (forordning [(EU) 2020/1043](eu/32020r1043)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll 1 til EØS-avtalen og avtalen for øvrig.
 
 ### Europaparlaments- og rådsforordning [(EU) 2020/1043](eu/32020r1043)
+
 av 15. juli 2020
 om gjennomføring av kliniske utprøvinger og utlevering av legemidler for mennesker som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av koronavirussykdom (covid-19)
 

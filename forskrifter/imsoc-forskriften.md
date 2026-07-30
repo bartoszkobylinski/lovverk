@@ -17,7 +17,7 @@ xml_hash: "38ad1be0b05cdc28dbc3451eaedfc99f0f292071bd5d35fee4bf3d0889b34cb6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,6 +75,7 @@ som endret ved:
 ► **M1** Kommisjonsforordning [(EU) 2021/547](eu/32021r0547) av 29. mars 2021
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1715](eu/32019r1715*)
+
 av 30. september 2019
 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)
 
@@ -206,6 +207,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL 1
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
@@ -321,6 +323,7 @@ I denne forordning menes med
     3. «lokal kontrollenhet» for en lokal vedkommende myndighet i en medlemsstat.
 
 ### KAPITTEL 2
+
 Allmenne prinsipper og vern av opplysninger
 
 ### Artikkel 3. Komponenter i IMSOC
@@ -445,9 +448,11 @@ Allmenne prinsipper og vern av opplysninger
 4\. Vedkommende myndigheter i medlemsstatene kan utpeke forskjellige felles behandlingsansvarlige i samme medlemsstat for å oppfylle en eller flere av forpliktelsene nevnt i nr. 3.
 
 ### KAPITTEL 3
+
 Komponenter, nettverk og kontaktpunkter
 
 ### AVSNITT 1
+
 iRASFF
 
 ###### Artikkel 12
@@ -694,6 +699,7 @@ Beredskapsplaner for iRASFF
 2\. Når iRASFF er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge inn opplysningene som er blitt utvekslet utenfor systemet, i systemet.
 
 ### AVSNITT 2
+
 ADIS
 
 ###### Artikkel 29
@@ -733,6 +739,7 @@ Beredskapsplaner for ADIS
 ◄ **M1**
 
 ### AVSNITT 3
+
 EUROPHYT
 
 ► **M1**
@@ -780,6 +787,7 @@ Lagringstid for personopplysninger i EUROPHYT-meldinger om utbrudd
 I EUROPHYT skal personopplysninger fra EUROPHYT-meldinger om utbrudd lagres i høyst ti år.
 
 ### AVSNITT 4
+
 TRACES
 
 ###### Artikkel 35
@@ -1018,6 +1026,7 @@ Beredskapsplaner for TRACES og medlemsstatenes nasjonale systemer i tilfelle ikk
 6\. Kommisjonen skal underrette brukere via TRACES to uker før en planlagt utilgjengelighet og opplyse om hvor lenge den vil vare og årsaken til den.
 
 ### KAPITTEL 4
+
 Sluttbestemmelser
 
 ### Artikkel 47. Opphevinger
@@ -1045,6 +1054,7 @@ Utferdiget i Brussel 30. september 2019.
 | President |  |
 
 ### VEDLEGG I
+
 Innhold i meldingene nevnt i artikkel 32
 
 ### **1. Generell informasjon**
@@ -1330,11 +1340,13 @@ Angi et av følgende:
 ### 10. Angi om noen av eller alle opplysningene i nr. 1.1, 1.3, 3.1, 4.1–4.4, 5.1–5.6, 6.1–6.7, 7.1–7.6 og 8 må sendes til Plantevernorganisasjonen for Europa og Middelhavsområdet.
 
 ### VEDLEGG II
+
 Felles innførselsdokumenter om helse (CHED)
 
 For å lese vedlegg II om det felles innførselsdokumentet om helse (CHED), se pdf-filen for forordning [(EU) 2019/1715](eu/32019r1715*) nedenfor.
 
 ### VEDLEGG III
+
 Sammenligningstabellen nevnt i artikkel 47 nr. 2
 
 1\. Direktiv [94/3/EF](eu/31994l0003*)
@@ -1461,6 +1473,7 @@ Sammenligningstabellen nevnt i artikkel 47 nr. 2
 Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bzg, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qzb og vedlegg II kap. XII nr. 164zh (forordning [(EU) 2024/2104](eu/32024r2104)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til [EØS-avtalen](avtale/avt-1992-05-02-1).
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2024/2104](eu/32024r2104)
+
 av 27. juni 2024
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen
 

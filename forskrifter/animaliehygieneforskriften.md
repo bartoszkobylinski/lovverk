@@ -17,7 +17,7 @@ xml_hash: "5086f63c39565e7a3b889a1d96ec1ac5914a9d4c7c0f290eaee21595c68e766f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -421,6 +421,7 @@ som endret ved:
 ► **M27** Kommisjonens forordning [(EU) 2024/1141](eu/32024r1141) av 14. desember 2023
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 853/2004](eu/32004r0853*)
+
 av 29. april 2004
 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse
 
@@ -508,6 +509,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Virkeområde
@@ -556,6 +558,7 @@ I denne forordning får følgende definisjoner anvendelse:
 4. alle tekniske definisjoner i vedlegg II og III.
 
 ### Kapittel II
+
 Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
 
 ### Artikkel 3. Alminnelige forpliktelser
@@ -643,6 +646,7 @@ Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
 2 Rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum (EUT L 18 av 23.1.2003, s. 11).
 
 ### Kapittel III
+
 Handel
 
 ### Artikkel 7. Dokumenter
@@ -688,6 +692,7 @@ Handel
 4\. I denne artikkel menes med «kontrollprogram», et kontrollprogram som er godkjent i samsvar med forordning [(EF) nr. 2160/2003](eu/32003r2160).
 
 ### Kapittel IV
+
 Sluttbestemmelser
 
 ### Artikkel 9. Gjennomføringstiltak og overgangsbestemmelser
@@ -812,6 +817,7 @@ Utferdiget i Strasbourg, 29. april 2004.]
 1 Ikrafttredelse for EFTA-statene vil skje i henhold til [EØS-komiteens beslutning nr. 137/2007](eu/22007d0137) artikkel 4.
 
 ### Vedlegg I
+
 Definisjoner
 
 I denne forordning menes med:
@@ -1054,6 +1060,7 @@ og
 «engrosmarked»: et næringsmiddelforetak som omfatter flere separate enheter, som har felles anlegg og avdelinger der næringsmidler selges til driftsansvarlige for næringsmiddelforetak.
 
 ### Vedlegg II
+
 Krav som gjelder flere produkter av animalsk opprinnelse
 
 ### Avsnitt I: Identifikasjonsmerking
@@ -1191,6 +1198,7 @@ C. *Merkingsmetode*
    ◄ **M10**
 
 ### Vedlegg III
+
 Særlige krav
 
 ### Avsnitt I: Kjøtt fra tamme hov- og klovdyr
@@ -3118,6 +3126,7 @@ Utstedt i .................................., den .....................
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 101/2013](eu/32013r0101) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### KOMMISJONSFORORDNING [(EU) nr. 101/2013](eu/32013r0101)
+
 av 4. februar 2013
 vedrørende bruk av melkesyre for å redusere mikrobiologisk forurensning på overflaten av skrotter av storfe
 
@@ -3177,6 +3186,7 @@ Utferdiget i Brussel, 4. februar 2013.
 ### Vedlegg
 
 ### Del I
+
 Vilkår for bruk av melkesyre for å redusere mikrobiologisk overflateforurensning på skrotter, halve skrotter eller firedeler av storfe i slakterier
 
 1. Melkesyreløsninger skal bare framstilles fra melkesyre som er i samsvar med spesifikasjonene fastsatt i forordning [(EU) nr. 231/2012](eu/32012r0231).
@@ -3189,6 +3199,7 @@ Vilkår for bruk av melkesyre for å redusere mikrobiologisk overflateforurensni
 4. Påføringen av melkesyreløsninger skal ikke føre til noen ugjenkallelig fysisk forandring av kjøttet.
 
 ### Del II
+
 Minstekriterier og kontrollparametrer for HACCP
 
 1. Prøvetaking fra skrotter for å bedømme om mikrobiologiske kriterier i henhold til forordning [(EF) nr. 2073/2005](eu/32005r2073*) er overholdt, må foretas før melkesyreløsning påføres på skrottene, de halve skrottene eller firedelene.
@@ -3196,6 +3207,7 @@ Minstekriterier og kontrollparametrer for HACCP
 3. Temperaturen på melkesyreløsningen under behandlingen skal, som del av HACCP-planen, kontrolleres kontinuerlig med måleinstrumenter, dokumenteres og registreres.
 
 ### Del III
+
 Informasjon om behandlingen
 
 Driftsansvarlige for næringsmiddelforetak som driver slakterier der melkesyreløsninger benyttes for å redusere mikrobiologisk overflateforurensning på skrotter, halve skrotter eller firedeler må underrette den driftsansvarlige for næringsmiddelforetaket som mottar de behandlede skrottene, halve skrottene eller firedelene. Denne informasjonen bør dokumenteres.
@@ -3213,6 +3225,7 @@ som endret ved
 ► **M1** Kommisjonsforordning [(EF) nr. 1223/2011](eu/32011r1223) av 28. november 2011
 
 ### KOMMISJONSFORORDNING [(EF) nr. 1688/2005](eu/32005r1688)
+
 av 14. oktober 2005
 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) med hensyn til særlige garantier vedrørende salmonella for forsendelser til Finland, Norge og Sverige av visse typer kjøtt og egg
 
@@ -3339,9 +3352,11 @@ Utferdiget i Brussel, 14. oktober 2005.]
 1 Ikrafttredelse for EFTA-statene vil skje i henhold til [EØS-komiteens beslutning nr. 137/2007](eu/22007d0137) artikkel 4.
 
 ### Vedlegg I
+
 Prøvetakingsregler for kjøtt eller kvernet kjøtt fra storfe og svin, beregnet på Finland, Norge og Sverige
 
 ### Avsnitt A
+
 Prøvetakingsmetode
 
 1\. *Skrotter, halve skrotter og kvarte skrotter framstilt i opprinnelsesslakteriet (avskrapingsmetoden)*
@@ -3365,6 +3380,7 @@ Kjøttstykkene skal tas ut i prøver på ca. 25 g med sterile instrumenter. Prø
 Hver prøve skal behørig merkes og identifiseres.
 
 ### Avsnitt B
+
 Antall prøver som skal tas
 
 1\. *Skrotter, halve skrotter, halve skrotter oppdelt i høyst tre stykker og kvarte skrotter nevnt i avsnitt A nr. 1*
@@ -3407,9 +3423,11 @@ Avhengig av vekten til emballasjeenhetene kan antallet emballasjeenheter det ska
 | Koeffisienter | × 1 | × 3/4 | × 1/2 |
 
 ### Vedlegg II
+
 Prøvetakingsregler for kjøtt eller kvernet kjøtt fra fjørfe, beregnet på Finland, Norge og Sverige
 
 ### Avsnitt A
+
 Prøvetakingsmetode
 
 1\. *Skrotter (med vedhengende halsskinn)*
@@ -3431,6 +3449,7 @@ Kjøttstykkene skal tas ut i prøver på ca. 25 g med sterile instrumenter. Prø
 Prøvene skal behørig merkes og identifiseres.
 
 ### Avsnitt B
+
 Antall prøver som skal tas
 
 Antallet emballasjeenheter i forsendelsen som det skal tas atskilte stikkprøver fra, skal være som følger:
@@ -3478,6 +3497,7 @@ _________________
 For å lese dokumentet se her: [(pdf)](static/SF/sf-20081222-1624-01-02.pdf)
 
 ### Vedlegg V
+
 Sertifikatmodell for forsendelser til Finland, Norge og Sverige av egg beregnet på konsum
 
 For å lese dokumentet se her: [(pdf)](static/SF/sf-20081222-1624-02-03.pdf)
@@ -3523,6 +3543,7 @@ som endret ved:
 ► **M15** Forordning [(EU) 2019/1139](eu/32019r1139) av 3. juli 2019
 
 ### KOMMISJONSFORORDNING [(EF) nr. 2074/2005](eu/32005r2074) av 5. desember 2005
+
 om gjennomføringstiltak for visse produkter i henhold til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) og for organiseringen av offentlig kontroll i henhold til europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*), om unntak fra europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*), og om endring av forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*)
 
 KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
@@ -3685,9 +3706,11 @@ Utferdiget i Brussel, 5. desember 2005.
 1 Ikrafttredelse for EFTA-statene vil skje i henhold til [EØS-komiteens beslutning nr. 137/2007](eu/22007d0137) artikkel 4.
 
 ### Vedlegg I
+
 Opplysninger om næringsmiddelkjeden
 
 ### Avsnitt I
+
 Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
 
 Driftsansvarlige for næringsmiddelforetak som oppdretter dyr som skal sendes til slakting, skal sikre at opplysningene om næringsmiddelkjeden nevnt i forordning [(EF) nr. 853/2004](eu/32004r0853*), er behørig fylt ut i de dokumentene som gjelder de avsendte dyrene, på en slik måte at opplysningene er tilgjengelige for den driftsansvarlige for det aktuelle slakteriet.
@@ -3699,9 +3722,11 @@ Driftsansvarlige for næringsmiddelforetak som oppdretter dyr som skal sendes ti
 ◄**M13**
 
 ### Vedlegg II
+
 Fiskerivarer
 
 ### Avsnitt I
+
 Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
 
 Dette avsnittet fastsetter nærmere regler for visuell undersøkelse med sikte på å påvise parasitter i fiskerivarer.
@@ -3735,6 +3760,7 @@ Visuell undersøkelse
 ◄**M13**
 
 ### Vedlegg IV
+
 Kalsiuminnhold i mekanisk utbeinet kjøtt
 
 Kalsiuminnholdet i mekanisk utbeinet kjøtt som nevnt i forordning [(EF) nr. 853/2004](eu/32004r0853*), skal:
@@ -3759,6 +3785,7 @@ Kalsiuminnholdet i mekanisk utbeinet kjøtt som nevnt i forordning [(EF) nr. 853
 ◄**M13**
 
 ### Vedlegg VII
+
 Endringer I forordning [(EF) nr. 853/2004](eu/32004r0853*)
 
 I vedlegg II og III til forordning [(EF) nr. 853/2004](eu/32004r0853*) gjøres følgende endringer:
@@ -3828,6 +3855,7 @@ Innpakning og emballasje som inneholder gelatin, skal være påført ordene «ge
 1 EFT L 123 av 24.4.1998, s. 1.
 
 ### Vedlegg VIII
+
 Endringer i forordning [(EF) nr. 854/2004](eu/32004r0854*)
 
 I vedlegg I, II og III til forordning [(EF) nr. 854/2004](eu/32004r0854*) gjøres følgende endringer:
@@ -3858,6 +3886,7 @@ b) Bokstav c) skal lyde:
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/185](eu/32017r0185) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### Kommisjonsforordning [(EU) 2017/185](eu/32017r0185)
+
 av 2. februar 2017
 om fastsettelse av overgangsbestemmelser for anvendelsen av visse bestemmelser i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*)
 
@@ -3944,6 +3973,7 @@ Utferdiget i Brussel 2. februar 2017.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 427/2012](eu/32012r0427) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, protokoll I til avtalen og avtalen for øvrig.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 427/2012](eu/32012r0427)
+
 av 22. mai 2012
 om utvidelse av særlige garantier vedrørende salmonella fastsatt i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) til egg beregnet på Danmark
 
@@ -4010,6 +4040,7 @@ Utferdiget i Brussel, 22. mai 2012.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/307](eu/32018r0307) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, protokoll I til avtalen og avtalen for øvrig.
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2018/307](eu/32018r0307)
+
 av 28. februar 2018
 om utvidelse av de særlige garantiene med hensyn til *Salmonella ssp*. fastsatt i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*), til å gjelde kjøtt fra broilere (*Gallus gallus*) beregnet på Danmark
 
@@ -4085,6 +4116,7 @@ som endret ved:
 Forordning [(EU) nr. 28/2012](eu/32012r0028) er konsolidert til og med endringer gjennomført ved forordning [(EU) nr. 556/2013](eu/32013r0556) og forordning [(EU) 2019/2124](eu/32019r2124).
 
 ### KOMMISSIONENS FORORDNING [(EU) Nr. 28/2012](eu/32012r0028)
+
 af 11. januar 2012
 om fastsættelse af krav vedrørende udstedelse af certifikater ved import til og transit gennem Unionen af visse sammensatte produkter og om ændring af beslutning [2007/275/EF](eu/32007d0275) og forordning [(EF) nr. 1162/2009](eu/32009r1162)
 (EØS-relevant tekst)
@@ -4245,6 +4277,7 @@ Udfærdiget i Bruxelles, den 11. januar 2012.
 | *Formand* |
 
 ### Bilag I
+
 Standardsundhedscertifikat til brug ved import til Den Europæiske Union af sammensatte produkter til konsum
 
 I PDF-filen nedenfor angis sertifikatene til forordning [(EU) 28/2012](eu/32012r0028), konsolidert til og med forordning [(EU) 468/2012](eu/32012r0468). Sertifikatendringene som ble innført med forordning [(EU) 2017/731](eu/32017r0731) ligger i PDF-filen med navn «Forordning [(EU) 2017/731](eu/32017r0731) dansk.pdf».
@@ -4264,6 +4297,7 @@ Forordning [(EU) 2017/731](eu/32017r0731) dansk.pdf [(pdf)](static/SF/32017r0731
 ◄**M3**
 
 ### Bilag II
+
 Standardsundhedscertifikat til brug ved transit gennem eller oplagring i Den Europæiske Union af sammensatte produkter til konsum
 
 ► **M1**
@@ -4279,6 +4313,7 @@ For at lese bilaget se her: [(pdf)](static/SF/sf-20081222-1624-07-03.pdf)
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/1474](eu/32015r1474) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### KOMMISJONSFORORDNING [(EU) 2015/1474](eu/32015r1474)
+
 av 27. august 2015
 om bruk av resirkulert varmtvann til å fjerne mikrobiologisk overflateforurensning fra skrotter
 
@@ -4384,6 +4419,7 @@ Forordning [(EU) 2016/759](eu/32016r0759) er konsolidert til og med endringer gj
 Forordning [(EU) 2016/759](eu/32016r0759) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2019/2124](eu/32019r2124).
 
 ### Kommissionens gennemførelsesforordning (EU) [2016/759](eu/32016r0759)
+
 af 28. april 2016
 om lister over tredjelande, dele af tredjelande og områder, hvorfra medlemsstaterne tillader indførsel til Unionen af visse animalske produkter til konsum, om krav vedrørende udstedelse af certifikater, om ændring af forordning [(EF) nr. 2074/2005](eu/32005r2074) og om ophævelse af beslutning [2003/812/EF](eu/32003d0812)
 (EØS-relevant tekst)
@@ -4437,6 +4473,7 @@ ud fra følgende betragtninger:
 VEDTAGET DENNE FORORDNING:
 
 ### Kapitel 1
+
 Import af visse animalske produkter
 
 ►**M3**
@@ -4452,6 +4489,7 @@ Import af visse animalske produkter
 ◄**M4**
 
 ### Kapitel 2
+
 Transit af visse animalske produkter
 
 ### Artikel 3. Liste over tredjelande, dele af tredjelande og områder
@@ -4483,6 +4521,7 @@ Certifikatet skal udfyldes i overensstemmelse med bemærkningerne i bilag IV og 
 1 Kommissionens beslutning [2009/821/EF](eu/32009d0821) af 28. september 2009 om fastlæggelse af en liste over godkendte grænsekontrolsteder, af visse regler for den kontrol, der gennemføres af Kommissionens veterinæreksperter, og af veterinærenhederne i Traces (EUT L 296 af 12.11.2009, s. 1).
 
 ### Kapitel 3
+
 Afsluttende bestemmelser
 
 ### Artikel 6. Ændring
@@ -4539,6 +4578,7 @@ Forordning [(EU) 2017/731](eu/32017r0731) dansk.pdf: [(pdf)](static/SF/32017r073
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/759](eu/32019r0759) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### KOMMISJONSFORORDNING [(EU) 2019/759](eu/32019r0759)
+
 av 13. mai 2019
 om fastsetjing av overgangsføresegner om gjennomføring av folkehelsekrav ved import av næringsmiddel som inneheld både produkt av vegetabilsk opphav og foredla produkt av animalsk opphav (samansette produkt)
 

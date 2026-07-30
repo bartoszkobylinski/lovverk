@@ -15,7 +15,7 @@ xml_hash: "60ef2dba5826b309230ad99470a2f19928c1a04ec3e469afb5499e0c8c1a1aee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -326,6 +326,7 @@ I [vedlegg 1](forskrift/2016-12-22-1868/vedlegg1) tilføyes følgende rad etter 
 > Tilføyd ved forskrift [19 des 2025 nr. 2728](forskrift/2025-12-19-2728), endret ved forskrift [22 des 2016 nr. 1868](forskrift/2016-12-22-1868) (i kraft 1 jan 2026).
 
 ## Vedlegg 1
+
 Grenseverdier
 
 |  | *Grense-*<br>*verdi* | *Enhet* | *Prøve-*<br>*gruppe* | *Analyse-*<br>*metode* | *Analyse-*<br>*usikkerhet*<br>(prosent av<br>grense-<br>verdi) | *Merknad* |
@@ -368,6 +369,7 @@ Grenseverdier
 > Endret ved denne forskriftens [§ 32](forskrift/2016-12-22-1868/§32) (i kraft 1 jan 2026).
 
 ## Vedlegg 2
+
 Tiltaksgrenser
 
 |  | *Tiltaks-*<br>*grense* | *Enhet* | *Prøve-*<br>*gruppe* | *Analyse-*<br>*metode* | *Analyse-*<br>*usikkerhet*<br>(prosent av<br>tiltaks-<br>grense) | *Merknad* |
@@ -391,6 +393,7 @@ Tiltaksgrenser
 | Turbiditet | Ingen unormal endring |  | A | NS-EN ISO 7027 | 30 | Mattilsynet anbefaler at turbiditeten ut fra vannbehandlingsanlegget ikke overskrider 1 NTU ved vannforsyningssystemer som bruker overflatevann. Målingen av analyseusikkerhet estimeres ved 1 NTU. Se også vedlegg 1. |
 
 ## Vedlegg 3
+
 Søknad om godkjenning av vannbehandlingskjemikalier skal inneholde følgende dokumentasjon:
 
 1. opplysninger om søkeren med kontaktinformasjon

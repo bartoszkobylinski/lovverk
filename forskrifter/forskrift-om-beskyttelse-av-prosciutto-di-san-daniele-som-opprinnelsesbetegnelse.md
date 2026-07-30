@@ -15,7 +15,7 @@ xml_hash: "0ae7106e966d22d2c8cc732ebc2e0d4687847afdb7fdac6510682419f231184a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,6 +53,7 @@ I produktforskriften § 3, om vilkår for bruk av produktbetegnelsen, har vi der
 Nedenfor følger til informasjon og som et hjelpemiddel ved lesing av § 3 i produktforskriften, en konsolidert engelsk versjon av Single document (Official Journal 2014/C188/08). Ingen av de rettslige dokumentene som ligger til grunn for beskyttelse av betegnelsen i EU vil bli oversatt til norsk. Teksten nedenfor er som nevnt innledningsvis kun ment til informasjon og er ikke en del av forskriften.
 
 ### SINGLE DOCUMENT
+
 [COUNCIL REGULATION (EC) No 510/2006](eu/32006r0510)
 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs
 'PROSCIUTTO DI SAN DANIELE'

@@ -17,7 +17,7 @@ xml_hash: "3925fcda47a73458e0b6c754750f7b77b153d7fbd5fe94ef7a7a24457b56fb8f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -89,6 +89,7 @@ Forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bn, kap. II nr. 31qn og vedlegg II kap. XII nr. 164n (forordning [(EU) 2019/1873](eu/32019r1873)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1873](eu/32019r1873)
+
 av 7. november 2019
 om framgangsmåtene for vedkommende myndigheters samordnede gjennomføring av forsterket offentlig kontroll av produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og sammensatte produkter på grensekontrollstasjoner
 
@@ -216,6 +217,7 @@ Utferdiget i Brussel 7. november 2019.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bt, kap. II nr. 31qt og vedlegg II kap. XII nr. 164t (forordning [(EU) 2019/2074](eu/32019r2074)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### KOMMISJONENS DELEGERTE FORORDNING [(EU) 2019/2074](eu/32019r2074)
+
 av 23. september 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til reglene for offentlig kontroll av forsendelser med visse dyr og varer som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat
 

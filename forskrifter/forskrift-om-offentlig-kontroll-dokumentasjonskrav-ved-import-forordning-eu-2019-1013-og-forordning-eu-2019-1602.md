@@ -17,7 +17,7 @@ xml_hash: "95db78e462cbdbf661e81582370d699d8b2c60ec5544f2468736f3a20056e971"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,6 +63,7 @@ Forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bf, kap. II nr. 31qf og vedlegg II kap. XII nr. 164f (forordning [(EU) 2019/1013](eu/32019r1013)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1013](eu/32019r1013)
+
 av 16. april 2019
 om forhåndsmelding av forsendelser med visse kategorier av dyr og varer som innføres til Unionen
 
@@ -128,6 +129,7 @@ som endret ved:
 - ►**M1** Kommisjonsforordning [(EU) 2024/950](eu/32024r0950) av 15. januar 2024
 
 ### KOMMISJONENS DELEGERTE FORORDNING [(EU) 2019/1602](eu/32019r1602)
+
 av 23. april 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) om det felles innførselsdokumentet om helse som skal ledsage forsendelser med dyr og varer til bestemmelsesstedet
 

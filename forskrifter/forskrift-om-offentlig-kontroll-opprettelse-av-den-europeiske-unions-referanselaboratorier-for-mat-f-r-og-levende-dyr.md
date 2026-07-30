@@ -15,7 +15,7 @@ xml_hash: "62cf50455b59861de3ba2dc091ecb7356e414241daf624db6e35b27d2cbad8d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,6 +55,7 @@ Denne forskrift trer i kraft straks.
 Uoffisiell oversettelse av COMMISSION DELEGATED REGULATION [(EU) 2021/2156](eu/32021r2156) of 7 September 2021 supplementing Regulation [(EU) 2017/625](eu/32017r0625) of the European Parliament and of the Council by establishing the European Union reference laboratory for Rift Valley fever.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2021/2156](eu/32021r2156)
+
 av 17. september 2021
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) ved å opprette Den europeiske unions referanselaboratorium for Rift Valley Fever
 
@@ -111,6 +112,7 @@ Utferdiget i Brussel 17. september 2021.
 Uoffisiell oversettelse av COMMISSION DELEGATED REGULATION [(EU) 2022/2304](eu/32022r2304) of 7 September 2021 supplementing Regulation [(EU) 2017/625](eu/32017r0625) of the European Parliament and of the Council by establishing the European Union reference laboratory for Rift Valley fever.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2022/2304](eu/32022r2304)
+
 av 24. november 2022
 om utpeking av Den europeiske unions referanselaboratorium for Rift Valley Fever
 
@@ -170,6 +172,7 @@ Utferdiget i Brussel 24. november 2022.
 Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning [(EU) 2024/1004](eu/32024r1004).
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2024/1004
+
 av 22. januar 2024
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) ved å opprette Den europeiske unions referanselaboratorium for næringsmiddelforbedringsmidler
 
@@ -223,6 +226,7 @@ Ursula VON DER LEYEN
 Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av beslutning [(EU) 2024/1941](eu/32024d1941).
 
 ### KOMMISJONENS GJENNOMFØRINGSBESLUTNING [(EU) 2024/1941](eu/32024d1941)
+
 av 22. juli 2024
 om utpeking av et EU-referanselaboratorium for næringsmiddelforbedringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)
 

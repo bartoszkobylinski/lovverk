@@ -16,7 +16,7 @@ xml_hash: "621ef88179a23ec149bf2b69ce57bd257ca1b1bf9863dab6dc6cbca554c9cd6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -220,6 +220,7 @@ Nedenfor gjengis til informasjon en norsk oversettelse av forordning [(EF) nr. 1
 ► **M2** Forordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017
 
 ### RÅDSFORORDNING [(EF) nr. 1099/2009](eu/32009r1099)
+
 av 24. september 2009
 om vern av dyr på tidspunktet for avliving
 
@@ -323,6 +324,7 @@ og ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -376,6 +378,7 @@ I denne forordning menes med:
 ◄**M2**
 
 ### KAPITTEL II
+
 GENERELLE KRAV
 
 ### Artikkel 3. Generelle krav til avliving og tilknyttet virksomhet
@@ -508,6 +511,7 @@ Det hygienesertifikatet som ledsager kjøtt importert fra tredjestater, skal sup
 5\. Medlemsstatene skal sende alle retningslinjer for god praksis som er godkjent av vedkommende myndighet, til Kommisjonen. Kommisjonen skal opprette og føre et register over slike retningslinjer og gjøre de tilgjengelige for medlemsstatene.
 
 ### KAPITTEL III
+
 TILLEGGSKRAV FOR SLAKTERIER
 
 ### Artikkel 14. Slakteriets utforming, konstruksjon og utstyr
@@ -601,6 +605,7 @@ Ved anvendelse av første ledd skal medlemsstatene benytte følgende omregningst
 1 EUT L 299av 16.11.2007, s. 1.
 
 ### KAPITTEL IV
+
 NEDSLAKTING OG NØDAVLIVING
 
 ### Artikkel 18. Nedslakting
@@ -635,6 +640,7 @@ Denne rapporten skal særlig omfatte følgende opplysninger om hver nedslakting:
 Ved nødavliving skal dyreholderen for de berørte dyrene treffe alle nødvendige tiltak for å avlive dyrene raskest mulig.
 
 ### KAPITTEL V
+
 VEDKOMMENDE MYNDIGHET
 
 ### Artikkel 20. Vitenskapelig støtte
@@ -686,6 +692,7 @@ Vedkommende myndighet skal gjøre tilgjengelig på Internett nærmere opplysning
 8\. Fellesskapsretningslinjer for anvendelsen av nr. 1 i denne artikkel kan vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2.
 
 ### KAPITTEL VI
+
 MANGLENDE OVERHOLDELSE, SANKSJONER OG GJENNOMFØRINGSMYNDIGHET
 
 ►**M2**
@@ -713,6 +720,7 @@ Eventuelle nærmere regler for gjennomføringen av denne forordning kan vedtas e
 Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
 
 ### KAPITTEL VII
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 26. Strengere nasjonale regler
@@ -782,11 +790,13 @@ Utferdiget i Brussel, 24. september 2009.
 |  | *Formann* |
 
 ### VEDLEGG I
+
 LISTE OVER BEDØVINGSMETODER OG TILHØRENDE SPESIFIKASJONER
 
 (som nevnt i artikkel 4)
 
 ### KAPITTEL I
+
 Metoder
 
 *Tabell 1 – Mekaniske metoder*
@@ -827,6 +837,7 @@ Metoder
 | 1 | Dødelig injeksjon | Tap av bevissthet og følesans etterfulgt av ugjenkallelig død som følge av injeksjon av veterinærpreparater. | Alle arter.<br>Andre situasjoner enn slakting. | Injeksjonstype.<br>Bruk av godkjente preparater. | Ikke relevant. |
 
 ### KAPITTEL II
+
 Særlige krav for visse metoder
 
 1.*Innretning med ikke-penetrerende bolt*
@@ -966,6 +977,7 @@ Registreringene av absolutt vakuumtrykk, eksponeringstid, temperatur og luftfukt
 ◄ **M1**
 
 ### VEDLEGG II
+
 SLAKTERIETS UTFORMING, KONSTRUKSJON OG UTSTYR
 
 (som nevnt i artikkel 14)
@@ -1117,6 +1129,7 @@ Systemet skal være utstyrt slik at det kontinuerlig kan måle, vise og registre
 ◄ **M1**
 
 ### VEDLEGG III
+
 DRIFTSREGLER FOR SLAKTERIER
 
 (som nevnt i artikkel 15)
@@ -1236,6 +1249,7 @@ Ved enkel bedøving eller slakting i samsvar med artikkel 4 nr. 4 skal de to hal
 Fugler skal ikke slaktes med automatisk halsskjæring med mindre det med sikkerhet kan fastslås at den automatiske halsskjæringen har åpnet begge blodårene på en effektiv måte. Dersom halsskjæringen ikke har fungert effektivt, skal fuglene slaktes umiddelbart.
 
 ### VEDLEGG IV
+
 SAMSVAR MELLOM OPPGAVER OG KRAV VED KOMPETANSEPRØVE
 
 (som nevnt i artikkel 21)

@@ -15,7 +15,7 @@ xml_hash: "e1e433238a32065dc21db38543e101f1abf089a9327a7bf51a0f76345fafb289"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---

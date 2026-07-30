@@ -15,7 +15,7 @@ xml_hash: "e8964b67dd8b6c7a9d430604bad40d3d398f17c81cebd59568b3cdea49914b7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -734,6 +734,7 @@ som endret ved
 - ►**M14** Forordning [(EU) 2025/2224](eu/32025r2224) av 5. november 2025
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1925/2006](eu/32006r1925)
+
 av 20. desember 2006
 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler
 
@@ -790,6 +791,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
@@ -816,6 +818,7 @@ I denne forordning menes med:
 1 EFT L 31 av 1.2.2002, s. 1. Forordningen sist endret ved kommisjonsforordning [(EF) nr. 575/2006](eu/32006r0575) (EUT L 100 av 8.4.2006, s. 3).
 
 ### [Kapittel](forskrift/2010-02-26-247/kapii) II
+
 Tilsetting av vitaminer og mineraler
 
 ### Artikkel 3. Krav i forbindelse med tilsetting av vitaminer og mineraler
@@ -896,6 +899,7 @@ Ytterligere næringsmidler eller næringsmiddelkategorier der det ikke må tilse
 6\. Regler for gjennomføring av denne artikkelen kan fastsettes etter framgangsmåten i artikkel 14 nr. 2.
 
 ### [Kapittel](forskrift/2010-02-26-247/kapiii) III
+
 Tilsetting av visse andre stoffer
 
 ### Artikkel 8. Stoffer som omfattes av forbud, begrensninger eller som er underlagt fellesskapskontroll
@@ -919,6 +923,7 @@ Tilsetting av visse andre stoffer
 6\. Kommisjonen skal etter framgangsmåten fastsatt i artikkel 14 nr. 2, opprette gjennomføringsregler for denne artikkel, herunder regler for oversendelsen nevnt i nr. 4 i denne artikkel.
 
 ### [Kapittel](forskrift/2010-02-26-247/kapiv) IV
+
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 9. Fellesskapsregister
@@ -1023,6 +1028,7 @@ Utferdiget i Brussel, 20. desember 2006.
 | *President* | *Formann* |
 
 ### Vedlegg I
+
 Vitaminer og mineraler som kan tilsettes i næringsmidler
 
 *1. Vitaminer*
@@ -1063,6 +1069,7 @@ Vitaminer og mineraler som kan tilsettes i næringsmidler
 - ◄ **M1**
 
 ### ► **M1** Vedlegg II
+
 Vitamin- og mineralforbindelser som kan tilsettes i næringsmidler
 
 *1. Vitaminforbindelser*
@@ -1268,6 +1275,7 @@ Vitamin- og mineralforbindelser som kan tilsettes i næringsmidler
 ◄**M1**
 
 ### Vedlegg III
+
 Stoffer hvis bruk i næringsmidler er forbudt, begrenset eller er underlagt fellesskapskontroll
 
 Del A – Forbudte stoffer
@@ -1313,6 +1321,7 @@ som endret ved
 - ►**M2** Forordning [(EU) 2023/612](eu/32023r0612) av 17. mars 2023
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 307/2012](eu/32012r0307)
+
 av 11. april 2012
 om fastsettelse av gjennomføringsregler for anvendelse av artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler
 
@@ -1477,6 +1486,7 @@ Utferdiget i Brussel, 11. april 2012.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 489/2012](eu/32012r0489) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 72.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 489/2012](eu/32012r0489)
+
 av 8. juni 2012
 om fastsettelse av gjennomføringsregler for anvendelse av artikkel 16 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler
 
@@ -1535,6 +1545,7 @@ Utferdiget i Brussel, 8. juni 2012.
 |  | *President* |
 
 ### Vedlegg I
+
 Nødvendige relevante opplysninger som medlemsstatene skal framlegge med det formål å vurdere virkningene av gjennomføringen av forordning [(EF) nr. 1925/2006](eu/32006r1925)
 
 1. Opplysninger om utviklingen på det nasjonale markedet for næringsmidler som er tilsatt vitaminer og mineraler, skal omfatte følgende:
@@ -1560,6 +1571,7 @@ Nødvendige relevante opplysninger som medlemsstatene skal framlegge med det for
    4. opplysninger om nasjonale tiltak, herunder lovgivningsmessige tiltak og ikke-lovgivningsmessige tiltak med det formål å begrense eller forby bruk av andre stoffer i framstillingen av næringsmidler, herunder kosttilskudd.
 
 ### Vedlegg II
+
 Mal for framlegging av medlemsstatenes opplysninger
 
 *Utvikling på markedet for næringsmidler som er tilsatt vitaminer og mineraler*

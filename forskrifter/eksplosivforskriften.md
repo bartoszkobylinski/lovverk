@@ -15,7 +15,7 @@ xml_hash: "6ae8fdb1440dbf0556725e2cf4ed9627e440b1954ca3cae1cdfa68a0ac1508ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1716,6 +1716,7 @@ Drivladningskrutt og rakettkrutt skal også oppfylle følgende krav:
 ## Vedlegg III: Fremgangsmåter for samsvarsvurdering
 
 ### MODUL B
+
 EU-typeprøving
 
 1\.
@@ -1808,6 +1809,7 @@ Produsenten skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med ved
 Produsentens representant kan inngi søknaden nevnt i nr. 3 og oppfylle forpliktelsene angitt i nr. 7 og 9, forutsatt at de er angitt i fullmakten.
 
 ### MODUL C 2
+
 Typesamsvar basert på intern produksjonskontroll samt overvåket produktkontroll med ujevne mellomrom
 
 1\.
@@ -1843,6 +1845,7 @@ En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for v
 Produsentens forpliktelser angitt i nr. 4 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### MODUL D
+
 Typesamsvar basert på kvalitetssikring av produksjonsprosessen
 
 1\.
@@ -1955,6 +1958,7 @@ Hvert meldt organ skal underrette de andre meldte organer om godkjenninger av kv
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### MODUL E
+
 Typesamsvar basert på kvalitetssikring av produkter
 
 1\.
@@ -2066,6 +2070,7 @@ Hvert meldt organ skal underrette de andre meldte organer om godkjenninger av kv
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### MODUL F
+
 Typesamsvar basert på produktkontroll
 
 1\.
@@ -2137,6 +2142,7 @@ Dersom det meldte organ godkjenner det, kan produsenten også, på det meldte or
 Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten. En representant kan ikke oppfylle produsentens forpliktelser i henhold til nr. 2 og 5.1.
 
 ### MODUL G
+
 Samsvar basert på kontroll av enkelteksemplarer
 
 1\.

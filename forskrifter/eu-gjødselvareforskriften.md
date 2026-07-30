@@ -19,7 +19,7 @@ xml_hash: "652478a098569ebac3ce3844dbfa928fabacfcbe830c7a30414150bafdbb71cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -175,7 +175,8 @@ og korrigert av
 - ►**C3** Corrigendum av 16.10.2023
 
 ### Europaparlaments- og rådsforordning [(EU) 2019/1009](eu/32019r1009)
-5. juni 2019
+
+5\. juni 2019
 om fastsettelse av regler for tilgjengeliggjøring på markedet av EU-gjødselvarer, om endring av forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003)
 
 EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR
@@ -324,6 +325,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Virkeområde
@@ -415,6 +417,7 @@ I denne forordningen menes med
 EU-gjødselvarer skal bare gjøres tilgjengelige på markedet dersom de er i samsvar med denne forordningen.
 
 ### KAPITTEL II
+
 **MARKEDSDELTAKERNES FORPLIKTELSER**
 
 ### Artikkel 6. Produsentenes forpliktelser
@@ -514,6 +517,7 @@ Dersom en importør eller distributør pakker eller ompakker en EU-gjødselvare 
 2\. Markedsdeltakerne skal kunne framlegge informasjonen nevnt i første ledd i fem år etter at de har fått levert en EU-gjødselvare, og i fem år etter at de har levert en EU-gjødselvare.
 
 ### KAPITTEL III
+
 **EU-GJØDSELVARERS SAMSVAR MED KRAVENE**
 
 ### Artikkel 13. Formodning om samsvar
@@ -573,6 +577,7 @@ Det meldte organets identifikasjonsnummer skal påføres av organet selv eller a
 I denne forordningen fastsettes det kriterier for når materiale som utgjør avfall, som definert i direktiv [2008/98/EF](eu/32008l0098), kan opphøre å være avfall dersom det inngår i en EU-gjødselvare som oppfyller kravene. I slike tilfeller skal gjenvinningen i henhold til denne forordningen utføres før materialet opphører å være avfall, og materialet skal anses for å oppfylle vilkårene i artikkel 6 i det direktivet og derfor ikke lenger for å være avfall fra det tidspunktet da EU-samsvarserklæringen ble utarbeidet.
 
 ### KAPITTEL IV
+
 **MELDING AV SAMSVARSVURDERINGSORGANER**
 
 ### Artikkel 20. Melding
@@ -754,6 +759,7 @@ Kommisjonen skal sørge for at det innføres egnet koordinering av og samarbeid 
 Meldte organer skal delta i denne gruppens arbeid, enten direkte eller gjennom utpekte representanter.
 
 ### KAPITTEL V
+
 **TILSYN MED UNIONSMARKEDET, KONTROLL AV EU-GJØDSELVARER SOM INNFØRES PÅ UNIONSMARKEDET, OG UNIONSFRAMGANGSMÅTE VED BESLUTNINGER OM BESKYTTELSESTILTAK**
 
 ### Artikkel 37. Tilsyn med unionsmarkedet og kontroll av EU-gjødselvarer som innføres på unionsmarkedet
@@ -840,6 +846,7 @@ Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til vern
 Medlemsstatenes forpliktelser i denne forbindelse skal ikke berøre deres mulighet til å regulere gjødselvarer som ikke er EU-gjødselvarer.
 
 ### KAPITTEL VI
+
 **DELEGERT MYNDIGHET OG KOMITÉPROSEDYRE**
 
 ### Artikkel 42. Endring av vedlegg
@@ -917,6 +924,7 @@ Når Kommisjonen utøver sin myndighet til å vedta delegerte rettsakter i henho
 4\. Når det vises til dette nummeret, får artikkel 8 i [forordning (EU) nr. 182/2011](eu/32011r0182) sammenholdt med artikkel 5 i samme forordning anvendelse.
 
 ### KAPITTEL VII
+
 **ENDRINGER**
 
 ### Artikkel 46. Endring av forordning (EF) nr. 1069/2009
@@ -959,6 +967,7 @@ I forordning [(EF) nr. 1107/2009](eu/32009r1107) gjøres følgende endringer:
 «8. For et produkt som er blitt godkjent i henhold til artikkel 32 nr. 1 på grunnlag av en søknad inngitt før 15. juli 2019, og som etter denne datoen omfattes av definisjonen i artikkel 3 nr. 34, får denne forordningen fortsatt anvendelse i den perioden som er angitt i godkjenningen.»
 
 ### KAPITTEL VIII
+
 **OVERGANGS- OG SLUTTBESTEMMELSER**
 
 ### Artikkel 48. Sanksjoner
@@ -1009,9 +1018,11 @@ Utferdiget i Brussel 5. juni 2019.
 | *For Europaparlamentet*<br>A. TAJANI<br>*President* | *For Rådet*<br>G. CIAMBA<br>*Formann* |
 
 ### VEDLEGG I
+
 **Produktfunksjonskategorier for EU-gjødselvarer**
 
 ### DEL I
+
 **PRODUKTFUNKSJONSKATEGORIER**
 
 1. Gjødsel
@@ -1062,6 +1073,7 @@ Utferdiget i Brussel 5. juni 2019.
 7. Mekanisk gjødselvareblanding
 
 ### DEL II
+
 **KRAV TIL PRODUKTFUNKSJONSKATEGORIER**
 
 1\. I denne delen fastsettes kravene til de produktfunksjonskategoriene som EU-gjødselvarer tilhører i henhold til den funksjonen det er angitt at de har.
@@ -1791,6 +1803,7 @@ der
 3. Artikkel 8 nr. 8 (importørers forpliktelse til å oppbevare en kopi av EU-samsvarserklæringen som kan stilles til rådighet for markedstilsynsmyndigheter).
 
 ### VEDLEGG II
+
 **Komponentmaterialkategorier**
 
 En EU-gjødselvare skal utelukkende bestå av komponentmaterialer som oppfyller kravene for en eller flere av komponentmaterialkategoriene i dette vedlegget.
@@ -1798,6 +1811,7 @@ En EU-gjødselvare skal utelukkende bestå av komponentmaterialer som oppfyller 
 Komponentmaterialene og innsatsmaterialene som brukes til å produsere dem, skal ikke inneholde noen av stoffene som det er angitt grenseverdier for i vedlegg I, i slike mengder at EU-gjødselvaren ikke oppfyller de gjeldende kravene i det vedlegget.
 
 ### DEL I
+
 **KOMPONENTMATERIALKATEGORIER**
 
 - Komponentmaterialkategori 1: Stoffer og blandinger av jomfruelige materialer
@@ -1833,6 +1847,7 @@ Komponentmaterialene og innsatsmaterialene som brukes til å produsere dem, skal
   ◄**M5**
 
 ### DEL II
+
 **KRAV TIL KOMPONENTMATERIALKATEGORIER**
 
 I denne delen defineres de komponentmaterialene som EU-gjødselvarer utelukkende skal bestå av.
@@ -2802,11 +2817,13 @@ Kravene i nr. 7 og kravene som gjelder Salmonella spp., Escherichia coli eller �
 ◄**M5**
 
 ### VEDLEGG III
+
 **Krav til merking**
 
 I dette vedlegget fastsettes det krav til merking av EU-gjødselvarer. Kravene fastsatt i del II og del III i dette vedlegget for en bestemt produktfunksjonskategori, som angitt i vedlegg I, gjelder for EU-gjødselvarer i alle underkategorier av den aktuelle produktfunksjonskategorien.
 
 ### DEL I
+
 **GENERELLE KRAV TIL MERKING**
 
 1\. Følgende informasjon skal gis:
@@ -2916,6 +2933,7 @@ Dersom en EU-gjødselvare inneholder bearbeidet husdyrgjødsel som nevnt i del I
 - Organisk karbon (Corg) = organisk materiale × 0,56
 
 ### DEL II
+
 **PRODUKTSPESIFIKKE KRAV TIL MERKING**
 
 ###### Produktfunksjonskategori 1: GJØDSEL
@@ -3395,6 +3413,7 @@ Dersom den mekanisme gjødselvareblandingen inneholder en eller flere biostimula
 Dersom gjødselvareblandingen inneholder en eller flere hemmere som tilhører produktfunksjonskategori 5, skal bruksanvisningen nevnt i nr. 3 i produktfunksjonskategori 5 i del II i dette vedlegget ikke tilføyes.◄**M6**
 
 ### DEL III
+
 **TOLERANSEREGLER**
 
 1\. Det deklarerte innholdet i en EU-gjødselvare eller dets fysisk-kjemiske egenskaper må bare avvike fra den faktiske verdien i samsvar med de tillatte toleransene fastsatt i denne delen for den relevante produktfunksjonskategorien. Hensikten med toleransene er å ta høyde for avvik ved produksjon, i distribusjonskjeden og under prøvetaking og analysering.
@@ -3557,9 +3576,11 @@ Dersom den mekaniske gjødselvareblandingen inneholder en eller flere biostimula
 | Over 500 | ± 25 g/kg eller ± 25 g/l |
 
 ### VEDLEGG IV
+
 **Framgangsmåter for samsvarsvurdering**
 
 ### DEL I
+
 **ANVENDELSE AV FRAMGANGSMÅTER FOR SAMSVARSVURDERING**
 
 I denne delen fastsettes bruken av modulene for framgangsmåtene for samsvarsvurdering, som angitt i del II i dette vedlegget, på EU-gjødselvarer avhengig av deres komponentmaterialkategorier som angitt i vedlegg II og deres produktfunksjonskategorier som angitt i vedlegg I.
@@ -3646,6 +3667,7 @@ Modul D1 kan brukes på alle EU-gjødselvarer.
 Som unntak fra nr. 4.1 må modul D1 ikke brukes på en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold som angitt i produktfunksjonskategori 1.C.I a) i–ii) A) eller en mekanisk gjødselvareblanding som angitt i produktfunksjonskategori 7 som inneholder minst 28 % masseprosent nitrogen (N) fra en EU-gjødselvare som tilhører produktfunksjonskategori 1.C.I a) i–ii) A).
 
 ### DEL II
+
 **BESKRIVELSE AV FRAMGANGSMÅTER FOR SAMSVARSVURDERING**
 
 ###### MODUL A – INTERN PRODUKSJONSKONTROLL
@@ -4846,6 +4868,7 @@ Representant
 Produsentens forpliktelser angitt i nr. 3, 5.2, 5.5.1, 7 og 8 kan på dennes vegne og ansvar oppfylles av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
 ### VEDLEGG V
+
 **EU-samsvarserklæring (nr. XXX)**[^10]
 
 1. EU-gjødselvare (produkt-, parti- eller typenummer):
@@ -4894,6 +4917,7 @@ Undertegnet for og på vegne av:
 Nedenfor gjengis til informasjon norsk oversettelse av forordning med bestemmelser om kriterier for agronomisk effektivitet og sikkerhet i forbindelse med avfallsprodukter i EU-gjødselvare
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/973](eu/32022r0973)
+
 av 14. mars 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2019/1009](eu/32019r1009) ved fastsettelse av kriterier for agronomisk effektivitet og sikkerhet ved bruk av biprodukter i EU-gjødselvarer
 

@@ -17,7 +17,7 @@ xml_hash: "5e19be7aad83212e4c1001daecf3816415af9cc76b6e59dd461d2993b37af31b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -117,6 +117,7 @@ som endret ved
 - ► EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII.
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 1169/2011](eu/32011r1169*)
+
 av 25. oktober 2011
 om næringsmiddelopplysninger til forbrukerne, om endring av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) og (EF) [nr. 1925/2006](eu/32006r1925) og om oppheving av kommisjonsdirektiv [87/250/EØF](eu/31987l0250), rådsdirektiv [90/496/EØF](eu/31990l0496), kommisjonsdirektiv [1999/10/EF](eu/31999l0010), europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*), kommisjonsdirektiv [2002/67/EF](eu/32002l0067) og [2008/5/EF](eu/32008l0005) og kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608)
 
@@ -247,6 +248,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Formål og virkeområde
@@ -319,6 +321,7 @@ Denne forordning får anvendelse på cateringtjenester som leveres av transportf
 6 EUT L 376 av 27.12.2006, s. 21.
 
 ### Kapittel II
+
 Allmenne prinsipper for næringsmiddelopplysninger
 
 ### Artikkel 3. Allmenne mål
@@ -350,6 +353,7 @@ Allmenne prinsipper for næringsmiddelopplysninger
 Alle unionstiltak som gjelder regelverket for næringsmiddelopplysninger, og som kan få innvirkning på folkehelsen, skal vedtas etter samråd med Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «Myndigheten»).
 
 ### Kapittel III
+
 Allmenne krav til næringsmiddelopplysninger og ansvaret til de driftsansvarlige for næringsmiddelforetak
 
 ### Artikkel 6. Grunnleggende krav
@@ -398,9 +402,11 @@ Uten hensyn til første ledd skal driftsansvarlige for næringsmiddelforetak sik
 8\. Driftsansvarlige for næringsmiddelforetak som til andre driftsansvarlige for næringsmiddelforetak leverer næringsmidler som ikke er beregnet på sluttforbrukeren eller på storhusholdninger, skal sikre at disse andre driftsansvarlige for næringsmiddelforetak får tilstrekkelig informasjon til at de kan oppfylle sine forpliktelser i henhold til nr. 2.
 
 ### Kapittel IV
+
 Obligatoriske næringsmiddelopplysninger
 
 ### Avsnitt 1
+
 Innhold og presentasjon
 
 ###### Artikkel 9
@@ -518,6 +524,7 @@ Kommisjonen skal senest 13. desember 2014 framlegge en rapport om anvendelsen av
 Kommisjonens rapport skal eventuelt ledsages av et forslag til regelverk som fastsetter regler for en ingrediensliste eller obligatorisk næringsdeklarasjon for disse produktene.
 
 ### Avsnitt 2
+
 Detaljerte bestemmelser om obligatoriske opplysninger
 
 ###### Artikkel 17
@@ -709,6 +716,7 @@ Alkoholstyrke
 2\. Sann alkoholstyrke i volumprosent for drikker som inneholder mer enn 1,2 volumprosent alkohol, skal med unntak av drikkene nevnt i nr. 1 angis i samsvar med vedlegg XII.
 
 ### Avsnitt 3
+
 Næringsdeklarasjon
 
 ###### Artikkel 29
@@ -868,6 +876,7 @@ For å lette overvåkingen av anvendelsen av slike supplerende uttrykks- og pres
 6\. For å sikre ensartet anvendelse av denne artikkel skal Kommisjonen vedta gjennomføringsrettsakter som fastsetter nærmere regler for gjennomføringen av nr. 1, 3 og 4 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
 ### Kapittel V
+
 Frivillige næringsmiddelopplysninger
 
 ### Artikkel 36. Gjeldende krav
@@ -901,6 +910,7 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 Frivillige næringsmiddelopplysninger skal ikke vises på bekostning av plassen som står til rådighet for obligatoriske næringsmiddelopplysninger.
 
 ### Kapittel VI
+
 Nasjonale tiltak
 
 ### Artikkel 38. Nasjonale tiltak
@@ -968,6 +978,7 @@ Medlemsstatene skal umiddelbart oversende Kommisjonen teksten til disse tiltaken
 1 EFT L 204 av 21.7.1998, s. 37.
 
 ### Kapittel VII
+
 Gjennomføringsbestemmelser, endringsbestemmelser og sluttbestemmelser
 
 ### Artikkel 46. Endring av vedleggene
@@ -1066,6 +1077,7 @@ Utferdiget i Strasbourg, 25. oktober 2011.
 | *President* | *Formann* |
 
 ### Vedlegg I
+
 Særlige definisjoner
 Som nevnt i artikkel 2 nr. 4
 
@@ -1098,6 +1110,7 @@ Som nevnt i artikkel 2 nr. 4
 13. Med «gjennomsnittsverdi» menes den verdi som best representerer den mengde av et næringsstoff som et visst næringsmiddel inneholder, og der det tas hensyn til den margin som skyldes sesongmessige variasjoner, forbruksmønstre og andre faktorer som kan ha innvirkning på den faktiske verdi.
 
 ### Vedlegg II
+
 Stoffer eller produkter som forårsaker allergier eller intoleranser
 
 ► **M2**
@@ -1141,6 +1154,7 @@ Stoffer eller produkter som forårsaker allergier eller intoleranser
 1 Gjelder også produkter framstilt av disse, dersom den bearbeiding de har gjennomgått, ikke antas å øke den allergiframkallende evnen som Myndigheten har fastsatt for produktet de stammer fra.
 
 ### Vedlegg III
+
 Næringsmidler med merking som skal omfatte én eller flere tilleggsopplysninger
 
 | *Næringsmiddeltype eller -kategori* | *Opplysning* |
@@ -1167,6 +1181,7 @@ Næringsmidler med merking som skal omfatte én eller flere tilleggsopplysninger
 1 Verdiene får anvendelse på produkter slik de frambys for konsum eller slik de rekonstitueres i samsvar med produsentens anvisninger.
 
 ### Vedlegg IV
+
 Definisjon av x-høyde
 
 *X-høyde*
@@ -1184,6 +1199,7 @@ Definisjon av x-høyde
 | 7 | Skriftstørrelse |
 
 ### Vedlegg V
+
 Næringsmidler som er unntatt fra kravet om obligatorisk næringsdeklarasjon
 
 1. Uforedlede produkter som bare består av én ingrediens eller kategori av ingredienser.
@@ -1209,6 +1225,7 @@ Næringsmidler som er unntatt fra kravet om obligatorisk næringsdeklarasjon
 1 EFT L 66 av 13.3.1999, s. 26.
 
 ### Vedlegg VI
+
 Næringsmiddelets betegnelse og særlige tilleggsopplysninger
 
 ### Del A – Obligatoriske opplysninger som skal ledsage næringsmiddelets betegnelse
@@ -1290,6 +1307,7 @@ Næringsmiddelets betegnelse og særlige tilleggsopplysninger
 Dersom pølseskinn ikke er spiselig, skal dette angis.
 
 ### Vedlegg VII
+
 Angivelse av og betegnelse på ingredienser
 
 ### Del A – Særlige bestemmelser om angivelse av ingredienser i synkende rekkefølge etter vekt
@@ -1384,6 +1402,7 @@ Uten at det berører artikkel 21, skal tilsetningsstoffer og enzymer i næringsm
    3. når den sammensatte ingrediensen er et næringsmiddel som det i henhold til unionsbestemmelsene ikke kreves ingrediensliste for.
 
 ### Vedlegg VIII
+
 Mengdeangivelse av ingredienser
 
 1. Det kreves ikke mengdeangivelse av ingredienser
@@ -1412,6 +1431,7 @@ Mengdeangivelse av ingredienser
    4. For konsentrerte eller tørkede næringsmidler som skal tilsettes vann, kan mengden av ingrediensene angis etter vekt i det rekonstituerte produktet.
 
 ### Vedlegg IX
+
 Angivelse av nettoinnhold
 
 1. Angivelse av nettoinnhold er ikke obligatorisk for næringsmidler
@@ -1427,6 +1447,7 @@ Angivelse av nettoinnhold
    I dette nummer menes med «lake» følgende produkter, eventuelt blandinger av dem, også når de er fryst eller dypfryst, dersom laken bare er en tilsetning til preparatets hovedbestanddeler og derfor ikke er avgjørende for kjøpet: vann, vandige saltløsninger, saltlake, vandige løsninger av næringsmiddelsyrer, eddik, vandige løsninger av sukker, vandige løsninger av andre søtningsmidler, frukt- eller grønnsakjuice når det gjelder frukt eller grønnsaker.
 
 ### Vedlegg X
+
 Holdbarhetsdato, siste forbruksdato og dato for innfrysing
 
 1. Holdbarhetsdatoen angis som følger:
@@ -1480,6 +1501,7 @@ Holdbarhetsdato, siste forbruksdato og dato for innfrysing
    3. Datoen skal bestå av en ukodet angivelse av dag, måned og år, i nevnte rekkefølge.
 
 ### Vedlegg XI
+
 Kjøttyper som det er obligatorisk å angi opprinnelsesstat eller opphavssted for
 
 | *KN-koder<br>(Den kombinerte nomenklatur 2010)* | *Beskrivelse* |
@@ -1489,6 +1511,7 @@ Kjøttyper som det er obligatorisk å angi opprinnelsesstat eller opphavssted fo
 | Ex 0207 | Kjøtt av fjørfe i henhold til nr. 0105, ferskt, kjølt eller fryst |
 
 ### Vedlegg XII
+
 Alkoholstyrke
 
 Sann alkoholstyrke for drikker som inneholder mer enn 1,2 volumprosent alkohol, skal angis med et tall med høyst én desimal. Det skal følges av symbolet «% vol.», og ordet «alkohol» eller forkortelsen «alk.» kan stå foran.
@@ -1505,6 +1528,7 @@ Tillatte positive og negative avvik i absolutte tall når det gjelder opplysning
 | 4. Andre drikker med en alkoholstyrke på over 1,2 volumprosent | 0,3 % vol. |
 
 ### Vedlegg XIII
+
 Referanseinntak
 
 ### Del A – Daglig referanseinntak av vitaminer og mineraler (voksne)
@@ -1549,6 +1573,7 @@ Som regel skal følgende verdier legges til grunn for å avgjøre hva som utgjø
 | Salt | 6 g |
 
 ### Vedlegg XIV
+
 Omregningsfaktorer
 
 ### Omregningsfaktorer for beregning av energi
@@ -1568,6 +1593,7 @@ Energiinnholdet som angis, skal beregnes ved hjelp av følgende omregningsfaktor
 | – erytritol | 0 kJ/g – 0 kcal/g |
 
 ### Vedlegg XV
+
 Uttrykks- og presentasjonsform for næringsdeklarasjon
 
 I næringsdeklarasjonen skal målenhetene som brukes for energi (kilojoule (kJ) og kilokalorier (kcal)) og masse (gram (g), milligram (mg) eller mikrogram (μg)), samt eventuelt rekkefølgen av opplysningene, være som følger:
@@ -1596,6 +1622,7 @@ I næringsdeklarasjonen skal målenhetene som brukes for energi (kilojoule (kJ) 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1337/2013](eu/32013r1337).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 1337/2013](eu/32013r1337)
+
 av 13. desember 2013
 om fastsettelse av gjennomføringsregler for europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) med hensyn til angivelse av opprinnelsesstat eller opphavssted for ferskt, kjølt og fryst kjøtt av svin, sau, geit og fjørfe
 
@@ -1743,6 +1770,7 @@ Utferdiget i Brussel, 13. desember 2013.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 828/2014](eu/32014r0828).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) nr. 828/2014](eu/32014r0828)
+
 av 30. juli 2014
 om krav til opplysninger til forbrukerne om fravær eller redusert forekomst av gluten i
 næringsmidler
@@ -1822,6 +1850,7 @@ Utferdiget i Brussel, 30. juli 2014
 |  | *President* |
 
 ### VEDLEGG
+
 Tillatte angivelser av fravær eller redusert forekomst av gluten i næringsmidler og vilkår for bruken av angivelsene
 
 - *Allmenne krav*
@@ -1842,6 +1871,7 @@ Tillatte angivelser av fravær eller redusert forekomst av gluten i næringsmidl
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/775](eu/32018r0775). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII, er innarbeidet nedenfor.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2018/775](eu/32018r0775)
+
 av 28. mai 2018
 om fastsettelse av regler for anvendelsen av artikkel 26 nr. 3 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) om næringsmiddelopplysninger til forbrukerne med hensyn til reglene for angivelse av opprinnelsesland eller opphavssted for hovedingrediensen i et næringsmiddel
 

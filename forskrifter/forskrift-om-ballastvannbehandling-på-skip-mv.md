@@ -16,7 +16,7 @@ xml_hash: "2c81fcb0544b7c5c4e36fa18d7fddd50685691887d07df2dbde91e1cb43a2ce0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -270,6 +270,7 @@ Oversiktskart
 *Mal for ballastvanndagbok*
 
 ### BALLASTVANNDAGBOK
+
 INTERNASJONAL KONVENSJON OM KONTROLL OG BEHANDLING AV
 BALLASTVANN OG SEDIMENTER FRA SKIP
 

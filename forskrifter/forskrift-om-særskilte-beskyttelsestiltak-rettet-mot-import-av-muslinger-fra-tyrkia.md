@@ -17,7 +17,7 @@ xml_hash: "3e018d26f9871434a18cda701262c763c6d912250ed2ab1cc01b7ac918752ff6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -73,6 +73,7 @@ som endret ved:
 - ►**M1** Kommisjonsforordning [(EU) 2024/360](eu/32024r0360) av 24. januar 2024
 
 ### COMMISSION IMPLEMENTING REGULATION (EU) 2022/478
+
 of 24 March 2022
 on maintaining protective measures on imports of bivalve molluscs from Turkey intended for human consumption
 

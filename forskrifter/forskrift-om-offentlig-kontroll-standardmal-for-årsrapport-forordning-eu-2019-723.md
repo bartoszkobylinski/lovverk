@@ -17,7 +17,7 @@ xml_hash: "efb34ef2764eb46b88d724c417979974580e9d37dd8a20f9c7b24f99014d65be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,6 +55,7 @@ som endret ved:
 ►**M1** Forordning [(EU) 2021/1935](eu/32021r1935) av 8. november 2021
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2019/723](eu/32019r0723)
+
 av 2. mai 2019
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til standardskjemaet som skal brukes i årsrapportene fra medlemsstatene
 
@@ -121,6 +122,7 @@ Utferdiget i Brussel 2. mai 2019.
 |  | *President* |
 
 ### VEDLEGG
+
 Årsrapport framlagt av (medlemsstat) for perioden 1.1.XXXX til 31.12.XXXX
 
 ### DEL I

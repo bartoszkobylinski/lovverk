@@ -15,7 +15,7 @@ xml_hash: "6bb9a8f08031b99b2119e42ac448a0b871e923a5f8ecf97c3b9a85ddc5781859"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -156,6 +156,7 @@ Forordning [(EU) 2019/787](eu/32019r0787) er konsolidert til og med endringer gj
 - ►**M5** Forordning [(EU) 2022/1303](eu/32022r1303) om definisjonen av og kravene til landbruksetanol
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) 2019/787](eu/32019r0787)
+
 av 17. april 2019
 om definisjon av, betegnelse på og presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, beskyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110)
 
@@ -244,6 +245,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 VIRKEOMRÅDE, DEFINISJONER OG KATEGORIER AV ALKOHOLSTERKE DRIKKER
 
 ### Artikkel 1. Formål og virkeområde
@@ -449,6 +451,7 @@ Kommisjonen skal vedta en egen delegert rettsakt for hver tekniske definisjon el
 4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter vedta ensartede regler for bruk av andre naturlige stoffer eller landbruksråvarer som ved delegerte rettsakter er godkjent som søtningsmidler i framstillingen av alkoholsterke drikker som nevnt i nr. 3, særlig med henblikk på å fastsette de enkelte omregningsfaktorene for søtning. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 47 nr. 2.
 
 ### KAPITTEL II
+
 BETEGNELSE PÅ OG PRESENTASJON OG MERKING AV ALKOHOLSTERKE DRIKKER OG BRUK AV NAVNET PÅ ALKOHOLSTERKE DRIKKER I PRESENTASJONEN OG MERKINGEN AV ANDRE NÆRINGSMIDLER
 
 ### Artikkel 9. Presentasjon og merking
@@ -661,6 +664,7 @@ Kommisjonen kan ved hjelp av gjennomføringsrettsakter vedta
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 47 nr. 2.
 
 ### KAPITTEL III
+
 GEOGRAFISKE BETEGNELSER
 
 ### Artikkel 21. Beskyttelse av geografiske betegnelser
@@ -1007,6 +1011,7 @@ Myndighetene skal gi tilstrekkelige garantier for objektivitet og upartiskhet, o
 3\. Gjennomføringsrettsaktene nevnt i nr. 1 og 2 skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 47 nr. 2.
 
 ### KAPITTEL IV
+
 KONTROLLER, UTVEKSLING AV INFORMASJON, MEDLEMSSTATENES LOVGIVNING
 
 ### Artikkel 43. Kontroller av alkoholsterke drikker
@@ -1030,9 +1035,11 @@ Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedy
 2\. Uten hensyn til nr. 1 skal medlemsstatene ikke forby eller begrense import, salg eller forbruk av alkoholsterke drikker som er framstilt i andre medlemsstater eller tredjestater, og som oppfyller kravene i denne forordningen.
 
 ### KAPITTEL V
+
 DELEGERING AV MYNDIGHET, GJENNOMFØRINGSBESTEMMELSER, OVERGANGSBESTEMMELSER OG SLUTTBESTEMMELSER
 
 ### AVSNITT 1
+
 Delegering av myndighet og gjennomføringsbestemmelser
 
 ###### Artikkel 46
@@ -1064,6 +1071,7 @@ Komitéprosedyre
 2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.
 
 ### AVSNITT 2
+
 Unntak, overgangsbestemmelser og sluttbestemmelser
 
 ###### Artikkel 48
@@ -1139,6 +1147,7 @@ Utferdiget i Strasbourg 17. april 2019.
 | *President* | *Formann* |
 
 ### VEDLEGG I
+
 KATEGORIER AV ALKOHOLSTERKE DRIKKER
 
 1. **Rom**
@@ -1692,6 +1701,7 @@ KATEGORIER AV ALKOHOLSTERKE DRIKKER
     4. Honning- eller mjødnektar kan bare søtes med honning.
 
 ### VEDLEGG II
+
 SÆRLIGE REGLER FOR VISSE ALKOHOLSTERKE DRIKKER
 
 1. *Rum-Verschnitt* framstilles i Tyskland ved å blande rom og landbruksetanol, slik at minst 5 % av alkoholen i det ferdige produktet stammer fra rom. *Rum-Verschnitt* skal ha en alkoholstyrke på minst 37,5 volumprosent. Ordet «*Verschnitt*» skal angis i betegnelsen, presentasjonen og merkingen med skrifttegn av samme type, størrelse og farge og på samme linje som ordet «*Rum*» og, dersom det dreier seg om flasker, på forsideetiketten. Den lovbestemte betegnelsen på dette produktet skal være «alkoholsterk drikk». Dersom *Rum-Verschnitt* bringes i omsetning utenfor Tyskland, skal produktets alkoholsammensetning være angitt på etiketten.
@@ -1699,6 +1709,7 @@ SÆRLIGE REGLER FOR VISSE ALKOHOLSTERKE DRIKKER
 3. *Guignolet Kirsch* framstilles i Frankrike ved å blande *guignolet* og *kirsch*, slik at minst 3 % av det samlede innholdet av ren alkohol i det ferdige produktet stammer fra *kirsch*. Ordet «*guignolet*» skal angis i betegnelsen, presentasjonen og merkingen med skrifttegn av samme type, størrelse og farge og på samme linje som ordet «kirsch» og, dersom det dreier seg om flasker, på forsideetiketten. Den lovbestemte betegnelsen på dette produktet skal være «likør». Produktets alkoholsammensetning skal angi innholdet av ren alkohol i volumprosent som *guignolet* og *kirsch* utgjør av det samlede innholdet i av ren alkohol i volumprosent i *guignolet kirsch*.
 
 ### VEDLEGG III
+
 DET DYNAMISKE ALDRINGSSYSTEMET «CRIADERAS Y SOLERA» ELLER «SOLERA E CRIADERAS»
 
 Det dynamiske aldringssystemet «*criaderas y solera*» eller «*solera e criaderas*» består av regelmessig avtapping av en del av *brandyen* i hvert av eikefatene og -beholderne som utgjør et aldringsnivå, og tilsvarende påfylling av *brandy* avtappet fra forrige aldringsnivå.
@@ -1724,6 +1735,7 @@ Ved eikefat og -beholdere på mindre enn 1 000 liter skal antall avtappinger og
 Ved eikefat og -beholdere på over 1 000 liter skal antall avtappinger og påfyllinger per år være like mange eller færre enn antall nivåer i systemet, slik at det garanteres at den yngste komponenten er minst et år gammel.
 
 ### VEDLEGG IV
+
 Sammenligningstabell
 
 | Denne forordningen | Forordning [(EF) nr. 110/2008](eu/32008r0110) |
@@ -1900,6 +1912,7 @@ Sammenligningstabell
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/723](eu/32021r0723) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll 1.
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2021/723
+
 av 26. februar 2021
 om utfylling av europaparlaments- og rådsforordning (EU) 2019/787 med hensyn til opprettelse av et offentlig register over organer utpekt av hver medlemsstat til å føre tilsyn med lagringsprosessene for alkoholsterke drikker
 
@@ -1957,6 +1970,7 @@ som endret ved
 ► EØS tilpasning som følge av [EØS-avtalen](lov/1992-11-27-109/eøsl) kapittel XXVII vedlegg II nr. 9an. JCD 241/2022
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/724
+
 av 3. mars 2021
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) 2019/787 med hensyn til meldinger fra medlemsstatene til Kommisjonen om organer utpekt til å føre tilsyn med lagringsprosesser for alkoholsterke drikker og vedkommende myndigheter med ansvar for å sikre overholdelse av nevnte forordning
 
@@ -2034,6 +2048,7 @@ Utferdiget i Brussel 3. mars 2021.
 |  | *President* |
 
 ### VEDLEGG I
+
 Skjema for underretningen nevnt i artikkel 1 nr. 1
 
 Medlemsstat:
@@ -2043,6 +2058,7 @@ Meldingsdato:
 *Fyll ut del A dersom ett enkelt organ er utpekt til å føre tilsyn med lagringsprosessene for alkoholholdige drikker, eller del B dersom flere organer er utpekt til å føre tilsyn med disse prosessene. I sistnevnte tilfelle utfylles også del C.*
 
 ### DEL A
+
 ORGAN UTPEKT TIL Å FØRE TILSYN MED LAGRINGSPROSESSENE FOR ALKOHOLSTERKE DRIKKER
 
 Navn:
@@ -2054,6 +2070,7 @@ Telefonnummer:
 E-postadresse:
 
 ### DEL B
+
 LISTE OVER ORGANER UTPEKT TIL Å FØRE TILSYN MED LAGRINGSPROSESSENE FOR ALKOHOLSTERKE DRIKKER
 
 *Gi følgende opplysninger om hvert organ:*
@@ -2069,6 +2086,7 @@ E-postadresse:
 Spesifikt ansvar:
 
 ### DEL C
+
 KONTAKTORGAN
 
 Navn:
@@ -2080,6 +2098,7 @@ Telefonnummer:
 E-postadresse:
 
 ### VEDLEGG II
+
 Skjema for underretningen nevnt i artikkel 1 nr. 2
 
 Medlemsstat:
@@ -2089,6 +2108,7 @@ Meldingsdato:
 *Fyll ut del A dersom én enkelt vedkommende myndighet er utpekt til å sikre overholdelse av forordning [(EU) 2019/787](eu/32019r0787), eller del B dersom flere vedkommende myndigheter er utpekt. I sistnevnte tilfelle utfylles også del C.*
 
 ### DEL A
+
 VEDKOMMENDE MYNDIGHET MED ANSVAR FOR Å SIKRE OVERHOLDELSE AV FORORDNING (EU) 2019/787
 
 Navn:
@@ -2100,6 +2120,7 @@ Telefonnummer:
 E-postadresse:
 
 ### DEL B
+
 LISTE OVER VEDKOMMENDE MYNDIGHETER MED ANSVAR FOR Å SIKRE OVERHOLDELSE AV FORORDNING (EU) 2019/787
 
 *Gi følgende opplysninger om hver vedkommende myndighet:*
@@ -2115,6 +2136,7 @@ E-postadresse:
 Spesifikt ansvar:
 
 ### DEL C
+
 KONTAKTORGAN
 
 Navn:
@@ -2132,6 +2154,7 @@ E-postadresse:
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/1235](eu/32021r1235) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll 1.
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2021/1235
+
 av 12. mai 2021
 om utfylling av europaparlaments- og rådsforordning (EU) 2019/787 med regler for søknader om registrering av geografiske betegnelser på alkoholsterke drikker, endring av produktspesifikasjoner, annullering av registreringen og registeret
 
@@ -2165,6 +2188,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 INNLEDENDE BESTEMMELSE
 
 ### Artikkel 1. Formål
@@ -2177,9 +2201,11 @@ Ved denne forordningen fastsettes det regler som utfyller forordning [(EU) 2019/
 4. registeret over geografiske betegnelser.
 
 ### KAPITTEL II
+
 SÆRLIGE BESTEMMELSER
 
 ### AVSNITT 1
+
 SØKNAD OM REGISTRERING
 
 ###### Artikkel 2
@@ -2217,6 +2243,7 @@ Overgangsperioden skal starte fra den datoen søknaden inngis til Kommisjonen, o
 3\. Overgangsperioden nevnt i nr. 1 skal angis i søknaden som inngis til Kommisjonen i samsvar med artikkel 24 nr. 7 og 8 i forordning [(EU) 2019/787](eu/32019r0787).
 
 ### AVSNITT 2
+
 ENDRING AV PRODUKTSPESIFIKASJONER
 
 ###### Artikkel 6
@@ -2290,6 +2317,7 @@ Dersom en eller flere av de berørte medlemsstatene ikke vedtar den nasjonale be
 Avsenderen av en melding om en midlertidig endring skal være ansvarlig for innholdet i den.
 
 ### AVSNITT 3
+
 ANNULLERING AV EN GEOGRAFISK BETEGNELSE
 
 ###### Artikkel 11
@@ -2314,6 +2342,7 @@ ANNULLERING AV EN GEOGRAFISK BETEGNELSE
 3\. Begrunnede innsigelser mot annullering er bare gyldige dersom de viser at den berørte personen bruker det registrerte navnet kommersielt.
 
 ### AVSNITT 4
+
 REGISTER
 
 ###### Artikkel 13
@@ -2349,6 +2378,7 @@ REGISTER
 6\. Kommisjonen skal oppbevare dokumentasjon om registreringen av en geografisk betegnelse i digitalt format eller papirformat i den geografiske betegnelsens gyldighetstid, og i tilfelle annullering i ti år deretter.
 
 ### KAPITTEL III
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 14. Oppheving
@@ -2386,6 +2416,7 @@ For [EØS-avtalens](lov/1992-11-27-109/eøsl) formål skal artikkel 13 gjelde me
 Uten hensyn til bestemmelsene i protokoll 1 skal kommunikasjonen i henhold til artikkel 13 nr. 1 fra de kompetente myndigheter i EFTA-statene til Kommisjonen følge framgangsmåten fastsatt i bokstav b). Protokoll 1 nr. 4 får ikke anvendelse på artikkel 13*.*
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/1236
+
 av 12. mai 2021
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2019/787 når det gjelder søknader om registrering av geografiske betegnelser på alkoholsterke drikker, innsigelsesprosedyren, endring av produktspesifikasjoner, annullering av registreringen, bruk av symboler og kontroll
 
@@ -2450,6 +2481,7 @@ For [EØS-avtalens](lov/1992-11-27-109/eøsl) formål skal artikkel 13 gjelde me
 Uten hensyn til bestemmelsene i protokoll 1 skal kommunikasjonen i henhold til artikkel 13 nr. 1 fra de kompetente myndigheter i EFTA-statene til Kommisjonen følge framgangsmåten fastsatt i bokstav b). Protokoll 1 nr. 4 får ikke anvendelse på artikkel 13.
 
 ### KAPITTEL I
+
 **INNLEDENDE BESTEMMELSE**
 
 ### Artikkel 1. Formål
@@ -2465,9 +2497,11 @@ Ved denne forordningen fastsettes det regler for anvendelse av forordning [(EU) 
 7. kommunikasjon.
 
 ### KAPITTEL II
+
 SÆRLIGE BESTEMMELSER
 
 ### AVSNITT 1
+
 SØKNAD OM REGISTRERING
 
 ###### Artikkel 2
@@ -2507,6 +2541,7 @@ I tilfeller der det skal gjennomføres en ytterligere nasjonal innsigelsesprosed
 Den elektroniske henvisningen til produktspesifikasjonen skal oppdateres og føre til den konsoliderte utgaven av den foreslåtte produktspesifikasjonen.
 
 ### AVSNITT 2
+
 INNSIGELSESPROSEDYRE
 
 ###### Artikkel 6
@@ -2550,6 +2585,7 @@ En begrunnet innsigelse skal utarbeides i samsvar med skjemaet i vedlegg III. So
 Meldingen om avsluttede samråd innenfor rammen av innsigelsesprosedyren skal utarbeides i samsvar med skjemaet i vedlegg IV til denne forordningen.
 
 ### AVSNITT 3
+
 ENDRING AV PRODUKTSPESIFIKASJONEN
 
 ###### Artikkel 7
@@ -2620,6 +2656,7 @@ Navnene på de fysiske eller juridiske personene eller tjenestemennene i medlems
 5\. Med henblikk på artikkel 10 nr. 5 i delegert forordning [(EU) 2021/1235](eu/32021r1235) skal navnet på medlemsstaten eller tredjelandet eller den fysiske eller juridiske personen som inngir en melding om en godkjent midlertidig endring av produktspesifikasjonen for en geografisk betegnelse, offentliggjøres som en del av meldingen.
 
 ### AVSNITT 4
+
 ANNULLERING
 
 ###### Artikkel 10
@@ -2643,6 +2680,7 @@ Dersom det er relevant, kan anmodningen om annullering ledsages av underlagsdoku
 3\. Med henblikk på artikkel 32 nr. 1 andre ledd i forordning [(EU) 2019/787](eu/32019r0787) sammenholdt med artikkel 26 nr. 2 i samme forordning skal Kommisjonen offentliggjøre anmodningen om annullering i *Den europeisk unions tidende* (C-serien). Navnene på de fysiske eller juridiske personene eller tjenestemennene i medlemsstatene eller tredjelandene som inngir en anmodning om annullering, skal offentliggjøres som en del av nevnte anmodning.
 
 ### AVSNITT 5
+
 BRUK AV UNIONSSYMBOLET
 
 ###### Artikkel 11
@@ -2652,6 +2690,7 @@ BRUK AV UNIONSSYMBOLET
 Unionssymbolet for beskyttede geografiske betegnelser omhandlet i artikkel 16 i forordning (EU) 2019/787 skal gjengis i samsvar med vedlegg X til gjennomføringsforordning [(EU) nr. 668/2014](eu/32014r0668).
 
 ### AVSNITT 6
+
 KONTROLLER
 
 ###### Artikkel 12
@@ -2689,6 +2728,7 @@ Beviset på sertifiseringen kan bestå av et sertifikat eller en oppføring på 
 8\. Importøren skal på anmodning gjøre tilgjengelig beviset på sertifiseringen nevnt i nr. 7 for tollmyndigheter eller andre myndigheter i EU med ansvar for å kontrollere bruken av geografiske betegnelser på varer som deklareres for fri omsetning eller bringes i omsetning i Unionen. Importøren kan gjøre beviset på sertifiseringen tilgjengelig for allmennheten eller enhver person som anmoder om bevis på sertifiseringen i forbindelse med forretningsvirksomhet.
 
 ### KAPITTEL III
+
 KOMMUNIKASJON
 
 ### Artikkel 13. (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 2 i forordning (EU) 2019/787) Kommunikasjon mellom Kommisjonen, medlemsstatene, tredjeland og andre aktører
@@ -2743,6 +2783,7 @@ Kommisjonen skal underrette om og gjøre tilgjengelig opplysninger og kommentare
 Opplysningene som Kommisjonen skal offentliggjøre i samsvar med kapittel III i forordning [(EU) 2019/787](eu/32019r0787), delegert forordning [(EU) 2021/1235](eu/32021r1235) og denne forordningen, skal offentliggjøres via de digitale systemene som Kommisjonen gjør tilgjengelige, som nevnt i artikkel 13 nr. 1 første ledd bokstav a) i denne forordningen.
 
 ### KAPITTEL IV
+
 PERSONOPPLYSNINGER
 
 ### Artikkel 16. (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 og 2 i forordning (EU) 2019/787) Personopplysninger
@@ -2754,6 +2795,7 @@ PERSONOPPLYSNINGER
 3\. Vedkommende myndigheter i medlemsstatene skal anses som behandlingsansvarlige i henhold til forordning [(EU) 2016/679](eu/32016r0679) i forbindelse med behandlingen av personopplysninger i de framgangsmåtene som de har ansvar for, i samsvar med forordning [(EU) 2019/787](eu/32019r0787), delegert forordning [(EU) 2021/1235](eu/32021r1235) og denne forordningen.
 
 ### KAPITTEL V
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 17. Ikrafttredelse og anvendelse
@@ -2771,6 +2813,7 @@ Utferdiget i Brussel 12. mai 2021.
 |  | *President* |
 
 ### VEDLEGG I
+
 ENHETSDOKUMENT (FORORDNING (EU) 2019/787)
 
 «NAVN»
@@ -2834,6 +2877,7 @@ _____________________________________________________________________
 2 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, beskyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### VEDLEGG II
+
 MELDING OM INNSIGELSE (FORORDNING (EU) 2019/787)
 
 |  |
@@ -2883,6 +2927,7 @@ ______
 2 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, be-skyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### VEDLEGG III
+
 BEGRUNNET INNSIGELSE (FORORDNING (EU) 2019/787)
 
 |  |
@@ -2950,6 +2995,7 @@ BEGRUNNET INNSIGELSE (FORORDNING (EU) 2019/787)
 3 Delegert kommisjonsforordning [(EU) 2021/1235](eu/32021r1235) av 12. mai 2021 om utfylling av europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) med regler for søknader om registrering av geografiske betegnelser på alkoholsterke drikker, endring av produktspesifikasjoner, annullering av registreringen og registeret (EUT L 270).
 
 ### VEDLEGG IV
+
 UNDERRETNING OM AVSLUTNING AV SAMRÅD INNENFOR RAMMEN AV INNSIGELSESPROSEDYREN (FORORDNING (EU) 2019/787)
 
 |  |
@@ -3009,6 +3055,7 @@ UNDERRETNING OM AVSLUTNING AV SAMRÅD INNENFOR RAMMEN AV INNSIGELSESPROSEDYREN (
 1 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, be-skyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### VEDLEGG V
+
 SØKNAD OM GODKJENNING AV EN ENDRING PÅ UNIONSPLAN AV PRODUKTSPESIFIKASJONEN (FORORDNING [(EU) 2019/787](eu/32019r0787))
 
 |  |
@@ -3061,6 +3108,7 @@ ________
 4 Kommisjonens gjennomføringsforordning [(EU) 2021/1236](eu/32021r1236) av 12. mai 2021 om fastsettelse av regler for anvendelsen av euro-paparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) når det gjelder søknader om registrering av geografiske betegnelser på alkoholsterke drikker, innsigelsesprosedyren, endring av produktspesifikasjoner, annullering av registreringen, bruk av symboler og kontroll (EUT L 270).
 
 ### VEDLEGG VI
+
 MELDING OM GODKJENNING AV EN STANDARDENDRING (FORORDNING (EU) 2019/787)
 
 |  |
@@ -3095,6 +3143,7 @@ MELDING OM GODKJENNING AV EN STANDARDENDRING (FORORDNING (EU) 2019/787)
 2 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, be-skyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### VEDLEGG VII
+
 MELDING OM GODKJENNING AV EN MIDLERTIDIG ENDRING (FORORDNING (EU) 2019/787)
 
 |  |
@@ -3128,6 +3177,7 @@ MELDING OM GODKJENNING AV EN MIDLERTIDIG ENDRING (FORORDNING (EU) 2019/787)
 2 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, be-skyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### VEDLEGG VIII
+
 ANMODNING OM ANNULLERING (FORORDNING (EU) 2019/787)
 
 |  |
@@ -3180,6 +3230,7 @@ ANMODNING OM ANNULLERING (FORORDNING (EU) 2019/787)
 2 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, be-skyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### VEDLEGG IX
+
 OFFISIELT SERTIFIKAT ELLER OPPFØRING PÅ LISTE OVER PRODUSENTER ELLER BEARBEIDINGSVIRKSOMHETER SOM OVERHOLDER EN PRODUKTSPESIFIKASJON FOR EN GEOGRAFISK BETEGNELSE I SEKTOREN FOR ALKOHOLSTERKE DRIKKER, I SAMSVAR MED ARTIKKEL 12 NR. 3 I KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/1236[^1]
 
 | **Dette dokumentet attesterer at produsenten eller bearbeidingsvirksomheten er sertifisert til å merke et produkt som geografisk betegnelse som er beskyttet i samsvar med europaparlaments- og rådsforordning (EU) 2019/787[^2]** |  |
@@ -3209,6 +3260,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 251/
 ►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XXVII**
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 251/2014](eu/32014*0251)
+
 av 26. februar 2014
 om definisjon av, betegnelse på og presentasjon, merking og beskyttelse av geografiske betegnelser på aromatiserte vinprodukter og om oppheving av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601)
 
@@ -3278,6 +3330,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -3297,6 +3350,7 @@ I denne forordning menes med:
 3. «geografisk betegnelse» en betegnelse som identifiserer en region, et bestemt sted eller en stat der et aromatisert vinprodukt har sin opprinnelse, når en bestemt egenskap, omdømmet til eller andre kjennetegn ved produktet i vesentlig grad kan tilskrives produktets geografiske opprinnelse.
 
 ### KAPITTEL II
+
 DEFINISJON AV, BETEGNELSE PÅ, PRESENTASJON OG MERKING AV AROMATISERTE VINPRODUKTER
 
 ### Artikkel 3. Definisjon og klassifisering av aromatiserte vinprodukter
@@ -3399,6 +3453,7 @@ Dersom navnet på en geografisk betegnelse som er beskyttet i henhold til denne 
 Medlemsstatene kan som et ledd i en kvalitetspolitikk for aromatiserte vinprodukter med geografiske betegnelser som er beskyttet i henhold til denne forordning, og som er framstilt på deres territorium eller med henblikk på opprettelse av nye geografiske betegnelser, fastsette regler for produksjon og betegnelser som er strengere enn de som er nevnt i artikkel 4 og i vedlegg I og II, forutsatt at de er forenlige med unionsretten.
 
 ### KAPITTEL III
+
 GEOGRAFISKE BETEGNELSER
 
 ### Artikkel 10. Innholdet i søknader om beskyttelse
@@ -3651,6 +3706,7 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 Dersom det vurderes at en søknad eller en anmodning som er inngitt i henhold til dette kapittel, er uantakelig, skal Kommisjonen ved hjelp av gjennomføringsrettsakter som vedtas uten anvendelse av framgangsmåten nevnt i artikkel 34 nr. 2, treffe beslutning om å avvise den som uantakelig.
 
 ### KAPITTEL IV
+
 ALMINNELIGE BESTEMMELSER, OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 31. Kontroll av aromatiserte vinprodukter
@@ -3737,6 +3793,7 @@ Utferdiget i Strasbourg, 26. februar 2014.
 | *President* | *Formann* |
 
 ### VEDLEGG I
+
 TEKNISKE DEFINISJONER, KRAV OG RESTRIKSJONER
 
 1. Aromatisering
@@ -3814,6 +3871,7 @@ TEKNISKE DEFINISJONER, KRAV OG RESTRIKSJONER
 19 Rådsdirektiv [98/83/EF](eu/31998l0083) av 3. november 1998 om drikkevannets kvalitet (EFT L 330 av 5.12.1998, s. 32).
 
 ### VEDLEGG II
+
 VAREBETEGNELSER FOR OG BETEGNELSER PÅ AROMATISERTE VINPRODUKTER
 
 A. VAREBETEGNELSER FOR OG BETEGNELSER PÅ AROMATISERTE VINER
@@ -3991,6 +4049,7 @@ C. VAREBETEGNELSER FOR OG BETEGNELSER PÅ AROMATISERTE COCKTAILER AV VINPRODUKTE
    Aromatisert cocktail av vinprodukter som er blandet med musserende vin.
 
 ### VEDLEGG III
+
 SAMMENLIGNINGSTABELL
 
 | *Forordning [(EØF) nr. 1601/91](eu/31991r1601)* | *Denne forordning* |
@@ -4041,6 +4100,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/670
 ►**B** Forordning [(EU) 2017/670](eu/32017r0670)
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2017/670](eu/32017r0670)
+
 av 31. januar 2017
 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251) med hensyn til godkjente produksjonsprosesser for framstilling av aromatiserte vinprodukter
 
@@ -4102,6 +4162,7 @@ Utferdiget i Brussel 31. januar 2017.
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2020/198](eu/32020r0198) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, protokoll 1.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2020/198
+
 av 13. februar 2020
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning (EU) nr. 251/2014 med hensyn til opprettelse av registeret over geografiske betegnelser som er beskyttet i sektoren for aromatiserte vinprodukter, og oppføring av eksisterende geografiske betegnelser i nevnte register
 

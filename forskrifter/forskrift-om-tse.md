@@ -17,7 +17,7 @@ xml_hash: "3beba360f90c577bc428f3f2a7a8e2cd5769371f9e8302051ea5c94c62f2618a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -408,6 +408,7 @@ som endret ved:
 - ►**M76** Forordning [(EU) 2025/328](eu/32025r0328) av 19. februar 2025.
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 999/2001](eu/32001r0999)
+
 av 22. mai 2001
 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse overførbare spongiforme encefalopatier
 
@@ -466,6 +467,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING]:
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Virkeområde
@@ -528,6 +530,7 @@ Nærmere regler for gjennomføringen av denne artikkel skal vedtas etter framgan
 2\. Vernetiltakene skal vedtas etter framgangsmåten fastsatt i artikkel 24 nr. 2, og Europaparlamentet skal samtidig underrettes om tiltakene og begrunnelsen for dem.
 
 ### Kapittel II
+
 Bestemmelse av BSE-status
 
 ### Artikkel 5. Klassifisering
@@ -583,6 +586,7 @@ Tredjestatenes rett til å eksportere til EØS-området levende dyr eller produk
 8\. Vedtakene nevnt i nr. 2, 3, 4, 6 og 7, skal bygge på en risikovurdering som tar hensyn til de anbefalte kriteriene fastsatt i vedlegg II kapittel A og B.
 
 ### Kapittel III
+
 Forebygging av TSE
 
 ### Artikkel 6. Overvåkingssystem
@@ -714,6 +718,7 @@ Kommisjonen skal deretter framlegge en meddelelse til Europaparlamentet og Råde
 2\. For å sikre en effektiv gjennomføring av opplæringsprogrammene nevnt i nr. 1, kan det gis finansiell støtte fra Fellesskapet. Støttebeløpet skal bestemmes etter framgangsmåten fastsatt i artikkel 24 nr. 2.
 
 ### Kapittel IV
+
 Bekjempelse og utryddelse av TSE
 
 ### Artikkel 11. Melding
@@ -795,6 +800,7 @@ Dersom det kan dokumenteres at det ikke er sannsynlig at driftsenheten der det a
 2\. Disse retningslinjene kan harmoniseres etter framgangsmåten fastsatt i artikkel 24 nr. 2, dersom det er nødvendig for å sikre at EØS-regelverk blir anvendt på en ensartet måte.
 
 ### Kapittel V
+
 Markedsføring og eksport
 
 ### Artikkel 15. Levende dyr og sæd, embryoer og egg av disse
@@ -857,6 +863,7 @@ De handelsdokumentene som er relevante i forbindelse med handel med produkter av
 De relevante helsesertifikatene for import som er fastsatt i EØS-regelverk, skal når det gjelder tredjestater som er klassifisert i en kategori i samsvar med artikkel 5 og etter framgangsmåten fastsatt i artikkel 24 nr. 2, utfylles med de særlige kravene fastsatt i vedlegg IX, så snart dette vedtaket om klassifisering er gjort.
 
 ### Kapittel VI
+
 Referanselaboratorier, prøvetaking, undersøkelser og kontroll
 
 ►**M57**
@@ -882,6 +889,7 @@ Referanselaboratorier, prøvetaking, undersøkelser og kontroll
 ◄**M57**
 
 ### Kapittel VII
+
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 22. Overgangstiltak for spesifisert risikomateriale
@@ -962,6 +970,7 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 1 Ikrafttredelse av grunnrettsakten i EØS følger av [EØS-komiteens beslutning nr. 66/2003](eu/22003d0066) og er 1. februar 2004. Ikrafttredelse av de etterfølgende endringsrettsaktene følger av egne EØS-komité beslutninger.
 
 ### ►**M10** Vedlegg I
+
 Særlige definisjoner ◄**M10**
 
 ►**M48**
@@ -1055,9 +1064,11 @@ Særlige definisjoner ◄**M10**
 ◄**M66**
 
 ### ►**M31** Vedlegg II
+
 Bestemmelse av BSE-status
 
 ### Kapittel A
+
 Kriterier
 
 ►**M55**
@@ -1075,6 +1086,7 @@ I staten eller regionen
 5. gjennomføres undersøkelsen av hjernevev eller annet vev som er innsamlet innenfor rammen av overvåkingsprogrammet nevnt i bokstav b) i et godkjent laboratorium.
 
 ### Kapittel B
+
 Risikoanalyse
 
 ◄**M31**
@@ -1119,6 +1131,7 @@ Eksponeringsvurderingen skal omfatte en vurdering av sannsynligheten for at stor
 4. Omfanget av den overvåkingen av BSE hos storfepopulasjonen som hittil er utført, samt resultatene av overvåkingen.
 
 ### Kapittel C
+
 Definisjon av kategorier
 
 *I. Stat eller region med ubetydelig BSE-risiko*
@@ -1176,6 +1189,7 @@ En stat eller en region
 En stat eller region der BSE-status ikke er bestemt eller som ikke oppfyller de vilkår som staten eller regionen må oppfylle for å klassifiseres i en av de andre kategoriene.
 
 ### Kapittel D
+
 Minstekrav til overvåking
 
 *1. Overvåkingstyper*
@@ -1301,6 +1315,7 @@ For å fortsette å bestemme om det er kontrollert eller ubetydelig BSE-risiko i
 ◄**M31**
 
 ### ►**M13** Vedlegg III
+
 Overvåkingssystem
 
 ### Kapittel A
@@ -1764,12 +1779,14 @@ III. REGISTRE
    ◄**M54**
 
 ### Vedlegg IV[^1]
+
 ►**M48**
 Fôrvarer
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IV punkt 2, jf. [EØS-avtalen](lov/1992-11-27-109/kap2) vedlegg I del 7.1. nr. 12.
 
 ### Kapittel I
+
 Utvidelse av forbudet fastsatt i artikkel 7 nr. 1
 
 I samsvar med artikkel 7 nr. 2 skal forbudet fastsatt i artikkel 7 nr. 1, utvides til å omfatte fôring
@@ -1787,6 +1804,7 @@ I samsvar med artikkel 7 nr. 2 skal forbudet fastsatt i artikkel 7 nr. 1, utvide
    ◄**M69**
 
 ### Kapittel II
+
 Unntak fra forbudene fastsatt i artikkel 7 nr. 1 og i kapittel 1
 
 I samsvar med første ledd i artikkel 7 nr. 3 skal forbudet fastsatt i artikkel 7 nr. 1 og i kapittel I ikke få anvendelse på fôr til
@@ -1837,6 +1855,7 @@ I samsvar med første ledd i artikkel 7 nr. 3 skal forbudet fastsatt i artikkel 
    ◄**M69**
 
 ### Kapittel III
+
 Alminnelige vilkår for anvendelsen av visse unntak fastsatt i kapittel II
 
 ►**M59**
@@ -1956,6 +1975,7 @@ Bruk og lagring på driftsenheter av fôr beregnet på fôring av andre produksj
 2\. Som unntak fra nr. 1 kan vedkommende myndighet godkjenne bruk og lagring av fôrblandinger nevnt i nr. 1 bokstav d) i driftsenheter som holder arter av produksjonsdyr som fôrblandingen ikke er beregnet på, under forutsetning av at det er gjennomført tiltak på driftsenheten for å hindre at slik fôrblanding gis til dyrearter som den ikke er beregnet på.
 
 ### Kapittel IV
+
 Særlige vilkår for anvendelsen av unntak fastsatt i kapittel II
 
 ###### Avsnitt A
@@ -2319,6 +2339,7 @@ Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeide
 ◄**M69**
 
 ### Kapittel V
+
 Alminnelige krav
 
 ►**M59**
@@ -2560,6 +2581,7 @@ Følgedokument for og merking av bearbeidet animalsk protein fra oppdrettsinsekt
 ◄**M69**
 
 ### ►**M31** Vedlegg V
+
 Spesifisert risikomateriale
 
 1.*Definisjon på spesifisert risikomateriale*
@@ -2716,6 +2738,7 @@ Det skal opprettes et kontrollsystem for fjerning av virvelsøylen som angitt i 
 ◄**M55**
 
 ### Vedlegg VI
+
 ►**M31**
 *Produkter av animalsk opprinnelse som er framstilt av eller inneholder materiale fra drøvtyggere, som nevnt i artikkel 9 nr. 1*
 
@@ -2735,9 +2758,11 @@ I samsvar med artikkel 9 nr. 1 er det forbudt å bruke materiale fra drøvtygger
    2. råstoff som er bearbeidet i samsvar med standardene nevnt i direktiv [90/667/EØF](eu/31990l0667).
 
 ### ►**M50** Vedlegg VII
+
 Bekjempelse og utryddelse av overførbar spongiform encefalopati
 
 ### Kapittel A
+
 Tiltak ved mistanke om forekomst av TSE hos sauer og geiter
 
 Dersom det er mistanke om forekomst av TSE hos en sau eller geit i en driftsenhet i en medlemsstat, skal det innføres offentlige restriksjoner på forflytning av alle andre sauer og geiter i denne driftsenheten til resultatene av de bekreftende undersøkelsene foreligger.
@@ -2747,6 +2772,7 @@ Dersom det kan dokumenteres at dyret sannsynligvis ikke har blitt utsatt for TSE
 Melk og melkeprodukter fra sauer og geiter i en driftsenhet som er satt under offentlig tilsyn, og som befinner seg i samme driftsenhet på den dag mistanken om forekomst av TSE oppsto, og fram til den dag resultatene av de bekreftende undersøkelsene foreligger, skal brukes bare i denne driftsenheten.
 
 ### Kapittel B
+
 Tiltak ved bekreftet forekomst av TSE hos storfe, sauer og geiter
 
 1\.
@@ -3024,6 +3050,7 @@ Restriksjonene angitt i nr. 4.1–4.5 skal gjelde i en periode på to år etter 
 ◄**M66**
 
 ### Kapittel C
+
 Minstekrav til et avlsprogram for resistens mot TSE hos sauer i samsvar med artikkel 6A
 
 ###### Del 1
@@ -3114,9 +3141,11 @@ Medlemsstater som innfører nasjonale avlsprogrammer med sikte på utvelging for
 ◄**M50**
 
 ### Vedlegg VIII
+
 Markedsføring og eksport
 
 ### ►**M50** Kapittel A[^1]
+
 Vilkår for handel innenfor Unionen med levende dyr, sæd og embryoer
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg VIII kap. A, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3464,6 +3493,7 @@ Som unntak fra nr. 4.1 er følgende forflytninger av levende hjortedyr ut av en 
 ◄**M72**
 
 ### Kapittel B[^1]
+
 Vilkår for avkom av dyr som er mistenkt for eller bekreftet å være angrepet av TSE i samsvar med artikkel 15 nr. 2
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg VIII kap. A, B og D, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3471,6 +3501,7 @@ Vilkår for avkom av dyr som er mistenkt for eller bekreftet å være angrepet a
 Det er forbudt å markedsføre det sist fødte avkommet som hunndyr av storfe som er angrepet av TSE, eller som sauer eller geiter som BSE er bekreftet hos, fødte i de siste to årene eller i tidsrommet etter at de første kliniske tegnene på sykdommen viste seg.
 
 ### ►**M31** Kapittel C
+
 Vilkår for handel innenfor EØS-området med visse produkter av animalsk opprinnelse
 
 ###### Avsnitt A
@@ -3510,6 +3541,7 @@ Lokkemidler for jakt som inneholder urin fra hjortedyr
 ◄**M72**
 
 ### Kapittel D[^1]
+
 Vilkår for eksport
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg VIII kap. A, B og D, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3517,9 +3549,11 @@ Vilkår for eksport
 Reglene fastsatt i denne forordning for handel innenfor EØS-området får også anvendelse på eksport til tredjestater av levende storfe og produkter av animalsk opprinnelse framstilt av storfe.
 
 ### ►**M55** VEDLEGG IX
+
 Import til unionen av levende dyr, embryoer, egg og produkter av animalsk opprinnelse
 
 ### KAPITTEL B
+
 Import av storfe[^1]
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. B, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3588,6 +3622,7 @@ Ved import av storfe fra en stat eller region med en ikke-fastsatt BSE-risiko sk
    2. etter datoen da det siste nasjonale tilfellet av BSE ble født, dersom dyrene ble født etter datoen for fôringsforbudet nevnt i i).
 
 ### Kapittel C
+
 Import av produkter av animalsk opprinnelse fra storfe, sauer eller geiter
 
 ###### Avsnitt A
@@ -3682,6 +3717,7 @@ Import fra stater eller regioner med en ikke-fastsatt BSE-risiko
    2. inneholder ikke og stammer ikke produktene av animalsk opprinnelse fra storfe, sauer eller geiter fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning.
 
 ### Kapittel D
+
 Import av animalske biprodukter og avledede produkter fra storfe, sauer eller geiter
 
 ###### Avsnitt A
@@ -3755,6 +3791,7 @@ Som unntak fra forrige ledd kreves ikke sertifikatet nevnt i bokstav a) og b) ve
 ◄**M64**
 
 ### Kapittel E
+
 Import av sauer og geiter[^1]
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. E, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
@@ -3794,6 +3831,7 @@ I tillegg til vilkårene fastsatt i nr. 1-4 skal helsesertifikatet attestere at:
       ◄**M74**
 
 ### Kapittel F
+
 Import av animalske produkter fra oppdrettshjortedyr og viltlevende hjortedyr
 
 1\. Ved import til Unionen fra Canada eller De forente stater av ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt og kjøttprodukter som definert i nr. 1.10, 1.13, 1.15 og 7.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), framstilt av oppdrettshjortedyr, skal hygienesertifikatene ledsages av en erklæring underskrevet av vedkommende myndighet i produksjonsstaten, med følgende ordlyd:
@@ -3811,6 +3849,7 @@ Import av animalske produkter fra oppdrettshjortedyr og viltlevende hjortedyr
 ◄**M72**
 
 ### Kapittel H
+
 Import av sæd og embryoer av sauer og geiter[^1]
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. H, jf. EØS-avtalen vedlegg I del 7.1. nr. 12
@@ -3835,6 +3874,7 @@ Ved import av sæd og embryoer av sauer og geiter til Unionen skal det framlegge
 ◄**M55**
 
 ### ►**M51** Vedlegg X
+
 Referanselaboratorier, prøvetaking og metoder for laboratorieanalyse
 
 ►**M57**
@@ -3842,6 +3882,7 @@ Referanselaboratorier, prøvetaking og metoder for laboratorieanalyse
 ◄**M57**
 
 ### Kapittel C
+
 Prøvetaking og laboratorieundersøkelser
 
 1.*Prøvetaking*

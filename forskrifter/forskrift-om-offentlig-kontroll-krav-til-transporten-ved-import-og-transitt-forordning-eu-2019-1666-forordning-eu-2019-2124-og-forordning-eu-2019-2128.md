@@ -17,7 +17,7 @@ xml_hash: "3073c5a9c075d54f245ac2e54fe7d111f50af676b303a0c09d8d9774e1210d66"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -81,6 +81,7 @@ som endret ved:
 ►**M2** Kommisjonsforordning [(EU) 2021/2305](eu/32021r2305) av 21. oktober 2021
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2019/2124](eu/32019r2124)
+
 av 10. oktober 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til regler for offentlig kontroll av forsendelser med dyr og varer i transitt, ved omlasting og videre transport gjennom Unionen, og om endring av kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798), (EF) [nr. 1251/2008](eu/32008r1251), (EF) [nr. 119/2009](eu/32009r0119), (EU) [nr. 206/2010](eu/32010r0206*), (EU) [nr. 605/2010](eu/32010r0605*), (EU) [nr. 142/2011](eu/32011r0142), (EU) [nr. 28/2012](eu/32012r0028), kommisjonens gjennomføringsforordning [(EU) 2016/759](eu/32016r0759) og kommisjonsvedtak [2007/777/EF](eu/32007d0777*)
 
@@ -166,6 +167,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
@@ -229,9 +231,11 @@ I denne forordning menes med
 22 [http://www.edqm.eu](https://www.edqm.eu/) (siste utgave).
 
 ### KAPITTEL II
+
 Videre transport av forsendelser med planter, planteprodukter og andre gjenstander samt av næringsmidler og fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a)
 
 ### AVSNITT 1
+
 Vilkår for videre transport
 
 ###### Artikkel 3
@@ -312,6 +316,7 @@ Handlinger som skal utføres av vedkommende myndigheter på det endelige bestemm
 2\. Vedkommende myndigheter på det endelige bestemmelsesstedet skal holde tilbake forsendelser som ikke overholder reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625 i](eu/32017r0625*) samsvar med artikkel 66 nr. 1 i nevnte forordning, og skal treffe alle nødvendige tiltak for å anvende tiltakene pålagt av vedkommende myndigheter på grensekontrollstasjonen i samsvar med artikkel 66 nr. 3 og 4 i nevnte forordning.
 
 ### AVSNITT 2
+
 Anlegg for videre transport
 
 ###### Artikkel 9
@@ -428,9 +433,11 @@ Driftsansvarlige skal sikre at forsendelser med produkter av animalsk opprinnels
 2\. Den driftsansvarlige som er ansvarlig for forsendelsen, skal gi forhåndsmelding om ankomsten av forsendelser med varer nevnt i nr. 1 i denne artikkel, som fastsatt i artikkel 56 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625*), til vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen.
 
 ### KAPITTEL IV
+
 Transitt av dyr og varer fra en tredjestat til en annen tredjestat, som passerer gjennom Unionens territorium
 
 ### AVSNITT 1
+
 Offentlig kontroll på grensekontrollstasjonen for innførsel til Unionen
 
 ###### Artikkel 18
@@ -498,6 +505,7 @@ Dokumentkontroll og fysisk kontroll av planter, planteprodukter og andre gjensta
 2. ikke kan bli angrepet eller smittet av skadegjørere nevnt i bokstav a).
 
 ### AVSNITT 2
+
 Vilkår for lagring av forsendelser i transitt på godkjente lagre
 
 ###### Artikkel 23
@@ -633,6 +641,7 @@ Overvåking av levering av varer til et fartøy som forlater Unionens territoriu
 5\. Vedkommende myndighet i bestemmelseshavnen, vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen eller vedkommende myndighet på lageret skal verifisere at bekreftelsen på levering nevnt i nr. 3 er registrert i IMSOC, eller at de kontrasignerte dokumentene nevnt i nr. 3 bokstav a) er sendt tilbake til vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen eller til vedkommende myndighet på lageret.
 
 ### AVSNITT 3
+
 Offentlig kontroll på grensekontrollstasjonen der varene forlater Unionens territorium
 
 ###### Artikkel 32
@@ -652,6 +661,7 @@ Offentlig kontroll på grensekontrollstasjonen der varene forlater Unionens terr
 2\. Vedkommende myndigheter på den grensekontrollstasjonen der varene nevnt i nr. 1 forlater Unionens territorium, skal registrere resultatet av offentlig kontroll i del III i CHED-dokumentet eller i del III i det offisielle sertifikatet i samsvar med malen fastsatt i vedlegget til gjennomføringsforordning [(EU) 2019/2128](eu/32019r2128). Vedkommende myndigheter på grensekontrollstasjonen som er ansvarlig for kontrollen nevnt i nr. 1, skal registrere resultatet av disse kontrollene i IMSOC.
 
 ### AVSNITT 4
+
 Unntak for forsendelser i transitt
 
 ###### Artikkel 34
@@ -707,6 +717,7 @@ Transitt av varer som ble nektet innført til en tredjestat etter transitt gjenn
 2. Lageret der forsendelsen ble lagret før den ble nektet innført av en tredjestat.
 
 ### KAPITTEL V
+
 Transitt av dyr og varer fra en del av Unionens territorium til en annen del av Unionens territorium, og som passerer gjennom territoriet til en tredjestat
 
 ### Artikkel 37. Transitt av dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter
@@ -751,6 +762,7 @@ Transitt av dyr og varer fra en del av Unionens territorium til en annen del av 
 2. transittiden overstiger den tiden det tar å reise mellom innførselsstedene Klek og Zaton Doli.
 
 ### KAPITTEL VI
+
 Sluttbestemmelser
 
 ### Artikkel 39. Oppheving
@@ -876,6 +888,7 @@ Utferdiget i Brussel 10. oktober 2019.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kapittel I del 1.1 nr. 11bc, kap. II nr. 31qc og vedlegg II kap. XII nr. 164c (forordning [(EU) 2019/1666](eu/32019r1666)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2019/1666](eu/32019r1666)
+
 av 24. juni 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til vilkårene for overvåking av transport og ankomst av forsendelser med visse varer fra grensekontrollstasjonen på ankomststedet til virksomheten på bestemmelsesstedet i Unionen
 
@@ -963,6 +976,7 @@ Utferdiget i Brussel 24. juni 2019.
 Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I kap. I del 1.1 nr. 11bq, kap. II nr. 31qq og vedlegg II kap. XII nr. 164q (forordning [(EU) 2019/2128](eu/32019r2128)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1 til EØS-avtalen.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/2128](eu/32019r2128)
+
 av 12. november 2019
 om fastsettelse av malen for offisielt sertifikat og regler for utstedelse av offisielle sertifikater for varer som leveres til fartøyer som forlater Unionen og er beregnet på forsyning til skip eller forpleining av besetning og passasjerer, eller til NATOs eller De forente staters militærbaser
 
@@ -1061,11 +1075,13 @@ Utferdiget i Brussel 12. november 2019.
 ### VEDLEGG
 
 ### DEL 1
+
 Mal for offisielt sertifikat som ledsager forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter fra tredjestater som leveres til fartøyer som forlater Unionen, eller til NATOs eller De forente staters militærbaser
 
 For å lese vedlegget med offisielt sertifikat, som skal benyttes, se pdf-filen for forordning [(EU) 2019/2128](eu/32019r2128) nedenfor.
 
 ### DEL 2
+
 Merknader om utfylling av malen for det offisielle sertifikatet
 
 ###### Generelt

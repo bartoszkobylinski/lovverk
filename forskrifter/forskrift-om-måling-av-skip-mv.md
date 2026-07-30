@@ -15,7 +15,7 @@ xml_hash: "a074188ea83e8561c68d97d48f4978ea840f4292fa808cae2dedaa046de895f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -186,6 +186,7 @@ Når det refereres til bruttotonnasje i andre forskrifter, menes bruttotonnasjen
 Forskriften trer i kraft 1. juli 2015. Fra samme tidspunkt oppheves [forskrift 18. desember 2009 nr. 1694](forskrift/2009-12-18-1694) om måling av skip.
 
 ## Internasjonal konvensjon om måling av fartøyer, 1969
+
 (1969-konvensjonen)
 
 *Uoffisiell oversettelse, slik Sjøfartsdirektoratet forstår konvensjonen*
@@ -193,6 +194,7 @@ Forskriften trer i kraft 1. juli 2015. Fra samme tidspunkt oppheves [forskrift 1
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Del 1
+
 Internasjonal konvensjon om måling av fartøyer, 1969
 
 De kontraherende regjeringer, som ønsker å fastsette ensartede prinsipper og regler for beregning og fastsettelse av tonnasje for fartøyer som anvendes i utenriksfart, som mener at dette målet best kan nås ved å utarbeide en konvensjon, er blitt enige om følgende:
@@ -374,9 +376,11 @@ Til bekreftelse av dette har de undertegnede, som er behørig bemyndiget til det
 Utferdiget i London denne tjuetredje dag i juni 1969.
 
 ### Bilag I.
+
 Regler for fastsettelse av fartøyets brutto- og nettotonnasje.
 
 ### Regel 1
+
 Alminnelige bestemmelser
 
 1. Et fartøys tonnasje skal angis som bruttotonnasje og nettotonnasje.
@@ -384,6 +388,7 @@ Alminnelige bestemmelser
 3. Administrasjonen skal bestemme hvorledes bruttotonnasjen og nettotonnasjen skal beregnes og fastsettes for egenartede typer fartøyer hvis konstruksjon er slik at anvendelsen av bestemmelsene i disse regler vil være urimelig eller upraktisk. Når et fartøys tonnasje er fastsatt etter denne bestemmelsen, skal Administrasjonen sende Organisasjonen meddelelse med detaljer angående den metoden som er anvendt, slik at dette kan bli sendt de kontraherende regjeringer til underretning.
 
 ### Regel 2
+
 Definisjoner av uttrykk benyttet i bilagene
 
 *1. Øverste dekk*
@@ -436,6 +441,7 @@ Lasterom som skal tas med i beregningen av et fartøys nettotonnasje, skal være
 Værtett betyr at det under hvilke som helst forhold på sjøen ikke vil trenge vann inn i fartøyet.
 
 ### Regel 3
+
 Bruttotonnasje
 
 Et fartøys bruttotonnasje (GT) skal beregnes og fastsettes etter følgende formel:
@@ -447,6 +453,7 @@ Et fartøys bruttotonnasje (GT) skal beregnes og fastsettes etter følgende form
 - K1 = 0,2 + 0,02 log10 V (eller som angitt i tabellen i Appendiks 2).
 
 ### Regel 4
+
 Nettotonnasje
 
 1. Et fartøys nettotonnasje (NT) skal beregnes og fastsettes etter følgende formel:
@@ -479,6 +486,7 @@ Nettotonnasje
 > Endret ved [forskrift 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022).
 
 ### Regel 5
+
 Forandring av nettotonnasje
 
 1. Når et fartøys karakteristika, slik som størrelsene V, Vc , d, N1 eller N2 som definert i reglene 3 og 4, endres, og der en slik endring medfører en økning av fartøyets nettotonnasje slik den er beregnet og fastsatt i samsvar med bestemmelsene i regel 4, skal fartøyets nettotonnasje som svarer til de nye størrelser uten opphold beregnes og komme til anvendelse.
@@ -490,6 +498,7 @@ Forandring av nettotonnasje
    3. for passasjerfartøyer som fører et stort antall dekkspassasjerer i spesiell fart, som for eksempel transport av pilgrimmer.
 
 ### Regel 6
+
 Beregning av volum
 
 1. Volumene av alle rom som inngår i beregningene av brutto- og nettotonnasjer, skal måles, uten hensyntagen til anbrakt isolasjon eller liknende, til innsiden av skrogets platekledning eller faste ytterskott i fartøyer bygd av stål eller annet metall, og til skrogets ytterside eller til innsiden av faste skott og skillevegger i fartøyer bygd av hvilket som helst annet materiale.
@@ -497,6 +506,7 @@ Beregning av volum
 3. Volum av et rom som er åpent til sjøen, kan utelates fra det totale målte volum.
 
 ### Regel 7
+
 Måling og beregning
 
 1. Alle mål som brukes ved volumberegningen, skal tas til nærmeste centimeter eller en tjuendedels fot.
@@ -504,6 +514,7 @@ Måling og beregning
 3. Beregningen skal være tilstrekkelig detaljert for lett å kunne kontrolleres.
 
 ### Appendiks 1.
+
 Figurer nevnt i regel 2(5)
 
 I de følgende figurer er:
@@ -519,6 +530,7 @@ B = dekkets bredde i åpningen.
 I fartøyer med avrundede dekkshjørner skal bredden måles som angitt i Figur 11.
 
 ### Appendiks 2.
+
 Koeffisientene K1 og K2 nevnt i regel 3 og 4(1)
 
 V eller Vc = volum i kubikkmeter
@@ -563,6 +575,7 @@ V eller Vc = volum i kubikkmeter
 For mellomliggende verdier av V eller Vc finnes koeffisientene K1 eller K2 ved lineær interpolasjon.
 
 ### Bilag II.
+
 Sertifikat
 
 Mønsterformularet i konvensjonen er utelatt her, se eksempel på det offisielle norske «Internasjonalt målebrev (1969)».

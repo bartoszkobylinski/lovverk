@@ -15,7 +15,7 @@ xml_hash: "f422e1de0eb9c6acd0c2f1e76f688783ca903a2c229ce469b01d4720c9aca514"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1317,6 +1317,7 @@ Denne forskrift trer i kraft 1. juli 1997. Fra samme tid oppheves:
 > Endret ved [kgl.res. 18. juli 1997 nr. 802](forskrift/1997-07-18-802), [20 des 2002 nr. 1618](forskrift/2002-12-20-1618) (i kraft 1 jan 2003, tidligere § 76).
 
 ## Vedlegg I
+
 Kriterier for beskrivelse og vurdering av det mulige lagringslokalitet og omkringliggende område nevnt i § 30d i denne forskrift
 
 Beskrivelse og vurdering av den aktuelle lagringslokaliteten og omkringliggende områder nevnt i [§ 30d](forskrift/1997-06-27-653/§30d) i denne forskrift skal foretas i tre trinn i samsvar med beste praksis på tidspunktet for vurderingen og basert på kriteriene nedenfor. Departementet kan tillate avvik fra ett eller flere av disse kriteriene, forutsatt at rettighetshaver har vist at dette ikke påvirker beskrivelsens og vurderingens egnethet som grunnlag for å treffe en beslutning i henhold til [§ 30d](forskrift/1997-06-27-653/§30d).
@@ -1427,6 +1428,7 @@ Risikokarakteriseringen skal utføres basert på fare-, eksponerings- og effektv
 > Vedlegg I tilføyd ved [forskrift 5 des 2014 nr. 1518](forskrift/2014-12-05-1518).
 
 ## Vedlegg II
+
 Kriterier for etablering og oppdatering av overvåkingsplanen i § 30g og etterdriftsplan i § 30j
 
 1\. Etablering og oppdatering av overvåkingsplan

@@ -15,7 +15,7 @@ xml_hash: "ba1d1fb549134683864b65e4e6090bc1c905ce53dc352081cbda8a7b661345fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,6 +80,7 @@ Forskrifter som gjennomfører EU-forordninger på Mattilsynets område, kunngjø
 Dette er en norsk oversettelse av forordning [(EU) 2016/1012](eu/32016r1012) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I:
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) 2016/1012](eu/32016r1012)
+
 av 8. juni 2016
 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)
 
@@ -284,6 +285,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### KAPITTEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -367,9 +369,11 @@ I denne forordning menes med:
 2\. Oppdrettere av avlsdyr, avlslag, avlsvirksomheter eller avlsorganer skal ikke forskjellsbehandles på grunnlag av sin opprinnelsesstat eller opprinnelsesstaten for deres avlsdyr og formeringsmateriale fra dem.
 
 ### KAPITTEL II
+
 ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER I MEDLEMSSTATENE OG GODKJENNING AV AVLSPROGRAMMER
 
 ### AVSNITT 1
+
 ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER
 
 ###### Artikkel 4
@@ -430,6 +434,7 @@ Når denne anerkjennelsen forblir tilbakekalt eller den nevnte godkjenningen for
 5\. Kommisjonen skal vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for framlegging av opplysninger som skal føres opp på listen over anerkjente avlslag og avlsvirksomheter fastsatt i nr. 1. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### AVSNITT 2
+
 GODKJENNING AV AVLSPROGRAMMER
 
 ###### Artikkel 8
@@ -543,6 +548,7 @@ Melding om og godkjenning av avlsprogrammer som gjennomføres i andre medlemssta
 11\. Vedkommende myndighet i den andre medlemsstaten kan trekke tilbake godkjenningen av avlsprogrammet fastsatt i denne artikkel i minst 12 måneder, dersom det ikke finnes noen oppdretter som deltar i dette avlsprogrammet på den andre medlemsstatens territorium.
 
 ### KAPITTEL III
+
 RETTIGHETER OG FORPLIKTELSER FOR OPPDRETTERE, AVLSLAG OG AVLSVIRKSOMHETER
 
 ### Artikkel 13. Rettighetene for oppdrettere som deltar i avlsprogrammer godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12
@@ -578,9 +584,11 @@ RETTIGHETER OG FORPLIKTELSER FOR OPPDRETTERE, AVLSLAG OG AVLSVIRKSOMHETER
 4\. Avlslag og avlsvirksomheter skal, uten at det berører rollen til domstolene, ha et ansvar for å løse tvister som kan oppstå mellom oppdrettere og mellom oppdrettere og avlslag eller avlsvirksomheter i forbindelse med gjennomføringen av avlsprogrammer, som er godkjent i henhold til artikkel 8 nr. 3, og eventuelt artikkel 12, i samsvar med vedtektene nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
 
 ### KAPITTEL IV
+
 INNFØRING AV AVLSDYR I STAMBØKER OG AVLSREGISTRE OG GODKJENNING FOR AVLSFORMÅL
 
 ### AVSNITT 1
+
 INNFØRING AV RENRASEDE AVLSDYR I STAMBØKER OG GODKJENNING FOR AVLSFORMÅL
 
 ###### Artikkel 15
@@ -696,6 +704,7 @@ Metoder for identitetskontroll
 3\. På anmodning fra en medlemsstat eller en europeisk sammenslutning for avlsdyr av de aktuelle artene, kan Kommisjonen vedta gjennomføringsrettsakter som godkjenner metoder for kontroll av identiteten til avlsdyr, forutsatt at de gir minst samme grad av sikkerhet som analyse av avlsdyrenes blodtype, idet det tas hensyn til tekniske framskritt og anbefalingene fra EU-referansesentrene nevnt i artikkel 29, ICAR eller International Society for Animal Genetics (ISAG). Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### AVSNITT 2
+
 REGISTRERING AV HYBRIDAVLSDYR AV SVIN I AVLSREGISTRE OG GODKJENNING FOR AVLSFORMÅL
 
 ###### Artikkel 23
@@ -724,6 +733,7 @@ Godkjenning av hybridavlsdyr av svin og formeringsmateriale fra dem for avlsform
 4\. Som unntak fra nr. 3 kan en medlemsstat tillate oppsamling, produksjon, behandling og lagring til bruk innenfor nevnte medlemsstats territorium av formeringsmateriale fra hybridavlsdyr av svin på en sædstasjon eller et sædlager, på en stasjon for oppbevaring av embryoer, av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe eller av særlig kvalifisert personale, som er godkjent i samsvar med lovgivningen i nevnte medlemsstat.
 
 ### KAPITTEL V
+
 INDIVIDGRANSKING OG AVLSVERDIVURDERING
 
 ### Artikkel 25. Metoder for individgransking og avlsverdivurdering
@@ -779,6 +789,7 @@ Vedkommende myndigheter kan ta hensyn til resultatene av slike forpliktelser ell
 2\. Avlslaget eller avlsvirksomheten eller, på anmodning fra avlslaget eller avlsvirksomheten, tredjemannen utpekt av dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 27 nr. 1 bokstav b), skal offentliggjøre og oppdatere resultatene av avlsverdivurderingen av avlsdyr, hvis sæd brukes til kunstig sædoverføring i samsvar med artikkel 21 nr. 1 bokstav b), c) og d) og artikkel 24 nr. 1 bokstav b).
 
 ### KAPITTEL VI
+
 EU-REFERANSESENTRE
 
 ### Artikkel 29. EU-referansesentre
@@ -822,6 +833,7 @@ Delegerte rettsakter fastsatt i dette nummer skal ta behørig hensyn til følgen
 Dersom resultatene av en slik kontroll viser at et EU-referansesenter ikke oppfyller kravene i nr. 1 i vedlegg IV, eller ikke utfører de oppgavene som er fastsatt i nr. 2 eller 3 i vedlegg IV, kan Kommisjonen vedta gjennomføringsrettsakter, redusere Unionens økonomiske bidrag gitt i samsvar med artikkel 30 i forordning [(EU) nr. 652/2014](eu/32014r0652) eller trekke tilbake utpekingen som et EU-referansesenter. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### KAPITTEL VII
+
 AVLSSERTIFIKATER
 
 ### Artikkel 30. Utstedelse, innhold og format for avlssertifikater som ledsager avlsdyr, og formeringsmateriale fra dem
@@ -906,6 +918,7 @@ Dette avlssertifikatet skal utstedes av det avlsorganet som er oppført i samsva
 3\. Som unntak fra artikkel 30 nr. 7 bokstav a) og b) og artikkel 30 nr. 8 bokstav a) og b) kan avlsorganer eller de øvrige aktørene nevnt i nr. 1 i denne artikkel, dersom resultatene av individgransking eller avlsverdivurdering er gjort offentlig tilgjengelige på et nettsted, i det avlssertifikatet eller i de dokumentene som er nevnt i bokstav a) nr. 2 i denne artikkel, vise til nettstedet der disse resultatene er gjort tilgjengelige.
 
 ### KAPITTEL VIII
+
 INNFØRSEL TIL UNIONEN AV AVLSDYR OG FORMERINGSMATERIALE FRA DEM
 
 ### Artikkel 34. Liste over avlsorganer
@@ -982,6 +995,7 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 2. innholdet i og merkingen av forsendelsen samsvarer med opplysningene i de dokumentene som er nevnt i nr. 1 bokstav a).
 
 ### KAPITTEL IX
+
 VEDKOMMENDE MYNDIGHETER SOM GJENNOMFØRER ET AVLSPROGRAM MED RENRASEDE AVLSDYR
 
 ### Artikkel 38. Vedkommende myndigheter som gjennomfører et avlsprogram med renrasede avlsdyr
@@ -1032,6 +1046,7 @@ VEDKOMMENDE MYNDIGHETER SOM GJENNOMFØRER ET AVLSPROGRAM MED RENRASEDE AVLSDYR
 7\. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, får artikkel 3, 13–22, 25, 27, artikkel 28 nr. 2, artikkel 30, 31, 32 og artikkel 36 nr. 1 *tilsvarende anvendelse*.
 
 ### KAPITTEL IX
+
 OFFENTLIG KONTROLL OG ANNEN OFFENTLIG VIRKSOMHET, ADMINISTRATIV BISTAND, SAMARBEID OG HÅNDHEVING I MEDLEMSSTATENE
 
 ### Artikkel 39. Utpeking av vedkommende myndigheter
@@ -1213,9 +1228,11 @@ Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved over
 Medlemsstatene skal senest 1. november 2018 underrette Kommisjonen om disse reglene og umiddelbart underrette den om eventuelle senere endringer av dem.
 
 ### KAPITTEL XI
+
 KOMMISJONENS KONTROLL
 
 ### AVSNITT 1
+
 KOMMISJONENS KONTROLL I MEDLEMSSTATENE
 
 ###### Artikkel 53
@@ -1279,6 +1296,7 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøk
 3\. Kommisjonen skal overvåke situasjonen nevnt i nr. 1 og skal vedta gjennomføringsrettsakter om endring eller oppheving av tiltakene som er vedtatt, avhengig av hvordan situasjonen utvikler seg. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### AVSNITT 2
+
 KOMMISJONENS KONTROLL I TREDJESTATER
 
 ###### Artikkel 57
@@ -1355,6 +1373,7 @@ I tillegg til eller i stedet for disse rettsaktene kan Kommisjonen gjennomføre 
 4\. Kommisjonen skal overvåke den manglende overholdelsen nevnt i nr. 1 og i samsvar med samme framgangsmåte som for vedtakelse av dem, endre eller oppheve tiltakene som er truffet, avhengig av hvordan situasjonen utvikler seg.
 
 ### KAPITTEL XII
+
 DELEGERING OG GJENNOMFØRING
 
 ### Artikkel 61. Utøvelse av delegert myndighet
@@ -1386,6 +1405,7 @@ Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til g
 Kommisjonen skal innen 1. mai 2017 treffe de gjennomføringstiltakene som er nevnt i artikkel 7 nr. 5 og artikkel 30 nr. 10. I samsvar med artikkel 69 får disse gjennomføringsrettsaktene anvendelse fra 1. november 2018.
 
 ### KAPITTEL XIII
+
 SLUTTBESTEMMELSER
 
 ### Artikkel 64. Oppheving og overgangstiltak
@@ -1513,9 +1533,11 @@ Utferdiget i Strasbourg 8. juni 2016.
 | *President* | *Formann* |
 
 ### VEDLEGG I
+
 ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER OG GODKJENNING AV AVLSPROGRAMMER NEVNT I KAPITTEL II
 
 ### DEL 1
+
 Krav til anerkjennelse av avlslag og avlsvirksomheter nevnt i artikkel 4 nr. 3 bokstav b)
 
 1. Avlslag, avlsorganisasjoner og private foretak som utøver virksomhet i et lukket produksjonssystem, og offentlige organer skal
@@ -1543,6 +1565,7 @@ Krav til anerkjennelse av avlslag og avlsvirksomheter nevnt i artikkel 4 nr. 3 b
       3. å være eiere til sine avlsdyr.
 
 ### DEL 2
+
 Krav til godkjenning av avlsprogrammer som gjennomføres av avlslag og avlsvirksomheter nevnt i artikkel 8 nr. 3, og eventuelt artikkel 12
 
 1. Avlsprogrammet nevnt i artikkel 8 nr. 3, og eventuelt artikkel 12, skal inneholde følgende:
@@ -1567,6 +1590,7 @@ Krav til godkjenning av avlsprogrammer som gjennomføres av avlslag og avlsvirks
 2. Avlsprogrammet skal omfatte en tilstrekkelig stor populasjon av avlsdyr og et tilstrekkelig antall oppdrettere innenfor det geografiske området der det skal gjennomføres, eller der det er tenkt at det skal gjennomføres.
 
 ### DEL 3
+
 Ytterligere krav til avlslag som oppretter eller fører stambøker for renrasede avlsdyr av hest
 
 1. Utover identifikasjonskravene i nr. 1 bokstav f) i del 2 skal renrasede avlsdyr av hest bare føres inn i en stambok dersom de er identifisert ved hjelp av et bedekningssertifikat, og dersom det kreves av avlsprogrammet, som «føll under moren».
@@ -1604,9 +1628,11 @@ Ytterligere krav til avlslag som oppretter eller fører stambøker for renrasede
    2. Som unntak fra nr. 3 bokstav b) i denne delen kan et avlslag som fører en datterstambok, opprette ytterligere klasser etter genetiske verdier dersom renrasede avlsdyr av hest som er innført i klassene i hovedavsnittet i den opprinnelige stamboken for rasen, eller i andre datterstambøker for rasen, innføres i tilsvarende klasser i denne datterstambokens hovedavsnitt.
 
 ### VEDLEGG II
+
 INNFØRING I STAMBØKER OG REGISTRERING I AVLSREGISTRE NEVNT I KAPITTEL IV
 
 ### DEL 1
+
 Innføring av renrasede avlsdyr i stambøker og registrering av dyr i tilleggsavsnitt
 
 ###### KAPITTEL I
@@ -1668,6 +1694,7 @@ Oppgradering av avkommet til dyr som er registrert i tilleggsavsnittene til hove
    Medlemsstater som benytter seg av dette unntaket, skal offentliggjøre de rasene som det er gitt et slikt unntak for i listen nevnt i artikkel 7.
 
 ### DEL 2
+
 Registrering av hybridavlsdyr av svin i avlsregistre
 
 Kravene nevnt i artikkel 23 er som følger:
@@ -1680,9 +1707,11 @@ Kravene nevnt i artikkel 23 er som følger:
 __________
 
 ### VEDLEGG III
+
 INDIVIDGRANSKING OG AVLSVERDIVURDERING NEVNT I ARTIKKEL 25
 
 ### DEL 1
+
 Generelle krav
 
 Dersom avlslag eller avlsvirksomheter, eller tredjemann utpekt av disse avlslagene eller avlsvirksomhetene i samsvar med artikkel 27 nr. 1 bokstav b), gjennomfører individgransking eller avlsverdivurdering, skal de fastsette og benytte metoder for individgransking eller avlsverdivurdering som skal være vitenskapelig akseptable i henhold til etablerte avlsprinsipper, og ta hensyn til, når det foreligger,
@@ -1691,6 +1720,7 @@ Dersom avlslag eller avlsvirksomheter, eller tredjemann utpekt av disse avlslage
 2. i fravær av slike regler og standarder, prinsippene fastsatt av ICAR.
 
 ### DEL 2
+
 Krav til individgransking
 
 1. Individgransking skal gjennomføres på grunnlag av en eller flere av følgende ordninger for individgransking som er opprettet i samsvar med metodene nevnt i del 1:
@@ -1714,6 +1744,7 @@ Krav til individgransking
 9. Undersøkelsesdata som nevnt i nr. 1 bokstav c) i denne delen skal bare registreres og inngå i avlsverdivurderingen, dersom disse dataene er blitt validert i samsvar med metodene nevnt i del 1.
 
 ### DEL 3
+
 Krav til avlsverdivurdering
 
 1. Avlsverdivurderingen av avlsdyr skal omfatte relevante produksjons- og ikke-produksjonsegenskaper nevnt i del 2 i forbindelse med utvelgingsmålene i avlsprogrammene som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
@@ -1744,6 +1775,7 @@ Krav til avlsverdivurdering
 __________
 
 ### VEDLEGG IV
+
 EU-REFERANSESENTRE NEVNT I ARTIKKEL 29
 
 1. Kravene nevnt i artikkel 29 nr. 4 bokstav a)
@@ -1800,9 +1832,11 @@ EU-REFERANSESENTRE NEVNT I ARTIKKEL 29
       6. yte teknisk sakkunnskap innenfor rammen av sine oppgaver til Den faste komité for avlsspørsmål.
 
 ### VEDLEGG V
+
 OPPLYSNINGER SOM SKAL GIS I AVLSSERTIFIKATENE NEVNT I KAPITTEL VII
 
 ### DEL 1
+
 Generelle krav
 
 Overskriften på avlssertifikatet skal
@@ -1813,6 +1847,7 @@ Overskriften på avlssertifikatet skal
 4. inneholde en henvisning til denne forordning.
 
 ### DEL 2
+
 Avlssertifikater for renrasede avlsdyr og formeringsmateriale fra dem
 
 ###### KAPITTEL I
@@ -1881,6 +1916,7 @@ Avlssertifikatene nevnt i artikkel 30 for embryoer fra renrasede avlsdyr skal in
 4. avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av det utstedende avlslaget, eller, dersom det gjelder innførsel av embryoer til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for dette avlslaget eller avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 
 ### DEL 3
+
 Avlssertifikater nevnt i artikkel 30 for hybridavlsdyr av svin og formeringsmateriale fra dem
 
 ###### KAPITTEL I
@@ -1950,6 +1986,7 @@ Avlssertifikatene nevnt i artikkel 30 for embryoer fra hybridavlsdyr av svin ska
 4. avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av den utstedende avlsvirksomheten, eller, dersom det gjelder innførsel av embryoer til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for denne avlsvirksomheten eller dette avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 
 ### VEDLEGG VI
+
 TERRITORIER NEVNT I ARTIKKEL 2 NR. 21
 
 - Kongeriket Belgias territorium
@@ -1985,6 +2022,7 @@ TERRITORIER NEVNT I ARTIKKEL 2 NR. 21
 _________
 
 ### VEDLEGG VII
+
 SAMMENLIGNINGSTABELL
 
 |  |  |
@@ -2163,6 +2201,7 @@ SAMMENLIGNINGSTABELL
 Kommisjonens gjennomføringsforordning [(EU) 2017/1422](eu/32017r1422) av 4. august 2017 om utpeking av EU-referansesenteret med ansvar for det vitenskapelige og tekniske bidraget til harmoniseringen og forbedringen av metodene for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/1422](eu/32017r1422)
+
 av 4. august 2017
 om utpeking av EU-referansesenteret med ansvar for det vitenskapelige og tekniske bidraget til harmoniseringen og forbedringen av metodene for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe
 
@@ -2222,6 +2261,7 @@ Utferdiget i Brussel 4. august 2017.
 Kommisjonens gjennomføringsforordning [(EU) 2017/716](eu/32017r0716) av 10. april 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til standardskjemaene som skal brukes til opplysninger som skal inngå i listene over anerkjente avlslag og avlsvirksomheter gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/716](eu/32017r0716)
+
 av 10. april 2017
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til standardskjemaene som skal brukes til opplysninger som skal inngå i listene over anerkjente avlslag og avlsvirksomheter
 
@@ -2285,6 +2325,7 @@ Dette er en norsk oversettelse av forordning [(EU) 2017/717](eu/32017r0717). Ret
 ► **M2** Kommisjonsforordning [(EU) 2021/761](eu/32021r0761) av 7. mai 2021
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/717](eu/32017r0717)
+
 av 10. april 2017
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til standardskjemaene for avlssertifikater for avlsdyr og formeringsmateriale fra dem
 
@@ -2366,93 +2407,113 @@ Utferdiget i Brussel 10. april 2017.
 |  | *President* |
 
 ### ►**M1** VEDLEGG I
+
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR HANDEL MED RENSRASEDE AVLSDYR OG FORMERINGSMATERIALE FRA DEM
 
 ### AVSNITT A
+
 Avlssertifikat for handel med renrasede avlsdyr av storfe, svin, sau og geit
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-01-01.pdf)
 
 ### AVSNITT B
+
 Avlssertifikat for handel med sæd fra renrasede avlsdyr
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-02-01.pdf)
 
 ### AVSNITT C
+
 Avlssertifikat for handel med oocytter fra renrasede avlsdyr
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-03-01.pdf)
 
 ### AVSNITT D
+
 Avlssertifikat for handel med embryoer fra renrasede avlsdyr
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-04-01.pdf)
 
 ### VEDLEGG II
+
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR HANDEL MED HYBRIDAVLSDYR AV SVIN OG FORMERINGSMATERIALE FRA DEM
 
 ### AVSNITT A
+
 Avlssertifikater for handel med hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-05-01.pdf)
 
 ### AVSNITT B
+
 Avlssertifikat for handel med sæd fra hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-06-01.pdf)
 
 ### AVSNITT C
+
 Avlssertifikat for handel med oocytter fra hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-07-01.pdf)
 
 ### AVSNITT D
+
 Avlssertifikat for handel med embryoer fra hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-08-01.pdf)
 
 ### VEDLEGG III
+
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR INNFØRSEL TIL UNIONEN AV RENRASEDE AVLSDYR OG FORMERINGSMATERIALE FRA DEM
 
 ### AVSNITT A
+
 Avlssertifikat for innførsel til Unionen av renrasede avlsdyr av storfe, svin, sau, geit og hest
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-09-01.pdf)
 
 ### AVSNITT B
+
 Avlssertifikat for innførsel til Unionen av sæd fra renrasede avlsdyr
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-10-01.pdf)
 
 ### AVSNITT C
+
 Avlssertifikat for innførsel til Unionen av oocytter fra renrasede avlsdyr
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-11-01.pdf)
 
 ### AVSNITT D
+
 Avlssertifikat for innførsel til Unionen av embryoer fra renrasede avlsdyr
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-12-01.pdf)
 
 ### VEDLEGG IV
+
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR INNFØRSEL TIL UNIONEN AV HYBRIDAVLSDYR AV SVIN OG FORMERINGSMATERIALE FRA DEM
 
 ### AVSNITT A
+
 Avlssertifikat for innførsel til Unionen av hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-13-01.pdf)
 
 ### AVSNITT B
+
 Avlssertifikat for innførsel til Unionen av sæd fra hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-14-01.pdf)
 
 ### AVSNITT C
+
 Avlssertifikat for innførsel til Unionen av oocytter fra hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-15-01.pdf)
 
 ### AVSNITT D
+
 Avlssertifikat for innførsel til Unionen av embryoer fra hybridavlsdyr av svin
 
 [(pdf)](static/SF/sf-20180131-0145-32017r0717-16-01.pdf)
@@ -2466,6 +2527,7 @@ Avlssertifikat for innførsel til Unionen av embryoer fra hybridavlsdyr av svin
 Kommisjonens gjennomføringsforordning [(EU) 2017/1940](eu/32017r1940) av 13. juli 2017 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til innholdet i og formatet til avlssertifikater utstedt for renrasede avlsdyr av hest som inngår i ett enkelt identifikasjonsdokument for dyr av hestefamilien som er gyldig i hele dyrets levetid gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/1940](eu/32017*1940)
+
 av 13. juli 2017
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til innholdet i og formatet til avlssertifikater utstedt for renrasede avlsdyr av hest som inngår i ett enkelt identifikasjonsdokument for dyr av hestefamilien som er gyldig i hele dyrets levetid
 
@@ -2542,6 +2604,7 @@ Utferdiget i Brussel 13. juli 2017.
 |  | *President* |
 
 ### VEDLEGG
+
 Avlssertifikat for handel med renrasede avlsdyr av hest (*Equus caballus* og *Equus asinus*) i samsvar med del 2 kapittel I i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012)
 
 For å lese vedlegget se her: [(pdf)](static/SF/sf-20180131-0145-32017r1940-01-01.pdf)
@@ -2553,6 +2616,7 @@ For å lese vedlegget se her: [(pdf)](static/SF/sf-20180131-0145-32017r1940-01-0
 Kommisjonens gjennomføringsforordning [(EU) 2022/2077](eu/32022r2077) av 27. oktober 2022 om utpeking av EU-referansesenter for vitenskapelig og teknisk bidrag til opprettelsen og harmoniseringen av metoder for bevaring av truede raser, og bevaring av genetisk mangfold som eksisterer innen disse rasene.
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2022/2077](eu/32022r2077)
+
 av 27. oktober 2022
 om utpeking av EU-referansesenter for vitenskapelig og teknisk bidrag til opprettelsen og harmoniseringen av metoder for bevaring av truede raser, og bevaring av genetisk mangfold som eksisterer innen disse rasene.
 

@@ -16,7 +16,7 @@ xml_hash: "a291953a75622859e90bd509e07c9bcbf88d65cc60982dd30bbf5da3fabf5e79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,6 +118,7 @@ Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forsk
 Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 ## Vedlegg 1.
+
 Godkjent sykdomsfri og ikke-vaksinerende status for landdyr for visse listeførte sykdommer i Norge eller deler av Norge
 
 | *Sykdom* | *Status* | *Område* | *Vedtak* |
@@ -132,6 +133,7 @@ Godkjent sykdomsfri og ikke-vaksinerende status for landdyr for visse listeført
 | Infeksjon med rabies virus (RABV) hos rovdyr, storfe, svin, hest, hjortedyr og kamelider | Godkjent sykdomsfri status | Hele landet | 033/21/COL |
 
 ## Vedlegg 2.
+
 Godkjent sykdomsfri status for akvatiske dyr for visse listeførte sykdommer i Norge eller deler av Norge
 
 1. *Område i Norge som har sykdomsfri status for sykdommen Viral hemorhagisk septikemi (VHS)*
@@ -208,6 +210,7 @@ Som endret ved:
 - ►**M3** Forordning [(EU) 2023/1798](eu/32023r1798)
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2020/689
+
 av 17. desember 2019
 om utfylling av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til overvåkingsregler, utryddelsesprogrammer og sykdomsfri status for visse listeførte og nye sykdommer
 
@@ -342,6 +345,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -417,9 +421,11 @@ I denne forordningen menes med
 33. «randomisert årlig overvåking» overvåking som består av minst én undersøkelse av en målpopulasjon, og som organiseres i løpet av det året hvor det brukes sannsynlighetsbaserte prøvetakingsmetoder for å velge ut enheter som skal undersøkes.
 
 ### DEL II
+
 OVERVÅKING, UTRYDDELSESPROGRAMMER OG SYKDOMSFRI STATUS
 
 ### KAPITTEL 1
+
 Overvåking
 
 ###### Avsnitt 1
@@ -626,6 +632,7 @@ Opplysninger som skal inngå ved framlegging av og rapportering om Unionens over
 2. Resultatene av oppfølgingen av sykdommens epidemiologiske utvikling ved et mistenkt eller bekreftet tilfelle.
 
 ### KAPITTEL 2
+
 Utryddelsesprogrammer for kategori B- og C-sykdommer hos landdyr
 
 ###### Avsnitt 1
@@ -1239,6 +1246,7 @@ Forflytning av dyr gjennom medlemsstater eller soner som omfattes av utryddelses
 2\. Som unntak fra nr. 1 kan vedkommende myndighet også tillate forflytning av dyr fra målpopulasjonen gjennom det territoriet som omfattes av utryddelsesprogrammet for infeksjon med BTV, dersom kravene fastsatt i artikkel 43 nr. 2 bokstav a), c) og d) er oppfylt.
 
 ### KAPITTEL 3
+
 Utryddelsesprogrammer for kategori B- og C-sykdommer hos akvatiske dyr
 
 ###### Avsnitt 1
@@ -1596,6 +1604,7 @@ Vedkommende myndighet skal før eller når den fjerner tiltakene for sykdomsbekj
 2. biosikkerhetstiltak som er tilpasset anleggets særtrekk.
 
 ### KAPITTEL 4
+
 Sykdomsfri status
 
 ###### Avsnitt 1
@@ -1987,6 +1996,7 @@ I slike tilfeller skal perioden nevnt i nr. 1 bokstav c) forlenges automatisk me
 ◄**M1**
 
 ### DEL III
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 84. Overgangsbestemmelser om eksisterende sykdomsfri status
@@ -2088,9 +2098,11 @@ Utferdiget i Brussel 17. desember 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 SÆRLIGE KASUSDEFINISJONER AV SYKDOM HOS LANDDYR
 
 ### Avsnitt 1
+
 Høypatogen aviær influensa (HPAI)
 
 1. Et dyr eller en gruppe dyr skal betraktes av vedkommende myndighet som et mistenkt tilfelle av HPAI dersom det/den oppfyller kriteriene i artikkel 9 nr. 1.
@@ -2105,6 +2117,7 @@ Høypatogen aviær influensa (HPAI)
    2. et influensa A-virus med undertype H5 og H7 med en sekvens av flerbasiske aminosyrer på hemagglutininmolekylets kløyvingspunkt (HA0) som ligner det som er blitt påvist for andre HPAI-isolater.
 
 ### Avsnitt 2
+
 Infeksjon med lavpatogen aviær influensa-virus (LPAIV)
 
 1. Et dyr eller en gruppe dyr skal betraktes av vedkommende myndighet som et mistenkt tilfelle av infeksjon med LPAIV dersom det/den oppfyller kriteriene i artikkel 9 nr. 1.
@@ -2116,6 +2129,7 @@ Infeksjon med lavpatogen aviær influensa-virus (LPAIV)
 3. For denne kasusdefinisjonen skal sykdomsagensen for infeksjon med LPAIV være ethvert influensa A-virus av undertype H5 eller H7 som ikke er HPAI-virus.
 
 ### Avsnitt 3
+
 Infeksjon med Newcastle disease-virus (NDV)
 
 1. Et dyr eller en gruppe dyr skal betraktes av vedkommende myndighet som et mistenkt tilfelle av infeksjon med NDV dersom det/den oppfyller kriteriene i artikkel 9 nr. 1.
@@ -2130,11 +2144,13 @@ Infeksjon med Newcastle disease-virus (NDV)
    2. har flerbasiske aminosyrer på F2-proteinets C-terminal, og fenylalanin ved rest 117, som er F1-proteinets N-terminal. Med «flerbasiske aminosyrer» menes minst tre arginin- eller lysinrester mellom rest 113 og 116. Om det ikke lykkes å vise det karakteristiske mønsteret hos aminosyrerester som beskrevet over, skal det isolerte viruset karakteriseres gjennom en ICPI-test. I denne definisjonen nummereres aminosyrerestene fra N-terminalen på den aminosyresekvensen som er utledet av nukleotidsekvenseringen av F0-genet (113–116 tilsvarer rest -4 til -1 fra kløyvingspunktet).
 
 ### VEDLEGG II
+
 UNIONENS OVERVÅKINGSPROGRAM
 
 ►**M3**
 
 ### DEL I
+
 OVERVÅKING AV AVIÆR INFLUENSA HOS DYR
 
 ◄**M3**
@@ -2316,9 +2332,11 @@ Overvåking av HPAI skal omfatte overvåking av holdte og viltlevende dyr av art
 ◄**M3**
 
 ### VEDLEGG III
+
 DIAGNOSTISKE METODER FOR TILDELING OG OPPRETTHOLDELSE AV SYKDOMSFRI STATUS FOR VISSE SYKDOMMER HOS LANDDYR
 
 ### Avsnitt 1
+
 Infeksjon med *Brucella abortus, B. melitensis* og *B. suis*
 
 1. Serologiske tester
@@ -2339,6 +2357,7 @@ Infeksjon med *Brucella abortus, B. melitensis* og *B. suis*
    Ved testing som nevnt i del I kapittel 1 avsnitt 1 og 2 i vedlegg IV, skal det bare benyttes brucellin-hudtest (BST) på sauer og geiter.
 
 ### Avsnitt 2
+
 Infeksjon med Mycobacterium tuberculosis-kompleks
 
 1. Tuberkulin-hudtester:
@@ -2348,6 +2367,7 @@ Infeksjon med Mycobacterium tuberculosis-kompleks
 2. Gammainterferontest
 
 ### Avsnitt 3
+
 Enzootisk bovin leukose
 
 1. Serologiske tester
@@ -2362,6 +2382,7 @@ Enzootisk bovin leukose
       1. I-ELISA
 
 ### Avsnitt 4
+
 Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt (IBR/IPV)
 
 |  | *Metoder:* | *Matrise:* |
@@ -2381,6 +2402,7 @@ c B-ELISA for påvisning av antistoffer mot BoHV-1-gE-protein. Det kan brukes me
 d Ved testing for å dokumentere opprettholdelse av status som fri for IBR/IPV, kan prøver som er tatt fra enkeltdyr, samles til én prøve. Antallet prøver per samleprøve kan justeres på grunnlag av dokumentasjon som viser at testsystemet under alle omstendigheter i det daglige laboratoriearbeidet er tilstrekkelig følsomt til å påvise én svak positiv prøve i samleprøven med den justerte størrelsen.
 
 ### Avsnitt 5
+
 Infeksjon med pseudorabiesvirus (ADV)
 
 |  | *Metoder:* | *Matrise:* |
@@ -2395,6 +2417,7 @@ a ELISA for påvisning av antistoffer mot helvirus av ADV, ADV-gB-protein eller 
 b ELISA for påvisning av antistoffer mot ADV-gE-protein. For partikontroll skal EF-referanseserum ADV 1, eller understandarder, gi et positivt resultat ved en fortynning på 1:8.
 
 ### Avsnitt 6
+
 Bovin virusdiaré (BVD)
 
 1. Direkte metoder:
@@ -2407,9 +2430,11 @@ Bovin virusdiaré (BVD)
    2. B-ELISA
 
 ### VEDLEGG IV
+
 SYKDOMSSPESIFIKKE KRAV FOR TILDELING, OPPRETTHOLDELSE, SUSPENSJON OG TILBAKEKALLING AV SYKDOMSFRI STATUS PÅ ANLEGGSNIVÅ SAMT SYKDOMSSPESIFIKKE KRAV FOR TILDELING OG OPPRETTHOLDELSE AV SYKDOMSFRI STATUS FOR MEDLEMSSTATER ELLER SONER
 
 ### DEL I
+
 INFEKSJON MED *BRUCELLA ABORTUS, B. MELITENSIS* OG *B. SUIS*
 
 ###### KAPITTEL 1
@@ -2640,6 +2665,7 @@ Opprettholdelse av status med hensyn til holdte sauer og geiter
    4. overvåkingen nevnt i nr. 1 er blitt tilpasset og har vist at hendelsen er løst.
 
 ### DEL II
+
 INFEKSJON MED *MYCOBACTERIUM TUBERCULOSIS*-KOMPLEKS
 
 ###### KAPITTEL 1
@@ -2788,6 +2814,7 @@ Opprettholdelse av status
 2. En medlemsstats eller en sones status som fri for infeksjon med MTBC påvirkes ikke av bekreftelse av infeksjon med MTBC i en annen dyrepopulasjon enn holdt storfe, forutsatt at det er iverksatt effektive tiltak som vurderes regelmessig for å hindre overføring av infeksjon med MTBC til holdt storfe.
 
 ### DEL III
+
 ENZOOTISK BOVIN LEUKOSE
 
 ###### KAPITTEL 1
@@ -2890,6 +2917,7 @@ En medlemsstats eller en sones status som fri for EBL hos holdt storfe kan bare 
 3. det etter de første fem årene etter tildelingen av status som fri for EBL, utføres overvåking for å dokumentere fravær av infeksjon, idet det tas hensyn til produksjonssystemene og de identifiserte risikofaktorene.
 
 ### DEL IV
+
 INFEKSIØS BOVIN RHINOTRAKEITT/INFEKSIØS PUSTULØS VULVOVAGINITT
 
 ###### KAPITTEL 1
@@ -3017,6 +3045,7 @@ Opprettholdelse av status
 3. Som unntak fra nr. 1 bokstav b) kan det gjennomføres overvåking for hvert år å påvise fravær av infeksjon med BoHV-1, idet det tas hensyn til produksjonssystemene og de identifiserte risikofaktorene, forutsatt at ingen utbrudd er blitt påvist i fem sammenhengende år etter tildelingen av status som fri for IBR/IPV i denne medlemsstaten eller sonen.
 
 ### DEL V
+
 INFEKSJON MED PSEUDORABIESVIRUS
 
 ###### KAPITTEL 1
@@ -3133,6 +3162,7 @@ Opprettholdelse av status
 4. Som unntak fra nr. 1 bokstav b) kan det gjennomføres overvåking for hvert år å påvise fravær av infeksjon med ADV, idet det tas hensyn til produksjonssystemene og de identifiserte risikofaktorene, forutsatt at ingen utbrudd er blitt påvist i to sammenhengende år etter tildelingen av status som fri for infeksjon med ADV i denne medlemsstaten eller sonen.
 
 ### DEL VI
+
 BOVIN VIRUSDIARÉ
 
 ###### KAPITTEL 1
@@ -3266,9 +3296,11 @@ Opprettholdelse av status
 3. Som unntak fra nr. 1 bokstav b) kan det gjennomføres overvåking for hvert år å påvise fravær av BVD, idet det tas hensyn til produksjonssystemene og de identifiserte risikofaktorene, forutsatt at ingen utbrudd er blitt påvist i fem sammenhengende år etter tildelingen av status som fri for BVD i denne medlemsstaten eller sonen.
 
 ### VEDLEGG V
+
 SYKDOMSSPESIFIKKE KRAV FOR TILDELING OG OPPRETTHOLDELSE AV SYKDOMSFRI STATUS I MEDLEMSSTATER OG SONER
 
 ### DEL I
+
 INFEKSJON MED RABIESVIRUS
 
 ###### KAPITTEL 1
@@ -3326,6 +3358,7 @@ En medlemsstats eller en sones status som fri for infeksjon med RABV hos holdte 
 2. ingen tilfeller av infeksjon med RABV er bekreftet i målpopulasjonen, eller det har forekommet et tilfelle og vilkårene i avsnitt 1 nr. 2 var oppfylt.
 
 ### DEL II
+
 INFEKSJON MED BLÅTUNGEVIRUS (SEROTYPE 1–24)
 
 ###### KAPITTEL 1
@@ -3566,6 +3599,7 @@ Sesongmessig BTV-fri medlemsstat eller sone
 3. Statusen som sesongmessig BTV-fri medlemsstat eller sone skal opphøre umiddelbart dersom det finnes bevis for at den vektorfrie sesongen er avsluttet eller at viruset sirkulerer.
 
 ### DEL III
+
 INFESTASJON MED *Varroa spp.*
 
 ###### Avsnitt 1
@@ -3600,6 +3634,7 @@ Status som fri for infestasjon med *Varroa spp.* for den aktuelle honningbipopul
    2. de er beskyttet mot infestasjon med *Varroa spp.* under transport.
 
 ### DEL IV
+
 STATUS SOM FRI FOR INFEKSJON MED NEWCASTLE DISEASE-VIRUS UTEN VAKSINASJON
 
 ###### Avsnitt 1
@@ -3636,9 +3671,11 @@ Opprettholdelse av status
 1. Status som fri for infeksjon med NDV uten vaksinasjon som tildeles en medlemsstat eller en sone, påvirkes ikke av bekreftelse av infeksjon i en annen fuglepopulasjon, forutsatt at vedkommende myndighet, idet det tas hensyn til gjennomføringen av alle nødvendige tiltak for å hindre overføring av infeksjon med NDV til fjørfe og fugler i fangenskap av arter i ordenen *Galliformes*, har vurdert at statusen ikke ble satt i fare.
 
 ### VEDLEGG VI
+
 SÆRLIGE KRAV MED HENSYN TIL SYKDOMMER HOS AKVATISKE DYR
 
 ### DEL I
+
 RISIKOBASERT OVERVÅKING
 
 ###### KAPITTEL 1
@@ -3703,6 +3740,7 @@ Hyppigheten av risikobaserte dyrehelsebesøk som skal gjennomføres i visse godk
 3. Minst én gang hvert tredje år i anlegg med lav risiko.
 
 ### DEL II
+
 SYKDOMSSPESIFIKKE KRAV TIL SYKDOMSFRI STATUS FOR AKVATISKE DYR
 
 Del II omhandler sykdomsspesifikke krav til sykdomsfri status når det gjelder følgende listeførte sykdommer:
@@ -4482,6 +4520,7 @@ Diagnostiske metoder og prøvetakingsmetoder
       Mistanke om infeksjon med WSSV kan utelukkes dersom disse testene ikke viser ytterligere bevis på forekomst av viruset.
 
 ### DEL III
+
 KRAV TIL DOKUMENTASJON AV GJENNOMFØRING AV OVERVÅKINGSPROGRAMMER FOR KATEGORI C-SYKDOMMER OG GJENOPPTAKELSE AV DISSE PROGRAMMENE ETTER ET SYKDOMSUTBRUDD
 
 Del III inneholder de kravene som anleggene skal oppfylle for å dokumentere gjennomføring av et overvåkingsprogram for en bestemt sykdom, samt kravene til gjenopptakelse av dette overvåkingsprogrammet etter et sykdomsutbrudd
@@ -4816,6 +4855,7 @@ Som endret ved:
 - ►**M1** Forordning [(EU) 2024/2043](eu/32024r2043) av 29. juli 2024
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2020/690](eu/32020*0690)
+
 av 17. desember 2019
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til de listeførte sykdommene som er omfattet av Unionens overvåkingsprogrammer, det geografiske virkeområdet for slike programmer og for hvilke listeførte sykdommer segmenter kan gis status som sykdomsfri
 
@@ -4916,6 +4956,7 @@ som endret ved:
 - ►**M2** Forordning [(EU) 2023/1451](eu/32023r1451)
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2020/2002
+
 av 7. desember 2020
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til melding om og rapportering av listeførte sykdommer i Unionen, med hensyn til formater og framgangsmåter for framlegging og rapportering av Unionens overvåkingsprogrammer og utryddelsesprogrammer og for søknad om anerkjennelse av sykdomsfri status og med hensyn til det databaserte informasjonssystemet
 
@@ -5140,6 +5181,7 @@ Utferdiget i Brussel 7. desember 2020.
 |  | *President* |
 
 ### VEDLEGG I
+
 LISTEFØRTE SYKDOMMER SOM DET SKAL MELDES OM I UNIONEN
 
 ### 1. Listeførte sykdommer hos landdyr som det skal meldes om i Unionen i samsvar med artikkel 3 nr. 1 bokstav a) og artikkel 3 nr. 2 bokstav a)
@@ -5209,6 +5251,7 @@ LISTEFØRTE SYKDOMMER SOM DET SKAL MELDES OM I UNIONEN
 - Infeksjon med hvitflekksyndromvirus («infeksjon med WSSV»).
 
 ### VEDLEGG II
+
 OPPLYSNINGER SOM SKAL GIS VED MELDING I UNIONEN OM UTBRUDD AV LISTEFØRTE SYKDOMMER I SAMSVAR MED ARTIKKEL 3 NR. 3
 
 1. Avsendelsesdato.
@@ -5255,6 +5298,7 @@ OPPLYSNINGER SOM SKAL GIS VED MELDING I UNIONEN OM UTBRUDD AV LISTEFØRTE SYKDOM
     ◄**M1**
 
 ### VEDLEGG III
+
 OPPLYSNINGER SOM SKAL GIS VED RAPPORTERING I UNIONEN OM PÅVISNING AV LISTEFØRTE SYKDOMMER I SAMSVAR MED ARTIKKEL 4 NR. 3
 
 1. Rapportens dato.
@@ -5265,6 +5309,7 @@ OPPLYSNINGER SOM SKAL GIS VED RAPPORTERING I UNIONEN OM PÅVISNING AV LISTEFØRT
 6. Dato for bekreftelse av siste utbrudd.
 
 ### VEDLEGG IV
+
 MELDINGS- OG RAPPORTERINGSREGIONER I MEDLEMSSTATENE I SAMSVAR MED ARTIKKEL 5
 
 | ►**M1** *Medlemsstat*[^\*] | *Meldings- og rapporteringsregioner* ◄**M1** |
@@ -5307,9 +5352,11 @@ MELDINGS- OG RAPPORTERINGSREGIONER I MEDLEMSSTATENE I SAMSVAR MED ARTIKKEL 5
 ◄**M1**
 
 ### VEDLEGG V
+
 OPPLYSNINGER OM RESULTATENE AV GJENNOMFØRINGEN AV OBLIGATORISKE OG FRIVILLIGE UTRYDDELSESPROGRAMMER SOM SKAL GIS I SAMSVAR MED ARTIKKEL 7 NR. 2 BOKSTAV A)
 
 ### AVSNITT 1
+
 Resultater av programmer for utryddelse av kategori B- og C-sykdommer hos landdyr basert på tildeling av sykdomsfri status på anleggsnivå
 
 Opplysninger som skal gis om programmer for utryddelse av kategori B- og C-sykdommer hos landdyr basert på tildeling av sykdomsfri status på anleggsnivå:
@@ -5334,6 +5381,7 @@ Opplysninger som skal gis om programmer for utryddelse av kategori B- og C-sykdo
 ◄**M2**
 
 ### AVSNITT 2
+
 Resultater av programmer for utryddelse av infeksjon med RABV
 
 Opplysninger som skal gis om programmer for utryddelse av infeksjon med RABV:
@@ -5360,6 +5408,7 @@ Opplysninger som skal gis om programmer for utryddelse av infeksjon med RABV:
       2. antall dyr som var positive ved serologiske tester/antall utførte serologiske tester.
 
 ### AVSNITT 3
+
 Resultater av programmer for utryddelse av infeksjon med BTV
 
 Opplysninger som skal gis om programmer for utryddelse av infeksjon med BTV:
@@ -5378,6 +5427,7 @@ Opplysninger som skal gis om programmer for utryddelse av infeksjon med BTV:
    6. Beskrivelse av områder som er sesongmessig BTV-frie, og start- og sluttdato for den vektorfrie perioden, dersom det er relevant.
 
 ### AVSNITT 4
+
 Resultater av programmer for utryddelse av kategori B- og C-sykdommer hos akvatiske dyr
 
 Opplysninger som skal gis om programmer for utryddelse av kategori B- og C-sykdommer hos akvatiske dyr:
@@ -5399,9 +5449,11 @@ Opplysninger som skal gis om programmer for utryddelse av kategori B- og C-sykdo
    ◄**M2**
 
 ### VEDLEGG VI
+
 ►**M2** Opplysninger som skal tas med i søknader om anerkjennelse av sykdomsfri status for medlemsstater eller soner med hensyn til sykdommer hos landdyr og akvatiske dyr og i søknader om sykdomsfri status for segmenter med hensyn til sykdommer hos akvatiske dyr i samsvar med artikkel 11 ◄**M2**
 
 ### AVSNITT 1
+
 Oppfyllelse av generelle kriterier
 
 Generelle opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status:
@@ -5413,6 +5465,7 @@ Generelle opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfr
 5. Bekreftelse på at de relevante generelle kriteriene i samsvar med artikkel 66 bokstav a) i delegert forordning [(EU) 2020/689](eu/32020r0689) for medlemsstater eller soner, eller artikkel 73 nr. 1 bokstav a) i nevnte delegerte forordning for akvatiske segmenter er oppfylt.
 
 ### AVSNITT 2
+
 Sykdomsfri status på grunnlag av fravær av listeførte arter
 
 Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status på grunnlag av fravær av listeførte arter:
@@ -5420,6 +5473,7 @@ Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status p
 - Dokumentasjon i samsvar med artikkel 67 nr. 2 eller artikkel 74 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### AVSNITT 3
+
 Sykdomsfri status på grunnlag av sykdomsagensens manglende evne til å overleve
 
 Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status på grunnlag av sykdomsagensens manglende evne til å overleve:
@@ -5427,6 +5481,7 @@ Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status p
 - Dokumentasjon i samsvar med artikkel 68 nr. 2 eller artikkel 75 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### AVSNITT 4
+
 Sykdomsfri status på grunnlag av listeførte vektorers manglende evne til å overleve når det gjelder listeførte sykdommer hos landdyr
 
 Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status på grunnlag av listeførte vektorers manglende evne til å overleve når det gjelder listeførte sykdommer hos landdyr:
@@ -5434,6 +5489,7 @@ Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status p
 - Dokumentasjon i samsvar med artikkel 69 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689).
 
 ### AVSNITT 5
+
 Sykdomsfri status på grunnlag av historiske data og overvåkingsdata
 
 1\. Opplysninger som vedkommende myndighet skal ta med i søknader om anerkjennelse av sykdomsfri status på grunnlag av historiske data og overvåkingsdata, forutsatt at det aldri har vært rapportert om sykdommen i det berørte geografiske området, eller den er blitt utryddet og det har ikke vært rapportert om den på minst 25 år før søknaden om anerkjennelse av sykdomsfri status for nevnte område:
@@ -5468,6 +5524,7 @@ Sykdomsfri status på grunnlag av historiske data og overvåkingsdata
 - Dokumentasjon på at kravene fastsatt i del IV avsnitt 1 bokstav a)–e) i vedlegg V til delegert forordning [(EU) 2020/689](eu/32020r0689) er oppfylt.
 
 ### AVSNITT 6
+
 Sykdomsfri status på grunnlag av utryddelsesprogrammer
 
 Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status på grunnlag av utryddelsesprogrammer, etter kalenderår:
@@ -5593,9 +5650,11 @@ Opplysninger som skal inngå i søknader om anerkjennelse av sykdomsfri status p
     ◄**M2**
 
 ### VEDLEGG VII
+
 OPPLYSNINGER SOM SKAL GIS VED FRAMLEGGING AV UTRYDDELSESPROGRAMMER I SAMSVAR MED ARTIKKEL 10
 
 ### AVSNITT 1
+
 Framlegging av programmer for utryddelse av kategori B- og C-sykdommer hos landdyr basert på tildeling av sykdomsfri status på anleggsnivå
 
 Opplysninger som skal inngå i programmer for utryddelse av kategori B- og C-sykdommer hos landdyr basert på tildeling av sykdomsfri status på anleggsnivå:
@@ -5638,6 +5697,7 @@ Opplysninger som skal inngå i programmer for utryddelse av kategori B- og C-syk
    ◄**M2**
 
 ### AVSNITT 2
+
 Framlegging av programmer for utryddelse av infeksjon med RABV
 
 Opplysninger som skal inngå i programmer for utryddelse av infeksjon med RABV:
@@ -5690,6 +5750,7 @@ Opplysninger som skal inngå i programmer for utryddelse av infeksjon med RABV:
    4. forventet prosentandel vaksineopptak hos dyr av målartene.
 
 ### AVSNITT 3
+
 Framlegging av programmer for utryddelse av infeksjon med BTV
 
 Opplysninger som skal inngå i programmer for utryddelse av infeksjon med BTV:
@@ -5735,6 +5796,7 @@ Opplysninger som skal inngå i programmer for utryddelse av infeksjon med BTV:
    3. forventet vaksinasjonsdekning, dersom det er relevant.
 
 ### AVSNITT 4
+
 Framlegging av programmer for utryddelse av kategori B- og C-sykdommer hos akvatiske dyr
 
 Opplysninger som skal inngå i programmer for utryddelse av kategori B- og C-sykdommer hos akvatiske dyr:
@@ -5812,6 +5874,7 @@ som endret ved
 - ►**M15** Forordning [(EU) 2026/293](eu/32026r0293) av 9. februar 2026
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/620
+
 av 15. april 2021
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2016/429 med hensyn til godkjenning av sykdomsfri status og ikke-vaksinert status for visse medlemsstater eller for soner eller segmenter i disse medlemsstatene med hensyn til visse listeførte sykdommer og godkjenning av utryddelsesprogrammer for disse listeførte sykdommene
 
@@ -6101,9 +6164,11 @@ Utferdiget i Brussel 15. april 2021.
 |  | *President* |
 
 ### VEDLEGG I
+
 INFEKSJON MED *BRUCELLA ABORTUS, B. MELITENSIS* OG *B. SUIS*
 
 ### DEL I
+
 Sykdomsfri status med hensyn til infeksjon med *Brucella abortus, B. melitensis* og *B. suis*
 
 ###### KAPITTEL 1
@@ -6194,6 +6259,7 @@ Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til i
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland. ◄**M4**
 
 ### DEL II
+
 Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for *Brucella abortus*, *B. melitensis* og *B. suis*
 
 ►**M3**
@@ -6226,9 +6292,11 @@ Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for *Brucel
 ◄**M3**
 
 ### VEDLEGG II
+
 INFEKSJON MED *MYCOBACTERIUM TUBERCULOSIS*-KOMPLEKS (*M. BOVIS, M. CAPRAE* OG *M. TUBERCULOSIS*) (MTBC)
 
 ### ►**M4** DEL I
+
 Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til infeksjon med MTBC
 
 | *Medlemsstat* | *Territorium* |
@@ -6259,6 +6327,7 @@ Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til i
 ◄**M4**
 
 ### ►**M4** DEL II
+
 Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for infeksjon med MTBC
 
 | *Medlemsstat*[^\*] | *Territorium* |
@@ -6282,9 +6351,11 @@ Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for
 ◄**M4**
 
 ### VEDLEGG III
+
 INFEKSJON MED RABIESVIRUS (RABV)
 
 ### DEL I
+
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med RABV
 
 | Medlemsstat[^\*] | Territorium |
@@ -6320,6 +6391,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for infeksjon med RABV
 
 ►**M3**
@@ -6334,9 +6406,11 @@ Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for infeksj
 ◄**M3**
 
 ### VEDLEGG IV
+
 ENZOOTISK BOVIN LEUKOSE (EBL)
 
 ### DEL I
+
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til EBL
 
 | Medlemsstat[^\*] | Territorium |
@@ -6368,6 +6442,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til EBL
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### ►**M4** DEL II
+
 Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for EBL
 
 | *Medlemsstat* | *Territorium* | *Dato for opprinnelig godkjenning som nevnt i artikkel 15 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689)* |
@@ -6377,9 +6452,11 @@ Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for
 ◄**M4**
 
 ### VEDLEGG V
+
 INFEKSIØS BOVIN RHINOTRAKEITT/INFEKSIØS PUSTULØS VULVOVAGINITT (IBR/IPV)
 
 ### DEL I
+
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til IBR/IPV
 
 | Medlemsstat | Territorium |
@@ -6393,6 +6470,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til IBR/IPV
 | Sverige | Hele territoriet |
 
 ### DEL II
+
 Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for IBR/IPV
 
 | Medlemsstat | Territorium | Dato for opprinnelig godkjenning som nevnt i artikkel 15 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689) |
@@ -6404,9 +6482,11 @@ Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for IBR/IPV
 | ►**M5**<br>Slovakia | Kraj Bratislava<br>Kraj Košice<br>Kraj Prešov<br>Kraj Trnava<br>Kraj Žilina | 05. juni 2023 ◄**M5** |
 
 ### VEDLEGG VI
+
 PSEUDORABIESVIRUS (ADV)
 
 ### DEL I
+
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med ADV
 
 | Medlemsstat[^\*] | Territorium |
@@ -6435,6 +6515,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for infeksjon med ADV
 
 | Medlemsstat | Territorium | Dato for opprinnelig godkjenning som nevnt i artikkel 15 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689) |
@@ -6445,9 +6526,11 @@ Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for infeksj
 | Portugal | Hele halvøyas territorium | 21. april 2021 |
 
 ### VEDLEGG VII
+
 BOVIN VIRUSDIARÉ (BVD)
 
 ### ►**M4** DEL I
+
 Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til BVD
 
 | *Medlemsstat* | *Territorium* |
@@ -6461,6 +6544,7 @@ Medlemsstater eller soner i medlemsstater med sykdomsfri status med hensyn til B
 ◄**M4**
 
 ### ►**M4** DEL II
+
 Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for BVD
 
 | *Medlemsstat* | *Territorium* | *Dato for opprinnelig godkjenning som nevnt i artikkel 15 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689)* |
@@ -6471,9 +6555,11 @@ Medlemsstater eller soner i medlemsstater med et godkjent utryddelsesprogram for
 ◄**M4**
 
 ### VEDLEGG VIII
+
 INFEKSJON MED BLÅTUNGEVIRUS (BTV)
 
 ### DEL I
+
 Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med BTV
 
 | Medlemsstat[^\*] | Territorium |
@@ -6502,6 +6588,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon
 ►**M14** ►**M13** ►**M12** ►**M11** ►**M10** ►**M9** ►**M8** ►**M6** ►**M5**
 
 ### DEL II
+
 Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for infeksjon med BTV
 
 | *Medlemsstat* | *Territorium* | *Dato for opprinnelig godkjenning som nevnt i artikkel 15 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689)* |
@@ -6511,6 +6598,7 @@ Medlemsstater eller soner i disse med et godkjent utryddelsesprogram for infeksj
 ◄**M5** ◄**M6** ◄**M8** ◄**M9** ◄**M10** ◄**M11** ◄**M12** ◄**M13** ◄**M14**
 
 ### VEDLEGG IX
+
 INFESTASJON MED *VARROA SPP*.
 
 **Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infestasjon med *Varroa* spp.**
@@ -6521,6 +6609,7 @@ INFESTASJON MED *VARROA SPP*.
 | ►**M2**<br>Finland | Åland, unntatt Brändö kommune<br>◄**M2** |
 
 ### VEDLEGG X
+
 INFEKSJON MED NEWCASTLE DISEASE-VIRUS
 
 ### Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon med Newcastle disease-virus uten vaksinasjon
@@ -6531,6 +6620,7 @@ INFEKSJON MED NEWCASTLE DISEASE-VIRUS
 | Sverige | Hele territoriet |
 
 ### VEDLEGG XI
+
 HØYPATOGEN AVIÆR INFLUENSA (HPAI)
 
 ### Segmenter som er frie for HPAI
@@ -6541,9 +6631,11 @@ HØYPATOGEN AVIÆR INFLUENSA (HPAI)
 | ►**M14** ►**M13** Nederland | Institut de selection animale B.V, med godkjenningsnummer 2338, som består av følgende virksomheter:<br>– Institut de Selection Animale B.V., St. Anthonisweg 65 B, 5831 AD Boxmeer<br>– ISA Siebengewald, Horsterbeekweg 5, 5853 GD Siebengewald<br>– ISA Landhorst, Boekelsebaan 16, 5445 NH Landhorst<br>– Mts. Everts, Riegshoogtendijk 146, 7913 TC Hollandscheveld<br>– Mts. Van der Zee, Bakkeveenseweg 1, 9343 TB Een-West<br>– Scherpenkate, Oosterkampen 2, 7722 VZ Dalfsen<br>– Mts. Steverink, Dinxperloseweg 26b, 7064 LA Silvolde<br>– Melitz V.O.F. Zeewolde, Ooievaarsweg 5, 3897 LG, Zeewolde ◄**M13** ◄**M14** ◄**M15** |
 
 ### VEDLEGG XII
+
 HEMORAGISK VIRUSSEPTIKEMI (VHS)
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til VHS,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til VHS, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til VHS, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6561,6 +6653,7 @@ soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til VHS, 
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for VHS,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for VHS,
 og soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for VHS, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6570,9 +6663,11 @@ og soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for VHS
 | ►**M10** ◄**M10** |  |  |
 
 ### VEDLEGG XIII
+
 INFEKSIØS HEMATOPOIETISK NEKROSE (IHN)
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til IHN,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til IHN,
 og soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til IHN, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6590,6 +6685,7 @@ og soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til IH
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for IHN,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for IHN, og
 soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for IHN, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6599,9 +6695,11 @@ soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for IHN, d
 | ►**M10** ◄**M10** |  |  |
 
 ### VEDLEGG XIV
+
 INFEKSJON MED HPR-DELETERT INFEKSIØS LAKSEANEMI-VIRUS (HPR-DELETERT ILAV)
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjon med HPR-deletert ILAV,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med HPR-deletert ILAV, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med HPR-deletert ILAV, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6640,6 +6738,7 @@ soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infek
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for infeksjon med HPR-deletert ILAV,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for infeksjon med HPR-deletert ILAV, og
 soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeksjon med HPR-deletert ILAV, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6647,9 +6746,11 @@ soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeks
 Ingen på det nåværende tidspunkt.
 
 ### VEDLEGG XV
+
 INFEKSJON MED *MARTEILIA REFRINGENS*
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjon med *Marteilia refringens*,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med *Marteilia refringens*, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med *Marteilia refringens*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6663,6 +6764,7 @@ soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infek
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for infeksjon med *Marteilia refringens*,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for infeksjon med *Marteilia refringens*, og
 soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeksjon med *Marteilia refringens*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6670,9 +6772,11 @@ soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeks
 Ingen på det nåværende tidspunkt.
 
 ### VEDLEGG XVI
+
 INFEKSJON MED *BONAMIA EXITIOSA*
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjon med *Bonamia exitiosa*,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med *Bonamia exitiosa*, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med *Bonamia exitiosa*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6683,6 +6787,7 @@ soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infek
 | ►**M14** Sverige | Hele territoriet ◄**M14** |
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for infeksjon med *Bonamia exitiosa*,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for infeksjon med *Bonamia exitiosa*, og
 soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeksjon med *Bonamia exitiosa*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6690,9 +6795,11 @@ soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeks
 Ingen på det nåværende tidspunkt.
 
 ### VEDLEGG XVII
+
 INFEKSJON MED *BONAMIA OSTREAE*
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjon med *Bonamia ostreae*,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med *Bonamia ostreae*, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med *Bonamia ostreae*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6707,6 +6814,7 @@ soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infek
 \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for infeksjon med *Bonamia ostreae*,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for infeksjon med *Bonamia ostreae*, og
 soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeksjon med *Bonamia ostreae*, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6714,9 +6822,11 @@ soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeks
 Ingen på det nåværende tidspunkt.
 
 ### VEDLEGG XVIII
+
 INFEKSJON MED HVITFLEKKSYNDROMVIRUS (WSSV)
 
 ### DEL I
+
 Medlemsstater der hele territoriet har sykdomsfri status med hensyn til infeksjon med WSSV,
 soner eller segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har sykdomsfri status med hensyn til infeksjon med WSSV, og
 soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infeksjon med WSSV, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6724,6 +6834,7 @@ soner eller segmenter i medlemsstater med sykdomsfri status med hensyn til infek
 Ingen på det nåværende tidspunkt.
 
 ### DEL II
+
 Medlemsstater der hele territoriet har et godkjent utryddelsesprogram for infeksjon med WSSV,
 soner og segmenter i medlemsstater der mer enn 75 % av medlemsstatens territorium har et godkjent utryddelsesprogram for infeksjon med WSSV, og
 soner og segmenter i medlemsstater med et godkjent utryddelsesprogram for infeksjon med WSSV, der nedbørfeltet som forsyner disse sonene eller segmentene i medlemsstaten, deles med en annen medlemsstat eller et tredjeland
@@ -6747,6 +6858,7 @@ som endret ved
 - ►**M5** Beslutning [(EU) 2025/403](eu/32025d0403)
 
 ### KOMMISJONENS GJENNOMFØRINGSBESLUTNING (EU) 2021/260
+
 av 11. februar 2021
 om godkjenning av nasjonale tiltak som har som formål å begrense virkningene av visse sykdommer hos akvatiske dyr i samsvar med artikkel 226 nr. 3 i europaparlaments- og rådsforordning (EU) 2016/429, og om oppheving av kommisjonsbeslutning 2010/221/EU
 
@@ -6876,6 +6988,7 @@ Utferdiget i Brussel 11. februar 2021.
 ►**M4**
 
 ### VEDLEGG I
+
 Medlemsstater[^1] eller deler av medlemsstater som anses som frie for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
 | *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |
@@ -6943,6 +7056,7 @@ Medlemsstater[^1] eller deler av medlemsstater som anses som frie for visse sykd
 ►**M4**
 
 ### VEDLEGG II
+
 Medlemsstater[^1] eller deler av medlemsstater som har utryddelsesprogrammer for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
 | *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |
@@ -6958,6 +7072,7 @@ Medlemsstater[^1] eller deler av medlemsstater som har utryddelsesprogrammer for
 ◄**M4**
 
 ### VEDLEGG III
+
 ►**M5** Arter av akvatiske dyr som er mottakelige for sykdommer som visse medlemsstater[^\*] har truffet nasjonale tiltak mot i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
 | *Sykdom* | *Mottakelige arter* |
@@ -6982,6 +7097,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2024/262
 ►**B** Forordning [(EU) 2024/2623](eu/32024r2623) om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for godkjenning og anerkjennelse av sykdomsfri status for segmenter der det holdes landdyr
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2024/2623](eu/32024r2623)
+
 av 30. juli 2024
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for godkjenning og anerkjennelse av sykdomsfri status for segmenter der det holdes landdyr
 
@@ -7023,6 +7139,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -7050,6 +7167,7 @@ I denne forordningen menes med
 6. «system for tidlig varsling» et system for rettidig påvisning, rapportering og kommunikasjon av forekomst, inntreden eller framvekst av kategori A-sykdommer.
 
 ### KAPITTEL II
+
 KRAV OG FRAMGANGSMÅTER FOR GODKJENNING AV SYKDOMSFRI STATUS MED HENSYN TIL KATEGORI A-SYKDOMMER FOR SEGMENTER DER DET HOLDES LANDDYR
 
 ### Artikkel 3. Krav for tildeling av sykdomsfri status med hensyn til kategori A-sykdommer til segmenter der det holdes landdyr
@@ -7120,6 +7238,7 @@ KRAV OG FRAMGANGSMÅTER FOR GODKJENNING AV SYKDOMSFRI STATUS MED HENSYN TIL KATE
 5\. Når godkjenningen av sykdomsfri status for et segment er tilbakekalt som fastsatt i nr. 4 i denne artikkelen, kan sykdomsfri status bare gjenopprettes etter en ny søknad i samsvar med artikkel 4.
 
 ### KAPITTEL III
+
 SÆRLIGE KRAV FOR GODKJENNING AV SYKDOMSFRI STATUS FOR SEGMENTER DER DET HOLDES LANDDYR MED HENSYN TIL KATEGORI A-SYKDOMMER OPPFØRT I VEDLEGG II TIL GJENNOMFØRINGSFORORDNING [(EU) 2020/690](eu/32020r0690)
 
 ### Artikkel 7. Særlige krav knyttet til kategori A-sykdommer oppført i vedlegg II til gjennomføringsforordning (EU) 2020/690 for segmenter av de relevante listeførte artene og kategoriene av landdyr
@@ -7137,6 +7256,7 @@ SÆRLIGE KRAV FOR GODKJENNING AV SYKDOMSFRI STATUS FOR SEGMENTER DER DET HOLDES 
 3. En detaljert beskrivelse av verne- og overvåkingstiltakene i henhold til del II avsnitt 2 i vedlegg II.
 
 ### KAPITTEL IV
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 8. Overgangsbestemmelser
@@ -7160,9 +7280,11 @@ Ursula von der Leyen
 *President*
 
 ### VEDLEGG I
+
 KRAV FOR GODKJENNING AV SYKDOMSFRI STATUS MED HENSYN TIL KATEGORI A-SYKDOMMER FOR SEGMENTER DER DET HOLDES LANDDYR
 
 ### DEL I
+
 SEGMENTANSVARLIG
 
 Den segmentansvarlige nevnt i artikkel 3 nr. 2 skal
@@ -7184,6 +7306,7 @@ Den segmentansvarlige nevnt i artikkel 3 nr. 2 skal
 9. underrette vedkommende myndighet om dyrehelsehendelser, funksjonsproblemer, brudd på biosikkerheten, endringer i anlegg eller i biosikkerhets- eller overvåkingsplaner eller andre forhold som kan påvirke godkjenningen av segmentet.
 
 ### DEL II
+
 FELLES FORVALTNINGSSYSTEM FOR BIOSIKKERHET FOR ET SEGMENT
 
 Det felles forvaltningssystemet for biosikkerhet for et segment som nevnt i artikkel 3 nr. 2 bokstav b), skal minst omfatte følgende elementer:
@@ -7213,6 +7336,7 @@ Det felles forvaltningssystemet for biosikkerhet for et segment som nevnt i arti
 13. Framgangsmåtene for å underrette vedkommende myndighet om dyrehelsehendelser, funksjonsproblemer, brudd på biosikkerheten, endringer i deler av segmentet eller i planer eller andre forhold som kan påvirke godkjenningen av segmentets sykdomsfrie status.
 
 ### DEL III
+
 BESKRIVELSE AV ET SEGMENT
 
 I tillegg til de opplysningene som kreves i henhold til artikkel 96 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) for anlegg, skal søknader om godkjenning av sykdomsfri status som omhandlet i artikkel 4 i denne forordningen, inneholde følgende opplysninger:
@@ -7230,6 +7354,7 @@ I tillegg til de opplysningene som kreves i henhold til artikkel 96 nr. 1 i foro
 6. Resultater av overvåkingen som viser fravær av den eller de kategori A-sykdommene som er nevnt i bokstav e), i minst de siste seks månedene før datoen for søknad om godkjenning av sykdomsfri status.
 
 ### VEDLEGG II
+
 SÆRLIGE KRAV FOR GODKJENNING AV SYKDOMSFRI STATUS MED HENSYN TIL HØYPATOGEN AVIÆR INFLUENSA ELLER NEWCASTLE DISEASE-VIRUS FOR FJØRFESEGMENTER
 
 ### DEL I

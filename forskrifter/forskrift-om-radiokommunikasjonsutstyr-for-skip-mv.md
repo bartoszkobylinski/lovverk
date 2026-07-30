@@ -15,7 +15,7 @@ xml_hash: "24b3412305ebafb35019c5a3affd005dc70feee9c6d2ec46c01521a85fe0bffc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,11 +192,13 @@ Ved forskriftens ikrafttredelse oppheves
 Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs](traktat/1974-11-01-1), 1974 (SOLAS) kapittel IV om radiokommunikasjon, slik Sjøfartsdirektoratet tolker denne delen av konvensjonen tatt inn i konsolidert utgave 2020 med endringer til og med IMO-resolusjon MSC.496(105).
 
 ### [^1]KAPITTEL IV
+
 RADIOKOMMUNIKASJON
 
 1 Teksten i kapittel IV er erstattet ved resolusjon MSC.496(105).
 
 ### Del A
+
 Generelle bestemmelser
 
 ### Regel 1 Anvendelse
@@ -286,6 +288,7 @@ Sjøsikkerhetskomiteen skal fastsette kriterier, fremgangsmåter og arrangemente
 10 Det vises til «Criteria for the provision of mobile satellite communication systems in the Global Maritime Distress and Safety System (GMDSS)» (resolusjon A.1001(25)) og «Guidance to prospective GMDSS satellite service providers» (MSC.1/Circ.1414).
 
 ### Del B
+
 Forpliktelser for kontraherende staters regjeringer[^11]
 
 11 1 Det er ikke krav om at alle kontraherende staters regjeringer må tilby alle radiokommunikasjonstjenester.
@@ -316,6 +319,7 @@ Forpliktelser for kontraherende staters regjeringer[^11]
 2 Hver kontraherende stats regjering forplikter seg til å sørge for at det finnes egnede ordninger for registrering av GMDSS-identiteter og for å gjøre informasjon om disse identitetene kjent for redningskoordinerende sentre på 24-timers basis. Når det er aktuelt, skal internasjonale organisasjoner som oppbevarer et register over disse identitetene, som ITU Maritime Mobile Access and Retrieval System (MARS), underrettes av den kontraherende stats regjering om disse identitetsoppgavene.
 
 ### Del C
+
 Krav til skip
 
 ### Regel 6 Radioinstallasjoner

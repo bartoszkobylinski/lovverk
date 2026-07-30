@@ -16,7 +16,7 @@ xml_hash: "983c10f314af5382467717ace011d7875b3655998bae2eb699abc382dd9bf6fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,6 +64,7 @@ Forordning [(EF) nr. 152/2009](eu/32009r0152) er konsolidert til og med endringe
 - ►**M9** Forordning [(EU) 2025/782](eu/32025r0782) av 23. april 2025
 
 ### KOMMISJONSFORORDNING [(EF) nr. 152/2009](eu/32009r0152)
+
 av 27. januar 2009
 om fastsettelse av metoder for prøvetaking og analyse i forbindelse med offentlig kontroll av fôrvarer
 
@@ -211,6 +212,7 @@ Utferdiget i Brussel, 27. januar 2009.
 ►**M8**
 
 ### VEDLEGG I
+
 Prøvetakingsmetoder
 
 ### 1. Formål og virkeområde
@@ -643,6 +645,7 @@ Den mengden som driftsansvarlig for fôrforetak leverer til vedkommende myndighe
 ►**M8**
 
 ### VEDLEGG II
+
 Alminnelige bestemmelser om analysemetoder for fôr
 
 ### A. Tillaging av analyseprøver
@@ -779,7 +782,7 @@ Dersom analyseresultatet av klageadgangsprøven overskrider øvre grenseverdi (u
 Analyseresultatet skal rapporteres på følgende måte (i den grad den anvendte analysemetoden gjør det mulig å anslå utvidet analytisk måleusikkerhet):
 
 1. Korrigert for gjenfinning, dersom det er hensiktsmessig og relevant, og dersom det er korrigert, skal dette være angitt. Gjenfinningsgraden skal oppgis med mindre egenkorreksjon for skjevhet er en del av framgangsmåten, der skjevhet er forskjellen mellom den målte verdien og referansekonsentrasjonen. Korreksjon for gjenfinning er ikke nødvendig når gjenfinningsgraden er på mellom 90 og 110 %.
-2. Som «x ± U», der x er analyseresultatet og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2[^7](2) som gir en konfidensgrad på ca. 95 %.
+2. Som «x ± U», der x er analyseresultatet og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2[^7]\(2) som gir en konfidensgrad på ca. 95 %.
 
 Dersom analyseresultatet er vesentlig lavere (> 50 %) enn den spesifikasjonen som skal kontrolleres, og forutsatt at hensiktsmessige kvalitetsprosedyrer er anvendt og analysen bare har som formål å kontrollere samsvar med lovbestemmelser, kan imidlertid rapportering av gjenfinningsprosent og utvidet analytisk måleusikkerhet utelates (f.eks. i tilfeller der det ikke er noen spesifikasjoner eller noe lovbestemt nivå), med mindre måleusikkerhetet er nødvendig for fortolkning.
 
@@ -806,6 +809,7 @@ Analyseresultatet skal rapporteres på følgende måte (i den grad den anvendte 
 ►**M8**
 
 ### VEDLEGG III
+
 Analysemetoder for kontroll av sammensetningen i fôrmidler og fôrblandinger
 
 ### A. Bestemmelse av vanninnhold
@@ -2923,6 +2927,7 @@ Resultatet for vannfri laktose uttrykkes som en prosentdel av prøven.
    | 23 | 62,2 |  | 88,0 |  | 23 |
 
 ### K. Bestemmelse av stivelse
+
 Polarimetrisk metode
 
 ###### 1. Formål og virkeområde
@@ -3544,6 +3549,7 @@ Scheibler-dietrich-apparat for bestemmelse av CO2
 ◄**M9**
 
 ### VEDLEGG IV
+
 Analysemetoder for kontroll av nivået av godkjente tilsetningsstoffer i fôrvarer
 
 ### A. Bestemmelse av vitamin A
@@ -6102,6 +6108,7 @@ For anvendelsen av artikkel 34 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/
 ►**M8**
 
 ### VEDLEGG V
+
 Analysemetoder for kontroll av uønskede stoffer i fôrvarer
 
 ### A. Bestemmelse av innholdet av dioksiner (PCDD/PCDF) og PCB
@@ -6905,6 +6912,7 @@ For anvendelsen av artikkel 34 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/
 ◄**M8**
 
 ### ►**M2** VEDLEGG VI.
+
 Analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse for offentlig kontroll av fôr ◄**M2**
 
 ►**M7**
@@ -7326,6 +7334,7 @@ Energiverdien i fôrmidler og fôrblandinger til katter og hunder skal beregnes 
 ◄**M8**
 
 ### VEDLEGG IX
+
 Sammenligningstabell omhandlet i artikkel 6
 
 ### 1. Direktiv [71/250/EØF](eu/31971l0250*)

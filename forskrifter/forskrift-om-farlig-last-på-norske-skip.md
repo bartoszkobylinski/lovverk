@@ -15,7 +15,7 @@ xml_hash: "76812b9db6e78277c537625feff4031fc3b94768a658090e92f2528ba2306b5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -321,9 +321,11 @@ Forskriften trer i kraft 15. september 2014. Fra samme tidspunkt oppheves [forsk
 Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (](traktat/1974-11-01-1)SOLAS) kapittel VII om Frakt av farlig last, slik Sjøfartsdirektoratet tolker denne del av konvensjonen tatt inn i konsolidert utgave 2014.
 
 ### Kapittel VII
+
 Frakt av farlig last
 
 ### Del A
+
 Frakt av farlig last i emballert form
 
 ### Regel 1 Definisjoner
@@ -389,6 +391,7 @@ All last og alle lasteenheter[^1] og lastetransportenheter, skal lastes, stues o
 1 Det vises til «General principles for ship reporting systems and ship reporting requirements», inkludert «Guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants», vedtatt av organisasjonen ved resolusjon A.851(20), med endringer.
 
 ### Del A-1
+
 Frakt av farlig last som fast bulklast
 
 ### Regel 7 Definisjoner
@@ -436,6 +439,7 @@ Frakt av farlig last som fast bulklast
 Frakt av farlig last som fast bulklast skal oppfylle de relevante bestemmelsene i IMSBC-koden, som definert i regel VI/1-1.1.
 
 ### Del B
+
 Bygging og utrustning av skip som fører farlige flytende kjemikalier i bulk
 
 ### Regel 8 Definisjoner
@@ -465,6 +469,7 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i denne
 2 Et kjemikalietankskip som innehar et sertifikat utstedt i henhold til bestemmelsene i nr. 1, skal kontrolleres som fastsatt i regel I/19. Et slikt sertifikat skal i denne forbindelse betraktes som et sertifikat utstedt i henhold til regel I/12 eller I/13.
 
 ### Del C
+
 Bygging og utrustning av skip som fører flytende gasser i bulk
 
 ### Regel 11 Definisjoner
@@ -494,6 +499,7 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i denne
 2 Et gasstankskip som innehar et sertifikat utstedt i henhold til bestemmelsene i nr. 1, skal kontrolleres som fastsatt i regel I/19. Et slikt sertifikat skal i denne forbindelse betraktes som et sertifikat utstedt i henhold til regel I/12 eller I/13.
 
 ### Del D
+
 Særkrav til frakt av pakket bestrålt kjernebrensel, plutonium og høyradioaktivt avfall om bord på skip
 
 ### Regel 14 Definisjoner

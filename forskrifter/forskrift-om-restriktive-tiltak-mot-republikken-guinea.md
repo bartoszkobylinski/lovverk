@@ -15,7 +15,7 @@ xml_hash: "cd3b1da47fa7ae3030f50780a8d8350aa3dcc5dc5c5778de4b518a90f2607684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,6 +76,7 @@ Denne forskrift trer i kraft straks.
 > Endret ved [forskrifter 21 des 2015 nr. 1850](forskrift/2015-12-21-1850), [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
 
 ### RÅDSFORORDNING [(EU) nr. 1284/2009](eu/32009r1284)
+
 av 22. desember 2009
 om innføring av visse spesifikke restriktive tiltak mot Republikken Guinea
 

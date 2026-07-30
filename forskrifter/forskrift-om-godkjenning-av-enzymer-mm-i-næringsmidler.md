@@ -15,7 +15,7 @@ xml_hash: "81b1970943c32b521bbb97d6be1231f9c20745deca6629095f9880587f96ca81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,6 +67,7 @@ som endret ved:
 ►**M1** Europaparlaments- og rådsforordning (EU) 2019/1381 av 20. juni 2019
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1331/2008](eu/32008r1331)
+
 av 16. desember 2008
 om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler
 
@@ -131,6 +132,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Allmenne prinsipper
 
 ### Artikkel 1. Formål og virkeområde
@@ -154,6 +156,7 @@ Allmenne prinsipper
 3. å tilføye, slette eller endre vilkår, spesifikasjoner eller begrensninger knyttet til forekomsten av et stoff på fellesskapslisten.
 
 ### Kapittel II
+
 Felles framgangsmåte
 
 ### Artikkel 3. Hovedtrinnene i den felles framgangsmåten
@@ -226,6 +229,7 @@ Dersom det ikke er blitt anmodet om en uttalelse fra myndigheten, skal tidsromme
 2\. Dersom tilleggsopplysningene ikke sendes før utløpet av den forlengede fristen nevnt i nr. 1, skal Kommisjonen treffe tiltak på grunnlag av opplysninger som allerede er framlagt.
 
 ### Kapittel III
+
 Diverse bestemmelser
 
 ### Artikkel 9. Gjennomføringstiltak
@@ -290,6 +294,7 @@ Tidsfristene nevnt i artikkel 5a nr. 3 bokstav c) og i nr. 4 bokstav b) og e) i 
 Senest seks måneder etter ikrafttredelsen av sektorregelverket for hvert næringsmiddelområde skal medlemsstatene, for hvert sektorregelverk, oversende Kommisjonen og myndigheten navn og adresse samt kontaktpunkt for den nasjonale vedkommende myndighet for den felles framgangsmåten.
 
 ### Kapittel IV
+
 Sluttbestemmelse
 
 ### Artikkel 16. Ikrafttredelse
@@ -323,6 +328,7 @@ Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning 
 ► **M2** Forordning [(EU) 2020/1823](eu/32020r1823)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 234/2011](eu/32011r0234)
+
 av 10. mars 2011
 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler
 
@@ -376,6 +382,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Virkeområde
@@ -396,6 +403,7 @@ I denne forordning menes med:
 ◄ **M1**
 
 ### Kapittel II
+
 Søknadens innhold, utarbeiding og framleggelse
 
 ### Artikkel 2. Søknadens innhold
@@ -622,6 +630,7 @@ Dokumentasjonen som framlegges til støtte for en søknad skal omfatte følgende
 4. eksponeringsvurderingen, basert på normale eller maksimale bruksnivåer for hver berørte kategori eller produkt.
 
 ### Kapittel III
+
 Nærmere bestemmelser om kontroll av søknadens gyldighet
 
 ►**M2**
@@ -652,6 +661,7 @@ I slike tilfeller skal Kommisjonen underrette søkeren, medlemsstatene og myndig
 ◄**M2**
 
 ### Kapittel IV
+
 Uttalelse fra myndigheten
 
 ### Artikkel 13. Opplysninger som skal være med i Myndighetens uttalelse
@@ -671,6 +681,7 @@ Uttalelse fra myndigheten
 2\. Kommisjonen kan be om mer spesifikke tilleggsopplysninger i sin anmodning om en uttalelse fra Myndigheten.
 
 ### Kapittel V
+
 Sluttbestemmelser
 
 ### Artikkel 14. Ikrafttredelse og anvendelse

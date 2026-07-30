@@ -15,7 +15,7 @@ xml_hash: "056522d73f6d520fc8b5f084aea71d2a9ac733e53690ae8ce4efef095b17f4e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,6 +116,7 @@ Denne forskrift trer i kraft straks.
 > Vedlegg A tilføyd ved [forskrift 25 april 2014 nr. 604](forskrift/2014-04-25-604), endret ved [forskrifter 13 feb 2017 nr. 177](forskrift/2017-02-13-177), [16 okt 2017 nr. 1636](forskrift/2017-10-16-1636), [13 feb 2019 nr. 102](forskrift/2019-02-13-102), [13 juli 2021 nr. 2424](forskrift/2021-07-13-2424).
 
 ### RÅDSFORORDNING [(EU) 2016/44](eu/32016r0044*)
+
 av 18. januar 2016
 om restriktive tiltak i lys av situasjonen i Libya
 
@@ -414,6 +415,7 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 Rådsforordning [(EU) nr. 204/2011](eu/32011r0204) oppheves. Henvisninger til den opphevede forordningen skal anses som henvisninger til denne forordning.
 
 ## Vedlegg I
+
 Annex I. List of equipment which might be used for internal repression as referred to in Articles 2, 3 and 4
 
 1\.
@@ -536,6 +538,7 @@ Specific technology for the development, production or use of the items specifie
 > Endret ved [forskrift 25 april 2014 nr. 604](forskrift/2014-04-25-604).
 
 ## Vedlegg II
+
 Annex II. List of natural and legal persons, entities and bodies referred to in Article 6(1)
 
 FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1970/materials). Listeførte med landkode («Two Digit Country ISO Code») LY er listeført under denne forskrift.
@@ -543,6 +546,7 @@ FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securit
 > Endret ved [forskrifter 25 april 2014 nr. 604](forskrift/2014-04-25-604), [13 feb 2017 nr. 177](forskrift/2017-02-13-177), [13 juli 2021 nr. 2424](forskrift/2021-07-13-2424).
 
 ## Vedlegg III
+
 Annex III. List of natural and legal persons, entities and bodies referred to in Article 6(2)
 
 EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). Listeførte med landkode («programme») LBY er listeført under denne forskrift.
@@ -550,6 +554,7 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 > Endret ved [forskrifter 25 april 2014 nr. 604](forskrift/2014-04-25-604), [13 feb 2017 nr. 177](forskrift/2017-02-13-177).
 
 ## Vedlegg IV
+
 Annex IV. List of competent authorities in the Member States referred to in Articles 7(1), 8(1), 10 and 13(1) and address for notifications to the European Commission
 
 [Lenker er gjengitt som i Utenriksdepartementets kunngjøring i Norsk Lovtidend, Lovdatas anm.]
@@ -685,6 +690,7 @@ Fax: (32 2) 299 08 73
 > Endret ved [forskrift 25 april 2014 nr. 604](forskrift/2014-04-25-604).
 
 ## Vedlegg V
+
 Annex V. Vessels designated by the UN Sanctions Committee as referred to in paragraph 11 of UNSCR 2146 (2014)
 
 FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1970/materials). Listeførte med landkode («Two Digit Country ISO Code») LY er listeført under denne forskrift.
@@ -692,6 +698,7 @@ FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securit
 > Tilføyd ved [forskrift 13 feb 2017 nr. 177](forskrift/2017-02-13-177), endret ved [forskrifter 16 okt 2017 nr. 1636](forskrift/2017-10-16-1636), [13 juli 2021 nr. 2424](forskrift/2021-07-13-2424).
 
 ## Vedlegg VI
+
 Annex VI. Items which could be used for smuggling of migrants and trafficking in human beings as referred to in Article 2a
 
 EXPLANATORY NOTE

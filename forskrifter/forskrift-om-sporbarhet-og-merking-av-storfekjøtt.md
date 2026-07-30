@@ -16,7 +16,7 @@ xml_hash: "720a5cd895169e2e45fc94acc7d7be897a8220cfa03b4433dcb56b005915e2e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -299,6 +299,7 @@ som endret ved
 ► **M4** Forordning [(EU) 2016/429](eu/32016r0429)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1760/2000](eu/32000r1760)
+
 av 17. juli 2000
 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter og om oppheving av rådsforordning [(EF) nr. 820/97](eu/31997r0820)
 
@@ -389,6 +390,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:]
 
 ### Avdeling I
+
 Identifikasjon og registrering av storfe
 
 ►**M4**
@@ -398,6 +400,7 @@ Artikkel 1 til 10 opphevet.
 ◄**M4**
 
 ### Avdeling II
+
 Merking av storfekjøtt og storfekjøttprodukter
 
 ### Artikkel 11
@@ -426,6 +429,7 @@ I denne avdeling menes med:
    ◄ **M3**
 
 ### Avsnitt I
+
 EØS-system for obligatorisk merking av storfekjøtt
 
 ###### Artikkel 13
@@ -500,6 +504,7 @@ Som unntak fra artikkel 13 skal alt storfekjøtt som importeres til Unionens ter
 ► **M3**
 
 ### Avsnitt II
+
 Frivillig merking
 
 ◄ **M3**
@@ -539,6 +544,7 @@ Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med a
 ◄ **M3**
 
 ### Avsnitt III
+
 Alminnelige bestemmelser
 
 ###### Artikkel 19
@@ -560,6 +566,7 @@ Alminnelige bestemmelser
 ◄ **M3**
 
 ### Avdeling III
+
 Felles bestemmelser
 
 ►**M3**
@@ -677,6 +684,7 @@ Utferdiget i Brussel, 17. juli 2000.][^1]
 1 Ikrafttredelse i EØS følger av [EØS-komiteens beslutning nr. 21/2009](eu/22009d0021) og [EØS-komiteens beslutning nr. 132/2007](eu/22007d0132). Rettsvirkningene i EFTA-landenes interne rett følger av EØS-avtalens artikkel 7.
 
 ### Vedlegg
+
 Sammenligningstabell
 
 | Forordning [(EF) nr. 820/97](eu/31997r0820) | Denne forordning |
@@ -710,6 +718,7 @@ Sammenligningstabell
 | Artikkel 22 | Artikkel 25 |
 
 ### ► **M3** Vedlegg I
+
 Identifikasjonsmerker
 
 1. VANLIG ØREMERKE

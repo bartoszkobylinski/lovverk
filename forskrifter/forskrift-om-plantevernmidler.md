@@ -15,7 +15,7 @@ xml_hash: "fdb43123bee06b70449be4d490082854a16055f4976011a829c546f414dc4169"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -454,6 +454,7 @@ Bestemmelsen i [§ 25](forskrift/2015-05-06-455/§25) sjette ledd trer i kraft 1
 ## Vedlegg
 
 ### Vedlegg 1
+
 Krav til spredeutstyr for plantevernmidler, jf. § 15
 
 Funksjonstest av spredeutstyr for plantevernmidler skal omfatte alle forhold som har betydning for å sikre en høy grad av beskyttelse av menneskers helse og sikkerhet og av miljøet. Spredeutstyrets deler og funksjoner skal kontrolleres for å sikre full spredningseffektivitet.
@@ -501,6 +502,7 @@ Det skal spesielt legges vekt på følgende:
     Viften skal være i god stand og skal sikre en stabil og pålitelig luftstrøm.
 
 ### Vedlegg 2
+
 Generelle prinsipper for integrert plantevern, jf. § 26
 
 1. Forebygging og/eller utrydding av skadegjørere bør foregå eller støttes ved hjelp av alternative metoder, fortrinnsvis de følgende:
@@ -547,6 +549,7 @@ som endret ved:
 - ►**M9** Kommisjonsforordning [(EU) 2022/1438](eu/32022r1438) av 31. august 2022
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1107/2009](eu/32009r1107)
+
 av 21. oktober 2009
 om omsetning av plantevernmidler og om oppheving av rådsdirektiv [79/117/EØF](eu/31979l0117) og [91/414/EØF](eu/31991l0414*)
 
@@ -657,6 +660,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNING:
 
 ### Kapittel I
+
 Alminnelige bestemmelser
 
 ### Artikkel 1. Innhold og formål
@@ -752,9 +756,11 @@ I denne forordning menes med:
 3 EUT L 50 av 20.2.2004, s. 44.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapii) II
+
 Aktive stoffer, beskyttende midler, synergister og formuleringsstoffer
 
 ### Avsnitt 1
+
 Aktive stoffer
 
 ###### Underavsnitt 1
@@ -1147,6 +1153,7 @@ Stoffer som skal erstattes
 2\. Uten at det berører nr. 1 får artikkel 4–21 anvendelse. Stoffer som skal erstattes, skal angis separat i forordningen nevnt i artikkel 13 nr. 4.
 
 ### Avsnitt 2
+
 Beskyttende midler og synergister
 
 ###### Artikkel 25
@@ -1166,6 +1173,7 @@ Beskyttende midler og synergister som allerede finnes på markedet
 Innen 14. desember 2014 skal det vedtas en forordning etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4 om opprettelse av et arbeidsprogram for gradvis gjennomgåelse av de synergister og beskyttende midler som finnes på markedet når nevnte forordning trer i kraft. Forordningen skal inneholde bestemmelser om opplysningskrav, herunder tiltak for å begrense dyreforsøk til et minimum, og framgangsmåter for melding, evaluering, vurdering og beslutningstaking. Den skal inneholde et krav om at berørte parter legger fram alle nødvendige opplysninger for medlemsstatene, Kommisjonen og Myndigheten innen en angitt frist.
 
 ### Avsnitt 3
+
 Uakseptable formuleringsstoffer
 
 ###### Artikkel 27
@@ -1186,9 +1194,11 @@ Formuleringsstoffer
 5\. Nærmere regler for gjennomføring av denne artikkel skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapiii) III
+
 Plantevernmidler
 
 ### Avsnitt 1
+
 Godkjenning
 
 ###### Underavsnitt 1
@@ -1729,6 +1739,7 @@ Medlemsstaten kan forhåndsgodkjenne et forsøks- eller undersøkelsesprogram el
 5\. Nærmere regler for gjennomføringen av denne artikkel, særlig største tillatte mengder av plantevernmidler som kan slippes ut under forsøk eller undersøkelser, samt minstekrav til opplysningene som skal legges fram i samsvar med artikkel 2, kan vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
 ### Avsnitt 2
+
 Bruk og opplysninger
 
 ###### Artikkel 55
@@ -1779,6 +1790,7 @@ Plikt til å oppbevare opplysninger tilgjengelig
 3\. Det skal innføres et informasjonssystem for godkjenninger etter framgangsmåten nevnt i artikkel 79 nr. 3 for å lette anvendelsen av nr. 1 og 2 i denne artikkel.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapiv) IV
+
 Hjelpestoffer
 
 ### Artikkel 58. Omsetning og bruk av hjelpestoffer
@@ -1790,6 +1802,7 @@ Hjelpestoffer
 3\. Artikkel 81 nr. 3 får anvendelse.
 
 ### [Kapittel V](forskrift/2015-05-06-455/kapv)
+
 Vern av opplysninger og felles bruk av opplysninger
 
 ### Artikkel 59. Vern av opplysninger
@@ -1856,6 +1869,7 @@ Dersom partene ikke kan komme til enighet i samsvar med nr. 3, skal dette ikke v
 6\. Innehaveren eller innehaverne av den relevante godkjenningen skal ha rett til å kreve at den potensielle søkeren betaler en rimelig andel av innehaverens kostnader. Vedkommende myndighet i medlemsstaten kan oppfordre de berørte partene til å løse tvisten ved formell og bindende voldgift forvaltet i henhold til nasjonal lovgivning. Ellers kan partene løse tvisten gjennom å bringe saken inn for medlemsstatenes domstoler. Voldgiftsavgjørelser eller rettsavgjørelser skal ta hensyn til prinsippene fastsatt i nr. 3 og skal kunne fullbyrdes i medlemsstatenes domstoler.
 
 ### Kapittel VI
+
 Offentlig tilgang til opplysninger
 
 ►**M7**
@@ -1896,6 +1910,7 @@ Offentlig tilgang til opplysninger
 ◄**M7**
 
 ### [Kapittel](forskrift/2015-05-06-455/kapvii) VII
+
 Emballering, merking og reklame for plantevernmidler og hjelpestoffer
 
 ### Artikkel 64. Emballering og presentasjon
@@ -1937,6 +1952,7 @@ Bare når det gjelder plantevernmidler med lav risiko skal begrepet «godkjent s
 6\. Reklame- og markedsføringsmateriellet skal rette oppmerksomheten mot relevante advarselssetninger og symboler på merkingen.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapviii) VIII
+
 Kontroller
 
 ### Artikkel 67. Registrering
@@ -1966,6 +1982,7 @@ Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en rapp
 ►**M3** – – – ►**M3**
 
 ### [Kapittel](forskrift/2015-05-06-455/kapix) IX
+
 Nødssituasjoner
 
 ### Artikkel 69. Nødtiltak
@@ -1987,6 +2004,7 @@ De tiltakene som er truffet, skal så snart som mulig og senest etter ti virkeda
 3\. Medlemsstatene kan opprettholde de midlertidige nasjonale vernetiltakene til fellesskapstiltakene er vedtatt.
 
 ### [Kapittel X](forskrift/2015-05-06-455/kapx)
+
 Administrative og finansielle bestemmelser
 
 ### Artikkel 72. Sanksjoner
@@ -2085,6 +2103,7 @@ Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468)
 Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468) skal være henholdsvis to måneder, én måned og to måneder.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapxi) XI
+
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 80. Overgangstiltak
@@ -2174,6 +2193,7 @@ Utferdiget i Strasbourg, 21. oktober 2009.
 ►**M1**
 
 ### Vedlegg I
+
 Fastsettelse av soner for godkjenning av plantevernmidler som nevnt i artikkel 3 nr. 17
 
 *Sone A – nord*
@@ -2197,6 +2217,7 @@ Bulgaria, Hellas, Spania, Frankrike, Italia, Kroatia, Kypros, Malta, Portugal
 ◄ **M1**
 
 ### Vedlegg II
+
 Framgangsmåte og kriterier for godkjenning av aktive stoffer, beskyttende midler og synergister i samsvar med [kapittel II](forskrift/2015-05-06-455/kapii)
 
 1.*Vurdering*
@@ -2574,6 +2595,7 @@ Et aktivt stoff som er et virus, kan anses som et aktivt stoff med lav risiko, u
 ◄**M4**
 
 ### Vedlegg III
+
 ►**M8**
 Liste over formuleringsstoffer som ikke er godkjent for bruk i plantevernmidler som nevnt i artikkel 27
 
@@ -2582,6 +2604,7 @@ Liste over formuleringsstoffer som ikke er godkjent for bruk i plantevernmidler 
 ◄**M8**
 
 ### Vedlegg IV
+
 Sammenlignende vurdering i henhold til artikkel 50
 
 1. *Vilkår for sammenlignende vurdering*
@@ -2607,6 +2630,7 @@ Sammenlignende vurdering i henhold til artikkel 50
 Ved den sammenlignende vurderingen skal det tas hensyn til godkjente bruksområder av mindre betydning.
 
 ### Vedlegg V
+
 Opphevede direktiver med endringer som nevnt i artikkel 83
 
 *A. Direktiv [91/414/EØF](eu/31991l0414*)*

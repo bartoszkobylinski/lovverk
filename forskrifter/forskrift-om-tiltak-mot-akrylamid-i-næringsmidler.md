@@ -15,7 +15,7 @@ xml_hash: "7a1611f8ba830b9d622dcfe46f9e18d78b0355a249c48c17713727d0f3ab079f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,6 +43,7 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 ► **B** Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158) av 20. november 2017
 
 ### Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158)
+
 av 20. november 2017
 om fastsettelse av begrensende tiltak og referansenivåer for å redusere forekomsten av akrylamid i næringsmidler
 
@@ -162,6 +163,7 @@ Utferdiget i Brussel 20. november 2017.
 |  | *President* |
 
 ### VEDLEGG I
+
 BEGRENSENDE TILTAK NEVNT I ARTIKKEL 2 NR. 1
 
 Dersom de begrensende tiltakene nevnt i dette vedlegg omfatter bruk av tilsetningsstoffer i næringsmidler og andre stoffer, skal tilsetningsstoffene i næringsmidler og andre stoffer brukes i samsvar med bestemmelsene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332)[^8] og (EF) [nr. 1333/2008](eu/32008r1333)[^9] samt kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231).[^10]
@@ -500,6 +502,7 @@ De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gj
 ### VEDLEGG II
 
 ### DEL A
+
 BEGRENSENDE TILTAK SOM SKAL IVERKSETTES AV DRIFTSANSVARLIGE FOR NÆRINGSMIDDELFORETAK SOM NEVNT I ARTIKKEL 2 NR. 2
 
 1. De driftsansvarlige som produserer potetprodukter, skal iverksette følgende begrensende tiltak:
@@ -538,6 +541,7 @@ BEGRENSENDE TILTAK SOM SKAL IVERKSETTES AV DRIFTSANSVARLIGE FOR NÆRINGSMIDDELFO
    Det ovennevnte fargekartet som gir veiledning om den optimale kombinasjonen av farge og lavt akrylamidinnhold, skal finnes synlig i de lokalene der personale tilbereder de særlige næringsmidlene.
 
 ### DEL B
+
 BEGRENSENDE TILTAK SOM SKAL IVERKSETTES AV DRIFTSANSVARLIGE FOR NÆRINGSMIDDELFORETAK SOM NEVNT I ARTIKKEL 2 NR. 3, I TILLEGG TIL DE BEGRENSENDE TILTAKENE NEVNT I DEL A
 
 1. *Generelt krav*
@@ -558,6 +562,7 @@ BEGRENSENDE TILTAK SOM SKAL IVERKSETTES AV DRIFTSANSVARLIGE FOR NÆRINGSMIDDELFO
    De driftsansvarlige skal sikre at akrylamidinnholdet i levert kaffe er lavere enn referanseverdien angitt i vedlegg IV, men idet det tas hensyn til at dette ikke alltid er mulig for alle kaffe typer, avhengig av blandingens og brenningens egenskaper. I disse tilfellene skal leverandøren framlegge en begrunnelse.
 
 ### VEDLEGG III
+
 KRAV TIL PRØVETAKING OG ANALYSE FOR OVERVÅKINGEN NEVNT I ARTIKKEL 4
 
 I.*Prøvetaking*
@@ -604,6 +609,7 @@ De driftsansvarlige skal på anmodning gjøre analyseresultatene fra den årlige
 15 M. Thompson og R. Wood (red.): Pure and Applied Chemistry, 1995, 67, s. 649–666.
 
 ### VEDLEGG IV
+
 REFERANSENIVÅER NEVNT I ARTIKKEL 1 NR. 1
 
 Referansenivåene for forekomsten av akrylamid i næringsmidler som nevnt i artikkel 1 nr. 1, er som følger:

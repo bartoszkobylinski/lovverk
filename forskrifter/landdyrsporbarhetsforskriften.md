@@ -15,7 +15,7 @@ xml_hash: "6032b6fb9cbacb28fc97b21c6e1ca4f96c2308b1f58d924a339b6707da650d95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -568,6 +568,7 @@ som endret ved:
 ►**M2** Forordning [(EU) 2021/2168](eu/32021r2168)
 
 ### Delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)
+
 av 28. juni 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for anlegg for landdyr og rugerier, samt sporing av visse holdte landdyr og rugeegg
 
@@ -683,6 +684,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
@@ -824,9 +826,11 @@ I denne forordningen menes med
 37. «flokk» alt fjørfe eller alle fugler i fangenskap med samme helsestatus som holdes i samme lokale eller samme innhegning, og som utgjør en epidemiologisk enhet; for fjørfe som holdes innendørs, omfatter dette alle fugler som deler samme luftrom.
 
 ### DEL II
+
 REGISTRERING, GODKJENNING, REGISTRE OG JOURNALFØRING
 
 ### AVDELING I
+
 VEDKOMMENDE MYNDIGHETS REGISTRERING OG GODKJENNING AV TRANSPORTØRER OG DRIFTSANSVARLIGE FOR ANLEGG
 
 ###### KAPITTEL 1
@@ -1017,6 +1021,7 @@ Driftsansvarlige for avgrensede anlegg for landdyr nevnt i artikkel 16 skal
    2. gjennomgå planen for sykdomsovervåking nevnt i del 9 nr. 2 bokstav a) i vedlegg I når det kreves, og minst én gang i året.
 
 ### AVDELING II
+
 REGISTRE OVER REGISTRERTE OG GODKJENTE TRANSPORTØRER OG DRIFTSANSVARLIGE FOR ANLEGG SOM SKAL FØRES AV VEDKOMMENDE MYNDIGHET
 
 ###### KAPITTEL 1
@@ -1094,6 +1099,7 @@ Vedkommende myndighet skal i sitt register over godkjente anlegg nevnt i kapitte
 11. Datoen for opphør av virksomheten dersom den driftsansvarlige har underrettet vedkommende myndighet om dette.
 
 ### AVDELING III
+
 DRIFTSANSVARLIGES JOURNALFØRINGSPLIKT UTOVER PLIKTEN FASTSATT I FORORDNING (EU) 2016/429
 
 ###### KAPITTEL 1
@@ -1288,9 +1294,11 @@ Journalføringsplikt for driftsansvarlige for oppsamlingssentraler for hunder, k
 Driftsansvarlige for godkjente oppsamlingssentraler for hunder, katter og ildrer skal journalføre kjennemerket eller registreringsnummeret på transportmiddelet som laster eller losser dyrene samt transportørens unike registreringsnummer dersom det er tilgjengelig.
 
 ### DEL III
+
 SPORING AV HOLDTE LANDDYR OG RUGEEGG
 
 ### AVDELING I
+
 SPORING AV HOLDT STORFE
 
 ###### KAPITTEL 1
@@ -1405,6 +1413,7 @@ Identifikasjonsdokumentet for holdt storfe fastsatt i artikkel 112 bokstav b) i 
 4. Utstedelsesdatoen.
 
 ### AVDELING II
+
 SPORING AV HOLDTE SAUER OG GEITER
 
 ###### KAPITTEL 1
@@ -1560,6 +1569,7 @@ Vedkommende myndighet kan gi unntak fra kravene i artikkel 50 bokstav a) for dri
 4. De driftsansvarlige for anlegg der dyrene skal samles opp, skal ha innført framgangsmåter som sikrer at opplysningene nevnt i bokstav b) journalføres i databasen nevnt i artikkel 49.
 
 ### AVDELING III
+
 SPORING AV HOLDTE SVIN
 
 ###### KAPITTEL 1
@@ -1667,6 +1677,7 @@ Transportdokumenter som fastsatt i artikkel 115 bokstav b) i forordning [(EU) 20
 3. Transportmiddelets kjennemerke eller registreringsnummer.
 
 ### AVDELING IV
+
 SPORING AV HOLDTE HESTEDYR
 
 ###### KAPITTEL 1
@@ -1880,6 +1891,7 @@ Vedkommende myndighets plikter med hensyn til duplikater, erstatninger og nye id
 2. i erstatningen av det enkelte identifikasjonsdokumentet som er gyldig i hele dyrets levetid, føre inn den unike koden hestedyret ble tildelt da dokumentet ble utstedt.
 
 ### AVDELING V
+
 SPORING AV HOLDTE HUNDER, KATTER OG ILDRER, HOLDTE DYR AV KAMELFAMILIEN OG HOLDTE HJORTEDYR, HOLDTE FUGLER I FANGENSKAP OG HOLDTE LANDDYR I OMREISENDE SIRKUS OG DYREFORESTILLINGER
 
 ###### KAPITTEL 1
@@ -2058,6 +2070,7 @@ Vedkommende myndighets plikter med hensyn til identifikasjonsdokumenter for hold
 8. Identifikasjonsdokuments utstedelsesdato.
 
 ### AVDELING VI
+
 SPORING AV RUGEEGG
 
 ►**M2**
@@ -2075,6 +2088,7 @@ Driftsansvarliges plikter med hensyn til rugeeggs sporbarhet
 ◄**M2**
 
 ### AVDELING VII
+
 SPORING AV HOLDTE LANDDYR ETER INNFØRSEL TIL UNIONEN
 
 ###### Artikkel 81
@@ -2100,6 +2114,7 @@ Driftsansvarliges plikter med hensyn til identifikasjonsmerker og -metoder for h
 Driftsansvarlige for holdte hestedyr skal sikre at hestedyrene etter innførsel til Unionen og forutsatt at de forblir i Unionen, identifiseres i samsvar med artikkel 58 etter at tollprosedyren som definert i artikkel 5 nr. 16 bokstav a) i forordning [(EU) nr. 952/2013](eu/32013r0952) ►**EØS**, eller tollprosedyren for frigivelse av dyrene for fri omsetning i samsvar med norske tollprosedyrer, ◄**EØS** er avsluttet.
 
 ### DEL IV
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 84. Oppheving
@@ -2168,9 +2183,11 @@ Utferdiget i Brussel 28. juni 2019.
 |  | *President* |
 
 ### VEDLEGG I
+
 KRAV TIL GODKJENNING AV ANLEGG SOM NEVNT I DEL II AVDELING I KAPITTEL 2, 3 OG 4
 
 ### DEL 1
+
 Krav til godkjenning av anlegg for oppsamling av hov- og klovdyr nevnt i artikkel 5
 
 ►**M2**
@@ -2211,6 +2228,7 @@ Krav til godkjenning av anlegg for oppsamling av hov- og klovdyr nevnt i artikke
 2. Den driftsansvarlige skal sikre at den offentlige veterinæren på anmodning får bistand til å utføre tilsynsoppgavene nevnt i nr. 4 bokstav a) i).
 
 ### DEL 2
+
 Krav til godkjenning av anlegg for oppsamling av fjørfe nevnt i artikkel 6
 
 1\. Følgende krav gjelder isolasjon og andre biosikkerhetstiltak i anlegg for oppsamling av fjørfe som nevnt i artikkel 6:
@@ -2248,6 +2266,7 @@ Krav til godkjenning av anlegg for oppsamling av fjørfe nevnt i artikkel 6
 2. Den driftsansvarlige skal sikre at den offentlige veterinæren på anmodning får bistand til å utføre tilsynsoppgavene nevnt i nr. 4 bokstav a) i).
 
 ### DEL 3
+
 Krav til godkjenning av rugerier nevnt i artikkel 7
 
 1\. Følgende krav gjelder biosikkerhetstiltak i rugerier som nevnt i artikkel 7:
@@ -2297,6 +2316,7 @@ Krav til godkjenning av rugerier nevnt i artikkel 7
 2. Den driftsansvarlige skal sikre at den offentlige veterinæren på anmodning får bistand til å utføre tilsynsoppgavene nevnt i nr. 5 bokstav a) i).
 
 ### DEL 4
+
 Krav til godkjenning av anlegg som holder fjørfe nevnt i artikkel 8
 
 1\. Følgende krav gjelder biosikkerhetstiltak i anlegg som holder fjørfe, som nevnt i artikkel 8:
@@ -2334,6 +2354,7 @@ Krav til godkjenning av anlegg som holder fjørfe nevnt i artikkel 8
 6. Anlegget skal ha egnet utstyr som passer til den typen produksjon som finner sted, som er tilgjengelig for rengjøring og desinfisering av lokaler, utstyr og transportmidler på det mest egnede stedet i anlegget.
 
 ### DEL 5
+
 Krav til godkjenning av oppsamlingssentraler for hunder, katter og ildrer og av dyremottak for slike dyr, nevnt i henholdsvis artikkel 10 og 11
 
 1\. Følgende krav gjelder isolasjon og andre biosikkerhetstiltak i oppsamlingssentraler for hunder, katter og ildrer som nevnt i artikkel 10:
@@ -2358,6 +2379,7 @@ Krav til godkjenning av oppsamlingssentraler for hunder, katter og ildrer og av 
 4. Det skal finnes egnet utstyr til rengjøring og desinfisering av lokaler, redskaper og transportmidler.
 
 ### DEL 6
+
 Krav til godkjenning av kontrollstasjoner nevnt i artikkel 12
 
 1\. Følgende krav gjelder isolasjon og andre biosikkerhetstiltak på kontrollstasjoner som nevnt i artikkel 12:
@@ -2382,6 +2404,7 @@ Krav til godkjenning av kontrollstasjoner nevnt i artikkel 12
 7. Anlegget skal ha et egnet system for oppsamling av spillvann.
 
 ### DEL 7
+
 Krav til godkjenning av produksjonsanlegg for humler som er isolert fra det omgivende miljøet, nevnt i artikkel 13
 
 1\. Følgende krav gjelder biosikkerhets- og overvåkingstiltak i produksjonsanlegg for humler som er isolert fra det omgivende miljøet, som nevnt i artikkel 13:
@@ -2395,6 +2418,7 @@ Krav til godkjenning av produksjonsanlegg for humler som er isolert fra det omgi
 3. Oppbevaringen og håndteringen av pollen i lokalene skal foregå isolert fra humlene gjennom hele produksjonen av humler fram til de fôres med det.
 
 ### DEL 8
+
 Krav til godkjenning av karanteneanlegg for andre holdte landdyr enn primater nevnt i artikkel 14
 
 1\. Følgende krav gjelder karantene, isolasjon og andre biosikkerhetstiltak i karanteneanlegg for andre holdte landdyr enn primater som nevnt i artikkel 14:
@@ -2431,6 +2455,7 @@ Krav til godkjenning av karanteneanlegg for andre holdte landdyr enn primater ne
    5. være bygd slik at gulv, vegger og alt annet materiale eller utstyr lett kan rengjøres og desinfiseres.
 
 ### DEL 9
+
 Krav til godkjenning av avgrensede anlegg for holdte landdyr nevnt i artikkel 16
 
 1\. Følgende krav gjelder karantene, isolasjon og biosikkerhetstiltak i avgrensede anlegg for holdte landdyr som nevnt i artikkel 16:
@@ -2455,9 +2480,11 @@ Krav til godkjenning av avgrensede anlegg for holdte landdyr nevnt i artikkel 16
    2. gulv, vegger og alt annet materiale eller utstyr lett kan rengjøres og desinfiseres.
 
 ### VEDLEGG II
+
 PROGRAM FOR MIKROBIOLOGISK KONTROLL I RUGERIER OG PROGRAMMER FOR SYKDOMSOVERVÅKING I ANLEGG SOM HOLDER FJØRFE OG I RUGERIER
 
 ### DEL 1
+
 Program for mikrobiologisk kontroll i rugerier som nevnt i artikkel 7
 
 Programmet for mikrobiologisk kontroll med sikte på hygienekontroll skal omfatte følgende:
@@ -2466,6 +2493,7 @@ Programmet for mikrobiologisk kontroll med sikte på hygienekontroll skal omfatt
 2. Det skal tas prøver minst hver sjette uke, og hver prøvetaking skal omfatte 60 prøver.
 
 ### DEL 2
+
 Programmer for sykdomsovervåking i rugerier som nevnt i artikkel 7, og i anlegg som holder fjørfe som nevnt i artikkel 8
 
 1\. Målet med programmene for sykdomsovervåking
@@ -2595,11 +2623,13 @@ Programmene for sykdomsovervåking skal minst omfatte sykdomsagensene og de oppf
 2 Det finnes på nåværende tidspunkt ingen test som kan skille mellom reaksjon på infeksjon med Salmonella Pullorum og Salmonella Gallinarum og reaksjon på vaksinasjon for denne serotypen.
 
 ### DEL 3
+
 Tilleggsopplysninger om diagnostiseringsmetodene
 
 Laboratoriene som er utpekt av vedkommende myndighet til å foreta testing i henhold til del 1 og 2 i dette vedlegget, kan finne en mer detaljert beskrivelse av diagnostiseringsmetodene i 2018-utgaven av Verdens dyrehelseorganisasjons landdyrhåndbok.
 
 ### VEDLEGG III
+
 IDENTIFIKASJONSMERKER FOR HOLDTE LANDDYR
 
 Identifikasjonsmerkene for holdte landdyr er følgende:
@@ -2634,6 +2664,7 @@ som endret ved
 ►**M1** Forordning [(EU) 2021/1064](eu/32021r1064)
 
 ### Kommisjonens gjennomføringsforordning (EU) 2021/520
+
 av 24. mars 2021
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til sporing av visse holdte landdyr
 
@@ -2674,6 +2705,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL 1
+
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
@@ -2701,6 +2733,7 @@ Denne forordningen fastsetter regler for medlemsstatene[^\*] om:
 I denne forordningen får definisjonene i artikkel 2 i delegert forordning [(EU) 2019/2035](eu/32019r2035) anvendelse.
 
 ### KAPITTEL 2
+
 DATABASER
 
 ### Artikkel 3. Frister og prosedyrer for oversending av opplysninger fra driftsansvarlige for registrering av holdte dyr av storfe, sau, geit og svin
@@ -2742,6 +2775,7 @@ Medlemsstatene skal gjennomføre hensiktsmessige tekniske og organisatoriske til
 2\. Kommisjonen skal på sitt nettsted utarbeide og offentliggjøre en liste over medlemsstater som utveksler data i identifikasjonsdokumenter gjennom dette systemet.
 
 ### KAPITTEL 3
+
 IDENTIFIKASJONSMERKER
 
 ### Artikkel 9. Tekniske spesifikasjoner, formater og utforming av identifikasjonsmerker for holdte dyr av storfe, sau, geit, svin og kamelfamilien og holdte hjortedyr
@@ -2863,6 +2897,7 @@ Vedkommende myndighet kan bare tillate at driftsansvarlige fjerner eller endrer 
 4\. Når identifikasjonskoden for holdte dyr av storfe, sau, geit og svin som vises på identifikasjonsmerkene nevnt i bokstav a) og b) i vedlegg III til delegert forordning [(EU) 2019/2035](eu/32019r2035), ikke kan gjengis på en elektronisk identifikator på grunn av tekniske begrensninger, skal vedkommende myndighet bare tillate at disse dyrene får påsatt en ny elektronisk identifikator som viser en ny identifikasjonskode, dersom begge identifikasjonskodene er registrert i databasene nevnt i artikkel 109 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).
 
 ### KAPITTEL 4
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 20. Overgangstiltak for godkjenning av identifikasjonsmerker
@@ -2886,6 +2921,7 @@ Utferdiget i Brussel 24. mars 2021.
 | *President* |  |
 
 ### VEDLEGG I
+
 Tekniske spesifikasjoner for informasjonsformater i databaser over holdte dyr av storfe, sau, geit og svin
 
 | *Type opplysninger* | *Beskrivelse* | *Format* |
@@ -2906,6 +2942,7 @@ Tekniske spesifikasjoner for informasjonsformater i databaser over holdte dyr av
 ### VEDLEGG II
 
 ### DEL 1
+
 Tekniske spesifikasjoner for identifikasjonsmerker for holdte dyr av storfe, sau, geit, svin og kamelfamilien, holdte hjortedyr og holdte fugler av papegøyefamilien
 
 1. Identifikasjonsmerkene nevnt i bokstav a), b), c), f) og h) i vedlegg III til delegert forordning [(EU) 2019/2035](eu/32019r2035) for holdte dyr av storfe, sau, geit, svin og kamelfamilien, holdte hjortedyr og holdte fugler av papegøyefamilien skal være
@@ -2924,6 +2961,7 @@ Tekniske spesifikasjoner for identifikasjonsmerker for holdte dyr av storfe, sau
 3. Identifikasjonsmerkene nevnt i nr. 1 kan inneholde andre opplysninger dersom vedkommende myndighet har gitt tillatelse til det, og forutsatt at identifikasjonsmerkene oppfyller kravene i nr. 2.
 
 ### DEL 2
+
 Tekniske spesifikasjoner for elektroniske identifikatorer for holdte dyr av storfe, sau, geit, svin og kamelfamilien og holdte hjortedyr
 
 1. De elektroniske identifikatorene nevnt i bokstav c)–f) i vedlegg III til delegert forordning [(EU) 2019/2035](eu/32019r2035) skal vise den første delen av dyrets identifikasjonskode i form av den tresifrede landkoden og den andre delen av dyrenes identifikasjonskode i samsvar med artikkel 12.
@@ -2958,6 +2996,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av grunnrettsakten, forordni
 ►**EØS** Tilpasning som følge av [EØS-avtalen](lov/1992-11-27-109/eøsl) vedlegg 1, JCD 361/2021
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2021/963](eu/32021*0963)
+
 av 10. juni 2021
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429), [(EU) 2016/1012](eu/32016r1012) og (EU) 2019/6 med hensyn til identifikasjon og registrering av hestedyr og om fastsettelse av maler for identifikasjonsdokumenter for disse dyrene
 
@@ -3088,6 +3127,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL 1
+
 ALMINNELIGE REGLER
 
 ### Artikkel 1. Formål og virkeområde
@@ -3160,9 +3200,11 @@ I denne forordningen menes med
 4. Søknader om endring av identifikasjonsopplysninger i eksisterende identifikasjonsdokumenter som er gyldige i hele dyrets levetid, som fastsatt i artikkel 30.
 
 ### DEL 2
+
 ENSARTET ANVENDELSE AV IDENTIFIKASJONSSYSTEMET FOR HESTEDYR
 
 ### KAPITTEL I
+
 Ensartede regler for den elektroniske databasen som er opprettet for hestedyr
 
 ###### Artikkel 4
@@ -3237,6 +3279,7 @@ Frister og plikter for registrering av hestedyr i den elektroniske databasen
 Driftsansvarlige med ansvar for hestedyr skal sikre at opplysningene som kreves i samsvar med artikkel 64 bokstav b) og c) i delegert forordning [(EU) 2019/2035](eu/32019r2035), oversendes til vedkommende myndighet innen en frist som fastsettes av vedkommende myndighet, og som ikke skal overstige sju dager etter datoen da det i samsvar med artikkel 102 nr. 1 bokstav b) ii) i forordning [(EU) 2016/429](eu/32016r0429) ble registrert at hestedyret vanligvis oppholder seg i den driftsansvarliges anlegg.
 
 ### KAPITTEL II
+
 Tekniske spesifikasjoner og prosedyrer, formater, utforming og praktiske regler for identifikasjonsmerker og -metoder
 
 ###### Avsnitt 1
@@ -3341,6 +3384,7 @@ Godkjenning av alternative identifikasjonsmetoder
 6\. Når det brukes en alternativ metode for identitetskontroll, som nevnt i nr. 1, skal den driftsansvarlige skaffe til veie de hjelpemidlene som trengs for å få tilgang til disse identifikasjonsopplysningene, eller eventuelt bære kostnadene eller konsekvensene av forsinkelser i forbindelse med kontroll av hestedyrets identitet.
 
 ### KAPITTEL III
+
 Tekniske spesifikasjoner, formater og praktiske regler for identifikasjonsdokumentet som er gyldig i hele dyrets levetid
 
 ###### Avsnitt 1
@@ -3594,6 +3638,7 @@ Plikter med hensyn til håndtering av identifikasjonsdokumenter for å sikre at 
 2\. Avlslagene, organisasjonene og lagene som har utstedt identifikasjonsdokumenter som er gyldige i hele dyrets levetid, i samsvar med artikkel 22 nr. 2 eller 3, skal for hvert identifikasjonsdokument som de har utstedt, underrette vedkommende myndighet, eller eventuelt organet med delegerte oppgaver, som har utlevert dokumentet til den driftsansvarlige i samsvar med artikkel 22 nr. 4, om alle endringer i avsnitt I–III i malen for identifikasjonsdokument for hestedyr angitt i vedlegg II del 1.
 
 ### KAPITTEL IV
+
 Praktisk anvendelse av unntak fra kravene til identifikasjon og registrering av holdte hestedyr
 
 ###### Artikkel 31
@@ -3605,6 +3650,7 @@ Hestedyr som er delvis viltlevende
 2\. Dersom hestedyr som er delvis viltlevende, fjernes fra populasjonen av hestedyr for å kunne transporteres til et slakteri, kan vedkommende myndighet som unntak fra artikkel 43 nr. 1 tillate forflytning til et slakteri i denne medlemsstaten i samsvar med unntaket fastsatt i artikkel 43 nr. 2, eller den skal sikre at disse dyrene kan spores uavbrutt ved hjelp av tilsvarende tiltak.
 
 ### KAPITTEL V
+
 Regler for forflytning i samsvar med unntaket fra gyldighetstiden for helsesertifikatet fastsatt i artikkel 92 nr. 2 i delegert forordning [(EU) 2020/688](eu/32020r0688)
 
 ###### Artikkel 32
@@ -3644,6 +3690,7 @@ Utstedelse av lisensen nevnt i artikkel 92 nr. 2 bokstav b) i delegert forordnin
 4\. Utstedelsen av en lisens skal registreres i den elektroniske databasen med henvisning til hestedyrets unike kode.
 
 ### KAPITTEL VI
+
 Regler for bruk av identifikasjonsdokumentet som er gyldig i hele dyrets levetid, til idrettsformål og ved internasjonal forflytning av konkurransehester
 
 ###### Artikkel 34
@@ -3674,6 +3721,7 @@ Utfylling av opplysninger om vaksinasjon og helseundersøkelser i avsnitt VII, V
 2\. Dersom vedkommende myndighet har godkjent bruk av smartkort eller digitale applikasjoner på bærbare elektroniske innretninger i samsvar med artikkel 20 nr. 2, skal opplysningene i nr. 1 bokstav a) og b) også inngå i disse smartkortene eller digitale applikasjonene på bærbare elektroniske innretninger.
 
 ### KAPITTEL VII
+
 Identifikasjon av hestedyr som er innført til Unionen fra tredjeland
 
 ###### Artikkel 36
@@ -3703,6 +3751,7 @@ Søknad om identifikasjonsdokumenter for hestedyr som er innført til Unionen og
 3\. Dersom det eksisterende identifikasjonsdokumentet nevnt i artikkel 36 ikke kan endres slik at det oppfyller kravene i artikkel 17, skal det ikke anses som gyldig for identifikasjon i samsvar med denne forordningen, og hestedyret skal identifiseres ved hjelp av et nytt identifikasjonsdokument som er gyldig i hele dyrets levetid, og som utstedes i samsvar med artikkel 21 nr. 3 på grunnlag av opplysningene i det framlagte identifikasjonsdokumentet som fulgte hestedyret ved innførselen til Unionen.
 
 ### DEL 3
+
 DOKUMENTASJON AV ET HESTEDYRS STATUS SOM BEREGNET PÅ ELLER UTELUKKET FRA SLAKTING TIL KONSUM
 
 ### Artikkel 38. Utelukkelse fra og utsettelse av slakting av et hestedyr til konsum
@@ -3806,6 +3855,7 @@ Den ansvarlige veterinæren skal angi datoen for siste foreskrevne tilførsel av
 Avsnitt II del IV i malen for identifikasjonsdokument for hestedyr angitt i del 1 i vedlegg II til denne forordningen skal brukes til å føre inn opplysninger om bruk i samsvar med artikkel 4 i direktiv 96/22/EF av et veterinærpreparat som inneholder allyltrenbolon eller beta-agonister i tilfellet nevnt i artikkel 7 nr. 1 annet ledd i nevnte direktiv.
 
 ### DEL 4
+
 AVLSSERTIFIKATER FOR RENRASEDE AVLSDYR AV HEST
 
 ### Artikkel 45. Regler for avlssertifikatet som en integrert del av identifikasjonsdokumentet som er gyldig i hele dyrets levetid, for renrasede avlsdyr av hest
@@ -3825,6 +3875,7 @@ AVLSSERTIFIKATER FOR RENRASEDE AVLSDYR AV HEST
 Den ekstra siden skal ha et format som ikke kan forveksles med avsnitt V i malen for identifikasjonsdokument for hestedyr angitt i del 1 i vedlegg II til denne forordningen, og skal ikke gripe inn i rekkefølgen på avsnittene i nevnte forordning.
 
 ### DEL 5
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 46. Overgangstiltak i forbindelse med opphevingen av gjennomføringsforordning (EU) 2015/262
@@ -3859,6 +3910,7 @@ Utferdiget i Brussel 10. juni 2021.
 ### VEDLEGG I
 
 ### DEL 1
+
 Tekniske spesifikasjoner for elektroniske identifikasjonsmerker for hestedyr
 
 1. Dersom de anvendes på hestedyr, skal de elektroniske identifikasjonsmerkene som er nevnt i bokstav c), e) og f) i vedlegg III til delegert forordning [(EU) 2019/2035](eu/32019r2035) («de elektroniske identifikasjonsmerkene»), vise
@@ -3879,6 +3931,7 @@ Tekniske spesifikasjoner for elektroniske identifikasjonsmerker for hestedyr
    2. oppfyllelse av minstekrav til ytelse når det gjelder leseavstander nevnt i nr. 3 i denne delen, etter metoden nevnt i punkt 7 i ISO-standard 24631-3.
 
 ### DEL 2
+
 Tekniske spesifikasjoner for identifikasjonsmerker for hestedyr
 
 1. Identifikasjonsmerkene for hestedyr som er nevnt i bokstav a), b), c) og f) i vedlegg III til delegert forordning [(EU) 2019/2035](eu/32019r2035), skal være
@@ -3898,6 +3951,7 @@ Tekniske spesifikasjoner for identifikasjonsmerker for hestedyr
 ### VEDLEGG II
 
 ### DEL 1
+
 Innholdet i identifikasjonsdokumentet som er gyldig i hele dyrets levetid
 
 ###### DOCUMENT D'IDENTIFICATION DES ÉQUIDÉS
@@ -4165,6 +4219,7 @@ Omrisset av hver av de fire kastanjene skal tegnes i den relevante ruten for all
 |  |  |
 
 ### DEL 2
+
 Tilleggskrav til ett enkelt identifikasjonsdokument for hestedyr som er gyldig i hele dyrets levetid
 
 Ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, skal
@@ -4180,6 +4235,7 @@ Ett enkelt identifikasjonsdokument som er gyldig i hele dyrets levetid, skal
 ### VEDLEGG III
 
 ### DEL 1
+
 Opplysninger lagret på plastkort eller smartkort
 
 Plastkortet eller smartkortet skal inneholde minst følgende opplysninger:
@@ -4198,6 +4254,7 @@ Plastkortet eller smartkortet skal inneholde minst følgende opplysninger:
    - Foto av hestedyret (valgfritt).
 
 ### DEL 2
+
 Plastkortenes og smartkortenes fysiske egenskaper
 
 Plastkortene og smartkortene skal ha følgende fysiske egenskaper:
@@ -4207,6 +4264,7 @@ Plastkortene og smartkortene skal ha følgende fysiske egenskaper:
 - Opplysningene på kortets for- og bakside skal kunne leses med det blotte øye, og tegnstørrelsen skal være minst 5 punkter.
 
 ### VEDLEGG IV
+
 Mal for det midlertidige identifikasjonsdokumentet nevnt i artikkel 24
 
 For å lese vedlegg IV se her: [(pdf)](static/SF/sf-20220407-0637-32021r0963-v4-01-01.pdf)
@@ -4224,6 +4282,7 @@ som endret ved:
 ►**M1** Forordning [(EU) 2022/524](eu/32022r0524)
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2021/577
+
 av 29. januar 2021
 om utfylling av europaparlaments- og rådsforordning (EU) 2019/6 med hensyn til innholdet i og formatet på informasjonen som er nødvendig for å anvende artikkel 112 nr. 4 og artikkel 115 nr. 5, og som skal inngå i identifikasjonsdokumentet som er gyldig i hele dyrets levetid, nevnt i artikkel 8 nr. 4 i den forordningen
 

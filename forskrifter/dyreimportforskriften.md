@@ -16,7 +16,7 @@ xml_hash: "7fcfcfe71cfe97a84f0538b4694bae3daf5b6ebafb6b10447e175330d4ac4379"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -189,6 +189,7 @@ som endret ved:
 - ►**M4** Forordning [(EU) 2023/119](eu/32023r0119) av 9. november 2022
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2020/692](eu/32020r0692)
+
 av 30. januar 2020
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse
 
@@ -329,9 +330,11 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### DEL I
+
 ALMINNELIGE REGLER
 
 ### AVDELING 1
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ###### Artikkel 1
@@ -484,6 +487,7 @@ Videre menes med
 16 Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009R1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
 
 ### AVDELING 2
+
 ALMINNELIGE KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN OG FORFLYTNING OG HÅNDTERING ETTER INNFØRSEL AV FORSENDELSER AV DYR, AVLSMATERIALE OG PRODUKTER AV ANIMALSK OPPRINNELSE
 
 ###### Artikkel 3
@@ -652,9 +656,11 @@ Fravær av sykdom på opprinnelsesstedet og særlige vilkår
 2. skal Unionen på listen spesifikt ha fastsatt disse særlige vilkårene for det listeførte tredjelandet eller territoriet eller en sone eller et segment i disse, og for den bestemte arten og kategorien av dyr, avlsmateriale og produkter av animalsk opprinnelse.
 
 ### DEL II
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV HOLDTE LANDDYR NEVNT I ARTIKKEL 3 OG 5
 
 ### AVDELING 1
+
 ALMINNELIGE KRAV TIL DYREHELSE FOR HOLDTE LANDDYR
 
 ###### Artikkel 11
@@ -823,6 +829,7 @@ Forflytning og håndtering av landdyr etter innførsel
 19 Delegert kommisjonsforordning [(EU) 2019/1666](eu/32019r1666) av 24. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til vilkårene for overvåking av transport og ankomst av forsendelser av visse varer fra grensekontrollstasjonen på ankomststedet til virksomheten på bestemmelsesstedet i Unionen (EUT L 255 av 4.10.2019, s. 1).
 
 ### AVDELING 2
+
 KRAV TIL DYREHELSE FOR HOV- OG KLOVDYR
 
 ###### KAPITTEL 1
@@ -1148,6 +1155,7 @@ Forflytning og håndtering av hov- og klovdyr beregnet på lukkede anlegg etter 
 Etter innførsel til Unionen skal hov- og klovdyr som kommer fra et lukket anlegg i et tredjeland eller territorium, som nevnt i artikkel 27, oppholde seg på det lukkede bestemmelsesanlegget i et tidsrom på minst seks måneder før de kan flyttes til et annet lukket anlegg i Unionen, med mindre de eksporteres fra Unionen eller flyttes med henblikk på slakting.
 
 ### AVDELING 3
+
 KRAV TIL DYREHELSE FOR FJØRFE OG FUGLER I FANGENSKAP
 
 ###### KAPITTEL 1
@@ -1710,6 +1718,7 @@ Unntak fra kravene til dyrehelse for innførsel til Unionen av fugler i fangensk
 ◄**M2**
 
 ### AVDELING 4
+
 KRAV TIL DYREHELSE FOR HONNINGBIER OG HUMLER
 
 ###### KAPITTEL 1
@@ -1833,6 +1842,7 @@ Vedkommende myndighet i medlemsstaten der bestemmelsesstedet for forsendelser av
 3. sikre at det offisielle laboratoriet nevnt i artikkel 71 nr. 2 har innført ordninger for å destruere kubene, følgebiene og materialet etter laboratorieundersøkelsen fastsatt i nevnte bestemmelse.
 
 ### AVDELING 5
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV HUNDER, KATTER OG ILDRER
 
 ###### Artikkel 73
@@ -1931,9 +1941,11 @@ Forflytning og håndtering etter innførsel til Unionen av hunder, katter og ild
 2. når det gjelder hunder som ikke oppfyller kravene med hensyn til infestasjon med *Echinococcus multilocularis* fastsatt i artikkel 76 nr. 3, 24 timer etter behandling mot infestasjon med *Echinococcus multilocularis* i samsvar med nr. 2 i vedlegg XXI.
 
 ### DEL III
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV AVLSMATERIALE, SOM NEVNT I ARTIKKEL 3 OG 5
 
 ### AVDELING 1
+
 KRAV TIL DYREHELSE FOR AVLSMATERIALE FRA HOV- OG KLOVDYR
 
 ###### KAPITTEL 1
@@ -2209,6 +2221,7 @@ Forsendelser av avlsmateriale nevnt i artikkel 95 skal bare tillates innført ti
 2. transportert i samsvar med artikkel 84 og 85.
 
 ### AVDELING 2
+
 KRAV TIL DYREHELSE FOR RUGEEGG FRA FJØRFE OG FUGLER I FANGENSKAP
 
 ###### KAPITTEL 1
@@ -2601,6 +2614,7 @@ Driftsansvarlige i bestemmelsesanlegget skal
 ►**M4**
 
 ### AVDELING 3
+
 DYREHELSEKRAV FOR AVLSMATERIALE FRA ANDRE DYR ENN DEM SOM ER NEVNT I ARTIKKEL 1 NR. 4 BOKSTAV A) OG B), OG ER BEREGNET PÅ LUKKEDE ANLEGG
 
 ◄**M4**
@@ -2672,9 +2686,11 @@ Forsendelsene av sæd, oocytter og embryoer som det vises til i artikkel 117, sk
 ◄**M2**
 
 ### DEL IV
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV PRODUKTER AV ANIMALSK OPPRINNELSE NEVNT I ARTIKKEL 3 OG 5
 
 ### AVDELING 1
+
 ALMINNELIGE KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV PRODUKTER AV ANIMALSK OPPRINNELSE
 
 ###### Artikkel 120
@@ -2717,6 +2733,7 @@ Avsendelse av produkter av animalsk opprinnelse til Unionen
 Forsendelser av produkter av animalsk opprinnelse skal bare tillates innført til Unionen dersom slike forsendelser er sendt til sitt bestemmelsessted i Unionen atskilt fra dyr og produkter av animalsk opprinnelse som ikke oppfyller de relevante kravene til dyrehelse ved innførsel til Unionen fastsatt i denne forordningen.
 
 ### AVDELING 2
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV FERSKT KJØTT
 
 ###### KAPITTEL 1
@@ -3045,6 +3062,7 @@ Forsendelser av ferskt kjøtt fra fuglevilt skal bare tillates innført til Unio
 2. der det innenfor en radius på 10 km rundt viltbehandlingsanlegget, eventuelt innbefattet et nabolands territorium, ikke har forekommet utbrudd av høypatogen aviær influensa eller infeksjon med Newcastle disease-virus i løpet av minst de siste 30 dagene før datoen for mottak av skrottene.
 
 ### AVDELING 3
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV KJØTTPRODUKTER OG DYRETARMER
 
 ###### Artikkel 147
@@ -3119,6 +3137,7 @@ Forsendelser av dyretarmer som ikke oppfyller kravene fastsatt i artikkel 148, s
 2. Behandlingene «Dyretarm 3, «Dyretarm 4» eller «Dyretarm 5» dersom blærene og tarmene som brukes til foredling av dyretarmer, kommer fra dyr av andre arter enn dem som er nevnt i bokstav a).
 
 ### AVDELING 4
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV MELK, MELKEPRODUKTER, RÅMELK OG RÅMELKBASERTE PRODUKTER
 
 ###### KAPITTEL 1
@@ -3192,6 +3211,7 @@ Melkeprodukter som er omfattet av risikoreduserende behandling
 2. den risikoreduserende behandlingen som er fastsatt for hver enkelt opprinnelsesart, dersom blandingen av produktene finner sted etter foredling av hver ingrediens i melkeproduktet.
 
 ### AVDELING 5
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV EGG OG EGGPRODUKTER
 
 ###### KAPITTEL 1
@@ -3248,6 +3268,7 @@ Forsendelser av eggprodukter skal bare tillates innført til Unionen dersom eggp
    2. utbrudd av infeksjon med Newcastle disease-virus i løpet av de siste 30 dagene før eggenes innsamlingsdato, og eggproduktet har gjennomgått en av de risikoreduserende behandlingene av eggprodukter angitt i nr. 2 i vedlegg XXVIII.
 
 ### AVDELING 6
+
 ALMINNELIGE KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV FOREDLEDE PRODUKTER AV ANIMALSK OPPRINNELSE SOM INNGÅR I SAMMENSATTE PRODUKTER
 
 ►**M1**
@@ -3304,6 +3325,7 @@ Særlige krav til langtidsholdbare sammensatte produkter
 ◄**M4**
 
 ### AVDELING 7
+
 SÆRLIGE REGLER FOR INNFØRSEL TIL UNIONEN AV PRODUKTER AV ANIMALSK OPPRINNELSE BEREGNET PÅ PERSONLIG BRUK
 
 ###### Artikkel 164
@@ -3327,9 +3349,11 @@ Unntak fra kravene til dyrehelse for produkter av animalsk opprinnelse som er be
 2\. Den bestemte samlede tillatte mengden som en person skal kunne ha med seg og innføre til Unionen, skal ikke overstige den maksimumsmengden som er angitt for det aktuelle tredjelandet eller territoriet på listen.
 
 ### DEL V
+
 KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN, SOM NEVNT I ARTIKKEL 3 OG 5, AV AKVATISKE DYR AV LISTEFØRTE ARTER OG PRODUKTER AV ANIMALSK OPPRINNELSE FRA SLIKE DYR, OG VED FORFLYTNING OG HÅNDTERING AV DEM ETTER INNFØRSEL
 
 ### AVDELING 1
+
 ALMINNELIGE KRAV TIL DYREHELSE VED INNFØRSEL TIL UNIONEN AV AKVATISKE DYR, SOM NEVNT I ARTIKKEL 1 NR. 6, OG PRODUKTER FRA SLIKE DYR
 
 ###### Artikkel 166
@@ -3518,6 +3542,7 @@ Håndtering av akvatiske dyr og produkter av animalsk opprinnelse fra andre akva
 ►**M4**
 
 ### AVDELING 2
+
 DYREHELSEKRAV FOR Å BEGRENSE VIRKNINGEN AV VISSE ANDRE SYKDOMMER ENN DEM SOM ER NEVNT I ARTIKKEL 9 NR. 1 BOKSTAV d) I FORORDNING [(EU) 2016/429](eu/32016r0429)
 
 ◄**M4**
@@ -3541,6 +3566,7 @@ Ytterligere krav til dyrehelse for å begrense virkningen av sykdommer som medle
 5\. Håndtering etter innførsel til Unionen av de akvatiske dyrene nevnt i nr. 2 i denne artikkelen og produkter fra disse dyrene skal oppfylle vilkårene fastsatt i artikkel 174.
 
 ### DEL VI
+
 SÆRLIGE REGLER VED INNFØRSEL AV VISSE VARER, SOM NEVNT I ARTIKKEL 3 OG 5, SOM UNIONEN IKKE ER ENDELIG BESTEMMELSESSTED FOR, OG VED INNFØRSEL AV VISSE VARER SOM HAR SIN OPPRINNELSE I OG SENDES TILBAKE TIL UNIONEN
 
 ### Artikkel 176. Krav til transitt gjennom Unionen
@@ -3694,6 +3720,7 @@ SÆRLIGE REGLER VED INNFØRSEL AV VISSE VARER, SOM NEVNT I ARTIKKEL 3 OG 5, SOM 
 ►**M2**
 
 ### DEL VII
+
 OVERGANGS- OG SLUTTBESTEMMELSER
 
 ### Artikkel 182a. Overgangstiltak
@@ -3752,6 +3779,7 @@ Utferdiget i Brussel 30. januar 2020.
 |  | *President* |
 
 ### VEDLEGG I
+
 **LISTE OVER MELDINGSPLIKTIGE OG RAPPORTERINGSPLIKTIGE SYKDOMMER I EKSPORTTREDJELANDET ELLER EKSPORTTERRITORIET**
 
 1.**LANDDYR**
@@ -3835,6 +3863,7 @@ Alle de listeførte sykdommene som er nevnt i artikkel 5 i forordning [(EU) 2016
 - Infeksjon med hvitflekksyndromvirus
 
 ### VEDLEGG II
+
 MINSTEKRAV TIL OPPLYSNINGER OM SYKDOMSOVERVÅKINGSPROGRAMMER
 (nevnt i artikkel 10)
 
@@ -3856,6 +3885,7 @@ Følgende opplysninger skal som et minimum være med ved framlegging av et sykdo
 ### VEDLEGG III
 
 ### Tabell 1
+
 Krav som gjelder oppholdsperiodene for hov- og klovdyr, honningbier og humler før innførsel til Unionen
 
 | *Art og kategori av dyr* | *Minste oppholdsperiode i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse, som nevnt i artikkel 11 bokstav b) i)* | *Minste oppholdsperiode i opprinnelsesanlegget, som nevnt i artikkel 11 bokstav b) ii)* | *Minsteperiode uten kontakt med dyr med lavere helsestatus, som nevnt i artikkel 11 bokstav b) iii)* |
@@ -3870,6 +3900,7 @@ Krav som gjelder oppholdsperiodene for hov- og klovdyr, honningbier og humler f�
 | Honningbier og humler | Siden klekking | Siden klekking | Siden klekking |
 
 ### Tabell 2
+
 Krav som gjelder oppholdsperiodene for fjørfe og fugler i fangenskap før innførsel til Unionen
 
 | *Kategori av fugler* | *Oppholds-*<br>*perioden gjelder for* | *Minste oppholdsperiode i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse, som nevnt i artikkel 11 bokstav b) i)* | *Minste oppholdsperiode i opprinnelsesanlegget, som nevnt i artikkel 11 bokstav b) ii)* | *Minsteperiode uten kontakt med dyr med lavere helsestatus, som nevnt i artikkel 11 bokstav b) iii)* |
@@ -3976,6 +4007,7 @@ NA = Ikke relevant.
 | Venezuelansk encefalomyelitt hos hest | – Hestedyrene er ikke vaksinert i løpet av minst de siste 60 dagene før avsendelse til Unionen. |
 
 ### VEDLEGG V
+
 KRAV VED INNFØRSEL TIL UNIONEN MED HENSYN TIL FRAVÆR AV SYKDOM I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET ELLER EN SONE I DISSE NÅR DET GJELDER INFEKSJON MED *MYCOBACTERIUM TUBERCULOSIS*-KOMPLEKS (*M. BOVIS, M.CAPRAE, M. TUBERCULOSIS*) OG INFEKSJON MED *BRUCELLA ABORTUS, B. MELITENSIS* OG *B. SUIS*
 
 1\.
@@ -4012,6 +4044,7 @@ Sau og geit som ikke kommer fra et tredjeland eller territorium eller en sone i 
 ### VEDLEGG VI
 
 ### DEL A
+
 SÆRLIGE VILKÅR VED INNFØRSEL TIL UNIONEN AV HOV- OG KLOVDYR MED HENSYN TIL FRAVÆR AV SYKDOM I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET ELLER EN SONE I DISSE NÅR DET GJELDER INFEKSJON MED BLÅTUNGEVIRUS (SEROTYPE 1–24) I ET TIDSROM PÅ TO ÅR
 
 (SOM NEVNT I ARTIKKEL 22 NR. 7)
@@ -4036,6 +4069,7 @@ Dersom hov- og klovdyr av listeførte arter ikke kommer fra et tredjeland eller 
    1. den serologiske testen skal være utført på prøver som er tatt minst 30 dager før forflytningsdatoen, og dyrene har med negativt resultat gjennomgått en PCR-test som er utført på prøver som er tatt tidligst 14 dager før datoen for avsendelse til Unionen.
 
 ### DEL B
+
 SÆRLIGE VILKÅR VED INNFØRSEL TIL UNIONEN AV FORSENDELSER AV STORFE MED HENSYN TIL FRAVÆR AV SYKDOM I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET ELLER EN SONE I DISSE NÅR DET GJELDER ENZOOTISK BOVIN LEUKOSE
 
 (SOM NEVNT I ARTIKKEL 22 NR. 8)
@@ -4048,6 +4082,7 @@ Dersom storfe ikke kommer fra et tredjeland eller territorium eller en sone i di
 4. dersom dyrene er yngre enn 24 måneder, er de avkom av mordyr som har gjennomgått en laboratorieundersøkelse for enzootisk bovin leukose ved hjelp av en av de diagnostiske metodene som er angitt i del 4 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), og som er utført med negativt resultat på prøver som er tatt ved to anledninger med minst fire måneders mellomrom i de siste tolv månedene før datoen for avsendelse til Unionen.
 
 ### VEDLEGG VII
+
 YTTERLIGERE KRAV VED INNFØRSEL TIL UNIONEN AV HOV- OG KLOVDYR MED HENSYN TIL VISSE KATEGORI C-SYKDOMMER
 
 (SOM NEVNT I ARTIKKEL 22 NR. 9)
@@ -4077,6 +4112,7 @@ Dyrene er ikke vaksinert mot infeksjon med pseudorabiesvirus og skal
 2. ha gjennomgått en serologisk test for påvisning av antistoffer mot helvirus av pseudorabies ved hjelp av den diagnostiske metoden som er angitt i del 7 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt ved to anledninger med minst 30 dagers mellomrom, der den siste prøven er tatt i løpet av de siste 15 dagene før avsendelse til Unionen.
 
 ### VEDLEGG VIII
+
 KRAV TIL DYREHELSE MED HENSYN TIL OPPRINNELSESANLEGGET FOR HOV- OG KLOVDYR
 
 1\. Minsteområder (minsteradius) og minsteperioder (før avsendelse til Unionen) uten rapportert sykdom i området i og rundt opprinnelsesanlegget for **hov- og klovdyr, unntatt hestedyr**, som nevnt i artikkel 23 nr. 1 bokstav a) i).
@@ -4170,6 +4206,7 @@ NA = Ikke relevant.
 | Hjortedyr | Det er ikke rapportert om infeksjon med *Brucella abortus, B. melitensis* og *B. suis* hos hjortedyr i løpet av de siste 42 dagene før avsendelse til Unionen. |
 
 ### VEDLEGG X
+
 SÆRLIGE KRAV VED INNFØRSEL TIL UNIONEN AV VISSE ARTER OG KATEGORIER AV HOV- OG KLOVDYR MED HENSYN TIL INFEKSJON MED BRUCELLA, SOM NEVNT I ARTIKKEL 24 NR. 5
 
 ►**M4**
@@ -4188,6 +4225,7 @@ Ukastrerte hanndyr av sau, unntatt dem som er beregnet på slakting i Unionen, s
 Hov- og klovdyr av familien *Tayassuidae* skal i løpet av de siste 30 dagene før datoen for avsendelse til Unionen med negativt resultat ha gjennomgått en test for påvisning av *Brucella suis* ved hjelp av en av de diagnostiske metodene som er angitt i nr. 2 i del 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).
 
 ### VEDLEGG XI
+
 SÆRLIGE KRAV SOM GJELDER HESTEDYR, SOM NEVNT I ARTIKKEL 24 NR. 6
 
 1.**HELSEGRUPPER SOM TREDJELAND, TERRITORIER ELLER SONER I DISSE ER OPPFØRT I**
@@ -4261,6 +4299,7 @@ Minimumskriterier for tildeling av status som vektorbeskyttet anlegg:
 ◄**M4**
 
 ### VEDLEGG XII
+
 HOV- OG KLOVDYR BEREGNET PÅ LUKKEDE ANLEGG
 
 ### DEL A
@@ -4383,6 +4422,7 @@ NVA = Hov- og klovdyrene som er beregnet på Unionen, er ikke vaksinert.
 NA = Ikke relevant.
 
 ### DEL F
+
 Krav til den vektorbeskyttede fasiliteten i lukkede anlegg i tredjeland
 
 Dersom det kreves i del D i dette vedlegget, skal den vektorbeskyttede fasiliteten i de lukkede anleggene i tredjeland eller territorier oppfylle følgende krav:
@@ -4394,6 +4434,7 @@ Dersom det kreves i del D i dette vedlegget, skal den vektorbeskyttede fasilitet
 5. Det skal foreligge standardiserte framgangsmåter for drift av dent vektorbeskyttede fasiliteten og for transport av dyr fra denne bygningen til lastestedet for avsendelse til Unionen, herunder beskrivelser av reserve- og alarmsystemer.
 
 ### VEDLEGG XIII
+
 MINSTEKRAV TIL VAKSINASJONSPROGRAMMER OG YTTERLIGERE OVERVÅKING SOM GJENNOMFØRES I ET TREDJELAND ELLER TERRITORIUM ELLER EN SONE I DISSE DER DET VAKSINERES MOT HØYPATOGEN AVIÆR INFLUENSA
 
 ### 1. MINSTEKRAV TIL VAKSINASJONSPROGRAMMER SOM GJENNOMFØRES I ET TREDJELAND ELLER TERRITORIUM ELLER EN SONE I DISSE
@@ -4432,6 +4473,7 @@ Dersom det foretas vaksinasjon i et tredjeland eller territorium eller en sone i
 5. Data om vaksinens virkning.
 
 ### VEDLEGG XIV
+
 KRAV TIL DYREHELSE MED HENSYN TIL STRUTSEFUGLER, RUGEEGG FRA STRUTSEFUGLER OG FERSKT KJØTT FRA STRUTSEFUGLER SOM KOMMER FRA ET TREDJELAND ELLER TERRITORIUM ELLER EN SONE I DISSE SOM IKKE ER FRI(TT) FOR INFEKSJON MED NEWCASTLE DISEASE-VIRUS
 
 1. Avls- og produksjonsdyr av strutsefugler og strutsefugler beregnet på slakting som kommer fra et tredjeland eller territorium eller en sone i disse som ikke er fri(tt) for infeksjon med Newcastle disease-virus, skal
@@ -4470,6 +4512,7 @@ KRAV TIL DYREHELSE MED HENSYN TIL STRUTSEFUGLER, RUGEEGG FRA STRUTSEFUGLER OG FE
    3. rugeeggene ble lastet for avsendelse til Unionen.
 
 ### VEDLEGG XV
+
 KRITERIER FOR VAKSINER MOT INFEKSJON MED NEWCASTLE DISEASE-VIRUS OG KRAV TIL FORSENDELSER AV FJØRFE, RUGEEGG OG FERSKT KJØTT FRA FJØRFE SOM KOMMER FRA ET TREDJELAND ELLER TERRITORIUM ELLER EN SONE I DISSE DER DET VAKSINERES MOT INFEKSJON MED NEWCASTLE DISEASE-VIRUS
 
 1.**KRITERIER FOR VAKSINER MOT INFEKSJON MED NEWCASTLE DISEASE-VIRUS**
@@ -4527,6 +4570,7 @@ Dersom flokkene som fjørfe kommer fra, flokkene som rugeegg kommer fra, eller r
 7. Vaksineprodusent.
 
 ### VEDLEGG XVI
+
 KRAV TIL HVILKE OPPLYSNINGER SOM SKAL ANGIS PÅ CONTAINERE MED FJØRFE, FUGLER I FANGENSKAP OG RUGEEGG
 
 1. Avls- og produksjonsfjørfe skal transporteres i containere påført følgende opplysninger:
@@ -4587,6 +4631,7 @@ KRAV TIL HVILKE OPPLYSNINGER SOM SKAL ANGIS PÅ CONTAINERE MED FJØRFE, FUGLER I
    5. Navnet på bestemmelsesmedlemsstaten.
 
 ### VEDLEGG XVII
+
 KRAV TIL TESTING AV FORSENDELSER MED FÆRRE ENN 20 DYR AV ANNET FJØRFE ENN STRUTSEFUGLER OG FÆRRE ENN 20 RUGEEGG FRA ANNET FJØRFE ENN STRUTSEFUGLER FØR INNFØRSEL TIL UNIONEN
 
 Forsendelser med færre enn 20 dyr av annet fjørfe enn strutsefugler eller færre enn 20 rugeegg fra annet fjørfe enn strutsefugler skal ha testet negativt for sykdommene nevnt i artikkel 49 bokstav e) og artikkel 110 bokstav e) ii) på grunnlag av følgende:
@@ -4596,6 +4641,7 @@ Forsendelser med færre enn 20 dyr av annet fjørfe enn strutsefugler eller fær
 3. Dersom dyrene er blitt vaksinert mot infeksjon med en hvilken som helst serotype av *Salmonella* eller *Mycoplasma*, skal det bare brukes bakteriologiske tester, men den anvendte bekreftelsesmetoden skal kunne skille mellom levende vaksinestammer og feltstammer.
 
 ### VEDLEGG XVIII
+
 PRØVETAKING OG TESTING AV ANNET FJØRFE ENN STRUTSEFUGLER ETTER INNFØRSEL TIL UNIONEN
 
 1. Med sikte på virologisk undersøkelse skal den offentlige veterinæren ta prøver av avlsfjørfe, produksjonsfjørfe og daggamle kyllinger, unntatt strutsefugler, som er innført til Unionen fra et tredjeland eller territorium eller en sone i disse. Prøvene skal tas på følgende måte:
@@ -4608,6 +4654,7 @@ PRØVETAKING OG TESTING AV ANNET FJØRFE ENN STRUTSEFUGLER ETTER INNFØRSEL TIL 
 2. Ved bruk av samleprøver kan høyst fem prøver fra enkeltfugler samles i hver samleprøve.
 
 ### VEDLEGG XIX
+
 KRAV TIL DYREHELSE MED HENSYN TIL GODKJENNING AV OPPRINNELSESANLEGGET FOR FUGLER I FANGENSKAP
 
 1. Kravene til dyrehelse med hensyn til biosikkerhetstiltak, som nevnt i artikkel 56, er som følger:
@@ -4648,6 +4695,7 @@ KRAV TIL DYREHELSE MED HENSYN TIL GODKJENNING AV OPPRINNELSESANLEGGET FOR FUGLER
    2. Den driftsansvarlige som er ansvarlig for anlegget, skal enten ha en avtale med et laboratorium om å foreta kontroll post mortem, eller ha ett eller flere egnede lokaler der slik kontroll kan foretas av en kvalifisert person under ledelse av en veterinær som vedkommende myndighet i tredjelandet eller territoriet har godkjent for dette formålet.
 
 ### VEDLEGG XX
+
 FRAMGANGSMÅTER FOR UNDERSØKELSE, PRØVETAKING OG TESTING MED HENSYN TIL HØYPATOGEN AVIÆR INFLUENSA OG NEWCASTLE DISEASE
 
 1. I karantenetiden skal kontrollfuglene, eller fuglene i fangenskap dersom det ikke brukes kontrollfugler, gjennomgå følgende:
@@ -4675,6 +4723,7 @@ FRAMGANGSMÅTER FOR UNDERSØKELSE, PRØVETAKING OG TESTING MED HENSYN TIL HØYPA
 Avføringsmateriale skal samles atskilt fra andre organ- og vevsprøver.
 
 ### VEDLEGG XXI
+
 SÆRLIGE KRAV SOM GJELDER HUNDER, KATTER OG ILDRER BEREGNET PÅ INNFØRSEL TIL UNIONEN
 
 ### 1. KRAV TIL TEST MED RABIES-ANTISTOFFTITRERING
@@ -4705,6 +4754,7 @@ Før innførsel til Unionen skal hunder behandles mot infestasjon med *Echinococ
    5. Den behandlende veterinærens navn, stempel og underskrift.
 
 ### VEDLEGG XXII
+
 KRAV SOM GJELDER OPPHOLDSPERIODENE FOR RUGEEGG FØR INNFØRSEL TIL UNIONEN
 
 | *Kategori av rugeegg* | *Minste oppholdsperiode gjelder for* | *Minste oppholdsperiode i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse, som nevnt i artikkel 98 bokstav a)* | *Minste oppholdsperiode i opprinnelsesanlegget, som nevnt i artikkel 98 bokstav b)* | *Minste oppholdsperiode uten kontakt med fjørfe eller rugeegg med lavere helsestatus, fugler i fangenskap eller viltlevende fugler, som nevnt i artikkel 98 bokstav c)* |
@@ -4713,6 +4763,7 @@ KRAV SOM GJELDER OPPHOLDSPERIODENE FOR RUGEEGG FØR INNFØRSEL TIL UNIONEN
 | Forsendelser med færre enn 20 rugeegg fra annet fjørfe enn strutsefugler | Opprinnelsesflokk | 3 måneder | 3 uker | 3 uker |
 
 ### VEDLEGG XXIII
+
 KRAV SOM GJELDER OPPHOLDSPERIODEN FØR SLAKTING ELLER AVLIVING AV HOLDTE HOV- OG KLOVDYR SOM DET FERSKE KJØTTET KOMMER FRA
 
 1. Tidsrommet som hov- og klovdyrene skal ha oppholdt seg i opprinnelsestredjelandet eller opprinnelsesterritoriet eller en sone i disse før slakte- eller avlivingsdatoen, som nevnt i artikkel 131 nr. 2 bokstav a), skal være enten
@@ -4725,6 +4776,7 @@ KRAV SOM GJELDER OPPHOLDSPERIODEN FØR SLAKTING ELLER AVLIVING AV HOLDTE HOV- OG
    2. er omfattet av unntaket fastsatt i artikkel 132.
 
 ### VEDLEGG XXIV
+
 FRAVÆR AV SYKDOM I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET FOR PRODUKTER AV ANIMALSK OPPRINNELSE
 
 ### DEL A
@@ -4753,6 +4805,7 @@ Særlige vilkår som skal fastsettes av vedkommende myndighet dersom tredjelande
 | Munn- og klovsyke<br>Klassisk svinepest | Tilleggsopplysninger for å sikre fastsettelse av en dato fra hvilken tredjelandet eller territoriet eller en sone i disse anses som fri(tt) for sykdommen. |
 
 ### VEDLEGG XXV
+
 VAKSINASJON I OPPRINNELSESTREDJELANDET ELLER OPPRINNELSESTERRITORIET ELLER EN SONE I DISSE OG I OPPRINNELSESANLEGGET FOR DYRENE SOM DET FERSKE KJØTTET KOMMER FRA
 
 ### DEL A
@@ -4777,6 +4830,7 @@ NVE = Ingen vaksinerte dyr i opprinnelsesanlegget for hov- og klovdyrene som det
 NA = Ikke relevant.
 
 ### DEL B
+
 Særlige vilkår som skal fastsettes av vedkommende myndighet dersom det er foretatt vaksinasjon mot munn- og klovsyke i tredjelandet eller territoriet eller en sone i disse i mindre enn tolv måneder, som nevnt i artikkel 133 nr. 3
 
 1.**FRA ET TREDJELAND, ET TERRITORIUM ELLER EN SONE I DISSE SOM ER FRI(TT) FOR MUNN- OG KLOVSYKE, DER DET VAKSINERES MOT MUNN- OG KLOVSYKESTAMMENE A, O ELLER C**
@@ -4830,6 +4884,7 @@ Dersom ferskt kjøtt kommer fra en munn- og klovsykefri sone der det ikke foreta
 2. Garantier om anvendelsen av kravene til dyrehelse fastsatt i nr. 1 bokstav b) og c).
 
 ### VEDLEGG XXVI
+
 RISIKOREDUSERENDE BEHANDLING AV KJØTTPRODUKTER
 
 ### 1. RISIKOREDUSERENDE BEHANDLING AV KJØTTPRODUKTER OPPFØRT I FALLENDE ORDEN ETTER ALVORLIGHETSGRAD
@@ -4858,6 +4913,7 @@ RISIKOREDUSERENDE BEHANDLING AV KJØTTPRODUKTER
 |  | Dyretarm 5 | = | Tørking etter skraping. |
 
 ### VEDLEGG XXVII
+
 RISIKOREDUSERENDE BEHANDLING AV MELK OG MELKEPRODUKTER
 
 |  | A | B |
@@ -4872,6 +4928,7 @@ RISIKOREDUSERENDE BEHANDLING AV MELK OG MELKEPRODUKTER
 | Nei: behandling ikke tillatt.<br>Ja: akseptabel behandling. |  |  |
 
 ### VEDLEGG XXVIII
+
 RISIKOREDUSERENDE BEHANDLING AV EGGPRODUKTER
 
 ### 1. BEHANDLING AV EGGPRODUKTER MED SIKTE PÅ INAKTIVERING AV HØYPATOGEN AVIÆR INFLUENSA
@@ -4909,6 +4966,7 @@ Følgende behandlinger er hensiktsmessige til inaktivering av infeksjon med Newc
 |  | Gjennomkokt |  |
 
 ### VEDLEGG XXIX
+
 LISTE OVER ARTER SOM ER MOTTAKELIGE FOR SYKDOMMER SOM MEDLEMSSTATENE HAR TRUFFET NASJONALE TILTAK FOR I SAMSVAR MED ARTIKKEL 226 I FORORDNING (EU) 2016/429
 
 | *Sykdom* | *Mottakelige arter* |
@@ -4922,6 +4980,7 @@ LISTE OVER ARTER SOM ER MOTTAKELIGE FOR SYKDOMMER SOM MEDLEMSSTATENE HAR TRUFFET
 | Østersherpesvirus 1 μνar (OsHV-1 μVar) | Stillehavsøsters (*Crassostrea gigas*) |
 
 ### VEDLEGG XXX
+
 VILKÅR FOR NÅR ARTENE OPPFØRT I KOLONNE 4 I TABELLEN I VEDLEGGET TIL KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2018/1882 ANSES SOM VEKTORER
 
 | *Liste over sykdommer* | *Vektorer* | *Vilkår for når artene av akvatiske dyr som er oppført i kolonne 4 i tabellen i vedlegget til Kommisjonens gjennomføringsforordning (EU) 2018/1882 anses som vektorer* |

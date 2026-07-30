@@ -51,6 +51,7 @@ Tittelen på [kapittel 4](forskrift/2021-12-16-3738/kap4) skal lyde:
 [§ 11](forskrift/2021-12-16-3738/§11) skal lyde:
 
 ## II
+
 Ikrafttredelse og overgangsregler
 
 1. Forskriften trer i kraft 1. august 2026

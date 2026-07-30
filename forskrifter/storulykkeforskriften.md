@@ -15,7 +15,7 @@ xml_hash: "be0d2349b539f52b87b9c12ac857286ed30c99c670b46185db43660cdc000f6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -228,6 +228,7 @@ Virksomheter som ved ikrafttredelsen av forskriften blir storulykkevirksomhet, s
 3. utarbeide intern beredskapsplan etter [§ 11](forskrift/2016-06-03-569/§11).
 
 ## Vedlegg I
+
 Farlige kjemikalier
 
 Farlige kjemikalier omfattet av fareklasser og tilhørende farekategorier oppført i del 1 kolonne 1 er underlagt mengdegrensene fastsatt i kolonne 2 og 3. Dersom et farlig kjemikalie er omfattet av del 1 og også er oppført i del 2, gjelder mengdegrensene fastsatt i del 2 kolonne 2 og 3.
@@ -444,6 +445,7 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 6 28 vektprosent nitrogen som følge av ammoniumnitrat tilsvarer 80 % ammoniumnitrat.
 
 ## Vedlegg II
+
 Minstekrav til opplysninger i sikkerhetsrapporten omhandlet i § 9
 
 Sikkerhetsrapporten skal beskrive følgende:
@@ -538,6 +540,7 @@ Detaljert beskrivelse av:
 | 6.2.4 | eksterne personell- og materiellressurser som kan mobiliseres. |
 
 ## Vedlegg III
+
 Krav til storulykkevirksomhetens styringssystem og organisering for å forebygge og begrense storulykker
 
 Den ansvarlige for virksomheten skal etablere et styringssystem som skal være tilpasset virksomhetens identifiserte risiko for storulykker, organisasjonens kompleksitet og virksomhetens aktiviteter. Det skal omfatte organisasjonsstruktur, ansvarsforhold, prosedyrer, praksis, prosesser og ressurser for å etablere, gjennomføre og vedlikeholde strategien for forebygging og begrensing av storulykker, jf. [§ 7](forskrift/2016-06-03-569/§7).
@@ -574,6 +577,7 @@ Virksomhetens styringssystem skal omfatte:
 7. *Ledelsens gjennomgåelse:* systematisk overvåking av styringssystemet og strategi for å forebygge og begrense storulykker for å sikre at disse er egnet og fungerer som forutsatt og at de oppdateres ved behov. Ledelsens gjennomgåelse, med analyser og vurdering av tiltak, skal dokumenteres.
 
 ## Vedlegg IV
+
 Innhold i beredskapsplanen
 
 Beredskapsplanen skal minst inneholde:
@@ -592,6 +596,7 @@ Beredskapsplanen skal minst inneholde:
    | 3.6 | rutiner for bistand til eksterne nød- og beredskapsetater når hendelsen får konsekvenser utenfor egen virksomhet. |
 
 ## Vedlegg V
+
 Opplysninger som skal meddeles allmennheten i henhold til § 12 første ledd og andre ledd bokstav a
 
 *Del 1. Storulykkevirksomheten skal opplyse om:*

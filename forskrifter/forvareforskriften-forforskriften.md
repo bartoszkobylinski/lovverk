@@ -16,7 +16,7 @@ xml_hash: "a36fc2df5bd1329511897d98e4cdadc7af92142235cb8c4aef52acceb1ff6a7e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -853,6 +853,7 @@ Forkortelser: «T» = tetra, «Pe» = penta, «Hx» = hexa, «Hp» = hepta, «O�
 > Overskriften endret ved [forskrift 29 juni 2011 nr. 728](forskrift/2011-06-29-728).
 
 ### Del A
+
 Virksomhetenes kontroll for salmonella ved innførsel av fôrvarer til matproduserende landdyr
 
 ### 1. Prøvetaking
@@ -900,6 +901,7 @@ Fôrblandinger som inneholder ovennevnte fôrmidler å anse som risikofôrvarer.
 > Del A endret ved forskrifter [9 jan 2004 nr. 199](forskrift/2004-01-09-199), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010), [29 juni 2011 nr. 728](forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](forskrift/2013-09-26-1159), [7 juni 2017 nr. 905](forskrift/2017-06-07-905), [30 april 2025 nr. 744](forskrift/2025-04-30-744).
 
 ### Del B
+
 Virksomhetenes prøvetaking av salmonella i produksjonsmiljø ved lagring og produksjon av fôrvarer til matproduserende landdyr
 
 ### 1. Prøvemateriale
@@ -962,6 +964,7 @@ Virksomheten skal kontrollere kjøretøy som transporterer risikofôrvarer, jf. 
 > Del B endret ved [forskrifter 14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010), [29 juni 2011 nr. 728](forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](forskrift/2013-09-26-1159), [7 juni 2017 nr. 905](forskrift/2017-06-07-905), [30 april 2025 nr. 744](forskrift/2025-04-30-744).
 
 ### Del C
+
 Analysemetoder og oppfølging av positive funn
 
 ### 1. Krav til fôrvarevirksomheten

@@ -17,7 +17,7 @@ xml_hash: "928539ba6d06e3ed3e642431a6721e0e0aba12a098e5a6dcc8720798c2771ebb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -79,6 +79,7 @@ som endret ved:
 ►**M5** Kommisjonsforordning [(EU) 2023/516](eu/32023r0516) av 8. mars 2023
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2020/2236](eu/32020r2236)
+
 av 16. desember 2020
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til maler for helsesertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av akvatiske dyr og visse produkter av animalsk opprinnelse fra akvatiske dyr samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 1251/2008](eu/32008r1251)
 

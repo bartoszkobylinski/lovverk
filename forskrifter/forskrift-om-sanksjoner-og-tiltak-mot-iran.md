@@ -15,7 +15,7 @@ xml_hash: "cbf2ad0207cf2042ab03ff60a378c78939c78516220433a3a6c6d816ea35cd05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -503,6 +503,7 @@ For the purpose of this Annex ‘monitoring’ means acquisition, extraction, de
 ### Rådsforordning [(EU) nr. 267/2012](eu/32012r0267) om restriktive tiltak mot Iran og opphevelse av forordning [(EU) nr. 961/2010](eu/32010r0961)
 
 ### Kapittel I
+
 Definisjoner
 
 ### Artikkel 1
@@ -564,6 +565,7 @@ I denne forordningen menes med:
     2. enhver transaksjon som utføres med ikke-elektroniske midler, som kontanter, sjekker eller betalingsanvisninger, for å stille penger til disposisjon for betalingsmottaker, uansett om betaler og betalingsmottaker er en og samme person.
 
 ### Kapittel II
+
 Eksport- og importrestriksjoner
 
 ### Artikkel 2
@@ -839,6 +841,7 @@ Forbudene i artikkel 15a gjelder ikke oppfyllelse innen 1. januar 2026 av handel
 Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere nylig trykte eller ikke-utstedte iranske sedler og pregede mynter til eller til fordel for Irans sentralbank.
 
 ### Kapittel III
+
 Restriksjoner på finansiering av visse virksomheter
 
 ### Artikkel 17
@@ -911,6 +914,7 @@ Det er forbudt, ved inngåelse av en avtale eller på annen måte, å akseptere 
 3. fremstilling av varer eller teknologi oppført på listene fra Nuclear Suppliers Group og Missile Technology Control Regime.
 
 ### Kapittel IV
+
 Frysing av penger og formuesgoder
 
 ### Artikkel 23
@@ -1015,6 +1019,7 @@ forutsatt at slike renter eller andre avkastninger og betalinger fryses i samsva
 3\. Denne artikkelen skal ikke forstås som en tillatelse til å overføre penger nevnt i artikkel 30.
 
 ### Kapittel V
+
 Restriksjoner på pengeoverføringer og finansielle tjenester
 
 ### Artikkel 30
@@ -1178,6 +1183,7 @@ Ved anvendelsen av nr. 1 bokstav c skal personer, enheter eller organer anses so
 4\. Denne artikkel forbyr forlengelse eller fornyelse av forsikrings- og gjenforsikringsavtaler inngått før 30. september 2025, men, uten at det berører artikkel 23 nr. 3, forbyr ikke overholdelse av avtaler inngått før denne datoen.
 
 ### Kapittel VI
+
 Transportrestriksjoner
 
 ### Artikkel 36
@@ -1221,6 +1227,7 @@ Eventuell beslaglegging og bortskaffing kan, i samsvar med nasjonal lovgivning e
 2\. Forbudet i nr. 1 berører ikke oppfyllelsen av forpliktelser som følger av kontrakter eller tilknyttede kontrakter nevnt i artikkel 12 nr. 1 bokstav b og c og i artikkel 14 nr. 1 bokstav b og c, forutsatt at importen og transporten av iransk råolje, petroleumsprodukter eller petrokjemiske produkter har blitt underrettet til de kompetente myndighetene i henhold til artikkel 12 nr. 1 eller artikkel 14 nr. 1.
 
 ### Kapittel VII
+
 Alminnelige og avsluttende bestemmelser
 
 ### Artikkel 38

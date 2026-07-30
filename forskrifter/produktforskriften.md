@@ -15,7 +15,7 @@ xml_hash: "69b40eb90a3b56a859d434ff68975a9d21f07b416ad157222db564e1a25d59d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -680,6 +680,7 @@ Forordning [(EU) nr. 1103/2010](eu/32010r1103): [(pdf)](static/SF/32010r1103u.pd
 ### Vedlegg V. Beregning av klimagassintensitet for drivstoff og energi
 
 ### Del I.
+
 Beregning av livløpsutslipp av klimagasser per energienhet for drivstoff og energi
 
 Klimagassintensiteten for drivstoff og energi uttrykkes i gram karbondioksidekvivalent per megajoule drivstoff (gCO2 eq/MJ).
@@ -791,6 +792,7 @@ der:
    | Elektrisk framdriftssystem, hydrogenbrenselcelle | 0,4 |
 
 ### Del II.
+
 Rapportering for omsettere av andre drivstoff enn biodrivstoff
 
 1. *UER-er for fossile brensler*
@@ -1219,6 +1221,7 @@ Miljødirektoratet kan ved overtredelse av bestemmelser i dette kapitlet ilegge 
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013).
 
 ### Vedlegg 1
+
 Bruksområder som er unntatt fra forbudet i § 2a-3
 
 | Unntak |  | Unntaket gjelder i perioden: |
@@ -1358,6 +1361,7 @@ I denne fotnoten anses at et elektrisk og elektronisk utstyr eller en tilgjengel
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [12 juni 2018 nr. 848](forskrift/2018-06-12-848), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795), [25 juni 2019 nr. 918](forskrift/2019-06-25-918), [12 feb 2020 nr. 127](forskrift/2020-02-12-127), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494), [15 juni 2022 nr. 1088](forskrift/2022-06-15-1088), [19 juni 2023 nr. 977](forskrift/2023-06-19-977), [18 mars 2024 nr. 509](forskrift/2024-03-18-509), [8 okt 2024 nr. 2424](forskrift/2024-10-08-2424), [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
 ### Vedlegg 2
+
 Bruksområder som er unntatt fra forbudet i § 2a-3 som gjelder særskilt for medisinsk utstyr og overvåkings- og kontrollinstrumenter
 
 | *Unntak* | *Unntaket gjelder i perioden:* |
@@ -1424,6 +1428,7 @@ Bruksområder som er unntatt fra forbudet i § 2a-3 som gjelder særskilt for me
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [11 juli 2015 nr. 893](forskrift/2015-07-11-893), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [5 nov 2021 nr. 3159](forskrift/2021-11-05-3159), [4 mai 2022 nr. 788](forskrift/2022-05-04-788), [14 des 2022 nr. 2230](forskrift/2022-12-14-2230), [6 nov 2023 nr. 1793](forskrift/2023-11-06-1793).
 
 ### Vedlegg 3
+
 Vilkår for å få unntak
 
 Det kan søkes om unntak forutsatt at dette ikke svekker helse og miljø og dersom ett eller flere av følgende vilkår er oppfylt:
@@ -2284,11 +2289,13 @@ I nr. 6 angis reglene for valg av egnede verdier dersom det besluttes å bruke r
 I nr. 8 angis verdier for karbonlageret i vegetasjonen over og under jorden og relaterte parametrer. I nr. 7 og 8 angis verdier for fire forskjellige kategorier av arealbruk: dyrket mark, flerårige vekster, gressmark, skogmark.
 
 ### Figur 1
+
 Klimasoner
 
 Forklaring: Forklaring: 1 = Tropisk fjellklima, 2 = Tropisk vått klima, 3 = Tropisk fuktig klima, 4 = Tropisk tørt klima, 5 = Varmtemperert fuktig klima, 6 = Varmtemperert tørt klima, 7 = Kaldtemperert fuktig klima, 8 = Kaldtemperert tørt klima, 9 = Borealt fuktig klima, 10 = Borealt tørt klima, 11 = Polarklima, fuktig, 12 = Polarklima, tørt.
 
 ### Figur 2
+
 Geografisk fordeling av jordtyper
 
 Forklaring: 1 = Organisk jord, 2 = Sandjord, 3 = Våtmarksjord, 4 = Vulkansk jord, 5 = Podsoljord, 6 = Leirjord med høy aktivitet, 7 = Leirjord med lav aktivitet, 8 = Andre områder.
@@ -2449,6 +2456,7 @@ For *CFLI*kan verdien 0,4 brukes.
 Fra tabell 1 skal det velges en verdi for *SOCST*som tilsvarer klimasonen og jordtypen for det aktuelle området, som angitt i nr. 6.1 og 6.2.
 
 ### Tabell 1
+
 SOCST, standardverdi for organisk karbon i det øverste jordlaget (0–30 cm)
 
 |  |  |
@@ -2477,6 +2485,7 @@ Hvilken klimasone det skal velges en *SOCST*-verdi for, bestemmes på grunnlag a
 Jordtypen skal bestemmes i samsvar med figur 3. De datalagene om jordtype som er tilgjengelige gjennom åpenhetsplattformen innført ved artikkel 24 i direktiv [2009/28/EF](eu/32009l0028), kan brukes som veiledning ved bestemmelse av jordtypen.
 
 ### Figur 3
+
 Klassifisering av jordtyper
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
@@ -2488,6 +2497,7 @@ Egnede verdier for *FLU*, *FMG*og *FI* skal velges fra tabellene i dette nummer.
 7.1.*Dyrket mark*
 
 ### Tabell 2
+
 Faktorer for dyrket mark
 
 | *Klimasone* | *Arealbruk*<br>(*FLU*) | *Forvaltning*<br>(*FMG*) | *Tilførsel*<br>(*FI*) | *FLU* | *FMG* | *FI* |
@@ -2556,6 +2566,7 @@ Faktorer for dyrket mark
 Tabell 3 inneholder retningslinjer for valg av egnede verdier fra tabell 2 og 4.
 
 ### Tabell 3
+
 Retningslinjer for forvaltning og tilførsel for dyrket mark og flerårige vekster
 
 | *Forvaltning/tilførsel* | *Retningslinjer* |
@@ -2571,6 +2582,7 @@ Retningslinjer for forvaltning og tilførsel for dyrket mark og flerårige vekst
 7.2.*Flerårige vekster*
 
 ### Tabell 4
+
 Faktorer for flerårige vekster, dvs. vekster med en stamme som vanligvis ikke høstes hvert år, som småskog med kort omløpstid og oljepalmer
 
 | *Klimasone* | *Arealbruk* (*FLU*) | *Forvaltning* (*FMG*) | *Tilførsel* (*FI*) | *FLU* | *FMG* | *FI* |
@@ -2641,6 +2653,7 @@ Tabell 3 i nr. 7.1 inneholder retningslinjer for valg av egnede verdier fra tabe
 7.3.*Gressmark*
 
 ### Tabell 5
+
 Faktorer for gressmark, herunder savanner
 
 | *Klimasone* | *Arealbruk* (*FLU*) | *Forvaltning* (*FMG*) | *Tilførsel* (*FI*) | *FLU* | *FMG* | *FI* |
@@ -2674,6 +2687,7 @@ Faktorer for gressmark, herunder savanner
 Tabell 6 inneholder retningslinjer for valg av egnede verdier fra tabell 5.
 
 ### Tabell 6
+
 Retningslinjer for forvaltning og tilførsel for gressmark
 
 | *Forvaltning/tilførsel* | *Retningslinjer* |
@@ -2688,6 +2702,7 @@ Retningslinjer for forvaltning og tilførsel for gressmark
 7.4.*Skogarealer*
 
 ### Tabell 7
+
 Faktorer for skogarealer med en trekronedekning på minst 10 %
 
 | *Klimasone* | *Arealbruk*<br>(*FLU*) | *Forvaltning*<br>(*FMG*) | *Tilførsel*<br>(*FI*) | *FLU* | *FMG* | *FI* |
@@ -2704,6 +2719,7 @@ Faktorer for skogarealer med en trekronedekning på minst 10 %
 Tabell 8 inneholder retningslinjer for valg av egnede verdier fra tabell 7.
 
 ### Tabell 8
+
 Retningslinjer for arealbruk for skogarealer
 
 | *Arealbruk* | *Retningslinjer* |
@@ -2722,6 +2738,7 @@ For *CVEG*eller *R* kan de egnede verdiene i dette nummer brukes.
 8.1.*Dyrket mark*
 
 ### Tabell 9
+
 Vegetasjonsverdier for dyrket mark (generelt)
 
 | *Klimasone* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2729,6 +2746,7 @@ Vegetasjonsverdier for dyrket mark (generelt)
 | Alle | 0 |
 
 ### Tabell 10
+
 Vegetasjonsverdier for sukkerrør (spesifikt)
 
 | *Sone* | *Klimasone* | *Miljøsone* | *Kontinent* | *CVEG* *(tonn karbon per hektar)* |
@@ -2747,6 +2765,7 @@ Vegetasjonsverdier for sukkerrør (spesifikt)
 8.2.*Flerårige vekster, dvs. vekster med en stamme som vanligvis ikke høstes hvert år, som småskog med kort omløpstid og oljepalmer*
 
 ### Tabell 11
+
 Vegetasjonsverdier for flerårige vekster (generelt)
 
 | *Klimasone* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2757,6 +2776,7 @@ Vegetasjonsverdier for flerårige vekster (generelt)
 | Tropisk vått klima | 34,3 |
 
 ### Tabell 12
+
 Vegetasjonsverdier for visse flerårige vekster
 
 | *Klimasone* | *Veksttype* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2769,6 +2789,7 @@ Vegetasjonsverdier for visse flerårige vekster
 8.3.*Gressmark*
 
 ### Tabell 13
+
 Vegetasjonsverdier for gressmark, unntatt krattmark (generelt)
 
 | *Klimasone* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2782,6 +2803,7 @@ Vegetasjonsverdier for gressmark, unntatt krattmark (generelt)
 | Tropisk fuktig og vått klima | 8,1 |
 
 ### Tabell 14
+
 Vegetasjonsverdier for Miscanthus (spesifikt)
 
 | *Sone* | *Klimasone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2791,6 +2813,7 @@ Vegetasjonsverdier for Miscanthus (spesifikt)
 |  |  | Subtropisk steppe | Nord-Amerika | 14,9 |
 
 ### Tabell 15
+
 Vegetasjonsverdier for krattmark, dvs. områder med vegetasjon som hovedsaklig består av vedaktige planter som er lavere enn 5 meter, og som ikke entydig har samme kjennetegn som trær
 
 | *Sone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2810,6 +2833,7 @@ Vegetasjonsverdier for krattmark, dvs. områder med vegetasjon som hovedsaklig b
 8.4.*Skogarealer*
 
 ### Tabell 16
+
 Vegetasjonsverdier for skogarealer (unntatt skogbeplantning) med en trekronedekning på mellom 10 % og 30 %
 
 | *Sone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* | *R* |
@@ -2860,6 +2884,7 @@ Vegetasjonsverdier for skogarealer (unntatt skogbeplantning) med en trekronedekn
 |  |  | Asia, Europa, Nord-Amerika (> 20 år) | 6 | 0,24 |
 
 ### Tabell 17
+
 Vegetasjonsverdier for skogarealer (unntatt skogbeplantning) med en trekronedekning på over 30 %
 
 | *Sone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* |
@@ -2910,6 +2935,7 @@ Vegetasjonsverdier for skogarealer (unntatt skogbeplantning) med en trekronedekn
 |  |  | Asia, Europa, Nord-Amerika (> 20 år) | 53 |
 
 ### Tabell 18
+
 Vegetasjonsverdier for skogbeplantning
 
 | *Sone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* | *R* |

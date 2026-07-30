@@ -17,7 +17,7 @@ xml_hash: "fa5c249d2bec7eccd139503ccf3a9515f9482c615ba305374c4fe686276d80bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,6 +67,7 @@ som endret ved
 ► **M1** Kommisjonsforordning [(EU) nr. 610/2012](eu/32012r0610) av 9. juli 2012.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 124/2009](eu/32009r0124)
+
 av 10. februar 2009
 om fastsettelse av grenseverdier for forekomst av koksidiostatika eller histomonostatika i næringsmidler som følge av uunngåelig krysskontaminering av fôrvarer utenfor målgruppen med disse stoffene
 

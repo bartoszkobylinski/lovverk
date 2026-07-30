@@ -17,7 +17,7 @@ xml_hash: "1d443605d476fb8c914586ab3434b64fc7efd6d79f89cadde2a03db456eaca77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,6 +51,7 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2019/2090 av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer
 
 ### Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)
+
 av 19. juni 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer
 
@@ -277,6 +278,7 @@ Utferdiget i Brussel 19. juni 2019.
 |  | *President* |
 
 ### VEDLEGG
+
 SAMMENLIGNINGSTABELL NEVNT I ARTIKKEL 10
 
 | Direktiv [96/23/EF](eu/31996l0023) | Denne forordning |
@@ -305,6 +307,7 @@ som endret ved
 - ►**M1** Forordning [(EU) 2024/2562](eu/32024r2562)
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/1644](eu/32022r1644)
+
 av 7. juli 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med særlige krav til gjennomføringen av offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og restmengder av disse, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse
 
@@ -433,6 +436,7 @@ Gruppe B – Farmakologisk virksomme stoffer godkjent for bruk i dyr bestemt til
 11 Europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528) av 22. mai 2012 om tilgjengeliggjøring på markedet og bruk av biocidprodukter (EUT L 167 av 27.6.2012, s. 1).
 
 ### VEDLEGG II
+
 Kriterier for utvelgelsen av en spesifikk kombinasjon av stoffgrupper og varegrupper for den nasjonale risikobaserte kontrollplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 2)
 
 A. **Stoffer i gruppe A**
@@ -504,6 +508,7 @@ B. **Stoffer i gruppe B**
 12 Europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082) (EUT L 4 av 7.1.2019, s. 43).
 
 ### VEDLEGG III
+
 Kriterier for prøvetakingsstrategi for den nasjonale risikobasert overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 2)
 
 1. Prøvetakingen skal utføres med varierende mellomrom jevnt fordelt over alle årets måneder eller den aktuelle produksjonsperioden. I den forbindelse skal det tas hensyn til at en rekke farmakologisk virksomme stoffer administreres bare i bestemte årstider.
@@ -532,6 +537,7 @@ Kriterier for prøvetakingsstrategi for den nasjonale risikobasert overvåkingsp
 8. Når det tas prøver, skal det gjøres en innsats for å unngå at det tas flere prøver (dvs. at det tas flere forskjellige prøver fra ett enkelt dyr/produkt (med mindre de forskjellige prøvene analyseres for en annen gruppe stoffer), eller at det tas prøver av flere dyr/produkter fra én enkelt produsent på en gitt dag når det kan tas prøver fra dyr/produkter fra flere produsenter som oppfyller målrettingskriteriene), med mindre den driftsansvarlige er identifisert på grunnlag av kriteriene i nr. 6 eller det er gitt en passende begrunnelse i kontrollplanen. Det skal sikres at den planlagte kontrollhyppigheten overholdes.
 
 ### VEDLEGG IV
+
 Kriterier for utvelgelse av en spesifikk kombinasjon av stoffgrupper og varegrupper for den nasjonal randomiserte overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 3)
 
 ►**M1** **Stoffer i gruppe A**
@@ -556,6 +562,7 @@ Hver prøve for en bestemt type dyr eller produkt skal analyseres for et så bre
 Det skal sikres at alle stoffgruppene i tabellen for en bestemt type dyr eller produkt omfattes av overvåkingsplanen. Kontrollene skal utføres for så mange farmakologisk virksomme stoffer som mulig, som det er fastsatt øvre grenseverdier for restmengder for i tabell 1 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037), eller for fôrtilsetningsstoffer som det er fastsatt øvre grenseverdier for restmengder eller høyeste tillatte innhold for i henhold til forordning [(EF) nr. 1831/2003](eu/32003r1831).
 
 ### VEDLEGG V
+
 Kriterier for prøvetakingsstrategi for den nasjonale randomiserte overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 3)
 
 1. Prøvetakingen skal være tilfeldig og skal gjennomføres ved eller nær slakting, oppsamling/uttak eller innhøsting og være representativ for medlemsstatenes produksjons- eller forbruksmønster:
@@ -565,6 +572,7 @@ Kriterier for prøvetakingsstrategi for den nasjonale randomiserte overvåkingsp
 2. Dersom det er nødvendig å analysere flere stoffkategorier i én prøve, skal prøvestørrelsen justeres tilsvarende.
 
 ### VEDLEGG VI
+
 Kriterier for utvelgelsen av en spesifikk kombinasjon av stoffgrupper og varegrupper for den nasjonale risikobaserte kontrollplanen for import fra tredjeland (som nevnt i artikkel 2 nr. 4)
 
 1. Relevante kriterier i vedlegg II.
@@ -582,6 +590,7 @@ Kriterier for utvelgelsen av en spesifikk kombinasjon av stoffgrupper og varegru
    - Om og hvordan dyr identifiseres (og dermed kan knyttes til behandlinger).
 
 ### VEDLEGG VII
+
 Kriterier for prøvetakingsstrategi for den nasjonale risikobaserte kontrollplanen for import fra tredjeland (som nevnt i artikkel 2 nr. 4)
 
 1. Prøvetakingen skal målrettes etter reglene i vedlegg VI, supplert med de relevante reglene i vedlegg III.
@@ -605,6 +614,7 @@ som endret ved
 ►EØS-tilpasning som følge av [EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) og [kap. II](avtale/avt-1992-05-02-1-v1/kapII) og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/1646
+
 av 23. september 2022
 om ensartede praktiske ordninger for gjennomføringen av offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse, om spesifikt innhold i flerårige nasjonale kontrollplaner og om særlige ordninger for utarbeiding av disse
 
@@ -656,6 +666,7 @@ ut fra følgende betraktninger:
 VEDTATT DENNE FORORDNINGEN:
 
 ### KAPITTEL I
+
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål
@@ -672,6 +683,7 @@ I denne forordningen får definisjonene i forordning [(EF) nr. 178/2002](eu/3200
 9 Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090) av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer (EUT L 317 av 9.12.2019, s. 28).
 
 ### KAPITTEL II
+
 SÆRLIG TILLEGGSINNHOLD I MANCP
 
 ### Artikkel 3. Alminnelige bestemmelser
@@ -747,6 +759,7 @@ Medlemsstatene er ikke forpliktet til å framlegge informasjon som allerede er g
 ◄**M1**
 
 ### KAPITTEL III
+
 FRAMLEGGING OG EVALUERING AV PLANENE, OG FRAMLEGGING AV DATA FRA MEDLEMSSTATENE
 
 ►**M1**
@@ -774,6 +787,7 @@ Senest den 31. august hvert år skal medlemsstatene ferdigstille datavalideringe
 ◄**M1**
 
 ### KAPITTEL IV
+
 GENERELLE BESTEMMELSER
 
 ### Artikkel 10. Oppheving av vedtak 97/747/EF
@@ -802,6 +816,7 @@ Utferdiget i Brussel 23. september 2022.
 |  | *President* |
 
 ### VEDLEGG I
+
 Laveste prøvetakingsfrekvens per medlemsstat i den nasjonale risikobaserte kontrollplanen for produksjon i medlemsstatene (som nevnt i artikkel 4 bokstav c))
 
 Minste antall prøver er som følger:
@@ -857,6 +872,7 @@ Minste antall prøver er som følger:
 13. Prøver som tas med henblikk på andre kontrollplaner som er relevante for å analysere farmakologisk virksomme stoffer og deres restmengder (for eksempel forurensende stoffer, rester av plantevernmidler osv.), kan også benyttes til kontroll av farmakologisk virksomme stoffer, forutsatt at kravene til kontroll av farmakologisk virksomme stoffer er oppfylt.
 
 ### VEDLEGG II
+
 Laveste prøvetakingsfrekvens per medlemsstat i den nasjonale randomiserte overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 5 bokstav c))
 
 Minste antall prøver er som følger:
@@ -897,6 +913,7 @@ Minste antall prøver er som følger:
 3. 75 % av prøvene som tas i henhold til denne planen, skal analyseres for stoffer i gruppe B.
 
 ### VEDLEGG III
+
 **Laveste prøvetakingsfrekvens per medlemsstat i den nasjonale risikobaserte kontrollplanen for import fra tredjeland (som nevnt i artikkel 6 bokstav c))**
 
 Den laveste prøvetakingsfrekvensen kan brukes som en del av en overvåkingsplan ved grensekontrollstasjonene i samsvar med nr. 5 i vedlegg II til Kommisjonens gjennomføringsforordning [(EU) 2019/2130](eu/32019r2130)[^1].

@@ -17,7 +17,7 @@ xml_hash: "9e48aa593280b748576f88c5518084de2e2c26057c08feb11e28db13433ca1e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-28T16:54:24.870765+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,6 +47,7 @@ Denne forskrift trer i kraft straks.
 ### [Vedlegg 1](forskrift/2022-05-03-836/vedlegg1). Uoffisiell oversettelse av COMMISSION DELEGATED [REGULATION (EU) 2021/1353](eu/32021r1353) of 17 May 2021 supplementing [Regulation (EU) 2017/625](eu/32017r0625) of the European Parliament and of the Council with regard to the cases and conditions under which competent authorities may designate official laboratories which do not fulfil the conditions in relation to all the methods they use for official controls or other official activities
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2021/1353](eu/32021r1353) av 17. mai 2021
+
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan utpeke offisielle laboratorier som ikke oppfyller vilkårene med hensyn til alle metodene de bruker ved offentlig kontroll eller annen offentlig virksomhet
 
 EUROPAKOMMISJONEN HAR
@@ -109,6 +110,7 @@ Utferdiget i Brussel 17. mai 2021.
 |  | *President* |
 
 ### VEDLEGG
+
 KATEGORIER AV METODER SOM BRUKES TIL ANALYSER, UNDERSØKELSER OG DIAGNOSTISERING PÅ OMRÅDET PLANTEHELSE
 
 1. Metoder for lokking, isolering og ekstraksjon, herunder
