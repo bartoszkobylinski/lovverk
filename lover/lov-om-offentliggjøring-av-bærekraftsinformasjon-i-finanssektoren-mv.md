@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "6269abb1be533a775b26235d42a36ac207897a1cafa34f71762ba60611b9b2aa"
+xml_hash: "634cd612d67e67cc3d6bf48c84cdc27fa68023dc4a44e341213b0199dbc9f35c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis:
   - "32019R2088"
@@ -51,7 +51,7 @@ Departementet kan fastsette utfyllende forskrifter til bestemmelsen her og i for
 
 ## § 4. Tilsyn
 
-Finanstilsynet fører tilsyn med overholdelse av bestemmelsene i denne loven og i forskrift gitt med hjemmel i denne loven etter reglene i [finanstilsynsloven](lov/1956-12-07-1).
+Finanstilsynet fører tilsyn med overholdelse av bestemmelsene i denne loven og i forskrift gitt med hjemmel i denne loven etter reglene i [finanstilsynsloven](lov/2024-06-21-41).
 
 ## § 5. Ikrafttredelse
 
