@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-06-01"
-xml_hash: "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c"
+xml_hash: "bac0d522b53ef9ee005454d50307963c576673ef8fb046b70cded71a09181515"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis:
   - "32016L0097"
@@ -459,7 +459,7 @@ Departementet kan i forskrift gi regler som utfyller paragrafen her. Departement
 
 ### § 10-1. Tilsyn
 
-Finanstilsynet fører tilsyn med overholdelse av bestemmelsene gitt i eller i medhold av denne loven. Tilsynet føres i samsvar med bestemmelsene i loven her og [finanstilsynsloven](lov/1956-12-07-1).
+Finanstilsynet fører tilsyn med overholdelse av bestemmelsene gitt i eller i medhold av denne loven. Tilsynet føres i samsvar med bestemmelsene i loven her og [finanstilsynsloven](lov/2024-06-21-41).
 
 ### § 10-2. Pålegg om retting
 
