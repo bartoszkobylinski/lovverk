@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-29"
+last_change_in_force: "2026-07-27"
 last_updated: null
-xml_hash: "95c9012cc24c4668905a43034cc895b9b3828714edef0c26f0f07e39f7c0c550"
+xml_hash: "6d4055e86666717d383b84e23c7f2cf65eb9d1b850e5a02bb2e5ffda961f524c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,10 +35,10 @@ Det er forbudt for norske fartøy å fiske og lande sild i følgende områder i 
 
 Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2828/§1) kan norske fartøy som har adgang til å delta, fiske og lande:
 
-1. Inntil 89 260 tonn sild i norsk sone i Nordsjøen. Av dette kvantum avsettes 575 tonn til forskings- og undervisningsformål og 200 tonn til rekrutteringskvoter for fartøy i åpen kystgruppe. Av totalkvoten kan inntil 26 078 tonn fiskes i britisk sone i ICES' statistikkområde 4. Av totalkvoten kan inntil 2 700 tonn fiskes i EU-sonen i ICES' statistikkområde 4 og 7d.
+1. Inntil 89 260 tonn sild i norsk sone i Nordsjøen. Av dette kvantum avsettes 575 tonn til forskings- og undervisningsformål og 200 tonn til rekrutteringskvoter for fartøy i åpen kystgruppe. Av totalkvoten kan inntil 26 078 tonn fiskes i britisk sone i ICES' statistikkområde 4. Av totalkvoten kan inntil 2 700 tonn fiskes i EU-sonen i ICES' statistikkområde 4 og 7d. Fisket i EU-sonen stoppes fra og med 27. juli 2026.
 2. Inntil 250 tonn sild i Skagerrak.
 
-> Endret ved forskrift [22 mai 2026 nr. 904](forskrift/2026-05-22-904).
+> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [27 juli 2026 nr. 1583](forskrift/2026-07-27-1583).
 
 ### § 3. Gruppekvoter for ringnotfartøy
 
