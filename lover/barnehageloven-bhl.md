@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-03-28"
-xml_hash: "e34b1d28a8ac8b2e07924cca42f6d008db540f8d723191d7a3fafd7eff7c9047"
+xml_hash: "357ea2217bed3207507f6ce5ce545cee1f9157cd9115eadda214b1a3a9850141"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,7 @@ Barnehagen og pedagogisk-psykologisk tjeneste skal, i tillegg til å følge opp 
 
 Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter [barnehageloven § 19](lov/2005-06-17-64/§19) og skoler som får statstilskudd etter [privatskolelova § 6-1](lov/2003-07-04-84/§6-1).
 
-> Tilføyd ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) som endret ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)).
+> Tilføyd ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871), endring endret ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39)).
 
 ## Kapittel II. Barns og foreldres medvirkning
 
@@ -225,7 +225,7 @@ Statsforvalteren skal veilede kommuner, fylkeskommuner og barnehager om denne lo
 
 Utdanningsdirektoratet skal veilede kommuner og barnehager om denne loven [kapittel V](lov/2005-06-17-64/kapv) med forskrifter.
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2022 iflg. [res. 10 des 2021 nr. 3461](forskrift/2021-12-10-3461)) som endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34), endret ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 juli 2022 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)).
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2022 iflg. [res. 10 des 2021 nr. 3461](forskrift/2021-12-10-3461), endring endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34)), endret ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 juli 2022 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)).
 
 ## Kapittel IV. Barnehagemyndighetens oppgaver mv.
 
@@ -414,7 +414,7 @@ Pedagogiske ledere må ha utdanning som barnehagelærer. Likeverdig med barnehag
 
 Departementet kan gi forskrift om pedagogisk bemanning og dispensasjon, forskrift om godkjenning av yrkeskvalifikasjoner fra utlandet og forskrift om unntak fra utdanningskravet for personale som arbeider i barnehagen på nattid.
 
-> Tilføyd ved lov [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 17 a). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)). **Endres** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+> Tilføyd ved lov [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 17a). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)). **Endres** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 26. Grunnbemanning
 
@@ -442,7 +442,7 @@ Kravet om norskprøve etter første ledd gjelder ikke for
 
 Dersom det er pedagogisk forsvarlig, kan barnehageeier ansette personer som ikke oppfyller kravet til norskprøve.
 
-> Tilføyd ved lov [16 mars 2018 nr. 1](lov/2018-03-16-1) (ikr. 1 aug 2018 iflg. [res. 16 mars 2018 nr. 384](forskrift/2018-03-16-384)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 18 a). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Tilføyd ved lov [16 mars 2018 nr. 1](lov/2018-03-16-1) (ikr. 1 aug 2018 iflg. [res. 16 mars 2018 nr. 384](forskrift/2018-03-16-384)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 18a). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
 ### § 28. Krav om norskferdigheter for personer med utenlandske yrkeskvalifikasjoner som styrer eller pedagogisk leder
 
@@ -460,7 +460,7 @@ Kravet om norskferdigheter gjelder ikke for personer som har norsk, samisk, sven
 
 Departementet kan gi forskrift om dispensasjon fra kravet om norskferdigheter.
 
-> Tilføyd ved lov [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 18 b). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Tilføyd ved lov [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 18b). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
 ### § 29. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
 
@@ -470,7 +470,7 @@ Forbudet gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, peda
 
 Dersom noen bruker klesplagg i strid med forbudet, skal barnehageeieren eller kommunen gi personen pålegg om å fjerne plagget. Gjentatte brudd på forbudet kan gi grunnlag for oppsigelse.
 
-> Tilføyd ved lov [22 juni 2018 nr. 85](lov/2018-06-22-85) (ikr. 1 aug 2018 iflg. [res. 22 juni 2018 nr. 946](forskrift/2018-06-22-946)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 18 c). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Tilføyd ved lov [22 juni 2018 nr. 85](lov/2018-06-22-85) (ikr. 1 aug 2018 iflg. [res. 22 juni 2018 nr. 946](forskrift/2018-06-22-946)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 18c). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
 ### § 30. Politiattest
 
@@ -502,7 +502,7 @@ Fylkeskommunen skal oppfylle retten til spesialpedagogisk hjelp etter denne love
 
 Departementet kan gi forskrift om ansvar for utgifter til spesialpedagogisk hjelp, hvem som skal regnes som bosatt i kommunen, refusjon av andre kommuners eller fylkeskommuners utgifter til spesialpedagogisk hjelp, fylkeskommunens ansvar for rett til spesialpedagogisk hjelp for barn i barnevernsinstitusjon og fylkeskommunens ansvar for rett til spesialpedagogisk hjelp for barn som er pasienter i helseinstitusjon eid av regionalt helseforetak, eller i privat helseinstitusjon med avtale med regionalt helseforetak.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lover [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 a), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lover [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19a), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)).
 
 ### § 32. Samarbeid med barnets foreldre
 
@@ -514,7 +514,7 @@ Det skal én gang i året utarbeides en skriftlig oversikt over den spesialpedag
 
 Dersom barnevernstjenesten har overtatt omsorgen etter [barnevernsloven §§ 5-1](lov/2021-06-18-97/§5-1) eller [4-2](lov/2021-06-18-97/§4-2) eller vedtatt flytteforbud etter [barnevernsloven § 4-3](lov/2021-06-18-97/§4-3), har barnevernstjenesten og fosterforeldrene eller institusjonen der barnet bor, rett til å ta avgjørelser etter dette kapittelet på vegne av barnet. Dersom barnevernstjenesten mener at fosterforeldrenes eller institusjonens vurderinger ikke er til barnets beste, skal fosterforeldrene eller institusjonen rette seg etter barnevernstjenestens beslutning.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lover [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 b), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lover [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19b), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
 
 ### § 33. Pedagogisk-psykologisk tjeneste
 
@@ -524,7 +524,7 @@ Den pedagogisk-psykologiske tjenesten skal bistå barnehagen i arbeidet med komp
 
 Departementet kan gi forskrift om andre oppgaver for den pedagogisk-psykologiske tjenesten.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 c).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19c).
 
 ### § 34. Sakkyndig vurdering
 
@@ -540,7 +540,7 @@ I den sakkyndige vurderingen skal det utredes og tas standpunkt til blant annet:
 
 Departementet kan gi forskrift om innholdet i den sakkyndige vurderingen.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 d).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19d).
 
 ### § 35. Vedtak om spesialpedagogisk hjelp
 
@@ -557,7 +557,7 @@ Vedtaket skal inneholde:
 
 Dersom barnet flytter til en annen kommune, skal vedtaket om spesialpedagogisk hjelp gjelde frem til det er fattet nytt vedtak i saken.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 e).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19e).
 
 ### § 36. Rett til skyss for barn med rett til spesialpedagogisk hjelp
 
@@ -567,7 +567,7 @@ Barnet har rett til nødvendig reisefølge og tilsyn. Kommunen skal innlosjere b
 
 Kommunen skal fatte vedtak om og oppfylle retten til skyss, nødvendig reisefølge, tilsyn og innlosjering.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 f).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19f).
 
 ### § 37. Barn med nedsatt funksjonsevne
 
@@ -575,7 +575,7 @@ Kommunen skal sikre at barn med nedsatt funksjonsevne får et egnet individuelt 
 
 Kommunen fatter vedtak om tilrettelegging av barnehagetilbudet til barn med nedsatt funksjonsevne.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 g).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19g).
 
 ### § 38. Rett til tegnspråkopplæring
 
@@ -593,7 +593,7 @@ Retten til skyss, tilsyn, reisefølge og innlosjering etter § 36 gjelder tilsva
 
 Departementet kan gi forskrift om tegnspråkopplæring for barn under opplæringspliktig alder.
 
-> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19 h).
+> Tilføyd ved lov [17 juni 2016 nr. 65](lov/2016-06-17-65) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 679](forskrift/2016-06-17-679)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 19h).
 
 ### § 39. Barn med behov for alternativ og supplerende kommunikasjon (ASK)
 
@@ -686,7 +686,7 @@ Enhver som utfører tjeneste eller arbeid etter denne loven, plikter også å gi
 
 Offentlige myndigheter kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter denne loven. Departementet gir forskrift om hvilke opplysninger som kan innhentes.
 
-> Tilføyd ved lov [22 juni 2018 nr. 64](lov/2018-06-22-64) (ikr. 1 okt 2018), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 22 a).
+> Tilføyd ved lov [22 juni 2018 nr. 64](lov/2018-06-22-64) (ikr. 1 okt 2018), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 22a).
 
 ### § 47 a. Kommuner, fylkeskommuner og private barnehagers behandling av personopplysninger
 
@@ -766,7 +766,7 @@ Barnehagen skal uten hinder av taushetsplikt legge frem alle opplysninger som ko
 
 Statsforvalteren fører tilsyn med lovligheten av kommunens og fylkeskommunens oppfyllelse av pliktene de har etter [§§ 10](lov/2005-06-17-64/§10), [11](lov/2005-06-17-64/§11) og [53](lov/2005-06-17-64/§53) og [kapittel IV](lov/2005-06-17-64/kapiv), [VI](lov/2005-06-17-64/kapvi) og [VII](lov/2005-06-17-64/kapvii) med forskrifter, og plikten til å ha internkontroll etter [kommuneloven § 25-1](lov/2018-06-22-83/§25-1). Reglene i [kommuneloven kapittel 30](lov/2018-06-22-83/kap30) gjelder for tilsynsvirksomheten.
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2022 iflg. [res. 10 des 2021 nr. 3461](forskrift/2021-12-10-3461)) som endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34), endret ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 juli 2022 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)).
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2022 iflg. [res. 10 des 2021 nr. 3461](forskrift/2021-12-10-3461), endring endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34)), endret ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 juli 2022 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)).
 
 ### § 55. Statsforvalterens tilsyn med barnehagene
 
@@ -776,7 +776,7 @@ Statsforvalteren kan gi pålegg til barnehagen om å rette ulovlige forhold. Hvi
 
 Barnehagen skal uten hinder av taushetsplikt legge frem alle opplysninger som statsforvalteren trenger for å føre tilsyn. Barnehagen skal gi statsforvalteren adgang til barnehagens lokaler.
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2022 iflg. [res. 10 des 2021 nr. 3461](forskrift/2021-12-10-3461)) som endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34).
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2022 iflg. [res. 10 des 2021 nr. 3461](forskrift/2021-12-10-3461), endring endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34)).
 
 ### § 56. Utdanningsdirektoratets tilsyn med økonomiske forhold i private barnehager
 
@@ -810,6 +810,6 @@ Når loven trer i kraft, oppheves [lov 5. mai 1995 nr. 19 om barnehager](lov/199
 
 Departementet kan gi forskrift med nærmere overgangsregler, som bestemmelser om overføringen av ansvaret for å føre tilsyn med økonomiske forhold i private barnehager fra kommunen til Utdanningsdirektoratet. Det kan også gis bestemmelser som viderefører bestemmelser i loven her om tilsyn, veiledning og reaksjonsmidler etter §[§ 8](lov/2005-06-17-64/§8) første ledd andre punktum, 8 femte ledd, [9](lov/2005-06-17-64/§9), [9 a](lov/2005-06-17-64/§9a), [9 b](lov/2005-06-17-64/§9b), [16](lov/2005-06-17-64/§16) og [16 a](lov/2005-06-17-64/§16a), slik disse lød før 1. januar 2021.
 
-> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 26) som endret ved lov [18 des 2020 nr. 155](lov/2020-12-18-155).
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), endring endret ved lov [18 des 2020 nr. 155](lov/2020-12-18-155), tidligere § 26).
 
 1 Fra 1 jan 2006 iflg. [res. 17 juni 2005 nr. 613](forskrift/2005-06-17-613).
