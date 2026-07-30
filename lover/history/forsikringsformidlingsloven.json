@@ -2,6 +2,16 @@
   "doc_id": "nl-20211222-163",
   "events": [
     {
+      "commit": "3525aa0",
+      "date": "2026-07-30",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): forsikringsformidlingsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "017c2ee",
       "date": "2026-06-20",
       "from_path": null,

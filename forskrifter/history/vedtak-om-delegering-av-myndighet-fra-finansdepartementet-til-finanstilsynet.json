@@ -2,6 +2,16 @@
   "doc_id": "sf-20220329-0484",
   "events": [
     {
+      "commit": "2d3bd7c",
+      "date": "2026-07-30",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 5,
+      "subject": "update(forskrift): vedtak-om-delegering-av-myndighet-fra-finansdepartementet-til-finanstilsynet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5244bff",
       "date": "2026-06-30",
       "from_path": null,

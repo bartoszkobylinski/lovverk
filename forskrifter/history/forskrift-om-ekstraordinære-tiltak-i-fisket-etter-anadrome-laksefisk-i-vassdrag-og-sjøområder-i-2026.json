@@ -2,6 +2,16 @@
   "doc_id": "sf-20260709-1544",
   "events": [
     {
+      "commit": "2f8d439",
+      "date": "2026-07-30",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "ae5fedd",
       "date": "2026-07-21",
       "from_path": null,

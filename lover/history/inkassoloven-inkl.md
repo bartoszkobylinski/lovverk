@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # inkassoloven-inkl — Change history
 
-_4 events; doc_id `nl-19880513-026`._
+_5 events; doc_id `nl-19880513-026`._
+
+## 2026-07-30 — Content updated
+Lines: +4 -6.
+Subject: `update(lov): inkassoloven-inkl`
+Commit: `55a5387`.
 
 ## 2026-05-23 — Content updated
 Lines: +2 -2.

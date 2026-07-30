@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # gjeldsinformasjonsloven — Change history
 
-_3 events; doc_id `nl-20170616-047`._
+_4 events; doc_id `nl-20170616-047`._
+
+## 2026-07-30 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): gjeldsinformasjonsloven`
+Commit: `88e277d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

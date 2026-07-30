@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # priips-loven — Change history
 
-_5 events; doc_id `nl-20240621-040`._
+_6 events; doc_id `nl-20240621-040`._
+
+## 2026-07-30 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): priips-loven`
+Commit: `cb95b6e`.
 
 ## 2026-06-25 — Content updated
 Lines: +6 -6.

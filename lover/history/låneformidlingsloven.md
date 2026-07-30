@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # låneformidlingsloven — Change history
 
-_6 events; doc_id `nl-20221216-091`._
+_7 events; doc_id `nl-20221216-091`._
+
+## 2026-07-30 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): låneformidlingsloven`
+Commit: `8154f3d`.
 
 ## 2026-06-25 — Content updated
 Lines: +10 -2.

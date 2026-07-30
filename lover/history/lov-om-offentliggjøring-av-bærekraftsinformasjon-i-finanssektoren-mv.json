@@ -2,6 +2,16 @@
   "doc_id": "nl-20211222-161",
   "events": [
     {
+      "commit": "a99ab2c",
+      "date": "2026-07-30",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

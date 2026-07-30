@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv — Change history
 
-_3 events; doc_id `nl-20211222-161`._
+_4 events; doc_id `nl-20211222-161`._
+
+## 2026-07-30 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv`
+Commit: `a99ab2c`.
 
 ## 2026-04-29 — Content updated
 Lines: +4 -1.

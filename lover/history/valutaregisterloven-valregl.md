@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # valutaregisterloven-valregl — Change history
 
-_3 events; doc_id `nl-20040528-029`._
+_4 events; doc_id `nl-20040528-029`._
+
+## 2026-07-30 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): valutaregisterloven-valregl`
+Commit: `2339ab5`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

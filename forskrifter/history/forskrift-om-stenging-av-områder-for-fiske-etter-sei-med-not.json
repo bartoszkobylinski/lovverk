@@ -2,6 +2,16 @@
   "doc_id": "sf-20260409-0579",
   "events": [
     {
+      "commit": "f8758f7",
+      "date": "2026-07-30",
+      "from_path": null,
+      "lines_added": 12,
+      "lines_removed": 13,
+      "subject": "update(forskrift): forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "134b948",
       "date": "2026-07-15",
       "from_path": null,

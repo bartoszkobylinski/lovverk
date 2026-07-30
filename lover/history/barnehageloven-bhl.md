@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # barnehageloven-bhl — Change history
 
-_8 events; doc_id `nl-20050617-064`._
+_9 events; doc_id `nl-20050617-064`._
+
+## 2026-07-30 — Content updated
+Lines: +20 -20.
+Subject: `update(lov): barnehageloven-bhl`
+Commit: `c6c693c`.
 
 ## 2026-07-01 — Content updated
 Lines: +13 -11.

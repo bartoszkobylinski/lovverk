@@ -3363,10 +3363,10 @@
     },
     "nl-19880513-026": {
       "doc_type": "lov",
-      "embedding_hash": "5c5a903bec88ba4ace7ab8d039ac477ff5f16db1efcfe6d6ed399bd192ff3a96",
+      "embedding_hash": "15742d759dae5c8e49f91c17ccf86ae77e32d9bdb3d9bd164f0aa21973e4ab80",
       "eu_basis": [],
-      "last_changed": "2026-05-23",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/inkassoloven-inkl.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -3374,8 +3374,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)",
-      "total_changes": 4,
-      "xml_hash": "5c5a903bec88ba4ace7ab8d039ac477ff5f16db1efcfe6d6ed399bd192ff3a96"
+      "total_changes": 5,
+      "xml_hash": "15742d759dae5c8e49f91c17ccf86ae77e32d9bdb3d9bd164f0aa21973e4ab80"
     },
     "nl-19880513-027": {
       "doc_type": "lov",
@@ -5977,10 +5977,10 @@
     },
     "nl-20040528-029": {
       "doc_type": "lov",
-      "embedding_hash": "df89ff38b9ee3b8f26ecfc068c3e8e4ba955fdf6c090bba5c9e5ec403503e392",
+      "embedding_hash": "237fbc47dfc6930c9562fe52a23c2e6f289c3a36031db43e707bab6097a83835",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/valutaregisterloven-valregl.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -5988,8 +5988,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven)",
-      "total_changes": 3,
-      "xml_hash": "df89ff38b9ee3b8f26ecfc068c3e8e4ba955fdf6c090bba5c9e5ec403503e392"
+      "total_changes": 4,
+      "xml_hash": "237fbc47dfc6930c9562fe52a23c2e6f289c3a36031db43e707bab6097a83835"
     },
     "nl-20040702-064": {
       "doc_type": "lov",
@@ -6350,10 +6350,10 @@
     },
     "nl-20050617-064": {
       "doc_type": "lov",
-      "embedding_hash": "e34b1d28a8ac8b2e07924cca42f6d008db540f8d723191d7a3fafd7eff7c9047",
+      "embedding_hash": "357ea2217bed3207507f6ce5ce545cee1f9157cd9115eadda214b1a3a9850141",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/barnehageloven-bhl.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -6361,8 +6361,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barnehager (barnehageloven)",
-      "total_changes": 8,
-      "xml_hash": "e34b1d28a8ac8b2e07924cca42f6d008db540f8d723191d7a3fafd7eff7c9047"
+      "total_changes": 9,
+      "xml_hash": "357ea2217bed3207507f6ce5ce545cee1f9157cd9115eadda214b1a3a9850141"
     },
     "nl-20050617-067": {
       "doc_type": "lov",
@@ -8872,10 +8872,10 @@
     },
     "nl-20170616-047": {
       "doc_type": "lov",
-      "embedding_hash": "0ff9203c99e6cff52fbebd94364043e4ceef747e805b51905359ece571f752db",
+      "embedding_hash": "0fec0d0415f576bca261e2e5b6312c192fa8a40a1adb1afcf400514bfab63fe3",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/gjeldsinformasjonsloven.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -8883,8 +8883,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjeldsinformasjon ved kredittvurdering av privatpersoner (gjeldsinformasjonsloven)",
-      "total_changes": 3,
-      "xml_hash": "0ff9203c99e6cff52fbebd94364043e4ceef747e805b51905359ece571f752db"
+      "total_changes": 4,
+      "xml_hash": "0fec0d0415f576bca261e2e5b6312c192fa8a40a1adb1afcf400514bfab63fe3"
     },
     "nl-20170616-048": {
       "doc_type": "lov",
@@ -9207,13 +9207,13 @@
     },
     "nl-20180601-023": {
       "doc_type": "lov",
-      "embedding_hash": "9acfaf0753d363db347c4f24b461428fe298ce94b4d94522273ec24b266951d0",
+      "embedding_hash": "b43be29ec1e861a32e36530abb1fbb84625110cfccb164af1269b60502381af1",
       "eu_basis": [
         "32015L0849",
         "32023R1113"
       ],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/hvitvaskingsloven-hvvl.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -9221,8 +9221,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)",
-      "total_changes": 5,
-      "xml_hash": "9acfaf0753d363db347c4f24b461428fe298ce94b4d94522273ec24b266951d0"
+      "total_changes": 6,
+      "xml_hash": "b43be29ec1e861a32e36530abb1fbb84625110cfccb164af1269b60502381af1"
     },
     "nl-20180601-024": {
       "doc_type": "lov",
@@ -10380,13 +10380,13 @@
     },
     "nl-20211222-161": {
       "doc_type": "lov",
-      "embedding_hash": "6269abb1be533a775b26235d42a36ac207897a1cafa34f71762ba60611b9b2aa",
+      "embedding_hash": "634cd612d67e67cc3d6bf48c84cdc27fa68023dc4a44e341213b0199dbc9f35c",
       "eu_basis": [
         "32019R2088",
         "32020R0852"
       ],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -10394,18 +10394,18 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer",
-      "total_changes": 3,
-      "xml_hash": "6269abb1be533a775b26235d42a36ac207897a1cafa34f71762ba60611b9b2aa"
+      "total_changes": 4,
+      "xml_hash": "634cd612d67e67cc3d6bf48c84cdc27fa68023dc4a44e341213b0199dbc9f35c"
     },
     "nl-20211222-163": {
       "doc_type": "lov",
-      "embedding_hash": "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c",
+      "embedding_hash": "bac0d522b53ef9ee005454d50307963c576673ef8fb046b70cded71a09181515",
       "eu_basis": [
         "32016L0097",
         "32018L0411"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/forsikringsformidlingsloven.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -10413,8 +10413,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsformidling (forsikringsformidlingsloven)",
-      "total_changes": 4,
-      "xml_hash": "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c"
+      "total_changes": 5,
+      "xml_hash": "bac0d522b53ef9ee005454d50307963c576673ef8fb046b70cded71a09181515"
     },
     "nl-20220128-002": {
       "doc_type": "lov",
@@ -10649,12 +10649,12 @@
     },
     "nl-20221216-091": {
       "doc_type": "lov",
-      "embedding_hash": "d329aa11aecfddc11df653972900394bfa46cd22e9cf97a2a627cf5dede2c2e8",
+      "embedding_hash": "907509679a1da543e489afae213ff4157ba38c75217e6ca04e0cbd1fa49c1b40",
       "eu_basis": [
         "32014L0017"
       ],
-      "last_changed": "2026-06-25",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/låneformidlingsloven.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -10662,8 +10662,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om låneformidling (låneformidlingsloven)",
-      "total_changes": 6,
-      "xml_hash": "d329aa11aecfddc11df653972900394bfa46cd22e9cf97a2a627cf5dede2c2e8"
+      "total_changes": 7,
+      "xml_hash": "907509679a1da543e489afae213ff4157ba38c75217e6ca04e0cbd1fa49c1b40"
     },
     "nl-20221220-097": {
       "doc_type": "lov",
@@ -11037,15 +11037,15 @@
     },
     "nl-20240621-040": {
       "doc_type": "lov",
-      "embedding_hash": "1b8666bac1a664f2d928b4710894d294e61fea7ef972e7926bbd9052fc525633",
+      "embedding_hash": "7cbe687de26c01aef441416ee3b28aba1b3f3761630922aa3f4e9c3ad714bce7",
       "eu_basis": [
         "32014R1286",
         "32016R2340",
         "32019R1156",
         "32021R2259"
       ],
-      "last_changed": "2026-06-25",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "lover/priips-loven.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -11053,8 +11053,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven)",
-      "total_changes": 5,
-      "xml_hash": "1b8666bac1a664f2d928b4710894d294e61fea7ef972e7926bbd9052fc525633"
+      "total_changes": 6,
+      "xml_hash": "7cbe687de26c01aef441416ee3b28aba1b3f3761630922aa3f4e9c3ad714bce7"
     },
     "nl-20240621-041": {
       "doc_type": "lov",
@@ -48849,10 +48849,10 @@
     },
     "sf-20090818-1117": {
       "doc_type": "forskrift",
-      "embedding_hash": "3b8348cef927524259f3a31fdec5dd165de8718e832784313ac8f46e39e2fe29",
+      "embedding_hash": "f6076cc7d54dd270c265194839da77f4e03e68ca2a9fa6fd123ccff8ec4548e0",
       "eu_basis": [],
-      "last_changed": "2026-07-18",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "forskrifter/plantevernmiddelrestforskriften.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -48860,8 +48860,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer",
-      "total_changes": 7,
-      "xml_hash": "3b8348cef927524259f3a31fdec5dd165de8718e832784313ac8f46e39e2fe29"
+      "total_changes": 8,
+      "xml_hash": "f6076cc7d54dd270c265194839da77f4e03e68ca2a9fa6fd123ccff8ec4548e0"
     },
     "sf-20090820-1530": {
       "doc_type": "forskrift",
@@ -58561,10 +58561,10 @@
     },
     "sf-20140815-1076": {
       "doc_type": "forskrift",
-      "embedding_hash": "f39fd26a1f0c321abfbbc874df01b00101f4d35e8b4591713afc1d44138bfa1e",
+      "embedding_hash": "4c71fcef40824145940b6f741e7bb7c6216830032a8dd8f95e51624bc0d69e7f",
       "eu_basis": [],
-      "last_changed": "2026-07-23",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "forskrifter/sanksjonsforskrift-ukraina-territoriell-integritet-mv.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -58572,8 +58572,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet",
-      "total_changes": 6,
-      "xml_hash": "f39fd26a1f0c321abfbbc874df01b00101f4d35e8b4591713afc1d44138bfa1e"
+      "total_changes": 7,
+      "xml_hash": "4c71fcef40824145940b6f741e7bb7c6216830032a8dd8f95e51624bc0d69e7f"
     },
     "sf-20140815-1079": {
       "doc_type": "forskrift",
@@ -78897,10 +78897,10 @@
     },
     "sf-20220329-0484": {
       "doc_type": "forskrift",
-      "embedding_hash": "5d40190428a59f72b10872c582708fd1064845a37b78dae4494508ae261d63de",
+      "embedding_hash": "7e1351185654c2d599747d569f7890f584499478886f80aa80fdccafa578237d",
       "eu_basis": [],
-      "last_changed": "2026-06-30",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "forskrifter/vedtak-om-delegering-av-myndighet-fra-finansdepartementet-til-finanstilsynet.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -78908,8 +78908,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Vedtak om delegering av myndighet fra Finansdepartementet til Finanstilsynet",
-      "total_changes": 1,
-      "xml_hash": "5d40190428a59f72b10872c582708fd1064845a37b78dae4494508ae261d63de"
+      "total_changes": 2,
+      "xml_hash": "7e1351185654c2d599747d569f7890f584499478886f80aa80fdccafa578237d"
     },
     "sf-20220401-0511": {
       "doc_type": "forskrift",
@@ -92161,10 +92161,10 @@
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
-      "embedding_hash": "95c9012cc24c4668905a43034cc895b9b3828714edef0c26f0f07e39f7c0c550",
+      "embedding_hash": "6d4055e86666717d383b84e23c7f2cf65eb9d1b850e5a02bb2e5ffda961f524c",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -92172,8 +92172,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 7,
-      "xml_hash": "95c9012cc24c4668905a43034cc895b9b3828714edef0c26f0f07e39f7c0c550"
+      "total_changes": 8,
+      "xml_hash": "6d4055e86666717d383b84e23c7f2cf65eb9d1b850e5a02bb2e5ffda961f524c"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -93457,10 +93457,10 @@
     },
     "sf-20260409-0579": {
       "doc_type": "forskrift",
-      "embedding_hash": "8c5a4dcd94376f3c25e7ed14099421a81271a7ff5004dc00d0f573a33d33a246",
+      "embedding_hash": "e9307daf00626bea2f379307511eeea63ff5afdc5097d02e02b2f0b0bab75053",
       "eu_basis": [],
-      "last_changed": "2026-07-15",
-      "last_seen": "2026-07-28T16:54:24.870765Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -93468,8 +93468,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 12,
-      "xml_hash": "8c5a4dcd94376f3c25e7ed14099421a81271a7ff5004dc00d0f573a33d33a246"
+      "total_changes": 13,
+      "xml_hash": "e9307daf00626bea2f379307511eeea63ff5afdc5097d02e02b2f0b0bab75053"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -95105,10 +95105,10 @@
     },
     "sf-20260709-1544": {
       "doc_type": "forskrift",
-      "embedding_hash": "78aeac62f3d4d0dee43b7514a6f39a81e25ecec9f7602c09594cbf5f62113d47",
+      "embedding_hash": "f1602747079deb73beee0d7f3c24ec2e427c66f1b3908b31a05f68dafdb95b61",
       "eu_basis": [],
-      "last_changed": "2026-07-21",
-      "last_seen": "2026-07-21T06:25:58.312978Z",
+      "last_changed": "2026-07-30",
+      "last_seen": "2026-07-30T06:25:16.446498Z",
       "markdown_path": "forskrifter/forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026.md",
       "removed_reason": null,
       "renderer_version": 5,
@@ -95116,8 +95116,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om ekstraordinære tiltak i fisket etter anadrome laksefisk i vassdrag og sjøområder i 2026",
-      "total_changes": 2,
-      "xml_hash": "78aeac62f3d4d0dee43b7514a6f39a81e25ecec9f7602c09594cbf5f62113d47"
+      "total_changes": 3,
+      "xml_hash": "f1602747079deb73beee0d7f3c24ec2e427c66f1b3908b31a05f68dafdb95b61"
     },
     "sf-20260709-1547": {
       "doc_type": "forskrift",
@@ -95200,6 +95200,6 @@
       "xml_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d"
     }
   },
-  "generated_at": "2026-07-28T16:54:24.870765Z",
+  "generated_at": "2026-07-30T06:25:16.446498Z",
   "version": 1
 }

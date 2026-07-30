@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # plantevernmiddelrestforskriften — Change history
 
-_7 events; doc_id `sf-20090818-1117`._
+_8 events; doc_id `sf-20090818-1117`._
+
+## 2026-07-30 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): plantevernmiddelrestforskriften`
+Commit: `1aa42cb`.
 
 ## 2026-07-18 — Content updated
 Lines: +11 -7.
