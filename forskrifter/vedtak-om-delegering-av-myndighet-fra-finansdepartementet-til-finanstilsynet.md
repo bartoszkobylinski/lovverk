@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2022-03-29"
-last_change_in_force: "2026-06-24"
+last_change_in_force: "2026-07-28"
 last_updated: null
-xml_hash: "5d40190428a59f72b10872c582708fd1064845a37b78dae4494508ae261d63de"
+xml_hash: "7e1351185654c2d599747d569f7890f584499478886f80aa80fdccafa578237d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,8 @@ Finansdepartementet delegerer til Finanstilsynet myndighet etter følgende lover
 14. [lov 21. juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven)](lov/2024-06-21-41)
 15. [PRIIPs-loven](lov/2024-06-21-40)
 16. [DORA-loven](lov/2025-05-27-18)
-17. [kryptoeiendelsloven](lov/2025-05-27-20).
+17. [kryptoeiendelsloven](lov/2025-05-27-20)
+18. [lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)](lov/2026-02-06-2).
 
 Finansdepartementet delegerer til Finanstilsynet myndighet etter følgende lover til å gjennomføre kommisjonsdelegerte rettsakter (nivå 2-regelverk) inntatt i, eller forventet inntatt i, [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22):
 
@@ -60,7 +61,7 @@ Finansdepartementet ber om at utkast til forskrift forelegges departementet ders
 
 Dersom det er behov for ytterligere delegering, ev. lovendringer, for å gjennomføre nivå 2-regelverk som er eller forventes inntatt i [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9), bes tilsynet om å foreslå nødvendige tiltak.
 
-> Endret ved vedtak [2 jan 2023 nr. 1](forskrift/2023-01-02-1), [7 juli 2023 nr. 1253](forskrift/2023-07-07-1253), [11 mars 2025 nr. 414](forskrift/2025-03-11-414), [25 juni 2025 nr. 1312](forskrift/2025-06-25-1312).
+> Endret ved vedtak [2 jan 2023 nr. 1](forskrift/2023-01-02-1), [7 juli 2023 nr. 1253](forskrift/2023-07-07-1253), [11 mars 2025 nr. 414](forskrift/2025-03-11-414), [25 juni 2025 nr. 1312](forskrift/2025-06-25-1312), [28 juli 2026 nr. 1584](forskrift/2026-07-28-1584).
 
 ## § 3. Delegering av myndighet etter finanstilsynsloven
 
