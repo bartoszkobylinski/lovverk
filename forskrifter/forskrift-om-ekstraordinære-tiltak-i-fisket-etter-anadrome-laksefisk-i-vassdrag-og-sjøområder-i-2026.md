@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-10"
 last_change_in_force: null
 last_updated: null
-xml_hash: "78aeac62f3d4d0dee43b7514a6f39a81e25ecec9f7602c09594cbf5f62113d47"
+xml_hash: "f1602747079deb73beee0d7f3c24ec2e427c66f1b3908b31a05f68dafdb95b61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-21T06:25:58.312978+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,7 +35,7 @@ For vassdrag som nevnt i tabellen gjelder følgende fiskebestemmelser i stedet f
 | Møre og Romsdal | Hustadvika | 108.2Z | Vågsbøelva | L: 01.06–01.08<br>Ø: 15.06–01.08 |  |
 | Møre og Romsdal | Hustadvika | 108.221Z | Vassgårdselva | L: 01.06–17.08<br>Ø: 15.07–17.08 | Døgnkvote per fisker: 2 laks. Døgnkvote per fisker: 1 sjøørret. |
 
-> Endres ved forskrift [16 juli 2026 nr. 1567](forskrift/2026-07-16-1567) (i kraft 1 aug 2026, gjelder til 31 desember 2026).
+> **Endres** ved forskrift [16 juli 2026 nr. 1567](forskrift/2026-07-16-1567) (i kraft 1 aug 2026, gjelder til 31 desember 2026).
 
 ## § 2. Begrensning i fiskebestemmelser i sjø
 
