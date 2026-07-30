@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: "2026-07-10"
+last_change_in_force: "2026-07-24"
 last_updated: null
-xml_hash: "8c5a4dcd94376f3c25e7ed14099421a81271a7ff5004dc00d0f573a33d33a246"
+xml_hash: "e9307daf00626bea2f379307511eeea63ff5afdc5097d02e02b2f0b0bab75053"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,19 +80,18 @@ Det er forbudt å fiske etter sei med not i et område på Runningen i Finnmark 
 
 ## § 6. Sværholt, Porsanger og Laksefjorden i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på «Sværholt, Porsanger og Laksefjorden i Finnmark», avgrenset av rette linjer mellom følgende posisjoner:
+Det er forbudt å fiske etter sei med not i et område på Sværholt, Porsanger og Laksefjorden i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:
 
-1. Nord 71 grader 07,000 minutter Øst 026 grader 03,300 minutter
-2. Nord 71 grader 06,600 minutter Øst 026 grader 19,000 minutter
-3. Nord 71 grader 11,200 minutter Øst 026 grader 16,000 minutter
-4. Nord 71 grader 12,300 minutter Øst 026 grader 50,500 minutter
-5. Nord 71 grader 08,000 minutter Øst 027 grader 39,450 minutter
-6. Nord 70 grader 54,600 minutter Øst 025 grader 41,100 minutter
-7. Nord 70 grader 56,500 minutter Øst 025 grader 41,300 minutter
+1. Nord 71 grader 06,85 minutter Øst 026 grader 02,5 minutter
+2. Nord 71 grader 11,2 minutter Øst 026 grader 16,0 minutter
+3. Nord 71 grader 12,3 minutter Øst 026 grader 50,5 minutter
+4. Nord 71 grader 08,0 minutter Øst 027 grader 39,45 minutter
+5. Nord 70 grader 54,6 minutter Øst 025 grader 41,1 minutter
+6. Nord 70 grader 56,5 minutter Øst 025 grader 41,3 minutter
 
-Mellom posisjon 5 og 6 og mellom 7 og 1 følger grensen sjølinjen.
+Mellom posisjon 4 og 5 og mellom 6 og 1 følger grensen sjølinjen.
 
-> Endret ved forskrifter [7 juli 2026 nr. 1528](forskrift/2026-07-07-1528), [10 juli 2026 nr. 1548](forskrift/2026-07-10-1548).
+> Endret ved forskrifter [7 juli 2026 nr. 1528](forskrift/2026-07-07-1528), [10 juli 2026 nr. 1548](forskrift/2026-07-10-1548), [24 juli 2026 nr. 1582](forskrift/2026-07-24-1582).
 
 ## § 7. Hasvik i Finnmark
 
