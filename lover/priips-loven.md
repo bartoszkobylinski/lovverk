@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-10-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "1b8666bac1a664f2d928b4710894d294e61fea7ef972e7926bbd9052fc525633"
+xml_hash: "7cbe687de26c01aef441416ee3b28aba1b3f3761630922aa3f4e9c3ad714bce7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis:
   - "32014R1286"
@@ -53,7 +53,7 @@ Nøkkelinformasjonsdokument som distribueres i Norge, skal være på norsk. Depa
 
 ## § 5. Tilsyn
 
-Finanstilsynet fører tilsyn med overholdelse av bestemmelsene gitt i eller i medhold av denne loven. [Finanstilsynsloven](lov/1956-12-07-1) kommer til anvendelse.
+Finanstilsynet fører tilsyn med overholdelse av bestemmelsene gitt i eller i medhold av denne loven. [Finanstilsynsloven](lov/2024-06-21-41) kommer til anvendelse.
 
 ## § 6. Administrative tiltak
 
