@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-01-01"
 last_change_in_force: "2021-04-16"
 last_updated: "2021-04-19"
-xml_hash: "df89ff38b9ee3b8f26ecfc068c3e8e4ba955fdf6c090bba5c9e5ec403503e392"
+xml_hash: "237fbc47dfc6930c9562fe52a23c2e6f289c3a36031db43e707bab6097a83835"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Formålet med loven er å forebygge og bekjempe kriminalitet og å bidra til riktig skatte- og avgiftsbetaling, ved at kontroll- og etterforskningsorganene får tilgang til opplysninger om valutavekslinger og fysisk eller elektronisk overføringer av betalingsmidler inn og ut av Norge.
 
-Opplysningene i registeret skal også kunne brukes til ivaretakelse av Norges Banks oppgaver etter [sentralbankloven](lov/2019-06-21-31), Finanstilsynets oppgaver etter [finanstilsynsloven](lov/1956-12-07-1) og i forbindelse med kontroll av gjennomføring av internasjonale sanksjoner etter [sanksjonsloven](lov/2021-04-16-18).
+Opplysningene i registeret skal også kunne brukes til ivaretakelse av Norges Banks oppgaver etter [sentralbankloven](lov/2019-06-21-31), Finanstilsynets oppgaver etter [finanstilsynsloven](lov/2024-06-21-41) og i forbindelse med kontroll av gjennomføring av internasjonale sanksjoner etter [sanksjonsloven](lov/2021-04-16-18).
 
 > Endret ved [lover 19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [16 april 2021 nr. 18](lov/2021-04-16-18) (ikr. 16 april 2021 iflg. [res. 16 april 2021 nr. 1182](forskrift/2021-04-16-1182)).
 
