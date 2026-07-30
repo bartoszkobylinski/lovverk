@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-10-15"
 last_change_in_force: "2025-07-01"
 last_updated: "2023-06-15"
-xml_hash: "9acfaf0753d363db347c4f24b461428fe298ce94b4d94522273ec24b266951d0"
+xml_hash: "b43be29ec1e861a32e36530abb1fbb84625110cfccb164af1269b60502381af1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -649,7 +649,7 @@ Forvaltere av utenlandske truster eller lignende juridiske arrangementer har pli
    5. føring av et register over rapporteringspliktige under tilsyn og innsyn i registeret, herunder registreringsplikt
    6. betaling av gebyr til dekning av tilsynsmyndighetens utgifter.
 
-(3) Regler om Finanstilsynets og Advokattilsynets gjennomføring av tilsyn følger av [finanstilsynsloven](lov/1956-12-07-1) og [advokatloven](lov/2022-05-12-28).
+(3) Regler om Finanstilsynets og Advokattilsynets gjennomføring av tilsyn følger av [finanstilsynsloven](lov/2024-06-21-41) og [advokatloven](lov/2022-05-12-28).
 
 > Endret ved lover [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 jan 2025 iflg. [res. 25 juni 2024 nr. 1214](forskrift/2024-06-25-1214)).
 
