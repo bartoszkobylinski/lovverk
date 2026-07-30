@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-08-15"
 last_change_in_force: "2026-07-14"
 last_updated: "2026-04-09"
-xml_hash: "f39fd26a1f0c321abfbbc874df01b00101f4d35e8b4591713afc1d44138bfa1e"
+xml_hash: "4c71fcef40824145940b6f741e7bb7c6216830032a8dd8f95e51624bc0d69e7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2623,7 +2623,7 @@ Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner de
 1. juridiske personer som er oppført i vedleggene til denne forskriften, eller juridiske personer som er etablert utenfor Norge eller EU, hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av dem,
 2. andre russiske fysiske eller juridiske personer,
 3. personer som handler gjennom eller på vegne av juridiske personer omtalt i bokstav a) eller b),
-4. enhver fysisk person fra et tredjeland som ikke er russisk statsborger, og enhver juridisk person som er etablert i et annet tredjeland enn Russland, med unntak av partnerland til EU som er oppført i [vedlegg VIII](forskrift/2014-08-15-1076/vedleggVIII) til forordning [(EU) nr. 833/2014](eu/32014r0833), og som selger, leverer, overfører eller eksporterer varer, teknologi og tjenester som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forskriften, uansett om de har opprinnelse i Norge eller EU, til fysiske og juridiske personer som er nevnt i bokstav a, b eller c i dette leddet, eller til bruk i Russland.
+4. enhver fysisk person fra et tredjeland som ikke er russisk statsborger, og enhver juridisk person som er etablert i et annet tredjeland enn Russland, med unntak av partnerland til EU som er oppført i vedlegg VIII til forordning [(EU) nr. 833/2014](eu/32014r0833), og som selger, leverer, overfører eller eksporterer varer, teknologi og tjenester som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forskriften, uansett om de har opprinnelse i Norge eller EU, til fysiske og juridiske personer som er nevnt i bokstav a, b eller c i dette leddet, eller til bruk i Russland.
 
 I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i første ledd.
 
