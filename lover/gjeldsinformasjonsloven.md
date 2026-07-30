@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-11-01"
 last_change_in_force: "2022-07-01"
 last_updated: "2021-09-02"
-xml_hash: "0ff9203c99e6cff52fbebd94364043e4ceef747e805b51905359ece571f752db"
+xml_hash: "0fec0d0415f576bca261e2e5b6312c192fa8a40a1adb1afcf400514bfab63fe3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-27T19:02:17.427238+00:00"
+retrieved_at: "2026-07-30T06:25:16.446498+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -173,7 +173,7 @@ Departementet kan i forskrift gi nærmere regler om sletting av gjeldsopplysning
 
 ### § 16. Tilsyn, forholdet til tilsynsmyndigheten
 
-Gjeldsinformasjonsforetak er underlagt tilsyn av Finanstilsynet etter [finanstilsynsloven](lov/1956-12-07-1).
+Gjeldsinformasjonsforetak er underlagt tilsyn av Finanstilsynet etter [finanstilsynsloven](lov/2024-06-21-41).
 
 Gjeldsinformasjonsforetak og den som handler på vegne av foretaket, har plikt til å gi de opplysninger som Finanstilsynet krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Finanstilsynet dokumentasjon som angår virksomheten.
 
