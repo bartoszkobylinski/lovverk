@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260710-1545",
+  "events": [
+    {
+      "commit": "ce3df5a",
+      "date": "2026-07-14",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 25,
+      "subject": "add(forskrift): forskrift-om-omregningsfaktorer",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-omregningsfaktorer-2026"
+}

@@ -2948,7 +2948,7 @@ _5151 current documents_
 - [forskrift-om-omregistreringsavgift](forskrift-om-omregistreringsavgift.md) — Forskrift om omregistreringsavgift
 - [forskrift-om-omregning-av-afp](forskrift-om-omregning-av-afp.md) — Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv.
 - [forskrift-om-omregning-av-uførepensjon-til-uføretrygd](forskrift-om-omregning-av-uførepensjon-til-uføretrygd.md) — Forskrift om omregning av uførepensjon til uføretrygd
-- [forskrift-om-omregningsfaktorer](forskrift-om-omregningsfaktorer.md) — Forskrift om bruk av omregningsfaktorer for omregning fra produktvekt og antall til rund vekt (forskrift om omregningsfaktorer)
+- [forskrift-om-omregningsfaktorer-2026](forskrift-om-omregningsfaktorer-2026.md) — Forskrift om bruk av omregningsfaktorer for omregning fra produktvekt og antall til rund vekt (forskrift om omregningsfaktorer)
 - [forskrift-om-omregningsfaktorer-for-råvarer](forskrift-om-omregningsfaktorer-for-råvarer.md) — Forskrift om omregningsfaktorer for råvarer til matmel og kraftfôrproduksjon ved fastsettelse av tollavgiftssatser og prisutjevningsbeløp
 - [forskrift-om-områdestenging-i-barentshavet](forskrift-om-områdestenging-i-barentshavet.md) — Forskrift om stenging av områder i Barentshavet og på kysten av Finnmark utenfor 4 nautiske mil for fiske med torsketrål og snurrevad
 - [forskrift-om-omsetning-av-tømmer-mv-opprinnelse-i-norge](forskrift-om-omsetning-av-tømmer-mv-opprinnelse-i-norge.md) — Forskrift om omsetning av tømmer og treprodukter med opprinnelse i Norge
