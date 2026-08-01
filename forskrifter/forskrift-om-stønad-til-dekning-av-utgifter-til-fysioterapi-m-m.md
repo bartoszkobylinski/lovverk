@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2024-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "3bb29c2760f8d7b13b6512f504537d0b2d2f3bcceb20af07b97b093c2f950f5d"
+xml_hash: "db84d2cf713d737cf5902ad6b87f688d06752d1529b009ceb3e3cf3a9dfda30e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Utgifter til fysioterapi dekkes bare hvis den som gir behandlingen
 
 ### § 5
 
-Stønad til fysioterapi ytes etter takstene i [kapittel II](forskrift/2024-06-17-1184/kapII). Det ytes stønad etter honorartakstene ved behandling ved skader og sykdom som går inn under [folketrygdloven kapittel 13](lov/1997-02-28-19/kap13) Yrkesskadedekning, se loven [§ 5-25](lov/1997-02-28-19/§5-25), og ved behandling av barn under 16 år.
+Stønad til fysioterapi ytes etter takstene i [kapittel II](forskrift/2024-06-17-1184/kapII). Det ytes stønad etter honorartakstene ved behandling ved skader og sykdom som går inn under [folketrygdloven kapittel 13](lov/1997-02-28-19/kap13) Yrkesskadedekning, se loven [§ 5-25](lov/1997-02-28-19/§5-25), og ved behandling av barn under 18 år.
 
 Den enkelte fysioterapeut er selv ansvarlig for å vurdere hvorvidt en pasient har krav på stønad i medhold av [folketrygdloven § 5-8](lov/1997-02-28-19/§5-8). Enhver undersøkelse og behandling skal være innenfor rammen av nødvendig og faglig forsvarlig fysioterapi. Det gis ikke stønad til alternativ behandling, jf. [lov om alternativ behandling av sykdom mv. § 2](lov/2003-06-27-64/§2) tredje ledd.
 
@@ -50,7 +50,7 @@ Fysioterapeuten må i journal dokumentere refusjonskravet, herunder hvilke under
 
 Avtalefysioterapeut som mottar turnuskandidat krever inn og beholder de egenandelene som turnuskandidaten utløser, jf. [forskrift om egenandel for kommunale helse- og omsorgstjenester § 11](forskrift/2011-12-16-1349/§11) første ledd og [forskrift om fastlønnstilskudd til delvis dekning av kommunenes utgifter til fysioterapitjenesten § 1](forskrift/2001-05-25-542/§1) første ledd. Turnuskandidat kan utløse egenandelene som framkommer i [kapittel II](forskrift/2024-06-17-1184/kapII), pkt. T.
 
-> **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endret ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 6
 
