@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-06-22"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "9c2f398a2f8717133d224cc76f811d2d083dd9d7a17d9ba90412f9032f5ac62b"
+xml_hash: "85d8cfbf2d02ab7ad3192c469345dfed2874351969868fe6fff38b27278d6f32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,13 +63,15 @@ Elevar på 8. til 10. trinn skal i tillegg til opplæringa i engelsk ha opplæri
 Skolen må tilby opplæring i
 
 1. minst eitt av språka tysk, fransk, spansk eller russisk etter læreplanen i framandspråk på nivå I, eller etter den læreplanen som skolen har fått godkjend.
-2. minst eitt av faga fordjuping i engelsk, fordjuping i norsk, fordjuping i samisk eller fordjuping i matematikk, etter den læreplanen som skolen har fått godkjend.
+2. arbeidslivsfag, etter den læreplanen som skolen har fått godkjend.
 
 Elevane skal ha det faget dei har valt, frå 8. til 10. trinn. Dei kan likevel byte fag det første halvåret i samråd med skolen. Skolen kan godkjenne fagbyte på eit seinare tidspunkt dersom særlege grunnar taler for det.
 
 Elevane kan ikkje krevje å halde fram med det same faget dersom dei byter skole.
 
-> **Vert endra** ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
+Kravet i andre ledd bokstav b gjeld ikkje for internasjonale skolar, jf. [privatskolelova § 2-1 andre ledd bokstav c](lov/2003-07-04-84/§2-1/ledd/2/bokstav/c).
+
+> Endra ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
 
 ### § 1-8. Fritak frå opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn
 
@@ -450,9 +452,9 @@ Skolen skal rette og attestere føringsfeil.
 
 Elevar som er fritatt for opplæringsplikt etter [opplæringslova § 2-2 tredje ledd](lov/2023-06-09-30/§2-2/ledd/3), jf. [privatskolelova § 3-3](lov/2003-07-04-84/§3-3), skal framleis stå oppførte i systemet for føring av karakterar.
 
-Skolen skal dokumentere fråvær kvart halvår.
+Skolen skal dokumentere fråvær kvart halvår. Dersom eleven er hos skolehelsetenesta, skal det ikkje bli rekna som fråvær frå opplæringa etter [kapittel 6](forskrift/2024-06-03-901/kap6) i denne forskrifta.
 
-> **Vert endra** ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
+> Endra ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
 
 ### § 6-10. Dispensasjon frå reglane om individuell vurdering
 
@@ -1323,7 +1325,9 @@ Lovbrotsgebyr etter [privatskolelova § 7-2c](lov/2003-07-04-84/§7-2c) skal ikk
 
 ### § 17-2. Overgangsregel for krav om å tilby arbeidslivsfag på 8. til 10. trinn
 
-> **Vert tilføyd** ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
+I staden for arbeidslivsfag kan skolen fram til 1. august 2027 velje å tilby minst eitt av faga fordjuping i engelsk, fordjuping i norsk, fordjuping i samisk eller fordjuping i matematikk.
+
+> Tilføyd ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
 
 ### Kapittel 18. Iverksetjing og oppheving
 
