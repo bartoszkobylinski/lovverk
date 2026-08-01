@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2025-08-20"
-xml_hash: "36adee974869a718f9a87d9f509def7d21ac28a44eebd48f79edf5ff80d391b0"
+xml_hash: "73047b790a821c5411f9ba30ff532ebc320a64548875a7ec00dd8ab19f73aac6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -105,7 +105,7 @@ Departementet kan i særskilte tilfeller godkjenne unntak fra første ledd.
 
 ### § 2-6. Egenbetaling for statsborgere fra land utenfor EØS og Sveits
 
-Statlige universiteter og høyskoler skal kreve egenbetaling fra studenter som er statsborgere i land utenfor EØS eller Sveits. Egenbetalingen skal minst dekke institusjonens kostnader for utdanningen.
+Statlige universiteter og høyskoler skal kreve egenbetaling fra studenter som er statsborgere i land utenfor EØS eller Sveits.
 
 Institusjonene skal ikke kreve egenbetaling fra
 
@@ -116,7 +116,7 @@ Institusjonene skal ikke kreve egenbetaling fra
 
 Departementet kan gi forskrift om unntak fra første ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 2-7. Særlig ansvar for enkelte institusjoner
 
@@ -329,7 +329,7 @@ Rektor kan utpekes ved valg dersom styret bestemmer det. Både institusjonens an
 
 Valgt rektor er styrets leder. På vegne av styret har valgt rektor det overordnede ansvaret for og skal lede og føre tilsyn med institusjonens virksomhet.
 
-Rektor velges for en periode på fire år med mindre særlige grunner tilsier en annen varighet. En rektor som ved begynnelsen av den nye valgperioden har fungert i vervet i åtte år sammenhengende, kan ikke gjenvelges. Styret selv kan bestemme at prorektor overtar dersom valgt rektor fratrer vervet i løpet av det siste året av funksjonstiden.
+Rektor velges for en periode på fire år med mindre særlige grunner tilsier en annen varighet. En rektor som ved begynnelsen av den nye valgperioden har fungert i vervet i åtte år sammenhengende, kan ikke gjenvelges. Styret selv kan bestemme at prorektor overtar dersom valgt rektor fratrer vervet.
 
 En valgt rektor som ikke allerede er fast ansatt ved institusjonen, trer inn i en åremålsstilling.
 
@@ -337,7 +337,7 @@ Ved valg av rektor skal stemmene til de ansatte ved opptelling vektes 70–75 pr
 
 Styret selv fastsetter nærmere regler om valget.
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 4-7. Administrerende direktør
 
@@ -381,9 +381,9 @@ Styret selv skal fatte vedtak om at det er forsvarlig å starte opp et nytt stud
 
 ### § 5-2. Delegering
 
-Styret kan delegere avgjørelsesmyndigheten til andre ved institusjonen dersom det ikke er fastsatt i loven at styret selv skal ta avgjørelsen, eller det er andre særlige begrensninger i adgangen til å delegere.
+Styret kan delegere avgjørelsesmyndigheten til andre ved institusjonen med mindre det er fastsatt i loven at styret selv skal ta avgjørelsen, eller det er andre særlige begrensninger i adgangen til å delegere.
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 5-3. Taushetsplikt
 
@@ -409,13 +409,13 @@ Private universiteter og høyskoler skal bruke statstilskudd og egenbetaling fra
 
 Private universiteter og høyskoler som mottar statstilskudd, skal la tilskuddet og egenbetaling komme studentene til gode. Institusjonene kan ikke foreta utdelinger.
 
-Private universiteter og høyskoler som mottar statstilskudd, skal ikke bruke statstilskuddet til å dekke driftskostnader for studier til studentgrupper som skal avkreves egenbetaling etter [§ 2-6](lov/2024-03-08-9/§2-6).
+Private universiteter og høyskoler som mottar statstilskudd, skal kreve egenbetaling fra studenter som er statsborgere i land utenfor EØS eller Sveits. For studenter som er omfattet av [§ 2-6 andre ledd](lov/2024-03-08-9/§2-6/ledd/2), bestemmer institusjonen selv om den vil ta egenbetaling.
 
 Private universiteter og høyskoler som ikke mottar statstilskudd, kan ikke foreta utdelinger som fører til at egenkapitalen blir lavere enn 20 prosent av verdien av eiendelene.
 
 Departementet kan gi forskrift om disponering av statstilskudd og egenbetaling, blant annet ved avvikling av akkreditert virksomhet.
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 6-3. Avtaler med nærstående parter
 
@@ -485,7 +485,7 @@ Dersom ett kjønn er klart underrepresentert innenfor en stillingskategori av un
 
 ### § 7-2. Ansettelse i undervisnings- og forskningsstillinger
 
-Undervisnings- og forskningsstillinger skal lyses ut med kvalifikasjonskrav med mindre annet er fastsatt i lov, forskrift eller tariffavtale.
+Undervisnings- og forskningsstillinger skal lyses ut med kvalifikasjonskrav med mindre annet er fastsatt i denne loven med forskrifter eller tariffavtale.
 
 Ansettelser i undervisnings- og forskningsstillinger skal gjøres på grunnlag av en innstilling. Innstillingen skal baseres på kvalifikasjonskravene i utlysingen og en vurdering fra en sakkyndig komite. Begge kjønn skal være representert i den sakkyndige komiteen. I stillinger hvor det stilles krav om utdanningsfaglig kompetanse, skal det vurderes særskilt om søkerne oppfyller dem. Styret selv bestemmer hvem som skal innstille, og fastsetter nærmere regler om innstilling.
 
@@ -495,7 +495,7 @@ Styret kan opprette ett eller flere ansettelsesutvalg som skal ansette personer 
 
 Departementet kan gi forskrift om framgangsmåten og kriteriene for ansettelse og opprykk i undervisnings- og forskningsstillinger.
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 7-3. Midlertidig ansettelse i undervisnings- og forskningsstillinger
 
@@ -918,7 +918,7 @@ Departementet kan gi forskrift om hva som anses som falske dokumenter.
 
 ### § 12-2. Krav om politiattest
 
-I studier der studenter kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksis, kan universiteter og høyskoler kreve at studentene legger fram politiattest som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1). Attesten kan kreves framlagt ved opptak og underveis i studiet. I tillegg gjelder særlige regler om politiattest for bestemte typer yrkesutøvelse tilsvarende for studenter som deltar i klinisk undervisning eller praksis.
+I studier der studenter kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksis, skal universiteter og høyskoler kreve at studentene legger fram politiattest som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1). Attesten kan kreves framlagt ved opptak og underveis i studiet. I tillegg gjelder særlige regler om politiattest for bestemte typer yrkesutøvelse tilsvarende for studenter som deltar i klinisk undervisning eller praksis.
 
 Universiteter og høyskoler kan utestenge en student fra klinisk undervisning og praksis dersom studenten er dømt eller har vedtatt forelegg for forhold som innebærer at det må anses uforsvarlig at studenten deltar i arbeid med pasienter, brukere, barnehagebarn, elever eller andre.
 
@@ -928,7 +928,7 @@ Vedtak om utestenging og utelukkelse fra klinisk undervisning og praksis fattes 
 
 Departementet kan gi forskrift om gjennomføring av kravet om politiattest, blant annet om saksbehandling og frister.
 
-> Endret ved lov [20 juni 2025 nr. 101](lov/2025-06-20-101) (i kraft 1 aug 2025 iflg. [res. 20 juni 2025 nr. 1092](forskrift/2025-06-20-1092)). **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lover [20 juni 2025 nr. 101](lov/2025-06-20-101) (i kraft 1 aug 2025 iflg. [res. 20 juni 2025 nr. 1092](forskrift/2025-06-20-1092)), [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 12-3. Skikkethetsvurdering
 
@@ -1000,13 +1000,13 @@ Vedtak om bortvisning skal fattes av rektor eller den rektor bestemmer. Vedtak o
 
 ### § 12-9. Rett til å få dekket utgifter til advokat
 
-Studenter har rett til å få dekket rimelige og nødvendige utgifter til bistand fra advokat eller annen fullmektig i saker som gjelder utestenging etter [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8), utelukkelse etter [§ 12-2](lov/2024-03-08-9/§12-2), uskikkethet etter [§ 12-3](lov/2024-03-08-9/§12-3) og bortvisning etter [§§ 12-5](lov/2024-03-08-9/§12-5) og [12-8](lov/2024-03-08-9/§12-8).
+Studenter har rett til å få dekket rimelige og nødvendige utgifter til bistand fra advokat eller annen fullmektig i saker som gjelder utestenging etter [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8), utelukkelse etter [§ 12-2](lov/2024-03-08-9/§12-2), uskikkethet etter [§ 12-3](lov/2024-03-08-9/§12-3) og bortvisning etter [§§ 12-5](lov/2024-03-08-9/§12-5) og [12-8](lov/2024-03-08-9/§12-8). Departementet kan gi forskrift om hvor høye utgifter studenter har rett til å få dekket.
 
 Retten til dekning av utgifter gjelder fra det tidspunktet det tas avgjørelse om å fremme saken.
 
 Utgiftene til advokat eller annen fullmektig dekkes av det enkelte universitet eller den enkelte høyskole. [Salærforskriften](forskrift/1997-12-03-1441) gjelder med unntak av reglene i [§ 4](forskrift/1997-12-03-1441/§4) om hvem som fastsetter salæret, og reglene i [§ 13](forskrift/1997-12-03-1441/§13) om klage og anke. Det er den enkelte institusjon som fastsetter salæret, og vedtak om salærfastsettelse kan påklages til departementet eller en nasjonal klagenemnd som er oppnevnt av departementet, jf. [§ 14-2](lov/2024-03-08-9/§14-2).
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 12-10. Domstolsprøving av vedtak om utestenging, utelukkelse, uskikkethet og bortvisning
 
@@ -1048,15 +1048,15 @@ Institusjonene kan også vedta tvungen avslutning av en doktorgradsutdanning der
 
 Universiteter og høyskoler skal opprette minst én nemnd for studentsaker. Flere institusjoner kan opprette en felles nemnd.
 
-Nemnda er klageinstans for klager på enkeltvedtak fattet av institusjonen, bortsett fra der det er fastsatt i eller med hjemmel i denne loven at det er en annen klageinstans. Nemnda kan behandle saker som førsteinstans etter [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8) etter delegering fra styret.
+Nemnda er klageinstans for klager på enkeltvedtak fattet av institusjonen, bortsett fra der det er fastsatt i eller med hjemmel i denne loven at det er en annen klageinstans. Nemnda kan behandle saker som førsteinstans etter [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-9](lov/2024-03-08-9/§12-9) etter delegering fra styret.
 
 Nemnda kan ikke instrueres i behandlingen av klagesaker.
 
-Nemnda skal ha fem medlemmer med personlige varamedlemmer. Lederen og vara for lederen skal oppfylle de lovbestemte kravene for lagdommere og tingrettsdommere, jf. [domstolloven § 54](lov/1915-08-13-5/§54). Lederen og vara for lederen kan ikke være ansatt ved institusjonen. To av medlemmene skal være studenter. Representanter for institusjonens eier eller medlemmer av institusjonens styre kan ikke være medlemmer av nemnda.
+Nemnda skal ha fem medlemmer med personlige varamedlemmer. Lederen og vara for lederen skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Lederen og vara for lederen kan ikke være ansatt ved institusjonen. To av medlemmene skal være studenter. Representanter for institusjonens eier eller medlemmer av institusjonens styre kan ikke være medlemmer av nemnda.
 
 Nemnda er vedtaksfør når lederen eller varaen for lederen og to andre medlemmer er til stede.
 
-> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
+> Endret ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 14-2. Nasjonale klagenemnder
 
