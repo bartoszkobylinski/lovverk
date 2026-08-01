@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2019-07-11"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2019-09-26"
-xml_hash: "040da4f93fc57b66b6b370607f4770445d7da6c84b40a7f0632c908840e2f258"
+xml_hash: "b0ef425cc8fec85b98feed6e432eb2eb7114473b524aa1bdfbea92f5d37130d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -452,30 +452,34 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 (1) NOKUT skal oppnevne sakkyndige for å gjennomføre vurdering ved:
 
-1. akkreditering av fagskoleutdanning etter [§ 47](forskrift/2019-07-11-1005/§47) og fagområde etter [§ 48](forskrift/2019-07-11-1005/§48), med mindre kravene i [§ 47](forskrift/2019-07-11-1005/§47) andre ledd og [§ 48](forskrift/2019-07-11-1005/§48) andre ledd er oppfylt
+1. akkreditering av fagskoleutdanning, fagområde og institusjon, med mindre det er grunnlag for å avvise eller avslå søknaden etter [§ 46a](forskrift/2019-07-11-1005/§46a).
 2. tilsyn med om vilkårene for akkreditering er oppfylt hvis det skal foretas faglige vurderinger, eller når vurderingen kan medføre tilbaketrekking av akkreditering, jf. [fagskoleloven § 5c](lov/2018-06-08-28/§5c).
 
 (2) De sakkyndige skal avgi rapport med anbefalinger om vedtak til NOKUT.
 
 (3) NOKUT gir forskrift om kriterier for de sakkyndiges kompetanse, oppnevning av sakkyndige og mandat og saksbehandlingsregler for de sakkyndiges arbeid.
 
-> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Endres** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+> Endret ved forskrifter [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024), [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
 
 ### § 46a. Avvisning og avslag på søknad om akkreditering uten å oppnevne sakkyndige
 
-> **Tilføyes** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+(1) NOKUT kan avvise en søknad om akkreditering uten å oppnevne sakkyndige dersom søknaden har mangler som gjør den uegnet for sakkyndig vurdering.
+
+(2) NOKUT kan avslå en søknad om akkreditering uten å oppnevne sakkyndige dersom søknaden klart ikke oppfyller vilkårene for akkreditering.
+
+> Tilføyd ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
 
 ### § 47. Akkreditering av fagskoleutdanning
 
 (1) NOKUTs akkrediteringsmyndighet etter [fagskoleloven § 5](lov/2018-06-08-28/§5) første ledd gjelder både nye fagskoleutdanninger og vesentlige endringer i allerede akkrediterte tilbud.
 
-(2) NOKUT kan avvise behandling av søknad uten å oppnevne sakkyndige dersom søknaden har mangler som gjør den uegnet for sakkyndig behandling. NOKUT kan avslå en søknad uten å oppnevne sakkyndige dersom søknaden klart ikke oppfyller vilkårene for akkreditering.
+(2) – – –
 
 (3) NOKUT kan gi akkreditering uten bruk av sakkyndige dersom søknaden gjelder endringer i tidligere akkrediterte utdanningstilbud.
 
 (4) NOKUT skal påse at fagskoleutdanningen er i tråd med de internasjonale standarder, konvensjoner og avtaler som Norge er forpliktet til å følge.
 
-> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Endres** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024), [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
 
 ### § 48. Akkreditering for fagområde
 
@@ -485,11 +489,11 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 2. Fagskolen må ha uteksaminert kandidater i minst én akkreditert fagskoleutdanning i minst to år
 3. Fagskolen må dokumentere deltakelse i garanti- eller forsikringsordning som sikrer studenter refusjon av innbetalte skolepenger dersom fagskolen frivillig eller pålagt stanser en fagskoleutdanning og dette medfører at noen studenter ikke får fullført utdanningen etter oppsatt plan. Garanti- eller forsikringsordningen skal dekke innbetalte skolepenger for fagskoleutdanninger som enten blir avbrutt eller ikke starter.
 
-(2) NOKUT kan avvise behandling av søknad uten å oppnevne sakkyndige dersom søknaden har mangler som gjør den uegnet for sakkyndig behandling. NOKUT kan avslå en søknad uten å oppnevne sakkyndige dersom søknaden klart ikke oppfyller vilkårene for akkreditering.
+(2) – – –
 
 (3) Fagskoler som har akkreditering for fagområde, kan selv akkreditere nye fagskoleutdanninger og foreta vesentlige endringer i fagskoleutdanningene innen det akkrediterte fagområdet.
 
-> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Endres** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024), [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
 
 ### § 49. Kvalitetssikring av fagskoleutdanningen
 
@@ -501,13 +505,44 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 > Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
 
-### § 50. (Opphevet)
+### § 50. Vilkår for institusjonsakkreditering
 
-> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Tilføyes** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+(1) For å oppnå og inneha institusjonsakkreditering må fagskolen oppfylle vilkårene i denne paragrafen. Vilkårene i niende og tiende ledd må kun være oppfylt på søknadstidspunktet.
 
-### § 51. (Opphevet)
+(2) Fagskolens primærvirksomhet skal være utdanning og den skal være tydelig avgrenset fra eventuell annen virksomhet.
 
-> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Tilføyes** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+(3) Fagskolen skal ha en strategi som inkluderer mål og tiltak for hvordan fagskolen vil utvikle utdanningsporteføljen.
+
+(4) Fagskolens kvalitetsarbeid skal være tilfredsstillende.
+
+(5) Fagskolens samlede fagmiljø skal oppfylle følgende krav:
+
+1. Minst 50 prosent av fagskolens fagmiljø skal være fast ansatte ved fagskolen.
+2. Minst 30 prosent av fagskolens undervisningsårsverk skal ha utdanningsfaglig utdanning.
+3. Fagmiljøet skal gjennomføre nødvendig faglig og pedagogisk utviklingsarbeid.
+4. Fagmiljøet skal delta i relevante regionale, nasjonale eller internasjonale samarbeid og nettverk.
+
+(6) Fagskolen skal ha et læringsmiljøutvalg, jf. [§ 51](forskrift/2019-07-11-1005/§51).
+
+(7) Fagskolens system for kvalitetssikring skal vise prosedyrer for hvordan fagskolen akkrediterer nye utdanninger og gjennomfører vesentlige endringer i eksisterende utdanninger.
+
+(8) Fagskolen skal etter en helhetlig vurdering anses å være i stand til å forvalte fullmaktene som institusjonsakkrediteringen gir på en god måte. Relevante momenter i vurderingen er blant annet fagskolens strategi, organisering, kvalitetsarbeid og resultater.
+
+(9) Fagskolen må på søknadstidspunktet ha minst én fagområdeakkreditering og selv ha akkreditert minst to utdanninger i tråd med prosedyrene i [fagskoletilsynsforskriften § 4-2 andre ledd](forskrift/2020-04-23-853/§4-2/ledd/2).
+
+(10) En privat fagskole må på søknadstidspunktet ha positiv egenkapital det siste avsluttede regnskapsåret.
+
+> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024), tilføyd ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 51. Læringsmiljøutvalg
+
+(1) Læringsmiljøutvalget skal bidra til at [fagskoleloven § 15](lov/2018-06-08-28/§15) følges, og sikre at studentene kan medvirke i prosessene som gjelder læringsmiljøet. Læringsmiljøutvalget skal delta i planleggingen av tiltak som gjelder læringsmiljø, og følge utviklingen nøye i spørsmål som angår studentenes sikkerhet og velferd. Styret kan også tillegge læringsmiljøutvalget andre oppgaver.
+
+(2) Læringsmiljøutvalget skal holdes orientert om læringsmiljøet. Læringsmiljøutvalget rapporterer direkte til styret.
+
+(3) Studentene og fagskolen skal ha like mange representanter i læringsmiljøutvalget. Utvalget skal velge leder hvert år. Lederen skal annethvert år velges fra institusjonens representanter og annethvert år fra studentenes representanter.
+
+> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024), tilføyd ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
 
 ### § 52. Bortfall av akkreditering av fagskoleutdanning
 
