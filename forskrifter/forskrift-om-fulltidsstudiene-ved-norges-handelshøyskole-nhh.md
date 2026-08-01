@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "61fc5491aa0d41088f2c939ef686e58446373deb0ad2237055a238cf65176bf2"
+xml_hash: "39f5dfb8813850f655430cd3326c29c45683b0052fca09626dee4d9bc0ae9561"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,7 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (1) Opptak til den femårige siviløkonomutdanningen skjer i henhold til opptaksforskriften, og ivaretas av Samordna opptak. Søknader til vårt engelskspråklige bachelorstudium (Bachelor in Business, Economics and Data Science), som er basert på et ikke-nordisk vitnemål, behandles lokalt.
 
-(2) Opptak av eksterne søkere til våre masterstudier skjer i henhold til [universitets- og høyskoleforskriften](forskrift/2024-06-28-1392) § 2-7, og ivaretas lokalt.
+(2) Opptak av eksterne søkere til våre masterstudier skjer i henhold til [universitets- og høyskoleforskriften § 2-6](forskrift/2024-06-28-1392/§2-6), og ivaretas lokalt.
 
 (3) Det er søkers ansvar å levere dokumentasjon i lesbart format innen fastsatte frister.
 
@@ -80,9 +80,9 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (5) Et eventuelt nytt opptak til samme eller annet studieprogram hvor tidligere avlagte emne inngår, vil ikke nullstille tidligere vurderingsforsøk, jf. [§ 4-8, fjerde ledd](forskrift/2024-06-18-1108/§4-8/ledd/4).
 
-(6) Tildelt studieplass kan reserveres i inntil to år som følge av førstegangstjeneste, svangerskap, fødsel, adopsjon og andre tungtveiende grunner. Søker må takke ja til tilbudet og søke Studieadministrativ avdeling om reservert studieplass innen gitte frister.
+(6) Tildelt studieplass kan reserveres i inntil to år som følge av tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17) eller tilsvarende tjeneste for EU/EØS-statsborgere, svangerskap, fødsel, adopsjon og andre tungtveiende grunner. Søker må takke ja til tilbudet og søke Studieadministrativ avdeling om reservert studieplass innen gitte frister.
 
-> Endret ved forskrift [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025). **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+> Endret ved forskrifter [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025), [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 2-3. Rett til direkte overgang til masterstudiet
 
@@ -136,9 +136,9 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 6. er utestengt pga. fusk, forsøk på fusk eller medvirkning til fusk
 7. ikke har betalt krav om eventuell studieavgift (egenbetaling) etter [uh-loven § 2-6](lov/2024-03-08-9/§2-6).
 
-(2) Vedtak om tap av studierett etter bokstavene a) til e) fattes av Prorektor for utdanning. Vedtak om tap av studierett etter bokstav f) fattes av Klagenemnda etter innstilling fra Studieadministrativ avdeling.
+(2) Vedtak om tap av studierett etter bokstavene a) til e) fattes av Prorektor for utdanning. Vedtak om tap av studierett etter bokstav f) fattes av Nemnd for studentsaker etter innstilling fra Studieadministrativ avdeling.
 
-> Endret ved forskrift [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025). **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+> Endret ved forskrifter [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025), [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 2-9. Poststudierett
 
@@ -208,7 +208,7 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (1) Permisjon gis med hjemmel i [universitets- og høyskoleloven §§ 10-6](lov/2024-03-08-9/§10-6) og [10-7](lov/2024-03-08-9/§10-7).
 
-(2) Videre kan det gis permisjon til oppfyllelse av særlig tunge verv i studentforening eller andre offentlige verv.
+(2) Videre kan det gis permisjon til oppfyllelse av særlig tunge verv i studentforening eller andre offentlige verv. EU/EØS-statsborgere kan gis permisjon for å avtjene militærtjeneste i sin hjemstat i tilsvarende omfang som norsk militærtjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17).
 
 (3) Søknad om permisjon fremmes overfor Studieadministrativ avdeling. Årsaken må dokumenteres i søknaden, som må fremmes innen 1. september eller 1. februar. Oppstår behovet etter søknadsfristen, må søknad fremmes så snart studenten blir kjent med behovet for permisjon. Permisjon kan tidligst innvilges fra og med det semester søknaden ble fremmet.
 
@@ -216,7 +216,7 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (5) Student som vender tilbake etter permisjon må forholde seg til den studieplanen som gjelder på tidspunktet for retur.
 
-> **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+> Endret ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ## Kapittel 4. Vurdering (eksamen) og obligatorisk aktivitet (arbeidskrav)
 
@@ -268,11 +268,11 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (1) Vurderingsmeldt student som ikke møter til vurdering til fastsatt tid, registreres som «ikke møtt». «Ikke møtt» regnes som et tellende forsøk etter [§ 4-8](forskrift/2024-06-18-1108/§4-8).
 
-(2) For å unngå at forsøket skal regnes som et tellende forsøk etter [§ 4-8](forskrift/2024-06-18-1108/§4-8), må student som ikke møter eller kan fullføre/gjennomføre vurdering, senest første virkedag etter endt vurdering, levere dokumentasjon på at det skyldes sykdom eller andre forhold vedkommende ikke selv har kontroll over (force majeure).
+(2) For å unngå at forsøket skal regnes som et tellende forsøk etter [§ 4-8](forskrift/2024-06-18-1108/§4-8), må student som ikke møter eller kan fullføre/gjennomføre vurdering, senest femte virkedag etter endt vurdering, levere dokumentasjon på at det skyldes sykdom eller andre forhold vedkommende ikke selv har kontroll over (force majeure).
 
 (3) Student som har levert besvarelse kan ikke unndra seg sensur.
 
-> **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+> Endret ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 4-8. Antall forsøk
 
@@ -294,14 +294,9 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 ### § 4-9. Særlige sensurfrister
 
-(1) Styret ved NHH har i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, hjemmel for å gjøre unntak fra den ordinære sensurfristen på 15 virkedager i to tilfeller. Dette gjelder
+Med hjemmel i [universitets- og høyskoleloven § 11-7, fjerde ledd](lov/2024-03-08-9/§11-7/ledd/4), fastsettes en særskilt sensurfrist på 30 virkedager på masteroppgave, avhandlinger eller lignende skriftlige arbeider med et omfang på minimum 10 studiepoeng.
 
-1. generelt tidsavgrenset unntak fastsatt i midlertidig forskrift
-2. unntak for avhandlinger og tilsvarende større skriftlige arbeidet fastsatt i forskrift
-
-(2) Med hjemmel i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, fastsettes en særskilt sensurfrist på seks uker på masteroppgave, avhandlinger eller lignende skriftlige arbeider med et omfang på minimum 10 studiepoeng.
-
-> **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+> Endret ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 4-10. Plagiatkontroll
 
