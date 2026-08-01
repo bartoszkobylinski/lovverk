@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2010-12-21"
-last_change_in_force: "2025-03-14"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "35bc4419976ca18d9960db00c37673fc1a20d7df4aa9ffa8752bdefeb6c09dda"
+xml_hash: "e2782ecd4d6ec88886f520b7b0b8a6897de91686dee2d804810cca0039cef165"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -174,7 +174,7 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 (1) Folketrygdfondet skal legge opp forvaltningen med sikte på at det annualiserte standardavviket til differanseavkastningen mellom faktisk portefølje og faktisk referanseindeks på ex ante basis (forventet relativ volatilitet) ikke overstiger 3 prosentpoeng. Folketrygdfondet fastsetter en metode for beregning av forventet relativ volatilitet som må godkjennes av departementet.
 
-(2) Det skal ikke tas valutaposisjoner i den aktive forvaltningen av fondet.
+(2) Det skal ikke tas aktive valutaposisjoner fra obligasjonsindeksens sammensetning i renteforvaltningen av fondet.
 
 (3) For alle obligasjonsinvesteringer skal det foreligge en kredittvurdering. Folketrygdfondet skal foreta en intern kredittvurdering når ekstern kredittvurdering ikke foreligger. Alle interne kredittvurderinger skal dokumenteres. Folketrygdfondet skal legge opp forvaltningen med sikte på at høyrisiko obligasjoner (kredittvurdering lavere enn «investment grade») under normale markedsforhold ikke utgjør mer enn 25 prosent av markedsverdien av den private delen av obligasjonsporteføljen.
 
@@ -196,7 +196,7 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 (8) Fondsmidlene skal ikke plasseres i verdipapirer som er utelukket i henhold til retningslinjer for observasjon og utelukkelse fra Statens pensjonsfond utland. Folketrygdfondet skal ha retningslinjer for utelukkelse og gjeninkludering av slike verdipapirer i fondets investeringsunivers, jf. [§ 3-1](forskrift/2010-12-21-1790/§3-1) tredje ledd og [§ 7-3](forskrift/2010-12-21-1790/§7-3).
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [12 aug 2024 nr. 2087](forskrift/2024-08-12-2087). **Endres** ved vedtak [18 juni 2026 nr. 1206](forskrift/2026-06-18-1206) (i kraft 1 aug 2026).
+> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [12 aug 2024 nr. 2087](forskrift/2024-08-12-2087), [18 juni 2026 nr. 1206](forskrift/2026-06-18-1206) (i kraft 1 aug 2026).
 
 ## Kapittel 4. Verdivurdering, avkastningsmåling og styring, måling og kontroll av risiko
 
