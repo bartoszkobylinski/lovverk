@@ -11,16 +11,18 @@ ministry:
 date_in_force: "2021-03-15"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-05"
-xml_hash: "783c49e720dc8c23dc10b4ae5c888c46f316e2c395035ab6005ccf76ba490b7a"
+xml_hash: "337c1daa436c17dbb805d5bfbd192838eedf71672557d1c6b6895ab4cad2f936"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om fiske etter anadrome laksefisk i sjøen
+
+Se [forskrift 9. juli 2026 nr. 1544 om ekstraordinære tiltak i fisket etter anadrome laksefisk i vassdrag og sjøområder i 2026](forskrift/2026-07-09-1544).
 
 ## § 1. Virkeområde
 
