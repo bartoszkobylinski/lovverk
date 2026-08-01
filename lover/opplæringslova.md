@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2025-03-04"
-xml_hash: "31a3ce00694096387c8dff6ab615e671602c2203f99c4100ee3230924dc5fc94"
+xml_hash: "7d2e7c292791e9552920bc6809290ce922f527423fef8c37379cfdf22df362ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -236,6 +236,8 @@ Kommunen skal ha tilbod om gratis leksehjelp til elevar i grunnskolen. Departeme
 
 Kommunen skal ha tilbod om skolefritidsordning før og etter skoletid for elevar på 1. til 4. trinn og for elevar med særlege behov på 1. til 7. trinn. Kommunen kan krevje at foreldra dekkjer kostnadene til skolefritidsordninga.
 
+Elevar på 1. til 3. trinn har rett til 12 timar gratis skolefritidsordning per veke.
+
 Kommunen skal leggje til rette for leik og kultur- og fritidsaktivitetar i skolefritidsordninga. Aktivitetane skal vere tilpassa alderen, funksjonsevna og interessene til barna. I skolefritidsordninga skal barna få omsorg og bli passa godt på, og barn med nedsett funksjonsevne skal få gode utviklingsvilkår.
 
 Når skolefritidsordninga er knytt til skolar, skal rektor vere leiar. Kommunen kan gjere unntak frå kravet.
@@ -253,9 +255,9 @@ Kommunen gir forskrift om skolefritidsordninga. Forskrifta skal ha reglar om
 7. dagleg opphaldstid og årleg opningstid
 8. personale og leiing.
 
-Departementet kan gi forskrift om gratis skolefritidsordning, moderasjonsordningar og om innhald og oppgåver for skolefritidsordninga.
+Departementet kan gi forskrift om retten til skolefritidsordning, gratis skolefritidsordning, moderasjonsordningar og innhald i og oppgåver for skolefritidsordninga.
 
-> **Vert endra** ved lov [13 feb 2026 nr. 6](lov/2026-02-13-6) (i kraft 1 aug 2026 iflg. [res. 13 feb 2026 nr. 197](forskrift/2026-02-13-197)).
+> Endra ved lov [13 feb 2026 nr. 6](lov/2026-02-13-6) (i kraft 1 aug 2026 iflg. [res. 13 feb 2026 nr. 197](forskrift/2026-02-13-197)).
 
 ### § 4-6. Skoletur med overnatting
 
@@ -865,11 +867,13 @@ Elevane skal få fjernundervisning på skolen. I særlege tilfelle kan ein elev 
 
 Fjernundervisninga skal gjennomførast slik at elevane og læraren kan kommunisere effektivt. Dei tekniske løysingane som blir nytta, må leggje til rette for kommunikasjon i sanntid eller med kort responstid.
 
+I område med låg busetnad og store avstandar kan fylkeskommunen tilby opplæring på vidaregåande trinn 1 og vidaregåande trinn 2 på yrkesfaglege utdanningsprogram med bruk av fjernundervisning i meir enn berre delar av opplæringa, så framt fjernundervisninga blir gitt i kombinasjon med praksis og jamlege fysiske samlingar. I slike tilfelle kan elevane få fjernundervisning andre stader enn på skolen, så framt fjernundervisninga blir mottatt i eigna lokale. Dei andre krava for bruk av fjernundervisning i denne paragrafen gjeld framleis.
+
 Kommunen eller fylkeskommunen skal godtgjere at vilkåra i denne paragrafen er oppfylte.
 
 Departementet kan gi forskrift om fjernundervisning.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+> Endra ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 14-5. Forbod mot forkynning
 
@@ -893,13 +897,13 @@ Opplæringa skal vere på norsk, samisk eller norsk teiknspråk.
 
 I den munnlege opplæringa avgjer elevane og lærarane sjølve kva for talemål dei vil bruke. Lærarane og skoleleiinga skal ta mest mogleg omsyn til talemålet til elevane i ordval og uttrykksmåtar.
 
-### § 15-2. Hovudmål på kvar skole
+### § 15-2. Hovudmål på kvar grunnskole
 
-Kommunen og fylkeskommunen gir forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, anten bokmål eller nynorsk. Skolen skal bruke hovudmålet i den skriftlege opplæringa og i den skriftlege kommunikasjonen med elevane og foreldra.
+Kommunen gir forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, anten bokmål eller nynorsk. Skolen skal bruke hovudmålet i den skriftlege opplæringa og i den skriftlege kommunikasjonen med elevane og foreldra.
 
 I samband med skifte av hovudmål på ein grunnskole eller når eit fleirtal i kommunestyret eller minst 1/4 av dei røysteføre i kommunen krev det, skal det haldast rådgivande røysting. Nytt vedtak om hovudmål kan ikkje gjerast før det har gått fem år. Departementet kan gi forskrift om røysterett, ansvar for røystinga og organisering av røystinga.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+> Endra ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 15-3. Krav til rettskriving og krav til skriftspråk i læremiddel
 
@@ -1280,7 +1284,8 @@ For private grunnskolar gjeld:
 17. [§ 24-3](lov/2023-06-09-30/§24-3) om plikt til å melde frå til barnevernet
 18. [§ 25-1](lov/2023-06-09-30/§25-1) om behandling av personopplysningar og unntak frå teieplikt
 19. [§ 25-4](lov/2023-06-09-30/§25-4) om plikt til å delta i evalueringar og gi opplysningar
-20. [§ 27-2](lov/2023-06-09-30/§27-2) om forbod mot bruk av plagg som dekkjer ansiktet
+20. [§ 25-5](lov/2023-06-09-30/§25-5) om register over barn i grunnskoleopplæring
+21. [§ 27-2](lov/2023-06-09-30/§27-2) om forbod mot bruk av plagg som dekkjer ansiktet
 
 [Kommuneloven § 25-1](lov/2018-06-22-83/§25-1) om internkontroll gjeld også for private grunnskolar.
 
@@ -1288,7 +1293,7 @@ Der lova legg ansvar, oppgåver eller plikter til kommunen, ligg ansvaret ved ei
 
 Heimkommunen skal sørgje for at elevane har same tilgang til den pedagogisk-psykologiske tenesta som elevane i den offentlege skolen.
 
-> Endra ved lov [14 juni 2024 nr. 36](lov/2024-06-14-36). **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+> Endra ved lover [14 juni 2024 nr. 36](lov/2024-06-14-36), [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 22-3. Unntak frå visse krav for utanlandske og internasjonale grunnskolar
 
@@ -1399,7 +1404,7 @@ Ved skolebyte kan skolar hente inn dei personopplysningane frå andre skolar som
 
 Fylkeskommunar kan hente inn dei personopplysningane frå grunnskolar som er nødvendige for å oppfylle retten til vidaregåande opplæring, gjennomføre inntak til vidaregåande opplæring, førebyggje fråvær frå opplæringa og følgje opp dei som er i målgruppa til oppfølgingstenesta.
 
-Ved skolebyte etter andre ledd og ved overgang til vidaregåande opplæring etter tredje ledd kan skolane også dele personopplysningar, for å leggje til rette opplæringa til ein elev dersom eleven eller foreldra tillèt det.
+Ved skolebyte etter andre ledd og ved overgang til vidaregåande opplæring etter tredje ledd kan skolane også dele personopplysningar for å leggje til rette opplæringa til ein elev dersom eleven eller foreldra tillèt det. Ved skolebyte skal skolen dele personopplysningar som er nødvendige for å førebyggje oppførsel som i vesentleg grad går utover skolemiljøet til medelevane eller arbeidsmiljøet til dei tilsette.
 
 Behandlinga av personopplysningar etter første til fjerde ledd kan også omfatte personopplysningar som nemnde i [personvernforordninga artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10).
 
@@ -1407,7 +1412,7 @@ Departementet kan gi forskrift om behandlinga av personopplysningar, mellom anna
 
 Utlevering av personopplysningar etter andre, tredje og fjerde ledd kan gjerast utan hinder av teieplikt.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+> Endra ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 25-2. Den nasjonale databasen for vitnemål og annan dokumentasjon av oppnådd kompetanse frå vidaregåande opplæring
 
@@ -1572,7 +1577,9 @@ For enkeltvedtak som ikkje gjeld opplæring eller skoleskyss, reisefølge og til
 
 Departementet gir forskrift om kven som skal vere klageinstans for enkeltvedtak om individuell vurdering.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+Departementet kan opprette ei klagenemnd som skal behandle klager på enkeltvedtak om godkjenning av yrkeskvalifikasjonar frå utlandet, og kan gi forskrift om klagenemnda og saksbehandlinga i nemnda.
+
+> Endra ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 29-2. Statleg tilsyn
 
