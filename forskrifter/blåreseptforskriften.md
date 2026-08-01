@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2008-03-03"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2021-02-24"
-xml_hash: "173af0ee33868599d771b37155c295c975c36156cbcb13f11ecc67062bbb350e"
+xml_hash: "36a31c9cb1b1f334360ac13e0ddf9d2826faaac4a8abc12e102610de52d176eb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -198,7 +198,7 @@ Dersom det finnes flere preparater med samme virkestoff og som regnes som medisi
 
 ### § 8. Egenandel
 
-Medlemmet skal betale en egenandel på 60 prosent av samlet utsalgspris, men ikke mer enn 400 kroner per utlevering. Medlemmet skal betale ny egenandel for hver utlevering, og kan få utlevert produkter for inntil tre måneders forbruk per utlevering jf. [§ 7 første](forskrift/2007-06-28-814/§7/ledd/1) og [andre ledd](forskrift/2007-06-28-814/§7/ledd/2). Barn under 16 år og minstepensjonister skal ikke betale egenandel. Arbeids- og velferdsdirektoratet kan fastsette retningslinjer for hvilke personer som regnes som minstepensjonister. Betalte egenandeler inngår i opptjeningen til egenandelstaket, jf. [folketrygdloven § 5-3 første ledd](lov/1997-02-28-19/§5-3/ledd/1).
+Medlemmet skal betale en egenandel på 60 prosent av samlet utsalgspris, men ikke mer enn 400 kroner per utlevering. Medlemmet skal betale ny egenandel for hver utlevering, og kan få utlevert produkter for inntil tre måneders forbruk per utlevering jf. [§ 7 første](forskrift/2007-06-28-814/§7/ledd/1) og [andre ledd](forskrift/2007-06-28-814/§7/ledd/2). Barn under 18 år og minstepensjonister skal ikke betale egenandel. Arbeids- og velferdsdirektoratet kan fastsette retningslinjer for hvilke personer som regnes som minstepensjonister. Betalte egenandeler inngår i opptjeningen til egenandelstaket, jf. [folketrygdloven § 5-3 første ledd](lov/1997-02-28-19/§5-3/ledd/1).
 
 Dersom pasienten krever å få utlevert et legemiddel som har høyere utsalgspris enn det legemiddel apoteket foreslår bytte til, og rekvirenten ikke har reservert seg mot generisk eller biotilsvarende bytte, beregnes pasientens egenandel av apotekets utsalgspris for det legemiddel det foreslås bytte til. I slike tilfeller gis det refusjon fra folketrygden for apotekets utsalgspris for det legemiddelet som apoteket har foreslått bytte til, fratrukket pasientens egenandel. I tillegg kan apoteket kreve at pasienten betaler mellomlegget mellom apotekets utsalgspris for det legemiddel det foreslås bytte til og faktisk utsalgspris for det legemiddel pasienten krever. Dette mellomlegget inngår ikke i opptjeningen til egenandelstaket.
 
@@ -229,7 +229,7 @@ Det ytes stønad til full dekning av utgifter til legemidler forskrevet etter [�
 - -81 Bivirkninger ved tuberkulosebehandling
 - -90 Palliativ behandling i livets sluttfase.
 
-> Endret ved [forskrifter 12 feb 2008 nr. 134](forskrift/2008-02-12-134), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [17 des 2008 nr. 1406](forskrift/2008-12-17-1406) (i kraft 1 jan 2009), [17 des 2009 nr. 1719](forskrift/2009-12-17-1719) (i kraft 1 jan 2010), [25 nov 2013 nr. 1405](forskrift/2013-11-25-1405) (i kraft 1 jan 2014), [8 okt 2014 nr. 1301](forskrift/2014-10-08-1301) (i kraft 1 nov 2014), [21 des 2015 nr. 1830](forskrift/2015-12-21-1830) (i kraft 1 jan 2016), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 des 2020 nr. 2995](forskrift/2020-12-18-2995) (i kraft 1 jan 2021), [24 juni 2021 nr. 2274](forskrift/2021-06-24-2274) (i kraft 1 juli 2021), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2022 nr. 2430](forskrift/2022-12-21-2430) (i kraft 1 jan 2023), [19 des 2024 nr. 3285](forskrift/2024-12-19-3285) (i kraft 20 mars 2025), [2 april 2025 nr. 577](forskrift/2025-04-02-577), [17 des 2025 nr. 2621](forskrift/2025-12-17-2621) (i kraft 1 jan 2026), [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endret ved [forskrifter 12 feb 2008 nr. 134](forskrift/2008-02-12-134), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [17 des 2008 nr. 1406](forskrift/2008-12-17-1406) (i kraft 1 jan 2009), [17 des 2009 nr. 1719](forskrift/2009-12-17-1719) (i kraft 1 jan 2010), [25 nov 2013 nr. 1405](forskrift/2013-11-25-1405) (i kraft 1 jan 2014), [8 okt 2014 nr. 1301](forskrift/2014-10-08-1301) (i kraft 1 nov 2014), [21 des 2015 nr. 1830](forskrift/2015-12-21-1830) (i kraft 1 jan 2016), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 des 2020 nr. 2995](forskrift/2020-12-18-2995) (i kraft 1 jan 2021), [24 juni 2021 nr. 2274](forskrift/2021-06-24-2274) (i kraft 1 juli 2021), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2022 nr. 2430](forskrift/2022-12-21-2430) (i kraft 1 jan 2023), [19 des 2024 nr. 3285](forskrift/2024-12-19-3285) (i kraft 20 mars 2025), [2 april 2025 nr. 577](forskrift/2025-04-02-577), [17 des 2025 nr. 2621](forskrift/2025-12-17-2621) (i kraft 1 jan 2026), [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 9. Legers opplysningsplikt
 
@@ -407,6 +407,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Pyridoksin (Vit B6) | A11HA02 | 01.01.2025 |
 | Qizenday | D-biotin (vit H) | A11HA05 | 15.07.2017 |
 | Sibnayal | Kaliumhydrogenkarbonat, kaliumsitrat | A12BA30 | 01.10.2020 |
+| Alle | Venglustat | A16 | 01.08.2026 |
 | Alle | Imiglukerase | A16AB02 | 01.02.2019 |
 | Alle | Agalsidase alfa | A16AB03 | 01.02.2019 |
 | Alle | Agalsidase beta | A16AB04 | 01.02.2019 |
@@ -596,73 +597,74 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Parsabiv | Etelkalsetid | H05BX04 | 02.01.2018 |
 | Alle | Paratyroidea-hormon | H05AA03 | 01.02.2019 |
 | Alle | Palopegteriparatid | H05AA05 | 01.11.2023 |
-| Alle til infusjon/ injeksjon | Kloramfenikol | J01BA01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Ampicillin | J01CA01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Mecillinam | J01CA11 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Benzylpenicillin | J01CE01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Kloksacillin | J01CF02 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Amoksicillin, Klavulansyre | J01CR02 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Piperacillin og enzymhemmer | J01CR05 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Cefalotin | J01DB03 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Cefazolin | J01DB04 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Cefuroksim | J01DC02 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Cefotaksim | J01DD01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Ceftazidim | J01DD02 | 01.01.2025 |
-| Alle til infusjon/ injeksjon med unntak av 1 g hgl | Ceftriakson | J01DD04 | 01.02.2025 |
-| Alle til infusjon/ injeksjon | Ceftazidim komb | J01DD52 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Cefepim | J01DE01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Kloramfenikol | J01BA01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ampicillin | J01CA01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Mecillinam | J01CA11 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Benzylpenicillin | J01CE01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Kloksacillin | J01CF02 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Amoksicillin, Klavulansyre | J01CR02 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Piperacillin og enzymhemmer | J01CR05 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Cefalotin | J01DB03 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Cefazolin | J01DB04 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Cefuroksim | J01DC02 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Cefotaksim | J01DD01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ceftazidim | J01DD02 | 01.01.2025 |
+| Alle til infusjon/injeksjon med unntak av 1 g hgl | Ceftriakson | J01DD04 | 01.02.2025 |
+| Alle til infusjon/injeksjon | Ceftazidim komb | J01DD52 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Cefepim | J01DE01 | 01.01.2025 |
 | Alle | Cefepime og enmetazobactam | J01DE51 | 01.11.2023 |
-| Alle til infusjon/ injeksjon | Aztreonam | J01DF01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Aztreonam | J01DF01 | 01.01.2025 |
 | Alle | Aztreonam og beta-laktamase inhibitor | J01DF51 | 01.01.2024 |
-| Alle til infusjon/ injeksjon | Meropenem | J01DH02 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Ertapenem | J01DH03 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Imipenem og cilastatin | J01DH51 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Meropenem | J01DH02 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ertapenem | J01DH03 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Imipenem og cilastatin | J01DH51 | 01.01.2025 |
 | Alle | Meropenem og vaborbactam | J01DH52 | 15.02.2018 |
 | Alle | Imipenem, cilastatin og relebactam | J01DH56 | 01.11.2019 |
-| Alle til infusjon/ injeksjon | Ceftobiprolmedokarilnatrium | J01DI01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Ceftarolinfosamil | J01DI02 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ceftobiprolmedokarilnatrium | J01DI01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ceftarolinfosamil | J01DI02 | 01.01.2025 |
 | Alle | Cefiderokol | J01DI04 | 01.02.2020 |
-| Alle til infusjon/ injeksjon | Ceftolozan comb. | J01DI54 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Trimetoprim, Sulfametoksazol | J01EE01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Erytromycin | J01FA01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Azitromycin | J01FA10 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Klindamycin | J01FF01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Tobramycin | J01GB01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Gentamycin | J01GB03 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Amikacin | J01GB06 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ceftolozan comb. | J01DI54 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Trimetoprim, Sulfametoksazol | J01EE01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Erytromycin | J01FA01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Azitromycin | J01FA10 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Klindamycin | J01FF01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Tobramycin | J01GB01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Gentamycin | J01GB03 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Amikacin | J01GB06 | 01.01.2025 |
 | Arikayce | Amikacin til inhalasjon | J01GB06 | 01.11.2024 |
 | Alle | Plazomicin | J01GB14 | 15.07.2019 |
-| Alle til infusjon/ injeksjon | Ciprofloksacin | J01MA02 | 01.01.2025 |
-| Alle perorale og til infusjon/ injeksjon | Levofloksacin | J01MA12 | 01.01.2025 |
-| Alle perorale og til infusjon/ injeksjon | Moxifloxacin | J01MA14 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Vankomycin | J01XA01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Teikoplanin | J01XA02 | 01.04.2025 |
-| Alle til infusjon/ injeksjon | Dalbavancin | J01XA04 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Kolistin | J01XB01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Metronidazol | J01XD01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Fosfomycin | J01XX01 | 01.01.2025 |
-| Alle perorale og til infusjon/ injeksjon | Linezolid | J01XX08 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Daptomycin | J01XX09 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Tedizolid | J01XX11 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Doksysyklin | J01AA02 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Tigesyklin | J01AA12 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ciprofloksacin | J01MA02 | 01.01.2025 |
+| Alle perorale og til infusjon/injeksjon | Levofloksacin | J01MA12 | 01.01.2025 |
+| Alle perorale og til infusjon/injeksjon | Moxifloxacin | J01MA14 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Vankomycin | J01XA01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Teikoplanin | J01XA02 | 01.04.2025 |
+| Alle til infusjon/injeksjon | Dalbavancin | J01XA04 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Kolistin | J01XB01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Metronidazol | J01XD01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Fosfomycin | J01XX01 | 01.01.2025 |
+| Alle perorale og til infusjon/injeksjon | Linezolid | J01XX08 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Daptomycin | J01XX09 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Tedizolid | J01XX11 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Doksysyklin | J01AA02 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Tigesyklin | J01AA12 | 01.01.2025 |
 | Alle | Eravacyklin | J01AA13 | 01.05.2018 |
-| Alle til infusjon/ injeksjon | Flukonazol | J02AC01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Vorikonazol | J02AC03 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Posakonazol | J02AC04 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Flukonazol | J02AC01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Vorikonazol | J02AC03 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Posakonazol | J02AC04 | 01.01.2025 |
 | Alle | Isavukonazol | J02AC05 | 01.02.2019 |
 | Alle | Caspofungin | J02AX04 | 01.04.2019 |
-| Alle til infusjon/ injeksjon | Mikafungin | J02AX05 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Anidulafungin | J02AX06 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Mikafungin | J02AX05 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Anidulafungin | J02AX06 | 01.01.2025 |
 | Alle | Rezafungin | J02AX08 | 01.06.2023 |
-| Alle til infusjon/ injeksjon | Amfotericin | J02AA01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Amfotericin | J02AA01 | 01.01.2025 |
 | Alle i ATC-gruppen | Legemidler til behandling av tuberkulose | J04A | 01.01.2025 |
 | Alle | Klofazimine | J04BA01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Aciklovir | J05AB01 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Ganciklovir | J05AB06 | 01.01.2025 |
-| Alle til infusjon/ injeksjon | Cidofovir | J05AB12 | 01.01.2025 |
+| Alle | Doravirin, Islatravirmonohydrat | J05 | 01.08.2026 |
+| Alle til infusjon/injeksjon | Aciklovir | J05AB01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Ganciklovir | J05AB06 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Cidofovir | J05AB12 | 01.01.2025 |
 | Alle | Remdesivir | J05AB16 | 01.06.2021 |
-| Alle til infusjon/ injeksjon | Foskarnet | J05AD01 | 01.01.2025 |
+| Alle til infusjon/injeksjon | Foskarnet | J05AD01 | 01.01.2025 |
 | Alle | Sakinavir | J05AE01 | 01.01.2018 |
 | Alle | Indinavir | J05AE02 | 01.01.2018 |
 | Alle | Ritonavir | J05AE03 | 01.01.2018 |
@@ -739,6 +741,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Nirsevimab | J06BD08 | 01.01.2026 |
 | Alle | Sipavibart | J06BD09 | 01.11.2024 |
 | Alle | Klesrovimab | J06BD10 | 01.01.2026 |
+| Alle | Cosibelimab | L01 | 01.08.2026 |
 | Alle | Eflornithine, sulindac | L01 | 01.06.2021 |
 | Alle | Ensartinib | L01 | 01.04.2026 |
 | Alle | Katekventinib | L01 | 01.11.2025 |
@@ -746,6 +749,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Pimikotinib | L01 | 01.04.2026 |
 | Alle | Sintilimab | L01 | 01.04.2026 |
 | Alle | Sonrotoclax | L01 | 01.04.2026 |
+| Alle | Taletrektinib | L01 | 01.08.2026 |
 | Alle | Busulfan | L01AB01 | 01.05.2017 |
 | Alle | Treosulfan | L01AB02 | 01.08.2018 |
 | Alle | Tiotepa | L01AC01 | 01.05.2017 |
@@ -941,11 +945,13 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Linvoseltamab | L01FX37 | 01.05.2024 |
 | Alle | Pertuzumab/trastuzumab | L01FY01 | 01.12.2020 |
 | Alle | Nivolumab/relatlimab | L01FY02 | 01.09.2022 |
+| Alle | Zamtocabtagenautoleucel | L01X | 01.08.2026 |
 | Alle | Cisplatin | L01XA01 | 01.05.2017 |
 | Alle | Karboplatin | L01XA02 | 01.05.2017 |
 | Alle | Oksaliplatin | L01XA03 | 01.05.2017 |
 | Alle | Polyplatillen | L01XA05 | 01.05.2017 |
 | Alle | Procarbazine | L01XB01 | 01.05.2017 |
+| Alle | Heksaminolevulinat | L01XD | 01.06.2026 |
 | Alle | Metylaminolevulinat | L01XD03 | 01.05.2017 |
 | Alle | Aminolevulinsyre | L01XD04 | 01.05.2017 |
 | Alle | Padeliporfin | L01XD07 | 01.12.2017 |
@@ -1042,6 +1048,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Leniolisib | L03AX22 | 01.06.2023 |
 | Alle | Mavoriksafor | L03AX24 | 03.05.2025 |
 | Alle | Filgrastim | L03AA02 | 01.01.2016 |
+| Alle | Molgramostim | L03AA03 | 01.08.2026 |
 | Alle | Sargramostim | L03AA09 | 01.11.2025 |
 | Alle | Pegfilgrastim | L03AA13 | 01.01.2016 |
 | Alle | Lipefilgrastim | L03AA14 | 01.01.2016 |
@@ -1218,6 +1225,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Tezepelumab | R03DX11 | 01.05.2022 |
 | Alle | Depemokimab | R03DX12 | 01.04.2025 |
 | Bronchitol | Mannitol | R05CB16 | 01.10.2020 |
+| Alle til injeksjon/ infusjon | Klemastin | R06AA04 | 01.08.2026 |
 | Alle | Nitrogenmonoksid | R07AX01 | 01.08.2023 |
 | Alle | Ivakaftor | R07AX02 | 01.02.2019 |
 | Alle | Lumakaftor og ivakaftor | R07AX30 | 01.02.2019 |
@@ -1257,7 +1265,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Mesna | V03AF01 | 01.04.2020 |
 | Alle | Deksrazoksan-hydroklorid | V03AF02 | 01.02.2019 |
 | Alle | Glucarpidase | V03AF09 | 01.06.2021 |
-| Alle | Oksygen 100% | V03AN01 | 01.08.2018 |
+| Alle | Oksygen 100 % | V03AN01 | 01.08.2018 |
 | Alle | Kobicistat | V03AX03 | 01.01.2018 |
 | Alle | Difelikefalin | V03AX04 | 01.01.2024 |
 | Alle | Metyrapon | V04CD01 | 01.09.2020 |
@@ -1270,7 +1278,6 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Lutetium (177Lu) vipivotid tetraksetan | V10XX05 | 01.05.2024 |
 | Alle | Allogen fekal mikrobiota |  | 01.11.2025 |
 | Alle | Garetosmab |  | 01.05.2026 |
-| Alle | Heksaminolevulinat |  | 01.06.2026 |
 | Alle | Lenadogene nolparvovec |  | 01.03.2021 |
 | Alle | Rovalpituzumab tesirine |  | 01.02.2018 |
 
@@ -1280,4 +1287,4 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 
 \*\*\* Endring 1. mai 2026.
 
-> Tilføyd ved [forskrift 20 des 2017 nr. 2257](forskrift/2017-12-20-2257) (i kraft 2 jan 2018), endret ved forskrifter [10 jan 2018 nr. 43](forskrift/2018-01-10-43) (i kraft 1 feb 2018), [2 feb 2018 nr. 158](forskrift/2018-02-02-158) (i kraft 15 feb 2018), [20 mars 2018 nr. 552](forskrift/2018-03-20-552) (i kraft 1 mai 2018), [2 mai 2018 nr. 730](forskrift/2018-05-02-730) (i kraft 1 juni 2018), [22 juni 2018 nr. 1187](forskrift/2018-06-22-1187) (i kraft 1 aug 2018), [26 sep 2018 nr. 1569](forskrift/2018-09-26-1569) (i kraft 1 nov 2018), [6 des 2018 nr. 1898](forskrift/2018-12-06-1898) (i kraft 1 jan 2019), [29 okt 2018 nr. 2277](forskrift/2018-10-29-2277) som endret ved [forskrift 21 jan 2019 nr. 34](forskrift/2019-01-21-34) (i kraft 1 feb 2019), [27 feb 2019 nr. 261](forskrift/2019-02-27-261) (i kraft 1 april 2019), [27 mars 2019 nr. 512](forskrift/2019-03-27-512) (i kraft 1 mai 2019), [14 juni 2019 nr. 862](forskrift/2019-06-14-862) (i kraft 15 juli 2019), [25 sep 2019 nr. 1397](forskrift/2019-09-25-1397) (i kraft 1 nov 2019), [18 des 2019 nr. 2205](forskrift/2019-12-18-2205) (i kraft 1 feb 2020), [17 feb 2020 nr. 300](forskrift/2020-02-17-300) (i kraft 1 april 2020), [27 april 2020 nr. 1037](forskrift/2020-04-27-1037) (i kraft 1 juni 2020), [6 mai 2020 nr. 1659](forskrift/2020-05-06-1659) (i kraft 1 sep 2020), [1 sep 2020 nr. 1783](forskrift/2020-09-01-1783) (i kraft 1 okt 2020), [30 okt 2020 nr. 2292](forskrift/2020-10-30-2292) (i kraft 1 des 2020), [16 des 2020 nr. 2909](forskrift/2020-12-16-2909) (i kraft 1 jan 2021), [22 des 2020 nr. 3247](forskrift/2020-12-22-3247) (i kraft 1 feb 2021), [1 feb 2021 nr. 522](forskrift/2021-02-01-522) (i kraft 1 mars 2021), [24 mars 2021 nr. 1016](forskrift/2021-03-24-1016) (i kraft 1 april 2021), [28 april 2021 nr. 1536](forskrift/2021-04-28-1536) som endret ved [forskrift 26 mai 2021 nr. 1694](forskrift/2021-05-26-1694) (i kraft 1 juni 2021), [16 sep 2021 nr. 3055](forskrift/2021-09-16-3055) (i kraft 1 nov 2021), [29 nov 2021 nr. 3586](forskrift/2021-11-29-3586) (i kraft 1 jan 2022), [24 feb 2022 nr. 293](forskrift/2022-02-24-293) (i kraft 25 feb 2022), [18 mars 2022 nr. 579](forskrift/2022-03-18-579) (i kraft 1 mai 2022), [28 juli 2022 nr. 1428](forskrift/2022-07-28-1428) (i kraft 1 sep 2022), [27 okt 2022 nr. 1962](forskrift/2022-10-27-1962) (i kraft 1 des 2022), [13 des 2022 nr. 2192](forskrift/2022-12-13-2192) (i kraft 1 jan 2023), [20 jan 2023 nr. 147](forskrift/2023-01-20-147) (i kraft 1 mars 2023), [25 april 2023 nr. 700](forskrift/2023-04-25-700) (i kraft 1 juni 2023), [29 juni 2023 nr. 1267](forskrift/2023-06-29-1267) (i kraft 1 aug 2023), [22 sep 2023 nr. 1649](forskrift/2023-09-22-1649) (i kraft 1 nov 2023), [8 nov 2023 nr. 2150](forskrift/2023-11-08-2150) (i kraft 1 jan 2024), [11 jan 2024 nr. 68](forskrift/2024-01-11-68) (i kraft 1 feb 2024), [1 feb 2024 nr. 247](forskrift/2024-02-01-247) (i kraft 1 mars 2024), [7 mars 2024 nr. 580](forskrift/2024-03-07-580) (i kraft 1 mai 2024), [7 mars 2024 nr. 682](forskrift/2024-03-07-682) (i kraft 1 mai 2024), [11 april 2024 nr. 750](forskrift/2024-04-11-750) (i kraft 1 juni 2024), [18 juni 2024 nr. 1484](forskrift/2024-06-18-1484) (i kraft 1 aug 2024), [17 sep 2024 nr. 2447](forskrift/2024-09-17-2447) (i kraft 1 nov 2024), [11 nov 2024 nr. 2932](forskrift/2024-11-11-2932) (i kraft 15 des 2024), [6 nov 2024 nr. 3236](forskrift/2024-11-06-3236) (i kraft 1 jan 2025), [10 jan 2025 nr. 30](forskrift/2025-01-10-30) (i kraft 1 jan 2025), [20 jan 2025 nr. 62](forskrift/2025-01-20-62) (i kraft 1 feb 2025), [19 feb 2025 nr. 417](forskrift/2025-02-19-417) (i kraft 1 april 2025), [13 mars 2025 nr. 631](forskrift/2025-03-13-631) (i kraft 1 mai 2025), [11 juni 2025 nr. 1538](forskrift/2025-06-11-1538) (i kraft 1 aug 2025), [26 sep 2025 nr. 2027](forskrift/2025-09-26-2027) (i kraft 1 nov 2025), [1 des 2025 nr. 2606](forskrift/2025-12-01-2606) (i kraft 1 jan 2026), [16 des 2025 nr. 2951](forskrift/2025-12-16-2951) (i kraft 15 jan 2026), [16 feb 2026 nr. 272](forskrift/2026-02-16-272) (i kraft 1 april 2026), [26 mars 2026 nr. 554](forskrift/2026-03-26-554) (i kraft 1 mai 2026), [29 april 2026 nr. 746](forskrift/2026-04-29-746) (i kraft 1 juni 2026). **Endres** ved forskrift [18 juni 2026 nr. 1354](forskrift/2026-06-18-1354) (i kraft 1 aug 2026).
+> Tilføyd ved [forskrift 20 des 2017 nr. 2257](forskrift/2017-12-20-2257) (i kraft 2 jan 2018), endret ved forskrifter [10 jan 2018 nr. 43](forskrift/2018-01-10-43) (i kraft 1 feb 2018), [2 feb 2018 nr. 158](forskrift/2018-02-02-158) (i kraft 15 feb 2018), [20 mars 2018 nr. 552](forskrift/2018-03-20-552) (i kraft 1 mai 2018), [2 mai 2018 nr. 730](forskrift/2018-05-02-730) (i kraft 1 juni 2018), [22 juni 2018 nr. 1187](forskrift/2018-06-22-1187) (i kraft 1 aug 2018), [26 sep 2018 nr. 1569](forskrift/2018-09-26-1569) (i kraft 1 nov 2018), [6 des 2018 nr. 1898](forskrift/2018-12-06-1898) (i kraft 1 jan 2019), [29 okt 2018 nr. 2277](forskrift/2018-10-29-2277) som endret ved [forskrift 21 jan 2019 nr. 34](forskrift/2019-01-21-34) (i kraft 1 feb 2019), [27 feb 2019 nr. 261](forskrift/2019-02-27-261) (i kraft 1 april 2019), [27 mars 2019 nr. 512](forskrift/2019-03-27-512) (i kraft 1 mai 2019), [14 juni 2019 nr. 862](forskrift/2019-06-14-862) (i kraft 15 juli 2019), [25 sep 2019 nr. 1397](forskrift/2019-09-25-1397) (i kraft 1 nov 2019), [18 des 2019 nr. 2205](forskrift/2019-12-18-2205) (i kraft 1 feb 2020), [17 feb 2020 nr. 300](forskrift/2020-02-17-300) (i kraft 1 april 2020), [27 april 2020 nr. 1037](forskrift/2020-04-27-1037) (i kraft 1 juni 2020), [6 mai 2020 nr. 1659](forskrift/2020-05-06-1659) (i kraft 1 sep 2020), [1 sep 2020 nr. 1783](forskrift/2020-09-01-1783) (i kraft 1 okt 2020), [30 okt 2020 nr. 2292](forskrift/2020-10-30-2292) (i kraft 1 des 2020), [16 des 2020 nr. 2909](forskrift/2020-12-16-2909) (i kraft 1 jan 2021), [22 des 2020 nr. 3247](forskrift/2020-12-22-3247) (i kraft 1 feb 2021), [1 feb 2021 nr. 522](forskrift/2021-02-01-522) (i kraft 1 mars 2021), [24 mars 2021 nr. 1016](forskrift/2021-03-24-1016) (i kraft 1 april 2021), [28 april 2021 nr. 1536](forskrift/2021-04-28-1536) som endret ved [forskrift 26 mai 2021 nr. 1694](forskrift/2021-05-26-1694) (i kraft 1 juni 2021), [16 sep 2021 nr. 3055](forskrift/2021-09-16-3055) (i kraft 1 nov 2021), [29 nov 2021 nr. 3586](forskrift/2021-11-29-3586) (i kraft 1 jan 2022), [24 feb 2022 nr. 293](forskrift/2022-02-24-293) (i kraft 25 feb 2022), [18 mars 2022 nr. 579](forskrift/2022-03-18-579) (i kraft 1 mai 2022), [28 juli 2022 nr. 1428](forskrift/2022-07-28-1428) (i kraft 1 sep 2022), [27 okt 2022 nr. 1962](forskrift/2022-10-27-1962) (i kraft 1 des 2022), [13 des 2022 nr. 2192](forskrift/2022-12-13-2192) (i kraft 1 jan 2023), [20 jan 2023 nr. 147](forskrift/2023-01-20-147) (i kraft 1 mars 2023), [25 april 2023 nr. 700](forskrift/2023-04-25-700) (i kraft 1 juni 2023), [29 juni 2023 nr. 1267](forskrift/2023-06-29-1267) (i kraft 1 aug 2023), [22 sep 2023 nr. 1649](forskrift/2023-09-22-1649) (i kraft 1 nov 2023), [8 nov 2023 nr. 2150](forskrift/2023-11-08-2150) (i kraft 1 jan 2024), [11 jan 2024 nr. 68](forskrift/2024-01-11-68) (i kraft 1 feb 2024), [1 feb 2024 nr. 247](forskrift/2024-02-01-247) (i kraft 1 mars 2024), [7 mars 2024 nr. 580](forskrift/2024-03-07-580) (i kraft 1 mai 2024), [7 mars 2024 nr. 682](forskrift/2024-03-07-682) (i kraft 1 mai 2024), [11 april 2024 nr. 750](forskrift/2024-04-11-750) (i kraft 1 juni 2024), [18 juni 2024 nr. 1484](forskrift/2024-06-18-1484) (i kraft 1 aug 2024), [17 sep 2024 nr. 2447](forskrift/2024-09-17-2447) (i kraft 1 nov 2024), [11 nov 2024 nr. 2932](forskrift/2024-11-11-2932) (i kraft 15 des 2024), [6 nov 2024 nr. 3236](forskrift/2024-11-06-3236) (i kraft 1 jan 2025), [10 jan 2025 nr. 30](forskrift/2025-01-10-30) (i kraft 1 jan 2025), [20 jan 2025 nr. 62](forskrift/2025-01-20-62) (i kraft 1 feb 2025), [19 feb 2025 nr. 417](forskrift/2025-02-19-417) (i kraft 1 april 2025), [13 mars 2025 nr. 631](forskrift/2025-03-13-631) (i kraft 1 mai 2025), [11 juni 2025 nr. 1538](forskrift/2025-06-11-1538) (i kraft 1 aug 2025), [26 sep 2025 nr. 2027](forskrift/2025-09-26-2027) (i kraft 1 nov 2025), [1 des 2025 nr. 2606](forskrift/2025-12-01-2606) (i kraft 1 jan 2026), [16 des 2025 nr. 2951](forskrift/2025-12-16-2951) (i kraft 15 jan 2026), [16 feb 2026 nr. 272](forskrift/2026-02-16-272) (i kraft 1 april 2026), [26 mars 2026 nr. 554](forskrift/2026-03-26-554) (i kraft 1 mai 2026), [29 april 2026 nr. 746](forskrift/2026-04-29-746) (i kraft 1 juni 2026), [18 juni 2026 nr. 1354](forskrift/2026-06-18-1354) (i kraft 1 aug 2026).
