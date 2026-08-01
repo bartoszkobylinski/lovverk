@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2003-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2021-04-19"
-xml_hash: "b8d4b0206cc343691e0ba323fbe806ada8489dae451ec944e256028528390051"
+xml_hash: "fff70addf8f99c1ed0184184c1a1fcc17540513680ab8198e5c655927a8d1618"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ Det ytes stønad etter honorartakstene:
 3. Ved behandling av et medlem som er innsatt i fengselsvesenets anstalter, dersom undersøkelsen eller behandlingen foretas av annet personell enn det som er knyttet til fengselshelsetjenesten.
 4. Ved behandling hvor pasientens tilstand er til hinder for å innkreve egenandelen, for eksempel ved alvorlige sinnslidelser, behandling etter pasient- og [brukerrettighetsloven kapittel 4](lov/1999-07-02-63/kap4)A, større akutte skader, bevisstløshet og dødsfall. Laboratorie- og røntgenvirksomheten må kort begrunne kravet overfor Helsedirektoratet eller det organ Helsedirektoratet bestemmer.
 5. Ved psykoterapeutisk behandling av barn under 18 år.
-6. Ved behandling av barn under 16 år.
+6. Ved behandling av barn under 18 år.
 7. Ved undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer (jf. [forskrift 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer).
 
 Det ytes godtgjørelse etter honorartakstene dersom
@@ -74,7 +74,7 @@ Det ytes godtgjørelse etter honorartakstene dersom
 
 Det ytes stønad etter denne bestemmelse til den som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden.
 
-> Endret ved [forskrifter 18 des 2005 nr. 1692](forskrift/2005-12-18-1692) (i kraft 1 jan 2006), [21 juni 2006 nr. 671](forskrift/2006-06-21-671) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [21 des 2009 nr. 1732](forskrift/2009-12-21-1732) (i kraft 1 jan 2010), [23 juni 2010 nr. 962](forskrift/2010-06-23-962) (i kraft 1 juli 2010), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [12 mai 2016 nr. 490](forskrift/2016-05-12-490). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endret ved [forskrifter 18 des 2005 nr. 1692](forskrift/2005-12-18-1692) (i kraft 1 jan 2006), [21 juni 2006 nr. 671](forskrift/2006-06-21-671) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [21 des 2009 nr. 1732](forskrift/2009-12-21-1732) (i kraft 1 jan 2010), [23 juni 2010 nr. 962](forskrift/2010-06-23-962) (i kraft 1 juli 2010), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [12 mai 2016 nr. 490](forskrift/2016-05-12-490), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 5. (Opphevet)
 
