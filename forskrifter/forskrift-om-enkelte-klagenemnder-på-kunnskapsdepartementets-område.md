@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-08-01"
-last_change_in_force: null
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "386081e3102eecb9c8ebcac36e8238388158050e9c29394ae6b74e7d614b6afa"
+xml_hash: "c88104e0554a26272836c941826ca268619eeede83f7bda05efccbf9c28e97f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,11 +29,12 @@ eu_basis: []
 Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:
 
 1. NOKUTs klagenemnd
-2. Klagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenning.
+2. Klagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenning
+3. Lånekassens klagenemnd.
 
 Forskriften gir regler om klagenemndenes oppgaver, organisering og saksbehandling.
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+> Endret ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
 
 ## Kapittel 2. NOKUTs klagenemnd
 
@@ -76,7 +77,9 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 Klagenemnda skal behandle klager over enkeltvedtak om godkjenning av utenlandsk fag- og yrkesopplæring etter [opplæringsloven § 23-3](lov/2023-06-09-30/§23-3), om generell godkjenning av utenlandsk fagskoleutdanning etter [fagskoleloven § 7](lov/2018-06-08-28/§7), og om generell godkjenning av utenlandsk høyere utdanning etter [universitets- og høyskoleloven §§ 9-7](lov/2024-03-08-9/§9-7) og [9-8](lov/2024-03-08-9/§9-8).
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+Klagenemnda skal også behandle klager over enkeltvedtak om godkjenning av utenlandske yrkeskvalifikasjoner som lærer etter [opplæringsloven § 17-3](lov/2023-06-09-30/§17-3), og som styrer og pedagogisk leder i barnehage etter [barnehageloven §§ 24](lov/2005-06-17-64/§24) og [25](lov/2005-06-17-64/§25).
+
+> Endret ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
 
 ### § 7. Klagenemndas oppnevning og sammensetning
 
@@ -101,14 +104,51 @@ Vedtak treffes ved alminnelig flertall av de avgitte stemmene. Ved stemmelikhet 
 
 Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslutningen om delegering må være enstemmig.
 
-## Kapittel 4. Ikrafttredelse og overgangsordning
+## Kapittel 4. Lånekassens klagenemnd
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+> Tilføyd ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
 
-### § 10. Ikrafttredelse og overgangsordning
+### § 10. Klagenemndas oppgaver
+
+Lånekassens klagenemnd skal behandle klager på enkeltvedtak etter [lov om utdanningsstøtte](lov/2005-06-03-37) og tilhørende forskrifter.
+
+> Tilføyd ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+
+### § 11. Oppnevning og sammensetning
+
+Klagenemnda oppnevnes av departementet.
+
+Klagenemnda skal ha tre medlemmer og skal være sammensatt slik:
+
+1. En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Nestleder er vara for leder, og skal ha personlig varamedlem. Departementet utpeker leder og nestleder.
+2. Ett medlem, med personlig varamedlem, som skal representere elever og studenter. Medlemmet skal oppnevnes i samsvar med forslag fra representative elev- eller studentorganisasjoner.
+
+Medlemmene oppnevnes for inntil fire år, med unntak av student- og elevrepresentantene som oppnevnes for inntil to år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer kan oppnevnes i to perioder som fast medlem.
+
+Kravene i [likestillings- og diskrimineringsloven § 28 første ledd](lov/2017-06-16-51/§28/ledd/1) skal oppfylles for studentrepresentantene og de øvrige medlemmene hver for seg.
+
+> Tilføyd ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026, se endringsforskriften for overgangsregel).
+
+### § 12. Vedtaksførhet og flertallskrav
+
+Klagenemnda er vedtaksfør når alle medlemmer deltar i behandlingen. Vedtak treffes ved alminnelig flertall av de avgitte stemmene.
+
+> Tilføyd ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+
+### § 13. Delegering i nemnda
+
+Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslutningen om delegering må være enstemmig.
+
+> Tilføyd ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+
+## Kapittel 5. Ikrafttredelse og overgangsordning
+
+> Endret ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026, tidligere kapittel 4).
+
+### § 14. Ikrafttredelse og overgangsordning
 
 Forskriften trer i kraft 1. august 2025.
 
 Endringene får ikke virkning for klagenemnder, medlemmer og varamedlemmer som er oppnevnt før ikrafttredelsen. Tidligere forskriftsbestemmelser som regulerer de aktuelle forholdene, gjelder frem til neste oppnevning.
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+> Endret ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026, tidligere § 10).
