@@ -1,6 +1,6 @@
 ---
 id: "sf-20260710-1545"
-slug: "forskrift-om-omregningsfaktorer"
+slug: "forskrift-om-omregningsfaktorer-2026"
 type: "forskrift"
 ref_id: "forskrift/2026-07-10-1545"
 title: "Forskrift om bruk av omregningsfaktorer for omregning fra produktvekt og antall til rund vekt (forskrift om omregningsfaktorer)"
@@ -15,7 +15,7 @@ xml_hash: "c57bc657012081e47f2acc170433bc457bfca9235de07c4c62af1e9962da00ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-07-30T18:17:57.344275+00:00"
 status: "current"
 eu_basis: []
 ---
