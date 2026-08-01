@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2016-10-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2020-12-28"
-xml_hash: "529a417cdbac57c28ad09e53e7a86804b142d9744eb812ab41f23af2f74ba509"
+xml_hash: "f7fdba660704d9bb8ddd343cdebedc6a3c3202a17d3ab7be64fc75ebc07db247"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -345,7 +345,7 @@ Ved reiser til og fra spesialisthelsetjenester utenfor pasientens bostedsregion 
 Det skal ikke betales egenandel
 
 1. for ledsager
-2. for barn under 16 år
+2. for barn under 18 år
 3. ved reise for å undersøke eller behandle yrkesskade eller krigsskade
 4. ved reise for å undersøke, behandle og kontrollere en allmennfarlig smittsom sykdom
 5. ved reise for å legges inn i tvungent psykisk helsevern
@@ -355,7 +355,7 @@ Det skal ikke betales egenandel
 9. ved overføring mellom institusjoner innad i et helseforetak
 10. ved reise for å delta ved behandling av krav om abort for abortnemnda eller abortklagenemnda, jf. [abortloven §§ 14](lov/2024-12-20-96/§14) og [21](lov/2024-12-20-96/§21).
 
-> Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [16 sep 2016 nr. 1070](forskrift/2016-09-16-1070) (i kraft 1 okt 2016), [25 aug 2017 nr. 1286](forskrift/2017-08-25-1286), [19 des 2017 nr. 2255](forskrift/2017-12-19-2255) (i kraft 1 jan 2018), [9 des 2019 nr. 1706](forskrift/2019-12-09-1706) (i kraft 1 jan 2020), [15 des 2022 nr. 2233](forskrift/2022-12-15-2233) (i kraft 1 jan 2023), [19 des 2023 nr. 2234](forskrift/2023-12-19-2234) (i kraft 1 jan 2024), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025), [30 april 2025 nr. 772](forskrift/2025-04-30-772) (i kraft 1 juni 2025). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [16 sep 2016 nr. 1070](forskrift/2016-09-16-1070) (i kraft 1 okt 2016), [25 aug 2017 nr. 1286](forskrift/2017-08-25-1286), [19 des 2017 nr. 2255](forskrift/2017-12-19-2255) (i kraft 1 jan 2018), [9 des 2019 nr. 1706](forskrift/2019-12-09-1706) (i kraft 1 jan 2020), [15 des 2022 nr. 2233](forskrift/2022-12-15-2233) (i kraft 1 jan 2023), [19 des 2023 nr. 2234](forskrift/2023-12-19-2234) (i kraft 1 jan 2024), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025), [30 april 2025 nr. 772](forskrift/2025-04-30-772) (i kraft 1 juni 2025), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 25. Krav om reisestønad mv.
 
