@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2026-07-10"
-last_change_in_force: null
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "f1602747079deb73beee0d7f3c24ec2e427c66f1b3908b31a05f68dafdb95b61"
+xml_hash: "75d6cc1d4ede23398019495473675dfb1de8492f60585b6af6423d88d268f3d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T06:25:16.446498+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,11 +31,14 @@ For vassdrag som nevnt i tabellen gjelder følgende fiskebestemmelser i stedet f
 | Trøndelag | Skaun | 122.2Z | Vigda | L: 01.06–01.08 | Døgnkvote per fisker: 1 laks. Sesongkvote per fisker: 10 laks. |
 | Trøndelag | Orkland | 121.1Z | Skjenaldelva | L: 01.07–01.08 |  |
 | Trøndelag | Steinkjer | 128.Z | Steinkjervassdraget | L: 01.07–01.08 | Døgnkvote per fisker: 1 laks. Sesongkvote per fisker: 2 laks. Det er ikke tillatt å avlive laks større enn 65 cm. Totalkvote for vassdraget per sesong: 50 laks. Fiske kun tillatt i Byaelva. |
+| Trøndelag | Orkland | 121.Z | Orkla | Åpnes ikke |  |
+| Trøndelag | Melhus | 122.Z | Gaula (Trøndelag) | Åpnes ikke |  |
+| Trøndelag | Verdal | 127.Z | Verdalsvassdraget | Åpnes ikke |  |
 | Møre og Romsdal | Surnadal | 112.3Z | Bævra | L: 01.06-01.08<br>Ø: 01.07–01.08 |  |
 | Møre og Romsdal | Hustadvika | 108.2Z | Vågsbøelva | L: 01.06–01.08<br>Ø: 15.06–01.08 |  |
 | Møre og Romsdal | Hustadvika | 108.221Z | Vassgårdselva | L: 01.06–17.08<br>Ø: 15.07–17.08 | Døgnkvote per fisker: 2 laks. Døgnkvote per fisker: 1 sjøørret. |
 
-> **Endres** ved forskrift [16 juli 2026 nr. 1567](forskrift/2026-07-16-1567) (i kraft 1 aug 2026, gjelder til 31 desember 2026).
+> Endret ved forskrift [16 juli 2026 nr. 1567](forskrift/2026-07-16-1567) (i kraft 1 aug 2026, gjelder til 31 desember 2026).
 
 ## § 2. Begrensning i fiskebestemmelser i sjø
 
