@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2023-11-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "ef7e7a8941cce30e5784c828b6a0a735d476742786fd00a1497641dfc5299296"
+xml_hash: "139d9edec9da96b2fd78429066281dd8ca2b904695fde3946c75eca0a19f0587"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,23 +28,23 @@ For gjeldende bestemmelser om vekter og dimensjoner vises til [forskrift 25. jan
 
 Veglister for spesialtransport på riks-, fylkes- og kommunale veger:
 
-1. Agder: [pdf-fil](static/SF/sf-20231024-1697-01-27.pdf)
-2. Akershus: [pdf-fil](static/SF/sf-20231024-1697-02-28.pdf)
-3. Buskerud: [pdf-fil](static/SF/sf-20231024-1697-03-28.pdf)
-4. Finnmark: [pdf-fil](static/SF/sf-20231024-1697-04-17.pdf)
-5. Innlandet: [pdf-fil](static/SF/sf-20231024-1697-05-28.pdf)
+1. Agder: [pdf-fil](static/SF/sf-20231024-1697-01-28.pdf)
+2. Akershus: [pdf-fil](static/SF/sf-20231024-1697-02-29.pdf)
+3. Buskerud: [pdf-fil](static/SF/sf-20231024-1697-03-29.pdf)
+4. Finnmark: [pdf-fil](static/SF/sf-20231024-1697-04-18.pdf)
+5. Innlandet: [pdf-fil](static/SF/sf-20231024-1697-05-29.pdf)
 6. Møre og Romsdal: [pdf-fil](static/SF/sf-20231024-1697-06-28.pdf)
-7. Nordland: [pdf-fil](static/SF/sf-20231024-1697-07-27.pdf)
+7. Nordland: [pdf-fil](static/SF/sf-20231024-1697-07-28.pdf)
 8. Oslo: [pdf-fil](static/SF/sf-20231024-1697-08-11.pdf)
-9. Rogaland: [pdf-fil](static/SF/sf-20231024-1697-09-27.pdf)
-10. Telemark: [pdf-fil](static/SF/sf-20231024-1697-10-25.pdf)
+9. Rogaland: [pdf-fil](static/SF/sf-20231024-1697-09-28.pdf)
+10. Telemark: [pdf-fil](static/SF/sf-20231024-1697-10-26.pdf)
 11. Troms: [pdf-fil](static/SF/sf-20231024-1697-11-25.pdf)
-12. Trøndelag: [pdf-fil](static/SF/sf-20231024-1697-12-28.pdf)
-13. Vestfold: [pdf-fil](static/SF/sf-20231024-1697-13-26.pdf)
-14. Vestland: [pdf-fil](static/SF/sf-20231024-1697-14-27.pdf)
-15. Østfold: [pdf-fil](static/SF/sf-20231024-1697-15-25.pdf)
+12. Trøndelag: [pdf-fil](static/SF/sf-20231024-1697-12-29.pdf)
+13. Vestfold: [pdf-fil](static/SF/sf-20231024-1697-13-27.pdf)
+14. Vestland: [pdf-fil](static/SF/sf-20231024-1697-14-28.pdf)
+15. Østfold: [pdf-fil](static/SF/sf-20231024-1697-15-26.pdf)
 
-> Endret ved forskrifter [27 feb 2024 nr. 345](forskrift/2024-02-27-345) (i kraft 1 mars 2024), [22 mars 2024 nr. 506](forskrift/2024-03-22-506) (i kraft 1 april 2024), [25 april 2024 nr. 698](forskrift/2024-04-25-698) (i kraft 1 mai 2024), [24 mai 2024 nr. 855](forskrift/2024-05-24-855) (i kraft 1 juni 2024), [26 juni 2024 nr. 1357](forskrift/2024-06-26-1357) (i kraft 1 juli 2024), [26 juli 2024 nr. 1841](forskrift/2024-07-26-1841) (i kraft 1 aug 2024), [26 aug 2024 nr. 2030](forskrift/2024-08-26-2030) (i kraft 1 sep 2024), [27 sep 2024 nr. 2321](forskrift/2024-09-27-2321) (i kraft 1 okt 2024), [10 okt 2024 nr. 2450](forskrift/2024-10-10-2450), [25 okt 2024 nr. 2560](forskrift/2024-10-25-2560) (i kraft 1 nov 2024), [26 nov 2024 nr. 2878](forskrift/2024-11-26-2878) (i kraft 1 des 2024), [27 jan 2025 nr. 91](forskrift/2025-01-27-91) (i kraft 1 feb 2025), [26 feb 2025 nr. 325](forskrift/2025-02-26-325) (i kraft 1 mars 2025), [25 mars 2025 nr. 535](forskrift/2025-03-25-535) (i kraft 1 april 2025), [28 april 2025 nr. 703](forskrift/2025-04-28-703) (i kraft 1 mai 2025), [26 mai 2025 nr. 874](forskrift/2025-05-26-874) (i kraft 1 juni 2025), [25 juni 2025 nr. 1317](forskrift/2025-06-25-1317) (i kraft 1 juli 2025), [28 juli 2025 nr. 1566](forskrift/2025-07-28-1566) (i kraft 1 aug 2025), [26 aug 2025 nr. 1731](forskrift/2025-08-26-1731) (i kraft 1 sep 2025), [25 sep 2025 nr. 1949](forskrift/2025-09-25-1949) (i kraft 1 okt 2025), [27 okt 2025 nr. 2112](forskrift/2025-10-27-2112) (i kraft 1 nov 2025), [25 nov 2025 nr. 2345](forskrift/2025-11-25-2345) (i kraft 1 des 2025), [26 jan 2026 nr. 99](forskrift/2026-01-26-99) (i kraft 1 feb 2026), [26 feb 2026 nr. 304](forskrift/2026-02-26-304) (i kraft 1 mars 2026), [25 mars 2026 nr. 491](forskrift/2026-03-25-491) (i kraft 1 april 2026), [27 april 2026 nr. 660](forskrift/2026-04-27-660) (i kraft 1 mai 2026), [26 mai 2026 nr. 945](forskrift/2026-05-26-945) (i kraft 1 juni 2026), [25 juni 2026 nr. 1367](forskrift/2026-06-25-1367) (i kraft 1 juli 2026).
+> Endret ved forskrifter [27 feb 2024 nr. 345](forskrift/2024-02-27-345) (i kraft 1 mars 2024), [22 mars 2024 nr. 506](forskrift/2024-03-22-506) (i kraft 1 april 2024), [25 april 2024 nr. 698](forskrift/2024-04-25-698) (i kraft 1 mai 2024), [24 mai 2024 nr. 855](forskrift/2024-05-24-855) (i kraft 1 juni 2024), [26 juni 2024 nr. 1357](forskrift/2024-06-26-1357) (i kraft 1 juli 2024), [26 juli 2024 nr. 1841](forskrift/2024-07-26-1841) (i kraft 1 aug 2024), [26 aug 2024 nr. 2030](forskrift/2024-08-26-2030) (i kraft 1 sep 2024), [27 sep 2024 nr. 2321](forskrift/2024-09-27-2321) (i kraft 1 okt 2024), [10 okt 2024 nr. 2450](forskrift/2024-10-10-2450), [25 okt 2024 nr. 2560](forskrift/2024-10-25-2560) (i kraft 1 nov 2024), [26 nov 2024 nr. 2878](forskrift/2024-11-26-2878) (i kraft 1 des 2024), [27 jan 2025 nr. 91](forskrift/2025-01-27-91) (i kraft 1 feb 2025), [26 feb 2025 nr. 325](forskrift/2025-02-26-325) (i kraft 1 mars 2025), [25 mars 2025 nr. 535](forskrift/2025-03-25-535) (i kraft 1 april 2025), [28 april 2025 nr. 703](forskrift/2025-04-28-703) (i kraft 1 mai 2025), [26 mai 2025 nr. 874](forskrift/2025-05-26-874) (i kraft 1 juni 2025), [25 juni 2025 nr. 1317](forskrift/2025-06-25-1317) (i kraft 1 juli 2025), [28 juli 2025 nr. 1566](forskrift/2025-07-28-1566) (i kraft 1 aug 2025), [26 aug 2025 nr. 1731](forskrift/2025-08-26-1731) (i kraft 1 sep 2025), [25 sep 2025 nr. 1949](forskrift/2025-09-25-1949) (i kraft 1 okt 2025), [27 okt 2025 nr. 2112](forskrift/2025-10-27-2112) (i kraft 1 nov 2025), [25 nov 2025 nr. 2345](forskrift/2025-11-25-2345) (i kraft 1 des 2025), [26 jan 2026 nr. 99](forskrift/2026-01-26-99) (i kraft 1 feb 2026), [26 feb 2026 nr. 304](forskrift/2026-02-26-304) (i kraft 1 mars 2026), [25 mars 2026 nr. 491](forskrift/2026-03-25-491) (i kraft 1 april 2026), [27 april 2026 nr. 660](forskrift/2026-04-27-660) (i kraft 1 mai 2026), [26 mai 2026 nr. 945](forskrift/2026-05-26-945) (i kraft 1 juni 2026), [25 juni 2026 nr. 1367](forskrift/2026-06-25-1367) (i kraft 1 juli 2026), [27 juli 2026 nr. 1591](forskrift/2026-07-27-1591) (i kraft 1 aug 2026).
 
 ## § 2. Ikrafttredelse
 
