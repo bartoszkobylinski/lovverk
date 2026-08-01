@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-06-22"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "263249a1313ea60476ea923581b86cdd3aad9f06807122f2139abb4597965419"
+xml_hash: "9dcf7bd291dde95e2cc2a81f558f43c88aa10de59405c92d1b4844a3632eee05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -73,13 +73,13 @@ Elevar på 8. til 10. trinn skal i tillegg til opplæringa i engelsk ha opplæri
 Kommunen må ved kvar skole tilby opplæring i
 
 1. minst eitt av språka tysk, fransk, spansk eller russisk etter læreplanen i framandspråk på nivå I
-2. minst eitt av faga fordjuping i engelsk, fordjuping i norsk, fordjuping i samisk eller fordjuping i matematikk.
+2. arbeidslivsfag.
 
 Elevane skal ha det faget dei har valt, frå 8. til 10. trinn. Dei kan likevel byte fag det første halvåret i samråd med skolen. Kommunen kan godkjenne fagbyte på eit seinare tidspunkt dersom særlege grunnar taler for det.
 
 Elevane kan ikkje krevje å halde fram med det same faget dersom dei byter skole.
 
-> Vert endra ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
+> Endra ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
 
 ### § 1-10. Fritak frå opplæring i framandspråk, fordjuping eller arbeidslivsfag på 8. til 10. trinn
 
@@ -114,15 +114,15 @@ Kommunen skal ha eit tilbod om leksehjelp på minst åtte timar kvar veke. Kommu
 
 ### § 2-2. Gratis skolefritidsordning for elevar på 1. til 3. trinn
 
-Kommunen skal gi tolv timar gratis skolefritidsordning per veke for elevar på 1. til 3. trinn som har plass i ordninga. Kommunen kan ikkje rekne om dei tolv timane til gjennomsnitt over lengre tid enn ei veke.
+I organiseringa av retten til gratis skolefritidsordning etter [opplæringslova § 4-5 andre ledd](lov/2023-06-09-30/§4-5/ledd/2), kan kommunen ikkje rekne om dei tolv timane til gjennomsnitt over lengre tid enn ei veke.
 
-Kravet i første ledd gjeld også dersom kommunen tilbyr skolefritidsordning i skoleferiane.
+Retten til gratis skolefritidsordning etter [opplæringslova § 4-5 andre ledd](lov/2023-06-09-30/§4-5/ledd/2) gjeld også dersom kommunen tilbyr skolefritidsordning i skoleferiane.
 
 Kommunen skal gi foreldra tilbod om å fordele dei tolv timane på alle dagane kommunen til vanleg har eit tilbod om skolefritidsordning, så langt det er praktisk mogleg. Dette gjeld ikkje ved tilbod om skolefritidsordning i skoleferiane.
 
 Kommunen kan krevje betaling for kost.
 
-> **Vert endra** ved forskrift [20 mars 2026 nr. 443](forskrift/2026-03-20-443) (i kraft 1 aug 2026).
+> Endra ved forskrift [20 mars 2026 nr. 443](forskrift/2026-03-20-443) (i kraft 1 aug 2026).
 
 ### § 2-3. Gratis skolefritidsordning for elevar med særlege behov på 5. til 7. trinn
 
@@ -288,9 +288,9 @@ Søknadsfristen skal kunngjerast minst fire veker før han går ut. I kunngjerin
 
 For dei som tidlegare har fått «ikkje bestått» på fag- eller sveineprøva og søkjer inntak på eit opplæringstilbod på vidaregåande trinn 3 bygd på det programområdet dei har gjennomført på vidaregåande trinn 2, jf. [§ 5-2](forskrift/2024-06-03-900/§5-2) tredje ledd, gjeld ikkje fristane i denne paragrafen. Fristane gjeld heller ikkje dei som søkjer om inntak i samarbeid med oppfølgingstenesta, jf. [opplæringslova § 9-4](lov/2023-06-09-30/§9-4).
 
-Fylkeskommunen har plikt til å ha inntak til vidaregåande trinn 1, trinn 2 og trinn 3 for søkjarar som etter søknadsfristane blir plasserte i fosterheim eller barnevernsinstitusjon med heimel i [barnevernsloven](lov/2021-06-18-97). Fylkeskommunen har i slike tilfelle også plikt til å ha inntak for søkjarar etter at skoleåret har starta, når dette er forsvarleg. Plikta til inntak etter dette leddet gjeld så langt fylkeskommunen tilbyr det aktuelle utdanningsprogrammet eller programområdet og har kapasitet på det. Søkjarar kan takast inn til eit anna utdanningsprogram eller programområde etter ei konkret vurdering.
+Fylkeskommunen har plikt til å ha inntak til vidaregåande trinn 1, trinn 2 og trinn 3 for søkjarar som etter søknadsfristane flyttar til eller frå eit tiltak utanfor heimen med heimel i [barnevernsloven](lov/2021-06-18-97). Det same gjeld dei som kjem tilbake til Noreg etter ufrivillig utanlandsopphald. Fylkeskommunen har i tilfelle som nemnt i første og andre punktum også plikt til å ha inntak for søkjarar etter at skoleåret har starta, når dette er forsvarleg. Plikta til inntak etter dette leddet gjeld så langt fylkeskommunen tilbyr det aktuelle utdanningsprogrammet eller programområdet og har kapasitet på det. Søkjarar kan takast inn til eit anna utdanningsprogram eller programområde etter ei konkret vurdering.
 
-> **Vert endra** ved forskrift [28 jan 2026 nr. 107](forskrift/2026-01-28-107) (i kraft 1 aug 2026).
+> Endra ved forskrift [28 jan 2026 nr. 107](forskrift/2026-01-28-107) (i kraft 1 aug 2026).
 
 ### § 4-10. Avgjerd om inntak til dei samiske vidaregåande skolane
 
@@ -967,9 +967,9 @@ Kommunen og fylkeskommunen skal sørgje for at føringsfeil blir retta og attest
 
 Elevar som er fritatt for opplæringsplikt etter [opplæringslova § 2-2 tredje ledd](lov/2023-06-09-30/§2-2/ledd/3), skal framleis stå oppførte i systemet for føring av karakterar.
 
-Kommunen og fylkeskommunen skal sørgje for at fråvær blir dokumentert kvart halvår.
+Kommunen og fylkeskommunen skal sørgje for at fråvær blir dokumentert kvart halvår. Dersom eleven er hos skolehelsetenesta, skal det ikkje bli rekna som fråvær frå opplæringa etter [kapittel 9](forskrift/2024-06-03-900/kap9) i denne forskrifta.
 
-> **Vert endra** ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
+> Endra ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
 
 ### § 9-10. Dispensasjon frå reglane om individuell vurdering
 
@@ -2647,15 +2647,15 @@ Deltakarar i førebuande opplæring for vaksne som per 31. juli 2024 får opplæ
 
 Deltakarar i vidaregåande opplæring for vaksne som per 31. juli 2025 får opplæring etter Læreplanverket for Kunnskapsløftet 2020, og planlegg å fullføre opplæringa seinast våren 2028, kan fullføre opplæringa etter desse læreplanane.
 
-### § 23-9. Overgangsregel for forskrift om hovudmål på kvar skole
+### § 23-9. (Oppheva)
 
-Fylkeskommunen treng ikkje oppfylle kravet i [opplæringslova § 15-2 første ledd](lov/2023-06-09-30/§15-2/ledd/1) om å gi forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, før 1. august 2026.
-
-> **Vert oppheva** ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
+> Oppheva ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
 
 ### § 23-10. Overgangsregel for krav om å tilby arbeidslivsfag på 8. til 10. trinn
 
-> Vert tilføyd ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
+I staden for arbeidslivsfag kan kommunen fram til 1. august 2027 velje å tilby minst eitt av faga fordjuping i engelsk, fordjuping i norsk, fordjuping i samisk eller fordjuping i matematikk.
+
+> Tilføyd ved forskrift [18 feb 2026 nr. 235](forskrift/2026-02-18-235) (i kraft 1 aug 2026).
 
 ### Kapittel 24. Iverksetjing og oppheving
 
