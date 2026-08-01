@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2017-01-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "c8308939e65ed9538099f71de74ec5449f4e85ba4dabe12065b4d70ad79f87bc"
+xml_hash: "32681c843cde68064ad1e284f5c1a510d1e39af7b2b42d60ac4c5b2cfa816525"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,9 @@ Det kan kreves betaling av egenandel for opphold i opptreningsinstitusjoner og a
 
 Det skal ikke kreves egenandel av pasienter der behovet for opphold i opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner skyldes yrkesskade eller krigsskade.
 
-Barn under 16 år er fritatt fra å betale egenandel.
+Barn under 18 år er fritatt fra å betale egenandel.
 
-> Endret ved [forskrift 19 des 2016 nr. 1750](forskrift/2016-12-19-1750) (i kraft 1 jan 2017). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endret ved forskrifter [19 des 2016 nr. 1750](forskrift/2016-12-19-1750) (i kraft 1 jan 2017), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ## § 3. Ikraftsetting
 
