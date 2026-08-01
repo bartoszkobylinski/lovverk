@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2025-06-23"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "92a08395daeabe027e9a35e2864193c07eaf81da0dd888eb02ba059d5c3ca6a1"
+xml_hash: "cd23214d6ededf548b6a0378cabc4fd809befa61381264283eacc0e1ce39e1a5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,9 @@ Folketrygden yter stønad til dekning av medlemmets utgifter til helsehjelp ved 
 
 Honorar for utført helsehjelp hos lege i forsøket skal tilsvare honorar som følger av [kapittel II](forskrift/2025-06-22-1188/kapII).
 
-> **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+Bestemmelser om stønad etter honorartakstene i [forskrift 26. juni 2024 nr. 1322 om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3](forskrift/2024-06-26-1322/§3) gjelder tilsvarende.
+
+> Endret ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 5. Egenandeler ved helsehjelp hos nettlege i allmennlegetjenesten
 
@@ -58,7 +60,9 @@ Medlemmet betaler egenandeler for digital helsehjelp utført av lege i forsøkso
 
 Egenandeler betalt for helsehjelp i forsøket inngår i opptjeningen mot taket for egenandeler etter [folketrygdloven § 5-3](lov/1997-02-28-19/§5-3).
 
-> **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+Bestemmelser om fritak fra å betale egenandel etter [forskrift 26. juni 2024 nr. 1322 om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3](forskrift/2024-06-26-1322/§3) gjelder tilsvarende.
+
+> Endret ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 6. Plikt til avtale om direkte oppgjør med Helfo
 
