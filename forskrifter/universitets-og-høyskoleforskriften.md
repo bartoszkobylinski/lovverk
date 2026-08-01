@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2025-12-03"
-xml_hash: "5cac84b728c2536b7bc6f9fdaa6f1c7e61c1071a0ea749741e366aada3b5d973"
+xml_hash: "b78c990d38251597fde2e01b636922b51a4a8667250a4d32f65955a30ef27846"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1040,11 +1040,12 @@ Universiteter og høyskoler skal gjøre skikkethetsvurdering etter [universitets
 37. osteopatutdanning
 38. utdanning i skolefritidspedagogikk
 39. helse- og treningsfysiologiutdanning
-40. utdanning i fritidspedagogikk.
+40. utdanning i fritidspedagogikk
+41. utdanninger ved Høgskolen for kriminalomsorg.
 
 Institusjonene skal også gjøre skikkethetsvurderinger i master- og videreutdanninger som fører til en spesialisering, og som bygger på én eller flere av utdanningene som er nevnt i første ledd.
 
-> Endret ved forskrift [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026, endringene i nr. 39 og 40 gjelder for utdanninger som starter opp etter 1. august 2026). **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+> Endret ved forskrifter [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026, endringene i nr. 39 og 40 gjelder for utdanninger som starter opp etter 1. august 2026), [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### § 7-2. Formålet med skikkethetsvurdering
 
@@ -1299,7 +1300,22 @@ Private høyskoler som mottar statstilskudd, og som ikke oppfyller kravet til in
 
 ### § 12-3. Studenters rett til å få dekket utgifter til advokat
 
-> **Tilføyes** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+Studenters rett til å få dekket rimelige og nødvendige utgifter til bistand fra advokat eller annen fullmektig etter [universitets- og høyskoleloven § 12-9](lov/2024-03-08-9/§12-9), er begrenset oppad til følgende nivå:
+
+1. I saker som gjelder utestenging, utelukkelse eller bortvisning etter loven [§§ 12-1](lov/2024-03-08-9/§12-1), [12-2](lov/2024-03-08-9/§12-2) og [12-4](lov/2024-03-08-9/§12-4) til [12-8](lov/2024-03-08-9/§12-8):
+
+   - 9 ganger offentlig salærsats i forvaltningssaken
+   - 32 ganger offentlig salærsats for domstolen.
+2. I saker som gjelder uskikkethet etter loven [§ 12-3](lov/2024-03-08-9/§12-3):
+
+   - 16 ganger offentlig salærsats i forvaltningssaken
+   - 40 ganger offentlig salærsats for domstolen.
+
+I særlig tidkrevende saker kan institusjonen dekke utgifter til advokat med inntil 5 ganger offentlig salærsats utover satsene i første ledd.
+
+Ved advokatskifte har studentene rett på én gang offentlig salærsats i tillegg til satsene i første ledd.
+
+> Tilføyd ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ## Kapittel 13. Ikrafttredelse, overgangsregler og endringer i andre forskrifter
 
@@ -1356,7 +1372,9 @@ Tilsyn med akkreditering som NOKUT har påbegynt før 1. januar 2025, behandles 
 
 ### § 13-7. Overgangsregler for kapittel 12 Forskjellige regler
 
-> **Tilføyes** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+Begrensningene i [§ 12-3](forskrift/2024-06-28-1392/§12-3) i studenters rett til å få dekket utgifter til advokat etter [universitets- og høyskoleloven § 12-9](lov/2024-03-08-9/§12-9) gjelder for saker som blir besluttet fremmet ved institusjonen etter 1. september 2026.
+
+> Tilføyd ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ## Vedlegg I. Institusjonenes rett til å gi grader og yrkesutdanninger med beskyttet tittel
 
@@ -1697,9 +1715,10 @@ Forsvarets høgskole kan tildele følgende grader som gir rett til tilsvarende t
 1. høgskolekandidat
 2. bachelor
 3. bachelor, utvidet, i militære studier med fordypning i sjømilitær ledelse og navigasjon
-4. master, erfaringsbasert.
+4. master
+5. master, erfaringsbasert.
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+> Endret ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Politihøgskolen
 
@@ -1711,14 +1730,14 @@ Politihøgskolen kan tildele følgende grader som gir rett til tilsvarende titte
 
 ### Høyskoler under andre departement, uten institusjonsakkreditering:
 
-### Kriminalomsorgens høgskole og utdanningssenter
+### Høgskolen for Kriminalomsorg
 
-Kriminalomsorgens høgskole og utdanningssenter (KRUS) kan tildele følgende grader som gir rett til tilsvarende tittel:
+Høgskolen for Kriminalomsorg kan tildele følgende grader som gir rett til tilsvarende tittel:
 
 1. høgskolekandidat
 2. bachelor.
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+> Endret ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Private institusjoner:
 
@@ -1792,9 +1811,10 @@ Fjellhaug Internasjonale Høgskole kan tildele følgende grad som gir rett til t
 
 Høyskolen for ledelse og teologi kan tildele følgende grad som gir rett til tilsvarende tittel:
 
-1. bachelor.
+1. bachelor
+2. master.
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+> Endret ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Høyskolen Kristiania
 
@@ -1828,6 +1848,16 @@ NLA Høgskolen kan tildele følgende grader som gir rett til tilsvarende tittel:
 NLA Høgskolen kan tildele følgende yrkesutdanninger:
 
 1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+
+### Steinerhøyskolen
+
+Steinerhøyskolen kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, integrert – fellesgrad med OsloMet-storbyuniversitetet.
+
+> Endret ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Høyskoler uten institusjonsakkreditering
 
@@ -1894,16 +1924,6 @@ Oslo Nye Høyskole kan tildele følgende grader som gir rett til tilsvarende tit
 
 1. bachelor
 2. master.
-
-### Steinerhøyskolen
-
-Steinerhøyskolen kan tildele følgende grad som gir rett til tilsvarende tittel:
-
-1. bachelor
-2. master
-3. master, integrert – fellesgrad med OsloMet-storbyuniversitetet.
-
-> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ## Vedlegg II
 
