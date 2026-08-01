@@ -10,12 +10,12 @@ ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2006-01-01"
 last_change_in_force: "2021-06-01"
-last_updated: "2021-04-09"
-xml_hash: "79f9746decae73c26d0e16ce630b2d361c8658e531a17b22ef3a26b40ac855da"
+last_updated: "2026-08-01"
+xml_hash: "ae00c62a501a9edc796fbc5720c26072d2ceec794c497f2e96d235eb91ede2c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
