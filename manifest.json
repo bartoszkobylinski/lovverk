@@ -5751,10 +5751,10 @@
     },
     "nl-20030704-084": {
       "doc_type": "lov",
-      "embedding_hash": "3436ac09ef6ee4380586ce6467f22bcbe1489e582d61738af53f3f7d4433acf9",
+      "embedding_hash": "40e4780ff1cf696b9568cdfa8ddbea4c86cdafcae1ef93e33cc0acb9c5611fee",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/privatskolelova-prskol.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -5762,8 +5762,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om private skolar med rett til statstilskot (privatskolelova)",
-      "total_changes": 4,
-      "xml_hash": "3436ac09ef6ee4380586ce6467f22bcbe1489e582d61738af53f3f7d4433acf9"
+      "total_changes": 5,
+      "xml_hash": "40e4780ff1cf696b9568cdfa8ddbea4c86cdafcae1ef93e33cc0acb9c5611fee"
     },
     "nl-20030829-090": {
       "doc_type": "lov",
@@ -6283,10 +6283,10 @@
     },
     "nl-20050603-037": {
       "doc_type": "lov",
-      "embedding_hash": "0f7eec0d804c0c3b0926975ce55f5c0c3046267e77e00049a192b762c62c9212",
+      "embedding_hash": "14187798d4b99851ebfb84a979cf6577d148c8ea98a4a93f11aa3e0217e766ca",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/utdanningsstøtteloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -6294,8 +6294,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utdanningsstøtte (utdanningsstøtteloven)",
-      "total_changes": 4,
-      "xml_hash": "0f7eec0d804c0c3b0926975ce55f5c0c3046267e77e00049a192b762c62c9212"
+      "total_changes": 5,
+      "xml_hash": "14187798d4b99851ebfb84a979cf6577d148c8ea98a4a93f11aa3e0217e766ca"
     },
     "nl-20050610-044": {
       "doc_type": "lov",
@@ -6350,10 +6350,10 @@
     },
     "nl-20050617-064": {
       "doc_type": "lov",
-      "embedding_hash": "357ea2217bed3207507f6ce5ce545cee1f9157cd9115eadda214b1a3a9850141",
+      "embedding_hash": "3a87814292062852191eabfb91b3fa41bbe022452102df0912795ec74f9897da",
       "eu_basis": [],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/barnehageloven-bhl.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -6361,8 +6361,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barnehager (barnehageloven)",
-      "total_changes": 9,
-      "xml_hash": "357ea2217bed3207507f6ce5ce545cee1f9157cd9115eadda214b1a3a9850141"
+      "total_changes": 10,
+      "xml_hash": "3a87814292062852191eabfb91b3fa41bbe022452102df0912795ec74f9897da"
     },
     "nl-20050617-067": {
       "doc_type": "lov",
@@ -6761,7 +6761,7 @@
     },
     "nl-20070629-075": {
       "doc_type": "lov",
-      "embedding_hash": "a91120ad09ddc254955a31ef3af399f0d88fab649dd6b494d7e0cde012dd13ef",
+      "embedding_hash": "6f85513e363d28bcd00f56af99a1afb01d825b3f0591146a99dd70db3394fa5e",
       "eu_basis": [
         "32014R0596",
         "32017R1129",
@@ -6772,8 +6772,8 @@
         "32015R2365",
         "32022R0858"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/verdipapirhandelloven-vphl.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -6781,8 +6781,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om verdipapirhandel (verdipapirhandelloven)",
-      "total_changes": 6,
-      "xml_hash": "a91120ad09ddc254955a31ef3af399f0d88fab649dd6b494d7e0cde012dd13ef"
+      "total_changes": 7,
+      "xml_hash": "6f85513e363d28bcd00f56af99a1afb01d825b3f0591146a99dd70db3394fa5e"
     },
     "nl-20070629-081": {
       "doc_type": "lov",
@@ -8207,7 +8207,7 @@
     },
     "nl-20150410-017": {
       "doc_type": "lov",
-      "embedding_hash": "e59ef3da99933c528f8c66ac3a213d3f1170ed912b0f29ca00e6917c3533838c",
+      "embedding_hash": "c030ca5228ede0ee4d84f6b4106fd1aaf956c3508d72d6ddd62795b2833da966",
       "eu_basis": [
         "32009L0138",
         "32013L0036",
@@ -8217,8 +8217,8 @@
         "32017R2402",
         "32016L2341"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/finansforetaksloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -8226,8 +8226,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansforetak og finanskonsern (finansforetaksloven)",
-      "total_changes": 7,
-      "xml_hash": "e59ef3da99933c528f8c66ac3a213d3f1170ed912b0f29ca00e6917c3533838c"
+      "total_changes": 8,
+      "xml_hash": "c030ca5228ede0ee4d84f6b4106fd1aaf956c3508d72d6ddd62795b2833da966"
     },
     "nl-20150424-020": {
       "doc_type": "lov",
@@ -9207,13 +9207,13 @@
     },
     "nl-20180601-023": {
       "doc_type": "lov",
-      "embedding_hash": "b43be29ec1e861a32e36530abb1fbb84625110cfccb164af1269b60502381af1",
+      "embedding_hash": "80b780e8e538d729c20aaddb2eca8b9b21fe16b62f4aa5eecf41de96e5ecbadf",
       "eu_basis": [
         "32015L0849",
         "32023R1113"
       ],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/hvitvaskingsloven-hvvl.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -9221,8 +9221,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)",
-      "total_changes": 6,
-      "xml_hash": "b43be29ec1e861a32e36530abb1fbb84625110cfccb164af1269b60502381af1"
+      "total_changes": 7,
+      "xml_hash": "80b780e8e538d729c20aaddb2eca8b9b21fe16b62f4aa5eecf41de96e5ecbadf"
     },
     "nl-20180601-024": {
       "doc_type": "lov",
@@ -10064,10 +10064,10 @@
     },
     "nl-20201218-146": {
       "doc_type": "lov",
-      "embedding_hash": "af5d3a44ac932017ad8adb10deb04eec7b4b0d3a5979719ffa1ad20e7f4aa2ae",
+      "embedding_hash": "b2fb7bfaf2d0381610b60b0dd11dcb94dae281e9162b1221c599031a40e6b0be",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/finansavtaleloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -10075,8 +10075,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansavtaler (finansavtaleloven)",
-      "total_changes": 6,
-      "xml_hash": "af5d3a44ac932017ad8adb10deb04eec7b4b0d3a5979719ffa1ad20e7f4aa2ae"
+      "total_changes": 7,
+      "xml_hash": "b2fb7bfaf2d0381610b60b0dd11dcb94dae281e9162b1221c599031a40e6b0be"
     },
     "nl-20201218-153": {
       "doc_type": "lov",
@@ -10649,12 +10649,12 @@
     },
     "nl-20221216-091": {
       "doc_type": "lov",
-      "embedding_hash": "907509679a1da543e489afae213ff4157ba38c75217e6ca04e0cbd1fa49c1b40",
+      "embedding_hash": "a0bf5f7380768ae3a20336f3479aeef4a3104718cf9d6e7b5ff634ef6eec38c2",
       "eu_basis": [
         "32014L0017"
       ],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/låneformidlingsloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -10662,8 +10662,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om låneformidling (låneformidlingsloven)",
-      "total_changes": 7,
-      "xml_hash": "907509679a1da543e489afae213ff4157ba38c75217e6ca04e0cbd1fa49c1b40"
+      "total_changes": 8,
+      "xml_hash": "a0bf5f7380768ae3a20336f3479aeef4a3104718cf9d6e7b5ff634ef6eec38c2"
     },
     "nl-20221220-097": {
       "doc_type": "lov",
@@ -10779,10 +10779,10 @@
     },
     "nl-20230609-030": {
       "doc_type": "lov",
-      "embedding_hash": "31a3ce00694096387c8dff6ab615e671602c2203f99c4100ee3230924dc5fc94",
+      "embedding_hash": "7d2e7c292791e9552920bc6809290ce922f527423fef8c37379cfdf22df362ed",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/opplæringslova.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -10790,8 +10790,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)",
-      "total_changes": 7,
-      "xml_hash": "31a3ce00694096387c8dff6ab615e671602c2203f99c4100ee3230924dc5fc94"
+      "total_changes": 8,
+      "xml_hash": "7d2e7c292791e9552920bc6809290ce922f527423fef8c37379cfdf22df362ed"
     },
     "nl-20230616-062": {
       "doc_type": "lov",
@@ -11005,10 +11005,10 @@
     },
     "nl-20240308-009": {
       "doc_type": "lov",
-      "embedding_hash": "36adee974869a718f9a87d9f509def7d21ac28a44eebd48f79edf5ff80d391b0",
+      "embedding_hash": "73047b790a821c5411f9ba30ff532ebc320a64548875a7ec00dd8ab19f73aac6",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/universitets-og-høyskoleloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -11016,8 +11016,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om universiteter og høyskoler (universitets- og høyskoleloven)",
-      "total_changes": 6,
-      "xml_hash": "36adee974869a718f9a87d9f509def7d21ac28a44eebd48f79edf5ff80d391b0"
+      "total_changes": 7,
+      "xml_hash": "73047b790a821c5411f9ba30ff532ebc320a64548875a7ec00dd8ab19f73aac6"
     },
     "nl-20240412-016": {
       "doc_type": "lov",
@@ -11058,7 +11058,7 @@
     },
     "nl-20240621-041": {
       "doc_type": "lov",
-      "embedding_hash": "1c69fe4ff8a2d5f8182050de636ecd170c662c3ae9a503f3eeee5d84327c84ed",
+      "embedding_hash": "26e7da3f47c6c45431091b9b862d5dc67cf8f0cc8deb329d2f956c7505c0cb0e",
       "eu_basis": [
         "32009L0138",
         "32013L0036",
@@ -11066,8 +11066,8 @@
         "32009L0065",
         "32014L0065"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/finanstilsynsloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -11075,8 +11075,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Finanstilsynet (finanstilsynsloven)",
-      "total_changes": 6,
-      "xml_hash": "1c69fe4ff8a2d5f8182050de636ecd170c662c3ae9a503f3eeee5d84327c84ed"
+      "total_changes": 7,
+      "xml_hash": "26e7da3f47c6c45431091b9b862d5dc67cf8f0cc8deb329d2f956c7505c0cb0e"
     },
     "nl-20240621-042": {
       "doc_type": "lov",
@@ -11756,10 +11756,10 @@
     },
     "nl-20250620-099": {
       "doc_type": "lov",
-      "embedding_hash": "e0d5db2abe5fca88fa5d9b448571a4f39b6089a2af6c2cd4fa2ed0fa00f4e52d",
+      "embedding_hash": "473d30d4365854e4051c48c50442cd9048dc4ed2f73da25054609bdee037db06",
       "eu_basis": [],
-      "last_changed": "2026-07-07",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/folkehøgskoleloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -11767,23 +11767,23 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folkehøgskoler (folkehøgskoleloven)",
-      "total_changes": 5,
-      "xml_hash": "e0d5db2abe5fca88fa5d9b448571a4f39b6089a2af6c2cd4fa2ed0fa00f4e52d"
+      "total_changes": 6,
+      "xml_hash": "473d30d4365854e4051c48c50442cd9048dc4ed2f73da25054609bdee037db06"
     },
     "nl-20250620-100": {
       "doc_type": "lov",
-      "embedding_hash": "a274b98d485b8ac30d5dc0607d7a78ec137aa89d9befd3e84c8f2f051c15cb96",
-      "eu_basis": [],
-      "last_changed": "2026-06-20",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "lover/endringslov-til-barnehageloven.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endringslov-til-barnehageloven",
       "source_dataset": "gjeldende-lover",
-      "status": "current",
+      "status": "removed",
       "title": "Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "a274b98d485b8ac30d5dc0607d7a78ec137aa89d9befd3e84c8f2f051c15cb96"
     },
     "nl-20250620-102": {
@@ -11948,12 +11948,12 @@
     },
     "nl-20260206-002": {
       "doc_type": "lov",
-      "embedding_hash": "f102ff17f1f9856607926480fbae9e7558f46c9243c3a1b3f955898a4ecce01d",
+      "embedding_hash": "5353cda63c98c55fe913fb9cbb9d514d451d05ef98643a77616ddeb102034207",
       "eu_basis": [
         "32020R1503"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "lover/folkefinansieringsloven.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -11961,8 +11961,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)",
-      "total_changes": 6,
-      "xml_hash": "f102ff17f1f9856607926480fbae9e7558f46c9243c3a1b3f955898a4ecce01d"
+      "total_changes": 7,
+      "xml_hash": "5353cda63c98c55fe913fb9cbb9d514d451d05ef98643a77616ddeb102034207"
     },
     "nl-20260206-003": {
       "doc_type": "lov",
@@ -11985,18 +11985,18 @@
     },
     "nl-20260213-006": {
       "doc_type": "lov",
-      "embedding_hash": "69dfd0591e9eadce45520049a3a1c570da2d94d897ff3ce6af053a2fa37e5b04",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "lover/endringslov-til-opplæringslova.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endringslov-til-opplæringslova",
       "source_dataset": "gjeldende-lover",
-      "status": "current",
+      "status": "removed",
       "title": "Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning i uken for elever på 1. til 3. trinn)",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "69dfd0591e9eadce45520049a3a1c570da2d94d897ff3ce6af053a2fa37e5b04"
     },
     "nl-20260306-008": {
@@ -12524,34 +12524,34 @@
     },
     "nl-20260619-059": {
       "doc_type": "lov",
-      "embedding_hash": "7e00059c7f9a1cb67b711be3c1ab9816ddba16cba621fb10dfe17bc261ecda2a",
-      "eu_basis": [],
-      "last_changed": "2026-06-20",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "lover/endringslov-til-opplæringslova-og-barnehageloven-mv.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endringslov-til-opplæringslova-og-barnehageloven-mv",
       "source_dataset": "gjeldende-lover",
-      "status": "current",
+      "status": "removed",
       "title": "Lov om endringer i opplæringslova og barnehageloven mv.",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "7e00059c7f9a1cb67b711be3c1ab9816ddba16cba621fb10dfe17bc261ecda2a"
     },
     "nl-20260619-060": {
       "doc_type": "lov",
-      "embedding_hash": "68caeb0d097210130b7e5119cabab7c3d3f5880df3a9571c138b7966b3184643",
-      "eu_basis": [],
-      "last_changed": "2026-06-20",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "lover/endringslov-til-universitets-og-høyskoleloven-mv.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endringslov-til-universitets-og-høyskoleloven-mv",
       "source_dataset": "gjeldende-lover",
-      "status": "current",
+      "status": "removed",
       "title": "Lov om endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "68caeb0d097210130b7e5119cabab7c3d3f5880df3a9571c138b7966b3184643"
     },
     "nl-20260619-062": {
@@ -37409,10 +37409,10 @@
     },
     "sf-20030627-0959": {
       "doc_type": "forskrift",
-      "embedding_hash": "b8d4b0206cc343691e0ba323fbe806ada8489dae451ec944e256028528390051",
+      "embedding_hash": "fff70addf8f99c1ed0184184c1a1fcc17540513680ab8198e5c655927a8d1618",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-dekning-av-laboratorieutgifter-mv.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -37420,8 +37420,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie- og røntgenvirksomheter",
-      "total_changes": 6,
-      "xml_hash": "b8d4b0206cc343691e0ba323fbe806ada8489dae451ec944e256028528390051"
+      "total_changes": 7,
+      "xml_hash": "fff70addf8f99c1ed0184184c1a1fcc17540513680ab8198e5c655927a8d1618"
     },
     "sf-20030630-0911": {
       "doc_type": "forskrift",
@@ -41697,18 +41697,18 @@
     },
     "sf-20051102-1367": {
       "doc_type": "forskrift",
-      "embedding_hash": "5b01e06a39ea9189838db4b38bca4f1f4df08b3d226206b37e6bb672cc807b57",
-      "eu_basis": [],
-      "last_changed": "2026-07-01",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-mf-vitenskapelig-høyskole.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-opptak-studier-og-eksamen-ved-mf-vitenskapelig-høyskole",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om opptak, studier og eksamen ved MF vitenskapelig høyskole",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "5b01e06a39ea9189838db4b38bca4f1f4df08b3d226206b37e6bb672cc807b57"
     },
     "sf-20051107-1264": {
@@ -42017,10 +42017,10 @@
     },
     "sf-20051216-1478": {
       "doc_type": "forskrift",
-      "embedding_hash": "0b2164a30013afba0e33873de4ea104763dcfec34b44808f05a694e41e6bad80",
+      "embedding_hash": "ad78523d8b3777d7a816cc142678605f1a4baec61592066a2a17ed6df399d8e0",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-foreldrebetaling-i-barnehager.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -42028,8 +42028,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om foreldrebetaling i barnehager",
-      "total_changes": 3,
-      "xml_hash": "0b2164a30013afba0e33873de4ea104763dcfec34b44808f05a694e41e6bad80"
+      "total_changes": 4,
+      "xml_hash": "ad78523d8b3777d7a816cc142678605f1a4baec61592066a2a17ed6df399d8e0"
     },
     "sf-20051216-1479": {
       "doc_type": "forskrift",
@@ -42145,10 +42145,10 @@
     },
     "sf-20051216-1555": {
       "doc_type": "forskrift",
-      "embedding_hash": "79f9746decae73c26d0e16ce630b2d361c8658e531a17b22ef3a26b40ac855da",
+      "embedding_hash": "ae00c62a501a9edc796fbc5720c26072d2ceec794c497f2e96d235eb91ede2c0",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-familiebarnehager.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -42156,8 +42156,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om familiebarnehager",
-      "total_changes": null,
-      "xml_hash": "79f9746decae73c26d0e16ce630b2d361c8658e531a17b22ef3a26b40ac855da"
+      "total_changes": 4,
+      "xml_hash": "ae00c62a501a9edc796fbc5720c26072d2ceec794c497f2e96d235eb91ede2c0"
     },
     "sf-20051216-1559": {
       "doc_type": "forskrift",
@@ -42353,10 +42353,10 @@
     },
     "sf-20051220-1629": {
       "doc_type": "forskrift",
-      "embedding_hash": "c8308939e65ed9538099f71de74ec5449f4e85ba4dabe12065b4d70ad79f87bc",
+      "embedding_hash": "32681c843cde68064ad1e284f5c1a510d1e39af7b2b42d60ac4c5b2cfa816525",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-pasientbetaling-ved-rehabilitering.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -42364,8 +42364,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om pasienters betaling for opphold i opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner",
-      "total_changes": 4,
-      "xml_hash": "c8308939e65ed9538099f71de74ec5449f4e85ba4dabe12065b4d70ad79f87bc"
+      "total_changes": 5,
+      "xml_hash": "32681c843cde68064ad1e284f5c1a510d1e39af7b2b42d60ac4c5b2cfa816525"
     },
     "sf-20051220-1798": {
       "doc_type": "forskrift",
@@ -45009,10 +45009,10 @@
     },
     "sf-20070628-0814": {
       "doc_type": "forskrift",
-      "embedding_hash": "173af0ee33868599d771b37155c295c975c36156cbcb13f11ecc67062bbb350e",
+      "embedding_hash": "36a31c9cb1b1f334360ac13e0ddf9d2826faaac4a8abc12e102610de52d176eb",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/blåreseptforskriften.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -45020,8 +45020,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
-      "total_changes": 11,
-      "xml_hash": "173af0ee33868599d771b37155c295c975c36156cbcb13f11ecc67062bbb350e"
+      "total_changes": 12,
+      "xml_hash": "36a31c9cb1b1f334360ac13e0ddf9d2826faaac4a8abc12e102610de52d176eb"
     },
     "sf-20070629-0736": {
       "doc_type": "forskrift",
@@ -51457,10 +51457,10 @@
     },
     "sf-20101221-1790": {
       "doc_type": "forskrift",
-      "embedding_hash": "35bc4419976ca18d9960db00c37673fc1a20d7df4aa9ffa8752bdefeb6c09dda",
+      "embedding_hash": "e2782ecd4d6ec88886f520b7b0b8a6897de91686dee2d804810cca0039cef165",
       "eu_basis": [],
-      "last_changed": "2026-06-30",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/mandat-for-statens-pensjonsfond-norge-spn.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -51468,8 +51468,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Mandat for forvaltningen av Statens pensjonsfond Norge",
-      "total_changes": 1,
-      "xml_hash": "35bc4419976ca18d9960db00c37673fc1a20d7df4aa9ffa8752bdefeb6c09dda"
+      "total_changes": 2,
+      "xml_hash": "e2782ecd4d6ec88886f520b7b0b8a6897de91686dee2d804810cca0039cef165"
     },
     "sf-20110105-0841": {
       "doc_type": "forskrift",
@@ -60257,10 +60257,10 @@
     },
     "sf-20150611-0924": {
       "doc_type": "forskrift",
-      "embedding_hash": "89e92e13ae47652514c339c2a6b81bfaf40e9e1287956a2958ac3fe4aa0cedaf",
+      "embedding_hash": "061f67f1ecf5062fe6a43e4070eebf326937f809baff0363ad434374e94a8e7b",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-graden-ph-d-ved-bi.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -60268,8 +60268,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI",
-      "total_changes": 3,
-      "xml_hash": "89e92e13ae47652514c339c2a6b81bfaf40e9e1287956a2958ac3fe4aa0cedaf"
+      "total_changes": 4,
+      "xml_hash": "061f67f1ecf5062fe6a43e4070eebf326937f809baff0363ad434374e94a8e7b"
     },
     "sf-20150612-0646": {
       "doc_type": "forskrift",
@@ -60657,10 +60657,10 @@
     },
     "sf-20150625-0793": {
       "doc_type": "forskrift",
-      "embedding_hash": "529a417cdbac57c28ad09e53e7a86804b142d9744eb812ab41f23af2f74ba509",
+      "embedding_hash": "f7fdba660704d9bb8ddd343cdebedc6a3c3202a17d3ab7be64fc75ebc07db247",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/pasientreiseforskriften.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -60668,8 +60668,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)",
-      "total_changes": 5,
-      "xml_hash": "529a417cdbac57c28ad09e53e7a86804b142d9744eb812ab41f23af2f74ba509"
+      "total_changes": 6,
+      "xml_hash": "f7fdba660704d9bb8ddd343cdebedc6a3c3202a17d3ab7be64fc75ebc07db247"
     },
     "sf-20150626-0795": {
       "doc_type": "forskrift",
@@ -61249,10 +61249,10 @@
     },
     "sf-20151009-1166": {
       "doc_type": "forskrift",
-      "embedding_hash": "f9e398d81e54f746081d6f5bd86e3ac37bc09fae27cbe8352320d511c91c197e",
+      "embedding_hash": "fad3703db442d0b75d38b9bd2d6353d0df61d8f40eb475469ed27b89c762c664",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-tildeling-av-tilskudd-til-private-barnehager.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -61260,8 +61260,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tildeling av tilskudd til private barnehager",
-      "total_changes": 4,
-      "xml_hash": "f9e398d81e54f746081d6f5bd86e3ac37bc09fae27cbe8352320d511c91c197e"
+      "total_changes": 5,
+      "xml_hash": "fad3703db442d0b75d38b9bd2d6353d0df61d8f40eb475469ed27b89c762c664"
     },
     "sf-20151009-1192": {
       "doc_type": "forskrift",
@@ -61857,18 +61857,18 @@
     },
     "sf-20151215-1681": {
       "doc_type": "forskrift",
-      "embedding_hash": "080ed1e90809e09a7454e00e0fa4166f92b3254aa44e4658fee2b53dd9259014",
-      "eu_basis": [],
-      "last_changed": "2026-07-03",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-til-studier-ved-oslomet.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-opptak-til-studier-ved-oslomet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om opptak til studier ved OsloMet – storbyuniversitetet",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "080ed1e90809e09a7454e00e0fa4166f92b3254aa44e4658fee2b53dd9259014"
     },
     "sf-20151215-1729": {
@@ -64001,18 +64001,18 @@
     },
     "sf-20161207-1957": {
       "doc_type": "forskrift",
-      "embedding_hash": "25b82882db785988735330a0fd7fa8588c50578fe8a4e895bc488d72fcfe5333",
-      "eu_basis": [],
-      "last_changed": "2026-07-07",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-studier-og-eksamen-ved-politihøgskolen.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-studier-og-eksamen-ved-politihøgskolen",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om studier og eksamen ved Politihøgskolen",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "25b82882db785988735330a0fd7fa8588c50578fe8a4e895bc488d72fcfe5333"
     },
     "sf-20161208-1482": {
@@ -64321,10 +64321,10 @@
     },
     "sf-20161220-1848": {
       "doc_type": "forskrift",
-      "embedding_hash": "6d4ff89099c5c68fdd5976b675a7ea211f416c5620f5901fa5d114e6facfe1ac",
+      "embedding_hash": "b8096a7176bcdfc9a29de80a0c495047e5ea0eed54bb229bf37528499c23fe47",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -64332,8 +64332,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta",
-      "total_changes": 4,
-      "xml_hash": "6d4ff89099c5c68fdd5976b675a7ea211f416c5620f5901fa5d114e6facfe1ac"
+      "total_changes": 5,
+      "xml_hash": "b8096a7176bcdfc9a29de80a0c495047e5ea0eed54bb229bf37528499c23fe47"
     },
     "sf-20161222-1842": {
       "doc_type": "forskrift",
@@ -65841,18 +65841,18 @@
     },
     "sf-20170801-1230": {
       "doc_type": "forskrift",
-      "embedding_hash": "6c7b4f194513f66583ecc028d5fc7d5e3318fb0d9e1444f16cf772451da2ec9a",
-      "eu_basis": [],
-      "last_changed": "2026-06-23",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-fagskoleutdanning-ved-nki.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-fagskoleutdanning-ved-nki",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om fagskoleutdanning ved NKI",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "6c7b4f194513f66583ecc028d5fc7d5e3318fb0d9e1444f16cf772451da2ec9a"
     },
     "sf-20170809-1240": {
@@ -66033,18 +66033,18 @@
     },
     "sf-20170901-1332": {
       "doc_type": "forskrift",
-      "embedding_hash": "6271b995e0bdd983950f962960c6a6b0702e060f32047071dd048013db7cb0af",
-      "eu_basis": [],
-      "last_changed": "2026-05-27",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-overordna-mål-og-prinsipp-i-skolen.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-overordna-mål-og-prinsipp-i-skolen",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "6271b995e0bdd983950f962960c6a6b0702e060f32047071dd048013db7cb0af"
     },
     "sf-20170901-1334": {
@@ -70161,10 +70161,10 @@
     },
     "sf-20190711-1005": {
       "doc_type": "forskrift",
-      "embedding_hash": "040da4f93fc57b66b6b370607f4770445d7da6c84b40a7f0632c908840e2f258",
+      "embedding_hash": "b0ef425cc8fec85b98feed6e432eb2eb7114473b524aa1bdfbea92f5d37130d4",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/fagskoleforskriften.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -70172,8 +70172,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)",
-      "total_changes": 3,
-      "xml_hash": "040da4f93fc57b66b6b370607f4770445d7da6c84b40a7f0632c908840e2f258"
+      "total_changes": 4,
+      "xml_hash": "b0ef425cc8fec85b98feed6e432eb2eb7114473b524aa1bdfbea92f5d37130d4"
     },
     "sf-20190712-1008": {
       "doc_type": "forskrift",
@@ -70689,18 +70689,18 @@
     },
     "sf-20191118-2264": {
       "doc_type": "forskrift",
-      "embedding_hash": "748a77bcd665f8528b5e4abd83c190a62c6fc990e6202537d951afb031e5415f",
-      "eu_basis": [],
-      "last_changed": "2026-06-23",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-høyere-yrkesfaglig-utdanning-ved-nki-fagskoler-as.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-høyere-yrkesfaglig-utdanning-ved-nki-fagskoler-as",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om høyere yrkesfaglig utdanning ved NKI Fagskoler AS",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "748a77bcd665f8528b5e4abd83c190a62c6fc990e6202537d951afb031e5415f"
     },
     "sf-20191119-2206": {
@@ -73585,19 +73585,19 @@
     },
     "sf-20201020-2103": {
       "doc_type": "forskrift",
-      "embedding_hash": "258598283c508c8f15c04d828e930cd1e606d844b21899e68d5de6ce6bc9fd63",
+      "embedding_hash": "16dcd47b3efc9be367fa06076dacb78a8e82e2e25ce23cf7d9bb8dbc93425d04",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
-      "markdown_path": "forskrifter/forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal.md",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "markdown_path": "forskrifter/forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-i-møre-og-romsdal.md",
       "removed_reason": null,
       "renderer_version": 6,
-      "slug": "forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal",
+      "slug": "forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-i-møre-og-romsdal",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
-      "title": "Forskrift om opptak, eksamen og sensur for Fagskolen Møre og Romsdal",
-      "total_changes": 4,
-      "xml_hash": "258598283c508c8f15c04d828e930cd1e606d844b21899e68d5de6ce6bc9fd63"
+      "title": "Forskrift om høyere yrkesfaglig utdanning ved Fagskolen i Møre og Romsdal",
+      "total_changes": 5,
+      "xml_hash": "16dcd47b3efc9be367fa06076dacb78a8e82e2e25ce23cf7d9bb8dbc93425d04"
     },
     "sf-20201021-2137": {
       "doc_type": "forskrift",
@@ -75281,10 +75281,10 @@
     },
     "sf-20210315-0797": {
       "doc_type": "forskrift",
-      "embedding_hash": "783c49e720dc8c23dc10b4ae5c888c46f316e2c395035ab6005ccf76ba490b7a",
+      "embedding_hash": "337c1daa436c17dbb805d5bfbd192838eedf71672557d1c6b6895ab4cad2f936",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -75292,15 +75292,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fiske etter anadrome laksefisk i sjøen",
-      "total_changes": 3,
-      "xml_hash": "783c49e720dc8c23dc10b4ae5c888c46f316e2c395035ab6005ccf76ba490b7a"
+      "total_changes": 4,
+      "xml_hash": "337c1daa436c17dbb805d5bfbd192838eedf71672557d1c6b6895ab4cad2f936"
     },
     "sf-20210315-0798": {
       "doc_type": "forskrift",
-      "embedding_hash": "d06e845d9a6dfaefde8229def1e3b0c12d1c59e920ed88dfee959ba9111f1ef2",
+      "embedding_hash": "6e0b96a2435abd474a582da79d122e29ed7abfb27a7617a8753ad47557936d19",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -75308,8 +75308,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fiske etter anadrome laksefisk i vassdrag",
-      "total_changes": 3,
-      "xml_hash": "d06e845d9a6dfaefde8229def1e3b0c12d1c59e920ed88dfee959ba9111f1ef2"
+      "total_changes": 4,
+      "xml_hash": "6e0b96a2435abd474a582da79d122e29ed7abfb27a7617a8753ad47557936d19"
     },
     "sf-20210315-0799": {
       "doc_type": "forskrift",
@@ -76289,10 +76289,10 @@
     },
     "sf-20210614-1978": {
       "doc_type": "forskrift",
-      "embedding_hash": "125e958f8b43689b4cbb8a9fd5d6c2a3d09921dc4095f60eb167a028c134fc46",
+      "embedding_hash": "333400b6a40a11d75ec7c2627f65793080e03a8ce81f10dc10930ca57e41acd4",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -76300,8 +76300,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Fagskolen Viken",
-      "total_changes": 4,
-      "xml_hash": "125e958f8b43689b4cbb8a9fd5d6c2a3d09921dc4095f60eb167a028c134fc46"
+      "total_changes": 5,
+      "xml_hash": "333400b6a40a11d75ec7c2627f65793080e03a8ce81f10dc10930ca57e41acd4"
     },
     "sf-20210616-2130": {
       "doc_type": "forskrift",
@@ -77809,18 +77809,18 @@
     },
     "sf-20211124-3371": {
       "doc_type": "forskrift",
-      "embedding_hash": "5bf9e756dcde62172d9636d383e31c98d9df4797f0c8395111e4aa0db84ca540",
-      "eu_basis": [],
-      "last_changed": "2026-06-23",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-fagskoleutdanning-ved-medlearn-as.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-fagskoleutdanning-ved-medlearn-as",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om fagskoleutdanning ved Medlearn AS",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "5bf9e756dcde62172d9636d383e31c98d9df4797f0c8395111e4aa0db84ca540"
     },
     "sf-20211126-3291": {
@@ -78065,19 +78065,19 @@
     },
     "sf-20211216-3738": {
       "doc_type": "forskrift",
-      "embedding_hash": "9301d424baf888bf5e50d418cb9fac245ff395d7d39e5dce44b4fff7965846eb",
+      "embedding_hash": "1697301f6c2b03273609b98f468582a31df86abe2070724a57f54e3ea2efad63",
       "eu_basis": [],
-      "last_changed": "2026-07-15",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
-      "markdown_path": "forskrifter/forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet.md",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "markdown_path": "forskrifter/forskrift-om-tilskudd-til-frivillig-aktivitet-og-historieformidling-på-forsvars-og-sikkerhetsområdet.md",
       "removed_reason": null,
       "renderer_version": 6,
-      "slug": "forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet",
+      "slug": "forskrift-om-tilskudd-til-frivillig-aktivitet-og-historieformidling-på-forsvars-og-sikkerhetsområdet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
-      "title": "Forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet",
-      "total_changes": 4,
-      "xml_hash": "9301d424baf888bf5e50d418cb9fac245ff395d7d39e5dce44b4fff7965846eb"
+      "title": "Forskrift om tilskudd til frivillig aktivitet og historieformidling på forsvars- og sikkerhetsområdet",
+      "total_changes": 5,
+      "xml_hash": "1697301f6c2b03273609b98f468582a31df86abe2070724a57f54e3ea2efad63"
     },
     "sf-20211216-3961": {
       "doc_type": "forskrift",
@@ -79073,10 +79073,10 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "7fcfcfe71cfe97a84f0538b4694bae3daf5b6ebafb6b10447e175330d4ac4379",
+      "embedding_hash": "59ce40e5f825ed7021e56059f1e790fb2f2298250b31c4558af0a501f5e1de23",
       "eu_basis": [],
-      "last_changed": "2026-07-11",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -79084,8 +79084,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 15,
-      "xml_hash": "7fcfcfe71cfe97a84f0538b4694bae3daf5b6ebafb6b10447e175330d4ac4379"
+      "total_changes": 16,
+      "xml_hash": "59ce40e5f825ed7021e56059f1e790fb2f2298250b31c4558af0a501f5e1de23"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -81937,10 +81937,10 @@
     },
     "sf-20230309-0322": {
       "doc_type": "forskrift",
-      "embedding_hash": "ca91662f05ba002ca43491e44dbec0ac5cef6cd799304536488e593a68086ad0",
+      "embedding_hash": "64dfcab12e5247589da0e33fc8f1b4e38b908a7188f689fbbb2d6c89df89445e",
       "eu_basis": [],
-      "last_changed": "2026-07-07",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-studier-ved-nmbu.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -81948,8 +81948,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studier ved Norges miljø- og biovitenskapelige universitet",
-      "total_changes": 4,
-      "xml_hash": "ca91662f05ba002ca43491e44dbec0ac5cef6cd799304536488e593a68086ad0"
+      "total_changes": 5,
+      "xml_hash": "64dfcab12e5247589da0e33fc8f1b4e38b908a7188f689fbbb2d6c89df89445e"
     },
     "sf-20230313-0327": {
       "doc_type": "forskrift",
@@ -82161,18 +82161,18 @@
     },
     "sf-20230615-1310": {
       "doc_type": "forskrift",
-      "embedding_hash": "049f4346a4a93af4868996fa231cc8865792dbfaf26dcf02a5e5c6ab169bbd8b",
-      "eu_basis": [],
-      "last_changed": "2026-07-03",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om studier og eksamen ved OsloMet – storbyuniversitetet (OsloMet)",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "049f4346a4a93af4868996fa231cc8865792dbfaf26dcf02a5e5c6ab169bbd8b"
     },
     "sf-20230615-1359": {
@@ -82273,18 +82273,18 @@
     },
     "sf-20230620-1072": {
       "doc_type": "forskrift",
-      "embedding_hash": "89c881442ed3a2bb8db675f3253c6c09e28410159ae9bf300c19f1ea6949774e",
-      "eu_basis": [],
-      "last_changed": "2026-06-23",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om opptak, studier og eksamen ved Fagskolen Kristiania",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "89c881442ed3a2bb8db675f3253c6c09e28410159ae9bf300c19f1ea6949774e"
     },
     "sf-20230620-1073": {
@@ -82817,10 +82817,10 @@
     },
     "sf-20231024-1694": {
       "doc_type": "forskrift",
-      "embedding_hash": "44912d7d9041cb5892ef519e679a8594b2e2399ef443b728f61dbc4c53dc5c10",
+      "embedding_hash": "bc44a8f55f4852a15ad83075cb69b2f91a11574a38075378a05749c835a257e3",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/veglister-normaltransport.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -82828,15 +82828,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om normaltransport på riks-, fylkes- og kommunale veger (veglister normaltransport)",
-      "total_changes": 6,
-      "xml_hash": "44912d7d9041cb5892ef519e679a8594b2e2399ef443b728f61dbc4c53dc5c10"
+      "total_changes": 7,
+      "xml_hash": "bc44a8f55f4852a15ad83075cb69b2f91a11574a38075378a05749c835a257e3"
     },
     "sf-20231024-1695": {
       "doc_type": "forskrift",
-      "embedding_hash": "54f0bcc8c452ed549725316e5bc425f5c7b5600f96ad35ecdf4f2d7c272f376c",
+      "embedding_hash": "77f5a67fe1ae371eb5d0cfc6cae7e57147af64a0e886c3ce24a5a61ce4d5a4af",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/veglister-tømmertransport.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -82844,15 +82844,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tømmertransport på riks-, fylkes- og kommunale veger (veglister tømmertransport)",
-      "total_changes": 6,
-      "xml_hash": "54f0bcc8c452ed549725316e5bc425f5c7b5600f96ad35ecdf4f2d7c272f376c"
+      "total_changes": 7,
+      "xml_hash": "77f5a67fe1ae371eb5d0cfc6cae7e57147af64a0e886c3ce24a5a61ce4d5a4af"
     },
     "sf-20231024-1696": {
       "doc_type": "forskrift",
-      "embedding_hash": "a704298db0c3c6e7937997e2673c4508b76339fde73311c8e95ed2c4ebe625c6",
+      "embedding_hash": "7e1bf3aec98a378bd628cf982b1c3aa93358776a99a48a0633a4404f061d5414",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/veglister-modulvogntog.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -82860,15 +82860,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om modulvogntog på riks-, fylkes- og kommunale veger (veglister modulvogntog)",
-      "total_changes": 6,
-      "xml_hash": "a704298db0c3c6e7937997e2673c4508b76339fde73311c8e95ed2c4ebe625c6"
+      "total_changes": 7,
+      "xml_hash": "7e1bf3aec98a378bd628cf982b1c3aa93358776a99a48a0633a4404f061d5414"
     },
     "sf-20231024-1697": {
       "doc_type": "forskrift",
-      "embedding_hash": "ef7e7a8941cce30e5784c828b6a0a735d476742786fd00a1497641dfc5299296",
+      "embedding_hash": "139d9edec9da96b2fd78429066281dd8ca2b904695fde3946c75eca0a19f0587",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/veglister-spesialtransport.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -82876,15 +82876,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om spesialtransport på riks-, fylkes- og kommunale veger (veglister spesialtransport)",
-      "total_changes": 6,
-      "xml_hash": "ef7e7a8941cce30e5784c828b6a0a735d476742786fd00a1497641dfc5299296"
+      "total_changes": 7,
+      "xml_hash": "139d9edec9da96b2fd78429066281dd8ca2b904695fde3946c75eca0a19f0587"
     },
     "sf-20231024-1698": {
       "doc_type": "forskrift",
-      "embedding_hash": "47e9300d21bae9fa595b33dbab0bd3743648161d3758e069dd16e4e3b32e1f08",
+      "embedding_hash": "0bb5dceab459b9695e320814a92e231ca23a5a954f4c82112b3f870ec545c804",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/veglister-12-100-spesialtransport.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -82892,15 +82892,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om 12/100 for spesialtransport på riks-, fylkes- og kommunale veger (veglister 12/100 spesialtransport)",
-      "total_changes": 6,
-      "xml_hash": "47e9300d21bae9fa595b33dbab0bd3743648161d3758e069dd16e4e3b32e1f08"
+      "total_changes": 7,
+      "xml_hash": "0bb5dceab459b9695e320814a92e231ca23a5a954f4c82112b3f870ec545c804"
     },
     "sf-20231024-1699": {
       "doc_type": "forskrift",
-      "embedding_hash": "03f5f2cdede7d37734f63ea52ba453560e9ae3b88ca6102eb52d11de29ac1244",
+      "embedding_hash": "cb934c50042a732901627e4cc814bf9d21c7ac8ba06966bf3a1fa4d773b0c948",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/veglister-12-65-mobilkran-m-m.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -82908,8 +82908,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om 12/65 for mobilkran, betongpumpebil og liftbil på riks-, fylkes- og kommunale veger (veglister 12/65 mobilkran m.m.)",
-      "total_changes": 6,
-      "xml_hash": "03f5f2cdede7d37734f63ea52ba453560e9ae3b88ca6102eb52d11de29ac1244"
+      "total_changes": 7,
+      "xml_hash": "cb934c50042a732901627e4cc814bf9d21c7ac8ba06966bf3a1fa4d773b0c948"
     },
     "sf-20231026-1703": {
       "doc_type": "forskrift",
@@ -84577,10 +84577,10 @@
     },
     "sf-20240603-0900": {
       "doc_type": "forskrift",
-      "embedding_hash": "263249a1313ea60476ea923581b86cdd3aad9f06807122f2139abb4597965419",
+      "embedding_hash": "9dcf7bd291dde95e2cc2a81f558f43c88aa10de59405c92d1b4844a3632eee05",
       "eu_basis": [],
-      "last_changed": "2026-06-25",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/opplæringsforskrifta.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -84588,15 +84588,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta)",
-      "total_changes": 5,
-      "xml_hash": "263249a1313ea60476ea923581b86cdd3aad9f06807122f2139abb4597965419"
+      "total_changes": 6,
+      "xml_hash": "9dcf7bd291dde95e2cc2a81f558f43c88aa10de59405c92d1b4844a3632eee05"
     },
     "sf-20240603-0901": {
       "doc_type": "forskrift",
-      "embedding_hash": "9c2f398a2f8717133d224cc76f811d2d083dd9d7a17d9ba90412f9032f5ac62b",
+      "embedding_hash": "85d8cfbf2d02ab7ad3192c469345dfed2874351969868fe6fff38b27278d6f32",
       "eu_basis": [],
-      "last_changed": "2026-06-25",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/privatskoleforskrifta.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -84604,8 +84604,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til privatskolelova (privatskoleforskrifta)",
-      "total_changes": 6,
-      "xml_hash": "9c2f398a2f8717133d224cc76f811d2d083dd9d7a17d9ba90412f9032f5ac62b"
+      "total_changes": 7,
+      "xml_hash": "85d8cfbf2d02ab7ad3192c469345dfed2874351969868fe6fff38b27278d6f32"
     },
     "sf-20240603-0936": {
       "doc_type": "forskrift",
@@ -84801,10 +84801,10 @@
     },
     "sf-20240617-1184": {
       "doc_type": "forskrift",
-      "embedding_hash": "3bb29c2760f8d7b13b6512f504537d0b2d2f3bcceb20af07b97b093c2f950f5d",
+      "embedding_hash": "db84d2cf713d737cf5902ad6b87f688d06752d1529b009ceb3e3cf3a9dfda30e",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -84812,15 +84812,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til fysioterapi m.m.",
-      "total_changes": 6,
-      "xml_hash": "3bb29c2760f8d7b13b6512f504537d0b2d2f3bcceb20af07b97b093c2f950f5d"
+      "total_changes": 7,
+      "xml_hash": "db84d2cf713d737cf5902ad6b87f688d06752d1529b009ceb3e3cf3a9dfda30e"
     },
     "sf-20240618-1057": {
       "doc_type": "forskrift",
-      "embedding_hash": "f60d7bc253fa625770a76a46d4b95afcf25f27d5f4d4cfa9afb308b203b45001",
+      "embedding_hash": "ecd4fae5ea5958579c1ca0e93e2edf4fc50c2de50c32445ed6a1603c634a5578",
       "eu_basis": [],
-      "last_changed": "2026-06-19",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -84828,15 +84828,15 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studiene ved etter- og videreutdanningen ved Norges Handelshøyskole – NHH Executive (NHHE)",
-      "total_changes": 4,
-      "xml_hash": "f60d7bc253fa625770a76a46d4b95afcf25f27d5f4d4cfa9afb308b203b45001"
+      "total_changes": 5,
+      "xml_hash": "ecd4fae5ea5958579c1ca0e93e2edf4fc50c2de50c32445ed6a1603c634a5578"
     },
     "sf-20240618-1108": {
       "doc_type": "forskrift",
-      "embedding_hash": "61fc5491aa0d41088f2c939ef686e58446373deb0ad2237055a238cf65176bf2",
+      "embedding_hash": "39f5dfb8813850f655430cd3326c29c45683b0052fca09626dee4d9bc0ae9561",
       "eu_basis": [],
-      "last_changed": "2026-06-19",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -84844,8 +84844,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fulltidsstudiene ved Norges Handelshøyskole, NHH",
-      "total_changes": 4,
-      "xml_hash": "61fc5491aa0d41088f2c939ef686e58446373deb0ad2237055a238cf65176bf2"
+      "total_changes": 5,
+      "xml_hash": "39f5dfb8813850f655430cd3326c29c45683b0052fca09626dee4d9bc0ae9561"
     },
     "sf-20240619-1059": {
       "doc_type": "forskrift",
@@ -84865,10 +84865,10 @@
     },
     "sf-20240619-1221": {
       "doc_type": "forskrift",
-      "embedding_hash": "8d1fdb6484860508a26f028b1fbb469b0e9eb2292ccec9c55818dd8047aefa09",
+      "embedding_hash": "fda47208aacdc5d71e7777c3ec8dbe5ccb6fe0c6423d94c67236e7c62f68fbc5",
       "eu_basis": [],
-      "last_changed": "2026-07-09",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -84876,8 +84876,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Universitetet i Innlandet",
-      "total_changes": 4,
-      "xml_hash": "8d1fdb6484860508a26f028b1fbb469b0e9eb2292ccec9c55818dd8047aefa09"
+      "total_changes": 5,
+      "xml_hash": "fda47208aacdc5d71e7777c3ec8dbe5ccb6fe0c6423d94c67236e7c62f68fbc5"
     },
     "sf-20240619-1376": {
       "doc_type": "forskrift",
@@ -85121,10 +85121,10 @@
     },
     "sf-20240626-1322": {
       "doc_type": "forskrift",
-      "embedding_hash": "ff473f31b7366b5aed40fa7f187c5d39db006e9335202024e9fcfeeffdaf7a32",
+      "embedding_hash": "cd349162c712fc98cfa96f742082b55a9361481710069f4fb8350a6312b1dd33",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -85132,8 +85132,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege",
-      "total_changes": 5,
-      "xml_hash": "ff473f31b7366b5aed40fa7f187c5d39db006e9335202024e9fcfeeffdaf7a32"
+      "total_changes": 6,
+      "xml_hash": "cd349162c712fc98cfa96f742082b55a9361481710069f4fb8350a6312b1dd33"
     },
     "sf-20240626-1360": {
       "doc_type": "forskrift",
@@ -85217,10 +85217,10 @@
     },
     "sf-20240628-1392": {
       "doc_type": "forskrift",
-      "embedding_hash": "5cac84b728c2536b7bc6f9fdaa6f1c7e61c1071a0ea749741e366aada3b5d973",
+      "embedding_hash": "b78c990d38251597fde2e01b636922b51a4a8667250a4d32f65955a30ef27846",
       "eu_basis": [],
-      "last_changed": "2026-06-26",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/universitets-og-høyskoleforskriften.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -85228,8 +85228,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften)",
-      "total_changes": 4,
-      "xml_hash": "5cac84b728c2536b7bc6f9fdaa6f1c7e61c1071a0ea749741e366aada3b5d973"
+      "total_changes": 5,
+      "xml_hash": "b78c990d38251597fde2e01b636922b51a4a8667250a4d32f65955a30ef27846"
     },
     "sf-20240702-1800": {
       "doc_type": "forskrift",
@@ -88129,18 +88129,18 @@
     },
     "sf-20250612-1016": {
       "doc_type": "forskrift",
-      "embedding_hash": "c9cd638a6980a11e795175ced5f9349d7a331fe7e0aeacff43a38e628a44e67b",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endr-i-fagskoleforskriften.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endr-i-fagskoleforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om høyere yrkesfaglig utdanning",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "c9cd638a6980a11e795175ced5f9349d7a331fe7e0aeacff43a38e628a44e67b"
     },
     "sf-20250612-1053": {
@@ -88401,34 +88401,34 @@
     },
     "sf-20250620-1157": {
       "doc_type": "forskrift",
-      "embedding_hash": "247efdb62013673d5f6d884bf05ceb4f9f6a895f1a432db3b11a4bc971376d30",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole og reindriftsskole, Kautokeino",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "247efdb62013673d5f6d884bf05ceb4f9f6a895f1a432db3b11a4bc971376d30"
     },
     "sf-20250620-1158": {
       "doc_type": "forskrift",
-      "embedding_hash": "ac5d489d598f02c564dabe4c4ea4ac95dc664a87d7c0e1fd4832426ec7caf0b6",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole, Karasjok",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "ac5d489d598f02c564dabe4c4ea4ac95dc664a87d7c0e1fd4832426ec7caf0b6"
     },
     "sf-20250620-1182": {
@@ -88513,10 +88513,10 @@
     },
     "sf-20250622-1188": {
       "doc_type": "forskrift",
-      "embedding_hash": "92a08395daeabe027e9a35e2864193c07eaf81da0dd888eb02ba059d5c3ca6a1",
+      "embedding_hash": "cd23214d6ededf548b6a0378cabc4fd809befa61381264283eacc0e1ce39e1a5",
       "eu_basis": [],
-      "last_changed": "2026-07-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -88524,8 +88524,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forsøksordning med nettlege i allmennlegetjenesten (kommunal nettlege)",
-      "total_changes": 5,
-      "xml_hash": "92a08395daeabe027e9a35e2864193c07eaf81da0dd888eb02ba059d5c3ca6a1"
+      "total_changes": 6,
+      "xml_hash": "cd23214d6ededf548b6a0378cabc4fd809befa61381264283eacc0e1ce39e1a5"
     },
     "sf-20250624-1197": {
       "doc_type": "forskrift",
@@ -88833,10 +88833,10 @@
     },
     "sf-20250702-1462": {
       "doc_type": "forskrift",
-      "embedding_hash": "386081e3102eecb9c8ebcac36e8238388158050e9c29394ae6b74e7d614b6afa",
+      "embedding_hash": "c88104e0554a26272836c941826ca268619eeede83f7bda05efccbf9c28e97f9",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-enkelte-klagenemnder-på-kunnskapsdepartementets-område.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -88844,23 +88844,23 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om enkelte klagenemnder på Kunnskapsdepartementets område",
-      "total_changes": 4,
-      "xml_hash": "386081e3102eecb9c8ebcac36e8238388158050e9c29394ae6b74e7d614b6afa"
+      "total_changes": 5,
+      "xml_hash": "c88104e0554a26272836c941826ca268619eeede83f7bda05efccbf9c28e97f9"
     },
     "sf-20250703-1481": {
       "doc_type": "forskrift",
-      "embedding_hash": "17df3e5c0e0711df605649355d6c381f92bf43b9cdc10aa0b904f60000f69cb3",
-      "eu_basis": [],
-      "last_changed": "2026-06-16",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om opptak, studium og eksamen ved Høgskulen i Volda",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "17df3e5c0e0711df605649355d6c381f92bf43b9cdc10aa0b904f60000f69cb3"
     },
     "sf-20250704-1442": {
@@ -89121,10 +89121,10 @@
     },
     "sf-20250704-1465": {
       "doc_type": "forskrift",
-      "embedding_hash": "9d840a208febc28c5c2d9ec1755e160e70aec44d221a04a294c14de06bec202c",
+      "embedding_hash": "ee45cbaf1c78152e1017c3a7c09f5e40ca9970a1afeace07d184f29dd3dab5b9",
       "eu_basis": [],
-      "last_changed": "2026-06-25",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-sosionomutdanning.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -89132,8 +89132,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for sosionomutdanning",
-      "total_changes": 4,
-      "xml_hash": "9d840a208febc28c5c2d9ec1755e160e70aec44d221a04a294c14de06bec202c"
+      "total_changes": 5,
+      "xml_hash": "ee45cbaf1c78152e1017c3a7c09f5e40ca9970a1afeace07d184f29dd3dab5b9"
     },
     "sf-20250704-1466": {
       "doc_type": "forskrift",
@@ -89313,10 +89313,10 @@
     },
     "sf-20250704-1477": {
       "doc_type": "forskrift",
-      "embedding_hash": "e8924f3ec4b92d61e11c716b4df4cb9af192e652389e68754a87e720eddce58e",
+      "embedding_hash": "add147baa81ea300cf1c859bee64c0ef21caeca09ef5a49a616f0ea84dcc2eca",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -89324,8 +89324,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for sykepleierutdanning",
-      "total_changes": 3,
-      "xml_hash": "e8924f3ec4b92d61e11c716b4df4cb9af192e652389e68754a87e720eddce58e"
+      "total_changes": 4,
+      "xml_hash": "add147baa81ea300cf1c859bee64c0ef21caeca09ef5a49a616f0ea84dcc2eca"
     },
     "sf-20250704-1478": {
       "doc_type": "forskrift",
@@ -90849,18 +90849,18 @@
     },
     "sf-20251209-3091": {
       "doc_type": "forskrift",
-      "embedding_hash": "7f9f1806473dd5b2c92f3f3618f8dce6078999100e9a48643f0c69b2f5b95452",
-      "eu_basis": [],
-      "last_changed": "2026-06-25",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om opptak, studier og eksamen ved Fagskolen Viken",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "7f9f1806473dd5b2c92f3f3618f8dce6078999100e9a48643f0c69b2f5b95452"
     },
     "sf-20251210-2490": {
@@ -91857,18 +91857,18 @@
     },
     "sf-20251218-2985": {
       "doc_type": "forskrift",
-      "embedding_hash": "b772acb4e36ddea077ae7dda6ea630a45342f47c426dafda7ca753cc2c5497ed",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "b772acb4e36ddea077ae7dda6ea630a45342f47c426dafda7ca753cc2c5497ed"
     },
     "sf-20251219-2729": {
@@ -92705,18 +92705,18 @@
     },
     "sf-20260123-0081": {
       "doc_type": "forskrift",
-      "embedding_hash": "62edb8773076ce1457295a80ed4ef811df6e0cd817a88e0582bd66a63fcb70fc",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "62edb8773076ce1457295a80ed4ef811df6e0cd817a88e0582bd66a63fcb70fc"
     },
     "sf-20260123-0083": {
@@ -92769,18 +92769,18 @@
     },
     "sf-20260128-0107": {
       "doc_type": "forskrift",
-      "embedding_hash": "be68dc9f7a771c8245e23aab16becfc0a58dcefb71f38e99b50b46224d5dc214",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endr-i-opplæringsforskrifta.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endr-i-opplæringsforskrifta",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "be68dc9f7a771c8245e23aab16becfc0a58dcefb71f38e99b50b46224d5dc214"
     },
     "sf-20260128-0125": {
@@ -93009,18 +93009,18 @@
     },
     "sf-20260218-0235": {
       "doc_type": "forskrift",
-      "embedding_hash": "456021affd74c1054ddf8b8103153b039c466fdbc8a3bc53c98a7976ebe568e8",
-      "eu_basis": [],
-      "last_changed": "2026-05-04",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endr-i-opplæringsforskrifta-og-privatskoleforskrifta.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endr-i-opplæringsforskrifta-og-privatskoleforskrifta",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) og forskrift til privatskolelova (privatskoleforskrifta)",
-      "total_changes": 4,
+      "total_changes": null,
       "xml_hash": "456021affd74c1054ddf8b8103153b039c466fdbc8a3bc53c98a7976ebe568e8"
     },
     "sf-20260223-0262": {
@@ -93041,18 +93041,18 @@
     },
     "sf-20260223-0264": {
       "doc_type": "forskrift",
-      "embedding_hash": "5b0ead23c5bf9145ca3246a60f7a494ccd6be6a04a4f91315329d0cc2d1626ca",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "5b0ead23c5bf9145ca3246a60f7a494ccd6be6a04a4f91315329d0cc2d1626ca"
     },
     "sf-20260226-0296": {
@@ -93313,18 +93313,18 @@
     },
     "sf-20260320-0443": {
       "doc_type": "forskrift",
-      "embedding_hash": "64b8e13f36c043a7c3ecfb0c73a658e92f7b48112918d0a20ad54edcb9d7a4f7",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endr-i-opplæringsforskrifta-2.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endr-i-opplæringsforskrifta-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "64b8e13f36c043a7c3ecfb0c73a658e92f7b48112918d0a20ad54edcb9d7a4f7"
     },
     "sf-20260320-0449": {
@@ -94001,18 +94001,18 @@
     },
     "sf-20260604-1436": {
       "doc_type": "forskrift",
-      "embedding_hash": "d5d914f9b7a008e60fde74b42b546d7bf6e30a069330878c962b359edb96a725",
-      "eu_basis": [],
-      "last_changed": "2026-07-03",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om opptak, eksamen og sensur for Fagskolen Møre og Romsdal",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "d5d914f9b7a008e60fde74b42b546d7bf6e30a069330878c962b359edb96a725"
     },
     "sf-20260605-1024": {
@@ -94129,18 +94129,18 @@
     },
     "sf-20260610-1495": {
       "doc_type": "forskrift",
-      "embedding_hash": "9943fe8f1f794f31dc4f8e9e7e948cfff1f8beff404b941b74154ca934abb62c",
-      "eu_basis": [],
-      "last_changed": "2026-07-07",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om studier ved Norges miljø- og biovitenskapelige universitet (NMBU)",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "9943fe8f1f794f31dc4f8e9e7e948cfff1f8beff404b941b74154ca934abb62c"
     },
     "sf-20260612-1055": {
@@ -94209,34 +94209,34 @@
     },
     "sf-20260616-1096": {
       "doc_type": "forskrift",
-      "embedding_hash": "73292cd75eef73cb277cce90030b4fa4d262c4b8b129f5e7c1669f5559fd395a",
-      "eu_basis": [],
-      "last_changed": "2026-06-19",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om fulltidsstudiene ved Norges Handelshøyskole, NHH",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "73292cd75eef73cb277cce90030b4fa4d262c4b8b129f5e7c1669f5559fd395a"
     },
     "sf-20260616-1097": {
       "doc_type": "forskrift",
-      "embedding_hash": "00a688c5cbac93e67c49728d7f242cf30d64b3f90739562724111d01ddc67c69",
-      "eu_basis": [],
-      "last_changed": "2026-06-19",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om studiene ved etter- og videreutdanningen ved Norges Handelshøyskole – NHH Executive (NHHE)",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "00a688c5cbac93e67c49728d7f242cf30d64b3f90739562724111d01ddc67c69"
     },
     "sf-20260617-1112": {
@@ -94257,18 +94257,18 @@
     },
     "sf-20260617-1511": {
       "doc_type": "forskrift",
-      "embedding_hash": "eb6ebae24b0ff3a463e52f681957f96aa76fac04bd5cba3c882bee3f5f865881",
-      "eu_basis": [],
-      "last_changed": "2026-07-10",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om opptak, studier og eksamen ved Universitetet i Innlandet",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "eb6ebae24b0ff3a463e52f681957f96aa76fac04bd5cba3c882bee3f5f865881"
     },
     "sf-20260618-1131": {
@@ -94289,18 +94289,18 @@
     },
     "sf-20260618-1206": {
       "doc_type": "forskrift",
-      "embedding_hash": "d9d8ed57564ee5a7c04946c6cdcb4df3acdb51ba6b76f76da4ba9adb851ed44d",
-      "eu_basis": [],
-      "last_changed": "2026-06-30",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Vedtak om endring i mandat for forvaltningen av Statens pensjonsfond Norge",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "d9d8ed57564ee5a7c04946c6cdcb4df3acdb51ba6b76f76da4ba9adb851ed44d"
     },
     "sf-20260618-1354": {
@@ -94401,34 +94401,34 @@
     },
     "sf-20260619-1171": {
       "doc_type": "forskrift",
-      "embedding_hash": "bf0a9564ec7839526f96464d70feb5ec1fdfcc270bd096a60abf75876fe9c38e",
-      "eu_basis": [],
-      "last_changed": "2026-06-25",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-enkelte-klagenemnder-på-kunnskapsdepartementets-område.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-enkelte-klagenemnder-på-kunnskapsdepartementets-område",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om enkelte klagenemnder på Kunnskapsdepartementets område",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "bf0a9564ec7839526f96464d70feb5ec1fdfcc270bd096a60abf75876fe9c38e"
     },
     "sf-20260619-1209": {
       "doc_type": "forskrift",
-      "embedding_hash": "6ec9466b63df71ff7f422bb96e8d5609b1b13585d4c55e6b08c8d5a250852bea",
-      "eu_basis": [],
-      "last_changed": "2026-06-25",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sosionomutdanning.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sosionomutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om nasjonal retningslinje for sosionomutdanning",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "6ec9466b63df71ff7f422bb96e8d5609b1b13585d4c55e6b08c8d5a250852bea"
     },
     "sf-20260619-1234": {
@@ -94465,18 +94465,18 @@
     },
     "sf-20260619-1251": {
       "doc_type": "forskrift",
-      "embedding_hash": "c38ce7116ea007157f8c76a51210587fa79eff44a331a4f2da2a93d25c05212c",
-      "eu_basis": [],
-      "last_changed": "2026-06-27",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endr-i-universitets-og-høyskoleforskriften.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endr-i-universitets-og-høyskoleforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift til universitets- og høyskoleloven",
-      "total_changes": 6,
+      "total_changes": null,
       "xml_hash": "c38ce7116ea007157f8c76a51210587fa79eff44a331a4f2da2a93d25c05212c"
     },
     "sf-20260619-1319": {
@@ -94609,18 +94609,18 @@
     },
     "sf-20260622-1213": {
       "doc_type": "forskrift",
-      "embedding_hash": "8e4fd88a09d90d1e618518841e249af3bc684cb31408a0a0c17d54706770125b",
-      "eu_basis": [],
-      "last_changed": "2026-06-25",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endr-i-opplæringsforskrifta-og-privatskoleforskrifta-2.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "endr-i-opplæringsforskrifta-og-privatskoleforskrifta-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) og forskrift til privatskolelova (privatskoleforskrifta)",
-      "total_changes": 5,
+      "total_changes": null,
       "xml_hash": "8e4fd88a09d90d1e618518841e249af3bc684cb31408a0a0c17d54706770125b"
     },
     "sf-20260622-1391": {
@@ -95073,18 +95073,18 @@
     },
     "sf-20260703-1510": {
       "doc_type": "forskrift",
-      "embedding_hash": "0dd7278af3475f6fbf907775ff5cc334fbc41ca756939ea97df21ae34ab2d02a",
-      "eu_basis": [],
-      "last_changed": "2026-07-08",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrifter om fritak for egenandeler for barn under 18 år under egenandelstakordningen",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "0dd7278af3475f6fbf907775ff5cc334fbc41ca756939ea97df21ae34ab2d02a"
     },
     "sf-20260706-1512": {
@@ -95105,10 +95105,10 @@
     },
     "sf-20260709-1544": {
       "doc_type": "forskrift",
-      "embedding_hash": "f1602747079deb73beee0d7f3c24ec2e427c66f1b3908b31a05f68dafdb95b61",
+      "embedding_hash": "75d6cc1d4ede23398019495473675dfb1de8492f60585b6af6423d88d268f3d8",
       "eu_basis": [],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-08-01",
+      "last_seen": "2026-08-01T06:26:11.637345Z",
       "markdown_path": "forskrifter/forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026.md",
       "removed_reason": null,
       "renderer_version": 6,
@@ -95116,8 +95116,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om ekstraordinære tiltak i fisket etter anadrome laksefisk i vassdrag og sjøområder i 2026",
-      "total_changes": 3,
-      "xml_hash": "f1602747079deb73beee0d7f3c24ec2e427c66f1b3908b31a05f68dafdb95b61"
+      "total_changes": 4,
+      "xml_hash": "75d6cc1d4ede23398019495473675dfb1de8492f60585b6af6423d88d268f3d8"
     },
     "sf-20260709-1547": {
       "doc_type": "forskrift",
@@ -95185,21 +95185,21 @@
     },
     "sf-20260716-1567": {
       "doc_type": "forskrift",
-      "embedding_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d",
-      "eu_basis": [],
-      "last_changed": "2026-07-21",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-21T06:25:58.312978Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-tiltak-i-fisket-etter-anadrome-laksefiske-i-vassdrag-og-sjøområder-i-2026.md",
       "removed_reason": null,
-      "renderer_version": 6,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-om-tiltak-i-fisket-etter-anadrome-laksefiske-i-vassdrag-og-sjøområder-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om tiltak i fisket etter anadrome laksefiske i vassdrag og sjøområder i 2026",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d"
     }
   },
-  "generated_at": "2026-07-30T18:17:57.344275Z",
+  "generated_at": "2026-08-01T06:26:11.637345Z",
   "version": 1
 }

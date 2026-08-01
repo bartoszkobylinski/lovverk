@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m — Change history
 
-_6 events; doc_id `sf-20240617-1184`._
+_7 events; doc_id `sf-20240617-1184`._
+
+## 2026-08-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m`
+Commit: `383ec63`.
 
 ## 2026-07-08 — Content updated
 Lines: +143 -2.

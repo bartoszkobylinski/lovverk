@@ -2,6 +2,16 @@
   "doc_id": "sf-20210614-1978",
   "events": [
     {
+      "commit": "ba3f579",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 246,
+      "lines_removed": 239,
+      "subject": "update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "10ad75f",
       "date": "2026-06-24",
       "from_path": null,

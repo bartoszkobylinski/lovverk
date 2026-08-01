@@ -2,6 +2,16 @@
   "doc_id": "nl-20250620-099",
   "events": [
     {
+      "commit": "9b053e4",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 11,
+      "subject": "update(lov): folkehøgskoleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "12286a9",
       "date": "2026-07-07",
       "from_path": null,

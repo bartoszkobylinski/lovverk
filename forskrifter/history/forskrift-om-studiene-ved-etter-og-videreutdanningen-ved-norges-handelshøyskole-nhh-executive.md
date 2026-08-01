@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive — Change history
 
-_4 events; doc_id `sf-20240618-1057`._
+_5 events; doc_id `sf-20240618-1057`._
+
+## 2026-08-01 — Content updated
+Lines: +36 -36.
+Subject: `update(forskrift): forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive`
+Commit: `6cb382a`.
 
 ## 2026-06-19 — Content updated
 Lines: +18 -2.

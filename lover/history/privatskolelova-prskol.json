@@ -2,6 +2,16 @@
   "doc_id": "nl-20030704-084",
   "events": [
     {
+      "commit": "9ce2df5",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 9,
+      "subject": "update(lov): privatskolelova-prskol",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6f35599",
       "date": "2026-06-20",
       "from_path": null,

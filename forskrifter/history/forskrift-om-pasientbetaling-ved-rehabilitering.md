@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-pasientbetaling-ved-rehabilitering — Change history
 
-_4 events; doc_id `sf-20051220-1629`._
+_5 events; doc_id `sf-20051220-1629`._
+
+## 2026-08-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-pasientbetaling-ved-rehabilitering`
+Commit: `487171f`.
 
 ## 2026-07-08 — Content updated
 Lines: +3 -3.

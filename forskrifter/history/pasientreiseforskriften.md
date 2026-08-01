@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # pasientreiseforskriften — Change history
 
-_5 events; doc_id `sf-20150625-0793`._
+_6 events; doc_id `sf-20150625-0793`._
+
+## 2026-08-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): pasientreiseforskriften`
+Commit: `06f59ad`.
 
 ## 2026-07-08 — Content updated
 Lines: +3 -3.

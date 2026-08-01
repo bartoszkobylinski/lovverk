@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # verdipapirhandelloven-vphl — Change history
 
-_6 events; doc_id `nl-20070629-075`._
+_7 events; doc_id `nl-20070629-075`._
+
+## 2026-08-01 — Content updated
+Lines: +8 -7.
+Subject: `update(lov): verdipapirhandelloven-vphl`
+Commit: `bb45bc0`.
 
 ## 2026-07-01 — Content updated
 Lines: +7 -7.

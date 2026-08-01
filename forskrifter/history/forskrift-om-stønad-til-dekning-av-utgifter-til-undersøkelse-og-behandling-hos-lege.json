@@ -2,6 +2,16 @@
   "doc_id": "sf-20240626-1322",
   "events": [
     {
+      "commit": "1a0d0cf",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "67db872",
       "date": "2026-07-08",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # folkehøgskoleloven — Change history
 
-_5 events; doc_id `nl-20250620-099`._
+_6 events; doc_id `nl-20250620-099`._
+
+## 2026-08-01 — Content updated
+Lines: +4 -11.
+Subject: `update(lov): folkehøgskoleloven`
+Commit: `9b053e4`.
 
 ## 2026-07-07 — Content updated
 Lines: +14 -2.

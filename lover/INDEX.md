@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Lover
 
-_763 current documents_
+_759 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -115,7 +115,6 @@ _763 current documents_
 - [endringslov-til-anskaffelsesloven](endringslov-til-anskaffelsesloven.md) — Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)
 - [endringslov-til-arbeidsmiljøloven-og-folketrygdloven](endringslov-til-arbeidsmiljøloven-og-folketrygdloven.md) — Lov om endringer i arbeidsmiljøloven og folketrygdloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort og trekk av fagforeningskontingent i ytelser)
 - [endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven](endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven.md) — Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlertidig ansettelse mv. og vilkår om aktivitet for stønad til livsopphold)
-- [endringslov-til-barnehageloven](endringslov-til-barnehageloven.md) — Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)
 - [endringslov-til-barnevernl-og-sosialtjenestel](endringslov-til-barnevernl-og-sosialtjenestel.md) — Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsregler for fylkesnemndene for barnevern og sosiale saker mv.)
 - [endringslov-til-barnevernloven](endringslov-til-barnevernloven.md) — Lov om endringer i barnevernloven
 - [endringslov-til-barnevernloven-mv](endringslov-til-barnevernloven-mv.md) — Lov om endringer i barnevernloven mv. (tverrfaglig helsekartlegging)
@@ -164,8 +163,6 @@ _763 current documents_
 - [endringslov-til-lov-om-statens-pensjonskasse-mfl](endringslov-til-lov-om-statens-pensjonskasse-mfl.md) — Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uførepensjonsordning)
 - [endringslov-til-markedsføringsloven-mv](endringslov-til-markedsføringsloven-mv.md) — Lov om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)
 - [endringslov-til-matloven](endringslov-til-matloven.md) — Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift)
-- [endringslov-til-opplæringslova](endringslov-til-opplæringslova.md) — Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning i uken for elever på 1. til 3. trinn)
-- [endringslov-til-opplæringslova-og-barnehageloven-mv](endringslov-til-opplæringslova-og-barnehageloven-mv.md) — Lov om endringer i opplæringslova og barnehageloven mv.
 - [endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m](endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m.md) — Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking av rettsstillinga til barn ved yting av helse- og omsorgstenester m.m.)
 - [endringslov-til-pasient-og-brukerrettighetsloven-mv](endringslov-til-pasient-og-brukerrettighetsloven-mv.md) — Lov om endringer i pasient- og brukerrettighetsloven og helse- og omsorgstjenesteloven (rett til opphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester – kriterier og ventelister)
 - [endringslov-til-pengespill-og-lotterilover](endringslov-til-pengespill-og-lotterilover.md) — Lov om endringer i pengespill- og lotterilovgivningen
@@ -201,7 +198,6 @@ _763 current documents_
 - [endringslov-til-tobakksskadeloven-2](endringslov-til-tobakksskadeloven-2.md) — Lov om endringer i tobakksskadeloven (strengere regulering av e-sigaretter)
 - [endringslov-til-tomtefesteloven](endringslov-til-tomtefesteloven.md) — Lov om endringer i tomtefesteloven (festeavgift ved forlengelse m.m.)
 - [endringslov-til-trygderettsloven-mv](endringslov-til-trygderettsloven-mv.md) — Lov om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjørelse innen seks måneder mv.)
-- [endringslov-til-universitets-og-høyskoleloven-mv](endringslov-til-universitets-og-høyskoleloven-mv.md) — Lov om endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)
 - [endringslov-til-utlendingsloven](endringslov-til-utlendingsloven.md) — Lov om endringer i utlendingsloven (partsbegrepet mv. i utlendingssaker)
 - [endringslov-til-utlendingsloven-2](endringslov-til-utlendingsloven-2.md) — Lov om endringer i utlendingsloven (visitasjon og undersøkelse i forbindelse med registrering av søknad om beskyttelse mv.)
 - [endringslov-til-utlendingsloven-3](endringslov-til-utlendingsloven-3.md) — Lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)

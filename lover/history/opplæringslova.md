@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # opplæringslova — Change history
 
-_7 events; doc_id `nl-20230609-030`._
+_8 events; doc_id `nl-20230609-030`._
+
+## 2026-08-01 — Content updated
+Lines: +21 -14.
+Subject: `update(lov): opplæringslova`
+Commit: `7f9bac5`.
 
 ## 2026-07-01 — Content updated
 Lines: +6 -6.

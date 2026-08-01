@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-nasjonal-retningslinje-for-sosionomutdanning — Change history
 
-_4 events; doc_id `sf-20250704-1465`._
+_5 events; doc_id `sf-20250704-1465`._
+
+## 2026-08-01 — Content updated
+Lines: +67 -65.
+Subject: `update(forskrift): forskrift-om-nasjonal-retningslinje-for-sosionomutdanning`
+Commit: `b4ac1e3`.
 
 ## 2026-06-25 — Content updated
 Lines: +22 -2.

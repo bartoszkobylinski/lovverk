@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # opplæringsforskrifta — Change history
 
-_5 events; doc_id `sf-20240603-0900`._
+_6 events; doc_id `sf-20240603-0900`._
+
+## 2026-08-01 — Content updated
+Lines: +17 -17.
+Subject: `update(forskrift): opplæringsforskrifta`
+Commit: `68ee012`.
 
 ## 2026-06-25 — Content updated
 Lines: +6 -2.

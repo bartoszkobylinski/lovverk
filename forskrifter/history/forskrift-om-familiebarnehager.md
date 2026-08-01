@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "forskrift-om-familiebarnehager"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-familiebarnehager — Change history
 
-_2 events; doc_id `sf-20051216-1555`._
+_4 events; doc_id `sf-20051216-1555`._
+
+## 2026-08-01 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-familiebarnehager`
+Commit: `fd5394b`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20051216-1555.md` → `forskrifter/forskrift-om-familiebarnehager.md`.

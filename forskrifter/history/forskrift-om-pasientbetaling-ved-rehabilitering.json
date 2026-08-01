@@ -2,6 +2,16 @@
   "doc_id": "sf-20051220-1629",
   "events": [
     {
+      "commit": "487171f",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-pasientbetaling-ved-rehabilitering",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "978a7b3",
       "date": "2026-07-08",
       "from_path": null,

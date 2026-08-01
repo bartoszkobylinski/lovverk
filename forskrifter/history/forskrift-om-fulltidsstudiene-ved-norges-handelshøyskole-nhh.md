@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh — Change history
 
-_4 events; doc_id `sf-20240618-1108`._
+_5 events; doc_id `sf-20240618-1108`._
+
+## 2026-08-01 — Content updated
+Lines: +14 -19.
+Subject: `update(forskrift): forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh`
+Commit: `ed43e52`.
 
 ## 2026-06-19 — Content updated
 Lines: +10 -4.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tildeling-av-tilskudd-til-private-barnehager — Change history
 
-_4 events; doc_id `sf-20151009-1166`._
+_5 events; doc_id `sf-20151009-1166`._
+
+## 2026-08-01 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-tildeling-av-tilskudd-til-private-barnehager`
+Commit: `748ceda`.
 
 ## 2026-07-02 — Content updated
 Lines: +6 -6.

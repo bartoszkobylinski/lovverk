@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken — Change history
 
-_4 events; doc_id `sf-20210614-1978`._
+_5 events; doc_id `sf-20210614-1978`._
+
+## 2026-08-01 — Content updated
+Lines: +246 -239.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken`
+Commit: `ba3f579`.
 
 ## 2026-06-24 — Content updated
 Lines: +81 -27.

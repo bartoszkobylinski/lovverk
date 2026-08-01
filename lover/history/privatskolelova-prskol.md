@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # privatskolelova-prskol — Change history
 
-_4 events; doc_id `nl-20030704-084`._
+_5 events; doc_id `nl-20030704-084`._
+
+## 2026-08-01 — Content updated
+Lines: +9 -9.
+Subject: `update(lov): privatskolelova-prskol`
+Commit: `9ce2df5`.
 
 ## 2026-06-20 — Content updated
 Lines: +7 -5.

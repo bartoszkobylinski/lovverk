@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-studier-ved-nmbu — Change history
 
-_4 events; doc_id `sf-20230309-0322`._
+_5 events; doc_id `sf-20230309-0322`._
+
+## 2026-08-01 — Content updated
+Lines: +69 -51.
+Subject: `update(forskrift): forskrift-om-studier-ved-nmbu`
+Commit: `8b943ce`.
 
 ## 2026-07-07 — Content updated
 Lines: +24 -10.

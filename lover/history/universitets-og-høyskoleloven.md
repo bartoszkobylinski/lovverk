@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # universitets-og-høyskoleloven — Change history
 
-_6 events; doc_id `nl-20240308-009`._
+_7 events; doc_id `nl-20240308-009`._
+
+## 2026-08-01 — Content updated
+Lines: +20 -20.
+Subject: `update(lov): universitets-og-høyskoleloven`
+Commit: `1081203`.
 
 ## 2026-07-01 — Content updated
 Lines: +7 -7.

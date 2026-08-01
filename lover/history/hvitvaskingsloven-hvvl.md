@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # hvitvaskingsloven-hvvl — Change history
 
-_6 events; doc_id `nl-20180601-023`._
+_7 events; doc_id `nl-20180601-023`._
+
+## 2026-08-01 — Content updated
+Lines: +5 -4.
+Subject: `update(lov): hvitvaskingsloven-hvvl`
+Commit: `3d0d8f4`.
 
 ## 2026-07-30 — Content updated
 Lines: +3 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # finanstilsynsloven — Change history
 
-_6 events; doc_id `nl-20240621-041`._
+_7 events; doc_id `nl-20240621-041`._
+
+## 2026-08-01 — Content updated
+Lines: +9 -8.
+Subject: `update(lov): finanstilsynsloven`
+Commit: `9ea3d1a`.
 
 ## 2026-07-01 — Content updated
 Lines: +9 -7.

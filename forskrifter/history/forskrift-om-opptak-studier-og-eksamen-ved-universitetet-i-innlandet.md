@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet — Change history
 
-_4 events; doc_id `sf-20240619-1221`._
+_5 events; doc_id `sf-20240619-1221`._
+
+## 2026-08-01 — Content updated
+Lines: +54 -37.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet`
+Commit: `3ae4fb0`.
 
 ## 2026-07-09 — Content updated
 Lines: +28 -10.

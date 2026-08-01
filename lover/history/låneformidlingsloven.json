@@ -2,6 +2,16 @@
   "doc_id": "nl-20221216-091",
   "events": [
     {
+      "commit": "a2e412e",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(lov): låneformidlingsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8154f3d",
       "date": "2026-07-30",
       "from_path": null,

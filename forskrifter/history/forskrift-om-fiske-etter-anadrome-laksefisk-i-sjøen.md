@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen — Change history
 
-_3 events; doc_id `sf-20210315-0797`._
+_4 events; doc_id `sf-20210315-0797`._
+
+## 2026-08-01 — Content updated
+Lines: +4 -2.
+Subject: `update(forskrift): forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen`
+Commit: `9544e16`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

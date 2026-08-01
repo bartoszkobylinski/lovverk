@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-enkelte-klagenemnder-på-kunnskapsdepartementets-område — Change history
 
-_4 events; doc_id `sf-20250702-1462`._
+_5 events; doc_id `sf-20250702-1462`._
+
+## 2026-08-01 — Content updated
+Lines: +50 -10.
+Subject: `update(forskrift): forskrift-om-enkelte-klagenemnder-på-kunnskapsdepartementets-område`
+Commit: `417fcc5`.
 
 ## 2026-06-24 — Content updated
 Lines: +10 -2.

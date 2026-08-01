@@ -2,6 +2,16 @@
   "doc_id": "sf-20190711-1005",
   "events": [
     {
+      "commit": "e61173e",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 49,
+      "lines_removed": 14,
+      "subject": "update(forskrift): fagskoleforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

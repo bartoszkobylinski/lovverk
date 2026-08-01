@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # utdanningsstøtteloven — Change history
 
-_4 events; doc_id `nl-20050603-037`._
+_5 events; doc_id `nl-20050603-037`._
+
+## 2026-08-01 — Content updated
+Lines: +5 -9.
+Subject: `update(lov): utdanningsstøtteloven`
+Commit: `5fbbb59`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

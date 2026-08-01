@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten — Change history
 
-_5 events; doc_id `sf-20250622-1188`._
+_6 events; doc_id `sf-20250622-1188`._
+
+## 2026-08-01 — Content updated
+Lines: +9 -5.
+Subject: `update(forskrift): forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten`
+Commit: `c98509a`.
 
 ## 2026-07-08 — Content updated
 Lines: +115 -93.

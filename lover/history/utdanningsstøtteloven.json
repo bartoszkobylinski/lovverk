@@ -2,6 +2,16 @@
   "doc_id": "nl-20050603-037",
   "events": [
     {
+      "commit": "5fbbb59",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 9,
+      "subject": "update(lov): utdanningsstøtteloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7da4561",
       "date": "2026-06-20",
       "from_path": null,

@@ -2,6 +2,16 @@
   "doc_id": "nl-20240621-041",
   "events": [
     {
+      "commit": "9ea3d1a",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 8,
+      "subject": "update(lov): finanstilsynsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

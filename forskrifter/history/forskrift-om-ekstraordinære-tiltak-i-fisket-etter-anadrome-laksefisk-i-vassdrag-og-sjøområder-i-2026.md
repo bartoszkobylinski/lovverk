@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026 — Change history
 
-_3 events; doc_id `sf-20260709-1544`._
+_4 events; doc_id `sf-20260709-1544`._
+
+## 2026-08-01 — Content updated
+Lines: +7 -4.
+Subject: `update(forskrift): forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026`
+Commit: `ae2b5fe`.
 
 ## 2026-07-30 — Content updated
 Lines: +3 -3.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20250622-1188",
   "events": [
     {
+      "commit": "c98509a",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "36446c8",
       "date": "2026-07-08",
       "from_path": null,

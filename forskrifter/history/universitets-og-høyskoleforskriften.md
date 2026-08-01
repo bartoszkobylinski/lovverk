@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # universitets-og-høyskoleforskriften — Change history
 
-_4 events; doc_id `sf-20240628-1392`._
+_5 events; doc_id `sf-20240628-1392`._
+
+## 2026-08-01 — Content updated
+Lines: +44 -24.
+Subject: `update(forskrift): universitets-og-høyskoleforskriften`
+Commit: `a93f42d`.
 
 ## 2026-06-26 — Content updated
 Lines: +19 -3.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20151009-1166",
   "events": [
     {
+      "commit": "748ceda",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-tildeling-av-tilskudd-til-private-barnehager",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "83277b0",
       "date": "2026-07-02",
       "from_path": null,

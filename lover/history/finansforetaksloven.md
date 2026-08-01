@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # finansforetaksloven — Change history
 
-_7 events; doc_id `nl-20150410-017`._
+_8 events; doc_id `nl-20150410-017`._
+
+## 2026-08-01 — Content updated
+Lines: +9 -7.
+Subject: `update(lov): finansforetaksloven`
+Commit: `fce0c15`.
 
 ## 2026-07-01 — Content updated
 Lines: +36 -30.

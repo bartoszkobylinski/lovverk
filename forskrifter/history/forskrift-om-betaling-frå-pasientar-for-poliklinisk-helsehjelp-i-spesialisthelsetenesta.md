@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta — Change history
 
-_4 events; doc_id `sf-20161220-1848`._
+_5 events; doc_id `sf-20161220-1848`._
+
+## 2026-08-01 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta`
+Commit: `3dbd802`.
 
 ## 2026-07-08 — Content updated
 Lines: +12 -4.

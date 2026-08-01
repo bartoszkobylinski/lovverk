@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # folkefinansieringsloven — Change history
 
-_6 events; doc_id `nl-20260206-002`._
+_7 events; doc_id `nl-20260206-002`._
+
+## 2026-08-01 — Content updated
+Lines: +3 -70.
+Subject: `update(lov): folkefinansieringsloven`
+Commit: `d8f7186`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

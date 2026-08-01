@@ -2,6 +2,16 @@
   "doc_id": "sf-20250704-1465",
   "events": [
     {
+      "commit": "b4ac1e3",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 67,
+      "lines_removed": 65,
+      "subject": "update(forskrift): forskrift-om-nasjonal-retningslinje-for-sosionomutdanning",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3495968",
       "date": "2026-06-25",
       "from_path": null,

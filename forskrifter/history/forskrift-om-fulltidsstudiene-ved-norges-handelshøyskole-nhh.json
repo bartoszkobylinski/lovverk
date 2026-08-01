@@ -2,6 +2,16 @@
   "doc_id": "sf-20240618-1108",
   "events": [
     {
+      "commit": "ed43e52",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 14,
+      "lines_removed": 19,
+      "subject": "update(forskrift): forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e14e28d",
       "date": "2026-06-19",
       "from_path": null,
