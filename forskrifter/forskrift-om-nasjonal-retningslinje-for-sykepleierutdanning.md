@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-08-01"
-last_change_in_force: null
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "e8924f3ec4b92d61e11c716b4df4cb9af192e652389e68754a87e720eddce58e"
+xml_hash: "add147baa81ea300cf1c859bee64c0ef21caeca09ef5a49a616f0ea84dcc2eca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,27 +26,25 @@ eu_basis: []
 
 ### § 1. Virkeområde og formål
 
-Forskriften gjelder for universiteter og høyskoler som gir sykepleierutdanning.
-
-Forskriften gjelder for 3-årig bachelorgrad i sykepleie.
+Forskriften gjelder for universiteter og høyskoler som tilbyr 3-årig bachelorgrad i sykepleie.
 
 Forskriften skal sikre et nasjonalt likeverdig faglig nivå, slik at kandidatene som uteksamineres, har en felles sluttkompetanse, uavhengig av utdanningsinstitusjon.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 2. Formål med utdanningen
 
 Sykepleierutdanningen skal kvalifisere kandidater til å utøve sykepleie for å ivareta menneskets grunnleggende behov, fremme helse, forebygge og behandle sykdom, lindre lidelse og sikre en verdig død. Grunnlaget for omsorgsfull og faglig forsvarlig sykepleie er oppdatert kunnskap, skikkethet og respekt for menneskers autonomi og medbestemmelse.
 
-Utdanningen skal sikre at kandidaten kan utøve sykepleie til pasienter med komplekse og sammensatte sykdomsbilder. Kandidaten skal kunne ta ansvar for og gjøre selvstendige, systematiske kliniske vurderinger, prioriteringer og beslutninger, samt kritisk vurdere effekten av sykepleie og behandling. Utdanningen skal bidra til at kandidaten utvikler gode ferdigheter i kommunikasjon, veiledning og samhandling. Kompetanse i kvalitets- og forbedringsarbeid skal bidra til å redusere uønskede hendelser og variasjon, samt sikre pasient- og brukermedvirkning. Kandidaten skal kunne utøve sykepleie til mennesker i alle aldre i et individ-, gruppe- og samfunnsperspektiv.
+Utdanningen skal sikre at kandidaten kan utøve sykepleie til pasienter med komplekse og sammensatte sykdomsbilder. Kandidaten skal kunne ta ansvar for og å gjøre selvstendige, systematiske kliniske vurderinger, prioriteringer og beslutninger, samt kritisk vurdere effekten av sykepleie og behandling. Utdanningen skal bidra til at kandidaten utvikler gode ferdigheter i kommunikasjon, veiledning, faglig ledelse og samhandling. Kompetanse i kvalitets- og forbedringsarbeid skal bidra til å redusere uønskede hendelser og variasjon, samt sikre pasient- og brukermedvirkning. Kandidaten skal kunne utøve sykepleie til mennesker i alle aldre i et individ-, gruppe og samfunnsperspektiv.
 
 Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for likeverdige tjenestetilbud for alle grupper i samfunnet, deriblant samers status som urfolk og deres rettigheter til språklige og kulturelt tilrettelagte tjenester.
 
-Sykepleierutdanningen skal være praksisnær, profesjonsrettet og forskningsbasert, og skal møte samfunnets krav om likeverdige og kunnskapsbaserte tjenester. Etter endt utdanning skal kandidaten kunne bidra til en bærekraftig utvikling av helsetjenesten i takt med demografiske og teknologiske endringer.
+Sykepleierutdanningen skal være praksisnær, profesjonsrettet og forskningsbasert, og skal møte samfunnets krav om likeverdige og kunnskapsbaserte tjenester. Etter endt utdanning skal kandidaten kunne bidra til en bærekraftig utvikling av helse- og omsorgstjenesten i takt med demografiske og teknologiske endringer.
 
-Utdanningen skal være i samsvar med direktiv [2005/36/EF](eu/32005l0036) om godkjenninger av yrkeskvalifikasjoner, med senere endringer herunder direktiv [2013/55/EU](eu/32013l0055).
+Utdanningen skal være i samsvar med Europaparlamentets rådsdirektiv [2005/36/EF](eu/32005l0036) av 7. september 2005 om godkjenninger av yrkeskvalifikasjoner (yrkeskvalifikasjonsdirektivet), med senere endringer, herunder direktiv [2013/55/EU](eu/32013l0055) og delegert kommisjonsdirektiv [(EU) 2024/782](eu/32024l0782).
 
-> **Endres** ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 3. Kompetanseområder
 
@@ -59,9 +57,9 @@ Sykepleierutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2]
 - Tjenesteutvikling og innovasjon
 - Teknologi og digital kompetanse.
 
-Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1477/§4) k, [§ 5](forskrift/2025-07-04-1477/§5) b, d og f, [§ 6](forskrift/2025-07-04-1477/§6) d, f og g, [§ 7](forskrift/2025-07-04-1477/§7) f og g, [§ 8](forskrift/2025-07-04-1477/§8) a–c, [§ 11](forskrift/2025-07-04-1477/§11) a, [§ 12](forskrift/2025-07-04-1477/§12) c, [§ 13](forskrift/2025-07-04-1477/§13) d, [§ 14](forskrift/2025-07-04-1477/§14) a–c, [§ 15](forskrift/2025-07-04-1477/§15) d og e, [§ 16](forskrift/2025-07-04-1477/§16) a, [§ 18](forskrift/2025-07-04-1477/§18) b, [§ 19](forskrift/2025-07-04-1477/§19) a og [§ 21](forskrift/2025-07-04-1477/§21) a er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
+Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1477/§4) k og l, [§ 5](forskrift/2025-07-04-1477/§5) b, d og f, [§ 6](forskrift/2025-07-04-1477/§6) d, f og g, [§ 7](forskrift/2025-07-04-1477/§7) f og g, [§ 8](forskrift/2025-07-04-1477/§8) a–c, [§ 11](forskrift/2025-07-04-1477/§11) a, [§ 12](forskrift/2025-07-04-1477/§12) c, [§ 13](forskrift/2025-07-04-1477/§13) d, [§ 14](forskrift/2025-07-04-1477/§14) a–c, [§ 15](forskrift/2025-07-04-1477/§15) d–f, [§ 16](forskrift/2025-07-04-1477/§16) a, [§ 18](forskrift/2025-07-04-1477/§18) a, [§ 19](forskrift/2025-07-04-1477/§19) a og [§ 21](forskrift/2025-07-04-1477/§21) a er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet helse, sykdom og sykepleie
 
@@ -75,44 +73,45 @@ Kandidaten
 4. har bred kunnskap om de vanligste symptomer, sykdommer, sykdomsforløp og behandling
 5. har bred kunnskap om smittestoffer, smitterisiko og infeksjonsforebyggende tiltak
 6. har bred kunnskap om aldringsprosessen og eldres særegne behov
-7. har bred kunnskap om psykisk helse og de vanligste psykiske lidelsene og sykdommene
+7. har bred kunnskap om psykisk helse og de vanligste psykiske lidelser, sykdommer og behandling
 8. har bred kunnskap om farmakologi relatert til sykepleierens funksjons- og ansvarsområde
 9. har kunnskap om biokjemi, mikrobiologi, antibiotikabruk og resistensutvikling
 10. har kunnskap om rus og avhengighet
 11. har kunnskap om barn og unges normale utvikling og særegne behov, inkludert kunnskap om medvirkning og rettigheter.
+12. har kunnskap om kjønnsforskjeller og kjønns betydning for helse.
 
-> **Endres** ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 5. Helse, sykdom og sykepleie – Ferdigheter
 
 Kandidaten
 
-1. kan anvende faglig kunnskap om helse og sykdom for å systematisk observere, vurdere, beslutte, iverksette og dokumentere hensiktsmessige sykepleietiltak, samt evaluere effekten av disse og justere ved behov
+1. kan anvende faglig kunnskap om helse og sykdom for å systematisk observere, kritisk vurdere, beslutte, iverksette og dokumentere hensiktsmessige sykepleietiltak, samt evaluere effekten av disse og justere ved behov
 2. kan anvende faglig kunnskap for å initiere og bidra til tverrfaglig, tverrprofesjonell og tverrsektoriell samhandling for å sikre et koordinert, helhetlig og sammenhengende behandlingsforløp på tvers av virksomheter og nivåer
-3. kan anvende kunnskap om kulturkompetanse og kulturforståelse i vurdering, planlegging, gjennomføring og evaluering av sykepleie
+3. kan anvende kunnskap om kultur- og språkbakgrunn i vurdering, planlegging, gjennomføring og evaluering av sykepleie
 4. kan anvende kunnskap om helsefremmende, forebyggende og arbeidsinkluderende tiltak
 5. kan anvende kunnskap for å iverksette tiltak ved subakutte og akutte hendelser, samt utøve hjerte- og lungeredning med hjertestarter
 6. kan anvende kunnskap om barn og unges behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter
 7. kan anvende kunnskap for å iverksette tiltak som fremmer god psykisk helse
 8. kan vurdere situasjoner som kan utvikle seg truende for pasienter og ansatte, og kan iverksette tiltak for å forebygge slike hendelser
 9. kan beherske relevant medisinsk teknisk utstyr
-10. kan beherske smittevernstiltak for å forhindre spredning av uønskede mikrober.
+10. kan anvende smittevernstiltak for å forhindre spredning av uønskede mikrober.
 
-> **Endres** ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027), [23 feb 2026 nr. 264](forskrift/2026-02-23-264) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027), [23 feb 2026 nr. 264](forskrift/2026-02-23-264) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 6. Helse, sykdom og sykepleie – Generell kompetanse
 
 Kandidaten
 
-1. kan planlegge og gjennomføre sykepleie til akutt og kritisk syke, kronisk syke og mennesker med sammensatte og komplekse behov i primær- og spesialisthelsetjenesten. Videre skal kandidaten kunne gjennomføre sykepleie til mennesker i palliativ fase
-2. kan planlegge og gjennomføre forsvarlig legemiddelhåndtering, herunder legemiddelregning, og kvalitetssikre den enkelte pasients legemiddelbruk
-3. kan planlegge og gjennomføre sykepleie til pre- og postoperative pasienter
+1. kan planlegge og gjennomføre sykepleie til akutt og kritisk syke, kronisk syke og mennesker med sammensatte og komplekse behov i primær- og spesialisthelsetjenesten, samt til mennesker i palliativ fase
+2. kan planlegge og gjennomføre forsvarlig legemiddelhåndtering, herunder legemiddelregning, og kvalitetssikre den enkelte pasients legemiddelbehandling
+3. kan planlegge og gjennomføre sykepleie til pasienter i pre- og postoperative fase
 4. kan planlegge og gjennomføre selvstendige vurderinger av sykepleiebehovet til mennesker med urfolks- og minoritetsbakgrunn
-5. kjenner til tiltak for å bevare liv og helse ved storulykker og i krise- og katastrofesituasjoner
-6. har innsikt i sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering
-7. har innsikt i sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringer, samt kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre. Videre kan kandidaten samtale med barn om tema som omsorgssvikt, vold og overgrep.
+5. kjenner til beredskapsplaner for å bevare liv og helse i krise- og katastrofesituasjoner
+6. har innsikt i sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin yrkesutøvelse både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering
+7. har innsikt i sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringer, samt kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre. Videre kan kandidaten samtale med barn om tema som omsorgssvikt, vold og overgrep. Ferdighetstreningen skal gjennomføres på en etisk forsvarlig måte.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet sykepleierprofesjonen, etikk, kommunikasjon og samhandling
 
@@ -123,24 +122,23 @@ Kandidaten
 1. har bred kunnskap om personsentrert sykepleie
 2. har bred kunnskap om sentrale verdier og begreper i sykepleie
 3. har bred kunnskap om kommunikasjon
-4. har kunnskap om sykepleiens historiske utvikling og dens betydning for profesjons- og tjenesteutøvelse
-5. har kunnskap om relevante undervisnings- og veiledningsmetoder
-6. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+4. har kunnskap om begrepet helsekompetanse og hvordan dette påvirker menneskets evne til å finne, forstå, vurdere og anvende helseinformasjon
+5. har kunnskap om sykepleiens historiske utvikling og dens betydning for profesjons- og yrkesutøvelse
+6. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige helse- og omsorgstjenester for alle grupper i samfunnet
 7. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet
-8. har kunnskap om hvilken betydning kultur- og språkbakgrunn har for sykdomsforståelse og likeverdige tjenester.
+8. har kunnskap om hvilken betydning kultur- og språkbakgrunn kan ha for helsekompetanse og likeverdige helse- og omsorgstjenester.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 8. Sykepleierprofesjonen, etikk, kommunikasjon og samhandling – Ferdigheter
 
 Kandidaten
 
-1. kan reflektere over og håndtere etiske problemstillinger, samt justere egen praksis i sin tjenesteutøvelse
-2. kan anvende kunnskap om lærings-, mestrings- og endringsprosesser i veiledning og undervisning av pasienter og pårørende, studenter og relevant personell
-3. kan anvende relasjons-, kommunikasjons- og veiledningskompetanse i møte med brukere, pasienter og pårørende
-4. kan anvende kunnskap om utredning, behandling og oppfølging for å understøtte pasientens beslutningsgrunnlag.
+1. kan reflektere over og håndtere etiske problemstillinger, samt justere egen praksis i sin yrkesutøvelse
+2. kan anvende kunnskap om lærings-, mestrings- og endringsprosesser i møte med pasienter, pårørende og relevant personell
+3. kan anvende kunnskap om utredning, behandling og oppfølging for å støtte pasientens beslutningsprosess gjennom forhåndssamtaler og samvalg, med utgangspunkt i pasientens helsekompetanse.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 9. Sykepleierprofesjonen, etikk, kommunikasjon og samhandling – Generell kompetanse
 
@@ -148,10 +146,10 @@ Kandidaten
 
 1. har innsikt i sykepleiens yrkesetiske retningslinjer
 2. kan planlegge og gjennomføre kommunikasjon og samhandling med pasienter og pårørende basert på respekt, medbestemmelse og integritet
-3. kan planlegge og gjennomføre målrettede samarbeidsprosesser med pasienter, pårørende og andre tjenesteutøvere, og kan forebygge og løse konflikter
+3. kan planlegge og gjennomføre målrettede samarbeidsprosesser med pasienter, pårørende og andre yrkesutøvere, og kan forebygge og bidra til å løse konflikter
 4. kjenner til globale helseutfordringer og sykepleieutøvelse i et internasjonalt perspektiv.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet vitenskapsteori og forskningsmetode
 
@@ -172,11 +170,11 @@ Kandidaten
 
 Kandidaten
 
-1. kan planlegge og gjennomføre prosjekter
+1. kan planlegge og gjennomføre fagutviklings- og/eller kvalitetsforbedringsprosjekter
 2. kan formidle sentralt fagstoff som teorier, problemstillinger og løsninger både skriftlig og muntlig
 3. kan formidle synspunkter og dele erfaringer med andre innenfor fagområdet og gjennom dette bidra til utvikling av god praksis.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet faglig ledelse, kvalitet og pasientsikkerhet
 
@@ -184,36 +182,36 @@ Kandidaten
 
 Kandidaten
 
-1. har kunnskap om ledelse og organisering av helsetjenesten
-2. har kunnskap om kvalitet og pasientsikkerhet innenfor nivåene i helsetjenesten
-3. kjenner til risikofaktorer i helsetjenesten og prinsipper og tiltak for å redusere pasientskader
-4. har kunnskap om helse- og sosialpolitikk, inkludert gjeldende myndighetskrav og tvangsbestemmelser.
+1. har bred kunnskap om ledelse og organisering av helse- og omsorgstjenesten
+2. har bred kunnskap om relevante undervisnings- og veiledningsmetoder
+3. har kunnskap om kvalitet og pasientsikkerhet innenfor nivåene i helse- og omsorgstjenesten
+4. har kunnskap om helse- og sosialpolitikk, inkludert gjeldende myndighetskrav og tvangsbestemmelser
+5. har kunnskap om samarbeidende yrkesgruppers kompetanse.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 14. Faglig ledelse, kvalitet og pasientsikkerhet – Ferdigheter
 
 Kandidaten
 
-1. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse
-2. kan beherske kartleggings-, vurderings-, dokumentasjons- og kommunikasjonsverktøy i sykepleieutøvelsen
-3. kan identifisere og vurdere risikofaktorer knyttet til individ, system og miljø, samt dokumentere og systematisk følge opp dette, deriblant iverksette relevante tiltak.
+1. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin yrkesutøvelse
+2. kan beherske kartleggings-, vurderings-, dokumentasjons- og kommunikasjonsverktøy i yrkesutøvelsen
+3. kan anvende kunnskap om kommunikasjon, undervisning og veiledning i møte med studenter og relevant personell.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 15. Faglig ledelse, kvalitet og pasientsikkerhet – Generell kompetanse
 
 Kandidaten
 
-1. kan lede og prioritere oppgaver i sykepleietjenesten
-2. har innsikt i kvaliteten på sykepleie og de tjenestene brukerne mottar, og kan justere egen profesjonsutøvelse
+1. kan lede, prioritere og koordinere oppgaver i helse- og omsorgstjenesten
+2. har innsikt i kvaliteten på sykepleie og de tjenestene brukerne mottar, og kan justere egen yrkesutøvelse
 3. har innsikt i kvalitetsindikatorer og standard terminologi i dokumentasjon av sykepleie
-4. kan planlegge og gjennomføre målrettede tiltak for å redusere uønskede hendelser og variasjon i helsetjenesten
-5. kan planlegge og gjennomføre kvalitetsutviklingsarbeid i samarbeid med pasienter og pårørende, og kan tilpasse tjenestene i tråd med tilbakemeldinger
-6. kan planlegge og gjennomføre tiltak som sikrer trygg overføring av pasienter mellom ulike enheter og nivåer i helsetjenesten
-7. har innsikt i hvordan pasienters språklige og kulturelle bakgrunn utfordrer ivaretakelse av kvalitet og pasientsikkerhet, samt kunnskap om bruk av tolk.
+4. kan planlegge, gjennomføre, dokumentere og systematisk følge opp tiltak for å redusere uønskede hendelser og uønsket variasjon i helse- og omsorgstjenesten
+5. kan planlegge og gjennomføre tiltak som sikrer trygg overføring av pasienter mellom ulike enheter og nivåer i helse- og omsorgstjenesten
+6. har innsikt i hvordan pasienters språklige og kulturelle bakgrunn kan påvirke ivaretakelse av kvalitet og pasientsikkerhet, samt kunnskap om bruk av tolk.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet tjenesteutvikling og innovasjon
 
@@ -234,10 +232,9 @@ Kandidaten
 
 Kandidaten
 
-1. kjenner til kvalitetsutfordringer på system- og/eller oppgavenivå som krever innovasjon
-2. kan planlegge og gjennomføre tjenesteutvikling i samarbeid med pasienter og pårørende.
+1. kjenner til nytenking og innovasjonsprosesser og kan bidra til tjenesteinnovasjon som kan forbedre helse- og omsorgstjenesten.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet teknologi og digital kompetanse
 
@@ -245,44 +242,50 @@ Kandidaten
 
 Kandidaten
 
-1. har kunnskap om teknologi og digitale løsninger i helsetjenesten
+1. har kunnskap om teknologiske og digitale løsninger som benyttes i helse- og omsorgstjenesten, inkludert kunstig intelligens
 2. har kunnskap om informasjonssikkerhet i sykepleieutøvelsen.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 20. Teknologi og digital kompetanse – Ferdigheter
 
 Kandidaten
 
-1. kan reflektere og kritisk vurdere etiske og juridiske utfordringer ved bruk av teknologi og digitale løsninger
-2. kan anvende teknologi og digitale løsninger i den hensikt å understøtte pasienters og pårørendes ressurser, mestringsmuligheter og medvirkning.
+1. kan reflektere over etiske, juridiske og samfunnsmessige utfordringer ved bruk av teknologi og digitale løsninger i helse- og omsorgstjenesten
+2. kan anvende teknologi og digitale løsninger i den hensikt å understøtte pasienters og pårørendes ressurser, mestringsmuligheter, medvirkning og kommunikasjon
+3. kan anvende digitale verktøy for effektiv dokumentasjon, samhandling og beslutningsstøtte.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 21. Teknologi og digital kompetanse – Generell kompetanse
 
 Kandidaten
 
-1. har innsikt i utvikling og bruk av teknologi og digitale løsninger på individ- og systemnivå
-2. har innsikt i teknologi og digitale løsningers påvirkning på tjenesteutøvelsen.
+1. har innsikt i hvordan teknologi påvirker helse- og omsorgstjenesten på individ-, gruppe- og systemnivå.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
-## Kapittel 8. Studiets oppbygging og praksisstudier
+## Kapittel 8. Studiets lengde, oppbygging og praksisstudier
 
-> **Overskriften endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Overskrift endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
-### § 22. Studiets oppbygging
+### § 22. Studiets lengde
 
-Studiets oppbygging skal sikre sammenheng og progresjon, og sikre integrering mellom teori og praksis på en måte som understøtter læringsutbyttebeskrivelsene. Det skal legges til rette for studentmobilitet og gis mulighet for valgbar fordypning. Hvert studieår skal inneholde teoristudier og praksisstudier.
+Utdanningen skal være i samsvar med yrkeskvalifikasjonsdirektivet. Utdanningen skal ha et omfang på 180 studiepoeng, vare i tre år på normert tid, og bestå av minst 4 600 timers teoretisk utdanning og praksisstudier. Den teoretiske utdanningen skal utgjøre minst en tredel og den praktiske utdanningen minst halvparten av utdanningens samlede minste varighet. Den praktiske utdanningen skal gjennomføres i direkte kontakt med friske eller syke enkeltpersoner og grupper.
 
-Utdanningen skal være organisert fra det grunnleggende til det mer kompliserte og sammensatte. Gjennomgående temaer skal være: etikk, pasientsikkerhet, kommunikasjon, samhandling og ledelse. Første studieår skal omfatte grunnleggende sykepleie, anatomi, fysiologi og biokjemi og ledelse av eget arbeid. Andre studieår skal omfatte sykepleie til mennesker med akutt, kronisk og kritisk sykdom. Tredje studieår skal omfatte komplekse og sammensatte pasienttilstander og sykdomsbilder, samt ledelse av tverrfaglige grupper og pasientens forløp i behandlingskjeden.
+> Tilføyd ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
+
+### § 23. Studiets oppbygging
+
+Studiets oppbygging skal sikre sammenheng og progresjon, og at teori og praksis er integrert på en måte som understøtter læringsutbyttebeskrivelsene. Det skal gis mulighet for valgbar fordypning. Hvert studieår skal inneholde teoristudier og praksisstudier.
+
+Utdanningen skal være organisert fra det grunnleggende til det mer kompliserte og sammensatte. Gjennomgående temaer skal være: etikk, pasientsikkerhet, kommunikasjon, samhandling og faglig ledelse. Første studieår skal omfatte grunnleggende sykepleie, anatomi, fysiologi og biokjemi og ledelse av eget arbeid. Andre studieår skal omfatte sykepleie til mennesker med akutt, kronisk og kritisk sykdom. Tredje studieår skal omfatte komplekse og sammensatte pasienttilstander og sykdomsbilder, samt ledelse av tverrfaglige grupper og pasientens forløp i behandlingskjeden.
 
 Det skal avholdes en obligatorisk nasjonal deleksamen i løpet av utdanningen. NOKUT skal i samråd med institusjonene fastsette fag/emne, omfang, tidspunkt mv. for deleksamenen.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027, tidligere § 22), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027).
 
-### § 23. Praksisstudier
+### § 24. Praksisstudier
 
 Praksisstudier utgjør en integrert del av studiet. Kvaliteten i praksisstudiene og hvordan de virker sammen med undervisningen ved utdanningsinstitusjonene er avgjørende for den samlede studiekvaliteten. Praksisstudiene skal utformes slik at de sikrer at læringsutbyttet oppnås. Det skal tilstrebes kontinuitet i praksisoppfølgingen mellom utdanningsinstitusjon og praksistilbyder.
 
@@ -292,25 +295,26 @@ Avtalene skal blant annet omhandle planlegging av praksisperioder, lærers veile
 
 Utdanningsinstitusjonen skal tilby opplæring i veiledning og partene skal samarbeide om plan for gjennomføring av veiledningsopplæring.
 
-Praksisstudienes omfang skal være i tråd med direktiv [2005/36/EF](eu/32005l0036) om godkjenninger av yrkeskvalifikasjoner, med senere endringer herunder direktiv [2013/55/EU](eu/32013l0055). For å sikre kvalitet og kontinuitet skal praksisstudiene ha minimum to perioder av minst syv ukers varighet, hvorav én periode skal være i kommunale helse- og omsorgstjenester og én periode i spesialisthelsetjenesten. De to periodene må inkludere døgnkontinuerlig oppfølging av pasienter. Det bør legges til rette for at studenten får erfaring med både poliklinisk-, dag- og døgnbehandling i pasientens behandlingskjede i spesialisthelsetjenesten.
+For å sikre kvalitet og kontinuitet skal praksisstudiene ha minimum to perioder av minst syv ukers varighet, hvorav én periode skal være i kommunale helse- og omsorgstjenester og én periode i spesialisthelsetjenesten. De to periodene må inkludere døgnkontinuerlig oppfølging av pasienter. Det bør legges til rette for at studenten får erfaring med både poliklinisk-, dag- og døgnbehandling i pasientens behandlingskjede i spesialisthelsetjenesten.
 
-Praksisstudiene skal omfatte følgende praksisarenaer:
+Praksisstudiene skal være i tråd med yrkeskvalifikasjonsdirektivet, ha en personsentrert tilnærming og omfatte
 
-- Generell medisin og medisinske spesialiteter
-- Generell kirurgi og kirurgiske spesialiteter
-- Psykisk helse og psykiatri
-- Eldreomsorg og geriatri
-- Svangerskaps- og barselomsorg
-- Barnesykepleie og pediatrisk sykepleie
-- Hjemmesykepleie.
+- generell medisin og medisinske spesialiteter
+- generell kirurgi og kirurgiske spesialiteter
+- psykisk helse og psykiatri
+- eldreomsorg og geriatri
+- svangerskaps- og barselomsorg
+- pediatri og sykepleie til barn
+- kommunale helse- og omsorgstjenester, herunder hjemmesykepleie
+- e-helse.
 
 Det kan også legges til rette for praksisstudier ved andre relevante praksisarenaer.
 
-> **Endres** ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027), [23 jan 2026 nr. 81](forskrift/2026-01-23-81) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrifter [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027, tidligere § 23).
 
 ## Kapittel 9. Ikrafttredelse og overgangsordninger
 
-### § 24. Ikrafttredelse, overgangsordninger og oppheving av forskrift
+### § 25. Ikrafttredelse, overgangsordninger og oppheving av forskrift
 
 Forskriften trer i kraft 1. august 2025.
 
@@ -318,4 +322,4 @@ Universiteter og høyskoler som tilbyr utdanningen, kan tilby eksamen etter [for
 
 [Forskrift 15. mars 2019 nr. 412 om nasjonal retningslinje for sykepleierutdanning](forskrift/2019-03-15-412) oppheves 1. august 2025.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, og gjelder for utdanninger som starter opp etter 1 aug 2027).
+> Endret ved forskrift [18 des 2025 nr. 2985](forskrift/2025-12-18-2985) (i kraft 1 aug 2026, gjelder for utdanninger som starter opp etter 1 aug 2027, tidligere § 24).
