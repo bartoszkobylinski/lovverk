@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2015-08-01"
-last_change_in_force: "2022-09-13"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "89e92e13ae47652514c339c2a6b81bfaf40e9e1287956a2958ac3fe4aa0cedaf"
+xml_hash: "061f67f1ecf5062fe6a43e4070eebf326937f809baff0363ad434374e94a8e7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ Ph.d.-utdanningen skal kvalifisere for forskningsvirksomhet av internasjonal sta
 
 Ph.d.-utdanningen skal gi kandidaten kunnskap, ferdigheter og kompetanse i tråd med det nasjonale kvalifikasjonsrammeverket.
 
-Ph.d.-utdanningen er normert til tre års fulltidsstudier og inkluderer en opplæringsdel av minimum 60 studiepoengs omfang, i tillegg kommer pliktarbeid på ett års omfang. Opptak er for en periode på fire år.
+Ph.d.-utdanningen er normert til tre års fulltidsstudier og inkluderer en opplæringsdel av minimum 45 studiepoengs omfang, i tillegg kommer pliktarbeid på ett års omfang. Opptak er for en periode på fire år.
 
 Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid eller kombinert forsknings- og utviklingsarbeid som gjennomføres under aktiv veiledning.
 
@@ -48,7 +48,7 @@ Ph.d.-graden tildeles på grunnlag av:
 4. Godkjent prøveforelesning over oppgitt emne
 5. Godkjent offentlig forsvar av avhandlingen (disputas).
 
-> **Endres** ved forskrift [11 mars 2026 nr. 396](forskrift/2026-03-11-396) (i kraft 1 aug 2026).
+> Endret ved forskrift [11 mars 2026 nr. 396](forskrift/2026-03-11-396) (i kraft 1 aug 2026).
 
 ### § 1-3. Ansvaret for ph.d-utdanningen
 
