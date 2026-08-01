@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-08-01"
 last_updated: "2023-06-15"
-xml_hash: "907509679a1da543e489afae213ff4157ba38c75217e6ca04e0cbd1fa49c1b40"
+xml_hash: "a0bf5f7380768ae3a20336f3479aeef4a3104718cf9d6e7b5ff634ef6eec38c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T06:25:16.446498+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -29,11 +29,11 @@ eu_basis:
 
 (1) Loven gjelder virksomhet som består i ervervsmessig formidling av lån.
 
-(2) Loven gjelder ikke for banker, kredittforetak, finansieringsforetak, forsikringsforetak og pensjonskasser.
+(2) Loven gjelder ikke for banker, kredittforetak, finansieringsforetak, folkefinansieringsforetak, forsikringsforetak og pensjonskasser.
 
 (3) Departementet kan i forskrift gi regler om i hvilken utstrekning loven skal gjelde for Norges økonomiske sone og for Svalbard, Jan Mayen og bilandene.
 
-> **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 1-2. Definisjoner
 
