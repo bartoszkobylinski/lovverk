@@ -1,26 +1,26 @@
 ---
 id: "sf-20211216-3738"
-slug: "forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet"
+slug: "forskrift-om-tilskudd-til-frivillig-aktivitet-og-historieformidling-på-forsvars-og-sikkerhetsområdet"
 type: "forskrift"
 ref_id: "forskrift/2021-12-16-3738"
-title: "Forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet"
+title: "Forskrift om tilskudd til frivillig aktivitet og historieformidling på forsvars- og sikkerhetsområdet"
 short_title: null
 language: "no"
 ministry:
   - "Forsvarsdepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "9301d424baf888bf5e50d418cb9fac245ff395d7d39e5dce44b4fff7965846eb"
+xml_hash: "1697301f6c2b03273609b98f468582a31df86abe2070724a57f54e3ea2efad63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet
+# Forskrift om tilskudd til frivillig aktivitet og historieformidling på forsvars- og sikkerhetsområdet
 
 ## Kapittel 1. Virkeområde
 
@@ -29,10 +29,10 @@ eu_basis: []
 Formålet med å gi tilskudd til
 
 1. frivillige organisasjoner i [kapittel 2](forskrift/2021-12-16-3738/kap2) er å stimulere til en opplyst forsvarsdebatt, økt kunnskap om og forståelse for norsk sikkerhets- og forsvarspolitikk, og at samfunnet bidrar til og støtter oppunder Forsvarets mål og prioriteringer
-2. veteranorganisasjoner og veteranprosjekter i [kapittel 3](forskrift/2021-12-16-3738/kap3) er å stimulere til økt aktivitet for og ivaretakelse av de som har tjenestegjort for Forsvaret i internasjonale operasjoner, eller til aktivitet som fremmer kunnskap om og engasjement for denne gruppen
-3. historie- og minnekulturprosjekter relatert til andre verdenskrig i [kapittel 4](forskrift/2021-12-16-3738/kap4) er å bidra til ny kunnskap om og anerkjennelse av innsats for Norge under andre verdenskrig.
+2. veteranorganisasjoner og veteranprosjekter i [kapittel 3](forskrift/2021-12-16-3738/kap3) er å stimulere til økt aktivitet for og ivaretakelse av de som har tjenestegjort for Forsvaret i en internasjonal operasjon, internasjonal innsats eller lignende virksomhet, eller til aktivitet som fremmer kunnskap om og engasjement for denne gruppen
+3. formidling av historie og minne på forsvars- og sikkerhetsområdet i [kapittel 4](forskrift/2021-12-16-3738/kap4) er å spre kunnskap om forsvarshistorie og minne, med sikte på å nå ut til en bred offentlighet.
 
-> **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
+> Endret ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
 
 ### § 2. Definisjoner
 
@@ -101,20 +101,28 @@ I tilfeller der søkeren forhindres fra å overholde fristene grunnet forhold ut
 
 ### § 6. Hvem og hva det kan tildeles tilskudd til
 
-Forsvaret kan tildele driftsstøtte og prosjektstøtte til frivillige organisasjoner som er registrert i Frivillighetsregisteret.
+Forsvaret kan tildele driftsstøtte og prosjektstøtte til frivillige organisasjoner som
+
+1. er registrert i Frivillighetsregisteret.
+2. har medlemmer
+3. drives på ideelt og ikke-kommersielt grunnlag,
+4. har vedtekter som viser at de har en uavhengig, selvstendig, demokratisk oppbygging som sikrer at alle medlemmer har lik møte-, tale- og forslagsrett, stemmerett og rett til å la seg velge til representant.
 
 Driftsstøtte kan tildeles til en søker som har
 
 1. løpende administrative utgifter
-2. en formålsbestemmelse og virksomhet som er i samsvar med tilskuddsordningens formål i [§ 1](forskrift/2021-12-16-3738/§1) bokstav b
+2. en formålsbestemmelse og virksomhet som er i samsvar med tilskuddsordningens formål i [§ 1 bokstav b](forskrift/2021-12-16-3738/§1/bokstav/b)
 3. et eget budsjett, årsregnskap og årsmelding
-4. tilfredsstillende økonomikontroll.
+4. tilfredsstillende økonomikontroll
+5. minst ti tellende medlemmer eller består av minst tre organisasjoner som oppfyller kravene i første og andre ledd.
 
 Driftsstøtte kan ikke tildeles til en søker som mottar driftsstøtte etter [kapittel 2](forskrift/2021-12-16-3738/kap2).
 
+Med tellende medlem regnes en person som pr. 31. desember året før søknadsåret, frivillig og individuelt har meldt seg inn i organisasjonen, står i medlemsregisteret, har betalt årlig kontingent, har adresse i Norge og har fulle demokratiske rettigheter i organisasjonen. Søker skal føre et medlemsregister som minimum skal inneholde navn, adresse og informasjon om betalt årlig kontingent.
+
 Prosjektstøtte kan tildeles til en søker som har tilfredsstillende økonomikontroll og kan dokumentere at prosjektet
 
-1. ivaretar formålet i [§ 1](forskrift/2021-12-16-3738/§1) bokstav b
+1. ivaretar formålet i [§ 1 bokstav b](forskrift/2021-12-16-3738/§1/bokstav/b)
 2. har god budsjettbalanse
 3. har andre inntektskilder eller inkluderer frivillig egeninnsats.
 
@@ -122,9 +130,10 @@ Det tildeles ikke tilskudd til
 
 1. akademisk forskning
 2. forfatterstipend
-3. museumsdrift og drift og vedlikehold av Forsvarets utrangerte materiell.
+3. museumsdrift og drift og vedlikehold av Forsvarets utrangerte materiell
+4. prosjekter eller aktiviteter som er en del av Forsvarets oppfølgingsansvar.
 
-> **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026 med virkning fra tilskuddsåret 2027, se endringsforskriften for overgangsbestemmelser).
+> Endret ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026 med virkning fra tilskuddsåret 2027, se endringsforskriften for overgangsbestemmelser).
 
 ### § 7. Hvordan søknaden blir vurdert
 
@@ -133,19 +142,17 @@ I vurderingen av om det skal tildeles driftsstøtte skal det blant annet legges 
 1. relevans for aktuelle og prioriterte politikkområder
 2. evne til utvikling
 3. medlemstall
-4. evne til måloppnåelse i henhold til formålet i [§ 1](forskrift/2021-12-16-3738/§1) bokstav b.
+4. evne til måloppnåelse i henhold til formålet i [§ 1 bokstav b](forskrift/2021-12-16-3738/§1/bokstav/b).
 
 I vurderingen av om det skal tildeles prosjektstøtte skal det blant annet legges vekt på om prosjektet
 
-1. skaper aktiviteter for de som har tjenestegjort for Forsvaret i internasjonale operasjoner, og særlig aktiviteter som ivaretar og fanger opp de som ellers faller utenfor
+1. skaper aktiviteter og særlig aktiviteter som ivaretar og fanger opp de som ellers faller utenfor
 2. fremmer aktiviteter i nærmiljøet
-3. ivaretar familiene, særlig barn og unge, til de som har tjenestegjort for Forsvaret i internasjonale operasjoner
-4. fremmer anerkjennelse og respekt for de som har tjenestegjort for Forsvaret i internasjonale operasjoner
-5. skaper kontakt mellom skadde og friske, eldre og yngre
-6. særlig er rettet mot de som har tjenestegjort for Forsvaret i nyere internasjonale operasjoner
-7. fremmer samarbeid mellom veteranorganisasjoner.
+3. ivaretar familiene, særlig barn og unge,
+4. fremmer anerkjennelse og respekt, og skaper kontakt mellom skadde og friske, eldre og yngre
+5. særlig er rettet mot yngre og fremmer samarbeid mellom veteranorganisasjoner.
 
-> **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026 med virkning fra tilskuddsåret 2027, se endringsforskriften for overgangsbestemmelser).
+> Endret ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026 med virkning fra tilskuddsåret 2027, se endringsforskriften for overgangsbestemmelser).
 
 ### § 8. Støtte til anerkjennende prosjekter
 
@@ -155,45 +162,40 @@ Slik prosjektstøtte kan tildeles til en søker som kan dokumentere at prosjekte
 
 ### § 9. Søknads- og rapporteringsfrist
 
-En søknad om tilskudd skal være sendt senest 1. juni året før tildelingsåret.
+En søknad om tilskudd skal være sendt senest 1. september året før tildelingsåret.
 
-En rapport etter [§ 16](forskrift/2021-12-16-3738/§16) skal være sendt senest 1. juni året etter tildelingsåret.
+En rapport etter [§ 16](forskrift/2021-12-16-3738/§16) skal være sendt senest 1. september året etter tildelingsåret.
 
 I tilfeller der søkeren forhindres fra å overholde fristene grunnet forhold utenfor søkerens kontroll som søkeren ikke med rimelighet kunne ventes å ha overvunnet følgene av, kan tilskuddsforvalteren behandle søknader som er sendt inn etter fristen.
 
-> Endret ved forskrift [2 feb 2022 nr. 160](forskrift/2022-02-02-160). **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026 med virkning fra tilskuddsåret 2027, se endringsforskriften for overgangsbestemmelser).
+> Endret ved forskrifter [2 feb 2022 nr. 160](forskrift/2022-02-02-160), [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026 med virkning fra tilskuddsåret 2027, se endringsforskriften for overgangsbestemmelser).
 
-## Kapittel 4. Tilskudd til historie- og minnekulturprosjekter relatert til andre verdenskrig
+## Kapittel 4. Tilskudd til formidling av historie og minne på forsvars- og sikkerhetsområdet
 
-> **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
+> Endret ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
 
 ### § 10. Hvem og hva det kan tildeles tilskudd til
 
-Forsvarshistorisk museum kan tildele prosjektstøtte til organisasjoner, foretak, enkeltpersoner og i særlige tilfeller til andre aktører.
+Forsvarshistorisk museum kan tildele prosjektstøtte til organisasjoner, foretak og enkeltpersoner.
 
 Prosjektstøtte kan tildeles til en søker som kan dokumentere at prosjektet
 
-1. ivaretar formålet i [§ 1](forskrift/2021-12-16-3738/§1) bokstav c
+1. ivaretar formålet i [§ 1 bokstav c](forskrift/2021-12-16-3738/§1/bokstav/c)
 2. har god budsjettbalanse
 3. har andre inntektskilder eller inkluderer frivillig egeninnsats.
 
-Det tildeles ikke tilskudd til
+Det tildeles ikke tilskudd til museumsdrift, oppføring og rehabilitering av bygninger, samt drift og vedlikehold av Forsvarets utrangerte materiell.
 
-1. akademisk forskning
-2. forfatterstipend
-3. museumsdrift, oppføring og rehabilitering av bygninger, samt drift og vedlikehold av Forsvarets utrangerte materiell.
-
-> Endret ved forskrift [9 okt 2024 nr. 2475](forskrift/2024-10-09-2475) (i kraft 1 jan 2025). **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
+> Endret ved forskrifter [9 okt 2024 nr. 2475](forskrift/2024-10-09-2475) (i kraft 1 jan 2025), [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
 
 ### § 11. Hvordan søknaden blir vurdert
 
 I vurderingen av om det skal tildeles prosjektstøtte skal det legges vekt på om prosjektet
 
-1. bidrar til ny kunnskap om og anerkjennelse av innsats for Norge under andre verdenskrig.
-2. har betydelig informasjonseffekt og er tilgjengelig for en bredere offentlighet.
-3. har nasjonal interesse eller ungdom som prioritert målgruppe.
+1. bidrar til kunnskap om forsvarshistorie, og stimulerer til kritisk refleksjon.
+2. bidrar til formidling og synliggjøring, og er tilgjengelig for en bred offentlighet.
 
-> **Endres** ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
+> Endret ved forskrift [9 juli 2026 nr. 1547](forskrift/2026-07-09-1547) (i kraft 1 aug 2026).
 
 ### § 12. Søknads- og rapporteringsfrist
 
