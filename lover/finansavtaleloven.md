@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2022-02-24"
-xml_hash: "af5d3a44ac932017ad8adb10deb04eec7b4b0d3a5979719ffa1ad20e7f4aa2ae"
+xml_hash: "b2fb7bfaf2d0381610b60b0dd11dcb94dae281e9162b1221c599031a40e6b0be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -341,11 +341,11 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 (5) Tjenesteyteren kan ikke kreve særskilt vederlag for oppfyllelse av opplysnings- eller varslingsplikter etter denne loven eller forskrift gitt i medhold av loven. I den utstrekning det er avtalt, kan det likevel kreves rimelige gebyrer i samsvar med tjenesteyterens faktiske kostnader for ytterligere eller hyppigere opplysninger eller varsler mv., eller for at opplysninger stilles til rådighet på annen måte enn det som kreves etter lov eller forskrift.
 
-(6) Annet til femte ledd gjelder ikke for tjenester som er omfattet av [verdipapirhandelloven](lov/2007-06-29-75) eller [verdipapirfondloven](lov/2011-11-25-44).
+(6) Annet til femte ledd gjelder ikke for tjenester som er omfattet av [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44) eller [folkefinansieringsloven](lov/2026-02-06-2).
 
 (7) Kongen kan i forskrift fastsette nærmere regler om tjenesteyterens plikter etter første til femte ledd, herunder krav til faglige kvalifikasjoner for virksomheten og ansatte i virksomheten, krav om dokumentasjon av kvalifikasjonene og regler om tilsyn med disse kravene.
 
-> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lover [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)), [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 3-2. Elektroniske meldinger, varsler og skriftlig dokument
 
@@ -558,7 +558,7 @@ En tjenesteyter som tilbyr en kunde å inngå finansavtale ved bruk av elektroni
 
 (2) Opplysningsplikten etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-29](lov/2020-12-18-146/§3-29) gjelder for alle avtaler om finansielle tjenester som inngås ved fjernsalg, og for avtaler etter [kapittel 4](lov/2020-12-18-146/kap4), [5](lov/2020-12-18-146/kap5) og [6](lov/2020-12-18-146/kap6) uansett salgsform. Opplysningsplikten etter [§§ 3-24](lov/2020-12-18-146/§3-24) til [3-29](lov/2020-12-18-146/§3-29) gjelder uansett salgsform også for følgende avtaler:
 
-1. avtaler om finansoppdrag som ikke er omfattet av [verdipapirhandelloven](lov/2007-06-29-75) eller [verdipapirfondloven](lov/2011-11-25-44)
+1. avtaler om finansoppdrag som ikke er omfattet av [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44) eller [folkefinansieringsloven](lov/2026-02-06-2)
 2. avtaler som inngås med en forbruker om leiefinansiering som nevnt i [§ 5-23](lov/2020-12-18-146/§5-23) annet ledd når avtalen varer mer enn 30 dager regnet fra utløpet av leveringsmåneden for leieobjektet
 3. avtaler om finansiell garanti e.l. til fordel for en forbruker.
 
@@ -570,7 +570,7 @@ En tjenesteyter som tilbyr en kunde å inngå finansavtale ved bruk av elektroni
 
 (6) Kongen kan i forskrift gi nærmere regler om opplysningsplikt for visse avtaler eller finansielle tjenester som helt eller delvis fraviker opplysningsplikten i første ledd.
 
-> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lover [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)), [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 3-23. Hvordan opplysningene skal gis
 
@@ -986,13 +986,13 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 ### § 3-56. Forholdet til andre lover. Definisjoner
 
-(1) [§§ 3-57](lov/2020-12-18-146/§3-57) og [3-58](lov/2020-12-18-146/§3-58) gjelder ikke for tjenester som er omfattet av [verdipapirhandelloven](lov/2007-06-29-75) eller [verdipapirfondloven](lov/2011-11-25-44).
+(1) [§§ 3-57](lov/2020-12-18-146/§3-57) og [3-58](lov/2020-12-18-146/§3-58) gjelder ikke for tjenester som er omfattet av [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44) eller [folkefinansieringsloven](lov/2026-02-06-2).
 
 (2) Med finansagent menes en tjenesteyter som formidler finansielle tjenester på oppdrag fra en eller flere tjenesteytere, og som handler fullt og helt på oppdragsgiverens ansvar for de finansielle tjenestene som formidles.
 
 (3) Med finansmegler menes en tjenesteyter som formidler finansielle tjenester som et uavhengig mellomledd og ikke påtar seg å fremme noen av partenes interesser særskilt.
 
-> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lover [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)), [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 3-57. Krav til finansmegleres uavhengighet mv.
 
