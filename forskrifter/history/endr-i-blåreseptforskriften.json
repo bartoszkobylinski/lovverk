@@ -10,56 +10,6 @@
       "subject": "add(forskrift): endr-i-blåreseptforskriften",
       "to_path": null,
       "type": "added"
-    },
-    {
-      "commit": "ac8ef91",
-      "date": "2026-05-09",
-      "from_path": null,
-      "lines_added": 29,
-      "lines_removed": 0,
-      "subject": "add(forskrift): endr-i-blåreseptforskriften",
-      "to_path": null,
-      "type": "added"
-    },
-    {
-      "commit": "5511aa4",
-      "date": "2026-05-04",
-      "from_path": null,
-      "lines_added": 0,
-      "lines_removed": 39,
-      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
-      "to_path": null,
-      "type": "updated"
-    },
-    {
-      "commit": "3d499af",
-      "date": "2026-04-29",
-      "from_path": null,
-      "lines_added": 2,
-      "lines_removed": 1,
-      "subject": "migration: backfill eu_basis for 4523 documents",
-      "to_path": null,
-      "type": "updated"
-    },
-    {
-      "commit": "3dddeca",
-      "date": "2026-04-27",
-      "from_path": "forskrifter/sf-20250402-0577.md",
-      "lines_added": 2,
-      "lines_removed": 1,
-      "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "forskrifter/endr-i-blåreseptforskriften.md",
-      "type": "renamed"
-    },
-    {
-      "commit": "57c3052",
-      "date": "2026-04-26",
-      "from_path": null,
-      "lines_added": 37,
-      "lines_removed": 0,
-      "subject": "sync: 4522 new, 0 changed, 0 removed",
-      "to_path": null,
-      "type": "added"
     }
   ],
   "schema_version": 1,

@@ -7,25 +7,9 @@ source_license: "NLOD 2.0"
 
 # psykisk-helsevernforskriften — Change history
 
-_4 events; doc_id `sf-20260529-0941`._
+_1 events; doc_id `sf-20260529-0941`._
 
 ## 2026-06-02 — Added to corpus
 Lines: +225 -359.
 Subject: `add(forskrift): psykisk-helsevernforskriften`
 Commit: `b2087ef`.
-
-## 2026-04-29 — Content updated
-Lines: +2 -1.
-Subject: `migration: backfill eu_basis for 4523 documents`
-Commit: `3d499af`.
-
-## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20111216-1258.md` → `forskrifter/psykisk-helsevernforskriften.md`.
-Lines: +2 -1.
-Subject: `migration: rename 4522 documents to slug-based filenames`
-Commit: `3dddeca`.
-
-## 2026-04-26 — Added to corpus
-Lines: +601 -0.
-Subject: `sync: 4522 new, 0 changed, 0 removed`
-Commit: `57c3052`.

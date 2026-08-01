@@ -2,6 +2,16 @@
   "doc_id": "sf-20260710-1545",
   "events": [
     {
+      "commit": "25bb3ad",
+      "date": "2026-07-31",
+      "from_path": "forskrifter/forskrift-om-omregningsfaktorer.md",
+      "lines_added": 0,
+      "lines_removed": 0,
+      "subject": "rename(forskrift): forskrift-om-omregningsfaktorer-2026",
+      "to_path": "forskrifter/forskrift-om-omregningsfaktorer-2026.md",
+      "type": "renamed"
+    },
+    {
       "commit": "ce3df5a",
       "date": "2026-07-14",
       "from_path": null,

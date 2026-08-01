@@ -10,26 +10,6 @@
       "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
       "to_path": null,
       "type": "updated"
-    },
-    {
-      "commit": "2745936",
-      "date": "2026-06-16",
-      "from_path": null,
-      "lines_added": 2,
-      "lines_removed": 2,
-      "subject": "update(lov): endringslov-til-folketrygdloven-2",
-      "to_path": null,
-      "type": "updated"
-    },
-    {
-      "commit": "dc22d74",
-      "date": "2026-06-13",
-      "from_path": null,
-      "lines_added": 89,
-      "lines_removed": 0,
-      "subject": "add(lov): endringslov-til-folketrygdloven-2",
-      "to_path": null,
-      "type": "added"
     }
   ],
   "schema_version": 1,
