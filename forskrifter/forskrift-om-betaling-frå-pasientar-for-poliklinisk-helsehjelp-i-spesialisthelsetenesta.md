@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2024-06-18"
-xml_hash: "6d4ff89099c5c68fdd5976b675a7ea211f416c5620f5901fa5d114e6facfe1ac"
+xml_hash: "b8096a7176bcdfc9a29de80a0c495047e5ea0eed54bb229bf37528499c23fe47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,7 @@ Godkjend eigendel som nemnd i [§ 4](forskrift/2016-12-20-1848/§4) vert i fylgj
 2. ved behandling for skade og sjukdom som går inn under kapittel 13, jf. [§ 5-25 i folketrygdlova](lov/1997-02-28-19/§5-25) og under lov om krigspensjonering for militærpersoner og lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner. Helsehjelpa kan ikkje gjevast av militært helsepersonell.
 3. ved behandling av personar som er innsette i anstaltane til kriminalomsorga dersom helsehjelpa vert gjeven av anna personell enn det som er knytt til helsetenester til innsette.
 4. ved behandling der tilstanden til pasienten er til hinder for å krevje eigendelen, til dømes ved alvorlege sinnslidingar, behandling etter [pasient- og brukerrettighetsloven kapittel 4A](lov/1999-07-02-63/kap4a), større akutt skade, medvitsløyse og dødsfall.
-5. ved behandling av born under 16 år.
+5. ved behandling av born under 18 år.
 6. ved poliklinisk helsehjelp til pasientar innanfor psykisk helsevern og tverrfaglig spesialisert behandling for rusmiddelavhengighet (TSB) til og med det kalenderår dei fyller 26 år og poliklinisk helsehjelp av rusavhengnad i PUT til pasientar under 30 år.
 7. ved oppsøkjande behandling av rusmiddelavhengige.
 8. ved undersøking, behandling og kontroll av ålmennfarlege smittsame sjukdomar etter [smittevernlova § 3-5](lov/1994-08-05-55/§3-5), [§ 3-6](lov/1994-08-05-55/§3-6) og [§ 5-1](lov/1994-08-05-55/§5-1) og elles når det er behov for undersøking, behandling eller kontroll for ålmennfarlege smittsame sjukdomar, dersom pasienten har grunn til å tru seg smitta eller helsepersonellet får mistanke om at det foreligger ein ålmennfarleg smittsam sjukdom.
@@ -84,7 +84,7 @@ Godkjend eigendel som nemnd i [§ 4](forskrift/2016-12-20-1848/§4) vert i fylgj
 
 Ved behandling som nemnd i bokstav h skal helsepersonellet grunngje i pasienten sin journal at eitt eller fleire av vilkåra for dekkjing av eigendel er oppfylt. Staten dekkjer eigendel for helsehjelp etter bokstav h for pasientar som oppheld seg i riket sjølv om pasienten ikkje er medlem av folketrygda.
 
-> Endra ved [forskrifter 19 des 2018 nr. 2166](forskrift/2018-12-19-2166) (i kraft 1 jan 2019), [29 juni 2020 nr. 1449](forskrift/2020-06-29-1449) (i kraft 3 juli 2020), [30 juni 2023 nr. 1182](forskrift/2023-06-30-1182) (i kraft 1 juli 2023), [19 des 2024 nr. 3291](forskrift/2024-12-19-3291) (i kraft 1 jan 2025), [17 jan 2025 nr. 46](forskrift/2025-01-17-46), [2 sep 2025 nr. 1769](forskrift/2025-09-02-1769). **Vert endra** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endra ved [forskrifter 19 des 2018 nr. 2166](forskrift/2018-12-19-2166) (i kraft 1 jan 2019), [29 juni 2020 nr. 1449](forskrift/2020-06-29-1449) (i kraft 3 juli 2020), [30 juni 2023 nr. 1182](forskrift/2023-06-30-1182) (i kraft 1 juli 2023), [19 des 2024 nr. 3291](forskrift/2024-12-19-3291) (i kraft 1 jan 2025), [17 jan 2025 nr. 46](forskrift/2025-01-17-46), [2 sep 2025 nr. 1769](forskrift/2025-09-02-1769), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ## § 6. Betalingsfritak ved forseinking
 
@@ -100,11 +100,11 @@ Om den avtala timen gjeld poliklinisk helsehjelp innan psykiatri eller rusbehand
 
 ## § 8. Pasientbetaling for bandasjemateriell og bedøvingsmiddel
 
-Ved behandling i poliklinikk innan somatikk kan pasienten verta kravd for 75 kroner som betaling for bandasjemateriell og/eller bedøvingsmiddel, men berre i lag med godkjent eigendel etter [§ 4 andre ledd](forskrift/2016-12-20-1848/§4/ledd/2). Betalinga kan berre verta kravd ein gong pr. konsultasjon. Det skal ikkje krevjast betaling frå born under 16 år.
+Ved behandling i poliklinikk innan somatikk kan pasienten verta kravd for 75 kroner som betaling for bandasjemateriell og/eller bedøvingsmiddel, men berre i lag med godkjent eigendel etter [§ 4 andre ledd](forskrift/2016-12-20-1848/§4/ledd/2). Betalinga kan berre verta kravd ein gong pr. konsultasjon. Det skal ikkje krevjast betaling frå born under 18 år.
 
 I høve godkjend yrkesskade etter lov [28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd [kapittel 13](lov/1997-02-28-19/kap13), og godkjend krigsskade etter [lov 13. desember 1946 nr. 21](lov/1946-12-13-21) om krigspensjonering for militærpersonell og [lov 13. desember 1946 nr. 22](lov/1946-12-13-22) om krigspensjonering for hjemmestyrkepersonell og sivilpersoner, vert kostnader etter fyrste leden dekte av staten.
 
-> Endra ved [forskrifter 14 nov 2018 nr. 1704](forskrift/2018-11-14-1704), [1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [22 des 2020 nr. 3093](forskrift/2020-12-22-3093) (i kraft 1 jan 2021), [9 april 2025 nr. 652](forskrift/2025-04-09-652) (i kraft 1 juli 2025). **Vert endra** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endra ved [forskrifter 14 nov 2018 nr. 1704](forskrift/2018-11-14-1704), [1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [22 des 2020 nr. 3093](forskrift/2020-12-22-3093) (i kraft 1 jan 2021), [9 april 2025 nr. 652](forskrift/2025-04-09-652) (i kraft 1 juli 2025), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ## § 9. Pasientbetaling for særskilt helsehjelp
 
