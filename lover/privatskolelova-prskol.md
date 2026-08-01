@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2003-10-01"
-last_change_in_force: "2026-06-19"
+last_change_in_force: "2026-08-01"
 last_updated: "2022-03-29"
-xml_hash: "3436ac09ef6ee4380586ce6467f22bcbe1489e582d61738af53f3f7d4433acf9"
+xml_hash: "40e4780ff1cf696b9568cdfa8ddbea4c86cdafcae1ef93e33cc0acb9c5611fee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -284,7 +284,7 @@ Når det er nødvendig for å vareta ansvaret etter første til tredje ledd, kan
 
 Med tenesteytarar er det her meint kommunale, fylkeskommunale og statlege tenesteytarar, private tenesteytarar som utfører oppgåver på vegner av ein slik tenesteytar, barnehagar som får tilskot etter [barnehageloven § 19](lov/2005-06-17-64/§19) og skolar som får statstilskot etter [privatskolelova § 6-1](lov/2003-07-04-84/§6-1).
 
-> Tilføyd ved lov [21 juni 2013 nr. 98](lov/2013-06-21-98) (ikr. 1 aug 2013 iflg. [res. 21 juni 2013 nr. 685](forskrift/2013-06-21-685)), endra ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) som endra ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)).
+> Tilføyd ved lov [21 juni 2013 nr. 98](lov/2013-06-21-98) (ikr. 1 aug 2013 iflg. [res. 21 juni 2013 nr. 685](forskrift/2013-06-21-685)), endra ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871), endring endra ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39)).
 
 ### § 3-6 b. (Oppheva)
 
@@ -882,7 +882,7 @@ Alle som utfører tenester eller arbeid etter denne lova, skal utan hinder av te
 
 Alle som utfører tenester eller arbeid etter denne lova, har også plikt til å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 
-> Endra ved lover [29 juni 2007 nr. 92](lov/2007-06-29-92) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 757](forskrift/2007-06-29-757)), [20 apr 2018 nr. 5](lov/2018-04-20-5) (ikr. 1 juli 2018 iflg. [res. 8 juni 2018 nr. 839](forskrift/2018-06-08-839)), [11 juni 2021 nr. 78](lov/2021-06-11-78) som endra ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endra ved lover [29 juni 2007 nr. 92](lov/2007-06-29-92) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 757](forskrift/2007-06-29-757)), [20 apr 2018 nr. 5](lov/2018-04-20-5) (ikr. 1 juli 2018 iflg. [res. 8 juni 2018 nr. 839](forskrift/2018-06-08-839)), [11 juni 2021 nr. 78](lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871), endring endra ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
 
 ### § 7-5. Opplysningar til den kommunale helse- og omsorgstenesta og sosialtenesta
 
@@ -918,7 +918,7 @@ Ved skolebyte kan skolar hente inn dei personopplysningane frå andre skolar som
 
 Vidaregåande skolar kan hente inn dei personopplysningane frå grunnskolar som er nødvendige for å oppfylle retten til vidaregåande opplæring, gjennomføre inntak til vidaregåande opplæring og førebyggje fråvær frå opplæringa.
 
-Ved skolebyte etter andre ledd og ved overgang til vidaregåande opplæring etter tredje ledd kan skolane også dele personopplysningar, å leggje til rette opplæringa til ein elev dersom eleven eller foreldra tillèt det.
+Ved skolebyte etter andre ledd og ved overgang til vidaregåande opplæring etter tredje ledd kan skolane også dele personopplysningar for å leggje til rette opplæringa til ein elev dersom eleven eller foreldra tillèt det. Ved skolebyte skal skolen dele personopplysningar som er nødvendige for å førebyggje oppførsel som i vesentleg grad går utover skolemiljøet til medelevane eller arbeidsmiljøet til dei tilsette.
 
 Behandlinga av personopplysningar etter første til fjerde ledd kan også omfatte personopplysningar som nemnde i [personvernforordninga artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10).
 
@@ -926,7 +926,7 @@ Departementet kan gi forskrift om behandlinga av personopplysningar, mellom anna
 
 Utlevering av opplysningar etter andre, tredje og fjerde ledd kan gjerast utan hinder av teieplikt.
 
-> Tilføyd ved lov [11 juni 2021 nr. 80](lov/2021-06-11-80) (ikr. 1 aug 2021 iflg. [res. 11 juni 2021 nr. 1899](forskrift/2021-06-11-1899)), endra ved lov [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)). **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+> Tilføyd ved lov [11 juni 2021 nr. 80](lov/2021-06-11-80) (ikr. 1 aug 2021 iflg. [res. 11 juni 2021 nr. 1899](forskrift/2021-06-11-1899)), endra ved lover [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)), [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 7-10. Plikt til å levere vitnemål frå vidaregåande opplæring til nasjonal database for vitnemål og dokumentasjon av kompetanse
 
@@ -948,7 +948,7 @@ For skolar som tilbyr særskilt tilrettelagd vidaregåande opplæring i kombinas
 
 For skolar som var godkjende før endringa i [§ 2-2](lov/2003-07-04-84/§2-2) fjerde ledd tok til å gjelde, gjeld [§ 2-2](lov/2003-07-04-84/§2-2) fjerde ledd andre punktum frå 1. august 2018.
 
-> Endra ved lover [4 juli 2003 nr. 85](lov/2003-07-04-85) (ikr. 1 okt 2003), tidlegare § 7-7, [29 juni 2007 nr. 92](lov/2007-06-29-92) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 757](forskrift/2007-06-29-757)), [19 juni 2015 nr. 75](lov/2015-06-19-75) (ikr. 1 aug 2015 iflg. [res. 19 juni 2015 nr. 701](forskrift/2015-06-19-701)), [16 juni 2017 nr. 70](lov/2017-06-16-70) (ikr. 1 aug 2017 iflg. [res. 16 juni 2017 nr. 754](forskrift/2017-06-16-754)).
+> Endra ved lover [4 juli 2003 nr. 85](lov/2003-07-04-85) (ikr. 1 okt 2003, tidlegare § 7-7), [29 juni 2007 nr. 92](lov/2007-06-29-92) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 757](forskrift/2007-06-29-757)), [19 juni 2015 nr. 75](lov/2015-06-19-75) (ikr. 1 aug 2015 iflg. [res. 19 juni 2015 nr. 701](forskrift/2015-06-19-701)), [16 juni 2017 nr. 70](lov/2017-06-16-70) (ikr. 1 aug 2017 iflg. [res. 16 juni 2017 nr. 754](forskrift/2017-06-16-754)).
 
 ### § 8-2. Iverksetjing
 
@@ -956,4 +956,4 @@ Lova tek til å gjelde frå 1. oktober 2003.
 
 Samstundes blir [lov 14. juni 1985 nr. 73](lov/1985-06-14-73) om tilskot til private grunnskular og private skular som gjev vidaregåande opplæring (privatskulelova) oppheva.
 
-> Endra ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), tidlegare § 8-3.
+> Endra ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidlegare § 8-3).
