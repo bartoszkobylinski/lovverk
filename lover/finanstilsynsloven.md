@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-04-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "1c69fe4ff8a2d5f8182050de636ecd170c662c3ae9a503f3eeee5d84327c84ed"
+xml_hash: "26e7da3f47c6c45431091b9b862d5dc67cf8f0cc8deb329d2f956c7505c0cb0e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -55,10 +55,11 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 16. verdipapirforetak og andre foretak som driver virksomhet i forbindelse med verdipapirhandel, samt med overholdelsen av bestemmelser om verdipapirhandel gitt i eller i medhold av lov
 17. statsautoriserte revisorer og revisjonsselskaper
 18. statsautoriserte regnskapsførere og regnskapselskaper
-19. filial av utenlandsk kredittinstitusjon for så vidt gjelder virksomhet som drives i Norge
-20. utenlandske finansforetaks representasjonskontorer i Norge
-21. andre foretak, når det er fastsatt i eller i medhold av lov
-22. andre foretak, når det besluttes ved enkeltvedtak i medhold av lov.
+19. folkefinansieringsforetak
+20. filial av utenlandsk kredittinstitusjon for så vidt gjelder virksomhet som drives i Norge
+21. utenlandske finansforetaks representasjonskontorer i Norge
+22. andre foretak, når det er fastsatt i eller i medhold av lov
+23. andre foretak, når det besluttes ved enkeltvedtak i medhold av lov.
 
 (2) Når et foretak som nevnt i første ledd er en del av et konsern, skal det føres tilsyn etter denne loven også med andre foretak i konsernet. Når tilsynsmessige hensyn tilsier det, gjelder dette også den delen av virksomheten til foretakene i konsernet som ikke ellers omfattes av denne loven.
 
@@ -68,7 +69,7 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 
 (5) Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra paragrafen her.
 
-> **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 1-3. Tilsyn med foretak og markeder
 
