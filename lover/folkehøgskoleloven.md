@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-08-01"
 last_change_in_force: "2026-06-19"
 last_updated: "2025-11-12"
-xml_hash: "e0d5db2abe5fca88fa5d9b448571a4f39b6089a2af6c2cd4fa2ed0fa00f4e52d"
+xml_hash: "473d30d4365854e4051c48c50442cd9048dc4ed2f73da25054609bdee037db06"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -119,8 +119,6 @@ Departementet ansetter elevombudet på åremål for en periode på fire til seks
 
 [Forvaltningslovens](lov/1967-02-10) regler om taushetsplikt gjelder for elevombudet, jf. [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g).
 
-1 I kraft fra 1. aug 2026 iflg. [res. 20 juni 2025 nr. 1098](forskrift/2025-06-20-1098).
-
 ### § 12. Politiattest og forbud mot ansettelse
 
 Den som skal ansettes fast eller midlertidig ved en folkehøgskole, skal legge fram politiattest som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1). Personer som er dømt for seksuelle overgrep mot mindreårige, skal ikke ansettes fast eller midlertidig i slike skoler. I andre tilfeller må konsekvensene av merknader på politiattesten vurderes konkret.
@@ -165,15 +163,11 @@ Departementet kan gi forskrift med nærmere regler om opptak, blant annet om sø
 
 Avgjørelser om opptak er enkeltvedtak, og reglene i [forvaltningsloven](lov/1967-02-10) gjelder.
 
-1 I kraft fra 1. aug 2026 iflg. [res. 20 juni 2025 nr. 1098](forskrift/2025-06-20-1098).
-
 ### § 17. Skoleregler
 
 Folkehøgskolen skal fastsette skoleregler med rettigheter og plikter til elevene. Skolereglene skal regulere orden og oppførsel, hvilke tiltak som kan benyttes mot elever som bryter reglene, og hvordan slike saker skal behandles.
 
 Skolereglene skal være offentlig tilgjengelige.
-
-1 I kraft fra 1. aug 2026 iflg. [res. 20 juni 2025 nr. 1098](forskrift/2025-06-20-1098).
 
 ### § 18. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
 
@@ -229,9 +223,8 @@ Loven gjelder fra den tiden[^1] Kongen bestemmer. Fra det tidspunktet loven trer
 
 Dispensasjoner gitt med hjemmel i [lov 8. juni 1984 nr. 64 om folkehøgskolar § 3 tredje ledd](lov/1984-06-08-64/§3/ledd/3) fortsetter å gjelde.
 
-1 Fra 1. august 2025 for [§§ 1](lov/2025-06-20-99/§1) til [10](lov/2025-06-20-99/§10), [§§ 12](lov/2025-06-20-99/§12) til [15](lov/2025-06-20-99/§15) og [§§ 18](lov/2025-06-20-99/§18) til [24](lov/2025-06-20-99/§24) og
-fra 1. august 2026 for [§§ 11](lov/2025-06-20-99/§11), [16](lov/2025-06-20-99/§16) og [17](lov/2025-06-20-99/§17),
-iflg. [res. 20 juni 2025 nr. 1098](forskrift/2025-06-20-1098).
+1 Fra 1. august 2025 for [§§ 1](lov/2025-06-20-99/§1) til [10](lov/2025-06-20-99/§10), [§§ 12](lov/2025-06-20-99/§12) til [15](lov/2025-06-20-99/§15) og [§§ 18](lov/2025-06-20-99/§18) til [24](lov/2025-06-20-99/§24),
+fra 1. august 2026 for [§§ 11](lov/2025-06-20-99/§11), [16](lov/2025-06-20-99/§16) og [17](lov/2025-06-20-99/§17) iflg. [res. 20 juni 2025 nr. 1098](forskrift/2025-06-20-1098).
 
 ## Vedlegg. Samisk oversettelse
 
