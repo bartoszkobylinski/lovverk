@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2024-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "ff473f31b7366b5aed40fa7f187c5d39db006e9335202024e9fcfeeffdaf7a32"
+xml_hash: "cd349162c712fc98cfa96f742082b55a9361481710069f4fb8350a6312b1dd33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -57,7 +57,7 @@ Det ytes stønad etter honorartakstene:
 3. Ved behandling av et medlem som er innsatt i fengselsvesenets anstalter, dersom legehjelpen gis ved annet personell enn det som er knyttet til fengselshelsetjenesten.
 4. Ved behandling hvor pasientens tilstand er til hinder for at legen kan innkreve egenandelen, f.eks. ved alvorlige sinnslidelser, behandling etter [pasient- og brukerrettighetsloven kapittel 4A](lov/1999-07-02-63/kap4A), akutte større skader, bevisstløshet og dødsfall. Legen må kort begrunne kravet overfor Helsedirektoratet eller det organ Helsedirektoratet bestemmer. I tillegg til behandlingstaksten dekkes også utgifter til bandasjemateriell, infusjonsvæsker, oksygen og medikamenter som medgår ved behandlingen etter egen spesifisert regning. Dette gjelder ikke når hjelpen gis ved tilkalt ambulanse.
 5. Ved psykoterapeutisk behandling i spesialisthelsetjenesten av pasienter til og med det kalenderår pasientene fyller 26 år.
-6. Ved behandling av barn under 16 år.
+6. Ved behandling av barn under 18 år.
 7. Ved undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer (jf. [forskrift 1. januar 1995 nr. 100 om allmennfarlige smittsomme sykdommer](forskrift/1995-01-01-100)).
 
    Det ytes godtgjørelse etter honorartakstene dersom
@@ -77,7 +77,7 @@ Det ytes stønad etter honorartakstene:
 10. Ved veiledning om, innsetting eller fjerning av langtidsvirkende prevensjon til kvinner i fertil alder som får behandling i Legemiddelassistert rehabilitering (LAR).
 11. Ved to oppfølgingssamtaler etter abort.
 
-> Endret ved forskrifter [19 des 2024 nr. 3289](forskrift/2024-12-19-3289) (i kraft 1 jan 2025), [30 juni 2025 nr. 1416](forskrift/2025-06-30-1416) (i kraft 1 juli 2025). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+> Endret ved forskrifter [19 des 2024 nr. 3289](forskrift/2024-12-19-3289) (i kraft 1 jan 2025), [30 juni 2025 nr. 1416](forskrift/2025-06-30-1416) (i kraft 1 juli 2025), [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 4. (Opphevet)
 
