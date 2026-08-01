@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2007-11-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-01"
 last_updated: "2023-02-02"
-xml_hash: "a91120ad09ddc254955a31ef3af399f0d88fab649dd6b494d7e0cde012dd13ef"
+xml_hash: "6f85513e363d28bcd00f56af99a1afb01d825b3f0591146a99dd70db3394fa5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T16:54:24.870765+00:00"
+retrieved_at: "2026-08-01T06:26:11.637345+00:00"
 status: "current"
 eu_basis:
   - "32014R0596"
@@ -934,13 +934,13 @@ Aksjeeiere som forsømmer sin tilbudsplikt etter [§ 6-1](lov/2007-06-29-75/§6-
 
 ### § 7-1. Prospektforordningen
 
-(1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29bd forordning [(EU) 2017/1129](eu/32017r1129) (om prospekter ved offentlige tilbud og notering på regulert marked (prospektforordningen)), som endret ved forordning [(EU) 2019/2115](eu/32019r2115) om å fremme bruken av SMB-vekstmarkeder og forordning [(EU) 2021/337](eu/32021r0337) om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
+(1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29bd forordning [(EU) 2017/1129](eu/32017r1129) (om prospekter ved offentlige tilbud og notering på regulert marked ([prospektforordningen](eu/32017r1129))), som endret ved forordning [(EU) 2019/2115](eu/32019r2115) om å fremme bruken av SMB-vekstmarkeder, forordning [(EU) 2020/1503](eu/32020r1503) ([folkefinansieringsforordningen](eu/32020r1503)) og forordning [(EU) 2021/337](eu/32021r0337) om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
 (2) Når det i loven her vises til prospektforordningen, menes forordningen slik den til enhver tid er gjennomført eller endret etter første eller tredje ledd.
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her og i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført i første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.
 
-> Endret ved lover [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802), kap endret i sin helhet), [22 des 2021 nr. 162](lov/2021-12-22-162) (i kraft 1 mai 2022 iflg. [res. 8 april 2022 nr. 551](forskrift/2022-04-08-551)), [31 mars 2023 nr. 4](lov/2023-03-31-4) (i kraft 1 juni 2023 iflg. [res. 21 april 2023 nr. 525](forskrift/2023-04-21-525)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lover [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802), kap endret i sin helhet), [22 des 2021 nr. 162](lov/2021-12-22-162) (i kraft 1 mai 2022 iflg. [res. 8 april 2022 nr. 551](forskrift/2022-04-08-551)), [31 mars 2023 nr. 4](lov/2023-03-31-4) (i kraft 1 juni 2023 iflg. [res. 21 april 2023 nr. 525](forskrift/2023-04-21-525)), [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 7-2. Anvendelse på egenkapitalbevis
 
@@ -1186,7 +1186,8 @@ Departementet kan fastsette utfyllende forskrifter til [§§ 7-1](lov/2007-06-29
 6. pensjonskasser,
 7. depotmottakere for verdipapirfond, pensjonskasser og alternative investeringsfond,
 8. verdipapirsentral med unntak av det som fremgår av verdipapirsentralforordningen artikkel 73 jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1),
-9. forvaltere av alternative investeringsfond.
+9. forvaltere av alternative investeringsfond,
+10. folkefinansieringsforetak.
 
 (2) Første ledd gjelder tilsvarende for:
 
@@ -1217,7 +1218,7 @@ Departementet kan fastsette utfyllende forskrifter til [§§ 7-1](lov/2007-06-29
 
 (4) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Endret ved lover [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 feb 2023 iflg. [res. 13 jan 2023 nr. 42](forskrift/2023-01-13-42)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
+> Endret ved lover [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 feb 2023 iflg. [res. 13 jan 2023 nr. 42](forskrift/2023-01-13-42)), [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 9-4. Lovens anvendelse for kredittinstitusjoner
 
