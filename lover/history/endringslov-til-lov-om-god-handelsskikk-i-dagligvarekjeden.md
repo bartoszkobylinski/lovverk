@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-lov-om-god-handelsskikk-i-dagligvarekjeden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-lov-om-god-handelsskikk-i-dagligvarekjeden — Change history
 
 _2 events; doc_id `nl-20251222-129`._

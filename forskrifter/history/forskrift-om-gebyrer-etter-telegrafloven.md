@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyrer-etter-telegrafloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyrer-etter-telegrafloven — Change history
 
 _2 events; doc_id `sf-19900813-0678`._

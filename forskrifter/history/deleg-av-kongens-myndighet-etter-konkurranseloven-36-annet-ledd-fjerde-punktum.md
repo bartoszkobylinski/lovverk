@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-konkurranseloven-36-annet-ledd-fjerde-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-konkurranseloven-36-annet-ledd-fjerde-punktum — Change history
 
 _1 events; doc_id `sf-20210326-0992`._

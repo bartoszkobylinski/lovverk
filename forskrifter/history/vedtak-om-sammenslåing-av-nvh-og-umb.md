@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-sammenslåing-av-nvh-og-umb"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-sammenslåing-av-nvh-og-umb — Change history
 
 _1 events; doc_id `sf-20130621-0734`._

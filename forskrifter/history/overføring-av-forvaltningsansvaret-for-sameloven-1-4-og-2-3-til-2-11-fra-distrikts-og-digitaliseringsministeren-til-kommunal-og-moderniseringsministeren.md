@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-sameloven-1-4-og-2-3-til-2-11-fra-distrikts-og-digitaliseringsministeren-til-kommunal-og-moderniseringsministeren"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-sameloven-1-4-og-2-3-til-2-11-fra-distrikts-og-digitaliseringsministeren-til-kommunal-og-moderniseringsministeren — Change history
 
 _1 events; doc_id `sf-20210219-0489`._

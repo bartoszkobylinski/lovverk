@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-skifteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-skifteloven — Change history
 
 _1 events; doc_id `sf-19931210-1120`._

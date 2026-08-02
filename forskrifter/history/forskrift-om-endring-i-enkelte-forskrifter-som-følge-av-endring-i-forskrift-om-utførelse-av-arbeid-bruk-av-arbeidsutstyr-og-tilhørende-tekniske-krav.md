@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-enkelte-forskrifter-som-følge-av-endring-i-forskrift-om-utførelse-av-arbeid-bruk-av-arbeidsutstyr-og-tilhørende-tekniske-krav"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-enkelte-forskrifter-som-følge-av-endring-i-forskrift-om-utførelse-av-arbeid-bruk-av-arbeidsutstyr-og-tilhørende-tekniske-krav — Change history
 
 _2 events; doc_id `sf-20251216-2617`._

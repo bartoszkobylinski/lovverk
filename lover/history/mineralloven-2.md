@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mineralloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mineralloven-2 — Change history
 
 _4 events; doc_id `nl-20250620-107`._

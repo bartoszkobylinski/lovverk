@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-forsinkelsesrenteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-forsinkelsesrenteloven — Change history
 
 _1 events; doc_id `sf-20031212-1509`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kmd-etter-klimakvoteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kmd-etter-klimakvoteloven — Change history
 
 _1 events; doc_id `sf-20090227-0247`._

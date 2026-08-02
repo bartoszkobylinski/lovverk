@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-departementet-for-utviklingshjelp"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-departementet-for-utviklingshjelp — Change history
 
 _1 events; doc_id `sf-19831223-1830`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-2007-28-endr-pensjonslover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-2007-28-endr-pensjonslover — Change history
 
 _1 events; doc_id `sf-20070615-0653`._

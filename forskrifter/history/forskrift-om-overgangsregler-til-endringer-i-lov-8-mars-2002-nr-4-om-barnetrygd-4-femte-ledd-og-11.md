@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-endringer-i-lov-8-mars-2002-nr-4-om-barnetrygd-4-femte-ledd-og-11"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-endringer-i-lov-8-mars-2002-nr-4-om-barnetrygd-4-femte-ledd-og-11 — Change history
 
 _2 events; doc_id `sf-20240626-1360`._

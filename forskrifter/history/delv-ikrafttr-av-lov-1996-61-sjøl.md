@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delv-ikrafttr-av-lov-1996-61-sjøl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delv-ikrafttr-av-lov-1996-61-sjøl — Change history
 
 _1 events; doc_id `sf-19960802-0744`._

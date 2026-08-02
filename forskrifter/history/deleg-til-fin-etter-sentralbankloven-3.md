@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-sentralbankloven-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-sentralbankloven-3 — Change history
 
 _1 events; doc_id `sf-20110527-0560`._

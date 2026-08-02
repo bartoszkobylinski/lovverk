@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregel-til-endring-i-rettsgebyrloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregel-til-endring-i-rettsgebyrloven — Change history
 
 _1 events; doc_id `sf-20061222-1575`._

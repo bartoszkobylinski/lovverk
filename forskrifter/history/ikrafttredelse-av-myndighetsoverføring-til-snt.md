@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-myndighetsoverføring-til-snt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-myndighetsoverføring-til-snt — Change history
 
 _1 events; doc_id `sf-19890302-0152`._

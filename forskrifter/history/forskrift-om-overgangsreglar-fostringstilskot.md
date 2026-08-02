@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsreglar-fostringstilskot"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsreglar-fostringstilskot — Change history
 
 _2 events; doc_id `sf-20030115-0119`._

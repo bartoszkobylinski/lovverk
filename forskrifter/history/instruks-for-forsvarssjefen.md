@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-forsvarssjefen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-forsvarssjefen — Change history
 
 _1 events; doc_id `sf-20031128-1935`._

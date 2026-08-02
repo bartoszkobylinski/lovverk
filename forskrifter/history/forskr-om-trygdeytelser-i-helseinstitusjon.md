@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-trygdeytelser-i-helseinstitusjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-trygdeytelser-i-helseinstitusjon — Change history
 
 _2 events; doc_id `sf-19741212-0001`._

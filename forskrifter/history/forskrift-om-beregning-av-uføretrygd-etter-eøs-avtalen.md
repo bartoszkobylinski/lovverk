@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-beregning-av-uføretrygd-etter-eøs-avtalen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beregning-av-uføretrygd-etter-eøs-avtalen — Change history
 
 _2 events; doc_id `sf-20150212-0130`._

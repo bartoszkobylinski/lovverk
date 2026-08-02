@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-reindriften-for-andel-av-verdiskaping-fra-vindkraft"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-reindriften-for-andel-av-verdiskaping-fra-vindkraft — Change history
 
 _2 events; doc_id `sf-20251126-2331`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anvendelse-av-lov-om-informasjon-om-bestemt-angitte-områder-skjermingsverdige-objekter-og-bunnforhold-på-svalbard-og-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anvendelse-av-lov-om-informasjon-om-bestemt-angitte-områder-skjermingsverdige-objekter-og-bunnforhold-på-svalbard-og-jan-mayen — Change history
 
 _2 events; doc_id `sf-20180622-0950`._

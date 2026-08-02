@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-uføres-opptjening-i-off-tjenestepensjonsordning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-uføres-opptjening-i-off-tjenestepensjonsordning — Change history
 
 _2 events; doc_id `sf-20150619-0710`._

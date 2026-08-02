@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-til-bld-etter-sosialtjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-til-bld-etter-sosialtjenesteloven — Change history
 
 _1 events; doc_id `sf-19921002-0690`._

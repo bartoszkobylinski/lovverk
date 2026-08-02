@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-domstolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-domstolloven — Change history
 
 _1 events; doc_id `sf-20120203-0119`._

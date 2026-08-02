@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-sentralbankloven-30a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-sentralbankloven-30a — Change history
 
 _1 events; doc_id `sf-20091127-1406`._

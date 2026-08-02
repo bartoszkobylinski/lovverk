@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-måling-avregning-fakturering-av-nettjenester-og-elektrisk-energi-nettselskapets-nøytralitet-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-måling-avregning-fakturering-av-nettjenester-og-elektrisk-energi-nettselskapets-nøytralitet-mv — Change history
 
 _2 events; doc_id `sf-20250627-1364`._

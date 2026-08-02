@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-til-fiskeridirektoratet-fiske-ved-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-til-fiskeridirektoratet-fiske-ved-svalbard — Change history
 
 _1 events; doc_id `sf-19990901-1001`._

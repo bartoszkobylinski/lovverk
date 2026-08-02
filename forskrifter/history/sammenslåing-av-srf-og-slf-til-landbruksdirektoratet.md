@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-srf-og-slf-til-landbruksdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-srf-og-slf-til-landbruksdirektoratet — Change history
 
 _1 events; doc_id `sf-20140606-0729`._

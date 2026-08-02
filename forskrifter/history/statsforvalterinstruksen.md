@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "statsforvalterinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # statsforvalterinstruksen — Change history
 
 _1 events; doc_id `sf-19810807-3642`._

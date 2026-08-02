@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tildeling-av-myndighet-til-lmd-etter-tolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tildeling-av-myndighet-til-lmd-etter-tolloven — Change history
 
 _1 events; doc_id `sf-20161202-1426`._

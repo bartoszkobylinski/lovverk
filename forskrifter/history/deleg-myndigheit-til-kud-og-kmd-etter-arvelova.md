@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndigheit-til-kud-og-kmd-etter-arvelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndigheit-til-kud-og-kmd-etter-arvelova — Change history
 
 _1 events; doc_id `sf-20150619-0667`._

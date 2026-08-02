@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-driftsavtale-for-fysioterapeuter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-driftsavtale-for-fysioterapeuter — Change history
 
 _2 events; doc_id `sf-20111216-1392`._

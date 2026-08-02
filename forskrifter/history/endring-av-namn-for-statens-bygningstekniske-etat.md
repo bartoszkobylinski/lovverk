@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endring-av-namn-for-statens-bygningstekniske-etat"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endring-av-namn-for-statens-bygningstekniske-etat — Change history
 
 _1 events; doc_id `sf-20110916-0964`._

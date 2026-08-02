@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "anerkjennelse-av-norges-røde-kors-rett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # anerkjennelse-av-norges-røde-kors-rett — Change history
 
 _2 events; doc_id `sf-20090821-1148`._

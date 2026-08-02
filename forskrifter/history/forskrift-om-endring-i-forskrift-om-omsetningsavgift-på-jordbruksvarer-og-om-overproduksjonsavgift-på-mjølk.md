@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk — Change history
 
 _5 events; doc_id `sf-20260624-1260`._

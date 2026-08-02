@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-om-aldersgrense-for-yrkesbefal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-om-aldersgrense-for-yrkesbefal — Change history
 
 _1 events; doc_id `sf-20000324-0291`._

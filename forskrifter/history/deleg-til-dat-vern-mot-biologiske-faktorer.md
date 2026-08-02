@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dat-vern-mot-biologiske-faktorer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dat-vern-mot-biologiske-faktorer — Change history
 
 _1 events; doc_id `sf-20020304-0231`._

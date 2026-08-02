@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-fondsavsetn-miljøtiltak-1977"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-fondsavsetn-miljøtiltak-1977 — Change history
 
 _2 events; doc_id `sf-19771202-0003`._

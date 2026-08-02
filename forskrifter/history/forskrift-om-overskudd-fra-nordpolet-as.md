@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overskudd-fra-nordpolet-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overskudd-fra-nordpolet-as — Change history
 
 _2 events; doc_id `sf-20000405-0347`._

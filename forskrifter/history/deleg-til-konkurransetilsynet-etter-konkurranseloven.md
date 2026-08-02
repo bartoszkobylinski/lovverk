@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-konkurransetilsynet-etter-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-konkurransetilsynet-etter-konkurranseloven — Change history
 
 _1 events; doc_id `sf-20041221-1724`._

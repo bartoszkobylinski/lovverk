@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "meddelelse-om-ikrafttredelse-av-lov-2018-38"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # meddelelse-om-ikrafttredelse-av-lov-2018-38 — Change history
 
 _1 events; doc_id `sf-20180717-1195`._

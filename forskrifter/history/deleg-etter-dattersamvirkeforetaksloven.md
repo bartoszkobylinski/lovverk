@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-dattersamvirkeforetaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-dattersamvirkeforetaksloven — Change history
 
 _1 events; doc_id `sf-20040611-0836`._

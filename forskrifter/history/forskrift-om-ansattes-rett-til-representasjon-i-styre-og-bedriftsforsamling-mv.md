@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ansattes-rett-til-representasjon-i-styre-og-bedriftsforsamling-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ansattes-rett-til-representasjon-i-styre-og-bedriftsforsamling-mv — Change history
 
 _2 events; doc_id `sf-20170824-1278`._

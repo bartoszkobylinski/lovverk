@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-lov-29-april-2005-nr-20-om-innkreving-av-underholdsbidrag-mv-fra-finansdepartementet-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-lov-29-april-2005-nr-20-om-innkreving-av-underholdsbidrag-mv-fra-finansdepartementet-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-20251031-2165`._

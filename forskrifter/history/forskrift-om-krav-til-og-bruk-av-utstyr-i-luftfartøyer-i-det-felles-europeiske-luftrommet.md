@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfartøyer-i-det-felles-europeiske-luftrommet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfartøyer-i-det-felles-europeiske-luftrommet — Change history
 
 _4 events; doc_id `sf-20240902-2076`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-mva-for-frivillige-organisasjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-mva-for-frivillige-organisasjoner — Change history
 
 _2 events; doc_id `sf-20181023-1600`._

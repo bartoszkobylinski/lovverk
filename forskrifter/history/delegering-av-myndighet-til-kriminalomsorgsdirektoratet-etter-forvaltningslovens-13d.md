@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-kriminalomsorgsdirektoratet-etter-forvaltningslovens-13d"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-kriminalomsorgsdirektoratet-etter-forvaltningslovens-13d — Change history
 
 _1 events; doc_id `sf-20230323-0425`._

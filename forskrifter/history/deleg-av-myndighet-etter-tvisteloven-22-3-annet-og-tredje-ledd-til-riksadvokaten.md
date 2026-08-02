@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-tvisteloven-22-3-annet-og-tredje-ledd-til-riksadvokaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-tvisteloven-22-3-annet-og-tredje-ledd-til-riksadvokaten — Change history
 
 _1 events; doc_id `sf-20190307-0193`._

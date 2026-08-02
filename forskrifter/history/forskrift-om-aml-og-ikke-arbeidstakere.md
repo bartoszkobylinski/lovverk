@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-aml-og-ikke-arbeidstakere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-aml-og-ikke-arbeidstakere — Change history
 
 _2 events; doc_id `sf-20051216-1568`._

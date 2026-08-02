@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utanrettsleg-gjeldsordning-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utanrettsleg-gjeldsordning-m-m — Change history
 
 _2 events; doc_id `sf-20011031-1274`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rentekompensasjon-for-kirker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rentekompensasjon-for-kirker — Change history
 
 _2 events; doc_id `sf-20140901-1139`._

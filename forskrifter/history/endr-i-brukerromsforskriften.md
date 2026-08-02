@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-brukerromsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-brukerromsforskriften — Change history
 
 _1 events; doc_id `sf-20260619-1149`._

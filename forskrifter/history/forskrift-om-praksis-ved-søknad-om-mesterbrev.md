@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-praksis-ved-søknad-om-mesterbrev"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-praksis-ved-søknad-om-mesterbrev — Change history
 
 _2 events; doc_id `sf-20020313-0407`._

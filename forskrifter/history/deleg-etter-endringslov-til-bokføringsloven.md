@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-endringslov-til-bokføringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-endringslov-til-bokføringsloven — Change history
 
 _1 events; doc_id `sf-20140124-0054`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-sivilbeskyttelsesloven-2-til-å-gi-bestemmelser-om-at-sivilbeskyttelsesloven-15a-skal-gjelde-for-svalbard-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-sivilbeskyttelsesloven-2-til-å-gi-bestemmelser-om-at-sivilbeskyttelsesloven-15a-skal-gjelde-for-svalbard-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20220520-0875`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sikkerhetslovens-anvendelse-for-svalbard-og-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sikkerhetslovens-anvendelse-for-svalbard-og-jan-mayen — Change history
 
 _2 events; doc_id `sf-20181220-2059`._

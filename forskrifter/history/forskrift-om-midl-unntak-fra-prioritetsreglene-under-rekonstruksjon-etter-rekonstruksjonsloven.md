@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-midl-unntak-fra-prioritetsreglene-under-rekonstruksjon-etter-rekonstruksjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midl-unntak-fra-prioritetsreglene-under-rekonstruksjon-etter-rekonstruksjonsloven — Change history
 
 _4 events; doc_id `sf-20200511-0974`._

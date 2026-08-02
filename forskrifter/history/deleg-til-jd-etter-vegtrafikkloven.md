@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-vegtrafikkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-vegtrafikkloven — Change history
 
 _1 events; doc_id `sf-20140606-0702`._

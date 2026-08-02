@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-delegering-av-myndighet-til-sjøfartsdirektoratet-etter-forvaltningsloven-13d"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-delegering-av-myndighet-til-sjøfartsdirektoratet-etter-forvaltningsloven-13d — Change history
 
 _1 events; doc_id `sf-20221124-2018`._

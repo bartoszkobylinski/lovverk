@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-fastsettelse-av-renter-for-beskatning-av-kraftforetak-for-inntektsåret-2021"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-fastsettelse-av-renter-for-beskatning-av-kraftforetak-for-inntektsåret-2021 — Change history
 
 _2 events; doc_id `sf-20220119-0082`._

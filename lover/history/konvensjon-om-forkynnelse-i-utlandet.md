@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "konvensjon-om-forkynnelse-i-utlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # konvensjon-om-forkynnelse-i-utlandet — Change history
 
 _2 events; doc_id `nl-19651115-000`._

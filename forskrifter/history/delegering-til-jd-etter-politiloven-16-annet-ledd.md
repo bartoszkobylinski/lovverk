@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-jd-etter-politiloven-16-annet-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-jd-etter-politiloven-16-annet-ledd — Change history
 
 _1 events; doc_id `sf-20160205-0102`._

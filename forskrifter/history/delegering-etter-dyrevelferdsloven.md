@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-dyrevelferdsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-dyrevelferdsloven — Change history
 
 _1 events; doc_id `sf-20101020-1356`._

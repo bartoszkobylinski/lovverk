@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tidsfrist-for-lovlighetskontroll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tidsfrist-for-lovlighetskontroll — Change history
 
 _2 events; doc_id `sf-19930113-4041`._

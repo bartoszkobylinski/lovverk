@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-fra-flb"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-fra-flb — Change history
 
 _2 events; doc_id `sf-20090331-0381`._

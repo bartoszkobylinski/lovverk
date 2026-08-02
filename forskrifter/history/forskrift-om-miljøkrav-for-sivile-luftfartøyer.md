@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-miljøkrav-for-sivile-luftfartøyer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-miljøkrav-for-sivile-luftfartøyer — Change history
 
 _2 events; doc_id `sf-19910531-0349`._

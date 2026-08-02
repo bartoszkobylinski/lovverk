@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-fri-rettshjelp"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-fri-rettshjelp — Change history
 
 _2 events; doc_id `sf-20030801-0988`._

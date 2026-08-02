@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-parkeringsgebyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-parkeringsgebyr — Change history
 
 _2 events; doc_id `sf-20160318-0261`._

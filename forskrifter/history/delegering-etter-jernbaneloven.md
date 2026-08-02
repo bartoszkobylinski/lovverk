@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-jernbaneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-jernbaneloven — Change history
 
 _1 events; doc_id `sf-19961122-1076`._

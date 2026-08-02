@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-finansskatt-på-lønn-2020"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-finansskatt-på-lønn-2020 — Change history
 
 _1 events; doc_id `sf-20191213-1823`._

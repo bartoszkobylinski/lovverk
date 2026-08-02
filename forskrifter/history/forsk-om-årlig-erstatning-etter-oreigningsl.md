@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-årlig-erstatning-etter-oreigningsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-årlig-erstatning-etter-oreigningsl — Change history
 
 _4 events; doc_id `sf-19841207-1957`._

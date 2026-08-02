@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-verdipapir-og-interbankoppgjør-i-insolvenssituasjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-verdipapir-og-interbankoppgjør-i-insolvenssituasjoner — Change history
 
 _2 events; doc_id `sf-20160922-1095`._

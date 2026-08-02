@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-forsvarsdepartementet-etter-lov-8-juni-2018-nr-28-om-høyere-yrkesfaglig-utdanning-2-andre-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-forsvarsdepartementet-etter-lov-8-juni-2018-nr-28-om-høyere-yrkesfaglig-utdanning-2-andre-ledd — Change history
 
 _1 events; doc_id `sf-20260619-1145`._

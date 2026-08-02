@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-politiets-sikkerhetstjeneste"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-politiets-sikkerhetstjeneste — Change history
 
 _1 events; doc_id `sf-20050819-0920`._

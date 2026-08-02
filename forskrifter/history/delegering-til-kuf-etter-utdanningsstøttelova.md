@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kuf-etter-utdanningsstøttelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kuf-etter-utdanningsstøttelova — Change history
 
 _1 events; doc_id `sf-19980123-0073`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilsynsmyndighet-etter-romloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilsynsmyndighet-etter-romloven — Change history
 
 _1 events; doc_id `sf-20260630-1450`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kompetanse-til-å-avgjøre-klage-på-seksjoneringsvedtak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kompetanse-til-å-avgjøre-klage-på-seksjoneringsvedtak — Change history
 
 _1 events; doc_id `sf-20171025-2463`._

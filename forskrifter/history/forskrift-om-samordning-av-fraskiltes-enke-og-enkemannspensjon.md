@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-av-fraskiltes-enke-og-enkemannspensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-av-fraskiltes-enke-og-enkemannspensjon — Change history
 
 _2 events; doc_id `sf-20150122-0051`._

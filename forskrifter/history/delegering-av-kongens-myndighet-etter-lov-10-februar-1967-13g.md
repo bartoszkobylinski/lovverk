@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-10-februar-1967-13g"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-10-februar-1967-13g — Change history
 
 _1 events; doc_id `sf-20241115-2785`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-konkurranseloven-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-konkurranseloven-på-svalbard — Change history
 
 _2 events; doc_id `sf-20081017-1126`._

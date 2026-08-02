@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-graden-dr-philos-ved-ntnu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-graden-dr-philos-ved-ntnu — Change history
 
 _2 events; doc_id `sf-20140121-0117`._

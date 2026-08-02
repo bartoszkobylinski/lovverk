@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-konsesjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-konsesjonsloven — Change history
 
 _1 events; doc_id `sf-19741213-4049`._

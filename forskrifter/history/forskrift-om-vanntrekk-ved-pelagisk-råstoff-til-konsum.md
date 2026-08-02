@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vanntrekk-ved-pelagisk-råstoff-til-konsum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vanntrekk-ved-pelagisk-råstoff-til-konsum — Change history
 
 _2 events; doc_id `sf-20040415-0627`._

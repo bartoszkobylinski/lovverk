@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-fid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-fid — Change history
 
 _1 events; doc_id `sf-19970919-1015`._

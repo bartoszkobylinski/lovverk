@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-forskrift-om-lokalstyrevalg-longyearbyen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-forskrift-om-lokalstyrevalg-longyearbyen — Change history
 
 _1 events; doc_id `sf-20150320-0841`._

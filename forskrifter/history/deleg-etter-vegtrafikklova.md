@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-vegtrafikklova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-vegtrafikklova — Change history
 
 _1 events; doc_id `sf-20101015-1344`._

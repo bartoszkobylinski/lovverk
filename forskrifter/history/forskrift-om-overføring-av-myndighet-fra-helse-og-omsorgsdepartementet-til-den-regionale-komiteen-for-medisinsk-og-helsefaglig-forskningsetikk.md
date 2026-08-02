@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overføring-av-myndighet-fra-helse-og-omsorgsdepartementet-til-den-regionale-komiteen-for-medisinsk-og-helsefaglig-forskningsetikk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overføring-av-myndighet-fra-helse-og-omsorgsdepartementet-til-den-regionale-komiteen-for-medisinsk-og-helsefaglig-forskningsetikk — Change history
 
 _2 events; doc_id `sf-20260601-0962`._

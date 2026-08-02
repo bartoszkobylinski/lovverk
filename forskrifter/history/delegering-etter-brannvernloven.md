@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-brannvernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-brannvernloven — Change history
 
 _1 events; doc_id `sf-19960719-0702`._

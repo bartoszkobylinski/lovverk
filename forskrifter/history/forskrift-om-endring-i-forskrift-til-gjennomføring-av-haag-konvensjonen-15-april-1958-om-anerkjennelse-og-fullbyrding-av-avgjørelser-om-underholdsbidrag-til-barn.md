@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-til-gjennomføring-av-haag-konvensjonen-15-april-1958-om-anerkjennelse-og-fullbyrding-av-avgjørelser-om-underholdsbidrag-til-barn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-til-gjennomføring-av-haag-konvensjonen-15-april-1958-om-anerkjennelse-og-fullbyrding-av-avgjørelser-om-underholdsbidrag-til-barn — Change history
 
 _2 events; doc_id `sf-20250911-1817`._

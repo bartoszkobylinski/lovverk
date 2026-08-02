@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-til-ld-kvalitetskontroll-av-landbruksvarer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-til-ld-kvalitetskontroll-av-landbruksvarer — Change history
 
 _2 events; doc_id `sf-19911115-0737`._

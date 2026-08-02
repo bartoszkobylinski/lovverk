@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fullmakt-til-kongen-til-å-ettergi-skadebøter-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fullmakt-til-kongen-til-å-ettergi-skadebøter-m-m — Change history
 
 _1 events; doc_id `sf-19880210-4875`._

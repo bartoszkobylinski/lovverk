@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet — Change history
 
 _5 events; doc_id `sf-20260622-1185`._

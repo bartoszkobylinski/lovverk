@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-dispensasjon-for-forskningsfartøyer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-dispensasjon-for-forskningsfartøyer — Change history
 
 _2 events; doc_id `sf-20090605-0617`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-eksotiske-dyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-eksotiske-dyr — Change history
 
 _2 events; doc_id `sf-20170511-0597`._

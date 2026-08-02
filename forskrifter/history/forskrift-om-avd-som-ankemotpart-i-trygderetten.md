@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-avd-som-ankemotpart-i-trygderetten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avd-som-ankemotpart-i-trygderetten — Change history
 
 _2 events; doc_id `sf-20060630-0744`._

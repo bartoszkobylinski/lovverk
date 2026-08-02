@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-anvendelsesområde-for-lov-om-domfelte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-anvendelsesområde-for-lov-om-domfelte — Change history
 
 _2 events; doc_id `sf-19950201-0090`._

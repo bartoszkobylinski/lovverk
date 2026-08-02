@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-adgang-for-visse-foretak-etablert-i-det-forente-kongeriket-storbritannia-og-nord-irland-til-å-yte-porteføljeforvaltning-til-nærmere-angitte-norske-profesjonelle-kunder-lokalisert-i"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-adgang-for-visse-foretak-etablert-i-det-forente-kongeriket-storbritannia-og-nord-irland-til-å-yte-porteføljeforvaltning-til-nærmere-angitte-norske-profesjonelle-kunder-lokalisert-i — Change history
 
 _2 events; doc_id `sf-20211130-3303`._

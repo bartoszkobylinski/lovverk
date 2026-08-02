@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-sd-etter-aetr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-sd-etter-aetr — Change history
 
 _1 events; doc_id `sf-19840829-1662`._

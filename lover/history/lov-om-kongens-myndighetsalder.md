@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-kongens-myndighetsalder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-kongens-myndighetsalder — Change history
 
 _2 events; doc_id `nl-19210513-002`._

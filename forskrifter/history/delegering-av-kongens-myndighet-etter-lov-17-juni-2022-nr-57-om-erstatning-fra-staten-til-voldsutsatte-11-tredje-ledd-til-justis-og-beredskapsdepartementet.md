@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-17-juni-2022-nr-57-om-erstatning-fra-staten-til-voldsutsatte-11-tredje-ledd-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-17-juni-2022-nr-57-om-erstatning-fra-staten-til-voldsutsatte-11-tredje-ledd-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20230901-1386`._

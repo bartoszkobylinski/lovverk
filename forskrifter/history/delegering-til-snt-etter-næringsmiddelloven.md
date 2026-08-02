@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-snt-etter-næringsmiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-snt-etter-næringsmiddelloven — Change history
 
 _1 events; doc_id `sf-19900326-1227`._

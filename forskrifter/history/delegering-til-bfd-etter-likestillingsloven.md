@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-bfd-etter-likestillingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-bfd-etter-likestillingsloven — Change history
 
 _1 events; doc_id `sf-19980717-0738`._

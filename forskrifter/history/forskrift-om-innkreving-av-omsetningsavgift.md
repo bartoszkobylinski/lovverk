@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-innkreving-av-omsetningsavgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innkreving-av-omsetningsavgift — Change history
 
 _2 events; doc_id `sf-19961220-1343`._

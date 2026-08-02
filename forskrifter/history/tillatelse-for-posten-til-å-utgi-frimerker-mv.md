@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tillatelse-for-posten-til-å-utgi-frimerker-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tillatelse-for-posten-til-å-utgi-frimerker-mv — Change history
 
 _2 events; doc_id `sf-20010831-1074`._

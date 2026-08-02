@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-rett-og-plikt-til-deltagelse-i-opplæring-i-norsk-og-samfunnskunnskap-for-personer-som-omfattes-av-separasjonsavtalen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-rett-og-plikt-til-deltagelse-i-opplæring-i-norsk-og-samfunnskunnskap-for-personer-som-omfattes-av-separasjonsavtalen — Change history
 
 _2 events; doc_id `sf-20201218-2830`._

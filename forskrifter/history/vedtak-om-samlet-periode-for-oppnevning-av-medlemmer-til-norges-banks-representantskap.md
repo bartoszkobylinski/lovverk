@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-samlet-periode-for-oppnevning-av-medlemmer-til-norges-banks-representantskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-samlet-periode-for-oppnevning-av-medlemmer-til-norges-banks-representantskap — Change history
 
 _1 events; doc_id `sf-20191125-1561`._

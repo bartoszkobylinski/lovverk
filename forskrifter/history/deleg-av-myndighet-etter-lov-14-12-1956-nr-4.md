@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lov-14-12-1956-nr-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lov-14-12-1956-nr-4 — Change history
 
 _1 events; doc_id `sf-19910920-0619`._

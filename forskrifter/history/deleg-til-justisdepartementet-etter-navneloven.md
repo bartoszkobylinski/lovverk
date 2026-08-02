@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-justisdepartementet-etter-navneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-justisdepartementet-etter-navneloven — Change history
 
 _1 events; doc_id `sf-20020607-0527`._

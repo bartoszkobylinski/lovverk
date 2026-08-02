@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fid-etter-fiskeoppdrettsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fid-etter-fiskeoppdrettsloven — Change history
 
 _1 events; doc_id `sf-19910614-0377`._

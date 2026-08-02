@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-yrkesskadeforsikringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-yrkesskadeforsikringsloven — Change history
 
 _1 events; doc_id `sf-19891013-1040`._

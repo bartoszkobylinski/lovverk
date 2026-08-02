@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sikkerhetslovens-anvendelse-for-virksomheter-i-dronning-maud-land"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sikkerhetslovens-anvendelse-for-virksomheter-i-dronning-maud-land — Change history
 
 _2 events; doc_id `sf-20191206-1645`._

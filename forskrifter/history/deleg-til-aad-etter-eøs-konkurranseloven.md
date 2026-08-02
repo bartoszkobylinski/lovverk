@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-aad-etter-eøs-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-aad-etter-eøs-konkurranseloven — Change history
 
 _1 events; doc_id `sf-20040416-0630`._

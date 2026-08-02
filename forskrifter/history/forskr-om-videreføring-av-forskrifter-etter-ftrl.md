@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-videreføring-av-forskrifter-etter-ftrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-videreføring-av-forskrifter-etter-ftrl — Change history
 
 _2 events; doc_id `sf-19980116-0037`._

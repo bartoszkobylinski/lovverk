@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-til-lov-om-forvaltning-av-alternative-investeringsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-til-lov-om-forvaltning-av-alternative-investeringsfond — Change history
 
 _2 events; doc_id `sf-20260326-0494`._

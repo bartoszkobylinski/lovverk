@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-vigselsrett-for-sjømannsprest"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-vigselsrett-for-sjømannsprest — Change history
 
 _1 events; doc_id `sf-19870622-0546`._

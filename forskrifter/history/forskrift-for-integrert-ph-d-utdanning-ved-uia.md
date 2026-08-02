@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-integrert-ph-d-utdanning-ved-uia"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-integrert-ph-d-utdanning-ved-uia — Change history
 
 _2 events; doc_id `sf-20170622-1145`._

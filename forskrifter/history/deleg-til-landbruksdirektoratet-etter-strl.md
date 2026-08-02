@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-landbruksdirektoratet-etter-strl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-landbruksdirektoratet-etter-strl — Change history
 
 _1 events; doc_id `sf-20120629-0700`._

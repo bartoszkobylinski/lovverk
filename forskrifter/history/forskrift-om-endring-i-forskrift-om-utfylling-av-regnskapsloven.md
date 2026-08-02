@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-utfylling-av-regnskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-utfylling-av-regnskapsloven — Change history
 
 _2 events; doc_id `sf-20250613-1003`._

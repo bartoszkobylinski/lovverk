@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-det-alm-prisreguleringsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-det-alm-prisreguleringsfond — Change history
 
 _2 events; doc_id `sf-19920124-4316`._

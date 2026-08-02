@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvaret-for-behandling-av-klagesaker-etter-finnmarksloven-27-syvende-ledd-fra-kommunal-og-distriktsdepartementet-til-landbruks-og-matdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvaret-for-behandling-av-klagesaker-etter-finnmarksloven-27-syvende-ledd-fra-kommunal-og-distriktsdepartementet-til-landbruks-og-matdepartementet — Change history
 
 _1 events; doc_id `sf-20230317-0351`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-avrensordningen-for-poteter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-avrensordningen-for-poteter — Change history
 
 _2 events; doc_id `sf-20090402-0386`._

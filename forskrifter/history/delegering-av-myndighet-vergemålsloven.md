@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-vergemålsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-vergemålsloven — Change history
 
 _1 events; doc_id `sf-19901214-0982`._

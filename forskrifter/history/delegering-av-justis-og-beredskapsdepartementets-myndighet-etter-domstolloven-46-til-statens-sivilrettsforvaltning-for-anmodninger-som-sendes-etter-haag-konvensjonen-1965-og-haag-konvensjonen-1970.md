@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-justis-og-beredskapsdepartementets-myndighet-etter-domstolloven-46-til-statens-sivilrettsforvaltning-for-anmodninger-som-sendes-etter-haag-konvensjonen-1965-og-haag-konvensjonen-1970"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-justis-og-beredskapsdepartementets-myndighet-etter-domstolloven-46-til-statens-sivilrettsforvaltning-for-anmodninger-som-sendes-etter-haag-konvensjonen-1965-og-haag-konvensjonen-1970 — Change history
 
 _1 events; doc_id `sf-20221031-1972`._

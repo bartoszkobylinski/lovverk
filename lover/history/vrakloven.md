@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vrakloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vrakloven — Change history
 
 _5 events; doc_id `nl-18930720-002`._

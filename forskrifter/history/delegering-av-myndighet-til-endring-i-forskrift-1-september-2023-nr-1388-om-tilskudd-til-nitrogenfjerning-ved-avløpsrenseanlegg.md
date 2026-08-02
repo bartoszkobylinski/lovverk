@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-endring-i-forskrift-1-september-2023-nr-1388-om-tilskudd-til-nitrogenfjerning-ved-avløpsrenseanlegg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-endring-i-forskrift-1-september-2023-nr-1388-om-tilskudd-til-nitrogenfjerning-ved-avløpsrenseanlegg — Change history
 
 _1 events; doc_id `sf-20231103-2426`._

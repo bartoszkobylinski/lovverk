@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-standardisert-søknad-om-seksjonering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-standardisert-søknad-om-seksjonering — Change history
 
 _2 events; doc_id `sf-20171217-2119`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-post-og-telegramkontroll-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-post-og-telegramkontroll-m-v — Change history
 
 _2 events; doc_id `sf-19600819-0002`._

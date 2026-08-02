@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-privatisteksamen-ved-uis"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-privatisteksamen-ved-uis — Change history
 
 _2 events; doc_id `sf-20051206-1402`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-åremålsstillinger-i-politiet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-åremålsstillinger-i-politiet — Change history
 
 _2 events; doc_id `sf-20010622-0704`._

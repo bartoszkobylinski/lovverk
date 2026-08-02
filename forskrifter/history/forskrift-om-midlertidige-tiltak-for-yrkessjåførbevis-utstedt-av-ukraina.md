@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-midlertidige-tiltak-for-yrkessjåførbevis-utstedt-av-ukraina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midlertidige-tiltak-for-yrkessjåførbevis-utstedt-av-ukraina — Change history
 
 _2 events; doc_id `sf-20240122-0100`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-granskingskommisjonen-for-scandinavian-star"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-granskingskommisjonen-for-scandinavian-star — Change history
 
 _2 events; doc_id `nl-20160429-006`._

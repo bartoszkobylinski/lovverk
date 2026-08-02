@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-opprettelse-av-mattilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-opprettelse-av-mattilsynet — Change history
 
 _1 events; doc_id `sf-20021220-1698`._

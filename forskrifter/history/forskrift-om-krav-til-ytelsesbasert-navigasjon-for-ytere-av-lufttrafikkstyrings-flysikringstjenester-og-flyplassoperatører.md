@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-ytelsesbasert-navigasjon-for-ytere-av-lufttrafikkstyrings-flysikringstjenester-og-flyplassoperatører"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-ytelsesbasert-navigasjon-for-ytere-av-lufttrafikkstyrings-flysikringstjenester-og-flyplassoperatører — Change history
 
 _2 events; doc_id `sf-20130606-0583`._

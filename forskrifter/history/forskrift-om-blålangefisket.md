@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-blålangefisket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-blålangefisket — Change history
 
 _2 events; doc_id `sf-20091207-1462`._

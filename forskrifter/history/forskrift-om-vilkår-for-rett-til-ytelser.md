@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vilkår-for-rett-til-ytelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vilkår-for-rett-til-ytelser — Change history
 
 _2 events; doc_id `sf-20101220-1711`._

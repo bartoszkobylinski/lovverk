@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fartøy-som-blir-brukte-av-lag-eller-foreiningar"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fartøy-som-blir-brukte-av-lag-eller-foreiningar — Change history
 
 _2 events; doc_id `sf-20220921-1628`._

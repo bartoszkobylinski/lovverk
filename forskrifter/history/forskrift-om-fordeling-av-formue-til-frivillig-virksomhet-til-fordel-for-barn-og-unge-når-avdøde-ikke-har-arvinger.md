@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fordeling-av-formue-til-frivillig-virksomhet-til-fordel-for-barn-og-unge-når-avdøde-ikke-har-arvinger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fordeling-av-formue-til-frivillig-virksomhet-til-fordel-for-barn-og-unge-når-avdøde-ikke-har-arvinger — Change history
 
 _2 events; doc_id `sf-20231027-1706`._

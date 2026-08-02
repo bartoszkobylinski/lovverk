@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-fritids-og-småbåtloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-fritids-og-småbåtloven-2 — Change history
 
 _1 events; doc_id `sf-19981201-4532`._

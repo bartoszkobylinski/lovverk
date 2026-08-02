@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingsvedtak-om-inntekter-ved-tildeling-av-tillatelser-for-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingsvedtak-om-inntekter-ved-tildeling-av-tillatelser-for-2026 — Change history
 
 _1 events; doc_id `sf-20251222-2790`._

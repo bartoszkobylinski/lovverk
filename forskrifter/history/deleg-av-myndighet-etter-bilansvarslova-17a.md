@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-bilansvarslova-17a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-bilansvarslova-17a — Change history
 
 _1 events; doc_id `sf-20180104-0012`._

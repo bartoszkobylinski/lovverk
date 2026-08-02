@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bytte-av-vassildkvote-for-årene-2024-og-2025-for-fartøy-med-vassildtråltillatelse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bytte-av-vassildkvote-for-årene-2024-og-2025-for-fartøy-med-vassildtråltillatelse — Change history
 
 _2 events; doc_id `sf-20231220-2230`._

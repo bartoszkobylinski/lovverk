@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-menerstatning-ved-pasientskader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-menerstatning-ved-pasientskader — Change history
 
 _2 events; doc_id `sf-20250925-1922`._

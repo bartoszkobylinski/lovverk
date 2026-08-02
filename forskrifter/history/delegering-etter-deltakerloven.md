@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-deltakerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-deltakerloven — Change history
 
 _1 events; doc_id `sf-20000211-0099`._

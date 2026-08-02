@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endringer-i-forskrift-31-mai-2013-nr-563-om-nasjonal-kjernejournal-forskrift-1-mars-2019-nr-168-om-pasientjournal-og-forskrift-7-desember-2007-nr-1389-om-innsamling-og-behandling-av"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endringer-i-forskrift-31-mai-2013-nr-563-om-nasjonal-kjernejournal-forskrift-1-mars-2019-nr-168-om-pasientjournal-og-forskrift-7-desember-2007-nr-1389-om-innsamling-og-behandling-av — Change history
 
 _1 events; doc_id `sf-20260619-1242`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-disiplinærforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-disiplinærforskriften — Change history
 
 _2 events; doc_id `sf-20250902-1770`._

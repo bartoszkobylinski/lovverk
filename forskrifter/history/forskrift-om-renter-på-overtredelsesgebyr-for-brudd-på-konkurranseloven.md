@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-renter-på-overtredelsesgebyr-for-brudd-på-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-renter-på-overtredelsesgebyr-for-brudd-på-konkurranseloven — Change history
 
 _2 events; doc_id `sf-20241126-2909`._

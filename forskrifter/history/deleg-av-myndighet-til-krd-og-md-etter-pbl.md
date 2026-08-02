@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-krd-og-md-etter-pbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-krd-og-md-etter-pbl — Change history
 
 _1 events; doc_id `sf-20090612-0639`._

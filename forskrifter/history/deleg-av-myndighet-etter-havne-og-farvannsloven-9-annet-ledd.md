@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-havne-og-farvannsloven-9-annet-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-havne-og-farvannsloven-9-annet-ledd — Change history
 
 _1 events; doc_id `sf-20210503-1394`._

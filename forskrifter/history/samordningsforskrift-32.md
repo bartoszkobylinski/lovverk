@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "samordningsforskrift-32"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # samordningsforskrift-32 — Change history
 
 _2 events; doc_id `sf-19851231-4104`._

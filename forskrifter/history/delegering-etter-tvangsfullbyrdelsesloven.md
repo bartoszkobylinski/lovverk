@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-tvangsfullbyrdelsesloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-tvangsfullbyrdelsesloven — Change history
 
 _1 events; doc_id `sf-19921218-1076`._

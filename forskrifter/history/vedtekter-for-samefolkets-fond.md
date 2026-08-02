@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-samefolkets-fond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-samefolkets-fond — Change history
 
 _1 events; doc_id `sf-20060922-1086`._

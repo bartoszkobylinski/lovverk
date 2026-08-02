@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2025 — Change history
 
 _2 events; doc_id `sf-20250701-1380`._

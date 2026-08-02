@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-territorialfarvannet-ved-svalbard-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-territorialfarvannet-ved-svalbard-i-2025 — Change history
 
 _2 events; doc_id `sf-20241218-3271`._

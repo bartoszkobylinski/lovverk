@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndigheten-etter-lov-14-juni-2019-nr-21-om-arv-og-dødsboskifte-88a-fra-justis-og-beredskapsdepartementet-til-digitaliserings-og-forvaltningsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndigheten-etter-lov-14-juni-2019-nr-21-om-arv-og-dødsboskifte-88a-fra-justis-og-beredskapsdepartementet-til-digitaliserings-og-forvaltningsdepartementet — Change history
 
 _1 events; doc_id `sf-20241101-2625`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tenester-etter-barnelova-61"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tenester-etter-barnelova-61 — Change history
 
 _2 events; doc_id `sf-20040310-0516`._

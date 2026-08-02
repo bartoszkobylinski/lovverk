@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-av-myndighet-til-oed-etter-plbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-av-myndighet-til-oed-etter-plbl — Change history
 
 _1 events; doc_id `sf-20090626-0858`._

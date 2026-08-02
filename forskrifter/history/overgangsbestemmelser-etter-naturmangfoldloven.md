@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsbestemmelser-etter-naturmangfoldloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsbestemmelser-etter-naturmangfoldloven — Change history
 
 _2 events; doc_id `sf-20101015-1339`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-geo-utvidelse-av-helseforetaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-geo-utvidelse-av-helseforetaksloven — Change history
 
 _2 events; doc_id `sf-20011005-1148`._

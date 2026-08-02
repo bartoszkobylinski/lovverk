@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-skipsarbeidsloven-og-nis-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-skipsarbeidsloven-og-nis-loven — Change history
 
 _2 events; doc_id `nl-20260410-014`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ld-etter-konsesjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ld-etter-konsesjonsloven — Change history
 
 _1 events; doc_id `sf-20031128-1401`._

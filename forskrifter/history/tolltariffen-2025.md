@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tolltariffen-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tolltariffen-2025 — Change history
 
 _2 events; doc_id `sf-20241217-3146`._

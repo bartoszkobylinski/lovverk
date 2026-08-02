@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-risikostyring-og-internkontroll-i-norges-bank"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-risikostyring-og-internkontroll-i-norges-bank — Change history
 
 _1 events; doc_id `sf-20220628-1223`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endring-av-navn-på-kunsthøgskolen-i-bergen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endring-av-navn-på-kunsthøgskolen-i-bergen — Change history
 
 _1 events; doc_id `sf-20120203-0125`._

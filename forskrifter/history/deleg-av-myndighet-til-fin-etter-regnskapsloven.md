@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-fin-etter-regnskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-fin-etter-regnskapsloven — Change history
 
 _1 events; doc_id `sf-20050617-0626`._

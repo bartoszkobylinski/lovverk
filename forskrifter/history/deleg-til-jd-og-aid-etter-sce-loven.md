@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-og-aid-etter-sce-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-og-aid-etter-sce-loven — Change history
 
 _1 events; doc_id `sf-20060630-0779`._

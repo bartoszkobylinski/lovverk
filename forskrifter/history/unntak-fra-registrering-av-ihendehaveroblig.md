@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "unntak-fra-registrering-av-ihendehaveroblig"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # unntak-fra-registrering-av-ihendehaveroblig — Change history
 
 _2 events; doc_id `sf-20030206-0139`._

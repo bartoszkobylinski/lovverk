@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lov-om-arkiv-12-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lov-om-arkiv-12-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-20201218-2829`._

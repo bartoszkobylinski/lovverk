@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-takseringsregler-til-bruk-ved-beskatningen-av-utenlandske-artister-for-inntektsåret-2025-som-skattlegges-etter-lov-13-desember-1996-nr-87-om-skatt-på-honorar-til-utenlandske-artister"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-takseringsregler-til-bruk-ved-beskatningen-av-utenlandske-artister-for-inntektsåret-2025-som-skattlegges-etter-lov-13-desember-1996-nr-87-om-skatt-på-honorar-til-utenlandske-artister — Change history
 
 _2 events; doc_id `sf-20241209-2998`._

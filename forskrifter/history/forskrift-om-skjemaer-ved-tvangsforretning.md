@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skjemaer-ved-tvangsforretning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skjemaer-ved-tvangsforretning — Change history
 
 _2 events; doc_id `sf-19921221-1185`._

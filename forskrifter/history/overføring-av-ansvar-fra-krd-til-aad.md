@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvar-fra-krd-til-aad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvar-fra-krd-til-aad — Change history
 
 _1 events; doc_id `sf-20001221-1363`._

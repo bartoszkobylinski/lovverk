@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fullbyrding-av-straff"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fullbyrding-av-straff — Change history
 
 _2 events; doc_id `sf-20100319-0408`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kartverket-etter-straffeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kartverket-etter-straffeloven — Change history
 
 _1 events; doc_id `sf-20140411-0541`._

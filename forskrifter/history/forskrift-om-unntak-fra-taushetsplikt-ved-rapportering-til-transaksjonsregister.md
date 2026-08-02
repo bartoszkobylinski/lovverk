@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-taushetsplikt-ved-rapportering-til-transaksjonsregister"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-taushetsplikt-ved-rapportering-til-transaksjonsregister — Change history
 
 _2 events; doc_id `sf-20200319-0351`._

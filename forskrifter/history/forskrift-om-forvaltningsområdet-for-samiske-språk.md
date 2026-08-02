@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forvaltningsområdet-for-samiske-språk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forvaltningsområdet-for-samiske-språk — Change history
 
 _2 events; doc_id `sf-20050617-0657`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-avfallsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-avfallsforskriften — Change history
 
 _2 events; doc_id `sf-20251203-2424`._

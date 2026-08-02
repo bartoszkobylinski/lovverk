@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv — Change history
 
 _2 events; doc_id `sf-19871120-0924`._

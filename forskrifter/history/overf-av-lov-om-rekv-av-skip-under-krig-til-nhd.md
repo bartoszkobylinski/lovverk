@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-av-lov-om-rekv-av-skip-under-krig-til-nhd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-av-lov-om-rekv-av-skip-under-krig-til-nhd — Change history
 
 _1 events; doc_id `sf-20081212-1347`._

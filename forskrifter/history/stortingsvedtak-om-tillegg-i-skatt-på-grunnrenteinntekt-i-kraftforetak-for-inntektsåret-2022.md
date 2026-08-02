@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingsvedtak-om-tillegg-i-skatt-på-grunnrenteinntekt-i-kraftforetak-for-inntektsåret-2022"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingsvedtak-om-tillegg-i-skatt-på-grunnrenteinntekt-i-kraftforetak-for-inntektsåret-2022 — Change history
 
 _1 events; doc_id `sf-20221213-2197`._

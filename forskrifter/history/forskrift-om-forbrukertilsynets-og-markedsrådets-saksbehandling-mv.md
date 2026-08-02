@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbrukertilsynets-og-markedsrådets-saksbehandling-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbrukertilsynets-og-markedsrådets-saksbehandling-mv — Change history
 
 _2 events; doc_id `sf-20171121-1817`._

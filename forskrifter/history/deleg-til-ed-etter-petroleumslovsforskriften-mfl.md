@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ed-etter-petroleumslovsforskriften-mfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ed-etter-petroleumslovsforskriften-mfl — Change history
 
 _1 events; doc_id `sf-20130215-0202`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-militære-forbudsområder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-militære-forbudsområder — Change history
 
 _2 events; doc_id `sf-20181220-2057`._

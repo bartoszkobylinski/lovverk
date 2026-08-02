@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kommisjonsloven-kml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kommisjonsloven-kml — Change history
 
 _4 events; doc_id `nl-19160630-001`._

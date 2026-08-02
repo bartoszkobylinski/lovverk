@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kmd-etter-forurensningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kmd-etter-forurensningsloven — Change history
 
 _1 events; doc_id `sf-20040528-0790`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-målbruk-i-helseføretak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-målbruk-i-helseføretak — Change history
 
 _2 events; doc_id `sf-20040318-0532`._

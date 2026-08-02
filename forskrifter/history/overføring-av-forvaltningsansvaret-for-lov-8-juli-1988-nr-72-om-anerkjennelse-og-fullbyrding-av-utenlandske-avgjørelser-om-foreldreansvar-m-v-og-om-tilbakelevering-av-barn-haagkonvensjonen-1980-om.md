@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-lov-8-juli-1988-nr-72-om-anerkjennelse-og-fullbyrding-av-utenlandske-avgjørelser-om-foreldreansvar-m-v-og-om-tilbakelevering-av-barn-haagkonvensjonen-1980-om"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-lov-8-juli-1988-nr-72-om-anerkjennelse-og-fullbyrding-av-utenlandske-avgjørelser-om-foreldreansvar-m-v-og-om-tilbakelevering-av-barn-haagkonvensjonen-1980-om — Change history
 
 _1 events; doc_id `sf-20231220-2133`._

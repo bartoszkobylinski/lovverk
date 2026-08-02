@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafts-av-lov-2005-131-og-lov-2005-28"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafts-av-lov-2005-131-og-lov-2005-28 — Change history
 
 _1 events; doc_id `sf-20051221-1580`._

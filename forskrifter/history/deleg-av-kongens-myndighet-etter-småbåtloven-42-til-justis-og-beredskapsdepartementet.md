@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-småbåtloven-42-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-småbåtloven-42-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20201211-2707`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kompetanse-til-å-behandle-seksjoneringssaker-innenfor-longyearbyen-lokalstyre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kompetanse-til-å-behandle-seksjoneringssaker-innenfor-longyearbyen-lokalstyre — Change history
 
 _1 events; doc_id `sf-20180216-0233`._

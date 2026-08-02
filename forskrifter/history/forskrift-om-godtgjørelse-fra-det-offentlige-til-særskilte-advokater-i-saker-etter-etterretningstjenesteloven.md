@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-godtgjørelse-fra-det-offentlige-til-særskilte-advokater-i-saker-etter-etterretningstjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-godtgjørelse-fra-det-offentlige-til-særskilte-advokater-i-saker-etter-etterretningstjenesteloven — Change history
 
 _2 events; doc_id `sf-20230928-1501`._

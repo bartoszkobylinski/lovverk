@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-avgift-på-forestillinger-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-avgift-på-forestillinger-m-v — Change history
 
 _2 events; doc_id `nl-19660610-003`._

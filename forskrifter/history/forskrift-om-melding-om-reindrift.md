@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-melding-om-reindrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-melding-om-reindrift — Change history
 
 _2 events; doc_id `sf-20231219-2180`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-navnendring-fra-nye-kripos-til-kripos"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-navnendring-fra-nye-kripos-til-kripos — Change history
 
 _1 events; doc_id `sf-20060120-0052`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-20-juni-2023-nr-80-om-endringer-i-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-20-juni-2023-nr-80-om-endringer-i-konkurranseloven — Change history
 
 _2 events; doc_id `sf-20230629-1162`._

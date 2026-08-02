@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-skattedirektoratet-etter-lov-om-innkreving-av-statlige-krav-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-skattedirektoratet-etter-lov-om-innkreving-av-statlige-krav-mv — Change history
 
 _1 events; doc_id `sf-20250612-1053`._

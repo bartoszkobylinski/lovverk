@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-forsinkelsesrenteloven-3-første-ledd-første-og-annet-punktum-og-3a-annet-ledd-fra-finansdepartementet-til-finanstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-forsinkelsesrenteloven-3-første-ledd-første-og-annet-punktum-og-3a-annet-ledd-fra-finansdepartementet-til-finanstilsynet — Change history
 
 _1 events; doc_id `sf-20250618-1069`._

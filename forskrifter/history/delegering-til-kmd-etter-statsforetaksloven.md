@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kmd-etter-statsforetaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kmd-etter-statsforetaksloven — Change history
 
 _1 events; doc_id `sf-19911220-0827`._

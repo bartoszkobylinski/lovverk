@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-energimerkeforskriften-for-bygninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-energimerkeforskriften-for-bygninger — Change history
 
 _2 events; doc_id `sf-20250402-0591`._

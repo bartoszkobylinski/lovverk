@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kommisjonens-gjennomføringsforordning-2021-1042-om-regler-for-anvendelsen-av-europaparlaments-og-rådsdirektiv-2017-1132-for-det-som-angår-tekniske-spesifikasjoner-og-fremgangsmåte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kommisjonens-gjennomføringsforordning-2021-1042-om-regler-for-anvendelsen-av-europaparlaments-og-rådsdirektiv-2017-1132-for-det-som-angår-tekniske-spesifikasjoner-og-fremgangsmåte — Change history
 
 _2 events; doc_id `sf-20220810-1422`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-finansdepartementet-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-finansdepartementet-mv — Change history
 
 _1 events; doc_id `sf-20050624-0691`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skd-etter-folketrygdloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skd-etter-folketrygdloven — Change history
 
 _1 events; doc_id `sf-20140630-0887`._

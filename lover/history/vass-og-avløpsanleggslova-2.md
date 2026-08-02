@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vass-og-avløpsanleggslova-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vass-og-avløpsanleggslova-2 — Change history
 
 _2 events; doc_id `nl-20250606-026`._

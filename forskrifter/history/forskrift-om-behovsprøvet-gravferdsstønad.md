@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-behovsprøvet-gravferdsstønad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behovsprøvet-gravferdsstønad — Change history
 
 _2 events; doc_id `sf-20021212-1492`._

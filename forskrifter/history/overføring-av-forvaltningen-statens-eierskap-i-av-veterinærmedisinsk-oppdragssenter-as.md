@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningen-statens-eierskap-i-av-veterinærmedisinsk-oppdragssenter-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningen-statens-eierskap-i-av-veterinærmedisinsk-oppdragssenter-as — Change history
 
 _1 events; doc_id `sf-20151218-1620`._

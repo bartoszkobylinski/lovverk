@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-av-ansvaret-for-statlig-miljøberedskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-av-ansvaret-for-statlig-miljøberedskap — Change history
 
 _1 events; doc_id `sf-20021220-1629`._

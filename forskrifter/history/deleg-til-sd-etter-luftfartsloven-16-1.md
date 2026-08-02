@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sd-etter-luftfartsloven-16-1"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sd-etter-luftfartsloven-16-1 — Change history
 
 _1 events; doc_id `sf-20010406-0321`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ufd-etter-utdanningsstøtteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ufd-etter-utdanningsstøtteloven — Change history
 
 _1 events; doc_id `sf-20030131-0089`._

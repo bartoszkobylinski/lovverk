@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-arveloven-99a-fjerde-og-femte-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-arveloven-99a-fjerde-og-femte-ledd — Change history
 
 _1 events; doc_id `sf-20210528-1701`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningen-av-statens-eierskap-i-mantena-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningen-av-statens-eierskap-i-mantena-as — Change history
 
 _1 events; doc_id `sf-20191213-1745`._

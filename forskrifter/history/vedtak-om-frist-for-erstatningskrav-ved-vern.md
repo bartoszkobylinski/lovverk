@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-frist-for-erstatningskrav-ved-vern"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-frist-for-erstatningskrav-ved-vern — Change history
 
 _2 events; doc_id `sf-20081113-1693`._

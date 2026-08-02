@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delvis-innlemming-krus-under-universitetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delvis-innlemming-krus-under-universitetsloven — Change history
 
 _2 events; doc_id `sf-20121026-0993`._

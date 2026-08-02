@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregel-til-petrsktl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregel-til-petrsktl — Change history
 
 _2 events; doc_id `sf-20140425-0576`._

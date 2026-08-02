@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-vegdir-etter-lov-om-merking-av-forbruksvarer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-vegdir-etter-lov-om-merking-av-forbruksvarer — Change history
 
 _1 events; doc_id `sf-20110214-0749`._

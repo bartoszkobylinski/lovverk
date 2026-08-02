@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ud-etter-utenrikstjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ud-etter-utenrikstjenesteloven — Change history
 
 _1 events; doc_id `sf-20140620-0779`._

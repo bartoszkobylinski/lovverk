@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-undersk-og-fradrag-i-toppskattegr-l"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-undersk-og-fradrag-i-toppskattegr-l — Change history
 
 _2 events; doc_id `sf-19901221-1016`._

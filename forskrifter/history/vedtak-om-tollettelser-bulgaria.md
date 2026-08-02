@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-tollettelser-bulgaria"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-tollettelser-bulgaria — Change history
 
 _1 events; doc_id `sf-19930617-0558`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-pensjonslover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-pensjonslover — Change history
 
 _2 events; doc_id `sf-20070629-0743`._

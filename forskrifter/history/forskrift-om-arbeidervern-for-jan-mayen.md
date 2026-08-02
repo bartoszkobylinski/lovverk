@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidervern-for-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidervern-for-jan-mayen — Change history
 
 _2 events; doc_id `sf-19781215-0005`._

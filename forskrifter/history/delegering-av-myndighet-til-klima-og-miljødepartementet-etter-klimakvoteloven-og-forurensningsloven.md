@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-klima-og-miljødepartementet-etter-klimakvoteloven-og-forurensningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-klima-og-miljødepartementet-etter-klimakvoteloven-og-forurensningsloven — Change history
 
 _1 events; doc_id `sf-20041217-1669`._

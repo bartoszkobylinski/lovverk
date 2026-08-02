@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kapitaliseringsrente-etter-skadeserstatningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kapitaliseringsrente-etter-skadeserstatningsloven — Change history
 
 _2 events; doc_id `sf-20220826-1482`._

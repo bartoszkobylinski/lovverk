@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-etter-endringslov-til-militærnekterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-etter-endringslov-til-militærnekterloven — Change history
 
 _1 events; doc_id `sf-19990604-0569`._

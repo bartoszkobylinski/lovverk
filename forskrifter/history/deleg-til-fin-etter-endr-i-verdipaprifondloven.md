@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-endr-i-verdipaprifondloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-endr-i-verdipaprifondloven — Change history
 
 _1 events; doc_id `sf-20091211-1510`._

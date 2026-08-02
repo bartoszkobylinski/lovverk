@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-sjøloven-202-tredje-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-sjøloven-202-tredje-ledd — Change history
 
 _1 events; doc_id `sf-20151218-1580`._

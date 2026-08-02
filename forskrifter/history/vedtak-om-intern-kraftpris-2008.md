@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-intern-kraftpris-2008"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-intern-kraftpris-2008 — Change history
 
 _2 events; doc_id `sf-20090126-0070`._

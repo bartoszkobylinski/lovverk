@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-rettsgebyrforskriften-m-fl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-rettsgebyrforskriften-m-fl — Change history
 
 _2 events; doc_id `sf-20251214-2558`._

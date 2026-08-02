@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kristendomslærelov-for-vidaregåande-skoler-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kristendomslærelov-for-vidaregåande-skoler-m-v — Change history
 
 _2 events; doc_id `nl-19711217-106`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-skatteloven-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-skatteloven-5 — Change history
 
 _5 events; doc_id `nl-20260623-066`._

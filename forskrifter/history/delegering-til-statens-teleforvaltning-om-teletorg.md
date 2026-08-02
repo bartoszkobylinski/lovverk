@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-statens-teleforvaltning-om-teletorg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-statens-teleforvaltning-om-teletorg — Change history
 
 _1 events; doc_id `sf-19950622-0593`._

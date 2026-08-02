@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "salærforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # salærforskriften — Change history
 
 _4 events; doc_id `sf-19971203-1441`._

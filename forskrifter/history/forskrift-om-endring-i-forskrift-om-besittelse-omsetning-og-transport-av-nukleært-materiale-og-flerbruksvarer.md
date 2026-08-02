@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-besittelse-omsetning-og-transport-av-nukleært-materiale-og-flerbruksvarer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-besittelse-omsetning-og-transport-av-nukleært-materiale-og-flerbruksvarer — Change history
 
 _2 events; doc_id `sf-20251121-2306`._

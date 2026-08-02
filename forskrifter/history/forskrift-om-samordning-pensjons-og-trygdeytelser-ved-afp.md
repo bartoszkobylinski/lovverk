@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-pensjons-og-trygdeytelser-ved-afp"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-pensjons-og-trygdeytelser-ved-afp — Change history
 
 _2 events; doc_id `sf-19890103-0003`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-kristiansand-byrett-og-setesdal-sorenskriverembete"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-kristiansand-byrett-og-setesdal-sorenskriverembete — Change history
 
 _1 events; doc_id `sf-19921211-1145`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utbetalingsmåten-av-ytelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utbetalingsmåten-av-ytelser — Change history
 
 _2 events; doc_id `sf-19990423-0534`._

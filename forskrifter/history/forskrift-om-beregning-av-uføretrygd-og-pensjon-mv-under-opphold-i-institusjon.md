@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-beregning-av-uføretrygd-og-pensjon-mv-under-opphold-i-institusjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beregning-av-uføretrygd-og-pensjon-mv-under-opphold-i-institusjon — Change history
 
 _2 events; doc_id `sf-20141031-1376`._

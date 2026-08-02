@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-salærforskriften-og-forskrift-om-elektronisk-kommunikasjon-med-domstolene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-salærforskriften-og-forskrift-om-elektronisk-kommunikasjon-med-domstolene — Change history
 
 _2 events; doc_id `sf-20260326-0495`._

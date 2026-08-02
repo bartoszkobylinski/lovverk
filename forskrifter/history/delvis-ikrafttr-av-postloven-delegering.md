@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-postloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-postloven-delegering — Change history
 
 _1 events; doc_id `sf-19970627-0641`._

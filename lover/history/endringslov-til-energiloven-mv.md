@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-energiloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-energiloven-mv — Change history
 
 _2 events; doc_id `nl-20260619-037`._

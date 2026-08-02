@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utviding-av-det-stadlege-verkeområde-til-havressurslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utviding-av-det-stadlege-verkeområde-til-havressurslova — Change history
 
 _2 events; doc_id `sf-20160108-0009`._

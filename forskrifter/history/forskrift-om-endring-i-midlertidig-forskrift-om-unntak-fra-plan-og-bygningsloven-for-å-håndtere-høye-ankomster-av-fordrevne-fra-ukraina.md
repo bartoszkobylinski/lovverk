@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina — Change history
 
 _1 events; doc_id `sf-20260615-1099`._

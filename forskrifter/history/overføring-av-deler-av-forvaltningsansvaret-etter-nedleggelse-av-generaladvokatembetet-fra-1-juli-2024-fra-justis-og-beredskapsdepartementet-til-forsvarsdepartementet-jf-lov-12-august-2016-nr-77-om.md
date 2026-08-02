@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-deler-av-forvaltningsansvaret-etter-nedleggelse-av-generaladvokatembetet-fra-1-juli-2024-fra-justis-og-beredskapsdepartementet-til-forsvarsdepartementet-jf-lov-12-august-2016-nr-77-om"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-deler-av-forvaltningsansvaret-etter-nedleggelse-av-generaladvokatembetet-fra-1-juli-2024-fra-justis-og-beredskapsdepartementet-til-forsvarsdepartementet-jf-lov-12-august-2016-nr-77-om — Change history
 
 _1 events; doc_id `sf-20240503-0727`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-satser-for-frakttilskudd-til-transport-av-kraftf-r-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-satser-for-frakttilskudd-til-transport-av-kraftf-r-2 — Change history
 
 _2 events; doc_id `sf-20251212-2584`._

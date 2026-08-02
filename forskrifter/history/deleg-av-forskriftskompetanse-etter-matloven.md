@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-forskriftskompetanse-etter-matloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-forskriftskompetanse-etter-matloven — Change history
 
 _1 events; doc_id `sf-20060407-0444`._

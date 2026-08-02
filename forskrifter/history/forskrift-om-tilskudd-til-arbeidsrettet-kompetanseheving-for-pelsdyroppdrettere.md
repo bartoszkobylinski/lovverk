@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-arbeidsrettet-kompetanseheving-for-pelsdyroppdrettere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-arbeidsrettet-kompetanseheving-for-pelsdyroppdrettere — Change history
 
 _2 events; doc_id `sf-20200703-1496`._

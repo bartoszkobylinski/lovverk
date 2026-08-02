@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opphevelse-av-importøransvar"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opphevelse-av-importøransvar — Change history
 
 _2 events; doc_id `sf-19931112-1028`._

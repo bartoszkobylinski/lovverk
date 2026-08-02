@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anvendelse-av-ferieloven-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anvendelse-av-ferieloven-på-svalbard — Change history
 
 _2 events; doc_id `sf-20211126-3291`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-gjennomføring-av-nordiske-konvensjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-gjennomføring-av-nordiske-konvensjoner — Change history
 
 _2 events; doc_id `nl-19691219-075`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning-2 — Change history
 
 _2 events; doc_id `sf-20251202-2607`._

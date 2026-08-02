@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-skattedirektoratet-til-å-bestemme-at-statens-innkrevingssentral-skal-utøve-myndighet-etter-skattebetalingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-skattedirektoratet-til-å-bestemme-at-statens-innkrevingssentral-skal-utøve-myndighet-etter-skattebetalingsloven — Change history
 
 _1 events; doc_id `sf-20191118-1524`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-myndighet-til-landbruksdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-myndighet-til-landbruksdepartementet — Change history
 
 _1 events; doc_id `sf-19950922-0802`._

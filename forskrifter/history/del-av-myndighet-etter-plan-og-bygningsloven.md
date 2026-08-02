@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-myndighet-etter-plan-og-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-myndighet-etter-plan-og-bygningsloven — Change history
 
 _1 events; doc_id `sf-19930607-0435`._

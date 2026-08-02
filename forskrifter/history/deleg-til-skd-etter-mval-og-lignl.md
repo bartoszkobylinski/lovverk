@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skd-etter-mval-og-lignl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skd-etter-mval-og-lignl — Change history
 
 _1 events; doc_id `sf-20021107-1476`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-høgskolestatus-for-ldh"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-høgskolestatus-for-ldh — Change history
 
 _1 events; doc_id `sf-20110624-0650`._

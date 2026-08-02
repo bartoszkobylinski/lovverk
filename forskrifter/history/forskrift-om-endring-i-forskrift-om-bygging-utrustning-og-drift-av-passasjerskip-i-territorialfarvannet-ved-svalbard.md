@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-bygging-utrustning-og-drift-av-passasjerskip-i-territorialfarvannet-ved-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-bygging-utrustning-og-drift-av-passasjerskip-i-territorialfarvannet-ved-svalbard — Change history
 
 _2 events; doc_id `sf-20250319-0563`._

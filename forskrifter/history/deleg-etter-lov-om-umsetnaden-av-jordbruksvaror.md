@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-om-umsetnaden-av-jordbruksvaror"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-om-umsetnaden-av-jordbruksvaror — Change history
 
 _1 events; doc_id `sf-19811127-0006`._

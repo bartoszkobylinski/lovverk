@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rettsvern-for-kraftavtaler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rettsvern-for-kraftavtaler — Change history
 
 _2 events; doc_id `sf-20110211-0133`._

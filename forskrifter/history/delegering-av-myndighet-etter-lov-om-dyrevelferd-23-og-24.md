@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-lov-om-dyrevelferd-23-og-24"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-lov-om-dyrevelferd-23-og-24 — Change history
 
 _1 events; doc_id `sf-20240927-2375`._

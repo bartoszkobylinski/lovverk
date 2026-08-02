@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-samvirkelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-samvirkelova — Change history
 
 _1 events; doc_id `sf-20071123-1288`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-ligningsloven-6-6"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-ligningsloven-6-6 — Change history
 
 _1 events; doc_id `sf-19890127-0065`._

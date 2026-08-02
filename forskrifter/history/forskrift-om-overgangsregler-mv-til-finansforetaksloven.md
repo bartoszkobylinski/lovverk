@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-mv-til-finansforetaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-mv-til-finansforetaksloven — Change history
 
 _2 events; doc_id `sf-20151221-1794`._

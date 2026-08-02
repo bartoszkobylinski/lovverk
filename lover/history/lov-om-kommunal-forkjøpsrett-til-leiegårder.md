@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-kommunal-forkjøpsrett-til-leiegårder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-kommunal-forkjøpsrett-til-leiegårder — Change history
 
 _2 events; doc_id `nl-19770429-034`._

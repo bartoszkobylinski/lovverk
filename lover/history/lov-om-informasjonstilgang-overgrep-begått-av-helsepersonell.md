@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-informasjonstilgang-overgrep-begått-av-helsepersonell"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-informasjonstilgang-overgrep-begått-av-helsepersonell — Change history
 
 _2 events; doc_id `nl-20210618-119`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-anggående-jorddelingen-i-finmark-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-anggående-jorddelingen-i-finmark-m-v — Change history
 
 _2 events; doc_id `nl-17750608-000`._

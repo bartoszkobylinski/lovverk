@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sikring-av-skoleelever-i-buss"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sikring-av-skoleelever-i-buss — Change history
 
 _2 events; doc_id `sf-20121219-1342`._

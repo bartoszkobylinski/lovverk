@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-forskrift-om-utsetting-av-utenlandske-treslag-til-skogbruksformål-5-og-13-fra-direktoratet-for-naturforvaltning-til-fylkesmannen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-forskrift-om-utsetting-av-utenlandske-treslag-til-skogbruksformål-5-og-13-fra-direktoratet-for-naturforvaltning-til-fylkesmannen — Change history
 
 _1 events; doc_id `sf-20120626-1493`._

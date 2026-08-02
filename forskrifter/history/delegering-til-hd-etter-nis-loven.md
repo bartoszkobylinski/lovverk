@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-hd-etter-nis-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-hd-etter-nis-loven — Change history
 
 _1 events; doc_id `sf-19870612-0488`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tsi-taf-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tsi-taf-forskriften — Change history
 
 _2 events; doc_id `sf-20210908-2715`._

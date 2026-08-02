@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-landbrukets-utviklingsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-landbrukets-utviklingsfond — Change history
 
 _1 events; doc_id `sf-20021206-1589`._

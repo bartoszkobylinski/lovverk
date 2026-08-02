@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-alkoholforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-alkoholforskriften — Change history
 
 _2 events; doc_id `sf-20251128-2361`._

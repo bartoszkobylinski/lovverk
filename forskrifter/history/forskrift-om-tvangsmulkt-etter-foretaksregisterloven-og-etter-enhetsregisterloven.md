@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tvangsmulkt-etter-foretaksregisterloven-og-etter-enhetsregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tvangsmulkt-etter-foretaksregisterloven-og-etter-enhetsregisterloven — Change history
 
 _2 events; doc_id `sf-20170703-1107`._

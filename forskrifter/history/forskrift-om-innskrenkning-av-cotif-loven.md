@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-innskrenkning-av-cotif-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innskrenkning-av-cotif-loven — Change history
 
 _2 events; doc_id `sf-20070608-0588`._

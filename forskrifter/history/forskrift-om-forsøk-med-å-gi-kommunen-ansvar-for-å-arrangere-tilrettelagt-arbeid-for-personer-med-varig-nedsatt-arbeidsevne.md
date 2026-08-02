@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forsøk-med-å-gi-kommunen-ansvar-for-å-arrangere-tilrettelagt-arbeid-for-personer-med-varig-nedsatt-arbeidsevne"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forsøk-med-å-gi-kommunen-ansvar-for-å-arrangere-tilrettelagt-arbeid-for-personer-med-varig-nedsatt-arbeidsevne — Change history
 
 _2 events; doc_id `sf-20171220-2308`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-fullmakt-boligbyggelagsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-fullmakt-boligbyggelagsloven — Change history
 
 _1 events; doc_id `sf-19840330-0816`._

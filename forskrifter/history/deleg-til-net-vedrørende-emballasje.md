@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-net-vedrørende-emballasje"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-net-vedrørende-emballasje — Change history
 
 _1 events; doc_id `sf-20080626-0983`._

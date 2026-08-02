@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-fangst-av-pelssel-og-sjøelefanter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-fangst-av-pelssel-og-sjøelefanter — Change history
 
 _2 events; doc_id `sf-19530227-0003`._

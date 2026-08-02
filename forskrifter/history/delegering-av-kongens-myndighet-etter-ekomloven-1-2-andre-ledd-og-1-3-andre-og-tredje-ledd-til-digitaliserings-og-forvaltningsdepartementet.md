@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-ekomloven-1-2-andre-ledd-og-1-3-andre-og-tredje-ledd-til-digitaliserings-og-forvaltningsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-ekomloven-1-2-andre-ledd-og-1-3-andre-og-tredje-ledd-til-digitaliserings-og-forvaltningsdepartementet — Change history
 
 _1 events; doc_id `sf-20241213-3093`._

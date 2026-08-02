@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kmd-etter-miljøinformasjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kmd-etter-miljøinformasjonsloven — Change history
 
 _1 events; doc_id `sf-20031205-1432`._

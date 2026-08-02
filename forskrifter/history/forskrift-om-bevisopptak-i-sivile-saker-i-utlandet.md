@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bevisopptak-i-sivile-saker-i-utlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bevisopptak-i-sivile-saker-i-utlandet — Change history
 
 _2 events; doc_id `sf-19500428-3419`._

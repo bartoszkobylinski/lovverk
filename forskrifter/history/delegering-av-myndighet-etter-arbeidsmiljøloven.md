@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-arbeidsmiljøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-arbeidsmiljøloven — Change history
 
 _1 events; doc_id `sf-19910222-0088`._

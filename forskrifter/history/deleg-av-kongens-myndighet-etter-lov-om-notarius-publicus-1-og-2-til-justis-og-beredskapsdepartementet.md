@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-lov-om-notarius-publicus-1-og-2-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-lov-om-notarius-publicus-1-og-2-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20220107-0026`._

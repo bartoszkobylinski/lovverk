@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-aid-etter-statsborgerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-aid-etter-statsborgerloven — Change history
 
 _1 events; doc_id `sf-20060630-0755`._

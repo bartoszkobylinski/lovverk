@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-aldersgrense-for-sykepleiere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-aldersgrense-for-sykepleiere — Change history
 
 _2 events; doc_id `sf-20000105-0004`._

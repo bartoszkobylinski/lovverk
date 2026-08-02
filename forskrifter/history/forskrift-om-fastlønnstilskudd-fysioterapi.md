@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fastlønnstilskudd-fysioterapi"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fastlønnstilskudd-fysioterapi — Change history
 
 _5 events; doc_id `sf-20010525-0542`._

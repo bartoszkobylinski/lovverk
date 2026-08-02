@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-tilgang-til-opplysninger-for-utvalget-som-skal-evaluere-myndighetenes-håndtering-av-covid-19-pandemien"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-tilgang-til-opplysninger-for-utvalget-som-skal-evaluere-myndighetenes-håndtering-av-covid-19-pandemien — Change history
 
 _1 events; doc_id `sf-20220506-0776`._

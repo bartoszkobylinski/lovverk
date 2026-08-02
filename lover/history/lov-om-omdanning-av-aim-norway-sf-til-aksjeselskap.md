@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-omdanning-av-aim-norway-sf-til-aksjeselskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-omdanning-av-aim-norway-sf-til-aksjeselskap — Change history
 
 _2 events; doc_id `nl-20160617-044`._

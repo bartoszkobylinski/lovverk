@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-2011-10"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-2011-10 — Change history
 
 _2 events; doc_id `sf-20110415-0401`._

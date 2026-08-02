@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-veterinær-grensekontroll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-veterinær-grensekontroll — Change history
 
 _1 events; doc_id `sf-20030110-0028`._

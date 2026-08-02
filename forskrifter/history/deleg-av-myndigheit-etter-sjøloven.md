@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndigheit-etter-sjøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndigheit-etter-sjøloven — Change history
 
 _1 events; doc_id `sf-20160527-0534`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-meniges-æresord-til-fienden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-meniges-æresord-til-fienden — Change history
 
 _2 events; doc_id `sf-19621109-0001`._

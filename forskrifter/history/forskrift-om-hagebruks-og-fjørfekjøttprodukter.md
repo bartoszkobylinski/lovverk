@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-hagebruks-og-fjørfekjøttprodukter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-hagebruks-og-fjørfekjøttprodukter — Change history
 
 _2 events; doc_id `sf-20040630-1104`._

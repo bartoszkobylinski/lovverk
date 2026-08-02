@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-landing-av-fisk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-landing-av-fisk — Change history
 
 _2 events; doc_id `sf-19930806-0802`._

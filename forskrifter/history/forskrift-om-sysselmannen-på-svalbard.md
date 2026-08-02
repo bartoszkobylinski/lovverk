@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sysselmannen-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sysselmannen-på-svalbard — Change history
 
 _2 events; doc_id `sf-19530320-3454`._

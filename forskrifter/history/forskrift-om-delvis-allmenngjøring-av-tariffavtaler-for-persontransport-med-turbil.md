@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil — Change history
 
 _2 events; doc_id `sf-20241021-2534`._

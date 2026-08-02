@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-skattedirektoratets-myndighet-etter-merverdiavgiftsloven-3-33-til-skattekontorene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-skattedirektoratets-myndighet-etter-merverdiavgiftsloven-3-33-til-skattekontorene — Change history
 
 _1 events; doc_id `sf-20221213-2178`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-renter-ved-tilbakebet-av-co2-avg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-renter-ved-tilbakebet-av-co2-avg — Change history
 
 _2 events; doc_id `sf-19980612-0577`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sammenslåing-til-minsteareal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sammenslåing-til-minsteareal — Change history
 
 _4 events; doc_id `sf-19841024-1879`._

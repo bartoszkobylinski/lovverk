@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opplysningsplikt-for-transportplanlegging"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opplysningsplikt-for-transportplanlegging — Change history
 
 _2 events; doc_id `sf-20191211-1836`._

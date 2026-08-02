@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-kad-etter-aml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-kad-etter-aml — Change history
 
 _1 events; doc_id `sf-19950210-0120`._

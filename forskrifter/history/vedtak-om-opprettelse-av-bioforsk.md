@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-opprettelse-av-bioforsk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-opprettelse-av-bioforsk — Change history
 
 _1 events; doc_id `sf-20051209-1485`._

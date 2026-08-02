@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-vilkår-etter-sosialtjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-vilkår-etter-sosialtjenesteloven — Change history
 
 _2 events; doc_id `sf-20201216-2938`._

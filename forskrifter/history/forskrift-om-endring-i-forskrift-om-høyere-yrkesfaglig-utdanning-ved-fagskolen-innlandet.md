@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-innlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-innlandet — Change history
 
 _2 events; doc_id `sf-20251020-2554`._

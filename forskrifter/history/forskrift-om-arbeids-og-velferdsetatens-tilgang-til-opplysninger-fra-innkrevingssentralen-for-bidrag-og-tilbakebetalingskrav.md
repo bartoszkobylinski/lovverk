@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeids-og-velferdsetatens-tilgang-til-opplysninger-fra-innkrevingssentralen-for-bidrag-og-tilbakebetalingskrav"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeids-og-velferdsetatens-tilgang-til-opplysninger-fra-innkrevingssentralen-for-bidrag-og-tilbakebetalingskrav — Change history
 
 _2 events; doc_id `sf-20180313-0340`._

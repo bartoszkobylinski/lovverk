@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvaret-for-markedsføringslovens-kap-6"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvaret-for-markedsføringslovens-kap-6 — Change history
 
 _1 events; doc_id `sf-20141121-1472`._

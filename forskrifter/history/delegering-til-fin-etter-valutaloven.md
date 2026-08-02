@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-valutaloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-valutaloven — Change history
 
 _1 events; doc_id `sf-19830923-1491`._

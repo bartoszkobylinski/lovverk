@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rentesats-fondsavsetninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rentesats-fondsavsetninger — Change history
 
 _2 events; doc_id `sf-19830325-0728`._

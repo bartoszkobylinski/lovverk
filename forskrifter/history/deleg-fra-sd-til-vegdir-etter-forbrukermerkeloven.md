@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-fra-sd-til-vegdir-etter-forbrukermerkeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-fra-sd-til-vegdir-etter-forbrukermerkeloven — Change history
 
 _1 events; doc_id `sf-20130702-0891`._

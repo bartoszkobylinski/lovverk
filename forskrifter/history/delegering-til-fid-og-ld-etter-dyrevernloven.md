@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fid-og-ld-etter-dyrevernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fid-og-ld-etter-dyrevernloven — Change history
 
 _1 events; doc_id `sf-20040206-0307`._

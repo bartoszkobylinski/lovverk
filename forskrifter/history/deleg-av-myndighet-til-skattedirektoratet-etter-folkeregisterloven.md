@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-skattedirektoratet-etter-folkeregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-skattedirektoratet-etter-folkeregisterloven — Change history
 
 _1 events; doc_id `sf-20170630-1066`._

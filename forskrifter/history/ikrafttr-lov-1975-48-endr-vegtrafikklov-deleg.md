@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-lov-1975-48-endr-vegtrafikklov-deleg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-lov-1975-48-endr-vegtrafikklov-deleg — Change history
 
 _1 events; doc_id `sf-19750613-0004`._

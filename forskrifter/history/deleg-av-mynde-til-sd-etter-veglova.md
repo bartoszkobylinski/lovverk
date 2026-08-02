@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-mynde-til-sd-etter-veglova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-mynde-til-sd-etter-veglova — Change history
 
 _1 events; doc_id `sf-20040827-1219`._

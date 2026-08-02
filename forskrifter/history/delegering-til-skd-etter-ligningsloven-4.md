@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-skd-etter-ligningsloven-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-skd-etter-ligningsloven-4 — Change history
 
 _1 events; doc_id `sf-20001220-1391`._

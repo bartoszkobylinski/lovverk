@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-nem"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-nem — Change history
 
 _2 events; doc_id `sf-20250912-1827`._

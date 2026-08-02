@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sorteringsrist-i-reketrål"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sorteringsrist-i-reketrål — Change history
 
 _2 events; doc_id `sf-20121126-1104`._

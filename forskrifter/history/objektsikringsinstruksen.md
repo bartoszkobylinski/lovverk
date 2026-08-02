@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "objektsikringsinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # objektsikringsinstruksen — Change history
 
 _1 events; doc_id `sf-20190621-0870`._

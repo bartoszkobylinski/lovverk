@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fredning-av-masimjelt-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fredning-av-masimjelt-m-v — Change history
 
 _2 events; doc_id `sf-19830225-0512`._

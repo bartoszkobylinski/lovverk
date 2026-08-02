@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-delegering-etter-sjøfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-delegering-etter-sjøfartsloven — Change history
 
 _1 events; doc_id `sf-19850712-1442`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-rett-til-trygderefusjon-for-leger-spesialister-i-klinisk-psykologi-og-fysioterapeuter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-rett-til-trygderefusjon-for-leger-spesialister-i-klinisk-psykologi-og-fysioterapeuter — Change history
 
 _2 events; doc_id `sf-20250523-0847`._

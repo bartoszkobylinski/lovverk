@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-forbrukarkjøpslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-forbrukarkjøpslova — Change history
 
 _1 events; doc_id `sf-20070330-0377`._

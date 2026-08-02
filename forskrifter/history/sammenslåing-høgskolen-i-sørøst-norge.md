@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-høgskolen-i-sørøst-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-høgskolen-i-sørøst-norge — Change history
 
 _1 events; doc_id `sf-20150619-0694`._

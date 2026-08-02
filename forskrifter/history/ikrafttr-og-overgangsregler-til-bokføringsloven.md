@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-og-overgangsregler-til-bokføringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-og-overgangsregler-til-bokføringsloven — Change history
 
 _1 events; doc_id `sf-20041201-1531`._

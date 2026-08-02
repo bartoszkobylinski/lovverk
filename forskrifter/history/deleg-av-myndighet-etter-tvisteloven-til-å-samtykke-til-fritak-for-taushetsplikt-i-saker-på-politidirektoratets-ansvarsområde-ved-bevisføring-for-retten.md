@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-tvisteloven-til-å-samtykke-til-fritak-for-taushetsplikt-i-saker-på-politidirektoratets-ansvarsområde-ved-bevisføring-for-retten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-tvisteloven-til-å-samtykke-til-fritak-for-taushetsplikt-i-saker-på-politidirektoratets-ansvarsområde-ved-bevisføring-for-retten — Change history
 
 _1 events; doc_id `sf-20210329-1043`._

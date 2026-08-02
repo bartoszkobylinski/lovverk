@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-vekselloven-og-sjekkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-vekselloven-og-sjekkloven — Change history
 
 _1 events; doc_id `sf-19850906-1690`._

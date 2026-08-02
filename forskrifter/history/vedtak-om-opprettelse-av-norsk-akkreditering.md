@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-opprettelse-av-norsk-akkreditering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-opprettelse-av-norsk-akkreditering — Change history
 
 _1 events; doc_id `sf-20031212-1506`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-landbruksdepartementet-etter-husdyrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-landbruksdepartementet-etter-husdyrl — Change history
 
 _1 events; doc_id `sf-20000505-0379`._

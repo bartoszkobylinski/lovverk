@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fordelingen-av-sakene-i-domstolene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fordelingen-av-sakene-i-domstolene — Change history
 
 _2 events; doc_id `sf-20210319-0762`._

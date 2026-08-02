@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-shd-etter-sykehusl-og-helsepersonell"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-shd-etter-sykehusl-og-helsepersonell — Change history
 
 _1 events; doc_id `sf-20001201-1200`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-bidragsinnkrevingsloven-1-annet-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-bidragsinnkrevingsloven-1-annet-ledd — Change history
 
 _1 events; doc_id `sf-20180312-0337`._

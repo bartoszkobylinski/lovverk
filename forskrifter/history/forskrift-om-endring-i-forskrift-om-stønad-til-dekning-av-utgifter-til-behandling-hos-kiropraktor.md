@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-behandling-hos-kiropraktor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-behandling-hos-kiropraktor — Change history
 
 _1 events; doc_id `sf-20260609-1168`._

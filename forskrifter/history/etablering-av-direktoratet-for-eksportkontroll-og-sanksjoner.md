@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "etablering-av-direktoratet-for-eksportkontroll-og-sanksjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # etablering-av-direktoratet-for-eksportkontroll-og-sanksjoner — Change history
 
 _1 events; doc_id `sf-20240209-0243`._

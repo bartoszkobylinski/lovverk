@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-indeksreg-av-underholdsbidrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-indeksreg-av-underholdsbidrag — Change history
 
 _2 events; doc_id `sf-19811120-8986`._

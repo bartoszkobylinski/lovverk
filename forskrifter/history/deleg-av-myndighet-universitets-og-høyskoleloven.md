@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-universitets-og-høyskoleloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-universitets-og-høyskoleloven — Change history
 
 _1 events; doc_id `sf-20171215-2115`._

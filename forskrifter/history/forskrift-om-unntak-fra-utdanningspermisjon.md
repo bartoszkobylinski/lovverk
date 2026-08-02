@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-utdanningspermisjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-utdanningspermisjon — Change history
 
 _2 events; doc_id `sf-20001221-1368`._

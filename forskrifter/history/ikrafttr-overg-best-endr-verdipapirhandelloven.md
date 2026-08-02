@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-overg-best-endr-verdipapirhandelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-overg-best-endr-verdipapirhandelloven — Change history
 
 _1 events; doc_id `sf-20010629-0741`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattekontorene-etter-mva-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattekontorene-etter-mva-loven — Change history
 
 _1 events; doc_id `sf-20100706-1068`._

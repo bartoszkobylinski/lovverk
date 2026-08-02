@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overføring-av-fødselsregistreringen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overføring-av-fødselsregistreringen — Change history
 
 _2 events; doc_id `sf-19821022-3421`._

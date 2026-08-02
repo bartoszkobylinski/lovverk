@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-endringslov-til-skifteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endringslov-til-skifteloven — Change history
 
 _1 events; doc_id `sf-19901102-0883`._

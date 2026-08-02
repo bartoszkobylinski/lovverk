@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-11-juni-1976-nr-79-om-kontroll-med-produkter-og-forbrukertjenester-12a-til-klima-og-miljødepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-11-juni-1976-nr-79-om-kontroll-med-produkter-og-forbrukertjenester-12a-til-klima-og-miljødepartementet — Change history
 
 _1 events; doc_id `sf-20230921-1467`._

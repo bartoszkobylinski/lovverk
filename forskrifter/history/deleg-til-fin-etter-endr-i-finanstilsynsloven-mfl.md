@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-endr-i-finanstilsynsloven-mfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-endr-i-finanstilsynsloven-mfl — Change history
 
 _1 events; doc_id `sf-20121214-1231`._

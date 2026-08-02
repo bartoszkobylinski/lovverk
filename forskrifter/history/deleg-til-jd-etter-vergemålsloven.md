@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-vergemålsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-vergemålsloven — Change history
 
 _1 events; doc_id `sf-20121026-0999`._

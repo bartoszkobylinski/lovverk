@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-for-vegtransport-brexit"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-for-vegtransport-brexit — Change history
 
 _2 events; doc_id `sf-20191024-1406`._

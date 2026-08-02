@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kud-etter-pengespilloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kud-etter-pengespilloven — Change history
 
 _1 events; doc_id `sf-20130405-0342`._

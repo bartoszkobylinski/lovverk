@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-finansskatt-på-lønn-2019"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-finansskatt-på-lønn-2019 — Change history
 
 _1 events; doc_id `sf-20181212-1995`._

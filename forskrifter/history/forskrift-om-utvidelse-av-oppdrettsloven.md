@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utvidelse-av-oppdrettsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utvidelse-av-oppdrettsloven — Change history
 
 _2 events; doc_id `sf-20010316-0243`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-aksjeloven-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-aksjeloven-3 — Change history
 
 _1 events; doc_id `sf-19920904-0639`._

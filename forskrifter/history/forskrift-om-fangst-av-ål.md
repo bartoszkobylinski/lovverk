@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fangst-av-ål"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fangst-av-ål — Change history
 
 _2 events; doc_id `sf-20111220-1463`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-loven-2-2-annet-ledd-annet-og-fjerde-punktum-til-finansdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-loven-2-2-annet-ledd-annet-og-fjerde-punktum-til-finansdepartementet — Change history
 
 _1 events; doc_id `sf-20250321-0480`._

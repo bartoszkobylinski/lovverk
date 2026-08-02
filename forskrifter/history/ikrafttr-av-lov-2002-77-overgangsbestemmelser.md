@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-2002-77-overgangsbestemmelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-2002-77-overgangsbestemmelser — Change history
 
 _1 events; doc_id `sf-20031222-1648`._

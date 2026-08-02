@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-norsk-vigselsrett-miami-usa"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-norsk-vigselsrett-miami-usa — Change history
 
 _1 events; doc_id `sf-20050525-0483`._

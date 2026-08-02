@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvaret-for-edelmetalloven-til-nhd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvaret-for-edelmetalloven-til-nhd — Change history
 
 _1 events; doc_id `sf-20101001-1308`._

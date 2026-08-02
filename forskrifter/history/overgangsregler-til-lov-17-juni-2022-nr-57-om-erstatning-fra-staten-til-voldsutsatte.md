@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-17-juni-2022-nr-57-om-erstatning-fra-staten-til-voldsutsatte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-17-juni-2022-nr-57-om-erstatning-fra-staten-til-voldsutsatte — Change history
 
 _2 events; doc_id `sf-20221202-2073`._

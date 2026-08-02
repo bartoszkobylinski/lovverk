@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii — Change history
 
 _2 events; doc_id `sf-20260612-1077`._

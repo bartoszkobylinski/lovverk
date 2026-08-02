@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-ankeadg-til-trygderetten-for-klp"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-ankeadg-til-trygderetten-for-klp — Change history
 
 _2 events; doc_id `sf-19750606-9551`._

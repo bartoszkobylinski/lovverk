@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-konvensjon-om-inndriving-av-underholdsbidrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-konvensjon-om-inndriving-av-underholdsbidrag — Change history
 
 _2 events; doc_id `sf-19630531-9813`._

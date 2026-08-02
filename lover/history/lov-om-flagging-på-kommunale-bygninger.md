@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-flagging-på-kommunale-bygninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-flagging-på-kommunale-bygninger — Change history
 
 _2 events; doc_id `nl-19330629-002`._

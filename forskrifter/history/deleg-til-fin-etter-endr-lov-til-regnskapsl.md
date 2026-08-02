@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-endr-lov-til-regnskapsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-endr-lov-til-regnskapsl — Change history
 
 _1 events; doc_id `sf-20050610-0532`._

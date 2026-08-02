@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-asd-etter-aksjelovene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-asd-etter-aksjelovene — Change history
 
 _1 events; doc_id `sf-20140214-0187`._

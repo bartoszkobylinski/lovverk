@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-kabelsendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-kabelsendingsloven — Change history
 
 _1 events; doc_id `sf-19900216-0108`._

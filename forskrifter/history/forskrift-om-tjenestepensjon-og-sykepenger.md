@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tjenestepensjon-og-sykepenger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tjenestepensjon-og-sykepenger — Change history
 
 _2 events; doc_id `sf-19860515-4115`._

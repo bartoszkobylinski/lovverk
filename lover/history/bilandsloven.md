@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bilandsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bilandsloven — Change history
 
 _2 events; doc_id `nl-19300227-003`._

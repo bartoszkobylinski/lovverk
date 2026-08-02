@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport — Change history
 
 _1 events; doc_id `sf-20260227-0890`._

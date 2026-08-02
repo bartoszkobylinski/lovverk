@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-finansdepartementet-etter-sentralbankloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-finansdepartementet-etter-sentralbankloven — Change history
 
 _1 events; doc_id `sf-20190621-0805`._

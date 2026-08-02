@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fradrag-i-toppskattegrunnlaget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fradrag-i-toppskattegrunnlaget — Change history
 
 _2 events; doc_id `sf-19891222-1351`._

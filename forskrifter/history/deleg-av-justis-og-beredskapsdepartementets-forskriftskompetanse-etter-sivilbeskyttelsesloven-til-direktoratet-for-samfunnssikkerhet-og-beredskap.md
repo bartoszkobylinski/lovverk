@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-justis-og-beredskapsdepartementets-forskriftskompetanse-etter-sivilbeskyttelsesloven-til-direktoratet-for-samfunnssikkerhet-og-beredskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-justis-og-beredskapsdepartementets-forskriftskompetanse-etter-sivilbeskyttelsesloven-til-direktoratet-for-samfunnssikkerhet-og-beredskap — Change history
 
 _1 events; doc_id `sf-20210416-1175`._

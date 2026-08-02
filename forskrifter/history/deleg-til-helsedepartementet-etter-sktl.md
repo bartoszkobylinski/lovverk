@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-helsedepartementet-etter-sktl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-helsedepartementet-etter-sktl — Change history
 
 _1 events; doc_id `sf-20021011-1150`._

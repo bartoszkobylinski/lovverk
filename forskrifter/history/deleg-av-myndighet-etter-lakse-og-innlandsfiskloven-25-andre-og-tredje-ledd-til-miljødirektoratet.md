@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-25-andre-og-tredje-ledd-til-miljødirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-25-andre-og-tredje-ledd-til-miljødirektoratet — Change history
 
 _1 events; doc_id `sf-20210115-0114`._

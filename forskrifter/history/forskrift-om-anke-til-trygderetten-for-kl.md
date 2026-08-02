@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anke-til-trygderetten-for-kl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anke-til-trygderetten-for-kl — Change history
 
 _2 events; doc_id `sf-19740315-0005`._

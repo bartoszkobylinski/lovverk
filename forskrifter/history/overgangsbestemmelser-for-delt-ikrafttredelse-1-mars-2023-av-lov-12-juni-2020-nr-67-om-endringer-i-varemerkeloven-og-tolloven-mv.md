@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsbestemmelser-for-delt-ikrafttredelse-1-mars-2023-av-lov-12-juni-2020-nr-67-om-endringer-i-varemerkeloven-og-tolloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsbestemmelser-for-delt-ikrafttredelse-1-mars-2023-av-lov-12-juni-2020-nr-67-om-endringer-i-varemerkeloven-og-tolloven-mv — Change history
 
 _2 events; doc_id `sf-20230217-0230`._

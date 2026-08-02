@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-saksbehandlingsgebyr-for-statens-jernbanetilsyn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-saksbehandlingsgebyr-for-statens-jernbanetilsyn — Change history
 
 _2 events; doc_id `sf-20250314-0531`._

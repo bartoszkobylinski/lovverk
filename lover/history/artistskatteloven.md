@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "artistskatteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # artistskatteloven — Change history
 
 _2 events; doc_id `nl-19961213-087`._

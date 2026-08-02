@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-takseringsregler-2024"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-takseringsregler-2024 — Change history
 
 _2 events; doc_id `sf-20241128-2903`._

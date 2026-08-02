@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-meldesystem-etter-samordningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-meldesystem-etter-samordningsloven — Change history
 
 _2 events; doc_id `sf-20000706-0727`._

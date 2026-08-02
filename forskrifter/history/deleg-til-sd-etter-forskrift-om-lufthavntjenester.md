@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sd-etter-forskrift-om-lufthavntjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sd-etter-forskrift-om-lufthavntjenester — Change history
 
 _1 events; doc_id `sf-20001103-1095`._

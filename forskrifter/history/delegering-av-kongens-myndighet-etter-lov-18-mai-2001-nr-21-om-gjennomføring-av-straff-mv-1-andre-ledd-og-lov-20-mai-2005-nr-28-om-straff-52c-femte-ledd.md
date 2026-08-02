@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-18-mai-2001-nr-21-om-gjennomføring-av-straff-mv-1-andre-ledd-og-lov-20-mai-2005-nr-28-om-straff-52c-femte-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-18-mai-2001-nr-21-om-gjennomføring-av-straff-mv-1-andre-ledd-og-lov-20-mai-2005-nr-28-om-straff-52c-femte-ledd — Change history
 
 _1 events; doc_id `sf-20240524-0825`._

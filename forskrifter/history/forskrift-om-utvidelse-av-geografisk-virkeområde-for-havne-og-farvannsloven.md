@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utvidelse-av-geografisk-virkeområde-for-havne-og-farvannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utvidelse-av-geografisk-virkeområde-for-havne-og-farvannsloven — Change history
 
 _2 events; doc_id `sf-20101217-1607`._

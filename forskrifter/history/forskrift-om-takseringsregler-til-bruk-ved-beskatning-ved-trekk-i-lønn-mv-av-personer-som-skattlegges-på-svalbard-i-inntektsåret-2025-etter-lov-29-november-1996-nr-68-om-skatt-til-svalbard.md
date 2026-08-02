@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-takseringsregler-til-bruk-ved-beskatning-ved-trekk-i-lønn-mv-av-personer-som-skattlegges-på-svalbard-i-inntektsåret-2025-etter-lov-29-november-1996-nr-68-om-skatt-til-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-takseringsregler-til-bruk-ved-beskatning-ved-trekk-i-lønn-mv-av-personer-som-skattlegges-på-svalbard-i-inntektsåret-2025-etter-lov-29-november-1996-nr-68-om-skatt-til-svalbard — Change history
 
 _2 events; doc_id `sf-20241210-3013`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-pass-og-id-kortforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-pass-og-id-kortforskriften — Change history
 
 _2 events; doc_id `sf-20251218-2657`._

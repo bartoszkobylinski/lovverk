@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-beregning-av-kapitalverdier"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beregning-av-kapitalverdier — Change history
 
 _2 events; doc_id `sf-19970325-0273`._

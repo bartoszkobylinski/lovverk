@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nasjonal-retningslinje-for-operasjonssykepleierutdanning-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nasjonal-retningslinje-for-operasjonssykepleierutdanning-2 — Change history
 
 _2 events; doc_id `sf-20250905-1830`._

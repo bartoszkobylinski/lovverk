@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "hendelege-eigedomshøvelova-hendl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # hendelege-eigedomshøvelova-hendl — Change history
 
 _2 events; doc_id `nl-19690410-017`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-staten-sine-kontrollørar-for-fiskesalslaga"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-staten-sine-kontrollørar-for-fiskesalslaga — Change history
 
 _2 events; doc_id `sf-20251214-2587`._

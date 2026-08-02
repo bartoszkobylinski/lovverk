@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-aml-statstilsatte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-aml-statstilsatte — Change history
 
 _2 events; doc_id `sf-19800606-0006`._

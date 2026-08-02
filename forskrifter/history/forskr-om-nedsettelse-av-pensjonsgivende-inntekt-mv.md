@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-nedsettelse-av-pensjonsgivende-inntekt-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-nedsettelse-av-pensjonsgivende-inntekt-mv — Change history
 
 _2 events; doc_id `sf-19971219-1421`._

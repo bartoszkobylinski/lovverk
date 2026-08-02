@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-domsmyndighet-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-domsmyndighet-på-svalbard — Change history
 
 _2 events; doc_id `sf-19850308-0532`._

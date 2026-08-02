@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-hd-ld-og-fid-etter-matloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-hd-ld-og-fid-etter-matloven — Change history
 
 _1 events; doc_id `sf-20040116-0093`._

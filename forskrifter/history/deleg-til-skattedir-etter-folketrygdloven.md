@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattedir-etter-folketrygdloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattedir-etter-folketrygdloven — Change history
 
 _1 events; doc_id `sf-20071019-1265`._

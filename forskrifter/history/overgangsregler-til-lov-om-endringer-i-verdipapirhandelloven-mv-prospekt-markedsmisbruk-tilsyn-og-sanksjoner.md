@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-om-endringer-i-verdipapirhandelloven-mv-prospekt-markedsmisbruk-tilsyn-og-sanksjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-om-endringer-i-verdipapirhandelloven-mv-prospekt-markedsmisbruk-tilsyn-og-sanksjoner — Change history
 
 _2 events; doc_id `sf-20210224-0540`._

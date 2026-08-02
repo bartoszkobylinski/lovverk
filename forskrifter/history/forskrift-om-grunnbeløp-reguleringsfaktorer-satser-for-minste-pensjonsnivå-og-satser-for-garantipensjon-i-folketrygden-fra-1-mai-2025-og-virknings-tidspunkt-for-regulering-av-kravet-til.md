@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til — Change history
 
 _2 events; doc_id `sf-20250523-0837`._

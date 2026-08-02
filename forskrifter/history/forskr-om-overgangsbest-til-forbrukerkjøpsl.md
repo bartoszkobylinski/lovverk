@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-overgangsbest-til-forbrukerkjøpsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-overgangsbest-til-forbrukerkjøpsl — Change history
 
 _2 events; doc_id `sf-20060630-0874`._

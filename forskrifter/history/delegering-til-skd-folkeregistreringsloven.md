@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-skd-folkeregistreringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-skd-folkeregistreringsloven — Change history
 
 _1 events; doc_id `sf-20060919-1085`._

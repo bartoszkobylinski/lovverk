@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-endringslov-til-utlendl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-endringslov-til-utlendl — Change history
 
 _1 events; doc_id `sf-20000728-0794`._

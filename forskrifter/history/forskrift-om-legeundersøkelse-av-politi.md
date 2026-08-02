@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-legeundersøkelse-av-politi"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-legeundersøkelse-av-politi — Change history
 
 _1 events; doc_id `sf-19530731-0002`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-fra-nhd-til-bfd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-fra-nhd-til-bfd — Change history
 
 _1 events; doc_id `sf-20010622-0703`._

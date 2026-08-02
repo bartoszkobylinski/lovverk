@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-avløsning-i-reindrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-avløsning-i-reindrift — Change history
 
 _5 events; doc_id `sf-20210622-2268`._

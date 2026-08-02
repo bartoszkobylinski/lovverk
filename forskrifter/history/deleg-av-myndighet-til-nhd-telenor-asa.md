@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-nhd-telenor-asa"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-nhd-telenor-asa — Change history
 
 _1 events; doc_id `sf-20001103-1094`._

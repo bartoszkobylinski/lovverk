@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lov-om-midlertidig-tilskuddsordning-for-foretak-med-stort-omsetningsfall-3-første-ledd-annet-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lov-om-midlertidig-tilskuddsordning-for-foretak-med-stort-omsetningsfall-3-første-ledd-annet-punktum — Change history
 
 _1 events; doc_id `sf-20200623-1299`._

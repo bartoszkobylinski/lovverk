@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-å-fastsette-forskrift-om-prøveordning-om-teigbasert-tilskudd-for-nord-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-å-fastsette-forskrift-om-prøveordning-om-teigbasert-tilskudd-for-nord-norge — Change history
 
 _1 events; doc_id `sf-20250324-0613`._

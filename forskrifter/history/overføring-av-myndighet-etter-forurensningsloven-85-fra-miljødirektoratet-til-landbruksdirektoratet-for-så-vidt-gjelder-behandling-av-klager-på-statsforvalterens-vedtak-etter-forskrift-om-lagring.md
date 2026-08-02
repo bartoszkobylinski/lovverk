@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-etter-forurensningsloven-85-fra-miljødirektoratet-til-landbruksdirektoratet-for-så-vidt-gjelder-behandling-av-klager-på-statsforvalterens-vedtak-etter-forskrift-om-lagring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-etter-forurensningsloven-85-fra-miljødirektoratet-til-landbruksdirektoratet-for-så-vidt-gjelder-behandling-av-klager-på-statsforvalterens-vedtak-etter-forskrift-om-lagring — Change history
 
 _1 events; doc_id `sf-20250214-0216`._

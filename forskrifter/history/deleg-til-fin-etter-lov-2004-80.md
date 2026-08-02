@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-lov-2004-80"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-lov-2004-80 — Change history
 
 _1 events; doc_id `sf-20041210-1611`._

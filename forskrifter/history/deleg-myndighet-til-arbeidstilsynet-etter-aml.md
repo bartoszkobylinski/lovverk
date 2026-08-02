@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-arbeidstilsynet-etter-aml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-arbeidstilsynet-etter-aml — Change history
 
 _1 events; doc_id `sf-19980324-4677`._

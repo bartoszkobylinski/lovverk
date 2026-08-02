@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kunngj-av-virkningstidspunkt-dagpengeminsteinntekt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kunngj-av-virkningstidspunkt-dagpengeminsteinntekt — Change history
 
 _2 events; doc_id `sf-20120525-0461`._

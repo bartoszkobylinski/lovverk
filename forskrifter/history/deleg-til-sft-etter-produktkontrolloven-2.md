@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sft-etter-produktkontrolloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sft-etter-produktkontrolloven-2 — Change history
 
 _1 events; doc_id `sf-20090405-0574`._

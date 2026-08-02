@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-25-juni-2024-nr-58-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap-2-annet-ledd-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-25-juni-2024-nr-58-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap-2-annet-ledd-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-20240625-1220`._

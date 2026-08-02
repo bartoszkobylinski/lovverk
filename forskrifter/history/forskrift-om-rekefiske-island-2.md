@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rekefiske-island-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rekefiske-island-2 — Change history
 
 _2 events; doc_id `sf-19960719-0741`._

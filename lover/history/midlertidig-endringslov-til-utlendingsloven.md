@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-endringslov-til-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-endringslov-til-utlendingsloven — Change history
 
 _2 events; doc_id `nl-20240621-050`._

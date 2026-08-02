@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-blåreseptforskriften-6"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-blåreseptforskriften-6 — Change history
 
 _2 events; doc_id `sf-20260326-0554`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-fvl-13d-til-nve"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-fvl-13d-til-nve — Change history
 
 _1 events; doc_id `sf-20160216-0156`._

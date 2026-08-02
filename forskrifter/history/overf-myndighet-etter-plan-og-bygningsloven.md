@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-myndighet-etter-plan-og-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-myndighet-etter-plan-og-bygningsloven — Change history
 
 _1 events; doc_id `sf-20150619-0670`._

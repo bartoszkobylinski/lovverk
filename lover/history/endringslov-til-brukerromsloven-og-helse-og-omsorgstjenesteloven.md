@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-brukerromsloven-og-helse-og-omsorgstjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-brukerromsloven-og-helse-og-omsorgstjenesteloven — Change history
 
 _1 events; doc_id `nl-20260619-043`._

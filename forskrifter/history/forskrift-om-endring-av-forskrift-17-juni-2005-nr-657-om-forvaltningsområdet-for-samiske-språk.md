@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-av-forskrift-17-juni-2005-nr-657-om-forvaltningsområdet-for-samiske-språk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-av-forskrift-17-juni-2005-nr-657-om-forvaltningsområdet-for-samiske-språk — Change history
 
 _2 events; doc_id `sf-20250926-1935`._

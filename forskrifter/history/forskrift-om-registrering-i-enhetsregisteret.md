@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-registrering-i-enhetsregisteret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-registrering-i-enhetsregisteret — Change history
 
 _2 events; doc_id `sf-19950209-0114`._

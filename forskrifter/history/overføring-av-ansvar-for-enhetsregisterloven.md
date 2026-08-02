@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvar-for-enhetsregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvar-for-enhetsregisterloven — Change history
 
 _1 events; doc_id `sf-20030829-1095`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-endring-av-navn-til-helsedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-endring-av-navn-til-helsedirektoratet — Change history
 
 _1 events; doc_id `sf-20080314-0257`._

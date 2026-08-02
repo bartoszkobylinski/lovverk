@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-for-brudd-på-røykeforbudet-i-private-kjøretøy-med-barn-til-stede"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-for-brudd-på-røykeforbudet-i-private-kjøretøy-med-barn-til-stede — Change history
 
 _2 events; doc_id `sf-20251212-2511`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-voldsoffererstatningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-voldsoffererstatningsloven — Change history
 
 _1 events; doc_id `sf-20120330-0264`._

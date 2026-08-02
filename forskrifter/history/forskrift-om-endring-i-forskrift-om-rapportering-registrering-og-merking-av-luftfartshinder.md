@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder — Change history
 
 _5 events; doc_id `sf-20260623-1255`._

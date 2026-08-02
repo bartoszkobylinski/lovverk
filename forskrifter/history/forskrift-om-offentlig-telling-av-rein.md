@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-telling-av-rein"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-telling-av-rein — Change history
 
 _2 events; doc_id `sf-20090622-0842`._

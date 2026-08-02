@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ambulansebåttjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ambulansebåttjenesten — Change history
 
 _2 events; doc_id `sf-20040217-0408`._

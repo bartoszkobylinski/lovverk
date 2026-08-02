@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "habilitetsregelverket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # habilitetsregelverket — Change history
 
 _1 events; doc_id `sf-20191220-2095`._

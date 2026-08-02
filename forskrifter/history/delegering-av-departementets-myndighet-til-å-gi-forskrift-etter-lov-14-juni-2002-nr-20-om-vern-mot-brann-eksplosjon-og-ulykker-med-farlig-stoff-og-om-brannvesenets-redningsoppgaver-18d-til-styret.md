@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-departementets-myndighet-til-å-gi-forskrift-etter-lov-14-juni-2002-nr-20-om-vern-mot-brann-eksplosjon-og-ulykker-med-farlig-stoff-og-om-brannvesenets-redningsoppgaver-18d-til-styret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-departementets-myndighet-til-å-gi-forskrift-etter-lov-14-juni-2002-nr-20-om-vern-mot-brann-eksplosjon-og-ulykker-med-farlig-stoff-og-om-brannvesenets-redningsoppgaver-18d-til-styret — Change history
 
 _1 events; doc_id `sf-20230127-0101`._

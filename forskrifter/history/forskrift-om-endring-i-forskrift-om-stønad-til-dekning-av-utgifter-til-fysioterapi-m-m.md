@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m — Change history
 
 _4 events; doc_id `sf-20260622-1212`._

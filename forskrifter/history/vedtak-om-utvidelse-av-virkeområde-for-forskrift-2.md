@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-utvidelse-av-virkeområde-for-forskrift-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-utvidelse-av-virkeområde-for-forskrift-2 — Change history
 
 _2 events; doc_id `sf-20080602-0526`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tollpref-for-varer-fra-u-land"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tollpref-for-varer-fra-u-land — Change history
 
 _2 events; doc_id `sf-19710903-0003`._

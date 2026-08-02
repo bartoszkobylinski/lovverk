@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskningsetikkforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskningsetikkforskriften — Change history
 
 _2 events; doc_id `sf-20180305-0321`._

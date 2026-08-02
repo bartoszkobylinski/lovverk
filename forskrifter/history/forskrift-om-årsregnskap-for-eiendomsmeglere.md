@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-årsregnskap-for-eiendomsmeglere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-årsregnskap-for-eiendomsmeglere — Change history
 
 _2 events; doc_id `sf-19991014-1084`._

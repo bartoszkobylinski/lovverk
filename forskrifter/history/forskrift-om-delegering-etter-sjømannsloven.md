@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-etter-sjømannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-etter-sjømannsloven — Change history
 
 _1 events; doc_id `sf-19860131-0221`._

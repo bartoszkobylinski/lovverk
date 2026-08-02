@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-midl-lov-om-innreiserestriksjoner-for-utlendinger-av-hensyn-til-folkehelsen-og-smittevernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-midl-lov-om-innreiserestriksjoner-for-utlendinger-av-hensyn-til-folkehelsen-og-smittevernloven — Change history
 
 _1 events; doc_id `sf-20200619-1244`._

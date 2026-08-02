@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-pensjon-for-kommuneansatte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-pensjon-for-kommuneansatte — Change history
 
 _2 events; doc_id `sf-19970422-0374`._

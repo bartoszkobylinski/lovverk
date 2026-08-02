@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-vegdirektoratet-etter-forbrukermerkeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-vegdirektoratet-etter-forbrukermerkeloven — Change history
 
 _1 events; doc_id `sf-20121214-1268`._

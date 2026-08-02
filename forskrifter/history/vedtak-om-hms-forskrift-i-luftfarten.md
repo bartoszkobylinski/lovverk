@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-hms-forskrift-i-luftfarten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-hms-forskrift-i-luftfarten — Change history
 
 _2 events; doc_id `sf-20021213-1497`._

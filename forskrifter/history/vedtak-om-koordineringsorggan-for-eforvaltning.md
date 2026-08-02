@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-koordineringsorggan-for-eforvaltning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-koordineringsorggan-for-eforvaltning — Change history
 
 _1 events; doc_id `sf-20051007-1117`._

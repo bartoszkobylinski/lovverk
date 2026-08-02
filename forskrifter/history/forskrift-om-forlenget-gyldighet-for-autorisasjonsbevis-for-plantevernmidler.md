@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forlenget-gyldighet-for-autorisasjonsbevis-for-plantevernmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forlenget-gyldighet-for-autorisasjonsbevis-for-plantevernmidler — Change history
 
 _2 events; doc_id `sf-20260115-0047`._

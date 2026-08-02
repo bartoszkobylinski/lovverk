@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-skattedir-etter-selsktl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-skattedir-etter-selsktl — Change history
 
 _1 events; doc_id `sf-19970908-0964`._

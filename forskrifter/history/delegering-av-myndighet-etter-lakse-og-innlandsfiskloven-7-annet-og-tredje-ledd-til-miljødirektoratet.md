@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-lakse-og-innlandsfiskloven-7-annet-og-tredje-ledd-til-miljødirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-lakse-og-innlandsfiskloven-7-annet-og-tredje-ledd-til-miljødirektoratet — Change history
 
 _1 events; doc_id `sf-20230331-0462`._

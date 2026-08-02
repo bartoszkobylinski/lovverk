@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-e-pengeforetaksloven-m-fl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-e-pengeforetaksloven-m-fl — Change history
 
 _1 events; doc_id `sf-20030324-0464`._

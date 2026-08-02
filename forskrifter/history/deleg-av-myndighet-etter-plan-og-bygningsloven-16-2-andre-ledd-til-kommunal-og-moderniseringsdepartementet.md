@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-plan-og-bygningsloven-16-2-andre-ledd-til-kommunal-og-moderniseringsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-plan-og-bygningsloven-16-2-andre-ledd-til-kommunal-og-moderniseringsdepartementet — Change history
 
 _1 events; doc_id `sf-20200828-1782`._

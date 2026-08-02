@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forurl-på-svalbard-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forurl-på-svalbard-jan-mayen — Change history
 
 _2 events; doc_id `sf-19970822-0945`._

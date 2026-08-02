@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-brann-og-eksplosjonsvernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-brann-og-eksplosjonsvernloven — Change history
 
 _1 events; doc_id `sf-20030912-1135`._

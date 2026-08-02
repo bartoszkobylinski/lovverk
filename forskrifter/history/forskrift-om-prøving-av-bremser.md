@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-prøving-av-bremser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-prøving-av-bremser — Change history
 
 _2 events; doc_id `sf-19761115-0002`._

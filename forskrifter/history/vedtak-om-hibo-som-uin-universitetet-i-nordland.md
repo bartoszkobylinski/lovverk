@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-hibo-som-uin-universitetet-i-nordland"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-hibo-som-uin-universitetet-i-nordland — Change history
 
 _1 events; doc_id `sf-20101119-1470`._

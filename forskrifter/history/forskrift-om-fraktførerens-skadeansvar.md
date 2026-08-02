@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fraktførerens-skadeansvar"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fraktførerens-skadeansvar — Change history
 
 _2 events; doc_id `sf-20110106-0009`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-aad-og-sd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-aad-og-sd — Change history
 
 _1 events; doc_id `sf-20010615-0615`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll — Change history
 
 _4 events; doc_id `sf-20100303-0307`._

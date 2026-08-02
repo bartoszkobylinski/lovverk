@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-godtgj-for-polititjeneste"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-godtgj-for-polititjeneste — Change history
 
 _1 events; doc_id `sf-19530626-9512`._

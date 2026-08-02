@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "iverksetj-av-endr-i-grunnskoleloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # iverksetj-av-endr-i-grunnskoleloven — Change history
 
 _1 events; doc_id `sf-19970627-0645`._

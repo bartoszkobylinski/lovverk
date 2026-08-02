@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fangst-av-elvemusling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fangst-av-elvemusling — Change history
 
 _2 events; doc_id `sf-19921230-1230`._

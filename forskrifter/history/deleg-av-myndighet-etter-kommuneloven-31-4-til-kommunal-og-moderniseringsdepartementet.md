@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-kommuneloven-31-4-til-kommunal-og-moderniseringsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-kommuneloven-31-4-til-kommunal-og-moderniseringsdepartementet — Change history
 
 _1 events; doc_id `sf-20181220-2063`._

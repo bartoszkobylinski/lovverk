@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utmåling-av-overtredelsesgebyr-ved-brudd-på-regler-etter-lov-om-jakt-fangst-og-felling-av-vilt-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utmåling-av-overtredelsesgebyr-ved-brudd-på-regler-etter-lov-om-jakt-fangst-og-felling-av-vilt-mv — Change history
 
 _1 events; doc_id `sf-20260626-1382`._

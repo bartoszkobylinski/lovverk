@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-og-delegering-av-myndighet-etter-forurensningsloven-44-til-nærings-og-fiskeridepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-og-delegering-av-myndighet-etter-forurensningsloven-44-til-nærings-og-fiskeridepartementet — Change history
 
 _1 events; doc_id `sf-20211222-3807`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-rammeplan-for-jordmor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-rammeplan-for-jordmor — Change history
 
 _2 events; doc_id `sf-20051201-1390`._

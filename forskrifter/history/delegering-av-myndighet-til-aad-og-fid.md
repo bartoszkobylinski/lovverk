@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-aad-og-fid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-aad-og-fid — Change history
 
 _1 events; doc_id `sf-19980618-0585`._

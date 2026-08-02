@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-salærforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-salærforskriften — Change history
 
 _2 events; doc_id `sf-20250822-1695`._

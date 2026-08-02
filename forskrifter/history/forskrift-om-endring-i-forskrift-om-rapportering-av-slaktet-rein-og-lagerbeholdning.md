@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-rapportering-av-slaktet-rein-og-lagerbeholdning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-rapportering-av-slaktet-rein-og-lagerbeholdning — Change history
 
 _1 events; doc_id `sf-20260622-1175`._

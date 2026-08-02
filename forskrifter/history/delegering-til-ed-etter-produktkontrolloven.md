@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-ed-etter-produktkontrolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-ed-etter-produktkontrolloven — Change history
 
 _1 events; doc_id `sf-19990820-0949`._

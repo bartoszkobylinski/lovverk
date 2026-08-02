@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nemnd-for-behandling-av-klager-på-erstatning-fra-arbeids-og-velferdsetaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nemnd-for-behandling-av-klager-på-erstatning-fra-arbeids-og-velferdsetaten — Change history
 
 _2 events; doc_id `sf-20200322-0889`._

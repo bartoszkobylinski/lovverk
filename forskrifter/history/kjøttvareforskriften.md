@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kjøttvareforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kjøttvareforskriften — Change history
 
 _2 events; doc_id `sf-19830218-0150`._

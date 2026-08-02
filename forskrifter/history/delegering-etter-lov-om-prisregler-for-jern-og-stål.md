@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-om-prisregler-for-jern-og-stål"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-om-prisregler-for-jern-og-stål — Change history
 
 _1 events; doc_id `sf-19740607-0001`._

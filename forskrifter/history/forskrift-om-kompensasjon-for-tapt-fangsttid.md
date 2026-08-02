@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kompensasjon-for-tapt-fangsttid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kompensasjon-for-tapt-fangsttid — Change history
 
 _2 events; doc_id `sf-20090619-0700`._

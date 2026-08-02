@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-etter-luftfartsloven — Change history
 
 _2 events; doc_id `sf-19850329-0699`._

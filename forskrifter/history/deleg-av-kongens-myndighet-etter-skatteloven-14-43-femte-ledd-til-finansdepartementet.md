@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-skatteloven-14-43-femte-ledd-til-finansdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-skatteloven-14-43-femte-ledd-til-finansdepartementet — Change history
 
 _1 events; doc_id `sf-20201005-1964`._

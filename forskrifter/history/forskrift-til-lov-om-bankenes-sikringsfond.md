@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-lov-om-bankenes-sikringsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-lov-om-bankenes-sikringsfond — Change history
 
 _2 events; doc_id `sf-20181219-2145`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-om-avfall-82-første-annet-og-tredje-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-om-avfall-82-første-annet-og-tredje-ledd — Change history
 
 _1 events; doc_id `sf-20241220-3301`._

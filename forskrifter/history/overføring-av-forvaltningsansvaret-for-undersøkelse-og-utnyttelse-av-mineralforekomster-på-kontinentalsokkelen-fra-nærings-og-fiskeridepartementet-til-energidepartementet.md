@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-undersøkelse-og-utnyttelse-av-mineralforekomster-på-kontinentalsokkelen-fra-nærings-og-fiskeridepartementet-til-energidepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-undersøkelse-og-utnyttelse-av-mineralforekomster-på-kontinentalsokkelen-fra-nærings-og-fiskeridepartementet-til-energidepartementet — Change history
 
 _1 events; doc_id `sf-20170331-0417`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-mellom-stat-og-kommune"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-mellom-stat-og-kommune — Change history
 
 _2 events; doc_id `sf-20070126-0107`._

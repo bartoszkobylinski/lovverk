@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kompetanse-etter-karanteneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kompetanse-etter-karanteneloven — Change history
 
 _1 events; doc_id `sf-20160205-0096`._

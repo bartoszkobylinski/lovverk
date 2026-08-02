@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-av-personskadetrygd-med-ventetillegg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-av-personskadetrygd-med-ventetillegg — Change history
 
 _2 events; doc_id `sf-19881216-1133`._

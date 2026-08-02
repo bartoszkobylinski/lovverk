@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-rett-til-å-selja-uhenta-ting"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-rett-til-å-selja-uhenta-ting — Change history
 
 _2 events; doc_id `nl-19530529-001`._

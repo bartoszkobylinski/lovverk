@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-i-matforvaltningen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-i-matforvaltningen — Change history
 
 _4 events; doc_id `sf-20040128-0221`._

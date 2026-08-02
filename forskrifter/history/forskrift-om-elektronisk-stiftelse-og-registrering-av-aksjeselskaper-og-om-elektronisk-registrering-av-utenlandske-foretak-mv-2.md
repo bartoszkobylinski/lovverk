@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-elektronisk-stiftelse-og-registrering-av-aksjeselskaper-og-om-elektronisk-registrering-av-utenlandske-foretak-mv-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-elektronisk-stiftelse-og-registrering-av-aksjeselskaper-og-om-elektronisk-registrering-av-utenlandske-foretak-mv-2 — Change history
 
 _2 events; doc_id `sf-20250806-1612`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "hittegodslova-hgl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # hittegodslova-hgl — Change history
 
 _5 events; doc_id `nl-19530529-003`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-finansdepartementet-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-finansdepartementet-4 — Change history
 
 _1 events; doc_id `sf-20021213-1605`._

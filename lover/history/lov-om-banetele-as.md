@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-banetele-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-banetele-as — Change history
 
 _2 events; doc_id `nl-20010615-087`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvar-for-bilansvarslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvar-for-bilansvarslova — Change history
 
 _1 events; doc_id `sf-20081107-1199`._

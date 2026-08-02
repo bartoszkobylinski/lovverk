@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-mynd-oppbevaring-av-gass"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-mynd-oppbevaring-av-gass — Change history
 
 _2 events; doc_id `sf-19980529-0564`._

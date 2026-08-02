@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-verdipapirhandell-og-revisorl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-verdipapirhandell-og-revisorl — Change history
 
 _1 events; doc_id `sf-20050304-0202`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-hestekjøttprodukter-fra-mexico"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-hestekjøttprodukter-fra-mexico — Change history
 
 _2 events; doc_id `sf-20070910-1032`._

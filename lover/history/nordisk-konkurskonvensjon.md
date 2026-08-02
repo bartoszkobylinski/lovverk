@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "nordisk-konkurskonvensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # nordisk-konkurskonvensjon — Change history
 
 _2 events; doc_id `nl-19331107-000`._

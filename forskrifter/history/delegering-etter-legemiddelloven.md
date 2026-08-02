@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-legemiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-legemiddelloven — Change history
 
 _1 events; doc_id `sf-19950608-0521`._

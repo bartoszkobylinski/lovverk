@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-1997-13-tobakksl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-1997-13-tobakksl — Change history
 
 _1 events; doc_id `sf-19970117-0025`._

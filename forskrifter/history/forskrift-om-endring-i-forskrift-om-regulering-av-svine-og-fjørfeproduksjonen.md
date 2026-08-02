@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-regulering-av-svine-og-fjørfeproduksjonen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-regulering-av-svine-og-fjørfeproduksjonen — Change history
 
 _2 events; doc_id `sf-20251217-2624`._

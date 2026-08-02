@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-saker-for-konkurranseklagenemnda"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-saker-for-konkurranseklagenemnda — Change history
 
 _2 events; doc_id `sf-20181214-2031`._

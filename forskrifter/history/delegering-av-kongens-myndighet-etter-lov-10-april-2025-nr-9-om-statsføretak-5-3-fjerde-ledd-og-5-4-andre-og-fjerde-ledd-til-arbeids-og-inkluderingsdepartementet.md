@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-10-april-2025-nr-9-om-statsføretak-5-3-fjerde-ledd-og-5-4-andre-og-fjerde-ledd-til-arbeids-og-inkluderingsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-10-april-2025-nr-9-om-statsføretak-5-3-fjerde-ledd-og-5-4-andre-og-fjerde-ledd-til-arbeids-og-inkluderingsdepartementet — Change history
 
 _1 events; doc_id `sf-20260306-0345`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-lov-om-finansfond-og-obligasjonsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-lov-om-finansfond-og-obligasjonsfond — Change history
 
 _1 events; doc_id `sf-20090306-0267`._

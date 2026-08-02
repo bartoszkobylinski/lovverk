@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delv-ikrafttr-produktansvarsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delv-ikrafttr-produktansvarsloven-delegering — Change history
 
 _1 events; doc_id `sf-19881223-1065`._

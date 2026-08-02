@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiske-etter-reker-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiske-etter-reker-svalbard — Change history
 
 _2 events; doc_id `sf-20000920-1697`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-midl-kompensasjon-ved-nullsats-for-arbeidsgiveravgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-midl-kompensasjon-ved-nullsats-for-arbeidsgiveravgift — Change history
 
 _2 events; doc_id `nl-20200623-110`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sensurfrist-ved-hist"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sensurfrist-ved-hist — Change history
 
 _2 events; doc_id `sf-20051116-1340`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-å-ettergi-erstatningskrav-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-å-ettergi-erstatningskrav-m-m — Change history
 
 _1 events; doc_id `sf-20100903-1244`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-bfd-etter-ekteskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-bfd-etter-ekteskapsloven — Change history
 
 _1 events; doc_id `sf-20040910-1254`._

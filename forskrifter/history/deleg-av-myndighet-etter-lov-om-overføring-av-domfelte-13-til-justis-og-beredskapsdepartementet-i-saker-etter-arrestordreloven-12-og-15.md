@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lov-om-overføring-av-domfelte-13-til-justis-og-beredskapsdepartementet-i-saker-etter-arrestordreloven-12-og-15"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lov-om-overføring-av-domfelte-13-til-justis-og-beredskapsdepartementet-i-saker-etter-arrestordreloven-12-og-15 — Change history
 
 _1 events; doc_id `sf-20200623-1284`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-luftfartsloven-8-1"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-luftfartsloven-8-1 — Change history
 
 _1 events; doc_id `sf-20011026-1224`._

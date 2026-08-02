@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-yrkestransportforskriften-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-yrkestransportforskriften-2 — Change history
 
 _2 events; doc_id `sf-20251117-2284`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nfd-etter-nis-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nfd-etter-nis-loven — Change history
 
 _1 events; doc_id `sf-20080215-0157`._

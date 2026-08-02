@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-omdannelse-av-vps"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omdannelse-av-vps — Change history
 
 _2 events; doc_id `sf-20021220-1726`._

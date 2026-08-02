@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-husbanken-til-å-begjære-påtale-på-statens-vegne"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-husbanken-til-å-begjære-påtale-på-statens-vegne — Change history
 
 _1 events; doc_id `sf-20170515-0598`._

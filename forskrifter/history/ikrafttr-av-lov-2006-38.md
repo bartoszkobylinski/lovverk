@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-2006-38"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-2006-38 — Change history
 
 _1 events; doc_id `sf-20060630-0773`._

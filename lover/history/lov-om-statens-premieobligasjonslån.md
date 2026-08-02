@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-statens-premieobligasjonslån"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-statens-premieobligasjonslån — Change history
 
 _2 events; doc_id `nl-19240613-004`._

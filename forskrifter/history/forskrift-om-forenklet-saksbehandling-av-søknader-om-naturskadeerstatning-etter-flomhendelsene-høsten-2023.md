@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forenklet-saksbehandling-av-søknader-om-naturskadeerstatning-etter-flomhendelsene-høsten-2023"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forenklet-saksbehandling-av-søknader-om-naturskadeerstatning-etter-flomhendelsene-høsten-2023 — Change history
 
 _2 events; doc_id `sf-20230918-1440`._

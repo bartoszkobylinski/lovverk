@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-justis-og-beredskapsdepartementets-myndighet-til-å-utøve-statens-partsstilling-etter-tvisteloven-2-5-ved-fremming-av-politiets-sivile-krav-under-straffesak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-justis-og-beredskapsdepartementets-myndighet-til-å-utøve-statens-partsstilling-etter-tvisteloven-2-5-ved-fremming-av-politiets-sivile-krav-under-straffesak — Change history
 
 _1 events; doc_id `sf-20200210-0116`._

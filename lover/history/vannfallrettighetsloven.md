@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vannfallrettighetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vannfallrettighetsloven — Change history
 
 _2 events; doc_id `nl-19171214-016`._

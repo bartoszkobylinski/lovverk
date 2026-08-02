@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "myndighet-som-klageinstans-etter-naturmangfoldloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # myndighet-som-klageinstans-etter-naturmangfoldloven — Change history
 
 _1 events; doc_id `sf-20110513-0513`._

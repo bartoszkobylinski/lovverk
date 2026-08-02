@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-refusjon-for-opphold-i-institusjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-refusjon-for-opphold-i-institusjon — Change history
 
 _2 events; doc_id `sf-20031126-1397`._

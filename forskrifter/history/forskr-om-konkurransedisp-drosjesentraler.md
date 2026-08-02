@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-konkurransedisp-drosjesentraler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-konkurransedisp-drosjesentraler — Change history
 
 _2 events; doc_id `sf-20021018-1165`._

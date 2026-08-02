@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-av-pensjon-fra-pensjonsordning-for-stortingsrepresentanter-og-regjeringsmedlemmer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-av-pensjon-fra-pensjonsordning-for-stortingsrepresentanter-og-regjeringsmedlemmer — Change history
 
 _2 events; doc_id `sf-19960701-0683`._

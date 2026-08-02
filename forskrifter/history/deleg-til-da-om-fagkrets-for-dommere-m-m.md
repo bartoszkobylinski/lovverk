@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-da-om-fagkrets-for-dommere-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-da-om-fagkrets-for-dommere-m-m — Change history
 
 _1 events; doc_id `sf-20141015-1304`._

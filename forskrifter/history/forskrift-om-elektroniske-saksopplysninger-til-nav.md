@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-elektroniske-saksopplysninger-til-nav"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-elektroniske-saksopplysninger-til-nav — Change history
 
 _2 events; doc_id `sf-20180620-0937`._

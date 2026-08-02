@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rådgivning-i-potetsektoren"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rådgivning-i-potetsektoren — Change history
 
 _2 events; doc_id `sf-19990909-1009`._

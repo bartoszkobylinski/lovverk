@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-energieffektive-innkjøp-av-varer-og-tjenester-i-sentralforvaltningen-og-forsvaret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-energieffektive-innkjøp-av-varer-og-tjenester-i-sentralforvaltningen-og-forsvaret — Change history
 
 _1 events; doc_id `sf-20250620-1257`._

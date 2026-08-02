@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv-2 — Change history
 
 _2 events; doc_id `sf-20231124-1903`._

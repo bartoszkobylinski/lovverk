@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-endringer-i-lov-26-juni-1998-nr-41-om-kontantstøtte-til-småbarnsforeldre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-endringer-i-lov-26-juni-1998-nr-41-om-kontantstøtte-til-småbarnsforeldre — Change history
 
 _2 events; doc_id `sf-20241030-2592`._

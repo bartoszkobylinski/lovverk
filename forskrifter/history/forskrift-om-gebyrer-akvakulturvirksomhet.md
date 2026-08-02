@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyrer-akvakulturvirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyrer-akvakulturvirksomhet — Change history
 
 _2 events; doc_id `sf-20011221-1597`._

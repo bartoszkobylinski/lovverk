@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-19-annet-og-tredje-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-19-annet-og-tredje-ledd — Change history
 
 _1 events; doc_id `sf-20240206-0199`._

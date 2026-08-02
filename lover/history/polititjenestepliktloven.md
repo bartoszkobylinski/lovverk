@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "polititjenestepliktloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # polititjenestepliktloven — Change history
 
 _2 events; doc_id `nl-19521121-003`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-omlasting-av-og-ilandføring-i-norsk-havn-av-pelagisk-snabeluer-fra-irmingerhavet-og-tilstøtende-områder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-omlasting-av-og-ilandføring-i-norsk-havn-av-pelagisk-snabeluer-fra-irmingerhavet-og-tilstøtende-områder — Change history
 
 _2 events; doc_id `sf-20230623-1095`._

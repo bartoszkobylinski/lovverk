@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-forvaltningsloven-13d-første-ledd-til-skattedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-forvaltningsloven-13d-første-ledd-til-skattedirektoratet — Change history
 
 _1 events; doc_id `sf-20251016-2046`._

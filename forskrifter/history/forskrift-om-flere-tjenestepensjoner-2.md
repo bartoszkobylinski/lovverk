@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-flere-tjenestepensjoner-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-flere-tjenestepensjoner-2 — Change history
 
 _2 events; doc_id `sf-19740315-4092`._

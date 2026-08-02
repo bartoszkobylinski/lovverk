@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-og-deleg-etter-sertifiseringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-og-deleg-etter-sertifiseringsloven — Change history
 
 _1 events; doc_id `sf-19811211-0001`._

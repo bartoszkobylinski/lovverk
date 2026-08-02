@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføringsvedtak-fra-jd-til-ad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføringsvedtak-fra-jd-til-ad — Change history
 
 _1 events; doc_id `sf-20100813-1173`._

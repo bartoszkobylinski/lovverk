@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-myndighet-etter-tvangsloven-11-56"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-myndighet-etter-tvangsloven-11-56 — Change history
 
 _1 events; doc_id `sf-19921204-0883`._

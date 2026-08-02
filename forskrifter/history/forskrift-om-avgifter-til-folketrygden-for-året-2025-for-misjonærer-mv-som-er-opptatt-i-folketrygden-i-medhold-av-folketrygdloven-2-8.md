@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-avgifter-til-folketrygden-for-året-2025-for-misjonærer-mv-som-er-opptatt-i-folketrygden-i-medhold-av-folketrygdloven-2-8"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avgifter-til-folketrygden-for-året-2025-for-misjonærer-mv-som-er-opptatt-i-folketrygden-i-medhold-av-folketrygdloven-2-8 — Change history
 
 _2 events; doc_id `sf-20241220-3432`._

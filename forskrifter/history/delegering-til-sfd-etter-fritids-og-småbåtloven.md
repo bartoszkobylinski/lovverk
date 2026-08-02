@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-sfd-etter-fritids-og-småbåtloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-sfd-etter-fritids-og-småbåtloven — Change history
 
 _1 events; doc_id `sf-20070531-0591`._

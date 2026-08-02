@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tvangsmulkt-og-lovbrotsgebyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tvangsmulkt-og-lovbrotsgebyr — Change history
 
 _2 events; doc_id `sf-20080624-0713`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-innleggelse-av-alkoholister-i-kur"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-innleggelse-av-alkoholister-i-kur — Change history
 
 _2 events; doc_id `sf-19301107-9534`._

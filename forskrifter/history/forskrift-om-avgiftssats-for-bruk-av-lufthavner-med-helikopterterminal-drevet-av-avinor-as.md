@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-avgiftssats-for-bruk-av-lufthavner-med-helikopterterminal-drevet-av-avinor-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avgiftssats-for-bruk-av-lufthavner-med-helikopterterminal-drevet-av-avinor-as — Change history
 
 _2 events; doc_id `sf-20211201-3358`._

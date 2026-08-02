@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-virkeområdet-til-lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-virkeområdet-til-lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn — Change history
 
 _2 events; doc_id `sf-20220530-0925`._

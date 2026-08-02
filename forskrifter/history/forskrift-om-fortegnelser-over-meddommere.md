@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fortegnelser-over-meddommere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fortegnelser-over-meddommere — Change history
 
 _2 events; doc_id `sf-20180925-1474`._

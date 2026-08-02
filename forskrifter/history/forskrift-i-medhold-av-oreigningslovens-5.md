@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-i-medhold-av-oreigningslovens-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-i-medhold-av-oreigningslovens-5 — Change history
 
 _4 events; doc_id `sf-19600602-0001`._

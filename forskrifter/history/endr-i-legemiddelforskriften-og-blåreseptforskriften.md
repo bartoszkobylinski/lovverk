@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-legemiddelforskriften-og-blåreseptforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-legemiddelforskriften-og-blåreseptforskriften — Change history
 
 _1 events; doc_id `sf-20260621-1252`._

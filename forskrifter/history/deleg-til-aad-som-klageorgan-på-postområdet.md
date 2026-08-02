@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-aad-som-klageorgan-på-postområdet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-aad-som-klageorgan-på-postområdet — Change history
 
 _1 events; doc_id `sf-19990625-0707`._

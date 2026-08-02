@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-21-juni-2017-nr-854-om-konsekvensutredninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-21-juni-2017-nr-854-om-konsekvensutredninger — Change history
 
 _2 events; doc_id `sf-20251219-2707`._

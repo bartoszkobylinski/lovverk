@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-utlendingsloven — Change history
 
 _1 events; doc_id `sf-20091009-1260`._

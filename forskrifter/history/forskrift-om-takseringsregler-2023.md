@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-takseringsregler-2023"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-takseringsregler-2023 — Change history
 
 _2 events; doc_id `sf-20231127-1922`._

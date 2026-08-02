@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrifter-om-forkynnelse-av-utenlandske-dokumenter-i-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrifter-om-forkynnelse-av-utenlandske-dokumenter-i-norge — Change history
 
 _2 events; doc_id `sf-19690912-0005`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-rekonstruksjonsloven-61-tredje-ledd-og-overføring-av-forskriftskompetanse-etter-dekningsloven-9-4-fjerde-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-rekonstruksjonsloven-61-tredje-ledd-og-overføring-av-forskriftskompetanse-etter-dekningsloven-9-4-fjerde-ledd — Change history
 
 _1 events; doc_id `sf-20200507-0948`._

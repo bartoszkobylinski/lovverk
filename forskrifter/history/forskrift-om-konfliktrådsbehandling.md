@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-konfliktrådsbehandling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-konfliktrådsbehandling — Change history
 
 _2 events; doc_id `sf-20140630-0923`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-når-kommunene-utøver-namskompetanse-etter-tvangsfullbyrdelsesloven-kapittel-2-avsnitt-ii"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-når-kommunene-utøver-namskompetanse-etter-tvangsfullbyrdelsesloven-kapittel-2-avsnitt-ii — Change history
 
 _2 events; doc_id `sf-20250701-1397`._

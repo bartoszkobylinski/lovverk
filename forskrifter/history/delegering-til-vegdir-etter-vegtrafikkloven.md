@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-vegdir-etter-vegtrafikkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-vegdir-etter-vegtrafikkloven — Change history
 
 _1 events; doc_id `sf-19900824-0695`._

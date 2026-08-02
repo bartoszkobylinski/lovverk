@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-skattedirektoratets-myndighet-etter-merverdiavgiftsloven-7-8-til-skattekontorene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-skattedirektoratets-myndighet-etter-merverdiavgiftsloven-7-8-til-skattekontorene — Change history
 
 _1 events; doc_id `sf-20230206-0150`._

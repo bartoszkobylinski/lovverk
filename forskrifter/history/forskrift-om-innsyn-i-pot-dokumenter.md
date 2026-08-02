@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-innsyn-i-pot-dokumenter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innsyn-i-pot-dokumenter — Change history
 
 _2 events; doc_id `sf-20000307-0260`._

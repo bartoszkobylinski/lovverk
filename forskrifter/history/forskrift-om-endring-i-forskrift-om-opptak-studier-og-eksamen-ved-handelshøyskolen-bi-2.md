@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi-2 — Change history
 
 _2 events; doc_id `sf-20251030-2240`._

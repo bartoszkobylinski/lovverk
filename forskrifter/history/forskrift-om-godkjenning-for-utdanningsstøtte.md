@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-godkjenning-for-utdanningsstøtte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-godkjenning-for-utdanningsstøtte — Change history
 
 _2 events; doc_id `sf-20190614-0734`._

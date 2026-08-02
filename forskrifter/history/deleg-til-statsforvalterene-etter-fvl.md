@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-statsforvalterene-etter-fvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-statsforvalterene-etter-fvl — Change history
 
 _1 events; doc_id `sf-20110216-0152`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fullmakt-norsk-lysingsblad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fullmakt-norsk-lysingsblad — Change history
 
 _2 events; doc_id `sf-19750307-8625`._

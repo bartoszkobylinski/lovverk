@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fartsskriververksteder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fartsskriververksteder — Change history
 
 _1 events; doc_id `sf-20260513-0854`._

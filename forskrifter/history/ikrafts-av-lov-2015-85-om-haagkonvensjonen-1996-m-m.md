@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2015-85-om-haagkonvensjonen-1996-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2015-85-om-haagkonvensjonen-1996-m-m — Change history
 
 _1 events; doc_id `sf-20160304-0217`._

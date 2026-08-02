@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-signatur-i-domstolene-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-signatur-i-domstolene-mv — Change history
 
 _2 events; doc_id `sf-20211201-3314`._

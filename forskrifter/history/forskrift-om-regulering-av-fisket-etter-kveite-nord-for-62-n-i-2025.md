@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2025 — Change history
 
 _2 events; doc_id `sf-20250612-1041`._

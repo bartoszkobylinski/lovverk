@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-endring-i-integreringsforskriften-som-følge-av-ankomst-av-fordrevne-fra-ukraina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-endring-i-integreringsforskriften-som-følge-av-ankomst-av-fordrevne-fra-ukraina — Change history
 
 _2 events; doc_id `sf-20240626-1359`._

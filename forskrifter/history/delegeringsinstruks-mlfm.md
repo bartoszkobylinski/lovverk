@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegeringsinstruks-mlfm"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegeringsinstruks-mlfm — Change history
 
 _1 events; doc_id `sf-20251030-2160`._

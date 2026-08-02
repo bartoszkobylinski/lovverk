@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-11-juni-1976-nr-79-om-kontroll-med-produkter-og-forbrukertjenester-4-12a-og-13-til-helse-og-omsorgsdepartementet-for-så-vidt-gjelder-forskrift-om-omsetning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-11-juni-1976-nr-79-om-kontroll-med-produkter-og-forbrukertjenester-4-12a-og-13-til-helse-og-omsorgsdepartementet-for-så-vidt-gjelder-forskrift-om-omsetning — Change history
 
 _1 events; doc_id `sf-20260123-0102`._

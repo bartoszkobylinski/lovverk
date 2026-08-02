@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-årlige-vederlag-etter-naboloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-årlige-vederlag-etter-naboloven — Change history
 
 _2 events; doc_id `sf-19841207-1958`._

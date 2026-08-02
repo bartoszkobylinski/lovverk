@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-kommunal-beredskapsplikt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-kommunal-beredskapsplikt — Change history
 
 _1 events; doc_id `sf-20090626-0879`._

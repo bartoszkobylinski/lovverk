@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-i-norsk-rett-av-forordning-2020-1668-om-fastsettelse-av-detaljene-og-funksjonene-i-informasjons-og-kommunikasjonssystemet-som-skal-benyttes-i-henhold-til-europaparlaments"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-i-norsk-rett-av-forordning-2020-1668-om-fastsettelse-av-detaljene-og-funksjonene-i-informasjons-og-kommunikasjonssystemet-som-skal-benyttes-i-henhold-til-europaparlaments — Change history
 
 _2 events; doc_id `sf-20231016-1635`._

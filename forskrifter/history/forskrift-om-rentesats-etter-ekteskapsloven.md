@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rentesats-etter-ekteskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rentesats-etter-ekteskapsloven — Change history
 
 _2 events; doc_id `sf-20070213-0164`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-hod-etter-helseforskningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-hod-etter-helseforskningsloven — Change history
 
 _1 events; doc_id `sf-20090626-0867`._

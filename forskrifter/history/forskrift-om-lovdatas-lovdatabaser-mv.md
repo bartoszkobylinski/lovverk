@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lovdatas-lovdatabaser-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lovdatas-lovdatabaser-mv — Change history
 
 _2 events; doc_id `sf-19940621-0644`._

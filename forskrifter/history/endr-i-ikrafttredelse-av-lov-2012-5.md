@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-ikrafttredelse-av-lov-2012-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-ikrafttredelse-av-lov-2012-5 — Change history
 
 _1 events; doc_id `sf-20120127-0069`._

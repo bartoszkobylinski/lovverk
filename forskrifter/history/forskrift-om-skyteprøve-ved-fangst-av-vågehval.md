@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skyteprøve-ved-fangst-av-vågehval"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skyteprøve-ved-fangst-av-vågehval — Change history
 
 _2 events; doc_id `sf-20221019-1961`._

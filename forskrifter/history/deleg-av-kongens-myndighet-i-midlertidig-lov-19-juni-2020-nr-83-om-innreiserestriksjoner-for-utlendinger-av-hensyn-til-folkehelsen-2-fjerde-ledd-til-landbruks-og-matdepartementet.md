@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-i-midlertidig-lov-19-juni-2020-nr-83-om-innreiserestriksjoner-for-utlendinger-av-hensyn-til-folkehelsen-2-fjerde-ledd-til-landbruks-og-matdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-i-midlertidig-lov-19-juni-2020-nr-83-om-innreiserestriksjoner-for-utlendinger-av-hensyn-til-folkehelsen-2-fjerde-ledd-til-landbruks-og-matdepartementet — Change history
 
 _1 events; doc_id `sf-20210326-0970`._

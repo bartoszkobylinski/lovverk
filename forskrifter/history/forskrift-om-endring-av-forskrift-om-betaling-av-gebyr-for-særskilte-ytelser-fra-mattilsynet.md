@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-av-forskrift-om-betaling-av-gebyr-for-særskilte-ytelser-fra-mattilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-av-forskrift-om-betaling-av-gebyr-for-særskilte-ytelser-fra-mattilsynet — Change history
 
 _2 events; doc_id `sf-20251216-2593`._

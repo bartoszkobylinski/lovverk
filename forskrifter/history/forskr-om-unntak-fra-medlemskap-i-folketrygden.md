@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-unntak-fra-medlemskap-i-folketrygden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-unntak-fra-medlemskap-i-folketrygden — Change history
 
 _2 events; doc_id `sf-19970415-0314`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vederlag-for-legehjelp-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vederlag-for-legehjelp-m-v — Change history
 
 _2 events; doc_id `sf-19840330-0820`._

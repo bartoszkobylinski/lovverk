@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-tad-etter-tolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-tad-etter-tolloven — Change history
 
 _1 events; doc_id `sf-20081125-1256`._

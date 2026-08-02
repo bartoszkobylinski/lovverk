@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samvirke-mellom-gml-og-ny-plbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samvirke-mellom-gml-og-ny-plbl — Change history
 
 _2 events; doc_id `sf-20090615-0669`._

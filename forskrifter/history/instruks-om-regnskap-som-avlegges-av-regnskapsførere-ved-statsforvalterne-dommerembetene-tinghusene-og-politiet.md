@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-regnskap-som-avlegges-av-regnskapsførere-ved-statsforvalterne-dommerembetene-tinghusene-og-politiet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-regnskap-som-avlegges-av-regnskapsførere-ved-statsforvalterne-dommerembetene-tinghusene-og-politiet — Change history
 
 _1 events; doc_id `sf-19480216-0001`._

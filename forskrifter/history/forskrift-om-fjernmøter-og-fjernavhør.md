@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fjernmøter-og-fjernavhør"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fjernmøter-og-fjernavhør — Change history
 
 _2 events; doc_id `sf-20110812-0835`._

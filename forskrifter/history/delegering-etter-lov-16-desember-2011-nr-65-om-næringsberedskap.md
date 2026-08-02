@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-16-desember-2011-nr-65-om-næringsberedskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-16-desember-2011-nr-65-om-næringsberedskap — Change history
 
 _1 events; doc_id `sf-20260619-1234`._

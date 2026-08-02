@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-endringer-i-sjøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-endringer-i-sjøloven — Change history
 
 _1 events; doc_id `sf-19970905-0958`._

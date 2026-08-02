@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-internkontrollsystem-for-målinger-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-internkontrollsystem-for-målinger-m-m — Change history
 
 _2 events; doc_id `sf-20161220-1753`._

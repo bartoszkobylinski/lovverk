@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-forordning-ef-nr-713-2009"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-forordning-ef-nr-713-2009 — Change history
 
 _2 events; doc_id `sf-20191024-1434`._

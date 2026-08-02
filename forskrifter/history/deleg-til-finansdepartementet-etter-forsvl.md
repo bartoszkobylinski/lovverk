@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-finansdepartementet-etter-forsvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-finansdepartementet-etter-forsvl — Change history
 
 _1 events; doc_id `sf-20031219-1768`._

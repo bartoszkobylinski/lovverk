@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tilleggslov-om-statens-pensjonskasse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tilleggslov-om-statens-pensjonskasse — Change history
 
 _2 events; doc_id `nl-19561109-001`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-kraftpris-ved-interne-leveranser-2013"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-kraftpris-ved-interne-leveranser-2013 — Change history
 
 _2 events; doc_id `sf-20140130-0080`._

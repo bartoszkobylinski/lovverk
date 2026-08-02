@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-forvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-forvaltningsloven — Change history
 
 _1 events; doc_id `sf-20011221-1473`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kystfiskeappen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kystfiskeappen — Change history
 
 _2 events; doc_id `sf-20141219-1822`._

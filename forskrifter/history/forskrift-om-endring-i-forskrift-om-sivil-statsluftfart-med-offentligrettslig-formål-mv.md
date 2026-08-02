@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-sivil-statsluftfart-med-offentligrettslig-formål-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-sivil-statsluftfart-med-offentligrettslig-formål-mv — Change history
 
 _2 events; doc_id `sf-20250611-1000`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-og-sd-etter-verdipapirhandell"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-og-sd-etter-verdipapirhandell — Change history
 
 _1 events; doc_id `sf-20070629-0753`._

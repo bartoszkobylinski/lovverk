@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-organisering-og-drift-av-vassdrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-organisering-og-drift-av-vassdrag — Change history
 
 _2 events; doc_id `sf-20000503-0378`._

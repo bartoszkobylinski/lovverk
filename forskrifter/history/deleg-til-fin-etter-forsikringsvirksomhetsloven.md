@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-forsikringsvirksomhetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-forsikringsvirksomhetsloven — Change history
 
 _1 events; doc_id `sf-20101217-1665`._

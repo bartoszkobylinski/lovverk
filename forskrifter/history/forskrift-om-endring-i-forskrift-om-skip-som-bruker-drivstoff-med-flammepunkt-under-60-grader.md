@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-skip-som-bruker-drivstoff-med-flammepunkt-under-60-grader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-skip-som-bruker-drivstoff-med-flammepunkt-under-60-grader — Change history
 
 _2 events; doc_id `sf-20251215-2611`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-hioa-afi-og-nova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-hioa-afi-og-nova — Change history
 
 _1 events; doc_id `sf-20130920-1110`._

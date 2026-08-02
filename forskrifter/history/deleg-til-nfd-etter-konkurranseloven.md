@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nfd-etter-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nfd-etter-konkurranseloven — Change history
 
 _1 events; doc_id `sf-20130614-0634`._

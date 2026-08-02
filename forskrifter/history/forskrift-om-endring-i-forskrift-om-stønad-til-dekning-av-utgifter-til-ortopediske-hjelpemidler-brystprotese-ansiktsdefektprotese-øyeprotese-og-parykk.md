@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-ortopediske-hjelpemidler-brystprotese-ansiktsdefektprotese-øyeprotese-og-parykk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-ortopediske-hjelpemidler-brystprotese-ansiktsdefektprotese-øyeprotese-og-parykk — Change history
 
 _2 events; doc_id `sf-20251029-2139`._

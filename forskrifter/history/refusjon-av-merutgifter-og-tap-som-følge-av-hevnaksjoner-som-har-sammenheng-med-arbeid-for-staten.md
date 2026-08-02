@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "refusjon-av-merutgifter-og-tap-som-følge-av-hevnaksjoner-som-har-sammenheng-med-arbeid-for-staten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # refusjon-av-merutgifter-og-tap-som-følge-av-hevnaksjoner-som-har-sammenheng-med-arbeid-for-staten — Change history
 
 _2 events; doc_id `sf-20201211-2711`._

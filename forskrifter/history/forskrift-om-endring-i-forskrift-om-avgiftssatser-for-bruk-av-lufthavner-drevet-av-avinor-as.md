@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-avgiftssatser-for-bruk-av-lufthavner-drevet-av-avinor-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-avgiftssatser-for-bruk-av-lufthavner-drevet-av-avinor-as — Change history
 
 _2 events; doc_id `sf-20251128-2359`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-omsetningsavgift-for-fisk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omsetningsavgift-for-fisk — Change history
 
 _2 events; doc_id `sf-19580131-9412`._

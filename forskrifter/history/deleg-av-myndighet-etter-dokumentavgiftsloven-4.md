@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-dokumentavgiftsloven-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-dokumentavgiftsloven-4 — Change history
 
 _1 events; doc_id `sf-20180621-0939`._

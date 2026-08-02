@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-kompensasjon-for-frivillig-redusert-verpeperiode"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-kompensasjon-for-frivillig-redusert-verpeperiode — Change history
 
 _2 events; doc_id `sf-20251208-2461`._

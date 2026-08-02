@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sikkerhet-og-arb-miljø-på-anlegget-i-nyhamna"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sikkerhet-og-arb-miljø-på-anlegget-i-nyhamna — Change history
 
 _2 events; doc_id `sf-20031219-1874`._

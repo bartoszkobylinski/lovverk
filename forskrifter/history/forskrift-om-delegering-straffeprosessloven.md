@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-straffeprosessloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-straffeprosessloven — Change history
 
 _1 events; doc_id `sf-19851213-2094`._

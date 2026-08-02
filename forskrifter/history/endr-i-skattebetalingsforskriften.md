@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-skattebetalingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-skattebetalingsforskriften — Change history
 
 _2 events; doc_id `sf-20250613-1006`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forsinkelsesrente-og-kompensasjon-for-inndrivelseskostnader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forsinkelsesrente-og-kompensasjon-for-inndrivelseskostnader — Change history
 
 _7 events; doc_id `sf-20260625-1372`._

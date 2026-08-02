@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "si-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # si-loven — Change history
 
 _2 events; doc_id `nl-20130111-003`._

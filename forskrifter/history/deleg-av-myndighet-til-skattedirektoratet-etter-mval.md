@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-skattedirektoratet-etter-mval"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-skattedirektoratet-etter-mval — Change history
 
 _1 events; doc_id `sf-20161223-1882`._

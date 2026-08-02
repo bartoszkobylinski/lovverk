@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-plan-og-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-plan-og-bygningsloven — Change history
 
 _2 events; doc_id `nl-20260306-007`._

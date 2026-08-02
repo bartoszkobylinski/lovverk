@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "opprettelse-av-forskningsinstitutt-bestående-av-nifes-og-havforskningsinstituttet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # opprettelse-av-forskningsinstitutt-bestående-av-nifes-og-havforskningsinstituttet — Change history
 
 _1 events; doc_id `sf-20170621-0912`._

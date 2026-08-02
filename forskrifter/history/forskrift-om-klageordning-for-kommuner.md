@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-klageordning-for-kommuner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klageordning-for-kommuner — Change history
 
 _2 events; doc_id `sf-20160622-0815`._

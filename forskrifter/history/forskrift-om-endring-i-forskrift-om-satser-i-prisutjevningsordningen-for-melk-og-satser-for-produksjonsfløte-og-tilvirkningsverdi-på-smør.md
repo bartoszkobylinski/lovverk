@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør — Change history
 
 _1 events; doc_id `sf-20260507-0766`._

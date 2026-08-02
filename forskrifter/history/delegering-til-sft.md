@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-sft"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-sft — Change history
 
 _1 events; doc_id `sf-19971121-1502`._

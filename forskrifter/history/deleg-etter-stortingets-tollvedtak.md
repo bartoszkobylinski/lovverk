@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-stortingets-tollvedtak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-stortingets-tollvedtak — Change history
 
 _1 events; doc_id `sf-20100114-0021`._

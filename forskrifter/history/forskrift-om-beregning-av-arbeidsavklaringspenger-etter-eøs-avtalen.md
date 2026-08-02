@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-beregning-av-arbeidsavklaringspenger-etter-eøs-avtalen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beregning-av-arbeidsavklaringspenger-etter-eøs-avtalen — Change history
 
 _2 events; doc_id `sf-20171213-2099`._

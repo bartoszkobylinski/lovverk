@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ekom-ved-tinglysing-av-salgspant-m-m-av-motorvogn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ekom-ved-tinglysing-av-salgspant-m-m-av-motorvogn — Change history
 
 _2 events; doc_id `sf-20170504-0536`._

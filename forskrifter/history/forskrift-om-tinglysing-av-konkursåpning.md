@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tinglysing-av-konkursåpning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tinglysing-av-konkursåpning — Change history
 
 _2 events; doc_id `sf-19850920-1872`._

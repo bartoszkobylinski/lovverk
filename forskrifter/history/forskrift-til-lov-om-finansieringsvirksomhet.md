@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-lov-om-finansieringsvirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-lov-om-finansieringsvirksomhet — Change history
 
 _2 events; doc_id `sf-19850308-0530`._

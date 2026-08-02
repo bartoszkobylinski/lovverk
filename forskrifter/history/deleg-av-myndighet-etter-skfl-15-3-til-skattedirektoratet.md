@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-skfl-15-3-til-skattedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-skfl-15-3-til-skattedirektoratet — Change history
 
 _1 events; doc_id `sf-20161219-1715`._

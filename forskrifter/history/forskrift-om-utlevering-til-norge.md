@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utlevering-til-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utlevering-til-norge — Change history
 
 _2 events; doc_id `sf-19701218-0002`._

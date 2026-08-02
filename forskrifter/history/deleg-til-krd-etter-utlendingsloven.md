@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-krd-etter-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-krd-etter-utlendingsloven — Change history
 
 _1 events; doc_id `sf-20050902-0957`._

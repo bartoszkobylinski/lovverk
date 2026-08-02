@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-forordning-2023-956-fra-finansdepartementet-til-klima-og-miljødepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-forordning-2023-956-fra-finansdepartementet-til-klima-og-miljødepartementet — Change history
 
 _1 events; doc_id `sf-20250314-0445`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-forebyggelse-av-anslag-mot-sikkerheten-i-luftfarten-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-forebyggelse-av-anslag-mot-sikkerheten-i-luftfarten-mv — Change history
 
 _2 events; doc_id `sf-20260113-0031`._

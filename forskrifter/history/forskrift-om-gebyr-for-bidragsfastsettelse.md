@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-for-bidragsfastsettelse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-for-bidragsfastsettelse — Change history
 
 _2 events; doc_id `sf-20011104-1250`._

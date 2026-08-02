@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-godskriving-av-pensjonspoeng-afp"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-godskriving-av-pensjonspoeng-afp — Change history
 
 _2 events; doc_id `sf-20141126-1465`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-betalingssystemloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-betalingssystemloven — Change history
 
 _1 events; doc_id `sf-19991217-1344`._

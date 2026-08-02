@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-utlendingsdirektoratet-etter-fvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-utlendingsdirektoratet-etter-fvl — Change history
 
 _1 events; doc_id `sf-20111208-1238`._

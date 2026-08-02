@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kkd-etter-arkivloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kkd-etter-arkivloven — Change history
 
 _1 events; doc_id `sf-20081010-1110`._

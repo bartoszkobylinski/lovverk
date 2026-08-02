@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-arbeidstilsynet-etter-aml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-arbeidstilsynet-etter-aml — Change history
 
 _1 events; doc_id `sf-20070820-0988`._

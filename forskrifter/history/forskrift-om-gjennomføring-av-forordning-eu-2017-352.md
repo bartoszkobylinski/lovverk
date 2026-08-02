@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-forordning-eu-2017-352"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-forordning-eu-2017-352 — Change history
 
 _2 events; doc_id `sf-20190611-0861`._

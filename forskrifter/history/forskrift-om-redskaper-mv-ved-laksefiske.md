@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-redskaper-mv-ved-laksefiske"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-redskaper-mv-ved-laksefiske — Change history
 
 _4 events; doc_id `sf-20030225-0256`._

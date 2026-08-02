@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-advokatlovens-anvendelse-for-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-advokatlovens-anvendelse-for-svalbard — Change history
 
 _2 events; doc_id `sf-20241011-2451`._

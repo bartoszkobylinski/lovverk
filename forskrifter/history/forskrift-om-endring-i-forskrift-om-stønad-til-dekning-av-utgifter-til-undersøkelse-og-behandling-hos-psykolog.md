@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-psykolog"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-psykolog — Change history
 
 _5 events; doc_id `sf-20260621-1156`._

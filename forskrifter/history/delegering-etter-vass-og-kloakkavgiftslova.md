@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-vass-og-kloakkavgiftslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-vass-og-kloakkavgiftslova — Change history
 
 _1 events; doc_id `sf-19740906-0014`._

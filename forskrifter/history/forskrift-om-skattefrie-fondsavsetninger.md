@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skattefrie-fondsavsetninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skattefrie-fondsavsetninger — Change history
 
 _2 events; doc_id `sf-19630118-0008`._

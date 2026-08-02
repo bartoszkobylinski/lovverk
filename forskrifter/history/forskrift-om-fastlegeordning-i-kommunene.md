@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fastlegeordning-i-kommunene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fastlegeordning-i-kommunene — Change history
 
 _2 events; doc_id `sf-20120829-0842`._

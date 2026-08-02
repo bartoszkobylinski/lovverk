@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-laboratorie-røntgenvirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-laboratorie-røntgenvirksomhet — Change history
 
 _2 events; doc_id `sf-20001201-1276`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-energiloven-4-4-med-unntak-av-andre-ledd-og-forskrift-om-innbetaling-av-påslag-på-nettariffen-til-energifondet-fra-klima-og-miljødepartementet-til"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-energiloven-4-4-med-unntak-av-andre-ledd-og-forskrift-om-innbetaling-av-påslag-på-nettariffen-til-energifondet-fra-klima-og-miljødepartementet-til — Change history
 
 _1 events; doc_id `sf-20241220-3495`._

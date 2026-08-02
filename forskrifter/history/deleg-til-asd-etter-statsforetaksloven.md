@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-asd-etter-statsforetaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-asd-etter-statsforetaksloven — Change history
 
 _1 events; doc_id `sf-20140620-0810`._

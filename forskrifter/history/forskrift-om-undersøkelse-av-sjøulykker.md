@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-undersøkelse-av-sjøulykker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-undersøkelse-av-sjøulykker — Change history
 
 _2 events; doc_id `sf-20121130-1115`._

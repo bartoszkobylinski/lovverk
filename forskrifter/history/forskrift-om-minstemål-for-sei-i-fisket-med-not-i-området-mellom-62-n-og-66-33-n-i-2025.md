@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-minstemål-for-sei-i-fisket-med-not-i-området-mellom-62-n-og-66-33-n-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-minstemål-for-sei-i-fisket-med-not-i-området-mellom-62-n-og-66-33-n-i-2025 — Change history
 
 _2 events; doc_id `sf-20250521-0832`._

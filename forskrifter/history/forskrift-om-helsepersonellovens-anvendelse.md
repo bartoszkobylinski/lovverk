@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-helsepersonellovens-anvendelse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-helsepersonellovens-anvendelse — Change history
 
 _2 events; doc_id `sf-20111216-1393`._

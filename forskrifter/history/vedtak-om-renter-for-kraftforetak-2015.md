@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-renter-for-kraftforetak-2015"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-renter-for-kraftforetak-2015 — Change history
 
 _2 events; doc_id `sf-20160126-0059`._

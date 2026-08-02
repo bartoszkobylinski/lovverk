@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as-2 — Change history
 
 _2 events; doc_id `sf-20251201-2991`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-2005-41-forsikringsformidling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-2005-41-forsikringsformidling — Change history
 
 _1 events; doc_id `sf-20051209-1414`._

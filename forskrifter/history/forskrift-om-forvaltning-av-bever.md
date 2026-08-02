@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forvaltning-av-bever"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forvaltning-av-bever — Change history
 
 _4 events; doc_id `sf-20170426-0519`._

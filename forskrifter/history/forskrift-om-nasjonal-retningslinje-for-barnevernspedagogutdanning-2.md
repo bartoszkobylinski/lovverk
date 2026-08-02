@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nasjonal-retningslinje-for-barnevernspedagogutdanning-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nasjonal-retningslinje-for-barnevernspedagogutdanning-2 — Change history
 
 _2 events; doc_id `sf-20250904-1828`._

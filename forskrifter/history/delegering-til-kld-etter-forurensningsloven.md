@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kld-etter-forurensningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kld-etter-forurensningsloven — Change history
 
 _1 events; doc_id `sf-19970131-0098`._

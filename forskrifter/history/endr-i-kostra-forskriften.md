@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-kostra-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-kostra-forskriften — Change history
 
 _2 events; doc_id `sf-20251029-2134`._

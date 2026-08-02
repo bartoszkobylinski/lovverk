@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kontroll-av-maritim-tjeneste"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontroll-av-maritim-tjeneste — Change history
 
 _2 events; doc_id `sf-19881125-0940`._

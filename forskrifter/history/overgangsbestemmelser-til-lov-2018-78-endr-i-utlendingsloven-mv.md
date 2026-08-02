@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsbestemmelser-til-lov-2018-78-endr-i-utlendingsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsbestemmelser-til-lov-2018-78-endr-i-utlendingsloven-mv — Change history
 
 _2 events; doc_id `sf-20181024-1610`._

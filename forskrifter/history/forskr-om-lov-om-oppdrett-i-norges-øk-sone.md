@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-lov-om-oppdrett-i-norges-øk-sone"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-lov-om-oppdrett-i-norges-øk-sone — Change history
 
 _2 events; doc_id `sf-19880429-0314`._

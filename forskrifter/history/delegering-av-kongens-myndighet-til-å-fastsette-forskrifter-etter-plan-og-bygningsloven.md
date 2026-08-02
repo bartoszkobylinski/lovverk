@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-til-å-fastsette-forskrifter-etter-plan-og-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-til-å-fastsette-forskrifter-etter-plan-og-bygningsloven — Change history
 
 _1 events; doc_id `sf-20171208-1949`._

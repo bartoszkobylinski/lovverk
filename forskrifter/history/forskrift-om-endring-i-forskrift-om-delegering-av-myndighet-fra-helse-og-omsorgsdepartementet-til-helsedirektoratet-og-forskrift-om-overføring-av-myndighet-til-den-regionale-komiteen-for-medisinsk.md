@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet-og-forskrift-om-overføring-av-myndighet-til-den-regionale-komiteen-for-medisinsk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet-og-forskrift-om-overføring-av-myndighet-til-den-regionale-komiteen-for-medisinsk — Change history
 
 _1 events; doc_id `sf-20260608-1046`._

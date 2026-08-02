@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opph-av-forskrift-om-avgift-til-fremme-av-fellestiltak-for-skogbruket-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opph-av-forskrift-om-avgift-til-fremme-av-fellestiltak-for-skogbruket-mv — Change history
 
 _2 events; doc_id `sf-20201221-3049`._

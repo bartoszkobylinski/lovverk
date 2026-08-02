@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-smittevernloven-4-3a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-smittevernloven-4-3a — Change history
 
 _1 events; doc_id `sf-20200623-1292`._

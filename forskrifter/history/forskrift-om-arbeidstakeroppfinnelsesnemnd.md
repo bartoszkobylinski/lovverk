@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidstakeroppfinnelsesnemnd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidstakeroppfinnelsesnemnd — Change history
 
 _2 events; doc_id `sf-19730406-9740`._

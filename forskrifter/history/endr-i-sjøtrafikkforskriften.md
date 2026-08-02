@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-sjøtrafikkforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-sjøtrafikkforskriften — Change history
 
 _2 events; doc_id `sf-20251029-2159`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-midler-til-investering-og-bedriftsutvikling-i-landbruket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-midler-til-investering-og-bedriftsutvikling-i-landbruket — Change history
 
 _2 events; doc_id `sf-20251217-2620`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-fullmakt-etter-aksjeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-fullmakt-etter-aksjeloven — Change history
 
 _1 events; doc_id `sf-19880422-0307`._

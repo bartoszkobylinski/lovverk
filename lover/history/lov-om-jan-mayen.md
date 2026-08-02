@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-jan-mayen — Change history
 
 _2 events; doc_id `nl-19300227-002`._

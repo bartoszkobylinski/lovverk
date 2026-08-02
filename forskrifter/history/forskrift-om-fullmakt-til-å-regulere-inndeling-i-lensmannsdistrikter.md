@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fullmakt-til-å-regulere-inndeling-i-lensmannsdistrikter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fullmakt-til-å-regulere-inndeling-i-lensmannsdistrikter — Change history
 
 _1 events; doc_id `sf-19651022-9743`._

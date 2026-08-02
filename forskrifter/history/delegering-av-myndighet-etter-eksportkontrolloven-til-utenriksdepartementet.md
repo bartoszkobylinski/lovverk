@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-eksportkontrolloven-til-utenriksdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-eksportkontrolloven-til-utenriksdepartementet — Change history
 
 _1 events; doc_id `sf-19871218-0967`._

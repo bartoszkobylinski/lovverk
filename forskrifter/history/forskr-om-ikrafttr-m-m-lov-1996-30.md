@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-ikrafttr-m-m-lov-1996-30"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-ikrafttr-m-m-lov-1996-30 — Change history
 
 _1 events; doc_id `sf-19961220-1193`._

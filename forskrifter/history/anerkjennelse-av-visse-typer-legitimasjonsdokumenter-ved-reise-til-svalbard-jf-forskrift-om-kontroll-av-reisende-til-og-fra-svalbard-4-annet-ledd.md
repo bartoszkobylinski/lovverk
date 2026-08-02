@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "anerkjennelse-av-visse-typer-legitimasjonsdokumenter-ved-reise-til-svalbard-jf-forskrift-om-kontroll-av-reisende-til-og-fra-svalbard-4-annet-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # anerkjennelse-av-visse-typer-legitimasjonsdokumenter-ved-reise-til-svalbard-jf-forskrift-om-kontroll-av-reisende-til-og-fra-svalbard-4-annet-ledd — Change history
 
 _2 events; doc_id `sf-20250107-0008`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-deling-av-høiesterett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-deling-av-høiesterett — Change history
 
 _1 events; doc_id `sf-19271021-3216`._

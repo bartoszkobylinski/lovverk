@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-informasjonstilgang-m-m-for-baneheia-utvalget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-informasjonstilgang-m-m-for-baneheia-utvalget — Change history
 
 _2 events; doc_id `nl-20230609-026`._

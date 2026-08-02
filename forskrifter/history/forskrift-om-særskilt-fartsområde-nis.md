@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-særskilt-fartsområde-nis"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-særskilt-fartsområde-nis — Change history
 
 _2 events; doc_id `sf-19870630-0579`._

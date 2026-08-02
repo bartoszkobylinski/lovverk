@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "resolusjon-om-visse-undersjøiske-områder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # resolusjon-om-visse-undersjøiske-områder — Change history
 
 _2 events; doc_id `sf-19630531-0001`._

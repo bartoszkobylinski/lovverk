@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-ld-etter-kornforvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-ld-etter-kornforvaltningsloven — Change history
 
 _1 events; doc_id `sf-20000623-0586`._

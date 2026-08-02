@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sosiale-tjenester-bopelsløse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sosiale-tjenester-bopelsløse — Change history
 
 _2 events; doc_id `sf-20111216-1251`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-aml-i-jordbruket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-aml-i-jordbruket — Change history
 
 _2 events; doc_id `sf-19860321-0744`._

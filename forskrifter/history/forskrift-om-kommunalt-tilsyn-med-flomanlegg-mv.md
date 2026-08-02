@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kommunalt-tilsyn-med-flomanlegg-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kommunalt-tilsyn-med-flomanlegg-mv — Change history
 
 _2 events; doc_id `sf-20050617-0655`._

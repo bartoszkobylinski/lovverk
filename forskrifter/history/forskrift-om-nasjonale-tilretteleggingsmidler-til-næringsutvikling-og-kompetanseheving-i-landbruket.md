@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nasjonale-tilretteleggingsmidler-til-næringsutvikling-og-kompetanseheving-i-landbruket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nasjonale-tilretteleggingsmidler-til-næringsutvikling-og-kompetanseheving-i-landbruket — Change history
 
 _2 events; doc_id `sf-20210115-0092`._

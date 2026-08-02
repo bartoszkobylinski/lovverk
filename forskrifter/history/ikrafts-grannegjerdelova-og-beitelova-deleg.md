@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-grannegjerdelova-og-beitelova-deleg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-grannegjerdelova-og-beitelova-deleg — Change history
 
 _1 events; doc_id `sf-19611208-0006`._

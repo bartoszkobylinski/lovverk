@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-felles-viltområde"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-felles-viltområde — Change history
 
 _4 events; doc_id `sf-19841024-1878`._

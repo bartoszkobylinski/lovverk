@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sjøfartsdir-etter-mønstringslov"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sjøfartsdir-etter-mønstringslov — Change history
 
 _1 events; doc_id `sf-20030122-1936`._

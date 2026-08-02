@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-finansdepartementet-etter-foretakspensjonsloven-3-3-første-ledd-og-5-1-annet-ledd-sjette-punktum-innskuddspensjonsloven-4-2-første-ledd-første-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-finansdepartementet-etter-foretakspensjonsloven-3-3-første-ledd-og-5-1-annet-ledd-sjette-punktum-innskuddspensjonsloven-4-2-første-ledd-første-punktum — Change history
 
 _1 events; doc_id `sf-20211222-3830`._

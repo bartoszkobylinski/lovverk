@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-høsting-av-tang-og-tare"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-høsting-av-tang-og-tare — Change history
 
 _2 events; doc_id `sf-19950713-0642`._

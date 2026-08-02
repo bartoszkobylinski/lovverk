@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-regnskapsførerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-regnskapsførerloven — Change history
 
 _1 events; doc_id `sf-19930618-0930`._

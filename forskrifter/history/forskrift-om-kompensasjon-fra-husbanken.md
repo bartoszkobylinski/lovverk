@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kompensasjon-fra-husbanken"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kompensasjon-fra-husbanken — Change history
 
 _2 events; doc_id `sf-20141211-1583`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-enkelte-forskrifter-som-følge-av-ikraftsetting-av-lov-om-innkreving-av-statlige-krav-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-enkelte-forskrifter-som-følge-av-ikraftsetting-av-lov-om-innkreving-av-statlige-krav-mv — Change history
 
 _2 events; doc_id `sf-20251215-2561`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-skattedirektoratet-etter-lov-26-juni-1992-nr-86-om-tvangsfullbyrdelse-2-15-fjerde-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-skattedirektoratet-etter-lov-26-juni-1992-nr-86-om-tvangsfullbyrdelse-2-15-fjerde-ledd — Change history
 
 _1 events; doc_id `sf-20250624-1282`._

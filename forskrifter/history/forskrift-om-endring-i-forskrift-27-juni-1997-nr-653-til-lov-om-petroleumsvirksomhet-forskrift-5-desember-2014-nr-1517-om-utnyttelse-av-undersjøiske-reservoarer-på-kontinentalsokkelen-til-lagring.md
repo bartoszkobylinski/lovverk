@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-27-juni-1997-nr-653-til-lov-om-petroleumsvirksomhet-forskrift-5-desember-2014-nr-1517-om-utnyttelse-av-undersjøiske-reservoarer-på-kontinentalsokkelen-til-lagring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-27-juni-1997-nr-653-til-lov-om-petroleumsvirksomhet-forskrift-5-desember-2014-nr-1517-om-utnyttelse-av-undersjøiske-reservoarer-på-kontinentalsokkelen-til-lagring — Change history
 
 _2 events; doc_id `sf-20250527-0870`._

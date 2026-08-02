@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven — Change history
 
 _1 events; doc_id `sf-20180504-0704`._

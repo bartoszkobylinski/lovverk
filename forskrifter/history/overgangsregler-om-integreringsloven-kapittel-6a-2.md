@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-om-integreringsloven-kapittel-6a-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-om-integreringsloven-kapittel-6a-2 — Change history
 
 _2 events; doc_id `sf-20240625-1217`._

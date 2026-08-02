@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvaret-for-agenturloven-til-jd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvaret-for-agenturloven-til-jd — Change history
 
 _1 events; doc_id `sf-20140314-0280`._

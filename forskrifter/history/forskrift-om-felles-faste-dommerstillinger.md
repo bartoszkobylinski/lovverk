@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-felles-faste-dommerstillinger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-felles-faste-dommerstillinger — Change history
 
 _2 events; doc_id `sf-20150928-1202`._

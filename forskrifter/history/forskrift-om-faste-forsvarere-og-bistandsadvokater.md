@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-faste-forsvarere-og-bistandsadvokater"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-faste-forsvarere-og-bistandsadvokater — Change history
 
 _2 events; doc_id `sf-20110304-0251`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-fritids-og-småbåtloven-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-fritids-og-småbåtloven-3 — Change history
 
 _1 events; doc_id `sf-20070625-0719`._

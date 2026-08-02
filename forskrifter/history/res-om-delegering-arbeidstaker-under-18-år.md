@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-delegering-arbeidstaker-under-18-år"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-delegering-arbeidstaker-under-18-år — Change history
 
 _1 events; doc_id `sf-19770819-3490`._

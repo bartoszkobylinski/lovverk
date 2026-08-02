@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-sykkel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-sykkel — Change history
 
 _2 events; doc_id `sf-19900219-0119`._

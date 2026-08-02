@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sjømannsskatt-i-1985"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sjømannsskatt-i-1985 — Change history
 
 _2 events; doc_id `sf-19841009-1752`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-fredning-av-misteltein-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-fredning-av-misteltein-delegering — Change history
 
 _2 events; doc_id `sf-19761029-3763`._

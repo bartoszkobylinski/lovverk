@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-tvangsfullbyrdelsesloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-tvangsfullbyrdelsesloven-mv — Change history
 
 _2 events; doc_id `nl-20050617-089`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-maksimalt-overtredelsesgebyr-etter-luftfartsloven-13a-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-maksimalt-overtredelsesgebyr-etter-luftfartsloven-13a-5 — Change history
 
 _2 events; doc_id `sf-20240215-0264`._

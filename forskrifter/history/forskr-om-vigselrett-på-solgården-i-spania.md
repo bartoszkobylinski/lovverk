@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-vigselrett-på-solgården-i-spania"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-vigselrett-på-solgården-i-spania — Change history
 
 _1 events; doc_id `sf-19821026-1527`._

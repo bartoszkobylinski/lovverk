@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-lov-2001-53-pasientskadel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-lov-2001-53-pasientskadel — Change history
 
 _1 events; doc_id `sf-20021220-1623`._

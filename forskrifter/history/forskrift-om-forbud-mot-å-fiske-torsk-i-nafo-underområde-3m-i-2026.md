@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-å-fiske-torsk-i-nafo-underområde-3m-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-å-fiske-torsk-i-nafo-underområde-3m-i-2026 — Change history
 
 _2 events; doc_id `sf-20251218-2655`._

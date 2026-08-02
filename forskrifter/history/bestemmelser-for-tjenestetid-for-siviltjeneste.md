@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelser-for-tjenestetid-for-siviltjeneste"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelser-for-tjenestetid-for-siviltjeneste — Change history
 
 _2 events; doc_id `sf-20060619-0648`._

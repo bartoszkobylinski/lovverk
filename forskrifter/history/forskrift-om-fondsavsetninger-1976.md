@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fondsavsetninger-1976"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fondsavsetninger-1976 — Change history
 
 _2 events; doc_id `sf-19761203-0001`._

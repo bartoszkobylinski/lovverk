@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-norad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-norad — Change history
 
 _1 events; doc_id `sf-20100506-0647`._

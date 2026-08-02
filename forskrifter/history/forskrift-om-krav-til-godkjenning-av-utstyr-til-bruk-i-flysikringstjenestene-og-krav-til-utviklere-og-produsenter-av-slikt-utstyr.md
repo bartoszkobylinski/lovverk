@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-godkjenning-av-utstyr-til-bruk-i-flysikringstjenestene-og-krav-til-utviklere-og-produsenter-av-slikt-utstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-godkjenning-av-utstyr-til-bruk-i-flysikringstjenestene-og-krav-til-utviklere-og-produsenter-av-slikt-utstyr — Change history
 
 _2 events; doc_id `sf-20240902-2066`._

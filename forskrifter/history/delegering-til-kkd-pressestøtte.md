@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kkd-pressestøtte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kkd-pressestøtte — Change history
 
 _1 events; doc_id `sf-19961107-1016`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-arveavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-arveavgiftsloven — Change history
 
 _1 events; doc_id `sf-19930806-0801`._

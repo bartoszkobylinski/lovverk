@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-helsedirektoratet-h-resept"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-helsedirektoratet-h-resept — Change history
 
 _1 events; doc_id `sf-20150626-1153`._

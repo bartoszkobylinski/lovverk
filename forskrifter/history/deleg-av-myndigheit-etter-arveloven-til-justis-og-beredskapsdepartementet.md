@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndigheit-etter-arveloven-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndigheit-etter-arveloven-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20200228-0201`._

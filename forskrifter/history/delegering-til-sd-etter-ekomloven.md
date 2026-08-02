@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-sd-etter-ekomloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-sd-etter-ekomloven — Change history
 
 _1 events; doc_id `sf-20030704-0880`._

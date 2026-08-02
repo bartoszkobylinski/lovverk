@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-pe-etter-eltilsynsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-pe-etter-eltilsynsloven-2 — Change history
 
 _1 events; doc_id `sf-20011203-1345`._

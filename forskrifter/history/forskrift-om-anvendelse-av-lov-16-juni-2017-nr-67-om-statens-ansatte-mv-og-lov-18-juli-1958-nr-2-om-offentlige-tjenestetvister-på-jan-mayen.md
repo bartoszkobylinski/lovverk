@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anvendelse-av-lov-16-juni-2017-nr-67-om-statens-ansatte-mv-og-lov-18-juli-1958-nr-2-om-offentlige-tjenestetvister-på-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anvendelse-av-lov-16-juni-2017-nr-67-om-statens-ansatte-mv-og-lov-18-juli-1958-nr-2-om-offentlige-tjenestetvister-på-jan-mayen — Change history
 
 _2 events; doc_id `sf-20251212-2509`._

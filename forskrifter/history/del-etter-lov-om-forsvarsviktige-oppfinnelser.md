@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-etter-lov-om-forsvarsviktige-oppfinnelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-etter-lov-om-forsvarsviktige-oppfinnelser — Change history
 
 _1 events; doc_id `sf-19990312-0242`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-reservefond-for-utenl-filialer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-reservefond-for-utenl-filialer — Change history
 
 _2 events; doc_id `sf-19830429-0916`._

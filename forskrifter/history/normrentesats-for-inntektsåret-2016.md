@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "normrentesats-for-inntektsåret-2016"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # normrentesats-for-inntektsåret-2016 — Change history
 
 _2 events; doc_id `sf-20170130-0101`._

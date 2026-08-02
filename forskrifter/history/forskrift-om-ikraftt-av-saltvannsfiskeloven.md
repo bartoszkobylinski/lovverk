@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ikraftt-av-saltvannsfiskeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ikraftt-av-saltvannsfiskeloven — Change history
 
 _1 events; doc_id `sf-19840810-1552`._

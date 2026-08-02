@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelse-om-pengepolitikken"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelse-om-pengepolitikken — Change history
 
 _1 events; doc_id `sf-20191213-1775`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-bruk-av-den-norske-kirkes-våpen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-bruk-av-den-norske-kirkes-våpen — Change history
 
 _1 events; doc_id `sf-19900608-4151`._

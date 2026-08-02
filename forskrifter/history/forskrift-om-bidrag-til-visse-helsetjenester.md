@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bidrag-til-visse-helsetjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bidrag-til-visse-helsetjenester — Change history
 
 _2 events; doc_id `sf-19970418-0332`._

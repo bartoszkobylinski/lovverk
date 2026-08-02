@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-avgifter-til-folketrygden-for-året-2025-for-arbeidstakere-utsendt-til-norge-fra-amerikas-forente-stater-canada-og-sør-korea"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avgifter-til-folketrygden-for-året-2025-for-arbeidstakere-utsendt-til-norge-fra-amerikas-forente-stater-canada-og-sør-korea — Change history
 
 _2 events; doc_id `sf-20241220-3471`._

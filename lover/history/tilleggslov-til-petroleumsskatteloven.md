@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tilleggslov-til-petroleumsskatteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tilleggslov-til-petroleumsskatteloven — Change history
 
 _2 events; doc_id `nl-19831223-076`._

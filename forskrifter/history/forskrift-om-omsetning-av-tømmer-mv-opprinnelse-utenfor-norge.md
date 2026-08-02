@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-omsetning-av-tømmer-mv-opprinnelse-utenfor-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omsetning-av-tømmer-mv-opprinnelse-utenfor-norge — Change history
 
 _2 events; doc_id `sf-20150424-0406`._

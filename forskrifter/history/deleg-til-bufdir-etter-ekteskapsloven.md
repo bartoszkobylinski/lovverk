@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-bufdir-etter-ekteskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-bufdir-etter-ekteskapsloven — Change history
 
 _1 events; doc_id `sf-20040930-1313`._

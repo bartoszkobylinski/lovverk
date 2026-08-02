@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-distriktsveterinæren"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-distriktsveterinæren — Change history
 
 _1 events; doc_id `sf-20030407-0458`._

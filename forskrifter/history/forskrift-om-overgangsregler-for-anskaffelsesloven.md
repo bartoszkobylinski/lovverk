@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-for-anskaffelsesloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-for-anskaffelsesloven — Change history
 
 _2 events; doc_id `sf-20160812-0978`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-portokompensasjon-for-aviser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-portokompensasjon-for-aviser — Change history
 
 _2 events; doc_id `sf-20061120-1267`._

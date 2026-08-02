@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-ulykkestrygd-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-ulykkestrygd-på-svalbard — Change history
 
 _2 events; doc_id `nl-19470627-010`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-regnskapsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-regnskapsloven-2 — Change history
 
 _2 events; doc_id `sf-20130603-0568`._

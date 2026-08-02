@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-klimakvoteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-klimakvoteloven — Change history
 
 _1 events; doc_id `sf-20120525-0459`._

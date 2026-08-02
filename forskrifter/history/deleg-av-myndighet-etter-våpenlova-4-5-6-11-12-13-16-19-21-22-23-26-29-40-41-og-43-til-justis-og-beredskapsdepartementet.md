@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-våpenlova-4-5-6-11-12-13-16-19-21-22-23-26-29-40-41-og-43-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-våpenlova-4-5-6-11-12-13-16-19-21-22-23-26-29-40-41-og-43-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20201211-2704`._

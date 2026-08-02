@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-reduksjon-av-enke-eller-enkemannspensjon-fra-en-offentlig-tjenestepensjonsordning-for-alders-eller-uførepensjon-og-arbeidsinntekt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-reduksjon-av-enke-eller-enkemannspensjon-fra-en-offentlig-tjenestepensjonsordning-for-alders-eller-uførepensjon-og-arbeidsinntekt — Change history
 
 _2 events; doc_id `sf-19780905-0004`._

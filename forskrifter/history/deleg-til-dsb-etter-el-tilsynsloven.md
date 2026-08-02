@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dsb-etter-el-tilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dsb-etter-el-tilsynsloven — Change history
 
 _1 events; doc_id `sf-20070629-0737`._

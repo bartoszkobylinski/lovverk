@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-legemiddelforskriften-og-forskrift-om-medisinsk-utstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-legemiddelforskriften-og-forskrift-om-medisinsk-utstyr — Change history
 
 _2 events; doc_id `sf-20260615-1169`._

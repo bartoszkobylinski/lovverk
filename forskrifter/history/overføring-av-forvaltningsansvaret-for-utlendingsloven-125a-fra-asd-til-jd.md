@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-utlendingsloven-125a-fra-asd-til-jd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-utlendingsloven-125a-fra-asd-til-jd — Change history
 
 _1 events; doc_id `sf-20190329-0400`._

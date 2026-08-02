@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vedtaksmyndighet-etter-energiloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vedtaksmyndighet-etter-energiloven — Change history
 
 _2 events; doc_id `sf-20130621-0681`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lmd-etter-skogbrukslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lmd-etter-skogbrukslova — Change history
 
 _1 events; doc_id `sf-20050527-0488`._

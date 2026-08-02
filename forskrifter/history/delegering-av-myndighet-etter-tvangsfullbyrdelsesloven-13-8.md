@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-tvangsfullbyrdelsesloven-13-8"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-tvangsfullbyrdelsesloven-13-8 — Change history
 
 _1 events; doc_id `sf-19930611-0524`._

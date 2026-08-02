@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-lov-om-pensjonsordning-for-sykepleiere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-lov-om-pensjonsordning-for-sykepleiere — Change history
 
 _2 events; doc_id `nl-20260612-026`._

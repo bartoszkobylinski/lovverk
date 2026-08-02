@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-lov-2000-10-endr-i-aml-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-lov-2000-10-endr-i-aml-mv — Change history
 
 _1 events; doc_id `sf-20000204-0097`._

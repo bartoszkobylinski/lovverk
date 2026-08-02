@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-lov-om-pensjonsordning-for-oppdragstaker-i-statlig-beredskapshjem-eller-spesialisert-fosterhjem"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-lov-om-pensjonsordning-for-oppdragstaker-i-statlig-beredskapshjem-eller-spesialisert-fosterhjem — Change history
 
 _2 events; doc_id `sf-20110203-0109`._

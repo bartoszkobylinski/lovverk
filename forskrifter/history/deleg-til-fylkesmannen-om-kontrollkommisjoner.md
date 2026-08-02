@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fylkesmannen-om-kontrollkommisjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fylkesmannen-om-kontrollkommisjoner — Change history
 
 _1 events; doc_id `sf-20081110-1633`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-om-eksplosive-varer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-om-eksplosive-varer — Change history
 
 _1 events; doc_id `sf-20000901-0891`._

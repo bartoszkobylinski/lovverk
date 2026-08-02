@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nve-etter-produktkontrolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nve-etter-produktkontrolloven — Change history
 
 _1 events; doc_id `sf-20101012-1894`._

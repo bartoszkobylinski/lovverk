@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-slk-etter-legemiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-slk-etter-legemiddelloven — Change history
 
 _1 events; doc_id `sf-19991223-1651`._

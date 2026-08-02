@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-stønad-til-servicehund"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stønad-til-servicehund — Change history
 
 _2 events; doc_id `sf-20171220-2305`._

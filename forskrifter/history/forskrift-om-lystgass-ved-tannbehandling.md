@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lystgass-ved-tannbehandling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lystgass-ved-tannbehandling — Change history
 
 _2 events; doc_id `sf-20001221-1386`._

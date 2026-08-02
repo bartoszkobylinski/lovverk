@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "cbam-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # cbam-loven — Change history
 
 _1 events; doc_id `nl-20260619-052`._

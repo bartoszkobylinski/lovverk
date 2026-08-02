@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-leider-på-fartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-leider-på-fartøy — Change history
 
 _2 events; doc_id `sf-20160322-0322`._

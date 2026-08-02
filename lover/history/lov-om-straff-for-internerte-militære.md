@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-straff-for-internerte-militære"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-straff-for-internerte-militære — Change history
 
 _2 events; doc_id `nl-19160317-000`._

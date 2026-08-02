@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-likebehandlingsreglene-bemanningsforetak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-likebehandlingsreglene-bemanningsforetak — Change history
 
 _2 events; doc_id `sf-20150706-0874`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "landslottloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # landslottloven — Change history
 
 _5 events; doc_id `nl-19300314-000`._

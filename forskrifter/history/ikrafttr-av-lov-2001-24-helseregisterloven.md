@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-2001-24-helseregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-2001-24-helseregisterloven — Change history
 
 _1 events; doc_id `sf-20010518-0502`._

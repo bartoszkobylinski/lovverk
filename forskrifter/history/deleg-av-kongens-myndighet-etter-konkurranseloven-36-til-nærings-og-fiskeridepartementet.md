@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-konkurranseloven-36-til-nærings-og-fiskeridepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-konkurranseloven-36-til-nærings-og-fiskeridepartementet — Change history
 
 _1 events; doc_id `sf-20181214-1985`._

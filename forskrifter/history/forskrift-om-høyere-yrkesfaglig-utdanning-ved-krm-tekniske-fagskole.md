@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-høyere-yrkesfaglig-utdanning-ved-krm-tekniske-fagskole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-høyere-yrkesfaglig-utdanning-ved-krm-tekniske-fagskole — Change history
 
 _2 events; doc_id `sf-20201126-3304`._

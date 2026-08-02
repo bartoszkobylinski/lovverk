@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-barnevernsloven-til-sentralenheten-for-barneverns-og-helsenemnda"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-barnevernsloven-til-sentralenheten-for-barneverns-og-helsenemnda — Change history
 
 _1 events; doc_id `sf-20221222-2499`._

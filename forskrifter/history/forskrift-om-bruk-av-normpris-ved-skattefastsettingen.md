@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-normpris-ved-skattefastsettingen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-normpris-ved-skattefastsettingen — Change history
 
 _2 events; doc_id `sf-19761217-0007`._

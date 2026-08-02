@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dirnat-etter-fredningsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dirnat-etter-fredningsforskriften — Change history
 
 _1 events; doc_id `sf-20100430-0947`._

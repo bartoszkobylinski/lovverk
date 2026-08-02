@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-prøvetaking-av-industrifangster-ved-landing"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-prøvetaking-av-industrifangster-ved-landing — Change history
 
 _2 events; doc_id `sf-20251125-2339`._

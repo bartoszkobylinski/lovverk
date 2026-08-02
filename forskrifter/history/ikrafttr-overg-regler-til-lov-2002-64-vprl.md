@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-overg-regler-til-lov-2002-64-vprl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-overg-regler-til-lov-2002-64-vprl — Change history
 
 _1 events; doc_id `sf-20021220-1627`._

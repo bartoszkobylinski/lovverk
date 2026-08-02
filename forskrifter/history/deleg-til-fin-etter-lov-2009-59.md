@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-lov-2009-59"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-lov-2009-59 — Change history
 
 _1 events; doc_id `sf-20090619-0692`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-endr-i-lov-om-pengevesenet-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endr-i-lov-om-pengevesenet-m-v — Change history
 
 _1 events; doc_id `sf-19890127-0063`._

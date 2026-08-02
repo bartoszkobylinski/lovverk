@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-2021-26-endr-i-verdipapirhandelloven-og-regnskapsloven-mv-periodisk-rapportering-og-direktivgjennomføring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-2021-26-endr-i-verdipapirhandelloven-og-regnskapsloven-mv-periodisk-rapportering-og-direktivgjennomføring — Change history
 
 _2 events; doc_id `sf-20210624-2176`._

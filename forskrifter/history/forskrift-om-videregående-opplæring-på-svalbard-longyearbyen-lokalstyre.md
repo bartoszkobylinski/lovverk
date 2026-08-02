@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-videregående-opplæring-på-svalbard-longyearbyen-lokalstyre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-videregående-opplæring-på-svalbard-longyearbyen-lokalstyre — Change history
 
 _2 events; doc_id `sf-20180205-0150`._

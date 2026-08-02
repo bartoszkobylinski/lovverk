@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-oslo-kommune"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-oslo-kommune — Change history
 
 _2 events; doc_id `sf-19980119-0038`._

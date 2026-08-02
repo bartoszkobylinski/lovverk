@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utsatte-frister-på-transportområdet-knyttet-til-covid-19"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utsatte-frister-på-transportområdet-knyttet-til-covid-19 — Change history
 
 _2 events; doc_id `sf-20200618-1227`._

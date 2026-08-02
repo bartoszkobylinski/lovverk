@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføringvedtak-fra-jd-til-kmd-og-nhd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføringvedtak-fra-jd-til-kmd-og-nhd — Change history
 
 _1 events; doc_id `sf-20100625-0944`._

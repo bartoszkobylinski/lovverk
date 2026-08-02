@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-utlendingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-utlendingsforskriften — Change history
 
 _1 events; doc_id `sf-20260619-1132`._

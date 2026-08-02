@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-om-endringer-i-innskuddspensjonsloven-mv-egen-pensjonskonto"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-om-endringer-i-innskuddspensjonsloven-mv-egen-pensjonskonto — Change history
 
 _2 events; doc_id `sf-20201106-2272`._

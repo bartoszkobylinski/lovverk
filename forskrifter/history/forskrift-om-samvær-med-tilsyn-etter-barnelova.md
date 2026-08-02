@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samvær-med-tilsyn-etter-barnelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samvær-med-tilsyn-etter-barnelova — Change history
 
 _2 events; doc_id `sf-20131219-1636`._

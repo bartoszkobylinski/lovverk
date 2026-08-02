@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-snt-kjøttproduksjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-snt-kjøttproduksjonsloven — Change history
 
 _1 events; doc_id `sf-19970912-1549`._

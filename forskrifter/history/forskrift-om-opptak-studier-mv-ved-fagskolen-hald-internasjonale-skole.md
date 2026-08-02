@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole — Change history
 
 _4 events; doc_id `sf-20191220-2136`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-energimerking-av-kontorutstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-energimerking-av-kontorutstyr — Change history
 
 _2 events; doc_id `sf-20100625-0940`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiskeravgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiskeravgift — Change history
 
 _2 events; doc_id `sf-19930615-0532`._

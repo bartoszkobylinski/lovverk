@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-refusjonskrav-ved-utbetaling-av-pensjons-og-trygdeytelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-refusjonskrav-ved-utbetaling-av-pensjons-og-trygdeytelser — Change history
 
 _2 events; doc_id `sf-20000706-0726`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-statsforvalterene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-statsforvalterene — Change history
 
 _1 events; doc_id `sf-19920327-0292`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-dbe-etter-brannvernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-dbe-etter-brannvernloven — Change history
 
 _2 events; doc_id `sf-19960820-0811`._

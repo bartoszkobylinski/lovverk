@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-karanteneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-karanteneloven — Change history
 
 _2 events; doc_id `sf-20151202-1380`._

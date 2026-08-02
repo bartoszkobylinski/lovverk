@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "opprettelse-av-jernbaneinfrastrukturforetaket-sf"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # opprettelse-av-jernbaneinfrastrukturforetaket-sf — Change history
 
 _1 events; doc_id `sf-20160205-0128`._

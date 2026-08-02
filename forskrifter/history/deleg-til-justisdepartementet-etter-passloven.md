@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-justisdepartementet-etter-passloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-justisdepartementet-etter-passloven — Change history
 
 _1 events; doc_id `sf-19970619-0615`._

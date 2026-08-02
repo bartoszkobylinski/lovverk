@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-jd-etter-ekomloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-jd-etter-ekomloven — Change history
 
 _1 events; doc_id `sf-20050314-0233`._

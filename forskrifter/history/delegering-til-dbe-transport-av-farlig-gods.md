@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-dbe-transport-av-farlig-gods"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-dbe-transport-av-farlig-gods — Change history
 
 _1 events; doc_id `sf-19970305-0239`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-forordning-eu-nr-305-2013"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-forordning-eu-nr-305-2013 — Change history
 
 _2 events; doc_id `sf-20150327-0343`._

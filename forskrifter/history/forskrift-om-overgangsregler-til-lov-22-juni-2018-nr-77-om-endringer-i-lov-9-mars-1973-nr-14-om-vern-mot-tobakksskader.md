@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-22-juni-2018-nr-77-om-endringer-i-lov-9-mars-1973-nr-14-om-vern-mot-tobakksskader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-22-juni-2018-nr-77-om-endringer-i-lov-9-mars-1973-nr-14-om-vern-mot-tobakksskader — Change history
 
 _2 events; doc_id `sf-20260327-0501`._

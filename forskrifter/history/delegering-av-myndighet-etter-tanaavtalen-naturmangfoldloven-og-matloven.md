@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-tanaavtalen-naturmangfoldloven-og-matloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-tanaavtalen-naturmangfoldloven-og-matloven — Change history
 
 _1 events; doc_id `sf-20180323-0485`._

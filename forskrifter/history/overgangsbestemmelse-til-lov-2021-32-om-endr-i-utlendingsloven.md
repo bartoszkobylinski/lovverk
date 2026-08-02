@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsbestemmelse-til-lov-2021-32-om-endr-i-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsbestemmelse-til-lov-2021-32-om-endr-i-utlendingsloven — Change history
 
 _1 events; doc_id `sf-20210903-2660`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter — Change history
 
 _2 events; doc_id `sf-20241021-2545`._

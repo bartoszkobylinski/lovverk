@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-utvidelse-av-virkeområdet-for-arkivloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-utvidelse-av-virkeområdet-for-arkivloven — Change history
 
 _2 events; doc_id `sf-20010309-0192`._

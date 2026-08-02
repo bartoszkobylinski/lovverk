@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-markedsføring-av-alternativ-behandling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-markedsføring-av-alternativ-behandling — Change history
 
 _2 events; doc_id `sf-20031211-1501`._

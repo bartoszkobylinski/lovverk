@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-tiltaksforskriften-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-tiltaksforskriften-2 — Change history
 
 _2 events; doc_id `sf-20251218-2918`._

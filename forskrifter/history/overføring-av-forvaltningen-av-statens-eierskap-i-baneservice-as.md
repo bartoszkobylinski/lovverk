@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningen-av-statens-eierskap-i-baneservice-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningen-av-statens-eierskap-i-baneservice-as — Change history
 
 _1 events; doc_id `sf-20151211-1573`._

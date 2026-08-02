@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fastsettelse-av-tvangsmulkt-i-medhold-av-lov-om-offentlige-anskaffelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fastsettelse-av-tvangsmulkt-i-medhold-av-lov-om-offentlige-anskaffelser — Change history
 
 _2 events; doc_id `sf-20250917-2010`._

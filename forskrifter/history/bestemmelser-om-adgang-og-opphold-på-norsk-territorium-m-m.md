@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelser-om-adgang-og-opphold-på-norsk-territorium-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelser-om-adgang-og-opphold-på-norsk-territorium-m-m — Change history
 
 _2 events; doc_id `sf-20120831-0847`._

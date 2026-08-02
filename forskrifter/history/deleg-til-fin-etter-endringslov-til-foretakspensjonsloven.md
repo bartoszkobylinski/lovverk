@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-endringslov-til-foretakspensjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-endringslov-til-foretakspensjonsloven — Change history
 
 _1 events; doc_id `sf-20140620-0794`._

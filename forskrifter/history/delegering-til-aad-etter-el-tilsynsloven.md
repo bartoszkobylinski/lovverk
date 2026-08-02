@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-aad-etter-el-tilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-aad-etter-el-tilsynsloven — Change history
 
 _1 events; doc_id `sf-20021018-1131`._

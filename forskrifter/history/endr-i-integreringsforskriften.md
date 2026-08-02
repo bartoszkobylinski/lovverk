@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-integreringsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-integreringsforskriften — Change history
 
 _5 events; doc_id `sf-20260621-1155`._

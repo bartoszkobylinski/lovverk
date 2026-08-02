@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-folketrygdfondet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-folketrygdfondet — Change history
 
 _1 events; doc_id `sf-20020621-0581`._

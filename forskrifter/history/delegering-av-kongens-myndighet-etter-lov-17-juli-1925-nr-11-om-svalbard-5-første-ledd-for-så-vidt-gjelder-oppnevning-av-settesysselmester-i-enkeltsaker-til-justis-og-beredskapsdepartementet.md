@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-17-juli-1925-nr-11-om-svalbard-5-første-ledd-for-så-vidt-gjelder-oppnevning-av-settesysselmester-i-enkeltsaker-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-17-juli-1925-nr-11-om-svalbard-5-første-ledd-for-så-vidt-gjelder-oppnevning-av-settesysselmester-i-enkeltsaker-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20231110-1816`._

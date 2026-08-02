@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-klif-og-dirnat"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-klif-og-dirnat — Change history
 
 _1 events; doc_id `sf-20130308-0276`._

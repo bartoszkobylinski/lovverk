@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "norske-lov-nl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # norske-lov-nl — Change history
 
 _2 events; doc_id `nl-16870415-000`._

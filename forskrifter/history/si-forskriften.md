@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "si-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # si-forskriften — Change history
 
 _2 events; doc_id `sf-20130601-0565`._

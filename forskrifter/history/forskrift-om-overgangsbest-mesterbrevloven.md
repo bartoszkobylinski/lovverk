@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsbest-mesterbrevloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsbest-mesterbrevloven — Change history
 
 _1 events; doc_id `sf-19861212-2175`._

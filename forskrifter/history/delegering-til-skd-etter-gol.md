@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-skd-etter-gol"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-skd-etter-gol — Change history
 
 _1 events; doc_id `sf-19970624-0631`._

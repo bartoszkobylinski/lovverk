@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-folketrygdlova-og-enkelte-andre-lover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-folketrygdlova-og-enkelte-andre-lover — Change history
 
 _2 events; doc_id `nl-20251222-117`._

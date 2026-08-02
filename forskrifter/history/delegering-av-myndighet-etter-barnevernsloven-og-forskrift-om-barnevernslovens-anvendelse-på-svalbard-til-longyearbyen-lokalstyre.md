@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-barnevernsloven-og-forskrift-om-barnevernslovens-anvendelse-på-svalbard-til-longyearbyen-lokalstyre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-barnevernsloven-og-forskrift-om-barnevernslovens-anvendelse-på-svalbard-til-longyearbyen-lokalstyre — Change history
 
 _1 events; doc_id `sf-20221222-2510`._

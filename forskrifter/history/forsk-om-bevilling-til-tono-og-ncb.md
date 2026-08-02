@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-bevilling-til-tono-og-ncb"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-bevilling-til-tono-og-ncb — Change history
 
 _2 events; doc_id `sf-19710625-3800`._

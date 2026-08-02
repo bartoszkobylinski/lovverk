@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-pensjon-for-sametingsrepresentanter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-pensjon-for-sametingsrepresentanter — Change history
 
 _2 events; doc_id `sf-20130823-1006`._

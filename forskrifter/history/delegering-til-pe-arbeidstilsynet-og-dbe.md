@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-pe-arbeidstilsynet-og-dbe"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-pe-arbeidstilsynet-og-dbe — Change history
 
 _1 events; doc_id `sf-19961204-1122`._

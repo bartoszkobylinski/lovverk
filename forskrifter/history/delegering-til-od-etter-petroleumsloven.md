@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-od-etter-petroleumsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-od-etter-petroleumsloven — Change history
 
 _1 events; doc_id `sf-19911004-1016`._

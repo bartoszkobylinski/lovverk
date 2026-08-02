@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-forskrift-om-brannvern-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-forskrift-om-brannvern-på-svalbard — Change history
 
 _1 events; doc_id `sf-20020104-0010`._

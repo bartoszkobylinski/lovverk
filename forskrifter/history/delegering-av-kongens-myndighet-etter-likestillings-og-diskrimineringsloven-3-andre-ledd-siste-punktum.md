@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-likestillings-og-diskrimineringsloven-3-andre-ledd-siste-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-likestillings-og-diskrimineringsloven-3-andre-ledd-siste-punktum — Change history
 
 _1 events; doc_id `sf-20211112-3207`._

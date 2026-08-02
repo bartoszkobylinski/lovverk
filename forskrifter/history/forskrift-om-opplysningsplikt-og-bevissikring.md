@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opplysningsplikt-og-bevissikring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opplysningsplikt-og-bevissikring — Change history
 
 _2 events; doc_id `sf-20131211-1491`._

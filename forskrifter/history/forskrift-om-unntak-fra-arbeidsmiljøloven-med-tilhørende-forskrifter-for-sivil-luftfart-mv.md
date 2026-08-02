@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-arbeidsmiljøloven-med-tilhørende-forskrifter-for-sivil-luftfart-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-arbeidsmiljøloven-med-tilhørende-forskrifter-for-sivil-luftfart-mv — Change history
 
 _2 events; doc_id `sf-20181220-2182`._

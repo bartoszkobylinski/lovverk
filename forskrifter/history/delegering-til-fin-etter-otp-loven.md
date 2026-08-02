@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-otp-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-otp-loven — Change history
 
 _1 events; doc_id `sf-20051221-1581`._

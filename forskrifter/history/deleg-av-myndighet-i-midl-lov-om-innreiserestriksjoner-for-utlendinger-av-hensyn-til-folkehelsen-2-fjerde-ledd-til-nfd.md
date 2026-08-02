@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-i-midl-lov-om-innreiserestriksjoner-for-utlendinger-av-hensyn-til-folkehelsen-2-fjerde-ledd-til-nfd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-i-midl-lov-om-innreiserestriksjoner-for-utlendinger-av-hensyn-til-folkehelsen-2-fjerde-ledd-til-nfd — Change history
 
 _1 events; doc_id `sf-20210219-0471`._

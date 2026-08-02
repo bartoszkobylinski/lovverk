@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-politidirektoratet-etter-fvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-politidirektoratet-etter-fvl — Change history
 
 _1 events; doc_id `sf-20030114-0081`._

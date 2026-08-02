@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-tollettelser-iht-frihandelsavtaler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-tollettelser-iht-frihandelsavtaler — Change history
 
 _1 events; doc_id `sf-19920619-0465`._

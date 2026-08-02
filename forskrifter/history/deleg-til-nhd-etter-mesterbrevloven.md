@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-mesterbrevloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-mesterbrevloven — Change history
 
 _1 events; doc_id `sf-20081219-1441`._

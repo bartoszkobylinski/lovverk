@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport-og-forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport-og-forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av — Change history
 
 _2 events; doc_id `sf-20260421-0622`._

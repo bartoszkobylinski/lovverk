@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-forvaltningsloven-28-fjerde-ledd-til-kulturdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-forvaltningsloven-28-fjerde-ledd-til-kulturdepartementet — Change history
 
 _1 events; doc_id `sf-20201030-2216`._

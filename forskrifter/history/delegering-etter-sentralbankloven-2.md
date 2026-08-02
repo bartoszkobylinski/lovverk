@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-sentralbankloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-sentralbankloven-2 — Change history
 
 _1 events; doc_id `sf-19910819-0602`._

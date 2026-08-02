@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-ansvar-etter-målbruksforskrifta-8-til-språkrådet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-ansvar-etter-målbruksforskrifta-8-til-språkrådet — Change history
 
 _1 events; doc_id `sf-20160603-1951`._

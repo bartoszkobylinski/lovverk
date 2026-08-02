@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningen-av-statens-eerskap-i-posten-norge-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningen-av-statens-eerskap-i-posten-norge-as — Change history
 
 _1 events; doc_id `sf-20161209-1477`._

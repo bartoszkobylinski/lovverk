@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsbestemmelser-til-militærnekterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsbestemmelser-til-militærnekterloven — Change history
 
 _2 events; doc_id `sf-20120525-0465`._

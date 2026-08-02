@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-skatteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-skatteloven — Change history
 
 _1 events; doc_id `sf-19820820-1307`._

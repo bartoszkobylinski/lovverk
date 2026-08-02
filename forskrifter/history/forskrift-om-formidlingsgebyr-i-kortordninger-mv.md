@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-formidlingsgebyr-i-kortordninger-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-formidlingsgebyr-i-kortordninger-mv — Change history
 
 _2 events; doc_id `sf-20191216-1843`._

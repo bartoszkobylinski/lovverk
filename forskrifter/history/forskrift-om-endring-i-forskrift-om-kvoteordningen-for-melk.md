@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-kvoteordningen-for-melk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-kvoteordningen-for-melk — Change history
 
 _2 events; doc_id `sf-20250630-1367`._

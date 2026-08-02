@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-klimakvoteloven-3-3a-4-5-7-8-10-11-14-15-16c-20-og-21a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-klimakvoteloven-3-3a-4-5-7-8-10-11-14-15-16c-20-og-21a — Change history
 
 _1 events; doc_id `sf-20231215-2047`._

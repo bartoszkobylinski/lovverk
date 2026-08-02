@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-baneservice-som-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-baneservice-som-as — Change history
 
 _2 events; doc_id `nl-20050107-005`._

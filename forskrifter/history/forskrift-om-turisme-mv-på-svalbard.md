@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-turisme-mv-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-turisme-mv-på-svalbard — Change history
 
 _2 events; doc_id `sf-19911018-0671`._

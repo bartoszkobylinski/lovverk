@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-22-juni-2022-nr-80-om-endringer-i-verdipapirhandelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-22-juni-2022-nr-80-om-endringer-i-verdipapirhandelloven — Change history
 
 _2 events; doc_id `sf-20220627-1205`._

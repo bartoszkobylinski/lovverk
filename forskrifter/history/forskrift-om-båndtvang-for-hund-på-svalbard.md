@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-båndtvang-for-hund-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-båndtvang-for-hund-på-svalbard — Change history
 
 _2 events; doc_id `sf-20020628-0651`._

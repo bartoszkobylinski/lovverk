@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-strøm-ved-hundetrening"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-strøm-ved-hundetrening — Change history
 
 _2 events; doc_id `sf-20080314-0256`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-forskningsavgift-på-landbruksprodukter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-forskningsavgift-på-landbruksprodukter — Change history
 
 _2 events; doc_id `sf-20250630-1368`._

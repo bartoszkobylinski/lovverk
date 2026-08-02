@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-overføringsloven-13-om-soningsoverføring-av-domfelte-der-det-foreligger-særlige-grunner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-overføringsloven-13-om-soningsoverføring-av-domfelte-der-det-foreligger-særlige-grunner — Change history
 
 _1 events; doc_id `sf-20240920-2261`._

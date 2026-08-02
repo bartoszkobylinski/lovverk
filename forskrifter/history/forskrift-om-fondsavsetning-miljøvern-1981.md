@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fondsavsetning-miljøvern-1981"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fondsavsetning-miljøvern-1981 — Change history
 
 _2 events; doc_id `sf-19811211-8965`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-toll-og-avgiftsdir"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-toll-og-avgiftsdir — Change history
 
 _1 events; doc_id `sf-20011018-1195`._

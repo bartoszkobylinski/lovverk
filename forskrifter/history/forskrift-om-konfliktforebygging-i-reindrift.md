@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-konfliktforebygging-i-reindrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-konfliktforebygging-i-reindrift — Change history
 
 _4 events; doc_id `sf-20080619-0707`._

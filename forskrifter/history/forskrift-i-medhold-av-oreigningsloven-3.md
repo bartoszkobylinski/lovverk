@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-i-medhold-av-oreigningsloven-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-i-medhold-av-oreigningsloven-3 — Change history
 
 _4 events; doc_id `sf-19600602-0002`._

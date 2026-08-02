@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-busspassasjerrettigheter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-busspassasjerrettigheter — Change history
 
 _2 events; doc_id `sf-20160225-0193`._

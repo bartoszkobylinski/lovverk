@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-revisorloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-revisorloven — Change history
 
 _1 events; doc_id `sf-19990625-0706`._

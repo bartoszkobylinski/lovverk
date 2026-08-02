@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-sentralbankloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-sentralbankloven — Change history
 
 _2 events; doc_id `nl-20260320-010`._

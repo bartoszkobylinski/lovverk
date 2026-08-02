@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-statens-medieforvaltning-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-statens-medieforvaltning-3 — Change history
 
 _1 events; doc_id `sf-19940601-0639`._

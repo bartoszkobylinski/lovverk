@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-oppreisning-for-strafforfølgning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-oppreisning-for-strafforfølgning — Change history
 
 _2 events; doc_id `sf-20031212-1472`._

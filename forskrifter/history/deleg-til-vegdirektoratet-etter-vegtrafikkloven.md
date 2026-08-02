@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-vegdirektoratet-etter-vegtrafikkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-vegdirektoratet-etter-vegtrafikkloven — Change history
 
 _1 events; doc_id `sf-20090820-1530`._

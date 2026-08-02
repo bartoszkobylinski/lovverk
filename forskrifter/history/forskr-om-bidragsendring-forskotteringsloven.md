@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-bidragsendring-forskotteringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-bidragsendring-forskotteringsloven — Change history
 
 _2 events; doc_id `sf-19940809-0797`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-trossamfunnsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-trossamfunnsloven — Change history
 
 _2 events; doc_id `nl-20250314-003`._

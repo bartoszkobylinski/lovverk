@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilbaketrekking-av-betalingsmidler-50-og-500-kroneseddelen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilbaketrekking-av-betalingsmidler-50-og-500-kroneseddelen — Change history
 
 _2 events; doc_id `sf-20180912-1688`._

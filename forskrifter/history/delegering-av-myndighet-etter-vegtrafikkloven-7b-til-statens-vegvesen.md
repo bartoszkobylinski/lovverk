@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-vegtrafikkloven-7b-til-statens-vegvesen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-vegtrafikkloven-7b-til-statens-vegvesen — Change history
 
 _1 events; doc_id `sf-20211102-3122`._

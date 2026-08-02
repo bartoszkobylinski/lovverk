@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-slf-etter-naturmangfoldloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-slf-etter-naturmangfoldloven — Change history
 
 _1 events; doc_id `sf-20110620-0700`._

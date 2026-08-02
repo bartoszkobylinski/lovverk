@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-internrevisjon-i-nav"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-internrevisjon-i-nav — Change history
 
 _2 events; doc_id `sf-20060630-0745`._

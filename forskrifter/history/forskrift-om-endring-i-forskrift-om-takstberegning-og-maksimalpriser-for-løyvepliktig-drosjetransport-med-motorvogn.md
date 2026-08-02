@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-takstberegning-og-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-takstberegning-og-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn — Change history
 
 _2 events; doc_id `sf-20251020-2063`._

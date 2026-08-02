@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-tilskudd-til-kornkjøpere-tilbud-om-utsatt-leveranse-av-korn-til-markedsregulator-mot-kompensasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-tilskudd-til-kornkjøpere-tilbud-om-utsatt-leveranse-av-korn-til-markedsregulator-mot-kompensasjon — Change history
 
 _2 events; doc_id `sf-20251029-2137`._

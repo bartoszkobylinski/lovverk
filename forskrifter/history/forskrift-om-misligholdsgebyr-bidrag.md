@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-misligholdsgebyr-bidrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-misligholdsgebyr-bidrag — Change history
 
 _2 events; doc_id `sf-19931223-1252`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-fra-kongen-til-justis-og-beredskapsdepartementet-til-å-fastsette-forskrifter-om-forenklet-forelegg-i-medhold-av-havne-og-farvannsloven-51-første-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-fra-kongen-til-justis-og-beredskapsdepartementet-til-å-fastsette-forskrifter-om-forenklet-forelegg-i-medhold-av-havne-og-farvannsloven-51-første-ledd — Change history
 
 _1 events; doc_id `sf-20210611-1908`._

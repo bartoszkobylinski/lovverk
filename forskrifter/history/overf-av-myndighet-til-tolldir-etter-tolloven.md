@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-av-myndighet-til-tolldir-etter-tolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-av-myndighet-til-tolldir-etter-tolloven — Change history
 
 _1 events; doc_id `sf-19671124-0015`._

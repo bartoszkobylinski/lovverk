@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "omorganisering-av-bergvesenet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # omorganisering-av-bergvesenet — Change history
 
 _2 events; doc_id `sf-19851129-1994`._

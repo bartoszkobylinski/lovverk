@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-kvalitetskontroll-med-landbruksvarer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-kvalitetskontroll-med-landbruksvarer — Change history
 
 _2 events; doc_id `nl-19320617-006`._

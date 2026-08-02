@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-norsk-institutt-for-skog-og-landskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-norsk-institutt-for-skog-og-landskap — Change history
 
 _1 events; doc_id `sf-20051221-1643`._

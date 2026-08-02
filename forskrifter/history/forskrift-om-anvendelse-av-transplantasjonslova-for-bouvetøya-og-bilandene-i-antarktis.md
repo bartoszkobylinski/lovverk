@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anvendelse-av-transplantasjonslova-for-bouvetøya-og-bilandene-i-antarktis"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anvendelse-av-transplantasjonslova-for-bouvetøya-og-bilandene-i-antarktis — Change history
 
 _2 events; doc_id `sf-20170616-0768`._

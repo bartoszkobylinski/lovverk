@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-skattedirektoratet-etter-skattebetalingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-skattedirektoratet-etter-skattebetalingsloven — Change history
 
 _1 events; doc_id `sf-20251111-2242`._

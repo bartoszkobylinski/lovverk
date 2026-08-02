@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-fastsettelse-av-renter-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2023"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-fastsettelse-av-renter-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2023 — Change history
 
 _2 events; doc_id `sf-20240209-0229`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-grenselengdegebyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-grenselengdegebyr — Change history
 
 _2 events; doc_id `sf-20151110-1267`._

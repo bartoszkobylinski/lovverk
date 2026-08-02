@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-undersøkelser-for-smittsom-sykdom"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-undersøkelser-for-smittsom-sykdom — Change history
 
 _2 events; doc_id `sf-19981222-1432`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-atomal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-atomal — Change history
 
 _2 events; doc_id `sf-20181220-2064`._

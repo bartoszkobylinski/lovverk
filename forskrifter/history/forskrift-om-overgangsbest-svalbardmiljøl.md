@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsbest-svalbardmiljøl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsbest-svalbardmiljøl — Change history
 
 _2 events; doc_id `sf-20020628-0649`._

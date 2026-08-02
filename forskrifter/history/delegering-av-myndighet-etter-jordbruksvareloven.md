@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-jordbruksvareloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-jordbruksvareloven — Change history
 
 _1 events; doc_id `sf-19990507-0435`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-graden-ph-d-ved-himolde"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-graden-ph-d-ved-himolde — Change history
 
 _2 events; doc_id `sf-20130425-0481`._

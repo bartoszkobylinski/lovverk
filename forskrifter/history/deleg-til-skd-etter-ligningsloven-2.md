@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skd-etter-ligningsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skd-etter-ligningsloven-2 — Change history
 
 _1 events; doc_id `sf-20081219-1445`._

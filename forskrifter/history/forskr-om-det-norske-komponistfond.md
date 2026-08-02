@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-det-norske-komponistfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-det-norske-komponistfond — Change history
 
 _2 events; doc_id `sf-19661018-9040`._

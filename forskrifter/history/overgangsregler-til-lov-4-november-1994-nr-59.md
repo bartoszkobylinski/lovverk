@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-4-november-1994-nr-59"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-4-november-1994-nr-59 — Change history
 
 _2 events; doc_id `sf-19941118-1015`._

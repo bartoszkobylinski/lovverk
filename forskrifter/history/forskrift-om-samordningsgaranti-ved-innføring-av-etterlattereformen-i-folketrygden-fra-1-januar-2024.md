@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordningsgaranti-ved-innføring-av-etterlattereformen-i-folketrygden-fra-1-januar-2024"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordningsgaranti-ved-innføring-av-etterlattereformen-i-folketrygden-fra-1-januar-2024 — Change history
 
 _2 events; doc_id `sf-20231220-2233`._

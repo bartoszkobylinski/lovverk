@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-gradene-ph-d-og-ph-d-i-kunstnerisk-utviklingsarbeid-ved-ntnu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-gradene-ph-d-og-ph-d-i-kunstnerisk-utviklingsarbeid-ved-ntnu — Change history
 
 _2 events; doc_id `sf-20181205-1878`._

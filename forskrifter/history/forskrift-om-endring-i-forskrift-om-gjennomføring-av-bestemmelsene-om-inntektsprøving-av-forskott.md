@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-gjennomføring-av-bestemmelsene-om-inntektsprøving-av-forskott"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-gjennomføring-av-bestemmelsene-om-inntektsprøving-av-forskott — Change history
 
 _1 events; doc_id `sf-20260605-1018`._

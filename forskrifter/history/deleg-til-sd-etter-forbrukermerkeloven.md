@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sd-etter-forbrukermerkeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sd-etter-forbrukermerkeloven — Change history
 
 _1 events; doc_id `sf-20130621-0715`._

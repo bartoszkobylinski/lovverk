@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-tilleggsavtalen-til-eøs-avtalen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-tilleggsavtalen-til-eøs-avtalen — Change history
 
 _1 events; doc_id `sf-19940614-0505`._

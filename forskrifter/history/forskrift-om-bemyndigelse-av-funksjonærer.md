@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bemyndigelse-av-funksjonærer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bemyndigelse-av-funksjonærer — Change history
 
 _2 events; doc_id `sf-19921204-0893`._

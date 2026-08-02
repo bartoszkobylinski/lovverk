@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-kommuner-for-å-bedre-tilgangen-til-strandsonen-langs-oslofjorden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-kommuner-for-å-bedre-tilgangen-til-strandsonen-langs-oslofjorden — Change history
 
 _2 events; doc_id `sf-20220920-1602`._

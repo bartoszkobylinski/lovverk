@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fordeling-av-ansvar-for-lover-mellom-de-to-statsrådene-i-kmd-og-de-to-statsrådene-i-kd-overføring-av-forvaltningsansvaret-for-kredittopplysningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fordeling-av-ansvar-for-lover-mellom-de-to-statsrådene-i-kmd-og-de-to-statsrådene-i-kd-overføring-av-forvaltningsansvaret-for-kredittopplysningsloven — Change history
 
 _1 events; doc_id `sf-20200214-0139`._

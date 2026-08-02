@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lotteri-og-stiftelsestilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lotteri-og-stiftelsestilsynet — Change history
 
 _1 events; doc_id `sf-20130116-0043`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "csm-sikkerhetsmål-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # csm-sikkerhetsmål-forskriften — Change history
 
 _2 events; doc_id `sf-20100129-0072`._

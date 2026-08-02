@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-nærings-og-fiskeridepartementet-etter-lov-om-registrering-av-foretak-4-5-andre-ledd-tredje-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-nærings-og-fiskeridepartementet-etter-lov-om-registrering-av-foretak-4-5-andre-ledd-tredje-punktum — Change history
 
 _1 events; doc_id `sf-20170621-0839`._

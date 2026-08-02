@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-diskriminering-i-internasj-skipsfart"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-diskriminering-i-internasj-skipsfart — Change history
 
 _2 events; doc_id `nl-19670707-001`._

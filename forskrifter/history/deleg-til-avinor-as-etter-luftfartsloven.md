@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-avinor-as-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-avinor-as-etter-luftfartsloven — Change history
 
 _1 events; doc_id `sf-20021217-1658`._

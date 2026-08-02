@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-reservasjonsregisteret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-reservasjonsregisteret — Change history
 
 _2 events; doc_id `sf-20090605-0598`._

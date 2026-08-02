@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv — Change history
 
 _2 events; doc_id `sf-20030206-0141`._

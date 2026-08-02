@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-til-universitetet-i-tromsø"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-til-universitetet-i-tromsø — Change history
 
 _1 events; doc_id `sf-20150619-0696`._

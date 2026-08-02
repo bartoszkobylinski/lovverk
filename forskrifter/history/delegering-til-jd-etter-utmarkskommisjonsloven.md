@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-jd-etter-utmarkskommisjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-jd-etter-utmarkskommisjonsloven — Change history
 
 _1 events; doc_id `sf-19860117-0037`._

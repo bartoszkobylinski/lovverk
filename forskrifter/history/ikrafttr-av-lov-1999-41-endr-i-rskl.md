@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-1999-41-endr-i-rskl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-1999-41-endr-i-rskl — Change history
 
 _1 events; doc_id `sf-19990618-0985`._

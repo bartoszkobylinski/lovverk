@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-jan-mayen-under-norsk-høyhetsrett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-jan-mayen-under-norsk-høyhetsrett — Change history
 
 _2 events; doc_id `sf-19290508-3426`._

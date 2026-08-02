@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-departementets-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-brann-og-eksplosjonsvernloven-18a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-departementets-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-brann-og-eksplosjonsvernloven-18a — Change history
 
 _1 events; doc_id `sf-20251115-2281`._

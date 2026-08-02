@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-lov-2005-62-arbeidsmiljøl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-lov-2005-62-arbeidsmiljøl — Change history
 
 _1 events; doc_id `sf-20050617-0609`._

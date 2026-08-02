@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-om-leger-med-utenl-eksamen-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-om-leger-med-utenl-eksamen-svalbard — Change history
 
 _1 events; doc_id `sf-19570607-3391`._

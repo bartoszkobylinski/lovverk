@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta — Change history
 
 _2 events; doc_id `sf-20251215-2589`._

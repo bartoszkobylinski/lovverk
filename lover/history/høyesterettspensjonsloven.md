@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "høyesterettspensjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # høyesterettspensjonsloven — Change history
 
 _2 events; doc_id `nl-19820521-025`._

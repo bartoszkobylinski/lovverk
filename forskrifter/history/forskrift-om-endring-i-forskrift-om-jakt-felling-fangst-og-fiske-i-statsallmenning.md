@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-jakt-felling-fangst-og-fiske-i-statsallmenning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-jakt-felling-fangst-og-fiske-i-statsallmenning — Change history
 
 _2 events; doc_id `sf-20260312-0407`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-etter-barneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-etter-barneloven — Change history
 
 _1 events; doc_id `sf-19850412-0842`._

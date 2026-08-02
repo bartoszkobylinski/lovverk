@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "jernbanepassasjerrettighetsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # jernbanepassasjerrettighetsforskriften — Change history
 
 _2 events; doc_id `sf-20230511-0692`._

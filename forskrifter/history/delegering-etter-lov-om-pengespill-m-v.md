@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-om-pengespill-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-om-pengespill-m-v — Change history
 
 _1 events; doc_id `sf-19921211-1051`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kredittloven-pkrregll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kredittloven-pkrregll — Change history
 
 _2 events; doc_id `nl-19650625-002`._

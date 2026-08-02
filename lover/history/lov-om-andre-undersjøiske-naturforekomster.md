@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-andre-undersjøiske-naturforekomster"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-andre-undersjøiske-naturforekomster — Change history
 
 _2 events; doc_id `nl-19630621-012`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilbaketrekking-av-betalingsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilbaketrekking-av-betalingsmidler — Change history
 
 _2 events; doc_id `sf-20170405-0450`._

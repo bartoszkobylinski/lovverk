@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsgivers-lønnsplikt-under-permittering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsgivers-lønnsplikt-under-permittering — Change history
 
 _2 events; doc_id `sf-20200320-0374`._

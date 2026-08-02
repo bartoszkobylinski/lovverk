@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-avtale-mellom-norge-og-kina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-avtale-mellom-norge-og-kina — Change history
 
 _2 events; doc_id `nl-19850503-024`._

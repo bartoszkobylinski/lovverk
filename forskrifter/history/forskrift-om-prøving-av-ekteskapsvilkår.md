@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-prøving-av-ekteskapsvilkår"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-prøving-av-ekteskapsvilkår — Change history
 
 _2 events; doc_id `sf-19921105-0979`._

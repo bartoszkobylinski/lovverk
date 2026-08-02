@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ptt-etter-verdipapirhandelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ptt-etter-verdipapirhandelloven — Change history
 
 _1 events; doc_id `sf-20050901-0955`._

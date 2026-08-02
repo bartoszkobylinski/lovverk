@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-skattedirektoratet-til-å-gi-forskrift-om-overgangsbestemmelser-til-lov-om-endringer-i-skatteforvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-skattedirektoratet-til-å-gi-forskrift-om-overgangsbestemmelser-til-lov-om-endringer-i-skatteforvaltningsloven — Change history
 
 _1 events; doc_id `sf-20250624-1197`._

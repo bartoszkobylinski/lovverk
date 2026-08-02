@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-kuperte-hunder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-kuperte-hunder — Change history
 
 _2 events; doc_id `sf-20030425-0614`._

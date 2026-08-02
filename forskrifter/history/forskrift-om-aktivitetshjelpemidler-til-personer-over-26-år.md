@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-aktivitetshjelpemidler-til-personer-over-26-år"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-aktivitetshjelpemidler-til-personer-over-26-år — Change history
 
 _2 events; doc_id `sf-20140625-0865`._

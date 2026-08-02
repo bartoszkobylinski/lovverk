@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-asl-og-asal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-asl-og-asal — Change history
 
 _1 events; doc_id `sf-20020125-0066`._

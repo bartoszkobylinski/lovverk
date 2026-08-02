@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattekontoret-etter-arveavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattekontoret-etter-arveavgiftsloven — Change history
 
 _1 events; doc_id `sf-20110706-0746`._

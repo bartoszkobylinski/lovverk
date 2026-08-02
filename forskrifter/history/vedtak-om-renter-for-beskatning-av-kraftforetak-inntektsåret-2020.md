@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-renter-for-beskatning-av-kraftforetak-inntektsåret-2020"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-renter-for-beskatning-av-kraftforetak-inntektsåret-2020 — Change history
 
 _2 events; doc_id `sf-20210125-0197`._

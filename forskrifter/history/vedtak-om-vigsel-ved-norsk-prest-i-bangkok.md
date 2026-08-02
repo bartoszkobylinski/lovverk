@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-vigsel-ved-norsk-prest-i-bangkok"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-vigsel-ved-norsk-prest-i-bangkok — Change history
 
 _1 events; doc_id `sf-20020206-1916`._

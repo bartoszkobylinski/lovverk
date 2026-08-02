@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-midlertidige-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn-som-ikke-er-forhåndsbestilt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midlertidige-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn-som-ikke-er-forhåndsbestilt — Change history
 
 _2 events; doc_id `sf-20241206-3116`._

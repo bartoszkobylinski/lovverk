@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-losers-tjenestefrihet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-losers-tjenestefrihet — Change history
 
 _2 events; doc_id `sf-19911210-0810`._

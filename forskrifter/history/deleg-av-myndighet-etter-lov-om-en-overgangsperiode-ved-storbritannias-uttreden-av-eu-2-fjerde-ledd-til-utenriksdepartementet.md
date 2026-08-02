@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lov-om-en-overgangsperiode-ved-storbritannias-uttreden-av-eu-2-fjerde-ledd-til-utenriksdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lov-om-en-overgangsperiode-ved-storbritannias-uttreden-av-eu-2-fjerde-ledd-til-utenriksdepartementet — Change history
 
 _1 events; doc_id `sf-20201218-2861`._

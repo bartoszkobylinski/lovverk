@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-md-etter-pbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-md-etter-pbl — Change history
 
 _1 events; doc_id `sf-20130524-0532`._

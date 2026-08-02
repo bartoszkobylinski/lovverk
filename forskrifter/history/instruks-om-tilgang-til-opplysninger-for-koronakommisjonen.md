@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-tilgang-til-opplysninger-for-koronakommisjonen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-tilgang-til-opplysninger-for-koronakommisjonen — Change history
 
 _1 events; doc_id `sf-20200623-1296`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "jan-mayen-skatteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # jan-mayen-skatteloven — Change history
 
 _2 events; doc_id `nl-19961129-069`._

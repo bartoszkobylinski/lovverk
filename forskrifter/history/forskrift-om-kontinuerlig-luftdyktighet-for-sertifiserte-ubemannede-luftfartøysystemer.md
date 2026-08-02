@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kontinuerlig-luftdyktighet-for-sertifiserte-ubemannede-luftfartøysystemer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontinuerlig-luftdyktighet-for-sertifiserte-ubemannede-luftfartøysystemer — Change history
 
 _2 events; doc_id `sf-20250627-1359`._

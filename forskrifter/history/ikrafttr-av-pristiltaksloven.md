@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-pristiltaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-pristiltaksloven — Change history
 
 _1 events; doc_id `sf-19931112-1023`._

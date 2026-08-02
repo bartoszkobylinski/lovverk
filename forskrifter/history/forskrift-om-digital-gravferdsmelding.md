@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-digital-gravferdsmelding"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-digital-gravferdsmelding — Change history
 
 _2 events; doc_id `sf-20240605-0940`._

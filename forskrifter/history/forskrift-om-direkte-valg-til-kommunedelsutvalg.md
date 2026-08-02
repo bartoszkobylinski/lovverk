@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-direkte-valg-til-kommunedelsutvalg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-direkte-valg-til-kommunedelsutvalg — Change history
 
 _2 events; doc_id `sf-20030103-0008`._

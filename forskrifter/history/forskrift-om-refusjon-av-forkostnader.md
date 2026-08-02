@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-refusjon-av-forkostnader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-refusjon-av-forkostnader — Change history
 
 _2 events; doc_id `sf-19971201-1249`._

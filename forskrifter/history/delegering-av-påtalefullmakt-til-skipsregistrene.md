@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-påtalefullmakt-til-skipsregistrene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-påtalefullmakt-til-skipsregistrene — Change history
 
 _1 events; doc_id `sf-19970530-0585`._

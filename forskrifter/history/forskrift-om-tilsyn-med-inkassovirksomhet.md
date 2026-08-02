@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilsyn-med-inkassovirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilsyn-med-inkassovirksomhet — Change history
 
 _2 events; doc_id `sf-19900312-0213`._

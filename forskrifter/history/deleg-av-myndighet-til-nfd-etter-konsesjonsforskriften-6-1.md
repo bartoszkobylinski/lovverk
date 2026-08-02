@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-nfd-etter-konsesjonsforskriften-6-1"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-nfd-etter-konsesjonsforskriften-6-1 — Change history
 
 _1 events; doc_id `sf-20171215-2033`._

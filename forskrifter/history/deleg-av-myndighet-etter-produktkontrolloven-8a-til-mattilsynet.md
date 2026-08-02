@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-produktkontrolloven-8a-til-mattilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-produktkontrolloven-8a-til-mattilsynet — Change history
 
 _1 events; doc_id `sf-20180917-1473`._

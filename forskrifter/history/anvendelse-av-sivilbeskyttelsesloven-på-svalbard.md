@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "anvendelse-av-sivilbeskyttelsesloven-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # anvendelse-av-sivilbeskyttelsesloven-på-svalbard — Change history
 
 _1 events; doc_id `sf-20121207-1186`._

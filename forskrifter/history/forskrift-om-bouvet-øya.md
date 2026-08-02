@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bouvet-øya"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bouvet-øya — Change history
 
 _2 events; doc_id `sf-19300919-3663`._

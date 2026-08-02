@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-allmennaksjeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-allmennaksjeloven — Change history
 
 _1 events; doc_id `sf-20090626-0877`._

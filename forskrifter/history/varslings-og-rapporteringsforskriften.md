@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "varslings-og-rapporteringsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # varslings-og-rapporteringsforskriften — Change history
 
 _2 events; doc_id `sf-20060331-0379`._

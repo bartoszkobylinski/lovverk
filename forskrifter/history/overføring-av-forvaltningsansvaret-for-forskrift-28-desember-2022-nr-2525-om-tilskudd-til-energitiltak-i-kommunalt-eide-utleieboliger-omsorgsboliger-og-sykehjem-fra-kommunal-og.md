@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-forskrift-28-desember-2022-nr-2525-om-tilskudd-til-energitiltak-i-kommunalt-eide-utleieboliger-omsorgsboliger-og-sykehjem-fra-kommunal-og"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-forskrift-28-desember-2022-nr-2525-om-tilskudd-til-energitiltak-i-kommunalt-eide-utleieboliger-omsorgsboliger-og-sykehjem-fra-kommunal-og — Change history
 
 _1 events; doc_id `sf-20250404-0595`._

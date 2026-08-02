@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-mv-av-lov-2003-43-endr-i-vpfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-mv-av-lov-2003-43-endr-i-vpfl — Change history
 
 _1 events; doc_id `sf-20030813-1044`._

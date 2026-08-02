@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "retningslinjer-for-forsinkelsesrentesats"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # retningslinjer-for-forsinkelsesrentesats — Change history
 
 _1 events; doc_id `sf-20130626-0756`._

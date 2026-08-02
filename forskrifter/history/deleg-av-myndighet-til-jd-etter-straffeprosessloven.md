@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-jd-etter-straffeprosessloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-jd-etter-straffeprosessloven — Change history
 
 _1 events; doc_id `sf-20160930-1138`._

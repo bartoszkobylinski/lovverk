@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-lospliktforskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-lospliktforskrift — Change history
 
 _1 events; doc_id `sf-19950407-0359`._

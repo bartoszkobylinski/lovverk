@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endring-av-forvaltningsansvar-for-høstbare-fremmede-viltarter-og-opphør-av-landbruks-og-matdepartementets-ansvar-for-etatsstyring-av-miljødirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endring-av-forvaltningsansvar-for-høstbare-fremmede-viltarter-og-opphør-av-landbruks-og-matdepartementets-ansvar-for-etatsstyring-av-miljødirektoratet — Change history
 
 _1 events; doc_id `sf-20250410-0635`._

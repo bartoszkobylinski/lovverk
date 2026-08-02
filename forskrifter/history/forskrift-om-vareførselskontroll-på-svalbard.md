@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vareførselskontroll-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vareførselskontroll-på-svalbard — Change history
 
 _2 events; doc_id `sf-20221213-2193`._

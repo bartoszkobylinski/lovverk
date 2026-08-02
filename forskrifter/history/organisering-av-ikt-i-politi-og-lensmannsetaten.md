@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "organisering-av-ikt-i-politi-og-lensmannsetaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # organisering-av-ikt-i-politi-og-lensmannsetaten — Change history
 
 _1 events; doc_id `sf-20131004-1186`._

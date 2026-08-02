@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nfd-etter-containerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nfd-etter-containerloven — Change history
 
 _1 events; doc_id `sf-19821217-1743`._

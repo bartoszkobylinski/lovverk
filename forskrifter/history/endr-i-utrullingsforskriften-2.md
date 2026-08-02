@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-utrullingsforskriften-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-utrullingsforskriften-2 — Change history
 
 _2 events; doc_id `sf-20260309-0359`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-innsyn-i-aksjeeierboken-aksjeeierregisteret-og-forvalterregistrerte-aksjer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innsyn-i-aksjeeierboken-aksjeeierregisteret-og-forvalterregistrerte-aksjer — Change history
 
 _2 events; doc_id `sf-20241117-2804`._

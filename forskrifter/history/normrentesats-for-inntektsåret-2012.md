@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "normrentesats-for-inntektsåret-2012"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # normrentesats-for-inntektsåret-2012 — Change history
 
 _2 events; doc_id `sf-20130125-0069`._

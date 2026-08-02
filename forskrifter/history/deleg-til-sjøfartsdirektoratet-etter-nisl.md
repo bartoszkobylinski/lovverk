@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sjøfartsdirektoratet-etter-nisl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sjøfartsdirektoratet-etter-nisl — Change history
 
 _1 events; doc_id `sf-20020614-0540`._

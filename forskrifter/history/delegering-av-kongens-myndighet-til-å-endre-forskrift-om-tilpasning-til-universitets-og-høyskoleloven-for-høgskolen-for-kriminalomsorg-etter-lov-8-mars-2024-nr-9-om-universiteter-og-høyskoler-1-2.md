@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-til-å-endre-forskrift-om-tilpasning-til-universitets-og-høyskoleloven-for-høgskolen-for-kriminalomsorg-etter-lov-8-mars-2024-nr-9-om-universiteter-og-høyskoler-1-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-til-å-endre-forskrift-om-tilpasning-til-universitets-og-høyskoleloven-for-høgskolen-for-kriminalomsorg-etter-lov-8-mars-2024-nr-9-om-universiteter-og-høyskoler-1-2 — Change history
 
 _1 events; doc_id `sf-20260417-0603`._

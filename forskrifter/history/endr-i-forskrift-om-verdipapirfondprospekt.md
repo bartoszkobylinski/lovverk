@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-forskrift-om-verdipapirfondprospekt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-forskrift-om-verdipapirfondprospekt — Change history
 
 _2 events; doc_id `sf-20030813-1046`._

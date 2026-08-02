@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kmd-etter-tinglysingsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kmd-etter-tinglysingsloven-2 — Change history
 
 _1 events; doc_id `sf-20131213-1476`._

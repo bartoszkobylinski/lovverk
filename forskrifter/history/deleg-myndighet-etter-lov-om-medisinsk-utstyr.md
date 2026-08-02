@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-etter-lov-om-medisinsk-utstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-etter-lov-om-medisinsk-utstyr — Change history
 
 _1 events; doc_id `sf-20011026-1221`._

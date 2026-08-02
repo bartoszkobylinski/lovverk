@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-til-nord-universitet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-til-nord-universitet — Change history
 
 _1 events; doc_id `sf-20151009-1192`._

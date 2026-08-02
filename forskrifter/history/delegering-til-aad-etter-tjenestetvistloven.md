@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-aad-etter-tjenestetvistloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-aad-etter-tjenestetvistloven — Change history
 
 _1 events; doc_id `sf-20020515-0450`._

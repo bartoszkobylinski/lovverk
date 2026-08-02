@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-svalbardskatteloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-svalbardskatteloven-2 — Change history
 
 _2 events; doc_id `nl-20251222-118`._

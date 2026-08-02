@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-grenseoppsynet-norge-og-russland"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-grenseoppsynet-norge-og-russland — Change history
 
 _1 events; doc_id `sf-20050805-0852`._

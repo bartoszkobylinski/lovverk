@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "konvensjon-1-mars-1954-om-sivilprosess"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # konvensjon-1-mars-1954-om-sivilprosess — Change history
 
 _2 events; doc_id `nl-19540301-000`._

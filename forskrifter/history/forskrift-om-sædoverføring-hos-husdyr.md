@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sædoverføring-hos-husdyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sædoverføring-hos-husdyr — Change history
 
 _2 events; doc_id `sf-19950306-0239`._

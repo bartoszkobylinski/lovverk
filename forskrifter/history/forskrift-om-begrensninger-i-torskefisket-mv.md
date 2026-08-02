@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-begrensninger-i-torskefisket-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-begrensninger-i-torskefisket-mv — Change history
 
 _2 events; doc_id `sf-20100226-0252`._

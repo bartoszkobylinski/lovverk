@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-overgangsregler-for-innkrevingsloven-og-endringer-i-andre-lover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-overgangsregler-for-innkrevingsloven-og-endringer-i-andre-lover — Change history
 
 _2 events; doc_id `sf-20251210-2487`._

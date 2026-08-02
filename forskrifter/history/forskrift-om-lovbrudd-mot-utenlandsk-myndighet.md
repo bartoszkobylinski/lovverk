@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lovbrudd-mot-utenlandsk-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lovbrudd-mot-utenlandsk-myndighet — Change history
 
 _2 events; doc_id `sf-19971003-1077`._

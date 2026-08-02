@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-børsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-børsloven — Change history
 
 _1 events; doc_id `sf-19880930-0754`._

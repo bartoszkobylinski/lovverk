@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-om-næringsberedskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-om-næringsberedskap — Change history
 
 _1 events; doc_id `sf-20170616-0820`._

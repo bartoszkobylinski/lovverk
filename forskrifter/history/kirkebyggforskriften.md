@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kirkebyggforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kirkebyggforskriften — Change history
 
 _2 events; doc_id `sf-20201218-2827`._

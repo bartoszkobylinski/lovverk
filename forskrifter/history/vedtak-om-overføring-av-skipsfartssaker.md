@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-overføring-av-skipsfartssaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-overføring-av-skipsfartssaker — Change history
 
 _1 events; doc_id `sf-19861010-1928`._

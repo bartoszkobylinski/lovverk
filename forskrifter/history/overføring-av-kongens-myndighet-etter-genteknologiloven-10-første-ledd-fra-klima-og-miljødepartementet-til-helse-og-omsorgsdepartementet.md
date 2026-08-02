@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-kongens-myndighet-etter-genteknologiloven-10-første-ledd-fra-klima-og-miljødepartementet-til-helse-og-omsorgsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-kongens-myndighet-etter-genteknologiloven-10-første-ledd-fra-klima-og-miljødepartementet-til-helse-og-omsorgsdepartementet — Change history
 
 _1 events; doc_id `sf-20210903-2656`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-etablering-av-dsb"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-etablering-av-dsb — Change history
 
 _1 events; doc_id `sf-20030829-1094`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-samferdselsdepartementet-etter-telelov"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-samferdselsdepartementet-etter-telelov — Change history
 
 _1 events; doc_id `sf-20010831-0948`._

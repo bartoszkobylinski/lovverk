@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-forretningsbankloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-forretningsbankloven — Change history
 
 _1 events; doc_id `sf-19770610-8561`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-saksbehandlingsgebyr-etter-havne-og-farvannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-saksbehandlingsgebyr-etter-havne-og-farvannsloven — Change history
 
 _2 events; doc_id `sf-20101220-1760`._

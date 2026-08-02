@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-pensjonering-av-militært-tilsatte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-pensjonering-av-militært-tilsatte — Change history
 
 _2 events; doc_id `nl-19570503-000`._

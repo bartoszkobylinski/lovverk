@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rekefiske-færøyene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rekefiske-færøyene — Change history
 
 _2 events; doc_id `sf-19960719-0730`._

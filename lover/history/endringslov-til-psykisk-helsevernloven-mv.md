@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-psykisk-helsevernloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-psykisk-helsevernloven-mv — Change history
 
 _2 events; doc_id `nl-20250620-067`._

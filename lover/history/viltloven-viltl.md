@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "viltloven-viltl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # viltloven-viltl — Change history
 
 _2 events; doc_id `nl-19810529-038`._

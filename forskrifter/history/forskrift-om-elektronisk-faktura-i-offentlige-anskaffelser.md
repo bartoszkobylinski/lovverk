@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-elektronisk-faktura-i-offentlige-anskaffelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-elektronisk-faktura-i-offentlige-anskaffelser — Change history
 
 _4 events; doc_id `sf-20190401-0444`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dsb-etter-sivilbeskyttelsesloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dsb-etter-sivilbeskyttelsesloven — Change history
 
 _1 events; doc_id `sf-20100625-0943`._

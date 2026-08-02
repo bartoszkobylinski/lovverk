@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-statens-eierskap-i-bjørnøen-as-og-kings-bay-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-statens-eierskap-i-bjørnøen-as-og-kings-bay-as — Change history
 
 _1 events; doc_id `sf-20161202-1445`._

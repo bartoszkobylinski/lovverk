@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-etter-børsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-etter-børsloven — Change history
 
 _1 events; doc_id `sf-19890609-0377`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-naturskadeforsikringslova-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-naturskadeforsikringslova-m-m — Change history
 
 _2 events; doc_id `nl-20250620-078`._

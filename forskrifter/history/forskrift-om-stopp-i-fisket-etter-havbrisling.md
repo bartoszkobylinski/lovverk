@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-stopp-i-fisket-etter-havbrisling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stopp-i-fisket-etter-havbrisling — Change history
 
 _2 events; doc_id `sf-20210120-0210`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-sentral-vergemålsmyndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-sentral-vergemålsmyndighet — Change history
 
 _1 events; doc_id `sf-20110204-0128`._

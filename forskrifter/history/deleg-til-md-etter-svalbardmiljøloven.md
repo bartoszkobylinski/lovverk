@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-md-etter-svalbardmiljøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-md-etter-svalbardmiljøloven — Change history
 
 _1 events; doc_id `sf-20120420-0333`._

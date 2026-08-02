@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-luftfartstils-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-luftfartstils-etter-luftfartsloven — Change history
 
 _1 events; doc_id `sf-20020212-0161`._

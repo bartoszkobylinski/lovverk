@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-krav-til-beredskapsplanlegging-og-beredskapsarbeid-mv-etter-lov-om-helsemessig-og-sosial-beredskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-krav-til-beredskapsplanlegging-og-beredskapsarbeid-mv-etter-lov-om-helsemessig-og-sosial-beredskap — Change history
 
 _2 events; doc_id `sf-20240430-0722`._

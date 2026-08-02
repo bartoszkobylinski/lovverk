@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-matloven-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-matloven-svalbard — Change history
 
 _2 events; doc_id `sf-19780601-3389`._

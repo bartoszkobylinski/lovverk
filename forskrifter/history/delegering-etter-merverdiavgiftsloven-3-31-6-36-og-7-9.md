@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-merverdiavgiftsloven-3-31-6-36-og-7-9"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-merverdiavgiftsloven-3-31-6-36-og-7-9 — Change history
 
 _1 events; doc_id `sf-20170126-0076`._

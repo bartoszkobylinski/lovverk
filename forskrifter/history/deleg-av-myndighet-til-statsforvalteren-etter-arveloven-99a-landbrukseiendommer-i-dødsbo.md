@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-statsforvalteren-etter-arveloven-99a-landbrukseiendommer-i-dødsbo"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-statsforvalteren-etter-arveloven-99a-landbrukseiendommer-i-dødsbo — Change history
 
 _1 events; doc_id `sf-20211210-3463`._

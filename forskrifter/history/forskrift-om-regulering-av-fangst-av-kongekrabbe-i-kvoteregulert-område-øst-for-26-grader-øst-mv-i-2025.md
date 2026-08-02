@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fangst-av-kongekrabbe-i-kvoteregulert-område-øst-for-26-grader-øst-mv-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fangst-av-kongekrabbe-i-kvoteregulert-område-øst-for-26-grader-øst-mv-i-2025 — Change history
 
 _2 events; doc_id `sf-20241217-3184`._

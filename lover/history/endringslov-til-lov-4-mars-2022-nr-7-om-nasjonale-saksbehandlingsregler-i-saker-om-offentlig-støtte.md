@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-lov-4-mars-2022-nr-7-om-nasjonale-saksbehandlingsregler-i-saker-om-offentlig-støtte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-lov-4-mars-2022-nr-7-om-nasjonale-saksbehandlingsregler-i-saker-om-offentlig-støtte — Change history
 
 _2 events; doc_id `nl-20260623-076`._

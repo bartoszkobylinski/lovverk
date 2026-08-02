@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-sentralbanklov-og-finansvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-sentralbanklov-og-finansvl — Change history
 
 _1 events; doc_id `sf-20030620-0730`._

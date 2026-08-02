@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-departementene-mht-styrer-råd-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-departementene-mht-styrer-råd-mv — Change history
 
 _1 events; doc_id `sf-20000128-0067`._

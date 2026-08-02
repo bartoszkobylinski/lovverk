@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-2010-33"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-2010-33 — Change history
 
 _2 events; doc_id `sf-20100701-1048`._

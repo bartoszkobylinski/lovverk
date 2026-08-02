@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-eksportutvalget-for-fisk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-eksportutvalget-for-fisk — Change history
 
 _1 events; doc_id `sf-20100310-0362`._

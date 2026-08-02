@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-det-nasjonale-jernbanenettet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-det-nasjonale-jernbanenettet — Change history
 
 _1 events; doc_id `sf-20000512-0434`._

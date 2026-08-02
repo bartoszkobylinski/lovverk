@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-pensjonsordning-for-sivilombudsmannen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-pensjonsordning-for-sivilombudsmannen — Change history
 
 _2 events; doc_id `nl-19660506-000`._

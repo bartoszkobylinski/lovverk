@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-miljøavgift-for-svalbardturister"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-miljøavgift-for-svalbardturister — Change history
 
 _2 events; doc_id `sf-20061222-1532`._

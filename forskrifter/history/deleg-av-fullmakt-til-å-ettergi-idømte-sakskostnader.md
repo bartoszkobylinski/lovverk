@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-fullmakt-til-å-ettergi-idømte-sakskostnader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-fullmakt-til-å-ettergi-idømte-sakskostnader — Change history
 
 _1 events; doc_id `sf-20140624-0819`._

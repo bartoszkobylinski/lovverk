@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-straffesaker-ved-frontex-operasjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-straffesaker-ved-frontex-operasjoner — Change history
 
 _2 events; doc_id `sf-20150605-0582`._

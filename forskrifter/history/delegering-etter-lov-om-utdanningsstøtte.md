@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-om-utdanningsstøtte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-om-utdanningsstøtte — Change history
 
 _1 events; doc_id `sf-19990305-0241`._

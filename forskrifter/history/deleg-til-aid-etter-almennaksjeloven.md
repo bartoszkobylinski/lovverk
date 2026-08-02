@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-aid-etter-almennaksjeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-aid-etter-almennaksjeloven — Change history
 
 _1 events; doc_id `sf-20071221-1578`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-markedsføring-av-kosmetiske-inngrep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-markedsføring-av-kosmetiske-inngrep — Change history
 
 _2 events; doc_id `sf-20050701-0749`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-unntak-fra-kravet-til-vareførsel-på-vei-med-åpent-tollsted"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-unntak-fra-kravet-til-vareførsel-på-vei-med-åpent-tollsted — Change history
 
 _2 events; doc_id `sf-20251006-1999`._

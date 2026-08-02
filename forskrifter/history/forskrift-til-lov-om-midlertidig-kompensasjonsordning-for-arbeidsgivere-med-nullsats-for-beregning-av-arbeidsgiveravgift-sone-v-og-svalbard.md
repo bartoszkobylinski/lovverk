@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-lov-om-midlertidig-kompensasjonsordning-for-arbeidsgivere-med-nullsats-for-beregning-av-arbeidsgiveravgift-sone-v-og-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-lov-om-midlertidig-kompensasjonsordning-for-arbeidsgivere-med-nullsats-for-beregning-av-arbeidsgiveravgift-sone-v-og-svalbard — Change history
 
 _2 events; doc_id `sf-20200630-1453`._

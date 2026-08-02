@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-lov-om-tillegg-til-merverdiavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-lov-om-tillegg-til-merverdiavgiftsloven — Change history
 
 _2 events; doc_id `nl-20171219-126`._

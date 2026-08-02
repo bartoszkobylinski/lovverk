@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nfd-etter-esignaturloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nfd-etter-esignaturloven — Change history
 
 _1 events; doc_id `sf-20140815-1079`._

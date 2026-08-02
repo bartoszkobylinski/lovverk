@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utlevering-av-frikort-og-refusjon-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utlevering-av-frikort-og-refusjon-mv — Change history
 
 _2 events; doc_id `sf-20091218-1690`._

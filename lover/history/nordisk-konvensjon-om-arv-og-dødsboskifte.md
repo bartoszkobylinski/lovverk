@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "nordisk-konvensjon-om-arv-og-dødsboskifte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # nordisk-konvensjon-om-arv-og-dødsboskifte — Change history
 
 _2 events; doc_id `nl-19341119-000`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-budsjett-og-regnskapsforskriften-for-kommuner-og-fylkeskommuner-mv-og-selvkostforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-budsjett-og-regnskapsforskriften-for-kommuner-og-fylkeskommuner-mv-og-selvkostforskriften — Change history
 
 _2 events; doc_id `sf-20250912-1858`._

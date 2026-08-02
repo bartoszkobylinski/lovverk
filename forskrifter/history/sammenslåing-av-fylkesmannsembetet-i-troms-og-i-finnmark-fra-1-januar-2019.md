@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-fylkesmannsembetet-i-troms-og-i-finnmark-fra-1-januar-2019"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-fylkesmannsembetet-i-troms-og-i-finnmark-fra-1-januar-2019 — Change history
 
 _1 events; doc_id `sf-20170616-0755`._

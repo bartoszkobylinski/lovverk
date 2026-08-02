@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-til-gjennomføring-av-haag-konvensjonen-2-juni-1978-om-anerkjennelse-og-fullbyrding-av-avgjørelser-om-underholdsbidrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-til-gjennomføring-av-haag-konvensjonen-2-juni-1978-om-anerkjennelse-og-fullbyrding-av-avgjørelser-om-underholdsbidrag — Change history
 
 _2 events; doc_id `sf-20250911-1816`._

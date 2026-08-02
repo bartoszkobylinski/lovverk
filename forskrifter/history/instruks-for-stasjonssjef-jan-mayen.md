@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-stasjonssjef-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-stasjonssjef-jan-mayen — Change history
 
 _1 events; doc_id `sf-19620601-3341`._

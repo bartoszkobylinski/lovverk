@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delt-ikrafts-av-lov-2019-48-endr-i-straffeloven-og-straffeprosessloven-mv-skyldevne-samfunnsvern-og-sakkyndighet-overgangsbestemmelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delt-ikrafts-av-lov-2019-48-endr-i-straffeloven-og-straffeprosessloven-mv-skyldevne-samfunnsvern-og-sakkyndighet-overgangsbestemmelser — Change history
 
 _1 events; doc_id `sf-20200921-1788`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rundskriv-om-blanketter-for-dødsmeldinger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rundskriv-om-blanketter-for-dødsmeldinger — Change history
 
 _1 events; doc_id `sf-19841210-3584`._

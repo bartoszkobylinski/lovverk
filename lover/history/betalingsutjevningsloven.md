@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "betalingsutjevningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # betalingsutjevningsloven — Change history
 
 _2 events; doc_id `nl-19350531-002`._

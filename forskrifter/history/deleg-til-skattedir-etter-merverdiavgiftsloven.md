@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattedir-etter-merverdiavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattedir-etter-merverdiavgiftsloven — Change history
 
 _1 events; doc_id `sf-20091215-1523`._

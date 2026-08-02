@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rekefiske-eu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rekefiske-eu — Change history
 
 _2 events; doc_id `sf-19960719-0733`._

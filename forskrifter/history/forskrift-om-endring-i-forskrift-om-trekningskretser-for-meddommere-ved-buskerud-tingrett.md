@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett — Change history
 
 _2 events; doc_id `sf-20260428-0690`._

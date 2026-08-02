@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026 — Change history
 
 _6 events; doc_id `sf-20250627-1361`._

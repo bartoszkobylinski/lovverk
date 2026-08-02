@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-jd-etter-strpl-239"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-jd-etter-strpl-239 — Change history
 
 _1 events; doc_id `sf-20150904-1031`._

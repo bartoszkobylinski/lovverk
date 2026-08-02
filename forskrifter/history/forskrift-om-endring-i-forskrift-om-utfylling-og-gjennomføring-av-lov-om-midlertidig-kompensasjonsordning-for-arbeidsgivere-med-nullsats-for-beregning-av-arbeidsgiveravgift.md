@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-utfylling-og-gjennomføring-av-lov-om-midlertidig-kompensasjonsordning-for-arbeidsgivere-med-nullsats-for-beregning-av-arbeidsgiveravgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-utfylling-og-gjennomføring-av-lov-om-midlertidig-kompensasjonsordning-for-arbeidsgivere-med-nullsats-for-beregning-av-arbeidsgiveravgift — Change history
 
 _2 events; doc_id `sf-20250613-1005`._

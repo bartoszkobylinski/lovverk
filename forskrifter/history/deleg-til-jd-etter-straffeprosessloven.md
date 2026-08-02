@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-straffeprosessloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-straffeprosessloven — Change history
 
 _1 events; doc_id `sf-20041217-1668`._

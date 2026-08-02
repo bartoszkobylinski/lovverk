@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskriftskompetansen-etter-lov-18-desember-2020-nr-146-om-finansavtaler-7-2-tredje-ledd-overføres-fra-justis-og-beredskapsdepartementet-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskriftskompetansen-etter-lov-18-desember-2020-nr-146-om-finansavtaler-7-2-tredje-ledd-overføres-fra-justis-og-beredskapsdepartementet-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-20241011-2459`._

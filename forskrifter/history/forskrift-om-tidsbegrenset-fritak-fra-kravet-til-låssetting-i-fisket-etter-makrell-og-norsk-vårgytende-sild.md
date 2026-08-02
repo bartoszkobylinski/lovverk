@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tidsbegrenset-fritak-fra-kravet-til-låssetting-i-fisket-etter-makrell-og-norsk-vårgytende-sild"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tidsbegrenset-fritak-fra-kravet-til-låssetting-i-fisket-etter-makrell-og-norsk-vårgytende-sild — Change history
 
 _2 events; doc_id `sf-20250924-1920`._

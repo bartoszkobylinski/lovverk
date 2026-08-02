@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-27-mai-2016-nr-15-om-endringer-i-forvaltningsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-27-mai-2016-nr-15-om-endringer-i-forvaltningsloven-mv — Change history
 
 _1 events; doc_id `sf-20170609-0713`._

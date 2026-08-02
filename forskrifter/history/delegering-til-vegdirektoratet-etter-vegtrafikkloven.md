@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-vegdirektoratet-etter-vegtrafikkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-vegdirektoratet-etter-vegtrafikkloven — Change history
 
 _1 events; doc_id `sf-19860321-0750`._

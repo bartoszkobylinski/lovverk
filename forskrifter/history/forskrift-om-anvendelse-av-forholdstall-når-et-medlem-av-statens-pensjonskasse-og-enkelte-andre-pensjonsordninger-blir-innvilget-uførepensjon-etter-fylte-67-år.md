@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anvendelse-av-forholdstall-når-et-medlem-av-statens-pensjonskasse-og-enkelte-andre-pensjonsordninger-blir-innvilget-uførepensjon-etter-fylte-67-år"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anvendelse-av-forholdstall-når-et-medlem-av-statens-pensjonskasse-og-enkelte-andre-pensjonsordninger-blir-innvilget-uførepensjon-etter-fylte-67-år — Change history
 
 _2 events; doc_id `sf-20111020-1039`._

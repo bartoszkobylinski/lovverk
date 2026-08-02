@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-folketrygdloven-ny-alderspensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-folketrygdloven-ny-alderspensjon — Change history
 
 _2 events; doc_id `nl-20090605-032`._

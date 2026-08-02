@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-anvendelse-av-lov-15-desember-1950-nr-7-om-særlige-rådgjerder-under-krig-krigsfare-og-liknende-forhold-for-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-anvendelse-av-lov-15-desember-1950-nr-7-om-særlige-rådgjerder-under-krig-krigsfare-og-liknende-forhold-for-svalbard — Change history
 
 _2 events; doc_id `sf-20231201-1943`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-havne-og-farvannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-havne-og-farvannsloven — Change history
 
 _2 events; doc_id `sf-19890512-0302`._

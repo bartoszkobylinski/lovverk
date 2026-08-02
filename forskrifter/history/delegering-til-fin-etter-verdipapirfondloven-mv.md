@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-verdipapirfondloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-verdipapirfondloven-mv — Change history
 
 _1 events; doc_id `sf-20000616-0578`._

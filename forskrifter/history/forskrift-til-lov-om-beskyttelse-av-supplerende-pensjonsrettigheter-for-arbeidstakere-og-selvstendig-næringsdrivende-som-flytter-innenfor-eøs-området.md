@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-lov-om-beskyttelse-av-supplerende-pensjonsrettigheter-for-arbeidstakere-og-selvstendig-næringsdrivende-som-flytter-innenfor-eøs-området"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-lov-om-beskyttelse-av-supplerende-pensjonsrettigheter-for-arbeidstakere-og-selvstendig-næringsdrivende-som-flytter-innenfor-eøs-området — Change history
 
 _2 events; doc_id `sf-20230628-1157`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-forvaltningsloven-13d-til-husbanken"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-forvaltningsloven-13d-til-husbanken — Change history
 
 _1 events; doc_id `sf-20181128-1770`._

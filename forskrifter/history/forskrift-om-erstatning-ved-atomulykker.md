@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-erstatning-ved-atomulykker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-erstatning-ved-atomulykker — Change history
 
 _2 events; doc_id `sf-20011214-1498`._

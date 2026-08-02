@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-finansdep-lov-om-eøs-finanstilsyn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-finansdep-lov-om-eøs-finanstilsyn — Change history
 
 _1 events; doc_id `sf-20160617-0714`._

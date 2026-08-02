@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-om-klageorganer-for-forbrukersaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-om-klageorganer-for-forbrukersaker — Change history
 
 _2 events; doc_id `sf-20160620-0735`._

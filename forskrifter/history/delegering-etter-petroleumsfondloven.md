@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-petroleumsfondloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-petroleumsfondloven — Change history
 
 _1 events; doc_id `sf-19901221-1018`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-forbud-mot-at-redere-gir-opplysninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-forbud-mot-at-redere-gir-opplysninger — Change history
 
 _2 events; doc_id `nl-19670616-003`._

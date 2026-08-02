@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lmd-etter-reindriftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lmd-etter-reindriftsloven — Change history
 
 _1 events; doc_id `sf-20070615-0628`._

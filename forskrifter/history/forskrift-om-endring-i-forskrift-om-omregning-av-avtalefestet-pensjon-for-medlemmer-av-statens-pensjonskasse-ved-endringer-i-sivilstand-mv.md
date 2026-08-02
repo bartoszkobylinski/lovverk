@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-omregning-av-avtalefestet-pensjon-for-medlemmer-av-statens-pensjonskasse-ved-endringer-i-sivilstand-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-omregning-av-avtalefestet-pensjon-for-medlemmer-av-statens-pensjonskasse-ved-endringer-i-sivilstand-mv — Change history
 
 _2 events; doc_id `sf-20241108-2702`._

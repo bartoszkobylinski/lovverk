@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-godtgjøring-for-politireserven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-godtgjøring-for-politireserven — Change history
 
 _1 events; doc_id `sf-19530626-0005`._

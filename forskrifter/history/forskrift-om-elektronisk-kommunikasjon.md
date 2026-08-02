@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-elektronisk-kommunikasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-elektronisk-kommunikasjon — Change history
 
 _2 events; doc_id `sf-20100625-0977`._

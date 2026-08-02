@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-endringslov-2003-44"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-endringslov-2003-44 — Change history
 
 _1 events; doc_id `sf-20030620-0729`._

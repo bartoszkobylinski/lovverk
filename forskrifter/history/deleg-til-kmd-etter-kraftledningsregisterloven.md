@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kmd-etter-kraftledningsregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kmd-etter-kraftledningsregisterloven — Change history
 
 _1 events; doc_id `sf-20131213-1475`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-22-mai-1981-nr-25-om-rettergangsmåten-i-straffesaker-146-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-22-mai-1981-nr-25-om-rettergangsmåten-i-straffesaker-146-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20220902-1530`._

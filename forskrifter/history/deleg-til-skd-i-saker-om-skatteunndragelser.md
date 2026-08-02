@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skd-i-saker-om-skatteunndragelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skd-i-saker-om-skatteunndragelser — Change history
 
 _1 events; doc_id `sf-20090902-1144`._

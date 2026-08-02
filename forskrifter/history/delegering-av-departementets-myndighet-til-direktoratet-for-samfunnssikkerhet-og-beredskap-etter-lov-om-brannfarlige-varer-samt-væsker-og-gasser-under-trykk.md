@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-departementets-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-lov-om-brannfarlige-varer-samt-væsker-og-gasser-under-trykk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-departementets-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-lov-om-brannfarlige-varer-samt-væsker-og-gasser-under-trykk — Change history
 
 _1 events; doc_id `sf-20240522-0806`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fangstforbud-av-ross-sel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fangstforbud-av-ross-sel — Change history
 
 _2 events; doc_id `sf-19680705-0001`._

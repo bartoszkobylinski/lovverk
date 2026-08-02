@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lovpålagte-forsikringer-mv-som-er-tegnet-i-britiske-foretak-og-adgangen-til-å-yte-forsikringstjenester-mv-etter-utløpet-av-overgangsperioden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lovpålagte-forsikringer-mv-som-er-tegnet-i-britiske-foretak-og-adgangen-til-å-yte-forsikringstjenester-mv-etter-utløpet-av-overgangsperioden — Change history
 
 _2 events; doc_id `sf-20201218-2858`._

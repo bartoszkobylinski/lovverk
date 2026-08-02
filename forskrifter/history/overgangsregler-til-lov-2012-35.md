@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-2012-35"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-2012-35 — Change history
 
 _2 events; doc_id `sf-20120622-0568`._

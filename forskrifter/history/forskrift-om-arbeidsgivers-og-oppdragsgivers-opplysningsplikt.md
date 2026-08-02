@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsgivers-og-oppdragsgivers-opplysningsplikt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsgivers-og-oppdragsgivers-opplysningsplikt — Change history
 
 _2 events; doc_id `sf-20140710-0969`._

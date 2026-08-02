@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-politimyndighet-russisk-grense"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-politimyndighet-russisk-grense — Change history
 
 _1 events; doc_id `sf-20050805-0851`._

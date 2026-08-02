@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dir-for-brann-og-elsikkerhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dir-for-brann-og-elsikkerhet — Change history
 
 _1 events; doc_id `sf-20020523-0770`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-passloven-1-2-8-og-12-og-id-kortloven-3-6-9-og-14-til-jd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-passloven-1-2-8-og-12-og-id-kortloven-3-6-9-og-14-til-jd — Change history
 
 _1 events; doc_id `sf-20201009-2009`._

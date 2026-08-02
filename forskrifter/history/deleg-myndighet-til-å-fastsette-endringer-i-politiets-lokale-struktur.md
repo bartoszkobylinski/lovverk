@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-å-fastsette-endringer-i-politiets-lokale-struktur"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-å-fastsette-endringer-i-politiets-lokale-struktur — Change history
 
 _1 events; doc_id `sf-20160218-1905`._

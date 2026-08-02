@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-skd-etter-fsfin"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-skd-etter-fsfin — Change history
 
 _1 events; doc_id `sf-20060210-0130`._

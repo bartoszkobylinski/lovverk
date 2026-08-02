@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-undersjøiske-kabler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-undersjøiske-kabler — Change history
 
 _2 events; doc_id `nl-18840614-003`._

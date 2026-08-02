@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-jordlova-11-til-statsforvalteren"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-jordlova-11-til-statsforvalteren — Change history
 
 _1 events; doc_id `sf-20201221-3048`._

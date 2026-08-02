@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-av-rettskriving-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-av-rettskriving-m-v — Change history
 
 _2 events; doc_id `sf-19820216-0382`._

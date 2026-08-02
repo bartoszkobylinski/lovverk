@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-pod-sis-lov-og-sis-forskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-pod-sis-lov-og-sis-forskrift — Change history
 
 _1 events; doc_id `sf-20051221-1765`._

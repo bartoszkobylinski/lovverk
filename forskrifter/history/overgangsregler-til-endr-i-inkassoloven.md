@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-endr-i-inkassoloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-endr-i-inkassoloven — Change history
 
 _2 events; doc_id `sf-20011221-1508`._

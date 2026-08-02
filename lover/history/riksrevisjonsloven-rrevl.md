@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "riksrevisjonsloven-rrevl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # riksrevisjonsloven-rrevl — Change history
 
 _2 events; doc_id `nl-20040507-021`._

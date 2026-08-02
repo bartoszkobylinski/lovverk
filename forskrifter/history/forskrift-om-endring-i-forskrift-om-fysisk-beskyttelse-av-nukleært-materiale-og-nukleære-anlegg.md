@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fysisk-beskyttelse-av-nukleært-materiale-og-nukleære-anlegg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fysisk-beskyttelse-av-nukleært-materiale-og-nukleære-anlegg — Change history
 
 _2 events; doc_id `sf-20251121-2307`._

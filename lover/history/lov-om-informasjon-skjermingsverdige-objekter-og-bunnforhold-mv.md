@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-informasjon-skjermingsverdige-objekter-og-bunnforhold-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-informasjon-skjermingsverdige-objekter-og-bunnforhold-mv — Change history
 
 _2 events; doc_id `nl-20170621-088`._

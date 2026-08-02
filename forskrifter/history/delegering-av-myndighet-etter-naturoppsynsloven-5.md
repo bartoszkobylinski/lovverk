@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-naturoppsynsloven-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-naturoppsynsloven-5 — Change history
 
 _1 events; doc_id `sf-20171018-2560`._

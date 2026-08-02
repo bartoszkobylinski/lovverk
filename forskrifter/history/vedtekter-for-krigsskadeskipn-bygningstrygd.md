@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-krigsskadeskipn-bygningstrygd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-krigsskadeskipn-bygningstrygd — Change history
 
 _1 events; doc_id `sf-19561109-0006`._

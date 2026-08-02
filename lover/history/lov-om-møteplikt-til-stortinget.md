@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-møteplikt-til-stortinget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-møteplikt-til-stortinget — Change history
 
 _2 events; doc_id `nl-18970803-002`._

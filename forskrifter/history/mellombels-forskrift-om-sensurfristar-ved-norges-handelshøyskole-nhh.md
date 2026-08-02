@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mellombels-forskrift-om-sensurfristar-ved-norges-handelshøyskole-nhh"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mellombels-forskrift-om-sensurfristar-ved-norges-handelshøyskole-nhh — Change history
 
 _2 events; doc_id `sf-20211216-3961`._

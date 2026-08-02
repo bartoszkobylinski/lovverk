@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-barnebortføringsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-barnebortføringsloven-delegering — Change history
 
 _1 events; doc_id `sf-19890217-0093`._

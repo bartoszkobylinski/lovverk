@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vinmonopolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vinmonopolloven — Change history
 
 _2 events; doc_id `nl-19310619-018`._

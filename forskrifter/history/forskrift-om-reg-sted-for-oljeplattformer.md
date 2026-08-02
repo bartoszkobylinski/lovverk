@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-reg-sted-for-oljeplattformer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-reg-sted-for-oljeplattformer — Change history
 
 _2 events; doc_id `sf-19850607-1016`._

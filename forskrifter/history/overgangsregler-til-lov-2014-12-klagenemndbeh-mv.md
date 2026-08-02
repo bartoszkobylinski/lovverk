@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-2014-12-klagenemndbeh-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-2014-12-klagenemndbeh-mv — Change history
 
 _2 events; doc_id `sf-20140506-0608`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tvangsmulkt-etter-otp-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tvangsmulkt-etter-otp-loven — Change history
 
 _2 events; doc_id `sf-20210624-2196`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "era-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # era-forskriften — Change history
 
 _2 events; doc_id `sf-20051216-1491`._

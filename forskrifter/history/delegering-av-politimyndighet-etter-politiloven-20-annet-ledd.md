@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-politimyndighet-etter-politiloven-20-annet-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-politimyndighet-etter-politiloven-20-annet-ledd — Change history
 
 _1 events; doc_id `sf-20240603-0936`._

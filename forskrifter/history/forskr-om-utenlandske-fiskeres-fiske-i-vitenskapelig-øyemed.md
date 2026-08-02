@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-utenlandske-fiskeres-fiske-i-vitenskapelig-øyemed"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-utenlandske-fiskeres-fiske-i-vitenskapelig-øyemed — Change history
 
 _2 events; doc_id `sf-19710625-0009`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rente-på-statens-grunnkjøpsobl-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rente-på-statens-grunnkjøpsobl-2 — Change history
 
 _2 events; doc_id `sf-19800111-8567`._

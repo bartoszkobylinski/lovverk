@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-prisutjevningsbeløp-på-kraftfor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-prisutjevningsbeløp-på-kraftfor — Change history
 
 _2 events; doc_id `sf-20081219-1492`._

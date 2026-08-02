@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-utlendingsforskriften-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-utlendingsforskriften-4 — Change history
 
 _2 events; doc_id `sf-20260227-0309`._

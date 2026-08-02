@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-politiattest-i-barnehager"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-politiattest-i-barnehager — Change history
 
 _2 events; doc_id `sf-20151111-1285`._

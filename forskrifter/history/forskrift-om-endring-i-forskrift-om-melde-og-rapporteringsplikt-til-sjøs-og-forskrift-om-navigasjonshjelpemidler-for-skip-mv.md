@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-melde-og-rapporteringsplikt-til-sjøs-og-forskrift-om-navigasjonshjelpemidler-for-skip-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-melde-og-rapporteringsplikt-til-sjøs-og-forskrift-om-navigasjonshjelpemidler-for-skip-mv — Change history
 
 _2 events; doc_id `sf-20251217-2671`._

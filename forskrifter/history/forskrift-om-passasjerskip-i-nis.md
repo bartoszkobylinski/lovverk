@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-passasjerskip-i-nis"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-passasjerskip-i-nis — Change history
 
 _2 events; doc_id `sf-20210628-2257`._

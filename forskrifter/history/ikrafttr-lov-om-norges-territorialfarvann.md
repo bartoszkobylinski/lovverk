@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-lov-om-norges-territorialfarvann"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-lov-om-norges-territorialfarvann — Change history
 
 _1 events; doc_id `sf-20030627-0798`._

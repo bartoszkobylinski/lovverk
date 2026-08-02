@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tvisteløsningsnemnd-etter-aml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tvisteløsningsnemnd-etter-aml — Change history
 
 _2 events; doc_id `sf-20051216-1569`._

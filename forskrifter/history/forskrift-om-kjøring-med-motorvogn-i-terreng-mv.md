@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kjøring-med-motorvogn-i-terreng-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kjøring-med-motorvogn-i-terreng-mv — Change history
 
 _2 events; doc_id `sf-20011214-1412`._

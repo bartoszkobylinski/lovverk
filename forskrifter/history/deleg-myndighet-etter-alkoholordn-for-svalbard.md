@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-etter-alkoholordn-for-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-etter-alkoholordn-for-svalbard — Change history
 
 _1 events; doc_id `sf-20011212-1406`._

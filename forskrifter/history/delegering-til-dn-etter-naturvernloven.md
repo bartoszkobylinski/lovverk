@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-dn-etter-naturvernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-dn-etter-naturvernloven — Change history
 
 _1 events; doc_id `sf-19881020-4323`._

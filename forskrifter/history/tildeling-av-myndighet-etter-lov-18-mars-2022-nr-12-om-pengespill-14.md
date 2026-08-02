@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tildeling-av-myndighet-etter-lov-18-mars-2022-nr-12-om-pengespill-14"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tildeling-av-myndighet-etter-lov-18-mars-2022-nr-12-om-pengespill-14 — Change history
 
 _1 events; doc_id `sf-20221216-2278`._

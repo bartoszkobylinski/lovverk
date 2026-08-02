@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-å-fjerne-horn-på-dyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-å-fjerne-horn-på-dyr — Change history
 
 _2 events; doc_id `sf-19761120-0001`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-nfd-etter-sjøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-nfd-etter-sjøloven — Change history
 
 _1 events; doc_id `sf-20080215-0156`._

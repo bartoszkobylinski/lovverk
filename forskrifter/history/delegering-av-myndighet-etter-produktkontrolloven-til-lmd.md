@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-produktkontrolloven-til-lmd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-produktkontrolloven-til-lmd — Change history
 
 _1 events; doc_id `sf-20160617-0723`._

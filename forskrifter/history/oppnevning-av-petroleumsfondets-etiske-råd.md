@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "oppnevning-av-petroleumsfondets-etiske-råd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # oppnevning-av-petroleumsfondets-etiske-råd — Change history
 
 _1 events; doc_id `sf-20041119-4997`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rentesats-ved-etterbetaling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rentesats-ved-etterbetaling — Change history
 
 _2 events; doc_id `sf-20091214-1513`._

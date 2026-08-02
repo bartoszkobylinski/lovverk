@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-asd-etter-alkoholloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-asd-etter-alkoholloven-mv — Change history
 
 _1 events; doc_id `sf-20050617-0600`._

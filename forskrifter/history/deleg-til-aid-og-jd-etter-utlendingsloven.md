@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-aid-og-jd-etter-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-aid-og-jd-etter-utlendingsloven — Change history
 
 _1 events; doc_id `sf-20060630-0761`._

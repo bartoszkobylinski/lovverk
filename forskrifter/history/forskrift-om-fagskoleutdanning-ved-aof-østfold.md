@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fagskoleutdanning-ved-aof-østfold"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fagskoleutdanning-ved-aof-østfold — Change history
 
 _2 events; doc_id `sf-20231024-1932`._

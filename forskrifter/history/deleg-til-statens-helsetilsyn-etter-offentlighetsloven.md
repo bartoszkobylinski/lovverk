@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-statens-helsetilsyn-etter-offentlighetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-statens-helsetilsyn-etter-offentlighetsloven — Change history
 
 _1 events; doc_id `sf-20131107-1297`._

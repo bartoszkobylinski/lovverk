@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-av-myndighet-etter-sjøloven-kap-18"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-av-myndighet-etter-sjøloven-kap-18 — Change history
 
 _1 events; doc_id `sf-20080111-0002`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-tolloven-9-5-første-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-tolloven-9-5-første-ledd — Change history
 
 _1 events; doc_id `sf-20151222-1835`._

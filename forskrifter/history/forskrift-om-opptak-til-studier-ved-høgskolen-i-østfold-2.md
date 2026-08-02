@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-til-studier-ved-høgskolen-i-østfold-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-til-studier-ved-høgskolen-i-østfold-2 — Change history
 
 _2 events; doc_id `sf-20251215-2610`._

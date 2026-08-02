@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-mynde-etter-genteknologilova-til-kld"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-mynde-etter-genteknologilova-til-kld — Change history
 
 _1 events; doc_id `sf-20201023-2125`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-tad-etter-straffeprosessloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-tad-etter-straffeprosessloven — Change history
 
 _1 events; doc_id `sf-20100430-0619`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-våpenforskrifta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-våpenforskrifta — Change history
 
 _2 events; doc_id `sf-20251024-2081`._

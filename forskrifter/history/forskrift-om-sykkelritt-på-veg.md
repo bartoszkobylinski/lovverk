@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sykkelritt-på-veg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sykkelritt-på-veg — Change history
 
 _2 events; doc_id `sf-20160617-0699`._

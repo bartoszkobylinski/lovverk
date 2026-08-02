@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattedir-etter-tvisteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattedir-etter-tvisteloven — Change history
 
 _1 events; doc_id `sf-20100430-0620`._

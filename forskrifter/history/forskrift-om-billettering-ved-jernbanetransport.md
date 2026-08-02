@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-billettering-ved-jernbanetransport"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-billettering-ved-jernbanetransport — Change history
 
 _2 events; doc_id `sf-20171220-2333`._

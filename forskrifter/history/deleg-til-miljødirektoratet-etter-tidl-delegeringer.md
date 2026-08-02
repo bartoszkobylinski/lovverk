@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-miljødirektoratet-etter-tidl-delegeringer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-miljødirektoratet-etter-tidl-delegeringer — Change history
 
 _1 events; doc_id `sf-20130315-0283`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-avhendingslova-3-10-første-ledd-nytt-tredje-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-avhendingslova-3-10-første-ledd-nytt-tredje-punktum — Change history
 
 _1 events; doc_id `sf-20210604-1766`._

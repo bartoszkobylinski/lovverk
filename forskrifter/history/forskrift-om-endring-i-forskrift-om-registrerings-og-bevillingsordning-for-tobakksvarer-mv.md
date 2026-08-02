@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-registrerings-og-bevillingsordning-for-tobakksvarer-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-registrerings-og-bevillingsordning-for-tobakksvarer-mv — Change history
 
 _2 events; doc_id `sf-20251128-2360`._

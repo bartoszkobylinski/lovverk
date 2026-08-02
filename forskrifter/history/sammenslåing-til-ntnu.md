@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-til-ntnu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-til-ntnu — Change history
 
 _1 events; doc_id `sf-20150619-0695`._

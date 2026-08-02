@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kompetanse-til-å-fastsette-emsa-forskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kompetanse-til-å-fastsette-emsa-forskrift — Change history
 
 _1 events; doc_id `sf-20110218-0156`._

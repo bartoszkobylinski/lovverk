@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-lov-2007-30"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-lov-2007-30 — Change history
 
 _1 events; doc_id `sf-20070615-0647`._

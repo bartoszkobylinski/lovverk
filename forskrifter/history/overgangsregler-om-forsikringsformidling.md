@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-om-forsikringsformidling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-om-forsikringsformidling — Change history
 
 _2 events; doc_id `sf-20211222-3873`._

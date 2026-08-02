@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sommertid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sommertid — Change history
 
 _2 events; doc_id `sf-20071214-1420`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rammeplan-for-skolefritidsordningen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rammeplan-for-skolefritidsordningen — Change history
 
 _2 events; doc_id `sf-20210531-1825`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ela-lova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ela-lova — Change history
 
 _2 events; doc_id `nl-20250410-008`._

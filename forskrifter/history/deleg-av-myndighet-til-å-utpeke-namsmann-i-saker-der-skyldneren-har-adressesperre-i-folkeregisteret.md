@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-å-utpeke-namsmann-i-saker-der-skyldneren-har-adressesperre-i-folkeregisteret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-å-utpeke-namsmann-i-saker-der-skyldneren-har-adressesperre-i-folkeregisteret — Change history
 
 _1 events; doc_id `sf-20190923-1223`._

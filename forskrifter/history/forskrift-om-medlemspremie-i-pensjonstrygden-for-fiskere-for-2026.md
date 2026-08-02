@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-medlemspremie-i-pensjonstrygden-for-fiskere-for-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-medlemspremie-i-pensjonstrygden-for-fiskere-for-2026 — Change history
 
 _2 events; doc_id `sf-20251128-2354`._

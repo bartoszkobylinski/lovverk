@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-prisnedskrivning-av-frukt-og-grønnsaker-i-grunnskolen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-prisnedskrivning-av-frukt-og-grønnsaker-i-grunnskolen — Change history
 
 _2 events; doc_id `sf-20040401-0623`._

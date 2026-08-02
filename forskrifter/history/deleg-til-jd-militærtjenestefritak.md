@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-militærtjenestefritak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-militærtjenestefritak — Change history
 
 _1 events; doc_id `sf-20060616-0628`._

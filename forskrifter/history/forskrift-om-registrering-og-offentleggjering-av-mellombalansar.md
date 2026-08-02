@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-registrering-og-offentleggjering-av-mellombalansar"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-registrering-og-offentleggjering-av-mellombalansar — Change history
 
 _2 events; doc_id `sf-20201024-2199`._

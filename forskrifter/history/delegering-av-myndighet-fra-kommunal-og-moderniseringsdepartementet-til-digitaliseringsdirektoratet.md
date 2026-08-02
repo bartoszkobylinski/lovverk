@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-fra-kommunal-og-moderniseringsdepartementet-til-digitaliseringsdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-fra-kommunal-og-moderniseringsdepartementet-til-digitaliseringsdirektoratet — Change history
 
 _1 events; doc_id `sf-20210205-0494`._

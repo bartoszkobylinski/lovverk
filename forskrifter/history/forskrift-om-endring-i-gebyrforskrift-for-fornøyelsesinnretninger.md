@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-gebyrforskrift-for-fornøyelsesinnretninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-gebyrforskrift-for-fornøyelsesinnretninger — Change history
 
 _2 events; doc_id `sf-20251111-2266`._

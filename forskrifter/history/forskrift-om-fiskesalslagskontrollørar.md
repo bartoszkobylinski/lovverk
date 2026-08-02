@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiskesalslagskontrollørar"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiskesalslagskontrollørar — Change history
 
 _2 events; doc_id `sf-20131220-1647`._

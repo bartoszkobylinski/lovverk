@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utpeking-av-kystverket-som-klageinstans-etter-lov-21-juni-2019-nr-70-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utpeking-av-kystverket-som-klageinstans-etter-lov-21-juni-2019-nr-70-4 — Change history
 
 _2 events; doc_id `sf-20210421-1227`._

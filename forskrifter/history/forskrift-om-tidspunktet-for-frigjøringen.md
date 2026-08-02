@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tidspunktet-for-frigjøringen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tidspunktet-for-frigjøringen — Change history
 
 _2 events; doc_id `sf-19451012-0001`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-25-juni-2024-nr-53-om-endringer-i-barnetrygdloven-og-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-xiii-nr-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-25-juni-2024-nr-53-om-endringer-i-barnetrygdloven-og-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-xiii-nr-4 — Change history
 
 _1 events; doc_id `sf-20240625-1218`._

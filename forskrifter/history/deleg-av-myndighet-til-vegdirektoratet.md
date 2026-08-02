@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-vegdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-vegdirektoratet — Change history
 
 _1 events; doc_id `sf-20010706-0821`._

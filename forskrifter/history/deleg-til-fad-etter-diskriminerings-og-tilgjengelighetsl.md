@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fad-etter-diskriminerings-og-tilgjengelighetsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fad-etter-diskriminerings-og-tilgjengelighetsl — Change history
 
 _1 events; doc_id `sf-20130621-0717`._

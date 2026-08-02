@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sfd-etter-skipsarbeidstidsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sfd-etter-skipsarbeidstidsloven — Change history
 
 _1 events; doc_id `sf-20020701-0967`._

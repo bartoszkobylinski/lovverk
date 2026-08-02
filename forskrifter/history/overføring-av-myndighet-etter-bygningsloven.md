@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-etter-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-etter-bygningsloven — Change history
 
 _1 events; doc_id `sf-19900727-0625`._

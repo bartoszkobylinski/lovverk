@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-oljedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-oljedirektoratet — Change history
 
 _1 events; doc_id `sf-19961209-1097`._

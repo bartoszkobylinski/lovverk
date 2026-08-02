@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-kongens-myndighet-etter-lov-2-april-1993-nr-38-om-framstilling-og-bruk-av-genmodifiserte-organismer-m-m-10-første-ledd-fra-helse-og-omsorgsdepartementet-til-klima-og"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-kongens-myndighet-etter-lov-2-april-1993-nr-38-om-framstilling-og-bruk-av-genmodifiserte-organismer-m-m-10-første-ledd-fra-helse-og-omsorgsdepartementet-til-klima-og — Change history
 
 _1 events; doc_id `sf-20250926-1936`._

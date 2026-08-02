@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilsyn-etter-havne-og-farvannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilsyn-etter-havne-og-farvannsloven — Change history
 
 _2 events; doc_id `sf-20210921-2839`._

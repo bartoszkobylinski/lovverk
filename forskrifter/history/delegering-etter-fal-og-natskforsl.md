@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-fal-og-natskforsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-fal-og-natskforsl — Change history
 
 _1 events; doc_id `sf-19891215-1241`._

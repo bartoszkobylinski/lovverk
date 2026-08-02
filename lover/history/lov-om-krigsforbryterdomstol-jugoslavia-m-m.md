@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-krigsforbryterdomstol-jugoslavia-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-krigsforbryterdomstol-jugoslavia-m-m — Change history
 
 _2 events; doc_id `nl-19940624-038`._

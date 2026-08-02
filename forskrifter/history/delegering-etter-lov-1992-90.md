@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-1992-90"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-1992-90 — Change history
 
 _1 events; doc_id `sf-19921218-1078`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-registrering-av-regjeringsmedlemmers-statssekretærers-og-politiske-rådgiveres-verv-og-økonomiske-interesser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-registrering-av-regjeringsmedlemmers-statssekretærers-og-politiske-rådgiveres-verv-og-økonomiske-interesser — Change history
 
 _2 events; doc_id `sf-20121130-1114`._

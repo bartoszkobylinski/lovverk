@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-fiskesykdomsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-fiskesykdomsloven — Change history
 
 _1 events; doc_id `sf-19971224-4280`._

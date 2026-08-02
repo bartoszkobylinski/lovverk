@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-aad-etter-eltilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-aad-etter-eltilsynsloven — Change history
 
 _1 events; doc_id `sf-20030430-0518`._

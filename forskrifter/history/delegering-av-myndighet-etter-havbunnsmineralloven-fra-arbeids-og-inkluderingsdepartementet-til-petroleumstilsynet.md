@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-havbunnsmineralloven-fra-arbeids-og-inkluderingsdepartementet-til-petroleumstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-havbunnsmineralloven-fra-arbeids-og-inkluderingsdepartementet-til-petroleumstilsynet — Change history
 
 _1 events; doc_id `sf-20220404-0525`._

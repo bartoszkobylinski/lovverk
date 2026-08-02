@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-arbeidsmiljøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-arbeidsmiljøloven — Change history
 
 _1 events; doc_id `sf-19791026-0005`._

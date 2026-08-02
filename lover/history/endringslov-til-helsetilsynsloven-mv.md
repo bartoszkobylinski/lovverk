@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-helsetilsynsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-helsetilsynsloven-mv — Change history
 
 _4 events; doc_id `nl-20250620-074`._

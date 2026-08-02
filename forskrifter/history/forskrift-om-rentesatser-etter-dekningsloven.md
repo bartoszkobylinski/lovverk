@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rentesatser-etter-dekningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rentesatser-etter-dekningsloven — Change history
 
 _2 events; doc_id `sf-20030214-0145`._

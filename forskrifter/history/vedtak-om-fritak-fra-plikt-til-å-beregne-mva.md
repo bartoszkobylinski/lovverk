@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-fritak-fra-plikt-til-å-beregne-mva"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-fritak-fra-plikt-til-å-beregne-mva — Change history
 
 _1 events; doc_id `sf-20110317-0314`._

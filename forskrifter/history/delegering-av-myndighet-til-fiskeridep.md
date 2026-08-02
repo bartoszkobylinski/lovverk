@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-fiskeridep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-fiskeridep — Change history
 
 _1 events; doc_id `sf-19880520-0357`._

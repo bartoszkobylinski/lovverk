@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-for-grovf-rbasert-husdyrhold-og-for-grønnsaksarealer-2018"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-for-grovf-rbasert-husdyrhold-og-for-grønnsaksarealer-2018 — Change history
 
 _2 events; doc_id `sf-20181026-1624`._

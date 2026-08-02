@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-kommunalbankloven-mm"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-kommunalbankloven-mm — Change history
 
 _1 events; doc_id `sf-19960906-0849`._

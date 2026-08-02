@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-lysfiske-i-skagerrak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-lysfiske-i-skagerrak — Change history
 
 _2 events; doc_id `sf-20120103-0008`._

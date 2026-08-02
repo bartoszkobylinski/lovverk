@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-eøs-avtalen-i-norsk-rett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eøs-avtalen-i-norsk-rett — Change history
 
 _2 events; doc_id `sf-19921211-1064`._

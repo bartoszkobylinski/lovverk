@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "opprettelse-av-statens-naturoppsyn-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # opprettelse-av-statens-naturoppsyn-delegering — Change history
 
 _1 events; doc_id `sf-19961025-1008`._

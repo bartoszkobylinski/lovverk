@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-plikt-til-å-stille-krav-om-bruk-av-lærlinger-i-offentlige-kontrakter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-plikt-til-å-stille-krav-om-bruk-av-lærlinger-i-offentlige-kontrakter — Change history
 
 _2 events; doc_id `sf-20161217-1708`._

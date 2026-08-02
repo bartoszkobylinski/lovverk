@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsbestemmelser-til-endringslov-til-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsbestemmelser-til-endringslov-til-konkurranseloven — Change history
 
 _2 events; doc_id `sf-20160617-0672`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-hod-etter-lov-om-alkoholvarer-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-hod-etter-lov-om-alkoholvarer-på-svalbard — Change history
 
 _1 events; doc_id `sf-20130621-0746`._

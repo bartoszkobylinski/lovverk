@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-trossamfunnsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-trossamfunnsforskriften — Change history
 
 _2 events; doc_id `sf-20250527-0854`._

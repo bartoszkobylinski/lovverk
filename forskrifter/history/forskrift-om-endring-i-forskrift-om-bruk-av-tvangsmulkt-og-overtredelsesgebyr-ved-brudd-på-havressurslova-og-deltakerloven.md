@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-bruk-av-tvangsmulkt-og-overtredelsesgebyr-ved-brudd-på-havressurslova-og-deltakerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-bruk-av-tvangsmulkt-og-overtredelsesgebyr-ved-brudd-på-havressurslova-og-deltakerloven — Change history
 
 _2 events; doc_id `sf-20250904-1773`._

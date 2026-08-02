@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "foretaksregisterloven-fregl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # foretaksregisterloven-fregl — Change history
 
 _2 events; doc_id `nl-19850621-078`._

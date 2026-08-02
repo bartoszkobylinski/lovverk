@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-til-å-unnlate-innsigelse-mot-foreldelseskrav"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-til-å-unnlate-innsigelse-mot-foreldelseskrav — Change history
 
 _1 events; doc_id `sf-20170303-0287`._

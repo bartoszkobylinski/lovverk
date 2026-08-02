@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-etter-bilansvarslova-17a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-etter-bilansvarslova-17a — Change history
 
 _1 events; doc_id `sf-20171219-2153`._

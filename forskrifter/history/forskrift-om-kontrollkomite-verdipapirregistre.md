@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kontrollkomite-verdipapirregistre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontrollkomite-verdipapirregistre — Change history
 
 _2 events; doc_id `sf-20030131-0086`._

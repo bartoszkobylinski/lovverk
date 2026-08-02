@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-29-mai-1953-nr-3-om-hittegods-3-sjette-ledd-til-politidirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-29-mai-1953-nr-3-om-hittegods-3-sjette-ledd-til-politidirektoratet — Change history
 
 _1 events; doc_id `sf-20230511-0684`._

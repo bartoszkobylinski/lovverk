@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-fra-crr-forordningen-nr-575-2013"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-fra-crr-forordningen-nr-575-2013 — Change history
 
 _2 events; doc_id `sf-20221018-1759`._

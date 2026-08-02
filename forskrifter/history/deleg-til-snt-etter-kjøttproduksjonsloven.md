@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-snt-etter-kjøttproduksjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-snt-etter-kjøttproduksjonsloven — Change history
 
 _1 events; doc_id `sf-19990708-0866`._

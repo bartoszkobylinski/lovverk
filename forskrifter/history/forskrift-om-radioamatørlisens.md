@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-radioamatørlisens"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-radioamatørlisens — Change history
 
 _2 events; doc_id `sf-20091105-1340`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-saltvannsfiskeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-saltvannsfiskeloven — Change history
 
 _1 events; doc_id `sf-19970627-0708`._

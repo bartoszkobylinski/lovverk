@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-billighetserstatning-i-forsvaret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-billighetserstatning-i-forsvaret — Change history
 
 _2 events; doc_id `sf-19930820-0814`._

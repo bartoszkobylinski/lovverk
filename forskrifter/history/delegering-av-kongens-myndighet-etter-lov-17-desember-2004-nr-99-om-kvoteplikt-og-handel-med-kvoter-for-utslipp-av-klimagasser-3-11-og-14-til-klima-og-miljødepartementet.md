@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-17-desember-2004-nr-99-om-kvoteplikt-og-handel-med-kvoter-for-utslipp-av-klimagasser-3-11-og-14-til-klima-og-miljødepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-17-desember-2004-nr-99-om-kvoteplikt-og-handel-med-kvoter-for-utslipp-av-klimagasser-3-11-og-14-til-klima-og-miljødepartementet — Change history
 
 _1 events; doc_id `sf-20250620-1132`._

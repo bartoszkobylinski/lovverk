@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nfd-etter-sjøfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nfd-etter-sjøfartsloven — Change history
 
 _1 events; doc_id `sf-19920730-0591`._

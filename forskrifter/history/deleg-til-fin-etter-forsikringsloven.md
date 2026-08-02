@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-forsikringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-forsikringsloven — Change history
 
 _1 events; doc_id `sf-20060630-0775`._

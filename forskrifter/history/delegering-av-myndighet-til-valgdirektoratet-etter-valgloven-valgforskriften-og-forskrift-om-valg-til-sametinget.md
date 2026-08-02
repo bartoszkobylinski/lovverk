@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-valgdirektoratet-etter-valgloven-valgforskriften-og-forskrift-om-valg-til-sametinget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-valgdirektoratet-etter-valgloven-valgforskriften-og-forskrift-om-valg-til-sametinget — Change history
 
 _1 events; doc_id `sf-20241105-2699`._

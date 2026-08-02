@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-levealdersjustering-av-alderspensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-levealdersjustering-av-alderspensjon — Change history
 
 _2 events; doc_id `sf-20101130-1492`._

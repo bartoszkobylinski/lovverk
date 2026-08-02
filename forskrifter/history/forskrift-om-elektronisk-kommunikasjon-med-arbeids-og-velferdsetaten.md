@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-elektronisk-kommunikasjon-med-arbeids-og-velferdsetaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-elektronisk-kommunikasjon-med-arbeids-og-velferdsetaten — Change history
 
 _2 events; doc_id `sf-20091002-1285`._

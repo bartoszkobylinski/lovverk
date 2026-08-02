@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-i-private-medisinske-laboratorie-og-røntgenvirksomheter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-i-private-medisinske-laboratorie-og-røntgenvirksomheter — Change history
 
 _2 events; doc_id `sf-20260204-0145`._

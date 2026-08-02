@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-for-veterinærer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-for-veterinærer — Change history
 
 _2 events; doc_id `sf-20110831-0892`._

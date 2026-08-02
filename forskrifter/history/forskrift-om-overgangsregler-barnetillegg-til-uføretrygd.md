@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-barnetillegg-til-uføretrygd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-barnetillegg-til-uføretrygd — Change history
 
 _2 events; doc_id `sf-20150923-1095`._

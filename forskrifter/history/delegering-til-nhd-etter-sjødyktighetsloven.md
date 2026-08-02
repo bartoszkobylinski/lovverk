@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nhd-etter-sjødyktighetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nhd-etter-sjødyktighetsloven — Change history
 
 _1 events; doc_id `sf-19860117-0042`._

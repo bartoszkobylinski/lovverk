@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kjøpers-renteplikt-ved-sen-betaling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kjøpers-renteplikt-ved-sen-betaling — Change history
 
 _2 events; doc_id `sf-20000428-0368`._

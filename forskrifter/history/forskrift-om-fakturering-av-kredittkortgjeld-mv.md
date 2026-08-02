@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fakturering-av-kredittkortgjeld-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fakturering-av-kredittkortgjeld-mv — Change history
 
 _2 events; doc_id `sf-20170404-0427`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-hvitvaskingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-hvitvaskingsloven — Change history
 
 _1 events; doc_id `sf-20111125-1129`._

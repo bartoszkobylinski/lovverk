@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-uerfisket-svalbard-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-uerfisket-svalbard-2 — Change history
 
 _2 events; doc_id `sf-20091217-1593`._

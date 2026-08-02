@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-landbr-fagskulane-i-skulesystemet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-landbr-fagskulane-i-skulesystemet — Change history
 
 _2 events; doc_id `sf-19880708-0562`._

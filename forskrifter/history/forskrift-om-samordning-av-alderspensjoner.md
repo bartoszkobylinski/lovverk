@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-av-alderspensjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-av-alderspensjoner — Change history
 
 _2 events; doc_id `sf-20111020-1038`._

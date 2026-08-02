@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-transport-med-ferje"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-transport-med-ferje — Change history
 
 _2 events; doc_id `sf-20030326-0403`._

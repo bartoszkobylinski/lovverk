@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjeterhytter-i-reindriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjeterhytter-i-reindriften — Change history
 
 _2 events; doc_id `sf-19821101-1569`._

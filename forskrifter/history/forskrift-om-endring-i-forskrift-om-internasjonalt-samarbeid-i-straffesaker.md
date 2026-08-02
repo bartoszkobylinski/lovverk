@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-internasjonalt-samarbeid-i-straffesaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-internasjonalt-samarbeid-i-straffesaker — Change history
 
 _1 events; doc_id `sf-20260612-1057`._

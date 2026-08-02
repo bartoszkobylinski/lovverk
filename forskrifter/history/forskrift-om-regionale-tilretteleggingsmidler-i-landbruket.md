@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regionale-tilretteleggingsmidler-i-landbruket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regionale-tilretteleggingsmidler-i-landbruket — Change history
 
 _2 events; doc_id `sf-20191220-2082`._

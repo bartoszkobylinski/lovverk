@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-skattebetalingsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-skattebetalingsloven-2 — Change history
 
 _2 events; doc_id `nl-20251222-120`._

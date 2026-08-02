@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-dn-etter-viltloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-dn-etter-viltloven — Change history
 
 _1 events; doc_id `sf-19940701-4322`._

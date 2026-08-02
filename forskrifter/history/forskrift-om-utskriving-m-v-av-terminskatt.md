@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utskriving-m-v-av-terminskatt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utskriving-m-v-av-terminskatt — Change history
 
 _2 events; doc_id `sf-19800905-0004`._

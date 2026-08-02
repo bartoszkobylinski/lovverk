@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-informasjonstilgang-m-m-for-barnevoldsutvalget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-informasjonstilgang-m-m-for-barnevoldsutvalget — Change history
 
 _2 events; doc_id `nl-20160527-013`._

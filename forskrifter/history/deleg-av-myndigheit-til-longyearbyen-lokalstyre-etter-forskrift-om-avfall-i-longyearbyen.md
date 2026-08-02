@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndigheit-til-longyearbyen-lokalstyre-etter-forskrift-om-avfall-i-longyearbyen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndigheit-til-longyearbyen-lokalstyre-etter-forskrift-om-avfall-i-longyearbyen — Change history
 
 _1 events; doc_id `sf-20091020-5019`._

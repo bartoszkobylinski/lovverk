@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ettergjeving"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ettergjeving — Change history
 
 _2 events; doc_id `sf-19921013-0762`._

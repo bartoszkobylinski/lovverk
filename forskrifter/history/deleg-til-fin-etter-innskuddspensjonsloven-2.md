@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-innskuddspensjonsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-innskuddspensjonsloven-2 — Change history
 
 _1 events; doc_id `sf-20001221-1360`._

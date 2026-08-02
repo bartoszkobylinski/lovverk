@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nfd-etter-lov-om-offentlig-støtte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nfd-etter-lov-om-offentlig-støtte — Change history
 
 _1 events; doc_id `sf-20140509-0624`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-9-juni-1989-nr-32"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-9-juni-1989-nr-32 — Change history
 
 _1 events; doc_id `sf-19900525-0366`._

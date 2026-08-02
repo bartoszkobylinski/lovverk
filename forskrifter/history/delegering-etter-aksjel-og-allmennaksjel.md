@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-aksjel-og-allmennaksjel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-aksjel-og-allmennaksjel — Change history
 
 _1 events; doc_id `sf-19980717-0619`._

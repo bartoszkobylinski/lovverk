@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-lov-2001-181"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-lov-2001-181 — Change history
 
 _1 events; doc_id `sf-20020222-0181`._

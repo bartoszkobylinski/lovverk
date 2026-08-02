@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-vegdirektoratet-etter-vegloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-vegdirektoratet-etter-vegloven — Change history
 
 _1 events; doc_id `sf-20001127-1178`._

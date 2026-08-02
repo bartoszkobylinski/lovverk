@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-burettslagslova-og-eierseksjonsloven-tilrettelegging-for-boligkjøpsmodeller"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-burettslagslova-og-eierseksjonsloven-tilrettelegging-for-boligkjøpsmodeller — Change history
 
 _2 events; doc_id `nl-20251219-114`._

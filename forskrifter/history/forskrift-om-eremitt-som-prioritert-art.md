@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-eremitt-som-prioritert-art"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eremitt-som-prioritert-art — Change history
 
 _2 events; doc_id `sf-20110520-0520`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-endringslov-1996-56-til-ftrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-endringslov-1996-56-til-ftrl — Change history
 
 _1 events; doc_id `sf-19960628-0616`._

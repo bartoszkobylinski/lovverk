@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-endringslov-1996-6-nrk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endringslov-1996-6-nrk — Change history
 
 _1 events; doc_id `sf-19960426-0381`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-jernbaneforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-jernbaneforskriften — Change history
 
 _2 events; doc_id `sf-20250326-0542`._

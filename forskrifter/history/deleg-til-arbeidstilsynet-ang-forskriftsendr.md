@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-arbeidstilsynet-ang-forskriftsendr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-arbeidstilsynet-ang-forskriftsendr — Change history
 
 _1 events; doc_id `sf-20061211-1397`._

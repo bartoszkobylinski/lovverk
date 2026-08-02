@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-sjømannsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-sjømannsloven-2 — Change history
 
 _1 events; doc_id `sf-20070216-0169`._

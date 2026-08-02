@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-mattilsynet-ang-opph-av-forskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-mattilsynet-ang-opph-av-forskrift — Change history
 
 _1 events; doc_id `sf-20051205-1418`._

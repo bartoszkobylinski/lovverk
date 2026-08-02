@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-skipssikkerhetsloven-33-annet-ledd-bokstav-c"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-skipssikkerhetsloven-33-annet-ledd-bokstav-c — Change history
 
 _1 events; doc_id `sf-20170829-1317`._

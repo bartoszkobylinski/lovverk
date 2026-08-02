@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-1994-75-deleger-av-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-1994-75-deleger-av-myndighet — Change history
 
 _1 events; doc_id `sf-19941223-1122`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet — Change history
 
 _2 events; doc_id `sf-20161212-1565`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-likestillings-og-diskrimineringsloven-til-kmd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-likestillings-og-diskrimineringsloven-til-kmd — Change history
 
 _1 events; doc_id `sf-20210917-2780`._

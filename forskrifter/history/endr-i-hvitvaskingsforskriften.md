@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-hvitvaskingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-hvitvaskingsforskriften — Change history
 
 _2 events; doc_id `sf-20260129-0110`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-helsedirektoratet-etter-hlsberedskl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-helsedirektoratet-etter-hlsberedskl — Change history
 
 _1 events; doc_id `sf-20100419-0576`._

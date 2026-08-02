@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lønnsplikt-under-permittering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lønnsplikt-under-permittering — Change history
 
 _2 events; doc_id `sf-20160621-0764`._

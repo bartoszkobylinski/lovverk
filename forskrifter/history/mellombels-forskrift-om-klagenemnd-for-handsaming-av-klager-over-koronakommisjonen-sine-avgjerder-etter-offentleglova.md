@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mellombels-forskrift-om-klagenemnd-for-handsaming-av-klager-over-koronakommisjonen-sine-avgjerder-etter-offentleglova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mellombels-forskrift-om-klagenemnd-for-handsaming-av-klager-over-koronakommisjonen-sine-avgjerder-etter-offentleglova — Change history
 
 _2 events; doc_id `sf-20201120-2447`._

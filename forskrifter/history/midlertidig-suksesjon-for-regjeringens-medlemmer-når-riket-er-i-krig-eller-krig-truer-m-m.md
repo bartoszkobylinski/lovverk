@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-suksesjon-for-regjeringens-medlemmer-når-riket-er-i-krig-eller-krig-truer-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-suksesjon-for-regjeringens-medlemmer-når-riket-er-i-krig-eller-krig-truer-m-m — Change history
 
 _1 events; doc_id `sf-20170127-2538`._

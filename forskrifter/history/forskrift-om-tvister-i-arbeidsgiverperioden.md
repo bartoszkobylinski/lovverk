@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tvister-i-arbeidsgiverperioden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tvister-i-arbeidsgiverperioden — Change history
 
 _2 events; doc_id `sf-19970325-0268`._

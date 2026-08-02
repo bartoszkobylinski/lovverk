@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-kredittloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-kredittloven — Change history
 
 _1 events; doc_id `sf-19710618-4893`._

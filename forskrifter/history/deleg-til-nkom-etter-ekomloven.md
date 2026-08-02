@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nkom-etter-ekomloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nkom-etter-ekomloven — Change history
 
 _1 events; doc_id `sf-20130513-0472`._

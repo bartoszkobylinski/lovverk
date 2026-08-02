@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sanksjoner-mot-aktører-i-libanon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sanksjoner-mot-aktører-i-libanon — Change history
 
 _2 events; doc_id `sf-20060908-1040`._

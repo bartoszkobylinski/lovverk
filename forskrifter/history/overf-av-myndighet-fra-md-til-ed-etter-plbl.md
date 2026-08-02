@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overf-av-myndighet-fra-md-til-ed-etter-plbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overf-av-myndighet-fra-md-til-ed-etter-plbl — Change history
 
 _1 events; doc_id `sf-20080418-0372`._

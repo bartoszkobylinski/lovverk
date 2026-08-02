@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utlodning-av-levende-dyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utlodning-av-levende-dyr — Change history
 
 _2 events; doc_id `sf-19850110-0016`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-registrering-av-lønn-fra-off-org"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-registrering-av-lønn-fra-off-org — Change history
 
 _2 events; doc_id `sf-19641120-0003`._

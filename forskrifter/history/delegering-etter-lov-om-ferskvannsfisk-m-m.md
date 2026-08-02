@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-om-ferskvannsfisk-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-om-ferskvannsfisk-m-m — Change history
 
 _1 events; doc_id `sf-19870428-0368`._

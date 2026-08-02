@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-sammenslåing-av-fylkesmannsembetene-i-agder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-sammenslåing-av-fylkesmannsembetene-i-agder — Change history
 
 _1 events; doc_id `sf-20141114-1425`._

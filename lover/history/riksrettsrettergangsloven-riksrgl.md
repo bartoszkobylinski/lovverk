@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "riksrettsrettergangsloven-riksrgl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # riksrettsrettergangsloven-riksrgl — Change history
 
 _2 events; doc_id `nl-19320205-002`._

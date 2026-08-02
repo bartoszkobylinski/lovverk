@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-grader-opptak-studier-og-eksamen-ved-vid-vitenskapelige-høgskole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-grader-opptak-studier-og-eksamen-ved-vid-vitenskapelige-høgskole — Change history
 
 _2 events; doc_id `sf-20251209-2582`._

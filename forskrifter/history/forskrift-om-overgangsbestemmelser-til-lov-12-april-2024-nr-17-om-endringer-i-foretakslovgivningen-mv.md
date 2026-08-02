@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsbestemmelser-til-lov-12-april-2024-nr-17-om-endringer-i-foretakslovgivningen-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsbestemmelser-til-lov-12-april-2024-nr-17-om-endringer-i-foretakslovgivningen-mv — Change history
 
 _2 events; doc_id `sf-20240619-1059`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-produktkontrolloven-til-landbruks-og-matdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-produktkontrolloven-til-landbruks-og-matdepartementet — Change history
 
 _1 events; doc_id `sf-20180525-0763`._

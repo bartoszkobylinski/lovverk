@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-ed-etter-plbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-ed-etter-plbl — Change history
 
 _1 events; doc_id `sf-20090327-0362`._

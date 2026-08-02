@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-ld-etter-råvareprisutjevningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-ld-etter-råvareprisutjevningsloven — Change history
 
 _1 events; doc_id `sf-19860606-1274`._

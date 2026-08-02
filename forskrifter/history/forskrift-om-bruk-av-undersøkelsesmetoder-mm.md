@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-undersøkelsesmetoder-mm"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-undersøkelsesmetoder-mm — Change history
 
 _2 events; doc_id `sf-19950327-0276`._

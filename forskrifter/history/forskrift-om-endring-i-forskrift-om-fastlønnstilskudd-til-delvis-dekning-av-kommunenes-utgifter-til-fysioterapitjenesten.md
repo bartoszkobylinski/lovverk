@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fastlønnstilskudd-til-delvis-dekning-av-kommunenes-utgifter-til-fysioterapitjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fastlønnstilskudd-til-delvis-dekning-av-kommunenes-utgifter-til-fysioterapitjenesten — Change history
 
 _1 events; doc_id `sf-20260618-1208`._

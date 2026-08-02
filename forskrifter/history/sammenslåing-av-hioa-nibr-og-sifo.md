@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-hioa-nibr-og-sifo"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-hioa-nibr-og-sifo — Change history
 
 _1 events; doc_id `sf-20151218-1623`._

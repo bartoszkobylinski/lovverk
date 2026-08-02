@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-forurensningsloven-52c-til-miljødirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-forurensningsloven-52c-til-miljødirektoratet — Change history
 
 _1 events; doc_id `sf-20180807-1226`._

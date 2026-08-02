@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tillegging-av-myndighet-etter-lov-24-juni-1994-nr-39-om-sjøfarten-462-tredje-ledd-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tillegging-av-myndighet-etter-lov-24-juni-1994-nr-39-om-sjøfarten-462-tredje-ledd-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20231103-1766`._

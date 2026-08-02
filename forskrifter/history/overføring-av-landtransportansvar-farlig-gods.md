@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-landtransportansvar-farlig-gods"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-landtransportansvar-farlig-gods — Change history
 
 _2 events; doc_id `sf-19960607-0533`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-disp-fra-krav-om-at-dagsprøvekjennemerke-kun-kan-brukes-på-uregistrert-kjøretøy-i-forskrift-25-januar-1990-nr-92-om-bruk-av-kjøretøy-2-19-1-for-kjøretøy-der-kjennemerker-er"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-disp-fra-krav-om-at-dagsprøvekjennemerke-kun-kan-brukes-på-uregistrert-kjøretøy-i-forskrift-25-januar-1990-nr-92-om-bruk-av-kjøretøy-2-19-1-for-kjøretøy-der-kjennemerker-er — Change history
 
 _2 events; doc_id `sf-20210323-0990`._

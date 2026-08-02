@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-sd-etter-vegloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-sd-etter-vegloven — Change history
 
 _1 events; doc_id `sf-20050527-0472`._

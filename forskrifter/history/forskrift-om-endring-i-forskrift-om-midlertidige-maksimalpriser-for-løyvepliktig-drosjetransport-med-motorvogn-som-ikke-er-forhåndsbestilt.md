@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-midlertidige-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn-som-ikke-er-forhåndsbestilt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-midlertidige-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn-som-ikke-er-forhåndsbestilt — Change history
 
 _2 events; doc_id `sf-20251020-2064`._

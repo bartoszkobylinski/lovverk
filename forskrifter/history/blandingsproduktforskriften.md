@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "blandingsproduktforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # blandingsproduktforskriften — Change history
 
 _2 events; doc_id `sf-19830218-0151`._

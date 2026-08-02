@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-disp-fra-taushetsplikten-i-nav"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-disp-fra-taushetsplikten-i-nav — Change history
 
 _2 events; doc_id `sf-20070430-0460`._

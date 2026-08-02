@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-skattebetalingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-skattebetalingsforskriften — Change history
 
 _1 events; doc_id `sf-20110217-0155`._

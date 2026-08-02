@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-fisket-etter-torsk-og-hyse-i-fiskerisonen-ved-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-fisket-etter-torsk-og-hyse-i-fiskerisonen-ved-jan-mayen — Change history
 
 _2 events; doc_id `sf-20181220-2217`._

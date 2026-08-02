@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-småbåtregisterloven-kapittel-ii"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-småbåtregisterloven-kapittel-ii — Change history
 
 _1 events; doc_id `sf-19971212-1295`._

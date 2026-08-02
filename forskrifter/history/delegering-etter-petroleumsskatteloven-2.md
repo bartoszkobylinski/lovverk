@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-petroleumsskatteloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-petroleumsskatteloven-2 — Change history
 
 _1 events; doc_id `sf-19920110-0008`._

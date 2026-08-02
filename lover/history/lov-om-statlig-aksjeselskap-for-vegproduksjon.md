@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-statlig-aksjeselskap-for-vegproduksjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-statlig-aksjeselskap-for-vegproduksjon — Change history
 
 _2 events; doc_id `nl-20021213-084`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-genetisk-masseundersøkelse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-genetisk-masseundersøkelse — Change history
 
 _4 events; doc_id `sf-20070629-0742`._

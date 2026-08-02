@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bachelorgrad-ved-amh"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bachelorgrad-ved-amh — Change history
 
 _2 events; doc_id `sf-20130524-0548`._

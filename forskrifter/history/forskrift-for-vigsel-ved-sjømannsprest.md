@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-vigsel-ved-sjømannsprest"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-vigsel-ved-sjømannsprest — Change history
 
 _2 events; doc_id `sf-19560914-0003`._

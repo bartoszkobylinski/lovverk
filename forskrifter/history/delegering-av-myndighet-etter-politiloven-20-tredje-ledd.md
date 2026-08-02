@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-politiloven-20-tredje-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-politiloven-20-tredje-ledd — Change history
 
 _1 events; doc_id `sf-20231026-1703`._

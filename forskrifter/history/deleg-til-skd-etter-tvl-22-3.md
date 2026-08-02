@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skd-etter-tvl-22-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skd-etter-tvl-22-3 — Change history
 
 _1 events; doc_id `sf-20141103-1390`._

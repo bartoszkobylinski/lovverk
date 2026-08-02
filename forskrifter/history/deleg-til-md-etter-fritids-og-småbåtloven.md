@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-md-etter-fritids-og-småbåtloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-md-etter-fritids-og-småbåtloven — Change history
 
 _1 events; doc_id `sf-20070629-0848`._

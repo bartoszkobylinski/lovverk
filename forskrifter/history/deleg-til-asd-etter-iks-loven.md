@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-asd-etter-iks-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-asd-etter-iks-loven — Change history
 
 _1 events; doc_id `sf-20060818-0991`._

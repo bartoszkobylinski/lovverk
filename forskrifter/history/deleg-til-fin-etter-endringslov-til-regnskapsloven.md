@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-endringslov-til-regnskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-endringslov-til-regnskapsloven — Change history
 
 _1 events; doc_id `sf-20130419-0396`._

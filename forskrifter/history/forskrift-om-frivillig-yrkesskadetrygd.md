@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-frivillig-yrkesskadetrygd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-frivillig-yrkesskadetrygd — Change history
 
 _2 events; doc_id `sf-19970325-0267`._

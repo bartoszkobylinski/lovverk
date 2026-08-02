@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiskerisone-ved-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiskerisone-ved-jan-mayen — Change history
 
 _2 events; doc_id `sf-19800523-0004`._

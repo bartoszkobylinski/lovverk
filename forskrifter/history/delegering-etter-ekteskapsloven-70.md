@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-ekteskapsloven-70"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-ekteskapsloven-70 — Change history
 
 _1 events; doc_id `sf-19921218-1077`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-mynde-til-vegdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-mynde-til-vegdirektoratet — Change history
 
 _1 events; doc_id `sf-20251208-2437`._

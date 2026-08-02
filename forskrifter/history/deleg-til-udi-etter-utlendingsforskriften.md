@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-udi-etter-utlendingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-udi-etter-utlendingsforskriften — Change history
 
 _1 events; doc_id `sf-20091216-1586`._

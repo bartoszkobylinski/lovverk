@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-klageregler-i-kjøttkontrollen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klageregler-i-kjøttkontrollen — Change history
 
 _2 events; doc_id `sf-20040116-0094`._

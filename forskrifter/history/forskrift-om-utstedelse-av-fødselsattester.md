@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utstedelse-av-fødselsattester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utstedelse-av-fødselsattester — Change history
 
 _1 events; doc_id `sf-19680705-3384`._

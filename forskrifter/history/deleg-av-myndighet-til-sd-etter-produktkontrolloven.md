@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-sd-etter-produktkontrolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-sd-etter-produktkontrolloven — Change history
 
 _1 events; doc_id `sf-20160617-0698`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-kringkastingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-kringkastingsforskriften — Change history
 
 _2 events; doc_id `sf-20251204-2416`._

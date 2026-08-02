@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nrk-under-beredskap-og-i-krig"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nrk-under-beredskap-og-i-krig — Change history
 
 _2 events; doc_id `sf-19891006-4154`._

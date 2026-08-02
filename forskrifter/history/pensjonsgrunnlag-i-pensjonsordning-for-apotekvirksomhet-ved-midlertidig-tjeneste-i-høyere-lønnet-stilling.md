@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling — Change history
 
 _2 events; doc_id `sf-20171220-2306`._

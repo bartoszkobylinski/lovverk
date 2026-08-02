@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-tjenestetvistl-ved-helsefaghøgskoler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-tjenestetvistl-ved-helsefaghøgskoler — Change history
 
 _2 events; doc_id `sf-19831028-1588`._

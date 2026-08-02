@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-arbeids-og-velferdsdirektoratet-etter-straffeprosessloven-81a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-arbeids-og-velferdsdirektoratet-etter-straffeprosessloven-81a — Change history
 
 _1 events; doc_id `sf-20180130-0118`._

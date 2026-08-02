@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-merkur-forskrifta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-merkur-forskrifta — Change history
 
 _2 events; doc_id `sf-20251208-2432`._

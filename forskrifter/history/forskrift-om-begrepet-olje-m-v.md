@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-begrepet-olje-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-begrepet-olje-m-v — Change history
 
 _2 events; doc_id `sf-19740618-3650`._

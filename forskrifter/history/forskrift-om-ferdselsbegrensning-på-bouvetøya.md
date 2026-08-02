@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ferdselsbegrensning-på-bouvetøya"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ferdselsbegrensning-på-bouvetøya — Change history
 
 _2 events; doc_id `sf-20050624-0687`._

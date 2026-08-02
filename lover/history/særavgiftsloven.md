@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "særavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # særavgiftsloven — Change history
 
 _4 events; doc_id `nl-19330519-011`._

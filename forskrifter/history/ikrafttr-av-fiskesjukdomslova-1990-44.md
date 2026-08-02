@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-fiskesjukdomslova-1990-44"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-fiskesjukdomslova-1990-44 — Change history
 
 _1 events; doc_id `sf-19900713-0551`._

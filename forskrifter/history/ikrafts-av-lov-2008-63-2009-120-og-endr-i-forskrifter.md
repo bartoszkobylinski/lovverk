@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2008-63-2009-120-og-endr-i-forskrifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2008-63-2009-120-og-endr-i-forskrifter — Change history
 
 _2 events; doc_id `sf-20100326-0466`._

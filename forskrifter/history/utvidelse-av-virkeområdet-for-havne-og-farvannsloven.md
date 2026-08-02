@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utvidelse-av-virkeområdet-for-havne-og-farvannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utvidelse-av-virkeområdet-for-havne-og-farvannsloven — Change history
 
 _2 events; doc_id `sf-20141010-1287`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa — Change history
 
 _1 events; doc_id `sf-20260522-0871`._

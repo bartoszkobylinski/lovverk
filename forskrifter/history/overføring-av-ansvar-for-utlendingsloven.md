@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvar-for-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvar-for-utlendingsloven — Change history
 
 _1 events; doc_id `sf-20110624-0626`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kystverket-etter-svalbardmiljøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kystverket-etter-svalbardmiljøloven — Change history
 
 _1 events; doc_id `sf-20071221-1823`._

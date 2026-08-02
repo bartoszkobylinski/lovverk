@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-adgangen-til-visse-områder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-adgangen-til-visse-områder — Change history
 
 _2 events; doc_id `nl-19400307-001`._

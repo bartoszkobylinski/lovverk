@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mellombels-forskrift-om-utvida-sensurfrist-på-nasjonal-deleksamen-i-rettsanvendelse-for-barnevernsfaglig-arbeid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mellombels-forskrift-om-utvida-sensurfrist-på-nasjonal-deleksamen-i-rettsanvendelse-for-barnevernsfaglig-arbeid — Change history
 
 _2 events; doc_id `sf-20251030-2290`._

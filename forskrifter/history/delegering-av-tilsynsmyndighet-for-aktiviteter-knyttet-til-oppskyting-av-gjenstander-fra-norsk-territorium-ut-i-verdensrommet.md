@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-tilsynsmyndighet-for-aktiviteter-knyttet-til-oppskyting-av-gjenstander-fra-norsk-territorium-ut-i-verdensrommet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-tilsynsmyndighet-for-aktiviteter-knyttet-til-oppskyting-av-gjenstander-fra-norsk-territorium-ut-i-verdensrommet — Change history
 
 _1 events; doc_id `sf-20240531-0913`._

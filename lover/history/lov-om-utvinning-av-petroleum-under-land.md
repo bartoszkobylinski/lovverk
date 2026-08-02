@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-utvinning-av-petroleum-under-land"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-utvinning-av-petroleum-under-land — Change history
 
 _2 events; doc_id `nl-19730504-021`._

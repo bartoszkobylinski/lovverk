@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-boligtiltak-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-boligtiltak-2 — Change history
 
 _2 events; doc_id `sf-20260326-0506`._

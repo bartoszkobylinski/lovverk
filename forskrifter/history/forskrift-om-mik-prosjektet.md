@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-mik-prosjektet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-mik-prosjektet — Change history
 
 _1 events; doc_id `sf-19900713-0554`._

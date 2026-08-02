@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ud-om-revisoroppnevning-for-norfund"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ud-om-revisoroppnevning-for-norfund — Change history
 
 _1 events; doc_id `sf-20081017-1133`._

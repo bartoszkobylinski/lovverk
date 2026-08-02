@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-videreføring-av-beregning-av-krav-til-stabil-finansiering-i-forordning-575-2013"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-videreføring-av-beregning-av-krav-til-stabil-finansiering-i-forordning-575-2013 — Change history
 
 _2 events; doc_id `sf-20250813-1642`._

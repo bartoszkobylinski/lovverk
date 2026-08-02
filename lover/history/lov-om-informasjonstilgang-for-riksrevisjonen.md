@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-informasjonstilgang-for-riksrevisjonen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-informasjonstilgang-for-riksrevisjonen — Change history
 
 _2 events; doc_id `nl-20220617-049`._

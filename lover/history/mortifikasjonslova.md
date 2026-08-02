@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mortifikasjonslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mortifikasjonslova — Change history
 
 _5 events; doc_id `nl-19591218-001`._

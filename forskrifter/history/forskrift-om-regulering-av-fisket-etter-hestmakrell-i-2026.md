@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-hestmakrell-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-hestmakrell-i-2026 — Change history
 
 _2 events; doc_id `sf-20251208-2458`._

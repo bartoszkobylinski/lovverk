@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fradrag-for-alderspensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fradrag-for-alderspensjon — Change history
 
 _2 events; doc_id `sf-19750718-9410`._

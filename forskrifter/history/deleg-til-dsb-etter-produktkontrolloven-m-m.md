@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dsb-etter-produktkontrolloven-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dsb-etter-produktkontrolloven-m-m — Change history
 
 _1 events; doc_id `sf-20030901-1161`._

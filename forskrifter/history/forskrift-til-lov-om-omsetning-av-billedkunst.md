@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-lov-om-omsetning-av-billedkunst"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-lov-om-omsetning-av-billedkunst — Change history
 
 _2 events; doc_id `sf-19900928-0778`._

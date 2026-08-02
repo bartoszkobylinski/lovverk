@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-støyrelaterte-driftsbegrensninger-på-flyplasser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-støyrelaterte-driftsbegrensninger-på-flyplasser — Change history
 
 _2 events; doc_id `sf-20151001-1168`._

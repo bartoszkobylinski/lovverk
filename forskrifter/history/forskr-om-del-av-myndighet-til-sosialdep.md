@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-del-av-myndighet-til-sosialdep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-del-av-myndighet-til-sosialdep — Change history
 
 _1 events; doc_id `sf-19610616-9392`._

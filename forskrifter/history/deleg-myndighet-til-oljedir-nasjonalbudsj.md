@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-oljedir-nasjonalbudsj"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-oljedir-nasjonalbudsj — Change history
 
 _1 events; doc_id `sf-19981015-4808`._

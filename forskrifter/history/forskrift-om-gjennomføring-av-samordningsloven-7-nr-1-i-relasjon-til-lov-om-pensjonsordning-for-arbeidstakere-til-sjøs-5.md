@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-samordningsloven-7-nr-1-i-relasjon-til-lov-om-pensjonsordning-for-arbeidstakere-til-sjøs-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-samordningsloven-7-nr-1-i-relasjon-til-lov-om-pensjonsordning-for-arbeidstakere-til-sjøs-5 — Change history
 
 _2 events; doc_id `sf-19581015-8686`._

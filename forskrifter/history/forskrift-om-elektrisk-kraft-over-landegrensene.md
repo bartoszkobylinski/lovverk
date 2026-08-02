@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-elektrisk-kraft-over-landegrensene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-elektrisk-kraft-over-landegrensene — Change history
 
 _2 events; doc_id `sf-20061220-1563`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-i-forbindelse-med-ikrafttredelse-av-endring-av-folketrygdloven-4-9-fra-1-januar-2024"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-i-forbindelse-med-ikrafttredelse-av-endring-av-folketrygdloven-4-9-fra-1-januar-2024 — Change history
 
 _2 events; doc_id `sf-20231221-2260`._

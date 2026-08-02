@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2017-58-endr-straffeprosessloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2017-58-endr-straffeprosessloven-mv — Change history
 
 _1 events; doc_id `sf-20171013-1613`._

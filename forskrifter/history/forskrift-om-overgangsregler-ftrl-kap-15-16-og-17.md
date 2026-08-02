@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-ftrl-kap-15-16-og-17"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-ftrl-kap-15-16-og-17 — Change history
 
 _2 events; doc_id `sf-20150702-0869`._

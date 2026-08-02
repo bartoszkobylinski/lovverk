@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattedir-etter-folkeregisterloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattedir-etter-folkeregisterloven-2 — Change history
 
 _1 events; doc_id `sf-20071024-1266`._

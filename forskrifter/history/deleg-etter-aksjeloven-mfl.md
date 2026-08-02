@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-aksjeloven-mfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-aksjeloven-mfl — Change history
 
 _1 events; doc_id `sf-20130614-0636`._

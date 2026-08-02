@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-barnehageloven-overføring-av-ansvaret-for-å-føre-tilsyn-med-økonomiske-forhold-i-private-barnehager-fra-kommunen-og-statsforvalteren-til-utdanningsdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-barnehageloven-overføring-av-ansvaret-for-å-føre-tilsyn-med-økonomiske-forhold-i-private-barnehager-fra-kommunen-og-statsforvalteren-til-utdanningsdirektoratet — Change history
 
 _2 events; doc_id `sf-20211006-3079`._

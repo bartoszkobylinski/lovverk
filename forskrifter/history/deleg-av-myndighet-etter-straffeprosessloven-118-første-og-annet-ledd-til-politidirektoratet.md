@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-straffeprosessloven-118-første-og-annet-ledd-til-politidirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-straffeprosessloven-118-første-og-annet-ledd-til-politidirektoratet — Change history
 
 _1 events; doc_id `sf-20190307-0190`._

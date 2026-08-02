@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-overg-bestemm-militærnektersaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-overg-bestemm-militærnektersaker — Change history
 
 _2 events; doc_id `sf-19990907-1048`._

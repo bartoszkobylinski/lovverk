@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-finansdepartementets-myndighet-til-å-fastsette-forskrifter-etter-bokføringsloven-2-3-5-7-8-10-10a-11-12-13-13b-14-og-16-til-skattedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-finansdepartementets-myndighet-til-å-fastsette-forskrifter-etter-bokføringsloven-2-3-5-7-8-10-10a-11-12-13-13b-14-og-16-til-skattedirektoratet — Change history
 
 _1 events; doc_id `sf-20240405-0570`._

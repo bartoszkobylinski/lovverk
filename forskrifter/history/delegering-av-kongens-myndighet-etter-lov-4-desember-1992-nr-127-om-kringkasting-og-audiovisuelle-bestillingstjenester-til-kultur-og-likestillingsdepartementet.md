@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-4-desember-1992-nr-127-om-kringkasting-og-audiovisuelle-bestillingstjenester-til-kultur-og-likestillingsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-4-desember-1992-nr-127-om-kringkasting-og-audiovisuelle-bestillingstjenester-til-kultur-og-likestillingsdepartementet — Change history
 
 _1 events; doc_id `sf-20250228-0332`._

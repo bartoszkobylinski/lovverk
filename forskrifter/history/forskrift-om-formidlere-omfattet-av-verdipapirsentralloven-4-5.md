@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-formidlere-omfattet-av-verdipapirsentralloven-4-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-formidlere-omfattet-av-verdipapirsentralloven-4-5 — Change history
 
 _2 events; doc_id `sf-20220901-1523`._

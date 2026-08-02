@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-produktansvarsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-produktansvarsloven-mv — Change history
 
 _1 events; doc_id `sf-19940701-0535`._

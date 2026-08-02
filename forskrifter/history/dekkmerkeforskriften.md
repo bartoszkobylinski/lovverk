@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "dekkmerkeforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dekkmerkeforskriften — Change history
 
 _2 events; doc_id `sf-20121217-1325`._

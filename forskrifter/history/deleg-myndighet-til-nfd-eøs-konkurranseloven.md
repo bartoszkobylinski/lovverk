@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-nfd-eøs-konkurranseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-nfd-eøs-konkurranseloven — Change history
 
 _1 events; doc_id `sf-20050211-0128`._

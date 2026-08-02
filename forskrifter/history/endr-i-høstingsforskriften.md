@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-høstingsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-høstingsforskriften — Change history
 
 _2 events; doc_id `sf-20251125-2415`._

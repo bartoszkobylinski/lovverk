@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rundskriv-om-kunngjøring-i-lovtidend"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rundskriv-om-kunngjøring-i-lovtidend — Change history
 
 _2 events; doc_id `sf-19921028-0001`._

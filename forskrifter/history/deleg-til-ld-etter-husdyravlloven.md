@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ld-etter-husdyravlloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ld-etter-husdyravlloven — Change history
 
 _1 events; doc_id `sf-20040123-0191`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "beredskapsloven-beredskl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # beredskapsloven-beredskl — Change history
 
 _2 events; doc_id `nl-19501215-007`._

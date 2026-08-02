@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kystverket-om-adgang-for-fremmede-fartøyer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kystverket-om-adgang-for-fremmede-fartøyer — Change history
 
 _1 events; doc_id `sf-20141201-1499`._

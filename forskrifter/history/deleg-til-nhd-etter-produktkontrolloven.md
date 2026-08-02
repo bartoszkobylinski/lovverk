@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-produktkontrolloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-produktkontrolloven — Change history
 
 _1 events; doc_id `sf-20030509-0567`._

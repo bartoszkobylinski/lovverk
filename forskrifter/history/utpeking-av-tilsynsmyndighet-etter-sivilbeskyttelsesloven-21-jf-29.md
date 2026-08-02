@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utpeking-av-tilsynsmyndighet-etter-sivilbeskyttelsesloven-21-jf-29"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utpeking-av-tilsynsmyndighet-etter-sivilbeskyttelsesloven-21-jf-29 — Change history
 
 _1 events; doc_id `sf-20240229-0359`._

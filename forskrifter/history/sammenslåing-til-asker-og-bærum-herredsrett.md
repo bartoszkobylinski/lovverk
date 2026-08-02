@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-til-asker-og-bærum-herredsrett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-til-asker-og-bærum-herredsrett — Change history
 
 _1 events; doc_id `sf-19920424-0299`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fondsavsetninger-1980"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fondsavsetninger-1980 — Change history
 
 _2 events; doc_id `sf-19801219-0005`._

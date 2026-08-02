@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kunnskapsdepartementet-etter-univl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kunnskapsdepartementet-etter-univl — Change history
 
 _1 events; doc_id `sf-20120203-0126`._

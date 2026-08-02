@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-psd-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-psd-etter-luftfartsloven — Change history
 
 _1 events; doc_id `sf-19970905-0959`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ikrafttredelse-av-fjellstyrevedtak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ikrafttredelse-av-fjellstyrevedtak — Change history
 
 _2 events; doc_id `sf-20100812-1171`._

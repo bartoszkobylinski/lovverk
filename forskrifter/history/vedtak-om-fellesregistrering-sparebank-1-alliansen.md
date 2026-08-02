@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-fellesregistrering-sparebank-1-alliansen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-fellesregistrering-sparebank-1-alliansen — Change history
 
 _1 events; doc_id `sf-20100427-0629`._

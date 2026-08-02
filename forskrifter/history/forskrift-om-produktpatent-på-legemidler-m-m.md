@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-produktpatent-på-legemidler-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-produktpatent-på-legemidler-m-m — Change history
 
 _2 events; doc_id `sf-19891013-1043`._

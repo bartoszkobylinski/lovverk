@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "arkivlova-arkl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # arkivlova-arkl — Change history
 
 _2 events; doc_id `nl-19921204-126`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skatteregler-distriktsutbygging"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skatteregler-distriktsutbygging — Change history
 
 _2 events; doc_id `sf-19790925-0001`._

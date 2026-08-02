@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-momskompensasjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-momskompensasjonsloven — Change history
 
 _1 events; doc_id `sf-20110114-0033`._

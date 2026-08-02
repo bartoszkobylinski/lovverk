@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-oppskyting-i-verdensrommet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-oppskyting-i-verdensrommet — Change history
 
 _2 events; doc_id `nl-19690613-038`._

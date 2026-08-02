@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fastsettelse-av-renter-for-beskatning-av-kraftforetak-for-inntektsåret-2017"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fastsettelse-av-renter-for-beskatning-av-kraftforetak-for-inntektsåret-2017 — Change history
 
 _2 events; doc_id `sf-20180109-0017`._

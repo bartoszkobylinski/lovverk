@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-2009-48-verdipapirfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-2009-48-verdipapirfond — Change history
 
 _2 events; doc_id `sf-20090626-0908`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-eigedomsskatt-for-kraftanlegg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eigedomsskatt-for-kraftanlegg — Change history
 
 _2 events; doc_id `sf-20001220-1393`._

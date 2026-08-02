@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-særskilte-beskyttelsestiltak-ved-import-av-næringsmidler-fra-thailand"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-særskilte-beskyttelsestiltak-ved-import-av-næringsmidler-fra-thailand — Change history
 
 _2 events; doc_id `sf-20150211-0115`._

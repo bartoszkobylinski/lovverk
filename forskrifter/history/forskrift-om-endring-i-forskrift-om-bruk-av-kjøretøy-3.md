@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3 — Change history
 
 _5 events; doc_id `sf-20260320-0442`._

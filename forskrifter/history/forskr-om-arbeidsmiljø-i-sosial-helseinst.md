@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-arbeidsmiljø-i-sosial-helseinst"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-arbeidsmiljø-i-sosial-helseinst — Change history
 
 _2 events; doc_id `sf-19800613-0002`._

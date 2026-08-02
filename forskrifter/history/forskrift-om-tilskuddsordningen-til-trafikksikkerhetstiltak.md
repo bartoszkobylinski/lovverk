@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskuddsordningen-til-trafikksikkerhetstiltak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskuddsordningen-til-trafikksikkerhetstiltak — Change history
 
 _2 events; doc_id `sf-20201204-2663`._

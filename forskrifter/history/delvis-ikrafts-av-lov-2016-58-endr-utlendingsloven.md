@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafts-av-lov-2016-58-endr-utlendingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafts-av-lov-2016-58-endr-utlendingsloven — Change history
 
 _1 events; doc_id `sf-20160826-1005`._

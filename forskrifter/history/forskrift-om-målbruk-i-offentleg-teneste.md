@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-målbruk-i-offentleg-teneste"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-målbruk-i-offentleg-teneste — Change history
 
 _2 events; doc_id `sf-19801205-4938`._

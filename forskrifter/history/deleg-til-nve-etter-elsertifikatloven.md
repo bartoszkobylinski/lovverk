@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nve-etter-elsertifikatloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nve-etter-elsertifikatloven — Change history
 
 _1 events; doc_id `sf-20120903-0930`._

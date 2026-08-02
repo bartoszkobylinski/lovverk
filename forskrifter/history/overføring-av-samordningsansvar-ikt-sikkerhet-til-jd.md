@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-samordningsansvar-ikt-sikkerhet-til-jd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-samordningsansvar-ikt-sikkerhet-til-jd — Change history
 
 _1 events; doc_id `sf-20130322-0296`._

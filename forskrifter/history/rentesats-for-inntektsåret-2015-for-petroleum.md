@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rentesats-for-inntektsåret-2015-for-petroleum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rentesats-for-inntektsåret-2015-for-petroleum — Change history
 
 _2 events; doc_id `sf-20160204-0095`._

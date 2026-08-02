@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-nordisk-utleveringslov-deleg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-nordisk-utleveringslov-deleg — Change history
 
 _1 events; doc_id `sf-19610630-0002`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-pt-etter-ekomloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-pt-etter-ekomloven — Change history
 
 _1 events; doc_id `sf-20040216-0427`._

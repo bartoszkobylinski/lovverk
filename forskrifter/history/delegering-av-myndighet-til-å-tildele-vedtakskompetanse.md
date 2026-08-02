@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-å-tildele-vedtakskompetanse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-å-tildele-vedtakskompetanse — Change history
 
 _1 events; doc_id `sf-20200701-1489`._

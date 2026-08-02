@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-2005-42-endr-i-vphl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-2005-42-endr-i-vphl — Change history
 
 _1 events; doc_id `sf-20051209-1428`._

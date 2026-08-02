@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-statsforvalteren-om-fritak-fra-taushetsplikt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-statsforvalteren-om-fritak-fra-taushetsplikt — Change history
 
 _1 events; doc_id `sf-20121005-0955`._

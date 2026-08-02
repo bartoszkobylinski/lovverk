@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-tilskudd-til-kraftf-rprodusenter-kompensasjon-for-økt-bruk-av-norsk-bygg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-tilskudd-til-kraftf-rprodusenter-kompensasjon-for-økt-bruk-av-norsk-bygg — Change history
 
 _2 events; doc_id `sf-20251029-2136`._

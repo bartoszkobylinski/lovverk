@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forhandlingsansvar-for-lærere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forhandlingsansvar-for-lærere — Change history
 
 _2 events; doc_id `sf-20030131-0090`._

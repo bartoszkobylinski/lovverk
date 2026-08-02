@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregel-om-integreringsloven-20-fjerde-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregel-om-integreringsloven-20-fjerde-ledd — Change history
 
 _2 events; doc_id `sf-20240625-1215`._

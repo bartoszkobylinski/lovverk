@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forbud-paa-vimpel-føring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forbud-paa-vimpel-føring — Change history
 
 _2 events; doc_id `nl-17410217-000`._

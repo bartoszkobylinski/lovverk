@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-utenlandsk-transport-i-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-utenlandsk-transport-i-norge — Change history
 
 _2 events; doc_id `sf-19780411-0001`._

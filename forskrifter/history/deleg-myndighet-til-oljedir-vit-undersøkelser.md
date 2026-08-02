@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-til-oljedir-vit-undersøkelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-til-oljedir-vit-undersøkelser — Change history
 
 _1 events; doc_id `sf-19730330-4702`._

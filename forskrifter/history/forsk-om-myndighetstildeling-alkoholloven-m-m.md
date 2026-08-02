@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-myndighetstildeling-alkoholloven-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-myndighetstildeling-alkoholloven-m-m — Change history
 
 _1 events; doc_id `sf-19890922-0947`._

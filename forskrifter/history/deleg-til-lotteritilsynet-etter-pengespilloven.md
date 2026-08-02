@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lotteritilsynet-etter-pengespilloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lotteritilsynet-etter-pengespilloven — Change history
 
 _1 events; doc_id `sf-20030825-1122`._

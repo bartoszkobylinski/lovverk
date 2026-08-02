@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-midl-tilskuddsordning-for-foretak-med-stort-omsetningsfall-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midl-tilskuddsordning-for-foretak-med-stort-omsetningsfall-på-svalbard — Change history
 
 _2 events; doc_id `sf-20200417-0810`._

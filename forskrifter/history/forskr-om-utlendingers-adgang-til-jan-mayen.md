@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-utlendingers-adgang-til-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-utlendingers-adgang-til-jan-mayen — Change history
 
 _2 events; doc_id `sf-19620601-0001`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-translatøreksamen-nhh"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-translatøreksamen-nhh — Change history
 
 _2 events; doc_id `sf-20210617-2044`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-del-av-myndighet-etter-ligningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-del-av-myndighet-etter-ligningsloven — Change history
 
 _1 events; doc_id `sf-19890203-0074`._

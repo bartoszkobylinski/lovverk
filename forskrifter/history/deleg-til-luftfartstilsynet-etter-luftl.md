@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-luftfartstilsynet-etter-luftl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-luftfartstilsynet-etter-luftl — Change history
 
 _1 events; doc_id `sf-20001004-1052`._

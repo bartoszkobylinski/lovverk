@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyrer-til-mattilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyrer-til-mattilsynet — Change history
 
 _4 events; doc_id `sf-20040213-0406`._

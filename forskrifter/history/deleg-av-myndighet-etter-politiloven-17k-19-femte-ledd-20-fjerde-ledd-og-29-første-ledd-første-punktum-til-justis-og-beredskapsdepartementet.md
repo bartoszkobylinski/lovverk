@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-politiloven-17k-19-femte-ledd-20-fjerde-ledd-og-29-første-ledd-første-punktum-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-politiloven-17k-19-femte-ledd-20-fjerde-ledd-og-29-første-ledd-første-punktum-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20201211-2708`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-til-gjennomføring-av-konvensjonen-av-23-mars-1962-mellom-norge-danmark-finland-island-og-sverige-om-inndriving-av-underholdsbidrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-til-gjennomføring-av-konvensjonen-av-23-mars-1962-mellom-norge-danmark-finland-island-og-sverige-om-inndriving-av-underholdsbidrag — Change history
 
 _2 events; doc_id `sf-20250911-1815`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "enhetsregisterloven-enhregl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # enhetsregisterloven-enhregl — Change history
 
 _2 events; doc_id `nl-19940603-015`._

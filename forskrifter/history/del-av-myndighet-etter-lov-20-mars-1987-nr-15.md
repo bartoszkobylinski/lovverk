@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-myndighet-etter-lov-20-mars-1987-nr-15"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-myndighet-etter-lov-20-mars-1987-nr-15 — Change history
 
 _1 events; doc_id `sf-19920529-0364`._

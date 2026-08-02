@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fusjon-mellom-hio-og-hia"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fusjon-mellom-hio-og-hia — Change history
 
 _1 events; doc_id `sf-20110121-0093`._

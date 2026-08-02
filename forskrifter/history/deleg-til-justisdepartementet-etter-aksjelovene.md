@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-justisdepartementet-etter-aksjelovene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-justisdepartementet-etter-aksjelovene — Change history
 
 _1 events; doc_id `sf-20131004-1179`._

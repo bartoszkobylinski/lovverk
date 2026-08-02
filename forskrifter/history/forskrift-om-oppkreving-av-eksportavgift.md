@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-oppkreving-av-eksportavgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-oppkreving-av-eksportavgift — Change history
 
 _2 events; doc_id `sf-19810605-8828`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-enhetsregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-enhetsregisterloven — Change history
 
 _1 events; doc_id `sf-19940603-0375`._

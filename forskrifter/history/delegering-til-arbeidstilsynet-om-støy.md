@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-arbeidstilsynet-om-støy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-arbeidstilsynet-om-støy — Change history
 
 _1 events; doc_id `sf-20060426-0457`._

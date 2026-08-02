@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tiltak-mot-ukrainsk-dyrefor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tiltak-mot-ukrainsk-dyrefor — Change history
 
 _2 events; doc_id `sf-20021021-1166`._

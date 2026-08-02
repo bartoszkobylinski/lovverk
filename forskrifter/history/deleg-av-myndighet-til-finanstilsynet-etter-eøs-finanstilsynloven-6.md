@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-finanstilsynet-etter-eøs-finanstilsynloven-6"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-finanstilsynet-etter-eøs-finanstilsynloven-6 — Change history
 
 _1 events; doc_id `sf-20171219-2248`._

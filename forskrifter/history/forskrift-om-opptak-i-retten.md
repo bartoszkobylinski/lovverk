@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-i-retten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-i-retten — Change history
 
 _2 events; doc_id `sf-20180928-1471`._

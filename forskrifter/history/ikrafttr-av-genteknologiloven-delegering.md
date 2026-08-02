@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-genteknologiloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-genteknologiloven-delegering — Change history
 
 _1 events; doc_id `sf-19930820-0811`._

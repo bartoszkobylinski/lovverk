@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ld-etter-tolltariffen-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ld-etter-tolltariffen-m-v — Change history
 
 _1 events; doc_id `sf-20020621-0578`._

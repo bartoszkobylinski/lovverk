@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-beredskapssystem-for-forsvaret-bff"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-beredskapssystem-for-forsvaret-bff — Change history
 
 _2 events; doc_id `sf-19991217-1347`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-med-fartøy-som-fører-flagg-fra-medlemsstater-i-den-europeiske-union-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-med-fartøy-som-fører-flagg-fra-medlemsstater-i-den-europeiske-union-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2025 — Change history
 
 _2 events; doc_id `sf-20241217-3243`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-etter-innførsle-og-utførslereguleringsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-etter-innførsle-og-utførslereguleringsl — Change history
 
 _1 events; doc_id `sf-19980717-0618`._

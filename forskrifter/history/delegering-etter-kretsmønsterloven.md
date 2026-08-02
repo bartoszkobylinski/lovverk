@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-kretsmønsterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-kretsmønsterloven — Change history
 
 _1 events; doc_id `sf-19931217-1142`._

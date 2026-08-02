@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndigheit-til-å-fastsetje-føresegner-i-forskrift-etter-plan-og-bygningsloven-2-4-første-ledd-andre-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndigheit-til-å-fastsetje-føresegner-i-forskrift-etter-plan-og-bygningsloven-2-4-første-ledd-andre-punktum — Change history
 
 _1 events; doc_id `sf-20240621-1102`._

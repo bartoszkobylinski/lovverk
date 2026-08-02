@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nhd-etter-sjøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nhd-etter-sjøloven — Change history
 
 _1 events; doc_id `sf-20080111-0029`._

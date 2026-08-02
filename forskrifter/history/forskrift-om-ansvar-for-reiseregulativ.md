@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ansvar-for-reiseregulativ"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ansvar-for-reiseregulativ — Change history
 
 _1 events; doc_id `sf-19870807-0640`._

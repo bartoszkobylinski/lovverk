@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsreglar-til-lov-2003-40-endr-barneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsreglar-til-lov-2003-40-endr-barneloven — Change history
 
 _2 events; doc_id `sf-20040224-0471`._

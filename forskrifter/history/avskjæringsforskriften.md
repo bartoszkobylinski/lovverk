@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "avskjæringsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # avskjæringsforskriften — Change history
 
 _2 events; doc_id `sf-19970415-0316`._

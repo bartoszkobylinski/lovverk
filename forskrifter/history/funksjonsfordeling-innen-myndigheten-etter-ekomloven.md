@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "funksjonsfordeling-innen-myndigheten-etter-ekomloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # funksjonsfordeling-innen-myndigheten-etter-ekomloven — Change history
 
 _1 events; doc_id `sf-20210618-2024`._

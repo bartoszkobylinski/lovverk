@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-miljødirektoratet-til-å-behandle-klager-på-statsforvalternes-avgjørelser-etter-offentlighetsloven-innenfor-saksområdet-klima-og-miljø"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-miljødirektoratet-til-å-behandle-klager-på-statsforvalternes-avgjørelser-etter-offentlighetsloven-innenfor-saksområdet-klima-og-miljø — Change history
 
 _1 events; doc_id `sf-20221219-2289`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-etter-sparebankloven-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-etter-sparebankloven-4 — Change history
 
 _1 events; doc_id `sf-19880826-0706`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-valutaloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-valutaloven — Change history
 
 _2 events; doc_id `sf-19900622-0589`._

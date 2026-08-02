@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-konkurransetilsynet-etter-luftl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-konkurransetilsynet-etter-luftl — Change history
 
 _1 events; doc_id `sf-19971016-1112`._

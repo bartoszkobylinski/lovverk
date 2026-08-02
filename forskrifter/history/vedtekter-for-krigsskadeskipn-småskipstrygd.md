@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-krigsskadeskipn-småskipstrygd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-krigsskadeskipn-småskipstrygd — Change history
 
 _1 events; doc_id `sf-19561109-8676`._

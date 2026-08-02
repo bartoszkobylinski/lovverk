@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-retten-til-supplerande-stønad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-retten-til-supplerande-stønad — Change history
 
 _2 events; doc_id `sf-20051216-1513`._

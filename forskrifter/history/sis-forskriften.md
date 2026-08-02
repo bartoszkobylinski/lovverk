@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sis-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sis-forskriften — Change history
 
 _2 events; doc_id `sf-20220626-1194`._

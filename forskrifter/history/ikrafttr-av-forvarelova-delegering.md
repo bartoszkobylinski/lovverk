@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-forvarelova-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-forvarelova-delegering — Change history
 
 _1 events; doc_id `sf-19730713-0004`._

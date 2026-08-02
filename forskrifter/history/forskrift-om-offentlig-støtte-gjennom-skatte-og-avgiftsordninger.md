@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-støtte-gjennom-skatte-og-avgiftsordninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-støtte-gjennom-skatte-og-avgiftsordninger — Change history
 
 _2 events; doc_id `sf-20230208-0165`._

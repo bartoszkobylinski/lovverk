@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv — Change history
 
 _4 events; doc_id `sf-20170403-0426`._

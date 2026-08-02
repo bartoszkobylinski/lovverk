@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndigheten-etter-lakse-og-innlandsfiskloven-13-til-miljødirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndigheten-etter-lakse-og-innlandsfiskloven-13-til-miljødirektoratet — Change history
 
 _1 events; doc_id `sf-20220425-0621`._

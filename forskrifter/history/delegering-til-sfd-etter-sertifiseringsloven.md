@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-sfd-etter-sertifiseringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-sfd-etter-sertifiseringsloven — Change history
 
 _1 events; doc_id `sf-19811218-4282`._

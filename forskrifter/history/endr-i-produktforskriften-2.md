@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-produktforskriften-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-produktforskriften-2 — Change history
 
 _5 events; doc_id `sf-20260512-0810`._

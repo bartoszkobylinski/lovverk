@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kad-etter-eltilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kad-etter-eltilsynsloven — Change history
 
 _1 events; doc_id `sf-19950804-0692`._

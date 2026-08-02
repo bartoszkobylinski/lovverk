@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-om-endringer-i-pensjonslovgivningen-mv-pensjon-fra-første-krone-og-dag-garanterte-pensjonsprodukter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-om-endringer-i-pensjonslovgivningen-mv-pensjon-fra-første-krone-og-dag-garanterte-pensjonsprodukter — Change history
 
 _2 events; doc_id `sf-20211222-3856`._

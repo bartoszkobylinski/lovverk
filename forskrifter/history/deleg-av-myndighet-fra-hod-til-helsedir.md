@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-fra-hod-til-helsedir"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-fra-hod-til-helsedir — Change history
 
 _1 events; doc_id `sf-20100318-0425`._

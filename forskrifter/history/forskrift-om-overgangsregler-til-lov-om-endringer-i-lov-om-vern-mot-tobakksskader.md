@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-om-endringer-i-lov-om-vern-mot-tobakksskader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-om-endringer-i-lov-om-vern-mot-tobakksskader — Change history
 
 _2 events; doc_id `sf-20170331-0416`._

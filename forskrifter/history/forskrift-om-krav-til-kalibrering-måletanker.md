@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-kalibrering-måletanker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-kalibrering-måletanker — Change history
 
 _2 events; doc_id `sf-20071221-1748`._

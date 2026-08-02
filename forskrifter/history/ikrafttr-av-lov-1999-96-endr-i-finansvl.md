@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-1999-96-endr-i-finansvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-1999-96-endr-i-finansvl — Change history
 
 _1 events; doc_id `sf-19991217-1345`._

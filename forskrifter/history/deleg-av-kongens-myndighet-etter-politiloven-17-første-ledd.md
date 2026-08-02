@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-politiloven-17-første-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-politiloven-17-første-ledd — Change history
 
 _1 events; doc_id `sf-20170901-1350`._

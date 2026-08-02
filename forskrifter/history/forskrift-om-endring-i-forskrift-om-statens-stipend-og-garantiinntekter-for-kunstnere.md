@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere — Change history
 
 _1 events; doc_id `sf-20260526-0906`._

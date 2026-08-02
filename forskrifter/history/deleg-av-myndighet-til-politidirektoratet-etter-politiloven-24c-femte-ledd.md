@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-politidirektoratet-etter-politiloven-24c-femte-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-politidirektoratet-etter-politiloven-24c-femte-ledd — Change history
 
 _1 events; doc_id `sf-20191125-1866`._

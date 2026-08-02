@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-lov-27-mars-2020-nr-14-om-statlig-garantiordning-for-lån-til-små-og-mellomstore-bedrifter-og-forskrift-27-mars-2020-nr-490-til-lov-om-statlig-garantiordning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-lov-27-mars-2020-nr-14-om-statlig-garantiordning-for-lån-til-små-og-mellomstore-bedrifter-og-forskrift-27-mars-2020-nr-490-til-lov-om-statlig-garantiordning — Change history
 
 _1 events; doc_id `sf-20240524-0827`._

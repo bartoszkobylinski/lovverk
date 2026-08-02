@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-klima-og-miljødepartementet-etter-klimakvoteloven-3a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-klima-og-miljødepartementet-etter-klimakvoteloven-3a — Change history
 
 _1 events; doc_id `sf-20190621-0858`._

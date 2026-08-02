@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kredittilsynet-etter-emgll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kredittilsynet-etter-emgll — Change history
 
 _1 events; doc_id `sf-20030409-1903`._

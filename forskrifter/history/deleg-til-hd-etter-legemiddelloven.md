@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-hd-etter-legemiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-hd-etter-legemiddelloven — Change history
 
 _1 events; doc_id `sf-20021220-1734`._

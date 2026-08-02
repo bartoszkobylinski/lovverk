@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-driftsstøttetjenester-til-nødnett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-driftsstøttetjenester-til-nødnett — Change history
 
 _2 events; doc_id `sf-20120614-0530`._

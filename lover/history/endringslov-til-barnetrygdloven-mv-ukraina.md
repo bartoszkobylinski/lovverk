@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-barnetrygdloven-mv-ukraina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-barnetrygdloven-mv-ukraina — Change history
 
 _2 events; doc_id `nl-20240625-053`._

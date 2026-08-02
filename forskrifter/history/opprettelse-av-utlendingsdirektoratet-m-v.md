@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "opprettelse-av-utlendingsdirektoratet-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # opprettelse-av-utlendingsdirektoratet-m-v — Change history
 
 _1 events; doc_id `sf-19871218-0972`._

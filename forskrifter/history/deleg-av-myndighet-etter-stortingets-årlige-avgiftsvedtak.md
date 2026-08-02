@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-stortingets-årlige-avgiftsvedtak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-stortingets-årlige-avgiftsvedtak — Change history
 
 _1 events; doc_id `sf-20170217-0195`._

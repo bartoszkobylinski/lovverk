@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-liten-elektrisk-motorvogn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-liten-elektrisk-motorvogn — Change history
 
 _2 events; doc_id `sf-20220525-0918`._

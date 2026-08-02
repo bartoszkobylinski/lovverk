@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-aif-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-aif-loven — Change history
 
 _2 events; doc_id `nl-20260206-004`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-luftfartsmyndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-luftfartsmyndighet — Change history
 
 _2 events; doc_id `sf-19991210-1272`._

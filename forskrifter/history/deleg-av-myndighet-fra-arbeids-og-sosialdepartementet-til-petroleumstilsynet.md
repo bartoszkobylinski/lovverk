@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-fra-arbeids-og-sosialdepartementet-til-petroleumstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-fra-arbeids-og-sosialdepartementet-til-petroleumstilsynet — Change history
 
 _1 events; doc_id `sf-20180419-0588`._

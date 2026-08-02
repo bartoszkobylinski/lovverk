@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-el-anlegg-leteboreplattform"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-el-anlegg-leteboreplattform — Change history
 
 _2 events; doc_id `sf-19850726-1565`._

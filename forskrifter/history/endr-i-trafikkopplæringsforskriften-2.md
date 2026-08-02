@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-trafikkopplæringsforskriften-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-trafikkopplæringsforskriften-2 — Change history
 
 _2 events; doc_id `sf-20260420-0621`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-registrering-av-verv-og-økonomiske-interesser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-registrering-av-verv-og-økonomiske-interesser — Change history
 
 _2 events; doc_id `nl-20121130-070`._

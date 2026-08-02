@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bruk-av-telegraf-og-telefon-til-forkynnelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bruk-av-telegraf-og-telefon-til-forkynnelser — Change history
 
 _2 events; doc_id `sf-19321210-0003`._

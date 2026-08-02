@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-anskaffelsesforskriften-mfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-anskaffelsesforskriften-mfl — Change history
 
 _4 events; doc_id `sf-20260414-0617`._

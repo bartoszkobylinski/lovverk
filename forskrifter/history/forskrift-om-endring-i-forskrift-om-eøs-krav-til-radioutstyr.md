@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-eøs-krav-til-radioutstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-eøs-krav-til-radioutstyr — Change history
 
 _2 events; doc_id `sf-20240417-0632`._

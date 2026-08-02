@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-norges-idrettshøgskole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-norges-idrettshøgskole — Change history
 
 _2 events; doc_id `sf-20251113-2636`._

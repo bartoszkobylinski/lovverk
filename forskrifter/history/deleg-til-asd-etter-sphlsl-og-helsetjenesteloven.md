@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-asd-etter-sphlsl-og-helsetjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-asd-etter-sphlsl-og-helsetjenesteloven — Change history
 
 _1 events; doc_id `sf-20140314-0271`._

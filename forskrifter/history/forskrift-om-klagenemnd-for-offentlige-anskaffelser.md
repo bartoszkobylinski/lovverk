@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-klagenemnd-for-offentlige-anskaffelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klagenemnd-for-offentlige-anskaffelser — Change history
 
 _2 events; doc_id `sf-20021115-1288`._

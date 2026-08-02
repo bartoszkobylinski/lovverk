@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20120525-0463`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "isbjørnloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # isbjørnloven — Change history
 
 _2 events; doc_id `nl-19570322-004`._

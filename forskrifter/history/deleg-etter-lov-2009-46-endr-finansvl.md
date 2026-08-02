@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-2009-46-endr-finansvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-2009-46-endr-finansvl — Change history
 
 _1 events; doc_id `sf-20090619-0678`._

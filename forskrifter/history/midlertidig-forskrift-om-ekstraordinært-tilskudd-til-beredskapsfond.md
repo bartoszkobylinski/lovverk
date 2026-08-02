@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-ekstraordinært-tilskudd-til-beredskapsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-ekstraordinært-tilskudd-til-beredskapsfond — Change history
 
 _2 events; doc_id `sf-20250624-1284`._

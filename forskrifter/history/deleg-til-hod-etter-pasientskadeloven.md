@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-hod-etter-pasientskadeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-hod-etter-pasientskadeloven — Change history
 
 _1 events; doc_id `sf-20090515-0513`._

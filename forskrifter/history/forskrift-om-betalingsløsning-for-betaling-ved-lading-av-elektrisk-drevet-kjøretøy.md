@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-betalingsløsning-for-betaling-ved-lading-av-elektrisk-drevet-kjøretøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-betalingsløsning-for-betaling-ved-lading-av-elektrisk-drevet-kjøretøy — Change history
 
 _2 events; doc_id `sf-20230626-1152`._

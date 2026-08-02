@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-utvidelse-av-virkeområde-for-forskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-utvidelse-av-virkeområde-for-forskrift — Change history
 
 _2 events; doc_id `sf-20060303-0394`._

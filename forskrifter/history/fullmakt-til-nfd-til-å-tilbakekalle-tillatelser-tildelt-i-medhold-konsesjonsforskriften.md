@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fullmakt-til-nfd-til-å-tilbakekalle-tillatelser-tildelt-i-medhold-konsesjonsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fullmakt-til-nfd-til-å-tilbakekalle-tillatelser-tildelt-i-medhold-konsesjonsforskriften — Change history
 
 _1 events; doc_id `sf-20170310-0292`._

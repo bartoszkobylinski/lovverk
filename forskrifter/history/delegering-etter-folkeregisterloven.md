@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-folkeregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-folkeregisterloven — Change history
 
 _1 events; doc_id `sf-19920515-0322`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-med-fartøy-som-fører-islandsk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-med-fartøy-som-fører-islandsk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026 — Change history
 
 _1 events; doc_id `sf-20260629-1443`._

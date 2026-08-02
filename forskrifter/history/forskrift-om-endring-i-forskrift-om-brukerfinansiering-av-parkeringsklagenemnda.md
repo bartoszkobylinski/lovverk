@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-brukerfinansiering-av-parkeringsklagenemnda"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-brukerfinansiering-av-parkeringsklagenemnda — Change history
 
 _2 events; doc_id `sf-20251121-2400`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven — Change history
 
 _2 events; doc_id `sf-20251113-2263`._

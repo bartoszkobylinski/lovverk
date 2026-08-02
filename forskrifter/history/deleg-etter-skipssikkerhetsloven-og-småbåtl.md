@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-skipssikkerhetsloven-og-småbåtl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-skipssikkerhetsloven-og-småbåtl — Change history
 
 _1 events; doc_id `sf-20071123-1289`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-konkurransekjøring-med-motorvogn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-konkurransekjøring-med-motorvogn — Change history
 
 _2 events; doc_id `sf-20110407-0395`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deltakerforskriften-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deltakerforskriften-2025 — Change history
 
 _2 events; doc_id `sf-20241219-3322`._

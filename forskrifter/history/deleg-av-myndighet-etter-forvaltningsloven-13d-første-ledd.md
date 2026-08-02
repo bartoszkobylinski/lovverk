@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-forvaltningsloven-13d-første-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-forvaltningsloven-13d-første-ledd — Change history
 
 _1 events; doc_id `sf-20151026-1224`._

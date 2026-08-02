@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiske-og-fangst-i-andre-staters-farvann"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiske-og-fangst-i-andre-staters-farvann — Change history
 
 _2 events; doc_id `sf-20160725-0943`._

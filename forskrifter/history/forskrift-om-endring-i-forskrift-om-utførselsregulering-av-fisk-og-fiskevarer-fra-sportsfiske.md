@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-utførselsregulering-av-fisk-og-fiskevarer-fra-sportsfiske"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-utførselsregulering-av-fisk-og-fiskevarer-fra-sportsfiske — Change history
 
 _2 events; doc_id `sf-20250702-1401`._

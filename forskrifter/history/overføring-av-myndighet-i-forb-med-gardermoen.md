@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-i-forb-med-gardermoen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-i-forb-med-gardermoen — Change history
 
 _1 events; doc_id `sf-19921023-0768`._

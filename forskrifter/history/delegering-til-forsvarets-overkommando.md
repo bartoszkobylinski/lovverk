@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-forsvarets-overkommando"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-forsvarets-overkommando — Change history
 
 _1 events; doc_id `sf-20021204-1634`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-førerkortforskriften-og-trafikkopplæringsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-førerkortforskriften-og-trafikkopplæringsforskriften — Change history
 
 _2 events; doc_id `sf-20260415-0596`._

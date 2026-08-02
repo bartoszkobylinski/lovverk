@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-luftfartsloven-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-luftfartsloven-m-v — Change history
 
 _1 events; doc_id `sf-19901109-0888`._

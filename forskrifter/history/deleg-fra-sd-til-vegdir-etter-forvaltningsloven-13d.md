@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-fra-sd-til-vegdir-etter-forvaltningsloven-13d"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-fra-sd-til-vegdir-etter-forvaltningsloven-13d — Change history
 
 _1 events; doc_id `sf-20141126-1462`._

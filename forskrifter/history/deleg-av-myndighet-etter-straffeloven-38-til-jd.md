@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-straffeloven-38-til-jd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-straffeloven-38-til-jd — Change history
 
 _1 events; doc_id `sf-20171020-1651`._

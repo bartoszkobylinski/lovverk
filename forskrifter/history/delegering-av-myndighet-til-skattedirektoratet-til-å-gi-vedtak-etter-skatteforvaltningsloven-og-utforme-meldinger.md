@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-skattedirektoratet-til-å-gi-vedtak-etter-skatteforvaltningsloven-og-utforme-meldinger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-skattedirektoratet-til-å-gi-vedtak-etter-skatteforvaltningsloven-og-utforme-meldinger — Change history
 
 _1 events; doc_id `sf-20231220-2226`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-forskrift-om-tilsynsavgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-forskrift-om-tilsynsavgift — Change history
 
 _1 events; doc_id `sf-20000519-0531`._

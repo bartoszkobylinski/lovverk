@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-vareførselsforskriften-6"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-vareførselsforskriften-6 — Change history
 
 _5 events; doc_id `sf-20260505-0749`._

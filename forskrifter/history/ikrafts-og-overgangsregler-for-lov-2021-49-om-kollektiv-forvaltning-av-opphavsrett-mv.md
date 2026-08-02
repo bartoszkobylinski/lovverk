@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-og-overgangsregler-for-lov-2021-49-om-kollektiv-forvaltning-av-opphavsrett-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-og-overgangsregler-for-lov-2021-49-om-kollektiv-forvaltning-av-opphavsrett-mv — Change history
 
 _1 events; doc_id `sf-20210528-1685`._

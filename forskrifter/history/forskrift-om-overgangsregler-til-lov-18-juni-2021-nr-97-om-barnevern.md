@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-18-juni-2021-nr-97-om-barnevern"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-18-juni-2021-nr-97-om-barnevern — Change history
 
 _2 events; doc_id `sf-20221215-2264`._

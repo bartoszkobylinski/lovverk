@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-frivillig-rusmiddelforebyggende-og-spillavhengighetsforebyggende-innsats"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-frivillig-rusmiddelforebyggende-og-spillavhengighetsforebyggende-innsats — Change history
 
 _2 events; doc_id `sf-20190116-0029`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ed-etter-lov-om-elsertifikater"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ed-etter-lov-om-elsertifikater — Change history
 
 _1 events; doc_id `sf-20111216-1245`._

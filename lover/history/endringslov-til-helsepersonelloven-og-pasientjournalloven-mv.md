@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-helsepersonelloven-og-pasientjournalloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-helsepersonelloven-og-pasientjournalloven-mv — Change history
 
 _2 events; doc_id `nl-20260123-001`._

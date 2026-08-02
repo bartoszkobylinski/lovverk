@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-landbruksdir-om-skogfond-etter-skogbrukslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-landbruksdir-om-skogfond-etter-skogbrukslova — Change history
 
 _1 events; doc_id `sf-20130402-0334`._

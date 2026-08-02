@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingsvedtak-om-fastsetting-av-finansskatt-på-lønn-for-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingsvedtak-om-fastsetting-av-finansskatt-på-lønn-for-2025 — Change history
 
 _1 events; doc_id `sf-20241213-3205`._

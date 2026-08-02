@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-lov-om-dyrevelferd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-lov-om-dyrevelferd — Change history
 
 _2 events; doc_id `nl-20260313-009`._

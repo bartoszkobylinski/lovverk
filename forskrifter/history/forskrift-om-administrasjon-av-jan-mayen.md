@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-administrasjon-av-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-administrasjon-av-jan-mayen — Change history
 
 _2 events; doc_id `sf-19801121-0012`._

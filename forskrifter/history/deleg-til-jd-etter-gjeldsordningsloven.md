@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-jd-etter-gjeldsordningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-jd-etter-gjeldsordningsloven — Change history
 
 _1 events; doc_id `sf-20140514-0641`._

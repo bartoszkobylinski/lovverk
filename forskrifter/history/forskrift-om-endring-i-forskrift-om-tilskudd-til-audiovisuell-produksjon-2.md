@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-tilskudd-til-audiovisuell-produksjon-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-tilskudd-til-audiovisuell-produksjon-2 — Change history
 
 _2 events; doc_id `sf-20260126-0086`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026 — Change history
 
 _1 events; doc_id `sf-20260602-0977`._

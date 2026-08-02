@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-tvisteloven-22-3-annet-og-tredje-ledd-til-politidirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-tvisteloven-22-3-annet-og-tredje-ledd-til-politidirektoratet — Change history
 
 _1 events; doc_id `sf-20190307-0192`._

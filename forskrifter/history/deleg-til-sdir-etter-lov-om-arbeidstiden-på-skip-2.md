@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sdir-etter-lov-om-arbeidstiden-på-skip-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sdir-etter-lov-om-arbeidstiden-på-skip-2 — Change history
 
 _1 events; doc_id `sf-19880328-4320`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-skattefordeling-mellom-skattekreditorene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-skattefordeling-mellom-skattekreditorene — Change history
 
 _2 events; doc_id `sf-20251210-2488`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sd-etter-veglova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sd-etter-veglova — Change history
 
 _1 events; doc_id `sf-20111028-1052`._

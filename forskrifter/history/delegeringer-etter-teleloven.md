@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegeringer-etter-teleloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegeringer-etter-teleloven — Change history
 
 _1 events; doc_id `sf-20000929-0971`._

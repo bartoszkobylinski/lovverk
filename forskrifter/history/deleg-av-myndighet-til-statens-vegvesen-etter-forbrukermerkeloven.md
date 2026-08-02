@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-statens-vegvesen-etter-forbrukermerkeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-statens-vegvesen-etter-forbrukermerkeloven — Change history
 
 _1 events; doc_id `sf-20200429-0893`._

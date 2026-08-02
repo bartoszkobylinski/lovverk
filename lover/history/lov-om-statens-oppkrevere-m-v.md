@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-statens-oppkrevere-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-statens-oppkrevere-m-v — Change history
 
 _2 events; doc_id `nl-19580328-004`._

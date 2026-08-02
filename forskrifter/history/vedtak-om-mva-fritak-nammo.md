@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-nammo"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-nammo — Change history
 
 _1 events; doc_id `sf-20100827-1219`._

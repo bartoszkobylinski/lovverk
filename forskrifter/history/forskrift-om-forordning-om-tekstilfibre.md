@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forordning-om-tekstilfibre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forordning-om-tekstilfibre — Change history
 
 _2 events; doc_id `sf-20121025-0990`._

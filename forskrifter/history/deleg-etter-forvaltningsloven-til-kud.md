@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-forvaltningsloven-til-kud"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-forvaltningsloven-til-kud — Change history
 
 _1 events; doc_id `sf-20130524-0519`._

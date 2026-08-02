@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-forvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-forvaltningsloven — Change history
 
 _1 events; doc_id `sf-19981002-0927`._

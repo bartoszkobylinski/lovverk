@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-livsoppholdssatser-ved-utleggstrekk-og-gjeldsordning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-livsoppholdssatser-ved-utleggstrekk-og-gjeldsordning — Change history
 
 _1 events; doc_id `sf-20260624-1259`._

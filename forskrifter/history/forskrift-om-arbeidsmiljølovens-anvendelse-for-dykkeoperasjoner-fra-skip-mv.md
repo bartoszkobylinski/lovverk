@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsmiljølovens-anvendelse-for-dykkeoperasjoner-fra-skip-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsmiljølovens-anvendelse-for-dykkeoperasjoner-fra-skip-mv — Change history
 
 _2 events; doc_id `sf-20240411-0607`._

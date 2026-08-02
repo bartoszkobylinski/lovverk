@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-melding-fra-lege-psykolog-eller-optiker-ved-helsesvekkelse-av-betydning-for-trafikksikkerheten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-melding-fra-lege-psykolog-eller-optiker-ved-helsesvekkelse-av-betydning-for-trafikksikkerheten — Change history
 
 _2 events; doc_id `sf-20220304-0325`._

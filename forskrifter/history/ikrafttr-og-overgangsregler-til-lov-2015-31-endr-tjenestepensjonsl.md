@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-og-overgangsregler-til-lov-2015-31-endr-tjenestepensjonsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-og-overgangsregler-til-lov-2015-31-endr-tjenestepensjonsl — Change history
 
 _1 events; doc_id `sf-20151215-1480`._

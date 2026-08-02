@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "unntak-fra-og-deleg-etter-likestillingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # unntak-fra-og-deleg-etter-likestillingsloven — Change history
 
 _1 events; doc_id `sf-19790309-0001`._

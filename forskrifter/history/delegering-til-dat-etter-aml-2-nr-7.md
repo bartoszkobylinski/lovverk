@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-dat-etter-aml-2-nr-7"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-dat-etter-aml-2-nr-7 — Change history
 
 _1 events; doc_id `sf-20030626-0886`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-ikrafts-av-og-deleg-etter-hanndyrloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-ikrafts-av-og-deleg-etter-hanndyrloven — Change history
 
 _1 events; doc_id `sf-19700506-0004`._

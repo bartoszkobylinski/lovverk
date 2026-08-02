@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-unntak-i-samordningsberegningen-for-inntekt-som-stammer-fra-tjeneste-i-forbindelse-med-covid-19"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-unntak-i-samordningsberegningen-for-inntekt-som-stammer-fra-tjeneste-i-forbindelse-med-covid-19 — Change history
 
 _2 events; doc_id `sf-20201204-2590`._

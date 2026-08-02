@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-straffeprosessloven-184b-tredje-ledd-til-justis-og-beredskapsdepartementet-for-så-vidt-gjelder-fastsettelse-av-forskrifter-om-kriminalomsorgens-gjennomføring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-straffeprosessloven-184b-tredje-ledd-til-justis-og-beredskapsdepartementet-for-så-vidt-gjelder-fastsettelse-av-forskrifter-om-kriminalomsorgens-gjennomføring — Change history
 
 _1 events; doc_id `sf-20250515-0803`._

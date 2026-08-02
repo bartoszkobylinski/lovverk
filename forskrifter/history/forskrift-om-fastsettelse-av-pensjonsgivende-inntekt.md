@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fastsettelse-av-pensjonsgivende-inntekt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fastsettelse-av-pensjonsgivende-inntekt — Change history
 
 _2 events; doc_id `sf-20170213-0179`._

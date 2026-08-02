@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fredning-av-sibirstjerne"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fredning-av-sibirstjerne — Change history
 
 _2 events; doc_id `sf-19811002-8783`._

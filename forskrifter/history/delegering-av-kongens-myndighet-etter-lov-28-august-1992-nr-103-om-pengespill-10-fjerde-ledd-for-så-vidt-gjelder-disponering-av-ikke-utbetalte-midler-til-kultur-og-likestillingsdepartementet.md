@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-28-august-1992-nr-103-om-pengespill-10-fjerde-ledd-for-så-vidt-gjelder-disponering-av-ikke-utbetalte-midler-til-kultur-og-likestillingsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-28-august-1992-nr-103-om-pengespill-10-fjerde-ledd-for-så-vidt-gjelder-disponering-av-ikke-utbetalte-midler-til-kultur-og-likestillingsdepartementet — Change history
 
 _1 events; doc_id `sf-20221220-2297`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-endring-i-forskrift-om-patentavg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endring-i-forskrift-om-patentavg — Change history
 
 _1 events; doc_id `sf-20050512-0420`._

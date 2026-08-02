@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-saksbehandling-ved-barnehageopptak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-saksbehandling-ved-barnehageopptak — Change history
 
 _2 events; doc_id `sf-20051216-1477`._

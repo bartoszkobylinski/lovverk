@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "avvikling-av-nasjonalt-råd-for-spesialistutdanning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # avvikling-av-nasjonalt-råd-for-spesialistutdanning — Change history
 
 _1 events; doc_id `sf-20130614-0650`._

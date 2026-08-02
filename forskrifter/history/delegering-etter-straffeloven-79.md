@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-straffeloven-79"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-straffeloven-79 — Change history
 
 _1 events; doc_id `sf-19941201-1066`._

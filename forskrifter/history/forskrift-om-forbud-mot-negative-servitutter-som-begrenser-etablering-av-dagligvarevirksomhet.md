@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-negative-servitutter-som-begrenser-etablering-av-dagligvarevirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-negative-servitutter-som-begrenser-etablering-av-dagligvarevirksomhet — Change history
 
 _2 events; doc_id `sf-20231211-2037`._

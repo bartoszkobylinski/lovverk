@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-forskrift-om-engangsavgift-på-motorvogner-til-innkrevingsmyndigheten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-forskrift-om-engangsavgift-på-motorvogner-til-innkrevingsmyndigheten — Change history
 
 _1 events; doc_id `sf-20260114-0033`._

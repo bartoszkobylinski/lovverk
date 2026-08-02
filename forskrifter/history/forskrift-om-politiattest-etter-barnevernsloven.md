@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-politiattest-etter-barnevernsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-politiattest-etter-barnevernsloven — Change history
 
 _2 events; doc_id `sf-20221220-2359`._

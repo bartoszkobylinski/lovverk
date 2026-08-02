@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-fiskeoppdrettsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-fiskeoppdrettsloven — Change history
 
 _1 events; doc_id `sf-20050902-0962`._

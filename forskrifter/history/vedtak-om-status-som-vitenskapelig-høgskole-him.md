@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-status-som-vitenskapelig-høgskole-him"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-status-som-vitenskapelig-høgskole-him — Change history
 
 _1 events; doc_id `sf-20091120-1428`._

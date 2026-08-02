@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-implementering-av-rådsforordning-2020-699-av-25-mai-2020-om-midlertidige-tiltak-med-hensyn-til-generalforsamlinger-i-europeiske-allmennaksjeselskaper-og-europeiske-samvirkeforetak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-implementering-av-rådsforordning-2020-699-av-25-mai-2020-om-midlertidige-tiltak-med-hensyn-til-generalforsamlinger-i-europeiske-allmennaksjeselskaper-og-europeiske-samvirkeforetak — Change history
 
 _2 events; doc_id `sf-20230502-0645`._

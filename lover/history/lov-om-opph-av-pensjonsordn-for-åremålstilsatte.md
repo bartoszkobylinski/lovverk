@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-opph-av-pensjonsordn-for-åremålstilsatte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-opph-av-pensjonsordn-for-åremålstilsatte — Change history
 
 _2 events; doc_id `nl-19820521-029`._

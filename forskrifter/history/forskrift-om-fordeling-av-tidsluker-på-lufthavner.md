@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fordeling-av-tidsluker-på-lufthavner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fordeling-av-tidsluker-på-lufthavner — Change history
 
 _2 events; doc_id `sf-20240305-0385`._

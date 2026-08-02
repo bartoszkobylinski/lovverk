@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-dvergålegras-som-prioritert-art"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-dvergålegras-som-prioritert-art — Change history
 
 _2 events; doc_id `sf-20150522-0546`._

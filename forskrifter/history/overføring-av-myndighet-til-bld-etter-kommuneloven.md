@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-til-bld-etter-kommuneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-til-bld-etter-kommuneloven — Change history
 
 _1 events; doc_id `sf-20091120-1386`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "statutter-for-krigskorset"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # statutter-for-krigskorset — Change history
 
 _1 events; doc_id `sf-19410523-0001`._

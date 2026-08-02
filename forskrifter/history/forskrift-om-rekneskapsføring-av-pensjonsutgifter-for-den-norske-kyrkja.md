@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rekneskapsføring-av-pensjonsutgifter-for-den-norske-kyrkja"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rekneskapsføring-av-pensjonsutgifter-for-den-norske-kyrkja — Change history
 
 _2 events; doc_id `sf-20210119-0193`._

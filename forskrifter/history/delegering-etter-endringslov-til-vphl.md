@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-endringslov-til-vphl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-endringslov-til-vphl — Change history
 
 _1 events; doc_id `sf-19990521-0500`._

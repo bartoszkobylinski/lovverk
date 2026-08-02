@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-barneombudet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-barneombudet — Change history
 
 _1 events; doc_id `sf-19810911-4877`._

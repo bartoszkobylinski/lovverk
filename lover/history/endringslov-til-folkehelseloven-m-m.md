@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-folkehelseloven-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-folkehelseloven-m-m — Change history
 
 _2 events; doc_id `nl-20250620-069`._

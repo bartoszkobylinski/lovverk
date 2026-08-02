@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lønns-og-arbeidsvilkår-i-offentlige-kontrakter-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lønns-og-arbeidsvilkår-i-offentlige-kontrakter-mv — Change history
 
 _2 events; doc_id `sf-20080208-0112`._

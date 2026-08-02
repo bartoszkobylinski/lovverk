@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opplysningsplikt-til-lønnsstatistikken"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opplysningsplikt-til-lønnsstatistikken — Change history
 
 _2 events; doc_id `sf-20201214-2753`._

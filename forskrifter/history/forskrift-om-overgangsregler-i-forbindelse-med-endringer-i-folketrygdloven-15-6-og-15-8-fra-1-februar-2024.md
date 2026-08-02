@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-15-6-og-15-8-fra-1-februar-2024"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-15-6-og-15-8-fra-1-februar-2024 — Change history
 
 _2 events; doc_id `sf-20240126-0123`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-finnmarkskomm-og-utmarksdomstolen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-finnmarkskomm-og-utmarksdomstolen — Change history
 
 _2 events; doc_id `sf-20070316-0277`._

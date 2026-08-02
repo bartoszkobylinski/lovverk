@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-2007-80-endr-patentl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-2007-80-endr-patentl — Change history
 
 _2 events; doc_id `sf-20071214-1416`._

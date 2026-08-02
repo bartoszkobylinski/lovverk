@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "innlandsfiskeforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # innlandsfiskeforskriften — Change history
 
 _2 events; doc_id `sf-20090626-0851`._

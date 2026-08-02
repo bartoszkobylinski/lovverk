@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-politiattest-iht-arbeidsmarkedsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-politiattest-iht-arbeidsmarkedsloven — Change history
 
 _2 events; doc_id `sf-20120323-0248`._

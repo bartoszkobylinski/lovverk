@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-landbruksdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-landbruksdepartementet — Change history
 
 _1 events; doc_id `sf-19961206-1125`._

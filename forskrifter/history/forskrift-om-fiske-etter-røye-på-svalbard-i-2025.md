@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiske-etter-røye-på-svalbard-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiske-etter-røye-på-svalbard-i-2025 — Change history
 
 _2 events; doc_id `sf-20250113-0025`._

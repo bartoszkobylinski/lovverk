@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delv-ikrafttr-lov-2002-64-verdipapirregister"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delv-ikrafttr-lov-2002-64-verdipapirregister — Change history
 
 _1 events; doc_id `sf-20021218-1612`._

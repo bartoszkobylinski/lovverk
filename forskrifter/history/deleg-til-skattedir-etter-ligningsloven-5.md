@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-skattedir-etter-ligningsloven-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-skattedir-etter-ligningsloven-5 — Change history
 
 _1 events; doc_id `sf-20100430-0622`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fkd-etter-saltvannsfiskeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fkd-etter-saltvannsfiskeloven — Change history
 
 _1 events; doc_id `sf-20041217-1678`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deponeringslova-depl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deponeringslova-depl — Change history
 
 _2 events; doc_id `nl-19390217-002`._

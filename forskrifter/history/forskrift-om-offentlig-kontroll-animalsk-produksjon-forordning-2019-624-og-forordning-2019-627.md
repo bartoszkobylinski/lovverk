@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627 — Change history
 
 _4 events; doc_id `sf-20200309-0720`._

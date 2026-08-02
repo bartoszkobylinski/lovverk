@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-ligningsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-ligningsloven-2 — Change history
 
 _1 events; doc_id `sf-19941128-1064`._

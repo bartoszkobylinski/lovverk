@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-kystverkets-produksjonsvirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-kystverkets-produksjonsvirksomhet — Change history
 
 _2 events; doc_id `nl-20041217-090`._

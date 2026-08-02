@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-av-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-av-myndighet — Change history
 
 _1 events; doc_id `sf-19820423-0777`._

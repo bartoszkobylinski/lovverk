@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utpeking-av-tilsynsmyndighet-etter-sivilbeskyttelseslov"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utpeking-av-tilsynsmyndighet-etter-sivilbeskyttelseslov — Change history
 
 _1 events; doc_id `sf-20120416-0329`._

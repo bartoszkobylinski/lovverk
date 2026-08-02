@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ansvaret-for-samfunnssikkerhet-i-sivil-sektor-på-nasjonalt-nivå-og-justis-og-beredskapsdepartementets-samordningsrolle-innen-samfunnssikkerhet-og-ikt-sikkerhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ansvaret-for-samfunnssikkerhet-i-sivil-sektor-på-nasjonalt-nivå-og-justis-og-beredskapsdepartementets-samordningsrolle-innen-samfunnssikkerhet-og-ikt-sikkerhet — Change history
 
 _1 events; doc_id `sf-20170310-0312`._

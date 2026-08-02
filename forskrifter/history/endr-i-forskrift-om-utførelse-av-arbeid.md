@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-forskrift-om-utførelse-av-arbeid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-forskrift-om-utførelse-av-arbeid — Change history
 
 _2 events; doc_id `sf-20251216-2615`._

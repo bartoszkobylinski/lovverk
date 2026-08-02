@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lmd-etter-svensk-norsk-beitelov"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lmd-etter-svensk-norsk-beitelov — Change history
 
 _1 events; doc_id `sf-20050617-0679`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fd-ifm-nytt-styrkeoppbyggingssystem"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fd-ifm-nytt-styrkeoppbyggingssystem — Change history
 
 _1 events; doc_id `sf-20051209-1438`._

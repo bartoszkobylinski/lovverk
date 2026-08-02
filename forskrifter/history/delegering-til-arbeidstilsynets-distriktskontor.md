@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-arbeidstilsynets-distriktskontor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-arbeidstilsynets-distriktskontor — Change history
 
 _1 events; doc_id `sf-19950622-0674`._

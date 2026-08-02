@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-2003-93-endr-i-tingl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-2003-93-endr-i-tingl — Change history
 
 _1 events; doc_id `sf-20030912-1137`._

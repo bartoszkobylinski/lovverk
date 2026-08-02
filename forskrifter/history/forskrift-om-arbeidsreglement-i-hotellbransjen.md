@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsreglement-i-hotellbransjen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsreglement-i-hotellbransjen — Change history
 
 _2 events; doc_id `sf-19911031-1014`._

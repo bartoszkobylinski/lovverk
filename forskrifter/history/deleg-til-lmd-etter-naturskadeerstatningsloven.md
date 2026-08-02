@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lmd-etter-naturskadeerstatningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lmd-etter-naturskadeerstatningsloven — Change history
 
 _1 events; doc_id `sf-20140815-1085`._

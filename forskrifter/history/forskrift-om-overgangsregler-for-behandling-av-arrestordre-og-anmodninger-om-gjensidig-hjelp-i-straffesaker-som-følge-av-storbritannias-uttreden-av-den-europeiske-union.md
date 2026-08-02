@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-for-behandling-av-arrestordre-og-anmodninger-om-gjensidig-hjelp-i-straffesaker-som-følge-av-storbritannias-uttreden-av-den-europeiske-union"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-for-behandling-av-arrestordre-og-anmodninger-om-gjensidig-hjelp-i-straffesaker-som-følge-av-storbritannias-uttreden-av-den-europeiske-union — Change history
 
 _2 events; doc_id `sf-20201218-2868`._

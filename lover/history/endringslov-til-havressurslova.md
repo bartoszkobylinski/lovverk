@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-havressurslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-havressurslova — Change history
 
 _2 events; doc_id `nl-20250606-029`._

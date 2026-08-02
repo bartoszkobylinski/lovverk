@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-økt-beregningsgrunnlag-for-uføretrygdede"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-økt-beregningsgrunnlag-for-uføretrygdede — Change history
 
 _2 events; doc_id `sf-20160526-0529`._

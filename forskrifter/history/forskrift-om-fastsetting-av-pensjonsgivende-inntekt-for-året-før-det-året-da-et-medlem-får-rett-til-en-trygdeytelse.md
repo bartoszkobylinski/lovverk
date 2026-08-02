@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fastsetting-av-pensjonsgivende-inntekt-for-året-før-det-året-da-et-medlem-får-rett-til-en-trygdeytelse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fastsetting-av-pensjonsgivende-inntekt-for-året-før-det-året-da-et-medlem-får-rett-til-en-trygdeytelse — Change history
 
 _2 events; doc_id `sf-19970311-0202`._

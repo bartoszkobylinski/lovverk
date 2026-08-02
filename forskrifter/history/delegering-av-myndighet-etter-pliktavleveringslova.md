@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-pliktavleveringslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-pliktavleveringslova — Change history
 
 _1 events; doc_id `sf-20180622-0962`._

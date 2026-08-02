@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-klagenemnd-for-erstatning-til-jøder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-klagenemnd-for-erstatning-til-jøder — Change history
 
 _2 events; doc_id `sf-19990806-0885`._

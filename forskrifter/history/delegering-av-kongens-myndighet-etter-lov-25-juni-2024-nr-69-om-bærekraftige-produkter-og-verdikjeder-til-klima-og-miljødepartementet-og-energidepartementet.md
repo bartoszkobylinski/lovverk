@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-25-juni-2024-nr-69-om-bærekraftige-produkter-og-verdikjeder-til-klima-og-miljødepartementet-og-energidepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-25-juni-2024-nr-69-om-bærekraftige-produkter-og-verdikjeder-til-klima-og-miljødepartementet-og-energidepartementet — Change history
 
 _1 events; doc_id `sf-20241220-3500`._

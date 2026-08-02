@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt — Change history
 
 _2 events; doc_id `sf-20250924-1915`._

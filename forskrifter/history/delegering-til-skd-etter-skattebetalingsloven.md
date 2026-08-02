@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-skd-etter-skattebetalingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-skd-etter-skattebetalingsloven — Change history
 
 _1 events; doc_id `sf-19881031-4275`._

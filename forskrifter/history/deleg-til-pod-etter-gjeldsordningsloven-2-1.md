@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-pod-etter-gjeldsordningsloven-2-1"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-pod-etter-gjeldsordningsloven-2-1 — Change history
 
 _1 events; doc_id `sf-20141104-1430`._

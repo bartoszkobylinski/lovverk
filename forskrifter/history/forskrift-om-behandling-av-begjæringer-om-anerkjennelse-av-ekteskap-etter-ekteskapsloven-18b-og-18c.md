@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-begjæringer-om-anerkjennelse-av-ekteskap-etter-ekteskapsloven-18b-og-18c"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-begjæringer-om-anerkjennelse-av-ekteskap-etter-ekteskapsloven-18b-og-18c — Change history
 
 _2 events; doc_id `sf-20241220-3300`._

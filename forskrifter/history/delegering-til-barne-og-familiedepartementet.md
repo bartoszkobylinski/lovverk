@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-19951222-1036`._

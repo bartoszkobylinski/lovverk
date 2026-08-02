@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndigheit-til-direktoratet-for-eksportkontroll-og-sanksjoner-etter-lov-om-kontroll-med-eksport-av-strategiske-varer-tjenester-og-teknologi-m-v-1-første-og-andre-ledd-2-3-4-og-7"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndigheit-til-direktoratet-for-eksportkontroll-og-sanksjoner-etter-lov-om-kontroll-med-eksport-av-strategiske-varer-tjenester-og-teknologi-m-v-1-første-og-andre-ledd-2-3-4-og-7 — Change history
 
 _1 events; doc_id `sf-20241126-2874`._

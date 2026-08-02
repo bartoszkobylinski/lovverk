@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-13b"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-13b — Change history
 
 _1 events; doc_id `sf-20181221-2245`._

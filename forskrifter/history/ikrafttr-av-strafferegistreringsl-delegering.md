@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-strafferegistreringsl-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-strafferegistreringsl-delegering — Change history
 
 _1 events; doc_id `sf-19741220-0003`._

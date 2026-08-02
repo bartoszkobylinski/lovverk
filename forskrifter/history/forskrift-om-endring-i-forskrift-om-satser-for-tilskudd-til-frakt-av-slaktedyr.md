@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-satser-for-tilskudd-til-frakt-av-slaktedyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-satser-for-tilskudd-til-frakt-av-slaktedyr — Change history
 
 _2 events; doc_id `sf-20251210-2489`._

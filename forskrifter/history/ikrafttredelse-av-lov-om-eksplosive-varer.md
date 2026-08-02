@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-lov-om-eksplosive-varer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-lov-om-eksplosive-varer — Change history
 
 _1 events; doc_id `sf-19770318-4194`._

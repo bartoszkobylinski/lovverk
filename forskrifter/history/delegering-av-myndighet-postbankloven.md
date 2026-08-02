@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-postbankloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-postbankloven — Change history
 
 _1 events; doc_id `sf-19941104-0986`._

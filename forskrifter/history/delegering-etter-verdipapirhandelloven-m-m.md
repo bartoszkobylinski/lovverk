@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-verdipapirhandelloven-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-verdipapirhandelloven-m-m — Change history
 
 _1 events; doc_id `sf-19911108-0725`._

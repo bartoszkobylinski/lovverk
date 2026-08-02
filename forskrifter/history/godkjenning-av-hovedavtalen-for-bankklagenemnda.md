@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "godkjenning-av-hovedavtalen-for-bankklagenemnda"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # godkjenning-av-hovedavtalen-for-bankklagenemnda — Change history
 
 _2 events; doc_id `sf-20000519-0442`._

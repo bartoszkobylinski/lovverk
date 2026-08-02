@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-kapittel-4-fra-1-januar-2023"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-kapittel-4-fra-1-januar-2023 — Change history
 
 _2 events; doc_id `sf-20221221-2456`._

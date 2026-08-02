@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-målekontorer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-målekontorer — Change history
 
 _1 events; doc_id `sf-20100527-0729`._

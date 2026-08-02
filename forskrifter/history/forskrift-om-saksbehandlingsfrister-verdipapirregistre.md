@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-saksbehandlingsfrister-verdipapirregistre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-saksbehandlingsfrister-verdipapirregistre — Change history
 
 _2 events; doc_id `sf-20161109-1306`._

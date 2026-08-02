@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fastsettelse-av-tariffer-mv-for-bestemte-innretninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fastsettelse-av-tariffer-mv-for-bestemte-innretninger — Change history
 
 _2 events; doc_id `sf-20251205-2450`._

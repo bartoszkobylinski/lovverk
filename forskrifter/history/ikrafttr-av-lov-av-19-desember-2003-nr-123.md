@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-av-19-desember-2003-nr-123"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-av-19-desember-2003-nr-123 — Change history
 
 _2 events; doc_id `sf-20031219-1791`._

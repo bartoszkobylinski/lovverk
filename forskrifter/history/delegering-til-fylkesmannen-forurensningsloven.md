@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fylkesmannen-forurensningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fylkesmannen-forurensningsloven — Change history
 
 _1 events; doc_id `sf-19890810-1428`._

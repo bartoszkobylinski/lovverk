@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-havenergilova-5-1-fra-arbeids-og-sosialdepartementet-til-petroleumstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-havenergilova-5-1-fra-arbeids-og-sosialdepartementet-til-petroleumstilsynet — Change history
 
 _1 events; doc_id `sf-20200817-1653`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-1997-12-aml-feriel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-1997-12-aml-feriel — Change history
 
 _1 events; doc_id `sf-19970117-0024`._

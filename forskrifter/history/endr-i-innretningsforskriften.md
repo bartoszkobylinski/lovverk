@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-innretningsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-innretningsforskriften — Change history
 
 _2 events; doc_id `sf-20251217-2643`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-utsettelse-av-skatteinnbetalinger-mv-for-å-avhjelpe-konsekvensene-av-covid-19-utbruddet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-utsettelse-av-skatteinnbetalinger-mv-for-å-avhjelpe-konsekvensene-av-covid-19-utbruddet — Change history
 
 _2 events; doc_id `sf-20250613-1004`._

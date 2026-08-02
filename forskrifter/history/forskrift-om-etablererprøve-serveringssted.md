@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-etablererprøve-serveringssted"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-etablererprøve-serveringssted — Change history
 
 _2 events; doc_id `sf-20000118-0046`._

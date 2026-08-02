@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-midlertidig-tilskudd-som-kompensasjon-for-co2-avgift-på-drivstoff-for-fiske-og-fangst"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midlertidig-tilskudd-som-kompensasjon-for-co2-avgift-på-drivstoff-for-fiske-og-fangst — Change history
 
 _2 events; doc_id `sf-20201217-2950`._

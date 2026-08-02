@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-helikopter-offshoreoperasjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-helikopter-offshoreoperasjoner — Change history
 
 _2 events; doc_id `sf-20180620-0923`._

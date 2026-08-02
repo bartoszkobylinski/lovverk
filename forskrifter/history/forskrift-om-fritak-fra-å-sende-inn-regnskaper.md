@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fritak-fra-å-sende-inn-regnskaper"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fritak-fra-å-sende-inn-regnskaper — Change history
 
 _2 events; doc_id `sf-19980507-0468`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-omsorgspoeng-barn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omsorgspoeng-barn — Change history
 
 _2 events; doc_id `sf-19970311-0203`._

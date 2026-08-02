@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-longyearbyen-lokalstyre-etter-svalbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-longyearbyen-lokalstyre-etter-svalbl — Change history
 
 _1 events; doc_id `sf-20021007-1145`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-kraftledningsregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-kraftledningsregisterloven — Change history
 
 _1 events; doc_id `sf-20010112-0025`._

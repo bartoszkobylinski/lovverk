@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-positivlisten-2021"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-positivlisten-2021 — Change history
 
 _2 events; doc_id `sf-20251211-2642`._

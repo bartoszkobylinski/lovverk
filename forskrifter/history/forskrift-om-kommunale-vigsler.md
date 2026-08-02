@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kommunale-vigsler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kommunale-vigsler — Change history
 
 _2 events; doc_id `sf-20170918-1421`._

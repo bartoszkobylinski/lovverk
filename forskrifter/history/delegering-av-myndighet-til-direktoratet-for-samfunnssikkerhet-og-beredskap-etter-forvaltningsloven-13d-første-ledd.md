@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-forvaltningsloven-13d-første-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-forvaltningsloven-13d-første-ledd — Change history
 
 _1 events; doc_id `sf-20230323-0426`._

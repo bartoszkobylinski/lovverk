@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-politidirektoratets-myndighet-til-å-utøve-statens-partsstilling-etter-tvisteloven-2-5-for-så-vidt-gjelder-adgangen-til-å-begjære-utlegg-og-annen-tvangsdekning-mv-til-politiets"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-politidirektoratets-myndighet-til-å-utøve-statens-partsstilling-etter-tvisteloven-2-5-for-så-vidt-gjelder-adgangen-til-å-begjære-utlegg-og-annen-tvangsdekning-mv-til-politiets — Change history
 
 _1 events; doc_id `sf-20220325-0468`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-statens-dyrehelsetilsyn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-statens-dyrehelsetilsyn — Change history
 
 _1 events; doc_id `sf-20010104-0171`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-stønad-til-dekning-av-utgifter-til-ortopediske-hjelpemidler-til-personer-som-har-blitt-medisinsk-evakuert-til-norge-gjennom-eus-ordning-for-sivil-beredskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stønad-til-dekning-av-utgifter-til-ortopediske-hjelpemidler-til-personer-som-har-blitt-medisinsk-evakuert-til-norge-gjennom-eus-ordning-for-sivil-beredskap — Change history
 
 _2 events; doc_id `sf-20240806-1876`._

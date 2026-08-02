@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "reglement-for-kontrollhøringer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # reglement-for-kontrollhøringer — Change history
 
 _1 events; doc_id `sf-20010611-4957`._

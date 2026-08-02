@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsregler-til-lov-2013-40-endr-aksjelovgivningen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsregler-til-lov-2013-40-endr-aksjelovgivningen — Change history
 
 _2 events; doc_id `sf-20130619-0662`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kommunene-etter-fiskeravgiftforskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kommunene-etter-fiskeravgiftforskrift — Change history
 
 _1 events; doc_id `sf-19960119-1469`._

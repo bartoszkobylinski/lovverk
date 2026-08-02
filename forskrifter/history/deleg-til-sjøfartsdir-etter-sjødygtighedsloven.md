@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sjøfartsdir-etter-sjødygtighedsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sjøfartsdir-etter-sjødygtighedsloven — Change history
 
 _1 events; doc_id `sf-20030620-1913`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-hod-etter-atomenergiloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-hod-etter-atomenergiloven — Change history
 
 _1 events; doc_id `sf-20000519-0444`._

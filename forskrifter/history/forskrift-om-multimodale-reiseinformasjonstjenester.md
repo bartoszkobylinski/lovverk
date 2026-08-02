@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-multimodale-reiseinformasjonstjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-multimodale-reiseinformasjonstjenester — Change history
 
 _2 events; doc_id `sf-20210319-0987`._

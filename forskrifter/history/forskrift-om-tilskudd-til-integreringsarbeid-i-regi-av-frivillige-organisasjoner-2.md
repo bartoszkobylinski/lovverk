@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-integreringsarbeid-i-regi-av-frivillige-organisasjoner-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-integreringsarbeid-i-regi-av-frivillige-organisasjoner-2 — Change history
 
 _2 events; doc_id `sf-20251130-2373`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2018-96-nr-96-endr-i-vegtrafikkloven-krav-til-co2-utslipp-og-samtykke-til-godkjenning-av-eøs-komiteens-beslutning-nr-109-2017-og-nr-111-2017"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2018-96-nr-96-endr-i-vegtrafikkloven-krav-til-co2-utslipp-og-samtykke-til-godkjenning-av-eøs-komiteens-beslutning-nr-109-2017-og-nr-111-2017 — Change history
 
 _1 events; doc_id `sf-20181214-1921`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-saksbehandling-ved-separasjon-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-saksbehandling-ved-separasjon-m-v — Change history
 
 _2 events; doc_id `sf-19921118-0981`._

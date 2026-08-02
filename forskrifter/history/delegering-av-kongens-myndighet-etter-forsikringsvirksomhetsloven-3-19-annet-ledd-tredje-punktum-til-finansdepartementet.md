@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-forsikringsvirksomhetsloven-3-19-annet-ledd-tredje-punktum-til-finansdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-forsikringsvirksomhetsloven-3-19-annet-ledd-tredje-punktum-til-finansdepartementet — Change history
 
 _1 events; doc_id `sf-20230616-0936`._

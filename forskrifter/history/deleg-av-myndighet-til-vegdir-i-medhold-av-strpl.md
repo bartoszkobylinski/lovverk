@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-vegdir-i-medhold-av-strpl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-vegdir-i-medhold-av-strpl — Change history
 
 _1 events; doc_id `sf-20170124-0227`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-regjeringens-myndighet-etter-grunnloven-53-bokstav-b-til-utenriksdepartementet-og-kommunal-og-moderniseringsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-regjeringens-myndighet-etter-grunnloven-53-bokstav-b-til-utenriksdepartementet-og-kommunal-og-moderniseringsdepartementet — Change history
 
 _1 events; doc_id `sf-20210917-2772`._

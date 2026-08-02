@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-dn-om-fiske-på-statens-grunn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-dn-om-fiske-på-statens-grunn — Change history
 
 _1 events; doc_id `sf-20070426-0474`._

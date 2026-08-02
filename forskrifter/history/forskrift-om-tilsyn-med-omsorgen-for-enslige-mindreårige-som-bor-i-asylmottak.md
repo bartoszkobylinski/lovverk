@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilsyn-med-omsorgen-for-enslige-mindreårige-som-bor-i-asylmottak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilsyn-med-omsorgen-for-enslige-mindreårige-som-bor-i-asylmottak — Change history
 
 _2 events; doc_id `sf-20220626-1193`._

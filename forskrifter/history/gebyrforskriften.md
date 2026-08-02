@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "gebyrforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # gebyrforskriften — Change history
 
 _2 events; doc_id `sf-20161206-1456`._

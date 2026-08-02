@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fastsetjing-og-endring-av-fostringstilskot"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fastsetjing-og-endring-av-fostringstilskot — Change history
 
 _1 events; doc_id `sf-20260605-1011`._

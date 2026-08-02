@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utgifter-til-helse-og-omsorgstjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utgifter-til-helse-og-omsorgstjenester — Change history
 
 _2 events; doc_id `sf-20111216-1348`._

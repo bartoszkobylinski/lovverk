@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-lov-25-juni-2010-nr-45-om-kommunal-beredskapsplikt-sivile-beskyttelsestiltak-og-sivilforsvaret-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-direktoratet-for-samfunnssikkerhet-og-beredskap-etter-lov-25-juni-2010-nr-45-om-kommunal-beredskapsplikt-sivile-beskyttelsestiltak-og-sivilforsvaret-2 — Change history
 
 _1 events; doc_id `sf-20220520-0876`._

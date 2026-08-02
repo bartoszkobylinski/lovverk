@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-øvre-rammer-for-overtredelsesgebyr-etter-naturmangfoldloven-74"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-øvre-rammer-for-overtredelsesgebyr-etter-naturmangfoldloven-74 — Change history
 
 _2 events; doc_id `sf-20201211-2726`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-bustøttelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-bustøttelova — Change history
 
 _2 events; doc_id `nl-20260619-056`._

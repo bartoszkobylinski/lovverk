@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-landbruksdepartem"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-landbruksdepartem — Change history
 
 _1 events; doc_id `sf-19960112-0018`._

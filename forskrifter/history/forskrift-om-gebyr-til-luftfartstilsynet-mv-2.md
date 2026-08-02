@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-til-luftfartstilsynet-mv-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-til-luftfartstilsynet-mv-2 — Change history
 
 _2 events; doc_id `sf-20260128-0125`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-sjøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-sjøloven — Change history
 
 _1 events; doc_id `sf-19721006-0002`._

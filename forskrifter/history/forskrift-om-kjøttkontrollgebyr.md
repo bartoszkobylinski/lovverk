@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kjøttkontrollgebyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kjøttkontrollgebyr — Change history
 
 _4 events; doc_id `sf-20051227-1726`._

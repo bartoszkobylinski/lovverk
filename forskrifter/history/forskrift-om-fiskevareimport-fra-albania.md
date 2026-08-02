@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fiskevareimport-fra-albania"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiskevareimport-fra-albania — Change history
 
 _2 events; doc_id `sf-20080205-0108`._

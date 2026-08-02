@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vigsel-evangelical-lutheran-church"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vigsel-evangelical-lutheran-church — Change history
 
 _2 events; doc_id `sf-19520508-0006`._

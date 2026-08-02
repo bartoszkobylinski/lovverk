@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-kjøretøyforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-kjøretøyforskriften — Change history
 
 _2 events; doc_id `sf-20260513-0855`._

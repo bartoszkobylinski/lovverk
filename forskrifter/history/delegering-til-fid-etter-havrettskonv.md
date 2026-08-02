@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fid-etter-havrettskonv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fid-etter-havrettskonv — Change history
 
 _1 events; doc_id `sf-19961213-1142`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-byggteknisk-forskrift-tek17"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-byggteknisk-forskrift-tek17 — Change history
 
 _1 events; doc_id `sf-20260612-1085`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-fortrolige-dokumenter-ved-domstolene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-fortrolige-dokumenter-ved-domstolene — Change history
 
 _2 events; doc_id `sf-20010706-0759`._

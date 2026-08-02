@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-alkohollovens-5-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-alkohollovens-5-3 — Change history
 
 _1 events; doc_id `sf-19941122-1057`._

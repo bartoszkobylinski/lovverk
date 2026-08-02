@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-finansdepartementets-myndighet-etter-folketrygdloven-3-15-fjerde-ledd-23-2-siste-ledd-og-24-5-første-og-annet-ledd-til-skattedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-finansdepartementets-myndighet-etter-folketrygdloven-3-15-fjerde-ledd-23-2-siste-ledd-og-24-5-første-og-annet-ledd-til-skattedirektoratet — Change history
 
 _1 events; doc_id `sf-20221209-2139`._

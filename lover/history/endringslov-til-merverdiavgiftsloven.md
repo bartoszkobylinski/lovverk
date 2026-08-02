@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-merverdiavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-merverdiavgiftsloven — Change history
 
 _4 events; doc_id `nl-20251222-121`._

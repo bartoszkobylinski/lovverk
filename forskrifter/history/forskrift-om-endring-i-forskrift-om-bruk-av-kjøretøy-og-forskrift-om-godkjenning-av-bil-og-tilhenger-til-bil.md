@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-forskrift-om-godkjenning-av-bil-og-tilhenger-til-bil"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-forskrift-om-godkjenning-av-bil-og-tilhenger-til-bil — Change history
 
 _2 events; doc_id `sf-20260223-0273`._

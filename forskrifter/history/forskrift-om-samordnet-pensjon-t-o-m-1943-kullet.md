@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-samordnet-pensjon-t-o-m-1943-kullet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordnet-pensjon-t-o-m-1943-kullet — Change history
 
 _2 events; doc_id `sf-20101012-1330`._

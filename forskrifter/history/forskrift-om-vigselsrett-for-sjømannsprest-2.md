@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vigselsrett-for-sjømannsprest-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vigselsrett-for-sjømannsprest-2 — Change history
 
 _1 events; doc_id `sf-19880323-0247`._

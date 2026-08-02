@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-komm-budsjett-og-regnskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-komm-budsjett-og-regnskap — Change history
 
 _2 events; doc_id `sf-19900301-0715`._

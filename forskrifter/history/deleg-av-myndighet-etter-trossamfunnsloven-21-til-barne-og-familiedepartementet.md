@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-trossamfunnsloven-21-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-trossamfunnsloven-21-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-20201218-2828`._

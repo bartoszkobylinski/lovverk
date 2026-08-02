@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-gjeldsordningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-gjeldsordningsloven — Change history
 
 _1 events; doc_id `sf-19921218-1075`._

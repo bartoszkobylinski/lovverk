@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-til-å-vedta-ikrafttredelse-av-lov-om-statlig-garantiordning-for-lån-til-små-og-mellomstore-bedrifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-til-å-vedta-ikrafttredelse-av-lov-om-statlig-garantiordning-for-lån-til-små-og-mellomstore-bedrifter — Change history
 
 _1 events; doc_id `sf-20200327-0472`._

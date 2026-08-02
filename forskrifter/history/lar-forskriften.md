@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lar-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lar-forskriften — Change history
 
 _2 events; doc_id `sf-20091218-1641`._

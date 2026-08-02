@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-forvaltningsansvar-for-likloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-forvaltningsansvar-for-likloven — Change history
 
 _1 events; doc_id `sf-20020614-0533`._

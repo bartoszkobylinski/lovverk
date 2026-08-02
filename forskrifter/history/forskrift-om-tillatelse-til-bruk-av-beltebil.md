@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tillatelse-til-bruk-av-beltebil"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tillatelse-til-bruk-av-beltebil — Change history
 
 _2 events; doc_id `sf-20051107-1264`._

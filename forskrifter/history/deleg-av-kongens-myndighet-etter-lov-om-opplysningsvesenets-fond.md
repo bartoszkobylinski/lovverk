@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-lov-om-opplysningsvesenets-fond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-lov-om-opplysningsvesenets-fond — Change history
 
 _1 events; doc_id `sf-20210618-1971`._

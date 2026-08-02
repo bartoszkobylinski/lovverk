@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-arbeidsmiljøloven-lov-om-aldersgrenser-for-statsansatte-m-fl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-arbeidsmiljøloven-lov-om-aldersgrenser-for-statsansatte-m-fl — Change history
 
 _2 events; doc_id `nl-20250527-017`._

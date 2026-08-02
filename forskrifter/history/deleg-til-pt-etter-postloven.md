@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-pt-etter-postloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-pt-etter-postloven — Change history
 
 _1 events; doc_id `sf-19970717-1550`._

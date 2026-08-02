@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-43-tredje-ledd-registrerings-og-merkeplikt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-43-tredje-ledd-registrerings-og-merkeplikt — Change history
 
 _1 events; doc_id `sf-20210505-1548`._

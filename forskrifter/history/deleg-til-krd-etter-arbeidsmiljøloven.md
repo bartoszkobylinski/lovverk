@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-krd-etter-arbeidsmiljøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-krd-etter-arbeidsmiljøloven — Change history
 
 _1 events; doc_id `sf-20001006-0999`._

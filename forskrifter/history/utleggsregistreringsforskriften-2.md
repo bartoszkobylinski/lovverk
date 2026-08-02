@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utleggsregistreringsforskriften-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utleggsregistreringsforskriften-2 — Change history
 
 _2 events; doc_id `sf-20250808-1616`._

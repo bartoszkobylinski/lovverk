@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-aksjeselskapers-og-allmennaksjeselskapers-adgang-til-å-yte-finansiell-bistand-til-ansattes-erverv-av-aksjer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-aksjeselskapers-og-allmennaksjeselskapers-adgang-til-å-yte-finansiell-bistand-til-ansattes-erverv-av-aksjer — Change history
 
 _2 events; doc_id `sf-20191209-1698`._

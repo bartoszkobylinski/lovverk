@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsreglar-til-tomtefestelov"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsreglar-til-tomtefestelov — Change history
 
 _2 events; doc_id `sf-20060630-0729`._

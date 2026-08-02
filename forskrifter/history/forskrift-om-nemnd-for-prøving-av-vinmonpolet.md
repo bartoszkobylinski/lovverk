@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nemnd-for-prøving-av-vinmonpolet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nemnd-for-prøving-av-vinmonpolet — Change history
 
 _2 events; doc_id `sf-19960116-0024`._

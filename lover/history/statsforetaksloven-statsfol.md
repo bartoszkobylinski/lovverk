@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "statsforetaksloven-statsfol"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # statsforetaksloven-statsfol — Change history
 
 _2 events; doc_id `nl-19910830-071`._

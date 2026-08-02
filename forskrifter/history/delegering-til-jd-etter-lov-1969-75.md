@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-jd-etter-lov-1969-75"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-jd-etter-lov-1969-75 — Change history
 
 _1 events; doc_id `sf-20080509-0448`._

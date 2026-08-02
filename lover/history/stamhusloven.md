@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stamhusloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stamhusloven — Change history
 
 _2 events; doc_id `nl-19270704-011`._

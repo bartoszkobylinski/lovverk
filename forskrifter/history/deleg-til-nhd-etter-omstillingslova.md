@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-omstillingslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-omstillingslova — Change history
 
 _1 events; doc_id `sf-20080606-0543`._

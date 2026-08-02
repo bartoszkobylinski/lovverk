@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kud-om-å-oppnevne-lotterinemnda"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kud-om-å-oppnevne-lotterinemnda — Change history
 
 _1 events; doc_id `sf-20130208-0153`._

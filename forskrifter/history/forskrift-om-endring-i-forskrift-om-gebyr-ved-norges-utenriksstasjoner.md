@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-gebyr-ved-norges-utenriksstasjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-gebyr-ved-norges-utenriksstasjoner — Change history
 
 _2 events; doc_id `sf-20251217-2653`._

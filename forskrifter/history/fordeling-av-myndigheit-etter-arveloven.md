@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fordeling-av-myndigheit-etter-arveloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fordeling-av-myndigheit-etter-arveloven — Change history
 
 _1 events; doc_id `sf-20200228-0202`._

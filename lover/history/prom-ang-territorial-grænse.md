@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "prom-ang-territorial-grænse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # prom-ang-territorial-grænse — Change history
 
 _2 events; doc_id `nl-18120225-000`._

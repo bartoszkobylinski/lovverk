@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-bedriftsdemokratinemda"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-bedriftsdemokratinemda — Change history
 
 _1 events; doc_id `sf-20080109-0026`._

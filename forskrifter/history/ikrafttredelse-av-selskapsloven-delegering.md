@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-selskapsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-selskapsloven-delegering — Change history
 
 _1 events; doc_id `sf-19851213-2091`._

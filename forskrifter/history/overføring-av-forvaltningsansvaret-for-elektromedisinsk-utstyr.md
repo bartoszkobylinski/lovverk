@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-elektromedisinsk-utstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-elektromedisinsk-utstyr — Change history
 
 _1 events; doc_id `sf-20190308-0196`._

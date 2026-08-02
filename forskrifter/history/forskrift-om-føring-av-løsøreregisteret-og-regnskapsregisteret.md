@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-føring-av-løsøreregisteret-og-regnskapsregisteret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-føring-av-løsøreregisteret-og-regnskapsregisteret — Change history
 
 _2 events; doc_id `sf-19871218-0985`._

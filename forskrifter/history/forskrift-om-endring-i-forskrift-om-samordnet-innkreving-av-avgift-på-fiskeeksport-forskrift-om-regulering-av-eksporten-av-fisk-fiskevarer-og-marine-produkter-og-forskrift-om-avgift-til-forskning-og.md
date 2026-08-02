@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-avgift-til-forskning-og"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-avgift-til-forskning-og — Change history
 
 _2 events; doc_id `sf-20251209-2491`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-jd-etter-straffeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-jd-etter-straffeloven — Change history
 
 _1 events; doc_id `sf-20051216-1519`._

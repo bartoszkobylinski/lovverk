@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-mynd-til-ld-lov-om-planteforedlerrett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-mynd-til-ld-lov-om-planteforedlerrett — Change history
 
 _1 events; doc_id `sf-19930514-0345`._

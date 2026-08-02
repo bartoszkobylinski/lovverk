@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-delegering-sperregjerder-for-rein"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-delegering-sperregjerder-for-rein — Change history
 
 _1 events; doc_id `sf-19860110-0018`._

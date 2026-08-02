@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-29-juni-1990-nr-492-om-forenklet-forelegg-i-vegtrafikksaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-29-juni-1990-nr-492-om-forenklet-forelegg-i-vegtrafikksaker — Change history
 
 _2 events; doc_id `sf-20260206-0147`._

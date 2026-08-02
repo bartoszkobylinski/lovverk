@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-pasienters-advokatutgifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-pasienters-advokatutgifter — Change history
 
 _2 events; doc_id `sf-20090327-0357`._

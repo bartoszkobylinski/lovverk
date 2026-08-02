@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ansvaret-for-arbeidsforskningsinstituttet-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ansvaret-for-arbeidsforskningsinstituttet-as — Change history
 
 _1 events; doc_id `sf-20041015-1365`._

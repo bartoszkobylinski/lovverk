@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vurdering-av-ef-verifisering-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vurdering-av-ef-verifisering-mv — Change history
 
 _2 events; doc_id `sf-20111004-0994`._

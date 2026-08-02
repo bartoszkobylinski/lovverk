@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-endr-i-lovgivn-om-industrielt-rettsvern"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-endr-i-lovgivn-om-industrielt-rettsvern — Change history
 
 _1 events; doc_id `sf-19961220-1155`._

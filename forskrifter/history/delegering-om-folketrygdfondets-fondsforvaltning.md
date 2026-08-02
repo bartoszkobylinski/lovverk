@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-om-folketrygdfondets-fondsforvaltning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-om-folketrygdfondets-fondsforvaltning — Change history
 
 _1 events; doc_id `sf-19920117-0016`._

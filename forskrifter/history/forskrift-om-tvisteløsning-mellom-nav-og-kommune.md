@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tvisteløsning-mellom-nav-og-kommune"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tvisteløsning-mellom-nav-og-kommune — Change history
 
 _2 events; doc_id `sf-20070312-0294`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utpeking-av-offisiell-sjøkartmyndighet-etter-havne-og-farvannsloven-12"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utpeking-av-offisiell-sjøkartmyndighet-etter-havne-og-farvannsloven-12 — Change history
 
 _1 events; doc_id `sf-20190621-0874`._

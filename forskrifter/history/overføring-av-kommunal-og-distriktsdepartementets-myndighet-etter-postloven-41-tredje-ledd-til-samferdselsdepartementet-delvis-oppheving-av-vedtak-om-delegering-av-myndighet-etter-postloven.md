@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-kommunal-og-distriktsdepartementets-myndighet-etter-postloven-41-tredje-ledd-til-samferdselsdepartementet-delvis-oppheving-av-vedtak-om-delegering-av-myndighet-etter-postloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-kommunal-og-distriktsdepartementets-myndighet-etter-postloven-41-tredje-ledd-til-samferdselsdepartementet-delvis-oppheving-av-vedtak-om-delegering-av-myndighet-etter-postloven — Change history
 
 _1 events; doc_id `sf-20221021-1777`._

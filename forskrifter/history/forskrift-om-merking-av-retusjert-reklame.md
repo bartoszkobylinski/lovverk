@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-merking-av-retusjert-reklame"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-merking-av-retusjert-reklame — Change history
 
 _2 events; doc_id `sf-20220617-1114`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-hive-og-hibu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-hive-og-hibu — Change history
 
 _1 events; doc_id `sf-20121026-0994`._

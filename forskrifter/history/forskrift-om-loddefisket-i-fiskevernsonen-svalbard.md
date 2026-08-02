@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-loddefisket-i-fiskevernsonen-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-loddefisket-i-fiskevernsonen-svalbard — Change history
 
 _2 events; doc_id `sf-20111213-1332`._

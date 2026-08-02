@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overtredelsesgebyr-og-tvangsmulkt-etter-ftrl-25-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overtredelsesgebyr-og-tvangsmulkt-etter-ftrl-25-3 — Change history
 
 _2 events; doc_id `sf-20140710-0968`._

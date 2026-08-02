@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-fortrinnsrett-mv-for-nsb-ansatte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-fortrinnsrett-mv-for-nsb-ansatte — Change history
 
 _2 events; doc_id `sf-19970718-0803`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-norges-økonomiske-sone"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-norges-økonomiske-sone — Change history
 
 _2 events; doc_id `sf-19761217-0015`._

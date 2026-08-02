@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-konvensjon-om-trygdekoordinering-mellom-island-fyrstedømmet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-konvensjon-om-trygdekoordinering-mellom-island-fyrstedømmet — Change history
 
 _1 events; doc_id `sf-20240628-1388`._

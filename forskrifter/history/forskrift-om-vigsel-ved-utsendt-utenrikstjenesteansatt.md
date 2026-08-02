@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vigsel-ved-utsendt-utenrikstjenesteansatt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vigsel-ved-utsendt-utenrikstjenesteansatt — Change history
 
 _2 events; doc_id `sf-20250411-0731`._

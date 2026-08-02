@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningen-av-ekteskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningen-av-ekteskapsloven — Change history
 
 _1 events; doc_id `sf-20070810-0957`._

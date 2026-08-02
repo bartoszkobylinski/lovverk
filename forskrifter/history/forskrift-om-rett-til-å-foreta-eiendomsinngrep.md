@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rett-til-å-foreta-eiendomsinngrep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rett-til-å-foreta-eiendomsinngrep — Change history
 
 _4 events; doc_id `sf-19890714-0565`._

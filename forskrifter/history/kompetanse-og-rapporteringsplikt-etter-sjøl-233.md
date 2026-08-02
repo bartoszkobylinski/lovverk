@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kompetanse-og-rapporteringsplikt-etter-sjøl-233"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kompetanse-og-rapporteringsplikt-etter-sjøl-233 — Change history
 
 _1 events; doc_id `sf-20150512-0467`._

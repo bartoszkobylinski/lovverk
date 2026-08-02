@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-tivoli-m-m-til-sd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-tivoli-m-m-til-sd — Change history
 
 _1 events; doc_id `sf-20160617-0722`._

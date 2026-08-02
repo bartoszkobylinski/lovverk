@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rentesats-for-inntektsåret-2018-for-petroleum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rentesats-for-inntektsåret-2018-for-petroleum — Change history
 
 _2 events; doc_id `sf-20190215-0121`._

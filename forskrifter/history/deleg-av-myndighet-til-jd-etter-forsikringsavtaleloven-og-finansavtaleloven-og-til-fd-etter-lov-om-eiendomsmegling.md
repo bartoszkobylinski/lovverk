@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-jd-etter-forsikringsavtaleloven-og-finansavtaleloven-og-til-fd-etter-lov-om-eiendomsmegling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-jd-etter-forsikringsavtaleloven-og-finansavtaleloven-og-til-fd-etter-lov-om-eiendomsmegling — Change history
 
 _1 events; doc_id `sf-20160617-0704`._

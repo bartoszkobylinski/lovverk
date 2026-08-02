@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kongens-myndighet-etter-lov-1-april-2005-nr-15-om-universiteter-og-høyskoler-4-10-første-ledd-delegeres-til-kunnskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kongens-myndighet-etter-lov-1-april-2005-nr-15-om-universiteter-og-høyskoler-4-10-første-ledd-delegeres-til-kunnskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20231027-1708`._

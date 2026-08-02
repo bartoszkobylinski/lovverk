@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-oljedir-etter-lov-om-co2-avgift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-oljedir-etter-lov-om-co2-avgift — Change history
 
 _1 events; doc_id `sf-19901227-1229`._

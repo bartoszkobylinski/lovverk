@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-pengespilloven-10-fjerde-ledd-for-så-vidt-gjelder-disponering-av-ikke-utbetalte-midler-til-kultur-og-likestillingsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-pengespilloven-10-fjerde-ledd-for-så-vidt-gjelder-disponering-av-ikke-utbetalte-midler-til-kultur-og-likestillingsdepartementet — Change history
 
 _1 events; doc_id `sf-20220401-0519`._

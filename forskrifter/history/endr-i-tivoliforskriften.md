@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-tivoliforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-tivoliforskriften — Change history
 
 _2 events; doc_id `sf-20251208-2456`._

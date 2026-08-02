@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-yrkestransportforskriften-overgangsbestemmelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-yrkestransportforskriften-overgangsbestemmelser — Change history
 
 _2 events; doc_id `sf-20191206-1646`._

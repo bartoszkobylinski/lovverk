@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-stiftelsesområdet-fra-jd-til-kud"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-stiftelsesområdet-fra-jd-til-kud — Change history
 
 _1 events; doc_id `sf-20121207-1148`._

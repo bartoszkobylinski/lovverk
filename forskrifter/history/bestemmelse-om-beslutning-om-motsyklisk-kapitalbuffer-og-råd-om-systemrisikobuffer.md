@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelse-om-beslutning-om-motsyklisk-kapitalbuffer-og-råd-om-systemrisikobuffer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelse-om-beslutning-om-motsyklisk-kapitalbuffer-og-råd-om-systemrisikobuffer — Change history
 
 _1 events; doc_id `sf-20210903-2657`._

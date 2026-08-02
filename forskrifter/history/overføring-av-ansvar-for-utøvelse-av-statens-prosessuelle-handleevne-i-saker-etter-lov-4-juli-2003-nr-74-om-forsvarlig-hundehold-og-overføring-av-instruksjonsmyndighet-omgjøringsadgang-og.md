@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvar-for-utøvelse-av-statens-prosessuelle-handleevne-i-saker-etter-lov-4-juli-2003-nr-74-om-forsvarlig-hundehold-og-overføring-av-instruksjonsmyndighet-omgjøringsadgang-og"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvar-for-utøvelse-av-statens-prosessuelle-handleevne-i-saker-etter-lov-4-juli-2003-nr-74-om-forsvarlig-hundehold-og-overføring-av-instruksjonsmyndighet-omgjøringsadgang-og — Change history
 
 _1 events; doc_id `sf-20250404-0596`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-40"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-40 — Change history
 
 _1 events; doc_id `sf-20201008-2742`._

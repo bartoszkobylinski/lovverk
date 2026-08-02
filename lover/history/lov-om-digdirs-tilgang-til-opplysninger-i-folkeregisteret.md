@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret — Change history
 
 _2 events; doc_id `nl-20230609-029`._

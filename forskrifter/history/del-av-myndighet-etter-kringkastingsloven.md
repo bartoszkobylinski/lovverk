@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-myndighet-etter-kringkastingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-myndighet-etter-kringkastingsloven — Change history
 
 _1 events; doc_id `sf-19910704-0449`._

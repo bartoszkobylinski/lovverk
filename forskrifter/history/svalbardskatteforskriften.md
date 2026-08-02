@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "svalbardskatteforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # svalbardskatteforskriften — Change history
 
 _2 events; doc_id `sf-19971215-1305`._

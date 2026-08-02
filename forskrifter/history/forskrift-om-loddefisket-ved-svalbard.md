@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-loddefisket-ved-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-loddefisket-ved-svalbard — Change history
 
 _2 events; doc_id `sf-20111213-1331`._

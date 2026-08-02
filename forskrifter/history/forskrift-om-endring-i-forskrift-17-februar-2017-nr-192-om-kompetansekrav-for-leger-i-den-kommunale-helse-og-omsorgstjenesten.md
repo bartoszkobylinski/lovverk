@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-17-februar-2017-nr-192-om-kompetansekrav-for-leger-i-den-kommunale-helse-og-omsorgstjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-17-februar-2017-nr-192-om-kompetansekrav-for-leger-i-den-kommunale-helse-og-omsorgstjenesten — Change history
 
 _2 events; doc_id `sf-20250523-0838`._

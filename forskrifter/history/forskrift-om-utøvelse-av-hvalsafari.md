@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utøvelse-av-hvalsafari"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utøvelse-av-hvalsafari — Change history
 
 _2 events; doc_id `sf-20191205-1651`._

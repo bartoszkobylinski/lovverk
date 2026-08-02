@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-til-aad-etter-rettshjelpsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-til-aad-etter-rettshjelpsl — Change history
 
 _1 events; doc_id `sf-20001208-1235`._

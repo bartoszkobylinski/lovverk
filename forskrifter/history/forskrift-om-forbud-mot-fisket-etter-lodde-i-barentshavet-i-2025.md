@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-fisket-etter-lodde-i-barentshavet-i-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-fisket-etter-lodde-i-barentshavet-i-2025 — Change history
 
 _2 events; doc_id `sf-20241219-3407`._

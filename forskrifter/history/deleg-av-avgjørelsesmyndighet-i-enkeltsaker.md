@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-avgjørelsesmyndighet-i-enkeltsaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-avgjørelsesmyndighet-i-enkeltsaker — Change history
 
 _1 events; doc_id `sf-20040721-1132`._

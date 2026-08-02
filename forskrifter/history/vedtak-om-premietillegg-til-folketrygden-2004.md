@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-premietillegg-til-folketrygden-2004"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-premietillegg-til-folketrygden-2004 — Change history
 
 _2 events; doc_id `sf-20031205-1426`._

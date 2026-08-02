@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-skattedir-av-statens-partsstilling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-skattedir-av-statens-partsstilling — Change history
 
 _1 events; doc_id `sf-20161116-1332`._

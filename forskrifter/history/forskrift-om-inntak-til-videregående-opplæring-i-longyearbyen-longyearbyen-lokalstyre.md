@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-inntak-til-videregående-opplæring-i-longyearbyen-longyearbyen-lokalstyre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-inntak-til-videregående-opplæring-i-longyearbyen-longyearbyen-lokalstyre — Change history
 
 _2 events; doc_id `sf-20251104-2265`._

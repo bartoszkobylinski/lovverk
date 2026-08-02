@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-beslutning-2012-462-eu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-beslutning-2012-462-eu — Change history
 
 _2 events; doc_id `sf-20140624-0862`._

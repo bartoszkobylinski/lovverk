@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-eøs-prosedyreregler-for-offentlig-støtte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eøs-prosedyreregler-for-offentlig-støtte — Change history
 
 _2 events; doc_id `sf-20230102-0003`._

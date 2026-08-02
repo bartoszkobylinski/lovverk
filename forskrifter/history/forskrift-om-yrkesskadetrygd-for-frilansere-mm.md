@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-yrkesskadetrygd-for-frilansere-mm"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-yrkesskadetrygd-for-frilansere-mm — Change history
 
 _2 events; doc_id `sf-19970311-0210`._

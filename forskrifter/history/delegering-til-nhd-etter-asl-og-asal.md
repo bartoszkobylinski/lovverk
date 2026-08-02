@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-nhd-etter-asl-og-asal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-nhd-etter-asl-og-asal — Change history
 
 _1 events; doc_id `sf-20070209-0155`._

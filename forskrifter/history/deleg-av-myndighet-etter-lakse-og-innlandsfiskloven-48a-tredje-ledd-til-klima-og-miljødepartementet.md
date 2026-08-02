@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-48a-tredje-ledd-til-klima-og-miljødepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lakse-og-innlandsfiskloven-48a-tredje-ledd-til-klima-og-miljødepartementet — Change history
 
 _1 events; doc_id `sf-20210528-1702`._

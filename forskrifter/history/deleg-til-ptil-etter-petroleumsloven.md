@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ptil-etter-petroleumsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ptil-etter-petroleumsloven — Change history
 
 _1 events; doc_id `sf-20130214-0209`._

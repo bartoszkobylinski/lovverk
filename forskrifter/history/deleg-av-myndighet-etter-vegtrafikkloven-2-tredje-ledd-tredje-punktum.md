@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-vegtrafikkloven-2-tredje-ledd-tredje-punktum"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-vegtrafikkloven-2-tredje-ledd-tredje-punktum — Change history
 
 _1 events; doc_id `sf-20181108-1661`._

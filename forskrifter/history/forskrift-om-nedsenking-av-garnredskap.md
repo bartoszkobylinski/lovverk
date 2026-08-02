@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nedsenking-av-garnredskap"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nedsenking-av-garnredskap — Change history
 
 _2 events; doc_id `sf-20030620-0737`._

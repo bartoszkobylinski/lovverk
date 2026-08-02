@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-statsborgerloven-10-til-kunnskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-statsborgerloven-10-til-kunnskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20210618-1968`._

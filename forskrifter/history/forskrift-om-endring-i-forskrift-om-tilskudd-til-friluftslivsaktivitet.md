@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-tilskudd-til-friluftslivsaktivitet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-tilskudd-til-friluftslivsaktivitet — Change history
 
 _2 events; doc_id `sf-20251204-2426`._

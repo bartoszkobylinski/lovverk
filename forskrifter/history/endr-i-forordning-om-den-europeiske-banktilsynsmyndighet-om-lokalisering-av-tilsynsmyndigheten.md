@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten — Change history
 
 _2 events; doc_id `sf-20210702-2339`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-skatteforvaltningsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-skatteforvaltningsforskriften — Change history
 
 _2 events; doc_id `sf-20250619-1073`._

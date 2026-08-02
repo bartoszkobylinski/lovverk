@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-forenklet-forelegg-i-fritids-og-småbåtsaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-forenklet-forelegg-i-fritids-og-småbåtsaker — Change history
 
 _2 events; doc_id `sf-20250912-2247`._
