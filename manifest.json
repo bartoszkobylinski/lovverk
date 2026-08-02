@@ -53025,7 +53025,7 @@
     },
     "sf-20111109-1088": {
       "doc_type": "forskrift",
-      "embedding_hash": "3128be9d18f7506ea15619d5c22f758dbcdcb8537f0693f9aa11d4b81d1ca6f5",
+      "embedding_hash": null,
       "eu_basis": [],
       "last_changed": "2026-04-29",
       "last_seen": "2026-07-30T18:17:57.344275Z",
@@ -95200,6 +95200,6 @@
       "xml_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d"
     }
   },
-  "generated_at": "2026-08-02T05:44:39.699294Z",
+  "generated_at": "2026-08-02T06:17:47.726523Z",
   "version": 1
 }
