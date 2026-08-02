@@ -35,7 +35,7 @@ Finanstilsynet er vedkommende myndighet etter kredittvurderingsbyråforordningen
 
 > Endret ved lov [16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](forskrift/2016-12-16-1607)).
 
-## § 3.[^1] Utlevering av opplysninger til EFTA-domstolen
+## § 3. Utlevering av opplysninger til EFTA-domstolen
 
 Når EFTA-domstolen behandler en sak som angår kredittvurderingsbyråforordningen som gjennomført i [§ 1](lov/2014-06-20-30/§1) eller i forskrift gitt i medhold av loven, kan enhver uten hinder av lovbestemt taushetsplikt gi domstolen de opplysninger som domstolen kan kreve i medhold av avtale om Det europeiske økonomiske samarbeidsområde og avtale mellom EFTA-statene om opprettelse av et overvåkingsorgan og en domstol.
 

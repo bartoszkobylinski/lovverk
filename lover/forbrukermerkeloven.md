@@ -121,7 +121,7 @@ Kongen kan gi nærmere bestemmelser om tvangsmulktens størrelse, varighet, fast
 
 > Tilføyd ved [lov 3 sep 2010 nr. 53](lov/2010-09-03-53) (ikr. 1 jan 2011 iflg. [res. 3 sep 2010 nr. 1245](forskrift/2010-09-03-1245)).
 
-## § 8.[^1]
+## § 8.
 
 For å gjennomføre Norges forpliktelser etter EØS-avtalen kan Kongen gi forskrift om at opplysninger som har betydning for forbrukerens vurdering av varens energi- og ressursbruk eller virkning på miljøet, også skal tas inn i markedsføring av det aktuelle vareslag.
 

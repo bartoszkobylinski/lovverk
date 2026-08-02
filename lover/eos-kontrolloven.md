@@ -300,7 +300,7 @@ Sakkyndige godtgjøres etter [salærforskriften](forskrift/1997-12-03-1441). And
 
 > Tilføyd ved lov [21 juni 2017 nr. 95](lov/2017-06-21-95) (se noten til [§ 1](lov/1995-02-03-7/§1)), endret ved lov [20 des 2022 nr. 119](lov/2022-12-20-119) (i kraft 1 jan 2023).
 
-## § 21.[^1] Straff
+## § 21. Straff
 
 Forsettlig eller grov uaktsom overtredelse av [§ 8](lov/1995-02-03-7/§8) første og annet ledd, [§ 9](lov/1995-02-03-7/§9) første og tredje ledd, [§ 11](lov/1995-02-03-7/§11) første og annet ledd og [§ 19](lov/1995-02-03-7/§19) annet ledd i denne lov straffes med bøter eller fengsel inntil 1 år, hvis ikke strengere straffebestemmelse får anvendelse.
 

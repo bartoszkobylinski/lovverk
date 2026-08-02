@@ -30,7 +30,7 @@ Det er forbudt for enhver på norsk territorium, og for norske borgere, foretak,
 
 Unntatt fra forbudet er leveranser av nødvendig materiell som nevnt i første ledd for stabilisering og sikkerhet i Irak i samsvar med Sikkerhetsrådets resolusjoner.
 
-## § 2.[^1]
+## § 2.
 
 Finansielle midler eller aktiva tilhørende den tidligere irakiske regjering eller dennes statsorganer, selskaper eller virksomheter, skal fryses. Dette gjelder ikke midler som ikke befant seg i Norge per 22. mai 2003.
 

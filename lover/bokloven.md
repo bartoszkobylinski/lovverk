@@ -116,7 +116,7 @@ Departementet kan gi forskrift om hvilke betingelser for betaling, frakt og leve
 
 Ved gjennomføring av plikter etter denne loven eller avtaler som omfattes av loven, kan utgivere og forhandlere ikke gi hverandre særlig gunstige vilkår basert på eierskap.
 
-## § 12. Innkjøpsrabatt[^1]
+## § 12. Innkjøpsrabatt
 
 For papirbøker med fastpris etter [§ 5](lov/2023-06-16-64/§5) skal det være en maksimalsats og en minimumssats for innkjøpsrabatt fra utgiver til forhandler. Departementet gir forskrift om størrelsen på disse satsene.
 

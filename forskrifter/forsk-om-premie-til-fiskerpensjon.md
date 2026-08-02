@@ -58,7 +58,7 @@ Garantikassen for fiskere skal gi medlemmet kvittering for innbetalt premie og o
 
 > Endret ved [forskrifter 1 mars 2002 nr. 217](forskrift/2002-03-01-217), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006).
 
-## §§ 6-8.[^1] Opphevet.
+## §§ 6-8. Opphevet.
 
 1 Opphevet ved Sosialdepartementets vedtak av 13. november 1978.
 

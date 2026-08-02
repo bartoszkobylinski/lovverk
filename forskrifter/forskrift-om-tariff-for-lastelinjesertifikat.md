@@ -28,7 +28,7 @@ Denne tariff gjelder for oppkreving av gebyrer for besiktelse i forbindelse med 
 
 Sjøfartsdirektoratet kan justere satsene i [§§ 2](forskrift/1969-06-27-4/§2) og [10 i](forskrift/1969-06-27-4/§10) takt med endringer i bistillingsregulativet.
 
-## § 2.[^1]
+## § 2.
 
 Den godtgjørelse som kan oppkreves for utstedelse og fornyelse av lastelinjesertifikat m.v. på norske skip skal beregnes etter nedenstående satser:
 
@@ -99,7 +99,7 @@ Dersom det av spesielle grunner bare foretas partiell besiktelse for utstedelse 
 
 Gebyrene gjelder for besiktelse m.v. som foretas både i Norge og i utlandet. Departementet for handel og skipsfart kan dog fastsette høyere gebyr for land hvor gebyrene etter omstendighetene måtte anses å være for lave.
 
-## § 10.[^1]
+## § 10.
 
 For utstedelse av lastelinjesertifikat uten tilhørende besiktelse, f.eks. på grunn av forandring av skipets navn eller hjemsted, bortkommet sertifikat m.v., betales kr. 280,-. Utstedes flere lastelinjesertifikater samtidig beregnes gebyr i henhold til denne paragraf bare for ett sertifikat.
 
