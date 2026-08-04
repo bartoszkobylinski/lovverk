@@ -8,7 +8,7 @@ lovverk is a Git-versioned Markdown corpus of current Norwegian laws and central
 - Every change in the source data lands as a Git commit. This repository's Git history is the authoritative record of **published corpus states** — what the corpus said, and when. It is not an authoritative record of Norwegian law; for legal content, Lovdata is authoritative.
 - Per-document change history, per-section embedding vectors, and dataset indexes are published alongside the documents.
 
-This repository contains only generated artifacts and control metadata. The code that produces it — ingestion, rendering, sync, embedding generation, search, and the MCP server — lives in `lovspor`. There is no application code here, and nothing here is written by hand.
+This repository contains generated corpus artifacts and control metadata. The code that produces the corpus — ingestion, rendering, sync, embedding generation, search, and the MCP server — lives in `lovspor`. There is no application code here; the corpus artifacts are generated rather than hand-maintained.
 
 **Production.** Auto-synced daily at 04:00 UTC. The corpus tracks every current *lov* and *sentral forskrift* — 5,880 documents (759 lover + 5,121 sentrale forskrifter) as of 2026-08-04. Counts change daily; each dataset's `INDEX.md` carries its live count, and `manifest.json` is the authoritative statement of current corpus membership.
 
@@ -99,7 +99,7 @@ Every document records the SHA-256 of its normalized source XML in `manifest.jso
 
 ## Relationship to lovspor
 
-[`lovspor`](https://github.com/bartoszkobylinski/lovspor) (public, MIT) is the engine; `lovverk` (this repository) is its published output. The only write path into this repository is the engine's scheduled sync. Consuming the corpus never requires the engine — a clone plus `manifest.json` is a complete, self-describing dataset — but everything programmatic (search, MCP, temporal tools, verification) lives on the engine side.
+[`lovspor`](https://github.com/bartoszkobylinski/lovspor) (public, MIT) is the engine; `lovverk` (this repository) is its published output. The only normal write path for corpus artifacts into this repository is the engine's scheduled sync. Consuming the corpus never requires the engine — a clone plus `manifest.json` is a complete, self-describing dataset — but everything programmatic (search, MCP, temporal tools, verification) lives on the engine side.
 
 ## Source and attribution
 
