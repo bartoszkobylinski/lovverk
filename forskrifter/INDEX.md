@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5119 current documents_
+_5121 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1351,6 +1351,7 @@ _5119 current documents_
 - [finanstilsynsforskriften](finanstilsynsforskriften.md) — Forskrift til finanstilsynsloven (finanstilsynsforskriften)
 - [fkt-forskriften](fkt-forskriften.md) — Forskrift om tilskudd til forebyggende tiltak mot rovviltskader og konfliktdempende tiltak (FKT-forskriften)
 - [flytelefonistforskriften](flytelefonistforskriften.md) — Forskrift om flytelefonistsertifikat (flytelefonistforskriften) BSL C 5-2a
+- [folkefinansieringsforskriften](folkefinansieringsforskriften.md) — Forskrift til lov om folkefinansiering av næringsvirksomhet (folkefinansieringsforskriften)
 - [folkehøgskoleforskriften](folkehøgskoleforskriften.md) — Forskrift til folkehøgskoleloven (folkehøgskoleforskriften)
 - [folkeregisterforskriften](folkeregisterforskriften.md) — Forskrift til folkeregisterloven (folkeregisterforskriften)
 - [forbrukerklageforskriften](forbrukerklageforskriften.md) — Forskrift om behandling av forbrukerklager i Forbrukertilsynet og Forbrukerklageutvalget (forbrukerklageforskriften)
@@ -3555,6 +3556,7 @@ _5119 current documents_
 - [forskrift-om-stedlig-virkeområde-for-lov-om-elektronisk-kommunikasjon-vedrørende-svalbard-jan-mayen-bouvetøya-og-antarktis](forskrift-om-stedlig-virkeområde-for-lov-om-elektronisk-kommunikasjon-vedrørende-svalbard-jan-mayen-bouvetøya-og-antarktis.md) — Forskrift om stedlig virkeområde for lov om elektronisk kommunikasjon vedrørende Svalbard, Jan Mayen, Bouvetøya og Antarktis
 - [forskrift-om-stenging-av-område-i-barentshavet](forskrift-om-stenging-av-område-i-barentshavet.md) — Forskrift om stenging av område i Barentshavet for fiske med torsketrål og snurrevad.
 - [forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not](forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md) — Forskrift om stenging av områder for fiske etter sei med not
+- [forskrift-om-stenging-av-området-nord-for-70-grader-nord-for-fiske-etter-sei-med-not](forskrift-om-stenging-av-området-nord-for-70-grader-nord-for-fiske-etter-sei-med-not.md) — Forskrift om stenging av området nord for 70 grader nord for fiske etter sei med not
 - [forskrift-om-sterilisering-av-kvinner-mv](forskrift-om-sterilisering-av-kvinner-mv.md) — Forskrift om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner og om innberetning til Helsedirektoratet om sterilisering.
 - [forskrift-om-stevnevitner-og-forkynnelser](forskrift-om-stevnevitner-og-forkynnelser.md) — Forskrift om stevnevitners, politiansattes og fengselstjenestemenns utførelse av forkynnelser.
 - [forskrift-om-stopp-i-fisket-etter-blåkveite-nord-for-62-n-i-2026](forskrift-om-stopp-i-fisket-etter-blåkveite-nord-for-62-n-i-2026.md) — Forskrift om stopp i fisket etter blåkveite nord for 62°N i 2026
