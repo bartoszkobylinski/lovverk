@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-04-23"
+last_change_in_force: "2026-08-03"
 last_updated: null
-xml_hash: "c2d00ba5242d3ec69265186b1eeaf82949d4e4f7a87e5ffd729bd40a7602fa22"
+xml_hash: "99876c269c4fc425f9f01a1f8ee68c95758f3902dcbcbc35f319fb8e192f0e26"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-08-06T06:40:16.925664+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,11 +50,15 @@ Fartøy under 28 meter største lengde som fisker med konvensjonelle redskap kan
 
 > Endret ved forskrift [13 feb 2026 nr. 200](forskrift/2026-02-13-200).
 
-### § 6. Bifangst for fartøy på eller over 28 meter største lengde
+### § 6. Stopp i fisket og bifangst for fartøy på eller over 28 meter største lengde
 
 For fartøy som ikke har adgang til å delta i fisket, er det ved fiske etter andre fiskeslag med stormasket trål tillatt å ha inntil 10 % brosme i de enkelte fangster og ved landing.
 
 For fartøy som ikke har adgang til å delta i fisket, er det ved fiske ved fiske etter andre fiskeslag med konvensjonelle redskap tillatt å ha inntil 15 % brosme i de enkelte fangster og ved landing.
+
+Fisket etter brosme for fartøy på eller over 28 meter største lengde stoppes med virkning fra og med 6. august 2026. For fartøy som har adgang til å delta i fisket etter brosme med konvensjonelle redskap, er det ved fiske etter andre fiskeslag tillatt å ha inntil 15 % bifangst av brosme i de enkelte fangster og ved landing.
+
+> Endret ved forskrift [3 aug 2026 nr. 1605](forskrift/2026-08-03-1605).
 
 ## Kapittel 3. Regulering av fisket etter lange
 
@@ -78,7 +82,7 @@ For fartøy som ikke har adgang til å delta i fisket, er det ved fiske ved fisk
 
 Fisket etter lange for fartøy på eller over 28 meter største lengde stoppes med virkning fra 22. januar 2026. For fartøy som har adgang til å delta i fisket, er det ved fiske etter andre fiskeslag tillatt å ha inntil 35 % bifangst av lange i de enkelte fangster og ved landing.
 
-> Endret ved forskrifter [20 jan 2026 nr. 62](forskrift/2026-01-20-62), [21 april 2026 nr. 623](forskrift/2026-04-21-623). (i kraft 23 april 2026).
+> Endret ved forskrifter [20 jan 2026 nr. 62](forskrift/2026-01-20-62), [21 april 2026 nr. 623](forskrift/2026-04-21-623) (i kraft 23 april 2026).
 
 ## Kapittel 4. Fellesbestemmelser
 
