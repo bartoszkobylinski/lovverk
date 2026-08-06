@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # privatskoleforskrifta — Change history
 
-_7 events; doc_id `sf-20240603-0901`._
+_8 events; doc_id `sf-20240603-0901`._
+
+## 2026-08-06 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): privatskoleforskrifta`
+Commit: `3a41e77`.
 
 ## 2026-08-01 — Content updated
 Lines: +12 -8.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-familiebarnehager — Change history
 
-_4 events; doc_id `sf-20051216-1555`._
+_5 events; doc_id `sf-20051216-1555`._
+
+## 2026-08-06 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-familiebarnehager`
+Commit: `9a980d6`.
 
 ## 2026-08-01 — Content updated
 Lines: +3 -3.

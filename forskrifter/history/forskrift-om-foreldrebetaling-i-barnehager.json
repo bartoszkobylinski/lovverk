@@ -2,6 +2,16 @@
   "doc_id": "sf-20051216-1478",
   "events": [
     {
+      "commit": "5ce9af6",
+      "date": "2026-08-06",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-foreldrebetaling-i-barnehager",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c5b3774",
       "date": "2026-08-01",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-foreldrebetaling-i-barnehager — Change history
 
-_4 events; doc_id `sf-20051216-1478`._
+_5 events; doc_id `sf-20051216-1478`._
+
+## 2026-08-06 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-foreldrebetaling-i-barnehager`
+Commit: `5ce9af6`.
 
 ## 2026-08-01 — Content updated
 Lines: +3 -3.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20051216-1555",
   "events": [
     {
+      "commit": "9a980d6",
+      "date": "2026-08-06",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-familiebarnehager",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fd5394b",
       "date": "2026-08-01",
       "from_path": null,

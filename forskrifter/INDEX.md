@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5121 current documents_
+_5120 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1262,7 +1262,6 @@ _5121 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-delegering-etter-sjøfartsloven](endr-delegering-etter-sjøfartsloven.md) — Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
-- [endr-i-blåreseptforskriften](endr-i-blåreseptforskriften.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)
 - [endr-i-delvis-ikrafts-av-lov-2005-101](endr-i-delvis-ikrafts-av-lov-2005-101.md) — Vedtak om endring i delvis ikraftsetting av lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)
 - [endr-i-departementsstruktur-og-ansvarsfordeling](endr-i-departementsstruktur-og-ansvarsfordeling.md) — Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-ansvarsfordeling](endr-i-departementsstrukturen-og-ansvarsfordeling.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer
@@ -1936,7 +1935,6 @@ _5121 current documents_
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
-- [forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst](forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst.md) — Forskrift om endring i forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet – kapittel 3 og 4, med tilhørende tekst
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
@@ -2965,6 +2963,7 @@ _5121 current documents_
 - [forskrift-om-oppreisning-for-strafforfølgning](forskrift-om-oppreisning-for-strafforfølgning.md) — Forskrift om standardsatser for oppreisning etter uberettiget strafforfølgning.
 - [forskrift-om-opprettelse-av-et-harmonisert-europeisk-rapporteringssystem-for-sjøfart](forskrift-om-opprettelse-av-et-harmonisert-europeisk-rapporteringssystem-for-sjøfart.md) — Forskrift om opprettelse av et harmonisert europeisk rapporteringssystem for sjøfart
 - [forskrift-om-opprettelse-av-et-permanent-restriksjonsområde-i-luftrommet-over-olonkinbyen-jan-mayen](forskrift-om-opprettelse-av-et-permanent-restriksjonsområde-i-luftrommet-over-olonkinbyen-jan-mayen.md) — Forskrift om opprettelse av et permanent restriksjonsområde i luftrommet over Olonkinbyen, Jan Mayen
+- [forskrift-om-opprettelse-av-et-permanent-restriksjonsområde-over-jan-mayen-mv](forskrift-om-opprettelse-av-et-permanent-restriksjonsområde-over-jan-mayen-mv.md) — Forskrift om opprettelse av et permanent restriksjonsområde over Jan Mayen mv.
 - [forskrift-om-opprettelse-av-moss-byrett](forskrift-om-opprettelse-av-moss-byrett.md) — Forskrift om opprettelse av en ny Moss byrett m.v.
 - [forskrift-om-opprettelse-av-permanente-restriksjonsområder-over-åtte-fengsler](forskrift-om-opprettelse-av-permanente-restriksjonsområder-over-åtte-fengsler.md) — Forskrift om opprettelse av permanente restriksjonsområder over åtte fengsler
 - [forskrift-om-opprettelse-av-tønsberg-byrett](forskrift-om-opprettelse-av-tønsberg-byrett.md) — Forskrift om opprettelse av en ny Tønsberg byrett m.v.

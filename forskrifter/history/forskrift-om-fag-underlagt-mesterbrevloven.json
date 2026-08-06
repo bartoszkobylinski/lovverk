@@ -2,6 +2,16 @@
   "doc_id": "sf-20001208-1281",
   "events": [
     {
+      "commit": "6ec4eb8",
+      "date": "2026-08-06",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-fag-underlagt-mesterbrevloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,
