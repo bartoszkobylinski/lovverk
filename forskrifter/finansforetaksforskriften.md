@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-05"
 last_updated: "2025-09-22"
-xml_hash: "d9116e1110116b4d4d97fae748e3a8b4052a863cf0d4ab49785975bb00bd9231"
+xml_hash: "bb3b79fae0be5ab918444b60c98b7f6e4071e6f187557880dc6e41f8849f75aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-07T05:48:18.457271+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -372,14 +372,14 @@ Opplysningsfullmektigen skal uten ugrunnet opphold gi Finanstilsynet skriftlig m
 
 ### § 2-18. Unntak for utlån gjennom plattformer for lånebasert folkefinansiering
 
-(1) Som finansieringsvirksomhet regnes ikke å yte lån gjennom plattformer for lånebasert folkefinansiering dersom:
+(1) Som finansieringsvirksomhet regnes ikke å yte lån til forbrukere gjennom plattformer for lånebasert folkefinansiering dersom:
 
 1. plattformene drives av et finansmeglerforetak eller finansforetak, og
 2. långivers samlede utlån gjennom plattformene ikke overstiger 1 million kroner per år.
 
 (2) Unntaket i første ledd gjelder ikke ytelse av boliglån. Med boliglån menes lån som angitt i [lov 16. desember 2022 nr. 91 om låneformidling § 1-2](lov/2022-12-16-91/§1-2) bokstav a.
 
-> Tilføyd ved forskrift [26 april 2019 nr. 539](forskrift/2019-04-26-539) (i kraft 1 juni 2019), endret ved forskrift [28 juni 2023 nr. 1155](forskrift/2023-06-28-1155) (i kraft 31 des 2023).
+> Tilføyd ved forskrift [26 april 2019 nr. 539](forskrift/2019-04-26-539) (i kraft 1 juni 2019), endret ved forskrifter [28 juni 2023 nr. 1155](forskrift/2023-06-28-1155) (i kraft 31 des 2023), [5 aug 2026 nr. 1610](forskrift/2026-08-05-1610).
 
 ## Kapittel 3. Konsesjonsbehandling
 
