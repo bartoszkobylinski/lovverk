@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # finansforetaksforskriften — Change history
 
-_5 events; doc_id `sf-20161209-1502`._
+_6 events; doc_id `sf-20161209-1502`._
+
+## 2026-08-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): finansforetaksforskriften`
+Commit: `9d22cdf`.
 
 ## 2026-07-02 — Content updated
 Lines: +20 -2.

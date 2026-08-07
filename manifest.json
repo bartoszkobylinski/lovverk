@@ -75971,13 +75971,13 @@
     },
     "sf-20161209-1502": {
       "doc_type": "forskrift",
-      "embedding_hash": "d9116e1110116b4d4d97fae748e3a8b4052a863cf0d4ab49785975bb00bd9231",
-      "embedding_input_hash": "a8b3a58682a95c5cd005c7320cba971991ddf7f2068662afcb068b155d08b809",
+      "embedding_hash": "bb3b79fae0be5ab918444b60c98b7f6e4071e6f187557880dc6e41f8849f75aa",
+      "embedding_input_hash": "85600632ace8aa2b7566ba9a3b3a16fd10d6f3e94d485342e5a3ef781f471305",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-07",
+      "last_seen": "2026-08-07T05:48:18.457271Z",
       "markdown_path": "forskrifter/finansforetaksforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -75985,8 +75985,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om finansforetak og finanskonsern (finansforetaksforskriften)",
-      "total_changes": 5,
-      "xml_hash": "d9116e1110116b4d4d97fae748e3a8b4052a863cf0d4ab49785975bb00bd9231"
+      "total_changes": 6,
+      "xml_hash": "bb3b79fae0be5ab918444b60c98b7f6e4071e6f187557880dc6e41f8849f75aa"
     },
     "sf-20161209-1503": {
       "doc_type": "forskrift",
@@ -113020,6 +113020,6 @@
       "xml_hash": "5af1efc989cbe1c3849dcf7da164c31bdef35e96d757ce1bc4d5fa71e0b2c632"
     }
   },
-  "generated_at": "2026-08-06T06:40:16.925664Z",
+  "generated_at": "2026-08-07T05:48:18.457271Z",
   "version": 1
 }
