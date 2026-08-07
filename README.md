@@ -21,7 +21,7 @@ lovverk/
 │   ├── <slug>.md                   # one document per act: the Published Rendering
 │   ├── history/<slug>.json         # per-document change history — structured source of truth
 │   ├── history/<slug>.md           # the same history as a human-readable derived view
-│   └── embeddings/<slug>.bin       # per-section embedding vectors (LSPE v1, int8-quantized)
+│   └── embeddings/<slug>.bin       # per-section embedding vectors (LSPE v2, int8-quantized)
 ├── forskrifter/                    # current central regulations (same layout)
 └── manifest.json                   # authoritative corpus membership + per-document metadata
 ```
@@ -58,14 +58,16 @@ The full schema with exact semantics is documented in [`lovspor/docs/data-model.
 
 ## Embeddings and ESI
 
-Each document carries a binary sidecar `embeddings/<slug>.bin` in the **LSPE v1** format: a 16-byte header (magic `LSPE`, version 1, section count, dimension, dequantization scale) followed by one int8-quantized 3072-dimensional vector per `§` section of the act, keyed by section id. Long sections are stored as several chunk records under one id. A document whose rendering yields no embeddable sections legitimately has a header-only sidecar with zero vectors.
+Each document carries a binary sidecar `embeddings/<slug>.bin` in the **LSPE v2** format: a 16-byte header (magic `LSPE`, version `2`, section count, dimension, dequantization scale), then the 16-byte raw ESI digest, then one int8-quantized 3072-dimensional vector per `§` section of the act, keyed by section id. Long sections are stored as several chunk records under one id. A document whose rendering yields no embeddable sections legitimately has a header-only sidecar with zero vectors.
+
+Version 1 is the same header with no ESI digest. The `lovspor` engine still reads it, but this corpus does not ship it: every sidecar published here is version 2.
 
 **ESI (Embedding Space Identity)** identifies the embedding configuration — provider, model, dimension, endpoint — that produced a corpus artifact. Semantic consumers must only compare query and corpus vectors that belong to the same embedding space: cosine similarity across two spaces returns confident-looking nonsense, not an error. The `lovspor` engine enforces this — its `semantic_search` refuses documents whose recorded identity differs from, or is unknown to, the configured embedder, and reports every exclusion.
 
 Two facts about where identity lives, and they are load-bearing:
 
-- **The LSPE v1 sidecar carries no identity.** A `.bin` read on its own cannot tell you which model produced it.
-- **Identity is recorded in the manifest** (`embedding_space` + `embedding_space_id`), stamped at generation time by the embedder that actually produced the vectors. This manifest-mediated model is ADR-0005 **Stage 1**, live in the current corpus: every current record carries its recorded identity, and new or changed documents receive theirs through the normal daily sync.
+- **The sidecar carries its own identity.** The 16-byte ESI digest sits in the file, so a `.bin` read on its own tells you which embedding space produced it — no manifest lookup required. This is ADR-0005 **Stage 2**, live: every sidecar in this corpus is version 2. A version 1 sidecar carries no identity and cannot answer that question, which is why a mixed corpus is forbidden rather than merely discouraged.
+- **Identity is also recorded in the manifest** (`embedding_space` + `embedding_space_id`), stamped at generation time by the embedder that actually produced the vectors. Every current record carries its recorded identity, and new or changed documents receive theirs through the normal daily sync.
 
 The exact identity definition, canonical serialization, and compatibility rules are owned by [`lovspor/docs/embeddings.md`](https://github.com/bartoszkobylinski/lovspor/blob/main/docs/embeddings.md).
 
