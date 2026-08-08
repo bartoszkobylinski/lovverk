@@ -109354,13 +109354,13 @@
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
-      "embedding_hash": "6d4055e86666717d383b84e23c7f2cf65eb9d1b850e5a02bb2e5ffda961f524c",
-      "embedding_input_hash": "c06c7b71f9488fa1a4ae3d113725a9790d64dec0cf63fac4a6dce9a31329687c",
+      "embedding_hash": "df684ec22df757144489fffc0130aac6212955ed9dfc4210c6c7c777a8054831",
+      "embedding_input_hash": "37935d1436a7ce484ec27f2c580d3ba2c7cb467033b67233c9fb5340dafb9f82",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-08-08",
+      "last_seen": "2026-08-08T05:06:24.539947Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109368,8 +109368,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 8,
-      "xml_hash": "6d4055e86666717d383b84e23c7f2cf65eb9d1b850e5a02bb2e5ffda961f524c"
+      "total_changes": 9,
+      "xml_hash": "df684ec22df757144489fffc0130aac6212955ed9dfc4210c6c7c777a8054831"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -113020,6 +113020,6 @@
       "xml_hash": "5af1efc989cbe1c3849dcf7da164c31bdef35e96d757ce1bc4d5fa71e0b2c632"
     }
   },
-  "generated_at": "2026-08-07T05:48:18.457271Z",
+  "generated_at": "2026-08-08T05:06:24.539947Z",
   "version": 1
 }
