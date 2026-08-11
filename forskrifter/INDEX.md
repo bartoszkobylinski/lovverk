@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5120 current documents_
+_5119 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1631,7 +1631,6 @@ _5120 current documents_
 - [forskrift-om-bachelorgrad-hibu](forskrift-om-bachelorgrad-hibu.md) — Forskrift om bachelorgrad ved Høgskolen i Buskerud
 - [forskrift-om-bachelorgrad-ved-amh](forskrift-om-bachelorgrad-ved-amh.md) — Forskrift om bachelorgrad ved Atlantis Medisinske Høgskole
 - [forskrift-om-bachelorgrad-ved-hive](forskrift-om-bachelorgrad-ved-hive.md) — Forskrift om krav til bachelorgrad ved Høgskolen i Vestfold
-- [forskrift-om-bachelorgrad-ved-samisk-høgskole](forskrift-om-bachelorgrad-ved-samisk-høgskole.md) — Forskrift om bachelorgrad ved Samisk høgskole
 - [forskrift-om-badsturøkt-kjøtt](forskrift-om-badsturøkt-kjøtt.md) — Forskrift om beskyttelse av Badsturøkt kjøtt på namdalsk vis som betegnelse for tradisjonelt særpreg
 - [forskrift-om-bakkeinspeksjoner-av-luftfartøy](forskrift-om-bakkeinspeksjoner-av-luftfartøy.md) — Forskrift om inspeksjoner på bakken av luftfartøy
 - [forskrift-om-bakketjeneste-ved-flyplasser](forskrift-om-bakketjeneste-ved-flyplasser.md) — Forskrift om bakketjeneste ved flyplasser (BSL E 4-1)
@@ -1882,7 +1881,6 @@ _5120 current documents_
 - [forskrift-om-eksamen-ved-amh](forskrift-om-eksamen-ved-amh.md) — Forskrift om eksamen ved Atlantis Medisinske Høgskole
 - [forskrift-om-eksamen-ved-fengselsbetjentutdanningen](forskrift-om-eksamen-ved-fengselsbetjentutdanningen.md) — Forskrift om eksamen ved fengselsbetjentutdanningen
 - [forskrift-om-eksamen-ved-nith](forskrift-om-eksamen-ved-nith.md) — Forskrift om eksamen ved Norges Informasjonsteknologiske Høgskole
-- [forskrift-om-eksamen-ved-samisk-høgskole](forskrift-om-eksamen-ved-samisk-høgskole.md) — Forskrift om eksamen og sluttvurdering ved Samisk høgskole
 - [forskrift-om-eksigible-gjeldsbrev](forskrift-om-eksigible-gjeldsbrev.md) — Forskrift om bekreftelse av underskrift på eksigible gjeldsbrev.
 - [forskrift-om-eksplosiver-på-svalbard](forskrift-om-eksplosiver-på-svalbard.md) — Ikrafttredelse av lov av 14. juni 1974 nr. 39 om eksplosive varer for Svalbard med endringsbestemmelser.
 - [forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter](forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter.md) — Forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter
@@ -3575,6 +3573,7 @@ _5120 current documents_
 - [forskrift-om-studier-og-eksamen-ved-ldh](forskrift-om-studier-og-eksamen-ved-ldh.md) — Forskrift om studier og eksamen ved Lovisenberg diakonale høgskole
 - [forskrift-om-studier-og-eksamen-ved-nord-universitet](forskrift-om-studier-og-eksamen-ved-nord-universitet.md) — Forskrift om studier og eksamen ved Nord universitet
 - [forskrift-om-studier-og-eksamen-ved-politihøgskolen-2](forskrift-om-studier-og-eksamen-ved-politihøgskolen-2.md) — Forskrift om studier og eksamen ved Politihøgskolen (PHS)
+- [forskrift-om-studier-og-eksamen-ved-samisk-høgskole](forskrift-om-studier-og-eksamen-ved-samisk-høgskole.md) — Forskrift om studier og eksamen ved Samisk høgskole
 - [forskrift-om-studier-og-eksamen-ved-uia](forskrift-om-studier-og-eksamen-ved-uia.md) — Forskrift om studier og eksamen ved Universitetet i Agder
 - [forskrift-om-studier-og-eksamen-ved-universitetet-i-stavanger](forskrift-om-studier-og-eksamen-ved-universitetet-i-stavanger.md) — Forskrift om studier og eksamen ved Universitetet i Stavanger
 - [forskrift-om-studier-og-eksamen-ved-universitetet-i-sørøst-norge](forskrift-om-studier-og-eksamen-ved-universitetet-i-sørøst-norge.md) — Forskrift om studier og eksamen ved Universitetet i Sørøst-Norge (USN)
