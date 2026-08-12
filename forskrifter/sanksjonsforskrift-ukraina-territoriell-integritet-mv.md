@@ -10,12 +10,12 @@ ministry:
   - "Utenriksdepartementet"
 date_in_force: "2014-08-15"
 last_change_in_force: "2026-07-14"
-last_updated: "2026-04-09"
-xml_hash: "4c71fcef40824145940b6f741e7bb7c6216830032a8dd8f95e51624bc0d69e7f"
+last_updated: "2026-08-11"
+xml_hash: "b7e0a7524ddec0d321da828afe2fbffe14037a84c21386c67fb53da2d38033e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T06:25:16.446498+00:00"
+retrieved_at: "2026-08-12T05:43:29.113393+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2261,14 +2261,14 @@ Første ledd får ikke anvendelse på et fartøy som har behov for hjelp og søk
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi et fartøy adgang til en havn eller en sluse, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at adgangen er nødvendig for
 
 1. med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) og [§ 17k](forskrift/2014-08-15-1076/§17k), kjøp, import eller transport av naturgass og olje til Norge eller EU, herunder raffinerte petroleumsprodukter, titan, aluminium, kobber, nikkel, palladium og jernmalm, samt visse kjemiske produkter og jernprodukter som oppført i [vedlegg XXIV](forskrift/2014-08-15-1076/vedleggxxiv),
-2. adgangen er nødvendig for operasjoner som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU,
+2. kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matprodukter, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og frakte i henhold til denne forskriften,
 3. humanitære formål, eller
 4. transport av kjernebrensel og andre varer som er strengt nødvendige for drift av sivile kjernefysiske kapasiteter.
 
 Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi fartøy som har byttet sitt russiske flagg eller sin registrering til enhver annen stats flagg eller registrering før 7. mai 2022, adgang til en havn eller en sluse, etter å ha fastslått at
 
 1. russisk flagg eller registrering var påkrevd som følge av kontrakt, og
-2. adgangen er nødvendig for å losse varer som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU, forutsatt at import av slike varer ikke ellers er forbudt i henhold til denne forskriften
+2. adgangen er nødvendig for operasjoner som er strengt nødvendige for å fullføre prosjekter for fornybar energi i Norge eller EU.
 
 Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi et fartøy adgang til en havn eller sluse, forutsatt at fartøyet
 
