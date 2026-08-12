@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "8432346b1248f7f5ff98c4f3b33cc8f10e74fca6e58118a1370c16b8f3917a23"
+xml_hash: "9cfba56cd9d1f62ca4d96e4f1e8502d0ee4c9711310461029a585576273df9f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+retrieved_at: "2026-08-12T05:43:29.113393+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## I
 
-Justis- og beredskapsdepartementet delegerer til Statens sivilrettsforvaltning departementets myndighet etter [§ 46](lov/1915-08-13-5/§46) i [lov 13. august 1915 nr. 5 om domstolene](lov/1915-08-13-5) for anmodninger som sendes etter Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters ([Haag-konvensjonen 1965](lov/1965-11-15)) og Convention of 18 March 1970 on the Taking of Evidence Abroad in Civil or Commercial Matters ([Haag-konvensjon 1970](traktat/1970-03-18-1)).
+Justis- og beredskapsdepartementet delegerer til Statens sivilrettsforvaltning departementets myndighet etter [§ 46](lov/1915-08-13-5/§46) i [lov 13. august 1915 nr. 5 om domstolene](lov/1915-08-13-5) for anmodninger som sendes etter Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters ([Haag-konvensjonen 1965](traktat/1965-11-15-1)) og Convention of 18 March 1970 on the Taking of Evidence Abroad in Civil or Commercial Matters ([Haag-konvensjon 1970](traktat/1970-03-18-1)).
 
 ## II
 
