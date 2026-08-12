@@ -69454,13 +69454,13 @@
     },
     "sf-20140815-1076": {
       "doc_type": "forskrift",
-      "embedding_hash": "4c71fcef40824145940b6f741e7bb7c6216830032a8dd8f95e51624bc0d69e7f",
-      "embedding_input_hash": "e503a0638a37fc53f15949b3487cedcbd6c7232f8e4e3728b339f2ee21936ec7",
+      "embedding_hash": "b7e0a7524ddec0d321da828afe2fbffe14037a84c21386c67fb53da2d38033e7",
+      "embedding_input_hash": "e58bc02c1300f9bc4d17a492d1da0a714177bd2e0a1ea644c4181a38b6ada49b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-08-12",
+      "last_seen": "2026-08-12T05:43:29.113393Z",
       "markdown_path": "forskrifter/sanksjonsforskrift-ukraina-territoriell-integritet-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -69468,8 +69468,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet",
-      "total_changes": 7,
-      "xml_hash": "4c71fcef40824145940b6f741e7bb7c6216830032a8dd8f95e51624bc0d69e7f"
+      "total_changes": 8,
+      "xml_hash": "b7e0a7524ddec0d321da828afe2fbffe14037a84c21386c67fb53da2d38033e7"
     },
     "sf-20140815-1079": {
       "doc_type": "forskrift",
@@ -95674,13 +95674,13 @@
     },
     "sf-20221031-1972": {
       "doc_type": "forskrift",
-      "embedding_hash": "8432346b1248f7f5ff98c4f3b33cc8f10e74fca6e58118a1370c16b8f3917a23",
+      "embedding_hash": "9cfba56cd9d1f62ca4d96e4f1e8502d0ee4c9711310461029a585576273df9f2",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-30",
-      "last_seen": "2026-06-30T07:51:25.240716Z",
+      "last_changed": "2026-08-12",
+      "last_seen": "2026-08-12T05:43:29.113393Z",
       "markdown_path": "forskrifter/delegering-av-justis-og-beredskapsdepartementets-myndighet-etter-domstolloven-46-til-statens-sivilrettsforvaltning-for-anmodninger-som-sendes-etter-haag-konvensjonen-1965-og-haag-konvensjonen-1970.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -95688,8 +95688,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Delegering av Justis- og beredskapsdepartementets myndighet etter domstolloven § 46 til Statens sivilrettsforvaltning for anmodninger som sendes etter Haag-konvensjonen 1965 og Haag-konvensjonen 1970",
-      "total_changes": 1,
-      "xml_hash": "8432346b1248f7f5ff98c4f3b33cc8f10e74fca6e58118a1370c16b8f3917a23"
+      "total_changes": 2,
+      "xml_hash": "9cfba56cd9d1f62ca4d96e4f1e8502d0ee4c9711310461029a585576273df9f2"
     },
     "sf-20221107-1929": {
       "doc_type": "forskrift",
@@ -113039,6 +113039,6 @@
       "xml_hash": "5af1efc989cbe1c3849dcf7da164c31bdef35e96d757ce1bc4d5fa71e0b2c632"
     }
   },
-  "generated_at": "2026-08-11T05:16:56.727496Z",
+  "generated_at": "2026-08-12T05:43:29.113393Z",
   "version": 1
 }

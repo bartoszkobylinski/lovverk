@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # delegering-av-justis-og-beredskapsdepartementets-myndighet-etter-domstolloven-46-til-statens-sivilrettsforvaltning-for-anmodninger-som-sendes-etter-haag-konvensjonen-1965-og-haag-konvensjonen-1970 — Change history
 
-_1 events; doc_id `sf-20221031-1972`._
+_2 events; doc_id `sf-20221031-1972`._
+
+## 2026-08-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): delegering-av-justis-og-beredskapsdepartementets-myndighet-etter-domstolloven-46-til-statens-sivilrettsforvaltning-for-anmodninger-som-sendes-etter-haag-konvensjonen-1965-og-haag-konvensjonen-1970`
+Commit: `63601b3`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +31 -0.
