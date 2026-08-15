@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forsyningsforskriften — Change history
 
-_5 events; doc_id `sf-20160812-0975`._
+_6 events; doc_id `sf-20160812-0975`._
+
+## 2026-08-15 — Content updated
+Lines: +3 -5.
+Subject: `update(forskrift): forsyningsforskriften`
+Commit: `221374b`.
 
 ## 2026-07-02 — Content updated
 Lines: +5 -5.

@@ -8133,15 +8133,15 @@
     },
     "nl-20080515-035": {
       "doc_type": "lov",
-      "embedding_hash": "52f819017f92178b92eea7a5e652c3d4cea334ba153076516d5323bfdce012d7",
-      "embedding_input_hash": "2549a612f30f72a7248a593dedf88d3181df0ee27fdc8f360152d1c2cbf638bd",
+      "embedding_hash": "3e606fa446439e1636eed1c5991a0e203ddbcc3e524d092f07b93bab5d40a5c1",
+      "embedding_input_hash": "da228da32bfb3cfc70d9cebb920fe2b933b8bf8925a94a4c8c871b23389029c8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32004L0038"
       ],
-      "last_changed": "2026-07-03",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-15",
+      "last_seen": "2026-08-15T04:39:48.557558Z",
       "markdown_path": "lover/utlendingsloven-utlendl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -8149,8 +8149,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
-      "total_changes": 9,
-      "xml_hash": "52f819017f92178b92eea7a5e652c3d4cea334ba153076516d5323bfdce012d7"
+      "total_changes": 10,
+      "xml_hash": "3e606fa446439e1636eed1c5991a0e203ddbcc3e524d092f07b93bab5d40a5c1"
     },
     "nl-20080606-037": {
       "doc_type": "lov",
@@ -13013,13 +13013,13 @@
     },
     "nl-20240412-016": {
       "doc_type": "lov",
-      "embedding_hash": "91b532d376d696964e2e94e1456d8b6bdf4be9641fc2dfb314906d1f37542be9",
-      "embedding_input_hash": "a01ab9ae9a94471fca3490dd4dbbd34f9910761bfd499ec697e4fd96d6391414",
+      "embedding_hash": "30023272160413506c8e06250504855baa3c36576144e46e2c302305b2cb6553",
+      "embedding_input_hash": "5c8ae8f4e3a3fc94cc3e58778f8badaf214e287fbc5bbfa8917aad4921786ebe",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-08-15",
+      "last_seen": "2026-08-15T04:39:48.557558Z",
       "markdown_path": "lover/lov-om-informasjonstilgang-gransking-av-utenlandsadopsjoner.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13027,8 +13027,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om informasjonstilgang m.m. for utvalget som skal granske utenlandsadopsjoner til Norge",
-      "total_changes": null,
-      "xml_hash": "91b532d376d696964e2e94e1456d8b6bdf4be9641fc2dfb314906d1f37542be9"
+      "total_changes": 4,
+      "xml_hash": "30023272160413506c8e06250504855baa3c36576144e46e2c302305b2cb6553"
     },
     "nl-20240621-040": {
       "doc_type": "lov",
@@ -49390,13 +49390,13 @@
     },
     "sf-20051007-1219": {
       "doc_type": "forskrift",
-      "embedding_hash": "45d6fa0d68d14a2df0b2a5cfcfee9d14389c151a0e417da61ccd15df02912a35",
-      "embedding_input_hash": "68e64b00666c0f0d8a90a50ce802ebd6fa65b8c8931555ef49a1505bbce6c3b9",
+      "embedding_hash": "622c9ae878c01847b410fc642a567db7fe02cfa6b72ce82f30580fd4f3302a6f",
+      "embedding_input_hash": "8a425f4bdfe390f71aab25335975a6ce0b9122fcd1124baf4cf3f1b88a858c86",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-15",
+      "last_seen": "2026-08-15T04:39:48.557558Z",
       "markdown_path": "forskrifter/skiltforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -49404,8 +49404,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlige trafikkskilt, vegoppmerking, trafikklyssignaler og anvisninger (skiltforskriften)",
-      "total_changes": 3,
-      "xml_hash": "45d6fa0d68d14a2df0b2a5cfcfee9d14389c151a0e417da61ccd15df02912a35"
+      "total_changes": 4,
+      "xml_hash": "622c9ae878c01847b410fc642a567db7fe02cfa6b72ce82f30580fd4f3302a6f"
     },
     "sf-20051011-1196": {
       "doc_type": "forskrift",
@@ -75306,13 +75306,13 @@
     },
     "sf-20160812-0975": {
       "doc_type": "forskrift",
-      "embedding_hash": "3ecfb8ba0d1cc4cadd390110a355f9ff71fe65d73f50137eef4a1a1f876eddf8",
-      "embedding_input_hash": "a604ce864fdfd598de996e13b7d6a5a56893d953a27615a8d5001fda5d236e44",
+      "embedding_hash": "76382e8b29e65b742cb754e2f6ae4f4f3f39ef7a1920b13d7cf016dad5b23fbf",
+      "embedding_input_hash": "ffd3b6d66fc3d60e0614609b1aa69bf9ceda792fe7b0d00626752c5b83391be9",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-15",
+      "last_seen": "2026-08-15T04:39:48.557558Z",
       "markdown_path": "forskrifter/forsyningsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -75320,8 +75320,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om innkjøpsregler i forsyningssektorene (forsyningsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "3ecfb8ba0d1cc4cadd390110a355f9ff71fe65d73f50137eef4a1a1f876eddf8"
+      "total_changes": 6,
+      "xml_hash": "76382e8b29e65b742cb754e2f6ae4f4f3f39ef7a1920b13d7cf016dad5b23fbf"
     },
     "sf-20160812-0976": {
       "doc_type": "forskrift",
@@ -104661,13 +104661,13 @@
     },
     "sf-20250612-1547": {
       "doc_type": "forskrift",
-      "embedding_hash": "0494578d4b60a81006eba4b31c7e1e8fd9f6925d5630b3fde121c7072ca9fddc",
-      "embedding_input_hash": "fd5ec9ae1c24f87aac89b3bbe0f16903342c687ac91b78600d74d13f628eb569",
+      "embedding_hash": "f4d6e012e8f89121c7c26941348d5b035df364f18e750f7c378a3540f7610ad2",
+      "embedding_input_hash": "3e6676a4fef08554d1231bbb2baff145cf3f352a1ec5453ea184a0f7c3062cf4",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-15",
+      "last_seen": "2026-08-15T04:39:48.557558Z",
       "markdown_path": "forskrifter/forskrift-om-studium-og-eksamen-ved-høgskulen-på-vestlandet.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -104675,8 +104675,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studium og eksamen ved Høgskulen på Vestlandet",
-      "total_changes": 3,
-      "xml_hash": "0494578d4b60a81006eba4b31c7e1e8fd9f6925d5630b3fde121c7072ca9fddc"
+      "total_changes": 4,
+      "xml_hash": "f4d6e012e8f89121c7c26941348d5b035df364f18e750f7c378a3540f7610ad2"
     },
     "sf-20250612-1551": {
       "doc_type": "forskrift",
@@ -113039,6 +113039,6 @@
       "xml_hash": "5af1efc989cbe1c3849dcf7da164c31bdef35e96d757ce1bc4d5fa71e0b2c632"
     }
   },
-  "generated_at": "2026-08-12T05:43:29.113393Z",
+  "generated_at": "2026-08-15T04:39:48.557558Z",
   "version": 1
 }

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # skiltforskriften — Change history
 
-_3 events; doc_id `sf-20051007-1219`._
+_4 events; doc_id `sf-20051007-1219`._
+
+## 2026-08-15 — Content updated
+Lines: +48 -6.
+Subject: `update(forskrift): skiltforskriften`
+Commit: `3b321b3`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20160812-0975",
   "events": [
     {
+      "commit": "221374b",
+      "date": "2026-08-15",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forsyningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "747167f",
       "date": "2026-07-02",
       "from_path": null,

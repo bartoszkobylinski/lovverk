@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # utlendingsloven-utlendl — Change history
 
-_9 events; doc_id `nl-20080515-035`._
+_10 events; doc_id `nl-20080515-035`._
+
+## 2026-08-15 — Content updated
+Lines: +3 -985.
+Subject: `update(lov): utlendingsloven-utlendl`
+Commit: `d2fedf0`.
 
 ## 2026-07-03 — Content updated
 Lines: +3 -3.

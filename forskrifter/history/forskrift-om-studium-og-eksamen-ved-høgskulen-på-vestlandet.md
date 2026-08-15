@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-studium-og-eksamen-ved-høgskulen-på-vestlandet — Change history
 
-_3 events; doc_id `sf-20250612-1547`._
+_4 events; doc_id `sf-20250612-1547`._
+
+## 2026-08-15 — Content updated
+Lines: +69 -20.
+Subject: `update(forskrift): forskrift-om-studium-og-eksamen-ved-høgskulen-på-vestlandet`
+Commit: `c92dca9`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
