@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2024-04-12"
-last_change_in_force: null
+last_change_in_force: "2026-06-22"
 last_updated: null
-xml_hash: "91b532d376d696964e2e94e1456d8b6bdf4be9641fc2dfb314906d1f37542be9"
+xml_hash: "30023272160413506c8e06250504855baa3c36576144e46e2c302305b2cb6553"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-08-15T04:39:48.557558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,9 @@ eu_basis: []
 
 Loven skal sikre at utvalget som skal granske utenlandsadopsjoner til Norge, oppnevnt av Kongen i statsråd 20. juni 2023, får tilgang til nødvendige opplysninger for å få utført sitt arbeid i henhold til mandatet, og gi utvalget adgang til å behandle disse opplysningene.
 
-## § 2. Opplysninger til utvalget
+## § 2. (Opphevet)
 
-Enhver kan uten hinder av taushetsplikt gi utvalget opplysninger som er nødvendige for utvalgets arbeid.
-
-Utvalget kan ikke pålegge noen å gi opplysninger.
-
-Utvalget kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter mandatet.
+> Opphevet ved lov [12 april 2024 nr. 16](lov/2024-04-12-16) (i kraft 22 juni 2026, se [§ 6](lov/2024-04-12-16/§6) annet ledd).
 
 ## § 3. Taushetsplikt
 
@@ -40,13 +36,9 @@ Medlemmene i utvalget og enhver som utfører tjeneste eller arbeid for utvalget,
 
 Når personer nevnt i første ledd mottar opplysninger etter [§ 2 første ledd](lov/2024-04-12-16/§2/ledd/1) som er undergitt strengere regler om taushetsplikt enn det som følger av [forvaltningsloven](lov/1967-02-10), skal de strengere reglene gjelde. Det samme gjelder etter at materialet har blitt overlevert til arkivdepot.
 
-## § 4. Behandling av personopplysninger
+## § 4. (Opphevet)
 
-Utvalget kan behandle personopplysninger som er nødvendige for formålet med utvalgets arbeid, uten samtykke fra dem opplysningene gjelder. Dette gjelder også personopplysninger som nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10).
-
-Retten til innsyn etter [personvernforordningen artikkel 15](lov/2018-06-15-38/gdpr/a15) gjelder ikke dersom det vil kreve en uforholdsmessig stor innsats å gi innsyn.
-
-Utvalget er behandlingsansvarlig frem til det har avsluttet sitt arbeid.
+> Opphevet ved lov [12 april 2024 nr. 16](lov/2024-04-12-16) (i kraft 22 juni 2026, se [§ 6](lov/2024-04-12-16/§6) annet ledd).
 
 ## § 5. Forbud mot bruk av opplysninger i senere straffesaker, sivile saker eller tilsynssaker
 
@@ -56,4 +48,6 @@ Opplysninger som utvalget har mottatt i medhold av [§ 2](lov/2024-04-12-16/§2)
 
 Loven trer i kraft straks.
 
-[§§ 2](lov/2024-04-12-16/§2) og [4](lov/2024-04-12-16/§4) oppheves når utvalget har avsluttet sitt arbeid.
+[§§ 2](lov/2024-04-12-16/§2) og [4](lov/2024-04-12-16/§4) oppheves når utvalget har avsluttet sitt arbeid.[^1]
+
+1 Utvalget leverte avsluttende rapport 22. juni 2026 iflg. [NOU 2026: 7](forarbeid/nou-2026-7).
