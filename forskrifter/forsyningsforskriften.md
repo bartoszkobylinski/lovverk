@@ -10,12 +10,12 @@ ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
-last_updated: "2022-03-24"
-xml_hash: "3ecfb8ba0d1cc4cadd390110a355f9ff71fe65d73f50137eef4a1a1f876eddf8"
+last_updated: "2026-08-14"
+xml_hash: "76382e8b29e65b742cb754e2f6ae4f4f3f39ef7a1920b13d7cf016dad5b23fbf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-15T04:39:48.557558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -414,8 +414,6 @@ I forskriften menes med
 2. 62,9 millioner kroner ekskl. mva. for bygge- og anleggskontrakter.
 
 (2) EØS-terskelverdien er 11,6 millioner kroner ekskl. mva. for kontrakter om særlige tjenester og helse- og sosialtjenester.
-
-(2) EØS-terskelverdien er 10,4 millioner kroner ekskl. mva. for kontrakter om særlige tjenester og helse- og sosialtjenester.
 
 > Endret ved [forskrifter 4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018), [12 feb 2020 nr. 128](forskrift/2020-02-12-128), [18 mars 2022 nr. 442](forskrift/2022-03-18-442), [14 mars 2024 nr. 449](forskrift/2024-03-14-449), [21 april 2026 nr. 623](forskrift/2026-04-21-623).
 
