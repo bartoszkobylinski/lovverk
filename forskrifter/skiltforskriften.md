@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2005-10-07"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-08-12"
 last_updated: "2025-01-30"
-xml_hash: "45d6fa0d68d14a2df0b2a5cfcfee9d14389c151a0e417da61ccd15df02912a35"
+xml_hash: "622c9ae878c01847b410fc642a567db7fe02cfa6b72ce82f30580fd4f3302a6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-15T04:39:48.557558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -596,12 +596,12 @@ På underskilt til skilt som regulerer stans eller parkering, kan brukes miniaty
 
 *A. Langsgående oppmerking*
 
-Langsgående oppmerking nyttes for å dele kjørebanen i kjørefelt eller for å angi kjørebanens ytterkant.
+Langsgående oppmerking nyttes for å dele kjørebanen i kjørefelt eller for å angi kjørebanens ytterkant. Slik oppmerking kan også brukes på sykkelveg og gang- og sykkelveg.
 
 |  |  |
 | --- | --- |
 | 1000 | 1000 Kjørefeltlinje<br>Kjørefeltlinje kan overskrides når det skjer i samsvar med trafikkreglenes bestemmelser. |
-| 1002 | 1002 Varsellinje<br>Gul varsellinje angir at sikten fremover er for kort til vanlig forbikjøring. Hvit varsellinje angir fare ved å skifte kjørefelt. |
+| 1002 | 1002 Varsellinje<br>Gul varsellinje angir at sikten fremover er for kort til vanlig forbikjøring. Hvit varsellinje angir fare ved å skifte kjørefelt. Slik oppmerking kan også brukes på sykkelveger for å skille forskjellige retninger, samt på korte strekninger på gang- og sykkelveg der det er dårlige siktforhold. |
 | 1004 | 1004 Sperrelinje<br>Linjen skiller kjørefelt.<br>Det må ikke kjøres på eller over sperrelinje, eller til venstre for gul sperrelinje. |
 | 1006 | 1006 Kombinerte linjer<br>Ved kombinerte linjer skal kjørende rette seg etter den linjen som ligger nærmest. Den som har kjørt over i felt for motgående kjørende, kan likevel kjøre tilbake til høyre vegside.<br>Dobbel, gul varsellinje angir skille mellom kjørefelt hvor kjøreretningen kan varieres. |
 | 1008 | 1008 Skillelinje<br>Linjen skiller mellom vanlig kjørefelt og fartsendringsfelt, kollektivfelt, sambruksfelt, tungtrafikkfelt, sykkelfelt eller annet kjørefelt for spesiell bruk. |
@@ -639,7 +639,7 @@ Langsgående oppmerking nyttes for å dele kjørebanen i kjørefelt eller for å
 | 1054 | 1054 Fartsgrense |
 | 1055 | 1055 Bildeling |
 
-> Endret ved forskrifter [17 juli 2008 nr. 812](forskrift/2008-07-17-812), [24 mai 2011 nr. 543](forskrift/2011-05-24-543) (i kraft 15 juni 2011), [21 nov 2011 nr. 1125](forskrift/2011-11-21-1125) (i kraft 1 jan 2012), [30 jan 2020 nr. 91](forskrift/2020-01-30-91), [15 april 2021 nr. 1161](forskrift/2021-04-15-1161), [30 mai 2022 nr. 933](forskrift/2022-05-30-933) (i kraft 15 juni 2022), [22 juli 2024 nr. 1801](forskrift/2024-07-22-1801).
+> Endret ved forskrifter [17 juli 2008 nr. 812](forskrift/2008-07-17-812), [24 mai 2011 nr. 543](forskrift/2011-05-24-543) (i kraft 15 juni 2011), [21 nov 2011 nr. 1125](forskrift/2011-11-21-1125) (i kraft 1 jan 2012), [30 jan 2020 nr. 91](forskrift/2020-01-30-91), [15 april 2021 nr. 1161](forskrift/2021-04-15-1161), [30 mai 2022 nr. 933](forskrift/2022-05-30-933) (i kraft 15 juni 2022), [22 juli 2024 nr. 1801](forskrift/2024-07-22-1801), [12 aug 2026 nr. 1625](forskrift/2026-08-12-1625).
 
 ## Kapittel 12. Trafikklyssignaler og anvisning gitt av politiet
 
@@ -922,6 +922,48 @@ Dersom trafikken på privat veg som er åpen for alminnelig ferdsel tilsier det,
 ### § 46. Utfyllingsbestemmelser, unntak
 
 Vegdirektoratet kan gi nærmere utfyllende bestemmelser til denne forskrift. Vegdirektoratet kan gjøre unntak fra forskriften.
+
+### § 46a. Bestemmelser om utprøving av nye trafikkskilt m.m.
+
+Med tillatelse fra Vegdirektoratet kan det gjennomføres utprøving av trafikkskilt, vegoppmerking og trafikklyssignal som angitt i paragrafen her.
+
+*A. Trafikkskilt*
+
+*I. Underskilt til trafikklyssignal*
+
+*840 Syklende tillatt på rødt*
+
+Underskiltet kan brukes sammen med 1080 «Hovedsignal», 1082 «Pilsignal» og 1084 «Sykkelsignal» uten separat pilsignal mot høyre, Det angir at rødt lys ikke gjelder for syklende og fører av liten elektrisk motorvogn, og at disse har vikeplikt overfor trafikanter i krysset og vegen de kjører inn på.
+
+840.1 Sykling til høyre tillatt
+
+840.2 Sykling rett frem tillatt
+
+840.3 Sykling til høyre tillatt
+
+840.4 Sykling rett frem tillatt
+
+*B. Vegoppmerking*
+
+*I. Kryssmarkering*
+
+1030 Kryssmarkering
+
+Oppmerkingen angir areal i kryssområder hvor stans er i strid med [trafikkreglenes](forskrift/1986-03-21-747) bestemmelser
+
+*II. Vegoppmerkingssymboler for å veilede motorsyklister til et sikrere linjevalg i svinger*
+
+1030.1 Ellipser (Eksempel)
+
+1030.2 Skråstilte porter (Eksempel)
+
+*III. Vegoppmerking for å separere gående og syklende på gang- og sykkelveg*
+
+1002 Varsellinje kan brukes på gang- og sykkelveg for å skille forskjellige retninger.
+
+1012 Kantlinje kan også brukes til å separere trafikanter på gang- og sykkelveg.
+
+> Tilføyd ved forskrift [12 aug 2026 nr. 1625](forskrift/2026-08-12-1625).
 
 ### § 47. Ikrafttreden og overgangsbestemmelser m.m.
 
