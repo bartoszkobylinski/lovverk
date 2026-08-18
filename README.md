@@ -97,11 +97,11 @@ Every document records the SHA-256 of its normalized source XML in `manifest.jso
 - integrity of the corpus against its own manifest (paths, hashes, membership);
 - the full provenance of any line of any document via `git log` / `git blame`;
 - the upstream source itself, by downloading the same public tarballs from `https://api.lovdata.no/v1/publicData/get/`;
-- the rendering end-to-end: the engine is public and MIT-licensed, so a third party can obtain the upstream data, run `lovspor` independently, and compare the generated artifacts and hashes against this repository. Rendering is deterministic — same source in, identical bytes out.
+- the rendering end-to-end: the engine is public and AGPL-3.0-licensed, so a third party can obtain the upstream data, run `lovspor` independently, and compare the generated artifacts and hashes against this repository. Rendering is deterministic — same source in, identical bytes out.
 
 ## Relationship to lovspor
 
-[`lovspor`](https://github.com/bartoszkobylinski/lovspor) (public, MIT) is the engine; `lovverk` (this repository) is its published output. The only normal write path for corpus artifacts into this repository is the engine's scheduled sync. Consuming the corpus never requires the engine — a clone plus `manifest.json` is a complete, self-describing dataset — but everything programmatic (search, MCP, temporal tools, verification) lives on the engine side.
+[`lovspor`](https://github.com/bartoszkobylinski/lovspor) (public, AGPL-3.0) is the engine; `lovverk` (this repository) is its published output. The only normal write path for corpus artifacts into this repository is the engine's scheduled sync. Consuming the corpus never requires the engine — a clone plus `manifest.json` is a complete, self-describing dataset — but everything programmatic (search, MCP, temporal tools, verification) lives on the engine side.
 
 ## Source and attribution
 
