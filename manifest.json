@@ -41334,13 +41334,13 @@
     },
     "sf-20020322-0313": {
       "doc_type": "forskrift",
-      "embedding_hash": "20e77d61a91c3dfdf6ab4fc9af903ea8b0fa140ac4786e70514796172db19066",
-      "embedding_input_hash": "0e24dc1b0f9415abdf38e7d172c464f2a47c823c391a85361881b7427125aae5",
+      "embedding_hash": "d6f4e080b28605a172698f3f4449ed43cc9d2a7e8ce69a47573360ac72f6ee57",
+      "embedding_input_hash": "2ca0227fdae854ed4d1f03441f1ebe644f9311f02da0b41a5995507ffbf6dd7f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-19",
+      "last_seen": "2026-08-19T04:46:02.112168Z",
       "markdown_path": "forskrifter/forskrift-om-utøvelse-av-jakt-felling-og-fangst.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -41348,8 +41348,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utøvelse av jakt, felling og fangst",
-      "total_changes": 4,
-      "xml_hash": "20e77d61a91c3dfdf6ab4fc9af903ea8b0fa140ac4786e70514796172db19066"
+      "total_changes": 5,
+      "xml_hash": "d6f4e080b28605a172698f3f4449ed43cc9d2a7e8ce69a47573360ac72f6ee57"
     },
     "sf-20020401-1090": {
       "doc_type": "forskrift",
@@ -69454,13 +69454,13 @@
     },
     "sf-20140815-1076": {
       "doc_type": "forskrift",
-      "embedding_hash": "b7e0a7524ddec0d321da828afe2fbffe14037a84c21386c67fb53da2d38033e7",
+      "embedding_hash": "b0fb84ee43cfe5149b2b867d46dde67bb084f0b9082a1af7ede632d4fd183330",
       "embedding_input_hash": "e58bc02c1300f9bc4d17a492d1da0a714177bd2e0a1ea644c4181a38b6ada49b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-12",
-      "last_seen": "2026-08-12T05:43:29.113393Z",
+      "last_changed": "2026-08-19",
+      "last_seen": "2026-08-19T04:46:02.112168Z",
       "markdown_path": "forskrifter/sanksjonsforskrift-ukraina-territoriell-integritet-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -69468,8 +69468,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet",
-      "total_changes": 8,
-      "xml_hash": "b7e0a7524ddec0d321da828afe2fbffe14037a84c21386c67fb53da2d38033e7"
+      "total_changes": 9,
+      "xml_hash": "b0fb84ee43cfe5149b2b867d46dde67bb084f0b9082a1af7ede632d4fd183330"
     },
     "sf-20140815-1079": {
       "doc_type": "forskrift",
@@ -112527,13 +112527,13 @@
     },
     "sf-20260625-1361": {
       "doc_type": "forskrift",
-      "embedding_hash": "3157cfcfdd32f91e035938fbdb0f76b10811f466cf07a14d15023c149d768296",
-      "embedding_input_hash": "2317917ef9dc60f816d4e8d071da741bdedbbbfe3e9498ee93fa9d786c1ad28c",
+      "embedding_hash": "d18d6fe6d8e435aafcbaa1fcc3edb8aad4ff0a8ffeee18814d3013c314ca19d4",
+      "embedding_input_hash": "f65fd43938a27b5df18857d3bc646c82d218acef8552ad20257c0ff3d8eb8c3e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-27",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-19",
+      "last_seen": "2026-08-19T04:46:02.112168Z",
       "markdown_path": "forskrifter/forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-kapittel-15-stønad-til-enslig-mor-eller-far-fra-1-juli-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -112541,8 +112541,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 15 Stønad til enslig mor eller far fra 1. juli 2026",
-      "total_changes": 1,
-      "xml_hash": "3157cfcfdd32f91e035938fbdb0f76b10811f466cf07a14d15023c149d768296"
+      "total_changes": 2,
+      "xml_hash": "d18d6fe6d8e435aafcbaa1fcc3edb8aad4ff0a8ffeee18814d3013c314ca19d4"
     },
     "sf-20260625-1372": {
       "doc_type": "forskrift",
@@ -113039,6 +113039,6 @@
       "xml_hash": "5af1efc989cbe1c3849dcf7da164c31bdef35e96d757ce1bc4d5fa71e0b2c632"
     }
   },
-  "generated_at": "2026-08-15T04:39:48.557558Z",
+  "generated_at": "2026-08-19T04:46:02.112168Z",
   "version": 1
 }

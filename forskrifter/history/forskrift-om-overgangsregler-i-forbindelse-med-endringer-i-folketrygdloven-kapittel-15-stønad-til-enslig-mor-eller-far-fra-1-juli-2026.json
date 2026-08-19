@@ -2,6 +2,16 @@
   "doc_id": "sf-20260625-1361",
   "events": [
     {
+      "commit": "0aa6cc0",
+      "date": "2026-08-19",
+      "from_path": null,
+      "lines_added": 19,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-kapittel-15-stønad-til-enslig-mor-eller-far-fra-1-juli-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fd2afae",
       "date": "2026-06-27",
       "from_path": null,
