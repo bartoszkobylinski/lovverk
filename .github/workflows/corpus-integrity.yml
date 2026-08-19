@@ -1,0 +1,39 @@
+# The corpus is machine-written: lovspor renders it and commits only what
+# changed. The risk is therefore drift, not typos — a document the manifest
+# promises and the tree does not carry, or a file left behind after its record
+# was retired. Everything downstream (the lovverk MCP server, anyone citing a
+# law) reads the two as one thing.
+name: Corpus integrity
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  # The corpus is updated by an automated sync from lovspor, so check it on a
+  # schedule too: a bad sync should surface even if nobody opens a pull request.
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: corpus-integrity-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  integrity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Standard library only, on purpose: this repo carries no dependencies and
+      # a check on the data should not introduce a supply chain of its own.
+      - name: Manifest and tree agree
+        run: python3 scripts/check_corpus_integrity.py
