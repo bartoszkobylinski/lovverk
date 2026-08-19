@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2002-04-02"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-02-05"
-xml_hash: "20e77d61a91c3dfdf6ab4fc9af903ea8b0fa140ac4786e70514796172db19066"
+xml_hash: "d6f4e080b28605a172698f3f4449ed43cc9d2a7e8ce69a47573360ac72f6ee57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-19T04:46:02.112168+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -528,7 +528,7 @@ Fra samme tidspunkt oppheves:
 
 ### Kommentar til § 29a
 
-[Bernkonvensjonen](traktat/1971-07-24-1) forbyr bruk av kunstige lyskilder ved jakt og fangst av jerv, jf. [Bernkonvensjonen artikkel 8](traktat/1971-07-24-1/a8) og konvensjonens vedlegg II og IV. Konvensjonen åpner imidlertid for unntak fra forbudet og stiller krav om at unntak rapporteres, jf. artikkel 9. For å muliggjøre rapportering til [Bernkonvensjonen](traktat/1971-07-24-1) skal felling av jerv ved bruk av fast montert synlig lys for å belyse åte i forbindelse med lisensfelling av jerv etter § 29a første ledd rapporteres til statsforvalteren. Rapporteringen til statsforvalteren skal inneholde informasjon om:
+[Bernkonvensjonen](traktat/1979-09-19-1) forbyr bruk av kunstige lyskilder ved jakt og fangst av jerv, jf. [Bernkonvensjonen artikkel 8](traktat/1979-09-19-1/a8) og konvensjonens vedlegg II og IV. Konvensjonen åpner imidlertid for unntak fra forbudet og stiller krav om at unntak rapporteres, jf. artikkel 9. For å muliggjøre rapportering til [Bernkonvensjonen](traktat/1979-09-19-1) skal felling av jerv ved bruk av fast montert synlig lys for å belyse åte i forbindelse med lisensfelling av jerv etter § 29a første ledd rapporteres til statsforvalteren. Rapporteringen til statsforvalteren skal inneholde informasjon om:
 
 - Antall individer av jerv som er felt i lisensfelling der fast montert synlig lys er benyttet
 - Tid og sted for fellingen.
