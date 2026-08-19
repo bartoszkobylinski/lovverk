@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2026-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-08-17"
 last_updated: null
-xml_hash: "3157cfcfdd32f91e035938fbdb0f76b10811f466cf07a14d15023c149d768296"
+xml_hash: "d18d6fe6d8e435aafcbaa1fcc3edb8aad4ff0a8ffeee18814d3013c314ca19d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-19T04:46:02.112168+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,10 @@ Som reell arbeidssøker regnes den som er arbeidsfør, og er villig til å
 2. ta ethvert arbeid hvor reisetiden utgjør opptil én time hver vei med offentlig transport mellom hjem og arbeidsplass,
 3. ta arbeid som utgjør minst halvparten av full tid, og
 4. delta på arbeidsmarkedstiltak.
-5. Den enslige moren eller faren kan reservere seg mot kvelds-, natt-, og helgearbeid.
+
+Den enslige moren eller faren kan reservere seg mot kvelds-, natt-, og helgearbeid.
+
+> Endret ved forskrift [17 aug 2026 nr. 1633](forskrift/2026-08-17-1633).
 
 ## § 6. Nødvendig og hensiktsmessig utdanning eller opplæring jf. § 4 første ledd bokstav c
 
@@ -131,10 +134,20 @@ Stønaden er 64 prosent av dokumenterte utgifter til barnetilsyn opptil de belø
 
 [Forskrift 21. november 2015 nr. 1341 om stønad til enslig mor eller far § 8](forskrift/2015-11-21-1341/§8) gjelder tilsvarende for beregning av stønad etter denne paragrafen.
 
-## § 12. Maksimal overgangsperiode
+## § 12. Midlertidig bortfall av stønader
+
+Stønadene etter denne forskriften faller bort en måned dersom medlemmet uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til Arbeids- og velferdsetaten. Bortfallsperioden vil trekkes fra den innvilgede stønadsperioden.
+
+> Tilføyd ved forskrift [17 aug 2026 nr. 1633](forskrift/2026-08-17-1633).
+
+## § 13. Maksimal overgangsperiode
 
 Stønadsperioder etter denne forskriften løper ikke ut over 30. juni 2031.
 
-## § 13. Ikrafttredelse
+> Endret ved forskrift [17 aug 2026 nr. 1633](forskrift/2026-08-17-1633) (tidligere § 12).
+
+## § 14. Ikrafttredelse
 
 Forskriften trer i kraft 1. juli 2026 og opphører å gjelde 1. juli 2031.
+
+> Endret ved forskrift [17 aug 2026 nr. 1633](forskrift/2026-08-17-1633) (tidligere § 13).
