@@ -71107,13 +71107,13 @@
     },
     "sf-20150506-0455": {
       "doc_type": "forskrift",
-      "embedding_hash": "fdb43123bee06b70449be4d490082854a16055f4976011a829c546f414dc4169",
-      "embedding_input_hash": "8e97a5144d2b9a8e3afaac661f4c03ab70c528cd8d8e3860d5270c1cc0e3551f",
+      "embedding_hash": "1f31acb400c759c6de68678833e688911134e389da16b3482bfa2c8c125dc11d",
+      "embedding_input_hash": "11cc64d5fe157545968d96924f6f7e99723241c7dfa3ba4b9547cf8a249648bc",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-15",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-20",
+      "last_seen": "2026-08-20T04:46:16.259937Z",
       "markdown_path": "forskrifter/forskrift-om-plantevernmidler.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -71121,8 +71121,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om plantevernmidler",
-      "total_changes": 6,
-      "xml_hash": "fdb43123bee06b70449be4d490082854a16055f4976011a829c546f414dc4169"
+      "total_changes": 7,
+      "xml_hash": "1f31acb400c759c6de68678833e688911134e389da16b3482bfa2c8c125dc11d"
     },
     "sf-20150507-0488": {
       "doc_type": "forskrift",
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "59ce40e5f825ed7021e56059f1e790fb2f2298250b31c4558af0a501f5e1de23",
-      "embedding_input_hash": "3d96c0f8e5e272893bf560f5b5b34cbcc75321a30fe980f1f72234b49ca456a1",
+      "embedding_hash": "5f67ce31945117493a39c7f8af6aae36abdb482595ac1ada64804d22b2d50ef8",
+      "embedding_input_hash": "fde0bfeb800988cd0c2afbb270ad611cb2e66db488be353bca8b54805ad5dbc3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-01",
-      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "last_changed": "2026-08-20",
+      "last_seen": "2026-08-20T04:46:16.259937Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 16,
-      "xml_hash": "59ce40e5f825ed7021e56059f1e790fb2f2298250b31c4558af0a501f5e1de23"
+      "total_changes": 17,
+      "xml_hash": "5f67ce31945117493a39c7f8af6aae36abdb482595ac1ada64804d22b2d50ef8"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -97631,13 +97631,13 @@
     },
     "sf-20230620-1073": {
       "doc_type": "forskrift",
-      "embedding_hash": "554fb4393389673bbc03b5cda26c7122925209770d7ddff6914b4c602e7dc54c",
-      "embedding_input_hash": "6e7c797446e1187d499779052edede0a9b131e06ab01d2b0e41af34c06b6d31c",
+      "embedding_hash": "6b5780139cd25e3f16b3fa2daf0d184f27da011aef3242f42328591dcf42e378",
+      "embedding_input_hash": "3a9f4bcdc10914bbb0a5e68c8d8d90c81f3900f7af194fcb77dff0be548ddf3f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-20",
+      "last_seen": "2026-08-20T04:46:16.259937Z",
       "markdown_path": "forskrifter/forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -97645,8 +97645,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi",
-      "total_changes": 3,
-      "xml_hash": "554fb4393389673bbc03b5cda26c7122925209770d7ddff6914b4c602e7dc54c"
+      "total_changes": 4,
+      "xml_hash": "6b5780139cd25e3f16b3fa2daf0d184f27da011aef3242f42328591dcf42e378"
     },
     "sf-20230621-1007": {
       "doc_type": "forskrift",
@@ -113037,8 +113037,27 @@
       "title": "Forskrift om opprettelse av et permanent restriksjonsområde over Jan Mayen mv.",
       "total_changes": 1,
       "xml_hash": "5af1efc989cbe1c3849dcf7da164c31bdef35e96d757ce1bc4d5fa71e0b2c632"
+    },
+    "sf-20260816-1636": {
+      "doc_type": "forskrift",
+      "embedding_hash": "ee70439fa95c8554c06149bcb2d5ee5e9100a71855e180588479891ed254a8b9",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-08-20",
+      "last_seen": "2026-08-20T04:46:16.259937Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi (IPS ung – fra forsøk til ordinær drift)",
+      "total_changes": 1,
+      "xml_hash": "ee70439fa95c8554c06149bcb2d5ee5e9100a71855e180588479891ed254a8b9"
     }
   },
-  "generated_at": "2026-08-19T04:46:02.112168Z",
+  "generated_at": "2026-08-20T04:46:16.259937Z",
   "version": 1
 }

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260816-1636",
+  "events": [
+    {
+      "commit": "7fcb3e4",
+      "date": "2026-08-20",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi"
+}

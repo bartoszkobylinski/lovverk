@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-plantevernmidler — Change history
 
-_6 events; doc_id `sf-20150506-0455`._
+_7 events; doc_id `sf-20150506-0455`._
+
+## 2026-08-20 — Content updated
+Lines: +9 -7.
+Subject: `update(forskrift): forskrift-om-plantevernmidler`
+Commit: `b586616`.
 
 ## 2026-07-15 — Content updated
 Lines: +8 -6.
