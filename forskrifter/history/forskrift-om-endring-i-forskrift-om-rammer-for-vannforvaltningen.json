@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260702-1643",
+  "events": [
+    {
+      "commit": "ae65d51",
+      "date": "2026-08-21",
+      "from_path": null,
+      "lines_added": 53,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen"
+}

@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5120 current documents_
+_5122 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1658,6 +1658,7 @@ _5120 current documents_
 - [forskrift-om-behandling-av-personopplysninger-i-jegerregisteret-mv](forskrift-om-behandling-av-personopplysninger-i-jegerregisteret-mv.md) — Forskrift om behandling av personopplysninger i Jegerregisteret mv.
 - [forskrift-om-behandling-av-personopplysninger-i-lånekassen](forskrift-om-behandling-av-personopplysninger-i-lånekassen.md) — Forskrift om behandling av personopplysninger i Lånekassen
 - [forskrift-om-behandling-av-personopplysninger-i-programmet-sammen-på-vei](forskrift-om-behandling-av-personopplysninger-i-programmet-sammen-på-vei.md) — Forskrift om behandling av personopplysninger i programmet Sammen på vei
+- [forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold](forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md) — Forskrift om behandling av personopplysninger og deling av taushetsbelagte opplysninger etter lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold
 - [forskrift-om-behandling-av-personopplysninger-på-det-boligsosiale-feltet](forskrift-om-behandling-av-personopplysninger-på-det-boligsosiale-feltet.md) — Forskrift om behandling av personopplysninger på det boligsosiale feltet
 - [forskrift-om-behandling-av-private-forslag-til-detaljregulering-etter-pbl](forskrift-om-behandling-av-private-forslag-til-detaljregulering-etter-pbl.md) — Forskrift om behandling av private forslag til detaljregulering etter plan- og bygningsloven
 - [forskrift-om-behandling-av-saker-for-konkurranseklagenemnda](forskrift-om-behandling-av-saker-for-konkurranseklagenemnda.md) — Forskrift om behandling av saker for Konkurranseklagenemnda
@@ -1929,6 +1930,7 @@ _5120 current documents_
 - [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven](forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md) — Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven
 - [forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder](forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder.md) — Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder
+- [forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen](forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen.md) — Forskrift om endring i forskrift om rammer for vannforvaltningen
 - [forskrift-om-endring-i-forskrift-om-reduksjon-av-uførepensjon-fra-lovfestet-offentlig-tjenestepensjonsordning-på-grunn-av-inntekt-og-om-etteroppgjør](forskrift-om-endring-i-forskrift-om-reduksjon-av-uførepensjon-fra-lovfestet-offentlig-tjenestepensjonsordning-på-grunn-av-inntekt-og-om-etteroppgjør.md) — Forskrift om endring i forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen

@@ -52126,13 +52126,13 @@
     },
     "sf-20061215-1446": {
       "doc_type": "forskrift",
-      "embedding_hash": "2823ae86588fb39b4c50ef871c84cf8ab61abaa8bff368ef820ae9a316a409bd",
-      "embedding_input_hash": "a58ad082c254cc2108e1e16e81a2158632f3b25568adfc748762c3695eb51b62",
+      "embedding_hash": "d7292c9d2448bc3a20a5d08ad641972051fb8b2dd03ce86da544968e06592011",
+      "embedding_input_hash": "2c363fdd884c52c47d0a6909f03761289689ac24e6c60bfc455fa23a0f592f9a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-21",
+      "last_seen": "2026-08-21T04:48:37.993337Z",
       "markdown_path": "forskrifter/vannforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -52140,8 +52140,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rammer for vannforvaltningen",
-      "total_changes": 3,
-      "xml_hash": "2823ae86588fb39b4c50ef871c84cf8ab61abaa8bff368ef820ae9a316a409bd"
+      "total_changes": 4,
+      "xml_hash": "d7292c9d2448bc3a20a5d08ad641972051fb8b2dd03ce86da544968e06592011"
     },
     "sf-20061215-1456": {
       "doc_type": "forskrift",
@@ -109050,13 +109050,13 @@
     },
     "sf-20251219-2737": {
       "doc_type": "forskrift",
-      "embedding_hash": "1fb4df97cf84a26b64185d9dcf635b822640ef587e7d8fea5f4af38a04b65eef",
-      "embedding_input_hash": "d29479094c572630b2c80da1427fc23c61b4314b52ee963c99d36b09a7a0525c",
+      "embedding_hash": "9438f4f32ab6097d91c7fd8a98450e60bbcebe58989268483de9e34835252f14",
+      "embedding_input_hash": "f59d5a26ed63a1550d28de224331ac846a89e152c8f8b5705bbbe74c5ac79f62",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-03",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-21",
+      "last_seen": "2026-08-21T04:48:37.993337Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sei-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109064,8 +109064,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sei i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 4,
-      "xml_hash": "1fb4df97cf84a26b64185d9dcf635b822640ef587e7d8fea5f4af38a04b65eef"
+      "total_changes": 5,
+      "xml_hash": "9438f4f32ab6097d91c7fd8a98450e60bbcebe58989268483de9e34835252f14"
     },
     "sf-20251219-2742": {
       "doc_type": "forskrift",
@@ -112829,6 +112829,25 @@
       "total_changes": 1,
       "xml_hash": "7225a01a45a718cc3349272b1d5e893503684473e6d592ee4e168fdc82e8a05f"
     },
+    "sf-20260702-1643": {
+      "doc_type": "forskrift",
+      "embedding_hash": "00b3bcdb7251808d0dad47ac0cd14d19e6a38871e152aae12318a8fac02848ec",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-08-21",
+      "last_seen": "2026-08-21T04:48:37.993337Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om rammer for vannforvaltningen",
+      "total_changes": 1,
+      "xml_hash": "00b3bcdb7251808d0dad47ac0cd14d19e6a38871e152aae12318a8fac02848ec"
+    },
     "sf-20260703-1510": {
       "doc_type": "forskrift",
       "embedding_hash": null,
@@ -113056,8 +113075,27 @@
       "title": "Forskrift om endring i forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi (IPS ung – fra forsøk til ordinær drift)",
       "total_changes": 1,
       "xml_hash": "ee70439fa95c8554c06149bcb2d5ee5e9100a71855e180588479891ed254a8b9"
+    },
+    "sf-20260819-1644": {
+      "doc_type": "forskrift",
+      "embedding_hash": "815f2c7bc36975fe8a893360fd021682c5c3f6fcd2f7f0dce7faeaa49614ce9d",
+      "embedding_input_hash": "3a670be5364600b963610b1b41c2ef39048e17bc8002219a6a64307de7b2113a",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-08-21",
+      "last_seen": "2026-08-21T04:48:37.993337Z",
+      "markdown_path": "forskrifter/forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om behandling av personopplysninger og deling av taushetsbelagte opplysninger etter lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
+      "total_changes": 1,
+      "xml_hash": "815f2c7bc36975fe8a893360fd021682c5c3f6fcd2f7f0dce7faeaa49614ce9d"
     }
   },
-  "generated_at": "2026-08-20T04:46:16.259937Z",
+  "generated_at": "2026-08-21T04:48:37.993337Z",
   "version": 1
 }

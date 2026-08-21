@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260819-1644",
+  "events": [
+    {
+      "commit": "b18d40e",
+      "date": "2026-08-21",
+      "from_path": null,
+      "lines_added": 116,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold"
+}
