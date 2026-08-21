@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-26"
+last_change_in_force: "2026-08-14"
 last_updated: null
-xml_hash: "1fb4df97cf84a26b64185d9dcf635b822640ef587e7d8fea5f4af38a04b65eef"
+xml_hash: "9438f4f32ab6097d91c7fd8a98450e60bbcebe58989268483de9e34835252f14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-21T04:48:37.993337+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,9 +62,9 @@ Fartøy med torsketråltillatelse som er registrert som ferskfisk- og rundfrystr
 
 ## § 6. Maksimalkvote for fartøy med seitråltillatelse
 
-Fartøy med seitråltillatelse med kvotefaktor 1,00 kan maksimalt fiske og lande inntil 250 tonn.
+Fartøy med seitråltillatelse med kvotefaktor 1,00 kan maksimalt fiske og lande inntil 300 tonn.
 
-> Endret ved forskrift [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452).
+> Endret ved forskrifter [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452), [14 aug 2026 nr. 1642](forskrift/2026-08-14-1642).
 
 ## § 7. Maksimalkvoter for fartøy med pelagisk tråltillatelse, nordsjøtråltillatelse eller avgrenset nordsjøtråltillatelse
 
