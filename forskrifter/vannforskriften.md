@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2007-01-01"
 last_change_in_force: "2024-07-08"
 last_updated: "2021-11-01"
-xml_hash: "2823ae86588fb39b4c50ef871c84cf8ab61abaa8bff368ef820ae9a316a409bd"
+xml_hash: "d7292c9d2448bc3a20a5d08ad641972051fb8b2dd03ce86da544968e06592011"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-21T04:48:37.993337+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,7 +124,7 @@ Hvis vesentlige kostnader eller andre tungtveiende hensyn vanskeliggjør oppfyll
 
 God kjemisk tilstand for stoff nr. 2, 5, 15, 20, 22, 23 og 28 i vedlegg VIII del A skal oppnås innen 22. desember 2021. Stoff nr. 34 til og med stoff nr. 45 i vedlegg VIII del A inngår i vurdering av kjemisk tilstand fra og med 22. desember 2018, og god kjemisk tilstand for disse stoffene skal oppnås innen 22. desember 2027.
 
-> Endret ved [forskrifter 25 juni 2015 nr. 805](forskrift/2015-06-25-805), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
+> Endret ved [forskrifter 25 juni 2015 nr. 805](forskrift/2015-06-25-805), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ### § 9. Utsatte frister for å nå miljømålene
 
@@ -138,7 +138,7 @@ Ytterligere fristforlengelse ut over det som følger av første ledd, kan bare g
 
 Fastsettelsen av utsatte frister og begrunnelsen for det, samt et sammendrag av tiltak som er nødvendig for å gradvis bringe miljøtilstanden i overensstemmelse med miljømålet innen den forlengede fristen, årsaken til at tiltakene er vesentlig forsinket, og en forventet tidsplan for gjennomføring av tiltak, skal fremgå av vannforvaltningsplanen. Ved oppdateringen av vannforvaltningsplanen skal en revurdering av gjennomføringen av tiltakene og en oppsummering av eventuelle nye tiltak inkluderes i planen.
 
-> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
+> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ### § 10. Mindre strenge miljømål
 
@@ -323,7 +323,7 @@ Dersom resultatet av overvåkning eller andre data indikerer at det fastsatte mi
 
 Tiltakene skal være operative senest tre år etter at tiltaksprogrammet er fastsatt.
 
-> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [31 aug 2010 nr. 1220](forskrift/2010-08-31-1220), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [12 des 2019 nr. 1760](forskrift/2019-12-12-1760) (i kraft 1 jan 2020).
+> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [31 aug 2010 nr. 1220](forskrift/2010-08-31-1220), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [12 des 2019 nr. 1760](forskrift/2019-12-12-1760) (i kraft 1 jan 2020). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ### § 26. Vannforvaltningsplan
 
@@ -377,7 +377,7 @@ Oppdatert vannforvaltningsplan skal legges fram for Klima- og miljødepartemente
 
 Godkjente vannforvaltningsplaner skal legges til grunn for regionale organers virksomhet og for kommunal og statlig planlegging og virksomhet i vannregionen, jf. plan- og [bygningslovens § 8-2](lov/2008-06-27-71/§8-2).
 
-> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024), [25 jan 2024 nr. 131](forskrift/2024-01-25-131) (i kraft 1 feb 2024).
+> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024), [25 jan 2024 nr. 131](forskrift/2024-01-25-131) (i kraft 1 feb 2024). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ## Kapittel 6. Internasjonale vannregioner
 
