@@ -2597,13 +2597,13 @@
     },
     "nl-19690613-026": {
       "doc_type": "lov",
-      "embedding_hash": "2b00d25597bf7e4617e0d67f9094da79de2c1fa280a4aaa078594b3719e9d4df",
-      "embedding_input_hash": "81a51dbd9b79420c0a47055b1b1c854f3bf6e2c0af63641a0f76756dc3b7637a",
+      "embedding_hash": "6d33a81d7dbd00490f424f0f18fb47a28e1b666c7dd146530410465438d800bd",
+      "embedding_input_hash": "29432292c1f490e1f580b0fa0485f1f4ce8146c7af3c00bb8feb9d7822a4e67f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-22",
+      "last_seen": "2026-08-22T04:41:43.854357Z",
       "markdown_path": "lover/skadeserstatningsloven-skl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -2611,8 +2611,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skadeserstatning (skadeserstatningsloven)",
-      "total_changes": 4,
-      "xml_hash": "2b00d25597bf7e4617e0d67f9094da79de2c1fa280a4aaa078594b3719e9d4df"
+      "total_changes": 5,
+      "xml_hash": "6d33a81d7dbd00490f424f0f18fb47a28e1b666c7dd146530410465438d800bd"
     },
     "nl-19690619-053": {
       "doc_type": "lov",
@@ -4327,13 +4327,13 @@
     },
     "nl-19910704-047": {
       "doc_type": "lov",
-      "embedding_hash": "8a02db518f9cbe2b1ddf1b02b469f36a2b96f144e89a37b99c234d68f6fdff7b",
-      "embedding_input_hash": "c1655b7f43ee488511f1c741456f47184a0232500942a2a98f4e28116a0ed2a3",
+      "embedding_hash": "eefbb44fa7fce57ae9f75a6cc233552cb90017db96d4ecf66da8404dcf38fc1e",
+      "embedding_input_hash": "bb44858332d3da0484074f6094b8d79899da76444e810a1cceb3753156684890",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-22",
+      "last_seen": "2026-08-22T04:41:43.854357Z",
       "markdown_path": "lover/ekteskapsloven-el.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -4341,8 +4341,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om ekteskap (ekteskapsloven)",
-      "total_changes": 3,
-      "xml_hash": "8a02db518f9cbe2b1ddf1b02b469f36a2b96f144e89a37b99c234d68f6fdff7b"
+      "total_changes": 4,
+      "xml_hash": "eefbb44fa7fce57ae9f75a6cc233552cb90017db96d4ecf66da8404dcf38fc1e"
     },
     "nl-19910720-067": {
       "doc_type": "lov",
@@ -14613,13 +14613,13 @@
     },
     "nl-20260619-047": {
       "doc_type": "lov",
-      "embedding_hash": "5458dce5a415008614360487a86a1a4d665ecd564316d930a92ba092c556d601",
+      "embedding_hash": "f6d4036c5f2579c2501ee4627ca3f09c8db65dcf2e82534a875be4a85673a295",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-22",
+      "last_seen": "2026-08-22T04:41:43.854357Z",
       "markdown_path": "lover/endringslov-til-skadeserstatningsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14627,8 +14627,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)",
-      "total_changes": 1,
-      "xml_hash": "5458dce5a415008614360487a86a1a4d665ecd564316d930a92ba092c556d601"
+      "total_changes": 2,
+      "xml_hash": "f6d4036c5f2579c2501ee4627ca3f09c8db65dcf2e82534a875be4a85673a295"
     },
     "nl-20260619-048": {
       "doc_type": "lov",
@@ -113096,6 +113096,6 @@
       "xml_hash": "815f2c7bc36975fe8a893360fd021682c5c3f6fcd2f7f0dce7faeaa49614ce9d"
     }
   },
-  "generated_at": "2026-08-21T04:48:37.993337Z",
+  "generated_at": "2026-08-22T04:41:43.854357Z",
   "version": 1
 }

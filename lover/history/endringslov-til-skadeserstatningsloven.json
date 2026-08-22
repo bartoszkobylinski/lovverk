@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-047",
   "events": [
     {
+      "commit": "55a6bfc",
+      "date": "2026-08-22",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(lov): endringslov-til-skadeserstatningsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8665f78",
       "date": "2026-06-20",
       "from_path": null,
