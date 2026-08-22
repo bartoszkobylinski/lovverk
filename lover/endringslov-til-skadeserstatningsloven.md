@@ -8,14 +8,14 @@ short_title: "Endringslov til skadeserstatningsloven"
 language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
-date_in_force: null
+date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "5458dce5a415008614360487a86a1a4d665ecd564316d930a92ba092c556d601"
+xml_hash: "f6d4036c5f2579c2501ee4627ca3f09c8db65dcf2e82534a875be4a85673a295"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-22T04:41:43.854357+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,6 +51,8 @@ I den grad det er sannsynliggjort at erstatningen skal plasseres som bankinnskud
 
 ## II
 
-1. Loven gjelder fra den tid Kongen bestemmer.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer.
 2. Endringene i [skadeserstatningsloven § 3-2 a tredje](lov/1969-06-13-26/§3-2a/ledd/3) og [syvende ledd](lov/1969-06-13-26/§3-2a/ledd/7) gjelder for tilfeller der den erstatningsbetingende hendelsen finner sted etter at loven har trådt i kraft. Endringene gjelder også for tilfeller der den erstatningsbetingende hendelsen har funnet sted før loven har trådt i kraft, dersom oppgjøret for inntektstapserstatningen eller hjemmearbeidstapserstatningen ikke fullt ut er avsluttet ved lovens ikrafttredelse. Oppgjøret anses avsluttet når partene har kommet til enighet, det er truffet rettskraftig avgjørelse, eller betalingsforpliktelsen er gjort opp etter [skadeserstatningsloven § 3-2 a tredje ledd](lov/1969-06-13-26/§3-2a/ledd/3) nåværende sjette (nytt syvende) punktum.
 3. Departementet kan gi overgangsregler. I overgangsreglene kan det gjøres unntak fra reglene i nr. 2.
+
+1 Fra 1. januar 2027 iflg. [res. 21 aug 2026 nr. 1650](forskrift/2026-08-21-1650).
