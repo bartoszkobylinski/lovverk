@@ -12,11 +12,11 @@ ministry:
 date_in_force: "1993-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-03-06"
-xml_hash: "8a02db518f9cbe2b1ddf1b02b469f36a2b96f144e89a37b99c234d68f6fdff7b"
+xml_hash: "eefbb44fa7fce57ae9f75a6cc233552cb90017db96d4ecf66da8404dcf38fc1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-22T04:41:43.854357+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -184,7 +184,7 @@ Vigsler skal praktisere første og andre ledd slik at kvinner og menn likebehand
 
 ### § 14. Kontroll med at ekteskapsvilkårene er prøvet.
 
-Før vigsel finner sted, skal vigsleren motta en attest fra folkeregistermyndigheten eller norsk utenrikstjenesteansatt på at ekteskapsvilkårene er prøvet og at reglene i [§§ 6](lov/1994-06-24-39/§6) til [10](lov/1994-06-24-39/§10) er fulgt.
+Før vigsel finner sted, skal vigsleren motta en attest fra folkeregistermyndigheten eller norsk utenrikstjenesteansatt på at ekteskapsvilkårene er prøvet og at reglene i [§§ 6](lov/1991-07-04-47/§6) til [10](lov/1991-07-04-47/§10) er fulgt.
 
 En vigsler som kjenner til at et vilkår for å inngå ekteskap ikke er oppfylt, skal ikke foreta vigsel. Finner en vigsler at det er grunn til tvil om et vilkår er oppfylt, kan vigselen utsettes og brudefolkene pålegges å skaffe bevis for at vilkåret er oppfylt.
 
