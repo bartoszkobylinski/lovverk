@@ -7,15 +7,15 @@ title: "Resolution om Kongens Titel."
 short_title: "Resolution om Kongens Titel"
 language: "no"
 ministry:
-  - "Kommunal- og distriktsdepartementet"
+  - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "1905-11-15"
 last_change_in_force: null
-last_updated: null
-xml_hash: "6a722aec8f42fcec3a787c8a26e5a041246d3dabd2b1d98d355d4e29e66b6d04"
+last_updated: "2026-08-24"
+xml_hash: "c29571a2485df25032b55d3ea0d7531ae0e6d962d7dfc298afb8824f880aa944"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
