@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-08-05"
 last_updated: "2025-09-22"
-xml_hash: "bb3b79fae0be5ab918444b60c98b7f6e4071e6f187557880dc6e41f8849f75aa"
+xml_hash: "5566886794e21dcf53f1582d8fd33eef0b7def202bbf7f0a59ee25f98a09480a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-07T05:48:18.457271+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -404,7 +404,7 @@ Søknad om tillatelse til å drive virksomhet som betalingsforetak, e-pengeforet
 
 Denne bestemmelsen gjelder ikke for søknad om begrenset tillatelse som betalingsforetak.
 
-> Tilføyd ved forskrift [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019, se endringen for overgangsregler).
+> Tilføyd ved forskrift [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019, se endringen for overgangsregler). **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
 
 ### § 3-3. Gjennomføring av forordning
 
