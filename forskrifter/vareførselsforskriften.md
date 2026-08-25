@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2024-07-30"
-xml_hash: "3a21ff8c9f12937b7e723ad20766b59ab2550568d64104c9e010e84a4d003798"
+xml_hash: "112640f4bac8d36c52c6d5ed6ab5900a9783d341fadbed82fa1d60733eeb9b7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1833,7 +1833,7 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
-> Endret ved forskrifter [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (med virkning fra 1 sep 2023), [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (i kraft 1 des 2023), [24 sep 2025 nr. 1918](forskrift/2025-09-24-1918) (i kraft 1 okt 2025), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 jan 2026), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 feb 2026), [17 feb 2026 nr. 229](forskrift/2026-02-17-229) (i kraft 1 mars 2026).
+> Endret ved forskrifter [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (med virkning fra 1 sep 2023), [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (i kraft 1 des 2023), [24 sep 2025 nr. 1918](forskrift/2025-09-24-1918) (i kraft 1 okt 2025), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 jan 2026), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 feb 2026), [17 feb 2026 nr. 229](forskrift/2026-02-17-229) (i kraft 1 mars 2026). **Endres** ved forskrift [21 aug 2026 nr. 1660](forskrift/2026-08-21-1660) (i kraft 1 sep 2026).
 
 ### § 5-11-2. Krav til fysisk eller bokføringsmessig atskillelse – frihandelsavtale
 
@@ -2211,6 +2211,8 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 (1) Tollmyndighetene fastsetter hver onsdag omregningskurser for ulike valutaer basert på Norges Banks indikative markedskurser. Kursene publiseres på [www.toll.no](https://www.toll.no/) og er gyldige fra og med påfølgende mandag.
 
 (2) Ved omregning av valuta skal tidspunktet for fastsettelse av tollavgiftssats i [tollavgiftsloven § 2-2](lov/2022-03-11-8/§2-2) anvendes.
+
+> **Endres** ved forskrift [21 aug 2026 nr. 1661](forskrift/2026-08-21-1661) (i kraft 3 sep 2026).
 
 ## Kapittel 7. Særlige forvaltningsregler
 
