@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-04-01"
 last_change_in_force: "2023-07-25"
 last_updated: "2021-06-02"
-xml_hash: "7333a9d40bbc0f7c5b8de825dd0d97cd7fd2ec3d1db70f9ee0204152bd311913"
+xml_hash: "052343dbd7da79a1dd351587f2db5291fecae1b95a10191c33442a37b98e872c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,9 +36,13 @@ Betalingstjenestetilbydere skal minst årlig gi Finanstilsynet en samlet vurderi
 
 Betalingstjenestetilbydere skal minst årlig rapportere statistikk om svindel knyttet til betalingstjenestene til Finanstilsynet, på den måten Finanstilsynet angir.
 
+> **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
+
 ## § 3. Underretning om hendelser
 
 Dersom hendelse som angitt i [forskrift 21. mai 2003 nr. 630](forskrift/2003-05-21-630) om bruk av informasjons- og kommunikasjonsteknologi (IKT) [§ 9](forskrift/2003-05-21-630/§9) tredje ledd påvirker eller kan påvirke betalingstjenestebrukernes økonomiske interesser, skal betalingstjenestetilbyderen uten ugrunnet opphold underrette brukerne om hendelsen. Meldingen skal omtale tiltak brukeren kan iverksette.
+
+> **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
 
 ## § 4. Krav til sikker ytelse av betalingstjenester
 
