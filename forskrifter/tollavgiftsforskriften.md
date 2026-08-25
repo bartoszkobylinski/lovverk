@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-03-01"
 last_updated: null
-xml_hash: "5ae957d78a0aca42f03adda3d35b5e1c67f598f50033ec6acd02a718a7323d0f"
+xml_hash: "46510c8963eb1e627e32bd5034cdf4672280e6d91703f36a06989db51562d095"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -172,7 +172,7 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
-> Endret ved forskrifter [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 feb 2026), [17 feb 2026 nr. 228](forskrift/2026-02-17-228) (i kraft 1 mars 2026).
+> Endret ved forskrifter [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 feb 2026), [17 feb 2026 nr. 228](forskrift/2026-02-17-228) (i kraft 1 mars 2026). **Endres** ved forskrift [21 aug 2026 nr. 1659](forskrift/2026-08-21-1659) (i kraft 1 sep 2026).
 
 ### § 4-1-2. Preferansetollavgift
 
