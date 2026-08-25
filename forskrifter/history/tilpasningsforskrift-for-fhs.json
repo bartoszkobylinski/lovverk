@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260821-1658",
+  "events": [
+    {
+      "commit": "5de6b49",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 217,
+      "lines_removed": 0,
+      "subject": "add(forskrift): tilpasningsforskrift-for-fhs",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "tilpasningsforskrift-for-fhs"
+}

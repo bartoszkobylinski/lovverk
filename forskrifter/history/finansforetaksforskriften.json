@@ -2,6 +2,16 @@
   "doc_id": "sf-20161209-1502",
   "events": [
     {
+      "commit": "71b1cc2",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): finansforetaksforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9d22cdf",
       "date": "2026-08-07",
       "from_path": null,

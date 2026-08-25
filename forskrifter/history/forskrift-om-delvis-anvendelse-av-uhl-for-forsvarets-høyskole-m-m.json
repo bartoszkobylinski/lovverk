@@ -2,6 +2,16 @@
   "doc_id": "sf-20180730-1211",
   "events": [
     {
+      "commit": "0a2407c",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-delvis-anvendelse-av-uhl-for-forsvarets-høyskole-m-m",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tollavgiftsforskriften — Change history
 
-_3 events; doc_id `sf-20221027-1938`._
+_4 events; doc_id `sf-20221027-1938`._
+
+## 2026-08-25 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): tollavgiftsforskriften`
+Commit: `a5e0207`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

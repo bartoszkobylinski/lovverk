@@ -1,25 +1,25 @@
 {
-  "doc_id": "sf-20251219-2804",
+  "doc_id": "sf-20260821-1659",
   "events": [
     {
-      "commit": "3dddeca",
-      "date": "2026-04-27",
-      "from_path": "forskrifter/sf-20251219-2804.md",
-      "lines_added": 2,
-      "lines_removed": 1,
-      "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "forskrifter/endr-i-tollavgiftsforskriften.md",
-      "type": "renamed"
-    },
-    {
-      "commit": "57c3052",
-      "date": "2026-04-26",
+      "commit": "0f7ca91",
+      "date": "2026-08-25",
       "from_path": null,
-      "lines_added": 31,
+      "lines_added": 37,
       "lines_removed": 0,
-      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "subject": "add(forskrift): endr-i-tollavgiftsforskriften",
       "to_path": null,
       "type": "added"
+    },
+    {
+      "commit": "5511aa4",
+      "date": "2026-05-04",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 33,
+      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
+      "to_path": null,
+      "type": "updated"
     }
   ],
   "schema_version": 1,

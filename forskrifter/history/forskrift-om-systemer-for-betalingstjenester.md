@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-systemer-for-betalingstjenester — Change history
 
-_3 events; doc_id `sf-20190215-0152`._
+_4 events; doc_id `sf-20190215-0152`._
+
+## 2026-08-25 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): forskrift-om-systemer-for-betalingstjenester`
+Commit: `7897041`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

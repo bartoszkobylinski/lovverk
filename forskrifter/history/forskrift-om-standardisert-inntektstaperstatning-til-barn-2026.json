@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260821-1651",
+  "events": [
+    {
+      "commit": "51213ed",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 258,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-standardisert-inntektstaperstatning-til-barn-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-standardisert-inntektstaperstatning-til-barn-2026"
+}

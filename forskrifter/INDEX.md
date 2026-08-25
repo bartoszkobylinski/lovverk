@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5122 current documents_
+_5129 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -785,6 +785,7 @@ _5122 current documents_
 - [delegering-av-kongens-myndighet-etter-pengespilloven-10-fjerde-ledd-for-så-vidt-gjelder-disponering-av-ikke-utbetalte-midler-til-kultur-og-likestillingsdepartementet](delegering-av-kongens-myndighet-etter-pengespilloven-10-fjerde-ledd-for-så-vidt-gjelder-disponering-av-ikke-utbetalte-midler-til-kultur-og-likestillingsdepartementet.md) — Delegering av Kongens myndighet etter pengespilloven § 10 fjerde ledd, for så vidt gjelder disponering av ikke-utbetalte midler, til Kultur- og likestillingsdepartementet
 - [delegering-av-kongens-myndighet-etter-sivilbeskyttelsesloven-2-til-å-gi-bestemmelser-om-at-sivilbeskyttelsesloven-15a-skal-gjelde-for-svalbard-til-justis-og-beredskapsdepartementet](delegering-av-kongens-myndighet-etter-sivilbeskyttelsesloven-2-til-å-gi-bestemmelser-om-at-sivilbeskyttelsesloven-15a-skal-gjelde-for-svalbard-til-justis-og-beredskapsdepartementet.md) — Delegering av Kongens myndighet etter sivilbeskyttelsesloven § 2 til å gi bestemmelser om at sivilbeskyttelsesloven § 15a skal gjelde for Svalbard til Justis- og beredskapsdepartementet
 - [delegering-av-kongens-myndighet-etter-straffeprosessloven-184b-tredje-ledd-til-justis-og-beredskapsdepartementet-for-så-vidt-gjelder-fastsettelse-av-forskrifter-om-kriminalomsorgens-gjennomføring](delegering-av-kongens-myndighet-etter-straffeprosessloven-184b-tredje-ledd-til-justis-og-beredskapsdepartementet-for-så-vidt-gjelder-fastsettelse-av-forskrifter-om-kriminalomsorgens-gjennomføring.md) — Delegering av Kongens myndighet etter straffeprosessloven § 184b tredje ledd til Justis- og beredskapsdepartementet for så vidt gjelder fastsettelse av forskrifter om kriminalomsorgens gjennomføring av varetekt med elektronisk kontroll
+- [delegering-av-kongens-myndighet-etter-universitets-og-høyskoleloven-1-2-tredje-ledd-bokstav-a-til-forsvarsdepartementet](delegering-av-kongens-myndighet-etter-universitets-og-høyskoleloven-1-2-tredje-ledd-bokstav-a-til-forsvarsdepartementet.md) — Delegering av Kongens myndighet etter universitets- og høyskoleloven § 1-2 tredje ledd bokstav a til Forsvarsdepartementet
 - [delegering-av-kongens-myndighet-etter-vassdragsreguleringsloven-vannfallrettighetsloven-og-vannressursloven](delegering-av-kongens-myndighet-etter-vassdragsreguleringsloven-vannfallrettighetsloven-og-vannressursloven.md) — Delegering av Kongens myndighet etter vassdragsreguleringsloven, vannfallrettighetsloven og vannressursloven
 - [delegering-av-kongens-myndighet-etter-voldserstatningsloven](delegering-av-kongens-myndighet-etter-voldserstatningsloven.md) — Delegering av Kongens myndighet etter voldserstatningsloven
 - [delegering-av-kongens-myndighet-til-å-endre-forskrift-om-tilpasning-til-universitets-og-høyskoleloven-for-høgskolen-for-kriminalomsorg-etter-lov-8-mars-2024-nr-9-om-universiteter-og-høyskoler-1-2](delegering-av-kongens-myndighet-til-å-endre-forskrift-om-tilpasning-til-universitets-og-høyskoleloven-for-høgskolen-for-kriminalomsorg-etter-lov-8-mars-2024-nr-9-om-universiteter-og-høyskoler-1-2.md) — Delegering av Kongens myndighet til å endre forskrift om tilpasning til universitets- og høyskoleloven for Høgskolen for kriminalomsorg (HKO) (tilpasningsforskrift for HKO) etter lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 1-2 tredje ledd bokstav a
@@ -1268,6 +1269,7 @@ _5122 current documents_
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementstrukturen-fra-01-01-2010](endr-i-departementstrukturen-fra-01-01-2010.md) — Endringer i departementstrukturen fra 1. januar 2010
+- [endr-i-dora-forskriften-mfl](endr-i-dora-forskriften-mfl.md) — Forskrift om endring i forskrift om digital operasjonell motstandsdyktighet i finanssektoren (DORA-forskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
 - [endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten](endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten.md) — Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten
 - [endr-i-forskr-om-flyttbare-innretninger](endr-i-forskr-om-flyttbare-innretninger.md) — Forskrift om endring i forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr.
@@ -1295,11 +1297,14 @@ _5122 current documents_
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
 - [endr-i-tiltaksforskriften](endr-i-tiltaksforskriften.md) — Forskrift om endring i forskrift om arbeidsmarkedstiltak (tiltaksforskriften)
+- [endr-i-tollavgiftsforskriften](endr-i-tollavgiftsforskriften.md) — Forskrift om endring i forskrift om tollavgift (tollavgiftsforskriften)
 - [endr-i-trafikklærerforskriften](endr-i-trafikklærerforskriften.md) — Forskrift om endring i forskrift om krav til utdanning, etterutdanning og godkjenning av trafikklærere (trafikklærerforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+- [endr-i-vareførselsforskriften-2026](endr-i-vareførselsforskriften-2026.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+- [endr-i-vareførselsforskriften-2026-2](endr-i-vareførselsforskriften-2026-2.md) — Forskrift om endring i vareførselsforskriften
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-4](endr-i-vareførselsforskriften-4.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-5](endr-i-vareførselsforskriften-5.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
@@ -3543,6 +3548,7 @@ _5122 current documents_
 - [forskrift-om-standarder-og-nasjonale-e-helseløsninger](forskrift-om-standarder-og-nasjonale-e-helseløsninger.md) — Forskrift om standarder og nasjonale e-helseløsninger
 - [forskrift-om-standardisert-erstatning-etter-yforsl](forskrift-om-standardisert-erstatning-etter-yforsl.md) — Forskrift om standardisert erstatning etter lov om yrkesskadeforsikring
 - [forskrift-om-standardisert-inntektstaperstatning-til-barn](forskrift-om-standardisert-inntektstaperstatning-til-barn.md) — Forskrift om standardisert inntektstaperstatning til barn
+- [forskrift-om-standardisert-inntektstaperstatning-til-barn-2026](forskrift-om-standardisert-inntektstaperstatning-til-barn-2026.md) — Forskrift om standardisert inntektstaperstatning til barn
 - [forskrift-om-stans-i-ytingar-ved-barnebortføring](forskrift-om-stans-i-ytingar-ved-barnebortføring.md) — Forskrift om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet
 - [forskrift-om-statens-finansfond](forskrift-om-statens-finansfond.md) — Forskrift om Statens finansfond
 - [forskrift-om-statens-helsepersonellnemnd](forskrift-om-statens-helsepersonellnemnd.md) — Forskrift om Statens helsepersonellnemnd – organisering og saksbehandling.
@@ -4918,6 +4924,7 @@ _5122 current documents_
 - [tillegg-til-atp-forskriften](tillegg-til-atp-forskriften.md) — Tillegg til forskrifter om internasjonal transport av lett bedervelige næringsmidler
 - [tillegging-av-myndighet-etter-lov-24-juni-1994-nr-39-om-sjøfarten-462-tredje-ledd-til-justis-og-beredskapsdepartementet](tillegging-av-myndighet-etter-lov-24-juni-1994-nr-39-om-sjøfarten-462-tredje-ledd-til-justis-og-beredskapsdepartementet.md) — Tillegging av myndighet etter lov 24. juni 1994 nr. 39 om sjøfarten § 462 tredje ledd til Justis- og beredskapsdepartementet
 - [tilleggsstønadsforskriften](tilleggsstønadsforskriften.md) — Forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften)
+- [tilpasningsforskrift-for-fhs](tilpasningsforskrift-for-fhs.md) — Forskrift om unntak fra og tilpasninger til universitets- og høyskoleloven for Forsvarets høgskole (tilpasningsforskrift for FHS)
 - [tilpasningsforskrift-for-hko](tilpasningsforskrift-for-hko.md) — Forskrift om tilpasning til universitets- og høyskoleloven for Høgskolen for kriminalomsorg (HKO) (tilpasningsforskrift for HKO)
 - [tilsynsforskriften](tilsynsforskriften.md) — Forskrift om tilsyn med tjenester og tiltak til barn i barnevernsinstitusjoner m.m. (tilsynsforskriften)
 - [tiltak-mot-sjukdommer-og-zoonotiske-agens-hos-dyr-på-svalbard](tiltak-mot-sjukdommer-og-zoonotiske-agens-hos-dyr-på-svalbard.md) — Forskrift om tiltak mot sjukdommer og zoonotiske agens hos dyr på Svalbard

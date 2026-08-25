@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260821-1652",
+  "events": [
+    {
+      "commit": "db3ff50",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 26,
+      "lines_removed": 0,
+      "subject": "add(forskrift): delegering-av-kongens-myndighet-etter-universitets-og-høyskoleloven-1-2-tredje-ledd-bokstav-a-til-forsvarsdepartementet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-kongens-myndighet-etter-universitets-og-høyskoleloven-1-2-tredje-ledd-bokstav-a-til-forsvarsdepartementet"
+}

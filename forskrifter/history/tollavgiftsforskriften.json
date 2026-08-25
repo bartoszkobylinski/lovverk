@@ -2,6 +2,16 @@
   "doc_id": "sf-20221027-1938",
   "events": [
     {
+      "commit": "a5e0207",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): tollavgiftsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

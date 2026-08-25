@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260821-1661",
+  "events": [
+    {
+      "commit": "75ab098",
+      "date": "2026-08-25",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-vareførselsforskriften-2026-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-vareførselsforskriften-2026-2"
+}
