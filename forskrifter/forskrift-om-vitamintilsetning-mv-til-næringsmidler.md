@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2010-03-01"
-last_change_in_force: "2026-05-15"
+last_change_in_force: "2026-08-19"
 last_updated: "2022-01-06"
-xml_hash: "e8964b67dd8b6c7a9d430604bad40d3d398f17c81cebd59568b3cdea49914b7a"
+xml_hash: "5439b4309f74c370a7dd2622593b514671a9eced5338e1f3e342bc644e437d68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -240,241 +240,77 @@ Forskriften trer i kraft 1. mars 2010.
 
 ## Vedlegg 1. Vitaminer og mineraler som kan tilsettes næringsmidler, unntatt kosttilskudd, jf. [kapittel II](forskrift/2010-02-26-247/kapII)
 
-| *Næringsmiddelkategori* | *Vitamin/mineral*[^1],[^2] | *Samlet maksimalt innhold per 100 g eller 100 ml* |
+| *Næringsmiddelkategori* | *Vitamin/mineral*[^1], [^2] | *Samlet maksimalt innhold per 100 g eller 100 ml* |
 | --- | --- | --- |
 | *Brødvarer og frokostblandinger* |  |  |
 | Brød | Vitamin D | 5 µg |
-| Frokostblanding | Niacin | 11 mg |
-| Vitamin B[^6] | 1,4 mg |  |
-| Folsyre | 133 µg |  |
-| Kalsium | 459 mg |  |
+| Frokostblanding | Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium | 11 mg<br>1,4 mg<br>133 µg<br>459 mg |
 | *Glutenfrie produkter* |  |  |
-| Glutenfri müsli/frokostblanding | Niacin | 16 mg |
-| Vitamin B[^6] | 1,4 mg |  |
-| Folsyre | 183 µg |  |
-| Magnesium | 121 mg |  |
-| Jern | 5 mg |  |
-| Glutenfri- og lavprotein brød/melblandinger | Niacin | 6,4 mg |
-| Vitamin B[^6] | 0,6 mg |  |
-| Folsyre | 40 µg |  |
-| Jern | 8 mg |  |
-| Glutenfritt brød, knekkebrød og skorper | Niacin | 4 mg |
-| Vitamin B[^6] | 2,5 mg |  |
-| Folsyre | 40 µg |  |
-| Jern | 9 mg |  |
+| Glutenfri müsli/frokostblanding | Niacin<br>Vitamin B6<br>Folsyre<br>Magnesium<br>Jern | 16 mg<br>1,4 mg<br>183 µg<br>121 mg<br>5 mg |
+| Glutenfri- og lavprotein brød/melblandinger | Niacin<br>Vitamin B6<br>Folsyre<br>Jern | 6,4 mg<br>0,6 mg<br>40 µg<br>8 mg |
+| Glutenfritt brød, knekkebrød og skorper | Niacin<br>Vitamin B6<br>Folsyre<br>Jern | 4 mg<br>2,5 mg<br>40 µg<br>9 mg |
 | *Melk, syrnede melkeprodukter og vegetabilske alternativer* |  |  |
-| Melk (alle typer melk som omsettes direkte til forbruker)[^3] | Vitamin D | 1,0 µg |
-| Folsyre | 15 µg |  |
-| Melkebaserte drikkevarer (inklusive fermenterte og/eller aromatiserte) [^3],[^9] | Vitamin D | 1,9 µg |
-| Vitamin C | 11,3 mg |  |
-| Niacin | 3 mg |  |
-| Vitamin B[^6] | 0,29 mg |  |
-| Kalsium | 120 mg |  |
-| Krom | 5 µg |  |
+| Melk (alle typer melk som omsettes direkte til forbruker)[^3] | Vitamin D<br>Folsyre | 1,0 µg<br>15 µg |
+| Melkebaserte drikkevarer (inklusive fermenterte og/eller aromatiserte)[^3], [^9] | Vitamin D<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Kalsium<br>Krom | 1,9 µg<br>11,3 mg<br>3 mg<br>0,29 mg<br>120 mg<br>5 µg |
 | Kondensert melk | Vitamin D | 1,1 µg |
-| Vegetabilske alternativer til melkebaserte drikkevarer. Kan være aromatiserte. | Vitamin D | 1,5 µg |
-| Vitamin E | 1,8 mg |  |
-| Folsyre | 23 µg |  |
-| Kalsium | 120 mg |  |
-| Jod | 22,5 µg |  |
-| Fermenterte melkeprodukter for eksempel yoghurt (omfatter ikke drikkevarer)[^3]. Kan være aromatiserte. | Vitamin D | 2,9 µg |
-| Vitamin C | 26 mg |  |
-| Niacin | 2,4 mg |  |
-| Vitamin B[^6] | 0,21 mg |  |
-| Kalsium | 120 mg |  |
-| Vegetabilske alternativer til fermenterte melkeprodukter (omfatter ikke drikkevarer). Kan være aromatiserte. | Vitamin D | 1,5 µg |
-| Vitamin E | 1,8 mg |  |
-| Vitamin C | 13,3 mg |  |
-| Kalsium | 146 mg |  |
-| Jod | 22,5 µg |  |
+| Vegetabilske alternativer til melkebaserte drikkevarer. Kan være aromatiserte. | Vitamin D<br>Vitamin E<br>Folsyre<br>Kalsium<br>Jod | 1,5 µg<br>1,8 mg<br>23 µg<br>120 mg<br>22,5 µg |
+| Fermenterte melkeprodukter for eksempel yoghurt (omfatter ikke drikkevarer)[^3]. Kan være aromatiserte. | Vitamin D<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Kalsium | 2,9 µg<br>26 mg<br>2,4 mg<br>0,21 mg<br>120 mg |
+| Vegetabilske alternativer til fermenterte melkeprodukter (omfatter ikke drikkevarer). Kan være aromatiserte. | Vitamin D<br>Vitamin E<br>Vitamin C<br>Kalsium<br>Jod | 1,5 µg<br>1,8 mg<br>13,3 mg<br>146 mg<br>22,5 µg |
 | *Ost og vegetabilske alternativer* |  |  |
-| Hvitost | Vitamin D | 4,1 µg |
-| Vitamin E | 38 mg |  |
+| Hvitost | Vitamin D<br>Vitamin E | 4,1 µg<br>38 mg |
 | Prim | Vitamin D | 2,7 µg |
-| Brunost og primprodukter til barn | Vitamin D | 2,7 µg |
-| Jern | 10 mg |  |
-| Vegetabilsk alternativ til ost | Vitamin D | 5 µg |
-| Kalsium | 664 mg |  |
-| Jod | 31 µg |  |
+| Brunost og primprodukter til barn | Vitamin D<br>Jern | 2,7 µg<br>10 mg |
+| Vegetabilsk alternativ til ost | Vitamin D<br>Kalsium<br>Jod | 5 µg<br>664 mg<br>31 µg |
 | *Matfett og oljer* |  |  |
-| Margarin, andre typer spisefett og bakefett industri (flytende og fast) | Vitamin A | 900 µg |
-| Vitamin D | 20 µg |  |
+| Margarin, andre typer spisefett og bakefett industri (flytende og fast) | Vitamin A<br>Vitamin D | 900 µg<br>20 µg |
 | Smør | Vitamin D | 10 µg |
-| Matolje | Vitamin D | 10 µg |
-| Vitamin E | 13 mg |  |
+| Matolje | Vitamin D<br>Vitamin E | 10 µg<br>13 mg |
 | *Produkter av fiskerivarer og vegetabilske alternativer* |  |  |
-| Kaviar på tube | Vitamin D | 9,5 µg |
-| Vitamin E | 4,7 mg |  |
+| Kaviar på tube | Vitamin D<br>Vitamin E | 9,5 µg<br>4,7 mg |
 | Produkter brukt som alternativ til fisk | Jern | 2,1 mg |
 | *Produkter av kjøtt og vegetabilske alternativer* |  |  |
-| Leverpostei | Vitamin D | 2,5 µg |
-| Vitamin E | 2,5 mg |  |
+| Leverpostei | Vitamin D<br>Vitamin E | 2,5 µg<br>2,5 mg |
 | Produkter brukt som alternativ til kjøtt | Jern | 8,5 mg |
 | Vegetabilsk alternativ til postei | Jern | 5,9 mg |
 | *Drikkevarer* |  |  |
-| Fruktjuice, grønnsaksjuice, nektar, smoothies og lignende | Beta-karoten | 120 µg |
-| Vitamin D | 2,5 µg |  |
-| Vitamin E | 4 mg |  |
-| Vitamin C | 96 mg |  |
-| Niacin | 3,2 mg |  |
-| Vitamin B[^6] | 0,3 mg |  |
-| Folsyre | 30 µg |  |
-| Magnesium | 45 mg |  |
-| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre[^4] | Vitamin D | 0,89 µg |
-| Vitamin E | 3,7 mg |  |
-| Vitamin C | 40 mg |  |
-| Niacin | 8 mg |  |
-| Vitamin B[^6] | 1,4 mg |  |
-| Folsyre | 40 µg |  |
-| Kalsium | 60 mg |  |
-| Magnesium | 29 mg |  |
-| Selen | 0,15 µg |  |
-| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre tilsatt koffein i en mengde over 15 mg / 100 ml[^4] | Vitamin D | 1,2 µg |
-| Vitamin E | 4 mg |  |
-| Vitamin C | 48 mg |  |
-| Niacin | 10 mg |  |
-| Vitamin B[^6] | 1,4 mg |  |
-| Folsyre | 24,4 µg |  |
-| Kalsium | 60 mg |  |
-| Magnesium | 30 mg |  |
-| Sink | 2 mg |  |
-| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre porsjonert i mindre drikkeampuller, shots eller lignende[^4],[^5] | Niacin | 1,5 mg |
-| Vitamin B[^6] | 2,3 mg |  |
-| Folsyre | 15 µg |  |
-| Elektrolyttdrikker[^4],[^5],[^6] | Vitamin A | 290 µg |
-| Vitamin D | 2,5 µg |  |
-| Vitamin E | 4,5 mg |  |
-| Vitamin C | 35 mg |  |
-| Niacin | 7,5 mg |  |
-| Vitamin B[^6] | 0,9 mg |  |
-| Folsyre | 82 µg |  |
-| Kalsium | 180 mg |  |
-| Fosfor | 150 mg |  |
-| Magnesium | 60 mg |  |
-| Jern | 3 mg |  |
-| Sink | 1,5 mg |  |
-| Kobber | 0,2 mg |  |
-| Mangan | 0,4 mg |  |
-| Selen | 8,5 µg |  |
-| Krom | 20 µg |  |
-| Molybden | 17 µg |  |
-| Jod | 23 µg |  |
-| Karbohydrat-elektrolyttdrikker som også inneholder protein/fett[^4],[^5],[^7] hvorav innholdet av protein utgjør minst 20 % av energiinnholdet i produktet og energiinnholdet er minst 420 kJ / 100 ml (100 kcal / 100 ml). | Vitamin A | 125 µg |
-| Vitamin D | 2 µg |  |
-| Vitamin E | 2,2 mg |  |
-| Vitamin C | 32 mg |  |
-| Niacin | 2,5 mg |  |
-| Vitamin B[^6] | 0,6 mg |  |
-| Folsyre | 35 µg |  |
-| Kalsium | 210 mg |  |
-| Fosfor | 175 mg |  |
-| Magnesium | 60 mg |  |
-| Jern | 2,6 mg |  |
-| Sink | 1,5 mg |  |
-| Kobber | 0,3 mg |  |
-| Mangan | 0,3 mg |  |
-| Selen | 8,5 µg |  |
-| Molybden | 17 µg |  |
-| Jod | 23 µg |  |
+| Fruktjuice, grønnsaksjuice, nektar, smoothies og lignende | Betakaroten<br>Vitamin D<br>Vitamin E<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Magnesium | 120 µg<br>2,5 µg<br>4 mg<br>96 mg<br>3,2 mg<br>0,3 mg<br>30 µg<br>45 mg |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre[^4] | Vitamin D<br>Vitamin E<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Magnesium<br>Selen | 0,89 µg<br>3,7 mg<br>40 mg<br>8 mg<br>1,4 mg<br>40 µg<br>60 mg<br>29 mg<br>0,15 µg |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre tilsatt koffein i en mengde over 15 mg / 100 ml[^4] | Vitamin D<br>Vitamin E<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Magnesium<br>Sink | 1,2 µg<br>4 mg<br>48 mg<br>10 mg<br>1,4 mg<br>24,4 µg<br>60 mg<br>30 mg<br>2 mg |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre porsjonert i mindre drikkeampuller, shots eller lignende[^4], [^5] | Niacin<br>Vitamin B6<br>Folsyre | 1,5 mg<br>2,3 mg<br>15 µg |
+| Elektrolyttdrikker[^4], [^5], [^6] | Vitamin A<br>Vitamin D<br>Vitamin E<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Fosfor<br>Magnesium<br>Jern<br>Sink<br>Kobber<br>Mangan<br>Selen<br>Krom<br>Molybden<br>Jod | 290 µg<br>2,5 µg<br>4,5 mg<br>35 mg<br>7,5 mg<br>0,9 mg<br>82 µg<br>180 mg<br>150 mg<br>60 mg<br>3 mg<br>1,5 mg<br>0,2 mg<br>0,4 mg<br>8,5 µg<br>20 µg<br>17 µg<br>23 µg |
+| Karbohydrat-elektrolyttdrikker som også inneholder protein/fett[^4], [^5], [^7] hvorav innholdet av protein utgjør minst 20 % av energiinnholdet i produktet og energiinnholdet er minst 420 kJ / 100 ml (100 kcal / 100 ml). | Vitamin A<br>Vitamin D<br>Vitamin E<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Fosfor<br>Magnesium<br>Jern<br>Sink<br>Kobber<br>Mangan<br>Selen<br>Molybden<br>Jod | 125 µg<br>2 µg<br>2,2 mg<br>32 mg<br>2,5 mg<br>0,6 mg<br>35 µg<br>210 mg<br>175 mg<br>60 mg<br>2,6 mg<br>1,5 mg<br>0,3 mg<br>0,3 mg<br>8,5 µg<br>17 µg<br>23 µg |
 
-| *Næringsmiddelkategori* | *Vitamin/mineral*[^1],[^2] | *Samlet maksimalt innhold per spiseklar porsjon/måltidsbar* |
+| *Næringsmiddelkategori* | *Vitamin/mineral*[^1], [^2] | *Samlet maksimalt innhold per spiseklar porsjon/måltidsbar* |
 | --- | --- | --- |
-| Måltidserstattere for vektkontroll (Produkter som er merket og markedsført som en erstatning for 1–2 hovedmåltider) | Vitamin A | 491 µg |
-| Vitamin D | 4,7 µg |  |
-| Vitamin E | 8,7 mg |  |
-| Vitamin K | 36 µg |  |
-| Vitamin C | 53 mg |  |
-| Niacin | 11 mg |  |
-| Vitamin B[^6] | 1,6 mg |  |
-| Folsyre | 147 µg |  |
-| Kalsium | 458 mg |  |
-| Fosfor | 552 mg |  |
-| Magnesium | 157 mg |  |
-| Jern | 11 mg |  |
-| Sink | 5 mg |  |
-| Kobber | 0,85 mg |  |
-| Mangan | 1,5 mg |  |
-| Selen | 40 µg |  |
-| Krom | 35 µg |  |
-| Molybden | 31 µg |  |
-| Jod | 100 µg |  |
+| Måltidserstattere for vektkontroll (Produkter som er merket og markedsført som en erstatning for 1–2 hovedmåltider) | Vitamin A<br>Vitamin D<br>Vitamin E<br>Vitamin K<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Fosfor<br>Magnesium<br>Jern<br>Sink<br>Kobber<br>Mangan<br>Selen<br>Krom<br>Molybden<br>Jod | 491 µg<br>4,7 µg<br>8,7 mg<br>36 µg<br>53 mg<br>11 mg<br>1,6 mg<br>147 µg<br>458 mg<br>552 mg<br>157 mg<br>11 mg<br>5 mg<br>0,85 mg<br>1,5 mg<br>40 µg<br>35 µg<br>31 µg<br>100 µg |
 
-| *Næringsmiddelkategori* | *Vitamin/mineral*[^1],[^2] | *Samlet maksimalt innhold per 100 g pulver før utblanding* |
+| *Næringsmiddelkategori* | *Vitamin/mineral*[^1], [^2] | *Samlet maksimalt innhold per 100 g pulver før utblanding* |
 | --- | --- | --- |
-| Melkebaserte drikker (1–3 år) | Vitamin A | 500 µg |
-| Vitamin D | 9,0 µg |  |
-| Vitamin E | 11 mg |  |
-| Vitamin K | 45 µg |  |
-| Vitamin C | 110 mg |  |
-| Niacin | 5,0 mg |  |
-| Vitamin B[^6] | 0,53 mg |  |
-| Folsyre | 145 µg |  |
-| Kalsium | 910 mg |  |
-| Fosfor | 366 mg |  |
-| Magnesium | 57 mg |  |
-| Jern | 9,5 mg |  |
-| Sink | 6 mg |  |
-| Kobber | 0,38 mg |  |
-| Mangan | 77 µg |  |
-| Fluor | 54 µg |  |
-| Selen | 12 µg |  |
-| Jod | 120 µg |  |
+| Melkebaserte drikker (1–3 år) | Vitamin A<br>Vitamin D<br>Vitamin E<br>Vitamin K<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Fosfor<br>Magnesium<br>Jern<br>Sink<br>Kobber<br>Mangan<br>Fluor<br>Selen<br>Jod | 500 µg<br>9,0 µg<br>11 mg<br>45 µg<br>110 mg<br>5,0 mg<br>0,53 mg<br>145 µg<br>910 mg<br>366 mg<br>57 mg<br>9,5 mg<br>6 mg<br>0,38 mg<br>77 µg<br>54 µg<br>12 µg<br>120 µg |
 
-| *Næringsmiddelkategori* | *Vitamin/mineral*[^1],[^2] | *Samlet maksimalt innhold per 100 g eller 100 ml* |
+| *Næringsmiddelkategori* | *Vitamin/mineral*[^1], [^2] | *Samlet maksimalt innhold per 100 g eller 100 ml* |
 | --- | --- | --- |
 | *Diverse* |  |  |
-| Majones | Vitamin D | 8 µg |
-| Vitamin E | 4 mg |  |
-| Krom | 10 µg |  |
+| Majones | Vitamin D<br>Vitamin E<br>Krom | 8 µg<br>4 mg<br>10 µg |
 | Husholdningssalt | Jod | 2000 µg |
 | Salt (brukt som ingrediens i ulikt bakverk) | Jod | 2000 µg |
 | Salt (brukt som ingrediens i buljonger, supper, sauser, andre ferdigretter o.l.) | Jod | 2000 µg |
-| Geler markedsført i enkeltporsjonspakninger[^5] | Niacin | 9,6 mg |
-| Vitamin B[^6] | 2,3 mg |  |
-| Barer o.l. | Vitamin A | 433 µg |
-| Vitamin D | 3,6 µg |  |
-| Vitamin E | 14 mg |  |
-| Vitamin C | 85 mg |  |
-| Niacin | 21 mg |  |
-| Vitamin B[^6] | 2,8 mg |  |
-| Folsyre | 429 µg |  |
-| Kalsium | 428 mg |  |
-| Fosfor | 604 mg |  |
-| Magnesium | 200 mg |  |
-| Jern | 11 mg |  |
-| Sink | 6,2 mg |  |
-| Kobber | 0,83 mg |  |
-| Mangan | 1,1 mg |  |
-| Selen | 38 µg |  |
-| Krom | 40 µg |  |
-| Molybden | 50 µg |  |
-| Jod | 82,5 µg |  |
-| Vegetabilske alternativer til melkebaserte desserter | Vitamin D | 1,5 µg |
-| Kalsium | 120 mg |  |
-| Jod | 22,5 µg |  |
+| Geler markedsført i enkeltporsjonspakninger[^5] | Niacin<br>Vitamin B6 | 9,6 mg<br>2,3 mg |
+| Barer o.l. | Vitamin A<br>Vitamin D<br>Vitamin E<br>Vitamin C<br>Niacin<br>Vitamin B6<br>Folsyre<br>Kalsium<br>Fosfor<br>Magnesium<br>Jern<br>Sink<br>Kobber<br>Mangan<br>Selen<br>Krom<br>Molybden<br>Jod | 433 µg<br>3,6 µg<br>14 mg<br>85 mg<br>21 mg<br>2,8 mg<br>429 µg<br>428 mg<br>604 mg<br>200 mg<br>11 mg<br>6,2 mg<br>0,83 mg<br>1,1 mg<br>38 µg<br>40 µg<br>50 µg<br>82,5 µg |
+| Vegetabilske alternativer til melkebaserte desserter | Vitamin D<br>Kalsium<br>Jod | 1,5 µg<br>120 mg<br>22,5 µg |
 | Kaffepulver o.l. (frysetørket) | Krom | 60 µg |
-| Te (trekkes i vann)[^8] | Vitamin C | 10 mg |
-| Niacin | 1,2 mg |  |
-| Vitamin B[^6] | 0,18 mg |  |
-| Sink | 0,75 mg |  |
-| Selen | 6,9 µg |  |
-| Alkoholfrie drikkevarer basert på melk og kaffe | Niacin | 6,4 mg |
-| Vitamin B[^6] | 0,56 mg |  |
-| Vegetabilske alternativer til «is-kaffelatte» | Vitamin D | 0,75 µg |
-| Vitamin E | 1,8 mg |  |
-| Kalsium | 120 mg |  |
+| Te (trekkes i vann)[^8] | Vitamin C<br>Niacin<br>Vitamin B6<br>Sink<br>Selen | 10 mg<br>1,2 mg<br>0,18 mg<br>0,75 mg<br>6,9 µg |
+| Alkoholfrie drikkevarer basert på melk og kaffe | Niacin<br>Vitamin B6 | 6,4 mg<br>0,56 mg |
+| Vegetabilske alternativer til «is-kaffelatte» | Vitamin D<br>Vitamin E<br>Kalsium | 0,75 µg<br>1,8 mg<br>120 mg |
 | Fluortabletter | Fluor | 2,3 mg |
-| Halspastiller | Vitamin C | 215 mg |
-| Sink | 12,3 mg |  |
-| Tyggegummi o.l. | Vitamin C | 450 mg |
-| Kalsium | 1300 mg |  |
-| Sink | 24,3 mg |  |
-| Fluor | 10 mg |  |
+| Halspastiller | Vitamin C<br>Sink | 255 mg<br>32 mg |
+| Mikropastiller for frisk pust | Sink | 37,4 mg |
+| Tyggegummi o.l. | Vitamin C<br>Kalsium<br>Sink<br>Fluor | 450 mg<br>1300 mg<br>24,3 mg<br>10 mg |
 | Vingummi | Niacin | 4,0 mg |
 
-1 Tilsetning av tiamin, riboflavin, vitamin B12, biotin, pantotensyre, kalium, klorid og natrium, er unntatt fra kravet om melding i [§ 4](forskrift/2010-02-26-247/§4), forutsatt at tilsetningen ikke innebærer risiko for menneskers helse.
+1 Tilsetning av tiamin, riboflavin, vitamin B12, biotin, pantotensyre, kalium, klorid og natrium, er unntatt fra kravet om melding i § 4, forutsatt at tilsetningen ikke innebærer risiko for menneskers helse.
 
-2 Indirekte tilsetning av vitaminer eller mineraler til et produkt, ved at en av ingrediensene i produktet er tilsatt vitaminer eller mineraler som følge av obligatoriske krav om slik tilsetning produksjonslandet, er unntatt fra kravet om melding i [§ 4](forskrift/2010-02-26-247/§4).
+2 Indirekte tilsetning av vitaminer eller mineraler til et produkt, ved at en av ingrediensene i produktet er tilsatt vitaminer eller mineraler som følge av obligatoriske krav om slik tilsetning produksjonslandet, er unntatt fra kravet om melding i § 4.
 
 3 Inkluderer laktosereduserte og laktosefrie produkter.
 
@@ -490,7 +326,7 @@ Forskriften trer i kraft 1. mars 2010.
 
 9 Kan være pulver som skal oppløses i melk. Maksimalt innhold angir innholdet pr. 100 ml i det drikkeklare produktet (uansett om næringsdeklarasjonen på produktet gjelder for produktet som det selges, eller for produktet som det drikkes (ferdig utblandet)).
 
-> Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020), endret ved forskrifter [17 nov 2020 nr. 2401](forskrift/2020-11-17-2401), [1 sep 2021 nr. 2648](forskrift/2021-09-01-2648), [27 mars 2023 nr. 430](forskrift/2023-03-27-430), [19 mars 2024 nr. 475](forskrift/2024-03-19-475), [16 april 2024 nr. 625](forskrift/2024-04-16-625) (i kraft 19 mars 2024), [12 mars 2025 nr. 421](forskrift/2025-03-12-421).
+> Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020), endret ved forskrifter [17 nov 2020 nr. 2401](forskrift/2020-11-17-2401), [1 sep 2021 nr. 2648](forskrift/2021-09-01-2648), [27 mars 2023 nr. 430](forskrift/2023-03-27-430), [19 mars 2024 nr. 475](forskrift/2024-03-19-475), [16 april 2024 nr. 625](forskrift/2024-04-16-625) (i kraft 19 mars 2024), [12 mars 2025 nr. 421](forskrift/2025-03-12-421), [19 aug 2026 nr. 1648](forskrift/2026-08-19-1648).
 
 ## Vedlegg 2. Opplysninger som skal sendes inn til Mattilsynet sammen med meldinger etter § 4, om tilsetning til næringsmidler, unntatt kosttilskudd, av vitaminer eller mineraler, som ikke er i samsvar med vilkårene i vedlegg 1
 
@@ -518,7 +354,7 @@ Innholdet i meldingen må settes opp i den rekkefølgen og etter det oppsettet s
 | *Kosttilskudd beregnet for voksne fra og med 18 år* |  | *Per anbefalt døgndose* |
 |  | Beta-alanin (107-95-9) | 2 g per anbefalt døgndose fordelt på doser av maksimalt 350 mg utover dagen. Dosene skal inntas med minst 2 timers mellomrom. |
 |  | Dokosaheksaensyre (DHA) (6217-54-5) | 1,3 g per anbefalt døgndose. |
-|  | D-Ribose (50-69-1) | 10 g per anbefalt døgndose, fordelt på to doser av maksimalt 5 g utover dagen. Dosene skal inntas med minst 5 timers mellomrom[^5]. |
+|  | D-Ribose (50-69-1) | 10 g per anbefalt døgndose, fordelt på to doser av maksimalt 5 g utover dagen. Dosene skal inntas med minst 5 timers mellomrom[^5] |
 |  | Eikosapentaensyre (EPA) (10417-94-4) | 1,8 g per anbefalt døgndose. |
 |  | Eikosapentaensyre (EPA) + Dokosaheksaensyre (DHA) (10417-94-4 og 6217-54-5) | 5 g per anbefalt døgndose. |
 |  | Hesperidin (520-26-3) | 60 mg per anbefalt døgndose. |
@@ -576,8 +412,8 @@ Innholdet i meldingen må settes opp i den rekkefølgen og etter det oppsettet s
 |  | L-valin (72-18-4) | 252 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-leucin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
 |  | Taurin (107-35-7) | 400 mg / 100 ml |
 | Vannbaserte alkoholfrie drikkevarer med og uten kullsyre tilsatt koffein i en mengde over 15 mg / 100 ml[^1] |  |  |
-|  | Glucuronolakton (D-glucurono-γ-lakton, 32449-92-6) | 24 mg / 100 ml |
-|  | Inositol (6917-35-7 og 87-89-8) | 14 mg / 100 ml |
+|  | Glucuronolakton (D-glucurono-γ-lakton, 32449-92-6) | 240 mg / 100 ml |
+|  | Inositol (6917-35-7 og 87-89-8) | 20 mg / 100 ml |
 |  | Koffein (58-08-2) | 32 mg / 100 ml fra alle kilder. |
 |  | L-Arginin (74-79-3 og 1119-34-2) | 390 mg / 100 ml |
 |  | L-Isoleusin (73-32-5 og 17694-98-3) | 350 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
@@ -588,27 +424,26 @@ Innholdet i meldingen må settes opp i den rekkefølgen og etter det oppsettet s
 |  | L-Isoleusin (73-32-5 og 17694-98-3) | 585 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-valin:L-isoleusin er 2:1:1. |
 |  | L-Leusin (61-90-5 og 760-84-9) | 1170 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
 |  | L-Valin (72-18-4) | 585 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
-| Vannbaserte alkoholholdige drikkevarer med aroma, der alkoholinnholdet er høyst 4,7 % Vol. |  |  |
+| Vannbaserte alkoholholdige drikkevarer med aroma, der alkoholinnholdet er høyst 4,7 % vol. |  |  |
 |  | Koffein (58-08-2) | 10 mg / 100 ml fra alle kilder |
 |  | Taurin (107-35-7) | 300 mg / 100 ml |
-| Elektrolyttdrikker [^1],[^2],[^3] |  |  |
-|  | Beta-alanin (107-95-9) | 800 mg / 100 ml kan tilsettes dersom doser av maksimalt 350 mg fordeles utover dagen. Dosene skal inntas med minst 2 timers mellomrom. |
+| *Elektrolyttdrikker*[^1], [^2], [^3] |  |  |
 |  | Koffein (58-08-2) | 10 mg / 100 ml fra alle kilder. |
 |  | L-Arginin (74-79-3 og 1119-34-2) | 56 mg / 100 ml |
 |  | L-Citrullin (372-75-8) | 800 mg / 100 ml |
 |  | L-Glutamin (56-85-9) | 1400 mg / 100 ml |
 |  | L-Isoleusin (73-32-5 og 17694-98-3) | 235 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
-|  | L-Karnitin (541-15-1 og 6645-46-1) | 200 mg / 100 ml<br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
+|  | L-Karnitin (541-15-1 og 6645-46-1) | 200 mg / 100 ml<br><br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
 |  | L-Leusin (61-90-5 og 760-84-9) | 470 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
 |  | L-Valin (72-18-4) | 235 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-leusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
-| Karbohydrat-elektrolyttdrikker som også inneholder protein/fett hvorav innholdet av protein utgjør minst 20 % av energiinnholdet i produktet og energiinnholdet er minst 420 kJ / 100 ml (100 kcal / 100 ml) [^1],[^2],[^4] |  |  |
+| Karbohydrat-elektrolyttdrikker som også inneholder protein/fett hvorav innholdet av protein utgjør minst 20 % av energiinnholdet i produktet og energiinnholdet er minst 420 kJ / 100 ml (100 kcal / 100 ml)[^1], [^2], [^4] |  |  |
 |  | Koffein (58-08-2) | 10 mg / 100 ml fra alle kilder. |
 |  | L-Arginin (74-79-3 og 1119-34-2) | 390 mg / 100 ml |
 |  | L-Fenylalanin | 25 mg / 100 ml |
 |  | L-Glutamin (56-85-9) | 1400 mg / 100 ml |
 |  | L-Histidin (71-00-1 og 645-35-2) | 25 mg / 100 ml |
 |  | L-Isoleusin (73-32-5 og 17694-98-3) | 472 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 |
-|  | L-Karnitin (541-15-1 og 6645-46-1) | 200 mg / 100 ml<br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
+|  | L-Karnitin (541-15-1 og 6645-46-1) | 200 mg / 100 ml<br><br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
 |  | L-Leusin (61-90-5 og 760-84-9) | 900 mg / 100 ml eller<br><br>943 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
 |  | L-Lysin (56-87-1 og 657-27-2) | 63 mg / 100 ml |
 |  | L-Metionin (63-68-3) | 25 mg / 100 ml |
@@ -626,9 +461,9 @@ Innholdet i meldingen må settes opp i den rekkefølgen og etter det oppsettet s
 | Barer o.l. |  |  |
 |  | Koffein (58-08-2) | 100 mg / 100 g fra alle kilder. |
 |  | L-Isoleusin (73-32-5 og 17694-98-3) | 555 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-valin:L-isoleusin er 2:1:1 |
-|  | L-Leusin (61-90-5 og 760-84-9) | 1110 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene<br>L-valin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1.<br><br>eller<br><br>2300 mg per 100 g, men porsjonen kan ikke være mer enn 50 g, dvs. maksimalt 1150 mg i en 50 g porsjon. |
+|  | L-Leusin (61-90-5 og 760-84-9) | 1110 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-valin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1.<br><br>eller<br><br>2300 mg per 100 g, men porsjonen kan ikke være mer enn 50 g, dvs. maksimalt 1150 mg i en 50 g porsjon. |
 |  | L-Valin (72-18-4) | 555 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-leusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
-| Halspastiller | Koffein (58-08-2) | 313 mg per 100 g fra alle kilder[^2] |
+| Halspastiller[^2] | Koffein (58-08-2) | 313 mg per 100 g fra alle kilder |
 
 1 Kan være pulver eller tabletter som skal løses i vann. Maksimalt innhold angir innholdet pr. 100 ml i det drikkeklare produktet (uansett om næringsdeklarasjonen på produktet gjelder for produktet som det selges, eller for produktet som det drikkes (ferdig utblandet)).
 
@@ -640,7 +475,7 @@ Innholdet i meldingen må settes opp i den rekkefølgen og etter det oppsettet s
 
 5 Produkter tilsatt D-ribose som en enkelt dose på mer enn 5 g kan omsette produktene på det norske markedet frem til 31. august 2022.
 
-> Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020), endret ved forskrifter [17 nov 2020 nr. 2401](forskrift/2020-11-17-2401), [1 sep 2021 nr. 2648](forskrift/2021-09-01-2648), [27 mars 2023 nr. 430](forskrift/2023-03-27-430), [19 mars 2024 nr. 475](forskrift/2024-03-19-475), [12 mars 2025 nr. 421](forskrift/2025-03-12-421), [26 mars 2025 nr. 539](forskrift/2025-03-26-539).
+> Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020), endret ved forskrifter [17 nov 2020 nr. 2401](forskrift/2020-11-17-2401), [1 sep 2021 nr. 2648](forskrift/2021-09-01-2648), [27 mars 2023 nr. 430](forskrift/2023-03-27-430), [19 mars 2024 nr. 475](forskrift/2024-03-19-475), [12 mars 2025 nr. 421](forskrift/2025-03-12-421), [26 mars 2025 nr. 539](forskrift/2025-03-26-539), [19 aug 2026 nr. 1648](forskrift/2026-08-19-1648) (se endringsforskriften for overgangsbestemmelse).
 
 ## Vedlegg 4. Opplysninger som skal sendes inn til Mattilsynet sammen med meldinger etter § 9 og søknader om tillatelse etter § 10, til tilsetning av visse «andre stoffer» til næringsmidler, herunder kosttilskudd, som ikke er i samsvar med vilkårene i vedlegg 3
 
