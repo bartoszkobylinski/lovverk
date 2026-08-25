@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-07-01"
 last_change_in_force: "2026-02-12"
 last_updated: null
-xml_hash: "77b0c67ec53f538d6c49701ea70f424faf2f5f63d3e9080350d159f99aba16fd"
+xml_hash: "8f1c13ce2cdb87b14f74433b0b8ea0e4ff6c98396c6529366feecbdb0e6e62a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-25T04:48:31.682233+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,6 +29,8 @@ Denne forskriften gir utfyllende bestemmelser til [lov 27. mai 2025 nr. 18 om di
 ## § 2. Virkeområde
 
 Forskriften gjelder for foretak som er omfattet av [DORA-loven § 1 første ledd](lov/2025-05-27-18/§1/ledd/1).
+
+> **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
 
 ## § 3. Utfyllende regelverk etter DORA-forordningen
 
@@ -50,3 +52,5 @@ Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasninge
 ## § 4. Ikrafttredelse
 
 Forskriften trer i kraft 1. juli 2025.
+
+> **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
