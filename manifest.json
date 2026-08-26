@@ -105345,13 +105345,13 @@
     },
     "sf-20250701-1396": {
       "doc_type": "forskrift",
-      "embedding_hash": "5ea24356c3a9788caf23b43e56385e2a31ac264df1b4813d5a679a4d8f8ed2c8",
-      "embedding_input_hash": "c4d7ecdc481503423f15765dcbc934304a019bf7bdea89f0b80b585f8cfa478e",
+      "embedding_hash": "d7775d367d173031b3ee38b50cc1c9d3084e9d22b9c8ba04b6379de5cf6359ce",
+      "embedding_input_hash": "6e28b396fb2f1edd39b6a41207d35993bb8a5079b6679d657ac14aef5d9cbe91",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-26",
+      "last_seen": "2026-08-26T04:49:51.474577Z",
       "markdown_path": "forskrifter/innkrevingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -105359,8 +105359,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om innkreving av statlige krav mv. (innkrevingsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "5ea24356c3a9788caf23b43e56385e2a31ac264df1b4813d5a679a4d8f8ed2c8"
+      "total_changes": 4,
+      "xml_hash": "d7775d367d173031b3ee38b50cc1c9d3084e9d22b9c8ba04b6379de5cf6359ce"
     },
     "sf-20250701-1397": {
       "doc_type": "forskrift",
@@ -113229,6 +113229,6 @@
       "xml_hash": "27c8bb6301ea26640fe502c4194349403af3cf3c1b49c481067527d423ba68d5"
     }
   },
-  "generated_at": "2026-08-25T04:48:31.682233Z",
+  "generated_at": "2026-08-26T04:49:51.474577Z",
   "version": 1
 }
