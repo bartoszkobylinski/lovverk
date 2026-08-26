@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-02-24"
+last_change_in_force: "2026-08-24"
 last_updated: null
-xml_hash: "5ea24356c3a9788caf23b43e56385e2a31ac264df1b4813d5a679a4d8f8ed2c8"
+xml_hash: "d7775d367d173031b3ee38b50cc1c9d3084e9d22b9c8ba04b6379de5cf6359ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-26T04:49:51.474577+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -371,7 +371,7 @@ Innkrevingsmyndigheten kan uten hinder av taushetsplikten etter [innkrevingslove
 1. skattemyndighetene til bruk i sitt arbeid med skatt og avgift
 2. tollmyndighetene til bruk i sitt arbeid med vareførsel og tollavgift
 3. Arbeids- og velferdsetaten til bruk i sitt arbeid med trygder, tilskudd eller bidrag av offentlige midler, samt underholdsbidrag
-4. alminnelig namsmann til bruk i sitt arbeid med tvangsfullbyrdelse, midlertidig sikring og gjeldsordninger
+4. namsfogden til bruk i sitt arbeid med tvangsfullbyrdelse, midlertidig sikring og gjeldsordninger
 5. Direktoratet for byggkvalitet til bruk i sitt arbeid med sentral godkjenning for ansvarsrett
 6. Statistisk sentralbyrå til bruk i sitt arbeid med statistikk
 7. Norges Bank når det er nødvendig for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov eller for å overholde Norges avtaler med fremmed stat eller internasjonal organisasjon
@@ -380,6 +380,8 @@ Innkrevingsmyndigheten kan uten hinder av taushetsplikten etter [innkrevingslove
 10. Nasjonal sikkerhetsmyndighet til bruk i sitt arbeid med personkontroll
 11. Folkeregistermyndigheten til bruk i sitt arbeid med registerføringen
 12. offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) til bruk i sitt arbeid med å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet.
+
+> Endret ved forskrift [24 aug 2026 nr. 1662](forskrift/2026-08-24-1662).
 
 ### § 14-2. Opplysninger som kan utleveres
 
