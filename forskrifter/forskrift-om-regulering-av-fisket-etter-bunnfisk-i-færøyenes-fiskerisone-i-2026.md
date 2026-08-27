@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-05"
-last_change_in_force: null
+last_change_in_force: "2026-08-21"
 last_updated: null
-xml_hash: "ecdb2744a596ec65eab9f650a7d0b329580fff4f87f813a85a447a1a8f1086af"
+xml_hash: "a30e02fe28d15edbafa7239f7ce436d1ff59cd0f20f60850d487322c11d1ae69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-27T15:08:51.820746+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,6 +35,10 @@ Uten hensyn til forbudet i [§ 1](forskrift/2026-01-05-4/§1) kan fartøy med ad
 3. 600 tonn andre arter som bifangst.
 
 Fiskeridirektoratet kan endre deltakerbegrensningen i første ledd dersom kvotene ikke blir utnyttet.
+
+Fisket etter lange/blålange stoppes med virkning fra og med 25. august 2026.
+
+> Endret ved forskrift [21 aug 2026 nr. 1665](forskrift/2026-08-21-1665).
 
 ## § 3. Bifangst
 
