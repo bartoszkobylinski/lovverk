@@ -65084,13 +65084,13 @@
     },
     "sf-20121129-1283": {
       "doc_type": "forskrift",
-      "embedding_hash": "2ebf0a2706ba8a3e703c22b3d3b2c47471a1ba737daeba0ea7fb635a4978a4d6",
-      "embedding_input_hash": "e8d93a3845b1eef8117a2a546a0b7754a856bedda28bf5bc6d8c35360bd98d03",
+      "embedding_hash": "88d41120eec53770c7682d45b47bbcd81a82fed0f3814e2c42d5997bef4df055",
+      "embedding_input_hash": "f28e18d563eb5ab7cf7c8d0e9fa709f824e971bfaaa9eb4628dda5b960c2e1e4",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-02",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
       "markdown_path": "forskrifter/forskrift-om-bustøtte.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -65098,8 +65098,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bustøtte",
-      "total_changes": 4,
-      "xml_hash": "2ebf0a2706ba8a3e703c22b3d3b2c47471a1ba737daeba0ea7fb635a4978a4d6"
+      "total_changes": 5,
+      "xml_hash": "88d41120eec53770c7682d45b47bbcd81a82fed0f3814e2c42d5997bef4df055"
     },
     "sf-20121130-1114": {
       "doc_type": "forskrift",
@@ -80911,13 +80911,13 @@
     },
     "sf-20180730-1211": {
       "doc_type": "forskrift",
-      "embedding_hash": "ba93bab4fb2de0424a7ea130fa508fcb6fe9940c6c86f3f7cca52f37d9b2c6ca",
+      "embedding_hash": "a9bf3c8b57db3f8336b4a7ebe18691385cdbfa90777f1eb72c0de97e8a8eb3bd",
       "embedding_input_hash": "29e65f76ba4e787bf232ca65c1dd619d5575dabf8030ddeacf2f6c6290537dbc",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-25",
-      "last_seen": "2026-08-25T04:48:31.682233Z",
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
       "markdown_path": "forskrifter/forskrift-om-delvis-anvendelse-av-uhl-for-forsvarets-høyskole-m-m.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -80925,8 +80925,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om delvis anvendelse av universitets- og høyskoleloven for Forsvarets høgskole og om nemnder",
-      "total_changes": 4,
-      "xml_hash": "ba93bab4fb2de0424a7ea130fa508fcb6fe9940c6c86f3f7cca52f37d9b2c6ca"
+      "total_changes": 5,
+      "xml_hash": "a9bf3c8b57db3f8336b4a7ebe18691385cdbfa90777f1eb72c0de97e8a8eb3bd"
     },
     "sf-20180801-1215": {
       "doc_type": "forskrift",
@@ -81177,13 +81177,13 @@
     },
     "sf-20180928-1471": {
       "doc_type": "forskrift",
-      "embedding_hash": "5a68b08287837c60e39c72baea50ec98024d97c08ce3010881c1cb64193cfb33",
-      "embedding_input_hash": "66cd333d39d1cb43e5670937d95e99919cf76b425b8993fed35147c630cfe14f",
+      "embedding_hash": "db77a80edc0fe9ab4204c91d952d308c1ba3d4408d41e9593e3c83cce8d225bd",
+      "embedding_input_hash": "3bbcd923cddcd0d0716edaaa5af36ec30153b6c72dd504d841765b1d95250373",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-i-retten.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -81191,8 +81191,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak i retten",
-      "total_changes": null,
-      "xml_hash": "5a68b08287837c60e39c72baea50ec98024d97c08ce3010881c1cb64193cfb33"
+      "total_changes": 4,
+      "xml_hash": "db77a80edc0fe9ab4204c91d952d308c1ba3d4408d41e9593e3c83cce8d225bd"
     },
     "sf-20180928-1479": {
       "doc_type": "forskrift",
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "5f67ce31945117493a39c7f8af6aae36abdb482595ac1ada64804d22b2d50ef8",
-      "embedding_input_hash": "fde0bfeb800988cd0c2afbb270ad611cb2e66db488be353bca8b54805ad5dbc3",
+      "embedding_hash": "97d7fc83335db8c6e7e6f54716b100070747a011d0b1209019b2a7811b53f261",
+      "embedding_input_hash": "bc0c2d0c2b2e18bbfb31b8ff7cc6283ae49f79e9a446413b28234dc2c25fda63",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-20",
-      "last_seen": "2026-08-20T04:46:16.259937Z",
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 17,
-      "xml_hash": "5f67ce31945117493a39c7f8af6aae36abdb482595ac1ada64804d22b2d50ef8"
+      "total_changes": 18,
+      "xml_hash": "97d7fc83335db8c6e7e6f54716b100070747a011d0b1209019b2a7811b53f261"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -105098,13 +105098,13 @@
     },
     "sf-20250624-1296": {
       "doc_type": "forskrift",
-      "embedding_hash": "8f1c13ce2cdb87b14f74433b0b8ea0e4ff6c98396c6529366feecbdb0e6e62a4",
+      "embedding_hash": "f35a10e4a7fded7e0547acaf6c352e51b50c93e77f8c4d8fe9768096d0489fd6",
       "embedding_input_hash": "90b546a35380a2b4c339e2992043a8ed4ef1ae8efbd9c0c6915ce2cd8493eb5f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-25",
-      "last_seen": "2026-08-25T04:48:31.682233Z",
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
       "markdown_path": "forskrifter/dora-forskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -105112,8 +105112,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om digital operasjonell motstandsdyktighet i finanssektoren (DORA-forskriften)",
-      "total_changes": 4,
-      "xml_hash": "8f1c13ce2cdb87b14f74433b0b8ea0e4ff6c98396c6529366feecbdb0e6e62a4"
+      "total_changes": 5,
+      "xml_hash": "f35a10e4a7fded7e0547acaf6c352e51b50c93e77f8c4d8fe9768096d0489fd6"
     },
     "sf-20250624-1308": {
       "doc_type": "forskrift",
@@ -109677,13 +109677,13 @@
     },
     "sf-20260105-0004": {
       "doc_type": "forskrift",
-      "embedding_hash": "ecdb2744a596ec65eab9f650a7d0b329580fff4f87f813a85a447a1a8f1086af",
-      "embedding_input_hash": "739466de727867e9aa1a47f7c5693cb6476c5367803a9099209e975b77459c19",
+      "embedding_hash": "a30e02fe28d15edbafa7239f7ce436d1ff59cd0f20f60850d487322c11d1ae69",
+      "embedding_input_hash": "0cbd708c08d8875368c9bd950c26e6fd6bd6a7afa429cd8162a1a0d5977d31c5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-bunnfisk-i-færøyenes-fiskerisone-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109691,8 +109691,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter bunnfisk i Færøyenes fiskerisone i 2026",
-      "total_changes": 3,
-      "xml_hash": "ecdb2744a596ec65eab9f650a7d0b329580fff4f87f813a85a447a1a8f1086af"
+      "total_changes": 4,
+      "xml_hash": "a30e02fe28d15edbafa7239f7ce436d1ff59cd0f20f60850d487322c11d1ae69"
     },
     "sf-20260105-0005": {
       "doc_type": "forskrift",
@@ -113227,8 +113227,46 @@
       "title": "Forskrift om endring i vareførselsforskriften",
       "total_changes": 1,
       "xml_hash": "27c8bb6301ea26640fe502c4194349403af3cf3c1b49c481067527d423ba68d5"
+    },
+    "sf-20260821-1680": {
+      "doc_type": "forskrift",
+      "embedding_hash": "c3906cb7e27ad338a5d09ec0592cd2ba0000262a8490da65409886f7e0098f8b",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
+      "markdown_path": "forskrifter/forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endringer i forskrift 28. september 2018 nr. 1471 om opptak i retten",
+      "total_changes": 1,
+      "xml_hash": "c3906cb7e27ad338a5d09ec0592cd2ba0000262a8490da65409886f7e0098f8b"
+    },
+    "sf-20260825-1681": {
+      "doc_type": "forskrift",
+      "embedding_hash": "e47ac2aa349736ccb1b3112023723efcc415f2067c01ee84ea0ccba5e2e5bde4",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-08-27",
+      "last_seen": "2026-08-27T15:08:51.820746Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bustøtte-2026.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-bustøtte-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om bustøtte",
+      "total_changes": 1,
+      "xml_hash": "e47ac2aa349736ccb1b3112023723efcc415f2067c01ee84ea0ccba5e2e5bde4"
     }
   },
-  "generated_at": "2026-08-26T04:49:51.474577Z",
+  "generated_at": "2026-08-27T15:08:51.820746Z",
   "version": 1
 }

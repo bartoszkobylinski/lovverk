@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260821-1680",
+  "events": [
+    {
+      "commit": "65dc476",
+      "date": "2026-08-27",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten"
+}

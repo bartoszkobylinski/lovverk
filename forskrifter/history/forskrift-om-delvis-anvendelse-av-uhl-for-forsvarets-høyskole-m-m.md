@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-anvendelse-av-uhl-for-forsvarets-høyskole-m-m — Change history
 
-_4 events; doc_id `sf-20180730-1211`._
+_5 events; doc_id `sf-20180730-1211`._
+
+## 2026-08-27 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-delvis-anvendelse-av-uhl-for-forsvarets-høyskole-m-m`
+Commit: `f81723f`.
 
 ## 2026-08-25 — Content updated
 Lines: +2 -2.

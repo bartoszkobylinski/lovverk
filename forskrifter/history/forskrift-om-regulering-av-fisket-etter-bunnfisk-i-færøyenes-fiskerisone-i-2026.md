@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fisket-etter-bunnfisk-i-færøyenes-fiskerisone-i-2026 — Change history
 
-_3 events; doc_id `sf-20260105-0004`._
+_4 events; doc_id `sf-20260105-0004`._
+
+## 2026-08-27 — Content updated
+Lines: +7 -3.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-bunnfisk-i-færøyenes-fiskerisone-i-2026`
+Commit: `356f527`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

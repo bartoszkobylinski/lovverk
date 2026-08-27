@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5129 current documents_
+_5131 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1922,6 +1922,7 @@ _5129 current documents_
 - [forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn](forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn.md) — Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
+- [forskrift-om-endring-i-forskrift-om-bustøtte-2026](forskrift-om-endring-i-forskrift-om-bustøtte-2026.md) — Forskrift om endring i forskrift om bustøtte
 - [forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon](forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon.md) — Forskrift om endring i forskrift om delegering av myndighet etter lov om elektronisk kommunikasjon
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
@@ -1942,6 +1943,7 @@ _5129 current documents_
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
+- [forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten](forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten.md) — Forskrift om endringer i forskrift 28. september 2018 nr. 1471 om opptak i retten
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
 - [forskrift-om-energiklagenemnda](forskrift-om-energiklagenemnda.md) — Forskrift om Energiklagenemnda

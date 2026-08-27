@@ -7,7 +7,17 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-i-retten — Change history
 
-_2 events; doc_id `sf-20180928-1471`._
+_4 events; doc_id `sf-20180928-1471`._
+
+## 2026-08-27 — Content updated
+Lines: +4 -2.
+Subject: `update(forskrift): forskrift-om-opptak-i-retten`
+Commit: `8291138`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20180928-1471.md` → `forskrifter/forskrift-om-opptak-i-retten.md`.
