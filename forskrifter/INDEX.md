@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5131 current documents_
+_5134 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -17,6 +17,7 @@ _5131 current documents_
 - [abortregisterforskriften](abortregisterforskriften.md) — Forskrift om innsamling og behandling av helseopplysninger i register over abort (abortregisterforskriften)
 - [admin-instruks-for-pensjonsordningen-for-apotekvirksomhet](admin-instruks-for-pensjonsordningen-for-apotekvirksomhet.md) — Administrasjonsinstruks for pensjonsordningen for apotekvirksomhet
 - [advokatforskriften](advokatforskriften.md) — Forskrift om advokater og andre som yter rettslig bistand (advokatforskriften)
+- [afis-forskriften](afis-forskriften.md) — Forskrift om krav til kompetanse for personer som skal utøve flygeinformasjonstjeneste, HF-tjeneste og databehandling i ATM-systemer, og krav til tilhørende virksomheter (AFIS-forskriften)
 - [afp-tilskottsforskriften](afp-tilskottsforskriften.md) — Forskrift om vilkår for statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor – ny ordning (AFP-tilskottsforskriften)
 - [aif-forskriften](aif-forskriften.md) — Forskrift til lov om forvaltning av alternative investeringsfond
 - [aktivitetsforskriften](aktivitetsforskriften.md) — Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
@@ -1286,6 +1287,7 @@ _5131 current documents_
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
+- [endr-i-narkotikaforskriften](endr-i-narkotikaforskriften.md) — Forskrift om endring i forskrift om narkotika (narkotikaforskriften)
 - [endr-i-nettinntekstforskriften](endr-i-nettinntekstforskriften.md) — Forskrift om endring i forskrift om strømnettselskapenes inntekter (nettinntektsforskriften) § 3-2
 - [endr-i-pasientreiseforskriften](endr-i-pasientreiseforskriften.md) — Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)
 - [endr-i-personopplysningsforskriften](endr-i-personopplysningsforskriften.md) — Forskrift om endringer i personopplysningsforskriften
@@ -1304,6 +1306,7 @@ _5131 current documents_
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2026](endr-i-vareførselsforskriften-2026.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+- [endr-i-vareførselsforskriften-2026-08-26](endr-i-vareførselsforskriften-2026-08-26.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2026-2](endr-i-vareførselsforskriften-2026-2.md) — Forskrift om endring i vareførselsforskriften
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-4](endr-i-vareførselsforskriften-4.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
@@ -1463,7 +1466,6 @@ _5131 current documents_
 - [forskr-om-underskrift-på-eksigible-gjeldsbrev](forskr-om-underskrift-på-eksigible-gjeldsbrev.md) — Forskrift om bekreftelse av underskrift på eksigible gjeldsbrev.
 - [forskr-om-unntak-fra-lov-om-aksjeemisjoner](forskr-om-unntak-fra-lov-om-aksjeemisjoner.md) — Forskrift om unntak fra lov av 5. april 1974 nr. 11 om aksjeemisjoner.
 - [forskr-om-unntak-fra-medlemskap-i-folketrygden](forskr-om-unntak-fra-medlemskap-i-folketrygden.md) — Forskrift om unntak fra medlemskap i folketrygden for person som er omfattet av eller mottar ytelser etter utenlandsk trygdelovgivning mv og vedkommendes familiemedlemmer
-- [forskr-om-utdanningsorg-for-flygeinformasjonstjenestepersonell](forskr-om-utdanningsorg-for-flygeinformasjonstjenestepersonell.md) — Forskrift om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell
 - [forskr-om-utenlandsk-transport-i-norge](forskr-om-utenlandsk-transport-i-norge.md) — Forskrifter om kontroll av utenlandsk registrerte kjøretøyers transport i Norge.
 - [forskr-om-utenlandsk-vitenskapelig-havforskning](forskr-om-utenlandsk-vitenskapelig-havforskning.md) — Forskrift om utenlandsk vitenskapelig havforskning i Norges indre farvann, sjøterritorium, økonomiske sone og på kontinentalsokkelen.
 - [forskr-om-utenlandske-fiskeres-fiske-i-vitenskapelig-øyemed](forskr-om-utenlandske-fiskeres-fiske-i-vitenskapelig-øyemed.md) — Forskrift 25. juni 1971 nr. 9 om tillatelse for utenlandske fiskefartøy til fiske i vitenskapelig øyemed i samarbeid med norske myndigheter
@@ -1611,6 +1613,7 @@ _5131 current documents_
 - [forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt](forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt.md) — Forskrift om at ører med reinmerke skal følge skinnet ved slakt
 - [forskrift-om-auke-av-tillaten-biomasse-akvakultur](forskrift-om-auke-av-tillaten-biomasse-akvakultur.md) — Forskrift om auke av maksimalt tillaten biomasse for løyve til akvakultur med laks, aure og regnbogeaure i 2015
 - [forskrift-om-automatiske-jernbanevekter](forskrift-om-automatiske-jernbanevekter.md) — Forskrift om krav til automatiske jernbanevekter
+- [forskrift-om-autorisasjon-mv-for-utøvelse-av-lokal-flygeinformasjonstjeneste-afis-og-hfis](forskrift-om-autorisasjon-mv-for-utøvelse-av-lokal-flygeinformasjonstjeneste-afis-og-hfis.md) — Forskrift om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS
 - [forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde](forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde.md) — Forskrift om avfallshåndtering og avfalls- og avløpsgebyrer i Longyearbyen planområde
 - [forskrift-om-avgift-for-jaktkort-m-m-på-svalbard](forskrift-om-avgift-for-jaktkort-m-m-på-svalbard.md) — Forskrift om satser for avgift for jakt-, fangst- og fiskekort m.m. på Svalbard.
 - [forskrift-om-avgift-på-farlige-stoffer-mv](forskrift-om-avgift-på-farlige-stoffer-mv.md) — Forskrift om avgift på enkelte farlige stoffer, anlegg og innretninger som omfattes av lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver
@@ -1968,6 +1971,7 @@ _5131 current documents_
 - [forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade](forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade.md) — Forskrift om et rådgivende yrkessykdomsutvalg for regelmessig revisjon av forskrift over sykdommer som skal likestilles med yrkesskade
 - [forskrift-om-etablererprøve-serveringssted](forskrift-om-etablererprøve-serveringssted.md) — Forskrift om etablererprøve for daglig leder av serveringssted
 - [forskrift-om-etablering-av-branndirektorat-mv](forskrift-om-etablering-av-branndirektorat-mv.md) — Forskrift om etablering av Direktoratet for brann og eksplosjonsvern og Statens bygningstekniske etat. Nedleggelse av Statens branninspeksjon og Statens sprengstoffinspeksjon.
+- [forskrift-om-etablering-organisering-og-drift-av-lufttrafikktjeneste](forskrift-om-etablering-organisering-og-drift-av-lufttrafikktjeneste.md) — Forskrift om etablering, organisering og drift av lufttrafikktjeneste
 - [forskrift-om-etikkrådets-og-norges-banks-behandling-av-personopplysninger](forskrift-om-etikkrådets-og-norges-banks-behandling-av-personopplysninger.md) — Forskrift om Etikkrådets og Norges Banks behandling av personopplysninger
 - [forskrift-om-ettergjeving](forskrift-om-ettergjeving.md) — Forskrift om ettergjeving.
 - [forskrift-om-eur-jernbanenett-for-godstransport](forskrift-om-eur-jernbanenett-for-godstransport.md) — Forskrift om gjennomføring av forordning (EU) nr. 913/2010 om et europeisk jernbanenett for konkurransedyktig godstransport
@@ -2679,7 +2683,6 @@ _5131 current documents_
 - [forskrift-om-loddefisket-i-fiskevernsonen-svalbard](forskrift-om-loddefisket-i-fiskevernsonen-svalbard.md) — Forskrift om forbud mot å fiske lodde i fiskevernsonen ved Svalbard
 - [forskrift-om-loddefisket-ved-svalbard](forskrift-om-loddefisket-ved-svalbard.md) — Forskrift om forbud mot å fiske lodde i Svalbards territorialfarvann
 - [forskrift-om-lofotlam-som-geografisk-betegnelse](forskrift-om-lofotlam-som-geografisk-betegnelse.md) — Forskrift om beskyttelse av Lofotlam som geografisk betegnelse
-- [forskrift-om-lokal-flygeinformasjonstjeneste](forskrift-om-lokal-flygeinformasjonstjeneste.md) — Forskrift om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS
 - [forskrift-om-lokale-opptak-til-uio](forskrift-om-lokale-opptak-til-uio.md) — Forskrift om lokale opptak til Universitetet i Oslo
 - [forskrift-om-lokalstyrevalg-i-longyearbyen](forskrift-om-lokalstyrevalg-i-longyearbyen.md) — Forskrift om lokalstyrevalg i Longyearbyen
 - [forskrift-om-losavgifter](forskrift-om-losavgifter.md) — Forskrift om losberedskapsavgift, losings- og farledsbevisavgift (losavgifter)
@@ -2703,7 +2706,6 @@ _5131 current documents_
 - [forskrift-om-lufthavnrelaterte-tjenester](forskrift-om-lufthavnrelaterte-tjenester.md) — Forskrift om lufthavnrelaterte tjenester.
 - [forskrift-om-luftromsorganisering](forskrift-om-luftromsorganisering.md) — Forskrift om luftromsorganisering
 - [forskrift-om-lufttrafikkregler-og-operative-prosedyrer](forskrift-om-lufttrafikkregler-og-operative-prosedyrer.md) — Forskrift om lufttrafikkregler og operative prosedyrer
-- [forskrift-om-lufttrafikktjeneste](forskrift-om-lufttrafikktjeneste.md) — Forskrift om etablering, organisering og drift av lufttrafikktjeneste
 - [forskrift-om-lufttransporttjenester-i-eøs](forskrift-om-lufttransporttjenester-i-eøs.md) — Forskrift om lufttransporttjenester i EØS
 - [forskrift-om-lungesyke-spansk-storfe](forskrift-om-lungesyke-spansk-storfe.md) — Forskrift om særskilte beskyttelsestiltak mot ondartet lungesyke hos storfe ved innførsel av levende storfe fra Spania.
 - [forskrift-om-lydnivå-ved-husholdningsapparater](forskrift-om-lydnivå-ved-husholdningsapparater.md) — Forskrift om frivillig merking av lydnivå ved husholdningsapparater
@@ -2735,7 +2737,7 @@ _5131 current documents_
 - [forskrift-om-medisinsk-embetseksamen-uit](forskrift-om-medisinsk-embetseksamen-uit.md) — Forskrift for medisinsk embetseksamen og medisinsk eksamen ved Universitetet i Tromsø.
 - [forskrift-om-medisinsk-utstyr](forskrift-om-medisinsk-utstyr.md) — Forskrift om medisinsk utstyr
 - [forskrift-om-medisinske-krav-bsl-c-1-3](forskrift-om-medisinske-krav-bsl-c-1-3.md) — Forskrift om medisinske krav for seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-3)
-- [forskrift-om-medisinske-krav-bsl-g-2-5](forskrift-om-medisinske-krav-bsl-g-2-5.md) — Forskrift om medisinske krav for AFIS- og HFIS-fullmektig/operatør (BSL G 2-5).
+- [forskrift-om-medisinske-krav-for-afis-og-hfis-fullmektig-operatør](forskrift-om-medisinske-krav-for-afis-og-hfis-fullmektig-operatør.md) — Forskrift om medisinske krav for AFIS- og HFIS-fullmektig/operatør (BSL G 2-5).
 - [forskrift-om-medisinske-kvalitetsregistre](forskrift-om-medisinske-kvalitetsregistre.md) — Forskrift om medisinske kvalitetsregistre
 - [forskrift-om-medisinske-undersøkelser-bsl-c-1-2](forskrift-om-medisinske-undersøkelser-bsl-c-1-2.md) — Forskrift om medisinske undersøkelser av seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-2).
 - [forskrift-om-medlemskap-i-pensjonsordning-mv](forskrift-om-medlemskap-i-pensjonsordning-mv.md) — Forskrift om medlemskap i pensjonsordning for personer som ikke er pliktig medlem i folketrygden
@@ -3989,6 +3991,7 @@ _5131 current documents_
 - [forskrift-om-utbetaling-til-krigsseilere](forskrift-om-utbetaling-til-krigsseilere.md) — Forskrift om utbetaling til norske sjøfolk som seilte ute i krigsårene.
 - [forskrift-om-utbetalingsmåten-av-ytelser](forskrift-om-utbetalingsmåten-av-ytelser.md) — Forskrift om gjennomføringen av folketrygdloven § 22-18 og bidragsinnkrevingsloven § 34 om utbetalingsmåten for ytelser mv.
 - [forskrift-om-utdanning-og-sertifisering-av-flygeledere](forskrift-om-utdanning-og-sertifisering-av-flygeledere.md) — Forskrift om utdanning og sertifisering av flygeledere
+- [forskrift-om-utdanningsorganisasjoner-for-flygeinformasjonstjenestepersonell](forskrift-om-utdanningsorganisasjoner-for-flygeinformasjonstjenestepersonell.md) — Forskrift om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell
 - [forskrift-om-utdanningsstøtte](forskrift-om-utdanningsstøtte.md) — Forskrift om utdanningsstøtte
 - [forskrift-om-utenlandske-semitrailere](forskrift-om-utenlandske-semitrailere.md) — Forskrifter om trekking av uregistrerte belgiske, britiske og nederlandske semitrailere i internasjonal trafikk i Norge med norsk trekkvogn.
 - [forskrift-om-utenlandsregistrert-motorvogn](forskrift-om-utenlandsregistrert-motorvogn.md) — Forskrift om midlertidig bruk av utenlandsregistrert motorvogn i Norge

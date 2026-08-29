@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260826-1682",
+  "events": [
+    {
+      "commit": "bc83e8f",
+      "date": "2026-08-29",
+      "from_path": null,
+      "lines_added": 50,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-narkotikaforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-narkotikaforskriften"
+}

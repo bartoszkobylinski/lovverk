@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260827-1685",
+  "events": [
+    {
+      "commit": "adea557",
+      "date": "2026-08-29",
+      "from_path": null,
+      "lines_added": 763,
+      "lines_removed": 0,
+      "subject": "add(forskrift): afis-forskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "afis-forskriften"
+}

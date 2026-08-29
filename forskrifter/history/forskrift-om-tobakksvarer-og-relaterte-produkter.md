@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tobakksvarer-og-relaterte-produkter — Change history
 
-_4 events; doc_id `sf-20260327-0526`._
+_5 events; doc_id `sf-20260327-0526`._
+
+## 2026-08-29 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-tobakksvarer-og-relaterte-produkter`
+Commit: `c8f94c7`.
 
 ## 2026-07-02 — Content updated
 Lines: +14 -6.

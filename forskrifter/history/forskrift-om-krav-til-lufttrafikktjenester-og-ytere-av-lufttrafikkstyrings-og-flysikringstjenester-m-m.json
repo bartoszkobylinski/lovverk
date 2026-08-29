@@ -2,6 +2,16 @@
   "doc_id": "sf-20220616-1029",
   "events": [
     {
+      "commit": "a9398e7",
+      "date": "2026-08-29",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c56d924",
       "date": "2026-07-07",
       "from_path": null,

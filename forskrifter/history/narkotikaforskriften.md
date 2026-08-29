@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # narkotikaforskriften — Change history
 
-_6 events; doc_id `sf-20130214-0199`._
+_7 events; doc_id `sf-20130214-0199`._
+
+## 2026-08-29 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): narkotikaforskriften`
+Commit: `b80355a`.
 
 ## 2026-06-01 — Content updated
 Lines: +4 -4.

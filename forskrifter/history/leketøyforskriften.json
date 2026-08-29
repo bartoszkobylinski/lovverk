@@ -2,6 +2,16 @@
   "doc_id": "sf-20131118-1403",
   "events": [
     {
+      "commit": "f042d68",
+      "date": "2026-08-29",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 4,
+      "subject": "update(forskrift): leketøyforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "41069c1",
       "date": "2026-05-12",
       "from_path": null,
