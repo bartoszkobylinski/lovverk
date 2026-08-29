@@ -10,13 +10,13 @@ ministry:
   - "Justis- og beredskapsdepartementet"
   - "Klima- og miljødepartementet"
 date_in_force: "2013-12-01"
-last_change_in_force: "2022-12-05"
+last_change_in_force: "2026-08-29"
 last_updated: "2021-12-20"
-xml_hash: "b8dd753470cb3c879e118acc1897e13668a19468da927a5c60d35c9cb0c67eff"
+xml_hash: "c120b8bca74063a74586d12eab8ce2fe83423ac55217936c61dce463e7e146ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -627,8 +627,9 @@ Leketøy skal være i samsvar med alle relevante tiltak vedtatt i henhold til ka
 | *Stoff* | *Klassifisering* | *Tillatt bruk* |
 | --- | --- | --- |
 | Nikkel | CMR 2 | I rustfritt stål<br>I deler av leketøy som skal lede elektrisk strøm |
+| Kobolt | CMR 1 B | I rustfritt stål, som en urenhet i nikkelet i rustfritt stål<br>I deler av leketøy som skal lede elektrisk strøm<br>I neodymmagneter dersom den ikke kan svelges eller inhaleres |
 
-> Endret ved forskrift [5 aug 2021 nr. 2485](forskrift/2021-08-05-2485). **Endres** ved forskrift [7 mai 2026 nr. 763](forskrift/2026-05-07-763) (i kraft 29 aug 2026).
+> Endret ved forskrifter [5 aug 2021 nr. 2485](forskrift/2021-08-05-2485), [7 mai 2026 nr. 763](forskrift/2026-05-07-763) (i kraft 29 aug 2026).
 
 ### VIII. Tillegg B – Klassifisering av stoffer og stoffblandinger
 
