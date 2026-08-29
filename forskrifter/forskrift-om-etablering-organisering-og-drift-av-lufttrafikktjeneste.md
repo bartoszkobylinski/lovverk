@@ -1,21 +1,21 @@
 ---
 id: "sf-20031111-1345"
-slug: "forskrift-om-lufttrafikktjeneste"
+slug: "forskrift-om-etablering-organisering-og-drift-av-lufttrafikktjeneste"
 type: "forskrift"
 ref_id: "forskrift/2003-11-11-1345"
 title: "Forskrift om etablering, organisering og drift av lufttrafikktjeneste"
-short_title: "Forskrift om lufttrafikktjeneste"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2004-01-01"
 last_change_in_force: "2022-09-01"
 last_updated: "2007-09-12"
-xml_hash: "763b9086c4a5d084e1e5c428886ccb8734d07bdae3bf954e7793d8bfed1b7720"
+xml_hash: "ac8a9e742a29500ab62d4d89f710a6fca42aa66ce4369ed13afbae3e366f8b0e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
