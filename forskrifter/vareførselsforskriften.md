@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2024-07-30"
-xml_hash: "112640f4bac8d36c52c6d5ed6ab5900a9783d341fadbed82fa1d60733eeb9b7a"
+xml_hash: "b30f259359f2d8f67f01582612f9393c3f6449f3c7e926668a1d96361cf58f7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-25T04:48:31.682233+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -181,7 +181,7 @@ Enhver kan, gjennom elektronisk system nevnt i [§ 2-1-1](forskrift/2022-10-27-1
 
 (5) Fører av fartøy som har petroleumsprodukter og mineraler fra norsk del av kontinentalsokkelen om bord er unntatt fra plikten til å gå til sted hvor tollmyndighetene er stasjonert. Vilkårene i fjerde ledd gjelder tilsvarende.
 
-> **Endres** ved forskrift [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> **Endres** ved forskrifter [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)), [26 aug 2026 nr. 1683](forskrift/2026-08-26-1683) (i kraft 15 sep 2026).
 
 ### § 2-2-2. Bestemmelsessted ved ankomst med luftfartøy
 
@@ -426,6 +426,8 @@ Følgende varer er unntatt fra fremleggelsesplikt hvis varen kan innføres uten 
 4. bruker de elektroniske systemer som tollmyndighetene bestemmer.
 
 (4) Søknad om tillatelse sendes tollmyndighetene. Tillatelsen gjelder i fem år dersom det i tillatelsen ikke er fastsatt noe annet.
+
+> **Endres** ved forskrift [26 aug 2026 nr. 1683](forskrift/2026-08-26-1683) (i kraft 15 sep 2026).
 
 ### § 2-4-8. Tilbaketrekking og endring av tillatelse
 
@@ -2225,6 +2227,8 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 (2) Den som ikke er regnskapspliktig etter [regnskapsloven](lov/1998-07-17-56) kan levere endringsmelding i elektronisk skjema i Altinn ( [www.altinn.no](https://www.altinn.no/)). Tilsvarende gjelder for privatpersoner.
 
 (3) Tollmyndighetene kan i særlige tilfeller tillate at endringsmelding leveres på annen måte enn etter første og annet ledd.
+
+> **Endres** ved forskrift [26 aug 2026 nr. 1683](forskrift/2026-08-26-1683) (i kraft 15 sep 2026).
 
 ### § 7-5. Oppbevaring av meldinger, deklarasjoner, dokumenter mv.
 
@@ -5266,4 +5270,4 @@ Opplysningene som skal inngå i et forhåndsvarsel etter [§ 2-1-5](forskrift/20
 | Antall kolli |
 | Bruttovekt |
 
-> Tilføyd ved forskrift [18 jan 2024 nr. 86](forskrift/2024-01-18-86).
+> Tilføyd ved forskrift [18 jan 2024 nr. 86](forskrift/2024-01-18-86). **Endres** ved forskrift [26 aug 2026 nr. 1683](forskrift/2026-08-26-1683) (i kraft 15 sep 2026).
