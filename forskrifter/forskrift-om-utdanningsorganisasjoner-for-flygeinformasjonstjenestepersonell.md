@@ -1,21 +1,21 @@
 ---
 id: "sf-20031025-1302"
-slug: "forskr-om-utdanningsorg-for-flygeinformasjonstjenestepersonell"
+slug: "forskrift-om-utdanningsorganisasjoner-for-flygeinformasjonstjenestepersonell"
 type: "forskrift"
 ref_id: "forskrift/2003-10-25-1302"
 title: "Forskrift om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell"
-short_title: "Forskr. om utdanningsorg. for flygeinformasjonstjenestepersonell"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2004-01-01"
 last_change_in_force: "2013-07-02"
 last_updated: "2004-03-16"
-xml_hash: "998880dbf3b85399716c16ed9a0265c555ff5c73aa8706db27b5cba37846214e"
+xml_hash: "8a705b7c386972fee93b8cf60cc021a15ce606768557526c17ceb3a4a40d5dc2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
