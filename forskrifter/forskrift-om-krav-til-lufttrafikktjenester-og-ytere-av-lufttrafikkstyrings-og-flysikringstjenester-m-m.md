@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-09-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "36b3bb7ed8dafcf9224b0b3938ca603b85520064f669a0625bed5cbb5f6bdfea"
+xml_hash: "32dc9a01ea2c279defcc28e82f88510dfd5065d07300f6860cf486ea647694a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -237,6 +237,10 @@ En enhet for flygeinformasjonstjeneste på flyplassen (AFIS) skal håndtere beve
 I varslingsfasen av en nødssituasjon skal en enhet for flygeinformasjonstjeneste på flyplassen (AFIS) umiddelbart sende melding til redningssentraler i samsvar med ATS.TR.405(a)(2) i kommisjonsforordning [(EU) 2017/373](eu/32017r0373).
 
 > Tilføyd ved forskrift [26 okt 2022 nr. 1812](forskrift/2022-10-26-1812) (i kraft 1 nov 2022).
+
+### § 4-13. Særskilte krav etter AFIS-forskriften
+
+> **Tilføyes** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ## Kapittel 5 – Særskilte nasjonale bestemmelser – ytere av flyværtjenester (MET)
 
