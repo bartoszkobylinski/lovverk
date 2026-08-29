@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2026-03-30"
-last_change_in_force: "2026-06-30"
+last_change_in_force: "2026-08-26"
 last_updated: null
-xml_hash: "de238ee5e7abea04b2c0193196b6a4e9c52d3eb089ea2130229d1fe2665be433"
+xml_hash: "6989809ce1e89b7eb9363cbaebf6055bd3813bea6714121451cf186a8cac9279"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -547,7 +547,9 @@ For produkter som er bragt i omsetning i Norge før 30. mars 2026, skal rapporte
 
 Ved første gangs rapportering av salgsvolum etter [§ 7 tiende ledd](forskrift/2026-03-27-526/§7/ledd/10) skal rapporteringen inkludere informasjon fra og med 1. januar 2015.
 
-Tobakksvarer og urtebaserte røykeprodukter som ikke er merket og utformet i samsvar med kravene i denne forskrift, kan innføres og selges til forbruker frem til 31. desember 2026. I overgangsperioden gjelder bestemmelsene i tidligere [forskrift 6. februar 2003 nr. 141 om innhold i og merking og utforming av tobakksvarer mv](forskrift/2003-02-06-141).
+Tobakksvarer og urtebaserte røykeprodukter som ikke er merket og utformet i samsvar med kravene i denne forskrift, kan innføres og selges til forbruker frem til 11. mars 2027. I overgangsperioden gjelder bestemmelsene i tidligere [forskrift 6. februar 2003 nr. 141 om innhold i og merking og utforming av tobakksvarer mv.](forskrift/2003-02-06-141)
+
+> Endret ved forskrift [26 aug 2026 nr. 1684](forskrift/2026-08-26-1684).
 
 ### § 54. Ikrafttredelse
 
