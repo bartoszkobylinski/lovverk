@@ -1,21 +1,21 @@
 ---
 id: "sf-20020618-0701"
-slug: "forskrift-om-medisinske-krav-bsl-g-2-5"
+slug: "forskrift-om-medisinske-krav-for-afis-og-hfis-fullmektig-operatør"
 type: "forskrift"
 ref_id: "forskrift/2002-06-18-701"
 title: "Forskrift om medisinske krav for AFIS- og HFIS-fullmektig/operatør (BSL G 2-5)."
-short_title: "Forskrift om medisinske krav, BSL G 2-5"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2002-08-01"
 last_change_in_force: null
 last_updated: "2002-07-12"
-xml_hash: "5c3cb90c1706f7319f352a83d02f64009112696347ecaae439f00b27a7b3e731"
+xml_hash: "22d384b0835d1f902911923452cbdc138056fe39c7348daf81c6d4d1214eecae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
