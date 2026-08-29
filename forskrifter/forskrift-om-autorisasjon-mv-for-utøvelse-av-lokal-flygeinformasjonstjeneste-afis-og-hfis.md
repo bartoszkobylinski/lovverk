@@ -1,21 +1,21 @@
 ---
 id: "sf-20081219-1574"
-slug: "forskrift-om-lokal-flygeinformasjonstjeneste"
+slug: "forskrift-om-autorisasjon-mv-for-utøvelse-av-lokal-flygeinformasjonstjeneste-afis-og-hfis"
 type: "forskrift"
 ref_id: "forskrift/2008-12-19-1574"
 title: "Forskrift om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS"
-short_title: "Forskrift om lokal flygeinformasjonstjeneste"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2009-02-01"
 last_change_in_force: "2018-02-28"
 last_updated: null
-xml_hash: "52924564fc129fbd9c871b29c018c5b1b95e7a299d19cd4a625ac6599108e094"
+xml_hash: "fcfa705db9938cecfe409dd11ee31c9fc62e0dc866e769dc4cc63c559d0cb420"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
