@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-01-01"
 last_change_in_force: "2013-07-02"
 last_updated: null
-xml_hash: "eee92ac65cbaebbd422f1175be57b4f919cec8a9b5c36428933bcc9250a8ec78"
+xml_hash: "be523ad71ccb24387b5489fdda6597de6e2201a262da43dfdd47050af4d38fd3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-08-29T10:59:44.879799+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -27,6 +27,8 @@ eu_basis: []
 ### § 1. Formål
 
 Formålet med denne forskriften er å sette krav til kontrollantvirksomheten i norsk sivil luftfart for å sikre kvalitet med hensyn til flysikkerhet, flyfaglig kompetanse, lufttrafikktjenestekompetanse og forvaltningsmessig likebehandling.
+
+> **Endres** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ### § 2. Virkeområde
 
@@ -60,7 +62,7 @@ Forskriften gjelder norske kontrollantautorisasjoner og seniorkontrollantautoris
 
 (4) En autorisasjon kan gjelde i inntil tre år fra autorisasjonsdato.
 
-> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009), [2 juli 2013 nr. 851](forskrift/2013-07-02-851).
+> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009), [2 juli 2013 nr. 851](forskrift/2013-07-02-851). **Endres** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ### § 4a. Krav for autorisering av språkkontrollanter
 
@@ -124,7 +126,7 @@ For språkkontrollanter gjelder [§ 6](forskrift/2003-12-10-1745/§6), [§ 7](fo
 
 (3) Autorisasjonen kan gjelde i inntil tre år.
 
-> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009). [2 juli 2013 nr. 851](forskrift/2013-07-02-851).
+> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009). [2 juli 2013 nr. 851](forskrift/2013-07-02-851). **Endres** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ### § 10. Re-autorisasjon
 
