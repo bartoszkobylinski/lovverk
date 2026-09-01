@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2008-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-01"
 last_updated: "2020-01-20"
-xml_hash: "fbd8ad31fd2165c4c46aa129cd997ababdea0a78af486b939e0b33392e523c5c"
+xml_hash: "c8cd54112660d77ae8db883400184d335574deb8fdaac8b86572b2d80068e223"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,9 @@ Unntak gjelder for pasienten som på egen hånd oppsøker sykehusets akuttfunksj
 
 Pasienten skal etter endt behandling tilbakeføres til henvisende instans med epikrise.
 
-> Endret ved [forskrifter 26 feb 2008 nr. 192](forskrift/2008-02-26-192), [7 jan 2009 nr. 28](forskrift/2009-01-07-28), [18 des 2009 nr. 1728](forskrift/2009-12-18-1728) (i kraft 1 jan 2010), [26 aug 2014 nr. 1114](forskrift/2014-08-26-1114) (i kraft 1 sep 2014), [22 juni 2015 nr. 748](forskrift/2015-06-22-748) (i kraft 1 juli 2015), [20 des 2016 nr. 1848](forskrift/2016-12-20-1848) (i kraft 1 jan 2017), [29 juni 2020 nr. 1450](forskrift/2020-06-29-1450) (i kraft 3 juli 2020), [22 des 2020 nr. 3092](forskrift/2020-12-22-3092) (i kraft 1 jan 2021), [24 okt 2025 nr. 2092](forskrift/2025-10-24-2092). **Endres** ved forskrift [26 juni 2026 nr. 1439](forskrift/2026-06-26-1439) (i kraft 1 sep 2026).
+I en nasjonal prøveordning i perioden 1. september 2026 til 1. september 2029 kan helsesykepleier henvise barn og unge til og med det kalenderåret de fyller 26 år til psykisk helsevern.
+
+> Endret ved forskrifter [26 feb 2008 nr. 192](forskrift/2008-02-26-192), [7 jan 2009 nr. 28](forskrift/2009-01-07-28), [18 des 2009 nr. 1728](forskrift/2009-12-18-1728) (i kraft 1 jan 2010), [26 aug 2014 nr. 1114](forskrift/2014-08-26-1114) (i kraft 1 sep 2014), [22 juni 2015 nr. 748](forskrift/2015-06-22-748) (i kraft 1 juli 2015), [20 des 2016 nr. 1848](forskrift/2016-12-20-1848) (i kraft 1 jan 2017), [29 juni 2020 nr. 1450](forskrift/2020-06-29-1450) (i kraft 3 juli 2020), [22 des 2020 nr. 3092](forskrift/2020-12-22-3092) (i kraft 1 jan 2021), [24 okt 2025 nr. 2092](forskrift/2025-10-24-2092), [26 juni 2026 nr. 1439](forskrift/2026-06-26-1439) (i kraft 1 sep 2026).
 
 ### § 3
 
