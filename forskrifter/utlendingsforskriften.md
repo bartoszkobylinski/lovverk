@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-01"
 last_updated: "2022-10-20"
-xml_hash: "f5c759e568bbbe24454acae38e031c3b573022ee22731f9fe60d225c8bf47f64"
+xml_hash: "4bf4b290a269e9d5b20a26abaaabbef58dcb4960192d2bfae7b637b77823f7ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1340,17 +1340,18 @@ Retten til forlengelse etter femte ledd gjelder ikke dersom ordningen med midler
 
 ### § 7-6. Overføring av utlendinger etter anmodning fra internasjonale organisasjoner mv. etter lovens § 35 (overføringsflyktninger)
 
-Justis- og beredskapsdepartementet gir i samråd med Utenriksdepartementet nærmere retningslinjer for overføring av flyktninger mv., jf. lovens § 35 første ledd.
+Justis- og beredskapsdepartementet gir i samråd med Utenriksdepartementet nærmere retningslinjer for overføring av flyktninger mv., jf. lovens [§ 35 første ledd](lov/2008-05-15-35/§35/ledd/1).
 
-Instanser som kan anmode om at en utlending skal gis innreisetillatelse etter lovens § 35 første ledd, er:
+Instanser som kan anmode om at en utlending skal gis innreisetillatelse etter lovens [§ 35 første ledd](lov/2008-05-15-35/§35/ledd/1), er:
 
 1. FNs høykommissær for flyktninger,
 2. norsk utenriksstasjon,
 3. andre mellomstatlige organisasjoner,
-4. internasjonale straffedomstoler Norge har inngått vitnegjenbosettingsavtale med, og
-5. norske frivillige organisasjoner i samsvar med retningslinjer som gis av departementet.
+4. internasjonale straffedomstoler Norge har inngått vitnegjenbosettingsavtale med,
+5. norske frivillige organisasjoner i samsvar med retningslinjer som gis av departementet, og
+6. hovedorganisasjoner for arbeidstakere (fagforeninger) i samsvar med retningslinjer som gis av departementet.
 
-> Endret ved [forskrifter 18 feb 2010 nr. 188](forskrift/2010-02-18-188), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022).
+> Endret ved [forskrifter 18 feb 2010 nr. 188](forskrift/2010-02-18-188), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022), [26 aug 2026 nr. 1696](forskrift/2026-08-26-1696) (i kraft 28 aug 2026).
 
 ### § 7-7. Vedtaksmyndighet i sak om overføringsflyktninger
 
@@ -1567,9 +1568,11 @@ Som arbeid eller utdanning regnes
 
 Perioder hvor referansepersonen mottar sykepenger, uførepensjon eller alderspensjon etter folketrygdloven regnes som arbeid. Stillingsbrøken fastsettes i henhold til den prosentandel som folketrygdytelsen utgjør av full stilling.
 
+Dersom referansepersonen har hatt en samlet arbeidsinntekt tilsvarende kravet til tidligere inntekt for familieinnvandring, jf. [§ 10-9 første ledd](forskrift/2009-10-15-1286/§10-9/ledd/1), i et kalenderår, skal kravet til heltids arbeid anses oppfylt for det aktuelle året. Tilsvarende gjelder for hver måned referansepersonen har hatt 1/12 av denne inntekten. Ved beregningen av inntektskravet skal det gjennomsnittlige grunnbeløpet det aktuelle kalenderåret legges til grunn.
+
 Det gjøres unntak fra fireårskravet når referansepersonen har fylt 67 år.
 
-> Tilføyd ved [forskrift 8 des 2009 nr. 1484](forskrift/2009-12-08-1484) (i kraft 1 jan 2010), endret ved forskrifter [8 juni 2012 nr. 503](forskrift/2012-06-08-503) (i kraft 23 juni 2012), [18 nov 2020 nr. 2402](forskrift/2020-11-18-2402) (i kraft 1 jan 2021). **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 sep 2026)
+> Tilføyd ved [forskrift 8 des 2009 nr. 1484](forskrift/2009-12-08-1484) (i kraft 1 jan 2010), endret ved forskrifter [8 juni 2012 nr. 503](forskrift/2012-06-08-503) (i kraft 23 juni 2012), [18 nov 2020 nr. 2402](forskrift/2020-11-18-2402) (i kraft 1 jan 2021), [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 sep 2026).
 
 ### § 9-1a. Krav om dokumentasjon for at tidligere ekteskap er oppløst som vilkår for oppholdstillatelse til ny ektefelle eller samboer
 
