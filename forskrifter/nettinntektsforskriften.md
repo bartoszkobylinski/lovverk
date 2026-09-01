@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Energidepartementet"
 date_in_force: "2025-02-01"
-last_change_in_force: "2025-03-31"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "65e90a169f339acc7747876541b18cf20591dc392966ea723d17319181a55e19"
+xml_hash: "fdca6d2a69646540a666f27dd81df420843f0b896c59bca70079fe331fa653c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -85,7 +85,9 @@ Følgende kostnader skal dekkes inn som et tillegg til årlig inntektsramme:
 
 Kostnader ved spesifikke FoU-prosjekter som på forhånd er godkjent av Reguleringsmyndigheten for energi kan dekkes inn som et tillegg til årlig inntektsramme. Tillegget kan ikke overstige 0,3 prosent av nettselskapets kapitalgrunnlag i det aktuelle år.
 
-> **Endres** ved forskrift [19 mai 2026 nr. 1109](forskrift/2026-05-19-1109) (i kraft 1 sep 2026).
+Kompensasjon for kapital bundet i anlegg under utførelse i regional- eller transmisjonsnett i mer enn tre år kan inngå som tillegg til årlig inntektsramme.
+
+> Endret ved forskrift [19 mai 2026 nr. 1109](forskrift/2026-05-19-1109) (i kraft 1 sep 2026).
 
 ### § 2-4. Regulering av inntekter
 
