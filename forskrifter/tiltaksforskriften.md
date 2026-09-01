@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2026-03-29"
+last_change_in_force: "2026-09-01"
 last_updated: "2021-03-01"
-xml_hash: "9f9245746c9d39fff015fee21dd886bb04b48b2bf4b461737d3a7984a31552b5"
+xml_hash: "6ed67814dbada4cff0055b30621edc0690c3e520d939bc62e449b5cbb6f3046e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,13 +86,13 @@ Tiltaksarrangørene skal rapportere til Arbeids- og velferdsetaten om alle forho
 
 ### § 1-7. Forholdet til arbeidsmiljøloven og statsansatteloven
 
-Deltakere i tiltakene midlertidig lønnstilskudd ([kapittel 9](forskrift/2015-12-11-1598/kap9)), varig lønnstilskudd ([kapittel 10](forskrift/2015-12-11-1598/kap10)) og varig tilrettelagt arbeid ([kapittel 14](forskrift/2015-12-11-1598/kap14)) anses som arbeidstakere i henhold til arbeidsmiljøloven og statsansatteloven, og omfattes av reglene som følger av disse. Deltakere på lønnstilskudd er unntatt fra bestemmelsen om fast og midlertidig ansettelse i statsansatteloven i tiltaksperioden, jf. forskrift til [lov om statens ansatte § 3](lov/2017-06-16-67/§3), og omfattes i tiltaksperioden av den generelle bestemmelsen om ansettelse i [arbeidsmiljøloven § 14-9](lov/2005-06-17-62/§14-9). For arbeidstakere med lønnstilskudd er det i § 9-8 og § 10-9 gitt regler om utvidet adgang til midlertidig ansettelse.
+Deltakere i tiltakene midlertidig lønnstilskudd ([kapittel 9](forskrift/2015-12-11-1598/kap9)), varig lønnstilskudd ([kapittel 10](forskrift/2015-12-11-1598/kap10)) og varig tilrettelagt arbeid ([kapittel 14](forskrift/2015-12-11-1598/kap14) og [kapittel 14A](forskrift/2015-12-11-1598/kap14A)) anses som arbeidstakere i henhold til [arbeidsmiljøloven](lov/2005-06-17-62) og [statsansatteloven](lov/2017-06-16-67), og omfattes av reglene som følger av disse. Deltakere på lønnstilskudd er unntatt fra bestemmelsen om fast og midlertidig ansettelse i statsansatteloven i tiltaksperioden, jf. forskrift til [lov om statens ansatte § 3](lov/2017-06-16-67/§3), og omfattes i tiltaksperioden av den generelle bestemmelsen om ansettelse i [arbeidsmiljøloven § 14-9](lov/2005-06-17-62/§14-9). For arbeidstakere med lønnstilskudd er det i § 9-8 og § 10-9 gitt regler om utvidet adgang til midlertidig ansettelse.
 
 Personer som deltar i arbeidsmarkedstiltak uten å være arbeidstakere etter definisjonen i [arbeidsmiljøloven § 1-8](lov/2005-06-17-62/§1-8), er likevel omfattet av bestemmelsene i [arbeidsmiljøloven kapittel 1](lov/2005-06-17-62/kap1) til 13, [kapittel 18](lov/2005-06-17-62/kap18), og [§ 19-1](lov/2005-06-17-62/§19-1).
 
 Personer som deltar i arbeidsmarkedstiltak på skip uten å være omfattet av [skipsarbeidsloven](lov/2013-06-21-102), er likevel omfattet av bestemmelsene i [skipsarbeidsloven kapittel 1](lov/2013-06-21-102/kap1)–[2](lov/2013-06-21-102/kap2), [kapittel 7](lov/2013-06-21-102/kap7)–[10](lov/2013-06-21-102/kap10), [kapittel 12](lov/2013-06-21-102/kap12) og [skipssikkerhetsloven 1](lov/2007-02-16-9/kap1)–[11](lov/2007-02-16-9/kap11).
 
-> Endret ved [forskrifter 29 juni 2017 nr. 1084](forskrift/2017-06-29-1084) (i kraft 1 juli 2017), [2 jan 2025 nr. 1](forskrift/2025-01-02-1) (i kraft 10 jan 2025). **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Endret ved [forskrifter 29 juni 2017 nr. 1084](forskrift/2017-06-29-1084) (i kraft 1 juli 2017), [2 jan 2025 nr. 1](forskrift/2025-01-02-1) (i kraft 10 jan 2025), [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 1-8. Tildeling av arbeidsmarkedstiltak for arbeidstakere
 
@@ -628,13 +628,13 @@ Inkluderingstilskuddet kan gis til virksomheter som tilbyr en arbeidsplass til t
 9. varig lønnstilskudd, jf. [kap. 10](forskrift/2015-12-11-1598/kap10),
 10. arbeidsrettet rehabilitering, jf. [kap. 12](forskrift/2015-12-11-1598/kap12),
 11. arbeidsforberedende trening jf. [kap. 13](forskrift/2015-12-11-1598/kap13) eller
-12. varig tilrettelagt arbeid i ordinært arbeidsliv eller ved hospitering i ordinær virksomhet, jf. [kap. 14](forskrift/2015-12-11-1598/kap14).
+12. varig tilrettelagt arbeid i ordinært arbeidsliv eller ved hospitering i ordinær virksomhet, jf. [kap. 14A](forskrift/2015-12-11-1598/kap14A) og [kap. 14](forskrift/2015-12-11-1598/kap14).
 
 Tilskuddet kan også gis til virksomheter som ansetter personer som har et særskilt tilretteleggingsbehov i den konkrete jobben.
 
 Tilskuddet kan også gis til virksomheter som inngår i forskriftsfestede forsøk i ordinært arbeidsliv i regi av Arbeids- og velferdsetaten.
 
-> Endret ved forskrifter [13 juni 2016 nr. 653](forskrift/2016-06-13-653) (i kraft 1 okt 2016), [5 nov 2017 nr. 1943](forskrift/2017-11-05-1943) (i kraft 1 jan 2018), [23 feb 2021 nr. 556](forskrift/2021-02-23-556), [22 april 2021 nr. 1229](forskrift/2021-04-22-1229), [27 mai 2022 nr. 932](forskrift/2022-05-27-932) (i kraft 1 sep 2022). **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Endret ved forskrifter [13 juni 2016 nr. 653](forskrift/2016-06-13-653) (i kraft 1 okt 2016), [5 nov 2017 nr. 1943](forskrift/2017-11-05-1943) (i kraft 1 jan 2018), [23 feb 2021 nr. 556](forskrift/2021-02-23-556), [22 april 2021 nr. 1229](forskrift/2021-04-22-1229), [27 mai 2022 nr. 932](forskrift/2022-05-27-932) (i kraft 1 sep 2022), [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 11-3. Tilskudd til virksomheten
 
@@ -796,21 +796,21 @@ Tilskudd gis på grunnlag av faktiske utgifter inntil fastsatt maksimalsats, og 
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 653](forskrift/2016-06-13-653) (i kraft 1 okt 2016), opphevet ved [forskrift 12 aug 2019 nr. 1055](forskrift/2019-08-12-1055).
 
-## Kapittel 14. Varig tilrettelagt arbeid
+## Kapittel 14. Varig tilrettelagt arbeid i forhåndsgodkjent virksomhet
 
-> **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Overskrift endret ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14-1. Formål
 
-Varig tilrettelagt arbeid skal gi tiltaksdeltakeren arbeid som bidrar til å utvikle ressurser hos tiltaksdeltakeren gjennom kvalifisering og tilrettelagte arbeidsoppgaver.
+Varig tilrettelagt arbeid i forhåndsgodkjent virksomhet skal gi tiltaksdeltakeren arbeid som bidrar til å utvikle ressurser hos tiltaksdeltakeren gjennom kvalifisering og tilrettelagte arbeidsoppgaver.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Endret ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14-2. Innhold
 
-Varig tilrettelagt arbeid skal tilby personer arbeid i en virksomhet som oppfyller kravene i [§ 14-5](forskrift/2015-12-11-1598/§14-5), med arbeidsoppgaver tilpasset den enkeltes arbeidsevne. Varig tilrettelagt arbeid kan også tilbys som enkeltplasser i ordinære virksomheter.
+Varig tilrettelagt arbeid skal tilby personer arbeid i en forhåndsgodkjent virksomhet som oppfyller kravene i [§ 14-5](forskrift/2015-12-11-1598/§14-5), med arbeidsoppgaver tilpasset den enkeltes arbeidsevne.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Endret ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14-3. Personkrets
 
@@ -839,19 +839,19 @@ Ideelle organisasjoner som har som sitt virksomhetsområde å drive sosiale akti
 
 ### § 14-6. Annen virksomhet
 
-Virksomheten kan være tiltaksarrangør for andre tiltak enn varig tilrettelagt arbeid.
+En forhåndsgodkjent virksomhet kan være tiltaksarrangør for andre tiltak enn varig tilrettelagt arbeid.
 
-Virksomheten kan tilby arbeidsmarkedstjenester til andre enn Arbeids- og velferdsetaten, dersom dette ikke går ut over de tjenestene bedriften er forpliktet til å levere til Arbeids- og velferdsetaten.
+En forhåndsgodkjent virksomhet kan tilby arbeidsmarkedstjenester til andre enn Arbeids- og velferdsetaten, dersom dette ikke går ut over de tjenestene virksomheten er forpliktet til å levere til Arbeids- og velferdsetaten.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Endret ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14-7. Ansettelsesforhold
 
-Tiltaksdeltakeren skal være fast ansatt i virksomheten.
+Tiltaksdeltakeren skal være fast ansatt i den forhåndsgodkjente virksomheten.
 
-Arbeidstakeren mottar uførepensjon, og det er derfor ikke krav til at det skal utbetales lønn. Dette er likevel ikke til hinder for at det i en tariffavtale, arbeidsavtalen eller annen avtale kan avtales at det skal utbetales en bonuslønn.
+Tilpasset lønn kan avtales mellom partene.
 
-> **Endres** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Endret ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14-8. Tilskudd til tiltaksarrangør
 
@@ -905,39 +905,77 @@ Avtalen skal inneholde opplysninger om forhold av vesentlig betydning for hospit
 
 ## Kapittel 14A. Varig tilrettelagt arbeid i ordinær virksomhet
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+> Kapittel tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-1. Formål
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Varig tilrettelagt arbeid i ordinær virksomhet skal gi tiltaksdeltakeren arbeid som bidrar til å utvikle ressurser hos tiltaksdeltakeren gjennom kvalifisering og tilrettelagte arbeidsoppgaver.
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-2. Innhold
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Varig tilrettelagt arbeid i ordinær virksomhet tilbys som enkeltplasser. Tiltaksdeltakeren skal få arbeidsoppgaver og kvalifisering som er individuelt tilpasset den enkeltes behov og forutsetninger og som er egnet til å oppfylle formålet med tiltaket.
+
+Arbeidsgiver og tiltaksdeltaker skal få tilbud om forsterket og varig oppfølging fra virksomhet som nevnt i [§ 14A-6](forskrift/2015-12-11-1598/§14A-6). Virksomheten skal gi oppfølging som er tilpasset arbeidsgiverens og deltakerens behov, og kan bistå med å finne egnede arbeidsplasser og arbeidsoppgaver for tiltaksdeltakeren.
+
+Det skal oppnevnes en fadder på arbeidsplassen og en kontaktperson i Arbeids- og velferdsetaten.
+
+Arbeids- og velferdsdirektoratet kan gi nærmere retningslinjer om tiltakets innhold.
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-3. Personkrets
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Tiltaket er rettet mot personer som mottar eller i nær fremtid ventes å få innvilget uføretrygd etter [folketrygdloven](lov/1997-02-28-19), og som har behov for spesiell tilrettelegging og tett oppfølging. Andre arbeidsmarkedstiltak skal være vurdert og funnet å være uaktuelle.
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-4. Varighet
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Tiltaket er ikke tidsbegrenset. Det skal likevel jevnlig vurderes om det kan være aktuelt med overføring til andre arbeidsmarkedstiltak, utdanning eller formidling til ordinært arbeid.
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-5. Ansettelsesforhold
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Tiltaksdeltakeren skal være fast ansatt i den ordinære virksomheten.
+
+Tilpasset lønn kan avtales mellom partene.
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-6. Krav til tilbydere av forsterket oppfølging
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Forhåndsgodkjent virksomhet kan gi tilbud om oppfølging, jf. [§ 14-5](lov/1997-02-28-19/§14-5). Arbeids- og velferdsdirektoratet kan gi utfyllende retningslinjer om ytterligere krav til de forhåndsgodkjente virksomhetene.
+
+Arbeids- og velferdsetaten kan gi oppfølging i egenregi, jf. [forskrift av 20. juni 2023 nr. 1073 om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi](forskrift/2023-06-20-1073).
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-7. Tilskudd til virksomhet som tilbyr oppfølging
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Forhåndsgodkjent virksomhet som tilbyr oppfølging etter [§ 14A-6 første ledd](forskrift/2015-12-11-1598/§14A-6), mottar statlig tilskudd. Tilskuddet utgjør en fast, månedlig sats per godkjent deltaker. Satsen fastsettes av departementet.
+
+Arbeidsgiver kan motta inkluderingstilskudd etter [kapittel 11](forskrift/2015-12-11-1598/kap11).
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ### § 14A-8. Krav om skriftlig avtale om den forsterkede oppfølgingen
 
-> **Tilføyes** ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
+Det skal inngås en skriftlig avtale mellom tiltaksdeltakeren, arbeidsgiveren og den forhåndsgodkjente virksomheten. Avtalen skal inneholde opplysninger om forhold av vesentlig betydning for oppfølgingen, blant annet:
+
+1. navn på fadder og kontaktperson
+2. ansettelsesforhold og lønn
+3. plan for oppfølging av tiltaksdeltaker og arbeidsgiver
+4. plan for ev. annen bistand til tiltaksdeltaker og arbeidsgiver
+5. plan for kvalifisering av tiltaksdeltakeren.
+
+Tilsvarende avtale skal inngås mellom arbeidsgiver, tiltaksdeltaker og jobbspesialisten når oppfølgingen gis i Arbeids- og velferdsetatens egenregi.
+
+Avtalen skal revideres jevnlig, jf. [§ 14A-4](forskrift/2015-12-11-1598/§14A-4). Arbeids- og velferdsetaten kan gi nærmere retningslinjer om krav til innhold i avtalen.
+
+> Tilføyd ved forskrift [18 des 2025 nr. 2918](forskrift/2025-12-18-2918) (i kraft 1 sep 2026).
 
 ## Kapittel 15. Ikrafttredelse og overgangsregler
 
