@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Stortinget"
 date_in_force: null
-last_change_in_force: "2026-06-23"
+last_change_in_force: "2026-09-01"
 last_updated: "2026-03-10"
-xml_hash: "a6c8d285e96dbc9bfbc24dae49f495503e53bdee5dcb58b8f2a09f3416e9ec2d"
+xml_hash: "58b3a017a60c37c270806cf577f235d15f87eb56f934d5c88029149f5095b4c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,13 +33,9 @@ Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgift
    Mineralolje til
 
    - ikke-kvotepliktig innenriks luftfart: kr 4,18 per liter
-   - fiske og fangst i fjerne farvann: kr 0 per liter.
-   - fiske og fangst i nære og fjerne farvann: kr 0 per liter.
-   - innenriks kvotepliktig sjøfart: kr 0,90 per liter.
-   - fiske og fangst i nære farvann: kr 0 per liter.
-   - autodiesel: kr 3,09 per liter.
-   - anleggsdiesel: kr 1,92 per liter.
-   - innenriks sjøfart: kr 3,17 per liter.
+   - fiske og fangst i fjerne farvann: kr 1,11 per liter
+   - fiske og fangst i nære og fjerne farvann: kr 2,76 per liter.
+   - innenriks kvotepliktig sjøfart: kr 2,15 per liter.
 2. Bensin: kr 3,80 per liter.
 3. Naturgass (generell sats): kr 3,26 per Sm3.
 
@@ -64,7 +60,7 @@ For mineralske produkter som er fritatt for avgift etter § 2 bokstav g, gis det
 
 Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften.
 
-> Endret ved vedtak [18 des 2025 nr. 2763](forskrift/2025-12-18-2763), se [romertall II](forskrift/2025-12-18-2763/kapII) og [III](forskrift/2025-12-18-2763/kapIII) (i kraft 1 jan 2026 iflg. vedtak [27 feb 2026 nr. 300](forskrift/2026-02-27-300), ikrafttredelsen endret ved vedtak [23 juni 2026 nr. 1236](forskrift/2026-06-23-1236)), [26 mars 2026 nr. 479](forskrift/2026-03-26-479) (i kraft 1 april 2026), [26 mars 2026 nr. 480](forskrift/2026-03-26-480) (i kraft 1 april 2026), [26 mars 2026 nr. 481](forskrift/2026-03-26-481) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 482](forskrift/2026-03-26-482) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 483](forskrift/2026-03-26-483) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 484](forskrift/2026-03-26-484) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 485](forskrift/2026-03-26-485) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)). **Endres** ved vedtak [26 mars 2026 nr. 479](forskrift/2026-03-26-479) (i kraft 1 september 2026, forrige endring reverseres). **Endres** ved vedtak [26 mars 2026 nr. 480](forskrift/2026-03-26-480) (i kraft 1 september 2026, forrige endring reverseres). **Endres** ved vedtak [26 mars 2026 nr. 481](forskrift/2026-03-26-481) (i kraft 1 september 2026, forrige endring reverseres). **Endres** ved vedtak [26 mars 2026 nr. 482](forskrift/2026-03-26-482) (i kraft 1 september 2026, forrige endring reverseres). **Endres** ved vedtak [26 mars 2026 nr. 483](forskrift/2026-03-26-483) (i kraft 1 september 2026, forrige endring reverseres). **Endres** ved vedtak [26 mars 2026 nr. 484](forskrift/2026-03-26-484) (i kraft 1 september 2026, forrige endring reverseres). **Endres** ved vedtak [26 mars 2026 nr. 485](forskrift/2026-03-26-485) (i kraft 1 september 2026, forrige endring reverseres).
+> Endret ved vedtak [18 des 2025 nr. 2763](forskrift/2025-12-18-2763), se [romertall II](forskrift/2025-12-18-2763/kapII) og [III](forskrift/2025-12-18-2763/kapIII) (i kraft 1 jan 2026 iflg. vedtak [27 feb 2026 nr. 300](forskrift/2026-02-27-300), ikrafttredelsen endret ved vedtak [23 juni 2026 nr. 1236](forskrift/2026-06-23-1236)), [26 mars 2026 nr. 479](forskrift/2026-03-26-479) (i kraft 1 april 2026), [26 mars 2026 nr. 480](forskrift/2026-03-26-480) (i kraft 1 april 2026), [26 mars 2026 nr. 481](forskrift/2026-03-26-481) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 482](forskrift/2026-03-26-482) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 483](forskrift/2026-03-26-483) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 484](forskrift/2026-03-26-484) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 485](forskrift/2026-03-26-485) (i kraft 1 mai 2026 iflg. vedtak [30 mars 2026 nr. 525](forskrift/2026-03-30-525)), [26 mars 2026 nr. 479](forskrift/2026-03-26-479) (i kraft 1 september 2026, forrige endring reversert), [26 mars 2026 nr. 480](forskrift/2026-03-26-480) (i kraft 1 september 2026, forrige endring reversert), [26 mars 2026 nr. 481](forskrift/2026-03-26-481) (i kraft 1 september 2026, forrige endring reversert), [26 mars 2026 nr. 482](forskrift/2026-03-26-482) (i kraft 1 september 2026, forrige endring reversert), [26 mars 2026 nr. 483](forskrift/2026-03-26-483) (i kraft 1 september 2026, forrige endring reversert), [26 mars 2026 nr. 484](forskrift/2026-03-26-484) (i kraft 1 september 2026, forrige endring reversert), [26 mars 2026 nr. 485](forskrift/2026-03-26-485) (i kraft 1 september 2026, forrige endring reversert).
 
 ### § 2
 
