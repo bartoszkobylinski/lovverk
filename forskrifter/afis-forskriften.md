@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-09-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "d6b97e12a3a7f1e4a0e740e443c55cfa62d83b07cf6de574094a3ea4f8229791"
+xml_hash: "50554fc50c91aae8dfaaf9ccf20889cf4e193720336cb39acbbc83868adb39d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-29T10:59:44.879799+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -732,19 +732,9 @@ Krav i forskriften som gjelder treningsorganisasjoner, HF-personell og annet per
 
 ### § 88. Endringer i andre forskrifter
 
-I [forskrift 10. desember 2003 nr. 1745 om kontrollantvirksomheten i norsk sivil luftfart (kontrollantforskriften)](forskrift/2003-12-10-1745) BSL C 1-5 gjøres følgende endringer:
+I [forskrift 10. desember 2003 nr. 1745 om kontrollantvirksomheten i norsk sivil luftfart (kontrollantforskriften)](forskrift/2003-12-10-1745) BSL C 1-5 gjøres følgende endringer: – – –
 
-[§ 1](forskrift/2003-12-10-1745/§1) skal lyde:
-
-Formålet med denne forskriften er å sette krav til kontrollantvirksomheten i norsk sivil luftfart for å sikre kvalitet med hensyn til flysikkerhet, flyfaglig kompetanse og forvaltningsmessig likebehandling.
-
-[§ 4](forskrift/2003-12-10-1745/§4) første ledd bokstav c fjernes.
-
-[§ 9](forskrift/2003-12-10-1745/§9) andre ledd bokstav c fjernes.
-
-I [forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.](forskrift/2022-06-16-1029) (BSL G 1-3) gjøres følgende endring:
-
-Ny § 4-13 skal lyde:
+I [forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.](forskrift/2022-06-16-1029) (BSL G 1-3) gjøres følgende endring: – – –
 
 ### § 89. Gyldigheten av tidligere autorisasjoner
 
