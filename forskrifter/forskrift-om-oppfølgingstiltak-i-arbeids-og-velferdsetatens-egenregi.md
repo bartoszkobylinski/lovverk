@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2023-06-20"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "6b5780139cd25e3f16b3fa2daf0d184f27da011aef3242f42328591dcf42e378"
+xml_hash: "9efadc2277c94fa3fb8c55e3e8213a140593c1ff9f58ba31c53be895074f0474"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-20T04:46:16.259937+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,37 +86,42 @@ Tiltaket kan ha en varighet på inntil ett år. For personer med nedsatt arbeids
 
 ### § 3-1. Personkrets
 
-Individuell jobbstøtte kan tilbys personer med moderate til alvorlige psykiske lidelser og/eller rusproblemer som får behandling i helse- og omsorgstjenesten og som har behov for en mer omfattende formidlings- og oppfølgingsbistand enn den som tilbys etter [arbeids- og velferdsforvaltningsloven § 4](lov/2006-06-16-20/§4) tredje ledd. Det er en forutsetning at personen har fylt 16 år.
+Individuell jobbstøtte kan tilbys personer med moderate til alvorlige psykiske lidelser og/eller rusproblemer som får behandling i helse- og omsorgstjenesten, og som har behov for en mer omfattende formidlings- og oppfølgingsbistand enn den som tilbys etter [arbeids- og velferdsforvaltningsloven § 4 tredje ledd](lov/2006-06-16-20/§4/ledd/3). Tiltaket kan også tilbys personer under 30 år (IPS ung) som har sammensatte psykiske problemer og/eller rusutfordringer.
 
 Etter nærmere retningslinjer fra Arbeids- og velferdsdirektoratet kan tiltaket også tilbys andre personer som får oppfølging av helse- og omsorgstjenesten eller som har sammensatte utfordringer og behov for en mer omfattende formidlings- og oppfølgingsbistand.
 
-> **Endres** ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
+Deltakelse i individuell jobbstøtte forutsetter at personen samtykker til å delta, og ønsker å komme i ordinært arbeid og/eller opplæring eller utdanning.
+
+Tiltaket kan gis fra det året personen fyller 16 år.
+
+> Endret ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
 
 ### § 3-2. Innhold
 
-Deltakere i individuell jobbstøtte kan få tilbud om
+Deltakere i individuell jobbstøtte skal få regelmessig og tilpasset oppfølging av en jobbspesialist. Jobbspesialisten kan blant annet gi:
 
-1. regelmessig og tilpasset oppfølging av en jobbspesialist
-2. bistand til aktiv jobbsøking tidlig i oppfølgingen
-3. støtte fra jobbspesialisten til å mestre arbeidsrelaterte forhold i samarbeid med behandlingsteam i helse- og omsorgstjenesten
-4. tilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver og behandlingsteam
-5. nødvendig hjelp til å samhandle med andre relevante instanser, blant annet om økonomiske, sosiale og utdanningsrelaterte forhold.
+1. bistand til aktiv jobbsøking tidlig i oppfølgingen,
+2. støtte til å mestre arbeidsrelaterte forhold i samarbeid med behandlingsteam i helse- og omsorgstjenesten,
+3. tilrettelegging på arbeidsplassen i samarbeid med arbeidsgiver og behandlingsteam,
+4. nødvendig hjelp til å samhandle med andre relevante instanser, blant annet om økonomiske, sosiale og utdanningsrelaterte forhold.
 
-Individuell jobbstøtte inngår som en integrert del av behandlings- og rehabiliteringstilbudet i helse- og omsorgstjenesten. Det er en forutsetning at personen samtykker til å delta i individuell jobbstøtte.
+Individuell jobbstøtte inngår som en integrert del av behandlings- og rehabiliteringstilbudet i helse- og omsorgstjenesten.
 
 Jobbspesialisten følger deltakeren fra arbeidssøking til formidling, og underveis i arbeidsforholdet. Deltakeren kan også få oppfølging under opplæring og utdanning.
 
 Jobbspesialisten kan også tilby nødvendig oppfølging til arbeidsgivere som tilsetter deltakere gjennom individuell jobbstøtte. Det er en forutsetning at behovet for bistand går utover arbeidsgivers tilretteleggingsplikt etter [arbeidsmiljøloven § 4-2](lov/2005-06-17-62/§4-2).
 
-> **Endres** ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
+For deltakere i IPS ung som har som mål å fullføre opplæring eller utdanning, følger jobbspesialisten deltakeren fra planlegging til oppstart, og underveis i opplærings- eller utdanningsforløpet. Jobbspesialisten kan også bistå med å samhandle med aktuelle opplærings- og utdanningsinstitusjoner.
+
+> Endret ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
 
 ### § 3-3. Planlegging, gjennomføring og brukermedvirkning
 
-Det utarbeides en plan for oppfølgingen i samarbeid med deltakeren og helse- og omsorgstjenesten. Planen skal angi formålet og innholdet for tiltaket og oppfølgingsaktiviteter. Planen skal holdes oppdatert.
+Det utarbeides en plan for oppfølgingen i samarbeid med deltakeren, helse- og omsorgstjenesten og jobbspesialisten. Planen skal angi formålet og innholdet for tiltaket og oppfølgingsaktiviteter. Planen skal holdes oppdatert.
 
 Arbeids- og velferdsetaten skal sørge for at deltakeren får medvirket under planleggingen og gjennomføringen av aktiviteter gjennom hele oppfølgingsperioden.
 
-> **Endres** ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
+> Endret ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
 
 ### § 3-4. Samarbeid med helse- og omsorgstjenesten mv.
 
@@ -130,7 +135,9 @@ Varigheten på individuell jobbstøtte tilpasses deltakerens individuelle behov 
 
 Tiltaket kan ha en varighet på inntil ett år. For personer med nedsatt arbeidsevne kan tiltaket ha en varighet på inntil tre år.
 
-> **Endres** ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
+For deltakere i IPS ung som er i opplæring eller utdanning, kan tiltaket forlenges med inntil ett år. Samlet varighet kan være inntil to år, eller inntil fire år for personer med nedsatt arbeidsevne.
+
+> Endret ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
 
 ### § 3-6. Forsøk med individuell jobbstøtte til unge under 30 år
 
