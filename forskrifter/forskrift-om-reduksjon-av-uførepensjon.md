@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2015-01-01"
-last_change_in_force: "2026-03-27"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "984f583839abeebc49cc85a8c2125d857f4faf32ab7ce44c6bde36fad16dc400"
+xml_hash: "1ef33d88ba8ff061b7e24b6f04763f9628ce08195952f074db8c7205125cb480"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,9 +53,9 @@ Den enkelte må selv opplyse om og dokumentere slike inntekter.
 
 ## § 3a. Inntektsgrense for personer som mottar pensjon og er i varig tilrettelagt arbeid (VTA)
 
-For personer som mottar pensjon og er i varig tilrettelagt arbeid (VTA) etter forskrift [11. desember 2015 nr. 1598](forskrift/2015-12-11-1598) om arbeidsmarkedstiltak [kapittel 14](forskrift/2015-12-11-1598/kap14), skal inntektsgrensen tillegges 100 prosent av grunnbeløpet per kalenderår.
+For personer som mottar pensjon og er i varig tilrettelagt arbeid (VTA) etter [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 14](forskrift/2015-12-11-1598/kap14) og [kapittel 14A](forskrift/2015-12-11-1598/kap14a), skal inntektsgrensen tillegges 100 prosent av grunnbeløpet per kalenderår.
 
-> Tilføyd ved [forskrift 19 juni 2015 nr. 711](forskrift/2015-06-19-711) (i kraft 1 jan 2015), endret ved [forskrift 21 des 2015 nr. 1828](forskrift/2015-12-21-1828) (i kraft 1 jan 2016). **Endres** ved forskrift [18 des 2025 nr. 2692](forskrift/2025-12-18-2692) (i kraft 1 sep 2026).
+> Tilføyd ved forskrift [19 juni 2015 nr. 711](forskrift/2015-06-19-711) (i kraft 1 jan 2015), endret ved forskrifter [21 des 2015 nr. 1828](forskrift/2015-12-21-1828) (i kraft 1 jan 2016), [18 des 2025 nr. 2692](forskrift/2025-12-18-2692) (i kraft 1 sep 2026).
 
 ## § 3b. Endring av inntektsgrensen og samlet inntekt før uførhet
 
