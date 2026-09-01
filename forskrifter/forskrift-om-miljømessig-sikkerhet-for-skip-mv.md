@@ -10,13 +10,13 @@ ministry:
   - "Klima- og miljødepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2012-07-01"
-last_change_in_force: "2026-03-01"
+last_change_in_force: "2026-09-01"
 last_updated: "2023-11-01"
-xml_hash: "24c5d0770711bb22f228d0efc8f1479b75f76113ea5d4e8fe98be7fe2c61149b"
+xml_hash: "665973f989ab65c9f145693128a6d56adf387bd5d4f726cfcbe084431044d435"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -218,11 +218,11 @@ Kravet om avfallsdagbok i MARPOL regel V/10.3 gjelder ikke når den flyttbare in
 
 ## § 12. Hindring av luftforurensing fra skip og flyttbare innretninger – MARPOL vedlegg VI
 
-MARPOL konsolidert utgave 2022 [vedlegg VI](forskrift/2012-05-30-488/vedleggVI) om hindring av luftforurensning samt NOx Technical Code som endret ved MEPC.177(58), MEPC.217(63), MEPC.251(66), MEPC.272(69), MEPC.317(74) MEPC.361(79), MEPC.362(79), MEPC 385(81) og MEPC. 392(82) gjelder som forskrift. Med «skip» menes i MARPOL også flyttbare innretninger.
+MARPOL konsolidert utgave 2022 [vedlegg VI](forskrift/2012-05-30-488/vedleggVI) om hindring av luftforurensning samt NOx Technical Code som endret ved MEPC.177(58), MEPC.217(63), MEPC.251(66), MEPC.272(69), MEPC.317(74) MEPC.361(79), MEPC.362(79), MEPC.385(81), MEPC.392(82) og MEPC.398(83) gjelder som forskrift. Med «skip» menes i MARPOL også flyttbare innretninger.
 
 Skip i innenriksfart med bruttotonnasje 400 eller mer skal ha om bord en energieffektivtetsplan i henhold til retningslinjene for utvikling av Ship Energy Efficiency Management Plan (SEEMP) del I jf. MEPC.346(78).
 
-> Endret ved [forskrifter 18 des 2012 nr. 1295](forskrift/2012-12-18-1295) (i kraft 1 jan 2013), [31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [5 juni 2015 nr. 616](forskrift/2015-06-05-616) (i kraft 1 juli 2015), [31 aug 2015 nr. 1038](forskrift/2015-08-31-1038) (i kraft 1 sep 2015), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), [1 sep 2017 nr. 1333](forskrift/2017-09-01-1333), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [5 juni 2018 nr. 842](forskrift/2018-06-05-842), [29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [24 sep 2020 nr. 1957](forskrift/2020-09-24-1957) (i kraft 1 okt 2020), [4 mars 2022 nr. 351](forskrift/2022-03-04-351) (i kraft 1 april 2022), [31 okt 2022 nr. 1912](forskrift/2022-10-31-1912) (i kraft 1 nov 2022), [20 okt 2023 nr. 1680](forskrift/2023-10-20-1680) (i kraft 1 nov 2023), [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [14 juli 2025 nr. 1532](forskrift/2025-07-14-1532) (i kraft 1 aug 2025), [26 feb 2026 nr. 307](forskrift/2026-02-26-307) (i kraft 1 mars 2026).
+> Endret ved [forskrifter 18 des 2012 nr. 1295](forskrift/2012-12-18-1295) (i kraft 1 jan 2013), [31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [5 juni 2015 nr. 616](forskrift/2015-06-05-616) (i kraft 1 juli 2015), [31 aug 2015 nr. 1038](forskrift/2015-08-31-1038) (i kraft 1 sep 2015), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), [1 sep 2017 nr. 1333](forskrift/2017-09-01-1333), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [5 juni 2018 nr. 842](forskrift/2018-06-05-842), [29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [24 sep 2020 nr. 1957](forskrift/2020-09-24-1957) (i kraft 1 okt 2020), [4 mars 2022 nr. 351](forskrift/2022-03-04-351) (i kraft 1 april 2022), [31 okt 2022 nr. 1912](forskrift/2022-10-31-1912) (i kraft 1 nov 2022), [20 okt 2023 nr. 1680](forskrift/2023-10-20-1680) (i kraft 1 nov 2023), [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [14 juli 2025 nr. 1532](forskrift/2025-07-14-1532) (i kraft 1 aug 2025), [26 feb 2026 nr. 307](forskrift/2026-02-26-307) (i kraft 1 mars 2026), [13 aug 2026 nr. 1689](forskrift/2026-08-13-1689) (i kraft 1 sep 2026).
 
 ## § 12a. Overvåking, rapportering og verifikasjon av klimagassutslipp fra skip
 
