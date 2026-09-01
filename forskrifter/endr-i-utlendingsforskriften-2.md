@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "a80379fa4b59d288b5c6fc91c4fd7637c3874d5ed4d9626d1faf7fb7c5acd2c7"
+xml_hash: "4bb64e2867fa99388bde50c08abd8c772d5dfa195533307e81e1bdd700c0b111"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,12 +33,6 @@ I [forskrift 15. oktober 2009 nr. 1286 om utlendingers adgang til riket og deres
 En utlending som har plikt til å melde fra til utlendingsmyndighetene etter lovens [§ 19 annet ledd](lov/2008-05-15-35/§19/ledd/2) om skifte av bopel, skal gi melding til politiet i det tidligere eller det nye oppholdsdistriktet senest innen en uke etter flytting. Slik melding kan også gis til andre utlendingsmyndigheter eller til mottaksansatte, for registrering i utlendingsregisteret.
 
 – – –
-
-[§ 9-1](forskrift/2009-10-15-1286/§9-1) nytt fjerde ledd skal lyde:
-
-Dersom referansepersonen har hatt en samlet arbeidsinntekt tilsvarende kravet til tidligere inntekt for familieinnvandring, jf. [§ 10-9 første ledd](forskrift/2009-10-15-1286/§10-9/ledd/1), i et kalenderår, skal kravet til heltids arbeid anses oppfylt for det aktuelle året. Tilsvarende gjelder for hver måned referansepersonen har hatt 1/12 av denne inntekten. Ved beregningen av inntektskravet skal det gjennomsnittlige grunnbeløpet det aktuelle kalenderåret legges til grunn.
-
-Gjeldende fjerde ledd blir nytt femte ledd.
 
 [§ 11-8 første ledd](forskrift/2009-10-15-1286/§11-8/ledd/1) oppheves. Gjeldende andre, tredje og fjerde ledd blir nye første, andre og tredje ledd.
 
