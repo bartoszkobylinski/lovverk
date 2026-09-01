@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2019-04-01"
-last_change_in_force: "2023-07-25"
+last_change_in_force: "2026-09-01"
 last_updated: "2021-06-02"
-xml_hash: "052343dbd7da79a1dd351587f2db5291fecae1b95a10191c33442a37b98e872c"
+xml_hash: "6049f99221311a5a52b854a75235de696918cbd31f390245e854d5e28e71f817"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-25T04:48:31.682233+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,19 +30,19 @@ Forskriften gjelder for banker, kredittinstitusjoner, e-pengeforetak, betalingsf
 
 Betalingstjenestetilbydere skal gjennomføre risiko- og sårbarhetsvurderinger før en ny betalingstjeneste lanseres og ved hendelser eller endringer av betydning for sikkerhetsnivået.
 
-Betalingstjenestetilbydere skal ha systemer og kontrollmekanismer for operasjonell og sikkerhetsmessig risiko knyttet til ytelsen av betalingstjenester, samt effektive fremgangsmåter for å håndtere hendelser, inkludert alvorlige operasjonelle hendelser og sikkerhetshendelser. Systemene skal sikre etterlevelse av regelverk, avtaler og interne rutiner. Datatrafikk i elektroniske betalingstjenester skal overvåkes for å sikre tilstrekkelig sikkerhetsnivå og kunne avdekke og hindre uautorisert bruk av tjenesten.
+Betalingstjenestetilbydere skal ha systemer og kontrollmekanismer for operasjonell og sikkerhetsmessig risiko knyttet til ytelsen av betalingstjenester. Systemene skal sikre etterlevelse av regelverk, avtaler og interne rutiner. Elektroniske betalingstjenester skal overvåkes for å kunne avdekke og hindre uautorisert bruk av tjenesten.
 
 Betalingstjenestetilbydere skal minst årlig gi Finanstilsynet en samlet vurdering av operasjonell risiko og sikkerhetsrisiko knyttet til tilbyderens betalingstjenester, samt om tilbyderens tiltak er tilstrekkelige.
 
 Betalingstjenestetilbydere skal minst årlig rapportere statistikk om svindel knyttet til betalingstjenestene til Finanstilsynet, på den måten Finanstilsynet angir.
 
-> **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
+> Endret ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
 
 ## § 3. Underretning om hendelser
 
-Dersom hendelse som angitt i [forskrift 21. mai 2003 nr. 630](forskrift/2003-05-21-630) om bruk av informasjons- og kommunikasjonsteknologi (IKT) [§ 9](forskrift/2003-05-21-630/§9) tredje ledd påvirker eller kan påvirke betalingstjenestebrukernes økonomiske interesser, skal betalingstjenestetilbyderen uten ugrunnet opphold underrette brukerne om hendelsen. Meldingen skal omtale tiltak brukeren kan iverksette.
+Dersom en hendelse som angitt i forordning [(EU) 2022/2554](eu/32022r2554) om digital operasjonell motstandsdyktighet i finanssektoren artikkel 23 påvirker eller kan påvirke betalingstjenestebrukernes økonomiske interesser, skal betalingstjenestetilbyderen uten ugrunnet opphold underrette brukerne om hendelsen. Meldingen skal omtale tiltak brukeren kan iverksette.
 
-> **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
+> Endret ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
 
 ## § 4. Krav til sikker ytelse av betalingstjenester
 
