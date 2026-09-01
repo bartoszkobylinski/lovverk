@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2018-10-01"
-last_change_in_force: null
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "db77a80edc0fe9ab4204c91d952d308c1ba3d4408d41e9593e3c83cce8d225bd"
+xml_hash: "710fd374fbb4c6cec8f2ad39805bf99c057b8277004089f1696d48021761f98b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-27T15:08:51.820746+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,9 +62,7 @@ Ankedomstolen skal så tidlig som mulig under saksforberedelsen ta stilling til 
 
 Avspillingen bør begrenses til den del av bevisbedømmelsen som bestrides. Skal opptak suppleres med direkte forklaringer, spilles opptaket som hovedregel av før forklaringene avgis.
 
-Bestemmelsen gjelder bare for de domstoler Domstoladministrasjonen bestemmer.
-
-> **Endres** ved forskrift [21 aug 2026 nr. 1680](forskrift/2026-08-21-1680) (i kraft 1 sep 2026).
+> Endret ved forskrift [21 aug 2026 nr. 1680](forskrift/2026-08-21-1680) (i kraft 1 sep 2026).
 
 ## § 7. Ikrafttredelse
 
