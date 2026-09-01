@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2018-08-01"
-last_change_in_force: "2026-06-15"
+last_change_in_force: "2026-09-01"
 last_updated: "2021-06-29"
-xml_hash: "380953677e7bcf6358cca77086cbdc724744391ab9b43ab7cf4f0162a2d25196"
+xml_hash: "77df4b214cef77f0567c51f139bc2280fd1ec5e5555845e545846e244c6fb774"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -233,7 +233,7 @@ Opptakskravene i dette kapittel er fastsatt med hjemmel i [universitets- og høy
 
 (2) For opptak til Master of Management-program gjelder følgende regler i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4):
 
-1. Det kreves fullført bachelorgrad, tilsvarende 180 studiepoeng fra høyskole, universitet eller tilsvarende. Søkeren må være minst 25 år og det settes i tillegg krav til minimum fire års arbeidserfaring. For søkere som har en fullført mastergrad fra før, kreves det tre års arbeidserfaring.
+1. Det kreves fullført bachelorgrad, tilsvarende 180 studiepoeng fra høyskole, universitet eller tilsvarende. Søkere må være minst 25 år i opptaksåret og kunne dokumentere minimum to års relevant arbeidserfaring i fulltidsstilling. Relevant arbeidserfaring er lønnet arbeid etter fullført bachelorgrad. Arbeidserfaring i deltidsstilling medregnes dersom det samlede omfanget tilsvarer to års fulltid. For søkere med erfaringsbasert bachelorgrad som søknadsgrunnlag, som Bachelor i ledelse fra Handelshøyskolen BI, kan arbeidserfaring oppnådd samtidig med bachelorstudiene medregnes.
 2. Søkere kan også bli tatt opp på grunnlag av realkompetanse som i noen grad kompenserer for mangelfull formell bachelorgrad. Kriteriene for vurdering av realkompetanse er nærmere beskrevet på [www.bi.no](https://www.bi.no/).
 3. Enkelte Master of Management-programmer har visse tilleggskrav som søkerne må oppfylle. Hvilke krav som gjelder for hvilke Master of Management-programmer, er gjengitt på [www.bi.no](https://www.bi.no).
 
@@ -245,7 +245,7 @@ Opptakskravene i dette kapittel er fastsatt med hjemmel i [universitets- og høy
 4. Søkere plikter å vedlegge to anbefalingsbrev, hvorav ett skal være fra nåværende arbeidsgiver, om mulig.
 5. Alle kvalifiserte søkere vil bli intervjuet som en del av opptaksprosessen.
 
-> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025). [15 juni 2026 nr. 1110](forskrift/2026-06-15-1110). **Endres** ved [forskrift 28 april 2026 nr. 737](forskrift/2026-04-28-737) (i kraft 1 sep 2026).
+> Endret ved forskrifter [18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025). [15 juni 2026 nr. 1110](forskrift/2026-06-15-1110), [28 april 2026 nr. 737](forskrift/2026-04-28-737) (i kraft 1 sep 2026).
 
 ### § 2-7. Opptakskrav til ph.d.-studier
 
