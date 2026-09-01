@@ -10,13 +10,13 @@ ministry:
   - "Energidepartementet"
   - "Klima- og miljødepartementet"
 date_in_force: "2007-01-01"
-last_change_in_force: "2024-07-08"
+last_change_in_force: "2026-09-01"
 last_updated: "2021-11-01"
-xml_hash: "d7292c9d2448bc3a20a5d08ad641972051fb8b2dd03ce86da544968e06592011"
+xml_hash: "5e4b1b53bd38ef20adefac85389407dd881605eddea729e26b577593599a8b3d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-21T04:48:37.993337+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,8 @@ En forekomst av overflatevann kan utpekes som kunstig eller sterkt modifisert de
 3. aktiviteter som krever magasinering, overføring og fraføring av vann, for eksempel drikkevannsforsyning, elektrisitetsproduksjon eller vanning,
 4. flomvern, drenering, eller
 5. annen tilsvarende viktig bærekraftig virksomhet, og
-6. samfunnsnyttige formålene den kunstige eller sterkt modifiserte vannforekomsten tjener, på grunn av manglende teknisk gjennomførbarhet eller uforholdsmessig store kostnader, ikke med rimelighet kan oppnås med andre midler som miljømessig er vesentlig bedre.
+
+de samfunnsnyttige formålene den kunstige eller sterkt modifiserte vannforekomsten tjener, på grunn av manglende teknisk gjennomførbarhet eller uforholdsmessig store kostnader, ikke med rimelighet kan oppnås med andre midler som miljømessig er vesentlig bedre.
 
 En slik utpeking, og begrunnelsen for den, skal fremgå av vannforvaltningsplanen, og revurderes hvert sjette år.
 
@@ -112,37 +113,27 @@ Tilstanden i grunnvann skal beskyttes mot forringelse, forbedres og gjenopprette
 
 ### § 7. Miljømål for beskyttede områder
 
-Beskyttede områder som inngår i registeret i henhold til [§ 16](forskrift/2006-12-15-1446/§16) skal oppfylle miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 6 og eventuelle miljømål som følger av grunnlaget for beskyttelse.
+Beskyttede områder som inngår i registeret i henhold til [§ 16](forskrift/2006-12-15-1446/§16) skal oppfylle miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–[§ 6](forskrift/2006-12-15-1446/§6) og eventuelle miljømål som følger av grunnlaget for beskyttelse.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### § 8. Frister for å nå miljømålene
 
-Miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 skal i utgangspunktet nås innen utgangen av den til enhver tid gjeldende planperiode.
+Miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–[§ 7](forskrift/2006-12-15-1446/§7) skal nås innen utgangen av den til enhver tid gjeldende planperiode.
 
-Hvis vesentlige kostnader eller andre tungtveiende hensyn vanskeliggjør oppfyllelse av miljømålene innen fristen i første ledd, kan det besluttes at fristen for å nå miljømålene utsettes til neste planperiode.
-
-God kjemisk tilstand for stoff nr. 2, 5, 15, 20, 22, 23 og 28 i vedlegg VIII del A skal oppnås innen 22. desember 2021. Stoff nr. 34 til og med stoff nr. 45 i vedlegg VIII del A inngår i vurdering av kjemisk tilstand fra og med 22. desember 2018, og god kjemisk tilstand for disse stoffene skal oppnås innen 22. desember 2027.
-
-> Endret ved [forskrifter 25 juni 2015 nr. 805](forskrift/2015-06-25-805), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
+> Endret ved forskrifter [25 juni 2015 nr. 805](forskrift/2015-06-25-805), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ### § 9. Utsatte frister for å nå miljømålene
 
-Fristene i [§ 8](forskrift/2006-12-15-1446/§8) første og annet ledd kan forlenges med inntil 6 år for å sikre en gradvis måloppnåelse, forutsatt at det ikke forekommer ytterligere forringelse av tilstanden i den berørte vannforekomsten og minst ett av følgende forhold gjør seg gjeldende:
-
-1. forbedringene kan av tekniske årsaker ikke gjennomføres innen fristen,
-2. det ville være uforholdsmessig kostnadskrevende å gjennomføre forbedringen innen fristen, eller
-3. det foreligger slike naturforhold at en forbedring av vannforekomsten innen fristen ikke lar seg gjennomføre.
-
-Ytterligere fristforlengelse ut over det som følger av første ledd, kan bare gis dersom det foreligger slike naturforhold at miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 ikke kan oppfylles innenfor denne perioden.
+Fristen i [§ 8](forskrift/2006-12-15-1446/§8) kan forlenges med sikte på gradvis måloppnåelse dersom naturforhold gjør at en forbedring av vannforekomsten innen fristen ikke lar seg gjennomføre, og det ikke forekommer ytterligere forringelse av tilstanden i den berørte vannforekomsten.
 
 Fastsettelsen av utsatte frister og begrunnelsen for det, samt et sammendrag av tiltak som er nødvendig for å gradvis bringe miljøtilstanden i overensstemmelse med miljømålet innen den forlengede fristen, årsaken til at tiltakene er vesentlig forsinket, og en forventet tidsplan for gjennomføring av tiltak, skal fremgå av vannforvaltningsplanen. Ved oppdateringen av vannforvaltningsplanen skal en revurdering av gjennomføringen av tiltakene og en oppsummering av eventuelle nye tiltak inkluderes i planen.
 
-> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
+> Endret ved forskrifter [23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ### § 10. Mindre strenge miljømål
 
-Når en vannforekomst er så påvirket av menneskelig virksomhet at det er umulig eller uforholdsmessig kostnadskrevende å nå målene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7, kan det fastsettes mindre strenge miljømål dersom følgende vilkår er oppfylt:
+Når en vannforekomst er så påvirket av menneskelig virksomhet at det er umulig eller uforholdsmessig kostnadskrevende å nå målene i [§ 4](forskrift/2006-12-15-1446/§4)–[§ 7](forskrift/2006-12-15-1446/§7), kan det fastsettes mindre strenge miljømål dersom følgende vilkår er oppfylt:
 
 1. de miljømessige og samfunnsøkonomiske behov som denne menneskelige virksomheten tjener, ikke uten uforholdsmessige kostnader kan oppfylles på andre måter som er miljømessig vesentlig gunstigere,
 2. det sikres en best mulig økologisk og kjemisk tilstand for overflatevann og minst mulig avvik fra god kvantitativ tilstand for grunnvann gitt påvirkningene som er til stede, og som ikke med rimelighet kan unngås sett hen til typen av menneskelig virksomhet eller forurensning, og
@@ -154,7 +145,7 @@ Fastsettelsen av mindre strenge miljømål og begrunnelsen for den skal fremgå 
 
 ### § 11. Midlertidig forringelse som følge av uforutsette omstendigheter
 
-Midlertidig forringelse av tilstanden i en vannforekomst er ikke i strid med miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7, dersom forringelsen skyldes ekstraordinære eller uforutsette naturlige omstendigheter, slik som ekstrem flom og langvarig tørke, eller ulykke som ikke med rimelighet kunne forutses, forutsatt at følgende vilkår er oppfylt:
+Midlertidig forringelse av tilstanden i en vannforekomst er ikke i strid med miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–[§ 7](forskrift/2006-12-15-1446/§7), dersom forringelsen skyldes ekstraordinære eller uforutsette naturlige omstendigheter, slik som ekstrem flom og langvarig tørke, eller ulykke som ikke med rimelighet kunne forutses, forutsatt at følgende vilkår er oppfylt:
 
 1. alle praktisk gjennomførbare tiltak treffes for å forhindre ytterligere forringelse av tilstanden og for å unngå forringelse av tilstanden i andre vannforekomster enn de som er berørt,
 2. vannforvaltningsplanen må redegjøre for de forhold som gjør at omstendighetene er ekstraordinære eller at de ikke med rimelighet kunne forutses,
@@ -167,7 +158,7 @@ Ved oppdatering av vannforvaltningsplanen skal det tas inn en beskrivelse av vir
 
 ### § 12. Ny aktivitet eller nye inngrep
 
-Ny aktivitet eller nye inngrep i en vannforekomst kan gjennomføres selv om dette medfører at miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 ikke nås eller at tilstanden forringes, dersom dette skyldes:
+Ny aktivitet eller nye inngrep i en vannforekomst kan gjennomføres selv om dette medfører at miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–[§ 7](forskrift/2006-12-15-1446/§7) ikke nås eller at tilstanden forringes, dersom dette skyldes:
 
 1. nye endringer i de fysiske egenskapene til en overflatevannforekomst eller endret nivå i en grunnvannsforekomst, eller
 2. ny bærekraftig aktivitet som medfører forringelse i miljøtilstanden i en vannforekomst fra svært god tilstand til god tilstand.
@@ -224,7 +215,7 @@ Alle vannforekomster som brukes til uttak av drikkevann og hvor uttaket er mer e
 
 Forekomster av overflatevann utpekt som drikkevannskilder og som gir mer enn 100 m3 per dag i gjennomsnitt, skal overvåkes i samsvar med vedlegg V.
 
-Vannforekomster identifisert som drikkevannskilder etter denne bestemmelsen skal oppfylle miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–§ 7 og kravene til råvann for drikkevann i annet regelverk, slik at omfanget av rensing ved produksjon av drikkevann reduseres.
+Vannforekomster identifisert som drikkevannskilder etter denne bestemmelsen skal oppfylle miljømålene i [§ 4](forskrift/2006-12-15-1446/§4)–[§ 7](forskrift/2006-12-15-1446/§7) og kravene til råvann for drikkevann i annet regelverk, slik at omfanget av rensing ved produksjon av drikkevann reduseres.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -310,7 +301,7 @@ Tiltaksprogrammet skal blant annet omfatte:
 2. tiltak som skal bidra til en effektiv og bærekraftig vannforvaltning, der det tas hensyn til analysen som er gjennomført i samsvar med [§ 15](forskrift/2006-12-15-1446/§15),
 3. tiltak for å ivareta behov for og krav til drikkevann og annen vannforsyning, beskytte drikkevannskilder og redusere behovet for vannbehandling til drikkevannsformål,
 4. tiltak for å sikre gradvis reduksjon og om relevant opphør av utslipp og annen tilførsel av prioriterte stoffer,
-5. kontroll med uttak av ferskvann og grunnvann og magasinering av overflatevann,
+5. kontroll med uttak av ferskvann og grunnvann og magasinering av overflatevann, herunder ett eller flere register over vannuttak, og krav om tillatelse. Disse kontrolltiltakene skal gjennomgås regelmessig og om nødvendig oppdateres. Unntak fra kontrolltiltakene kan gis for uttak og magasinering som ikke forringer tilstanden eller vanskeliggjør måloppnåelse i berørte vannforekomster.
 6. kontroll med, forebygging av, og om relevant, forbud mot utslipp fra punktkilder og diffuse kilder som kan forårsake forurensning i vann,
 7. tiltak for å sikre at de hydromorfologiske forholdene oppfyller miljømålene,
 8. tiltak for å sikre at terskelverdier for grunnvannsforekomster ikke er overskredet, samt forebyggende tiltak for å snu vesentlige og vedvarende økende trender ved en eventuell overskredet vendepunktverdi, jf. vedlegg V 2.4.4. Naturlig forekommende høye konsentrasjoner eller midlertidige endringer i konsentrasjoner medfører ikke krav til særskilte tiltak.
@@ -319,11 +310,16 @@ Det skal foreligge overslag over kostnadene ved og angivelse av det rettslige gr
 
 Vedtak om gjennomføring av enkelttiltak som inngår i tiltaksprogrammet treffes av ansvarlig myndighet etter relevant lovgivning.
 
-Dersom resultatet av overvåkning eller andre data indikerer at det fastsatte miljømål i en vannforekomst ikke vil bli oppnådd, skal årsaken til dette søkes klarlagt og nye tiltak vurderes.
+Dersom resultatet av overvåkning eller andre data indikerer at det er usannsynlig at fastsatte miljømål for en vannforekomst vil bli oppnådd, skal
+
+1. årsaken til dette søkes klarlagt,
+2. relevante tillatelser undersøkes og gjennomgås ved behov,
+3. overvåkningsprogrammene bli gjennomgått og justert ved behov, og
+4. ytterligere tiltak som er nødvendig for å oppnå miljømålene fastsettes. Det kan inkludere etablering av strengere miljøkvalitetsstandarder i henhold til prosedyrene fastsatt i [vedlegg V](forskrift/2006-12-15-1446/vedleggV).
 
 Tiltakene skal være operative senest tre år etter at tiltaksprogrammet er fastsatt.
 
-> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [31 aug 2010 nr. 1220](forskrift/2010-08-31-1220), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [12 des 2019 nr. 1760](forskrift/2019-12-12-1760) (i kraft 1 jan 2020). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
+> Endret ved forskrifter [23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [31 aug 2010 nr. 1220](forskrift/2010-08-31-1220), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [12 des 2019 nr. 1760](forskrift/2019-12-12-1760) (i kraft 1 jan 2020), [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ### § 26. Vannforvaltningsplan
 
@@ -369,7 +365,7 @@ Oppdatert vannforvaltningsplan skal vedtas som regional plan etter plan- og [byg
 
 Vannregionmyndigheten oversender utkastet til oppdatert vannforvaltningsplan for vannregionen til berørte fylkeskommuner. Planen vedtas i fylkestingene i de berørte områder innen påfølgende planperiode begynner.
 
-Vedtatt oppdatert vannforvaltningsplan oversendes til Miljødirektoratet. Miljødirektoratet skal i samråd med NVE og andre berørte direktorater sikre at nasjonale føringer innenfor det enkelte direktorats ansvarsområde er fulgt opp, og at forskriftens krav er fulgt.
+Vedtatt oppdatert vannforvaltningsplan og tiltaksprogram oversendes til Miljødirektoratet. Miljødirektoratet skal i samråd med NVE og andre berørte direktorater sikre at nasjonale føringer innenfor det enkelte direktorats ansvarsområde er fulgt opp, og at forskriftens krav er fulgt.
 
 Miljødirektoratet skal sende sin tilråding til oppdatert plan til Klima- og miljødepartementet. Eventuell uenighet mellom direktoratene skal gjengis i tilrådingen, og vil bli avklart i forbindelse med departementets godkjenning.
 
@@ -377,7 +373,7 @@ Oppdatert vannforvaltningsplan skal legges fram for Klima- og miljødepartemente
 
 Godkjente vannforvaltningsplaner skal legges til grunn for regionale organers virksomhet og for kommunal og statlig planlegging og virksomhet i vannregionen, jf. plan- og [bygningslovens § 8-2](lov/2008-06-27-71/§8-2).
 
-> Endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024), [25 jan 2024 nr. 131](forskrift/2024-01-25-131) (i kraft 1 feb 2024). **Endres** ved forskrift [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
+> Endret ved forskrifter [23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019). [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024), [25 jan 2024 nr. 131](forskrift/2024-01-25-131) (i kraft 1 feb 2024), [2 juli 2026 nr. 1643](forskrift/2026-07-02-1643) (i kraft 1 sep 2026).
 
 ## Kapittel 6. Internasjonale vannregioner
 
@@ -1559,7 +1555,7 @@ beskyttede områder,
 
 5\.
 
-en liste over miljømål fastsatt for overflatevann, grunnvann og beskyttede områder, herunder særlig identifikasjon av tilfeller der [§ 9](forskrift/2006-12-15-1446/§9)–§ 12 er anvendt, samt tilhørende opplysninger som påkrevd i disse bestemmelsene,
+en liste over miljømål fastsatt for overflatevann, grunnvann og beskyttede områder, herunder særlig identifikasjon av tilfeller der [§ 9](forskrift/2006-12-15-1446/§9)–[§ 12](forskrift/2006-12-15-1446/§12) er anvendt, samt tilhørende opplysninger som påkrevd i disse bestemmelsene,
 
 6\.
 
