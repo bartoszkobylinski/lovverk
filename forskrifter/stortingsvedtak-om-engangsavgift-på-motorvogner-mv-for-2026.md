@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Stortinget"
 date_in_force: null
-last_change_in_force: null
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "45eaf2afc85fefdd70a47aab5e7d01368aba0d5c3c313f5ddf0d51c589009713"
+xml_hash: "ca0950c086fbe04f6047a5c2cdae4bab396b9cfbb7525132ab80fb9394c8e717"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,8 +59,8 @@ For motorvogner med stempeldrevet forbrenningsmotor skal det betales avgift med 
 
       |  |  |
       | --- | --- |
-      | *per g/km* | *kr* |
-      | 0–100 | 300 |
+      | per g/km | kr |
+      | 0–100 | 450 |
       | 101–150 | 600 |
       | over 150 | 1 200 |
 3. For campingbiler (avgiftsgruppe c) betales avgift av:
@@ -134,7 +134,7 @@ For motorvogner med stempeldrevet forbrenningsmotor skal det betales avgift med 
 
 Departementet kan gi forskrift om hvilken avgiftsgruppe en motorvogn skal avgiftsberegnes etter. Oppstår det tvil om spørsmålet, avgjøres det av departementet med bindende virkning.
 
-> **Endres** ved vedtak [19 juni 2026 nr. 1246](forskrift/2026-06-19-1246) (i kraft 1 sept 2026).
+> Endret ved vedtak [19 juni 2026 nr. 1246](forskrift/2026-06-19-1246) (i kraft 1 sept 2026).
 
 ## § 4.
 
