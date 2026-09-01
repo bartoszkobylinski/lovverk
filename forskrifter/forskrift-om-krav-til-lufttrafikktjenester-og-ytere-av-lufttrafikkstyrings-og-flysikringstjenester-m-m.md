@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2022-09-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "32dc9a01ea2c279defcc28e82f88510dfd5065d07300f6860cf486ea647694a3"
+xml_hash: "170485661f7b40748792d53399de314c0d7e2c487490c5f8ad42d95a7c1dc928"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-29T10:59:44.879799+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -240,7 +240,9 @@ I varslingsfasen av en nødssituasjon skal en enhet for flygeinformasjonstjenest
 
 ### § 4-13. Særskilte krav etter AFIS-forskriften
 
-> **Tilføyes** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
+De krav til ytere av lufttrafikktjenester som følger av forskrift [27. august 2026 nr. 1685 om krav til kompetanse for personer som skal utøve flygeinformasjonstjeneste, HF-tjeneste og databehandling i ATM-systemer, og krav til tilhørende virksomheter (AFIS-forskriften)](forskrift/2026-08-27-1685), gjelder særskilt i tillegg til de krav som følger av denne forskriften.
+
+> Tilføyd ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ## Kapittel 5 – Særskilte nasjonale bestemmelser – ytere av flyværtjenester (MET)
 
