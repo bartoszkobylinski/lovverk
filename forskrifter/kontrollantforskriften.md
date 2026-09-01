@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2004-01-01"
-last_change_in_force: "2013-07-02"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "be523ad71ccb24387b5489fdda6597de6e2201a262da43dfdd47050af4d38fd3"
+xml_hash: "a5e77247d556f22d4b80f44ba3da95cd3ccc02b6f1257b7d189a001009be4a26"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-29T10:59:44.879799+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,9 +26,9 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne forskriften er å sette krav til kontrollantvirksomheten i norsk sivil luftfart for å sikre kvalitet med hensyn til flysikkerhet, flyfaglig kompetanse, lufttrafikktjenestekompetanse og forvaltningsmessig likebehandling.
+Formålet med denne forskriften er å sette krav til kontrollantvirksomheten i norsk sivil luftfart for å sikre kvalitet med hensyn til flysikkerhet, flyfaglig kompetanse og forvaltningsmessig likebehandling.
 
-> **Endres** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
+> Endret ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ### § 2. Virkeområde
 
@@ -53,8 +53,7 @@ Forskriften gjelder norske kontrollantautorisasjoner og seniorkontrollantautoris
 (1) For å kunne bli autorisert som kontrollant må:
 
 1. kravene i [forskrift av 20. desember 2000 nr. 1679](forskrift/2000-12-20-1679) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på fly, BSL JAR-FCL 1 (Flight Crew Licencing), kap. I, Amendment 1, eller
-2. kravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), kap. I, Amendment 1, være oppfylt, eller
-3. kravene i [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS og [forskrift 25. oktober 2003 nr. 1302](forskrift/2003-10-25-1302) om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell være oppfylt.
+2. kravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), kap. I, Amendment 1, være oppfylt.
 
 (2) I tillegg må kandidaten anses som personlig egnet etter en totalvurdering foretatt av Luftfartstilsynet.
 
@@ -62,7 +61,7 @@ Forskriften gjelder norske kontrollantautorisasjoner og seniorkontrollantautoris
 
 (4) En autorisasjon kan gjelde i inntil tre år fra autorisasjonsdato.
 
-> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009), [2 juli 2013 nr. 851](forskrift/2013-07-02-851). **Endres** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
+> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009), [2 juli 2013 nr. 851](forskrift/2013-07-02-851), [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ### § 4a. Krav for autorisering av språkkontrollanter
 
@@ -121,12 +120,11 @@ For språkkontrollanter gjelder [§ 6](forskrift/2003-12-10-1745/§6), [§ 7](fo
 (2) Luftfartstilsynet utsteder autorisasjonen etter en totalvurdering der det legges vekt på søkerens kvalifikasjoner og behovet for seniorkontrollanter. Autorisasjonen vil bli utstedt etter at Luftfartstilsynet har vurdert seniorkontrollantens eksaminasjon av kontrollantkandidaten som tilfredsstillende, jf.
 
 1. kravene i [forskrift av 20. desember 2000 nr. 1679](forskrift/2000-12-20-1679) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på fly, BSL JAR-FCL 1 (Flight Crew Licencing), pkt. 1.425, Amendment 1, eller
-2. kravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), pkt. 2.425, Amendment 1, eller
-3. krav som Luftfartstilsynet setter for autorisering av flygeinformasjonstjenestepersonell.
+2. kravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), pkt. 2.425, Amendment 1.
 
 (3) Autorisasjonen kan gjelde i inntil tre år.
 
-> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009). [2 juli 2013 nr. 851](forskrift/2013-07-02-851). **Endres** ved forskrift [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
+> Endret ved [forskrifter 19 des 2008 nr. 1575](forskrift/2008-12-19-1575) (i kraft 1 feb 2009). [2 juli 2013 nr. 851](forskrift/2013-07-02-851), [27 aug 2026 nr. 1685](forskrift/2026-08-27-1685) (i kraft 1 sep 2026).
 
 ### § 10. Re-autorisasjon
 
