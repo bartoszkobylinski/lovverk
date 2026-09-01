@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-reduksjon-av-uførepensjon — Change history
 
-_3 events; doc_id `sf-20141126-1467`._
+_4 events; doc_id `sf-20141126-1467`._
+
+## 2026-09-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-reduksjon-av-uførepensjon`
+Commit: `769cb70`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

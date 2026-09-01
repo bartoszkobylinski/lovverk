@@ -2,6 +2,16 @@
   "doc_id": "sf-20121129-1283",
   "events": [
     {
+      "commit": "bedc8da",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-bustøtte",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b762c0a",
       "date": "2026-08-27",
       "from_path": null,

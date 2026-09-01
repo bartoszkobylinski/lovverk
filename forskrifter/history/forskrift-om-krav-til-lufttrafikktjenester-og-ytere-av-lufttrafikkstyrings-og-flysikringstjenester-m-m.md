@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m — Change history
 
-_6 events; doc_id `sf-20220616-1029`._
+_7 events; doc_id `sf-20220616-1029`._
+
+## 2026-09-01 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m`
+Commit: `4bc34ec`.
 
 ## 2026-08-29 — Content updated
 Lines: +6 -2.

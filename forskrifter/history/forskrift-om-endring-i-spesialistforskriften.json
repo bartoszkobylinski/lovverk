@@ -2,6 +2,16 @@
   "doc_id": "sf-20260619-1319",
   "events": [
     {
+      "commit": "c46b125",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-endring-i-spesialistforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9fd149a",
       "date": "2026-06-27",
       "from_path": null,

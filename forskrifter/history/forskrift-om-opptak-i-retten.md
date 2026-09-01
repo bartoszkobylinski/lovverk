@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-i-retten — Change history
 
-_4 events; doc_id `sf-20180928-1471`._
+_5 events; doc_id `sf-20180928-1471`._
+
+## 2026-09-01 — Content updated
+Lines: +4 -6.
+Subject: `update(forskrift): forskrift-om-opptak-i-retten`
+Commit: `ec9a767`.
 
 ## 2026-08-27 — Content updated
 Lines: +4 -2.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kontrollantforskriften — Change history
 
-_4 events; doc_id `sf-20031210-1745`._
+_5 events; doc_id `sf-20031210-1745`._
+
+## 2026-09-01 — Content updated
+Lines: +9 -11.
+Subject: `update(forskrift): kontrollantforskriften`
+Commit: `5bd361d`.
 
 ## 2026-08-29 — Content updated
 Lines: +6 -4.

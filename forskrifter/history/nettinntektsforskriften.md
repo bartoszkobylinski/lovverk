@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # nettinntektsforskriften — Change history
 
-_4 events; doc_id `sf-20250114-0050`._
+_5 events; doc_id `sf-20250114-0050`._
+
+## 2026-09-01 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): nettinntektsforskriften`
+Commit: `175818a`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20161208-1482",
   "events": [
     {
+      "commit": "a61c3e3",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): spesialistforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d70eaef",
       "date": "2026-06-27",
       "from_path": null,

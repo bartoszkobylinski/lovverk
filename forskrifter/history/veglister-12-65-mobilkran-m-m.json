@@ -2,6 +2,16 @@
   "doc_id": "sf-20231024-1699",
   "events": [
     {
+      "commit": "5c488e8",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 10,
+      "subject": "update(forskrift): veglister-12-65-mobilkran-m-m",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "85ceaae",
       "date": "2026-08-01",
       "from_path": null,

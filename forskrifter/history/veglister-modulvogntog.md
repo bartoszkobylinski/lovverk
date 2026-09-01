@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # veglister-modulvogntog — Change history
 
-_7 events; doc_id `sf-20231024-1696`._
+_8 events; doc_id `sf-20231024-1696`._
+
+## 2026-09-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): veglister-modulvogntog`
+Commit: `c353908`.
 
 ## 2026-08-01 — Content updated
 Lines: +8 -8.

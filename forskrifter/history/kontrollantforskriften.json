@@ -2,6 +2,16 @@
   "doc_id": "sf-20031210-1745",
   "events": [
     {
+      "commit": "5bd361d",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 11,
+      "subject": "update(forskrift): kontrollantforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9e6b6cc",
       "date": "2026-08-29",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # stortingsvedtak-om-veibruksavgift-på-drivstoff-for-2026 — Change history
 
-_1 events; doc_id `sf-20251218-2759`._
+_2 events; doc_id `sf-20251218-2759`._
+
+## 2026-09-01 — Content updated
+Lines: +11 -11.
+Subject: `update(forskrift): stortingsvedtak-om-veibruksavgift-på-drivstoff-for-2026`
+Commit: `4968f93`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +71 -0.

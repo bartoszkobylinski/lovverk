@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dora-forskriften — Change history
 
-_5 events; doc_id `sf-20250624-1296`._
+_6 events; doc_id `sf-20250624-1296`._
+
+## 2026-09-01 — Content updated
+Lines: +127 -10.
+Subject: `update(forskrift): dora-forskriften`
+Commit: `6a81987`.
 
 ## 2026-08-27 — Content updated
 Lines: +2 -2.

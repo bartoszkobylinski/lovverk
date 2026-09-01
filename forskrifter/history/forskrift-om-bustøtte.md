@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-bustøtte — Change history
 
-_5 events; doc_id `sf-20121129-1283`._
+_6 events; doc_id `sf-20121129-1283`._
+
+## 2026-09-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-bustøtte`
+Commit: `bedc8da`.
 
 ## 2026-08-27 — Content updated
 Lines: +3 -3.

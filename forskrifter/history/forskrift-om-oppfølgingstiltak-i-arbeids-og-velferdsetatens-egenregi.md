@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi — Change history
 
-_4 events; doc_id `sf-20230620-1073`._
+_5 events; doc_id `sf-20230620-1073`._
+
+## 2026-09-01 — Content updated
+Lines: +23 -16.
+Subject: `update(forskrift): forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi`
+Commit: `67961db`.
 
 ## 2026-08-20 — Content updated
 Lines: +10 -2.

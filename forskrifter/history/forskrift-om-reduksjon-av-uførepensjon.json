@@ -2,6 +2,16 @@
   "doc_id": "sf-20141126-1467",
   "events": [
     {
+      "commit": "769cb70",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-reduksjon-av-uførepensjon",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

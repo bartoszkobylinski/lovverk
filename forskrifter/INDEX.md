@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5134 current documents_
+_5112 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1270,7 +1270,6 @@ _5134 current documents_
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementstrukturen-fra-01-01-2010](endr-i-departementstrukturen-fra-01-01-2010.md) — Endringer i departementstrukturen fra 1. januar 2010
-- [endr-i-dora-forskriften-mfl](endr-i-dora-forskriften-mfl.md) — Forskrift om endring i forskrift om digital operasjonell motstandsdyktighet i finanssektoren (DORA-forskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
 - [endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten](endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten.md) — Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten
 - [endr-i-forskr-om-flyttbare-innretninger](endr-i-forskr-om-flyttbare-innretninger.md) — Forskrift om endring i forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr.
@@ -1287,25 +1286,19 @@ _5134 current documents_
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
-- [endr-i-narkotikaforskriften](endr-i-narkotikaforskriften.md) — Forskrift om endring i forskrift om narkotika (narkotikaforskriften)
-- [endr-i-nettinntekstforskriften](endr-i-nettinntekstforskriften.md) — Forskrift om endring i forskrift om strømnettselskapenes inntekter (nettinntektsforskriften) § 3-2
 - [endr-i-pasientreiseforskriften](endr-i-pasientreiseforskriften.md) — Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)
 - [endr-i-personopplysningsforskriften](endr-i-personopplysningsforskriften.md) — Forskrift om endringer i personopplysningsforskriften
-- [endr-i-poliklinikkforskriften](endr-i-poliklinikkforskriften.md) — Forskrift om endring i forskrift om godtgjørelse for å yte poliklinisk helsehjelp i spesialisthelsetjenesten (poliklinikkforskriften)
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)
 - [endr-i-reseptformidlerforskriften](endr-i-reseptformidlerforskriften.md) — Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)
 - [endr-i-rettsgebyrforskriften](endr-i-rettsgebyrforskriften.md) — Forskrift om endring i rettsgebyrforskriften
 - [endr-i-stortingets-forretningsorden](endr-i-stortingets-forretningsorden.md) — Endringer i Stortingets forretningsorden
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
-- [endr-i-tiltaksforskriften](endr-i-tiltaksforskriften.md) — Forskrift om endring i forskrift om arbeidsmarkedstiltak (tiltaksforskriften)
-- [endr-i-tollavgiftsforskriften](endr-i-tollavgiftsforskriften.md) — Forskrift om endring i forskrift om tollavgift (tollavgiftsforskriften)
 - [endr-i-trafikklærerforskriften](endr-i-trafikklærerforskriften.md) — Forskrift om endring i forskrift om krav til utdanning, etterutdanning og godkjenning av trafikklærere (trafikklærerforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
-- [endr-i-vareførselsforskriften-2026](endr-i-vareførselsforskriften-2026.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2026-08-26](endr-i-vareførselsforskriften-2026-08-26.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2026-2](endr-i-vareførselsforskriften-2026-2.md) — Forskrift om endring i vareførselsforskriften
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
@@ -1613,7 +1606,6 @@ _5134 current documents_
 - [forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt](forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt.md) — Forskrift om at ører med reinmerke skal følge skinnet ved slakt
 - [forskrift-om-auke-av-tillaten-biomasse-akvakultur](forskrift-om-auke-av-tillaten-biomasse-akvakultur.md) — Forskrift om auke av maksimalt tillaten biomasse for løyve til akvakultur med laks, aure og regnbogeaure i 2015
 - [forskrift-om-automatiske-jernbanevekter](forskrift-om-automatiske-jernbanevekter.md) — Forskrift om krav til automatiske jernbanevekter
-- [forskrift-om-autorisasjon-mv-for-utøvelse-av-lokal-flygeinformasjonstjeneste-afis-og-hfis](forskrift-om-autorisasjon-mv-for-utøvelse-av-lokal-flygeinformasjonstjeneste-afis-og-hfis.md) — Forskrift om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS
 - [forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde](forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde.md) — Forskrift om avfallshåndtering og avfalls- og avløpsgebyrer i Longyearbyen planområde
 - [forskrift-om-avgift-for-jaktkort-m-m-på-svalbard](forskrift-om-avgift-for-jaktkort-m-m-på-svalbard.md) — Forskrift om satser for avgift for jakt-, fangst- og fiskekort m.m. på Svalbard.
 - [forskrift-om-avgift-på-farlige-stoffer-mv](forskrift-om-avgift-på-farlige-stoffer-mv.md) — Forskrift om avgift på enkelte farlige stoffer, anlegg og innretninger som omfattes av lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver
@@ -1752,7 +1744,6 @@ _5134 current documents_
 - [forskrift-om-bruk-av-fartøy-i-oljevern](forskrift-om-bruk-av-fartøy-i-oljevern.md) — Forskrift om bruk av fartøy i oljevern
 - [forskrift-om-bruk-av-flagg-flaggforskriften](forskrift-om-bruk-av-flagg-flaggforskriften.md) — Forskrift angående bruk av statsflagget og handelsflagget.
 - [forskrift-om-bruk-av-hangglider-og-paraglider](forskrift-om-bruk-av-hangglider-og-paraglider.md) — Forskrift om bruk av hangglider og paraglider
-- [forskrift-om-bruk-av-informasjons-og-kommunikasjonsteknologi](forskrift-om-bruk-av-informasjons-og-kommunikasjonsteknologi.md) — Forskrift om bruk av informasjons- og kommunikasjonsteknologi (IKT)
 - [forskrift-om-bruk-av-kjøretøy](forskrift-om-bruk-av-kjøretøy.md) — Forskrift om bruk av kjøretøy
 - [forskrift-om-bruk-av-krumkniv](forskrift-om-bruk-av-krumkniv.md) — Forskrift om bruk av krumkniv
 - [forskrift-om-bruk-av-mobiltelefon-i-bil](forskrift-om-bruk-av-mobiltelefon-i-bil.md) — Forskrift om forbud mot førers bruk av håndholdt mobiltelefon under kjøring med motorvogn.
@@ -1835,7 +1826,6 @@ _5134 current documents_
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter.md) — Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei.md) — Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil.md) — Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil
-- [forskrift-om-delvis-anvendelse-av-uhl-for-forsvarets-høyskole-m-m](forskrift-om-delvis-anvendelse-av-uhl-for-forsvarets-høyskole-m-m.md) — Forskrift om delvis anvendelse av universitets- og høyskoleloven for Forsvarets høgskole og om nemnder
 - [forskrift-om-den-norske-kirkes-medlemsregister](forskrift-om-den-norske-kirkes-medlemsregister.md) — Forskrift om Den norske kirkes medlemsregister
 - [forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler](forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler.md) — Forskrift om den offentlige kontrollen med bruken av farmakologisk virksomme stoffer og med restinnholdet av slike stoffer i dyr og animalske næringsmidler
 - [forskrift-om-den-rettsmedisinske-kommisjon](forskrift-om-den-rettsmedisinske-kommisjon.md) — Forskrift om Den rettsmedisinske kommisjon
@@ -1917,7 +1907,6 @@ _5134 current documents_
 - [forskrift-om-elvesandjeger-som-prioritert-art](forskrift-om-elvesandjeger-som-prioritert-art.md) — Forskrift om elvesandjeger (Cicindela maritima) som prioritert art
 - [forskrift-om-emsa](forskrift-om-emsa.md) — Forskrift om det europeiske sjøsikkerhetsbyrået EMSA (European Maritime Safety Agency)
 - [forskrift-om-endr-i-departementsstrukturen](forskrift-om-endr-i-departementsstrukturen.md) — Endring i departementsstrukturen. Endringer i oppgaver, ansvarsområder og ressursfordeling.
-- [forskrift-om-endring-av-forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virkningstidspunkt-for-regulering-av](forskrift-om-endring-av-forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virkningstidspunkt-for-regulering-av.md) — Forskrift om endring av forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virkningstidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14
 - [forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet](forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet.md) — Forskrift om endring av juridisk kjønn for norske statsborgere bosatt i utlandet
 - [forskrift-om-endring-av-motorvogners-avgiftsmessige-status](forskrift-om-endring-av-motorvogners-avgiftsmessige-status.md) — Forskrift om endring av motorvogners avgiftsmessige status
 - [forskrift-om-endring-av-rettskriving-m-v](forskrift-om-endring-av-rettskriving-m-v.md) — Forskrift om endring av rettskriving og læreboknormal
@@ -1925,7 +1914,6 @@ _5134 current documents_
 - [forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn](forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn.md) — Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
-- [forskrift-om-endring-i-forskrift-om-bustøtte-2026](forskrift-om-endring-i-forskrift-om-bustøtte-2026.md) — Forskrift om endring i forskrift om bustøtte
 - [forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon](forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon.md) — Forskrift om endring i forskrift om delegering av myndighet etter lov om elektronisk kommunikasjon
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
@@ -1935,18 +1923,13 @@ _5134 current documents_
 - [forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om endring i forskrift om kontroll av kjøretøy langs veg
 - [forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt](forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt.md) — Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt
 - [forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer](forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer.md) — Forskrift om endring i forskrift om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer og forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
-- [forskrift-om-endring-i-forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi](forskrift-om-endring-i-forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi.md) — Forskrift om endring i forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi (IPS ung – fra forsøk til ordinær drift)
-- [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven](forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md) — Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven
 - [forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder](forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder.md) — Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder
-- [forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen](forskrift-om-endring-i-forskrift-om-rammer-for-vannforvaltningen.md) — Forskrift om endring i forskrift om rammer for vannforvaltningen
-- [forskrift-om-endring-i-forskrift-om-reduksjon-av-uførepensjon-fra-lovfestet-offentlig-tjenestepensjonsordning-på-grunn-av-inntekt-og-om-etteroppgjør](forskrift-om-endring-i-forskrift-om-reduksjon-av-uførepensjon-fra-lovfestet-offentlig-tjenestepensjonsordning-på-grunn-av-inntekt-og-om-etteroppgjør.md) — Forskrift om endring i forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
-- [forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten](forskrift-om-endringer-i-forskrift-28-september-2018-nr-1471-om-opptak-i-retten.md) — Forskrift om endringer i forskrift 28. september 2018 nr. 1471 om opptak i retten
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
 - [forskrift-om-energiklagenemnda](forskrift-om-energiklagenemnda.md) — Forskrift om Energiklagenemnda
@@ -1971,7 +1954,6 @@ _5134 current documents_
 - [forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade](forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade.md) — Forskrift om et rådgivende yrkessykdomsutvalg for regelmessig revisjon av forskrift over sykdommer som skal likestilles med yrkesskade
 - [forskrift-om-etablererprøve-serveringssted](forskrift-om-etablererprøve-serveringssted.md) — Forskrift om etablererprøve for daglig leder av serveringssted
 - [forskrift-om-etablering-av-branndirektorat-mv](forskrift-om-etablering-av-branndirektorat-mv.md) — Forskrift om etablering av Direktoratet for brann og eksplosjonsvern og Statens bygningstekniske etat. Nedleggelse av Statens branninspeksjon og Statens sprengstoffinspeksjon.
-- [forskrift-om-etablering-organisering-og-drift-av-lufttrafikktjeneste](forskrift-om-etablering-organisering-og-drift-av-lufttrafikktjeneste.md) — Forskrift om etablering, organisering og drift av lufttrafikktjeneste
 - [forskrift-om-etikkrådets-og-norges-banks-behandling-av-personopplysninger](forskrift-om-etikkrådets-og-norges-banks-behandling-av-personopplysninger.md) — Forskrift om Etikkrådets og Norges Banks behandling av personopplysninger
 - [forskrift-om-ettergjeving](forskrift-om-ettergjeving.md) — Forskrift om ettergjeving.
 - [forskrift-om-eur-jernbanenett-for-godstransport](forskrift-om-eur-jernbanenett-for-godstransport.md) — Forskrift om gjennomføring av forordning (EU) nr. 913/2010 om et europeisk jernbanenett for konkurransedyktig godstransport
@@ -2159,7 +2141,6 @@ _5134 current documents_
 - [forskrift-om-forordning-om-tekstilfibre](forskrift-om-forordning-om-tekstilfibre.md) — Forskrift om innlemmelse av forordning (EU) nr. 1007/2011 om tekstilfibernavn og tilknyttet etikettering av tekstilprodukters fibersammensetning
 - [forskrift-om-forsinkelsesrente-og-kompensasjon-for-inndrivelseskostnader](forskrift-om-forsinkelsesrente-og-kompensasjon-for-inndrivelseskostnader.md) — Forskrift om forsinkelsesrente og kompensasjon for inndrivelseskostnader
 - [forskrift-om-forskningsavgift-på-landbruksprodukter](forskrift-om-forskningsavgift-på-landbruksprodukter.md) — Forskrift om forskningsavgift på landbruksprodukter
-- [forskrift-om-forsvarets-etterretningshøgskole-under-univl](forskrift-om-forsvarets-etterretningshøgskole-under-univl.md) — Forskrift om delvis innlemming av Forsvarets etterretningshøgskole under lov 1. april 2005 nr. 15 om universiteter og høyskoler
 - [forskrift-om-forsvarets-helseregister](forskrift-om-forsvarets-helseregister.md) — Forskrift om innsamling og behandling av opplysninger i Forsvarets helseregister
 - [forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa](forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md) — Forskrift om forsvars- og sikkerhetsanskaffelser
 - [forskrift-om-forsvarsdepartementets-tilskudd-til-sikkerhets-og-forsvarspolitisk-forskning](forskrift-om-forsvarsdepartementets-tilskudd-til-sikkerhets-og-forsvarspolitisk-forskning.md) — Forskrift om Forsvarsdepartementets tilskudd til sikkerhets- og forsvarspolitisk forskning
@@ -2737,7 +2718,6 @@ _5134 current documents_
 - [forskrift-om-medisinsk-embetseksamen-uit](forskrift-om-medisinsk-embetseksamen-uit.md) — Forskrift for medisinsk embetseksamen og medisinsk eksamen ved Universitetet i Tromsø.
 - [forskrift-om-medisinsk-utstyr](forskrift-om-medisinsk-utstyr.md) — Forskrift om medisinsk utstyr
 - [forskrift-om-medisinske-krav-bsl-c-1-3](forskrift-om-medisinske-krav-bsl-c-1-3.md) — Forskrift om medisinske krav for seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-3)
-- [forskrift-om-medisinske-krav-for-afis-og-hfis-fullmektig-operatør](forskrift-om-medisinske-krav-for-afis-og-hfis-fullmektig-operatør.md) — Forskrift om medisinske krav for AFIS- og HFIS-fullmektig/operatør (BSL G 2-5).
 - [forskrift-om-medisinske-kvalitetsregistre](forskrift-om-medisinske-kvalitetsregistre.md) — Forskrift om medisinske kvalitetsregistre
 - [forskrift-om-medisinske-undersøkelser-bsl-c-1-2](forskrift-om-medisinske-undersøkelser-bsl-c-1-2.md) — Forskrift om medisinske undersøkelser av seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-2).
 - [forskrift-om-medlemskap-i-pensjonsordning-mv](forskrift-om-medlemskap-i-pensjonsordning-mv.md) — Forskrift om medlemskap i pensjonsordning for personer som ikke er pliktig medlem i folketrygden
@@ -3991,7 +3971,6 @@ _5134 current documents_
 - [forskrift-om-utbetaling-til-krigsseilere](forskrift-om-utbetaling-til-krigsseilere.md) — Forskrift om utbetaling til norske sjøfolk som seilte ute i krigsårene.
 - [forskrift-om-utbetalingsmåten-av-ytelser](forskrift-om-utbetalingsmåten-av-ytelser.md) — Forskrift om gjennomføringen av folketrygdloven § 22-18 og bidragsinnkrevingsloven § 34 om utbetalingsmåten for ytelser mv.
 - [forskrift-om-utdanning-og-sertifisering-av-flygeledere](forskrift-om-utdanning-og-sertifisering-av-flygeledere.md) — Forskrift om utdanning og sertifisering av flygeledere
-- [forskrift-om-utdanningsorganisasjoner-for-flygeinformasjonstjenestepersonell](forskrift-om-utdanningsorganisasjoner-for-flygeinformasjonstjenestepersonell.md) — Forskrift om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell
 - [forskrift-om-utdanningsstøtte](forskrift-om-utdanningsstøtte.md) — Forskrift om utdanningsstøtte
 - [forskrift-om-utenlandske-semitrailere](forskrift-om-utenlandske-semitrailere.md) — Forskrifter om trekking av uregistrerte belgiske, britiske og nederlandske semitrailere i internasjonal trafikk i Norge med norsk trekkvogn.
 - [forskrift-om-utenlandsregistrert-motorvogn](forskrift-om-utenlandsregistrert-motorvogn.md) — Forskrift om midlertidig bruk av utenlandsregistrert motorvogn i Norge
@@ -5015,7 +4994,6 @@ _5134 current documents_
 - [vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus](vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus.md) — Vedtak om dispensasjon for nøkkelpersonell med kritiske samfunnsfunksjoner for Nkom, og oppfølging av bransjen
 - [vedtak-om-dispensasjon-for-forskningsfartøyer](vedtak-om-dispensasjon-for-forskningsfartøyer.md) — Vedtak om dispensasjon fra kravet om diplomatisk klarering for forskningsfartøyer som er sivile statsfartøyer
 - [vedtak-om-endring-av-navn-til-helsedirektoratet](vedtak-om-endring-av-navn-til-helsedirektoratet.md) — Vedtak om endring av navn på Sosial- og helsedirektoratet til Helsedirektoratet
-- [vedtak-om-endring-i-stortingsvedtak-18-desember-2025-nr-2755-om-engangsavgift-på-motorvogner-mv-for-2026](vedtak-om-endring-i-stortingsvedtak-18-desember-2025-nr-2755-om-engangsavgift-på-motorvogner-mv-for-2026.md) — Vedtak om endring i stortingsvedtak 18. desember 2025 nr. 2755 om engangsavgift på motorvogner mv. for 2026
 - [vedtak-om-etablering-av-dsb](vedtak-om-etablering-av-dsb.md) — Vedtak om etablering av Direktoratet for samfunnssikkerhet og beredskap.
 - [vedtak-om-fastsettelse-av-aii](vedtak-om-fastsettelse-av-aii.md) — Vedtak om fastsettelse av alternativ instrumentidentifikator
 - [vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024](vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024.md) — Vedtak om fastsettelse av rente for skattlegging av havbruksvirksomhet for inntektsåret 2024

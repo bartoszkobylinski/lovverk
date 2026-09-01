@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # veglister-normaltransport — Change history
 
-_7 events; doc_id `sf-20231024-1694`._
+_8 events; doc_id `sf-20231024-1694`._
+
+## 2026-09-01 — Content updated
+Lines: +17 -17.
+Subject: `update(forskrift): veglister-normaltransport`
+Commit: `35c65c8`.
 
 ## 2026-08-01 — Content updated
 Lines: +16 -16.

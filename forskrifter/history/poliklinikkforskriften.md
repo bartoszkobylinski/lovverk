@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # poliklinikkforskriften — Change history
 
-_7 events; doc_id `sf-20071219-1761`._
+_8 events; doc_id `sf-20071219-1761`._
+
+## 2026-09-01 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): poliklinikkforskriften`
+Commit: `4678863`.
 
 ## 2026-07-07 — Content updated
 Lines: +221 -5.

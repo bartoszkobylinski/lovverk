@@ -2,6 +2,16 @@
   "doc_id": "sf-20190215-0152",
   "events": [
     {
+      "commit": "3548a36",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-systemer-for-betalingstjenester",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7897041",
       "date": "2026-08-25",
       "from_path": null,

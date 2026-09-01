@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tiltaksforskriften — Change history
 
-_3 events; doc_id `sf-20151211-1598`._
+_4 events; doc_id `sf-20151211-1598`._
+
+## 2026-09-01 — Content updated
+Lines: +66 -28.
+Subject: `update(forskrift): tiltaksforskriften`
+Commit: `3153490`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

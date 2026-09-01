@@ -2,6 +2,16 @@
   "doc_id": "sf-20130214-0199",
   "events": [
     {
+      "commit": "5626434",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 4,
+      "subject": "update(forskrift): narkotikaforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b80355a",
       "date": "2026-08-29",
       "from_path": null,

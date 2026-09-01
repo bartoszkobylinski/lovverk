@@ -2,6 +2,16 @@
   "doc_id": "sf-20260827-1685",
   "events": [
     {
+      "commit": "2a464c9",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 14,
+      "subject": "update(forskrift): afis-forskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "adea557",
       "date": "2026-08-29",
       "from_path": null,

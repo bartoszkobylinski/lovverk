@@ -2,6 +2,16 @@
   "doc_id": "sf-20250624-1296",
   "events": [
     {
+      "commit": "6a81987",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 127,
+      "lines_removed": 10,
+      "subject": "update(forskrift): dora-forskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "939d66d",
       "date": "2026-08-27",
       "from_path": null,

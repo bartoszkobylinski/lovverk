@@ -2,6 +2,16 @@
   "doc_id": "sf-20180928-1471",
   "events": [
     {
+      "commit": "ec9a767",
+      "date": "2026-09-01",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-opptak-i-retten",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8291138",
       "date": "2026-08-27",
       "from_path": null,

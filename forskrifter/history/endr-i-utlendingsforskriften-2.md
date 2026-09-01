@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-utlendingsforskriften-2 — Change history
 
-_3 events; doc_id `sf-20260615-1087`._
+_4 events; doc_id `sf-20260615-1087`._
+
+## 2026-09-01 — Content updated
+Lines: +2 -8.
+Subject: `update(forskrift): endr-i-utlendingsforskriften-2`
+Commit: `f2a4e44`.
 
 ## 2026-07-01 — Content updated
 Lines: +2 -4.
