@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-09-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "78f91124721794ab404bd395c05dd0ccd74e3a44a892a95efdc0acf1e010c805"
+xml_hash: "320aa0d4f03cae0be656e8ac4aac4eb305773ff135afab8772eafc1406009de5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,7 @@ eu_basis: []
 
 I [forskrift 8. desember 2016 nr. 1482 om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften), vedlegg 2](forskrift/2016-12-08-1482/vedlegg2), gjøres følgende endringer:
 
-I [Vedlegg 2](forskrift/2016-12-08-1482/vedlegg2), [del C](forskrift/2016-12-08-1482/delC), C21. Allmennmedisin endres læringsmål ALM-055. Nytt læringsmål skal lyde:
-
-ALM-055
-
-Ha en godt utviklet samhandlingskompetanse ved å kjenne rammebetingelser, arbeidsmåter og prosedyrer fra en eller flere utdanningsvirksomheter innen primær- eller spesialisthelsetjenesten.
+– – –
 
 I [Vedlegg 2](forskrift/2016-12-08-1482/vedlegg2), [del C](forskrift/2016-12-08-1482/delC), C46. Samfunnsmedisin, byttes hele kapittelet ut med et nytt kapittel som skal lyde:
 
