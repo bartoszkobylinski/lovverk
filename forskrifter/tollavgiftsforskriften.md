@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-03-01"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "46510c8963eb1e627e32bd5034cdf4672280e6d91703f36a06989db51562d095"
+xml_hash: "bc9582ab9394babf6dc6430ab8db352a872b43415092473e250fe2ccb37a3f83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-25T04:48:31.682233+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -152,27 +152,28 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 18. [frihandelsavtalen EFTA–Indonesia vedlegg I](https://www.toll.no/contentassets/f595104429cc41ba95ed9c786102bae8/vedlegg-i---opprinnelsesregler---indonesia.pdf)
 19. [frihandelsavtalen EFTA–Israel protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/israel/Record%20of%20Understanding%20Annexes%20and%20Protocols/Protocol%20B%20-%20Rules%20of%20Origin.pdf)
 20. [frihandelsavtalen EFTA-Jordan protokoll B](https://www.efta.int/sites/default/files/uploads/2025-06/EFTA-Jordan%20%E2%80%93%20Joint%20Committee%20Decision%20No%201%20of%202025%20incorporating%20Revised%20PEM%20Convention.pdf)
-21. [frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)
-22. [frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)
-23. [frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)
-24. [frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)
-25. [frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)
-26. [frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)
-27. [frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)
-28. [interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)
-29. [frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)
-30. [frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)
-31. [frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)
-32. [frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)
-33. [frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)
-34. [frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)
-35. [frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)
-36. [frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)
-37. [frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
+21. [frihandelsavtalen EFTA-Kosovo vedlegg I](https://www.toll.no/files/e56acfd4b7481e5f0aaf9909d5c5abeb1e2293cb.pdf)
+22. [frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)
+23. [frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)
+24. [frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)
+25. [frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)
+26. [frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)
+27. [frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)
+28. [frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)
+29. [interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)
+30. [frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)
+31. [frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)
+32. [frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)
+33. [frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)
+34. [frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)
+35. [frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)
+36. [frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)
+37. [frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)
+38. [frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
-> Endret ved forskrifter [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 feb 2026), [17 feb 2026 nr. 228](forskrift/2026-02-17-228) (i kraft 1 mars 2026). **Endres** ved forskrift [21 aug 2026 nr. 1659](forskrift/2026-08-21-1659) (i kraft 1 sep 2026).
+> Endret ved forskrifter [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 feb 2026), [17 feb 2026 nr. 228](forskrift/2026-02-17-228) (i kraft 1 mars 2026), [21 aug 2026 nr. 1659](forskrift/2026-08-21-1659) (i kraft 1 sep 2026).
 
 ### § 4-1-2. Preferansetollavgift
 
