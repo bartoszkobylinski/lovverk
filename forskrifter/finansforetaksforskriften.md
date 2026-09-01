@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-08-05"
+last_change_in_force: "2026-09-01"
 last_updated: "2025-09-22"
-xml_hash: "5566886794e21dcf53f1582d8fd33eef0b7def202bbf7f0a59ee25f98a09480a"
+xml_hash: "224353dc0eaae4d6ce023c9baed4707670549f58e88db2fc9e2c5a4909744e56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-25T04:48:31.682233+00:00"
+retrieved_at: "2026-09-01T09:21:21.266839+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -395,7 +395,7 @@ Finansforetak skal gi melding til Finanstilsynet når personer som nevnt i [fina
 
 Søknad om tillatelse til å drive virksomhet som betalingsforetak, e-pengeforetak eller opplysningsfullmektig skal i tillegg til kravene i [finansforetaksloven § 3-1](lov/2015-04-10-17/§3-1) også inneholde følgende dokumentasjon:
 
-1. En beskrivelse av foretakets rutiner for å overvåke, håndtere og følge opp sikkerhetshendelser og sikkerhetsrelaterte kundeklager, samt rutine for rapportering av alvorlige operasjonelle hendelser og sikkerhetshendelser jf. [forskrift 21. mai 2003 nr. 630](forskrift/2003-05-21-630) om bruk av informasjons- og kommunikasjonsteknologi (IKT) [§ 9](forskrift/2003-05-21-630/§9).
+1. En beskrivelse av foretakets rutiner for å overvåke, håndtere og følge opp sikkerhetshendelser og sikkerhetsrelaterte kundeklager, samt rutiner for rapportering av alvorlige operasjonelle hendelser og sikkerhetshendelser, jf. forordning [(EU) 2022/2554](eu/32022r2554) om digital operasjonell motstandsdyktighet i finanssektoren kapittel III.
 2. Rutiner om lagring og overvåkning av sensitiv betalingsinformasjon, samt begrensninger i og oversikt over adgang til denne informasjonen.
 3. En beskrivelse av foretakets forretningsmessig kontinuitetsplan som identifiserer kritiske deler av virksomheten, og prosedyrer for å teste om planene er effektive og tilstrekkelige.
 4. Prinsipper og definisjoner som foretaket bruker i innsamlingen av statistiske opplysninger om drift, transaksjoner og svindel.
@@ -404,7 +404,7 @@ Søknad om tillatelse til å drive virksomhet som betalingsforetak, e-pengeforet
 
 Denne bestemmelsen gjelder ikke for søknad om begrenset tillatelse som betalingsforetak.
 
-> Tilføyd ved forskrift [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019, se endringen for overgangsregler). **Endres** ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
+> Tilføyd ved forskrift [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019, se endringen for overgangsregler), endret ved forskrift [20 aug 2026 nr. 1657](forskrift/2026-08-20-1657) (i kraft 1 sep 2026).
 
 ### § 3-3. Gjennomføring av forordning
 
