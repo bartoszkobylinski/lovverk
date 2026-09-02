@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5112 current documents_
+_5113 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -2363,7 +2363,6 @@ _5112 current documents_
 - [forskrift-om-husbanklån-til-omsorgsbolig-mv](forskrift-om-husbanklån-til-omsorgsbolig-mv.md) — Forskrift om lån til omsorgsboliger, sykehjemsplasser og lokaler for omsorgstiltak fra Husbanken
 - [forskrift-om-husleietvistutvalget](forskrift-om-husleietvistutvalget.md) — Forskrift om Husleietvistutvalget
 - [forskrift-om-hva-som-er-dopingmidler](forskrift-om-hva-som-er-dopingmidler.md) — Forskrift om hva som skal anses som dopingmidler
-- [forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for](forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for.md) — Forskrift om hvilke domstoler forskrift om opptak i retten § 6 gjelder for
 - [forskrift-om-hvilke-helseopplysninger-som-kan-behandles-i-helseregister-med-tolkede-genetiske-varianter](forskrift-om-hvilke-helseopplysninger-som-kan-behandles-i-helseregister-med-tolkede-genetiske-varianter.md) — Forskrift om hvilke helseopplysninger som kan behandles i et behandlingsrettet helseregister med tolkede genetiske varianter
 - [forskrift-om-hygiene-i-petroleumsvirksomheten](forskrift-om-hygiene-i-petroleumsvirksomheten.md) — Forskrift om hygieniske forhold m.v. for innretninger i petroleumsvirksomheten.
 - [forskrift-om-hygienekrav-for-frisørvirksomhet-m-v](forskrift-om-hygienekrav-for-frisørvirksomhet-m-v.md) — Forskrift om hygienekrav for frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet m.v.
@@ -3593,6 +3592,7 @@ _5112 current documents_
 - [forskrift-om-stønad-til-helsetjenester-i-eøs](forskrift-om-stønad-til-helsetjenester-i-eøs.md) — Forskrift om stønad til helsetjenester mottatt i et annet EØS-land
 - [forskrift-om-stønad-til-hjelpemidler-mv](forskrift-om-stønad-til-hjelpemidler-mv.md) — Forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen
 - [forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer](forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer.md) — Forskrift om stønad til høreapparat og tinnitusmaskerer
+- [forskrift-om-stønad-til-retur-og-reintegrering](forskrift-om-stønad-til-retur-og-reintegrering.md) — Forskrift om stønad til retur og reintegrering
 - [forskrift-om-stønad-til-servicehund](forskrift-om-stønad-til-servicehund.md) — Forskrift om stønad til servicehund for personer med nedsatt funksjonsevne
 - [forskrift-om-støyemisjon-fra-luftfartøy](forskrift-om-støyemisjon-fra-luftfartøy.md) — Forskrift om støyemisjon fra luftfartøy
 - [forskrift-om-støyrelaterte-driftsbegrensninger-på-flyplasser](forskrift-om-støyrelaterte-driftsbegrensninger-på-flyplasser.md) — Forskrift om støyrelaterte driftsbegrensninger ved norske flyplasser
@@ -4455,6 +4455,7 @@ _5112 current documents_
 - [midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk](midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk.md) — Midlertidig forskrift om kompensasjon som følge av innføring av lavere grenseverdi for kadmium i løk
 - [midlertidig-forskrift-om-krav-til-vekter-og-automatiske-veiesystemer-til-bruk-ved-landing-av-pelagisk-fisk](midlertidig-forskrift-om-krav-til-vekter-og-automatiske-veiesystemer-til-bruk-ved-landing-av-pelagisk-fisk.md) — Midlertidig forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av pelagisk fisk
 - [midlertidig-forskrift-om-midlertidig-godkjenning-av-ordinære-barnehager-og-midlertidig-tilskudd-for-enklere-bosetting-av-fordrevne-fra-ukraina-og-flyktninger](midlertidig-forskrift-om-midlertidig-godkjenning-av-ordinære-barnehager-og-midlertidig-tilskudd-for-enklere-bosetting-av-fordrevne-fra-ukraina-og-flyktninger.md) — Midlertidig forskrift om midlertidig godkjenning av ordinære barnehager og midlertidig tilskudd for enklere bosetting av fordrevne fra Ukraina og flyktninger
+- [midlertidig-forskrift-om-midlertidig-innførsel-og-utførsel-av-varer-i-forbindelse-med-kongelig-gravferd](midlertidig-forskrift-om-midlertidig-innførsel-og-utførsel-av-varer-i-forbindelse-med-kongelig-gravferd.md) — Midlertidig forskrift om midlertidig innførsel og utførsel av varer i forbindelse med kongelig gravferd
 - [midlertidig-forskrift-om-stønad-til-kunder-av-nærvarmeleverandører](midlertidig-forskrift-om-stønad-til-kunder-av-nærvarmeleverandører.md) — Midlertidig forskrift om stønad til kunder av nærvarmeleverandører
 - [midlertidig-forskrift-om-støtte-som-følge-av-ekstraordinære-utgifter-til-elektrisk-kraft-for-jordbruksforetak-veksthus-og-vanningslag](midlertidig-forskrift-om-støtte-som-følge-av-ekstraordinære-utgifter-til-elektrisk-kraft-for-jordbruksforetak-veksthus-og-vanningslag.md) — Midlertidig forskrift om støtte som følge av ekstraordinære utgifter til elektrisk kraft for jordbruksforetak, veksthus og vanningslag
 - [midlertidig-forskrift-om-tilskudd-til-kornkjøpere-tilbud-om-utsatt-leveranse-av-korn-til-markedsregulator-mot-kompensasjon](midlertidig-forskrift-om-tilskudd-til-kornkjøpere-tilbud-om-utsatt-leveranse-av-korn-til-markedsregulator-mot-kompensasjon.md) — Midlertidig forskrift om tilskudd til kornkjøpere – tilbud om utsatt leveranse av korn til markedsregulator mot kompensasjon

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fredningsområder-for-hummer — Change history
 
-_3 events; doc_id `sf-20060706-0883`._
+_4 events; doc_id `sf-20060706-0883`._
+
+## 2026-09-02 — Content updated
+Lines: +23 -25.
+Subject: `update(forskrift): forskrift-om-fredningsområder-for-hummer`
+Commit: `6afd6b9`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

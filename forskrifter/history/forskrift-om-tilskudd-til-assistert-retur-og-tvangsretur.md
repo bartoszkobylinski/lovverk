@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-assistert-retur-og-tvangsretur — Change history
 
-_3 events; doc_id `sf-20200217-0183`._
+_4 events; doc_id `sf-20200217-0183`._
+
+## 2026-09-02 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-assistert-retur-og-tvangsretur`
+Commit: `e12bd4c`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

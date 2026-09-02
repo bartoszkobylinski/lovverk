@@ -47889,13 +47889,13 @@
     },
     "sf-20041223-1851": {
       "doc_type": "forskrift",
-      "embedding_hash": "64879b2b8f7b017fec1dd358e84286cc31b4cc75b43f899e016ea9f08b28f5a6",
-      "embedding_input_hash": "8303312cdbabc274f1487a390e0f5649ab96af8e8fcc76d71d1f3b742d359db0",
+      "embedding_hash": "12e02015acb6c88bc9d3b55c9bf43c9ce791a65c61f9ced241869c3dc3a10095",
+      "embedding_input_hash": "709cdd0e678c773b68521adcfbefddd93592ac44384429a98b284fee59d52e57",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/klimakvoteforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -47903,8 +47903,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften)",
-      "total_changes": 3,
-      "xml_hash": "64879b2b8f7b017fec1dd358e84286cc31b4cc75b43f899e016ea9f08b28f5a6"
+      "total_changes": 4,
+      "xml_hash": "12e02015acb6c88bc9d3b55c9bf43c9ce791a65c61f9ced241869c3dc3a10095"
     },
     "sf-20041230-1817": {
       "doc_type": "forskrift",
@@ -51556,13 +51556,13 @@
     },
     "sf-20060706-0883": {
       "doc_type": "forskrift",
-      "embedding_hash": "a825c6220f329076f5bae688f5d262fa9dc6983d7f9a0c39d724eb95298a6817",
-      "embedding_input_hash": "11bb9b126f7fcb0e5bf24ed4d00d0b2da5dc8b95ac3f141f06a81d921ccb869a",
+      "embedding_hash": "82c51c5ac6c689eb04a6749dd0f0a1b90ed9727dfd40135228f337e17b7cbaf6",
+      "embedding_input_hash": "c8e65c2e57755581a896b811b5fb9da654da53281a2d66b67717f151f547f558",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/forskrift-om-fredningsområder-for-hummer.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -51570,8 +51570,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fredningsområder for hummer",
-      "total_changes": 3,
-      "xml_hash": "a825c6220f329076f5bae688f5d262fa9dc6983d7f9a0c39d724eb95298a6817"
+      "total_changes": 4,
+      "xml_hash": "82c51c5ac6c689eb04a6749dd0f0a1b90ed9727dfd40135228f337e17b7cbaf6"
     },
     "sf-20060706-0968": {
       "doc_type": "forskrift",
@@ -80322,13 +80322,13 @@
     },
     "sf-20180601-1546": {
       "doc_type": "forskrift",
-      "embedding_hash": "77df4b214cef77f0567c51f139bc2280fd1ec5e5555845e545846e244c6fb774",
-      "embedding_input_hash": "fe7d26c2913f7b0b927285d29f62abf0e055130c34da37ea99bfb2b8ea7967a4",
+      "embedding_hash": "9172f80873e48d47119553012d21ec78986978e1ba26008d7ed24f76b2cfbfeb",
+      "embedding_input_hash": "a0eb0fa88f0eea87fc20b73efacad4fcd7c63fd7d9239e2e7f5139f59efcf6c2",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-01",
-      "last_seen": "2026-09-01T09:21:21.266839Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -80336,8 +80336,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Handelshøyskolen BI",
-      "total_changes": 7,
-      "xml_hash": "77df4b214cef77f0567c51f139bc2280fd1ec5e5555845e545846e244c6fb774"
+      "total_changes": 8,
+      "xml_hash": "9172f80873e48d47119553012d21ec78986978e1ba26008d7ed24f76b2cfbfeb"
     },
     "sf-20180604-0810": {
       "doc_type": "forskrift",
@@ -81234,21 +81234,21 @@
     },
     "sf-20181017-1577": {
       "doc_type": "forskrift",
-      "embedding_hash": "44397986595bf560966eeee44cc34d9ea30344de6bb6e02fb26089549475a0b2",
-      "embedding_input_hash": "9b1b4e79bf52039b9c9385da38d0357d1277b7a13c615efa88486e5ec4190592",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om hvilke domstoler forskrift om opptak i retten § 6 gjelder for",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "44397986595bf560966eeee44cc34d9ea30344de6bb6e02fb26089549475a0b2"
     },
     "sf-20181018-1671": {
@@ -85319,13 +85319,13 @@
     },
     "sf-20200217-0183": {
       "doc_type": "forskrift",
-      "embedding_hash": "aac1a7fbf6a285d61c86ba18f236281bfa4f9c733936c5735ec82a66e5627d7e",
+      "embedding_hash": "c4a31aae3245ab9efc7363388b1f17e4a0f1c193c0f94ee262997e034bb8849a",
       "embedding_input_hash": "08c423d3bf8f78ed2bc945781d2e7d6094b5e7264a22891e1d963ee530222585",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-assistert-retur-og-tvangsretur.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -85333,8 +85333,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til assistert retur og tvangsretur",
-      "total_changes": 3,
-      "xml_hash": "aac1a7fbf6a285d61c86ba18f236281bfa4f9c733936c5735ec82a66e5627d7e"
+      "total_changes": 4,
+      "xml_hash": "c4a31aae3245ab9efc7363388b1f17e4a0f1c193c0f94ee262997e034bb8849a"
     },
     "sf-20200225-0186": {
       "doc_type": "forskrift",
@@ -109050,13 +109050,13 @@
     },
     "sf-20251219-2737": {
       "doc_type": "forskrift",
-      "embedding_hash": "9438f4f32ab6097d91c7fd8a98450e60bbcebe58989268483de9e34835252f14",
-      "embedding_input_hash": "f59d5a26ed63a1550d28de224331ac846a89e152c8f8b5705bbbe74c5ac79f62",
+      "embedding_hash": "b56964198984804ddf9681844db0a1fea18bc409c1ea09d98cba6350d3cb03aa",
+      "embedding_input_hash": "e0bcfc3563b9e686156957d1a2aee538f23d6dde5b78a870df508ea24a340549",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-21",
-      "last_seen": "2026-08-21T04:48:37.993337Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sei-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109064,8 +109064,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sei i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 5,
-      "xml_hash": "9438f4f32ab6097d91c7fd8a98450e60bbcebe58989268483de9e34835252f14"
+      "total_changes": 6,
+      "xml_hash": "b56964198984804ddf9681844db0a1fea18bc409c1ea09d98cba6350d3cb03aa"
     },
     "sf-20251219-2742": {
       "doc_type": "forskrift",
@@ -109202,13 +109202,13 @@
     },
     "sf-20251219-2805": {
       "doc_type": "forskrift",
-      "embedding_hash": "ff15709eeaeb8ce8eb404eb2ae9ef8098893168a36b854d9a7545e7b9aa12c5a",
-      "embedding_input_hash": "5d499866096f785fe9be97f6a6ad4346dd78381ec7270d099f5b37b99a16785a",
+      "embedding_hash": "403a5a6f69cc2f7dac5a71253aafede6ce9450861ded2a671de6f76f6186db40",
+      "embedding_input_hash": "3b3e87a43e4c95e35274b54ce3c922cab3c35d0fa27f5f080028472879ca4aa0",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-03",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109216,8 +109216,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 4,
-      "xml_hash": "ff15709eeaeb8ce8eb404eb2ae9ef8098893168a36b854d9a7545e7b9aa12c5a"
+      "total_changes": 5,
+      "xml_hash": "403a5a6f69cc2f7dac5a71253aafede6ce9450861ded2a671de6f76f6186db40"
     },
     "sf-20251219-2806": {
       "doc_type": "forskrift",
@@ -109240,13 +109240,13 @@
     },
     "sf-20251219-2809": {
       "doc_type": "forskrift",
-      "embedding_hash": "ed23d22bf0a86e5da46e609b26227007c18f2f463ef1173b42ad137d163307a7",
-      "embedding_input_hash": "4cbd2c70a08e6e0a9b7c45288cfc66c7f44c15e1f7dbd11623bcd037d6d4d0d2",
+      "embedding_hash": "bc721f1362fe4d9c51fda711823c7ad92ca2256595505728e1de8dbc67c18b48",
+      "embedding_input_hash": "2c678e45c924df3c0d9e04b909534fc6c9c5b57ccf0a660aa382d7f96b2fc467",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fangst-av-kongekrabbe-i-kvoteregulert-område-øst-for-26-grader-øst-mv-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109254,8 +109254,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fangst av kongekrabbe i kvoteregulert område øst for 26 grader øst mv. i 2026",
-      "total_changes": 3,
-      "xml_hash": "ed23d22bf0a86e5da46e609b26227007c18f2f463ef1173b42ad137d163307a7"
+      "total_changes": 4,
+      "xml_hash": "bc721f1362fe4d9c51fda711823c7ad92ca2256595505728e1de8dbc67c18b48"
     },
     "sf-20251219-2811": {
       "doc_type": "forskrift",
@@ -112981,6 +112981,25 @@
       "total_changes": 1,
       "xml_hash": "f07e0564b42074b72ce3f7322b5feee5875d9e03727a02413b0555f6ff58d117"
     },
+    "sf-20260713-1702": {
+      "doc_type": "forskrift",
+      "embedding_hash": "e97969bdf09d20d46c3b05be9fb99068f83a3aa9757d3eb90e5646fcf88c3cca",
+      "embedding_input_hash": "42bd64dc9648436e30b6a2ffd72e728d8a84c1111583432e18f7eee0a73835bc",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
+      "markdown_path": "forskrifter/forskrift-om-stønad-til-retur-og-reintegrering.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-stønad-til-retur-og-reintegrering",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om stønad til retur og reintegrering",
+      "total_changes": 1,
+      "xml_hash": "e97969bdf09d20d46c3b05be9fb99068f83a3aa9757d3eb90e5646fcf88c3cca"
+    },
     "sf-20260716-1567": {
       "doc_type": "forskrift",
       "embedding_hash": null,
@@ -113154,13 +113173,13 @@
     },
     "sf-20260821-1658": {
       "doc_type": "forskrift",
-      "embedding_hash": "f3bf7c09b1f163109e574d1b9e16d16012d30573bc9bbe2b83ab55316de4230a",
+      "embedding_hash": "cecb46bc68d4d55733d7aaf22a681a7b5dd6d589dedf28e6bb49a2acb4b21253",
       "embedding_input_hash": "02c1d1db11e6b6010e0a08f48774ec3b23022b6ec9457ea2c5a381d21658e778",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-25",
-      "last_seen": "2026-08-25T04:48:31.682233Z",
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
       "markdown_path": "forskrifter/tilpasningsforskrift-for-fhs.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113168,8 +113187,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om unntak fra og tilpasninger til universitets- og høyskoleloven for Forsvarets høgskole (tilpasningsforskrift for FHS)",
-      "total_changes": 1,
-      "xml_hash": "f3bf7c09b1f163109e574d1b9e16d16012d30573bc9bbe2b83ab55316de4230a"
+      "total_changes": 2,
+      "xml_hash": "cecb46bc68d4d55733d7aaf22a681a7b5dd6d589dedf28e6bb49a2acb4b21253"
     },
     "sf-20260821-1659": {
       "doc_type": "forskrift",
@@ -113322,8 +113341,27 @@
       "title": "Forskrift om krav til kompetanse for personer som skal utøve flygeinformasjonstjeneste, HF-tjeneste og databehandling i ATM-systemer, og krav til tilhørende virksomheter (AFIS-forskriften)",
       "total_changes": 2,
       "xml_hash": "50554fc50c91aae8dfaaf9ccf20889cf4e193720336cb39acbbc83868adb39d3"
+    },
+    "sf-20260831-1708": {
+      "doc_type": "forskrift",
+      "embedding_hash": "6470765ce112132a14261971ea4411342b4106636099fdcb68ed23cd1874e992",
+      "embedding_input_hash": "03a5de2e0239346f76ee0c74ce85e8947709a0d651dd747806da609c03cbb19b",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-02",
+      "last_seen": "2026-09-02T08:43:30.266827Z",
+      "markdown_path": "forskrifter/midlertidig-forskrift-om-midlertidig-innførsel-og-utførsel-av-varer-i-forbindelse-med-kongelig-gravferd.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "midlertidig-forskrift-om-midlertidig-innførsel-og-utførsel-av-varer-i-forbindelse-med-kongelig-gravferd",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Midlertidig forskrift om midlertidig innførsel og utførsel av varer i forbindelse med kongelig gravferd",
+      "total_changes": 1,
+      "xml_hash": "6470765ce112132a14261971ea4411342b4106636099fdcb68ed23cd1874e992"
     }
   },
-  "generated_at": "2026-09-01T09:21:21.266839Z",
+  "generated_at": "2026-09-02T08:43:30.266827Z",
   "version": 1
 }

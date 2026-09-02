@@ -2,6 +2,16 @@
   "doc_id": "sf-20041223-1851",
   "events": [
     {
+      "commit": "578c732",
+      "date": "2026-09-02",
+      "from_path": null,
+      "lines_added": 15,
+      "lines_removed": 13,
+      "subject": "update(forskrift): klimakvoteforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

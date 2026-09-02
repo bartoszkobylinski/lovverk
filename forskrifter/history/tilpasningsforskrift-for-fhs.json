@@ -2,6 +2,16 @@
   "doc_id": "sf-20260821-1658",
   "events": [
     {
+      "commit": "17c70c0",
+      "date": "2026-09-02",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 2,
+      "subject": "update(forskrift): tilpasningsforskrift-for-fhs",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5de6b49",
       "date": "2026-08-25",
       "from_path": null,

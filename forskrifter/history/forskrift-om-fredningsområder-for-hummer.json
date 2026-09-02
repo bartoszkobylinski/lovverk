@@ -2,6 +2,16 @@
   "doc_id": "sf-20060706-0883",
   "events": [
     {
+      "commit": "6afd6b9",
+      "date": "2026-09-02",
+      "from_path": null,
+      "lines_added": 23,
+      "lines_removed": 25,
+      "subject": "update(forskrift): forskrift-om-fredningsområder-for-hummer",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

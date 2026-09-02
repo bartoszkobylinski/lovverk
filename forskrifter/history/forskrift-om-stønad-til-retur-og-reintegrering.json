@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260713-1702",
+  "events": [
+    {
+      "commit": "5ecdb19",
+      "date": "2026-09-02",
+      "from_path": null,
+      "lines_added": 108,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-stønad-til-retur-og-reintegrering",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-stønad-til-retur-og-reintegrering"
+}

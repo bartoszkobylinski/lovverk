@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fangst-av-kongekrabbe-i-kvoteregulert-område-øst-for-26-grader-øst-mv-i-2026 — Change history
 
-_3 events; doc_id `sf-20251219-2809`._
+_4 events; doc_id `sf-20251219-2809`._
+
+## 2026-09-02 — Content updated
+Lines: +10 -7.
+Subject: `update(forskrift): forskrift-om-regulering-av-fangst-av-kongekrabbe-i-kvoteregulert-område-øst-for-26-grader-øst-mv-i-2026`
+Commit: `0af4f71`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

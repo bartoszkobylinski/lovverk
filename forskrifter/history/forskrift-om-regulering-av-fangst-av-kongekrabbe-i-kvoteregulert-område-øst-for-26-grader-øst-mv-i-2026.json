@@ -2,6 +2,16 @@
   "doc_id": "sf-20251219-2809",
   "events": [
     {
+      "commit": "0af4f71",
+      "date": "2026-09-02",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-regulering-av-fangst-av-kongekrabbe-i-kvoteregulert-område-øst-for-26-grader-øst-mv-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,
