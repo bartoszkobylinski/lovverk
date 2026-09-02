@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-08-01"
 last_change_in_force: "2026-09-01"
 last_updated: "2021-06-29"
-xml_hash: "77df4b214cef77f0567c51f139bc2280fd1ec5e5555845e545846e244c6fb774"
+xml_hash: "9172f80873e48d47119553012d21ec78986978e1ba26008d7ed24f76b2cfbfeb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-01T09:21:21.266839+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -245,7 +245,7 @@ Opptakskravene i dette kapittel er fastsatt med hjemmel i [universitets- og høy
 4. Søkere plikter å vedlegge to anbefalingsbrev, hvorav ett skal være fra nåværende arbeidsgiver, om mulig.
 5. Alle kvalifiserte søkere vil bli intervjuet som en del av opptaksprosessen.
 
-> Endret ved forskrifter [18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025). [15 juni 2026 nr. 1110](forskrift/2026-06-15-1110), [28 april 2026 nr. 737](forskrift/2026-04-28-737) (i kraft 1 sep 2026).
+> Endret ved forskrifter [18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025), [15 juni 2026 nr. 1110](forskrift/2026-06-15-1110), [28 april 2026 nr. 737](forskrift/2026-04-28-737) (i kraft 1 sep 2026).
 
 ### § 2-7. Opptakskrav til ph.d.-studier
 
