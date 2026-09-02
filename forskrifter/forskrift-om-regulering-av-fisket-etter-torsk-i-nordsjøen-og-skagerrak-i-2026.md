@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-26"
+last_change_in_force: "2026-08-27"
 last_updated: null
-xml_hash: "ff15709eeaeb8ce8eb404eb2ae9ef8098893168a36b854d9a7545e7b9aa12c5a"
+xml_hash: "403a5a6f69cc2f7dac5a71253aafede6ce9450861ded2a671de6f76f6186db40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,9 +47,9 @@ Fartøy med adgang til å delta i lukket gruppe i fisket etter torsk med konvens
 
 | *Fartøyets hjemmelslengde:* | *Garanterte kvoter (tonn)* | *Maksimalkvote (tonn)* |
 | --- | --- | --- |
-| 0–14,99 meter | 2 | 6 |
-| 15,00–20,99 meter | 4 | 12 |
-| på eller over 21,00 meter | 8 | 24 |
+| 0–14,99 meter | 2 | 10 |
+| 15,00–20,99 | 4 | 20 |
+| på eller over 21,00 meter | 8 | 40 |
 
 Fartøy med adgang til å delta i åpen gruppe i fisket etter torsk for fartøy med mindre enn 500m3 lasteromvolum som fisker med konvensjonelle redskap i Nordsjøen, kan maksimalt fiske og lande følgende kvanta torsk i Nordsjøen:
 
@@ -61,7 +61,7 @@ Fartøy med adgang til å delta i åpen gruppe i fisket etter torsk for fartøy 
 
 Fartøy som i 2004 fikk dispensasjon fra forbudet mot å fiske direkte etter torsk i Skagerrak utenfor grunnlinjene, kan maksimalt fiske og lande 3 tonn torsk i Skagerrak utenfor grunnlinjene. Andre fartøy med største lengde under 11 meter, kan i perioden fra og med 1. april til og med 30. juni maksimalt fiske og lande 3 tonn torsk med juksa i Skagerrak utenfor grunnlinjene dersom eier/høvedsmann er registrert på blad B i fiskermanntallet og fartøyet ikke har adgang til å delta i lukket gruppe i fisket etter torsk med konvensjonelle redskap i Nordsjøen.
 
-> Endret ved forskrift [26 juni 2026 nr. 1451](forskrift/2026-06-26-1451).
+> Endret ved forskrifter [26 juni 2026 nr. 1451](forskrift/2026-06-26-1451), [27 aug 2026 nr. 1705](forskrift/2026-08-27-1705).
 
 ## § 5. Bifangst
 
