@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2005-01-01"
-last_change_in_force: "2026-04-08"
+last_change_in_force: "2026-08-28"
 last_updated: "2023-08-07"
-xml_hash: "64879b2b8f7b017fec1dd358e84286cc31b4cc75b43f899e016ea9f08b28f5a6"
+xml_hash: "12e02015acb6c88bc9d3b55c9bf43c9ce791a65c61f9ced241869c3dc3a10095"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -465,18 +465,20 @@ Kapitlet opphevet ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265
 
 ### § 4-1. (forordninger og beslutninger om tildeling av vederlagsfrie kvoter for perioden 2021–2030)
 
-Følgende forordninger og beslutninger inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) gjelder som forskrift:
+Følgende forordninger og beslutninger inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) gjelder som forskrift:
 
-1. forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 (tildelingsforordningen), jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21all, med endringene som følger av forordning [(EU) 2024/873](eu/32024r0873)
-2. beslutning [(EU) 2019/708](eu/32019d0708) om sektorer utsatt for karbonlekkasje for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alm
-3. forordning [(EU) 2019/1842](eu/32019r1842) om justering av tildeling av vederlagsfrie kvoter for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21apl
-4. forordning [(EU) 2021/447](eu/32021r0447) om reviderte utslippsstandarder for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alo
-5. beslutning [(EU) 2021/927](eu/32021d0927) om fastsettelsen av en felleseuropeisk korreksjonsfaktor om justering av vederlagsfri tildeling av klimakvoter for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alp
-6. forordning [(EU) 2023/2441](eu/32023r2441) om innhold i og format av klimanøytralitetsplaner, jf. [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alx.
+1. forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 (tildelingsforordningen), jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21all, med endringene som følger av forordning [(EU) 2024/873](eu/32024r0873)
+2. beslutning [(EU) 2019/708](eu/32019d0708) om sektorer utsatt for karbonlekkasje for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alm
+3. forordning [(EU) 2019/1842](eu/32019r1842) om justering av tildeling av vederlagsfrie kvoter for perioden 2021–2030, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21apl
+4. forordning [(EU) 2026/1412](eu/32026r1412) om reviderte utslippsstandarder for perioden 2026–2030, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alzb
+5. forordning [(EU) 2021/447](eu/32021r0447) om reviderte utslippsstandarder for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alo, med endringene som følger av forordning [(EU) 2026/389](eu/32026r0389)
+6. beslutning [(EU) 2026/1862](eu/32026d1862) om fastsettelsen av en felleseuropeisk korreksjonsfaktor om justering av vederlagsfri tildeling av klimakvoter for perioden 2026–2030, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alzc
+7. beslutning [(EU) 2021/927](eu/32021d0927) om fastsettelsen av en felleseuropeisk korreksjonsfaktor om justering av vederlagsfri tildeling av klimakvoter for perioden 2021–2025, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alp
+8. forordning [(EU) 2023/2441](eu/32023r2441) om innhold i og format av klimanøytralitetsplaner, jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alx.
 
 Forordningene og beslutningene gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [9 feb 2021 nr. 405](forskrift/2021-02-09-405), endret ved forskrifter [14 sep 2021 nr. 2748](forskrift/2021-09-14-2748), [5 nov 2021 nr. 3152](forskrift/2021-11-05-3152), [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360).
+> Tilføyd ved forskrift [9 feb 2021 nr. 405](forskrift/2021-02-09-405), endret ved forskrifter [14 sep 2021 nr. 2748](forskrift/2021-09-14-2748), [5 nov 2021 nr. 3152](forskrift/2021-11-05-3152), [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360), [28 aug 2026 nr. 1706](forskrift/2026-08-28-1706).
 
 ### § 4-2. (rammer for tildeling av vederlagsfrie klimakvoter)
 
@@ -617,9 +619,9 @@ Dersom anleggsoperatøren ikke leverer tilbake overutdelte kvoter, skal tilsvare
 
 Dersom det foreligger feil i vedtak om tildeling etter dette kapitlet, kan klimakvotemyndigheten bestemme at kvotene først deles ut når vedtaket er omgjort i henhold til [§ 4-12](forskrift/2004-12-23-1851/§4-12).
 
-Dersom det er uavklart om et anlegg skal ha justering i tildeling etter forordning [(EU) 2019/1842](eu/32019r1842), kan klimakvotemyndigheten i henhold til forordning [(EU) 2019/1842](eu/32019r1842) [artikkel 3 nr. 3](eu/32019r1842/a3/nummer/3) bestemme at registermyndigheten ikke skal dele ut kvotene innen fristen i [§ 7-3](forskrift/2004-12-23-1851/§7-3).
+Dersom det er uavklart om et anlegg skal ha justering i tildeling etter forordning [(EU) 2019/1842](eu/32019r1842), kan klimakvotemyndigheten i henhold til forordning [(EU) 2019/1842](eu/32019r1842) artikkel 3 nr. 3 bestemme at registermyndigheten ikke skal dele ut kvotene innen fristen i [§ 7-5](forskrift/2004-12-23-1851/§7-5).
 
-> Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrift [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360).
+> Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrifter [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360), [28 aug 2026 nr. 1706](forskrift/2026-08-28-1706).
 
 ### Kapittel 5. (Opphevet)
 
