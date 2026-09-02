@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-08-14"
+last_change_in_force: "2026-08-25"
 last_updated: null
-xml_hash: "9438f4f32ab6097d91c7fd8a98450e60bbcebe58989268483de9e34835252f14"
+xml_hash: "b56964198984804ddf9681844db0a1fea18bc409c1ea09d98cba6350d3cb03aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-21T04:48:37.993337+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,11 +54,11 @@ Fartøy med adgang til å fiske sei med konvensjonelle redskap kan maksimalt fis
 
 ## § 5. Maksimalkvote for fartøy med torsketråltillatelse
 
-Fartøy med torsketråltillatelse og som er registrert som fabrikktrålere kan maksimalt fiske og lande inntil 1 050 tonn.
+Fartøy med torsketråltillatelse og som er registrert som fabrikktrålere kan maksimalt fiske og lande inntil 1 400 tonn.
 
-Fartøy med torsketråltillatelse som er registrert som ferskfisk- og rundfrystrålere eller småtrålere kan maksimalt fiske og lande inntil 750 tonn.
+Fartøy med torsketråltillatelse som er registrert som ferskfisk- og rundfrystrålere eller småtrålere kan maksimalt fiske og lande inntil 1 000 tonn.
 
-> Endret ved forskrift [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452).
+> Endret ved forskrifter [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452), [25 aug 2026 nr. 1704](forskrift/2026-08-25-1704).
 
 ## § 6. Maksimalkvote for fartøy med seitråltillatelse
 
