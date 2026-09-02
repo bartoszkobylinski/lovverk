@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-09-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "f3bf7c09b1f163109e574d1b9e16d16012d30573bc9bbe2b83ab55316de4230a"
+xml_hash: "cecb46bc68d4d55733d7aaf22a681a7b5dd6d589dedf28e6bb49a2acb4b21253"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-25T04:48:31.682233+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,6 +86,8 @@ Plikten til å registrere vedtak om reaksjoner overfor studenter og søkere ette
 I krig eller når krig truer, eller ved styrkeoppbygging etter [forsvarsloven](lov/2016-08-12-77), og dersom det er nødvendig, kan forsvarssjefen bestemme at det gjøres unntak fra deler av [universitets- og høyskoleloven](lov/2024-03-08-9) for Forsvarets høgskole. Kvalitetskravene til en akkreditert høyskole skal oppfylles så langt det er mulig.
 
 ## Kapittel 3. Særlige regler om opptak til Forsvarets høgskole
+
+> Se [§ 6-1](forskrift/2026-08-21-1658/§6-1) for opptaksreglenes virkningstidspunkt.
 
 ### § 3-1. Unntak fra samordnet opptak
 
