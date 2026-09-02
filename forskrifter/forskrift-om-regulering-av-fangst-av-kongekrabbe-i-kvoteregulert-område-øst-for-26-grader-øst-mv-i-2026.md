@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-01-29"
+last_change_in_force: "2026-08-28"
 last_updated: null
-xml_hash: "ed23d22bf0a86e5da46e609b26227007c18f2f463ef1173b42ad137d163307a7"
+xml_hash: "bc721f1362fe4d9c51fda711823c7ad92ca2256595505728e1de8dbc67c18b48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -176,14 +176,17 @@ Det er forbudt å drive fangst av kongekrabbe og lagre kongekrabbeteiner i sjøe
 
 Det er forbudt å drive fangst av kongekrabbe med teiner i sjøen i følgende deler av kvoteregulert område og periode:
 
-1. i Porsangerfjorden, avgrenset i vest av en linje mellom 70° 55,96′ N og 25° 32,81′ Ø og 70° 55,82′ N 25° 30,46′ Ø (grensen for kvoteregulert område), i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i øst av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 26. september til og med 2. oktober.
-2. i Laksefjorden, avgrenset i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i vest av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 22. september til og med 26. september.
-3. i Tanafjorden, avgrenset i nord av en rett linje mellom fyrlykten på Omgangsneset og fyrlykten på Skarveneset ved Tanahorn, fra og med 19. september til og med 22. september.
-4. i Varanger, avgrenset i øst av grensen mot russisk sone og i nord av en øst-vest-gående linje langs 70° 23′ N, fra og med 14. september til og med 19. september.
+1. i Porsangerfjorden, avgrenset i vest av en linje mellom 70° 55,96′ N og 25° 32,81′ Ø og 70° 55,82′ N 25° 30,46′ Ø (grensen for kvoteregulert område), i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i øst av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 9. september til og med 12. september og fra og med 26. september til og med 29. september.
+2. i Laksefjorden, avgrenset i nord av en rett linje mellom Helnes fyr og Kjøllefjordneset (71° 01′ N) og i vest av en nordgående linje fra Sværholtklubben (70° 58,2′ N og 26° 41,3′ Ø), fra og med 23. september til og med 25. september.
+3. i Tanafjorden, avgrenset i nord av en rett linje mellom fyrlykten på Omgangsneset og fyrlykten på Skarveneset ved Tanahorn, fra og med 21. september til og med 22. september.
+4. i Varanger, avgrenset i øst av grensen mot russisk sone og i nord av en øst-vest-gående linje langs 70° 23′ N, fra og med 14. september til og med 20. september.
+5. i Østhavet, avgrenset i sør av en øst-vest-gående linje langs 70° 23′ N, i vest av en nordgående linje fra 71° 08′ N og 27° 39,6′ Ø (Kinnarodden) og av en rett linje mellom fyrlykten på Omgangsneset og fyrlykten på Skarveneset ved Tanahorn, fra og med 20. september til og med 21. september.
 
 Det er forbudt å ha andre teiner i farvann dypere enn 100 meter ved stenging av deler av kvoteregulert område etter andre ledd.
 
 Forbud gitt i medhold av andre ledd gjelder ikke for foretak med tillatelse til fangst av kongekrabbe i turistfisket eller for samleteiner, dersom teinene eller samleteinene i forbudsperioden settes på grunnere farvann enn 50 meters dyp.
+
+> Endret ved forskrift [28 aug 2026 nr. 1707](forskrift/2026-08-28-1707).
 
 ## § 16. Bemyndigelse
 
