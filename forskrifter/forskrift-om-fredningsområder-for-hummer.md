@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2006-07-06"
-last_change_in_force: "2025-12-18"
+last_change_in_force: "2026-08-18"
 last_updated: null
-xml_hash: "a825c6220f329076f5bae688f5d262fa9dc6983d7f9a0c39d724eb95298a6817"
+xml_hash: "82c51c5ac6c689eb04a6749dd0f0a1b90ed9727dfd40135228f337e17b7cbaf6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-02T08:43:30.266827+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -546,35 +546,33 @@ Mellom det første og det sjette punktet følger grensen sjølinjen.
 
 Mellom det første og det andre punktet følger grensen sjølinjen.
 
-> Endret ved [forskrifter 19 sep 2006 nr. 1082](forskrift/2006-09-19-1082), [28 sep 2015 nr. 1105](forskrift/2015-09-28-1105) (i kraft 1 okt 2015), [9 sep 2016 nr. 1087](forskrift/2016-09-09-1087) (i kraft 1 okt 2016), [19 sep 2017 nr. 1438](forskrift/2017-09-19-1438) (i kraft 1 okt 2017), [27 sep 2018 nr. 1534](forskrift/2018-09-27-1534) (i kraft 1 okt 2018), [12 sep 2019 nr. 1275](forskrift/2019-09-12-1275) (i kraft 1 okt 2019), [12 sep 2020 nr. 1801](forskrift/2020-09-12-1801) (i kraft 1 okt 2020), [24 sep 2021 nr. 2891](forskrift/2021-09-24-2891) (i kraft 1 okt 2021), [16 sep 2022 nr. 1590](forskrift/2022-09-16-1590) (i kraft 1 okt 2022), [28 sep 2023 nr. 1539](forskrift/2023-09-28-1539) (i kraft 1 okt 2023), [11 des 2023 nr. 1999](forskrift/2023-12-11-1999), [26 sep 2024 nr. 2302](forskrift/2024-09-26-2302) (i kraft 1 okt 2024), [2 juli 2025 nr. 1440](forskrift/2025-07-02-1440), [26 sep 2025 nr. 1944](forskrift/2025-09-26-1944).
-
-## § 1a.
-
-Fra og med 2. juli 2025 til og med 31. desember 2026 er det forbudt å fiske med andre redskaper enn håndsnøre, fiskestang, juksa og dorg i områdene avgrenset av følgende posisjoner (jf. kartvedlegg):
-
 | *Tvedestrandsfjorden* |  |  |  |
 | --- | --- | --- | --- |
-| 58° 35′ 26,099″ N | 8° 56′ 40,621″ Ø | 58° 35,435′ N | 8° 56,677′ Ø |
-| 58° 35′ 25,681″ N | 8° 56′ 41,579″ Ø | 58° 35,428′ N | 8° 56,693′ Ø |
-| 58° 35′ 44,099″ N | 8° 58′ 5,459″ Ø | 58° 35,735′ N | 8° 58,091′ Ø |
-| 58° 35′ 27,960″ N | 8° 58′ 28,261″ Ø | 58° 35,466′ N | 8° 58,471′ Ø |
+| 58° 35′ 26.099″ N | 8° 56′ 40.621″ Ø | 58° 35,435′ N | 8° 56,677′ Ø |
+| 58° 35′ 25.681″ N | 8° 56′ 41.579″ Ø | 58° 35,428′ N | 8° 56,693′ Ø |
+| 58° 35′ 44.099″ N | 8° 58′ 05.459″ Ø | 58° 35,735′ N | 8° 58,091′ Ø |
+| 58° 35′ 27.960″ N | 8° 58′ 28.261″ Ø | 58° 35,466′ N | 8° 58,471′ Ø |
 
 Mellom det første og fjerde punktet samt mellom det andre og tredje punktet følger grensen sjølinjen.
 
 | *Askerøya i Tvedestrand kommune* |  |  |  |
 | --- | --- | --- | --- |
-| 58° 37′ 21,660″ N | 9° 07′ 21,420″ Ø | 58° 37,361′ N | 9° 07,357′ Ø |
-| 58° 37′ 05,040″ N | 9° 07′ 45,720″ Ø | 58° 37,084′ N | 9° 07,762′ Ø |
-| 58° 36′ 05,880″ N | 9° 09′ 10,620″ Ø | 58° 36,098′ N | 9° 09,177′ Ø |
-| 58° 35′ 29,520″ N | 9° 08′ 08,640″ Ø | 58° 35,492′ N | 9° 08,144′ Ø |
-| 58° 36′ 38,880″ N | 9° 05′ 59,640″ Ø | 58° 36,648′ N | 9° 05,994′ Ø |
-| 58° 36′ 47,700″ N | 9° 05′ 43,140″ Ø | 58° 36,795′ N | 9° 05,719′ Ø |
-| 58° 36′ 51,480″ N | 9° 05′ 55,920″ Ø | 58° 36,858′ N | 9° 05,932′ Ø |
-| 58° 36′ 52,320″ N | 9° 05′ 57,240″ Ø | 58° 36,872′ N | 9° 05,954′ Ø |
-| 58° 37′ 10,560″ N | 9° 07′ 06,780″ Ø | 58° 37,176′ N | 9° 07,113′ Ø |
-| 58° 37′ 14,100″ N | 9° 07′ 08,700″ Ø | 58° 37,235′ N | 9° 07,145′ Ø |
+| 58° 37′ 21.660″ N | 9° 07′ 21.420″ Ø | 58° 37,361′ N | 9° 07,357′ Ø |
+| 58° 37′ 05.040″ N | 9° 07′ 45.720″ Ø | 58° 37,084′ N | 9° 07,762′ Ø |
+| 58° 36′ 05.880″ N | 9° 09′ 10.620″ Ø | 58° 36,098′ N | 9° 09,177′ Ø |
+| 58° 35′ 29.520″ N | 9° 08′ 08.640″ Ø | 58° 35,492′ N | 9° 08,144′ Ø |
+| 58° 36′ 38.880″ N | 9° 05′ 59.640″ Ø | 58° 36,648′ N | 9° 05,994′ Ø |
+| 58° 36′ 47.700″ N | 9° 05′ 43.140″ Ø | 58° 36,795′ N | 9° 05,719′ Ø |
+| 58° 36′ 51.480″ N | 9° 05′ 55.920″ Ø | 58° 36,858′ N | 9° 05,932′ Ø |
+| 58° 36′ 52.320″ N | 9° 05′ 57.240″ Ø | 58° 36,872′ N | 9° 05,954′ Ø |
+| 58° 37′ 10.560″ N | 9° 07′ 06.780″ Ø | 58° 37,176′ N | 9° 07,113′ Ø |
+| 58° 37′ 14.100″ N | 9° 07′ 08.700″ Ø | 58° 37,235′ N | 9° 07,145′ Ø |
 
-> Tilføyd ved forskrift [7 mai 2024 nr. 748](forskrift/2024-05-07-748), endret ved forskrifter [2 juli 2025 nr. 1440](forskrift/2025-07-02-1440), [18 des 2025 nr. 2797](forskrift/2025-12-18-2797).
+> Endret ved [forskrifter 19 sep 2006 nr. 1082](forskrift/2006-09-19-1082), [28 sep 2015 nr. 1105](forskrift/2015-09-28-1105) (i kraft 1 okt 2015), [9 sep 2016 nr. 1087](forskrift/2016-09-09-1087) (i kraft 1 okt 2016), [19 sep 2017 nr. 1438](forskrift/2017-09-19-1438) (i kraft 1 okt 2017), [27 sep 2018 nr. 1534](forskrift/2018-09-27-1534) (i kraft 1 okt 2018), [12 sep 2019 nr. 1275](forskrift/2019-09-12-1275) (i kraft 1 okt 2019), [12 sep 2020 nr. 1801](forskrift/2020-09-12-1801) (i kraft 1 okt 2020), [24 sep 2021 nr. 2891](forskrift/2021-09-24-2891) (i kraft 1 okt 2021), [16 sep 2022 nr. 1590](forskrift/2022-09-16-1590) (i kraft 1 okt 2022), [28 sep 2023 nr. 1539](forskrift/2023-09-28-1539) (i kraft 1 okt 2023), [11 des 2023 nr. 1999](forskrift/2023-12-11-1999), [26 sep 2024 nr. 2302](forskrift/2024-09-26-2302) (i kraft 1 okt 2024), [2 juli 2025 nr. 1440](forskrift/2025-07-02-1440), [26 sep 2025 nr. 1944](forskrift/2025-09-26-1944), [18 aug 2026 nr. 1703](forskrift/2026-08-18-1703).
+
+## § 1a. (Opphevet)
+
+> Tilføyd ved forskrift [7 mai 2024 nr. 748](forskrift/2024-05-07-748), endret ved forskrifter [2 juli 2025 nr. 1440](forskrift/2025-07-02-1440), [18 des 2025 nr. 2797](forskrift/2025-12-18-2797), opphevet ved forskrift [18 aug 2026 nr. 1703](forskrift/2026-08-18-1703).
 
 ## § 2.
 
