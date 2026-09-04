@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-09-01"
+last_change_in_force: "2026-09-03"
 last_updated: "2024-07-30"
-xml_hash: "c48160848d81f6c7f31c189ce16d4e5c585dab4a3065c6a962c23bc031ad7a93"
+xml_hash: "2d39b582534267457c878e29393849bd123c342dd183a97778d048fdcb3175b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-01T09:21:21.266839+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2209,13 +2209,15 @@ Innkjøpsprovisjon skal ikke inngå i tollverdien fastsatt etter [tolloven § 6-
 
 ### § 6-12. Omregningskurs
 
-### § 6-12-1. Omregningskurs
+### § 6-12-1. Omregningskurs for valuta
 
-(1) Tollmyndighetene fastsetter hver onsdag omregningskurser for ulike valutaer basert på Norges Banks indikative markedskurser. Kursene publiseres på [www.toll.no](https://www.toll.no/) og er gyldige fra og med påfølgende mandag.
+(1) Til bruk ved fastsettelse av tollverdi fastsetter tollmyndighetene annenhver tirsdag omregningskurser for de mest benyttede valutaer basert på Norges Banks indikative markedskurser fra nærmest foregående virkedag. Kursene gjelder for to uker (14 dager) fra og med tredje påfølgende torsdag etter fastsettelse. Fastsatte kurser skal publiseres på [www.toll.no](https://www.toll.no/). For øvrige valutaer skal det ved fastsettelse av tollverdi benyttes Norges Banks daglige markedskurser omregnet til norske kroner.
 
-(2) Ved omregning av valuta skal tidspunktet for fastsettelse av tollavgiftssats i [tollavgiftsloven § 2-2](lov/2022-03-11-8/§2-2) anvendes.
+(2) Dersom en valutas fastsatte omregningskurs i gyldighetsperioden avviker mer enn fem prosent fra Norges Banks daglige markedskurs for to påfølgende dager, skal den fastsatte omregningskursen suspenderes med virkning fra den påfølgende dagen og for resterende gyldighetsperiode. Suspensjon av fastsatt omregningskurs publiseres på [www.toll.no](https://www.toll.no/). Tollmyndighetene kan fastsette nærmere retningslinjer for overvåking av omregningskurser og for administrasjon, iverksetting og anvendelse av avviksordningen.
 
-> **Endres** ved forskrift [21 aug 2026 nr. 1661](forskrift/2026-08-21-1661) (i kraft 3 sep 2026).
+(3) Ved omregning av valuta skal tidspunktet for tidfesting av tollavgiftssats i [tollavgiftsloven § 2-2](lov/2022-03-11-8/§2-2) anvendes.
+
+> Endret ved forskrift [21 aug 2026 nr. 1661](forskrift/2026-08-21-1661) (i kraft 3 sep 2026).
 
 ## Kapittel 7. Særlige forvaltningsregler
 
