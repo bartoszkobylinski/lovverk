@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vareførselsforskriften — Change history
 
-_9 events; doc_id `sf-20221027-1901`._
+_10 events; doc_id `sf-20221027-1901`._
+
+## 2026-09-04 — Content updated
+Lines: +9 -7.
+Subject: `update(forskrift): vareførselsforskriften`
+Commit: `34b23d1`.
 
 ## 2026-09-01 — Content updated
 Lines: +22 -21.

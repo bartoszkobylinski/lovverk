@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # enhetsregisterloven — Change history
 
-_6 events; doc_id `nl-20250620-105`._
+_7 events; doc_id `nl-20250620-105`._
+
+## 2026-09-04 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): enhetsregisterloven`
+Commit: `d4fc73a`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -3.

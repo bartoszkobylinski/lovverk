@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan — Change history
 
-_3 events; doc_id `sf-20060602-0573`._
+_4 events; doc_id `sf-20060602-0573`._
+
+## 2026-09-04 — Content updated
+Lines: +12 -4.
+Subject: `update(forskrift): forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan`
+Commit: `44ea5a5`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

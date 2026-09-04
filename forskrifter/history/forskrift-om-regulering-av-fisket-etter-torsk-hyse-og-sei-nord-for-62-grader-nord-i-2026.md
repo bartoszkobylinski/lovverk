@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026 — Change history
 
-_6 events; doc_id `sf-20251219-2826`._
+_7 events; doc_id `sf-20251219-2826`._
+
+## 2026-09-04 — Content updated
+Lines: +25 -25.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026`
+Commit: `50894ae`.
 
 ## 2026-06-09 — Content updated
 Lines: +6 -6.

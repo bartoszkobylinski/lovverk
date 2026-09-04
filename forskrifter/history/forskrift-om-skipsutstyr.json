@@ -2,6 +2,16 @@
   "doc_id": "sf-20160830-1042",
   "events": [
     {
+      "commit": "d2876f0",
+      "date": "2026-09-04",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-skipsutstyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "29942ea",
       "date": "2026-07-03",
       "from_path": null,

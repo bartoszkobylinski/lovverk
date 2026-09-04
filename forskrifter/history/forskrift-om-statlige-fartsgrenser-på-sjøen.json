@@ -2,6 +2,16 @@
   "doc_id": "sf-20211216-3622",
   "events": [
     {
+      "commit": "7f7a907",
+      "date": "2026-09-04",
+      "from_path": null,
+      "lines_added": 66,
+      "lines_removed": 20,
+      "subject": "update(forskrift): forskrift-om-statlige-fartsgrenser-på-sjøen",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

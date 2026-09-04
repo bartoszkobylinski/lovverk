@@ -13972,13 +13972,13 @@
     },
     "nl-20250620-105": {
       "doc_type": "lov",
-      "embedding_hash": "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db",
-      "embedding_input_hash": "1eb2506ba54e475f51f74e5e369c6cbd86bab0f016a38f19b417ce83db7a1c9b",
+      "embedding_hash": "05f3b22815078959c2fe94c563213c348e9d53890f4dcdb9067f7d00c401d78f",
+      "embedding_input_hash": "7d141e9e4936e8d31069d46671cc4b0676584e3c761f53be7d1148274d21e981",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "lover/enhetsregisterloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13986,8 +13986,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Enhetsregisteret (enhetsregisterloven)",
-      "total_changes": 6,
-      "xml_hash": "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
+      "total_changes": 7,
+      "xml_hash": "05f3b22815078959c2fe94c563213c348e9d53890f4dcdb9067f7d00c401d78f"
     },
     "nl-20250620-106": {
       "doc_type": "lov",
@@ -51081,13 +51081,13 @@
     },
     "sf-20060602-0573": {
       "doc_type": "forskrift",
-      "embedding_hash": "bcf18924ea3b78eb62ac80356d3c163b1c70654a1de59aa672865d1ec5751763",
-      "embedding_input_hash": "9da6625462018cf4168d1b68a3f51bcad70bac1d6c08c540eaba33dd70d5644e",
+      "embedding_hash": "111cdb832ba14eccc5707a7dc5cd51a023a4ad28a6e08a297e8414835d938c1f",
+      "embedding_input_hash": "af7e228addbbcc4716d8431257a73eb1d8e01eab00f0d609ead56f8693a3323d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "forskrifter/forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -51095,8 +51095,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak i lys av situasjonen i Sudan",
-      "total_changes": 3,
-      "xml_hash": "bcf18924ea3b78eb62ac80356d3c163b1c70654a1de59aa672865d1ec5751763"
+      "total_changes": 4,
+      "xml_hash": "111cdb832ba14eccc5707a7dc5cd51a023a4ad28a6e08a297e8414835d938c1f"
     },
     "sf-20060607-0593": {
       "doc_type": "forskrift",
@@ -58149,13 +58149,13 @@
     },
     "sf-20091015-1286": {
       "doc_type": "forskrift",
-      "embedding_hash": "4bf4b290a269e9d5b20a26abaaabbef58dcb4960192d2bfae7b637b77823f7ee",
-      "embedding_input_hash": "38853c0d19607f4c5799651e66b7f542d8da6975b5083d00c76c3f09c99dc9b4",
+      "embedding_hash": "06dfd264bc0d6df0e699d2d1d2e803f4aa4f05f946f279cb5f013a063cc7464f",
+      "embedding_input_hash": "0afd8b4c919bb224161d178c5bba8cd9fe23cfa746be5f05d759f4f9c469cdfe",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-01",
-      "last_seen": "2026-09-01T09:21:21.266839Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58163,8 +58163,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 13,
-      "xml_hash": "4bf4b290a269e9d5b20a26abaaabbef58dcb4960192d2bfae7b637b77823f7ee"
+      "total_changes": 14,
+      "xml_hash": "06dfd264bc0d6df0e699d2d1d2e803f4aa4f05f946f279cb5f013a063cc7464f"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -75401,13 +75401,13 @@
     },
     "sf-20160830-1042": {
       "doc_type": "forskrift",
-      "embedding_hash": "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028",
-      "embedding_input_hash": "75e4335c0ef265029b24155f03700798c68b4f3cbb24404449901c8f7c5e044c",
+      "embedding_hash": "8ac953996cbe42c6ae3b334605625cca2a607bcab8434db5f24ff6514423dc4e",
+      "embedding_input_hash": "0817ed5320f77528f6b94c54e6ca2f68b7edf42e866a0f0d06ada575f6404088",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-03",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "forskrifter/forskrift-om-skipsutstyr.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -75415,8 +75415,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om skipsutstyr",
-      "total_changes": 4,
-      "xml_hash": "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028"
+      "total_changes": 5,
+      "xml_hash": "8ac953996cbe42c6ae3b334605625cca2a607bcab8434db5f24ff6514423dc4e"
     },
     "sf-20160905-1035": {
       "doc_type": "forskrift",
@@ -92596,13 +92596,13 @@
     },
     "sf-20211216-3622": {
       "doc_type": "forskrift",
-      "embedding_hash": "bad0d1c28f0d295d3829860445de86fce8d814b996752116bc2cddd9defc6d80",
-      "embedding_input_hash": "5c9d7d6fd8be39c4e806f2f4c12f581bc7e1c8b72a14af8ff1949b8a9a3592bb",
+      "embedding_hash": "d93087d4929e33e89a6df5c8506d7edb1e059b426baf41000b7f2af5a3a66c67",
+      "embedding_input_hash": "12c1a9c601604f6a4259a4dc12c548e040b74fdf6232668078ae0ec6be656b72",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "forskrifter/forskrift-om-statlige-fartsgrenser-på-sjøen.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -92610,8 +92610,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om statlige fartsgrenser på sjøen",
-      "total_changes": 3,
-      "xml_hash": "bad0d1c28f0d295d3829860445de86fce8d814b996752116bc2cddd9defc6d80"
+      "total_changes": 4,
+      "xml_hash": "d93087d4929e33e89a6df5c8506d7edb1e059b426baf41000b7f2af5a3a66c67"
     },
     "sf-20211216-3738": {
       "doc_type": "forskrift",
@@ -95636,13 +95636,13 @@
     },
     "sf-20221027-1901": {
       "doc_type": "forskrift",
-      "embedding_hash": "c48160848d81f6c7f31c189ce16d4e5c585dab4a3065c6a962c23bc031ad7a93",
-      "embedding_input_hash": "d7986f329325220259277f29026681b47efd28194bb49945ed9dbbb1b6177856",
+      "embedding_hash": "2d39b582534267457c878e29393849bd123c342dd183a97778d048fdcb3175b7",
+      "embedding_input_hash": "7bcf3c3faf9df16b290dd6dde6dd8f7752d975f6a7d003475db40d0a168ce43c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-01",
-      "last_seen": "2026-09-01T09:21:21.266839Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "forskrifter/vareførselsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -95650,8 +95650,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om inn- og utførsel av varer (vareførselsforskriften)",
-      "total_changes": 9,
-      "xml_hash": "c48160848d81f6c7f31c189ce16d4e5c585dab4a3065c6a962c23bc031ad7a93"
+      "total_changes": 10,
+      "xml_hash": "2d39b582534267457c878e29393849bd123c342dd183a97778d048fdcb3175b7"
     },
     "sf-20221027-1938": {
       "doc_type": "forskrift",
@@ -109335,13 +109335,13 @@
     },
     "sf-20251219-2826": {
       "doc_type": "forskrift",
-      "embedding_hash": "1672acfb364f707b2b3858c37d41cdef59c765e53d715c97901a682bf2ea7661",
-      "embedding_input_hash": "b55f0c9e479277739b1eca3a04ca59967fef4fea79ba1660fea2c956d487b9f3",
+      "embedding_hash": "8875c0a0a4c5681f32af610ade8756c6cc46cbb4f759384109dfaf85c893a3ba",
+      "embedding_input_hash": "2843a5e9cc40475467c09797f96f90bfd0de96244104c2340853db8584e25a5a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-09",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109349,8 +109349,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026",
-      "total_changes": 6,
-      "xml_hash": "1672acfb364f707b2b3858c37d41cdef59c765e53d715c97901a682bf2ea7661"
+      "total_changes": 7,
+      "xml_hash": "8875c0a0a4c5681f32af610ade8756c6cc46cbb4f759384109dfaf85c893a3ba"
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
@@ -113230,21 +113230,21 @@
     },
     "sf-20260821-1661": {
       "doc_type": "forskrift",
-      "embedding_hash": "27c8bb6301ea26640fe502c4194349403af3cf3c1b49c481067527d423ba68d5",
-      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-08-25",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-08-25T04:48:31.682233Z",
       "markdown_path": "forskrifter/endr-i-vareførselsforskriften-2026-2.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "endr-i-vareførselsforskriften-2026-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i vareførselsforskriften",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "27c8bb6301ea26640fe502c4194349403af3cf3c1b49c481067527d423ba68d5"
     },
     "sf-20260821-1680": {
@@ -113360,8 +113360,27 @@
       "title": "Midlertidig forskrift om midlertidig innførsel og utførsel av varer i forbindelse med kongelig gravferd",
       "total_changes": 1,
       "xml_hash": "6470765ce112132a14261971ea4411342b4106636099fdcb68ed23cd1874e992"
+    },
+    "sf-20260901-1723": {
+      "doc_type": "forskrift",
+      "embedding_hash": "c91f7ceb7e89acaa8f1e173a3714909dcb0736f75b3ffbddf20f8a8f4f0676ca",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-04",
+      "last_seen": "2026-09-04T08:47:04.762964Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om restriktive tiltak i lys av situasjonen i Sudan",
+      "total_changes": 1,
+      "xml_hash": "c91f7ceb7e89acaa8f1e173a3714909dcb0736f75b3ffbddf20f8a8f4f0676ca"
     }
   },
-  "generated_at": "2026-09-02T08:43:30.266827Z",
+  "generated_at": "2026-09-04T08:47:04.762964Z",
   "version": 1
 }

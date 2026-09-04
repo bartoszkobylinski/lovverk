@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-skipsutstyr — Change history
 
-_4 events; doc_id `sf-20160830-1042`._
+_5 events; doc_id `sf-20160830-1042`._
+
+## 2026-09-04 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-skipsutstyr`
+Commit: `d2876f0`.
 
 ## 2026-07-03 — Content updated
 Lines: +4 -4.
