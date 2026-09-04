@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2016-09-18"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-08-31"
 last_updated: "2021-02-15"
-xml_hash: "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028"
+xml_hash: "8ac953996cbe42c6ae3b334605625cca2a607bcab8434db5f24ff6514423dc4e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Med EØS-skip menes skip som fører EØS-flagg og som faller inn under virkeomr�
 
 ## § 2. Krav til skipsutstyr
 
-[EØS-avtalen vedlegg II kapittel XXXII](avtale/avt-1992-05-02-1-v2/kapXXXII) nr. 3 Kommisjonens gjennomføringsforordning [(EU) 2025/1533](eu/32025r1533) gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2026/1434](eu/32026r1434) om prøvestandarder og krav til utforming, konstruksjon og yteevne for skipsutstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XXXII](avtale/avt-1992-05-02-1-v2/kapXXXII) nr. 3, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
 Skipsutstyr skal oppfylle kravene til utforming, konstruksjon, ytelse og prøving som følger av første ledd.
 
@@ -42,13 +42,13 @@ Relevante prosedyrer for samsvarsvurdering i vedlegg II skal benyttes for å vis
 
 Skipsutstyr som oppfyller kravene i denne bestemmelsen, skal rattmerkes.
 
-> Endret ved forskrifter [10 mars 2017 nr. 385](forskrift/2017-03-10-385) (i kraft 16 mars 2017), [8 sep 2017 nr. 1442](forskrift/2017-09-08-1442), [13 juni 2018 nr. 859](forskrift/2018-06-13-859) (i kraft 19 juni 2018), [27 sep 2019 nr. 1276](forskrift/2019-09-27-1276) (i kraft 3 okt 2019), [1 sep 2020 nr. 1728](forskrift/2020-09-01-1728), [25 sep 2020 nr. 1984](forskrift/2020-09-25-1984) (i kraft 26 sep 2020), [24 aug 2021 nr. 2568](forskrift/2021-08-24-2568) (i kraft 25 aug 2021), [15 aug 2022 nr. 1438](forskrift/2022-08-15-1438), [5 okt 2023 nr. 1589](forskrift/2023-10-05-1589) (i kraft 10 okt 2023), [3 sep 2024 nr. 2088](forskrift/2024-09-03-2088) (i kraft 4 sep 2024), [22 sep 2025 nr. 1942](forskrift/2025-09-22-1942) (i kraft 23 sep 2025).
+> Endret ved forskrifter [10 mars 2017 nr. 385](forskrift/2017-03-10-385) (i kraft 16 mars 2017), [8 sep 2017 nr. 1442](forskrift/2017-09-08-1442), [13 juni 2018 nr. 859](forskrift/2018-06-13-859) (i kraft 19 juni 2018), [27 sep 2019 nr. 1276](forskrift/2019-09-27-1276) (i kraft 3 okt 2019), [1 sep 2020 nr. 1728](forskrift/2020-09-01-1728), [25 sep 2020 nr. 1984](forskrift/2020-09-25-1984) (i kraft 26 sep 2020), [24 aug 2021 nr. 2568](forskrift/2021-08-24-2568) (i kraft 25 aug 2021), [15 aug 2022 nr. 1438](forskrift/2022-08-15-1438), [5 okt 2023 nr. 1589](forskrift/2023-10-05-1589) (i kraft 10 okt 2023), [3 sep 2024 nr. 2088](forskrift/2024-09-03-2088) (i kraft 4 sep 2024), [22 sep 2025 nr. 1942](forskrift/2025-09-22-1942) (i kraft 23 sep 2025), [30 aug 2026 nr. 1713](forskrift/2026-08-30-1713) (i kraft 31 aug 2026).
 
 ## § 2a. Standarder for skipsutstyr
 
-[EØS-avtalen vedlegg II kapittel XXXII](avtale/avt-1992-05-02-1-v2/kapXXXII) nr. 6 delegert kommisjonsforordning [(EU) 2024/1295](eu/32024r1295) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2024/1295](eu/32024r1295) om tekniske spesifikasjoner og prøvingsstandarder for brannslanger, som inntatt i [EØS-avtalen vedlegg II kapittel XXXII](avtale/avt-1992-05-02-1-v2/kapXXXII) nr. 6, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [5 juli 2024 nr. 1620](forskrift/2024-07-05-1620) (i kraft 6 juli 2024).
+> Tilføyd ved forskrift [5 juli 2024 nr. 1620](forskrift/2024-07-05-1620) (i kraft 6 juli 2024), endret ved forskrift [30 aug 2026 nr. 1713](forskrift/2026-08-30-1713) (i kraft 31 aug 2026).
 
 ## § 3. Rattmerking av skipsutstyr
 
