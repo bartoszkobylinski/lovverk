@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-06-02"
 last_change_in_force: "2025-01-01"
 last_updated: null
-xml_hash: "bcf18924ea3b78eb62ac80356d3c163b1c70654a1de59aa672865d1ec5751763"
+xml_hash: "111cdb832ba14eccc5707a7dc5cd51a023a4ad28a6e08a297e8414835d938c1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ eu_basis: []
 
 (5) Listen i vedlegg I til vedlagte forordning [(EU) 2023/2147](eu/32023r2147) er i denne forskriften erstattet med lenke til EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak.
 
-> Endret ved [forskrifter 6 des 2007 nr. 1358](forskrift/2007-12-06-1358), [18 juni 2008 nr. 611](forskrift/2008-06-18-611), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259), [4 juni 2024 nr. 923](forskrift/2024-06-04-923), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
+> Endret ved [forskrifter 6 des 2007 nr. 1358](forskrift/2007-12-06-1358), [18 juni 2008 nr. 611](forskrift/2008-06-18-611), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259), [4 juni 2024 nr. 923](forskrift/2024-06-04-923), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025). **Endres** ved forskrift [1 sep 2026 nr. 1723](forskrift/2026-09-01-1723) (i kraft 15 sep 2026).
 
 ## § 3. Forbud mot eksport mv. av våpen og tilknyttet materiell
 
@@ -359,7 +359,7 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 
 ## Vedlegg B
 
-> Tilføyd ved forskrift [4 juni 2024 nr. 923](forskrift/2024-06-04-923).
+> Tilføyd ved forskrift [4 juni 2024 nr. 923](forskrift/2024-06-04-923). **Endres** ved forskrift [1 sep 2026 nr. 1723](forskrift/2026-09-01-1723) (i kraft 15 sep 2026).
 
 ## RÅDSFORORDNING [(EU) 2023/2147](eu/32023r2147)
 
@@ -668,3 +668,11 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
   1049 Brussels
   BELGIUM
   E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
+### Vedlegg III til Vedlegg B. Liste over varer som det er henvist til i artikkel 1a
+
+> **Tilføyes** ved forskrift [1 sep 2026 nr. 1723](forskrift/2026-09-01-1723) (i kraft 15 sep 2026).
+
+### Vedlegg IV til Vedlegg B. Liste over varer som det er henvist til i artikkel 1b
+
+> **Tilføyes** ved forskrift [1 sep 2026 nr. 1723](forskrift/2026-09-01-1723) (i kraft 15 sep 2026).
