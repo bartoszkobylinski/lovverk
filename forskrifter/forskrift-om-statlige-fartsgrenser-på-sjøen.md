@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2026-02-03"
+last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "bad0d1c28f0d295d3829860445de86fce8d814b996752116bc2cddd9defc6d80"
+xml_hash: "d93087d4929e33e89a6df5c8506d7edb1e059b426baf41000b7f2af5a3a66c67"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,6 +55,30 @@ Koordinater i forskriften er oppgitt i geografiske koordinater (DD MM.MMM) og da
 ## Kapittel 2. Fartsgrenser i Finnmark
 
 > Tilføyd ved forskrift [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026).
+
+### § 2-1. Fartsgrenser på sjøen i Måsøy kommune
+
+5 knop er høyeste tillatte fart for næringsfartøy i Havøysund i Måsøy kommune innenfor linjer trukket mellom posisjonene
+
+1. N 70° 59.682′ Ø 24° 41.022′
+2. N 70° 59.551′ Ø 24° 40.982′
+
+og
+
+1. N 70° 59.709′ Ø 24° 38.370′
+2. N 70° 59.604′ Ø 24° 38.375′.
+
+5 knop er høyeste tillatte fart for fritidsfartøy i farled i Havøysund i Måsøy kommune innenfor linjer trukket mellom posisjonene
+
+1. N 70° 59.682′ Ø 24° 41.022′
+2. N 70° 59.551′ Ø 24° 40.982′
+
+og
+
+1. N 70° 59.709′ Ø 24° 38.370′
+2. N 70° 59.604′ Ø 24° 38.375′.
+
+> Tilføyd ved forskrift [31 aug 2026 nr. 1714](forskrift/2026-08-31-1714) (i kraft 1 sep 2026).
 
 ## Kapittel 3. Fartsgrenser i Troms
 
@@ -231,14 +255,15 @@ og avgrenset i øst av en linje trukket mellom posisjonene:
 
 og
 
-1. N: 63° 33.722′, Ø 10° 36.566′
+1. N: 63° 32.816′, Ø 10° 37.658′
+2. N: 63° 32.748′ Ø: 10° 36.78′
 
 og
 
-1. N: 63° 32.820′, Ø 10° 37.657′
-2. N: 63° 33.569′, Ø 10° 35.703′.
+1. N: 63° 32.759′ Ø: 10° 36.632′
+2. N: 63° 33.832′, Ø 10° 35.033′.
 
-> Tilføyd ved forskrift [19 juni 2025 nr. 1074](forskrift/2025-06-19-1074) (i kraft 20 juni 2025), endret ved forskrift [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 4-3).
+> Tilføyd ved forskrift [19 juni 2025 nr. 1074](forskrift/2025-06-19-1074) (i kraft 20 juni 2025), endret ved forskrifter [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 4-3), [31 aug 2026 nr. 1714](forskrift/2026-08-31-1714) (i kraft 1 sep 2026).
 
 ## Kapittel 6. Fartsgrenser i Møre og Romsdal
 
@@ -352,23 +377,37 @@ og innenfor en linje trukket mellom posisjonene
 
 ### § 6-4. Fartsgrenser på sjøen i Stranda kommune
 
-8 knop er høyeste tillatte fart for næringsfartøy i hovedleden innerst i Geirangerfjorden avgrenset i nordvest av en linje trukket mellom posisjonene
+8 knop er høyeste tillatte fart for næringsfartøy i Geirangerfjorden mellom to linjer trukket mellom posisjonene
 
-1. N 62° 06.660′, Ø 7° 10.463′ og
-2. N 62° 07.071′, Ø 7° 10.559′.
+1. N 62° 06.660′, Ø 7° 10.463′
+2. N 62° 07.071′, Ø 7° 10.559′
 
-5 knop er høyeste tillatte fart for næringsfartøy i havneområdet i Geiranger avgrenset i nordvest av en linje trukket mellom posisjonene
+og
 
-1. N 62° 5,944′, Ø 7° 11,672′,
-2. N 62° 6,109′, Ø 7° 12,201′ og
-3. N 62° 6,169′, Ø 7° 12,240′
+1. N 62° 06.084′ Ø 7°11.507′
+2. N 62° 06.308′ Ø 7°12.052′.
 
-8 knop er høyeste tillatte fart for fritidsfartøy i hovedleden innerst i Geirangerfjorden avgrenset i nordvest av en linje trukket mellom posisjonene
+5 knop er høyeste tillatte fart for næringsfartøy i Geirangerfjorden innenfor en linje mellom posisjonene
 
-1. N 62° 06.660′, Ø 7° 10.463′ og
-2. N 62° 07.071′, Ø 7° 10.559′.
+1. N 62° 06.084′ Ø 7°11.507′
+2. N 62° 06.308′ Ø 7°12.052′.
 
-> Endret ved forskrift [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 5-4).
+8 knop er høyeste tillatte fart for fritidsfartøy i hoved- og biled i Geirangerfjorden mellom to linjer trukket mellom posisjonene
+
+1. N 62° 06.660′, Ø 7° 10.463′
+2. N 62° 07.071′, Ø 7° 10.559′
+
+og
+
+1. N 62° 06.084′ Ø 7°11.507′
+2. N 62° 06.308′ Ø 7°12.052′.
+
+5 knop er høyeste tillatte fart for fritidsfartøy i hoved- og biled i Geirangerfjorden innenfor en linje mellom posisjonene
+
+1. N 62° 06.084′ Ø 7°11.507′
+2. N 62° 06.308′ Ø 7°12.052′.
+
+> Endret ved forskrifter [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 5-4), [31 aug 2026 nr. 1714](forskrift/2026-08-31-1714) (i kraft 1 sep 2026).
 
 ## Kapittel 7. Fartsgrenser i Vestland
 
@@ -2055,7 +2094,14 @@ og i syd av en rett linje trukket mellom posisjonene
 
 ### § 13-2. Fartsgrenser på sjøen i Asker og Bærum kommuner
 
-8 knop er høyeste tillatte fart for næringsfartøy innenfor 200 meter fra land, øyer, holmer og skjær som er synlige over vannflaten.
+8 knop er høyeste tillatte fart for næringsfartøy innenfor 200 meter fra land, øyer, holmer og skjær som er synlige over vannflaten. Dette gjelder likevel ikke innenfor et areal trukket opp med linjer mellom posisjonene
+
+1. N 59° 49.653′, Ø 10° 29.612′
+2. N 59° 49.770′, Ø 10° 29.825′
+3. N 59° 49.848′, Ø 10° 30.028′
+4. N 59° 49.807′, Ø 10° 30.097′
+5. N 59° 49.729′, Ø 10° 29.894′
+6. N 59° 49.612′, Ø 10° 29.681′.
 
 8 knop er høyeste tillatte fart for næringsfartøy i hoved- og biled gjennom Store Ostsundet mot Sandvika, avgrenset i sør av en linje trukket mellom posisjonene
 
@@ -2079,7 +2125,7 @@ og
 1. N 59° 51.318′, Ø 10° 33.174′ (Nordre Langåra)
 2. N 59° 51.602′, Ø 10° 33.018′ (Viernveien).
 
-> Endret ved forskrifter [9 juni 2022 nr. 992](forskrift/2022-06-09-992) (i kraft 15 juni 2022), [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 10-2).
+> Endret ved forskrifter [9 juni 2022 nr. 992](forskrift/2022-06-09-992) (i kraft 15 juni 2022), [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 10-2), [31 aug 2026 nr. 1714](forskrift/2026-08-31-1714) (i kraft 1 sep 2026).
 
 ### § 13-3. Fartsgrenser på sjøen i Frogn kommune
 
