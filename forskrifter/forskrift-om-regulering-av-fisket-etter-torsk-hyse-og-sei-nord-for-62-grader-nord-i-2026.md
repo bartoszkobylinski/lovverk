@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-04"
+last_change_in_force: "2026-08-31"
 last_updated: null
-xml_hash: "1672acfb364f707b2b3858c37d41cdef59c765e53d715c97901a682bf2ea7661"
+xml_hash: "8875c0a0a4c5681f32af610ade8756c6cc46cbb4f759384109dfaf85c893a3ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -267,32 +267,32 @@ Tillegg etter første ledd kan ikke gis for fangst som kvotebelastes i henhold t
 
 Kvoteenhet etter hjemmelslengde og største lengde er som følger:
 
-| *Hjemmelslengde* | *Største lengde* | *Kvoteenhet (garantert kvote)* | *Kvoteenhet (maksimalkvote)* |
+| *Hjemmels­lengde* | *Største lengde* | *Kvoteenhet (garantert kvote)* | *Kvoteenhet (maksimalkvote)* |
 | --- | --- | --- | --- |
-| Under 11 m | Under 11 m | 4,1231 | 251,5112 |
-| På eller over 11 m | 127,8172 |  |  |
-| 11–14,99 m | Under 11 m | 4,0883 | 40,8831 |
-| På eller over 11 m | 22,4857 |  |  |
-| 15–20,99 m | Under 11 m | 3,8903 | 15,5611 |
-| På eller over 11 m | 9,7257 |  |  |
-| 21–27,99 m | Under 11 m | 3,7563 | 15,0250 |
-| På eller over 11 m | 9,3907 |  |  |
+| Under 11 m | Under 11 m | 4,1231 | Ubegrenset |
+| På eller over 11 m |  |  |  |
+| 11–14,99 m | Under 11 m | 4,0883 | 53,1481 |
+| På eller over 11 m | 28,6182 |  |  |
+| 15–20,99 m | Under 11 m | 3,8903 | 19,4514 |
+| På eller over 11 m | 11,6708 |  |  |
+| 21–27,99 m | Under 11 m | 3,7563 | 18,7813 |
+| På eller over 11 m | 11,2688 |  |  |
 
 Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):
 
-| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote største lengde under 11 m* | *Maksimalkvote største lengde over 11 m* | *Herav garantert kvote* |
+| *Hjemmels­lengde* | *Kvote­faktor* | *Maksimal­kvote største lengde under 11 m* | *Maksimal­kvote største lengde over 11 m* | *Herav garantert kvote* |
 | --- | --- | --- | --- | --- |
-| Under 7 meter | 1,3075 | 328,851 | 167,121 | 5,391 |
-| 7–7,9 | 1,5293 | 384,636 | 195,471 | 6,306 |
-| 8–8,9 | 1,8211 | 458,027 | 232,768 | 7,509 |
-| 9–9,9 | 2,2530 | 566,655 | 287,972 | 9,289 |
-| 10–10,9 | 2,4047 | 604,809 | 307,362 | 9,915 |
-| 11–11,9 | 3,0735 | 125,654 | 69,110 | 12,565 |
-| 12–12,9 | 3,6451 | 149,023 | 81,963 | 14,902 |
-| 13–13,9 | 4,4216 | 180,769 | 99,423 | 18,077 |
-| 14–14,9 | 5,0363 | 205,900 | 113,245 | 20,590 |
-| 15–20,9 | 9,1056 | 141,693 | 88,558 | 35,423 |
-| 21–27,9 | 8,6219 | 129,544 | 80,965 | 32,386 |
+| Under 7 meter | 1,3075 | Ubegrenset | Ubegrenset | 5,391 |
+| 7–7,9 | 1,5293 | Ubegrenset | Ubegrenset | 6,306 |
+| 8–8,9 | 1,8211 | Ubegrenset | Ubegrenset | 7,509 |
+| 9–9,9 | 2,2530 | Ubegrenset | Ubegrenset | 9,289 |
+| 10–10,9 | 2,4047 | Ubegrenset | Ubegrenset | 9,915 |
+| 11–11,9 | 3,0735 | 163,351 | 87,958 | 12,565 |
+| 12–12,9 | 3,6451 | 193,730 | 104,316 | 14,902 |
+| 13–13,9 | 4,4216 | 234,999 | 126,538 | 18,077 |
+| 14–14,9 | 5,0363 | 267,670 | 144,130 | 20,590 |
+| 15–20,9 | 9,1056 | 177,117 | 106,270 | 35,423 |
+| 21–27,9 | 8,6219 | 161,931 | 97,158 | 32,386 |
 
 Fartøy som har fisket maksimalkvoten kan ha inntil 30 % bifangst av hyse i de enkelte fangster og ved landing.
 
@@ -300,7 +300,7 @@ Dersom fisket blir stoppet, kan det enkelte fartøy fortsette fisket innenfor de
 
 Når et fartøy gis tillatelse til å fiske flere kvoter av hyse i medhold av [forskrift 7. november 2003 nr. 1309 om spesielle kvoteordninger for kystfiskeflåten](forskrift/2003-11-07-1309), skal overførte kvoter beregnes ved bruk av samme kvoteenhet som ved beregning av mottakende fartøys grunnkvote.
 
-> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828), [20 mai 2026 nr. 858](forskrift/2026-05-20-858), [4 juni 2026 nr. 1009](forskrift/2026-06-04-1009).
+> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828), [20 mai 2026 nr. 858](forskrift/2026-05-20-858), [4 juni 2026 nr. 1009](forskrift/2026-06-04-1009), [31 aug 2026 nr. 1722](forskrift/2026-08-31-1722).
 
 ### § 19. Kvoter ved fiske etter sei
 
