@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-09-01"
 last_updated: "2022-10-20"
-xml_hash: "4bf4b290a269e9d5b20a26abaaabbef58dcb4960192d2bfae7b637b77823f7ee"
+xml_hash: "06dfd264bc0d6df0e699d2d1d2e803f4aa4f05f946f279cb5f013a063cc7464f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-01T09:21:21.266839+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1098,15 +1098,17 @@ Tillatelsen er bundet til den bestemte virksomheten, og den danner grunnlag for 
 
 ### § 6-19. Oppholdstillatelse til studenter mv.
 
-Studenter som har tilsagn om opptak ved en godkjent utdanningsinstitusjon, kan få oppholdstillatelse. Utlendingsdirektoratet kan i samråd med Kunnskapsdepartementet, gi nærmere retningslinjer om hvilke utdanningsinstitusjoner og studier som kan godkjennes. Det er et vilkår at utdanningen er formålet med oppholdet og at det dreier seg om heltidsutdanning. Søkeren skal legge fram plan for utdanningen. Utlendingsdirektoratet kan gi særskilte retningslinjer for søkere fra regioner fastsatt av Arbeids- og inkluderingsdepartementet i samråd med Justis- og beredskapsdepartementet og Utenriksdepartementet.
+Studenter som har opptak ved universitet, høyskole, fagskole og i særlige tilfeller ved videregående skole, kan få oppholdstillatelse. Utlendingsdirektoratet kan i samråd med Kunnskapsdepartementet gi nærmere retningslinjer om hvilke studier som kan godkjennes, og om andre studieinstitusjoner eller skoler kan godkjennes. Oppholdstillatelse kan bare gis for heltidsstudier. Studenten må ha behov for å oppholde seg ved studiestedet, og utdanningen må være formålet med oppholdet. Utlendingsdirektoratet kan gi særskilte retningslinjer for søkere fra regioner fastsatt av Arbeids- og inkluderingsdepartementet i samråd med Justis- og beredskapsdepartementet og Utenriksdepartementet.
 
-Studenter ved folkehøgskole eller livssynskole kan bare få tillatelse for til sammen ett år. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+Studenter ved folkehøgskole eller livssynskole som ellers fyller vilkårene i første ledd, kan få oppholdstillatelse for til sammen ett år.
 
-Utlendinger som har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd, men som trenger tilleggsutdanning eller praksis for å få den nødvendige godkjenningen av utdanningen i Norge, kan få tillatelse i til sammen to år. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+Utlendinger som har kompetanse som faglært, jf. [§ 6-1 første ledd](forskrift/2009-10-15-1286/§6-1/ledd/1), men som trenger tilleggsutdanning eller praksis for å få den nødvendige godkjenningen av utdanningen i Norge, kan få oppholdstillatelse i til sammen to år. Utlendingen skal legge fram plan for utdanningen. Oppholdstillatelse kan bare gis for heltids tilleggsutdanning eller praksis. Utlendingen må ha behov for å oppholde seg ved læringsstedet, og tilleggsutdanningen eller praksisen må være formålet med oppholdet.
+
+Utlendingsdirektoratet kan gi nærmere retningslinjer.
 
 Tillatelsen danner ikke grunnlag for permanent oppholdstillatelse.
 
-> Endret ved [forskrifter 18 feb 2010 nr. 188](forskrift/2010-02-18-188), [9 mai 2014 nr. 621](forskrift/2014-05-09-621) (i kraft 15 mai 2014 og gjelder for søknader som er levert etter ikrafttredelsen), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022).
+> Endret ved forskrifter [18 feb 2010 nr. 188](forskrift/2010-02-18-188), [9 mai 2014 nr. 621](forskrift/2014-05-09-621) (i kraft 15 mai 2014 og gjelder for søknader som er levert etter ikrafttredelsen), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022), [1 sep 2026 nr. 1715](forskrift/2026-09-01-1715).
 
 ### § 6-20. Oppholdstillatelse til forskere med egne midler
 
