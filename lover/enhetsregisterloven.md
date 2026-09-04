@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
+xml_hash: "05f3b22815078959c2fe94c563213c348e9d53890f4dcdb9067f7d00c401d78f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-04T08:47:04.762964+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,7 +144,7 @@ Ved beregning av frister etter denne loven gjelder [domstolloven § 148 første]
 
 (5) Departementet kan gi forskrift med nærmere regler om registrering og bruk av opplysninger som nevnt i første til fjerde ledd, herunder om fremgangsmåten for å sende inn melding om elektronisk varslingsadresse som nevnt i første ledd bokstav e og om bruk av varslingsadressen.
 
-(6) Departementet kan gi [forskrift om registrering i Enhetsregisteret](forskrift/1995-02-09-114) av opplysninger om enhetens status og opplysninger om enheten av administrativ karakter.
+(6) Departementet kan gi forskrift om registrering i Enhetsregisteret av opplysninger om enhetens status og opplysninger om enheten av administrativ karakter.
 
 ### § 4-2. Opplysninger om enhetens ledelse
 
