@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-09-15"
 last_change_in_force: null
 last_updated: null
-xml_hash: "c91f7ceb7e89acaa8f1e173a3714909dcb0736f75b3ffbddf20f8a8f4f0676ca"
+xml_hash: "425180566a17b602449e09606f526ab968eb55098cdd23687bacb70eef99b86c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-04T08:47:04.762964+00:00"
+retrieved_at: "2026-09-05T08:17:30.706491+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,7 @@ Ny artikkel 1a skal lyde:
 
 Ny artikkel 1b skal lyde:
 
-Nytt Vedlegg III til Vedlegg B skal lyde:
+Nytt [Vedlegg III](forskrift/2006-06-02-573/vedleggIII) til Vedlegg B skal lyde:
 
 |  | *CN code* | *Description* |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ Nytt Vedlegg III til Vedlegg B skal lyde:
 |  | 7112 91 | Waste and scrap of gold, including metal clad with gold but excluding sweepings containing other precious metals |
 | ex | 7118 90 | Gold coins’ |
 
-Nytt Vedlegg IV til vedlegg B skal lyde:
+Nytt [Vedlegg IV](forskrift/2006-06-02-573/vedleggIV) til vedlegg B skal lyde:
 
 |  | *CN code* | *Description* |
 | --- | --- | --- |
