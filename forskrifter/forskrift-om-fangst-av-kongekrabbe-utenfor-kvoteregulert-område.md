@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2004-08-06"
-last_change_in_force: "2026-01-29"
+last_change_in_force: "2026-09-02"
 last_updated: "2021-02-02"
-xml_hash: "eea01ba030f0ee59b7b69a66465365e9a5859ca0e59e37748ff29c62b95dceb2"
+xml_hash: "e274888753174718548d0fd878ffaad13b03c6b49edd8c8f0179b3e5948f5ec1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-05T08:17:30.706491+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -113,9 +113,15 @@ Et fartøy kan ikke motta og lande kongekrabbe som er fanget av et annet fartøy
 
 ## § 10. Stenging av områder
 
-Det er forbudt å drive fangst av kongekrabbe med teiner og å lagre kongekrabbeteiner i sjøen mellom 23 og 26 grader øst i perioden fra og med 5. til og med 9. september 2026.
+Det er forbudt å drive fangst av kongekrabbe med teiner og å lagre kongekrabbeteiner i sjøen fra og med 1. november til og med 9. november 2026 innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
 
-> Tilføyd ved [forskrift 29 mai 2017 nr. 659](forskrift/2017-05-29-659), endret ved [forskrifter 20 april 2018 nr. 615](forskrift/2018-04-20-615), [27 des 2018 nr. 2246](forskrift/2018-12-27-2246) (i kraft 1 jan 2019, tidligere § 10), [21 feb 2020 nr. 172](forskrift/2020-02-21-172), [1 feb 2021 nr. 277](forskrift/2021-02-01-277) (tidligere § 11), [12 jan 2022 nr. 54](forskrift/2022-01-12-54), [30 juni 2023 nr. 1223](forskrift/2023-06-30-1223), [21 juli 2023 nr. 1279](forskrift/2023-07-21-1279), [30 juli 2024 nr. 1861](forskrift/2024-07-30-1861), [22 aug 2024 nr. 2026](forskrift/2024-08-22-2026), [19 des 2025 nr. 2808](forskrift/2025-12-19-2808) (i kraft 1 jan 2026).
+1. 71° 09′ N 26° Ø
+2. 71° 14,0′ N 26° Ø
+3. 71° 14,0′ N 25° 20′ Ø
+4. 71° 09′ N 25° 20′ Ø
+   Herfra tilbake til posisjon 1.
+
+> Tilføyd ved [forskrift 29 mai 2017 nr. 659](forskrift/2017-05-29-659), endret ved [forskrifter 20 april 2018 nr. 615](forskrift/2018-04-20-615), [27 des 2018 nr. 2246](forskrift/2018-12-27-2246) (i kraft 1 jan 2019, tidligere § 10), [21 feb 2020 nr. 172](forskrift/2020-02-21-172), [1 feb 2021 nr. 277](forskrift/2021-02-01-277) (tidligere § 11), [12 jan 2022 nr. 54](forskrift/2022-01-12-54), [30 juni 2023 nr. 1223](forskrift/2023-06-30-1223), [21 juli 2023 nr. 1279](forskrift/2023-07-21-1279), [30 juli 2024 nr. 1861](forskrift/2024-07-30-1861), [22 aug 2024 nr. 2026](forskrift/2024-08-22-2026), [19 des 2025 nr. 2808](forskrift/2025-12-19-2808) (i kraft 1 jan 2026), [2 sep 2026 nr. 1724](forskrift/2026-09-02-1724).
 
 ## § 11. Forbud mot ombordproduksjon
 
