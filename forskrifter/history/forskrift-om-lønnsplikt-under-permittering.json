@@ -2,13 +2,33 @@
   "doc_id": "sf-20160621-0764",
   "events": [
     {
+      "commit": "00c8e31",
+      "date": "2026-09-05",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 16,
+      "subject": "update(forskrift): forskrift-om-lønnsplikt-under-permittering",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20160621-0764.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-l\\303\\270nnsplikt-under-permittering.md\"",
+      "to_path": "forskrifter/forskrift-om-lønnsplikt-under-permittering.md",
       "type": "renamed"
     },
     {

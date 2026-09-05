@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5113 current documents_
+_5110 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1583,7 +1583,6 @@ _5113 current documents_
 - [forskrift-om-arbeidsgiveransvar-svalbard](forskrift-om-arbeidsgiveransvar-svalbard.md) — Forskrift om arbeidsgiveres plikt til å yde sykepleie m.v. og om arbeidsgiveres ansvar ved ulykker på Svalbard.
 - [forskrift-om-arbeidsgiveransvar-svalbard-2](forskrift-om-arbeidsgiveransvar-svalbard-2.md) — Forskrift om arbeidsgiveres plikt til å yde sykepleie m.v. og om arbeidsgiveres ansvar ved ulykker på Svalbard.
 - [forskrift-om-arbeidsgivers-innsyn-i-e-postkasse-og-annet-elektronisk-lagret-materiale](forskrift-om-arbeidsgivers-innsyn-i-e-postkasse-og-annet-elektronisk-lagret-materiale.md) — Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale
-- [forskrift-om-arbeidsgivers-lønnsplikt-under-permittering](forskrift-om-arbeidsgivers-lønnsplikt-under-permittering.md) — Forskrift om arbeidsgivers lønnsplikt under permittering, jf. lov om lønnsplikt under permittering § 3b
 - [forskrift-om-arbeidsgivers-og-oppdragsgivers-opplysningsplikt](forskrift-om-arbeidsgivers-og-oppdragsgivers-opplysningsplikt.md) — Forskrift til folketrygdloven § 25-10 om arbeidsgivers og oppdragsgivers opplysningsplikt om arbeidsforhold og inntekt
 - [forskrift-om-arbeidsmiljø-flyttbare-innretninger](forskrift-om-arbeidsmiljø-flyttbare-innretninger.md) — Forskrift om verne-, miljø- og sikkerhetstiltak på flyttbare innretninger
 - [forskrift-om-arbeidsmiljø-m-v-for-luftfart](forskrift-om-arbeidsmiljø-m-v-for-luftfart.md) — Forskrift om arbeidervern og arbeidsmiljø m.v. for sivil luftfart.
@@ -2147,7 +2146,6 @@ _5113 current documents_
 - [forskrift-om-forsvarsviktige-oppfinnelser](forskrift-om-forsvarsviktige-oppfinnelser.md) — Forskrift om behandling av saker etter lov om oppfinnelser av betydning for rikets forsvar.
 - [forskrift-om-forsøk-med-fireårig-lønnstilskudd-for-unge](forskrift-om-forsøk-med-fireårig-lønnstilskudd-for-unge.md) — Forskrift om forsøk med fireårig lønnstilskudd for unge
 - [forskrift-om-forsøk-med-ungdomsprogram-og-ungdomsprogramytelse](forskrift-om-forsøk-med-ungdomsprogram-og-ungdomsprogramytelse.md) — Forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse
-- [forskrift-om-forsøk-med-å-gi-kommunen-ansvar-for-å-arrangere-tilrettelagt-arbeid-for-personer-med-varig-nedsatt-arbeidsevne](forskrift-om-forsøk-med-å-gi-kommunen-ansvar-for-å-arrangere-tilrettelagt-arbeid-for-personer-med-varig-nedsatt-arbeidsevne.md) — Forskrift om forsøk med å gi kommunen ansvar for å arrangere tilrettelagt arbeid for personer med varig nedsatt arbeidsevne
 - [forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten](forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten.md) — Forskrift om forsøksordning med nettlege i allmennlegetjenesten (kommunal nettlege)
 - [forskrift-om-forsøksprosjekt-kartlegging-av-domfeltes-behov](forskrift-om-forsøksprosjekt-kartlegging-av-domfeltes-behov.md) — Forskrift om forsøksprosjekt om kartlegging av domfeltes behov for tiltak med sikte på å lette tilbakeføring til et kriminalitetsfritt liv
 - [forskrift-om-fortegnelser-over-meddommere](forskrift-om-fortegnelser-over-meddommere.md) — Forskrift om fortegnelser over meddommere
@@ -4082,7 +4080,6 @@ _5113 current documents_
 - [forskrift-om-virkeområde-kretsmønsterloven](forskrift-om-virkeområde-kretsmønsterloven.md) — Forskrift om utvidelse av virkeområdet for lov om vern av kretsmønstre for integrerte kretser.
 - [forskrift-om-virkeområdet-for-distriktsrettet-investeringsstøtte](forskrift-om-virkeområdet-for-distriktsrettet-investeringsstøtte.md) — Forskrift om virkeområdet for distriktsrettet investeringsstøtte
 - [forskrift-om-virkeområdet-til-lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn](forskrift-om-virkeområdet-til-lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn.md) — Forskrift om virkeområdet til lov om utleie av små elektriske kjøretøy på offentlig grunn
-- [forskrift-om-virkningstidspunkt-for-bestemmelsene-i-kapittel-2-i-midlertidig-forskrift-om-unntak-fra-folketrygdloven-og-arbeidsmiljøloven-i-forbindelse-med-covid-19-pandemien](forskrift-om-virkningstidspunkt-for-bestemmelsene-i-kapittel-2-i-midlertidig-forskrift-om-unntak-fra-folketrygdloven-og-arbeidsmiljøloven-i-forbindelse-med-covid-19-pandemien.md) — Forskrift om virkningstidspunkt for bestemmelsene i kapittel 2 i midlertidig forskrift om unntak fra folketrygdloven og arbeidsmiljøloven i forbindelse med covid-19-pandemien
 - [forskrift-om-visse-aspekter-ved-flysikkerheten-i-forbindelse-med-storbritannias-uttreden-fra-eu](forskrift-om-visse-aspekter-ved-flysikkerheten-i-forbindelse-med-storbritannias-uttreden-fra-eu.md) — Forskrift om visse aspekter ved flysikkerheten i forbindelse med Storbritannias uttreden fra EU
 - [forskrift-om-visse-forurensende-stoffer-i-næringsmidler](forskrift-om-visse-forurensende-stoffer-i-næringsmidler.md) — Forskrift om visse forurensende stoffer i næringsmidler
 - [forskrift-om-vitamintilsetning-mv-til-næringsmidler](forskrift-om-vitamintilsetning-mv-til-næringsmidler.md) — Forskrift om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler

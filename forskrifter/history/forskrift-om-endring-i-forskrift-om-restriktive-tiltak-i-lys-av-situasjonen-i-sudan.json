@@ -2,6 +2,16 @@
   "doc_id": "sf-20260901-1723",
   "events": [
     {
+      "commit": "07facb8",
+      "date": "2026-09-05",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0d87472",
       "date": "2026-09-04",
       "from_path": null,

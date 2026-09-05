@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fangst-av-kongekrabbe-utenfor-kvoteregulert-område — Change history
 
-_3 events; doc_id `sf-20040806-1147`._
+_4 events; doc_id `sf-20040806-1147`._
+
+## 2026-09-05 — Content updated
+Lines: +11 -5.
+Subject: `update(forskrift): forskrift-om-fangst-av-kongekrabbe-utenfor-kvoteregulert-område`
+Commit: `ff34df7`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
