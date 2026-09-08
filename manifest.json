@@ -94040,13 +94040,13 @@
     },
     "sf-20220502-0814": {
       "doc_type": "forskrift",
-      "embedding_hash": "cbbf16af3c5581a40f89a5e8f8a1b7062d30560160235e67b277e658e61fcff7",
-      "embedding_input_hash": "41e0418e9e6d425bb7d8e3448cf9ab1469c318a98cce27dcc14d4b63371dce63",
+      "embedding_hash": "86d75f923027a3b6911a1f41ea47d824e1b2ae388ccbe906bce02ff9fd88d9ea",
+      "embedding_input_hash": "fc030810866bad084b8ae2b54d5a45bd1f7f0abc709ed17447f11b73e7ba895e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-08",
+      "last_seen": "2026-09-08T08:48:28.003863Z",
       "markdown_path": "forskrifter/forskrift-om-prøvetaking-og-analysemetoder-for-restmengder-av-farmakologisk-virksomme-stoffer-som-brukes-i-dyr-bestemt-til-næringsmiddelproduksjon.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -94054,8 +94054,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om prøvetaking og analysemetoder for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon",
-      "total_changes": 3,
-      "xml_hash": "cbbf16af3c5581a40f89a5e8f8a1b7062d30560160235e67b277e658e61fcff7"
+      "total_changes": 4,
+      "xml_hash": "86d75f923027a3b6911a1f41ea47d824e1b2ae388ccbe906bce02ff9fd88d9ea"
     },
     "sf-20220503-0836": {
       "doc_type": "forskrift",
@@ -107891,13 +107891,13 @@
     },
     "sf-20251212-2508": {
       "doc_type": "forskrift",
-      "embedding_hash": "28b0c6c30eec11ee0e0ff569f3c1c1274ef0c210312caa9d212ada278a7329f1",
-      "embedding_input_hash": "df3706105280ca88982f4e805aceda99901fd913fbb4eea547cdd1bca431efff",
+      "embedding_hash": "5ae7baf12e1f9b0774f54db73c0a672eebbf8be59121e51f00f6c2dea269792f",
+      "embedding_input_hash": "d2fc1a22aaf037982597f4940bf071c2aa248229c9c84ce48e50df98213e1f03",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-08",
+      "last_seen": "2026-09-08T08:48:28.003863Z",
       "markdown_path": "forskrifter/utrullingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -107905,8 +107905,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "28b0c6c30eec11ee0e0ff569f3c1c1274ef0c210312caa9d212ada278a7329f1"
+      "total_changes": 4,
+      "xml_hash": "5ae7baf12e1f9b0774f54db73c0a672eebbf8be59121e51f00f6c2dea269792f"
     },
     "sf-20251212-2509": {
       "doc_type": "forskrift",
@@ -113381,6 +113381,6 @@
       "xml_hash": "425180566a17b602449e09606f526ab968eb55098cdd23687bacb70eef99b86c"
     }
   },
-  "generated_at": "2026-09-05T08:17:30.706491Z",
+  "generated_at": "2026-09-08T08:48:28.003863Z",
   "version": 1
 }

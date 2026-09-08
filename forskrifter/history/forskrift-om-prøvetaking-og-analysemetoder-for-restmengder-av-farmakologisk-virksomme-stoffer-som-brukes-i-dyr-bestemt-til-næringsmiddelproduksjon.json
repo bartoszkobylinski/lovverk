@@ -2,6 +2,16 @@
   "doc_id": "sf-20220502-0814",
   "events": [
     {
+      "commit": "d3fa080",
+      "date": "2026-09-08",
+      "from_path": null,
+      "lines_added": 27,
+      "lines_removed": 14,
+      "subject": "update(forskrift): forskrift-om-prøvetaking-og-analysemetoder-for-restmengder-av-farmakologisk-virksomme-stoffer-som-brukes-i-dyr-bestemt-til-næringsmiddelproduksjon",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,
