@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2022-05-02"
-last_change_in_force: "2025-06-16"
+last_change_in_force: "2026-07-13"
 last_updated: null
-xml_hash: "cbbf16af3c5581a40f89a5e8f8a1b7062d30560160235e67b277e658e61fcff7"
+xml_hash: "86d75f923027a3b6911a1f41ea47d824e1b2ae388ccbe906bce02ff9fd88d9ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-08T08:48:28.003863+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Gjennomføring av forordning (EU) 2021/808
 
-[EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kap1), del 7.2. nr. 14 (forordning [(EU) 2021/808](eu/32021r0808) som endret ved forordning [(EU) 2021/810](eu/32021r0810) og forordning [(EU) 2024/2052](eu/32024r2052)) om analysemetoders ytelse for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon og om tolking av resultater, samt om metodene som skal brukes til prøvetaking, og om oppheving av vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179) gjelder som forskrift med de tilpasningene som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg I kap. 1](avtale/avt-1992-05-02-1-v1/kap1), del 7.2. nr. 14 (forordning [(EU) 2021/808](eu/32021r0808) som endret ved forordning [(EU) 2021/810](eu/32021r0810), forordning [(EU) 2024/2052](eu/32024r2052) og forordning [(EU) 2026/731](eu/32026r0731)) om analysemetoders ytelse for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon og om tolking av resultater, samt om metodene som skal brukes til prøvetaking, og om oppheving av vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179) gjelder som forskrift med de tilpasningene som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrift [16 juni 2025 nr. 1337](forskrift/2025-06-16-1337).
+> Endret ved forskrifter [16 juni 2025 nr. 1337](forskrift/2025-06-16-1337), [13 juli 2026 nr. 1728](forskrift/2026-07-13-1728).
 
 ## § 2. Tilsyn og vedtak
 
@@ -52,19 +52,18 @@ For å gjøre det lettere å finne frem til ordlyden i de forordningene som blir
 
 ### Konsolidert forordning (EU) 2021/808
 
-> Endret ved forskrift [16 juni 2025 nr. 1337](forskrift/2025-06-16-1337).
+> Endret ved forskrifter [16 juni 2025 nr. 1337](forskrift/2025-06-16-1337), [13 juli 2026 nr. 1728](forskrift/2026-07-13-1728).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/808](eu/32021r0808). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2021/810](eu/32021r0810) og forordning [(EU) 2024/2052](eu/32024r2052). Alle endringer i grunnrettsakten er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/808](eu/32021r0808). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2021/810](eu/32021r0810), [(EU) 2024/2052](eu/32024r2052) og forordning [(EU) 2026/731](eu/32026r0731). Alle endringer i grunnrettsakten er innarbeidet nedenfor.
 
 ►**B** Forordning [(EU) 2021/808](eu/32021r0808)
 
 som endret ved
 
-►**M1** Forordning [(EU) 2021/810](eu/32021r0810)
-
-►**M2** Forordning [(EU) 2024/2052](eu/32024r2052)
-
-►**M3** Forordning [(EU) 2025/127](eu/32025r0127) (rettelser i andre språkversjoner av forordning [(EU) 2021/808](eu/32021r0808), tatt inn i EØS-avtaleverket men gjennomføres ikke i norsk rett i forskrift.)
+- ►**M1** Forordning [(EU) 2021/810](eu/32021r0810)
+- ►**M2** Forordning [(EU) 2024/2052](eu/32024r2052)
+- ►**M3** Forordning [(EU) 2025/127](eu/32025r0127) (rettelser i andre språkversjoner av forordning [(EU) 2021/808](eu/32021r0808), tatt inn i EØS-avtaleverket men gjennomføres ikke i norsk rett i forskrift.)
+- ►**M4** Forordning [(EU) 2026/731](eu/32026r0731).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/808
 
@@ -246,9 +245,17 @@ Medlemsstatene skal sikre kvaliteten på resultatene av analyser som utføres i 
 
 4\. For ikke-tillatte eller forbudte farmakologisk aktive stoffer skal α-feilen være høyst 1 %. For alle andre stoffer skal α-feilen være høyst 5 %.
 
+►**M4**
+
 ### Artikkel 6. Prøvetakingsmetoder
 
 Medlemsstatene skal sikre at prøver tas, håndteres og merkes i samsvar med de detaljerte prøvetakingsmetodene som er fastsatt i vedlegg II til denne forordningen.
+
+Prøvetaking av fôr skal gjennomføres i samsvar med metodene fastsatt i vedlegg I til kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152)[^\*] og i punkt 5, 6 og 7 i vedlegg II til denne forordningen.
+
+\* Kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152) av 27. januar 2009 om fastsettelse av metoder for prøvetaking og analyse ved offentlig kontroll av fôr (EUT L 54, 26.2.2009, s. 1, ELI: [https://data.europa.eu/eli/reg/2009/152/oj](https://data.europa.eu/eli/reg/2009/152/oj)).
+
+◄**M4**
 
 ►**M1**
 
@@ -256,7 +263,7 @@ Medlemsstatene skal sikre at prøver tas, håndteres og merkes i samsvar med de 
 
 Vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179) oppheves med virkning fra ikrafttredelsesdatoen for denne forordningen.
 
-Fram til 10. juni 2026 skal imidlertid kravene fastsatt i nr. 2 og 3 i vedlegg I til vedtak [2002/657/EF](eu/32002d0657) fortsatt gjelde for metoder som er validert før ikrafttredelsesdatoen for denne forordningen.
+►**M4** Fram til 31. desember 2027 skal imidlertid kravene fastsatt i punkt 2 og 3 i vedlegg I til vedtak [2002/657/EF](eu/32002d0657) fortsatt gjelde for metoder som er validert før ikrafttredelsesdatoen for denne forordningen. ◄**M4**
 
 ►**M2** ◄**M2**
 
@@ -906,9 +913,15 @@ I tilfeller der øvre grenseverdier for restmengder for et bestemt stoff variere
 
 FRAMGANGSMÅTER FOR PRØVETAKING OG OFFISIELL BEHANDLING AV PRØVER
 
+►**M4**
+
 1.**Prøvemengde**
 
-Det minste prøveantallet skal være fastsatt i det nasjonale kontrollprogrammet for restmengder. Det minste prøveantallet skal være tilstrekkelig til at de godkjente laboratoriene kan gjennomføre de analysemetodene som er nødvendige for å fullføre screeningen og de bekreftende analysene. Særlig for fjørfe, akvakultur, kaniner, oppdrettsvilt, krypdyr og insekter består en prøve av ett eller flere dyr, avhengig av kravene til analysemetodene. For egg skal prøveantallet være minst 12 egg, avhengig av hvilke analysemetoder som er brukt. Dersom det er nødvendig å analysere flere stoffkategorier i én prøve med forskjellige analysemetoder, skal prøveomfanget økes tilsvarende.
+Det minste prøveantallet skal være fastsatt i det nasjonale kontrollprogrammet for restmengder. Det minste prøveantallet skal være tilstrekkelig til at de godkjente laboratoriene kan gjennomføre de analysemetodene som er nødvendige for å fullføre screeningen og de bekreftende analysene.
+
+Særlig for fjørfe, akvakultur, kaniner, oppdrettsvilt, krypdyr og insekter består en prøve av ett eller flere dyr, avhengig av kravene til analysemetodene. For egg skal prøveantallet være minst 12 egg, avhengig av hvilke analysemetoder som er brukt. For strutseegg er prøvestørrelsen imidlertid ett egg.
+
+Dersom det er nødvendig å analysere flere stoffkategorier i én prøve med forskjellige analysemetoder, skal prøveomfanget økes tilsvarende. ◄**M4**
 
 2.**Inndeling i delprøver**
 
