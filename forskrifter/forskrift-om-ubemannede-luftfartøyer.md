@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2024-11-01"
-last_change_in_force: "2025-05-26"
+last_change_in_force: "2026-09-04"
 last_updated: null
-xml_hash: "8153a8162c63e4799865677315dcf85df110b465d1cc8f8e278b36314b8f50e9"
+xml_hash: "e0a1248acd88296560d0f67f6ff2a0ca71c38c04c2a29f05f6528a4d61bb4cf6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-09T08:55:12.118049+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,9 +70,11 @@ Den som flyr ubemannet luftfartøy er ansvarlig for at det foreligger forsikring
 
 ### § 7. Områder hvor det ikke er tillatt å fly
 
-Det er ikke tillatt å fly ubemannet luftfartøy over eller i nærheten av militære områder og fartøyer, ambassader eller fengsler uten etter tillatelse fra stedlig leder.
+Det er ikke tillatt å fly ubemannet luftfartøy over eller i nærheten av militære områder og fartøyer, ambassader eller fengsler uten tillatelse fra stedlig leder.
 
 Uten tillatelse fra lokal lufttrafikktjenesteenhet er det ikke tillatt å fly ubemannet luftfartøy nærmere enn 5 km fra en lufthavn.
+
+> Endret ved forskrift [4 sep 2026 nr. 1736](forskrift/2026-09-04-1736).
 
 ### § 8. Flyging med ubemannet luftfartøy i modellflyorganisasjoner
 
