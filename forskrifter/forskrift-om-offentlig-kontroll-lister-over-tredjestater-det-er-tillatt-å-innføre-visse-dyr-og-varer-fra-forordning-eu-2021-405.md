@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2021-08-26"
-last_change_in_force: "2025-03-13"
+last_change_in_force: "2026-09-03"
 last_updated: null
-xml_hash: "cef303aefebd1e13279655697edf7ee77a6bf92abc10896d44bd57a16181b682"
+xml_hash: "6f86452d86642b6e3b1e62805ce0ff783e70ec8aff0c912a3abf21e0e2954732"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-09T08:55:12.118049+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,9 +36,9 @@ Ved konflikt mellom forordningens bestemmelser og bestemmelser i denne forskrift
 
 ### § 2. Gjennomføring av forordning (EU) 2021/405 som fastsetter lister over tredjestater eller regioner i tredjestater fra hvilke det er tillatt å innføre visse dyr og varer beregnet på konsum til Den europeiske union i tråd med Europaparlaments- og rådsforordning (EU) 2017/625
 
-[EØS-avtalens vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7 forordning [(EU) 2021/405](eu/32021r0405) som fastsetter lister over tredjestater eller regioner i tredjestater som er godkjent for innførsel til EU/EØS av visse dyr og varer av animalsk opprinnelse til konsum, som endret ved forordning [(EU) 2021/606](eu/32021r0606), forordning [(EU) 2021/1327](eu/32021r1327), forordning [(EU) 2021/1469](eu/32021r1469), forordning [(EU) 2022/34](eu/32022r0034), forordning [(EU) 2022/363](eu/32022r0363) som korrigert av Corrigendum, OJ L 72, 7.3.2022, p. 8-8, forordning [(EU) 2022/1389](eu/32022r1389), forordning [(EU) 2023/514](eu/32023r0514), forordning [(EU) 2024/334](eu/32024r0334) og forordning [(EU) 2025/354](eu/32025r0354) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7 forordning [(EU) 2021/405](eu/32021r0405) som fastsetter lister over tredjestater eller regioner i tredjestater som er godkjent for innførsel til EU/EØS av visse dyr og varer av animalsk opprinnelse til konsum, som endret ved forordning [(EU) 2021/606](eu/32021r0606), forordning [(EU) 2021/1327](eu/32021r1327), forordning [(EU) 2021/1469](eu/32021r1469), forordning [(EU) 2022/34](eu/32022r0034), forordning [(EU) 2022/363](eu/32022r0363) som korrigert av Corrigendum, OJ L 72, 7.3.2022, p. 8-8, forordning [(EU) 2022/1389](eu/32022r1389), forordning [(EU) 2023/514](eu/32023r0514), forordning [(EU) 2024/334](eu/32024r0334), forordning [(EU) 2025/354](eu/32025r0354) og forordning [(EU) 2026/1189](eu/32026r1189) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [10 sep 2021 nr. 2746](forskrift/2021-09-10-2746), [30 nov 2021 nr. 3313](forskrift/2021-11-30-3313), [8 mars 2022 nr. 344](forskrift/2022-03-08-344), [8 aug 2022 nr. 1412](forskrift/2022-08-08-1412), [3 okt 2022 nr. 1712](forskrift/2022-10-03-1712), [12 des 2022 nr. 2538](forskrift/2022-12-12-2538) (i kraft 15 des 2022), [27 mars 2023 nr. 484](forskrift/2023-03-27-484) (i kraft 29 mars 2023), [8 feb 2024 nr. 248](forskrift/2024-02-08-248) (i kraft 11 feb 2024), [13 mars 2025 nr. 442](forskrift/2025-03-13-442).
+> Endret ved forskrifter [10 sep 2021 nr. 2746](forskrift/2021-09-10-2746), [30 nov 2021 nr. 3313](forskrift/2021-11-30-3313), [8 mars 2022 nr. 344](forskrift/2022-03-08-344), [8 aug 2022 nr. 1412](forskrift/2022-08-08-1412), [3 okt 2022 nr. 1712](forskrift/2022-10-03-1712), [12 des 2022 nr. 2538](forskrift/2022-12-12-2538) (i kraft 15 des 2022), [27 mars 2023 nr. 484](forskrift/2023-03-27-484) (i kraft 29 mars 2023), [8 feb 2024 nr. 248](forskrift/2024-02-08-248) (i kraft 11 feb 2024), [13 mars 2025 nr. 442](forskrift/2025-03-13-442), [3 sep 2026 nr. 1734](forskrift/2026-09-03-1734).
 
 ## Kapittel III. Administrative bestemmelser
 
@@ -64,12 +64,14 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 ### Forordning (EU) 2021/405
 
-Nedenfor gjengis til informasjon [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kap. I innledende del punkt 7 (forordning [(EU) 2021/405](eu/32021r0405)) konsolidert til og med forordning [(EU) 2023/514](eu/32023r0514).
+Nedenfor gjengis til informasjon [EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) innledende del punkt 7 (forordning [(EU) 2021/405](eu/32021r0405)) konsolidert til og med forordning [(EU) 2026/1189](eu/32026r1189).
 
-For å lese konsolidert forordning [(EU) 2021/405](eu/32021r0405) i dansk versjon trykk her: [pdf-fil](static/SF/32021r0405d-k-07.pdf)
+For å lese konsolidert forordning [(EU) 2021/405](eu/32021r0405) i dansk versjon trykk her: [pdf-fil](static/SF/32021r0405d-k-08.pdf)
 
 For å lese forordning [(EU) 2024/334](eu/32024r0334) i dansk versjon trykk her: [pdf-fil](static/SF/32024r0334d-01.pdf)
 
 For å lese forordning [(EU) 2025/354](eu/32025r0354) i dansk versjon trykk her: [pdf-fil](static/SF/32025r0354d-01.pdf).
 
-> Endret ved forskrifter [10 sep 2021 nr. 2746](forskrift/2021-09-10-2746), [30 nov 2021 nr. 3313](forskrift/2021-11-30-3313), [8 mars 2022 nr. 344](forskrift/2022-03-08-344), [8 aug 2022 nr. 1412](forskrift/2022-08-08-1412), [3 okt 2022 nr. 1712](forskrift/2022-10-03-1712), [12 des 2022 nr. 2538](forskrift/2022-12-12-2538) (i kraft 15 des 2022), [27 mars 2023 nr. 484](forskrift/2023-03-27-484) (i kraft 29 mars 2023), [8 feb 2024 nr. 248](forskrift/2024-02-08-248) (i kraft 11 feb 2024), [13 mars 2025 nr. 442](forskrift/2025-03-13-442).
+For å lese forordning [(EU) 2026/1189](eu/32026r1189) i dansk versjon trykk her: [pdf-fil](static/SF/32026r1189d-01.pdf).
+
+> Endret ved forskrifter [10 sep 2021 nr. 2746](forskrift/2021-09-10-2746), [30 nov 2021 nr. 3313](forskrift/2021-11-30-3313), [8 mars 2022 nr. 344](forskrift/2022-03-08-344), [8 aug 2022 nr. 1412](forskrift/2022-08-08-1412), [3 okt 2022 nr. 1712](forskrift/2022-10-03-1712), [12 des 2022 nr. 2538](forskrift/2022-12-12-2538) (i kraft 15 des 2022), [27 mars 2023 nr. 484](forskrift/2023-03-27-484) (i kraft 29 mars 2023), [8 feb 2024 nr. 248](forskrift/2024-02-08-248) (i kraft 11 feb 2024), [13 mars 2025 nr. 442](forskrift/2025-03-13-442), [3 sep 2026 nr. 1734](forskrift/2026-09-03-1734).
