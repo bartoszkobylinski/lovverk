@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-03-15"
 last_change_in_force: null
 last_updated: null
-xml_hash: "6fd751657b9647b77245e95ea03f31a306c5a66a826bb7b6f69f886b6b2525cf"
+xml_hash: "88ea5b2363761b3f866beeb2476a9e1aed6e551195e88b6d892d9acb15ef2aa8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-09T08:55:12.118049+00:00"
 status: "current"
 eu_basis: []
 ---
