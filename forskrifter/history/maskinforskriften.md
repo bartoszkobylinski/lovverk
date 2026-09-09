@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # maskinforskriften — Change history
 
-_3 events; doc_id `sf-20090520-0544`._
+_4 events; doc_id `sf-20090520-0544`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): maskinforskriften`
+Commit: `a7fa86e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

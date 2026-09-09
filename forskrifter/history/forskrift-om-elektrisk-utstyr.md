@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-elektrisk-utstyr — Change history
 
-_3 events; doc_id `sf-20171010-1598`._
+_4 events; doc_id `sf-20171010-1598`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-elektrisk-utstyr`
+Commit: `3b2b54b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

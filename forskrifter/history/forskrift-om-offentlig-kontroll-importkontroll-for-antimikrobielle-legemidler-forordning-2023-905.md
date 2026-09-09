@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-importkontroll-for-antimikrobielle-legemidler-forordning-2023-905 — Change history
 
-_3 events; doc_id `sf-20250324-0620`._
+_4 events; doc_id `sf-20250324-0620`._
+
+## 2026-09-09 — Content updated
+Lines: +5 -182.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-importkontroll-for-antimikrobielle-legemidler-forordning-2023-905`
+Commit: `77c21cc`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

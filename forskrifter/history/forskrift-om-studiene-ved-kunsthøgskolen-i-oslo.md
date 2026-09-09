@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-studiene-ved-kunsthøgskolen-i-oslo — Change history
 
-_3 events; doc_id `sf-20240611-1304`._
+_4 events; doc_id `sf-20240611-1304`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-studiene-ved-kunsthøgskolen-i-oslo`
+Commit: `79ef368`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

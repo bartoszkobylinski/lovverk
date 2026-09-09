@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # deleg-av-myndighet-til-hod — Change history
 
-_1 events; doc_id `sf-20011221-1478`._
+_2 events; doc_id `sf-20011221-1478`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): deleg-av-myndighet-til-hod`
+Commit: `a7f591b`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +28 -0.

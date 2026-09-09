@@ -2,6 +2,16 @@
   "doc_id": "sf-20210210-0523",
   "events": [
     {
+      "commit": "0ab2264",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): sjøtrafikkforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "427ce5f",
       "date": "2026-07-03",
       "from_path": null,

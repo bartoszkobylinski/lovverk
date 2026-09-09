@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler — Change history
 
-_5 events; doc_id `sf-20150703-0871`._
+_6 events; doc_id `sf-20150703-0871`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler`
+Commit: `12b9ebf`.
 
 ## 2026-07-07 — Content updated
 Lines: +1851 -143.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20180131-0145",
   "events": [
     {
+      "commit": "bc5c116",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): husdyravlsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5bbd18a",
       "date": "2026-06-20",
       "from_path": null,

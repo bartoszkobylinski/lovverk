@@ -2,6 +2,16 @@
   "doc_id": "sf-20151218-1824",
   "events": [
     {
+      "commit": "10a42f6",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-årsregnskap-for-livsforsikringsforetak",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # ansvaret-for-arbeidsmiljø-og-sikkerhetsavd — Change history
 
-_1 events; doc_id `sf-20010330-0291`._
+_2 events; doc_id `sf-20010330-0291`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): ansvaret-for-arbeidsmiljø-og-sikkerhetsavd`
+Commit: `98c74e7`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +27 -0.

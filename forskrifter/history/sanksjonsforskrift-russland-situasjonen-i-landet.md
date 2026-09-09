@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sanksjonsforskrift-russland-situasjonen-i-landet — Change history
 
-_4 events; doc_id `sf-20250314-0472`._
+_5 events; doc_id `sf-20250314-0472`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): sanksjonsforskrift-russland-situasjonen-i-landet`
+Commit: `fdbbb66`.
 
 ## 2026-07-07 — Content updated
 Lines: +103 -73.

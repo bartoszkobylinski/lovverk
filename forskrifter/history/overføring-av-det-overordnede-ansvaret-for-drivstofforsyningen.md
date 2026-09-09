@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # overføring-av-det-overordnede-ansvaret-for-drivstofforsyningen — Change history
 
-_1 events; doc_id `sf-20161216-1644`._
+_2 events; doc_id `sf-20161216-1644`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): overføring-av-det-overordnede-ansvaret-for-drivstofforsyningen`
+Commit: `28d55bd`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +31 -0.

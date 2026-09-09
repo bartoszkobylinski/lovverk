@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fiskefartøy-under-15-m — Change history
 
-_3 events; doc_id `sf-20131122-1404`._
+_4 events; doc_id `sf-20131122-1404`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-fiskefartøy-under-15-m`
+Commit: `9f78b4b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

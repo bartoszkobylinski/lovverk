@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-flyttbare-produksjonsinnretninger — Change history
 
-_3 events; doc_id `sf-19940210-0123`._
+_4 events; doc_id `sf-19940210-0123`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-flyttbare-produksjonsinnretninger`
+Commit: `3723878`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

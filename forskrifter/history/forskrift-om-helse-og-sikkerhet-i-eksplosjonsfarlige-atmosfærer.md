@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfærer — Change history
 
-_3 events; doc_id `sf-20030630-0911`._
+_4 events; doc_id `sf-20030630-0911`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfærer`
+Commit: `0b79c46`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

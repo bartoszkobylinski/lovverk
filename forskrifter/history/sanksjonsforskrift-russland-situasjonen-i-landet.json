@@ -2,6 +2,16 @@
   "doc_id": "sf-20250314-0472",
   "events": [
     {
+      "commit": "fdbbb66",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): sanksjonsforskrift-russland-situasjonen-i-landet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "1812ae6",
       "date": "2026-07-07",
       "from_path": null,

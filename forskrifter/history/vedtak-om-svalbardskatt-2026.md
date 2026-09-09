@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vedtak-om-svalbardskatt-2026 — Change history
 
-_1 events; doc_id `sf-20251219-2780`._
+_2 events; doc_id `sf-20251219-2780`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): vedtak-om-svalbardskatt-2026`
+Commit: `89d253d`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +53 -0.

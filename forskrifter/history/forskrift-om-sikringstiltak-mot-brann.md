@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sikringstiltak-mot-brann — Change history
 
-_3 events; doc_id `sf-19870904-0743`._
+_4 events; doc_id `sf-19870904-0743`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-sikringstiltak-mot-brann`
+Commit: `e59647f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

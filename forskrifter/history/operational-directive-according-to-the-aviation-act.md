@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # operational-directive-according-to-the-aviation-act — Change history
 
-_4 events; doc_id `sf-20131220-1648`._
+_5 events; doc_id `sf-20131220-1648`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): operational-directive-according-to-the-aviation-act`
+Commit: `d934e4e`.
 
 ## 2026-07-07 — Content updated
 Lines: +27 -3.

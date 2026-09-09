@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # stortingsvedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2022 — Change history
 
-_1 events; doc_id `sf-20211215-3580`._
+_2 events; doc_id `sf-20211215-3580`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): stortingsvedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2022`
+Commit: `44945b8`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +55 -0.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20111222-1523",
   "events": [
     {
+      "commit": "0a81354",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-kvalifikasjoner-mv-for-sjøfolk",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "acec859",
       "date": "2026-05-20",
       "from_path": null,

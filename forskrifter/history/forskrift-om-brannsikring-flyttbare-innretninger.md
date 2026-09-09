@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-brannsikring-flyttbare-innretninger — Change history
 
-_3 events; doc_id `sf-19840131-0227`._
+_4 events; doc_id `sf-19840131-0227`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-brannsikring-flyttbare-innretninger`
+Commit: `4507cc6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

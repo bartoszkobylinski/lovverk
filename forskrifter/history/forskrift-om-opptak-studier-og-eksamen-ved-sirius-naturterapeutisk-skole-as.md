@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studier-og-eksamen-ved-sirius-naturterapeutisk-skole-as — Change history
 
-_3 events; doc_id `sf-20190822-1094`._
+_4 events; doc_id `sf-20190822-1094`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-sirius-naturterapeutisk-skole-as`
+Commit: `c9d3cc2`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

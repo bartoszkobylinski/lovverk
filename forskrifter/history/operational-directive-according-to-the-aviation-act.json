@@ -2,6 +2,16 @@
   "doc_id": "sf-20131220-1648",
   "events": [
     {
+      "commit": "d934e4e",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): operational-directive-according-to-the-aviation-act",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "112f420",
       "date": "2026-07-07",
       "from_path": null,

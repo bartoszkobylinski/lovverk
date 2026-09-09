@@ -2,6 +2,16 @@
   "doc_id": "sf-20110606-0669",
   "events": [
     {
+      "commit": "ee291f0",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): aromaforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6ab2b60",
       "date": "2026-05-08",
       "from_path": null,

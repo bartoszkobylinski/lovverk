@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # innretningsforskriften — Change history
 
-_3 events; doc_id `sf-20100429-0634`._
+_4 events; doc_id `sf-20100429-0634`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): innretningsforskriften`
+Commit: `bb268c8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

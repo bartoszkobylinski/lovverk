@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forsk-om-deleg-lov-om-forsikr-virksomhet-m-m — Change history
 
-_1 events; doc_id `sf-19890825-0825`._
+_2 events; doc_id `sf-19890825-0825`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forsk-om-deleg-lov-om-forsikr-virksomhet-m-m`
+Commit: `1707d45`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +39 -0.

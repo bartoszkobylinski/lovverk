@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tiltak-mot-akrylamid-i-næringsmidler — Change history
 
-_3 events; doc_id `sf-20190712-1008`._
+_4 events; doc_id `sf-20190712-1008`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tiltak-mot-akrylamid-i-næringsmidler`
+Commit: `f4e4c97`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

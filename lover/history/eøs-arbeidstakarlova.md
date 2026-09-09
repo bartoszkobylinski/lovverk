@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # eøs-arbeidstakarlova — Change history
 
-_3 events; doc_id `nl-20121214-081`._
+_4 events; doc_id `nl-20121214-081`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): eøs-arbeidstakarlova`
+Commit: `b5ac72f`.
 
 ## 2026-04-29 — Content updated
 Lines: +4 -1.

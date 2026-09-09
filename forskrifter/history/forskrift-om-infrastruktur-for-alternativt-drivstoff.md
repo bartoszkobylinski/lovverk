@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-infrastruktur-for-alternativt-drivstoff — Change history
 
-_3 events; doc_id `sf-20210907-2692`._
+_4 events; doc_id `sf-20210907-2692`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-infrastruktur-for-alternativt-drivstoff`
+Commit: `0bf2e78`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

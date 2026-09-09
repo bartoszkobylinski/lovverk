@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-lagring-og-transport-av-co2-på-sokkelen — Change history
 
-_3 events; doc_id `sf-20141205-1517`._
+_4 events; doc_id `sf-20141205-1517`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-lagring-og-transport-av-co2-på-sokkelen`
+Commit: `9d6fbf4`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

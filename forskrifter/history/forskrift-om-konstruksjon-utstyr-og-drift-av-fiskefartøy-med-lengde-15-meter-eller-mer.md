@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-konstruksjon-utstyr-og-drift-av-fiskefartøy-med-lengde-15-meter-eller-mer — Change history
 
-_3 events; doc_id `sf-20000613-0660`._
+_4 events; doc_id `sf-20000613-0660`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-konstruksjon-utstyr-og-drift-av-fiskefartøy-med-lengde-15-meter-eller-mer`
+Commit: `c4efb03`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

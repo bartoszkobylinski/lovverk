@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-kommunal-og-distriktsdepartementets-tilskudd-til-fou-program-innen-marin-bioteknologi-i-nord-norge — Change history
 
-_3 events; doc_id `sf-20230220-0222`._
+_4 events; doc_id `sf-20230220-0222`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-kommunal-og-distriktsdepartementets-tilskudd-til-fou-program-innen-marin-bioteknologi-i-nord-norge`
+Commit: `be5bf0d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

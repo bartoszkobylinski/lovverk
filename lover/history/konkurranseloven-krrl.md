@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # konkurranseloven-krrl — Change history
 
-_3 events; doc_id `nl-20040305-012`._
+_4 events; doc_id `nl-20040305-012`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): konkurranseloven-krrl`
+Commit: `426b2ce`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

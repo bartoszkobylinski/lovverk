@@ -2,6 +2,16 @@
   "doc_id": "sf-20220406-0630",
   "events": [
     {
+      "commit": "e1d9866",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): avlsmaterialeforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "1bc540c",
       "date": "2026-07-11",
       "from_path": null,

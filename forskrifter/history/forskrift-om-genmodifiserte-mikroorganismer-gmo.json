@@ -2,6 +2,16 @@
   "doc_id": "sf-20011221-1600",
   "events": [
     {
+      "commit": "7229aca",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-genmodifiserte-mikroorganismer-gmo",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c3e4410",
       "date": "2026-06-20",
       "from_path": null,

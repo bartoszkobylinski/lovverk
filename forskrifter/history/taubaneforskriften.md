@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # taubaneforskriften — Change history
 
-_3 events; doc_id `sf-20221220-2383`._
+_4 events; doc_id `sf-20221220-2383`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): taubaneforskriften`
+Commit: `419ef08`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

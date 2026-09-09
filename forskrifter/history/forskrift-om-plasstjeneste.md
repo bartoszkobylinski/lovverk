@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-plasstjeneste — Change history
 
-_3 events; doc_id `sf-20040427-0670`._
+_4 events; doc_id `sf-20040427-0670`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-plasstjeneste`
+Commit: `acb8ca8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

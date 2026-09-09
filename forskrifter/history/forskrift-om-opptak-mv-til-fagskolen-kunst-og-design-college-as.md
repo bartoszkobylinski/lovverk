@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as — Change history
 
-_4 events; doc_id `sf-20170920-1444`._
+_5 events; doc_id `sf-20170920-1444`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as`
+Commit: `12f32bc`.
 
 ## 2026-07-07 — Content updated
 Lines: +3 -3.

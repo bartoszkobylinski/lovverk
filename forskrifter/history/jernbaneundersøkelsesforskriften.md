@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # jernbaneundersøkelsesforskriften — Change history
 
-_3 events; doc_id `sf-20060331-0378`._
+_4 events; doc_id `sf-20060331-0378`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): jernbaneundersøkelsesforskriften`
+Commit: `03a5fb3`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

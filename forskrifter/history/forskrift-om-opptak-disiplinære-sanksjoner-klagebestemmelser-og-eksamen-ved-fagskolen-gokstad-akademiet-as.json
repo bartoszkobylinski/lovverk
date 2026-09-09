@@ -2,6 +2,16 @@
   "doc_id": "sf-20251201-2991",
   "events": [
     {
+      "commit": "c50d7ca",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

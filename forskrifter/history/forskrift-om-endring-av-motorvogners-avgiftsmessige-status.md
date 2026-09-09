@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-endring-av-motorvogners-avgiftsmessige-status — Change history
 
-_3 events; doc_id `sf-20151216-1685`._
+_4 events; doc_id `sf-20151216-1685`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-endring-av-motorvogners-avgiftsmessige-status`
+Commit: `55a7b43`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

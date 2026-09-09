@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrifter-om-sjømannspensjonering — Change history
 
-_3 events; doc_id `sf-20001115-1274`._
+_4 events; doc_id `sf-20001115-1274`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrifter-om-sjømannspensjonering`
+Commit: `69c1099`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

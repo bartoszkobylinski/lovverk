@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilvirkning-og-import-av-legemidler — Change history
 
-_3 events; doc_id `sf-20041102-1441`._
+_4 events; doc_id `sf-20041102-1441`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tilvirkning-og-import-av-legemidler`
+Commit: `273f253`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

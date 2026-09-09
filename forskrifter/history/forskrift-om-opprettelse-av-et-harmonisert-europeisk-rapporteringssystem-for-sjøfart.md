@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opprettelse-av-et-harmonisert-europeisk-rapporteringssystem-for-sjøfart — Change history
 
-_4 events; doc_id `sf-20241218-3315`._
+_5 events; doc_id `sf-20241218-3315`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opprettelse-av-et-harmonisert-europeisk-rapporteringssystem-for-sjøfart`
+Commit: `015c9f3`.
 
 ## 2026-05-14 — Content updated
 Lines: +7 -5.

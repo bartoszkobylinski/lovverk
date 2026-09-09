@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-årsregnskap-for-livsforsikringsforetak — Change history
 
-_3 events; doc_id `sf-20151218-1824`._
+_4 events; doc_id `sf-20151218-1824`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-årsregnskap-for-livsforsikringsforetak`
+Commit: `10a42f6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

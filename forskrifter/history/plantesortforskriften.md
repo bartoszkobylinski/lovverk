@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # plantesortforskriften — Change history
 
-_5 events; doc_id `sf-19991001-1069`._
+_6 events; doc_id `sf-19991001-1069`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): plantesortforskriften`
+Commit: `e30b1b7`.
 
 ## 2026-05-28 — Content updated
 Lines: +7 -7.

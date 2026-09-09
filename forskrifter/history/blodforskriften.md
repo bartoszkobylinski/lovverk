@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # blodforskriften — Change history
 
-_3 events; doc_id `sf-20050204-0080`._
+_4 events; doc_id `sf-20050204-0080`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): blodforskriften`
+Commit: `27d3309`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sjøtrafikkforskriften — Change history
 
-_4 events; doc_id `sf-20210210-0523`._
+_5 events; doc_id `sf-20210210-0523`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): sjøtrafikkforskriften`
+Commit: `0ab2264`.
 
 ## 2026-07-03 — Content updated
 Lines: +358 -184.

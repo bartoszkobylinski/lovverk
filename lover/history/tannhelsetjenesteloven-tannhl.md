@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tannhelsetjenesteloven-tannhl — Change history
 
-_5 events; doc_id `nl-19830603-054`._
+_6 events; doc_id `nl-19830603-054`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): tannhelsetjenesteloven-tannhl`
+Commit: `0f8acc3`.
 
 ## 2026-07-01 — Content updated
 Lines: +8 -6.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # damsikkerhetsforskriften — Change history
 
-_4 events; doc_id `sf-20091218-1600`._
+_5 events; doc_id `sf-20091218-1600`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): damsikkerhetsforskriften`
+Commit: `db4c902`.
 
 ## 2026-07-07 — Content updated
 Lines: +159 -26.

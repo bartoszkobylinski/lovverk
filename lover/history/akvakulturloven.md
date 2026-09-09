@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # akvakulturloven — Change history
 
-_3 events; doc_id `nl-20050617-079`._
+_4 events; doc_id `nl-20050617-079`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): akvakulturloven`
+Commit: `dfcec17`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

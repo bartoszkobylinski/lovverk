@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # miljøinformasjonsloven-mlinfl — Change history
 
-_4 events; doc_id `nl-20030509-031`._
+_5 events; doc_id `nl-20030509-031`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): miljøinformasjonsloven-mlinfl`
+Commit: `d0450cd`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20170920-1444",
   "events": [
     {
+      "commit": "12f32bc",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "dc580b3",
       "date": "2026-07-07",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-arbeidernes-innflytelse-i-se — Change history
 
-_3 events; doc_id `sf-20050401-0273`._
+_4 events; doc_id `sf-20050401-0273`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-arbeidernes-innflytelse-i-se`
+Commit: `a50c700`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

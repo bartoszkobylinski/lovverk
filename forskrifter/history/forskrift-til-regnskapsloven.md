@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-til-regnskapsloven — Change history
 
-_4 events; doc_id `sf-20060907-1062`._
+_5 events; doc_id `sf-20060907-1062`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-til-regnskapsloven`
+Commit: `a3ecef1`.
 
 ## 2026-07-07 — Content updated
 Lines: +4 -4.

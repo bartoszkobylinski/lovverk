@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # skatteloven-sktl — Change history
 
-_6 events; doc_id `nl-19990326-014`._
+_7 events; doc_id `nl-19990326-014`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): skatteloven-sktl`
+Commit: `d4c185c`.
 
 ## 2026-07-01 — Content updated
 Lines: +9 -9.

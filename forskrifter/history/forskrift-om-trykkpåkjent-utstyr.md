@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-trykkpåkjent-utstyr — Change history
 
-_3 events; doc_id `sf-20171010-1631`._
+_4 events; doc_id `sf-20171010-1631`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-trykkpåkjent-utstyr`
+Commit: `0e3e3b9`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

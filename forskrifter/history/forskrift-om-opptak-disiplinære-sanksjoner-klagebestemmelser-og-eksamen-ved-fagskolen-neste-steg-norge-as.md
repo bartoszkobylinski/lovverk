@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-neste-steg-norge-as — Change history
 
-_3 events; doc_id `sf-20220117-2725`._
+_4 events; doc_id `sf-20220117-2725`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-neste-steg-norge-as`
+Commit: `f1cf44d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

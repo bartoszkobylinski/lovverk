@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-på-matområdet — Change history
 
-_3 events; doc_id `sf-20200303-0704`._
+_4 events; doc_id `sf-20200303-0704`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-på-matområdet`
+Commit: `88d10a6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

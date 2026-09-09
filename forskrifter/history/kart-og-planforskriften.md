@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kart-og-planforskriften — Change history
 
-_3 events; doc_id `sf-20250120-0052`._
+_4 events; doc_id `sf-20250120-0052`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): kart-og-planforskriften`
+Commit: `dad2998`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-til-studier-ved-norges-teknisk-naturvitenskapelige-universitet — Change history
 
-_3 events; doc_id `sf-20250306-0376`._
+_4 events; doc_id `sf-20250306-0376`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-til-studier-ved-norges-teknisk-naturvitenskapelige-universitet`
+Commit: `3187f61`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-film-og-videogram — Change history
 
-_3 events; doc_id `sf-19991220-1515`._
+_4 events; doc_id `sf-19991220-1515`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-film-og-videogram`
+Commit: `8007eb0`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

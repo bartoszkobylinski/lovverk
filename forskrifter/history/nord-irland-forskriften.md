@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # nord-irland-forskriften — Change history
 
-_1 events; doc_id `sf-20260521-0960`._
+_2 events; doc_id `sf-20260521-0960`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): nord-irland-forskriften`
+Commit: `70f27c7`.
 
 ## 2026-06-04 — Added to corpus
 Lines: +433 -0.

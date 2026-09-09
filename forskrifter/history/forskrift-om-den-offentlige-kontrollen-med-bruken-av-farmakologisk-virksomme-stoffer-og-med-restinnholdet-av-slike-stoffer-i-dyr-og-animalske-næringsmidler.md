@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler — Change history
 
-_3 events; doc_id `sf-20200304-0705`._
+_4 events; doc_id `sf-20200304-0705`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler`
+Commit: `2da4958`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

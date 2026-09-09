@@ -2,6 +2,16 @@
   "doc_id": "nl-19990716-066",
   "events": [
     {
+      "commit": "aa31000",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): sis-loven-sisl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "371e278",
       "date": "2026-06-13",
       "from_path": null,

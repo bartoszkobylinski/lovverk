@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-såvarer — Change history
 
-_3 events; doc_id `sf-19990913-1052`._
+_4 events; doc_id `sf-19990913-1052`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-såvarer`
+Commit: `f50bd35`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

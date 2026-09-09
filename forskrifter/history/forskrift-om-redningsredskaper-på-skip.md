@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-redningsredskaper-på-skip — Change history
 
-_3 events; doc_id `sf-20140701-1019`._
+_4 events; doc_id `sf-20140701-1019`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-redningsredskaper-på-skip`
+Commit: `6d8b6db`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

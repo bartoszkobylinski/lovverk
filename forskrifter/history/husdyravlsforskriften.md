@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # husdyravlsforskriften — Change history
 
-_4 events; doc_id `sf-20180131-0145`._
+_5 events; doc_id `sf-20180131-0145`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): husdyravlsforskriften`
+Commit: `bc5c116`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.

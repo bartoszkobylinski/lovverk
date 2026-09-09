@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utstyr-mv-i-eksplosjonsfarlig-område — Change history
 
-_3 events; doc_id `sf-20171129-1849`._
+_4 events; doc_id `sf-20171129-1849`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utstyr-mv-i-eksplosjonsfarlig-område`
+Commit: `a4db20c`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-trafikkflyger-fagskoleutdanning-european-helicopter-center — Change history
 
-_3 events; doc_id `sf-20231227-2428`._
+_4 events; doc_id `sf-20231227-2428`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-trafikkflyger-fagskoleutdanning-european-helicopter-center`
+Commit: `2d87f62`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

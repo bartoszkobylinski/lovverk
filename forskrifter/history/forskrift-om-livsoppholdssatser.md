@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-livsoppholdssatser — Change history
 
-_5 events; doc_id `sf-20140613-0724`._
+_6 events; doc_id `sf-20140613-0724`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-livsoppholdssatser`
+Commit: `72f0947`.
 
 ## 2026-07-01 — Content updated
 Lines: +9 -9.

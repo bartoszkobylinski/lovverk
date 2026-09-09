@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-medisinsk-fødselsregisterforskriften — Change history
 
-_3 events; doc_id `sf-20210611-1877`._
+_4 events; doc_id `sf-20210611-1877`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): endr-i-medisinsk-fødselsregisterforskriften`
+Commit: `c20eb6f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

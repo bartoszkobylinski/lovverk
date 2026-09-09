@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fyrverkeri-og-pyrotekniske-varer — Change history
 
-_3 events; doc_id `sf-20020626-0922`._
+_4 events; doc_id `sf-20020626-0922`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-fyrverkeri-og-pyrotekniske-varer`
+Commit: `e11a0b3`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

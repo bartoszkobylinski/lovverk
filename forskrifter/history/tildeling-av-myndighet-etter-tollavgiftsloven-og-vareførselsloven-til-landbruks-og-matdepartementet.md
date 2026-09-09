@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tildeling-av-myndighet-etter-tollavgiftsloven-og-vareførselsloven-til-landbruks-og-matdepartementet — Change history
 
-_1 events; doc_id `sf-20221021-1778`._
+_2 events; doc_id `sf-20221021-1778`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): tildeling-av-myndighet-etter-tollavgiftsloven-og-vareførselsloven-til-landbruks-og-matdepartementet`
+Commit: `fefb7a2`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +26 -0.

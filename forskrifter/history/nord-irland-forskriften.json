@@ -2,6 +2,16 @@
   "doc_id": "sf-20260521-0960",
   "events": [
     {
+      "commit": "70f27c7",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): nord-irland-forskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "bfe4350",
       "date": "2026-06-04",
       "from_path": null,

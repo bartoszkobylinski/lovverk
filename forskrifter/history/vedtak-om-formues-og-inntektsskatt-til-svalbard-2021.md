@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vedtak-om-formues-og-inntektsskatt-til-svalbard-2021 — Change history
 
-_1 events; doc_id `sf-20201216-2799`._
+_2 events; doc_id `sf-20201216-2799`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): vedtak-om-formues-og-inntektsskatt-til-svalbard-2021`
+Commit: `db35196`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +53 -0.

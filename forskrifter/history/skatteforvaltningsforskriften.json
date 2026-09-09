@@ -2,6 +2,16 @@
   "doc_id": "sf-20161123-1360",
   "events": [
     {
+      "commit": "a8cd662",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): skatteforvaltningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "ed4f668",
       "date": "2026-07-07",
       "from_path": null,

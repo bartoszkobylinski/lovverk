@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # omorganisering-av-departementsstrukturen — Change history
 
-_1 events; doc_id `sf-19921218-1074`._
+_2 events; doc_id `sf-19921218-1074`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): omorganisering-av-departementsstrukturen`
+Commit: `b52302c`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +42 -0.

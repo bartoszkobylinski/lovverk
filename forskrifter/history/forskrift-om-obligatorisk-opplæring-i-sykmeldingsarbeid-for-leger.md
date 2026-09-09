@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-obligatorisk-opplæring-i-sykmeldingsarbeid-for-leger — Change history
 
-_3 events; doc_id `sf-20121207-1147`._
+_4 events; doc_id `sf-20121207-1147`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-obligatorisk-opplæring-i-sykmeldingsarbeid-for-leger`
+Commit: `a31c805`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

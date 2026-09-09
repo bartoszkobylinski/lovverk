@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utforming-av-sjøflyplasser — Change history
 
-_3 events; doc_id `sf-20021203-1383`._
+_4 events; doc_id `sf-20021203-1383`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utforming-av-sjøflyplasser`
+Commit: `b2cf295`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

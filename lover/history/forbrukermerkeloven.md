@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forbrukermerkeloven — Change history
 
-_3 events; doc_id `nl-19811218-090`._
+_4 events; doc_id `nl-19811218-090`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): forbrukermerkeloven`
+Commit: `4cbaf76`.
 
 ## 2026-04-29 — Content updated
 Lines: +6 -1.

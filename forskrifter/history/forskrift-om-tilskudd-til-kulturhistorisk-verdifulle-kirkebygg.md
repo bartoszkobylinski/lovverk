@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-kulturhistorisk-verdifulle-kirkebygg — Change history
 
-_3 events; doc_id `sf-20240623-1309`._
+_4 events; doc_id `sf-20240623-1309`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-kulturhistorisk-verdifulle-kirkebygg`
+Commit: `e108b5b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

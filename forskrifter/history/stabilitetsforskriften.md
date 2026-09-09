@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # stabilitetsforskriften — Change history
 
-_3 events; doc_id `sf-19911220-0878`._
+_4 events; doc_id `sf-19911220-0878`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): stabilitetsforskriften`
+Commit: `ead39fc`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

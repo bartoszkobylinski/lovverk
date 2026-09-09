@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-hvilke-helseopplysninger-som-kan-behandles-i-helseregister-med-tolkede-genetiske-varianter — Change history
 
-_3 events; doc_id `sf-20210921-2807`._
+_4 events; doc_id `sf-20210921-2807`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-hvilke-helseopplysninger-som-kan-behandles-i-helseregister-med-tolkede-genetiske-varianter`
+Commit: `0d70a6f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

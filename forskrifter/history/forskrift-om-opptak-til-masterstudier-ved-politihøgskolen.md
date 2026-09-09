@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-til-masterstudier-ved-politihøgskolen — Change history
 
-_3 events; doc_id `sf-20170419-0674`._
+_4 events; doc_id `sf-20170419-0674`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-til-masterstudier-ved-politihøgskolen`
+Commit: `f94f7c8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

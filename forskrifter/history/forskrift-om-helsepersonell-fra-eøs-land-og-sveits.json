@@ -2,6 +2,16 @@
   "doc_id": "sf-20081008-1130",
   "events": [
     {
+      "commit": "c8e7952",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-helsepersonell-fra-eøs-land-og-sveits",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

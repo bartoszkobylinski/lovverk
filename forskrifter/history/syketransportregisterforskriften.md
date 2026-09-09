@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # syketransportregisterforskriften — Change history
 
-_3 events; doc_id `sf-20160603-0573`._
+_4 events; doc_id `sf-20160603-0573`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): syketransportregisterforskriften`
+Commit: `d4edcad`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

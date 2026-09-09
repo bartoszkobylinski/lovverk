@@ -2,6 +2,16 @@
   "doc_id": "sf-20140613-0724",
   "events": [
     {
+      "commit": "72f0947",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-livsoppholdssatser",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

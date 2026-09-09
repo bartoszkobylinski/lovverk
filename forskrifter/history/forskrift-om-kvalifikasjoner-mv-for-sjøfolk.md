@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-kvalifikasjoner-mv-for-sjøfolk — Change history
 
-_4 events; doc_id `sf-20111222-1523`._
+_5 events; doc_id `sf-20111222-1523`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-kvalifikasjoner-mv-for-sjøfolk`
+Commit: `0a81354`.
 
 ## 2026-05-20 — Content updated
 Lines: +9 -7.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-naturlig-mineralvann-og-kildevann — Change history
 
-_3 events; doc_id `sf-20041004-1316`._
+_4 events; doc_id `sf-20041004-1316`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-naturlig-mineralvann-og-kildevann`
+Commit: `6ecece5`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

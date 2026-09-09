@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-nukleære-materialer-og-anlegg — Change history
 
-_3 events; doc_id `sf-19841102-1809`._
+_4 events; doc_id `sf-19841102-1809`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-nukleære-materialer-og-anlegg`
+Commit: `d1c1495`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # yrkessykdomsforskriften — Change history
 
-_3 events; doc_id `sf-19970311-0220`._
+_4 events; doc_id `sf-19970311-0220`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): yrkessykdomsforskriften`
+Commit: `f4f9dea`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

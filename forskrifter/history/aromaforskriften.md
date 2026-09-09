@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # aromaforskriften — Change history
 
-_4 events; doc_id `sf-20110606-0669`._
+_5 events; doc_id `sf-20110606-0669`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): aromaforskriften`
+Commit: `ee291f0`.
 
 ## 2026-05-08 — Content updated
 Lines: +10 -8.

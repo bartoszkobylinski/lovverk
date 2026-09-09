@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kjæledyrforskriften — Change history
 
-_3 events; doc_id `sf-20160519-0542`._
+_4 events; doc_id `sf-20160519-0542`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): kjæledyrforskriften`
+Commit: `d06b765`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

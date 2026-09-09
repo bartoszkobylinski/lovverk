@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # prioriteringsforskriften — Change history
 
-_3 events; doc_id `sf-20001201-1208`._
+_4 events; doc_id `sf-20001201-1208`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): prioriteringsforskriften`
+Commit: `ed7b77f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

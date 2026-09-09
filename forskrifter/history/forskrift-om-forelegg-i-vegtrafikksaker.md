@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-forelegg-i-vegtrafikksaker — Change history
 
-_3 events; doc_id `sf-19900629-0492`._
+_4 events; doc_id `sf-19900629-0492`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-forelegg-i-vegtrafikksaker`
+Commit: `39fa2c5`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

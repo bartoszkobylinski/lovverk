@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # norsk-pasientregisterforskriften-npr — Change history
 
-_6 events; doc_id `sf-20071207-1389`._
+_7 events; doc_id `sf-20071207-1389`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): norsk-pasientregisterforskriften-npr`
+Commit: `c9ba0a8`.
 
 ## 2026-07-09 — Content updated
 Lines: +18 -4.

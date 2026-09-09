@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-kommunale-viltfond-m-m — Change history
 
-_4 events; doc_id `sf-20110515-0537`._
+_5 events; doc_id `sf-20110515-0537`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-kommunale-viltfond-m-m`
+Commit: `5ee355d`.
 
 ## 2026-07-01 — Content updated
 Lines: +6 -4.

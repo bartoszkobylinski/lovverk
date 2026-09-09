@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # legemiddelforskriften — Change history
 
-_7 events; doc_id `sf-20091218-1839`._
+_8 events; doc_id `sf-20091218-1839`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): legemiddelforskriften`
+Commit: `336f158`.
 
 ## 2026-07-01 — Content updated
 Lines: +76 -67.

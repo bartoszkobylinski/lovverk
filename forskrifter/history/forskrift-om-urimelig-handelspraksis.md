@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-urimelig-handelspraksis — Change history
 
-_3 events; doc_id `sf-20090601-0565`._
+_4 events; doc_id `sf-20090601-0565`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-urimelig-handelspraksis`
+Commit: `8f29f1d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

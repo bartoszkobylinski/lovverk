@@ -2,6 +2,16 @@
   "doc_id": "sf-20150611-0924",
   "events": [
     {
+      "commit": "0f9aadd",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-graden-ph-d-ved-bi",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fdc145c",
       "date": "2026-08-01",
       "from_path": null,

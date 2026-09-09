@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # medisinsk-fødselsregisterforskriften — Change history
 
-_3 events; doc_id `sf-20011221-1483`._
+_4 events; doc_id `sf-20011221-1483`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): medisinsk-fødselsregisterforskriften`
+Commit: `db94d8f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

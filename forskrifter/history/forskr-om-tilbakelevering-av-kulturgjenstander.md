@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskr-om-tilbakelevering-av-kulturgjenstander — Change history
 
-_3 events; doc_id `sf-20011004-1179`._
+_4 events; doc_id `sf-20011004-1179`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskr-om-tilbakelevering-av-kulturgjenstander`
+Commit: `5f8c388`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

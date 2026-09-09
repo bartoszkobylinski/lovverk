@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-eksamen-studierett-og-grader-ved-høgskolen-i-østfold — Change history
 
-_3 events; doc_id `sf-20240917-2231`._
+_4 events; doc_id `sf-20240917-2231`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-eksamen-studierett-og-grader-ved-høgskolen-i-østfold`
+Commit: `2209047`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

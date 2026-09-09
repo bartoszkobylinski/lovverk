@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # delegering-etter-finansieringsloven — Change history
 
-_1 events; doc_id `sf-19880610-0457`._
+_2 events; doc_id `sf-19880610-0457`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): delegering-etter-finansieringsloven`
+Commit: `210daab`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +35 -0.

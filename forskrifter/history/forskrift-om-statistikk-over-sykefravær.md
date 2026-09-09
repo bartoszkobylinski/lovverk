@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-statistikk-over-sykefravær — Change history
 
-_3 events; doc_id `sf-19970325-0272`._
+_4 events; doc_id `sf-19970325-0272`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-statistikk-over-sykefravær`
+Commit: `13f68f6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

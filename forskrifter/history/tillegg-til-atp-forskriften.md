@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tillegg-til-atp-forskriften — Change history
 
-_3 events; doc_id `sf-19800828-9644`._
+_4 events; doc_id `sf-19800828-9644`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): tillegg-til-atp-forskriften`
+Commit: `2580a9f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-funksjonshemmedes-organisasjoner — Change history
 
-_3 events; doc_id `sf-20230101-0122`._
+_4 events; doc_id `sf-20230101-0122`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-funksjonshemmedes-organisasjoner`
+Commit: `1a4ad72`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

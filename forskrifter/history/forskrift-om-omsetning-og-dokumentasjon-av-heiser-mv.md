@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-omsetning-og-dokumentasjon-av-heiser-mv — Change history
 
-_3 events; doc_id `sf-20160413-0373`._
+_4 events; doc_id `sf-20160413-0373`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-omsetning-og-dokumentasjon-av-heiser-mv`
+Commit: `c3c5a93`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

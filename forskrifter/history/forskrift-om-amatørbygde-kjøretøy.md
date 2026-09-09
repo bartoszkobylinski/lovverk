@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-amatørbygde-kjøretøy — Change history
 
-_3 events; doc_id `sf-20131010-1217`._
+_4 events; doc_id `sf-20131010-1217`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-amatørbygde-kjøretøy`
+Commit: `2aebdd8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

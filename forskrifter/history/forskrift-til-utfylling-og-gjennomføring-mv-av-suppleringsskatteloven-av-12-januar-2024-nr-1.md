@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-til-utfylling-og-gjennomføring-mv-av-suppleringsskatteloven-av-12-januar-2024-nr-1 — Change history
 
-_3 events; doc_id `sf-20240326-0541`._
+_4 events; doc_id `sf-20240326-0541`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-til-utfylling-og-gjennomføring-mv-av-suppleringsskatteloven-av-12-januar-2024-nr-1`
+Commit: `72e1b11`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

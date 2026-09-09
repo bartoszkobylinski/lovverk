@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # msis-forskriften — Change history
 
-_3 events; doc_id `sf-20030620-0740`._
+_4 events; doc_id `sf-20030620-0740`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): msis-forskriften`
+Commit: `f224ce2`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

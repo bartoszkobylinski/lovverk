@@ -2,6 +2,16 @@
   "doc_id": "sf-20111206-1357",
   "events": [
     {
+      "commit": "61a34fa",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-utførelse-av-arbeid",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2e4fe51",
       "date": "2026-06-10",
       "from_path": null,

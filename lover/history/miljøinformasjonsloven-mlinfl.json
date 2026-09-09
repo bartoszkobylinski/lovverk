@@ -2,6 +2,16 @@
   "doc_id": "nl-20030509-031",
   "events": [
     {
+      "commit": "d0450cd",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): miljøinformasjonsloven-mlinfl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "10f0381",
       "date": "2026-06-20",
       "from_path": null,

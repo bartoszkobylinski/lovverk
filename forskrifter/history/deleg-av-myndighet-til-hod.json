@@ -2,6 +2,16 @@
   "doc_id": "sf-20011221-1478",
   "events": [
     {
+      "commit": "a7f591b",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): deleg-av-myndighet-til-hod",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5244bff",
       "date": "2026-06-30",
       "from_path": null,

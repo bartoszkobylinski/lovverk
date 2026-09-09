@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-genmodifiserte-mikroorganismer-gmo — Change history
 
-_4 events; doc_id `sf-20011221-1600`._
+_5 events; doc_id `sf-20011221-1600`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-genmodifiserte-mikroorganismer-gmo`
+Commit: `7229aca`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.

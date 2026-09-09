@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-trafikkflyger-fagskoleutdanning-cae-oslo-aviation-academy — Change history
 
-_4 events; doc_id `sf-20191113-2285`._
+_5 events; doc_id `sf-20191113-2285`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-trafikkflyger-fagskoleutdanning-cae-oslo-aviation-academy`
+Commit: `667a6f3`.
 
 ## 2026-07-07 — Content updated
 Lines: +7 -3.

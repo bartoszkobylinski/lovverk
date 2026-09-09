@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-merking-mm-av-forvarer — Change history
 
-_4 events; doc_id `sf-20110402-0360`._
+_5 events; doc_id `sf-20110402-0360`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-merking-mm-av-forvarer`
+Commit: `313b2a0`.
 
 ## 2026-07-07 — Content updated
 Lines: +885 -446.

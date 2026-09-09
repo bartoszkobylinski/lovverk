@@ -2,6 +2,16 @@
   "doc_id": "sf-20130405-0959",
   "events": [
     {
+      "commit": "ff7272d",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-it-standarder-i-offentlig-forvaltning",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9774ff2",
       "date": "2026-06-04",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # stortingsvedtak-om-co2-avgift-på-mineralske-produkter-for-2026 — Change history
 
-_2 events; doc_id `sf-20251218-2763`._
+_3 events; doc_id `sf-20251218-2763`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): stortingsvedtak-om-co2-avgift-på-mineralske-produkter-for-2026`
+Commit: `af298e8`.
 
 ## 2026-09-01 — Content updated
 Lines: +7 -11.

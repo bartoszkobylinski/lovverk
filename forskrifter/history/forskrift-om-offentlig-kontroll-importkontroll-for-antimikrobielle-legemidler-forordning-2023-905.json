@@ -2,6 +2,16 @@
   "doc_id": "sf-20250324-0620",
   "events": [
     {
+      "commit": "77c21cc",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 182,
+      "subject": "update(forskrift): forskrift-om-offentlig-kontroll-importkontroll-for-antimikrobielle-legemidler-forordning-2023-905",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

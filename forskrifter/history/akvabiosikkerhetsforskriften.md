@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # akvabiosikkerhetsforskriften — Change history
 
-_3 events; doc_id `sf-20220405-0624`._
+_4 events; doc_id `sf-20220405-0624`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): akvabiosikkerhetsforskriften`
+Commit: `a2f1d21`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # grenseloven — Change history
 
-_7 events; doc_id `nl-20180420-008`._
+_8 events; doc_id `nl-20180420-008`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): grenseloven`
+Commit: `f440197`.
 
 ## 2026-07-01 — Content updated
 Lines: +16 -8.

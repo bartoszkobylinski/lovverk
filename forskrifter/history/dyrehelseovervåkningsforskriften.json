@@ -2,6 +2,16 @@
   "doc_id": "sf-20220406-0632",
   "events": [
     {
+      "commit": "32e5e28",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): dyrehelseovervåkningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "154a35b",
       "date": "2026-05-08",
       "from_path": null,

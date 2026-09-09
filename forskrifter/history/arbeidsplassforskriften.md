@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # arbeidsplassforskriften — Change history
 
-_3 events; doc_id `sf-20111206-1356`._
+_4 events; doc_id `sf-20111206-1356`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): arbeidsplassforskriften`
+Commit: `c32d167`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

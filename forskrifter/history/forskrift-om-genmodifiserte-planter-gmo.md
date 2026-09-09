@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-genmodifiserte-planter-gmo — Change history
 
-_3 events; doc_id `sf-20011221-1603`._
+_4 events; doc_id `sf-20011221-1603`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-genmodifiserte-planter-gmo`
+Commit: `0c12ad8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

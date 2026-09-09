@@ -2,6 +2,16 @@
   "doc_id": "sf-20240628-1392",
   "events": [
     {
+      "commit": "6c27076",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): universitets-og-høyskoleforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a93f42d",
       "date": "2026-08-01",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-it-standarder-i-offentlig-forvaltning — Change history
 
-_4 events; doc_id `sf-20130405-0959`._
+_5 events; doc_id `sf-20130405-0959`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-it-standarder-i-offentlig-forvaltning`
+Commit: `ff7272d`.
 
 ## 2026-06-04 — Content updated
 Lines: +4 -4.

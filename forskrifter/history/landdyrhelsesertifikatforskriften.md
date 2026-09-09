@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # landdyrhelsesertifikatforskriften — Change history
 
-_3 events; doc_id `sf-20220406-0627`._
+_4 events; doc_id `sf-20220406-0627`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): landdyrhelsesertifikatforskriften`
+Commit: `ef7a85a`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

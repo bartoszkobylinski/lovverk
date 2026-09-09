@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # folkeregisterforskriften — Change history
 
-_3 events; doc_id `sf-20170714-1201`._
+_4 events; doc_id `sf-20170714-1201`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): folkeregisterforskriften`
+Commit: `298f933`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

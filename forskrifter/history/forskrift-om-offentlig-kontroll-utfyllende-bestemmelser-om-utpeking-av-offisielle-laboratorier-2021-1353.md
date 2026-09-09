@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-utpeking-av-offisielle-laboratorier-2021-1353 — Change history
 
-_3 events; doc_id `sf-20220503-0836`._
+_4 events; doc_id `sf-20220503-0836`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-utpeking-av-offisielle-laboratorier-2021-1353`
+Commit: `c4c325e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

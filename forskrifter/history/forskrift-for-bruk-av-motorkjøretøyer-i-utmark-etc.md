@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-for-bruk-av-motorkjøretøyer-i-utmark-etc — Change history
 
-_3 events; doc_id `sf-19880515-0356`._
+_4 events; doc_id `sf-19880515-0356`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-for-bruk-av-motorkjøretøyer-i-utmark-etc`
+Commit: `7ce0554`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

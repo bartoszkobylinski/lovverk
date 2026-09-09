@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # eksamensreglement-for-hlb — Change history
 
-_3 events; doc_id `sf-20070831-1133`._
+_4 events; doc_id `sf-20070831-1133`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): eksamensreglement-for-hlb`
+Commit: `e38f551`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20260121-0064",
   "events": [
     {
+      "commit": "22ecf8d",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): delegering-av-myndighet-etter-havvernloven-fra-klima-og-miljødepartementet-til-miljødirektoratet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5244bff",
       "date": "2026-06-30",
       "from_path": null,

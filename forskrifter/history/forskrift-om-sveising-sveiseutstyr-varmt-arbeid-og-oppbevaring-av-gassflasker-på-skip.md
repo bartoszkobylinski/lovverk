@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sveising-sveiseutstyr-varmt-arbeid-og-oppbevaring-av-gassflasker-på-skip — Change history
 
-_3 events; doc_id `sf-20020425-0422`._
+_4 events; doc_id `sf-20020425-0422`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-sveising-sveiseutstyr-varmt-arbeid-og-oppbevaring-av-gassflasker-på-skip`
+Commit: `ebfab5a`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

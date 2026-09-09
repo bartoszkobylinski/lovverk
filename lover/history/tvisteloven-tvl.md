@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tvisteloven-tvl — Change history
 
-_7 events; doc_id `nl-20050617-090`._
+_8 events; doc_id `nl-20050617-090`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): tvisteloven-tvl`
+Commit: `aa688e0`.
 
 ## 2026-07-01 — Content updated
 Lines: +21 -21.

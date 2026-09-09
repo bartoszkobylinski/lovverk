@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # mineralloven — Change history
 
-_1 events; doc_id `nl-20250620-107`._
+_2 events; doc_id `nl-20250620-107`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): mineralloven`
+Commit: `261e30a`.
 
 ## 2026-07-01 — Content updated
 Lines: +346 -292.

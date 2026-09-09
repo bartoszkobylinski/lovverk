@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # res-om-opprettelse-av-forbrukerdepartementet — Change history
 
-_1 events; doc_id `sf-19720505-8645`._
+_2 events; doc_id `sf-19720505-8645`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): res-om-opprettelse-av-forbrukerdepartementet`
+Commit: `c1e64be`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +35 -0.

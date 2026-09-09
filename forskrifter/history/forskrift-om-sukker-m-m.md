@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sukker-m-m — Change history
 
-_3 events; doc_id `sf-20030703-0924`._
+_4 events; doc_id `sf-20030703-0924`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-sukker-m-m`
+Commit: `6946a8a`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

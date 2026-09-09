@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-smittevern-i-helsetjenesten — Change history
 
-_3 events; doc_id `sf-20050617-0610`._
+_4 events; doc_id `sf-20050617-0610`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-smittevern-i-helsetjenesten`
+Commit: `7870e77`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

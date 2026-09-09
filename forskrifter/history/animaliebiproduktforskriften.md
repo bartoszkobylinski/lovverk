@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # animaliebiproduktforskriften — Change history
 
-_5 events; doc_id `sf-20160914-1064`._
+_6 events; doc_id `sf-20160914-1064`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): animaliebiproduktforskriften`
+Commit: `78cb2fa`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.

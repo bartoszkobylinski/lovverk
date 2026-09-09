@@ -2,6 +2,16 @@
   "doc_id": "sf-20160914-1064",
   "events": [
     {
+      "commit": "78cb2fa",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): animaliebiproduktforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "28969eb",
       "date": "2026-06-20",
       "from_path": null,

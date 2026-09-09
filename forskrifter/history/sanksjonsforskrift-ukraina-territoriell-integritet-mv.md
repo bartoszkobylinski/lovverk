@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sanksjonsforskrift-ukraina-territoriell-integritet-mv — Change history
 
-_9 events; doc_id `sf-20140815-1076`._
+_10 events; doc_id `sf-20140815-1076`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): sanksjonsforskrift-ukraina-territoriell-integritet-mv`
+Commit: `8883d96`.
 
 ## 2026-08-19 — Content updated
 Lines: +46 -5.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # avlsmaterialeforskriften — Change history
 
-_4 events; doc_id `sf-20220406-0630`._
+_5 events; doc_id `sf-20220406-0630`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): avlsmaterialeforskriften`
+Commit: `e1d9866`.
 
 ## 2026-07-11 — Content updated
 Lines: +514 -98.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-natur-og-friluftslivstiltak-i-områder-som-er-berørt-av-landbaserte-vindkraftverk — Change history
 
-_3 events; doc_id `sf-20250612-1551`._
+_4 events; doc_id `sf-20250612-1551`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-natur-og-friluftslivstiltak-i-områder-som-er-berørt-av-landbaserte-vindkraftverk`
+Commit: `0ba62d8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

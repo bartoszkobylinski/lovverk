@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # utlendingsforskriften — Change history
 
-_14 events; doc_id `sf-20091015-1286`._
+_15 events; doc_id `sf-20091015-1286`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): utlendingsforskriften`
+Commit: `e8616e2`.
 
 ## 2026-09-04 — Content updated
 Lines: +8 -6.

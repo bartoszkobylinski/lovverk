@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regnskap-for-oljeskattepliktige — Change history
 
-_3 events; doc_id `sf-19761217-0008`._
+_4 events; doc_id `sf-19761217-0008`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-regnskap-for-oljeskattepliktige`
+Commit: `b2eb7bb`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

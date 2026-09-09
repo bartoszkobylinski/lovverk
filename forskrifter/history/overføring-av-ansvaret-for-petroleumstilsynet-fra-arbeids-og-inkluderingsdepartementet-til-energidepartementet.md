@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # overføring-av-ansvaret-for-petroleumstilsynet-fra-arbeids-og-inkluderingsdepartementet-til-energidepartementet — Change history
 
-_1 events; doc_id `sf-20230620-0996`._
+_2 events; doc_id `sf-20230620-0996`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): overføring-av-ansvaret-for-petroleumstilsynet-fra-arbeids-og-inkluderingsdepartementet-til-energidepartementet`
+Commit: `3064f41`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +39 -0.

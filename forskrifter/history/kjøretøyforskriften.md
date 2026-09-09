@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kjøretøyforskriften — Change history
 
-_5 events; doc_id `sf-19941004-0918`._
+_6 events; doc_id `sf-19941004-0918`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): kjøretøyforskriften`
+Commit: `e5cc53f`.
 
 ## 2026-06-08 — Content updated
 Lines: +7 -7.

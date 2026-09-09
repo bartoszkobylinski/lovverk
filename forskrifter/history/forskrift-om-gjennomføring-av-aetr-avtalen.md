@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-gjennomføring-av-aetr-avtalen — Change history
 
-_3 events; doc_id `sf-20120628-0794`._
+_4 events; doc_id `sf-20120628-0794`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-gjennomføring-av-aetr-avtalen`
+Commit: `90f3416`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

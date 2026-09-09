@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utførelse-av-arbeid — Change history
 
-_4 events; doc_id `sf-20111206-1357`._
+_5 events; doc_id `sf-20111206-1357`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utførelse-av-arbeid`
+Commit: `61a34fa`.
 
 ## 2026-06-10 — Content updated
 Lines: +7 -7.

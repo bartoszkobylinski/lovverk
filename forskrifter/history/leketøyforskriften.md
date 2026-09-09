@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # leketøyforskriften — Change history
 
-_5 events; doc_id `sf-20131118-1403`._
+_6 events; doc_id `sf-20131118-1403`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): leketøyforskriften`
+Commit: `d4ef945`.
 
 ## 2026-08-29 — Content updated
 Lines: +5 -4.

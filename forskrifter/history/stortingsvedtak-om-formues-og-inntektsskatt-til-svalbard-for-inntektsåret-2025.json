@@ -2,6 +2,16 @@
   "doc_id": "sf-20241218-3358",
   "events": [
     {
+      "commit": "6055784",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): stortingsvedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2025",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5244bff",
       "date": "2026-06-30",
       "from_path": null,

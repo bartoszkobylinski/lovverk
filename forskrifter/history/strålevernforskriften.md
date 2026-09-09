@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # strålevernforskriften — Change history
 
-_6 events; doc_id `sf-20161216-1659`._
+_7 events; doc_id `sf-20161216-1659`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): strålevernforskriften`
+Commit: `2119956`.
 
 ## 2026-07-07 — Content updated
 Lines: +1023 -5.

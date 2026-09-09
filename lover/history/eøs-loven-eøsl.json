@@ -2,6 +2,16 @@
   "doc_id": "nl-19921127-109",
   "events": [
     {
+      "commit": "67cfa79",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): eøs-loven-eøsl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

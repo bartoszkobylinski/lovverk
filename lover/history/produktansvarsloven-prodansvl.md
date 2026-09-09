@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # produktansvarsloven-prodansvl — Change history
 
-_5 events; doc_id `nl-19881223-104`._
+_6 events; doc_id `nl-19881223-104`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): produktansvarsloven-prodansvl`
+Commit: `0df1f07`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

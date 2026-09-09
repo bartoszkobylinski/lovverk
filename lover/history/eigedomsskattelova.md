@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # eigedomsskattelova — Change history
 
-_3 events; doc_id `nl-19750606-029`._
+_4 events; doc_id `nl-19750606-029`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): eigedomsskattelova`
+Commit: `fc2c369`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-arbeidstakerinnflytelse-i-sce — Change history
 
-_3 events; doc_id `sf-20061103-1213`._
+_4 events; doc_id `sf-20061103-1213`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-arbeidstakerinnflytelse-i-sce`
+Commit: `ae7776f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

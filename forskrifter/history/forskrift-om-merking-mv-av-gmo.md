@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-merking-mv-av-gmo — Change history
 
-_3 events; doc_id `sf-20050902-1009`._
+_4 events; doc_id `sf-20050902-1009`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-merking-mv-av-gmo`
+Commit: `779fe3b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

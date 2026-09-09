@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as — Change history
 
-_1 events; doc_id `sf-20251201-2991`._
+_2 events; doc_id `sf-20251201-2991`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as`
+Commit: `c50d7ca`.
 
 ## 2026-05-04 — Content updated
 Lines: +0 -361.

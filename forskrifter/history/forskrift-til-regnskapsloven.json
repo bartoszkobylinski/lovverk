@@ -2,6 +2,16 @@
   "doc_id": "sf-20060907-1062",
   "events": [
     {
+      "commit": "a3ecef1",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-til-regnskapsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "bb16ed0",
       "date": "2026-07-07",
       "from_path": null,

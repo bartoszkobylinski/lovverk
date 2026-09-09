@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-stavanger — Change history
 
-_3 events; doc_id `sf-20250612-1279`._
+_4 events; doc_id `sf-20250612-1279`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-stavanger`
+Commit: `ffe5edd`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

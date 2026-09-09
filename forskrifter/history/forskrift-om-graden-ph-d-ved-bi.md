@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-graden-ph-d-ved-bi — Change history
 
-_4 events; doc_id `sf-20150611-0924`._
+_5 events; doc_id `sf-20150611-0924`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-graden-ph-d-ved-bi`
+Commit: `0f9aadd`.
 
 ## 2026-08-01 — Content updated
 Lines: +5 -5.

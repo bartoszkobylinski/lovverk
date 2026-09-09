@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # førerforskriften — Change history
 
-_3 events; doc_id `sf-20091127-1414`._
+_4 events; doc_id `sf-20091127-1414`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): førerforskriften`
+Commit: `df1e17b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

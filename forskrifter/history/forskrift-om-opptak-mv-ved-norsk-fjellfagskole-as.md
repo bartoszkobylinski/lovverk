@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-mv-ved-norsk-fjellfagskole-as — Change history
 
-_3 events; doc_id `sf-20230830-2528`._
+_4 events; doc_id `sf-20230830-2528`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-mv-ved-norsk-fjellfagskole-as`
+Commit: `66c392f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

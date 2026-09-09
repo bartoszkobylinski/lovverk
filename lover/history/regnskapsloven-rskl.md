@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # regnskapsloven-rskl — Change history
 
-_3 events; doc_id `nl-19980717-056`._
+_4 events; doc_id `nl-19980717-056`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): regnskapsloven-rskl`
+Commit: `a5c2699`.
 
 ## 2026-04-29 — Content updated
 Lines: +6 -1.

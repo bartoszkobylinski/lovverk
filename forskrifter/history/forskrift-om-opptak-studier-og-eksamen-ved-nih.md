@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studier-og-eksamen-ved-nih — Change history
 
-_3 events; doc_id `sf-20050526-1811`._
+_4 events; doc_id `sf-20050526-1811`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-nih`
+Commit: `45db161`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

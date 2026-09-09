@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # brann-og-eksplosjonsvernloven — Change history
 
-_3 events; doc_id `nl-20020614-020`._
+_4 events; doc_id `nl-20020614-020`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): brann-og-eksplosjonsvernloven`
+Commit: `0551354`.
 
 ## 2026-04-29 — Content updated
 Lines: +3 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-vakthold-på-passasjer-og-lasteskip — Change history
 
-_3 events; doc_id `sf-19990427-0537`._
+_4 events; doc_id `sf-19990427-0537`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-vakthold-på-passasjer-og-lasteskip`
+Commit: `24250d3`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

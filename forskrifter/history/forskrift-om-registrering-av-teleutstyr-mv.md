@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-registrering-av-teleutstyr-mv — Change history
 
-_3 events; doc_id `sf-20020315-0276`._
+_4 events; doc_id `sf-20020315-0276`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-registrering-av-teleutstyr-mv`
+Commit: `f830c30`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

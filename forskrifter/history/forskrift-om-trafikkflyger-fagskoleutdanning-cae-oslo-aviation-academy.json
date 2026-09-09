@@ -2,6 +2,16 @@
   "doc_id": "sf-20191113-2285",
   "events": [
     {
+      "commit": "667a6f3",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-trafikkflyger-fagskoleutdanning-cae-oslo-aviation-academy",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "263e443",
       "date": "2026-07-07",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi — Change history
 
-_8 events; doc_id `sf-20180601-1546`._
+_9 events; doc_id `sf-20180601-1546`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi`
+Commit: `375faa5`.
 
 ## 2026-09-02 — Content updated
 Lines: +3 -3.

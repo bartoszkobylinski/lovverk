@@ -2,6 +2,16 @@
   "doc_id": "sf-20170725-1215",
   "events": [
     {
+      "commit": "74bb745",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-ny-mat",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fdbe8c6",
       "date": "2026-05-08",
       "from_path": null,

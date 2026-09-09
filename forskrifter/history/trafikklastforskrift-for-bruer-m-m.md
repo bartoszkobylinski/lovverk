@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # trafikklastforskrift-for-bruer-m-m — Change history
 
-_3 events; doc_id `sf-20171117-1900`._
+_4 events; doc_id `sf-20171117-1900`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): trafikklastforskrift-for-bruer-m-m`
+Commit: `3264873`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

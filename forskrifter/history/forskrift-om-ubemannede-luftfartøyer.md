@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-ubemannede-luftfartøyer — Change history
 
-_3 events; doc_id `sf-20241101-2777`._
+_4 events; doc_id `sf-20241101-2777`._
+
+## 2026-09-09 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-ubemannede-luftfartøyer`
+Commit: `0efdabf`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # resistensregisterforskriften — Change history
 
-_3 events; doc_id `sf-20031114-1353`._
+_4 events; doc_id `sf-20031114-1353`._
+
+## 2026-09-09 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): resistensregisterforskriften`
+Commit: `355a773`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
