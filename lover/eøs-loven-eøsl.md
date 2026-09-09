@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-01-01"
 last_change_in_force: "2014-04-12"
 last_updated: "2026-04-20"
-xml_hash: "b6b7f8f21738d53b8fecdbdcd9b9158eed4d3fcd766ce2f3ba3e8d66fa08042e"
+xml_hash: "a466cd8fd430d082e13a4fb7c3e7b0962567e6d15782719a9895a8c3e496ca5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-09T08:55:12.118049+00:00"
 status: "current"
 eu_basis: []
 ---
