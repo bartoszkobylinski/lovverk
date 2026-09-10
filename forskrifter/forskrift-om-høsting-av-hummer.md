@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2025-10-01"
+last_change_in_force: "2026-09-08"
 last_updated: null
-xml_hash: "0fdd51d4072bdf97bf276f806c56be5a336d14ce96ae5385f76cad7f39fd1858"
+xml_hash: "4e36cfce7c6945b093dba8e4d82615d7de362ad56296f6b405e7d25592443c86"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-10T08:54:03.783383+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,11 +60,11 @@ Teiner som settes ut til høsting av hummer skal ha rømmingshull i samsvar med 
 
 ## § 6. Redskapsbegrensning
 
-Manntallsførte fiskere som høster med merkeregistrert fartøy kan høste hummer med inntil 100 teiner.
+Manntallsførte fiskere som høster hummer til omsetning med merkeregistrert fartøy, kan høste hummer med inntil 100 teiner.
 
 Personer som høster med fartøy som ikke er merkeregistrert eller fra land kan høste med inntil 10 teiner. Innenfor grunnlinjen fra og med Telemark til svenskegrensen kan det høstes med inntil 5 teiner. Begrensningene i antall teiner gjelder både per person og per fartøy.
 
-> Endret ved forskrift [29 sep 2025 nr. 1965](forskrift/2025-09-29-1965) (i kraft 1 okt 2025).
+> Endret ved forskrifter [29 sep 2025 nr. 1965](forskrift/2025-09-29-1965) (i kraft 1 okt 2025), [8 sep 2026 nr. 1745](forskrift/2026-09-08-1745).
 
 ## § 7. Krav til røkting
 
@@ -77,13 +77,19 @@ Det er kun tillatt å sette ut teiner til høsting av hummer i følgende område
 1. Fra grensen mot Sverige til og med Vestland fylke fra 1. oktober kl. 08.00 til og med 30. november.
 2. I resten av landet fra 1. oktober kl. 08.00 til og med 31. desember.
 
-## § 9. Minstemål
+## § 9. Måling av hummer
 
-Det er forbudt å høste hummer mindre enn 25 cm målt fra spissen av pannehornet til den bakre kant av midterste svømmelapp.
+Hummerens ryggskjoldlengde skal måles fra bakre del av øyehulen til bakkanten av ryggskjoldet ved midtlinjen.
 
-## § 10. Maksimalmål
+> Endret ved forskrift [8 sep 2026 nr. 1745](forskrift/2026-09-08-1745).
 
-Det er på strekningen fra grensen mot Sverige til og med Agder fylke forbudt å høste hummer som har en lengde på 32 cm eller mer målt fra spissen av pannehornet til den bakre kant av midterste svømmelapp.
+## § 10. Minstemål og maksimalmål
+
+Det er forbudt å høste hummer med ryggskjoldlengde mindre enn 90 mm.
+
+På strekningen fra grensen mot Sverige til og med Agder fylke er det forbudt å høste hummer med ryggskjoldlengde 115 mm eller mer.
+
+> Endret ved forskrift [8 sep 2026 nr. 1745](forskrift/2026-09-08-1745).
 
 ## § 11. Forbud mot høsting og oppbevaring av rognhummer
 
