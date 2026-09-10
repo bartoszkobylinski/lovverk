@@ -10515,15 +10515,15 @@
     },
     "nl-20170616-050": {
       "doc_type": "lov",
-      "embedding_hash": "777940bee0439abe7caa29539fb85efb3b296be5405f33ecf61106479cbef805",
-      "embedding_input_hash": "71f5bc4c437a5714b6db5893b6df47aa3b2f260662851a24a94ac17390f31c51",
+      "embedding_hash": "794b3f2d2b95d22787be7a83075e553bdf3b1bc7252b20a2b881fdb2da866a62",
+      "embedding_input_hash": "ee67b9ff1a64793c247609dc73c11e898095095e633ba7464727c5763e2b2ea8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32006L0054"
       ],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-10",
+      "last_seen": "2026-09-10T08:54:03.783383Z",
       "markdown_path": "lover/diskrimineringsombudsloven-diskrol.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -10531,8 +10531,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven)",
-      "total_changes": 3,
-      "xml_hash": "777940bee0439abe7caa29539fb85efb3b296be5405f33ecf61106479cbef805"
+      "total_changes": 4,
+      "xml_hash": "794b3f2d2b95d22787be7a83075e553bdf3b1bc7252b20a2b881fdb2da866a62"
     },
     "nl-20170616-051": {
       "doc_type": "lov",
@@ -36375,13 +36375,13 @@
     },
     "sf-19990913-1052": {
       "doc_type": "forskrift",
-      "embedding_hash": "63ad9938909d66cdf07947780cfbb75168626fa340b97943369309e9305ceca6",
-      "embedding_input_hash": "f64acd0071d871c91a8bdaaa426d37b3a53dc4b052d16d7462285b3e8cc0647a",
+      "embedding_hash": "8ca6265f666d4ab6a95dd061ca50c8158f329c7858401038c6ef502cd206d19b",
+      "embedding_input_hash": "14c09bd7d71c4ef1ac193338c625e811d0418ddb2238b5a1b97924dbcd44a41d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-09-10",
+      "last_seen": "2026-09-10T08:54:03.783383Z",
       "markdown_path": "forskrifter/forskrift-om-såvarer.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -36389,8 +36389,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om såvarer",
-      "total_changes": 4,
-      "xml_hash": "63ad9938909d66cdf07947780cfbb75168626fa340b97943369309e9305ceca6"
+      "total_changes": 5,
+      "xml_hash": "8ca6265f666d4ab6a95dd061ca50c8158f329c7858401038c6ef502cd206d19b"
     },
     "sf-19990916-1076": {
       "doc_type": "forskrift",
@@ -74280,13 +74280,13 @@
     },
     "sf-20160318-0260": {
       "doc_type": "forskrift",
-      "embedding_hash": "c6ad4afc9e1bb5a87c45daf24f1404d62d53e22d815337e14d3fc04a3357d263",
-      "embedding_input_hash": "198f9bdcec5bb1dd36383892d2cc200844b8b058c0d3ac75e513a351f5743beb",
+      "embedding_hash": "13f79e2924cd345d14d5637c36eb9e3d56eb391054766e82e40e947e956494e7",
+      "embedding_input_hash": "069d6610d6cb64aa7458d129d3b1709959c1f0b3dba1a1e60a98c6fce3d38f8d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-10",
+      "last_seen": "2026-09-10T08:54:03.783383Z",
       "markdown_path": "forskrifter/parkeringsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -74294,8 +74294,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om vilkårsparkering for allmennheten og håndheving av private parkeringsreguleringer (parkeringsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "c6ad4afc9e1bb5a87c45daf24f1404d62d53e22d815337e14d3fc04a3357d263"
+      "total_changes": 4,
+      "xml_hash": "13f79e2924cd345d14d5637c36eb9e3d56eb391054766e82e40e947e956494e7"
     },
     "sf-20160318-0261": {
       "doc_type": "forskrift",
@@ -80930,13 +80930,13 @@
     },
     "sf-20180801-1215": {
       "doc_type": "forskrift",
-      "embedding_hash": "6a6a3700d59b716edbb83dcbe97290f2ea11ca2f99d904f7c942d133b84f94da",
-      "embedding_input_hash": "2ac27dc559cb2e0f6b05b4ca567a1096ec3a3a908ec3a83853cac7aff1685aa8",
+      "embedding_hash": "97bdf4d143bd45a52e0eddf1fca77f96550aafe72cc2a726ce1625041889e510",
+      "embedding_input_hash": "ae504e446fb5a5d2d789f71f0e02212ddace6e68ac588187b23de0157973254c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-10",
+      "last_seen": "2026-09-10T08:54:03.783383Z",
       "markdown_path": "forskrifter/sats-og-beregningsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -80944,8 +80944,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om satser for og beregning av tilskudd ved produksjonssvikt i plante- og honningproduksjon (sats- og beregningsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "6a6a3700d59b716edbb83dcbe97290f2ea11ca2f99d904f7c942d133b84f94da"
+      "total_changes": 4,
+      "xml_hash": "97bdf4d143bd45a52e0eddf1fca77f96550aafe72cc2a726ce1625041889e510"
     },
     "sf-20180807-1226": {
       "doc_type": "forskrift",
@@ -92957,13 +92957,13 @@
     },
     "sf-20211223-3890": {
       "doc_type": "forskrift",
-      "embedding_hash": "0fdd51d4072bdf97bf276f806c56be5a336d14ce96ae5385f76cad7f39fd1858",
-      "embedding_input_hash": "f547e559e58d80d8d46bee903bb5ae226718275eb3d8a1329f3bae12a57c0399",
+      "embedding_hash": "4e36cfce7c6945b093dba8e4d82615d7de362ad56296f6b405e7d25592443c86",
+      "embedding_input_hash": "1550641a51da3265fc8d9bab83fe44f6afc4006db6b712e82983ec75ebf20ef5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-10",
+      "last_seen": "2026-09-10T08:54:03.783383Z",
       "markdown_path": "forskrifter/forskrift-om-høsting-av-hummer.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -92971,8 +92971,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om høsting av hummer",
-      "total_changes": 3,
-      "xml_hash": "0fdd51d4072bdf97bf276f806c56be5a336d14ce96ae5385f76cad7f39fd1858"
+      "total_changes": 4,
+      "xml_hash": "4e36cfce7c6945b093dba8e4d82615d7de362ad56296f6b405e7d25592443c86"
     },
     "sf-20211223-3891": {
       "doc_type": "forskrift",
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "eecba72db9fdd87e988e05e646c018c7be9b5c120a0c87509d73af16f14ad043",
-      "embedding_input_hash": "16860543c051506b95e62d5cb7c5a78433451090c5c0557d2f43aa8f3d7976ee",
+      "embedding_hash": "aeeb2dafe17b25bc1370c07efce1b217a555723c9bad3f733d71a217feee0482",
+      "embedding_input_hash": "ee6ae7f989edf5791188d5a5574f3119e384d1368c8d89c4856009a2aa864a88",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-09-10",
+      "last_seen": "2026-09-10T08:54:03.783383Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 20,
-      "xml_hash": "eecba72db9fdd87e988e05e646c018c7be9b5c120a0c87509d73af16f14ad043"
+      "total_changes": 21,
+      "xml_hash": "aeeb2dafe17b25bc1370c07efce1b217a555723c9bad3f733d71a217feee0482"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -101944,21 +101944,21 @@
     },
     "sf-20241021-2542": {
       "doc_type": "forskrift",
-      "embedding_hash": "82d1857cc2075eaf386f4c56d1fd2be8a220d1b61289205e4f7cee069ccbce9b",
-      "embedding_input_hash": "33bb3e9e320c6b5263741560e4f272b93004e3f118b6cc30e4c1c6d5a016a545",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-fiskeindustribedrifter.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-fiskeindustribedrifter",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "82d1857cc2075eaf386f4c56d1fd2be8a220d1b61289205e4f7cee069ccbce9b"
     },
     "sf-20241021-2543": {
@@ -113381,6 +113381,6 @@
       "xml_hash": "425180566a17b602449e09606f526ab968eb55098cdd23687bacb70eef99b86c"
     }
   },
-  "generated_at": "2026-09-09T08:55:12.118049Z",
+  "generated_at": "2026-09-10T08:54:03.783383Z",
   "version": 1
 }

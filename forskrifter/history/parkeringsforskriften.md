@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # parkeringsforskriften — Change history
 
-_3 events; doc_id `sf-20160318-0260`._
+_4 events; doc_id `sf-20160318-0260`._
+
+## 2026-09-10 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): parkeringsforskriften`
+Commit: `46f6980`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

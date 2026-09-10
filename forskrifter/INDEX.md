@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5110 current documents_
+_5109 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1819,7 +1819,6 @@ _5110 current documents_
 - [forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien](forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien.md) — Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien
 - [forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene](forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene.md) — Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-byggeplasser-i-norge](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-byggeplasser-i-norge.md) — Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge
-- [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-fiskeindustribedrifter](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-fiskeindustribedrifter.md) — Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter.md) — Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter.md) — Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei.md) — Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sats-og-beregningsforskriften — Change history
 
-_3 events; doc_id `sf-20180801-1215`._
+_4 events; doc_id `sf-20180801-1215`._
+
+## 2026-09-10 — Content updated
+Lines: +61 -57.
+Subject: `update(forskrift): sats-og-beregningsforskriften`
+Commit: `b82668d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

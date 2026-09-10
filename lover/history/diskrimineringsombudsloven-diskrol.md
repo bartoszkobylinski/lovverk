@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # diskrimineringsombudsloven-diskrol — Change history
 
-_3 events; doc_id `nl-20170616-050`._
+_4 events; doc_id `nl-20170616-050`._
+
+## 2026-09-10 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): diskrimineringsombudsloven-diskrol`
+Commit: `db98a40`.
 
 ## 2026-04-29 — Content updated
 Lines: +3 -1.
