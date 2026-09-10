@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "1999-09-13"
-last_change_in_force: "2025-10-17"
+last_change_in_force: "2026-09-03"
 last_updated: "2025-02-01"
-xml_hash: "63ad9938909d66cdf07947780cfbb75168626fa340b97943369309e9305ceca6"
+xml_hash: "8ca6265f666d4ab6a95dd061ca50c8158f329c7858401038c6ef502cd206d19b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-10T08:54:03.783383+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -227,7 +227,7 @@ Såvareforretninger skal innen 1. mars gi melding om størrelse og lokalitet på
 
 ### § 10. Vekstkontroll
 
-Det skal gjennomføres vekstkontroll av såvarearealer for sertifisert produksjon i veksttida etter reglene i vedlegg A7. For artene bladfaks, engsvingel, strandsvingel, raigras og raisvingel skal det gjennomføres egen floghavrekontroll i gjenleggsåret. Ved såkorndyrking skal alt kornareal som en kontraktavler driver, også kornareal som dyrkes utenom kontrakt, kontrolleres for floghavre. Dette gjelder ikke for arealer som avleren dyrker utenom kontrakt, og der vedkommende benytter separat skurtresker, korntørke og -lager. Det er i slike tilfeller en forutsetning at arealet utenom kontrakt og korntørka og -lageret som skal benyttes til avlingene fra dette arealet, er angitt i eiendomsspesifikasjonen.
+Ved sertifisert produksjon av såvarer skal det gjennomføres vekstkontroll etter reglene i vedlegg A7.
 
 Mattilsynet skal utføre kontroll som nevnt i første ledd av såvarearealer til avl av såvare av klassene prebasis og basis. Mattilsynet kan likevel fastsette en tidsavgrenset forsøksperiode der virksomhetene, på samme vilkår som nevnt i tredje ledd, skal sørge for at det utføres kontroll av såvarearealer av disse klassene.
 
@@ -235,9 +235,9 @@ Virksomhetene skal sørge for at det utføres kontroll som nevnt i første ledd 
 
 Ved produksjon av innsamlede naturfrøblandinger skal Mattilsynet utføre kontroll på innsamlingsstedet i løpet av vekstsesongen.
 
-Ved avl av såvare av bevaringsverdige sorter og oppformerte naturfrøblandinger skal såvarevirksomhetene sørge for at kontraktarealene blir kontrollert for floghavre i henhold til bestemmelsene om floghavre i første ledd annet punktum og vedlegg A7.
+Ved avl av såvare av bevaringsverdige sorter og oppformerte naturfrøblandinger skal såvarevirksomhetene sørge for at kontraktarealene blir kontrollert for floghavre i henhold til bestemmelsene om floghavre i vedlegg A7.
 
-> Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [23 juni 2009 nr. 829](forskrift/2009-06-23-829), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [4 juli 2013 nr. 865](forskrift/2013-07-04-865), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020).
+> Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [23 juni 2009 nr. 829](forskrift/2009-06-23-829), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [4 juli 2013 nr. 865](forskrift/2013-07-04-865), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [3 sep 2026 nr. 1742](forskrift/2026-09-03-1742).
 
 ### § 10a. Autorisasjon som vekstkontrollør
 
@@ -288,11 +288,18 @@ EØS-avtalen vedlegg I [kapittel III](lov/1992-11-27-109/kap3) del 2 nr. 45 (for
 
 ### § 14. Prøvetaking og analyse
 
-Prøvetaking av såvarepartiene for laboratoriekontroll og for kontrolldyrking skal foretas av Mattilsynet eller av prøvetaker autorisert av Mattilsynet. Tilsvarende gjelder ved prøvetaking av såvarepartier for laboratoriekontroll av bevaringsverdige sorter, tradisjonssorter av grønnsaker og naturfrøblandinger. Prøvetakingen skal foretas i henhold til International Seed Testing Association (ISTA) sine metoder for prøvetaking.
+Prøvetaking av såvarepartienefor laboratorieanalyse og for kontrolldyrking skal foretas av Mattilsynet eller av prøvetaker autorisert av Mattilsynet. Tilsvarende gjelder ved prøvetaking av såvarepartier for laboratorieanalyse av bevaringsverdige sorter, tradisjonssorter av grønnsaker og naturfrøblandinger. Prøvetakingen skal foretas i henhold til International Seed Testing Association (ISTA) sine metoder for prøvetaking.
 
-Analyser av såvarepartier som skal være grunnlag for sertifisering av partiene, skal utføres av et offentlig laboratorium eller laboratorium autorisert av Mattilsynet. Tilsvarende gjelder ved analyse av såvarepartier av bevaringsverdige sorter, tradisjonssorter av grønnsaker og naturfrøblandinger. Laboratoriet skal være akkreditert av ISTA.
+Det skal være et offentlig laboratorium eller laboratorium autorisert av Mattilsynet, og akkreditert av ISTA, som utfører analysene av
 
-> Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [15 mars 2006 nr. 308](forskrift/2006-03-15-308), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124).
+1. såvarepartier som skal sertifiseres, jf. [§ 21 bokstav c](forskrift/1999-09-13-1052/§21/bokstav/c) og [d](forskrift/1999-09-13-1052/§21/bokstav/d),
+2. såvarepartier av bevaringsverdige sorter,
+3. såvarepartier av tradisjonssorter av grønnsaker, og
+4. de komponentene i naturfrøblandinger som består av arter oppført i vedlegg A1, Jordbruksvekster, punkt II Fôrvekster og gras til grøntanlegg, nr. 1 til 3.
+
+Kravene til laboratorier i andre ledd gjelder ikke ved analyse av andre komponenter i naturfrøblandinger enn de som følger av andre ledd bokstav d.
+
+> Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [15 mars 2006 nr. 308](forskrift/2006-03-15-308), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124), [3 sep 2026 nr. 1742](forskrift/2026-09-03-1742).
 
 ### § 15. Sertifisering
 
@@ -1137,12 +1144,12 @@ Forretningen skal innen følgende frister sende en liste til Mattilsynet over hv
 
 *2. Innmelding av kontraktarealer*
 
-Ved endelig innmelding av kontraktarealer skal forretningen oppgi følgende:
+Ved innmelding av kontraktarealer skal forretningen oppgi følgende:
 
-1. Avlerens navn og adresse, gårdsnavn, kommune og fylke
+1. Avlerens navn og adresse, produsentnummer og kommune
 2. Art og sort som skal dyrkes
 3. Kontraktareal i dekar
-4. Utsædspartiets nummer og generasjon
+4. Utsædspartiets nummer og tilsiktet klasse
 5. For flerårige vekster: Gjenleggsår for kontraktarealet
 6. For grønnsaksvekster: Utsædspartiets avlsår.
 
@@ -1150,13 +1157,11 @@ For innmelding av kontraktarealer gjelder følgende frister:
 
 |  |  |  |
 | --- | --- | --- |
-| Korn | 1. mars | Foreløpig oversikt over kontraktareal til vekstkontroll |
-|  | 1. juni | Endelig melding om kontraktarealer vedlagt eiendomsspesifikasjon og kartskisse |
-| Andre jordbruksvekster | 1. mars | Foreløpig oversikt over kontraktarealer som skal høstes dette året og planlagte gjenleggsarealer av storfrøede grasarter |
-|  | 1. juni | Endelig melding om kontraktarealer som skal høstes dette året og gjenleggsarealer av storfrøede grasarter, vedlagt eiendomsspesifikasjon og kartskisse til vekstkontroll |
-| Grønnsaksvekster | 1. april | Innmelding av kontraktarealer til vekstkontroll |
+| Korn | 1. juni | Melding om kontraktarealer |
+| Andre jordbruks­vekster | 1. juni | Melding om kontraktarealer som skal høstes dette året Melding om gjenleggsarealer av storfrøede grasarter |
+| Grønnsaks­vekster | 1. april | Melding om kontraktarealer til vekstkontroll |
 
-*3. Innmelding og godkjenning av nye kontraktavlere og nye arealer hos etablerte kontraktavlere*
+*3. Innmelding av nye kontraktavlere og nye arealer hos etablerte kontraktavlere*
 
 Forretningene skal innen 15. april sende melding til Mattilsynet om nye kontraktavlere. Ved såkorndyrking og ved dyrking av storfrøede grasarter skal også nye arealer hos etablerte kontraktavlere meldes inn innen 15. april.
 
@@ -1165,9 +1170,7 @@ Innmeldingen skal inneholde:
 1. Avlerens navn og adresse, gårdsnavn og alle eiendommer med gnr., bnr. og kommune og fylke som kontraktavleren driver.
 2. Art og sort som skal dyrkes.
 
-Hos nye kontraktavlere skal det i tillegg til vekstkontrollen, utføres en egen floghavrekontroll på alle arealer vedkommende driver, også arealer utenom kontrakt. Det samme gjelder nye arealer hos etablerte kontraktavlere.
-
-> Endret ved [forskrift 26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020).
+> Endret ved forskrifter [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [3 sep 2026 nr. 1742](forskrift/2026-09-03-1742).
 
 ### A7 – Regler for gjennomføring av vekstkontroll (§ 10) og kontrolldyrking (§ 11)
 
@@ -1187,30 +1190,36 @@ Rotvekster skal kontrolleres minst to ganger i frøavlsåret. Besiktigelse av ar
 
 Floghavrekontrollen som skal gjennomføres i gjenleggsåret av de storfrøede grasartene bladfaks, engsvingel, strandsvingel, raigras og raisvingel, skal utføres på et tidspunkt da det har vært mulighet for utvikling av floghavre.
 
+Andregangs floghavrekontroll hos nye kontraktavlere av såkorn og på nye arealer hos etablerte kontraktavlere, skal gjøres omtrent en uke etter førstegangskontrollen.
+
 *Været under vekstkontrollen:*
 
 Vekstkontrollen bør ikke utføres under værforhold som gjør observasjonene usikre. Er forholdene likevel vanskelige, skal dette noteres på vekstkontrollskjemaet.
 
 *Gjennomføring av vekstkontrollen:*
 
-Mattilsynet autoriserer vekstkontrollørene før de starter kontrollen. Kontrollørene skal påse at dyrkingsreglene er fulgt. Dersom arealet er delt opp i delareal på grunn av forskjellig forgrøde, noteres dette. Videre skal kontrollen undersøke og gi melding på standardisert vekstkontrollskjema om:
+Kontrollørene skal kontrollere hele kontraktarealet og påse at dyrkingsreglene er fulgt. Dersom arealet er delt opp i delareal på grunn av forskjellig forgrøde, noteres dette. Videre skal kontrollen undersøke og gi melding på standardisert vekstkontrollskjema om
 
 - forgrøde
 - innblanding av andre sorter og arter
 - funn av skadegjørere (sjukdommer og skadedyr)
 - floghavre
+- hønsehirse
 - legde, store ugrasforekomster eller andre forhold som vanskeliggjør kontrollen
 - om det avles korn eller frø utenom kontrakt
 - om det avles andre sorter av samme art utenom kontrakt
-- om det foreligger krysningsfare og om avstanden til annen sort holder de fastsatte kravene (jf. dyrkingsreglene).
+- om avstanden til annen sort holder de fastsatte kravene
+- om grensebeltene er tilstrekkelig brede for at innblanding fra tilgrensende areal ikke skjer.
 
-Det skal kontrolleres at grensebeltene er tilstrekkelig brede der dette er påkrevet.
+Kontrollørene skal kontrollere arealet systematisk i teiger tilpasset terrenget. Det skal ikke tas bredere teiger enn at det er mulig å se eventuelle floghavreplanter. Det skal også tas hensyn til legde og eventuelt andre forhold som gjør oversikten mindre. Det skal kontrolleres ekstra nøye for floghavre på og rundt tidligere funnsteder.
 
-Kontrollørene skal kontrollere arealet systematisk i teiger tilpasset terrenget. Det skal også tas hensyn til legde og eventuelt andre forhold som gjør oversikten mindre. Hele kontraktarealet skal kontrolleres.
+Ved såkorndyrking skal også kornarealer som en kontraktavler driver utenom kontrakt, kontrolleres for floghavre og det skal noteres hva slags såkorn som er brukt. Dette gjelder ikke for arealer som avleren dyrker utenom kontrakt, og der vedkommende benytter separat skurtresker, korntørke og -lager. Det er i slike tilfeller en forutsetning at arealet utenom kontrakt og korntørka og -lageret som skal benyttes til avlingene fra dette arealet, er angitt i eiendomsspesifikasjonen.
 
-Ved såkorndyrking skal også kornarealer som en kontraktavleren driver utenom kontrakt, kontrolleres for floghavre og det skal noteres hva slags såkorn som er brukt.
+Ved såkorndyrking skal det hos nye kontraktavlere utføres en andregangs floghavrekontroll på alle arealer vedkommende driver, også arealer utenom kontrakt. Det samme gjelder nye arealer hos etablerte kontraktavlere.
 
-Dersom det blir klart at avlingen ikke anbefales godkjent som såvare i noen klasse, skal årsaken føres opp på vekstkontrollskjemaet.
+For artene bladfaks, engsvingel, strandsvingel, raigras og raisvingel skal det gjennomføres en egen floghavrekontroll i gjenleggsåret.
+
+Dersom avlingen ikke anbefales godkjent som såvare i noen klasse, skal årsaken føres opp på vekstkontrollskjemaet.
 
 *Funn av annen sort eller avvikende type:*
 
@@ -1228,11 +1237,7 @@ Dersom vekstkontrollen finner naken sot i en slik mengde at det kan være snakk 
 
 *Funn av floghavre:*
 
-Under vekstkontrollen skal det ikke tas bredere teiger enn at det er mulig å se eventuelle floghavreplanter. Det skal kontrolleres ekstra nøye for floghavre på og rundt tidligere funnsteder.
-
 Dersom kontrolløren finner floghavre, skal funnstedet merkes og beskrives slik at det lett kan finnes igjen. Brukeren skal varsles og bør om mulig være tilstede ved uttak av planteprøve. Dersom brukeren ikke er tilstede, skal funnet bevitnes av to personer. Prøven sendes dit Mattilsynet måtte bestemme, og som Mattilsynet har gitt myndighet til å avgjøre om prøven er floghavre eller ikke. Øvrige floghavreplanter skal lukes og brennes.
-
-Floghavre skal ikke være påvist ved kontroll i veksttida for alle kornartene, oljevekster, engsvingel, strandsvingel, raigras, bladfaks og raisvingel.
 
 *2. Kontrolldyrking*
 
@@ -1242,7 +1247,7 @@ For jordbruksvekster skal Mattilsynet så ut prøver til kontrolldyrking av alle
 
 Resultatet fra vekstkontrollen og kontrolldyrkingen skal meddeles innmelderne innen 15. august for høstkorn og 15. september for vårkorn, andre jordbruksvekster og grønnsaker. Ved særlige forhold kan Mattilsynet forlenge disse fristene.
 
-> Endret ved [forskrifter 23 juni 2009 nr. 829](forskrift/2009-06-23-829), [6 april 2016 nr. 356](forskrift/2016-04-06-356) (i kraft 1 mai 2016), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023).
+> Endret ved [forskrifter 23 juni 2009 nr. 829](forskrift/2009-06-23-829), [6 april 2016 nr. 356](forskrift/2016-04-06-356) (i kraft 1 mai 2016), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023), [3 sep 2026 nr. 1742](forskrift/2026-09-03-1742).
 
 ### A8 – Offisielt dokument ved omsetning (import/eksport) av ikke endelig sertifisert såvare til offisiell sertifisering i et annet land i EØS-området (§ 21)
 
@@ -2380,13 +2385,13 @@ Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanleg
 1. Frø av enkeltarter skal være høstet på et sted (innsamlingsstedet) i et kildeområde som ikke har vært tilsådd siste 40 år før søknaden fremmes og oppformert atskilt fra hverandre et annet sted enn på innsamlingsstedet. Kildeområdet skal være i opprinnelsesområdet for blandingen.
 2. Frøene kan maksimalt være oppformert i fem generasjoner.
 3. Frøblandingen skal inneholde arter omtalt i bokstav a, som er typiske for naturtypen på innsamlingsstedet og av betydning for bevaring av plantegenetiske ressurser.
-4. Såvarer av de artene i frøblandingen som står oppført i vedlegg A1, Jordbruksvekster, punkt II Fôrvekster og gras til grøntanlegg, nr. 1 til 3 skal oppfylle kravene i vedlegg C1, del I, bokstav A, punkt 3, tabell 1a og tabell 1 b når det gjelder renhet og innblanding av andre arter.
-5. Opplysninger om spireevnen til de enkelte artene skal dokumenteres.
+4. De komponentene i frøblandingen som består av arter oppført i vedlegg A1, Jordbruksvekster, punkt II Fôrvekster og gras til grøntanlegg, nr. 1 til 3 skal oppfylle kravene til handelsfrø i vedlegg C1, del I, bokstav C, når det gjelder renhet og innblanding av andre arter.
+5. Opplysninger om spireevnen til de enkelte artene skal dokumenteres. For andre arter enn de som følger av bokstav d, kan spireanalysen erstattes med en tetrazoliumanalyse som viser potensiell spireevne.
 6. Blandingen skal ikke inneholde frø av *Avena fatua* L, *Avena sterilis, Cuscuta* spp. og *Echinochloa crus-galli*.
 7. Blandingen kan maksimalt inneholde 0,05 % i forhold til vekt, av andre *Rumex* spp. enn *Rumex acetosella* og *Rumex maritimus*.
 8. Prøvetaking og analyser som ligger til grunn for vurdering av kravene i bokstav d til g skal være gjort i henhold til [§ 14](forskrift/1999-09-13-1052/§14).
 
-> Tilføyd ved [forskrift 5 jan 2015 nr. 6](forskrift/2015-01-05-6), endret ved [forskrifter 26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124).
+> Tilføyd ved [forskrift 5 jan 2015 nr. 6](forskrift/2015-01-05-6), endret ved [forskrifter 26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124), [3 sep 2026 nr. 1742](forskrift/2026-09-03-1742).
 
 ### D Vedlegg om grønnsaksfrø
 
