@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-01-13"
+last_change_in_force: "2026-09-07"
 last_updated: "2021-12-09"
-xml_hash: "c6ad4afc9e1bb5a87c45daf24f1404d62d53e22d815337e14d3fc04a3357d263"
+xml_hash: "13f79e2924cd345d14d5637c36eb9e3d56eb391054766e82e40e947e956494e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-10T08:54:03.783383+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ I denne forskriften forstås med:
 
 ### § 3. Virkeområde
 
-Denne forskriften gjelder for vilkårsparkering av motorvogn eller tilhenger til motorvogn (heretter kun omtalt som «motorvogn») på veg åpen for alminnelig ferdsel. Forskriften gjelder likevel ikke for liten elektrisk motorvogn.
+Denne forskriften gjelder for vilkårsparkering av motorvogn eller tilhenger til motorvogn (heretter kun omtalt som «motorvogn») på veg åpen for alminnelig ferdsel. Forskriften gjelder likevel ikke for liten elektrisk motorvogn. På områder hvor det kun forestås fjerning jf. [§ 38](forskrift/2016-03-18-260/§38) eller [§ 42](forskrift/2016-03-18-260/§42), gjelder ikke kravene i [kapittel 3](forskrift/2016-03-18-260/kap3).
 
 Forskriften gjelder ikke for parkering reservert for særskilte grupper på områder som er fysisk avgrenset ved bom, kjetting eller annen måte. Forskriften gjelder heller ikke parkering reservert for særskilte grupper på områder som ikke er fysisk avstengt og det ved privat skilting i samsvar med [§ 26](forskrift/2016-03-18-260/§26) fremgår at parkering ikke tilbys allmenheten. Dersom det ilegges kontrollsanksjoner på slike steder gjelder likevel kravene i [kapittel 3](forskrift/2016-03-18-260/kap3) (personell), [kapittel 8](forskrift/2016-03-18-260/kap8) (sanksjon) og [kapittel 9](forskrift/2016-03-18-260/kap9) (klage). Dersom det kun forestås fjerning jf. [§ 38](forskrift/2016-03-18-260/§38) eller [§ 42](forskrift/2016-03-18-260/§42) gjelder bare kravene i [kapittel 8](forskrift/2016-03-18-260/kap8) og [9](forskrift/2016-03-18-260/kap9).
 
@@ -64,7 +64,7 @@ Forskriften gjelder også for politiets håndheving av vilkårsparkering, som ik
 
 Forskriften gjelder ikke i kommuner eller på områder der eneste tilbud om vilkårsparkering er reserverte plasser for forflytningshemmede og hvor kommunen ikke har fått delegert håndhevingsmyndighet. Dersom private håndhever på slike steder gjelder likevel kravene i [kapittel 3](forskrift/2016-03-18-260/kap3) (personell), [kapittel 8](forskrift/2016-03-18-260/kap8) (sanksjon) og [kapittel 9](forskrift/2016-03-18-260/kap9) (klage). Dersom det er politiet som håndhever, gjelder kun [kapittel 8](forskrift/2016-03-18-260/kap8) og [9](forskrift/2016-03-18-260/kap9).
 
-> Endret ved [forskrifter 25 nov 2016 nr. 1405](forskrift/2016-11-25-1405), [25 mai 2022 nr. 916](forskrift/2022-05-25-916) (i kraft 15 juni 2022), [24 nov 2023 nr. 1950](forskrift/2023-11-24-1950) (i kraft 4 des 2023).
+> Endret ved [forskrifter 25 nov 2016 nr. 1405](forskrift/2016-11-25-1405), [25 mai 2022 nr. 916](forskrift/2022-05-25-916) (i kraft 15 juni 2022), [24 nov 2023 nr. 1950](forskrift/2023-11-24-1950) (i kraft 4 des 2023), [7 sep 2026 nr. 1744](forskrift/2026-09-07-1744).
 
 ## Kapittel 2. Krav til virksomheter
 
