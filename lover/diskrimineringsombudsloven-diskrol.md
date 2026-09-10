@@ -10,12 +10,12 @@ ministry:
   - "Kultur- og likestillingsdepartementet"
 date_in_force: "2018-01-01"
 last_change_in_force: "2026-01-01"
-last_updated: "2025-03-12"
-xml_hash: "777940bee0439abe7caa29539fb85efb3b296be5405f33ecf61106479cbef805"
+last_updated: "2026-09-09"
+xml_hash: "794b3f2d2b95d22787be7a83075e553bdf3b1bc7252b20a2b881fdb2da866a62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-10T08:54:03.783383+00:00"
 status: "current"
 eu_basis:
   - "32006L0054"
@@ -84,11 +84,13 @@ Nemnda kan gi følgende uttalelser:
 
 ### § 3. Opplysningsplikt
 
-Offentlige myndigheter plikter uten hinder av taushetsplikt å gi ombudet og nemnda de opplysningene som er nødvendige for gjennomføringen av bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 5](lov/2017-06-16-50/§5) tredje ledd. Slike opplysninger kan også kreves av andre som har vitneplikt etter [tvisteloven](lov/2005-06-17-90). [Tvisteloven § 24-8](lov/2005-06-17-90/§24-8) tredje ledd gjelder tilsvarende. Avgjørelse som nevnt i [tvisteloven § 22-6](lov/2005-06-17-90/§22-6) første ledd annet punktum, [§ 22-7](lov/2005-06-17-90/§22-7), [§ 22-8](lov/2005-06-17-90/§22-8) annet ledd, [§ 22-9](lov/2005-06-17-90/§22-9) annet til fjerde ledd, [§ 22-10](lov/2005-06-17-90/§22-10) annet punktum og [§ 22-11](lov/2005-06-17-90/§22-11) annet ledd, treffes av tingretten.
+Offentlige myndigheter plikter uten hinder av taushetsplikt å gi ombudet og nemnda de opplysningene som er nødvendige for gjennomføringen av bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 5](lov/2017-06-16-50/§5) tredje ledd. Slike opplysninger kan også kreves av andre som har vitneplikt etter [tvisteloven](lov/2005-06-17-90). [Tvisteloven § 24-8](lov/2005-06-17-90/§24-8) tredje ledd[^1] gjelder tilsvarende. Avgjørelse som nevnt i [tvisteloven § 22-6](lov/2005-06-17-90/§22-6) første ledd annet punktum, [§ 22-7](lov/2005-06-17-90/§22-7), [§ 22-8](lov/2005-06-17-90/§22-8) annet ledd, [§ 22-9](lov/2005-06-17-90/§22-9) annet til fjerde ledd, [§ 22-10](lov/2005-06-17-90/§22-10) annet punktum og [§ 22-11](lov/2005-06-17-90/§22-11) annet ledd, treffes av tingretten.
 
 Ombudet og nemnda kan kreve bevisopptak ved domstolene, jf. [domstolloven § 43](lov/1915-08-13-5/§43) annet ledd.
 
 > Endret ved lover [19 des 2017 nr. 114](lov/2017-12-19-114) (ikr. 1 jan 2018 iflg. [res. 19 des 2017 nr. 2155](forskrift/2017-12-19-2155)), [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973)).
+
+1 Inkurie: Skal være [tvisteloven § 24-8 fjerde ledd](lov/2005-06-17-90/§24-8/ledd/4).
 
 ## Kapittel 2 Likestillings- og diskrimineringsombudet
 
