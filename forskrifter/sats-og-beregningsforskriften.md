@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2018-08-01"
-last_change_in_force: "2025-04-02"
+last_change_in_force: "2026-09-03"
 last_updated: null
-xml_hash: "6a6a3700d59b716edbb83dcbe97290f2ea11ca2f99d904f7c942d133b84f94da"
+xml_hash: "97bdf4d143bd45a52e0eddf1fca77f96550aafe72cc2a726ce1625041889e510"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-10T08:54:03.783383+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -193,80 +193,84 @@ Ved svikt i honningproduksjon skal kommunen foreta stedlig kontroll på minimum 
 
 | *Vekstgruppe: Korn og annet frø til modning* |  |
 | --- | --- |
-| *Vekst* | *Sats, kr pr. kg* |
-| Hvete | 4,25 |
-| Rug/rughvete | 3,85 |
-| Bygg | 3,60 |
-| Havre | 3,65 |
-| Oljefrø | 7,25 |
-| Erter til modning og konserveserter | 5,10 |
-| Bønner til konserves (høstet før modning) | 4,70 |
-| Raigras | 19,10 |
-| Timotei og engsvingel | 40,10 |
-| Rødsvingel, engrapp, kløver mfl. | 93,30 |
+| *Vekst* | *Sats, kr/kg* |
+| Hvete | 4,55 |
+| Rug/rughvete | 3,45 |
+| Bygg | 3,55 |
+| Havre | 3,75 |
+| Oljefrø | 7,70 |
+| Erter til modning og konserveserter | 5,25 |
+| Bønner til konserves (høstet før modning) | 5,30 |
+| Raigras | 22,00 |
+| Timotei og engsvingel | 40,70 |
+| Rødsvingel, engrapp, kløver mfl. | 85,70 |
 
 | *Vekstgruppe: Grovfôr* |  |
 | --- | --- |
-| Grovfôr salgsproduksjon | Sats, kr 3,05 pr. kg |
-| Grovfôr i foretak med husdyr | Sats, kr 4,75 pr. FEm |
+| Grovfôr salgsproduksjon, pr. kg | Sats, kr 3,95 pr. kg |
+| Grovfôr i foretak med husdyr, pr. FEm | Sats, kr 5,25 pr FEm |
 
 | *Vekstgruppe: Potet* |  |
 | --- | --- |
-| *Vekst* | *Sats, kr pr. kg* |
-| Potet til konsum | 4,30 |
-| Potet til industri | 3,30 |
-| Spesialpotet | 7,00 |
+| *Vekst* | *Sats, kr/kg* |
+| Potet til konsum | 6,00 |
+| Potet til industri | 4,20 |
+| Spesialpotet | 9,10 |
 
 | *Vekstgruppe: Grønnsaker* |  |
 | --- | --- |
-| *Vekst* | *Sats, kr pr. kg* |
-| Kålrot | 9,10 |
-| Hodekål til konsum | 7,60 |
-| Hodekål til industri | 2,90 |
-| Blomkål til konsum | 16,10 |
-| Blomkål til industri | 8,00 |
-| Brokkoli | 26,50 |
-| Rosenkål til konsum<br>Rosenkål til industri | 44,40<br>12,40 |
-| Kinakål | 14,40 |
-| Rødbeter til konsum<br>Rødbeter til industri | 13,80<br>3,00 |
-| Knollselleri til konsum<br>Knollselleri til industri | 18,70<br>5,90 |
-| Purre til konsum<br>Purre til industri | 19,80<br>11,00 |
-| Løk | 6,80 |
-| Sylteagurk | 8,20 |
-| Gulrot til konsum | 5,60 |
-| Gulrot til industri | 2,00 |
-| Salat på friland til konsum | 47,80 |
-| Salat på friland til industri | 22,30 |
-| Isbergsalat til konsum | 22,40 |
-| Isbergsalat til industri | 14,20 |
+| *Vekst* | *Sats, kr/kg* |
+| Kålrot | 10,60 |
+| Hodekål til konsum | 9,00 |
+| Hodekål til industri | 3,70 |
+| Blomkål til konsum | 18,30 |
+| Blomkål til industri | 9,10 |
+| Brokkoli | 27,40 |
+| Rosenkål til konsum | 54,30 |
+| Rosenkål til industri | 14,20 |
+| Kinakål | 16,00 |
+| Rødbeter til konsum | 15,20 |
+| Rødbeter til industri | 3,70 |
+| Knollselleri til konsum | 24,00 |
+| Knollselleri til industri | 11,80 |
+| Purre til konsum | 22,30 |
+| Purre til industri | 12,30 |
+| Løk | 7,90 |
+| Sylteagurk | 11,70 |
+| Gulrot til konsum | 6,10 |
+| Gulrot til industri | 2,50 |
+| Salat på friland til konsum | 48,80 |
+| Salat på friland til industri | 26,90 |
+| Isbergsalat til konsum | 26,60 |
+| Isbergsalat til industri | 16,50 |
 
 | *Vekstgruppe: Frukt* |  |
 | --- | --- |
-| *Vekst* | *Sats, kr pr. kg* |
-| Epler | 21,50 |
-| Epler til press | 10,50 |
-| Pærer | 19,90 |
-| Plommer | 32,60 |
-| Moreller | 70,00 |
-| Kirsebær | 11,70 |
+| *Vekst* | *Sats, kr/kg* |
+| Epler | 24,90 |
+| Epler til press | 12,60 |
+| Pærer | 24,80 |
+| Plommer | 31,80 |
+| Moreller | 74,80 |
+| Kirsebær | 22,20 |
 
 | *Vekstgruppe: Bær* |  |
 | --- | --- |
-| *Vekst* | *Sats, kr pr. kg* |
-| Jordbær til konsum | 71,20 |
-| Bringebær til konsum | 102,70 |
-| Jordbær og bringebær til industri | 31,80 |
-| Solbær til industri | 11,70 |
-| Hageblåbær/kostbare bær til konsum | 108,60 |
+| *Vekst* | *Sats, kr/kg* |
+| Jordbær til konsum | 81,50 |
+| Bringebær til konsum | 125,50 |
+| Jordbær og bringebær til industri | 49,90 |
+| Solbær til industri | 24,70 |
+| Hageblåbær/kostbare bær til konsum | 106,40 |
 
 | *Honningproduksjon* |  |
 | --- | --- |
-|  | *Sats, kr pr. kg* |
-| Honning | 150,15 |
+|  | *Sats, kr/kg* |
+| Honning | 160,00 |
 
-Standardsatsene gjelder fra og med skadeåret 2023.
+Standardsatsene gjelder fra og med skadeåret 2026.
 
-> Endret ved [forskrifter 22 nov 2018 nr. 1740](forskrift/2018-11-22-1740), [1 aug 2019 nr. 1038](forskrift/2019-08-01-1038), [10 aug 2020 nr. 1628](forskrift/2020-08-10-1628), [14 sep 2022 nr. 1581](forskrift/2022-09-14-1581), [6 feb 2023 nr. 163](forskrift/2023-02-06-163), [22 des 2023 nr. 2336](forskrift/2023-12-22-2336).
+> Endret ved [forskrifter 22 nov 2018 nr. 1740](forskrift/2018-11-22-1740), [1 aug 2019 nr. 1038](forskrift/2019-08-01-1038), [10 aug 2020 nr. 1628](forskrift/2020-08-10-1628), [14 sep 2022 nr. 1581](forskrift/2022-09-14-1581), [6 feb 2023 nr. 163](forskrift/2023-02-06-163), [22 des 2023 nr. 2336](forskrift/2023-12-22-2336), [3 sep 2026 nr. 1741](forskrift/2026-09-03-1741).
 
 ### § 13a. (Opphevet)
 
