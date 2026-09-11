@@ -11,12 +11,12 @@ ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-09-01"
-last_updated: "2022-10-20"
-xml_hash: "ef385eb42cfb7e16a8f9c17af6dc83625af51f54f1fd1ed8834973e75e146bbe"
+last_updated: "2026-09-10"
+xml_hash: "8f4c2b2d4488cff366c404d2a41886fb5dd5558001b36c160c0293c24726f92f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-11T08:51:50.177996+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3746,7 +3746,7 @@ I tilfeller hvor grunnleggende nasjonale interesser gjør seg gjeldende, gjelder
 
 Ansiktsfoto skal slettes når fortsatt lagring ikke lenger er nødvendig ut fra formålet opplysningene er innhentet for, jf. [personvernforordningen artikkel 5 nr. 1 bokstav e](lov/2018-06-15-38/gdpr/a5/nummer/1/bokstav/e).
 
-Sletting skal skje i samsvar med [arkivloven](lov/1992-12-04-126).
+Sletting skal skje i samsvar med [arkivloven](lov/2025-06-20-96).
 
 > Endret ved forskrifter [9 des 2010 nr. 1644](forskrift/2010-12-09-1644) (i kraft 1 jan 2011), [20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021), [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025), [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
 
