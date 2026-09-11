@@ -58149,13 +58149,13 @@
     },
     "sf-20091015-1286": {
       "doc_type": "forskrift",
-      "embedding_hash": "ef385eb42cfb7e16a8f9c17af6dc83625af51f54f1fd1ed8834973e75e146bbe",
-      "embedding_input_hash": "0afd8b4c919bb224161d178c5bba8cd9fe23cfa746be5f05d759f4f9c469cdfe",
+      "embedding_hash": "8f4c2b2d4488cff366c404d2a41886fb5dd5558001b36c160c0293c24726f92f",
+      "embedding_input_hash": "ee952ddad762c3d7322f07ad21b8d1fdfbe3f4dbda44d2a6025f4461cfe44670",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-09-11",
+      "last_seen": "2026-09-11T08:51:50.177996Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58163,8 +58163,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 15,
-      "xml_hash": "ef385eb42cfb7e16a8f9c17af6dc83625af51f54f1fd1ed8834973e75e146bbe"
+      "total_changes": 16,
+      "xml_hash": "8f4c2b2d4488cff366c404d2a41886fb5dd5558001b36c160c0293c24726f92f"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "aeeb2dafe17b25bc1370c07efce1b217a555723c9bad3f733d71a217feee0482",
-      "embedding_input_hash": "ee6ae7f989edf5791188d5a5574f3119e384d1368c8d89c4856009a2aa864a88",
+      "embedding_hash": "f4a45218b55c81b49ed170c3c53b314517a9519f8c84256c450c72acae2e08d1",
+      "embedding_input_hash": "619139b8db975f169d8c2bc567a73c976b5cdf8bf4dfcf8e69a2a7bf55455c29",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-10",
-      "last_seen": "2026-09-10T08:54:03.783383Z",
+      "last_changed": "2026-09-11",
+      "last_seen": "2026-09-11T08:51:50.177996Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 21,
-      "xml_hash": "aeeb2dafe17b25bc1370c07efce1b217a555723c9bad3f733d71a217feee0482"
+      "total_changes": 22,
+      "xml_hash": "f4a45218b55c81b49ed170c3c53b314517a9519f8c84256c450c72acae2e08d1"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -95731,13 +95731,13 @@
     },
     "sf-20221117-1978": {
       "doc_type": "forskrift",
-      "embedding_hash": "c600331167d95a2a7f5128a4a6f00bb07244d2776d2afb5c5e7c59ee33df0218",
-      "embedding_input_hash": "b74120b511a2c93308d5c6a70021a4dbb60bcbb7265c4e1310f8c9f67138d972",
+      "embedding_hash": "6a4be20b530981ff4edb5a9f3826d42ebd8f4cbc93c5ee8b39876072a80099ef",
+      "embedding_input_hash": "211c91f74901a43cce0c7950c09dea19164b39605bfc3b457b0f7cb123a61697",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-11",
+      "last_seen": "2026-09-11T08:51:50.177996Z",
       "markdown_path": "forskrifter/pengespillforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -95745,8 +95745,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om pengespill (pengespillforskriften)",
-      "total_changes": 3,
-      "xml_hash": "c600331167d95a2a7f5128a4a6f00bb07244d2776d2afb5c5e7c59ee33df0218"
+      "total_changes": 4,
+      "xml_hash": "6a4be20b530981ff4edb5a9f3826d42ebd8f4cbc93c5ee8b39876072a80099ef"
     },
     "sf-20221117-1980": {
       "doc_type": "forskrift",
@@ -113381,6 +113381,6 @@
       "xml_hash": "425180566a17b602449e09606f526ab968eb55098cdd23687bacb70eef99b86c"
     }
   },
-  "generated_at": "2026-09-10T08:54:03.783383Z",
+  "generated_at": "2026-09-11T08:51:50.177996Z",
   "version": 1
 }

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # pengespillforskriften — Change history
 
-_3 events; doc_id `sf-20221117-1978`._
+_4 events; doc_id `sf-20221117-1978`._
+
+## 2026-09-11 — Content updated
+Lines: +25 -4.
+Subject: `update(forskrift): pengespillforskriften`
+Commit: `ea10582`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20091015-1286",
   "events": [
     {
+      "commit": "f97c6e8",
+      "date": "2026-09-11",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): utlendingsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e8616e2",
       "date": "2026-09-09",
       "from_path": null,
