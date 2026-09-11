@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kultur- og likestillingsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2025-09-01"
+last_change_in_force: "2026-09-08"
 last_updated: null
-xml_hash: "c600331167d95a2a7f5128a4a6f00bb07244d2776d2afb5c5e7c59ee33df0218"
+xml_hash: "6a4be20b530981ff4edb5a9f3826d42ebd8f4cbc93c5ee8b39876072a80099ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-11T08:51:50.177996+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -319,7 +319,10 @@ Kravet i [pengespilloven § 22](lov/2022-03-18-12/§22) om at overskuddet skal g
 
 1. pengespill i private forsamlinger med lav risiko for spilleproblemer og med samlet omsetning under 20 000 kroner per sammenkomst
 2. pokerspill i private hjem der spillet ikke har et profesjonelt preg, der det deltar maksimalt 20 spillere og høyeste innsats per spiller er 1000 kroner per sammenkomst
-3. lykkehjul og automater på tivoli og i fornøyelsesparker der man mot en innsats kan vinne en varepremie som utleveres automatisk etter en helt eller delvis tilfeldig trekning, forutsatt at pengespillet utgjør en liten del av det samlede aktivitetstilbudet og at varepremiene ikke består av verdibevis eller gavekort.
+3. lykkehjul og automater på tivoli og i fornøyelsesparker der man mot en innsats kan vinne en varepremie som utleveres automatisk etter en helt eller delvis tilfeldig trekning, forutsatt at pengespillet utgjør en liten del av det samlede aktivitetstilbudet og at varepremiene ikke består av verdibevis eller gavekort
+4. en kringkaster som har konsesjon etter [kringkastingsloven](lov/1992-12-04-127) til å tilby lokalradio eller lokalfjernsyn, som ikke samtidig har inntekter fra pengespill som krever tillatelse etter [pengespilloven](lov/2022-03-18-12), og som bare bruker overskuddet fra pengespillet til den lokalradio- eller lokalfjernsynsstasjonen tillatelsen gjelder.
+
+> Endret ved forskrift [8 sep 2026 nr. 1749](forskrift/2026-09-08-1749).
 
 ### § 37. Krav om forhåndsgodkjenning av organisasjoner før de kan få tillatelse til å tilby og motta overskudd fra pengespill
 
@@ -926,6 +929,24 @@ Opplysningsplikten omfatter opplysninger som foretaket har om kontonummer, bruke
 ### § 99. Stans i utbetalinger og bruken av inndratte pengespillmidler
 
 Opptjente pengespillmidler som følge av stans av utbetaling etter [pengespilloven § 35](lov/2022-03-18-12/§35) første ledd bokstav a og c, skal fordeles på de organisasjonene som mottar overskudd fra bingo etter [§ 68](forskrift/2022-11-17-1978/§68). Det samme gjelder pengespillmidler inndratt etter [pengespilloven § 35](lov/2022-03-18-12/§35) andre ledd, jf. første ledd bokstav a og c.
+
+### § 99a. Krav til internettilbydere ved DNS-blokkering og blokkeringsoversikt
+
+Landingssiden som driftes av en internettilbyder, skal
+
+1. oppgi kontaktinformasjon til Lotteritilsynet for henvendelser om blokkeringen
+2. informere om at blokkeringen gjelder nettsteder som tilbyr pengespill rettet mot det norske markedet uten å ha tillatelse
+3. informere om at internettilbyderen ikke lagrer personopplysninger om brukere, utover det som er strengt nødvendig for teknisk drift av landingssiden
+4. informere om at opplysninger som samles inn i samsvar med bokstav c, behandles slik [ekomloven § 3-10](lov/2024-12-13-76/§3-10) krever, og skal slettes så snart de ikke er nødvendige for formålet
+5. ikke inneholde aktive lenker
+6. ikke benytte informasjonskapsler
+7. oppgi kontaktinformasjon til Hjelpelinjen.
+
+I vurderingen av om en internettilbyder skal pålegges DNS-blokkering etter [pengespilloven § 32a](lov/2022-03-18-12/§32a), avveies hensynene som taler for blokkeringen mot hensynene som taler mot, herunder hensynet til informasjonsfrihet. Hensynet til personvernet skal ivaretas. Offentlige myndigheter skal ikke samle inn personopplysninger om brukeres forsøk på å oppsøke blokkerte nettsteder.
+
+Lotteritilsynet skal føre og offentliggjøre en oversikt over blokkerte nettsteder og grunnlaget for blokkeringen.
+
+> Tilføyd ved forskrift [8 sep 2026 nr. 1749](forskrift/2026-09-08-1749).
 
 ### § 100. Overtredelsesgebyr
 
