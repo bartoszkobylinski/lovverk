@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2007-01-01"
 last_change_in_force: "2026-09-01"
 last_updated: "2021-11-01"
-xml_hash: "245692d8af0af2e17037bfd5e9784922023f27a570ecac9e9b7753ec9d48f83a"
+xml_hash: "cd772c749ded66c2282e8b347590063bf266e30c6bfb69b7af1a947e5f8e0e59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1352,7 +1352,7 @@ Resultater:
 
 Beskrivelse av innsjøtyper som er interkalibrert:
 
-| *Type* | *Karakteristika* | *Innsjøareal*<br>*(km2*) | *Alkalinitet (meq/l)* | *Organisk materiale (mg Pt/l)* |
+| *Type* | *Karakteristika* | *Innsjøareal*<br>*(km2* ) | *Alkalinitet (meq/l)* | *Organisk materiale (mg Pt/l)* |
 | --- | --- | --- | --- | --- |
 | L101a–d,<br>L102a–d,<br>L104,<br>L105a–b,<br>L107,<br>L109,<br>L201a–d,<br>L202a–d,<br>L204, L205,<br>L207<br>(L-N-F1) | Dimiktisk klarvannssjø | <40 | <0,2 | <30 |
 | L103a–d,<br>L106,<br>L108,<br>L110,<br>L203a–d,<br>L206,<br>L208<br>(L-N-F2) | Dimiktisk humussjø | <5 | <0,2 | 30–90 |
