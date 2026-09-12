@@ -15,11 +15,11 @@ ministry:
 date_in_force: "2024-04-03"
 last_change_in_force: "2025-08-11"
 last_updated: null
-xml_hash: "c4215a6790e0365c67a964b42cfea644ab487e97d35d273c54c4fc620b01672f"
+xml_hash: "4d79ce0d178ade45f47a92bdb4f3546dc26e8b6830757fdc9cebcf1f402d3363"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2423,7 +2423,7 @@ Da anses det relevante kriteriet i nr. 2 bokstav a) for å være påvist dersom 
    ◄**M3**
 
    ►**M4**
-7. pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)**►M5**, eller**◄M5**
+7. pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)**►M5** , eller**◄M5**
 
    ◄**M4**
 
