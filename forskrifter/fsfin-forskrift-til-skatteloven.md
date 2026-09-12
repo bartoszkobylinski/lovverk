@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2000-01-01"
-last_change_in_force: "2026-02-18"
+last_change_in_force: "2026-09-10"
 last_updated: "2023-08-03"
-xml_hash: "ef4c29a4a7d42aca66cf8e2f38ca315d18414e8ed3a704071c0ef6e02c54d1aa"
+xml_hash: "c03616ee2e4d26e355d182dec9fcc726d539c824744d7f872a96dd4335ff8a90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -5315,11 +5315,11 @@ For fastpriskontrakter som skal verdsettes til kontraktsprisen etter [skattelove
 
 ### § 18-3-33. Tilordning til kraftverk av leveranse som skal verdsettes etter § 18-3 annet ledd a nr. 4
 
-(1) Leveranser som det skal tas hensyn til etter [skatteloven § 18-3 annet ledd a nr. 4](lov/1999-03-26-14/§18-3/ledd/2/nummer/4), fordeles etter kraftverkenes faktiske årsproduksjon på kraftverk som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4). Fordelingen gjennomføres separat for hhv. samlet sørlig og samlet nordlig prisområde, jf. [§ 18-3-29 første ledd nr. 1](forskrift/1999-11-19-1158/§18-3-29/ledd/1/nummer/1). Bestemmelsen i [§ 18-3-24](forskrift/1999-11-19-1158/§18-3-24) gjelder tilsvarende. Eventuell differanse dekkes med kraftkjøp til tilhørende spotmarkedspris i sluttbrukers prisområde. Dersom eier av vannkraftverk også eier vindkraftanlegg, fordeles leveransene på både vannkraftverk og vindkraftanlegg.
+(1) Leveranser som det skal tas hensyn til etter [skatteloven § 18-3 annet ledd a nr. 4](lov/1999-03-26-14/§18-3/ledd/2/nummer/4), fordeles etter kraftverkenes faktiske årsproduksjon på kraftverk som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4). Fordelingen gjennomføres separat for hhv. samlet sørlig og samlet nordlig prisområde, jf. [§ 18-3-29 første ledd nr. 1](forskrift/1999-11-19-1158/§18-3-29/ledd/1/nummer/1). Bestemmelsen i [§ 18-3-24](forskrift/1999-11-19-1158/§18-3-24) gjelder tilsvarende. Eventuell differanse dekkes med kraftkjøp til tilhørende spotmarkedspris i sluttbrukers prisområde. Dersom den skattepliktige eller selskap i samme konsern, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4), også eier vindkraftanlegg, fordeles leveransene på både vannkraftverkene og vindkraftanleggene.
 
-(2) Når skattepliktig eller selskap i samme konsern eier en andel av et bruttolignet kraftverk, skal leveranser som nevnt i første og annet ledd fordeles på denne andelen av verkets faktiske årsproduksjon.
+(2) Når skattepliktig eller selskap i samme konsern eier en andel av et bruttolignet kraftverk, skal leveranser som nevnt i første ledd fordeles på denne andelen av verkets faktiske årsproduksjon.
 
-> Tilføyd ved forskrift [21 des 2022 nr. 2457](forskrift/2022-12-21-2457) (med virkning fra og med inntektsåret 2023 og med virkning for kontrakter mellom kraftprodusent og strømleverandør inngått i 2022, 2023 og 2024 og for kraft som leveres fra og med 1 jan 2023), endret ved forskrifter [20 des 2023 nr. 2184](forskrift/2023-12-20-2184) (med virkning fra inntektsåret 2024), [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024), [20 des 2024 nr. 3390](forskrift/2024-12-20-3390) (med virkning fra inntektsåret 2025), [22 des 2025 nr. 2865](forskrift/2025-12-22-2865) (med virkning fra inntektsåret 2025).
+> Tilføyd ved forskrift [21 des 2022 nr. 2457](forskrift/2022-12-21-2457) (med virkning fra og med inntektsåret 2023 og med virkning for kontrakter mellom kraftprodusent og strømleverandør inngått i 2022, 2023 og 2024 og for kraft som leveres fra og med 1 jan 2023), endret ved forskrifter [20 des 2023 nr. 2184](forskrift/2023-12-20-2184) (med virkning fra inntektsåret 2024), [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024), [20 des 2024 nr. 3390](forskrift/2024-12-20-3390) (med virkning fra inntektsåret 2025), [22 des 2025 nr. 2865](forskrift/2025-12-22-2865) (med virkning fra inntektsåret 2025), [10 sep 2026 nr. 1755](forskrift/2026-09-10-1755).
 
 ### § 18-5. Verdsettelse av kraftanlegg
 
@@ -5538,9 +5538,9 @@ For kontrakter som skal verdsettes til kontraktsprisen etter [skatteloven § 18-
 
 (1) Leveranser som det skal tas hensyn til etter [skatteloven § 18-10 annet ledd bokstav a nr. 1 første punktum](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/1/setning/1), fordeles etter vindkraftanleggenes faktiske årsproduksjon på anlegg etablert før 28. september 2022 som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4).
 
-(2) Samlet, årlig nettogevinst eller -tap ved finansiell sikring, jf. § 18-10-5 annet ledd femte punktum, fordeles sjablonmessig etter vindkraftanleggenes faktiske årsproduksjon på anlegg etablert før 28. september 2022 som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4). Samlet kraftvolum omfattet av [skatteloven § 18-10 annet ledd bokstav a nr. 1](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/1) til [3](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/3), som fordeles til et vindkraftanlegg, kan overstige årsproduksjonen i det aktuelle anlegget. Tilordnet finansiell sikring skal i så fall avkortes med en andel lik overstigende volum delt på finansielt sikret volum, oppad begrenset til 1. Avkortningen gjelder bare gevinst eller tap for det aktuelle inntektsåret. Ved oppgjør før tiden gjelder avkortningen ikke for etterfølgende avtaleår.
+(2) Samlet, årlig nettogevinst eller -tap ved finansiell sikring, jf. [§ 18-10-5 annet ledd femte punktum](forskrift/1999-11-19-1158/§18-10-5/ledd/2/setning/5), fordeles sjablonmessig etter vindkraftanleggenes faktiske årsproduksjon på anlegg etablert før 28. september 2022 som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4). Samlet kraftvolum omfattet av [skatteloven § 18-10 annet ledd bokstav a nr. 1](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/1) til [3](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/3), som fordeles til et vindkraftanlegg, kan overstige årsproduksjonen i det aktuelle anlegget. Tilordnet finansiell sikring skal i så fall avkortes med en andel lik overstigende volum delt på finansielt sikret volum, oppad begrenset til 1. Avkortningen gjelder bare gevinst eller tap for det aktuelle inntektsåret. Ved oppgjør før tiden gjelder avkortningen ikke for etterfølgende avtaleår.
 
-(3) Leveranser omfattet av [skatteloven § 18-10 annet ledd bokstav a nr. 3](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/3), fordeles for hvert prisområde mellom vindkraftanlegg omfattet av § 18-10-5 tredje ledd, ut fra vindkraftanleggenes faktiske årsproduksjon.
+(3) Leveranser omfattet av [skatteloven § 18-10 annet ledd bokstav a nr. 3](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/3), fordeles for hvert prisområde mellom vindkraftanlegg omfattet av [§ 18-10-5 tredje ledd](forskrift/1999-11-19-1158/§18-10-5/ledd/3), ut fra vindkraftanleggenes faktiske årsproduksjon.
 
 > Tilføyd ved forskrift [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024).
 
@@ -5598,17 +5598,17 @@ Prisen etter [skatteloven § 18-10 annet ledd bokstav a nr. 1](lov/1999-03-26-14
 
 ### § 18-10-13. Uttaksprofil for kraft som skal verdsettes til kontraktsprisen etter § 18-10 annet ledd bokstav a nr. 2
 
-For fastpriskontrakter som skal verdsettes til kontraktsprisen etter [skatteloven § 18-10 annet ledd bokstav a nr. 2](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/2), jf. § 18-10-11 første ledd, skal avtalt uttaksprofil, slik den fremgår av fastpriskontrakten, legges til grunn.
+For fastpriskontrakter som skal verdsettes til kontraktsprisen etter [skatteloven § 18-10 annet ledd bokstav a nr. 2](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/2), jf. [§ 18-10-11 første ledd](forskrift/1999-11-19-1158/§18-10-11/ledd/1), skal avtalt uttaksprofil, slik den fremgår av fastpriskontrakten, legges til grunn.
 
 > Tilføyd ved forskrift [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024).
 
 ### § 18-10-14. Tilordning av leveranse som skal verdsettes til kontraktsprisen etter § 18-10 annet ledd bokstav a nr. 2
 
-(1) Leveranser som det skal tas hensyn til etter [skatteloven § 18-10 annet ledd bokstav a nr. 2](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/2), fordeles etter vindkraftanleggenes faktiske årsproduksjon på anlegg som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4). Fordelingen gjennomføres separat for hhv. samlet sørlig og samlet nordlig prisområde, jf. § 18-10-11 første ledd nr. 1. Eventuell differanse dekkes med kraftkjøp til tilhørende spotmarkedspris i sluttbrukers prisområde. Dersom eier av vindkraftanlegg også eier vannkraftverk, fordeles leveransene på både vindkraftanleggene og vannkraftverkene.
+(1) Leveranser som det skal tas hensyn til etter [skatteloven § 18-10 annet ledd bokstav a nr. 2](lov/1999-03-26-14/§18-10/ledd/2/bokstav/a/nummer/2), fordeles etter vindkraftanleggenes faktiske årsproduksjon på anlegg som den skattepliktige eller selskap i samme konsern eier, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4). Fordelingen gjennomføres separat for hhv. samlet sørlig og samlet nordlig prisområde, jf. [§ 18-10-11 første ledd nr. 1](forskrift/1999-11-19-1158/§18-10-11/ledd/1/nummer/1). Eventuell differanse dekkes med kraftkjøp til tilhørende spotmarkedspris i sluttbrukers prisområde. Dersom den skattepliktige eller selskap i samme konsern, jf. [skatteloven § 10-4](lov/1999-03-26-14/§10-4), også eier vannkraftverk, fordeles leveransene på både vindkraftanleggene og vannkraftverkene.
 
 (2) Når skattepliktig eller selskap i samme konsern eier en andel av et bruttolignet vindkraftanlegg, skal leveranser som nevnt i første ledd fordeles på denne andelen av verkets faktiske årsproduksjon.
 
-> Tilføyd ved forskrift [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024).
+> Tilføyd ved forskrift [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024), endret ved forskrift [10 sep 2026 nr. 1755](forskrift/2026-09-10-1755).
 
 ### § 18-10-15. Inngangsverdi for investeringer før inntektsåret 2024
 
