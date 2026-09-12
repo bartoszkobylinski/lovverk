@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2022-04-28"
 last_change_in_force: "2026-05-04"
 last_updated: "2022-08-11"
-xml_hash: "98101851de2f52bbe22febc6a6d2366b3f3309fd89ab43f0248bad8c4f42eee8"
+xml_hash: "4b5db9c2ffb0e8299f00bfb169c49e81198a52d2950368a37ca3919e81d8ee0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -6569,7 +6569,7 @@ Medlemsstater eller soner i disse med sykdomsfri status med hensyn til infeksjon
 | ►**M12**–◄**M12** | ►**M12**–◄**M12** |
 | Estland | Hele territoriet |
 | Irland | Hele territoriet |
-| ►**M14**►**M13**►**M12**►**M11**►**M10**►**M9**►**M8**►**M6**►**M5**Spania | Comunidad Autónoma de Canarias ◄**M5**◄**M6**◄**M8**◄**M9**◄**M10**◄**M11**◄**M12**◄**M13**◄**M14** |
+| ►**M14** ►**M13** ►**M12** ►**M11** ►**M10** ►**M9** ►**M8** ►**M6** ►**M5** Spania | Comunidad Autónoma de Canarias ◄**M5** ◄**M6** ◄**M8** ◄**M9** ◄**M10** ◄**M11** ◄**M12** ◄**M13** ◄**M14** |
 | ►**M15** – ◄**M15** |  |
 | Latvia | Hele territoriet |
 | ►**M15** – ◄**M15** |  |
