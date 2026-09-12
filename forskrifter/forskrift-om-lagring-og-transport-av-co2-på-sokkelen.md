@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-12-05"
 last_change_in_force: "2026-01-17"
 last_updated: "2015-01-20"
-xml_hash: "ebfb681c54c1d0aa5412f2d238763d292717ff66579b62e6888dfe7f7d1f39d4"
+xml_hash: "b783c1d81d3c364bea9873a7d6a807190310eee47fa82b19fe9a0fc81541bf57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,7 +59,7 @@ I denne forskrift forstås med:
 3. *Departementet*, Det kongelige energidepartement,
 4. *Etterdrift*, perioden etter nedstengning av en lagringslokalitet, herunder perioden etter overføring av ansvaret for denne til Energidepartementet,
 5. *Geologisk formasjon*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller litostratigrafiske underinndelinger,
-6. *Geologisk lagring av CO2*, injeksjon etterfulgt av lagring av CO2 i undersjøiske geologiske reservoarer,
+6. *Geologisk lagring av CO2* , injeksjon etterfulgt av lagring av CO2 i undersjøiske geologiske reservoarer,
 7. *Hydraulisk enhet*, et hydraulisk forbundet porevolum hvor trykkommunikasjon kan måles teknisk, og som er omgitt av strømningsbarrierer (forkastninger eller litologiske grenser). En hydraulisk enhet kan være ett undersjøisk reservoar eller bestå av flere undersjøiske reservoarer og den omgivende bergarten.
 8. *Injeksjon*, injeksjon av CO2 i undersjøiske reservoarer, herunder boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon,
 9. *Innretning*, installasjon, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2 , likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt,
