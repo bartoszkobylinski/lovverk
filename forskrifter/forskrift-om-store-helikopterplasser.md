@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "44a8796948282df3b4acf7f818e8de7aab20cb04241e8498602482f1754404a9"
+xml_hash: "a127cf63b6ee8928a62e446945579e0c7ff96f11ff2a5eaa1e264812e8dd4eb6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -742,7 +742,7 @@ Se [§ 63](forskrift/2005-04-29-418/§63) og [§ 52](forskrift/2005-04-29-418/§
 
 ### Til § 30 sjette ledd:
 
-Som anerkjent standard regnes NS-5814. Se også Luftfartstilsynets veileder i risikoanalyse på Luftfartstilsynets internettside – *http://www.luftfartstilsynet.no*.
+Som anerkjent standard regnes NS-5814. Se også Luftfartstilsynets veileder i risikoanalyse på Luftfartstilsynets internettside – *http://www.luftfartstilsynet.no* .
 
 ### Til § 35 fjerde ledd:
 
