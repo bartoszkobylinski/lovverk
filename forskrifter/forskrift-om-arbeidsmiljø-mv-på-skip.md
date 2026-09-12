@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-01-01"
 last_change_in_force: "2025-06-26"
 last_updated: "2023-08-11"
-xml_hash: "a3c381c28794881a3bbbee50d4c2f5e473bd5acf2e1132b8d3e5e34ed989f159"
+xml_hash: "bd0ca7f599f25e4fbf910ceb3476851ade20f4412105ef2f66e93ff74c3ecc35"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3883,7 +3883,7 @@ $$H = \\int\\limits_0^t E(t) \\cdot dt [Jm^{-2}]$$
 | H | *strålingseksponering* tidsintegralet av irradiansen, uttrykt i joule per kvadratmeter (Jm-2 ), |
 | t | *tid, eksponeringstid*, uttrykt i sekunder [s], |
 | λ | *bølgelengde*, uttrykt i nanometer [nm], |
-| γ | *begrensende konusvinkel for målefeltet*, uttrykt i milliradianer [mrad], |
+| γ | *begrensende konusvinkel for målefeltet* , uttrykt i milliradianer [mrad], |
 | γm | *målefelt*, uttrykt i milliradianer [mrad], |
 | α | *en kildes vinkelmessige utstrekning:* uttrykt i milliradianer [mrad]. |
 |  | *begrensende blender* den sirkelformede flate der gjennomsnittlig irradians og strålingseksponering beregnes, |
