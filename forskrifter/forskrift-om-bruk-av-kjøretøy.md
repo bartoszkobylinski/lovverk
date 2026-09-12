@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "1990-04-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-09-10"
 last_updated: "2023-08-11"
-xml_hash: "6239c84ea2f6834ab4bb26e7e1e01f6c06f6b01a082f65323a2cc64b0e921107"
+xml_hash: "86c26eacc912cd7604d39488c349eac3beea39e9e8a0dada42b222c14cb077d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -751,14 +751,14 @@ Statens vegvesen kan i løpet av rettighetsperioden etter søknad tildele nytt p
 3. Gods skal være sikret slik at det ikke utgjør en trussel for helse, eiendom eller miljøet. Sikringen skal hindre at godset verken kan
 
    1. virke forstyrrende på sikker kjøring
-   2. falle av kjøretøyet eller slepe på vegen,
+   2. falle eller renne av kjøretøyet eller slepe på vegen,
    3. virke forstyrrende for andre trafikanter, eller
    4. ryke, støve, fremkalle unødig støy eller på annen måte være til sjenanse for omgivelsene.
 
    Det samme gjelder kjetting, tau, presenning og annet festemiddel.
 4. Bestemmelsene i denne paragraf gjelder ikke utenfor veg som er åpen for alminnelig ferdsel dersom kjøringen likevel er forsvarlig.
 
-> Endret ved forskrifter [16 jan 1998 nr. 88](forskrift/1998-01-16-88) (i kraft 1 mars 1998), [14 des 2017 nr. 2193](forskrift/2017-12-14-2193) (i kraft 1 jan 2018).
+> Endret ved forskrifter [16 jan 1998 nr. 88](forskrift/1998-01-16-88) (i kraft 1 mars 1998), [14 des 2017 nr. 2193](forskrift/2017-12-14-2193) (i kraft 1 jan 2018), [10 sep 2026 nr. 1767](forskrift/2026-09-10-1767).
 
 ### § 3-2a. Transportforetakets veilednings- og dokumentasjonsplikt ved sikring og plassering av gods
 
