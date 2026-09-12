@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-09-17"
 last_change_in_force: null
 last_updated: null
-xml_hash: "38e88cc6b2a6d5ba768d5f61e2b2fe337d18e7ce1bc2e8a4a1b56280aa20d360"
+xml_hash: "30c0e0495eb6288f6db81a52c90a79904d11f8f3e072981e6f353302ff2809e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,7 +61,7 @@ Utgangspunktet for koordineringen av tilsynet sentralt og lokalt kan være de fo
 - felles opplæring av tilsynspersonell.
 - videreutvikling og drift av felles tilsynsdatabase, samt følge opp at denne brukes i forbindelse med planlegging av tilsyn.
 - større og landsdekkende kampanjer og aksjoner, samt sørge for at det utvikles en flerårig plan som viser hvilke kampanjer som skal gjennomføres i etatene. Koordineringsansvaret innebærer også å sørge for at kampanjer rettet mot samme målgruppe eller tilgrensende spørsmål blir koordinert.
-- videreutvikling og drift av felles nettsted – *http://www.hmsetatene.no*.
+- videreutvikling og drift av felles nettsted – *http://www.hmsetatene.no* .
 - videreutvikling og ledelse av felles regelverksgruppe.
 
 Arbeidstilsynet er ansvarlig for at det utarbeides og videreutvikles styrende dokumenter som beskriver hvordan koordineringsansvaret nevnt i strekpunktene ovenfor skal ivaretas i praksis.
