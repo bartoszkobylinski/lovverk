@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-til-lov-om-kollektiv-forvaltning-av-opphavsrett-mv — Change history
 
-_3 events; doc_id `sf-20210809-2484`._
+_4 events; doc_id `sf-20210809-2484`._
+
+## 2026-09-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-til-lov-om-kollektiv-forvaltning-av-opphavsrett-mv`
+Commit: `571fa96`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

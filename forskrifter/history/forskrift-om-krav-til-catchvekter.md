@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-krav-til-catchvekter — Change history
 
-_3 events; doc_id `sf-20071221-1742`._
+_4 events; doc_id `sf-20071221-1742`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-krav-til-catchvekter`
+Commit: `83d038d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

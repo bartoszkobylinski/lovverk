@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # gjødselvareforskriften — Change history
 
-_3 events; doc_id `sf-20250129-0116`._
+_4 events; doc_id `sf-20250129-0116`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): gjødselvareforskriften`
+Commit: `8a9fd0c`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

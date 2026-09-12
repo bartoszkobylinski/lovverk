@@ -7,7 +7,17 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fiske-etter-reker-svalbard — Change history
 
-_2 events; doc_id `sf-20000920-1697`._
+_4 events; doc_id `sf-20000920-1697`._
+
+## 2026-09-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-fiske-etter-reker-svalbard`
+Commit: `fda2843`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20000920-1697.md` → `forskrifter/forskrift-om-fiske-etter-reker-svalbard.md`.

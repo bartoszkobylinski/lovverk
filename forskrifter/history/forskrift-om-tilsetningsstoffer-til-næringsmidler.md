@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilsetningsstoffer-til-næringsmidler — Change history
 
-_4 events; doc_id `sf-20110606-0668`._
+_5 events; doc_id `sf-20110606-0668`._
+
+## 2026-09-12 — Content updated
+Lines: +68 -68.
+Subject: `update(forskrift): forskrift-om-tilsetningsstoffer-til-næringsmidler`
+Commit: `7fd7343`.
 
 ## 2026-05-09 — Content updated
 Lines: +17 -12.

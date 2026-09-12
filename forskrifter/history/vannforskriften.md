@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vannforskriften — Change history
 
-_6 events; doc_id `sf-20061215-1446`._
+_7 events; doc_id `sf-20061215-1446`._
+
+## 2026-09-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): vannforskriften`
+Commit: `d8e79d9`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

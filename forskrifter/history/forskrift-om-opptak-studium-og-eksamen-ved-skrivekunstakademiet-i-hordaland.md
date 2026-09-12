@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland — Change history
 
-_4 events; doc_id `sf-20170314-0324`._
+_5 events; doc_id `sf-20170314-0324`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland`
+Commit: `d06906b`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

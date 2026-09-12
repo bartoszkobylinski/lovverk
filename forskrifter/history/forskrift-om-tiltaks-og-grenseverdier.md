@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tiltaks-og-grenseverdier — Change history
 
-_4 events; doc_id `sf-20111206-1358`._
+_5 events; doc_id `sf-20111206-1358`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tiltaks-og-grenseverdier`
+Commit: `697ebcc`.
 
 ## 2026-06-10 — Content updated
 Lines: +5 -5.

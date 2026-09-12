@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utfyllende-regler-til-det-forenklede-solvenskapitalkravet-for-pensjonskasser — Change history
 
-_3 events; doc_id `sf-20181109-1689`._
+_4 events; doc_id `sf-20181109-1689`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utfyllende-regler-til-det-forenklede-solvenskapitalkravet-for-pensjonskasser`
+Commit: `3dff546`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

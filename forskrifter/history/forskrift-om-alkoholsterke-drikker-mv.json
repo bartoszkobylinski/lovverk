@@ -2,6 +2,16 @@
   "doc_id": "sf-20061011-1148",
   "events": [
     {
+      "commit": "e2f3343",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-alkoholsterke-drikker-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "356bcee",
       "date": "2026-09-09",
       "from_path": null,

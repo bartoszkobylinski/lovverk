@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-rapportering-utlendingers-fiske-i-nøs-mv — Change history
 
-_3 events; doc_id `sf-20100831-1231`._
+_4 events; doc_id `sf-20100831-1231`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-rapportering-utlendingers-fiske-i-nøs-mv`
+Commit: `af300b2`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

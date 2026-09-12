@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # instruks-om-isolasjon-og-undersøkelse-av-dyr — Change history
 
-_1 events; doc_id `sf-20060214-0199`._
+_2 events; doc_id `sf-20060214-0199`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): instruks-om-isolasjon-og-undersøkelse-av-dyr`
+Commit: `dc3d5f3`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +111 -0.

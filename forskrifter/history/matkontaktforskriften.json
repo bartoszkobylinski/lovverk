@@ -2,6 +2,16 @@
   "doc_id": "sf-19931221-1381",
   "events": [
     {
+      "commit": "9421b4a",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): matkontaktforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0593f2d",
       "date": "2026-09-09",
       "from_path": null,

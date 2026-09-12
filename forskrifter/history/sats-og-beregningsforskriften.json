@@ -2,6 +2,16 @@
   "doc_id": "sf-20180801-1215",
   "events": [
     {
+      "commit": "f6568f1",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): sats-og-beregningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b82668d",
       "date": "2026-09-10",
       "from_path": null,

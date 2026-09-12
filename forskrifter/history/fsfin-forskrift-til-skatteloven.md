@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # fsfin-forskrift-til-skatteloven — Change history
 
-_4 events; doc_id `sf-19991119-1158`._
+_5 events; doc_id `sf-19991119-1158`._
+
+## 2026-09-12 — Content updated
+Lines: +11 -11.
+Subject: `update(forskrift): fsfin-forskrift-til-skatteloven`
+Commit: `7600f82`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

@@ -2,6 +2,16 @@
   "doc_id": "sf-19991119-1158",
   "events": [
     {
+      "commit": "7600f82",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 11,
+      "subject": "update(forskrift): fsfin-forskrift-til-skatteloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "55699ee",
       "date": "2026-09-09",
       "from_path": null,

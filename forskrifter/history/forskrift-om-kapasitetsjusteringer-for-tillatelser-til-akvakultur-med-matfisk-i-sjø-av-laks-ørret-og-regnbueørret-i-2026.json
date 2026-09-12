@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260820-1764",
+  "events": [
+    {
+      "commit": "824c887",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 59,
+      "lines_removed": 59,
+      "subject": "add(forskrift): forskrift-om-kapasitetsjusteringer-for-tillatelser-til-akvakultur-med-matfisk-i-sjø-av-laks-ørret-og-regnbueørret-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-kapasitetsjusteringer-for-tillatelser-til-akvakultur-med-matfisk-i-sjø-av-laks-ørret-og-regnbueørret-i-2026"
+}

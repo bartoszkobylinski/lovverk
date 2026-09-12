@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-bruk-av-kjøretøy — Change history
 
-_8 events; doc_id `sf-19900125-0092`._
+_9 events; doc_id `sf-19900125-0092`._
+
+## 2026-09-12 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-bruk-av-kjøretøy`
+Commit: `f0ba6a3`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

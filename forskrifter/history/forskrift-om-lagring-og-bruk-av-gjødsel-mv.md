@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-lagring-og-bruk-av-gjødsel-mv — Change history
 
-_4 events; doc_id `sf-20250129-0115`._
+_5 events; doc_id `sf-20250129-0115`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-lagring-og-bruk-av-gjødsel-mv`
+Commit: `f7847f8`.
 
 ## 2026-05-21 — Content updated
 Lines: +23 -11.

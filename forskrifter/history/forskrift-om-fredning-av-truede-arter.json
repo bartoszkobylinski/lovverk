@@ -2,6 +2,16 @@
   "doc_id": "sf-20011221-1525",
   "events": [
     {
+      "commit": "48316ca",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-fredning-av-truede-arter",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a6bfc5d",
       "date": "2026-09-09",
       "from_path": null,

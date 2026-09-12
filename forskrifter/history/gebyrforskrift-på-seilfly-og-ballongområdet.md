@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # gebyrforskrift-på-seilfly-og-ballongområdet — Change history
 
-_3 events; doc_id `sf-20250513-0822`._
+_4 events; doc_id `sf-20250513-0822`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): gebyrforskrift-på-seilfly-og-ballongområdet`
+Commit: `93fbb41`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

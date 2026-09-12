@@ -2,6 +2,16 @@
   "doc_id": "sf-20011221-1603",
   "events": [
     {
+      "commit": "bb3585d",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-genmodifiserte-planter-gmo",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0c12ad8",
       "date": "2026-09-09",
       "from_path": null,

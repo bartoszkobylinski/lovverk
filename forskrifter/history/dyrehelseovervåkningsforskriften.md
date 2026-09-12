@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dyrehelseovervåkningsforskriften — Change history
 
-_5 events; doc_id `sf-20220406-0632`._
+_6 events; doc_id `sf-20220406-0632`._
+
+## 2026-09-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): dyrehelseovervåkningsforskriften`
+Commit: `429bc72`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

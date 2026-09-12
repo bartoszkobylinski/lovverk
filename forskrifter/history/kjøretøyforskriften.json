@@ -2,6 +2,16 @@
   "doc_id": "sf-19941004-0918",
   "events": [
     {
+      "commit": "f5e9eac",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): kjøretøyforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e5cc53f",
       "date": "2026-09-09",
       "from_path": null,

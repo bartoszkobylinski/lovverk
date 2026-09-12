@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kontrollinstruks-for-animalske-produkter — Change history
 
-_1 events; doc_id `sf-19991027-1166`._
+_2 events; doc_id `sf-19991027-1166`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): kontrollinstruks-for-animalske-produkter`
+Commit: `2754142`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +271 -0.

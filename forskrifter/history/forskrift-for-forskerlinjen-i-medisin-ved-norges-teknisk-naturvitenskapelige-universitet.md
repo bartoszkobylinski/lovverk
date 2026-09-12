@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-for-forskerlinjen-i-medisin-ved-norges-teknisk-naturvitenskapelige-universitet — Change history
 
-_3 events; doc_id `sf-20231129-1935`._
+_4 events; doc_id `sf-20231129-1935`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-for-forskerlinjen-i-medisin-ved-norges-teknisk-naturvitenskapelige-universitet`
+Commit: `e5cc7e4`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

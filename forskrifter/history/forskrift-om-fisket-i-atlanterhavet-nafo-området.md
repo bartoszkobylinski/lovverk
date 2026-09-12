@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fisket-i-atlanterhavet-nafo-området — Change history
 
-_3 events; doc_id `sf-20091211-1507`._
+_4 events; doc_id `sf-20091211-1507`._
+
+## 2026-09-12 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-fisket-i-atlanterhavet-nafo-området`
+Commit: `b723b74`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
