@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-22"
 last_change_in_force: "2026-09-03"
 last_updated: null
-xml_hash: "2234917caf3a633e227c4fcc43db0c2d4add77453c4b507789e856c8ca299df1"
+xml_hash: "daed37c2a9b53af959f9490f0ee0779af5dcc2789953fe401b0bcddef0ef9dd0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,7 +35,7 @@ Det er forbudt for norske fartøy å fiske og lande brisling i følgende område
 
 Uten hinder av forbudet i [§ 1](forskrift/2026-06-22-1211/§1) kan norske fartøy med ringnottillatelse, pelagisk tråltillatelse eller nordsjøtråltillatelse fiske og lande inntil 6 508 tonn havbrisling i EU-sonen.
 
-Uten hinder av forbudet i [§ 1](forskrift/2026-06-22-1211/§1), kan eier og fartøy med adgang til å delta i kystfartøygruppen, fiske og lande kystbrisling i Skagerrak**.**Fangsten avregnes kvantumet på 1 137 tonn i avtalen mellom EU og Norge
+Uten hinder av forbudet i [§ 1](forskrift/2026-06-22-1211/§1), kan eier og fartøy med adgang til å delta i kystfartøygruppen, fiske og lande kystbrisling i Skagerrak**.** Fangsten avregnes kvantumet på 1 137 tonn i avtalen mellom EU og Norge
 
 ## Kapittel 2. Fartøy med ringnottillatelse, pelagisk tråltillatelse eller nordsjøtråltillatelse
 
