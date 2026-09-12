@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-01-01"
 last_change_in_force: "2026-06-08"
 last_updated: "2025-02-14"
-xml_hash: "37594d816c0db41690e31622ac054f8e05eb4ef769ef122bd522b568f29cbb5d"
+xml_hash: "5ac696b31f48537f7ecd9d268b70c7e537fa921dd86d933033b7768bdad13812"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-12T08:35:37.528708+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -6359,7 +6359,7 @@ Påløpsbremseanlegg skal være godkjent av Vegdirektoratet. Godkjente påløpsb
 
 Når ikke annet er sagt, skal dokumentasjoner/bevitnelser/garantier og øvrige underlag ha tekst på norsk, svensk, dansk, engelsk eller tysk.
 
-1 Gjengis ikke her, men forskriften i sin helhet med merknader kan anskaffes fra forlaget Last og buss A/S, Waldemar Thranes gate 98 B, 0175 Oslo, tlf. 23234750, *[http://www.lastogbuss.no](https://www.lastogbuss.no)*.
+1 Gjengis ikke her, men forskriften i sin helhet med merknader kan anskaffes fra forlaget Last og buss A/S, Waldemar Thranes gate 98 B, 0175 Oslo, tlf. 23234750, *[http://www.lastogbuss.no](https://www.lastogbuss.no)* .
 
 > Endret ved [forskrift 30 mars 2007 nr. 390](forskrift/2007-03-30-390).
 
