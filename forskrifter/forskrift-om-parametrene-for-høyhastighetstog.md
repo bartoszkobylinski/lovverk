@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-03-13"
 last_change_in_force: null
 last_updated: "2022-03-30"
-xml_hash: "26d14bb76a35d0ccb5d312e0ab9c5cc6f33d0f27197bfb6db5051f7ac4726829"
+xml_hash: "6c8a6f6d98fe287d2310b4ac6d104367deee58b57f751dbd9a03ad7f9672c6d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-12T08:35:37.528708+00:00"
+retrieved_at: "2026-09-14T09:46:33.107190+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,7 @@ Delsystemet «styring, kontroll og signal» bygger på spesifikasjonene i oversi
 | RAM requirements (chapter 2 only) | 96S126 | 6 | Informativ |
 | Environmental conditions | 97S066 | 5 | Informativ (\*) |
 
-1 Spesifikasjonene er tilgjengelige på *http://forum.europa.eu.int* , og kan også fås fra Europakommisjonen.
+1 Spesifikasjonene er tilgjengelige på *http://forum.europa.eu.int*, og kan også fås fra Europakommisjonen.
 
 \* Herunder det utfyllende UNISIG-skrivet av 21. april 2000.
 
