@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-08-09"
 last_change_in_force: "2024-10-15"
 last_updated: null
-xml_hash: "77fe33439afc5e314cb44a4d6d2c8ce67632f2d5613739ae9a288f55e6d9eeda"
+xml_hash: "366e090f1fbe96a3b88f614cbb7d67c41fd49b885e46f535c59fd7be2245c874"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-12T08:35:37.528708+00:00"
+retrieved_at: "2026-09-14T09:46:33.107190+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Informasjon som skal inngå i åpenhetsrapporten etter § 2 bokstav b, skal inne
 
 1. alle drifts- og finanskostnader fordelt på kategorier av forvaltede rettigheter og en redegjørelse for metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter
 2. drifts- og finanskostnader fordelt på kategorier av forvaltede rettigheter og en redegjørelse for den metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter, bare med hensyn til forvaltningen av rettigheter, inkludert administrasjonskostnader som blir trukket fra eller motregnet mot inntekter fra rettigheter eller eventuelle inntekter fra investering av inntektene fra rettigheter, i samsvar med loven [§ 18](lov/2021-05-28-49/§18) og [§ 20](lov/2021-05-28-49/§20)
-3. drifts- og finanskostnader i forbindelse med andre tjenester enn forvaltningen av rettigheter, men medregnet sosiale, kulturelle og utdanningsmessige ytelser**,** herunder kollektiv fordeling
+3. drifts- og finanskostnader i forbindelse med andre tjenester enn forvaltningen av rettigheter, men medregnet sosiale, kulturelle og utdanningsmessige ytelser**,**herunder kollektiv fordeling
 4. midler som brukes til å dekke kostnader
 5. fradrag fra inntekter fra rettigheter, fordelt på kategorier av forvaltede rettigheter og type bruk, og formålet med fradraget, for eksempel kostnader knyttet til forvaltningen av rettigheter eller til sosiale, kulturelle eller utdanningsmessige ytelser, herunder kollektiv fordeling
 6. prosentandelene som kostnaden ved forvaltningen av rettighetene og andre tjenester som den kollektive forvaltningsorganisasjonen yter til rettighetshaverne utgjør, sammenlignet med inntektene fra rettigheter i det aktuelle regnskapsåret, for hver kategori av forvaltede rettigheter og en redegjørelse for metoden som blir brukt til å fordele indirekte kostnader når det ikke er mulig å henføre slike kostnader til én eller flere kategorier av rettigheter.
