@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # bilforskriften — Change history
 
-_8 events; doc_id `sf-20220628-1233`._
+_9 events; doc_id `sf-20220628-1233`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): bilforskriften`
+Commit: `1e785cf`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

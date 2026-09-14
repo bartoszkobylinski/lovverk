@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # byggteknisk-forskrift-tek17 — Change history
 
-_7 events; doc_id `sf-20170619-0840`._
+_8 events; doc_id `sf-20170619-0840`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): byggteknisk-forskrift-tek17`
+Commit: `767253f`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

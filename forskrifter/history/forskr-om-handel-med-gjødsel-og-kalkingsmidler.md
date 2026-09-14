@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskr-om-handel-med-gjødsel-og-kalkingsmidler — Change history
 
-_5 events; doc_id `sf-20030704-1063`._
+_6 events; doc_id `sf-20030704-1063`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskr-om-handel-med-gjødsel-og-kalkingsmidler`
+Commit: `e9bd36e`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn — Change history
 
-_4 events; doc_id `sf-20250425-0684`._
+_5 events; doc_id `sf-20250425-0684`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn`
+Commit: `f640d96`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

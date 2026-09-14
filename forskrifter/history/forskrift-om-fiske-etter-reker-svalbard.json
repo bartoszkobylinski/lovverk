@@ -2,6 +2,16 @@
   "doc_id": "sf-20000920-1697",
   "events": [
     {
+      "commit": "3ad540e",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-fiske-etter-reker-svalbard",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fda2843",
       "date": "2026-09-12",
       "from_path": null,

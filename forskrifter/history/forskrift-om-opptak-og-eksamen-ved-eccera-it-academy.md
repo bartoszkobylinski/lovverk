@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-og-eksamen-ved-eccera-it-academy — Change history
 
-_4 events; doc_id `sf-20201015-2116`._
+_5 events; doc_id `sf-20201015-2116`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-og-eksamen-ved-eccera-it-academy`
+Commit: `1e70a45`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

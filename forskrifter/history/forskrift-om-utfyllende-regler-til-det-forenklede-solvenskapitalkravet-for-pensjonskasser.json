@@ -2,6 +2,16 @@
   "doc_id": "sf-20181109-1689",
   "events": [
     {
+      "commit": "f9d42b6",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-utfyllende-regler-til-det-forenklede-solvenskapitalkravet-for-pensjonskasser",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dff546",
       "date": "2026-09-12",
       "from_path": null,

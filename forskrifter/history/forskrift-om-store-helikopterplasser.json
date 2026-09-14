@@ -2,6 +2,16 @@
   "doc_id": "sf-20050429-0418",
   "events": [
     {
+      "commit": "8ce1bdb",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-store-helikopterplasser",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b539158",
       "date": "2026-09-12",
       "from_path": null,

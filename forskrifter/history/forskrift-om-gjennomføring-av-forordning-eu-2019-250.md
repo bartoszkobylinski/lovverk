@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-gjennomføring-av-forordning-eu-2019-250 — Change history
 
-_4 events; doc_id `sf-20210908-2717`._
+_5 events; doc_id `sf-20210908-2717`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-gjennomføring-av-forordning-eu-2019-250`
+Commit: `434e22a`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

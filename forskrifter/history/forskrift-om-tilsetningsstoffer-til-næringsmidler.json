@@ -2,6 +2,16 @@
   "doc_id": "sf-20110606-0668",
   "events": [
     {
+      "commit": "44c4f4c",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 68,
+      "lines_removed": 68,
+      "subject": "update(forskrift): forskrift-om-tilsetningsstoffer-til-næringsmidler",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7fd7343",
       "date": "2026-09-12",
       "from_path": null,

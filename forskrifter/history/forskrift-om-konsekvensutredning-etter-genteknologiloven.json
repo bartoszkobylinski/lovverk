@@ -2,6 +2,16 @@
   "doc_id": "sf-20051216-1495",
   "events": [
     {
+      "commit": "a1b6767",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-konsekvensutredning-etter-genteknologiloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c0c1664",
       "date": "2026-09-12",
       "from_path": null,

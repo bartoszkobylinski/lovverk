@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-produksjon-m-m-av-fritidsfartøy-mv — Change history
 
-_4 events; doc_id `sf-20160115-0035`._
+_5 events; doc_id `sf-20160115-0035`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-produksjon-m-m-av-fritidsfartøy-mv`
+Commit: `052e40f`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

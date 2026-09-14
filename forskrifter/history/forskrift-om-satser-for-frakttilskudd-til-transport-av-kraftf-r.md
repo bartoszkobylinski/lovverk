@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-satser-for-frakttilskudd-til-transport-av-kraftf-r — Change history
 
-_2 events; doc_id `sf-20251212-2584`._
+_3 events; doc_id `sf-20251212-2584`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-satser-for-frakttilskudd-til-transport-av-kraftf-r`
+Commit: `7a3738c`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-brannsikring-på-skip — Change history
 
-_5 events; doc_id `sf-20140701-1099`._
+_6 events; doc_id `sf-20140701-1099`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-brannsikring-på-skip`
+Commit: `95797dc`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

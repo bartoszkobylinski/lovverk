@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # eu-gjødselvareforskriften — Change history
 
-_5 events; doc_id `sf-20240306-0538`._
+_6 events; doc_id `sf-20240306-0538`._
+
+## 2026-09-14 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): eu-gjødselvareforskriften`
+Commit: `21d0ba0`.
 
 ## 2026-09-12 — Content updated
 Lines: +3 -3.

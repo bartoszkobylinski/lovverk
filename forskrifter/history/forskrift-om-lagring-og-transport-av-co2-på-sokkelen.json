@@ -2,6 +2,16 @@
   "doc_id": "sf-20141205-1517",
   "events": [
     {
+      "commit": "fefe99d",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-lagring-og-transport-av-co2-på-sokkelen",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3be307b",
       "date": "2026-09-12",
       "from_path": null,

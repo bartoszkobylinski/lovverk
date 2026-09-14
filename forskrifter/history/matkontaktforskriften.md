@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # matkontaktforskriften — Change history
 
-_6 events; doc_id `sf-19931221-1381`._
+_7 events; doc_id `sf-19931221-1381`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): matkontaktforskriften`
+Commit: `5e69e64`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

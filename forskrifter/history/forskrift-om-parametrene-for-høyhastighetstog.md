@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-parametrene-for-høyhastighetstog — Change history
 
-_5 events; doc_id `sf-20020313-0273`._
+_6 events; doc_id `sf-20020313-0273`._
+
+## 2026-09-14 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-parametrene-for-høyhastighetstog`
+Commit: `a20dd69`.
 
 ## 2026-09-12 — Content updated
 Lines: +3 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-varsel-og-melding-om-sjukdom-hos-dyr-på-svalbard — Change history
 
-_4 events; doc_id `sf-20141219-1841`._
+_5 events; doc_id `sf-20141219-1841`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-varsel-og-melding-om-sjukdom-hos-dyr-på-svalbard`
+Commit: `ba7e89f`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # byggevareforskriften-dok — Change history
 
-_5 events; doc_id `sf-20131217-1579`._
+_6 events; doc_id `sf-20131217-1579`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): byggevareforskriften-dok`
+Commit: `4630713`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

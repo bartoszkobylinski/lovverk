@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-krav-til-målesystem — Change history
 
-_5 events; doc_id `sf-20071221-1738`._
+_6 events; doc_id `sf-20071221-1738`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-krav-til-målesystem`
+Commit: `2ba9c6f`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

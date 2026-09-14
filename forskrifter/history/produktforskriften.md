@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # produktforskriften — Change history
 
-_9 events; doc_id `sf-20040601-0922`._
+_10 events; doc_id `sf-20040601-0922`._
+
+## 2026-09-14 — Content updated
+Lines: +32 -32.
+Subject: `update(forskrift): produktforskriften`
+Commit: `0bd385a`.
 
 ## 2026-09-12 — Content updated
 Lines: +32 -32.

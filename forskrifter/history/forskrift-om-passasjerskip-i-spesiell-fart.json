@@ -2,6 +2,16 @@
   "doc_id": "sf-19770215-0002",
   "events": [
     {
+      "commit": "fa30513",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-passasjerskip-i-spesiell-fart",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d24ec07",
       "date": "2026-09-12",
       "from_path": null,

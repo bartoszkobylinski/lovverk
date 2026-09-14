@@ -2,6 +2,16 @@
   "doc_id": "sf-20091211-1507",
   "events": [
     {
+      "commit": "feef412",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-fisket-i-atlanterhavet-nafo-området",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b723b74",
       "date": "2026-09-12",
       "from_path": null,

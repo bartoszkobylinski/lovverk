@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tildeling-av-utdanningsstøtte-for-undervisningsåret-2019-2020 — Change history
 
-_5 events; doc_id `sf-20190315-0254`._
+_6 events; doc_id `sf-20190315-0254`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tildeling-av-utdanningsstøtte-for-undervisningsåret-2019-2020`
+Commit: `69a7616`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

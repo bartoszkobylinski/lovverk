@@ -2,6 +2,16 @@
   "doc_id": "sf-20200309-0717",
   "events": [
     {
+      "commit": "e36f400",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8e944ae",
       "date": "2026-09-12",
       "from_path": null,

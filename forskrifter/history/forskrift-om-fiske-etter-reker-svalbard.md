@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fiske-etter-reker-svalbard — Change history
 
-_4 events; doc_id `sf-20000920-1697`._
+_5 events; doc_id `sf-20000920-1697`._
+
+## 2026-09-14 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-fiske-etter-reker-svalbard`
+Commit: `3ad540e`.
 
 ## 2026-09-12 — Content updated
 Lines: +3 -3.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20131217-1579",
   "events": [
     {
+      "commit": "4630713",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): byggevareforskriften-dok",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "265742a",
       "date": "2026-09-12",
       "from_path": null,

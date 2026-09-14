@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter — Change history
 
-_7 events; doc_id `sf-20200309-0717`._
+_8 events; doc_id `sf-20200309-0717`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter`
+Commit: `e36f400`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

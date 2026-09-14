@@ -2,6 +2,16 @@
   "doc_id": "sf-20200228-0702",
   "events": [
     {
+      "commit": "6956c38",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): f-ranalyseforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f870185",
       "date": "2026-09-12",
       "from_path": null,

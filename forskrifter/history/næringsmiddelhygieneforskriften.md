@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # næringsmiddelhygieneforskriften — Change history
 
-_6 events; doc_id `sf-20081222-1623`._
+_7 events; doc_id `sf-20081222-1623`._
+
+## 2026-09-14 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): næringsmiddelhygieneforskriften`
+Commit: `29ffeae`.
 
 ## 2026-09-12 — Content updated
 Lines: +2 -2.

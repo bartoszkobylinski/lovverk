@@ -2,6 +2,16 @@
   "doc_id": "sf-20250513-0822",
   "events": [
     {
+      "commit": "a5f8dbc",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): gebyrforskrift-på-seilfly-og-ballongområdet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "93fbb41",
       "date": "2026-09-12",
       "from_path": null,

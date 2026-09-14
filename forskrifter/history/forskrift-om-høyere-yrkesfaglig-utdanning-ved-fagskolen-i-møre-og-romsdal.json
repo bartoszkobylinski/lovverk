@@ -2,6 +2,16 @@
   "doc_id": "sf-20201020-2103",
   "events": [
     {
+      "commit": "255f420",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-i-møre-og-romsdal",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e23d51c",
       "date": "2026-09-12",
       "from_path": null,

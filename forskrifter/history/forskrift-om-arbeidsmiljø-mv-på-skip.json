@@ -2,6 +2,16 @@
   "doc_id": "sf-20050101-0008",
   "events": [
     {
+      "commit": "d872fc0",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-arbeidsmiljø-mv-på-skip",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b911920",
       "date": "2026-09-12",
       "from_path": null,
