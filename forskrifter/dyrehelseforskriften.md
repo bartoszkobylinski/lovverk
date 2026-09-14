@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2022-04-28"
 last_change_in_force: "2025-06-15"
 last_updated: "2022-08-24"
-xml_hash: "ef0bc6c4f550beacb212a5cb3fb3dd704056b1ba10b16f657d38f24b84fbcffd"
+xml_hash: "bfc5d54d8906e56853558520c46da987db5b57520861c41d63d3ff4f616f8a2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-12T08:35:37.528708+00:00"
+retrieved_at: "2026-09-14T09:46:33.107190+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -605,7 +605,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 | *Norsk betegnelse* | *Internasjonal betegnelse* | *Smittestoff* | *Høyest EU-kategori og art t.o.* |
 | --- | --- | --- | --- |
-| **Cysticerkose hos storfe** [^\*] | Bovine cysticercosis | *Taenia saginata* | Ikke-listeført i EU |
+| **Cysticerkose hos storfe**[^\*] | Bovine cysticercosis | *Taenia saginata* | Ikke-listeført i EU |
 | **Infeksjon med Schmallenbergvirus (SBV)** | Schmallenberg | *Bunyaviridae* | Ikke-listeført i EU |
 | **Smittsom diare** (Vinterdysenteri) | Winter dysentery in cattle | Bovine coronavirus (BCV) *(Coronaviridae)* | Ikke-listeført i EU |
 | **Smittsomme luftveisinfeksjoner hos storfe** | Contagious respiratory tract infections in bovine animals | Bovin respiratorisk syncytial virus, (BRSV) og Parainfluensa virus type 3 (PIV-3) | Ikke-listeført i EU |
@@ -664,7 +664,7 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 | **Pasteurellose** hos rein | Pasteurellosis | *Pasturella multocida* og *Manheimia haemolytica* | Ikke-listeført i EU |
 | **Rabies**[^\*] hos flaggermus | Rabies | Rabiesvirus (Lyssavirus, *Rhabdoviridae*) | E (*Chiroptera*) |
 | **Ringorm som ikke er Liste 2-sykdom** | Ringworm | *Microsporum* spp. og *Trichophyton* spp. | Ikke-listeført i EU |
-| **Tuberkulose hos pattedyr, unntatt** ***M. tuberculosis*****,** ***M. bovis*****og** ***M. caprae*** | Tuberculosis | *Mycobacterium avium* subsp. *hominisuis* | Ikke-listeført i EU |
+| **Tuberkulose hos pattedyr, unntatt*****M. tuberculosis*****,*****M. bovis*****og*****M. caprae*** | Tuberculosis | *Mycobacterium avium* subsp. *hominisuis* | Ikke-listeført i EU |
 | **Tularemi (harepest)**[^\*] | Tularemia | *Francisella tularensis* | Ikke-listeført i EU |
 | **Valpesyke** | Distemper | Valpesykevirus (Morbillivirus, *Paramyxoviridae*) | Ikke-listeført i EU |
 
