@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "76ed23e0bcbfdfe35cc289aa7cd7d84c0525974d6ea665077adcb70796de17c1"
+xml_hash: "6afa28819850689d6cbc0925632e34421de7a8a77e0a27e26d3de1340988c19b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -134,4 +134,5 @@ I følgende bestemmelser skal uttrykket «rettshjelploven» endres til «rettshj
 1. Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid.
 2. Departementet kan gi nærmere overgangsregler.
 
-1 Fra 1 juli 2025 for loven del I § 11 første ledd nr. 5 til 10, loven del III og loven del IV, iflg. [res. 20. juni 2025 nr. 1095](forskrift/2025-06-20-1095).
+1 Fra 1. juli 2025 for loven del I § 11 første ledd nr. 5 til 10, loven del III og loven del IV, iflg. [res. 20. juni 2025 nr. 1095](forskrift/2025-06-20-1095).
+Fra 1. oktober 2026 for loven del I, med unntak av endringene i § 11 andre ledd nr. 6 og 7, loven del II og loven del V, iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775).
