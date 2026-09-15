@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: "2024-06-21"
 last_updated: null
-xml_hash: "82fb01e512dfb370a2a15be4fc7a6be0eb1f3ae164929dd10d85d4ca40334a91"
+xml_hash: "20b9b77b63bbaae984bbefe007d181f355028ab7794ccac07100c9621008556a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis:
   - "32005L0036"
@@ -707,7 +707,7 @@ Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de en
 
 (14) Departementet kan gi nærmere overgangsregler.
 
-> Tilføyd ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 74. Endringer i andre lover
 
