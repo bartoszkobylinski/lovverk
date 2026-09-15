@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-15"
 last_updated: "2026-08-13"
-xml_hash: "0af05fef9ccfc89406e59594e36be79442c62dbecbcec4a1a1652e06a74b80d6"
+xml_hash: "abe17a4f48abb79cde9da132426a613aee5e2c5b16a0b52c5d2baea3795be3b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -1547,7 +1547,7 @@ Kongen kan gi nærmere regler i forskrift om blant annet
 4. kriteriene for hvem som skal oppnevnes som prosessfullmektig, herunder om utlendingens rett til selv å velge prosessfullmektig, og
 5. adgangen til å bringe politiets beslutning om oppnevning av prosessfullmektig inn for tingretten.
 
-> Endret ved lover [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [18 des 2009 nr. 132](lov/2009-12-18-132) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 3](forskrift/2010-01-08-3)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [17 des 2010 nr. 87](lov/2010-12-17-87) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1608](forskrift/2010-12-17-1608)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [12 des 2014 nr. 70](lov/2014-12-12-70) (ikr. 1 jan 2015 iflg. [res. 12 des 2014 nr. 1673](forskrift/2014-12-12-1673)), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [29 mai 2020 nr. 57](lov/2020-05-29-57) (ikr. 1 juni 2020 iflg. [res. 29 mai 2020 nr. 1099](forskrift/2020-05-29-1099)), [11 juni 2021 nr. 73](lov/2021-06-11-73) (i kraft 1 juni 2022 iflg. [res. 18 feb 2022 nr. 268](forskrift/2022-02-18-268)), [29 nov 2024 nr. 72](lov/2024-11-29-72) (i kraft 29 nov 2024 iflg. [res. 29 nov 2024 nr. 2892](forskrift/2024-11-29-2892)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [18 des 2009 nr. 132](lov/2009-12-18-132) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 3](forskrift/2010-01-08-3)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [17 des 2010 nr. 87](lov/2010-12-17-87) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1608](forskrift/2010-12-17-1608)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [12 des 2014 nr. 70](lov/2014-12-12-70) (ikr. 1 jan 2015 iflg. [res. 12 des 2014 nr. 1673](forskrift/2014-12-12-1673)), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [29 mai 2020 nr. 57](lov/2020-05-29-57) (ikr. 1 juni 2020 iflg. [res. 29 mai 2020 nr. 1099](forskrift/2020-05-29-1099)), [11 juni 2021 nr. 73](lov/2021-06-11-73) (i kraft 1 juni 2022 iflg. [res. 18 feb 2022 nr. 268](forskrift/2022-02-18-268)), [29 nov 2024 nr. 72](lov/2024-11-29-72) (i kraft 29 nov 2024 iflg. [res. 29 nov 2024 nr. 2892](forskrift/2024-11-29-2892)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### II. Særskilte regler for søknader om beskyttelse (asylsaker)
 
@@ -2133,7 +2133,7 @@ Med bot eller med fengsel inntil seks måneder eller med begge deler straffes de
 Med bot eller med fengsel inntil to år straffes den som:
 
 1. forsettlig eller grovt uaktsomt gjør bruk av en utlendings arbeidskraft når utlendingen ikke har nødvendig tillatelse etter loven,
-2. forsettlig eller grovt uaktsomt formidler arbeid eller bolig for en utlending, eller utferdiger eller formidler erklæringer, tilsagn eller dokumenter til bruk for en sak etter loven, når forholdet innebærer en utilbørlig utnyttelse av utlendingens situasjon,
+2. – – –
 3. ved falske forespeilinger eller liknende utilbørlig atferd forleder en utlending til å reise inn i riket med sikte på å bosette seg her,
 4. overlater til en annen pass, reisebevis for flyktninger, annet reisedokument eller liknende dokument som kan bli brukt som reisedokument, standardisert oppholdskort eller liknende kort, når vedkommende vet eller bør forstå at det kan bli brukt av en utlending til å reise inn i riket eller til en annen stat,
 5. forsettlig eller uaktsomt reiser inn i Norge i strid med et innreiseforbud etter [§ 71 annet ledd](lov/2008-05-15-35/§71/ledd/2) eller [§ 124 første ledd](lov/2008-05-15-35/§124/ledd/1). Overtredelsen straffes likevel bare med bot, med mindre vedkommende er utvist på grunn av ilagt straff etter andre bestemmelser enn annet ledd, utreise fra Schengen- og EU-området har funnet sted eller returprosedyrer er anvendt uten at utreise fra Schengen- og EU-området har funnet sted,
@@ -2156,11 +2156,25 @@ Den som yter humanitær bistand til utlending som oppholder seg ulovlig i riket,
 
 Når allmenne hensyn krever det, skal Utlendingsdirektoratet anmelde forholdet når det er grunn til å tro at det har skjedd en overtredelse av annet ledd bokstav a eller tredje ledd bokstav a ved at det er gjort bruk av arbeidskraften til en utlending som ikke har nødvendig tillatelse etter loven.
 
-> Endret ved lover [18 des 2009 nr. 132](lov/2009-12-18-132) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 3](forskrift/2010-01-08-3)), [20 jan 2012 nr. 5](lov/2012-01-20-5) (ikr. 1 feb 2012 iflg. [res. 20 jan 2012 nr. 37](forskrift/2012-01-20-37)), [20 apr 2012 nr. 17](lov/2012-04-20-17) (ikr. 20 mai 2012 iflg. [res. 4 mai 2012 nr. 401](forskrift/2012-05-04-401)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [10 jan 2014 nr. 1](lov/2014-01-10-1) (ikr. 15 jan 2014 iflg. [res. 10 jan 2014 nr. 14](forskrift/2014-01-10-14)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 21 okt 2016 iflg. [res. 14 okt 2016 nr. 1204](forskrift/2016-10-14-1204)), [20 apr 2018 nr. 10](lov/2018-04-20-10) (ikr. 20 apr 2018 iflg. [res. 20 apr 2018 nr. 589](forskrift/2018-04-20-589)), [23 april 2021 nr. 23](lov/2021-04-23-23) (ikr. 30 april 2021 iflg. [res. 23 april 2021 nr. 1231](forskrift/2021-04-23-1231)), [20 april 2018 nr. 8](lov/2018-04-20-8) som endret ved lov [29 april 2022 nr. 26](lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)). **Endres** ved lov [12 juni 2026 nr. 32](lov/2026-06-12-32) (i kraft 15 sep 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054)).
+> Endret ved lover [18 des 2009 nr. 132](lov/2009-12-18-132) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 3](forskrift/2010-01-08-3)), [20 jan 2012 nr. 5](lov/2012-01-20-5) (ikr. 1 feb 2012 iflg. [res. 20 jan 2012 nr. 37](forskrift/2012-01-20-37)), [20 apr 2012 nr. 17](lov/2012-04-20-17) (ikr. 20 mai 2012 iflg. [res. 4 mai 2012 nr. 401](forskrift/2012-05-04-401)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [10 jan 2014 nr. 1](lov/2014-01-10-1) (ikr. 15 jan 2014 iflg. [res. 10 jan 2014 nr. 14](forskrift/2014-01-10-14)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 21 okt 2016 iflg. [res. 14 okt 2016 nr. 1204](forskrift/2016-10-14-1204)), [20 apr 2018 nr. 10](lov/2018-04-20-10) (ikr. 20 apr 2018 iflg. [res. 20 apr 2018 nr. 589](forskrift/2018-04-20-589)), [23 april 2021 nr. 23](lov/2021-04-23-23) (ikr. 30 april 2021 iflg. [res. 23 april 2021 nr. 1231](forskrift/2021-04-23-1231)), [20 april 2018 nr. 8](lov/2018-04-20-8) som endret ved lov [29 april 2022 nr. 26](lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)), [12 juni 2026 nr. 32](lov/2026-06-12-32) (i kraft 15 sep 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054)).
 
 ### § 108 a. Straff for utilbørlig utnyttelse av utlendinger
 
-> **Tilføyes** ved lov [12 juni 2026 nr. 32](lov/2026-06-12-32) (i kraft 15 sep 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054)).
+Med bot eller fengsel inntil 3 år straffes den som forsettlig eller grovt uaktsomt bruker arbeidskraften til, stiller et bosted til rådighet for, eller formidler et arbeid eller et bosted til en utlending, når forholdet innebærer utilbørlig utnyttelse av utlendingens sårbare situasjon, og utlendingen
+
+1. har midlertidig oppholdstillatelse og er avhengig av arbeidet eller bostedet for oppholdstillatelsen,
+2. er asylsøker,
+3. ikke har oppholdstillatelse eller nødvendig tillatelse til arbeid etter loven, eller
+4. omfattes av lovens [kapittel 13](lov/2008-05-15-35/kap13) og ikke har varig oppholdsrett etter [§§ 115](lov/2008-05-15-35/§115) eller [116](lov/2008-05-15-35/§116).
+
+På samme måte straffes den som forsettlig eller grovt uaktsomt
+
+1. bruker en utlending til tigging eller tiggelignende virksomhet eller formidler slik virksomhet til en utlending som ikke har oppholdstillatelse, eller som omfattes av lovens [kapittel 13](lov/2008-05-15-35/kap13) og ikke har varig oppholdsrett etter [§§ 115](lov/2008-05-15-35/§115) eller [116](lov/2008-05-15-35/§116), når forholdet innebærer utilbørlig utnyttelse av utlendingens sårbare situasjon, eller
+2. utferdiger eller formidler erklæringer, tilsagn eller dokumenter til bruk for en sak etter loven, når forholdet innebærer utilbørlig utnyttelse av utlendingens sårbare situasjon.
+
+Grov overtredelse av første eller annet ledd straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om utnyttelsen har et systematisk eller organisert preg, om den har gitt stor økonomisk fordel og om den har pågått over lang tid. Det skal også legges vekt på om utnyttelsen fremstår som særlig krenkende for den enkelte og om den som har blitt utnyttet, er under 18 år.
+
+> Tilføyd ved lov [12 juni 2026 nr. 32](lov/2026-06-12-32) (i kraft 15 sep 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054)).
 
 ## Kapittel 13. Særlige regler for utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområdet (EØS-avtalen) og Konvensjon om opprettelse av Det europeiske Frihandelsforbund (EFTA-konvensjonen)
 
