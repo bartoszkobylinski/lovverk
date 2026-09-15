@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-12-21"
 last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "e2782ecd4d6ec88886f520b7b0b8a6897de91686dee2d804810cca0039cef165"
+xml_hash: "7f642fc72e397d278ed72374023d8aee166e668caff86cc6f20e4d435c8cfe5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -131,7 +131,7 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 (2) Sammensetningen av strategisk obligasjonsindeks endres i henhold til endringene i sammensetningen som indeksleverandøren gjennomfører.
 
-> Endret ved [vedtak 12 okt 2016 nr. 1208](forskrift/2016-10-12-1208), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020).
+> Endret ved [vedtak 12 okt 2016 nr. 1208](forskrift/2016-10-12-1208), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020). **Endres** ved vedtak [6 aug 2026 nr. 1768](forskrift/2026-08-06-1768) (i kraft 1 okt 2026).
 
 ### § 3-3. Strategisk aksjeindeks
 
