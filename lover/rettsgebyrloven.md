@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1983-03-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-15"
-xml_hash: "1479b6010d35f12ab755b08050b0b07c4323f713764e75cf909e04587c49a107"
+xml_hash: "3ed350ac9f117398a50067d79ce591c32f88f8b15298f452d08ac5dd5219ddfa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -371,7 +371,7 @@ For følgende særlige anker betales 6 ganger rettsgebyret:
 1. anke etter [rettshjelploven § 27](lov/1980-06-13-35/§27) eller etter bestemmelser som viser til [rettshjelploven § 27](lov/1980-06-13-35/§27).
 2. anke mot avgjørelser under notarialforretninger.
 
-> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 27 b
 
