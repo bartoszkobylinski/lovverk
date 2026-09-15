@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-07-01"
 last_change_in_force: "2024-12-01"
 last_updated: "2022-03-24"
-xml_hash: "bd441b5512de7049e85124b3aff178d5383cf735b7c5a75560f928a348f7d586"
+xml_hash: "bec35d1ffe005edc758262ed76970719a53777591a7a35cebfb555ffe4669409"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -329,7 +329,7 @@ Vedtak truffet etter disse bestemmelsene kan påklages av ungdommen og ungdommen
 
 Ved klagesak har ungdommen rett til fritt rettsråd uten behovsprøving etter [rettshjelploven § 11](lov/1980-06-13-35/§11).
 
-> Tilføyd ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 23. Gjennomføringstid
 
