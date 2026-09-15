@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-03-01"
 last_change_in_force: "2026-09-01"
 last_updated: "2024-09-12"
-xml_hash: "62c64e422c7916e75dc28a456f8e3f6afc18380121fdb0c5afda9fcd83b2b653"
+xml_hash: "e63cc181b271b049328ab13ad28c70cfdca1f050f976d726ed26f5d9778f4c22"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -570,7 +570,7 @@ Endringer i øvrige forskrifter trer i kraft 1. mars 2017.
 | Øre-, nese-, halssykdommer |
 | Øyesykdommer |
 
-> Tilføyd ved [forskrift 16 jan 2017 nr. 46](forskrift/2017-01-16-46) (i kraft 17 mars 2017), endret ved [forskrift 20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019).
+> Tilføyd ved [forskrift 16 jan 2017 nr. 46](forskrift/2017-01-16-46) (i kraft 17 mars 2017), endret ved forskrift [20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019). **Endres** ved forskrift [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026).
 
 ## Vedlegg 2. Læringsmål for spesialistutdanningen av leger
 
@@ -1371,7 +1371,7 @@ Selvstendig kunne utstede sykmeldinger, resepter og attester for pasienter i kom
 
 ### C. Læringsmål for de enkelte legespesialitetene i utdanningens andre og tredje del
 
-> Vedlegg 2 del B tilføyd ved [forskrift 1 mars 2018 nr. 325](forskrift/2018-03-01-325) (i kraft 1 mars 2019), endret ved [forskrifter 20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [28 aug 2019 nr. 1123](forskrift/2019-08-28-1123) som endret ved [forskrift 24 feb 2020 nr. 210](forskrift/2020-02-24-210) (i kraft 1 mars 2020), endret i sin helhet ved [forskrift 1 sep 2020 nr. 1773](forskrift/2020-09-01-1773), endret ved forskrift [1 sep 2020 nr. 1773](forskrift/2020-09-01-1773) (i kraft 1 mars 2021). Vedlegg 2 endret i sin helhet ved forskrift [28 mars 2021 nr. 1068](forskrift/2021-03-28-1068) (del C var tidligere del B), endret ved forskrifter [28 mars 2021 nr. 1206](forskrift/2021-03-28-1206) (i kraft 1 sep 2021), [17 aug 2021 nr. 2526](forskrift/2021-08-17-2526) (i kraft 1 sep 2021), [19 aug 2021 nr. 2540](forskrift/2021-08-19-2540) (i kraft 1 sep 2021), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748) (i kraft 1 sep 2023), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 mars 2024), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 sep 2024), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 mars 2025), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 sep 2025), [17 jan 2025 nr. 51](forskrift/2025-01-17-51) (i kraft 1 sep 2025), [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 sep 2026). **Endres** ved forskrift [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 mars 2027).
+> Vedlegg 2 del B tilføyd ved [forskrift 1 mars 2018 nr. 325](forskrift/2018-03-01-325) (i kraft 1 mars 2019), endret ved [forskrifter 20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [28 aug 2019 nr. 1123](forskrift/2019-08-28-1123) som endret ved [forskrift 24 feb 2020 nr. 210](forskrift/2020-02-24-210) (i kraft 1 mars 2020), endret i sin helhet ved [forskrift 1 sep 2020 nr. 1773](forskrift/2020-09-01-1773), endret ved forskrift [1 sep 2020 nr. 1773](forskrift/2020-09-01-1773) (i kraft 1 mars 2021). Vedlegg 2 endret i sin helhet ved forskrift [28 mars 2021 nr. 1068](forskrift/2021-03-28-1068) (del C var tidligere del B), endret ved forskrifter [28 mars 2021 nr. 1206](forskrift/2021-03-28-1206) (i kraft 1 sep 2021), [17 aug 2021 nr. 2526](forskrift/2021-08-17-2526) (i kraft 1 sep 2021), [19 aug 2021 nr. 2540](forskrift/2021-08-19-2540) (i kraft 1 sep 2021), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748) (i kraft 1 sep 2023), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 mars 2024), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 sep 2024), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 mars 2025), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 sep 2025), [17 jan 2025 nr. 51](forskrift/2025-01-17-51) (i kraft 1 sep 2025), [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 sep 2026). **Endres** ved forskrift [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026). **Endres** ved forskrift [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 mars 2027).
 
 ### C1. Felles læringsmål for indremedisinske spesialiteter (del 2)
 
