@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-08-26"
-xml_hash: "7d81a5e1adef59a98784997b6153627dad5f988212be0f68519e0651a7a5a63e"
+xml_hash: "3eb60bf96fa2d3c774cdb643e7e765605ae330cadf949853194cad415811e201"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,7 +101,7 @@ Avgjørelser om godtgjøring etter denne lov kan ankes eller påklages på følg
 3. Avgjørelser truffet av en namsfogd kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.
 4. Avgjørelser truffet av andre organer enn nevnt i nr. 1 til 3 kan påklages til departementet etter reglene i forvaltningsloven.
 
-> Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov [29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 juni 1995 nr. 34](lov/1995-06-23-34) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
+> Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov [29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 juni 1995 nr. 34](lov/1995-06-23-34) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ## Slutningsbestemmelse.
 
