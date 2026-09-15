@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-15"
 last_updated: null
-xml_hash: "f0cd897bee4556c4026f32d22d146f29a94af6f1d93fd788fd05187cd506045f"
+xml_hash: "545f0c18870efeb5f1af46059d1848e7547205a268c6e5f15e141f3a034fdfad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,11 +91,11 @@ I denne loven menes med
 
 ### § 2-3. Melde- og opplysningsplikt om ankomst til bestemmelsessted i tollområdet
 
-(1) Føreren av fartøy og luftfartøy skal melde fra til tollmyndighetene om ankomst til bestemmelsessted i tollområdet. I meldingen skal det gis opplysninger om transportmiddelet, besetningen og varer som bringes med som last.
+(1) Føreren av fartøy og luftfartøy skal melde fra til tollmyndighetene om ankomst til bestemmelsessted i tollområdet. I meldingen skal det gis opplysninger om transportmiddelet, besetningen, varer som bringes med som last, og referanse til deklarasjonen for varene.
 
 (2) Departementet kan gi forskrift om hvilke opplysninger som skal gis, når opplysningene skal gis, leveringsmåten og om unntak fra pliktene. Departementet kan gi forskrift om at melde- og opplysningsplikten også skal gjelde for fører av motorvogn og tog.
 
-> Endret ved [lov 20 des 2022 nr. 111](lov/2022-12-20-111). **Endres** ved lov [23 juni 2026 nr. 67](lov/2026-06-23-67) (i kraft 15 sep 2026 iflg. [res. 23 juni 2026 nr. 1237](forskrift/2026-06-23-1237)).
+> Endret ved lover [20 des 2022 nr. 111](lov/2022-12-20-111), [23 juni 2026 nr. 67](lov/2026-06-23-67) (i kraft 15 sep 2026 iflg. [res. 23 juni 2026 nr. 1237](forskrift/2026-06-23-1237)).
 
 ### § 2-4. Fremleggelse av varer for kontroll
 
