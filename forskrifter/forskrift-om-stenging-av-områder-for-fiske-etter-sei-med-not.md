@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: "2026-09-09"
+last_change_in_force: "2026-09-10"
 last_updated: null
-xml_hash: "675c43c5d69ef80fb05f859bde0bcd56f23571a90a92058cf3405bcbc7cd2fba"
+xml_hash: "bb6b98fcdbbcf2fc5f08e9555bbb4f532ff4e923ec5d2db5bbfa1c628f34f769"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-12T08:35:37.528708+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -382,18 +382,64 @@ Det er forbudt å fiske etter sei med not i et område på Finnskallen i Finnmar
 
 > Tilføyd ved forskrift [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513).
 
-## § 31. Straff
+## § 31. Yttergrunnen i i Trøndelag
+
+Det er forbudt å fiske etter sei med not i et område på Yttergrunnen i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 64 grader 26,000 minutter. Øst 009 grader 47,000 minutter.
+2. Nord 64 grader 26,000 minutter. Øst 009 grader 51,000 minutter.
+3. Nord 64 grader 24,500 minutter. Øst 009 grader 51,000 minutter.
+4. Nord 64 grader 24,500 minutter. Øst 009 grader 47,000 minutter.
+
+   Herfra tilbake til posisjon 1.
+
+> Tilføyd ved forskrift [10 sep 2026 nr. 1766](forskrift/2026-09-10-1766).
+
+## § 32. Skatebåen i Møre og Romsdal
+
+Det er det forbudt å fiske på et område på Skatebåen i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 27,200 minutter. Øst 007 grader 3,000 minutter.
+2. Nord 63 grader 27,200 minutter. Øst 007 grader 40,000 minutter.
+3. Nord 63 grader 26,400 minutter. Øst 007 grader 40,000 minutter.
+4. Nord 63 grader 26,400 minutter. Øst 007 grader 38,000 minutter.
+
+> Tilføyd ved forskrift [10 sep 2026 nr. 1766](forskrift/2026-09-10-1766).
+
+## § 33. Håbrand i Trøndelag
+
+Det er forbudt å fiske på et område på Håbrand i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 63 grader 56,200 minutter. Øst 009 grader 6,500 minutter.
+2. Nord 63 grader 56,200 minutter. Øst 009 grader 9,200 minutter.
+3. Nord 63 grader 55,000 minutter. Øst 009 grader 9,200 minutter.
+4. Nord 63 grader 55,000 minutter. Øst 009 grader 6,500 minutter.
+
+> Tilføyd ved forskrift [10 sep 2026 nr. 1766](forskrift/2026-09-10-1766).
+
+## § 34. Klokkaren i Trøndelag
+
+Det er forbudt å fiske på et område på Klokkaren i Trøndelag, avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Nord 64 grader 4,000 minutter. Øst 009 grader 20,000 minutter.
+2. Nord 64 grader 4,000 minutter. Øst 009 grader 21,000 minutter.
+3. Nord 64 grader 3,000 minutter. Øst 009 grader 21,000 minutter.
+4. Nord 64 grader 3,000 minutter. Øst 009 grader 20,000 minutter.
+
+> Tilføyd ved forskrift [10 sep 2026 nr. 1766](forskrift/2026-09-10-1766).
+
+## § 35. Straff
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes etter [havressurslova §§ 61](lov/2008-06-06-37/§61), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 28), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 30).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 28), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 30), [10 sep 2026 nr. 1766 (tidligere § 31)](forskrift/2026-09-10-1766).
 
-## § 32. Ikrafttredelse
+## § 36. Ikrafttredelse
 
 Forskriften trer i kraft 15. april 2026.
 
 Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N[^1].
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 29), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 31).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 29), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 31), [10 sep 2026 nr. 1766 (tidligere § 32)](forskrift/2026-09-10-1766).
 
 1 Ikke kunngjort i Norsk Lovtidend, Lovtidendredaksjonens anm.
