@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-02-04"
 last_change_in_force: "2025-11-21"
 last_updated: null
-xml_hash: "57408ff8dbc197e075935c7acfce6bf764e2d2f97ea53d36b3695a78b5085ae1"
+xml_hash: "6dbdd6defdd01909fb0e00e55c10533a6b835abe46775a536b7da2f9c8bf292c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -25,14 +25,6 @@ eu_basis: []
 ## I
 
 I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførselsforskriften)](forskrift/2022-10-27-1901) gjøres følgende endringer:
-
-– – –
-
-[§ 2-3-6](forskrift/2022-10-27-1901/§2-3-6) nytt tredje og fjerde ledd skal lyde:
-
-(3) Dersom samtlige varer på transportmiddelet skal transitteres gjennom tollområdet gjelder ikke kravet om elektronisk melding etter første ledd.
-
-(4) Dersom samtlige varer på transportmiddelet er underlagt en transittering som både startes opp og fullføres i tollområdet gjelder ikke kravet om elektronisk melding etter første ledd.
 
 – – –
 
