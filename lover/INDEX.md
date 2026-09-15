@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Lover
 
-_759 current documents_
+_757 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -202,10 +202,8 @@ _759 current documents_
 - [endringslov-til-utlendingsloven-2](endringslov-til-utlendingsloven-2.md) — Lov om endringer i utlendingsloven (visitasjon og undersøkelse i forbindelse med registrering av søknad om beskyttelse mv.)
 - [endringslov-til-utlendingsloven-3](endringslov-til-utlendingsloven-3.md) — Lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)
 - [endringslov-til-utlendingsloven-mv](endringslov-til-utlendingsloven-mv.md) — Lov om endringer i utlendingsloven mv. (familieinnvandring m.m.)
-- [endringslov-til-utlendingsloven-mv-2](endringslov-til-utlendingsloven-mv-2.md) — Lov om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)
 - [endringslov-til-utleveringsloven-m-m](endringslov-til-utleveringsloven-m-m.md) — Lov om endringer i utleveringsloven m.m
 - [endringslov-til-valgloven](endringslov-til-valgloven.md) — Lov om endringer i valgloven (endringer i valgdistriktene)
-- [endringslov-til-vareførselsloven](endringslov-til-vareførselsloven.md) — Lov om endringar i vareførselsloven
 - [endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon](endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon.md) — Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon)
 - [endringslov-til-vegtrafikkloven-opplæring](endringslov-til-vegtrafikkloven-opplæring.md) — Lov om endringer i vegtrafikkloven (opplæring)
 - [endringslov-til-verdipapirhandelloven-mv](endringslov-til-verdipapirhandelloven-mv.md) — Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260910-1769",
+  "events": [
+    {
+      "commit": "a59bd51",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 85,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-spesialistforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-spesialistforskriften"
+}

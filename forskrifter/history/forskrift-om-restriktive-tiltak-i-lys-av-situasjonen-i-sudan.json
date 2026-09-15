@@ -2,6 +2,16 @@
   "doc_id": "sf-20060602-0573",
   "events": [
     {
+      "commit": "8ab7e1b",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 50,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "44ea5a5",
       "date": "2026-09-04",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-vareførselsforskriften-2 — Change history
 
-_3 events; doc_id `sf-20250204-0156`._
+_4 events; doc_id `sf-20250204-0156`._
+
+## 2026-09-15 — Content updated
+Lines: +2 -10.
+Subject: `update(forskrift): endr-i-vareførselsforskriften-2`
+Commit: `2995b1b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20101221-1790",
   "events": [
     {
+      "commit": "5e4668a",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): mandat-for-statens-pensjonsfond-norge-spn",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "24b58a4",
       "date": "2026-08-01",
       "from_path": null,

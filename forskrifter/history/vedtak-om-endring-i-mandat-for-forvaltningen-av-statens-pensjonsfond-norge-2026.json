@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260806-1768",
+  "events": [
+    {
+      "commit": "e13bb9d",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(forskrift): vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge-2026"
+}

@@ -2,6 +2,16 @@
   "doc_id": "sf-19900125-0092",
   "events": [
     {
+      "commit": "f6edf97",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-bruk-av-kjøretøy",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f0ba6a3",
       "date": "2026-09-12",
       "from_path": null,

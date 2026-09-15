@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # konfliktrådsloven-konfrådl — Change history
 
-_3 events; doc_id `nl-20140620-049`._
+_4 events; doc_id `nl-20140620-049`._
+
+## 2026-09-15 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): konfliktrådsloven-konfrådl`
+Commit: `dbfa63d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

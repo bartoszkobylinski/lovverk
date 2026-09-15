@@ -2,6 +2,16 @@
   "doc_id": "nl-20220311-009",
   "events": [
     {
+      "commit": "76811d3",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(lov): vareførselsloven-vfl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

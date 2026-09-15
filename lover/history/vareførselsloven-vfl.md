@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vareførselsloven-vfl — Change history
 
-_5 events; doc_id `nl-20220311-009`._
+_6 events; doc_id `nl-20220311-009`._
+
+## 2026-09-15 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): vareførselsloven-vfl`
+Commit: `76811d3`.
 
 ## 2026-07-01 — Content updated
 Lines: +12 -4.

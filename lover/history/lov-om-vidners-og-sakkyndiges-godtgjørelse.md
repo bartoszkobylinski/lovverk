@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # lov-om-vidners-og-sakkyndiges-godtgjørelse — Change history
 
-_5 events; doc_id `nl-19160721-002`._
+_6 events; doc_id `nl-19160721-002`._
+
+## 2026-09-15 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): lov-om-vidners-og-sakkyndiges-godtgjørelse`
+Commit: `efe6f7a`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

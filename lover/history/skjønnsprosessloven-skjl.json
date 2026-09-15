@@ -2,6 +2,16 @@
   "doc_id": "nl-19170601-001",
   "events": [
     {
+      "commit": "d43d3ca",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): skjønnsprosessloven-skjl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a2c3d15",
       "date": "2026-07-03",
       "from_path": null,

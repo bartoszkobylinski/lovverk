@@ -2,6 +2,16 @@
   "doc_id": "nl-19810522-025",
   "events": [
     {
+      "commit": "45f6ee5",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): straffeprosessloven-strpl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

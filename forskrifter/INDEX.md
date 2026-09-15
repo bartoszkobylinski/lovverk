@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5111 current documents_
+_5107 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1292,6 +1292,7 @@ _5111 current documents_
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)
 - [endr-i-reseptformidlerforskriften](endr-i-reseptformidlerforskriften.md) — Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)
 - [endr-i-rettsgebyrforskriften](endr-i-rettsgebyrforskriften.md) — Forskrift om endring i rettsgebyrforskriften
+- [endr-i-spesialistforskriften](endr-i-spesialistforskriften.md) — Forskrift om endring i forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)
 - [endr-i-stortingets-forretningsorden](endr-i-stortingets-forretningsorden.md) — Endringer i Stortingets forretningsorden
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
@@ -1300,10 +1301,7 @@ _5111 current documents_
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
-- [endr-i-vareførselsforskriften-2026-08-26](endr-i-vareførselsforskriften-2026-08-26.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
-- [endr-i-vareførselsforskriften-4](endr-i-vareførselsforskriften-4.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
-- [endr-i-vareførselsforskriften-5](endr-i-vareførselsforskriften-5.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-yrkestransportforskriften](endr-i-yrkestransportforskriften.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-yrkestransportforskriften-overgangsbestemmelser](endr-i-yrkestransportforskriften-overgangsbestemmelser.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-økonomiforskrift-til-barnehageloven](endr-i-økonomiforskrift-til-barnehageloven.md) — Forskrift om endring i forskrift om regnskapsplikt mv. for private barnehager (økonomiforskrift til barnehageloven)
@@ -1923,7 +1921,6 @@ _5111 current documents_
 - [forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer](forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer.md) — Forskrift om endring i forskrift om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer og forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
 - [forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven](forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md) — Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven
 - [forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder](forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder.md) — Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder
-- [forskrift-om-endring-i-forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan](forskrift-om-endring-i-forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan.md) — Forskrift om endring i forskrift om restriktive tiltak i lys av situasjonen i Sudan
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
@@ -3156,8 +3153,6 @@ _5111 current documents_
 - [forskrift-om-politiattest-etter-barnevernsloven](forskrift-om-politiattest-etter-barnevernsloven.md) — Forskrift om politiattest etter barnevernsloven
 - [forskrift-om-politiattest-i-barnehager](forskrift-om-politiattest-i-barnehager.md) — Forskrift om politiattest i barnehager
 - [forskrift-om-politiattest-iht-arbeidsmarkedsloven](forskrift-om-politiattest-iht-arbeidsmarkedsloven.md) — Forskrift om politiattest i henhold til arbeidsmarkedsloven
-- [forskrift-om-politihøgskolen-under-univl](forskrift-om-politihøgskolen-under-univl.md) — Forskrift om delvis innlemming av Politihøgskolen under lov 1. april 2005 nr. 15 om universiteter og høyskoler.
-- [forskrift-om-politihøgskolens-styre-oppgaver](forskrift-om-politihøgskolens-styre-oppgaver.md) — Forskrift om Politihøgskolens styre, oppgaver og virksomhet.
 - [forskrift-om-portokompensasjon-for-aviser](forskrift-om-portokompensasjon-for-aviser.md) — Forskrift om kompensasjon for portoutgifter i avisene.
 - [forskrift-om-posisjonsrapporteringsutstyr](forskrift-om-posisjonsrapporteringsutstyr.md) — Forskrift om krav til utstyr og installasjon av posisjonsrapporteringsutstyr
 - [forskrift-om-post-og-telegramkontroll-m-v](forskrift-om-post-og-telegramkontroll-m-v.md) — Forskrift om kontroll med post- og telegramforsendelser.
@@ -3695,7 +3690,6 @@ _5111 current documents_
 - [forskrift-om-tilskudd-til-arbeidsrettet-kompetanseheving-for-pelsdyroppdrettere](forskrift-om-tilskudd-til-arbeidsrettet-kompetanseheving-for-pelsdyroppdrettere.md) — Forskrift om tilskudd til arbeidsrettet kompetanseheving for pelsdyroppdrettere
 - [forskrift-om-tilskudd-til-arkeologiske-kulturminner](forskrift-om-tilskudd-til-arkeologiske-kulturminner.md) — Forskrift om tilskudd til automatisk fredete og andre arkeologiske kulturminner
 - [forskrift-om-tilskudd-til-arrangementer-for-idrett-og-fysisk-aktivitet-for-personer-med-funksjonsnedsettelser](forskrift-om-tilskudd-til-arrangementer-for-idrett-og-fysisk-aktivitet-for-personer-med-funksjonsnedsettelser.md) — Forskrift om tilskudd til arrangementer for idrett og fysisk aktivitet for personer med funksjonsnedsettelser
-- [forskrift-om-tilskudd-til-assistert-retur-og-tvangsretur](forskrift-om-tilskudd-til-assistert-retur-og-tvangsretur.md) — Forskrift om tilskudd til assistert retur og tvangsretur
 - [forskrift-om-tilskudd-til-audiovisuell-produksjon](forskrift-om-tilskudd-til-audiovisuell-produksjon.md) — Forskrift om tilskudd til audiovisuell produksjon
 - [forskrift-om-tilskudd-til-audiovisuelle-verk](forskrift-om-tilskudd-til-audiovisuelle-verk.md) — Forskrift om tilskudd til produksjon og formidling av audiovisuelle verk
 - [forskrift-om-tilskudd-til-avløsning-i-reindrift](forskrift-om-tilskudd-til-avløsning-i-reindrift.md) — Forskrift om tilskudd til avløsning ved svangerskap, fødsel, adopsjon og dødsfall
@@ -4909,6 +4903,7 @@ _5111 current documents_
 - [tilleggsstønadsforskriften](tilleggsstønadsforskriften.md) — Forskrift om stønader til dekning av utgifter knyttet til å komme i eller å beholde arbeid (tilleggsstønadsforskriften)
 - [tilpasningsforskrift-for-fhs](tilpasningsforskrift-for-fhs.md) — Forskrift om unntak fra og tilpasninger til universitets- og høyskoleloven for Forsvarets høgskole (tilpasningsforskrift for FHS)
 - [tilpasningsforskrift-for-hko](tilpasningsforskrift-for-hko.md) — Forskrift om tilpasning til universitets- og høyskoleloven for Høgskolen for kriminalomsorg (HKO) (tilpasningsforskrift for HKO)
+- [tilpasningsforskrift-for-phs](tilpasningsforskrift-for-phs.md) — Forskrift om Politihøgskolens virksomhet og tilpasning til universitets- og høyskoleloven for Politihøgskolen (tilpasningsforskrift for PHS)
 - [tilsynsforskriften](tilsynsforskriften.md) — Forskrift om tilsyn med tjenester og tiltak til barn i barnevernsinstitusjoner m.m. (tilsynsforskriften)
 - [tiltak-mot-sjukdommer-og-zoonotiske-agens-hos-dyr-på-svalbard](tiltak-mot-sjukdommer-og-zoonotiske-agens-hos-dyr-på-svalbard.md) — Forskrift om tiltak mot sjukdommer og zoonotiske agens hos dyr på Svalbard
 - [tiltaksforskriften](tiltaksforskriften.md) — Forskrift om arbeidsmarkedstiltak (tiltaksforskriften)
@@ -4993,6 +4988,7 @@ _5111 current documents_
 - [vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus](vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus.md) — Vedtak om dispensasjon for nøkkelpersonell med kritiske samfunnsfunksjoner for Nkom, og oppfølging av bransjen
 - [vedtak-om-dispensasjon-for-forskningsfartøyer](vedtak-om-dispensasjon-for-forskningsfartøyer.md) — Vedtak om dispensasjon fra kravet om diplomatisk klarering for forskningsfartøyer som er sivile statsfartøyer
 - [vedtak-om-endring-av-navn-til-helsedirektoratet](vedtak-om-endring-av-navn-til-helsedirektoratet.md) — Vedtak om endring av navn på Sosial- og helsedirektoratet til Helsedirektoratet
+- [vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge-2026](vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge-2026.md) — Vedtak om endring i mandat for forvaltningen av Statens pensjonsfond Norge
 - [vedtak-om-etablering-av-dsb](vedtak-om-etablering-av-dsb.md) — Vedtak om etablering av Direktoratet for samfunnssikkerhet og beredskap.
 - [vedtak-om-fastsettelse-av-aii](vedtak-om-fastsettelse-av-aii.md) — Vedtak om fastsettelse av alternativ instrumentidentifikator
 - [vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024](vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024.md) — Vedtak om fastsettelse av rente for skattlegging av havbruksvirksomhet for inntektsåret 2024

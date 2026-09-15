@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # rettshjelploven-rhjl — Change history
 
-_5 events; doc_id `nl-19800613-035`._
+_6 events; doc_id `nl-19800613-035`._
+
+## 2026-09-15 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): rettshjelploven-rhjl`
+Commit: `a0810f5`.
 
 ## 2026-07-03 — Content updated
 Lines: +4 -4.

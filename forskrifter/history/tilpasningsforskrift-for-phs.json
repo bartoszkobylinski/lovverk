@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260911-1770",
+  "events": [
+    {
+      "commit": "c94cc4c",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 89,
+      "lines_removed": 0,
+      "subject": "add(forskrift): tilpasningsforskrift-for-phs",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "tilpasningsforskrift-for-phs"
+}
