@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-11-22"
 last_change_in_force: "2025-11-21"
 last_updated: null
-xml_hash: "6e330f8e5ba45b8e176655c93472a66e4c1823374162480f74c41af49fe0f1e6"
+xml_hash: "211edbbc03890d191c23eae4d033e85c5161677b711637c64521ac0541d64d34"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-15T09:22:15.191013+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -25,8 +25,6 @@ eu_basis: []
 ## I
 
 I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførselsforskriften)](forskrift/2022-10-27-1901) gjøres følgende endringer:
-
-Ny [§ 2-3-6](forskrift/2022-10-27-1901/§2-3-6) med overskrift skal lyde:
 
 – – –
 
