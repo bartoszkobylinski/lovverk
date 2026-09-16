@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-09-15"
 last_updated: "2024-07-30"
-xml_hash: "5b7e9925db2c2e55be011eeaf9bd3d744351593b0acdb92df1b75273b8d9fe0c"
+xml_hash: "e721881356b90c0ca5849e7744e02768864a18b4eccbdf9d4364914ccbde21a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-09-16T09:15:00.988256+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -179,7 +179,7 @@ Enhver kan, gjennom elektronisk system nevnt i [§ 2-1-1](forskrift/2022-10-27-1
 1. fartøyet ikke har andre varer om bord som ikke har gått over i fri disponering, og
 2. fartøyet ikke har anløpt havn utenfor tollområdet.
 
-> Endret ved forskrifter [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)), [26 aug 2026 nr. 1683](forskrift/2026-08-26-1683) (i kraft 15 sep 2026).
+> Endret ved forskrifter [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)), [26 aug 2026 nr. 1683](forskrift/2026-08-26-1683) (i kraft 15 sep 2026).
 
 ### § 2-2-2. Bestemmelsessted ved ankomst med luftfartøy
 
@@ -253,7 +253,7 @@ Fører av transportmiddel, som i nødstilfelle har måttet gå til eller stoppe 
 1. fartøyet ikke har andre varer som ikke er gått over i fri disponering om bord, og
 2. fartøyet ikke har anløpt havn utenfor tollområdet.
 
-> Endret ved forskrifter [2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023), [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> Endret ved forskrifter [2 des 2022 nr. 2088](forskrift/2022-12-02-2088) (i kraft 1 jan 2023), [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 2-3-2. Opplysninger ved melding om ankomst med fartøy
 
@@ -287,7 +287,7 @@ Referanse til deklarasjon, jf. [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5), 
 
 (10) Fører av forsyningsfartøy fra norsk del av kontinentalsokkelen er unntatt fra kravet til å overføre opplysninger om fartøy, besetning og proviant etter første ledd, dersom fartøyet ikke bringer med proviant som ikke har gått over til fri disponering.
 
-> Endret ved forskrift [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> Endret ved forskrift [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 2-3-3. Meldeplikt ved ankomst med andre transportmidler enn fartøy
 
@@ -305,7 +305,7 @@ Referanse til deklarasjon, jf. [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5), 
 
 (7) Fører av luftfartøy som vil bruke en landingsplass for småfly etter [§ 2-2-2](forskrift/2022-10-27-1901/§2-2-2) skal legge frem kopi av fullstendig utfylt reiseplan til tollmyndighetene senest fire timer før ankomst. Dersom ankomsttidene som er oppgitt i reiseplanen senere ønskes endret, skal tollmyndighetene snarest underrettes om endringen. Det samme gjelder kanselleringer.
 
-> Endret ved forskrifter [4 feb 2025 nr. 156](forskrift/2025-02-04-156), [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> Endret ved forskrifter [4 feb 2025 nr. 156](forskrift/2025-02-04-156), [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 2-3-4. Opplysninger ved melding om ankomst med andre transportmidler enn fartøy
 
@@ -335,7 +335,7 @@ Referanse til deklarasjon, jf. [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5), 
 
 (4) Dersom samtlige varer på transportmiddelet er underlagt en transittering som både startes opp og fullføres i tollområdet gjelder ikke kravet om elektronisk melding etter første ledd.
 
-> Tilføyd ved forskrift [21 des 2023 nr. 2280](forskrift/2023-12-21-2280) (i kraft 1 jan 2024), opphevet ved forskrift [21 des 2023 nr. 2280](forskrift/2023-12-21-2280) (i kraft 1 juli 2024), tilføyd ved forskrift [22 nov 2023 nr. 1915](forskrift/2023-11-22-1915) (i kraft 15 sep 2026, endring endret ved forskrifter [18 des 2024 nr. 3266](forskrift/2024-12-18-3266), [30 juni 2025 nr. 1376](forskrift/2025-06-30-1376) og [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)), endret ved forskrift [4 feb 2025 nr. 156](forskrift/2025-02-04-156) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> Tilføyd ved forskrift [21 des 2023 nr. 2280](forskrift/2023-12-21-2280) (i kraft 1 jan 2024), opphevet ved forskrift [21 des 2023 nr. 2280](forskrift/2023-12-21-2280) (i kraft 1 juli 2024), tilføyd ved forskrift [22 nov 2023 nr. 1915](forskrift/2023-11-22-1915) (i kraft 15 sep 2026, endring endret ved forskrifter [18 des 2024 nr. 3266](forskrift/2024-12-18-3266), [30 juni 2025 nr. 1376](forskrift/2025-06-30-1376) og [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)), endret ved forskrift [4 feb 2025 nr. 156](forskrift/2025-02-04-156) (i kraft 15 sep 2026, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 2-3-7. Unntak for postforsendelser
 
@@ -469,7 +469,7 @@ Styrker fra NATO-land eller styrker fra land som er med i Partnerskap for fred s
 
 Fører av fartøy med vare som ikke er tollbehandlet, skal ved videre transport i tollområdet levere melding etter [§ 2-3-1](forskrift/2022-10-27-1901/§2-3-1) med opplysningskrav som følger av [§ 2-3-2](forskrift/2022-10-27-1901/§2-3-2), unntatt referanse til deklarasjon. Referanse til deklarasjon skal leveres senest ved ankomst til bestemmelsessted hvor varen skal losses. Tillatelse til videre transport i tollområdet anses gitt når denne meldingen leveres.
 
-> Endret ved forskrift [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> Endret ved forskrift [30 juni 2025 nr. 1375](forskrift/2025-06-30-1375) (i kraft 15 sep 2026, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 2-6. Lossing
 
@@ -1054,7 +1054,7 @@ Ved prosedyren tollager skal tollagerholderen registrere varen i tollagerregnska
 
 (5) Tollagerholderen skal oppbevare tollagerregnskapet med nødvendig dokumentasjon i fem år og sørge for at det er betryggende sikret mot ødeleggelse, tap og endring.
 
-> **Endres** ved forskrift [4 feb 2025 nr. 156](forskrift/2025-02-04-156) (i kraft 1 mars 2027, endringen endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
+> **Endres** ved forskrift [4 feb 2025 nr. 156](forskrift/2025-02-04-156) (i kraft 1 mars 2027, endring endret ved forskrift [21 nov 2025 nr. 2337](forskrift/2025-11-21-2337)).
 
 ### § 4-4-9. Alminnelig tollager (tollager A)
 
