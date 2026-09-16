@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-08-05"
+last_change_in_force: "2026-09-10"
 last_updated: null
-xml_hash: "df684ec22df757144489fffc0130aac6212955ed9dfc4210c6c7c777a8054831"
+xml_hash: "13a6d02ed2427188ecf162673d4478d86dc9e3f62fb5549bd2d4b8cef35622cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-08T05:06:24.539947+00:00"
+retrieved_at: "2026-09-16T09:15:00.988256+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -175,9 +175,9 @@ Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kva
 
 Av kvoten etter første ledd kan en maksimalkvote på 210 tonn fiskes i britisk sone.
 
-Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for maksimalkvoten er fastsatt til 9,0171 tonn. Ved en eventuell stopp i fisket i lukket gruppe kan det enkelte fartøy likevel fortsette fisket innenfor en kvoteenhet fastsatt til 6,9362 tonn.
+Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for maksimalkvoten er fastsatt til 9,0171 tonn. Ved en eventuell stopp i fisket i lukket gruppe kan det enkelte fartøy likevel fortsette fisket innenfor en kvoteenhet fastsatt til 6,9362 tonn. Fisket på maksimalkvotene stoppes fra og med den 11. september 2026.
 
-> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [19 juni 2026 nr. 1172](forskrift/2026-06-19-1172).
+> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [19 juni 2026 nr. 1172](forskrift/2026-06-19-1172), [10 sep 2026 nr. 1781](forskrift/2026-09-10-1781).
 
 ### § 13. Kvoter for fartøy i åpen gruppe
 
