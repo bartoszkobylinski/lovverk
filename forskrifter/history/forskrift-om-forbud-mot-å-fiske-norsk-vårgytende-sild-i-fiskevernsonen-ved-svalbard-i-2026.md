@@ -7,10 +7,20 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026 — Change history
 
-_2 events; doc_id `sf-20251222-2833`._
+_4 events; doc_id `sf-20251222-2833`._
+
+## 2026-09-16 — Content updated
+Lines: +37 -6.
+Subject: `update(forskrift): forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026`
+Commit: `177d4ea`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251222-2833.md` → `"forskrifter/forskrift-om-forbud-mot-\303\245-fiske-norsk-v\303\245rgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026.md"`.
+Renamed: `forskrifter/sf-20251222-2833.md` → `forskrifter/forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

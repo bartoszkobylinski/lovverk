@@ -2,13 +2,33 @@
   "doc_id": "sf-20251222-2833",
   "events": [
     {
+      "commit": "177d4ea",
+      "date": "2026-09-16",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20251222-2833.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-forbud-mot-\\303\\245-fiske-norsk-v\\303\\245rgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026.md\"",
+      "to_path": "forskrifter/forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026.md",
       "type": "renamed"
     },
     {

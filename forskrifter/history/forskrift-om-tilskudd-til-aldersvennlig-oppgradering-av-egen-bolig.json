@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260910-1780",
+  "events": [
+    {
+      "commit": "0583742",
+      "date": "2026-09-16",
+      "from_path": null,
+      "lines_added": 122,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-tilskudd-til-aldersvennlig-oppgradering-av-egen-bolig",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-tilskudd-til-aldersvennlig-oppgradering-av-egen-bolig"
+}

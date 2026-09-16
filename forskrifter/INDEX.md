@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5107 current documents_
+_5108 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -3684,6 +3684,7 @@ _5107 current documents_
 - [forskrift-om-tilskudd-fra-norsk-kulturfond](forskrift-om-tilskudd-fra-norsk-kulturfond.md) — Forskrift om tilskudd fra Norsk kulturfond
 - [forskrift-om-tilskudd-fra-svalbards-miljøvernfond](forskrift-om-tilskudd-fra-svalbards-miljøvernfond.md) — Forskrift om tilskudd fra Svalbards miljøvernfond
 - [forskrift-om-tilskudd-til-aktivitetstilbud-for-barn-i-asylmottak](forskrift-om-tilskudd-til-aktivitetstilbud-for-barn-i-asylmottak.md) — Forskrift om tilskudd til aktivitetstilbud for barn i asylmottak
+- [forskrift-om-tilskudd-til-aldersvennlig-oppgradering-av-egen-bolig](forskrift-om-tilskudd-til-aldersvennlig-oppgradering-av-egen-bolig.md) — Forskrift om tilskudd til aldersvennlig oppgradering av egen bolig
 - [forskrift-om-tilskudd-til-anadrome-laksefisk](forskrift-om-tilskudd-til-anadrome-laksefisk.md) — Forskrift om tilskudd til anadrome laksefisk
 - [forskrift-om-tilskudd-til-arbeid-med-hiv-m-m](forskrift-om-tilskudd-til-arbeid-med-hiv-m-m.md) — Forskrift om tilskudd til arbeid innen feltet hiv og seksuelt overførbare infeksjoner
 - [forskrift-om-tilskudd-til-arbeidsrehabilitering](forskrift-om-tilskudd-til-arbeidsrehabilitering.md) — Forskrift om tilskudd til implementering av arbeidsrehabiliteringsmetodene individuell jobbstøtte og jobbmestrende oppfølging

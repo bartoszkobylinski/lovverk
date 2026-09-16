@@ -71107,13 +71107,13 @@
     },
     "sf-20150506-0455": {
       "doc_type": "forskrift",
-      "embedding_hash": "1eb13498b902c6bf3077e0ca1a0fb31769f1b78e66c808677ff144dabb5eab99",
-      "embedding_input_hash": "11cc64d5fe157545968d96924f6f7e99723241c7dfa3ba4b9547cf8a249648bc",
+      "embedding_hash": "d306d5ab36bb4103dd1414f225e322579fa5eb38045bab7449200d94c62b73bb",
+      "embedding_input_hash": "3eb2e44f0d31d719321d874a1797f253d2fb757e9617979cf7e88bc17773ecf2",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-09-16",
+      "last_seen": "2026-09-16T09:15:00.988256Z",
       "markdown_path": "forskrifter/forskrift-om-plantevernmidler.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -71121,8 +71121,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om plantevernmidler",
-      "total_changes": 10,
-      "xml_hash": "1eb13498b902c6bf3077e0ca1a0fb31769f1b78e66c808677ff144dabb5eab99"
+      "total_changes": 11,
+      "xml_hash": "d306d5ab36bb4103dd1414f225e322579fa5eb38045bab7449200d94c62b73bb"
     },
     "sf-20150507-0488": {
       "doc_type": "forskrift",
@@ -92995,13 +92995,13 @@
     },
     "sf-20211223-3910": {
       "doc_type": "forskrift",
-      "embedding_hash": "80caaac1445eb97d7a2bf2040a23f0fb67d8f17627544f2f1d79dae33aee7238",
-      "embedding_input_hash": "4fdfc1f7c7102805e1c1c928c2356555417d7d16c5459e96f6feec7063ea3442",
+      "embedding_hash": "3745347ac78725c6536aec7e3c5507fbe2a736058385bc93020f5072866d47a0",
+      "embedding_input_hash": "8145456cf18948a1ca6ca95123373e52a74d3305700ab4ca3b64100b5ab9c26b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-27",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-16",
+      "last_seen": "2026-09-16T09:15:00.988256Z",
       "markdown_path": "forskrifter/høstingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93009,8 +93009,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser (høstingsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "80caaac1445eb97d7a2bf2040a23f0fb67d8f17627544f2f1d79dae33aee7238"
+      "total_changes": 6,
+      "xml_hash": "3745347ac78725c6536aec7e3c5507fbe2a736058385bc93020f5072866d47a0"
     },
     "sf-20220104-0010": {
       "doc_type": "forskrift",
@@ -95636,13 +95636,13 @@
     },
     "sf-20221027-1901": {
       "doc_type": "forskrift",
-      "embedding_hash": "5b7e9925db2c2e55be011eeaf9bd3d744351593b0acdb92df1b75273b8d9fe0c",
-      "embedding_input_hash": "b37d7230dbabd4b2189d4c180820281308e3bd435a9ecd4d4ebe61005e6035b9",
+      "embedding_hash": "e721881356b90c0ca5849e7744e02768864a18b4eccbdf9d4364914ccbde21a1",
+      "embedding_input_hash": "23bd2fb199fecf88c7bc3de565490becb331f57bdd52e9b32fe0af95b39f57f5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-15",
-      "last_seen": "2026-09-15T09:22:15.191013Z",
+      "last_changed": "2026-09-16",
+      "last_seen": "2026-09-16T09:15:00.988256Z",
       "markdown_path": "forskrifter/vareførselsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -95650,8 +95650,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om inn- og utførsel av varer (vareførselsforskriften)",
-      "total_changes": 13,
-      "xml_hash": "5b7e9925db2c2e55be011eeaf9bd3d744351593b0acdb92df1b75273b8d9fe0c"
+      "total_changes": 14,
+      "xml_hash": "e721881356b90c0ca5849e7744e02768864a18b4eccbdf9d4364914ccbde21a1"
     },
     "sf-20221027-1938": {
       "doc_type": "forskrift",
@@ -109354,13 +109354,13 @@
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
-      "embedding_hash": "df684ec22df757144489fffc0130aac6212955ed9dfc4210c6c7c777a8054831",
-      "embedding_input_hash": "37935d1436a7ce484ec27f2c580d3ba2c7cb467033b67233c9fb5340dafb9f82",
+      "embedding_hash": "13a6d02ed2427188ecf162673d4478d86dc9e3f62fb5549bd2d4b8cef35622cd",
+      "embedding_input_hash": "02b6847c6e98e33ca70a4a790740e3b2cc785161388a13cc0837cc6da4f8510e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-08",
-      "last_seen": "2026-08-08T05:06:24.539947Z",
+      "last_changed": "2026-09-16",
+      "last_seen": "2026-09-16T09:15:00.988256Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109368,8 +109368,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 9,
-      "xml_hash": "df684ec22df757144489fffc0130aac6212955ed9dfc4210c6c7c777a8054831"
+      "total_changes": 10,
+      "xml_hash": "13a6d02ed2427188ecf162673d4478d86dc9e3f62fb5549bd2d4b8cef35622cd"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -109563,13 +109563,13 @@
     },
     "sf-20251222-2833": {
       "doc_type": "forskrift",
-      "embedding_hash": "f1320c01adc9610a39933bbea6d0670fa61f9408f5b0ca40532f2d5540a8a87a",
-      "embedding_input_hash": "303ea58b4f280a445f51fb1aa5eb7a264f4bdfa7f7b794d8d137067c25e6e954",
+      "embedding_hash": "c6991918fd4a443d1bd7586bc4ae1b05ef7adaa38bc13fe91d2ec3c1f2d5968e",
+      "embedding_input_hash": "1380d51aeb5c50a74ff24cc80e949c782d7057d25df2adbb5bd68c8c6d09467a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-09-16",
+      "last_seen": "2026-09-16T09:15:00.988256Z",
       "markdown_path": "forskrifter/forskrift-om-forbud-mot-å-fiske-norsk-vårgytende-sild-i-fiskevernsonen-ved-svalbard-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109577,8 +109577,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forbud mot å fiske norsk vårgytende sild i fiskevernsonen ved Svalbard i 2026",
-      "total_changes": null,
-      "xml_hash": "f1320c01adc9610a39933bbea6d0670fa61f9408f5b0ca40532f2d5540a8a87a"
+      "total_changes": 4,
+      "xml_hash": "c6991918fd4a443d1bd7586bc4ae1b05ef7adaa38bc13fe91d2ec3c1f2d5968e"
     },
     "sf-20251222-2836": {
       "doc_type": "forskrift",
@@ -113456,6 +113456,25 @@
       "total_changes": 1,
       "xml_hash": "b55ed16f19554aa83ad07a94df85421d75e836fa3d6ef4552f0e9fec522d2170"
     },
+    "sf-20260910-1780": {
+      "doc_type": "forskrift",
+      "embedding_hash": "c1f47815e6c34c3762b3e16ea2ff2cac9c18708ce6a2310087f431f19fb3da22",
+      "embedding_input_hash": "5eddbfc00d59f2a76da80ed27243a13c540c017d91c145ee974a3f8eaf993df2",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-16",
+      "last_seen": "2026-09-16T09:15:00.988256Z",
+      "markdown_path": "forskrifter/forskrift-om-tilskudd-til-aldersvennlig-oppgradering-av-egen-bolig.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-tilskudd-til-aldersvennlig-oppgradering-av-egen-bolig",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om tilskudd til aldersvennlig oppgradering av egen bolig",
+      "total_changes": 1,
+      "xml_hash": "c1f47815e6c34c3762b3e16ea2ff2cac9c18708ce6a2310087f431f19fb3da22"
+    },
     "sf-20260911-1770": {
       "doc_type": "forskrift",
       "embedding_hash": "19bad5f13220ed317285bfe19496c4f07b3f6703eb565fbc459eb0cb46ba646a",
@@ -113495,6 +113514,6 @@
       "xml_hash": "4e82a7bac10355304ba5d9458a7c30cb5c6f1d4592ae6f57111bd0f1295ee6a6"
     }
   },
-  "generated_at": "2026-09-15T09:22:15.191013Z",
+  "generated_at": "2026-09-16T09:15:00.988256Z",
   "version": 1
 }

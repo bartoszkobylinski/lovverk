@@ -2,6 +2,16 @@
   "doc_id": "sf-20150506-0455",
   "events": [
     {
+      "commit": "178c186",
+      "date": "2026-09-16",
+      "from_path": null,
+      "lines_added": 59,
+      "lines_removed": 15,
+      "subject": "update(forskrift): forskrift-om-plantevernmidler",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b2c13c0",
       "date": "2026-09-14",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # høstingsforskriften — Change history
 
-_5 events; doc_id `sf-20211223-3910`._
+_6 events; doc_id `sf-20211223-3910`._
+
+## 2026-09-16 — Content updated
+Lines: +11 -34.
+Subject: `update(forskrift): høstingsforskriften`
+Commit: `1a051af`.
 
 ## 2026-06-27 — Content updated
 Lines: +9 -3.
