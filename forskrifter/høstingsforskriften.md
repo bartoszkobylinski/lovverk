@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2026-06-25"
+last_change_in_force: "2026-09-14"
 last_updated: "2024-01-16"
-xml_hash: "80caaac1445eb97d7a2bf2040a23f0fb67d8f17627544f2f1d79dae33aee7238"
+xml_hash: "3745347ac78725c6536aec7e3c5507fbe2a736058385bc93020f5072866d47a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-16T09:15:00.988256+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1030,44 +1030,21 @@ Med unntak av fiske etter reker med trål og skraping av skjell er det ikke till
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [12 juli 2024 nr. 1724](forskrift/2024-07-12-1724).
 
-### § 59. Forbud mot å fiske norsk vårgytende sild
+### § 59. Forbud mot å høste norsk vårgytende sild
 
 Det er forbudt å fiske norsk vårgytende sild nordøst for en rett linje fra 72° 10,46′ nord, 10° 18,42′ øst til Darupskjæret 70° 40,5′ nord, 21° 59,1′ øst.
 
-Uten hensyn til forbudet i første ledd kan følgende fartøy fra og med 13. september 2023 til og med 31. desember 2023 fiske norsk vårgytende sild innenfor fire nautiske mil fra grunnlinjene vest for 29° 05′ Ø:
+Uten hensyn til forbudet i første ledd kan det til og med 31. desember 2026 fiskes norsk vårgytende sild innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
 
-1. Fartøy som har adgang til å delta i fisket etter norsk vårgytende sild i kystfartøygruppen i medhold av den årlige [deltakerforskriften](forskrift/2022-12-21-2438), og
-2. som har en største lengde under 21,35 meter eller lasteromsvolum under 150 m3. Fiskeridirektoratet region Nord kan dispensere fra forbudet for fartøy som er på eller over 21,35 meter største lengde, men som har et lasteromsvolum under 150 m3.
+1. 70° 40,5′ nord, 21° 59,1′ øst
+2. 74° 4,73′ nord, 19° 5,76′ øst
 
-Uten hensyn til forbudet i første ledd kan det fra og med 13. september 2023 til og med 31. desember 2023 fiske norsk vårgytende sild innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
+   Videre langs yttergrensen for Norges økonomiske sone til posisjon:
+3. 72° 10,46′ nord, 10° 18,42′ øst.
 
-1. N 71° 12′ Ø 18°
-2. N 73° 51′ Ø 18°
-3. N 76° Ø 13° 45′
-4. N 76° Ø 00° 30′
+Fiskeridirektoratet kan stenge hele eller deler av området nevnt i andre ledd dersom innblanding av sild under minstemål i de enkelte fangster overstiger 20 % i antall.
 
-Videre langs yttergrensen for fiskevernsonen ved Svalbard til posisjon:
-
-1. N 72° 10,46′ Ø 10° 18,42′
-2. N 71° 12′ Ø 18°.
-
-Uten hensyn til forbudet i første ledd kan det til og med 31. desember 2023 fiskes norsk vårgytende sild med not innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
-
-1. N 70° 54,50′ Ø 23° 02,00′
-2. N 73° 51′ Ø 18°
-3. N 76° Ø 13° 45′
-4. N 76° Ø 00° 30′
-
-Videre langs yttergrensen for fiskevernsonen ved Svalbard til posisjon:
-
-1. N 72° 10,46′ Ø 10° 18,42′
-2. N 70° 40,50′ Ø 21° 59,00′.
-
-Fiskeridirektoratet kan stoppe fisket nevnt i annet ledd, innskrenke eller utvide perioden for fiske og stenge hele eller deler av området for fiske.
-
-Fiskeridirektoratet kan stenge hele eller deler av området nevnt i tredje ledd dersom innblanding av sild under minstemål i de enkelte fangster overstiger 20 % i antall.
-
-> Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [12 okt 2022 nr. 1731](forskrift/2022-10-12-1731), [28 okt 2022 nr. 1968](forskrift/2022-10-28-1968) (i kraft 1 nov 2022), [13 sep 2023 nr. 1415](forskrift/2023-09-13-1415), [20 nov 2023 nr. 1888](forskrift/2023-11-20-1888).
+> Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [12 okt 2022 nr. 1731](forskrift/2022-10-12-1731), [28 okt 2022 nr. 1968](forskrift/2022-10-28-1968) (i kraft 1 nov 2022), [13 sep 2023 nr. 1415](forskrift/2023-09-13-1415), [20 nov 2023 nr. 1888](forskrift/2023-11-20-1888), [14 sep 2026 nr. 1783](forskrift/2026-09-14-1783).
 
 ### § 59a. Forbud mot å høste sild i et område i Nordsjøen
 
