@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2015-06-01"
-last_change_in_force: "2026-08-13"
+last_change_in_force: "2026-09-14"
 last_updated: "2023-12-19"
-xml_hash: "1eb13498b902c6bf3077e0ca1a0fb31769f1b78e66c808677ff144dabb5eab99"
+xml_hash: "d306d5ab36bb4103dd1414f225e322579fa5eb38045bab7449200d94c62b73bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-09-16T09:15:00.988256+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,7 +102,7 @@ EØS-avtalens vedlegg II kapittel XV med følgende forordninger gjelder som fors
 
 ### § 8. Krav om autorisasjonsbevis for plantevernmidler
 
-Det kreves norsk autorisasjonsbevis for plantevernmidler for å kunne kjøpe og bruke yrkespreparater og for å gi yrkesmessig veiledning om kjemisk plantevern. Plantevernmidler som er gassingsprodukter med høy fareklassifisering reguleres i [§ 8b](forskrift/2015-05-06-455/§8b).
+Det kreves norsk autorisasjonsbevis for plantevernmidler for å kunne kjøpe og bruke yrkespreparater og for å gi yrkesmessig veiledning om kjemisk plantevern. Plantevernmidler som er gassingsprodukter med høy fareklassifisering reguleres i [§ 8b](forskrift/2015-05-06-455/§8b). Biologiske preparater til bekjempelse av rotråte i skogbruk reguleres i [§ 8c](forskrift/2015-05-06-455/§8c).
 
 For å ha rett til autorisasjonsbevis for plantevernmidler kreves det at personen
 
@@ -115,7 +115,7 @@ Autorisasjonsbeviset gis med gyldighet i inntil ti år fra tidspunktet for best�
 
 Fornyelse av autorisasjonsbevis krever ny gjennomføring av teoretisk del av norsk autorisasjonskurs for plantevernmidler med bestått eksamen og det må dokumenteres et fortsatt yrkesmessig behov for autorisasjon.
 
-> Endret ved forskrifter [17 sep 2018 nr. 1501](forskrift/2018-09-17-1501) (i kraft 15 okt 2018), [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552).
+> Endret ved forskrifter [17 sep 2018 nr. 1501](forskrift/2018-09-17-1501) (i kraft 15 okt 2018), [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552), [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
 
 ### § 8a. Gnagermidler
 
@@ -137,17 +137,35 @@ Autorisasjon for gassingsprodukter med høy fareklassifisering kan gis etter sø
 
 > Tilføyd ved forskrift [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552).
 
+### § 8c. Kompetansebevis for bekjempelse av rotråte i skogbruk
+
+Det kreves kompetansebevis for bekjempelse av rotråte i skogbruk etter denne paragrafen, eller autorisasjonsbevis for plantevernmidler etter [§ 8](forskrift/2015-05-06-455/§8), for å kjøpe og bruke biologiske preparater til bekjempelse av rotråte i skogbruk.
+
+For å ha rett til kompetansebevis for rotråtebekjempelse kreves det at personen
+
+1. har fylt 18 år,
+2. kan dokumentere et yrkesmessig behov for kompetansebevis, og
+3. har gjennomført kurs i bekjempelse av rotråte i skogbruk.
+
+Kompetansebeviset gis med gyldighet i inntil ti år fra tidspunktet for gjennomført kurs i bekjempelse av rotråte i skogbruk, og kan fornyes.
+
+Fornyelse av kompetansebevis krever ny gjennomføring av kurs i bekjempelse av rotråte i skogbruk, og det må dokumenteres et fortsatt yrkesmessig behov for kompetansebevis.
+
+> Tilføyd ved forskrift [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
+
 ### § 9. Myndigheten som utsteder og inndrar autorisasjonsbevis for plantevernmidler mv.
 
-Mattilsynet fatter enkeltvedtak om autorisasjonsbevis for plantevernmidler etter [§ 8](forskrift/2015-05-06-455/§8), tilleggsbevis for gnagermidler etter [§ 8a](forskrift/2015-05-06-455/§8a) og autorisasjon for gassingsprodukter etter [§ 8b](forskrift/2015-05-06-455/§8b) i denne forskriften.
+Mattilsynet fatter enkeltvedtak om autorisasjonsbevis for plantevernmidler etter [§ 8](forskrift/2015-05-06-455/§8), tilleggsbevis for gnagermidler etter [§ 8a](forskrift/2015-05-06-455/§8a), autorisasjon for gassingsprodukter etter [§ 8b](forskrift/2015-05-06-455/§8b) og kompetansebevis for bekjempelse av rotråte i skogbruk etter [§ 8c](forskrift/2015-05-06-455/§8c) i denne forskriften.
 
 Mattilsynet kan delegere myndighet til å holde eksamen og utstede autorisasjonsbevis for plantevernmidler, herunder å sørge for at det arrangeres autorisasjonskurs, til kommunen og statsforvalteren. Tilsvarende gjelder tilleggsbevis for gnagermidler.
 
-Mattilsynet ved hovedkontoret er klageinstans når vedtak om autorisasjonsbevis er truffet i henhold til første ledd.
+Mattilsynet kan delegere myndighet til å holde kurs og utstede kompetansebevis for bekjempelse av rotråte i skogbruk til andre offentlige eller private rettssubjekter. Kurset skal oppfylle de relevante kravene som følger av vedlegg 3 til denne forskriften og gi spesiell kompetanse om rotråtebekjempelse. Kursholdere skal ha relevant kompetanse på universitets- eller høyskolenivå, eller relevant kompetanse som er opparbeidet gjennom yrkespraksis.
 
-Mattilsynet kan fatte vedtak om inndragelse av autorisasjonsbevis.
+Mattilsynet hovedkontoret er klageinstans for vedtak om autorisasjon etter [§§ 8](forskrift/2015-05-06-455/§8) til [8c](forskrift/2015-05-06-455/§8c).
 
-> Endret ved forskrifter [17 sep 2018 nr. 1501](forskrift/2018-09-17-1501) (i kraft 15 okt 2018), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552).
+Mattilsynet kan fatte vedtak om inndragelse av autorisasjon som er gitt etter [§§ 8](forskrift/2015-05-06-455/§8) til [8c](forskrift/2015-05-06-455/§8c).
+
+> Endret ved forskrifter [17 sep 2018 nr. 1501](forskrift/2018-09-17-1501) (i kraft 15 okt 2018), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552), [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
 
 ## Kapittel IV. Krav til distributører, importører og produsenter
 
@@ -173,9 +191,11 @@ Ansvarshavende hos importør skal beherske norsk språk, ha tilstrekkelig faglig
 
 Importører, produsenter og grossister har plikt til å sørge for at plantevernmidler, med unntak av bruksferdige hobbypreparater, bare selges til registrerte forhandlere. Videre skal de sikre at all omsetning av gassingsprodukter med høy fareklassifisering er sporbar og at informasjonen oppbevares i minst 3 år.
 
-Forhandlere har plikt til å sørge for at yrkespreparater bare selges til personer som innehar gyldig autorisasjonsbevis. Videre skal de sikre at gassingsprodukter med høy fareklassifisering bare selges til personer med autorisasjon for gassingsprodukter. Forhandlere plikter også å oppbevare informasjon om hvem slike gassingsprodukter er solgt til i minst 3 år.
+Forhandlere har plikt til å sørge for at yrkespreparater bare selges til personer som innehar gyldig autorisasjonsbevis. Biologiske preparater til bekjempelse av rotråte i skogbruk kan likevel selges til personer som har kompetansebevis etter [§ 8c](forskrift/2015-05-06-455/§8c).
 
-> Endret ved forskrifter [7 april 2017 nr. 472](forskrift/2017-04-07-472), [22 mai 2018 nr. 746](forskrift/2018-05-22-746), [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552), [11 jan 2026 nr. 30](forskrift/2026-01-11-30).
+Forhandlere har plikt til å sørge for at gassingsprodukter med høy fareklassifisering bare selges til personer med autorisasjon for gassingsprodukter. Forhandlere plikter også å oppbevare informasjon om hvem slike gassingsprodukter er solgt til i minst 3 år.
+
+> Endret ved forskrifter [7 april 2017 nr. 472](forskrift/2017-04-07-472), [22 mai 2018 nr. 746](forskrift/2018-05-22-746), [3 juli 2024 nr. 1552](forskrift/2024-07-03-1552), [11 jan 2026 nr. 30](forskrift/2026-01-11-30), [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
 
 ### § 12. Krav om internkontroll
 
@@ -222,7 +242,7 @@ Mattilsynet kan gi nærmere bestemmelser om den praktiske gjennomføringen av fu
 
 Følgende frister og tidsintervaller gjelder for funksjonstest av spredeutstyr:
 
-1. Åkersprøyte, tåkesprøyte, jordbærbommer og spredeutstyr med total bomlengde på over tre meter, skal frem til 1. januar 2020 funksjonstestes minst hvert femte år, deretter minst hvert tredje år.
+1. Åkersprøyte, tåkesprøyte, jordbærbommer og spredeutstyr med total bomlengde på over tre meter, skal funksjonstestes minst hvert tredje år.
 2. Spredeutstyr i veksthus skal funksjonstestes minst hvert femte år.
 3. Spredeutstyr montert på luftfartøy eller tog skal funksjonstestes hvert år.
 4. Spredeutstyr som ikke er omtalt i bokstav a, b og c skal funksjonstestes før 1. januar 2021, deretter minst hvert femte år.
@@ -231,7 +251,7 @@ Ryggbåret og håndholdt spredeutstyr er unntatt krav til vanlig funksjonstest, 
 
 Spredeutstyr med krav til funksjonstest skal ha påsatt gyldig registreringsmerke, dette gjelder også fabrikknytt utstyr.
 
-> Endret ved forskrift [7 april 2017 nr. 472](forskrift/2017-04-07-472).
+> Endret ved forskrifter [7 april 2017 nr. 472](forskrift/2017-04-07-472). [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
 
 ## Kapittel VI. Særlige krav ved spredning fra luftfartøy
 
@@ -393,7 +413,7 @@ Godkjenning gis for et tidsrom på inntil femten år. Godkjenningen kan endres e
 
 ### § 28. Miljøavgift
 
-Produsenter og importører av plantevernmidler skal betale miljøavgift for plantevernmidler. Plikt til betale avgift gjelder ikke for organismer etter [§ 27](forskrift/2015-05-06-455/§27).
+Produsenter og importører av plantevernmidler skal betale miljøavgift for plantevernmidler. Plikt til å betale avgift gjelder ikke for organismer etter [§ 27](forskrift/2015-05-06-455/§27).
 
 Miljøavgiften fastsettes av Mattilsynet som en avgift pr. kg eller liter av det enkelte preparatet. Ved beregning av avgift for et preparat tas det utgangspunkt i en normert arealdose (NAD), dvs. den høyeste tillatte dosering for preparatets dominerende bruksområde. Basisavgiften er kr 2,50 for den mengde som kan brukes på ett dekar. Miljøavgift fastsettes som basisavgift multiplisert med faktor for avgiftsklassen, og divideres deretter på NAD.
 
@@ -409,7 +429,7 @@ Avgiftsklassene inneholder følgende preparatgrupper:
 6. avgiftsklasse 6, hobbypreparater som er konsentrerte; faktor 50
 7. avgiftsklasse 7, hobbypreparater som foreligger i bruksferdig stand; faktor 150.
 
-> Endret ved forskrift [23 okt 2017 nr. 1653](forskrift/2017-10-23-1653).
+> Endret ved forskrifter [23 okt 2017 nr. 1653](forskrift/2017-10-23-1653). [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
 
 ### § 28a. Risikoindikatorer
 
@@ -520,6 +540,30 @@ Generelle prinsipper for integrert plantevern, jf. § 26
 6. Yrkesbrukere bør begrense bruken av plantevernmidler og andre tiltak til det nødvendige, for eksempel ved reduserte doser, redusert antall behandlinger eller begrenset spredning, for å sikre akseptabel risiko i vegetasjonen og for å unngå økt risiko for resistensutvikling hos skadegjørere.
 7. Hvis risikoen for resistens mot et plantebeskyttelsetiltak er kjent og mengden av skadegjørere krever gjentatt spredning av plantevernmidler på kulturene, bør tilgjengelige antiresistensstrategier anvendes for å bevare produktenes effektivitet. Dette kan omfatte bruk av ulike plantevernmidler med forskjellig virkemåte.
 8. Yrkesbrukere bør, med utgangspunkt i sprøytejournal og overvåking av skadegjørere, kontrollere at de plantebeskyttelsestiltak som er brukt har virket.
+
+### Vedlegg 3
+
+Emner i opplæringen som nevnt i [§ 9 tredje ledd](forskrift/2015-05-06-455/§9/ledd/3)
+
+> Tilføyd ved forskrift [9 sep 2026 nr. 1779](forskrift/2026-09-09-1779) (i kraft 14 sep 2026).
+
+1. All relevant lovgivning om pesticider og deres bruk.
+2. Forekomsten av og risikoen ved ulovlige (forfalskede) plantevernmidler, og metoder for å identifisere slike produkter.
+3. Farer og risikoer forbundet med pesticider, og hvordan disse kan identifiseres og kontrolleres, særlig
+
+   1. risikoer for mennesker (operatører, beboere, andre tilstedeværende, personer som går inn i behandlede områder, og personer som håndterer eller inntar behandlede produkter) og hvordan faktorer som røyking forverrer disse risikoene,
+   2. symptomer på pesticidforgiftning, og førstehjelpstiltak,
+   3. risikoer for planter utenfor målgruppen, nytteinsekter, viltlevende dyr, biologisk mangfold og miljøet generelt.
+4. Basiskunnskap om strategier og teknikker for integrert bekjempelse av skadegjørere, prinsipper for økologisk landbruk, biologiske metoder for bekjempelse av skadegjørere, opplysninger og allmenne prinsipper og vekst- eller sektorspesifikke retningslinjer for integrert bekjempelse av skadegjørere.
+5. Innføring i sammenlignende vurdering på brukerplan for å hjelpe yrkesbrukere med å velge de pesticidene som har færrest bivirkninger på menneskers helse, organismer utenfor målgruppen og miljøet blant alle godkjente produkter for en gitt skadegjører i en gitt situasjon.
+6. Tiltak for å redusere risikoene for mennesker, organismer utenfor målgruppen og miljøet mest mulig: sikre arbeidsmetoder for lagring, håndtering og blanding av pesticider og for sluttbehandling av tom emballasje, andre forurensede materialer og overskudd av pesticider (herunder tankblandinger), enten i konsentrert eller fortynnet form, samt den anbefalte måten å begrense eksponering av operatører på (personlig verneutstyr).
+7. Risikobaserte metoder som tar hensyn til lokale variabler for vannekstraksjon, f.eks. klima, jord- og veksttyper og helning.
+8. Framgangsmåter for å klargjøre utstyr for spredning av pesticider, herunder kalibrering, og for anvendelse av utstyret med minst mulig risiko for brukeren, andre mennesker, dyr- og plantearter utenfor målgruppen, det biologiske mangfoldet og miljøet, herunder vannressurser.
+9. Bruk og vedlikehold av utstyr for spredning av pesticider, bestemte sprøyteteknikker (f.eks. lavdosert sprøyting og dyser med lav avdrift), målene med den tekniske kontrollen av spredere som er i bruk, og metoder for å bedre kvaliteten på sprøytingen. Særlige risikoer knyttet til bruken av håndholdt utstyr for spredning av pesticider eller ryggsprøyter, og relevante risikostyringstiltak.
+10. Nødtiltak for å verne menneskers helse og miljøet, herunder vannressurser, ved utilsiktet utslipp og forurensning og ekstreme værforhold som kan medføre risiko for utlekking av pesticider.
+11. Særlige hensyn i beskyttede områder opprettet i henhold til artikkel 6 og 7 i direktiv [2000/60/EF](eu/32000l0060).
+12. Helseovervåking og ordninger for rapportering av hendelser eller mistanke om hendelser.
+13. Registrering av all bruk av pesticider i samsvar med gjeldende lovgivning.
 
 ## Forordninger
 
