@@ -10,12 +10,12 @@ ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2026-09-01"
 last_change_in_force: null
-last_updated: null
-xml_hash: "cecb46bc68d4d55733d7aaf22a681a7b5dd6d589dedf28e6bb49a2acb4b21253"
+last_updated: "2026-09-16"
+xml_hash: "585da56ca921dbb64ce3add596d898dca8d2cbb410d03b51e832f311e482deea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-02T08:43:30.266827+00:00"
+retrieved_at: "2026-09-17T09:23:02.638945+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,7 +69,7 @@ Hvis en student mister sikkerhetsklarering, eller får nedsatt sikkerhetsklareri
 
 Hvis en student mister sin autorisasjon, eller får autorisasjonen nedsatt til et nivå under det som kreves for studiet, kan studenten bortvises inntil klareringsmyndigheten har tatt stilling til klareringsspørsmålet.
 
-### 2-8. Unntak fra registrering i register for informasjonsutveksling om reaksjoner
+### § 2-8. Unntak fra registrering i register for informasjonsutveksling om reaksjoner
 
 Plikten til å registrere vedtak om reaksjoner overfor studenter og søkere etter [universitets- og høyskoleloven § 12-11](lov/2024-03-08-9/§12-11) om register for informasjonsutveksling om reaksjoner gjelder ikke for vedtak om utestenging etter denne forskrift [§ 2-7](forskrift/2026-08-21-1658/§2-7). Plikten gjelder heller ikke for vedtak om utestenging på bakgrunn av skikkethetsvurdering, dersom vedtaket alene bygger på de særlige skikkethetskriteriene som fremgår av denne forskrift [§ 4-2 første ledd](forskrift/2026-08-21-1658/§4-2/ledd/1). Det samme gjelder vedtak om reaksjoner som gjelder studenter som er skjermet av sikkerhetshensyn.
 
@@ -141,7 +141,7 @@ Andre klager på enkeltvedtak knyttet til opptak til akkrediterte utdanninger be
 
 ### § 4-1. Skikkethetsvurdering ved Forsvarets høgskole
 
-Studenter ved Forsvarets høgskole skal vurderes om er skikket for yrket som offiser, befal eller spesialist i Forsvaret, jf. [universitetets- og høyskoleloven § 12-3](lov/2024-03-08-9/§12-3). Vurderingen skal være en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.
+Studenter ved Forsvarets høgskole skal vurderes om er skikket for yrket som offiser, befal eller spesialist i Forsvaret, jf. [universitets- og høyskoleloven § 12-3](lov/2024-03-08-9/§12-3). Vurderingen skal være en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.
 
 [Universitets- og høyskoleforskriften kapittel 7](forskrift/2024-06-28-1392/kap7) gjelder for skikkethetsvurderinger ved Forsvarets høgskole, med de tilpasninger som følger av kapittelet her.
 
@@ -197,7 +197,7 @@ Klagenemnda er vedtaksfør når lederen eller varamedlemmet for lederen og minst
 
 ### § 5-3. Klagenemndas oppgaver
 
-Klagenemnda for Forsvarets høgskole er klageinstans for enkeltvedtak truffet med hjemmel i følgende bestemmelser i [universitetets- og høyskoleloven](lov/2024-03-08-9):
+Klagenemnda for Forsvarets høgskole er klageinstans for enkeltvedtak truffet med hjemmel i følgende bestemmelser i [universitets- og høyskoleloven](lov/2024-03-08-9):
 
 1. [§ 12-1](lov/2024-03-08-9/§12-1) om inndragning av dokumenter, karantenetid, utestenging og annullering av opptak eller godkjenning som følge av bruk av falske dokumenter
 2. [§ 12-2](lov/2024-03-08-9/§12-2) om utestenging som følge av straffbare forhold
