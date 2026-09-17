@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1993-07-01"
-last_change_in_force: "2025-03-14"
+last_change_in_force: "2026-09-15"
 last_updated: null
-xml_hash: "4dec82ba818016210b758a377dbcf8e4b31af2d21fae9d995169e6accad37fc1"
+xml_hash: "8d1f5d98101f24699bf97de77f8a43e0fbf17d9cd92509267237f77136ffcd4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-17T09:23:02.638945+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -85,7 +85,9 @@ Som dopingmidler regnes følgende stoffer og disse stoffers salter og mulige ste
 | bolasteron | 7α,17α-dimetyltestosteron | 1605-89-6 |
 | boldenon, 1-dehydrotestosteron | androsta-1,4-dien-17β-ol-3-on | 846-48-0 |
 | boldion, androstadiendion, 1-dehydroandrostendion | androsta-1,4-dien-3,17-dion; 1,4-androstadien-3,17-dion | 897-06-3 |
+| BPC-157 (bepecin) |  | 137525-51-0 |
 | bromantan, bromontan, adamantylbromfenylamin | N-(4-bromofenyl)adamantan-2-amin | 87913-26-6 |
+| CJC-1295<br>(CJC-1295 DAC) | Nɛ30-maleimidopropionyl-[D-Ala2, Gln8, Ala15, Leu27]-Sermorelin-Lys30 | 446262-90-4 |
 | cyclazodon | (RS)-2-(syklopropylamino)-5-fenyl-1,3-oxazol-4-on | 14461-91-7 |
 | danazol | 17α-etynyl-17β-hydroksyandrost-4-eno[2,3-d]isoksazol | 17230-88-5 |
 | dehydroklormetyltestosteron, klorodehydrometyltestosteron | 4-klor-17β-hydroksy-17α-metylandrosta-1,4-dien-3-on | 2446-23-3 |
@@ -118,6 +120,8 @@ Som dopingmidler regnes følgende stoffer og disse stoffers salter og mulige ste
 | gonadotropiner (LH, hCG) |  |  |
 | heptaminol | (RS)-6-amino-2-metylheptan-2-ol | 372-66-7 |
 | 4-hydroksytestosteron, 4-OHT | 4,17β-dihydroksyandrost-4-en-3-on | 2141-17-5 |
+| Ibutamoren (MK-677) | 2-amino-2-metyl-N-[1-metylsulfonylspiro[2H-indol-3,4'-piperidin]-1'-yl)-1-okso-3-fenylmetoksypropan-2-yl]propanamid | 159634-47-6 |
+| Ipamorelin | (2S)-6-amino-2-[[(2R)-2-[[(2R)-2-[[(2S)-2-[(2-amino-2-metylpropanoyl)amino]-3-(4H-imidazol-4-yl)propanoyl]amino]-3-naftalen-2-ylpropanoyl]amino]-3-fenylpropanoyl]amino]heksanamid | 170851-70-4 |
 | isomethepten | N,6-dimetylhept-5-en-2-amin | 503-01-5 |
 | isoprenalin, isoproterenol | (RS)-4-[1-hydroksy-2-(isopropylamino)etyl]benzen-1,2-diol | 7683-59-2 |
 | kalusteron | 7β,17α-dimetyltestosteron | 17021-26-0 |
@@ -172,11 +176,14 @@ Som dopingmidler regnes følgende stoffer og disse stoffers salter og mulige ste
 | prostanozol, demetylstanozolol tetrahydropyran eter | 17α-demetylstanozolol 17β-tetrahydropyran eter | 1186001-41-1 |
 | RAD140, testolon | 2-klor-4-{[(1R,2S)-1-[5-(4-cyanofenyl)-1,3,4-oxadiazol-2-yl]-2-hydroksypropyl]amino}-3-metylbenzonitril | 1182367-47-0 |
 | rimiterol | 4-{(S)-hydroksy[(2R)-piperidin-2-yl]metyl}benzen-1,2-diol | 32953-89-2 |
+| Sermorelin<br>(GRF (1-29)) | Tyr-Ala-Asp-Ala-Ile-Phe-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg-NH2 | 86168-78-7 |
 | sibutramin | 1-(1-(4-klorfenyl)syklobutyl)-N,N,2,2-tetrametylpropan-1-amin | 106650-56-0 |
 | somatropin/hGh, hGH, HGH, GH |  |  |
 | stanozolol, androstanazol, stanazol | 17α-metyl-2'H-5α-androst-2-eno[3,2-c]pyrazol-17β-ol | 10418-03-8 |
 | stenbolon | 2-metyl-5α-androst-1-en-17β-ol-3-on | 5197-58-0 |
 | stryknin | stryknidin-10-on | 57-24-9 |
+| TB-500 | (2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-acetamido-4-metylpentanoyl]amino]-6-aminoheksanoyl]amino]-6-aminoheksanoyl]amino]-3-hydroksybutanoyl]amino]-4-karboksybutanoyl]amino]-3-hydroksybutanoyl]amino]-5-amino-5-oksopentansyre | 885340-08-9 |
+| Tesamorelin |  | 218949-48-5 |
 | testosteron | 17β-hydroksyandrost-4-en-3-on; androst-4-en-17β-ol-3-on | 58-22-0 |
 | 1-testosteron, δ1-dihydrotestosteron, dihydroboldenon | 17β-hydroksy-5α-androst-1-en-3-on | 65-06-5 |
 | tetrahydrogestrinon, THG | 18a-homo-pregna-4,9,11-trien-17β-ol-3-on; 17α-etyl-18-metylestra-4,9,11-trien-17β-ol-3-on | 618903-56-3 |
@@ -187,4 +194,4 @@ Som dopingmidler regnes følgende stoffer og disse stoffers salter og mulige ste
 | zeranol, α-zeralanol, zeralanol | (3S,7R)-7,14,16-trihydroksy-3-metyl-3,4,5,6,7,8,9,10,11,12-dekahydro-1H-2-benzoksasyclotetradekin-1-on | 26538-44-3 |
 | zilpaterol | (±)-trans-4,5,6,7-tetrahydro-7-hydroksy-6-(isopropylamino)-imidazo[4,5,1-jk]-[1]benzazepin-2(1H)-on | 119520-05-7 |
 
-> Endret ved [forskrifter 30 sep 1994 nr. 911](forskrift/1994-09-30-911), [17 nov 1994 nr. 1055](forskrift/1994-11-17-1055), [28 des 2000 nr. 1693](forskrift/2000-12-28-1693), [12 sep 2006 nr. 1064](forskrift/2006-09-12-1064) (i kraft 1 okt 2006), [11 okt 2022 nr. 1728](forskrift/2022-10-11-1728), [11 okt 2022 nr. 1781](forskrift/2022-10-11-1781), [25 jan 2023 nr. 90](forskrift/2023-01-25-90).
+> Endret ved [forskrifter 30 sep 1994 nr. 911](forskrift/1994-09-30-911), [17 nov 1994 nr. 1055](forskrift/1994-11-17-1055), [28 des 2000 nr. 1693](forskrift/2000-12-28-1693), [12 sep 2006 nr. 1064](forskrift/2006-09-12-1064) (i kraft 1 okt 2006), [11 okt 2022 nr. 1728](forskrift/2022-10-11-1728), [11 okt 2022 nr. 1781](forskrift/2022-10-11-1781), [25 jan 2023 nr. 90](forskrift/2023-01-25-90), [14 sep 2026 nr. 1794](forskrift/2026-09-14-1794) (i kraft 15 sep 2026).
