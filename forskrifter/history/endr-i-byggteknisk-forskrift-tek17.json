@@ -1,15 +1,25 @@
 {
-  "doc_id": "sf-20260612-1085",
+  "doc_id": "sf-20260911-1792",
   "events": [
     {
-      "commit": "444431f",
-      "date": "2026-06-18",
+      "commit": "02c0a52",
+      "date": "2026-09-17",
       "from_path": null,
-      "lines_added": 49,
+      "lines_added": 68,
       "lines_removed": 0,
       "subject": "add(forskrift): endr-i-byggteknisk-forskrift-tek17",
       "to_path": null,
       "type": "added"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 49,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
     }
   ],
   "schema_version": 1,

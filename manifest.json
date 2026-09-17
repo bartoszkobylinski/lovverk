@@ -28661,13 +28661,13 @@
     },
     "sf-19930430-0318": {
       "doc_type": "forskrift",
-      "embedding_hash": "4dec82ba818016210b758a377dbcf8e4b31af2d21fae9d995169e6accad37fc1",
+      "embedding_hash": "8d1f5d98101f24699bf97de77f8a43e0fbf17d9cd92509267237f77136ffcd4c",
       "embedding_input_hash": "37d150c27a6f5af1cfd62538a88808a3c3cc64be79952adbce751c7f45bb238b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-17",
+      "last_seen": "2026-09-17T09:23:02.638945Z",
       "markdown_path": "forskrifter/forskrift-om-hva-som-er-dopingmidler.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -28675,8 +28675,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om hva som skal anses som dopingmidler",
-      "total_changes": 3,
-      "xml_hash": "4dec82ba818016210b758a377dbcf8e4b31af2d21fae9d995169e6accad37fc1"
+      "total_changes": 4,
+      "xml_hash": "8d1f5d98101f24699bf97de77f8a43e0fbf17d9cd92509267237f77136ffcd4c"
     },
     "sf-19930514-0345": {
       "doc_type": "forskrift",
@@ -77700,13 +77700,13 @@
     },
     "sf-20170619-0840": {
       "doc_type": "forskrift",
-      "embedding_hash": "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83",
-      "embedding_input_hash": "980d039eb8bd44b2962da1baf3a9014ec007ffe4e030a136932892f8dbf4885b",
+      "embedding_hash": "08ef64f86e0481187c4ea6e6994cc06fbd1b73bc964f8b99230551317bfac605",
+      "embedding_input_hash": "cf5114e812b65b6f374551ce5fd136347fac604bf48763a6b188925fda6785e5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-09-17",
+      "last_seen": "2026-09-17T09:23:02.638945Z",
       "markdown_path": "forskrifter/byggteknisk-forskrift-tek17.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -77714,8 +77714,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
-      "total_changes": 8,
-      "xml_hash": "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83"
+      "total_changes": 9,
+      "xml_hash": "08ef64f86e0481187c4ea6e6994cc06fbd1b73bc964f8b99230551317bfac605"
     },
     "sf-20170619-0941": {
       "doc_type": "forskrift",
@@ -110893,13 +110893,13 @@
     },
     "sf-20260409-0579": {
       "doc_type": "forskrift",
-      "embedding_hash": "bb6b98fcdbbcf2fc5f08e9555bbb4f532ff4e923ec5d2db5bbfa1c628f34f769",
-      "embedding_input_hash": "ebc67cadc8ca01f25c8c21a46e0ba0d899e9725974390a5999dc4501121f31a6",
+      "embedding_hash": "749d7e0453fe09dda04dd93162be2606f4f57b3412c77f8c669464103db0926e",
+      "embedding_input_hash": "32207247ef00ca38879efdad6edb963b0219f8e24de8d7541c5e0774c8436cd8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-15",
-      "last_seen": "2026-09-15T09:22:15.191013Z",
+      "last_changed": "2026-09-17",
+      "last_seen": "2026-09-17T09:23:02.638945Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -110907,8 +110907,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 15,
-      "xml_hash": "bb6b98fcdbbcf2fc5f08e9555bbb4f532ff4e923ec5d2db5bbfa1c628f34f769"
+      "total_changes": 16,
+      "xml_hash": "749d7e0453fe09dda04dd93162be2606f4f57b3412c77f8c669464103db0926e"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -113211,13 +113211,13 @@
     },
     "sf-20260821-1658": {
       "doc_type": "forskrift",
-      "embedding_hash": "cecb46bc68d4d55733d7aaf22a681a7b5dd6d589dedf28e6bb49a2acb4b21253",
-      "embedding_input_hash": "02c1d1db11e6b6010e0a08f48774ec3b23022b6ec9457ea2c5a381d21658e778",
+      "embedding_hash": "585da56ca921dbb64ce3add596d898dca8d2cbb410d03b51e832f311e482deea",
+      "embedding_input_hash": "702ed5d4ae5bfe3ee19f7602ca477fe3902ca91425ec5fc5faec7256f807db97",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-02",
-      "last_seen": "2026-09-02T08:43:30.266827Z",
+      "last_changed": "2026-09-17",
+      "last_seen": "2026-09-17T09:23:02.638945Z",
       "markdown_path": "forskrifter/tilpasningsforskrift-for-fhs.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113225,8 +113225,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om unntak fra og tilpasninger til universitets- og høyskoleloven for Forsvarets høgskole (tilpasningsforskrift for FHS)",
-      "total_changes": 2,
-      "xml_hash": "cecb46bc68d4d55733d7aaf22a681a7b5dd6d589dedf28e6bb49a2acb4b21253"
+      "total_changes": 3,
+      "xml_hash": "585da56ca921dbb64ce3add596d898dca8d2cbb410d03b51e832f311e482deea"
     },
     "sf-20260821-1659": {
       "doc_type": "forskrift",
@@ -113512,8 +113512,27 @@
       "title": "Delegering av Kongens myndighet til å endre forskrift om Politihøgskolens virksomhet og tilpasning til universitets- og høyskoleloven for Politihøgskolen etter universitets- og høyskoleloven § 1-2 tredje ledd bokstav a",
       "total_changes": 1,
       "xml_hash": "4e82a7bac10355304ba5d9458a7c30cb5c6f1d4592ae6f57111bd0f1295ee6a6"
+    },
+    "sf-20260911-1792": {
+      "doc_type": "forskrift",
+      "embedding_hash": "351d248e53acea342926e475825c3cc637bd219186bd63330b4c324953debe42",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-17",
+      "last_seen": "2026-09-17T09:23:02.638945Z",
+      "markdown_path": "forskrifter/endr-i-byggteknisk-forskrift-tek17.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "endr-i-byggteknisk-forskrift-tek17",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
+      "total_changes": 2,
+      "xml_hash": "351d248e53acea342926e475825c3cc637bd219186bd63330b4c324953debe42"
     }
   },
-  "generated_at": "2026-09-16T09:15:00.988256Z",
+  "generated_at": "2026-09-17T09:23:02.638945Z",
   "version": 1
 }

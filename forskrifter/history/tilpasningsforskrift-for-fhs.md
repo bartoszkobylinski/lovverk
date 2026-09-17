@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tilpasningsforskrift-for-fhs — Change history
 
-_2 events; doc_id `sf-20260821-1658`._
+_3 events; doc_id `sf-20260821-1658`._
+
+## 2026-09-17 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): tilpasningsforskrift-for-fhs`
+Commit: `2951906`.
 
 ## 2026-09-02 — Content updated
 Lines: +4 -2.

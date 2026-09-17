@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-hva-som-er-dopingmidler — Change history
 
-_3 events; doc_id `sf-19930430-0318`._
+_4 events; doc_id `sf-19930430-0318`._
+
+## 2026-09-17 — Content updated
+Lines: +11 -4.
+Subject: `update(forskrift): forskrift-om-hva-som-er-dopingmidler`
+Commit: `7959f7e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
