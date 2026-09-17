@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2026-07-02"
-xml_hash: "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83"
+xml_hash: "08ef64f86e0481187c4ea6e6994cc06fbd1b73bc964f8b99230551317bfac605"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-09-17T09:23:02.638945+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,6 +88,8 @@ I forskriften menes med
 12. *rom for varig opphold:* rom for varig opphold i arbeids- og publikumsbygg er arbeidsrom og publikumsrom. Lagerrom, korridor, gang, garderobe, toalett, dusjrom og lignende er ikke rom for varig opphold. Rom for varig opphold i boenhet er stue og tilsvarende rom, kjøkken og soverom.
 13. *trinnfri:* flate som kan ha terskel eller nivåforskjell på maksimum 25 mm. Terskel eller nivåforskjell mellom 20 mm og 25 mm anses som trinnfri dersom den har en skråskåren kant som ikke er brattere enn 45 grader.
 14. *ytelse:* teknisk, bruks- eller miljømessig kvalitet, kapasitet eller egenskap ved byggverk, bygningsdel, installasjon eller utearealer. En ytelse er en tolking og konkretisering av funksjonskrav og er angitt kvantitativt eller kvalitativt.
+
+> **Endres** ved forskrift [11 sep 2026 nr. 1792](forskrift/2026-09-11-1792) (i kraft 1 okt 2026).
 
 ## Kapittel 2. Dokumentasjon for oppfyllelse av krav
 
@@ -264,7 +266,7 @@ En frittliggende bygning etter [plan- og bygningsloven § 29-4](lov/2008-06-27-7
 
 Bestemmelsen omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-2](forskrift/2017-06-19-840/§7-2) første ledd.
 
-> Endret ved forskrift [28 feb 2023 nr. 280](forskrift/2023-02-28-280) (i kraft 15 mars 2023).
+> Endret ved forskrift [28 feb 2023 nr. 280](forskrift/2023-02-28-280) (i kraft 15 mars 2023). **Endres** ved forskrift [11 sep 2026 nr. 1792](forskrift/2026-09-11-1792) (i kraft 1 okt 2026).
 
 ### § 7-3. Sikkerhet mot skred
 
@@ -289,7 +291,7 @@ For områder med fare for kvikkleireskred skal det fastsettes et tilsvarende sik
 
 Tredje ledd omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd. Tredje ledd omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.
 
-> Endret ved forskrift [25 aug 2022 nr. 1489](forskrift/2022-08-25-1489) (i kraft 1 sep 2022).
+> Endret ved forskrift [25 aug 2022 nr. 1489](forskrift/2022-08-25-1489) (i kraft 1 sep 2022). **Endres** ved forskrift [11 sep 2026 nr. 1792](forskrift/2026-09-11-1792) (i kraft 1 okt 2026).
 
 ### § 7-4. Unntaksbestemmelse for utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred
 
