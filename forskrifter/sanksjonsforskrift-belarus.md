@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-09-08"
 last_change_in_force: "2025-02-17"
 last_updated: "2026-01-09"
-xml_hash: "0486cecee0061ae0460b1fb3c6b727327fa36cc0184468f458d87788cbc07582"
+xml_hash: "b9ded2bb5f0cc1f77ed31251491b1cf65f482bb9f3cef404c9f3676f4f482573"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-09-19T08:44:52.874882+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Forskriften gjelder på Svalbard og Jan Mayen.
 
 (15) Artikkel 1m skal forstås som «Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene fastsatt i denne forordningen».
 
-> Endret ved forskrifter [27 april 2012 nr. 387](forskrift/2012-04-27-387), [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [18 nov 2020 nr. 2640](forskrift/2020-11-18-2640), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [24 mai 2022 nr. 900](forskrift/2022-05-24-900), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530), [30 okt 2024 nr. 2639](forskrift/2024-10-30-2639), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 feb 2025 nr. 232](forskrift/2025-02-17-232).
+> Endret ved forskrifter [27 april 2012 nr. 387](forskrift/2012-04-27-387), [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [18 nov 2020 nr. 2640](forskrift/2020-11-18-2640), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [24 mai 2022 nr. 900](forskrift/2022-05-24-900), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530), [30 okt 2024 nr. 2639](forskrift/2024-10-30-2639), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 feb 2025 nr. 232](forskrift/2025-02-17-232). **Endres** ved forskrift [14 sep 2026 nr. 1810](forskrift/2026-09-14-1810) (i kraft 1 okt 2026).
 
 ## § 3. Straff
 
@@ -96,7 +96,7 @@ Denne forskrift trer i kraft straks.
 
 ## Vedlegg A:
 
-> Vedlegg A tilføyd ved forskrift [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), endret ved forskrifter [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [14 jan 2022 nr. 89](forskrift/2022-01-14-89), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530).
+> Vedlegg A tilføyd ved forskrift [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), endret ved forskrifter [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [14 jan 2022 nr. 89](forskrift/2022-01-14-89), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530). **Endres** ved forskrift [14 sep 2026 nr. 1810](forskrift/2026-09-14-1810) (i kraft 1 okt 2026).
 
 ### RÅDSFORORDNING (EF) nr. 765/2006
 
