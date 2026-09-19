@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5109 current documents_
+_5110 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1293,6 +1293,7 @@ _5109 current documents_
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)
 - [endr-i-reseptformidlerforskriften](endr-i-reseptformidlerforskriften.md) — Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)
 - [endr-i-rettsgebyrforskriften](endr-i-rettsgebyrforskriften.md) — Forskrift om endring i rettsgebyrforskriften
+- [endr-i-sanksjonsforskrift-belarus](endr-i-sanksjonsforskrift-belarus.md) — Forskrift om endring i forskrift om restriktive tiltak i lys av situasjonen i Belarus og Belarus’ medvirkning i Russlands aggresjon mot Ukraina
 - [endr-i-spesialistforskriften](endr-i-spesialistforskriften.md) — Forskrift om endring i forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)
 - [endr-i-stortingets-forretningsorden](endr-i-stortingets-forretningsorden.md) — Endringer i Stortingets forretningsorden
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
@@ -3497,7 +3498,7 @@ _5109 current documents_
 - [forskrift-om-skogfond-o-a](forskrift-om-skogfond-o-a.md) — Forskrift om skogfond o.a.
 - [forskrift-om-skogfrø-og-skogplanter](forskrift-om-skogfrø-og-skogplanter.md) — Forskrift om skogfrø og skogplanter.
 - [forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2](forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2.md) — Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole, Karasjok
-- [forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2](forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2.md) — Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole og reindriftsskole, Kautokeino
+- [forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2026](forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2026.md) — Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole og reindriftsskole, Kautokeino
 - [forskrift-om-skolepenger-i-utlandet](forskrift-om-skolepenger-i-utlandet.md) — Forskrift om tilskudd til dekning av skolepenger til elever ved utenlandske eller internasjonale videregående skoler.
 - [forskrift-om-skoleregler-for-samisk-videregående-skole-karasjok-og-samisk-videregående-skole-og-reindriftsskole-kautokeino](forskrift-om-skoleregler-for-samisk-videregående-skole-karasjok-og-samisk-videregående-skole-og-reindriftsskole-kautokeino.md) — Forskrift om skoleregler for Samisk videregående skole, Karasjok og Samisk videregående skole og reindriftsskole, Kautokeino
 - [forskrift-om-skredmjelt-som-prioritert-art](forskrift-om-skredmjelt-som-prioritert-art.md) — Forskrift om skredmjelt (Oxytropis campestris ssp. scotica) som prioritert art

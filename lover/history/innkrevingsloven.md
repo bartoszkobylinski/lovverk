@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # innkrevingsloven — Change history
 
-_6 events; doc_id `nl-20250425-012`._
+_7 events; doc_id `nl-20250425-012`._
+
+## 2026-09-19 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): innkrevingsloven`
+Commit: `149962b`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

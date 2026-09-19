@@ -2,6 +2,16 @@
   "doc_id": "sf-20240306-0538",
   "events": [
     {
+      "commit": "74f8de1",
+      "date": "2026-09-19",
+      "from_path": null,
+      "lines_added": 17,
+      "lines_removed": 10,
+      "subject": "update(forskrift): eu-gjødselvareforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "21d0ba0",
       "date": "2026-09-14",
       "from_path": null,

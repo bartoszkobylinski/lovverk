@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260914-1810",
+  "events": [
+    {
+      "commit": "b480148",
+      "date": "2026-09-19",
+      "from_path": null,
+      "lines_added": 506,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-sanksjonsforskrift-belarus",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-sanksjonsforskrift-belarus"
+}

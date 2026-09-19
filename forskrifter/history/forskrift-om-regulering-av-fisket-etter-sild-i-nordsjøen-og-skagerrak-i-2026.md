@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026 — Change history
 
-_10 events; doc_id `sf-20251219-2828`._
+_11 events; doc_id `sf-20251219-2828`._
+
+## 2026-09-19 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026`
+Commit: `c57505e`.
 
 ## 2026-09-16 — Content updated
 Lines: +5 -5.

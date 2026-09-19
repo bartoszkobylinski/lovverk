@@ -3450,13 +3450,13 @@
     },
     "nl-19810522-025": {
       "doc_type": "lov",
-      "embedding_hash": "91445247e8071fb3fc960b4c1ece19702b25202a64a092701f6eebbcfa4bf57b",
-      "embedding_input_hash": "db71440a82cf55aad975cad7e445dee68932930d1a2cdca6f79557e0f7ad8a6c",
+      "embedding_hash": "72dc63d69b0f993546bf98f8f1f8d7a9cf61e2a0c2ce33542a3b68f4c0b1a365",
+      "embedding_input_hash": "e7cce515a1ff0cf7a724a2d8550bb920d253b0525341b2bcc97802ba38d11053",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-15",
-      "last_seen": "2026-09-15T09:22:15.191013Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "lover/straffeprosessloven-strpl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3464,8 +3464,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettergangsmåten i straffesaker (Straffeprosessloven)",
-      "total_changes": 9,
-      "xml_hash": "91445247e8071fb3fc960b4c1ece19702b25202a64a092701f6eebbcfa4bf57b"
+      "total_changes": 10,
+      "xml_hash": "72dc63d69b0f993546bf98f8f1f8d7a9cf61e2a0c2ce33542a3b68f4c0b1a365"
     },
     "nl-19811218-090": {
       "doc_type": "lov",
@@ -4481,13 +4481,13 @@
     },
     "nl-19920626-086": {
       "doc_type": "lov",
-      "embedding_hash": "9e54c29623a569343f6541461dce95f3530f522c056c7f4f14f27afe24ff1e2b",
-      "embedding_input_hash": "230e4ecd97ca136ea254e7a426add2de0cedcd23a36af46c963fc0618b6eef37",
+      "embedding_hash": "4c96468d3b0e20b5c081cfdfd42f9d30f69ac55ce46fcdb3402a3d863895f98b",
+      "embedding_input_hash": "0ebcb734b50da15180b9c01e9b60d8a1f0e787aa41618acf86c162afd6bd04fb",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-07",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "lover/tvangsfullbyrdelsesloven-tvangsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -4495,8 +4495,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)",
-      "total_changes": 8,
-      "xml_hash": "9e54c29623a569343f6541461dce95f3530f522c056c7f4f14f27afe24ff1e2b"
+      "total_changes": 9,
+      "xml_hash": "4c96468d3b0e20b5c081cfdfd42f9d30f69ac55ce46fcdb3402a3d863895f98b"
     },
     "nl-19920626-087": {
       "doc_type": "lov",
@@ -13416,13 +13416,13 @@
     },
     "nl-20250425-012": {
       "doc_type": "lov",
-      "embedding_hash": "28e63801d08f96de9edf47e357eca938b561777100c056069ddac9a4f8d23258",
-      "embedding_input_hash": "a841bb775bb5ecad915db1f6a69622aec7e104609cbb03952d0a5570aaa4ab72",
+      "embedding_hash": "08b3b734bbe1eefd83972f1f4966a475abaefae2027621e8499cbbfd4e31bed3",
+      "embedding_input_hash": "2eab8221af90421c533d2ee24398b42b75243e49774106fc05ca419f9943f857",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "lover/innkrevingsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13430,8 +13430,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om innkreving av statlige krav mv. (innkrevingsloven)",
-      "total_changes": 6,
-      "xml_hash": "28e63801d08f96de9edf47e357eca938b561777100c056069ddac9a4f8d23258"
+      "total_changes": 7,
+      "xml_hash": "08b3b734bbe1eefd83972f1f4966a475abaefae2027621e8499cbbfd4e31bed3"
     },
     "nl-20250527-018": {
       "doc_type": "lov",
@@ -51746,13 +51746,13 @@
     },
     "sf-20060908-1041": {
       "doc_type": "forskrift",
-      "embedding_hash": "0486cecee0061ae0460b1fb3c6b727327fa36cc0184468f458d87788cbc07582",
-      "embedding_input_hash": "a067b83fd7c741d8383570605a8707fd3d3933312530f52dd98b984c85d2f5bf",
+      "embedding_hash": "b9ded2bb5f0cc1f77ed31251491b1cf65f482bb9f3cef404c9f3676f4f482573",
+      "embedding_input_hash": "02f1635d59033262431b1f6b2088452eb3e2b55c47b750b82bfcebb584b5d883",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "forskrifter/sanksjonsforskrift-belarus.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -51760,8 +51760,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak i lys av situasjonen i Belarus og Belarus' medvirkning i Russlands aggresjon mot Ukraina",
-      "total_changes": 5,
-      "xml_hash": "0486cecee0061ae0460b1fb3c6b727327fa36cc0184468f458d87788cbc07582"
+      "total_changes": 6,
+      "xml_hash": "b9ded2bb5f0cc1f77ed31251491b1cf65f482bb9f3cef404c9f3676f4f482573"
     },
     "sf-20060915-1066": {
       "doc_type": "forskrift",
@@ -97631,13 +97631,13 @@
     },
     "sf-20230620-1073": {
       "doc_type": "forskrift",
-      "embedding_hash": "9efadc2277c94fa3fb8c55e3e8213a140593c1ff9f58ba31c53be895074f0474",
-      "embedding_input_hash": "94e1fb813806aead3a6eb3a4b5c34ee7c2cebbafed238e787ba67a35055f8307",
+      "embedding_hash": "8fb5f098374ebe3d895d8df849ee226c2de759d5c51908b5574028cc5ba3d88c",
+      "embedding_input_hash": "fecd836e4233205af5e83ba5d8174871a32774df5f9134a1f16e3467a197c3ad",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-01",
-      "last_seen": "2026-09-01T09:21:21.266839Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "forskrifter/forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -97645,8 +97645,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi",
-      "total_changes": 5,
-      "xml_hash": "9efadc2277c94fa3fb8c55e3e8213a140593c1ff9f58ba31c53be895074f0474"
+      "total_changes": 6,
+      "xml_hash": "8fb5f098374ebe3d895d8df849ee226c2de759d5c51908b5574028cc5ba3d88c"
     },
     "sf-20230621-1007": {
       "doc_type": "forskrift",
@@ -99797,13 +99797,13 @@
     },
     "sf-20240306-0538": {
       "doc_type": "forskrift",
-      "embedding_hash": "c4215a6790e0365c67a964b42cfea644ab487e97d35d273c54c4fc620b01672f",
-      "embedding_input_hash": "a449e3a01e2a75fda4fe1ed14e588764cb0b28987e2bcde109940f39a67e8192",
+      "embedding_hash": "8d809ed048d6696ac75d2b9fe21614d1426810cfdca35b6e81f92d600dd30d54",
+      "embedding_input_hash": "ebde6e0a0bc40132759f7008833ca16da68b71897ee8de27f0c42b9994aaf8e6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "forskrifter/eu-gjødselvareforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -99811,8 +99811,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om EU-gjødselvarer (EU-gjødselvareforskriften)",
-      "total_changes": 6,
-      "xml_hash": "c4215a6790e0365c67a964b42cfea644ab487e97d35d273c54c4fc620b01672f"
+      "total_changes": 7,
+      "xml_hash": "8d809ed048d6696ac75d2b9fe21614d1426810cfdca35b6e81f92d600dd30d54"
     },
     "sf-20240313-0448": {
       "doc_type": "forskrift",
@@ -109354,13 +109354,13 @@
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
-      "embedding_hash": "13a6d02ed2427188ecf162673d4478d86dc9e3f62fb5549bd2d4b8cef35622cd",
-      "embedding_input_hash": "02b6847c6e98e33ca70a4a790740e3b2cc785161388a13cc0837cc6da4f8510e",
+      "embedding_hash": "069d310980077de9c06a65c689dcb98636bc1073a1123d0068ee97f7f2f30d16",
+      "embedding_input_hash": "55f8b15d3db90dedd7e9cbe4470ed5e6e17217e5f88a1ce07ce03cf0a065ae65",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-16",
-      "last_seen": "2026-09-16T09:15:00.988256Z",
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109368,8 +109368,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 10,
-      "xml_hash": "13a6d02ed2427188ecf162673d4478d86dc9e3f62fb5549bd2d4b8cef35622cd"
+      "total_changes": 11,
+      "xml_hash": "069d310980077de9c06a65c689dcb98636bc1073a1123d0068ee97f7f2f30d16"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -111634,21 +111634,21 @@
     },
     "sf-20260609-1072": {
       "doc_type": "forskrift",
-      "embedding_hash": "1cabba8f6d17e17aa99b398ebedf0df9aea407c017292d37b6d1ffe9044d4354",
-      "embedding_input_hash": "e1e380c3189daef4530d38fe1de67adad76a9e91c251a8de8c2fa75c73e7abe4",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-06-16",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole og reindriftsskole, Kautokeino",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "1cabba8f6d17e17aa99b398ebedf0df9aea407c017292d37b6d1ffe9044d4354"
     },
     "sf-20260609-1387": {
@@ -111669,6 +111669,25 @@
       "title": "Forskrift om opptak, studier og eksamen ved MF vitenskapelig høyskole (MF)",
       "total_changes": 1,
       "xml_hash": "f25572a00dd3cfc1f93060ccdeeba605c389751b08ad3837d6d1332d5620a0f3"
+    },
+    "sf-20260609-1808": {
+      "doc_type": "forskrift",
+      "embedding_hash": "96d4b3e4ee765584f54ae9cb2fc0a7b20c943fc23784a19440b9b3a81c1a0a01",
+      "embedding_input_hash": "d612a002504cf81536529acea208e6872136a7612a49af7ffadad86588ade069",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
+      "markdown_path": "forskrifter/forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2026.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole og reindriftsskole, Kautokeino",
+      "total_changes": 1,
+      "xml_hash": "96d4b3e4ee765584f54ae9cb2fc0a7b20c943fc23784a19440b9b3a81c1a0a01"
     },
     "sf-20260610-1052": {
       "doc_type": "forskrift",
@@ -113531,8 +113550,27 @@
       "title": "Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
       "total_changes": 2,
       "xml_hash": "351d248e53acea342926e475825c3cc637bd219186bd63330b4c324953debe42"
+    },
+    "sf-20260914-1810": {
+      "doc_type": "forskrift",
+      "embedding_hash": "f816ddfef5cc3cf7a8c8ece3a36fc4ebf054143aae78e54954631d2a39ab8bd7",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-19",
+      "last_seen": "2026-09-19T08:44:52.874882Z",
+      "markdown_path": "forskrifter/endr-i-sanksjonsforskrift-belarus.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "endr-i-sanksjonsforskrift-belarus",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om restriktive tiltak i lys av situasjonen i Belarus og Belarus’ medvirkning i Russlands aggresjon mot Ukraina",
+      "total_changes": 1,
+      "xml_hash": "f816ddfef5cc3cf7a8c8ece3a36fc4ebf054143aae78e54954631d2a39ab8bd7"
     }
   },
-  "generated_at": "2026-09-17T09:23:02.638945Z",
+  "generated_at": "2026-09-19T08:44:52.874882Z",
   "version": 1
 }

@@ -2,6 +2,16 @@
   "doc_id": "sf-20230620-1073",
   "events": [
     {
+      "commit": "db0132a",
+      "date": "2026-09-19",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 11,
+      "subject": "update(forskrift): forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "67961db",
       "date": "2026-09-01",
       "from_path": null,

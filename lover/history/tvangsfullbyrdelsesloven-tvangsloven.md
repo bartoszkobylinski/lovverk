@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tvangsfullbyrdelsesloven-tvangsloven — Change history
 
-_8 events; doc_id `nl-19920626-086`._
+_9 events; doc_id `nl-19920626-086`._
+
+## 2026-09-19 — Content updated
+Lines: +8 -6.
+Subject: `update(lov): tvangsfullbyrdelsesloven-tvangsloven`
+Commit: `9482a63`.
 
 ## 2026-07-07 — Content updated
 Lines: +13 -3.
