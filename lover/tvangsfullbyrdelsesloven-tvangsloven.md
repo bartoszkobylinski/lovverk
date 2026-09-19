@@ -9,20 +9,20 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1993-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-18"
 last_updated: "2023-12-05"
-xml_hash: "9e54c29623a569343f6541461dce95f3530f522c056c7f4f14f27afe24ff1e2b"
+xml_hash: "4c96468d3b0e20b5c081cfdfd42f9d30f69ac55ce46fcdb3402a3d863895f98b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-19T08:44:52.874882+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)
 
-**Lovdatas anmerkning:** Loven ble endret ved [innkrevingsloven](lov/2025-04-25-12) 1. januar 2026, men merk at lovendringene om utlegg kommer til gradvis anvendelse i saker om utlegg iflg. [res. 10. juni 2025 nr. 967](forskrift/2025-06-10-967) og [delegeringsvedtak 10 juni 2025 nr. 968](forskrift/2025-06-10-968). Se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene.
+**Lovdatas anmerkning:** Loven ble endret ved [innkrevingsloven](lov/2025-04-25-12) 1. januar 2026, men merk at lovendringene om utlegg kommer til gradvis anvendelse i saker om utlegg iflg. [res. 10. juni 2025 nr. 967](forskrift/2025-06-10-967) og [delegeringsvedtak 10 juni 2025 nr. 968](forskrift/2025-06-10-968). For § 7-9 sjette ledd se vedtak om ikrafttredelse ved [res. 18 sep 2026 nr. 1813](forskrift/2026-09-18-1813). Se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene.
 
 ## Første del. Innledning
 
@@ -897,11 +897,13 @@ Før utlegg blir tatt i et formuesgode, skal namsfogden i rimelig utstrekning un
 
 Dekning ved utleggstrekk kan ikke besluttes etter et alminnelig tvangsgrunnlag før grunnlaget er rettskraftig.
 
-Kongen kan i forskrift gi bestemmelser om valg av utleggsgjenstand.
+Kongen kan i forskrift gi bestemmelser om valg av utleggsgjenstand.[^1]
 
 Det føres namsbok når det besluttes utleggspant eller dekning ved utleggstrekk, eller saken avsluttes med intet til utlegg, eller det fastsettes endringer i slike beslutninger.
 
-> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, sjette ledd deretter ikraftsatt 18 sep 2026 iflg. [res. 18 sep 2026 nr. 1813](forskrift/2026-09-18-1813), se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
+1 Endringen i § 7-9 sjette ledd ved [innkrevingsloven § 41](lov/2025-04-25-12/§41) ble først ikraftsatt 1. januar 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, og deretter 18. september 2026 iflg. [res. 18 sep 2026 nr. 1813](forskrift/2026-09-18-1813).
 
 ### § 7-10. Gjentatt foreleggelse
 
