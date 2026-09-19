@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2023-06-20"
-last_change_in_force: "2026-09-01"
+last_change_in_force: "2026-09-15"
 last_updated: null
-xml_hash: "9efadc2277c94fa3fb8c55e3e8213a140593c1ff9f58ba31c53be895074f0474"
+xml_hash: "8fb5f098374ebe3d895d8df849ee226c2de759d5c51908b5574028cc5ba3d88c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-01T09:21:21.266839+00:00"
+retrieved_at: "2026-09-19T08:44:52.874882+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -139,15 +139,9 @@ For deltakere i IPS ung som er i opplæring eller utdanning, kan tiltaket forlen
 
 > Endret ved forskrift [16 aug 2026 nr. 1636](forskrift/2026-08-16-1636) (i kraft 1 sep 2026).
 
-### § 3-6. Forsøk med individuell jobbstøtte til unge under 30 år
+### § 3-6. (Opphevet)
 
-Individuell jobbstøtte til unge (IPS ung) kan tilbys personer mellom 16 år og 30 år.
-
-Bestemmelsene i [§ 3-1](forskrift/2023-06-20-1073/§3-1) til [§ 3-5](forskrift/2023-06-20-1073/§3-5) gjelder med de presiseringer som følger av denne bestemmelsen.
-
-IPS ung kan også tilbys unge med sammensatte psykiske problemer eller rusutfordringer. Oppfølgingen gis i henhold til [§ 3-2](forskrift/2023-06-20-1073/§3-2).
-
-For personer som deltar i opplæring eller utdanning, kan tiltaket forlenges med inntil ett år, slik at samlet varighet kan være inntil to år, eller fire år for personer med nedsatt arbeidsevne.
+> Opphevet ved forskrift [15 sep 2026 nr. 1811](forskrift/2026-09-15-1811).
 
 ## Kapittel 4. Ungdomsgaranti
 
