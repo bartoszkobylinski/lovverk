@@ -10,12 +10,12 @@ ministry:
   - "Finansdepartementet"
 date_in_force: "2026-01-01"
 last_change_in_force: "2026-07-01"
-last_updated: "2025-10-02"
-xml_hash: "28e63801d08f96de9edf47e357eca938b561777100c056069ddac9a4f8d23258"
+last_updated: "2026-09-18"
+xml_hash: "08b3b734bbe1eefd83972f1f4966a475abaefae2027621e8499cbbfd4e31bed3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-19T08:44:52.874882+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -395,7 +395,7 @@ Innkrevingsmyndigheten gjennomfører utleggstrekk etablert av namsfogdene og utl
 
 (3) Kongen kan gi overgangsbestemmelser.[^3]
 
-1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
+1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967). Fra 18. september 2026 for endringen i [innkrevingsloven § 41](lov/2025-04-25-12/§41) av [tvangsfullbyrdelsesloven § 7-9](lov/1992-06-26-86/§7-9) sjette ledd iflg. [res. 18 sep 2026 nr. 1813](forskrift/2026-09-18-1813).
 Fra 1. januar 2027 for [innkrevingsloven § 21](lov/2025-04-25-12/§21) iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
 
 2 Se [forskrift 12. desember 2025 nr. 2508 om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)](forskrift/2025-12-12-2508).
@@ -408,7 +408,7 @@ Fra den tid[^1] Kongen fastsetter, gjøres følgende endringer i [lov 26. juni 1
 
 > Endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124).
 
-1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
+1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967). Fra 18. september 2026 for endringen av [tvangsfullbyrdelsesloven § 7-9](lov/1992-06-26-86/§7-9) sjette ledd iflg. [res. 18 sep 2026 nr. 1813](forskrift/2026-09-18-1813)
 
 ### § 42. Endringer i andre lover
 
