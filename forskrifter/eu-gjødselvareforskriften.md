@@ -13,13 +13,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2024-04-03"
-last_change_in_force: "2025-08-11"
+last_change_in_force: "2026-09-11"
 last_updated: null
-xml_hash: "c4215a6790e0365c67a964b42cfea644ab487e97d35d273c54c4fc620b01672f"
+xml_hash: "8d809ed048d6696ac75d2b9fe21614d1426810cfdca35b6e81f92d600dd30d54"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-09-19T08:44:52.874882+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,9 +34,9 @@ Ved konflikt mellom forordningens bestemmelser og denne bestemmelsen, går allti
 
 ## § 2. Gjennomføring av forordning (EU) 2019/1009 om omsetning av EU-gjødselvarer
 
-[EØS-avtalens vedlegg II kapittel XIV nr. 1](avtale/avt-1992-05-02-1-v2/kapXIV/nummer/1) (forordning [(EU) 2019/1009](eu/32019r1009) som endret ved forordning [(EU) 2021/1768](eu/32021r1768), forordning [(EU) 2021/2086](eu/32021r2086), forordning [(EU) 2021/2087](eu/32021r2087), forordning [(EU) 2021/2088](eu/32021r2088), forordning [(EU) 2022/1171](eu/32022r1171), forordning [(EU) 2022/1519](eu/32022r1519), forordning [(EU) 2023/409](eu/32023r0409), forordning [(EU) 2024/1682](eu/32024r1682), forordning [(EU) 2024/2770](eu/32024r2770), forordning [(EU) 2024/2786](eu/32024r2786), forordning [(EU) 2024/2787](eu/32024r2787), forordning [(EU) 2024/2788](eu/32024r2788) og forordning [(EU) 2024/2790](eu/32024r2790)), om omsetning av EU gjødselvarer og om endringer i forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003)) gjelder som forskrift med de tilpasninger som følger av [vedlegg II kapittel XIV](avtale/avt-1992-05-02-1-v2/kapXIV) nr. 1, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg II kapittel XIV nr. 1](avtale/avt-1992-05-02-1-v2/kapXIV/nummer/1) (forordning [(EU) 2019/1009](eu/32019r1009) som endret ved forordning [(EU) 2021/1768](eu/32021r1768), forordning [(EU) 2021/2086](eu/32021r2086), forordning [(EU) 2021/2087](eu/32021r2087), forordning [(EU) 2021/2088](eu/32021r2088), forordning [(EU) 2022/1171](eu/32022r1171), forordning [(EU) 2022/1519](eu/32022r1519), forordning [(EU) 2023/409](eu/32023r0409), forordning [(EU) 2024/1682](eu/32024r1682), forordning [(EU) 2024/2516](eu/32024r2516), forordning [(EU) 2024/2770](eu/32024r2770), forordning [(EU) 2024/2786](eu/32024r2786), forordning [(EU) 2024/2787](eu/32024r2787), forordning [(EU) 2024/2788](eu/32024r2788), forordning [(EU) 2024/2790](eu/32024r2790) og forordning [(EU) 2025/1421](eu/32025r1421)), om omsetning av EU gjødselvarer og om endringer i forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003)) gjelder som forskrift med de tilpasninger som følger av [vedlegg II kapittel XIV](avtale/avt-1992-05-02-1-v2/kapXIV) nr. 1, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [9 des 2024 nr. 3048](forskrift/2024-12-09-3048), [11 aug 2025 nr. 1621](forskrift/2025-08-11-1621). **Endres** ved forskrift [10 feb 2026 nr. 232](forskrift/2026-02-10-232) (i kraft 1 mai 2027).
+> Endret ved forskrifter [9 des 2024 nr. 3048](forskrift/2024-12-09-3048), [11 aug 2025 nr. 1621](forskrift/2025-08-11-1621), [11 sep 2026 nr. 1809](forskrift/2026-09-11-1809). **Endres** ved forskrift [10 feb 2026 nr. 232](forskrift/2026-02-10-232) (i kraft 1 mai 2027).
 
 ## § 3. Forordning som utfyller forordning (EU) 2019/1009
 
@@ -147,9 +147,9 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 ### Konsolidert forordning [(EU) 2019/1009](eu/32019r1009) om omsetning av EU-gjødselvarer
 
-> Endret ved forskrifter [9 des 2024 nr. 3048](forskrift/2024-12-09-3048), [11 aug 2025 nr. 1621](forskrift/2025-08-11-1621). **Endres** ved forskrift [10 feb 2026 nr. 232](forskrift/2026-02-10-232) (i kraft 1 mai 2027).
+> Endret ved forskrifter [9 des 2024 nr. 3048](forskrift/2024-12-09-3048), [11 aug 2025 nr. 1621](forskrift/2025-08-11-1621), [11 sep 2026 nr. 1809](forskrift/2026-09-11-1809). **Endres** ved forskrift [10 feb 2026 nr. 232](forskrift/2026-02-10-232) (i kraft 1 mai 2027).
 
-Nedenfor gjengis til informasjon [EØS-avtalens vedlegg II kapittel XIV nr. 1](avtale/avt-1992-05-02-1-v2/kapXIV/nummer/1) (forordning [(EU) 2019/1009](eu/32019r1009) som endret ved forordning [(EU) 2021/1768](eu/32021r1768), forordning [(EU) 2021/2086](eu/32021r2086), forordning [(EU) 2021/2087](eu/32021r2087), forordning [(EU) 2021/2088](eu/32021r2088), forordning [(EU) 2022/1171](eu/32022r1171), forordning [(EU) 2022/1519](eu/32022r1519), forordning [(EU) 2023/409](eu/32023r0409), forordning [(EU) 2024/1682](eu/32024r1682), forordning [(EU) 2024/2770](eu/32024r2770), forordning [(EU) 2024/2786](eu/32024r2786), forordning [(EU) 2024/2787](eu/32024r2787), forordning [(EU) 2024/2788](eu/32024r2788) og forordning [(EU) 2024/2790](eu/32024r2790), om omsetning av EU gjødselvarer og om endringer i forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003)) gjelder som forskrift med de tilpasninger som følger av [vedlegg II kapittel XIV](avtale/avt-1992-05-02-1-v2/kapXIV) nr. 1, protokoll 1 til avtalen og avtalen for øvrig.
+Nedenfor gjengis til informasjon [EØS-avtalens vedlegg II kapittel XIV nr. 1](avtale/avt-1992-05-02-1-v2/kapXIV/nummer/1) (forordning [(EU) 2019/1009](eu/32019r1009) som endret ved forordning [(EU) 2021/1768](eu/32021r1768), forordning [(EU) 2021/2086](eu/32021r2086), forordning [(EU) 2021/2087](eu/32021r2087), forordning [(EU) 2021/2088](eu/32021r2088), forordning [(EU) 2022/1171](eu/32022r1171), forordning [(EU) 2022/1519](eu/32022r1519), forordning [(EU) 2023/409](eu/32023r0409), forordning [(EU) 2024/1682](eu/32024r1682), forordning [(EU) 2024/2516](eu/32024r2516), forordning [(EU) 2024/2770](eu/32024r2770), forordning [(EU) 2024/2786](eu/32024r2786), forordning [(EU) 2024/2787](eu/32024r2787), forordning [(EU) 2024/2788](eu/32024r2788), forordning [(EU) 2024/2790](eu/32024r2790) og forordning [(EU) 2025/1421](eu/32025r1421)), om omsetning av EU gjødselvarer og om endringer i forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003)) gjelder som forskrift med de tilpasninger som følger av [vedlegg II kapittel XIV](avtale/avt-1992-05-02-1-v2/kapXIV) nr. 1, protokoll 1 til avtalen og avtalen for øvrig.
 
 ►**B**
 
@@ -166,6 +166,7 @@ som endret ved
 - ►**M9** Kommisjonsforordning [(EU) 2024/2770](eu/32024r2770) av 15. juli 2024
 - ►**M10** Kommisjonsforordning [(EU) 2024/2786](eu/32024r2786) av 23. juli 2024
 - ►**M11** Kommisjonsforordning [(EU) 2024/2787](eu/32024r2787) av 23. juli 2024
+- ►**M13** Kommisjonsforordning [(EU) 2025/1421](eu/32025r1421) av 17. juli 2025
 - ►**EØS** Tilpasning som følger av [EØS-avtalen vedlegg II kapittel XIV](avtale/avt-1992-05-02-1-v2/kapXIV)
 
 og korrigert av
@@ -3794,6 +3795,12 @@ Varmesyklusene og testene nevnt i nr. 4.1-4.4 skal utføres på en representativ
 
 Varmesyklusene og testene skal utføres på ansvaret til et meldt organ som produsenten har valgt.
 
+►**M13**
+
+De varmesykluser og den test som er nevnt i nr. 4.3 og 4.4 skal utføres i laboratorier som er akkreditert for slik virksomhet av et nasjonalt akkrediteringsorgan.
+
+◄**M13**
+
 4.1.
 
 Varmesykluser før en test for å undersøke samsvar med kravene til oljeabsorpsjon nevnt i nr. 4 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I
@@ -4804,13 +4811,13 @@ Produsenten skal for vurderingsformål gi det meldte organet adgang til produksj
 
 Det meldte organet skal gjennomføre periodiske revisjoner for å sikre at produsenten vedlikeholder og bruker kvalitetssystemet, og skal framlegge en revisjonsrapport for produsenten.
 
-►**M5**
+►**M13**
 
 6.3.2.
 
-Når det gjelder materialer som tilhører komponentmaterialkategori 3, 5, 12, 13, 14 og 15, som definert i vedlegg II, skal det meldte organet i forbindelse med hver revisjon ta prøver av produsert materiale og analysere dem, og disse revisjonene skal gjennomføres med følgende frekvens:
+Når det gjelder materialer som tilhører komponentmaterialkategori 3, 5, 12, 13, 14 og 15, som definert i vedlegg II, skal det meldte organet gjennomføre årlige revisjoner. I tillegg skal det meldte organet skal ta prøver av produsert materiale og analysere dem med følgende frekvens:ysere dem, og disse revisjonene skal gjennomføres med følgende frekvens:
 
-◄**M5**
+◄**M13**
 
 ►**M2**
 
