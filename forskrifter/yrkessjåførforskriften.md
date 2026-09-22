@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-04-16"
 last_change_in_force: "2026-07-17"
 last_updated: "2010-08-10"
-xml_hash: "bf65194319fa13870ad2c009e34698accd8e9e56803bac8256c5dad5d37dd954"
+xml_hash: "9fe60defa4e7f2cbf2a688f6fb0db3c6061c9af68c01478ba51a733606efb9ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-22T09:14:53.774912+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -204,7 +204,7 @@ Alle prøver etter forskriften skal ha samme vanskelighetsgrad og varighet. Prø
 
 Prøven bestilles hos Statens vegvesen som fastsetter prøvesteder og arrangerer prøvene. Før prøven gjennomføres skal kandidaten framvise akseptabel legitimasjon.
 
-> Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2226](forskrift/2022-12-07-2226).
+> Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2226](forskrift/2022-12-07-2226). **Endres** ved forskrift [16 sep 2026 nr. 1830](forskrift/2026-09-16-1830) (i kraft 1 jan 2027).
 
 ### § 17. Sensur, rett til å klage, ny prøve
 
@@ -435,7 +435,7 @@ Etterutdanning skal være gjennomført før søknad om fornyelse av beviset frem
 
 Opplysninger om innehaver av utstedt eller tilbakekalt yrkessjåførkompetansebevis kan utveksles med andre EØS-stater.
 
-> Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [16 aug 2018 nr. 1246](forskrift/2018-08-16-1246) (i kraft 1 sep 2018), [19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+> Endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [16 aug 2018 nr. 1246](forskrift/2018-08-16-1246) (i kraft 1 sep 2018), [19 juni 2019 nr. 1220](forskrift/2019-06-19-1220) (i kraft 1 okt 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020). **Endres** ved forskrift [16 sep 2026 nr. 1830](forskrift/2026-09-16-1830) (i kraft 1 jan 2027).
 
 ### § 36. Statsborger fra annen EØS-stat
 
