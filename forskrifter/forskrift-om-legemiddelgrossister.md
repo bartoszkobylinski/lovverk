@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1994-01-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-09-18"
 last_updated: "2015-01-06"
-xml_hash: "158ece4703cab90e4b3210c9df4d789d50c624128f33a69668989f2e9c01951e"
+xml_hash: "68be6e2a664235416bcc3ecab93adfd398968f3a8ba5e1d826003b37d1350f7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-22T09:14:53.774912+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -546,7 +546,7 @@ Denne forskrift, unntatt [§ 3](forskrift/1993-12-21-1219/§3), [kapittel V](for
 
 | *ATC* | *Virkestoff* | *Formulering* | *Antall måneder beredskap* |
 | --- | --- | --- | --- |
-| A10A | Insulin og analoger | Parenterale | 6 |
+| A10A | Insulin og analoger | Parenterale | 8 |
 | B01AA03 | Warfarin | Oral | 3 |
 | B01AB04 | Dalteparin | Parenteral | 3 |
 | B01AB05 | Enoksaparin | Parenteral | 3 |
@@ -589,4 +589,4 @@ Denne forskrift, unntatt [§ 3](forskrift/1993-12-21-1219/§3), [kapittel V](for
 | R03BB01 | Ipratropiumbromid | Inhalasjon | 3 |
 | S01 | Glaukommidler | Øyedråper | 3 |
 
-> Tilføyd ved [forskrift 23 sep 2015 nr. 1096](forskrift/2015-09-23-1096) (i kraft 1 jan 2016), endret ved [forskrifter 3 mars 2020 nr. 226](forskrift/2020-03-03-226), [27 april 2020 nr. 891](forskrift/2020-04-27-891) (i kraft 1 mai 2020), [14 des 2023 nr. 2059](forskrift/2023-12-14-2059) (i kraft 15 des 2023).
+> Tilføyd ved [forskrift 23 sep 2015 nr. 1096](forskrift/2015-09-23-1096) (i kraft 1 jan 2016), endret ved [forskrifter 3 mars 2020 nr. 226](forskrift/2020-03-03-226), [27 april 2020 nr. 891](forskrift/2020-04-27-891) (i kraft 1 mai 2020), [14 des 2023 nr. 2059](forskrift/2023-12-14-2059) (i kraft 15 des 2023), [18 sep 2026 nr. 1835](forskrift/2026-09-18-1835). **Endres** ved forskrift [18 sep 2026 nr. 1835](forskrift/2026-09-18-1835) (i kraft 16 jan 2027).
