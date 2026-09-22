@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2017-03-13"
-xml_hash: "088541b347dcd085483aee3d36945645839434e7b9ce472a43168df08914a562"
+xml_hash: "0f6d6887f4bfec8887f57a952ca28628e953f04d297040f14ff74b7bf949b768"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-22T09:14:53.774912+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,7 @@ Person som har tapt føreretten kan, etter at tapsperioden er over, øvingskjør
 
 Person som har kjøreforbud for førerkortfritt kjøretøy, må ikke øvingskjøre med slikt kjøretøy eller med førerkortpliktig kjøretøy i denne perioden, uten politiets samtykke.
 
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [25 juni 2012 nr. 642](forskrift/2012-06-25-642) (i kraft 1 juli 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 16 mars 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [25 juni 2012 nr. 642](forskrift/2012-06-25-642) (i kraft 1 juli 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 16 mars 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026). **Endres** ved forskrift [16 sep 2026 nr. 1832](forskrift/2026-09-16-1832) (i kraft 1 jan 2027).
 
 ### § 2-2. Øvingskjøring på veg eller andre områder som ikke er avsperret
 
@@ -3108,7 +3108,7 @@ Personer som har gjennomført opplæring i modul 1 i grunnutdanningen etter [yrk
 
 Personer som har gjennomført opplæring i modul 1 i grunnutdanningen etter [yrkessjåførforskriften](forskrift/2008-04-16-362) og har bestått førerprøve i klasse B, kan avlegge teoretisk prøve i klasse D fra fylte 20 år og 6 måneder. Opplæringen i modul 1 må fremgå av Trafikkskole-, sensor og kursarrangørregisteret (TSK-registeret). Praktisk prøve kan avlegges fra fylte 21 år. Øvrige vilkår for å avlegge førerprøven må være oppfylt for den aktuelle førerkortklassen.
 
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [7 mars 2017 nr. 288](forskrift/2017-03-07-288), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [6 des 2019 nr. 1654](forskrift/2019-12-06-1654), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [7 mars 2017 nr. 288](forskrift/2017-03-07-288), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [6 des 2019 nr. 1654](forskrift/2019-12-06-1654), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026). **Endres** ved forskrift [16 sep 2026 nr. 1832](forskrift/2026-09-16-1832) (i kraft 1 jan 2027).
 
 ### § 29-3. Søknad om førerkort, utstedelse og utvidelse
 
@@ -3507,7 +3507,7 @@ Før kjørevurderingen eller ny førerprøve kan avlegges skal kandidaten fremvi
 
 Før kombinert prøve eller ny førerprøve etter pålegg fra politiet kan avlegges, betales gebyr i henhold til [førerkortforskriften § 14-2](forskrift/2004-01-19-298/§14-2). Kjørevurdering er gebyrfri.
 
-> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Endres** ved forskrift [16 sep 2026 nr. 1832](forskrift/2026-09-16-1832) (i kraft 1 jan 2027).
 
 ### § 30A-3. Bestilling av time til kjørevurdering
 
