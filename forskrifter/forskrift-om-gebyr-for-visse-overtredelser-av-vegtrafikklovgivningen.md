@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2021-05-18"
-last_change_in_force: "2026-02-27"
+last_change_in_force: "2026-09-18"
 last_updated: "2025-08-18"
-xml_hash: "b638712f11e258e849d8c2efbc2ded2ede02f5d77bcbdb6f6f984004f60dd509"
+xml_hash: "cf9e491936c3ee22b0f8285ade049c129c376889f2ca713a92f6b9dee4ce304b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-22T09:14:53.774912+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,6 +146,15 @@ Dersom føreren av kjøretøyet er en annen enn den som var registrert som eier 
 Foretaket kan ilegges overtredelsesgebyr på kroner 8 000 dersom kjøretøyet som benyttes til persontransport mot vederlag etter [forskrift 30. mai 2018 nr. 777 om alkolås, alkolåsverksteder mv. § 2 første ledd](forskrift/2018-05-30-777/§2/ledd/1) ikke har i installert alkolås i kjøretøyet.
 
 > Tilføyd ved forskrift [1 mars 2024 nr. 361](forskrift/2024-03-01-361).
+
+### § 10b. Avrenning
+
+Foretaket og fører kan ilegges overtredelsesgebyr for overtredelse av [forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy § 3-2 nr. 3 bokstav b](forskrift/1990-01-25-92/§3-2/nummer/3/bokstav/b) ved kjøring med avrenning fra gods.
+
+- Fører: 2 000 kr.
+- Foretak: 20 000 kr.
+
+> Tilføyd ved forskrift [18 sep 2026 nr. 1814](forskrift/2026-09-18-1814).
 
 ## Kapittel 3. Overtredelser av reglene for kjøre- og hviletid
 
