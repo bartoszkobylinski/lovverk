@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260916-1833",
+  "events": [
+    {
+      "commit": "76faa38",
+      "date": "2026-09-22",
+      "from_path": null,
+      "lines_added": 154,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-førerkortforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-førerkortforskriften"
+}

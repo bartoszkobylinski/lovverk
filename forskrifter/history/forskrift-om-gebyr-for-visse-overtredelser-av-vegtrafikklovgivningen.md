@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-gebyr-for-visse-overtredelser-av-vegtrafikklovgivningen — Change history
 
-_3 events; doc_id `sf-20210326-0963`._
+_4 events; doc_id `sf-20210326-0963`._
+
+## 2026-09-22 — Content updated
+Lines: +12 -3.
+Subject: `update(forskrift): forskrift-om-gebyr-for-visse-overtredelser-av-vegtrafikklovgivningen`
+Commit: `aeec9bd`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

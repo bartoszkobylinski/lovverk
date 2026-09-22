@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260918-1836",
+  "events": [
+    {
+      "commit": "6a1afb7",
+      "date": "2026-09-22",
+      "from_path": null,
+      "lines_added": 71,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-beskyttelse-av-røros-smør-som-geografisk-betegnelse",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-beskyttelse-av-røros-smør-som-geografisk-betegnelse"
+}

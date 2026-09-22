@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # trafikkopplæringsforskriften — Change history
 
-_5 events; doc_id `sf-20041001-1339`._
+_6 events; doc_id `sf-20041001-1339`._
+
+## 2026-09-22 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): trafikkopplæringsforskriften`
+Commit: `0ca04fc`.
 
 ## 2026-06-01 — Content updated
 Lines: +19 -9.

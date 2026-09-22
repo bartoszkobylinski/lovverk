@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-legemiddelgrossister — Change history
 
-_3 events; doc_id `sf-19931221-1219`._
+_4 events; doc_id `sf-19931221-1219`._
+
+## 2026-09-22 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-legemiddelgrossister`
+Commit: `e1e8e53`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

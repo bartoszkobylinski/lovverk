@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5110 current documents_
+_5117 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -62,7 +62,7 @@ _5110 current documents_
 - [bergverksordning-for-svalbard](bergverksordning-for-svalbard.md) — Bergverksordning for Spitsbergen (Svalbard) fremlagt av den norske regjering.
 - [beskyttelsesinstruksen](beskyttelsesinstruksen.md) — Instruks for behandling av dokumenter som trenger beskyttelse av andre grunner enn nevnt i sikkerhetsloven med forskrifter (beskyttelsesinstruksen)
 - [bestemmelse-om-beslutning-om-motsyklisk-kapitalbuffer-og-råd-om-systemrisikobuffer](bestemmelse-om-beslutning-om-motsyklisk-kapitalbuffer-og-råd-om-systemrisikobuffer.md) — Bestemmelse om beslutning om motsyklisk kapitalbuffer og råd om systemrisikobuffer
-- [bestemmelse-om-pengepolitikken](bestemmelse-om-pengepolitikken.md) — Bestemmelse om pengepolitikken
+- [bestemmelse-om-pengepolitikken-2026](bestemmelse-om-pengepolitikken-2026.md) — Bestemmelse om pengepolitikken
 - [bestemmelser-for-tjenestetid-for-siviltjeneste](bestemmelser-for-tjenestetid-for-siviltjeneste.md) — Bestemmelser for gjennomføring av nye tjenestetidsbestemmelser for mannskap som er fritatt for militærtjeneste etter lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner.
 - [bestemmelser-iht-sjøfartsloven](bestemmelser-iht-sjøfartsloven.md) — Res. om ikraftsetting av lov av 17. juni 1966 om endring i lov om sjøfarten og visse andre lover, og om bestemmelser iht. sjøfartsloven.
 - [bestemmelser-om-adgang-og-opphold-på-norsk-territorium-m-m](bestemmelser-om-adgang-og-opphold-på-norsk-territorium-m-m.md) — Bestemmelser om klarering av adgang til og opphold på norsk territorium under fredsforhold for militære og sivile statsfartøyer mv. iht. avtale 11. desember 2008 nr. 36 mellom regjeringene i den euroarktiske Barentsregionen om samarbeid innen forebygging, beredskap og innsats rettet mot krisesituasjoner (heretter «avtalen»)
@@ -1284,6 +1284,7 @@ _5110 current documents_
 - [endr-i-forskrifter-om-arbeidervern-mm](endr-i-forskrifter-om-arbeidervern-mm.md) — Forskrift om endring i forskrift om arbeidervern og arbeidsmiljø i petroleumsvirksomheten og i visse andre forskrifter.
 - [endr-i-forsvarstilsatteforskriften](endr-i-forsvarstilsatteforskriften.md) — Forskrift om endring i forskrift om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
 - [endr-i-fsfin-forskrift-til-skatteloven](endr-i-fsfin-forskrift-til-skatteloven.md) — Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
+- [endr-i-førerkortforskriften](endr-i-førerkortforskriften.md) — Forskrift om endring i forskrift om førerkort m.m. (førerkortforskriften)
 - [endr-i-ikrafttredelse-av-lov-2012-5](endr-i-ikrafttredelse-av-lov-2012-5.md) — Vedtak om endring i vedtak 20. januar 2012 nr. 37 om ikrafttredelse av lov 20. januar 2012 nr. 5 om endringer i utlendingsloven m.m. (høring av barn mv.)
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
@@ -1299,11 +1300,15 @@ _5110 current documents_
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
 - [endr-i-trafikklærerforskriften](endr-i-trafikklærerforskriften.md) — Forskrift om endring i forskrift om krav til utdanning, etterutdanning og godkjenning av trafikklærere (trafikklærerforskriften)
+- [endr-i-trafikkopplæringsforskriften](endr-i-trafikkopplæringsforskriften.md) — Forskrift om endring i forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
+- [endr-i-utlendingsforskriften-2026](endr-i-utlendingsforskriften-2026.md) — Forskrift om endring i utlendingsforskriften (rettshjelp)
+- [endr-i-utrykningsforskriften](endr-i-utrykningsforskriften.md) — Forskrift om endring i forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+- [endr-i-yrkessjåførforskriften](endr-i-yrkessjåførforskriften.md) — Forskrift om endring i forskrift om grunnutdanning og etterutdanning for yrkessjåfører (yrkessjåførforskriften)
 - [endr-i-yrkestransportforskriften](endr-i-yrkestransportforskriften.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-yrkestransportforskriften-overgangsbestemmelser](endr-i-yrkestransportforskriften-overgangsbestemmelser.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-økonomiforskrift-til-barnehageloven](endr-i-økonomiforskrift-til-barnehageloven.md) — Forskrift om endring i forskrift om regnskapsplikt mv. for private barnehager (økonomiforskrift til barnehageloven)
@@ -1698,6 +1703,7 @@ _5110 current documents_
 - [forskrift-om-beskyttelse-av-mindreårige-mot-skadelige-bildeprogram](forskrift-om-beskyttelse-av-mindreårige-mot-skadelige-bildeprogram.md) — Forskrift om beskyttelse av mindreårige mot skadelige bildeprogram
 - [forskrift-om-beskyttelse-av-pinnekjøtt-fra-norge-som-geografisk-betegnelse](forskrift-om-beskyttelse-av-pinnekjøtt-fra-norge-som-geografisk-betegnelse.md) — Forskrift om beskyttelse av Pinnekjøtt fra Norge som geografisk betegnelse
 - [forskrift-om-beskyttelse-av-prosciutto-di-san-daniele-som-opprinnelsesbetegnelse](forskrift-om-beskyttelse-av-prosciutto-di-san-daniele-som-opprinnelsesbetegnelse.md) — Forskrift om beskyttelse av Prosciutto di San Daniele som opprinnelsesbetegnelse
+- [forskrift-om-beskyttelse-av-røros-smør-som-geografisk-betegnelse](forskrift-om-beskyttelse-av-røros-smør-som-geografisk-betegnelse.md) — Forskrift om beskyttelse av Røros Smør som geografisk betegnelse
 - [forskrift-om-beskyttelse-av-setersmør-stølssmør](forskrift-om-beskyttelse-av-setersmør-stølssmør.md) — Forskrift om beskyttelse av Setersmør/Stølssmør som betegnelse for tradisjonelt særpreg
 - [forskrift-om-beskyttelse-av-skjørost-fra-røros-traktene](forskrift-om-beskyttelse-av-skjørost-fra-røros-traktene.md) — Forskrift om beskyttelse av Skjørost fra Røros-traktene som geografisk betegnelse
 - [forskrift-om-beskyttelse-av-småmat-som-betegnelse-for-tradisjonelt-særpreg](forskrift-om-beskyttelse-av-småmat-som-betegnelse-for-tradisjonelt-særpreg.md) — Forskrift om beskyttelse av Småmat som betegnelse for tradisjonelt særpreg
@@ -4026,6 +4032,7 @@ _5110 current documents_
 - [forskrift-om-vakthold-på-norske-skip](forskrift-om-vakthold-på-norske-skip.md) — Forskrift om vakthold for dekksavdelingen og maskinavdelingen på norske fiske- og fangstfartøy
 - [forskrift-om-vakthold-på-passasjer-og-lasteskip](forskrift-om-vakthold-på-passasjer-og-lasteskip.md) — Forskrift om vakthold på passasjer- og lasteskip
 - [forskrift-om-valg-av-utleggsgjenstand](forskrift-om-valg-av-utleggsgjenstand.md) — Forskrift om valg av utleggsgjenstand
+- [forskrift-om-valg-av-utleggsgjenstand-i-saker-som-berører-lokalsamfunn-på-svalbard](forskrift-om-valg-av-utleggsgjenstand-i-saker-som-berører-lokalsamfunn-på-svalbard.md) — Forskrift om valg av utleggsgjenstand i saker som berører lokalsamfunn på Svalbard
 - [forskrift-om-valg-til-sametinget](forskrift-om-valg-til-sametinget.md) — Forskrift om valg til Sametinget
 - [forskrift-om-validerings-og-kontrollflyorganisasjoner](forskrift-om-validerings-og-kontrollflyorganisasjoner.md) — Forskrift om validerings- og kontrollflyorganisasjoner
 - [forskrift-om-van-mijenfjorden-nasjonalpark-på-svalbard](forskrift-om-van-mijenfjorden-nasjonalpark-på-svalbard.md) — Forskrift om Van Mijenfjorden nasjonalpark på Svalbard

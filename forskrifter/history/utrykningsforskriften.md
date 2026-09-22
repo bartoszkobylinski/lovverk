@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # utrykningsforskriften — Change history
 
-_3 events; doc_id `sf-20090612-0637`._
+_4 events; doc_id `sf-20090612-0637`._
+
+## 2026-09-22 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): utrykningsforskriften`
+Commit: `38da094`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

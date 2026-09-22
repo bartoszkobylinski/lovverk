@@ -2,6 +2,16 @@
   "doc_id": "sf-20040119-0298",
   "events": [
     {
+      "commit": "7a72521",
+      "date": "2026-09-22",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 19,
+      "subject": "update(forskrift): førerkortforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8169985",
       "date": "2026-07-21",
       "from_path": null,

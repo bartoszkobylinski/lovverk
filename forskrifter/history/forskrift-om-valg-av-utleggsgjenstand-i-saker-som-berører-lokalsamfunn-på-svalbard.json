@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260918-1837",
+  "events": [
+    {
+      "commit": "80fb197",
+      "date": "2026-09-22",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-valg-av-utleggsgjenstand-i-saker-som-berører-lokalsamfunn-på-svalbard",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-valg-av-utleggsgjenstand-i-saker-som-berører-lokalsamfunn-på-svalbard"
+}

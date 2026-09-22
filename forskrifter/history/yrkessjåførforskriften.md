@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # yrkessjåførforskriften — Change history
 
-_4 events; doc_id `sf-20080416-0362`._
+_5 events; doc_id `sf-20080416-0362`._
+
+## 2026-09-22 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): yrkessjåførforskriften`
+Commit: `189cd36`.
 
 ## 2026-07-21 — Content updated
 Lines: +4 -4.

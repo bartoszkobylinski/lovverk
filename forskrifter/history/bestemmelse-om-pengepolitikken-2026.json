@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260918-1815",
+  "events": [
+    {
+      "commit": "ea6d2fd",
+      "date": "2026-09-22",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 18,
+      "subject": "add(forskrift): bestemmelse-om-pengepolitikken-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "bestemmelse-om-pengepolitikken-2026"
+}
