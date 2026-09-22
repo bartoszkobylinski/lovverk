@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-09-06"
-xml_hash: "bdc9f06ff839d7f016298d65a2246cf01be93be0cbf36faf9f13ae1e428d403a"
+xml_hash: "ac140b628e089ec7d9029a1c2756528dd454e1c0f516bc8c1357ca00f193cc95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-22T09:14:53.774912+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -432,7 +432,7 @@ Time for teoretisk og praktisk prøve bestilles hos Statens vegvesen.
 
 Dersom kandidaten blir tatt for juks eller forsøk på juks ved prøven, vurderes prøven til ikke bestått.
 
-> Endret ved forskrift [7 des 2022 nr. 2227](forskrift/2022-12-07-2227).
+> Endret ved forskrift [7 des 2022 nr. 2227](forskrift/2022-12-07-2227). **Endres** ved forskrift [16 sep 2026 nr. 1831](forskrift/2026-09-16-1831) (i kraft 1 jan 2027).
 
 ### § 30. Teoretisk prøve
 
