@@ -77700,13 +77700,13 @@
     },
     "sf-20170619-0840": {
       "doc_type": "forskrift",
-      "embedding_hash": "08ef64f86e0481187c4ea6e6994cc06fbd1b73bc964f8b99230551317bfac605",
-      "embedding_input_hash": "cf5114e812b65b6f374551ce5fd136347fac604bf48763a6b188925fda6785e5",
+      "embedding_hash": "647d2350a21e95a9bb533135c9d93ca032e2706322d1d95791f23500c004a7e6",
+      "embedding_input_hash": "404099c14a0a4489344b78a390b40cd784de9c5ea872f7044345e103cccb9cc1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-17",
-      "last_seen": "2026-09-17T09:23:02.638945Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/byggteknisk-forskrift-tek17.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -77714,8 +77714,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
-      "total_changes": 9,
-      "xml_hash": "08ef64f86e0481187c4ea6e6994cc06fbd1b73bc964f8b99230551317bfac605"
+      "total_changes": 10,
+      "xml_hash": "647d2350a21e95a9bb533135c9d93ca032e2706322d1d95791f23500c004a7e6"
     },
     "sf-20170619-0941": {
       "doc_type": "forskrift",
@@ -83951,21 +83951,21 @@
     },
     "sf-20191122-1547": {
       "doc_type": "forskrift",
-      "embedding_hash": "274c464ed90103fb2ae55ab51b262845945bf3337658392fc141e7497be3ae2c",
-      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-06-30",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/endringer-i-fylkesnemndenes-struktur-stedlige-virkeområde-og-navn.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "endringer-i-fylkesnemndenes-struktur-stedlige-virkeområde-og-navn",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Endringer i fylkesnemndenes struktur, stedlige virkeområde og navn",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "274c464ed90103fb2ae55ab51b262845945bf3337658392fc141e7497be3ae2c"
     },
     "sf-20191122-1570": {
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "f4a45218b55c81b49ed170c3c53b314517a9519f8c84256c450c72acae2e08d1",
-      "embedding_input_hash": "619139b8db975f169d8c2bc567a73c976b5cdf8bf4dfcf8e69a2a7bf55455c29",
+      "embedding_hash": "26c8e19589e84cbdb7e8c90bb21453abcdd3884c74198fb2989ce7fdb03d0ad9",
+      "embedding_input_hash": "a21697b7a0755a8e71cdb0c58810e97af483619b42b28f79d567c969677973dc",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-11",
-      "last_seen": "2026-09-11T08:51:50.177996Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 22,
-      "xml_hash": "f4a45218b55c81b49ed170c3c53b314517a9519f8c84256c450c72acae2e08d1"
+      "total_changes": 23,
+      "xml_hash": "26c8e19589e84cbdb7e8c90bb21453abcdd3884c74198fb2989ce7fdb03d0ad9"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -109297,13 +109297,13 @@
     },
     "sf-20251219-2821": {
       "doc_type": "forskrift",
-      "embedding_hash": "98484707f55fac40fe239bb948f8e3dfd223bc52f5278e0c0d1a9d1763cb7605",
-      "embedding_input_hash": "2484ded6fae4517cbd0d42f0009441974a237b09c06858f619c12e411bbf1703",
+      "embedding_hash": "c51352ade0afd8787da9ab88d39348e7b77b2b1d0e7a3c5df61b75f10c18e1d5",
+      "embedding_input_hash": "f6199ac113568600bedbd419ad1aaada901c0a3d6620d4d05ba57ce16c33af1e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-makrell-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109311,8 +109311,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter makrell i 2026",
-      "total_changes": 8,
-      "xml_hash": "98484707f55fac40fe239bb948f8e3dfd223bc52f5278e0c0d1a9d1763cb7605"
+      "total_changes": 9,
+      "xml_hash": "c51352ade0afd8787da9ab88d39348e7b77b2b1d0e7a3c5df61b75f10c18e1d5"
     },
     "sf-20251219-2822": {
       "doc_type": "forskrift",
@@ -110760,13 +110760,13 @@
     },
     "sf-20260323-0454": {
       "doc_type": "forskrift",
-      "embedding_hash": "90b99c95b5b08ad212bd886a3d585f7f9b6b3ba40820618206205d48ea97835a",
-      "embedding_input_hash": "e4b9b76f6f17cac9a2744c409e3b79f55f64ca02c524b87fb2c972142d7320c7",
+      "embedding_hash": "0beb8abce01fa7798840ea383d332975fc12b4c2660f9aa2005f567bf1f5dd28",
+      "embedding_input_hash": "d556af0aba382189fc14205284c8f0901daee7fa2681b2c69343de5bc67f2e04",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/finansieringsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -110774,8 +110774,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om finansiering av private barnehager (finansieringsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "90b99c95b5b08ad212bd886a3d585f7f9b6b3ba40820618206205d48ea97835a"
+      "total_changes": 6,
+      "xml_hash": "0beb8abce01fa7798840ea383d332975fc12b4c2660f9aa2005f567bf1f5dd28"
     },
     "sf-20260323-0465": {
       "doc_type": "forskrift",
@@ -110893,13 +110893,13 @@
     },
     "sf-20260409-0579": {
       "doc_type": "forskrift",
-      "embedding_hash": "749d7e0453fe09dda04dd93162be2606f4f57b3412c77f8c669464103db0926e",
-      "embedding_input_hash": "32207247ef00ca38879efdad6edb963b0219f8e24de8d7541c5e0774c8436cd8",
+      "embedding_hash": "cd332cb21ac3a47f88f73c3c0a9fa006f2dd407a198418264b6041d058d1f1e2",
+      "embedding_input_hash": "8ebfd0b3aa37c6eccbd180ac09dd46881d958513022aa3ba92fc8b71dec9d7a0",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-17",
-      "last_seen": "2026-09-17T09:23:02.638945Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -110907,8 +110907,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 16,
-      "xml_hash": "749d7e0453fe09dda04dd93162be2606f4f57b3412c77f8c669464103db0926e"
+      "total_changes": 17,
+      "xml_hash": "cd332cb21ac3a47f88f73c3c0a9fa006f2dd407a198418264b6041d058d1f1e2"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -113534,13 +113534,13 @@
     },
     "sf-20260911-1792": {
       "doc_type": "forskrift",
-      "embedding_hash": "351d248e53acea342926e475825c3cc637bd219186bd63330b4c324953debe42",
+      "embedding_hash": "8039f809168a43a3aa101c6992320969b0264424ba72947d466ccd793244c817",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-17",
-      "last_seen": "2026-09-17T09:23:02.638945Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/endr-i-byggteknisk-forskrift-tek17.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113548,8 +113548,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
-      "total_changes": 2,
-      "xml_hash": "351d248e53acea342926e475825c3cc637bd219186bd63330b4c324953debe42"
+      "total_changes": 3,
+      "xml_hash": "8039f809168a43a3aa101c6992320969b0264424ba72947d466ccd793244c817"
     },
     "sf-20260914-1810": {
       "doc_type": "forskrift",
@@ -113572,13 +113572,13 @@
     },
     "sf-20260916-1830": {
       "doc_type": "forskrift",
-      "embedding_hash": "7db81ff298ae50afc0157aec305d98608c1a3f1649e403437f7858f210f1130e",
+      "embedding_hash": "7081b1cc4ba25c18315f5533b001407c0533d8a191afedd3111b03619e95c189",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-22",
-      "last_seen": "2026-09-22T09:14:53.774912Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/endr-i-yrkessjåførforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113586,18 +113586,18 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om grunnutdanning og etterutdanning for yrkessjåfører (yrkessjåførforskriften)",
-      "total_changes": 1,
-      "xml_hash": "7db81ff298ae50afc0157aec305d98608c1a3f1649e403437f7858f210f1130e"
+      "total_changes": 2,
+      "xml_hash": "7081b1cc4ba25c18315f5533b001407c0533d8a191afedd3111b03619e95c189"
     },
     "sf-20260916-1831": {
       "doc_type": "forskrift",
-      "embedding_hash": "b1a057cae742bc7b5bfbd412de6ca1f0f8224d05fd881b63845c3804d4fb77e5",
+      "embedding_hash": "0fb62949451d946037df3dddf1155cf50f4f00b3efb7b7e9a87e06bb4348d53c",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-22",
-      "last_seen": "2026-09-22T09:14:53.774912Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/endr-i-utrykningsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113605,18 +113605,18 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften)",
-      "total_changes": 1,
-      "xml_hash": "b1a057cae742bc7b5bfbd412de6ca1f0f8224d05fd881b63845c3804d4fb77e5"
+      "total_changes": 2,
+      "xml_hash": "0fb62949451d946037df3dddf1155cf50f4f00b3efb7b7e9a87e06bb4348d53c"
     },
     "sf-20260916-1832": {
       "doc_type": "forskrift",
-      "embedding_hash": "d68bebda95eed147f7bbda4ea374fb6a31c5c986076e2e7c0904da721cbf70cd",
+      "embedding_hash": "393c77c2b53b298d0982a8e380d2e1426ca5cc2e8de868e0930a3e6f5d3184a7",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-22",
-      "last_seen": "2026-09-22T09:14:53.774912Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/endr-i-trafikkopplæringsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113624,18 +113624,18 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)",
-      "total_changes": 2,
-      "xml_hash": "d68bebda95eed147f7bbda4ea374fb6a31c5c986076e2e7c0904da721cbf70cd"
+      "total_changes": 3,
+      "xml_hash": "393c77c2b53b298d0982a8e380d2e1426ca5cc2e8de868e0930a3e6f5d3184a7"
     },
     "sf-20260916-1833": {
       "doc_type": "forskrift",
-      "embedding_hash": "a8ec49bd15ed23e60f691d9873fc76189e0bfe0cc9a44d8035eca6df1151f2be",
+      "embedding_hash": "b4aec88a7752db5f5cc3660fbcd29f9f9731cc6868d28e93289a5b852ae1179d",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-22",
-      "last_seen": "2026-09-22T09:14:53.774912Z",
+      "last_changed": "2026-09-23",
+      "last_seen": "2026-09-23T09:15:32.652390Z",
       "markdown_path": "forskrifter/endr-i-førerkortforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -113643,8 +113643,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om førerkort m.m. (førerkortforskriften)",
-      "total_changes": 1,
-      "xml_hash": "a8ec49bd15ed23e60f691d9873fc76189e0bfe0cc9a44d8035eca6df1151f2be"
+      "total_changes": 2,
+      "xml_hash": "b4aec88a7752db5f5cc3660fbcd29f9f9731cc6868d28e93289a5b852ae1179d"
     },
     "sf-20260917-1834": {
       "doc_type": "forskrift",
@@ -113723,6 +113723,6 @@
       "xml_hash": "a4e5583c233823401ab95773cbdde391e790e37a1714649068f8e70dcf699173"
     }
   },
-  "generated_at": "2026-09-22T09:14:53.774912Z",
+  "generated_at": "2026-09-23T09:15:32.652390Z",
   "version": 1
 }

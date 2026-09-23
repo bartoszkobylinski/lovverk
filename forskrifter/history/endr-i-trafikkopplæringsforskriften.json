@@ -2,6 +2,16 @@
   "doc_id": "sf-20260916-1832",
   "events": [
     {
+      "commit": "89a069e",
+      "date": "2026-09-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(forskrift): endr-i-trafikkopplæringsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "28c3767",
       "date": "2026-09-22",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-trafikkopplæringsforskriften — Change history
 
-_2 events; doc_id `sf-20260916-1832`._
+_3 events; doc_id `sf-20260916-1832`._
+
+## 2026-09-23 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): endr-i-trafikkopplæringsforskriften`
+Commit: `89a069e`.
 
 ## 2026-09-22 — Added to corpus
 Lines: +47 -0.

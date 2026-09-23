@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-byggteknisk-forskrift-tek17 — Change history
 
-_2 events; doc_id `sf-20260911-1792`._
+_3 events; doc_id `sf-20260911-1792`._
+
+## 2026-09-23 — Content updated
+Lines: +8 -4.
+Subject: `update(forskrift): endr-i-byggteknisk-forskrift-tek17`
+Commit: `f1a6e8d`.
 
 ## 2026-09-17 — Added to corpus
 Lines: +68 -0.

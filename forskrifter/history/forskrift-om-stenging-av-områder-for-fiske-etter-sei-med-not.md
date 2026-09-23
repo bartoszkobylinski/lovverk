@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not — Change history
 
-_16 events; doc_id `sf-20260409-0579`._
+_17 events; doc_id `sf-20260409-0579`._
+
+## 2026-09-23 — Content updated
+Lines: +13 -13.
+Subject: `update(forskrift): forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not`
+Commit: `86e7dd2`.
 
 ## 2026-09-17 — Content updated
 Lines: +15 -13.

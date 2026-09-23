@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5117 current documents_
+_5116 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1321,7 +1321,6 @@ _5117 current documents_
 - [endringer-i-ansvarsdelingen-mellom-statsrådene-i-nærings-og-fiskeridepartementet](endringer-i-ansvarsdelingen-mellom-statsrådene-i-nærings-og-fiskeridepartementet.md) — Endringer i ansvarsdelingen mellom statsrådene i Nærings- og fiskeridepartementet
 - [endringer-i-departementsstrukturen-fra-1-jan-2008](endringer-i-departementsstrukturen-fra-1-jan-2008.md) — Endringer i departementsstrukturen fra 1. januar 2008 – Overføring av oppgaver fra Arbeids- og inkluderingsdepartementet til Barne- og likestillingsdepartementet
 - [endringer-i-departementsstrukturen-og-i-ansvarsdelingen-mellom-departementene](endringer-i-departementsstrukturen-og-i-ansvarsdelingen-mellom-departementene.md) — Endringer i departementsstrukturen og i ansvarsdelingen mellom departementene
-- [endringer-i-fylkesnemndenes-struktur-stedlige-virkeområde-og-navn](endringer-i-fylkesnemndenes-struktur-stedlige-virkeområde-og-navn.md) — Endringer i fylkesnemndenes struktur, stedlige virkeområde og navn
 - [endringer-i-regjeringens-sammensetning-statsrådenes-ansvarsområder-og-endringer-i-departementsstrukturen-og-departmentsnavn-endringer-blant-statssekretærene](endringer-i-regjeringens-sammensetning-statsrådenes-ansvarsområder-og-endringer-i-departementsstrukturen-og-departmentsnavn-endringer-blant-statssekretærene.md) — Endringer i regjeringens sammensetning, statsrådenes ansvarsområder og endringer i departementsstrukturen og departmentsnavn. Endringer blant statssekretærene
 - [energikartleggingsforskriften](energikartleggingsforskriften.md) — Forskrift om energikartlegging (energikartleggingsforskriften)
 - [energilovforskriften](energilovforskriften.md) — Forskrift om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energilovforskriften)
