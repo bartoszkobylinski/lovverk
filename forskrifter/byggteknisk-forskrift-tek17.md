@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2026-07-02"
-xml_hash: "08ef64f86e0481187c4ea6e6994cc06fbd1b73bc964f8b99230551317bfac605"
+xml_hash: "647d2350a21e95a9bb533135c9d93ca032e2706322d1d95791f23500c004a7e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-17T09:23:02.638945+00:00"
+retrieved_at: "2026-09-23T09:15:32.652390+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -291,7 +291,7 @@ For områder med fare for kvikkleireskred skal det fastsettes et tilsvarende sik
 
 Tredje ledd omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd. Tredje ledd omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.
 
-> Endret ved forskrift [25 aug 2022 nr. 1489](forskrift/2022-08-25-1489) (i kraft 1 sep 2022). **Endres** ved forskrift [11 sep 2026 nr. 1792](forskrift/2026-09-11-1792) (i kraft 1 okt 2026).
+> Endret ved forskrift [25 aug 2022 nr. 1489](forskrift/2022-08-25-1489) (i kraft 1 sep 2022). **Endres** ved forskrift [11 sep 2026 nr. 1792](forskrift/2026-09-11-1792) (i kraft 1 okt 2026, endring endret ved forskrift [20 sep 2026 nr. 1850](forskrift/2026-09-20-1850)).
 
 ### § 7-4. Unntaksbestemmelse for utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred
 
