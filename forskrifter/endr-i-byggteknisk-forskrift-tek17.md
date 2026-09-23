@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2026-10-01"
-last_change_in_force: null
+last_change_in_force: "2026-09-20"
 last_updated: null
-xml_hash: "351d248e53acea342926e475825c3cc637bd219186bd63330b4c324953debe42"
+xml_hash: "8039f809168a43a3aa101c6992320969b0264424ba72947d466ccd793244c817"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-17T09:23:02.638945+00:00"
+retrieved_at: "2026-09-23T09:15:32.652390+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,7 +61,11 @@ Gjeldende [§ 7-2 fjerde](forskrift/2017-06-19-840/§7-2/ledd/4) og [femte ledd]
 4. En offentlig myndighet er ansvarlig for at det blir gjennomført drift og vedlikehold av det organisatoriske sikringstiltaket. Det offentlige kan benytte private til drift, vedlikehold og iverksetting av det organisatoriske sikringstiltaket.
 5. Overvåking av skredfare og krav til vinterstenging og periodisk stenging skal tinglyses som en heftelse på berørte eiendommer.
 
-Gjeldende [§ 7-3 tredje ledd](forskrift/2017-06-19-840/§7-3/ledd/3) blir nytt fjerde ledd.
+Gjeldende [§ 7-3 tredje ledd](forskrift/2017-06-19-840/§7-3/ledd/3) blir nytt fjerde ledd, der andre og tredje punktum skal lyde:
+
+Dette leddet omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-3 første ledd](forskrift/2017-06-19-840/§7-3/ledd/1). Dette leddet omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.
+
+> Endret ved forskrift [20 sep 2026 nr. 1850](forskrift/2026-09-20-1850).
 
 ## II
 
