@@ -10,12 +10,12 @@ ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2026-08-01"
 last_change_in_force: "2026-06-29"
-last_updated: null
-xml_hash: "90b99c95b5b08ad212bd886a3d585f7f9b6b3ba40820618206205d48ea97835a"
+last_updated: "2026-09-22"
+xml_hash: "0beb8abce01fa7798840ea383d332975fc12b4c2660f9aa2005f567bf1f5dd28"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-23T09:15:32.652390+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -528,7 +528,7 @@ Etter *andre ledd* skal kommunen legge til grunn barnehagens pensjonsutgifter so
 
 Barnehagens faktiske pensjonsutgifter finner barnehagen i regnskapet. Årlig bruk av premiefond og de ansattes egenandel skal trekkes fra. Barnehagens pensjonsutgifter og arbeidsgiveravgiften av pensjonsutgiftene skal prisjusteres med kommunal deflator.
 
-Dersom barnehagen søker om dekning av pensjonstilskudd, og regnskapet for det siste året barnehagen søker for, ikke er avsluttet, må barnehagen kunne dokumentere pensjonsutgiftene for at kommunen kan ta stilling til om vilkårene er oppfylt. Pensjonsutgiftene kan dokumenteres med samlede fakturaer for innbetalte premier til sine pensjonsleverandører i løpet av det aktuelle året.
+Dersom barnehagen søker om dekning av pensjonstilskudd, og regnskapet for det siste året barnehagen søker for, ikke er avsluttet, må barnehagen kunne dokumentere pensjonsutgiftene for at kommunen kan ta stilling til om vilkårene er oppfylt. Pensjonsutgiftene kan dokumenteres med samlede fakturaer for innbetalte premier til sine pensjonsleverandører i løpet av det aktuelle året. En privat barnehage og kommunen kan bli enige om å legge til grunn prognoser for pensjonsutgifter som enda ikke er fakturert.
 
 Kommunen skal legge til kompensasjon for arbeidsgiveravgift på pensjon, det vil si arbeidsgiveravgiften som gjelder i den enkelte kommune.
 
@@ -539,6 +539,8 @@ Tredje ledd må ses i sammenheng med første ledd første punktum, som innebære
 Etter *fjerde ledd* skal både barnehagens pensjonstilskudd, lønn, pensjonsutgifter og innvilget søknadsbeløp for tidligere år indeksjusteres med kommunal deflator før kommunen beregner hva barnehagen har rett på å få dekket etter regelen. Med kommunal deflator menes faktoren for forventet pris- og kostnadsvekst i kommunesektoren som brukes i prisomregningen av det kommunale rammetilskuddet (kommunal deflator inkludert pensjonskostnader). Dette fastsettes av Finansdepartementet, og offentliggjøres hver høst i Nasjonalbudsjettet. Ved indeksregulering etter første og andre ledd er det anslag fra siste tilgjengelige nasjonalbudsjett som skal brukes.
 
 Dersom barnehagen har blitt kompensert etter overgangsordningen for samlet tilskudd i [§ 26](forskrift/2026-03-23-454/§26), skal det gjøres fratrekk for dette ved beregningen av tilskudd etter [§ 15](forskrift/2026-03-23-454/§15), jf. [§ 26 andre ledd](forskrift/2026-03-23-454/§26/ledd/2)
+
+> Endret ved rettelse fra departementet mottatt 18. september 2026.
 
 ### Til [§ 16](forskrift/2026-03-23-454/§16) Særregel for pensjonstilskudd til private barnehager med historiske forpliktelser basert på avtale om offentlig tjenestepensjon
 
