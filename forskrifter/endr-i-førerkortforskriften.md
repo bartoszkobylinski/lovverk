@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "a8ec49bd15ed23e60f691d9873fc76189e0bfe0cc9a44d8035eca6df1151f2be"
+xml_hash: "b4aec88a7752db5f5cc3660fbcd29f9f9731cc6868d28e93289a5b852ae1179d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-22T09:14:53.774912+00:00"
+retrieved_at: "2026-09-23T09:15:32.652390+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Internasjonalt førerkort anerkjennes sammen med nasjonalt førerkort, jf. [§§
 
 Fra og med 19. januar 2033 må EØS-førerkort være utstedt fra og med 19. januar 2013 for å anerkjennes for kjøring i Norge.
 
-Ny § 2-4 skal lyde:
+Ny [§ 2-4](forskrift/2004-01-19-298/§2-4) skal lyde:
 
 [§ 5-1 femte ledd](forskrift/2004-01-19-298/§5-1/ledd/5) oppheves.
 
