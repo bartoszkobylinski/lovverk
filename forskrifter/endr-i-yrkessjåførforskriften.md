@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "7db81ff298ae50afc0157aec305d98608c1a3f1649e403437f7858f210f1130e"
+xml_hash: "7081b1cc4ba25c18315f5533b001407c0533d8a191afedd3111b03619e95c189"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-22T09:14:53.774912+00:00"
+retrieved_at: "2026-09-23T09:15:32.652390+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,11 @@ I [forskrift 16. april 2008 nr. 362 om grunnutdanning og etterutdanning for yrke
 
 [§ 16 fjerde ledd](forskrift/2008-04-16-362/§16/ledd/4) skal lyde:
 
-Prøven bestilles hos Statens vegvesen som fastsetter prøvesteder og arrangerer prøvene. Før prøven kan avlegges skal kandidaten fremvise akseptabel legitimasjon, jf. førerkortforskriften § 2-4.
+Prøven bestilles hos Statens vegvesen som fastsetter prøvesteder og arrangerer prøvene. Før prøven kan avlegges skal kandidaten fremvise akseptabel legitimasjon, jf. [førerkortforskriften § 2-4](forskrift/2004-01-19-298/§2-4).
 
 [§ 35 fjerde ledd](forskrift/2008-04-16-362/§35/ledd/4) skal lyde:
 
-Etterutdanning skal være gjennomført før søknad om fornyelse av beviset fremmes. Før yrkessjåførbevis utstedes skal søker fremvise akseptabel legitimasjon, jf. førerkortforskriften § 2-4.
+Etterutdanning skal være gjennomført før søknad om fornyelse av beviset fremmes. Før yrkessjåførbevis utstedes skal søker fremvise akseptabel legitimasjon, jf. [førerkortforskriften § 2-4](forskrift/2004-01-19-298/§2-4).
 
 ## II
 
