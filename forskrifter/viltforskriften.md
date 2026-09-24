@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2020-04-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "f99f014b2ef3f9f67bab583f245cdca70c536fcc48d6299028594f9250ed5eb1"
+xml_hash: "e56406b83cef292fe9b218d0e9dadf11e7331c8524499e7d248c329571292d9b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-24T09:13:40.436161+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -253,7 +253,7 @@ Når søknaden avgjøres skal det særlig legges vekt på formålet med og behov
 
 Ved uttak etter denne forskriften gjelder [viltressursloven § 46](lov/2025-06-20-102/§46) og [§ 47](lov/2025-06-20-102/§47) og [forskrift 22. mars 2002 nr. 313 om utøvelse av jakt, felling og fangst](forskrift/2002-03-22-313) hvis ikke annet er bestemt i tillatelsen. Beslutningsmyndigheten kan tillate andre metoder for uttak.
 
-Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at bestemte typer dyr skal være unntatt, at felling skal foretas av nærmere bestemte personer, samt metoder for felling. Bruk av metoder for felling som i utgangspunktet er forbudt etter [Bernkonvensjonen](traktat/1971-07-24-1) forutsetter at det ikke vil være skadelig for bestandens overlevelse og at det ikke er noen annen tilfredsstillende løsning. Formålet med bruken av metoden må være for enten å verne flora og fauna, for å avverge alvorlig skade på avling, husdyr, tamrein, skog, fiske, vann eller andre former for eiendom, for å ivareta offentlig helse- og sikkerhetshensyn, luftsikkerhets- eller andre offentlige interesser av vesentlig betydning, for forsknings- eller undervisningsformål til gjenoppbygging av bestander, gjeninnføring og for nødvendig formering, eller for å tillate, i strengt kontrollerte former, på selektivt grunnlag og i begrenset utstrekning, fangst, forvaring og annen skjønnsom bruk av enkelte ville dyr og planter i et lite antall. Metoder for felling kan også avgrenses av hensyn til arten som skal felles, øvrig vilt, dyrevelferd, økonomi, påvirkning på naturmangfold, allmenn sikkerhet eller andre offentlige interesser av vesentlig betydning.
+Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at bestemte typer dyr skal være unntatt, at felling skal foretas av nærmere bestemte personer, samt metoder for felling. Bruk av metoder for felling som i utgangspunktet er forbudt etter [Bernkonvensjonen](traktat/1979-09-19-1) forutsetter at det ikke vil være skadelig for bestandens overlevelse og at det ikke er noen annen tilfredsstillende løsning. Formålet med bruken av metoden må være for enten å verne flora og fauna, for å avverge alvorlig skade på avling, husdyr, tamrein, skog, fiske, vann eller andre former for eiendom, for å ivareta offentlig helse- og sikkerhetshensyn, luftsikkerhets- eller andre offentlige interesser av vesentlig betydning, for forsknings- eller undervisningsformål til gjenoppbygging av bestander, gjeninnføring og for nødvendig formering, eller for å tillate, i strengt kontrollerte former, på selektivt grunnlag og i begrenset utstrekning, fangst, forvaring og annen skjønnsom bruk av enkelte ville dyr og planter i et lite antall. Metoder for felling kan også avgrenses av hensyn til arten som skal felles, øvrig vilt, dyrevelferd, økonomi, påvirkning på naturmangfold, allmenn sikkerhet eller andre offentlige interesser av vesentlig betydning.
 
 Miljødirektoratet kan etter søknad gi firma som driver med skadedyrbekjempelse generelle tillatelser til andre avlivingsmetoder på nærmere angitte vilkår.
 
