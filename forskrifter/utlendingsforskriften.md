@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-09-01"
 last_updated: "2026-09-10"
-xml_hash: "527b143cbfd8738b42ae53690329ab0fd833041ea1985b2dee1d8d67edfd84b9"
+xml_hash: "488e4a5c69322561a72721a6444c2f8dbb427b79761f5458bbe9842a0a9718a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-22T09:14:53.774912+00:00"
+retrieved_at: "2026-09-24T09:13:40.436161+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -5163,7 +5163,7 @@ Følgende oppholdstillatelser med ubegrenset returadgang, unntar fra kravet om l
 
 ## Vedlegg 14. Utenriksstasjoner med viseringsmyndighet
 
-Norske utenriksstasjoner med myndighet til å avgjøre søknader om besøksvisum (avgjørelsesmyndighet) og til å utstede slikt visum pr. 1. september 2025, jf. [§ 3-14](forskrift/2009-10-15-1286/§3-14) tredje ledd første punktum og [§ 3-15](forskrift/2009-10-15-1286/§3-15) annet ledd første punktum:
+Norske utenriksstasjoner med myndighet til å avgjøre søknader om besøksvisum (avgjørelsesmyndighet) og til å utstede slikt visum pr. 16. oktober 2025, jf. [§ 3-14](forskrift/2009-10-15-1286/§3-14) tredje ledd første punktum og [§ 3-15](forskrift/2009-10-15-1286/§3-15) annet ledd første punktum:
 
 Ambassaden i:
 
@@ -5197,7 +5197,6 @@ Ambassaden i:
 
 Generalkonsulatet i:
 
-- Kina, Shanghai
 - Russland, Murmansk[^\*]
 - USA, New York
 
@@ -5211,7 +5210,7 @@ Sysselmester:
 
 2 Stasjonen kun har utstedelsesadgang for innreisevisum i henhold til [utlendingsloven § 12](lov/2008-05-15-35/§12).
 
-> Endret ved [forskrifter 25 jan 2010 nr. 53](forskrift/2010-01-25-53), [25 nov 2011 nr. 1340](forskrift/2011-11-25-1340), [22 feb 2012 nr. 184](forskrift/2012-02-22-184), [7 nov 2012 nr. 1042](forskrift/2012-11-07-1042), [12 nov 2012 nr. 1049](forskrift/2012-11-12-1049), [15 mai 2013 nr. 500](forskrift/2013-05-15-500), [30 okt 2014 nr. 1374](forskrift/2014-10-30-1374) (i kraft 1 nov 2014), [19 juli 2017 nr. 1208](forskrift/2017-07-19-1208), [19 juli 2017 nr. 1315](forskrift/2017-07-19-1315), [7 feb 2019 nr. 358](forskrift/2019-02-07-358) (i kraft 1 april 2019), [28 sep 2020 nr. 1915](forskrift/2020-09-28-1915), [28 sep 2020 nr. 1947](forskrift/2020-09-28-1947), [16 feb 2021 nr. 460](forskrift/2021-02-16-460), [11 juni 2021 nr. 1926](forskrift/2021-06-11-1926) (i kraft 1 juli 2021), [1 juni 2023 nr. 787](forskrift/2023-06-01-787) (med virkning fra 1 april 2023), [15 juni 2023 nr. 1277](forskrift/2023-06-15-1277), [15 april 2024 nr. 639](forskrift/2024-04-15-639), [15 april 2024 nr. 648](forskrift/2024-04-15-648), [7 aug 2025 nr. 1599](forskrift/2025-08-07-1599) (i kraft 1 sep 2025).
+> Endret ved [forskrifter 25 jan 2010 nr. 53](forskrift/2010-01-25-53), [25 nov 2011 nr. 1340](forskrift/2011-11-25-1340), [22 feb 2012 nr. 184](forskrift/2012-02-22-184), [7 nov 2012 nr. 1042](forskrift/2012-11-07-1042), [12 nov 2012 nr. 1049](forskrift/2012-11-12-1049), [15 mai 2013 nr. 500](forskrift/2013-05-15-500), [30 okt 2014 nr. 1374](forskrift/2014-10-30-1374) (i kraft 1 nov 2014), [19 juli 2017 nr. 1208](forskrift/2017-07-19-1208), [19 juli 2017 nr. 1315](forskrift/2017-07-19-1315), [7 feb 2019 nr. 358](forskrift/2019-02-07-358) (i kraft 1 april 2019), [28 sep 2020 nr. 1915](forskrift/2020-09-28-1915), [28 sep 2020 nr. 1947](forskrift/2020-09-28-1947), [16 feb 2021 nr. 460](forskrift/2021-02-16-460), [11 juni 2021 nr. 1926](forskrift/2021-06-11-1926) (i kraft 1 juli 2021), [1 juni 2023 nr. 787](forskrift/2023-06-01-787) (med virkning fra 1 april 2023), [15 juni 2023 nr. 1277](forskrift/2023-06-15-1277), [15 april 2024 nr. 639](forskrift/2024-04-15-639), [15 april 2024 nr. 648](forskrift/2024-04-15-648), [7 aug 2025 nr. 1599](forskrift/2025-08-07-1599) (i kraft 1 sep 2025), [22 sep 2026 nr. 1861](forskrift/2026-09-22-1861) (i kraft 16 okt 2025).
 
 ## Vedlegg 15. Andre Schengenlands utenriksstasjoner med viseringsmyndighet
 
