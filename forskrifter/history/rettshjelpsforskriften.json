@@ -2,6 +2,16 @@
   "doc_id": "sf-20250926-1961",
   "events": [
     {
+      "commit": "188c220",
+      "date": "2026-09-24",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 3,
+      "subject": "update(forskrift): rettshjelpsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

@@ -48250,13 +48250,13 @@
     },
     "sf-20050318-0242": {
       "doc_type": "forskrift",
-      "embedding_hash": "b6955a56c4b58df136414a15a8fd52427ebc7baf6f0519dc469dbc584945ed65",
-      "embedding_input_hash": "f58c8334c87967867fcaa515e06b87436f94a7f5f2b7ac2f445e15b49b35a7be",
+      "embedding_hash": "afd2ff05df4daa94c550af36514f3807eb05cc24b58bec50ed9e716ea147efa6",
+      "embedding_input_hash": "552b76de3127b00832dd44678e9d88d16cc649d528f036e0b7cce1c86ae8003b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
       "markdown_path": "forskrifter/rovviltforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -48264,8 +48264,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forvaltning av rovvilt",
-      "total_changes": 6,
-      "xml_hash": "b6955a56c4b58df136414a15a8fd52427ebc7baf6f0519dc469dbc584945ed65"
+      "total_changes": 7,
+      "xml_hash": "afd2ff05df4daa94c550af36514f3807eb05cc24b58bec50ed9e716ea147efa6"
     },
     "sf-20050321-0247": {
       "doc_type": "forskrift",
@@ -58149,13 +58149,13 @@
     },
     "sf-20091015-1286": {
       "doc_type": "forskrift",
-      "embedding_hash": "527b143cbfd8738b42ae53690329ab0fd833041ea1985b2dee1d8d67edfd84b9",
+      "embedding_hash": "488e4a5c69322561a72721a6444c2f8dbb427b79761f5458bbe9842a0a9718a2",
       "embedding_input_hash": "5c2c33689e40942589acd11a158a688ac7cf444d7553343ef79ced6ed880cf37",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-22",
-      "last_seen": "2026-09-22T09:14:53.774912Z",
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58163,8 +58163,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 17,
-      "xml_hash": "527b143cbfd8738b42ae53690329ab0fd833041ea1985b2dee1d8d67edfd84b9"
+      "total_changes": 18,
+      "xml_hash": "488e4a5c69322561a72721a6444c2f8dbb427b79761f5458bbe9842a0a9718a2"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -85946,13 +85946,13 @@
     },
     "sf-20200401-0565": {
       "doc_type": "forskrift",
-      "embedding_hash": "f99f014b2ef3f9f67bab583f245cdca70c536fcc48d6299028594f9250ed5eb1",
-      "embedding_input_hash": "c26700b7d540b5912cbba1522655deadd3500dc2aa00b96b7acbf8b84eb7ec69",
+      "embedding_hash": "e56406b83cef292fe9b218d0e9dadf11e7331c8524499e7d248c329571292d9b",
+      "embedding_input_hash": "ee96f734d2da791697aaf46554585afa14096063e9fc35a2850d08a21eb02eff",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
       "markdown_path": "forskrifter/viltforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -85960,8 +85960,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om skadefelling, dødt vilt og bruk av vilt i oppdrett, forskning og dyrepark (viltforskriften)",
-      "total_changes": 4,
-      "xml_hash": "f99f014b2ef3f9f67bab583f245cdca70c536fcc48d6299028594f9250ed5eb1"
+      "total_changes": 5,
+      "xml_hash": "e56406b83cef292fe9b218d0e9dadf11e7331c8524499e7d248c329571292d9b"
     },
     "sf-20200403-0569": {
       "doc_type": "forskrift",
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "26c8e19589e84cbdb7e8c90bb21453abcdd3884c74198fb2989ce7fdb03d0ad9",
-      "embedding_input_hash": "a21697b7a0755a8e71cdb0c58810e97af483619b42b28f79d567c969677973dc",
+      "embedding_hash": "b42609915aa0bc306f960ef7046e08c46187c442fdfb4a132d13c7da72a6857c",
+      "embedding_input_hash": "a8506d153ae4bce80a00708999a8edaa7d08af8a156f384748a1854766fa441a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-23",
-      "last_seen": "2026-09-23T09:15:32.652390Z",
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 23,
-      "xml_hash": "26c8e19589e84cbdb7e8c90bb21453abcdd3884c74198fb2989ce7fdb03d0ad9"
+      "total_changes": 24,
+      "xml_hash": "b42609915aa0bc306f960ef7046e08c46187c442fdfb4a132d13c7da72a6857c"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -106903,13 +106903,13 @@
     },
     "sf-20250926-1961": {
       "doc_type": "forskrift",
-      "embedding_hash": "fff24713461087e1b0f09e5c4aad14e9df00a672d732902363a20e9dcfd6203f",
-      "embedding_input_hash": "cd2135c676ae4beec8c26724fc877d322ba50fad8c0af2644d01cd3190329e04",
+      "embedding_hash": "af0c755cc06c5caa46982ec1a0c0c8000df6d01ab1d10c296940dad2400ca7e4",
+      "embedding_input_hash": "670ff0a80e09793b5defd55c82dcbcdc2ce4dd7b4e7f84b2bf238a3fe7e33cd3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
       "markdown_path": "forskrifter/rettshjelpsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -106917,8 +106917,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fri rettshjelp (rettshjelpsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "fff24713461087e1b0f09e5c4aad14e9df00a672d732902363a20e9dcfd6203f"
+      "total_changes": 4,
+      "xml_hash": "af0c755cc06c5caa46982ec1a0c0c8000df6d01ab1d10c296940dad2400ca7e4"
     },
     "sf-20251001-1974": {
       "doc_type": "forskrift",
@@ -110893,13 +110893,13 @@
     },
     "sf-20260409-0579": {
       "doc_type": "forskrift",
-      "embedding_hash": "cd332cb21ac3a47f88f73c3c0a9fa006f2dd407a198418264b6041d058d1f1e2",
-      "embedding_input_hash": "8ebfd0b3aa37c6eccbd180ac09dd46881d958513022aa3ba92fc8b71dec9d7a0",
+      "embedding_hash": "4adc8667e12bbf1f709e9bbd302602a5a6287909f235ba74ea992c1c9683b9f2",
+      "embedding_input_hash": "110d0870194db435f8ec9994ebacbada8cbcfb647e6fa0af018ab7b4a9a714ff",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-23",
-      "last_seen": "2026-09-23T09:15:32.652390Z",
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -110907,8 +110907,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 17,
-      "xml_hash": "cd332cb21ac3a47f88f73c3c0a9fa006f2dd407a198418264b6041d058d1f1e2"
+      "total_changes": 18,
+      "xml_hash": "4adc8667e12bbf1f709e9bbd302602a5a6287909f235ba74ea992c1c9683b9f2"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -113721,8 +113721,27 @@
       "title": "Forskrift om valg av utleggsgjenstand i saker som berører lokalsamfunn på Svalbard",
       "total_changes": 1,
       "xml_hash": "a4e5583c233823401ab95773cbdde391e790e37a1714649068f8e70dcf699173"
+    },
+    "sf-20260918-1871": {
+      "doc_type": "forskrift",
+      "embedding_hash": "ce9c737f0c4621c4ff24560a92f5fc0b3ebb61f8064a2b852e8b72ddca77fc4e",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-24",
+      "last_seen": "2026-09-24T09:13:40.436161Z",
+      "markdown_path": "forskrifter/overføring-av-forvaltningsansvaret-for-militær-romaktivitet-under-lov-av-22-desember-2025-nr-128-om-aktiviteter-i-verdensrommet-2-tredje-ledd-fra-nærings-og-fiskeridepartementet-til.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "overføring-av-forvaltningsansvaret-for-militær-romaktivitet-under-lov-av-22-desember-2025-nr-128-om-aktiviteter-i-verdensrommet-2-tredje-ledd-fra-nærings-og-fiskeridepartementet-til",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Overføring av forvaltningsansvaret for militær romaktivitet under lov av 22. desember 2025 nr. 128 om aktiviteter i verdensrommet § 2 tredje ledd fra Nærings- og fiskeridepartementet til Forsvarsdepartementet",
+      "total_changes": 1,
+      "xml_hash": "ce9c737f0c4621c4ff24560a92f5fc0b3ebb61f8064a2b852e8b72ddca77fc4e"
     }
   },
-  "generated_at": "2026-09-23T09:15:32.652390Z",
+  "generated_at": "2026-09-24T09:13:40.436161Z",
   "version": 1
 }

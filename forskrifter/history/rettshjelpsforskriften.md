@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # rettshjelpsforskriften — Change history
 
-_3 events; doc_id `sf-20250926-1961`._
+_4 events; doc_id `sf-20250926-1961`._
+
+## 2026-09-24 — Content updated
+Lines: +7 -3.
+Subject: `update(forskrift): rettshjelpsforskriften`
+Commit: `188c220`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

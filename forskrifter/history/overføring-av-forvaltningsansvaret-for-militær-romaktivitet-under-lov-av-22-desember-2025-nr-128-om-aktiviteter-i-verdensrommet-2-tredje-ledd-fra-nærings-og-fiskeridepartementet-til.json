@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260918-1871",
+  "events": [
+    {
+      "commit": "f494bd1",
+      "date": "2026-09-24",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 0,
+      "subject": "add(forskrift): overføring-av-forvaltningsansvaret-for-militær-romaktivitet-under-lov-av-22-desember-2025-nr-128-om-aktiviteter-i-verdensrommet-2-tredje-ledd-fra-nærings-og-fiskeridepartementet-til",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "overføring-av-forvaltningsansvaret-for-militær-romaktivitet-under-lov-av-22-desember-2025-nr-128-om-aktiviteter-i-verdensrommet-2-tredje-ledd-fra-nærings-og-fiskeridepartementet-til"
+}

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # rovviltforskriften — Change history
 
-_6 events; doc_id `sf-20050318-0242`._
+_7 events; doc_id `sf-20050318-0242`._
+
+## 2026-09-24 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): rovviltforskriften`
+Commit: `acbc9a8`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

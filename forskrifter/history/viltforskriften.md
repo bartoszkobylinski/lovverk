@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # viltforskriften — Change history
 
-_4 events; doc_id `sf-20200401-0565`._
+_5 events; doc_id `sf-20200401-0565`._
+
+## 2026-09-24 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): viltforskriften`
+Commit: `ebfcc62`.
 
 ## 2026-07-01 — Content updated
 Lines: +65 -25.
