@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2025-10-15"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-09-22"
 last_updated: null
-xml_hash: "fff24713461087e1b0f09e5c4aad14e9df00a672d732902363a20e9dcfd6203f"
+xml_hash: "af0c755cc06c5caa46982ec1a0c0c8000df6d01ab1d10c296940dad2400ca7e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-24T09:13:40.436161+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -165,3 +165,7 @@ Forskriften trer i kraft 15. oktober 2025. Samtidig oppheves [forskrift 12. dese
 ### § 23. Overgangsregler
 
 Reglene om den nye modellen for økonomisk behovsprøving gjelder for saker der oppdraget i den aktuelle rettsråds- eller sakførselsaken er påbegynt etter at reglene har trådt i kraft. For saker der oppdraget i den aktuelle rettsråds- eller sakførselsaken er påbegynt før 15. oktober 2025 gjelder [rettshjelpsloven](lov/1980-06-13-35) slik den lød før endringene trådte i kraft og [forskrift 12. desember 2005 nr. 1443 til lov om fri rettshjelp](forskrift/2005-12-12-1443).
+
+For saker der oppdraget i sakførselsaken er påbegynt før 1. oktober 2026, gjelder [rettshjelpsloven § 16 andre ledd nr. 5](lov/1980-06-13-35/§16/ledd/2/nummer/5) slik den lød før endringene trådte i kraft.
+
+> Endret ved forskrift [22 sep 2026 nr. 1862](forskrift/2026-09-22-1862).
