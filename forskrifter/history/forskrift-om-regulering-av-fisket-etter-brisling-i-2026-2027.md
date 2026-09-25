@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027 — Change history
 
-_4 events; doc_id `sf-20260622-1211`._
+_5 events; doc_id `sf-20260622-1211`._
+
+## 2026-09-25 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027`
+Commit: `9cee1f8`.
 
 ## 2026-09-14 — Content updated
 Lines: +3 -3.

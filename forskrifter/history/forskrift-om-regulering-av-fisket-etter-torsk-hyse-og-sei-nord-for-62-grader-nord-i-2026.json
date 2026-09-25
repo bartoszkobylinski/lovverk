@@ -2,6 +2,16 @@
   "doc_id": "sf-20251219-2826",
   "events": [
     {
+      "commit": "6b11b1b",
+      "date": "2026-09-25",
+      "from_path": null,
+      "lines_added": 12,
+      "lines_removed": 12,
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c7e8fd0",
       "date": "2026-09-09",
       "from_path": null,

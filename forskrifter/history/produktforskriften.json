@@ -2,6 +2,16 @@
   "doc_id": "sf-20040601-0922",
   "events": [
     {
+      "commit": "e5dba9d",
+      "date": "2026-09-25",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 9,
+      "subject": "update(forskrift): produktforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0bd385a",
       "date": "2026-09-14",
       "from_path": null,

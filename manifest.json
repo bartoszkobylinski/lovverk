@@ -46825,13 +46825,13 @@
     },
     "sf-20040601-0922": {
       "doc_type": "forskrift",
-      "embedding_hash": "d9bf9f68699b102884e83b515526987da0a5b32cd208d208d764aef727bbf4cc",
-      "embedding_input_hash": "cd646a7f2bc2bc8cc03db7dc9d131504af8e447ae09471a19a61fef968d42c36",
+      "embedding_hash": "48bf6aeb1b856644853253f9664067dd039124ac255f8fd6f73851072385436a",
+      "embedding_input_hash": "42ea56378c458d074e5084df6ca354e370e2d4bc3f55cb14a75629a850ad0c8b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-09-25",
+      "last_seen": "2026-09-25T09:32:58.782501Z",
       "markdown_path": "forskrifter/produktforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -46839,8 +46839,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
-      "total_changes": 10,
-      "xml_hash": "d9bf9f68699b102884e83b515526987da0a5b32cd208d208d764aef727bbf4cc"
+      "total_changes": 11,
+      "xml_hash": "48bf6aeb1b856644853253f9664067dd039124ac255f8fd6f73851072385436a"
     },
     "sf-20040601-0930": {
       "doc_type": "forskrift",
@@ -109335,13 +109335,13 @@
     },
     "sf-20251219-2826": {
       "doc_type": "forskrift",
-      "embedding_hash": "c0e105b67618b7c1250d827a3aeccb143507697fe203b5f824aa8ca0825db505",
-      "embedding_input_hash": "2843a5e9cc40475467c09797f96f90bfd0de96244104c2340853db8584e25a5a",
+      "embedding_hash": "0fa33d6532a8e370b020f40367487387d911dbeb17e065faaf30e7d1b96bf1b4",
+      "embedding_input_hash": "e94b9f3bc156ca41e2e49571f0939f8bc29c8f67f678a680b2daef405f024ef3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-09-25",
+      "last_seen": "2026-09-25T09:32:58.782501Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109349,8 +109349,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026",
-      "total_changes": 8,
-      "xml_hash": "c0e105b67618b7c1250d827a3aeccb143507697fe203b5f824aa8ca0825db505"
+      "total_changes": 9,
+      "xml_hash": "0fa33d6532a8e370b020f40367487387d911dbeb17e065faaf30e7d1b96bf1b4"
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
@@ -112280,13 +112280,13 @@
     },
     "sf-20260622-1211": {
       "doc_type": "forskrift",
-      "embedding_hash": "2234917caf3a633e227c4fcc43db0c2d4add77453c4b507789e856c8ca299df1",
-      "embedding_input_hash": "754392da901a785adeaae6232f87fc3ab9e1153cd6ab09a5eb5c868071184678",
+      "embedding_hash": "6b3c1c7c72a7dd31a26e142c256d8e0b902a1c3b115d88d8c0fefcfda87a1f61",
+      "embedding_input_hash": "cf7806b6fb128d2d5a8ef66d01727d723b3ae7318bf956aa6c9ca9ad5d311dd5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-09-25",
+      "last_seen": "2026-09-25T09:32:58.782501Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -112294,8 +112294,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter brisling i 2026–2027",
-      "total_changes": 4,
-      "xml_hash": "2234917caf3a633e227c4fcc43db0c2d4add77453c4b507789e856c8ca299df1"
+      "total_changes": 5,
+      "xml_hash": "6b3c1c7c72a7dd31a26e142c256d8e0b902a1c3b115d88d8c0fefcfda87a1f61"
     },
     "sf-20260622-1213": {
       "doc_type": "forskrift",
@@ -113742,6 +113742,6 @@
       "xml_hash": "ce9c737f0c4621c4ff24560a92f5fc0b3ebb61f8064a2b852e8b72ddca77fc4e"
     }
   },
-  "generated_at": "2026-09-24T09:13:40.436161Z",
+  "generated_at": "2026-09-25T09:32:58.782501Z",
   "version": 1
 }

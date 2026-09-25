@@ -2,6 +2,16 @@
   "doc_id": "sf-20260622-1211",
   "events": [
     {
+      "commit": "9cee1f8",
+      "date": "2026-09-25",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a83358b",
       "date": "2026-09-14",
       "from_path": null,
