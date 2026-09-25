@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2004-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-17"
 last_updated: "2022-11-14"
-xml_hash: "d9bf9f68699b102884e83b515526987da0a5b32cd208d208d764aef727bbf4cc"
+xml_hash: "48bf6aeb1b856644853253f9664067dd039124ac255f8fd6f73851072385436a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-09-25T09:32:58.782501+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,17 +104,18 @@ Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvf
 
 ### § 2-4. Gjennomføring av forordningen om kvikksølv
 
-Forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv (kvikksølvforordningen), som inntatt i [EØS-avtalen vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV) nr. 22a, gjelder som forskrift, med de tilpasninger som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20) kapittel IV, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv (kvikksølvforordningen), som inntatt i [EØS-avtalen vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV) nr. 22a, gjelder som forskrift.
 
-Forordningen gjelder med endringene som følger av
+Forordningen gjelder med de tilpasningene som følger av [vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
 
-1. forordning [(EU) 2022/2526](eu/32022r2526)
-2. forordning [(EU) 2023/2049](eu/32023r2049)
-3. forordning [(EU) 2024/1849](eu/32024r1849).
+- forordning [(EU) 2022/2526](eu/32022r2526)
+- forordning [(EU) 2023/2049](eu/32023r2049)
+- forordning [(EU) 2024/1849](eu/32024r1849)
+- forordning [(EU) 2026/55](eu/32026r0055).
 
 Første ledd gjelder ikke for Svalbard, Jan Mayen eller bilandene.
 
-> Endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), opphevet ved [forskrift 22 juli 2014 nr. 995](forskrift/2014-07-22-995), tilføyd ved forskrift [4 mai 2021 nr. 1397](forskrift/2021-05-04-1397), endret ved forskrifter [29 nov 2022 nr. 2047](forskrift/2022-11-29-2047), [8 des 2023 nr. 2013](forskrift/2023-12-08-2013), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026), [23 juni 2026 nr. 1256](forskrift/2026-06-23-1256) (i kraft 1 juli 2026).
+> Endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), opphevet ved [forskrift 22 juli 2014 nr. 995](forskrift/2014-07-22-995), tilføyd ved forskrift [4 mai 2021 nr. 1397](forskrift/2021-05-04-1397), endret ved forskrifter [29 nov 2022 nr. 2047](forskrift/2022-11-29-2047), [8 des 2023 nr. 2013](forskrift/2023-12-08-2013), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026), [23 juni 2026 nr. 1256](forskrift/2026-06-23-1256) (i kraft 1 juli 2026), [17 sep 2026 nr. 1870](forskrift/2026-09-17-1870).
 
 ### § 2-5. Oktylfenol
 
