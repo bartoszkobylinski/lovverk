@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-06-22"
-last_change_in_force: "2026-09-03"
+last_change_in_force: "2026-09-22"
 last_updated: null
-xml_hash: "2234917caf3a633e227c4fcc43db0c2d4add77453c4b507789e856c8ca299df1"
+xml_hash: "6b3c1c7c72a7dd31a26e142c256d8e0b902a1c3b115d88d8c0fefcfda87a1f61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-09-25T09:32:58.782501+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,9 +83,9 @@ Uten hinder av [§ 1](forskrift/2026-06-22-1211/§1) kan eier og fartøy med adg
 
 Det er forbudt å fiske brisling i statistikklokasjonene 28–36 (Nordfjord).
 
-Det er forbudt å fiske brisling i statistikklokasjonene 28–39 (Sognefjorden).
+Det er adgang å fiske brisling i statistikklokasjonene 28-39 (Sognefjorden) innenfor en kvote på 222 tonn.
 
-Det er adgang til å fiske brisling i statistikklokasjonene 08–20, 08–21 og 08–15 (Hardangerfjorden) innenfor en foreløpig kvote på 240 tonn.
+Det er adgang til å fiske brisling i statistikklokasjonene 08-20, 08-21 og 08-15 (Hardangerfjorden) innenfor en kvote på 811 tonn.
 
 Det er forbudt å fiske brisling i statistikklokasjon 07–26 og 07–27 (Trondheimsfjorden).
 
@@ -95,7 +95,7 @@ Forbud etter denne paragraf er ikke til hinder for at vedkommende salgslag kan t
 
 Fartøy som skal delta i fisket etter kystbrisling må melde fra til Fiskeridirektoratets sjøtjeneste senest 48 timer før utseiling. Melding sendes på e-post til [sjotjenesten@fiskeridir.no](mailto:sjotjenesten@fiskeridir.no).
 
-> Endret ved forskrift [3 sep 2026 nr. 1735](forskrift/2026-09-03-1735).
+> Endret ved forskrifter [3 sep 2026 nr. 1735](forskrift/2026-09-03-1735), [22 sep 2026 nr. 1872](forskrift/2026-09-22-1872).
 
 ## Kapittel 4. Fellesbestemmelser
 
