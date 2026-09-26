@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-10-01"
 last_change_in_force: "2026-06-08"
 last_updated: "2021-01-25"
-xml_hash: "0bf2a539bb100c45b83233d70578f44a07d6d64968282f4fcb9c88d836ea025a"
+xml_hash: "1b237ee61842e80471947d3f408bab63aad2d1d15b67cab88ded4bdab8f927cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -213,7 +213,7 @@ Kortbruker er ansvarlig for nedlastingen og de nedlastete data fra kortet inntil
 
 Statens vegvesen fører register over utstedte, stjålne, tapte og defekte verkstedkort.
 
-> Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024).
+> Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024). **Endres** ved forskrift [16 sep 2026 nr. 1888](forskrift/2026-09-16-1888) (i kraft 1 jan 2027).
 
 ### § 18. Verkstedkort i kvalitetsstyringssystemet
 
