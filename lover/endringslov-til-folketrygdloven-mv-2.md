@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-10-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "36678eb9af38695095769a297ea94f085e22079c140ea46c8f8ab8e5b64e3cf3"
+xml_hash: "8f4a241664051deaf976bb3b72fd9d68a105a221abb77721fab7166c0512b534"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,3 +101,4 @@ Loven trer i kraft fra den tid[^1] Kongen bestemmer. De ulike bestemmelsene kan 
 Departementet kan gi forskrift om nærmere overgangsregler.
 
 1 Fra 1. oktober 2026 med virkning fra 1. januar 2026 for [endringsloven del IV](lov/2026-06-12-24/kapIV) (endringer i folketrygdloven) iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078).
+Fra 1. oktober 2026 med virkning fra 1. januar 2026 for [endringsloven del III](lov/2026-06-12-24/kapIII) (endringer i lov om pensjonstrygd for sykepleiere) iflg. [res. 25 sep 2026 nr. 1892](forskrift/2026-09-25-1892).
