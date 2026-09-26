@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1962-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-01"
-xml_hash: "b45e2e7dedc9ab6c7bbf4ef1f781ae414a45bd2533b734b13eb80d222266cfce"
+xml_hash: "53c2f65d2ca8c35a306dd09f8da4791c291825295c1962d1bb3bd055b88f3386"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -546,7 +546,7 @@ Barnetillegg etter [§ 14](lov/1962-06-22-12/§14) reduseres i samme forhold som
 
 Departementet kan gi forskrift med nærmere regler om reduksjon av pensjon på grunn av inntekt.
 
-> Endret ved lover 16 juni 1971 nr. 62, [11 juni 1982 nr. 56](lov/1982-06-11-56), [24 mai 1985 nr. 35](lov/1985-05-24-35), [16 juni 1995 nr. 32](lov/1995-06-16-32), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover 16 juni 1971 nr. 62, [11 juni 1982 nr. 56](lov/1982-06-11-56), [24 mai 1985 nr. 35](lov/1985-05-24-35), [16 juni 1995 nr. 32](lov/1995-06-16-32), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 25 sep 2026 nr. 1892](forskrift/2026-09-25-1892)).
 
 ### § 16
 
