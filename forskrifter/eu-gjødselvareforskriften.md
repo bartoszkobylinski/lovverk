@@ -13,13 +13,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2024-04-03"
-last_change_in_force: "2026-09-11"
+last_change_in_force: "2026-09-22"
 last_updated: null
-xml_hash: "8d809ed048d6696ac75d2b9fe21614d1426810cfdca35b6e81f92d600dd30d54"
+xml_hash: "b8f4195cdd9d62f0904133af19f36275817c88f612dadc2b866c76dbe84e2674"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-19T08:44:52.874882+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,13 +69,15 @@ Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Vesentlige endri
 
 ## § 6. Nasjonale bestemmelser om merking
 
-Dersom EU-gjødselvarer merkes med kvalitetsklasse 0 eller I etter bestemmelsen om frivillig merking i forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4, jf. vedlegg III del I nr. 8, gjelder [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav (gjødselvareforskriften) § 10 nr. 1](forskrift/2003-07-04-951/§10) og nr. 7 tilsvarende for slike EU-gjødselvarer.
+Dersom EU-gjødselvarer merkes med kvalitetsklasse 0 eller I etter bestemmelsen om frivillig merking i forordning [(EU) 2019/1009](eu/32019r1009/a4) artikkel 4, jf. vedlegg III del I nr. 8, gjelder [forskrift 29. januar 2025 nr. 116 om produksjon, omsetning og import av gjødselvarer av organisk opphav og visse uorganiske gjødselvarer (gjødselvareforskriften) § 21](forskrift/2025-01-29-116/§21) tilsvarende for slike EU-gjødselvarer.
+
+> Endret ved forskrift [22 sep 2026 nr. 1889](forskrift/2026-09-22-1889).
 
 ## § 7. Nasjonale bestemmelser om lagring og bruk av EU-gjødselvarer av organisk opphav og visse uorganiske EU-gjødselvarer
 
-Bestemmelsene i [gjødselvareforskriften del III](forskrift/2003-07-04-951/deliii) gjelder tilsvarende for EU-gjødselvarer i produktfunksjonskategoriene organisk gjødsel, organisk-mineralsk gjødsel, jordforbedringsmidler, dyrkingsmedier, biostimulanter og blandinger dersom blandingen består av en av de andre nevnte produktfunksjonskategoriene.
+Bestemmelsene i [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv. (gjødselbrukforskriften) kapittel 2](forskrift/2025-01-29-115/kap2) til [8](forskrift/2025-01-29-115/kap8) gjelder tilsvarende for EU-gjødselvarer. [Gjødselbrukforskriften §§ 24](forskrift/2025-01-29-115/§24) og [25](forskrift/2025-01-29-115/§25) gjelder likevel bare EU-gjødselvarer av organisk opphav, uorganiske dyrkingsmedier og uorganiske jordforbedringsmidler.
 
-EU-gjødselvarer nevnt i første ledd skal brukes i samsvar med bestemmelsene i [gjødselvareforskriften § 26](forskrift/2003-07-04-951/§26) og [§ 27](forskrift/2003-07-04-951/§27) om bruk av gjødselvarer i kvalitetsklasse II. EU-gjødselvarer kan likevel brukes i samsvar med bruksbestemmelsene for gjødselvarer i klasse 0 eller I dersom de er merket med kvalitetsklasse 0 eller I. Det samme gjelder dersom det på andre måter kan dokumenteres at EU-gjødselvarene overholder grenseverdiene for tungmetallinnhold i klasse 0 og I angitt i [gjødselvareforskriften § 10](forskrift/2003-07-04-951/§10) nr. 1 og nr. 7.
+> Endret ved forskrift [22 sep 2026 nr. 1889](forskrift/2026-09-22-1889).
 
 ## § 8. Utpeking av tekniske kontrollorgan
 
@@ -93,27 +95,29 @@ Direktoratet for samfunnssikkerhet og beredskap fører tilsyn og kan fatte vedta
 
 Dersom et teknisk kontrollorgan utpekt etter [§ 8](forskrift/2024-03-06-538/§8) første ledd ikke oppfyller sine forpliktelser, kan Direktoratet for samfunnssikkerhet og beredskap begrense, midlertidig oppheve eller trekke tilbake utpekingen.
 
-## § 10. Tilsyn og vedtak – bestemmelser gitt med hjemmel i matloven, forurensningsloven, jordloven, folkehelseloven og lov om tekniske kontrollorgan
+## § 10. Tilsyn og vedtak – bestemmelser gitt med hjemmel i matloven og lov om tekniske kontrollorgan
 
-Kommunen fører tilsyn og kan fatte nødvendige vedtak for å oppnå etterlevelse av bestemmelsene omtalt i [§ 7](forskrift/2024-03-06-538/§7).
+Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. [matloven § 23](lov/2003-12-19-124/§23), for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til [matloven § 24](lov/2003-12-19-124/§24) til [§ 26](lov/2003-12-19-124/§26).
 
-Mattilsynet fører tilsyn og kan fatte nødvendige vedtak etter [matloven § 23](lov/2003-12-19-124/§23) for å oppnå etterlevelse av bestemmelsene i denne forskriften med unntak av de bestemmelsene kommunen fører tilsyn med etter første ledd og de bestemmelsene Direktoratet for samfunnssikkerhet og beredskap fører tilsyn med etter [§ 9](forskrift/2024-03-06-538/§9). Mattilsynet fører etter dette tilsyn og fatter vedtak også for å oppnå etterlevelse av bestemmelser om ammoniumnitratgjødsel med høyt nitrogeninnhold når dette gjøres for å ivareta andre hensyn enn sikring mot brann- og eksplosjonsfare.
+Mattilsynet fører etter dette tilsyn og fatter vedtak også for å oppnå etterlevelse av bestemmelser om ammoniumnitratgjødsel med høyt nitrogeninnhold når dette gjøres for å ivareta andre hensyn enn sikring mot brann- og eksplosjonsfare.
 
-Dersom et teknisk kontrollorgan utpekt etter [§ 8](forskrift/2024-03-06-538/§8) andre ledd, ikke oppfyller sine forpliktelser, kan Mattilsynet begrense, midlertidig oppheve eller trekke tilbake utpekingen.
+Dersom et teknisk kontrollorgan utpekt etter [§ 8 andre ledd](forskrift/2024-03-06-538/§8/ledd/2) ikke oppfyller sine forpliktelser, kan Mattilsynet begrense, midlertidig oppheve eller trekke tilbake utpekingen.
+
+> Endret ved forskrift [22 sep 2026 nr. 1889](forskrift/2026-09-22-1889).
 
 ## § 11. Straff
 
 Overtredelse av bestemmelsene i [§ 9](forskrift/2024-03-06-538/§9) eller enkeltvedtak gitt i medhold av denne, kan straffes etter [brann- og eksplosjonsvernloven § 42](lov/2002-06-14-20/§42).
 
-Ved overtredelse av bestemmelsene i [§ 7](forskrift/2024-03-06-538/§7) gjelder [gjødselvareforskriften § 35](forskrift/2003-07-04-951/§35) tilsvarende.
-
 Overtredelse av de øvrige bestemmelsene i forskriften eller enkeltvedtak gitt i medhold av disse, er straffbart etter [matloven § 28](lov/2003-12-19-124/§28).
+
+> Endret ved forskrift [22 sep 2026 nr. 1889](forskrift/2026-09-22-1889).
 
 ## § 12. Dispensasjon
 
 Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i [§ 4](forskrift/2024-03-06-538/§4) til [§ 6](forskrift/2024-03-06-538/§6), forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, inkludert [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-Kommunen kan i særlige tilfeller dispensere fra bestemmelsene i [§ 7](forskrift/2024-03-06-538/§7), som gjør [gjødselvareforskriften del III](forskrift/2003-07-04-951/delIII) gjeldende tilsvarende for EU-gjødselvarer, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, inkludert [EØS-avtalen](lov/1992-11-27-109/eøsl).
+> Endret ved forskrift [22 sep 2026 nr. 1889](forskrift/2026-09-22-1889).
 
 ## § 13. Klage
 
@@ -121,11 +125,11 @@ Vedtak fattet av Direktoratet for samfunnssikkerhet og beredskap kan påklages t
 
 Vedtak fattet av Mattilsynet om utpeking av tekniske kontrollorgan kan påklages til Landbruks- og matdepartementet og Nærings- og fiskeridepartementet. Andre vedtak fattet av Mattilsynet kan påklages til Mattilsynet ved hovedkontoret.
 
-Vedtak fattet av kommunen som ledd i tilsynet med bestemmelsene omtalt i [§ 7](forskrift/2024-03-06-538/§7), kan påklages til tilsvarende statlig organ som ville være klageinstans for kommunens vedtak som ledd i tilsynet med bestemmelsene i [gjødselvareforskriften del III](forskrift/2003-07-04-951/kapIII).
-
 Tekniske kontrollorganers samsvarsvurderinger av ammoniumnitratgjødsel med høyt nitrogeninnhold, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 15, jf. vedlegg IV modul A1, kan påklages til Direktoratet for samfunnssikkerhet og beredskap. Samsvarsvurderinger av andre EU-gjødselvarer kan påklages til Mattilsynet.
 
 Klagen skal fremsettes for det forvaltningsorganet som har truffet vedtaket.
+
+> Endret ved forskrift [22 sep 2026 nr. 1889](forskrift/2026-09-22-1889).
 
 ## § 14. Når forskriften trer i kraft
 
