@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1997-05-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2026-01-09"
-xml_hash: "2f6d7472afebb930f144e1e5fe0e5df929203de8343c9753a0c41f25e1673407"
+xml_hash: "45a3f558a908c3bb7afa702fa855d637c711db83fbf0bcd6bf39b6a3aa7e68e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -3250,7 +3250,7 @@ Belastningslidelser som over tid har utviklet seg i muskel-/skjelett-systemet, r
 
 Som personskade regnes også skade på protese og støttebandasje.
 
-> **Endres** ved lov [23 juni 2026 nr. 64](lov/2026-06-23-64) (i kraft fra den tid Kongen bestemmer, se endringsloven for overgangsregel).
+> **Endres** ved lov [23 juni 2026 nr. 64](lov/2026-06-23-64) (i kraft 1 jan 2027 iflg. [res. 25 sep 2026 nr. 1893](forskrift/2026-09-25-1893), se endringsloven for overgangsregel).
 
 ### § 13-4. Yrkessykdommer som likestilles med yrkesskade
 
