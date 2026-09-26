@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1998-10-01"
-last_change_in_force: "2026-07-30"
+last_change_in_force: "2026-09-24"
 last_updated: "2022-03-09"
-xml_hash: "7a2457f16f42930ce3adc68a6c161b9abb5082bb7ce3b40d260bcf51d84bae73"
+xml_hash: "8970a0b0a693f0db1df528faf92d782689ca1fdad946100573a10177c61b8e4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-04T06:35:57.825021+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -210,13 +210,9 @@ Dersom medlemmet uten rimelig grunn har et vesentlig avvik fra opplæringsplanen
 
 > Tilføyd ved forskrift [15 sep 2021 nr. 2756](forskrift/2021-09-15-2756) (i kraft 1 okt 2021).
 
-### § 4-3g. (overgangsregler)
+### § 4-3g. (opphevet)
 
-Medlemmer som har fått innvilget dagpenger under opplæring eller utdanning etter § 4-3 før 1. oktober 2021, kan fortsette opplæringen eller utdanningen på de samme vilkårene i det tidsrommet vedtaket gjelder for.
-
-Medlemmer som tar opplæring eller utdanning i dagpengeperioden etter § 4-3a slik paragrafen lød frem til 1. oktober 2021, kan fortsette opplæringen eller utdanningen på de samme vilkårene til og med 31. desember 2021. Fra 1. januar 2022 kan disse medlemmene søke om å fortsette påbegynt opplæring eller utdanning i dagpengeperioden dersom de fyller vilkårene i § 4-3a til § 4-3e. Alderskravene og kravet om innledende arbeidssøkerperiode etter § 4-3b til § 4-3e gjelder ikke for disse medlemmene.
-
-> Tilføyd ved forskrift [15 sep 2021 nr. 2756](forskrift/2021-09-15-2756) (i kraft 1 okt 2021).
+> Tilføyd ved forskrift [15 sep 2021 nr. 2756](forskrift/2021-09-15-2756) (i kraft 1 okt 2021), opphevet ved forskrift [24 sep 2026 nr. 1890](forskrift/2026-09-24-1890).
 
 ### § 4-4. (ulønnet arbeid)
 
