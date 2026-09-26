@@ -2153,13 +2153,13 @@
     },
     "nl-19620622-012": {
       "doc_type": "lov",
-      "embedding_hash": "b45e2e7dedc9ab6c7bbf4ef1f781ae414a45bd2533b734b13eb80d222266cfce",
-      "embedding_input_hash": "7f0728e1f2f293cbf72d413ce5ba83d8688de787b08c92ae298d83cc538a4769",
+      "embedding_hash": "53c2f65d2ca8c35a306dd09f8da4791c291825295c1962d1bb3bd055b88f3386",
+      "embedding_input_hash": "3a11525a93d84c253dcbd969ea3d5a741e607a495a36cd1c59deb140db468968",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "lover/sykepleierpensjonsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -2167,8 +2167,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven]",
-      "total_changes": 6,
-      "xml_hash": "b45e2e7dedc9ab6c7bbf4ef1f781ae414a45bd2533b734b13eb80d222266cfce"
+      "total_changes": 7,
+      "xml_hash": "53c2f65d2ca8c35a306dd09f8da4791c291825295c1962d1bb3bd055b88f3386"
     },
     "nl-19630621-012": {
       "doc_type": "lov",
@@ -5323,8 +5323,8 @@
     },
     "nl-19970228-019": {
       "doc_type": "lov",
-      "embedding_hash": "2f6d7472afebb930f144e1e5fe0e5df929203de8343c9753a0c41f25e1673407",
-      "embedding_input_hash": "81651b4a994ca83d1804fb535cf680d7d9670e105d2265ba7d128ecbe18d9464",
+      "embedding_hash": "45a3f558a908c3bb7afa702fa855d637c711db83fbf0bcd6bf39b6a3aa7e68e4",
+      "embedding_input_hash": "02bbf90a9fb24257cb56b8bf022495b06e3d743c8eaa74175e5dbcc794e2379a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
@@ -5332,8 +5332,8 @@
         "32009R0987",
         "32019L1158"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "lover/folketrygdloven-ftrl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5341,8 +5341,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folketrygd (folketrygdloven)",
-      "total_changes": 9,
-      "xml_hash": "2f6d7472afebb930f144e1e5fe0e5df929203de8343c9753a0c41f25e1673407"
+      "total_changes": 10,
+      "xml_hash": "45a3f558a908c3bb7afa702fa855d637c711db83fbf0bcd6bf39b6a3aa7e68e4"
     },
     "nl-19970509-026": {
       "doc_type": "lov",
@@ -14340,13 +14340,13 @@
     },
     "nl-20260612-024": {
       "doc_type": "lov",
-      "embedding_hash": "36678eb9af38695095769a297ea94f085e22079c140ea46c8f8ab8e5b64e3cf3",
+      "embedding_hash": "8f4a241664051deaf976bb3b72fd9d68a105a221abb77721fab7166c0512b534",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "lover/endringslov-til-folketrygdloven-mv-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14354,8 +14354,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
-      "total_changes": 2,
-      "xml_hash": "36678eb9af38695095769a297ea94f085e22079c140ea46c8f8ab8e5b64e3cf3"
+      "total_changes": 3,
+      "xml_hash": "8f4a241664051deaf976bb3b72fd9d68a105a221abb77721fab7166c0512b534"
     },
     "nl-20260612-025": {
       "doc_type": "lov",
@@ -14867,13 +14867,13 @@
     },
     "nl-20260623-064": {
       "doc_type": "lov",
-      "embedding_hash": "100ddfc902456b3f9725fe75234c0cc03dfc39d73fa8e16188321050c93c6983",
+      "embedding_hash": "ea925fe021dc701f6399e323d909e4ae71d02fc8e27de7431dfac3c0856f5d0f",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "lover/endringslov-til-folketrygdloven-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14881,8 +14881,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)",
-      "total_changes": 1,
-      "xml_hash": "100ddfc902456b3f9725fe75234c0cc03dfc39d73fa8e16188321050c93c6983"
+      "total_changes": 2,
+      "xml_hash": "ea925fe021dc701f6399e323d909e4ae71d02fc8e27de7431dfac3c0856f5d0f"
     },
     "nl-20260623-065": {
       "doc_type": "lov",
@@ -35102,13 +35102,13 @@
     },
     "sf-19980916-0890": {
       "doc_type": "forskrift",
-      "embedding_hash": "7a2457f16f42930ce3adc68a6c161b9abb5082bb7ce3b40d260bcf51d84bae73",
-      "embedding_input_hash": "f006a904c7298ea1930431a4c63315c106ede259eddc2d1e5dc30f62f88a4f0b",
+      "embedding_hash": "8970a0b0a693f0db1df528faf92d782689ca1fdad946100573a10177c61b8e4f",
+      "embedding_input_hash": "d1efe81d61fcc600c06507fba163763a9c5540cf2819d85bfc157f6414c2f7b6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-04",
-      "last_seen": "2026-08-04T06:35:57.825021Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "forskrifter/dagpengeforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -35116,8 +35116,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om dagpenger under arbeidsløshet",
-      "total_changes": 4,
-      "xml_hash": "7a2457f16f42930ce3adc68a6c161b9abb5082bb7ce3b40d260bcf51d84bae73"
+      "total_changes": 5,
+      "xml_hash": "8970a0b0a693f0db1df528faf92d782689ca1fdad946100573a10177c61b8e4f"
     },
     "sf-19980916-0936": {
       "doc_type": "forskrift",
@@ -81158,13 +81158,13 @@
     },
     "sf-20180926-1467": {
       "doc_type": "forskrift",
-      "embedding_hash": "0bf2a539bb100c45b83233d70578f44a07d6d64968282f4fcb9c88d836ea025a",
-      "embedding_input_hash": "a7aebb4d91dcbf95b1fab41d35078d38df475785d0ef9d707589b14902fc410b",
+      "embedding_hash": "1b237ee61842e80471947d3f408bab63aad2d1d15b67cab88ded4bdab8f927cd",
+      "embedding_input_hash": "bc5e7365286aefafd87d00217d4d47cb9873494539c9b707f2a72cf5b742d937",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-08",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "forskrifter/forskrift-om-fartsskriververksteder.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -81172,8 +81172,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fartsskriververksteder",
-      "total_changes": 5,
-      "xml_hash": "0bf2a539bb100c45b83233d70578f44a07d6d64968282f4fcb9c88d836ea025a"
+      "total_changes": 6,
+      "xml_hash": "1b237ee61842e80471947d3f408bab63aad2d1d15b67cab88ded4bdab8f927cd"
     },
     "sf-20180928-1471": {
       "doc_type": "forskrift",
@@ -96605,19 +96605,19 @@
     },
     "sf-20221221-2456": {
       "doc_type": "forskrift",
-      "embedding_hash": "a6e9465c97fc23ec3646bd39158fa29d0fe5bc17b25af3f1be64a1e7179b02b5",
-      "embedding_input_hash": "7e9975936fcfbab4d7660a17a2561087eed4386eb462ba847e55d545aab3d7a4",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-kapittel-4-fra-1-januar-2023.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-om-overgangsregler-i-forbindelse-med-endringer-i-folketrygdloven-kapittel-4-fra-1-januar-2023",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 4 fra 1. januar 2023",
       "total_changes": null,
       "xml_hash": "a6e9465c97fc23ec3646bd39158fa29d0fe5bc17b25af3f1be64a1e7179b02b5"
@@ -99797,13 +99797,13 @@
     },
     "sf-20240306-0538": {
       "doc_type": "forskrift",
-      "embedding_hash": "8d809ed048d6696ac75d2b9fe21614d1426810cfdca35b6e81f92d600dd30d54",
-      "embedding_input_hash": "ebde6e0a0bc40132759f7008833ca16da68b71897ee8de27f0c42b9994aaf8e6",
+      "embedding_hash": "b8f4195cdd9d62f0904133af19f36275817c88f612dadc2b866c76dbe84e2674",
+      "embedding_input_hash": "fbbeb49ceb07626d8b09a915f3b3844b3716b2371995ce9ce2f4592dcc3306c6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-19",
-      "last_seen": "2026-09-19T08:44:52.874882Z",
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
       "markdown_path": "forskrifter/eu-gjødselvareforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -99811,8 +99811,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om EU-gjødselvarer (EU-gjødselvareforskriften)",
-      "total_changes": 7,
-      "xml_hash": "8d809ed048d6696ac75d2b9fe21614d1426810cfdca35b6e81f92d600dd30d54"
+      "total_changes": 8,
+      "xml_hash": "b8f4195cdd9d62f0904133af19f36275817c88f612dadc2b866c76dbe84e2674"
     },
     "sf-20240313-0448": {
       "doc_type": "forskrift",
@@ -113646,6 +113646,25 @@
       "total_changes": 2,
       "xml_hash": "b4aec88a7752db5f5cc3660fbcd29f9f9731cc6868d28e93289a5b852ae1179d"
     },
+    "sf-20260916-1888": {
+      "doc_type": "forskrift",
+      "embedding_hash": "29640348d4ddb979246dae0d91d968f6574eca8d0322eadf210d28b12eec817b",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-26",
+      "last_seen": "2026-09-26T09:17:45.512481Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-fartsskriververksteder",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om fartsskriververksteder",
+      "total_changes": 2,
+      "xml_hash": "29640348d4ddb979246dae0d91d968f6574eca8d0322eadf210d28b12eec817b"
+    },
     "sf-20260917-1834": {
       "doc_type": "forskrift",
       "embedding_hash": "56205f49ab18aa1ce7f66271dd273964753984bbd2056c1347d5df328833a4ea",
@@ -113742,6 +113761,6 @@
       "xml_hash": "ce9c737f0c4621c4ff24560a92f5fc0b3ebb61f8064a2b852e8b72ddca77fc4e"
     }
   },
-  "generated_at": "2026-09-25T09:32:58.782501Z",
+  "generated_at": "2026-09-26T09:17:45.512481Z",
   "version": 1
 }

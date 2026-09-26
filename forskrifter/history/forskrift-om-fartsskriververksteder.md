@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fartsskriververksteder — Change history
 
-_5 events; doc_id `sf-20180926-1467`._
+_6 events; doc_id `sf-20180926-1467`._
+
+## 2026-09-26 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-fartsskriververksteder`
+Commit: `f58aa52`.
 
 ## 2026-06-08 — Content updated
 Lines: +9 -9.

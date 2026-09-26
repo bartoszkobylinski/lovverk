@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sykepleierpensjonsloven — Change history
 
-_6 events; doc_id `nl-19620622-012`._
+_7 events; doc_id `nl-19620622-012`._
+
+## 2026-09-26 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): sykepleierpensjonsloven`
+Commit: `15baf93`.
 
 ## 2026-07-01 — Content updated
 Lines: +8 -8.

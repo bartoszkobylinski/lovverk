@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dagpengeforskriften — Change history
 
-_4 events; doc_id `sf-19980916-0890`._
+_5 events; doc_id `sf-19980916-0890`._
+
+## 2026-09-26 — Content updated
+Lines: +5 -9.
+Subject: `update(forskrift): dagpengeforskriften`
+Commit: `abd11e3`.
 
 ## 2026-08-04 — Content updated
 Lines: +19 -25.
