@@ -8,14 +8,14 @@ short_title: "Endringslov til folketrygdloven"
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: null
+date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "100ddfc902456b3f9725fe75234c0cc03dfc39d73fa8e16188321050c93c6983"
+xml_hash: "ea925fe021dc701f6399e323d909e4ae71d02fc8e27de7431dfac3c0856f5d0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-26T09:17:45.512481+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,5 +45,7 @@ Sykdom som angitt i forskriftene skal godkjennes som yrkesskade, med mindre Arbe
 
 ## II
 
-1. Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Endringen av [§ 13-3](lov/1997-02-28-19/§13-3) gjelder ikke for skader og sykdommer som er forårsaket av arbeidsulykke inntruffet før lovens ikrafttredelse. Endringen av [§ 13-4](lov/1997-02-28-19/§13-4) gjelder ikke for skader og sykdommer som er konstatert før lovens ikrafttredelse.
+
+1 Fra 1 jan 2027 for endring i [§ 13-3 andre ledd](lov/1997-02-28-19/§13-3/ledd/2) iflg. [res. 25 sep 2026 nr. 1893](forskrift/2026-09-25-1893)
