@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "4bfcec87199ba9bdf2e079e122b251811b5dab8fd940567d222980f10ec51d2a"
+xml_hash: "dcd6b36683d577e9ca154826c4ae4e2cf24c5aa986bad6b96df7f082feaebf72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-29T10:35:40.473961+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -127,6 +127,8 @@ Den individuelle avtalen opphører uten oppsigelse når legen fyller 70 år. Kom
 Avtalen bortfaller med umiddelbar virkning ved rettskraftig vedtak om tap av autorisasjon som lege, eller ved begrenset autorisasjon som medfører at fastlegen ikke kan overholde bestemmelsene i denne forskriften eller i [forskrift om pasient- og brukerrettigheter i fastlegeordningen](forskrift/2012-08-29-843).
 
 Når legens autorisasjon er suspendert, eller i påvente av en overprøving av vedtak om tap av autorisasjon, kan næringsdrivende lege innta vikar inntil saken er avgjort av klage- og tilsynsmyndighetene.
+
+> **Endres** ved forskrift [23 sep 2026 nr. 1891](forskrift/2026-09-23-1891) (i kraft 1 jan 2027).
 
 ### § 13. Økonomisk vederlag til næringsdrivende fastlege m.m.
 
@@ -483,6 +485,8 @@ Det fremgår av *tredje ledd* at den individuelle avtalen opphører uten oppsige
 I medhold av *fjerde ledd* faller avtalen mellom kommunen og fastlegen bort med umiddelbar virkning når legen ikke lenger har autorisasjon som lege. Det kreves ingen aktivitet fra kommunens side når fastlegen mister autorisasjonen. Det presiseres i bestemmelsen at avtalen først faller bort når vedtaket om tilbakekall av autorisasjon er endelig. En fastlege som mister autorisasjonen kan ikke selv arbeide som fastlege i påvente av klagebehandlingen, men har rett til å ta inn vikar, jf. under. Tilsvarende faller avtalen bort når det fattes vedtak om å begrense fastlegens autorisasjon på en slik måte at fastlegen ikke kan overholde bestemmelsene i fastlegeforskriften. Et eksempel vil være begrensninger i legens mulighet til å ha pasientkontakt. Det vises for øvrig til [helsepersonelloven § 59a](lov/1999-07-02-64/§59a), jf. [§ 57](lov/1999-07-02-64/§57). For ansatte leger er det avtale om å være fastlege som faller bort. Arbeidsrettslige følger for ansettelsesforholdet for øvrig vil måtte vurderes konkret i det enkelte tilfelle.
 
 Det følger av *femte ledd* at når legens autorisasjon er suspendert kan næringsdrivende lege ta inn vikar inntil saken er avgjort av tilsynsmyndigheten. Tilsvarende gjelder dersom fastlegen påklager vedtak om tap av eller betydelige begrensninger i autorisasjonen. Vikaren kan ikke utvide fastlegepraksisen i vikarperioden, jf. [forskrift om rett til trygderefusjon for leger, spesialister i klinisk psykologi og fysioterapeuter § 6](forskrift/1998-06-18-590/§6).
+
+> **Endres** ved forskrift [23 sep 2026 nr. 1891](forskrift/2026-09-23-1891) (i kraft 1 jan 2027).
 
 ### Til [§ 13](forskrift/2025-12-02-2405/§13) Økonomisk vederlag til næringsdrivende fastlege m.m.
 
