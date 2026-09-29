@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "ea925fe021dc701f6399e323d909e4ae71d02fc8e27de7431dfac3c0856f5d0f"
+xml_hash: "b12e75233802cb3a748c02b846926adcd8b62cd1e4a95afa569059fa636fc5ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-26T09:17:45.512481+00:00"
+retrieved_at: "2026-09-29T10:35:40.473961+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,4 +48,4 @@ Sykdom som angitt i forskriftene skal godkjennes som yrkesskade, med mindre Arbe
 1. Loven gjelder fra den tid[^1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Endringen av [§ 13-3](lov/1997-02-28-19/§13-3) gjelder ikke for skader og sykdommer som er forårsaket av arbeidsulykke inntruffet før lovens ikrafttredelse. Endringen av [§ 13-4](lov/1997-02-28-19/§13-4) gjelder ikke for skader og sykdommer som er konstatert før lovens ikrafttredelse.
 
-1 Fra 1 jan 2027 for endring i [§ 13-3 andre ledd](lov/1997-02-28-19/§13-3/ledd/2) iflg. [res. 25 sep 2026 nr. 1893](forskrift/2026-09-25-1893)
+1 Fra 1 jan 2027 for endring i [§ 13-3 andre ledd](lov/1997-02-28-19/§13-3/ledd/2) iflg. [res. 25 sep 2026 nr. 1893](forskrift/2026-09-25-1893).
