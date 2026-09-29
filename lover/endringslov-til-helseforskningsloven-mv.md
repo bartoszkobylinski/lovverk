@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "44ad3d3025ed261e1b5dfaec21616b5a12677a0c9230f66b62eaa6ef88d406c6"
+xml_hash: "11d40efe9a12cba3a4bbbce2c4279aa5ec2a61cecaece342bb8486442a34568e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-29T10:35:40.473961+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,4 +146,5 @@ For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren 
 
 Loven trer i kraft fra den tiden[^1] Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
-1 Fra 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400) for endringsloven [del II](lov/2025-06-20-71/kapII) (helsepersonelloven) [§§ 29](lov/1999-07-02-64/§29) og [29 b](lov/1999-07-02-64/§29b).
+1 Fra 1. juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400) for endringsloven [del II](lov/2025-06-20-71/kapII) (helsepersonelloven) [§§ 29](lov/1999-07-02-64/§29) og [29 b](lov/1999-07-02-64/§29b).
+Fra 1. november 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907) for endringsloven [del I](lov/2025-06-20-71/kapI) (helseforsikringsloven) og [del III](lov/2025-06-20-71/kapIII) (helseregisterloven).
