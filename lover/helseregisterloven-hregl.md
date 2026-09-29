@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2022-03-24"
-xml_hash: "8c20704a55e9ae1f4b242f004840f3a73febacab1d54621b243d91f4ea00b907"
+xml_hash: "5dd62a96ad865bb9d015028612bf999baed7af1159554761851215f78d36716a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-29T10:35:40.473961+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -216,7 +216,7 @@ Utarbeidet statistikk skal være anonym.
 
 Plikten til å utarbeide statistikk etter andre og tredje ledd gjelder ikke dersom tilgjengeliggjøring av opplysningene kan true samfunnets evne til å verne grunnleggende verdier og funksjoner og sette liv og helse i fare.
 
-> Endret ved [lover 9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19 a. Tilgjengeliggjøring av helseopplysninger
 
@@ -241,7 +241,7 @@ Departementet kan gi forskrift om den dataansvarliges plikt og adgang til å til
 
 Dersom tilgjengeliggjøring av helseopplysninger kan true samfunnets evne til å verne grunnleggende verdier og funksjoner og sette liv og helse i fare, skal opplysningene ikke gjøres tilgjengelig.
 
-> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lov [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lov [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19 b. Unntak fra taushetsplikten for indirekte personidentifiserbare helseopplysninger
 
@@ -289,7 +289,7 @@ Det kan bare gis dispensasjon dersom tilgjengeliggjøringen er ubetenkelig ut fr
 
 Myndigheten etter første ledd kan delegeres til et underordnet forvaltningsorgan eller legges til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
 
-> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lover [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lover [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19 f. Frister for tilgjengeliggjøring av tilrettelagt statistikk og helseopplysninger
 
