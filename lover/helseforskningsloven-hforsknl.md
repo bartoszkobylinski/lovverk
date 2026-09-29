@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-07-02"
-xml_hash: "e23ed841c2c806eb851621ff52b1297573f29d362221424ef899c163b593d535"
+xml_hash: "70a9509c4b50e98f1b2eb1d615d542ddd794eaf1d9427f11963bcbc5af08e7a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-29T10:35:40.473961+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ For klinisk utprøvning av legemidler på mennesker gjelder [legemiddelloven § 
 
 Departementet kan gi forskrift om lovens anvendelse for særskilte områder innenfor medisinsk og helsefaglig forskning.
 
-> Endret ved [lover 22 juni 2018 nr. 76](lov/2018-06-22-76), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 22 juni 2018 nr. 76](lov/2018-06-22-76), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 3. Lovens geografiske virkeområde
 
@@ -59,7 +59,7 @@ I denne loven forstås med:
 5. forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,
 6. prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ## Kapittel 2. Krav til organisering og utøvelse av medisinsk og helsefaglig forskning
 
@@ -71,7 +71,7 @@ Forskningen skal være basert på respekt for forskningsdeltakernes menneskerett
 
 Medisinsk og helsefaglig forskning skal vareta etiske, medisinske, helsefaglige, vitenskapelige og personvernmessige forhold.
 
-> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 6. Hovedkrav til organisering av forskning
 
@@ -81,11 +81,11 @@ Det skal føres internkontroll tilpasset virksomhetens størrelse, egenart, akti
 
 Departementet kan gi forskrift med nærmere krav til organisering av medisinsk og helsefaglig forskning, krav til forskningsprotokollen og til internkontroll, samt gi bestemmelser om prosjektleders og forskningsansvarliges plikter.
 
-> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 6 a. Kliniske behandlingsstudier
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 7. Taushetsplikt
 
@@ -103,7 +103,7 @@ Kommersiell utnyttelse av forskningsdeltakere, humant biologisk materiale og hel
 
 Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. [forskningsetikkloven § 10](lov/2017-04-28-23/§10) første ledd.
 
-> Endret ved [lov 28 apr 2017 nr. 23](lov/2017-04-28-23) (ikr. 1 mai 2017 iflg. [res. 28 apr 2017 nr. 505](forskrift/2017-04-28-505)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 28 apr 2017 nr. 23](lov/2017-04-28-23) (ikr. 1 mai 2017 iflg. [res. 28 apr 2017 nr. 505](forskrift/2017-04-28-505)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 10. Søknad om forhåndsgodkjenning
 
@@ -115,7 +115,7 @@ Vedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forsknin
 
 Departementet kan gi forskrifter om krav til søknaden, om saksbehandlingsfrister for den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og om de nærmere vilkårene for forhåndsgodkjenning.
 
-> Endret ved [lover 28 apr 2017 nr. 23](lov/2017-04-28-23) (ikr. 1 mai 2017 iflg. [res. 28 apr 2017 nr. 505](forskrift/2017-04-28-505)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 28 apr 2017 nr. 23](lov/2017-04-28-23) (ikr. 1 mai 2017 iflg. [res. 28 apr 2017 nr. 505](forskrift/2017-04-28-505)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 11. Søknad om å foreta vesentlige endringer av forskningsprosjektet
 
@@ -135,11 +135,11 @@ Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan pålegge
 
 ### § 12 a. Oppbevaring av dokumenter for etterprøving og kontroll
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ## Kapittel 4. Samtykke
 
-> Kapitteloverskrift **endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Kapitteloverskrift **endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 13. Hovedregel om samtykke
 
@@ -151,7 +151,7 @@ Dersom forskningsdeltakeren kan anses å være i et slikt avhengighetsforhold ti
 
 Departementet kan gi forskrifter om krav til samtykke.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 14. Bredt samtykke
 
@@ -161,11 +161,11 @@ Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vi
 
 Deltakere som har avgitt bredt samtykke har krav på jevnlig informasjon om prosjektet.
 
-> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).|
+> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 14 a. Forskning som innebærer ingen eller liten risiko eller ulempe
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 15. Ny eller endret bruk av innsamlet humant biologisk materiale eller helseopplysninger
 
@@ -202,11 +202,11 @@ For personer som er fratatt rettslig handleevne på det personlige området, gje
 
 Departementet kan i forskrift bestemme at for spesielle typer forskningsprosjekter kan barn mellom 12 og 16 år selv samtykke til forskning på helseopplysninger. Departementet kan i forskrift gi nærmere regler om kravene til et slikt samtykke.
 
-> Endret ved [lover 14 nov 2008 nr. 80](lov/2008-11-14-80), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 14 nov 2008 nr. 80](lov/2008-11-14-80), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 17 a. Adgangen for personer under 18 år til å delta i forskning
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 18. Vilkår for forskning som inkluderer personer uten samtykkekompetanse
 
@@ -220,7 +220,7 @@ For mindreårige kreves det at tilsvarende forskning ikke kan gjennomføres på 
 
 For personer uten samtykkekompetanse kreves det at det ikke er grunn til å tro at vedkommende ville motsatt seg deltakelse i forskningsprosjektet hvis vedkommende hadde hatt samtykkekompetanse, og at tilsvarende forskning ikke kan gjennomføres på personer med samtykkekompetanse.
 
-> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19. Samtykke til forskning i kliniske nødssituasjoner
 
@@ -233,7 +233,7 @@ I kliniske nødssituasjoner der pasienten ikke er i stand til å avgi samtykke, 
 
 Vedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter [§ 13](lov/2008-06-20-44/§13), jf. [§ 17](lov/2008-06-20-44/§17), er en forutsetning for videre forskning og skal innhentes så snart som mulig.
 
-> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 20. Anonymisert humant biologisk materiale og helseopplysninger
 
@@ -321,7 +321,7 @@ Departementet kan i forskrift gjøre unntak fra kravet om godkjenning for overf�
 
 Departementet kan i forskrift stille vilkår for innsendelse og utsendelse av humant biologisk materiale, og om bruk av materiale fra utlandet til forskning i Norge.
 
-> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 30. Opphør, nedleggelse eller overtakelse av forskningsbiobank
 
@@ -349,7 +349,7 @@ Helseopplysninger kan ikke utleveres i forsikringsøyemed, til arbeidsgiver, til
 
 Kongen kan i forskrift bestemme at utlevering av helseopplysninger til påtalemyndighet eller domstol helt unntaksvis kan skje dersom svært tungtveiende private eller offentlige interesser gjør dette rettmessig.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 33. Krav om forhåndsgodkjenning
 
@@ -357,7 +357,7 @@ Behandling av helseopplysninger i medisinsk og helsefaglig forskning krever forh
 
 [Personopplysningsloven § 10](lov/2018-06-15-38/§10) og [§ 11](lov/2018-06-15-38/§11) andre ledd gjelder ikke for medisinsk og helsefaglig forskning.
 
-> Endret ved [lover 20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 34. Behandling av helseopplysninger
 
@@ -365,7 +365,7 @@ Helseopplysninger kan sammenstilles, tilgjengeliggjøres og behandles på andre 
 
 Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan ved godkjenningen etter [kapittel 3](lov/2008-06-20-44/kap3) nekte slik sammenstilling, tilgjengeliggjøring eller annen behandling dersom denne finnes å være medisinsk eller etisk uforsvarlig.
 
-> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)). **Oppheves** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)). **Oppheves** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 35. (Opphevet)
 
@@ -381,7 +381,7 @@ Uriktige og foreldede opplysninger skal slettes eller endres på en måte som gj
 
 Krav om sletting avgjøres av prosjektlederen. Om sletting nektes, kan avgjørelsen klages inn for den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Oppheves** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Oppheves** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 37. (Opphevet)
 
@@ -395,7 +395,7 @@ Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme
 
 Departementet kan gi forskrift om oppbevaring av opplysninger etter at forskningsprosjektet er gjennomført.
 
-> Endret ved lov [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Oppheves** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Oppheves** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ## Kapittel 8. Åpenhet og innsyn i forskningen
 
@@ -435,7 +435,7 @@ Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre e
 
 Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal melde alle forskningsbiobanker inn til Biobankregisteret ved Folkehelseinstituttet.
 
-> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 45. Utsatt offentliggjøring
 
