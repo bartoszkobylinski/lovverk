@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5117 current documents_
+_5118 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1273,6 +1273,7 @@ _5117 current documents_
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementstrukturen-fra-01-01-2010](endr-i-departementstrukturen-fra-01-01-2010.md) — Endringer i departementstrukturen fra 1. januar 2010
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
+- [endr-i-fastlegeforskriften](endr-i-fastlegeforskriften.md) — Forskrift om endring i forskrift om fastlegeordning i kommunene
 - [endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten](endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten.md) — Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten
 - [endr-i-forskr-om-flyttbare-innretninger](endr-i-forskr-om-flyttbare-innretninger.md) — Forskrift om endring i forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr.
 - [endr-i-forskr-til-petroleumsvirksomhetsloven](endr-i-forskr-til-petroleumsvirksomhetsloven.md) — Forskrift om endring i forskrift til lov om petroleumsvirksomhet.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260923-1891",
+  "events": [
+    {
+      "commit": "81a79df",
+      "date": "2026-09-29",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-fastlegeforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-fastlegeforskriften"
+}

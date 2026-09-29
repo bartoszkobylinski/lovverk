@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # fastlegeforskriften — Change history
 
-_5 events; doc_id `sf-20251202-2405`._
+_6 events; doc_id `sf-20251202-2405`._
+
+## 2026-09-29 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): fastlegeforskriften`
+Commit: `0029be2`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

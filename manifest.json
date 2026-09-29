@@ -8173,13 +8173,13 @@
     },
     "nl-20080620-044": {
       "doc_type": "lov",
-      "embedding_hash": "e23ed841c2c806eb851621ff52b1297573f29d362221424ef899c163b593d535",
-      "embedding_input_hash": "4ed305ce0ec6250dfc739d7d424e4fe405e2ab621b6ecf759f7dba2f846eafc5",
+      "embedding_hash": "70a9509c4b50e98f1b2eb1d615d542ddd794eaf1d9427f11963bcbc5af08e7a0",
+      "embedding_input_hash": "4a2cb6d05ff8bf86226346f7c2524c1af9d72f5e6c90ecd0ea6fdf20156af230",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
       "markdown_path": "lover/helseforskningsloven-hforsknl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -8187,8 +8187,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om medisinsk og helsefaglig forskning (helseforskningsloven)",
-      "total_changes": 3,
-      "xml_hash": "e23ed841c2c806eb851621ff52b1297573f29d362221424ef899c163b593d535"
+      "total_changes": 4,
+      "xml_hash": "70a9509c4b50e98f1b2eb1d615d542ddd794eaf1d9427f11963bcbc5af08e7a0"
     },
     "nl-20080627-062": {
       "doc_type": "lov",
@@ -9541,13 +9541,13 @@
     },
     "nl-20140620-043": {
       "doc_type": "lov",
-      "embedding_hash": "8c20704a55e9ae1f4b242f004840f3a73febacab1d54621b243d91f4ea00b907",
-      "embedding_input_hash": "657452122d79c80269ac8b244c125b7e883a84949e2de02f34343dedd6d4a4ae",
+      "embedding_hash": "5dd62a96ad865bb9d015028612bf999baed7af1159554761851215f78d36716a",
+      "embedding_input_hash": "f364d7aab1b04c61d5d5e7dd2b7b55affa98b3d44460334e772c5ba37457d4ba",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
       "markdown_path": "lover/helseregisterloven-hregl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -9555,8 +9555,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om helseregistre og behandling av helseopplysninger (helseregisterloven)",
-      "total_changes": 4,
-      "xml_hash": "8c20704a55e9ae1f4b242f004840f3a73febacab1d54621b243d91f4ea00b907"
+      "total_changes": 5,
+      "xml_hash": "5dd62a96ad865bb9d015028612bf999baed7af1159554761851215f78d36716a"
     },
     "nl-20140620-049": {
       "doc_type": "lov",
@@ -13687,13 +13687,13 @@
     },
     "nl-20250620-071": {
       "doc_type": "lov",
-      "embedding_hash": "44ad3d3025ed261e1b5dfaec21616b5a12677a0c9230f66b62eaa6ef88d406c6",
+      "embedding_hash": "11d40efe9a12cba3a4bbbce2c4279aa5ec2a61cecaece342bb8486442a34568e",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
       "markdown_path": "lover/endringslov-til-helseforskningsloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13701,8 +13701,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig forskning og for bruk av helseopplysninger i forskning)",
-      "total_changes": 4,
-      "xml_hash": "44ad3d3025ed261e1b5dfaec21616b5a12677a0c9230f66b62eaa6ef88d406c6"
+      "total_changes": 5,
+      "xml_hash": "11d40efe9a12cba3a4bbbce2c4279aa5ec2a61cecaece342bb8486442a34568e"
     },
     "nl-20250620-075": {
       "doc_type": "lov",
@@ -14340,13 +14340,13 @@
     },
     "nl-20260612-024": {
       "doc_type": "lov",
-      "embedding_hash": "8f4a241664051deaf976bb3b72fd9d68a105a221abb77721fab7166c0512b534",
+      "embedding_hash": "a138f8bc6388b57c099746cee2ce3fe81136f122fc3f9cfe04edcc12f83e67dc",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-26",
-      "last_seen": "2026-09-26T09:17:45.512481Z",
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
       "markdown_path": "lover/endringslov-til-folketrygdloven-mv-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14354,8 +14354,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
-      "total_changes": 3,
-      "xml_hash": "8f4a241664051deaf976bb3b72fd9d68a105a221abb77721fab7166c0512b534"
+      "total_changes": 4,
+      "xml_hash": "a138f8bc6388b57c099746cee2ce3fe81136f122fc3f9cfe04edcc12f83e67dc"
     },
     "nl-20260612-025": {
       "doc_type": "lov",
@@ -14867,13 +14867,13 @@
     },
     "nl-20260623-064": {
       "doc_type": "lov",
-      "embedding_hash": "ea925fe021dc701f6399e323d909e4ae71d02fc8e27de7431dfac3c0856f5d0f",
+      "embedding_hash": "b12e75233802cb3a748c02b846926adcd8b62cd1e4a95afa569059fa636fc5ce",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-26",
-      "last_seen": "2026-09-26T09:17:45.512481Z",
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
       "markdown_path": "lover/endringslov-til-folketrygdloven-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14881,8 +14881,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)",
-      "total_changes": 2,
-      "xml_hash": "ea925fe021dc701f6399e323d909e4ae71d02fc8e27de7431dfac3c0856f5d0f"
+      "total_changes": 3,
+      "xml_hash": "b12e75233802cb3a748c02b846926adcd8b62cd1e4a95afa569059fa636fc5ce"
     },
     "nl-20260623-065": {
       "doc_type": "lov",
@@ -107625,13 +107625,13 @@
     },
     "sf-20251202-2405": {
       "doc_type": "forskrift",
-      "embedding_hash": "4bfcec87199ba9bdf2e079e122b251811b5dab8fd940567d222980f10ec51d2a",
-      "embedding_input_hash": "e6afbf45c4a2c5d5bedcf388890aa488e16c318e8d4ceb6954895c3f541be077",
+      "embedding_hash": "dcd6b36683d577e9ca154826c4ae4e2cf24c5aa986bad6b96df7f082feaebf72",
+      "embedding_input_hash": "406fee0159017735dc5d9b07ffb2ad7bf03f098a7a964c4e62ce34fe6a1088b5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
       "markdown_path": "forskrifter/fastlegeforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -107639,8 +107639,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fastlegeordning i kommunene (fastlegeforskriften)",
-      "total_changes": 5,
-      "xml_hash": "4bfcec87199ba9bdf2e079e122b251811b5dab8fd940567d222980f10ec51d2a"
+      "total_changes": 6,
+      "xml_hash": "dcd6b36683d577e9ca154826c4ae4e2cf24c5aa986bad6b96df7f082feaebf72"
     },
     "sf-20251205-2419": {
       "doc_type": "forskrift",
@@ -113759,8 +113759,27 @@
       "title": "Overføring av forvaltningsansvaret for militær romaktivitet under lov av 22. desember 2025 nr. 128 om aktiviteter i verdensrommet § 2 tredje ledd fra Nærings- og fiskeridepartementet til Forsvarsdepartementet",
       "total_changes": 1,
       "xml_hash": "ce9c737f0c4621c4ff24560a92f5fc0b3ebb61f8064a2b852e8b72ddca77fc4e"
+    },
+    "sf-20260923-1891": {
+      "doc_type": "forskrift",
+      "embedding_hash": "bb1ef59e9b6a4106ca25c078e9f466675d8844952d0b8821c4f1eace4ec3cf86",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-09-29",
+      "last_seen": "2026-09-29T10:35:40.473961Z",
+      "markdown_path": "forskrifter/endr-i-fastlegeforskriften.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "endr-i-fastlegeforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om fastlegeordning i kommunene",
+      "total_changes": 1,
+      "xml_hash": "bb1ef59e9b6a4106ca25c078e9f466675d8844952d0b8821c4f1eace4ec3cf86"
     }
   },
-  "generated_at": "2026-09-26T09:17:45.512481Z",
+  "generated_at": "2026-09-29T10:35:40.473961Z",
   "version": 1
 }

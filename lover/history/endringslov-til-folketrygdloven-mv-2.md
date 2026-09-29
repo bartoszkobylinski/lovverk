@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-folketrygdloven-mv-2 — Change history
 
-_3 events; doc_id `nl-20260612-024`._
+_4 events; doc_id `nl-20260612-024`._
+
+## 2026-09-29 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-folketrygdloven-mv-2`
+Commit: `fb26547`.
 
 ## 2026-09-26 — Content updated
 Lines: +3 -2.
