@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2022-05-19"
-last_change_in_force: "2026-07-13"
+last_change_in_force: "2026-09-28"
 last_updated: null
-xml_hash: "a0305f3941cc7e9bf974a72aab736140a5e7d0c03f8abe64aa97a8101e1f7c79"
+xml_hash: "a31daab6736a665d56afb6a7a80419d7073bb27cfd026ed07d7ad75b295fafec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-09-30T10:25:34.920916+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,9 @@ eu_basis: []
 
 ## § 2. Samordnet flerårig kontrollprogram i EØS
 
-[EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 278 (forordning [(EU) 2025/854](eu/32025r0854)) om et samordnet flerårig kontrollprogram i Unionen for 2026, 2027 og 2028 for å sikre overholdelse av øvre grenseverdier for rester av plantevernmidler og for å vurdere forbrukernes eksponering for rester av plantevernmidler i og på næringsmidler av vegetabilsk og animalsk opprinnelse og om oppheving av gjennomføringsforordning [(EU) 2024/989](eu/32024r0989) gjelder som forskrift med de tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 278 (forordning [(EU) 2025/854](eu/32025r0854) og forordning [(EU) 2026/824](eu/32026r0824)) om et samordnet flerårig kontrollprogram i Unionen for 2026, 2027 og 2028 for å sikre overholdelse av øvre grenseverdier for rester av plantevernmidler og for å vurdere forbrukernes eksponering for rester av plantevernmidler i og på næringsmidler av vegetabilsk og animalsk opprinnelse og om oppheving av gjennomføringsforordning [(EU) 2024/989](eu/32024r0989) gjelder som forskrift med de tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051).
+> Endret ved forskrifter [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051), [28 sep 2026 nr. 1921](forskrift/2026-09-28-1921).
 
 ## § 2a. Prøvetakingsprosedyrer
 
@@ -50,7 +50,7 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 16. des
 
 ## Forordninger
 
-> Endret ved forskrifter [11 juli 2022 nr. 1347](forskrift/2022-07-11-1347), [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051), [13 juli 2026 nr. 1558](forskrift/2026-07-13-1558).
+> Endret ved forskrifter [11 juli 2022 nr. 1347](forskrift/2022-07-11-1347), [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051), [13 juli 2026 nr. 1558](forskrift/2026-07-13-1558), [28 sep 2026 nr. 1921](forskrift/2026-09-28-1921).
 
 Se her for å lese forordning [(EU) 2021/1355](eu/32021r1355) (uoffisiell oversettelse):
 
@@ -67,3 +67,7 @@ Se her for å lese forordning [(EU) 2021/2244](eu/32021r2244) (uoffisiell overse
 Se her for å lese forordning [(EU) 2026/765](eu/32026r0765) (uoffisiell norsk oversettelse, forordningen gjelder/må følges fra 1. januar 2027):
 
 - [pdf-fil](static/SF/32026r0765u-01.pdf).
+
+Se her for å lese forordning [(EU) 2026/824](eu/32026r0824) (uoffisiell oversettelse):
+
+- [pdf-fil](static/SF/32026r0824u-01.pdf)
