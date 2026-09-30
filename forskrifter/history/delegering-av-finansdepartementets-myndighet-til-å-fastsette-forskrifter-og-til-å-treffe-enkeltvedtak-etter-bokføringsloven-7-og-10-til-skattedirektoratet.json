@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260925-1912",
+  "events": [
+    {
+      "commit": "e3f1fbf",
+      "date": "2026-09-30",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 0,
+      "subject": "add(forskrift): delegering-av-finansdepartementets-myndighet-til-å-fastsette-forskrifter-og-til-å-treffe-enkeltvedtak-etter-bokføringsloven-7-og-10-til-skattedirektoratet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-finansdepartementets-myndighet-til-å-fastsette-forskrifter-og-til-å-treffe-enkeltvedtak-etter-bokføringsloven-7-og-10-til-skattedirektoratet"
+}

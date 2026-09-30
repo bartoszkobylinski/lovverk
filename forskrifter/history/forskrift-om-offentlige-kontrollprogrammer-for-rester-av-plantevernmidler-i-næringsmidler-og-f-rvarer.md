@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer — Change history
 
-_5 events; doc_id `sf-20220519-0902`._
+_6 events; doc_id `sf-20220519-0902`._
+
+## 2026-09-30 — Content updated
+Lines: +10 -6.
+Subject: `update(forskrift): forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer`
+Commit: `bedaff1`.
 
 ## 2026-07-17 — Content updated
 Lines: +12 -4.
