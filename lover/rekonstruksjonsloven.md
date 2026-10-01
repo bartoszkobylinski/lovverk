@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-05-11"
 last_change_in_force: "2026-06-19"
 last_updated: null
-xml_hash: "4ed3ce1c003d6a03ba17cec9a3ba6041978abecf0e1425e2a852e139dc0f83bd"
+xml_hash: "c972c0a64e7558f92eefdba062652fc6e61955971718ac2c8c97ea195f1602cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -387,7 +387,7 @@ Dersom forslaget til frivillig rekonstruksjon ikke blir vedtatt, og skyldneren u
 
 (2) Rekonstruksjonsutvalget foretar verdsettelsen av pantet. En panthaver med sikkerhet utenfor pantets antatte verdi kan bringe verdsettelsen inn for retten med begjæring om at det holdes skiftetakst. Kostnadene ved skiftetaksten bæres av panthaveren dersom rekonstruksjonsutvalgets verdsettelse opprettholdes eller endres med mindre enn ti prosent. For øvrig gjelder [arveloven § 106](lov/2019-06-14-21/§106) annet til femte ledd tilsvarende. I særlige tilfeller kan retten fravike satsene for godtgjørelse av skjønnsmedlemmer som ellers gjelder ved skiftetakst.
 
-> Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)).
 
 ### § 37. Underretning ved bestridte fordringer
 
@@ -583,7 +583,7 @@ Rekonstruksjonsforhandlingen anses for avsluttet når
 
 Dersom skyldneren dør før kjennelse om konkursåpning er avsagt i henhold til [§ 58](lov/2020-05-07-38/§58), eller før rekonstruksjonsforhandlingen anses for avsluttet, jf. [§ 59](lov/2020-05-07-38/§59), skal rekonstruksjonsforhandlingen innstilles og skyldnerens bo behandles i samsvar med [arveloven](lov/2019-06-14-21).
 
-> Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)).
 
 ## Kapittel 9. Generelle bestemmelser om rekonstruksjonsforhandling
 
