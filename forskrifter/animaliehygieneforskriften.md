@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2010-03-01"
-last_change_in_force: "2026-07-13"
+last_change_in_force: "2026-09-28"
 last_updated: "2024-07-11"
-xml_hash: "0725906c0cb2f7c7790f361dd0b34c96bdaf90c937a1e07a9253464e811b6212"
+xml_hash: "96d3899a20eee68655e59c1b20f9225f738c01ef0f1a500ff888484b27646eca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,13 +28,13 @@ eu_basis: []
 
 ### § 1. Gjennomføring av forordning (EF) nr. 853/2004
 
-[EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.1 nr. 17 (forordning [(EF) nr. 853/2004](eu/32004r0853) som endret ved forordning [(EF) nr. 1662/2006](eu/32006r1662), forordning [(EF) nr. 1243/2007](eu/32007r1243), forordning [(EF) nr. 1020/2008](eu/32008r1020), forordning [(EF) nr. 1161/2009](eu/32009r1161), forordning [(EU) nr. 558/2010](eu/32010r0558), forordning [(EU) nr. 150/2011](eu/32011r0150), forordning [(EU) nr. 16/2012](eu/32012r0016), forordning [(EU) nr. 1276/2011](eu/32011r1276), forordning [(EU) nr. 786/2013](eu/32013r0786), forordning [(EU) nr. 633/2014](eu/32014r0633), forordning [(EU) nr. 1137/2014](eu/32014r1137), forordning [(EU) 2016/355](eu/32016r0355), forordning [(EU) 2017/1981](eu/32017r1981), forordning [(EU) 2017/1978](eu/32017r1978), delegert forordning [(EU) 2020/2192](eu/32020r2192), forordning [(EU) 2021/1374](eu/32021r1374), forordning [(EU) 2021/1756](eu/32021r1756) og forordning [(EU) 2024/1141](eu/32024r1141)) om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforordningen) gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.1 nr. 17 (forordning [(EF) nr. 853/2004](eu/32004r0853) som endret ved forordning [(EF) nr. 1662/2006](eu/32006r1662), forordning [(EF) nr. 1243/2007](eu/32007r1243), forordning [(EF) nr. 1020/2008](eu/32008r1020), forordning [(EF) nr. 1161/2009](eu/32009r1161), forordning [(EU) nr. 558/2010](eu/32010r0558), forordning [(EU) nr. 150/2011](eu/32011r0150), forordning [(EU) nr. 16/2012](eu/32012r0016), forordning [(EU) nr. 1276/2011](eu/32011r1276), forordning [(EU) nr. 786/2013](eu/32013r0786), forordning [(EU) nr. 633/2014](eu/32014r0633), forordning [(EU) nr. 1137/2014](eu/32014r1137), forordning [(EU) 2016/355](eu/32016r0355), forordning [(EU) 2017/1981](eu/31981r2017), forordning [(EU) 2017/1978](eu/31978r2017), delegert forordning [(EU) 2020/2192](eu/32020r2192), forordning [(EU) 2021/1374](eu/32021r1374), forordning [(EU) 2021/1756](eu/32021r1756), forordning [(EU) 2024/1141](eu/32024r1141) og forordning [(EU) 2026/252](eu/32026r0252)) om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforordningen) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
 EØS-avtalens vedlegg I kapittel I del 6.1 nr. 19 (forordning [(EU) nr. 101/2013](eu/32013r0101)) vedrørende bruk av melkesyre for å redusere mikrobiologisk forurensning på overflaten av skrotter av storfe gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
 
 EØS-avtalens vedlegg I kapittel I del 6.1 nr. 21 (forordning [(EU) 2015/1474](eu/32015r1474)) om frivillig bruk av resirkulert varmt vann til overflatebehandling av hele og halve slakteskrotter av tamme hovdyr og oppdrettsvilt, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [4 juli 2011 nr. 773](forskrift/2011-07-04-773), [2 mai 2012 nr. 415](forskrift/2012-05-02-415), [9 okt 2012 nr. 959](forskrift/2012-10-09-959), [19 des 2012 nr. 1369](forskrift/2012-12-19-1369), [10 okt 2013 nr. 1233](forskrift/2013-10-10-1233), [18 feb 2014 nr. 192](forskrift/2014-02-18-192), [17 sep 2014 nr. 1294](forskrift/2014-09-17-1294), [27 okt 2014 nr. 1342](forskrift/2014-10-27-1342), [23 mars 2015 nr. 277](forskrift/2015-03-23-277), [4 mai 2015 nr. 454](forskrift/2015-05-04-454), [8 feb 2016 nr. 130](forskrift/2016-02-08-130), [28 juli 2016 nr. 948](forskrift/2016-07-28-948), [26 mars 2018 nr. 509](forskrift/2018-03-26-509), [17 april 2018 nr. 575](forskrift/2018-04-17-575), [7 feb 2022 nr. 196](forskrift/2022-02-07-196), [1 mai 2022 nr. 750](forskrift/2022-05-01-750) (i kraft 2 mai 2022), [8 juli 2022 nr. 1331](forskrift/2022-07-08-1331) (i kraft 11 juli 2022), [13 juli 2026 nr. 1556](forskrift/2026-07-13-1556).
+> Endret ved [forskrifter 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [4 juli 2011 nr. 773](forskrift/2011-07-04-773), [2 mai 2012 nr. 415](forskrift/2012-05-02-415), [9 okt 2012 nr. 959](forskrift/2012-10-09-959), [19 des 2012 nr. 1369](forskrift/2012-12-19-1369), [10 okt 2013 nr. 1233](forskrift/2013-10-10-1233), [18 feb 2014 nr. 192](forskrift/2014-02-18-192), [17 sep 2014 nr. 1294](forskrift/2014-09-17-1294), [27 okt 2014 nr. 1342](forskrift/2014-10-27-1342), [23 mars 2015 nr. 277](forskrift/2015-03-23-277), [4 mai 2015 nr. 454](forskrift/2015-05-04-454), [8 feb 2016 nr. 130](forskrift/2016-02-08-130), [28 juli 2016 nr. 948](forskrift/2016-07-28-948), [26 mars 2018 nr. 509](forskrift/2018-03-26-509), [17 april 2018 nr. 575](forskrift/2018-04-17-575), [7 feb 2022 nr. 196](forskrift/2022-02-07-196), [1 mai 2022 nr. 750](forskrift/2022-05-01-750) (i kraft 2 mai 2022), [8 juli 2022 nr. 1331](forskrift/2022-07-08-1331) (i kraft 11 juli 2022), [13 juli 2026 nr. 1556](forskrift/2026-07-13-1556), [28 sep 2026 nr. 1926](forskrift/2026-09-28-1926).
 
 ### § 2. Gjennomføring av forordninger om salmonellagarantier
 
@@ -356,9 +356,9 @@ Forskriften trer i kraft fra den tid departementene bestemmer.[^1]
 
 ### Konsolidert forordning (EF) nr. 853/2004
 
-> Forordningen endret ved [forskrifter 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [4 juli 2011 nr. 773](forskrift/2011-07-04-773), [2 mai 2012 nr. 415](forskrift/2012-05-02-415), [9 okt 2012 nr. 959](forskrift/2012-10-09-959). Endret uten kunngjøring i Norsk Lovtidend 24 sep 2013. Endret ved [forskrifter 18 feb 2014 nr. 192](forskrift/2014-02-18-192), [17 sep 2014 nr. 1294](forskrift/2014-09-17-1294), [27 okt 2014 nr. 1342](forskrift/2014-10-27-1342), [23 mars 2015 nr. 277](forskrift/2015-03-23-277), [4 mai 2015 nr. 454](forskrift/2015-05-04-454), [28 juli 2016 nr. 948](forskrift/2016-07-28-948), [26 mars 2018 nr. 509](forskrift/2018-03-26-509), [17 april 2018 nr. 575](forskrift/2018-04-17-575), [7 feb 2022 nr. 196](forskrift/2022-02-07-196), [1 mai 2022 nr. 750](forskrift/2022-05-01-750) (i kraft 2 mai 2022), [8 juli 2022 nr. 1331](forskrift/2022-07-08-1331) (i kraft 11 juli 2022), [13 juli 2026 nr. 1556](forskrift/2026-07-13-1556).
+> Forordningen endret ved [forskrifter 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [4 juli 2011 nr. 773](forskrift/2011-07-04-773), [2 mai 2012 nr. 415](forskrift/2012-05-02-415), [9 okt 2012 nr. 959](forskrift/2012-10-09-959). Endret uten kunngjøring i Norsk Lovtidend 24 sep 2013. Endret ved [forskrifter 18 feb 2014 nr. 192](forskrift/2014-02-18-192), [17 sep 2014 nr. 1294](forskrift/2014-09-17-1294), [27 okt 2014 nr. 1342](forskrift/2014-10-27-1342), [23 mars 2015 nr. 277](forskrift/2015-03-23-277), [4 mai 2015 nr. 454](forskrift/2015-05-04-454), [28 juli 2016 nr. 948](forskrift/2016-07-28-948), [26 mars 2018 nr. 509](forskrift/2018-03-26-509), [17 april 2018 nr. 575](forskrift/2018-04-17-575), [7 feb 2022 nr. 196](forskrift/2022-02-07-196), [1 mai 2022 nr. 750](forskrift/2022-05-01-750) (i kraft 2 mai 2022), [8 juli 2022 nr. 1331](forskrift/2022-07-08-1331) (i kraft 11 juli 2022), [13 juli 2026 nr. 1556](forskrift/2026-07-13-1556), [28 sep 2026 nr. 1926](forskrift/2026-09-28-1926).
 
-[EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.1 nr. 17 (forordning [(EF) nr. 853/2004](eu/32004r0853) som endret ved forordning [(EF) nr. 1662/2006](eu/32006r1662), forordning [(EF) nr. 1243/2007](eu/32007r1243), forordning [(EF) nr. 1020/2008](eu/32008r1020), forordning [(EF) nr. 1161/2009](eu/32009r1161), forordning [(EU) nr. 558/2010](eu/32010r0558), forordning [(EU) nr. 150/2011](eu/32011r0150), forordning [(EU) nr. 16/2012](eu/32012r0016), forordning [(EU) nr. 1276/2011](eu/32011r1276), forordning [(EU) nr. 786/2013](eu/32013r0786), forordning [(EU) nr. 633/2014](eu/32014r0633), forordning [(EU) nr. 1137/2014](eu/32014r1137), forordning [(EU) 2016/355](eu/32016r0355), forordning [(EU) 2017/1981](eu/32017r1981), forordning [(EU) 2017/1978](eu/32017r1978), delegert forordning [(EU) 2020/2192](eu/32020r2192), forordning [(EU) 2021/1374](eu/32021r1374), forordning [(EU) 2021/1756](eu/32021r1756) og forordning [(EU) 2024/1141](eu/32024r1141) med de endringer og tillegg som følger av EØS-tilpasningen av rettsaktene i vedlegg I til [EØS-avtalen](lov/1992-11-27-109/eøsl).
+[EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.1 nr. 17 (forordning [(EF) nr. 853/2004](eu/32004r0853) som endret ved forordning [(EF) nr. 1662/2006](eu/32006r1662), forordning [(EF) nr. 1243/2007](eu/32007r1243), forordning [(EF) nr. 1020/2008](eu/32008r1020), forordning [(EF) nr. 1161/2009](eu/32009r1161), forordning [(EU) nr. 558/2010](eu/32010r0558), forordning [(EU) nr. 150/2011](eu/32011r0150), forordning [(EU) nr. 16/2012](eu/32012r0016), forordning [(EU) nr. 1276/2011](eu/32011r1276), forordning [(EU) nr. 786/2013](eu/32013r0786), forordning [(EU) nr. 633/2014](eu/32014r0633), forordning [(EU) nr. 1137/2014](eu/32014r1137), forordning [(EU) 2016/355](eu/32016r0355), forordning [(EU) 2017/1981](eu/31981r2017), forordning [(EU) 2017/1978](eu/31978r2017), delegert forordning [(EU) 2020/2192](eu/32020r2192), forordning [(EU) 2021/1374](eu/32021r1374), forordning [(EU) 2021/1756](eu/32021r1756), forordning [(EU) 2024/1141](eu/32024r1141) og forordning [(EU) 2026/252](eu/32026r0252), med de endringer og tillegg som følger av EØS-tilpasningen av rettsaktene i vedlegg I til [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
 ► **B** Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004
 
@@ -419,6 +419,8 @@ som endret ved:
 ► **M24** Forordning [(EU) 2021/1756](eu/32021r1756) om direkte levering av kjøtt fra fjørfe og haredyr
 
 ► **M27** Kommisjonens forordning [(EU) 2024/1141](eu/32024r1141) av 14. desember 2023
+
+► **M29** Kommisjonens forordning [(EU) 2026/252](eu/32026r0252) av 2. februar 2026
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 853/2004](eu/32004r0853*)
 
@@ -1355,24 +1357,32 @@ Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæring og utbeini
 
 Driftsansvarlige for næringsmiddelforetak skal sikre at kjøtt fra tamme hov- og klovdyr som er blitt nødslaktet utenfor slakteriet, kan brukes til konsum bare dersom det oppfyller alle følgende krav:
 
-1. Et dyr som ellers er friskt, skal ha vært utsatt for en ulykke som, av hensyn til dyrets velferd, forhindret at dyret kunne fraktes til slakteriet.
+►**M29**
+
+1. Et dyr skal være uskikket til transport til et slakteri i samsvar med de tekniske spesifikasjonene for skikkethet til transport fastsatt i kapittel I nr. 2 i vedlegg I til rådsforordning [(EF) nr. 1/2005](eu/32005r0001)[^\*].
+2. Den offentlige veterinæren skal foreta en kontroll ante mortem av dyret og særlig verifisere oppfyllelse av de kravene som gjelder for at
+
+   1. levende dyr skal kunne tas imot til slakting til konsum, i samsvar med artikkel 43 i gjennomføringsforordning [(EU) 2019/627](eu/32019r0627),
+   2. ferskt kjøtt skal være egnet til konsum, i samsvar med artikkel 45 i gjennomføringsforordning [(EU) 2019/627](eu/32019r0627), når det er mulig å verifisere dette ved kontroll ante mortem.
+
+   ◄**M29**
    ►**M23**
-2. Den offentlige veterinæren skal utføre en kontroll ante mortem av dyret.
 3. Det avlivede og avblødde dyret skal transporteres til slakteriet på en hygienisk måte og så raskt som mulig. Uttak av mage og tarmer, men ikke annen slaktebehandling, kan utføres på stedet under tilsyn av den offentlige veterinæren. Alle indre organer som er tatt ut, skal følge det avlivede dyret til slakteriet med opplysninger om at de tilhører dette dyret.
    ◄**M23**
 4. Dersom det går mer enn to timer mellom slakting og ankomst på slakteriet, skal dyret kjøles. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig.
 5. En erklæring fra driftsansvarlig for det næringsmiddelforetaket som har alt opp dyret, med angivelse av dyrets identitet og eventuelle veterinærpreparater eller andre behandlinger som dyret har fått, behandlingsdatoer og tilbakeholdingstider, skal følge det avlivede dyret til slakteriet.
    ►**M23**
-6. Det offisielle sertifikatet fastsatt i kapittel 5 i vedlegg IV til Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)[^\*] skal følge det slaktede dyret til slakteriet eller sendes på forhånd i et hvilket som helst format.
-
-   \* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017*0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater / offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
-
+6. Det offisielle sertifikatet fastsatt i kapittel 5 i vedlegg IV til Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)[^\*\*] skal følge det slaktede dyret til slakteriet eller sendes på forhånd i et hvilket som helst format.
    ◄**M23**
 7. Det avlivede dyret skal være egnet til konsum etter en undersøkelse post mortem som er utført i slakteriet i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), herunder eventuelle ytterligere prøver som kreves ved nødslakting.
 8. Driftsansvarlige for næringsmiddelforetak skal følge eventuelle instrukser angående bruken av kjøttet som den offentlige veterinæren gir etter undersøkelsen post mortem.
    ►**M15**
 9. – – –
    ◄**M15**
+
+   \* ►**M29** Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1, ELI: [http://data.europa.eu/eli/reg/2017/625/oj](http://data.europa.eu/eli/reg/2017/625/oj)). ◄**M29**
+
+   \*\* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017*0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater / offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
 
 ###### ►**M27** Kapittel VIa: Annen slakting enn nødslakting på opprinnelsesenheten av annet tamstorfe enn bison, sau, geit og svin og enhovede husdyr ◄**M27**
 
