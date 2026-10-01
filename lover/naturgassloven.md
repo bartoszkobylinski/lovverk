@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-08-01"
 last_change_in_force: "2025-04-01"
 last_updated: "2024-01-01"
-xml_hash: "059565adbc4be6cf95a41c069f687759ee65e8629bea4bb7d0958d1d7a4f7730"
+xml_hash: "7225edf3d4bc1492d52d69346e8cb59aacdaeb66b1785c256a1eecceb181b51e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis:
   - "32009L0073"
@@ -58,7 +58,7 @@ I denne loven forstås med
     2. rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
 11. rettigheter: stemmerettigheter, rett til utnevnelse av personer i styre, ledende stilling eller med fullmakt til å representere virksomheten utad, samt beholdning av majoritetsandel.
 
-> Endret ved [lover 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 2.
+> Endret ved [lover 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345), tidligere § 2).
 
 ## § 4. Reguleringsmyndighet og klagenemnd
 
@@ -94,7 +94,7 @@ Når en distribusjons- eller transmisjonssystemoperatør tilbyr balansetjenester
 1. fastsette eller godkjenne vilkår for balansetjenester, eller
 2. fastsette eller godkjenne metoder for å fastsette vilkår for balansetjenester.
 
-> Endret ved [lover 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 3.
+> Endret ved [lover 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345), tidligere § 3).
 
 ## § 7. Eiermessig skille i transmisjonsnett og sertifisering som transmisjonssystemoperatør
 
@@ -142,7 +142,7 @@ Reguleringsmyndigheten kan ilegge tvangsmulkt ved overtredelse av bestemmelsene 
 
 Departementet kan gi forskrift om tvangsmulktens størrelse og varighet, fastsettelse og gjennomføring av tvangsmulkt og ileggelse av tvangsmulkt ved brudd på bestemmelser i forskrift.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), endret ved [lov 25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 6.
+> Tilføyd ved [lov 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), endret ved [lov 25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345), tidligere § 6).
 
 ## § 12. Straff
 
@@ -164,6 +164,6 @@ Departementet kan gi forskrift om at reguleringsmyndigheten kan gi forskrift i m
 
 Loven gjelder fra den tid Kongen bestemmer.[^1]
 
-> Tilføyd ved [lov 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), endret ved [lov 25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 8.
+> Tilføyd ved [lov 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), endret ved [lov 25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345), tidligere § 8).
 
 1 Fra 1 aug 2002 iflg. [res. 28 juni 2002 nr. 654](forskrift/2002-06-28-654).
