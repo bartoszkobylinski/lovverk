@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # veglister-12-65-mobilkran-m-m — Change history
 
-_8 events; doc_id `sf-20231024-1699`._
+_9 events; doc_id `sf-20231024-1699`._
+
+## 2026-10-01 — Content updated
+Lines: +10 -10.
+Subject: `update(forskrift): veglister-12-65-mobilkran-m-m`
+Commit: `92ff76e`.
 
 ## 2026-09-01 — Content updated
 Lines: +10 -10.

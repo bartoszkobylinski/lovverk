@@ -2,6 +2,16 @@
   "doc_id": "sf-20241219-3395",
   "events": [
     {
+      "commit": "a44ccbc",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 125,
+      "lines_removed": 104,
+      "subject": "update(forskrift): forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e0881a3",
       "date": "2026-07-07",
       "from_path": null,

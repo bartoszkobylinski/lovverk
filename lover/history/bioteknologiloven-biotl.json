@@ -2,6 +2,16 @@
   "doc_id": "nl-20031205-100",
   "events": [
     {
+      "commit": "0f50c37",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(lov): bioteknologiloven-biotl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

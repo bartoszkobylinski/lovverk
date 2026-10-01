@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # politiregisterloven — Change history
 
-_6 events; doc_id `nl-20100528-016`._
+_7 events; doc_id `nl-20100528-016`._
+
+## 2026-10-01 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): politiregisterloven`
+Commit: `4488776`.
 
 ## 2026-07-01 — Content updated
 Lines: +7 -7.

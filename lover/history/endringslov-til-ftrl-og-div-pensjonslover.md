@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-ftrl-og-div-pensjonslover — Change history
 
-_3 events; doc_id `nl-20141219-073`._
+_4 events; doc_id `nl-20141219-073`._
+
+## 2026-10-01 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-ftrl-og-div-pensjonslover`
+Commit: `5474efb`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

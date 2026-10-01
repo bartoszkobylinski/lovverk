@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Lover
 
-_757 current documents_
+_755 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -135,7 +135,6 @@ _757 current documents_
 - [endringslov-til-finansmarkedslovgivningen](endringslov-til-finansmarkedslovgivningen.md) — Lov om endringer i finansmarkedslovgivningen (samleproposisjon)
 - [endringslov-til-folketrygdloven](endringslov-til-folketrygdloven.md) — Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrkesskade)
 - [endringslov-til-folketrygdloven-2](endringslov-til-folketrygdloven-2.md) — Lov om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)
-- [endringslov-til-folketrygdloven-3](endringslov-til-folketrygdloven-3.md) — Lov om endringar i folketrygdloven
 - [endringslov-til-folketrygdloven-mv](endringslov-til-folketrygdloven-mv.md) — Lov om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv.)
 - [endringslov-til-folketrygdloven-mv-2](endringslov-til-folketrygdloven-mv-2.md) — Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)
 - [endringslov-til-folketrygdloven-ny-alderspensjon](endringslov-til-folketrygdloven-ny-alderspensjon.md) — Lov om endringer i folketrygdloven (ny alderspensjon)
@@ -191,7 +190,6 @@ _757 current documents_
 - [endringslov-til-straffeloven-mv](endringslov-til-straffeloven-mv.md) — Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)
 - [endringslov-til-straffeloven-og-legemiddelloven-mv](endringslov-til-straffeloven-og-legemiddelloven-mv.md) — Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
 - [endringslov-til-straffeprosessloven](endringslov-til-straffeprosessloven.md) — Lov om endringer i straffeprosessloven
-- [endringslov-til-straffeprosessloven-mv](endringslov-til-straffeprosessloven-mv.md) — Lov om endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)
 - [endringslov-til-støtteprosessloven](endringslov-til-støtteprosessloven.md) — Lov om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)
 - [endringslov-til-tobakkskadeloven](endringslov-til-tobakkskadeloven.md) — Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)
 - [endringslov-til-tobakksskadeloven](endringslov-til-tobakksskadeloven.md) — Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)
@@ -632,7 +630,7 @@ _757 current documents_
 - [rettergangsordningens-ikrafttrædelseslov](rettergangsordningens-ikrafttrædelseslov.md) — Lov om rettergangsordningens ikrafttræden
 - [rettergangsoverenskomst-med-storbritannia](rettergangsoverenskomst-med-storbritannia.md) — Overenskomst mellem Norge og Storbritannia angående den civile rettergang
 - [rettsgebyrloven](rettsgebyrloven.md) — Lov om rettsgebyr (rettsgebyrloven)
-- [rettshjelploven-rhjl](rettshjelploven-rhjl.md) — Lov om fri rettshjelp [rettshjelploven]
+- [rettshjelpsloven-rhjl](rettshjelpsloven-rhjl.md) — Lov om fri rettshjelp (rettshjelpsloven)
 - [rettsutdragsloven](rettsutdragsloven.md) — Lov om utdrag i sivile saker og straffesaker [rettsutdragsloven]
 - [revisorloven](revisorloven.md) — Lov om revisjon og revisorer (revisorloven)
 - [riksrettsrettergangsloven-riksrgl](riksrettsrettergangsloven-riksrgl.md) — Lov om rettergangsmåten i riksrettssaker [riksrettsrettergangsloven]

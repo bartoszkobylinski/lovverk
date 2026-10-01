@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # folketrygdloven-ftrl — Change history
 
-_10 events; doc_id `nl-19970228-019`._
+_11 events; doc_id `nl-19970228-019`._
+
+## 2026-10-01 — Content updated
+Lines: +108 -108.
+Subject: `update(lov): folketrygdloven-ftrl`
+Commit: `2224356`.
 
 ## 2026-09-26 — Content updated
 Lines: +3 -3.

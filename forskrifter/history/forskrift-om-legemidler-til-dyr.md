@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-legemidler-til-dyr — Change history
 
-_6 events; doc_id `sf-20220908-1573`._
+_7 events; doc_id `sf-20220908-1573`._
+
+## 2026-10-01 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-legemidler-til-dyr`
+Commit: `79b4e88`.
 
 ## 2026-07-28 — Content updated
 Lines: +6 -5.

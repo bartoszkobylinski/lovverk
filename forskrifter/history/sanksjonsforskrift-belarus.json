@@ -2,6 +2,16 @@
   "doc_id": "sf-20060908-1041",
   "events": [
     {
+      "commit": "66dadf7",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 315,
+      "lines_removed": 131,
+      "subject": "update(forskrift): sanksjonsforskrift-belarus",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7d8bada",
       "date": "2026-09-19",
       "from_path": null,

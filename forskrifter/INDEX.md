@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5119 current documents_
+_5117 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -809,6 +809,7 @@ _5119 current documents_
 - [delegering-av-myndighet-etter-barnevernsloven-til-sentralenheten-for-barneverns-og-helsenemnda](delegering-av-myndighet-etter-barnevernsloven-til-sentralenheten-for-barneverns-og-helsenemnda.md) — Delegering av myndighet etter barnevernsloven til Sentralenheten for barneverns- og helsenemnda
 - [delegering-av-myndighet-etter-barnevernsloven-til-statens-helsetilsyn](delegering-av-myndighet-etter-barnevernsloven-til-statens-helsetilsyn.md) — Delegering av myndighet etter barnevernsloven til Statens helsetilsyn
 - [delegering-av-myndighet-etter-behandlingsbiobankloven-og-bioteknologiloven-til-folkehelseinstituttet](delegering-av-myndighet-etter-behandlingsbiobankloven-og-bioteknologiloven-til-folkehelseinstituttet.md) — Delegering av myndighet etter behandlingsbiobankloven og bioteknologiloven til Folkehelseinstituttet
+- [delegering-av-myndighet-etter-bokføringsloven-7-og-10](delegering-av-myndighet-etter-bokføringsloven-7-og-10.md) — Delegering av myndighet etter bokføringsloven § 7 og § 10
 - [delegering-av-myndighet-etter-eksportkontrolloven-til-utenriksdepartementet](delegering-av-myndighet-etter-eksportkontrolloven-til-utenriksdepartementet.md) — Delegering av myndighet etter lov om kontroll med eksport av strategiske varer, tjenester og teknologi
 - [delegering-av-myndighet-etter-energiloven-til-norges-vassdrags-og-energidirektorat](delegering-av-myndighet-etter-energiloven-til-norges-vassdrags-og-energidirektorat.md) — Delegering av myndighet etter energiloven til Norges vassdrags- og energidirektorat
 - [delegering-av-myndighet-etter-finansieringsloven](delegering-av-myndighet-etter-finansieringsloven.md) — Delegering av myndighet til Finans- og tolldepartementet etter lov om finansinstitusjoner og finansieringsvirksomhet § 2-2 annet ledd nr. 6.
@@ -1266,7 +1267,6 @@ _5119 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-delegering-etter-sjøfartsloven](endr-delegering-etter-sjøfartsloven.md) — Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
-- [endr-i-byggteknisk-forskrift-tek17](endr-i-byggteknisk-forskrift-tek17.md) — Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)
 - [endr-i-delvis-ikrafts-av-lov-2005-101](endr-i-delvis-ikrafts-av-lov-2005-101.md) — Vedtak om endring i delvis ikraftsetting av lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)
 - [endr-i-departementsstruktur-og-ansvarsfordeling](endr-i-departementsstruktur-og-ansvarsfordeling.md) — Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-ansvarsfordeling](endr-i-departementsstrukturen-og-ansvarsfordeling.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer
@@ -1296,8 +1296,6 @@ _5119 current documents_
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)
 - [endr-i-reseptformidlerforskriften](endr-i-reseptformidlerforskriften.md) — Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)
 - [endr-i-rettsgebyrforskriften](endr-i-rettsgebyrforskriften.md) — Forskrift om endring i rettsgebyrforskriften
-- [endr-i-sanksjonsforskrift-belarus](endr-i-sanksjonsforskrift-belarus.md) — Forskrift om endring i forskrift om restriktive tiltak i lys av situasjonen i Belarus og Belarus’ medvirkning i Russlands aggresjon mot Ukraina
-- [endr-i-spesialistforskriften](endr-i-spesialistforskriften.md) — Forskrift om endring i forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)
 - [endr-i-stortingets-forretningsorden](endr-i-stortingets-forretningsorden.md) — Endringer i Stortingets forretningsorden
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
@@ -1305,7 +1303,6 @@ _5119 current documents_
 - [endr-i-trafikkopplæringsforskriften](endr-i-trafikkopplæringsforskriften.md) — Forskrift om endring i forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
-- [endr-i-utlendingsforskriften-2026](endr-i-utlendingsforskriften-2026.md) — Forskrift om endring i utlendingsforskriften (rettshjelp)
 - [endr-i-utrykningsforskriften](endr-i-utrykningsforskriften.md) — Forskrift om endring i forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
@@ -1475,7 +1472,6 @@ _5119 current documents_
 - [forskr-om-vigselsrett-for-sjømannsprest](forskr-om-vigselsrett-for-sjømannsprest.md) — Vigselsrett for den til enhver tid fungerende sjømannsprest i Japan.
 - [forskr-overgangsbestemmelser-til-reindriftsloven](forskr-overgangsbestemmelser-til-reindriftsloven.md) — Forskrift om overgangsbestemmelser til lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven)
 - [forskr-overgangsregler-lov-2007-74-lov-2007-75](forskr-overgangsregler-lov-2007-74-lov-2007-75.md) — Forskrift om overgangsregler til lov 29. juni 2007 nr. 74 om regulerte markeder (børsloven) og lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven)
-- [forskrift-endring-i-forskrift-om-opptak-til-studier-og-emner-ved-universitetet-i-stavanger](forskrift-endring-i-forskrift-om-opptak-til-studier-og-emner-ved-universitetet-i-stavanger.md) — Forskrift endring i forskrift om opptak til studier og emner ved Universitetet i Stavanger
 - [forskrift-etter-luftfartsloven](forskrift-etter-luftfartsloven.md) — Forskrift etter luftfartsloven – utenlandsk luftfartøy innenfor norsk område.
 - [forskrift-for-bachelorstudiet-bevegelige-bilder-ved-nordland-kunst-og-filmfagskole](forskrift-for-bachelorstudiet-bevegelige-bilder-ved-nordland-kunst-og-filmfagskole.md) — Forskrift for bachelorstudiet Bevegelige bilder ved Nordland kunst- og filmfagskole
 - [forskrift-for-badeanlegg-bassengbad-og-badstu](forskrift-for-badeanlegg-bassengbad-og-badstu.md) — Forskrift for badeanlegg, bassengbad og badstu m.v.
@@ -1915,6 +1911,7 @@ _5119 current documents_
 - [forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet](forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet.md) — Forskrift om endring av juridisk kjønn for norske statsborgere bosatt i utlandet
 - [forskrift-om-endring-av-motorvogners-avgiftsmessige-status](forskrift-om-endring-av-motorvogners-avgiftsmessige-status.md) — Forskrift om endring av motorvogners avgiftsmessige status
 - [forskrift-om-endring-av-rettskriving-m-v](forskrift-om-endring-av-rettskriving-m-v.md) — Forskrift om endring av rettskriving og læreboknormal
+- [forskrift-om-endring-i-bokføringsforskriften](forskrift-om-endring-i-bokføringsforskriften.md) — Forskrift om endring i bokføringsforskriften
 - [forskrift-om-endring-i-ers-forskriften-og-opphevelse-av-forskrift-om-kystfiskeappen](forskrift-om-endring-i-ers-forskriften-og-opphevelse-av-forskrift-om-kystfiskeappen.md) — Forskrift om endring i ERS-forskriften og opphevelse av forskrift om kystfiskeappen
 - [forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn](forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn.md) — Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy
@@ -1927,6 +1924,8 @@ _5119 current documents_
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
 - [forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs](forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md) — Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS
 - [forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om endring i forskrift om kontroll av kjøretøy langs veg
+- [forskrift-om-endring-i-forskrift-om-luftromsorganisering](forskrift-om-endring-i-forskrift-om-luftromsorganisering.md) — Forskrift om endring i forskrift om luftromsorganisering
+- [forskrift-om-endring-i-forskrift-om-lufttrafikkregler-og-operative-prosedyrer](forskrift-om-endring-i-forskrift-om-lufttrafikkregler-og-operative-prosedyrer.md) — Forskrift om endring i forskrift om lufttrafikkregler og operative prosedyrer
 - [forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt](forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt.md) — Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt
 - [forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer](forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer.md) — Forskrift om endring i forskrift om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer og forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
 - [forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven](forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md) — Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven
@@ -5000,7 +4999,6 @@ _5119 current documents_
 - [vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus](vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus.md) — Vedtak om dispensasjon for nøkkelpersonell med kritiske samfunnsfunksjoner for Nkom, og oppfølging av bransjen
 - [vedtak-om-dispensasjon-for-forskningsfartøyer](vedtak-om-dispensasjon-for-forskningsfartøyer.md) — Vedtak om dispensasjon fra kravet om diplomatisk klarering for forskningsfartøyer som er sivile statsfartøyer
 - [vedtak-om-endring-av-navn-til-helsedirektoratet](vedtak-om-endring-av-navn-til-helsedirektoratet.md) — Vedtak om endring av navn på Sosial- og helsedirektoratet til Helsedirektoratet
-- [vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge-2026](vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge-2026.md) — Vedtak om endring i mandat for forvaltningen av Statens pensjonsfond Norge
 - [vedtak-om-etablering-av-dsb](vedtak-om-etablering-av-dsb.md) — Vedtak om etablering av Direktoratet for samfunnssikkerhet og beredskap.
 - [vedtak-om-fastsettelse-av-aii](vedtak-om-fastsettelse-av-aii.md) — Vedtak om fastsettelse av alternativ instrumentidentifikator
 - [vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024](vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024.md) — Vedtak om fastsettelse av rente for skattlegging av havbruksvirksomhet for inntektsåret 2024

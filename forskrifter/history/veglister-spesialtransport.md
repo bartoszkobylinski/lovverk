@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # veglister-spesialtransport — Change history
 
-_8 events; doc_id `sf-20231024-1697`._
+_9 events; doc_id `sf-20231024-1697`._
+
+## 2026-10-01 — Content updated
+Lines: +17 -17.
+Subject: `update(forskrift): veglister-spesialtransport`
+Commit: `5996d3d`.
 
 ## 2026-09-01 — Content updated
 Lines: +17 -17.

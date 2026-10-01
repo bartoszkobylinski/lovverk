@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # advokatloven — Change history
 
-_4 events; doc_id `nl-20220512-028`._
+_5 events; doc_id `nl-20220512-028`._
+
+## 2026-10-01 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): advokatloven`
+Commit: `ee0f480`.
 
 ## 2026-09-15 — Content updated
 Lines: +3 -3.

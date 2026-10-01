@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260929-1933",
+  "events": [
+    {
+      "commit": "4e9b2c7",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 77,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-bokføringsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-bokføringsforskriften"
+}

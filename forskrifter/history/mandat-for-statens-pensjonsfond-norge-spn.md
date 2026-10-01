@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # mandat-for-statens-pensjonsfond-norge-spn — Change history
 
-_3 events; doc_id `sf-20101221-1790`._
+_4 events; doc_id `sf-20101221-1790`._
+
+## 2026-10-01 — Content updated
+Lines: +18 -9.
+Subject: `update(forskrift): mandat-for-statens-pensjonsfond-norge-spn`
+Commit: `e1d530c`.
 
 ## 2026-09-15 — Content updated
 Lines: +3 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030 — Change history
 
-_4 events; doc_id `sf-20241219-3395`._
+_5 events; doc_id `sf-20241219-3395`._
+
+## 2026-10-01 — Content updated
+Lines: +125 -104.
+Subject: `update(forskrift): forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030`
+Commit: `a44ccbc`.
 
 ## 2026-07-07 — Content updated
 Lines: +65 -5.

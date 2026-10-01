@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # utleveringsloven-utlevl — Change history
 
-_7 events; doc_id `nl-19750613-039`._
+_8 events; doc_id `nl-19750613-039`._
+
+## 2026-10-01 — Content updated
+Lines: +9 -9.
+Subject: `update(lov): utleveringsloven-utlevl`
+Commit: `fac1299`.
 
 ## 2026-07-01 — Content updated
 Lines: +10 -8.

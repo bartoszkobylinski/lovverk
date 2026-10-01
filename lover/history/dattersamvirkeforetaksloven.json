@@ -2,6 +2,16 @@
   "doc_id": "nl-20031212-109",
   "events": [
     {
+      "commit": "355ab05",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): dattersamvirkeforetaksloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # bokføringsforskriften — Change history
 
-_3 events; doc_id `sf-20041201-1558`._
+_4 events; doc_id `sf-20041201-1558`._
+
+## 2026-10-01 — Content updated
+Lines: +17 -13.
+Subject: `update(forskrift): bokføringsforskriften`
+Commit: `8dfbc1c`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

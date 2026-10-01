@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-næringsmidler-til-særskilte-grupper — Change history
 
-_4 events; doc_id `sf-20140110-0021`._
+_5 events; doc_id `sf-20140110-0021`._
+
+## 2026-10-01 — Content updated
+Lines: +116 -51.
+Subject: `update(forskrift): forskrift-om-næringsmidler-til-særskilte-grupper`
+Commit: `16a5eac`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

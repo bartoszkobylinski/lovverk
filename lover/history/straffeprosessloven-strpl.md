@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # straffeprosessloven-strpl — Change history
 
-_10 events; doc_id `nl-19810522-025`._
+_11 events; doc_id `nl-19810522-025`._
+
+## 2026-10-01 — Content updated
+Lines: +218 -201.
+Subject: `update(lov): straffeprosessloven-strpl`
+Commit: `cb95e0d`.
 
 ## 2026-09-19 — Content updated
 Lines: +3 -3.

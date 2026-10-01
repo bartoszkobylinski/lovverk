@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-lufttrafikkregler-og-operative-prosedyrer — Change history
 
-_4 events; doc_id `sf-20161214-1578`._
+_5 events; doc_id `sf-20161214-1578`._
+
+## 2026-10-01 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-lufttrafikkregler-og-operative-prosedyrer`
+Commit: `22c2c22`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

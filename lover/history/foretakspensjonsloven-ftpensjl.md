@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # foretakspensjonsloven-ftpensjl — Change history
 
-_8 events; doc_id `nl-20000324-016`._
+_9 events; doc_id `nl-20000324-016`._
+
+## 2026-10-01 — Content updated
+Lines: +11 -11.
+Subject: `update(lov): foretakspensjonsloven-ftpensjl`
+Commit: `648326f`.
 
 ## 2026-07-01 — Content updated
 Lines: +11 -9.

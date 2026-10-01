@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # likestillings-og-diskrimineringsloven-ldl — Change history
 
-_3 events; doc_id `nl-20170616-051`._
+_4 events; doc_id `nl-20170616-051`._
+
+## 2026-10-01 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): likestillings-og-diskrimineringsloven-ldl`
+Commit: `dc54c4e`.
 
 ## 2026-04-29 — Content updated
 Lines: +9 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # animaliehygieneforskriften — Change history
 
-_7 events; doc_id `sf-20081222-1624`._
+_8 events; doc_id `sf-20081222-1624`._
+
+## 2026-10-01 — Content updated
+Lines: +23 -13.
+Subject: `update(forskrift): animaliehygieneforskriften`
+Commit: `e9bce00`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

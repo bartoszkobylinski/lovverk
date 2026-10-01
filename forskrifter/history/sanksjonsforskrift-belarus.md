@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sanksjonsforskrift-belarus — Change history
 
-_6 events; doc_id `sf-20060908-1041`._
+_7 events; doc_id `sf-20060908-1041`._
+
+## 2026-10-01 — Content updated
+Lines: +315 -131.
+Subject: `update(forskrift): sanksjonsforskrift-belarus`
+Commit: `66dadf7`.
 
 ## 2026-09-19 — Content updated
 Lines: +4 -4.

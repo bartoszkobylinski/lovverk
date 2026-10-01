@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vergemålsloven-vgml — Change history
 
-_3 events; doc_id `nl-20100326-009`._
+_4 events; doc_id `nl-20100326-009`._
+
+## 2026-10-01 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): vergemålsloven-vgml`
+Commit: `15f881e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

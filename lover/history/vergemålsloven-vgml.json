@@ -2,6 +2,16 @@
   "doc_id": "nl-20100326-009",
   "events": [
     {
+      "commit": "15f881e",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): vergemålsloven-vgml",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

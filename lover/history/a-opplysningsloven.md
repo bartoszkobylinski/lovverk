@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # a-opplysningsloven — Change history
 
-_3 events; doc_id `nl-20120622-043`._
+_4 events; doc_id `nl-20120622-043`._
+
+## 2026-10-01 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): a-opplysningsloven`
+Commit: `f7087ae`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

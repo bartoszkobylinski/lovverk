@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-luftromsorganisering — Change history
 
-_3 events; doc_id `sf-20211214-3530`._
+_4 events; doc_id `sf-20211214-3530`._
+
+## 2026-10-01 — Content updated
+Lines: +16 -2.
+Subject: `update(forskrift): forskrift-om-luftromsorganisering`
+Commit: `ffdc1f9`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

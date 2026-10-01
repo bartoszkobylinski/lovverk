@@ -2,6 +2,16 @@
   "doc_id": "nl-19620622-012",
   "events": [
     {
+      "commit": "cd74013",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(lov): sykepleierpensjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "15baf93",
       "date": "2026-09-26",
       "from_path": null,

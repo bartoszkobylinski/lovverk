@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-legemiddelrester-i-næringsmidler-fra-dyr — Change history
 
-_5 events; doc_id `sf-20120530-0512`._
+_6 events; doc_id `sf-20120530-0512`._
+
+## 2026-10-01 — Content updated
+Lines: +9 -13.
+Subject: `update(forskrift): forskrift-om-legemiddelrester-i-næringsmidler-fra-dyr`
+Commit: `6f83d6f`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

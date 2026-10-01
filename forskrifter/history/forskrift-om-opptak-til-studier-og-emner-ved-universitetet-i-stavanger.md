@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-til-studier-og-emner-ved-universitetet-i-stavanger — Change history
 
-_4 events; doc_id `sf-20181018-1671`._
+_5 events; doc_id `sf-20181018-1671`._
+
+## 2026-10-01 — Content updated
+Lines: +114 -112.
+Subject: `update(forskrift): forskrift-om-opptak-til-studier-og-emner-ved-universitetet-i-stavanger`
+Commit: `af2c31d`.
 
 ## 2026-07-01 — Content updated
 Lines: +22 -18.

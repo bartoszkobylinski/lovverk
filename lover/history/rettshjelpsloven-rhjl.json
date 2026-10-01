@@ -1,23 +1,43 @@
 {
-  "doc_id": "nl-20250620-082",
+  "doc_id": "nl-19800613-035",
   "events": [
     {
-      "commit": "ff1b526",
+      "commit": "2b9597b",
       "date": "2026-10-01",
       "from_path": null,
-      "lines_added": 5,
-      "lines_removed": 69,
-      "subject": "update(lov): endringslov-til-rettshjelpsloven-mv",
+      "lines_added": 24,
+      "lines_removed": 25,
+      "subject": "update(lov): rettshjelpsloven-rhjl",
       "to_path": null,
       "type": "updated"
     },
     {
-      "commit": "c78eec7",
+      "commit": "a0810f5",
       "date": "2026-09-15",
       "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(lov): rettshjelploven-rhjl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3a207fc",
+      "date": "2026-07-03",
+      "from_path": null,
       "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): rettshjelploven-rhjl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "4a568eb",
+      "date": "2026-05-13",
+      "from_path": null,
+      "lines_added": 3,
       "lines_removed": 3,
-      "subject": "update(lov): endringslov-til-rettshjelpsloven-mv",
+      "subject": "update(lov): rettshjelploven-rhjl",
       "to_path": null,
       "type": "updated"
     },
@@ -34,18 +54,18 @@
     {
       "commit": "3dddeca",
       "date": "2026-04-27",
-      "from_path": "lover/nl-20250620-082.md",
+      "from_path": "lover/nl-19800613-035.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "lover/endringslov-til-rettshjelpsloven-mv.md",
+      "to_path": "lover/rettshjelploven-rhjl.md",
       "type": "renamed"
     },
     {
       "commit": "57c3052",
       "date": "2026-04-26",
       "from_path": null,
-      "lines_added": 99,
+      "lines_added": 323,
       "lines_removed": 0,
       "subject": "sync: 4522 new, 0 changed, 0 removed",
       "to_path": null,
@@ -53,5 +73,5 @@
     }
   ],
   "schema_version": 1,
-  "slug": "endringslov-til-rettshjelpsloven-mv"
+  "slug": "rettshjelpsloven-rhjl"
 }

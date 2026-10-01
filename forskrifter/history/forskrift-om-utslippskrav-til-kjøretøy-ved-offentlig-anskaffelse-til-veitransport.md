@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport — Change history
 
-_6 events; doc_id `sf-20221220-2384`._
+_7 events; doc_id `sf-20221220-2384`._
+
+## 2026-10-01 — Content updated
+Lines: +48 -17.
+Subject: `update(forskrift): forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport`
+Commit: `2921e55`.
 
 ## 2026-07-07 — Content updated
 Lines: +3 -3.

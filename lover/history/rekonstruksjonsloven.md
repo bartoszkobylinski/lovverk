@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # rekonstruksjonsloven — Change history
 
-_5 events; doc_id `nl-20200507-038`._
+_6 events; doc_id `nl-20200507-038`._
+
+## 2026-10-01 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): rekonstruksjonsloven`
+Commit: `b2a8c61`.
 
 ## 2026-06-23 — Content updated
 Lines: +4 -4.

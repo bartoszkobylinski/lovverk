@@ -2,6 +2,16 @@
   "doc_id": "sf-20120530-0512",
   "events": [
     {
+      "commit": "6f83d6f",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 13,
+      "subject": "update(forskrift): forskrift-om-legemiddelrester-i-næringsmidler-fra-dyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e3a1282",
       "date": "2026-09-09",
       "from_path": null,

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260929-1934",
+  "events": [
+    {
+      "commit": "ffe006b",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 0,
+      "subject": "add(forskrift): delegering-av-myndighet-etter-bokføringsloven-7-og-10",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-myndighet-etter-bokføringsloven-7-og-10"
+}
