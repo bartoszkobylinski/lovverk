@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1997-05-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2026-01-09"
-xml_hash: "45a3f558a908c3bb7afa702fa855d637c711db83fbf0bcd6bf39b6a3aa7e68e4"
+xml_hash: "bdec393dd392627b8fac47a9daa005521d637e6738ff6c7afe0d220545111524"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-26T09:17:45.512481+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -276,7 +276,7 @@ En person som mottar pensjon fra folketrygden, kan gis medlemskap med dekning et
 
 Departementet gir forskrifter om når det kan gis samtykke etter andre og tredje ledd.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95), [22 des 2006 nr. 95](lov/2006-12-22-95) (ikr. 1 jan 2007), [15 juni 2007 nr. 21](lov/2007-06-15-21), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95)), [22 des 2006 nr. 95](lov/2006-12-22-95) (ikr. 1 jan 2007), [15 juni 2007 nr. 21](lov/2007-06-15-21), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 2-10. Opptjening av rettigheter for personer med begrenset medlemskap
 
@@ -376,7 +376,7 @@ Full grunnpensjon utgjør likevel 90 prosent av grunnbeløpet dersom pensjoniste
 
 I tillegg til de personene som er likestilt med ektefeller etter [§ 1-5](lov/1997-02-28-19/§1-5) skal bestemmelsene i fjerde ledd også gjelde for samboerpar som har levd sammen i 12 av de siste 18 månedene. Full grunnpensjon utgjør 90 prosent av grunnbeløpet også når pensjonistens samboer får omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17), pensjon eller overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A) eller overgangsstønad etter [§§ 16-7](lov/1997-02-28-19/§16-7) og [17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [27 nov 1998 nr. 69](lov/1998-11-27-69), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [20 juni 2003 nr. 54](lov/2003-06-20-54) (ikr. 1 mai 2003 med virkning for løpende tilfeller), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 mai 2004, se dens III), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 mai 2005, gjelder fjerde og femte ledd), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 sep 2016), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [27 nov 1998 nr. 69](lov/1998-11-27-69), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [20 juni 2003 nr. 54](lov/2003-06-20-54) (ikr. 1 mai 2003 med virkning for løpende tilfeller), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 mai 2004, se dens III), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 mai 2005, gjelder fjerde og femte ledd), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 sep 2016), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 3-3. Særtillegg
 
@@ -421,7 +421,7 @@ For en alderspensjonist som ved fylte 67 år hadde rett til uføretrygd etter [k
 
 Trygdetid etter første ledd regnes som botid, se [§§ 17-3](lov/1997-02-28-19/§17-3), [18-3](lov/1997-02-28-19/§18-3) og [19-3](lov/1997-02-28-19/§19-3). Som botid regnes også tidsrom som medlem i trygden i år da vedkommende opptjente pensjonspoeng etter andre ledd.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010 med virkning for personer født fra og med 1943), [26 nov 2010 nr. 59](lov/2010-11-26-59) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33), [17 juni 2016 nr. 25](lov/2016-06-17-25), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010 med virkning for personer født fra og med 1943), [26 nov 2010 nr. 59](lov/2010-11-26-59) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33), [17 juni 2016 nr. 25](lov/2016-06-17-25)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 3-6. (Opphevet)
 
@@ -603,7 +603,7 @@ Departementet kan gi forskrifter om godskriving av pensjonspoeng og beregning av
 
 Departementet kan gi forskrift om godskriving av pensjonspoeng for den som mottar avtalefestet pensjon etter [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 1](lov/2010-06-25-28/kap1) eller tilsvarende ordning.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 jan 2004, se dens III), [19 feb 2010 nr. 5](lov/2010-02-19-5) (ikr. 1 jan 2011) som endret ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 jan 2004, se dens III), [19 feb 2010 nr. 5](lov/2010-02-19-5) (ikr. 1 jan 2011, endring endret ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29)), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)).
 
 ### § 3-20. (Opphevet)
 
@@ -643,7 +643,7 @@ Tilleggspensjonen til en alderspensjonist som også fyller vilkårene for rett t
 1. pensjonistens egen tilleggspensjon beregnet etter §§ 3-8 til 3-16
 2. 55 prosent av summen av pensjonistens egen tilleggspensjon etter bokstav a og den avdødes tilleggspensjon beregnet etter første ledd.
 
-> Endret ved lover [23 juni 2000 nr. 55](lov/2000-06-23-55), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011) som endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [17 juni 2016 nr. 25](lov/2016-06-17-25) (med virkning fra 1 jan 2015), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [23 juni 2000 nr. 55](lov/2000-06-23-55), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, endring endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [17 juni 2016 nr. 25](lov/2016-06-17-25) (med virkning fra 1 jan 2015), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### V. (Opphevet)
 
@@ -651,7 +651,7 @@ Tilleggspensjonen til en alderspensjonist som også fyller vilkårene for rett t
 
 ### § 3-24. (Opphevet)
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, se dens III) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [18 des 2020 nr. 140](lov/2020-12-18-140) (ikr. 1 mars 2021 iflg. res. [19 feb 2021 nr. 469](forskrift/2021-02-19-469)), [17 des 2021 nr. 146](lov/2021-12-17-146), opphevet [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, se dens III, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [18 des 2020 nr. 140](lov/2020-12-18-140) (ikr. 1 mars 2021 iflg. res. [19 feb 2021 nr. 469](forskrift/2021-02-19-469)), [17 des 2021 nr. 146](lov/2021-12-17-146), opphevet [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
 
 ### § 3-25. (Opphevet)
 
@@ -659,7 +659,7 @@ Tilleggspensjonen til en alderspensjonist som også fyller vilkårene for rett t
 
 ### § 3-26. (Opphevet)
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 19 des 1997 for tredje ledd, ikr. 1 mai 1998 for fjerde ledd), [27 nov 1998 nr. 69](lov/1998-11-27-69), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 mai 2002), [20 juni 2003 nr. 54](lov/2003-06-20-54) (ikr. 1 mai 2003 med virkning for løpende tilfeller), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 mai 2004, se dens III), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 mai 2005, gjelder femte ledd bokstav a), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 juni 2006), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [21 des 2007 nr. 118](lov/2007-12-21-118), [27 juni 2008 nr. 49](lov/2008-06-27-49) (ikr. 27 juni 2008 med virkning fra 1 mai 2008), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, se dens III) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), [25 nov 2011 nr. 43](lov/2011-11-25-43), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33), opphevet ved lov [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 19 des 1997 for tredje ledd, ikr. 1 mai 1998 for fjerde ledd), [27 nov 1998 nr. 69](lov/1998-11-27-69), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 mai 2002), [20 juni 2003 nr. 54](lov/2003-06-20-54) (ikr. 1 mai 2003 med virkning for løpende tilfeller), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 mai 2004, se dens III), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 mai 2005, gjelder femte ledd bokstav a), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 juni 2006), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [21 des 2007 nr. 118](lov/2007-12-21-118), [27 juni 2008 nr. 49](lov/2008-06-27-49) (ikr. 27 juni 2008 med virkning fra 1 mai 2008), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, se dens III, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59)), [25 nov 2011 nr. 43](lov/2011-11-25-43), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33)), opphevet ved lov [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
 
 ### § 3-27. (Opphevet)
 
@@ -885,7 +885,7 @@ For medlem som er under utdanning, gjelder bestemmelsene i første ledd bare for
 
 ### § 4-17. (Opphevet)
 
-> Tilføyd ved lov [18 juni 1998 nr. 38](lov/1998-06-18-38) (ikr. 1 okt 1998), opphevet ved lov [17 des 2010 nr. 80](lov/2010-12-17-80) (ikr. 1 jan 2011, se dens IV) som endret ved lov [16 des 2011 nr. 58](lov/2011-12-16-58).
+> Tilføyd ved lov [18 juni 1998 nr. 38](lov/1998-06-18-38) (ikr. 1 okt 1998), opphevet ved lov [17 des 2010 nr. 80](lov/2010-12-17-80) (ikr. 1 jan 2011, se dens IV, endring endret ved lov [16 des 2011 nr. 58](lov/2011-12-16-58)).
 
 ### § 4-18. Dagpenger til fiskere og fangstmenn
 
@@ -1951,7 +1951,7 @@ Sykepenger ytes tidligst fra det tidspunktet vedkommende søkte lege, se [§ 8-7
 
 Sykepengegrunnlaget for frilansere fastsettes etter reglene i [§ 8-28](lov/1997-02-28-19/§8-28) første, andre og tredje ledd bokstav a og b, [§ 8-29](lov/1997-02-28-19/§8-29) og [§ 8-30](lov/1997-02-28-19/§8-30) første til tredje ledd.
 
-> Endret ved lover [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 med virkning for nye tilfeller), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II) som endret ved lov [20 des 2018 nr. 98](lov/2018-12-20-98).
+> Endret ved lover [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 med virkning for nye tilfeller), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II, endring endret ved lov [20 des 2018 nr. 98](lov/2018-12-20-98)).
 
 ### § 8-39. Forsikring for tilleggssykepenger
 
@@ -2282,7 +2282,7 @@ Til et medlem som har omsorg for en person med utviklingshemming som har behov f
 
 Dersom barnet dør i stønadsperioden, ytes det pleiepenger i opptil 30 stønadsdager (seks uker). Til den som har mottatt fulle pleiepenger i minst tre år ytes det pleiepenger i opptil tre måneder. Ved eventuell arbeidsinntekt i denne perioden graderes pleiepengene mot arbeidsinntekten.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 mars 1999), [13 des 2002 nr. 86](lov/2002-12-13-86) (ikr. 1 juli 2003) som endret ved lov [20 juni 2003 nr. 53](lov/2003-06-20-53) (ikr. 1 juli 2003 med virkning for tilfeller når barnet blir innlagt i helseinstitusjon etter dette tidspunktet), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 jan 2006), [15 juni 2007 nr. 21](lov/2007-06-15-21), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017), [19 des 2017 nr. 120](lov/2017-12-19-120) (ikr. 1 feb 2018), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2020).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 mars 1999), [13 des 2002 nr. 86](lov/2002-12-13-86) (ikr. 1 juli 2003 med virkning for tilfeller når barnet blir innlagt i helseinstitusjon etter dette tidspunktet, endring endret ved lov [20 juni 2003 nr. 53](lov/2003-06-20-53)), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 jan 2006), [15 juni 2007 nr. 21](lov/2007-06-15-21), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017), [19 des 2017 nr. 120](lov/2017-12-19-120) (ikr. 1 feb 2018), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2020).
 
 ### § 9-11. Graderte pleiepenger
 
@@ -2294,7 +2294,7 @@ Det gjøres unntak fra andre ledd første punktum når barnets sykdom, jf. [§ 9
 
 Departementet kan i forskrift gi nærmere regler om gradert ytelse.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 mars 1999 med virkning også for tilfeller hvor barnet ble sykt før dette tidspunktet), [14 juni 2002 nr. 22](lov/2002-06-14-22), [16 des 2005 nr. 118](lov/2005-12-16-118) (ikr. 1 jan 2006 med virkning også for løpende tilfeller), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 jan 2006), [9 apr 2010 nr. 11](lov/2010-04-09-11) (ikr. 1 juli 2010 iflg. [res. 9 apr 2010 nr. 499](forskrift/2010-04-09-499)), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017, endret paragrafnummer fra § 9-11a), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [21 juni 2019 nr. 27](lov/2019-06-21-27) (ikr. 1 juli 2019), [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 mars 1999 med virkning også for tilfeller hvor barnet ble sykt før dette tidspunktet), [14 juni 2002 nr. 22](lov/2002-06-14-22), [16 des 2005 nr. 118](lov/2005-12-16-118) (ikr. 1 jan 2006 med virkning også for løpende tilfeller), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 jan 2006), [9 apr 2010 nr. 11](lov/2010-04-09-11) (ikr. 1 juli 2010 iflg. [res. 9 apr 2010 nr. 499](forskrift/2010-04-09-499)), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017, tidligere § 9-11a), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [21 juni 2019 nr. 27](lov/2019-06-21-27) (ikr. 1 juli 2019), [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel).
 
 ### § 9-11 a. (Opphevet)
 
@@ -2308,7 +2308,7 @@ Departementet kan i forskrift gi nærmere regler om gradert ytelse.
 
 Til medlem som i hjemmet pleier en nærstående i livets sluttfase, ytes det pleiepenger i opptil 60 dager for hver pasient. Det kan ytes pleiepenger til inntil to personer samtidig for pleie av samme person.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017), tidligere § 9-12, [20 des 2022 nr. 98](lov/2022-12-20-98) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2309](forskrift/2022-12-20-2309)).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017, tidligere § 9-12), [20 des 2022 nr. 98](lov/2022-12-20-98) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2309](forskrift/2022-12-20-2309)).
 
 ### § 9-14. Opplæringspenger til et medlem som tar seg av et funksjonshemmet eller langvarig sykt barn
 
@@ -2316,7 +2316,7 @@ Til et medlem som trenger nødvendig opplæring for å ta seg av og behandle et 
 
 Stønaden kan gis selv om barnet har fylt 18 år.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017), tidligere § 9-13, [20 des 2022 nr. 98](lov/2022-12-20-98) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2309](forskrift/2022-12-20-2309)).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017, tidligere § 9-13), [20 des 2022 nr. 98](lov/2022-12-20-98) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2309](forskrift/2022-12-20-2309)).
 
 ### § 9-15. Utbetaling av pleiepenger og opplæringspenger
 
@@ -2342,7 +2342,7 @@ For å få rett til pleiepenger etter [§ 9-13](lov/1997-02-28-19/§9-13) må de
 
 For å få rett til opplæringspenger etter [§ 9-14](lov/1997-02-28-19/§9-14) må det legges fram legeerklæring om at opplæringen er nødvendig.
 
-> Tilføyd ved lov [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), endret ved lover [19 des 2008 nr. 107](lov/2008-12-19-107), [19 des 2014 nr. 79](lov/2014-12-19-79) (ikr. 1 jan 2015), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017), tidligere § 9-14, [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel), [20 des 2022 nr. 98](lov/2022-12-20-98) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2309](forskrift/2022-12-20-2309)).
+> Tilføyd ved lov [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), endret ved lover [19 des 2008 nr. 107](lov/2008-12-19-107), [19 des 2014 nr. 79](lov/2014-12-19-79) (ikr. 1 jan 2015), [11 mai 2017 nr. 25](lov/2017-05-11-25) (ikr. 1 okt 2017, tidligere § 9-14), [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel), [20 des 2022 nr. 98](lov/2022-12-20-98) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2309](forskrift/2022-12-20-2309)).
 
 ### § 9-17. Feriepenger til arbeidstakere
 
@@ -2403,9 +2403,9 @@ Når det skal vurderes om vilkåret i første ledd bokstav a eller b er oppfylt,
 
 Stønaden ytes i forbindelse med tiltak som er nødvendige og hensiktsmessige for at medlemmet skal bli i stand til å skaffe seg eller beholde høvelig arbeid.
 
-Det ytes ikke stønad etter denne paragrafen til en person som mottar uføretrygd eller avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19) sjette ledd. Til en person som mottar uføretrygd, kan det likevel ytes stønad dersom det er sannsynlig at stønaden vil føre til at uføretrygden faller bort eller blir redusert.
+Det ytes ikke stønad etter denne paragrafen til en person som mottar avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19). Til en person som mottar uføretrygd og har en uføregrad på 100 prosent, kan det bare ytes stønad etter denne paragrafen dersom det er sannsynlig at stønaden vil føre til at personens pensjonsgivende inntekt vil overstige 40 prosent av grunnbeløpet per kalenderår.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
 
 ### § 10-6. Stønad til bedring av funksjonsevnen i dagliglivet
 
@@ -2451,7 +2451,7 @@ Departementet gir forskrift om stønad etter denne paragrafen.
 
 Retten til ytelser etter dette kapitlet faller bort i den utstrekning ytelsene kommer inn under ansvarsområdet i annen lovgivning. Departementet gir forskrifter om avgrensningen, herunder unntak for bestemte grupper.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 10-15), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189), endret paragrafnummer fra § 10-17), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 10-15), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189), tidligere § 10-17), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017).
 
 ### § 10-9. (Opphevet)
 
@@ -2467,11 +2467,11 @@ Retten til ytelser etter dette kapitlet faller bort i den utstrekning ytelsene k
 
 ### § 10-12. (Opphevet)
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragraftallet fra § 10-10), [20 juni 2003 nr. 53](lov/2003-06-20-53) (ikr. 1 juli 2003), [19 des 2003 nr. 135](lov/2003-12-19-135), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 10-10), [20 juni 2003 nr. 53](lov/2003-06-20-53) (ikr. 1 juli 2003), [19 des 2003 nr. 135](lov/2003-12-19-135), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
 
 ### § 10-13. (Opphevet)
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragraftallet fra § 10-12), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 10-12), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
 
 ### § 10-14. (Opphevet)
 
@@ -2479,19 +2479,19 @@ Retten til ytelser etter dette kapitlet faller bort i den utstrekning ytelsene k
 
 ### § 10-15. (Opphevet)
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragraftallet fra § 10-13), [15 juni 2001 nr. 64](lov/2001-06-15-64) (ikr. 1 jan 2002), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 10-13), [15 juni 2001 nr. 64](lov/2001-06-15-64) (ikr. 1 jan 2002), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
 
 ### § 10-16. (Opphevet)
 
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [30 juni 2000 nr. 57](lov/2000-06-30-57) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 for nye tilfeller; for tilfeller hvor rehabiliteringspenger er samordnet med etterlatteytelser eller vilkårene for begge ytelsene er oppfylt pr. 31 des 2001 trer endringene ikr. 1 jan 2003, endret paragraftallet fra [§ 10-14](lov/1997-02-28-19/§10-14)), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [30 juni 2000 nr. 57](lov/2000-06-30-57) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 for nye tilfeller; for tilfeller hvor rehabiliteringspenger er samordnet med etterlatteytelser eller vilkårene for begge ytelsene er oppfylt pr. 31 des 2001 trer endringene ikr. 1 jan 2003, tidligere § 10-14), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
 
 ### § 10-17. (Flyttet til § 10-8 ved lov 19 des 2008 nr. 106.)
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (i kraft 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragraftallet fra § 10-15), [19 des 2008 nr. 106](lov/2008-12-19-106) (i kraft 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189), endret paragraftallet til § 10-8).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (i kraft 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 10-15), [19 des 2008 nr. 106](lov/2008-12-19-106) (i kraft 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189), tidligere § 10-8).
 
 ### § 10-18. (Opphevet)
 
-> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragraftallet fra § 10-16) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
+> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endring endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118), tidligere § 10-16), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)).
 
 ### Kapittel 11. Arbeidsavklaringspenger
 
@@ -2572,7 +2572,7 @@ Det er et vilkår for rett til arbeidsavklaringspenger at medlemmet bidrar aktiv
 
 Aktivitetskravene fastsettes i aktivitetsplanen, se [arbeids- og velferdsforvaltningsloven § 14 a](lov/2006-06-16-20/§14a) tredje ledd. Medlemmet skal medvirke ved utarbeidelsen av aktivitetsplanen. Kravene til egenaktivitet skal tilpasses medlemmets funksjonsnivå, og aktivitetsplanen skal endres ved behov.
 
-> Endret ved lover [15 juni 2001 nr. 90](lov/2001-06-15-90), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-8.
+> Endret ved lover [15 juni 2001 nr. 90](lov/2001-06-15-90), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-8).
 
 ### § 11-8. Fravær fra fastsatt aktivitet
 
@@ -2588,7 +2588,7 @@ Dersom medlemmet har gjentatte fravær, skal Arbeids- og velferdsetaten vurdere 
 
 Departementet kan i forskrift fastsette nærmere regler om hva som er gyldig fravær, krav til dokumentasjon, hva som anses som fravær fra fastsatt aktivitet, og konsekvenser av fravær fra fastsatt aktivitet.
 
-> Endret ved lover [15 juni 2001 nr. 90](lov/2001-06-15-90), [30 juni 2000 nr. 57](lov/2000-06-30-57) som endret ved lov [15 juni 2001 nr. 90](lov/2001-06-15-90) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-7), [19 des 2003 nr. 116](lov/2003-12-19-116) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1622](forskrift/2003-12-19-1622)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1443](forskrift/2008-12-19-1443) og 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-9).
+> Endret ved lover [15 juni 2001 nr. 90](lov/2001-06-15-90), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endring endret ved lov [15 juni 2001 nr. 90](lov/2001-06-15-90), tidligere § 11-7), [19 des 2003 nr. 116](lov/2003-12-19-116) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1622](forskrift/2003-12-19-1622)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1443](forskrift/2008-12-19-1443) og 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-9).
 
 ### § 11-9. Reduksjon av arbeidsavklaringspenger ved brudd på nærmere bestemte aktivitetsplikter
 
@@ -2598,7 +2598,7 @@ Reduksjonen kan ikke ilegges senere enn tre måneder etter det aktuelle pliktbru
 
 Departementet kan i forskrift fastsette nærmere regler om hvilke pliktbrudd som fører til reduksjon, vilkår for reduksjon og størrelsen på den.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-8), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-8).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 11-8), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-8).
 
 ### § 11-10. Meldeplikt
 
@@ -2614,7 +2614,7 @@ Dersom medlemmet gjentatte ganger unnlater å oppfylle meldeplikten, skal Arbeid
 
 Departementet kan i forskrift fastsette nærmere regler om innholdet i meldeplikten.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-7.
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-7).
 
 ### § 11-11. Oppfølging fra Arbeids- og velferdsetaten
 
@@ -2640,7 +2640,7 @@ Ved beregningen av den maksimale stønadsperioden inngår den tiden medlemmet ha
 
 Departementet kan gi forskrift om særlige bestemmelser for medlemmer som før 1. juli 2022 har fått arbeidsavklaringspenger utover den ordinære stønadsperioden på tre år, slik at disse på uendrede vilkår kan motta videre arbeidsavklaringspenger i en unntaksperiode på inntil to år.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-11), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-10), [22 juni 2022 nr. 72](lov/2022-06-22-72) (i kraft 1 juli 2022), [22 des 2025 nr. 117](lov/2025-12-22-117).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 11-11), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-10), [22 juni 2022 nr. 72](lov/2022-06-22-72) (i kraft 1 juli 2022), [22 des 2025 nr. 117](lov/2025-12-22-117).
 
 ### § 11-12 a. Opphevet
 
@@ -2682,17 +2682,17 @@ Inntekt fra oppstartfasen skal ikke føre til reduksjon av arbeidsavklaringspeng
 
 Departementet kan i forskrift fastsette nærmere regler om rett til arbeidsavklaringspenger under etablering av egen virksomhet.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-12), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-19).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 11-12), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-19).
 
 ### § 11-16. (Opphevet)
 
-> Tilføyd ved lov [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118), endret ved lover [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 mai 2010), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-20, opphevet ved lov [20 des 2024 nr. 81](lov/2024-12-20-81).
+> Tilføyd ved lov [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endring endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118)), endret ved lover [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 mai 2010), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-20), opphevet ved lov [20 des 2024 nr. 81](lov/2024-12-20-81).
 
 ### § 11-17. Arbeidsavklaringspenger i perioden som arbeidssøker
 
 Det kan gis arbeidsavklaringspenger i seks måneder etter at medlemmet er satt i stand til å skaffe seg arbeid som han eller hun kan utføre, før han eller hun har fått arbeid eller tilbud om det. Medlemmet må fylle vilkårene i [§§ 4-5](lov/1997-02-28-19/§4-5) og [4-8](lov/1997-02-28-19/§4-8). Bestemmelsene om tidsbegrenset bortfall av dagpenger i [§ 4-20](lov/1997-02-28-19/§4-20) gjelder tilsvarende.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-14), [15 juni 2001 nr. 64](lov/2001-06-15-64) (ikr. 1 jan 2002), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 11-14), [15 juni 2001 nr. 64](lov/2001-06-15-64) (ikr. 1 jan 2002), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018).
 
 ### § 11-18. Arbeidsavklaringspenger under behandling av krav om uføretrygd
 
@@ -2700,7 +2700,7 @@ Det kan gis arbeidsavklaringspenger i inntil åtte måneder når medlemmet skal 
 
 Et medlem som er innvilget uføretrygd, gis arbeidsavklaringspenger fram til virkningstidspunktet for uføretrygden.
 
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [30 juni 2000 nr. 57](lov/2000-06-30-57) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-15), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 des 2005 nr. 118](lov/2005-12-16-118), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), [18 juni 2021 nr. 90](lov/2021-06-18-90), [20 des 2024 nr. 81](lov/2024-12-20-81).
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endring endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118), tidligere § 11-15), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 des 2005 nr. 118](lov/2005-12-16-118), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), [18 juni 2021 nr. 90](lov/2021-06-18-90), [20 des 2024 nr. 81](lov/2024-12-20-81).
 
 ### § 11-19. Grunnlaget for beregningen av arbeidsavklaringspenger
 
@@ -2710,7 +2710,7 @@ Den pensjonsgivende inntekten etter første ledd skal reguleres i samsvar med en
 
 Grunnlaget for arbeidsavklaringspenger blir regulert i samsvar med senere endringer i grunnbeløpet.
 
-> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-16), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-15).
+> Endret ved lover [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), tidligere § 11-16), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-15).
 
 ### § 11-20. Arbeidsavklaringspengenes størrelse og vilkår om barnetillegg
 
@@ -2728,7 +2728,7 @@ Arbeidsavklaringspenger medregnet barnetillegg kan ikke utgjøre mer enn 90 pros
 
 Departementet kan gi forskrift om barnetilleggets størrelse, retten til å motta barnetillegget etter femte ledd og regler for avkorting av ytelsen for ulike grupper.
 
-> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [30 juni 2000 nr. 57](lov/2000-06-30-57) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endret paragrafnummer fra § 11-17), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-16, [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 feb 2020, se del V nr. 2 for overgangsbestemmelse), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [25 nov 2022 nr. 86](lov/2022-11-25-86) (i kraft 25 nov 2022 iflg. [res. 25 nov 2022 nr. 2013](forskrift/2022-11-25-2013)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 feb 2024, gjelder tredje ledd), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024, gjelder første ledd).
+> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015), endring endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118), tidligere § 11-17), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-16), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 feb 2020, se del V nr. 2 for overgangsbestemmelse), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [25 nov 2022 nr. 86](lov/2022-11-25-86) (i kraft 25 nov 2022 iflg. [res. 25 nov 2022 nr. 2013](forskrift/2022-11-25-2013)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 feb 2024, gjelder tredje ledd), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024, gjelder første ledd).
 
 ### § 11-21. (Opphevet)
 
@@ -2745,7 +2745,7 @@ Ved beregningen av den delen av nedsettelsen av arbeidsevnen som skyldes yrkessk
 
 Dersom den delen av nedsettelsen av arbeidsevnen som ikke skyldes yrkesskaden eller yrkessykdommen er under 30 prosent, beregnes hele ytelsen etter andre ledd.
 
-> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), endret ved lover [20 des 2016 nr. 105](lov/2016-12-20-105), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-26.
+> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), endret ved lover [20 des 2016 nr. 105](lov/2016-12-20-105), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-26).
 
 ### § 11-23. Reduksjon ved delvis nedsatt arbeidsevne
 
@@ -2775,7 +2775,7 @@ Feriepenger etter ferieloven skal ikke føre til reduksjon av arbeidsavklaringsp
 
 Departementet kan i forskrift fastsette nærmere regler om hvordan reduksjon av arbeidsavklaringspenger på grunn av ytelser fra arbeidsgiver skal skje.
 
-> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), endret ved lov [17 des 2010 nr. 80](lov/2010-12-17-80) (ikr. 1 jan 2011), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-19.
+> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), endret ved lov [17 des 2010 nr. 80](lov/2010-12-17-80) (ikr. 1 jan 2011), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-19).
 
 ### § 11-25. Arbeidsavklaringspenger under opphold i institusjon
 
@@ -2785,7 +2785,7 @@ Arbeidsavklaringspengene gis uten reduksjon for innleggelsesmåneden og de tre p
 
 Dersom medlemmet har faste utgifter som er nødvendige for at han eller hun skal kunne beholde bolig og annet, kan Arbeids- og velferdsetaten bestemme at arbeidsavklaringspengene ikke skal reduseres.
 
-> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-21.
+> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-21).
 
 ### § 11-26. Arbeidsavklaringspenger under straffegjennomføring
 
@@ -2793,7 +2793,7 @@ Et medlem som sitter i varetekt, soner straff eller er underlagt særreaksjoner 
 
 Ved straffegjennomføring i frihet beholdes arbeidsavklaringspengene dersom vilkårene for øvrig er oppfylt. Tilsvarende gjelder ved prøveløslatelse i medhold av [straffegjennomføringsloven §§ 42](lov/2001-05-18-21/§42) og følgende.
 
-> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), endret ved lover [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-22, [27 apr 2018 nr. 15](lov/2018-04-27-15) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 641](forskrift/2018-04-27-641)).
+> Tilføyd ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), endret ved lover [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-22), [27 apr 2018 nr. 15](lov/2018-04-27-15) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 641](forskrift/2018-04-27-641)).
 
 ### § 11-27. Forholdet til andre fulle ytelser fra folketrygden
 
@@ -2803,7 +2803,7 @@ Fulle sykepenger og fulle svangerskapspenger av deltidsstilling anses som en red
 
 Arbeidsavklaringspengene faller ikke bort dersom medlemmet tar ut alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20). Når medlemmet får barnepensjon etter [kapittel 18](lov/1997-02-28-19/kap18), reduseres arbeidsavklaringspengene med samme beløp.
 
-> Tilføyd ved lov [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-23, endret ved lover [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel), [22 des 2025 nr. 117](lov/2025-12-22-117).
+> Tilføyd ved lov [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-23), endret ved lover [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel), [22 des 2025 nr. 117](lov/2025-12-22-117).
 
 ### § 11-28. Forholdet til andre reduserte ytelser fra folketrygden
 
@@ -2815,7 +2815,7 @@ Et medlem som mottar arbeidsavklaringspenger når han eller hun blir sykmeldt fr
 
 Dersom medlemmet mottar en gradert uføretrygd, skal grunnlaget for beregning av arbeidsavklaringspenger, se [§ 11-19](lov/1997-02-28-19/§11-19), fastsettes ut fra medlemmets pensjonsgivende inntekt fra tiden før arbeidsevnen ble ytterligere nedsatt, dersom det gir et høyere grunnlag enn ved å fastsette grunnlaget ut fra medlemmets pensjonsgivende inntekt før arbeidsevnen ble nedsatt med minst halvparten. Medlemmets pensjonsgivende inntekt før arbeidsevnen ble ytterligere nedsatt, skal fastsettes ved at medlemmets pensjonsgivende inntekt i deltidsstilling oppjusteres til en inntekt tilsvarende full stilling. Omfanget av deltidsstillingen skal anses å utgjøre differansen mellom full stilling og den fastsatte uføregraden for uføretrygden.
 
-> Tilføyd ved lov [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-24, endret ved lov [22 des 2025 nr. 117](lov/2025-12-22-117).
+> Tilføyd ved lov [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-24), endret ved lov [22 des 2025 nr. 117](lov/2025-12-22-117).
 
 ### § 11-29. Forholdet til ytelser etter annen lovgivning
 
@@ -2823,7 +2823,7 @@ Arbeidsavklaringspenger utbetales ikke dersom medlemmet får dekket det samme in
 
 Departementet kan i forskrift fastsette nærmere regler om avgrensingen av folketrygdens ansvar.
 
-> Tilføyd ved lov [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), tidligere § 11-25.
+> Tilføyd ved lov [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018, tidligere § 11-25).
 
 ### § 11-30. Unntak fra kravet om melding om vedtak og unntak fra kravet om forhåndsvarsel
 
@@ -2920,7 +2920,7 @@ Departementet kan i forskrift fastsette nærmere regler om avgrensingen av folke
 
 Formålet med uføretrygd er å sikre inntekt for personer som har fått sin inntektsevne varig nedsatt på grunn av sykdom, skade eller lyte.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)).
 
 ### § 12-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering
 
@@ -2941,12 +2941,12 @@ Vilkåret om fem års forutgående medlemskap i første ledd gjelder ikke for en
 
 Vilkåret i første ledd gjelder ikke dersom vedkommende var medlem i folketrygden på uføretidspunktet og uføretrygd ved 100 prosent uføregrad:
 
-1. beregnet av grunnlaget etter [§ 12-11 første ledd](lov/1997-02-28-19/§12-11/ledd/1) minst vil svare til halvparten av høy sats etter [§ 12-13 andre ledd](lov/1997-02-28-19/§12-13/ledd/2) andre punktum, eller
+1. beregnet av grunnlaget etter [§ 12-11 første ledd](lov/1997-02-28-19/§12-11/ledd/1) minst vil svare til halvparten av høy sats etter [§ 12-13 andre ledd](lov/1997-02-28-19/§12-13/ledd/2) tredje punktum, eller
 2. beregnet på grunnlag av perioder med medlemskap minst vil svare til halvparten av minsteytelsen etter [§ 12-13](lov/1997-02-28-19/§12-13) andre ledd.
 
 Framtidig trygdetid skal ikke regnes med, se [§ 12-12](lov/1997-02-28-19/§12-12) femte ledd.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026), [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
 
 ### § 12-3. Fortsatt medlemskap
 
@@ -2958,7 +2958,7 @@ Uføretrygd etter [§ 12-2](lov/1997-02-28-19/§12-2) andre og tredje ledd om un
 
 Ved endringer i uføretrygden etter bestemmelsene her skal tillegg til uføretrygd for gjenlevende ektefelle (gjenlevendetillegg) etter [§ 12-18](lov/1997-02-28-19/§12-18) endres forholdsmessig.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V).
 
 ### § 12-4. Alder
 
@@ -2966,7 +2966,7 @@ Det er et vilkår for rett til uføretrygd at personen er mellom 18 og 67 år.
 
 Dersom krav om uføretrygd settes fram etter at personen har fylt 62 år, er det et vilkår for rett til uføretrygd at vedkommende hadde en pensjonsgivende inntekt på minst folketrygdens grunnbeløp i året før uføretidspunktet (se [§ 12-8](lov/1997-02-28-19/§12-8)) eller minst tre ganger folketrygdens grunnbeløp i løpet av de tre siste årene før dette tidspunktet. Dette gjelder likevel bare dersom medlemmet har rett til uttak av hel alderspensjon etter kapitlene 19 og 20. Vilkåret i første punktum gjelder heller ikke dersom uføretrygden er gitt med virkning fra et tidspunkt før personen fylte 62 år.
 
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2010 nr. 77](lov/2010-12-17-77), [25 nov 2011 nr. 43](lov/2011-11-25-43), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [19 des 2017 nr. 113](lov/2017-12-19-113), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2010 nr. 77](lov/2010-12-17-77), [25 nov 2011 nr. 43](lov/2011-11-25-43), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [19 des 2017 nr. 113](lov/2017-12-19-113), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 12-5. Hensiktsmessig behandling og arbeidsrettede tiltak
 
@@ -2976,7 +2976,7 @@ Når det skal avgjøres om et behandlingstiltak eller et arbeidsrettet tiltak er
 
 Når det fremmes krav om uføretrygd, skal det dokumenteres at funksjonsevnen har vært vurdert av lege eller annet fagpersonell.
 
-> Endret ved lover [27 mars 1998 nr. 21](lov/1998-03-27-21) (ikr. 1 jan 1999 iflg. [res. 27 mars 1998 nr. 270](forskrift/1998-03-27-270)) som endret ved lov [27 nov 1998 nr. 69](lov/1998-11-27-69), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [18 des 2015 nr. 103](lov/2015-12-18-103).
+> Endret ved lover [27 mars 1998 nr. 21](lov/1998-03-27-21) (ikr. 1 jan 1999 iflg. [res. 27 mars 1998 nr. 270](forskrift/1998-03-27-270), endring endret ved lov [27 nov 1998 nr. 69](lov/1998-11-27-69)), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [18 des 2015 nr. 103](lov/2015-12-18-103).
 
 ### § 12-6. Sykdom, skade eller lyte – krav til årsakssammenheng
 
@@ -2996,7 +2996,7 @@ For personer som mottar arbeidsavklaringspenger når krav om uføretrygd settes 
 
 Ved vurderingen av hvor mye inntektsevnen er nedsatt, legges det vekt på alder, evner, utdanning, yrkesbakgrunn og arbeidsmuligheter på hjemstedet eller andre steder der det er rimelig at vedkommende tar arbeid. Inntektsmulighetene i ethvert arbeid som vedkommende nå kan utføre (inntekt etter uførhet) sammenlignes med inntektsmulighetene som vedkommende hadde før uføretidspunktet (inntekt før uførhet). Dersom sykdommen, skaden eller lytet har redusert inntektsevnen gradvis over flere år, kan det tas utgangspunkt i inntektsevnen før sykdommen, skaden eller lytet oppsto.
 
-> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73).
+> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73)).
 
 ### § 12-8. Uføretidspunkt
 
@@ -3004,7 +3004,7 @@ Uføretidspunktet er tidspunktet da inntektsevnen ble varig nedsatt som nevnt i 
 
 Dersom uføregraden økes fordi inntektsevnen er blitt ytterligere nedsatt, se [§ 12-10](lov/1997-02-28-19/§12-10), skal det fastsettes et nytt uføretidspunkt dersom dette er til fordel for vedkommende.
 
-> Endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24).
+> Endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)).
 
 ### § 12-9. Fastsetting av inntekt før og etter uførhet
 
@@ -3032,7 +3032,7 @@ Dersom uføretrygden faller bort etter [§ 12-14](lov/1997-02-28-19/§12-14) tre
 
 Uføregraden kan økes dersom inntektsevnen blir ytterligere nedsatt og det settes fram krav om økt uføregrad. Det skal da fastsettes et nytt uføretidspunkt dersom dette er til fordel for vedkommende.
 
-> Endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24).
+> Endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)).
 
 ### § 12-11. Grunnlaget for beregning av uføretrygd
 
@@ -3050,7 +3050,7 @@ Den pensjonsgivende inntekten i det enkelte kalenderåret skal reguleres i samsv
 
 Grunnlaget for uføretrygden reguleres i samsvar med senere endringer i grunnbeløpet.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)).
 
 ### § 12-12. Trygdetid
 
@@ -3068,13 +3068,13 @@ Dersom trygdetiden er fastsatt etter tredje ledd andre punktum, skal den fastset
 
 Når den samlede trygdetiden utgjør minst fem år, avrundes den til nærmeste hele år.
 
-> Endret ved lover [21 des 2000 nr. 125](lov/2000-12-21-125) (ikr. 1 jan 2001), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004, endringene i andre ledd fjerde punktum gjøres kun gjeldende for nye tilfeller), [11 juni 2004 nr. 36](lov/2004-06-11-36), [16 des 2005 nr. 118](lov/2005-12-16-118) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 107](lov/2008-12-19-107), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [17 des 2010 nr. 80](lov/2010-12-17-80) (ikr. 1 jan 2011), [25 nov 2011 nr. 43](lov/2011-11-25-43), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [21 des 2000 nr. 125](lov/2000-12-21-125) (ikr. 1 jan 2001), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004, endringene i andre ledd fjerde punktum gjøres kun gjeldende for nye tilfeller), [11 juni 2004 nr. 36](lov/2004-06-11-36), [16 des 2005 nr. 118](lov/2005-12-16-118) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 des 2008 nr. 107](lov/2008-12-19-107), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [17 des 2010 nr. 80](lov/2010-12-17-80) (ikr. 1 jan 2011), [25 nov 2011 nr. 43](lov/2011-11-25-43), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 12-13. Uføretrygdens størrelse
 
 Uføretrygd ytes med 66 prosent av grunnlaget etter [§ 12-11](lov/1997-02-28-19/§12-11).
 
-Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer som lever sammen med en ektefelle (se [§ 1-5](lov/1997-02-28-19/§1-5)) eller med en samboer i et samboerforhold som har vart i minst 12 av de siste 18 månedene. For andre utgjør minste årlige ytelse 2,529 ganger grunnbeløpet (høy sats).
+Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer som lever sammen med en ektefelle (se [§ 1-5](lov/1997-02-28-19/§1-5)) eller med en samboer i et samboerforhold som har vart i minst 12 av de siste 18 månedene. Minste årlige ytelse er likevel 2,379 ganger grunnbeløpet dersom vedkommende mottar en uføretrygd som er en omregnet uførepensjon. For andre utgjør minste årlige ytelse 2,529 ganger grunnbeløpet (høy sats).
 
 For et medlem som har blitt ufør før fylte 26 år på grunn av en alvorlig og varig sykdom, skade eller lyte som er klart dokumentert, er minsteytelsene som nevnt i andre ledd henholdsvis 2,709 og 2,959 ganger grunnbeløpet. Dette gjelder selv om et medlem har vært mer enn 50 prosent yrkesaktiv etter fylte 26 år, dersom det er klart dokumentert at vilkårene i første punktum var oppfylt før 26 år og kravet settes fram før fylte 36 år. Bestemmelsen i første punktum gjelder også når uføretrygd gis på nytt etter at ytelsen er falt bort på grunn av prøving mot inntekt etter [§ 12-14](lov/1997-02-28-19/§12-14). Minsteytelsen etter leddet her ytes tidligst fra og med den måneden medlemmet fyller 20 år.
 
@@ -3082,11 +3082,11 @@ Når trygdetiden etter [§ 12-12](lov/1997-02-28-19/§12-12) er kortere enn 40 �
 
 Dersom uføregraden etter [§ 12-10](lov/1997-02-28-19/§12-10) er lavere enn 100 prosent, fastsettes uføretrygden til en forholdsmessig andel av beløpet etter første til fjerde ledd.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [11 juni 2004 nr. 36](lov/2004-06-11-36), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 juni 2006), [12 des 2008 nr. 83](lov/2008-12-12-83) (ikr. 1 mai 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 sep 2016), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [11 juni 2004 nr. 36](lov/2004-06-11-36), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 juni 2006), [12 des 2008 nr. 83](lov/2008-12-12-83) (ikr. 1 mai 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 sep 2016), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026), [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
 
 ### § 12-14. Reduksjon av uføretrygd på grunn av inntekt
 
-Når uføregraden fastsettes etter [§ 12-10](lov/1997-02-28-19/§12-10), skal det fastsettes et bunnfradrag, som skal svare til inntekt etter uførhet (se [§ 12-9 tredje ledd](lov/1997-02-28-19/§12-9/ledd/3)) tillagt 40 prosent av grunnbeløpet per kalenderår.
+Når uføregraden fastsettes etter [§ 12-10](lov/1997-02-28-19/§12-10), skal det fastsettes et bunnfradrag per kalenderår, som skal svare til inntekt etter uførhet (se [§ 12-9 tredje ledd](lov/1997-02-28-19/§12-9/ledd/3)) tillagt et fribeløp. Fribeløpet utgjør 40 prosent av grunnbeløpet dersom det er mindre enn 24 måneder siden virkningstidspunktet for uføretrygd eller virkningstidspunktet for økning av uføregraden. Deretter utgjør fribeløpet 100 prosent av grunnbeløpet.
 
 Uføretrygd skal reduseres med en andel av inntekt som overstiger bunnfradraget. Andelen (reduksjonsprosenten) skal svare til mottakerens uføretrygd ved 100 prosent uføregrad delt på mottakerens inntekt før uførhet (se [§ 12-9 første](lov/1997-02-28-19/§12-9/ledd/1) og [andre ledd](lov/1997-02-28-19/§12-9/ledd/2)). Reduksjonsprosenten skal likevel ikke overstige 70 prosent. Som inntekt regnes pensjonsgivende inntekt og inntekt av samme art fra utlandet.
 
@@ -3096,9 +3096,9 @@ Den uføretrygdede skal opplyse om forventet pensjonsgivende inntekt og om endri
 
 Når en mottaker av uføretrygd får økonomiske ytelser som ikke er pensjonsgivende inntekt, og ytelsene ble avtalt ved fratredelse eller ved reduksjon av arbeidstiden, skal uføretrygden for den samme perioden reduseres med et beløp som svarer til disse ytelsene. Vedkommende skal melde fra ved mottak av slike ytelser.
 
-Departementet kan i forskrift gi nærmere regler om reduksjon av uføretrygd på grunn av inntekt og om etteroppgjør.
+Departementet kan i forskrift gi nærmere regler om beregning av bunnfradraget, om reduksjon av uføretrygd på grunn av inntekt og om etteroppgjør.
 
-> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73) (tidligere § 12-14 endret paragrafnummer til § 12-21), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026, gjelder andre ledd tredje punktum), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026, gjelder første ledd første punktum og andre ledd første, andre og fjerde punktum). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
+> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73), tidligere § 12-14 endret paragrafnummer til § 12-21), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026, gjelder andre ledd tredje punktum), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026, gjelder første ledd første punktum og andre ledd første, andre og fjerde punktum), [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
 
 ### § 12-15. Barnetillegg
 
@@ -3115,7 +3115,7 @@ Barnetillegg for fosterbarn (se [barnevernsloven § 9-1](lov/2021-06-18-97/§9-1
 
 Departementet kan i forskrift gi nærmere regler om gjennomføring av bestemmelsene i denne paragrafen.
 
-> Endret ved lover [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 jan 2016), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [7 mai 2021 nr. 30](lov/2021-05-07-30), [17 des 2021 nr. 146](lov/2021-12-17-146) (i kraft 1 juli 2022, endring ved lov [20 des 2019 nr. 84](lov/2019-12-20-84) utgår), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 95](lov/2023-12-20-95), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
+> Endret ved lover [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 jan 2016), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [7 mai 2021 nr. 30](lov/2021-05-07-30), [17 des 2021 nr. 146](lov/2021-12-17-146) (i kraft 1 juli 2022, endring ved lov [20 des 2019 nr. 84](lov/2019-12-20-84) utgår), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 95](lov/2023-12-20-95), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
 
 ### § 12-16. Reduksjon av barnetillegg på grunn av inntekt
 
@@ -3131,7 +3131,7 @@ Bestemmelsene om etteroppgjør i [§ 12-14](lov/1997-02-28-19/§12-14) fjerde le
 
 Departementet kan i forskrift fastsette nærmere bestemmelser om reduksjon av barnetillegg på grunn av inntekt. Det kan blant annet gis bestemmelser om at visse offentlige ytelser ikke skal tas med i inntektsgrunnlaget og om endring i fastsatte barnetillegg når inntekten endres.
 
-> Endret ved lover [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), opphevet ved lov [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), tilføyd igjen ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 jan 2016), [17 juni 2016 nr. 25](lov/2016-06-17-25), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), opphevet ved lov [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), tilføyd igjen ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 jan 2016), [17 juni 2016 nr. 25](lov/2016-06-17-25), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 12-17. Uføretrygd ved yrkesskade
 
@@ -3149,7 +3149,7 @@ Ved yrkesskade avkortes uføretrygden og barnetillegg ikke på grunn av manglend
 
 Departementet kan gi forskrifter om beregning av uføretrygd når uførheten skyldes yrkesskade.
 
-> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2012, se dens IX), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (endret paragrafnummer fra § 12-18), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 3 sep 2021 iflg. [res. 3 sep 2021 nr. 2663](forskrift/2021-09-03-2663)).
+> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2012, se dens IX), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), tidligere § 12-18), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 3 sep 2021 iflg. [res. 3 sep 2021 nr. 2663](forskrift/2021-09-03-2663)).
 
 ### § 12-18. Tillegg til uføretrygd for gjenlevende ektefelle (gjenlevendetillegg)
 
@@ -3179,7 +3179,7 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragra
 2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
 3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
-> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105).
+> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73)), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105).
 
 ### § 12-20. Uføretrygd under straffegjennomføring
 
@@ -3191,7 +3191,7 @@ Ved gjennomføring av samfunnsstraff, straffegjennomføring i medhold av [straff
 
 Departementet kan gi forskrifter om anvendelsen av bestemmelsene i paragrafen her.
 
-> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), endret ved lover [20 des 2016 nr. 105](lov/2016-12-20-105), [27 apr 2018 nr. 15](lov/2018-04-27-15) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 641](forskrift/2018-04-27-641)), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)).
+> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), endret ved lover [20 des 2016 nr. 105](lov/2016-12-20-105), [27 apr 2018 nr. 15](lov/2018-04-27-15) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 641](forskrift/2018-04-27-641)), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)).
 
 ### § 12-21. Avkall på uføretrygd
 
@@ -3202,7 +3202,7 @@ En mottaker av uføretrygd kan gi avkall på retten til uføretrygd dersom
 
 Ektefellens ytelser fastsettes da etter reglene for pensjonister som forsørger den andre ektefellen.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (endret paragrafnummer fra § 12-14).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), tidligere § 12-14).
 
 ### Kapittel 13. Yrkesskadedekning
 
@@ -3500,7 +3500,7 @@ Det kan ytes foreldrepenger som ved adopsjon til person som har foreldreansvar n
 
 Adopsjon av ektefellens barn gir ikke rett til foreldrepenger. Dette gjelder likevel ikke når adopsjonen finner sted mens stønadsperioden ved fødsel fortsatt løper. I slike tilfeller gis adoptivforelderen tilsvarende rettigheter som fedre i den resterende del av stønadsperioden, likevel slik at plikten til å ta ut fedrekvote ikke kommer til anvendelse.
 
-> Endret ved lover [25 juni 1999 nr. 44](lov/1999-06-25-44) (ikr. 1 aug 1999), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95), [21 juni 2019 nr. 28](lov/2019-06-21-28) (ikr. 21 juni 2019 iflg. [res. 21 juni 2019 nr. 803](forskrift/2019-06-21-803)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [25 juni 1999 nr. 44](lov/1999-06-25-44) (ikr. 1 aug 1999), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95)), [21 juni 2019 nr. 28](lov/2019-06-21-28) (ikr. 21 juni 2019 iflg. [res. 21 juni 2019 nr. 803](forskrift/2019-06-21-803)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14-6. Opptjening av rett til foreldrepenger
 
@@ -3557,7 +3557,7 @@ Unntatt fra deling er de siste 15 stønadsdagene (3 ukene) før og de første 30
 
 Dersom barnet dør i stønadsperioden, kan det tas ut foreldrepenger i opptil 30 stønadsdager (6 uker) av den gjenværende del av stønadsperioden.
 
-> Endret ved lover [11 des 1998 nr. 70](lov/1998-12-11-70) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1190](forskrift/1998-12-11-1190)), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [17 juni 2005 nr. 66](lov/2005-06-17-66) (ikr. 1 juli 2005), [16 juni 2006 nr. 21](lov/2006-06-16-21) (ikr. 1 juli 2006), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [16 juni 2006 nr. 21](lov/2006-06-16-21), [12 juni 2009 nr. 36](lov/2009-06-12-36) (ikr. 1 juli 2009), [10 juni 2011 nr. 15](lov/2011-06-10-15) (ikr. 1 juli 2011), [15 juni 2012 nr. 32](lov/2012-06-15-32) (ikr. 1 juli 2013 iflg. [res. 15 juni 2012 nr. 525](forskrift/2012-06-15-525)), [31 mai 2013 nr. 22](lov/2013-05-31-22) (ikr. 1 juli 2013), [6 juni 2014 nr. 20](lov/2014-06-06-20) (ikr. 1 juli 2014 med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2014 eller senere), [15 juni 2018 nr. 33](lov/2018-06-15-33) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 880](forskrift/2018-06-15-880) med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2018 eller senere), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere), [18 mars 2022 nr. 11](lov/2022-03-18-11) (i kraft 2 aug 2022 iflg. [res. 18 mars 2022 nr. 416](forskrift/2022-03-18-416), se endringsloven del III for overgangsregler), [14 mai 2024 nr. 21](lov/2024-05-14-21) (i kraft 1 juli 2024 iflg. [res. 14 mai 2024 nr. 772](forskrift/2024-05-14-772), se endringslovens [del III](lov/2024-05-14-21/kapIII) for overgangsregel).
+> Endret ved lover [11 des 1998 nr. 70](lov/1998-12-11-70) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1190](forskrift/1998-12-11-1190)), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [17 juni 2005 nr. 66](lov/2005-06-17-66) (ikr. 1 juli 2005), [16 juni 2006 nr. 21](lov/2006-06-16-21) (ikr. 1 juli 2006), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [16 juni 2006 nr. 21](lov/2006-06-16-21)), [12 juni 2009 nr. 36](lov/2009-06-12-36) (ikr. 1 juli 2009), [10 juni 2011 nr. 15](lov/2011-06-10-15) (ikr. 1 juli 2011), [15 juni 2012 nr. 32](lov/2012-06-15-32) (ikr. 1 juli 2013 iflg. [res. 15 juni 2012 nr. 525](forskrift/2012-06-15-525)), [31 mai 2013 nr. 22](lov/2013-05-31-22) (ikr. 1 juli 2013), [6 juni 2014 nr. 20](lov/2014-06-06-20) (ikr. 1 juli 2014 med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2014 eller senere), [15 juni 2018 nr. 33](lov/2018-06-15-33) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 880](forskrift/2018-06-15-880) med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2018 eller senere), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere), [18 mars 2022 nr. 11](lov/2022-03-18-11) (i kraft 2 aug 2022 iflg. [res. 18 mars 2022 nr. 416](forskrift/2022-03-18-416), se endringsloven del III for overgangsregler), [14 mai 2024 nr. 21](lov/2024-05-14-21) (i kraft 1 juli 2024 iflg. [res. 14 mai 2024 nr. 772](forskrift/2024-05-14-772), se endringslovens [del III](lov/2024-05-14-21/kapIII) for overgangsregel).
 
 ### § 14-10. Generelle bestemmelser om uttak av foreldrepenger
 
@@ -3585,7 +3585,7 @@ Ved fødsel før svangerskapsuke 33 forlenges stønadsperioden tilsvarende antal
 
 Uttak av foreldrepenger kan utsettes. Den delen av stønadsperioden som er forbeholdt moren, se [§ 14-9](lov/1997-02-28-19/§14-9) sjette ledd, kan likevel bare utsettes dersom moren på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet eller er innlagt i helseinstitusjon, eller dersom barnet er innlagt i helseinstitusjon. Forholdet må dokumenteres med legeerklæring.
 
-> Opphevet ved lov [11 des 1998 nr. 70](lov/1998-12-11-70), tilføyd igjen ved lov [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95), [19 des 2017 nr. 116](lov/2017-12-19-116) (ikr. 1 jan 2019 iflg. [res. 7 des 2018 nr. 1818](forskrift/2018-12-07-1818)), [11 juni 2021 nr. 61](lov/2021-06-11-61) (ikr. 1 okt 2021 iflg. [res. 11 juni 2021 nr. 1868](forskrift/2021-06-11-1868)).
+> Opphevet ved lov [11 des 1998 nr. 70](lov/1998-12-11-70), tilføyd igjen ved lov [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95)), [19 des 2017 nr. 116](lov/2017-12-19-116) (ikr. 1 jan 2019 iflg. [res. 7 des 2018 nr. 1818](forskrift/2018-12-07-1818)), [11 juni 2021 nr. 61](lov/2021-06-11-61) (ikr. 1 okt 2021 iflg. [res. 11 juni 2021 nr. 1868](forskrift/2021-06-11-1868)).
 
 ### § 14-12. Uttak av kvotene
 
@@ -3595,7 +3595,7 @@ Faren kan ta ut fedrekvoten uten hensyn til om vilkårene i [§ 14-13](lov/1997-
 
 Det kan gjøres unntak fra bestemmelsene i første ledd dersom forelderen som skal ta ut foreldrepenger på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet eller er innlagt i helseinstitusjon. Forhold som nevnt i første punktum må dokumenteres med legeerklæring.
 
-> Endret ved lover [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [16 juni 2006 nr. 21](lov/2006-06-16-21), [12 juni 2009 nr. 36](lov/2009-06-12-36) (ikr. 1 juli 2009), [11 juni 2010 nr. 22](lov/2010-06-11-22) (ikr. 1 juli 2010), [10 juni 2011 nr. 15](lov/2011-06-10-15) (ikr. 1 juli 2011), [15 juni 2012 nr. 32](lov/2012-06-15-32) (ikr. 1 juli 2013 iflg. [res. 15 juni 2012 nr. 525](forskrift/2012-06-15-525)), [31 mai 2013 nr. 22](lov/2013-05-31-22) (ikr. 1 juli 2013), [6 juni 2014 nr. 20](lov/2014-06-06-20) (ikr. 1 juli 2014 med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2014 eller senere), [15 juni 2018 nr. 33](lov/2018-06-15-33) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 880](forskrift/2018-06-15-880) med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2018 eller senere), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere).
+> Endret ved lover [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [16 juni 2006 nr. 21](lov/2006-06-16-21)), [12 juni 2009 nr. 36](lov/2009-06-12-36) (ikr. 1 juli 2009), [11 juni 2010 nr. 22](lov/2010-06-11-22) (ikr. 1 juli 2010), [10 juni 2011 nr. 15](lov/2011-06-10-15) (ikr. 1 juli 2011), [15 juni 2012 nr. 32](lov/2012-06-15-32) (ikr. 1 juli 2013 iflg. [res. 15 juni 2012 nr. 525](forskrift/2012-06-15-525)), [31 mai 2013 nr. 22](lov/2013-05-31-22) (ikr. 1 juli 2013), [6 juni 2014 nr. 20](lov/2014-06-06-20) (ikr. 1 juli 2014 med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2014 eller senere), [15 juni 2018 nr. 33](lov/2018-06-15-33) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 880](forskrift/2018-06-15-880) med virkning for tilfeller der fødselen eller omsorgsovertakelsen skjer 1 juli 2018 eller senere), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere).
 
 ### § 14-13. Generelle vilkår for farens uttak av foreldrepenger
 
@@ -3629,7 +3629,7 @@ Faren kan bare ta ut foreldrepenger når vilkårene i [§ 14-13](lov/1997-02-28-
 
 Faren kan uten hinder av vilkårene i [§ 14-13](lov/1997-02-28-19/§14-13) ta ut foreldrepenger i 50 stønadsdager (10 uker). Faren kan uten hinder av vilkårene i [§ 14-13](lov/1997-02-28-19/§14-13) ta ut foreldrepenger i samme antall stønadsdager som fedrekvoten, se [§ 14-12](lov/1997-02-28-19/§14-12) første ledd, hvis moren mottar uføretrygd fra folketrygden.
 
-> Endret ved lover [19 juni 1997 nr. 63](lov/1997-06-19-63), [11 des 1998 nr. 70](lov/1998-12-11-70), [25 juni 1999 nr. 44](lov/1999-06-25-44) (ikr. 1 aug 1999), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [16 juni 2006 nr. 21](lov/2006-06-16-21), [12 juni 2009 nr. 36](lov/2009-06-12-36) (ikr. 1 juli 2009), [10 juni 2011 nr. 15](lov/2011-06-10-15), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere), [18 mars 2022 nr. 11](lov/2022-03-18-11) (i kraft 2 aug 2022 iflg. [res. 18 mars 2022 nr. 416](forskrift/2022-03-18-416), se endringsloven del III for overgangsregler), [25 juni 2024 nr. 59](lov/2024-06-25-59) (i kraft 2 aug 2024 iflg. [res. 25. juni 2024 nr. 1219](forskrift/2024-06-25-1219), se endringsloven for overgangsregel).
+> Endret ved lover [19 juni 1997 nr. 63](lov/1997-06-19-63), [11 des 1998 nr. 70](lov/1998-12-11-70), [25 juni 1999 nr. 44](lov/1999-06-25-44) (ikr. 1 aug 1999), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [16 juni 2006 nr. 21](lov/2006-06-16-21)), [12 juni 2009 nr. 36](lov/2009-06-12-36) (ikr. 1 juli 2009), [10 juni 2011 nr. 15](lov/2011-06-10-15), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere), [18 mars 2022 nr. 11](lov/2022-03-18-11) (i kraft 2 aug 2022 iflg. [res. 18 mars 2022 nr. 416](forskrift/2022-03-18-416), se endringsloven del III for overgangsregler), [25 juni 2024 nr. 59](lov/2024-06-25-59) (i kraft 2 aug 2024 iflg. [res. 25. juni 2024 nr. 1219](forskrift/2024-06-25-1219), se endringsloven for overgangsregel).
 
 ### § 14-15. Uttak der mor eller far er alene om omsorgen for barnet og ved samlivsbrudd
 
@@ -3651,7 +3651,7 @@ Dersom uttaket er mindre enn 100 pst. av valgt sats, se [§ 14-9](lov/1997-02-28
 
 Det er et vilkår for gradert uttak at det foreligger en skriftlig avtale med arbeidsgiver om delvis arbeid. Hver av foreldrene kan bare ta gradert uttak ut fra avtale med én arbeidsgiver av gangen. For selvstendig næringsdrivende og frilansere er det et vilkår for gradert uttak at det foreligger en skriftlig utbetalingsavtale med Arbeids- og velferdsetaten.
 
-> Endret ved lover [11 des 1998 nr. 70](lov/1998-12-11-70) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1190](forskrift/1998-12-11-1190)), [25 juni 1999 nr. 44](lov/1999-06-25-44) (ikr. 1 aug 1999), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [17 juni 2005 nr. 66](lov/2005-06-17-66) (ikr. 1 juli 2005), [16 juni 2006 nr. 21](lov/2006-06-16-21) (ikr. 1 juli 2006), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)) som endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere).
+> Endret ved lover [11 des 1998 nr. 70](lov/1998-12-11-70) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1190](forskrift/1998-12-11-1190)), [25 juni 1999 nr. 44](lov/1999-06-25-44) (ikr. 1 aug 1999), [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [17 juni 2005 nr. 66](lov/2005-06-17-66) (ikr. 1 juli 2005), [16 juni 2006 nr. 21](lov/2006-06-16-21) (ikr. 1 juli 2006), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428), endring endret ved lov [22 des 2006 nr. 95](lov/2006-12-22-95)), [7 des 2018 nr. 90](lov/2018-12-07-90) (ikr. 1 jan 2019 og gjelder for tilfeller der uttaket av stønadsperioden starter 1 jan 2019 eller senere).
 
 ### III. Engangsstønad ved fødsel og adopsjon
 
@@ -3802,7 +3802,7 @@ Departementet kan gi forskrifter om utestengningstidens lengde.
 
 Overgangsstønad etter dette kapitlet faller bort i den utstrekning vedkommende mottar ytelser til livsopphold fra folketrygden i form av omstillingsstønad som gjenlevende ektefelle etter [kapittel 17](lov/1997-02-28-19/kap17), pensjon eller overgangsstønad som gjenlevende ektefelle, uføretrygd eller tilsvarende ytelser fra utlandet. Det samme gjelder når vedkommende mottar avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19).
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [15 juni 2001 nr. 90](lov/2001-06-15-90) (ikr. 1 aug 2001), [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 jan 2002 og ikr. 1 jan 2003) som endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [14 juni 2013 nr. 33](lov/2013-06-14-33), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016, endret paragrafnummer fra § 15-14), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [15 juni 2001 nr. 90](lov/2001-06-15-90) (ikr. 1 aug 2001), [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 jan 2002 og ikr. 1 jan 2003, endring endret ved lov [21 des 2001 nr. 118](lov/2001-12-21-118)), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [14 juni 2013 nr. 33](lov/2013-06-14-33), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016, tidligere § 15-14), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### Kapittel 16. (Opphevet)
 
@@ -3854,7 +3854,7 @@ Overgangsstønad etter dette kapitlet faller bort i den utstrekning vedkommende 
 
 ### § 16-11. (Opphevet)
 
-> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105), opphevet ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929)).
+> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105), opphevet ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929)).
 
 ### § 16-12. (Opphevet)
 
@@ -3900,7 +3900,7 @@ Tidsrom da avdøde hadde avtalefestet pensjon med statstilskott skal være likes
 
 Vilkåret i første ledd gjelder ikke når avdøde var medlem i folketrygden ved dødsfallet og kunne tilstås en ytelse på grunnlag av tidligere opptjening minst svarende til grunnbeløpet. Med «ytelse på grunnlag av tidligere opptjening» menes en ytelse beregnet etter reglene for alderspensjon etter [kapittel 3](lov/1997-02-28-19/kap3) på grunnlag av poengår og perioder som medlem av folketrygden før dødsfallet.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [18 des 1998 nr. 86](lov/1998-12-18-86), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [17 juni 2016 nr. 25](lov/2016-06-17-25) (med virkning fra 1 jan 2015), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se del V) som endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138) (for overgangsbestemmelser, se loven del X nr. 7 og nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), tidligere § 17-3).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [18 des 1998 nr. 86](lov/1998-12-18-86), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [17 juni 2016 nr. 25](lov/2016-06-17-25) (med virkning fra 1 jan 2015), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), se del V for overgangsbestemmelser, endring endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138), se loven del X nr. 7 og nr. 8 for overgangsbestemmelser), [7 mai 2021 nr. 30](lov/2021-05-07-30), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), tidligere § 17-3).
 
 ### § 17-3. Fortsatt medlemskap
 
@@ -3910,7 +3910,7 @@ Den som ikke fyller vilkåret i første ledd, får likevel omstillingsstønad de
 
 Omstillingsstønad etter unntaksbestemmelsene i [§ 17-2](lov/1997-02-28-19/§17-2) tredje, fjerde og sjette ledd beholdes bare så lenge den gjenlevende er medlem i trygden.
 
-> Endret ved lover [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V) som endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138) (for overgangsbestemmelser, se loven del X nr. 7 og nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved [lov 16 juni 2023 nr. 36](lov/2023-06-16-36), tidligere § 17-4).
+> Endret ved lover [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V, endring endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138), for overgangsbestemmelser, se loven del X nr. 7 og nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved [lov 16 juni 2023 nr. 36](lov/2023-06-16-36), tidligere § 17-4).
 
 ### § 17-4. Øvrige vilkår for ytelser
 
@@ -4067,7 +4067,7 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragra
 2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
 3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
-> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929)).
+> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929)).
 
 ### § 17-14. Ytelser under straffegjennomføring
 
@@ -4225,7 +4225,7 @@ Tidsrom da avdøde hadde avtalefestet pensjon med statstilskott, skal være like
 
 Vilkåret i første ledd gjelder ikke når den avdøde faren eller moren var medlem i folketrygden ved dødsfallet og kunne tilstås en ytelse på grunnlag av tidligere opptjening minst svarende til halvparten av full minstepensjon. Med «ytelse på grunnlag av tidligere opptjening» menes en ytelse beregnet etter reglene for alderspensjon etter [kapittel 3](lov/1997-02-28-19/kap3) på grunnlag av poengår og perioder som medlem av folketrygden før dødsfallet.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [18 des 1998 nr. 86](lov/1998-12-18-86), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V) som endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138) (for overgangsbestemmelser, se loven del X nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [18 des 1998 nr. 86](lov/1998-12-18-86), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59)), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V, endring endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138), for overgangsbestemmelser, se loven del X nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30).
 
 ### § 18-3. Fortsatt medlemskap
 
@@ -4239,7 +4239,7 @@ Til et barn som ikke fyller vilkåret i første ledd, ytes det likevel barnepens
 
 Barnepensjon etter unntaksbestemmelsene i [§ 18-2](lov/1997-02-28-19/§18-2) tredje, fjerde og sjette ledd beholdes bare så lenge barnet er medlem i trygden.
 
-> Endret ved lover [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V) som endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138) (for overgangsbestemmelser, se loven del X nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [20 des 2023 nr. 95](lov/2023-12-20-95), se endringsloven for overgangsregler).
+> Endret ved lover [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V, endring endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138), for overgangsbestemmelser, se loven del X nr. 8), [7 mai 2021 nr. 30](lov/2021-05-07-30), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [20 des 2023 nr. 95](lov/2023-12-20-95), se endringsloven for overgangsregler).
 
 ### § 18-4. Stønadsperioden
 
@@ -4293,7 +4293,7 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragra
 2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
 3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
-> Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417)), [20 juni 2003 nr. 53](lov/2003-06-20-53) (ikr. 1 juli 2003). [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), se endringsloven for overgangsregler).
+> Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417)), [20 juni 2003 nr. 53](lov/2003-06-20-53) (ikr. 1 juli 2003). [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), se endringsloven for overgangsregler).
 
 ### § 18-9. Barnepensjon under straffegjennomføring
 
@@ -4397,7 +4397,7 @@ Pensjon etter unntaksbestemmelsene i [§ 19-2](lov/1997-02-28-19/§19-2) a andre
 
 En person kan tidligst ta ut alderspensjon fra fylte 62 år. Ved uttak av alderspensjon før fylte 67 år må visse vilkår være oppfylt, se [§ 19-11](lov/1997-02-28-19/§19-11) om vilkår for uttak før 67 år. Det gis ikke alderspensjon til en person som mottar uføretrygd etter en uføregrad på 100 prosent.
 
-> Endret ved lover [21 des 2007 nr. 118](lov/2007-12-21-118) (ikr. 1 jan 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 jan 2010), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33).
+> Endret ved lover [21 des 2007 nr. 118](lov/2007-12-21-118) (ikr. 1 jan 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 jan 2010), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33)).
 
 ### § 19-5. Basispensjon
 
@@ -4407,7 +4407,7 @@ Pensjonspoeng etter [§§ 3-13](lov/1997-02-28-19/§3-13), [3-14](lov/1997-02-28
 
 Ved uttak av alderspensjon skal basispensjonen divideres med et forholdstall, se [§§ 19-7](lov/1997-02-28-19/§19-7) og [19-10](lov/1997-02-28-19/§19-10).
 
-> Endret ved lover [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+> Endret ved lover [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
 ### § 19-6. Levealdersjustering og nøytralt uttak
 
@@ -4421,7 +4421,7 @@ Det fastsettes forholdstall for hvert årskull fra og med 1943-kullet til og med
 
 Levealdersjusteringen skal fases gradvis inn, se [§ 19-7](lov/1997-02-28-19/§19-7) tredje ledd.
 
-> Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36), [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [10 des 1999 nr. 84](lov/1999-12-10-84), [22 des 1999 nr. 107](lov/1999-12-22-107) (ikr. 1 jan 2001 iflg. [res. 11 feb 2000 nr. 98](forskrift/2000-02-11-98)), [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 jan 2001), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [14 juni 2002 nr. 22](lov/2002-06-14-22), [15 juni 2007 nr. 21](lov/2007-06-15-21), [21 des 2007 nr. 118](lov/2007-12-21-118) (ikr. 1 jan 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 jan 2010), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [17 des 2010 nr. 77](lov/2010-12-17-77).
+> Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36), [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [10 des 1999 nr. 84](lov/1999-12-10-84), [22 des 1999 nr. 107](lov/1999-12-22-107) (ikr. 1 jan 2001 iflg. [res. 11 feb 2000 nr. 98](forskrift/2000-02-11-98)), [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 jan 2001), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [14 juni 2002 nr. 22](lov/2002-06-14-22), [15 juni 2007 nr. 21](lov/2007-06-15-21), [21 des 2007 nr. 118](lov/2007-12-21-118) (ikr. 1 jan 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 jan 2010), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [17 des 2010 nr. 77](lov/2010-12-17-77)).
 
 ### § 19-7. Fastsetting av forholdstall
 
@@ -4472,7 +4472,7 @@ Dersom summen av grunnpensjon og tilleggspensjon er lavere enn pensjonsnivået v
 
 Departementet gir forskrifter om minste samlede pensjonsnivå til pensjonistektepar og kan herunder gjøre unntak fra reglene i tredje ledd.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lover [11 des 2009 nr. 112](lov/2009-12-11-112), [26 nov 2010 nr. 59](lov/2010-11-26-59), [17 des 2010 nr. 77](lov/2010-12-17-77) (tidligere § 19-8 endret paragrafnummer til § 19-17), endret ved lover [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2015 nr. 103](lov/2015-12-18-103), [17 juni 2016 nr. 25](lov/2016-06-17-25) (ikr. 1 sep 2016), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [7 mai 2021 nr. 30](lov/2021-05-07-30), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lover [11 des 2009 nr. 112](lov/2009-12-11-112), [26 nov 2010 nr. 59](lov/2010-11-26-59) og [17 des 2010 nr. 77](lov/2010-12-17-77), tidligere § 19-8 endret paragrafnummer til § 19-17), endret ved lover [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2015 nr. 103](lov/2015-12-18-103), [17 juni 2016 nr. 25](lov/2016-06-17-25) (ikr. 1 sep 2016), [13 des 2019 nr. 78](lov/2019-12-13-78) (ikr. 1 juli 2020), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [7 mai 2021 nr. 30](lov/2021-05-07-30), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025).
 
 ### § 19-9. Pensjonstillegg
 
@@ -4510,7 +4510,7 @@ Pensjonsgraden kan endres eller oppdateres når det har gått ett år fra uttaks
 
 Ved gradert uttak overføres verdien av basispensjonen og eventuelt basispensjonstillegg som ikke tas ut, til en restpensjon.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17) (tidligere § 19-10 endret paragrafnummer til § 19-19), endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17), tidligere § 19-10 endret paragrafnummer til § 19-19), endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)).
 
 ### § 19-11. Vilkår for uttak av alderspensjon før 67 år
 
@@ -4520,7 +4520,7 @@ Ved gradert pensjon skal restpensjonen, se [§ 19-10](lov/1997-02-28-19/§19-10)
 
 Dersom vedkommende mottar avtalefestet pensjon med statstilskott, skal den delen som er livsvarig og gjenstand for regulering medregnes i beregningene etter første ledd.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59) (tidligere § 19-11 endret paragrafnummer til § 19-20), endret ved lover [17 juni 2016 nr. 25](lov/2016-06-17-25) (ikr. 1 feb 2017 iflg. [res. 14 okt 2016 nr. 1203](forskrift/2016-10-14-1203), vedtatt som annet punktum, skal vel være tredje punktum), [15 des 2017 nr. 104](lov/2017-12-15-104), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), tidligere § 19-11 endret paragrafnummer til § 19-20), endret ved lover [17 juni 2016 nr. 25](lov/2016-06-17-25) (ikr. 1 feb 2017 iflg. [res. 14 okt 2016 nr. 1203](forskrift/2016-10-14-1203), vedtatt som annet punktum, skal vel være tredje punktum), [15 des 2017 nr. 104](lov/2017-12-15-104), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
 
 ### § 19-12. Omregning av pensjon ved endring i pensjonsgrad
 
@@ -4568,7 +4568,7 @@ Kongen gir forskrifter med nærmere regler om regulering etter denne paragrafen.
 
 Departementet gir forskrifter med nærmere regler om framgangsmåten ved regulering som nevnt i tredje og sjuende ledd.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lover [4 juni 2010 nr. 17](lov/2010-06-04-17) og [17 des 2010 nr. 77](lov/2010-12-17-77), endret ved lover [11 mai 2012 nr. 24](lov/2012-05-11-24), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lover [4 juni 2010 nr. 17](lov/2010-06-04-17) og [17 des 2010 nr. 77](lov/2010-12-17-77)), endret ved lover [11 mai 2012 nr. 24](lov/2012-05-11-24), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler).
 
 ### § 19-15. Alderspensjon til årskullene 1954–1962
 
@@ -4578,7 +4578,7 @@ Ved regulering av den andelen av pensjon som utbetales etter dette kapitlet, se 
 
 Ved vurdering av vilkår for uttak av alderspensjon før 67 år etter [§ 19-11](lov/1997-02-28-19/§19-11) skal den samlede pensjonen etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20) legges til grunn.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17)).
 
 ### § 19-16. Alderspensjon til gjenlevende ektefelle
 
@@ -4607,7 +4607,7 @@ For personer født fra og med 1944 og framover utgjør gjenlevendefordelene diff
 
 Departementet kan gi forskrifter om pensjonsberegning etter paragrafen her. Det kan blant annet gis bestemmelser om beregning av minste pensjonsnivå etter § 19-14 femte ledd og omregning av pensjon ved endringer i pensjonsgrad.
 
-> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [11 des 2009 nr. 112](lov/2009-12-11-112) (endret paragrafnummer fra § 19-7), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
+> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [11 des 2009 nr. 112](lov/2009-12-11-112), tidligere § 19-7), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
 
 ### § 19-17. Avkall på alderspensjon
 
@@ -4620,7 +4620,7 @@ Ektefellens ytelser fastsettes da etter reglene for pensjonister som forsørger 
 
 Dersom avkall på rett til alderspensjon senere trekkes tilbake, skal pensjonen beregnes som om vedkommende har mottatt hel alderspensjon fra det tidspunkt det ble gitt avkall på den.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59) (endret paragrafnummer fra § 19-8), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [14 juni 2013 nr. 33](lov/2013-06-14-33), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [26 nov 2010 nr. 59](lov/2010-11-26-59), tidligere § 19-8), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [14 juni 2013 nr. 33](lov/2013-06-14-33), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)).
 
 ### § 19-18. Forholdet til avtalefestet pensjon tilstått før 1. januar 2011
 
@@ -4630,13 +4630,13 @@ Fra måneden etter at pensjonisten fyller 70 år, ytes det alderspensjon også p
 
 Departementet gir forskrifter om beregningsgrunnlaget for tilleggspensjon for personer født i 1943 og senere år som ble tilstått avtalefestet pensjon med statstilskott med virkningstidspunkt før 1. januar 2011.
 
-> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [19 feb 2010 nr. 5](lov/2010-02-19-5) (endret paragrafnummer fra § 19-9).
+> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [19 feb 2010 nr. 5](lov/2010-02-19-5), tidligere § 19-9).
 
 ### § 19-19. Ventetillegg
 
 Til den som ikke tok ut full alderspensjon fra fylte 67 år til fylte 70 år i tiden mellom 1. januar 1973 og 1. april 1984, ytes det ventetillegg.
 
-> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lover [19 feb 2010 nr. 5](lov/2010-02-19-5) og [4 juni 2010 nr. 17](lov/2010-06-04-17) (endret paragrafnummer fra § 19-10).
+> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lover [19 feb 2010 nr. 5](lov/2010-02-19-5) og [4 juni 2010 nr. 17](lov/2010-06-04-17), tidligere § 19-10).
 
 ### § 19-20. Alderspensjon ved yrkesskade
 
@@ -4646,7 +4646,7 @@ Den som har rett til pensjon som gjenlevende ektefelle etter dødsfall på grunn
 
 Departementet gir forskrifter om beregning og omregning av alderspensjon etter paragrafen her.
 
-> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011) som endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17) (endret paragrafnummer fra § 19-11), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
+> Endret ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011, endring endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17), tidligere § 19-11), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
 ### § 19-21. Alderspensjon under opphold i institusjon
 
@@ -4666,7 +4666,7 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragra
 2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
 3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
-> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105).
+> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105).
 
 ### § 19-22. Alderspensjon under straffegjennomføring
 
@@ -4704,7 +4704,7 @@ Departementet kan i forskrift gi bestemmelser som supplerer eller legger til ret
 
 En person kan tidligst ta ut alderspensjon fra fylte 62 år. Ved uttak av alderspensjon før fylte 67 år må visse vilkår være oppfylt, se [§ 20-15](lov/1997-02-28-19/§20-15) om vilkår for uttak før 67 år. Det gis ikke alderspensjon til en person som mottar uføretrygd etter en uføregrad på 100 prosent.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010), endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010), endret ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33)).
 
 ### § 20-3. Sammensetning av alderspensjon
 
@@ -4833,7 +4833,7 @@ For den som ved fylte 67 år hadde rett til uføretrygd, skal trygdetiden minst 
 
 Ved endringer i medlemskap som påvirker pensjonen, skal pensjonen omregnes. Departementet gir forskrifter med nærmere regler om omregning.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010), endret ved lover [26 nov 2010 nr. 59](lov/2010-11-26-59), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010), endret ved lover [26 nov 2010 nr. 59](lov/2010-11-26-59), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [14 juni 2013 nr. 33](lov/2013-06-14-33)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V).
 
 ### § 20-11. Garantipensjon – beholdning
 
@@ -4990,7 +4990,7 @@ Dersom alderspensjonen tas ut etter fylte 67 år, skal sivilstand på uttakstids
 
 Departementet gir forskrifter om gjennomføringen av denne paragrafen.
 
-> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010) som endret ved lov [11 des 2009 nr. 112](lov/2009-12-11-112), endret ved lover [14 juni 2013 nr. 33](lov/2013-06-14-33), [20 des 2022 nr. 100](lov/2022-12-20-100) (med virkning fra 1 april 2022).
+> Tilføyd ved lov [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2010, endring endret ved lov [11 des 2009 nr. 112](lov/2009-12-11-112)), endret ved lover [14 juni 2013 nr. 33](lov/2013-06-14-33), [20 des 2022 nr. 100](lov/2022-12-20-100) (med virkning fra 1 april 2022).
 
 ### § 20-21. Pensjon opptjent før 1. januar 2010
 
@@ -5024,7 +5024,7 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragra
 2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
 3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
-> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lover [17 juni 2016 nr. 25](lov/2016-06-17-25), [20 des 2016 nr. 105](lov/2016-12-20-105).
+> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), endret ved lover [17 juni 2016 nr. 25](lov/2016-06-17-25), [20 des 2016 nr. 105](lov/2016-12-20-105).
 
 ### § 20-23. Alderspensjon under straffegjennomføring
 
@@ -5092,7 +5092,7 @@ Arbeids- og velferdsetaten, Helsedirektoratet eller det organ Helsedirektoratet 
 
 Nasjonalt klageorgan for helsetjenesten er klageinstans for pålegg fra Helsedirektoratet eller det organ Helsedirektoratet bestemmer om å gi opplysninger, erklæringer og uttalelser mv. etter paragrafen her og [§ 21-4c](lov/1997-02-28-19/§21-4c). Når Nasjonalt klageorgan for helsetjenesten gir pålegg om å gi opplysninger, er departementet klageinstans.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 juli 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [14 juni 2002 nr. 22](lov/2002-06-14-22), [10 des 2004 nr. 76](lov/2004-12-10-76) (ikr. 1 juli 2005 iflg. [res. 10 des 2004 nr. 1616](forskrift/2004-12-10-1616)), [7 apr 2006 nr. 7](lov/2006-04-07-7) (ikr. 1 juli 2006 iflg. [res. 7 apr 2006 nr. 393](forskrift/2006-04-07-393)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [22 des 2006 nr. 95](lov/2006-12-22-95), [22 des 2006 nr. 94](lov/2006-12-22-94) (ikr. 1 jan 2007 iflg. [res. 22 des 2006 nr. 1530](forskrift/2006-12-22-1530)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 apr 2013 nr. 14](lov/2013-04-19-14) (ikr. 19 apr 2013 iflg. [res. 19 apr 2013 nr. 389](forskrift/2013-04-19-389)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)), [27 mai 2016 nr. 12](lov/2016-05-27-12), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2017 iflg. [res. 11 nov 2016 nr. 1309](forskrift/2016-11-11-1309)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289), se endringslovens del V for overgangsregler).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 juli 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [14 juni 2002 nr. 22](lov/2002-06-14-22), [10 des 2004 nr. 76](lov/2004-12-10-76) (ikr. 1 juli 2005 iflg. [res. 10 des 2004 nr. 1616](forskrift/2004-12-10-1616)), [7 apr 2006 nr. 7](lov/2006-04-07-7) (ikr. 1 juli 2006 iflg. [res. 7 apr 2006 nr. 393](forskrift/2006-04-07-393)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [22 des 2006 nr. 95](lov/2006-12-22-95), [22 des 2006 nr. 94](lov/2006-12-22-94) (ikr. 1 jan 2007 iflg. [res. 22 des 2006 nr. 1530](forskrift/2006-12-22-1530)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127)), [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 apr 2013 nr. 14](lov/2013-04-19-14) (ikr. 19 apr 2013 iflg. [res. 19 apr 2013 nr. 389](forskrift/2013-04-19-389)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)), [27 mai 2016 nr. 12](lov/2016-05-27-12), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2017 iflg. [res. 11 nov 2016 nr. 1309](forskrift/2016-11-11-1309)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289), se endringslovens del V for overgangsregler).
 
 ### § 21-4 a. Innhenting av opplysninger fra tredjemann – stedlig kontroll
 
@@ -5345,7 +5345,7 @@ Bestemmelsene i denne paragrafen omfatter langtidspasienter som er innlagt i en 
 
 Departementet gir forskrifter om hvem som skal fatte vedtak etter denne paragrafen om disponering av trygdemidler på vegne av pasienter, og om forvaltning og regnskap.
 
-> Endret ved lover [2 juli 1999 nr. 61](lov/1999-07-02-61) (ikr. 1 jan 2001 iflg. [res. 1 des 2000 nr. 1196](forskrift/2000-12-01-1196)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover [2 juli 1999 nr. 61](lov/1999-07-02-61) (ikr. 1 jan 2001 iflg. [res. 1 des 2000 nr. 1196](forskrift/2000-12-01-1196)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 22-5. Felles trivselsordninger for langtidspasienter
 
@@ -5367,7 +5367,7 @@ Reglene i vergemålsloven får ikke anvendelse på ytelser det er truffet vedtak
 
 Departementet gir forskrifter om utbetaling og forvaltning av ytelser etter denne paragrafen.
 
-> Endret ved lover [18 des 2009 nr. 131](lov/2009-12-18-131) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1584](forskrift/2009-12-18-1584)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover [18 des 2009 nr. 131](lov/2009-12-18-131) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1584](forskrift/2009-12-18-1584)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 22-7. Utsatt utbetaling
 
@@ -5551,7 +5551,7 @@ Avregning etter første ledd skjer normalt med opptil 10 prosent av samlet måne
 
 Avregning etter paragrafen her gjøres av Innkrevingsmyndigheten.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2010), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), [19 des 2017 nr. 113](lov/2017-12-19-113), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2010), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), endring endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), [19 des 2017 nr. 113](lov/2017-12-19-113), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
 ### § 22-17. Renter ved etterbetaling av ytelser
 
@@ -5763,19 +5763,19 @@ Arbeids- og velferdsdirektoratet skal holde folketrygdens midler regnskapsmessig
 
 (2) Skattemyndighetene kan vedta økning av pensjonsgivende inntekt når den skattepliktige forlanger det som følge av feil som i høy grad er sannsynliggjort, og som han eller hun ikke kan lastes for. Ved slik økning skal pensjonsopptjening og trygdeavgift økes tilsvarende. Trygdeavgiften kan økes uten hinder av fristene for endring av skattefastsetting etter skatteforvaltningsloven.
 
-> Endret ved lover [27 nov 1998 nr. 69](lov/1998-11-27-69), [21 des 2001 nr. 109](lov/2001-12-21-109), [29 juni 2007 nr. 59](lov/2007-06-29-59) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)) som endret ved lov [15 des 2006 nr. 85](lov/2006-12-15-85), [12 des 2008 nr. 97](lov/2008-12-12-97) (f o m inntektsåret 2009), [22 juni 2012 nr. 39](lov/2012-06-22-39), [18 des 2015 nr. 114](lov/2015-12-18-114), [20 des 2016 nr. 110](lov/2016-12-20-110) (ikr. 1 jan 2017), [17 des 2021 nr. 146](lov/2021-12-17-146).
+> Endret ved lover [27 nov 1998 nr. 69](lov/1998-11-27-69), [21 des 2001 nr. 109](lov/2001-12-21-109), [29 juni 2007 nr. 59](lov/2007-06-29-59) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616), endring endret ved lov [15 des 2006 nr. 85](lov/2006-12-15-85)), [12 des 2008 nr. 97](lov/2008-12-12-97) (f o m inntektsåret 2009), [22 juni 2012 nr. 39](lov/2012-06-22-39), [18 des 2015 nr. 114](lov/2015-12-18-114), [20 des 2016 nr. 110](lov/2016-12-20-110) (ikr. 1 jan 2017), [17 des 2021 nr. 146](lov/2021-12-17-146).
 
 ### § 24-2. (Opphevet)
 
-> Endret ved lover [15 des 2000 nr. 94](lov/2000-12-15-94) (ikr. 1 nov 2001 iflg. [res. 12 okt 2001 nr. 1186](forskrift/2001-10-12-1186)), [17 juni 2005 nr. 73](lov/2005-06-17-73) (ikr. 1 aug 2005 iflg. [vedtak 30 juni 2005 nr. 780](forskrift/2005-06-30-780)), [9 mai 2008 nr. 22](lov/2008-05-09-22), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)) som endret ved lov [15 des 2006 nr. 85](lov/2006-12-15-85), [11 des 2009 nr. 121](lov/2009-12-11-121), [10 des 2010 nr. 66](lov/2010-12-10-66), [22 juni 2012 nr. 39](lov/2012-06-22-39) (endret paragrafnummer fra § 24-3, tidl. § 24-2 ble opphevet), [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220)) som endret ved lover [20 juni 2014 nr. 23](lov/2014-06-20-23) og [19 des 2014 nr. 86](lov/2014-12-19-86), opphevet ved lov [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+> Endret ved lover [15 des 2000 nr. 94](lov/2000-12-15-94) (ikr. 1 nov 2001 iflg. [res. 12 okt 2001 nr. 1186](forskrift/2001-10-12-1186)), [17 juni 2005 nr. 73](lov/2005-06-17-73) (ikr. 1 aug 2005 iflg. [vedtak 30 juni 2005 nr. 780](forskrift/2005-06-30-780)), [9 mai 2008 nr. 22](lov/2008-05-09-22), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616), endring endret ved lov [15 des 2006 nr. 85](lov/2006-12-15-85)), [11 des 2009 nr. 121](lov/2009-12-11-121), [10 des 2010 nr. 66](lov/2010-12-10-66), [22 juni 2012 nr. 39](lov/2012-06-22-39) (endret paragrafnummer fra § 24-3, tidl. § 24-2 ble opphevet), [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220), endring endret ved lover [20 juni 2014 nr. 23](lov/2014-06-20-23) og [19 des 2014 nr. 86](lov/2014-12-19-86)), opphevet ved lov [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
 ### § 24-3. (Opphevet)
 
-> Endret ved lover [29 juni 2007 nr. 59](lov/2007-06-29-59) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)), [19 juni 2009 nr. 49](lov/2009-06-19-49) (ikr. 1 jan 2010), [22 juni 2012 nr. 39](lov/2012-06-22-39) (endret paragrafnummer fra § 24-4), [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220)) som endret ved lov [19 des 2014 nr. 86](lov/2014-12-19-86), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+> Endret ved lover [29 juni 2007 nr. 59](lov/2007-06-29-59) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)), [19 juni 2009 nr. 49](lov/2009-06-19-49) (ikr. 1 jan 2010), [22 juni 2012 nr. 39](lov/2012-06-22-39) (tidligere § 24-4), [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220), endring endret ved lov [19 des 2014 nr. 86](lov/2014-12-19-86)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
 ### § 24-4. (Opphevet)
 
-> Tilføyd ved lov [12 des 2008 nr. 97](lov/2008-12-12-97) (tidligere § 24-5 endret paragrafnummer til § 24-6), endret ved lover [22 juni 2012 nr. 39](lov/2012-06-22-39) (endret paragrafnummer fra § 24-5), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2016 nr. 110](lov/2016-12-20-110) (ikr. 1 jan 2017), [21 juni 2017 nr. 77](lov/2017-06-21-77), [20 des 2019 nr. 93](lov/2019-12-20-93) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)), opphevet ved lov [21 des 2020 nr. 163](lov/2020-12-21-163) (ikr. 1 juni 2021).
+> Tilføyd ved lov [12 des 2008 nr. 97](lov/2008-12-12-97) (tidligere § 24-5 endret paragrafnummer til § 24-6), endret ved lover [22 juni 2012 nr. 39](lov/2012-06-22-39) (tidligere § 24-5), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2016 nr. 110](lov/2016-12-20-110) (ikr. 1 jan 2017), [21 juni 2017 nr. 77](lov/2017-06-21-77), [20 des 2019 nr. 93](lov/2019-12-20-93) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)), opphevet ved lov [21 des 2020 nr. 163](lov/2020-12-21-163) (ikr. 1 juni 2021).
 
 ### § 24-4 a. (Opphevet)
 
@@ -5789,7 +5789,7 @@ Departementet gir forskrifter om hvor arbeidsgiveravgiften skal fastsettes og in
 
 Departementet gir forskrifter om forenklet oppgjør for arbeidsgiveravgift fra statens forvaltningsvirksomhet.
 
-> Endret ved lover [12 des 2008 nr. 97](lov/2008-12-12-97) (endret paragrafnummer fra § 24-5), [22 juni 2012 nr. 39](lov/2012-06-22-39) (endret paragrafnummer fra § 24-6), [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220)) som endret ved lov [19 des 2014 nr. 86](lov/2014-12-19-86).
+> Endret ved lover [12 des 2008 nr. 97](lov/2008-12-12-97) (tidligere § 24-5), [22 juni 2012 nr. 39](lov/2012-06-22-39) (tidligere § 24-6), [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220), endring endret ved lov [19 des 2014 nr. 86](lov/2014-12-19-86)).
 
 ## Del IX. Avsluttende bestemmelser
 
@@ -5944,7 +5944,7 @@ Departementet kan gi forskrift om at arbeidsgivere og oppdragsgivere uoppfordret
 
 Departementet kan gi forskrift om at arbeidsgiver eller oppdragsgiver skal opplyse om utbetalingen eller fordelen til arbeidstakeren eller frilanseren er for en avvikende periode.
 
-> Endret ved lover [18 juni 1998 nr. 38](lov/1998-06-18-38) (i kraft 1 okt 1998), [10 des 2004 nr. 76](lov/2004-12-10-76) (i kraft 1 juli 2005 iflg. [res. 10 des 2004 nr. 1616](forskrift/2004-12-10-1616)), opphevet ved lov [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), tilføyd igjen ved lov [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220)) som endret ved lov [20 juni 2014 nr. 23](lov/2014-06-20-23), endret ved lover [27 mai 2016 nr. 12](lov/2016-05-27-12), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021).
+> Endret ved lover [18 juni 1998 nr. 38](lov/1998-06-18-38) (i kraft 1 okt 1998), [10 des 2004 nr. 76](lov/2004-12-10-76) (i kraft 1 juli 2005 iflg. [res. 10 des 2004 nr. 1616](forskrift/2004-12-10-1616)), opphevet ved lov [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), tilføyd igjen ved lov [22 juni 2012 nr. 43](lov/2012-06-22-43) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220), endring endret ved lov [20 juni 2014 nr. 23](lov/2014-06-20-23)), endret ved lover [27 mai 2016 nr. 12](lov/2016-05-27-12), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021).
 
 ### § 25-10a. (Opphevet)
 
