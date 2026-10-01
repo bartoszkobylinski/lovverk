@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-07-01"
-xml_hash: "a288f58a1790c8529c093534b5a153c087e90f160b0215c8cf646e168a421348"
+xml_hash: "427166454d715b1f90de95134f244bafd217d89b0c68447b7c4bd0cd08c7b05d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -243,7 +243,7 @@ eu_basis:
 
 (8) Bestemmelsen i annet ledd gjelder likevel ikke pensjonsordning for arbeidstakere som omfattes av [foretakspensjonsloven § 3-9](lov/2000-03-24-16/§3-9) annet ledd.
 
-> Tilføyd ved [lov 7 juni 2002 nr. 17](lov/2002-06-07-17) (ikr. 1 des 2003 iflg. [vedtak 3 nov 2003 nr. 1293](forskrift/2003-11-03-1293)) som endret ved [lov 13 des 2002 nr. 75](lov/2002-12-13-75), endret ved lover [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [13 des 2013 nr. 106](lov/2013-12-13-106) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1444](forskrift/2013-12-13-1444)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
+> Tilføyd ved [lov 7 juni 2002 nr. 17](lov/2002-06-07-17) (ikr. 1 des 2003 iflg. [vedtak 3 nov 2003 nr. 1293](forskrift/2003-11-03-1293), endring endret ved [lov 13 des 2002 nr. 75](lov/2002-12-13-75)), endret ved lover [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [13 des 2013 nr. 106](lov/2013-12-13-106) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1444](forskrift/2013-12-13-1444)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
 
 1 Inkurie: Paragrafen er opphevet.
 
@@ -304,13 +304,13 @@ Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medle
 
 (3) Regelverket kan fastsette at arbeidstakere som er permitterte som følge av driftsinnskrenkninger m.v. skal være medlemmer av pensjonsordningen.
 
-> Endret ved lover [15 juni 2007 nr. 28](lov/2007-06-15-28) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 652](forskrift/2007-06-15-652)), [17 april 2020 nr. 20](lov/2020-04-17-20), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), tidligere § 3-7, [17 april 2020 nr. 20](lov/2020-04-17-20) (i kraft 1 mars 2022. Forlenget til og med 30 juni 2021 iflg. [res 9 okt 2020 nr. 2004](forskrift/2020-10-09-2004), forlenget til og med 30. september 2021 iflg. [res. 18 juni 2021 nr. 2029](forskrift/2021-06-18-2029), forlenget til og med 31. oktober 2021 iflg. [res. 24 sep 2021 nr. 2842](forskrift/2021-09-24-2842), forlenget til og med 31. desember 2021 iflg. [res. 29 okt 2021 nr. 3105](forskrift/2021-10-29-3105), forlenget til og med 28. februar 2022 iflg. [res. 22 des 2021 nr. 3812](forskrift/2021-12-22-3812), fjerde og femte ledd ble opphevet).
+> Endret ved lover [15 juni 2007 nr. 28](lov/2007-06-15-28) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 652](forskrift/2007-06-15-652)), [17 april 2020 nr. 20](lov/2020-04-17-20), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810), tidligere § 3-7), [17 april 2020 nr. 20](lov/2020-04-17-20) (i kraft 1 mars 2022. Forlenget til og med 30 juni 2021 iflg. [res 9 okt 2020 nr. 2004](forskrift/2020-10-09-2004), forlenget til og med 30. september 2021 iflg. [res. 18 juni 2021 nr. 2029](forskrift/2021-06-18-2029), forlenget til og med 31. oktober 2021 iflg. [res. 24 sep 2021 nr. 2842](forskrift/2021-09-24-2842), forlenget til og med 31. desember 2021 iflg. [res. 29 okt 2021 nr. 3105](forskrift/2021-10-29-3105), forlenget til og med 28. februar 2022 iflg. [res. 22 des 2021 nr. 3812](forskrift/2021-12-22-3812), fjerde og femte ledd ble opphevet).
 
 ### § 3-7. Arbeidstakere som ikke er arbeidsføre
 
 (1) Arbeidstaker som ikke er arbeidsfør på den tid arbeidstakeren ellers skulle opptas som medlem, skal først bli medlem av pensjonsordningen når arbeidstakeren begynner å arbeide i stillingen, med mindre annet er fastsatt i regelverket.
 
-> Endret ved lov [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), tidligere § 3-8.
+> Endret ved lov [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810), tidligere § 3-8).
 
 ### II. Eldre og pensjonerte arbeidstakere
 
@@ -324,7 +324,7 @@ Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medle
 
 (4) Bestemmelsene i annet og tredje ledd gjelder ikke ordning med engangsbetalt alderspensjon.
 
-> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), tidligere § 3-9.
+> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810), tidligere § 3-9).
 
 ### § 3-9. Arbeidstakere som har nådd opptjeningsalderen
 
@@ -332,7 +332,7 @@ Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medle
 
 (2) Slike arbeidstakere skal sikres alderspensjon ved engangsbetalt alderspensjon eller etter innskuddspensjonsloven, med mindre de tas opp som medlem på særlige vilkår.
 
-> Endret ved lover [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011, se dens VII om overgangsregler), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), tidligere § 3-10.
+> Endret ved lover [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011, se dens VII om overgangsregler), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810), tidligere § 3-10).
 
 ### § 3-10. Arbeidstakere som tar ut alderspensjon
 
@@ -340,7 +340,7 @@ Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medle
 
 (2) Etter at arbeidstakeren har nådd opptjeningsalderen, gjelder reglene om opptjening av rett til pensjon i [§ 4-5](lov/2000-03-24-16/§4-5).
 
-> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), tidligere § 3-11.
+> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810), tidligere § 3-11).
 
 ### Kapittel 4. Opptjening av pensjon
 
@@ -365,7 +365,7 @@ Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medle
 
 (2) Har pensjonsordningen engangsbetalt alderspensjon, skal opptjent pensjon til enhver tid utgjøre summen av de rettigheter til pensjon som medlemmet har ervervet i samsvar med regelverket og beregningsgrunnlaget for pensjonsordningen. Avkastning i tillegg til midler tilført etter beregningsgrunnlaget skal hvert år benyttes som engangspremie for forhøyelse av opptjent pensjon. Forvaltes midler knyttet til alderspensjon med kollektivt investeringsvalg etter [§ 11-1 a](lov/2000-03-24-16/§11-1a) eller med investeringsvalg for det enkelte medlem etter [§ 11-2](lov/2000-03-24-16/§11-2), skal opptjent pensjon likevel ikke overstige den rett til pensjon som etter beregningsgrunnlaget for pensjonsordningen motsvarer den premiereserven medlemmet har opptjent til enhver tid.
 
-> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), tidligere § 4-3, [15 juni 2001 nr. 40](lov/2001-06-15-40) (ikr. 15 juni 2001 iflg. [res. 15 juni 2001 nr. 653](forskrift/2001-06-15-653)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
+> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353), tidligere § 4-3), [15 juni 2001 nr. 40](lov/2001-06-15-40) (ikr. 15 juni 2001 iflg. [res. 15 juni 2001 nr. 653](forskrift/2001-06-15-653)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
 
 ### II. Ytelsesbasert pensjon
 
@@ -379,7 +379,7 @@ Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medle
 
 (3) Ved beregning av etterlattepensjon og av uførepensjon regnes tjenestetiden fram til det tidspunkt medlemmet ville ha nådd opptjeningsalderen.
 
-> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), tidligere § 4-2, [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
+> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353), tidligere § 4-2), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
 
 ### § 4-4. Skifte av stilling i foretaket
 
@@ -796,7 +796,7 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 
 (1) Bestemmelsene i [§§ 5-2](lov/2000-03-24-16/§5-2) til [5-9](lov/2000-03-24-16/§5-9) gjelder tilsvarende for uførepensjoner så langt de passer.
 
-> Endret ved [lov 17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), tidligere § 6-8.
+> Endret ved [lov 17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011, tidligere § 6-8).
 
 ### Kapittel 7. Pensjoner til etterlatte
 
