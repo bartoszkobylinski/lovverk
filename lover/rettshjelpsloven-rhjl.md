@@ -1,26 +1,26 @@
 ---
 id: "nl-19800613-035"
-slug: "rettshjelploven-rhjl"
+slug: "rettshjelpsloven-rhjl"
 type: "lov"
 ref_id: "lov/1980-06-13-35"
-title: "Lov om fri rettshjelp [rettshjelploven]"
-short_title: "Rettshjelploven – rhjl"
+title: "Lov om fri rettshjelp (rettshjelpsloven)"
+short_title: "Rettshjelpsloven – rhjl"
 language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1981-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2022-03-10"
-xml_hash: "8484f1e772e1094d5f8a8bb6cbfc25a20af8a85e92b6a38a36619746782b98ee"
+xml_hash: "eaac31946fd37ab55d301de71d1ae6ee8817b0884f360ef79c0a853e86d4850a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Lov om fri rettshjelp [rettshjelploven]
+# Lov om fri rettshjelp (rettshjelpsloven)
 
 ## Kapittel I. Alminnelige bestemmelser
 
@@ -73,14 +73,14 @@ Fri rettshjelp omfatter ikke bistand som dekkes av andre ordninger eller som kan
 - oppnevning av forsvarer eller bistandsadvokat i straffesaker etter [straffeprosessloven](lov/1981-05-22-25),
 - private forsikringer som omfatter rettshjelp,
 - [forvaltningsloven § 36](lov/1967-02-10/§36) om dekning av saksomkostninger,
-- etablerte offentlige service- og rådgivningskontorer,
+- etablerte offentlige service- og rådgivningskontorer og tvisteløsningsorganer,
 - det offentliges opplysnings- og veiledningsplikt, jf. bl.a. [forvaltningsloven § 11](lov/1967-02-10/§11),
 - medlemskap i foreninger og lag,
 - private eller offentlige rettshjelpsordninger i andre land.
 
 Utgifter utover det som kan dekkes eller erstattes av andre ordninger, kan søkes dekket etter denne lov.
 
-> Tilføyd ved lov [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Tilføyd ved lov [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), endret ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 6. Etterbevilling av fri rettshjelp.
 
@@ -134,7 +134,7 @@ Fri rettshjelp som ikke omfattes av [§ 15](lov/1980-06-13-35/§15), gis som fri
 
 Søknad om fritt rettsråd kan innvilges uten behovsprøving i følgende tilfeller:
 
-1. for utlending som har rett til fri rettshjelp etter [utlendingsloven § 92 første ledd](lov/2008-05-15-35/§92/ledd/1), [annet ledd](lov/2008-05-15-35/§92/ledd/2) og [tredje ledd første punktum](lov/2008-05-15-35/§92/ledd/3/setning/1), eller for den som har rett til fri rettshjelp etter [statsborgerloven § 27 sjuende ledd](lov/2005-06-10-51/§27/ledd/7) første, tredje eller fjerde punktum.
+1. for utlending som har rett til fri rettshjelp etter [utlendingsloven § 92 første](lov/2008-05-15-35/§92/ledd/1), [annet](lov/2008-05-15-35/§92/ledd/2) og [sjuende ledd](lov/2008-05-15-35/§92/ledd/7), [§ 126 sjette](lov/2008-05-15-35/§126/ledd/6) og [sjuende ledd](lov/2008-05-15-35/§126/ledd/7), eller for den som har rett til fri rettshjelp etter [statsborgerloven § 27 sjuende ledd første](lov/2005-06-10-51/§27/ledd/7/setning/1), [tredje](lov/2005-06-10-51/§27/ledd/7/setning/3) eller [fjerde punktum](lov/2005-06-10-51/§27/ledd/7/setning/4).
 2. 1. for den som er part i sak hvor barnevernet har fattet vedtak som nevnt i [barnevernsloven § 4-2 første](lov/2021-06-18-97/§4-2/ledd/1) og [annet ledd](lov/2021-06-18-97/§4-2/ledd/2) og [§ 4-4 første ledd](lov/2021-06-18-97/§4-4/ledd/1), men hvor vedtaket ikke blir etterfulgt av at barnevernet starter forberedelse til sak som skal behandles av barneverns- og helsenemnda etter [kapittel 14](lov/2021-06-18-97/kap14) i [barnevernsloven](lov/2021-06-18-97).
    2. for den som er part i sak hvor barnevernet har startet forberedelse til sak som skal behandles av barneverns- og helsenemnda etter [kapittel 14 i barnevernsloven](lov/2021-06-18-97/kap14), men hvor saken likevel ikke blir oversendt nemnda.
 3. for siktede som reiser krav om erstatning for urettmessig straffeforfølgning etter [straffeprosessloven kapittel 31](lov/1981-05-22-25/kap31).
@@ -148,7 +148,7 @@ Søknad om fritt rettsråd kan innvilges uten behovsprøving i følgende tilfell
 
 Søknad om fritt rettsråd kan innvilges til den som har en betalingsevne som ikke overstiger fem ganger folketrygdens grunnbeløp, i følgende tilfeller:
 
-1. i saker etter [ekteskapsloven](lov/1991-07-04-47) eller [barneloven kap. 5](lov/1981-04-08-7/kap5), [6](lov/1981-04-08-7/kap6), [7](lov/1981-04-08-7/kap7) og [8](lov/1981-04-08-7/kap8), herunder saker om tvangsfullbyrdelse og midlertidig sikring.
+1. i saker etter [ekteskapsloven del II](lov/1991-07-04-47/delII) eller [barneloven kapittel 5](lov/1981-04-08-7/kap5), [6](lov/1981-04-08-7/kap6) og [7](lov/1981-04-08-7/kap7), herunder saker om tvangsfullbyrdelse og midlertidig sikring.
 2. i saker etter [lov 4. juli 1991 nr. 45 om rett til felles bolig og innbo når husstandsfellesskap opphører](lov/1991-07-04-45).
 3. for den skadede eller etterlatte i sak om erstatning for personskade eller tap av forsørger.
 4. for leietaker i sak etter [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) når saken gjelder leietakerens bolig.
@@ -157,24 +157,24 @@ Søknad om fritt rettsråd kan innvilges til den som har en betalingsevne som ik
 
 Ved beregning av betalingsevnen etter annet ledd skal bruttoinntekt, nettoformue, og fradrag for forsørgelse av barn inngå. Ektefeller og andre som lever sammen med felles økonomi skal vurderes samlet.
 
-I andre saker kan det unntaksvis innvilges fritt rettsråd dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og saken objektivt sett berører søker i særlig sterk grad. Ved vurderingen skal det legges vekt på om saken har likhetstrekk med saksfeltene i første og annet ledd.
+I andre saker kan det unntaksvis innvilges fritt rettsråd dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og særlige grunner taler for det. Ved vurderingen av om særlige grunner taler for det, kan det blant annet legges vekt på sakens art, herunder om saken objektivt sett berører søkeren i særlig sterk grad, og konsekvensene av et eventuelt rettstap for søkeren, søkerens mulighet til å ivareta sine rettslige interesser i saken, styrkeforholdet mellom partene og om saken er prinsipiell.
 
 Departementet gir forskrift om det økonomiske vilkåret og utregningen av dette. Herunder kan departementet også gi regler om det økonomiske vilkåret for personer som er bosatt i utlandet og som søker om fri rettshjelp med behovsprøving.
 
-> Endret ved lover [21 des 1984 nr. 97](lov/1984-12-21-97), [24 juni 1988 nr. 64](lov/1988-06-24-64), [6 des 1991 nr. 80](lov/1991-12-06-80), [15 sep 1995 nr. 62](lov/1995-09-15-62) (ikr. 1 jan 1997), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [2 juli 2004 nr. 67](lov/2004-07-02-67) (ikr. 1 jan 2005 iflg. [res. 29 okt 2004 nr. 1408](forskrift/2004-10-29-1408)), [10 juni 2005 nr. 50](lov/2005-06-10-50) (ikr. 9 sep 2005 iflg. [res. 2 sep 2005 nr. 956](forskrift/2005-09-02-956)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), endring endret ved lov [21 des 2005 nr. 130](lov/2005-12-21-130), tidligere § 13), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [30 juni 2006 nr. 36](lov/2006-06-30-36) (ikr. 1 sep 2006 iflg. [res. 30 juni 2006 nr. 753](forskrift/2006-06-30-753)), [1 des 2006 nr. 65](lov/2006-12-01-65) (ikr. 1 jan 2008 iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 15 jan 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 des 2016 nr. 97](lov/2016-12-16-97) (ikr. 1 jan 2017), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 juli 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)), [20 des 2019 nr. 111](lov/2019-12-20-111) (ikr. 15 jan 2020 iflg. [res. 20 des 2019 nr. 1921](forskrift/2019-12-20-1921)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [6 mai 2022 nr. 27](lov/2022-05-06-27) (i kraft 1 juli 2022 iflg. [res. 6 mai 2022 nr. 758](forskrift/2022-05-06-758)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 72](lov/2024-11-29-72) (i kraft 29 nov 2024 iflg. [res. 29 nov 2024 nr. 2892](forskrift/2024-11-29-2892)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1095](forskrift/2025-06-20-1095)), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881), endring endret ved lover [21 juni 2024 nr. 46](lov/2024-06-21-46), [20 juni 2025 nr. 82](lov/2025-06-20-82)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [21 des 1984 nr. 97](lov/1984-12-21-97), [24 juni 1988 nr. 64](lov/1988-06-24-64), [6 des 1991 nr. 80](lov/1991-12-06-80), [15 sep 1995 nr. 62](lov/1995-09-15-62) (ikr. 1 jan 1997), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [2 juli 2004 nr. 67](lov/2004-07-02-67) (ikr. 1 jan 2005 iflg. [res. 29 okt 2004 nr. 1408](forskrift/2004-10-29-1408)), [10 juni 2005 nr. 50](lov/2005-06-10-50) (ikr. 9 sep 2005 iflg. [res. 2 sep 2005 nr. 956](forskrift/2005-09-02-956)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), endring endret ved lov [21 des 2005 nr. 130](lov/2005-12-21-130), tidligere § 13), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [30 juni 2006 nr. 36](lov/2006-06-30-36) (ikr. 1 sep 2006 iflg. [res. 30 juni 2006 nr. 753](forskrift/2006-06-30-753)), [1 des 2006 nr. 65](lov/2006-12-01-65) (ikr. 1 jan 2008 iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 15 jan 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 des 2016 nr. 97](lov/2016-12-16-97) (ikr. 1 jan 2017), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 juli 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)), [20 des 2019 nr. 111](lov/2019-12-20-111) (ikr. 15 jan 2020 iflg. [res. 20 des 2019 nr. 1921](forskrift/2019-12-20-1921)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [6 mai 2022 nr. 27](lov/2022-05-06-27) (i kraft 1 juli 2022 iflg. [res. 6 mai 2022 nr. 758](forskrift/2022-05-06-758)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 72](lov/2024-11-29-72) (i kraft 29 nov 2024 iflg. [res. 29 nov 2024 nr. 2892](forskrift/2024-11-29-2892)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1095](forskrift/2025-06-20-1095)), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881), endring endret ved lover [21 juni 2024 nr. 46](lov/2024-06-21-46), [20 juni 2025 nr. 82](lov/2025-06-20-82)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12. Fritt rettsråd ved utenlandsk domstol eller forvaltningsorgan.
 
-Søknad om fritt rettsråd kan innvilges helt eller delvis til den som oppfyller det økonomiske vilkåret i [§ 11](lov/1980-06-13-35/11) annet og tredje ledd, i følgende tilfeller:
+Søknad om fritt rettsråd kan innvilges helt eller delvis til den som oppfyller det økonomiske vilkåret i [§ 11](lov/1980-06-13-35/§11) annet og tredje ledd, i følgende tilfeller:
 
 1. for den som er part i sak som er tatt til behandling av Den europeiske menneskerettighetsdomstol,
 2. for den som har fått sitt barn ulovlig bortført fra Norge, jf. [barnebortføringskonvensjonen av 25. oktober 1980 art 3](lov/1988-07-08-72/bbk/a3). Det samme gjelder for den som har fått sitt barn ulovlig bortført fra Norge og politiet har registrert et barn som savnet eller det er opprettet straffesak om barnebortføring.
 
 I andre saker for utenlandsk domstol eller forvaltningsorgan kan det unntaksvis innvilges helt eller delvis fritt rettsråd dersom det økonomiske vilkåret i [§ 11 annet](lov/1980-06-13-35/§11/ledd/2) og [tredje ledd](lov/1980-06-13-35/§11/ledd/3) er oppfylt og særlige grunner taler for det.
 
-Det innvilges ikke fritt rettsråd etter første og annet ledd dersom det er urimelig at det offentlige betaler for bistanden.
+Det innvilges ikke fritt rettsråd etter første ledd dersom det er urimelig at det offentlige betaler for bistanden.
 
-> Tilføyd ved lov [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), endret ved lover [18 des 2015 nr. 126](lov/2015-12-18-126) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1625](forskrift/2015-12-18-1625)), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Tilføyd ved lov [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), endret ved lover [18 des 2015 nr. 126](lov/2015-12-18-126) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1625](forskrift/2015-12-18-1625)), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 13. Hvem avgjør søknad om fritt rettsråd.
 
@@ -215,8 +215,8 @@ Fri sakførsel innvilges uten behovsprøving i saker som nevnt i [§ 11 første 
 1. for den vernepliktige i saker om fritak for tjeneste i Forsvaret av overbevisningsgrunner etter [forsvarsloven kapittel 4](lov/2016-08-12-77/kap4).
 2. for den et tvangstiltak retter seg mot i saker om overprøving av administrative tvangsvedtak i helse- og sosialsektoren etter [tvisteloven kapittel 36](lov/2005-06-17-90/kap36),
 3. for den private part i saker hvor søksmål er anbefalt av Sivilombudet,
-4. for utlending i tilfeller som nevnt i [utlendingsloven § 92 tredje ledd annet punktum](lov/2008-05-15-35/§92/ledd/3/setning/2) og [fjerde ledd](lov/2008-05-15-35/§92/ledd/4), [§ 129 annet ledd](lov/2008-05-15-35/§129/ledd/2), eller for den som har rett til fri sakførsel etter [statsborgerloven § 27 sjuende ledd](lov/2005-06-10-51/§27/ledd/7) annet eller tredje punktum,
-5. til den som er begjært fratatt rettslig handleevne, eller som begjærer et vedtak om fratakelse av rettslig handleevne opphevet etter [vergemålsloven](lov/2010-03-26-9),
+4. for utlending i tilfeller som nevnt i [utlendingsloven § 92](lov/2008-05-15-35/§92) [tredje](lov/2008-05-15-35/§92/ledd/3) og [fjerde ledd](lov/2008-05-15-35/§92/ledd/4) og [§ 129 annet ledd](lov/2008-05-15-35/§129/ledd/2), eller for den som har rett til fri sakførsel etter [statsborgerloven § 27 sjuende ledd annet](lov/2005-06-10-51/§27/ledd/7/setning/2) eller [tredje punktum](lov/2005-06-10-51/§27/ledd/7/setning/3),
+5. til den som er part i en sak om vergemål når staten bærer alle kostnader ved saken etter [vergemålsloven § 76 første ledd](lov/2010-03-26-9/§76/ledd/1).
 6. til den det oppnevnes advokat for i medhold av [barneloven § 61 første ledd nr. 5](lov/1981-04-08-7/§61/ledd/1/nummer/5),
 7. til den som er saksøkt i sak som nevnt i [§ 11 første ledd nr. 4](lov/1980-06-13-35/§11/ledd/1/nummer/4).
 
@@ -226,17 +226,18 @@ Søknad om fri sakførsel kan innvilges til den som har en betalingsevne som ikk
 2. saker etter [ekteskapsloven](lov/1991-07-04-47) med unntak av saker etter lovens del II og [§ 91](lov/1991-07-04-47/§91),
 3. saker som nevnt i [§ 11 annet ledd nr. 3](lov/1980-06-13-35/§11/ledd/2/nummer/3) og [5](lov/1980-06-13-35/§11/ledd/2/nummer/5),
 4. saker etter [barnebortføringskonvensjonen av 25. oktober 1980 artikkel 3](lov/1988-07-08-72/bbk/a3) for den som har fått sitt barn ulovlig bortført til Norge,
-5. saker etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8) og [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) for leietaker når saken gjelder leietakerens bolig.
+5. saker etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8) dersom leietakeren har fått medhold i Husleietvistutvalget og utleieren reiser søksmål, og etter [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) for leietaker når saken gjelder leietakerens bolig,
+6. saker der den private parten har fått medhold i Trygderetten, og staten tar ut søksmål.
 
 Ved beregning av betalingsevnen etter annet ledd skal bruttoinntekt, nettoformue, og fradrag for forsørgelse av barn inngå. Ektefeller og andre som lever sammen med felles økonomi skal vurderes samlet.
 
-I andre saker kan det unntaksvis innvilges fri sakførsel dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og saken objektivt sett berører søker i særlig sterk grad. Ved vurderingen skal det legges vekt på om saken har likhetstrekk med saksfeltene i første og annet ledd.
+I andre saker kan det unntaksvis innvilges fri sakførsel dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og særlige grunner taler for det. Ved vurderingen av om særlige grunner taler for det, kan det blant annet legges vekt på sakens art, herunder om saken objektivt sett berører søkeren i særlig sterk grad og konsekvensene av et eventuelt rettstap for søkeren, søkerens mulighet til å ivareta sine rettslige interesser i saken, styrkeforholdet mellom partene og om saken er prinsipiell.
 
-Det innvilges ikke fri sakførsel etter annet til fjerde ledd dersom det er urimelig at det offentlige betaler for bistanden.
+Det innvilges ikke fri sakførsel etter annet ledd dersom det er urimelig at det offentlige betaler for bistanden.
 
 Departementet gir forskrift om det økonomiske vilkåret og utregningen av dette. Herunder kan departementet også gi regler om det økonomiske vilkåret for personer som er bosatt i utlandet og som søker om fri rettshjelp med behovsprøving.
 
-> Tilføyd ved lov [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), endring endret ved lov [21 des 2005 nr. 130](lov/2005-12-21-130)), endret ved lover [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1608](forskrift/2005-12-21-1608)), [30 juni 2006 nr. 36](lov/2006-06-30-36) (ikr. 1 sep 2006 iflg. [res. 30 juni 2006 nr. 753](forskrift/2006-06-30-753)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [18 des 2015 nr. 126](lov/2015-12-18-126) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1625](forskrift/2015-12-18-1625)), [16 des 2016 nr. 97](lov/2016-12-16-97) (ikr. 1 jan 2017), [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [6 mai 2022 nr. 27](lov/2022-05-06-27) (i kraft 1 juli 2022 iflg. [res. 6 mai 2022 nr. 758](forskrift/2022-05-06-758)), [20 des 2022 nr. 115](lov/2022-12-20-115), [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), endring endret ved lov [21 des 2005 nr. 130](lov/2005-12-21-130)), endret ved lover [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1608](forskrift/2005-12-21-1608)), [30 juni 2006 nr. 36](lov/2006-06-30-36) (ikr. 1 sep 2006 iflg. [res. 30 juni 2006 nr. 753](forskrift/2006-06-30-753)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [18 des 2015 nr. 126](lov/2015-12-18-126) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1625](forskrift/2015-12-18-1625)), [16 des 2016 nr. 97](lov/2016-12-16-97) (ikr. 1 jan 2017), [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [6 mai 2022 nr. 27](lov/2022-05-06-27) (i kraft 1 juli 2022 iflg. [res. 6 mai 2022 nr. 758](forskrift/2022-05-06-758)), [20 des 2022 nr. 115](lov/2022-12-20-115), [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 17. Fri sakførsel for visse forvaltningsorganer.
 
@@ -323,11 +324,9 @@ Fritak for rettsgebyr kan gis som del av bevilling til fri sakførsel etter [§ 
 
 Den som ikke har krav på fri sakførsel, kan gis fritak for rettsgebyr dersom det økonomiske vilkåret i [§ 16 annet](lov/1980-06-13-35/§16/ledd/2) og [tredje ledd](lov/1980-06-13-35/§16/ledd/2) er oppfylt. Fritak gis av den som har myndighet til å gi bevilling til fri sakførsel i saken.
 
-I skiftesaker kan domstolen gi fritak for rettsgebyr, dersom det økonomiske vilkåret i [§ 16 annet](lov/1980-06-13-35/§16/ledd/2) og [tredje ledd](lov/1980-06-13-35/§16/ledd/2) er oppfylt.
-
 Søknad om fritak for rettsgebyr kan avslås når det ikke er rimelig at det offentlige gir slik støtte.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), tidligere § 27), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), tidligere § 27), [20 des 2023 nr. 109](lov/2023-12-20-109) (i kraft 15 okt 2025 iflg. [res. 19 sep 2025 nr. 1881](forskrift/2025-09-19-1881)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ## Kapittel V. Klageregler m.v.
 
