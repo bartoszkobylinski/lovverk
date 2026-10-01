@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2025-01-01"
-last_change_in_force: "2024-06-21"
+last_change_in_force: "2026-10-01"
 last_updated: null
-xml_hash: "20b9b77b63bbaae984bbefe007d181f355028ab7794ccac07100c9621008556a"
+xml_hash: "7d975f9ed41c26b6fcc74439983e7d94992862a3fd4794d8fc961ee653669f07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis:
   - "32005L0036"
@@ -687,7 +687,7 @@ Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de en
 
 (4) En person som har adgang til å utøve advokatvirksomhet på foretakets vegne i medhold av [domstolloven § 231 femte ledd](lov/1915-08-13-5/§231/ledd/5) slik denne bestemmelsen lød før [advokatloven](lov/2022-05-12-28) trådte i kraft, kan fortsette å utøve slik advokatvirksomhet inntil to år etter at [advokatloven](lov/2022-05-12-28) har trådt i kraft.
 
-(5) Den som er jurist når [advokatloven](lov/2022-05-12-28) trer i kraft og som har gitt melding til Tilsynsrådet for advokatvirksomhet om at vedkommende driver rettshjelpvirksomhet etter [forskrift 20. desember 1996 nr. 1161 til domstolloven kapittel 11 § 1-1](forskrift/1996-12-20-1161/§1-1), kan yte fritt rettsråd etter [rettshjelploven](lov/1980-06-13-35) i inntil to år etter at [advokatloven](lov/2022-05-12-28) har trådt i kraft.
+(5) Den som er jurist når [advokatloven](lov/2022-05-12-28) trer i kraft og som har gitt melding til Tilsynsrådet for advokatvirksomhet om at vedkommende driver rettshjelpvirksomhet etter [forskrift 20. desember 1996 nr. 1161 til domstolloven kapittel 11 § 1-1](forskrift/1996-12-20-1161/§1-1), kan yte fritt rettsråd etter [rettshjelpsloven](lov/1980-06-13-35) i inntil to år etter at [advokatloven](lov/2022-05-12-28) har trådt i kraft.
 
 (6) Den som har juridisk utdanning fra en annen stat og bruker tittelen jurist før [advokatloven](lov/2022-05-12-28) trer i kraft, kan fortsette å bruke tittelen inntil vedkommende får avslag på søknad om godkjenning fra Advokattilsynet. Retten til å bruke tittelen faller likevel bort dersom det ikke er søkt om godkjenning innen ett år etter at [advokatloven](lov/2022-05-12-28) har trådt i kraft.
 
@@ -707,7 +707,7 @@ Loven gjelder fra den tiden[^1] Kongen bestemmer. Kongen kan sette i kraft de en
 
 (14) Departementet kan gi nærmere overgangsregler.
 
-> Tilføyd ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Tilføyd ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46), endret ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 74. Endringer i andre lover
 
