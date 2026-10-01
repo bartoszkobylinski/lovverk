@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-01-01"
 last_change_in_force: "2022-09-01"
 last_updated: null
-xml_hash: "95c7b8bfd5463cffd093867091b62104a07ec5c62088eb8ecbac90029f2ea1ca"
+xml_hash: "1cd3ff3729ff56ea8d18a10cc2aacf3c71b000445f8a03f7685767a49008a9b2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,6 +90,8 @@ Luftfartstilsynet kan i tillegg fastsette, eller foreslå for Samferdselsdeparte
 
 Soner og områder etter tredje ledd kan etableres i enhver del av luftrommet, og kan overlappe med soner og områder etter andre ledd.
 
+> **Endres** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
+
 ### § 6. Hvordan luftrommet klassifiseres
 
 Luftrommet klassifiseres som luftromsklasse A, C, D og G, i samsvar med SERA.6001 i kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923), som gjennomført i SERA-forskriften, og slik at
@@ -139,6 +141,8 @@ Luftfartstilsynet skal, om ikke annet besluttes etter andre ledd, fastsette et k
 
 Dersom lufttrafikktjenesten mener at sikkerheten ivaretas i form av et ikke-kontrollert luftrom, kan den søke om å opprettholde et etablert trafikkinformasjonsområde, eller å omgjøre et kontrollområde til et trafikkinformasjonsområde. Søknaden skal inneholde en sikkerhetsvurdering som er utarbeidet i samarbeid med berørte parter, og som viser et akseptabelt sikkerhetsnivå for luftrommet. Endres trafikkvolumet eller trafikksammensetningen vesentlig på et senere tidspunkt, skal lufttrafikktjenesten på eget initiativ, eller etter pålegg fra Luftfartstilsynet, fremlegge en oppdatert sikkerhetsvurdering.
 
+> **Endres** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
+
 ### § 11. Særskilte avtaler om bruk av kontrollert luftrom
 
 Flygekontrolltjenesten kan inngå særskilte avtaler om bruk av det luftrommet den har ansvar for. Dersom avtalen gjelder kontrollsoner, skal flyplassoperatører i kontrollsonen være part i avtalen.
@@ -149,6 +153,8 @@ Flygekontrolltjenesten kan inngå særskilte avtaler om bruk av det luftrommet d
 
 Luftfartstilsynet kan etablere trafikkinformasjonssoner, trafikkinformasjonsområder, trafikksoner for helikopter og ADS-områder i ikke-kontrollert luftrom.
 
+> **Endres** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
+
 ### § 13. Trafikkinformasjonssoner (TIZ)
 
 En trafikkinformasjonssone skal omfatte IFR- og VFR-ruteføringer til eller fra flyplasser i trafikkinformasjonssonen. Trafikkinformasjonssonen skal gå fra bakken og opp til en øvre grense som er sammenfallende med de nedre grensene for overliggende trafikkinformasjons- eller kontrollområder.
@@ -156,6 +162,8 @@ En trafikkinformasjonssone skal omfatte IFR- og VFR-ruteføringer til eller fra 
 Berørte flyplassoperatører skal, i samråd med lufttrafikktjenesten, utrede og foreslå å etablere eller endre en trafikkinformasjonssone i tilknytning til berørte flyplasser med flygeinformasjonstjeneste på flyplassen (AFIS), dersom de mener at behovene for trafikkinformasjonssonen er endret. Luftfartstilsynet kan pålegge flyplassoperatørene de samme oppgavene dersom Luftfartstilsynet finner det klart at behovene for trafikkinformasjonssonen er endret.
 
 Trafikkinformasjonssoner fastsettes av Luftfartstilsynet.
+
+> **Endres** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
 
 ### § 14. Trafikkinformasjonsområder (TIA)
 
@@ -172,11 +180,15 @@ Det skal fastsettes en øvre grense for et trafikkinformasjonsområde hvis ett a
 
 I tilfeller som nevnt i fjerde ledd bokstav b skal trafikkinformasjonsområdet ha sammenfallende grense med det overliggende kontrollområdet, og grensen skal fastsettes som et VFR-flygenivå.
 
+> **Endres** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
+
 ### § 15. Trafikksoner for helikopter (HTZ)
 
 Der det ytes flygeinformasjonstjeneste i tilknytning til petroleumsvirksomhet på kontinentalsokkelen kan Luftfartstilsynet fastsette en trafikksone for helikopter (HTZ) rundt innretninger på kontinentalsokkelen, med unntak av skip, som er utstyrt med helikopterdekk.
 
 En trafikksone etter første ledd skal i bredden ha en utstrekning som omslutter aktuelle helikopterdekk med en buffer på minst 7 nautiske mil. I høyden skal trafikksonen ha en utstrekning fra havflaten opp til og med 2000 fot over middelvann (AMSL), eller opp til den nedre grensen for et overliggende kontrollområde.
+
+> **Oppheves** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
 
 ### § 16. ADS-områder
 
@@ -185,6 +197,8 @@ Lufttrafikktjenesten skal utrede og foreslå etablering eller endring av ADS-omr
 ADS-områder skal i bredden ha en utstrekning som omslutter aktuelle helikopterruter med en buffer på minst 5 nautiske mil. I høyden skal ADS-områder ha en utstrekning fra havflaten opp til og med flygenivå 085 over middelvann (AMSL), eller opp til den nedre grensen for et overliggende kontrollområde.
 
 ADS-områder fastsettes av Luftfartstilsynet.
+
+> **Oppheves** ved forskrift [28 sep 2026 nr. 1930](forskrift/2026-09-28-1930) (i kraft 10 juni 2027).
 
 ## Kapittel 5 – Luftromsrestriksjoner og andre endringer i gjeldende luftromsorganisering
 
