@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2014-01-10"
-last_change_in_force: "2026-03-20"
+last_change_in_force: "2026-09-25"
 last_updated: "2021-07-16"
-xml_hash: "c1acfa6198518a0f25ec976ad5713bc96f88b74ccb6d5362fed9aa9a84c89073"
+xml_hash: "653679504932b7c254c9d5e9cdf7435b906da927277adef91529b0fb65311309"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,9 +38,9 @@ eu_basis: []
 
 ## § 1b. Gjennomføring av forordning (EU) 2016/127
 
-[EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 77b (forordning [(EU) 2016/127](eu/32016r0127) som endret ved forordning [(EU) 2018/561](eu/32018r0561), forordning [(EU) 2019/828](eu/32019r0828), forordning [(EU) 2021/572](eu/32021r0572), forordning [(EU) 2021/1041](eu/32021r1041), forordning [(EU) 2022/519](eu/32022r0519), forordning [(EU) 2023/589](eu/32023r0589), forordning [(EU) 2024/2684](eu/32024r2684) og forordning [(EU) 2025/2017](eu/32025r2017)) om utfylling av europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til bestemte sammensetnings- og informasjonskrav til morsmelkerstatninger og tilskuddsblandinger og med hensyn til kravene til informasjon om spedbarns- og småbarnsernæring, gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 77b (forordning [(EU) 2016/127](eu/32016r0127) som endret ved forordning [(EU) 2018/561](eu/32018r0561), forordning [(EU) 2019/828](eu/32019r0828), forordning [(EU) 2021/572](eu/32021r0572), forordning [(EU) 2021/1041](eu/32021r1041), forordning [(EU) 2022/519](eu/32022r0519), forordning [(EU) 2023/589](eu/32023r0589), forordning [(EU) 2024/2684](eu/32024r2684), forordning [(EU) 2025/2017](eu/32025r2017) og forordning [(EU) 2026/743](eu/32026r0743)) om utfylling av europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til bestemte sammensetnings- og informasjonskrav til morsmelkerstatninger og tilskuddsblandinger og med hensyn til kravene til informasjon om spedbarns- og småbarnsernæring, gjelder som forskrift med de tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved [forskrift 29 okt 2016 nr. 1285](forskrift/2016-10-29-1285), endret ved [forskrifter 10 juli 2018 nr. 1174](forskrift/2018-07-10-1174), [16 des 2019 nr. 1812](forskrift/2019-12-16-1812), [12 juli 2021 nr. 2412](forskrift/2021-07-12-2412), [13 des 2021 nr. 3702](forskrift/2021-12-13-3702), [6 feb 2023 nr. 151](forskrift/2023-02-06-151), [23 sep 2023 nr. 1537](forskrift/2023-09-23-1537), [17 mars 2025 nr. 474](forskrift/2025-03-17-474), [20 mars 2026 nr. 470](forskrift/2026-03-20-470).
+> Tilføyd ved [forskrift 29 okt 2016 nr. 1285](forskrift/2016-10-29-1285), endret ved [forskrifter 10 juli 2018 nr. 1174](forskrift/2018-07-10-1174), [16 des 2019 nr. 1812](forskrift/2019-12-16-1812), [12 juli 2021 nr. 2412](forskrift/2021-07-12-2412), [13 des 2021 nr. 3702](forskrift/2021-12-13-3702), [6 feb 2023 nr. 151](forskrift/2023-02-06-151), [23 sep 2023 nr. 1537](forskrift/2023-09-23-1537), [17 mars 2025 nr. 474](forskrift/2025-03-17-474), [20 mars 2026 nr. 470](forskrift/2026-03-20-470), [25 sep 2026 nr. 1923](forskrift/2026-09-25-1923).
 
 ## § 1c. Gjennomføring av forordning (EU) 2017/1798
 
@@ -1456,20 +1456,21 @@ på norsk: «Næringsmiddel til spesielle medisinske formål»
 
 ### Forordning (EU) 2016/127
 
-> Tilføyd ved [forskrift 29 okt 2016 nr. 1285](forskrift/2016-10-29-1285), endret ved [forskrifter 10 juli 2018 nr. 1174](forskrift/2018-07-10-1174), [16 des 2019 nr. 1812](forskrift/2019-12-16-1812), [12 juli 2021 nr. 2412](forskrift/2021-07-12-2412), [13 des 2021 nr. 3702](forskrift/2021-12-13-3702), [6 feb 2023 nr. 151](forskrift/2023-02-06-151), [23 sep 2023 nr. 1537](forskrift/2023-09-23-1537), [17 mars 2025 nr. 474](forskrift/2025-03-17-474), [20 mars 2026 nr. 470](forskrift/2026-03-20-470).
+> Tilføyd ved [forskrift 29 okt 2016 nr. 1285](forskrift/2016-10-29-1285), endret ved [forskrifter 10 juli 2018 nr. 1174](forskrift/2018-07-10-1174), [16 des 2019 nr. 1812](forskrift/2019-12-16-1812), [12 juli 2021 nr. 2412](forskrift/2021-07-12-2412), [13 des 2021 nr. 3702](forskrift/2021-12-13-3702), [6 feb 2023 nr. 151](forskrift/2023-02-06-151), [23 sep 2023 nr. 1537](forskrift/2023-09-23-1537), [17 mars 2025 nr. 474](forskrift/2025-03-17-474), [20 mars 2026 nr. 470](forskrift/2026-03-20-470), [25 sep 2026 nr. 1923](forskrift/2026-09-25-1923).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/127](eu/32016r0127). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2018/561](eu/32018r0561), forordning [(EU) 2019/828](eu/32019r0828), forordning [(EU) 2021/572](eu/32021r0572), forordning [(EU) 2021/1041](eu/32021r1041), forordning [(EU) 2022/519](eu/32022r0519), forordning [(EU) 2023/589](eu/32023r0589), forordning [(EU) 2024/2684](eu/32024r2684) og forordning [(EU) 2025/2017](eu/32025r2017). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77b er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/127](eu/32016r0127). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2018/561](eu/32018r0561), forordning [(EU) 2019/828](eu/32019r0828), forordning [(EU) 2021/572](eu/32021r0572), forordning [(EU) 2021/1041](eu/32021r1041), forordning [(EU) 2022/519](eu/32022r0519), forordning [(EU) 2023/589](eu/32023r0589), forordning [(EU) 2024/2684](eu/32024r2684), forordning [(EU) 2025/2017](eu/32025r2017) og forordning [(EU) 2026/743](eu/32026r0743). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 77b er innarbeidet nedenfor.
 
 ► **B** Forordning [(EU) 2016/127](eu/32016r0127)
 
-- ► **M1** Forordning [(EU) 2018/561](eu/32018r0561)
-- ► **M2** Forordning [(EU) 2019/828](eu/32019r0828)
-- ► **M3** Forordning [(EU) 2021/572](eu/32021r0572)
-- ► **M4** Forordning [(EU) 2021/1041](eu/32021r1041)
-- ► **M5** Forordning [(EU) 2022/519](eu/32022r0519)
+- ►**M1** Forordning [(EU) 2018/561](eu/32018r0561)
+- ►**M2** Forordning [(EU) 2019/828](eu/32019r0828)
+- ►**M3** Forordning [(EU) 2021/572](eu/32021r0572)
+- ►**M4** Forordning [(EU) 2021/1041](eu/32021r1041)
+- ►**M5** Forordning [(EU) 2022/519](eu/32022r0519)
 - ►**M6** Forordning [(EU) 2023/589](eu/32023r0589)
 - ►**M7** Forordning [(EU) 2024/2684](eu/32024r2684)
 - ►**M8** Forordning [(EU) 2025/2017](eu/32025r2017)
+- ►**M9** Forordning [(EU) 2026/743](eu/32026r0743)
 - ► EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2016/127](eu/32016r0127)
@@ -1765,17 +1766,17 @@ Ved samme energiinnhold skal morsmelkerstatninger produsert på grunnlag av soya
 
 Innholdet av L-karnitin skal være minst 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
-►**M8**
+►**M9**
 
 2.3.
 
 Morsmelkerstatninger framstilt av proteinhydrolysater
 
-Morsmelkerstatninger framstilt av proteinhydrolysater skal oppfylle de proteinrelaterte kravene fastsatt i punkt 2.3.1, punkt 2.3.2, punkt 2.3.3, punkt 2.3.4 eller punkt 2.3.5.
+Morsmelkerstatning framstilt av proteinhydrolysater skal oppfylle de proteinrelaterte kravene fastsatt i punkt 2.3.1, 2.3.2, 2.3.3, 2.3.4, 2.3.5 eller 2.3.6.
 
 2.3.1.
 
-Proteinrelaterte krav gruppe A
+Proteinrelaterte krav – gruppe A
 
 2.3.1.1.
 
@@ -1790,16 +1791,16 @@ Proteininnhold
 
 Proteinkilde
 
-Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin, bestående av
+Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin bestående av
 
-1. 63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %, og
+1. 63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %,
 2. 37 % proteinkonsentrat av søt myse med et proteininnhold på minst 87 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3,5 %.
 
 2.3.1.3.
 
 Proteinbehandling
 
-Hydrolyseprosess i to trinn ved bruk av et trypsinpreparat med et varmebehandlingstrinn (3–10 minutter ved 80–100 °C) mellom de to hydrolysetrinnene.
+Totrinns hydrolyseprosess ved bruk av et trypsinpreparat med et varmebehandlingstrinn (3–10 minutter ved 80–100 °C) mellom de to hydrolysetrinnene.
 
 2.3.1.4.
 
@@ -1811,7 +1812,7 @@ Innholdet av L-karnitin skal være minst 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
 2.3.2.
 
-Proteinrelaterte krav gruppe B
+Proteinrelaterte krav – gruppe B
 
 2.3.2.1.
 
@@ -1826,16 +1827,16 @@ Proteininnhold
 
 Proteinkilde
 
-Myseprotein fra kumelk, bestående av
+Myseprotein fra kumelk bestående av
 
-1. 77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %, og
+1. 77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %,
 2. 23 % søt myse fra avmineralisert søt myse med et proteininnhold på minst 12,5 %.
 
 2.3.2.3.
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,5 til 8,5 og en temperatur på 55 til 70 °C ved hjelp av en enzymblanding av serin-endopeptidase og et protease/peptidase-kompleks. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 120–150 °C) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,5–8,5 og en temperatur på 55–70 °C ved hjelp av en enzymblanding av en serin-endopeptidase og et protease/peptidase-kompleks. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 120–150°C) under produksjonsprosessen.
 
 2.3.2.4.
 
@@ -1862,13 +1863,13 @@ Proteininnhold
 
 Proteinkilde
 
-Myseprotein fra kumelk, bestående av 100 % proteinkonsentrat av søt myse med et proteininnhold på minst 80 %.
+Myseprotein fra kumelk bestående av 100 % proteinkonsentrat av søt myse med et proteininnhold på minst 80 %.
 
 2.3.3.3.
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Før hydrolysen justeres pH til 6,5–7,5 ved en temperatur på 50–65 °C. Hydrolysen utføres ved hjelp av en enzymblanding av serinendopeptidase og metalloprotease. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 110–140 °C) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Før hydrolysen justeres pH til 6,5–7,5 ved en temperatur på 50–65 °C. Hydrolysen utføres ved hjelp av en enzymblanding av en serin-endopeptidase og en metalloprotease. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 110–140°C) under produksjonsprosessen.
 
 2.3.3.4.
 
@@ -1901,7 +1902,7 @@ Myseprotein fra kumelk bestående av 100 % proteinkonsentrat av søt myse med e
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,0–8,0 og en temperatur på 50–60 °C ved hjelp av en hydrolyseprosess i to trinn ved bruk av en serin-endopeptidase og en metalloprotease. Næringsmiddelenzymene inaktiveres ved varmebehandling (100–120 °C i minst 30 sekunder) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,0–8,0 og en temperatur på 50–60 °C ved hjelp av en hydrolyseprosess i to trinn ved bruk av en serin-endopeptidase og en metalloprotease. Næringsmiddelenzymene inaktiveres ved varmebehandling (ved 100–120 °C i minst 30 sekunder) under produksjonsprosessen.
 
 2.3.4.4.
 
@@ -1913,7 +1914,7 @@ Innholdet av L-karnitin skal være minst 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
 2.3.5.
 
-Proteinrelaterte krav gruppe E
+Proteinrelaterte krav – gruppe E
 
 2.3.5.1.
 
@@ -1934,7 +1935,7 @@ Myseprotein fra kumelk, bestående av 100 % proteinkonsentrat av myse med et pr
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet justeres pH til 7–8, ved en temperatur på 50–70 °C, ved hjelp av en hydrolyseprosess i to trinn med bruk av serin-endopeptidase. Næringsmiddelenzymene inaktiveres ved varmebehandling (ved 80–90 °C i 25–35 minutter) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet justeres pH til 7–8, ved en temperatur på 50–70 °C, ved hjelp av en hydrolyseprosess i to trinn med bruk av serin-endopeptidase. Næringsmiddelenzymene inaktiveres ved varmebehandling (ved 80–90 °C i 25–35 minutter) under produksjonsprosessen.
 
 2.3.5.4.
 
@@ -1944,7 +1945,40 @@ Ved samme energiinnhold skal morsmelkerstatninger framstilt av proteinhydrolysat
 
 Innholdet av L-karnitin skal være minst 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
-◄**M8**
+2.3.6.
+
+Proteinrelaterte krav – gruppe F
+
+2.3.6.1.
+
+Proteininnhold
+
+| *Minst* | *Høyst* |
+| --- | --- |
+| 0,55 g/100 kJ | 0,67 g/100 kJ |
+| (2,3 g/100 kcal) | (2,8 g/100 kcal) |
+
+2.3.6.2.
+
+Proteinkilde
+
+Blandinger av kilder til skummet kumelk og myseproteinkonsentrater med et opprinnelig forhold mellom myse og kasein på 60:40.
+
+2.3.6.3.
+
+Proteinbehandling
+
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 6,9–7,6 og en temperatur på 50–55,5 °C ved bruk av en metalloprotease. Næringsmiddelenzymet inaktiveres ved varmebehandling (fra 17 sekunder til 10 minutter ved 80–85 °C, og om nødvendig, etterfulgt av en termisk prosess opp til 140 °C i 0,5 sekund) under produksjonsprosessen.
+
+2.3.6.4.
+
+Essensielle og betinget essensielle aminosyrer og L-karnitin
+
+Ved samme energiinnhold skal morsmelkerstatninger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid innholdet av metionin og cystein legges sammen dersom forholdet metionin/cystein ikke er større enn 2, og innholdet av fenylalanin og tyrosin kan legges sammen dersom forholdet tyrosin/fenylalanin ikke er større enn 2. Forholdet metionin/cystein og tyrosin/fenylalanin kan være større enn 2, forutsatt at det aktuelle produktets egnethet for spedbarn dokumenteres i samsvar med artikkel 3 nr. 3.
+
+Innholdet av L-karnitin skal være minst 0,3 mg/100 kJ (1,2 mg/100 kcal).
+
+◄**M9**
 
 2.4.
 
@@ -2240,17 +2274,17 @@ Bare proteinisolater av soya skal brukes ved produksjon av slik tilskuddsblandin
 
 Ved samme energiinnhold skal tilskuddsblandinger produsert på grunnlag av soyaproteinisolater, alene eller blandet med kumelk- eller geitemelkproteiner, inneholde minst like stor mengde av hver essensielle eller betinget essensielle aminosyre som referanseproteinet fastsatt i vedlegg III avsnitt A. Ved beregningen kan innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin imidlertid legges sammen.
 
-►**M8**
+►**M9**
 
 2.3.
 
 Tilskuddsblandinger framstilt av proteinhydrolysater
 
-Tilskuddsblandinger framstilt av proteinhydrolysater skal oppfylle de proteinrelaterte kravene fastsatt i punkt 2.3.1, punkt 2.3.2, punkt 2.3.3, punkt 2.3.4 eller punkt 2.3.5.
+Tilskuddsblandinger framstilt av proteinhydrolysater skal oppfylle de proteinrelaterte kravene fastsatt i punkt 2.3.1, 2.3.2, 2.3.3, 2.3.4, 2.3.5 eller 2.3.6.
 
 2.3.1.
 
-Proteinrelaterte krav gruppe A
+Proteinrelaterte krav – gruppe A
 
 2.3.1.1.
 
@@ -2265,22 +2299,22 @@ Proteininnhold
 
 Proteinkilde
 
-Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin, bestående av
+Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin bestående av
 
-1. 63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %, og
+1. 63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %,
 2. 37 % proteinkonsentrat av søt myse med et proteininnhold på minst 87 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3,5 %.
 
 2.3.1.3.
 
 Proteinbehandling
 
-Hydrolyseprosess i to trinn ved bruk av et trypsinpreparat med et varmebehandlingstrinn (3–10 minutter ved 80–100 °C) mellom de to hydrolysetrinnene.
+Totrinns hydrolyseprosess ved bruk av et trypsinpreparat med et varmebehandlingstrinn (3–10 minutter ved 80–100 °C) mellom de to hydrolysetrinnene.
 
 2.3.1.4.
 
 Essensielle og betinget essensielle aminosyrer
 
-Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt B. Ved beregningen kan imidlertid innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin legges sammen.
+Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt B. Ved beregningen kan imidlertid konsentrasjonen av metionin og cystein og konsentrasjonen av fenylalanin og tyrosin legges sammen.
 
 2.3.2.
 
@@ -2299,26 +2333,26 @@ Proteininnhold
 
 Proteinkilde
 
-Myseprotein fra kumelk, bestående av
+Myseprotein fra kumelk bestående av
 
-1. 77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %, og
+1. 77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %,
 2. 23 % søt myse fra avmineralisert søt myse med et proteininnhold på minst 12,5 %.
 
 2.3.2.3.
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,5 til 8,5 og en temperatur på 55 til 70 °C ved hjelp av en enzymblanding av serin-endopeptidase og et protease/peptidase-kompleks. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 120–150 °C) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,5–8,5 og en temperatur på 55–70 °C ved hjelp av en enzymblanding av en serin-endopeptidase og et protease/peptidase-kompleks. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 120–150°C) under produksjonsprosessen.
 
 2.3.2.4.
 
 Essensielle og betinget essensielle aminosyrer
 
-Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin legges sammen.
+Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid konsentrasjonen av metionin og cystein og konsentrasjonen av fenylalanin og tyrosin legges sammen.
 
 2.3.3.
 
-Proteinrelaterte krav gruppe C
+Proteinrelaterte krav – gruppe C
 
 2.3.3.1.
 
@@ -2333,19 +2367,19 @@ Proteininnhold
 
 Proteinkilde
 
-Myseprotein fra kumelk, bestående av 100 % proteinkonsentrat av søt myse med et proteininnhold på minst 80 %.
+Myseprotein fra kumelk bestående av 100 % proteinkonsentrat av søt myse med et proteininnhold på minst 80 %.
 
 2.3.3.3.
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Før hydrolysen justeres pH til 6,5–7,5 ved en temperatur på 50–65 °C. Hydrolysen utføres ved hjelp av en enzymblanding av serinendopeptidase og metalloprotease. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 110–140 °C) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Før hydrolysen justeres pH til 6,5–7,5 ved en temperatur på 50–65 °C. Hydrolysen utføres ved hjelp av en enzymblanding av en serin-endopeptidase og en metalloprotease. Næringsmiddelenzymene inaktiveres i et varmebehandlingstrinn (2–10 sekunder ved 110–140°C) under produksjonsprosessen.
 
 2.3.3.4.
 
 Essensielle og betinget essensielle aminosyrer
 
-Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin legges sammen.
+Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid konsentrasjonen av metionin og cystein og konsentrasjonen av fenylalanin og tyrosin legges sammen.
 
 2.3.4.
 
@@ -2370,17 +2404,17 @@ Myseprotein fra kumelk bestående av 100 % proteinkonsentrat av søt myse med e
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,0–8,0 og en temperatur på 50–60 °C ved hjelp av en hydrolyseprosess i to trinn ved bruk av en serin-endopeptidase og en metalloprotease. Næringsmiddelenzymene inaktiveres ved varmebehandling (100–120 °C i minst 30 sekunder) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 7,0–8,0 og en temperatur på 50–60 °C ved hjelp av en hydrolyseprosess i to trinn ved bruk av en serin-endopeptidase og en metalloprotease. Næringsmiddelenzymene inaktiveres ved varmebehandling (ved 100–120 °C i minst 30 sekunder) under produksjonsprosessen.
 
 2.3.4.4.
 
 Essensielle og betinget essensielle aminosyrer
 
-Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin legges sammen.
+Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid konsentrasjonen av metionin og cystein og konsentrasjonen av fenylalanin og tyrosin legges sammen.
 
 2.3.5.
 
-Proteinrelaterte krav gruppe E
+Proteinrelaterte krav – gruppe E
 
 2.3.5.1.
 
@@ -2401,15 +2435,46 @@ Myseprotein fra kumelk, bestående av 100 % proteinkonsentrat av myse med et pr
 
 Proteinbehandling
 
-Kildematerialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet justeres pH til 7–8, ved en temperatur på 50–70 °C, ved hjelp av en hydrolyseprosess i to trinn med bruk av serin-endopeptidase. Næringsmiddelenzymene inaktiveres ved varmebehandling (ved 80–90 °C i 25–35 sekunder) under framstillingsprosessen.
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet justeres pH til 7–8, ved en temperatur på 50–70 °C, ved hjelp av en hydrolyseprosess i to trinn med bruk av serin-endopeptidase. Næringsmiddelenzymene inaktiveres ved varmebehandling (ved 80–90 °C i 25–35 minutter) under produksjonsprosessen.
 
 2.3.5.4.
 
 Essensielle og betinget essensielle aminosyrer
 
+Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid konsentrasjonen av metionin og cystein og konsentrasjonen av fenylalanin og tyrosin legges sammen.
+
+2.3.6.
+
+Proteinrelaterte krav – gruppe F
+
+2.3.6.1.
+
+Proteininnhold
+
+| *Minst* | *Høyst* |
+| --- | --- |
+| 0,55 g/100 kJ | 0,67 g/100 kJ |
+| (2,3 g/100 kcal) | (2,8 g/100 kcal) |
+
+2.3.6.2.
+
+Proteinkilde
+
+Blandinger av kilder til skummet kumelk og myseproteinkonsentrater med et opprinnelig forhold mellom myse og kasein på 60:40.
+
+2.3.6.3.
+
+Proteinbehandling
+
+Utgangsmaterialet hydratiseres og varmes opp. Etter varmebehandlingstrinnet utføres hydrolysen ved en pH på 6,9–7,6 og en temperatur på 50–55,5 °C ved bruk av en metalloprotease. Næringsmiddelenzymet inaktiveres ved varmebehandling (fra 17 sekunder til 10 minutter ved 80–85 °C, og om nødvendig, etterfulgt av en termisk prosess opp til 140 °C i 0,5 sekund) under produksjonsprosessen.
+
+2.3.6.4.
+
+Essensielle og betinget essensielle aminosyrer
+
 Ved samme energiinnhold skal tilskuddsblandinger framstilt av proteinhydrolysater inneholde minst like stor tilgjengelig mengde av hver essensielle og betinget essensielle aminosyre som referanseproteinet angitt i vedlegg III avsnitt A. Ved beregningen kan imidlertid innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin legges sammen.
 
-◄**M8**
+◄**M9**
 
 2.4.
 
@@ -2638,11 +2703,11 @@ Ved anvendelsen av nr. 2 i vedlegg I og II skal morsmelk brukes som referansepro
 
 ### ►**M5** A. Morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av kumelk- eller geitemelkproteiner og morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av soyaproteinisolater, alene eller blandet med kumelk- eller geitemelkproteiner og morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag proteinhydrolysater ◄**M5**
 
-►**M8**
+►**M9**
 
-Med henblikk på punkt 2.1, 2.2, 2.3.2, 2.3.3, 2.3.4 og 2.3.5 i vedlegg I og II er de essensielle og betinget essensielle aminosyrene i morsmelk, uttrykt i mg per 100 kJ og 100 kcal, følgende:
+Med henblikk på punkt 2.1, 2.2, 2.3.2, 2.3.3, 2.3.4, 2.3.5 og 2.3.6 i vedlegg I og II er de essensielle og betinget essensielle aminosyrene i morsmelk, uttrykt i mg per 100 kJ og 100 kcal, følgende:
 
-◄**M8**
+◄**M9**
 
 |  | *Per 100 kJ*[^1] | *Per 100 kcal* |
 | --- | --- | --- |
