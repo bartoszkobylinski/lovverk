@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-09-28"
 last_updated: null
-xml_hash: "20827fc31ebc75f50dfe3d1f0865813cbde2f6bb643b7486e3eedd943a5b0e81"
+xml_hash: "39c1c344a7f8b314ccb83c715b5042426aad3a0c882e75e8d4aa214b0c9ae026"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,17 +24,29 @@ eu_basis: []
 
 ## § 1. Formål
 
-Forskriftens formål er å sikre at offentlig anskaffelse av kjøretøy bidrar til å fremme og stimulere markedet for nullutslippsløsninger i veitransporten.
+Forskriftens formål er å sikre at offentlige oppdragsgivere og oppdragsgivere ved anskaffelse av visse kjøretøyer til veitransport tar hensyn til energi- og miljøvirkninger gjennom hele kjøretøyenes levetid, herunder energiforbruk samt utslipp av CO2 og visse forurensende stoffer, med det formålet å fremme og å stimulere markedet for rene og energieffektive kjøretøyer samt å øke transportsektorens bidrag til miljø-, klima- og energipolitikken innen EØS.
+
+> Endret ved forskrift [28 sep 2026 nr. 1932](forskrift/2026-09-28-1932).
 
 ## § 2. Virkeområde
 
-Forskriften gjelder kontrakter for alle anskaffelser av kjøretøy til veitransport. Dette omfatter blant annet kjøp, avbetalingskjøp, leasing og leie av kjøretøy både ved inngåelse eller fornyelse av rammeavtale og ved avrop på eksisterende rammeavtale.
+Forskriften gjelder kontrakter for alle anskaffelser av kjøretøy til veitransport. Dette omfatter blant annet kjøp, avbetalingskjøp, leasing, leie og leiekjøp av kjøretøy både ved inngåelse eller fornyelse av rammeavtale og ved avrop på eksisterende rammeavtale.
 
 Forskriften gjelder anskaffelser som foretas av:
 
 1. offentlig oppdragsgiver omfattet av [forskrift 12. august 2016 nr. 974 om offentlige anskaffelser (anskaffelsesforskriften)](forskrift/2016-08-12-974) og [forskrift 12. august 2016 nr. 975 om innkjøpsregler i forsyningssektorene (forsyningsforskriften)](forskrift/2016-08-12-975).
-2. operatør med løyve for persontransport etter [lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)](lov/2002-06-21-45), eller med løyvefritak etter samme lov, som skal oppfylle offentlig tjenesteplikt i henhold til [forskrift 17. desember 2010 nr. 1673 om gjennomføring i norsk rett av EØS-avtalen vedlegg XIII nr. 4a (forordning (EF) nr. 1370/2007) om offentlig persontransport med jernbane og på vei og om oppheving av rådsforordning (EØF) nr. 1191/69 og nr. 1107/70](forskrift/2010-12-17-1673).
-3. underleverandør til operatør nevnt i bokstav b.
+2. offentlige tjenestekontrakter i henhold til kolletivtransportforordningen [(EF) nr. 1370/2007](eu/32007r1370) og som tilbyr passasjertransport på vei.
+
+For oppdragsgivere som omfattes av [forskrift 12. august 2016 nr. 974 om offentlige anskaffelser (anskaffelsesforskriften)](forskrift/2016-08-12-974) og [forskrift 12. august 2016 nr. 975 om innkjøpsregler i forsyningssektorene (forsyningsforskriften)](forskrift/2016-08-12-975), gjelder forskriften også anskaffelser gjennom offentlige tjenestekontrakter innen følgende områder angitt med koder i den felles klassifikasjonen for offentlige anskaffelser, kjent som CPV-koder:
+
+1. Kollektivtransport på vei med CPV-kode 60112000-6
+2. Persontransport på vei for spesielle formål med CPV-kode 60130000-8
+3. Persontransport, ikke rutekjøring med CPV-kode 60140000-1
+4. Avfallsinnsamling med CPV-kode 90511000-2
+5. Postkjøring med CPV-kode 60160000-7
+6. Pakketransport med CPV-kode 60161000-4
+7. Postutbringing med CPV-kode 64121100-1
+8. Pakkeutbringing med CPV-kode 64121200-2.
 
 Forskriften gjelder ikke kontrakter ved anskaffelse av:
 
@@ -44,18 +56,37 @@ Forskriften gjelder ikke kontrakter ved anskaffelse av:
 4. spesialkjøretøy i gruppe M1, jf. [forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233), slik de er angitt i forordning [(EU) 2018/858](eu/32018r0858) vedlegg II del III, som for eksempel pansret kjøretøy, ambulanse, kjøretøy tilpasset rullestol og mobilkran (kjøretøy gruppe N3).
 5. kjøretøy til løyvepliktig drosjetransport.
 
+> Endret ved forskrift [28 sep 2026 nr. 1932](forskrift/2026-09-28-1932).
+
 ## § 3. Miljøkrav
 
-Offentlig oppdragsgiver, operatør og deres underleverandører som nevnt i [§ 2 annet ledd](forskrift/2022-12-20-2384/§2/ledd/2) skal stille følgende miljøkrav ved anskaffelse av:
+Offentlig oppdragsgiver, operatør og deres underleverandører som nevnt i [§ 2 annet](forskrift/2022-12-20-2384/§2/ledd/2) og [tredje ledd](forskrift/2022-12-20-2384/§2/ledd/3) skal stille følgende miljøkrav ved anskaffelse av:
 
 1. Personbil (M1): 0 g CO2/km
-2. Varebil (N1-I, N1-II og N1-III): 0 g CO2/km
-3. Buss (M2 og M3): Euro VI
-4. Buss (M3 klasse I): 0 g CO2/km
-5. Buss (M3 klasse II) og minibuss (M2) med ståplasser: 0 g CO2/km
-6. Lastebil (N2 og N3): Euro VI.
+2. Varebil (N1): 0 g CO2/km
+3. Buss (M2): 0 g CO2/km
+4. Buss (M3 I): 0 g CO2/km
+5. Buss (M3 II): 0 g CO2/km
+6. Buss (M3 A): 0 g CO2/km
+7. Buss (M3 III): Euro VI til og med 30. juni 2029 og Euro VII fra og med 1. juli 2029.
 
-> Endret ved forskrift [19 des 2023 nr. 2159](forskrift/2023-12-19-2159).
+For perioden 1. januar 2026–31. desember 2030 skal minst 25 % av alle tunge kjøretøyer i kategoriene N2 og N3 som omfattes av samtlige kontrakter i henhold til [§ 2](forskrift/2022-12-20-2384/§2), benytte alternativt drivstoff. Kravet om en andel på 25 % beregnes samlet for alle kontrakter inngått i denne perioden.
+
+Anskaffelser av tunge kjøretøy klasse N2 og N3 foretatt i perioden 1. januar 2026–1. oktober 2026 skal ved beregningen av 25-prosentkravet for alternativt drivstoff for perioden 1. januar 2026–31. desember 2030 ikke tas med i beregningsgrunnlaget dersom de ikke benytter alternativt drivstoff.
+
+Med alternativt drivstoff menes drivstoff eller energikilder som helt eller delvis tjener som en erstatning for fossile oljekilder i forsyningen av energi til transport, og som potensielt kan bidra til utfasing av CO2 og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a.:
+
+1. elektrisitet,
+2. hydrogen,
+3. ammoniakk
+4. biodrivstoff, det vil si flytende eller gassformig brensel til transport, produsert av biomasse,
+5. syntetisk og parafinisk drivstoff,
+6. naturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) og
+7. flytende petroleumsgass (LPG).
+
+Ved beregning av minstemålene for anskaffelser er det datoen da den offentlige anskaffelsesprosedyren avsluttes gjennom tildeling av kontrakten som skal gjelde som datoen for den offentlig anskaffelsen.
+
+> Endret ved forskrifter [19 des 2023 nr. 2159](forskrift/2023-12-19-2159), [28 sep 2026 nr. 1932](forskrift/2026-09-28-1932).
 
 ## § 4. Unntak fra miljøkrav
 
@@ -63,13 +94,13 @@ Offentlig oppdragsgiver og operatør og deres underleverandører kan fravike mil
 
 1. primærbehovet for anskaffelsen ikke kan dekkes ved kjøretøy som definert i [§ 3](forskrift/2022-12-20-2384/§3)
 2. tilstrekkelig ladeinfrastruktur ikke er tilgjengelig
-3. buss som bruker biogass
+3. anskaffelsen gjelder buss som bruker biogass
 4. behovet skal dekkes ved anskaffelse av brukt kjøretøy og markedet ikke kan tilby brukt kjøretøy som oppfyller kravene i [§ 3](forskrift/2022-12-20-2384/§3)
 5. virksomheten er bundet av en rammeavtale inngått før forskriftens ikrafttredelse som hindrer dem i å anskaffe kjøretøy som oppfyller kravene i [§ 3](forskrift/2022-12-20-2384/§3).
 
-Anskaffelse av kjøretøy som ikke kan oppfylle miljøkrav i [§ 3](forskrift/2022-12-20-2384/§3), skal uansett ha lavest mulig CO2 utslipp og muligheten for bruk av biogass kan vurderes.
+Anskaffelse av kjøretøy som ikke kan oppfylle miljøkravene i [§ 3](forskrift/2022-12-20-2384/§3), skal uansett ha lavest mulig CO2-utslipp.
 
-> Endret ved forskrift [19 des 2023 nr. 2159](forskrift/2023-12-19-2159).
+> Endret ved forskrifter [19 des 2023 nr. 2159](forskrift/2023-12-19-2159), [28 sep 2026 nr. 1932](forskrift/2026-09-28-1932).
 
 ## § 5. Rapporteringsplikt når det gjøres unntak fra miljøkrav iht. § 4 bokstav a–e
 
