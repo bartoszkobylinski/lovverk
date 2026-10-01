@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2005-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-09-29"
 last_updated: "2020-01-15"
-xml_hash: "e6a2b48106155f376594c26a4afabc14a0f5bb9102772e7cebf53e858f0b7a83"
+xml_hash: "d2b35f1bd5341d9055ecd64106c4e55b18e036d16513a2c0528a2c107a56c9de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ eu_basis: []
 
 Konkursbo som ikke er næringsdrivende og som plikter å levere skattemelding for merverdiavgift etter [skatteforvaltningsloven](lov/2016-05-27-14), unntas fra [bokføringsloven § 5 første ledd nr. 2](lov/2004-11-19-73/§5/ledd/1/nummer/2) til 7.
 
-> Endret ved [forskrifter 20 des 2006 nr. 1516](forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [27 juni 2024 nr. 1325](forskrift/2024-06-27-1325).
+> Endret ved [forskrifter 20 des 2006 nr. 1516](forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [27 juni 2024 nr. 1325](forskrift/2024-06-27-1325). **Endres** ved forskrifter [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027), [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2030).
+
+### § 1-2. Bokføringspliktige med lav omsetning
+
+> **Tilføyes** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027, med unntak av første ledd tredje punktum). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2030, gjelder første ledd tredje punktum)
 
 ## Kapittel 2. Pliktig regnskapsrapportering
 
@@ -131,11 +135,11 @@ Salgsdokumentet skal utstedes på et språk som nevnt i [bokføringsloven § 12]
 
 ### § 5-1-2. Angivelse av partene
 
-Angivelse av kjøper, jf. [§ 5-1-1](forskrift/2004-12-01-1558/§5-1-1) nr. 2, skal minst inneholde kjøpers navn, og adresse eller organisasjonsnummer som er tildelt i henhold til [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregisteret [§ 23](lov/1994-06-03-15/§23). Ved salg som nevnt i § 5-1-1 nr. 7 skal kjøpers organisasjonsnummer alltid angis. Dersom kjøper er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA.
+Angivelse av kjøper, jf. [§ 5-1-1 nr. 2](forskrift/2004-12-01-1558/§5-1-1/nummer/2), skal minst inneholde kjøpers navn, og adresse eller organisasjonsnummer som er tildelt i henhold til [lov 20. juni 2025 nr. 105 om Enhetsregisteret § 6-2](lov/2025-06-20-105/§6-2). Ved salg som nevnt i § 5-1-1 nr. 7 skal kjøpers organisasjonsnummer alltid angis. Dersom kjøper er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA.
 
-Angivelse av selger, jf. [§ 5-1-1](forskrift/2004-12-01-1558/§5-1-1) nr. 2, skal minst omfatte selgers navn og organisasjonsnummer som er tildelt i henhold til [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregisteret [§ 23](lov/1994-06-03-15/§23). Dersom selger er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA. Dersom selger er registrert i Merverdiavgiftsregisteret ved representant etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) sjette ledd, skal også representantens navn og adresse fremgå av salgsdokumentet. Dersom selger er aksjeselskap, allmennaksjeselskap eller filial av utenlandsk selskap skal også ordet «Foretaksregisteret» fremgå av salgsdokumentet, jf. [foretaksregisterloven § 10-2](lov/1985-06-21-78/§10-2). Videre skal hovedkontorets adresse framgå av salgsdokumentet til slik selger. Dersom slik selger er under avvikling, skal dette framgå av salgsdokumentet.
+Angivelse av selger, jf. [§ 5-1-1 nr. 2](forskrift/2004-12-01-1558/§5-1-1/nummer/2), skal minst omfatte selgers navn og organisasjonsnummer som er tildelt i henhold til [lov 20. juni 2025 nr. 105 om Enhetsregisteret § 6-2](lov/2025-06-20-105/§6-2). Dersom selger er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA. Dersom selger er registrert i Merverdiavgiftsregisteret ved representant etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) sjette ledd, skal også representantens navn og adresse fremgå av salgsdokumentet. Dersom selger er aksjeselskap, allmennaksjeselskap eller filial av utenlandsk selskap skal også ordet «Foretaksregisteret» fremgå av salgsdokumentet, jf. [foretaksregisterloven § 10-2](lov/1985-06-21-78/§10-2). Videre skal hovedkontorets adresse framgå av salgsdokumentet til slik selger. Dersom slik selger er under avvikling, skal dette framgå av salgsdokumentet.
 
-> Endret ved [forskrifter 26 mars 2010 nr. 464](forskrift/2010-03-26-464), [7 sep 2012 nr. 865](forskrift/2012-09-07-865), [17 sep 2012 nr. 880](forskrift/2012-09-17-880), [19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](forskrift/2014-12-22-1865) (i kraft 1 jan 2015).
+> Endret ved forskrifter [26 mars 2010 nr. 464](forskrift/2010-03-26-464), [7 sep 2012 nr. 865](forskrift/2012-09-07-865), [17 sep 2012 nr. 880](forskrift/2012-09-17-880), [19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2028).
 
 ### § 5-1-3. Nummerering og datering av salgsdokument
 
@@ -209,7 +213,7 @@ Følgende bokføringspliktige kjøpere kan utstede salgsdokumentasjon på vegne 
 
 Salgsdokumentet skal uoppfordret oversendes kjøper med mindre annet fremgår av skriftlig, undertegnet avtale mellom partene eller er bestemt i lov eller forskrift.
 
-> Endret ved [forskrifter 20 des 2006 nr. 1516](forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [26 mars 2010 nr. 464](forskrift/2010-03-26-464), [21 juni 2013 nr. 686](forskrift/2013-06-21-686) (i kraft 1 juli 2013), [19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014).
+> Endret ved [forskrifter 20 des 2006 nr. 1516](forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [26 mars 2010 nr. 464](forskrift/2010-03-26-464), [21 juni 2013 nr. 686](forskrift/2013-06-21-686) (i kraft 1 juli 2013), [19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2028).
 
 ### § 5-2-1a. Utstedelse av salgsdokument ved formidling
 
@@ -271,7 +275,7 @@ Departementet kan i særlige tilfeller ved enkeltvedtak tillate at det utstedes 
 
 Salgsdokumenter som utstedes elektronisk skal utstedes i et filformat som ikke enkelt lar seg redigere i allment kjent sluttbrukerverktøy for tekstbehandling, regneark, e-post mv. uten at endringen fremgår direkte av salgsdokumentet.
 
-> Tilføyd ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014).
+> Tilføyd ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027, se endringsforskriften for overgangsregel).
 
 ### Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg
 
@@ -718,7 +722,7 @@ Kravet til sikkerhetskopiering etter [§ 7-2](forskrift/2004-12-01-1558/§7-2) g
 
 Bokføringspliktige som har mindre enn 5 millioner kroner i omsetning eksklusive merverdiavgift, er unntatt fra kravet i [bokføringsloven § 13b](lov/2004-11-19-73/§13b) om å ha bokførte opplysninger tilgjengelig elektronisk. Når en bokføringspliktig virksomhet som ikke omfattes av første punktum avvikles, skal bokførte opplysninger være tilgjengelig elektronisk i minst 6 måneder etter at virksomheten ble avviklet.
 
-> Tilføyd ved [forskrift 7 sep 2012 nr. 865](forskrift/2012-09-07-865).
+> Tilføyd ved [forskrift 7 sep 2012 nr. 865](forskrift/2012-09-07-865). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027).
 
 ### § 7-8. Gjengivelse av elektronisk bokførte opplysninger i standardisert form
 
@@ -728,7 +732,7 @@ Skattedirektoratet fastsetter innholdet og formatet ved gjengivelse av elektroni
 
 Skattedirektoratet kan i særlige tilfeller gjøre unntak fra kravet etter første ledd, herunder gi utsettelse med å oppfylle kravet.
 
-> Tilføyd ved [forskrift 22 des 2017 nr. 2387](forskrift/2017-12-22-2387) (med virkning for bokføringsperiode som begynner 1. januar 2020 eller senere).
+> Tilføyd ved [forskrift 22 des 2017 nr. 2387](forskrift/2017-12-22-2387) (med virkning for bokføringsperiode som begynner 1. januar 2020 eller senere). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027).
 
 ## Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer
 
@@ -1173,7 +1177,7 @@ Ved kjøp og salg av finansielle instrumenter kan finansvirksomhet benytte slutt
 
 Sluttsedler og kontoutskrift skal inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i [§ 5-1-3](forskrift/2004-12-01-1558/§5-1-3) om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av kundens kontonummer og et fortløpende nummer på kundenivå.
 
-> Tilføyd ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014).
+> Tilføyd ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027).
 
 ### § 8-13-3. Kunde- og leverandørspesifikasjon
 
@@ -1201,7 +1205,7 @@ Dette kapittelet gjelder for forsikringsselskaper og pensjonsforetak etter [lov 
 
 Polisedokument kan benyttes som salgsdokument dersom dokumentasjonen inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i [§ 5-1-3](forskrift/2004-12-01-1558/§5-1-3) om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av polisenummer/forsikringsavtalenummer og termin.
 
-> Tilføyd ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014).
+> Tilføyd ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](forskrift/2026-09-29-1933) (i kraft 1 jan 2027).
 
 ### § 8-14-3. Kunde- og leverandørspesifikasjon
 
