@@ -10,13 +10,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-04-28"
-last_change_in_force: "2026-05-04"
+last_change_in_force: "2026-09-28"
 last_updated: "2022-08-11"
-xml_hash: "98101851de2f52bbe22febc6a6d2366b3f3309fd89ab43f0248bad8c4f42eee8"
+xml_hash: "d9ab3d8e7f570c4593a92ba6aa56414985d367abdd12d83b840cbdb1dd70d6de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,11 +75,11 @@ Norges sykdomsfrie statuser for sykdommer hos akvatiske dyr fremgår av forskrif
 
 ### § 7. Godkjenning av nasjonale tiltak for visse akvatiske sykdommer
 
-[EØS-avtalens vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I del 1.1 nr. 13o (beslutning [(EU) 2021/260](eu/32021d0260) endret ved beslutning [(EU) 2023/749](eu/32023d0749), [(EU) 2023/2626](eu/32023d2626) og [(EU) 2025/403](eu/32025d0403)) om godkjenning av nasjonale tiltak som har som formål å begrense virkningene av visse sykdommer hos akvatiske dyr i samsvar med artikkel 226 nr. 3 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429), og om oppheving av kommisjonsbeslutning [2010/221/EU](eu/32010d0221), gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I del 1.1 nr. 13o (beslutning [(EU) 2021/260](eu/32021d0260) endret ved beslutning [(EU) 2023/749](eu/32023d0749), beslutning [(EU) 2023/2626](eu/32023d2626), beslutning [(EU) 2025/403](eu/32025d0403) og beslutning [(EU) 2026/837](eu/32026d0837)) om godkjenning av nasjonale tiltak som har som formål å begrense virkningene av visse sykdommer hos akvatiske dyr i samsvar med artikkel 226 nr. 3 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429), og om oppheving av kommisjonsbeslutning [2010/221/EU](eu/32010d0221), gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I protokoll 1 til avtalen og avtalen for øvrig.
 
 Områder i Norge med godkjente nasjonale tiltak for *Gyrodactylus salaris* fremgår av forskriftens vedlegg 3.
 
-> Endret ved forskrifter [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [20 mars 2023 nr. 362](forskrift/2023-03-20-362), [14 des 2023 nr. 2085](forskrift/2023-12-14-2085), [29 april 2024 nr. 688](forskrift/2024-04-29-688), [16 juni 2025 nr. 1045](forskrift/2025-06-16-1045).
+> Endret ved forskrifter [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [20 mars 2023 nr. 362](forskrift/2023-03-20-362), [14 des 2023 nr. 2085](forskrift/2023-12-14-2085), [29 april 2024 nr. 688](forskrift/2024-04-29-688), [16 juni 2025 nr. 1045](forskrift/2025-06-16-1045), [28 sep 2026 nr. 1927](forskrift/2026-09-28-1927).
 
 ## Kapittel II. Utfyllende nasjonale bestemmelser – tiltak ved kategori C-sykdommer hos akvatiske dyr i områder med sykdomsfri status eller utryddelsesprogram
 
@@ -6843,9 +6843,9 @@ Ingen på det nåværende tidspunkt.
 
 ### Konsolidert beslutning (EU) 2021/260 om godkjente nasjonale tiltak for visse akvatiske dyr
 
-> Endret ved forskrifter [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [20 mars 2023 nr. 362](forskrift/2023-03-20-362), [14 des 2023 nr. 2085](forskrift/2023-12-14-2085), [29 april 2024 nr. 688](forskrift/2024-04-29-688), [16 juni 2025 nr. 1045](forskrift/2025-06-16-1045),
+> Endret ved forskrifter [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [20 mars 2023 nr. 362](forskrift/2023-03-20-362), [14 des 2023 nr. 2085](forskrift/2023-12-14-2085), [29 april 2024 nr. 688](forskrift/2024-04-29-688), [16 juni 2025 nr. 1045](forskrift/2025-06-16-1045), [28 sep 2026 nr. 1927](forskrift/2026-09-28-1927).
 
-Nedenfor gjengis til informasjon norsk konsolidert oversettelse av beslutning [(EU) 2021/260](eu/32021d0260). Grunnrettsakten er endret ved beslutning [(EU) 2022/181](eu/32022d0181), beslutning [(EU) 2022/1188](eu/32022d1188), beslutning [(EU) 2023/749](eu/32023d0749), beslutning [(EU) 2023/2626](eu/32023d2626) og beslutning [(EU) 2025/403](eu/32025d0403). Alle endringer av grunnrettsakten er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon norsk konsolidert oversettelse av beslutning [(EU) 2021/260](eu/32021d0260). Grunnrettsakten er endret ved beslutning [(EU) 2022/181](eu/32022d0181), beslutning [(EU) 2022/1188](eu/32022d1188), beslutning [(EU) 2023/749](eu/32023d0749), beslutning [(EU) 2023/2626](eu/32023d2626), beslutning [(EU) 2025/403](eu/32025d0403) og beslutning [(EU) 2026/837](eu/32026d0837). Alle endringer av grunnrettsakten er innarbeidet nedenfor.
 
 ►**B** Beslutning [(EU) 2021/260](eu/32021d0260) om godkjente nasjonale tiltak for visse akvatiske dyr
 
@@ -6856,6 +6856,7 @@ som endret ved
 - ►**M3** Beslutning [(EU) 2023/749](eu/32023d0749)
 - ►**M4** Beslutning [(EU) 2023/2626](eu/32023d2626)
 - ►**M5** Beslutning [(EU) 2025/403](eu/32025d0403)
+- ►**M6** Beslutning [(EU) 2026/837](eu/32026d0837)
 
 ### KOMMISJONENS GJENNOMFØRINGSBESLUTNING (EU) 2021/260
 
@@ -6991,63 +6992,61 @@ Utferdiget i Brussel 11. februar 2021.
 
 Medlemsstater[^1] eller deler av medlemsstater som anses som frie for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
-| *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |
-| --- | --- | --- | --- |
-| ►**M5** Koiherpesvirussykdom (KHV) | Frankrike | FR | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |
-|  |  |  | FR 17116001 CE Pisiculture de l 'Earl Carpio<br>FR 34023506 CE SCEA les poissons du Soleil<br>FR 34195501 CE Olivier Germaine – Pisciculture<br>FR 39366002 CE Pisciculture du Moulin de Pierre<br>FR 63263022 CE Pisciculture de Fontanas<br>FR 66190003 CE SCEA les poissons du Soleil ◄**M5** |
-| Koiherpesvirussykdom (KHV) | Italia | IT | Sone ved Monticolosjøene som omfatter klekkeriet IT004BZ106, «Grande lago di Monticolo/Große Montiggler See» og «Piccolo lago di Monticolo/Kleiner Montiggler See» |
-| Koiherpesvirussykdom (KHV) | Irland | IE | Hele territoriet |
-| Koiherpesvirussykdom (KHV) | Portugal | PT | Følgende segment, som består av et akvakulturanlegg med angitt godkjenningsnummer:<br>PT 6 001 CP Herdade de Entre Águas/PT |
-| Koiherpesvirussykdom (KHV) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |
-| Vårviremi hos karpe (SVC) | Danmark | DK | Hele territoriet |
-| Vårviremi hos karpe (SVC) | Finland | FI | Hele territoriet |
-| Vårviremi hos karpe (SVC) | Ungarn | HU | Hele territoriet |
-| Vårviremi hos karpe (SVC) | Irland | IE | Hele territoriet |
-| Vårviremi hos karpe (SVC) | Sverige | SE | Hele territoriet |
-| Vårviremi hos karpe (SVC) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |
-| ►**M5** Bakteriell nyresyke (BKD) | Danmark | DK | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |
-|  |  | 84470 | Brænderigårdens Dambrug |
-| 92158 | Hørup Mølle Dambrug |  |  |
-| 103471 | Abildvad Dambrug |  |  |
-| 103559 | Fårup Mølle Dambrug |  |  |
-| 103587 | Trend Å Dambrug |  |  |
-| 103623 | Hårkjær Dambrug |  |  |
-| 103682 | Sangild Dambrug |  |  |
-| 103733 | Skade Dambrug |  |  |
-| 106314 | Ravningkær Dambrug |  |  |
-| 118656 | AquaSearch Ova, Billund |  |  |
-| 118844 | Ravning ægpakkeri |  |  |
-| 128165 | Ollerupgård Dambrug ◄**M5** |  |  |
-| Bakteriell nyresyke (BKD) | Finland | FI | Følgende individuelle segmenter, som hvert består av akvakulturanlegg med angitte godkjenningsnumre:<br>177-1 Hanka-Taimen Oy, Venekoski fiskeoppdrettsanlegg<br>177-2 Hanka-Taimen Oy, Vanaja fiskeoppdrettsanlegg<br>386-1 Pohjois-Karjalan kalanviljely Oy, Keskijärvi fiskeoppdrettsanlegg<br>386-2 Pohjois-Karjalan kalanviljely Oy, Kontiolahti fiskeoppdrettsanlegg<br>065-3 Kainuun Lohi Oy, Likolampi fiskeoppdrettsanlegg<br>185-2 Terhontammi Oy, Sorsakoski klekkeri<br>383 Kuusamon Jalokala Oy, Käylä klekkeri<br>253-3 Naturressursinstituttet Finland – Luke, Taivalkoski fiskeoppdrettsanlegg |
-| Bakteriell nyresyke (BKD) | Irland | IE | Hele territoriet |
-| Bakteriell nyresyke (BKD) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |
-| ►**M5** Infeksiøs pankreasnekrose (IPN) | Danmark | DK | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |
-|  |  | 83138 | Hallesøhuse Dambrug |
-| 84470 | Brænderigårdens Dambrug |  |  |
-| 92158 | Hørup Mølle Dambrug |  |  |
-| 103554 | Fruerlund Dambrug |  |  |
-| 103559 | Fårup Mølle Dambrug |  |  |
-| 103571 | Hallesø Dambrug |  |  |
-| 103606 | Lundby Dambrug |  |  |
-| 103623 | Hårkjær Dambrug |  |  |
-| 103668 | Ravning Dambrug |  |  |
-| 103670 | Refsgårds Dambrug |  |  |
-| 103682 | Sangild Dambrug |  |  |
-| 103802 | Ådal Dambrug |  |  |
-| 103910 | Piledal Dambrug |  |  |
-| 106314 | Ravningkær Dambrug |  |  |
-| 108516 | Hulsig Dambrug |  |  |
-| 118656 | AquaSearch Ova, Billund |  |  |
-| 118844 | Ravning ægpakkeri |  |  |
-| 125770 | Aquasearch Ova |  |  |
-| 128165 | Ollerupgård Dambrug ◄**M5** |  |  |
-| Infeksiøs pankreasnekrose (IPN) | Finland | FI | Territoriets fastlandsområder |
-| Infeksiøs pankreasnekrose (IPN) | Slovenia | SI | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer:<br>SIRIB050108 Pšata<br>SIRIB120102 Ilirska Bistrica |
-| Infeksiøs pankreasnekrose (IPN) | Sverige | SE | Territoriets fastlandsområder |
-| Infeksjon med *Gyrodactylus salaris* (GS) | Finland | FI | Nedbørfeltene til Tenojoki og Näätämöjoki; nedbørfeltene til Paatsjoki, Tuulomajoki og Uutuanjoki anses som buffersoner |
-| Infeksjon med *Gyrodactylus salaris* (GS) | Irland | IE | Hele territoriet |
-| Infeksjon med *Gyrodactylus salaris* (GS) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |
-| Infeksjon med salmonid alfavirus (SAV) | Finland | FI | Territoriets fastlandsområder |
+| *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |  |
+| --- | --- | --- | --- | --- |
+| ►**M5** Koiherpesvirussykdom (KHV) | Frankrike | FR | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |  |
+|  |  |  | FR 17116001 CE Pisiculture de l 'Earl Carpio<br>FR 34023506 CE SCEA les poissons du Soleil<br>FR 34195501 CE Olivier Germaine – Pisciculture<br>FR 39366002 CE Pisciculture du Moulin de Pierre<br>FR 63263022 CE Pisciculture de Fontanas<br>FR 66190003 CE SCEA les poissons du Soleil ◄**M5** |  |
+| Koiherpesvirussykdom (KHV) | Italia | IT | Sone ved Monticolosjøene som omfatter klekkeriet IT004BZ106, «Grande lago di Monticolo/Große Montiggler See» og «Piccolo lago di Monticolo/Kleiner Montiggler See» |  |
+| Koiherpesvirussykdom (KHV) | Irland | IE | Hele territoriet |  |
+| Koiherpesvirussykdom (KHV) | Portugal | PT | Følgende segment, som består av et akvakulturanlegg med angitt godkjenningsnummer:<br>PT 6 001 CP Herdade de Entre Águas/PT |  |
+| Koiherpesvirussykdom (KHV) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |  |
+| Vårviremi hos karpe (SVC) | Danmark | DK | Hele territoriet |  |
+| Vårviremi hos karpe (SVC) | Finland | FI | Hele territoriet |  |
+| Vårviremi hos karpe (SVC) | Ungarn | HU | Hele territoriet |  |
+| Vårviremi hos karpe (SVC) | Irland | IE | Hele territoriet |  |
+| Vårviremi hos karpe (SVC) | Sverige | SE | Hele territoriet |  |
+| Vårviremi hos karpe (SVC) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |  |
+| ►**M6** Bakteriell nyresyke (BKD) | Danmark | DK | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |  |
+|  |  |  | 84470 | Brænderigårdens Dambrug |
+|  | 92158 | Hørup Mølle Dambrug |  |  |
+|  | 103471 | Abildvad Dambrug |  |  |
+|  | 103559 | Fårup Mølle Dambrug |  |  |
+|  | 103587 | Trend Å Dambrug |  |  |
+|  | 103606 | Lundby Dambrug |  |  |
+|  | 103623 | Hårkjær Dambrug |  |  |
+|  | 103682 | Sangild Dambrug |  |  |
+|  | 103733 | Skade Dambrug |  |  |
+|  | 118656 | AquaSearch Ova, Billund |  |  |
+|  | 118844 | Ravning ægpakkeri |  |  |
+|  | 128165 | Ollerupgård Dambrug ◄**M6** |  |  |
+| Bakteriell nyresyke (BKD) | Finland | FI | Følgende individuelle segmenter, som hvert består av akvakulturanlegg med angitte godkjenningsnumre:<br>177-1 Hanka-Taimen Oy, Venekoski fiskeoppdrettsanlegg<br>177-2 Hanka-Taimen Oy, Vanaja fiskeoppdrettsanlegg<br>386-1 Pohjois-Karjalan kalanviljely Oy, Keskijärvi fiskeoppdrettsanlegg<br>386-2 Pohjois-Karjalan kalanviljely Oy, Kontiolahti fiskeoppdrettsanlegg<br>065-3 Kainuun Lohi Oy, Likolampi fiskeoppdrettsanlegg<br>185-2 Terhontammi Oy, Sorsakoski klekkeri<br>383 Kuusamon Jalokala Oy, Käylä klekkeri<br>253-3 Naturressursinstituttet Finland – Luke, Taivalkoski fiskeoppdrettsanlegg |  |
+| Bakteriell nyresyke (BKD) | Irland | IE | Hele territoriet |  |
+| Bakteriell nyresyke (BKD) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |  |
+| ►**M6** Infeksiøs pankreasnekrose (IPN) | Danmark | DK | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |  |
+|  |  |  | 83138 | Hallesøhuse Dambrug |
+|  | 92158 | Hørup Mølle Dambrug |  |  |
+|  | 103554 | Fruerlund Dambrug |  |  |
+|  | 103559 | Fårup Mølle Dambrug |  |  |
+|  | 103571 | Hallesø Dambrug |  |  |
+|  | 103606 | Lundby Dambrug |  |  |
+|  | 103623 | Hårkjær Dambrug |  |  |
+|  | 103668 | Ravning Dambrug |  |  |
+|  | 103670 | Refsgård Fiskeri I |  |  |
+|  | 103682 | Sangild Dambrug |  |  |
+|  | 103802 | Ådal Dambrug |  |  |
+|  | 106314 | Ravningkær Dambrug |  |  |
+|  | 108516 | Hulsig Dambrug |  |  |
+|  | 118656 | AquaSearch Ova, Billund |  |  |
+|  | 118844 | Ravning ægpakkeri |  |  |
+|  | 125770 | Aquasearch Ova |  |  |
+|  | 128165 | Ollerupgård Dambrug ◄**M6** |  |  |
+| Infeksiøs pankreasnekrose (IPN) | Finland | FI | Territoriets fastlandsområder |  |
+| Infeksiøs pankreasnekrose (IPN) | Slovenia | SI | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer:<br>SIRIB050108 Pšata<br>SIRIB120102 Ilirska Bistrica |  |
+| Infeksiøs pankreasnekrose (IPN) | Sverige | SE | Territoriets fastlandsområder |  |
+| Infeksjon med *Gyrodactylus salaris* (GS) | Finland | FI | Nedbørfeltene til Tenojoki og Näätämöjoki; nedbørfeltene til Paatsjoki, Tuulomajoki og Uutuanjoki anses som buffersoner |  |
+| Infeksjon med *Gyrodactylus salaris* (GS) | Irland | IE | Hele territoriet |  |
+| Infeksjon med *Gyrodactylus salaris* (GS) | Det forente kongerike (Nord-Irland) | UK (NI) | Nord-Irland |  |
+| Infeksjon med salmonid alfavirus (SAV) | Finland | FI | Territoriets fastlandsområder |  |
 
 1 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
@@ -7059,13 +7058,13 @@ Medlemsstater[^1] eller deler av medlemsstater som anses som frie for visse sykd
 
 Medlemsstater[^1] eller deler av medlemsstater som har utryddelsesprogrammer for visse sykdommer som rammer akvatiske dyr, og som har fått godkjent nasjonale tiltak i samsvar med artikkel 226 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429)
 
-| *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |
-| --- | --- | --- | --- |
-| ►**M5** Bakteriell nyresyke (BKD) | Danmark | DK | Følgende individuelle segmenter, som hvert består av et akvakulturanlegg med angitt godkjenningsnummer: |
-|  |  | 83138 | Halle Søhuse Dambrug |
-| 103606 | Lundby Dambrug ◄**M5** |  |  |
-| Bakteriell nyresyke (BKD) | Sverige | SE | Territoriets fastlandsområder |
-| Infeksiøs pankreasnekrose (IPN) | Sverige | SE | Territoriets kystområder |
+| *Sykdom* | *Medlemsstat* | *Kode* | *Geografisk avgrensning av området der de nasjonale tiltakene er godkjent* |  |
+| --- | --- | --- | --- | --- |
+| ►**M6** Bakteriell nyresyke (BKD) | Danmark | DK | Følgende segmenter, som består av et akvakulturanlegg med angitt godkjenningsnummer: |  |
+|  |  |  | 83138 | Halle Søhuse Dambrug |
+|  | 103670 | Refsgård Fiskeri I ◄**M6** |  |  |
+| Bakteriell nyresyke (BKD) | Sverige | SE | Territoriets fastlandsområder |  |
+| Infeksiøs pankreasnekrose (IPN) | Sverige | SE | Territoriets kystområder |  |
 
 1 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
