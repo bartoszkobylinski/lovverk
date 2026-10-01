@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-26"
-xml_hash: "5389918f18a7f21c23997cdbf5886c5eb7a015f6e628c4e5eb04202af1f6559c"
+xml_hash: "d2b78ca3ad284530eb63346ed20e74c01fa1260b99f00333789aed639c428169"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -89,7 +89,7 @@ Skattemyndighetene kan behandle innhentede personopplysninger for å utvikle og 
 
 Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.
 
-> Tilføyd ved [lov 20 des 2018 nr. 108](lov/2018-12-20-108) (ikr. 1 juli 2019) som endret ved [lov 21 juni 2019 nr. 40](lov/2019-06-21-40).
+> Tilføyd ved [lov 20 des 2018 nr. 108](lov/2018-12-20-108) (ikr. 1 juli 2019, endring endret ved [lov 21 juni 2019 nr. 40](lov/2019-06-21-40)).
 
 ## § 7. Taushetsplikt ved drift og forvaltning
 
