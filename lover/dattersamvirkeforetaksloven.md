@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2008-01-01"
 last_updated: "2021-06-22"
-xml_hash: "29b9076fb73061d3955cefb6201277b375e7d7016728905648e3153307b73f85"
+xml_hash: "038b3a3797f788a0da8124aa74cc25839c51dc40d57f687c73396af401d077b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,6 +40,6 @@ Hvis styret ikke finner grunnlag for å foreslå tiltak som nevnt i annet ledd, 
 
 Loven trer i kraft fra den tid Kongen bestemmer.[^1]
 
-> Endret ved [lov 29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), tidligere § 2.
+> Endret ved [lov 29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287), tidligere § 2).
 
 1 Fra 1 juli 2004 iflg. [res. 11 juni 2004 nr. 835](forskrift/2004-06-11-835).
