@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-10-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "a138f8bc6388b57c099746cee2ce3fe81136f122fc3f9cfe04edcc12f83e67dc"
+xml_hash: "f031e45cce0a05adcfd1680204c9afc2c93c2e751d44f0f8dbf92396cf2e66a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-29T10:35:40.473961+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,33 +60,11 @@ Som inntekt etter første og andre ledd regnes pensjonsgivende inntekt etter [fo
 
 ## III
 
-I [lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere](lov/1962-06-22-12) gjøres følgende endringer:
-
-[§ 15 første ledd tredje punktum](lov/1962-06-22-12/§15/ledd/1/setning/3) skal lyde:
-
-Mottar pensjonisten uføretrygd fra folketrygden, tillegges inntektsgrensen et fribeløp etter bestemmelsene i [folketrygdloven § 12-14 første ledd](lov/1997-02-28-19/§12-14/ledd/1).
-
-Nåværende første ledd fjerde punktum blir tredje ledd nytt tredje punktum.
-
-[§ 15 tredje ledd første punktum](lov/1962-06-22-12/§15/ledd/3/setning/1) skal lyde:
-
-Som inntekt etter første og andre ledd regnes pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15) og inntekt av samme art fra utlandet.
+I [lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere](lov/1962-06-22-12) gjøres følgende endringer: – – –
 
 ## IV
 
-I [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19) gjøres følgende endringer:
-
-[§ 10-5 fjerde ledd](lov/1997-02-28-19/§10-5/ledd/4) skal lyde:
-
-Det ytes ikke stønad etter denne paragrafen til en person som mottar avtalefestet pensjon som det godskrives pensjonspoeng for, se § 3-19. Til en person som mottar uføretrygd og har en uføregrad på 100 prosent, kan det bare ytes stønad etter denne paragrafen dersom det er sannsynlig at stønaden vil føre til at personens pensjonsgivende inntekt vil overstige 40 prosent av grunnbeløpet per kalenderår.
-
-[§ 12-14 første ledd](lov/1997-02-28-19/§12-14/ledd/1) skal lyde:
-
-Når uføregraden fastsettes etter [§ 12-10](lov/1997-02-28-19/§12-10), skal det fastsettes et bunnfradrag per kalenderår, som skal svare til inntekt etter uførhet (se [§ 12-9 tredje ledd](lov/1997-02-28-19/§12-9/ledd/3)) tillagt et fribeløp. Fribeløpet utgjør 40 prosent av grunnbeløpet dersom det er mindre enn 24 måneder siden virkningstidspunktet for uføretrygd eller virkningstidspunktet for økning av uføregraden. Deretter utgjør fribeløpet 100 prosent av grunnbeløpet.
-
-[§ 12-14 sjette ledd](lov/1997-02-28-19/§12-14/ledd/6) skal lyde:
-
-Departementet kan i forskrift gi nærmere regler om beregning av bunnfradraget, om reduksjon av uføretrygd på grunn av inntekt og om etteroppgjør.
+I [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19) gjøres følgende endringer: – – –
 
 ## V
 
