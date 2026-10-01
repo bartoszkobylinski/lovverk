@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1986-01-01"
-last_change_in_force: "2026-09-15"
+last_change_in_force: "2026-10-01"
 last_updated: "2026-01-25"
-xml_hash: "72dc63d69b0f993546bf98f8f1f8d7a9cf61e2a0c2ce33542a3b68f4c0b1a365"
+xml_hash: "a497fc5ffecaaacf8885e1487967f5e31a2598815ac697c240dbdc5b4c77a5f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-19T08:44:52.874882+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Etter reglene i denne lov behandles også, uten hensyn til om det samtidig blir 
 
 I saker om krav som nevnt i denne paragraf gjelder lovens regler om skyldspørsmålet tilsvarende så langt de passer. For øvrig anvendes reglene om fastsetting av straff.
 
-> Endret ved lover [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. lov [15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1614](forskrift/2003-12-19-1614)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. lov [15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1614](forskrift/2003-12-19-1614)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 3
 
@@ -64,7 +64,7 @@ De krav som er nevnt i første og annet ledd anses som sivile krav og behandles 
 
 Med uttrykket fornærmede forstås i denne lov også andre skadelidte som nevnt i første ledd. Dette gjelder likevel ikke [§§ 289 a](lov/1981-05-22-25/§289a), [397](lov/1981-05-22-25/§397), [398](lov/1981-05-22-25/§398) og ikke [kapittel 9 a](lov/1981-05-22-25/kap9a).
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [4 juli 2003 nr. 74](lov/2003-07-04-74) (ikr. 1 jan 2004), [18 jan 2007 nr. 1](lov/2007-01-18-1) (ikr. 1 juni 2007 iflg. [res. 18 jan 2007 nr. 57](forskrift/2007-01-18-57)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2018 nr. 114](lov/2018-12-20-114), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [4 juli 2003 nr. 74](lov/2003-07-04-74) (ikr. 1 jan 2004), [18 jan 2007 nr. 1](lov/2007-01-18-1) (ikr. 1 juni 2007 iflg. [res. 18 jan 2007 nr. 57](forskrift/2007-01-18-57)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2018 nr. 114](lov/2018-12-20-114), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 4
 
@@ -111,13 +111,13 @@ Under lagmannsretten hører:
 1. anke i saker som er behandlet ved tingretten og
 2. anke over vedtakelsen av forelegg.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [8 juli 1988 nr. 70](lov/1988-07-08-70), [16 juni 1989 nr. 64](lov/1989-06-16-64), [20 juli 1991 nr. 66](lov/1991-07-20-66), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [8 juli 1988 nr. 70](lov/1988-07-08-70), [16 juni 1989 nr. 64](lov/1989-06-16-64), [20 juli 1991 nr. 66](lov/1991-07-20-66), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 7
 
 Under Høyesterett hører anke i saker som er behandlet ved lagmannsrett. Anke over kjennelser og beslutninger avgjøres av Høyesteretts ankeutvalg.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 8
 
@@ -125,11 +125,11 @@ Med samtykke av Høyesteretts ankeutvalg kan en anke over dom som hører under l
 
 Søknad om samtykke fremsettes sammen med ankeerklæringen og sendes med sakens dokumenter til ankeutvalget. Før samtykke gis, skal motparten ha fått adgang til å uttale seg.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 9. (Opphevet)
 
-> Endret ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (i kraft 1 aug 1995), opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (i kraft 1 aug 1995), opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### Kap 3. Domstolenes stedlige virkekrets. Forening og utsettelse av straffesaker.
 
@@ -153,7 +153,7 @@ Forfølging mot samme person for flere straffbare handlinger eller mot flere per
 
 Med rettens samtykke kan også ellers forfølgingen av flere straffbare handlinger forenes i én sak, likesom forente saker kan skilles når retten bestemmer det eller samtykker.
 
-> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [3 mars 2000 nr. 13](lov/2000-03-03-13), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [3 mars 2000 nr. 13](lov/2000-03-03-13), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 14
 
@@ -349,7 +349,7 @@ Dommer er de beslutninger av retten som domfeller eller frifinner siktede, eller
 
 Andre beslutninger er kjennelser når loven kaller dem så, eller når de avslutter saken eller en selvstendig del av den.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 31
 
@@ -357,7 +357,7 @@ Har retten flere medlemmer, skal den holde rådslagning og stemmegivning for ste
 
 Bare protokollføreren har adgang til å overvære rådslagningen og stemmegivningen om ikke rettens leder gir særlig tillatelse til andre som av hensyn til sin juridiske utdanning eller av liknende grunner ønsker å være til stede.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 32
 
@@ -367,7 +367,7 @@ En dommer som er blitt overstemt, skal ta del i de følgende avstemninger som sa
 
 I Høyesterett foregår stemmegivningen offentlig i den orden rettens leder bestemmer. Stemmegivningen kan skje i fjernmøte. Leder stemmer alltid sist. Hver av dommerne grunngir den avgjørelsen han stemmer for.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [17 juni 2022 nr. 58](lov/2022-06-17-58) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1035](forskrift/2022-06-17-1035)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [17 juni 2022 nr. 58](lov/2022-06-17-58) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1035](forskrift/2022-06-17-1035)).
 
 ### § 33
 
@@ -417,7 +417,7 @@ Avskrifter av dommen skal dessuten opplyse om domstolen, dommerne, tid og sted f
 
 Rettens leder skriver dommen, om ikke retten bestemmer noe annet. Dommen underskrives av de dommere som har tatt del i pådømmelsen.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 40
 
@@ -467,7 +467,7 @@ Retten sørger for at dommen snarest mulig blir meddelt bistandsadvokaten og for
 
 Retten er bundet ved sin avgjørelse når dommen er avsagt.
 
-> Endret ved lover [27 juni 1986 nr. 48](lov/1986-06-27-48), [24 aug 1990 nr. 54](lov/1990-08-24-54), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 467](forskrift/2001-05-04-467)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [17 juni 2022 nr. 58](lov/2022-06-17-58) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1035](forskrift/2022-06-17-1035)).
+> Endret ved lover [27 juni 1986 nr. 48](lov/1986-06-27-48), [24 aug 1990 nr. 54](lov/1990-08-24-54), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 467](forskrift/2001-05-04-467)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [17 juni 2022 nr. 58](lov/2022-06-17-58) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1035](forskrift/2022-06-17-1035)).
 
 ### § 43 a
 
@@ -511,7 +511,7 @@ Når det er begjært retting etter [§§ 44](lov/1981-05-22-25/§44) eller [45](
 
 Er det foretatt retting etter [§ 45](lov/1981-05-22-25/§45), løper en ny frist for anke over dommen. Dette skal siktede gis opplysning om når rettingen blir forkynt.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 48
 
@@ -553,7 +553,7 @@ Er det besluttet anonym vitneførsel, jf. [§ 130 a](lov/1981-05-22-25/§130a) e
 
 Prosessledende kjennelser kan omgjøres av den rett som har avsagt dem, når ingen ervervet rett er til hinder. For øvrig får [§§ 44](lov/1981-05-22-25/§44)-[48](lov/1981-05-22-25/§48) og [50](lov/1981-05-22-25/§50) tilsvarende anvendelse på kjennelser.
 
-> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [21 des 2007 nr. 126](lov/2007-12-21-126), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [21 des 2007 nr. 126](lov/2007-12-21-126), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
 
 ### § 53
 
@@ -774,7 +774,7 @@ Selv om det ikke er grunn til mistanke om en straffbar handling, kan Kongen ved 
 
 Med tjenestemenn i politiet menes i sjette og åttende ledd også politihøgskolestudenter som er i praksis, og innkalte mannskaper fra politireserven.
 
-> Endret ved lover [12 juni 1987 nr. 53](lov/1987-06-12-53), [15 mars 1991 nr. 5](lov/1991-03-15-5), [11 juni 1993 nr. 79](lov/1993-06-11-79), [7 apr 1995 nr. 15](lov/1995-04-07-15), [15 juni 2001 nr. 54](lov/2001-06-15-54) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 670](forskrift/2001-06-15-670)), [19 des 2003 nr. 125](lov/2003-12-19-125) (ikr. 1 apr 2004 iflg. [res. 19 des 2003 nr. 1587](forskrift/2003-12-19-1587)), [5 mars 2004 nr. 13](lov/2004-03-05-13) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1666](forskrift/2004-12-17-1666)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 des 2007 nr. 119](lov/2007-12-21-119) (ikr. 1 jan 2009 iflg. [res. 7 nov 2008 nr. 1206](forskrift/2008-11-07-1206)), [12 des 2008 nr. 94](lov/2008-12-12-94) (ikr. 27 jan 2009, iflg. [vedtak 27 jan 2009 nr. 65](forskrift/2009-01-27-65)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [17 des 2010 nr. 86](lov/2010-12-17-86) (ikr. 1 jan 2011), [20 jan 2012 nr. 5](lov/2012-01-20-5) (ikr. 1 feb 2012 iflg. [res. 20 jan 2012 nr. 37](forskrift/2012-01-20-37)), [11 mai 2012 nr. 26](lov/2012-05-11-26), [24 mai 2013 nr. 18](lov/2013-05-24-18), [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [29 aug 2014 nr. 62](lov/2014-08-29-62) (ikr. 1 jan 2015), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [16 juni 2017 nr. 54](lov/2017-06-16-54) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 761](forskrift/2017-06-16-761)), [21 juni 2019 nr. 54](lov/2019-06-21-54) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 786](forskrift/2019-06-21-786)), [1 nov 2019 nr. 71](lov/2019-11-01-71) (ikr. 1 nov 2019 iflg. [res. 1 nov 2019 nr. 1449](forskrift/2019-11-01-1449)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [11 mars 2022 nr. 9](lov/2022-03-11-9) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1574](forskrift/2022-09-16-1574)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)), [12 juni 2026 nr. 32](lov/2026-06-12-32) (i kraft 15 sep 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054)).
+> Endret ved lover [12 juni 1987 nr. 53](lov/1987-06-12-53), [15 mars 1991 nr. 5](lov/1991-03-15-5), [11 juni 1993 nr. 79](lov/1993-06-11-79), [7 apr 1995 nr. 15](lov/1995-04-07-15), [15 juni 2001 nr. 54](lov/2001-06-15-54) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 670](forskrift/2001-06-15-670)), [19 des 2003 nr. 125](lov/2003-12-19-125) (ikr. 1 apr 2004 iflg. [res. 19 des 2003 nr. 1587](forskrift/2003-12-19-1587)), [5 mars 2004 nr. 13](lov/2004-03-05-13) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1666](forskrift/2004-12-17-1666)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 des 2007 nr. 119](lov/2007-12-21-119) (ikr. 1 jan 2009 iflg. [res. 7 nov 2008 nr. 1206](forskrift/2008-11-07-1206)), [12 des 2008 nr. 94](lov/2008-12-12-94) (ikr. 27 jan 2009, iflg. [vedtak 27 jan 2009 nr. 65](forskrift/2009-01-27-65)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [17 des 2010 nr. 86](lov/2010-12-17-86) (ikr. 1 jan 2011), [20 jan 2012 nr. 5](lov/2012-01-20-5) (ikr. 1 feb 2012 iflg. [res. 20 jan 2012 nr. 37](forskrift/2012-01-20-37)), [11 mai 2012 nr. 26](lov/2012-05-11-26), [24 mai 2013 nr. 18](lov/2013-05-24-18), [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [29 aug 2014 nr. 62](lov/2014-08-29-62) (ikr. 1 jan 2015), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [16 juni 2017 nr. 54](lov/2017-06-16-54) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 761](forskrift/2017-06-16-761)), [21 juni 2019 nr. 54](lov/2019-06-21-54) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 786](forskrift/2019-06-21-786)), [1 nov 2019 nr. 71](lov/2019-11-01-71) (ikr. 1 nov 2019 iflg. [res. 1 nov 2019 nr. 1449](forskrift/2019-11-01-1449)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [11 mars 2022 nr. 9](lov/2022-03-11-9) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1574](forskrift/2022-09-16-1574)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)), [12 juni 2026 nr. 32](lov/2026-06-12-32) (i kraft 15 sep 2026 iflg. [res. 12 juni 2026 nr. 1054](forskrift/2026-06-12-1054)).
 
 ### § 68
 
@@ -788,7 +788,7 @@ Riksadvokaten gjør vedtak om å begjære gjenåpning.
 
 Anke over tingrettens avgjørelse i sak etter [straffeloven § 39 annet ledd](lov/2005-05-20-28/§39/ledd/2) og [§ 52 første ledd bokstav a](lov/2005-05-20-28/§52/ledd/1/bokstav/a), besluttes av myndighet som nevnt i [lov om straffegjennomføring § 58 annet ledd](lov/2001-05-18-21/§58/ledd/2). Anke over tingrettens avgjørelse i sak etter [straffeloven § 52 c første ledd bokstav a](lov/2005-05-20-28/§52c/ledd/1/bokstav/a), og etter [straffeloven § 52 c fjerde](lov/2005-05-20-28/§52c/ledd/4) og [femte ledd](lov/2005-05-20-28/§52c/ledd/5), besluttes av kriminalomsorgens regionale nivå eller påtalemyndigheten. Anke over lagmannsrettens avgjørelse i sak som nevnt i første og annet punktum, besluttes av statsadvokaten. [§ 310 tredje ledd](lov/2005-05-20-28/§310/ledd/3) gjelder tilsvarende.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 79](lov/1993-06-11-79), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [19 des 2003 nr. 125](lov/2003-12-19-125) (ikr. 1 apr 2004 iflg. [res. 19 des 2003 nr. 1587](forskrift/2003-12-19-1587)), [13 apr 2007 nr. 14](lov/2007-04-13-14), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [11 mai 2012 nr. 26](lov/2012-05-11-26), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [1 nov 2019 nr. 71](lov/2019-11-01-71) (ikr. 1 nov 2019 iflg. [res. 1 nov 2019 nr. 1449](forskrift/2019-11-01-1449)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft 1 des 2024 iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 79](lov/1993-06-11-79), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [19 des 2003 nr. 125](lov/2003-12-19-125) (ikr. 1 apr 2004 iflg. [res. 19 des 2003 nr. 1587](forskrift/2003-12-19-1587)), [13 apr 2007 nr. 14](lov/2007-04-13-14), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [11 mai 2012 nr. 26](lov/2012-05-11-26), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [1 nov 2019 nr. 71](lov/2019-11-01-71) (ikr. 1 nov 2019 iflg. [res. 1 nov 2019 nr. 1449](forskrift/2019-11-01-1449)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft 1 des 2024 iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890)).
 
 ### § 69
 
@@ -868,7 +868,7 @@ Ellers kan en forfølging bare tas opp på ny ved omgjøring av overordnet myndi
 
 Disse regler hindrer ikke at en påtaleunnlatelse blir gjort om til gunst for siktede.
 
-> Endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 75
 
@@ -899,7 +899,7 @@ Ved rettsmøter i tingretten og lagmannsretten kan tilsatte i kriminalomsorgen m
 
 Bestemmelser om påtalemyndighetens rettigheter og plikter gjelder tilsvarende.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lover [28 apr 2000 nr. 34](lov/2000-04-28-34), [15 juni 2001 nr. 64](lov/2001-06-15-64) og [14 des 2001 nr. 98](lov/2001-12-14-98), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [18 mai 2001 nr. 21](lov/2001-05-18-21) (ikr. 1 mars 2002 iflg. [res. 22 feb 2002 nr. 181](forskrift/2002-02-22-181)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 des 2003 nr. 125](lov/2003-12-19-125) (ikr. 1 apr 2004 iflg. [res. 19 des 2003 nr. 1587](forskrift/2003-12-19-1587)), [20 mai 2005 nr. 28](lov/2005-05-20-28) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [13 apr 2007 nr. 14](lov/2007-04-13-14), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 apr 2010 iflg. [res. 19 mars 2010 nr. 407](forskrift/2010-03-19-407)), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lover [28 apr 2000 nr. 34](lov/2000-04-28-34), [15 juni 2001 nr. 64](lov/2001-06-15-64) og [14 des 2001 nr. 98](lov/2001-12-14-98)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [18 mai 2001 nr. 21](lov/2001-05-18-21) (ikr. 1 mars 2002 iflg. [res. 22 feb 2002 nr. 181](forskrift/2002-02-22-181)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 des 2003 nr. 125](lov/2003-12-19-125) (ikr. 1 apr 2004 iflg. [res. 19 des 2003 nr. 1587](forskrift/2003-12-19-1587)), [20 mai 2005 nr. 28](lov/2005-05-20-28) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [13 apr 2007 nr. 14](lov/2007-04-13-14), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 apr 2010 iflg. [res. 19 mars 2010 nr. 407](forskrift/2010-03-19-407)), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 77
 
@@ -909,9 +909,9 @@ Til å føre saker i retten etter påtalemyndighetens nærmere bestemmelse og p�
 
 Når en sak blir ført ved Høyesterett av tjenestemann som ikke har fast lønn, fastsetter retten godtgjørelsen, som utredes av statskassen.
 
-Ved de øvrige domstoler fastsetter retten en slik godtgjørelse etter nærmere regler som blir gitt av Kongen, om det ikke er bestemt en fast lønn. Rettens fastsetting kan ankes etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27).
+Ved de øvrige domstoler fastsetter retten en slik godtgjørelse etter nærmere regler som blir gitt av Kongen, om det ikke er bestemt en fast lønn. Rettens fastsetting kan ankes etter reglene i [rettshjelpsloven § 27](lov/1980-06-13-35/§27).
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [29 juni 1990 nr. 47](lov/1990-06-29-47), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [29 juni 1990 nr. 47](lov/1990-06-29-47), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 79
 
@@ -947,7 +947,7 @@ Bestemmelsene om siktede i denne lov får tilsvarende anvendelse for den som det
 
 Er siktede under 18 år, har også hans verge partsrettigheter. Dersom vergen ikke kan eller vil vareta siktedes tarv i saken, skal statsforvalteren oppnevne en midlertidig verge som har partsrettigheter i stedet for den opprinnelige vergen.
 
-> Endret ved lover [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 84
 
@@ -955,7 +955,7 @@ Dersom det er grunn til å anta at siktede er utilregnelig etter [straffeloven �
 
 Mangler en person som det er grunn til å anta er i en tilstand som nevnt i første ledd, evnen til å forstå hva saken gjelder, eller ville en innkalling virke skadelig på ham, kan innkalling av ham til rettsmøtene i saken unnlates. I så fall utøver vergen alene hans partsrettigheter under rettsmøtet. At siktede selv ikke møter, betraktes i disse tilfellene ikke som uteblivelse. Har han ikke verge, skal det oppnevnes verge.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
 
 ### § 84 a
 
@@ -1001,7 +1001,7 @@ Gir siktedes forhold grunn til å frykte for at han vil utebli fra en berammet h
 
 Skal en dom i straffesak forkynnes for siktede, kan påtalemyndigheten beslutte at han kan pågripes for å få gjennomført forkynnelsen dersom det har gått mer enn én måned siden dommen ble avsagt og forsøk på å forkynne dommen ikke har lykkes.
 
-> Endret ved lover [4 mai 2001 nr. 16](lov/2001-05-04-16) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 467](forskrift/2001-05-04-467)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [16 des 2016 nr. 96](lov/2016-12-16-96) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1640](forskrift/2016-12-16-1640)).
+> Endret ved lover [4 mai 2001 nr. 16](lov/2001-05-04-16) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 467](forskrift/2001-05-04-467)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [16 des 2016 nr. 96](lov/2016-12-16-96) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1640](forskrift/2016-12-16-1640)).
 
 ### § 89
 
@@ -1021,7 +1021,7 @@ Retten kan overlate avhøringen av siktede til påtalemyndigheten og forsvareren
 
 Retten våker over at avhøringen skjer på en tilfredsstillende måte. Spørsmål som ikke kommer saken ved, skal avvises.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 92
 
@@ -1035,7 +1035,7 @@ Under avhøringen må siktede ikke rådføre seg med sin forsvarer før han svar
 
 Nekter siktede å svare, eller forklarer han seg forbeholdent, kan rettens leder gjøre ham oppmerksom på at dette kan bli ansett for å tale mot ham.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### Kap 8 a. Fornærmede og etterlatte
 
@@ -1093,7 +1093,7 @@ En mindreårig som har fylt 15 år, kan på ethvert tidspunkt i saken selv utøv
 
 Rettigheter som nevnt i første ledd utøves av vergen når den fornærmede eller etterlatte fullt ut er fratatt den rettslige handleevnen. Det samme gjelder en fornærmet eller etterlatt som delvis er fratatt den rettslige handleevnen når fratakelsen av handleevnen må anses å omfatte det å utøve prosessuelle rettigheter.
 
-> Tilføyd ved lov [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12).
+> Tilføyd ved lov [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)).
 
 ### Kap 9. Forsvareren.
 
@@ -1139,7 +1139,7 @@ Vil påtalemyndigheten påstå idømt særreaksjon eller forvaring, skal siktede
 
 Er det grunn til å anta at siktede er utilregnelig etter [straffeloven § 20](lov/2005-05-20-28/§20) annet til fjerde ledd, skal han ha forsvarer på ethvert trinn av saken.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 68](lov/1989-06-16-68), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [24 mai 2013 nr. 18](lov/2013-05-24-18), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 68](lov/1989-06-16-68), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [24 mai 2013 nr. 18](lov/2013-05-24-18), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
 
 ### § 97
 
@@ -1189,7 +1189,7 @@ I saker hvor den fornærmede har bistandsadvokat, omfatter oppnevning som forsva
 
 ### § 100 a
 
-Når retten behandler en sak etter [§§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a) annet ledd, [202 c](lov/1981-05-22-25/§202c), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m), [216 o](lov/1981-05-22-25/§216o), [242 a](lov/1981-05-22-25/§242a), [264](lov/1981-05-22-25/§264) sjette ledd, [267](lov/1981-05-22-25/§267) første ledd tredje punktum, [292 a](lov/1981-05-22-25/§292a) eller [politiloven § 17 h](lov/1995-08-04-53/§17h) tredje ledd, skal den straks oppnevne offentlig advokat for den mistenkte. Advokat skal oppnevnes selv om den mistenkte allerede har forsvarer. Advokat skal likevel ikke oppnevnes etter bestemmelsen her i saker etter [§ 242 a](lov/1981-05-22-25/§242a), [§ 264](lov/1981-05-22-25/§264) sjette ledd eller [§ 267](lov/1981-05-22-25/§267) første ledd tredje punktum, jf. [§ 264](lov/1981-05-22-25/§264) sjette ledd, der påtalemyndigheten ikke motsetter seg at den siktedes forsvarer får innsyn i opplysningene mot å bli pålagt taushetsplikt, og forsvareren mottar opplysningene. Retten skal på samme måte oppnevne offentlig advokat for den mistenkte dersom det er begjært at forsvarer ikke skal opplyses om vitnets navn eller gis andre opplysninger som kan føre til at vitnets identitet blir kjent, jf. [§ 130 a](lov/1981-05-22-25/§130a) tredje ledd fjerde punktum.
+Når retten behandler en sak etter [§§ 200 a](lov/1981-05-22-25/§200a), [202 c](lov/1981-05-22-25/§202c), [202 f](lov/1981-05-22-25/§202f), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m), [216 o](lov/1981-05-22-25/§216o), [242 a](lov/1981-05-22-25/§242a), [§ 264 sjette ledd](lov/1981-05-22-25/§264/ledd/6), [§ 267 første ledd tredje punktum](lov/1981-05-22-25/§267/ledd/1/setning/3), [§ 292 a](lov/1981-05-22-25/§292a) eller [politiloven § 17 h tredje ledd](lov/1995-08-04-53/§17h/ledd/3), skal den straks oppnevne offentlig advokat for den mistenkte. Advokat skal oppnevnes selv om den mistenkte allerede har forsvarer. Advokat skal likevel ikke oppnevnes etter bestemmelsen her i saker etter [§ 242 a](lov/1981-05-22-25/§242a), [§ 264](lov/1981-05-22-25/§264) sjette ledd eller [§ 267](lov/1981-05-22-25/§267) første ledd tredje punktum, jf. [§ 264](lov/1981-05-22-25/§264) sjette ledd, der påtalemyndigheten ikke motsetter seg at den siktedes forsvarer får innsyn i opplysningene mot å bli pålagt taushetsplikt, og forsvareren mottar opplysningene. Retten skal på samme måte oppnevne offentlig advokat for den mistenkte dersom det er begjært at forsvarer ikke skal opplyses om vitnets navn eller gis andre opplysninger som kan føre til at vitnets identitet blir kjent, jf. [§ 130 a](lov/1981-05-22-25/§130a) tredje ledd fjerde punktum.
 
 Advokaten skal vareta den mistenktes og eventuelle tredjepersoners interesser i forbindelse med rettens behandling av begjæringen. Samme advokat skal så langt det er mulig oppnevnes ved begjæring om forlengelse av bruken av tvangsmidler og ved begjæring om andre tvangsmidler mot mistenkte som nevnt i første ledd. Advokaten skal gjøres kjent med begjæringen og grunnlaget for den, har etter anmodning krav på innsyn i sakens dokumenter med de begrensninger som følger av [§§ 242](lov/1981-05-22-25/§242) og [242 a](lov/1981-05-22-25/§242a), har krav på varsel til og tilstedeværelse under rettsmøte til behandling av begjæringen og har rett til å uttale seg før retten treffer avgjørelse. Påtalemyndigheten skal fremme begjæring om forlengelse så tidlig at advokaten kan få varsel senest dagen før rettsmøtet holdes. Advokaten kan anke rettens kjennelse. [Kapittel 26](lov/1981-05-22-25/kap26) gjelder så langt reglene passer.
 
@@ -1197,7 +1197,7 @@ Advokaten må ikke sette seg i forbindelse med den mistenkte. Advokaten skal bev
 
 Retten kan ved kjennelse beslutte at en advokat som er oppnevnt etter denne bestemmelsen, ikke kan opptre som forsvarer senere i saken. Forbudet gjelder frem til mistenkte gjennom dokumentinnsyn får de samme opplysningene som forsvareren.
 
-> Tilføyd ved lov [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), endret ved lover [28 juni 2002 nr. 54](lov/2002-06-28-54), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)). **Endres** ved lov [15 apr 2011 nr. 11](lov/2011-04-15-11) (ikr. fra den tid Kongen bestemmer).
+> Tilføyd ved lov [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), endret ved lover [28 juni 2002 nr. 54](lov/2002-06-28-54), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)). **Endres** ved lov [15 apr 2011 nr. 11](lov/2011-04-15-11) (ikr. fra den tid Kongen bestemmer).
 
 ### § 100 b
 
@@ -1343,7 +1343,7 @@ Bistandsadvokaten har rett til å uttale seg om prosessuelle spørsmål som ang�
 
 Ellers har bistandsadvokaten de rettigheter og plikter som fremgår av loven her og kan også utøve de rettigheter som er gitt til fornærmede eller etterlatte på deres vegne. Oppdraget som bistandsadvokat omfatter ikke å søke om voldserstatning fra staten.
 
-> Tilføyd ved lov [14 juni 1985 nr. 71](lov/1985-06-14-71), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)).
+> Tilføyd ved lov [14 juni 1985 nr. 71](lov/1985-06-14-71), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)).
 
 ### § 107 d
 
@@ -1442,7 +1442,7 @@ Retten kan pålegge møtende vitner å komme igjen senere.
 
 Vitne som antar at det har gyldig fraværsgrunn, skal uten ugrunnet opphold meddele dette til retten.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 113
 
@@ -1466,7 +1466,7 @@ Møter et vitne beruset, kan retten bestemme at det skal holdes i fengslig forva
 
 Er det grunn til å frykte at et vitne vil utebli uten gyldig fravær fra en hovedforhandling som han er lovlig innkalt til, og uteblivelse vil føre til en ikke uvesentlig forsinkelse av saken, kan retten straks treffe beslutning etter første ledd. [§ 88](lov/1981-05-22-25/§88) annet ledd annet, tredje og fjerde punktum gjelder tilsvarende.
 
-> Endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 116
 
@@ -1490,7 +1490,7 @@ Etter en avveining av hensynet til taushetsplikten og hensynet til sakens opplys
 
 Regelen i [§ 117](lov/1981-05-22-25/§117) annet ledd gjelder tilsvarende.
 
-> Endret ved lover [24 juni 1994 nr. 45](lov/1994-06-24-45) (ikr. 1 nov 1994), [22 nov 1996 nr. 67](lov/1996-11-22-67) (ikr. 1 des 1996), [30 apr 1999 nr. 25](lov/1999-04-30-25), [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [13 des 2002 nr. 85](lov/2002-12-13-85) (ikr. 1 jan 2003 iflg. [res. 13 des 2002 nr. 1498](forskrift/2002-12-13-1498)), [4 juli 2003 nr. 83](lov/2003-07-04-83) (ikr. 25 juli 2003 iflg. [res. 4 juli 2003 nr. 879](forskrift/2003-07-04-879)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)).
+> Endret ved lover [24 juni 1994 nr. 45](lov/1994-06-24-45) (ikr. 1 nov 1994), [22 nov 1996 nr. 67](lov/1996-11-22-67) (ikr. 1 des 1996), [30 apr 1999 nr. 25](lov/1999-04-30-25), [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [13 des 2002 nr. 85](lov/2002-12-13-85) (ikr. 1 jan 2003 iflg. [res. 13 des 2002 nr. 1498](forskrift/2002-12-13-1498)), [4 juli 2003 nr. 83](lov/2003-07-04-83) (ikr. 25 juli 2003 iflg. [res. 4 juli 2003 nr. 879](forskrift/2003-07-04-879)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)).
 
 ### § 118 a
 
@@ -1528,7 +1528,7 @@ Reglene i [§ 119](lov/1981-05-22-25/§119) annet og fjerde ledd gjelder tilsvar
 
 Selv om forholdet ikke går inn under [§ 119](lov/1981-05-22-25/§119), kan retten frita et vitne for å svare på spørsmål om noe som er blitt betrodd det under sjelesorg, sosialt hjelpearbeid, medisinsk behandling, rettslig bistand eller liknende virksomhet. Vitnet kan i alle tilfelle kreve at forklaring om disse forhold bare skal meddeles retten og partene i møte for stengte dører og under pålegg om taushetsplikt.
 
-> Endret ved lover [4 juli 1991 nr. 44](lov/1991-07-04-44), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)).
+> Endret ved lover [4 juli 1991 nr. 44](lov/1991-07-04-44), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)).
 
 ### § 122
 
@@ -1546,7 +1546,7 @@ Et vitne kan nekte å svare på spørsmål når svaret vil kunne utsette vitnet 
 
 Retten kan frita vitnet for å svare på spørsmål som berører dets forlovede, fosterforeldre, fosterbarn eller fostersøsken på slik måte som nevnt i første ledd.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 124
 
@@ -1568,7 +1568,7 @@ Når svar gis, kan retten beslutte at det bare skal gis til retten og partene i 
 
 Bestemmelsene i paragrafen her gjelder tilsvarende for kringkastingssjef og for medarbeidere i kringkasting eller annen medievirksomhet som i hovedtrekk har samme formål som aviser og kringkasting.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 juli 1999 iflg. [res. 4 juni 1999 nr. 567](forskrift/1999-06-04-567)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 juli 1999 iflg. [res. 4 juni 1999 nr. 567](forskrift/1999-06-04-567)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 126
 
@@ -1594,7 +1594,7 @@ Før avhøringen skal rettens leder formane vitnene til å forklare den fulle sa
 
 Når et barn under 16 år avhøres som vitne, bør barnets foreldre eller en foresatt gis anledning til å være til stede under avhøret, dersom ikke vedkommende selv er anmeldt i saken eller andre grunner taler mot det. Den som møter med barnet i retten, har krav på godtgjørelse som fastsatt for vitner.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 129
 
@@ -1610,7 +1610,7 @@ Rettens leder spør vitnet om navn, fødselsdato, stilling, bopel og forhold til
 
 I stedet for bopel kan vitnet oppgi arbeidssted. Oppgir vitnet arbeidsstedet, kan rettens leder dersom det er behov for det, i tillegg pålegge vitnet å oppgi bopelen skriftlig til retten. Er det fare for at vitnet eller noen som vitnet står i et slikt forhold til som nevnt i [§ 122](lov/1981-05-22-25/§122), kan bli utsatt for en forbrytelse som krenker livet, helsen eller friheten, eller for vesentlig velferdstap av annen art, kan lederen beslutte at opplysning om bopelen eller arbeidsstedet bare skal opplyses skriftlig til retten.
 
-> Endret ved lover [7 apr 1995 nr. 15](lov/1995-04-07-15), [28 juli 2000 nr. 73](lov/2000-07-28-73), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [7 apr 1995 nr. 15](lov/1995-04-07-15), [28 juli 2000 nr. 73](lov/2000-07-28-73), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 130 a
 
@@ -1639,13 +1639,13 @@ Retten kan beslutte at en person som nevnt i tredje ledd annet punktum skal forl
 
 Dersom en kjennelse som tillater anonym vitneførsel omgjøres, kan vitnet ikke føres under full identitet, jf. [§ 130](lov/1981-05-22-25/§130), med mindre vitnet samtykker til det.
 
-> Tilføyd ved lov [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 131
 
 Før forklaring avgis, spør rettens leder vitnet: «Forsikrer du at du vil forklare den rene og fulle sannhet og ikke legge skjul på noe?» Til dette svarer vitnet stående: «Det forsikrer jeg på ære og samvittighet.»
 
-> Endret ved lover [18 des 1987 nr. 97](lov/1987-12-18-97), [7 apr 1995 nr. 15](lov/1995-04-07-15), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [18 des 1987 nr. 97](lov/1987-12-18-97), [7 apr 1995 nr. 15](lov/1995-04-07-15), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 132
 
@@ -1679,7 +1679,7 @@ Møter verken påtalemyndighet eller forsvarer, foretar rettens leder avhøringe
 
 Vitner som retten har innkalt av eget tiltak, avhøres av rettens leder, når han ikke finner grunn til å overlate avhøringen til partene.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 136
 
@@ -1689,7 +1689,7 @@ Spørsmål som ved innhold eller form innbyr til svar i en bestemt retning, må 
 
 Spørsmål som ikke kommer saken ved, skal avvises. Rettens leder skal overta avhøringen dersom den foregår på en utilfredsstillende måte eller andre grunner taler for det.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 137
 
@@ -1769,13 +1769,13 @@ Såfremt den sakkyndige under hovedforhandlingen gir uttalelser som avviker fra 
 
 Kommisjonen skal gjennomgå de innkomne erklæringer og uttalelser. Finner den vesentlige mangler, skal den gjøre retten eller i tilfelle påtalemyndigheten oppmerksom på det.
 
-> Endret ved lov [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+> Endret ved lov [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
 
 ### § 147 a
 
 I saker der det kan bli lagt ned påstand om dom på overføring til tvungent psykisk helsevern etter [straffeloven § 62](lov/2005-05-20-28/§62) eller tvungen omsorg etter [straffeloven § 63](lov/2005-05-20-28/§63), skal påtalemyndigheten underrette den eller de rettspsykiatrisk sakkyndige om dette. De sakkyndige skal straks etter at de har avgitt den rettspsykiatriske erklæringen, underrette det regionale helseforetaket eller helseforetak det bemyndiger om saken. De sakkyndige skal gi råd om hvilken institusjon den siktede bør innskrives ved, jf. [psykisk helsevernloven §§ 5-2](lov/1999-07-02-62/§5-2) og [5-3](lov/1999-07-02-62/§5-3).
 
-> Tilføyd ved lov [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), endret ved lover [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Tilføyd ved lov [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), endret ved lover [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 148
 
@@ -1951,7 +1951,7 @@ Når det er begjært rettspsykiatrisk undersøkelse av en siktet som nekter å h
 
 Er det tvil om det er nødvendig med rettspsykiatrisk undersøkelse, kan påtalemyndigheten eller retten beslutte å innhente en foreløpig erklæring fra en sakkyndig til veiledning om dette. Kravet til habilitet i [§ 165 a](lov/1981-05-22-25/§165a) annet ledd gjelder så vidt mulig tilsvarende for den sakkyndige.
 
-> Endret ved lover [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788), se resolusjonens [nr. 2](forskrift/2020-09-21-1788) for overgangsbestemmelse).
+> Endret ved lover [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788), se resolusjonens [nr. 2](forskrift/2020-09-21-1788) for overgangsbestemmelse).
 
 ### § 165 a
 
@@ -2034,7 +2034,7 @@ Det samme gjelder den som med skjellig grunn mistenkes for overtredelse av [stra
 
 Når det er reist sak om overføring til tvungent psykisk helsevern etter [straffeloven § 62](lov/2005-05-20-28/§62) eller tvungen omsorg etter [straffeloven § 63](lov/2005-05-20-28/§63), eller det er sannsynlig at slik sak vil bli reist, kan pågripelse skje uansett om straff kan idømmes, såfremt vilkårene i første ledd for øvrig foreligger. Det samme gjelder når det er avsagt dom på overføring til tvungent psykisk helsevern eller tvungen omsorg.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
 
 ### § 172
 
@@ -2133,7 +2133,7 @@ Er siktede under 18 år, skal påtalemyndigheten varsle barnevernstjenesten om f
 
 Påtalemyndigheten skal møte med mindre det vil være forbundet med uforholdsmessig ulempe.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 64](lov/1989-06-16-64), [11 juni 1993 nr. 79](lov/1993-06-11-79), [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 747](forskrift/2006-06-30-747)) som endret ved lov [30 aug 2002 nr. 67](lov/2002-08-30-67), [19 juni 2009 nr. 75](lov/2009-06-19-75), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 64](lov/1989-06-16-64), [11 juni 1993 nr. 79](lov/1993-06-11-79), [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 747](forskrift/2006-06-30-747), endring endret ved lov [30 aug 2002 nr. 67](lov/2002-08-30-67)), [19 juni 2009 nr. 75](lov/2009-06-19-75), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)).
 
 ### § 184
 
@@ -2220,7 +2220,7 @@ Er siktede i varetektsfengsel når det avsies ubetinget dom på frihetsstraff el
 
 Frifinnes siktede, skal han straks løslates. Det samme gjelder når han får betinget dom eller bare blir ilagt straff av bot, samfunnsstraff eller fengsel som er avsonet ved varetektsfengsel. Blir det på stedet avgitt erklæring om anke over dom, eller om at det vil bli innstilt på slik anke, kan den rett som har avsagt dommen, når særlige grunner taler for det, ved kjennelse bestemme at siktede kan holdes fengslet i et bestemt tidsrom. Spørsmålet om senere forlengelse av fengslingen avgjøres av retten etter reglene i [§ 185](lov/1981-05-22-25/§185).
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [2 mars 2001 nr. 7](lov/2001-03-02-7), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [2 mars 2001 nr. 7](lov/2001-03-02-7), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 187 a
 
@@ -2386,38 +2386,13 @@ Når hensynet til ærbarhet tilsier det, skal personlig ransaking utføres ved e
 
 Undersøkelser i etterforskingsøyemed på sted av annen art enn nevnt i [§ 192](lov/1981-05-22-25/§192), kan uten samtykke av eier eller besitter foretas etter beslutning av retten, påtalemyndigheten eller – om det er fare ved opphold – tjenestemann i politiet.
 
-### Kap 15 a. Skjult kameraovervåkning og teknisk sporing
+### Kap 15 a. Teknisk sporing
 
-> Overskriften tilføyd ved lov [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), endret [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Overskriften tilføyd ved lov [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), endret ved lover [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
-### § 202 a
+### § 202 a. (Opphevet)
 
-Når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlinger som etter loven kan medføre høyere straff enn fengsel i 6 måneder, kan politiet iverksette skjult kameraovervåking på eller fra offentlig sted når slik overvåking vil være av vesentlig betydning for etterforskningen. Beslutning treffes av retten.
-
-Retten kan ved kjennelse gi politiet tillatelse til å iverksette skjult kameraovervåking på privat sted når noen med skjellig grunn mistenkes for en handling eller forsøk på en handling
-
-1. som etter loven kan medføre straff av fengsel i 10 år eller mer
-2. som rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [127](lov/2005-05-20-28/§127) jf. [123](lov/2005-05-20-28/§123), [§ 128 første punktum](lov/2005-05-20-28/§128/setning/1), [§§ 129](lov/2005-05-20-28/§129), [130](lov/2005-05-20-28/§130), [136](lov/2005-05-20-28/§136), [136 a](lov/2005-05-20-28/§136a), [231](lov/2005-05-20-28/§231), [254](lov/2005-05-20-28/§254), [257](lov/2005-05-20-28/§257), [311](lov/2005-05-20-28/§311), [332](lov/2005-05-20-28/§332) jf. [231](lov/2005-05-20-28/§231), [335](lov/2005-05-20-28/§335) jf. [231](lov/2005-05-20-28/§231), [337](lov/2005-05-20-28/§337) jf. [231](lov/2005-05-20-28/§231) eller [340](lov/2005-05-20-28/§340) jf. [231](lov/2005-05-20-28/§231) eller av [lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5](lov/1987-12-18-93/§5) eller av [lov om utlendingers adgang til riket og deres opphold her § 108 femte ledd](lov/2008-05-15-35/§108/ledd/5).
-
-Tillatelse kan bare gis dersom det må antas at slik overvåking vil være av vesentlig betydning for å oppklare saken, og oppklaring ellers i vesentlig grad vil bli vanskeliggjort.
-
-[§ 196](lov/1981-05-22-25/§196) gjelder tilsvarende.
-
-Som kameraovervåking regnes vedvarende eller regelmessig gjentatt personovervåking ved hjelp av fjernbetjent eller automatisk virkende overvåkingskamera eller annet lignende utstyr som er fastmontert. Som kameraovervåking anses overvåking med mulighet for opptak av bildemateriale. Det kan ikke gis tillatelse til å overvåke noens private hjem etter bestemmelsen her.
-
-Tillatelse etter annet ledd kan bare gis for sted hvor det må antas at den mistenkte vil oppholde seg. Tillatelse til overvåking av sted hvor advokat, lege, prest eller andre erfaringsmessig fører samtaler av svært fortrolig art eller av redaksjonslokale eller tilsvarende sted hvor redaktør eller journalist fører samtaler av yrkesmessig art, kan bare gis når det foreligger særlige grunner, såfremt vedkommende ikke selv er mistenkt i saken.
-
-Tillatelse til skjult kameraovervåking etter bestemmelsen her gis for et bestemt tidsrom, som ikke må være lenger enn strengt nødvendig og høyst 4 uker.
-
-Dersom det ved opphold er stor fare for at etterforskningen vil lide, kan ordre fra påtalemyndigheten tre istedenfor rettens avgjørelse. [§ 216 d](lov/1981-05-22-25/§216d) gjelder tilsvarende.
-
-Når retten ikke bestemmer noe annet, kan politiet foreta innbrudd for å plassere eller fjerne utstyr som er nødvendig for å gjennomføre kameraovervåkingen.
-
-Avgjørelse om skjult kameraovervåking treffes uten at den mistenkte eller den som avgjørelsen ellers rammer, gis adgang til å uttale seg, og avgjørelsen blir ikke meddelt dem. Ved tillatelse etter annet ledd skal likevel mistenkte og den som har rådighet over stedet, underrettes om overvåkingen når den er avsluttet. [§ 216 j](lov/1981-05-22-25/§216j) gjelder tilsvarende.
-
-Reglene i [§ 216 g](lov/1981-05-22-25/§216g) gjelder tilsvarende så langt de passer.
-
-> Tilføyd ved lov [15 mars 1991 nr. 5](lov/1991-03-15-5), endret ved lover [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), [14 apr 2000 nr. 31](lov/2000-04-14-31) (ikr. 1 jan 2001 iflg. [res. 30 juni 2000 nr. 641](forskrift/2000-06-30-641)), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)). **Oppheves** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Tilføyd ved lov [15 mars 1991 nr. 5](lov/1991-03-15-5), endret ved lover [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), [14 apr 2000 nr. 31](lov/2000-04-14-31) (ikr. 1 jan 2001 iflg. [res. 30 juni 2000 nr. 641](forskrift/2000-06-30-641)), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)), opphevet ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 202 b
 
@@ -2453,25 +2428,67 @@ Reglene i [§ 216 g](lov/1981-05-22-25/§216g) gjelder tilsvarende så langt de 
 
 > Tilføyd ved lov [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 1 jan 2000 iflg. [res. 3 des 1999 nr. 1202](forskrift/1999-12-03-1202)), endret ved lover [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)), [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)).
 
-### Kapittel 15 b. (Opphevet)
+### Kap 15 b. Skjult kameraovervåking
 
-> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Tilføyes** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), tilføyd ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
-### § 202 d. (Opphevet)
+### § 202 d
 
-> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Tilføyes** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+Politiet kan iverksette skjult kameraovervåking rettet mot personer på offentlig og privat sted når det foreligger skjellig grunn til mistanke om en straffbar handling som etter loven kan medføre frihetsstraff.
 
-### § 202 e. (Opphevet)
+Beslutning treffes av påtalemyndigheten. Beslutningen skal så vidt mulig være skriftlig og opplyse om hva saken gjelder, og hva tiltaket går ut på. En muntlig beslutning skal snarest mulig nedtegnes.
 
-> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), endret ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Tilføyes** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+Uten beslutning fra påtalemyndigheten kan polititjenestepersoner iverksette skjult kameraovervåking når
 
-### § 202 f. (Opphevet)
+1. mistenkte observeres på fersk gjerning eller ferske spor, eller
+2. det ved opphold er fare for at etterforskningen vil lide.
 
-> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Tilføyes** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+Kameraovervåkingen skal meldes til påtalemyndigheten for godkjennelse så snart som mulig.
 
-### § 202 g. (Opphevet)
+> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), tilføyd ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
-> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Tilføyes** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+### § 202 e
+
+Vedvarende eller regelmessig gjentatt skjult kameraovervåking kan rettes mot personer på offentlig sted eller privat sted som er synlig for allmennheten, når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlinger som etter loven kan medføre høyere straff enn fengsel i 6 måneder, og slik overvåking vil være av vesentlig betydning for etterforskningen. Tillatelse gis av retten ved beslutning.
+
+Dersom det ved opphold er stor fare for at etterforskningen vil lide, kan ordre fra påtalemyndigheten tre istedenfor rettens avgjørelse etter første ledd. Reglene i § 216 d gjelder tilsvarende.
+
+> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), endret ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), tilføyd ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+
+### § 202 f
+
+Vedvarende eller regelmessig gjentatt skjult kameraovervåking kan rettes mot personer på privat sted som ikke er synlig for allmennheten, når noen med skjellig grunn mistenkes for en handling eller forsøk på en handling
+
+1. som etter loven kan medføre straff av fengsel i 10 år eller mer, eller
+2. som rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [127](lov/2005-05-20-28/§127) jf. [123](lov/2005-05-20-28/§123), [§ 128 første punktum](lov/2005-05-20-28/§128/setning/1), [§§ 129](lov/2005-05-20-28/§129), [130](lov/2005-05-20-28/§130), [136](lov/2005-05-20-28/§136), [136 a](lov/2005-05-20-28/§136a), [231](lov/2005-05-20-28/§231), [254](lov/2005-05-20-28/§254), [257](lov/2005-05-20-28/§257), [311](lov/2005-05-20-28/§311), [332](lov/2005-05-20-28/§332) jf. [231](lov/2005-05-20-28/§231), [335](lov/2005-05-20-28/§335) jf. [231](lov/2005-05-20-28/§231), [337](lov/2005-05-20-28/§337) jf. [231](lov/2005-05-20-28/§231) eller [340](lov/2005-05-20-28/§340) jf. [231](lov/2005-05-20-28/§231), av [lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5](lov/1987-12-18-93/§5) eller av [lov om utlendingers adgang til riket og deres opphold her § 108 femte ledd](lov/2008-05-15-35/§108/ledd/5).
+
+Tillatelse gis av retten ved kjennelse.
+
+Tillatelse kan bare gis for sted hvor det må antas at den mistenkte vil oppholde seg.
+
+Tillatelse kan bare gis dersom det må antas at slik overvåking vil være av vesentlig betydning for å oppklare saken, og oppklaring ellers i vesentlig grad vil bli vanskeliggjort.
+
+Reglene i [§ 202 e annet ledd](lov/1981-05-22-25/§202e/ledd/2) gjelder tilsvarende.
+
+> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), tilføyd ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+
+### § 202 g
+
+Det kan ikke gis tillatelse til å overvåke noens private hjem etter reglene i dette kapittelet.
+
+Tillatelse til skjult kameraovervåking av sted hvor advokat, lege, prest eller andre erfaringsmessig fører samtaler av svært fortrolig art eller av redaksjonslokale eller tilsvarende sted hvor redaktør eller journalist fører samtaler av yrkesmessig art, kan bare gis når det foreligger særlige grunner, såfremt vedkommende ikke selv er mistenkt i saken. Slik tillatelse kan kun gis etter reglene i [§§ 202 e](lov/1981-05-22-25/§202e) eller [202 f](lov/1981-05-22-25/§202f).
+
+Tillatelse til skjult kameraovervåking etter [§§ 202 e](lov/1981-05-22-25/§202e) og [202 f](lov/1981-05-22-25/§202f) gis for et bestemt tidsrom som ikke kan være lengre enn strengt nødvendig, og som uansett ikke kan overstige 4 uker om gangen.
+
+Når ikke annet er bestemt i avgjørelsen om skjult kameraovervåking etter [§§ 202 e](lov/1981-05-22-25/§202e) og [202 f](lov/1981-05-22-25/§202f), kan politiet i medhold av disse bestemmelsene foreta innbrudd for å plassere eller fjerne utstyr som er nødvendig for å gjennomføre kameraovervåkingen.
+
+Avgjørelse om skjult kameraovervåking treffes uten at den mistenkte eller den som avgjørelsen ellers rammer, gis adgang til å uttale seg, og avgjørelsen blir ikke meddelt dem. Ved tillatelse etter [§ 202 f](lov/1981-05-22-25/§202f) skal likevel mistenkte og den som har rådighet over stedet, underrettes om overvåkingen når den er avsluttet. Reglene i [§ 216 j](lov/1981-05-22-25/§216j) gjelder tilsvarende.
+
+Regelen i [§ 196](lov/1981-05-22-25/§196) gjelder tilsvarende.
+
+Reglene i [§ 216 g](lov/1981-05-22-25/§216g) gjelder tilsvarende så langt de passer.
+
+> Tilføyd ved lov [28 juni 2002 nr. 54](lov/2002-06-28-54), opphevet ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), tilføyd ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### Kap 16. Beslag og utleveringspålegg.
 
@@ -2601,7 +2618,7 @@ Viser det seg innen saken er endelig avgjort, at det ikke lenger er behov for be
 
 For øvrig faller beslaget bort når saken er endelig avgjort. Retten kan bestemme at beslag av bevismidler skal opprettholdes også etter at det foreligger rettskraftig dom i saken, såfremt og så lenge det er grunn til å regne med at saken kan bli begjært gjenåpnet eller andre særlige forhold tilsier det.
 
-> Endret ved lover [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 214
 
@@ -2876,7 +2893,7 @@ For å sikre betaling av bot, inndragning, saksomkostninger, erstatning eller op
 
 En avgjørelse av retten kan ikke ankes av siktede.
 
-> Endret ved lover [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 218
 
@@ -2992,7 +3009,7 @@ Dersom vergen, eller barnet dersom det er over 15 år, ikke samtykker i oppholds
 
 ### § 222 d
 
-Retten kan ved kjennelse gi politiet tillatelse til som ledd i etterforsking å nytte tvangsmidler som nevnt i [kapittel 15](lov/1981-05-22-25/kap15), 15 a, 16, 16 a, 16 b og 16 d når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av
+Retten kan ved kjennelse gi politiet tillatelse til som ledd i etterforskning å nytte tvangsmidler som nevnt i [kapittel 15](lov/1981-05-22-25/kap15), [15 a](lov/1981-05-22-25/kap15a), [15 b](lov/1981-05-22-25/kap15b), [16](lov/1981-05-22-25/kap16), [16 a](lov/1981-05-22-25/kap16a), [16 b](lov/1981-05-22-25/kap16b) og [16 d](lov/1981-05-22-25/kap16d) når det er rimelig grunn til å tro at noen kommer til å begå en handling som rammes av
 
 1. [straffeloven §§ 131](lov/2005-05-20-28/§131) eller [134](lov/2005-05-20-28/§134),
 2. [straffeloven § 275](lov/2005-05-20-28/§275), eller
@@ -3005,13 +3022,13 @@ Politiets sikkerhetstjeneste kan også gis slik tillatelse når det er rimelig g
 3. [straffeloven §§ 139](lov/2005-05-20-28/§139), [140](lov/2005-05-20-28/§140), [192](lov/2005-05-20-28/§192), [194](lov/2005-05-20-28/§194), [238](lov/2005-05-20-28/§238), [239](lov/2005-05-20-28/§239), [240](lov/2005-05-20-28/§240), [241](lov/2005-05-20-28/§241), [242](lov/2005-05-20-28/§242), [355](lov/2005-05-20-28/§355), [356](lov/2005-05-20-28/§356), [357](lov/2005-05-20-28/§357) eller [358](lov/2005-05-20-28/§358) og som begås med sabotasjehensikt, eller
 4. [straffeloven §§ 251](lov/2005-05-20-28/§251), [254](lov/2005-05-20-28/§254), [256](lov/2005-05-20-28/§256), [263](lov/2005-05-20-28/§263) eller [273](lov/2005-05-20-28/§273) og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
 
-Tillatelse kan bare gis dersom det må antas at inngrepet vil gi opplysninger av vesentlig betydning for å kunne avverge handlingen og at avverging ellers i vesentlig grad vil bli vanskeliggjort. Tillatelse til å nytte tvangsmidler som nevnt i [§§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a) annet ledd, [202 c](lov/1981-05-22-25/§202c), [216 a](lov/1981-05-22-25/§216a), [216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o) kan bare gis når særlige grunner tilsier det. Politiets sikkerhetstjeneste kan bare gis tillatelse til å romavlytte, jf. [§ 216 m](lov/1981-05-22-25/§216m), når det er grunn til å tro at noen kommer til å begå en handling som rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [130 a](lov/2005-05-20-28/§130a), [131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133), [134](lov/2005-05-20-28/§134) eller [142](lov/2005-05-20-28/§142), eller av [§§ 251](lov/2005-05-20-28/§251), [254](lov/2005-05-20-28/§254), [256](lov/2005-05-20-28/§256), [263](lov/2005-05-20-28/§263), [273](lov/2005-05-20-28/§273) eller [275](lov/2005-05-20-28/§275) og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
+Tillatelse kan bare gis dersom det må antas at inngrepet vil gi opplysninger av vesentlig betydning for å kunne avverge handlingen og at avverging ellers i vesentlig grad vil bli vanskeliggjort. Tillatelse til å nytte tvangsmidler som nevnt i [§§ 200 a](lov/1981-05-22-25/§200a), [202 c](lov/1981-05-22-25/§202c), [202 f](lov/1981-05-22-25/§202f), [216 a](lov/1981-05-22-25/§216a), [216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o) kan bare gis når særlige grunner tilsier det. Politiets sikkerhetstjeneste kan bare gis tillatelse til å romavlytte, jf. [§ 216 m](lov/1981-05-22-25/§216m), når det er grunn til å tro at noen kommer til å begå en handling som rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [130 a](lov/2005-05-20-28/§130a), [131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133), [134](lov/2005-05-20-28/§134) eller [142](lov/2005-05-20-28/§142), eller av [§§ 251](lov/2005-05-20-28/§251), [254](lov/2005-05-20-28/§254), [256](lov/2005-05-20-28/§256), [263](lov/2005-05-20-28/§263), [273](lov/2005-05-20-28/§273) eller [275](lov/2005-05-20-28/§275) og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
 
 Dersom det ved opphold er stor fare for at en handling som nevnt i første eller annet ledd ikke vil kunne avverges, kan ordre fra påtalemyndigheten tre i stedet for kjennelse av retten. Beslutningen skal snarest mulig, og senest 24 timer etter at tvangsmidlet ble tatt i bruk, legges frem for retten for godkjennelse. Beslutningen skal så vidt mulig være skriftlig og opplyse om hva saken gjelder og om formålet med bruken av tvangsmidlet. En muntlig beslutning skal snarest mulig nedtegnes. [§ 216 d](lov/1981-05-22-25/§216d) første ledd tredje til femte punktum og annet ledd gjelder tilsvarende.
 
-Bestemmelsene i [kapittel 15](lov/1981-05-22-25/kap15), 15 a, 16, 16 a og 16 b gjelder tilsvarende så langt de passer. Reglene i [§§ 216 i](lov/1981-05-22-25/§216i), 242 og 242 a gjelder for all bruk av tvangsmidler etter paragrafen her.
+Bestemmelsene i [kapittel 15](lov/1981-05-22-25/kap15), [15 a](lov/1981-05-22-25/kap15a), [15 b](lov/1981-05-22-25/kap15b), [16](lov/1981-05-22-25/kap16), [16 a](lov/1981-05-22-25/kap16a) og [16 b](lov/1981-05-22-25/kap16b) gjelder tilsvarende så langt de passer. Reglene i [§§ 216 i](lov/1981-05-22-25/§216i), [242](lov/1981-05-22-25/§242) og [242 a](lov/1981-05-22-25/§242a) gjelder for all bruk av tvangsmidler etter paragrafen her.
 
-> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [24 mai 2013 nr. 18](lov/2013-05-24-18), [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)), [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [24 mai 2013 nr. 18](lov/2013-05-24-18), [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)), [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)), [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### Kap. 17 c. Forbud mot kriminelle sammenslutninger
 
@@ -3150,7 +3167,7 @@ Forklaringen skal skrives ned, leses opp til vedtakelse og så vidt mulig forele
 
 Etter nærmere regler som Kongen gir, kan forklaringer opptas stenografisk eller ved mekaniske midler. Reglene fastsetter i hvilken utstrekning slik gjengivelse kan tre i stedet for innføring i rapporten.
 
-> Endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [25 juni 2004 nr. 52](lov/2004-06-25-52), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [29 juni 2007 nr. 75](lov/2007-06-29-75) (ikr. 1 nov 2007 iflg. [res. 29 juni 2007 nr. 752](forskrift/2007-06-29-752)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [20 des 2018 nr. 114](lov/2018-12-20-114), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [25 juni 2004 nr. 52](lov/2004-06-25-52), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [29 juni 2007 nr. 75](lov/2007-06-29-75) (ikr. 1 nov 2007 iflg. [res. 29 juni 2007 nr. 752](forskrift/2007-06-29-752)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127)), [20 des 2018 nr. 114](lov/2018-12-20-114), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 231
 
@@ -3363,7 +3380,7 @@ Retten plikter å ta begjæringen til følge, hvis ikke det begjærte rettergang
 
 ### § 242
 
-Mistenkte, hans forsvarer, fornærmede, etterlatte i lovbestemt rekkefølge og bistandsadvokaten skal på begjæring gis adgang til å gjøre seg kjent med sakens dokumenter såfremt det kan skje uten skade eller fare for etterforskingens øyemed eller for tredjemann. Innsyn i opptak, notater og andre dokumenter som inneholder opplysninger om eller fra bruk av tvangsmidler som nevnt i [§§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a), [202 b](lov/1981-05-22-25/§202b), [202 c](lov/1981-05-22-25/§202c), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m), [216 o](lov/1981-05-22-25/§216o) og [222 d](lov/1981-05-22-25/§222d), eller bruk av båndlegging etter [politiloven § 17 h](lov/1995-08-04-53/§17h) tredje ledd, kan også nektes dersom innsyn kan skade etterforskingen av andre saker. Offentlig forsvarer kan ikke nektes adgang til dokumenter som fremlegges eller har vært fremlagt i rettsmøte, unntatt rettsmøte som holdes for å avsi kjennelse etter fjerde ledd. Disse regler gjelder likevel ikke dokumenter som bør holdes hemmelig av hensyn til rikets sikkerhet eller forhold til fremmed stat.
+Mistenkte, hans forsvarer, fornærmede, etterlatte i lovbestemt rekkefølge og bistandsadvokaten skal på begjæring gis adgang til å gjøre seg kjent med sakens dokumenter såfremt det kan skje uten skade eller fare for etterforskingens øyemed eller for tredjemann. Innsyn i opptak, notater og andre dokumenter som inneholder opplysninger om eller fra bruk av tvangsmidler som nevnt i [§§ 200 a](lov/1981-05-22-25/§200a), [202 b](lov/1981-05-22-25/§202b), [202 c](lov/1981-05-22-25/§202c), [202 d](lov/1981-05-22-25/§202d), [202 e](lov/1981-05-22-25/§202e), [202 f](lov/1981-05-22-25/§202f), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m), [216 o](lov/1981-05-22-25/§216o) og [222 d](lov/1981-05-22-25/§222d), eller bruk av båndlegging etter [politiloven § 17 h tredje ledd](lov/1995-08-04-53/§17h/ledd/3), kan også nektes dersom innsyn kan skade etterforskingen av andre saker. Offentlig forsvarer kan ikke nektes adgang til dokumenter som fremlegges eller har vært fremlagt i rettsmøte, unntatt rettsmøte som holdes for å avsi kjennelse etter fjerde ledd. Disse regler gjelder likevel ikke dokumenter som bør holdes hemmelig av hensyn til rikets sikkerhet eller forhold til fremmed stat.
 
 Mistenktes forsvarer kan gis innsyn selv om mistenkte nektes innsyn etter første ledd. I så tilfelle plikter forsvareren å bevare taushet om opplysningene han får innsyn i.
 
@@ -3379,7 +3396,7 @@ Den som har fremmet et sivilt krav i saken skal på begjæring gis adgang til å
 
 Kongen kan gi forskrifter om hvordan dokumentene skal gjøres tilgjengelig etter denne paragraf.
 
-> Endret ved lover [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 15 okt 2000 iflg. [res. 22 sep 2000 nr. 958](forskrift/2000-09-22-958)), [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [2 juli 2004 nr. 61](lov/2004-07-02-61) (ikr. 1 jan 2005 iflg. [res. 2 juli 2004 nr. 1065](forskrift/2004-07-02-1065)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [20 des 2018 nr. 114](lov/2018-12-20-114), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Endret ved lover [3 des 1999 nr. 82](lov/1999-12-03-82) (ikr. 15 okt 2000 iflg. [res. 22 sep 2000 nr. 958](forskrift/2000-09-22-958)), [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [2 juli 2004 nr. 61](lov/2004-07-02-61) (ikr. 1 jan 2005 iflg. [res. 2 juli 2004 nr. 1065](forskrift/2004-07-02-1065)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [20 des 2018 nr. 114](lov/2018-12-20-114), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 242 a
 
@@ -3403,7 +3420,7 @@ Retten kan bare omgjøre en kjennelse om å nekte innsyn etter paragrafen her, d
 
 Statsadvokatens begjæring etter første ledd og andre dokumenter knyttet til behandlingen av begjæringen inngår ikke i straffesaksdokumentene i den sak begjæringen knytter seg til, og skal ikke gjøres kjent for mistenkte og forsvareren. [§§ 216 e](lov/1981-05-22-25/§216e) annet ledd og [216 i](lov/1981-05-22-25/§216i) første ledd første punktum gjelder tilsvarende. Kjennelsen skal meddeles den advokat som er særskilt oppnevnt etter [§ 100 a](lov/1981-05-22-25/§100a).
 
-> Tilføyd ved lov [9 mai 2003 nr. 30](lov/2003-05-09-30), endret ved lover [21 des 2007 nr. 126](lov/2007-12-21-126), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)).
+> Tilføyd ved lov [9 mai 2003 nr. 30](lov/2003-05-09-30), endret ved lover [21 des 2007 nr. 126](lov/2007-12-21-126), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)).
 
 ### § 243
 
@@ -3460,7 +3477,7 @@ Retten kan beslutte at rettsmøte til pådømmelse av saken skal holdes som fjer
 
 Bistandsadvokat for fornærmede skal underrettes om påtalemyndighetens begjæring om tilståelsesdom og varsles om rettsmøtet.
 
-> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lover [4 mai 2001 nr. 16](lov/2001-05-04-16) og [15 juni 2001 nr. 64](lov/2001-06-15-64), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 1 sep 2011 iflg. [res. 12 aug 2011 nr. 834](forskrift/2011-08-12-834)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lover [4 mai 2001 nr. 16](lov/2001-05-04-16) og [15 juni 2001 nr. 64](lov/2001-06-15-64)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 1 sep 2011 iflg. [res. 12 aug 2011 nr. 834](forskrift/2011-08-12-834)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### Kap 19. Tiltalebeslutning.
 
@@ -3484,7 +3501,7 @@ Er det grunn til å anta at siktede er utilregnelig etter [straffeloven § 20](l
 
 Er det grunn til å anta at hindringen er av forbigående art, kan spørsmålet om tiltale stilles foreløpig i bero. Ellers innstilles forfølgingen. Stilles saken foreløpig i bero, gjelder regelen i [§ 250](lov/1981-05-22-25/§250) annet ledd tilsvarende.
 
-> Endret ved lover [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+> Endret ved lover [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
 
 ### § 252
 
@@ -3589,7 +3606,7 @@ Når særlige grunner tilsier det, kan retten beslutte å holde muntlig forhandl
 
 Retten avgjør ved kjennelse om gjenåpning skal tillates. Reglene i [§ 54](lov/1981-05-22-25/§54) kommer ikke til anvendelse. Blir gjenåpning besluttet, behandles saken av tingretten. [§ 400](lov/1981-05-22-25/§400) gjelder tilsvarende så langt den passer.
 
-> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### Kap 21. Forberedelse til hovedforhandling.
 
@@ -3614,7 +3631,7 @@ Når hensynet til forsvarlig og konsentrert behandling tilsier det, kan påtalem
 
 Straks retten mottar påtalemyndighetens oversendelse, skal den ta stilling til om det skal oppnevnes forsvarer.
 
-> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [20 juli 1991 nr. 68](lov/1991-07-20-68), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [20 juli 1991 nr. 68](lov/1991-07-20-68), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 263
 
@@ -3640,7 +3657,7 @@ Er det flere tiltalte i en sak, har én forsvarer ikke rett til å få oversendt
 
 Tiltalte har rett til å gjøre seg kjent med dokumenter fra andre saker i den utstrekning de er av betydning for avgjørelsen av skyld- eller straffespørsmålet i tiltaltes sak.
 
-> Endret ved lover [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [21 des 2007 nr. 126](lov/2007-12-21-126), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [21 des 2007 nr. 126](lov/2007-12-21-126), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 264 a
 
@@ -3696,7 +3713,7 @@ Forsvareren kan be om at bevis søkes skaffet til veie på annen måte enn påta
 
 Avslår påtalemyndigheten begjæringen, skal den straks underrette forsvareren om det. Forsvareren kan forlange at spørsmålet blir forelagt for retten. Dens avgjørelse kan ikke ankes.
 
-> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 267
 
@@ -3758,7 +3775,7 @@ Retten kan under saksforberedelsen avvise saken. Retten kan også frifinne tilta
 
 Retten kan under saksforberedelsen avgjøre spørsmål i tilknytning til bevisføringen, herunder om bevis skal nektes ført etter [§ 292](lov/1981-05-22-25/§292).
 
-> Endret ved lover [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 1 sep 2011 iflg. [res. 12 aug 2011 nr. 834](forskrift/2011-08-12-834)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 1 sep 2011 iflg. [res. 12 aug 2011 nr. 834](forskrift/2011-08-12-834)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 272 a
 
@@ -3766,7 +3783,7 @@ Begjæring fra statsadvokaten om at den siktede og hans forsvarer kan nektes inn
 
 Kjennelse om å nekte dokumentinnsyn eller avskjære bevis etter bestemmelsene som det er vist til i første ledd, er bindende også under hovedforhandlingen, med mindre påtalemyndigheten likevel vil legge frem opplysningene eller grunnen til å nekte innsyn eller bevisførsel er falt bort og særlig tungtveiende hensyn tilsier at kjennelsen omgjøres. Den særskilte dommerens beslutning om ikke å omgjøre en kjennelse, kan ikke ankes.
 
-> Tilføyd ved lov [9 mai 2003 nr. 30](lov/2003-05-09-30), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)).
+> Tilføyd ved lov [9 mai 2003 nr. 30](lov/2003-05-09-30), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)).
 
 ### § 273
 
@@ -3784,7 +3801,7 @@ Retten kan beslutte at det skal holdes rettsmøte under saksforberedelsen. Retts
 
 Tiltalte, fornærmede og etterlatte innkalles når deres tilstedeværelse er nødvendig.
 
-> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 274 a
 
@@ -3841,7 +3858,7 @@ Retten kan ikke settes med dommerfullmektig i sak om lovbrudd som etter loven ka
 
 I vidløftige saker kan rettens leder bestemme at ett eller to varamedlemmer for meddommerne skal følge forhandlingene og tre inn i retten om noen får forfall.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [30 jan 2009 nr. 7](lov/2009-01-30-7) (ikr. 1 juli 2009 iflg. [res. 13 mars 2009 nr. 320](forskrift/2009-03-13-320)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [30 jan 2009 nr. 7](lov/2009-01-30-7) (ikr. 1 juli 2009 iflg. [res. 13 mars 2009 nr. 320](forskrift/2009-03-13-320)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 277
 
@@ -3857,7 +3874,7 @@ Når retten settes med tre meddommere etter [§ 276](lov/1981-05-22-25/§276) an
 
 Hovedforhandlingen er muntlig. Opplesing kan ikke tre i stedet for fri muntlig framstilling. For å lette fremstilling av argumentasjon og bevisføring kan det benyttes disposisjon, illustrasjon, oversikt eller annet hjelpemiddel. Hjelpedokumenter skal ikke utgjøre bevis i saken uavhengig av den redegjørelse de skal være til støtte for, og skal heller ikke ha karakter av skriftlig prosedyre.
 
-> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [16 juni 1989 nr. 68](lov/1989-06-16-68), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 278 a
 
@@ -3896,7 +3913,7 @@ Sak om forvaring kan ikke fremmes i tiltaltes fravær.
 
 I alle tilfelle kan forhandlingen fremmes når retten finner at den må føre til frifinnelse eller avvising.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127)).
 
 ### § 282
 
@@ -3910,13 +3927,13 @@ Dersom begjæringen ikke straks forkastes, forelegges den for motparten til utta
 
 Uteblir domfelte ved den nye hovedforhandling uten at det er opplyst eller sannsynlig at han har gyldig fravær, heves saken, og den avsagte dom blir stående ved makt.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359) – se dens IV), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359) – se dens IV), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 283
 
 Når hovedforhandlingen må utsettes, kan retten likevel oppta bevis under vilkår som nevnt i [§ 270](lov/1981-05-22-25/§270). Bevisopptaket foretas av rettens leder.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 284
 
@@ -3961,7 +3978,7 @@ Ved avsigelse av dom i saken kan kjennelsen fravikes til gunst for tiltalte, men
 
 Blir det ikke tatt avgjørelse etter annet ledd, fortsetter forhandlingen med sikte på å avgjøre saken under ett.
 
-> Endret ved lover [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127).
+> Endret ved lover [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127)).
 
 ### § 289
 
@@ -3971,7 +3988,7 @@ Deretter får aktor ordet for å forklare hva som er gjenstand for tiltalen, og 
 
 Forsvareren kan på begjæring få ordet til korte bemerkninger i tilknytning til det som aktor har uttalt.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 289 a
 
@@ -4059,7 +4076,7 @@ Når et vitne ikke er til stede under hovedforhandlingen, kan gjengivelse i rett
 
 En skriftlig erklæring som vitnet har gitt i anledning av saken, kan bare leses opp såfremt begge parter samtykker eller rettslig avhør ikke kan foretas.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 298
 
@@ -4127,7 +4144,7 @@ Ved avgjørelsen av hva som anses bevist, tas bare i betraktning de bevis som er
 
 ### Kap 23. Anke over dommer
 
-> Kapitlet opphevet ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80), tilføyd med nye [§§ 306](lov/1993-06-11-80/§306) til [351](lov/1993-06-11-80/§351) ved samme lov fra 1 aug 1995 iflg. [res. 2 juni 1995 nr. 513](forskrift/1995-06-02-513). Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Kapitlet opphevet ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80), tilføyd med nye [§§ 306](lov/1993-06-11-80/§306) til [351](lov/1993-06-11-80/§351) ved samme lov fra 1 aug 1995 iflg. [res. 2 juni 1995 nr. 513](forskrift/1995-06-02-513). Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 306
 
@@ -4135,7 +4152,7 @@ Dommer av tingrett eller lagmannsrett kan påankes av partene til den ankeinstan
 
 Anke til Høyesterett kan ikke grunnes på feil ved bevisbedømmelsen under skyldspørsmålet.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 307
 
@@ -4230,7 +4247,7 @@ Prosessledende avgjørelser kan ikke brukes som ankegrunn når de etter særskil
 
 Ved prøving av saksbehandlingen er ankedomstolen ikke bundet av avgjørelser truffet etter anke over kjennelser og beslutninger. Likevel er lagmannsretten bundet av den rettsoppfatning som ligger til grunn for avgjørelse i Høyesteretts ankeutvalg.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 316
 
@@ -4269,7 +4286,7 @@ Uforsettlige feil bør søkes avhjulpet. Om nødvendig kan det gis den ankende e
 
 Ved anke til Høyesterett treffer Høyesteretts ankeutvalg avgjørelser etter [§§ 317-319](lov/1981-05-22-25/§317).
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 321
 
@@ -4283,7 +4300,7 @@ Avgjørelser etter paragrafen her tas ved beslutning og kan begrenses til en del
 
 Nektelse etter paragrafen her eller avslag på begjæring om omgjøring av slik nektelse kan ankes på grunnlag av feil i saksbehandlingen. For øvrig kan avgjørelser etter paragrafen her ikke ankes eller brukes som ankegrunn.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1614](forskrift/2003-12-19-1614)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 51](lov/2019-06-21-51) (ikr. 1 jan 2020 iflg. [res. 22 nov 2019 nr. 1549](forskrift/2019-11-22-1549), se denne for overgangsbestemmelse).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1614](forskrift/2003-12-19-1614)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 51](lov/2019-06-21-51) (ikr. 1 jan 2020 iflg. [res. 22 nov 2019 nr. 1549](forskrift/2019-11-22-1549), se denne for overgangsbestemmelse).
 
 ### § 322
 
@@ -4310,7 +4327,7 @@ Anke over dom av lagmannsretten kan avgjøres uten ankeforhandling når Høyeste
 1. at dommen helt eller delvis bør oppheves, eller
 2. at siktede må frifinnes fordi den påtalte handlingen ikke er straffbar eller straffansvaret er falt bort.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [11 mai 2012 nr. 26](lov/2012-05-11-26).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [11 mai 2012 nr. 26](lov/2012-05-11-26).
 
 ### § 324
 
@@ -4326,7 +4343,7 @@ Blir anken ikke avgjort etter foranstående regler, skal den henvises til ankefo
 
 Henvisningsavgjørelsen skal forkynnes for den som har fått krav som nevnt i [§ 3](lov/1981-05-22-25/§3) avgjort i den avgjørelsen anken gjelder. Fornærmede gis samtidig en frist for å begjære behandling av krav etter [§ 3](lov/1981-05-22-25/§3) jf. [§ 428](lov/1981-05-22-25/§428), eventuelt imøtegå begjæring fra siktede etter [§ 311](lov/1981-05-22-25/§311) første ledd annet punktum eller [§ 310](lov/1981-05-22-25/§310) første ledd annet punktum.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)).
 
 ### § 326
 
@@ -4342,7 +4359,7 @@ Ankeforhandling forberedes og gjennomføres etter de regler som gjelder for beha
 
 Avgjørelser som nevnt i [§ 54](lov/1981-05-22-25/§54), med unntak av bevisopptak etter [§ 338](lov/1981-05-22-25/§338) annet ledd, kan under saksforberedelsen for Høyesterett treffes av den dommer som forbereder ankeforhandlingen eller etter dennes innstilling av Høyesteretts ankeutvalg.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 328
 
@@ -4358,7 +4375,7 @@ Retten sender saksdokumentene til påtalemyndigheten med pålegg om innen en fas
 
 Om utarbeidelse av utdrag gjelder [lov 14. august 1918 nr. 2](lov/1918-08-14-2) om utdrag i sivile saker og straffesaker.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)).
 
 ### § 330
 
@@ -4388,7 +4405,7 @@ Er retten satt med meddommere i saker der bare noen spørsmål skal behandles me
 
 Paragrafen her gjelder ikke for anke over saker som nevnt i [straffeloven § 39](lov/2005-05-20-28/§39) annet ledd og [§ 52](lov/2005-05-20-28/§52) første ledd bokstav a.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [13 apr 2007 nr. 14](lov/2007-04-13-14), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [13 apr 2007 nr. 14](lov/2007-04-13-14), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 333
 
@@ -4404,7 +4421,7 @@ Beslutning om skriftlig behandling kan ikke ankes eller brukes som ankegrunn.
 
 Paragrafen her gjelder ikke for anke over saker som nevnt i [straffeloven § 39](lov/2005-05-20-28/§39) annet ledd og [§ 52](lov/2005-05-20-28/§52) første ledd bokstav a.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [13 apr 2007 nr. 14](lov/2007-04-13-14), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [13 apr 2007 nr. 14](lov/2007-04-13-14), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 334
 
@@ -4432,7 +4449,7 @@ Skal retten ikke prøve bevisene under skyldspørsmålet, kan saken alltid fremm
 
 En ankesak kan heves dersom det har gått mer enn to år siden siktede erklærte anke og ankeforhandling ikke er holdt fordi det har vært umulig å innkalle siktede eller fordi siktede har hatt gyldig fravær. Avgjørelsen tas ved kjennelse. Ankefristen løper fra det tidspunktet kjennelsen er avsagt. Dersom siktede har forsvarer, har også forsvareren rett til å anke kjennelsen.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 337
 
@@ -4440,7 +4457,7 @@ Kjennelse om avvisning etter [§ 336](lov/1981-05-22-25/§336) første ledd før
 
 Begjæring om omgjøring må fremsettes innen utløpet av ankefristen. Reglene i [§ 318](lov/1981-05-22-25/§318) første ledd får tilsvarende anvendelse.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 338
 
@@ -4450,7 +4467,7 @@ Begjæring om bevisopptak fremsettes for Høyesteretts ankeutvalg, som avgjør o
 
 Reglene i [§ 271](lov/1981-05-22-25/§271) gjelder tilsvarende.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 339
 
@@ -4518,11 +4535,11 @@ Når forhandlingen gjelder bevisbedømmelsen under skyldspørsmålet, avgjøres 
 
 Dersom retten i andre tilfelle ikke finner grunn til å endre eller oppheve den påankede dom, forkastes anken. I motsatt fall avsier retten ny dom dersom de nødvendige forutsetninger er til stede; ellers oppheves den angrepne dom.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 346. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (i kraft 1 aug 1995), opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (i kraft 1 aug 1995), opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 347
 
@@ -4578,7 +4595,7 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### § 355. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [30 jan 2009 nr. 7](lov/2009-01-30-7) (ikr. 1 juli 2009 iflg. [res. 13 mars 2009 nr. 320](forskrift/2009-03-13-320)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [30 jan 2009 nr. 7](lov/2009-01-30-7) (ikr. 1 juli 2009 iflg. [res. 13 mars 2009 nr. 320](forskrift/2009-03-13-320)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 356. (Opphevet)
 
@@ -4594,15 +4611,15 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### § 359. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 360. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [7 apr 1995 nr. 15](lov/1995-04-07-15), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [7 apr 1995 nr. 15](lov/1995-04-07-15), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 361. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 362. (Opphevet)
 
@@ -4610,7 +4627,7 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### § 363. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 364. (Opphevet)
 
@@ -4630,15 +4647,15 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### § 368. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 369. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 370. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 371. (Opphevet)
 
@@ -4666,7 +4683,7 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### § 376 a. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 376 b. (Opphevet)
 
@@ -4678,7 +4695,7 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### § 376 d. (Opphevet)
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 376 e. (Opphevet)
 
@@ -4694,7 +4711,7 @@ Anke fra påtalemyndigheten til gunst for siktede kan ikke føre til endring som
 
 ### Kap 26. Anke over kjennelser og beslutninger
 
-> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 377
 
@@ -4704,7 +4721,7 @@ En kjennelse eller beslutning om saksbehandlingen som etter loven skal treffes e
 
 Reglene i [§§ 308](lov/1981-05-22-25/§308) og [309](lov/1981-05-22-25/§309) gjelder tilsvarende.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 378
 
@@ -4716,7 +4733,7 @@ Kjennelser og beslutninger under hovedforhandlingen kan ikke ankes uten i følge
 4. når de avslår en begjæring om oppnevning av offentlig forsvarer,
 5. når de er truffet etter bestemmelsene i [§ 242 a](lov/1981-05-22-25/§242a), [§ 264](lov/1981-05-22-25/§264) sjette ledd, [§ 267](lov/1981-05-22-25/§267) første ledd tredje punktum, jf. [§ 264](lov/1981-05-22-25/§264) sjette ledd eller [§ 292 a](lov/1981-05-22-25/§292a).
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [9 mai 2003 nr. 30](lov/2003-05-09-30), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 379
 
@@ -4724,7 +4741,7 @@ Ankefristen er to uker, når ikke annet er bestemt. Reglene i [§ 310](lov/1981-
 
 Anke fra den som er pålagt å gi forklaring eller forsikring, underkaste seg gransking, utlevere bevis eller gjøre tjeneste som sakkyndig, må erklæres straks om vedkommende er til stede i retten, og ellers innen tre dager.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 380
 
@@ -4732,7 +4749,7 @@ Anke erklæres skriftlig eller muntlig for den rett hvis avgjørelse angripes. R
 
 Anke over avgjørelser om hvorvidt en siktet skal varetektsfengsles, skal behandles snarest mulig.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [28 juni 2002 nr. 55](lov/2002-06-28-55) (ikr. 1 okt 2002 iflg. [res. 28 juni 2002 nr. 647](forskrift/2002-06-28-647)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)).
 
 ### § 381
 
@@ -4742,7 +4759,7 @@ Finner retten at det ikke er adgang til å anke, eller at anken er erklært for 
 
 Senest ved oversendelsen gir retten motparten melding om anken, såfremt noen har opptrådt som motpart eller kan betraktes som motpart. Melding gis likevel ikke når påtalemyndigheten anker et avslag på begjæring om bruk av tvangsmiddel, såfremt det er fare for at slik melding vil forspille formålet med forføyningen.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 382
 
@@ -4750,7 +4767,7 @@ Anke har ikke oppsettende virkning uten når loven bestemmer det, eller den rett
 
 Anke fra tredjemann som er pålagt å avgi forklaring eller forsikring, utlevere bevis eller gjøre tjeneste som sakkyndig, har oppsettende virkning for ham.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 383
 
@@ -4758,13 +4775,13 @@ Den ankende og andre som anken har betydning for, kan inngi skriftlig uttalelse 
 
 Påberopes nye faktiske opplysninger som ikke åpenbart er uten betydning, skal retten gi motparten underretning om uttalelsen. Finner den grunn til det, kan den også forelegge uttalelsen for den rett som har tatt den angrepne avgjørelse.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 384
 
 Ankedomstolen kan innhente ytterligere opplysninger og beslutte bevisopptak. Dette holdes etter reglene for bevisopptak utenfor hovedforhandling.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 385
 
@@ -4776,13 +4793,13 @@ Er det påberopt feil ved saksbehandlingen, gjelder reglene i [§ 343](lov/1981-
 
 I stedet for å oppheve etter reglene i tredje ledd kan ankedomstolen selv treffe avgjørelse i saken når det nødvendige grunnlag er til stede og retten finner det ubetenkelig.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 386
 
 Når anken er avgjort, sendes saksdokumentene med kjennelsen til påtalemyndigheten, som sørger for melding til siktede eller andre som kjennelsen angår og til den rett som har truffet den angrepne avgjørelse.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 387
 
@@ -4792,7 +4809,7 @@ Holdes muntlig forhandling, skal siktede alltid ha forsvarer når anken berører
 
 Når det etter første ledd blir holdt muntlig forhandling i Høyesteretts ankeutvalg eller i Høyesterett etter beslutning etter [domstolloven § 5](lov/1915-08-13-5/§5) første eller fjerde ledd, gjelder de samme begrensninger for bevisførselen som følger av [§ 340](lov/1981-05-22-25/§340) i denne lov.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 387 a
 
@@ -4800,7 +4817,7 @@ Dersom ankeutvalget enstemmig finner det klart at en anke til Høyesteretts anke
 
 En anke fra påtalemyndigheten, som ikke er til gunst for siktede, kan utvalget på tilsvarende måte avvise når det enstemmig finner at anken gjelder spørsmål av mindre betydning eller at det ellers ikke er grunn til at anken tas under behandling.
 
-> Tilføyd ved lov [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 388
 
@@ -4813,11 +4830,11 @@ Lagmannsrettens avgjørelse av en anke over en kjennelse eller beslutning kan ik
 
 Dersom Høyesteretts ankeutvalg enstemmig finner at verken avgjørelsens betydning utenfor den foreliggende sak eller andre forhold tilsier at en anke mot lagmannsrettens avgjørelse av en ankesak tas under behandling, kan det avvise anken. Avgjørelsen om avvisning treffes ved beslutning, som kan omgjøres til gunst for siktede når særlige grunner foreligger.
 
-> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54) (ikr. 1 jan 1991), [11 juni 1993 nr. 80](lov/1993-06-11-80), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54) (ikr. 1 jan 1991), [11 juni 1993 nr. 80](lov/1993-06-11-80), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### Kap 27. Gjenåpning
 
-> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 389
 
@@ -4827,7 +4844,7 @@ Reglene i [§§ 307](lov/1981-05-22-25/§307)-[309](lov/1981-05-22-25/§309) gje
 
 Avgjørelse om inndragning eller mortifikasjon kan gjenåpnes særskilt når vilkårene etter [tvisteloven § 31-3](lov/2005-06-17-90/§31-3) første ledd bokstav a til d og [§§ 31-4](lov/2005-06-17-90/§31-4) og [31-5](lov/2005-06-17-90/§31-5) er oppfylt. Om behandlingen av saken gjelder reglene i dette kapittel.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 390
 
@@ -4835,7 +4852,7 @@ Gjenåpning kan kreves når en dommer eller et lagrettemedlem som har deltatt i 
 
 Gjenåpning kan likevel ikke kreves av en part som har eller kunne ha gjort feilen gjeldende under saken.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 391
 
@@ -4848,7 +4865,7 @@ Til gunst for siktede kan gjenåpning kreves:
    2. saksbehandlingen som ligger til grunn for avgjørelsen er i strid med en folkerettslig regel som Norge er bundet av, hvis det er grunn til å anta at saksbehandlingsfeilen kan ha innvirket på avgjørelsens innhold, og gjenåpning er nødvendig for å bøte på den skade som feilen har medført.
 3. når det opplyses en ny omstendighet eller skaffes frem et nytt bevis som synes egnet til å føre til frifinnelse eller avvisning eller til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge. I sak hvor det ikke er idømt frihetsstraff, overføring til tvungent psykisk helsevern etter [straffeloven § 62](lov/2005-05-20-28/§62), tvungen omsorg etter [straffeloven § 63](lov/2005-05-20-28/§63) eller rettighetstap, kan det ikke påberopes nye opplysninger eller bevis som vedkommende burde gjort gjeldende på et tidligere tidspunkt.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)) som endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64), endring endret ved lov [15 juni 2001 nr. 64](lov/2001-06-15-64)), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 392
 
@@ -4856,7 +4873,7 @@ Selv om vilkårene i [§§ 390](lov/1981-05-22-25/§390) eller [391](lov/1981-05
 
 Det samme gjelder når særlige forhold gjør det tvilsomt om dommen er riktig, og tungtveiende hensyn tilsier at spørsmålet om siktedes skyld blir prøvd på ny.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (gjelder også for avgjørelser som er blitt rettskraftige etter 1 jan 1980), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (gjelder også for avgjørelser som er blitt rettskraftige etter 1 jan 1980), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 393
 
@@ -4867,7 +4884,7 @@ Til skade for siktede kan påtalemyndigheten kreve gjenåpning:
 
 Dersom den straffbare handling som påstås forøvd, etter loven ikke kan medføre fengsel i mer enn 3 år, kan gjenåpning bare finne sted på det grunnlag at siktede har gjort seg skyldig i straffbart forhold med hensyn til saken.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 394
 
@@ -4875,7 +4892,7 @@ Begjæringen settes frem for kommisjonen for gjenopptakelse av straffesaker (gje
 
 Dersom særlige grunner taler for det, kan kommisjonen bestemme at en avgjørelse som retter seg mot en avdød person, skal gjenåpnes uten at noen har begjært det.
 
-> Endret ved lover [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), se lovens IV), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), se lovens IV), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 395
 
@@ -4887,7 +4904,7 @@ Kommisjonens avgjørelser kan bare ankes eller brukes som ankegrunn der det er u
 
 Kongen i statsråd kan fastsette nærmere regler om kommisjonens lokalisering, arbeidsmåte og administrasjon. For øvrig bestemmer kommisjonen selv sin arbeidsmåte og tilsetter et nødvendig antall saksforberedere. Kommisjonen kan ikke instrueres om sin utøving av myndighet.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 68](lov/1989-06-16-68), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 des 2007 nr. 127](lov/2007-12-21-127) (ikr. 1 jan 2008), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [12 juni 2020 nr. 65](lov/2020-06-12-65) (ikr. 1 juli 2020 iflg. [res. 12 juni 2020 nr. 1183](forskrift/2020-06-12-1183)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 68](lov/1989-06-16-68), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 des 2007 nr. 127](lov/2007-12-21-127) (ikr. 1 jan 2008), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [12 juni 2020 nr. 65](lov/2020-06-12-65) (ikr. 1 juli 2020 iflg. [res. 12 juni 2020 nr. 1183](forskrift/2020-06-12-1183)).
 
 ### § 396
 
@@ -4913,7 +4930,7 @@ Dersom begjæringen ikke forkastes etter reglene i tredje ledd, forelegges den f
 
 Kommisjonen underretter fornærmede og etterlatte i lovbestemt rekkefølge om begjæringen, med mindre den forkastes etter tredje ledd. Fornærmede og etterlatte i lovbestemt rekkefølge skal gjøres kjent med sin rett til dokumentinnsyn, til å uttale seg og til å be om å avgi forklaring for kommisjonen, samt muligheten til å få oppnevnt bistandsadvokat.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)).
 
 ### § 398
 
@@ -4927,7 +4944,7 @@ Når det er strengt nødvendig for å unngå fare for et alvorlig lovbrudd mot n
 
 Om dokumentinnsyn gjelder [§§ 28](lov/1981-05-22-25/§28), [242](lov/1981-05-22-25/§242), [242 a](lov/1981-05-22-25/§242a), [264](lov/1981-05-22-25/§264), [264 a](lov/1981-05-22-25/§264a) og [267](lov/1981-05-22-25/§267) tilsvarende. Kommisjonen kan unnta fra innsyn dokumenter som den selv har utarbeidet for sin interne saksforberedelse.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)) som endret ved lov [9 mai 2003 nr. 30](lov/2003-05-09-30), [30 juni 2006 nr. 53](lov/2006-06-30-53), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), endring endret ved lov [9 mai 2003 nr. 30](lov/2003-05-09-30)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 398 a
 
@@ -4945,7 +4962,7 @@ Avhørsmøter etter første og annet ledd og høring etter [§ 398](lov/1981-05-
 
 Kommisjonen eller en som handler på vegne av den, kan avhøre siktede og vitner etter reglene om politiavhør.
 
-> Tilføyd ved lov [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 398 b
 
@@ -4963,7 +4980,7 @@ Kommisjonen kan uten hinder av taushetsplikt innhente fra folkeregistermyndighet
 
 Reglene om kjennelse gjelder for kommisjonens avgjørelse av om gjenåpning skal tillates. Fem medlemmer hvorav tre med juridisk embetseksamen eller mastergrad i rettsvitenskap avgjør om begjæringen skal tas til følge. Reglene i [§ 54](lov/1981-05-22-25/§54) får ikke anvendelse. Kommisjonen kan omgjøre en avgjørelse om gjenopptakelse når den som har begjært omgjøring trekker begjæringen og [§ 400](lov/1981-05-22-25/§400) tredje ledd ikke er til hinder.
 
-> Endret ved lover [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)).
+> Endret ved lover [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)).
 
 ### § 400
 
@@ -4979,7 +4996,7 @@ Er siktede død, skal retten avsi frifinnende dom uten hovedforhandling. Også e
 
 Beslutninger etter paragrafen her kan ikke ankes eller brukes som ankegrunn.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [30 juni 2006 nr. 53](lov/2006-06-30-53), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 400 a
 
@@ -4991,11 +5008,11 @@ Når gjenåpning er besluttet, gjelder [§ 264 a](lov/1981-05-22-25/§264a) tils
 
 Overfor kjennelse som avviser en sak, eller som avviser en anke over dom, kommer reglene om gjenåpning av dommer til anvendelse så langt de passer. Det samme gjelder for beslutning som nekter en anke over dom fremmet.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## Sjuende del. Sivile krav
 
-> Overskriften endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Overskriften endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### Kap 28. (Opphevet)
 
@@ -5023,7 +5040,7 @@ Overfor kjennelse som avviser en sak, eller som avviser en anke over dom, kommer
 
 ### § 407. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 408. (Opphevet)
 
@@ -5031,11 +5048,11 @@ Overfor kjennelse som avviser en sak, eller som avviser en anke over dom, kommer
 
 ### § 409. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), endret ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), endret ved lov [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 410. (Opphevet)
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 411. (Opphevet)
 
@@ -5071,35 +5088,35 @@ Overfor kjennelse som avviser en sak, eller som avviser en anke over dom, kommer
 
 ### § 419. (Opphevet)
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 420. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 421. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 422. (Opphevet)
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 423. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### § 424. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 425. (Opphevet)
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570), se ikrafttredelsesvedtak punkt 2 for overgangsbestemmelser).
 
 ### Kap 29. Sivile krav
 
-> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 426. (Opphevet)
 
@@ -5117,7 +5134,7 @@ Når sivilt krav fremmes mot en annen enn siktede, får vedkommende stilling som
 
 Retten kan nekte kravet forfulgt dersom det åpenbart er mest hensiktsmessig å behandle kravet i sivilprosessens former.
 
-> Endret ved lover [1 juli 1994 nr. 50](lov/1994-07-01-50) (ikr. 15 aug 1995), [18 jan 2007 nr. 1](lov/2007-01-18-1) (ikr. 1 juni 2007 iflg. [res. 18 jan 2007 nr. 57](forskrift/2007-01-18-57)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [1 juli 1994 nr. 50](lov/1994-07-01-50) (ikr. 15 aug 1995), [18 jan 2007 nr. 1](lov/2007-01-18-1) (ikr. 1 juni 2007 iflg. [res. 18 jan 2007 nr. 57](forskrift/2007-01-18-57)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 428
 
@@ -5127,11 +5144,11 @@ Når fornærmede selv fremmer sitt krav, skal vedkommende anses som part ved beh
 
 Retten kan nekte kravet forfulgt dersom det åpenbart er mest hensiktsmessig å behandle kravet i sivilprosessens former.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [10 des 2010 nr. 76](lov/2010-12-10-76) (ikr. 10 des 2010 iflg. [res. 10 des 2010 nr. 1574](forskrift/2010-12-10-1574)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 429. (Opphevet)
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 430
 
@@ -5145,7 +5162,7 @@ Regelen i [§ 427](lov/1981-05-22-25/§427) fjerde ledd gjelder tilsvarende.
 
 Retten kan bestemme at forhandlingen om et sivilt krav skal utsettes til straffesaken er pådømt.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 432
 
@@ -5157,13 +5174,13 @@ Om frist for oppfyllelse m.m. gjelder reglene i [tvisteloven § 19-7](lov/2005-0
 
 Den som mener å ha ytterligere krav enn det han har fått dom for etter første eller annet ledd, kan reise sak om restkravet etter reglene i [tvisteloven](lov/2005-06-17-90).
 
-> Endret ved lover [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 433
 
 Etter at hovedforhandling er begynt, kan begjæring om pådømmelse av det sivile kravet ikke tas tilbake uten at kravet samtidig frafalles, med mindre saksøkte eller retten samtykker.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 434
 
@@ -5187,7 +5204,7 @@ Dersom anken i straffesaken trekkes, avvises eller ikke henvises til ankeforhand
 
 Særskilt anke mot avgjørelser av sivile krav følger [tvistelovens](lov/2005-06-17-90) regler.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [4 juli 2003 nr. 78](lov/2003-07-04-78), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [13 des 2024 nr. 78](lov/2024-12-13-78) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3090](forskrift/2024-12-13-3090)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [4 mai 2001 nr. 16](lov/2001-05-04-16), [4 juli 2003 nr. 78](lov/2003-07-04-78), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [13 des 2024 nr. 78](lov/2024-12-13-78) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3090](forskrift/2024-12-13-3090)).
 
 ### § 435
 
@@ -5199,7 +5216,7 @@ Reglene i [§ 308](lov/1981-05-22-25/§308) gjelder tilsvarende.
 
 Ender gjenåpningssaken med frifinnelse for et sivilt krav, skal et tilbakebetalingskrav for utbetalt erstatning dekkes av staten dersom gjenåpning ble begjært mer enn ti år etter at kravet ble pådømt.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [13 des 2024 nr. 78](lov/2024-12-13-78) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3090](forskrift/2024-12-13-3090), se endringsloven [del VI](lov/2024-12-13-78/kapVI) for overgangsregel).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [13 des 2024 nr. 78](lov/2024-12-13-78) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3090](forskrift/2024-12-13-3090), se endringsloven [del VI](lov/2024-12-13-78/kapVI) for overgangsregel).
 
 ## Åttende del. Saksomkostninger og erstatning i anledning av forfølging.
 
@@ -5211,7 +5228,7 @@ Blir siktede dømt i offentlig sak, bør siktede i regelen pålegges å erstatte
 
 Når avgjørelsen ved anke eller begjæring om gjenåpning fra siktede går ham imot, gjelder regelen i første ledd tilsvarende. Det samme gjelder når rettsmiddel er brukt av noen som nevnt i [§ 308](lov/1981-05-22-25/§308).
 
-> Endret ved lover [18 des 1987 nr. 97](lov/1987-12-18-97), [15 juli 1994 nr. 51](lov/1994-07-15-51) (ikr. 15 juli 1994), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [18 des 1987 nr. 97](lov/1987-12-18-97), [15 juli 1994 nr. 51](lov/1994-07-15-51) (ikr. 15 juli 1994), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 437
 
@@ -5229,7 +5246,7 @@ Også siktedes nødvendige reiseutgifter dekkes.
 
 Dersom en sak som har blitt gjenåpnet ender med frifinnelse, og særlige grunner gjør det rimelig, kan retten helt eller delvis tilkjenne andre enn siktede dekning av omkostninger som knytter seg til tiltak som har hatt vesentlig betydning for at saken ble gjenåpnet.
 
-> Endret ved lover [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 439
 
@@ -5237,11 +5254,11 @@ Når fornærmede under en offentlig forfølging selv fremmer sivile krav, gjelde
 
 Har fornærmede sluttet seg til den offentlige forfølging, gjelder reglene i [§§ 436](lov/1981-05-22-25/§436) og [437](lov/1981-05-22-25/§437) tilsvarende for hans omkostninger.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 440. (Opphevet)
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), opphevet ved lov [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 441
 
@@ -5253,7 +5270,7 @@ Avgjørelse om erstatning for saksomkostninger tas i dommen eller i den kjennels
 
 Påankes dommen, prøver ankedomstolen spørsmålet om erstatning for saksomkostninger når det foretas prøving av bevisene under skyldspørsmålet, og for øvrig når avgjørelsen umiddelbart beror på utfallet av anken. Ellers kan det ankes på det grunnlag at omkostningsavgjørelsen er avgjort i strid med loven. Slik anke behandles etter reglene i [kapittel 26](lov/1981-05-22-25/kap26).
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 443
 
@@ -5271,7 +5288,7 @@ Med mindre noe annet følger av [§ 446](lov/1981-05-22-25/§446), har en siktet
 
 En domfelt har også rett til erstatning for økonomisk tap som skyldes fullbyrdet straff som overstiger den straff som idømmes etter gjenåpning.
 
-> Endret ved lover [9 mai 2003 nr. 30](lov/2003-05-09-30), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [9 mai 2003 nr. 30](lov/2003-05-09-30), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 445
 
@@ -5330,7 +5347,7 @@ En dommer som har deltatt ved avgjørelsen av straffesaken mot siktede, skal ikk
 
 Innsyn i opplysninger som hører til straffesaken, kan nektes på de vilkår som er fastsatt i [§ 242 a første ledd](lov/1981-05-22-25/§242a/ledd/1). Reglene i [§ 242 a andre](lov/1981-05-22-25/§242a/ledd/2) og [tredje ledd](lov/1981-05-22-25/§242a/ledd/3) og [§ 292 a](lov/1981-05-22-25/§292a) gjelder tilsvarende så langt de passer.
 
-> Endret ved lover [9 mai 2003 nr. 30](lov/2003-05-09-30), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [9 mai 2003 nr. 30](lov/2003-05-09-30) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Endres** ved lov [23 juni 2026 nr. 73](lov/2026-06-23-73) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [9 mai 2003 nr. 30](lov/2003-05-09-30), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [9 mai 2003 nr. 30](lov/2003-05-09-30) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Endres** ved lov [23 juni 2026 nr. 73](lov/2026-06-23-73) (i kraft fra den tid Kongen bestemmer).
 
 ### § 450
 
@@ -5338,7 +5355,7 @@ I sak om erstatning eller oppreisning etter strafforfølgning har siktede rett t
 
 Om sakskostnader ved behandling for retten gjelder reglene i [tvisteloven kapittel 20](lov/2005-06-17-90/kap20), likevel slik at saksøkeren kan pålegges å erstatte statens sakskostnader bare dersom søksmålet var grunnløst.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 451
 
@@ -5360,7 +5377,7 @@ Angripes en rettskraftig dom ved anke eller er en begjæring om gjenåpning tatt
 
 Dom der domfelte var under 18 år på handlingstidspunktet skal oversendes den myndigheten som er ansvarlig for fullbyrdingen etter [§ 455 annet ledd](lov/1981-05-22-25/§455/ledd/2) innen en uke etter at dommen er rettskraftig. Påtalemyndighetens beslutning om at saken skal overføres til ungdomsoppfølging etter [§ 71 a annet ledd](lov/1981-05-22-25/§71a/ledd/2) skal oversendes konfliktrådet innen en uke etter at det er truffet endelig påtaleavgjørelse.
 
-> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), se lovens IV), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+> Endret ved lover [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359), se lovens IV), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
 ### § 453
 
@@ -5521,7 +5538,7 @@ Kongen kan for straffesaker med tilknytning til Forsvaret gi forskrift om
 
 ### § 470. (Opphevet)
 
-> Tilføyd ved lov [24 juni 1994 nr. 36](lov/1994-06-24-36) (ikr. 1 juli 1997 iflg. [res. 13 juni 1997 nr. 573](forskrift/1997-06-13-573)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 1007](forskrift/2024-06-14-1007)).
+> Tilføyd ved lov [24 juni 1994 nr. 36](lov/1994-06-24-36) (ikr. 1 juli 1997 iflg. [res. 13 juni 1997 nr. 573](forskrift/1997-06-13-573)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 1007](forskrift/2024-06-14-1007)).
 
 ### Kap 35. (Opphevet)
 
