@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1995-10-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2021-07-01"
-xml_hash: "33d69446f7bd7f2a75fe5db1c05b279105345b6d621ed55f478fdd51f8e8c2f6"
+xml_hash: "e716e4c8d7b0e19434bc10e49ddbb1bf1e4e5b2e3b92a5ed09d7909f842af706"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Politiet skal
 6. samarbeide med andre myndigheter og organisasjoner tillagt oppgaver som berører politiets virkefelt så langt regler gitt i eller i medhold av lov ikke er til hinder for dette
 7. utføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til namsfogden.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3. Forholdet til folkeretten
 
@@ -354,7 +354,7 @@ Kongen kan bestemme
 
 For øvrig gir departementet organisatoriske bestemmelser. Departementet kan herunder fastsette samarbeidsordninger mellom distrikter, gi bestemmelser om bruk av politistyrker ut over distriktsgrenser og om ordninger som nevnt i tredje ledd nr. 3 når dette skjer for en bestemt anledning eller for et avgrenset tidsrom.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [4 sep 2015 nr. 88](lov/2015-09-04-88) (ikr. 4 sep 2015 iflg. [res. 4 sep 2015 nr. 1024](forskrift/2015-09-04-1024)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [4 sep 2015 nr. 88](lov/2015-09-04-88) (ikr. 4 sep 2015 iflg. [res. 4 sep 2015 nr. 1024](forskrift/2015-09-04-1024)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 17. Namsfogden
 
@@ -404,20 +404,20 @@ Den sentrale enhet i Politiets sikkerhetstjeneste skal
 
 ### § 17 d. Vilkår for bruk av tvangsmidler i forebyggende øyemed
 
-Retten kan ved kjennelse gi Politiets sikkerhetstjeneste tillatelse til som ledd i sin forebyggende virksomhet å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a), [202 c](lov/1981-05-22-25/§202c), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [§ 210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m) eller [216 o](lov/1981-05-22-25/§216o) dersom det er grunn til å undersøke om noen forbereder en handling som rammes av
+Retten kan ved kjennelse gi Politiets sikkerhetstjeneste tillatelse til som ledd i sin forebyggende virksomhet å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 c](lov/1981-05-22-25/§202c), [202 e](lov/1981-05-22-25/§202e), [202 f](lov/1981-05-22-25/§202f), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [§ 210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m) eller [216 o](lov/1981-05-22-25/§216o) dersom det er grunn til å undersøke om noen forbereder en handling som rammes av
 
 1. [straffeloven §§ 131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133) og [134](lov/2005-05-20-28/§134),
 2. [straffeloven §§ 121](lov/2005-05-20-28/§121) til [126](lov/2005-05-20-28/§126) eller [§ 130 a](lov/2005-05-20-28/§130a),
 3. [straffeloven § 142](lov/2005-05-20-28/§142),
 4. [straffeloven §§ 251](lov/2005-05-20-28/§251), [254](lov/2005-05-20-28/§254), [256](lov/2005-05-20-28/§256), [263](lov/2005-05-20-28/§263), [273](lov/2005-05-20-28/§273) eller [275](lov/2005-05-20-28/§275) og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
 
-Tillatelsen kan bare gis dersom det er grunn til å tro at inngrepet vil gi opplysninger av vesentlig betydning for å kunne forebygge handlingen, at forebygging ellers i vesentlig grad vil bli vanskeliggjort og inngrepet etter sakens art og forholdene ellers ikke fremstår som uforholdsmessig. Tillatelse til å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a) annet ledd, [202 c](lov/1981-05-22-25/§202c), [216 a](lov/1981-05-22-25/§216a), [216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o) kan bare gis når særlige grunner tilsier det. Det kan ikke gis tillatelse til å romavlytte noens private hjem etter bestemmelsen her. Det kan bare gis tillatelse til å ransake eller ved dataavlesing å gjøre innbrudd i noens private hjem etter bestemmelsen her når det er grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.
+Tillatelsen kan bare gis dersom det er grunn til å tro at inngrepet vil gi opplysninger av vesentlig betydning for å kunne forebygge handlingen, at forebygging ellers i vesentlig grad vil bli vanskeliggjort og inngrepet etter sakens art og forholdene ellers ikke fremstår som uforholdsmessig. Tillatelse til å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 c](lov/1981-05-22-25/§202c), [202 f](lov/1981-05-22-25/§202f), [216 a](lov/1981-05-22-25/§216a), [216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o) kan bare gis når særlige grunner tilsier det. Det kan ikke gis tillatelse til å romavlytte noens private hjem etter bestemmelsen her. Det kan bare gis tillatelse til å ransake eller ved dataavlesing å gjøre innbrudd i noens private hjem etter bestemmelsen her når det er grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.
 
 Dersom det ved opphold er stor fare for at muligheten til å forebygge et forhold som nevnt i første ledd bokstav a eller d vil gå tapt, kan ordre fra sjefen eller den assisterende sjefen for Politiets sikkerhetstjeneste tre i stedet for kjennelse av retten, bortsett fra ved romavlytting som nevnt i [straffeprosessloven § 216 m](lov/1981-05-22-25/§216m). Beslutningen skal snarest mulig, og senest 24 timer etter at tvangsmidlet ble tatt i bruk, legges frem for retten for godkjennelse. Beslutningen skal så vidt mulig være skriftlig og opplyse om hva saken gjelder og om formålet med bruken av tvangsmidlet. En muntlig beslutning skal snarest mulig nedtegnes. [Straffeprosessloven § 216 d](lov/1981-05-22-25/§216d) første ledd tredje til femte punktum gjelder tilsvarende.
 
-Sjefen eller den assisterende sjefen for Politiets sikkerhetstjeneste kan på samme vilkår som nevnt i første jf. annet ledd tillate bruk av tvangsmidler som nevnt i [straffeprosessloven §§ 202 b](lov/1981-05-22-25/§202b) og [216 l](lov/1981-05-22-25/§216l).
+Sjefen eller den assisterende sjefen for Politiets sikkerhetstjeneste, eller den i ledende stilling i tjenesten som disse bemyndiger, kan på samme vilkår som nevnt i første jf. annet ledd tillate bruk av tvangsmidler som nevnt i [straffeprosessloven §§ 202 b](lov/1981-05-22-25/§202b), [202 d](lov/1981-05-22-25/§202d) og [216 l](lov/1981-05-22-25/§216l).
 
-> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)), [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 17 e. Behandlingen av begjæringer om bruk av tvangsmidler i forebyggende øyemed mv.
 
@@ -708,7 +708,7 @@ Kongen fastsetter en alminnelig tjenesteinstruks for politiet. Departementet gir
 
 Departementet gir nærmere regler om i hvilken utstrekning namsfogden kan overlate sine oppgaver etter lov til sine underordnede.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [27 jan 2017 nr. 3](lov/2017-01-27-3) (ikr. straks iflg. [res. 27 jan 2017 nr. 78](forskrift/2017-01-27-78)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [22 juni 2018 nr. 81](lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](forskrift/2018-06-22-949)), [10 jan 2020 nr. 1](lov/2020-01-10-1) (ikr. 1 feb 2020 iflg. [res. 10 jan 2020 nr. 13](forskrift/2020-01-10-13)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [27 jan 2017 nr. 3](lov/2017-01-27-3) (ikr. straks iflg. [res. 27 jan 2017 nr. 78](forskrift/2017-01-27-78)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [22 juni 2018 nr. 81](lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](forskrift/2018-06-22-949)), [10 jan 2020 nr. 1](lov/2020-01-10-1) (ikr. 1 feb 2020 iflg. [res. 10 jan 2020 nr. 13](forskrift/2020-01-10-13)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 29 a. Politiets tilgang til opplysninger
 
