@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "0d9076fcaf4015e4087ca608f2a36811339f3f5166d8d8c710d8abf85b4df50f"
+xml_hash: "3e015b3856dc2950a1b1348bea025391ee64e7a3f730119b0cda91749cab03a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Legeerklæring avgis etter et skjema som fastsettes av Pensjonskassen.
 
 Har pensjonisten selv krevd ny behandling etter [§ 30](lov/1949-07-28-26/§30), kan Pensjonskassen bestemme at han selv skal betale omkostningene ved legeundersøkelsen.
 
-1 Endringene kan ikke utføres etter at paragrafen ble endret ved [lov 7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)) som endret ved [lov 20 juni 2014 nr. 24](lov/2014-06-20-24).
+1 Endringene kan ikke utføres etter at paragrafen ble endret ved [lov 7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798), endring endret ved [lov 20 juni 2014 nr. 24](lov/2014-06-20-24)).
 
 ## XII
 
