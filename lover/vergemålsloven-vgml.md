@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-07-01"
 last_change_in_force: "2026-03-20"
 last_updated: "2022-03-28"
-xml_hash: "c5ffe63c66c96e690eeb8306a5d147f6db230e6ab5a7d57e729f4c10d6b293c3"
+xml_hash: "3e64422400e8b5319686bcdf549f5e924f1095f3278c5f0cced0080ce26f697e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -388,13 +388,13 @@ Med statsforvalterens samtykke kan vergen gi arveforskudd til en livsarving hvis
 
 Vergen kan på vegne av personen under vergemål begjære uskifte (jf. [arveloven §§ 14](lov/2019-06-14-21/§14) og [32](lov/2019-06-14-21/§32)) eller kreve skifte av uskifteformuen (jf. [arveloven §§ 28](lov/2019-06-14-21/§28) og [39](lov/2019-06-14-21/§39)) bare med samtykke fra statsforvalteren.
 
-> Endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 42. Avkall på arv og avslag på gave
 
 Vergen skal ha statsforvalterens samtykke til å avslå en gave eller gi avkall på arv på vegne av den som er under vergemål, med mindre gaven eller arven må anses å ha en ubetydelig verdi.
 
-> Endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 43. Disposisjoner knyttet til næringsvirksomhet som er arvet
 
