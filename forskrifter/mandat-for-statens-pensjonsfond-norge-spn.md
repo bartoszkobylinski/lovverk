@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2010-12-21"
-last_change_in_force: "2026-08-01"
+last_change_in_force: "2026-10-01"
 last_updated: null
-xml_hash: "7f642fc72e397d278ed72374023d8aee166e668caff86cc6f20e4d435c8cfe5b"
+xml_hash: "50a47d19063ff9662aaf0259bf07c44b078ec2975c153e98db1e5e0e291a838b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,14 +124,23 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 (1) Den strategiske obligasjonsindeksen har følgende sammensetning:
 
-1. 85 pst. består av de finansielle instrumentene som inngår i Bloomberg Barclays Global Aggregate Bond Index med norsk utsteder. Denne delen av strategisk obligasjonsindeks kan bestå av lån utstedt i norske kroner, euro, britiske pund, amerikanske dollar, svenske kroner og danske kroner.
-2. 15 pst. består av Bloomberg Barclays Global Aggregate Bond Index med dansk, finsk eller svensk utsteder. Denne delen av referanseindeksen kan bestå av lån utstedt i euro, britiske pund, amerikanske dollar, svenske kroner og danske kroner.
-3. Den strategiske obligasjonsindeksen nevnt i bokstav a skal bestå av én privat del og én statsdel. Den private delen skal ha en indeksvekt på 70 pst. og bestå av Bloomberg Barclays Global Aggregate Bond Index med annen utsteder enn norsk stat, målt ved hvert månedsskifte. Statsdelen skal ha en vekt på 30 pst. og bestå av delsegmentet Treasury av Bloomberg Barclays Global Aggregate Bond Index med norsk stat som utsteder, målt ved hvert månedsskifte.
-4. Den strategiske obligasjonsindeksen nevnt i bokstav a skal kurssikres mot norske kroner. Den strategiske obligasjonsindeksen nevnt i bokstav b skal ikke kurssikres mot norske kroner.
+1. 85 pst. består av de finansielle instrumentene som inngår i Bloomberg Global Aggregate Bond Index med norsk utsteder.
+2. 15 pst. består av Bloomberg Global Aggregate Bond Index med dansk, finsk eller svensk utsteder.
+3. Den strategiske obligasjonsindeksen nevnt i bokstav a skal bestå av en privat del og en statsdel. Den private delen skal ha en indeksvekt på 70 pst. og bestå av Bloomberg Global Aggregate Bond Index med annen utsteder enn norsk stat, målt ved hvert månedsskifte. Statsdelen skal ha en vekt på 30 pst. og bestå av delmarkedet «Treasury» av Bloomberg Global Aggregate Bond Index med norsk stat som utsteder, målt ved hvert månedsskifte.
+4. Den strategiske obligasjonsindeksen nevnt i bokstav b skal bestå av en privat del og en statsdel. Den private delen skal ha en indeksvekt på 70 pst. og bestå av Bloomberg Global Aggregate Bond Index med annen utsteder enn dansk, finsk eller svensk stat, målt ved hvert månedsskifte. Statsdelen skal ha en vekt på 30 pst. og bestå av delmarkedet «Treasury» av Bloomberg Global Aggregate Bond Index med dansk, finsk eller svensk stat som utsteder, målt ved hvert månedsskifte.
+5. Den strategiske obligasjonsindeksen nevnt i bokstav a skal kurssikres mot norske kroner. Den strategiske obligasjonsindeksen nevnt i bokstav b skal ikke kurssikres mot norske kroner.
 
-(2) Sammensetningen av strategisk obligasjonsindeks endres i henhold til endringene i sammensetningen som indeksleverandøren gjennomfører.
+(2) Den strategiske obligasjonsindeksen kan bestå av lån utstedt i norske kroner, svenske kroner, danske kroner, euro, britiske pund og amerikanske dollar.
 
-> Endret ved [vedtak 12 okt 2016 nr. 1208](forskrift/2016-10-12-1208), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020). **Endres** ved vedtak [6 aug 2026 nr. 1768](forskrift/2026-08-06-1768) (i kraft 1 okt 2026).
+(3) Den private delen av obligasjonsindeksen nevnt i første ledd bokstav c og d skal bestå av følgende deler av Bloomberg Global Aggregate Bond Index:
+
+1. Undergruppene føderale institusjoner («Agencies») og kommune («Local Authorities») i delmarkedet statsrelatert («Government-Related»).
+2. Delmarkedet selskaper («Corporates»).
+3. Undergruppen obligasjoner med fortrinnsrett («Covered») i delmarkedet pantesikrede («Securitized»).
+
+(4) Sammensetningen av strategisk obligasjonsindeks endres i henhold til endringene i sammensetningen som indeksleverandøren gjennomfører.
+
+> Endret ved [vedtak 12 okt 2016 nr. 1208](forskrift/2016-10-12-1208), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [6 aug 2026 nr. 1768](forskrift/2026-08-06-1768) (i kraft 1 okt 2026).
 
 ### § 3-3. Strategisk aksjeindeks
 
