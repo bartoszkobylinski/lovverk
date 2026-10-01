@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-12-14"
 last_change_in_force: "2025-06-20"
 last_updated: "2018-02-06"
-xml_hash: "c6717c179e5a97166da7458411a809f14f6eefac96b077eafbbf9a76ed7f2e98"
+xml_hash: "28f438cf03c42e97112be400b0b45a4f81ba74ff07bbab8128fc54ba51392f43"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,7 +59,7 @@ I tillegg til definisjonene opplistet i kommisjonens gjennomføringsforordning [
 5. *trafikkinformasjonssone (TIZ):* et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra jordoverflaten til en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.
 6. *høyt terreng (high terrain):* terreng høyere enn 6 000 FT AMSL.
 
-> Endret ved [forskrift 19 des 2016 nr. 1710](forskrift/2016-12-19-1710).
+> Endret ved [forskrift 19 des 2016 nr. 1710](forskrift/2016-12-19-1710). **Endres** ved forskrift [28 sep 2026 nr. 1931](forskrift/2026-09-28-1931) (i kraft 10 juni 2027).
 
 ## Kapittel II – Særbestemmelser til SERA avsnitt 3. Alminnelige regler og unngåelse av kollisjoner
 
@@ -168,7 +168,7 @@ Utenfor åpningstiden til enheten for lufttrafikktjenester, skal fartøysjefen s
 
 Luftrom som er klassifisert som luftromsklasse A, C eller D er transponderpåbudssoner (TMZ). Lufttrafikktjenesten kan gi unntak fra kravet om transponder i enkelttilfeller.
 
-> Endret ved [forskrifter 14 des 2021 nr. 3530](forskrift/2021-12-14-3530) (i kraft 1 jan 2022), [16 nov 2023 nr. 1868](forskrift/2023-11-16-1868) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 14 des 2021 nr. 3530](forskrift/2021-12-14-3530) (i kraft 1 jan 2022), [16 nov 2023 nr. 1868](forskrift/2023-11-16-1868) (i kraft 1 jan 2024). **Endres** ved forskrift [28 sep 2026 nr. 1931](forskrift/2026-09-28-1931) (i kraft 10 juni 2027).
 
 ## Kapittel VI – Særbestemmelser til SERA avsnitt 8. Flygekontrolltjeneste
 
