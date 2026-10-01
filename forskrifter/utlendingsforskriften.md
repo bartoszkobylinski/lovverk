@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-09-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2026-09-10"
-xml_hash: "488e4a5c69322561a72721a6444c2f8dbb427b79761f5458bbe9842a0a9718a2"
+xml_hash: "14774828fcba026c10698226219b40c4cc1f11eaa5425e576dbfad57c5f4ec4a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-24T09:13:40.436161+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3427,41 +3427,39 @@ Politidirektoratet kan gi nærmere bestemmelser om utgiftsdekning etter [utlendi
 
 ### § 17-17. Veiledning om rettshjelp
 
-I sak om bortvisning, utvisning og tilbakekall av gitt tillatelse, og når utlendingen søker beskyttelse etter lovens § 28, skal politiet gi veiledning i samsvar med lovens § 82. Politiet skal også informere om det offentliges adgang til å kreve refusjon når det er gitt fritt rettsråd uten behovsprøving, jf. [§ 17-19](forskrift/2009-10-15-1286/§17-19).
+I sak om bortvisning, utvisning og tilbakekall av gitt tillatelse, og når utlendingen søker beskyttelse etter [lovens § 28](lov/2008-05-15-35/§28), skal politiet gi veiledning i samsvar med [lovens § 82](lov/2008-05-15-35/§82). Politiet skal også informere om det offentliges adgang til å kreve refusjon når det er gitt fritt rettsråd uten behovsprøving, jf. [§ 17-19](forskrift/2009-10-15-1286/§17-19).
 
-Veiledningen skal gis samtidig med underretning om vedtaket eller samtidig med forhåndsvarsel når dette er påkrevd, jf. [forvaltningsloven § 16](lov/1967-02-10/§16). Utlending som søker beskyttelse, og som ikke har rett til fritt rettsråd, skal gis tilbud om individuell veiledning fra en uavhengig organisasjon i forbindelse med at søknaden fremsettes, med mindre det er iverksatt en ordning med kollektiv beskyttelse, jf. lovens § 34.
+Veiledningen skal gis samtidig med underretning om vedtaket eller samtidig med forhåndsvarsel når dette er påkrevd, jf. [forvaltningsloven § 16](lov/1967-02-10/§16). Utlending som søker beskyttelse, og som ikke har rett til fritt rettsråd, skal gis tilbud om individuell veiledning fra en uavhengig organisasjon i forbindelse med at søknaden fremsettes, med mindre det er iverksatt en ordning med kollektiv beskyttelse, jf. [lovens § 34](lov/2008-05-15-35/§34).
 
 Veiledning etter bestemmelsen her skal gis på et språk utlendingen kan forstå.
 
 ### § 17-18. Retten til fritt rettsråd
 
-Enslig mindreårig asylsøker har rett til fritt rettsråd uten behovsprøving i rimelig tid før Utlendingsdirektoratet fatter vedtak i saken. Det samme gjelder for utlending som søker beskyttelse, når utelukkelse etter § 31 kan bli utfallet, jf. lovens § 92 annet ledd.
+Enslig mindreårig asylsøker har rett til fritt rettsråd uten behovsprøving i rimelig tid før Utlendingsdirektoratet fatter vedtak i saken, jf. [lovens § 92 første ledd bokstav d](lov/2008-05-15-35/§92/ledd/1/bokstav/d). Det samme gjelder for utlending som søker beskyttelse, når utelukkelse etter § 31 kan bli utfallet, jf. [lovens § 92 første ledd bokstav e](lov/2008-05-15-35/§92/ledd/1/bokstav/e).
 
-En utlending som har fått en asylsøknad nektet realitetsbehandlet etter lovens § 32 første ledd bokstav a eller d, har ikke rett til fritt rettsråd uten behovsprøving, jf. lovens § 92 annet ledd første punktum. Vedkommende har heller ikke rett til fritt rettsråd uten behovsprøving i eventuell sak om bortvisning, jf. lovens § 92 første ledd. Første og annet punktum gjelder ikke utlending som nevnt i første ledd.
+En utlending som har fått en asylsøknad nektet realitetsbehandlet etter [lovens § 32 første ledd bokstav a](lov/2008-05-15-35/§32/ledd/1/bokstav/a) eller [d](lov/2008-05-15-35/§32/ledd/1/bokstav/d), har ikke rett til fritt rettsråd uten behovsprøving, jf. [lovens § 92 annet ledd bokstav a](lov/2008-05-15-35/§92/ledd/2/bokstav/a), jf. [§ 92 syvende ledd bokstav a](lov/2008-05-15-35/§92/ledd/7/bokstav/a). Vedkommende har heller ikke rett til fritt rettsråd uten behovsprøving i eventuell sak om bortvisning, jf. [lovens § 92 første ledd bokstav a](lov/2008-05-15-35/§92/ledd/1/bokstav/a), jf. [§ 92 syvende ledd bokstav a](lov/2008-05-15-35/§92/ledd/7/bokstav/a). Første og annet punktum gjelder ikke utlending som nevnt i første ledd.
 
-Når en sak behandles i stornemnd i Utlendingsnemnda med personlig fremmøte, jf. [§ 16-4](forskrift/2009-10-15-1286/§16-4), gis det rett til fritt rettsråd uten behovsprøving.
+Når en sak behandles i stornemnd i Utlendingsnemnda med personlig fremmøte, jf. [§ 16-4](forskrift/2009-10-15-1286/§16-4), gis det rett til fritt rettsråd uten behovsprøving, jf. [lovens § 92 syvende ledd bokstav b](lov/2008-05-15-35/§92/ledd/7/bokstav/b).
 
-[Forvaltningsloven kapittel IV](lov/1967-02-10/kapiv) til VI om saksforberedelse, vedtak og klage gjelder ikke for Utlendingsdirektoratets beslutning om hvorvidt en sak faller inn under første eller annet ledd.
+[Forvaltningsloven kapittel IV](lov/1967-02-10/kapIV) til [VI](lov/1967-02-10/kapVI) om saksforberedelse, vedtak og klage gjelder ikke for Utlendingsdirektoratets beslutning om hvorvidt en sak faller inn under første eller annet ledd.
 
-> Endret ved [forskrifter 20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [7 des 2015 nr. 1402](forskrift/2015-12-07-1402) (endringen i annet ledd gjelder ikke for utlending som før ikrafttredelsen søkte om beskyttelse etter [utlendingsloven § 28](lov/2008-05-15-35/§28)), [13 des 2024 nr. 3122](forskrift/2024-12-13-3122) (i kraft 1 jan 2025). **Endres** ved forskrift [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
+> Endret ved [forskrifter 20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [7 des 2015 nr. 1402](forskrift/2015-12-07-1402) (endringen i annet ledd gjelder ikke for utlending som før ikrafttredelsen søkte om beskyttelse etter [utlendingsloven § 28](lov/2008-05-15-35/§28)), [13 des 2024 nr. 3122](forskrift/2024-12-13-3122) (i kraft 1 jan 2025), [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
 
-### § 17-18a. Rett til fritt rettsråd ved utvisning på grunn av ilagt straff eller særreaksjon
+### § 17-18a. (Opphevet)
 
-I medhold av [utlendingsloven § 92 sjuende ledd bokstav b](lov/2008-05-15-35/§92/ledd/7/bokstav/b) skal det gis rett til fritt rettsråd uten behovsprøving i sak om utvisning på grunn av ilagt straff eller særreaksjon, når utlendingen har mindreårige barn som er bosatt i Norge og som er norske borgere eller har oppholdstillatelse eller oppholdsrett.
-
-> Tilføyd ved forskrift [13 des 2024 nr. 3122](forskrift/2024-12-13-3122) (i kraft 1 jan 2025). **Oppheves** ved forskrift [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
+> Tilføyd ved forskrift [13 des 2024 nr. 3122](forskrift/2024-12-13-3122) (i kraft 1 jan 2025), opphevet ved forskrift [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
 
 ### § 17-19. Refusjon av det offentliges utgifter
 
-I tilfeller hvor det er gitt fritt rettsråd uten behovsprøving, jf. lovens § 92 første, annet og tredje ledd, kan det offentliges utgifter i forbindelse med rettshjelpen kreves helt eller delvis erstattet dersom utlendingen har økonomisk evne til det, jf. lovens § 92 sjette ledd.
+I tilfeller hvor det er gitt fritt rettsråd uten behovsprøving, jf. [lovens § 92 første](lov/2008-05-15-35/§92/ledd/1) og [annet ledd](lov/2008-05-15-35/§92/ledd/2), kan det offentliges utgifter i forbindelse med rettshjelpen kreves helt eller delvis erstattet dersom utlendingen har økonomisk evne til det, jf. [lovens § 92 femte ledd](lov/2008-05-15-35/§92/ledd/5).
 
 Når Utlendingsnemnda finner grunn til å reise spørsmål om slik refusjon, sendes saken til vedkommende statsforvalter, som avgjør om refusjon skal kreves.
 
 Når Utlendingsdirektoratet antar at bestemmelsen i første ledd kan komme til anvendelse, sendes saken til Utlendingsnemnda.
 
-I tilfeller hvor det er gitt fri sakførsel uten behovsprøving etter lovens § 92 femte ledd, gjelder bestemmelsene i denne paragraf tilsvarende.
+I tilfeller hvor det er gitt fri sakførsel uten behovsprøving etter [lovens § 92 tredje ledd](lov/2008-05-15-35/§92/ledd/3), gjelder bestemmelsene i denne paragraf tilsvarende.
 
-> Endret ved [forskrift 27 nov 2020 nr. 2484](forskrift/2020-11-27-2484) (i kraft 1 jan 2021). **Endres** ved forskrift [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
+> Endret ved forskrifter [27 nov 2020 nr. 2484](forskrift/2020-11-27-2484) (i kraft 1 jan 2021), [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
 
 ### § 17-20. Tilbud om advokat og annen bistand. Advokatvaktordning
 
@@ -3907,7 +3905,7 @@ For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 11 i lov
 2. lovens § 89 om gebyr gjelder bare for saker etter lovens kapittel 2,
 3. lovens § 90c femte ledd gjelder når vern mot utsendelse etter lovens § 73 er aktuelt. Frist for utreise etter § 90a skal settes til minst én måned fra tidspunktet for underretning av vedtaket,
 4. lovens § 129 femte ledd om iverksetting av vedtak gjelder når anvendelse av bestemmelsen er forenlig med hensynet til offentlig orden eller sikkerhet, jf. lovens § 122 og forskriftens [§ 19-29](forskrift/2009-10-15-1286/§19-29),
-5. lovens § 92 annet ledd om rettshjelp gjelder når vern mot utsendelse etter lovens § 73 er aktuelt, og
+5. [lovens § 92 første ledd bokstav d](lov/2008-05-15-35/§92/ledd/1/bokstav/d) og [annet ledd bokstav a](lov/2008-05-15-35/§92/ledd/2/bokstav/a) om rettshjelp gjelder når vern mot utsendelse etter [lovens § 73](lov/2008-05-15-35/§73) er aktuelt, og
 6. lovens kapittel 11 del II om særlige regler for beskyttelse i asylsaker gjelder bare når bestemmelsene i lovens kapittel 9 kommer til anvendelse, jf. fjerde ledd i denne paragrafen.
 
 For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 12 i loven med følgende presisering;
@@ -3916,7 +3914,7 @@ For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 12 i lov
 
 For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 15 i loven.
 
-> Endret ved forskrifter [18 des 2009 nr. 1666](forskrift/2009-12-18-1666), [19 mai 2011 nr. 583](forskrift/2011-05-19-583), [20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [16 des 2013 nr. 1560](forskrift/2013-12-16-1560) (i kraft 2 jan 2014), [26 okt 2016 nr. 1254](forskrift/2016-10-26-1254) (i kraft 1 nov 2016), [21 aug 2017 nr. 1270](forskrift/2017-08-21-1270) (i kraft 1 sep 2017), [8 okt 2018 nr. 1560](forskrift/2018-10-08-1560) (i kraft 1 nov 2018), [10 juni 2020 nr. 1169](forskrift/2020-06-10-1169), [5 okt 2021 nr. 2939](forskrift/2021-10-05-2939) (i kraft 1 jan 2022), [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025). **Endres** ved forskrift [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
+> Endret ved forskrifter [18 des 2009 nr. 1666](forskrift/2009-12-18-1666), [19 mai 2011 nr. 583](forskrift/2011-05-19-583), [20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [16 des 2013 nr. 1560](forskrift/2013-12-16-1560) (i kraft 2 jan 2014), [26 okt 2016 nr. 1254](forskrift/2016-10-26-1254) (i kraft 1 nov 2016), [21 aug 2017 nr. 1270](forskrift/2017-08-21-1270) (i kraft 1 sep 2017), [8 okt 2018 nr. 1560](forskrift/2018-10-08-1560) (i kraft 1 nov 2018), [10 juni 2020 nr. 1169](forskrift/2020-06-10-1169), [5 okt 2021 nr. 2939](forskrift/2021-10-05-2939) (i kraft 1 jan 2022), [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025), [17 sep 2026 nr. 1834](forskrift/2026-09-17-1834) (i kraft 1 okt 2026).
 
 ### § 19-3. Søknad om oppholdstillatelse etter lovens kapittel 3, 4, 6 og 7 fra utlendinger som har oppholdsrett etter lovens kapittel 13, og betydningen av oppholdsretten
 
