@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-01-01"
 last_change_in_force: "2025-10-01"
 last_updated: "2022-03-29"
-xml_hash: "8c3737f782c5e119f60e5b32dc30379c0a7a811db6d52c8de6736d1af6b1cece"
+xml_hash: "ab0991986e635a8f474941bab89c5f415360c78aef543f00c9b53caab512aa51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,7 @@ Før behandlingen påbegynnes, skal behandlende lege påse at det foreligger skr
 
 Når behandlingen skjer ved bruk av egg fra kvinnen som er befruktet med donert sæd, og kvinnen har fått ny ektefelle eller samboer, skal samtykke til behandling gis av kvinnen og hennes nåværende ektefelle eller samboer. Det kreves ikke samtykke fra tidligere ektefelle eller samboer, heller ikke dersom kvinnen skal bruke egget til assistert befruktning som enslig.
 
-> Endret ved [lover 27 juni 2008 nr. 53](lov/2008-06-27-53) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 745](forskrift/2008-06-27-745)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020).
+> Endret ved [lover 27 juni 2008 nr. 53](lov/2008-06-27-53) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 745](forskrift/2008-06-27-745)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12)), [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020).
 
 ### § 2-6. Avgjørelse om behandling
 
@@ -126,7 +126,7 @@ Donoren må gi skriftlig samtykke til at sæden eller de ubefruktede eggene kan 
 
 En sæddonor eller eggdonor skal ikke gis opplysninger om kvinnens, parets eller barnets identitet.
 
-> Endret ved lover [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr.1 jan 2021).
+> Endret ved lover [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12)), [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr.1 jan 2021).
 
 ### § 2-10. Valg av eggdonor og sæddonor
 
@@ -268,7 +268,7 @@ Preimplantasjonsdiagnostikk kan bare finne sted ved virksomhet som er godkjent a
 
 Virksomhet som er godkjent etter første ledd, skal avgi skriftlig rapport til departementet om virksomheten. Departementet fastsetter nærmere regler om rapporteringsplikten.
 
-> Tilføyd ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)), endret ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020), tidligere § 2A-8.
+> Tilføyd ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)), endret ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020, tidligere § 2A-8).
 
 ### § 2A-6. (Opphevet)
 
@@ -340,13 +340,13 @@ Det er forbudt:
 
 Med kloning menes teknikker for å framstille arvemessig like kopier.
 
-> Endret ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)), tidligere § 3-2.
+> Endret ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632), tidligere § 3-2).
 
 ### § 3-6. Forbud mot bruk av teknikker med sikte på å framstille arvemessig like individer
 
 Bruk av teknikker med sikte på å framstille arvemessig like individer er forbudt.
 
-> Endret ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)), tidligere § 3-3.
+> Endret ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632), tidligere § 3-3).
 
 ## Kapittel 4. Fosterdiagnostikk
 
