@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1927-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2021-08-26"
-xml_hash: "3eb60bf96fa2d3c774cdb643e7e765605ae330cadf949853194cad415811e201"
+xml_hash: "26cb33ce7a07f8e4ca5b94081b49149349024024ebc6ec705b4ae6ac10b41892"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Fornærmede som nevnt i [straffeprosessloven § 93 a](lov/1981-05-22-25/§93a) f
 
 Hvis bare én hadde foreldreansvaret i en sak der fornærmede under 18 år er død som følge av en straffbar handling, kan vedkommende peke ut en annen person som også kan fremme krav.
 
-> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [2 juli 2004 nr. 61](lov/2004-07-02-61) (ikr. 1 jan 2005 iflg. [res. 2 juli 2004 nr. 1065](forskrift/2004-07-02-1065)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)).
+> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [2 juli 2004 nr. 61](lov/2004-07-02-61) (ikr. 1 jan 2005 iflg. [res. 2 juli 2004 nr. 1065](forskrift/2004-07-02-1065)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)).
 
 ## § 2.
 
@@ -84,24 +84,24 @@ Oppnevnte sakkyndige som ikke har fast lønn og rettstolker skal foruten reisego
 
 I andre saker end sivile saker kan ogsaa sakkyndige, som ikke er opnævnt, efter omstændighetene tilkjendes saadan godtgjørelse som ovenfor nævnt.
 
-> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [14 juni 1985 nr. 71](lov/1985-06-14-71), [29 juni 1990 nr. 47](lov/1990-06-29-47), [15 sep 1995 nr. 62](lov/1995-09-15-62) (ikr. 1 jan 1997 iflg. [res. 20 des 1996 nr. 1152](forskrift/1996-12-20-1152)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [14 juni 1985 nr. 71](lov/1985-06-14-71), [29 juni 1990 nr. 47](lov/1990-06-29-47), [15 sep 1995 nr. 62](lov/1995-09-15-62) (ikr. 1 jan 1997 iflg. [res. 20 des 1996 nr. 1152](forskrift/1996-12-20-1152)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ## § 11.
 
 Naar en, som ikke er part i en sivil sak maa fremlægge eller gi adgang til skriftlige bevis eller andre ting, som er i hans besiddelse, skal vedkommende part erstatte ham de utgifter, som er forbundet med det. Paa forlangende skal beløpet utredes forskudsvis.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## § 12.
 
 Avgjørelser om godtgjøring etter denne lov kan ankes eller påklages på følgende måte:
 
-1. Avgjørelser truffet av en domstol kan ankes til overordnet domstol etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27). Avgjørelser truffet av Arbeidsretten og gjenopptakelseskommisjonen kan ikke ankes. Avgjørelser truffet ved norsk konsulrett kan ankes til Borgarting lagmannsrett.
-2. Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27).
+1. Avgjørelser truffet av en domstol kan ankes til overordnet domstol etter reglene i [rettshjelpsloven § 27](lov/1980-06-13-35/§27). Avgjørelser truffet av Arbeidsretten og gjenopptakelseskommisjonen kan ikke ankes. Avgjørelser truffet ved norsk konsulrett kan ankes til Borgarting lagmannsrett.
+2. Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett etter reglene i [rettshjelpsloven § 27](lov/1980-06-13-35/§27).
 3. Avgjørelser truffet av en namsfogd kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.
 4. Avgjørelser truffet av andre organer enn nevnt i nr. 1 til 3 kan påklages til departementet etter reglene i forvaltningsloven.
 
-> Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov [29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 juni 1995 nr. 34](lov/1995-06-23-34) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov [29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 juni 1995 nr. 34](lov/1995-06-23-34) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ## Slutningsbestemmelse.
 
