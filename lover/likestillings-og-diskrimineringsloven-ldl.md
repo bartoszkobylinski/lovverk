@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-01-01"
 last_change_in_force: "2024-07-01"
 last_updated: "2025-03-12"
-xml_hash: "b3a1a07f7d996d4d8c3c98d3a4f66d8297253754fd4f36c81b905e1a6654703b"
+xml_hash: "d06081f859c2d68fb7c993aa17bbef81f5fc9c22038dbfc4b1a5105d116eed5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis:
   - "31992L0085"
@@ -287,7 +287,7 @@ Arbeid som nevnt i denne bestemmelsen skal dokumenteres. Arbeid som nevnt i best
 
 Kongen kan i forskrift gi nærmere regler om innholdet i og gjennomføringen av lønnskartleggingen.
 
-> Endret ved [lov 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)) som endret ved [lov 20 des 2019 nr. 110](lov/2019-12-20-110).
+> Endret ved [lov 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776), endring endret ved [lov 20 des 2019 nr. 110](lov/2019-12-20-110)).
 
 ### § 26 a. Arbeidsgivers redegjørelsesplikt
 
@@ -311,7 +311,7 @@ Virksomhetens ansatte og deres representanter, Diskrimineringsnemnda, Likestilli
 
 Opplysningene kan bare gis i den utstrekning de er nødvendige for å undersøke om arbeidsgiver har overholdt sin aktivitets- og dokumentasjonsplikt etter [likestillings- og diskrimineringsloven § 26](lov/2017-06-16-51/§26).
 
-> Tilføyd ved [lov 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)) som endret ved [lov 20 des 2019 nr. 110](lov/2019-12-20-110).
+> Tilføyd ved [lov 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776), endring endret ved [lov 20 des 2019 nr. 110](lov/2019-12-20-110)).
 
 ### § 26 c. Forankring i selskapers styre
 
