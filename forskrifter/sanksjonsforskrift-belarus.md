@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Utenriksdepartementet"
 date_in_force: "2006-09-08"
-last_change_in_force: "2025-02-17"
+last_change_in_force: "2026-10-01"
 last_updated: "2026-01-09"
-xml_hash: "b9ded2bb5f0cc1f77ed31251491b1cf65f482bb9f3cef404c9f3676f4f482573"
+xml_hash: "3630f580da5305df6f892e2f194cdf88066a58208e5f780de2d73414e6634e6e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-19T08:44:52.874882+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Forskriften gjelder på Svalbard og Jan Mayen.
 
 (5) Henvisningene til medlemsstatenes kompetente myndigheter, i enkelte tilfeller med referanser til vedlegg II, skal forstås som «Direktoratet for eksportkontroll og sanksjoner», med unntak av artikkel 1zc nr. 1d, hvor kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner, Samferdselsdepartementet eller Statens vegvesen».
 
-(6) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen, jf. artikkel 5 og artikkel 1z. Videre er artiklene 7, 8, 8a, 8ca, 8e, 8j, 9, 9a, 9b, 10 og 11 EU-interne og kommer ikke til anvendelse. Tilsvarende gjelder forordningens vedlegg II.
+(6) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen, jf. artikkel 5 og artikkel 1z. Videre er artiklene 1e nr. 3b, 1f nr. 3b og 6a, 7, 8, 8a, 8ca, 8e nr. 1 til 3, 8j, 9, 9a, 9b, 10 og 11 EU-interne og kommer ikke til anvendelse. Tilsvarende gjelder forordningens vedlegg II.
 
 (7) I vedlegg I til denne forskrift er listen i forordningens vedlegg I erstattet med lenke til EUs konsoliderte liste over personer underlagt restriktive tiltak.
 
@@ -56,7 +56,7 @@ Forskriften gjelder på Svalbard og Jan Mayen.
 
 (9) Henvisningen til vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428) skal forstås som henvisning til «Liste II-flerbruksvarer» i vedlegg II til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.)](forskrift/2013-06-19-718).
 
-(10) Henvisningene til 3. mars 2022 i artikkel 1e nr. 5, 1f nr. 5 og 1fa nr. 1 bokstav b og 10. mars 2022 i artikkel 1t nr. 2 bokstav a skal forstås som 8. april 2022, 8. april 2022 i artikkel 1zc skal forstås som 4. mai 2022, 9. april 2022 i artikkel 1zc skal forstås som 5. mai 2022, 20. mars 2022 i artikkel 1zb skal forstås som 18. april 2022, 12. april 2022 i artikkel 1jb, 1x nr. 1 og 1y nr. 1 skal forstås som 11. mai 2022, 16. april 2022 i artikkel 1zc skal forstås som 13. mai 2022, 1. mai 2022 i artikkel 1e nr. 5, 1f nr. 5 og 1fa nr. 1 bokstav b skal forstås som 6. juni 2022, 27. mai 2022 i artikkel 1z skal forstås som 25. juni 2022, 4. juni 2022 i artikkel 1o nr. 2, 1p nr. 2, 1q nr. 2, 1r nr. 2 og 1s nr. 3 skal forstås som 10. juli 2022, 14. juni 2022 i vedlegg XV skal forstås som 3. juli 2022, 5. august 2023 i artikkel 1f nr. 4a og nr. 5a og 1sa nr. 5 og nr. 6 skal forstås som 13. desember 2023, 4. september 2023 i artikkel 1sa nr. 5 skal forstås som 12. januar 2024, 6. februar 2024 i artikkel 1f nr. 4a og 5a skal forstås som 15. juni 2024, 1. juli 2024 i artikkel 1bb nr. 4, nr. 5 og nr. 6, 1gc nr. 3, 1h nr. 4, 1jc nr. 6, 1ra nr. 7 og nr. 9, 1rb nr. 1 og nr. 3, 1rc nr. 1 og nr. 2, 8f nr. 5 og 8g nr. 2 skal forstås som 9. oktober 2024, 2. august 2024 i artikkel 1bb nr. 5 og 1zc nr. 1c skal forstås som 10. november 2024, 2. oktober 2024 i artikkel 1bb nr. 4, 1gc nr. 3, 1h nr. 4, 1jc nr. 6 og 1ra nr. 9 skal forstås som 10. januar 2025, 31. desember 2024 i artikkel 8da nr. 1, nr. 2 og nr. 3 skal forstås som 10. april 2025, 2. januar 2025 i artikkel 1bb nr. 6, 1jc nr. 9, 8ga nr. 1 og nr. 3 skal forstås som 12. april 2025.
+(10) Henvisningene til 3. mars 2022 i artikkel 1e nr. 5, 1f nr. 5 og 10. mars 2022 i artikkel 1t nr. 2 bokstav a skal forstås som 8. april 2022, 8. april 2022 i artikkel 1zc skal forstås som 4. mai 2022, 9. april 2022 i artikkel 1zc skal forstås som 5. mai 2022, 20. mars 2022 i artikkel 1zb skal forstås som 18. april 2022, 12. april 2022 i artikkel 1jb, 1x nr. 1 og 1y nr. 1 skal forstås som 11. mai 2022, 16. april 2022 i artikkel 1zc skal forstås som 13. mai 2022, 1. mai 2022 i artikkel 1e nr. 5, 1f nr. 5, og 1fa nr. 1b bokstav b skal forstås som 6. juni 2022, 27. mai 2022 i artikkel 1z skal forstås som 25. juni 2022, 14. juni 2022 i vedlegg XV skal forstås som 3. juli 2022, 5. august 2023 i artikkel 1sa nr. 6 skal forstås som 13. desember 2023, 1. juli 2024 i artikkel 1ra nr. 7, 1rb nr. 1 og nr. 3, 1rc nr. 1 og nr. 2, 8f nr. 5 og 8g nr. 2 skal forstås som 9. oktober 2024, 2. august 2024 i artikkel 1zc nr. 1c skal forstås som 10. november 2024, 31. desember 2024 i artikkel 8da nr. 1, nr. 2 og nr. 3 skal forstås som 10. april 2025, 2. januar 2025 i artikkel 8ga nr. 1a og nr. 3a skal forstås som 12. april 2025, 20. juli 2025 i artikkel 1aa nr. 2 bokstav b, 1bb nr. 3a og nr. 3b skal forstås som 3. oktober 2026, 21. oktober 2025 i artikkel 1bb nr. 3a skal forstås som 4. januar 2027, 21. januar 2026 i artikkel 1bb nr. 3b skal forstås som 6. april 2027, 24. oktober 2025 i artikkel 1bb nr. 3c og nr. 3d, 1jc nr. 10a og 10b og 1ra nr. 9b skal forstås som 2. oktober 2026, 25. januar 2026 i artikkel 1bb nr. 3c, 1jc nr. 10a, og 1ra nr. 9b skal forstås som 3. januar 2027, 25. april 2026 i artikkel 1bb nr. 3d skal forstås som 3. april 2027, 26. mai 2025 i artikkel 1gd nr. 3, 1ra nr. 9a, 8ga nr. 1a og nr. 3a skal forstås som 31. desember 2026, 25. februar 2025 i artikkel 1gd nr. 3 og 1ra nr. 9a skal forstås som 2. oktober 2026, 25. november 2025 i artikkel 1jc nr. 4a skal forstås som 3. november 2026, 1. januar 2026 i artikkel 1jc nr. 10b skal forstås som 10. desember 2026, 26. januar 2026 i artikkel 1ra nr. 9c skal forstås som 5. januar 2027, 25. juli 2026 i artikkel 1ra nr. 9c skal forstås som 4. juli 2027 og 26. mars 2025 i artikkel 1u nr. 3 skal forstås som 31. oktober 2026.
 
 (11) Henvisningene til en medlemsstats offisielle valuta i [artikkel 1y](forskrift/2006-09-08-1041/a1y) og 1za skal også omfatte norske kroner.
 
@@ -64,11 +64,13 @@ Forskriften gjelder på Svalbard og Jan Mayen.
 
 (13) Henvisningen til Rådets beslutning om endring av rådsforordning [(EU) nr. 833/2014](eu/32014r0833) i artikkel 1h nr. 5 skal forstås som «inntil annet fremgår av forskriften».
 
-(14) Artikkel 8h kommer ikke til anvendelse.
+(14) [Artikkel 8h](forskrift/2006-09-08-1041/a8h), 8k, 8l og 8m kommer ikke til anvendelse.
 
 (15) Artikkel 1m skal forstås som «Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene fastsatt i denne forordningen».
 
-> Endret ved forskrifter [27 april 2012 nr. 387](forskrift/2012-04-27-387), [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [18 nov 2020 nr. 2640](forskrift/2020-11-18-2640), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [24 mai 2022 nr. 900](forskrift/2022-05-24-900), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530), [30 okt 2024 nr. 2639](forskrift/2024-10-30-2639), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 feb 2025 nr. 232](forskrift/2025-02-17-232). **Endres** ved forskrift [14 sep 2026 nr. 1810](forskrift/2026-09-14-1810) (i kraft 1 okt 2026).
+(16) Henvisningen i [artikkel 8e nr. 4](forskrift/2006-09-08-1041/a8e/nummer/4) til tollmyndigheter som omhandlet i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952) skal forstås som Tolletaten, til kompetente myndigheter som omhandlet i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575), europaparlaments- og rådsdirektiv [(EU) 2015/849](eu/32015l0849) og europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065) skal forstås som tilsynsmyndigheter med ansvar for antihvitvaskingsregelverket, til finansielle etterretningsenheter som omhandlet i direktiv [(EU) 2015/849](eu/32015l0849) skal forstås som Økokrim.
+
+> Endret ved forskrifter [27 april 2012 nr. 387](forskrift/2012-04-27-387), [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [18 nov 2020 nr. 2640](forskrift/2020-11-18-2640), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [24 mai 2022 nr. 900](forskrift/2022-05-24-900), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530), [30 okt 2024 nr. 2639](forskrift/2024-10-30-2639), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 feb 2025 nr. 232](forskrift/2025-02-17-232), [14 sep 2026 nr. 1810](forskrift/2026-09-14-1810) (i kraft 1 okt 2026).
 
 ## § 3. Straff
 
@@ -96,7 +98,7 @@ Denne forskrift trer i kraft straks.
 
 ## Vedlegg A:
 
-> Vedlegg A tilføyd ved forskrift [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), endret ved forskrifter [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [14 jan 2022 nr. 89](forskrift/2022-01-14-89), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530). **Endres** ved forskrift [14 sep 2026 nr. 1810](forskrift/2026-09-14-1810) (i kraft 1 okt 2026).
+> Vedlegg A tilføyd ved forskrift [7 okt 2015 nr. 1220](forskrift/2015-10-07-1220), endret ved forskrifter [8 des 2015 nr. 1450](forskrift/2015-12-08-1450), [18 juli 2016 nr. 938](forskrift/2016-07-18-938), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [28 juli 2021 nr. 2461](forskrift/2021-07-28-2461), [14 jan 2022 nr. 89](forskrift/2022-01-14-89), [7 april 2022 nr. 546](forskrift/2022-04-07-546), [5 mai 2022 nr. 756](forskrift/2022-05-05-756), [21 juni 2022 nr. 1134](forskrift/2022-06-21-1134), [11 des 2023 nr. 1996](forskrift/2023-12-11-1996), [7 okt 2024 nr. 2530](forskrift/2024-10-07-2530), [14 sep 2026 nr. 1810](forskrift/2026-09-14-1810) (i kraft 1 okt 2026).
 
 ### RÅDSFORORDNING (EF) nr. 765/2006
 
@@ -174,6 +176,8 @@ I denne forordning menes med
     1. kartlegging, produksjon og distribusjon innenfor Belarus eller utvinning av råolje, naturgass eller fast fossilt brensel, raffinering av brensel, omdanning til væske av naturgass eller regassifisering,
     2. produksjon eller distribusjon innenfor Belarus av faste fossile brenselsprodukter, raffinerte petroleumsprodukter eller gass, eller
     3. oppføring av anlegg eller installasjon av utstyr for, eller levering av tjenester, utstyr eller teknologi til, virksomhet knyttet til kraftproduksjon eller elektrisitetsproduksjon.
+28. *kryptoeiendel:* en kryptoeiendel som definert i artikkel 3 nr. 1 punkt 5 i europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114).
+29. *betalingstjenester:* tjenester som definert i artikkel 4 nr. 3 i europaparlaments- og rådsdirektiv [(EU) 2015/2366](eu/32015l2366).
 
 ### Artikkel 1a
 
@@ -186,13 +190,33 @@ I denne forordning menes med
 
 3\. Den kompetente myndighet, som oppført i vedlegg II, i medlemsstaten kan på de vilkår den finner hensiktsmessige, gjøre unntak fra forbudet i denne bestemmelsen og gi tillatelse til salg, levering, overføring eller eksport av utstyr som kan bli brukt til intern undertrykking, såfremt den fastslår at utstyret utelukkende er for humanitær eller beskyttende bruk.
 
+### Artikkel 1aa
+
+1\. Det er forbudt direkte eller indirekte å kjøpe, importere eller overføre varer og teknologi oppført på EUs felles liste over militært materiell til EU dersom de har opprinnelse i Belarus eller eksporteres fra Belarus.
+
+2\. Forbudet i nr. 1 gjelder ikke import, kjøp eller overføring knyttet til
+
+1. levering av reservedeler og tjenester som er nødvendige for vedlikehold av og sikkerhet for eksisterende kapasiteter i EU, eller
+2. oppfyllelse av kontrakter inngått før 20. juli 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+### Artikkel 1ab
+
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført på EUs felles liste over militært materiell, enten disse har sin opprinnelse i Unionen eller ikke, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+
+2\. Forbudene fastsatt i nr. 1 gjelder ikke
+
+1. militært ikke-dødbringende utstyr som utelukkende er for humanitær bruk eller beskyttelsesbruk eller til bruk for FNs og EUs institusjonsbyggingsprogrammer, eller for EUs og FNs krisehåndteringsoperasjoner, eller
+2. ikke-stridskjøretøy, som er utstyrt med materialer for ballistisk beskyttelse, og som utelukkende er beregnet for beskyttende bruk av personell fra EU og EUs medlemsstater i Belarus, forutsatt at en kompetent myndighet i en medlemsstat, som angitt i [vedlegg II](forskrift/2006-09-08-1041/vedleggII), har gitt sin forhåndsgodkjenning.
+
+3\. Nr. 1 gjelder ikke beskyttelsesklær, herunder skuddsikre vester og militærhjelmer, som midlertidig eksporteres til Belarus av personell fra FN eller Unionen eller dens medlemsstater, representanter for mediene, humanitære hjelpearbeidere og bistandsarbeidere og tilknyttet personell, og som utelukkende er for deres personlige bruk.
+
 ### Artikkel 1b
 
 1\. Det er forbudt
 
-1. å yte, direkte eller indirekte, faglig bistand og formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell («EUs felles militære liste»), eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på den nevnte listen, til fysiske eller juridiske personer, enheter eller organer i Belarus eller for bruk i Belarus,
-2. å yte, direkte eller indirekte, faglig bistand eller formidlingstjenester knyttet til utstyr som kan bli brukt til intern undertrykking, og som er oppført i vedlegg III, til personer, enheter eller organer i Belarus eller for bruk i Belarus,
-3. å yte, direkte eller indireke, finansiering eller finansiell bistand knyttet til varer eller teknologi oppført på EUs felles militære liste eller i vedlegg III, herunder særlig tilskudd, lån og eksportkredittforsikringer, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til personer, enheter eller organer i eller til bruk i Belarus,
+1. å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på den nevnte listen, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til utstyr som kan bli brukt til intern undertrykking, og som er oppført i [vedlegg III](forskrift/2006-09-08-1041/vedleggIII), til personer, enheter eller organer i Belarus eller til bruk i Belarus,
+3. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til salg, levering, overføring eller eksport av varene og teknologien oppført på EUs felles liste over militært materiell eller i [vedlegg III](forskrift/2006-09-08-1041/vedleggIII), eller yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
 4. forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a), b) og c).
 
 2\. Forbudet fastsatt i nr. 1 kommer ikke til anvendelse på
@@ -227,11 +251,19 @@ I denne forordning menes med
 2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
 3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til, fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-4\. Forbudene i nr. 1 og 3 gjelder ikke oppfyllelse innen 2. oktober 2024 av kontrakter inngått før 1. juli 2024 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+3a. Forbudene i nr. 1 og 3 gjelder ikke salg, levering, overføring eller eksport av varer som faller inn under KN-kode 3204 11, 3204 12, 3204 13, 3204 14, 3204 15, 3204 16, 3204 17, 3204 18, 3204 19, 3204 20, 3506 10, 3506 91, 3907 10, 3907 21, 3907 30, 3907 50, 3907 61, 3907 69 og 3907 99, som oppført i [vedlegg XVIII](forskrift/2006-09-08-1041/vedleggXVIII), og som er nødvendige for oppfyllelse innen 21. oktober 2025 av kontrakter inngått før 20. juli 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
-5\. Med hensyn til varer som faller inn under KN-kode 2602, gjelder forbudene i nr. 1 og 3 ikke oppfyllelse innen 2. august 2024 av kontrakter inngått før 1. juli 2024 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+3b. Forbudene i nr. 1 og 3 gjelder ikke salg, levering, overføring eller eksport av varer som faller inn under KN-kode 9032 89, som oppført i [vedlegg XVIII](forskrift/2006-09-08-1041/vedleggXVIII), som er nødvendige for oppfyllelse innen 21. januar 2026 av kontrakter inngått før 20. juli 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
-6\. Med hensyn til varer som faller inn under KN-kode 8708 99, gjelder forbudene i nr. 1 og 3 ikke oppfyllelse innen 2. januar 2025 av kontrakter inngått før 1. juli 2024 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+3c. Forbudene i nr. 1 og 3 gjelder ikke salg, levering, overføring eller eksport av varer som faller inn under KN-kode 2501, 2505, 2507, 2513, 2516, 2517, 2528, 2606, 6804, 6815 og 6903, som oppført i [vedlegg XVIII](forskrift/2006-09-08-1041/vedleggXVIII), som er nødvendige for oppfyllelse innen 25. januar 2026 av kontrakter inngått før 24. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+3d. Forbudene i nr. 1 og 3 gjelder ikke salg, levering, overføring eller eksport av varer som faller inn under KN-kode 6902 og 6909 19, som oppført i [vedlegg XVIII](forskrift/2006-09-08-1041/vedleggXVIII), som er nødvendige for oppfyllelse innen 25. april 2026 av kontrakter inngått før 24. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+4\. (Opphevet)
+
+5\. (Opphevet)
+
+6\. (Opphevet)
 
 7\. Forbudene nevnt i nr. 1 og 3 gjelder ikke varer som er nødvendige for offisielle formål til medlemsstatenes eller partnerlandenes diplomatiske eller konsulære representasjoner i Belarus eller internasjonale organisasjoner, som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige eiendeler.
 
@@ -241,7 +273,7 @@ I denne forordning menes med
 2. utelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus, eller
 3. for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
 
-9\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kode 8417 20, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansielle bistanden er nødvendig for personlig bruk i fysiske personers husholdning.
+9\. (Opphevet)
 
 10\. Som unntak fra nr. 2 kan kompetente myndigheter tillate transitt gjennom Belarus' territorium av varer og teknologi som særlig kan bidra til å styrke Belarus' industrielle kapasitet, som oppført i vedlegg XIX, etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 8.
 
@@ -249,16 +281,20 @@ I denne forordning menes med
 
 12\. Som unntak fra nr. 1 og 3 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som faller inn under KN-kode 3917, 8523 og 8536 som oppført i vedlegg XVIII, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendig for vedlikehold eller reparasjon av medisinsk utstyr.
 
-13\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av følgende varer, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansiell bistanden er nødvendig for personlig bruk i fysiske personers husholdning i Belarus:
+13\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av følgende varer, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansielle bistanden er nødvendig for personlig bruk i fysiske personers husholdning i Belarus:
 
-1. varer som faller inn under KN-kode 8417 20,
-2. rør og rørdeler av kobber som faller inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm.
+1. varer som faller inn under KN-kode 8417 20,
+2. rør og rørdeler av kobber som faller inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm,
+3. varer som faller inn under KN-kode 8414 60,
+4. varer som faller inn under KN-kode 3916 20 når det er strengt nødvendig for salg av PVC-gulv.
 
 14\. Medlemsstatenes kompetente myndigheter kan på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kode 3917 10, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer selges, leveres, overføres eller eksporteres utelukkende med henblikk på framstilling av næringsmidler for konsum i Belarus.
 
-15\. Når kompetente myndigheter treffer beslutning om tillatelse i henhold til nr. 8, 9, 10, 12, 13 og 14, skal de ikke tillate eksport til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, dersom de har rimelig grunn til å tro at varene kan ha en militær sluttbruk.
+14a. Som unntak fra nr. 1 og nr. 3 kan kompetente myndigheter gi tillatelse til salg, levering, overføring eller eksport av varer som faller inn under KN-kode 8517 62 og 8523 52 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller den tilknyttede faglige eller finansielle bistanden er beregnet på sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige.
 
-16\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 8, 9, 10, 12, 13 og 14, senest to uker etter at tillatelsen er gitt.
+15\. Når kompetente myndigheter treffer beslutning om tillatelse til de formål som nevnt i nr. 8, 9, 10, 12, 13, 14 og 14a, skal de ikke tillate eksport til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, dersom de har rimelig grunn til å tro at varene kan ha en militær sluttbruk.
+
+16\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 8, 10, 12, 13, 14 og 14a, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1c
 
@@ -292,31 +328,31 @@ I denne forordning menes med
 2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
 3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-3\. Uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821) gjelder forbudene i nr. 1 og 2 i denne artikkelen ikke salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
+3\. Uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), får forbudene i nr. 1 og 2 i denne artikkelen ikke anvendelse på salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
 
-1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,
-2. medisinske eller farmasøytiske formål,
-3. midlertidig eksport av varer til bruk av nyhetsmedier,
-4. programvareoppdateringer,
-5. bruk som forbrukerkommunikasjonsutstyr, eller
-6. personlig bruk for fysiske personer som reiser til Belarus eller medlemmer av deres nærmeste familie som reiser med dem, og begrenset til personlige effekter, løsøre, kjøretøyer eller yrkesmessig verktøy, som eies av disse personene, og som ikke er beregnet på salg.
+1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer, eller
+2. medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i vedlegg XXX til denne forordningen.
 
-Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
+Eksportøren skal oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det relevante unntaket fastsatt i dette nummeret, og skal underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang per mottaker i Belarus.
 
-3a. Uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821) gjelder forbudet i nr. 1a i denne artikkelen ikke transitt gjennom Belarus' territorium av flerbruksvarer og flerbruksteknologi beregnet på formålene fastsatt i nr. 3 bokstav a–e i denne artikkelen.
+3a. Uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), får forbudet i nr. 1a i denne artikkelen ikke anvendelse på transitt gjennom Belarus’ territorium av flerbruksvarer og flerbruksteknologi beregnet på formålene fastsatt i nr. 3 i denne artikkelen.
+
+3b. Medlemsstatene skal fastsette rapporteringskrav knyttet til bruken av unntakene i henhold til nr. 3 og eventuelle tilleggsopplysninger om produkter som eksporteres i henhold til disse unntakene som kreves av medlemsstaten der eksportøren er bosatt eller etablert.
 
 4\. Som unntak fra nr. 1 og nr. 2 i denne artikkelen, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet på
 
-1. samarbeid mellom EU, medlemsstatenes regjeringer og Belarus’ regjering utelukkende til sivile formål,
-2. mellomstatlig samarbeid innenfor romprogrammer,
-3. drift, vedlikehold, etterbehandling av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
-4. maritim sikkerhet,
-5. sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,
-6. utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av juridisk personer, enheter eller organer som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,
-7. EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner, eller
-8. å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus’ regjering og foretak som direkte eller indirekte kontrolleres av Belarus’ regjering.
+1. mellomstatlig samarbeid innenfor romprogrammer,
+2. drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+3. maritim sikkerhet,
+4. sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,
+5. utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av juridiske personer, enheter eller organer som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,
+6. EUs, medlemsstatens og partnerlandendes diplomatiske representasjoner, herunder delegasjoner, ambassader og utenriksstasjoner,
+7. å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus’ regjering og foretak som direkte eller indirekte kontrolleres av Belarus’ regjering,
+8. programvareoppdateringer,
+9. bruk som forbrukerkommunikasjonsutstyr, eller
+10. medisinske eller farmasøytiske formål, forutsatt at de er oppført i vedlegg XXX til denne forordningen.
 
-4a. Som unntak fra nr. 1a, og uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate transitt gjennom Belarus' territorium av flerbruksvarer og flerbruksteknologi etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 4 bokstav b, c, d og h i denne artikkelen.
+4a. Som unntak fra nr. 1a, og uten at det berører kravene om tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate transitt gjennom Belarus’ territorium av flerbruksvarer og flerbruksteknologi etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 4 bokstav b, c, d, h og k i denne artikkelen.
 
 5\. Som unntak fra nr. 1 og nr. 2 i denne artikkelen, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden skal leveres i henhold til kontrakter inngått før 3. mars 2022, eller tilleggskontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at det er søkt om tillatelse før 1. mai 2022.
 
@@ -324,8 +360,8 @@ Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i tolldeklarasjonen at pr
 
 7\. Når den kompetente myndigheten treffer beslutninger om tillatelse i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom den har rimelig grunn til å tro at
 
-1. sluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1 bokstav a), eller
-2. salg, levering, overføring eller eksport av varer og teknologi nevnt i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien, med mindre salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til nr. 4 bokstav b).
+1. sluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1b bokstav a, eller
+2. salg, levering, overføring eller eksport av varer og teknologi nevnt i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien.
 
 8\. Den kompetente myndigheten kan oppheve, suspendere, endre eller tilbakekalle en tillatelse som den har gitt i henhold til nr. 4 og nr. 5, dersom den finner at en slik opphevelse, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forordningen.
 
@@ -335,6 +371,8 @@ Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i tolldeklarasjonen at pr
 
 1a. Transitt gjennom Belarus' territorium av varer og teknologi som kan bidra til å øke Belarus' militære og teknologiske styrke, eller til å utvikle Belarus' forsvars- og sikkerhetssektor, som oppført i vedlegg Va, eksportert fra EU, er forbudt.
 
+1aa. Uten at det berører forbudet mot indirekte eksport i nr. 1 i denne artikkelen og artikkel 4 i forordning [(EU) 2021/821](eu/32021r0821), skal det kreves tillatelse for eksport av varer og teknologi som kan bidra til å øke Belarus' militære og teknologiske styrke, eller til å utvikle Belarus' forsvars- og sikkerhetssektor, som oppført i vedlegg Va til denne forordningen, til andre tredjeland enn Belarus, dersom eksportøren er blitt informert av den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert om at de aktuelle varene eller teknologien helt eller delvis er eller kan være beregnet til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+
 2\. Det er forbudt
 
 1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi til en fysisk eller juridisk person, enhet eller organ i Belarus eller til bruk i Belarus,
@@ -343,52 +381,61 @@ Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i tolldeklarasjonen at pr
 
 3\. Forbudene i nr. 1 og nr. 2 gjelder ikke salg, levering, overføring eller eksport av varer og teknologi omhandlet i nr. 1 eller tilknyttet yting av faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker beregnet på
 
-1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer,
-2. medisinske eller farmasøytiske formål,
-3. midlertidig eksport av varer til bruk av nyhetsmedier,
-4. programvareoppdateringer,
-5. bruk som forbrukerkommunikasjonsutstyr, eller
-6. personlig bruk for fysiske personer som reiser til Belarus eller medlemmer av deres nærmeste familie som reiser med dem, og begrenset til personlige effekter, løsøre, kjøretøyer eller yrkesmessig verktøy, som eies av disse personene, og som ikke er beregnet på salg.
+1. humanitære formål, kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer, eller
+2. medisinske eller farmasøytiske formål, forutsatt at de ikke er oppført i vedlegg XXX til denne forordningen.
 
-Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i sin tolldeklarasjon at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
+Eksportøren skal oppgi i tolldeklarasjonen at produktene eksporteres i henhold til det relevante unntaket fastsatt i dette nummeret, og skal underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang per mottaker i Belarus.
 
-3a. Forbudet i nr. 1a gjelder ikke transitt gjennom Belarus' territorium av varer og teknologi som kan bidra til å øke Belarus' militære og teknologiske styrke, eller til å utvikle Belarus' forsvars- og sikkerhetssektor, som oppført i vedlegg Va, og som er ment til bruk for formålene fastsatt i nr. 3 bokstav a–e.
+3a. Forbudet i nr. 1a gjelder ikke transitt gjennom Belarus’ territorium av varer og teknologi som kan bidra til å øke Belarus’ militære og teknologiske styrke, eller til å utvikle Belarus’ forsvars- og sikkerhetssektor, som oppført i vedlegg Va, og som er ment til bruk for formålene fastsatt i nr. 3.
+
+3b. Medlemsstatene skal fastsette rapporteringskrav knyttet til bruken av unntakene i henhold til nr. 3 og eventuelle tilleggsopplysninger om produkter som eksporteres i henhold til disse unntakene som kreves av medlemsstaten der eksportøren er bosatt eller etablert.
 
 4\. Som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet tillate salg, levering, overføring eller eksport av varene og teknologien omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet på
 
-1. samarbeid mellom EU, medlemsstatenes regjeringer og Belarus’ regjering utelukkende til sivile formål,
-2. mellomstatlig samarbeid innenfor romprogrammer,
-3. drift, vedlikehold, etterbehandling av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
-4. maritim sikkerhet,
-5. sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,
-6. utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av en juridisk person, enhet eller organ som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,
-7. EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,
-8. å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus' regjering og foretak som direkte eller indirekte kontrolleres av Belarus' regjeringen, eller
-9. utelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus.
+1. mellomstatlig samarbeid innenfor romprogrammer,
+2. drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
+3. maritim sikkerhet,
+4. sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige, og som ikke eies av en enhet som kontrolleres av staten, eller der staten eier over 50 %,
+5. utelukkende til bruk av enheter som eies, eller som alene eller i fellesskap kontrolleres av en juridisk person, enhet eller organ som er stiftet eller etablert i henhold til lovgivningen i en medlemsstat eller i et partnerland,
+6. EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og utenriksstasjoner,
+7. å sikre cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer, enheter og organer i Belarus, med unntak av Belarus’ regjering og foretak som direkte eller indirekte kontrolleres av Belarus’ regjering,
+8. programvareoppdateringer,
+9. bruk som forbrukerkommunikasjonsutstyr, eller
+10. medisinske eller farmasøytiske formål, forutsatt at de er oppført i vedlegg XXX til denne forordningen.
 
-4a. Uten at det berører nr. 4 bokstav e) og som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet tillate salg, levering, overføring eller eksport av varer og teknologi omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er beregnet på avvikling senest 6. februar 2024 av kontrakter og operasjoner som er pågående 5. august 2023, og som er nødvendige for å yte sivile telekommunikasjonstjenester til den belarusiske sivilbefolkningen.
+4a. (Opphevet)
 
-4b. Som unntak fra nr. 1a kan kompetente myndigheter tillate transitt gjennom Belarus' territorium av varer og teknologi som kan bidra til å øke Belarus' militære og teknologiske styrke, eller til å utvikle Belarus' forsvars- og sikkerhetssektor, som oppført i vedlegg Va, etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 4 bokstav b, c, d og h.
+4b. Som unntak fra nr. 1a kan kompetente myndigheter tillate transitt gjennom Belarus’ territorium av varer og teknologi som kan bidra til å øke Belarus’ militære og teknologiske styrke, eller til å utvikle Belarus’ forsvars- og sikkerhetssektor, som oppført i vedlegg Va, etter å ha slått fast at slike varer eller teknologi er ment til bruk for formålene fastsatt i nr. 4 bokstav b, c, d, h og l.
 
 5\. Som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet tillate salg, levering, overføring eller eksport av varene og teknologien omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden skal leveres i henhold til kontrakter inngått før 3. mars 2022, eller tilleggskontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 1. mai 2022.
 
-5a. Som unntak fra nr. 1 og nr. 2 kan den kompetente myndighet i en medlemsstat tillate salg, levering, overføring eller eksport av varer som faller inn under KN-kodene 8536 69, 8536 90, 8541 30 og 8541 60 som oppført i vedlegg Va, inntil 6. februar 2024, eller yting av tilknyttet faglig eller finansiell bistand, i den grad dette er nødvendig for bearbeiding av disse varene i Belarus av et fellesforetak der et foretak etablert i EU har majoritetseierskap 5. august 2023, med henblikk på etterfølgende import til EU og påfølgende produksjon i EU av varer til bruk i helse- eller legemiddelsektoren eller innen forskning og utvikling.
+5a. (Opphevet)
 
 6\. Tillatelser som kreves i henhold til denne artikkelen, skal gis av den kompetente myndigheten i samsvar med reglene og framgangsmåtene fastsatt i forordning [(EU) 2021/821](eu/32021r0821), som får tilsvarende anvendelse. Tillatelsene skal være gyldige i hele EU.
 
-7\. Når den kompetente myndigheten treffer beslutninger om tillatelser i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom de har rimelig grunn til å tro at
+6a. Dersom det kreves tillatelse i henhold til nr. 1aa, skal de kompetente myndighetene følge reglene og framgangsmåtene fastsatt i artikkel 4 i forordning [(EU) 2021/821](eu/32021r0821), som får tilsvarende anvendelse.
 
-1. sluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1, eller
-2. at salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 eller yting av tilknyttet faglig eller finansiell bistand er beregnet på luftfarts- eller romindustrien, med mindre salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til nr. 4 bokstav b).
+7\. Når den kompetente myndigheten treffer beslutninger om tillatelser i henhold til nr. 4 og nr. 5, skal den ikke gi tillatelse dersom den har rimelig grunn til å tro at
+
+1. sluttbrukeren kan være en militær sluttbruker, en fysisk eller juridisk person, enhet eller organ oppført i vedlegg V, eller at varene kan være beregnet på militær sluttbruk, med mindre salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er tillatt i henhold til artikkel 1fa nr. 1b bokstav a, eller
+2. salget, leveringen, overføringen eller eksporten av varer og teknologi omhandlet i nr. 1 i denne artikkelen eller ytingen av tilknyttet faglig eller finansiell bistand er beregnet til luftfarts- eller romindustrien.
 
 8\. Den kompetente myndigheten kan oppheve, suspendere, endre eller tilbakekalle en tillatelse den har gitt i henhold til nr. 4 og 5, dersom den anser at en slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forordningen.
 
 ### Artikkel 1fa
 
-1\. Med hensyn til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V, som unntak fra artikkel 1e nr. 1 og 2 og artikkel 1f nr. 1 og 2, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi og varer og teknologi oppført i vedlegg Va, eller yting av tilknyttet faglig eller finansiell bistand, bare etter å ha slått fast at slike varer eller teknologi eller tilknyttet faglig eller finansiell bistand
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere flerbruksvarer og flerbruksteknologi, samt varer og teknologi oppført i vedlegg Va, enten disse har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V.
 
-1. er nødvendige for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller
-2. skal leveres i henhold til kontrakter inngått før 3. mars 2022, eller tilknyttede kontrakter som er nødvendige for å kunne oppfylle en slik kontrakt, forutsatt at tillatelsen søkes om før 1. mai 2022.
+1a. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter, eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1 og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg V.
+
+1b. Som unntak fra nr. 1 og 1a, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring eller eksport av flerbruksvarer og flerbruksteknologi, samt varer og teknologi oppført i vedlegg Va, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at
+
+1. slike varer eller slik teknologi eller tilknyttet faglig eller finansiell bistand er nødvendig for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller
+2. slike varer eller slik teknologi eller tilknyttet faglig eller finansiell bistand skal leveres i henhold til kontrakter inngått før 26. februar 2022, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, forutsatt at tillatelsen søkes om før 1. mai 2022.
 
 2\. Tillatelser som kreves i henhold til denne artikkelen, skal gis av medlemsstatens kompetente myndigheter i samsvar med reglene og framgangsmåtene fastsatt i forordning [(EU) 2021/821](eu/32021r0821), som skal ha tilsvarende anvendelse. Tillatelsene skal være gyldige i hele EU.
 
@@ -402,9 +449,9 @@ Med unntak av nr. 1 bokstav f) skal eksportøren oppgi i sin tolldeklarasjon at 
 
 ### Artikkel 1fc
 
-1\. De kompetente myndighetene skal utveksle opplysninger om anvendelsen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om alle tillatelser som er gitt eller avslått, og om søknader om tillatelse som er mottatt dersom det foreligger mistanke om forumshopping eller andre relevante saker.
+1\. De kompetente myndighetene skal uten opphold utveksle opplysninger om anvendelsen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om alle tillatelser som er gitt eller avslått, og om søknader om tillatelse som er mottatt dersom det foreligger mistanke om forumshopping eller andre relevante saker.
 
-De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om overtredelser og sanksjoner i den forbindelse, om mønsterpraksis hos nasjonale håndhevingsmyndigheter samt om avdekking og straffeforfølgning eksport uten tillatelse. Utvekslingen av opplysninger skal skje ved bruk av det elektroniske systemet fastsatt i henhold til artikkel 23 nr. 6 i forordning [(EU) 2021/821](eu/32021r0821).
+De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikkel 1e, 1f og 1fa med de øvrige medlemsstatene og Kommisjonen, herunder om overtredelser og sanksjoner i den forbindelse, om beste praksis hos nasjonale håndhevingsmyndigheter samt om avdekking og straffeforfølgning av eksport uten tillatelse. Utvekslingen av opplysninger skal skje ved bruk av det elektroniske systemet fastsatt i henhold til artikkel 23 nr. 6 i forordning [(EU) 2021/821](eu/32021r0821).
 
 2\. Opplysninger som mottas som følge av anvendelsen av denne artikkelen, skal brukes utelukkende til det tiltenkte formålet, også utvekslingene nevnt i nr. 4. Medlemsstatene og Kommisjonen skal sørge for beskyttelse av konfidensielle opplysninger som mottas ved anvendelse av denne artikkelen, i samsvar med unionsretten og den respektive nasjonale lovgivningen. Medlemsstatene og Kommisjonen skal sørge for at graderte opplysninger som gis eller utveksles i henhold til denne artikkelen, ikke nedgraderes eller frigis uten opphaverens skriftlige samtykke.
 
@@ -434,7 +481,7 @@ De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikk
 
 2\. Vedlegg VI omfatter varer som brukes til produksjon eller framstilling av tobakksprodukter.
 
-3\. – – –
+3\. (Opphevet)
 
 ### Artikkel 1ga
 
@@ -450,7 +497,7 @@ De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikk
 
 4\. Forbudet nevnt i nr. 1 gjelder ikke varer som er nødvendige for offisielle formål til medlemsstatenes eller partnerlandenes diplomatiske eller konsulære representasjoner i Belarus eller internasjonale organisasjoner som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige eiendeler.
 
-5\. Forbudet i nr. 1 gjelder ikke varer som faller inn under KN-kode 7113 00 00 og 7114 00 00 som oppført i vedlegg XXV, til personlig bruk for fysiske personer som reiser fra EU, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, og som eies av disse personene og ikke er beregnet på salg.
+5\. (Opphevet)
 
 6\. Som unntak fra nr. 1 kan kompetente myndigheter tillate overføring eller eksport til Belarus av kulturgjenstander som er utlånt innenfor rammen av et formelt kultursamarbeid med Belarus.
 
@@ -482,13 +529,29 @@ De kompetente myndighetene skal utveksle opplysninger om håndhevingen av artikk
 2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av slike varer og teknologi eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
 3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-3\. Forbudene i nr. 1 og 2 gjelder ikke oppfyllelse innen 2. oktober 2024 av kontrakter inngått før 1. juli 2024, eller tilknyttede kontrakter som er nødvendige for å oppfylle av slike kontrakter.
+3\. (Opphevet)
 
 4\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som oppført i vedlegg XX, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller slik teknologi eller den tilknyttede faglige eller finansielle bistanden er nødvendig for omgående å hindre eller begrense en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, eller for miljøet.
 
 I behørig begrunnede hastetilfeller kan salget, leveringen, overføringen eller eksporten gjennomføres uten forhåndstillatelse, forutsatt at eksportøren innen fem virkedager etter at salget, leveringen, overføringen eller eksporten har funnet sted, underretter kompetente myndigheter og gir nærmere opplysninger om den relevante begrunnelsen for at salget, leveringen, overføringen eller eksporten har funnet sted uten forhåndstillatelse.
 
 5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 4, senest to uker etter at tillatelsen er gitt.
+
+### Artikkel 1gd
+
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare som er oppført i vedlegg XXXII til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+
+2\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester i forbindelse med salg, levering, overføring, eksport eller tilgjengeliggjøring av programvare som nevnt i nr. 1 til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand i forbindelse med salg, levering, overføring, eksport eller tilgjengeliggjøring av programvare som nevnt i nr. 1, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer i Belarus eller til bruk i Belarus, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til salg, levering, overføring, eksport eller tilgjengeliggjøring av programvare som nevnt i nr. 1 til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
+
+3\. Forbudene i nr. 1 gjelder ikke salg, levering, overføring, eksport eller tilgjengeliggjøring av programvare som er nødvendig for oppfyllelse innen 26. mai 2025 av kontrakter inngått før 25. februar 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+4\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport og yting av faglig eller finansiell bistand, etter å ha slått fast at det er nødvendig for å sikre kritisk kraftforsyning i EU.
+
+5\. Den eller de berørte medlemsstatene skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 4, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1h
 
@@ -498,7 +561,7 @@ I behørig begrunnede hastetilfeller kan salget, leveringen, overføringen eller
 
 3\. Forbudene i nr. 1 gjelder ikke kjøp i Belarus av mineralske produkter oppført i vedlegg VII som er nødvendige for å dekke kjøperens grunnleggende behov i Belarus eller humanitære prosjekters grunnleggende behov i Belarus.
 
-4\. Forbudene i nr. 1 og 2 gjelder ikke for råolje, som oppført i vedlegg XXIII, fram til 2. oktober 2024 for enkeltstående transaksjoner med nært forestående levering som er avtalt og gjennomført før denne datoen, eller oppfyllelse av kontrakter om kjøp, import eller overføring av råolje, som oppført i vedlegg XXIII, som er inngått før 1. juli 2024, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter, forutsatt at den aktuelle medlemsstaten har meldt disse kontraktene til Kommisjonen innen 23. juli 2024, og at de aktuelle medlemsstatene har meldt de enkeltstående transaksjonene med nært forestående levering til Kommisjonen senest ti dager etter at de er gjennomført.
+4\. (Opphevet)
 
 5\. Forbudene i nr. 1 og 2 i denne artikkelen gjelder ikke transitt gjennom Belarus av råolje som faller inn under KN-kode 2709 00, og som leveres via rørledning fra Russland til medlemsstatene, før Rådet beslutter at forbudene i artikkel 3m nr. 1 og 2 i rådsforordning [(EU) nr. 833/2014](eu/32014r0833) skal gjelde for råolje som leveres via rørledning fra Russland.
 
@@ -508,7 +571,7 @@ I behørig begrunnede hastetilfeller kan salget, leveringen, overføringen eller
 
 1a. Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i nr. 1.
 
-2\. – – –
+2\. (Opphevet)
 
 ### Artikkel 1j
 
@@ -533,49 +596,63 @@ Fra og med 12. april 2022 er det forbudt å føre opp og yte tjenester på hande
 
 ### Artikkel 1jc
 
-1\. Det er forbudt direkte eller indirekte å yte tjenester innenfor regnskapsføring, revisjon, herunder lovfestet revisjon, bokføring eller skatterådgivning, eller forretnings- og ledelsesrådgivning eller PR-tjenester til
+1\. Det er forbudt direkte eller indirekte å yte tjenester innenfor regnskapsføring, revisjon, herunder lovfestet revisjon, bokføring, skatterådgivning, eller forretnings- og ledelsesrådgivning eller PR-tjenester til
 
 1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
 2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-2\. Det er forbudt direkte eller indirekte å yte arkitekt- og ingeniørtjenester, juridiske rådgivningstjenester og IT konsulenttjenester til
+2\. Det er forbudt direkte eller indirekte å yte bygge- og anleggstjenester, arkitekt- og ingeniørtjenester,integrerte ingeniørtjenester, byplanleggingstjenester, ingeniørrelatert vitenskapelig og teknisk rådgivning eller tjenester i form av tekniske tester og analysetjenester, juridiske rådgivningstjenester og IT-konsulenttjenester til
 
 1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
 2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-3\. Det er forbudt direkte eller indirekte å yte tjenester i form av markedsundersøkelser og meningsmålinger, tekniske tester og analysetjenester samt markedsføringstjenester til
+3\. Det er forbudt direkte eller indirekte å yte tjenester i form av markedsføring, markedsundersøkelser eller meningsmålinger til
 
 1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
 2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-4\. Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse og programvare for industridesign og produksjon som oppført i vedlegg XXVI til
+4\. Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse, programvare for industridesign og produksjon samt programvare med visse bruksområder i bank- og finanssektoren, som oppført i vedlegg XXVI, til
 
 1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
 2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-5\. Det er forbudt å
+4a. Fra og med 25. november 2025 er det forbudt direkte eller indirekte å yte kommersielle rombaserte tjenester bestående av jordobservasjon eller satellittnavigasjon, tjenester innenfor kunstig intelligens som består av tilgang til modeller eller plattformer for trening, finjustering og inferens, eller høytytende databehandling, herunder tilgang til Graphic Processing Unit-akselerert databehandling eller kvantedatabehandlingstjenester til
 
-1. yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og tjenester nevnt i nr. 1–4 med sikte på direkte eller indirekte levering av dem til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer, eller
-2. yte finansiering eller finansiell bistand knyttet til varene og tjenestene nevnt i nr. 1–4 med sikte på levering av dem, eller med sikte på yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer.
+1. Republikken Belarus, dens regjering samt dens offentlige organer, foretak eller etater, eller
+2. fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra Republikken Belarus, dens regjering, offentlige organer, foretak eller etater.
 
-6\. Nr. 1–4 gjelder ikke yting av tjenester som er strengt nødvendige for senest 2. oktober 2024 å kunne heve kontrakter som ikke er i samsvar med denne artikkelen og er inngått før 1. juli 2024, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+5\. Det er forbudt
+
+1. å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til tjenester og programvare nevnt i nr. 1-4a direkte eller indirekte til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer,
+2. å yte finansiering eller finansiell bistand knyttet til tjenester og programvare nevnt i nr. 1-4a, eller med sikte på yting av tilknyttet faglig bistand, tilknyttede formidlingstjenester eller andre tjenester, direkte eller indirekte til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer, eller
+3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til programvaren omhandlet i nr. 4, og til levering, produksjon, vedlikehold og bruk av slik programvare til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater, eller til fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra slike juridiske personer, enheter eller organer.
+
+5a. Det kreves forhåndstillatelse for direkte eller indirekte yting av enhver tjeneste som ikke er omfattet av nr. 1, 2, 3 eller 4a til Republikken Belarus, dens regjering, offentlige organer, foretak eller etater. De kompetente myndighetene kan etter en konkret vurdering i det enkelte tilfellet gi tillatelse, på de vilkår de finner hensiktsmessige, til yting av slike tjenester etter å ha slått fast at dette er i samsvar med formålene i denne forordningen.
+
+6\. (Opphevet)
 
 7\. Nr. 1 og 2 gjelder ikke yting av tjenester som er strengt nødvendige for å utøve retten til forsvar i rettslige prosesser og retten til et effektivt rettsmiddel.
 
 8\. Nr. 1 og 2 gjelder ikke yting av tjenester som er strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosesser i en medlemsstat, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftsdom avsagt i en medlemsstat, dersom ytingen av slike tjenester er i samsvar med formålene for denne forordningen.
 
-9\. Nr. 1–4 gjelder ikke før 2. januar 2025 på yting av tjenester som utelukkende er beregnet på bruk for juridiske personer, enheter eller organer som er etablert i Belarus, og som eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland som oppført på listen i vedlegg Vb.
+9\. (Opphevet)
 
-10\. Nr. 2, 3 og 4 gjelder ikke yting av tjenester som er nødvendige ved kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som kan få alvorlige eller betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer.
+10\. Forbudene i nr. 2 og 4 samt forbudene i tilknytning til kommersielle rombaserte tjenester i nr. 4a gjelder ikke yting av tjenester eller programvare som er nødvendige for kriser som truer folkehelsen, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige eller betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
+
+10a. Forbudene i nr. 4 gjelder ikke levering av programvare med visse bruksområder i bank- og finanssektoren som oppført i vedlegg XXVI som er nødvendig for oppfyllelse innen 25. januar 2026 av kontrakter inngått før 24. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+10b. Nr. 5a gjelder ikke oppfyllelse innen 1. januar 2026 av kontrakter inngått før 24. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
 11\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter tillate levering av de tjenestene som er nevnt i disse numrene, på de vilkår de finner hensiktsmessige, etter å ha slått fast at tjenestene er strengt nødvendige for etablering, sertifisering eller evaluering av en brannmur som
 
 1. fjerner den kontrollen som fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I har over aktivaene til juridiske personer, enheter eller organer som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i en medlemsstat og eid eller kontrollert av førstnevnte, og
 2. sikrer at ingen ytterligere midler eller økonomiske ressurser kommer den oppførte fysiske eller juridiske personen, enheten eller organet til gode.
 
-12\. Som unntak fra nr. 4 kan vedkommende myndigheter tillate yting av tjenester som er nevnt der, på de vilkår de finner hensiktsmessige, etter å ha slått fast at disse tjenestene er nødvendige for at belarusiske borgere skal kunne bidra til internasjonale prosjekter som bruker åpen kildekode.
+12\. Som unntak fra forbudene i tilknytning til programvare i nr. 4 og forbudene i tilknytning til yting av tjenester innenfor kunstig intelligens og høytytende databehandling eller kvantedatabehandlingstjenester i nr. 4a kan de kompetente myndighetene tillate levering av programvaren og tjenestene som er nevnt i disse numrene, på de vilkår de finner hensiktsmessige, etter å ha slått fast at nevnte programvare eller tjenester er strengt nødvendige for at belarusiske borgere skal kunne bidra til internasjonale prosjekter som bruker åpen kildekode.
 
-13\. Som unntak fra nr. 1 og 5 kan vedkommende myndigheter tillate yting av tjenestene som er omhandlet i nr. 1 og 5, på de vilkårene de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for
+12a. Som unntak fra nr. 2 kan kompetente myndigheter tillate yting av tjenestene som er nevnt der, på de vilkår de finner hensiktsmessige, etter å ha slått fast at disse tjenestene er strengt nødvendige for drift av Belarus’ konsulære eller diplomatiske representasjoner i en medlemsstat.
+
+13\. Som unntak fra nr. 1–5 kan kompetente myndigheter tillate yting av tjenestene og programvaren omhandlet der, på de vilkår de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for
 
 1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
 2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus,
@@ -583,12 +660,13 @@ Fra og med 12. april 2022 er det forbudt å føre opp og yte tjenester på hande
 4. å sikre kritisk kraftforsyning i EU og kjøp, import eller transport til EU av titan, aluminium, kobber, nikkel, palladium og jernmalm,
 5. å sikre kontinuerlig drift av infrastruktur, maskinvare og programvare som er kritisk for menneskers helse og sikkerhet, eller for miljøsikkerhet,
 6. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging, og idriftsettelse som kreves for å ferdigstille sivile atomkraftanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
-7. yting av elektroniske kommunikasjonstjenester fra teleoperatører i EU som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Belarus, i Ukraina, i EU, mellom Belarus og EU og mellom Ukraina og EU, og for datasentertjenester i EU, eller
-8. bruk utelukkende av juridiske personer, enheter eller organer etablert i Belarus som eies av eller, alene eller i felleskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland som oppført på listen i vedlegg Vb.
+7. yting av elektroniske kommunikasjonstjenester fra teleoperatører i EU som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Belarus, i Ukraina, i EU, mellom Belarus og EU, og mellom Ukraina og EU, og for datasentertjenester i EU,
+8. bruk utelukkende av juridiske personer, enheter eller organer etablert i Belarus som eies av eller, alene eller i felleskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat, et land som er medlem av Det europeiske økonomiske samarbeidsområde, Sveits eller et partnerland som oppført på listen i vedlegg Vb, eller
+9. den pågående konstruksjon av infrastrukturer med opptil 25 meters høyde som er nødvendig for sivil kraftforsyning og -distribusjon til utdannings- og helseinstitusjoner.
 
 14\. Som unntak fra nr. 2 kan kompetente myndigheter tillate yting av juridiske rådgivningstjenester som nevnt der, på de vilkår de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for å videreføre pågående initiativer til støtte for ofre for naturkatastrofer, kjernefysiske katastrofer eller kjemiske katastrofer, innenfor rammen av internasjonale vedtaksprosedyrer.
 
-15\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 11–14, senest to uker etter at tillatelsen er gitt.
+15\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 5a og nr. 11–14, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1k
 
@@ -610,7 +688,7 @@ Når den kompetente myndigheten anvender betingelsene i punkt i. og ii., skal de
 
 Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest to uker etter at tillatelsen er gitt.
 
-4\. – – –
+4\. (Opphevet)
 
 ### Artikkel 1l
 
@@ -621,7 +699,7 @@ Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjo
 
 2\. Forbudet i nr. 1 gjelder ikke levering av obligatorisk forsikring eller ansvarsforsikring til belarusiske personer, enheter eller organer dersom risikoen som forsikringen gjelder, er lokalisert innenfor EU, eller levering av forsikring til belarusiske utenriksstasjoner i EU.
 
-3\. – – –
+3\. (Opphevet)
 
 ### Artikkel 1m
 
@@ -646,7 +724,7 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 3. å transportere treprodukter som oppført i vedlegg X dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
 4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
-2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+2\. (Opphevet)
 
 ### Artikkel 1p
 
@@ -660,7 +738,7 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 3. å transportere sementprodukter som oppført i vedlegg XI dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
 4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
-2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+2\. (Opphevet)
 
 ### Artikkel 1q
 
@@ -674,7 +752,7 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 3. å transportere jern- og stålprodukter som oppført i vedlegg XII dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
 4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
-2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+2\. (Opphevet)
 
 ### Artikkel 1r
 
@@ -688,7 +766,7 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 3. å transportere gummiprodukter som oppført i vedlegg XIII dersom de har opprinnelse i Belarus eller eksporteres fra Belarus til et annet land,
 4. direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater samt forsikring og gjenforsikring, som gjelder forbudene i bokstav a), b) og c).
 
-2\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+2\. (Opphevet)
 
 ### Artikkel 1ra
 
@@ -714,7 +792,15 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 8\. Forbudet i nr. 1 gjelder ikke innførsel til EU av et kjøretøy som faller inn under KN-kode 8703, og som utelukkende er beregnet på humanitære formål, herunder evakuering eller hjemtransport av personer, eller transport av passasjerer som innehar et sertifikat utstedt av en medlemsstat som bekrefter at de reiser til denne medlemsstaten innenfor rammen av initiativer til støtte for ofre for naturkatastrofer, kjernefysiske katastrofer eller kjemiske katastrofer.
 
-9\. Med hensyn til varer oppført i vedlegg XXVII, gjelder forbudene i nr. 1 og 2 ikke oppfyllelse innen 2. oktober 2024 av kontrakter inngått før 1. juli 2024, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+9\. (Opphevet)
+
+9a. Med hensyn til varer som faller inn under KN-kode 7601, gjelder ikke forbudene i nr. 1 og 2 oppfyllelse innen 26. mai 2025 av kontrakter inngått før 25. februar 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+9b. Med hensyn til varer som faller inn under KN-kode 2901 10 00, gjelder ikke forbudene i nr. 1 og 2 oppfyllelse innen 25. januar 2026 av kontrakter inngått før 24. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+9c. Fra 26. januar 2026 til 25. juli 2026 får forbudene i nr. 1 og 2 ikke anvendelse på kjøp eller import til Ungarn av varer som faller inn under KN-kode 2901 10 00 med opprinnelse i Belarus eller som eksporteres fra Belarus, forutsatt at varene utelukkende er beregnet til bruk i Ungarn.
+
+9d. Varer som faller inn under KN-kode 2901 10 00, og som importeres til Ungarn i henhold til unntaket i nr. 9c, skal ikke selges videre til kjøpere i en annen medlemsstat eller i et tredjeland.
 
 10\. Som unntak fra nr. 1 og 2 kan kompetente myndigheter tillate kjøp, import eller overføring av varer oppført i vedlegg XXVII, eller yting av tilknyttet faglig og finansiell bistand, på de vilkår de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomkraftanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt for sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
 
@@ -777,11 +863,19 @@ I tillegg til forbudene fastsatt i artikkel 1k skal Den europeiske investeringsb
 
 Med unntak av bokstav f) og g) skal eksportøren oppgi i sin tolldeklarasjon at produktene eksporteres i henhold til det gjeldende unntaket fastsatt i dette nummeret og skal, innen 30 dager fra datoen da den første eksporten fant sted, underrette den kompetente myndigheten i medlemsstaten der eksportøren er bosatt eller etablert, om når det relevante unntaket anvendes første gang.
 
-3\. Forbudene i nr. 1 berører ikke oppfyllelse innen 4. juni 2022 av kontrakter inngått før 2. mars 2022 eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+3\. (Opphevet)
 
 4\. Som unntak fra nr. 1 kan kompetente myndigheter på de vilkår de finner hensiktsmessige, tillate salg, levering, overføring eller eksport av maskiner oppført i vedlegg XIV, eller yting av tilknyttet faglig bistand, formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring, etter å ha slått fast at de er beregnet på EUs, medlemsstatenes og partnerlandenes diplomatiske representasjoner, herunder delegasjoner, ambassader og utenriksstasjoner, eller internasjonale organisasjoner som har immunitet i henhold til folkeretten.
 
-5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 4, senest to uker etter at tillatelsen er gitt.
+4a. Som unntak fra nr. 1, og uten at det berører kravene til tillatelse i henhold til forordning [(EU) 2021/821](eu/32021r0821), kan kompetente myndigheter tillate salg, levering, overføring eller eksport av maskiner som faller inn under KN-kode 8471 80 eller yting av tilknyttet faglig eller finansiell bistand til ikke-militær bruk og til en ikke-militær sluttbruker, etter å ha slått fast at slike maskiner eller den tilknyttede faglige eller finansielle bistanden er beregnet på sivile elektroniske kommunikasjonsnett som ikke er offentlig tilgjengelige.
+
+4b. Som unntak fra nr. 1a kan kompetente myndigheter tillate transitt gjennom Belarus’ territorium av varer og teknologi oppført i vedlegg XIVa etter å ha slått fast at slike varer eller slik teknologi er nødvendig for
+
+1. medisinske eller farmasøytiske formål eller for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
+2. utelukkende til bruk for og underlagt full kontroll av den medlemsstaten som har gitt tillatelsen, og for å oppfylle sine vedlikeholdsforpliktelser på områder som er underlagt en langsiktig leasingavtale mellom vedkommende medlemsstat og Belarus, eller
+3. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og for fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg, samt levering av prekursormateriale til framstilling av medisinske radioisotoper og lignende medisinske bruksområder, eller kritisk teknologi til overvåking av stråling i miljøet, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling.
+
+5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som er gitt i henhold til nr. 4 og 4a, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1sa
 
@@ -799,7 +893,7 @@ Med unntak av bokstav f) og g) skal eksportøren oppgi i sin tolldeklarasjon at 
 2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien omhandlet i nr. 1 i forbindelse med salg, levering, overføring eller eksport av disse varene og denne teknologien, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus, eller
 3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi omhandlet i nr. 1, og til levering, produksjon, vedlikehold og bruk av slike varer og teknologi, til fysiske eller juridiske personer, enheter eller organer i Belarus eller til bruk i Belarus.
 
-5\. Forbudene i nr. 1 og nr. 4 skal ikke gjelde gjennomføring inntil 4. september 2023 av kontrakter inngått før 5. august 2023, eller av tilleggskontrakter som er nødvendige for å kunne oppfylle en slik kontrakt.
+5\. (Opphevet)
 
 6\. Som unntak fra nr. 1 og 4 kan den kompetente myndigheten på de vilkår den anser som hensiktsmessige, tillate gjennomføringen av en finansiell leieavtale for luftfartøyer som er inngått før 5. august 2023, etter å ha slått fast at
 
@@ -831,42 +925,58 @@ Når den kompetente myndigheten treffer beslutninger om tillatelser for medisins
 2\. Forbudet i nr. 1 gjelder ikke
 
 1. bindende forpliktelser til finansiering eller finansiell bistand innført før 10. mars 2022,
-2. yting av offentlig finansiering eller finansiell bistand opptil en samlet verdi av 10 000 000 euro per prosjekt til fordel for små og mellomstore bedrifter etablert i Unionen, eller
+2. (Opphevet)
 3. yting av offentlig finansiering eller finansiell bistand til handel med matvarer, og til jordbruksformål samt medisinske eller humanitære formål.
+
+3\. Som unntak fra nr. 1 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, gi tillatelse til yting av offentlig finansiering eller finansiell bistand opp til en samlet verdi av 10 000 000 euro per prosjekt til fordel for små og mellomstore bedrifter etablert i EU.
+
+4\. Den eller de berørte medlemsstatene skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 3, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1u
 
-1\. Det er forbudt å motta innskudd fra belarusiske statsborgere eller fysiske personer bosatt i Belarus, eller juridiske personer, enheter eller organer som er etablert i Belarus, dersom den samlede verdien av den fysiske eller juridiske personens, enhetens eller organets innskudd overstiger 100 000 euro per kredittinstitusjon.
+1\. Det er forbudt å motta innskudd fra belarusiske statsborgere eller fysiske personer bosatt i Belarus, eller juridiske personer, enheter eller organer som er etablert i Belarus, eller juridiske personer, enheter eller organer som er etablert utenfor EU og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av belarusiske statsborgere eller fysiske personer bosatt i Belarus, dersom den samlede verdien av den fysiske eller juridiske personens, enhetens eller organets innskudd overstiger 100 000 euro per kredittinstitusjon.
 
-2\. Nr. 1 gjelder ikke statsborgere i en medlemsstat, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller fysiske personer med midlertidig eller fast oppholdstillatelse i en medlemsstat, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits.
+2\. Det er forbudt direkte eller indirekte å yte følgende tjenester til belarusiske statsborgere eller fysiske personer bosatt i Belarus, eller juridiske personer, enheter eller organer som er etablert i Belarus:
 
-3\. Nr. 1 gjelder ikke innskudd som er nødvendige for handel over landegrensene mellom EU og Belarus med varer og tjenester som ikke omfattes av forbud.
+1. tjenester for kryptoeiendeler, som definert i forordning [(EU) 2023/1114](eu/32023r1114),
+2. utstedelse av betalingsinstrumenter, innløsning av betalingstransaksjoner eller betalingsfullmakttjenester, som definert i direktiv [(EU) 2015/2366](eu/32015l2366),
+3. utstedelse av elektroniske penger, som definert i europaparlaments- og rådsdirektiv [2009/110/EC](eu/32009l0110).
+
+3\. Fra 26. mars 2025 er det forbudt for belarusiske statsborgere eller fysiske personer bosatt i Belarus, direkte eller indirekte å eie, kontrollere eller inneha stillinger i styrende organer i juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til en medlemsstats lovgivning, og som yter tjenester for kryptoeiendeler i form av lommebøker, kontoer eller deponeringstjenester.
+
+4\. Nr. 1, 2 og 3 gjelder ikke statsborgere i en medlemsstat, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller fysiske personer med midlertidig eller permanent oppholdstillatelse i en medlemsstat, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits.
 
 ### Artikkel 1v
 
-1\. Som unntak fra artikkel 1u nr. 1 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd, på vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd
+1\. Som unntak fra artikkel 1u nr. 1 og 2 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd eller yting av en slik tjeneste, på de vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd eller yting av en slik tjeneste
 
 1. er nødvendig for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer omhandlet i artikkel 1u nr. 1 og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
 2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
-3. er nødvendig for å dekke ekstraordinære utgifter, forutsatt at den vedkommende kompetente myndigheten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, eller
-4. er nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner.
+3. er nødvendig for å dekke ekstraordinære utgifter, forutsatt at den kompetente myndigheten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse,
+4. er nødvendig for offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner,
+5. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, eller
+6. er nødvendig for handel over landegrensene mellom EU og Belarus med varer og tjenester som ikke omfattes av forbud.
 
-2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 bokstav a), b) og d), senest to uker etter at tillatelsen er gitt.
+1a. Forbudet i artikkel 1u nr. 2 bokstav b og c gjelder ikke levering av personaliserte sikkerhetsopplysninger som er nødvendige for å få tilgang til en konto hos en kredittinstitusjon eller et e-pengeforetak som er etablert i en medlemsstat eller et land som oppført i vedlegg Vba.
+
+1b. Som unntak fra artikkel 1u nr. 2 bokstav b og c kan kompetente myndigheter på de vilkår de finner hensiktsmessige, gi tillatelse til yting av en slik tjeneste, etter å ha slått fast at det er nødvendig for bruk utelukkende av juridiske personer, enheter eller organer som er etablert i Belarus, og som eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til lovgivningen i en medlemsstat eller et land som oppført i vedlegg Vba.
+
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 bokstav a, b, d, e eller f samt nr. 1b, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 1w
 
-1\. Som unntak fra artikkel 1u nr. 1 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd, på vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd
+1\. Som unntak fra artikkel 1u nr. 1 og 2 kan de kompetente myndighetene gi tillatelse til å godta slike innskudd eller yting av en slik tjeneste, på de vilkår de finner hensiktsmessige, etter å ha slått fast at godtakelse av et slikt innskudd eller yting av en slik tjeneste er nødvendig for
 
-1. er nødvendig for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering, eller
-2. er nødvendig for sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus.
+1. humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering, eller
+2. sivilsamfunnsaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus.
 
-2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
+2\. Nr. 1 gjelder ikke statsborgere i en medlemsstat eller fysiske personer med midlertidig eller permanent oppholdstillatelse i en medlemsstat.
 
 ### Artikkel 1x
 
 1\. Det er forbudt for verdipapirsentraler i EU å yte enhver form for tjenester som definert i vedlegget til forordning [(EU) nr. 909/2014](eu/32014r0909) for omsettelige verdipapirer utstedt etter 12. april 2022 til belarusiske statsborgere eller fysiske personer bosatt i Belarus eller til juridiske personer, enheter eller organer etablert i Belarus.
 
-2\. Nr. 1 gjelder ikke statsborgere i en medlemsstat eller fysiske personer med midlertidig eller fast oppholdstillatelse i en medlemsstat.
+2\. Nr. 1 gjelder ikke statsborgere i en medlemsstat eller fysiske personer med midlertidig eller permanent oppholdstillatelse i en medlemsstat.
 
 ### Artikkel 1y
 
@@ -887,12 +997,23 @@ Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushe
 
 2\. Forbudet i nr. 1 gjelder ikke salg, levering, overføring eller eksport av pengesedler pålydende en medlemsstats offisielle valuta dersom nevnte salg, levering, overføring eller eksport er nødvendig for
 
-1. personlig bruk for fysiske personer som reiser til Belarus, eller for medlemmer av deres nærmeste familie som reiser sammen med dem, eller
-2. offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten.
+1. personlig bruk for fysiske personer som reiser til Belarus, eller for medlemmer av deres nærmeste familie som reiser sammen med dem,
+2. offisielle formål på utenriksstasjoner eller i internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten, eller
+3. sivilsamfunnsaktiviteter og medieaktiviteter som direkte fremmer demokrati, menneskerettigheter eller rettsstaten i Belarus, og som mottar offentlig finansiering fra EU, medlemsstatene eller landene oppført i vedlegg Vba.
 
 ### Artikkel 1zb
 
-1\. Det er forbudt å yte spesialiserte finansielle formidlingstjenester som brukes til å utveksle finansielle data med juridiske personer, enheter eller organer oppført i vedlegg XV eller med juridiske personer, enheter eller organer etablert i Belarus hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XV.
+1\. Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer, enheter eller organer oppført i vedlegg XV eller med juridiske personer, enheter eller organer etablert i Belarus hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XV.
+
+1a. Forbudet i nr. 1 gjelder ikke transaksjoner
+
+1. som er nødvendige for drift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Belarus, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Belarus som har immunitet i henhold til folkeretten,
+2. som er foretatt av statsborgere i en medlemsstat, som er bosatt i Belarus og var det før 24. februar 2022,
+3. nødvendige for eksport, salg, levering, overføring eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel, som det er tillatt å eksportere, selge, levere, overføre eller transportere til Belarus i henhold til denne forordningen,
+4. strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i en medlemsstat, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i en medlemsstat, forutsatt at slike transaksjoner er i samsvar med formålene for denne forordningen, eller
+5. nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering.
+
+1b. Som unntak fra bestemmelsene i nr. 1 kan kompetente myndigheter, på de vilkår de finner hensiktsmessige, gi tillatelse til transaksjoner som er strengt nødvendige for avhendelser fra Belarus eller avvikling av forretningsvirksomhet i Belarus.
 
 2\. Forbudet i nr. 1 gjelder for hver av de juridiske personene, enhetene eller organene som er oppført i vedlegg XV, fra og med den datoen som er oppført for dem i det nevnte vedlegget. Forbudet gjelder fra og med den samme datoen for juridiske personer, enheter eller organer som er etablert i Belarus, og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i vedlegg XV.
 
@@ -902,7 +1023,9 @@ Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushe
 
 1a. Forbudet i nr. 1 får også anvendelse for godstransport innenfor EUs territorium som utføres av veitransportforetak med tilhengere eller semitrailere registrert i Belarus, herunder dersom slike tilhengere eller semitrailere trekkes av lastebiler som er registrert i andre land.
 
-1b. Det er forbudt for alle juridiske personer, enheter eller organer som er etablert i EU, og som eies med 25 % eller mer av belarusiske fysiske eller juridiske personer, enheter eller organer, å få adgang til å bli veitransportforetak som transporterer varer på vei på EUs territorium, herunder i transitt.
+1b. Det er forbudt for alle juridiske personer, enheter eller organer som er etablert i EU, og som eies med 25 % eller mer av belarusiske fysiske eller juridiske personer, enheter eller organer, å få adgang til å bli et veitransportforetak som transporterer varer på vei på EUs territorium, herunder i transitt.
+
+Det er forbudt for alle juridiske personer, enheter eller organer som er etablert i EU før 8. april 2022, og som allerede er et veitransportforetak som transporterer varer på vei innenfor EUs territorium, herunder i transitt, å foreta endringer i sin kapitalstruktur som vil øke den prosentvise andelen som eies av belarusiske fysiske eller juridiske personer, enheter eller organer, med mindre den prosentvise andelen forblir under 25 % etter en slik endring.
 
 1c. Fra og med 2. august 2024 er det forbudt for alle veitransportforetak som er etablert i Unionen etter 8. april 2022, og som eies med 25 % eller mer av belarusiske fysiske eller juridiske personer, enheter eller organer, å transportere varer på vei på EUs territorium, herunder i transitt.
 
@@ -912,10 +1035,7 @@ Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushe
 
 2a. Nr. 1b og 1c gjelder ikke veitransportforetak som er etablert i EU, og som eies med 25 % eller mer av belarusiske statsborgere som også er statsborgere av en medlemsstat, eller som har midlertidig eller fast oppholdstillatelse i en medlemsstat.
 
-3\. Forbudet i nr. 1 gjelder ikke før 16. april 2022 for godstransport som ble innledet før 9. april 2022, forutsatt at veitransportforetakets kjøretøy
-
-1. allerede befant seg på EUs territorium 9. april 2022, eller
-2. er nødt til å kjøre transitt gjennom EUs territorium for å returnere til Belarus.
+3\. (Opphevet)
 
 4\. Som unntak fra nr. 1 og 1a kan kompetente myndigheter i en medlemsstat tillate transport av varer på vei av et veitransportforetak etablert i Belarus eller av ethvert veitransportforetak dersom varene transporteres med tilhengere eller semitrailere registrert i Belarus, herunder dersom slike tilhengerne eller semitrailerne trekkes av lastebiler som er registrert i andre land, dersom kompetente myndigheter har slått fast at slik transport er nødvendig for
 
@@ -946,9 +1066,21 @@ Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushe
    2. overføring av forbudte varer og ulovlig overføring av varer som er pålagt restriksjoner, herunder farlige varer, til Unionens territorium, og
 2. de juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav d) i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses å være juridiske personer, enheter eller organer som eies eller kontrolleres av personer, enheter eller organer nevnt i bokstav a).
 
+6a. Vedlegg I skal også inneholde en liste over
+
+1. de fysiske eller juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav ca i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses for å være ansvarlige for gjennomføring, støtte, dra fordel av, er involvert i eller legger til rette for handlinger eller politikk som kan tilskrives Republikken Belarus, og som undergraver eller truer demokratiet, rettsstaten, stabiliteten, eller sikkerheten i Unionen eller i en eller flere av dens medlemsstater, i en internasjonal organisasjon eller i et tredjeland, eller som undergraver eller truer suvereniteten eller uavhengigheten til en eller flere av dens medlemsstater, eller i et tredjeland, gjennom følgende handlinger:
+
+   1. planlegging av, ledelse av, deltakelse i, direkte eller indirekte, støtte til, eller på annen måte tilrettelegging for bruk av informasjonsmanipulasjon og påvirkning,
+   2. planlegging av, ledelse av, deltakelse i, direkte eller indirekte, støtte til, eller på annen måte tilrettelegging for handlinger rettet mot funksjonen av demokratiske institusjoner, økonomiske aktiviteter eller tjenester av allmenn interesse, herunder gjennom ulovlig innreise til en medlemsstats territorium, inkludert dens luftrom, eller med sikte på å forstyrre, skade eller ødelegge kritisk infrastruktur gjennom sabotasje eller ondsinnede cyberaktiviteter som del av hybride aktiviteter,
+   3. planlegging av, ledelse av, deltakelse i, direkte eller indirekte, støtte til, eller på annen måte tilrettelegging for eller muliggjøring av omfattende eller systematiske handlinger som forstyrrer funksjonen til kritisk infrastruktur,
+2. de fysiske eller juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav cb i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses for å støtte de fysiske eller juridiske personene, enhetene eller organene som er involvert i handlinger som nevnt i bokstav a,
+3. de juridiske personene, enhetene eller organene som, i samsvar med artikkel 4 nr. 1 bokstav e i beslutning [2012/642/FUSP](eu/32012d0642), av Rådet anses som juridiske personer, enheter eller organer som å eies eller kontrolleres av personer, enheter eller organer nevnt i bokstav a eller b.
+
 7\. Vedlegg I inneholder også en liste over fysiske eller juridiske personer, enheter eller organer som er blitt utpekt av Rådet, i samsvar med artikkel 4 nr. 1 bokstav d i beslutning [2012/642/FUSP](eu/32012d0642), for å legge til rette for overtredelser av forbudet mot omgåelse av bestemmelsene i denne forordningen eller i den nevnte beslutningen, eller som på annen betydelig måte motvirker disse bestemmelsene.
 
-8\. Vedlegg I omfatter også fysiske eller juridiske personer, enheter eller organer med tilknytning til personene, enhetene eller organene nevnt i nr. 5, 6 og 7.
+7a. Vedlegg I inneholder også en liste over fysiske eller juridiske personer, enheter eller organer som er blitt utpekt av Rådet, i samsvar med artikkel 4 nr. 1 bokstav da i beslutning [2012/642/FUSP](eu/32012d0642), for å være del av, materielt eller økonomisk støtter eller drar fordel av Belarus’ militære og industrielle kompleks, herunder ved å være involvert i utvikling, produksjon eller forsyning av militær teknologi og militært utstyr.
+
+8\. Vedlegg I omfatter også fysiske eller juridiske personer, enheter eller organer med tilknytning til personene, enhetene eller organene nevnt i nr. 5, 6, 6a bokstav a 7 og 7a.
 
 ### Artikkel 2a
 
@@ -1018,6 +1150,29 @@ Som unntak fra artikkel 2 kan kompetente myndigheter i en medlemsstat gi tillate
 1. fjerner den kontrollen en fysisk eller juridisk person, enhet eller organ oppført i vedlegg I har over aktivaene til en juridisk person, enhet eller organ som ikke er oppført i vedlegget, og som er stiftet eller opprettet i henhold til lovgivningen i en medlemsstat og eid eller kontrollert av førstnevnte, og
 2. sikrer at ingen ytterligere midler eller økonomiske ressurser kommer den oppførte fysiske eller juridiske personen, enheten eller organet til gode.
 
+### Artikkel 4d
+
+1\. Som unntak fra artikkel 2 i denne forordningen og forutsatt at pengene har blitt frosset som følge av at en juridisk person, en enhet eller et organ oppført i vedlegg I til denne forordningen, eller en juridisk person eid eller kontrollert av en juridisk person, en enhet eller et organ oppført i nevnte vedlegg, har opptrådt som korrespondentbank i en overføring av disse pengene til EU fra Republikken Belarus, fra et tredjeland eller fra EU, kan en medlemsstats kompetente myndigheter, på de vilkår de finner hensiktsmessige, tillate frigivelse av visse frosne penger, etter å ha slått fast at overføringen av penger
+
+1. skjer mellom to fysiske eller juridiske personer, enheter eller organer som ikke er oppført i vedlegg I til denne forordningen,
+2. utføres ved bruk av kontoer i kredittinstitusjoner som ikke er oppført i vedlegg I til denne forordningen, og
+3. ikke er i strid med artikkel 2 nr. 2 eller artikkel 1m i denne forordningen.
+
+Dette nummeret gjelder ikke frosne penger eller formuesgoder som innehas av verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909).
+
+2\. Som unntak fra artikkel 2 i denne forordningen og forutsatt at betalingen har blitt frosset som følge av at en overføring til EU fra Republikken Belarus, fra et tredjeland eller fra EU, har blitt initiert gjennom eller fra en juridisk person, enhet eller organ oppført i vedlegg I til denne forordningen, eller gjennom eller fra en juridisk person eid eller kontrollert av en juridisk person, enhet eller organ oppført i nevnte vedlegg, kan de kompetente myndighetene i en medlemsstat, på de vilkår de finner hensiktsmessige, tillate frigivelse av denne frosne betalingen etter å ha slått fast at overføringen av betalingen
+
+1. skjer mellom to fysiske eller juridiske personer, enheter eller organer som ikke er oppført i vedlegg I til denne forordningen, og
+2. ikke er i strid med artikkel 2 nr. 2 eller artikkel 1m i denne forordningen.
+
+Dette nummeret gjelder ikke frosne penger eller formuesgoder som innehas av verdipapirsentraler i henhold til forordning [(EU) nr. 909/2014](eu/32014r0909).
+
+Mottakerne av en overføring som nevnt i første ledd i dette nummeret, kan bare være statsborgere i en medlemsstat, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits eller fysiske personer med midlertidig eller permanent oppholdstillatelse i en medlemsstat, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits.
+
+I henhold til dette nummeret kan det gis én tillatelse per søker.
+
+Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til dette nummeret, senest én uke etter at tillatelsen er gitt.
+
 ### Artikkel 5
 
 1\. Med forbehold for gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske og juridiske personer, enheter og organer
@@ -1037,15 +1192,20 @@ Som unntak fra artikkel 2 kan kompetente myndigheter i en medlemsstat gi tillate
 
 1. tillatelser gitt i henhold til denne forordningen,
 2. opplysninger mottatt i henhold til artikkel 1z,
-3. brudd på og håndheving av bestemmelsene, reaksjoner som anvendes ved brudd på bestemmelsene i denne forordningen samt rettsavgjørelser fra nasjonale domstoler.
+3. brudd på og håndheving av bestemmelsene, reaksjoner som anvendes ved brudd på bestemmelsene i denne forordningen samt rettsavgjørelser fra nasjonale domstoler,
+4. konstaterte tilfeller av brudd på, omgåelse av og forsøk på brudd på eller omgåelse av forbudene i denne forordningen, herunder ved bruk av kryptoeiendeler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
+
+2a. Kommisjonen kan, i samråd med medlemsstatene og på gjensidig grunnlag, utveksle opplysninger om handel med tredjeland, transaksjoner med tredjeland og tredjelandsoperatører med de kompetente myndighetene i et land, som oppført i vedlegg Vba, for å hindre omgåelse av forbudene fastsatt i denne forordningen, i den utstrekning det er relevant og nødvendig for effektiv gjennomføring av denne forordningen. Dersom disse opplysningene inneholder personopplysninger, skal utvekslingen skje på vilkår fastsatt i [kapittel V i forordning (EU) 2018/1725](eu/32018r1725/kapV).
+
+Dersom opplysningene nevnt i første ledd i dette nummeret unntaksvis gjelder en operatør som er etablert i en medlemsstat, skal Kommisjonen innhente samtykke fra de kompetente myndighetene i de berørte medlemsstatene før utveksling av disse opplysningene.
 
 3\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til de formålene de gis eller mottas for, herunder for å sikre at tiltakene fastsatt i denne forordningen er effektive.
 
 4\. Ethvert dokument som innehas av Rådet, Kommisjonen eller EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk («høyrepresentanten») med henblikk på å sikre håndheving av tiltakene fastsatt i denne forordningen, eller for å hindre brudd på eller omgåelse av disse, skal være underlagt taushetsplikt og omfattes av den beskyttelsen som gis av reglene som får anvendelse på EUs institusjoner. Denne beskyttelsen skal gjelde for Høyrepresentantens og Kommisjonens felles forslag om endring av denne forordningen og eventuelle forberedende dokumenter knyttet til dem.
 
-Det skal legges til grunn at utlevering av dokumenter eller forslag som nevnt i nr. 4 første setning vil skade EUs eller en eller flere av dens medlemsstaters sikkerhet eller deres internasjonale forbindelser.
+Det skal legges til grunn at utlevering av dokumenter eller forslag som nevnt i første ledd i dette nummeret vil skade EUs eller en eller flere av dens medlemsstaters sikkerhet eller deres internasjonale forbindelser.
 
 ### Artikkel 8
 
@@ -1090,6 +1250,10 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
+2a. Ingen rettslige pålegg, kjennelser eller dommer fra en annen rett enn en domstol i en medlemsstat, eller andre domstols-, voldgifts- eller administrative avgjørelser truffet i andre saker enn dem i medlemsstatene i henhold til eller avledet fra en tvisteløsningsprosedyre mellom investorer og stater mot en medlemsstat som kan føre til oppfyllelse av krav i forbindelse med tiltak pålagt i henhold til denne forordningen, skal anerkjennes, få virkning eller håndheves i en medlemsstat dersom den påberopes av personer, enheter eller organer nevnt i nr. 1 bokstav a, b, c eller d, eller personer, enheter eller organer som eier eller kontrollerer disse personene, enhetene eller organene.
+
+2b. Ingen anmodninger om bistand under en etterforskning eller andre prosesser, og ingen straff eller annen sanksjon basert på rettslige pålegg, kjennelser eller dommer fra en annen rett enn en domstol i en medlemsstat, eller andre domstols-, voldgifts- eller administrative avgjørelser truffet i andre saker enn dem i medlemsstatene i henhold til eller avledet fra en tvisteløsningsprosedyre mellom investorer og stater mot en medlemsstat i forbindelse med tiltak pålagt i henhold til denne forordningen, skal anerkjennes, få virkning eller håndheves i en medlemsstat dersom den påberopes av personer, enheter eller organer nevnt i nr. 1 bokstav a, b, c eller d, eller personer, enheter eller organer som eier eller kontrollerer disse personene, enhetene eller organene.
+
 3\. Denne artikkelen berører ikke den rett personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
 
 ### Artikkel 8da
@@ -1123,13 +1287,15 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 3. for Kommisjonens del
 
    1. å føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,
-   2. å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+   2. å behandle opplysninger i forbindelse med å bidra til riktig gjennomføring, håndheving og forebygging av omgåelse av tiltakene som er pålagt i henhold til denne forordningen.
+
+1a. Kommisjonen skal behandle personopplysninger, herunder særlige kategorier av personopplysninger og personopplysninger om straffedommer og lovovertredelser som definert i artikkel 10 nr. 2 og artikkel 11 i forordning [(EU) 2018/1725](eu/32018r1725), med henblikk på å identifisere fysiske eller juridiske personer, enheter eller organer som er omfattet av de restriktive tiltakene fastsatt i denne forordningen, for å bistå personene nevnt i artikkel 10 i denne forordningen med overholdelse av denne forordningen.
 
 2\. Der det er aktuelt, kan Rådet, Kommisjonen og EUs høye representant behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide vedlegg I.
 
 3\. For formålet med denne forordningen skal Rådet, Kommisjonen og EUs høye representant utpekes som «behandlingsansvarlig» i henhold til artikkel 3 nr. 8 i europaparlaments- og rådsforordning [(EU) 2018/1725](eu/32018r1725) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til forordning [(EU) 2018/1725](eu/32018r1725).
 
-4\. Kompetente myndigheter i medlemsstatene, herunder håndhevingsmyndigheter, tollmyndigheter som definert i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952), kompetent myndighet som definert i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575), europaparlaments- og rådsdirektiv [(EU) 2015/849](eu/32015l0849) og europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065), samt forvaltere av offisielle registre der fysiske personer, juridiske personer, enheter og organer samt fast eiendom eller løsøre er registrert, skal behandle og uten opphold utveksle opplysninger, herunder personopplysninger og om nødvendig opplysningene nevnt i artikkel 8j, med andre kompetente myndigheter i sin medlemsstat og i andre medlemsstater og med Kommisjonen, dersom slik behandling og utveksling er nødvendig for å utføre oppgavene til behandlingsmyndigheten eller mottakermyndigheten i henhold til denne forordningen, særlig når de oppdager tilfeller av brudd eller omgåelse eller forsøk på brudd eller omgåelse av forbudene fastsatt i denne forordningen. Denne bestemmelsen berører ikke reglene om konfidensialitet for opplysninger som innehas av rettsmyndighetene.
+4\. Kompetente myndigheter i medlemsstatene, herunder håndhevingsmyndigheter, tollmyndigheter som omhandlet i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952), kompetente myndigheter som omhandlet i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575), europaparlaments- og rådsdirektiv [(EU) 2015/849](eu/32015l0849) og europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065), samt finansielle etterretningsenheter som omhandlet i direktiv [(EU) 2015/849](eu/32015l0849), samt forvaltere av offisielle registre der fysiske personer, juridiske personer, enheter og organer samt fast eiendom eller løsøre er registrert, skal behandle og uten opphold utveksle opplysninger, herunder personopplysninger og om nødvendig, opplysningene nevnt i artikkel 8j, med andre kompetente myndigheter i sin medlemsstat, med kompetente myndigheter i andre medlemsstater og med Kommisjonen, dersom slik behandling og utveksling er nødvendig for å utføre oppgavene til behandlingsmyndigheten eller mottakermyndigheten i henhold til denne forordningen, særlig når de oppdager tilfeller av brudd eller omgåelse eller forsøk på brudd eller omgåelse av forbudene fastsatt i denne forordningen. Denne bestemmelsen berører ikke reglene om konfidensialitet for opplysninger som innehas av rettsmyndighetene.
 
 ### Artikkel 8f
 
@@ -1164,20 +1330,24 @@ Kommisjonen har fullmakt til å endre vedlegg II og Vc på grunnlag av informasj
 
 ### Artikkel 8ga
 
-1\. Fysiske og juridiske personer, enheter og organer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XXX skal, fra og med 2. januar 2025
+1\. Fysiske og juridiske personer, enheter og organer som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XXX eller varer som oppført i vedlegg XXXI, skal
 
-1. treffe hensiktsmessige tiltak i forhold til deres art og størrelse, for å identifisere og vurdere risikoene ved eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,
-2. gjennomføre hensiktsmessige retningslinjer, kontroller og framgangsmåter i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoene ved eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, enten disse risikoene identifiseres hos dem eller på medlemsstats- eller unionsplan.
+1. treffe hensiktsmessige tiltaksom står i forhold til deres art og størrelse, for å identifisere og vurdere risikoen for eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, og sikre at disse risikovurderingene dokumenteres og holdes oppdatert,
+2. innføre hensiktsmessige retningslinjer, kontroller og prosedyrer som står i forhold til deres art og størrelse, for å redusere og effektivt håndtere risikoen for eksport til Belarus og eksport til bruk i Belarus av slike varer eller slik teknologi, enten disse risikoene identifiseres hos dem eller på medlemsstats- eller unionsplan.
 
-2\. Nr. 1 får ikke anvendelse på fysiske og juridiske personer, enheter og organer som utelukkende selger, leverer eller overfører felles høyt prioriterte produkter som oppført i vedlegg XXX, i EU eller til landene oppført i vedlegg Vba til denne forordningen.
+1a. Nr. 1 får anvendelse fra og med 2. januar 2025 med hensyn til vedlegg XXX og fra og med 26. mai 2025 med hensyn til vedlegg XXXI.
 
-3\. Fysiske og juridiske personer, enheter og organer skal fra og med 2. januar 2025 sikre at alle juridiske personer, enheter eller organer etablert utenfor EU som de eier eller kontrollerer, og som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XXX, oppfyller kravene i nr. 1 bokstav a og b.
+2\. Nr. 1 får ikke anvendelse på fysiske og juridiske personer, enheter og organer som utelukkende selger, leverer eller overfører felles høyt prioriterte produkter som oppført i vedlegg XXX eller varer som oppført i vedlegg XXXI, i EU eller til landene oppført i vedlegg Vba.
 
-4\. Nr. 3 får ikke anvendelse når en fysisk eller juridisk person, en enhet eller et organ av grunner som vedkommende ikke selv har forårsaket, ikke er i stand til å utøve kontroll over den juridiske personen, enheten eller organet som vedkommende eier.
+3\. Fysiske og juridiske personer, enheter og organer skal sikre at alle juridiske personer, enheter eller organer etablert utenfor EU som de eier eller kontrollerer, og som selger, leverer, overfører eller eksporterer felles høyt prioriterte produkter som oppført i vedlegg XXX eller varer som oppført i vedlegg XXXI, gjennomfører kravene i nr. 1 bokstav a og b.
+
+3a. Nr. 3 får anvendelse fra og med 2. januar 2025 med hensyn til vedlegg XXX og fra og med 26. mai 2025 med hensyn til vedlegg XXXI.
+
+4\. Nr. 3 får ikke anvendelse når en fysisk eller juridisk person, en enhet eller et organ, av grunner som vedkommende ikke selv har forårsaket, ikke er i stand til å utøve kontroll over den juridiske personen, enheten eller organet som vedkommende eier.
 
 ### Artikkel 8h
 
-Alle personer som er nevnt i artikkel 10 tredje og fjerde strekpunkt, har i rettergang for vedkommende domstoler i medlemsstaten rett til erstatning for tap, herunder sakskostnader, som har blitt påført vedkommende som følge av krav som er brakt inn for domstoler i tredjeland av personer, enheter og organer nevnt i artikkel 8d nr. 1 bokstav a), b), c) eller d), i forbindelse med en kontrakt eller transaksjon hvis oppfyllelse direkte eller indirekte, helt eller delvis, har blitt berørt av tiltakene som pålegges i henhold til denne forordningen, forutsatt at den berørte personen ikke har faktisk tilgang til rettsmidler i den relevante jurisdiksjonen.
+Alle personer som er nevnt i artikkel 10 tredje eller fjerde strekpunkt, har i rettergang for vedkommende domstoler i medlemsstaten rett til erstatning for ethvert direkte eller indirekte tap, herunder sakskostnader, som har blitt påført denne personen eller juridiske personer, enheter eller organer som personen nevnt i artikkel 10 fjerde strekpunkt eier eller kontrollerer, som følge av krav som er brakt inn for domstoler i tredjeland av personer, enheter og organer nevnt i artikkel 8d nr. 1 bokstav a, b, c eller d, i forbindelse med en kontrakt eller transaksjon hvis oppfyllelse direkte eller indirekte, helt eller delvis, har blitt berørt av tiltakene som pålegges i henhold til denne forordningen, forutsatt at den berørte personen ikke har faktisk tilgang til rettsmidler i den relevante jurisdiksjonen.Slik erstatning kan kreves fra personene, enhetene eller organene nevnt i artikkel 8d nr. 1 bokstav a, b, c eller d som fremsatte kravene for domstolene i tredjelandet, eller fra personer, enheter eller organer som eier eller kontrollerer disse enhetene eller organene.
 
 ### Artikkel 8i
 
@@ -1197,6 +1367,20 @@ Fysiske og juridiske personer, enheter og organer skal gjøre sitt ytterste for 
 4\. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
 5\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til det formål de gis eller mottas for.
+
+### Artikkel 8k
+
+Dersom ingen domstol i en medlemsstat er kompetent i henhold til andre bestemmelser i unionsretten eller i en medlemsstats rett, kan en domstol i en medlemsstat unntaksvis behandle et erstatningskrav fremmet i henhold til artikkel 8h eller 8l, forutsatt at saken har tilstrekkelig tilknytning til den medlemsstaten der saken er anlagt.
+
+### Artikkel 8l
+
+I rettssaker ved kompetente domstoler i en medlemsstat skal enhver medlemsstat, der det er aktuelt, treffe hensiktsmessige tiltak for å få eller ha rett til å få erstatning for direkte eller indirekte skader, herunder saksomkostninger, som medlemsstaten har pådratt seg som følge av en tvisteløsningsprosedyre mellom investorer og stater som er anlagt mot en medlemsstat i forbindelse med tiltak pålagt i henhold til denne forordningen. Medlemsstaten skal, der det er aktuelt, ha rett til å inndrive slik erstatning fra personer, enheter eller organer nevnt i artikkel 8d nr. 1 bokstav a, b, c eller d, og som har innledet, intervenert i eller deltatt i tvisteløsningen mellom investorer og stater, eller som forsøker å håndheve en kjennelse, avgjørelse eller dom knyttet til tvisteløsningen mellom investorer og stater, og personer, enheter eller organer som eier eller kontrollerer en av disse personene, enhetene eller organene.
+
+Der det er aktuelt, har Unionen rett til å få erstatning for enhver skade den har pådratt seg, på de samme vilkår.
+
+### Artikkel 8m
+
+Medlemsstatene skal fremlegge alle tilgjengelige innsigelser mot anerkjennelse og fullbyrdelse av voldgiftsdommer som er avsagt mot dem i en tvisteløsningsprosedyre mellom investorer og stater i forbindelse med tiltak pålagt i henhold til denne forordningen.
 
 ### Artikkel 9
 
