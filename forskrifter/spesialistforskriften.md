@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2017-03-01"
-last_change_in_force: "2026-09-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2024-09-12"
-xml_hash: "e63cc181b271b049328ab13ad28c70cfdca1f050f976d726ed26f5d9778f4c22"
+xml_hash: "0f57e4c77927575ec4214a8a5d0e77ea1e98b202bd08d4eab014af03ec7fea8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -521,56 +521,55 @@ Endringer i øvrige forskrifter trer i kraft 1. mars 2017.
 
 ## Vedlegg 1. Legespesialitetene
 
-| *Legespesialitetene* |
-| --- |
-| Akutt- og mottaksmedisin |
-| Allmennmedisin |
-| Anestesiologi |
-| Arbeidsmedisin |
-| Barne- og ungdomspsykiatri |
-| Barnekirurgi |
-| Barnesykdommer |
-| Blodsykdommer |
-| Bryst- og endokrinkirurgi |
-| Endokrinologi |
-| Fordøyelsessykdommer |
-| Fysikalsk medisin og rehabilitering |
-| Fødselshjelp og kvinnesykdommer |
-| Gastroenterologisk kirurgi |
-| Generell kirurgi |
-| Geriatri |
-| Hjertesykdommer |
-| Hud og veneriske sykdommer |
-| Immunologi og transfusjonsmedisin |
-| Indremedisin |
-| Infeksjonssykdommer |
-| Karkirurgi |
-| Klinisk farmakologi |
-| Klinisk nevrofysiologi |
-| Lungesykdommer |
-| Maxillofacial kirurgi |
-| Medisinsk biokjemi |
-| Medisinsk genetikk |
-| Medisinsk mikrobiologi |
-| Nevrokirurgi |
-| Nevrologi |
-| Nukleærmedisin |
-| Nyresykdommer |
-| Onkologi |
-| Ortopedisk kirurgi |
-| Patologi |
-| Plastikkirurgi |
-| Psykiatri |
-| Radiologi |
-| Revmatologi |
-| Rus- og avhengighetsmedisin |
-| Samfunnsmedisin |
-| Thoraxkirurgi |
-| Urologi |
-| Øre-, nese-, halssykdommer |
-| Øyesykdommer |
+*Legespesialitetene*
 
-> Tilføyd ved [forskrift 16 jan 2017 nr. 46](forskrift/2017-01-16-46) (i kraft 17 mars 2017), endret ved forskrift [20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019). **Endres** ved forskrift [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026).
+- Akutt- og mottaksmedisin
+- Allmennmedisin
+- Anestesiologi
+- Arbeidsmedisin
+- Barne- og ungdomspsykiatri
+- Barnekirurgi
+- Barne- og ungdomsmedisin
+- Blodsykdommer
+- Bryst- og endokrinkirurgi
+- Endokrinologi
+- Fordøyelsessykdommer
+- Fysikalsk medisin og rehabilitering
+- Fødselshjelp og kvinnesykdommer
+- Gastroenterologisk kirurgi
+- Geriatri
+- Hjertesykdommer
+- Hud og veneriske sykdommer
+- Immunologi og transfusjonsmedisin
+- Indremedisin
+- Infeksjonssykdommer
+- Karkirurgi
+- Klinisk farmakologi
+- Klinisk nevrofysiologi
+- Lungesykdommer
+- Maxillofacial kirurgi
+- Medisinsk biokjemi
+- Medisinsk genetikk
+- Medisinsk mikrobiologi
+- Nevrokirurgi
+- Nevrologi
+- Nukleærmedisin
+- Nyresykdommer
+- Onkologi
+- Ortopedisk kirurgi
+- Patologi
+- Plastikkirurgi
+- Psykiatri
+- Radiologi
+- Revmatologi
+- Rus- og avhengighetsmedisin
+- Samfunnsmedisin
+- Thoraxkirurgi
+- Urologi
+- Øre-, nese-, halssykdommer
+- Øyesykdommer.
+
+> Tilføyd ved [forskrift 16 jan 2017 nr. 46](forskrift/2017-01-16-46) (i kraft 17 mars 2017), endret ved forskrifter [20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026).
 
 ## Vedlegg 2. Læringsmål for spesialistutdanningen av leger
 
@@ -1371,7 +1370,7 @@ Selvstendig kunne utstede sykmeldinger, resepter og attester for pasienter i kom
 
 ### C. Læringsmål for de enkelte legespesialitetene i utdanningens andre og tredje del
 
-> Vedlegg 2 del B tilføyd ved [forskrift 1 mars 2018 nr. 325](forskrift/2018-03-01-325) (i kraft 1 mars 2019), endret ved [forskrifter 20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [28 aug 2019 nr. 1123](forskrift/2019-08-28-1123) som endret ved [forskrift 24 feb 2020 nr. 210](forskrift/2020-02-24-210) (i kraft 1 mars 2020), endret i sin helhet ved [forskrift 1 sep 2020 nr. 1773](forskrift/2020-09-01-1773), endret ved forskrift [1 sep 2020 nr. 1773](forskrift/2020-09-01-1773) (i kraft 1 mars 2021). Vedlegg 2 endret i sin helhet ved forskrift [28 mars 2021 nr. 1068](forskrift/2021-03-28-1068) (del C var tidligere del B), endret ved forskrifter [28 mars 2021 nr. 1206](forskrift/2021-03-28-1206) (i kraft 1 sep 2021), [17 aug 2021 nr. 2526](forskrift/2021-08-17-2526) (i kraft 1 sep 2021), [19 aug 2021 nr. 2540](forskrift/2021-08-19-2540) (i kraft 1 sep 2021), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748) (i kraft 1 sep 2023), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 mars 2024), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 sep 2024), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 mars 2025), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 sep 2025), [17 jan 2025 nr. 51](forskrift/2025-01-17-51) (i kraft 1 sep 2025), [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 sep 2026). **Endres** ved forskrift [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026). **Endres** ved forskrift [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 mars 2027).
+> Vedlegg 2 del B tilføyd ved [forskrift 1 mars 2018 nr. 325](forskrift/2018-03-01-325) (i kraft 1 mars 2019), endret ved [forskrifter 20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [28 aug 2019 nr. 1123](forskrift/2019-08-28-1123) som endret ved [forskrift 24 feb 2020 nr. 210](forskrift/2020-02-24-210) (i kraft 1 mars 2020), endret i sin helhet ved [forskrift 1 sep 2020 nr. 1773](forskrift/2020-09-01-1773), endret ved forskrift [1 sep 2020 nr. 1773](forskrift/2020-09-01-1773) (i kraft 1 mars 2021). Vedlegg 2 endret i sin helhet ved forskrift [28 mars 2021 nr. 1068](forskrift/2021-03-28-1068) (del C var tidligere del B), endret ved forskrifter [28 mars 2021 nr. 1206](forskrift/2021-03-28-1206) (i kraft 1 sep 2021), [17 aug 2021 nr. 2526](forskrift/2021-08-17-2526) (i kraft 1 sep 2021), [19 aug 2021 nr. 2540](forskrift/2021-08-19-2540) (i kraft 1 sep 2021), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748), [11 okt 2022 nr. 1748](forskrift/2022-10-11-1748) (i kraft 1 sep 2023), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 mars 2024), [25 aug 2023 nr. 1372](forskrift/2023-08-25-1372) (i kraft 1 sep 2024), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 mars 2025), [10 sep 2024 nr. 2201](forskrift/2024-09-10-2201) (i kraft 1 sep 2025), [17 jan 2025 nr. 51](forskrift/2025-01-17-51) (i kraft 1 sep 2025), [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 sep 2026), [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026). **Endres** ved forskrift [19 juni 2026 nr. 1319](forskrift/2026-06-19-1319) (i kraft 1 mars 2027).
 
 ### C1. Felles læringsmål for indremedisinske spesialiteter (del 2)
 
@@ -13027,7 +13026,7 @@ Ha kunnskap om vurdering av og symptomatisk behandling ved akutte intoksikasjone
 
 Selvstendig kunne vurdere akutt intoksikasjon som differensialdiagnose ved ulike symptombilder hos barn og unge.
 
-### C25. Barnesykdommer
+### C25. Barne- og ungdomsmedisin
 
 ### 25.1 Grunnleggende pediatri
 
@@ -13843,7 +13842,7 @@ Ha god kunnskap om bruk av ikke-registrerte preparater og spesialformuleringer.
 
 Kjenne prosedyre for utskriving av legemidler, næringsmidler og forbruksmateriell til barn, og kjenne refusjonsreglene.
 
-### 25.24 Kliniske studier – barnesykdommer
+### 25.24 Kliniske studier – barne- og ungdomsmedisin
 
 PED-165
 
