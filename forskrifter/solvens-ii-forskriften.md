@@ -10,12 +10,12 @@ ministry:
   - "Finansdepartementet"
 date_in_force: "2016-01-01"
 last_change_in_force: "2026-06-16"
-last_updated: "2022-04-06"
-xml_hash: "1da156cdbaebd8f1c20a4322645d9b249ee2933c0c2af9c44830b6335011dbb2"
+last_updated: "2026-10-01"
+xml_hash: "4d672759849c982eec01055a9e7db6626572d86d07d829b1cf9bc3a5fff5f2cb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -757,7 +757,7 @@ Vekten for parameteren nevnt i bokstav b skal øke minst lineært ved begynnelse
 
 Ved anvendelse av standardmetoden skal solvenskapitalkravet beregnes på følgende måte:
 
-\\(SCR=BSCR+SCR_{OR}+Adj_{\\text{TA_US}}\\),
+\\(SCR=BSCR+SCR_{OR}+Adj_{\\text{TA\\_US}}\\),
 
 der
 
