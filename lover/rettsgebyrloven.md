@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1983-03-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2021-07-15"
-xml_hash: "3ed350ac9f117398a50067d79ce591c32f88f8b15298f452d08ac5dd5219ddfa"
+xml_hash: "90ab89082606821565b2085169a35ef364018cd98254f222c995132e751dcda1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Er en forretning begjært av en person eller myndighet på vegne av en annen, bl
 
 Kongen kan ved forskrift gjøre de unntak fra reglene i denne paragraf som følger av overenskomst med fremmed stat.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 11 apr 2005 iflg. [res. 1 apr 2005 nr. 272](forskrift/2005-04-01-272)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 11 apr 2005 iflg. [res. 1 apr 2005 nr. 272](forskrift/2005-04-01-272)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)).
 
 ### § 3
 
@@ -62,13 +62,13 @@ Er det ikke betalt tilstrekkelig forskudd når erklæring om et rettergangsskrit
 
 Ved manglende betaling for rettergangsskritt som skal betales av en part etter [§ 2](lov/1982-12-17-86/§2) annet ledd femte punktum, kan rettergangsskrittet likevel foretas. [§ 5](lov/1982-12-17-86/§5) annet ledd tredje punktum gjelder tilsvarende.
 
-> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 11 apr 2005 iflg. [res. 1 apr 2005 nr. 272](forskrift/2005-04-01-272)), [21 des 2005 nr. 132](lov/2005-12-21-132) (ikr. 1 jan 2006), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 11 apr 2005 iflg. [res. 1 apr 2005 nr. 272](forskrift/2005-04-01-272)), [21 des 2005 nr. 132](lov/2005-12-21-132) (ikr. 1 jan 2006), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
 ### § 4
 
 Gebyrplikten for sivile tvister, skjønn, tvangsfullbyrdelse og midlertidig sikring inntrer når saken er ført inn i sakslisten og for overprøving ved høyere instans innføring i dennes saksliste. Ved tinglysing er påføringen av attest for tinglysing avgjørende for gebyrplikten. For bobehandling gjelder de særlige regler i [kapittel 5](lov/1982-12-17-86/kap5).
 
-> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [5 sep 2003 nr. 92](lov/2003-09-05-92) (ikr. 1 jan 2004 iflg. [res. 5 sep 2003 nr. 1119](forskrift/2003-09-05-1119)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [21 des 2007 nr. 127](lov/2007-12-21-127) (ikr. 1 jan 2008), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [5 sep 2003 nr. 92](lov/2003-09-05-92) (ikr. 1 jan 2004 iflg. [res. 5 sep 2003 nr. 1119](forskrift/2003-09-05-1119)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 des 2007 nr. 127](lov/2007-12-21-127) (ikr. 1 jan 2008), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
 
 ### § 5
 
@@ -78,7 +78,7 @@ Hvis en part som har begjært et rettergangsskritt, har fått henstand etter fø
 
 Når rettergangsskritt er foretatt med henstand, skal retten sette en frist for betalingen. Inntil betaling har skjedd, eller fristen er utløpt, skal retten bare foreta slike skritt i saken som den finner nødvendige. Skjer betaling ikke innen utløpet av fristen, avsies fraværsavgjørelse etter [tvisteloven § 16-9](lov/2005-06-17-90/§16-9) eller [§ 16-10](lov/2005-06-17-90/§16-10).
 
-> Endret ved [lover 20 des 1991 nr. 85](lov/1991-12-20-85), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 20 des 1991 nr. 85](lov/1991-12-20-85), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 5 a
 
@@ -89,7 +89,7 @@ Avgjørelser etter denne lov eller etter bestemmelser gitt i medhold av denne lo
 3. Avgjørelser som gjelder forretninger som nevnt i [kapittel 4](lov/1982-12-17-86/kap4) og [§ 25](lov/1982-12-17-86/§25) hos namsfogden eller hos en særskilt namsmyndighet, kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.
 4. Avgjørelser etter [§ 27 a](lov/1982-12-17-86/§27a) kan ankes etter de regler som gjelder for anke mot avgjørelser under vedkommende forretning.
 
-> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 8 jan 1993 nr. 20](lov/1993-01-08-20), [19 des 1997 nr. 97](lov/1997-12-19-97) (ikr. 1 jan 1998), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2002 nr. 104](lov/2002-12-20-104) (ikr. 1 jan 2003), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563) for endringen i nr. 3, ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563) for opphevingen av nr. 2), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 8 jan 1993 nr. 20](lov/1993-01-08-20), [19 des 1997 nr. 97](lov/1997-12-19-97) (ikr. 1 jan 1998), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2002 nr. 104](lov/2002-12-20-104) (ikr. 1 jan 2003), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563) for endringen i nr. 3, ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563) for opphevingen av nr. 2), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5 b
 
@@ -101,7 +101,7 @@ Underinstansen skal tilrettelegge saken for overinstansen og gi slik redegjørel
 
 Om dekning av sakskostnader av det offentlige gjelder [forvaltningsloven § 36](lov/1967-02-10/§36) første ledd og tredje ledd første og annet punktum tilsvarende.
 
-> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 12 jan 1995 nr. 4](lov/1995-01-12-4) (ikr. 1 apr 1995), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 12 jan 1995 nr. 4](lov/1995-01-12-4) (ikr. 1 apr 1995), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 6
 
@@ -127,7 +127,7 @@ Blir en forliksklage avvist på grunn av manglende gebyrbetaling, påløper ikke
 
 For behandling av begjæring om oppfriskning etter [tvisteloven § 6-14](lov/2005-06-17-90/§6-14) fjerde ledd betales et halvt rettsgebyr.
 
-> Endret ved [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [17 des 1993 nr. 125](lov/1993-12-17-125), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 juni 2018 nr. 80](lov/2018-06-22-80) (ikr. 1 sep 2018 iflg. [res. 10 aug 2018 nr. 1229](forskrift/2018-08-10-1229)), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022), [21 juni 2024 nr. 49](lov/2024-06-21-49) (i kraft 1 juli 2024).
+> Endret ved [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [17 des 1993 nr. 125](lov/1993-12-17-125), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 juni 2018 nr. 80](lov/2018-06-22-80) (ikr. 1 sep 2018 iflg. [res. 10 aug 2018 nr. 1229](forskrift/2018-08-10-1229)), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022), [21 juni 2024 nr. 49](lov/2024-06-21-49) (i kraft 1 juli 2024).
 
 ### B. Tingrettene, lagmannsrettene og Høyesterett.
 
@@ -153,7 +153,7 @@ For saker som behandles etter [tvisteloven kapittel 10](lov/2005-06-17-90/kap10)
 
 Når saken først har vært behandlet i forliksrådet, reduseres betalingen etter første ledd første punktum og etter åttende ledd med rettsgebyret.
 
-> Endret ved [lover 27 juni 1986 nr. 48](lov/1986-06-27-48), [21 des 1990 nr. 75](lov/1990-12-21-75), [17 des 1993 nr. 125](lov/1993-12-17-125), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [14 des 2001 nr. 96](lov/2001-12-14-96) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1415](forskrift/2001-12-14-1415)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 27 juni 1986 nr. 48](lov/1986-06-27-48), [21 des 1990 nr. 75](lov/1990-12-21-75), [17 des 1993 nr. 125](lov/1993-12-17-125), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [14 des 2001 nr. 96](lov/2001-12-14-96) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1415](forskrift/2001-12-14-1415)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 9
 
@@ -185,7 +185,7 @@ For behandling av følgende saker betales ikke gebyr eller for meddommere i de t
 
 Retten bør gi fritak for rettsgebyr for den som har bistandsadvokat etter [straffeprosessloven § 107 e](lov/1981-05-22-25/§107e) og forsvarer etter [§ 100](lov/1981-05-22-25/§100) tredje ledd i saker som behandles etter [straffeprosessloven § 434](lov/1981-05-22-25/§434) syvende ledd og [§ 435](lov/1981-05-22-25/§435).
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [13 des 1991 nr. 81](lov/1991-12-13-81), [26 mars 1999 nr. 17](lov/1999-03-26-17) (ikr. 1 jan 2000 iflg. [res. 26 mars 1999 nr. 248](forskrift/1999-03-26-248)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 15 aug 2005 iflg. [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [12 mai 2015 nr. 27](lov/2015-05-12-27) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 469](forskrift/2015-05-12-469)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [21 juni 2024 nr. 49](lov/2024-06-21-49) (i kraft 1 juli 2024).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [13 des 1991 nr. 81](lov/1991-12-13-81), [26 mars 1999 nr. 17](lov/1999-03-26-17) (ikr. 1 jan 2000 iflg. [res. 26 mars 1999 nr. 248](forskrift/1999-03-26-248)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 15 aug 2005 iflg. [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [12 mai 2015 nr. 27](lov/2015-05-12-27) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 469](forskrift/2015-05-12-469)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [21 juni 2024 nr. 49](lov/2024-06-21-49) (i kraft 1 juli 2024).
 
 ## Kapittel 3. Skjønn m.v.
 
@@ -197,7 +197,7 @@ Trekkes saken tilbake eller på annen måte avsluttes før første rettsmøte er
 
 For overskjønn og overtakster gjelder de samme gebyrregler som for skjønn og takster.
 
-> Endret ved [lover 17 des 1993 nr. 125](lov/1993-12-17-125), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [15 aug 2014 nr. 59](lov/2014-08-15-59) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](forskrift/2014-08-15-1084)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 17 des 1993 nr. 125](lov/1993-12-17-125), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [15 aug 2014 nr. 59](lov/2014-08-15-59) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](forskrift/2014-08-15-1084)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 12
 
@@ -213,7 +213,7 @@ For skiftetakster hvor dommeren ikke styrer og deltar i taksten, betales rettsge
 
 ## Kapittel 4. Tvangsfullbyrdelse og midlertidig sikring.
 
-> Overskriften endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86) som endret ved [lov 8 jan 1993 nr. 20](lov/1993-01-08-20).
+> Overskriften endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86) (endring endret ved [lov 8 jan 1993 nr. 20](lov/1993-01-08-20)).
 
 ### § 14
 
@@ -242,7 +242,7 @@ Gebyret omfatter også sideutgifter. Dette gjelder likevel ikke:
 
 Gebyr etter denne paragraf innkreves etterskuddsvis. Der tvangssalg gjennomføres, sørger namsmyndigheten eller medhjelperen for betaling av gebyret. Ved begjæring om utlegg etter [tvangsfullbyrdelsesloven § 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) kan namsfogden i særlige tilfeller kreve at gebyret etter første ledd første punktum betales forskuddsvis.
 
-> Endret ved [lover 18 des 1987 nr. 98](lov/1987-12-18-98), [16 juni 1989 nr. 62](lov/1989-06-16-62), [26 juni 1992 nr. 86](lov/1992-06-26-86), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [12 des 2003 nr. 112](lov/2003-12-12-112) (ikr. 1 jan 2004), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [25 juni 2004 nr. 54](lov/2004-06-25-54) (ikr. 1 juli 2004), [17 des 2004 nr. 95](lov/2004-12-17-95) (ikr. 1 jan 2005), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [22 des 2006 nr. 101](lov/2006-12-22-101) (ikr. 1 jan 2007), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [20 des 2019 nr. 91](lov/2019-12-20-91) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)), [21 des 2020 nr. 174](lov/2020-12-21-174) (ikr. 1 jan 2021), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022), [20 des 2024 nr. 98](lov/2024-12-20-98) (i kraft 1 jan 2025), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft når [lov 20. juni 2025 nr. 40 om barn og foreldre](lov/2025-06-20-40) trer i kraft iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146), gjelder endring i første ledd annet punktum).
+> Endret ved [lover 18 des 1987 nr. 98](lov/1987-12-18-98), [16 juni 1989 nr. 62](lov/1989-06-16-62), [26 juni 1992 nr. 86](lov/1992-06-26-86), [9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [12 des 2003 nr. 112](lov/2003-12-12-112) (ikr. 1 jan 2004), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [25 juni 2004 nr. 54](lov/2004-06-25-54) (ikr. 1 juli 2004), [17 des 2004 nr. 95](lov/2004-12-17-95) (ikr. 1 jan 2005), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [22 des 2006 nr. 101](lov/2006-12-22-101) (ikr. 1 jan 2007), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [20 des 2019 nr. 91](lov/2019-12-20-91) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)), [21 des 2020 nr. 174](lov/2020-12-21-174) (ikr. 1 jan 2021), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022), [20 des 2024 nr. 98](lov/2024-12-20-98) (i kraft 1 jan 2025), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft når [lov 20. juni 2025 nr. 40 om barn og foreldre](lov/2025-06-20-40) trer i kraft iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146), gjelder endring i første ledd annet punktum).
 
 ### § 15
 
@@ -268,7 +268,7 @@ For bobehandling ved tingretten betales gebyr etter følgende satser:
 3. For forberedende rettsmøte etter [arveloven](lov/2019-06-14-21), [ekteskapsloven](lov/1991-07-04-47) eller [husstandsfellesskapsloven](lov/1991-07-04-45) betales 2 ganger rettsgebyret. Åpner tingretten bobehandling betales i stedet gebyr etter nr 1.
 4. For summarisk skifte etter reglene i [arveloven § 141](lov/2019-06-14-21/§141) annet ledd betales ikke gebyr.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [23 des 1994 nr. 76](lov/1994-12-23-76) (ikr. 1 jan 1995), [22 des 1995 nr. 81](lov/1995-12-22-81) (ikr. 1 jan 1996), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [23 des 1994 nr. 76](lov/1994-12-23-76) (ikr. 1 jan 1995), [22 des 1995 nr. 81](lov/1995-12-22-81) (ikr. 1 jan 1996), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 17
 
@@ -286,7 +286,7 @@ Blir et dødsbo innstilt eller tilbakelevert, betales halvparten av fullt gebyr.
 
 Har det i et bo vært oppnevnt bostyrer etter [arveloven § 134](lov/2019-06-14-21/§134) annet ledd, [ekteskapsloven § 100](lov/1991-07-04-47/§100) eller [husstandsfellesskapsloven § 3 a](lov/1991-07-04-45/§3a), betales halvparten av fullt gebyr såfremt oppnevningen ikke er blitt tilbakekalt etter [arveloven § 157](lov/2019-06-14-21/§157), jf. [ekteskapsloven § 100](lov/1991-07-04-47/§100) første ledd annet punktum og [husstandsfellesskapsloven § 3 a](lov/1991-07-04-45/§3a) annet punktum.
 
-> Endret ved [lover 22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022).
+> Endret ved [lover 22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022).
 
 ### § 19
 
@@ -300,7 +300,7 @@ For øvrig betales 2 ganger rettsgebyret for hver dag som går med til registrer
 
 For begjæring fra en arving om utstedelse av proklama etter [arveloven § 93](lov/2019-06-14-21/§93) betales 2,2 ganger rettsgebyret. Tas boet senere under behandling av tingretten, reduseres gebyret for bobehandlingen med 2,2 ganger rettsgebyret.
 
-> Endret ved [lover 18 des 1998 nr. 82](lov/1998-12-18-82) (ikr. 1 jan 1999), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved [lover 18 des 1998 nr. 82](lov/1998-12-18-82) (ikr. 1 jan 1999), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)).
 
 ## Kapittel 6. Tinglysing, registrering m.v.
 
@@ -324,7 +324,7 @@ For begjæring fra en arving om utstedelse av proklama etter [arveloven § 93](l
 
 For anke mot tinglysings- og registreringsavgjørelser etter tinglysingsloven, burettslagslova og kraftledningsregisterloven betales 6 ganger rettsgebyret.
 
-> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)).
+> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [13 des 2013 nr. 131](lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](forskrift/2013-12-13-1474)).
 
 ## Kapittel 7. Firmaregistrering.
 
@@ -368,10 +368,10 @@ Avskrifter, utskrifter og kopier av dokument i rettsforretninger skal gis gebyrf
 
 For følgende særlige anker betales 6 ganger rettsgebyret:
 
-1. anke etter [rettshjelploven § 27](lov/1980-06-13-35/§27) eller etter bestemmelser som viser til [rettshjelploven § 27](lov/1980-06-13-35/§27).
+1. anke etter [rettshjelpsloven § 27](lov/1980-06-13-35/§27) eller etter bestemmelser som viser til [rettshjelpsloven § 27](lov/1980-06-13-35/§27).
 2. anke mot avgjørelser under notarialforretninger.
 
-> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
+> Tilføyd ved [lov 29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved [lover 9 jan 1998 nr. 3](lov/1998-01-09-3) (ikr. 1 apr 1998), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](forskrift/2026-09-11-1775)).
 
 ### § 27 b
 
@@ -385,7 +385,7 @@ For salg etter tvangsfullbyrdelseslovens regler i henhold til [gjeldsordningslov
 
 For oppbevaring av testament hos domstol i medhold av [arveloven § 63](lov/2019-06-14-21/§63) betales 0,8 ganger rettsgebyret.
 
-> Tilføyd ved [lov 21 juni 2013 nr. 93](lov/2013-06-21-93) (ikr. 1 juli 2013), endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Tilføyd ved [lov 21 juni 2013 nr. 93](lov/2013-06-21-93) (ikr. 1 juli 2013), endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)).
 
 ## Kapittel 10. Overgangsbestemmelser.
 
