@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1962-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2022-04-01"
-xml_hash: "53c2f65d2ca8c35a306dd09f8da4791c291825295c1962d1bb3bd055b88f3386"
+xml_hash: "46431b54e730dd7a8063667da1264e63be6f2f43202849cd5edf3345949007a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-26T09:17:45.512481+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -199,7 +199,7 @@ Når et medlem delvis fratrer stillingen, skal justeringstallet på dette tidspu
 
 Departementet gir forskrift om anvendelsen av justeringstall.
 
-> Tilføyd ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, som endret ved lov [17 des 2010 nr. 77](lov/2010-12-17-77)), endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)), [12 april 2024 nr. 15](lov/2024-04-12-15) (i kraft 12 april 2024 iflg. [res. 12 april 2024 nr. 615](forskrift/2024-04-12-615)).
+> Tilføyd ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, endring endret ved lov [17 des 2010 nr. 77](lov/2010-12-17-77)), endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)), [12 april 2024 nr. 15](lov/2024-04-12-15) (i kraft 12 april 2024 iflg. [res. 12 april 2024 nr. 615](forskrift/2024-04-12-615)).
 
 ### § 10 b
 
@@ -532,11 +532,11 @@ Barnetillegg utbetales til og med den måneden barnet fyller 18 år eller i tilf
 
 ### § 15
 
-Pensjonen reduseres dersom pensjonisten har inntekt som overstiger en inntektsgrense som beregnes når uførepensjonen innvilges. Inntektsgrensen tilsvarer den inntekten pensjonisten er forutsatt å kunne skaffe seg etter uførheten, og oppjusteres i samsvar med senere reguleringer av grunnbeløpet. Mottar pensjonisten uføretrygd fra folketrygden, tillegges inntektsgrensen 40 prosent av folketrygdens grunnbeløp per kalenderår. Pensjonen reduseres ikke for arbeidsavklaringspenger, overgangsstønad eller omstillingsstønad fra folketrygden.
+Pensjonen reduseres dersom pensjonisten har inntekt som overstiger en inntektsgrense som beregnes når uførepensjonen innvilges. Inntektsgrensen tilsvarer den inntekten pensjonisten er forutsatt å kunne skaffe seg etter uførheten, og oppjusteres i samsvar med senere reguleringer av grunnbeløpet. Mottar pensjonisten uføretrygd fra folketrygden, tillegges inntektsgrensen et fribeløp etter bestemmelsene i [folketrygdloven § 12-14 første ledd](lov/1997-02-28-19/§12-14/ledd/1).
 
 Reduksjonen skal svare til den overskytende inntekten multiplisert med vedkommendes uførepensjon ved 100 prosent uførhet og dividert med pensjonsgrunnlaget.
 
-Som inntekt etter første og andre ledd regnes pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15) eller inntekt av samme art fra utlandet. Det kan gjøres unntak for inntekt som skriver seg fra en avsluttet aktivitet.
+Som inntekt etter første og andre ledd regnes pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15) og inntekt av samme art fra utlandet. Det kan gjøres unntak for inntekt som skriver seg fra en avsluttet aktivitet. Pensjonen reduseres ikke for arbeidsavklaringspenger, overgangsstønad eller omstillingsstønad fra folketrygden.
 
 Den fastsatte uføregraden endres ikke selv om pensjonen reduseres på grunn av inntekt.
 
@@ -546,7 +546,7 @@ Barnetillegg etter [§ 14](lov/1962-06-22-12/§14) reduseres i samme forhold som
 
 Departementet kan gi forskrift med nærmere regler om reduksjon av pensjon på grunn av inntekt.
 
-> Endret ved lover 16 juni 1971 nr. 62, [11 juni 1982 nr. 56](lov/1982-06-11-56), [24 mai 1985 nr. 35](lov/1985-05-24-35), [16 juni 1995 nr. 32](lov/1995-06-16-32), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 25 sep 2026 nr. 1892](forskrift/2026-09-25-1892)).
+> Endret ved lover 16 juni 1971 nr. 62, [11 juni 1982 nr. 56](lov/1982-06-11-56), [24 mai 1985 nr. 35](lov/1985-05-24-35), [16 juni 1995 nr. 32](lov/1995-06-16-32), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)), [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 25 sep 2026 nr. 1892](forskrift/2026-09-25-1892)).
 
 ### § 16
 
