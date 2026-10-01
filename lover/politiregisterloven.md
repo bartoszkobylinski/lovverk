@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2014-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2022-03-28"
-xml_hash: "92c05646fb6ca33dd95231bf428e8cd2674ee753d427dec3e0ccefeee6cad6c8"
+xml_hash: "0b748fb7edf41dde2c682decc888aef7bebde07b834daad1f1eaa6452c018fe6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-01T10:53:16.759325+00:00"
 status: "current"
 eu_basis:
   - "32016L0680"
@@ -561,9 +561,9 @@ Opplysninger skal ikke lagres lenger enn det som er nødvendig for formålet med
 
 Den behandlingsansvarlige kan uten hinder av første ledd lagre personopplysninger for historiske, statistiske eller vitenskapelige formål, dersom samfunnets interesse i at opplysninger lagres klart overstiger de ulempene den kan medføre for den enkelte. Opplysningene skal ikke oppbevares på måter som gjør det mulig å identifisere den registrerte lenger enn nødvendig.
 
-Opplysninger innhentet ved kommunikasjonskontroll som ikke er brukt i saken, skal sperres når saken er avgjort ved rettskraftig dom eller endelig henleggelsesbeslutning. Sperrede opplysninger kan benyttes ved begjæring om gjenåpning, ved gjenopptakelse av etterforskning, eller for å ivareta siktedes legitime interesser. Opplysninger som det etter [straffeprosessloven § 216 g](lov/1981-05-22-25/§216g) ikke er adgang til å beholde, skal slettes så snart som mulig. Bestemmelsen gjelder tilsvarende for opplysninger innhentet etter [straffeprosessloven §§ 216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o), og for opplysninger innhentet etter [straffeprosessloven §§ 202 a](lov/1981-05-22-25/§202a) og [202 c](lov/1981-05-22-25/§202c) så langt den passer. Kongen gir i forskrift nærmere regler om sletting og bruk av sperrede opplysninger fra kommunikasjonskontroll.
+Opplysninger innhentet ved kommunikasjonskontroll som ikke er brukt i saken, skal sperres når saken er avgjort ved rettskraftig dom eller endelig henleggelsesbeslutning. Sperrede opplysninger kan benyttes ved begjæring om gjenåpning, ved gjenopptakelse av etterforskning, eller for å ivareta siktedes legitime interesser. Opplysninger som det etter [straffeprosessloven § 216 g](lov/1981-05-22-25/§216g) ikke er adgang til å beholde, skal slettes så snart som mulig. Bestemmelsen gjelder tilsvarende for opplysninger innhentet etter [straffeprosessloven §§ 216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o), og for opplysninger innhentet etter [straffeprosessloven §§ 202 c](lov/1981-05-22-25/§202c), [202 e](lov/1981-05-22-25/§202e) og [202 f](lov/1981-05-22-25/§202f) så langt den passer. Kongen gir i forskrift nærmere regler om sletting og bruk av sperrede opplysninger fra kommunikasjonskontroll.
 
-> Endret ved [lover 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
+> Endret ved lover [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)), [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 51. Retting, sperring og sletting av opplysninger med feil eller mangler
 
