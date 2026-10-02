@@ -10,12 +10,12 @@ ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-07-03"
 last_change_in_force: "2026-06-09"
-last_updated: "2023-08-10"
-xml_hash: "7a1d69eb1bb3b4a6be20c7df00d8584b973d25ae060ac0ceee77f1ee50bdbc4c"
+last_updated: "2026-10-01"
+xml_hash: "806cd27f4ae8c5710df9838bfcaa594fd077101c8421ff0f480e5500ec375cfe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1865,13 +1865,13 @@ Ved å bruke denne spesifikke t-verdien for å fastsette grenseverdien fastsette
 
 Resultatene fra de negative kontrollprøvene brukes til å anslå den tilsvarende andelen falskt mistenkelige resultater. T-verdien beregnes slik at den tilsvarer en situasjon der et resultat av en negativ kontrollprøve er høyere enn grenseverdien og dermed feilaktig klassifiseres som mistenkelig.
 
-$$\\text{t-verdi} = (\\text{grenseverdi} - gjennomsnitt_{blindprøve})/SA_{blindprøve}$$
+$$\\text{t-verdi} = (\\text{grenseverdi} - \\text{gjennomsnitt}_{blindprøve})/SD_{blindprøve}$$
 
 for screeningmetoder med en respons som er proporsjonal med plantetoksinkonsentrasjonen
 
 eller
 
-$$\\text{t-verdi} = gjennomsnitt_{blindprøve} - \\text{grenseverdi})/SA_{blindprøve}$$
+$$\\text{t-verdi} = (gjennomsnitt_{blindprøve} - \\text{grenseverdi})/SD_{blindprøve}$$
 
 for screeningmetoder med en respons som er omvendt proporsjonal med plantetoksinkonsentrasjonen
 
