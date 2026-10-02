@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1990-04-01"
 last_change_in_force: "2026-09-10"
 last_updated: "2023-08-11"
-xml_hash: "aafdefa6d62feb4d2caf96525a9c22d1c89e504dce78851794e666974bf4b1b1"
+xml_hash: "a27901ab7bdce09e3dcc7b46afa076e1128bb473fbaf252ab9119be523a73850"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-15T09:22:15.191013+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2189,7 +2189,7 @@ Erklæringen må medbringes i forbindelse med Tempo 100-kjøring og på forespø
 
    D-verdi for tilhengerfeste mellom trekkbil og semitrailer (svingskive/kingpin):
 
-   $$D = 0{,}5g\\frac{M_{5}\\lgroup{M_{1}\\:}+\\:0,08M_{5}\\rgroup}{M_{1}\\:+\\:M_{5}\\:-\\:M_{4}}kN$$
+   $$D = 0{,}5g\\frac{M_{5}\\lgroup{M_{1}\\:}+\\:0{,}08M_{5}\\rgroup}{M_{1}\\:+\\:M_{5}\\:-\\:M_{4}}kN$$
 
    Dc-verdi for tilhengerfeste mellom semitrailer og påhengsvogn (trekkdel/dragdel):
 
@@ -2227,7 +2227,7 @@ Erklæringen må medbringes i forbindelse med Tempo 100-kjøring og på forespø
 
    D-verdi på både trekkbilens og linktrailerens svingskive:
 
-   $$D = 0,5g\\frac{M_{3}\\lgroup{M_{1}\\:+\\:0,08M_{3}\\rgroup}}{M_{1}\\:+\\:M_{3}\\:-\\:M_{2}}$$
+   $$D = 0{,}5g\\frac{M_{3}\\lgroup{M_{1}\\:+\\:0{,}08M_{3}\\rgroup}}{M_{1}\\:+\\:M_{3}\\:-\\:M_{2}}$$
 
    - M1 = Aktuell vekt av trekkbilen (med linktrailer tilkoblet).
    - M2 = Aktuell vekt på linktrailers kingpin.
