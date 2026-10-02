@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "5b9aee1c2d5f1c966f04cb66590f1803ce50212b95cf2755a759f66403f6f2c3"
+xml_hash: "449b1b8eefa5a14963dbb64867c3fe8af6df42aaa783df89f84f99919daa4d5d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1085,7 +1085,7 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 (1) Skip skal ha lenseporter dersom det kan bli oppsamling av vann på dekk mellom skansekledningen, endeskott av lukkede overbygninger, dekkshus og lignende.
 
-(2) Lenseportarealet (A) på hver side av skipet, målt i kvadratmeter, skal beregnes og minst oppfylle følgende: $$A\\lgroup m^{2}\\rgroup = 0,02 \\lgroup \\frac{1}{m}\\rgroup \\cdot V\\lgroup m^{3}\\rgroup$$
+(2) Lenseportarealet (A) på hver side av skipet, målt i kvadratmeter, skal beregnes og minst oppfylle følgende: $$A\\lgroup m^{2}\\rgroup = 0{,}02 \\lgroup \\frac{1}{m}\\rgroup \\cdot V\\lgroup m^{3}\\rgroup$$
 
 V = Volumet i m3 skal regnes ut som det totale arealet av områder hvor det kan bli oppsamling av vann på dekk opp til topp av skansekledning. Volum knyttet til luker, dekkshus osv. skal trekkes fra.
 
@@ -1520,7 +1520,7 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 ### § 135. Brannpumpekapasitet
 
-(1) Minste totale brannpumpekapasitet (Q) skal beregnes etter denne formelen: $$Q = \\lgroup 0,15\\sqrt{L_{pp}\\lgroup B + D\\rgroup} + 2,25\\rgroup^{2}\\:[m^{3}/t]$$
+(1) Minste totale brannpumpekapasitet (Q) skal beregnes etter denne formelen: $$Q = \\lgroup 0{,}15\\sqrt{L_{pp}\\lgroup B + D\\rgroup} + 2{,}25\\rgroup^{2}\\:[m^{3}/t]$$
 
 hvor følgende er angitt i meter:
 
