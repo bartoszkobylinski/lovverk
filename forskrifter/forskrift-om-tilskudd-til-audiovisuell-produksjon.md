@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kultur- og likestillingsdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-04-01"
+last_change_in_force: "2026-10-01"
 last_updated: "2021-01-14"
-xml_hash: "1f8498fefd78e2067402193e6506be61e71619aa78824f81b829e512785aa244"
+xml_hash: "c93f7e77ed076c5cef3b61ef6016c6aee739b99fe1fadc679b7030a96861994b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -423,31 +423,49 @@ Med inntektsopplysninger menes salgsrapporter og endelig finansieringsoversikt.
 
 ## Kapittel 4. Rammetilskudd til produksjonsforetak
 
-### § 4-1. Virkeområde
+### § 4-1. Formål og virkeområde
 
-Tilskudd etter dette kapittel skal styrke produksjonsforetakenes mulighet til langsiktig satsing på utvikling av prosjekter gjennom rammetilskudd til utvikling. Tilskuddsforvalter fastsetter rammens omfang og varighet.
+Tilskudd etter dette kapittelet skal bidra til at produksjonsforetak kan arbeide langsiktig med utvikling av audiovisuelle verk, gjennom rammetilskudd til utvikling.
 
-Etter tildeling vil tilskudd fra rammen utløses gjennom søknader om prosjekttilskudd. Søknadene må oppfylle vilkårene for tilskudd i [kapittel 3](forskrift/2016-10-31-1264/kap3).
+Tilskuddsforvalter fastsetter rammens omfang og varighet.
 
-> Endret ved forskrift [19 feb 2021 nr. 509](forskrift/2021-02-19-509).
+Tilskudd fra rammen utløses gjennom søknader om utvikling. Søknadene må oppfylle vilkårene for tilskudd etter [kapittel 3](forskrift/2016-10-31-1264/kap3).
 
-### § 4-2. Tilskudd basert på tidligere resultater
+> Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [24 sep 2026 nr. 1948](forskrift/2026-09-24-1948) (i kraft 1 okt 2026).
 
-Tilskudd etter denne bestemmelsen kan gis til produksjonsforetak som har oppnådd svært gode kunstneriske og/eller kommersielle resultater i et prosjekt.
+### § 4-2. Pre-kvalifisering
 
-> Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [3 aug 2022 nr. 1402](forskrift/2022-08-03-1402).
+Rammetilskudd kan tildeles foretak som oppfyller kravene i [§ 3-2](forskrift/2016-10-31-1264/§3-2).
 
-### § 4-3. Tilskudd basert på samlet aktivitet
+For å kunne motta rammetilskudd må foretaket i løpet av de siste tre årene før søknadsfristen ha produsert minst én;
 
-Tilskudd etter denne bestemmelsen kan tildeles produksjonsforetak som har oppnådd gode kunstneriske og/eller kommersielle resultater. Foretaket må ha produsert minst én spillefilm, dokumentar eller serie med nasjonal og internasjonal distribusjon i løpet av de siste tre år.
+1. spillefilm lansert på kino, eller
+2. dokumentarfilm lansert på kino eller med primærlansering på en visningsplattform tilgjengelig for publikum i Norge og med bred markedsandel,
+3. dramaserie med primærlansering på en visningsplattform tilgjengelig for publikum i Norge og med bred markedsandel.
 
-I vurderingen av, og prioritering mellom, søkerne, kan det legges vekt på:
+Produksjonen som gjøres gjeldende etter denne bestemmelsens andre ledd må være produsert av søkeren som hovedprodusent, være et kulturprodukt, og søkeren må ha hatt de nødvendige rettighetene til å realisere og utnytte det audiovisuelle verket, herunder til å inngå avtaler om salg, distribusjon og visning av verket.
 
-1. foretakets tidligere kunstneriske og/eller kommersielle resultater,
-2. foretakets soliditet,
-3. målet om likestilling og mangfold i filmbransjen.
+Tilskuddsforvalter kan fastsette nærmere kriterier i retningslinjer om hvilke produksjoner som oppfyller kravet etter andre og tredje ledd.
 
-> Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [3 aug 2022 nr. 1402](forskrift/2022-08-03-1402).
+> Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [3 aug 2022 nr. 1402](forskrift/2022-08-03-1402), [24 sep 2026 nr. 1948](forskrift/2026-09-24-1948) (i kraft 1 okt 2026).
+
+### § 4-3. Grunnlag for vurdering
+
+Tilskuddsforvalter kan tildele rammetilskudd til foretak som er kvalifisert etter [§ 4-2](forskrift/2016-10-31-1264/§4-2).
+
+Ved vurderingen av, og prioriteringen mellom søkerne, skal det legges vekt på:
+
+1. antall lanserte titler og titlenes utviklings- og produksjonsregnskap
+2. kommersielle resultater
+3. kunstneriske resultater.
+
+Produksjoner som gjøres gjeldende etter denne bestemmelsens andre ledd må være produsert av søkeren som hovedprodusent, være et kulturprodukt og må ha blitt lansert på kino eller sin primære visningsplattform de siste tre årene før søknadsfristen.
+
+Søker må ha hatt de nødvendige rettighetene til å realisere og utnytte det audiovisuelle verket, herunder til å inngå avtaler om salg, distribusjon og visning av verket for produksjoner som gjøres gjeldende etter bestemmelsen andre ledd bokstav b og c.
+
+Tilskuddsforvalter kan fastsette nærmere kriterier i retningslinjene for hvordan resultatene skal beregnes, dokumenteres og prioriteres.
+
+> Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [3 aug 2022 nr. 1402](forskrift/2022-08-03-1402), [24 sep 2026 nr. 1948](forskrift/2026-09-24-1948) (i kraft 1 okt 2026).
 
 ## Kapittel 5. Fellestiltak for audiovisuell bransje
 
