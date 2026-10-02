@@ -10,12 +10,12 @@ ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-01-01"
-last_updated: "2023-08-30"
-xml_hash: "ccefdf786825a9b656372dcb892d8f662bc47ed62ab072736e3d2941f1be5d0b"
+last_updated: "2026-10-01"
+xml_hash: "b6fbbc314511b47e0d3453d42f4a17ec8b9dfe44e430ec9bf11e0a6b87a9673d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,7 @@ Fast basisrente blir fastsett på grunnlag av 1 månads observasjon av tilbod om
 
 Lånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik:
 
-$$r_n = \\begin{bmatrix}(1 + r_e)\\frac{1}{n} - 1 \\end{bmatrix}n$$
+$$r_n = \\left[ (1 + r_e)^{\\frac 1n} -1\\right] n$$
 
 Teiknforklaring:
 
