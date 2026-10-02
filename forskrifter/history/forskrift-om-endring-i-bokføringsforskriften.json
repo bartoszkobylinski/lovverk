@@ -2,6 +2,16 @@
   "doc_id": "sf-20260929-1933",
   "events": [
     {
+      "commit": "fb4b52a",
+      "date": "2026-10-02",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-endring-i-bokføringsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4e9b2c7",
       "date": "2026-10-01",
       "from_path": null,

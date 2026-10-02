@@ -2,6 +2,16 @@
   "doc_id": "sf-20150825-0999",
   "events": [
     {
+      "commit": "6ec9cf2",
+      "date": "2026-10-02",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): solvens-ii-forskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "bba243f",
       "date": "2026-10-01",
       "from_path": null,

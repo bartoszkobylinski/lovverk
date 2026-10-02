@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-narkotikaprekursorer — Change history
 
-_3 events; doc_id `sf-20100212-0156`._
+_4 events; doc_id `sf-20100212-0156`._
+
+## 2026-10-02 — Content updated
+Lines: +17 -7.
+Subject: `update(forskrift): forskrift-om-narkotikaprekursorer`
+Commit: `8c3a6f7`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # mandat-for-statens-pensjonsfond-utland-spu — Change history
 
-_1 events; doc_id `sf-20101108-1414`._
+_2 events; doc_id `sf-20101108-1414`._
+
+## 2026-10-02 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): mandat-for-statens-pensjonsfond-utland-spu`
+Commit: `2c452d5`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +493 -0.

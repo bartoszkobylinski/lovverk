@@ -2,6 +2,16 @@
   "doc_id": "sf-20161031-1264",
   "events": [
     {
+      "commit": "a8e5234",
+      "date": "2026-10-02",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 17,
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-audiovisuell-produksjon",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # solvens-ii-forskriften — Change history
 
-_5 events; doc_id `sf-20150825-0999`._
+_6 events; doc_id `sf-20150825-0999`._
+
+## 2026-10-02 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): solvens-ii-forskriften`
+Commit: `6ec9cf2`.
 
 ## 2026-10-01 — Content updated
 Lines: +4 -4.

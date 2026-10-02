@@ -2,6 +2,16 @@
   "doc_id": "sf-20100212-0156",
   "events": [
     {
+      "commit": "8c3a6f7",
+      "date": "2026-10-02",
+      "from_path": null,
+      "lines_added": 17,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-narkotikaprekursorer",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

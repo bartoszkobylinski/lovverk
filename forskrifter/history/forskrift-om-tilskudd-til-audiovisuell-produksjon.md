@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-audiovisuell-produksjon — Change history
 
-_3 events; doc_id `sf-20161031-1264`._
+_4 events; doc_id `sf-20161031-1264`._
+
+## 2026-10-02 — Content updated
+Lines: +35 -17.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-audiovisuell-produksjon`
+Commit: `a8e5234`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

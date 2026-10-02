@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilbakebetaling-av-utdanningslån — Change history
 
-_3 events; doc_id `sf-20221215-2259`._
+_4 events; doc_id `sf-20221215-2259`._
+
+## 2026-10-02 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-tilbakebetaling-av-utdanningslån`
+Commit: `c7621f8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

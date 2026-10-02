@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-bygging-utrustning-og-tilsyn-av-mindre-lasteskip — Change history
 
-_3 events; doc_id `sf-20251216-2652`._
+_4 events; doc_id `sf-20251216-2652`._
+
+## 2026-10-02 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-bygging-utrustning-og-tilsyn-av-mindre-lasteskip`
+Commit: `98bd7da`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
