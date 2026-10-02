@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2013-01-01"
-last_change_in_force: "2026-06-05"
+last_change_in_force: "2026-09-29"
 last_updated: "2026-01-20"
-xml_hash: "4d842ee860d12e3c4e901a531a31348262c4e1bc1fab5949f7d3a93016d75fbe"
+xml_hash: "d992353c8064daca5e3ebdccf25b3dbb6c8b67d6d35619da98320623ef646718"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,14 +47,14 @@ Forskriftens [kapittel 26](forskrift/2011-12-06-1357/kap26) om arbeid under vann
 
 Bestemmelsene i [kapittel 26](forskrift/2011-12-06-1357/kap26) om dykkerbevis gjelder ikke forskere og helsepersonale som må utføre påkrevd arbeid i trykksatt trykkammer.
 
-Forskriftens [§ 4-4](forskrift/2011-12-06-1357/§4-4), [§ 13-1](forskrift/2011-12-06-1357/§13-1), [§ 13-2](forskrift/2011-12-06-1357/§13-2), [§ 13-3](forskrift/2011-12-06-1357/§13-3), [§ 13-4](forskrift/2011-12-06-1357/§13-4), [§ 25-1](forskrift/2011-12-06-1357/§25-1) og [§ 27-4](forskrift/2011-12-06-1357/§27-4) samt [kapitlene 5](forskrift/2011-12-06-1357/kap5), [17](forskrift/2011-12-06-1357/kap17), [20](forskrift/2011-12-06-1357/kap20), [24](forskrift/2011-12-06-1357/kap24), [26](forskrift/2011-12-06-1357/kap26), [28](forskrift/2011-12-06-1357/kap28) og [29](forskrift/2011-12-06-1357/kap29) gjelder ikke for petroleumsvirksomhet til havs og for virksomhet på landanlegg som nevnt i [rammeforskriften § 6](forskrift/2010-02-12-158/§6) bokstav e. Forskriftens [§ 3-23](forskrift/2011-12-06-1357/§3-23), [§ 3-24](forskrift/2011-12-06-1357/§3-24), [§ 3-27](forskrift/2011-12-06-1357/§3-27), [§ 14-1](forskrift/2011-12-06-1357/§14-1), [§ 14-2](forskrift/2011-12-06-1357/§14-2), [§ 14-3](forskrift/2011-12-06-1357/§14-3), [§ 14-4](forskrift/2011-12-06-1357/§14-4), [§ 14-5](forskrift/2011-12-06-1357/§14-5), [§ 14-6](forskrift/2011-12-06-1357/§14-6), [§ 14-7](forskrift/2011-12-06-1357/§14-7), og [§ 14-10](forskrift/2011-12-06-1357/§14-10), gjelder ikke for petroleumsvirksomhet til havs.
+Forskriftens [§ 4-6](forskrift/2011-12-06-1357/§4-6), [§ 13-1](forskrift/2011-12-06-1357/§13-1), [§ 13-2](forskrift/2011-12-06-1357/§13-2), [§ 13-3](forskrift/2011-12-06-1357/§13-3), [§ 13-4](forskrift/2011-12-06-1357/§13-4), [§ 25-1](forskrift/2011-12-06-1357/§25-1) og [§ 27-4](forskrift/2011-12-06-1357/§27-4) samt [kapitlene 5](forskrift/2011-12-06-1357/kap5), [17](forskrift/2011-12-06-1357/kap17), [20](forskrift/2011-12-06-1357/kap20), [24](forskrift/2011-12-06-1357/kap24), [26](forskrift/2011-12-06-1357/kap26), [28](forskrift/2011-12-06-1357/kap28) og [29](forskrift/2011-12-06-1357/kap29) gjelder ikke for petroleumsvirksomhet til havs og for virksomhet på landanlegg som nevnt i [rammeforskriften § 6 bokstav e](forskrift/2010-02-12-158/§6/bokstav/e). Forskriftens [§ 3-23](forskrift/2011-12-06-1357/§3-23), [§ 3-24](forskrift/2011-12-06-1357/§3-24), [§ 3-27](forskrift/2011-12-06-1357/§3-27), [§ 14-1](forskrift/2011-12-06-1357/§14-1), [§ 14-2](forskrift/2011-12-06-1357/§14-2), [§ 14-3](forskrift/2011-12-06-1357/§14-3), [§ 14-4](forskrift/2011-12-06-1357/§14-4), [§ 14-5](forskrift/2011-12-06-1357/§14-5), [§ 14-6](forskrift/2011-12-06-1357/§14-6), [§ 14-7](forskrift/2011-12-06-1357/§14-7), og [§ 14-10](forskrift/2011-12-06-1357/§14-10), gjelder ikke for petroleumsvirksomhet til havs.
 
 Forskriften gjelder for Svalbard:
 
 1. unntatt bestemmelsene i [§ 10-1](forskrift/2011-12-06-1357/§10-1) til [§ 10-3](forskrift/2011-12-06-1357/§10-3) og [kapittel 13](forskrift/2011-12-06-1357/kap13),
-2. med mindre annet følger av [forskrift 18. januar 1993 nr. 33](forskrift/1993-01-18-33) om kullgruvene på Svalbard.
+2. med mindre annet følger av [forskrift 18. januar 1993 nr. 33 for kullgruvene på Svalbard](forskrift/1993-01-18-33).
 
-> Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [22 des 2014 nr. 1894](forskrift/2014-12-22-1894) (i kraft 1 jan 2015), [10 jan 2022 nr. 37](forskrift/2022-01-10-37) (i kraft 15 jan 2022), [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 19 des 2012 nr. 1373](forskrift/2012-12-19-1373) (i kraft 1 jan 2013), [30 des 2013 nr. 1725](forskrift/2013-12-30-1725) (i kraft 1 jan 2014), [22 des 2014 nr. 1894](forskrift/2014-12-22-1894) (i kraft 1 jan 2015), [10 jan 2022 nr. 37](forskrift/2022-01-10-37) (i kraft 15 jan 2022), [16 des 2025 nr. 2615](forskrift/2025-12-16-2615) (i kraft 1 jan 2026), [29 sep 2026 nr. 1949](forskrift/2026-09-29-1949).
 
 ### § 1-3. Hvem forskriften retter seg mot
 
