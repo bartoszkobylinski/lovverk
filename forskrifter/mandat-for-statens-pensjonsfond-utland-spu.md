@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-11-08"
 last_change_in_force: "2026-02-16"
 last_updated: "2023-08-11"
-xml_hash: "e545d2260cb05f5d81b5f19388f484f6fcc335ba584a23d5d0b0ff0711a8bcd8"
+xml_hash: "8ed4b5a75d160574fe5b7e96c81e71feb67e09eb7637a65d3d902e40642667c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-02T10:26:49.535588+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -186,7 +186,7 @@ BNPvekti beregnes basert på bruttonasjonalprodukt for land *i* som andel av sam
 
 $$BNP_i^T = \\left( \\frac{1}{2}\\right) \\cdot BNP_{i,IMF}^{T-1} + \\left( \\frac{1}{3}\\right) \\cdot BNP_{i,IMF}^{T-2} + \\left( \\frac{1}{6}\\right) \\cdot BNP_{i,IMF}^{T-3}$$
 
-der BNP\\(\\substack{T\\\\i}\\) betegner vektet bruttonasjonalprodukt for land *i* for inneværende år *T*.
+der \\(BNP_i^T\\) betegner vektet bruttonasjonalprodukt for land *i* for inneværende år *T*.
 
 Særskilte bestemmelser gjelder for beregning av BNP-vekter for land i eurosonen, som beskrevet i femte ledd. Samtlige BNP-vekter normaliseres slik at de summerer seg til 1.
 
