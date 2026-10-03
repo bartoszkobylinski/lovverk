@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2010-03-01"
-last_change_in_force: "2026-08-19"
+last_change_in_force: "2026-09-28"
 last_updated: "2022-01-06"
-xml_hash: "5439b4309f74c370a7dd2622593b514671a9eced5338e1f3e342bc644e437d68"
+xml_hash: "c76f8788d4d7bc19edc85783c22894814f39ac78cf0b61a2c8d875bef6c08da6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-10-03T09:48:36.286129+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,9 +26,9 @@ eu_basis: []
 
 ### § 1. Gjennomføring av forordning (EF) nr. 1925/2006
 
-[EØS-avtalen vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzu (forordning [(EF) nr. 1925/2006](eu/32006r1925) som endret ved forordning [(EF) nr. 1170/2009](eu/32009r1170), forordning [(EU) nr. 1161/2011](eu/32011r1161), forordning [(EU) nr. 1169/2011](eu/32011r1169), forordning [(EU) nr. 119/2014](eu/32014r0119), forordning [(EU) 2015/403](eu/32015r0403), forordning [(EU) 2017/1203](eu/32017r1203), forordning [(EU) 2019/650](eu/32019r0650), forordning [(EU) 2019/649](eu/32019r0649), forordning [(EU) 2021/468](eu/32021r0468), forordning [(EU) 2022/860](eu/32022r0860), forordning [(EU) 2022/2340](eu/32022r2340), forordning [(EU) 2023/1065](eu/32023r1065) og forordning [(EU) 2025/2224](eu/32025r2224)) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzu (forordning [(EF) nr. 1925/2006](eu/32006r1925) som endret ved forordning [(EF) nr. 1170/2009](eu/32009r1170), forordning [(EU) nr. 1161/2011](eu/32011r1161), forordning [(EU) nr. 1169/2011](eu/32011r1169), forordning [(EU) nr. 119/2014](eu/32014r0119), forordning [(EU) 2015/403](eu/32015r0403), forordning [(EU) 2017/1203](eu/32017r1203), forordning [(EU) 2019/650](eu/32019r0650), forordning [(EU) 2019/649](eu/32019r0649), forordning [(EU) 2021/468](eu/32021r0468), forordning [(EU) 2022/860](eu/32022r0860), forordning [(EU) 2022/2340](eu/32022r2340), forordning [(EU) 2023/1065](eu/32023r1065), forordning [(EU) 2024/1821](eu/32024r1821) og forordning [(EU) 2025/2224](eu/32025r2224)) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler gjelder som forskrift med de tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [24 nov 2014 nr. 1495](forskrift/2014-11-24-1495) (i kraft 13 des 2014), [12 juni 2015 nr. 683](forskrift/2015-06-12-683), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [28 sep 2019 nr. 1283](forskrift/2019-09-28-1283), [31 okt 2019 nr. 1446](forskrift/2019-10-31-1446), [6 sep 2021 nr. 2676](forskrift/2021-09-06-2676), [12 des 2022 nr. 2148](forskrift/2022-12-12-2148), [23 sep 2023 nr. 1525](forskrift/2023-09-23-1525), [30 okt 2023 nr. 1735](forskrift/2023-10-30-1735), [23 mars 2026 nr. 466](forskrift/2026-03-23-466).
+> Endret ved forskrifter [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [24 nov 2014 nr. 1495](forskrift/2014-11-24-1495) (i kraft 13 des 2014), [12 juni 2015 nr. 683](forskrift/2015-06-12-683), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [28 sep 2019 nr. 1283](forskrift/2019-09-28-1283), [31 okt 2019 nr. 1446](forskrift/2019-10-31-1446), [6 sep 2021 nr. 2676](forskrift/2021-09-06-2676), [12 des 2022 nr. 2148](forskrift/2022-12-12-2148), [23 sep 2023 nr. 1525](forskrift/2023-09-23-1525), [30 okt 2023 nr. 1735](forskrift/2023-10-30-1735), [23 mars 2026 nr. 466](forskrift/2026-03-23-466), [28 sep 2026 nr. 1961](forskrift/2026-09-28-1961).
 
 ### § 1a. Gjennomføringsbestemmelser, jf. artikkel 8(6) i forordning (EF) nr. 1925/2006
 
@@ -546,9 +546,9 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 ### Konsolidert forordning (EF) nr. 1925/2006
 
-> Endret ved forskrifter [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [12 juni 2015 nr. 683](forskrift/2015-06-12-683), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [28 sep 2019 nr. 1283](forskrift/2019-09-28-1283), [31 okt 2019 nr. 1446](forskrift/2019-10-31-1446), [6 sep 2021 nr. 2676](forskrift/2021-09-06-2676), [12 des 2022 nr. 2148](forskrift/2022-12-12-2148), [23 sep 2023 nr. 1525](forskrift/2023-09-23-1525), [30 okt 2023 nr. 1735](forskrift/2023-10-30-1735), [15 aug 2025 nr. 1657](forskrift/2025-08-15-1657), [23 mars 2026 nr. 466](forskrift/2026-03-23-466).
+> Endret ved forskrifter [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [12 juni 2015 nr. 683](forskrift/2015-06-12-683), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [28 sep 2019 nr. 1283](forskrift/2019-09-28-1283), [31 okt 2019 nr. 1446](forskrift/2019-10-31-1446), [6 sep 2021 nr. 2676](forskrift/2021-09-06-2676), [12 des 2022 nr. 2148](forskrift/2022-12-12-2148), [23 sep 2023 nr. 1525](forskrift/2023-09-23-1525), [30 okt 2023 nr. 1735](forskrift/2023-10-30-1735), [15 aug 2025 nr. 1657](forskrift/2025-08-15-1657), [23 mars 2026 nr. 466](forskrift/2026-03-23-466), [28 sep 2026 nr. 1961](forskrift/2026-09-28-1961).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1925/2006](eu/32006r1925). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 1170/2009](eu/32009r1170), forordning [(EU) nr. 1161/2011](eu/32011r1161), forordning [(EU) nr. 1169/2011](eu/32011r1169), forordning [(EU) nr. 119/2014](eu/32014r0119), forordning [(EU) 2015/403](eu/32015r0403), forordning [(EU) 2017/1203](eu/32017r1203), forordning [(EU) 2019/650](eu/32019r0650), forordning [(EU) 2019/649](eu/32019r0649), forordning [(EU) 2021/468](eu/32021r0468), forordning [(EU) 2022/860](eu/32022r0860), forordning [(EU) 2022/2340](eu/32022r2340), forordning [(EU) 2023/1065](eu/32023r1065) og forordning [(EU) 2025/2224](eu/32025r2224). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kap. XII nr. 54zzzu er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1925/2006](eu/32006r1925). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 1170/2009](eu/32009r1170), forordning [(EU) nr. 1161/2011](eu/32011r1161), forordning [(EU) nr. 1169/2011](eu/32011r1169), forordning [(EU) nr. 119/2014](eu/32014r0119), forordning [(EU) 2015/403](eu/32015r0403), forordning [(EU) 2017/1203](eu/32017r1203), forordning [(EU) 2019/650](eu/32019r0650), forordning [(EU) 2019/649](eu/32019r0649), forordning [(EU) 2021/468](eu/32021r0468), forordning [(EU) 2022/860](eu/32022r0860), forordning [(EU) 2022/2340](eu/32022r2340), forordning [(EU) 2023/1065](eu/32023r1065), forordning [(EU) 2024/1821](eu/32024r1821) og forordning [(EU) 2025/2224](eu/32025r2224)). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kap. XII nr. 54zzzu er innarbeidet nedenfor.
 
 ►**B** Forordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006
 
@@ -566,7 +566,8 @@ som endret ved
 - ►**M11** Forordning [(EU) 2022/860](eu/32022r0860) av 1. juni 2022
 - ►**M12** Forordning [(EU) 2022/2340](eu/32022r2340) av 30. november 2022
 - ►**M13** Forordning [(EU) 2023/1065](eu/32023r1065) av 1. juni 2023
-- ►**M14** Forordning [(EU) 2025/2224](eu/32025r2224) av 5. november 2025
+- ►**M14** Forordning [(EU) 2024/1821](eu/32024r1821) av 25. juni 2024
+- ►**M15** Forordning [(EU) 2025/2224](eu/32025r2224) av 5. november 2025
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1925/2006](eu/32006r1925)
 
@@ -971,10 +972,10 @@ Vitamin- og mineralforbindelser som kan tilsettes i næringsmidler
 - pteroylmonoglutaminsyre
 - kalsium-L-metylfolat
 
-  ►**M14**
-- mononatriumsalt av L-5-metyltetrahydrofolsyre[^\*\*]
+  ►**M15**
+- mononatriumsalt av L-5-metyltetrahydrofolsyre\*\*
 
-  ◄**M14**
+  ◄**M15**
 
 *VITAMIN B12*
 
@@ -1038,6 +1039,9 @@ Vitamin- og mineralforbindelser som kan tilsettes i næringsmidler
 - jern(III)difosfat (jernpyrofosfat)
 - jern(III)sakkarat
 - jern (karbonyl + elektrolytisk + hydrogenredusert)
+- ►**M14**
+- jern-melkekaseinat\*\*
+- ◄**M14**
 - kobberkarbonat
 - kobbersitrat
 - kobberglukonat
