@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261001-1963",
+  "events": [
+    {
+      "commit": "d0d7ee4",
+      "date": "2026-10-03",
+      "from_path": null,
+      "lines_added": 109,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-stillinger-og-funksjoner-som-medfører-status-som-politisk-eksponert-person",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-stillinger-og-funksjoner-som-medfører-status-som-politisk-eksponert-person"
+}

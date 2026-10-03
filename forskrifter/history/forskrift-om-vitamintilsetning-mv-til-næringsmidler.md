@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-vitamintilsetning-mv-til-næringsmidler — Change history
 
-_8 events; doc_id `sf-20100226-0247`._
+_9 events; doc_id `sf-20100226-0247`._
+
+## 2026-10-03 — Content updated
+Lines: +15 -11.
+Subject: `update(forskrift): forskrift-om-vitamintilsetning-mv-til-næringsmidler`
+Commit: `5fd1ffc`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

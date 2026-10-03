@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-ernærings-og-helsepåstander-om-næringsmidler — Change history
 
-_4 events; doc_id `sf-20100217-0187`._
+_5 events; doc_id `sf-20100217-0187`._
+
+## 2026-10-03 — Content updated
+Lines: +66 -6.
+Subject: `update(forskrift): forskrift-om-ernærings-og-helsepåstander-om-næringsmidler`
+Commit: `675564f`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

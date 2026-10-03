@@ -46730,13 +46730,13 @@
     },
     "sf-20040520-0755": {
       "doc_type": "forskrift",
-      "embedding_hash": "8b4d7fbc1846da400e5881eb92a1013f8220f973e77f84f77fe48484705b22da",
+      "embedding_hash": "d825e450e57b394498f206e57430c6639e6533834835594f0ab1c5145b643684",
       "embedding_input_hash": "6d52636f0fe996d71a25747ba883f24f5508dbba7ea7c50f7933935b5bb7e141",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-03",
+      "last_seen": "2026-10-03T09:48:36.286129Z",
       "markdown_path": "forskrifter/forskrift-om-kosttilskudd.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -46744,8 +46744,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kosttilskudd",
-      "total_changes": 3,
-      "xml_hash": "8b4d7fbc1846da400e5881eb92a1013f8220f973e77f84f77fe48484705b22da"
+      "total_changes": 4,
+      "xml_hash": "d825e450e57b394498f206e57430c6639e6533834835594f0ab1c5145b643684"
     },
     "sf-20040520-0756": {
       "doc_type": "forskrift",
@@ -59175,13 +59175,13 @@
     },
     "sf-20100217-0187": {
       "doc_type": "forskrift",
-      "embedding_hash": "08671323107e655f3866752ccfbd275b92ab5db47ba6a8bf5da471ce76678482",
-      "embedding_input_hash": "0544feaa69e2cfb5f58ca323894dcbb45b8cf333c1029dfb01b1584a0515a854",
+      "embedding_hash": "f33f7c8082467090fe5280e035712a48655b625e789dcd1fea9945eee0cb39ac",
+      "embedding_input_hash": "46b7886a1f1b6c7fc5c514fbcff49ce5ee31d55eb4c35f8c6e209a7c829a7598",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-10-03",
+      "last_seen": "2026-10-03T09:48:36.286129Z",
       "markdown_path": "forskrifter/forskrift-om-ernærings-og-helsepåstander-om-næringsmidler.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -59189,8 +59189,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om ernærings- og helsepåstander om næringsmidler",
-      "total_changes": 4,
-      "xml_hash": "08671323107e655f3866752ccfbd275b92ab5db47ba6a8bf5da471ce76678482"
+      "total_changes": 5,
+      "xml_hash": "f33f7c8082467090fe5280e035712a48655b625e789dcd1fea9945eee0cb39ac"
     },
     "sf-20100219-0190": {
       "doc_type": "forskrift",
@@ -59213,13 +59213,13 @@
     },
     "sf-20100226-0247": {
       "doc_type": "forskrift",
-      "embedding_hash": "5439b4309f74c370a7dd2622593b514671a9eced5338e1f3e342bc644e437d68",
-      "embedding_input_hash": "2602d64ec7f363a0ed1ef705e2d69c16c6be4eed4a7acfe2bec3eac45e3ea379",
+      "embedding_hash": "c76f8788d4d7bc19edc85783c22894814f39ac78cf0b61a2c8d875bef6c08da6",
+      "embedding_input_hash": "f1be9f591be47a2db466489fedd9ea2883f198d67513d74c7c55eebc1c38ed47",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-10-03",
+      "last_seen": "2026-10-03T09:48:36.286129Z",
       "markdown_path": "forskrifter/forskrift-om-vitamintilsetning-mv-til-næringsmidler.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -59227,8 +59227,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler",
-      "total_changes": 8,
-      "xml_hash": "5439b4309f74c370a7dd2622593b514671a9eced5338e1f3e342bc644e437d68"
+      "total_changes": 9,
+      "xml_hash": "c76f8788d4d7bc19edc85783c22894814f39ac78cf0b61a2c8d875bef6c08da6"
     },
     "sf-20100226-0252": {
       "doc_type": "forskrift",
@@ -68162,13 +68162,13 @@
     },
     "sf-20140110-0021": {
       "doc_type": "forskrift",
-      "embedding_hash": "653679504932b7c254c9d5e9cdf7435b906da927277adef91529b0fb65311309",
-      "embedding_input_hash": "bb797cfe1da358c2f1696b1a3ef24ba4880bcd5477982a0f1c24f4d0fb87c93a",
+      "embedding_hash": "6978e03cac22f69bbb6ba79a1bff2f0ca6f06b90b00dd029d0305676c1b609a7",
+      "embedding_input_hash": "5bb8a3436ac3718423df7ea9b5a7aaf67cd28d48f7a25c78c81e3d3cac52ba48",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-01",
-      "last_seen": "2026-10-01T10:53:16.759325Z",
+      "last_changed": "2026-10-03",
+      "last_seen": "2026-10-03T09:48:36.286129Z",
       "markdown_path": "forskrifter/forskrift-om-næringsmidler-til-særskilte-grupper.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -68176,8 +68176,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om næringsmidler til særskilte grupper",
-      "total_changes": 5,
-      "xml_hash": "653679504932b7c254c9d5e9cdf7435b906da927277adef91529b0fb65311309"
+      "total_changes": 6,
+      "xml_hash": "6978e03cac22f69bbb6ba79a1bff2f0ca6f06b90b00dd029d0305676c1b609a7"
     },
     "sf-20140124-0054": {
       "doc_type": "forskrift",
@@ -78080,13 +78080,13 @@
     },
     "sf-20170725-1215": {
       "doc_type": "forskrift",
-      "embedding_hash": "e6e90b300263c05c4deb9dba37a17e15cf1500beba8a7409ea35829a0e1f54e6",
-      "embedding_input_hash": "fbef06c5c2a5ef37b4674da24044591dbcab8b3c539c08aeaf51bbcc652218ad",
+      "embedding_hash": "9dd800cc61f914dc3c80446b74f7f1d0d3078ecf79974989e3addd553f449c25",
+      "embedding_input_hash": "c1f315fdeab9c292ad72548ab9ce86b5afe7f63519b3dcc04a822a05a8846636",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-10-03",
+      "last_seen": "2026-10-03T09:48:36.286129Z",
       "markdown_path": "forskrifter/forskrift-om-ny-mat.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -78094,8 +78094,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om ny mat",
-      "total_changes": 7,
-      "xml_hash": "e6e90b300263c05c4deb9dba37a17e15cf1500beba8a7409ea35829a0e1f54e6"
+      "total_changes": 8,
+      "xml_hash": "9dd800cc61f914dc3c80446b74f7f1d0d3078ecf79974989e3addd553f449c25"
     },
     "sf-20170801-1230": {
       "doc_type": "forskrift",
@@ -113892,8 +113892,27 @@
       "title": "Delegering av myndighet etter bokføringsloven § 7 og § 10",
       "total_changes": 1,
       "xml_hash": "cc40283933a10886ebf613738e1e7c47ac262b0a399268569c9355382a5b71e2"
+    },
+    "sf-20261001-1963": {
+      "doc_type": "forskrift",
+      "embedding_hash": "28544d45772c4d8743affa52eadde2304b28b645a8fa381e258f6beaa238467d",
+      "embedding_input_hash": "3486ac298e8963130188dff52aca228e8b746f7aa63c1727d2c4a6069b122f92",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-03",
+      "last_seen": "2026-10-03T09:48:36.286129Z",
+      "markdown_path": "forskrifter/forskrift-om-stillinger-og-funksjoner-som-medfører-status-som-politisk-eksponert-person.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-stillinger-og-funksjoner-som-medfører-status-som-politisk-eksponert-person",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om stillinger og funksjoner som medfører status som politisk eksponert person",
+      "total_changes": 1,
+      "xml_hash": "28544d45772c4d8743affa52eadde2304b28b645a8fa381e258f6beaa238467d"
     }
   },
-  "generated_at": "2026-10-02T10:26:49.535588Z",
+  "generated_at": "2026-10-03T09:48:36.286129Z",
   "version": 1
 }

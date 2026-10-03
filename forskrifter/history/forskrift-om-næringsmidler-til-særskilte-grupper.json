@@ -2,6 +2,16 @@
   "doc_id": "sf-20140110-0021",
   "events": [
     {
+      "commit": "8ff61a4",
+      "date": "2026-10-03",
+      "from_path": null,
+      "lines_added": 20,
+      "lines_removed": 8,
+      "subject": "update(forskrift): forskrift-om-næringsmidler-til-særskilte-grupper",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "16a5eac",
       "date": "2026-10-01",
       "from_path": null,

@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5117 current documents_
+_5118 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -3551,6 +3551,7 @@ _5117 current documents_
 - [forskrift-om-stenging-av-området-nord-for-70-grader-nord-for-fiske-etter-sei-med-not](forskrift-om-stenging-av-området-nord-for-70-grader-nord-for-fiske-etter-sei-med-not.md) — Forskrift om stenging av området nord for 70 grader nord for fiske etter sei med not
 - [forskrift-om-sterilisering-av-kvinner-mv](forskrift-om-sterilisering-av-kvinner-mv.md) — Forskrift om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner og om innberetning til Helsedirektoratet om sterilisering.
 - [forskrift-om-stevnevitner-og-forkynnelser](forskrift-om-stevnevitner-og-forkynnelser.md) — Forskrift om stevnevitners, politiansattes og fengselstjenestemenns utførelse av forkynnelser.
+- [forskrift-om-stillinger-og-funksjoner-som-medfører-status-som-politisk-eksponert-person](forskrift-om-stillinger-og-funksjoner-som-medfører-status-som-politisk-eksponert-person.md) — Forskrift om stillinger og funksjoner som medfører status som politisk eksponert person
 - [forskrift-om-stopp-i-fangst-av-vågehval-i-2026](forskrift-om-stopp-i-fangst-av-vågehval-i-2026.md) — Forskrift om stopp i fangst av vågehval i 2026
 - [forskrift-om-stopp-i-fisket-etter-blåkveite-nord-for-62-n-i-2026](forskrift-om-stopp-i-fisket-etter-blåkveite-nord-for-62-n-i-2026.md) — Forskrift om stopp i fisket etter blåkveite nord for 62°N i 2026
 - [forskrift-om-stopp-i-fisket-etter-havbrisling](forskrift-om-stopp-i-fisket-etter-havbrisling.md) — Forskrift om stopp i fisket etter havbrisling

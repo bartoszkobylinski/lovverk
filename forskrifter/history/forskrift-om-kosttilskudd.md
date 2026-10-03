@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-kosttilskudd — Change history
 
-_3 events; doc_id `sf-20040520-0755`._
+_4 events; doc_id `sf-20040520-0755`._
+
+## 2026-10-03 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-kosttilskudd`
+Commit: `b2a83f8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
