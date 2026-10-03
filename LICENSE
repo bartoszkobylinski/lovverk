@@ -1,4 +1,4 @@
-The legal text content in this repository is derived from data made available
+The legal text content in lover/ and forskrifter/ is derived from data made available
 by Stiftelsen Lovdata under the Norwegian Licence for Open Government Data
 (NLOD) 2.0. See https://data.norge.no/nlod/no/2.0/
 
@@ -14,3 +14,19 @@ CC0 1.0. See https://creativecommons.org/publicdomain/zero/1.0/
 
 This is an unofficial derivative. For the authoritative source, consult
 Lovdata directly: https://lovdata.no/
+
+Local regulations (lokale-forskrifter/)
+---------------------------------------
+
+The local regulations in lokale-forskrifter/ are NOT Lovdata data and are NOT
+licensed under NLOD 2.0. Lovdata's public-data API does not serve them; they
+are captured from the websites of the enacting kommuner and fylkeskommuner.
+
+They are published on the basis of åndsverkloven § 14: laws, regulations and
+other decisions by public authorities are not subject to copyright. Only
+material classified as an enacted regulation is published on this basis.
+
+Each document records ObservedAt provenance (when and from which URL its text
+was observed). The material is observed, not asserted: it has not been
+verified against Norsk Lovtidend or Lovdata, and the lovspor project does not
+assert that any of it is in force, current or complete.
