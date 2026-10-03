@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2010-03-01"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-10-01"
 last_updated: "2017-02-14"
-xml_hash: "08671323107e655f3866752ccfbd275b92ab5db47ba6a8bf5da471ce76678482"
+xml_hash: "f33f7c8082467090fe5280e035712a48655b625e789dcd1fea9945eee0cb39ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-03T09:48:36.286129+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,11 +34,11 @@ EØS-avtalen vedlegg II kapittel XII nr. 54zzzt (forordning [(EF) nr. 1924/2006]
 
 > Tilføyd ved [forskrift 4 feb 2013 nr. 139](forskrift/2013-02-04-139), endret ved forskrifter [16 des 2013 nr. 1577](forskrift/2013-12-16-1577), [8 april 2014 nr. 522](forskrift/2014-04-08-522), [19 mai 2014 nr. 653](forskrift/2014-05-19-653), [26 sep 2014 nr. 1312](forskrift/2014-09-26-1312), [29 sep 2015 nr. 1188](forskrift/2015-09-29-1188), [30 okt 2015 nr. 1255](forskrift/2015-10-30-1255), [8 juli 2016 nr. 924](forskrift/2016-07-08-924), [3 des 2016 nr. 1480](forskrift/2016-12-03-1480), [4 feb 2017 nr. 147](forskrift/2017-02-04-147), [25 sep 2017 nr. 1594](forskrift/2017-09-25-1594), [1 nov 2021 nr. 3123](forskrift/2021-11-01-3123), [28 okt 2024 nr. 2586](forskrift/2024-10-28-2586), [6 feb 2026 nr. 168](forskrift/2026-02-06-168).
 
-## § 2. Avgjørelser av søknader om bruk av helsepåstander etter artikkel 13(5) i forordning (EF) nr. 1924/2006
+## § 2. Avgjørelser av søknader om bruk av helsepåstander etter artikkel 13 (5) i forordning (EF) nr. 1924/2006
 
-[EØS-avtalen vedlegg II, kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzzz (forordning [(EU) nr. 958/2010](eu/32010r0958)), nr. 54zzzzu (forordning [(EU) nr. 1161/2010](eu/32010r1161)), nr. 54zzzzw (beslutning [2009/980/EU](eu/32009d0980) som endret ved beslutning [2010/770/EU](eu/32010d0770)), nr. 54zzzzzc (forordning [(EF) nr. 984/2009](eu/32009r0984)), nr. 54zzzzze (forordning [(EF) nr. 1025/2009](eu/32009r1025)), nr. 54zzzzzg (forordning [(EF) nr. 1168/2009](eu/32009r1168)), nr. 54zzzzzh (forordning [(EU) nr. 375/2010](eu/32010r0375)), nr. 54zzzzzi (forordning [(EU) nr. 382/2010](eu/32010r0382)), nr. 54zzzzzj (forordning [(EU) nr. 383/2010](eu/32010r0383)), nr. 54zzzzzo (forordning [(EU) nr. 379/2012](eu/32012r0379)), nr. 57 (forordning [(EU) nr. 432/2011](eu/32011r0432)), nr. 60 (forordning [(EU) nr. 666/2011](eu/32011r0666)), nr. 67 (forordning [(EU) nr. 1171/2011](eu/32011r1171)), nr. 78 (forordning [(EU) nr. 851/2013](eu/32013r0851)), nr. 79 (forordning [(EU) nr. 1017/2013](eu/32013r1017)), nr. 80 (forordning [(EU) nr. 1066/2013](eu/32013r1066)), nr. 81 (forordning [(EU) nr. 155/2014](eu/32014r0155)), nr. 82 (forordning [(EU) nr. 175/2014](eu/32014r0175)), nr. 85 (forordning [(EU) nr. 40/2014](eu/32014r0040)), nr. 91 (forordning [(EU) nr. 1154/2014](eu/32014r1154)), nr. 94 (forordning [(EU) nr. 1229/2014](eu/32014r1229)), nr. 98 (forordning [(EU) 2015/402](eu/32015r0402)), nr. 99 (forordning [(EU) 2015/539](eu/32015r0539)), nr. 100 (forordning [(EU) 2015/7](eu/32015r0007)), nr. 101 (forordning [(EU) 2015/8](eu/32015r0008)), nr. 103 (forordning [(EU) 2015/1041](eu/32015r1041)), nr. 106 (forordning [(EU) 2015/1886](eu/32015r1886)), nr. 109 (forordning [(EU) 2015/2314](eu/32015r2314)), nr. 110 (forordning [(EU) 2016/371](eu/32016r0371)), nr. 112 (forordning [(EU) 2016/854](eu/32016r0854)), nr. 113 (forordning [(EU) 2016/862](eu/32016r0862)), nr. 115 (forordning [(EU) 2016/1379](eu/32016r1379)), nr. 119 (forordning [(EU) 2016/1411](eu/32016r1411)), nr. 126 (forordning [(EU) 2017/1200](eu/32017r1200)), nr. 127 (forordning [(EU) 2017/1201](eu/32017r1201)), nr. 128 (forordning [(EU) 2017/1202](eu/32017r1202)), nr. 135 (forordning [(EU) 2018/199](eu/32018r0199)), nr. 153 (forordning [(EU) 2018/1556](eu/32018r1556)), nr. 193 (forordning [(EU) 2021/77](eu/32021r0077)), nr. 217 (forordning [(EU) 2022/711](eu/32022r0711)), nr. 218 (forordning [(EU) 2022/719](eu/32022r0719)), nr. 238 (forordning [(EU) 2023/1101](eu/32023r1101)), nr. 257 (forordning [(EU) 2024/2063](eu/32024r2063)), nr. 259 (forordning [(EU) 2024/2105](eu/32024r2105)), nr. 265 (forordning [(EU) 2025/350](eu/32025r0350)), nr. 271 (forordning [(EU) 2025/1560](eu/32025r1560)) og nr. 273 (forordning [(EU) 2025/2223](eu/32025r2223)) om innvilgelse og avslag på bruk av helsepåstander på næringsmidler, andre enn de som gjelder påstander om redusert sykdomsrisiko og barns utvikling og helse, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg II, kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzzz (forordning [(EU) nr. 958/2010](eu/32010r0958)), nr. 54zzzzu (forordning [(EU) nr. 1161/2010](eu/32010r1161)), nr. 54zzzzw (beslutning [2009/980/EU](eu/32009d0980) som endret ved beslutning [2010/770/EU](eu/32010d0770)), nr. 54zzzzzc (forordning [(EF) nr. 984/2009](eu/32009r0984)), nr. 54zzzzze (forordning [(EF) nr. 1025/2009](eu/32009r1025)), nr. 54zzzzzg (forordning [(EF) nr. 1168/2009](eu/32009r1168)), nr. 54zzzzzh (forordning [(EU) nr. 375/2010](eu/32010r0375)), nr. 54zzzzzi (forordning [(EU) nr. 382/2010](eu/32010r0382)), nr. 54zzzzzj (forordning [(EU) nr. 383/2010](eu/32010r0383)), nr. 54zzzzzo (forordning [(EU) nr. 379/2012](eu/32012r0379)), nr. 57 (forordning [(EU) nr. 432/2011](eu/32011r0432)), nr. 60 (forordning [(EU) nr. 666/2011](eu/32011r0666)), nr. 67 (forordning [(EU) nr. 1171/2011](eu/32011r1171)), nr. 78 (forordning [(EU) nr. 851/2013](eu/32013r0851)), nr. 79 (forordning [(EU) nr. 1017/2013](eu/32013r1017)), nr. 80 (forordning [(EU) nr. 1066/2013](eu/32013r1066)), nr. 81 (forordning [(EU) nr. 155/2014](eu/32014r0155)), nr. 82 (forordning [(EU) nr. 175/2014](eu/32014r0175)), nr. 85 (forordning [(EU) nr. 40/2014](eu/32014r0040)), nr. 91 (forordning [(EU) nr. 1154/2014](eu/32014r1154)), nr. 94 (forordning [(EU) nr. 1229/2014](eu/32014r1229)), nr. 98 (forordning [(EU) 2015/402](eu/32015r0402)), nr. 99 (forordning [(EU) 2015/539](eu/32015r0539)), nr. 100 (forordning [(EU) 2015/7](eu/32015r0007)), nr. 101 (forordning [(EU) 2015/8](eu/32015r0008)), nr. 103 (forordning [(EU) 2015/1041](eu/32015r1041)), nr. 106 (forordning [(EU) 2015/1886](eu/32015r1886)), nr. 109 (forordning [(EU) 2015/2314](eu/32015r2314)), nr. 110 (forordning [(EU) 2016/371](eu/32016r0371)), nr. 112 (forordning [(EU) 2016/854](eu/32016r0854)), nr. 113 (forordning [(EU) 2016/862](eu/32016r0862)), nr. 115 (forordning [(EU) 2016/1379](eu/32016r1379)), nr. 119 (forordning [(EU) 2016/1411](eu/32016r1411)), nr. 126 (forordning [(EU) 2017/1200](eu/32017r1200)), nr. 127 (forordning [(EU) 2017/1201](eu/32017r1201)), nr. 128 (forordning [(EU) 2017/1202](eu/32017r1202)), nr. 135 (forordning [(EU) 2018/199](eu/32018r0199)), nr. 153 (forordning [(EU) 2018/1556](eu/32018r1556)), nr. 193 (forordning [(EU) 2021/77](eu/32021r0077)), nr. 217 (forordning [(EU) 2022/711](eu/32022r0711)), nr. 218 (forordning [(EU) 2022/719](eu/32022r0719)), nr. 238 (forordning [(EU) 2023/1101](eu/32023r1101)), nr. 257 (forordning [(EU) 2024/2063](eu/32024r2063)), nr. 259 (forordning [(EU) 2024/2105](eu/32024r2105)), nr. 265 (forordning [(EU) 2025/350](eu/32025r0350)), nr. 271 (forordning [(EU) 2025/1560](eu/32025r1560)), nr. 273 (forordning [(EU) 2025/2223](eu/32025r2223)) og nr. 283 (forordning [(EU) 2026/1118](eu/32026r1118)) om innvilgelse og avslag på bruk av helsepåstander på næringsmidler, andre enn de som gjelder påstander om redusert sykdomsrisiko og barns utvikling og helse, gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved [forskrift 5 juli 2011 nr. 774](forskrift/2011-07-05-774), endret ved forskrifter [24 okt 2011 nr. 1060](forskrift/2011-10-24-1060) (i kraft 1 nov 2011), [30 mars 2012 nr. 298](forskrift/2012-03-30-298), [18 juni 2012 nr. 591](forskrift/2012-06-18-591), [11 des 2012 nr. 1234](forskrift/2012-12-11-1234), [4 feb 2013 nr. 139](forskrift/2013-02-04-139), [8 april 2014 nr. 522](forskrift/2014-04-08-522), [19 mai 2014 nr. 653](forskrift/2014-05-19-653), [26 sep 2014 nr. 1312](forskrift/2014-09-26-1312), [25 mars 2015 nr. 313](forskrift/2015-03-25-313), [12 juni 2015 nr. 655](forskrift/2015-06-12-655), [29 sep 2015 nr. 1188](forskrift/2015-09-29-1188), [30 okt 2015 nr. 1255](forskrift/2015-10-30-1255), [9 feb 2016 nr. 123](forskrift/2016-02-09-123), [8 juli 2016 nr. 924](forskrift/2016-07-08-924), [3 des 2016 nr. 1480](forskrift/2016-12-03-1480), [4 feb 2017 nr. 147](forskrift/2017-02-04-147), [25 sep 2017 nr. 1594](forskrift/2017-09-25-1594), [24 sep 2018 nr. 1464](forskrift/2018-09-24-1464), [30 mars 2019 nr. 426](forskrift/2019-03-30-426), [7 sep 2021 nr. 2695](forskrift/2021-09-07-2695), [12 des 2022 nr. 2160](forskrift/2022-12-12-2160), [30 okt 2023 nr. 1781](forskrift/2023-10-30-1781), [9 des 2024 nr. 3007](forskrift/2024-12-09-3007), [16 juni 2025 nr. 1044](forskrift/2025-06-16-1044), [6 feb 2026 nr. 168](forskrift/2026-02-06-168), [23 mars 2026 nr. 455](forskrift/2026-03-23-455).
+> Tilføyd ved [forskrift 5 juli 2011 nr. 774](forskrift/2011-07-05-774), endret ved forskrifter [24 okt 2011 nr. 1060](forskrift/2011-10-24-1060) (i kraft 1 nov 2011), [30 mars 2012 nr. 298](forskrift/2012-03-30-298), [18 juni 2012 nr. 591](forskrift/2012-06-18-591), [11 des 2012 nr. 1234](forskrift/2012-12-11-1234), [4 feb 2013 nr. 139](forskrift/2013-02-04-139), [8 april 2014 nr. 522](forskrift/2014-04-08-522), [19 mai 2014 nr. 653](forskrift/2014-05-19-653), [26 sep 2014 nr. 1312](forskrift/2014-09-26-1312), [25 mars 2015 nr. 313](forskrift/2015-03-25-313), [12 juni 2015 nr. 655](forskrift/2015-06-12-655), [29 sep 2015 nr. 1188](forskrift/2015-09-29-1188), [30 okt 2015 nr. 1255](forskrift/2015-10-30-1255), [9 feb 2016 nr. 123](forskrift/2016-02-09-123), [8 juli 2016 nr. 924](forskrift/2016-07-08-924), [3 des 2016 nr. 1480](forskrift/2016-12-03-1480), [4 feb 2017 nr. 147](forskrift/2017-02-04-147), [25 sep 2017 nr. 1594](forskrift/2017-09-25-1594), [24 sep 2018 nr. 1464](forskrift/2018-09-24-1464), [30 mars 2019 nr. 426](forskrift/2019-03-30-426), [7 sep 2021 nr. 2695](forskrift/2021-09-07-2695), [12 des 2022 nr. 2160](forskrift/2022-12-12-2160), [30 okt 2023 nr. 1781](forskrift/2023-10-30-1781), [9 des 2024 nr. 3007](forskrift/2024-12-09-3007), [16 juni 2025 nr. 1044](forskrift/2025-06-16-1044), [6 feb 2026 nr. 168](forskrift/2026-02-06-168), [23 mars 2026 nr. 455](forskrift/2026-03-23-455), [1 okt 2026 nr. 1962](forskrift/2026-10-01-1962).
 
 ## § 3. Avgjørelser av søknader om bruk av helsepåstander etter artikkel 14 i forordning (EF) nr. 1924/2006
 
@@ -8001,3 +8001,63 @@ Avslått helsepåstand
 | *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
 | --- | --- | --- | --- |
 | Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Citikolin (CDP-kolin), indre salt | Citikolin støtter forbedring eller opprettholdelse av hukommelsesfunksjonen eller redusert hukommelsestap hos friske middelaldrende eller eldre mennesker som opplever aldersrelatert subjektiv nedsatt hukommelse | Q-2022-00411 |
+
+### Forordning [(EU) 2026/1118](eu/32026r1118)
+
+> Tilføyd ved forskrift [1 okt 2026 nr. 1962](forskrift/2026-10-01-1962).
+
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2026/1118](eu/32026r1118) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 283.
+
+### KOMMISJONSFORORDNING [(EU) 2026/1118](eu/32026r1118)
+
+av 26. mai 2026
+om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler[^1], særlig artikkel 18 nr. 5, og
+
+ut fra følgende betraktninger:
+
+1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
+2. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) kan driftsansvarlige for næringsmiddelforetak inngi søknader om oppføring av helsepåstander på EU-listen over tillatte helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
+3. Etter å ha mottatt søknaden skal myndigheten avgi uttalelse om den aktuelle helsepåstanden.
+4. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstanden.
+5. Etter en søknad fra Alzchem Trostberg GmbH («søkeren») inngitt i henhold til artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) ble myndigheten bedt om å avgi uttalelse om det vitenskapelige grunnlaget for en helsepåstand om kreatin og bedret kognitiv funksjon (spørsmål nr. EFSA-Q-2024-00106). Søkerens foreslåtte påstand hadde følgende ordlyd: «Daglig kreatintilskudd kan bidra til bedret kognitiv funksjon».
+6. Den 19. november 2024 offentliggjorde myndigheten sin vitenskapelige uttalelse[^2] vedrørende denne helsepåstanden.
+7. Myndigheten konkluderte i sin vitenskapelige uttalelse med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom kreatintilskudd og bedring av den kognitive funksjonen på ett eller flere områder, for eksempel hukommelse, taleflyt, oppmerksomhet, årvåkenhet, prosesseringshastighet, psykomotorisk hastighet, eksekutiv funksjon og generell kognitiv evne eller fleksibilitet og flytende intelligens.
+8. Derfor, ettersom helsepåstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924) for oppføring på unionslisten over tillatte helsepåstander, bør den ikke godkjennes.
+9. Myndigheten sendte sin vitenskapelige uttalelse til Kommisjonen, søkeren og medlemsstatene. Etter offentliggjøring av nevnte uttalelse har Kommisjonen ikke mottatt kommentarer fra søkeren eller andre personer i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
+10. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9, ELI: http://data.europa.eu/eli/reg/2006/1924/oj.
+
+2 EFSA Journal 2024;22: e9100. https://doi.org/10.2903/j.efsa.2024.9100.
+
+VEDTATT DENNE FORORDNINGEN:
+
+### Artikkel 1
+
+Helsepåstanden angitt i vedlegget til denne forordningen skal ikke oppføres på EU-listen over tillatte helsepåstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
+
+### Artikkel 2
+
+Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
+
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 26. mai 2026.
+
+*For Kommisjonen*
+Ursula VON DER LEYEN
+*President*
+
+### VEDLEGG
+
+Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddel­kategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på ny vitenskapelig dokumentasjon og/eller inneholder en anmodning om vern av data underlagt eiendomsrett | Kreatin | Kreatintilskudd bedrer den kognitive funksjonen | Q-2024-00106 |
