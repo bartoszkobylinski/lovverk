@@ -7,10 +7,11 @@ lovverk is a Git-versioned Markdown corpus of current Norwegian laws and central
 - Every current Norwegian **lov** (law) and **sentral forskrift** (central regulation) as one Markdown file with YAML front matter — the **Published Rendering** of the source document, deterministically rendered from Lovdata's XML.
 - Every change in the source data lands as a Git commit. This repository's Git history is the authoritative record of **published corpus states** — what the corpus said, and when. It is not an authoritative record of Norwegian law; for legal content, Lovdata is authoritative.
 - Per-document change history, per-section embedding vectors, and dataset indexes are published alongside the documents.
+- A separate dataset, `lokale-forskrifter/`, for local regulations observed on kommune and fylkeskommune websites — not from Lovdata, not under NLOD; see [Local regulations](#local-regulations-lokale-forskrifter). It is empty until the first regulation is promoted.
 
 This repository contains generated corpus artifacts and control metadata. The code that produces the corpus — ingestion, rendering, sync, embedding generation, search, and the MCP server — lives in `lovspor`. There is no application code here; the corpus artifacts are generated rather than hand-maintained.
 
-**Production.** Auto-synced daily at 04:00 UTC. The corpus tracks every current *lov* and *sentral forskrift* — 5,880 documents (759 lover + 5,121 sentrale forskrifter) as of 2026-08-04. Counts change daily; each dataset's `INDEX.md` carries its live count, and `manifest.json` is the authoritative statement of current corpus membership.
+**Production.** Auto-synced daily at 04:00 UTC. The corpus tracks every current *lov* and *sentral forskrift* — 5,880 documents (759 lover + 5,121 sentrale forskrifter) as of 2026-08-04. Counts change daily; each dataset's `INDEX.md` carries its live count, and `manifest.json` is the authoritative statement of current membership of the two Lovdata datasets. Local regulations are a separate dataset with their own manifest — see [Local regulations](#local-regulations-lokale-forskrifter).
 
 ## Repository contents
 
@@ -23,7 +24,10 @@ lovverk/
 │   ├── history/<slug>.md           # the same history as a human-readable derived view
 │   └── embeddings/<slug>.bin       # per-section embedding vectors (LSPE v2, int8-quantized)
 ├── forskrifter/                    # current central regulations (same layout)
-└── manifest.json                   # authoritative corpus membership + per-document metadata
+├── lokale-forskrifter/             # local regulations observed on kommune/fylkeskommune websites
+│   ├── manifest.json               # this dataset's own membership file (see below)
+│   └── <authority_id>/<slug>.md    # one document per regulation, per enacting authority
+└── manifest.json                   # authoritative membership of lover/ and forskrifter/ + per-document metadata
 ```
 
 - **`<slug>.md`** — the rendered legal text with YAML front matter (identity, title, retrieval provenance, EU/EEA basis, NLOD attribution).
@@ -39,7 +43,7 @@ Four things are authoritative for four different questions, and they do not subs
 
 - **Lovdata** is authoritative for Norwegian legal source text.
 - **This repository's Git history** is authoritative for published corpus states — it is the corpus's version store, not housekeeping. Historical states are intentionally retained, `lovspor`'s temporal tools (`get_law_at`, `list_law_versions`, `diff_law_versions`) answer directly from it, and canonical history is never force-pushed or rewritten; doing so would break the version model, so recovery from a bad sync is `git revert`, never a rewrite. The generated `history/` files are derived projections of this history, convenient to read but never a replacement for it.
-- **`manifest.json`** is authoritative for current corpus membership and per-document control metadata. File presence alone never determines membership.
+- **The manifests** are authoritative for current corpus membership and per-document control metadata, each for its own dataset: the root `manifest.json` for `lover/` and `forskrifter/`, `lokale-forskrifter/manifest.json` for local regulations. File presence alone never determines membership.
 - **The Published Renderings** are evidence of what this project published — a lossy, unofficial derivative, not canonical legal text.
 
 Nothing derived — an embedding, a search result, a rendered Markdown file, a manifest field — independently establishes what the law legally means.
@@ -84,7 +88,7 @@ claude mcp add lovverk -- uvx lovspor mcp
 
 Sixteen read-only tools: search (keyword and semantic), section-level retrieval, per-act history, point-in-time text, diffs, citation validation, and verbatim-quote verification. See [`lovspor/docs/mcp.md`](https://github.com/bartoszkobylinski/lovspor/blob/main/docs/mcp.md). Semantic search additionally needs an operator-supplied OpenAI key; everything else runs fully local.
 
-What you should **not** infer from this corpus: that a rule does not exist because it is absent here (the corpus covers acts and central regulations only — no circulars, court practice, forarbeider, or municipal regulations); that a retrieval hit answers a legal question (it locates text, nothing more); or that historical corpus states describe when a provision was legally in force (Git history records what the *corpus* held on a date — corpus-retrieval time, not legal-validity time).
+What you should **not** infer from this corpus: that a rule does not exist because it is absent here (the corpus covers acts and central regulations only — no circulars, court practice or forarbeider; local regulations only as far as they have been observed and promoted into `lokale-forskrifter/`, which is no register of them); that a retrieval hit answers a legal question (it locates text, nothing more); or that historical corpus states describe when a provision was legally in force (Git history records what the *corpus* held on a date — corpus-retrieval time, not legal-validity time).
 
 ## How updates work
 
@@ -101,7 +105,19 @@ Every document records the SHA-256 of its normalized source XML in `manifest.jso
 
 ## Relationship to lovspor
 
-[`lovspor`](https://github.com/bartoszkobylinski/lovspor) (public, AGPL-3.0) is the engine; `lovverk` (this repository) is its published output. The only normal write path for corpus artifacts into this repository is the engine's scheduled sync. Consuming the corpus never requires the engine — a clone plus `manifest.json` is a complete, self-describing dataset — but everything programmatic (search, MCP, temporal tools, verification) lives on the engine side.
+[`lovspor`](https://github.com/bartoszkobylinski/lovspor) (public, AGPL-3.0) is the engine; `lovverk` (this repository) is its published output. The only normal write paths for corpus artifacts into this repository are the engine's: its scheduled sync for `lover/`, `forskrifter/` and the root manifest, and its local-regulation promotion (not yet built) for `lokale-forskrifter/` — neither writes the other's files. Consuming the corpus never requires the engine — a clone plus `manifest.json` is a complete, self-describing dataset — but everything programmatic (search, MCP, temporal tools, verification) lives on the engine side.
+
+## Local regulations (`lokale-forskrifter/`)
+
+`lokale-forskrifter/` is a separate dataset for local regulations (*lokale forskrifter*) enacted by kommuner and fylkeskommuner. It is currently an empty skeleton: its manifest exists, no regulation has been promoted into it yet.
+
+- **Where the text comes from.** Lovdata's public-data API does not serve local regulations. They are captured from the enacting authority's own website by `lovspor`'s local-law observatory, and only an artifact classified as an enacted regulation is promoted into this directory — never a hearing, case document, protocol or individual decision. Nothing in this directory is Lovdata data.
+- **Basis for publication: åndsverkloven § 14.** Laws, regulations and other decisions by public authorities are not subject to copyright (åndsverkloven § 14), and the local regulations here are published on that basis. They are **not** published under NLOD 2.0: that is the licence under which Lovdata distributes its data, and it applies to `lover/` and `forskrifter/` only. Every document states `source_license: "åndsverkloven § 14"` in its front matter, and the integrity check refuses any file in this directory that mentions NLOD.
+- **Observed, not asserted.** A document here records that this text was retrievable from the authority's website when it was observed — nothing more. It has not been checked against Norsk Lovtidend or Lovdata, and this project does not assert that the regulation is in force, current, complete or the authoritative version. Every document carries `basis: "observed"` and `asserted: false`. A local regulation missing from this directory may well exist.
+- **ObservedAt provenance.** Observation time has its own fields and is never fused with another time axis: `observed_at_first` in the front matter is the first observation of that version of the text, and `<authority_id>/observations/<slug>.json` holds each version's observation intervals and source URLs. Git commit dates record when the corpus took a version in, and are never backdated to the observation; `vedtatt` and `ikraft` are filled only where the regulation's text states them.
+- **Identity and layout.** Documents live at `lokale-forskrifter/<authority_id>/<slug>.md`, where `authority_id` is the SSB KLASS code of the enacting authority (four digits for a kommune, two for a fylkeskommune). The id is `lf-yyyymmdd-nnnn` when the regulation's own identification block states its date and number, otherwise a deterministic `lk-<authority_id>-<hash>`. `(authority_id, slug)` is unique; two kommuner may each have a `renovasjonsforskrift`.
+- **A manifest of its own.** `lokale-forskrifter/manifest.json` has the root manifest's shape (`documents`, `generated_at`, `version`), keyed by id; records carry `authority_id`, `authority_type`, `content_hash` (over the normalised extracted text — there is no XML, so no `xml_hash`), `version` and `extractor_version`. The root `manifest.json` never lists a local regulation, so tools and engines that read only the root manifest are unaffected by this dataset, and CI fails any change that writes `lokale-forskrifter/` together with the root manifest, `lover/` or `forskrifter/`.
+- **Personal data** is minimised under personopplysningsloven before anything is committed: only the regulation body is rendered, never page chrome, contact details or signatures, and a regulation whose body carries personal data is held for human review rather than published.
 
 ## Source and attribution
 
@@ -111,7 +127,7 @@ Data source: Lovdata public-data API
 
 > Contains data under the Norwegian licence for Open Government data (NLOD) 2.0, distributed by Lovdata. The data has been converted to Markdown by the [lovspor](https://github.com/bartoszkobylinski/lovspor) project.
 
-License: [NLOD 2.0](https://data.norge.no/nlod/no/2.0/) for the derived legal text (including the generated history files), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) for the repository structure, manifest schema and README. See [LICENSE](LICENSE).
+License: [NLOD 2.0](https://data.norge.no/nlod/no/2.0/) for the derived legal text in `lover/` and `forskrifter/` (including the generated history files); local regulations in `lokale-forskrifter/` are published on the basis of åndsverkloven § 14, not NLOD (see [Local regulations](#local-regulations-lokale-forskrifter)); [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) for the repository structure, manifest schema and README. See [LICENSE](LICENSE).
 
 ## Limitations
 
