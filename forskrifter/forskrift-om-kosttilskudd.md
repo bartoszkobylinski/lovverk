@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-05-28"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-09-28"
 last_updated: "2024-04-25"
-xml_hash: "8b4d7fbc1846da400e5881eb92a1013f8220f973e77f84f77fe48484705b22da"
+xml_hash: "d825e450e57b394498f206e57430c6639e6533834835594f0ab1c5145b643684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-03T09:48:36.286129+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -403,6 +403,8 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 - jernfosfat
 - jernammoniumfosfat
 - jernnatrium EDTA
+- jernhydroksid adipattartrat (nano)[^1]
+- jern-melkekaseinat[^1]
 - jern(II)taurat
 - kobberkarbonat
 - kobbersitrat
@@ -514,4 +516,4 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 
 8 I form av gel.
 
-> Endret ved [forskrifter 4 mai 2007 nr. 477](forskrift/2007-05-04-477), [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [12 juni 2015 nr. 682](forskrift/2015-06-12-682), [1 juli 2016 nr. 869](forskrift/2016-07-01-869), [30 mai 2017 nr. 671](forskrift/2017-05-30-671), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [6 sep 2021 nr. 2677](forskrift/2021-09-06-2677), [22 sep 2025 nr. 1898](forskrift/2025-09-22-1898), [9 feb 2026 nr. 172](forskrift/2026-02-09-172), [23 mars 2026 nr. 466](forskrift/2026-03-23-466).
+> Endret ved [forskrifter 4 mai 2007 nr. 477](forskrift/2007-05-04-477), [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [12 juni 2015 nr. 682](forskrift/2015-06-12-682), [1 juli 2016 nr. 869](forskrift/2016-07-01-869), [30 mai 2017 nr. 671](forskrift/2017-05-30-671), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [6 sep 2021 nr. 2677](forskrift/2021-09-06-2677), [22 sep 2025 nr. 1898](forskrift/2025-09-22-1898), [9 feb 2026 nr. 172](forskrift/2026-02-09-172), [23 mars 2026 nr. 466](forskrift/2026-03-23-466), [28 sep 2026 nr. 1961](forskrift/2026-09-28-1961).
