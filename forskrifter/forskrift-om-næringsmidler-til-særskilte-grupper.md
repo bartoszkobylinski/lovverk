@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2014-01-10"
-last_change_in_force: "2026-09-25"
+last_change_in_force: "2026-09-28"
 last_updated: "2021-07-16"
-xml_hash: "653679504932b7c254c9d5e9cdf7435b906da927277adef91529b0fb65311309"
+xml_hash: "6978e03cac22f69bbb6ba79a1bff2f0ca6f06b90b00dd029d0305676c1b609a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-10-03T09:48:36.286129+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,11 +24,11 @@ eu_basis: []
 
 ## § 1. Gjennomføring av forordning (EU) nr. 609/2013 mv.
 
-[EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 77 (forordning [(EU) nr. 609/2013](eu/32013r0609) som endret ved forordning [(EU) 2017/1091](eu/32017r1091), forordning [(EU) 2021/571](eu/32021r0571), forordning [(EU) 2023/439](eu/32023r0439) og forordning [(EU) 2025/1735](eu/32025r1735)) om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og [(EF) nr. 953/2009](eu/32009r0953), gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 77 (forordning [(EU) nr. 609/2013](eu/32013r0609) som endret ved forordning [(EU) 2017/1091](eu/32017r1091), forordning [(EU) 2021/571](eu/32021r0571), forordning [(EU) 2023/439](eu/32023r0439), forordning [(EU) 2024/2791](eu/32024r2791) og forordning [(EU) 2025/1735](eu/32025r1735)) om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og [(EF) nr. 953/2009](eu/32009r0953), gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
 [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XII nr. 54zzzzl (forordning [(EF) nr. 953/2009](eu/32009r0953) som endret ved forordning [(EU) nr. 1161/2011](eu/32011r1161)) om stoffer som for særlige ernæringsformål kan tilsettes næringsmidler til bruk ved spesielle ernæringsmessige behov gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 15 juni 2016 nr. 659](forskrift/2016-06-15-659) (i kraft 20 juli 2016), [25 sep 2017 nr. 1526](forskrift/2017-09-25-1526), [12 juli 2021 nr. 2413](forskrift/2021-07-12-2413), [23 sep 2023 nr. 1586](forskrift/2023-09-23-1586), [9 feb 2026 nr. 193](forskrift/2026-02-09-193).
+> Endret ved [forskrifter 15 juni 2016 nr. 659](forskrift/2016-06-15-659) (i kraft 20 juli 2016), [25 sep 2017 nr. 1526](forskrift/2017-09-25-1526), [12 juli 2021 nr. 2413](forskrift/2021-07-12-2413), [23 sep 2023 nr. 1586](forskrift/2023-09-23-1586), [9 feb 2026 nr. 193](forskrift/2026-02-09-193), [28 sep 2026 nr. 1961](forskrift/2026-09-28-1961).
 
 ## § 1a. Gjennomføring av forordning (EU) 2016/128
 
@@ -83,13 +83,18 @@ For å gjøre det lettere å finne frem til ordlyden i de forordningene som blir
 
 ### Konsolidert forordning (EU) nr. 609/2013
 
-> Endret ved [forskrifter 21 juli 2016 nr. 941](forskrift/2016-07-21-941), [25 sep 2017 nr. 1526](forskrift/2017-09-25-1526), [12 juli 2021 nr. 2413](forskrift/2021-07-12-2413), [23 sep 2023 nr. 1586](forskrift/2023-09-23-1586), [9 feb 2026 nr. 193](forskrift/2026-02-09-193).
+> Endret ved [forskrifter 21 juli 2016 nr. 941](forskrift/2016-07-21-941), [25 sep 2017 nr. 1526](forskrift/2017-09-25-1526), [12 juli 2021 nr. 2413](forskrift/2021-07-12-2413), [23 sep 2023 nr. 1586](forskrift/2023-09-23-1586), [9 feb 2026 nr. 193](forskrift/2026-02-09-193), [28 sep 2026 nr. 1961](forskrift/2026-09-28-1961).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 609/2013](eu/32013r0609). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2017/1091](eu/32017r1091), forordning [(EU) 2021/571](eu/32021r0571), forordning [(EU) 2023/439](eu/32023r0439) og forordning [(EU) 2025/1735](eu/32025r1735). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77, er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 609/2013](eu/32013r0609). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2017/1091](eu/32017r1091), forordning [(EU) 2021/571](eu/32021r0571), forordning [(EU) 2023/439](eu/32023r0439), forordning [(EU) 2024/2791](eu/32024r2791) og forordning [(EU) 2025/1735](eu/32025r1735). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77, er innarbeidet nedenfor.
+
+►**B** Forordning [(EU) nr. 609/2013](eu/32013r0609) av 12. juni 2013
+
+som endret ved
 
 - ►**M1** Forordning [(EU) 2017/1091](eu/32017r1091)
 - ►**M2** Forordning [(EU) 2021/571](eu/32021r0571)
 - ►**M3** Forordning [(EU) 2023/439](eu/32023r0439)
+- ►**M4** Forordning [(EU) 2024/2791](eu/32024r2791)
 - ►**M5** Forordning [(EU) 2025/1735](eu/32025r1735)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 609/2013](eu/32013r0609)
@@ -604,6 +609,7 @@ Utferdiget i Strasbourg, 12. juni 2013.
 |  |  | jern (karbonyl + elektrolytisk + hydrogenredusert) |  | X | X | X |
 | ►**M1** |  | jern(II)bisglysinat | X | X | X | X ◄**M1** |
 |  |  | jern-L-pidolat |  |  | X | X |
+| ►**M4** |  | jern-melkekaseinat[^5] | X<br>(I produkter som ikke er ment for spedbarn og småbarn) | X ◄**M4** |  |  |
 |  | Sink |  |  |  |  |  |
 |  |  | sinkacetat | X | X | X | X |
 |  |  | sinkklorid | X | X | X | X |
@@ -719,9 +725,15 @@ Utferdiget i Strasbourg, 12. juni 2013.
 
 4 Ved bruk i morsmelkerstatninger, tilskuddsblandinger, bearbeidede kornbaserte næringsmidler og barnemat kan bare formen L-cystin brukes.
 
+►**M4**
+
+5 Som oppført på EU-listen over nye næringsmidler i Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470).
+
+◄**M4**
+
 ►**M5**
 
-5 Som oppført på EU-listen over nye næringsmidler i Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72, ELI: [http://data.europa.eu/eli/reg_impl/2017/2470/oj](https://eur-lex.europa.eu/eli/reg_impl/2017/2470/oj)).
+6 Som oppført på EU-listen over nye næringsmidler i Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72, ELI: [http://data.europa.eu/eli/reg_impl/2017/2470/oj](http://data.europa.eu/eli/reg_impl/2017/2470/oj)).
 
 ◄**M5**
 
