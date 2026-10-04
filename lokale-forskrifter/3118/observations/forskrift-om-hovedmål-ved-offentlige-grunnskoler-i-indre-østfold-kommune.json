@@ -1,0 +1,50 @@
+{
+  "authority_id": "3118",
+  "doc_id": "lk-3118-979d6fd0f42e",
+  "schema_version": 1,
+  "slug": "forskrift-om-hovedmål-ved-offentlige-grunnskoler-i-indre-østfold-kommune",
+  "source_status": {
+    "http_status": 200,
+    "observed_at": "2026-08-24T11:05:06.922416Z",
+    "outcome": "retrieved"
+  },
+  "versions": [
+    {
+      "content_hash": "41962cb6c51d57b4a8d484ea4f0df479dc9981e547f0cf5178a40fc4adbb2138",
+      "corroborating_urls": [],
+      "observation_count": 1,
+      "observed_at_first": "2026-08-24T11:05:06.922416Z",
+      "observed_at_last": "2026-08-24T11:05:06.922416Z",
+      "primary_url": "https://www.io.kommune.no/tjenester/skole-og-utdanning/soknadsskjemaer-rutiner-og-reglement/forskrift-om-hovedmal-ved-offentlige-grunnskoler-i-indre-ostfold-kommune/",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-04T05:29:34.942857Z",
+        "decision": "approve",
+        "extractor_version": 2,
+        "identity": {
+          "candidates": [],
+          "doc_id": "lk-3118-979d6fd0f42e",
+          "ref_id": null,
+          "scheme": "lk"
+        },
+        "observations": [
+          {
+            "observed_at": "2026-08-24T11:05:06.922416Z",
+            "sha256": "1d3c9d70b395dbcc5b7c43209424a930331ff062e1d2c222a5c3a87f89665b38",
+            "url": "https://www.io.kommune.no/tjenester/skole-og-utdanning/soknadsskjemaer-rutiner-og-reglement/forskrift-om-hovedmal-ved-offentlige-grunnskoler-i-indre-ostfold-kommune/"
+          }
+        ],
+        "observations_through": "2026-10-04T05:29:34.942857Z",
+        "reason": "First promotion (ADR-0016 S4). Enacted forskrift; rendered text read in full against the source document.",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "source_sha256s": [
+        "1d3c9d70b395dbcc5b7c43209424a930331ff062e1d2c222a5c3a87f89665b38"
+      ],
+      "version": 1
+    }
+  ]
+}
