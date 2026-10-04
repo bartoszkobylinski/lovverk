@@ -1,0 +1,17 @@
+{
+  "doc_id": "lk-3118-979d6fd0f42e",
+  "events": [
+    {
+      "commit": "0370863",
+      "date": "2026-10-04",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 3118/forskrift-om-hovedmål-ved-offentlige-grunnskoler-i-indre-østfold-kommune v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-hovedmål-ved-offentlige-grunnskoler-i-indre-østfold-kommune"
+}
