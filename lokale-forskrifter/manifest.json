@@ -1,5 +1,22 @@
 {
-  "documents": {},
-  "generated_at": null,
+  "documents": {
+    "lk-3118-979d6fd0f42e": {
+      "authority_id": "3118",
+      "authority_type": "kommune",
+      "content_hash": "41962cb6c51d57b4a8d484ea4f0df479dc9981e547f0cf5178a40fc4adbb2138",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 2,
+      "last_seen": "2026-08-24T11:05:06.922416Z",
+      "markdown_path": "lokale-forskrifter/3118/forskrift-om-hovedmål-ved-offentlige-grunnskoler-i-indre-østfold-kommune.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-hovedmål-ved-offentlige-grunnskoler-i-indre-østfold-kommune",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "FORSKRIFT OM HOVEDMÅL VED OFFENTLIGE GRUNNSKOLER I INDRE ØSTFOLD KOMMUNE",
+      "version": 1
+    }
+  },
+  "generated_at": "2026-10-04T05:29:34.942857Z",
   "version": 1
 }
