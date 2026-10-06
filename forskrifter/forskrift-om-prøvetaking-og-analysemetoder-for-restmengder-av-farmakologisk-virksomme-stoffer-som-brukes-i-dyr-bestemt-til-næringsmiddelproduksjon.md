@@ -10,12 +10,12 @@ ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2022-05-02"
 last_change_in_force: "2026-07-13"
-last_updated: null
-xml_hash: "86d75f923027a3b6911a1f41ea47d824e1b2ae388ccbe906bce02ff9fd88d9ea"
+last_updated: "2026-10-05"
+xml_hash: "6f27b0fbab1730719ecffa4717bba46dad848cb4afd6fc4eb78de0e99fc45157"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-08T08:48:28.003863+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -354,7 +354,7 @@ Presisjon
 
 Variasjonskoeffisienten (CV) ved gjentatt analyse av et referansemateriale eller et materiale tilsatt analytt under interne reproduserbarhetsvilkår skal ikke overstige nivået beregnet ved hjelp av Horwitz’ ligning, Ligningen er:
 
-$$CV=2^{(1-0,5 \\log C)}$$
+$$CV=2^{(1-0{,}5 \\log C)}$$
 
 der C er massefraksjonen uttrykt som en potens av 10 (f.eks. 1 mg/g = 10–3). For massefraksjoner under 120 µg/kg gir Horwitz' ligning uakseptabelt høye verdier. Den høyeste tillatte variasjonskoeffisienten skal derfor ikke overstige verdiene angitt i tabell 2.
 
@@ -538,7 +538,7 @@ Et eksempel:
 3. Beregn gjennomsnittet, standardavviket og variasjonskoeffisienten (%) *for disse seks konsentrasjonene*.
 4. Beregn riktigheten ved å dividere den påviste gjennomsnittskonsentrasjonen med den sertifiserte verdien (målt som konsentrasjon) og multipliser med 100 for å uttrykke resultatet i prosent.
 
-   $$\\text{Riktighet (%)} = \\text{påvist gjennomsnittlig konsentrasjon korrigert for gjenfinning } \\cdot 100 / \\text{sertifisert verdi}$$
+   $$\\text{Riktighet (\\%)} = \\text{påvist gjennomsnittlig konsentrasjon korrigert for gjenfinning } \\cdot 100 / \\text{sertifisert verdi}$$
 
    26 ISO 5725-4:2020 Accuracy (trueness and precision) of measurement methods and results – Part 4: Basic methods for the determination of the trueness of a standard measurement method (punkt 3).
 
@@ -560,7 +560,7 @@ Dersom det ikke finnes noe sertifisert referansemateriale, skal metodens riktigh
 4. Beregn konsentrasjonen som påvises i hver prøve.
 5. Beregn riktigheten for hver prøve ved hjelp av ligningen nedenfor, og beregn deretter gjennomsnittlig riktighet og variasjonskoeffisient for de seks resultatene på hvert konsentrasjonsnivå.
 
-   $$\\text{Riktighet (%)} = \\text{påvist gjennomsnittlig konsentrasjon korrigert for gjenfinning } \\cdot 100 / \\text{tilsetningsnivå}$$
+   $$\\text{Riktighet (\\%)} = \\text{påvist gjennomsnittlig konsentrasjon korrigert for gjenfinning } \\cdot 100 / \\text{tilsetningsnivå}$$
 
 For metoder for godkjente stoffer som er validert før anvendelsesdatoen for denne forordningen, er det tilstrekkelig å bestemme metodens riktighet ved bruk av 6 delmengder med tilsetning ved 0,5, 1,0 og 1,5 ganger grenseverdien for restmengder eller høyeste tillatte innhold.
 
