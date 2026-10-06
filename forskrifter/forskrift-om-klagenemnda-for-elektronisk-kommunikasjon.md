@@ -8,14 +8,14 @@ short_title: null
 language: "nb"
 ministry:
   - "Digitaliserings- og forvaltningsdepartementet"
-date_in_force: null
-last_change_in_force: null
+date_in_force: "2026-09-30"
+last_change_in_force: "2026-09-30"
 last_updated: null
-xml_hash: "54f747f8b720294f2c7f6893cee6aa177ec356cb13db3afc48416d2cfe6b4962"
+xml_hash: "77e4c4e6c03b5a2d1b46978034dc432a69da031250b85f70881883a0188161ad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,4 +78,6 @@ Søksmål om klagenemndas vedtak rettes mot staten ved Klagenemnda for elektroni
 
 ## § 8. Ikrafttredelse
 
-Forskriften trer i kraft fra den tid departementet bestemmer.
+Forskriften trer i kraft fra den tid[^1] departementet bestemmer.
+
+1 Fra 30 sep 2026 iflg. vedtak [30 sep 2026 nr. 1990](forskrift/2026-09-30-1990).
