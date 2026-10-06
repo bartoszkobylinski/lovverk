@@ -10,12 +10,12 @@ ministry:
   - "Finansdepartementet"
 date_in_force: "2026-09-29"
 last_change_in_force: null
-last_updated: null
-xml_hash: "57cf2776d1bdc3c5ce31e29eb6ccf281c5d2490bbcdae724f5c07ae1b4c222b0"
+last_updated: "2026-10-05"
+xml_hash: "903c4f1e867def45ebdca80a41669c880c84028bb0c7040eef4a8ea83a40d6a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-02T10:26:49.535588+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,7 @@ Ved utstedelse av salgsdokumentasjon som nevnt i første og annet ledd, gjelder 
 
 [§ 8-14-2](forskrift/2004-12-01-1558/§8-14-2) nytt annet ledd skal lyde:
 
-Ved utstedelse av salgsdokumentasjon som nevnt i først ledd, gjelder ikke kravet i [bokføringsloven § 10 annet ledd](lov/2004-11-19-73/§10/ledd/2).
+Ved utstedelse av salgsdokumentasjon som nevnt i første ledd, gjelder ikke kravet i [bokføringsloven § 10 annet ledd](lov/2004-11-19-73/§10/ledd/2).
 
 ## II
 
