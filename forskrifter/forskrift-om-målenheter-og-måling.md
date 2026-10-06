@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2008-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-10-02"
 last_updated: "2023-09-05"
-xml_hash: "8120126d6f8d70acb48b48055db0f36b9210b4b3631e77f9ec1a6bbd6b590967"
+xml_hash: "7d27b20e9d4fd3957b4733fe4accfff10766bb3edfb99a5a7fb6455be0bee9e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -972,7 +972,7 @@ Bestemmelsen gjelder ikke for måleredskaper som brukes på Svalbard. For måler
 
 Mottaker skal betale avgift for tilsyn med målinger i forbindelse med mottak av fisk på fiskemottak.
 
-Avgiften er 0,84 promille av omsetning, dvs. pris per vektenhet multiplisert med veiet kvantum fisk slik pris og veiet kvantum fremkommer av forrige års utfylte sluttsedler. Avgiften skal likevel ikke være mer enn 300 000 kroner. Årsavgift på mindre enn 1 000 kroner kreves ikke inn.
+Avgiften er 0,75 promille av omsetning, dvs. pris per vektenhet multiplisert med veiet kvantum fisk slik pris og veiet kvantum fremkommer av forrige års utfylte sluttsedler. Avgiften skal likevel ikke være mer enn 300 000 kroner. Årsavgift på mindre enn 1 000 kroner kreves ikke inn.
 
 For foretak stiftet i løpet av avgiftsåret legges omsetning av fisk som er landet hos mottaker slik det fremkommer av utfylte sluttsedler per 30. november i stiftelsesåret, til grunn for beregning av tilsynsavgift i stiftelsesåret.
 
@@ -986,7 +986,7 @@ Med *landing* menes tilsvarende som definert i [landingsforskriften § 3](forskr
 
 Med *sluttseddel* menes tilsvarende som i landingsforskriften.
 
-> Tilføyd ved [forskrift 10 aug 2016 nr. 981](forskrift/2016-08-10-981) (i kraft 1 sep 2016), endret ved [forskrifter 22 sep 2017 nr. 1629](forskrift/2017-09-22-1629), [29 juni 2018 nr. 1202](forskrift/2018-06-29-1202) (i kraft 23 juli 2018), [1 okt 2019 nr. 1355](forskrift/2019-10-01-1355), [29 aug 2020 nr. 1698](forskrift/2020-08-29-1698), [29 aug 2021 nr. 2628](forskrift/2021-08-29-2628), [19 okt 2022 nr. 1775](forskrift/2022-10-19-1775), [23 okt 2023 nr. 1702](forskrift/2023-10-23-1702), [11 sep 2024 nr. 2442](forskrift/2024-09-11-2442), [1 okt 2025 nr. 2049](forskrift/2025-10-01-2049).
+> Tilføyd ved [forskrift 10 aug 2016 nr. 981](forskrift/2016-08-10-981) (i kraft 1 sep 2016), endret ved [forskrifter 22 sep 2017 nr. 1629](forskrift/2017-09-22-1629), [29 juni 2018 nr. 1202](forskrift/2018-06-29-1202) (i kraft 23 juli 2018), [1 okt 2019 nr. 1355](forskrift/2019-10-01-1355), [29 aug 2020 nr. 1698](forskrift/2020-08-29-1698), [29 aug 2021 nr. 2628](forskrift/2021-08-29-2628), [19 okt 2022 nr. 1775](forskrift/2022-10-19-1775), [23 okt 2023 nr. 1702](forskrift/2023-10-23-1702), [11 sep 2024 nr. 2442](forskrift/2024-09-11-2442), [1 okt 2025 nr. 2049](forskrift/2025-10-01-2049), [13 sep 2026 nr. 1988](forskrift/2026-09-13-1988) (i kraft 2 okt 2026).
 
 ### § 6-4. Gebyrer for tilsyn
 
