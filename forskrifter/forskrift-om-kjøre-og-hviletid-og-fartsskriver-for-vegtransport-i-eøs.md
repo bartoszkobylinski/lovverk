@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2007-08-01"
 last_change_in_force: "2026-07-07"
 last_updated: "2020-02-26"
-xml_hash: "6cad44aab51f8db6a1b62283b1937e19c42fd417fd9e20bdb71ce56cac656225"
+xml_hash: "e7cb901377c584cdc394c6024e7d0c0e70c52899c9120606aed5caebc0c8af34"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-11T06:10:43.704935+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ For utstedelse av fartsskriverkort betales ved oppmøte hos Statens vegvesen kr 
 
 Periodisk inspeksjon av digital og analog fartsskriver installert i kjøretøy skal utføres minst én gang i løpet av to år (24 måneder) etter siste inspeksjon.
 
-> Endret ved [forskrifter 22 des 2010 nr. 1795](forskrift/2010-12-22-1795) (i kraft 1 jan 2011), [24 mai 2011 nr. 529](forskrift/2011-05-24-529), [20 des 2011 nr. 1410](forskrift/2011-12-20-1410) (i kraft 1 jan 2012), [19 des 2012 nr. 1347](forskrift/2012-12-19-1347) (i kraft 1 jan 2013), [13 des 2013 nr. 1508](forskrift/2013-12-13-1508) (i kraft 1 jan 2014), [10 des 2014 nr. 1556](forskrift/2014-12-10-1556) (i kraft 1 jan 2015), [21 des 2015 nr. 1815](forskrift/2015-12-21-1815) (i kraft 1 jan 2016), [22 des 2016 nr. 1836](forskrift/2016-12-22-1836) (i kraft 1 jan 2017), [18 des 2017 nr. 2149](forskrift/2017-12-18-2149) (i kraft 1 jan 2018), [26 sep 2018 nr. 1476](forskrift/2018-09-26-1476) (i kraft 1 okt 2018), [20 des 2018 nr. 2195](forskrift/2018-12-20-2195) (i kraft 1 jan 2019), [17 des 2019 nr. 1877](forskrift/2019-12-17-1877) (i kraft 1 jan 2020), [19 des 2019 nr. 2044](forskrift/2019-12-19-2044) (i kraft 1 jan 2020), [18 des 2020 nr. 3038](forskrift/2020-12-18-3038) (i kraft 1 jan 2021), [21 des 2021 nr. 3838](forskrift/2021-12-21-3838) (i kraft 1 jan 2022), [7 des 2022 nr. 2217](forskrift/2022-12-07-2217), [22 des 2022 nr. 2477](forskrift/2022-12-22-2477) (i kraft 1 jan 2023), [20 des 2023 nr. 2236](forskrift/2023-12-20-2236) (i kraft 1 jan 2024), [19 des 2024 nr. 3280](forskrift/2024-12-19-3280) (i kraft 1 jan 2025), [29 jan 2026 nr. 109](forskrift/2026-01-29-109) (i kraft 1 feb 2026).
+> Endret ved [forskrifter 22 des 2010 nr. 1795](forskrift/2010-12-22-1795) (i kraft 1 jan 2011), [24 mai 2011 nr. 529](forskrift/2011-05-24-529), [20 des 2011 nr. 1410](forskrift/2011-12-20-1410) (i kraft 1 jan 2012), [19 des 2012 nr. 1347](forskrift/2012-12-19-1347) (i kraft 1 jan 2013), [13 des 2013 nr. 1508](forskrift/2013-12-13-1508) (i kraft 1 jan 2014), [10 des 2014 nr. 1556](forskrift/2014-12-10-1556) (i kraft 1 jan 2015), [21 des 2015 nr. 1815](forskrift/2015-12-21-1815) (i kraft 1 jan 2016), [22 des 2016 nr. 1836](forskrift/2016-12-22-1836) (i kraft 1 jan 2017), [18 des 2017 nr. 2149](forskrift/2017-12-18-2149) (i kraft 1 jan 2018), [26 sep 2018 nr. 1476](forskrift/2018-09-26-1476) (i kraft 1 okt 2018), [20 des 2018 nr. 2195](forskrift/2018-12-20-2195) (i kraft 1 jan 2019), [17 des 2019 nr. 1877](forskrift/2019-12-17-1877) (i kraft 1 jan 2020), [19 des 2019 nr. 2044](forskrift/2019-12-19-2044) (i kraft 1 jan 2020), [18 des 2020 nr. 3038](forskrift/2020-12-18-3038) (i kraft 1 jan 2021), [21 des 2021 nr. 3838](forskrift/2021-12-21-3838) (i kraft 1 jan 2022), [7 des 2022 nr. 2217](forskrift/2022-12-07-2217), [22 des 2022 nr. 2477](forskrift/2022-12-22-2477) (i kraft 1 jan 2023), [20 des 2023 nr. 2236](forskrift/2023-12-20-2236) (i kraft 1 jan 2024), [19 des 2024 nr. 3280](forskrift/2024-12-19-3280) (i kraft 1 jan 2025), [29 jan 2026 nr. 109](forskrift/2026-01-29-109) (i kraft 1 feb 2026), **Endres** ved forskrifter [2 okt 2026 nr. 1991](forskrift/2026-10-02-1991) (i kraft 1 jan 2027).
 
 ## § 5. Sjåførkort
 
