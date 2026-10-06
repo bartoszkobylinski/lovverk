@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-06-10"
-last_change_in_force: null
+last_change_in_force: "2026-10-02"
 last_updated: null
-xml_hash: "8ce1fa2b35df46fde5a930b884b4146c2c78688a681851450450754c0e836e94"
+xml_hash: "fc600fc01ded640ebf70e62014753b85d5f475c7de7749e2b573882fd6e98f14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,7 +49,9 @@ eu_basis: []
 
    Hvis det blir besluttet utleggstrekk etter nytt regelverk for utlegg, gjelder dette regelverket også i senere saker om utlegg mot skyldneren.
 
-   Bestemmelsene som nevnt i første avsnitt kommer uansett til anvendelse for alle skyldnere fra 1. januar 2027.
+   Bestemmelsene som nevnt i første avsnitt kommer uansett til anvendelse for alle skyldnere fra 1. januar 2028.
 2. *Delegering av myndighet etter [innkrevingsloven § 40 tredje ledd](lov/2025-04-25-12/§40/ledd/3)*
 
    Kongens myndighet etter [innkrevingsloven § 40 tredje ledd](lov/2025-04-25-12/§40/ledd/3) til å fastsette overgangsregler delegeres til Finansdepartementet.
+
+> Endret ved vedtak [2 okt 2026 nr. 1983](forskrift/2026-10-02-1983).
