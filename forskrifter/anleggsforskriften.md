@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-15"
 last_change_in_force: null
 last_updated: null
-xml_hash: "b6f3558ab27c6a02283e7c8dbf225873ac4e3e37f5e0ec066b930f321f628013"
+xml_hash: "dfabba3bf54edecfbdecfa0bc8c522555c1d845bfc23c3f821c2d3fa3af444fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -340,6 +340,8 @@ Plikten etter første ledd gjelder tilsvarende ved nybygg, rehabilitering og kj�
 Dersom anlegget planlegges stengt i mer enn tre måneder, skal anleggseier orientere fylkeskommunen før stengning. Ved stengning av anlegget i mer enn seks måneder, skal anleggseier søke fylkeskommunen om godkjenning av midlertidig stengning.
 
 Departementet kan i særlige tilfeller gi dispensasjon fra kravet etter første ledd.
+
+> **Endres** ved forskrift [29 sep 2026 nr. 1974](forskrift/2026-09-29-1974) (i kraft 15 okt 2026).
 
 ### § 24. Drift og bruk av anlegg – begrensninger
 
