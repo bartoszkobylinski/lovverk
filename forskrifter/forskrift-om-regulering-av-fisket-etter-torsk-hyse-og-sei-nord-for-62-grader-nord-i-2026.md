@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-09-16"
+last_change_in_force: "2026-10-01"
 last_updated: null
-xml_hash: "0fa33d6532a8e370b020f40367487387d911dbeb17e065faaf30e7d1b96bf1b4"
+xml_hash: "aedeecad6c2cd1771b8961b7e0555face64d989eff7393f6f69ebfb8cc9f4a0e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-25T09:32:58.782501+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -271,12 +271,12 @@ Kvoteenhet etter hjemmelslengde og største lengde er som følger:
 | --- | --- | --- | --- |
 | Under 11 m | Under 11 m | 4,1231 | Ubegrenset |
 | På eller over 11 m |  |  |  |
-| 11–14,99 m | Under 11 m | 4,0883 | 53,1481 |
-| På eller over 11 m | 28,6182 |  |  |
-| 15–20,99 m | Under 11 m | 3,8903 | 23,3417 |
-| På eller over 11 m | 13,6160 |  |  |
-| 21–27,99 m | Under 11 m | 3,7563 | 22,5376 |
-| På eller over 11 m | 13,1469 |  |  |
+| 11–14,99 m | Under 11 m | 4,0883 | 61,3247 |
+| På eller over 11 m | 32,7065 |  |  |
+| 15–20,99 m | Under 11 m | 3,8903 | 27,2319 |
+| På eller over 11 m | 15,5611 |  |  |
+| 21–27,99 m | Under 11 m | 3,7563 | 26,2938 |
+| På eller over 11 m | 15,0250 |  |  |
 
 Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):
 
@@ -287,12 +287,12 @@ Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):
 | 8–8,9 | 1,8211 | Ubegrenset | Ubegrenset | 7,509 |
 | 9–9,9 | 2,2530 | Ubegrenset | Ubegrenset | 9,289 |
 | 10–10,9 | 2,4047 | Ubegrenset | Ubegrenset | 9,915 |
-| 11–11,9 | 3,0735 | 163,351 | 87,958 | 12,565 |
-| 12–12,9 | 3,6451 | 193,730 | 104,316 | 14,902 |
-| 13–13,9 | 4,4216 | 234,999 | 126,538 | 18,077 |
-| 14–14,9 | 5,0363 | 267,670 | 144,130 | 20,590 |
-| 15–20,9 | 9,1056 | 212,540 | 123,982 | 35,423 |
-| 21–27,9 | 8,6219 | 194,317 | 113,351 | 32,386 |
+| 11–11,9 | 3,0735 | 188,481 | 100,523 | 12,565 |
+| 12–12,9 | 3,6451 | 223,535 | 119,218 | 14,902 |
+| 13 -13,9 | 4,4216 | 271,153 | 144,615 | 18,077 |
+| 14 -14,9 | 5,0363 | 308,849 | 164,720 | 20,590 |
+| 15–20,9 | 9,1056 | 247,963 | 141,693 | 35,423 |
+| 21–27,9 | 8,6219 | 226,703 | 129,544 | 32,386 |
 
 Fartøy som har fisket maksimalkvoten kan ha inntil 30 % bifangst av hyse i de enkelte fangster og ved landing.
 
@@ -300,7 +300,7 @@ Dersom fisket blir stoppet, kan det enkelte fartøy fortsette fisket innenfor de
 
 Når et fartøy gis tillatelse til å fiske flere kvoter av hyse i medhold av [forskrift 7. november 2003 nr. 1309 om spesielle kvoteordninger for kystfiskeflåten](forskrift/2003-11-07-1309), skal overførte kvoter beregnes ved bruk av samme kvoteenhet som ved beregning av mottakende fartøys grunnkvote.
 
-> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828), [20 mai 2026 nr. 858](forskrift/2026-05-20-858), [4 juni 2026 nr. 1009](forskrift/2026-06-04-1009), [31 aug 2026 nr. 1722](forskrift/2026-08-31-1722), [16 sep 2026 nr. 1869](forskrift/2026-09-16-1869).
+> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828), [20 mai 2026 nr. 858](forskrift/2026-05-20-858), [4 juni 2026 nr. 1009](forskrift/2026-06-04-1009), [31 aug 2026 nr. 1722](forskrift/2026-08-31-1722), [16 sep 2026 nr. 1869](forskrift/2026-09-16-1869), [1 okt 2026 nr. 1977](forskrift/2026-10-01-1977).
 
 ### § 19. Kvoter ved fiske etter sei
 
