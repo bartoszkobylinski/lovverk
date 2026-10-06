@@ -11,12 +11,12 @@ ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2020-04-07"
 last_change_in_force: "2025-09-30"
-last_updated: "2025-10-06"
-xml_hash: "983c10f314af5382467717ace011d7875b3655998bae2eb699abc382dd9bf6fa"
+last_updated: "2026-10-05"
+xml_hash: "a383e4df25ddb134b6bc1481922663c85896e5393eb955bccf22e093d3e99805"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -757,7 +757,7 @@ Analyseresultatene skal uttrykkes på den måten som er fastsatt i analysemetode
 
 De fleste nivåer fastsatt i regelverket (f.eks. øvre grenseverdi, nedre grenseverdi) i EUs regelverk for fôr er fastsatt for fôr med et vanninnhold på 12 %. For å vurdere analyseresultatet målt i prøven i forhold til nivået fastsatt i regelverket, må derfor analyseresultatet i disse tilfellene først divideres med tørrstoffinnholdet i prøven (i %) multiplisert med 88, som angitt i følgende formel:
 
-$$ R_{\\text{12 %}} = \\frac {88 \\cdot R_{ana}} {100 - Mc} $$
+$$ R_{\\text{12 \\%}} = \\frac {88 \\cdot R_{ana}} {100 - Mc} $$
 
 - der
   Mc: vanninnholdet i prøven (i %). 100 – Mc utgjør derfor tørrstoffinnholdet i prøven (i %).
@@ -3018,7 +3018,7 @@ Stivelsesinnholdet i % beregnes som følger:
 
 Polarimetriske målinger
 
-$$ \\text {Starch content (%)} = \\frac {2000 \\cdot P - P'} {[\\alpha]_D^{20°}}$$
+$$ \\text {Starch content (\\%)} = \\frac {2000 \\cdot P - P'} {[\\alpha]_D^{20°}}$$
 
 - P = total optisk dreining i buegrader
 - P' = optisk dreining i buegrader for de stoffer som er løselige i 40 % etanol (V/V)
@@ -3036,7 +3036,7 @@ $$ \\text {Starch content (%)} = \\frac {2000 \\cdot P - P'} {[\\alpha]_D^{20°}
 
 Måling med sakkarimeter
 
-$$ \\text {Starch content (%)} = \\frac {2000}{[\\alpha]_D^{20°}} \\cdot \\frac {(2N \\cdot 0{,}665) \\cdot (S - S')}{100} - \\frac {26{,}6N \\cdot (S - S')}{[\\alpha]_D^{20°}}$$
+$$ \\text {Starch content (\\%)} = \\frac {2000}{[\\alpha]_D^{20°}} \\cdot \\frac {(2N \\cdot 0{,}665) \\cdot (S - S')}{100} - \\frac {26{,}6N \\cdot (S - S')}{[\\alpha]_D^{20°}}$$
 
 - S = total optisk dreining i sakkarimetergrader
 - S' = optisk dreining i sakkarimetergrader for de stoffer som er oppløselige i 40 % etanol (v/v)
@@ -3810,7 +3810,7 @@ Pipetter 2,0 ml av stamløsningen av vitamin A-palmitat (punkt 3.12.1) over i en
 
 Beregning av vitamin A-innholdet:
 
-$$\\text {IU vitamin A} / \\text {ml} = E_{326} \\cdot 19,0$$
+$$\\text {IU vitamin A} / \\text {ml} = E_{326} \\cdot 19{,}0$$
 
 $$\\left( E_{1 \\text {cm}}^{1\\%} \\: \\text {for vitamin A palmitate} = 957 \\: \\text {at} \\: 326 \\: \\text {nm in} \\: 2 - \\right)$$
 
