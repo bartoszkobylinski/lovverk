@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-06-02"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-10-02"
 last_updated: null
-xml_hash: "a35e17b944e41cf4a6b26307c84b9edc41c267b36aeb249adecfdb2245eed53f"
+xml_hash: "7648e229d143537c6d2d27033b60d2d2016cff837f8f875c28358c61d025af15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-06T11:12:14.474092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,9 @@ Ved konflikt mellom forordningens bestemmelser og denne forskriften, går alltid
 
 ## § 3. Unntak fra kontroll for noen sammensatte produkter
 
-[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bz (forordning [(EU) 2021/630](eu/32021r0630), som endret ved forordning [(EU) 2023/2652](eu/32023r2652)) om utfyllende regler for europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til visse kategorier av varer unntatt fra offentlig kontroll ved grensekontrollstasjoner og endring av kommisjonsvedtak [2007/275/EF](eu/32007d0275) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bz (forordning [(EU) 2021/630](eu/32021r0630), som endret ved forordning [(EU) 2023/2652](eu/32023r2652) og forordning [(EU) 2026/908](eu/32026r0908)) om utfyllende regler for europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til visse kategorier av varer unntatt fra offentlig kontroll ved grensekontrollstasjoner og endring av kommisjonsvedtak [2007/275/EF](eu/32007d0275) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrift [11 feb 2025 nr. 187](forskrift/2025-02-11-187).
+> Endret ved forskrifter [11 feb 2025 nr. 187](forskrift/2025-02-11-187), [2 okt 2026 nr. 1980](forskrift/2026-10-02-1980).
 
 ## § 4. Tilsyn og vedtak
 
@@ -1172,16 +1172,17 @@ Dette kapittelet omfatter varer som stammer fra tredjestater, og som leveres til
 
 ### Konsolidert forordning [(EU) 2021/630](eu/32021r0630) om hvilke sammensatte produkter som er unntatt for grensekontroll
 
-> Endret ved forskrifter [31 jan 2023 nr. 115](forskrift/2023-01-31-115), [6 nov 2023 nr. 1822](forskrift/2023-11-06-1822), [11 feb 2025 nr. 187](forskrift/2025-02-11-187).
+> Endret ved forskrifter [31 jan 2023 nr. 115](forskrift/2023-01-31-115), [6 nov 2023 nr. 1822](forskrift/2023-11-06-1822), [11 feb 2025 nr. 187](forskrift/2025-02-11-187), [2 okt 2026 nr. 1980](forskrift/2026-10-02-1980).
 
-Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bz (forordning [(EU) 2021/630](eu/32021r0630) og forordning [(EU) 2023/2652](eu/32023r2652)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
+Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bz (forordning [(EU) 2021/630](eu/32021r0630), forordning [(EU) 2023/2652](eu/32023r2652) og forordning [(EU) 2026/908](eu/32026r0908)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
-Forordning [(EU) 2021/630](eu/32021r0630) er konsolidert med endringene gitt i forordning [(EU) 2023/2652](eu/32023r2652).
+Forordning [(EU) 2021/630](eu/32021r0630) er konsolidert med endringene gitt i forordning [(EU) 2026/908](eu/32026r0908).
 
 ►**B** Kommisjonsforordning [(EU) 2021/630](eu/32021r0630) av 16. februar 2021
 som endret ved:
 
 - ►**M4** Kommisjonsforordning [(EU) 2023/2652](eu/32023r2652) av 15. september 2023
+- ►**M5** Kommisjonsforordning [(EU) 2026/908](eu/32026r0908) av 27. april 2026
 
 ### DELEGERT KOMMISJONSFORORDNING (EU) 2021/630
 
@@ -1244,13 +1245,13 @@ I denne forordningen menes med
 3. De er merket med at de er beregnet på konsum.
 4. De er pakket eller forseglet på en forsvarlig måte.
 
-►**M4**
+►**M5**
 
-2\. Når langtidsholdbare sammensatte produkter som nevnt i nr. 1 bokstav a) bringes i omsetning, skal de ledsages av en privat erklæring i samsvar med modellen fastsatt i vedlegg V til Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)[^7].
+2\. Langtidsholdbare sammensatte produkter som nevnt i nr. 1 bokstav a) skal oppfylle kravene til privat erklæring i artikkel 22 til delegert forordning [(EU) 2022/2292](eu/32022r2292)[^7].
 
-◄**M4**
+7 Forordning [(EU) 2022/2292](eu/32022r2292) er gjennomført i norsk rett i [forskrift 27. desember 2023 nr. 2337 om offentlig kontroll – utfyllende bestemmelser om krav til import – forordning (EU) 2022/2292](forskrift/2023-12-27-2337).
 
-7 Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017*0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019r0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007d0240) (EUT L 442 av 30.12.2020, s. 1.
+◄**M5**
 
 ### Artikkel 4. Offentlig kontroll av sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjoner
 
@@ -1293,19 +1294,23 @@ Utferdiget i Brussel 16. februar 2021.
 
 Liste over sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjoner (artikkel 3)
 
+►**M5**
+
 På denne listen angis sammensatte produkter som i samsvar med Den kombinerte nomenklatur (KN) som brukes i Unionen, ikke trenger gjennomgå offentlig kontroll på en grensekontrollstasjon.
 
 Merknader til tabellen:
 
 **Kolonne 1 – KN-kode**
 
-I denne kolonnen angis KN-koden. KN, som ble innført ved forordning [(EØF) nr. 2658/87](eu/31987r2658), er basert på Det harmoniserte system for beskrivelse og koding av varer (Det harmoniserte system, HS), som er utarbeidet av Tollsamarbeidsrådet, nå Verdens tollorganisasjon, og godkjent gjennom rådsbeslutning [87/369/EØF](eu/31987d0369)[^8]. KN gjengir posisjonene og underposisjonene i HS med seks sifre. Det sjuende og åttende sifferet angir ytterligere underposisjoner i KN.
+I denne kolonnen angis KN-koden. KN, som ble innført ved rådsforordning [(EØF) nr. 2658/87](eu/31987r2658)[^8], er basert på Det harmoniserte system for beskrivelse og koding av varer (Det harmoniserte system, HS), som er utarbeidet av Tollsamarbeidsrådet, nå Verdens tollorganisasjon, og godkjent ved rådsbeslutning [87/369/EØF](eu/31987d0369)[^9]. KN gjengir posisjonene og underposisjonene i HS med seks sifre. Det sjuende og åttende sifferet angir ytterligere underposisjoner i KN.
 
 Når det blir brukt en kode med fire, seks eller åtte sifre som ikke er merket med «ex», behøver ikke sammensatte produkter der koden begynner med eller faller inn under disse fire, seks eller åtte sifrene, gjennomgå offentlig kontroll på en grensekontrollstasjon, med mindre annet er angitt.
 
-Når bare visse angitte sammensatte produkter som hører inn under en fire-, seks- eller åttesifret kode inneholder animalske produkter, og det ikke finnes noen særskilt inndeling av denne koden i KN, er koden angitt med «ex». For eksempel, om det står «ex 2001 90 65» kreves det ikke kontroll på grensekontrollstasjonene for produktene angitt i kolonne 3.
+Når bare visse spesifikke sammensatte produkter som hører inn under en fire-, seks- eller åttesifret kode inneholder animalske produkter, og det ikke finnes noen særskilt inndeling av denne koden i KN, er koden angitt med «ex». Dersom det for eksempel står «ex 2001 90 65», kreves det ikke kontroll på grensekontrollstasjonene for produktene angitt i kolonne 2.
 
-8 Rådsbeslutning [87/369/EØF](eu/31987d0369) av 7. april 1987 om inngåelse av Den internasjonale konvensjon om harmonisert varebeskrivelses- og kodesystem og av endringsprotokollen til konvensjonen (EFT L 198 av 20.7.1987, s. 1).
+8 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1, ELI: [https://data.europa.eu/eli/reg/1987/2658/oj](https://data.europa.eu/eli/reg/1987/2658/oj)).
+
+9 Rådsbeslutning [87/369/EØF](eu/31987d0369) av 7. april 1987 om inngåelse av Den internasjonale konvensjon om harmonisert varebeskrivelses- og kodesystem og av endringsprotokollen til konvensjonen (EFT L 198 av 20.7.1987, s. 1, ELI: [https://data.europa.eu/eli/dec/1987/369/oj](https://data.europa.eu/eli/dec/1987/369/oj)).
 
 **Kolonne 3 – Beskrivelse**
 
@@ -1314,11 +1319,15 @@ I denne kolonnen gis nærmere opplysninger om sammensatte produkter som omfattes
 | *KN-koder* | *Norsk tollposisjon* | *Beskrivelse* |
 | --- | --- | --- |
 | *(1)* | *(2)* | *(3)* |
-| 1704;<br>ex 1806 20;<br>ex 1806 31 00;<br>ex 1806 32;<br>ex 1806 90 11;<br>ex 1806 90 19;<br>ex 1806 90 31;<br>ex 1806 90 39;<br>ex 1806 90 50;<br>ex 1806 90 90 | 17.04;<br>ex 18.06.2011;<br>ex 18.06.2012;<br>ex 18.06.2090;<br>ex 18.06.3100;<br>ex 18.06.3200;<br>ex 18.06.9010;<br>ex 18.06.9021;<br>ex 18.06.9022;<br>ex 18.06.9091;<br>ex 18.06.9092;<br>ex 18.06.9099 | Sukkervarer (herunder godteri), sjokolade og andre næringsmidler som inneholder kakao som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| ex 1902 19;<br>ex 1902 30;<br>ex 1902 40 | ex 19.02.1900;<br>ex 19.02.3001;<br>ex 19.02.3009;<br>ex 19.02.4000 | Pasta, nudler og couscous som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| ex 1905 10;<br>ex 1905 20;<br>ex 1905 31;<br>ex 1905 32;<br>ex 1905 40;<br>ex 1905 90 | ex 19.05.1000;<br>ex 19.05.2000;<br>ex 19.05.3100;<br>ex 19.05.3200;<br>ex 19.05.4000;<br>ex 19.05.9010;<br>ex 19.05.9021;<br>ex 19.05.9022;<br>ex 19.05.9031;<br>ex 19.05.9032;<br>ex 19.05.9033;<br>ex 19.05.9034;<br>ex 19.05.9091;<br>ex 19.05.9092;<br>ex 19.05.9093;<br>ex 19.05.9098 | Brød, kaker, kjeks, vafler og vaffelkjeks, kavringer, ristet brød og lignende ristede produkter som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| ex 2001 90 65;<br>ex 2005 70 00;<br>ex 1604 | ex 20.01.9020;<br>ex 20.05.7000;<br>ex 16.04 | Oliven fylt med fisk som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| 2101 | 21.01 | Ekstrakter, essenser og konsentrater av kaffe, te eller maté samt varer framstilt på basis av disse produktene eller på basis av kaffe, te eller maté; som tilfredsstiller kravene i artikkel 3 nr. 1 Brente sikorirøtter og andre brente kaffeerstatninger, samt ekstrakter, essenser og konsentrater derav som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| ex 2104 | ex 21.04 | Suppekraft og aromaer for supper i pakninger til sluttforbrukeren, som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| ex 2106 | ex 21.06 | Kosttilskudd i pakninger beregnet på sluttforbrukeren som inneholder bearbeidede animalske produkter (herunder glukosamin, kondroitin og/eller kitosan) som tilfredsstiller kravene i artikkel 3 nr. 1 |
-| ex 2208 70 | ex 22.08.7000 | Likører som tilfredsstiller kravene i artikkel 3 nr. 1 |
+| 1704,<br>ex 1806 | 17.04;<br>ex 18.06 | Sukkervarer (herunder godteri) og hvit sjokolade som ikke inneholder kakao, og sukkervarer (herunder godteri), sjokolade og andre tilberedte næringsmidler, smørbare produkter og produkter til framstilling av drikkevarer som inneholder kakao, og som tilfredsstiller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 1902 19,<br>ex 1902 30,<br>ex 1902 40 | ex 19.02.1900;<br>ex 19.02.3001;<br>ex 19.02.3009;<br>ex 19.02.4000 | Pasta, nudler og couscous som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 1904 10,<br>ex 1904 20,<br>ex 1904 90 | ex 19.04.1010;<br>ex 19.04.1091;<br>ex 19.04.1092;<br>ex 19.04.1098;<br>ex 19.04.2010;<br>ex 19.04.2090;<br>ex 19.04.9010;<br>ex 19.04.9020;<br>ex 19.04.9090 | Næringsmidler tilberedt ved oppusting eller steking av korn eller kornprodukter, næringsmidler tilberedt av ustekte flak av korn eller blandinger av ustekte flak av korn og stekte flak av korn eller oppustet korn som oppfyller kravene i artikkel 3 nr. 1 bokstav a) (f.eks. frokostkorn, müsli, granola, popkorn, maispinner og puffet mais).<br><br>Tilberedte næringsmidler framstilt av ris og andre kornslag som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 1905 10,<br>ex 1905 20,<br>ex 1905 31,<br>ex 1905 32,<br>ex 1905 40,<br>ex 1905 90 | ex 19.05.1000;<br>ex 19.05.2000;<br>ex 19.05.3100;<br>ex 19.05.3200;<br>ex 19.05.4000;<br>ex 19.05.9010;<br>ex 19.05.9021;<br>ex 19.05.9022;<br>ex 19.05.9031;<br>ex 19.05.9032;<br>ex 19.05.9033;<br>ex 19.05.9034;<br>ex 19.05.9091;<br>ex 19.05.9092;<br>ex 19.05.9093;<br>ex 19.05.9098 | Brød, kaker, tilberedte kaker, kjeks (inkludert crackers), vafler og vaffelkjeks, kavringer, ristet brød og lignende ristede produkter samt chips som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 2001,<br>ex 2004,<br>ex 2005,<br>ex 2008 19,<br>ex 2008 99,<br>ex 1604 | ex 20.01;<br>ex 20.04;<br>ex 20.05;<br>ex 20.08.1900;<br>ex 20.08.9901;<br>ex 20.08.9902;<br>ex 20.08.9903;<br>ex 20.08.9904;<br>ex 20.08.9909;<br>ex 16.04 | Oliven fylt med fisk, potetchips egnet til å konsumeres umiddelbart og tilberedte eller konserverte grønnsaker, frukter, nøtter og andre spiselige deler av planter med honning som den eneste ingrediensen av animalsk opprinnelse, som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| 2101 | 21.01 | Ekstrakter, essenser og konsentrater av kaffe, te eller maté samt varer framstilt på basis av disse produktene eller på basis av kaffe, te eller maté, som oppfyller kravene i artikkel 3 nr. 1 bokstav a).<br><br>Brente sikorirøtter og andre brente kaffeerstatninger samt ekstrakter, essenser og konsentrater derav som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 2103 | ex 21.03 | Miso som inneholder en liten mengde fiskekraft, og soyasaus som inneholder en liten mengde fiskekraft, sauser som inneholder østers- eller fiskeekstrakter, og sauser og preparater for tillaging av sauser, smaksingredienser og smakstilsetninger med honning som den eneste ingrediensen av animalsk opprinnelse, som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 2104 | ex 21.04 | Suppekraft og aromaer som oppfyller kravene i artikkel 3 nr. 1 bokstav a), i pakninger beregnet på sluttforbrukeren. |
+| ex 2106 | ex 21.06 | Kosttilskudd i pakninger beregnet på sluttforbrukeren og godteri, tyggegummi og lignende som inneholder kunstige søtningsmidler i stedet for sukker, som inneholder bearbeidede animalske produkter (herunder glukosamin, kondroitin eller kitosan), som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+| ex 2208 70 | ex 22.08.7000 | Likører som oppfyller kravene i artikkel 3 nr. 1 bokstav a). |
+
+◄**M5**
