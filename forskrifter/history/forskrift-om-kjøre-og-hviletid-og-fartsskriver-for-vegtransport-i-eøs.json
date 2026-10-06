@@ -2,6 +2,16 @@
   "doc_id": "sf-20070702-0877",
   "events": [
     {
+      "commit": "70d6438",
+      "date": "2026-10-06",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d5622a8",
       "date": "2026-07-11",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # reach-forskriften — Change history
 
-_6 events; doc_id `sf-20080530-0516`._
+_7 events; doc_id `sf-20080530-0516`._
+
+## 2026-10-06 — Content updated
+Lines: +13 -11.
+Subject: `update(forskrift): reach-forskriften`
+Commit: `278e88c`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

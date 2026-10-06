@@ -2,6 +2,16 @@
   "doc_id": "sf-20250610-0968",
   "events": [
     {
+      "commit": "fac40e4",
+      "date": "2026-10-06",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(forskrift): delegering-av-kongens-myndighet-etter-innkrevingsloven-40-andre-og-tredje-ledd-til-finansdepartementet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5244bff",
       "date": "2026-06-30",
       "from_path": null,

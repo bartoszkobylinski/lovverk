@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fisket-etter-torsk-i-nordsjøen-og-skagerrak-i-2026 — Change history
 
-_5 events; doc_id `sf-20251219-2805`._
+_6 events; doc_id `sf-20251219-2805`._
+
+## 2026-10-06 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-torsk-i-nordsjøen-og-skagerrak-i-2026`
+Commit: `f04036e`.
 
 ## 2026-09-02 — Content updated
 Lines: +7 -7.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20220602-1010",
   "events": [
     {
+      "commit": "8664323",
+      "date": "2026-10-06",
+      "from_path": null,
+      "lines_added": 32,
+      "lines_removed": 23,
+      "subject": "update(forskrift): positivlisten-2021",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

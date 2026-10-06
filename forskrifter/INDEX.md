@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5118 current documents_
+_5120 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1267,6 +1267,7 @@ _5118 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-delegering-etter-sjøfartsloven](endr-delegering-etter-sjøfartsloven.md) — Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
+- [endr-i-anleggsforskriften](endr-i-anleggsforskriften.md) — Forskrift om endring i forskrift om tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet fra spilloverskuddet til Norsk Tipping (anleggsforskriften)
 - [endr-i-delvis-ikrafts-av-lov-2005-101](endr-i-delvis-ikrafts-av-lov-2005-101.md) — Vedtak om endring i delvis ikraftsetting av lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)
 - [endr-i-departementsstruktur-og-ansvarsfordeling](endr-i-departementsstruktur-og-ansvarsfordeling.md) — Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-ansvarsfordeling](endr-i-departementsstrukturen-og-ansvarsfordeling.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer
@@ -1916,13 +1917,13 @@ _5118 current documents_
 - [forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn](forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn.md) — Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
-- [forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon](forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon.md) — Forskrift om endring i forskrift om delegering av myndighet etter lov om elektronisk kommunikasjon
 - [forskrift-om-endring-i-forskrift-om-fartsskriververksteder](forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md) — Forskrift om endring i forskrift om fartsskriververksteder
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
 - [forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs](forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md) — Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS
+- [forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs-2026](forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs-2026.md) — Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS
 - [forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om endring i forskrift om kontroll av kjøretøy langs veg
 - [forskrift-om-endring-i-forskrift-om-luftromsorganisering](forskrift-om-endring-i-forskrift-om-luftromsorganisering.md) — Forskrift om endring i forskrift om luftromsorganisering
 - [forskrift-om-endring-i-forskrift-om-lufttrafikkregler-og-operative-prosedyrer](forskrift-om-endring-i-forskrift-om-lufttrafikkregler-og-operative-prosedyrer.md) — Forskrift om endring i forskrift om lufttrafikkregler og operative prosedyrer
@@ -2906,6 +2907,7 @@ _5118 current documents_
 - [forskrift-om-offentlig-kontroll-referansesentre-for-dyrevelferd-forordning-eu-2018-329-forordning-eu-2019-1685-beslutning-eu-2021-755-og-beslutning-eu-2024-266](forskrift-om-offentlig-kontroll-referansesentre-for-dyrevelferd-forordning-eu-2018-329-forordning-eu-2019-1685-beslutning-eu-2021-755-og-beslutning-eu-2024-266.md) — Forskrift om offentlig kontroll – referansesentre for dyrevelferd forordning (EU) 2018/329, forordning (EU) 2019/1685, beslutning (EU) 2021/755 og beslutning (EU) 2024/266
 - [forskrift-om-offentlig-kontroll-standardmal-for-årsrapport-forordning-eu-2019-723](forskrift-om-offentlig-kontroll-standardmal-for-årsrapport-forordning-eu-2019-723.md) — Forskrift om offentlig kontroll – standardmal for årsrapport, forordning (EU) 2019/723
 - [forskrift-om-offentlig-kontroll-særlige-regler-om-grensekontrollen-forordning-eu-2019-1873-forordning-eu-2019-2074-og-beslutning-eu-2019-2098](forskrift-om-offentlig-kontroll-særlige-regler-om-grensekontrollen-forordning-eu-2019-1873-forordning-eu-2019-2074-og-beslutning-eu-2019-2098.md) — Forskrift om offentlig kontroll – særlige regler om grensekontrollen, forordning (EU) 2019/1873, forordning (EU) 2019/2074 og beslutning (EU) 2019/2098
+- [forskrift-om-offentlig-kontroll-task-force-beslutning-2026-1023](forskrift-om-offentlig-kontroll-task-force-beslutning-2026-1023.md) — Forskrift om offentlig kontroll – Task Force – beslutning (EU) 2026/1023
 - [forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-krav-til-import-forordning-2022-2292](forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-krav-til-import-forordning-2022-2292.md) — Forskrift om offentlig kontroll – utfyllende bestemmelser om krav til import – forordning (EU) 2022/2292
 - [forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-utpeking-av-offisielle-laboratorier-2021-1353](forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-utpeking-av-offisielle-laboratorier-2021-1353.md) — Forskrift om offentlig kontroll – utfyllende bestemmelser om utpeking av offisielle laboratorier (EU) 2021/1353
 - [forskrift-om-offentlig-parkeringsgebyr](forskrift-om-offentlig-parkeringsgebyr.md) — Forskrift om offentlig parkeringsgebyr

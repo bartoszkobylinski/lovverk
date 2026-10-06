@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # f-ranalyseforskriften — Change history
 
-_5 events; doc_id `sf-20200228-0702`._
+_6 events; doc_id `sf-20200228-0702`._
+
+## 2026-10-06 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): f-ranalyseforskriften`
+Commit: `7a3de8c`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

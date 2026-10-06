@@ -2,6 +2,16 @@
   "doc_id": "sf-20251219-2821",
   "events": [
     {
+      "commit": "0d7aae3",
+      "date": "2026-10-06",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-makrell-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9162c09",
       "date": "2026-09-23",
       "from_path": null,

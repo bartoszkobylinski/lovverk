@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-endring-i-bokføringsforskriften — Change history
 
-_2 events; doc_id `sf-20260929-1933`._
+_3 events; doc_id `sf-20260929-1933`._
+
+## 2026-10-06 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-endring-i-bokføringsforskriften`
+Commit: `a14bd68`.
 
 ## 2026-10-02 — Content updated
 Lines: +5 -5.

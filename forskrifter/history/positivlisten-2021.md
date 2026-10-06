@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # positivlisten-2021 — Change history
 
-_3 events; doc_id `sf-20220602-1010`._
+_4 events; doc_id `sf-20220602-1010`._
+
+## 2026-10-06 — Content updated
+Lines: +32 -23.
+Subject: `update(forskrift): positivlisten-2021`
+Commit: `8664323`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

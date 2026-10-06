@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy — Change history
 
-_5 events; doc_id `sf-20181228-2247`._
+_6 events; doc_id `sf-20181228-2247`._
+
+## 2026-10-06 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy`
+Commit: `cf5aaa1`.
 
 ## 2026-06-12 — Content updated
 Lines: +5 -5.

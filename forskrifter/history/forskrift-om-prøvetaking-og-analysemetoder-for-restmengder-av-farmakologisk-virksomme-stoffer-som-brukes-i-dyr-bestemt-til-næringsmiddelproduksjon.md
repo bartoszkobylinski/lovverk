@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-prøvetaking-og-analysemetoder-for-restmengder-av-farmakologisk-virksomme-stoffer-som-brukes-i-dyr-bestemt-til-næringsmiddelproduksjon — Change history
 
-_4 events; doc_id `sf-20220502-0814`._
+_5 events; doc_id `sf-20220502-0814`._
+
+## 2026-10-06 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-prøvetaking-og-analysemetoder-for-restmengder-av-farmakologisk-virksomme-stoffer-som-brukes-i-dyr-bestemt-til-næringsmiddelproduksjon`
+Commit: `376438d`.
 
 ## 2026-09-08 — Content updated
 Lines: +27 -14.

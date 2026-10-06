@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fisket-etter-makrell-i-2026 — Change history
 
-_9 events; doc_id `sf-20251219-2821`._
+_10 events; doc_id `sf-20251219-2821`._
+
+## 2026-10-06 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-makrell-i-2026`
+Commit: `0d7aae3`.
 
 ## 2026-09-23 — Content updated
 Lines: +5 -5.

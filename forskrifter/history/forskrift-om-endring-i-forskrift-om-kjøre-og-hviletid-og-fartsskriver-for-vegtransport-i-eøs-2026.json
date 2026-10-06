@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261002-1991",
+  "events": [
+    {
+      "commit": "6cff33b",
+      "date": "2026-10-06",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 8,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs-2026"
+}
