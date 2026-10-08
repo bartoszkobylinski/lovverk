@@ -1,0 +1,17 @@
+{
+  "doc_id": "lk-5059-7a5799dc89c8",
+  "events": [
+    {
+      "commit": "9a3c619",
+      "date": "2026-10-08",
+      "from_path": null,
+      "lines_added": 227,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5059/forskrift-om-godtgjøring-av-folkevalgte-i-orkland-kommune v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-godtgjøring-av-folkevalgte-i-orkland-kommune"
+}

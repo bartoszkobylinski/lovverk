@@ -1,0 +1,50 @@
+{
+  "authority_id": "5059",
+  "doc_id": "lk-5059-4d485d1816b3",
+  "schema_version": 1,
+  "slug": "forskrift-om-feie-og-tilsynsgebyr-orkland-kommune-trøndelag-fylke",
+  "source_status": {
+    "http_status": 200,
+    "observed_at": "2026-08-24T15:43:41.738992Z",
+    "outcome": "retrieved"
+  },
+  "versions": [
+    {
+      "content_hash": "1494d8d8f30561563ad0b1261d2092974b5d8a90caa36f1bcac2e91df60b350e",
+      "corroborating_urls": [],
+      "observation_count": 1,
+      "observed_at_first": "2026-08-24T15:43:41.738992Z",
+      "observed_at_last": "2026-08-24T15:43:41.738992Z",
+      "primary_url": "https://www.orkland.kommune.no/download/18.33a2660519545e0ea912ffdf/1741614422473/forskrift_om_feie_og_tilsynsgebyr_rev2.pdf",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-08T18:05:22.411831Z",
+        "decision": "approve",
+        "extractor_version": 6,
+        "identity": {
+          "candidates": [],
+          "doc_id": "lk-5059-4d485d1816b3",
+          "ref_id": null,
+          "scheme": "lk"
+        },
+        "observations": [
+          {
+            "observed_at": "2026-08-24T15:43:41.738992Z",
+            "sha256": "91372ae3764faf56833f113f38af29b4e1c0d923adfff2fa930cb24f56397bf1",
+            "url": "https://www.orkland.kommune.no/download/18.33a2660519545e0ea912ffdf/1741614422473/forskrift_om_feie_og_tilsynsgebyr_rev2.pdf"
+          }
+        ],
+        "observations_through": "2026-10-08T18:05:22.411831Z",
+        "reason": "Enacted forskrift; rendered text read in full (preview 2026-10-08, identical at extractor v6).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "source_sha256s": [
+        "91372ae3764faf56833f113f38af29b4e1c0d923adfff2fa930cb24f56397bf1"
+      ],
+      "version": 1
+    }
+  ]
+}

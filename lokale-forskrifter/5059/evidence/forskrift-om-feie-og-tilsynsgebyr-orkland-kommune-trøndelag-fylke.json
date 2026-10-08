@@ -1,0 +1,66 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "1494d8d8f30561563ad0b1261d2092974b5d8a90caa36f1bcac2e91df60b350e",
+  "doc_id": "lk-5059-4d485d1816b3",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2020-01-01",
+        "evidence": "trer i kraft fra 1. januar 2020",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2020-01-01"
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Orkland kommunestyre 18.12.2019 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann - og eksplosjonsvernloven) § 28 og forskrift 17. desember 2015 nr. 1710 om brannforebygging § 17.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "brann-og-eksplosjonsvernloven",
+        "dataset": "lover",
+        "doc_id": "nl-20020614-020"
+      },
+      "target_text": "lov 14. juni 2002 nr. 20",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Orkland kommunestyre 18.12.2019 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann - og eksplosjonsvernloven) § 28 og forskrift 17. desember 2015 nr. 1710 om brannforebygging § 17.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "eksplosjonsvernloven",
+      "unresolved": "not_in_corpus"
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Orkland kommunestyre 18.12.2019 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann - og eksplosjonsvernloven) § 28 og forskrift 17. desember 2015 nr. 1710 om brannforebygging § 17.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "forskrift-om-brannforebygging",
+        "dataset": "forskrifter",
+        "doc_id": "sf-20151217-1710"
+      },
+      "target_text": "forskrift 17. desember 2015 nr. 1710",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2019-12-18",
+        "evidence": "Fastsatt av Orkland kommunestyre 18.12.2019",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2019-12-18"
+  },
+  "version": 1
+}

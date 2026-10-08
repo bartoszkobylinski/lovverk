@@ -1,0 +1,36 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "dde292ec9824cd9e967cbaf07ea07865f42454293ed998667cc2a06fd762acc0",
+  "doc_id": "lk-5059-7a5799dc89c8",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2021-07-01",
+        "evidence": "trer i kraft fra 01.07.2021",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2021-07-01"
+  },
+  "relations": [],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2021-06-23",
+        "evidence": "Vedtatt av Orkland kommunestyre 23. juni 2021",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2021-06-23"
+  },
+  "version": 1
+}

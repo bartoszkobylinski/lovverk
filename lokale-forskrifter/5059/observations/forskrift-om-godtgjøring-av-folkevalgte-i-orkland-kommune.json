@@ -1,0 +1,50 @@
+{
+  "authority_id": "5059",
+  "doc_id": "lk-5059-7a5799dc89c8",
+  "schema_version": 1,
+  "slug": "forskrift-om-godtgjøring-av-folkevalgte-i-orkland-kommune",
+  "source_status": {
+    "http_status": 200,
+    "observed_at": "2026-08-30T08:33:39.700271Z",
+    "outcome": "retrieved"
+  },
+  "versions": [
+    {
+      "content_hash": "dde292ec9824cd9e967cbaf07ea07865f42454293ed998667cc2a06fd762acc0",
+      "corroborating_urls": [],
+      "observation_count": 1,
+      "observed_at_first": "2026-08-30T08:33:39.700271Z",
+      "observed_at_last": "2026-08-30T08:33:39.700271Z",
+      "primary_url": "https://www.orkland.kommune.no/politikk/styrer-rad-og-utvalg/godtgjoring-folkevalgte",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-08T18:05:39.452946Z",
+        "decision": "approve",
+        "extractor_version": 6,
+        "identity": {
+          "candidates": [],
+          "doc_id": "lk-5059-7a5799dc89c8",
+          "ref_id": null,
+          "scheme": "lk"
+        },
+        "observations": [
+          {
+            "observed_at": "2026-08-30T08:33:39.700271Z",
+            "sha256": "931984c5ab7b251441fd17575bbb4db8ee971e77cff727d023ce5b91e227677a",
+            "url": "https://www.orkland.kommune.no/politikk/styrer-rad-og-utvalg/godtgjoring-folkevalgte"
+          }
+        ],
+        "observations_through": "2026-10-08T18:05:39.452946Z",
+        "reason": "Enacted forskrift; rendered text read in full (preview 2026-10-08, identical at extractor v6).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "html"
+      },
+      "source_sha256s": [
+        "931984c5ab7b251441fd17575bbb4db8ee971e77cff727d023ce5b91e227677a"
+      ],
+      "version": 1
+    }
+  ]
+}
