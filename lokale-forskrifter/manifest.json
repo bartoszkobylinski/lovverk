@@ -15,8 +15,24 @@
       "status": "current",
       "title": "FORSKRIFT OM HOVEDMÅL VED OFFENTLIGE GRUNNSKOLER I INDRE ØSTFOLD KOMMUNE",
       "version": 1
+    },
+    "lk-5059-4d485d1816b3": {
+      "authority_id": "5059",
+      "authority_type": "kommune",
+      "content_hash": "1494d8d8f30561563ad0b1261d2092974b5d8a90caa36f1bcac2e91df60b350e",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 6,
+      "last_seen": "2026-08-24T15:43:41.738992Z",
+      "markdown_path": "lokale-forskrifter/5059/forskrift-om-feie-og-tilsynsgebyr-orkland-kommune-trøndelag-fylke.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-feie-og-tilsynsgebyr-orkland-kommune-trøndelag-fylke",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om feie- og tilsynsgebyr, Orkland kommune, Trøndelag fylke",
+      "version": 1
     }
   },
-  "generated_at": "2026-10-04T05:29:34.942857Z",
+  "generated_at": "2026-10-08T18:05:22.411831Z",
   "version": 1
 }
