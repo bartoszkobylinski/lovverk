@@ -1,0 +1,59 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "41962cb6c51d57b4a8d484ea4f0df479dc9981e547f0cf5178a40fc4adbb2138",
+  "doc_id": "lk-3118-979d6fd0f42e",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2024-08-01",
+        "evidence": "trer i kraft 01. august 2024",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2024-08-01"
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av kommunestyret i Indre Østfold kommune den 17.06.2024 med hjemmel lov 9. juni 2023 nr. 30 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 15-2.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "opplæringslova",
+        "dataset": "lover",
+        "doc_id": "nl-20230609-030"
+      },
+      "target_text": "lov 9. juni 2023 nr. 30",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av kommunestyret i Indre Østfold kommune den 17.06.2024 med hjemmel lov 9. juni 2023 nr. 30 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 15-2.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "opplæringslova",
+        "dataset": "lover",
+        "doc_id": "nl-20230609-030"
+      },
+      "target_text": "opplæringslova",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2024-06-17",
+        "evidence": "Fastsatt av kommunestyret i Indre Østfold kommune den 17.06.2024",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2024-06-17"
+  },
+  "version": 1
+}

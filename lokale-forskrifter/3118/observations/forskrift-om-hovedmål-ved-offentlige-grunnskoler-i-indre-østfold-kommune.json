@@ -20,7 +20,7 @@
         "classifier": null,
         "decided_at": "2026-10-04T05:29:34.942857Z",
         "decision": "approve",
-        "extractor_version": 2,
+        "extractor_version": 6,
         "identity": {
           "candidates": [],
           "doc_id": "lk-3118-979d6fd0f42e",
