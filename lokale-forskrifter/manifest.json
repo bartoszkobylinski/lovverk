@@ -31,8 +31,24 @@
       "status": "current",
       "title": "Forskrift om feie- og tilsynsgebyr, Orkland kommune, Trøndelag fylke",
       "version": 1
+    },
+    "lk-5059-7a5799dc89c8": {
+      "authority_id": "5059",
+      "authority_type": "kommune",
+      "content_hash": "dde292ec9824cd9e967cbaf07ea07865f42454293ed998667cc2a06fd762acc0",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 6,
+      "last_seen": "2026-08-30T08:33:39.700271Z",
+      "markdown_path": "lokale-forskrifter/5059/forskrift-om-godtgjøring-av-folkevalgte-i-orkland-kommune.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-godtgjøring-av-folkevalgte-i-orkland-kommune",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om godtgjøring av folkevalgte i Orkland kommune",
+      "version": 1
     }
   },
-  "generated_at": "2026-10-08T18:05:22.411831Z",
+  "generated_at": "2026-10-08T18:05:39.452946Z",
   "version": 1
 }
