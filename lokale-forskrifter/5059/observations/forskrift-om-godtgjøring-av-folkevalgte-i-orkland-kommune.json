@@ -17,10 +17,16 @@
       "observed_at_last": "2026-08-30T08:33:39.700271Z",
       "primary_url": "https://www.orkland.kommune.no/politikk/styrer-rad-og-utvalg/godtgjoring-folkevalgte",
       "promotion": {
+        "approval_carried": {
+          "approved_at_extractor": 6,
+          "basis": "byte-identical rendering",
+          "carried_at": "2026-10-09T05:44:59.643307Z",
+          "carried_to_extractor": 7
+        },
         "classifier": null,
         "decided_at": "2026-10-08T18:05:39.452946Z",
         "decision": "approve",
-        "extractor_version": 6,
+        "extractor_version": 7,
         "identity": {
           "candidates": [],
           "doc_id": "lk-5059-7a5799dc89c8",
