@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5120 current documents_
+_5121 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1504,7 +1504,7 @@ _5120 current documents_
 - [forskrift-for-graden-philosophiae-doctor-i-kunstnerisk-utviklingsarbeid-ved-universitetet-i-stavanger](forskrift-for-graden-philosophiae-doctor-i-kunstnerisk-utviklingsarbeid-ved-universitetet-i-stavanger.md) — Forskrift for graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Stavanger
 - [forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk](forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Høgskolen i Molde, Vitenskapelig høgskole i logistikk
 - [forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-østfold](forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-østfold.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Høgskolen i Østfold
-- [forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania](forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Høyskolen Kristiania
+- [forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania-2026](forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania-2026.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Høyskolen Kristiania
 - [forskrift-for-graden-philosophiae-doctor-ved-nord-universitet](forskrift-for-graden-philosophiae-doctor-ved-nord-universitet.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Nord universitet
 - [forskrift-for-graden-philosophiae-doctor-ved-norges-handelshøyskole](forskrift-for-graden-philosophiae-doctor-ved-norges-handelshøyskole.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Norges Handelshøyskole
 - [forskrift-for-graden-philosophiae-doctor-ved-norges-miljø-og-biovitenskapelige-universitet](forskrift-for-graden-philosophiae-doctor-ved-norges-miljø-og-biovitenskapelige-universitet.md) — Forskrift for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitet
@@ -1935,6 +1935,7 @@ _5120 current documents_
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
+- [forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer](forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer.md) — Forskrift om endring i forskrift om tilsetningsstoffer til bruk i fôrvarer
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)

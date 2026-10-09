@@ -29896,13 +29896,13 @@
     },
     "sf-19941004-0918": {
       "doc_type": "forskrift",
-      "embedding_hash": "37594d816c0db41690e31622ac054f8e05eb4ef769ef122bd522b568f29cbb5d",
+      "embedding_hash": "179dedc4ffd5e7f45175ba3fceecb3cc2e24971817a8bfa1357815b1318f6e2e",
       "embedding_input_hash": "b6d1d3b0ec432832a507ae29868e62b5834fda808ddfb819edab01cdfc8c9996",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-10-09",
+      "last_seen": "2026-10-09T11:16:24.461438Z",
       "markdown_path": "forskrifter/kjøretøyforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -29910,8 +29910,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
-      "total_changes": 8,
-      "xml_hash": "37594d816c0db41690e31622ac054f8e05eb4ef769ef122bd522b568f29cbb5d"
+      "total_changes": 9,
+      "xml_hash": "179dedc4ffd5e7f45175ba3fceecb3cc2e24971817a8bfa1357815b1318f6e2e"
     },
     "sf-19941014-0930": {
       "doc_type": "forskrift",
@@ -103806,21 +103806,21 @@
     },
     "sf-20250311-0440": {
       "doc_type": "forskrift",
-      "embedding_hash": "8fd0465df57dd10b5b12b0718416b361c2a451d55c173432bdb368724cc7fb7d",
-      "embedding_input_hash": "96fa1c284297156c98ce3a0eff4b32b28c80cb2de1ec140160220d49ff0445a9",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift for graden philosophiae doctor (ph.d.) ved Høyskolen Kristiania",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "8fd0465df57dd10b5b12b0718416b361c2a451d55c173432bdb368724cc7fb7d"
     },
     "sf-20250314-0445": {
@@ -113456,6 +113456,25 @@
       "total_changes": 1,
       "xml_hash": "09203cb5a6621c588c42654daae04129e455b5e1efeb2c99f0bd912d76676e5f"
     },
+    "sf-20260909-1996": {
+      "doc_type": "forskrift",
+      "embedding_hash": "a3159372a6e8c8fd4a0bc79dad4f58dfac10f150915ce23b8ae1edfa0593a6e9",
+      "embedding_input_hash": "254872f9f50134921235354f6fa1fd53643a6679e7576d806257c12d6fe1f4c5",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-09",
+      "last_seen": "2026-10-09T11:16:24.461438Z",
+      "markdown_path": "forskrifter/forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania-2026.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift for graden philosophiae doctor (ph.d.) ved Høyskolen Kristiania",
+      "total_changes": 1,
+      "xml_hash": "a3159372a6e8c8fd4a0bc79dad4f58dfac10f150915ce23b8ae1edfa0593a6e9"
+    },
     "sf-20260910-1769": {
       "doc_type": "forskrift",
       "embedding_hash": null,
@@ -113931,6 +113950,25 @@
       "total_changes": 1,
       "xml_hash": "28544d45772c4d8743affa52eadde2304b28b645a8fa381e258f6beaa238467d"
     },
+    "sf-20261001-1998": {
+      "doc_type": "forskrift",
+      "embedding_hash": "c3d9565b5c33f38e759a96111a7a9e85e4547881d093082d184a49cbb8cf950f",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-09",
+      "last_seen": "2026-10-09T11:16:24.461438Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om tilsetningsstoffer til bruk i fôrvarer",
+      "total_changes": 1,
+      "xml_hash": "c3d9565b5c33f38e759a96111a7a9e85e4547881d093082d184a49cbb8cf950f"
+    },
     "sf-20261002-1991": {
       "doc_type": "forskrift",
       "embedding_hash": "04e280c7a5e5dceb1f0185117b4b93eab33c6cda4fc5c5dbd87fc879690d39e8",
@@ -113970,6 +114008,6 @@
       "xml_hash": "5d07196aba1bf4440c51a27d409d0061564605ed5bd6dac927e2b56a905ad6b6"
     }
   },
-  "generated_at": "2026-10-06T11:12:14.474092Z",
+  "generated_at": "2026-10-09T11:16:24.461438Z",
   "version": 1
 }

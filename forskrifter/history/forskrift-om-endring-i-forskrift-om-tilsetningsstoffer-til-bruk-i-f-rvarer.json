@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261001-1998",
+  "events": [
+    {
+      "commit": "498d998",
+      "date": "2026-10-09",
+      "from_path": null,
+      "lines_added": 93,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260909-1996",
+  "events": [
+    {
+      "commit": "78c525f",
+      "date": "2026-10-09",
+      "from_path": null,
+      "lines_added": 43,
+      "lines_removed": 43,
+      "subject": "add(forskrift): forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-for-graden-philosophiae-doctor-ved-høyskolen-kristiania-2026"
+}
