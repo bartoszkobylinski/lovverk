@@ -10,12 +10,12 @@ ministry:
   - "Samferdselsdepartementet"
 date_in_force: "1995-01-01"
 last_change_in_force: "2026-06-08"
-last_updated: "2025-02-14"
-xml_hash: "37594d816c0db41690e31622ac054f8e05eb4ef769ef122bd522b568f29cbb5d"
+last_updated: "2026-10-08"
+xml_hash: "179dedc4ffd5e7f45175ba3fceecb3cc2e24971817a8bfa1357815b1318f6e2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-10-09T11:16:24.461438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -12699,7 +12699,7 @@ Ved typegodkjenning av ny type bil – og for nye, ikke typegodkjente biler ved 
 | 11. Utslipp fra dieselmotor | [72/306/EØF](eu/31972l0306*) | [2005/21/EF](eu/32005l0021) | x | x | x | x | x | x |  |  |  |  |
 | 12. Innvendig utstyr | [74/60/EØF](eu/31974l0060*) | [2000/4/EF](eu/32000l0004) | x |  |  |  |  |  |  |  |  |  |
 | 13. Tyverisikring | [74/61/EØF](eu/31974l0061*) | [95/56/EF](eu/31995l0056*) | x | x | x | x | x | x |  |  |  |  |
-| 14. Styreinnretningens oppførsel ved sammenstøt | [74/297/EØF](eu/31974l0297) | 91/622/EØF | x |  |  | x |  |  |  |  |  |  |
+| 14. Styreinnretningens oppførsel ved sammenstøt | [74/297/EØF](eu/31974l0297) | [91/662/EØF](eu/31991l0662) | x |  |  | x |  |  |  |  |  |  |
 | 15. Setestyrke | [74/408/EØF](eu/31974l0408) | [2005/39/EF](eu/32005l0039) | x | x | x | x | x | x |  |  |  |  |
 | 16. Utvendig utstikkende deler | [74/483/EØF](eu/31974l0483) | [2007/15/EF](eu/32007*0015) | x |  |  |  |  |  |  |  |  |  |
 | 17. Hastighetsmåler og reversgir | [75/443/EØF](eu/31975l0443) | [97/39/EF](eu/31997l0039) | x | x | x | x | x | x |  |  |  |  |
