@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-10-06"
 last_updated: null
-xml_hash: "8cb37f5af095869e8f8c934d45dafe4b0f3021818e0ac4bb9d9d27e843ef1a73"
+xml_hash: "79f02077cfb3360269699ac928eb33312cc8981b8b51999581ae69c3ff319cf2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -273,6 +273,16 @@ Søknad om overdragelse av driftskonsesjon skal inneholde
 2. en beskrivelse av tiltakshavers finansielle evne og finansieringsplan med spesifisering av egenkapital, lån og andre kilder.
 
 Søknad om godkjenning av overdragelse skal sendes til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard senest en måned etter at avtale om overdragelse er inngått. Direktoratet kan på forespørsel gi forlenget frist dersom behovet for utsettelse er saklig begrunnet. Søknaden skal sendes på skjema fastsatt av direktoratet.
+
+### § 6-6. Unntak fra krav om driftskonsesjon for energi- og vassdragstiltak
+
+Krav om driftskonsesjon etter [mineralloven § 6-2](lov/2025-06-20-107/§6-2) gjelder ikke uttak av mineraler som gjennomføres innenfor et område definert for masseuttak i medhold av godkjent detaljplan med hjemmel i [energiloven § 3-1a](lov/1990-06-29-50/§3-1a) eller i vilkår satt for konsesjoner gitt med hjemmel i [energiloven](lov/1990-06-29-50), [vannressursloven](lov/2000-11-24-82) eller [vassdragsreguleringsloven](lov/1917-12-14-17).
+
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan for konsesjonspliktige tiltak etter [energiloven](lov/1990-06-29-50), [vannressursloven](lov/2000-11-24-82) eller [vassdragsreguleringsloven](lov/1917-12-14-17), som ikke omfattes av første ledd, i det enkelte tilfelle fastsette at det ikke kreves driftskonsesjon etter [mineralloven § 6-2](lov/2025-06-20-107/§6-2).
+
+Uttak som nevnt i første ledd er kun omfattet av krav om rapportering etter [mineralloven § 7-4](lov/2025-06-20-107/§7-4).
+
+> Tilføyd ved forskrift [6 okt 2026 nr. 2007](forskrift/2026-10-06-2007).
 
 ## Kapittel 7. Rapportering
 
