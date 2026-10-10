@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-fiske-i-oslofjorden — Change history
 
-_2 events; doc_id `sf-20251219-2889`._
+_3 events; doc_id `sf-20251219-2889`._
+
+## 2026-10-10 — Content updated
+Lines: +9 -3.
+Subject: `update(forskrift): forskrift-om-regulering-av-fiske-i-oslofjorden`
+Commit: `0bd84a1`.
 
 ## 2026-05-14 — Content updated
 Lines: +149 -0.

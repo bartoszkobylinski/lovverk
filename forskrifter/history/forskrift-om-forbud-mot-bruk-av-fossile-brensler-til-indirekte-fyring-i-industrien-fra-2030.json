@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261007-2009",
+  "events": [
+    {
+      "commit": "fc36200",
+      "date": "2026-10-10",
+      "from_path": null,
+      "lines_added": 83,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-forbud-mot-bruk-av-fossile-brensler-til-indirekte-fyring-i-industrien-fra-2030",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-forbud-mot-bruk-av-fossile-brensler-til-indirekte-fyring-i-industrien-fra-2030"
+}

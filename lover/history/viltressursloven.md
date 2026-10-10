@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # viltressursloven — Change history
 
-_6 events; doc_id `nl-20250620-102`._
+_7 events; doc_id `nl-20250620-102`._
+
+## 2026-10-10 — Content updated
+Lines: +3 -2.
+Subject: `update(lov): viltressursloven`
+Commit: `3076582`.
 
 ## 2026-07-07 — Content updated
 Lines: +12 -3.

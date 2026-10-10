@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilsetningsstoffer-i-forvarer — Change history
 
-_7 events; doc_id `sf-20050412-0319`._
+_8 events; doc_id `sf-20050412-0319`._
+
+## 2026-10-10 — Content updated
+Lines: +30 -18.
+Subject: `update(forskrift): forskrift-om-tilsetningsstoffer-i-forvarer`
+Commit: `f12b5a3`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

@@ -2,6 +2,16 @@
   "doc_id": "nl-19970613-044",
   "events": [
     {
+      "commit": "6671b0f",
+      "date": "2026-10-10",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): aksjeloven-asl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "062c435",
       "date": "2026-06-20",
       "from_path": null,

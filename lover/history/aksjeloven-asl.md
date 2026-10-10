@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # aksjeloven-asl — Change history
 
-_4 events; doc_id `nl-19970613-044`._
+_5 events; doc_id `nl-19970613-044`._
+
+## 2026-10-10 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): aksjeloven-asl`
+Commit: `6671b0f`.
 
 ## 2026-06-20 — Content updated
 Lines: +9 -5.

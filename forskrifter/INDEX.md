@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5121 current documents_
+_5125 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1288,6 +1288,7 @@ _5121 current documents_
 - [endr-i-forsvarstilsatteforskriften](endr-i-forsvarstilsatteforskriften.md) — Forskrift om endring i forskrift om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
 - [endr-i-fsfin-forskrift-til-skatteloven](endr-i-fsfin-forskrift-til-skatteloven.md) — Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
 - [endr-i-førerkortforskriften](endr-i-førerkortforskriften.md) — Forskrift om endring i forskrift om førerkort m.m. (førerkortforskriften)
+- [endr-i-høstingsforskriften](endr-i-høstingsforskriften.md) — Forskrift om endring i forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser
 - [endr-i-ikrafttredelse-av-lov-2012-5](endr-i-ikrafttredelse-av-lov-2012-5.md) — Vedtak om endring i vedtak 20. januar 2012 nr. 37 om ikrafttredelse av lov 20. januar 2012 nr. 5 om endringer i utlendingsloven m.m. (høring av barn mv.)
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
@@ -2092,6 +2093,7 @@ _5121 current documents_
 - [forskrift-om-fondsavsetninger-enøk-tiltak](forskrift-om-fondsavsetninger-enøk-tiltak.md) — Forskrifter om skattefrie fondsavsetninger til energiøkonomisering.
 - [forskrift-om-forbrukertilsynets-og-markedsrådets-saksbehandling-mv](forskrift-om-forbrukertilsynets-og-markedsrådets-saksbehandling-mv.md) — Forskrift om Forbrukertilsynets og Markedsrådets saksbehandling mv.
 - [forskrift-om-forbud-mot-brennbare-tekstiler](forskrift-om-forbud-mot-brennbare-tekstiler.md) — Forskrift om forbud mot svært brennbare tekstiler
+- [forskrift-om-forbud-mot-bruk-av-fossile-brensler-til-indirekte-fyring-i-industrien-fra-2030](forskrift-om-forbud-mot-bruk-av-fossile-brensler-til-indirekte-fyring-i-industrien-fra-2030.md) — Forskrift om forbud mot bruk av fossile brensler til indirekte fyring i industrien fra 2030
 - [forskrift-om-forbud-mot-bruk-av-mineralolje-til-oppvarming-av-bygninger-og-fossil-gass-til-byggvarme](forskrift-om-forbud-mot-bruk-av-mineralolje-til-oppvarming-av-bygninger-og-fossil-gass-til-byggvarme.md) — Forskrift om forbud mot bruk av mineralolje til oppvarming av bygninger og fossil gass til byggvarme
 - [forskrift-om-forbud-mot-bruk-av-snøscooter-på-offentlig-veg](forskrift-om-forbud-mot-bruk-av-snøscooter-på-offentlig-veg.md) — Forskrift om forbud mot bruk av beltemotorsykkel (snøscooter) på offentlig veg.
 - [forskrift-om-forbud-mot-eksotiske-dyr](forskrift-om-forbud-mot-eksotiske-dyr.md) — Forskrift om forbud mot å innføre, omsette og holde eksotiske dyr
@@ -2114,6 +2116,7 @@ _5121 current documents_
 - [forskrift-om-forbud-mot-markedsføring-distribusjon-og-salg-av-binære-opsjoner-til-ikke-profesjonelle-mv](forskrift-om-forbud-mot-markedsføring-distribusjon-og-salg-av-binære-opsjoner-til-ikke-profesjonelle-mv.md) — Forskrift om forbud mot markedsføring, distribusjon og salg av binære opsjoner til ikke-profesjonelle og begrensninger i markedsføring, distribusjon og salg av finansielle differansekontrakter (CFD) til ikke-profesjonelle
 - [forskrift-om-forbud-mot-negative-servitutter-som-begrenser-etablering-av-dagligvarevirksomhet](forskrift-om-forbud-mot-negative-servitutter-som-begrenser-etablering-av-dagligvarevirksomhet.md) — Forskrift om forbud mot negative servitutter som begrenser etablering av dagligvarevirksomhet
 - [forskrift-om-forbud-mot-omlasting-av-og-ilandføring-i-norsk-havn-av-pelagisk-snabeluer-fra-irmingerhavet-og-tilstøtende-områder](forskrift-om-forbud-mot-omlasting-av-og-ilandføring-i-norsk-havn-av-pelagisk-snabeluer-fra-irmingerhavet-og-tilstøtende-områder.md) — Forskrift om forbud mot omlasting av og ilandføring i norsk havn av pelagisk snabeluer (Sebastes mentella) fra Irmingerhavet og tilstøtende områder
+- [forskrift-om-forbud-mot-omlasting-forsynings-og-støttetjenester-og-ilandføring-av-makrell-høstet-i-internasjonalt-farvann-for-2026](forskrift-om-forbud-mot-omlasting-forsynings-og-støttetjenester-og-ilandføring-av-makrell-høstet-i-internasjonalt-farvann-for-2026.md) — Forskrift om forbud mot omlasting, forsynings- og støttetjenester og ilandføring av makrell (Scomber scombrus) høstet i internasjonalt farvann for 2026
 - [forskrift-om-forbud-mot-oppankring-rundt-snorre](forskrift-om-forbud-mot-oppankring-rundt-snorre.md) — Forskrift om forbud mot oppankring og fiske med visse redskaper rundt Snorre undervannsinnretning.
 - [forskrift-om-forbud-mot-salg-av-energidrikk-til-barn-under-16-år](forskrift-om-forbud-mot-salg-av-energidrikk-til-barn-under-16-år.md) — Forskrift om forbud mot salg av energidrikk til barn under 16 år
 - [forskrift-om-forbud-mot-sjødyr-fra-albania](forskrift-om-forbud-mot-sjødyr-fra-albania.md) — Forskrift om forbud mot import av toskallete bløtdyr, pigghuder, sekkedyr og sjølevende snegler samt levende fisk og skalldyr med opprinnelse i Albania
@@ -2774,6 +2777,7 @@ _5121 current documents_
 - [forskrift-om-midlertidig-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-november-2021-til-28-februar-2022-som-følge-av-covid-19-utbruddet](forskrift-om-midlertidig-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-november-2021-til-28-februar-2022-som-følge-av-covid-19-utbruddet.md) — Forskrift om midlertidig kompensasjonsordning for avlyste, stengte eller nedskalerte kulturarrangementer i perioden 1. november 2021 til 28. februar 2022 som følge av covid-19-utbruddet
 - [forskrift-om-midlertidig-lineegnetilskudd-i-2025](forskrift-om-midlertidig-lineegnetilskudd-i-2025.md) — Forskrift om midlertidig lineegnetilskudd i 2025
 - [forskrift-om-midlertidig-ordning-for-energitilskudd-til-næringslivet-som-følge-av-ekstraordinære-strømutgifter](forskrift-om-midlertidig-ordning-for-energitilskudd-til-næringslivet-som-følge-av-ekstraordinære-strømutgifter.md) — Forskrift om midlertidig ordning for energitilskudd til næringslivet som følge av ekstraordinære strømutgifter
+- [forskrift-om-midlertidig-tilskudd-for-andre-redskapsgrupper-enn-reketrål-i-oslofjorden](forskrift-om-midlertidig-tilskudd-for-andre-redskapsgrupper-enn-reketrål-i-oslofjorden.md) — Forskrift om midlertidig tilskudd for andre redskapsgrupper enn reketrål i Oslofjorden
 - [forskrift-om-midlertidig-tilskudd-for-fiskerinæringen-i-oslofjorden](forskrift-om-midlertidig-tilskudd-for-fiskerinæringen-i-oslofjorden.md) — Forskrift om midlertidig tilskudd for fiskerinæringen i Oslofjorden
 - [forskrift-om-midlertidig-tilskudd-som-kompensasjon-for-co2-avgift-på-drivstoff-for-fiske-og-fangst](forskrift-om-midlertidig-tilskudd-som-kompensasjon-for-co2-avgift-på-drivstoff-for-fiske-og-fangst.md) — Forskrift om midlertidig tilskudd som kompensasjon for CO2-avgift på drivstoff for fiske og fangst
 - [forskrift-om-midlertidig-tilskudd-til-drivstoff-for-kystrekeflåten-i-2023](forskrift-om-midlertidig-tilskudd-til-drivstoff-for-kystrekeflåten-i-2023.md) — Forskrift om midlertidig tilskudd til drivstoff for kystrekeflåten i 2023

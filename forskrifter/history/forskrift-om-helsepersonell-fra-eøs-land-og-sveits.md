@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-helsepersonell-fra-eøs-land-og-sveits — Change history
 
-_5 events; doc_id `sf-20081008-1130`._
+_6 events; doc_id `sf-20081008-1130`._
+
+## 2026-10-10 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-helsepersonell-fra-eøs-land-og-sveits`
+Commit: `5dbe803`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

@@ -2,6 +2,16 @@
   "doc_id": "nl-19970613-045",
   "events": [
     {
+      "commit": "ae008c9",
+      "date": "2026-10-10",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): allmennaksjeloven-asal",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6326bce",
       "date": "2026-06-20",
       "from_path": null,
