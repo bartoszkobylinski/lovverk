@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2010-12-21"
-last_change_in_force: "2026-10-01"
+last_change_in_force: "2026-10-05"
 last_updated: null
-xml_hash: "50a47d19063ff9662aaf0259bf07c44b078ec2975c153e98db1e5e0e291a838b"
+xml_hash: "e2c3e90a2449a66607b6ef2efc77f514303be4a95510362c0a1169b5e0cbbcd4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,9 +26,9 @@ eu_basis: []
 
 ### § 1-1. Folketrygdfondets forvaltningsoppdrag
 
-(1) Departementet plasserer Statens pensjonsfond Norge (SPN) som et kapitalinnskudd i Folketrygdfondet i henhold til [lov 21. desember 2005 nr. 123](lov/2005-12-21-123) om Statens pensjonsfond [§ 2](lov/2005-12-21-123/§2) tredje ledd. Folketrygdfondet skal forvalte innskuddet etter bestemmelsene i dette mandatet og bestemmelser gitt i medhold av [§ 3-4](forskrift/2010-12-21-1790/§3-4) femte ledd, [§ 8-1](forskrift/2010-12-21-1790/§8-1) og [§ 8-2](forskrift/2010-12-21-1790/§8-2).
+(1) Departementet plasserer Statens pensjonsfond Norge (SPN) som et kapitalinnskudd i Folketrygdfondet i henhold til [lov 21. desember 2005 nr. 123 om Statens pensjonsfond § 3 tredje ledd](lov/2005-12-21-123/§3/ledd/3). Folketrygdfondet skal forvalte innskuddet etter bestemmelsene i dette mandatet og bestemmelser gitt i medhold av [§ 3-4](forskrift/2010-12-21-1790/§3-4) femte ledd, [§ 8-1](forskrift/2010-12-21-1790/§8-1) og [§ 8-2](forskrift/2010-12-21-1790/§8-2).
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ### § 1-2. Plassering av fondsmidlene
 
@@ -38,7 +38,7 @@ eu_basis: []
 
 (3) Folketrygdfondet skal foreta investeringsbeslutninger og utøve eierrettigheter uavhengig av departementet.
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664).
 
 ### § 1-3. Målsetting for forvaltningen
 
@@ -48,7 +48,7 @@ eu_basis: []
 
 (3) Folketrygdfondet skal integrere arbeidet med en ansvarlig forvaltningsvirksomhet i forvaltningen av SPN, jf. [kapittel 2](lov/1999-05-21-30/kap2). God avkastning på lang sikt anses å avhenge av en bærekraftig utvikling i økonomisk, miljømessig og samfunnsmessig forstand samt av velfungerende, legitime og effektive markeder.
 
-> Tilføyd ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238).
+> Tilføyd ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238).
 
 ### § 1-4. Strategisk plan for Folketrygdfondets forvaltning av SPN
 
@@ -56,15 +56,15 @@ eu_basis: []
 
 (2) Styret skal regelmessig evaluere i hvilken utstrekning målene i den strategiske planen er nådd.
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238) (tidligere [§ 1-3](forskrift/2010-12-21-1790/§1-3)), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238) (tidligere [§ 1-3](forskrift/2010-12-21-1790/§1-3)), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664).
 
 ### § 1-5. Eksterne forvaltere og tjenesteytere (utkontraktering)
 
-(1) Folketrygdfondet kan benytte eksterne forvaltere og utkontraktere operasjonelle funksjoner så lenge hensyn til risikostyring og internkontroll er ivaretatt, jf. [§ 4-11](forskrift/2010-12-21-1790/§4-11).
+(1) Folketrygdfondet kan benytte eksterne forvaltere og utkontraktere operasjonelle funksjoner så lenge hensyn til risikostyring og internkontroll er ivaretatt, jf. [§ 4-12](forskrift/2010-12-21-1790/§4-12).
 
 (2) Godtgjøringsstrukturen i avtaler med eksterne forvaltere skal være utformet slik at den ivaretar SPNs økonomiske interesser, herunder ta hensyn til tidshorisonten for de aktuelle investeringsstrategiene. De enkelte avtalene med forvaltere om avkastningsavhengige honorarer skal struktureres slik at fondet beholder den vesentligste delen av positiv differanseavkastning.
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238) (tidligere [§ 1-4](forskrift/2010-12-21-1790/§1-4)).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238) (tidligere [§ 1-4](forskrift/2010-12-21-1790/§1-4)), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ### § 1-6. Folketrygdfondets rådgivningsplikt og uttalelsesrett
 
@@ -74,7 +74,7 @@ eu_basis: []
 
 (3) Folketrygdfondet skal ha anledning til å uttale seg før det foretas vesentlige endringer i mandatet for forvaltningen av SPN, og skal ha varsel i rimelig tid for å kunne foreta eventuelle endringer i porteføljen.
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238) (tidligere [§ 1-5](forskrift/2010-12-21-1790/§1-5)).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238) (tidligere [§ 1-5](forskrift/2010-12-21-1790/§1-5)).
 
 ## Kapittel 2. Ansvarlig forvaltningsvirksomhet
 
@@ -94,9 +94,9 @@ Folketrygdfondets arbeid med ansvarlig forvaltningsvirksomhet skal baseres på e
 
 (3) Prinsippene skal baseres på hensynene til god selskapsstyring, miljø og samfunnsmessige forhold i forvaltningen i tråd med anerkjente prinsipper og standarder som Norsk anbefaling for eierstyring og selskapsledelse (NIES), FNs Global Compact, FNs veiledende prinsipper for næringsliv og menneskerettigheter (UNGP), G20/OECDs retningslinjer for selskapsstyring og OECDs retningslinjer for flernasjonale selskaper. Prinsippene skal også reflektere hensynet til god håndtering av klimarisiko i tråd med internasjonalt anerkjente prinsipper og standarder.
 
-(4) Prinsippene og bruken av virkemidler for å understøtte disse skal offentliggjøres, jf. [§ 6-1](forskrift/2010-12-21-1790/§6-1) fjerde ledd.
+(4) Prinsippene, og bruken av virkemidler for å understøtte disse, skal offentliggjøres, jf. [§ 6-2 tredje ledd bokstav e](forskrift/2010-12-21-1790/§6-2/ledd/3/bokstav/e).
 
-> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238), [14 mars 2025 nr. 448](forskrift/2025-03-14-448) (tidligere § 2-1).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238), [14 mars 2025 nr. 448](forskrift/2025-03-14-448) (tidligere § 2-1), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ### § 2-3. Bidrag til utvikling av gode nasjonale standarder
 
@@ -114,11 +114,11 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 (2) Hver aktivaklasseindeks består av to strategiske regionindekser: Norge og Norden utenom Norge og Island (Danmark, Finland og Sverige). De to regionindeksene i de to aktivaklassene utgjør til sammen fire delindekser.
 
-(3) Verdipapirer som er utelukket i henhold til retningslinjer for observasjon og utelukkelse fra Statens pensjonsfond utland, skal ikke inngå i strategisk referanseindeks, jf. [§ 3-6](forskrift/2010-12-21-1790/§3-6) åttende ledd og [§ 7-3](forskrift/2010-12-21-1790/§7-3). Departementet fastsetter datoer for utelukkelse og gjeninkludering av slike verdipapirer i referanseindeksen for SPN.
+(3) Verdipapirer utstedt av selskaper som er utelukket etter retningslinjene for observasjon og utelukkelse av selskaper fra SPU slik disse lød frem til og med 6. november 2025, skal ikke inngå i strategisk referanseindeks, jf. [§ 3-6 åttende ledd](forskrift/2010-12-21-1790/§3-6/ledd/8) og [§ 7-3](forskrift/2010-12-21-1790/§7-3). Departementet fastsetter datoer for gjeninkludering av slike verdipapirer i strategisk referanseindeks.
 
 (4) Når et selskaps aksjer utelukkes fra aksjeindeksen, skal de øvrige selskapene i samme regionindeks vektes opp. Når obligasjoner utelukkes fra obligasjonsindeksen, skal øvrige obligasjoner i samme regionindeks vektes opp.
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [12 okt 2016 nr. 1208](forskrift/2016-10-12-1208).
+> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [12 okt 2016 nr. 1208](forskrift/2016-10-12-1208), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ### § 3-2. Strategisk obligasjonsindeks
 
@@ -166,18 +166,18 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 ### § 3-5. Tillatte instrumenter
 
-(1) Folketrygdfondet kan plassere porteføljen i finansielle instrumenter og kontantinnskudd som er godkjent i henhold til [§ 4-10](forskrift/2010-12-21-1790/§4-10), men begrenset til:
+(1) Folketrygdfondet kan plassere porteføljen i finansielle instrumenter og kontantinnskudd som er godkjent i henhold til [§ 4-11](forskrift/2010-12-21-1790/§4-11), men begrenset til:
 
 1. aksjer og verdipapirer som kan sidestilles med noterte aksjer, samt depotbevis for slike aksjer som er notert på regulert markedsplass i Norge.
 2. aksjer og verdipapirer som kan sidestilles med noterte aksjer, samt depotbevis for slike aksjer som er notert på regulert markedsplass i Danmark, Finland eller Sverige og, hvor utsteder er klassifisert av indeksleverandøren FTSE med landtilhørighet i enten Norge, Danmark, Finland eller Sverige, og hvor utsteder i henhold til direktiv [2004/109/EF](eu/32004l0109) (Transparency Directive) har sin hjemstat i enten Norge, Danmark, Finland eller Sverige.
-3. verdipapirer som nevnt i bokstav a og b i unoterte selskaper hvor styret har uttrykt en intensjon om å søke om notering på regulert markedsplass i Norge, Danmark, Finland eller Sverige.
+3. verdipapirer som nevnt i bokstav a og b i unoterte aksjer i selskaper hvor styret har uttrykt en intensjon om å søke om notering på regulert markedsplass i Norge, Danmark, Finland eller Sverige.
 4. omsettelige obligasjoner og andre omsettelige gjeldsinstrumenter, samt depotbevis for slike obligasjoner, utstedt av norske, finske, svenske eller danske utstedere eller av utstedere med notert egenkapital som faller inn under bestemmelsene i bokstav a) eller b).
 5. pengemarkedsinstrumenter.
 6. finansielle derivater, fondsandeler og valutainstrumenter som henger naturlig sammen med aksjer, obligasjoner og valuta.
 
-(2) Dersom Folketrygdfondet blir eier av finansielle instrumenter som ikke er omfattet av første ledd, skal Folketrygdfondet selge slike finansielle instrumenter omgående. Unntatt fra første punktum er unoterte instrumenter som tilfaller porteføljen som følge av at en planlagt notering ikke gjennomføres, jf. [§ 3-5 første ledd bokstav c](forskrift/2010-12-21-1790/§3-5/ledd/1/bokstav/c), eller på grunn av selskapshendelser.
+(2) Dersom Folketrygdfondet blir eier av finansielle instrumenter som ikke er omfattet av første ledd, skal Folketrygdfondet selge slike finansielle instrumenter omgående. Unntatt fra første punktum er unoterte aksjer i selskaper som tilfaller porteføljen som følge av at en planlagt notering ikke gjennomføres, jf. [§ 3-5 første ledd bokstav c](forskrift/2010-12-21-1790/§3-5/ledd/1/bokstav/c), eller på grunn av selskapshendelser.
 
-> Endret ved [vedtak 19 juni 2014 nr. 978](forskrift/2014-06-19-978) (i kraft 15 juli 2014), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [19 jan 2024 nr. 159](forskrift/2024-01-19-159), [3 des 2024 nr. 2923](forskrift/2024-12-03-2923).
+> Endret ved [vedtak 19 juni 2014 nr. 978](forskrift/2014-06-19-978) (i kraft 15 juli 2014), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [19 jan 2024 nr. 159](forskrift/2024-01-19-159), [3 des 2024 nr. 2923](forskrift/2024-12-03-2923), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ### § 3-6. Rammer for forvaltningen
 
@@ -203,9 +203,9 @@ Folketrygdfondet skal aktivt bidra til utviklingen av gode nasjonale standarder 
 
 (7) Folketrygdfondet kan plassere SPN slik at SPN har eierandeler for inntil 15 prosent av aksjekapital eller egenkapitalbevis i ett enkelt selskap i Norge. Folketrygdfondet kan plassere SPN slik at SPN har eierandeler for inntil 5 prosent av aksjekapital eller egenkapitalbevis i ett enkelt selskap i Danmark, Finland og Sverige.
 
-(8) Fondsmidlene skal ikke plasseres i verdipapirer som er utelukket i henhold til retningslinjer for observasjon og utelukkelse fra Statens pensjonsfond utland. Folketrygdfondet skal ha retningslinjer for utelukkelse og gjeninkludering av slike verdipapirer i fondets investeringsunivers, jf. [§ 3-1](forskrift/2010-12-21-1790/§3-1) tredje ledd og [§ 7-3](forskrift/2010-12-21-1790/§7-3).
+(8) Fondsmidlene skal ikke plasseres i verdipapirer som er utelukket etter retningslinjene for observasjon og utelukkelse av selskaper fra SPU slik disse lød frem til og med 6. november 2025. Folketrygdfondet skal ha retningslinjer for gjeninkludering av slike verdipapirer i fondets investeringsunivers, jf. [§ 3-1 tredje ledd](forskrift/2010-12-21-1790/§3-1/ledd/3) og [§ 7-3](forskrift/2010-12-21-1790/§7-3).
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [12 aug 2024 nr. 2087](forskrift/2024-08-12-2087), [18 juni 2026 nr. 1206](forskrift/2026-06-18-1206) (i kraft 1 aug 2026).
+> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238), [16 des 2016 nr. 1664](forskrift/2016-12-16-1664), [16 des 2019 nr. 1810](forskrift/2019-12-16-1810) (i kraft 1 jan 2020), [12 aug 2024 nr. 2087](forskrift/2024-08-12-2087), [18 juni 2026 nr. 1206](forskrift/2026-06-18-1206) (i kraft 1 aug 2026), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ## Kapittel 4. Verdivurdering, avkastningsmåling og styring, måling og kontroll av risiko
 
@@ -295,13 +295,13 @@ Folketrygdfondet skal fastsette retningslinjer for reinvestering av mottatt kont
 
 > Endret ved vedtak [14 mars 2025 nr. 448](forskrift/2025-03-14-448) (tidligere § 4-11).
 
-### § 4-13
+### § 4-13. Retningslinjer for investering i unoterte aksjer
 
-(1) Folketrygdfondet skal fastsette retningslinjer som sikrer en grundig gjennomgang i forkant av den enkelte investering i unoterte selskaper hvor styret har uttrykt en intensjon om å søke notering på regulert og anerkjent markedsplass, jf. [§ 3-5 første ledd bokstav c](forskrift/2010-12-21-1790/§3-5/ledd/1/bokstav/c).
+(1) Folketrygdfondet skal fastsette retningslinjer som sikrer en grundig gjennomgang i forkant av den enkelte investering i unoterte aksjer i selskaper hvor styret har uttrykt en intensjon om å søke notering på regulert og anerkjent markedsplass, jf. [§ 3-5 første ledd bokstav c](forskrift/2010-12-21-1790/§3-5/ledd/1/bokstav/c).
 
-(2) Folketrygdfondet skal fastsette retningslinjer om planer for avhending av aksjer i unoterte selskaper i de tilfeller hvor en planlagt notering på regulert markedsplass ikke gjennomføres, jf. [§ 3-5 første ledd bokstav c](forskrift/2010-12-21-1790/§3-5/ledd/1/bokstav/c). Planer for avhending skal inkludere vurderinger av hvordan aksjene kan avhendes på en hensiktsmessig og kostnadseffektiv måte. I tillegg skal planen sikre en løpende vurdering av relevant risiko knyttet til investeringen. Planen skal dokumenteres. Det samme gjelder for øvrige unoterte verdipapirer som tilfaller porteføljen på grunn av selskapshendelser.
+(2) Folketrygdfondet skal fastsette retningslinjer om planer for avhending av unoterte aksjer i selskaper i de tilfeller hvor en planlagt notering på regulert markedsplass ikke gjennomføres, jf. [§ 3-5 første ledd bokstav c](forskrift/2010-12-21-1790/§3-5/ledd/1/bokstav/c). Planer for avhending skal inkludere vurderinger av hvordan aksjene kan avhendes på en hensiktsmessig og kostnadseffektiv måte. I tillegg skal planen sikre en løpende vurdering av relevant risiko knyttet til investeringen. Planen skal dokumenteres. Det samme gjelder for øvrige unoterte aksjer som tilfaller porteføljen på grunn av selskapshendelser.
 
-> Tilføyd ved vedtak [19 jan 2024 nr. 159](forskrift/2024-01-19-159), endret ved vedtak [14 mars 2025 nr. 448](forskrift/2025-03-14-448) (tidligere § 4-12).
+> Tilføyd ved vedtak [19 jan 2024 nr. 159](forskrift/2024-01-19-159), endret ved vedtak [14 mars 2025 nr. 448](forskrift/2025-03-14-448) (tidligere § 4-12), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ## Kapittel 5. Rammer for forvaltningskostnader og for en godtgjørelsesordning
 
@@ -398,11 +398,11 @@ Prinsipper, retningslinjer og rammer fastsatt av Folketrygdfondets styre som fø
 
 (2) Departementet skal orienteres ved vesentlige brudd på rammene nevnt i første ledd.
 
-### § 7-3. Departementets plikter ved utelukkelse og gjeninkludering av selskaper
+### § 7-3. Departementets plikter ved gjeninkludering av selskaper
 
-Departementet skal gi Folketrygdfondet melding om verdipapirer som er utelukket eller gjeninkludert i henhold til retningslinjer for observasjon og utelukkelse fra Statens pensjonsfond utland, jf. [§ 3-1](forskrift/2010-12-21-1790/§3-1) tredje ledd og [§ 3-6](forskrift/2010-12-21-1790/§3-6) åttende ledd.
+Departementet skal gi Folketrygdfondet melding om verdipapirer som er gjeninkludert i henhold til [midlertidige etiske retningslinjer for Statens pensjonsfond utland](forskrift/2025-11-07-2231), jf. [§ 3-1 tredje ledd](forskrift/2010-12-21-1790/§3-1/ledd/3) og [§ 3-6 åttende ledd](forskrift/2010-12-21-1790/§3-6/ledd/8).
 
-> Endret ved [vedtak 14 mars 2016 nr. 238](forskrift/2016-03-14-238).
+> Endret ved vedtak [14 mars 2016 nr. 238](forskrift/2016-03-14-238), [5 okt 2026 nr. 2003](forskrift/2026-10-05-2003).
 
 ### § 7-4. Møter
 
