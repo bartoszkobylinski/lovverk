@@ -10,12 +10,12 @@ ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "1999-01-01"
 last_change_in_force: "2026-01-01"
-last_updated: "2023-01-10"
-xml_hash: "3885348cf0f8345b43e053becc8bf289c4af0f3278d267bba54795912d6a39a7"
+last_updated: "2026-10-09"
+xml_hash: "3c43e3f695f5d7c6c7db9cbbbafbcc917950746f753752263004a88df22165ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -753,7 +753,7 @@ Selskapet skal straks varsle rettighetshaverne når det mottar melding om eiersk
 
 > Overskriften tilføyd ved lov [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)), endret ved lov [16 juni 2017 nr. 71](lov/2017-06-16-71) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 760](forskrift/2017-06-16-760)).
 
-### § 5-7. Adgang til forenklet generalforsamlingsbehandling
+### § 5-7. Forenklet generalforsamling
 
 Dersom ingen aksjeeiere motsetter seg det, kan en sak behandles på generalforsamlingen etter reglene i bestemmelsen her. Generalforsamlingen kan holdes uten fysisk møte, herunder ved hjelp av elektroniske hjelpemidler. For gjennomføring av forenklet generalforsamling gjelder følgende regler:
 
