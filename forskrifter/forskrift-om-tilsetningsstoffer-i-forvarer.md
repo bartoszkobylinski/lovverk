@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2005-04-12"
-last_change_in_force: "2026-07-14"
+last_change_in_force: "2026-10-01"
 last_updated: "2017-06-01"
-xml_hash: "3b6d3876a071ad06d8d2249890792a2e5a736c630b1b40a64630c869579c03f0"
+xml_hash: "5accf817ae7d9b6bbb93c4fe979bcc4a5c67eda31c44304c37e6fcc66cb473b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Med tilsetningsstoffer menes her stoffer, mikroorganismer og preparater herunder
 
 [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), kapittel II, nr. 1 (forordning [(EF) nr. 1831/2003](eu/32003r1831) som endret ved forordning [(EF) nr. 378/2005](eu/32005r0378), forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 386/2009](eu/32009r0386), forordning [(EU) 2015/327](eu/32015r0327), forordning [(EU) 2015/2294](eu/32015r2294), forordning [(EU) 2019/962](eu/32019r0962) og forordning [(EU) 2019/1381](eu/32019r1381)) om tilsetningsstoffer i fôrvarer, gjelder som forskrift, med de EØS-tilpasninger som følger av vedlegg I, kapittel II, protokoll 1 til avtalen og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig.
 
-> Endret ved [forskrifter 6 juni 2008 nr. 927](forskrift/2008-06-06-927), [24 mars 2010 nr. 453](forskrift/2010-03-24-453), [8 juli 2010 nr. 1084](forskrift/2010-07-08-1084), [23 juni 2015 nr. 791](forskrift/2015-06-23-791), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [10 juni 2016 nr. 661](forskrift/2016-06-10-661), [15 okt 2019 nr. 1371](forskrift/2019-10-15-1371), [12 mai 2022 nr. 960](forskrift/2022-05-12-960) (i kraft 1 juni 2022).
+> Endret ved [forskrifter 6 juni 2008 nr. 927](forskrift/2008-06-06-927), [24 mars 2010 nr. 453](forskrift/2010-03-24-453), [8 juli 2010 nr. 1084](forskrift/2010-07-08-1084), [23 juni 2015 nr. 791](forskrift/2015-06-23-791), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [10 juni 2016 nr. 661](forskrift/2016-06-10-661), [15 okt 2019 nr. 1371](forskrift/2019-10-15-1371), [12 mai 2022 nr. 960](forskrift/2022-05-12-960) (i kraft 1 juni 2022). **Endres** ved forskrift [1 okt 2026 nr. 1998](forskrift/2026-10-01-1998) (i kraft 16 des 2026).
 
 ## § 3. Godkjente tilsetningsstoffer
 
@@ -90,7 +90,6 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EF) nr. 1464/2004](eu/32004r1464) (endret ved forordning [(EF) nr. 545/2006](eu/32006r0545), forordning [(EU) nr. 884/2010](eu/32010r0884) og forordning [(EU) 2019/138](eu/32019r0138)),
 - forordning [(EF) nr. 255/2005](eu/32005r0255) (endret ved forordning [(EU) nr. 171/2011](eu/32011r0171), forordning [(EU) 2015/1053](eu/32015r1053), forordning [(EU) 2015/1399](eu/32015r1399), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2017/1896](eu/32017r1896)),
 - forordning [(EF) nr. 358/2005](eu/32005r0358) (endret ved forordning [(EU) 2017/429](eu/32017r0429), forordning [(EU) 2017/1145](eu/32017r1145)), forordning [(EU) 2017/963](eu/32017r0963), forordning [(EU) 2021/758](eu/32021r0758) og forordning [(EU) 2025/2575](eu/32025r2575)),
-- forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885), forordning [(EF) nr. 386/2009](eu/32009r0386) og forordning [(EU) 2015/1761](eu/32015r1761)),
 - forordning [(EF) nr. 521/2005](eu/32005r0521) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812), forordning [(EU) 221/2011](eu/32011r0221) og forordning [(EU) 2017/1145](eu/32017r1145)),
 - forordning [(EF) nr. 600/2005](eu/32005r0600) (endret ved forordning [(EF) nr. 2028/2006](eu/32006r2028), forordning [(EF) nr. 496/2007](eu/32007r0496), forordning [(EF) nr. 202/2009](eu/32009r0202), forordning [(EU) nr. 516/2011](eu/32011r0516), forordning [(EU) nr. 118/2012](eu/32012r0118), forordning [(EU) nr. 1014/2013](eu/32013r1014), forordning [(EU) 2017/447](eu/32017r0447), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2023/2662](eu/32023r2662)),
 - forordning [(EF) nr. 1206/2005](eu/32005r1206) (endret ved forordning [(EU) nr. 403/2013](eu/32013r0403), forordning [(EU) 2017/211](eu/32017r0211) og forordning [(EU) 2017/1145](eu/32017r1145)),
@@ -155,7 +154,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) nr. 868/2012](eu/32012r0868),
 - forordning [(EU) nr. 991/2012](eu/32012r0991) (endret ved forordning [(EU) 2016/1095](eu/32016r1095)),
 - forordning [(EU) nr. 1021/2012](eu/32012r1021) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),
-- forordning [(EU) nr. 1065/2012](eu/32012r1065) (endret ved forordning [(EU) 2023/1443](eu/32023r1443), forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/252](eu/32024r0252) og forordning [(EU) 2024/1189](eu/32024r1189)),
+- forordning [(EU) nr. 1065/2012](eu/32012r1065) (endret ved forordning [(EU) 2023/1443](eu/32023r1443), forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/252](eu/32024r0252), forordning [(EU) 2024/1189](eu/32024r1189) og forordning [(EU) 2026/1146](eu/32026r1146) ),
 - forordning [(EU) nr. 1195/2012](eu/32012r1195),
 - forordning [(EU) nr. 96/2013](eu/32013r0096) (endret ved forordning [(EU) 2024/1757](eu/32024r1757)),
 - forordning [(EU) nr. 230/2013](eu/32013r0230),
@@ -167,7 +166,6 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) nr. 796/2013](eu/32013r0796),
 - forordning [(EU) nr. 803/2013](eu/32013r0803),
 - forordning [(EU) nr. 1060/2013](eu/32013r1060),
-- forordning [(EU) nr. 1113/2013](eu/32013r1113) (endret ved forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/1810](eu/32024r1810) og forordning [(EU) 2025/1504](eu/32025r1504)),
 - forordning [(EU) nr. 1077/2013](eu/32013r1077),
 - forordning [(EU) nr. 1404/2013](eu/32013r1404),
 - forordning [(EU) nr. 121/2014](eu/32014r0121),
@@ -179,9 +177,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) nr. 1115/2014](eu/32014r1115),
 - forordning [(EU) nr. 1230/2014](eu/32014r1230*) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),
 - forordning [(EU) nr. 1236/2014](eu/32014r1236) (endret ved forordning [(EU) 2015/1114](eu/32015r1114)),
-- forordning [(EU) nr. 1249/2014](eu/32014r1249),
 - forordning [(EU) 2015/244](eu/32015r0244),
-- forordning [(EU) 2015/264](eu/32015r0264),
 - forordning [(EU) 2015/47](eu/32015r0047),
 - forordning [(EU) 2015/489](eu/32015r0489),
 - forordning [(EU) 2015/661](eu/32015r0661),
@@ -190,7 +186,6 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2015/724](eu/32015r0724*),
 - forordning [(EU) 2015/1060](eu/32015r1060),
 - forordning [(EU) 2015/1061](eu/32015r1061),
-- forordning [(EU) 2015/1103](eu/32015r1103),
 - forordning [(EU) 2015/1152](eu/32015r1152),
 - forordning [(EU) 2015/1417](eu/32015r1417),
 - forordning [(EU) 2015/1426](eu/32015r1426),
@@ -399,7 +394,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2020/1376](eu/32020r1376),
 - forordning [(EU) 2020/1377](eu/32020r1377),
 - forordning [(EU) 2020/1378](eu/32020r1378),
-- forordning [(EU) 2020/1395](eu/32020r1395) (endret ved forordning [(EU) 2021/733](eu/32021r0733)),
+- forordning [(EU) 2020/1395](eu/32020r1395) (endret ved forordning [(EU) 2021/733](eu/32021r0733) og og forordning [(EU) 2026/1036](eu/32026r1036)),
 - forordning [(EU) 2020/1396](eu/32020r1396),
 - forordning [(EU) 2020/1397](eu/32020r1397),
 - forordning [(EU) 2020/1398](eu/32020r1398),
@@ -463,7 +458,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2021/2051](eu/32021r2051) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
 - forordning [(EU) 2021/2080](eu/32021r2080),
 - forordning [(EU) 2021/1426](eu/32021r1426) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
-- forordning [(EU) 2021/2050](eu/32021r2050),
+- forordning [(EU) 2021/2050](eu/32021r2050) (endret ved forordning [(EU) 2026/1036](eu/32026r1036)),
 - forordning [(EU) 2021/2077](eu/32021r2077),
 - forordning [(EU) 2021/2093](eu/32021r2093),
 - forordning [(EU) 2021/2096](eu/32021r2096) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
@@ -514,7 +509,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2023/341](eu/32023r0341),
 - forordning [(EU) 2023/53](eu/32023r0053),
 - forordning [(EU) 2023/59](eu/32023r0059),
-- forordning [(EU) 2023/60](eu/32023r0060),
+- forordning [(EU) 2023/60](eu/32023r0060) (endret ved forordning [(EU) 2026/1158](eu/32026r1158)),
 - forordning [(EU) 2023/61](eu/32023r0061),
 - forordning [(EU) 2023/366](eu/32023r0366) (endret ved forordning [(EU) 2024/3166](eu/32024r3166)),
 - forordning [(EU) 2023/565](eu/32023r0565),
@@ -701,7 +696,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2025/1776](eu/32025r1776),
 - forordning [(EU) 2025/1782](eu/32025r1782),
 - forordning [(EU) 2025/1784](eu/32025r1784),
-- forordning [(EU) 2025/1787](eu/32025r1787),
+- forordning [(EU) 2025/1787](eu/32025r1787) (endret ved forordning [(EU) 2026/1011](eu/32026r1011)) ,
 - forordning [(EU) 2025/1795](eu/32025r1795),
 - forordning [(EU) 2025/2171](eu/32025r2171),
 - forordning [(EU) 2025/2175](eu/32025r2175),
@@ -750,6 +745,22 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2026/540](eu/32026r0540),
 - forordning [(EU) 2024/1054](eu/32024r1054) og
 - forordning [(EU) 2026/549](eu/32026r0549)
+- forordning [(EU) 2026/1012](eu/32026r1012),
+- forordning [(EU) 2026/1013](eu/32026r1013),
+- forordning [(EU) 2026/1014](eu/32026r1014),
+- forordning [(EU) 2026/1016](eu/32026r1016),
+- forordning [(EU) 2026/1017](eu/32026r1017),
+- forordning [(EU) 2026/1018](eu/32026r1018),
+- forordning [(EU) 2026/1019](eu/32026r1019),
+- forordning [(EU) 2026/1020](eu/32026r1020),
+- forordning [(EU) 2026/1036](eu/32026r1036),
+- forordning [(EU) 2026/1037](eu/32026r1037),
+- forordning [(EU) 2026/1117](eu/32026r1117),
+- forordning [(EU) 2026/1122](eu/32026r1122),
+- forordning [(EU) 2026/1146](eu/32026r1146),
+- forordning [(EU) 2026/1148](eu/32026r1148),
+- forordning [(EU) 2026/1150](eu/32026r1150) og
+- forordning [(EU) 2026/1151](eu/32026r1151)
 
 gjelder som forskrift med de tilpasninger som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -761,7 +772,7 @@ Fôrtilsetningsstoffer, tillatt brukt i fôrvare, er tatt inn i EU's register ov
 
 1 EU-register over godkjente tilsetningsstoffer i fôr: https://ec.europa.eu/food/sites/food/files/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf
 
-> Endret ved [forskrifter 15 juni 2005 nr. 678](forskrift/2005-06-15-678), [25 okt 2005 nr. 1252](forskrift/2005-10-25-1252), [22 mars 2006 nr. 365](forskrift/2006-03-22-365), [13 nov 2006 nr. 1318](forskrift/2006-11-13-1318), [14 mars 2007 nr. 268](forskrift/2007-03-14-268), [15 juni 2007 nr. 665](forskrift/2007-06-15-665), [28 juni 2007 nr. 813](forskrift/2007-06-28-813), [31 juli 2007 nr. 940](forskrift/2007-07-31-940), [24 okt 2007 nr. 1174](forskrift/2007-10-24-1174), [14 des 2007 nr. 1533](forskrift/2007-12-14-1533), [4 april 2008 nr. 322](forskrift/2008-04-04-322), [28 april 2008 nr. 402](forskrift/2008-04-28-402), [6 juni 2008 nr. 927](forskrift/2008-06-06-927), [9 feb 2009 nr. 152](forskrift/2009-02-09-152), [18 mars 2009 nr. 343](forskrift/2009-03-18-343), [4 mai 2009 nr. 472](forskrift/2009-05-04-472), [3 juni 2009 nr. 584](forskrift/2009-06-03-584), [1 feb 2010 nr. 95](forskrift/2010-02-01-95), [22 mars 2010 nr. 440](forskrift/2010-03-22-440), [24 mars 2010 nr. 453](forskrift/2010-03-24-453), [30 april 2010 nr. 638](forskrift/2010-04-30-638), [7 mai 2010 nr. 678](forskrift/2010-05-07-678), [20 sep 2010 nr. 1278](forskrift/2010-09-20-1278), [3 mai 2011 nr. 453](forskrift/2011-05-03-453), [1 nov 2011 nr. 1074](forskrift/2011-11-01-1074), [5 des 2011 nr. 1321](forskrift/2011-12-05-1321), [26 april 2012 nr. 394](forskrift/2012-04-26-394) (i kraft 1 mai 2012), [27 april 2012 nr. 395](forskrift/2012-04-27-395) (i kraft 1 mai 2012), [3 mai 2012 nr. 398](forskrift/2012-05-03-398), [14 des 2012 nr. 1322](forskrift/2012-12-14-1322), [4 feb 2013 nr. 137](forskrift/2013-02-04-137), [21 mars 2013 nr. 324](forskrift/2013-03-21-324), [5 april 2013 nr. 390](forskrift/2013-04-05-390), [6 mai 2013 nr. 433](forskrift/2013-05-06-433), [17 juni 2013 nr. 654](forskrift/2013-06-17-654), [1 juli 2013 nr. 814](forskrift/2013-07-01-814), [7 okt 2013 nr. 1210](forskrift/2013-10-07-1210), [21 okt 2013 nr. 1242](forskrift/2013-10-21-1242), [12 nov 2013 nr. 1315](forskrift/2013-11-12-1315), [17 des 2013 nr. 1563](forskrift/2013-12-17-1563), [20 jan 2014 nr. 50](forskrift/2014-01-20-50), [19 feb 2014 nr. 198](forskrift/2014-02-19-198), [30 april 2014 nr. 605](forskrift/2014-04-30-605), [21 mai 2014 nr. 692](forskrift/2014-05-21-692), [11 juli 2014 nr. 994](forskrift/2014-07-11-994), [26 sep 2014 nr. 1280](forskrift/2014-09-26-1280), [29 okt 2014 nr. 1365](forskrift/2014-10-29-1365), [17 mars 2015 nr. 227](forskrift/2015-03-17-227), [25 mars 2015 nr. 307](forskrift/2015-03-25-307), [22 april 2015 nr. 423](forskrift/2015-04-22-423), [18 mai 2015 nr. 521](forskrift/2015-05-18-521), [15 juli 2015 nr. 905](forskrift/2015-07-15-905), [5 okt 2015 nr. 1160](forskrift/2015-10-05-1160), [8 okt 2015 nr. 1172](forskrift/2015-10-08-1172), [24 nov 2015 nr. 1353](forskrift/2015-11-24-1353), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [8 april 2016 nr. 358](forskrift/2016-04-08-358), [26 mai 2016 nr. 525](forskrift/2016-05-26-525), [15 juli 2016 nr. 935](forskrift/2016-07-15-935), [19 des 2016 nr. 1823](forskrift/2016-12-19-1823), [9 feb 2017 nr. 152](forskrift/2017-02-09-152), [27 mars 2017 nr. 409](forskrift/2017-03-27-409), [26 mai 2017 nr. 658](forskrift/2017-05-26-658), [2 juni 2017 nr. 715](forskrift/2017-06-02-715), [30 juli 2017 nr. 1224](forskrift/2017-07-30-1224), [6 des 2017 nr. 1938](forskrift/2017-12-06-1938), [19 jan 2018 nr. 57](forskrift/2018-01-19-57), [19 feb 2018 nr. 243](forskrift/2018-02-19-243), [27 mars 2018 nr. 515](forskrift/2018-03-27-515), [11 mai 2018 nr. 732](forskrift/2018-05-11-732), [26 juli 2018 nr. 1209](forskrift/2018-07-26-1209), [18 des 2018 nr. 2159](forskrift/2018-12-18-2159), [12 feb 2019 nr. 94](forskrift/2019-02-12-94), [24 april 2019 nr. 532](forskrift/2019-04-24-532), [10 mai 2019 nr. 591](forskrift/2019-05-10-591), [24 juni 2019 nr. 917](forskrift/2019-06-24-917), [27 juni 2019 nr. 949](forskrift/2019-06-27-949), [15 okt 2019 nr. 1371](forskrift/2019-10-15-1371), [6 nov 2019 nr. 1470](forskrift/2019-11-06-1470), [7 nov 2019 nr. 1483](forskrift/2019-11-07-1483), [18 des 2019 nr. 1999](forskrift/2019-12-18-1999), [5 mai 2020 nr. 937](forskrift/2020-05-05-937), [29 juni 2020 nr. 1429](forskrift/2020-06-29-1429) (i kraft 1 juli 2020), [8 okt 2020 nr. 1988](forskrift/2020-10-08-1988), [6 nov 2020 nr. 2268](forskrift/2020-11-06-2268), [23 des 2020 nr. 3167](forskrift/2020-12-23-3167), [19 feb 2021 nr. 498](forskrift/2021-02-19-498), [25 mars 2021 nr. 1031](forskrift/2021-03-25-1031), [15 juli 2021 nr. 2427](forskrift/2021-07-15-2427), [21 des 2021 nr. 3823](forskrift/2021-12-21-3823), [5 mai 2022 nr. 837](forskrift/2022-05-05-837), [16 juni 2022 nr. 1089](forskrift/2022-06-16-1089), [21 juni 2022 nr. 1136](forskrift/2022-06-21-1136), [12 juli 2022 nr. 1343](forskrift/2022-07-12-1343), [4 okt 2022 nr. 1720](forskrift/2022-10-04-1720), [19 des 2022 nr. 2286](forskrift/2022-12-19-2286), [8 feb 2023 nr. 164](forskrift/2023-02-08-164), [27 mars 2023 nr. 429](forskrift/2023-03-27-429), [3 nov 2023 nr. 1782](forskrift/2023-11-03-1782), [16 nov 2023 nr. 1852](forskrift/2023-11-16-1852), [11 des 2023 nr. 2002](forskrift/2023-12-11-2002), [12 feb 2024 nr. 249](forskrift/2024-02-12-249), [9 april 2024 nr. 583](forskrift/2024-04-09-583), [3 mai 2024 nr. 735](forskrift/2024-05-03-735), [21 juni 2024 nr. 1192](forskrift/2024-06-21-1192), [12 juli 2024 nr. 1723](forskrift/2024-07-12-1723), [1 okt 2024 nr. 2390](forskrift/2024-10-01-2390), [2 des 2024 nr. 2917](forskrift/2024-12-02-2917), [13 jan 2025 nr. 39](forskrift/2025-01-13-39), [10 mars 2025 nr. 412](forskrift/2025-03-10-412), [24 juni 2025 nr. 1198](forskrift/2025-06-24-1198), [17 juli 2025 nr. 1540](forskrift/2025-07-17-1540), [26 sep 2025 nr. 1958](forskrift/2025-09-26-1958), [19 des 2025 nr. 2800](forskrift/2025-12-19-2800), [10 feb 2026 nr. 182](forskrift/2026-02-10-182), [30 mars 2026 nr. 588](forskrift/2026-03-30-588), [7 mai 2026 nr. 764](forskrift/2026-05-07-764), [15 juni 2026 nr. 1093](forskrift/2026-06-15-1093), [14 juli 2026 nr. 1562](forskrift/2026-07-14-1562).
+> Endret ved [forskrifter 15 juni 2005 nr. 678](forskrift/2005-06-15-678), [25 okt 2005 nr. 1252](forskrift/2005-10-25-1252), [22 mars 2006 nr. 365](forskrift/2006-03-22-365), [13 nov 2006 nr. 1318](forskrift/2006-11-13-1318), [14 mars 2007 nr. 268](forskrift/2007-03-14-268), [15 juni 2007 nr. 665](forskrift/2007-06-15-665), [28 juni 2007 nr. 813](forskrift/2007-06-28-813), [31 juli 2007 nr. 940](forskrift/2007-07-31-940), [24 okt 2007 nr. 1174](forskrift/2007-10-24-1174), [14 des 2007 nr. 1533](forskrift/2007-12-14-1533), [4 april 2008 nr. 322](forskrift/2008-04-04-322), [28 april 2008 nr. 402](forskrift/2008-04-28-402), [6 juni 2008 nr. 927](forskrift/2008-06-06-927), [9 feb 2009 nr. 152](forskrift/2009-02-09-152), [18 mars 2009 nr. 343](forskrift/2009-03-18-343), [4 mai 2009 nr. 472](forskrift/2009-05-04-472), [3 juni 2009 nr. 584](forskrift/2009-06-03-584), [1 feb 2010 nr. 95](forskrift/2010-02-01-95), [22 mars 2010 nr. 440](forskrift/2010-03-22-440), [24 mars 2010 nr. 453](forskrift/2010-03-24-453), [30 april 2010 nr. 638](forskrift/2010-04-30-638), [7 mai 2010 nr. 678](forskrift/2010-05-07-678), [20 sep 2010 nr. 1278](forskrift/2010-09-20-1278), [3 mai 2011 nr. 453](forskrift/2011-05-03-453), [1 nov 2011 nr. 1074](forskrift/2011-11-01-1074), [5 des 2011 nr. 1321](forskrift/2011-12-05-1321), [26 april 2012 nr. 394](forskrift/2012-04-26-394) (i kraft 1 mai 2012), [27 april 2012 nr. 395](forskrift/2012-04-27-395) (i kraft 1 mai 2012), [3 mai 2012 nr. 398](forskrift/2012-05-03-398), [14 des 2012 nr. 1322](forskrift/2012-12-14-1322), [4 feb 2013 nr. 137](forskrift/2013-02-04-137), [21 mars 2013 nr. 324](forskrift/2013-03-21-324), [5 april 2013 nr. 390](forskrift/2013-04-05-390), [6 mai 2013 nr. 433](forskrift/2013-05-06-433), [17 juni 2013 nr. 654](forskrift/2013-06-17-654), [1 juli 2013 nr. 814](forskrift/2013-07-01-814), [7 okt 2013 nr. 1210](forskrift/2013-10-07-1210), [21 okt 2013 nr. 1242](forskrift/2013-10-21-1242), [12 nov 2013 nr. 1315](forskrift/2013-11-12-1315), [17 des 2013 nr. 1563](forskrift/2013-12-17-1563), [20 jan 2014 nr. 50](forskrift/2014-01-20-50), [19 feb 2014 nr. 198](forskrift/2014-02-19-198), [30 april 2014 nr. 605](forskrift/2014-04-30-605), [21 mai 2014 nr. 692](forskrift/2014-05-21-692), [11 juli 2014 nr. 994](forskrift/2014-07-11-994), [26 sep 2014 nr. 1280](forskrift/2014-09-26-1280), [29 okt 2014 nr. 1365](forskrift/2014-10-29-1365), [17 mars 2015 nr. 227](forskrift/2015-03-17-227), [25 mars 2015 nr. 307](forskrift/2015-03-25-307), [22 april 2015 nr. 423](forskrift/2015-04-22-423), [18 mai 2015 nr. 521](forskrift/2015-05-18-521), [15 juli 2015 nr. 905](forskrift/2015-07-15-905), [5 okt 2015 nr. 1160](forskrift/2015-10-05-1160), [8 okt 2015 nr. 1172](forskrift/2015-10-08-1172), [24 nov 2015 nr. 1353](forskrift/2015-11-24-1353), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [8 april 2016 nr. 358](forskrift/2016-04-08-358), [26 mai 2016 nr. 525](forskrift/2016-05-26-525), [15 juli 2016 nr. 935](forskrift/2016-07-15-935), [19 des 2016 nr. 1823](forskrift/2016-12-19-1823), [9 feb 2017 nr. 152](forskrift/2017-02-09-152), [27 mars 2017 nr. 409](forskrift/2017-03-27-409), [26 mai 2017 nr. 658](forskrift/2017-05-26-658), [2 juni 2017 nr. 715](forskrift/2017-06-02-715), [30 juli 2017 nr. 1224](forskrift/2017-07-30-1224), [6 des 2017 nr. 1938](forskrift/2017-12-06-1938), [19 jan 2018 nr. 57](forskrift/2018-01-19-57), [19 feb 2018 nr. 243](forskrift/2018-02-19-243), [27 mars 2018 nr. 515](forskrift/2018-03-27-515), [11 mai 2018 nr. 732](forskrift/2018-05-11-732), [26 juli 2018 nr. 1209](forskrift/2018-07-26-1209), [18 des 2018 nr. 2159](forskrift/2018-12-18-2159), [12 feb 2019 nr. 94](forskrift/2019-02-12-94), [24 april 2019 nr. 532](forskrift/2019-04-24-532), [10 mai 2019 nr. 591](forskrift/2019-05-10-591), [24 juni 2019 nr. 917](forskrift/2019-06-24-917), [27 juni 2019 nr. 949](forskrift/2019-06-27-949), [15 okt 2019 nr. 1371](forskrift/2019-10-15-1371), [6 nov 2019 nr. 1470](forskrift/2019-11-06-1470), [7 nov 2019 nr. 1483](forskrift/2019-11-07-1483), [18 des 2019 nr. 1999](forskrift/2019-12-18-1999), [5 mai 2020 nr. 937](forskrift/2020-05-05-937), [29 juni 2020 nr. 1429](forskrift/2020-06-29-1429) (i kraft 1 juli 2020), [8 okt 2020 nr. 1988](forskrift/2020-10-08-1988), [6 nov 2020 nr. 2268](forskrift/2020-11-06-2268), [23 des 2020 nr. 3167](forskrift/2020-12-23-3167), [19 feb 2021 nr. 498](forskrift/2021-02-19-498), [25 mars 2021 nr. 1031](forskrift/2021-03-25-1031), [15 juli 2021 nr. 2427](forskrift/2021-07-15-2427), [21 des 2021 nr. 3823](forskrift/2021-12-21-3823), [5 mai 2022 nr. 837](forskrift/2022-05-05-837), [16 juni 2022 nr. 1089](forskrift/2022-06-16-1089), [21 juni 2022 nr. 1136](forskrift/2022-06-21-1136), [12 juli 2022 nr. 1343](forskrift/2022-07-12-1343), [4 okt 2022 nr. 1720](forskrift/2022-10-04-1720), [19 des 2022 nr. 2286](forskrift/2022-12-19-2286), [8 feb 2023 nr. 164](forskrift/2023-02-08-164), [27 mars 2023 nr. 429](forskrift/2023-03-27-429), [3 nov 2023 nr. 1782](forskrift/2023-11-03-1782), [16 nov 2023 nr. 1852](forskrift/2023-11-16-1852), [11 des 2023 nr. 2002](forskrift/2023-12-11-2002), [12 feb 2024 nr. 249](forskrift/2024-02-12-249), [9 april 2024 nr. 583](forskrift/2024-04-09-583), [3 mai 2024 nr. 735](forskrift/2024-05-03-735), [21 juni 2024 nr. 1192](forskrift/2024-06-21-1192), [12 juli 2024 nr. 1723](forskrift/2024-07-12-1723), [1 okt 2024 nr. 2390](forskrift/2024-10-01-2390), [2 des 2024 nr. 2917](forskrift/2024-12-02-2917), [13 jan 2025 nr. 39](forskrift/2025-01-13-39), [10 mars 2025 nr. 412](forskrift/2025-03-10-412), [24 juni 2025 nr. 1198](forskrift/2025-06-24-1198), [17 juli 2025 nr. 1540](forskrift/2025-07-17-1540), [26 sep 2025 nr. 1958](forskrift/2025-09-26-1958), [19 des 2025 nr. 2800](forskrift/2025-12-19-2800), [10 feb 2026 nr. 182](forskrift/2026-02-10-182), [30 mars 2026 nr. 588](forskrift/2026-03-30-588), [7 mai 2026 nr. 764](forskrift/2026-05-07-764), [15 juni 2026 nr. 1093](forskrift/2026-06-15-1093), [14 juli 2026 nr. 1562](forskrift/2026-07-14-1562), [1 okt 2026 nr. 1997](forskrift/2026-10-01-1997).
 
 ## § 3a. Koksidiostatika og kopper
 
@@ -779,14 +790,14 @@ For bruk av kopper i fôr til smågris er høyeste tillatt innhold på 35 mg kop
 
 ## § 3b. Søknad om godkjenning
 
-Ved søknad om godkjenning av et tilsetningsstoff eller søknad om ny anvendelse av et tilsetningsstoff gjelder [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel II med følgende forordninger:
+Ved søknad om godkjenning av et tilsetningsstoff eller søknad om ny anvendelse av et tilsetningsstoff gjelder [EØS-avtalen vedlegg I kapittel II](avtale/avt-1992-05-02-1-v1/kapII) med følgende forordninger:
 
-- forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885) og forordning [(EU) 2015/1761](eu/32015r1761)) og
+- forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885), forordning [(EU) 2015/1761](eu/32015r1761) og forordning [(EU) 2026/94](eu/32026r0094))
 - forordning [(EF) nr. 429/2008](eu/32008r0429) (endret ved forordning [(EU) 2020/1773](eu/32020r1773))
 
 som forskrift med de tilpasninger som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved [forskrift 23 jan 2006 nr. 81](forskrift/2006-01-23-81), endret ved [forskrifter 6 juni 2008 nr. 927](forskrift/2008-06-06-927), [18 mars 2009 nr. 343](forskrift/2009-03-18-343), [5 april 2013 nr. 390](forskrift/2013-04-05-390), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [7 nov 2019 nr. 1483](forskrift/2019-11-07-1483) (tidligere § 3a), [17 nov 2022 nr. 1989](forskrift/2022-11-17-1989).
+> Tilføyd ved [forskrift 23 jan 2006 nr. 81](forskrift/2006-01-23-81), endret ved [forskrifter 6 juni 2008 nr. 927](forskrift/2008-06-06-927), [18 mars 2009 nr. 343](forskrift/2009-03-18-343), [5 april 2013 nr. 390](forskrift/2013-04-05-390), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [7 nov 2019 nr. 1483](forskrift/2019-11-07-1483) (tidligere § 3a), [17 nov 2022 nr. 1989](forskrift/2022-11-17-1989), [1 okt 2026 nr. 1997](forskrift/2026-10-01-1997). **Endres** ved forskrift [1 okt 2026 nr. 1998](forskrift/2026-10-01-1998) (i kraft 16 des 2026).
 
 ## § 4. Tilsyn og vedtak
 
@@ -811,6 +822,7 @@ Denne forskrift trer i kraft straks.
 ### Konsolidert forordning (EF) nr. 1831/2003
 
 > Forordning tilføyd ved [forskrift 30 april 2014 nr. 605](forskrift/2014-04-30-605), endret ved [forskrifter 23 juni 2015 nr. 791](forskrift/2015-06-23-791), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [10 juni 2016 nr. 661](forskrift/2016-06-10-661), [6 nov 2020 nr. 2268](forskrift/2020-11-06-2268), [12 mai 2022 nr. 960](forskrift/2022-05-12-960) (i kraft 1 juni 2022).
+**Endres** ved forskrift [1 okt 2026 nr. 1998](forskrift/2026-10-01-1998) (i kraft 16 des 2026).
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1831/2003](eu/32003r1831). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 378/2005](eu/32005r0378), forordning [(EF) nr. 386/2009](eu/32009r0386), forordning [(EU) 2015/327](eu/32015r0327), forordning [(EU) 2015/2294](eu/32015r2294), forordning [(EU) 2019/962](eu/32019r0962) og forordning [(EU) 2019/1381](eu/32019r1381) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og protokoll 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
