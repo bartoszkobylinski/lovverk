@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-05-12"
+last_change_in_force: "2026-10-08"
 last_updated: null
-xml_hash: "06138fb280e45e6696fdfb05de18eb2f78c1ed9c7f59985163d67bdeed2193ac"
+xml_hash: "a7473ff71e50b6b3334e100b78ec2bdab026a7024b260e9c3aad042fc1cf7a91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -140,6 +140,12 @@ Uten hinder av forbudet i [§ 7](forskrift/2025-12-19-2889/§7) er det tillatt �
 Fartøy kan ikke delta i fiske etter reke og kreps med trål i Oslofjorden i nullfiskeområdets virkeperiode dersom eier av fartøyet har bekreftet skriftlig at vedkommende er orientert om dette fiskeforbudet i medhold av [forskrift om midlertidig tilskudd for fiskerinæringen i Oslofjorden § 4](forskrift/2026-05-12-0780/§4). Med eier menes det her den enkeltperson som eier mer enn 50 prosent av fartøyet. Dersom ingen enkeltperson er majoritetseier, skal det ses hen til medeiere som til sammen eier mer enn 50 prosent i fartøyet.
 
 > Tilføyd ved forskrift [12 mai 2026 nr. 781](forskrift/2026-05-12-781).
+
+### § 8b. Forbud mot fiske i Oslofjorden for mottakere av midlertidig tilskudd for eiere av konvensjonelle kystfartøy i Oslofjorden
+
+Fartøy kan ikke delta i ervervsmessig fiske og fangst i Oslofjorden i nullfiskeområdets virkeperiode dersom eier av fartøyet har bekreftet skriftlig at vedkommende er orientert om dette fiskeforbudet i medhold av [forskrift om midlertidig tilskudd for andre redskapsgrupper enn reketrål i Oslofjorden § 4](forskrift/2026-10-08-2011/§4). Med eier menes det her den enkeltperson som eier mer enn 50 prosent av fartøyet. Dersom ingen enkeltperson er majoritetseier, skal det ses hen til medeiere som til sammen eier mer enn 50 prosent i fartøyet.
+
+> Tilføyd ved forskrift [8 okt 2026 nr. 2010](forskrift/2026-10-08-2010).
 
 ### § 9. Fiske etter reker og kreps med trål
 
