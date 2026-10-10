@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-11-07"
-last_change_in_force: null
+last_change_in_force: "2026-10-05"
 last_updated: null
-xml_hash: "ee9b8f1d72d5f6b4d8b1aa6baadc1748ff098450c894e1452284c274a0092025"
+xml_hash: "045db37d29f4a52091cc498c72acd5364acb62376e986a022e1a695692f4af46"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Disse retningslinjene gjelder for arbeidet i Etikkrådet for Statens pensjonsfon
 
 (1) Selskaper skal identifiseres for mulig eierskapsutøvelse ut fra om selskapet selv eller gjennom enheter de kontrollerer:
 
-1. utvikler eller produserer våpen eller sentrale komponenter til våpen som ved normal anvendelse bryter med grunnleggende humanitære prinsipper, herunder biologiske våpen, kjemiske våpen, kjernevåpen, ikke-detektbare fragmenter, brannvåpen, blindende laservåpen, antipersonellminer og klaseammunisjon
+1. utvikler eller produserer våpen eller sentrale komponenter til våpen som ved normal anvendelse bryter med grunnleggende humanitære prinsipper, herunder biologiske våpen, kjemiske våpen, kjernevåpen, ikke-detekterbare fragmenter, brannvåpen, blindende laservåpen, antipersonellminer og klaseammunisjon.
 2. produserer tobakk eller tobakksvarer
 3. produserer cannabis til rusformål.
 
@@ -48,6 +48,8 @@ Disse retningslinjene gjelder for arbeidet i Etikkrådet for Statens pensjonsfon
 2. baserer 30 pst. eller mer av sin virksomhet på termisk kull,
 3. utvinner mer enn 20 millioner tonn termisk kull per år, eller
 4. har en kraftkapasitet på mer enn 10 000 MW fra termisk kull.
+
+> Endret ved vedtak [5 okt 2026 nr. 2004](forskrift/2026-10-05-2004).
 
 ### § 4. Atferdsbaserte kriterier
 
