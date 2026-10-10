@@ -8,14 +8,15 @@ short_title: "Viltressursloven"
 language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
+  - "Klima- og miljødepartementet"
 date_in_force: "2026-07-01"
 last_change_in_force: "2026-06-19"
 last_updated: "2026-07-03"
-xml_hash: "f60e0babf73452a9b374dbbd53918892db05bf8bd4799f241c314c4d3fa5056f"
+xml_hash: "d4e98bfa56ca3b5e959675911b7c9584abbb2829501069767b6bbe18c2a9ee37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
