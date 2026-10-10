@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2026-09-14"
+last_change_in_force: "2026-10-02"
 last_updated: "2024-01-16"
-xml_hash: "3745347ac78725c6536aec7e3c5507fbe2a736058385bc93020f5072866d47a0"
+xml_hash: "0672dec77085b016e58d751df93856f0a9818e5ee350d364d37f1d4f6397c340"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-16T09:15:00.988256+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -423,7 +423,7 @@ Teiner som er satt ut til fangst av sjøkreps, kongekrabbe, taskekrabbe, snøkra
 
 Teiner som fanger fisk skal ha rømmingshull innmontert i samsvar med anvisningene i vedlegg 3g.
 
-> Endret ved forskrifter [22 feb 2022 nr. 292](forskrift/2022-02-22-292), [28 feb 2022 nr. 316](forskrift/2022-02-28-316), [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [8 april 2022 nr. 568](forskrift/2022-04-08-568), [9 sep 2022 nr. 1564](forskrift/2022-09-09-1564), [4 okt 2023 nr. 1580](forskrift/2023-10-04-1580) (i kraft 1 jan 2024), [25 nov 2025 nr. 2415](forskrift/2025-11-25-2415) (i kraft 1 feb 2026).
+> Endret ved forskrifter [22 feb 2022 nr. 292](forskrift/2022-02-22-292), [28 feb 2022 nr. 316](forskrift/2022-02-28-316), [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [8 april 2022 nr. 568](forskrift/2022-04-08-568), [9 sep 2022 nr. 1564](forskrift/2022-09-09-1564), [4 okt 2023 nr. 1580](forskrift/2023-10-04-1580) (i kraft 1 jan 2024), [25 nov 2025 nr. 2415](forskrift/2025-11-25-2415) (i kraft 1 feb 2026). **Endres** ved forskrift [2 okt 2026 nr. 1999](forskrift/2026-10-02-1999) (i kraft 1 juli 2027).
 
 ### § 30. Forbud mot bruk av ruser
 
@@ -806,9 +806,9 @@ For å begrense fangst av fisk under minstemål, kan Fiskeridirektoratet:
 1. Forby fiske i visse områder nord for 62° N dersom innblanding av reker, torsk, hyse, sei, blåkveite og uer under minstemål overskrider det som fremgår av [§ 49](forskrift/2021-12-23-3910/§49) første og fjerde til ellevte ledd
 2. Forby fiske med trål og snurrevad i visse områder sør for 62° dersom det ved fiske med stormasket trål eller snurrevad er større innblanding enn til sammen 15 % torsk, sei, hyse og hvitting under minstemål i antall i de enkelte fangster.
 
-   Området kan stenges i inntil 14 dager, hvoretter det gjenåpnes automatisk.
+   Området kan stenges i inntil 21 dager, hvoretter det gjenåpnes automatisk.
 
-   Størrelsen på området kan være inntil 500 kvadratnautiske mil utenfor Skagerrak, jf. § 4 nr. 2 bokstav b, og inntil 250 kvadratnautiske mil i Skagerrak.
+   Størrelsen på området kan være inntil 500 kvadratnautiske mil utenfor Skagerrak, jf. [§ 4 nr. 2 bokstav b](forskrift/2021-12-23-3910/§4/nummer/2/bokstav/b), og inntil 250 kvadratnautiske mil i Skagerrak.
 
    Innenfor det stengte området kan det likevel fiskes med:
 
@@ -836,7 +836,7 @@ For å begrense fangst av fisk under minstemål, kan Fiskeridirektoratet:
 
 Fiskeridirektoratet kan forby fiske etter lodde i visse områder nord for 62° N dersom innblanding av lodde, torsk, hyse, sei og blåkveite under minstemål overskrider det som fremgår av [§ 49 første](forskrift/2021-12-23-3910/§49/ledd/1) og [tolvte ledd](forskrift/2021-12-23-3910/§49/ledd/12).
 
-> Endret ved forskrifter [22 feb 2022 nr. 292](forskrift/2022-02-22-292), [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [28 okt 2022 nr. 1968](forskrift/2022-10-28-1968) (i kraft 1 nov 2022), [6 mars 2024 nr. 388](forskrift/2024-03-06-388), [22 des 2025 nr. 2946](forskrift/2025-12-22-2946) (i kraft 1 jan 2026).
+> Endret ved forskrifter [22 feb 2022 nr. 292](forskrift/2022-02-22-292), [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [28 okt 2022 nr. 1968](forskrift/2022-10-28-1968) (i kraft 1 nov 2022), [6 mars 2024 nr. 388](forskrift/2024-03-06-388), [22 des 2025 nr. 2946](forskrift/2025-12-22-2946) (i kraft 1 jan 2026), [2 okt 2026 nr. 1999](forskrift/2026-10-02-1999).
 
 ### § 50a. Forbud mot å fiske med snurrevad for å begrense fangst av fisk under minstemål
 
