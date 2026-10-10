@@ -11,13 +11,13 @@ ministry:
   - "Klima- og miljødepartementet"
   - "Landbruks- og matdepartementet"
 date_in_force: "2025-02-01"
-last_change_in_force: "2026-05-15"
+last_change_in_force: "2026-10-06"
 last_updated: null
-xml_hash: "70beb88d34e2faf51fab7d5a6199d88f08b72cdd4252f668e8d4b4126ec83375"
+xml_hash: "adf4e96e31e3c8f402355e3db5af563c4b828764db6d69047e74a49584918eb9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -184,21 +184,21 @@ Ved bruk av fosforholdige gjødselvarer på fulldyrket og overflatedyrket jord, 
 
 Gjødsling etter bokstav a) er avgrenset oppad til 3,5 kg P/daa/år. Forholdet mellom fosformengde som tilføres og tas ut skal være 1:1 eller lavere over en treårsperiode. Oppnådd balanse skal dokumenteres gjennom oversikt over fosforstrømmer inn og ut av foretaket. Før oppstart av hver treårsperiode skal bruk av adgangen til balansegjødsling, samt analyseresultater fra jordprøver i tråd med [§ 29](forskrift/2025-01-29-115/§29) som ikke er eldre enn fire år, innrapporteres av jordbruksforetaket til offentlig register. Innrapportering skal skje på den måten og fra det tidspunkt som Landbruksdirektoratet bestemmer.
 
-For gjødsling etter første ledd bokstav b), skal tilført fosfor per dekar ikke overstige følgende grenser:
+For gjødsling etter første ledd bokstav b, skal tilført fosfor per dekar ikke overstige følgende grenser:
 
 1. For alle fylker bortsett fra Rogaland og Troms og Finnmark:
 
-   1. 2,8 kg P/daa/år i perioden 1. januar 2027–31. desember 2029
+   1. 2,8 kg P/daa/år i perioden 1. januar 2028–31. desember 2029
    2. 2,5 kg P/daa/år i perioden 1. januar 2030–31. desember 2032
    3. 2,3 kg P/daa/år fra og med 1. januar 2033
 2. Rogaland:
 
-   1. 3,1 kg P/daa/år i perioden 1. januar 2027–31. desember 2029
+   1. 3,1 kg P/daa/år i perioden 1. januar 2028–31. desember 2029
    2. 3,0 kg P/daa/år i perioden 1. januar 2030–31. desember 2032
    3. 2,7 kg P/daa/år fra og med 1. januar 2033
 3. Troms og Finnmark:
 
-   1. 2,5 kg P/daa/år fra og med 1. januar 2027
+   1. 2,5 kg P/daa/år fra og med 1. januar 2028.
 
 Statsforvalteren kan etter søknad gi tillatelse til tilførsel av mer enn grensene etter andre og tredje ledd dersom foretaket dokumenterer et reelt behov, gitt avlingens fosforopptak og fosfornivåer i jord målt gjennom jordprøver.
 
@@ -212,7 +212,7 @@ Mengde fosfor i egen husdyrgjødsel bestemmes enten ut fra normtall for ulike dy
 
 Denne bestemmelsen gjelder for den som produserer, mottar eller sprer mer enn 75 kg fosfor det enkelte år.
 
-> Endret ved forskrift [15 mai 2026 nr. 836](forskrift/2026-05-15-836).
+> Endret ved forskrifter [15 mai 2026 nr. 836](forskrift/2026-05-15-836), [6 okt 2026 nr. 2005](forskrift/2026-10-06-2005).
 
 ### § 21. Adgang til høyere fosfortilførsel for særlig fosforkrevende vekster
 
@@ -443,7 +443,7 @@ Forskriften trer i kraft 1. februar 2025. Fra samme tidspunkt oppheves [forskrif
    Enkeltvedtak og forskrifter gitt i medhold av [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951), oppheves ved ikrafttredelse av denne forskrift med mindre annet følger av nummer to om godkjenning av beite som spredeareal.
 4. *Fosforgrenser*
 
-   Bestemmelsene om begrensninger for tilførsel av fosfor på jordbruksareal i [§ 20 første](forskrift/2025-01-29-115/§20/ledd/1), [andre](forskrift/2025-01-29-115/§20/ledd/2) og [tredje ledd](forskrift/2025-01-29-115/§20/ledd/3) trer i kraft 1. januar 2027. Frem til utgangen av 2026 skal mengden tilført fosfor ved bruk av fosforholdig gjødsel og annen plantenæring på fulldyrket og overflatedyrket jord, ikke overstige 3,5 kg P/daa. Statsforvalteren kan etter søknad gi tillatelse til tilførsel av mer enn 3,5 kg P/daa/år dersom foretaket dokumenterer et reelt behov, gitt avlingens fosforopptak og fosfornivåer i jord målt gjennom jordprøver.
+   Bestemmelsene om begrensninger for tilførsel av fosfor på jordbruksareal i [§ 20 første](forskrift/2025-01-29-115/§20/ledd/1), [andre](forskrift/2025-01-29-115/§20/ledd/2) og [tredje ledd](forskrift/2025-01-29-115/§20/ledd/3) trer i kraft 1. januar 2028. Frem til utgangen av 2027 skal mengden tilført fosfor ved bruk av fosforholdig gjødsel og annen plantenæring på fulldyrket og overflatedyrket jord, ikke overstige 3,5 kg P/daa. Statsforvalteren kan etter søknad gi tillatelse til tilførsel av mer enn 3,5 kg P/daa/år dersom foretaket dokumenterer et reelt behov, gitt avlingens fosforopptak og fosfornivåer i jord målt gjennom jordprøver.
 5. *Gjødslingsplan og gjødseljournal*
 
    Bestemmelsene om krav til gjødslingsplan i [§ 26](forskrift/2025-01-29-115/§26) og krav til gjødseljournal i [§ 27](forskrift/2025-01-29-115/§27) trer i kraft 1. januar 2026. Frem til utgangen av 2025 skal gjødslingsplanleggingen følge kravene i [forskrift 1. juli 1999 nr. 791 om gjødslingsplanlegging](forskrift/1999-07-01-791).
@@ -454,7 +454,7 @@ Forskriften trer i kraft 1. februar 2025. Fra samme tidspunkt oppheves [forskrif
 
    Bestemmelser om bruk av produkter med avløpsslam i [§ 22 andre ledd bokstav e)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/e) og [f)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/f) trer i kraft 1. januar 2030.
 
-> Endret ved forskrift [15 mai 2026 nr. 836](forskrift/2026-05-15-836).
+> Endret ved forskrifter [15 mai 2026 nr. 836](forskrift/2026-05-15-836), [6 okt 2026 nr. 2005](forskrift/2026-10-06-2005).
 
 ### § 37. Endring av forskriften
 
