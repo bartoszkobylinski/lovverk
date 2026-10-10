@@ -10,12 +10,12 @@ ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "1999-01-01"
 last_change_in_force: "2025-06-20"
-last_updated: "2023-01-10"
-xml_hash: "c445f4f680a7b7188d62fb05e32d7a84ab813fd0d91f373cd3a220e19f795c5e"
+last_updated: "2026-10-09"
+xml_hash: "1cc16840634b93df60a615c676e9dbb63980ff6675d0c4ff8736e05c8ee5efc1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -603,7 +603,7 @@ Eier flere en aksje i sameie, må de oppnevne en enkelt sameier til å opptre so
 
 > Endret ved lover [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [11 juni 2021 nr. 84](lov/2021-06-11-84) (i kraft 1 jan 2022 iflg. [res. 17 des 2021 nr. 3657](forskrift/2021-12-17-3657)).
 
-### § 4-5. Innsynsrett i aksjeeierregisteret
+### § 4-5. Offentlighet om aksjeeiere
 
 (1) Aksjeeierregisteret skal være tilgjengelig for enhver. Dette gjelder likevel ikke opplysninger om digitale adresser.
 
