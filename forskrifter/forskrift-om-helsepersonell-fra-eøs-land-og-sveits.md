@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2008-11-01"
-last_change_in_force: "2026-05-01"
+last_change_in_force: "2026-10-07"
 last_updated: "2022-04-22"
-xml_hash: "c97fd7974e8c407baa499cea895f8b51eefc8ce250667f9280c7eed492f9fd0a"
+xml_hash: "69798680b03bab7a15bacc92eaa0e55771c6d85da1a801ebd4e42c4ae50e8da3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-10T10:32:55.643126+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -558,9 +558,9 @@ Merknad:
 
 ## Vedlegg II – Godkjenning ved harmoniserte utdanninger gjelder med oppføringer som fremgår av vedlegget
 
-For å lese vedlegget se her: [pdf-fil](static/SF/sf-20081008-1130-01-12.pdf)
+[Pdf-fil](static/SF/sf-20081008-1130-01-13.pdf)
 
-> Endret ved [forskrifter 12 okt 2009 nr. 1310](forskrift/2009-10-12-1310), [29 feb 2012 nr. 189](forskrift/2012-02-29-189), [7 feb 2013 nr. 164](forskrift/2013-02-07-164), [28 juni 2013 nr. 864](forskrift/2013-06-28-864), [17 juni 2014 nr. 835](forskrift/2014-06-17-835), [9 sep 2014 nr. 1161](forskrift/2014-09-09-1161), [19 des 2016 nr. 1874](forskrift/2016-12-19-1874), [28 nov 2019 nr. 1636](forskrift/2019-11-28-1636) (i kraft 1 jan 2020), [28 mai 2021 nr. 1696](forskrift/2021-05-28-1696), [31 aug 2023 nr. 1376](forskrift/2023-08-31-1376), [3 sep 2025 nr. 1778](forskrift/2025-09-03-1778).
+> Endret ved [forskrifter 12 okt 2009 nr. 1310](forskrift/2009-10-12-1310), [29 feb 2012 nr. 189](forskrift/2012-02-29-189), [7 feb 2013 nr. 164](forskrift/2013-02-07-164), [28 juni 2013 nr. 864](forskrift/2013-06-28-864), [17 juni 2014 nr. 835](forskrift/2014-06-17-835), [9 sep 2014 nr. 1161](forskrift/2014-09-09-1161), [19 des 2016 nr. 1874](forskrift/2016-12-19-1874), [28 nov 2019 nr. 1636](forskrift/2019-11-28-1636) (i kraft 1 jan 2020), [28 mai 2021 nr. 1696](forskrift/2021-05-28-1696), [31 aug 2023 nr. 1376](forskrift/2023-08-31-1376), [3 sep 2025 nr. 1778](forskrift/2025-09-03-1778), [7 okt 2026 nr. 2008](forskrift/2026-10-07-2008).
 
 ## Vedlegg III – ervervede rettigheter for søker med utdanning fra det tidligere Øst-Tyskland, det tidligere Tsjekkoslovakia, det tidligere Sovjetunionen og det tidligere Jugoslavia
 
