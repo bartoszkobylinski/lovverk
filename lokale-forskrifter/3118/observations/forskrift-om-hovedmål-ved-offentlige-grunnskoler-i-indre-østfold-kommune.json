@@ -17,10 +17,16 @@
       "observed_at_last": "2026-08-24T11:05:06.922416Z",
       "primary_url": "https://www.io.kommune.no/tjenester/skole-og-utdanning/soknadsskjemaer-rutiner-og-reglement/forskrift-om-hovedmal-ved-offentlige-grunnskoler-i-indre-ostfold-kommune/",
       "promotion": {
+        "approval_carried": {
+          "approved_at_extractor": 6,
+          "basis": "byte-identical rendering",
+          "carried_at": "2026-10-09T05:44:59.643307Z",
+          "carried_to_extractor": 7
+        },
         "classifier": null,
         "decided_at": "2026-10-04T05:29:34.942857Z",
         "decision": "approve",
-        "extractor_version": 6,
+        "extractor_version": 7,
         "identity": {
           "candidates": [],
           "doc_id": "lk-3118-979d6fd0f42e",

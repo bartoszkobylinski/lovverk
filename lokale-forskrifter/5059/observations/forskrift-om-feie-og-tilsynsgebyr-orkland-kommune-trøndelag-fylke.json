@@ -17,10 +17,16 @@
       "observed_at_last": "2026-08-24T15:43:41.738992Z",
       "primary_url": "https://www.orkland.kommune.no/download/18.33a2660519545e0ea912ffdf/1741614422473/forskrift_om_feie_og_tilsynsgebyr_rev2.pdf",
       "promotion": {
+        "approval_carried": {
+          "approved_at_extractor": 6,
+          "basis": "byte-identical rendering",
+          "carried_at": "2026-10-09T05:44:59.643307Z",
+          "carried_to_extractor": 7
+        },
         "classifier": null,
         "decided_at": "2026-10-08T18:05:22.411831Z",
         "decision": "approve",
-        "extractor_version": 6,
+        "extractor_version": 7,
         "identity": {
           "candidates": [],
           "doc_id": "lk-5059-4d485d1816b3",
