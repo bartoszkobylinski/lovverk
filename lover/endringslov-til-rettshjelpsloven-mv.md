@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "b00bcf6f25bf90ccde12b0f28603c96ba78569c27afec6d2367494d110805afe"
+xml_hash: "76c0780c4e5909b9f2edc223c02c9ad98466df6727badfd600594a4339ad8ffd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,9 +43,8 @@ I [lov 13. juni 1980 nr. 35 om fri rettshjelp](lov/1980-06-13-35) gjøres følge
 
 [§ 11 andre ledd nr. 6](lov/1980-06-13-35/§11/ledd/2/nummer/6) og [7](lov/1967-02-10/§11/ledd/2/nummer/7) skal lyde:
 
-for arbeidstaker i sak som gjelder utbetaling av lønn og annet arbeidsvederlag.
-
-for den som vurderer å klage eller som klager i sak etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4) eller [lov om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21).
+1. for arbeidstaker i sak som gjelder utbetaling av lønn og annet arbeidsvederlag.
+2. for den som vurderer å klage eller som klager i sak etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4) eller [lov om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21).
 
 – – –
 
