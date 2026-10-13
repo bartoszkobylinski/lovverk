@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "135ca70f16ae09403719bc8ec364ec7c3f4a22887c471b116e9a26d25386d841"
+xml_hash: "bec01f95b6616c9aca9a7c2c41f9e6b2d2a7009ea9503c0afd69fd02a2e508ec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,7 +75,7 @@ I [lov 20. mai 2005 nr. 28 om straff](lov/2005-05-20-28) gjøres følgende endri
 
 [§ 37 første ledd bokstav j](lov/2005-05-20-28/§37/ledd/1/bokstav/j) skal lyde:
 
-møte inntil tre ganger hos rådgivende enhet for russaker etter innkalling i løpet av en periode på inntil tre måneder, forutsatt at domfellelsen gjelder bruk, erverv eller oppbevaring av narkotika til domfeltes egen bruk etter [§ 231](lov/2005-05-20-28/§231) eller [legemiddelloven § 31](lov/1992-12-04-132/§31) [annet ledd](lov/1992-12-04-132/§31/ledd/2), jf. [§ 24 første ledd](lov/1992-12-04-132/§24/ledd/1), eller
+1. møte inntil tre ganger hos rådgivende enhet for russaker etter innkalling i løpet av en periode på inntil tre måneder, forutsatt at domfellelsen gjelder bruk, erverv eller oppbevaring av narkotika til domfeltes egen bruk etter [§ 231](lov/2005-05-20-28/§231) eller [legemiddelloven § 31](lov/1992-12-04-132/§31) [annet ledd](lov/1992-12-04-132/§31/ledd/2), jf. [§ 24 første ledd](lov/1992-12-04-132/§24/ledd/1), eller
 
 [§ 53 fjerde ledd andre punktum](lov/2005-05-20-28/§53/ledd/4/setning/2) skal lyde:
 
