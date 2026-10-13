@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "3728e7fb040715a1ad058ce7a48471f5ae933aa750a0da197b09646b8be1490f"
+xml_hash: "710ba05878c371f7885bb27e43ffe78b61ef2d8f242c9c5396bbe496105e2fa4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,7 +63,7 @@ Personer som skal ansettes i eller utføre oppgaver på vegne av et botiltak med
 
 [§ 16-3 tredje ledd bokstav c](lov/2021-06-18-97/§16-3/ledd/3/bokstav/c) skal lyde:
 
-godkjenne kommunale botiltak med døgnbemanning i samsvar med [§ 9 A-5](lov/2021-06-18-97/§9A-5), barnevernsinstitusjoner i samsvar med [§ 10-19](lov/2021-06-18-97/§10-19), sentre for foreldre og barn i samsvar med [§ 10-23](lov/2021-06-18-97/§10-23) og omsorgssentre for enslige mindreårige asylsøkere i samsvar med [§ 11-5](lov/2021-06-18-97/§11-5).
+1. godkjenne kommunale botiltak med døgnbemanning i samsvar med [§ 9 A-5](lov/2021-06-18-97/§9A-5), barnevernsinstitusjoner i samsvar med [§ 10-19](lov/2021-06-18-97/§10-19), sentre for foreldre og barn i samsvar med [§ 10-23](lov/2021-06-18-97/§10-23) og omsorgssentre for enslige mindreårige asylsøkere i samsvar med [§ 11-5](lov/2021-06-18-97/§11-5).
 
 – – –
 
