@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "671848072dcaca4dd3e4b43a85f27276b6da944d66dfadd2d52092591c4648c2"
+xml_hash: "3f766a186d052d7889c9b9ba6aff526aeefa8dc4ca478d17daa62ce66e7a9987"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -133,7 +133,7 @@ Det betales ikke gebyr for begjæring om utlegg for underholdsbidrag mv. og for 
 
 I følgende bestemmelser endres ordet «polititjenestemann» til «polititjenesteperson»:
 
-– – –, [103 b](lov/2008-05-15-35/§103b), – – –, [104 a](lov/2008-05-15-35/§104a), – – –.
+- – – –, [103 b](lov/2008-05-15-35/§103b), – – –, [104 a](lov/2008-05-15-35/§104a), – – –.
 
 – – –
 
