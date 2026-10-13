@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-07-02"
+last_change_in_force: "2026-10-08"
 last_updated: "2021-01-01"
-xml_hash: "769871766facbd5cada2b98b6bc17e18637b5a02692da0081d3e521d6546d7ac"
+xml_hash: "855bdf297ffc9874dfb85850e74a869296187c551fd6d38e2f7398d4feb677b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2119,7 +2119,7 @@ Det skal gis opplysninger om
 
 1. den opplysningspliktiges navn, adresse, organisasjonsnummer eller skatteregistreringsnummer (TIN) og firmanavnet på plattformen
 2. eventuelt navn, adresse og organisasjonsnummer eller skatteregistreringsnummer (TIN) på den som gir opplysninger på vegne av den opplysningspliktige
-3. den enkelte utleiers eller tjenesteyters navn, primæradresse med landkode, fødselsnummer (ev. fødselsdato), D-nummer, organisasjonsnummer eller skatteregistreringsnummer (TIN) og hvilket land som har utstedt dette
+3. den enkelte utleiers eller tjenesteyters navn, primæradresse med landkode, alle jurisdiksjoner hvor selgeren anses bosatt/hjemmehørende, fødselsnummer (ev. fødselsdato), D-nummer, organisasjonsnummer eller skatteregistreringsnummer (TIN) og hvilket land som har utstedt dette
 4. det unike identifikasjonsnummer eller referansenummer til den bankkonto eller en annen lignende betalingskonto hvor vederlaget blir betalt eller kreditert. Står kontoen i en annens navn, skal det gis identitetsopplysninger etter bokstav c som gjelder kontoinnehaveren.
 
 (2) Ved salg av tjenester og utleie av transportmidler skal det for den enkelte utleier eller tjenesteyter gis opplysninger om
@@ -2132,20 +2132,20 @@ Det skal gis opplysninger om
 (3) Ved utleie av enhver type fast eiendom skal det for hver eiendom og hver utleid enhet på eiendommen gis opplysninger om
 
 1. type eiendom
-2. adresse, herunder landkode, til hver utleid enhet/eiendom samt gårds- og bruksnummer
-3. antall utleietilfeller, og opplysninger om antall dager hver enhet/eiendom har vært leid ut hvis det er tilgjengelig
-4. samlet vederlag som er betalt eller kreditert for den enkelte enhet/eiendom etter fradrag som nevnt i bokstav e
-5. samlet gebyr, provisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen per utleid enhet/eiendom.
+2. adresse, herunder landkode, til hver utleid utleieenhet samt gårds- og bruksnummer
+3. antall utleietilfeller, og opplysninger om antall dager hver utleieenhet har vært leid ut hvis det er tilgjengelig
+4. samlet vederlag som er betalt eller kreditert for den enkelte utleieenhet etter fradrag som nevnt i bokstav e
+5. samlet gebyr, provisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen per utleid utleieenhet.
 
 (4) Vederlaget skal oppgis i den valuta det ble betalt eller kreditert i og med valutakode. Alle beløp skal også oppgis i hele norske kroner. Ved omregning av beløp i fremmed valuta til norske kroner skal Norges Banks kurser eller annen offentlig vekslingskurs benyttes. Er vederlaget betalt eller kreditert i en annen form enn ordinær valuta, skal vederlaget rapporteres i norske kroner omregnet eller verdsatt på en konsekvent måte.
 
-> Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026), endret ved forskrift [9 okt 2025 nr. 2013](forskrift/2025-10-09-2013) (i kraft 1 jan 2026).
+> Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026), endret ved forskrifter [9 okt 2025 nr. 2013](forskrift/2025-10-09-2013) (i kraft 1 jan 2026), [8 okt 2026 nr. 2028](forskrift/2026-10-08-2028).
 
 ### § 7-11-4. Selgergjennomgang
 
 (1) For å avgjøre om en utleier eller tjenesteyter er unntatt fra plattformens opplysningsplikt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet ledd bokstav a og b kan den opplysningspliktige benytte offentlig tilgjengelige opplysninger eller en bekreftelse fra virksomheten selv. For å avgjøre om en selger er unntatt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet ledd bokstav c kan den opplysningspliktige legge til grunn opplysninger fra sine egne tilgjengelige registre.
 
-(2) Den opplysningspliktige skal innhente og verifisere opplysninger som nevnt i [§ 7-11-3 første ledd](forskrift/2016-11-23-1360/§7-11-3/ledd/1) bokstav c om hver enkelt utleier eller tjenesteyter som i løpet av skattleggingsperioden har vært registrert på plattformen for utleie av fast eiendom, utleie av transportmidler eller salg av tjenester og opplysninger om adressen til hver fast eiendom/enhet som tilbys for utleie, jf. [§ 7-11-3 tredje ledd](forskrift/2016-11-23-1360/§7-11-3/ledd/3) bokstav b.
+(2) Den opplysningspliktige skal innhente og verifisere opplysninger som nevnt i [§ 7-11-3 første ledd bokstav c](forskrift/2016-11-23-1360/§7-11-3/ledd/1/bokstav/c) om hver enkelt utleier eller tjenesteyter som i løpet av skattleggingsperioden har vært registrert på plattformen for utleie av fast eiendom, utleie av transportmidler eller salg av tjenester og opplysninger om adressen til hver utleieenhet som tilbys for utleie, jf. [§ 7-11-3 tredje ledd bokstav b](forskrift/2016-11-23-1360/§7-11-3/ledd/3/bokstav/b).
 
 (3) Den opplysningspliktige kan velge å bare gjennomgå utleiere eller tjenesteytere som det skal gis opplysninger om, jf. [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) første ledd første punktum.
 
@@ -2164,7 +2164,7 @@ Det skal gis opplysninger om
 
 (9) Den opplysningspliktige skal oppbevare dokumentasjon som viser hvordan en utleier eller tjenesteyter er identifisert. Dokumentasjonen skal oppbevares i minst fem år etter utløpet av inntektsåret. Når det foreligger ny dokumentasjon, skal dokumentasjon som har betydning for opplysningsplikten for tidligere skattleggingsperioder oppbevares i minst fem år etter utløpet av inntektsåret.
 
-> Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026).
+> Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026), endret ved forskrift [8 okt 2026 nr. 2028](forskrift/2026-10-08-2028).
 
 ### § 7-11-5. Flere opplysningspliktige for samme forhold
 
