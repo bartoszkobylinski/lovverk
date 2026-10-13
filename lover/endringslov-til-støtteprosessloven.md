@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "a3c22e3c279b5a69639a99eacc858a0bdc6067f26fd85adf818849eed1e8584b"
+xml_hash: "1b478ff8e054b466975c9f2df9b7e16521a71732f6e6f473c4ec1fb7b3dedd53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis:
   - "32013R0734"
@@ -36,7 +36,7 @@ I [§ 4 første ledd](lov/2022-03-04-7/§4/ledd/1) skal uttrykket «overvåkings
 
 [§ 4 andre ledd bokstav d](lov/2022-03-04-7/§4/ledd/2/bokstav/d) skal lyde:
 
-anses som eksisterende støtte etter artikkel 17 i del II av [Protokoll 3 til ODA](lov/1992-11-27-109/oda/p3)
+1. anses som eksisterende støtte etter artikkel 17 i del II av [Protokoll 3 til ODA](lov/1992-11-27-109/oda/p3)
 
 Ny [§ 6 a](lov/2022-03-04-7/§6a) skal lyde:
 
