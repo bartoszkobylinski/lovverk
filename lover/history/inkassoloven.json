@@ -2,6 +2,16 @@
   "doc_id": "nl-20260522-019",
   "events": [
     {
+      "commit": "173b1b4",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): inkassoloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "eec0e05",
       "date": "2026-05-23",
       "from_path": null,

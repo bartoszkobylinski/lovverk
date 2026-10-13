@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-finansforetaksloven-mv-3 — Change history
 
-_5 events; doc_id `nl-20260619-040`._
+_6 events; doc_id `nl-20260619-040`._
+
+## 2026-10-13 — Content updated
+Lines: +7 -8.
+Subject: `update(lov): endringslov-til-finansforetaksloven-mv-3`
+Commit: `1d61c48`.
 
 ## 2026-07-03 — Content updated
 Lines: +2 -2.

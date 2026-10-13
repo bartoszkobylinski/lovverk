@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # barnelova — Change history
 
-_3 events; doc_id `nl-20250620-040`._
+_4 events; doc_id `nl-20250620-040`._
+
+## 2026-10-13 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): barnelova`
+Commit: `2c3f50b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

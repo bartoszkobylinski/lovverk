@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-bilansvarslova — Change history
 
-_3 events; doc_id `nl-20250620-080`._
+_4 events; doc_id `nl-20250620-080`._
+
+## 2026-10-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-bilansvarslova`
+Commit: `9cfa23f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

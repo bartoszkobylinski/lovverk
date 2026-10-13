@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-politiregisterloven-og-grenseloven-mv — Change history
 
-_4 events; doc_id `nl-20260619-046`._
+_5 events; doc_id `nl-20260619-046`._
+
+## 2026-10-13 — Content updated
+Lines: +11 -16.
+Subject: `update(lov): endringslov-til-politiregisterloven-og-grenseloven-mv`
+Commit: `bbd1b11`.
 
 ## 2026-07-01 — Content updated
 Lines: +2 -20.

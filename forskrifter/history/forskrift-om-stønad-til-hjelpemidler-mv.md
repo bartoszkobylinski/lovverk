@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-stønad-til-hjelpemidler-mv — Change history
 
-_3 events; doc_id `sf-19970415-0318`._
+_4 events; doc_id `sf-19970415-0318`._
+
+## 2026-10-13 — Content updated
+Lines: +8 -8.
+Subject: `update(forskrift): forskrift-om-stønad-til-hjelpemidler-mv`
+Commit: `18b6457`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

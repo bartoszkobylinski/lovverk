@@ -2,6 +2,16 @@
   "doc_id": "nl-20260206-003",
   "events": [
     {
+      "commit": "df40632",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 11,
+      "subject": "update(lov): endringslov-til-verdipapirhandelloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4fb5a3f",
       "date": "2026-06-20",
       "from_path": null,

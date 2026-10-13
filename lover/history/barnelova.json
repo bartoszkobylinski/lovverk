@@ -2,6 +2,16 @@
   "doc_id": "nl-20250620-040",
   "events": [
     {
+      "commit": "2c3f50b",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): barnelova",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

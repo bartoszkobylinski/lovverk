@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-rettshjelpsloven-mv — Change history
 
-_5 events; doc_id `nl-20250620-082`._
+_6 events; doc_id `nl-20250620-082`._
+
+## 2026-10-13 — Content updated
+Lines: +4 -5.
+Subject: `update(lov): endringslov-til-rettshjelpsloven-mv`
+Commit: `d5d357e`.
 
 ## 2026-10-01 — Content updated
 Lines: +5 -69.

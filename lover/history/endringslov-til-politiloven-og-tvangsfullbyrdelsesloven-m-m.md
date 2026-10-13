@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m — Change history
 
-_3 events; doc_id `nl-20260619-045`._
+_4 events; doc_id `nl-20260619-045`._
+
+## 2026-10-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m`
+Commit: `0e6c1c9`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -155.

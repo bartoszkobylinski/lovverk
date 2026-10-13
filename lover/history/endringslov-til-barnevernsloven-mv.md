@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-barnevernsloven-mv — Change history
 
-_3 events; doc_id `nl-20250620-039`._
+_4 events; doc_id `nl-20250620-039`._
+
+## 2026-10-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-barnevernsloven-mv`
+Commit: `b2bb63e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

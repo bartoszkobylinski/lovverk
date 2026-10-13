@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-helseforskningsloven-mv — Change history
 
-_5 events; doc_id `nl-20250620-071`._
+_6 events; doc_id `nl-20250620-071`._
+
+## 2026-10-13 — Content updated
+Lines: +12 -19.
+Subject: `update(lov): endringslov-til-helseforskningsloven-mv`
+Commit: `0ec36ae`.
 
 ## 2026-09-29 — Content updated
 Lines: +4 -3.

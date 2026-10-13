@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-straffeloven-og-legemiddelloven-mv — Change history
 
-_3 events; doc_id `nl-20250620-083`._
+_4 events; doc_id `nl-20250620-083`._
+
+## 2026-10-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-straffeloven-og-legemiddelloven-mv`
+Commit: `06b7657`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

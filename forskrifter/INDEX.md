@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5125 current documents_
+_5126 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1935,6 +1935,7 @@ _5125 current documents_
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
+- [forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen](forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen.md) — Forskrift om endring i forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer](forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer.md) — Forskrift om endring i forskrift om tilsetningsstoffer til bruk i fôrvarer
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften

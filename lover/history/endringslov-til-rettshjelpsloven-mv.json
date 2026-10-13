@@ -2,6 +2,16 @@
   "doc_id": "nl-20250620-082",
   "events": [
     {
+      "commit": "d5d357e",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 5,
+      "subject": "update(lov): endringslov-til-rettshjelpsloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "ff1b526",
       "date": "2026-10-01",
       "from_path": null,

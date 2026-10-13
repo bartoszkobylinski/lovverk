@@ -2,6 +2,16 @@
   "doc_id": "nl-20241129-073",
   "events": [
     {
+      "commit": "5430c1e",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 19,
+      "subject": "update(lov): endringslov-til-konfliktrådsloven-og-straffeloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

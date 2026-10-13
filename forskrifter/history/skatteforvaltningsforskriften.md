@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # skatteforvaltningsforskriften — Change history
 
-_5 events; doc_id `sf-20161123-1360`._
+_6 events; doc_id `sf-20161123-1360`._
+
+## 2026-10-13 — Content updated
+Lines: +11 -11.
+Subject: `update(forskrift): skatteforvaltningsforskriften`
+Commit: `7edadaa`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

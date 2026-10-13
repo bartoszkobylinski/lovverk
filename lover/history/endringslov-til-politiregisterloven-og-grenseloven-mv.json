@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-046",
   "events": [
     {
+      "commit": "bbd1b11",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 16,
+      "subject": "update(lov): endringslov-til-politiregisterloven-og-grenseloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-yrkestransportloven-mv — Change history
 
-_4 events; doc_id `nl-20250620-111`._
+_5 events; doc_id `nl-20250620-111`._
+
+## 2026-10-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-yrkestransportloven-mv`
+Commit: `f438d06`.
 
 ## 2026-07-01 — Content updated
 Lines: +2 -8.

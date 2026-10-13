@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-straffegjennomføringsloven-mv-2 — Change history
 
-_2 events; doc_id `nl-20260512-018`._
+_3 events; doc_id `nl-20260512-018`._
+
+## 2026-10-13 — Content updated
+Lines: +5 -6.
+Subject: `update(lov): endringslov-til-straffegjennomføringsloven-mv-2`
+Commit: `f288bb3`.
 
 ## 2026-05-14 — Content updated
 Lines: +7 -7.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # særavgiftsloven-2 — Change history
 
-_2 events; doc_id `nl-20260619-041`._
+_3 events; doc_id `nl-20260619-041`._
+
+## 2026-10-13 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): særavgiftsloven-2`
+Commit: `60310bb`.
 
 ## 2026-06-23 — Content updated
 Lines: +2 -2.

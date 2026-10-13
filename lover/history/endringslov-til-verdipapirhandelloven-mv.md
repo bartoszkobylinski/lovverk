@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-verdipapirhandelloven-mv — Change history
 
-_4 events; doc_id `nl-20260206-003`._
+_5 events; doc_id `nl-20260206-003`._
+
+## 2026-10-13 — Content updated
+Lines: +10 -11.
+Subject: `update(lov): endringslov-til-verdipapirhandelloven-mv`
+Commit: `df40632`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

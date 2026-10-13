@@ -12878,13 +12878,13 @@
     },
     "nl-20231220-104": {
       "doc_type": "lov",
-      "embedding_hash": "520309bd802ddf1a3fa3ec37805de107b8bcb143d64a1e77bb54fe9fc074c31d",
+      "embedding_hash": "9be53f530a32d7eca5118fccc5258be82bde113132e877b0394a9a33ea220378",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-lov-om-statens-pensjonsfond.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -12892,8 +12892,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i lov om Statens pensjonsfond",
-      "total_changes": 3,
-      "xml_hash": "520309bd802ddf1a3fa3ec37805de107b8bcb143d64a1e77bb54fe9fc074c31d"
+      "total_changes": 4,
+      "xml_hash": "9be53f530a32d7eca5118fccc5258be82bde113132e877b0394a9a33ea220378"
     },
     "nl-20231220-107": {
       "doc_type": "lov",
@@ -13233,13 +13233,13 @@
     },
     "nl-20241129-073": {
       "doc_type": "lov",
-      "embedding_hash": "13e41fe840df88a5458a691e5d722e257bdb068d43cc26fed8c233d16e61d62d",
+      "embedding_hash": "da4112ef8a6c2579fa005d6689f2b850154f37a7cc41b854428c57c47a57593b",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-konfliktrådsloven-og-straffeloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13247,8 +13247,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaksjoner for ungdom)",
-      "total_changes": 3,
-      "xml_hash": "13e41fe840df88a5458a691e5d722e257bdb068d43cc26fed8c233d16e61d62d"
+      "total_changes": 4,
+      "xml_hash": "da4112ef8a6c2579fa005d6689f2b850154f37a7cc41b854428c57c47a57593b"
     },
     "nl-20241213-076": {
       "doc_type": "lov",
@@ -13592,13 +13592,13 @@
     },
     "nl-20250620-039": {
       "doc_type": "lov",
-      "embedding_hash": "3728e7fb040715a1ad058ce7a48471f5ae933aa750a0da197b09646b8be1490f",
+      "embedding_hash": "710ba05878c371f7885bb27e43ffe78b61ef2d8f242c9c5396bbe496105e2fa4",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-barnevernsloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13606,18 +13606,18 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)",
-      "total_changes": 3,
-      "xml_hash": "3728e7fb040715a1ad058ce7a48471f5ae933aa750a0da197b09646b8be1490f"
+      "total_changes": 4,
+      "xml_hash": "710ba05878c371f7885bb27e43ffe78b61ef2d8f242c9c5396bbe496105e2fa4"
     },
     "nl-20250620-040": {
       "doc_type": "lov",
-      "embedding_hash": "c6633bd68df426b1b77582bce954ae649a5f6c0a0321a41a758f7be400e19af3",
-      "embedding_input_hash": "f23714bf9e921917075fa544ab544c01837fa08c5f55518e7fd18b99f5eacea4",
+      "embedding_hash": "f084e597080179b6714c5139795268481ef26098c6ed5c8d8b940623c7796e79",
+      "embedding_input_hash": "b6d5bf4bfc8d968738fbc4d075767290c05f770425afb65717a2baeb8646b441",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/barnelova.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13625,8 +13625,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barn og foreldre (barnelova)",
-      "total_changes": 3,
-      "xml_hash": "c6633bd68df426b1b77582bce954ae649a5f6c0a0321a41a758f7be400e19af3"
+      "total_changes": 4,
+      "xml_hash": "f084e597080179b6714c5139795268481ef26098c6ed5c8d8b940623c7796e79"
     },
     "nl-20250620-044": {
       "doc_type": "lov",
@@ -13687,13 +13687,13 @@
     },
     "nl-20250620-071": {
       "doc_type": "lov",
-      "embedding_hash": "11d40efe9a12cba3a4bbbce2c4279aa5ec2a61cecaece342bb8486442a34568e",
+      "embedding_hash": "91f8533562de572539900848df995ba09757ebdc77606e042b39145796e771b1",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-29",
-      "last_seen": "2026-09-29T10:35:40.473961Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-helseforskningsloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13701,8 +13701,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig forskning og for bruk av helseopplysninger i forskning)",
-      "total_changes": 5,
-      "xml_hash": "11d40efe9a12cba3a4bbbce2c4279aa5ec2a61cecaece342bb8486442a34568e"
+      "total_changes": 6,
+      "xml_hash": "91f8533562de572539900848df995ba09757ebdc77606e042b39145796e771b1"
     },
     "nl-20250620-075": {
       "doc_type": "lov",
@@ -13725,13 +13725,13 @@
     },
     "nl-20250620-080": {
       "doc_type": "lov",
-      "embedding_hash": "9feacbb08ff400f6609f439e038e168494184077ac7191b4eb64fdcb8fd7fac8",
+      "embedding_hash": "a8507b87a5f1610612a201afa36328c9cfe6806824fba7fa8cc8d2f312784cec",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-bilansvarslova.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13739,8 +13739,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett)",
-      "total_changes": 3,
-      "xml_hash": "9feacbb08ff400f6609f439e038e168494184077ac7191b4eb64fdcb8fd7fac8"
+      "total_changes": 4,
+      "xml_hash": "a8507b87a5f1610612a201afa36328c9cfe6806824fba7fa8cc8d2f312784cec"
     },
     "nl-20250620-081": {
       "doc_type": "lov",
@@ -13763,13 +13763,13 @@
     },
     "nl-20250620-082": {
       "doc_type": "lov",
-      "embedding_hash": "b00bcf6f25bf90ccde12b0f28603c96ba78569c27afec6d2367494d110805afe",
+      "embedding_hash": "76c0780c4e5909b9f2edc223c02c9ad98466df6727badfd600594a4339ad8ffd",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-01",
-      "last_seen": "2026-10-01T10:53:16.759325Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-rettshjelpsloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13777,18 +13777,18 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.)",
-      "total_changes": 5,
-      "xml_hash": "b00bcf6f25bf90ccde12b0f28603c96ba78569c27afec6d2367494d110805afe"
+      "total_changes": 6,
+      "xml_hash": "76c0780c4e5909b9f2edc223c02c9ad98466df6727badfd600594a4339ad8ffd"
     },
     "nl-20250620-083": {
       "doc_type": "lov",
-      "embedding_hash": "135ca70f16ae09403719bc8ec364ec7c3f4a22887c471b116e9a26d25386d841",
+      "embedding_hash": "bec01f95b6616c9aca9a7c2c41f9e6b2d2a7009ea9503c0afd69fd02a2e508ec",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-straffeloven-og-legemiddelloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13796,8 +13796,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)",
-      "total_changes": 3,
-      "xml_hash": "135ca70f16ae09403719bc8ec364ec7c3f4a22887c471b116e9a26d25386d841"
+      "total_changes": 4,
+      "xml_hash": "bec01f95b6616c9aca9a7c2c41f9e6b2d2a7009ea9503c0afd69fd02a2e508ec"
     },
     "nl-20250620-084": {
       "doc_type": "lov",
@@ -14029,13 +14029,13 @@
     },
     "nl-20250620-111": {
       "doc_type": "lov",
-      "embedding_hash": "eb1d7b0f3c0e5d0c8da09fa1fb0089a0f0e4194feaf0a1bc70375fc55219994d",
+      "embedding_hash": "bee3c975bd1396f0d69436b92908ae6cf529821ba77093aaf970ca6a35a4a99f",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-yrkestransportloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14043,8 +14043,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i yrkestransportloven mv. (drosjetilbud, internkontroll, kontrollutrustning og tilknytning til sentral)",
-      "total_changes": 4,
-      "xml_hash": "eb1d7b0f3c0e5d0c8da09fa1fb0089a0f0e4194feaf0a1bc70375fc55219994d"
+      "total_changes": 5,
+      "xml_hash": "bee3c975bd1396f0d69436b92908ae6cf529821ba77093aaf970ca6a35a4a99f"
     },
     "nl-20251222-116": {
       "doc_type": "lov",
@@ -14126,7 +14126,7 @@
     },
     "nl-20260206-003": {
       "doc_type": "lov",
-      "embedding_hash": "b2d5cd9d5362566f81fa22034d107c33e9567c8a709436778f7502b278dd3a0f",
+      "embedding_hash": "ef96f85306e9bf54df7dc5634910920195b80507fc09c3140e0393d9bfac4686",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
@@ -14134,8 +14134,8 @@
         "32019R2033",
         "32019L2034"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-verdipapirhandelloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14143,8 +14143,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)",
-      "total_changes": 4,
-      "xml_hash": "b2d5cd9d5362566f81fa22034d107c33e9567c8a709436778f7502b278dd3a0f"
+      "total_changes": 5,
+      "xml_hash": "ef96f85306e9bf54df7dc5634910920195b80507fc09c3140e0393d9bfac4686"
     },
     "nl-20260213-006": {
       "doc_type": "lov",
@@ -14224,13 +14224,13 @@
     },
     "nl-20260512-018": {
       "doc_type": "lov",
-      "embedding_hash": "ca2501940a141c2efd01ea7a95674ef62e99bda1d827e27df452527f67809b71",
+      "embedding_hash": "22dfcc1de2ff2f9789706b6d5e085d8b4729dcc3ed1a13441e9951e5a9a804c0",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-05-14",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-straffegjennomføringsloven-mv-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14238,20 +14238,20 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i straffegjennomføringsloven mv. (isolasjon i fengsel)",
-      "total_changes": 2,
-      "xml_hash": "ca2501940a141c2efd01ea7a95674ef62e99bda1d827e27df452527f67809b71"
+      "total_changes": 3,
+      "xml_hash": "22dfcc1de2ff2f9789706b6d5e085d8b4729dcc3ed1a13441e9951e5a9a804c0"
     },
     "nl-20260522-019": {
       "doc_type": "lov",
-      "embedding_hash": "eeb304949512ca3aba36441833b31efebd59d9d0122c1bdcdb645e4f47ae891e",
-      "embedding_input_hash": "ad22a6dd27a273fbf4a179c107839b89316b5f11af2ce8f45ef283b5790f62bb",
+      "embedding_hash": "d32af797e91843a43e2ea6dab74ea7d3fb6bfdb35eb02974d78e3966009f002b",
+      "embedding_input_hash": "e43fdc3db6f1afc2aea6406d39bbbdfd99dc52e87d40e4d5d6f3b221b965c599",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32021L2167"
       ],
-      "last_changed": "2026-05-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/inkassoloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14259,8 +14259,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om inkassovirksomhet og inndriving av forfalte pengekrav (inkassoloven)",
-      "total_changes": 1,
-      "xml_hash": "eeb304949512ca3aba36441833b31efebd59d9d0122c1bdcdb645e4f47ae891e"
+      "total_changes": 2,
+      "xml_hash": "d32af797e91843a43e2ea6dab74ea7d3fb6bfdb35eb02974d78e3966009f002b"
     },
     "nl-20260529-020": {
       "doc_type": "lov",
@@ -14378,13 +14378,13 @@
     },
     "nl-20260612-028": {
       "doc_type": "lov",
-      "embedding_hash": "90e198a2d94eb06b60fb618d7c0e8505eeedf180a28aa82d803601a5c522132b",
+      "embedding_hash": "d85273ebc5b613a813db1b3bed992d833933d16dd1fd62546ec0243abf6bff72",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-straffeloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14392,8 +14392,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i straffeloven (selvstendig inndragning m.m.)",
-      "total_changes": 3,
-      "xml_hash": "90e198a2d94eb06b60fb618d7c0e8505eeedf180a28aa82d803601a5c522132b"
+      "total_changes": 4,
+      "xml_hash": "d85273ebc5b613a813db1b3bed992d833933d16dd1fd62546ec0243abf6bff72"
     },
     "nl-20260612-032": {
       "doc_type": "lov",
@@ -14435,15 +14435,15 @@
     },
     "nl-20260619-034": {
       "doc_type": "lov",
-      "embedding_hash": "d695c4f0966b85bbf941868958178f6a49860dac73b2f0332c2b65dbceaf56f6",
+      "embedding_hash": "f01fc049eb3e837d5dd47364deac26887d052686254420e7ab35ceb0d7b735bc",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32024L0825"
       ],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-markedsføringsloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14451,8 +14451,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)",
-      "total_changes": 2,
-      "xml_hash": "d695c4f0966b85bbf941868958178f6a49860dac73b2f0332c2b65dbceaf56f6"
+      "total_changes": 3,
+      "xml_hash": "f01fc049eb3e837d5dd47364deac26887d052686254420e7ab35ceb0d7b735bc"
     },
     "nl-20260619-035": {
       "doc_type": "lov",
@@ -14497,13 +14497,13 @@
     },
     "nl-20260619-038": {
       "doc_type": "lov",
-      "embedding_hash": "30cbb5f5535c14320d1293a391e75fab1ab82eaa0c66bcd8741941c3c4781837",
+      "embedding_hash": "b41261dd962eabfb201d2541f525380e84b42ba53b148d90f4424b9517fd5b14",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-energiloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14511,8 +14511,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)",
-      "total_changes": 2,
-      "xml_hash": "30cbb5f5535c14320d1293a391e75fab1ab82eaa0c66bcd8741941c3c4781837"
+      "total_changes": 3,
+      "xml_hash": "b41261dd962eabfb201d2541f525380e84b42ba53b148d90f4424b9517fd5b14"
     },
     "nl-20260619-039": {
       "doc_type": "lov",
@@ -14535,15 +14535,15 @@
     },
     "nl-20260619-040": {
       "doc_type": "lov",
-      "embedding_hash": "c39f1cb145041613000dffa9f3221cc15c6146f779870aefbf821fa852a51bf0",
+      "embedding_hash": "453a175ad9b7575497fb8253a6fc30a1168a78a8ba410ac518d45edfb8410dae",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32024L1619"
       ],
-      "last_changed": "2026-07-03",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-finansforetaksloven-mv-3.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14551,18 +14551,18 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
-      "total_changes": 5,
-      "xml_hash": "c39f1cb145041613000dffa9f3221cc15c6146f779870aefbf821fa852a51bf0"
+      "total_changes": 6,
+      "xml_hash": "453a175ad9b7575497fb8253a6fc30a1168a78a8ba410ac518d45edfb8410dae"
     },
     "nl-20260619-041": {
       "doc_type": "lov",
-      "embedding_hash": "008e50130ac6472d3a89732cf3b6f39c107d782217086b49b501369c4c120a2c",
-      "embedding_input_hash": "fae5da51f6e01d47605546cec3e4f56a7041c3d7c62915c85e793f7e1bab298e",
+      "embedding_hash": "f60016c4245c39a9cc818875c38c7d1e56c5db0f0731860c3da885e0aa36cf30",
+      "embedding_input_hash": "bd932269c7bf22b5e1ecd746ad03d7b0f3f99aea81fe21e0ba6d4e605658745a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/særavgiftsloven-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14570,18 +14570,18 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om særavgifter (særavgiftsloven)",
-      "total_changes": 2,
-      "xml_hash": "008e50130ac6472d3a89732cf3b6f39c107d782217086b49b501369c4c120a2c"
+      "total_changes": 3,
+      "xml_hash": "f60016c4245c39a9cc818875c38c7d1e56c5db0f0731860c3da885e0aa36cf30"
     },
     "nl-20260619-045": {
       "doc_type": "lov",
-      "embedding_hash": "671848072dcaca4dd3e4b43a85f27276b6da944d66dfadd2d52092591c4648c2",
+      "embedding_hash": "3f766a186d052d7889c9b9ba6aff526aeefa8dc4ca478d17daa62ce66e7a9987",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14589,18 +14589,18 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser)",
-      "total_changes": 3,
-      "xml_hash": "671848072dcaca4dd3e4b43a85f27276b6da944d66dfadd2d52092591c4648c2"
+      "total_changes": 4,
+      "xml_hash": "3f766a186d052d7889c9b9ba6aff526aeefa8dc4ca478d17daa62ce66e7a9987"
     },
     "nl-20260619-046": {
       "doc_type": "lov",
-      "embedding_hash": "39a2c325762e8c5197f8ef08d60c8b3d238f049a469c5de90c2510d5f710dac3",
+      "embedding_hash": "b8fb0e35ef2db77a5f686c0959c820eae7ca521c0e7e71b3e7203cecdbac4177",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-politiregisterloven-og-grenseloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14608,8 +14608,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer)",
-      "total_changes": 4,
-      "xml_hash": "39a2c325762e8c5197f8ef08d60c8b3d238f049a469c5de90c2510d5f710dac3"
+      "total_changes": 5,
+      "xml_hash": "b8fb0e35ef2db77a5f686c0959c820eae7ca521c0e7e71b3e7203cecdbac4177"
     },
     "nl-20260619-047": {
       "doc_type": "lov",
@@ -14632,13 +14632,13 @@
     },
     "nl-20260619-048": {
       "doc_type": "lov",
-      "embedding_hash": "3013c21a2f6510849e66ade873b58ef56a9ebd82e6df5df903e57732d69b5ea9",
+      "embedding_hash": "d010443f964e1de5a285d7ebc44d576a46bd3c0f1d23cdf41652330a73e7d328",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-konkursloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14646,8 +14646,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling)",
-      "total_changes": 2,
-      "xml_hash": "3013c21a2f6510849e66ade873b58ef56a9ebd82e6df5df903e57732d69b5ea9"
+      "total_changes": 3,
+      "xml_hash": "d010443f964e1de5a285d7ebc44d576a46bd3c0f1d23cdf41652330a73e7d328"
     },
     "nl-20260619-049": {
       "doc_type": "lov",
@@ -14729,13 +14729,13 @@
     },
     "nl-20260619-053": {
       "doc_type": "lov",
-      "embedding_hash": "fb6af6491d89259e5a3526911948dc42a076ed7239902596755dab64911c7800",
-      "embedding_input_hash": "e6cb5c8d15909ed1d9682868c09444f62ec355a268476ce3cb3fcd40c5579718",
+      "embedding_hash": "c14c325008573d7fd0b6ea5ffff14feefa682db3f135920463aaeb500a20b52c",
+      "embedding_input_hash": "fbebaa0d9c50dfbbe60ac5afa3158164788d4655ede818b6294c7047e3508b5b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/motorferdselloven-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14743,8 +14743,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om motorferdsel i utmark og vassdrag (motorferdselloven)",
-      "total_changes": 1,
-      "xml_hash": "fb6af6491d89259e5a3526911948dc42a076ed7239902596755dab64911c7800"
+      "total_changes": 2,
+      "xml_hash": "c14c325008573d7fd0b6ea5ffff14feefa682db3f135920463aaeb500a20b52c"
     },
     "nl-20260619-055": {
       "doc_type": "lov",
@@ -14767,13 +14767,13 @@
     },
     "nl-20260619-057": {
       "doc_type": "lov",
-      "embedding_hash": "2aa30123d413090ca3b7c93efbcc6bd0f765fc323e730d59b28ae3fcc9c6c5ac",
+      "embedding_hash": "17de85c0269a0232d6aa2cd508d8cdd9b68361a292686477a9bbfc672205c280",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-valgloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14781,8 +14781,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i valgloven (endringer i valgdistriktene)",
-      "total_changes": 1,
-      "xml_hash": "2aa30123d413090ca3b7c93efbcc6bd0f765fc323e730d59b28ae3fcc9c6c5ac"
+      "total_changes": 2,
+      "xml_hash": "17de85c0269a0232d6aa2cd508d8cdd9b68361a292686477a9bbfc672205c280"
     },
     "nl-20260619-059": {
       "doc_type": "lov",
@@ -14824,7 +14824,7 @@
     },
     "nl-20260619-062": {
       "doc_type": "lov",
-      "embedding_hash": "a3c22e3c279b5a69639a99eacc858a0bdc6067f26fd85adf818849eed1e8584b",
+      "embedding_hash": "1b478ff8e054b466975c9f2df9b7e16521a71732f6e6f473c4ec1fb7b3dedd53",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
@@ -14832,8 +14832,8 @@
         "32013R0734",
         "32015R1589"
       ],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "lover/endringslov-til-støtteprosessloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14841,8 +14841,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)",
-      "total_changes": 2,
-      "xml_hash": "a3c22e3c279b5a69639a99eacc858a0bdc6067f26fd85adf818849eed1e8584b"
+      "total_changes": 3,
+      "xml_hash": "1b478ff8e054b466975c9f2df9b7e16521a71732f6e6f473c4ec1fb7b3dedd53"
     },
     "nl-20260619-063": {
       "doc_type": "lov",
@@ -33259,13 +33259,13 @@
     },
     "sf-19970415-0318": {
       "doc_type": "forskrift",
-      "embedding_hash": "ceb325ade1da70ed579b4ae831415e85e96d37ce3b2d224d45beda68ac58a575",
-      "embedding_input_hash": "bf9ff5d9979474fbdfba1951b69ee88313b511db65221320bfdc90f2e4cdc8f5",
+      "embedding_hash": "00db6b4754163eb8500d8d6d4c047197dd3deb43a068345894d49cff2d8e8975",
+      "embedding_input_hash": "3f2562f229818c681e85274ac1c3c1498f22f6faed5509eff805f495e0eb9920",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/forskrift-om-stønad-til-hjelpemidler-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -33273,8 +33273,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen",
-      "total_changes": 3,
-      "xml_hash": "ceb325ade1da70ed579b4ae831415e85e96d37ce3b2d224d45beda68ac58a575"
+      "total_changes": 4,
+      "xml_hash": "00db6b4754163eb8500d8d6d4c047197dd3deb43a068345894d49cff2d8e8975"
     },
     "sf-19970415-0319": {
       "doc_type": "forskrift",
@@ -48326,13 +48326,13 @@
     },
     "sf-20050412-0319": {
       "doc_type": "forskrift",
-      "embedding_hash": "5accf817ae7d9b6bbb93c4fe979bcc4a5c67eda31c44304c37e6fcc66cb473b6",
-      "embedding_input_hash": "a21f2eaa81d90136fe42592bd812417c74596faa543dce1557e8f54cda775b45",
+      "embedding_hash": "7765e5bae60e2641fa5812c1155087d5134c647cea5f195990009669e22c54b8",
+      "embedding_input_hash": "cf8889d9dad82fa62c3831e583fe48bf16e76a7e4ee82a46a5aaec68e0fb6a5e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-10",
-      "last_seen": "2026-10-10T10:32:55.643126Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/forskrift-om-tilsetningsstoffer-i-forvarer.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -48340,8 +48340,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilsetningsstoffer til bruk i fôrvarer",
-      "total_changes": 8,
-      "xml_hash": "5accf817ae7d9b6bbb93c4fe979bcc4a5c67eda31c44304c37e6fcc66cb473b6"
+      "total_changes": 9,
+      "xml_hash": "7765e5bae60e2641fa5812c1155087d5134c647cea5f195990009669e22c54b8"
     },
     "sf-20050429-0418": {
       "doc_type": "forskrift",
@@ -60524,13 +60524,13 @@
     },
     "sf-20101108-1414": {
       "doc_type": "forskrift",
-      "embedding_hash": "764b0b62c809a2813a6bc997a9f01608fdbca5b2a132ee7bdf215e84fee02653",
+      "embedding_hash": "55d821a5351bf988c39d64d01170fb7149ac40b671495f470f89f82578ee0f2b",
       "embedding_input_hash": "869570977c225b0f592df399815289d2b18f00d41c74b2ca7c13b27190481b29",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-10",
-      "last_seen": "2026-10-10T10:32:55.643126Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/mandat-for-statens-pensjonsfond-utland-spu.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -60538,8 +60538,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Mandat for forvaltningen av Statens pensjonsfond utland",
-      "total_changes": 3,
-      "xml_hash": "764b0b62c809a2813a6bc997a9f01608fdbca5b2a132ee7bdf215e84fee02653"
+      "total_changes": 4,
+      "xml_hash": "55d821a5351bf988c39d64d01170fb7149ac40b671495f470f89f82578ee0f2b"
     },
     "sf-20101112-1426": {
       "doc_type": "forskrift",
@@ -75781,13 +75781,13 @@
     },
     "sf-20161123-1360": {
       "doc_type": "forskrift",
-      "embedding_hash": "769871766facbd5cada2b98b6bc17e18637b5a02692da0081d3e521d6546d7ac",
-      "embedding_input_hash": "27c39f457a157b94d2ec8026e01849a5e6e970fb539619e7842c0f39becaeddf",
+      "embedding_hash": "855bdf297ffc9874dfb85850e74a869296187c551fd6d38e2f7398d4feb677b4",
+      "embedding_input_hash": "0b894096a1465ceb4265e30060c64456546e758793c3570a4c8b7fcbc2f8b32f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/skatteforvaltningsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -75795,8 +75795,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til skatteforvaltningsloven (skatteforvaltningsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "769871766facbd5cada2b98b6bc17e18637b5a02692da0081d3e521d6546d7ac"
+      "total_changes": 6,
+      "xml_hash": "855bdf297ffc9874dfb85850e74a869296187c551fd6d38e2f7398d4feb677b4"
     },
     "sf-20161123-1363": {
       "doc_type": "forskrift",
@@ -93812,13 +93812,13 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "a954ba92d7e0db5f75b8b9717f8c660e41721c7621b20a91a391dabae6e49393",
-      "embedding_input_hash": "c3ab3ea062dd3db51ce6853d2e66c4d6125ba1c9fd391be755a04955bf5f8aa1",
+      "embedding_hash": "d019f624c594e71d9936085d5e2b0749f2e1f5852ee4e2bb11c8990dfe91bb5e",
+      "embedding_input_hash": "012cc60f5ebb55c9abde605460e0c53f77b275f6fd58d2555b5547e23698e443",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-10",
-      "last_seen": "2026-10-10T10:32:55.643126Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93826,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 25,
-      "xml_hash": "a954ba92d7e0db5f75b8b9717f8c660e41721c7621b20a91a391dabae6e49393"
+      "total_changes": 26,
+      "xml_hash": "d019f624c594e71d9936085d5e2b0749f2e1f5852ee4e2bb11c8990dfe91bb5e"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -96548,13 +96548,13 @@
     },
     "sf-20221220-2384": {
       "doc_type": "forskrift",
-      "embedding_hash": "39c1c344a7f8b314ccb83c715b5042426aad3a0c882e75e8d4aa214b0c9ae026",
-      "embedding_input_hash": "034c8cc5921c864f058d0fc03d10478cb004225b25d2959c74a299dbf3609cf4",
+      "embedding_hash": "a0d977f9869821f339d34c7a5f96910c44b7d541fe222b2be56d550c9c7948b0",
+      "embedding_input_hash": "d39e387d568f95633459288a76e2f66e885e78f6ed0fe44000d9463323f7909e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-01",
-      "last_seen": "2026-10-01T10:53:16.759325Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -96562,8 +96562,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport",
-      "total_changes": 7,
-      "xml_hash": "39c1c344a7f8b314ccb83c715b5042426aad3a0c882e75e8d4aa214b0c9ae026"
+      "total_changes": 8,
+      "xml_hash": "a0d977f9869821f339d34c7a5f96910c44b7d541fe222b2be56d550c9c7948b0"
     },
     "sf-20221220-2541": {
       "doc_type": "forskrift",
@@ -114045,6 +114045,25 @@
       "total_changes": 1,
       "xml_hash": "f95bb63b399eeb4fdd46ccaa9df0f25d8339900975272f71ac46d23b750280f2"
     },
+    "sf-20261005-2026": {
+      "doc_type": "forskrift",
+      "embedding_hash": "77fb36eef3cf0d449d5fcdcdbfe23a06c8a0694afb53a5be7d268c7e43da0dc0",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen",
+      "total_changes": 1,
+      "xml_hash": "77fb36eef3cf0d449d5fcdcdbfe23a06c8a0694afb53a5be7d268c7e43da0dc0"
+    },
     "sf-20261007-2009": {
       "doc_type": "forskrift",
       "embedding_hash": "6970649e8f7dbc70ccc3135aa598d8053effcdb1f599847fdd9c80a67cdd7442",
@@ -114066,13 +114085,13 @@
     },
     "sf-20261008-2011": {
       "doc_type": "forskrift",
-      "embedding_hash": "ddbdc7989d5feb699bfc1b055309f074ae5b0415f1a435cde927597ee5249795",
-      "embedding_input_hash": "3534d306b6eed1d346d1111136dcf7bd98594dee08fb410e47532dc8a8441070",
+      "embedding_hash": "7d105e8dbedf413ede27b4fe7890a43e6408b97f1ef4c1ba73a74eed54fc8cb2",
+      "embedding_input_hash": "3f5b8d1cc44dacf7a60c4a044200597cf820e2bb715ae0477324ea991a8ff751",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-10",
-      "last_seen": "2026-10-10T10:32:55.643126Z",
+      "last_changed": "2026-10-13",
+      "last_seen": "2026-10-13T11:40:11.848780Z",
       "markdown_path": "forskrifter/forskrift-om-midlertidig-tilskudd-for-andre-redskapsgrupper-enn-reketrål-i-oslofjorden.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -114080,10 +114099,10 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om midlertidig tilskudd for andre redskapsgrupper enn reketrål i Oslofjorden",
-      "total_changes": 1,
-      "xml_hash": "ddbdc7989d5feb699bfc1b055309f074ae5b0415f1a435cde927597ee5249795"
+      "total_changes": 2,
+      "xml_hash": "7d105e8dbedf413ede27b4fe7890a43e6408b97f1ef4c1ba73a74eed54fc8cb2"
     }
   },
-  "generated_at": "2026-10-10T10:32:55.643126Z",
+  "generated_at": "2026-10-13T11:40:11.848780Z",
   "version": 1
 }

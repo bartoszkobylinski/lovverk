@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-støtteprosessloven — Change history
 
-_2 events; doc_id `nl-20260619-062`._
+_3 events; doc_id `nl-20260619-062`._
+
+## 2026-10-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-støtteprosessloven`
+Commit: `e1dddb2`.
 
 ## 2026-06-23 — Content updated
 Lines: +2 -2.

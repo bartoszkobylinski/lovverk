@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-straffeloven — Change history
 
-_3 events; doc_id `nl-20260612-028`._
+_4 events; doc_id `nl-20260612-028`._
+
+## 2026-10-13 — Content updated
+Lines: +5 -7.
+Subject: `update(lov): endringslov-til-straffeloven`
+Commit: `d779359`.
 
 ## 2026-06-16 — Content updated
 Lines: +3 -3.

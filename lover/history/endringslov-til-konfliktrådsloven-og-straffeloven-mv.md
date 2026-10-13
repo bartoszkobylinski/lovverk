@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-konfliktrådsloven-og-straffeloven-mv — Change history
 
-_3 events; doc_id `nl-20241129-073`._
+_4 events; doc_id `nl-20241129-073`._
+
+## 2026-10-13 — Content updated
+Lines: +11 -19.
+Subject: `update(lov): endringslov-til-konfliktrådsloven-og-straffeloven-mv`
+Commit: `5430c1e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

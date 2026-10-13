@@ -2,6 +2,16 @@
   "doc_id": "sf-20261008-2011",
   "events": [
     {
+      "commit": "f1b4184",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-midlertidig-tilskudd-for-andre-redskapsgrupper-enn-reketrål-i-oslofjorden",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7ed3a16",
       "date": "2026-10-10",
       "from_path": null,

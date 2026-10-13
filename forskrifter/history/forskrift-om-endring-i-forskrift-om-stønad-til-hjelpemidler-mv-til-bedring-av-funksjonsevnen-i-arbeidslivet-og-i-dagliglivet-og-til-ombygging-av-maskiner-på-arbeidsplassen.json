@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261005-2026",
+  "events": [
+    {
+      "commit": "2a8be9a",
+      "date": "2026-10-13",
+      "from_path": null,
+      "lines_added": 41,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen"
+}
