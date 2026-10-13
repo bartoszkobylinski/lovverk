@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "90e198a2d94eb06b60fb618d7c0e8505eeedf180a28aa82d803601a5c522132b"
+xml_hash: "d85273ebc5b613a813db1b3bed992d833933d16dd1fd62546ec0243abf6bff72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,11 +46,9 @@ Er utbytte, jf. [§ 67](lov/2005-05-20-28/§67), eller ting som nevnt i [§ 69](
 
 [§ 73 første ledd bokstav b](lov/2005-05-20-28/§73/ledd/1/bokstav/b), [c](lov/2005-05-20-28/§73/ledd/1/bokstav/c) og ny bokstav d skal lyde:
 
-som lovbryteren har handlet på vegne av,
-
-som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, eller
-
-som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
+1. som lovbryteren har handlet på vegne av,
+2. som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, eller
+3. som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
 
 [§ 92](lov/2005-05-20-28/§92) nytt tredje punktum skal lyde:
 
