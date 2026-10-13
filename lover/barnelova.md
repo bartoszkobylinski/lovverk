@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "c6633bd68df426b1b77582bce954ae649a5f6c0a0321a41a758f7be400e19af3"
+xml_hash: "f084e597080179b6714c5139795268481ef26098c6ed5c8d8b940623c7796e79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1033,15 +1033,15 @@ Ingen må påleggast å gje vitneforklaring i strid med reglane i [straffeproses
 
 [§ 11 andre ledd nummer 1](lov/1980-06-13-35/§11/ledd/2/nummer/1) skal lyde:
 
-i saker etter [ekteskapsloven del II](lov/1991-07-04-47/delII) eller [barneloven kapittel 6](lov/1981-04-08-7/kap6) til [8](lov/1981-04-08-7/kap8) og [10](lov/1981-04-08-7/kap10) til [14](lov/1981-04-08-7/a14), herunder saker om tvangsfullbyrdelse og midlertidig sikring
+1. i saker etter [ekteskapsloven del II](lov/1991-07-04-47/delII) eller [barneloven kapittel 6](lov/1981-04-08-7/kap6) til [8](lov/1981-04-08-7/kap8) og [10](lov/1981-04-08-7/kap10) til [14](lov/1981-04-08-7/a14), herunder saker om tvangsfullbyrdelse og midlertidig sikring
 
 [§ 16 første ledd nummer 6](lov/1980-06-13-35/§16/ledd/1/nummer/6) skal lyde:
 
-til den det oppnevnes advokat for i medhold av [barneloven § 12-11](lov/2025-06-20-40/§12-11)
+1. til den det oppnevnes advokat for i medhold av [barneloven § 12-11](lov/2025-06-20-40/§12-11)
 
 [§ 16 andre ledd nummer 1](lov/1980-06-13-35/§16/ledd/2/nummer/1) skal lyde:
 
-saker etter [barnelova kapittel 6](lov/2025-06-20-40/kap6) til [14](lov/2025-06-20-40/kap14), herunder saker om tvangsfullbyrdelse og midlertidig sikring
+1. saker etter [barnelova kapittel 6](lov/2025-06-20-40/kap6) til [14](lov/2025-06-20-40/kap14), herunder saker om tvangsfullbyrdelse og midlertidig sikring
 
 **3.** I [lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker](lov/1981-05-22-25) gjøres følgende endringer:
 
@@ -1151,7 +1151,7 @@ Hvis foreldrene ikke bor sammen og skriftlig har avtalt delt bosted i samsvar me
 
 [§ 5-43 første ledd bokstav h](lov/1999-03-26-14/§5-43/ledd/1/bokstav/h) skal lyde:
 
-Barnebidrag og særbidrag etter [barneloven kapittel 9](lov/1981-04-08-7/kap9), oppfostringsbidrag etter [barnevernsloven](lov/2021-06-18-97) og bidragsforskudd etter [forskotteringsloven](lov/1989-02-17-2).
+1. Barnebidrag og særbidrag etter [barneloven kapittel 9](lov/1981-04-08-7/kap9), oppfostringsbidrag etter [barnevernsloven](lov/2021-06-18-97) og bidragsforskudd etter [forskotteringsloven](lov/1989-02-17-2).
 
 **13.** I [lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter](lov/1999-07-02-63) gjøres følgende endringer:
 
