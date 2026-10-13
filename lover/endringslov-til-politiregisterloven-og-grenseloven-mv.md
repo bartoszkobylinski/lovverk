@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "39a2c325762e8c5197f8ef08d60c8b3d238f049a469c5de90c2510d5f710dac3"
+xml_hash: "b8fb0e35ef2db77a5f686c0959c820eae7ca521c0e7e71b3e7203cecdbac4177"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,9 +34,8 @@ Endringer i følgende lover:
 
 I [lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker](lov/1981-05-22-25) skal [§ 216 i første ledd tredje punktum bokstav k](lov/1981-05-22-25/§216i/ledd/1/setning/3/bokstav/k) og ny bokstav l lyde:
 
-i sak om forbud mot en kriminell sammenslutning etter [kapittel 17 c](lov/1981-05-22-25/kap17c),
-
-til testing og utvikling av informasjonssystemer som skal brukes innenfor [politiregisterlovens](lov/2010-05-28-16) virkeområde.
+1. i sak om forbud mot en kriminell sammenslutning etter [kapittel 17 c](lov/1981-05-22-25/kap17c),
+2. til testing og utvikling av informasjonssystemer som skal brukes innenfor [politiregisterlovens](lov/2010-05-28-16) virkeområde.
 
 ## II
 
@@ -44,11 +43,9 @@ I [lov 4. august 1995 nr. 53 om politiet](lov/1995-08-04-53) gjøres følgende e
 
 [§ 17 f annet ledd bokstav e](lov/1995-08-04-53/§17f/ledd/2/bokstav/e), [f](lov/1995-08-04-53/§17f/ledd/2/bokstav/f) og ny bokstav g skal lyde:
 
-for å forhindre en alvorlig straffbar handling som kan krenke andres liv, helse eller frihet,
-
-for at Politiets sikkerhetstjeneste kan utlevere opplysninger til Etterretningstjenesten dersom det er nødvendig for forebyggelses- og sikkerhetsmessige formål, eller
-
-til testing og utvikling av informasjonssystemer som skal brukes innenfor [politiregisterlovens](lov/2010-05-28-16) virkeområde.
+1. for å forhindre en alvorlig straffbar handling som kan krenke andres liv, helse eller frihet,
+2. for at Politiets sikkerhetstjeneste kan utlevere opplysninger til Etterretningstjenesten dersom det er nødvendig for forebyggelses- og sikkerhetsmessige formål, eller
+3. til testing og utvikling av informasjonssystemer som skal brukes innenfor [politiregisterlovens](lov/2010-05-28-16) virkeområde.
 
 – – –
 
@@ -72,15 +69,13 @@ Nåværende [bokstav g](lov/2010-05-28-16/§40/nummer/3/bokstav/g) til i blir bo
 
 [§ 65 a annet ledd nr. 3](lov/2010-05-28-16/§65a/ledd/2/nummer/3) og nytt nr. 4 skal lyde:
 
-etterforskning av lovbrudd som nevnt i [politiloven § 17 b](lov/1995-08-04-53/§17b), jf. [straffeprosessloven 224](lov/1981-05-22-25/§224)
-
-testing og utvikling av informasjonssystemer som skal brukes til behandling av åpent tilgjengelig informasjon til etterretningsformål, jf. denne bestemmelsens første ledd.
+1. etterforskning av lovbrudd som nevnt i [politiloven § 17 b](lov/1995-08-04-53/§17b), jf. [straffeprosessloven 224](lov/1981-05-22-25/§224)
+2. testing og utvikling av informasjonssystemer som skal brukes til behandling av åpent tilgjengelig informasjon til etterretningsformål, jf. denne bestemmelsens første ledd.
 
 [§ 69 første ledd nr. 26](lov/2010-05-28-16/§69/ledd/1/nummer/26) og nytt nr. 27 skal lyde:
 
-særregler for militærpolitiets behandling av opplysninger,
-
-behandling av opplysninger i forbindelse med testing og utvikling av informasjonssystemer.
+1. særregler for militærpolitiets behandling av opplysninger,
+2. behandling av opplysninger i forbindelse med testing og utvikling av informasjonssystemer.
 
 ## V
 
