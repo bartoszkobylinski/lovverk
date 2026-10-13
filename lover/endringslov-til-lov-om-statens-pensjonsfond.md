@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "520309bd802ddf1a3fa3ec37805de107b8bcb143d64a1e77bb54fe9fc074c31d"
+xml_hash: "9be53f530a32d7eca5118fccc5258be82bde113132e877b0394a9a33ea220378"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ I [lov 21. desember 2005 nr. 123 om Statens pensjonsfond](lov/2005-12-21-123) gj
 
 [§ 4 tredje ledd nr. 2](lov/2005-12-21-123/§4/ledd/3/nummer/2) skal lyde:
 
-avgiftsinntekter ved utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
+- avgiftsinntekter ved utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
 
 ## II
 
