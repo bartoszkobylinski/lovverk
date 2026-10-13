@@ -10,12 +10,12 @@ ministry:
   - "Finansdepartementet"
 date_in_force: "2010-11-08"
 last_change_in_force: "2026-10-05"
-last_updated: "2023-08-11"
-xml_hash: "764b0b62c809a2813a6bc997a9f01608fdbca5b2a132ee7bdf215e84fee02653"
+last_updated: "2026-10-12"
+xml_hash: "55d821a5351bf988c39d64d01170fb7149ac40b671495f470f89f82578ee0f2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-10T10:32:55.643126+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
