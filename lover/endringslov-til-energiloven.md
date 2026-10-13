@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "30cbb5f5535c14320d1293a391e75fab1ab82eaa0c66bcd8741941c3c4781837"
+xml_hash: "b41261dd962eabfb201d2541f525380e84b42ba53b148d90f4424b9517fd5b14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,13 +49,10 @@ Departementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av
 
 [§ 7-3 første ledd bokstav c](lov/1990-06-29-50/§7-3/ledd/1/bokstav/c) til ny bokstav f skal lyde:
 
-å drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov
-
-å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når fjernvarme- eller fjernkjølenett planlegges oppført, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjølenett planlegges oppført eller omfattende oppgradert
-
-å drive datasentre som nevnt i [§ 7-2 første ledd bokstav e](lov/1990-06-29-50/§7-2/ledd/1/bokstav/e) og anlegg som nevnt i [§ 7-2 første ledd bokstav f](lov/1990-06-29-50/§7-2/ledd/1/bokstav/f) slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov
-
-å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når industrianlegg og andre anlegg med varmebehov planlegges oppført eller omfattende oppgradert.
+1. å drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov
+2. å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når fjernvarme- eller fjernkjølenett planlegges oppført, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjølenett planlegges oppført eller omfattende oppgradert
+3. å drive datasentre som nevnt i [§ 7-2 første ledd bokstav e](lov/1990-06-29-50/§7-2/ledd/1/bokstav/e) og anlegg som nevnt i [§ 7-2 første ledd bokstav f](lov/1990-06-29-50/§7-2/ledd/1/bokstav/f) slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov
+4. å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når industrianlegg og andre anlegg med varmebehov planlegges oppført eller omfattende oppgradert.
 
 [§ 7-4 annet ledd](lov/1990-06-29-50/§7-4/ledd/2) skal lyde:
 
