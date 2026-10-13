@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "fb6af6491d89259e5a3526911948dc42a076ed7239902596755dab64911c7800"
+xml_hash: "c14c325008573d7fd0b6ea5ffff14feefa682db3f135920463aaeb500a20b52c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -465,33 +465,32 @@ Om ferdsel på innsjøer og elver (åpent eller islagt vassdrag) gjelder reglene
 
 [§ 2 første ledd nr. 3](lov/1996-06-21-38/§2/ledd/1/nummer/3) skal lyde:
 
-[lov 19. juni 2026 nr. 53 om motorferdsel i utmark og vassdrag](lov/2026-06-19-53),
+1. [lov 19. juni 2026 nr. 53 om motorferdsel i utmark og vassdrag](lov/2026-06-19-53),
 
 **3.** [Lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82) endres slik:
 
 [§ 16 første ledd bokstav d](lov/2000-11-24-82/§16/ledd/1/bokstav/d) skal lyde:
 
-motorisert ferdsel på åpent eller islagt vassdrag når det skjer i samsvar med [lov 19. juni 2026 nr. 53 om motorferdsel i utmark og vassdrag](lov/2026-06-19-53) og grunneieren ikke har nedlagt forbud etter annet ledd.
+1. motorisert ferdsel på åpent eller islagt vassdrag når det skjer i samsvar med [lov 19. juni 2026 nr. 53 om motorferdsel i utmark og vassdrag](lov/2026-06-19-53) og grunneieren ikke har nedlagt forbud etter annet ledd.
 
 **4.** [Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling](lov/2008-06-27-71) endres slik:
 
 [§ 11-7 andre ledd nr. 5](lov/2008-06-27-71/§11-7/ledd/2/nummer/5) ny bokstav c skal lyde:
 
-løyper for motorferdsel på snødekt mark og islagt vassdrag og tilhørende rastesoner.
+1. løyper for motorferdsel på snødekt mark og islagt vassdrag og tilhørende rastesoner.
 
 [§ 11-9](lov/2008-06-27-71/§11-9) ny nr. 9 skal lyde:
 
-motorferdsel i områder angitt i [motorferdselloven § 18](lov/2026-06-19-53/§18) og [§ 25](lov/2026-06-19-53/§25), når og hvordan slik ferdsel kan skje, og hvilke transport- og fremkomstmidler som kan benyttes.
+1. motorferdsel i områder angitt i [motorferdselloven § 18](lov/2026-06-19-53/§18) og [§ 25](lov/2026-06-19-53/§25), når og hvordan slik ferdsel kan skje, og hvilke transport- og fremkomstmidler som kan benyttes.
 
 [§ 12-5 andre ledd nr. 5](lov/2008-06-27-71/§12-5/ledd/2/nummer/5) skal lyde:
 
-landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg, herunder områder for jordbruk, skogbruk, reindrift, naturvern, jordvern, særlige landskapshensyn, vern av kulturmiljø eller kulturminne, friluftsområder, seterområder, og landbruks-, natur- og friluftsområder der kommuneplanens arealdel tillater spredt bolig-, fritidsbolig- og næringsvirksomhet, samt løyper for motorferdsel på snødekt mark, islagte vassdrag og tilhørende rastesoner, og øvingsområder for obligatorisk kjøreopplæring på snødekt mark og islagte vassdrag,
+1. landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg, herunder områder for jordbruk, skogbruk, reindrift, naturvern, jordvern, særlige landskapshensyn, vern av kulturmiljø eller kulturminne, friluftsområder, seterområder, og landbruks-, natur- og friluftsområder der kommuneplanens arealdel tillater spredt bolig-, fritidsbolig- og næringsvirksomhet, samt løyper for motorferdsel på snødekt mark, islagte vassdrag og tilhørende rastesoner, og øvingsområder for obligatorisk kjøreopplæring på snødekt mark og islagte vassdrag,
 
 [§ 12-7 nr. 14](lov/2008-06-27-71/§12-7/nummer/14) og ny nr. 15 skal lyde:
 
-hvilke arealer som skal være til offentlige formål eller fellesareal,
-
-motorferdsel i områder angitt i [motorferdselloven § 18](lov/2026-06-19-53/§18) og [§ 25](lov/2026-06-19-53/§25), når og hvordan slik ferdsel kan skje, og hvilke transport- og fremkomstmidler som kan benyttes.
+1. hvilke arealer som skal være til offentlige formål eller fellesareal,
+2. motorferdsel i områder angitt i [motorferdselloven § 18](lov/2026-06-19-53/§18) og [§ 25](lov/2026-06-19-53/§25), når og hvordan slik ferdsel kan skje, og hvilke transport- og fremkomstmidler som kan benyttes.
 
 [§ 16-2](lov/2008-06-27-71/§16-2) nytt syvende ledd skal lyde:
 
@@ -501,9 +500,8 @@ Ekspropriasjon av grunn som er regulert til løyper for motorferdsel på snødek
 
 [§ 10 første ledd fjerde punktum bokstav m](lov/2009-06-05-35/§10/ledd/1/setning/4/bokstav/m) og ny bokstav n skal lyde:
 
-nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov/2009-06-05-35/§11),
-
-skjøtsel etter [§ 11](lov/2009-06-05-35/§11) i loven her, inkludert transport til områdene som skal skjøttes.
+1. nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov/2009-06-05-35/§11),
+2. skjøtsel etter [§ 11](lov/2009-06-05-35/§11) i loven her, inkludert transport til områdene som skal skjøttes.
 
 [§ 10 syvende ledd](lov/2009-06-05-35/§10/ledd/7) skal lyde:
 
@@ -513,6 +511,5 @@ Er det nødvendig for å gjennomføre skjøtselstiltak i verneområder vernet et
 
 [§ 4-6 første ledd bokstav h](lov/2025-06-20-107/§4-6/ledd/1/bokstav/h) og ny bokstav i skal lyde:
 
-planlagte kostnader og investeringer
-
-planlagt adkomst til og ferdsel i undersøkelsesområdet, herunder behov for motorferdsel i utmark og vassdrag.
+1. planlagte kostnader og investeringer
+2. planlagt adkomst til og ferdsel i undersøkelsesområdet, herunder behov for motorferdsel i utmark og vassdrag.
