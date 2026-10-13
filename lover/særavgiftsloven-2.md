@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "008e50130ac6472d3a89732cf3b6f39c107d782217086b49b501369c4c120a2c"
+xml_hash: "f60016c4245c39a9cc818875c38c7d1e56c5db0f0731860c3da885e0aa36cf30"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -866,7 +866,7 @@ For rettigheter som er fastslått i en rettskraftig dom fra utmarksdomstolen ell
 
 [§ 1-1 andre ledd bokstav h](lov/2005-06-17-67/§1-1/ledd/2/bokstav/h) skal lyde:
 
-særavgifter etter særavgiftsloven, unntatt dokumentavgift
+1. særavgifter etter særavgiftsloven, unntatt dokumentavgift
 
 [§ 1-1 andre ledd bokstav i](lov/2005-06-17-67/§1-1/ledd/2/bokstav/i) oppheves.
 
@@ -934,7 +934,7 @@ Fritaket omfatter også lastebiler, trekkbiler, varebiler, kombinerte biler, cam
 
 [§ 1-1 bokstav h](lov/2016-05-27-14/§1-1/bokstav/h) skal lyde:
 
-særavgifter etter særavgiftsloven, unntatt dokumentavgift (særavgifter)
+1. særavgifter etter særavgiftsloven, unntatt dokumentavgift (særavgifter)
 
 [§ 1-1 bokstav i](lov/2016-05-27-14/§1-1/bokstav/i) oppheves.
 
@@ -946,7 +946,7 @@ særavgifter etter særavgiftsloven, unntatt dokumentavgift (særavgifter)
 
 [§ 8-4 andre ledd bokstav b](lov/2016-05-27-14/§8-4/ledd/2/bokstav/b) skal lyde:
 
-registrerte importører av avgiftspliktige varer som skal brukes til råvarer, eller er til avgiftsfri bruk etter bestemmelsene i særavgiftsloven.
+1. registrerte importører av avgiftspliktige varer som skal brukes til råvarer, eller er til avgiftsfri bruk etter bestemmelsene i særavgiftsloven.
 
 [§ 8-4 fjerde ledd](lov/2016-05-27-14/§8-4/ledd/4) nytt andre punktum skal lyde:
 
