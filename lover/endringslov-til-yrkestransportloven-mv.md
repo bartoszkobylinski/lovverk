@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-06-20"
 last_change_in_force: null
 last_updated: null
-xml_hash: "eb1d7b0f3c0e5d0c8da09fa1fb0089a0f0e4194feaf0a1bc70375fc55219994d"
+xml_hash: "bee3c975bd1396f0d69436b92908ae6cf529821ba77093aaf970ca6a35a4a99f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,7 +39,7 @@ I [lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy](lov/2002
 
 [§ 9 d første ledd bokstav d](lov/2002-06-21-45/§9d/ledd/1/bokstav/d) skal lyde:
 
-taksameter som er installert i drosja, inkludert serienummer, eller anna kontrollutrusting
+1. taksameter som er installert i drosja, inkludert serienummer, eller anna kontrollutrusting
 
 – – –
 
