@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "b2d5cd9d5362566f81fa22034d107c33e9567c8a709436778f7502b278dd3a0f"
+xml_hash: "ef96f85306e9bf54df7dc5634910920195b80507fc09c3140e0393d9bfac4686"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis:
   - "32019R2033"
@@ -41,7 +41,7 @@ I [lov 29. juni 2007 nr. 75 om verdipapirhandel](lov/2007-06-29-75) gjøres føl
 
 [§ 9-4 første ledd nr. 4](lov/2007-06-29-75/§9-4/ledd/1/nummer/4) skal lyde:
 
-[§§ 9-39](lov/2007-06-29-75/§9-39) til [9-57](lov/2007-06-29-75/§9-57),
+1. [§§ 9-39](lov/2007-06-29-75/§9-39) til [9-57](lov/2007-06-29-75/§9-57),
 
 [§ 9-16 første ledd nr. 10](lov/2007-06-29-75/§9-16/ledd/1/nummer/10) oppheves.
 
@@ -78,7 +78,7 @@ Anvendelsen av minste tillatte kursendringer skal ikke forhindre det regulerte m
 
 [§ 17-1 første ledd](lov/2007-06-29-75/§17-1/ledd/1/bokstav/n) ny bokstav n skal lyde:
 
-forordning [(EU) 2022/2554](eu/32022r2554)
+1. forordning [(EU) 2022/2554](eu/32022r2554)
 
 [§ 20-1 annet ledd](lov/2007-06-29-75/§20-1/ledd/2) skal lyde:
 
@@ -96,7 +96,7 @@ Ny [§ 21-5 a](lov/2007-06-29-75/§21-5a) skal lyde:
 
 [§ 21-14](lov/2007-06-29-75/§21-14) nytt nr. 9 skal lyde:
 
-eventuelle følger av overtredelsen for finansiell stabilitet,
+1. eventuelle følger av overtredelsen for finansiell stabilitet,
 
 Nåværende [nr. 9](lov/2007-06-29-75/§21-14/nummer/9) blir nytt nr. 10.
 
@@ -106,11 +106,11 @@ I [lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond](lov/
 
 [§ 2-7 første ledd bokstav b](lov/2014-06-20-28/§2-7/ledd/1/bokstav/b) skal lyde:
 
-slik at den ansvarlige kapitalen til enhver tid minst skal tilsvare en fjerdedel av foretakets faste kostnader i det foregående år, beregnet i samsvar med forordning [(EU) 2019/2033](eu/32019r2033) artikkel 13.
+1. slik at den ansvarlige kapitalen til enhver tid minst skal tilsvare en fjerdedel av foretakets faste kostnader i det foregående år, beregnet i samsvar med forordning [(EU) 2019/2033](eu/32019r2033) artikkel 13.
 
 [§ 5-2 første ledd bokstav b](lov/2014-06-20-28/§5-2/ledd/1/bokstav/b) skal lyde:
 
-verdipapirforetak etablert i en EØS-stat, med tillatelse til å yte tilknyttet tjeneste som nevnt i [verdipapirhandelloven § 2-6 første ledd nr. 1](lov/2007-06-29-75/§2-6/ledd/1/nummer/1) og som har en ansvarlig kapital som minst utgjør et beløp i norske kroner tilsvarende 750 000 euro, eller
+1. verdipapirforetak etablert i en EØS-stat, med tillatelse til å yte tilknyttet tjeneste som nevnt i [verdipapirhandelloven § 2-6 første ledd nr. 1](lov/2007-06-29-75/§2-6/ledd/1/nummer/1) og som har en ansvarlig kapital som minst utgjør et beløp i norske kroner tilsvarende 750 000 euro, eller
 
 ## III
 
@@ -128,15 +128,14 @@ Ny [§ 2-8 a](lov/2015-04-10-17/§2-8a) skal lyde:
 
 [§ 3-7 første ledd bokstav f](lov/2015-04-10-17/§3-7/ledd/1/bokstav/f) og ny bokstav g skal lyde:
 
-foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,
-
-foretaket driver bare virksomhet som nevnt i [§ 2-8 a](lov/2015-04-10-17/§2-8a) og har i fem sammenhengende år hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
+1. foretaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,
+2. foretaket driver bare virksomhet som nevnt i [§ 2-8 a](lov/2015-04-10-17/§2-8a) og har i fem sammenhengende år hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
 
 [§ 10-6 første ledd annet punktum](lov/2015-04-10-17/§10-6/ledd/1/setning/2) oppheves.
 
 [§ 20-1 første ledd bokstav a](lov/2015-04-10-17/§20-1/ledd/1/bokstav/a) skal lyde:
 
-banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-41 første ledd](lov/2007-06-29-75/§9-41/ledd/1),
+1. banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-41 første ledd](lov/2007-06-29-75/§9-41/ledd/1),
 
 [§ 20-1](lov/2015-04-10-17/§20-1) nytt fjerde ledd skal lyde:
 
