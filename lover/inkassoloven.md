@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "eeb304949512ca3aba36441833b31efebd59d9d0122c1bdcdb645e4f47ae891e"
+xml_hash: "d32af797e91843a43e2ea6dab74ea7d3fb6bfdb35eb02974d78e3966009f002b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis:
   - "32021L2167"
@@ -691,7 +691,7 @@ Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:
 
 **1.** I [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.](lov/1976-12-17-100) skal [§ 4 bokstav b](lov/1976-12-17-100/§4/bokstav/b) lyde:
 
-Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn erstatningsbeløpene som kan kreves etter [inkassoloven § 18](lov/2026-05-22-19/§18) eller forskrift gitt med hjemmel i [inkassoloven § 19](lov/2026-05-22-19/§19).
+1. Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn erstatningsbeløpene som kan kreves etter [inkassoloven § 18](lov/2026-05-22-19/§18) eller forskrift gitt med hjemmel i [inkassoloven § 19](lov/2026-05-22-19/§19).
 
 **2.** I [lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs](lov/1984-06-08-58) skal [§ 149 andre ledd andre punktum](lov/1984-06-08-58/§149/ledd/2/setning/2) lyde:
 
@@ -715,4 +715,4 @@ Hvis klageren krever erstatning for kostnader ved utenrettslig inndriving, skal 
 
 [§ 6-7 første ledd bokstav c](lov/2005-06-17-90/§6-7/ledd/1/bokstav/c) skal lyde:
 
-den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter [inkassoloven § 11](lov/2026-05-22-19/§11) med inkassooppdrag for saken,
+1. den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter [inkassoloven § 11](lov/2026-05-22-19/§11) med inkassooppdrag for saken,
