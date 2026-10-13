@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-19"
 last_change_in_force: null
 last_updated: null
-xml_hash: "3013c21a2f6510849e66ade873b58ef56a9ebd82e6df5df903e57732d69b5ea9"
+xml_hash: "d010443f964e1de5a285d7ebc44d576a46bd3c0f1d23cdf41652330a73e7d328"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -162,7 +162,7 @@ I [lov 8. februar 1980 nr. 2 om pant](lov/1980-02-08-2) gjøres følgende endrin
 
 [§ 1-5 første ledd bokstav b](lov/1980-02-08-2/§1-5/ledd/1/bokstav/b) skal lyde:
 
-renter som er opptjent senere enn to år før en panthaver begjærer tvangsdekning, forutsatt at dekning gjennomføres, eller senere enn to år før det åpnes gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), rekonstruksjonsforhandling eller konkurs hos eieren.
+1. renter som er opptjent senere enn to år før en panthaver begjærer tvangsdekning, forutsatt at dekning gjennomføres, eller senere enn to år før det åpnes gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), rekonstruksjonsforhandling eller konkurs hos eieren.
 
 [§ 1-13](lov/1980-02-08-2/§1-13) skal lyde:
 
@@ -208,7 +208,7 @@ Ny [§ 7-6 a](lov/1984-06-08-59/§7-6a) skal lyde:
 
 [§ 9-2 tredje ledd nr. 2](lov/1984-06-08-59/§9-2/ledd/3/nummer/2) skal lyde:
 
-andre forpliktelser påført skyldnerens bo med rekonstruksjonsutvalgets tillatelse under en umiddelbart forutgående rekonstruksjonsforhandling eller med rettens samtykke under offentlig dødsboskifte;
+1. andre forpliktelser påført skyldnerens bo med rekonstruksjonsutvalgets tillatelse under en umiddelbart forutgående rekonstruksjonsforhandling eller med rettens samtykke under offentlig dødsboskifte;
 
 ## IV
 
@@ -231,6 +231,36 @@ I [midlertidig lov 7. mai 2020 nr. 38 om rekonstruksjon for å avhjelpe økonomi
 ## VI
 
 I følgende bestemmelser skal ordene «gjeldsforhandling» og «gjeldsforhandlingen» endres til henholdsvis «rekonstruksjonsforhandling» og «rekonstruksjonsforhandlingen»:
+
+1. [lov 30. juni 1916 nr. 1 om kommisjon § 47](lov/1916-06-30-1/§47) og [§ 56 annet ledd](lov/1916-06-30-1/§56/ledd/2)
+2. [lov 31. mai 1918 nr. 4 om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer § 23 annet ledd](lov/1918-05-31-4/§23/ledd/2)
+3. [lov 27. mai 1932 nr. 2 om veksler § 43 annet ledd](lov/1932-05-27-2/§43/ledd/2) og [§ 44 sjette ledd](lov/1932-05-27-2/§44/ledd/6)
+4. [lov 8. februar 1980 nr. 2 om pant § 1-9 første ledd bokstav c](lov/1980-02-08-2/§1-9/ledd/1/bokstav/c)
+5. [lov 17. desember 1982 nr. 86 om rettsgebyr § 17 første ledd](lov/1982-12-17-86/§17/ledd/1)
+6. [lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs § 80 første ledd](lov/1984-06-08-58/§80/ledd/1), [§ 147](lov/1984-06-08-58/§147), [§ 149 annet ledd](lov/1984-06-08-58/§149/ledd/2), [§ 151](lov/1984-06-08-58/§151), [§ 161 første ledd](lov/1984-06-08-58/§161/ledd/1), [§ 164 første ledd](lov/1984-06-08-58/§164/ledd/1), [§ 168 første ledd](lov/1984-06-08-58/§168/ledd/1), [§ 174 første](lov/1984-06-08-58/§174/ledd/1) og [annet ledd](lov/1984-06-08-58/§174/ledd/2)
+7. [lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 1-3 første ledd](lov/1984-06-08-59/§1-3/ledd/1), [§ 1-6 første](lov/1984-06-08-59/§1-6/ledd/1) og [annet ledd](lov/1984-06-08-59/§1-6/ledd/2), [§ 2-1 første ledd](lov/1984-06-08-59/§2-1/ledd/1), [§ 2-6 fjerde ledd](lov/1984-06-08-59/§2-6/ledd/4), [§ 4-2](lov/1984-06-08-59/§4-2), [§ 7-3 første ledd](lov/1984-06-08-59/§7-3/ledd/1), [§ 7-7](lov/1984-06-08-59/§7-7), [§ 7-8](lov/1984-06-08-59/§7-8), [§ 7-9 annet ledd](lov/1984-06-08-59/§7-9/ledd/2), [§ 7-12](lov/1984-06-08-59/§7-12), [§ 7-13 første ledd](lov/1984-06-08-59/§7-13/ledd/1) og [§ 8-5 annet ledd](lov/1984-06-08-59/§8-5/ledd/2)
+8. [lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. § 7-1 annet ledd](lov/1985-06-21-79/§7-1/ledd/2)
+9. [lov 24. juni 1994 nr. 39 om sjøfarten § 44 første ledd nr. 5](lov/1994-06-24-39/§44/ledd/1/nummer/5)
+10. [lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 6-4 annet ledd](lov/1996-11-29-72/§6-4/ledd/2)
+11. [lov 13. juni 1997 nr. 44 om aksjeselskaper § 6-18 første ledd](lov/1997-06-13-44/§6-18/ledd/1) og [§ 17-3 første ledd](lov/1997-06-13-44/§17-3/ledd/1)
+12. [lov 13. juni 1997 nr. 45 om allmennaksjeselskaper § 6-18 første ledd](lov/1997-06-13-45/§6-18/ledd/1) og [§ 17-3 første ledd](lov/1997-06-13-45/§17-3/ledd/1)
+13. [lov 15. juni 2001 nr. 93 om helseforetak m.m. § 5 tredje ledd](lov/2001-06-15-93/§5/ledd/3)
+14. [lov 6. juni 2003 nr. 38 om bustadbyggjelag § 6-16 første ledd](lov/2003-06-06-38/§6-16/ledd/1) og [§ 11-3 første ledd](lov/2003-06-06-38/§11-3/ledd/1)
+15. [lov 6. juni 2003 nr. 39 om burettslag § 12-3 første ledd](lov/2003-06-06-39/§12-3/ledd/1)
+16. [lov 26. mars 2004 nr. 17 om finansiell sikkerhetsstillelse § 5 tredje ledd](lov/2004-03-26-17/§5/ledd/3)
+17. [lov 20. mai 2005 nr. 28 om straff § 90](lov/2005-05-20-28/§90), [§ 407](lov/2005-05-20-28/§407) og [§ 408](lov/2005-05-20-28/§408)
+18. [lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark § 14 annet ledd](lov/2005-06-17-85/§14/ledd/2)
+19. [lov 29. juni 2007 nr. 81 om samvirkeforetak § 81 første ledd](lov/2007-06-29-81/§81/ledd/1) og [§ 155 første ledd](lov/2007-06-29-81/§155/ledd/1)
+20. [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 16-12 annet ledd](lov/2015-04-10-17/§16-12/ledd/2), [§ 20-2](lov/2015-04-10-17/§20-2) og [§ 21-8](lov/2015-04-10-17/§21-8)
+21. [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 9-3 fjerde ledd](lov/2018-06-01-24/§9-3/ledd/4)
+22. [lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner § 29-1 annet ledd](lov/2018-06-22-83/§29-1/ledd/2)
+23. [lov 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv. § 6-6 første ledd nr. 5](lov/2019-03-15-6/§6-6/ledd/1/nummer/5) og [§ 10-3](lov/2019-03-15-6/§10-3)
+24. [lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen § 7-4 annet ledd](lov/2019-03-22-7/§7-4/ledd/2)
+25. [lov 14. juni 2019 nr. 21 om arv og dødsboskifte § 103 første ledd bokstav b](lov/2019-06-14-21/§103/ledd/1/bokstav/b)
+26. [lov 18. desember 2020 nr. 146 om finansavtaler § 3-51 første ledd bokstav b](lov/2020-12-18-146/§3-51/ledd/1/bokstav/b), [§ 6-3 fjerde ledd](lov/2020-12-18-146/§6-3/ledd/4) og [§ 6-10 femte ledd](lov/2020-12-18-146/§6-10/ledd/5)
+27. [lov 16. desember 2022 nr. 91 om låneformidling § 5-2 annet ledd](lov/2022-12-16-91/§5-2/ledd/2)
+28. [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon § 2-12 første](lov/2024-12-13-76/§2-12/ledd/1) og [tredje ledd](lov/2024-12-13-76/§2-12/ledd/3)
+29. [lov 10. april 2025 nr. 9 om statsføretak § 5-16 første ledd](lov/2025-04-10-9/§5-16/ledd/1)
 
 I følgende bestemmelser skal ordet «gjeldsforhandlinger» endres til «rekonstruksjonsforhandling»:
 
@@ -255,69 +285,11 @@ I følgende bestemmelser skal ordene «[konkursloven kapittel VIII](lov/1984-06-
 4. [lov 29. juni 2007 nr. 81 om samvirkeforetak § 140 tredje ledd](lov/2007-06-29-81/§140/ledd/3) og [§ 143 annet ledd](lov/2007-06-29-81/§143/ledd/2)
 5. [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 20-31 annet ledd](lov/2015-04-10-17/§20-31/ledd/2) og [§ 21-16 annet ledd](lov/2015-04-10-17/§21-16/ledd/2)
 
-[lov 30. juni 1916 nr. 1 om kommisjon § 47](lov/1916-06-30-1/§47) og [§ 56 annet ledd](lov/1916-06-30-1/§56/ledd/2)
-
-[lov 31. mai 1918 nr. 4 om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer § 23 annet ledd](lov/1918-05-31-4/§23/ledd/2)
-
-[lov 27. mai 1932 nr. 2 om veksler § 43 annet ledd](lov/1932-05-27-2/§43/ledd/2) og [§ 44 sjette ledd](lov/1932-05-27-2/§44/ledd/6)
-
-[lov 8. februar 1980 nr. 2 om pant § 1-9 første ledd bokstav c](lov/1980-02-08-2/§1-9/ledd/1/bokstav/c)
-
-[lov 17. desember 1982 nr. 86 om rettsgebyr § 17 første ledd](lov/1982-12-17-86/§17/ledd/1)
-
-[lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs § 80 første ledd](lov/1984-06-08-58/§80/ledd/1), [§ 147](lov/1984-06-08-58/§147), [§ 149 annet ledd](lov/1984-06-08-58/§149/ledd/2), [§ 151](lov/1984-06-08-58/§151), [§ 161 første ledd](lov/1984-06-08-58/§161/ledd/1), [§ 164 første ledd](lov/1984-06-08-58/§164/ledd/1), [§ 168 første ledd](lov/1984-06-08-58/§168/ledd/1), [§ 174 første](lov/1984-06-08-58/§174/ledd/1) og [annet ledd](lov/1984-06-08-58/§174/ledd/2)
-
-[lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett § 1-3 første ledd](lov/1984-06-08-59/§1-3/ledd/1), [§ 1-6 første](lov/1984-06-08-59/§1-6/ledd/1) og [annet ledd](lov/1984-06-08-59/§1-6/ledd/2), [§ 2-1 første ledd](lov/1984-06-08-59/§2-1/ledd/1), [§ 2-6 fjerde ledd](lov/1984-06-08-59/§2-6/ledd/4), [§ 4-2](lov/1984-06-08-59/§4-2), [§ 7-3 første ledd](lov/1984-06-08-59/§7-3/ledd/1), [§ 7-7](lov/1984-06-08-59/§7-7), [§ 7-8](lov/1984-06-08-59/§7-8), [§ 7-9 annet ledd](lov/1984-06-08-59/§7-9/ledd/2), [§ 7-12](lov/1984-06-08-59/§7-12), [§ 7-13 første ledd](lov/1984-06-08-59/§7-13/ledd/1) og [§ 8-5 annet ledd](lov/1984-06-08-59/§8-5/ledd/2)
-
-[lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. § 7-1 annet ledd](lov/1985-06-21-79/§7-1/ledd/2)
-
-[lov 24. juni 1994 nr. 39 om sjøfarten § 44 første ledd nr. 5](lov/1994-06-24-39/§44/ledd/1/nummer/5)
-
-[lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 6-4 annet ledd](lov/1996-11-29-72/§6-4/ledd/2)
-
-[lov 13. juni 1997 nr. 44 om aksjeselskaper § 6-18 første ledd](lov/1997-06-13-44/§6-18/ledd/1) og [§ 17-3 første ledd](lov/1997-06-13-44/§17-3/ledd/1)
-
-[lov 13. juni 1997 nr. 45 om allmennaksjeselskaper § 6-18 første ledd](lov/1997-06-13-45/§6-18/ledd/1) og [§ 17-3 første ledd](lov/1997-06-13-45/§17-3/ledd/1)
-
-[lov 15. juni 2001 nr. 93 om helseforetak m.m. § 5 tredje ledd](lov/2001-06-15-93/§5/ledd/3)
-
-[lov 6. juni 2003 nr. 38 om bustadbyggjelag § 6-16 første ledd](lov/2003-06-06-38/§6-16/ledd/1) og [§ 11-3 første ledd](lov/2003-06-06-38/§11-3/ledd/1)
-
-[lov 6. juni 2003 nr. 39 om burettslag § 12-3 første ledd](lov/2003-06-06-39/§12-3/ledd/1)
-
-[lov 26. mars 2004 nr. 17 om finansiell sikkerhetsstillelse § 5 tredje ledd](lov/2004-03-26-17/§5/ledd/3)
-
-[lov 20. mai 2005 nr. 28 om straff § 90](lov/2005-05-20-28/§90), [§ 407](lov/2005-05-20-28/§407) og [§ 408](lov/2005-05-20-28/§408)
-
-[lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark § 14 annet ledd](lov/2005-06-17-85/§14/ledd/2)
-
-[lov 29. juni 2007 nr. 81 om samvirkeforetak § 81 første ledd](lov/2007-06-29-81/§81/ledd/1) og [§ 155 første ledd](lov/2007-06-29-81/§155/ledd/1)
-
-[lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 16-12 annet ledd](lov/2015-04-10-17/§16-12/ledd/2), [§ 20-2](lov/2015-04-10-17/§20-2) og [§ 21-8](lov/2015-04-10-17/§21-8)
-
-[lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 9-3 fjerde ledd](lov/2018-06-01-24/§9-3/ledd/4)
-
-[lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner § 29-1 annet ledd](lov/2018-06-22-83/§29-1/ledd/2)
-
-[lov 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv. § 6-6 første ledd nr. 5](lov/2019-03-15-6/§6-6/ledd/1/nummer/5) og [§ 10-3](lov/2019-03-15-6/§10-3)
-
-[lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen § 7-4 annet ledd](lov/2019-03-22-7/§7-4/ledd/2)
-
-[lov 14. juni 2019 nr. 21 om arv og dødsboskifte § 103 første ledd bokstav b](lov/2019-06-14-21/§103/ledd/1/bokstav/b)
-
-[lov 18. desember 2020 nr. 146 om finansavtaler § 3-51 første ledd bokstav b](lov/2020-12-18-146/§3-51/ledd/1/bokstav/b), [§ 6-3 fjerde ledd](lov/2020-12-18-146/§6-3/ledd/4) og [§ 6-10 femte ledd](lov/2020-12-18-146/§6-10/ledd/5)
-
-[lov 16. desember 2022 nr. 91 om låneformidling § 5-2 annet ledd](lov/2022-12-16-91/§5-2/ledd/2)
-
-[lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon § 2-12 første](lov/2024-12-13-76/§2-12/ledd/1) og [tredje ledd](lov/2024-12-13-76/§2-12/ledd/3)
-
-[lov 10. april 2025 nr. 9 om statsføretak § 5-16 første ledd](lov/2025-04-10-9/§5-16/ledd/1)
-
 ## VII
 
 I [lov 13. august 1915 nr. 5 om domstolene](lov/1915-08-13-5) skal [§ 70 annet ledd nr. 3](lov/1915-08-13-5/§70/ledd/2/nummer/3) lyde:
 
-ikke være under rekonstruksjonsforhandling eller konkursbehandling eller i konkurskarantene,
+1. ikke være under rekonstruksjonsforhandling eller konkursbehandling eller i konkurskarantene,
 
 ## VIII
 
@@ -355,7 +327,7 @@ Ved konkurs, rekonstruksjonsforhandling eller offentlig skifte gjelder [§§ 18]
 
 I [lov 17. desember 1982 nr. 86 om rettsgebyr](lov/1982-12-17-86) skal [§ 16 nr. 2](lov/1982-12-17-86/§16/nummer/2) lyde:
 
-For rekonstruksjonsforhandling betales 5 ganger rettsgebyret. Tas skyldnerens bo under konkursbehandling i forbindelse med innstilling av rekonstruksjonsforhandlingen, betales i stedet gebyr etter nr. 1.
+1. For rekonstruksjonsforhandling betales 5 ganger rettsgebyret. Tas skyldnerens bo under konkursbehandling i forbindelse med innstilling av rekonstruksjonsforhandlingen, betales i stedet gebyr etter nr. 1.
 
 ## XII
 
@@ -441,7 +413,7 @@ I [lov 6. juni 2003 nr. 39 om burettslag](lov/2003-06-06-39) skal [§ 6-11](lov/
 
 I [lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her](lov/2008-05-15-35) skal [§ 77 femte ledd bokstav c](lov/2008-05-15-35/§77/ledd/5/bokstav/c) lyde:
 
-ikke er under rekonstruksjonsforhandling eller konkursbehandling eller i konkurskarantene
+1. ikke er under rekonstruksjonsforhandling eller konkursbehandling eller i konkurskarantene
 
 ## XXI
 
@@ -465,7 +437,7 @@ Føreren av Konkursregisteret, retten, bostyrer og rekonstruktør som er oppnevn
 
 I [lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen](lov/2019-03-22-7) skal [§ 9-9 første ledd bokstav e](lov/2019-03-22-7/§9-9/ledd/1/bokstav/e) lyde:
 
-den sikkerheten som rettighetshaveren plikter å stille etter [§ 9-2](lov/2019-03-22-7/§9-2) er vesentlig svekket, selskapet eller sammenslutningen som innehar tillatelsen, oppløses, eller det åpnes rekonstruksjonsforhandling eller konkurs i selskapet eller sammenslutningen.
+1. den sikkerheten som rettighetshaveren plikter å stille etter [§ 9-2](lov/2019-03-22-7/§9-2) er vesentlig svekket, selskapet eller sammenslutningen som innehar tillatelsen, oppløses, eller det åpnes rekonstruksjonsforhandling eller konkurs i selskapet eller sammenslutningen.
 
 ## XXV
 
