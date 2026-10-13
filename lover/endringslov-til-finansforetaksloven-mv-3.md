@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "c39f1cb145041613000dffa9f3221cc15c6146f779870aefbf821fa852a51bf0"
+xml_hash: "453a175ad9b7575497fb8253a6fc30a1168a78a8ba410ac518d45edfb8410dae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis:
   - "32024L1619"
@@ -90,7 +90,7 @@ Finansieringsvirksomhet kan også drives av utenlandske kredittinstitusjoner og 
 
 [§ 3-2 annet ledd bokstav d](lov/2015-04-10-17/§3-2/ledd/2/bokstav/d) skal lyde:
 
-det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav til styrets sammensetning som følger av [§ 8-4 første ledd](lov/2015-04-10-17/§8-4/ledd/1), eller krav til forsvarlig virksomhet som følger av [§§ 8-16](lov/2015-04-10-17/§8-16) til [8-20](lov/2015-04-10-17/§8-20), [§§ 13-4](lov/2015-04-10-17/§13-4) til [13-7](lov/2015-04-10-17/§13-7), [§ 13-13](lov/2015-04-10-17/§13-13), [kapittel 14](lov/2015-04-10-17/kap14) og [§ 16-1](lov/2015-04-10-17/§16-1),
+1. det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav til styrets sammensetning som følger av [§ 8-4 første ledd](lov/2015-04-10-17/§8-4/ledd/1), eller krav til forsvarlig virksomhet som følger av [§§ 8-16](lov/2015-04-10-17/§8-16) til [8-20](lov/2015-04-10-17/§8-20), [§§ 13-4](lov/2015-04-10-17/§13-4) til [13-7](lov/2015-04-10-17/§13-7), [§ 13-13](lov/2015-04-10-17/§13-13), [kapittel 14](lov/2015-04-10-17/kap14) og [§ 16-1](lov/2015-04-10-17/§16-1),
 
 [§ 3-5 første ledd](lov/2015-04-10-17/§3-5/ledd/1) skal lyde:
 
@@ -253,13 +253,12 @@ Finanstilsynet kan i enkeltvedtak fastsette høyere kapitalkrav eller virksomhet
 
 [§ 14-6 tredje ledd annet punktum bokstav c](lov/2015-04-10-17/§14-6/ledd/3/setning/2/bokstav/c) skal lyde:
 
-å endre eller begrense virksomheten, herunder adgangen til å ta imot innskudd,
+1. å endre eller begrense virksomheten, herunder adgangen til å ta imot innskudd,
 
 [§ 14-6 tredje ledd annet punktum bokstav g](lov/2015-04-10-17/§14-6/ledd/3/setning/2/bokstav/g) og ny bokstav h skal lyde:
 
-å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital ,
-
-å redusere risikoen knyttet til bærekraftsforhold, herunder risikoer som oppstår som følge av endring og omstilling til regulatoriske bærekraftsmål, ved å endre organiseringen og styringen av virksomheten, strategier og risikostyring, og fastsette strengere mål og tiltak enn i foretakets planer for omstilling.
+1. å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital ,
+2. å redusere risikoen knyttet til bærekraftsforhold, herunder risikoer som oppstår som følge av endring og omstilling til regulatoriske bærekraftsmål, ved å endre organiseringen og styringen av virksomheten, strategier og risikostyring, og fastsette strengere mål og tiltak enn i foretakets planer for omstilling.
 
 Overskriften til [avsnitt IV i kapittel 14](lov/2015-04-10-17/KAPITTEL_14-4) flyttes til etter [§ 14-17](lov/2015-04-10-17/§14-17).
 
@@ -281,7 +280,7 @@ Holdingforetak og annet morselskap i finanskonsern kan søke om at bestemmelsene
 
 [§ 20-1 første ledd bokstav a](lov/2015-04-10-17/§20-1/ledd/1/bokstav/a) skal lyde:
 
-banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-41 første ledd](lov/2007-06-29-75/§9-41/ledd/1),
+1. banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-41 første ledd](lov/2007-06-29-75/§9-41/ledd/1),
 
 [§ 20-24 annet ledd første punktum](lov/2015-04-10-17/§20-24/ledd/2/setning/1) skal lyde:
 
