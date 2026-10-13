@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "9feacbb08ff400f6609f439e038e168494184077ac7191b4eb64fdcb8fd7fac8"
+xml_hash: "a8507b87a5f1610612a201afa36328c9cfe6806824fba7fa8cc8d2f312784cec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ I [kapittel II](lov/1961-02-03/kapII) skal ny [§ 10 a](lov/1961-02-03/§10a) ly
 
 [§ 17 første ledd bokstav h](lov/1961-02-03/§17/ledd/1/bokstav/h) skal lyde:
 
-trygding for motorvogner som blir ført inn til riket utan å vere registrert her, eller som er registrert her og blir ført ut av riket,
+1. trygding for motorvogner som blir ført inn til riket utan å vere registrert her, eller som er registrert her og blir ført ut av riket,
 
 ## II
 
