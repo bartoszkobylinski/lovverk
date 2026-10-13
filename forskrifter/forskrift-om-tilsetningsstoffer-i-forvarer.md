@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2005-04-12"
 last_change_in_force: "2026-10-01"
 last_updated: "2017-06-01"
-xml_hash: "5accf817ae7d9b6bbb93c4fe979bcc4a5c67eda31c44304c37e6fcc66cb473b6"
+xml_hash: "7765e5bae60e2641fa5812c1155087d5134c647cea5f195990009669e22c54b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-10T10:32:55.643126+00:00"
+retrieved_at: "2026-10-13T11:40:11.848780+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -394,7 +394,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2020/1376](eu/32020r1376),
 - forordning [(EU) 2020/1377](eu/32020r1377),
 - forordning [(EU) 2020/1378](eu/32020r1378),
-- forordning [(EU) 2020/1395](eu/32020r1395) (endret ved forordning [(EU) 2021/733](eu/32021r0733) og og forordning [(EU) 2026/1036](eu/32026r1036)),
+- forordning [(EU) 2020/1395](eu/32020r1395) (endret ved forordning [(EU) 2021/733](eu/32021r0733) og forordning [(EU) 2026/1036](eu/32026r1036)),
 - forordning [(EU) 2020/1396](eu/32020r1396),
 - forordning [(EU) 2020/1397](eu/32020r1397),
 - forordning [(EU) 2020/1398](eu/32020r1398),
@@ -696,7 +696,7 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2025/1776](eu/32025r1776),
 - forordning [(EU) 2025/1782](eu/32025r1782),
 - forordning [(EU) 2025/1784](eu/32025r1784),
-- forordning [(EU) 2025/1787](eu/32025r1787) (endret ved forordning [(EU) 2026/1011](eu/32026r1011)) ,
+- forordning [(EU) 2025/1787](eu/32025r1787) (endret ved forordning [(EU) 2026/1011](eu/32026r1011)),
 - forordning [(EU) 2025/1795](eu/32025r1795),
 - forordning [(EU) 2025/2171](eu/32025r2171),
 - forordning [(EU) 2025/2175](eu/32025r2175),
@@ -743,8 +743,8 @@ EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende fo
 - forordning [(EU) 2026/534](eu/32026r0534),
 - forordning [(EU) 2026/538](eu/32026r0538),
 - forordning [(EU) 2026/540](eu/32026r0540),
-- forordning [(EU) 2024/1054](eu/32024r1054) og
-- forordning [(EU) 2026/549](eu/32026r0549)
+- forordning [(EU) 2024/1054](eu/32024r1054),
+- forordning [(EU) 2026/549](eu/32026r0549),
 - forordning [(EU) 2026/1012](eu/32026r1012),
 - forordning [(EU) 2026/1013](eu/32026r1013),
 - forordning [(EU) 2026/1014](eu/32026r1014),
