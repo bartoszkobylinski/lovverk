@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-06-23"
-last_change_in_force: "2026-05-01"
+last_change_in_force: "2026-10-09"
 last_updated: null
-xml_hash: "4279787ee736c69099d73d56dd41dc4e10f23f73e9e7a1d8d08f1bd093c1c295"
+xml_hash: "c1e6b172eef26784b642d29c875e25a67ba75ae7781d9e1d3a9533182b72490e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-14T09:26:38.661084+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,16 +96,9 @@ Mattilsynet kan gi unntak fra forbudet i første ledd første punktum dersom det
 
 > Endret ved forskrift [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780).
 
-### § 9. Bruk av lokkefugler
+### § 9. (Opphevet)
 
-I infisert sone for høypatogen aviær influensa er det forbudt å bruke lokkefugler av ordenene andefugler (Anseriformes) og vade-, måse- og alkefugler (Charadriiformes).
-
-Mattilsynet kan gi unntak fra forbudet dersom det er truffet biosikringstiltak for å forebygge overføring av høypatogene aviære influensavirus og lokkefuglene skal brukes
-
-1. innenfor rammen av et overvåkningsprogram for aviær influensa, i forskningsprosjekter, ornitologiske undersøkelser eller andre aktiviteter, eller
-2. i overensstemmelse med relevante biosikringstiltak og bestemmelser som har til hensikt å forebygge overføring av høypatogene aviære influensavirus til holdte fugler.
-
-> Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792).
+> Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792), opphevet ved forskrift [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042).
 
 ### § 10. Utsetting av fuglevilt og bruk av fugler til jakttrening
 
@@ -115,16 +108,13 @@ I infisert sone for Newcastlesyke er det forbudt å bruke duer til trening av ja
 
 > Endret ved forskrift [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780).
 
-### § 11. Forbud mot jakt og fangst av fugler og flytting av produkter av disse
+### § 11. Forbud mot flytting av levende ville fugler og håndtering av skrotter
 
-Jakt og fangst av alle jaktbare arter av fugl er forbudt i infisert sone for høypatogen aviær influensa. Forbudet gjelder ikke for:
+Det er forbudt å flytte levende ville fugler med opprinnelse fra infisert sone innenfor og ut av infisert sone.
 
-1. jakt og fangst av viltlevende skogshøns, herunder lirype, fjellrype, storfugl, orrfugl og jerpe.
-2. uttak av fugl på flyplasser av sikkerhetsmessige årsaker eller skadefelling av fugl i umiddelbar nærhet av anlegg med næringsrettet dyrehold.
+Skrotter av viltlevende fugler av listeførte arter som er avlivet eller funnet døde i infisert sone, samt deler av slike skrotter, skal sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069). Kravet gjelder ikke fuglevilt som er felt under jakt med sikte på humant konsum.
 
-Det er forbudt å flytte produkter fra viltlevende fugler med opprinnelse fra infisert sone for høypatogen aviær influensa, innenfor og ut av infisert sone for høypatogen aviær influensa. Forbudet gjelder likevel ikke flytting som ledd i overvåkning eller avhending i henhold til [animaliebiproduktforskriften](forskrift/2016-09-14-1064) etter avtale med Mattilsynet.
-
-> Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792).
+> Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792), [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042).
 
 ### § 12. Økologisk produksjon
 
@@ -154,9 +144,15 @@ Denne forskrift trer i kraft straks.
 
 Følgende kommuner inngår i infisert sone for høypatogen aviær influensa:
 
-- Ingen.
+- *Trøndelag:*
 
-> Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215), [30 april 2026 nr. 685](forskrift/2026-04-30-685) (i kraft 1 mai 2026).
+  - Inderøy
+  - Steinkjer
+  - Verdal
+  - Levanger
+  - Frosta.
+
+> Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215), [30 april 2026 nr. 685](forskrift/2026-04-30-685) (i kraft 1 mai 2026), [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042).
 
 ## Vedlegg 2
 
