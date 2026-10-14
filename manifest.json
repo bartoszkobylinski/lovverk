@@ -15380,21 +15380,21 @@
     },
     "sf-19391117-9575": {
       "doc_type": "forskrift",
-      "embedding_hash": "e79fbd65ada30d3ab2c1958c3706d0917bfca330fee7689882318f9c17056a86",
-      "embedding_input_hash": "8ffbe9890ae619a91b9554677b33946e43086a0d197e7352e3087a8f7d7f426c",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-04-29",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/forskrift-om-kontroll-av-gassvernmateriell.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-om-kontroll-av-gassvernmateriell",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrifter for teknisk kontroll av gassvernmateriell.",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "e79fbd65ada30d3ab2c1958c3706d0917bfca330fee7689882318f9c17056a86"
     },
     "sf-19391222-8707": {
@@ -77054,13 +77054,13 @@
     },
     "sf-20170418-0480": {
       "doc_type": "forskrift",
-      "embedding_hash": "c3a9141a1b6ca87de0a588d10adc9a846da805c648bf8baf1694e412be190187",
-      "embedding_input_hash": "96d1aa8d828da9b398b14633b373ae8abeabd8315a78dc7ad2e2ee7771b71c0d",
+      "embedding_hash": "78de32d004082e7485dd03319edd9e555223370b68943d5f76e767aa10a124c3",
+      "embedding_input_hash": "5421e56bdfab137650686b58ef370537fc55483d055c67423d55be4940fabcf9",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-14",
+      "last_seen": "2026-10-14T09:26:38.661084Z",
       "markdown_path": "forskrifter/biocidforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -77068,8 +77068,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om biocider (Biocidforskriften)",
-      "total_changes": 5,
-      "xml_hash": "c3a9141a1b6ca87de0a588d10adc9a846da805c648bf8baf1694e412be190187"
+      "total_changes": 6,
+      "xml_hash": "78de32d004082e7485dd03319edd9e555223370b68943d5f76e767aa10a124c3"
     },
     "sf-20170419-0674": {
       "doc_type": "forskrift",
@@ -94667,13 +94667,13 @@
     },
     "sf-20220623-1161": {
       "doc_type": "forskrift",
-      "embedding_hash": "4279787ee736c69099d73d56dd41dc4e10f23f73e9e7a1d8d08f1bd093c1c295",
-      "embedding_input_hash": "1264a637a741ef0b239ad49f78d49b4b4927bcfa332412ef0c16291f7c62121a",
+      "embedding_hash": "c1e6b172eef26784b642d29c875e25a67ba75ae7781d9e1d3a9533182b72490e",
+      "embedding_input_hash": "ad79d5cdfd69c3594a4b2782d0a01114aabd453b2bff4b50b9c40abab176c502",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-14",
+      "last_seen": "2026-10-14T09:26:38.661084Z",
       "markdown_path": "forskrifter/forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -94681,8 +94681,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om infisert sone for høypatogen aviær influensa og Newcastlesyke",
-      "total_changes": 4,
-      "xml_hash": "4279787ee736c69099d73d56dd41dc4e10f23f73e9e7a1d8d08f1bd093c1c295"
+      "total_changes": 5,
+      "xml_hash": "c1e6b172eef26784b642d29c875e25a67ba75ae7781d9e1d3a9533182b72490e"
     },
     "sf-20220626-1193": {
       "doc_type": "forskrift",
@@ -114103,6 +114103,6 @@
       "xml_hash": "7d105e8dbedf413ede27b4fe7890a43e6408b97f1ef4c1ba73a74eed54fc8cb2"
     }
   },
-  "generated_at": "2026-10-13T11:40:11.848780Z",
+  "generated_at": "2026-10-14T09:26:38.661084Z",
   "version": 1
 }

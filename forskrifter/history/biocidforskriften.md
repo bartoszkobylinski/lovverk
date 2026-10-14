@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # biocidforskriften — Change history
 
-_5 events; doc_id `sf-20170418-0480`._
+_6 events; doc_id `sf-20170418-0480`._
+
+## 2026-10-14 — Content updated
+Lines: +64 -51.
+Subject: `update(forskrift): biocidforskriften`
+Commit: `0b45515`.
 
 ## 2026-07-23 — Content updated
 Lines: +11 -9.

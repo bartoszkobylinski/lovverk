@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5126 current documents_
+_5125 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -2559,7 +2559,6 @@ _5126 current documents_
 - [forskrift-om-kontinuerlig-luftdyktighet-for-nasjonalt-sertifiserte-luftfartøy](forskrift-om-kontinuerlig-luftdyktighet-for-nasjonalt-sertifiserte-luftfartøy.md) — Forskrift om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy
 - [forskrift-om-kontinuerlig-luftdyktighet-for-sertifiserte-ubemannede-luftfartøysystemer](forskrift-om-kontinuerlig-luftdyktighet-for-sertifiserte-ubemannede-luftfartøysystemer.md) — Forskrift om kontinuerlig luftdyktighet for sertifiserte ubemannede luftfartøysystemer
 - [forskrift-om-kontroll-av-dykkesystem](forskrift-om-kontroll-av-dykkesystem.md) — Forskrift om kontroll av dykkesystem m.m. på norske skip i sjøen.
-- [forskrift-om-kontroll-av-gassvernmateriell](forskrift-om-kontroll-av-gassvernmateriell.md) — Forskrifter for teknisk kontroll av gassvernmateriell.
 - [forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om kontroll av kjøretøy langs veg
 - [forskrift-om-kontroll-av-reisende-til-og-fra-svalbard](forskrift-om-kontroll-av-reisende-til-og-fra-svalbard.md) — Forskrift om kontroll av reisende til og fra Svalbard
 - [forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip](forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip.md) — Forskrift om kontroll av rutegående roro- og hurtiggående passasjerskip

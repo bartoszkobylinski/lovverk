@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke — Change history
 
-_4 events; doc_id `sf-20220623-1161`._
+_5 events; doc_id `sf-20220623-1161`._
+
+## 2026-10-14 — Content updated
+Lines: +17 -21.
+Subject: `update(forskrift): forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke`
+Commit: `a452041`.
 
 ## 2026-05-04 — Content updated
 Lines: +5 -5.
