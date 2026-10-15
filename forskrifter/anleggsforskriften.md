@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kultur- og likestillingsdepartementet"
 date_in_force: "2026-06-15"
-last_change_in_force: null
+last_change_in_force: "2026-10-15"
 last_updated: null
-xml_hash: "dfabba3bf54edecfbdecfa0bc8c522555c1d845bfc23c3f821c2d3fa3af444fb"
+xml_hash: "8d6ee59795e19ff711ae52ab571fb133f65edb7b074231b5a57f5290b8755b73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-06T11:12:14.474092+00:00"
+retrieved_at: "2026-10-15T09:05:09.956183+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -335,13 +335,15 @@ Anleggseier skal holde anlegget åpent for allmenn idrettslig virksomhet i følg
 1. ordinære anlegg: 30 år
 2. nærmiljøanlegg: 10 år.
 
+For kart er kravet om brukstid 10 år.
+
 Plikten etter første ledd gjelder tilsvarende ved nybygg, rehabilitering og kjøp av anlegg.
 
 Dersom anlegget planlegges stengt i mer enn tre måneder, skal anleggseier orientere fylkeskommunen før stengning. Ved stengning av anlegget i mer enn seks måneder, skal anleggseier søke fylkeskommunen om godkjenning av midlertidig stengning.
 
 Departementet kan i særlige tilfeller gi dispensasjon fra kravet etter første ledd.
 
-> **Endres** ved forskrift [29 sep 2026 nr. 1974](forskrift/2026-09-29-1974) (i kraft 15 okt 2026).
+> Endret ved forskrift [29 sep 2026 nr. 1974](forskrift/2026-09-29-1974) (i kraft 15 okt 2026).
 
 ### § 24. Drift og bruk av anlegg – begrensninger
 
