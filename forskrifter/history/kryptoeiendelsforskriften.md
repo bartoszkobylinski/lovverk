@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kryptoeiendelsforskriften — Change history
 
-_5 events; doc_id `sf-20250625-1311`._
+_6 events; doc_id `sf-20250625-1311`._
+
+## 2026-10-15 — Content updated
+Lines: +5 -4.
+Subject: `update(forskrift): kryptoeiendelsforskriften`
+Commit: `822627d`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

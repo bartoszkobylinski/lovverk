@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5125 current documents_
+_5124 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1267,7 +1267,6 @@ _5125 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-delegering-etter-sjøfartsloven](endr-delegering-etter-sjøfartsloven.md) — Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
-- [endr-i-anleggsforskriften](endr-i-anleggsforskriften.md) — Forskrift om endring i forskrift om tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet fra spilloverskuddet til Norsk Tipping (anleggsforskriften)
 - [endr-i-delvis-ikrafts-av-lov-2005-101](endr-i-delvis-ikrafts-av-lov-2005-101.md) — Vedtak om endring i delvis ikraftsetting av lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)
 - [endr-i-departementsstruktur-og-ansvarsfordeling](endr-i-departementsstruktur-og-ansvarsfordeling.md) — Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-ansvarsfordeling](endr-i-departementsstrukturen-og-ansvarsfordeling.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer
@@ -2146,6 +2145,7 @@ _5125 current documents_
 - [forskrift-om-forenklet-oppgjør-for-a-avgift](forskrift-om-forenklet-oppgjør-for-a-avgift.md) — Forskrift om forenklet oppgjør for arbeidsgiveravgift fra statens forvaltningsvirksomhet
 - [forskrift-om-forhandlingsansvar-for-lærere](forskrift-om-forhandlingsansvar-for-lærere.md) — Forskrift om overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner.
 - [forskrift-om-forhygiene](forskrift-om-forhygiene.md) — Forskrift om fôrhygiene
+- [forskrift-om-forlengelse-av-fristen-for-masseoppsigelsers-virkning](forskrift-om-forlengelse-av-fristen-for-masseoppsigelsers-virkning.md) — Forskrift om forlengelse av fristen for masseoppsigelsers virkning
 - [forskrift-om-formidlere-omfattet-av-verdipapirsentralloven-4-5](forskrift-om-formidlere-omfattet-av-verdipapirsentralloven-4-5.md) — Forskrift om formidlere omfattet av verdipapirsentralloven § 4-5
 - [forskrift-om-formidlingsgebyr-i-kortordninger-mv](forskrift-om-formidlingsgebyr-i-kortordninger-mv.md) — Forskrift om formidlingsgebyr i kortordninger mv.
 - [forskrift-om-forordning-3922-91](forskrift-om-forordning-3922-91.md) — Forskrift om gjennomføring av forordning (EØF) nr. 3922/91 om harmonisering av tekniske krav og administrative fremgangsmåter i sivil luftfart med tilleggsbestemmelser om arbeidstid for besetningsmedlemmer
@@ -4016,7 +4016,6 @@ _5125 current documents_
 - [forskrift-om-utsatte-frister-på-transportområdet-knyttet-til-covid-19](forskrift-om-utsatte-frister-på-transportområdet-knyttet-til-covid-19.md) — Forskrift om utsatte frister på transportområdet knyttet til covid-19
 - [forskrift-om-utsendte-arbeidstakere](forskrift-om-utsendte-arbeidstakere.md) — Forskrift om utsendte arbeidstakere
 - [forskrift-om-utsettelse-av-skatteinnbetalinger-mv-for-å-avhjelpe-konsekvensene-av-covid-19-utbruddet](forskrift-om-utsettelse-av-skatteinnbetalinger-mv-for-å-avhjelpe-konsekvensene-av-covid-19-utbruddet.md) — Forskrift om utsettelse av skatteinnbetalinger mv. for å avhjelpe konsekvensene av Covid-19-utbruddet
-- [forskrift-om-utsettelse-ved-masseoppsigelse](forskrift-om-utsettelse-ved-masseoppsigelse.md) — Forskrift om hvordan retten til utsettelse av oppsigelser ved masseoppsigelser skal nyttes og Arbeids- og velferdsetaten rolle ved slik utsettelse.
 - [forskrift-om-utsetting-av-ferskvannsfisk-mv](forskrift-om-utsetting-av-ferskvannsfisk-mv.md) — Forskrift om utsetting av fisk og andre ferskvannsorganismer for kultiveringsformål
 - [forskrift-om-utsetting-av-utenlandske-treslag](forskrift-om-utsetting-av-utenlandske-treslag.md) — Forskrift om utsetting av utenlandske treslag til skogbruksformål
 - [forskrift-om-utskriving-m-v-av-terminskatt](forskrift-om-utskriving-m-v-av-terminskatt.md) — Forskrift om utskriving, betaling og avregning av terminskatt m.v.

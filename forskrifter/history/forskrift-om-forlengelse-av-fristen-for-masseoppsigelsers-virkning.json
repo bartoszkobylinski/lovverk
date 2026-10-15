@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261011-2047",
+  "events": [
+    {
+      "commit": "ea8ebe0",
+      "date": "2026-10-15",
+      "from_path": null,
+      "lines_added": 44,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-forlengelse-av-fristen-for-masseoppsigelsers-virkning",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-forlengelse-av-fristen-for-masseoppsigelsers-virkning"
+}

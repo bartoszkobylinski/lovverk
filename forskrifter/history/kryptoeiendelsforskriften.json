@@ -2,6 +2,16 @@
   "doc_id": "sf-20250625-1311",
   "events": [
     {
+      "commit": "822627d",
+      "date": "2026-10-15",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 4,
+      "subject": "update(forskrift): kryptoeiendelsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
