@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-07-01"
-last_change_in_force: "2026-06-26"
+last_change_in_force: "2026-10-12"
 last_updated: null
-xml_hash: "47efe686dd83e04f0f563d0ed41a4918dca37488ce6f887dd5bf8450db675d0b"
+xml_hash: "533978252c45c6d5c2729565fb7618a88f54a224b0ca973d0cc1b601d4eb7d57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-15T09:05:09.956183+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -65,8 +65,9 @@ Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasninge
 33. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2025/421](eu/32025r0421) (om utfylling av europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114) med hensyn til tekniske reguleringsstandarder som spesifiserer hvilke data som er nødvendige for klassifiseringen av hvitbøker om kryptoeiendeler, og de praktiske ordningene for å sikre at slike data er maskinleselige).
 34. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2025/422](eu/32025r0422) (om utfylling av europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114) med hensyn til tekniske reguleringsstandarder som spesifiserer innholdet i, metodene for og presentasjonen av opplysninger som gjelder bærekraftsindikatorer i forbindelse med negative klimapåvirkninger og andre miljørelaterte negative påvirkninger).
 35. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2025/293](eu/32025r0293) (om utfylling av europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114) med hensyn til tekniske reguleringsstandarder som spesifiserer kravene, malene og prosedyrene for behandling av klager vedrørende eiendelsbaserte token).
+36. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2024/1504](eu/32024r1504) (om utfylling av europaparlaments- og rådsforordning [(EU) 2023/1114](eu/32023r1114) ved å spesifisere saksbehandlingsregler for Den europeiske banktilsynsmyndighets utøvelse av myndigheten til å ilegge utstedere av signifikante eiendelsbaserte token og utstedere av signifikante e-pengetoken overtredelsesgebyrer eller tvangsmulkter).
 
-> Endret ved forskrifter [13 juli 2025 nr. 1581](forskrift/2025-07-13-1581), [6 nov 2025 nr. 2213](forskrift/2025-11-06-2213), [10 nov 2025 nr. 2241](forskrift/2025-11-10-2241), [9 des 2025 nr. 2485](forskrift/2025-12-09-2485), [9 feb 2026 nr. 177](forskrift/2026-02-09-177), [5 mai 2026 nr. 718](forskrift/2026-05-05-718), [26 juni 2026 nr. 1395](forskrift/2026-06-26-1395).
+> Endret ved forskrifter [13 juli 2025 nr. 1581](forskrift/2025-07-13-1581), [6 nov 2025 nr. 2213](forskrift/2025-11-06-2213), [10 nov 2025 nr. 2241](forskrift/2025-11-10-2241), [9 des 2025 nr. 2485](forskrift/2025-12-09-2485), [9 feb 2026 nr. 177](forskrift/2026-02-09-177), [5 mai 2026 nr. 718](forskrift/2026-05-05-718), [26 juni 2026 nr. 1395](forskrift/2026-06-26-1395), [12 okt 2026 nr. 2048](forskrift/2026-10-12-2048).
 
 ## § 3. Redegjørelse for utsettelse av offentliggjøring av innsideinformasjon
 
