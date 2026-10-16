@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2021-05-26"
-last_change_in_force: "2026-07-11"
+last_change_in_force: "2026-10-14"
 last_updated: "2022-06-16"
-xml_hash: "8512424ea859ec56c1ef3c48fc4a522f9a11ae43acfc997d07364418b8b15614"
+xml_hash: "0e3bc74b584fa9bd51d1281fa1016dd0185b95c0099c676c1d6b8ce1e5b7b782"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-28T06:24:19.283231+00:00"
+retrieved_at: "2026-10-16T08:57:16.334795+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,10 +32,13 @@ Forordning om medisinsk utstyr, jf. [lov om medisinsk utstyr § 1 første ledd](
 - forordning [(EU) 2023/502](eu/32023r0502)
 - forordning [(EU) 2023/607](eu/32023r0607)
 - forordning [(EU) 2023/2197](eu/32023r2197)
+- forordning [(EU) 2024/1860](eu/32024r1860)
 - forordning [(EU) 2025/788](eu/32025r0788)
-- forordning [(EU) 2025/1920](eu/32025r1920).
+- forordning [(EU) 2025/1920](eu/32025r1920)
+- forordning [(EU) 2026/1359](eu/32026r1359)
+- forordning [(EU) 2026/1451](eu/32026r1451).
 
-> Tilføyd ved forskrift [20 des 2024 nr. 3418](forskrift/2024-12-20-3418), opphevet ved forskrift [4 sep 2025 nr. 1783](forskrift/2025-09-04-1783), tilføyd ved forskrift [2 des 2025 nr. 2410](forskrift/2025-12-02-2410), endret ved forskrift [2 des 2025 nr. 2423](forskrift/2025-12-02-2423) (i kraft 6 des 2025).
+> Tilføyd ved forskrift [20 des 2024 nr. 3418](forskrift/2024-12-20-3418), opphevet ved forskrift [4 sep 2025 nr. 1783](forskrift/2025-09-04-1783), tilføyd ved forskrift [2 des 2025 nr. 2410](forskrift/2025-12-02-2410), endret ved forskrift [2 des 2025 nr. 2423](forskrift/2025-12-02-2423) (i kraft 6 des 2025), [14 okt 2026 nr. 2051](forskrift/2026-10-14-2051).
 
 ### § 1a. Elektroniske bruksanvisninger for medisinsk utstyr
 
