@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-medisinsk-utstyr — Change history
 
-_7 events; doc_id `sf-20210509-1476`._
+_8 events; doc_id `sf-20210509-1476`._
+
+## 2026-10-16 — Content updated
+Lines: +8 -5.
+Subject: `update(forskrift): forskrift-om-medisinsk-utstyr`
+Commit: `a31aa6a`.
 
 ## 2026-07-28 — Content updated
 Lines: +7 -7.

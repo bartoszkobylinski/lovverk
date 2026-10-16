@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261013-2050",
+  "events": [
+    {
+      "commit": "60a0b71",
+      "date": "2026-10-16",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-overgangsregler-når-ankeerklæring-skal-framsettes-for-trygderetten",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-overgangsregler-når-ankeerklæring-skal-framsettes-for-trygderetten"
+}

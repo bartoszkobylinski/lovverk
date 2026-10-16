@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5124 current documents_
+_5125 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -3093,6 +3093,7 @@ _5124 current documents_
 - [forskrift-om-overgangsregler-i-forbindelse-med-ikrafttredelse-av-endring-av-folketrygdloven-4-9-fra-1-januar-2024](forskrift-om-overgangsregler-i-forbindelse-med-ikrafttredelse-av-endring-av-folketrygdloven-4-9-fra-1-januar-2024.md) — Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024
 - [forskrift-om-overgangsregler-konkurranseloven](forskrift-om-overgangsregler-konkurranseloven.md) — Forskrift om overgangsbestemmelser i anledning ikrafttredelse av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet (konkurranseloven) og lov 11. juni 1993 nr. 66 om pristiltak.
 - [forskrift-om-overgangsregler-mv-til-finansforetaksloven](forskrift-om-overgangsregler-mv-til-finansforetaksloven.md) — Forskrift om overgangsregler mv. til lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven)
+- [forskrift-om-overgangsregler-når-ankeerklæring-skal-framsettes-for-trygderetten](forskrift-om-overgangsregler-når-ankeerklæring-skal-framsettes-for-trygderetten.md) — Forskrift om overgangsregler når ankeerklæring skal framsettes for Trygderetten
 - [forskrift-om-overgangsregler-til-barnehageloven-overføring-av-ansvaret-for-å-føre-tilsyn-med-økonomiske-forhold-i-private-barnehager-fra-kommunen-og-statsforvalteren-til-utdanningsdirektoratet](forskrift-om-overgangsregler-til-barnehageloven-overføring-av-ansvaret-for-å-føre-tilsyn-med-økonomiske-forhold-i-private-barnehager-fra-kommunen-og-statsforvalteren-til-utdanningsdirektoratet.md) — Forskrift om overgangsregler til barnehageloven – overføring av ansvaret for å føre tilsyn med økonomiske forhold i private barnehager fra kommunen og statsforvalteren til Utdanningsdirektoratet
 - [forskrift-om-overgangsregler-til-endr-i-offanskl-m-m](forskrift-om-overgangsregler-til-endr-i-offanskl-m-m.md) — Forskrift om overgangsregler for lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)
 - [forskrift-om-overgangsregler-til-endringer-i-lov-8-mars-2002-nr-4-om-barnetrygd-4-femte-ledd-og-11](forskrift-om-overgangsregler-til-endringer-i-lov-8-mars-2002-nr-4-om-barnetrygd-4-femte-ledd-og-11.md) — Forskrift om overgangsregler til endringer i lov 8. mars 2002 nr. 4 om barnetrygd (barnetrygdloven) § 4 femte ledd og § 11

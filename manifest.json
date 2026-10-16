@@ -89993,13 +89993,13 @@
     },
     "sf-20210509-1476": {
       "doc_type": "forskrift",
-      "embedding_hash": "8512424ea859ec56c1ef3c48fc4a522f9a11ae43acfc997d07364418b8b15614",
-      "embedding_input_hash": "55b94df7929319adfe832d9cc258c0a71a13e8b172118d45fcf7890911861ec0",
+      "embedding_hash": "0e3bc74b584fa9bd51d1281fa1016dd0185b95c0099c676c1d6b8ce1e5b7b782",
+      "embedding_input_hash": "594d81191c5a52e4148f22e9a6fa154513ac4906d2fb67fcb9407d41998e2877",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-28",
-      "last_seen": "2026-07-28T06:24:19.283231Z",
+      "last_changed": "2026-10-16",
+      "last_seen": "2026-10-16T08:57:16.334795Z",
       "markdown_path": "forskrifter/forskrift-om-medisinsk-utstyr.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -90007,8 +90007,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om medisinsk utstyr",
-      "total_changes": 7,
-      "xml_hash": "8512424ea859ec56c1ef3c48fc4a522f9a11ae43acfc997d07364418b8b15614"
+      "total_changes": 8,
+      "xml_hash": "0e3bc74b584fa9bd51d1281fa1016dd0185b95c0099c676c1d6b8ce1e5b7b782"
     },
     "sf-20210511-1456": {
       "doc_type": "forskrift",
@@ -114120,8 +114120,27 @@
       "title": "Forskrift om forlengelse av fristen for masseoppsigelsers virkning",
       "total_changes": 1,
       "xml_hash": "6c0f5fb21c96a8684f464d8294e4572267f918e3d71a478ac8b334a0ed76da6b"
+    },
+    "sf-20261013-2050": {
+      "doc_type": "forskrift",
+      "embedding_hash": "47c5dec5dc2a34cf188c96490ccb27136dc6be96ed4a0a954ee0bab819612ac5",
+      "embedding_input_hash": "ca7f232dd102181296648e8c289e37375718badad1fd8a6902ba373b8342a7f7",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-16",
+      "last_seen": "2026-10-16T08:57:16.334795Z",
+      "markdown_path": "forskrifter/forskrift-om-overgangsregler-når-ankeerklæring-skal-framsettes-for-trygderetten.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-overgangsregler-når-ankeerklæring-skal-framsettes-for-trygderetten",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om overgangsregler når ankeerklæring skal framsettes for Trygderetten",
+      "total_changes": 1,
+      "xml_hash": "47c5dec5dc2a34cf188c96490ccb27136dc6be96ed4a0a954ee0bab819612ac5"
     }
   },
-  "generated_at": "2026-10-15T09:05:09.956183Z",
+  "generated_at": "2026-10-16T08:57:16.334795Z",
   "version": 1
 }
