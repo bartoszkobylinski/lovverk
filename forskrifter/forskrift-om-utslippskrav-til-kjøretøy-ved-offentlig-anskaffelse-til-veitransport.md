@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-10-09"
+last_change_in_force: "2026-10-15"
 last_updated: null
-xml_hash: "a0d977f9869821f339d34c7a5f96910c44b7d541fe222b2be56d550c9c7948b0"
+xml_hash: "502ed70f20182d234ed3d623484b5761e486792da964b5c699042248b1eaabcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-13T11:40:11.848780+00:00"
+retrieved_at: "2026-10-17T08:29:12.672271+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,9 +68,25 @@ Offentlig oppdragsgiver, operatør og deres underleverandører som nevnt i [§ 2
 4. Buss (M3 I): 0 g CO2/km
 5. Buss (M3 II): 0 g CO2/km
 6. Buss (M3 A): 0 g CO2/km
-7. Buss (M2 uten ståplasser og M3 III): Euro VI til og med 30. juni 2029 og Euro VII fra og med 1. juli 2029.
+7. Buss (M2 uten ståplasser og M3 III): Euro VI til og med 30. juni 2029 og Euro 7 fra og med 1. juli 2029.
 
-> Endret ved forskrifter [19 des 2023 nr. 2159](forskrift/2023-12-19-2159), [28 sep 2026 nr. 1932](forskrift/2026-09-28-1932), [9 okt 2026 nr. 2029](forskrift/2026-10-09-2029).
+For perioden 1. januar 2026–31. desember 2030 skal minst 25 % av alle tunge kjøretøyer i kategoriene N2 og N3 som omfattes av samtlige kontrakter i henhold til [§ 2](forskrift/2022-12-20-2384/§2), benytte alternativt drivstoff. Kravet om en andel på 25 % beregnes samlet for alle kontrakter inngått i denne perioden.
+
+Anskaffelser av tunge kjøretøy klasse N2 og N3 foretatt i perioden 1. januar 2026–1. oktober 2026 skal ved beregningen av 25-prosentkravet for alternativt drivstoff for perioden 1. januar 2026–31. desember 2030 ikke tas med i beregningsgrunnlaget dersom de ikke benytter alternativt drivstoff.
+
+Med alternativt drivstoff menes drivstoff eller energikilder som helt eller delvis tjener som en erstatning for fossile oljekilder i forsyningen av energi til transport, og som potensielt kan bidra til utfasing av CO2 og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a.:
+
+1. elektrisitet
+2. hydrogen
+3. ammoniakk
+4. biodrivstoff, det vil si flytende eller gassformig brensel til transport, produsert av biomasse,
+5. syntetisk og parafinisk drivstoff
+6. naturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) og
+7. flytende petroleumsgass (LPG).
+
+Ved beregning av minstemålene for anskaffelser er det datoen da den offentlige anskaffelsesprosedyren avsluttes gjennom tildeling av kontrakten som skal gjelde som datoen for den offentlig anskaffelsen.
+
+> Endret ved forskrifter [19 des 2023 nr. 2159](forskrift/2023-12-19-2159), [28 sep 2026 nr. 1932](forskrift/2026-09-28-1932), [9 okt 2026 nr. 2029](forskrift/2026-10-09-2029), [14 okt 2026 nr. 2063](forskrift/2026-10-14-2063) (i kraft 15 okt 2026).
 
 ## § 4. Unntak fra miljøkrav
 
