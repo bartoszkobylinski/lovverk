@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-03-24"
 last_change_in_force: "2024-11-20"
 last_updated: null
-xml_hash: "6dbeb1c9f260796a3c21799ca6b7de29c6f03f23fedf1da34638432f3b2865e2"
+xml_hash: "1d59657bb03b907189dfcca8d1adf6f95df7e729223517470e9e25808f081007"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-17T08:29:12.672271+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,6 +49,8 @@ Posisjonsrapporteringsutstyr skal være typegodkjent av Fiskeridirektoratet og t
 5. fungere slik at Fiskeridirektoratet skal kunne motta posisjonsopplysninger fra tilfeldige tidspunkt i tillegg til de posisjonsopplysninger som sendes i henhold til eventuell forhåndskodet rapporteringsplan,
 6. være av en slik art at fartøyet kan spores i alle områder der fartøy vil oppholde seg,
 7. være sikret mot påvirkning fra annet teknisk utstyr om bord i fartøyet.
+
+> **Endres** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
 
 ### § 3. Krav til tjenesteleverandør som videreformidler sporingsopplysninger fra fartøy
 
@@ -99,6 +101,8 @@ Strømtilførselen til satellittsporingsutstyret skal ikke brytes uten ved nødv
 
 ## Kapittel IV. Spesielle krav til installering av posisjonsrapporteringsutsytr (Inmarsat)
 
+> **Oppheves** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
+
 ### § 8. Inmarsat-utstyr
 
 Inmarsat-utstyr består av sender eller mottakerenhet, antenne og strømforsyningsenhet. Sender eller mottakerenhet skal plasseres på et tørt sted i fartøyet. Antennen skal plasseres slik at best mulig kontakt med satellitt oppnås og slik at signalene ikke blir uleselige på grunn av nærliggende konstruksjoner.
@@ -109,11 +113,17 @@ Dersom utstyret skal programmeres med definisjoner som skal angi bestemte funksj
 
 Dersom satellittsporingsutstyret som benyttes om bord i fiskefartøyene samtidig skal fungere som radioutstyr i det globale maritime nød- og sikkerhetssystemet GMDSS, skal utstyret installeres i henhold til gjeldende regelverk for installasjon av slikt GMDSS-utstyr.
 
+> **Oppheves** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
+
 ## Kapittel V. Generelle bestemmelser, straff og ikrafttredelse
+
+> **Endres** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
 
 ### § 9. Autorisasjon
 
 Autorisasjon etter denne forskrift gis av Fiskeridirektoratet.
+
+> **Endres** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
 
 ### § 10. Straff
 
