@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2019-01-01"
-last_change_in_force: "2024-06-14"
+last_change_in_force: "2026-10-16"
 last_updated: "2022-03-23"
-xml_hash: "95843479e1d7c46b6cbd78c661f6a309b65fd6426f634b2b94969ee80beedb19"
+xml_hash: "b602dae5de36e7d3045282e70bf5bcecedb98dfb6f0d3d6730280297253a65ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-17T08:29:12.672271+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -666,13 +666,11 @@ Kongen kan gi forskrift om retten til bistand fra advokat, oppnevningen av advok
 
 ### § 8-16. Klareringsmyndigheter og sentralt register for klareringsavgjørelser
 
-Kongen utpeker én klareringsmyndighet for forsvarssektoren og én for sivile sektorer. Etterretnings- og sikkerhetstjenestene klarerer sitt eget personell.
-
-Når særlige grunner taler for det, kan Kongen utpeke andre klareringsmyndigheter enn dem som er nevnt i første ledd.
+Kongen utpeker ett eller flere forvaltningsorganer med klareringsmyndighet. Kongen kan gi forskrift om klareringsmyndighetenes oppgaver.
 
 Kongen kan gi forskrift om opprettelsen av et sentralt register for klareringsavgjørelser.
 
-> **Endres** ved lov [23 juni 2026 nr. 74](lov/2026-06-23-74) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [23 juni 2026 nr. 74](lov/2026-06-23-74) (i kraft 16 okt 2026 iflg. [res. 16 okt 2026 nr. 2068](forskrift/2026-10-16-2068)).
 
 ### § 8-17. Klage på avgjørelse om klarering
 
