@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-12-21"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-01-17"
-xml_hash: "90acc76d21bc2c3fffa02ff06eb66f02691da145d1e62d578fb660c3b7b6f772"
+xml_hash: "062e9aa5e180cdbd318f5dc0f341d0e4ee9816d4e8cd570463424ae7fb08508e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-17T08:29:12.672271+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -166,7 +166,7 @@ Melding om posisjon skal inneholde følgende opplysninger:
 
 Når et fartøy har sendt automatiske posisjonsmeldinger fra samme posisjon i mer enn fire timer, kan slike meldinger sendes en gang hver tolvte time frem til endring av posisjon. Dette gjelder ikke dersom fartøyet oppholder seg i fiskevernsonen ved Svalbard eller andre farvann hvor det er krav om hyppigere rapportering.
 
-> Endret ved [forskrifter 10 aug 2012 nr. 809](forskrift/2012-08-10-809) (i kraft 1 jan 2013), [12 sep 2013 nr. 1076](forskrift/2013-09-12-1076) (i kraft 1 jan 2014), [13 jan 2021 nr. 83](forskrift/2021-01-13-83) (i kraft 15 jan 2021), [28 juni 2024 nr. 1521](forskrift/2024-06-28-1521), [9 des 2024 nr. 3003](forskrift/2024-12-09-3003), [12 des 2024 nr. 3069](forskrift/2024-12-12-3069), [24 mars 2025 nr. 503](forskrift/2025-03-24-503), [30 sep 2025 nr. 1969](forskrift/2025-09-30-1969), [1 des 2025 nr. 2374](forskrift/2025-12-01-2374) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 10 aug 2012 nr. 809](forskrift/2012-08-10-809) (i kraft 1 jan 2013), [12 sep 2013 nr. 1076](forskrift/2013-09-12-1076) (i kraft 1 jan 2014), [13 jan 2021 nr. 83](forskrift/2021-01-13-83) (i kraft 15 jan 2021), [28 juni 2024 nr. 1521](forskrift/2024-06-28-1521), [9 des 2024 nr. 3003](forskrift/2024-12-09-3003), [12 des 2024 nr. 3069](forskrift/2024-12-12-3069), [24 mars 2025 nr. 503](forskrift/2025-03-24-503), [30 sep 2025 nr. 1969](forskrift/2025-09-30-1969), [1 des 2025 nr. 2374](forskrift/2025-12-01-2374) (i kraft 1 jan 2026). **Endres** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
 
 ### § 9. Posisjonsrapportering for bestemte fartøygrupper og i særlige tilfeller
 
