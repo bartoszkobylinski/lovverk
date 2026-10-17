@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-03-01"
 last_change_in_force: "2026-07-10"
 last_updated: "2020-12-17"
-xml_hash: "c2143d04076496a0a29fdffbab6190269ead2277118df3b7257e5132c592153d"
+xml_hash: "916149259459ad25011bbf2d3d7b50b57feb8c56ee6057484bb6c89caa4b1195"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-17T08:29:12.672271+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -81,7 +81,7 @@ Fiskeridirektoratet kan ilegge overtredelsesgebyr til foretak og til den som med
 1. [forskrift 12. september 2003 nr. 1131](forskrift/2003-09-12-1131) om leveringsplikt for fartøy med torsketråltillatelse unntatt bestemmelsene om bearbeidingsplikt
 2. vilkår som er stilt ved tildeling av torsketråltillatelse eller strukturkvote for torsketrålere til fartøy med leveringsplikt.
 
-> Endret ved [forskrifter 28 juli 2014 nr. 997](forskrift/2014-07-28-997) (i kraft 1 aug 2014), [27 jan 2015 nr. 65](forskrift/2015-01-27-65), [24 feb 2015 nr. 153](forskrift/2015-02-24-153), [15 juli 2016 nr. 934](forskrift/2016-07-15-934), [1 sep 2017 nr. 1329](forskrift/2017-09-01-1329), [13 sep 2017 nr. 1391](forskrift/2017-09-13-1391), [5 juli 2017 nr. 1142](forskrift/2017-07-05-1142) (i kraft 1 jan 2018), [14 des 2020 nr. 2786](forskrift/2020-12-14-2786) (i kraft 1 jan 2021), [23 des 2021 nr. 3909](forskrift/2021-12-23-3909) (i kraft 1 jan 2022), [31 okt 2022 nr. 1889](forskrift/2022-10-31-1889) (i kraft 1 nov 2022), [11 des 2024 nr. 3052](forskrift/2024-12-11-3052) (i kraft 1 jan 2025), [18 des 2025 nr. 2651](forskrift/2025-12-18-2651) (i kraft 1 jan 2026), [10 juli 2026 nr. 1546](forskrift/2026-07-10-1546).
+> Endret ved [forskrifter 28 juli 2014 nr. 997](forskrift/2014-07-28-997) (i kraft 1 aug 2014), [27 jan 2015 nr. 65](forskrift/2015-01-27-65), [24 feb 2015 nr. 153](forskrift/2015-02-24-153), [15 juli 2016 nr. 934](forskrift/2016-07-15-934), [1 sep 2017 nr. 1329](forskrift/2017-09-01-1329), [13 sep 2017 nr. 1391](forskrift/2017-09-13-1391), [5 juli 2017 nr. 1142](forskrift/2017-07-05-1142) (i kraft 1 jan 2018), [14 des 2020 nr. 2786](forskrift/2020-12-14-2786) (i kraft 1 jan 2021), [23 des 2021 nr. 3909](forskrift/2021-12-23-3909) (i kraft 1 jan 2022), [31 okt 2022 nr. 1889](forskrift/2022-10-31-1889) (i kraft 1 nov 2022), [11 des 2024 nr. 3052](forskrift/2024-12-11-3052) (i kraft 1 jan 2025), [18 des 2025 nr. 2651](forskrift/2025-12-18-2651) (i kraft 1 jan 2026), [10 juli 2026 nr. 1546](forskrift/2026-07-10-1546). **Endres** ved forskrift [14 okt 2026 nr. 2060](forskrift/2026-10-14-2060) (i kraft 1 april 2027).
 
 ## § 5. Utmåling av overtredelsesgebyr
 
