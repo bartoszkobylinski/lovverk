@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5125 current documents_
+_5126 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1930,6 +1930,7 @@ _5125 current documents_
 - [forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt](forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt.md) — Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt
 - [forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer](forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer.md) — Forskrift om endring i forskrift om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer og forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
 - [forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven](forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md) — Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven
+- [forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fiske-og-fangstfartøy-mv](forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fiske-og-fangstfartøy-mv.md) — Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy mv.
 - [forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder](forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder.md) — Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen

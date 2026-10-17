@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # ers-forskriften — Change history
 
-_3 events; doc_id `sf-20091221-1743`._
+_4 events; doc_id `sf-20091221-1743`._
+
+## 2026-10-17 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): ers-forskriften`
+Commit: `bcb474c`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

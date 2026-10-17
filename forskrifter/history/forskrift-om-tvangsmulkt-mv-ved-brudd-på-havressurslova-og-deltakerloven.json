@@ -2,6 +2,16 @@
   "doc_id": "sf-20111220-1437",
   "events": [
     {
+      "commit": "8c307dd",
+      "date": "2026-10-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-tvangsmulkt-mv-ved-brudd-på-havressurslova-og-deltakerloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "ffa0323",
       "date": "2026-07-14",
       "from_path": null,

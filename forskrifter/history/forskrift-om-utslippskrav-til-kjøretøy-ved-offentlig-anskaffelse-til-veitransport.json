@@ -2,6 +2,16 @@
   "doc_id": "sf-20221220-2384",
   "events": [
     {
+      "commit": "9909e69",
+      "date": "2026-10-17",
+      "from_path": null,
+      "lines_added": 21,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "1a3fa90",
       "date": "2026-10-13",
       "from_path": null,

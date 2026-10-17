@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Lover
 
-_755 current documents_
+_754 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -175,7 +175,6 @@ _755 current documents_
 - [endringslov-til-sentralbankloven-m-fl](endringslov-til-sentralbankloven-m-fl.md) — Lov om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven
 - [endringslov-til-sikkerhetsloven](endringslov-til-sikkerhetsloven.md) — Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde)
 - [endringslov-til-sikkerhetsloven-2](endringslov-til-sikkerhetsloven-2.md) — Lov om endringer i sikkerhetsloven (opplysningsplikt ved autorisasjon)
-- [endringslov-til-sikkerhetsloven-3](endringslov-til-sikkerhetsloven-3.md) — Lov om endringer i sikkerhetsloven (organisering av klareringsmyndigheten)
 - [endringslov-til-sjøloven](endringslov-til-sjøloven.md) — Lov om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)
 - [endringslov-til-skadeserstatningsloven](endringslov-til-skadeserstatningsloven.md) — Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)
 - [endringslov-til-skatte-og-avgiftslovgivningen-mv](endringslov-til-skatte-og-avgiftslovgivningen-mv.md) — Lov om endringer i skatte- og avgiftslovgivningen mv.

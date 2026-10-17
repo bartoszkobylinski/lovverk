@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-studier-grader-og-eksamen-ved-høyskolen-kristiania — Change history
 
-_3 events; doc_id `sf-20241212-3309`._
+_4 events; doc_id `sf-20241212-3309`._
+
+## 2026-10-17 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studier-grader-og-eksamen-ved-høyskolen-kristiania`
+Commit: `f2fd851`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

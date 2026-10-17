@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-takseringsregler-2025 — Change history
 
-_3 events; doc_id `sf-20251201-2404`._
+_4 events; doc_id `sf-20251201-2404`._
+
+## 2026-10-17 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-takseringsregler-2025`
+Commit: `d97ea14`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

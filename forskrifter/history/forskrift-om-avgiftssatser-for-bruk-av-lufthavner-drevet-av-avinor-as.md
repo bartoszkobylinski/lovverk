@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-avgiftssatser-for-bruk-av-lufthavner-drevet-av-avinor-as — Change history
 
-_3 events; doc_id `sf-20211119-3223`._
+_4 events; doc_id `sf-20211119-3223`._
+
+## 2026-10-17 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-avgiftssatser-for-bruk-av-lufthavner-drevet-av-avinor-as`
+Commit: `6845433`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

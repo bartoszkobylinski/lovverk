@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tvangsmulkt-mv-ved-brudd-på-havressurslova-og-deltakerloven — Change history
 
-_4 events; doc_id `sf-20111220-1437`._
+_5 events; doc_id `sf-20111220-1437`._
+
+## 2026-10-17 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-tvangsmulkt-mv-ved-brudd-på-havressurslova-og-deltakerloven`
+Commit: `8c307dd`.
 
 ## 2026-07-14 — Content updated
 Lines: +5 -5.

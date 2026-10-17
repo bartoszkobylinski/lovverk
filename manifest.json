@@ -10894,13 +10894,13 @@
     },
     "nl-20180601-024": {
       "doc_type": "lov",
-      "embedding_hash": "95843479e1d7c46b6cbd78c661f6a309b65fd6426f634b2b94969ee80beedb19",
-      "embedding_input_hash": "ee6c800f11da8ece1ab90e2055553fe3aa078434b045e591f8570b8801646dd8",
+      "embedding_hash": "b602dae5de36e7d3045282e70bf5bcecedb98dfb6f0d3d6730280297253a65ff",
+      "embedding_input_hash": "82fafcc748434b54f27132b51d57ce36ad62654351e932e50eba88d576d76151",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "lover/sikkerhetsloven-sikkl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -10908,8 +10908,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nasjonal sikkerhet (sikkerhetsloven)",
-      "total_changes": 5,
-      "xml_hash": "95843479e1d7c46b6cbd78c661f6a309b65fd6426f634b2b94969ee80beedb19"
+      "total_changes": 6,
+      "xml_hash": "b602dae5de36e7d3045282e70bf5bcecedb98dfb6f0d3d6730280297253a65ff"
     },
     "nl-20180608-028": {
       "doc_type": "lov",
@@ -14943,21 +14943,21 @@
     },
     "nl-20260623-074": {
       "doc_type": "lov",
-      "embedding_hash": "b94fbfeaa96f15917805cb72313b3fdfe0d4ef9eea267ea67bcd2023ddeafdfd",
-      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-06-24",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "lover/endringslov-til-sikkerhetsloven-3.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "endringslov-til-sikkerhetsloven-3",
       "source_dataset": "gjeldende-lover",
-      "status": "current",
+      "status": "removed",
       "title": "Lov om endringer i sikkerhetsloven (organisering av klareringsmyndigheten)",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "b94fbfeaa96f15917805cb72313b3fdfe0d4ef9eea267ea67bcd2023ddeafdfd"
     },
     "nl-20260623-075": {
@@ -26001,13 +26001,13 @@
     },
     "sf-19900608-4151": {
       "doc_type": "forskrift",
-      "embedding_hash": "00ea449f73e1d3dba6dd479c208e61ae8c80e650e2fc42a6979d5650544f8f2f",
+      "embedding_hash": "4d396efd692f2efb9a35ed5bcbf1181a20b20edfbd2ae93333eae3f9b232b2da",
       "embedding_input_hash": "ac816b3264914e83f5d42cdb8661cee45b73549ba559edabcc7443b65bf138ae",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-30",
-      "last_seen": "2026-06-30T07:51:25.240716Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-for-bruk-av-den-norske-kirkes-våpen.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -26015,8 +26015,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrifter for bruk av Den norske kirkes våpen.",
-      "total_changes": 1,
-      "xml_hash": "00ea449f73e1d3dba6dd479c208e61ae8c80e650e2fc42a6979d5650544f8f2f"
+      "total_changes": 2,
+      "xml_hash": "4d396efd692f2efb9a35ed5bcbf1181a20b20edfbd2ae93333eae3f9b232b2da"
     },
     "sf-19900615-0452": {
       "doc_type": "forskrift",
@@ -36375,13 +36375,13 @@
     },
     "sf-19990913-1052": {
       "doc_type": "forskrift",
-      "embedding_hash": "8ca6265f666d4ab6a95dd061ca50c8158f329c7858401038c6ef502cd206d19b",
+      "embedding_hash": "7c9ea3060e22a4562f67b9492bd32e2fbd7140f9004cd56f74c40a66c7af5633",
       "embedding_input_hash": "14c09bd7d71c4ef1ac193338c625e811d0418ddb2238b5a1b97924dbcd44a41d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-såvarer.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -36389,8 +36389,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om såvarer",
-      "total_changes": 7,
-      "xml_hash": "8ca6265f666d4ab6a95dd061ca50c8158f329c7858401038c6ef502cd206d19b"
+      "total_changes": 8,
+      "xml_hash": "7c9ea3060e22a4562f67b9492bd32e2fbd7140f9004cd56f74c40a66c7af5633"
     },
     "sf-19990916-1076": {
       "doc_type": "forskrift",
@@ -58871,13 +58871,13 @@
     },
     "sf-20091221-1743": {
       "doc_type": "forskrift",
-      "embedding_hash": "90acc76d21bc2c3fffa02ff06eb66f02691da145d1e62d578fb660c3b7b6f772",
-      "embedding_input_hash": "647c9d2a547d47c2358a9372b1e71622272066b2a74225652e1f9ea689856edd",
+      "embedding_hash": "062e9aa5e180cdbd318f5dc0f341d0e4ee9816d4e8cd570463424ae7fb08508e",
+      "embedding_input_hash": "633ab326eddc6b5bd3a927a12d2a472efeab999bec8486ce58a00d22aa1014ce",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/ers-forskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58885,8 +58885,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy",
-      "total_changes": 3,
-      "xml_hash": "90acc76d21bc2c3fffa02ff06eb66f02691da145d1e62d578fb660c3b7b6f772"
+      "total_changes": 4,
+      "xml_hash": "062e9aa5e180cdbd318f5dc0f341d0e4ee9816d4e8cd570463424ae7fb08508e"
     },
     "sf-20091222-1745": {
       "doc_type": "forskrift",
@@ -59384,13 +59384,13 @@
     },
     "sf-20100324-0454": {
       "doc_type": "forskrift",
-      "embedding_hash": "6dbeb1c9f260796a3c21799ca6b7de29c6f03f23fedf1da34638432f3b2865e2",
-      "embedding_input_hash": "14fdc8f810e906ffcd3b77a3f755a888814a0803027ca27611e59f225e9567e0",
+      "embedding_hash": "1d59657bb03b907189dfcca8d1adf6f95df7e729223517470e9e25808f081007",
+      "embedding_input_hash": "0ec0ffd728e50ac04a8cb904f7b94d2b9d3a2d4fb18b3ddedf4907fec62c3950",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-posisjonsrapporteringsutstyr.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -59398,8 +59398,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om krav til utstyr og installasjon av posisjonsrapporteringsutstyr",
-      "total_changes": 3,
-      "xml_hash": "6dbeb1c9f260796a3c21799ca6b7de29c6f03f23fedf1da34638432f3b2865e2"
+      "total_changes": 4,
+      "xml_hash": "1d59657bb03b907189dfcca8d1adf6f95df7e729223517470e9e25808f081007"
     },
     "sf-20100326-0466": {
       "doc_type": "forskrift",
@@ -63507,13 +63507,13 @@
     },
     "sf-20111220-1437": {
       "doc_type": "forskrift",
-      "embedding_hash": "c2143d04076496a0a29fdffbab6190269ead2277118df3b7257e5132c592153d",
-      "embedding_input_hash": "3493390d9d097cf628a4fd6090d9e190b8b251c3aefebb2a6cf020f1b4d033bf",
+      "embedding_hash": "916149259459ad25011bbf2d3d7b50b57feb8c56ee6057484bb6c89caa4b1195",
+      "embedding_input_hash": "10b547ac7f42a16e888c5f2b2852b9e88189f4e0c6ef8eef8b88ec2761d8d890",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-14",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-tvangsmulkt-mv-ved-brudd-på-havressurslova-og-deltakerloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -63521,8 +63521,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven",
-      "total_changes": 4,
-      "xml_hash": "c2143d04076496a0a29fdffbab6190269ead2277118df3b7257e5132c592153d"
+      "total_changes": 5,
+      "xml_hash": "916149259459ad25011bbf2d3d7b50b57feb8c56ee6057484bb6c89caa4b1195"
     },
     "sf-20111220-1457": {
       "doc_type": "forskrift",
@@ -69454,13 +69454,13 @@
     },
     "sf-20140815-1076": {
       "doc_type": "forskrift",
-      "embedding_hash": "0013216ba8c4fcd8e471bc71390f260d23fc0ccb8d3cab000265e5a0718837e9",
+      "embedding_hash": "e6eeebb7a16e7e48ed4f8c47ad4d58bee48fd5bb4cd15b2ebc29c84442e1729a",
       "embedding_input_hash": "e58bc02c1300f9bc4d17a492d1da0a714177bd2e0a1ea644c4181a38b6ada49b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/sanksjonsforskrift-ukraina-territoriell-integritet-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -69468,8 +69468,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet",
-      "total_changes": 10,
-      "xml_hash": "0013216ba8c4fcd8e471bc71390f260d23fc0ccb8d3cab000265e5a0718837e9"
+      "total_changes": 11,
+      "xml_hash": "e6eeebb7a16e7e48ed4f8c47ad4d58bee48fd5bb4cd15b2ebc29c84442e1729a"
     },
     "sf-20140815-1079": {
       "doc_type": "forskrift",
@@ -71145,13 +71145,13 @@
     },
     "sf-20150507-0540": {
       "doc_type": "forskrift",
-      "embedding_hash": "83f18e7eac9baa4399fbdbc657aef0d80c7e0ae770158048e7da039482d6858f",
+      "embedding_hash": "e37c45995af31da8a0fb22de5de16d7e691b70a773ccc9df24116b2ec09bca0f",
       "embedding_input_hash": "4cc3621ae75f6c5537cffb091f5aee91457ebfda2158c8f5e63c9079ec5b8b6e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-mv-ved-høgskolen-i-molde.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -71159,8 +71159,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Høgskolen i Molde – Vitenskapelig høgskole i logistikk",
-      "total_changes": 3,
-      "xml_hash": "83f18e7eac9baa4399fbdbc657aef0d80c7e0ae770158048e7da039482d6858f"
+      "total_changes": 4,
+      "xml_hash": "e37c45995af31da8a0fb22de5de16d7e691b70a773ccc9df24116b2ec09bca0f"
     },
     "sf-20150512-0467": {
       "doc_type": "forskrift",
@@ -92216,13 +92216,13 @@
     },
     "sf-20211119-3223": {
       "doc_type": "forskrift",
-      "embedding_hash": "d655a5afd19980123dae153c1efdacff2e2dc490c6e059f41ab8ee33f0bb01fe",
-      "embedding_input_hash": "3a72f00c615a666421c5526c026a4ae11b8b5d085e2ec60c6321c194c5b5b2c0",
+      "embedding_hash": "c027c1419d490e1c305ca23c03b74489d45e77adea3f49a01a5c44c0ab585bed",
+      "embedding_input_hash": "276d0aa56615792de5951c0998ff01e2353530121d63b5fb444729e9aebed14b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-avgiftssatser-for-bruk-av-lufthavner-drevet-av-avinor-as.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -92230,8 +92230,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om avgiftssatser for bruk av lufthavner drevet av Avinor AS",
-      "total_changes": 3,
-      "xml_hash": "d655a5afd19980123dae153c1efdacff2e2dc490c6e059f41ab8ee33f0bb01fe"
+      "total_changes": 4,
+      "xml_hash": "c027c1419d490e1c305ca23c03b74489d45e77adea3f49a01a5c44c0ab585bed"
     },
     "sf-20211123-3261": {
       "doc_type": "forskrift",
@@ -96548,13 +96548,13 @@
     },
     "sf-20221220-2384": {
       "doc_type": "forskrift",
-      "embedding_hash": "a0d977f9869821f339d34c7a5f96910c44b7d541fe222b2be56d550c9c7948b0",
-      "embedding_input_hash": "d39e387d568f95633459288a76e2f66e885e78f6ed0fe44000d9463323f7909e",
+      "embedding_hash": "502ed70f20182d234ed3d623484b5761e486792da964b5c699042248b1eaabcd",
+      "embedding_input_hash": "53cbbc13584c5fad6dc6c4a7a2710741725e4ea3a6e3f933177c47181ff3b8b8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-13",
-      "last_seen": "2026-10-13T11:40:11.848780Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -96562,8 +96562,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport",
-      "total_changes": 8,
-      "xml_hash": "a0d977f9869821f339d34c7a5f96910c44b7d541fe222b2be56d550c9c7948b0"
+      "total_changes": 9,
+      "xml_hash": "502ed70f20182d234ed3d623484b5761e486792da964b5c699042248b1eaabcd"
     },
     "sf-20221220-2541": {
       "doc_type": "forskrift",
@@ -98828,13 +98828,13 @@
     },
     "sf-20231129-1935": {
       "doc_type": "forskrift",
-      "embedding_hash": "c53d84dcfae57e92baefb37484037ccb78eb3419834df86685dadc3b9a87e655",
+      "embedding_hash": "e43b69ebd0fb6622150a1d9fed52c358d409568fdfb96a01fe4cf6fa8b96855b",
       "embedding_input_hash": "5030c987673b134b451dbe46bf4009b74d8cd63802e5dba6c8d2b2034bb0e47f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-14",
-      "last_seen": "2026-09-14T09:46:33.107190Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-for-forskerlinjen-i-medisin-ved-norges-teknisk-naturvitenskapelige-universitet.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98842,8 +98842,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift for forskerlinjen i medisin ved Norges teknisk-naturvitenskapelige universitet (NTNU)",
-      "total_changes": 5,
-      "xml_hash": "c53d84dcfae57e92baefb37484037ccb78eb3419834df86685dadc3b9a87e655"
+      "total_changes": 6,
+      "xml_hash": "e43b69ebd0fb6622150a1d9fed52c358d409568fdfb96a01fe4cf6fa8b96855b"
     },
     "sf-20231201-1943": {
       "doc_type": "forskrift",
@@ -102685,13 +102685,13 @@
     },
     "sf-20241212-3309": {
       "doc_type": "forskrift",
-      "embedding_hash": "ae8c5a12add99ca9bb7ed29643ac1908a6ea23c0337125328f39b4c3f7e44368",
+      "embedding_hash": "56657d119bccb2716edca11ebad9de8ac39907cd84d582551e5b378897e63e4d",
       "embedding_input_hash": "8eb64a3fd5f808055f127780dab8a0b54220f2d2420be330b395a3f89f6f2838",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-grader-og-eksamen-ved-høyskolen-kristiania.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -102699,8 +102699,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier, grader og eksamen ved Høyskolen Kristiania",
-      "total_changes": 3,
-      "xml_hash": "ae8c5a12add99ca9bb7ed29643ac1908a6ea23c0337125328f39b4c3f7e44368"
+      "total_changes": 4,
+      "xml_hash": "56657d119bccb2716edca11ebad9de8ac39907cd84d582551e5b378897e63e4d"
     },
     "sf-20241213-3092": {
       "doc_type": "forskrift",
@@ -107587,13 +107587,13 @@
     },
     "sf-20251201-2404": {
       "doc_type": "forskrift",
-      "embedding_hash": "7711a046b9fa1f6f43ccf1d5fe26284d15edf7a037cdcf5f627f3633777557d3",
+      "embedding_hash": "88d39b7af22e112377b3691c5afc19e3f0419932be6275acc5d228889a62170c",
       "embedding_input_hash": "db52d2153295de092435a04ca225024c4432d3cb8da766ba53e4c4edd16feb69",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-takseringsregler-2025.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -107601,8 +107601,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om taksering av formues-, inntekts og fradragsposter mv. som må fastsettes ved skjønn til bruk ved fastsettingen for 2025",
-      "total_changes": 3,
-      "xml_hash": "7711a046b9fa1f6f43ccf1d5fe26284d15edf7a037cdcf5f627f3633777557d3"
+      "total_changes": 4,
+      "xml_hash": "88d39b7af22e112377b3691c5afc19e3f0419932be6275acc5d228889a62170c"
     },
     "sf-20251201-2991": {
       "doc_type": "forskrift",
@@ -110893,13 +110893,13 @@
     },
     "sf-20260409-0579": {
       "doc_type": "forskrift",
-      "embedding_hash": "4adc8667e12bbf1f709e9bbd302602a5a6287909f235ba74ea992c1c9683b9f2",
-      "embedding_input_hash": "110d0870194db435f8ec9994ebacbada8cbcfb647e6fa0af018ab7b4a9a714ff",
+      "embedding_hash": "8d0aa3881ec7fe105eb2d51db9ee287f3b15fe313ba585962a2f2cb6878a8d28",
+      "embedding_input_hash": "cb14057b959191dcb7f02e8757bb2dc4903d09fafc5affc36227bf6f238019f1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-24",
-      "last_seen": "2026-09-24T09:13:40.436161Z",
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -110907,8 +110907,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 18,
-      "xml_hash": "4adc8667e12bbf1f709e9bbd302602a5a6287909f235ba74ea992c1c9683b9f2"
+      "total_changes": 19,
+      "xml_hash": "8d0aa3881ec7fe105eb2d51db9ee287f3b15fe313ba585962a2f2cb6878a8d28"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -114139,8 +114139,27 @@
       "title": "Forskrift om overgangsregler når ankeerklæring skal framsettes for Trygderetten",
       "total_changes": 1,
       "xml_hash": "47c5dec5dc2a34cf188c96490ccb27136dc6be96ed4a0a954ee0bab819612ac5"
+    },
+    "sf-20261014-2060": {
+      "doc_type": "forskrift",
+      "embedding_hash": "ed1d92982bc51ec152a7b4bdf6c218eb665491ff6a3e97535621a8cb9b67d537",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-17",
+      "last_seen": "2026-10-17T08:29:12.672271Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fiske-og-fangstfartøy-mv.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fiske-og-fangstfartøy-mv",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy mv.",
+      "total_changes": 1,
+      "xml_hash": "ed1d92982bc51ec152a7b4bdf6c218eb665491ff6a3e97535621a8cb9b67d537"
     }
   },
-  "generated_at": "2026-10-16T08:57:16.334795Z",
+  "generated_at": "2026-10-17T08:29:12.672271Z",
   "version": 1
 }

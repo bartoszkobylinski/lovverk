@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-for-bruk-av-den-norske-kirkes-våpen — Change history
 
-_1 events; doc_id `sf-19900608-4151`._
+_2 events; doc_id `sf-19900608-4151`._
+
+## 2026-10-17 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-for-bruk-av-den-norske-kirkes-våpen`
+Commit: `fed5549`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +89 -0.
