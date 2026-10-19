@@ -20,13 +20,13 @@
         "approval_carried": {
           "approved_at_extractor": 6,
           "basis": "byte-identical rendering",
-          "carried_at": "2026-10-19T08:36:26.044792Z",
-          "carried_to_extractor": 8
+          "carried_at": "2026-10-19T23:35:15.269980Z",
+          "carried_to_extractor": 9
         },
         "classifier": null,
         "decided_at": "2026-10-08T18:05:22.411831Z",
         "decision": "approve",
-        "extractor_version": 8,
+        "extractor_version": 9,
         "identity": {
           "candidates": [],
           "doc_id": "lk-5059-4d485d1816b3",
