@@ -1,0 +1,38 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "7dc9c9e085aa954949eb18a7216bb4a639893311e8d702ce0c9261bfdb1f155a",
+  "doc_id": "lf-20081219-1456",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft straks",
+        "text": "straks"
+      }
+    ],
+    "status": "text",
+    "text": "straks",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt ved kgl.res. 19. desember 2008 med hjemmel i lov 19. juni 1970 nr. 63 om naturvern § 8, jf.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "lov 19. juni 1970 nr. 63",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [],
+    "status": "absent",
+    "text": null,
+    "value": null
+  },
+  "version": 1
+}

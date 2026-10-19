@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20081219-1456",
+  "schema_version": 2,
+  "slug": "forskrift-om-verneplan-for-skog-vedlegg-3-freding-av-mølmannsdalslia-naturreservat-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "7dc9c9e085aa954949eb18a7216bb4a639893311e8d702ce0c9261bfdb1f155a",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:14.052441Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20081219-1456"
+          ],
+          "doc_id": "lf-20081219-1456",
+          "ref_id": "forskrift/2008-12-19-1456",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": null,
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T10:42:25Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:14.052441Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T10:42:25Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "d394cd41a19d6038a502a1501bfb866e81e80b20a7b539d9943e7ff8e5f3b68f"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

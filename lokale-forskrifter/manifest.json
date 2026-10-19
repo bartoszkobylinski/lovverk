@@ -80,6 +80,22 @@
       "title": "Forskrift om verneplan for skog, vedlegg 6, Flensmarka naturreservat, Røros og Engerdal kommuner, Trøndelag og Innlandet",
       "version": 1
     },
+    "lf-20081219-1456": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "7dc9c9e085aa954949eb18a7216bb4a639893311e8d702ce0c9261bfdb1f155a",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-verneplan-for-skog-vedlegg-3-freding-av-mølmannsdalslia-naturreservat-røros-kommune-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-verneplan-for-skog-vedlegg-3-freding-av-mølmannsdalslia-naturreservat-røros-kommune-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om verneplan for skog. Vedlegg 3. Freding av Mølmannsdalslia naturreservat, Røros kommune, Sør-Trøndelag",
+      "version": 1
+    },
     "lf-20171201-1897": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -209,6 +225,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:13.059750Z",
+  "generated_at": "2026-10-19T14:59:14.052441Z",
   "version": 1
 }
