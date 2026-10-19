@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20061222-1627",
+  "schema_version": 2,
+  "slug": "forskrift-om-verneplan-for-skog-vedlegg-6-flensmarka-naturreservat-røros-og-engerdal-kommuner-trøndelag-og-innlandet",
+  "versions": [
+    {
+      "content_hash": "6e8d5fbf53e8c351086647f2b1a787636a8aa83f451c7022b091c9705661b532",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:06.730268Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20061222-1627"
+          ],
+          "doc_id": "lf-20061222-1627",
+          "ref_id": "forskrift/2006-12-22-1627",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2006-12-22-1627",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T09:04:56Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:06.730268Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T09:04:56Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "f4402e72a09c1206c5076f8be6976ea7766eb731074332653d9c01887deeb202"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}
