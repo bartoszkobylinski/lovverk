@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20170622-0939",
+  "schema_version": 2,
+  "slug": "forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m",
+  "versions": [
+    {
+      "content_hash": "515ae01744127d0be5726ebe7a6d954f734f0a08383d27479708b8c15a0c0211",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T23:39:20.421269Z",
+        "decision": "approve",
+        "extractor_version": 9,
+        "identity": {
+          "candidates": [
+            "lf-20170622-0939"
+          ],
+          "doc_id": "lf-20170622-0939",
+          "ref_id": "forskrift/2017-06-22-939",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2017-06-22-939",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T10:42:25Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T23:39:20.421269Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20). Re-reviewed after the #638 extraction fix.",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "docx"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T10:42:25Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "5a5b6b5671a7020309ce45f9e93c7b07486f0d9bbb35a9dd729d791aa098676f"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

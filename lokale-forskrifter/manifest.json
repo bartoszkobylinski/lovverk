@@ -128,6 +128,22 @@
       "title": "Forskrift om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag",
       "version": 1
     },
+    "lf-20170622-0939": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "515ae01744127d0be5726ebe7a6d954f734f0a08383d27479708b8c15a0c0211",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om tildeling av langtidsopphold og helse- og omsorgstjenester i institusjon eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester, vurderingsmomenter og vurderingslister m.m., Røros kommune, Sør-Trøndelag",
+      "version": 1
+    },
     "lf-20171201-1897": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -401,6 +417,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T23:39:19.668429Z",
+  "generated_at": "2026-10-19T23:39:20.421269Z",
   "version": 1
 }

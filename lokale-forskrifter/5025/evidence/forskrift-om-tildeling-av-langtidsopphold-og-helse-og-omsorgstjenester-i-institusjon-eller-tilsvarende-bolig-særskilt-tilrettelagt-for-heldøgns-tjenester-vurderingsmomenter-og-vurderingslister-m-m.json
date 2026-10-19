@@ -1,0 +1,59 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "515ae01744127d0be5726ebe7a6d954f734f0a08383d27479708b8c15a0c0211",
+  "doc_id": "lf-20170622-0939",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2017-07-01",
+        "evidence": "trer i kraft 1. juli 2017",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2017-07-01"
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 22. juni 2017 med hjemmel lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-2a annet ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "helse-og-omsorgstjenesteloven-hol",
+        "dataset": "lover",
+        "doc_id": "nl-20110624-030"
+      },
+      "target_text": "lov 24. juni 2011 nr. 30",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 22. juni 2017 med hjemmel lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-2a annet ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "helse-og-omsorgstjenesteloven-hol",
+        "dataset": "lover",
+        "doc_id": "nl-20110624-030"
+      },
+      "target_text": "helse- og omsorgstjenesteloven",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2017-06-22",
+        "evidence": "Fastsatt av Røros kommunestyre 22. juni 2017",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2017-06-22"
+  },
+  "version": 1
+}
