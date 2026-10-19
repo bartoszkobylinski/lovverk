@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20170622-0939",
+  "events": [
+    {
+      "commit": "e0d696b",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 243,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m"
+}

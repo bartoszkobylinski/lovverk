@@ -1,0 +1,53 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "c74ec67d6c06706a2e991df7edd1b46304d7721a9ae675ccd07098e2affb24c3",
+  "doc_id": "lf-20240620-1408",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [],
+    "status": "absent",
+    "text": null,
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Rossen tjïelteståvroen / Røros kommunestyre 20. juni 2024 med hjemmel i lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova) § 4-5 femte ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "opplæringslova",
+        "dataset": "lover",
+        "doc_id": "nl-20230609-030"
+      },
+      "target_text": "lov 9. juni 2023 nr. 30",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Rossen tjïelteståvroen / Røros kommunestyre 20. juni 2024 med hjemmel i lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova) § 4-5 femte ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "opplæringslova",
+        "dataset": "lover",
+        "doc_id": "nl-20230609-030"
+      },
+      "target_text": "opplæringslova",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2024-06-20",
+        "evidence": "Fastsatt av Rossen tjïelteståvroen / Røros kommunestyre 20. juni 2024",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2024-06-20"
+  },
+  "version": 1
+}

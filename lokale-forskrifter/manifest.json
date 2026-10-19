@@ -1,5 +1,21 @@
 {
   "documents": {
+    "lf-19980428-0421": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "77268350cf9d415d9d16d532de66b1a51ad6820eeb713adb0029faa7246add4a",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T08:29:51Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-politivedtekt-røros-kommune-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-politivedtekt-røros-kommune-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om politivedtekt, Røros kommune, Sør-Trøndelag.",
+      "version": 1
+    },
     "lf-20011221-1569": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -94,6 +110,38 @@
       "source_dataset": "lokale-forskrifter",
       "status": "current",
       "title": "Forskrift om verneplan for skog. Vedlegg 3. Freding av Mølmannsdalslia naturreservat, Røros kommune, Sør-Trøndelag",
+      "version": 1
+    },
+    "lf-20170222-0223": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "bf169fc0921464c2c0ac08c57b7cd8f8327f33fa96f8379f95eab90b4e9f3963",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-19T08:02:15Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-adgang-til-å-innføre-ekstraordinær-båndtvang-for-hund-røros-kommune-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-adgang-til-å-innføre-ekstraordinær-båndtvang-for-hund-røros-kommune-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag",
+      "version": 1
+    },
+    "lf-20170622-0939": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "515ae01744127d0be5726ebe7a6d954f734f0a08383d27479708b8c15a0c0211",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-tildeling-av-langtidsopphold-og-helse-og-omsorgstjenester-i-institusjon-eller-tilsvarende-bolig-særskilt-tilrettelagt-for-heldøgns-tjenester-vurderingsmomenter-og-vurderingslister-m-m",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om tildeling av langtidsopphold og helse- og omsorgstjenester i institusjon eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester, vurderingsmomenter og vurderingslister m.m., Røros kommune, Sør-Trøndelag",
       "version": 1
     },
     "lf-20171201-1897": {
@@ -206,6 +254,38 @@
       "source_dataset": "lokale-forskrifter",
       "status": "current",
       "title": "Forskrift om hovedmål på skolen, Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
+    "lf-20240620-1408": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "c74ec67d6c06706a2e991df7edd1b46304d7721a9ae675ccd07098e2affb24c3",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-skolefritidsordningen-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-skolefritidsordningen-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om skolefritidsordningen (SFO), Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
+    "lf-20240620-1409": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "208b35afbee80571baf42d57234def206705908284a8d54e5f648ee6ee02fb74",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-skoleregler-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-skoleregler-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om skoleregler, Rossen tjïelte / Røros kommune, Trøndelag",
       "version": 1
     },
     "lf-20240620-1410": {
@@ -337,6 +417,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:19.481732Z",
+  "generated_at": "2026-10-19T23:39:20.421269Z",
   "version": 1
 }

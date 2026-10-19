@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-19980428-0421",
+  "schema_version": 2,
+  "slug": "forskrift-om-politivedtekt-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "77268350cf9d415d9d16d532de66b1a51ad6820eeb713adb0029faa7246add4a",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T23:39:16.949022Z",
+        "decision": "approve",
+        "extractor_version": 9,
+        "identity": {
+          "candidates": [
+            "lf-19980428-0421"
+          ],
+          "doc_id": "lf-19980428-0421",
+          "ref_id": "forskrift/1998-04-28-421",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "1998-04-28-421",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T08:29:51Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T23:39:16.949022Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20). Re-reviewed after the #638 extraction fix.",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T08:29:51Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "da089e4c6523597d7c7a660fb7032228c5c43e385b5e787bd55fd55b325ea45c"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

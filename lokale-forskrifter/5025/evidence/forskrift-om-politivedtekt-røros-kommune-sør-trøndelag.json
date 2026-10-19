@@ -1,0 +1,55 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "77268350cf9d415d9d16d532de66b1a51ad6820eeb713adb0029faa7246add4a",
+  "doc_id": "lf-19980428-0421",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft 1 måned etter at den er stadfestet av Justis- og politidepartementet",
+        "text": "1 måned etter at den er stadfestet av Justis- og politidepartementet"
+      }
+    ],
+    "status": "text",
+    "text": "1 måned etter at den er stadfestet av Justis- og politidepartementet",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 30. januar 1997 med hjemmel i lov av 4. august 1995 nr. 53 om politiet § 14.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "politiloven-politil",
+        "dataset": "lover",
+        "doc_id": "nl-19950804-053"
+      },
+      "target_text": "lov av 4. august 1995 nr. 53",
+      "unresolved": null
+    },
+    {
+      "evidence": "Fra samme tid oppheves forskrift av 14. april 1967 nr. 4574 om politivedtekt, Røros kommune, Sør-Trøndelag.",
+      "kind": "repeals",
+      "target": null,
+      "target_text": "forskrift av 14. april 1967 nr. 4574",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "1997-01-30",
+        "evidence": "Fastsatt av Røros kommunestyre 30. januar 1997",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "1997-01-30"
+  },
+  "version": 1
+}
