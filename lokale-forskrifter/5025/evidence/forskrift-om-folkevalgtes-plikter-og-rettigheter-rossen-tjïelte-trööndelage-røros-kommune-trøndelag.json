@@ -1,0 +1,53 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "89f6cf988c659f1dafa226c86e75ba6404920e734f94c80a38e144478b990c8d",
+  "doc_id": "lf-20240829-2428",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft fra kommunestyret vedtar den",
+        "text": "fra kommunestyret vedtar den"
+      }
+    ],
+    "status": "text",
+    "text": "fra kommunestyret vedtar den",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Rossen tjïelteståvroen / Røros kommunestyre, sak 78/24, 29. august 2024 med hjemmel i lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) §§ 8-1, 8-2, 8-3, 8-4, 8-5, 8-6, 8-7, 8-8, 8-9 og 8-10.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "kommuneloven",
+        "dataset": "lover",
+        "doc_id": "nl-20180622-083"
+      },
+      "target_text": "lov 22. juni 2018 nr. 83",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Rossen tjïelteståvroen / Røros kommunestyre, sak 78/24, 29. august 2024 med hjemmel i lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) §§ 8-1, 8-2, 8-3, 8-4, 8-5, 8-6, 8-7, 8-8, 8-9 og 8-10.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "kommuneloven",
+        "dataset": "lover",
+        "doc_id": "nl-20180622-083"
+      },
+      "target_text": "kommuneloven",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [],
+    "status": "absent",
+    "text": null,
+    "value": null
+  },
+  "version": 1
+}

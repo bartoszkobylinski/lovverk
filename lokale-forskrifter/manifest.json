@@ -208,6 +208,22 @@
       "title": "Forskrift om hovedmål på skolen, Rossen tjïelte / Røros kommune, Trøndelag",
       "version": 1
     },
+    "lf-20240829-2428": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "89f6cf988c659f1dafa226c86e75ba6404920e734f94c80a38e144478b990c8d",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-folkevalgtes-plikter-og-rettigheter-rossen-tjïelte-trööndelage-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-folkevalgtes-plikter-og-rettigheter-rossen-tjïelte-trööndelage-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om folkevalgtes plikter og rettigheter, Rossen tjïelte, Trööndelage / Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20241217-3787": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -305,6 +321,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:11.486729Z",
+  "generated_at": "2026-10-19T14:59:15.764010Z",
   "version": 1
 }
