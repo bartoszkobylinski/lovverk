@@ -176,6 +176,22 @@
       "title": "Forskrift om jakt på bever, Røros kommune, Trøndelag",
       "version": 1
     },
+    "lf-20240620-1406": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "9b10983c9805ac52426c09b35453e7fe44120513f259fa0404cedc8919f4c9ad",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-elevpermisjon-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-elevpermisjon-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om elevpermisjon, Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20241217-3787": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -273,6 +289,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:10.402270Z",
+  "generated_at": "2026-10-19T14:59:09.588850Z",
   "version": 1
 }
