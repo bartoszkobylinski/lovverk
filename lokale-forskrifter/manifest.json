@@ -208,6 +208,22 @@
       "title": "FORSKRIFT OM HOVEDMÅL VED OFFENTLIGE GRUNNSKOLER I INDRE ØSTFOLD KOMMUNE",
       "version": 1
     },
+    "lk-4646-9bb85c499dfc": {
+      "authority_id": "4646",
+      "authority_type": "kommune",
+      "content_hash": "9c69654f530b857ae111b0433f8b5bb2e4421964f607c98ceb4610187e0492db",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-07T12:45:06Z",
+      "markdown_path": "lokale-forskrifter/4646/forskrift-om-vass-og-avløpsgebyr-fjaler-kommune-vestland-fylke.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-vass-og-avløpsgebyr-fjaler-kommune-vestland-fylke",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om vass- og avløpsgebyr Fjaler kommune, Vestland fylke",
+      "version": 1
+    },
     "lk-5059-4d485d1816b3": {
       "authority_id": "5059",
       "authority_type": "kommune",
@@ -241,6 +257,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:18.523271Z",
+  "generated_at": "2026-10-19T14:59:22.036367Z",
   "version": 1
 }

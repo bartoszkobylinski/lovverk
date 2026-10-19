@@ -1,0 +1,45 @@
+{
+  "authority_id": "4646",
+  "doc_id": "lk-4646-9bb85c499dfc",
+  "schema_version": 2,
+  "slug": "forskrift-om-vass-og-avløpsgebyr-fjaler-kommune-vestland-fylke",
+  "versions": [
+    {
+      "content_hash": "9c69654f530b857ae111b0433f8b5bb2e4421964f607c98ceb4610187e0492db",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:22.036367Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [],
+          "doc_id": "lk-4646-9bb85c499dfc",
+          "ref_id": null,
+          "scheme": "lk"
+        },
+        "innsyn": {
+          "answers": "2022-12-15-2677",
+          "innsyn_request": "4646-20261005T074425Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-07T12:45:06Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:22.036367Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "4646-20261005T074425Z",
+          "received_at": "2026-10-07T12:45:06Z",
+          "received_form": "authority_original",
+          "source_sha256": "3ab25fc7ccfee9cf0b6ed7bed2af026a0f7846484abb07bd9ba24575c455dc11"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

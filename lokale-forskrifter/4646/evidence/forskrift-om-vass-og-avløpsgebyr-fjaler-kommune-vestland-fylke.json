@@ -1,0 +1,73 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "9c69654f530b857ae111b0433f8b5bb2e4421964f607c98ceb4610187e0492db",
+  "doc_id": "lk-4646-9bb85c499dfc",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2023-01-01",
+        "evidence": "trer i kraft 1. januar 2023",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2023-01-01"
+  },
+  "relations": [
+    {
+      "evidence": "Heimel: Fastsett av Fjaler kommunestyre 15.12.2022 med heimel i lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova) § 3 og forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 16-1 andre ledd.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "lov 16. mars 2012 nr. 12",
+      "unresolved": "not_in_corpus"
+    },
+    {
+      "evidence": "Heimel: Fastsett av Fjaler kommunestyre 15.12.2022 med heimel i lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova) § 3 og forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 16-1 andre ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "vass-og-avløpsanleggslova",
+        "dataset": "lover",
+        "doc_id": "nl-20250606-026"
+      },
+      "target_text": "vass- og avløpsanleggslova",
+      "unresolved": null
+    },
+    {
+      "evidence": "Heimel: Fastsett av Fjaler kommunestyre 15.12.2022 med heimel i lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova) § 3 og forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 16-1 andre ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "forurensningsforskriften",
+        "dataset": "forskrifter",
+        "doc_id": "sf-20040601-0931"
+      },
+      "target_text": "forskrift 1. juni 2004 nr. 931",
+      "unresolved": null
+    },
+    {
+      "evidence": "Frå same tid opphevast Forskrift 16.12.2003 for vass- og avløpsgebyr for Fjaler kommune.",
+      "kind": "repeals",
+      "target": null,
+      "target_text": "Forskrift 16.12.2003",
+      "unresolved": "no_number"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2022-12-15",
+        "evidence": "Fastsett av Fjaler kommunestyre 15.12.2022",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2022-12-15"
+  },
+  "version": 1
+}
