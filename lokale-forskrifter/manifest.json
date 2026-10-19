@@ -192,6 +192,22 @@
       "title": "Forskrift om elevpermisjon, Rossen tjïelte / Røros kommune, Trøndelag",
       "version": 1
     },
+    "lf-20240620-1407": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "1c8ca215cc554d5859b9beb1b0df86415fd0ac093cce710b170e817890f769e3",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-hovedmål-på-skolen-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-hovedmål-på-skolen-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om hovedmål på skolen, Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20241217-3787": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -289,6 +305,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:09.588850Z",
+  "generated_at": "2026-10-19T14:59:11.486729Z",
   "version": 1
 }
