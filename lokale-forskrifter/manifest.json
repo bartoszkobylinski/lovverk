@@ -112,6 +112,22 @@
       "title": "Forskrift om vern av Mølmannsdalen naturreservat, Røros kommune, Sør-Trøndelag",
       "version": 1
     },
+    "lf-20200618-1484": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "49975aa92d6ebf8b9637e74de6f9a21fe81b36675e2dc3e7ed31058347de31f9",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-folkevalgtes-plikter-og-rettigheter-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-folkevalgtes-plikter-og-rettigheter-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om folkevalgtes plikter og rettigheter, Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20200924-3355": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -257,6 +273,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:22.036367Z",
+  "generated_at": "2026-10-19T14:59:10.402270Z",
   "version": 1
 }
