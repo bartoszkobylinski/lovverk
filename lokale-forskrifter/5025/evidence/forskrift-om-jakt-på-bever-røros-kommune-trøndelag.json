@@ -1,0 +1,58 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "a96a05e948d0450e0df0f2db5b8a24456975c9a10333fe28e45c156ba4dda7c7",
+  "doc_id": "lf-20230525-1778",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft ved kunngjøring",
+        "text": "ved kunngjøring"
+      }
+    ],
+    "status": "text",
+    "text": "ved kunngjøring",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 25. mai 2023 med hjemmel i lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven)",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "lov 29. mai 1981 nr. 38",
+      "unresolved": "not_in_corpus"
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 25. mai 2023 med hjemmel i lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven)",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "viltloven",
+      "unresolved": "not_in_corpus"
+    },
+    {
+      "evidence": "Samtidig oppheves det som gjelder bever i Røros kommune i forskrift 30. mai 2001 nr. 642 om adgang til jakt etter elg, hjort, rådyr og bever, Holtålen, Melhus, Røros, Skaun og Snillfjord kommuner, Sør-Trøndelag.",
+      "kind": "repeals",
+      "target": null,
+      "target_text": "forskrift 30. mai 2001 nr. 642",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2023-05-25",
+        "evidence": "Fastsatt av Røros kommunestyre 25. mai 2023",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2023-05-25"
+  },
+  "version": 1
+}

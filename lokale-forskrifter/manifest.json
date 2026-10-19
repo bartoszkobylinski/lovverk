@@ -112,6 +112,22 @@
       "title": "Forskrift om endring i forskrift om verneplan for skog, vedlegg 6, Flensmarka naturreservat, Røros og Engerdal kommuner, Sør-Trøndelag og Hedmark",
       "version": 1
     },
+    "lf-20230525-1778": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "a96a05e948d0450e0df0f2db5b8a24456975c9a10333fe28e45c156ba4dda7c7",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-jakt-på-bever-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-jakt-på-bever-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om jakt på bever, Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20251211-2953": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -177,6 +193,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:08.560351Z",
+  "generated_at": "2026-10-19T14:59:12.265891Z",
   "version": 1
 }
