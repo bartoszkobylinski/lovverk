@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20061222-1627",
+  "events": [
+    {
+      "commit": "0c0deee",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 153,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-verneplan-for-skog-vedlegg-6-flensmarka-naturreservat-røros-og-engerdal-kommuner-trøndelag-og-innlandet v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-verneplan-for-skog-vedlegg-6-flensmarka-naturreservat-røros-og-engerdal-kommuner-trøndelag-og-innlandet"
+}

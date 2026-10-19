@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20030507-4968",
+  "events": [
+    {
+      "commit": "5479f39",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 241,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-vann-og-avløpsgebyrer-røros-kommune-sør-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-vann-og-avløpsgebyrer-røros-kommune-sør-trøndelag"
+}

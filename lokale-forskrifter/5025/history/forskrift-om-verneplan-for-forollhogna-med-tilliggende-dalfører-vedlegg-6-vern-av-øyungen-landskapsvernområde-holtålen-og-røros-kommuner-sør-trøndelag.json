@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20011221-1569",
+  "events": [
+    {
+      "commit": "35eb920",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 123,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-verneplan-for-forollhogna-med-tilliggende-dalfører-vedlegg-6-vern-av-øyungen-landskapsvernområde-holtålen-og-røros-kommuner-sør-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-verneplan-for-forollhogna-med-tilliggende-dalfører-vedlegg-6-vern-av-øyungen-landskapsvernområde-holtålen-og-røros-kommuner-sør-trøndelag"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20230525-1778",
+  "events": [
+    {
+      "commit": "9108501",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-jakt-på-bever-røros-kommune-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-jakt-på-bever-røros-kommune-trøndelag"
+}
