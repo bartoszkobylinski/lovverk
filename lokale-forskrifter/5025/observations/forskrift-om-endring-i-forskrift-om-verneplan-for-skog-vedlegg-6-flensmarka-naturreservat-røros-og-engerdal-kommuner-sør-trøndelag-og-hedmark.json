@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20220427-0619",
+  "schema_version": 2,
+  "slug": "forskrift-om-endring-i-forskrift-om-verneplan-for-skog-vedlegg-6-flensmarka-naturreservat-røros-og-engerdal-kommuner-sør-trøndelag-og-hedmark",
+  "versions": [
+    {
+      "content_hash": "8f76a97b2600c7799af063fdbac28adff2e115bfabb9adccfd6c46318019c973",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:07.684907Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20220427-0619"
+          ],
+          "doc_id": "lf-20220427-0619",
+          "ref_id": "forskrift/2022-04-27-619",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": null,
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T09:04:56Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:07.684907Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T09:04:56Z",
+          "received_form": "lovtidend",
+          "source_sha256": "3c0d2577ea49dd794c59541fa1d391a881821fb092218ca7b4bfe6283fcac36b"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

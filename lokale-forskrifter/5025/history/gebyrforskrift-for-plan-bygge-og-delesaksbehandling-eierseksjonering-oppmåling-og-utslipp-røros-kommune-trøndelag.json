@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20251211-2953",
+  "events": [
+    {
+      "commit": "5922aa6",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 113,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/gebyrforskrift-for-plan-bygge-og-delesaksbehandling-eierseksjonering-oppmåling-og-utslipp-røros-kommune-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "gebyrforskrift-for-plan-bygge-og-delesaksbehandling-eierseksjonering-oppmåling-og-utslipp-røros-kommune-trøndelag"
+}

@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20030507-4968",
+  "schema_version": 2,
+  "slug": "forskrift-om-vann-og-avløpsgebyrer-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "a717fcf4cd79e25fc69cd9ad94af5a2330cdce4bed87d95cd35383cb747c9426",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:03.678085Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20030507-4968"
+          ],
+          "doc_id": "lf-20030507-4968",
+          "ref_id": "forskrift/2003-05-07-4968",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2003-05-07-4968",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T09:04:56Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:03.678085Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T09:04:56Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "fc0858c7f67d9ffcdc76f163dfa73a145a72c0595b97810926330da54d8c6599"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

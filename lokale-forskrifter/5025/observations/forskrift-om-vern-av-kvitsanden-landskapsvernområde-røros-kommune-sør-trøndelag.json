@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20041217-1689",
+  "schema_version": 2,
+  "slug": "forskrift-om-vern-av-kvitsanden-landskapsvernområde-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "dab849dba51c1e0392b7d042c15ac532cc24cc926d51d7c6b4602f0e44f6f328",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:04.803933Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20041217-1689"
+          ],
+          "doc_id": "lf-20041217-1689",
+          "ref_id": "forskrift/2004-12-17-1689",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2004-12-17-1689",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T09:04:56Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:04.803933Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T09:04:56Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "b3e0c3ba420673bf817a981ef0cb8b68bc6df5efe9dd176e15c2fe05045d1298"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

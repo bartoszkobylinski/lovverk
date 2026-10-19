@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20230525-1778",
+  "schema_version": 2,
+  "slug": "forskrift-om-jakt-på-bever-røros-kommune-trøndelag",
+  "versions": [
+    {
+      "content_hash": "a96a05e948d0450e0df0f2db5b8a24456975c9a10333fe28e45c156ba4dda7c7",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:12.265891Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20230525-1778"
+          ],
+          "doc_id": "lf-20230525-1778",
+          "ref_id": "forskrift/2023-05-25-1778",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2023-05-25-1778",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T10:42:25Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:12.265891Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T10:42:25Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "3354e862d14f7218753e69b9a51ef6f4e6876cd60286dee101cc9ba3a0166f00"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

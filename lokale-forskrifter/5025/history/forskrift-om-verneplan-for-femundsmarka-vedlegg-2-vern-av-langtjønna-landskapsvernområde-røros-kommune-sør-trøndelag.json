@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20030221-0182",
+  "events": [
+    {
+      "commit": "4df6df6",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 117,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-verneplan-for-femundsmarka-vedlegg-2-vern-av-langtjønna-landskapsvernområde-røros-kommune-sør-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-verneplan-for-femundsmarka-vedlegg-2-vern-av-langtjønna-landskapsvernområde-røros-kommune-sør-trøndelag"
+}

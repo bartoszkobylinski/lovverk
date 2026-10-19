@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20200618-1484",
+  "events": [
+    {
+      "commit": "827d68c",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 261,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-folkevalgtes-plikter-og-rettigheter-røros-kommune-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-folkevalgtes-plikter-og-rettigheter-røros-kommune-trøndelag"
+}

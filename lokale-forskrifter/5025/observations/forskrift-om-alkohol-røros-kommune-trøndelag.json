@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20200924-3355",
+  "schema_version": 2,
+  "slug": "forskrift-om-alkohol-røros-kommune-trøndelag",
+  "versions": [
+    {
+      "content_hash": "def82d14f9a04a20abdf9ca168a383d70b785cbf36e5b444a650b7da92bef77a",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:08.560351Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20200924-3355"
+          ],
+          "doc_id": "lf-20200924-3355",
+          "ref_id": "forskrift/2020-09-24-3355",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2020-09-24-3355",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T10:42:25Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:08.560351Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T10:42:25Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "065d59457384fc8e2635597c934506791972d7feb0f6d66e31fdc478f9cd4271"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

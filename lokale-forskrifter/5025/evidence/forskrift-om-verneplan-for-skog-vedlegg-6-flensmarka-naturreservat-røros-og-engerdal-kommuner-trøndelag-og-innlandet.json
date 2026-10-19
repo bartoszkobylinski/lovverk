@@ -1,0 +1,38 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "6e8d5fbf53e8c351086647f2b1a787636a8aa83f451c7022b091c9705661b532",
+  "doc_id": "lf-20061222-1627",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft straks",
+        "text": "straks"
+      }
+    ],
+    "status": "text",
+    "text": "straks",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Fastsatt ved kgl.res. 22. desember 2006 med hjemmel i lov 19. juni 1970 nr. 63 om naturvern § 8, jf.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "lov 19. juni 1970 nr. 63",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [],
+    "status": "absent",
+    "text": null,
+    "value": null
+  },
+  "version": 1
+}

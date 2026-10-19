@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20220427-0619",
+  "events": [
+    {
+      "commit": "226f4cb",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 55,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-endring-i-forskrift-om-verneplan-for-skog-vedlegg-6-flensmarka-naturreservat-røros-og-engerdal-kommuner-sør-trøndelag-og-hedmark v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-verneplan-for-skog-vedlegg-6-flensmarka-naturreservat-røros-og-engerdal-kommuner-sør-trøndelag-og-hedmark"
+}

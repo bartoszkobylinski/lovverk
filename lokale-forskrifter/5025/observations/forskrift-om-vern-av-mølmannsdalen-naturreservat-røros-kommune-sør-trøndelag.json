@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20171201-1897",
+  "schema_version": 2,
+  "slug": "forskrift-om-vern-av-mølmannsdalen-naturreservat-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "42e95d37c42400ba6098db0affb85536b3238935f631c520fa3f16949e5a5cc2",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:13.059750Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20171201-1897"
+          ],
+          "doc_id": "lf-20171201-1897",
+          "ref_id": "forskrift/2017-12-01-1897",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2017-12-01-1897",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T10:42:25Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:13.059750Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T10:42:25Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "a164c702fcc6931246bddc850abb30f6a1ee5a5e8f4860fcc8c5755b5354b9a8"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

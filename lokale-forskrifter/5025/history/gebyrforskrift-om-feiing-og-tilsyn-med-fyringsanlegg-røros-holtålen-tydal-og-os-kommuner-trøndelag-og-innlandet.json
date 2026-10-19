@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20241217-3787",
+  "events": [
+    {
+      "commit": "3ab3dec",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 87,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/gebyrforskrift-om-feiing-og-tilsyn-med-fyringsanlegg-røros-holtålen-tydal-og-os-kommuner-trøndelag-og-innlandet v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "gebyrforskrift-om-feiing-og-tilsyn-med-fyringsanlegg-røros-holtålen-tydal-og-os-kommuner-trøndelag-og-innlandet"
+}

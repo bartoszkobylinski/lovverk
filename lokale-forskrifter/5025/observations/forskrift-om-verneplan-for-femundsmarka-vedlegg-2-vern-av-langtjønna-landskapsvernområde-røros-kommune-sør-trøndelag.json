@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20030221-0182",
+  "schema_version": 2,
+  "slug": "forskrift-om-verneplan-for-femundsmarka-vedlegg-2-vern-av-langtjønna-landskapsvernområde-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "027eb2d6352601c5d303ca0218a0b30ebbf18e91f8ba2f7a1e2662c92d0eda0b",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:05.763676Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20030221-0182"
+          ],
+          "doc_id": "lf-20030221-0182",
+          "ref_id": "forskrift/2003-02-21-182",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2003-02-21-182",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T09:04:56Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:05.763676Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T09:04:56Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "e36ebf8757800a1e1a1931ea3cc79aadaf0f3dd4655e6436f91b526b84cd99b3"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

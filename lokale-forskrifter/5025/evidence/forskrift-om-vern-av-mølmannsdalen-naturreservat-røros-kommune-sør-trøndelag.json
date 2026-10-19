@@ -1,0 +1,60 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "42e95d37c42400ba6098db0affb85536b3238935f631c520fa3f16949e5a5cc2",
+  "doc_id": "lf-20171201-1897",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft straks",
+        "text": "straks"
+      }
+    ],
+    "status": "text",
+    "text": "straks",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt ved kgl.res. 1. desember 2017 med hjemmel i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 34, jf.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "naturmangfoldloven-nml",
+        "dataset": "lover",
+        "doc_id": "nl-20090619-100"
+      },
+      "target_text": "lov 19. juni 2009 nr. 100",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt ved kgl.res. 1. desember 2017 med hjemmel i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 34, jf.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "naturmangfoldloven-nml",
+        "dataset": "lover",
+        "doc_id": "nl-20090619-100"
+      },
+      "target_text": "naturmangfoldloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Samtidig oppheves forskrift 19. desember 2008 nr. 1456 om fredning av Mølmannsdalslia naturreservat, Røros kommune, Sør-Trøndelag.",
+      "kind": "repeals",
+      "target": null,
+      "target_text": "forskrift 19. desember 2008 nr. 1456",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [],
+    "status": "absent",
+    "text": null,
+    "value": null
+  },
+  "version": 1
+}

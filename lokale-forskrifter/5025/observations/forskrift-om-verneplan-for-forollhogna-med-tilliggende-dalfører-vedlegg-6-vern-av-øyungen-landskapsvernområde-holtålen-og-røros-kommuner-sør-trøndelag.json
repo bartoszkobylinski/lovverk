@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20011221-1569",
+  "schema_version": 2,
+  "slug": "forskrift-om-verneplan-for-forollhogna-med-tilliggende-dalfører-vedlegg-6-vern-av-øyungen-landskapsvernområde-holtålen-og-røros-kommuner-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "269efe16c07dc119015b00ec70fa45293df1eb8c5f4821418966da48c5fe6b9f",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T14:59:01.758176Z",
+        "decision": "approve",
+        "extractor_version": 8,
+        "identity": {
+          "candidates": [
+            "lf-20011221-1569"
+          ],
+          "doc_id": "lf-20011221-1569",
+          "ref_id": "forskrift/2001-12-21-1569",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2001-12-21-1569",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T08:29:51Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T14:59:01.758176Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T08:29:51Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "3d238b0564586d653219cd16e52484d7392e8e517505012bace59470447d333c"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}
