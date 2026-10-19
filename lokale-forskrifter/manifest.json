@@ -160,6 +160,22 @@
       "title": "Forskrift om jakt på bever, Røros kommune, Trøndelag",
       "version": 1
     },
+    "lf-20241217-3787": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "6d60daff1a4d4839cc86580440e412ae8b8ac511df8f1ecf8e8e81ec9c02aaaa",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/gebyrforskrift-om-feiing-og-tilsyn-med-fyringsanlegg-røros-holtålen-tydal-og-os-kommuner-trøndelag-og-innlandet.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "gebyrforskrift-om-feiing-og-tilsyn-med-fyringsanlegg-røros-holtålen-tydal-og-os-kommuner-trøndelag-og-innlandet",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Gebyrforskrift om feiing og tilsyn med fyringsanlegg, Røros, Holtålen, Tydal og Os kommuner, Trøndelag og Innlandet",
+      "version": 1
+    },
     "lf-20251211-2953": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -225,6 +241,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:14.052441Z",
+  "generated_at": "2026-10-19T14:59:18.523271Z",
   "version": 1
 }

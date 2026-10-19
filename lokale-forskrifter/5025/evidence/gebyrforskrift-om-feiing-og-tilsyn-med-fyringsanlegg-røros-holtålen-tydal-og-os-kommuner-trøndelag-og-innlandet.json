@@ -1,0 +1,59 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "6d60daff1a4d4839cc86580440e412ae8b8ac511df8f1ecf8e8e81ec9c02aaaa",
+  "doc_id": "lf-20241217-3787",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2024-12-17",
+        "evidence": "trer i kraft 17. desember 2024",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2024-12-17"
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 29. august 2024, Os kommunestyre 26. september 2024, Tydal kommunestyre 31. oktober 2024 og Holtålen kommunestyre 17. desember 2024 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 28 andre ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "brann-og-eksplosjonsvernloven",
+        "dataset": "lover",
+        "doc_id": "nl-20020614-020"
+      },
+      "target_text": "lov 14. juni 2002 nr. 20",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 29. august 2024, Os kommunestyre 26. september 2024, Tydal kommunestyre 31. oktober 2024 og Holtålen kommunestyre 17. desember 2024 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 28 andre ledd.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "brann-og-eksplosjonsvernloven",
+        "dataset": "lover",
+        "doc_id": "nl-20020614-020"
+      },
+      "target_text": "brann- og eksplosjonsvernloven",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2024-08-29",
+        "evidence": "Fastsatt av Røros kommunestyre 29. august 2024",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2024-08-29"
+  },
+  "version": 1
+}
