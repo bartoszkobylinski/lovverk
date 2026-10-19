@@ -1,0 +1,165 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "d77e3edb371f0a749b3c3ed66a679ed367957906dcb86223a43fe06086a6f029",
+  "doc_id": "lf-20251211-2953",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2026-01-01",
+        "evidence": "Ikrafttredelse: 1. januar 2026",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2026-01-01"
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "plan-og-bygningsloven-pbl",
+        "dataset": "lover",
+        "doc_id": "nl-20080627-071"
+      },
+      "target_text": "lov 27. juni 2008 nr. 71",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "plan-og-bygningsloven-pbl",
+        "dataset": "lover",
+        "doc_id": "nl-20080627-071"
+      },
+      "target_text": "plan- og bygningsloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "matrikkellova",
+        "dataset": "lover",
+        "doc_id": "nl-20050617-101"
+      },
+      "target_text": "lov 17. juni 2005 nr. 101",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "matrikkellova",
+        "dataset": "lover",
+        "doc_id": "nl-20050617-101"
+      },
+      "target_text": "matrikkellova",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "matrikkelforskriften",
+        "dataset": "forskrifter",
+        "doc_id": "sf-20090626-0864"
+      },
+      "target_text": "forskrift 26. juni 2009 nr. 864",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "eierseksjonsloven-eiersl",
+        "dataset": "lover",
+        "doc_id": "nl-20170616-065"
+      },
+      "target_text": "lov 16. juni 2017 nr. 65",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "eierseksjonsloven-eiersl",
+        "dataset": "lover",
+        "doc_id": "nl-20170616-065"
+      },
+      "target_text": "eierseksjonsloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "forurensningsloven-forurl",
+        "dataset": "lover",
+        "doc_id": "nl-19810313-006"
+      },
+      "target_text": "lov 13. mars 1981 nr. 6",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "forurensningsloven-forurl",
+        "dataset": "lover",
+        "doc_id": "nl-19810313-006"
+      },
+      "target_text": "forurensningsloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "offentlegforskrifta",
+        "dataset": "forskrifter",
+        "doc_id": "sf-20081017-1119"
+      },
+      "target_text": "forskrift 17. oktober 2008 nr. 1119",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 11. desember 2025, sak 111/25, med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 33-1, lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) § 32, forskrift 26. juni 2009 nr. 864 om eiendomsregistrering (matrikkelforskriften) § 16 og § 18, lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 15, lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 52a og forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta) § 4 femte ledd første og andre punktum.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "offentleglova-offl",
+        "dataset": "lover",
+        "doc_id": "nl-20060519-016"
+      },
+      "target_text": "offentleglova",
+      "unresolved": null
+    },
+    {
+      "evidence": "Fra ikrafttredelsen av denne forskrift oppheves: forskrift 25. februar 1999 nr. 314 om gebyrregulativ for saksbehandling etter plan- og bygningsloven, Røros kommune, Sør-Trøndelag, vedtatt av Røros kommunestyre 25. februar 1999.",
+      "kind": "repeals",
+      "target": null,
+      "target_text": "forskrift 25. februar 1999 nr. 314",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2025-12-11",
+        "evidence": "Fastsatt av Røros kommunestyre 11. desember 2025",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2025-12-11"
+  },
+  "version": 1
+}

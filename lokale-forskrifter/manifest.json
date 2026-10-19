@@ -16,6 +16,22 @@
       "title": "Forskrift om verneplan for Forollhogna med tilliggende dalfører, vedlegg 6, vern av Øyungen landskapsvernområde, Holtålen og Røros kommuner, Sør-Trøndelag.",
       "version": 1
     },
+    "lf-20251211-2953": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "d77e3edb371f0a749b3c3ed66a679ed367957906dcb86223a43fe06086a6f029",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T08:29:51Z",
+      "markdown_path": "lokale-forskrifter/5025/gebyrforskrift-for-plan-bygge-og-delesaksbehandling-eierseksjonering-oppmåling-og-utslipp-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "gebyrforskrift-for-plan-bygge-og-delesaksbehandling-eierseksjonering-oppmåling-og-utslipp-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Gebyrforskrift for plan-, bygge- og delesaksbehandling, eierseksjonering, oppmåling og utslipp, Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lk-3118-979d6fd0f42e": {
       "authority_id": "3118",
       "authority_type": "kommune",
@@ -65,6 +81,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:01.758176Z",
+  "generated_at": "2026-10-19T14:59:02.773815Z",
   "version": 1
 }
