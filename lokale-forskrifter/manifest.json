@@ -32,6 +32,22 @@
       "title": "Forskrift om vann- og avløpsgebyrer, Røros kommune, Sør-Trøndelag",
       "version": 1
     },
+    "lf-20041217-1689": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "dab849dba51c1e0392b7d042c15ac532cc24cc926d51d7c6b4602f0e44f6f328",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T09:04:56Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-vern-av-kvitsanden-landskapsvernområde-røros-kommune-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-vern-av-kvitsanden-landskapsvernområde-røros-kommune-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om vern av Kvitsanden landskapsvernområde, Røros kommune, Sør-Trøndelag.",
+      "version": 1
+    },
     "lf-20251211-2953": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -97,6 +113,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:03.678085Z",
+  "generated_at": "2026-10-19T14:59:04.803933Z",
   "version": 1
 }
