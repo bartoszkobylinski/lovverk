@@ -1,5 +1,21 @@
 {
   "documents": {
+    "lf-20011221-1569": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "269efe16c07dc119015b00ec70fa45293df1eb8c5f4821418966da48c5fe6b9f",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T08:29:51Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-verneplan-for-forollhogna-med-tilliggende-dalfører-vedlegg-6-vern-av-øyungen-landskapsvernområde-holtålen-og-røros-kommuner-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-verneplan-for-forollhogna-med-tilliggende-dalfører-vedlegg-6-vern-av-øyungen-landskapsvernområde-holtålen-og-røros-kommuner-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om verneplan for Forollhogna med tilliggende dalfører, vedlegg 6, vern av Øyungen landskapsvernområde, Holtålen og Røros kommuner, Sør-Trøndelag.",
+      "version": 1
+    },
     "lk-3118-979d6fd0f42e": {
       "authority_id": "3118",
       "authority_type": "kommune",
@@ -49,6 +65,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-08T18:05:39.452946Z",
+  "generated_at": "2026-10-19T14:59:01.758176Z",
   "version": 1
 }

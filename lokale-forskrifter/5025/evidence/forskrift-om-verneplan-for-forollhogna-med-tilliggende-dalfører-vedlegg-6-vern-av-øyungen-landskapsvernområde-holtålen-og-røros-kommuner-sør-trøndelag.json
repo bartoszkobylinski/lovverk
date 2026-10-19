@@ -1,0 +1,38 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "269efe16c07dc119015b00ec70fa45293df1eb8c5f4821418966da48c5fe6b9f",
+  "doc_id": "lf-20011221-1569",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft straks",
+        "text": "straks"
+      }
+    ],
+    "status": "text",
+    "text": "straks",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Fastsatt ved kgl.res. 21. desember 2001 med hjemmel i lov av 19. juni 1970 nr. 63 om naturvern § 5 og § 6, jf.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "lov av 19. juni 1970 nr. 63",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [],
+    "status": "absent",
+    "text": null,
+    "value": null
+  },
+  "version": 1
+}
