@@ -176,6 +176,70 @@
       "title": "Forskrift om jakt på bever, Røros kommune, Trøndelag",
       "version": 1
     },
+    "lf-20240620-1406": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "9b10983c9805ac52426c09b35453e7fe44120513f259fa0404cedc8919f4c9ad",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-elevpermisjon-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-elevpermisjon-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om elevpermisjon, Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
+    "lf-20240620-1407": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "1c8ca215cc554d5859b9beb1b0df86415fd0ac093cce710b170e817890f769e3",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T10:42:25Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-hovedmål-på-skolen-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-hovedmål-på-skolen-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om hovedmål på skolen, Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
+    "lf-20240620-1410": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "66680b13a488eafc27b2a419d3b94325a56def83c2c5bce37b72bef0298be547",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-skolerute-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-skolerute-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om skolerute, Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
+    "lf-20240829-2428": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "89f6cf988c659f1dafa226c86e75ba6404920e734f94c80a38e144478b990c8d",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 8,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-folkevalgtes-plikter-og-rettigheter-rossen-tjïelte-trööndelage-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-folkevalgtes-plikter-og-rettigheter-rossen-tjïelte-trööndelage-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om folkevalgtes plikter og rettigheter, Rossen tjïelte, Trööndelage / Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20241217-3787": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -273,6 +337,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:10.402270Z",
+  "generated_at": "2026-10-19T14:59:19.481732Z",
   "version": 1
 }

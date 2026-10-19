@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20240829-2428",
+  "events": [
+    {
+      "commit": "5f3b91c",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 30,
+      "lines_removed": 32,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-folkevalgtes-plikter-og-rettigheter-rossen-tjïelte-trööndelage-røros-kommune-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-folkevalgtes-plikter-og-rettigheter-rossen-tjïelte-trööndelage-røros-kommune-trøndelag"
+}

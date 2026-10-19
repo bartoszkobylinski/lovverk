@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20240620-1407",
+  "events": [
+    {
+      "commit": "297ece7",
+      "date": "2026-10-19",
+      "from_path": null,
+      "lines_added": 43,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-hovedmål-på-skolen-rossen-tjïelte-røros-kommune-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-hovedmål-på-skolen-rossen-tjïelte-røros-kommune-trøndelag"
+}
