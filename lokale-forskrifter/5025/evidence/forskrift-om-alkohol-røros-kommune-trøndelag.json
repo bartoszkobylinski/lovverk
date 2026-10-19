@@ -1,0 +1,88 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "def82d14f9a04a20abdf9ca168a383d70b785cbf36e5b444a650b7da92bef77a",
+  "doc_id": "lf-20200924-3355",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft fra kommunestyret vedtar den",
+        "text": "fra kommunestyret vedtar den"
+      }
+    ],
+    "status": "text",
+    "text": "fra kommunestyret vedtar den",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 24. september 2020 med hjemmel i lov 13. juni 1997 nr. 55 om serveringsvirksomhet (serveringsloven) § 15 og lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk (alkoholloven) § 3-7 og § 4-4.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "serveringsloven",
+        "dataset": "lover",
+        "doc_id": "nl-19970613-055"
+      },
+      "target_text": "lov 13. juni 1997 nr. 55",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 24. september 2020 med hjemmel i lov 13. juni 1997 nr. 55 om serveringsvirksomhet (serveringsloven) § 15 og lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk (alkoholloven) § 3-7 og § 4-4.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "serveringsloven",
+        "dataset": "lover",
+        "doc_id": "nl-19970613-055"
+      },
+      "target_text": "serveringsloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 24. september 2020 med hjemmel i lov 13. juni 1997 nr. 55 om serveringsvirksomhet (serveringsloven) § 15 og lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk (alkoholloven) § 3-7 og § 4-4.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "alkoholloven-alkhl",
+        "dataset": "lover",
+        "doc_id": "nl-19890602-027"
+      },
+      "target_text": "lov 2. juni 1989 nr. 27",
+      "unresolved": null
+    },
+    {
+      "evidence": "Hjemmel: Fastsatt av Røros kommunestyre 24. september 2020 med hjemmel i lov 13. juni 1997 nr. 55 om serveringsvirksomhet (serveringsloven) § 15 og lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk (alkoholloven) § 3-7 og § 4-4.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "alkoholloven-alkhl",
+        "dataset": "lover",
+        "doc_id": "nl-19890602-027"
+      },
+      "target_text": "alkoholloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Samtidig oppheves forskrift 21. juni 2016 nr. 1233 om alkohol, Røros kommune, Sør-Trøndelag.",
+      "kind": "repeals",
+      "target": null,
+      "target_text": "forskrift 21. juni 2016 nr. 1233",
+      "unresolved": "not_in_corpus"
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2020-09-24",
+        "evidence": "Fastsatt av Røros kommunestyre 24. september 2020",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2020-09-24"
+  },
+  "version": 1
+}
