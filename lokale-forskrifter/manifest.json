@@ -1,5 +1,21 @@
 {
   "documents": {
+    "lf-19980428-0421": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "77268350cf9d415d9d16d532de66b1a51ad6820eeb713adb0029faa7246add4a",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T08:29:51Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-politivedtekt-røros-kommune-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-politivedtekt-røros-kommune-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om politivedtekt, Røros kommune, Sør-Trøndelag.",
+      "version": 1
+    },
     "lf-20011221-1569": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -337,6 +353,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T14:59:19.481732Z",
+  "generated_at": "2026-10-19T23:39:16.949022Z",
   "version": 1
 }
