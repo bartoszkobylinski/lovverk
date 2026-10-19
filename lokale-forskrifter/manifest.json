@@ -112,6 +112,22 @@
       "title": "Forskrift om verneplan for skog. Vedlegg 3. Freding av Mølmannsdalslia naturreservat, Røros kommune, Sør-Trøndelag",
       "version": 1
     },
+    "lf-20170222-0223": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "bf169fc0921464c2c0ac08c57b7cd8f8327f33fa96f8379f95eab90b4e9f3963",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-19T08:02:15Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-adgang-til-å-innføre-ekstraordinær-båndtvang-for-hund-røros-kommune-sør-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-adgang-til-å-innføre-ekstraordinær-båndtvang-for-hund-røros-kommune-sør-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag",
+      "version": 1
+    },
     "lf-20171201-1897": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -385,6 +401,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T23:39:18.667475Z",
+  "generated_at": "2026-10-19T23:39:19.668429Z",
   "version": 1
 }

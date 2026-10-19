@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20170222-0223",
+  "schema_version": 2,
+  "slug": "forskrift-om-adgang-til-å-innføre-ekstraordinær-båndtvang-for-hund-røros-kommune-sør-trøndelag",
+  "versions": [
+    {
+      "content_hash": "bf169fc0921464c2c0ac08c57b7cd8f8327f33fa96f8379f95eab90b4e9f3963",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T23:39:19.668429Z",
+        "decision": "approve",
+        "extractor_version": 9,
+        "identity": {
+          "candidates": [
+            "lf-20170222-0223"
+          ],
+          "doc_id": "lf-20170222-0223",
+          "ref_id": "forskrift/2017-02-22-223",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2017-02-22-223",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-19T08:02:15Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T23:39:19.668429Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20). Re-reviewed after the #638 extraction fix.",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-19T08:02:15Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "0de7dd6b8f6e08408e8a1e0828805164e3d555e64c7803341f17ad0c89e88e4e"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}
