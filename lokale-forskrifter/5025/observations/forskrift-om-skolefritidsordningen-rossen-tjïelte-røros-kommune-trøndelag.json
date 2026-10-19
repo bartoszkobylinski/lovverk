@@ -1,0 +1,47 @@
+{
+  "authority_id": "5025",
+  "doc_id": "lf-20240620-1408",
+  "schema_version": 2,
+  "slug": "forskrift-om-skolefritidsordningen-rossen-tjïelte-røros-kommune-trøndelag",
+  "versions": [
+    {
+      "content_hash": "c74ec67d6c06706a2e991df7edd1b46304d7721a9ae675ccd07098e2affb24c3",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-19T23:39:17.828796Z",
+        "decision": "approve",
+        "extractor_version": 9,
+        "identity": {
+          "candidates": [
+            "lf-20240620-1408"
+          ],
+          "doc_id": "lf-20240620-1408",
+          "ref_id": "forskrift/2024-06-20-1408",
+          "scheme": "lf"
+        },
+        "innsyn": {
+          "answers": "2024-06-20-1408",
+          "innsyn_request": "5025-20261005T074355Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-16T11:47:49Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-19T23:39:17.828796Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20). Re-reviewed after the #638 extraction fix.",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "5025-20261005T074355Z",
+          "received_at": "2026-10-16T11:47:49Z",
+          "received_form": "lovdata_print",
+          "source_sha256": "eace1de63378db76d39afbe8983d66143626c7126e80b91a175802f689b71944"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

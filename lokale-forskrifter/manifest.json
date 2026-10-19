@@ -224,6 +224,22 @@
       "title": "Forskrift om hovedmål på skolen, Rossen tjïelte / Røros kommune, Trøndelag",
       "version": 1
     },
+    "lf-20240620-1408": {
+      "authority_id": "5025",
+      "authority_type": "kommune",
+      "content_hash": "c74ec67d6c06706a2e991df7edd1b46304d7721a9ae675ccd07098e2affb24c3",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-16T11:47:49Z",
+      "markdown_path": "lokale-forskrifter/5025/forskrift-om-skolefritidsordningen-rossen-tjïelte-røros-kommune-trøndelag.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-skolefritidsordningen-rossen-tjïelte-røros-kommune-trøndelag",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om skolefritidsordningen (SFO), Rossen tjïelte / Røros kommune, Trøndelag",
+      "version": 1
+    },
     "lf-20240620-1410": {
       "authority_id": "5025",
       "authority_type": "kommune",
@@ -353,6 +369,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-19T23:39:16.949022Z",
+  "generated_at": "2026-10-19T23:39:17.828796Z",
   "version": 1
 }
