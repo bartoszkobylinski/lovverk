@@ -28,9 +28,18 @@ Additional invariants for the local dataset:
 
 * documents sit at ``lokale-forskrifter/<authority_id>/<slug>.md``;
 * the root manifest carries no local record, and the two manifests share no id;
-* every document's front matter has the fields ADR-0016 Decision 3 fixes, in
-  that order, states ``source_license: "åndsverkloven § 14"``,
-  ``basis: "observed"`` and ``asserted: false``, and agrees with its record;
+* every document's front matter has the fields ADR-0016 Decision 3 fixes for
+  its ``basis``, in that order, states ``source_license: "åndsverkloven § 14"``
+  and ``asserted: false``, and agrees with its record;
+* ``basis`` is ``observed`` or ``received`` (ADR-0016 Amendment 1). A received
+  document carries the received axis (``received_at``, ``innsyn_request``,
+  ``innsyn_saksnummer``, ``received_form``) in place of ``observed_at_first``
+  and ``source_url``, no URL anywhere in its front matter, and its record's
+  ``last_seen`` is its ``received_at``;
+* ``observations/<slug>.json`` is schema version 1 while every version was
+  observed and schema version 2 once one was received; a file of received
+  versions only has no ``source_status``. A received document must have one,
+  and the entry of its current version must record its ``received_at``;
 * no file in the dataset mentions NLOD: these texts are not Lovdata data and
   are not published under Lovdata's licence.
 
@@ -49,7 +58,7 @@ import re
 import sys
 from collections import Counter
 from collections.abc import Iterable
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CORPUS_DIRS = ("lover", "forskrifter")
@@ -60,8 +69,8 @@ LOCAL_LICENSE = "åndsverkloven § 14"
 # Generated navigation files, not corpus documents.
 NON_DOCUMENT_FILES = {"INDEX.md"}
 
-# ADR-0016 Decision 3: the front matter of a local document, in its fixed order.
-LOCAL_FRONT_MATTER_KEYS = (
+# ADR-0016 Decision 3: the front matter of an observed local document, in its fixed order.
+OBSERVED_FRONT_MATTER_KEYS = (
     "id",
     "slug",
     "type",
@@ -84,15 +93,47 @@ LOCAL_FRONT_MATTER_KEYS = (
     "asserted",
     "language",
 )
+# ADR-0016 Amendment 1 (A5): a received version replaces the observed keys in
+# place. lovspor's tests/unit/test_promotion_render_received.py pins this tuple.
+RECEIVED_FRONT_MATTER_KEYS = (
+    *OBSERVED_FRONT_MATTER_KEYS[:13],
+    "received_at",
+    "innsyn_request",
+    "innsyn_saksnummer",
+    "received_form",
+    *OBSERVED_FRONT_MATTER_KEYS[15:],
+)
+FRONT_MATTER_KEYS = {
+    "observed": OBSERVED_FRONT_MATTER_KEYS,
+    "received": RECEIVED_FRONT_MATTER_KEYS,
+}
+CHANNEL_KEYS = frozenset(OBSERVED_FRONT_MATTER_KEYS) ^ frozenset(RECEIVED_FRONT_MATTER_KEYS)
+RECEIVED_FORMS = ("lovdata_print", "lovtidend", "authority_original")
+# lovspor: innsyn.ledger.REQUEST_ID_PATTERN and promotion.models.SAKSNUMMER_PATTERN.
+REQUEST_ID_PATTERN = re.compile(r"^(?:\d{2}|\d{4})-\d{8}T\d{6}Z$")
+SAKSNUMMER_PATTERN = re.compile(r"^\d{2,4}/\d+(?:-\d+)?$")
+UTC_INSTANT_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?Z$")
+SHA256_PATTERN = re.compile(r"^[0-9a-f]{64}$")
+URL_PATTERN = re.compile(r"https?://", re.IGNORECASE)
 # `retrieved_at` is Lovdata download time; `observed_at_last` would churn the
 # document on every observation. Neither belongs in a local document.
 LOCAL_FORBIDDEN_KEYS = ("retrieved_at", "observed_at_last")
 LOCAL_FIXED_VALUES = {
     "type": LOCAL_DOC_TYPE,
     "source_license": LOCAL_LICENSE,
-    "basis": "observed",
     "asserted": False,
 }
+# lovspor promotion.writer.ObservationsFile and its two kinds of version entry.
+OBSERVATIONS_KEYS = frozenset(
+    {"schema_version", "doc_id", "slug", "authority_id", "versions"}
+    | {"source_status", "excluded", "withdrawal"}
+)
+OBSERVED_VERSION_KEYS = frozenset(
+    {"version", "content_hash", "observed_at_first", "observed_at_last", "observation_count"}
+    | {"primary_url", "corroborating_urls", "source_sha256s", "promotion"}
+)
+RECEIVED_VERSION_KEYS = frozenset({"version", "content_hash", "received", "promotion"})
+RECEIVED_COPY_KEYS = frozenset({"received_at", "innsyn_request", "source_sha256", "received_form"})
 LOCAL_RECORD_FIELDS = (
     "doc_type",
     "source_dataset",
@@ -116,6 +157,8 @@ AUTHORITY_ID_PATTERN = {
 }
 LOCAL_ID_PATTERN = re.compile(r"^(lf-\d{8}-\d{4}|lk-(\d{4}|\d{2})-[0-9a-f]{12})$")
 NLOD_PATTERN = re.compile(r"nlod", re.IGNORECASE)
+# A current local record with its id: (doc_id, record).
+LocalEntry = tuple[str, dict]
 
 
 def load_manifest(path: Path) -> dict:
@@ -267,38 +310,221 @@ def authority_id_in(raw: str) -> str | None:
     return match.group(1) if match else None
 
 
+def basis_of(raw: dict[str, str]) -> object:
+    return scalar(raw.get("basis", "null"))
+
+
 def front_matter_problems(path: str, text: str, doc_id: str, record: dict) -> list[str]:
     parsed = parse_front_matter(text)
     if parsed is None:
         return [f"{path}: no front matter"]
     keys, raw = parsed
-    problems: list[str] = []
+    problems = key_problems(path, keys, raw)
+    problems.extend(fixed_value_problems(path, raw))
+    problems.extend(record_value_problems(path, raw, doc_id, record))
+    if basis_of(raw) == "received":
+        problems.extend(received_value_problems(path, raw, record))
+    return problems
 
-    missing = [k for k in LOCAL_FRONT_MATTER_KEYS if k not in raw]
+
+def key_problems(path: str, keys: list[str], raw: dict[str, str]) -> list[str]:
+    basis = basis_of(raw)
+    # An unknown basis is reported by fixed_value_problems; check the observed keys.
+    expected = FRONT_MATTER_KEYS.get(str(basis), OBSERVED_FRONT_MATTER_KEYS)
+    problems: list[str] = []
+    missing = [k for k in expected if k not in raw]
     if missing:
         problems.append(f"{path}: front matter missing {missing}")
-    elif [k for k in keys if k in LOCAL_FRONT_MATTER_KEYS] != list(LOCAL_FRONT_MATTER_KEYS):
+    elif [k for k in keys if k in expected] != list(expected):
         problems.append(f"{path}: front matter keys out of the fixed order")
+    foreign = [k for k in keys if k in CHANNEL_KEYS and k not in expected]
+    if foreign:
+        problems.append(f"{path}: front matter carries keys of another basis: {foreign}")
     forbidden = [k for k in LOCAL_FORBIDDEN_KEYS if k in raw]
     if forbidden:
         problems.append(f"{path}: front matter carries forbidden key(s) {forbidden}")
+    return problems
 
+
+def fixed_value_problems(path: str, raw: dict[str, str]) -> list[str]:
+    problems: list[str] = []
     for key, expected in LOCAL_FIXED_VALUES.items():
         if key in raw and scalar(raw[key]) != expected:
             shown = json.dumps(expected, ensure_ascii=False)
             problems.append(f"{path}: {key} must be {shown}")
+    if "basis" in raw and basis_of(raw) not in FRONT_MATTER_KEYS:
+        problems.append(f"{path}: basis must be one of {sorted(FRONT_MATTER_KEYS)}")
+    return problems
 
+
+def record_value_problems(path: str, raw: dict[str, str], doc_id: str, record: dict) -> list[str]:
     expected_values = {
         "id": doc_id,
         "slug": record.get("slug"),
         "content_hash": record.get("content_hash"),
         "version": record.get("version"),
     }
-    for key, expected in expected_values.items():
-        if key in raw and scalar(raw[key]) != expected:
-            problems.append(f"{path}: front matter {key} disagrees with the manifest")
+    problems = [
+        f"{path}: front matter {key} disagrees with the manifest"
+        for key, expected in expected_values.items()
+        if key in raw and scalar(raw[key]) != expected
+    ]
     if "authority" in raw and authority_id_in(raw["authority"]) != record.get("authority_id"):
         problems.append(f"{path}: front matter authority id disagrees with the manifest")
+    return problems
+
+
+def matches(value: object, pattern: re.Pattern[str], nullable: bool = False) -> bool:
+    if value is None:
+        return nullable
+    return isinstance(value, str) and pattern.match(value) is not None
+
+
+def received_value_problems(path: str, raw: dict[str, str], record: dict) -> list[str]:
+    patterns = (
+        ("received_at", UTC_INSTANT_PATTERN, False),
+        ("innsyn_request", REQUEST_ID_PATTERN, False),
+        ("innsyn_saksnummer", SAKSNUMMER_PATTERN, True),
+    )
+    problems = [
+        f"{path}: {key} is malformed"
+        for key, pattern, nullable in patterns
+        if key in raw and not matches(scalar(raw[key]), pattern, nullable)
+    ]
+    if "received_form" in raw and scalar(raw["received_form"]) not in RECEIVED_FORMS:
+        problems.append(f"{path}: received_form must be one of {list(RECEIVED_FORMS)}")
+    urls = [key for key, value in raw.items() if URL_PATTERN.search(value)]
+    if urls:
+        problems.append(f"{path}: received front matter carries a URL in {urls}")
+    received_at = scalar(raw.get("received_at", "null"))
+    if record.get("last_seen") != received_at:
+        problems.append(f"{path}: manifest last_seen must equal received_at {received_at}")
+    return problems
+
+
+def observations_path(markdown_path: str) -> str:
+    path = PurePosixPath(markdown_path)
+    return str(path.parent / "observations" / f"{path.stem}.json")
+
+
+def read_observations(where: str, file: Path) -> tuple[dict | None, list[str]]:
+    try:
+        document = json.loads(file.read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        return None, [f"{where} does not read as JSON: {exc}"]
+    if not isinstance(document, dict):
+        return None, [f"{where} is not a JSON object"]
+    return document, []
+
+
+def received_copy_ok(copy: object) -> bool:
+    return (
+        isinstance(copy, dict)
+        and set(copy) == RECEIVED_COPY_KEYS
+        and matches(copy["received_at"], UTC_INSTANT_PATTERN)
+        and matches(copy["innsyn_request"], REQUEST_ID_PATTERN)
+        and matches(copy["source_sha256"], SHA256_PATTERN)
+        and copy["received_form"] in RECEIVED_FORMS
+    )
+
+
+def version_entry_problems(where: str, entry: object) -> list[str]:
+    if not isinstance(entry, dict):
+        return [f"{where}: a version entry is not an object"]
+    channel = "received" if "received" in entry else "observed"
+    expected = RECEIVED_VERSION_KEYS if channel == "received" else OBSERVED_VERSION_KEYS
+    version = entry.get("version")
+    if set(entry) != expected:
+        return [f"{where}: version {version} keys must be {sorted(expected)} for a {channel} one"]
+    copies = entry.get("received")
+    if channel == "observed":
+        return []
+    if not isinstance(copies, list) or not copies:
+        return [f"{where}: version {version} has an empty received list"]
+    return [
+        f"{where}: version {version} has a malformed received copy"
+        for c in copies
+        if not received_copy_ok(c)
+    ]
+
+
+def schema_problems(where: str, document: dict) -> list[str]:
+    received = [isinstance(v, dict) and "received" in v for v in document["versions"]]
+    schema = 2 if any(received) else 1
+    problems: list[str] = []
+    if document.get("schema_version") != schema:
+        problems.append(
+            f"{where}: schema_version must be {schema}; 2 if and only if a version was received"
+        )
+    if all(received) and "source_status" in document:
+        problems.append(f"{where}: a file of received versions only carries no source_status")
+    if not all(received) and "source_status" not in document:
+        problems.append(f"{where}: source_status is required while a version was observed")
+    return problems
+
+
+def observations_file_problems(where: str, document: dict, entry: LocalEntry) -> list[str]:
+    doc_id, record = entry
+    problems: list[str] = []
+    unknown = sorted(set(document) - OBSERVATIONS_KEYS)
+    if unknown:
+        problems.append(f"{where}: unknown key(s) {unknown}")
+    for key, expected in (
+        ("doc_id", doc_id),
+        ("slug", record.get("slug")),
+        ("authority_id", record.get("authority_id")),
+    ):
+        if document.get(key) != expected:
+            problems.append(f"{where}: {key} disagrees with the manifest")
+    versions = document.get("versions")
+    if not isinstance(versions, list) or not versions:
+        return [*problems, f"{where}: no versions"]
+    for version in versions:
+        problems.extend(version_entry_problems(where, version))
+    return problems + schema_problems(where, document)
+
+
+def current_version_problems(
+    where: str, document: dict, raw: dict[str, str], version: object
+) -> list[str]:
+    versions = document.get("versions")
+    found = [v for v in versions or [] if isinstance(v, dict) and v.get("version") == version]
+    if not isinstance(versions, list) or not found:
+        return [f"{where}: no entry for version {version}"]
+    channel = "received" if "received" in found[0] else "observed"
+    basis = basis_of(raw)
+    if basis in FRONT_MATTER_KEYS and basis != channel:
+        return [f"{where}: version {version} was {channel}; its front matter says {basis}"]
+    copies = found[0].get("received")
+    if channel == "observed" or not isinstance(copies, list):
+        return []
+    received_at = scalar(raw.get("received_at", "null"))
+    if received_at in {c.get("received_at") for c in copies if isinstance(c, dict)}:
+        return []
+    return [f"{where} records no copy received at {received_at} for version {version}"]
+
+
+def channel_problems(root: Path, path: str, raw: dict[str, str], entry: LocalEntry) -> list[str]:
+    """The document's observations file, as its basis and its record require it."""
+    where = observations_path(path)
+    if not (root / where).is_file():
+        if basis_of(raw) == "received":
+            return [f"{path}: a received document has no observations file {where}"]
+        return []
+    document, problems = read_observations(where, root / where)
+    if document is None:
+        return problems
+    problems = observations_file_problems(where, document, entry)
+    return problems + current_version_problems(where, document, raw, entry[1].get("version"))
+
+
+def document_problems(root: Path, path: str, entry: LocalEntry) -> list[str]:
+    doc_id, record = entry
+    text = (root / path).read_text(encoding="utf-8")
+    problems = front_matter_problems(path, text, doc_id, record)
+    parsed = parse_front_matter(text)
+    if parsed is not None:
+        problems.extend(channel_problems(root, path, parsed[1], entry))
     return problems
 
 
@@ -373,8 +599,7 @@ def check_local(root: Path, central_ids: set[str]) -> list[str]:
     for doc_id, record in current.items():
         path = record.get("markdown_path")
         if path in on_disk:
-            text = (root / path).read_text(encoding="utf-8")
-            problems.extend(front_matter_problems(path, text, doc_id, record))
+            problems.extend(document_problems(root, path, (doc_id, record)))
     problems.extend(nlod_problems(root))
 
     print(
