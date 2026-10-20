@@ -1,0 +1,84 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "c246129f93ec4d3cda7f73c641619255dbd3f674f69079ca7ea8e6468e07dcaf",
+  "doc_id": "lf-20200215-0281",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2020-02-15",
+        "evidence": "trer i kraft 15. februar 2020",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2020-02-15"
+  },
+  "relations": [
+    {
+      "evidence": "Heimel: Fastsatt av Os, Røros og Holtålen kommuner 15. februar 2020 med hjemmel i lov 4. juli 2003 nr. 74 om hundehold (hundeloven) § 6 annet ledd bokstav f, jf. forskrift 22. februar 2017 nr. 223 om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag, forskrift 3. september 2015 nr. 1868 om båndtvang, Holtålen kommune, Trøndelag og forskrift 17. september 2015 nr. 1926 om sikring av hund og båndtvang etter hundeloven, Os kommune, Hedmark fylke.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "hundeloven-hul",
+        "dataset": "lover",
+        "doc_id": "nl-20030704-074"
+      },
+      "target_text": "lov 4. juli 2003 nr. 74",
+      "unresolved": null
+    },
+    {
+      "evidence": "Heimel: Fastsatt av Os, Røros og Holtålen kommuner 15. februar 2020 med hjemmel i lov 4. juli 2003 nr. 74 om hundehold (hundeloven) § 6 annet ledd bokstav f, jf. forskrift 22. februar 2017 nr. 223 om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag, forskrift 3. september 2015 nr. 1868 om båndtvang, Holtålen kommune, Trøndelag og forskrift 17. september 2015 nr. 1926 om sikring av hund og båndtvang etter hundeloven, Os kommune, Hedmark fylke.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "hundeloven-hul",
+        "dataset": "lover",
+        "doc_id": "nl-20030704-074"
+      },
+      "target_text": "hundeloven",
+      "unresolved": null
+    },
+    {
+      "evidence": "Heimel: Fastsatt av Os, Røros og Holtålen kommuner 15. februar 2020 med hjemmel i lov 4. juli 2003 nr. 74 om hundehold (hundeloven) § 6 annet ledd bokstav f, jf. forskrift 22. februar 2017 nr. 223 om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag, forskrift 3. september 2015 nr. 1868 om båndtvang, Holtålen kommune, Trøndelag og forskrift 17. september 2015 nr. 1926 om sikring av hund og båndtvang etter hundeloven, Os kommune, Hedmark fylke.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "forskrift 3. september 2015 nr. 1868",
+      "unresolved": "not_in_corpus"
+    },
+    {
+      "evidence": "Heimel: Fastsatt av Os, Røros og Holtålen kommuner 15. februar 2020 med hjemmel i lov 4. juli 2003 nr. 74 om hundehold (hundeloven) § 6 annet ledd bokstav f, jf. forskrift 22. februar 2017 nr. 223 om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag, forskrift 3. september 2015 nr. 1868 om båndtvang, Holtålen kommune, Trøndelag og forskrift 17. september 2015 nr. 1926 om sikring av hund og båndtvang etter hundeloven, Os kommune, Hedmark fylke.",
+      "kind": "hjemmel",
+      "target": null,
+      "target_text": "forskrift 17. september 2015 nr. 1926",
+      "unresolved": "not_in_corpus"
+    },
+    {
+      "evidence": "Heimel: Fastsatt av Os, Røros og Holtålen kommuner 15. februar 2020 med hjemmel i lov 4. juli 2003 nr. 74 om hundehold (hundeloven) § 6 annet ledd bokstav f, jf. forskrift 22. februar 2017 nr. 223 om adgang til å innføre ekstraordinær båndtvang for hund, Røros kommune, Sør-Trøndelag, forskrift 3. september 2015 nr. 1868 om båndtvang, Holtålen kommune, Trøndelag og forskrift 17. september 2015 nr. 1926 om sikring av hund og båndtvang etter hundeloven, Os kommune, Hedmark fylke.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "hundeloven-hul",
+        "dataset": "lover",
+        "doc_id": "nl-20030704-074"
+      },
+      "target_text": "hundeloven",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2020-02-15",
+        "evidence": "Fastsatt av Os, Røros og Holtålen kommuner 15. februar 2020",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2020-02-15"
+  },
+  "version": 1
+}

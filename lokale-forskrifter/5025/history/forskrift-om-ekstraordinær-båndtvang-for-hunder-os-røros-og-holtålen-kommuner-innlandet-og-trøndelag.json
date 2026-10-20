@@ -1,0 +1,17 @@
+{
+  "doc_id": "lf-20200215-0281",
+  "events": [
+    {
+      "commit": "26b4f09",
+      "date": "2026-10-20",
+      "from_path": null,
+      "lines_added": 65,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 5025/forskrift-om-ekstraordinær-båndtvang-for-hunder-os-røros-og-holtålen-kommuner-innlandet-og-trøndelag v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-ekstraordinær-båndtvang-for-hunder-os-røros-og-holtålen-kommuner-innlandet-og-trøndelag"
+}
