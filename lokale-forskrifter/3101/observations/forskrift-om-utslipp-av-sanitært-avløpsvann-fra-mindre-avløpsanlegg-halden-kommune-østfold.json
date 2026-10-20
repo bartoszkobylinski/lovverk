@@ -1,0 +1,45 @@
+{
+  "authority_id": "3101",
+  "doc_id": "lk-3101-29a6ff0ef722",
+  "schema_version": 2,
+  "slug": "forskrift-om-utslipp-av-sanitært-avløpsvann-fra-mindre-avløpsanlegg-halden-kommune-østfold",
+  "versions": [
+    {
+      "content_hash": "25a0e2ebf5fd9ccea4274681c872398506f200319ce4d58b988b2c7233c1cd7e",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-20T17:00:04.618698Z",
+        "decision": "approve",
+        "extractor_version": 9,
+        "identity": {
+          "candidates": [],
+          "doc_id": "lk-3101-29a6ff0ef722",
+          "ref_id": null,
+          "scheme": "lk"
+        },
+        "innsyn": {
+          "answers": "2025-10-30-2222",
+          "innsyn_request": "3101-20261020T001943Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-20T08:43:13Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-20T17:00:04.618698Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "3101-20261020T001943Z",
+          "received_at": "2026-10-20T08:43:13Z",
+          "received_form": "authority_original",
+          "source_sha256": "1f5256980da37c50248b87e81bf6d2830bf5818aae016f9e2056be00e3d7b02e"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}

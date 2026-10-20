@@ -1,0 +1,36 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "7704726061ca02d60444899ccb7022fd9139a47f460d92c20a48e230d1db7a42",
+  "doc_id": "lk-1848-42f3dbaa2550",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2023-11-10",
+        "evidence": "trer i kraft 10.11.2023",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2023-11-10"
+  },
+  "relations": [],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2023-12-13",
+        "evidence": "Fastsatt av Steigen kommunestyre 13.12.2023",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2023-12-13"
+  },
+  "version": 1
+}

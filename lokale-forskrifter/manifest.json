@@ -368,6 +368,38 @@
       "title": "Gebyrforskrift for plan-, bygge- og delesaksbehandling, eierseksjonering, oppmåling og utslipp, Røros kommune, Trøndelag",
       "version": 1
     },
+    "lk-1848-42f3dbaa2550": {
+      "authority_id": "1848",
+      "authority_type": "kommune",
+      "content_hash": "7704726061ca02d60444899ccb7022fd9139a47f460d92c20a48e230d1db7a42",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-20T08:31:31Z",
+      "markdown_path": "lokale-forskrifter/1848/forskrift-for-godtgjørelse-til-folkevalgte-steigen-kommune.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-for-godtgjørelse-til-folkevalgte-steigen-kommune",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift for godtgjørelse til folkevalgte, Steigen kommune",
+      "version": 1
+    },
+    "lk-3101-29a6ff0ef722": {
+      "authority_id": "3101",
+      "authority_type": "kommune",
+      "content_hash": "25a0e2ebf5fd9ccea4274681c872398506f200319ce4d58b988b2c7233c1cd7e",
+      "doc_type": "lokal-forskrift",
+      "extractor_version": 9,
+      "last_seen": "2026-10-20T08:43:13Z",
+      "markdown_path": "lokale-forskrifter/3101/forskrift-om-utslipp-av-sanitært-avløpsvann-fra-mindre-avløpsanlegg-halden-kommune-østfold.md",
+      "removed_reason": null,
+      "renderer_version": 1,
+      "slug": "forskrift-om-utslipp-av-sanitært-avløpsvann-fra-mindre-avløpsanlegg-halden-kommune-østfold",
+      "source_dataset": "lokale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om utslipp av sanitært avløpsvann fra mindre avløpsanlegg, Halden kommune, Østfold",
+      "version": 1
+    },
     "lk-3118-979d6fd0f42e": {
       "authority_id": "3118",
       "authority_type": "kommune",
@@ -433,6 +465,6 @@
       "version": 1
     }
   },
-  "generated_at": "2026-10-20T07:40:12.482835Z",
+  "generated_at": "2026-10-20T17:00:04.618698Z",
   "version": 1
 }
