@@ -69,10 +69,9 @@ Automated sync (ongoing since 2026-04-26):
 Repository initialised — 27aef25, 2026-04-22
 
 ## Unverified
-- README says `lokale-forskrifter/` "is currently an empty skeleton" and that local-regulation
-  promotion is "not yet built" — contradicted by PRs #12–#14 and by
-  `lokale-forskrifter/manifest.json` (3 current records at 987743f). Whether a README update is
-  planned is not recorded anywhere.
+- README's "empty skeleton" / "not yet built" sentences about `lokale-forskrifter/` were
+  corrected by hand on 2026-10-22 (lovspor #661 tracks regenerating the counts from the
+  manifests instead of editing them by hand).
 - First received regulation (ADR-0016 Amendment 1 "slice I4", named in issue #15) — the
   issue names it as the step that needs #15, but no issue, PR or date for it exists in this
   repository; the promotion itself is engine-side work.
