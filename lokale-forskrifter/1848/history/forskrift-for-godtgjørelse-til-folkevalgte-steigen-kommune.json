@@ -1,0 +1,17 @@
+{
+  "doc_id": "lk-1848-42f3dbaa2550",
+  "events": [
+    {
+      "commit": "c187285",
+      "date": "2026-10-20",
+      "from_path": null,
+      "lines_added": 133,
+      "lines_removed": 0,
+      "subject": "promote(lokal-forskrift): 1848/forskrift-for-godtgjørelse-til-folkevalgte-steigen-kommune v1, 3101/forskrift-om-utslipp-av-sanitært-avløpsvann-fra-mindre-avløpsanlegg-halden-kommune-østfold v1",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-for-godtgjørelse-til-folkevalgte-steigen-kommune"
+}

@@ -1,0 +1,59 @@
+{
+  "basis": "source_explicit",
+  "content_hash": "25a0e2ebf5fd9ccea4274681c872398506f200319ce4d58b988b2c7233c1cd7e",
+  "doc_id": "lk-3101-29a6ff0ef722",
+  "evidence_version": 1,
+  "ikraft": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": null,
+        "evidence": "trer i kraft straks",
+        "text": "straks"
+      }
+    ],
+    "status": "text",
+    "text": "straks",
+    "value": null
+  },
+  "relations": [
+    {
+      "evidence": "Vedtatt av kommunestyret i Halden kommune den 30.10.2025 med hjemmel i forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 12-6, jf. lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven § 9 jf.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "forurensningsforskriften",
+        "dataset": "forskrifter",
+        "doc_id": "sf-20040601-0931"
+      },
+      "target_text": "forskrift 1. juni 2004 nr. 931",
+      "unresolved": null
+    },
+    {
+      "evidence": "Vedtatt av kommunestyret i Halden kommune den 30.10.2025 med hjemmel i forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 12-6, jf. lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven § 9 jf.",
+      "kind": "hjemmel",
+      "target": {
+        "address": "forurensningsloven-forurl",
+        "dataset": "lover",
+        "doc_id": "nl-19810313-006"
+      },
+      "target_text": "forurensningsloven § 9",
+      "unresolved": null
+    }
+  ],
+  "reviewed": false,
+  "schema_version": 1,
+  "vedtatt": {
+    "hold_reason": null,
+    "statements": [
+      {
+        "date": "2025-10-30",
+        "evidence": "Vedtatt av kommunestyret i Halden kommune den 30.10.2025",
+        "text": null
+      }
+    ],
+    "status": "stated",
+    "text": null,
+    "value": "2025-10-30"
+  },
+  "version": 1
+}

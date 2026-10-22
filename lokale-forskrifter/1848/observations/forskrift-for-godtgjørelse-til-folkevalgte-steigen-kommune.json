@@ -1,0 +1,45 @@
+{
+  "authority_id": "1848",
+  "doc_id": "lk-1848-42f3dbaa2550",
+  "schema_version": 2,
+  "slug": "forskrift-for-godtgjørelse-til-folkevalgte-steigen-kommune",
+  "versions": [
+    {
+      "content_hash": "7704726061ca02d60444899ccb7022fd9139a47f460d92c20a48e230d1db7a42",
+      "promotion": {
+        "classifier": null,
+        "decided_at": "2026-10-20T17:00:03.683264Z",
+        "decision": "approve",
+        "extractor_version": 9,
+        "identity": {
+          "candidates": [],
+          "doc_id": "lk-1848-42f3dbaa2550",
+          "ref_id": null,
+          "scheme": "lk"
+        },
+        "innsyn": {
+          "answers": "2023-12-13-2447",
+          "innsyn_request": "1848-20261020T001632Z",
+          "kind": "regulation_text",
+          "received_at": "2026-10-20T08:31:31Z"
+        },
+        "observations": [],
+        "observations_through": "2026-10-20T17:00:03.683264Z",
+        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20).",
+        "renderer_version": 1,
+        "reviewed_by_role": "project owner",
+        "reviewed_in_sample": true,
+        "source_form": "pdf"
+      },
+      "received": [
+        {
+          "innsyn_request": "1848-20261020T001632Z",
+          "received_at": "2026-10-20T08:31:31Z",
+          "received_form": "authority_original",
+          "source_sha256": "238f9470034e3a6196ac316c49c9ecc284fba067c9e28002b84f1813fbdd0add"
+        }
+      ],
+      "version": 1
+    }
+  ]
+}
