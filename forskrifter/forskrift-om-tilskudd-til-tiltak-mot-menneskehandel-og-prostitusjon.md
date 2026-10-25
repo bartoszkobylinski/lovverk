@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2020-12-10"
-last_change_in_force: "2020-12-10"
+last_change_in_force: "2026-10-09"
 last_updated: null
-xml_hash: "d75046ee492f32c0489aca1d058a80e857e0d3ba99a98b508457a5832be2e110"
+xml_hash: "9b7cfd3ff668ad748a3b3f1ac2a9b42af8405126fa458ff8e5b731bbcc153cbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -67,17 +67,19 @@ En tilskuddsmottaker skal
 
 ## § 5. Krav om rapportering
 
-En tilskuddsmottaker skal innen 1. april året etter det året tilskuddet gjelder for, rapportere til Justis- og beredskapsdepartementet om hvordan tiltaket har bidratt til å fremme formålet med tilskuddet slik det er fastsatt i tilskuddsvedtaket. Dersom tilskuddet er 200 000 kroner eller mer skal tilskuddsmottaker
+En tilskuddsmottaker skal innen 1. april året etter det året tilskuddet gjelder for, rapportere til Sekretariatet for konfliktrådene om hvordan tiltaket har bidratt til å fremme formålet med tilskuddet slik det er fastsatt i tilskuddsvedtaket. Dersom tilskuddet er 200 000 kroner eller mer skal tilskuddsmottaker
 
 1. levere revisorbekreftet ordinært årsregnskap for organisasjonen
 2. synliggjøre det tildelte tilskuddet i en note i det ordinære årsregnskapet til organisasjonen
 3. levere en forenklet oversikt over regnskapet for bruken av tilskuddet.
 
-Justis- og beredskapsdepartementet kan utdype kravene og det kan fastsettes ytterligere rapporteringskrav i tilskuddsvedtaket.
+Sekretariatet for konfliktrådene kan utdype kravene og det kan fastsettes ytterligere rapporteringskrav i tilskuddsvedtaket.
+
+> Endret ved forskrift [9 okt 2026 nr. 2105](forskrift/2026-10-09-2105).
 
 ## § 6. Kravene til en søknad om tilskudd
 
-En søknad om tilskudd skal sendes elektronisk til Justis- og beredskapsdepartementet innen 1. desember året før tildelingsåret og være undertegnet av organisasjonens leder eller generalsekretær, eller den som har fullmakt. Søknaden skal
+En søknad om tilskudd skal sendes elektronisk til Sekretariatet for konfliktrådene innen 1. desember året før tildelingsåret og være undertegnet av organisasjonens leder eller generalsekretær, eller den som har fullmakt. Søknaden skal
 
 1. angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
 2. ha vedlagt årsberetning der dette er påkrevd, regnskap og vedtekter
@@ -88,25 +90,27 @@ En søknad om tilskudd skal sendes elektronisk til Justis- og beredskapsdepartem
 7. opplyse om eventuelle planer om å videreføre tiltaket
 8. angi muligheter for å koordinere med andre organisasjoner
 9. fremlegge budsjett for tiltaket
-10. angi om og eventuelt i hvilket år søkeren tidligere har mottatt tilskudd fra Justis- og beredskapsdepartementet eller underliggende organer
+10. angi om og eventuelt i hvilket år søkeren tidligere har mottatt tilskudd fra Sekretariatet for konfliktrådene eller underliggende organer
 11. angi beløpet det søkes om
 12. oppgi søkerens egenandel
 13. oppgi hvilke beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilder
 14. redegjøre for inntektsgivende aktiviteter søkeren måtte ha.
 
+> Endret ved forskrift [9 okt 2026 nr. 2105](forskrift/2026-10-09-2105).
+
 ## § 7. Søknadsbehandlingen
 
-Justis- og beredskapsdepartementet kan i tillegg til opplysningene nevnt i [§ 6](forskrift/2020-12-10-2675/§6)
+Sekretariatet for konfliktrådene kan i tillegg til opplysningene nevnt i [§ 6](forskrift/2020-12-10-2675/§6)
 
 1. kreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknaden
 2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
 3. avholde befaring som er nødvendig for å vurdere søknaden og kreve at søkeren i nødvendig utstrekning medvirker til befaringen
 
-> Endret ved forskrift [10 des 2020 nr. 2983](forskrift/2020-12-10-2983).
+> Endret ved forskrifter [10 des 2020 nr. 2983](forskrift/2020-12-10-2983), [9 okt 2026 nr. 2105](forskrift/2026-10-09-2105).
 
 ## § 8. Hvordan søknaden blir vurdert
 
-Justis- og beredskapsdepartementet tildeler tilskudd for ett år av gangen etter en skjønnsmessig vurdering av i hvilken grad formålet det er søkt om tilskudd til kan bidra til å oppfylle formålet med tilskuddsordningen.
+Sekretariatet for konfliktrådene tildeler tilskudd for ett år av gangen etter en skjønnsmessig vurdering av i hvilken grad formålet det er søkt om tilskudd til kan bidra til å oppfylle formålet med tilskuddsordningen.
 
 Samarbeidstiltak der flere organisasjoner deltar, vil bli prioritert.
 
@@ -114,13 +118,17 @@ Søkere som er registrert i Frivillighetsregisteret vil som hovedregel bli prior
 
 Dersom det er tildelt tilskudd for det første året av et flerårig prosjekt, vil søknader for prosjektets påfølgende år som hovedregel bli prioritert, med forbehold om Stortingets bevilgning.
 
+> Endret ved forskrift [9 okt 2026 nr. 2105](forskrift/2026-10-09-2105).
+
 ## § 9. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Justis- og beredskapsdepartementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+Sekretariatet for konfliktrådene kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
 
 1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
 2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
 3. besiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
+
+> Endret ved forskrift [9 okt 2026 nr. 2105](forskrift/2026-10-09-2105).
 
 ## § 10. Stans og tilbakebetaling
 
