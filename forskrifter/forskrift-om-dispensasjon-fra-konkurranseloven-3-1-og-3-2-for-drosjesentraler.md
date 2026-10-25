@@ -1,21 +1,21 @@
 ---
 id: "sf-20021018-1165"
-slug: "forskr-om-konkurransedisp-drosjesentraler"
+slug: "forskrift-om-dispensasjon-fra-konkurranseloven-3-1-og-3-2-for-drosjesentraler"
 type: "forskrift"
 ref_id: "forskrift/2002-10-18-1165"
 title: "Forskrift om dispensasjon fra konkurranseloven § 3-1 og § 3-2 for drosjesentraler."
-short_title: "Forskr. om konkurransedisp., drosjesentraler"
+short_title: null
 language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2002-11-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "341451e8b563f7db66529261f9bf8e525039b4919b7b110b262338975ff11d67"
+xml_hash: "8d14bd5453ef7cce1feab2c7469a00cf694b09e7d02d3bb7a12d1738c5f07efd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
