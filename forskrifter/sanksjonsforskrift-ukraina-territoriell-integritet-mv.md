@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Utenriksdepartementet"
 date_in_force: "2014-08-15"
-last_change_in_force: "2026-08-14"
+last_change_in_force: "2026-10-21"
 last_updated: "2026-08-11"
-xml_hash: "e6eeebb7a16e7e48ed4f8c47ad4d58bee48fd5bb4cd15b2ebc29c84442e1729a"
+xml_hash: "faae8ac0debaa826b7eba9680b6c03896d416cd1e17f619a15319bed4060b524"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-17T08:29:12.672271+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -292,6 +292,11 @@ Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for ekspor
 1. dette er nødvendig for å gjøre det mulig for Gas Industry Insurance Company SOGAZ, AlfaStrakhovanie Group, Insurance Joint Stock Company ‘VSK’ og Limited Liability Company Soglasie Insurance Company, å betale en enhet som er etablert i Norge, et land som er medlem av Det europeiske økonomiske samarbeidsområde eller Sveits, eller en borger eller en person bosatt i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde eller i Sveits, og
 2. en slik betaling utgjør den godtgjøring eller fordelen som skal ytes etter en inntruffet forsikringssak, og ikke er i strid med [§ 3 annet ledd](forskrift/2014-08-15-1076/§3/ledd/2).
 
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører fysiske eller juridiske personer oppført i vedlegg I i henhold til [§ 3](forskrift/2014-08-15-1076/§3) tredje ledd bokstav k, eller til å stille visse penger eller formuesgoder til rådighet for disse fysiske eller juridiske personene, etter å ha slått fast at
+
+1. frigivelse eller tilgjengeliggjøring av penger eller formuesgoder er nødvendig for å muliggjøre en betaling som skal utføres av disse fysiske eller juridiske personene oppført i vedlegg I i henhold til [§ 3](forskrift/2014-08-15-1076/§3) tredje ledd bokstav k, eller av en forsikringsgiver som følge av en risiko som disse fysiske eller juridiske personene er ansvarlig for, til en juridisk person etablert i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, i Sveits eller i et partnerland oppført i vedlegg VIII til forordning [(EU) nr. 833/2014](eu/32014r0833), eller til en statsborger eller person bosatt i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, i Sveits eller i et partnerland oppført i vedlegg VIII til forordning [(EU) nr. 833/2014](eu/32014r0833), og som ikke er oppført i vedlegg I, og
+2. en slik betaling utgjør den godtgjøring eller fordelen som skal ytes etter en inntruffet forsikringssak, og som disse fysiske eller juridiske personene oppført i vedlegg I i henhold til [§ 3](forskrift/2014-08-15-1076/§3) tredje ledd bokstav k, er ansvarlig for.
+
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, tillate at visse frosne penger eller formuesgoder frigis, eller at visse penger eller formuesgoder stilles til rådighet for Arkady ROTENBERG, Gennady TIMCHENKO, Alexander PUMPYANSKY, Andrey MELNICHENKO, Viktor RASHNIKOV og Boris ROTENBERG, som oppført i vedlegg I, etter å ha slått fast at
 
 1. pengene eller formuesgodene er nødvendige for salg og overføring innen 3. september 2025 av eiendomsrettigheter som direkte eller indirekte eies av en av disse personene i juridiske personer, som er etablert i Norge eller en EU-medlemsstat, og
@@ -328,7 +333,21 @@ Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for ekspor
 
 Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til å frigi visse frosne penger som tilhører Nayara Energy Limited, eller at visse formuesgoder stilles til rådighet for enheten, etter å ha slått fast at disse pengene og formuesgodene er strengt nødvendige for å legge til rette for en betydelig reduksjon i forbruket eller avhengigheten av import av russisk råolje, og forutsatt at frigivelsen av penger eller tilgjengeliggjøringen av formuesgoder er avsluttet innen 14. januar 2027.
 
-> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse til å frigi visse frosne penger eller formuesgoder som tilhører Yangzhou Yangjie Electronic Technology Co., Ltd., eller til å stille visse penger eller formuesgoder til rådighet for denne juridiske personen, etter å ha slått fast at pengene eller formuesgodene er strengt nødvendige for
+
+1. før 8. mai 2027 å avslutte operasjoner, kontrakter eller andre avtaler som er inngått med Yangzhou Yangjie Electronic Technology Co., Ltd. innen 23. april 2026 og forutsatt at pengene eller formuesgodene er frigitt eller stilt til rådighet senest 8. mai 2027, eller
+2. å gjøre det mulig for industrien å kjøpe kritiske komponenter fremstilt av, og å foreta tilsvarende betalinger til, den aktuelle juridiske personen med henblikk på å muliggjøre en overgang til alternative forsyningskilder, forutsatt at frigivelsen eller tilgjengeliggjøringen av pengene eller formuesgodene avsluttes senest 16. mars 2027.
+
+Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for eksportkontroll og sanksjoner, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til
+
+1. avhending eller overføring av aksjer, deltakerinteresser eller andre egenkapitalinstrumenter foretatt av en kredittinstitusjon etablert i Norge eller EU til en juridisk person etablert i Norge eller EU, som i forkant av overføringen direkte eller indirekte er minoritetseid av Petr Olegovich AVEN, som oppført i vedlegg I, dersom overføringen ville føre til en økning av Petr Olegovich AVEN sine aksjeandeler i den aktuelle juridiske personen, etter å ha slått fast at avhendingen eller overføringen skjer på grunnlag av en kontraktsfestet salgsopsjon behørig utøvd før 28. februar 2022, men som ennå ikke er effektuert på datoen for ikrafttredelse av dette unntaket, forutsatt at Petr Olegovich AVEN sine aksjer eller deltakerinteresser, herunder slike som skyldes en økning i hans aksjeandeler etter overføringen, fryses,
+2. frigivelse av visse frosne penger eller formuesgoder, eller tilgjengeliggjøring av visse penger eller formuesgoder som tilhører, eies, innehas eller kontrolleres, direkte eller indirekte av Petr Olegovich AVEN, som oppført i vedlegg I, eller av en juridisk person som direkte eller indirekte eies, kontrolleres eller deles av denne personen, eller penger eller formuesgoder som eies, innehas eller kontrolleres av personer i Alfa-Bank JSC eller AlfaStrakhovanie Group, som oppført i vedlegg I, etter å ha slått fast at
+
+   1. frigivelse eller tilgjengeliggjøring av penger eller formuesgoder gjennomføres utelukkende for å sette motparten i stand til å oppfylle en betalingsforpliktelse overfor en kredittinstitusjon etablert i Norge eller EU i samsvar med en kontraktsfestet salgsopsjon behørig utøvd før 28. februar 2022, men som ennå ikke er effektuert på datoen for ikrafttredelse av dette unntaket,
+   2. de frigitte eller tilgjengeliggjorte pengene eller formuesgodene overføres direkte til kredittinstitusjonen som er etablert i Norge eller EU for å innfri denne kontraktsforpliktelsen, og
+   3. kredittinstitusjonen som er etablert i Norge eller EU, og som vederlaget utbetales til, ikke er en fysisk eller juridisk person oppført i vedlegg I.
+
+> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 6c. Unntak for humanitære formål
 
@@ -368,6 +387,22 @@ Som unntak fra [§ 3](forskrift/2014-08-15-1076/§3) kan Direktoratet for ekspor
 [§ 3](forskrift/2014-08-15-1076/§3) får ikke anvendelse for penger eller formuesgoder som kreves for yting av lostjenester som er nødvendige av hensyn til sikkerheten til sjøs.
 
 > Tilføyd ved forskrift [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), endret ved forskrift [19 mars 2024 nr. 534](forskrift/2024-03-19-534).
+
+### § 6h. Unntak fra § 3 for JSC Russian Railways’ jernbanetransport
+
+[§ 3 første ledd](forskrift/2014-08-15-1076/§3/ledd/1) får ikke anvendelse på JSC Russian Railways’ penger eller formuesgoder som er nødvendige for JSC Russian Railways’ jernbanetransport av varer eller personer eller for levering av tilhørende jernbaneinfrastruktur mellom Russland og EU eller Norge, i transitt gjennom EU eller Norge, mellom Kaliningrad oblast og Russland eller innenfor Russland, eller på JSC Russian Railways’ penger eller formuesgoder som er nødvendige for yting av tjenester knyttet til denne jernbanetransportens drift, vedlikehold eller sikkerhet.
+
+[§ 3 andre ledd](forskrift/2014-08-15-1076/§3/ledd/2) får ikke anvendelse på penger eller formuesgoder som stilles til rådighet for JSC Russian Railways som er nødvendige for JSC Russian Railways’ jernbanetransport av varer eller personer eller for levering av tilhørende jernbaneinfrastruktur mellom Russland og EU eller Norge, i transitt gjennom EU eller Norge, mellom Kaliningrad oblast og Russland eller innenfor Russland, eller på penger eller formuesgoder som stilles til rådighet for JSC Russian Railways som er nødvendige for yting av tjenester knyttet til denne jernbanetransportens drift, vedlikehold eller sikkerhet.
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
+
+### § 6i. Unntak fra § 3 for visse betalinger mv. knyttet til Paks II-prosjektet
+
+[§ 3](forskrift/2014-08-15-1076/§3) får ikke anvendelse på penger eller formuesgoder som tilhører, eies, innehas eller kontrolleres av Upravlyayushchaya Kompaniya UZTM KARTEKS, Uralmashplant JSC og P.G. Korobkov IZ-KARTEX LLC, som oppført i [vedlegg I](forskrift/2014-08-15-1076/vedleggI), eller på penger eller formuesgoder som direkte eller indirekte stilles til rådighet for eller til fordel for disse juridiske personene, forutsatt at pengene eller formuesgodene er strengt nødvendige i forbindelse med Paks II-prosjektet for aktiviteter som er nødvendige for etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, oppføring og idriftsettelse som kreves for å ferdigstille sivile atomanlegg i nevnte prosjekt.
+
+Juridiske personer som stiller penger eller formuesgoder til rådighet for de juridiske personene nevnt i første ledd, skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver aktivitet som innebærer at penger eller formuesgoder brukes eller stilles til rådighet, senest to uker etter at aktiviteten er påbegynt.
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 7. Overføringer til frosne konti
 
@@ -586,7 +621,7 @@ Med mindre det ellers er forbudt, gjelder forbudet i første ledd ikke:
 2. med mindre det er forbudt i henhold til [§ 17j](forskrift/2014-08-15-1076/§17j) eller [§ 17k](forskrift/2014-08-15-1076/§17k), transaksjoner som er strengt nødvendige for direkte eller indirekte kjøp, import eller transport av olje, herunder raffinerte petroleumsprodukter, fra eller gjennom Russland
 3. transaksjoner knyttet til energiprosjekter utenfor Russland der en juridisk person oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX) er en mindretallsaksjeeier,
 4. – – –
-5. transaksjoner, herunder salg, som er strengt nødvendige for avvikling innen 31. desember 2026 av et fellesforetak eller et lignende juridisk arrangement som er inngått før 25. mars 2022, og som involverer en juridisk person omhandlet i første ledd,
+5. transaksjoner, herunder salg, som er strengt nødvendige for avvikling innen 31. desember 2027 av et fellesforetak eller et lignende juridisk arrangement som er inngått før 25. mars 2022, og som involverer en juridisk person omhandlet i første ledd,
 6. transaksjoner knyttet til levering av elektroniske kommunikasjonstjenester, datasentertjenester og tjenester og utstyr som er nødvendig for deres drift, vedlikehold, sikkerhet, herunder brannmurer, samt telefonsentertjenester, til juridiske personer oppført i [vedlegg XIX](forskrift/2014-08-15-1076/vedleggXIX).
 7. transaksjoner som er nødvendige for kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer, herunder hvete og gjødsel som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften,
 8. transaksjoner som er strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene i denne forskriften,
@@ -596,9 +631,9 @@ Unntakene i dette leddets bokstav a og aa får ikke anvendelse på Rosneft, bort
 
 Unntakene i dette leddets bokstav a, aa og b får ikke anvendelse på Gazprom Neft.
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for avhending og tilbaketrekking av de juridiske personene nevnt i første ledd eller deres datterselskaper i EU innen 31. desember 2026 fra juridiske personer som er etablert i Norge eller EU.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for avhending og tilbaketrekking av de juridiske personene nevnt i første ledd eller deres datterselskaper i Norge eller EU innen 31. desember 2027 fra juridiske personer som er etablert i Norge eller EU.
 
-> Tilføyd ved forskrift [24 mars 2022 nr. 448](forskrift/2022-03-24-448), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
+> Tilføyd ved forskrift [24 mars 2022 nr. 448](forskrift/2022-03-24-448), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8cb. Forbud mot å la russiske statsborgere mv. inneha stillinger i visse styrende organer
 
@@ -656,7 +691,17 @@ Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner gi 
 2. transaksjoner som er strengt nødvendige for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland innen 17. desember 2025, som var dekket av eksportkredittgarantier fra Norge eller en medlemsstat i EU, eller
 3. oppfyllelse av kontrakter innen 17. desember 2025 eller kontraktenes utløpsdato, avhengig av hva som inntreffer først, for mottakere i Norge eller EU, såfremt kontraktene er inngått før 18. juni 2025.
 
-> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for pengeuttak eller avslutning av kontoer som eies eller innehas av statsborgere i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller av fysiske personer med midlertidig eller fast oppholdstillatelse i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, hos juridiske personer oppført i [vedlegg XLIV](forskrift/2014-08-15-1076/vedleggXLIV) som ble oppført i nevnte vedlegg 21. oktober 2026 eller senere, og etter å ha slått fast at:
+
+1. transaksjonen er nødvendig for at den fysiske personen skal kunne avslutte operasjoner, kontrakter eller andre avtaler som er inngått med juridiske personer oppført i [vedlegg XLIV](forskrift/2014-08-15-1076/vedleggXLIV),
+2. det er søkt om tillatelse senest tre måneder etter anvendelsesdatoen som er angitt i vedlegg XLIV for den relevante juridiske personen oppført i vedlegget,
+3. pengene overføres til en finans- eller kredittinstitusjon som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning, eller til en finans- eller kredittinstitusjon som er stiftet i henhold til lovgivningen i et tredjeland og som eies eller kontrolleres av en finans- eller kredittinstitusjon som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning.
+
+Alle tillatelser som gis i henhold til dette leddet skal ha en gyldighetsperiode på maksimalt tre måneder.
+
+Som unntak fra annet ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til gjennomføring av transaksjoner med CJSC Alfa-Bank (Belarus), som oppført i [vedlegg XLIV](forskrift/2014-08-15-1076/vedleggXLIV), etter å ha slått fast at gjennomføringen av transaksjonen er nødvendig for betaling av et vederlag til en kredittinstitusjon etablert i Norge eller EU, foretatt på grunnlag av en kontraktsfestet salgsopsjon behørig utøvd før 28. februar 2022.
+
+> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8ce. Forbud mot å delta i transaksjoner med visse kreditt- eller finansinstitusjoner mv.
 
@@ -695,9 +740,17 @@ Forbudet i første ledd gjelder ikke transaksjoner som er
 4. nødvendige for oppfyllelse innen 27. september 2026 av kontrakter inngått før 28. mars 2026 med Payeer, CJSB JSCB Tolubay, OJSC Eurasian Savings Bank, CJSC Dushanbe City Bank, CJSC Spitamen Bank (Tajikistan) eller OJSC Commerce Bank of Tajikistan, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter,
 5. nødvendige for mottak av betalinger som skal foretas av juridiske personer som er oppført i del A i vedlegg XLV ved forordning [(EU) 2025/2033](eu/32025r2033) i henhold til kontrakter som er gjennomført innen 28. mars 2026.
 
-> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for pengeuttak eller avslutning av kontoer som eies eller innehas av statsborgere i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller av fysiske personer med midlertidig eller fast oppholdstillatelse i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, hos juridiske personer oppført i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV) som ble oppført i nevnte vedlegg 21. oktober 2026 eller senere, og etter å ha slått fast at:
 
-### § 8cf. Forbud mot å delta i transaksjoner med visse havner og sluser eller flyplasser
+1. transaksjonen er nødvendig for at den fysiske personen skal kunne avslutte operasjoner, kontrakter eller andre avtaler som er inngått med juridiske personer oppført i [vedlegg XLV](forskrift/2014-08-15-1076/vedleggXLV),
+2. det er søkt om tillatelse senest tre måneder etter anvendelsesdatoen som er angitt i vedlegg XLV for den relevante juridiske personer oppført i vedlegget,
+3. pengene overføres til en finans- eller kredittinstitusjon som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning, eller til en finans- eller kredittinstitusjon som er stiftet i henhold til lovgivningen i et tredjeland og som eies eller kontrolleres av en finans- eller kredittinstitusjon som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning.
+
+Alle tillatelser som gis i henhold til dette leddet skal ha en gyldighetsperiode på maksimalt tre måneder.
+
+> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
+
+### § 8cf. Forbud mot å delta i transaksjoner med visse havner og sluser, flyplasser og raffinerier
 
 Det er forbudt direkte eller indirekte å delta i transaksjoner med havner og sluser oppført i del A og C i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII). Del A i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter havner og sluser i Russland, og del C i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter havner og sluser i andre tredjeland enn Russland, som brukes:
 
@@ -713,6 +766,11 @@ Det er forbudt direkte eller indirekte å delta i transaksjoner med lufthavner o
 2. til transport av varer og teknologi som brukes i forsvars- og sikkerhetssektoren, fra eller til Russland, til bruk i Russland eller til Russlands krigføring i Ukraina,
 3. til transport av varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina, eller
 4. på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften.
+
+Det er forbudt direkte eller indirekte å delta i transaksjoner med raffinerier oppført i del D i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII). Del D i [vedlegg XLVII](forskrift/2014-08-15-1076/vedleggXLVII) omfatter raffinerier i Russland og andre tredjeland enn Russland som brukes:
+
+1. til bearbeiding eller raffinering av råolje eller bearbeiding eller blanding av petroleumsprodukter som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV), eller av mineralprodukter som har opprinnelse i Russland, eller
+2. på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften.
 
 Første ledd gjelder ikke
 
@@ -735,9 +793,9 @@ Andre ledd gjelder ikke transaksjoner som er strengt nødvendige for
 6. kjøp, import eller transport av legemidler, medisinske produkter, landbruksprodukter og matvarer som det er tillatt å importere, kjøpe og transportere i henhold til denne forskriften, eller
 7. etablering, drift, vedlikehold, forsyning og opparbeiding av brensel samt sikkerhet knyttet til sivile kjernefysiske kapasiteter, og fortsatt design, bygging og idriftsettelse som kreves for å ferdigstille sivile atomanlegg.
 
-Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver transaksjon som er gjennomført i henhold til tredje eller fjerde ledd, innen to uker etter at transaksjonen er gjennomført.
+Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver transaksjon som er gjennomført i henhold til fjerde eller femte ledd, innen to uker etter at transaksjonen er gjennomført.
 
-> Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), endret ved forskrifter [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), endret ved forskrifter [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8cg. Forbud mot å delta i transaksjoner i forbindelse med ferdigstillelse, drift mv. av Nord Stream og Nord Stream 2
 
@@ -745,7 +803,7 @@ Det er forbudt direkte eller indirekte å delta i transaksjoner i forbindelse me
 
 Forbudene i første ledd gjelder ikke transaksjoner som er strengt nødvendige for omgående hindring eller begrensning av en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet, sjøtransport eller miljøet, eller som respons ved naturkatastrofer.
 
-Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra første ledd og gi tillatelse til transaksjoner som er strengt nødvendige for
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra første ledd og gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for
 
 1. avvikling eller omstrukturering av juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2 der dette er nødvendig for å sikre at naturgassrørledningene Nord Stream og Nord Stream 2 ikke vil bli brukt,
 2. å kreve kompensasjon, tilbakebetalinger eller andre midler fra fysiske eller juridiske personer i forbindelse med naturgassrørledningene Nord Stream og Nord Stream 2,
@@ -755,7 +813,7 @@ Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra første led
 
 Operatører skal underrette Direktoratet for eksportkontroll og sanksjoner om enhver transaksjon som er gjennomført i henhold til andre ledd innen to uker etter at den er gjennomført.
 
-> Tilføyd ved forskrift [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130).
+> Tilføyd ved forskrift [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), endret ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8ch. Forbud mot å delta i transaksjoner med Det russiske fond for direkteinvesteringer mv.
 
@@ -819,15 +877,15 @@ Det er forbudt å motta innskudd fra russiske statsborgere eller fysiske persone
 
 Det er forbudt direkte eller indirekte å yte følgende tjenester til russiske statsborgere eller fysiske personer bosatt i Russland, eller juridiske personer som er etablert i Russland:
 
-1. kryptoeiendelstjenester som definert i forordning [(EU) 2023/1114](eu/32023r1114),
+1. kryptoeiendelstjenester som definert i forordning [(EU) 2023/1114](eu/32023r1114), som gjennomført i [kryptoeiendelsloven](lov/2025-05-27-20).
 2. utstedelse av betalingsinstrumenter, innløsning av betalingstransaksjoner eller betalingsfullmakttjenester, som definert i direktiv [(EU) 2015/2366](eu/32015l2366),
 3. utstedelse av elektroniske penger, som definert [finansforetaksloven § 2-4](lov/2015-04-10-17/§2-4).
 
-Fra og med 19. april 2024 er det forbudt å tillate russiske borgere eller fysiske personer som bor i Russland, direkte eller indirekte å eie eller kontrollere eller å inneha stillinger i styrende organer i juridiske personer, som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, og som yter kryptoeiendelstjenester i form av lommebøker, kontoer eller oppbevaringstjenester.
+Fra og med 19. april 2024 er det forbudt å tillate russiske statsborgere eller fysiske personer som bor i Russland, direkte eller indirekte å eie, kontrollere eller inneha stillinger i styrende organene i juridiske personer som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning, og som yter kryptoeiendelstjenester i form av lommebøker, kontoer eller oppbevaringstjenester. Fra og med 22. november 2026 skal forbudet også gjelde for juridiske personer som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning, og som yter andre kryptoeiendelstjenester som definert i forordning [(EU) 2023/1114](eu/32023r1114), som gjennomført i [kryptoeiendelsloven](lov/2025-05-27-20).
 
 Første, annet og tredje ledd gjelder ikke statsborgere i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller fysiske personer med midlertidig eller fast oppholdstillatelse i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområdet, eller i Sveits.
 
-> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
+> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8da. Forbud mot å delta i transaksjoner med visse kryptoeiendeler
 
@@ -837,7 +895,7 @@ Det er forbudt direkte eller indirekte å delta i transaksjoner som involverer k
 
 ### § 8db. Forbud mot å delta i transaksjoner med leverandører av kryptoeiendelstjenester mv.
 
-Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som er en enhet som leverer kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i Russland.
+Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som er en enhet som yter kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i Russland.
 
 Forbudet i første ledd gjelder ikke transaksjoner som
 
@@ -848,7 +906,17 @@ Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner p
 
 Forbudet i første ledd gjelder fra 14. august 2026.
 
-> Tilføyd ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), endret ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
+
+### § 8dc. Forbud mot å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester mv. etablert i visse tredjeland
+
+Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i et tredjeland oppført i vedlegg LVII.
+
+Vedlegg LVII omfatter tredjeland som av Rådet anses for systematisk og vedvarende å ha unnlatt å hindre yting av kryptoeiendelstjenester, eller å hindre at plattformer utveksler eller overfører kryptoeiendeler i strid med bestemmelsene i denne forskriften.
+
+Forbudet i første ledd gjelder ikke transaksjoner gjennomført av statsborgere i Norge eller i en EU-medlemsstat som er bosatt i et land oppført i vedlegg LVII, og som var dette før den aktuelle datoen som er angitt i vedlegget.
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8e. Unntak fra § 8d for visse nødvendige utgifter mv.
 
@@ -936,7 +1004,9 @@ Første ledd gjelder bare for
 
 Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate at enheter som nevnt i annet ledd bokstav b og c, tar imot gaver, økonomiske fordeler eller økonomisk støtte, herunder i form av finansiering og finansiell bistand, forutsatt at slikt mottak ikke på noen måte påvirker de demokratiske prosessene i Norge eller EU, eller undergraver deres demokratiske grunnlag, herunder gjennom påvirkningskampanjer og fremme av desinformasjon, med sikte på å undergrave Ukrainas territoriale integritet, suverenitet og uavhengighet og gjennom propagandaaksjoner til støtte for Russlands militære aggresjon mot Ukraina.
 
-> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate at European X-Ray Free-Electron Laser Facility (EuXFEL), Facility for Antiproton and Ion Research in Europe (FAIR) og European Synchrotron Radiation Facility (ESRF) tar imot gaver, økonomiske fordeler eller økonomisk støtte, herunder finansiering og finansiell bistand, forutsatt at slike gaver, økonomiske fordeler eller økonomisk støtte, herunder finansiering og finansiell bistand, er basert på internasjonale avtaler med Den russiske føderasjons regjering.
+
+> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8j. Forbud mot offentlig finansiering eller finansiell bistand til handel med eller investeringer i Russland samt investering mv. i prosjekter som samfinansieres av det russiske fondet for direkteinvestering
 
@@ -968,7 +1038,7 @@ Forbudet i første ledd gjelder ikke transaksjoner som er
 4. strengt nødvendige for å sikre tilgang til rettslige, administrative eller voldgiftsmessige prosedyrer i Norge eller en medlemsstat i EU, eller for anerkjennelse eller fullbyrdelse av en dom eller en voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, forutsatt at slike transaksjoner er i samsvar med formålene for denne forskriften,
 5. nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer, forflytning av humanitære hjelpearbeidere og tilhørende bistand, eller evakuering,
 6. nødvendige for mottak av betalinger fra juridiske personer oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV) i henhold til kontrakter og forpliktelser som er gjennomført innen 14. juli 2026,
-7. nødvendige for gjennomføring av tillatelser gitt av Direktoratet for eksportkontroll og sanksjoner i henhold til § 6b tyvende ledd eller av en kompetent myndighet i en EU- medlemsstat i henhold til artikkel 6b nr. 5j i forordning [(EU) 269/2014](eu/32014r0269),
+7. nødvendige for gjennomføring av tillatelser gitt av Direktoratet for eksportkontroll og sanksjoner i henhold til § 6b tjueførste ledd eller av en kompetent myndighet i en EU-medlemsstat i henhold til artikkel 6b nr. 5j i forordning [(EU) 269/2014](eu/32014r0269).
 8. nødvendige for programmer i Norge eller EU for historisk ansvar og støtte til Norges eller EU-medlemsstaters etniske minoriteter i Russland,
 9. strengt nødvendige for betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
 10. nødvendige for statsfinansierte mellomliggende organisasjoners behov i forbindelse med Norges eller EUs-medlemsstaters utenlandske kulturpolitikk i Russland.
@@ -982,7 +1052,15 @@ Som unntak fra bestemmelsene i første ledd kan Direktoratet for eksportkontroll
 
 Forbudet i første ledd gjelder for hver av de juridiske personene som er oppført i vedlegg XV, fra og med den datoen som er oppført for dem i det nevnte vedlegget. Forbudet gjelder fra og med den samme datoen for juridiske personer som er etablert i Russland, og hvis eiendomsrettigheter direkte eller indirekte er mer enn 50 % eid av en enhet oppført i [vedlegg XV](forskrift/2014-08-15-1076/vedleggXV).
 
-> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse, på de vilkårene direktoratet finner hensiktsmessige, til transaksjoner som er strengt nødvendige for pengeuttak eller avslutning av kontoer som eies eller innehas av statsborgere i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, eller av fysiske personer med midlertidig eller fast oppholdstillatelse i Norge, i et land som er medlem av Det europeiske økonomiske samarbeidsområde, eller i Sveits, hos juridiske personer oppført i vedlegg XV som ble oppført i nevnte vedlegg 21. oktober 2026 eller senere, og etter å ha slått fast at:
+
+1. transaksjonen er nødvendig for at den fysiske personen skal kunne avslutte operasjoner, kontrakter eller andre avtaler som er inngått med juridiske personer oppført i vedlegg XV,
+2. det er søkt om tillatelse senest tre måneder etter anvendelsesdatoen som er angitt i vedlegg XV for den relevante juridiske personen oppført i vedlegget,
+3. pengene overføres til en finans- eller kredittinstitusjon som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning, eller til en finans- eller kredittinstitusjon som er stiftet i henhold til lovgivningen i et tredjeland og som eies eller kontrolleres av en finans- eller kredittinstitusjon som er stiftet eller etablert i henhold til Norges eller en EU-medlemsstats lovgivning.
+
+Alle tillatelser som gis i henhold til dette leddet skal ha en gyldighetsperiode på maksimalt tre måneder.
+
+> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 8l. Forbud mot å selge, levere, overføre eller eksportere pengesedler i norske kroner eller en EU-medlemsstats offisielle valuta
 
@@ -1447,7 +1525,7 @@ Uten at det berører kravene til tillatelse for eksport av flerbruksvarer og fle
 2. beregnet på mellomstatlig samarbeid innenfor romprogrammer,
 3. beregnet på drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
 4. beregnet på maritim sikkerhet,
-5. beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.
+5. beregnet til sivile elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %,
 6. beregnet utelukkende til bruk for enheter som eies, eller som utelukkende eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller EUs lovgivning,
 7. beregnet på Norges eller EUs diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,
 8. beregnet på sikring av cybersikkerhet og informasjonssikkerhet for fysiske og juridiske personer i Russland som eies utelukkende eller i felleskap kontrolleres av juridiske personer som er stiftet eller etablert i henhold til lovgivningen i Norge eller en EU-medlemsstat,
@@ -1467,7 +1545,7 @@ Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søkna
 
 Direktoratet for eksportkontroll og sanksjoner kan oppheve, suspendere, endre eller tilbakekalle en tillatelse gitt i medhold av fjerde eller femte ledd, dersom direktoratet finner at slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forskriften.
 
-> Endret ved forskrifter [14 april 2015 nr. 376](forskrift/2015-04-14-376), [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Endret ved forskrifter [14 april 2015 nr. 376](forskrift/2015-04-14-376), [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 16a. Forbud mot eksport av varer og teknologi som oppført i vedlegg IX
 
@@ -1498,7 +1576,7 @@ Direktoratet for eksportkontroll og sanksjoner kan gi unntak fra første og fjer
 2. beregnet på mellomstatlig samarbeid innenfor romprogrammer,
 3. beregnet på drift, vedlikehold, opparbeiding av brensel og sikkerhet knyttet til sivile kjernefysiske kapasiteter, samt sivilt atomsamarbeid, særlig innenfor forskning og utvikling,
 4. beregnet på maritim sikkerhet,
-5. beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.
+5. beregnet til sivile elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %,
 6. beregnet utelukkende til bruk for enheter som eies, eller som utelukkende eller i fellesskap kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller EUs lovgivning,
 7. beregnet på Norges eller EUs diplomatiske representasjoner, herunder delegasjoner, ambassader og stasjoner,
 8. beregnet på sikring av cybersikkerhet og informasjonssikkerhet for juridiske personer i Russland som eies, eller som utelukkende eller i felleskap kontrolleres av juridiske personer som er stiftet eller etablert i henhold til lovgivningen i Norge eller en EU-medlemsstat,
@@ -1519,7 +1597,7 @@ Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søkna
 
 Direktoratet for eksportkontroll og sanksjoner kan oppheve, suspendere, endre eller tilbakekalle en tillatelse gitt i medhold av syvende eller niende ledd, dersom Direktoratet for eksportkontroll og sanksjoner finner at slik oppheving, suspensjon, endring eller tilbakekalling er nødvendig for en effektiv gjennomføring av denne forskriften.
 
-> Tilføyd ved [forskrift 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), endret ved forskrifter [14 april 2015 nr. 376](forskrift/2015-04-14-376), [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved [forskrift 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), endret ved forskrifter [14 april 2015 nr. 376](forskrift/2015-04-14-376), [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 16aa. Forbud mot eksport mv. av skytevåpen
 
@@ -1698,15 +1776,42 @@ Første ledd gjelder fra 1. januar 2027 dersom kjøpet, importen eller overføri
 
 Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand eller andre tjenester tilknyttet forbudet i første ledd.
 
-> Tilføyd ved forskrift [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
+Forbudene i første, andre og tredje ledd gjelder ikke transport med fartøy, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene oppført i del B i [vedlegg XXIX](forskrift/2014-08-15-1076/vedleggXXIX) til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget.
+
+Uten at det berører fjerde ledd, gjelder ikke første ledd før 25. juli 2027 for overføringer, og hvis relevant, kjøp i forbindelse med de aktuelle overføringene til tredjeland når både overføringen og kjøpet gjennomføres i henhold til kontrakter inngått før 24. februar 2022, der kontrakten har en varighet på mer enn ett år, og der kontrakten ikke har blitt endret i ettertid, med mindre endringen er begrenset til:
+
+1. reduksjon av avtalte mengder,
+2. for kjøpskontrakter, reduksjon av priser og gebyrer,
+3. endring av konfidensialitetsklausuler,
+4. endring av operative prosedyrer, som for eksempel kommunikasjonsprosedyrer,
+5. endring av kontraktspartenes adresser,
+6. overføring av kontraktsmessige forpliktelser mellom tilknyttede virksomheter,
+7. endringer som kreves som følge av rettslige eller voldgiftsmessige prosedyrer, eller
+8. for kjøpskontrakter, for kystløse land, endringer mellom nasjonale leveringssteder.
+
+Unntaket som fastsatt i dette leddet, skal i et gitt år bare få anvendelse opp til det årlige volumet av LNG med opprinnelse i, eller eksportert fra, Russland som i 2025 ble overført av fysiske eller juridiske personer i henhold til de vedkommende personenes eksisterende langsiktige kontrakter, som nevnt i dette leddet, uavhengig av bestemmelsessted.
+
+Innen 22. november 2026 og deretter hver tredje måned skal fysiske eller juridiske personer som overfører eller kjøper LNG med opprinnelse i Russland eller som er eksportert fra Russland til tredjeland, rapportere minst følgende opplysninger om hver enkelt last, i den utstrekning opplysningene er tilgjengelige, til Direktoratet for eksportkontroll og sanksjoner:
+
+1. lastens referansenummer eller konossementsnummer,
+2. fartøyets IMO-nummer, navn, flaggstat og transportørtype,
+3. dato, havn og terminal for lasting og lossing,
+4. endelig bestemmelsessted,
+5. mengde som lastes og losses,
+6. kontraktens varighet,
+7. kontraktsverdi per last og bruttofortjeneste for hver forsendelse,
+8. navn på kjøper og endelig mottaker,
+9. navn på selger og avsender.
+
+> Tilføyd ved forskrift [27 mars 2026 nr. 535](forskrift/2026-03-27-535), endret ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17af. Forbud mot å levere LNG-terminaltjenester
 
-Fra 1. januar 2027 er det forbudt direkte eller indirekte å levere LNG-terminaltjenester til fysiske eller juridiske personer i Russland, eller til juridiske personer som er etablert i Norge eller EU, som er mer enn 50 % eid eller kontrollert av en russisk statsborger eller en juridisk person i Russland.
+Fra 1. januar 2027 er det forbudt direkte eller indirekte å levere LNG-terminaltjenester til fysiske eller juridiske personer i Russland, eller til juridiske personer som er mer enn 50 % eid eller direkte eller indirekte kontrollert av en russisk statsborger eller en juridisk person i Russland.
 
 Det er forbudt å opprettholde kontrakter om forbudte LNG-tjenester i henhold til denne paragrafen etter 1. januar 2027.
 
-> Tilføyd ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), endret ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17b. Forbud mot eksport av varer til bruk i oljeraffinering som oppført i vedlegg XI
 
@@ -1880,7 +1985,7 @@ Som unntak fra første og annet ledd kan Direktoratet for eksportkontroll og san
 
 Som unntak fra forbudet i første ledd kan Direktoratet for eksportkontroll og sanksjoner gi tillatelse til import av følgende mengder av varer som hører inn under KN-kode 7601:
 
-1. 10 185 tonn mellom 18. juni 2025 og 19. juni 2026,
+1. – – –
 2. 1 852 tonn mellom 18. juni 2026 og 23. april 2027, for oppfyllelse av kontrakter inngått før 18. juni 2025, eller tilknyttede kontrakter som er nødvendig for oppfyllelse av slike kontrakter.
 
 Forbudene i første og andre ledd gjelder ikke kjøp eller transport eller tilknyttet faglig eller finansiell bistand som er nødvendig for import til Norge i henhold til syvende ledd eller for import til EU i henhold til rådsforordning [(EU) nr. 833/2014](eu/32014r0833/a3) artikkel 3 i nr. 3cg og 3ch.
@@ -1908,15 +2013,15 @@ Forbudet i første ledd gjelder ikke innførsel av kjøretøy som hører inn und
 
 Forbudet i første ledd skal ikke hindre kjøretøyer som allerede befinner seg på Norges territorium 19. desember 2023, i å bli registrert i Norge.
 
-Med hensyn til varer som hører inn under KN-kode 2901 10 00, gjelder forbudene i første og andre ledd ikke oppfyllelse innen 29. juni 2026 av kontrakter inngått før 28. mars 2026, eller tilknyttede kontrakter som er nødvendig for oppfyllelse av slike kontrakter.
-
-Fra 26. januar 2026 til 25. juli 2026 gjelder ikke forbudene i første og andre ledd kjøp eller import til Ungarn av varer som hører inn under KN-kode 2901 10 00 som har opprinnelse i Russland eller er eksportert fra Russland, forutsatt at varene utelukkende er ment til bruk i Ungarn.
+Fra 26. januar 2026 til 30. mars 2027 gjelder ikke forbudene i første og andre ledd kjøp eller import til Ungarn av varer som hører inn under KN-kode 2901 10 00 som har opprinnelse i Russland eller er eksportert fra Russland, forutsatt at varene utelukkende er ment til bruk i Ungarn.
 
 Varer som hører inn under KN-kode 2901 10 00, og som importeres til Ungarn i henhold til unntaket i attende ledd, skal ikke selges videre til kjøpere i andre land.
 
 Med hensyn til varer som hører inn under KN-kode 2501, 2517, 2519, 2522, 2530, 2601, 2619, 2620, 2621, 2804 61, 2804 69, 2815, 2816, 2825 20, 2833, 2849, 2910, 2916, 2926, 4016, 4302, 7110 11, 7110 19, 7110 31, 7110 39, 7110 41, 7110 49, 7204, 7401, 7402, 7403 (unntatt 7403 19), 7404, 7406, 7503, 7504, 7505, 7602, 7603, 7610, 7612, 8102, 8104 og 8105, gjelder forbudene i første og andre ledd ikke oppfyllelse innen 15. oktober 2026 av kontrakter inngått før 14. juli 2026, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
 Med hensyn til varer som hører inn under KN-kode 7403 19, gjelder forbudene i første og andre ledd ikke oppfyllelse innen 15. april 2027 av kontrakter som er inngått før 14. juli 2026, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+
+Med hensyn til varer som hører inn under KN-kode 2603, 2604, 2607, 2616, 2817, 2819, 3803, 7001, 7002, 7003, 7004, 7006, 7008, 7009, 7011, 7013, 7014, 7015, 7016, 7017, 7018, 7020, 7901, 8707 og 8708, gjelder forbudene i første og andre ledd ikke oppfyllelse innen 22. januar 2027 av kontrakter som er inngått før 21. oktober 2026, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter. 20
 
 Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner tillate kjøp, import eller overføring av varer som hører inn under KN-kode 7007, 7019, 8424 10 00, 8479, 8481, 8483, 8487, 8504, 8516 29 91, 8517, 8525, 8531, 8536, 8537, 8538, 8539, 8542, 8543 og 8603, som oppført i vedlegg XXI, eller yting av tilknyttet faglig og finansiell bistand, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for drift, vedlikehold eller reparasjon av t-banevognene til linje 3 i Budapest som ble levert i 2018, for å oppfylle livstidsgarantien som ble gitt av Metrowagonmash før 24. juni 2023.
 
@@ -1928,7 +2033,9 @@ Fra 14. juli 2026 skal forbudene i første og andre ledd ikke gjelde import, kj�
 
 Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, innen 15. juli 2031, tillate kjøp, import eller overføring av varer som hører inn under KN-kode 7007, 7019, 8471, 8479, 8481, 8482, 8483, 8487, 8504, 8517, 8523, 8525, 8531, 8536, 8537, 8538, 8539, 8542, 8543, 8603, 9030, 9031, 9032 og 9405 som oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) eller levering av tilknyttet faglig og finansiell bistand på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at dette er nødvendig for drift, vedlikehold eller reparasjon av t-banevogner til linjene 1, 2 og 4 i Sofia som ble produsert og levert før 2017.
 
-> Tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [29 sep 2023 nr. 1521](forskrift/2023-09-29-1521) (i kraft 3 okt 2023), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [19 april 2024 nr. 642](forskrift/2024-04-19-642), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Med hensyn til varer som hører inn under KN-kode 2603, 2604, 2607, 2616, 2817, 2819, 3803, 7001, 7002, 7003, 7004, 7006, 7008, 7009, 7011, 7013, 7014, 7015, 7016, 7017, 7018, 7020, 7901, 8707 og 8708, gjelder forbudene i første og andre ledd ikke oppfyllelse innen 22. januar 2027 av kontrakter som er inngått før 21. oktober 2026, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
+
+> Tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [29 sep 2023 nr. 1521](forskrift/2023-09-29-1521) (i kraft 3 okt 2023), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [19 april 2024 nr. 642](forskrift/2024-04-19-642), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17h. Opphevet
 
@@ -1948,8 +2055,6 @@ Det er forbudt
 2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første og tredje ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 3. direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi nevnt i første og tredje ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i Russland eller til bruk i Russland.
 
-Med hensyn til varer som hører inn under KN-kode 6902 og KN-kode 6909 19, gjelder forbudene i første og tredje ledd ikke oppfyllelse innen 27. september 2026 av kontrakter inngått før 28. mars 2026 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter.
-
 Med hensyn til varer som hører inn under KN-kodene som er oppført i [vedlegg XXIIIH](forskrift/2014-08-15-1076/vedleggXXIIIH), gjelder forbudene i første og fjerde ledd ikke oppfyllelse innen 15. oktober 2026 av kontrakter inngått før 14. juli 2026 eller av tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
 Forbudene nevnt i første og fjerde ledd gjelder ikke varer som er nødvendige for offisielle formål på Norges eller EU-medlemsstatenes utenriksstasjoner i Russland eller i internasjonale organisasjoner som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige eiendeler.
@@ -1968,7 +2073,7 @@ Direktoratet for eksportkontroll og sanksjoner kan, på de vilkårene Direktorat
 2. kraner og ventiler som hører inn under KN-kode 8481 80 og som er beregnet på VVS- eller klimaanlegg,
 3. rør og rørdeler av kobber som hører inn under KN-kode 7411 eller 7412, og som har en innvendig diameter på opptil 50 mm, eller
 4. varer som hører inn under KN-kode 7007 19 80.
-5. varer som hører inn under KN-kode 7615 10, KN-kode 8414 60, KN-kode 8422 30 og KN-kode 8423 10,
+5. varer som hører inn under KN-kode 7615 10, KN-kode 8414 51, KN-kode 8414 60, KN-kode 8422 30 og KN-kode 8423 10,
 6. varer som hører inn under KN-kode 3916 20 når det er strengt nødvendig for salg av PVC-gulv eller vinduer.
 7. varer som hører inn under KN-kode 3920 43 10 99, 3925 90 10, 3925 90 80 00 eller 8302 41 50, og som er strengt nødvendige for salg av vinduer.
 
@@ -1978,13 +2083,13 @@ Som unntak fra første, tredje og fjerde ledd kan Direktoratet for eksportkontro
 
 Som unntak fra andre ledd kan Direktoratet for eksportkontroll og sanksjoner tillate transitt via Russlands territorium av varer og teknologi som særlig kan bidra til å styrke Russlands industrielle kapasitet, som oppført i [vedlegg XXXVII](forskrift/2014-08-15-1076/vedleggXXXVII), etter å ha slått fast at slike varer eller teknologi er beregnet på formålene angitt i åttende og tiende ledd.
 
-Som unntak fra første og tredje ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som hører inn under KN-kode 3917, 8421, 8471, 8523, 8536 og 8544, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at disse varene eller ytingen av tilknyttet faglig eller finansiell bistand er nødvendig for vedlikehold eller reparasjon av medisinsk utstyr.
+Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate salg, levering, overføring eller eksport av varer og teknologi som hører inn under KN-kode 3917, 8421, 8471, 8523, 8536 og 8544, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at disse varene eller ytingen av tilknyttet faglig eller finansiell bistand er nødvendig for vedlikehold eller reparasjon av medisinsk utstyr.
 
-Som unntak fra første og tredje ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate eksport og overføring av varer som hører inn under KN-kode 8414 90 og 9026, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), og som per 3. oktober 2024 fysisk befinner seg i Norge for vedlikehold eller reparasjon, eller yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, eller finansiering eller finansiell bistand, etter å ha slått fast at dette er strengt nødvendig for driften av Sakhalin-2-prosjektet (Cахалин-2) for å sikre Japans energisikkerhet.
+Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, tillate eksport og overføring av varer som hører inn under KN-kode 8414 90 og 9026, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), og som per 3. oktober 2024 fysisk befinner seg i Norge for vedlikehold eller reparasjon, eller yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, eller finansiering eller finansiell bistand, etter å ha slått fast at dette er strengt nødvendig for driften av Sakhalin-2-prosjektet (Cахалин-2) for å sikre Japans energisikkerhet.
 
 Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til eksport av varer som hører inn under KN-kode 9026, 9027 og 9031, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), og som det tidligere er gitt tillatelse til å importere i henhold til [§ 17g](forskrift/2014-08-15-1076/§17g) enogtyvende ledd.
 
-Som unntak fra første og tredje ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, gi tillatelse til eksport og overføring av varer som hører inn under KN-kode 8517 62 og 8523 52, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), forutsatt at de er beregnet til sivile, ikke-offentlig tilgjengelige elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.
+Som unntak fra første og fjerde ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse til eksport og overføring av varer som hører inn under KN-kode 8517 62 og 8523 52, som oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII), forutsatt at de er beregnet til sivile elektroniske kommunikasjonsnett som ikke eies av en enhet som er kontrollert av staten, eller der staten eier over 50 %.
 
 Direktoratet for eksportkontroll og sanksjoner kan, på de vilkårene direktoratet finner hensiktsmessige, gi tillatelse til salg, levering, overføring eller eksport av varer som hører inn under KN-kode 8422 30, eller yting av tilknyttet faglig eller finansiell bistand, etter å ha slått fast at slike varer eller yting av tilknyttet faglig eller finansiell bistand er nødvendig for emballasje til næringsmidler, drikkevarer og legemidler.
 
@@ -1996,7 +2101,7 @@ Når Direktoratet for eksportkontroll og sanksjoner treffer beslutning om søkna
 
 Med hensyn til varene som hører inn under KN-kode 271019 (herunder maritim diesel) oppført i [vedlegg XXIII](forskrift/2014-08-15-1076/vedleggXXIII) del B gjelder forbudene i første ledd ikke for salg, leveranse, overføring eller eksport til fiskefartøy i havn som er unntatt fra havneforbudet i [§ 19a fjerde ledd](forskrift/2014-08-15-1076/§19a/ledd/4) og for fartøy i havn på Svalbard så lenge dette er til fartøyets egen bruk.
 
-> Tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [9 des 2023 nr. 1991](forskrift/2023-12-09-1991), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [9 des 2023 nr. 1991](forskrift/2023-12-09-1991), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17j. Forbud mot kjøp, import mv. av råolje eller petroleumsprodukter
 
@@ -2055,7 +2160,13 @@ Fra og med 25. februar 2025 kan de kompetente myndighetene i Slovakia og Ungarn,
 
 Forbudene i første ledd gjelder ikke kjøp i Russland av varer oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggxxv) som er nødvendige for å dekke kjøperens grunnleggende behov i Russland eller humanitære prosjekters grunnleggende behov i Russland.
 
-> Tilføyd ved forskrift [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Som unntak fra første og andre ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse til kjøp, import eller overføring av råolje eller petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) med opprinnelse i eller som eksporteres fra Russland, samt yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand eller andre relaterte tjenester, etter å ha fastslått at:
+
+1. varene er beslaglagt eller inndratt av en myndighet i Norge eller en EU-medlemsstat under nasjonale forvaltningssaker eller rettsprosesser,
+2. varene forblir under effektiv kontroll av myndighetene i Norge eller en EU-medlemsstat eller en enhet som handler på vegne av disse myndighetene i den perioden varene er under forvaring, forvaltning eller lagring, fram til et eventuelt salg,
+3. virksomheten nevnt i bokstav b verken direkte eller indirekte medfører betaling til, eller at penger eller formuesgoder stilles til rådighet eller fordel for russiske fysiske eller juridiske personer, eller juridiske personer etablert i Russland.
+
+> Tilføyd ved forskrift [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17ja. Forbud mot kjøp, import mv. av petroleumsprodukter fra tredjeland av råolje med opprinnelse i Russland
 
@@ -2063,7 +2174,13 @@ Fra og med 2. mai 2026 er det forbudt direkte eller indirekte å kjøpe, importe
 
 Det er forbudt direkte eller indirekte å yte faglig bistand, formidlingstjenester, finansiering eller finansiell bistand samt forsikring og gjenforsikring knyttet til forbudet i første ledd.
 
-> Tilføyd ved forskrift [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130).
+Direktoratet for eksportkontroll og sanksjoner kan, på vilkår direktoratet finner hensiktsmessige, gi importører tillatelse til ikke å framlegge dokumentasjon på opprinnelseslandet til råoljen som brukes til raffinering av produktet i et tredjeland, som nevnt i første ledd andre setning, etter å ha slått fast at
+
+1. de aktuelle petroleumsproduktene er beregnet til forsyning til en avsidesliggende region som definert i [artikkel 349 i traktaten om Den europeiske unions virkemåte](eu/12016e/a349) eller ikke-europeiske land eller territorier som opprettholder særlige forbindelser med EU som definert i [artikkel 198](eu/12016e/a198) i nevnte traktat,
+2. det på grunn av de spesifikke geografiske, logistiske eller leveringsmessige begrensningene som gjelder for disse regionene, landene eller territoriene, er dokumentert risiko for avbrudd eller alvorlige forstyrrelser i forsyningen av petroleumsprodukter, og
+3. det ikke finnes alternative kilder som kan sikre kontinuiteten i forsyningen til de aktuelle regionene, landene eller territoriene på økonomisk og logistisk bærekraftige vilkår.
+
+> Tilføyd ved forskrift [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), endret ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17k. Forbud mot å yte faglig bistand mv. som gjelder transport til tredjeland av råolje eller petroleumsprodukter
 
@@ -2096,7 +2213,7 @@ Ved anvendelse av fjerde ledd og sjette ledd bokstav a når det gjelder russisk 
 Forbudene i første og fjerde ledd gjelder ikke
 
 1. råolje eller petroleumsprodukter som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier,
-2. transport, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene nevnt i vedlegg XXIX til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget.
+2. transport, faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til slik transport, av produktene nevnt i del A i [vedlegg XXIX](forskrift/2014-08-15-1076/vedleggXXIX) til tredjeland oppført i vedlegget, i den perioden som er angitt i vedlegget.
 
 Fra 1. januar 2027 får forbudene i første og fjerde ledd anvendelse på kondensater av naturgass som hører inn under KN kode 2709 00 10 fra anlegg for produksjon av flytende naturgass.
 
@@ -2104,7 +2221,7 @@ Dersom et fartøy, etter ikrafttredelsen av en beslutning fra Utenriksdepartemen
 
 Forbudene i første og fjerde ledd gjelder ikke for transport eller yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til transport som er nødvendig for omgående å hindre eller begrense en hendelse som kan få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer, forutsatt at Direktoratet for eksportkontroll og sanksjoner umiddelbart ble varslet så snart hendelsen ble oppdaget.
 
-> Tilføyd ved forskrift [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [7 des 2022 nr. 2100](forskrift/2022-12-07-2100), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [7 feb 2023 nr. 181](forskrift/2023-02-07-181), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), endret ved forskrifter [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [7 des 2022 nr. 2100](forskrift/2022-12-07-2100), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [7 feb 2023 nr. 181](forskrift/2023-02-07-181), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17ka. Forbud mot kortvarig lagring mv. av råolje eller petroleumsprodukter
 
@@ -2116,7 +2233,12 @@ Forbudet i første ledd gjelder ikke dersom unntakene i [§ 17j fjerde ledd boks
 
 Forbudet i første ledd gjelder ikke råolje og petroleumsprodukter oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV) som transporteres til sjøs, dersom disse varene har opprinnelse i et tredjeland og kun lastes i, sendes fra eller er i transitt gjennom Russland, forutsatt at varene verken har russisk opprinnelse eller eier.
 
-> Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), endret ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, på de vilkår direktoratet finner hensiktsmessige, gi tillatelse til kortvarig lagring av råolje eller petroleumsprodukter, som oppført i [vedlegg XXV](forskrift/2014-08-15-1076/vedleggXXV), på norsk eller EUs territorium, og plassering av slike varer under prosedyren frisone i henhold til [vareførselsloven § 4-5](lov/2022-03-11-9/§4-5), dersom varene har opprinnelse i eller eksporteres fra Russland, etter å ha fastslått at:
+
+1. de berørte varene er beslaglagt eller inndratt av en myndighet i Norge eller en EU-medlemsstat under nasjonale forvaltningssaker eller rettsprosesser,
+2. de berørte varene er under effektiv kontroll av myndighetene i Norge eller en EU-medlemsstat eller en enhet som handler på vegne av disse myndighetene.
+
+> Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), endret ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17l. Forbud mot kjøp, import mv. av gull
 
@@ -2195,6 +2317,19 @@ Ethvert salg eller enhver annen ordning som medfører overføring av eierskap so
 2. forplikter kjøperen av tankskipet ved ytterligere videresalg eller overføring til å innta skriftlige kontraktsbestemmelser som tilsvarer de som kreves etter femte ledd og dette leddet.
 
 > Tilføyd ved forskrift [19 mars 2024 nr. 534](forskrift/2024-03-19-534), endret ved forskrifter [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+
+### § 17na. Meldeplikt ved salg av LNG-tankskip
+
+Ethvert salg eller enhver annen ordning som medfører overføring av eierskap, fra en norsk statsborger, en fysisk person som bor i Norge, eller en juridisk person som er etablert i Norge, til et tredjeland, av LNG-tankskip som hører inn under KN-kode ex 8901 20, skal umiddelbart meldes til Direktoratet for eksportkontroll og sanksjoner.
+
+Meldingen til Direktoratet for eksportkontroll og sanksjoner skal minst inneholde følgende opplysninger:
+
+1. selgerens og kjøperens identitet,
+2. der det er aktuelt, selgerens og kjøperens stiftelsesdokumenter, herunder aksjeinnehav og ledelse,
+3. tankskipets identifikasjonsnummer i IMO og
+4. tankskipets kallesignal.
+
+> Tilføyd [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 17o. Forbud mot å kjøpe, importere, eksportere mv. ukrainske kulturgjenstander og visse andre varer
 
@@ -2327,7 +2462,9 @@ Når det gjelder fartøy oppført i [vedlegg XLII](forskrift/2014-08-15-1076/ved
 4. brukes på en slik måte at de bidrar til eller støtter handlinger eller politikk som undergraver eller truer Ukrainas økonomiske grunnlag eller mattrygghet, som transport av stjålet ukrainsk korn, eller bevaring av Ukrainas kulturarv, som transport av stjålne ukrainske kulturgjenstander,
 5. transporterer varer som har opprinnelse i eller er eksportert fra EU, og som er oppført i [vedlegg XII](forskrift/2014-08-15-1076/vedleggXII), [XX](forskrift/2014-08-15-1076/vedleggXX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) til denne forskriften, eller varer som har opprinnelse i Russland eller er eksportert fra Russland og importert til EU, og som er oppført i [vedlegg XXI](forskrift/2014-08-15-1076/vedleggXXI) til denne forskriften, og derved muliggjør Russlands handlinger som destabiliserer situasjonen i Ukraina,
 6. brukes på en måte som letter eller medvirker til overtredelse eller omgåelse eller på annen måte vesentlig motvirker bestemmelsene i denne forskriften, eller
-7. eies, chartres eller drives av fysiske eller juridiske personer oppført i vedlegg I til denne forskriften, brukes på annen måte i slike personers navn eller på slike personers vegne, i forbindelse med dem eller til fordel for dem.
+7. eies, chartres eller drives av fysiske eller juridiske personer oppført i vedlegg I til denne forskriften, brukes på annen måte i slike personers navn eller på slike personers vegne, i forbindelse med dem eller til fordel for dem,
+8. yter tjenester til fartøy som er oppført i henhold til bokstav a til g, som for eksempel bunkrings- og slepetjenester, eller
+9. gjennomfører skip-til-skip-overføringer med fartøy som er oppført i henhold til bokstav a til h.
 
 Første ledd får ikke anvendelse på et fartøy som oppført i [vedlegg XLII](forskrift/2014-08-15-1076/vedleggXLII), som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet eller for å redde liv til sjøs, av humanitære årsaker, eller for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller for miljøet, eller som respons ved naturkatastrofer, eller for å sikre anerkjennelse eller fullbyrdelse av en dom eller voldgiftskjennelse avsagt i Norge eller en medlemsstat i EU, eller med hensyn til etterforskning av overtredelser av bestemmelsene i denne forskriften eller av annen ulovlig virksomhet.
 
@@ -2336,7 +2473,7 @@ Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner g
 1. fartøyet er beregnet for opphugging, og
 2. den aktuelle aktiviteten er nødvendig for at fartøyet kan seile til opphuggingsanlegget, for eventuelle relevante aktiviteter på opphuggingsanlegget i forbindelse med fartøyet eller for betalinger i forbindelse med opphuggingen.
 
-> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 19ad. Forbud mot å yte visse tjenester til isbrytere og LNG-tankskip
 
@@ -2390,7 +2527,7 @@ Det er forbudt direkte eller indirekte å yte følgende tjenester til Russlands 
 8. høytytende databehandling, herunder tilgang til Graphic Processing Unit-akselerert databehandling eller kvantedatabehandlingstjenester.
 9. administrerte sikkerhetstjenester
 
-Det er forbudt å yte tjenester direkte knyttet til turistvirksomhet i Russland.
+Det er forbudt å yte tjenester direkte knyttet til turistvirksomhet i Russland. Forbudet i dette leddet gjelder ikke levering av edb-baserte reservasjonssystemer som definert i europaparlaments- og rådsforordning [(EF) nr. 80/2009](eu/32009r0080) eller etterfølgende forordninger som erstatter den.
 
 Det er forbudt direkte eller indirekte å selge, levere, overføre, eksportere eller stille til rådighet programvare for foretaksledelse, programvare for industridesign og produksjon samt programvare med visse bruksområder i bank- og finanssektoren, som oppført i [vedlegg XXXIX](forskrift/2014-08-15-1076/vedleggXXXIX), til Russlands regjering eller juridiske personer etablert i Russland.
 
@@ -2442,29 +2579,29 @@ Som unntak fra første, tredje og fjerde ledd kan Direktoratet for eksportkontro
 
 Forbudet i tredje ledd gjelder ikke levering av programvare med visse bruksområder i bank- og finanssektoren som oppført i [vedlegg XXXIX](forskrift/2014-08-15-1076/vedleggXXXIX) som er nødvendig for oppfyllelse innen 9. januar 2026 av kontrakter inngått før 29. oktober 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av slike kontrakter.
 
-> Tilføyd ved forskrift [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), endret ved forskrifter [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [7 mars 2025 nr. 439](forskrift/2025-03-07-439), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [27 mai 2026 nr. 938](forskrift/2026-05-27-938).
+> Tilføyd ved forskrift [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), endret ved forskrifter [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [30 jan 2023 nr. 180](forskrift/2023-01-30-180), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [7 mars 2025 nr. 439](forskrift/2025-03-07-439), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [27 mai 2026 nr. 938](forskrift/2026-05-27-938), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 19d. Unntak fra import- og eksportforbud
 
-Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) og [§ 17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner fram til 4. juni 2027 tillate salg, levering eller overføring av varer og teknologier oppført i vedlegg IV, IX, XI, XII, XVI, XVIII, XX og XXIII og i «Liste II – flerbruksvarer» i [vedlegg II](forskrift/2013-06-19-718/vedleggII) til [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718), samt salg, lisensiering eller overføring på annen måte av immaterialrettigheter eller forretningshemmeligheter samt innvilgning av rett til adgang til eller gjenbruk av materiale eller opplysninger som er beskyttet av immaterialrettigheter eller består av forretningshemmeligheter, i tilknytning til varene og teknologien nevnt over, dersom salget, leveringen, overføringen, lisensieringen eller innvilgningen av rett til adgang eller gjenbruk er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
+Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) og [§ 17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner fram til 31. desember 2027 tillate salg, levering eller overføring av varer og teknologier oppført i vedlegg IV, IX, XI, XII, XVI, XVIII, XX og XXIII til denne forordningen og i «Liste II – flerbruksvarer» i [vedlegg II til forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718/vedleggII), samt salg, lisensiering eller overføring på annen måte av immaterialrettigheter eller forretningshemmeligheter samt innvilgning av rett til adgang til eller gjenbruk av materiale eller opplysninger som er beskyttet av immaterialrettigheter eller består av forretningshemmeligheter, i tilknytning til varene og teknologien nevnt over, dersom salget, leveringen, overføringen, lisensieringen eller innvilgningen av rett til adgang eller gjenbruk er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
 
 1. varene og teknologien eies av en statsborger i Norge eller en EU-medlemsstat eller av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, eller av juridiske personer som er etablert i Russland og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, og
 2. Direktoratet for eksportkontroll og sanksjoner har ingen rimelig grunn til å anta at varene kan være beregnet på militær sluttbruk, eller har militær sluttbruk, i Russland, og
 3. varene og teknologien befant seg fysisk i Russland før de relevante forbudene i [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17), [§ 17b](forskrift/2014-08-15-1076/§17b), [§ 17c](forskrift/2014-08-15-1076/§17c), [§ 17d](forskrift/2014-08-15-1076/§17d), [§ 17f](forskrift/2014-08-15-1076/§17f) eller [§ 17i](forskrift/2014-08-15-1076/§17i) trådte i kraft med hensyn til nevnte varer og teknologi.
 
-Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17) og [17i](forskrift/2014-08-15-1076/§17i) kan Direktoratet for eksportkontroll og sanksjoner tillate salg, levering eller overføring av varer og teknologier oppført i vedlegg IV, IX og XXIII fram til 4. juni 2027, dersom nevnte salg, levering eller overføring er strengt nødvendig for avhending fra et fellesforetak som er stiftet eller opprettet i henhold til Norges eller en EU-medlemsstats lovgivning før 24. februar 2022, som omfatter en russisk juridisk person, og som driver en gassrørledningsinfrastruktur mellom Russland og tredjeland, eller yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til varer og teknologier som er strengt nødvendige for drift, nødvendig vedlikehold, reparasjon eller utskifting av komponenter i en slik rørledning og tilhørende infrastruktur som er avgjørende for nevnte avhending.
+Som unntak fra [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a), [§ 17](forskrift/2014-08-15-1076/§17) og [§ 17](forskrift/2014-08-15-1076/§17)i kan Direktoratet for eksportkontroll og sanksjoner tillate salg, levering eller overføring av varer og teknologier oppført i [vedlegg IV](forskrift/2014-08-15-1076/vedleggIV), [IX](forskrift/2014-08-15-1076/vedleggIX) og [XXIII](forskrift/2014-08-15-1076/vedleggXXIII) fram til 31. desember 2027, dersom nevnte salg, levering eller overføring er strengt nødvendig for avhending fra et fellesforetak som er stiftet eller opprettet i henhold til Norges eller en EU-medlemsstats lovgivning før 24. februar 2022, som omfatter en russisk juridisk person, og som driver en gassrørledningsinfrastruktur mellom Russland og tredjeland, eller yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand knyttet til varer og teknologier som er strengt nødvendige for drift, nødvendig vedlikehold, reparasjon eller utskifting av komponenter i en slik rørledning og tilhørende infrastruktur som er avgjørende for nevnte avhending.
 
-Som unntak fra [§ 17e](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) kan Direktoratet for eksportkontroll og sanksjoner tillate import eller overføring av varer oppført i vedlegg XVII og XXI til 4. juni 2027, dersom importen eller overføringen er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
+Som unntak fra [§ 17e](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) kan Direktoratet for eksportkontroll og sanksjoner tillate import eller overføring av varer oppført i vedlegg XVII og XXI til 31. desember 2027, dersom importen eller overføringen er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
 
 1. varene eies av en statsborger i Norge eller en EU-medlemsstat eller av en juridisk person som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, eller av juridiske personer som er etablert i Russland og eies av eller, alene eller i fellesskap, kontrolleres av juridiske personer som er etablert eller stiftet i henhold til Norges eller en EU-medlemsstats lovgivning, og
 2. de aktuelle varene befant seg fysisk i Russland før de relevante forbudene i [§ 17](forskrift/2014-08-15-1076/§17e) og [§ 17g](forskrift/2014-08-15-1076/§17g) trådte i kraft med hensyn til de nevnte varene.
 
-Som unntak fra [§ 19c](forskrift/2014-08-15-1076/§19c) kan Direktoratet for eksportkontroll og sanksjoner tillatevidereføring av tjenesteyting til 4. juni 2027, dersom nevnte tjenesteyting er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
+Som unntak fra [§ 19c](forskrift/2014-08-15-1076/§19c) kan Direktoratet for eksportkontroll og sanksjoner tillate videreføring av tjenesteyting til 31. desember 2027, dersom nevnte tjenesteyting er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland, forutsatt at følgende vilkår er oppfylt:
 
 1. nevnte tjenester ytes til, og utelukkende til fordel for, de juridiske personene som er resultatet av avhendelsen, og
 2. Direktoratet for eksportkontroll og sanksjoner har ingen rimelig grunn til å anta at tjenestene kan bli tilbudt, direkte eller indirekte, til Russlands regjering eller til en militær sluttbruker, eller ha militær sluttbruk i Russland.
 
-> Tilføyd ved forskrift [30 jan 2023 nr. 180](forskrift/2023-01-30-180), endret ved forskrifter [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 mars 2026 nr. 535](forskrift/2026-03-27-535).
+> Tilføyd ved forskrift [30 jan 2023 nr. 180](forskrift/2023-01-30-180), endret ved forskrifter [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 19da. Unntak fra eksportforbud og forbud mot å yte tjenester knyttet til Caspian Pipeline Consortium
 
@@ -2633,9 +2770,9 @@ Ingen anmodninger om bistand under en etterforskning eller andre prosesser, og i
 
 Denne bestemmelsen berører ikke den rett personer som nevnt i første ledd har til ved domstolene å få prøver lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forskriften.
 
-Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, etter en konkret vurdering i det enkelte tilfellet fram til 4. juni 2027 tillate innfrielse av et krav fra en de fysiske eller juridiske personene i første ledd bokstav b, på de vilkårene Direktoratet for eksportkontroll og sanksjoner finner hensiktsmessige, etter å ha slått fast at innfrielsen av kravet er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland.
+Som unntak fra første ledd kan Direktoratet for eksportkontroll og sanksjoner, etter en konkret vurdering i det enkelte tilfellet, fram til 31. desember 2027 tillate innfrielse av et krav fra en av de fysiske eller juridiske personene i første ledd bokstav b, på de vilkårene direktoratet finner hensiktsmessige, etter å ha slått fast at innfrielsen av kravet er strengt nødvendig for avhendelser fra Russland eller avvikling av forretningsvirksomhet i Russland.
 
-> Tilføyd ved [forskrift 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), endret ved forskrifter [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved [forskrift 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), endret ved forskrifter [18 mars 2022 nr. 410](forskrift/2022-03-18-410), [24 mars 2022 nr. 448](forskrift/2022-03-24-448), [29 april 2022 nr. 658](forskrift/2022-04-29-658), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### § 20b. Plikt til å gjøre sitt ytterste for å sikre at visse juridiske personer ikke deltar i aktiviteter som undergraver de restriktive tiltakene
 
@@ -2907,7 +3044,7 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 
 ## Vedlegg VI. Personer omtalt i [§ 16](forskrift/2014-08-15-1076/§16), [§ 16a](forskrift/2014-08-15-1076/§16a) og [§ 16b](forskrift/2014-08-15-1076/§16b)
 
-> Endret ved forskrifter [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 juni 2025 nr. 1415](forskrift/2025-06-27-1415), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Endret ved forskrifter [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [19 feb 2025 nr. 262](forskrift/2025-02-19-262), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 juni 2025 nr. 1415](forskrift/2025-06-27-1415), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 Vedlegget omfatter fysiske og juridiske personer som er militære sluttbrukere, del av Russlands militærindustrielle kompleks, har kommersielle eller andre forbindelser med eller som på annen måte støtter Russlands forsvars- og sikkerhetssektor. Disse fysiske eller juridiske personene bidrar til Russlands militære og teknologiske styrking eller til utviklingen av Russlands forsvars- og sikkerhetssektor. Vedlegget omfatter også fysiske og juridiske personer i andre tredjeland enn Russland. Deres inkludering i dette vedlegget medfører ikke at de tilskrives ansvar for deres handlinger under jurisdiksjonen der hvor de opererer.
 
@@ -3493,7 +3630,7 @@ Vedlegget omfatter fysiske og juridiske personer som er militære sluttbrukere, 
 | 578. | Inelso LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «Инeлco» (OOO «Инeлco»)<br>A.k.a: Limited Liability Company Inelso; OOO Inelso | Address(es): 194044, St. Petersburg, Gelsingforsskaya Str., 3, Letter Z, Office 412, Russian Federation; Moscow, 2nd Roshchinsky Proezd, 8, Building 6, Business Centre «Serpukhovskoy Dvor», Russian Federation<br>Telephone: + 7 (812) 628-00-16<br>Website: [https://inelso.ru/](https://inelso.ru/)<br>Email: sales@inelso.ru<br>Registration number: 7813635698 (Tax ID/INN) | 18.12.2023 |
 | 579. | Elitan Trade LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «Элитан Tрeид» (OOO «Элитан Tрeид»)<br>A.k.a: OOO Elitan Treid; Limited Liability Company Elite Trade | Address(es): 426063, Udmurt Republic, Izhevsk, Melnichnaya Str., 34A, Russian Federation<br>Telephone: + 7 (495) 649-84-45<br>Website: [https://www.elitan.ru/](https://www.elitan.ru/)<br>Email: info@elitan.ru<br>Registration number: 1831096455 (Tax ID/INN) | 18.12.2023 |
 | 580. | Hartis DV LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «Хартиc ДВ» (OOO «Хартиc ДВ»)<br>A.k.a: Limited Liability Company «Charteris DV»; LLC «Charteris DV»; Limited Liability Company Hartis DV; OOO Khartis DV | Address(es): 125362, Moscow, Svobody Str., 35, Building 5, Floor 1, Premises 1, Room 4, Russian Federation<br>Telephone: + 7 (495 364-01-42<br>Website: [https://hartisdv.ru/](https://hartisdv.ru/)<br>Email: info@hartisdv.ru<br>Registration number: 7733753978 (Tax ID/INN) | 18.12.2023 |
-| 581. | SFT LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «CФT» (OOO «CФT»)<br>A.k.a: Limited Liability Company SFT; CFT; OOO SFT; Obshchestvos Organzichennoi Otvetstvennostyu SFT | Address(es): 115114, Moscow, Zamoskvorechye Municipal District, Kozhevnicheskaya Str., 10, Building 1, Russian Federation<br>Telephone: + 7 (499) 956-1000<br>Website: [https://www.sftgroup.ru/](https://www.sftgroup.ru/)<br>Email: info@sftgroup.ru<br>Registration number: 7725842590 (Tax ID/INN) | 18.12.2023 |
+| 581. | SFT LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «CФT» (OOO «CФT»)<br>a.k.a.: Limited Liability Company SFT; CFT; OOO SFT; Obshchestvo S Ogranichennoi Otvetstvennostyu SFT | Address(es): 115114, Moscow, Zamoskvorechye Municipal District, Kozhevnicheskaya Str., 10, Building 1, Russian Federation<br>Telephone: +7 (495) 995-71-08<br>Website: [https://cftech.ru/](https://cftech.ru/)<br>Email: [info@cftech.ru](mailto:info@cftech.ru)<br>Registration number: 7725842590 (Tax ID/INN) | 18.12.2023 |
 | 582. | Kami Group LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «Ками-Грyпп» (OOO «Ками-Грyпп»)<br>A.k.a: Limited Liability Company Kami Group; Obshchestvos Ogranichennoi Otvetstvennostyu Kami Grupp; Kami Group OOO | Address(es): 107023, Moscow, Bolshaya Semenovskaya Str., 40, Building 13, Floor 3, Room 307, Russian Federation<br>Telephone: + 7 (495) 781-55-11<br>Website: [https://www.stanki.ru/](https://www.stanki.ru/)<br>Email: kami@stanki.ru<br>Registration number: 7719429480 (Tax ID/INN) | 18.12.2023 |
 | 583. | AGT Systems LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «AГT Cиcтeмc» (OOO «AГT Cиcтeмc»)<br>A.k.a: Limited Liability Company AGT Systems | Address(es): 125445, Moscow, Smolnaya Str., 24/A, Office 1420, Russian Federation<br>Telephone: + 7 (495) 232-07-86<br>Website: [https://agtsys.ru/](https://agtsys.ru/)<br>Email: sales@agtsys.ru<br>Registration number: 7743032118 (Tax ID/INN) | 18.12.2023 |
 | 584. | Entep LLC<br>Local name: Oбщecтвo c Oграничeннoи Oтвeтcтвeннocтью «Энтeп» (OOO «Энтeп»)<br>A.k.a: Limited Liability Company Entep | Address(es): 108811, Moscow, Bianchi Str., 12, Building 2, Office 112, Russian Federation; 113039, Moscow, B. Serpukhovskaya Str., 30, Building 7, Russian Federation<br>Registration number: 7721809577 (Tax ID/INN) | 18.12.2023 |
@@ -3834,6 +3971,57 @@ Vedlegget omfatter fysiske og juridiske personer som er militære sluttbrukere, 
 | 919. | LLC Scientific Production Association Computing Systems<br>a.k.a.: Nauchno-Proizvodstvennoe Obyedinenie Vychislitelnykh Sistem; LLC NPO VS<br>Local name: OOO HAУЧHO-ПPOИЗВOДCTВXHHOX OБЪXДИHXHИX ВЫЧИCЛИTXЛЬHЫХ CИCTXM | Address: Office 2, Zhurnalistov Str. 30, 420088 Kazan, Russian Federation; NIISSU Building, Starokaluzhskoe Highway 58, 117630 Moscow, Russian Federation<br>Phone: +7 843) 208 00 40<br>Website: [https://npo-vs.ru](https://npo-vs.ru/)<br>Email: npovs@bk.ru<br>Registration number: 1660093042 (INN) | 24.4.2026 |
 | 920. | LLC Unimatic<br>a.k.a.: LLC Unimatik; Unimatic Ltd<br>Local name: OOO Униматик | Address: Vostochnaya Str. 45, 620100 Yekaterinburg, Sverdlovsk Oblast, Russian Federation<br>Telephone: +7 343 289 9020<br>Email: sales@unimatic.ru; hotline@unimatic.ru<br>Website: https://unimatic.ru/<br>Registration number: 6672197493 (INN) | 24.4.2026 |
 | 921. | TAB Corporation (Thailand) Co. Ltd<br>Local name: ทีเอบี คอร์เปอร์เรชั่น (ไทยแลนด์) จำกัด | Address: 4F, 850/21 Ladkrabang 30/5 Road, Ladkrabang, Bangkok 10520, Kingdom of Thailand<br>Phone: +66 2 038 9995<br>Website: www.tabcorp.co.th<br>Email: bkk@tabcorp.co.th<br>Registration number: 0105566093417 | 24.4.2026 |
+| 922. | LLC NTK<br>Local name: OOO HTК | Address: Room 3, Building 1, Lenin Avenue 21, 428003 Cheboksary, Chuvash Republic, Russian Federation<br>Registration number: 1215232483 (INN) | 24.7.2026 |
+| 923. | Asialink Logistics LLC<br>a.k.a.: Aziyalink Logistics LLC; Asialink Shanghai Intl Logistics Co. Ltd<br>Local name: OOO Aзиялинк Лoгиcтикc | Address(es): Office 250, Floor 3, Butlerova Str. 17, 117342 Moscow, Russian Federation; Office 229, Sheremetyevskoye Highway 6K, 141426 Khimki, Moscow Oblast, Russian Federation<br>Telephone: +8 800 222 75 52<br>Website: [https://asi-log.com](https://asi-log.com/); [https://asialink-logistics.com](https://asialink-logistics.com/)<br>Email: [request@asi-log.com](mailto:request@asi-log.com)<br>Registration number: 9728024860 (INN) | 24.7.2026 |
+| 924. | LLC Korvet SPB<br>Local name: OOO Кoрвeт CПБ | Address: Office 79, Building B, Ivana Fomina Str. 6, 194295 Saint Petersburg, Russian Federation<br>Telephone: +7 812 2143858<br>Website: [https://corvetspb.ru](https://corvetspb.ru/)<br>Email: [info@corvetspb.ru](mailto:info@corvetspb.ru)<br>Registration number: 7802537882 (INN) | 24.7.2026 |
+| 925. | Pixel Devices Limited | Address: 16/F, New Hennessey Tower, 263 Hennessey Road, Wanchai, Hong Kong<br>Telephone: +852 3959 8125<br>Website: [https://pixel-devices.com](https://pixel-devices.com/)<br>Email: [info@pixel-devices.com](mailto:info@pixel-devices.com)<br>Registration number: 2569276 (TRN); 68097356 (BRN) | 24.7.2026 |
+| 926. | Mastel Makina Ithalat Ihracat Limited Sirketi | Address(es): No. 9, Block A, Selenium Retro 9, Chobancheshme e5 No. 16/1, Atakoy 7-8-9-10 District, 34203 Bakirkoy, Istanbul, Republic of Türkiye; No. 18/20/1 Beyazit Mahallesi Kalcilar Sokak, 34126 Fatih, Istanbul, Republic of Türkiye<br>Telephone: +90 501 000 00 47<br>Website: [https://www.mastelmakina.com](https://www.mastelmakina.com/)<br>Email: [info@mastelmakina.com](mailto:info@mastelmakina.com)<br>Registration number: 145225-5 | 24.7.2026 |
+| 927. | LLC TMK<br>a.k.a.: LLC Trademicrocomponent<br>Local name: OOO TMК; OБЩXCTВO C OГPAHИЧXHHOЙ OTВXTCTВXHHOCTЬЮ TPXЙДMИКPOКOMПOHXHT | Address: Room V, Office 25b, Building 13, Floor 8, Akademika Koroleva Str., Municipal District Ostankinsky, 129515, Moscow, Russian Federation<br>Phone: +7 985 6823802<br>Website: [www.tmc-msc.ru](https://www.tmc-msc.ru/)<br>Email: [info.@tmc-msc.ru](mailto:info.@tmc-msc.ru)<br>Registration number: 9717092033 (INN) | 24.7.2026 |
+| 928. | LLC KB LIS<br>a.k.a.: LLC CB Lis<br>Local name: OOO КБ Лиc | Address: Office 511, 17 Vsevolozhsky Avenue, 188640 Vsevolozhsk, Leningrad Oblast, Russian Federation<br>Telephone: +7 812 2141287<br>Website: [https://kblis.ru](https://kblis.ru/)<br>Email: [sales@kblis.ru](mailto:sales@kblis.ru)<br>Registration number: 4706059162 (INN) | 24.7.2026 |
+| 929. | RLVT Tula<br>a.k.a.: LLC Russian Laboratory of Air Transport; Russian Air Transport Laboratory LLC; LLC Russkaya Laboratoriya Vozdushnogo Transporta<br>Local name: OOO PЛВT | Address: Office 3, Building 3d, Ryazanskaya Str., 300026, Tula Oblast, Tula City, Russian Federation<br>Telephone: +7 953 9599991<br>Email: [company@ovod71.ru](mailto:company@ovod71.ru)<br>Registration number: 7100027464 (INN); 1227100012369 (OGRN) | 24.7.2026 |
+| 930. | OKB Astron<br>a.k.a.: OKB Astron JSC; JSC Optical and Mechanical Design Bureau Astron; AO OKB ASTRON<br>Local name: AO OКБ Acтрoн | Address(es): Room 3, Artema Str. 2b, 283086 Donetsk City, Donetsk Temporarily Occupied Territory, Ukraine; Parkovaya St. 1, 140080 Lytkarino, Moscow Oblast, Russian Federation<br>Telephone(s): +7 495 2151382; +7 495 2151379<br>Website: [https://astrohn.ru/](https://astrohn.ru/)<br>Email: [info@astrohn.ru](mailto:info@astrohn.ru)<br>Registration number: 5027224977 (INN) | 24.7.2026 |
+| 931. | Xiefeng (HK) Int’l Electronics Ltd.<br>Local name: 攜豐(香港)國際電子有限公司 | Address: Room A, 3/F, Wing Tat Commercial Building, 121-125 Wing Lok Str., Sheung Wan, Hong Kong<br>Registration number: 37624249 (BRN); 1108242 (TRN) | 24.7.2026 |
+| 932. | Corp-Link International Forwarding Ltd.<br>Local name: 聯盈國際物流有限公司 | Address: Flat A1, 2/F Wing Cheung Industrial Building, 58-70 Kwai Cheong Road, Hong Kong<br>Website: [www.corplink-logistics.com](https://www.corplink-logistics.com/)<br>Registration number: 50664436 (BRN); 1336155 (TRN) | 24.7.2026 |
+| 933. | Dalian Unimatic Trading Co. Ltd.<br>a.k.a.: Dalian Youmante Trading Co. Ltd<br>Local name: 大连尤曼特贸易有限公司 | Address: Room 321-01, 3rd Floor, No. 199 Zhuangda Road, Changsheng Str., Zhuanghe City, Dalian City, Liaoning Province, People’s Republic of China<br>Registration number: 91210283MAC567EQ70 (USCC) | 24.7.2026 |
+| 934. | Altegrity LLC<br>Local name: OOO Aльтeгрити | Address: Office 1TS, Building 11, 4th Magistralnaya Str., Khoroshevsky Municipal District, 123308 Moscow, Russian Federation<br>Telephone: +7 495 9847144<br>Registration number: 7716619740 (INN); 5087746394269 (OGRN) | 24.7.2026 |
+| 935. | Shenzhen Yilian Technology Development Co. Ltd<br>Local name: 深圳市易连科技开发有限公司 | Address: Floor 6, Building 5, Rundongsheng Industrial Zone 467, Xixiang Section of National Highway 107, Longteng Community, Xixiang Subdistrict, Bao’an District, 518100 Shenzhen, Guangdong Province, People’s Republic of China<br>Telephone: +86 13392854255<br>Website: [https://www.e-lines.cn/](https://www.e-lines.cn/)<br>Email: [info@e-lines.cn](mailto:info@e-lines.cn)<br>Registration number: 91440300061413490Q (USCC) | 24.7.2026 |
+| 936. | KCONE International Trade Ltd.<br>Local name: 鯤宸國際貿易有限公司 | Address: Room 101A, 1/F Genplas Industrial Building, 56 Hoi Yuen Road, Kwun Tong, Kowloon, Hong Kong<br>Registration number: 75088396 (BRN); 3256373 (TRN) | 24.7.2026 |
+| 937. | Alfatrex Dis Ticaret Limited Sirketi | Address: Ataköy 7. 8. 9. 10. Kısım Mahallesi, Çobançeşme E5 Yanyol Caddesi, No:22/1, Nef22 A Blok, Daire No: 227, 34158 Bakırköy, Istanbul, Republic of Türkiye<br>Website: [www.alfatrex.com.tr](https://www.alfatrex.com.tr/)<br>Registration number: 411319-5 | 24.7.2026 |
+| 938. | Guangzhou Feiren Logistics Co. Ltd.<br>a.k.a.: Feiren Logistics (Guangzhou) Co. Ltd<br>Local name: 广州市飞仁物流有限公司 | Addresses: Room 106, 1st Floor, Dishen Warehouse, No. 221 Tongjia Road, Tongde Str., Baiyun District, 510405 Guangzhou, People’s Republic of China<br>Telephone: +86 36513456<br>Registration number: 91440101687679653R (USCC) | 24.7.2026 |
+| 939. | LLC Exima MSK<br>a.k.a.: Eksima MSK<br>Local name: OOO ЭКCИMA MCК | Address: Apartment 64, Building 1, Gorbunova Str. 17, Mozhaisky Municipal District, 121596 Moscow, Russian Federation<br>Telephone: +7 495 5454686<br>Website: [https://exima-msk.com/](https://exima-msk.com/)<br>Email: [info@exima-msk.com](mailto:info@exima-msk.com)<br>Registration number: 9731097379 (INN), 1227700483350 (OGRN) | 24.7.2026 |
+| 940. | Newton-ITM LLC<br>a.k.a.: Nyuton-ITM; Neyuton ITM; LLC Neyuton ITM; Engineering Center SDM LLC<br>Local name: OOO Hьютoн-Итм | Address(es): Room 4N/3, Office 303, Building 31, Mira Avenue 102, 129626, Moscow, Russian Federation; Workshop 11a, Tsentralnaya Str., 81 Novoseltsovo Village, Mytishchi, Moscow, Russian Federation<br>Telephone: +7 495 280 05 88<br>Website: [https://www.newton-itm.com/](https://www.newton-itm.com/)<br>Email: [newton-itm@newton-itm.com](mailto:newton-itm@newton-itm.com); [info@newton-itm.com](mailto:info@newton-itm.com)<br>Registration number: 5032295067 (INN) | 24.7.2026 |
+| 941. | JSC Elekond<br>a.k.a.: JSC Elecond<br>Local name: AO Элeкoнд | Address: Kalinina Str. 3, 427968 Sarapul, Russian Federation<br>Telephone: +7 341 4729989; +7 341 4729977<br>Website: [https://elecond.ru/](https://elecond.ru/)<br>Email: [elecond-market@elcudm.ru](mailto:elecond-market@elcudm.ru)<br>Registration number: 1827003592 (INN) | 24.7.2026 |
+| 942. | LLC Uralshina<br>a.k.a.: LLC Ural Tire Plant; Uralskii Shinnyi Zavod<br>Local name: OOO Уралшина | Address: Building 76, Blagodatskaya Str., Yekaterinburg, 620087, Sverdlovsk Oblast, Russian Federation<br>Telephone: +7 343 2641200; +7 343 2641256; +7 343 2641119<br>Website: [https://uralshina.ru/](https://uralshina.ru/)<br>Email: [shina@uralshina.ru](mailto:shina@uralshina.ru); [sbit@uralshina.ru](mailto:sbit@uralshina.ru); [snab@uralshina.ru](mailto:snab@uralshina.ru); [rabota@uralshina.ru](mailto:rabota@uralshina.ru)<br>Registration number: 6674134107 (INN) | 24.7.2026 |
+| 943. | LLC Metall Service<br>Local name: OOO Meталл Ceрвиc | Address: Apartment 1, 60 Eletskaya Str., Tambov, 392009, Tambov Oblast, Russian Federation<br>Telephone: +7 800 200 68 21<br>Website: [https://mc24.ru/](https://mc24.ru/)<br>Email: [info@mc24.ru](mailto:info@mc24.ru)<br>Registration number: 6829008267 (INN) | 24.7.2026 |
+| 944. | LLC PE-5<br>a.k.a.: LLC Polyezny Element-5<br>Local name: OOO ПЭ-5 | Address: Block 1, Building 1, 2nd Karacharovskaya Str., 109202, Moscow, Russian Federation<br>Website: [www.pe-5.ru](https://www.pe-5.ru/)<br>Registration number: 9721206357 (INN) | 24.7.2026 |
+| 945. | LLC NPP Inject<br>a.k.a.: LLC Research and Production Enterprise Inject, Nauchno-Proizvodstvennoe Predpriyatie Inzhekt<br>Local name: OOO HПП «Инжeкт» | Address: Office 1, Building 3a, Elmashevskaya Str., Saratov, 410033, Saratov Oblast, Russian Federation<br>Website: [https://nppinject.ru/](https://nppinject.ru/)<br>Registration number: 6453142068 (INN) | 24.7.2026 |
+| 946. | Chongqing Giaero Electrical Co. Ltd<br>a.k.a.: Chongqing Guihang Electrical Appliance Co., Ltd<br>Local name: 重庆贵航电器有限公司 | Address(es): No 68 Kecheng Road, Jiulongpo District, 400039 Chongqing, People’s Republic of China; No 99 Kecheng Road, Jiulongpo District, 400039 Chongqing, People’s Republic of China<br>Telephone: +86 02368646608<br>Website: [https://cqguihang.com/](https://cqguihang.com/)<br>Email: [guihangcq@163.com](mailto:guihangcq@163.com)<br>Registration number: 91500107345943637F (USSC) | 24.7.2026 |
+| 947. | Coskunoz Alabuga LLC<br>Local name: OOO Джoшкyнoз Aлабyга | Address: Building 4/2, Sh-2 Str. (Alabuga Special Economic Zone), Yelabuga City, Yelabuga Municipal District, Republic of Tatarstan, 423601, Russian Federation<br>Telephone: +7 85557 53434<br>Website: [https://www.coskunoz.ru](https://www.coskunoz.ru/)<br>Email: [alabuga@coskunoz.ru](mailto:alabuga@coskunoz.ru)<br>Registration number: 1646033764 (INN) | 24.7.2026 |
+| 948. | SSC Alabuga LLC<br>Local name: OOO CMЦ Aлабyга | Address: Building 4/5, Sh-2 Str. (Alabuga Special Economic Zone), Yelabuga City, Yelabuga Municipal District, Republic of Tatarstan, 423601, Russian Federation<br>Telephone: +7 85557 53434<br>Registration number: 1646043603 (INN) | 24.7.2026 |
+| 949. | CETS LLC<br>a.k.a.: CETS LLC Coskunoz Engineering & Technological Solutions<br>Local name: OOO Джeтc | Address: Office 14, 5 Universitetskaya Str., Innopolis, 420500, Russian Federation<br>Telephone: +7 85557 53434<br>Website: [https://www.cets.ru/eng/](https://www.cets.ru/eng/)<br>Email: [info@cets.ru](mailto:info@cets.ru)<br>Registration number: 1683001288 (INN) | 24.7.2026 |
+| 950. | AAA China Limited<br>a.k.a.: Shenzhen Wanma International Freight Forwarding Co., Ltd. | Address: Room 1201, Baihuo Plaza West Building, No. 3020 Shennan Road E, 518001 Shenzhen, People’s Republic of China<br>Telephone: +86 755 82192157<br>Website: [https://www.aaalogisticsgroup.com/](https://www.aaalogisticsgroup.com/)<br>Registration number: 91440300570016397Q (USCC) | 24.7.2026 |
+| 951. | Shenzhen Wanma International Freight Forwarding Co., Ltd.<br>a.k.a.: AAA China Limited<br>Local name: 深圳市万马国际货物运输代理有限公司 | Address: Room 1201, Baihuo Plaza West Building, No. 3020 Shennan Road E, 518001 Shenzhen, People’s Republic of China<br>Telephone: +86 755 82192157<br>Website: [https://www.aaalogisticsgroup.com/](https://www.aaalogisticsgroup.com/)<br>Registration number: 91440300MA5GJRFX36 (USCC) | 24.7.2026 |
+| 952. | Vik Test LLC<br>Local name: OOO Вик Tecт | Address: Volokolamskoye Shosse 116, Building 1, Floor 2, Room 261, 125371 Moscow, Russian Federation<br>Telephone: +7 499 3908869<br>Website: [https://viktest.ru/](https://viktest.ru/)<br>Email: [info@viktest.ru](mailto:info@viktest.ru)<br>Registration number: 7726383596 (INN) | 24.7.2026 |
+| 953. | JSC Tyazhmash<br>Local name: AO Tяжмаш | Address: Building 13, Gidroturbinnaya Str., Syzran, 446010, Samara Oblast, Russian Federation<br>Telephone: +7 8464 378109; +7 8464 378999; +7 8464 977577<br>Website: [https://tyazhmash.com/en/](https://tyazhmash.com/en/)<br>Email: [info@tyazhmash.com](mailto:info@tyazhmash.com)<br>Registration number: 6325000660 (INN) | 24.7.2026 |
+| 954. | Luoyang Shennai Import & Export Trading Co., Ltd.<br>Local name: 洛阳申耐进出口贸易有限公司 | Address(es): Room 1101, Building 2, Beihang Science and Technology Pack, Jiudu West Road, High-tech Zone, Luoyang, People’s Republic of China; Block 302, Building 39, Area B3, China (Henan) Pilot Free Trade Zone (FZT), Luoyang, People’s Republic of China<br>Telephone: +86 13837997923<br>Website: [https://www.luoyangsndl.cn/lianxi/](https://www.luoyangsndl.cn/lianxi/)<br>Email: [luoyangsndl@163.com](mailto:luoyangsndl@163.com)<br>Registration number: 91410300MA46U5JD4J (USCC) | 24.7.2026 |
+| 955. | Suzhou Goodwill Machinery Equipment Co. Ltd.<br>a.k.a.: Suzhou Gedewei Machinery Equipment Co., Ltd.; Suzhou Godeway Machinery Equipment Co. Ltd.<br>Local name: 苏州歌得维机械设备有限公司 | Address: 21 Xiexin Road, New District, Suzhou City, 215163, Jiangsu Province, People’s Republic of China<br>Telephone: +86 189 12765130<br>Website: [https://goodwillme.cn](https://goodwillme.cn/)<br>Email: [info@goodwillme.cn](mailto:info@goodwillme.cn)<br>Registration number: 91320505MA1WT5KL9D (USCC) | 24.7.2026 |
+| 956. | Zepto Microwave and Chip Devices Assembly LLP | Address: Plot No. Cp 09, Sector 08, Manesar, Gurugram, 122052, Haryana, Republic of India<br>Website: [https://zeptomicrowave.com/contact.php](https://zeptomicrowave.com/contact.php)<br>Email: [support@zeptomicrowave.com](mailto:support@zeptomicrowave.com); [richagarg@zeptomicrowave.com](mailto:richagarg@zeptomicrowave.com)<br>Registration number: AAJ-2354 (Trade Register Number) | 24.7.2026 |
+| 957. | Dalian Unitech Trading Co. Ltd.<br>a.k.a.: Dalian Unitek Trading Co., Ltd, Dalian Unitec Trading Co., Ltd<br>Local name: 大连尤尼泰克贸易有限公司 | Address: 38A-34, Fuqian Road, Yangjia Manchu Township, Wafangdian city, Liaoning Province, Dalian City, People’s Republic of China<br>Registration number: 91210242MACN44NL0X (USCC) | 24.7.2026 |
+| 958. | ZENIT LLC<br>Local name: OOO Зeнит | Address: Building 7, Room 529, Dimitrova Avenue, Novosibirsk, 630132, Russian Federation<br>Telephone: +7 916 6726258<br>Registration number: 7708317135 (INN) | 24.7.2026 |
+| 959. | Nova Proekt LLC<br>a.k.a.: Nova Project LLC<br>Local name: Hoва прoeкт Жooпкeрчилиги чeктeлгeн кooмy | Address: Ibraimov Str. 115, Sverdlov District, 720001, Bishkek, Kyrgyz Republic<br>Registration number: 00908202210145 (TIN) | 24.7.2026 |
+| 960. | JSC Trek<br>Local name: AO Tрэк | Address: Office 54, Room 1, Building 1-n, Aleksandra Matrosova Str., Saint Petersburg, 194100, Russian Federation<br>Registration number: 7731374420 (INN) | 24.7.2026 |
+| 961. | Yiwu Weishuo Import and Export Co., Ltd.<br>Local name: 义乌市卫硕进出口有限公司 | Address: Floor 30, Suite B, Bingwang Road, 3004-1, Jinhua, 321000, People’s Republic of China<br>Registration number: 91330782MA7L2R37X9 (USCC) | 24.7.2026 |
+| 962. | Interlink Freight Agency LLC | Address: Office CMT1070, Cargo Village, Cargo Mega Terminal, Dubai International Airport, Dubai, United Arab Emirates<br>Telephone: +971 55 7910800<br>Website: [https://interlinkgulf.com/](https://interlinkgulf.com/)<br>Email: [info@interlinkgulf.com](mailto:info@interlinkgulf.com)<br>Registration number: 1028186 (TRN) | 24.7.2026 |
+| 963. | LLC Rama Group<br>Local name: Pама Грyпп жooпкeрчилиги чeктeлгeн кooмy | Address: Gogol Str. 28, Sverdlov District, 720021, Bishkek, Kyrgyz Republic<br>Registration number: 02002202310071 (TIN) | 24.7.2026 |
+| 964. | Shisan Ltd.<br>a.k.a.: Shisan LLC<br>Local name: Шиcан жooпкeрчилиги чeктeлгeн кooмy | Address: Gogol Str. 28, Sverdlov District, 720021, Bishkek, Kyrgyz Republic<br>Registration number: 02207202210262 (TIN) | 24.7.2026 |
+| 965. | RBG Solutions FZE<br>Local name: آر بي جي للحلول م م ح | Address: Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates<br>Registration number: 4203387.01 (License No.) | 24.7.2026 |
+| 966. | TOO TauKZ<br>a.k.a.: TOO TawKZ; TauKZ LLP; TawKZ LLP<br>Local name: Toварищecтвo c oграничeннoи oтвeтcтвeннocтью «TаyКЗ» | Address: Building 19, Amangeldi Imanov Str., Baikonur District, 10005 Astana City, Republic of Kazakhstan<br>Telephone: +7 7021041735<br>Website: [www.taw.kz](https://www.taw.kz/)<br>Email: [sales@taw.kz](mailto:sales@taw.kz)<br>Registration number: 230540019530 (BIN) | 24.7.2026 |
+| 967. | JSC Berg AB<br>Local name: AO Бeрг AБ | Address(es): 12th Floor, Sadovniki Str. 2, 115487 Moscow, Russian Federation; Unit 2, Building 1, Sadovniki Str. 4, 115487 Moscow, Russian Federation<br>Telephone: +7 495 2233070<br>Website: [https://bergab.ru/](https://bergab.ru/)<br>Email: [skf@bergab.ru](mailto:skf@bergab.ru); [bergab@yandex.ru](mailto:bergab@yandex.ru)<br>Registration number: 7725237190 (INN) | 24.7.2026 |
+| 968. | KBR Tekhnologii TOO<br>a.k.a.: KBR Technologies LLP<br>Local name: TOO КБP-TXХHOЛOГИИ | Address: Ul. G. Musrepova Str. 34B Petropavl, Republic of Kazakhstan<br>Telephone: +7 7773256532<br>Registration number: 220540015774 (BIN) | 24.7.2026 |
+| 969. | Falcon Toolings | Address: 205-1 and 2, Kuttai Thottam, Kalapatti, 641048 Coimbatore, Tamil Nadu, Republic of India<br>Telephone: +91 422 2666156<br>Website: [https://www.falcontoolings.in/](https://www.falcontoolings.in/); [https://www.falcontoolings.com/](https://www.falcontoolings.com/)<br>Email: [sales@falcontoolings.com](mailto:sales@falcontoolings.com)<br>Registration number: 33AAAFF7255L1ZC (GST No) | 24.7.2026 |
+| 970. | Suvari Global Endustriyel Ekipmanlar İthalat İhracat Ticaret Limited Şirketi | Address: Summer Park Sitesi A D13, No. 8A Oba Mahallesi, 225 Sokak, Alanya, 07400, Antalya, Republic of Türkiye<br>Registration number: 26722 (Trade Register Number), 7881047729 (TIN) | 24.7.2026 |
+| 971. | Uzay Group Dis Ticaret Limited Sirketi<br>a.k.a.: Uzay Group Havacilik Ve Dis Ticaret Limited Sirketi | Address: Akbati Avm A Blok D:314 No:6 Koza Mahallesi 1655, Sokak Esenyurt, 34538 Istanbul, Marmara, Republic of Türkiye<br>Telephone: +90 212 8525355<br>Website: [www.uzaygroup.com.tr](https://www.uzaygroup.com.tr/)<br>Email: [info@uzaygroup.com.tr](mailto:info@uzaygroup.com.tr)<br>Registration number: 985592 (trade register number (Istanbul Merkez)) | 24.7.2026 |
+| 972. | CJSC Marine Bridge and Navigation Systems<br>Local name: AO MOPCКИX HAВИГAЦИOHHЫX CИCTXMЫ | Address: 19 Promyshlennaya Str., 198095 Saint-Petersburg, Russian Federation<br>Telephone: +7 812 3203840<br>Website: [https://mnsspb.ru/](https://mnsspb.ru/)<br>Email: [mns@mnsspb.ru](mailto:mns@mnsspb.ru)<br>Registration number: 7805013333 (INN) | 24.7.2026 |
 
 ## Vedlegg VII. Liste over juridiske personer omtalt i § 8b tredje ledd, bokstav a
 
@@ -3857,7 +4045,7 @@ GAZPROM NEFT
 
 ## Vedlegg IX. Liste over varer og teknologi som omtalt i [§ 16a](forskrift/2014-08-15-1076/§16a) og [§ 16b](forskrift/2014-08-15-1076/§16b)
 
-> Endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 juni 2025 nr. 1415](forskrift/2025-06-27-1415), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 juni 2025 nr. 1415](forskrift/2025-06-27-1415), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 ### Part A
 
@@ -4416,6 +4604,15 @@ X.A.III.101 Telecommunication equipment.
 7. Mobile communications equipment other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), «electronic assemblies» and components therefor;
 8. Radio relay communications equipment designed for use at frequencies equal to or exceeding 19,7 GHz and components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821); or
 9. Video game controllers, gaming controllers, flight simulator controllers, gamepads, joysticks and other input units, for video game consoles or entertainment systems, either corded or cordless.
+10. Radio frequency systems and equipment not included in [Regulation (EU) 2021/821](eu/32021r0821), components and accessories, specially designed or modified to develop any of the following functions:
+
+    1. Take control and command of unmanned aerial vehicles (UAVs);
+    2. Deliberately and selectively interfere with, deny, inhibit, degrade or deceive radio frequency signals for the control and command of UAVs;
+    3. Use the specific features of the radio frequency protocol used by UAVs to interfere with their operation.
+
+    Technical Note:
+
+    Such systems and equipment may include radio frequency jammers, protocol analysers, signal spoofers, takeover systems, directional antennas, software-defined radio (SDR) platforms, electronic warfare modules, and associated control software or firmware specifically adapted for counter-UAV applications.
 
 Technical Note: For the purpose of X.A.III.101:
 
@@ -4777,6 +4974,27 @@ X.A.VII.003 Aircraft engines, other than those specified in X.A.VII.002, the CML
 2. Electric engines.
 
 Technical Note: For the purpose of X.A.VII.003 aircrafts includes: aeroplanes, UAVs, helicopters, autogyros, hybrid aircrafts or radio-controlled models.
+
+X.A.VII.004 Servomotors having a torque-to-weight ratio equal or higher than 0,16.
+
+Technical Note:
+
+The torque-to-weight ratio is computed considering the torque in kgf\*cm and the weight in g.
+
+X.A.VII.005 Launch systems for unmanned aerial vehicles (UAVs), and parts thereof, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
+
+X.A.VII.006 Ground support equipment for unmanned aerial vehicles (UAVs).
+
+X.A.VII.007 ‘Flight termination’ systems and specially designed components therefor.
+
+Note: This control covers digital and analogue communications standards for ‘Flight termination’ systems, including encrypted operational modes.
+
+Technical Notes:
+
+1. For the purpose of this control, ‘flight termination’ can involve a controlled descent, self-destruction of the UAV or missile, or detonation of the warhead to minimise the risk of collateral damage.
+2. For the purpose of this control, components include ground and on-board equipment, command exciters, encoders, amplifier controllers, command verification receivers, amplifiers, transmitters, decoders and receivers.
+
+X.D.VII.003 «Software», for the «use» of equipment controlled by X.A.VII.006 or X.A.VII.007.
 
 X.B.VII.001 Vibration test equipment and specially designed components, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
 
@@ -5479,6 +5697,39 @@ X.C.IX.017 Lubricating materials, fluids and additives thereof, not controlled b
    10. Tricresyl phosphate; or
    11. Zinc dialkyldithiophosphate (CAS 68649-42-3 and 68457-79-4).
 
+X.C.IX.018 Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, not specified in [Regulation (EU) 2021/821](eu/32021r0821), having all of the following characteristics:
+
+1. A maximum operating temperature exceeding 413,15 K (140 °C) and a minimum operating temperature of less than 233,15 K (– 40 °C); and
+2. Compliant with all of the following, measured in accordance with the standard ASTM E595 or «equivalent standards»:
+
+   1. A ‘Total Mass Loss’ (TML) equal to or less than 1,0 %; and
+   2. A ‘Collected Volatile Condensable Material’ (CVCM) equal to or less than 0,10 %.
+
+Technical Notes:
+
+1. For the purposes of the control X.C.IX.018, ‘Total Mass Loss’ (TML) is the percentage reduction in specimen mass caused by volatilisation of materials under specified vacuum and temperature conditions according to the standard ASTM E595 or «equivalent standards».
+
+   $$TML\\,(\\%) = \\frac{M_i - M_f}{M_i} \\cdot 100$$
+
+   Where:
+
+   Mi = initial specimen mass
+
+   Mf = final specimen mass after vacuum exposure
+2. For the purposes of the control X.C.IX.018, ‘Collected Volatile Condensable Material’ (CVCM) is the percentage of outgassed volatile material from a test specimen that condenses on a specified collector maintained at controlled temperature.
+
+   $$CVCM\\, (\\%) = \\frac{M_c}{M_i} \\cdot 100$$
+
+   Where:
+
+   Mc= mass collected on the condenser plate
+
+   Mi = initial specimen mass
+
+X.C.IX.019 Nickel powder, nickel metal and alloys having a nickel purity content of 50 % or greater by weight, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
+
+X.C.IX.020 Beryllium powder having a beryllium purity content of 50 % or greater by weight, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).
+
 X.D.IX.001 Specific «software», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows (see List of Items Controlled):
 
 1. «Software» specially designed for industrial process control hardware/systems controlled by X.B.IX.001, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821); or
@@ -6017,9 +6268,9 @@ For å lese vedlegg X se her: [(pdf)](static/SF/sf-20140815-1076-v10-01-01.pdf)
 
 ## Vedlegg XV. Juridiske personer omtalt i § 8k
 
-> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410), endret ved forskrifter [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
-Henvisningen til 9. august 2025 i kolonnen «Date of application» skal forstås som 17. november 2025. Henvisningen til 12. november 2025 i kolonnen «Date of application» skal forstås som 16. april 2026. Henvisningen til 14. mai 2026 i kolonnen «Date of application» skal forstås som 3. august 2026.
+Henvisningen til 9. august 2025 i kolonnen «Date of application» skal forstås som 17. november 2025. Henvisningen til 12. november 2025 i kolonnen «Date of application» skal forstås som 16. april 2026. Henvisningen til 14. mai 2026 i kolonnen «Date of application» skal forstås som 3. august 2026. Henvisningen til 13. august 2026 i kolonnen «Date of application» skal forstås som 11. november 2026.
 
 | *Name of the legal person, entity or body* | *Date of application* |
 | --- | --- |
@@ -6093,6 +6344,39 @@ Henvisningen til 9. august 2025 i kolonnen «Date of application» skal forstås
 | Limited Liability Company Wildberries Bank | 14. May 2026 |
 | Joint Stock Bank «AVANGARD» | 14. May 2026 |
 | Joint Stock Investment Commercial Bank «ENISEISK UNITED BANK» | 14. May 2026 |
+| Joint Stock Company Commercial Bank Energobank | 13.8.2026 |
+| Joint Stock Company Bank Finservice | 13.8.2026 |
+| Commercial Bank Moskommertsbank | 13.8.2026 |
+| Joint Stock Company Ingo Bank | 13.8.2026 |
+| Joint Stock Company Realist Bank | 13.8.2026 |
+| Joint Stock Company Bank United Capital | 13.8.2026 |
+| Joint Stock Company Togliattikhimbank | 13.8.2026 |
+| Limited Liability Company Cifra Bank | 13.8.2026 |
+| Joint Stock Company Databank | 13.8.2026 |
+| Joint Stock Commercial RosDorBank | 13.8.2026 |
+| Public Joint Stock Company YUG-Invest Bank | 13.8.2026 |
+| Joint Stock Company Auto Finance Bank | 13.8.2026 |
+| Commercial bank Renaissance Credit (Limited Liability Company) | 13.8.2026 |
+| Public Joint Stock Company Commercial Bank Primorye | 13.8.2026 |
+| Public Joint Stock Company Transcapitalbank | 13.8.2026 |
+| Joint Stock Company Bank National Standard | 13.8.2026 |
+| Public Joint Stock Company National Bank Trust | 13.8.2026 |
+| Public Joint Stock Company Chelindbank | 13.8.2026 |
+| Joint Stock Company Koshelev-Bank | 13.8.2026 |
+| Joint Stock Commercial Bank International Financial Club – MFK Bank | 13.8.2026 |
+| Joint Stock Commercial Bank Unistream | 13.8.2026 |
+| Joint Stock Company SPB Bank | 13.8.2026 |
+| Joint Stock Company Gazenergobank | 13.8.2026 |
+| Public Joint Stock Company Commercial Bank Center-Invest | 13.8.2026 |
+| Joint Stock Company Commercial Bank Modulbank | 13.8.2026 |
+| Limited Liability Company Bank Round | 13.8.2026 |
+| Joint Stock Commercial Bank Agropromcredit | 13.8.2026 |
+| Joint Stock Company Bank Accept | 13.8.2026 |
+| Joint Stock Company Interprogressbank | 13.8.2026 |
+| Joint Stock Commercial Bank Forshtadt | 13.8.2026 |
+| Joint Stock Company Belgorodsotsbank | 13.8.2026 |
+| Limited Liability Company CMRBank | 13.8.2026 |
+| Joint Stock Company Credit Ural Bank | 13.8.2026 |
 
 ## Vedlegg XVI. Varer og teknologi som omtalt i § 17d
 
@@ -6636,7 +6920,7 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 
 ## Vedlegg XXI. Liste over varer og teknologi omtalt i [§ 17g](forskrift/2014-08-15-1076/§17g)
 
-> Vedlegg XXI tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Vedlegg XXI tilføyd ved forskrift [29 april 2022 nr. 658](forskrift/2022-04-29-658), endret ved forskrifter [29 april 2022 nr. 658](forskrift/2022-04-29-658), [17 juni 2022 nr. 1060](forskrift/2022-06-17-1060), [26 aug 2022 nr. 1502](forskrift/2022-08-26-1502), [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), [4 april 2023 nr. 480](forskrift/2023-04-04-480), [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 | *CN code* | *Name of the good* |
 | --- | --- |
@@ -6653,6 +6937,10 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 2523 | Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers |
 | 2530 | Mineral substances not elsewhere specified or included |
 | 2601 | Iron ores and concentrates, including roasted iron pyrites |
+| 2603 | Copper ores and concentrates |
+| 2604 | Nickel ores and concentrates |
+| 2607 | Lead ores and concentrates |
+| 2616 | Precious-metal ores and concentrates |
 | 2619 | Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel |
 | 2620 | Slag, ash and residues (other than from the manufacture of iron or steel), containing metals, arsenic or their compounds |
 | 2621 | Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste |
@@ -6676,6 +6964,8 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 2804 29 10 | Helium |
 | 2804 61 | Silicon containing > = 99,99 % by weight of silicon |
 | 2804 69 | Silicon containing < 99,99 % by weight of silicon |
+| 2817 | Zinc oxide; zinc peroxide |
+| 2819 | Chromium oxides and hydroxides |
 | 2845 40 | Helium-3 |
 | 2811 | Inorganic acids and inorganic oxygen compounds of non-metals (excl. hydrogen chloride (hydrochloric acid), chlorosulphuric acid, sulphuric acid, oleum, nitric acid, sulphonitric acids, diphosphorus pentaoxide, phosphoric acid, polyphosphoric acids, oxides of boron and boric acids) |
 | 2814 | Ammonia, anhydrous or in aqueous solution |
@@ -6718,6 +7008,7 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 3402 | Organic surface-active agents (excl. soap); surface-active preparations, washing preparations, incl. auxiliary washing preparations, and cleaning preparations, whether or not containing soap (excl. those of heading 3401) |
 | 3404 | Artificial waxes and prepared waxes |
 | 3801 | Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semi-manufactures |
+| 3803 | Tall oil, whether or not refined |
 | 3811 | Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils, incl. gasoline, or for other liquids used for the same purposes as mineral oils |
 | 3812 | Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; anti-oxidising preparations and other compound stabilisers for rubber or plastics |
 | 3817 | Mixed alkylbenzenes and mixed alkylnaphthalenes produced by the alkylation of benzene and naphthalene (excl. mixed isomers of cyclic hydrocarbons) |
@@ -6744,8 +7035,7 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 4107 | Leather further prepared after tanning or crusting (incl. parchment-dressed leather), of bovine (incl. buffalo) or equine animals, without hair on, whether or not split (excl. chamois leather, patent leather and patent laminated leather, and metallised leather) |
 | 4202 | Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverage bags, toilet bags, rucksacks, handbags, shopping-bags, wallets, purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder-boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper |
 | 4301 | Raw furskins, incl. heads, tails, paws and other pieces or cuttings suitable for use in furriery (excl. raw hides and skins of heading 4101, 4102 or 4103) |
-| 4302 | Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 4303 |
-| 44 | Wood and articles of wood; wood charcoal |
+| ex 4302 | Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings) excluding of sable (*Martes zibellina*), unassembled, or assembled (without the addition of other materials) other than those of heading 4303 |
 | 4703 | Chemical wood pulp, soda or sulphate (excl. dissolving grades) |
 | 4705 | Wood pulp obtained by a combination of mechanical and chemical pulping processes |
 | 4801 | Newsprint as specified in note 4 to Chapter 48, in rolls of a width > 28 cm or in square or rectangular sheets with one side > 28 cm and the other side > 15 cm in the unfolded state |
@@ -6772,10 +7062,25 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 6815 | Articles of stone or of other mineral substances, incl. carbon fibres, articles of carbon fibres and articles of peat, n.e.s. |
 | 6902 | Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods (excl. those of siliceous fossil meals or similar siliceous earths) |
 | 6907 | Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing (excl. of siliceous fossil meals or similar siliceous earths, refractory goods, tiles specially adapted as table mats, ornamental articles and tiles specifically manufactured for stoves) |
+| 7001 | Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 8549; glass in the mass |
+| 7002 | Glass in balls (other than microspheres of heading 7018), rods or tubes, unworked |
+| 7003 | Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked |
+| 7004 | Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked |
 | 7005 | Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked |
+| 7006 | Glass of heading 7003, 7004 or 7005, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials |
 | 7007 | Safety glass, consisting of toughened (tempered) or laminated glass |
+| 7008 | Multiple-walled insulating units of glass |
+| 7009 | Glass mirrors, whether or not framed, including rear-view mirrors |
 | 7010 | Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass |
+| 7011 | Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps and light sources, cathode-ray tubes or the like |
+| 7013 | Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018) |
+| 7014 | Signalling glassware and optical elements of glass (other than those of heading 7015), not optically worked |
+| 7015 | Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses |
+| 7016 | Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms |
+| 7017 | Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated |
+| 7018 | Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lamp-worked glass, other than imitation jewellery; glass microspheres not exceeding 1 mm in diameter: |
 | 7019 | Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics) |
+| 7020 | Other articles of glass |
 | 7104 | Precious and semi-precious stones, synthetic or reconstructed, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport |
 | 7106 | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form |
 | Ex 7110 | Platinum, unwrought or in semi-manufactured forms, or in powder form, except for CN codes 7110 21 and 7210 29 |
@@ -6806,6 +7111,7 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 7610 | Aluminium structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures: |
 | 7612 | Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment |
 | 7801 | Unwrought lead |
+| 7901 | Unwrought zinc |
 | 8102 | Molybdenum and articles thereof, including waste and scrap |
 | 8104 | Magnesium and articles thereof, including waste and scrap |
 | 8105 | Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap |
@@ -6866,6 +7172,8 @@ X.A.VI.001 Vessels, marine systems or equipment, and specially designed componen
 | 8701 | Tractors (other than tractors of heading 8709) |
 | 8703 | Motor cars and other motor vehicles principally designed for the transport of < 10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702) |
 | 8704 | Motor vehicles for the transport of goods, incl. chassis with engine and cab |
+| 8707 | Bodies (including cabs), for the motor vehicles of headings 8701 to 8705 |
+| 8708 | Parts and accessories of the motor vehicles of headings 8701 to 8705 |
 | 8716 | Trailers and semi-trailers; other vehicles, not mechanically propelled (excl. railway and tramway vehicles); parts thereof, n.e.s. |
 | 8802 | Powered aircraft (e.g. helicopters and aeroplanes); spacecraft, incl. satellites, and suborbital and spacecraft launch vehicles |
 | 8901 | Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods |
@@ -7601,13 +7909,22 @@ Henvisningen til 3. september 2025 i kolonnen «Date of application» skal forst
 | 2710 91 | Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs) | Discount to crude oil | 45 | 5 February 2023 |
 | 2710 99 | Other | Discount to crude oil | 45 | 5 February 2023 |
 
-## Vedlegg XXIX. Liste over varer og tredjeland referert til i § 17k åttende ledd bokstav b
+## Vedlegg XXIX. Liste over varer og tredjeland referert til i § 17k åttende ledd bokstav b og § 17ae fjerde ledd
 
-> Vedlegg XXIX tilføyd ved forskrift [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), endret ved forskrifter [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [27 juni 2025 nr. 1415](forskrift/2025-06-27-1415), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Vedlegg XXIX tilføyd ved forskrift [28 okt 2022 nr. 1815](forskrift/2022-10-28-1815), endret ved forskrifter [2 okt 2023 nr. 1575](forskrift/2023-10-02-1575), [19 mars 2024 nr. 534](forskrift/2024-03-19-534), [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), [27 juni 2025 nr. 1415](forskrift/2025-06-27-1415), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
+
+### Del A - Liste over varer og tredjeland referert til i § 17k åttende ledd bokstav b
 
 | *Scope of exemption* | *Date of application* | *Date of expiration* |
 | --- | --- | --- |
-| The transport by vessel to Japan, the technical assistance, brokering services, financing or financial assistance related to such transport, of crude oil falling under CN 2709 00 commingled with condensate, originating in the Sakhalin-2 (Cахалин-2) Project, located in Russia | 5 December 2022 | 28 June 2026 |
+| The transport by vessel to Japan, the technical assistance, brokering services, financing or financial assistance related to such transport, of crude oil falling under CN 2709 00 commingled with condensate, originating in the Sakhalin-2 (Cахалин-2) Project, located in Russia | 5 December 2022 | 31 March 2028 |
+
+### Del B – Liste over varer og tredjeland referert til i § 17ae fjerde ledd
+
+| *Scope of exemption* | *Date of application* | *Date of expiration* |
+| --- | --- | --- |
+| The transport by vessel to Japan, the technical assistance, brokering services, financing or financial assistance related to such transport, of liquified natural gas falling under CN code 2711 11 00, originating in the Sakhalin-2 (Cахалин-2) Project, located in Russia | 24 July 2026 | 31 March 2028 |
+| The transport by vessel to the Republic of Korea, the technical assistance, brokering services, financing or financial assistance related to such transport, of liquified natural gas falling under CN code 2711 11 00, originating in the Sakhalin-2 (Cахалин-2) Project, located in Russia | 24 July 2026 | 31 March 2028 |
 
 ## Vedlegg XXX. Liste over varer omtalt i § 17a
 
@@ -8606,9 +8923,9 @@ Henvisningene til artikler i kolonnen «Grounds for inclusion» refererer til r�
 
 ## Vedlegg XLIV. Liste over juridiske personer omtalt i § 8cd
 
-> Vedlegg XLIV tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Vedlegg XLIV tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
-Henvisningen til 2. desember 2025 i kolonnen «Entry into force» skal forstås som 6. mai 2026. Henvisningen til 14. mai 2026 i kolonnen «Entry into force» skal forstås som 3. august 2026.
+Henvisningen til 2. desember 2025 i kolonnen «Entry into force» skal forstås som 6. mai 2026. Henvisningen til 13. august 2026 i kolonnen «Entry into force» skal forstås som 11. november 2026.
 
 |  | *Name of the legal person, entity or body* | *Entry into force* |
 | --- | --- | --- |
@@ -8619,15 +8936,16 @@ Henvisningen til 2. desember 2025 i kolonnen «Entry into force» skal forstås 
 | 5. | OJSC Sber Bank (Belarus) | 2 December 2025 |
 | 6. | VTB Bank (Belarus) | 2 December 2025 |
 | 7. | VTB Bank (Kazakhstan) | 2 December 2025 |
-| 8. | Yelo Bank (Azerbaijan) | 14. May 2026 |
+| 8. |  |  |
+| 9. | CJSC Eco-Islamic Bank (Kyrgyzstan) | 13.8.2026 |
 
 ## Vedlegg XLV. Liste over juridiske personer som er kreditt- og finansinstitusjoner mv. som omtalt i § 8ce
 
-> Vedlegg XLV tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Vedlegg XLV tilføyd ved forskrift [2 okt 2024 nr. 2501](forskrift/2024-10-02-2501), endret ved forskrifter [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), [27 okt 2025 nr. 2130](forskrift/2025-10-27-2130), [27 mars 2026 nr. 535](forskrift/2026-03-27-535), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 Part A – list of credit and financial institutions and entities providing crypto-assets services or payment services established outside of the Union that are significantly frustrating the purpose of the prohibitions in this Regulation and [Regulation (EU) No 269/2014](eu/32014r0269)
 
-Henvisningen til 9. august 2025 i kolonnen «Entry into force» skal forstås som 17. november 2025. Henvisningen til 25. november i kolonnen «Entry into force» skal forstås som 29. april 2026. Henvisningen til 12. november i kolonnen «Entry into force» skal forstås som 16. april 2026. Henvisningen til 14. mai 2026 i kolonnen «Entry into force» skal forstås som 3. august 2026.
+Henvisningen til 9. august 2025 i kolonnen «Entry into force» skal forstås som 17. november 2025. Henvisningen til 25. november i kolonnen «Entry into force» skal forstås som 29. april 2026. Henvisningen til 12. november i kolonnen «Entry into force» skal forstås som 16. april 2026. Henvisningen til 14. mai 2026 i kolonnen «Entry into force» skal forstås som 3. august 2026. Henvisningen til 23. august 2026 i kolonnen «Entry into force» skal forstås som 21. november 2026. Henvisningen til 13. august 2026 i kolonnen «Entry into force» skal forstås som 11. november 2026.
 
 | *Name of the legal person, entity or body* | *Entry into force* |
 | --- | --- |
@@ -8635,6 +8953,23 @@ Henvisningen til 9. august 2025 i kolonnen «Entry into force» skal forstås so
 | CJSB JSCB Tolubay | 12 November 2025 |
 | OJSC Eurasian Savings Bank | 12 November 2025 |
 | Joint Development Bank (Laos) | 14. May 2026 |
+| Rapira | 23.8.2026 |
+| Aifory Pro (Sooty Ltd.) | 23.8.2026 |
+| ABCeX (Nueva Cryptologia S.A.S DE C.V.) | 23.8.2026 |
+| WhiteBird | 23.8.2026 |
+| NoOnecrypto INC. | 23.8.2026 |
+| Tradex (Brightum LLC) | 23.8.2026 |
+| Monease Ltd | 23.8.2026 |
+| BitPapa | 23.8.2026 |
+| Exnode, Exnode Pay (Arvix) | 23.8.2026 |
+| HTX (HUOBI GLOBAL SA) | 23.8.2026 |
+| EXMO Ltd | 23.8.2026 |
+| Chinggis Khaan Bank | 13.8.2026 |
+| Sberbank India | 13.8.2026 |
+| India VTB | 13.8.2026 |
+| A7 Nigeria | 13.8.2026 |
+| A7 Africa | 13.8.2026 |
+| PilotFinance Ltd | 13.8.2026 |
 
 Part B – list of credit and financial institutions and entities providing crypto-assets services or payment services established outside of the Union that support Russia’s war of aggression against Ukraine
 
@@ -8647,12 +8982,17 @@ Henvisningen til 14. mai 2026 i kolonnen «Entry into force» skal forstås som 
 
 Part C – list of legal persons, entities or bodies established outside of the Union that are significantly frustrating the purpose of the prohibitions set out in Articles 3m, 3n and 3s of this Regulation
 
-Henvisningen til 12. november i kolonnen «Entry into force» skal forstås som 16. april 2026.
+Henvisningen til 12. november i kolonnen «Entry into force» skal forstås som 16. april 2026. Henvisningen til 13. august i kolonnen «Entry into force» skal forstås som 11. november 2026.
 
 | *Name of the legal person, entity or body* | *Entry into force* |
 | --- | --- |
 | Blackford Corporation Limited | 12 November 2025 |
 | Fuel and Oil Dynamics FZE | 12 November 2025. |
+| Vistula Delta Global FZE | 13.8.2026 |
+| Estrella Integrated FZE | 13.8.2026 |
+| Linglong Trading Group FZE | 13.8.2026 |
+| Arcadia International FZE | 13.8.2026 |
+| Nexus Oil Trading FZCO | 13.8.2026 |
 
 Part D – list of legal persons, entities or bodies established outside of the Union that enable the performance of international transactions, including through payments from accounts in other countries than Russia, through netting, through set-off, through reconciliation or through settlement, that frustrate the purpose of the prohibitions in those Regulations
 
@@ -8671,15 +9011,15 @@ Henvisningen til 14. mai 2026 i kolonnen «Entry into force» skal forstås som 
 
 [...]
 
-## Vedlegg XLVII. Liste over havner og sluser og flyplasser som omtalt i § 8cf
+## Vedlegg XLVII. Liste over havner og sluser, flyplasser og raffinerier som omtalt i § 8cf
 
-> Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), endret ved forskrifter [27 mars 2026 nr. 535](forskrift/2026-03-27-535) (korrigert ved kunngjøring [8 april 2026 nr. 557](forskrift/2026-04-08-557)), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+> Tilføyd ved forskrift [17 juni 2025 nr. 1412](forskrift/2025-06-17-1412), endret ved forskrifter [27 mars 2026 nr. 535](forskrift/2026-03-27-535) (korrigert ved kunngjøring [8 april 2026 nr. 557](forskrift/2026-04-08-557)), [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565), [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
 
 Henvisningene til artikler i kolonnen «Grounds for inclusion» refererer til rådsforordning [(EU) nr. 833/2014](eu/32014r0833), som gjennomført i forskriften § 8cf.
 
 ### Part A – List of ports and locks in Russia
 
-Henvisningen til 24. april 2026 i kolonnen «Date of application» skal forstås som 3. august 2026.
+Henvisningen til 24. april 2026 i kolonnen «Date of application» skal forstås som 3. august 2026. Henvisningen til 24. juli 2026 i kolonnen «Date of application» skal forstås som 21. oktober 2026.
 
 |  | *Name* | *Grounds for inclusion* | *Date of application* |
 | --- | --- | --- | --- |
@@ -8690,8 +9030,12 @@ Henvisningen til 24. april 2026 i kolonnen «Date of application» skal forstås
 | 5. | Novorossiysk | Article 5ae(1), point (c):<br>used for the maritime transport of crude oil or petroleum products, as listed in Annex XXV, that originate in Russia or are exported from Russia by vessels practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33) | 25.2.2025 |
 | 6. | Murmansk | Article 5ae(1), point (c):<br>used for the maritime transport of crude oil or petroleum products, as listed in Annex XXV, or of mineral products, that originate in Russia or are exported from Russia by vessels practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33) | 24.4.2026 |
 | 7. | Tuapse | Article 5ae(1), point (c):<br>used for the maritime transport of crude oil or petroleum products, as listed in Annex XXV, or of mineral products, that originate in Russia or are exported from Russia by vessels practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33) | 24.4.2026 |
+| 8. | Olya | Article 5ae(1), point (a):<br>used for the transfer of Unmanned Aerial Vehicles (UAVs) or missiles or related technologies or components thereof in support of Russia’s war of aggression against Ukraine | 24.7.2026 |
+| 9. | Vysotsk | Article 5ae(1), point (c):<br>used for the maritime transport of crude oil or petroleum products, as listed in Annex XXV, that originate in Russia or are exported from Russia by vessels practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33) | 24.7.2026 |
 
 ### Part B – List of airports
+
+Henvisningen til 24. juli 2026 i kolonnen «Date of application» skal forstås som 21. oktober 2026.
 
 |  | *Name* | *Grounds for inclusion* | *Date of application* |
 | --- | --- | --- | --- |
@@ -8701,6 +9045,10 @@ Henvisningen til 24. april 2026 i kolonnen «Date of application» skal forstås
 | 4. | Perm International Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 25.2.2025 |
 | 5. | Koltsovo International Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 25.2.2025 |
 | 6. | Pskov International Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 25.2.2025 |
+| 7. | Sheremetyevo Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 24.7.2026 |
+| 8. | Ulyanovsk-Vostochny Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 24.7.2026 |
+| 9. | Rostov-on-Don Platov Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 24.7.2026 |
+| 10. | Mineralnye Vody Airport | Article 5ae(2), point (b):<br>used for the transport of goods and technology used in the defence and security sector, from or to Russia, for use in Russia or for Russia’s warfare in Ukraine | 24.7.2026 |
 
 ### Part C – List of ports and locks in third countries other than Russia
 
@@ -8709,6 +9057,12 @@ Henvisningen til 24. april 2026 i kolonnen «Date of application» skal forstås
 |  | *Name* | *Grounds for inclusion* | *Date of application* |
 | --- | --- | --- | --- |
 | 1. | Karimun Oil Terminal, Indonesia | Article 5ae(1), point (c):<br>used for the maritime transport of crude oil or petroleum products, as listed in Annex XXV, or of mineral products, that originate in Russia or are exported from Russia by vessels practicing irregular and high-risk shipping practices as set out in the International Maritime Organisation General Assembly resolution A.1192(33) | 24.4.2026 |
+
+### Part D – List of refineries in Russia and in third countries other than Russia
+
+|  | *Name* | *Grounds for inclusion* | *Date of application* |
+| --- | --- | --- | --- |
+| 1. | Kulevi Oil Refinery,<br>Georgia | Article 5ae(2a), point (a):<br>used for the processing or refining of crude oil or the processing or blending of petroleum products, as listed in Annex XXV, or of mineral products, that originate in Russia<br>Article 5ae(2a), point (b):<br>used in such a way as to facilitate or engage in the violation or circumvention or otherwise significantly frustrate the provisions of this Regulation or of [Regulation (EU) No 269/2014](eu/32014r0269), [(EU) No 692/2014](eu/32014r0692) or [(EU) 2022/263](eu/32022r0263) | 25.1.2027 |
 
 ## Vedlegg XLVIII. Liste over varer som omtalt i § 19i
 
@@ -8789,3 +9143,9 @@ Henvisningen til 25. november 2025 i kolonnen «Entry into force» skal forstås
 ## Vedlegg LVI. Juridiske personer omtalt i § 19m første ledd
 
 > Tilføyd ved forskrift [14 juli 2026 nr. 1565](forskrift/2026-07-14-1565).
+
+## Vedlegg LVII. Liste over land som omtalt i § 8dc
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2106](forskrift/2026-10-19-2106) (i kraft 21 okt 2026).
+
+[...]
