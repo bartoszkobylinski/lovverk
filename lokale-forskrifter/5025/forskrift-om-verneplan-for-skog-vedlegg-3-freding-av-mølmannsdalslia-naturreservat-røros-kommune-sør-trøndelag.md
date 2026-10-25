@@ -10,6 +10,7 @@ vedtatt: null
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"
+status: "repealed"
 version: 1
 content_hash: "7dc9c9e085aa954949eb18a7216bb4a639893311e8d702ce0c9261bfdb1f155a"
 received_at: "2026-10-16T10:42:25Z"
