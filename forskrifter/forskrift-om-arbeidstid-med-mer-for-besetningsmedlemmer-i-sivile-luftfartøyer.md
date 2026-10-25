@@ -1,21 +1,21 @@
 ---
 id: "sf-20041230-1817"
-slug: "forskrift-om-arbeidstid-i-luftfarten"
+slug: "forskrift-om-arbeidstid-med-mer-for-besetningsmedlemmer-i-sivile-luftfartøyer"
 type: "forskrift"
 ref_id: "forskrift/2004-12-30-1817"
 title: "Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4)"
-short_title: "Forskrift om arbeidstid i luftfarten"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2005-05-01"
 last_change_in_force: "2016-07-01"
 last_updated: null
-xml_hash: "3418dbe5c14ee337ec0edb3b56f27601d56c64291cbd38db2ad4b2e45fe4021d"
+xml_hash: "1bd1469f950ce3bdf1e39b6353a6df95ac378bdc5462c096ffcec89ee9e66543"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,41 +38,24 @@ Forskriftens § 4 og § 5 gjelder likevel ikke luftfartsvirksomhet som omfattes 
 
 (1) I denne forskriften menes med:
 
-*Arbeidstid:*
-
-Den tiden besetningsmedlemmet står til disposisjon for luftfartsforetaket.
-
-*Base:*
-
-Sted/luftfartsanlegg der besetningsmedlemmet starter og avslutter arbeidet. Hjemmebasen er den basen der besetningsmedlemmet normalt starter og avslutter arbeidet, og der luftfartsforetaket ikke har ansvar for innkvartering.
-
-*Beredskapstjeneste:*
-
-Periode da besetningsmedlemmet er forpliktet til å holde seg klar for tjenestegjøring.
-
-*Besetningsmedlem:*
-
-En person som enten er ansatt i, innleid til eller utpekt av et luftfartsforetak til å utføre arbeid med betydning for luftfartøyets operasjoner under flyging.
-
-*Blokktid:*
-
-Tiden fra et luftfartøy forlater parkeringsplassen før avgang til det tidspunktet det stanser for å parkere og alle fremdriftsmotorer er slått av.
-
-*Fridag:*
-
-Lokal dag da besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.
-
-*Fritid:*
-
-Den tid besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.
-
-*Lokal dag:*
-
-En 24-timers periode som begynner kl. 0000 lokal tid.
-
-*Lovbestemt hviletid:*
-
-Hviletid som er pålagt i eller med hjemmel i luftfartsloven.
+- *Arbeidstid:*
+  Den tiden besetningsmedlemmet står til disposisjon for luftfartsforetaket.
+- *Base:*
+  Sted/luftfartsanlegg der besetningsmedlemmet starter og avslutter arbeidet. Hjemmebasen er den basen der besetningsmedlemmet normalt starter og avslutter arbeidet, og der luftfartsforetaket ikke har ansvar for innkvartering.
+- *Beredskapstjeneste:*
+  Periode da besetningsmedlemmet er forpliktet til å holde seg klar for tjenestegjøring.
+- *Besetningsmedlem:*
+  En person som enten er ansatt i, innleid til eller utpekt av et luftfartsforetak til å utføre arbeid med betydning for luftfartøyets operasjoner under flyging.
+- *Blokktid:*
+  Tiden fra et luftfartøy forlater parkeringsplassen før avgang til det tidspunktet det stanser for å parkere og alle fremdriftsmotorer er slått av.
+- *Fridag:*
+  Lokal dag da besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.
+- *Fritid:*
+  Den tid besetningsmedlemmet ikke står til disposisjon for luftfartsforetaket.
+- *Lokal dag:*
+  En 24-timers periode som begynner kl. 0000 lokal tid.
+- *Lovbestemt hviletid:*
+  Hviletid som er pålagt i eller med hjemmel i luftfartsloven.
 
 > Endret ved [forskrift 1 juli 2016 nr. 871](forskrift/2016-07-01-871).
 
