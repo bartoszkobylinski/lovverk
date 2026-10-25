@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: null
-xml_hash: "03979bdfaa5b60def5e852758d67d2968fb74d281aeaaff2d9cf17fdd56bf5d3"
+xml_hash: "0c6f1ea0771c35efee60681694c80898f439f0953e9dc0c613b16cb77fa231f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,13 @@ eu_basis: []
 
 Målet med tilskuddsordningen er å legge til rette for at alle barn og unge skal ha mulighet til mestring og samfunnsdeltakelse. Tilskuddsordningen skal bidra til utvikling av åpne møteplasser, deltakelse på ferie- og fritidsaktiviteter og fullføring av utdanningsløp.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 1-2. Målgruppe
 
 Målgruppen er barn og unge i alderen fra 0 til og med 24 år som av ulike grunner står i fare for å havne i utenforskap. Enkelte aktivitetstyper kan ha en mer begrenset målgruppe etter forskriften [kapittel 4](forskrift/2021-11-23-3261/kap4).
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 1-3. Kriterier for måloppnåelse
 
@@ -49,6 +53,8 @@ Prosjekter som får tilskudd, skal støtte opp under målet med tilskuddsordning
 
 Bufdir rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 1-4. Hvem kan søke
 
 Offentlige instanser, frivillige organisasjoner og private aktører kan søke om tilskudd.
@@ -63,7 +69,7 @@ Virksomheten som søker om tilskudd, må være registrert i enhetsregisteret.
 
 Enkeltpersonforetak og privatpersoner kan ikke søke.
 
-> Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025).
+> Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 1-5. Definisjoner
 
@@ -80,7 +86,11 @@ I denne forskriften betyr:
 9. *frivillig organisasjon:* organisasjon som er registrert i Frivillighetsregisteret.
 10. *privat aktør:* virksomhet som er registrert i Enhetsregisteret, men som ikke kvalifiserer som frivillig organisasjon eller offentlig virksomhet.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ## Kapittel 2. Saksgang og søknadsprosess
+
+> **Overskriften endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 2-1. Krav til deltakende kommune
 
@@ -101,7 +111,7 @@ Søknaden skal ikke knyttes til en deltakende kommune for søknader om Ungdomslo
 
 Søknader om prosjekter i Oslo kommune knyttes til bydelen som hoveddelen av deltakerne rekrutteres fra. Prosjekter som rekrutterer deltakere fra hele Oslo, skal knyttes til Oslo kommune sentralt.
 
-> Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025).
+> Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 2-2. Knutepunktfunksjon
 
@@ -129,6 +139,8 @@ Kommunens rangering skal legges inn av kommunens kontaktperson i Bufdirs søknad
 
 Bufdir fastsetter frist for kommunens rangering. Hvis fristen ikke overholdes, kan søknader avvises.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 2-4. Lokal kunngjøring
 
 Kommunen skal gjøre ordningen offentlig kjent gjennom relevante informasjonskanaler i god tid før Bufdirs søknadsfrist.
@@ -137,9 +149,13 @@ Kommunen skal gjøre ordningen offentlig kjent gjennom relevante informasjonskan
 
 Kommunen skal oppnevne en kontaktperson for tilskuddsordningen som er et kontaktpunkt for Bufdir. På forespørsel skal kontaktpersonen veilede søkere i søknadsprosessen.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 2-6. Vedtak
 
 Bufdir fatter vedtak etter å ha mottatt kommunenes rangering av søknadene.
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ## Kapittel 3. Hva det kan søkes til og utmåling av tilskuddet
 
@@ -159,6 +175,8 @@ Offentlige og private aktører må selv bidra med egenfinansiering som tilsvarer
 
 Laveste tildelingsbeløp er 50 000 kroner per tilskuddsår. For enkelte aktivitetstyper kan minstebeløpet være høyere, og/eller en øvre grense for hvor mye tilskudd man kan søke om. Det vises til [kapittel 4](forskrift/2021-11-23-3261/kap4).
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 3-2. Aktiviteter det kan søkes om midler til
 
 Tilskuddet skal benyttes til prosjekter som støtter opp under tilskuddsordningens mål. Aktivitetstyper det kan søkes tilskudd til følger av forskriften [kapittel 4](forskrift/2021-11-23-3261/kap4).
@@ -171,7 +189,7 @@ Det kan søkes om midler for en treårsperiode (ett til tre år). For enkelte ak
 
 Innvilgelse av tilskuddsmidler utover ett år gjøres med forbehold om videreføring i statsbudsjettet påfølgende år.
 
-> Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025).
+> Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 3-3. Aktivitet som ikke dekkes av tilskuddsmidler
 
@@ -180,6 +198,8 @@ Tilskuddsmidler kan ikke benyttes til aktivitet som:
 1. danner grunnlag for profitt for tilskuddsmottaker eller nærstående part,
 2. dekker tjenester som allerede er pålagt kommunen eller andre offentlige instanser ved lov eller,
 3. stiller krav om kunnskap, politisk ståsted eller religiøs bakgrunn for å delta.
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 3-4. Vurderingskriterier, prioriteringer og fordeling av midler
 
@@ -203,6 +223,8 @@ Nye søknader fra aktører som allerede mottar flerårig tilskudd, og søknader 
 
 Bufdir kan ved oversøkning prioritere søknader om etablering av nye prosjekter.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 3-5. Bruk av tilskuddet
 
 Tilskuddsåret varer fra 1. januar til 31. desember.
@@ -221,9 +243,13 @@ Når tilskuddsmottaker er en kommune, kan midler overføres fra én aktivitet ti
 
 Dersom noen av aktivitetene det er innvilget tilskudd til ikke kan gjennomføres i tråd med de fastsatte kravene til den enkelte aktivitet, må kommunen søke Bufdir dersom de ønsker å benytte midlene til en annen aktivitet.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 3-6. Opplysning om fordeling
 
 Bufdir skal offentliggjøre oversikter over alle tildelte tilskudd på egnet måte så snart fordelingen er gjort.
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ## Kapittel 4. Aktivitetstyper
 
@@ -235,7 +261,7 @@ Søker skal:
 2. prioritere målgruppen i rekruttering av deltakere til aktiviteten,
 3. avholde aktiviteten i deltakernes fritid og ha lave eller ingen kostnader for målgruppen.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-2. Jobbtilbud og veiledning
 
@@ -245,7 +271,7 @@ Søker skal:
 2. prioritere målgruppen i rekruttering av deltakere,
 3. ha en plan for oppfølging av deltakere og eventuelle arbeidsgivere i perioden aktiviteten pågår.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-3. Utstyrssentral
 
@@ -257,7 +283,7 @@ Søker skal:
 4. ikke gi bort utstyr eller låne ut utstyr på ubestemt tid,
 5. påse at tilskuddsmidler og egenfinansiering bare benyttes til å dekke utgifter som er direkte knyttet til drift av utstyrssentralen.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-4. Lokal fritidskasse
 
@@ -272,7 +298,7 @@ Søker skal:
 
 Kommuner som søker kan i tillegg benytte midler fra fritidskassen til å dekke kostnader til deltakeravgifter i faste, organiserte fritidsaktiviteter. Punktene a–f gjelder tilsvarende.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-5. Kultur- og aktivitetskort
 
@@ -292,7 +318,7 @@ Søker skal:
 2. påse at aktivitetsguiden setter det enkelte barn/ungdom/families ønsker og behov i sentrum for bistanden,
 3. påse at aktivitetsguiden har direkte kontakt med det enkelte barn/ungdom i målgruppen, og fungerer som et bindeledd mellom aktivitetstilbydere, familien og offentlige instanser.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-7. Ungdomslos
 
@@ -320,7 +346,7 @@ Søker skal:
 5. prioritere målgruppen i rekruttering av deltakere og sikre at deltakelse på møteplassen er gratis eller har lave kostnader for målgruppen,
 6. sikre at voksne ansatte/frivillige ivaretar gode rammer for møteplassen.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-9. Utprøving av arbeidsmodeller
 
@@ -332,7 +358,7 @@ Søker skal:
 4. påse at utprøvingen bidrar til å fjerne barrierer for deltakelse,
 5. sikre at prosjektet ikke er avgrenset til et tilbud om bare aktivitet til målgruppen eller aktivitetsguide.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 4-10. Koordinering av lokalt arbeid for inkludering av målgruppen
 
@@ -364,7 +390,7 @@ Søker skal:
 3. ikke søke om tilskudd til aktivitet tilsvarende § 4-4, § 4-7, § 4-9 eller § 4-10 under denne aktivitetstypen,
 4. søke om minst 200 000 kroner per år.
 
-> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
+> Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023). **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ## Kapittel 5. Oppfølging, kontroll og klageadgang
 
@@ -378,15 +404,21 @@ Rapporten om bruken av tilskuddet skal gjøre rede for hvilke resultater tilskud
 
 Tilskuddsmottaker skal fremlegge nødvendige opplysninger som viser at prosjektet er gjennomført som forutsatt, og at tilskuddsmidlene er benyttet i henhold til bestemmelsene.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 5-2. Kontroll
 
 Bufdir og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter forutsetningene etter [Bevilgningsreglementet § 10](forskrift/2005-05-26-876/§10) annet ledd og [lov om Riksrevisjonen § 12](lov/2004-05-07-21/§12).
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 5-3. Sanksjoner ved brudd på regelverket
 
 Dersom organisasjonen, eller noen på dens vegne, gir ufullstendige eller ukorrekte opplysninger i forbindelse med søknad om tilskudd, og dette fører til at tilskudd utbetales uberettiget eller med for stort beløp, kan tilskuddet helt eller delvis kreves tilbake. Hvis tilskuddet ennå ikke er utbetalt, kan det holdes helt eller delvis tilbake og/eller bortfalle.
 
 En tilskuddsmottaker som har brutt regelverket, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ### § 5-4. Tilbakebetaling av midler
 
@@ -398,9 +430,13 @@ Dersom tilskuddet ikke brukes etter forutsetningene i søknaden og tilskuddsbrev
 
 Dersom rapporteringen ikke godkjennes eller ikke foreligger innen fristen, kan tilskuddet helt eller delvis kreves tilbake.
 
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
+
 ### § 5-5. Klageadgang
 
 Enkeltvedtak gjort av Bufdir kan påklages til Barne- og familiedepartementet. Klagen fremsettes for Bufdir.
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
 
 ## Kapittel 6. Ikrafttredelse og overgangsregler
 
@@ -413,3 +449,5 @@ Forskriften trer i kraft 1. januar 2022.
 Det første tilskuddsåret etter at forskriften trer i kraft kan avvike fra perioden fastsatt i [§ 3-5](forskrift/2021-11-23-3261/§3-5). Bufdir opplyser om det første tilskuddsårets varighet i utlysningen.
 
 Løpende prosjekter som er innvilget tidligere år kan motta tilskudd ut prosjektperioden.
+
+> **Endres** ved forskrift [16 okt 2026 nr. 2078](forskrift/2026-10-16-2078) (i kraft 1 jan 2027).
