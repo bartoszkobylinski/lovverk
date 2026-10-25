@@ -7,10 +7,16 @@
     {
       "content_hash": "25a0e2ebf5fd9ccea4274681c872398506f200319ce4d58b988b2c7233c1cd7e",
       "promotion": {
+        "approval_carried": {
+          "approved_at_extractor": 9,
+          "basis": "byte-identical rendering",
+          "carried_at": "2026-10-25T20:05:01.619490Z",
+          "carried_to_extractor": 12
+        },
         "classifier": null,
         "decided_at": "2026-10-20T17:00:04.618698Z",
         "decision": "approve",
-        "extractor_version": 9,
+        "extractor_version": 12,
         "identity": {
           "candidates": [],
           "doc_id": "lk-3101-29a6ff0ef722",
