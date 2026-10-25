@@ -1,21 +1,21 @@
 ---
 id: "sf-20031211-1500"
-slug: "forskrift-om-registrering-av-alt-behandlere"
+slug: "forskrift-om-frivillig-registerordning-for-utøvere-av-alternativ-behandling"
 type: "forskrift"
 ref_id: "forskrift/2003-12-11-1500"
 title: "Forskrift om frivillig registerordning for utøvere av alternativ behandling."
-short_title: "Forskrift om registrering av alt. behandlere"
+short_title: null
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-01-01"
 last_change_in_force: "2013-01-17"
 last_updated: "2013-05-10"
-xml_hash: "ee318b28d65c32c1a3b4ff1fcf42fdde5385cbd61ddcee1e1f3e4449b7301f6d"
+xml_hash: "88e4c1a7937b3f210b56a90de65cba00de37246785ab7ce212f0839a75d9e83b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
