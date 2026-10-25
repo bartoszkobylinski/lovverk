@@ -1,26 +1,26 @@
 ---
 id: "sf-20040226-0511"
-slug: "forskrift-om-biobankmateriale-til-utlandet"
+slug: "forskrift-om-overføring-av-biobankmateriale-til-utlandet"
 type: "forskrift"
 ref_id: "forskrift/2004-02-26-511"
-title: "Forskrift om overføring av biobankmateriale til utlandet."
-short_title: "Forskrift om biobankmateriale til utlandet"
+title: "Forskrift om overføring av biobankmateriale til utlandet"
+short_title: null
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-03-01"
 last_change_in_force: "2013-01-17"
 last_updated: null
-xml_hash: "d226f4647278bf845547b9e55ce8def6f10176e210b25ca16015a262a57c51d0"
+xml_hash: "684bc8ba4a8a2836bce21f1eda5c9e4a8568d3f276bb2ac2e60be4ac497c522b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Forskrift om overføring av biobankmateriale til utlandet.
+# Forskrift om overføring av biobankmateriale til utlandet
 
 ## Kapittel 1. Formål og definisjoner
 
