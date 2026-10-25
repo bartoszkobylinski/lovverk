@@ -7,10 +7,16 @@
     {
       "content_hash": "a717fcf4cd79e25fc69cd9ad94af5a2330cdce4bed87d95cd35383cb747c9426",
       "promotion": {
+        "approval_carried": {
+          "approved_at_extractor": 8,
+          "basis": "byte-identical rendering",
+          "carried_at": "2026-10-25T20:05:01.619490Z",
+          "carried_to_extractor": 12
+        },
         "classifier": null,
         "decided_at": "2026-10-19T14:59:03.678085Z",
         "decision": "approve",
-        "extractor_version": 8,
+        "extractor_version": 12,
         "identity": {
           "candidates": [
             "lf-20030507-4968"
