@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-inkludering-av-barn-og-unge — Change history
 
-_3 events; doc_id `sf-20211123-3261`._
+_4 events; doc_id `sf-20211123-3261`._
+
+## 2026-10-25 — Content updated
+Lines: +51 -13.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-inkludering-av-barn-og-unge`
+Commit: `c071b93`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

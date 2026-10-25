@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # arbeidsmiljøloven-aml — Change history
 
-_5 events; doc_id `nl-20050617-062`._
+_6 events; doc_id `nl-20050617-062`._
+
+## 2026-10-25 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): arbeidsmiljøloven-aml`
+Commit: `e23490f`.
 
 ## 2026-07-01 — Content updated
 Lines: +10 -10.

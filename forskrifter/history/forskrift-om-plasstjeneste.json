@@ -2,6 +2,16 @@
   "doc_id": "sf-20040427-0670",
   "events": [
     {
+      "commit": "1c15252",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-plasstjeneste",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "acb8ca8",
       "date": "2026-09-09",
       "from_path": null,

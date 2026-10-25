@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261016-2069",
+  "events": [
+    {
+      "commit": "24d70de",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-klareringsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-klareringsforskriften"
+}

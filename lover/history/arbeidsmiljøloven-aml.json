@@ -2,6 +2,16 @@
   "doc_id": "nl-20050617-062",
   "events": [
     {
+      "commit": "e23490f",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): arbeidsmiljøloven-aml",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

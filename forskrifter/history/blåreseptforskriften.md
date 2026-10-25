@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # blåreseptforskriften — Change history
 
-_12 events; doc_id `sf-20070628-0814`._
+_13 events; doc_id `sf-20070628-0814`._
+
+## 2026-10-25 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): blåreseptforskriften`
+Commit: `5e43232`.
 
 ## 2026-08-01 — Content updated
 Lines: +68 -61.

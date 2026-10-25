@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opprinnelsesgarantier-for-kraft — Change history
 
-_3 events; doc_id `sf-20071214-1652`._
+_4 events; doc_id `sf-20071214-1652`._
+
+## 2026-10-25 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-opprinnelsesgarantier-for-kraft`
+Commit: `6021a0c`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

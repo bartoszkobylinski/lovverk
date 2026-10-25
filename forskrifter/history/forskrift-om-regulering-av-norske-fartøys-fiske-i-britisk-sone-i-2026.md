@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026 — Change history
 
-_5 events; doc_id `sf-20251219-2742`._
+_6 events; doc_id `sf-20251219-2742`._
+
+## 2026-10-25 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026`
+Commit: `9c4a159`.
 
 ## 2026-07-07 — Content updated
 Lines: +6 -4.

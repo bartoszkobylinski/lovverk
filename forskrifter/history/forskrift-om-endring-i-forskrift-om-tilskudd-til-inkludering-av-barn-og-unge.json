@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261016-2078",
+  "events": [
+    {
+      "commit": "7486dc8",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 117,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-tilskudd-til-inkludering-av-barn-og-unge",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-tilskudd-til-inkludering-av-barn-og-unge"
+}

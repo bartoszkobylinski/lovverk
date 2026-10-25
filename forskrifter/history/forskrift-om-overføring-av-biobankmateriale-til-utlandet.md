@@ -1,0 +1,31 @@
+---
+type: "history"
+slug: "forskrift-om-overføring-av-biobankmateriale-til-utlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
+# forskrift-om-overføring-av-biobankmateriale-til-utlandet — Change history
+
+_4 events; doc_id `sf-20040226-0511`._
+
+## 2026-10-25 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-overføring-av-biobankmateriale-til-utlandet`
+Commit: `73f2e7d`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
+
+## 2026-04-27 — Filename renamed
+Renamed: `forskrifter/sf-20040226-0511.md` → `forskrifter/forskrift-om-biobankmateriale-til-utlandet.md`.
+Lines: +2 -1.
+Subject: `migration: rename 4522 documents to slug-based filenames`
+Commit: `3dddeca`.
+
+## 2026-04-26 — Added to corpus
+Lines: +226 -0.
+Subject: `sync: 4522 new, 0 changed, 0 removed`
+Commit: `57c3052`.

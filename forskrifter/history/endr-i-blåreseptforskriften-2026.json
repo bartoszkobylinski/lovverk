@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261001-2083",
+  "events": [
+    {
+      "commit": "69555ac",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 61,
+      "lines_removed": 395,
+      "subject": "add(forskrift): endr-i-blåreseptforskriften-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-blåreseptforskriften-2026"
+}

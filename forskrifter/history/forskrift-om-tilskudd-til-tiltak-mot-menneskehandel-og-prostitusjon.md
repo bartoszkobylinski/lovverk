@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-tiltak-mot-menneskehandel-og-prostitusjon — Change history
 
-_3 events; doc_id `sf-20201210-2675`._
+_4 events; doc_id `sf-20201210-2675`._
+
+## 2026-10-25 — Content updated
+Lines: +19 -11.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-tiltak-mot-menneskehandel-og-prostitusjon`
+Commit: `2d28a21`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

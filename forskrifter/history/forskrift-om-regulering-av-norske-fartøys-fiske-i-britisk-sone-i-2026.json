@@ -2,6 +2,16 @@
   "doc_id": "sf-20251219-2742",
   "events": [
     {
+      "commit": "9c4a159",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "724a2d4",
       "date": "2026-07-07",
       "from_path": null,

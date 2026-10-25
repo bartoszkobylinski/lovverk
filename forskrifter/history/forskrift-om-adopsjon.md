@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-adopsjon — Change history
 
-_3 events; doc_id `sf-20180622-0959`._
+_4 events; doc_id `sf-20180622-0959`._
+
+## 2026-10-25 — Content updated
+Lines: +20 -2.
+Subject: `update(forskrift): forskrift-om-adopsjon`
+Commit: `3a0c97f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

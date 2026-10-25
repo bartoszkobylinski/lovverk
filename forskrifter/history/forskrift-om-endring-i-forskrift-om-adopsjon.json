@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261019-2079",
+  "events": [
+    {
+      "commit": "21dcb77",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 85,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-adopsjon",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-adopsjon"
+}

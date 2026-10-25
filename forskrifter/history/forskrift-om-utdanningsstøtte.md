@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utdanningsstøtte — Change history
 
-_7 events; doc_id `sf-20200415-0798`._
+_8 events; doc_id `sf-20200415-0798`._
+
+## 2026-10-25 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-utdanningsstøtte`
+Commit: `87884d9`.
 
 ## 2026-07-10 — Content updated
 Lines: +125 -18.

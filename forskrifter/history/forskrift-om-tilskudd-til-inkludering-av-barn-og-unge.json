@@ -2,6 +2,16 @@
   "doc_id": "sf-20211123-3261",
   "events": [
     {
+      "commit": "c071b93",
+      "date": "2026-10-25",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 13,
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-inkludering-av-barn-og-unge",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,
