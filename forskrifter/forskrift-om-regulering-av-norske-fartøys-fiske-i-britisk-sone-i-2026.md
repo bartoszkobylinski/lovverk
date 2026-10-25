@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-08"
 last_updated: null
-xml_hash: "6c1865b49bc4214a6015e024c9e168d1666bea898e3c1fd90606083d023b5bcf"
+xml_hash: "0ca51ed4f45a5ca207e4c9d58a7d53a1320b998975e1497bac18908cf17a30c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,6 +64,8 @@ Uten hensyn til forbudet i [§ 1](forskrift/2025-12-19-2742/§1) kan norske fart
    | Skjellbrosme | 60 tonn | Kun bifangst |
    | Lyr | 2 tonn | Kun bifangst |
    | Andre arter | 40 tonn | Kun bifangst |
+
+   Fisket etter brosme i områdene 6.a. og 5.b. stoppes 8. oktober 2026 klokken 23:59 UTC.
 2. Område 2.a.
 
    | *Art* | *Tonn* | *Vilkår* |
@@ -73,7 +75,7 @@ Uten hensyn til forbudet i [§ 1](forskrift/2025-12-19-2742/§1) kan norske fart
 
    Fisket etter blåkveite i område 2.a. stoppes onsdag 1. juli 2026 klokken 18:00 UTC.
 
-> Endret ved forskrift [1 juli 2026 nr. 1500](forskrift/2026-07-01-1500).
+> Endret ved forskrifter [1 juli 2026 nr. 1500](forskrift/2026-07-01-1500), [8 okt 2026 nr. 2066](forskrift/2026-10-08-2066).
 
 ## § 5. Bemyndigelse
 
