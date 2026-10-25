@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2024-12-13"
-last_change_in_force: "2025-12-19"
+last_change_in_force: "2026-10-15"
 last_updated: null
-xml_hash: "8659522cb44e8487aebf1694115fb6d058fdd67e7e0427099cb1ae725daa2e9a"
+xml_hash: "3d241427b23d43fb305f75f00f1163e7736fd9888abde27b6c88d28d07340c94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,6 +144,10 @@ Statens pensjonskasse har ansvar for administreringen av ordningen med gjensidig
 ### § 15. Særskilte tilfeller
 
 Selv om arbeidstakeren ikke oppfyller vilkår som nevnt i [AFP-loven § 8](lov/2010-06-25-28/§8) og [§ 9](lov/2010-06-25-28/§9), kan vedkommende likevel få rett til AFP dersom særlige grunner foreligger. Unntaket gjelder krav som er framsatt til og med 31. desember 2026.
+
+Tid i stilling tilknyttet AFP-ordninger for private barnehager inngår i vilkårsprøvingen av avtalefestet pensjon på tilsvarende måte som stilling tilknyttet avtalefestet pensjon som det gis statstilskott til etter [AFP-tilskottsloven](lov/2010-02-19-5).
+
+> Endret ved forskrift [15 okt 2026 nr. 2075](forskrift/2026-10-15-2075).
 
 ### § 16. Overgangsordning
 
