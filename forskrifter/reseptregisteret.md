@@ -1,21 +1,21 @@
 ---
 id: "sf-20031017-1246"
-slug: "forskrift-om-reseptregisteret"
+slug: "reseptregisteret"
 type: "forskrift"
 ref_id: "forskrift/2003-10-17-1246"
 title: "Forskrift om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister (Reseptregisteret)"
-short_title: "Forskrift om Reseptregisteret"
+short_title: "Reseptregisteret"
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2003-10-20"
 last_change_in_force: "2021-06-01"
 last_updated: null
-xml_hash: "e57967252ac373e9b2c699e26dee19a5ae66a641c88e26f35ba198ce29d18348"
+xml_hash: "29850f1036bc63371ba024d4958324b37e6cdaddaa5124443fed6959b2fa4c05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
