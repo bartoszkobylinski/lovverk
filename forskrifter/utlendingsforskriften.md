@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-10-01"
+last_change_in_force: "2026-10-19"
 last_updated: "2026-09-10"
-xml_hash: "14774828fcba026c10698226219b40c4cc1f11eaa5425e576dbfad57c5f4ec4a"
+xml_hash: "a858cdfe46d1037c6d25652b080d532f39181c2a2908622c8995d2890f455f32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -377,7 +377,7 @@ Følgende utlendinger er unntatt fra visumplikten:
 2. utlendinger som er borgere av et land som er tilsluttet [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen,
 3. familiemedlemmer til utlendinger som er borgere av et land som er tilsluttet [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen, når vedkommende har oppholdskort i et annet EØS-land i samsvar med direktiv [2004/38/EF](eu/32004l0038*) artikkel 10 og artikkel 20,
 4. utlendinger som har oppholdstillatelse utstedt av et Schengenland, og som har gyldig reisedokument, jf. lovens § 9 annet ledd og Schengenkonvensjonen artikkel 21. Med oppholdstillatelse menes her tillatelse av en hvilken som helst art som gir rett til opphold på, og retur til, utstederlandets territorium. Utlendinger som har midlertidig oppholdstillatelse utstedt av et Schengenland med sikte på behandling av en søknad om asyl eller opphold, må i tillegg ha reisedokument utstedt av det land som har utstedt oppholdstillatelsen,
-5. utlendinger som er borgere av et land som er unntatt fra visumplikt i henhold til europapalaments- og rådsforordning [(EU) 2018/1806](eu/32018r1806) av 14. november 2018 med vedlegg og med de senere endringer som gjelder for Norge, jf. vedlegg 5 til forskriften,
+5. utlendinger som er borgere av et land som er unntatt fra visumplikt i henhold til europaparlaments- og rådsforordning [(EU) 2018/1806](eu/32018r1806) av 14. november 2018 med vedlegg og med de senere endringer som gjelder for Norge, jf. [vedlegg 5](forskrift/2009-10-15-1286/vedlegg5) til forskriften,
 6. innehaver av reisebevis for flyktning utstedt i samsvar med overenskomst 15. oktober 1946 eller [flyktningkonvensjonen 28. juli 1951 av](traktat/1951-07-28-1) stat som har tiltrådt den europeiske overenskomst 20. april 1959 om opphevelse av visumtvangen for flyktninger, når det fremgår av reisebeviset at innehaveren har gyldig oppholdstillatelse i, eller gyldig returadgang til, den stat som har utstedt det. Liste over de stater som har tiltrådt overenskomsten 20. april 1959, følger som vedlegg 6 til forskriften,
 7. innehaver av reisebevis for flyktning utstedt som nevnt under bokstav f av stat som har tiltrådt overenskomst 23. november 1957 om flyktningsjømenn. Det er en forutsetning at det fremgår at innehaveren har gyldig returadgang til utstederstaten. Innehaveren må godtgjøre å skulle tiltre stilling på sjøfartøy i norsk havn eller havn i en stat som har sluttet seg til overenskomsten om flyktningsjømenn, og som innehaveren kan reise til enten direkte eller gjennom noen av de øvrige kontraherende stater. Liste over de stater som har tiltrådt overenskomsten følger som [vedlegg 7](forskrift/2009-10-15-1286/vedlegg7) til forskriften,
 8. innehavere av gyldig luftfartssertifikat som nevnt i [§ 2-9](forskrift/2009-10-15-1286/§2-9) og for den bruk som der er nevnt,
@@ -387,7 +387,9 @@ Følgende utlendinger er unntatt fra visumplikten:
 12. visumpliktige skoleelever som er bosatt i et EU-land som har implementert rådsbeslutning 94/795/JHA, når disse reiser på klassetur i følge med lærer fra vedkommende skole,
 13. innehaver av gyldig reisedokument som også har gyldig grenseboerbevis jf. [§ 3-1a](forskrift/2009-10-15-1286/§3-1a), og som passerer landgrensen mellom Norge og Russland på grunnlag av grenseboerbeviset.
 
-> Endret ved [forskrifter 11 feb 2011 nr. 149](forskrift/2011-02-11-149), [11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 29 mai 2012), [5 juli 2012 nr. 738](forskrift/2012-07-05-738) (i kraft 15 aug 2012), [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014), [15 feb 2019 nr. 485](forskrift/2019-02-15-485), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022).
+Unntaket fra visumplikten etter første ledd bokstav e gjelder ikke for innehavere av diplomat-, tjeneste- og offisielle pass fra Georgia.
+
+> Endret ved [forskrifter 11 feb 2011 nr. 149](forskrift/2011-02-11-149), [11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 29 mai 2012), [5 juli 2012 nr. 738](forskrift/2012-07-05-738) (i kraft 15 aug 2012), [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014), [15 feb 2019 nr. 485](forskrift/2019-02-15-485), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022), [19 okt 2026 nr. 2098](forskrift/2026-10-19-2098).
 
 ### § 3-1a. Grenseboerbevis
 
