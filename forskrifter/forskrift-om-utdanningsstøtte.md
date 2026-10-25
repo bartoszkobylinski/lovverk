@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2020-04-15"
-last_change_in_force: "2026-04-24"
+last_change_in_force: "2026-10-11"
 last_updated: null
-xml_hash: "14722f9e811adc5da70834155a7151de4b01d67cf25b1a004b0a4d509b0a2d3d"
+xml_hash: "4b65180e5ef9fed125afb037ddd175063e419bcd630ac770a56ba50a8896e7f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -825,11 +825,11 @@ Søkeren kan maksimalt få lån på til sammen 243 480 kr etter [§ 68](forskri
 
 ### § 69. Lån til skolepenger
 
-En søker som betaler skolepenger til lærestedet, har i studieåret 2026–2027 rett til lån til å dekke skolepenger på inntil 33 841 kr.
+En søker som betaler skolepenger til lærestedet, har i studieåret 2026–2027 rett til lån til å dekke skolepenger på inntil 33 841 kr. Søkere som får støtte fra andre til skolepenger, får redusert lån til skolepenger.
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)), [11 okt 2026 nr. 2067](forskrift/2026-10-11-2067).
 
 ## Del 3. Universitets- og høyskoleutdanning, fagskoleutdanning, folkehøgskoleutdanning, videregående opplæring og forberedende opplæring for voksne for søkere som ikke er omfattet av [del 2](forskrift/2020-04-15-798/del2), og andre utdanninger
 
