@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-09-15"
 last_updated: "2024-07-30"
-xml_hash: "e721881356b90c0ca5849e7744e02768864a18b4eccbdf9d4364914ccbde21a1"
+xml_hash: "d953890fde26c556e44fe2d1a348a84b3dd1106eaf0a5369ee367661c228f0a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-16T09:15:00.988256+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1842,7 +1842,7 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
-> Endret ved forskrifter [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (med virkning fra 1 sep 2023), [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (i kraft 1 des 2023), [24 sep 2025 nr. 1918](forskrift/2025-09-24-1918) (i kraft 1 okt 2025), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 jan 2026), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 feb 2026), [17 feb 2026 nr. 229](forskrift/2026-02-17-229) (i kraft 1 mars 2026), [21 aug 2026 nr. 1660](forskrift/2026-08-21-1660) (i kraft 1 sep 2026).
+> Endret ved forskrifter [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (med virkning fra 1 sep 2023), [24 nov 2023 nr. 1921](forskrift/2023-11-24-1921) (i kraft 1 des 2023), [24 sep 2025 nr. 1918](forskrift/2025-09-24-1918) (i kraft 1 okt 2025), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 jan 2026), [19 des 2025 nr. 2803](forskrift/2025-12-19-2803) (i kraft 1 feb 2026), [17 feb 2026 nr. 229](forskrift/2026-02-17-229) (i kraft 1 mars 2026), [21 aug 2026 nr. 1660](forskrift/2026-08-21-1660) (i kraft 1 sep 2026). **Endres** ved forskrift [15 okt 2026 nr. 2076](forskrift/2026-10-15-2076) (i kraft 1 nov 2026).
 
 ### § 5-11-2. Krav til fysisk eller bokføringsmessig atskillelse – frihandelsavtale
 
