@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2017-03-01"
-last_change_in_force: "2026-10-01"
+last_change_in_force: "2026-10-19"
 last_updated: "2024-09-12"
-xml_hash: "0f57e4c77927575ec4214a8a5d0e77ea1e98b202bd08d4eab014af03ec7fea8e"
+xml_hash: "4dc6f4385ff1446e7f941cec744dc4b717d66c78c44cbe5446aa06c1dba70775"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -537,6 +537,7 @@ Endringer i øvrige forskrifter trer i kraft 1. mars 2017.
 - Fysikalsk medisin og rehabilitering
 - Fødselshjelp og kvinnesykdommer
 - Gastroenterologisk kirurgi
+- Generell kirurgi
 - Geriatri
 - Hjertesykdommer
 - Hud og veneriske sykdommer
@@ -569,7 +570,7 @@ Endringer i øvrige forskrifter trer i kraft 1. mars 2017.
 - Øre-, nese-, halssykdommer
 - Øyesykdommer.
 
-> Tilføyd ved [forskrift 16 jan 2017 nr. 46](forskrift/2017-01-16-46) (i kraft 17 mars 2017), endret ved forskrifter [20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026).
+> Tilføyd ved [forskrift 16 jan 2017 nr. 46](forskrift/2017-01-16-46) (i kraft 17 mars 2017), endret ved forskrifter [20 des 2018 nr. 2243](forskrift/2018-12-20-2243) (i kraft 4 jan 2019), [10 sep 2026 nr. 1769](forskrift/2026-09-10-1769) (i kraft 1 okt 2026), [19 okt 2026 nr. 2097](forskrift/2026-10-19-2097).
 
 ## Vedlegg 2. Læringsmål for spesialistutdanningen av leger
 
