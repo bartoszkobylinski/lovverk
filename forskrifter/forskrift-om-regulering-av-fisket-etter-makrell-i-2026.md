@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-10-01"
+last_change_in_force: "2026-10-09"
 last_updated: null
-xml_hash: "ed3a28efa5a8c455171b0afe9cc3f1e359cf54bc126f40986cbd493152f86349"
+xml_hash: "2b9c3570eb091daeafbb86ed103ec891e7516e0f8f0ca2eea425af2988ea472f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-06T11:12:14.474092+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -95,9 +95,9 @@ Kvoten til det enkelte fartøyet beregnes ved å multiplisere fartøyets kvotefa
 
 Kvoteenheten for fartøy med ringnottillatelse er 1,0946 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 1,0 tonn fiskes i Storbritannias økonomiske sone. Delkvoteenheten for fiske i Storbritannias økonomiske sone oppheves fra og med 1. oktober 2026.
 
-Kvoteenheten for små ringnotfartøy er 0,8511 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,75 tonn fiskes i Storbritannias økonomiske sone.
+Kvoteenheten for små ringnotfartøy er 0,8511 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,75 tonn fiskes i Storbritannias økonomiske sone. Delkvoteenheten for fiske i Storbritannias økonomiske sone oppheves fra og med 8. oktober 2026.
 
-> Endret ved forskrifter [29 jan 2026 nr. 137](forskrift/2026-01-29-137), [2 feb 2026 nr. 138](forskrift/2026-02-02-138), [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530), [8 sep 2026 nr. 1765](forskrift/2026-09-08-1765), [18 sep 2026 nr. 1849](forskrift/2026-09-18-1849), [1 okt 2026 nr. 1978](forskrift/2026-10-01-1978).
+> Endret ved forskrifter [29 jan 2026 nr. 137](forskrift/2026-01-29-137), [2 feb 2026 nr. 138](forskrift/2026-02-02-138), [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530), [8 sep 2026 nr. 1765](forskrift/2026-09-08-1765), [18 sep 2026 nr. 1849](forskrift/2026-09-18-1849), [1 okt 2026 nr. 1978](forskrift/2026-10-01-1978), [8 okt 2026 nr. 2065](forskrift/2026-10-08-2065).
 
 ### § 8. Kvotefleksibilitet over årsskiftet på fartøynivå
 
@@ -166,9 +166,9 @@ Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kva
 | 18–21,35 | Garn og snøre | 2,8847 |  | 45,143 |
 | Not | 11,0682 |  | 173,206 |  |
 
-Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for beregning av fartøykvoten for fartøy med største lengde på eller over 15 meter og hjemmelslengde under 15 meter, samt fartøy med hjemmelslengde på eller over 15 meter, er 15,6489 tonn. Kvoteenheten for fartøy med største lengde og hjemmelslengde under 15 meter er 11,4715 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 14,5 tonn fiskes i Storbritannias økonomiske sone.
+Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for beregning av fartøykvoten for fartøy med største lengde på eller over 15 meter og hjemmelslengde under 15 meter, samt fartøy med hjemmelslengde på eller over 15 meter, er 15,6489 tonn. Kvoteenheten for fartøy med største lengde og hjemmelslengde under 15 meter er 11,4715 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 16,5 tonn fiskes i Storbritannias økonomiske sone.
 
-> Endret ved forskrifter [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
+> Endret ved forskrifter [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530), [8 okt 2026 nr. 2065](forskrift/2026-10-08-2065) (i kraft 9 okt 2026).
 
 ### § 13. Kvotefleksibilitet over årsskiftet på fartøynivå
 
