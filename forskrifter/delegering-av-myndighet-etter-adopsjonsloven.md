@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-07-01"
 last_change_in_force: "2022-01-26"
 last_updated: null
-xml_hash: "f9fb62f9102843b0ca5ddfafe6e4fc3a95c99ae612870418607f48d2e10383e0"
+xml_hash: "e8b9c7d393527d9665fb23b77d81e1db58ee5ae615610d0c6a610d4374cfd949"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,6 +46,8 @@ Kapittel 10. Ikrafttredelse, overgangsregler og endringer i andre lover.
 
 § 53 andre ledd om hvilke adopsjonssøknader loven gjelder for.
 
+> **Oppheves** ved vedtak [19 okt 2026 nr. 2080](forskrift/2026-10-19-2080) (i kraft 1 juli 2027).
+
 ## II
 
 Barne- og likestillingsdepartementet delegerer sin myndighet etter [lov 16. juni 2017 nr. 48](lov/2017-06-16-48) om adopsjon til Barne-, ungdoms- og familieetaten region øst for så vidt gjelder:
@@ -63,6 +65,8 @@ Kapittel 8. Når en adopsjonssak kan behandles i Norge, når norsk rett gjelder 
 § 47 første ledd om bekreftelse av at vilkårene i § 46 er oppfylt og andre ledd om å avgjøre at en utenlandsk adopsjon gjelder i Norge selv om den ikke anerkjennes etter § 46.
 
 § 48 om samtykke til å oppheve eller omgjøre en utenlandsk adopsjon.
+
+> **Endres** ved vedtak [19 okt 2026 nr. 2080](forskrift/2026-10-19-2080) (i kraft 1 juli 2027).
 
 ## III
 
@@ -107,6 +111,8 @@ Kapittel 7. Regler om saksbehandling.
 ## V
 
 Barne-, ungdoms- og familiedirektoratet er klagemyndighet for enkeltvedtak fattet av Barne-, ungdoms- og familieetatens regionkontor. Som klagemyndighet har Bufdir samme myndighet som regionkontorene i Bufetat til å innhente opplysninger mv. i saken.
+
+> **Endres** ved vedtak [19 okt 2026 nr. 2080](forskrift/2026-10-19-2080) (i kraft 1 juli 2027).
 
 ## VI
 
