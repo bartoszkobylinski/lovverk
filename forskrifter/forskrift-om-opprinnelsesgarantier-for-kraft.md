@@ -10,12 +10,12 @@ ministry:
   - "Energidepartementet"
 date_in_force: "2008-01-01"
 last_change_in_force: "2013-02-01"
-last_updated: "2010-01-26"
-xml_hash: "86f3a6017797d1d4f7f33d87166b90d3d74a3053b16b7483016c69bc04f895d7"
+last_updated: "2012-05-11"
+xml_hash: "134be70937dcf15b237e0e56fbc0e10aca620c9eb24aed1d223772f6cc518655"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
