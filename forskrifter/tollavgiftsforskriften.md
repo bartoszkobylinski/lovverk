@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-09-01"
 last_updated: null
-xml_hash: "91a270dddc94cc839a35916e2e6919aaf68b93be3704f64db9d03e2b67d4917a"
+xml_hash: "82b3566ecbc7d45d3101c32a82b1fbbbe196986e65b0b0e3e2e8c0c019de290a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -173,7 +173,7 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 
 (2) Bilaterale landbruksavtaler som er inngått i henhold til frihandelsavtalene, kan inneholde avvikende regler. Disse vil i tilfelle gjelde foran bestemmelsene i første ledd. Vilkårene i henhold til første ledd gjelder også for bilaterale avtaler om landbruksvarer, i den utstrekning disse ikke inneholder egne vilkår.
 
-> Endret ved forskrifter [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 feb 2026), [17 feb 2026 nr. 228](forskrift/2026-02-17-228) (i kraft 1 mars 2026), [21 aug 2026 nr. 1659](forskrift/2026-08-21-1659) (i kraft 1 sep 2026).
+> Endret ved forskrifter [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 feb 2026), [17 feb 2026 nr. 228](forskrift/2026-02-17-228) (i kraft 1 mars 2026), [21 aug 2026 nr. 1659](forskrift/2026-08-21-1659) (i kraft 1 sep 2026). **Endres** ved forskrift [15 okt 2026 nr. 2077](forskrift/2026-10-15-2077) (i kraft 1 nov 2026).
 
 ### § 4-1-2. Preferansetollavgift
 
@@ -763,7 +763,7 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 
 \* Land som ikke har notifisert norske myndigheter etter tollavgiftsforskriften § 3-1-4.
 
-> Endret ved forskrifter [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023), [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025).
+> Endret ved forskrifter [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023), [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025). **Endres** ved forskrift [15 okt 2026 nr. 2077](forskrift/2026-10-15-2077) (i kraft 1 des 2026).
 
 ### Tollavgiftsforskriften § 3-1-2 annet ledd bokstav c
 
@@ -815,7 +815,7 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 
 \* Land som ikke har notifisert norske myndigheter etter tollavgiftsforskriften § 3-1-4.
 
-> Endret ved forskrifter [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023), [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026).
+> Endret ved forskrifter [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023), [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026). **Endres** ved forskrift [15 okt 2026 nr. 2077](forskrift/2026-10-15-2077) (i kraft 1 feb 2027).
 
 ### Vedlegg 2. Liste over den bearbeiding eller foredling som kreves utført på ikke-opprinnelsesmaterialer for at det fremstilte produkt skal oppnå opprinnelsesstatus (jf. § 4-1-10 første ledd)
 
