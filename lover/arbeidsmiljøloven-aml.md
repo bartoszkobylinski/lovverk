@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-08"
-xml_hash: "56546f38f0274d93f3bcb154bfdc0e0b25548ec615ee80bfb8d6d92e6c862488"
+xml_hash: "a809f9deab8a6873ef1639fb25584bbf93b366e79d7a936fa6f95fe8afb8d5c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -387,7 +387,7 @@ Etter pålegg fra departementet plikter offentlige myndigheter uten hinder av ta
 
 (8) Når hensynet til helse, miljø og sikkerhet tilsier det, kan departementet i forskrift gi bestemmelser om at virksomheter som tilbyr renholdstjenester eller tjenester i forbindelse med vedlikehold og reparasjon av motorvogn, må godkjennes av Arbeidstilsynet, og om det nærmere innholdet i en slik godkjenningsordning. Når det stilles krav om slik godkjenning, vil det være ulovlig å benytte tjenester fra virksomheter uten godkjenning.
 
-> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), 2 9 juni 2007 nr. 42 (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1140](forskrift/2007-10-12-1140)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [16 des 2011 nr. 58](lov/2011-12-16-58), [18 des 2015 nr. 103](lov/2015-12-18-103), [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)), [19 juni 2026 nr. 33](lov/2026-06-19-33) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139)).
+> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), 29 juni 2007 nr. 42 (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1140](forskrift/2007-10-12-1140)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [16 des 2011 nr. 58](lov/2011-12-16-58), [18 des 2015 nr. 103](lov/2015-12-18-103), [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)), [19 juni 2026 nr. 33](lov/2026-06-19-33) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139)).
 
 ### § 4-2. Krav til tilrettelegging, medvirkning og utvikling
 
