@@ -3,7 +3,7 @@ id: "sf-20201120-2424"
 slug: "ekvivalensforskriften"
 type: "forskrift"
 ref_id: "forskrift/2020-11-20-2424"
-title: "Forskrift om import av toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra De forente stater"
+title: "Forskrift om særskilte forenklede importvilkår fastsatt i ekvivalensavtaler"
 short_title: "Ekvivalensforskriften"
 language: "no"
 ministry:
@@ -11,140 +11,84 @@ ministry:
   - "Nærings- og fiskeridepartementet"
   - "Landbruks- og matdepartementet"
 date_in_force: "2020-11-26"
-last_change_in_force: "2022-02-27"
+last_change_in_force: "2026-10-19"
 last_updated: null
-xml_hash: "e6d718c3e612ddf22d2aa2e540ed8834224c13fc4266032e552c958019fd1547"
+xml_hash: "c909e2b82391c6c48a005f22a5d657f27e53122844e0984fb0416a79a3328eba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Forskrift om import av toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra De forente stater
+# Forskrift om særskilte forenklede importvilkår fastsatt i ekvivalensavtaler
 
 ## § 1. Virkeområde
 
-Forskriften regulerer særskilte forenklede importvilkår for innførselen av levende, kjølte, frosne eller behandlede toskallete bløtdyr, pigghuder, sekkdyr og sjøsnegler beregnet på konsum fra statene Massachusetts og Washington i De forente stater, når Norge er innførselsstedet i EØS-området.
+Forskriften regulerer særskilte forenklede importvilkår, herunder bruk av helsesertifikater, fastsatt i ekvivalensavtaler EU har inngått med Canada, New Zealand og USA, når Norge er innførselsstedet i EØS-området.
 
-Ved konflikt mellom forordningens bestemmelser og denne bestemmelse, går alltid forordningens bestemmelser foran.
+> Endret ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
 
-## § 2. Importregler for toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra De forente stater
+## § 2. Forenklede importvilkår for toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra USA
 
-[EØS-avtalens vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I innledende del nr. 7 (forordning [(EU) 2020/1641](eu/32020r1641), som endret ved forordning [(EU) 2022/158](eu/32022r0158)) om import av toskallete bløtdyr, pigghuder, sekkdyr og sjøsnegler fra De forente stater gjelder som forskrift med de tilpasninger som følger av vedlegg I og protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2020/1641](eu/32020r1641) om import av toskallede bløtdyr, pigghuder, sekkdyr og sjøsnegler fra USA, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7, gjelder som forskrift. Forordningen gjelder med tilpasninger som følger av vedlegg I [kapittel I](avtale/avt-1992-05-02-1-v1/kapI), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning [(EU) 2022/158](eu/32022r0158) og forordning [(EU) 2026/1305](eu/32026r1305).
 
-> Endret ved forskrift [21 feb 2022 nr. 278](forskrift/2022-02-21-278) (i kraft 27 feb 2022).
+> Endret ved forskrifter [21 feb 2022 nr. 278](forskrift/2022-02-21-278) (i kraft 27 feb 2022), [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
 
-## § 3. Tilsyn og vedtak
+## § 3. Forenklede importvilkår for fiskerivarer fra USA
+
+Beslutning [2006/199/EF](eu/32006d0199) om fastsettelse av særlige vilkår for import av fiskerivarer fra USA, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med tilpasninger som følger av vedlegg I [kapittel I](avtale/avt-1992-05-02-1-v1/kapI), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning [(EU) 2026/1205](eu/32026d1205).
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
+
+## § 4. Forenklede importvilkår for forsendelser av ferskt kjøtt fra svin fra Canada
+
+Beslutning [2006/199/EF](eu/32006d0199) om fastsettelse av særlige vilkår for forsendelser av ferskt kjøtt fra svin fra Canada, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med tilpasninger som følger av vedlegg I [kapittel I](avtale/avt-1992-05-02-1-v1/kapI), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning [(EU) 2026/1375](eu/32026d1375).
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
+
+## § 5. Forenklede importvilkår for forsendelser av levende dyr og produkter av animalsk opprinnelse fra New Zealand
+
+Beslutning [(EU) 2026/1936](eu/32026d1936) om fastsettelse av særlige vilkår for innførsel til Unionen av forsendelser av levende dyr og produkter av animalsk opprinnelse fra New Zealand, som inntatt i [EØS-avtalens vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med de tilpasninger som følger av vedlegg I og protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
+
+## § 6. Tilsyn og vedtak
 
 Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. [matloven § 23](lov/2003-12-19-124/§23), for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til [matloven § 24](lov/2003-12-19-124/§24) til [§ 26](lov/2003-12-19-124/§26).
 
-## § 4. Straff
+> Endret ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085) (tidligere § 3).
+
+## § 7. Straff
 
 Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
 
-## § 5. Dispensasjon
+> Endret ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085) (tidligere § 4).
+
+## § 8. Dispensasjon
 
 Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-## § 6. Ikrafttredelse
+> Endret ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085) (tidligere § 5).
+
+## § 9. Ikrafttredelse
 
 Denne forskriften trer i kraft 26. november 2020.
 
-## Forordninger
+> Endret ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085) (tidligere § 6).
 
-### Forordning (EU) 2020/1641 om import av toskallete bløtdyr, pigghuder, sekkdyr og sjøsnegler fra De forente stater
+## Forordninger og beslutninger
 
-> Endret ved forskrift [21 feb 2022 nr. 278](forskrift/2022-02-21-278) (i kraft 27 feb 2022).
+> Endret ved forskrifter [21 feb 2022 nr. 278](forskrift/2022-02-21-278) (i kraft 27 feb 2022), [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
 
-Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kap. I innledende del 7 (forordning [(EU) 2020/1641](eu/32020r1641), som endret av forordning [(EU) 2022/158](eu/32022r0158)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og til [EØS-avtalen](lov/1992-11-27-109/eøsl).
+Konsolidert forordning [(EU) 2020/1641](eu/32020r1641), inkludert oppdatert modellsertifikat, finnes i dansk versjon [her](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02020R1641-20260702).
 
-### COMMISSION IMPLEMENTING REGULATION (EU) 2020/1641
+Konsolidert beslutning [(EU) 2005/290/EF](eu/32005d0290), inkludert oppdatert modellsertifikat, finnes i dansk versjon [her](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02005D0290-20260715&qid=1791990029951).
 
-of 5 November 2020
-regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America
-(Text with EEA relevance)
+Konsolidert beslutning [(EU) 2006/199/EF](eu/32006d0199), inkludert oppdatert modellsertifikat, finnes i dansk versjon [her](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02006D0199-20260630).
 
-THE EUROPEAN COMMISSION,
-
-Having regard to the [Treaty on the Functioning of the European Union](eu/12016e),
-
-Having regard to [Regulation (EU) 2017/625](eu/32017r0625) of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No 999/2001](eu/32001r0999), [(EC) No 396/2005](eu/32005r0396), [(EC) No 1069/2009](eu/32009r1069), [(EU) No 1107/2009](eu/32009r1107), (EU) No 1151/2012, (EU) No 652/2014, [(EU) 2016/429](eu/32016r0429) and [(EU) 2016/2031](eu/32016r2031) of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](eu/32005r0001) and [(EC) No 1099/2009](eu/32009r1099) and Council Directives [98/58/EC](eu/31998l0058), [1999/74/EC](eu/31999l0074), [2007/43/EC](eu/32007l0043), [2008/119/EC](eu/32008l0119) and [2008/120/EC](eu/32008l0120), and repealing Regulations [(EC) No 854/2004](eu/32004r0854) and [(EC) No 882/2004](eu/32004r0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](eu/31989l0608), [89/662/EEC](eu/31989l0662), [90/425/EEC](eu/31990l0425), [91/496/EEC](eu/31991l0496), [96/23/EC](eu/31996l0023), [96/93/EC](eu/31996l0093) and [97/78/EC](eu/31997l0078) and Council Decision [92/438/EEC](eu/31992d0438) (Official Controls Regulation)[^1], and in particular Article 129(1) thereof,
-
-Whereas:
-
-(1) [Regulation (EU) 2017/625](eu/32017r0625) lays down general rules for the performance of official controls to verify compliance with rules aimed at preventing, eliminating or reducing to acceptable levels risks to humans and animals, either directly or through the environment.
-
-(2) In particular, [Regulation (EU) 2017/625](eu/32017r0625) lays down general conditions for the entry into the Union of animals and goods from third countries or regions thereof, including food intended for human consumption. [Article 129 of Regulation (EU) 2017/625](eu/32017r0625/a129) empowers the Commission to recognise that measures applied by third countries, or regions thereof, are equivalent to the requirements laid down in certain rules referred to in [Article 1](eu/32017r0625/a1)(2) of that Regulation, if the third countries offer objective proof in this respect. It also empowers the Commission to set out the conditions governing the entry into the Union of such animals and goods from such third countries or regions thereof, in particular with regard to the nature and content of the official certificates or attestations that are to accompany those commodities.
-
-(3) Council Decision [98/258/EC](eu/31998*0258)[^2] approves the Agreement between the European Community and the United States of America on sanitary measures to protect public and animal health in trade in live animals and animal products, with the objective to facilitate trade, inter alia, by establishing a mechanism for the recognition of equivalence of sanitary measures. Live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption fall within the scope of this Agreement (Annex I ‘Product coverage’).
-
-(4) Union controls in the United States were carried out from 17 to 27 March 2015 to evaluate the control system in place governing the production of bivalve molluscs and fishery products derived therefrom intended for export to the Union (Union controls). In the context of those controls, the United States authorities provided information about sanitary rules applicable to bivalve molluscs, echinoderms, tunicates and marine gastropods within their territory, risk-assessment procedures and factors taken into consideration for the assessment of risks and for the determination of the appropriate level of sanitary protection as regards those goods and control, inspection procedures, and official certification mechanisms.
-
-(5) Echinoderms, tunicates and marine gastropods are subject to the hygiene rules applicable to live, chilled and frozen bivalve molluscs set out in [Regulation (EC) No 853/2004](eu/32004r0853) of the European Parliament and of the Council[^3] according to its Annex III, Section VII, point 1. Accordingly, the finding as regards live bivalve molluscs in the context of the Union controls apply to echinoderms, tunicates and marine gastropods.
-
-(6) Commission [Implementing Regulation (EU) 2019/626](eu/32019r0626)[^4] establishes the lists of third countries or regions thereof from which consignments of certain animals and goods intended for human consumption shall be authorised for entry into the Union from food safety perspective, in accordance with [Article 126](eu/32017r0625/a126)(2)(a) of [Regulation (EU) 2017/625](eu/32017r0625), which requires the compliance with the relevant requirements established by the rules referred to in its [Article 1](eu/32017r0625/a1)(2) or with requirements recognised to be at least equivalent thereto. [Implementing Regulation (EU) 2019/626](eu/32019r0626) provides that consignments of live chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption shall only be authorised for the entry into the Union if they come from third countries or regions thereof that are listed in its Annex I. States of Massachusetts and Washington of the United States appear on that list.
-
-(7) The Union controls, the subsequent assurances provided by the United States and [Implementing Regulation (EU) 2019/626](eu/32019r0626) give grounds to establish that the measures applied in the States of Massachusetts and Washington of the United States for the protection of public health in relation to the production and placing on the market of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption are equivalent to the requirements laid down in rules as regards food safety referred to in [Article 1(2) of Regulation (EU) 2017/625](eu/32017r0625/a1).
-
-(8) To enable the entry into the Union of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption it is necessary to establish an official model certificate for imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption from the United States of America, which requires to certify that the measures applied to the production and placing on the market of those goods are equivalent to the requirements laid down in rules as regards food safety referred to in [Article 1(2) of Regulation (EU) 2017/625](eu/32017r0625/a1).
-
-(9) When laying down requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption, reference should be made to the Combined Nomenclature codes in accordance with [Council Regulation (EEC) No 2658/87](eu/31987r2658)[^5], which lays down codes for live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption.
-
-(10) The measures provided for in this Implementing Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
-
-1 OJ L 95, 7.4.2017, p. 1.
-
-2 Council Decision [98/258/EC](eu/31998d0258) of 16 March 1998 on the conclusion of the Agreement between the European Community and the United States of America on sanitary measures to protect public and animal health in trade in live animals and animal products (OJ L 118, 21.4.1998, p. 1).
-
-3 [Regulation (EC) No 853/2004](eu/32004r0853) of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
-
-4 Commission [Implementing Regulation (EU) 2019/626](eu/32019r0626) of 5 March 2019 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending [Implementing Regulation (EU) 2016/759](eu/32016r0759) as regards these lists (OJ L 131, 17.5.2019, p. 31).
-
-5 [Council Regulation (EEC) No 2658/87](eu/31987r2658) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
-
-HAS ADOPTED THIS REGULATION:
-
-### Article 1. Subject matter and scope
-
-This Regulation lays down rules concerning the entry into the Union of consignments of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption from the States of Massachusetts and Washington of the United States.
-
-### Article 2. Definition
-
-For the purpose of this Regulation, the following definition shall apply:
-
-‘Bivalve molluscs’ means bivalve molluscs as defined in point 2.1 of Annex I to [Regulation (EC) No 853/2004](eu/32004r0853).
-
-### Article 3. Equivalence
-
-The measures applied in the States of Massachusetts and Washington of the United States for the protection of public health in relation to the production and placing on the market of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption for which the Combined Nomenclature codes have been laid down in Part Two of Annex I to [Regulation (EEC) No 2658/87](eu/31987r2658) are equivalent to the requirements laid down in the rules referred to in [Article 1](eu/32017r0625/a1)(2)(a) of [Regulation (EU) 2017/625](eu/32017r0625).
-
-### Article 4. Official certificate
-
-Each consignment of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption, as referred to Article 1, shall enter the Union only if they are accompanied by an official certificate duly completed in accordance with the model set out in the Annex.
-
-### Article 5. Entry into force
-
-This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
-
-This Regulation shall be binding in its entirety and directly applicable in all Member States.
-
-Done at Brussels, 5 November 2020.
-
-|  |  |
-| --- | --- |
-| *For the Commission* |  |
-|  |  |
-| *The President* |  |
-|  |  |
-| Ursula VON DER LEYEN |  |
-
-### VEDLEGG
-
-OFFICIAL MODEL CERTIFICATE FOR IMPORTS OF LIVE, FROZEN, CHILLED OR PROCESSED BIVALVE MOLLUSCS, ECHINODERMS, TUNICATES AND MARINE GASTROPODS INTENDED FOR HUMAN CONSUMPTION FROM THE UNITED STATES OF AMERICA
-
-For å lese vedlegget med offisielt sertifikat som skal benyttes, se pdf-filen for forordning [(EU) 2022/158](eu/32022r0158) nedenfor.
+Beslutning [(EU) 2026/1936](eu/32026d1936), inkludert oppdatert modellsertifikat, finnes i dansk versjon [her](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=OJ:L_202601936).
 
 ## Forordninger i PDF
 
