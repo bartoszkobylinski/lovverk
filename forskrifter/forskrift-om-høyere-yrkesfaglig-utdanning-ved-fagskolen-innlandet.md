@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-15"
 last_updated: null
-xml_hash: "a9d514660f15177afa9e9f2bb409fd8f02432c81b19e6247a6b382d420299277"
+xml_hash: "c8d9174f8fc4a4e22508b8cc23c3d09184c4869a5ab6e5e30e9c36cfbc99b2e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -246,11 +246,13 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 4-2. Fagskoleutdanninger med skikkethetsvurdering
 
-(1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare, jf. [§ 4-1](forskrift/2023-12-04-2342/§4-1) i denne forskrift. Dette gjelder for samtlige fagskoleutdanninger, etter- og videreutdanninger innen fagområdet helse, samt studiet Dyreassisterte aktiviteter for økt mestring og livskvalitet ved Fagskolen Innlandet.
+(1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare, jf. [§ 4-1](forskrift/2023-12-04-2342/§4-1) i denne forskrift. Dette gjelder for samtlige fagskoleutdanninger innen fagområdet helse, samt studiene Dyreassisterte aktiviteter for økt mestring og livskvalitet og Lederutdanning for Hærens spesialister ved Fagskolen Innlandet.
 
 (2) Ved akkreditering av ny fagskoleutdanning innen fagområdet helse skal det alltid foretas skikkethetsvurderinger for den aktuelle fagskoleutdanningen.
 
-(3) Fagskolen Innlandet har etablert en prosedyre for fagskolens rutiner og prosess rundt skikkethetsvurdering som både ansatte og studenter innen aktuelt fagområde skal gjøre seg kjent med, jf. § 29–§ 36 i forskrift for høyere yrkesfaglig utdanning.
+(3) Fagskolen Innlandet har etablert en prosedyre for fagskolens rutiner og prosess rundt skikkethetsvurdering som både ansatte og studenter innen aktuelt fagområde skal gjøre seg kjent med, jf. [§ 29](forskrift/2019-07-11-1005/§29)–[§ 36](forskrift/2019-07-11-1005/§36) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
+
+> Endret ved forskrift [15 juni 2026 nr. 2064](forskrift/2026-06-15-2064).
 
 ### § 4-3. Løpende og særskilt skikkethetsvurdering
 
