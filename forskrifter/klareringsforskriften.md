@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-01-01"
 last_change_in_force: "2025-06-20"
 last_updated: null
-xml_hash: "4073a4d21bb91d54f2bd01bae0d8c935da417bd7455ea7b782f138b54ad0b27c"
+xml_hash: "9c378ee3b08f710193638883418fca25be1ef8453d4240b12a9e705949a984b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Er det tvil om hvem som er rett klareringsmyndighet, fastsetter Nasjonal sikkerh
 
 De som utøver klareringsmyndighet, skal ha klarering for det høyeste klareringsnivået vedkommende kan klarere for.
 
-> Endret ved forskrift [20 juni 2025 nr. 1133](forskrift/2025-06-20-1133).
+> Endret ved forskrift [20 juni 2025 nr. 1133](forskrift/2025-06-20-1133). **Endres** ved forskrift [16 okt 2026 nr. 2069](forskrift/2026-10-16-2069) (i kraft 1 jan 2027).
 
 ### § 2. Definisjoner
 
