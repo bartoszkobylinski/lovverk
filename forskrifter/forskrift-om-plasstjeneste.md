@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-09-01"
 last_change_in_force: "2009-07-01"
 last_updated: null
-xml_hash: "9efba8f35e419cbe6058e367e0f8a8f4e873bc463361601c738df94d4c905bf7"
+xml_hash: "997710f1751fb7c47c4a7c2e62b334c9a163324bb9fcff42693dba5fbdfd2490"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,8 @@ eu_basis: []
 
 Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:
 
-Vedlegg 1) Innhold i banerapport.
-
-Vedlegg 2) Merking av midlertidig flyttet terskel, stengt rullebane og stengt taksebane.
+- Vedlegg 1) Innhold i banerapport.
+- Vedlegg 2) Merking av midlertidig flyttet terskel, stengt rullebane og stengt taksebane.
 
 ## § 1. Formål
 
