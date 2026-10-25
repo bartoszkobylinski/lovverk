@@ -1,21 +1,21 @@
 ---
 id: "sf-20031211-1501"
-slug: "forskrift-om-markedsføring-av-alternativ-behandling"
+slug: "forskrift-om-markedsføring-av-alternativ-behandling-av-sykdom"
 type: "forskrift"
 ref_id: "forskrift/2003-12-11-1501"
 title: "Forskrift om markedsføring av alternativ behandling av sykdom"
-short_title: "Forskrift om markedsføring av alternativ behandling"
+short_title: null
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-01-01"
 last_change_in_force: "2018-01-01"
 last_updated: "2013-05-10"
-xml_hash: "41ba0a078e3b68e145734d5c722eb12c242db6ff49a2fdf5f16bc7e09a0be167"
+xml_hash: "fe8507bfb966f97cdc1f2513a8d25fa888108c801c685a5fe1117511d5c35d4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
