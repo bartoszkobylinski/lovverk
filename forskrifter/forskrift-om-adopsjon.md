@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-07-01"
 last_change_in_force: "2019-04-11"
 last_updated: null
-xml_hash: "f15ca21bb833dc0baafa2df369206b504270eca83aaeb3e3ed8d8fd8352a5a1c"
+xml_hash: "9c1ce2a6cfe05b0b9f34b98a5322475cff6c1c22f7249d89a777e7195872bb4a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-25T20:11:20.947123+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,15 +68,21 @@ En adopsjonssøknad skal sendes Barne-, ungdoms- og familieetatens regionkontor 
 
 Dokumentasjonen skal være originaldokumenter som ikke er eldre enn seks måneder. Fødselsattest, vigselsattest og pass kan framlegges i kopi som er bekreftet av offentlig tjenesteperson eller advokat. Fødselsattesten og utskriften av det siste grunnlaget for skatt kan være eldre enn 6 måneder.
 
+> **Endres** ved forskrift [19 okt 2026 nr. 2079](forskrift/2026-10-19-2079) (i kraft 1 juli 2027).
+
 ### § 4. Utredning av adopsjonssøker
 
 En søker skal være utredet av Barne-, ungdoms- og familieetatens regionkontor for å adoptere spedbarn nasjonalt og for å få forhåndssamtykke til å adoptere barn fra utlandet. Utredningen innebærer at det gjennomføres en eller flere samtaler med søkerne, og at det utarbeides en sosialrapport mv.
+
+> **Endres** ved forskrift [19 okt 2026 nr. 2079](forskrift/2026-10-19-2079) (i kraft 1 juli 2027).
 
 ### § 5. Krav om tilleggsopplysninger og uttalelser ved søknad om adopsjon
 
 For å få søknaden så godt opplyst som mulig, kan Barne-, ungdoms- og familieetatens regionkontor blant annet kreve tilleggsopplysninger fra søkeren og innhente rådgivende uttalelse fra en lege og en psykolog.
 
 Bufetat kan også innhente opplysninger fra personer i søkerens nettverk. Hvis uttalelsene eller tilleggsopplysningene omfatter personopplysninger om andre enn søker, skal Bufetat innhente samtykke til å motta opplysningene fra den opplysningene gjelder.
+
+> **Endres** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
 
 ### § 6. Søkers informasjonsplikt om endringer
 
@@ -92,6 +98,8 @@ Søker skal informere Barne-, ungdoms- og familieetatens regionkontor om endring
 8. flytting.
 
 Ved utenlandsadopsjon vurderer Bufetat om vilkårene for adopsjon fortsatt er oppfylt og kan pålegge adopsjonsorganisasjonen å hindre at søker blir tildelt et barn før den nye vurderingen er gjort. Blir opplysningene etter første ledd vurdert slik at vilkårene for forhåndssamtykke ikke lenger er oppfylt, skal forhåndssamtykket trekkes tilbake.
+
+> **Endres** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
 
 ## Kapittel 2. Nasjonal spedbarnsadopsjon
 
@@ -147,6 +155,8 @@ Et forhåndssamtykke gjelder i 3 år. Fyller søkeren fortsatt vilkårene i [§ 
 En søknad om forlengelse skal sendes Bufetat senest 3 måneder før forhåndssamtykket utløper. Søknaden skal inneholde ny egenerklæring, legeerklæring, politiattest og utskrift av det siste grunnlaget for skatt som fyller kravene i [§ 3](forskrift/2018-06-22-959/§3) andre ledd. Bufetat kan innhente tilleggsopplysninger og uttalelser etter reglene i [§ 5](forskrift/2018-06-22-959/§5).
 
 Dersom søker har fått et konkret forslag om tildeling fra landet søkeren kan adoptere fra, og adopsjonsprosessen er inne i en avsluttende fase, kan Bufetat forlenge forhåndssamtykket selv om søker tidligere har fått forlenget forhåndssamtykket med 2 år.
+
+> **Endres** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
 
 ### § 14. Godkjenning av tildeling av barn med behov for spesiell støtte
 
@@ -236,9 +246,13 @@ Organisasjonen skal formidle adopsjon til søkere som har forhåndssamtykke fra 
 
 Organisasjonen plikter ikke å formidle adopsjon dersom søker misligholder sine økonomiske forpliktelser overfor organisasjonen. Organisasjonen skal i slike tilfeller gi søker skriftlig og begrunnet informasjon om beslutningen. Kopi av beslutningen skal sendes til Bufdir.
 
+> **Endres** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
+
 ### § 26. Opplysningsplikt
 
 Organisasjonen skal informere Barne-, ungdoms- og familieetatens regionkontor dersom det kommer nye opplysninger i en sak som kan ha betydning for søkers forhåndssamtykke.
+
+> **Endres** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
 
 ### § 27. Avvikling av formidlingsvirksomhet
 
@@ -252,6 +266,8 @@ Bufdir fører tilsyn med at avviklingen skjer i overensstemmelse med vedtektene.
 
 ## Kapittel 6. Overgangsregler til adopsjonsloven og ikraftsetting
 
+> **Overskrift endres** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
+
 ### § 28. Overgangsregler til adopsjonsloven
 
 Forslag om tildelinger av barn fra utlandet som mottas etter 1. juli 2018, behandles etter reglene i [lov 16. juni 2017 nr. 48](lov/2017-06-16-48) om adopsjon, selv om tildelingen bygger på forhåndssamtykke etter [lov 28. februar 1986 nr. 8](lov/1986-02-28-8) om adopsjon. Også nasjonal spedbarnsadopsjon som ikke er innvilget før 1. juli 2018, behandles etter reglene i [lov 16. juni 2017 nr. 48](lov/2017-06-16-48) om adopsjon.
@@ -259,6 +275,8 @@ Forslag om tildelinger av barn fra utlandet som mottas etter 1. juli 2018, behan
 For organisasjoner som driver adopsjonsformidling på grunnlag av formidlingstillatelse gitt før 1. juli 2018, gjelder kravet til driftstillatelse etter adopsjonsloven § 31 først fra 1. oktober 2019. For å få vurdert driftstillatelse innen 1. oktober 2019, skal Barne-, ungdoms- og familiedirektoratet ha mottatt søknaden innen 1. juni 2019.
 
 En formidlingstillatelse gitt før 1. juli 2018 gjelder til den utløper, men bortfaller dersom organisasjonen ikke får driftstillatelse etter [adopsjonsloven § 31](lov/2017-06-16-48/§31).
+
+> **Oppheves** ved forskrift 19 okt 2026 nr. 2079 (i kraft 1 juli 2027).
 
 ### § 29. Ikraftsetting
 
