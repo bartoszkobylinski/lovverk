@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-ulovlig-narkotikafremstilling — Change history
 
-_3 events; doc_id `sf-20060217-0263`._
+_4 events; doc_id `sf-20060217-0263`._
+
+## 2026-10-27 — Content updated
+Lines: +23 -14.
+Subject: `update(forskrift): forskrift-om-ulovlig-narkotikafremstilling`
+Commit: `2e2a20f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

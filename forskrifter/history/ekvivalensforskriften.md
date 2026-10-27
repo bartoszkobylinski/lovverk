@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # ekvivalensforskriften — Change history
 
-_4 events; doc_id `sf-20201120-2424`._
+_5 events; doc_id `sf-20201120-2424`._
+
+## 2026-10-27 — Content updated
+Lines: +5 -19.
+Subject: `update(forskrift): ekvivalensforskriften`
+Commit: `9b7131a`.
 
 ## 2026-10-25 — Content updated
 Lines: +37 -93.

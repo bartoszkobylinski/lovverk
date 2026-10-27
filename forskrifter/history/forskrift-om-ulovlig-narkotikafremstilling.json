@@ -2,6 +2,16 @@
   "doc_id": "sf-20060217-0263",
   "events": [
     {
+      "commit": "2e2a20f",
+      "date": "2026-10-27",
+      "from_path": null,
+      "lines_added": 23,
+      "lines_removed": 14,
+      "subject": "update(forskrift): forskrift-om-ulovlig-narkotikafremstilling",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

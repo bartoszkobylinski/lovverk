@@ -2,6 +2,16 @@
   "doc_id": "sf-20201120-2424",
   "events": [
     {
+      "commit": "9b7131a",
+      "date": "2026-10-27",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 19,
+      "subject": "update(forskrift): ekvivalensforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "97eddfe",
       "date": "2026-10-25",
       "from_path": null,

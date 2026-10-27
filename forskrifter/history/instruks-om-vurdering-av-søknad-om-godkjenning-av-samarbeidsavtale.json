@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261022-2114",
+  "events": [
+    {
+      "commit": "57a9d5f",
+      "date": "2026-10-27",
+      "from_path": null,
+      "lines_added": 91,
+      "lines_removed": 0,
+      "subject": "add(forskrift): instruks-om-vurdering-av-søknad-om-godkjenning-av-samarbeidsavtale",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "instruks-om-vurdering-av-søknad-om-godkjenning-av-samarbeidsavtale"
+}
