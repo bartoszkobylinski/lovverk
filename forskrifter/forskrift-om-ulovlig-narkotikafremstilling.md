@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2006-04-01"
-last_change_in_force: "2025-11-17"
+last_change_in_force: "2026-10-23"
 last_updated: null
-xml_hash: "077d3626ad4ea69e98819f16775ab4f91ed3c69820acd760c747bdbc27979a66"
+xml_hash: "e6c42d3b4a930925ee38cf553fc99d0704bc2c5129bb77e9b8dece6ec22a4ed5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-27T09:35:49.897597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -189,24 +189,33 @@ Forskriften trer i kraft 1. april 2006.
 
 | *Stoff* | *Betegnelse i tolltariffen (dersom forskjellig)* | *Varenummer i tolltariffen* | *CAS-nr.*[^1] |
 | --- | --- | --- | --- |
-| 1-fenyl-2 propanon (BMK) | Fenylaceton | 29.14.3100 | 103-79-7 |
-| N-acetylantranilsyre | 2-acetamidobenzosyre | 29.24.2300 | 89-52-1 |
-| Isosafrol (cis + trans) |  | 29.32.9100 | 120-58-1 |
-| 3,4-metylendioksyfenylpropan-2-on | 1-(1,3-Benzodioksol-5-yl) propan-2-on | 29.32.9200 | 4676-39-5 |
-| 2-metyl-3-fenyloksiran-2-karboksylsyre (BMK-glycidsyre)[^\*] |  | 29.18. 9900 | 25547-51-7 |
-| 3-(1,3-benzodioksol-5-yl)-2-metyloksiran-2-karboksylsyre (PMK-glycidsyre)[^\*\*] |  | 29.32. 9900 | 2167189-50-4 |
-| Isopropyliden-(2-(3,4-metylendioksyfenyl)acetyl)malonat (IMDPAM) |  | 29.32.9900 |  |
-| 4-anilino-N-fenetylpiperidin (ANPP) |  | 29.33.3908 | 21409-26-7 |
-| Alfa-fenylacetoacetamid (APAA) |  | 29.24.2900 | 4433-77-6 |
-| Alfa-fenylacetoacetonitril (APAAN) |  | 29.26.4000 | 4468-48-8 |
+| (1R,2R)-(-)- klorpseudoefedrin |  | 29.39.4200 | 771434-80-1 |
 | (1R,2S)-(-)-klorefedrin |  | 29.39.4100 | 110925-64-9 |
 | (1S,2R)-(+)-klorefedrin |  | 29.39.4100 | 110925-64-9 |
 | (1S,2S)-(+)- klorpseudoefedrin |  | 29.39.4200 | 73393-61-0 |
-| (1R,2R)-(-)- klorpseudoefedrin |  | 29.39.4200 | 771434-80-1 |
-| Metyl-alfa-fenylacetoacetat (MAPA)[^1] |  | 29.18.3090 | 16648-44-5 |
-| N-fenetyl-4-piperidon (NPP) |  | 29.33.3908 | 39742-60-4 |
-| 4-piperidon (piperidin-4-on) |  | 29 33 39 08 | 41661-47-6 |
 | 1-boc-4-piperidon (tert-butyl 4-oksopiperidin-1-karboksylat) |  | 29 33 39 08 | 79099-07-3 |
+| 1-fenyl-2 propanon (BMK) | Fenylaceton | 29.14.3100 | 103-79-7 |
+| 2-brom-3'-klorpropiofenon | 2-brom-1-(3-klorfenyl) propan-1-on | 29 147 900 | 34911-51-8 |
+| 2-brom-3'-metylpropiofenon | 2-brom-1-(3-metylfenyl) propan-1-on | 29 147 900 | 1451-83-8 |
+| 2-brom-4'-klorpropiofenon | 2-brom-1-(4-klorfenyl) propan-1-on | 29 147 900 | 877-37-2 |
+| 2-brom-4'-metylpropiofenon | 2-brom-1-(4-metylfenyl) propan-1-on | 29 147 900 | 1451-82-7 |
+| 2-metyl-3-fenyloksiran-2-karboksylsyre (BMK-glycidsyre)[^\*] |  | 29.18. 9900 | 25547-51-7 |
+| 3-(1,3-benzodioksol-5-yl)-2-metyloksiran-2-karboksylsyre (PMK-glycidsyre)[^\*\*] |  | 29.32. 9900 | 2167189-50-4 |
+| 3'-klorpropiofenon | 1-(3-klorfenyl)propan-1-on | 29 147 900 | 34841-35-5 |
+| 3'-metylpropiofenon | 1-(3-metylfenyl)propan-1-on | 29 143 900 | 51772-30-6 |
+| 3,4-metylendioksyfenylpropan-2-on | 1-(1,3-Benzodioksol-5-yl) propan-2-on | 29.32.9200 | 4676-39-5 |
+| 4'-klorpropiofenon | 1-(4-klorfenyl)propan-1-on | 29 147 900 | 6285-05-8 |
+| 4'-metylpropiofenon | 1-(4-metylfenyl)propan-1-on | 29 143 900 | 5337-93-9 |
+| 4-anilino-N-fenetylpiperidin (ANPP) |  | 29.33.3908 | 21409-26-7 |
+| 4-piperidon (piperidin-4-on) |  | 29 33 39 08 | 41661-47-6 |
+| Alfa-fenylacetoacetamid (APAA) |  | 29.24.2900 | 4433-77-6 |
+| Alfa-fenylacetoacetonitril (APAAN) |  | 29.26.4000 | 4468-48-8 |
+| fenyl-2-nitropropen | (2-nitroprop-1-en-1-yl) bensen | 29 042 000 | 705-60-2 |
+| Isopropyliden-(2-(3,4-metylendioksyfenyl)acetyl)malonat (IMDPAM) |  | 29.32.9900 |  |
+| Isosafrol (cis + trans) |  | 29.32.9100 | 120-58-1 |
+| Metyl-alfa-fenylacetoacetat (MAPA)[^1] |  | 29.18.3090 | 16648-44-5 |
+| N-acetylantranilsyre | 2-acetamidobenzosyre | 29.24.2300 | 89-52-1 |
+| N-fenetyl-4-piperidon (NPP) |  | 29.33.3908 | 39742-60-4 |
 |  |  |  |  |
 | Piperonal |  | 29.32.9300 | 120-57-0 |
 | Safrol |  | 29.32.9400 | 94-59-7 |
@@ -256,7 +265,7 @@ Saltene av stoffene oppført i denne kategori i alle tilfeller der forekomst av 
 
 2 Betegnes også (+)-norpseudoefedrin, CAS-nr. 492-39-7, varenummer i tolltariffen 29.39.4300.
 
-> Endret ved forskrifter [6 okt 2020 nr. 1965](forskrift/2020-10-06-1965), [20 des 2024 nr. 3419](forskrift/2024-12-20-3419), [17 nov 2025 nr. 2277](forskrift/2025-11-17-2277).
+> Endret ved forskrifter [6 okt 2020 nr. 1965](forskrift/2020-10-06-1965), [20 des 2024 nr. 3419](forskrift/2024-12-20-3419), [17 nov 2025 nr. 2277](forskrift/2025-11-17-2277), [23 okt 2026 nr. 2115](forskrift/2026-10-23-2115).
 
 ## Vedlegg II
 
