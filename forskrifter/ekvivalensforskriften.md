@@ -11,13 +11,13 @@ ministry:
   - "Nærings- og fiskeridepartementet"
   - "Landbruks- og matdepartementet"
 date_in_force: "2020-11-26"
-last_change_in_force: "2026-10-19"
+last_change_in_force: "2026-10-22"
 last_updated: null
-xml_hash: "c909e2b82391c6c48a005f22a5d657f27e53122844e0984fb0416a79a3328eba"
+xml_hash: "a3292f43fb5b5d84884e977227e820ef7aaaa02869bae0066699b47babecc2e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-10-27T09:35:49.897597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,9 +44,9 @@ Beslutning [2006/199/EF](eu/32006d0199) om fastsettelse av særlige vilkår for 
 
 ## § 4. Forenklede importvilkår for forsendelser av ferskt kjøtt fra svin fra Canada
 
-Beslutning [2006/199/EF](eu/32006d0199) om fastsettelse av særlige vilkår for forsendelser av ferskt kjøtt fra svin fra Canada, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med tilpasninger som følger av vedlegg I [kapittel I](avtale/avt-1992-05-02-1-v1/kapI), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning [(EU) 2026/1375](eu/32026d1375).
+Beslutning [2005/290/EF](eu/32005d0290) om fastsettelse av særlige vilkår for forsendelser av ferskt kjøtt fra svin fra Canada, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) innledende del nr. 7, gjelder som forskrift. Beslutningen gjelder med tilpasninger som følger av vedlegg I [kapittel I](avtale/avt-1992-05-02-1-v1/kapI), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning [(EU) 2026/1375](eu/32026d1375).
 
-> Tilføyd ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085).
+> Tilføyd ved forskrift [19 okt 2026 nr. 2085](forskrift/2026-10-19-2085), endret ved forskrift [22 okt 2026 nr. 2113](forskrift/2026-10-22-2113).
 
 ## § 5. Forenklede importvilkår for forsendelser av levende dyr og produkter av animalsk opprinnelse fra New Zealand
 
@@ -89,17 +89,3 @@ Konsolidert beslutning [(EU) 2005/290/EF](eu/32005d0290), inkludert oppdatert mo
 Konsolidert beslutning [(EU) 2006/199/EF](eu/32006d0199), inkludert oppdatert modellsertifikat, finnes i dansk versjon [her](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02006D0199-20260630).
 
 Beslutning [(EU) 2026/1936](eu/32026d1936), inkludert oppdatert modellsertifikat, finnes i dansk versjon [her](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=OJ:L_202601936).
-
-## Forordninger i PDF
-
-Nedenfor gjengis forordning [(EU) 2020/1641](eu/32020r1641).
-
-### Forordning [(EU) 2020/1641](eu/32020r1641)
-
-For å lese forordning [(EU) 2020/1641](eu/32020r1641), med offisielt sertifikat i vedlegget, se her: [(pdf)](static/SF/32020r1641e-01.pdf)
-
-### Forordning (EU) 2022/158
-
-For å lese forordning [(EU) 2022/158](eu/32022r0158), med oppdatert offisielt sertifikat i vedlegget, se her: [(pdf)](static/SF/32022r0158e-01.pdf)
-
-> Tilføyd ved forskrift [21 feb 2022 nr. 278](forskrift/2022-02-21-278) (i kraft 27 feb 2022).
