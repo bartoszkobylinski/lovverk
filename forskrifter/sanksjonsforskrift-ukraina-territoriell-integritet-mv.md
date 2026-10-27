@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-08-15"
 last_change_in_force: "2026-10-21"
 last_updated: "2026-08-11"
-xml_hash: "faae8ac0debaa826b7eba9680b6c03896d416cd1e17f619a15319bed4060b524"
+xml_hash: "cf9a2d2d6ed297943b591817b2c5a2d4abd888c26910e73434b9cf4cf3b50249"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-10-27T09:35:49.897597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -910,9 +910,9 @@ Forbudet i første ledd gjelder fra 14. august 2026.
 
 ### § 8dc. Forbud mot å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester mv. etablert i visse tredjeland
 
-Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i et tredjeland oppført i vedlegg LVII.
+Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som yter kryptoeiendelstjenester, eller er en plattform som gjør det mulig å utveksle eller overføre kryptoeiendeler, og som er etablert i et tredjeland oppført i [vedlegg LVII](forskrift/2014-08-15-1076/vedleggLVII).
 
-Vedlegg LVII omfatter tredjeland som av Rådet anses for systematisk og vedvarende å ha unnlatt å hindre yting av kryptoeiendelstjenester, eller å hindre at plattformer utveksler eller overfører kryptoeiendeler i strid med bestemmelsene i denne forskriften.
+[Vedlegg LVII](forskrift/2014-08-15-1076/vedleggLVII) omfatter tredjeland som av Rådet anses for systematisk og vedvarende å ha unnlatt å hindre yting av kryptoeiendelstjenester, eller å hindre at plattformer utveksler eller overfører kryptoeiendeler i strid med bestemmelsene i denne forskriften.
 
 Forbudet i første ledd gjelder ikke transaksjoner gjennomført av statsborgere i Norge eller i en EU-medlemsstat som er bosatt i et land oppført i vedlegg LVII, og som var dette før den aktuelle datoen som er angitt i vedlegget.
 
