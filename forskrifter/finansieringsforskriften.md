@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2026-08-01"
-last_change_in_force: "2026-06-29"
+last_change_in_force: "2026-10-23"
 last_updated: "2026-09-22"
-xml_hash: "0beb8abce01fa7798840ea383d332975fc12b4c2660f9aa2005f567bf1f5dd28"
+xml_hash: "27265a5c191e44fb29de0c32c6c0cb3efe8048615043c08c6b3b1d62a04486ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-23T09:15:32.652390+00:00"
+retrieved_at: "2026-10-28T10:21:45.190128+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,26 +83,28 @@ Kommuner som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut f
 
 |  | *Grunntilskuddssats, inklusive administrasjonspåslag* |
 | --- | --- |
-| Ordinære barnehager, barn fra null år til to år | [Satsene fastsettes årlig av KD] |
-| Ordinære barnehager, barn fra tre år til seks år | [Satsene fastsettes årlig av KD] |
+| Ordinære barnehager, barn fra null år til to år | 310 400 |
+| Ordinære barnehager, barn fra tre år til seks år | 164 500 |
 
 Kommuner som ligger i sentralitetssone 5 eller sentralitetssone 6 som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:
 
 |  | *Grunntilskuddssats, inklusive administrasjonspåslag* |
 | --- | --- |
-| Ordinære barnehager, barn fra null år til to år | [Satsene fastsettes årlig av KD] |
-| Ordinære barnehager, barn fra tre år til seks år | [Satsene fastsettes årlig av KD] |
+| Ordinære barnehager, barn fra null år til to år | 315 900 |
+| Ordinære barnehager, barn fra tre år til seks år | 170 100 |
 
 Med sentralitetssone 5 og sentralitetssone 6 menes kommuner som grupperes i nest-minst sentrale kommuner (klasse 5) eller minst sentrale kommuner (klasse 6) i den siste versjonen av sentralitetsindeksen som utarbeides av Statistisk sentralbyrå.
 
-Kommuner i tiltakssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:
+Kommuner i innsatssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:
 
 |  | *Grunntilskuddssats, inklusive administrasjonspåslag* |
 | --- | --- |
-| Ordinære barnehager, barn fra null år til to år | [Satsene fastsettes årlig av KD] |
-| Ordinære barnehager, barn fra tre år til seks år | [Satsene fastsettes årlig av KD] |
+| Ordinære barnehager, barn fra null år til to år | 323 600 |
+| Ordinære barnehager, barn fra tre år til seks år | 177 800 |
 
-Med kommuner i tiltakssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).
+Med kommuner i innsatssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).
+
+> Endret ved forskrift [23 okt 2026 nr. 2127](forskrift/2026-10-23-2127).
 
 ### § 8. Kommunale satsinger
 
@@ -132,7 +134,9 @@ Kommunen skal gi påslag for administrasjonsutgifter på 4,7 prosent av det saml
 
 ### § 13. Eiendomstilskudd til ordinære barnehager
 
-Kommunen skal gi eiendomstilskudd til private ordinære barnehager per heltidsplass på [X] kroner. [Tilskuddssatsen fastsettes årlig av KD]
+Kommunen skal gi eiendomstilskudd til private ordinære barnehager per heltidsplass på 15 700 kroner.
+
+> Endret ved forskrift [23 okt 2026 nr. 2127](forskrift/2026-10-23-2127).
 
 ## Kapittel 4 – Tilskudd til pensjon
 
@@ -172,43 +176,45 @@ Kommunen skal gi eiendomstilskudd til private familiebarnehager etter følgende 
 
 | *Sats per heltidsplass for barn fra null år til to år* | *Sats per heltidsplass for barn fra tre år til seks år* |
 | --- | --- |
-| [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| 17 600 | 17 600 |
 
 Kommuner som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
 
 | *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
 | --- | --- | --- |
-| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone I | 246 200 | 194 300 |
+| Sone Ia | 246 200 | 194 300 |
+| Sone II | 239 200 | 188 700 |
+| Sone III | 230 800 | 182 000 |
+| Sone IV | 228 200 | 179 900 |
+| Sone IVa | 233 800 | 184 400 |
+| Sone V | 218 000 | 171 800 |
 
 Kommuner som ligger i sentralitetssone 5 eller 6, jf. [§ 7 andre ledd](forskrift/2026-03-23-454/§7/ledd/2), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
 
 | *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
 | --- | --- | --- |
-| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone I | 251 700 | 199 800 |
+| Sone Ia | 251 700 | 199 800 |
+| Sone II | 244 700 | 194 200 |
+| Sone III | 236 300 | 187 500 |
+| Sone IV | 233 700 | 185 400 |
+| Sone IVa | 239 300 | 189 900 |
+| Sone V | 223 500 | 177 300 |
 
-Kommuner i tiltakssonen i Finnmark og Nord-Troms, jf. [§ 7 tredje ledd](forskrift/2026-03-23-454/§7/ledd/3), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
+Kommuner i innsatssonen i Finnmark og Nord-Troms, jf. [§ 7 tredje ledd](forskrift/2026-03-23-454/§7/ledd/3), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
 
 | *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
 | --- | --- | --- |
-| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone I | 259 400 | 199 800 |
+| Sone Ia | 259 400 | 199 800 |
+| Sone II | 252 400 | 194 200 |
+| Sone III | 244 000 | 187 500 |
+| Sone IV | 241 400 | 185 400 |
+| Sone IVa | 247 000 | 189 900 |
+| Sone V | 231 200 | 177 300 |
+
+> Endret ved forskrift [23 okt 2026 nr. 2127](forskrift/2026-10-23-2127).
 
 ### § 18. Tilskudd til åpne barnehager
 
@@ -222,13 +228,15 @@ Kommuner som ikke har kommunale åpne barnehager, skal gi grunntilskudd inklusiv
 
 | *Arbeidsgiveravgiftsone* | *Åpningstid på 6 til 15 timer* | *Åpningstid på 16 timer eller mer* |
 | --- | --- | --- |
-| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
-| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone I | 26 700 | 42 600 |
+| Sone Ia | 26 700 | 42 600 |
+| Sone II | 26 100 | 41 700 |
+| Sone III | 25 400 | 40 500 |
+| Sone IV | 25 200 | 40 100 |
+| Sone IVa | 25 700 | 40 900 |
+| Sone V | 24 400 | 38 800 |
+
+> Endret ved forskrift [23 okt 2026 nr. 2127](forskrift/2026-10-23-2127).
 
 ## Kapittel 6 – Diverse regler
 
@@ -252,7 +260,9 @@ Statsforvalteren er klageinstans for kommunens enkeltvedtak om valg av prosentsa
 
 Kommuner som har private barnehager med barn som er folkeregistrert i en annen kommune, har rett til refusjon for barnehageplassen fra kommunen der barnet er folkeregistrert.
 
-Dersom ikke annet er avtalt mellom kommunene, skal kommunen i beregningen av refusjonsbeløpet bruke satsene for grunntilskudd i [§ 7](forskrift/2026-03-23-454/§7) og [§ 17](forskrift/2026-03-23-454/§17) tredje til femte ledd og eiendomstilskudd i [§ 13](forskrift/2026-03-23-454/§13) og [§ 17 andre ledd](forskrift/2026-03-23-454/§17/ledd/2), og gi refusjon for pensjonsutgifter på [X] kroner per heltidsplass. Kommunen skal gjøre fratrekk etter [§ 20](forskrift/2026-03-23-454/§20).
+Dersom ikke annet er avtalt mellom kommunene, skal kommunen i beregningen av refusjonsbeløpet bruke satsene for grunntilskudd i [§ 7](forskrift/2026-03-23-454/§7) og [§ 17](forskrift/2026-03-23-454/§17) tredje til femte ledd og eiendomstilskudd i [§ 13](forskrift/2026-03-23-454/§13) og [§ 17 andre ledd](forskrift/2026-03-23-454/§17/ledd/2), og gi refusjon for pensjonsutgifter på 14 200 kroner per heltidsplass. Kommunen skal gjøre fratrekk etter [§ 20](forskrift/2026-03-23-454/§20).
+
+> Endret ved forskrift [23 okt 2026 nr. 2127](forskrift/2026-10-23-2127).
 
 ### § 24. Kommunesammenslåing og kommuneoppdeling
 
@@ -270,11 +280,11 @@ Forskriften trer i kraft 1. august 2026 og gjelder fra og med tilskuddsåret 202
 
 ### § 26. Overgangsordning for samlet tilskudd
 
-Det første året tilskuddet beregnes etter denne forskriften, skal en reduksjon i det samlede tilskuddet per heltidsplass ikke overstige fem prosent. Det andre året skal en reduksjon i det samlede tilskuddet per heltidsplass ikke overstige åtte prosent. Det tredje året skal en reduksjon i det samlede tilskuddet per heltidsplass ikke overstige ti prosent. Grunnlaget for sammenligningen etter første punktum er det samlede tilskuddet den private barnehagen mottok i 2025. Kommunen skal indeksregulere sammenligningsgrunnlaget med kommunal deflator.
+Det første året tilskuddet beregnes etter denne forskriften, skal en reduksjon i det samlede tilskuddet per heltidsplass ikke overstige fem prosent. Det andre året skal en reduksjon i det samlede tilskuddet per heltidsplass ikke overstige åtte prosent. Det tredje året skal en reduksjon i det samlede tilskuddet per heltidsplass ikke overstige ti prosent. Grunnlaget for sammenligningen etter første punktum er det samlede tilskuddet den private barnehagen mottok for 2025. Kommunen skal indeksregulere sammenligningsgrunnlaget med kommunal deflator.
 
 Kommunen skal gjøre fratrekk for det barnehagen er kompensert med gjennom overgangsordningen etter første ledd ved beregning av ytterligere tilskudd etter [§§ 9](forskrift/2026-03-23-454/§9), [11](forskrift/2026-03-23-454/§11), [15](forskrift/2026-03-23-454/§15) eller [16](forskrift/2026-03-23-454/§16) i samme tilskuddsår. Barnehagens samlede tilskudd skal ikke overstige det barnehagen totalt sett har krav på i tilskuddsåret.
 
-> **Oppheves** ved forskrift [23 mars 2026 nr. 454](forskrift/2026-03-23-454) (i kraft 1 jan 2030, se § 25 andre ledd).
+> Endret ved forskrift [23 okt 2026 nr. 2127](forskrift/2026-10-23-2127). **Oppheves** ved forskrift [23 mars 2026 nr. 454](forskrift/2026-03-23-454) (i kraft 1 jan 2030, se § 25 andre ledd).
 
 ### § 27. Overgangsregler
 
