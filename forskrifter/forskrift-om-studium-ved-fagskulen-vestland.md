@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-08-01"
-last_change_in_force: null
+last_change_in_force: "2026-10-23"
 last_updated: null
-xml_hash: "b6904af271cf31dcdd8fdd3893789b6d483734f3a264ace891444c3374bf57d1"
+xml_hash: "9d081215b0652845ad9b86b0061499fd402d919a326fcc82e09662078bffc10e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-28T10:21:45.190128+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -666,15 +666,17 @@ Vedtak i saker etter [fagskoleloven §§ 16 a](lov/2018-06-08-28/§16a) og [25](
 1. Demensomsorg og psykisk helsearbeid til eldre
 2. Psykisk helsearbeid og rusarbeid
 3. Rehabilitering, kvardagsmeistring og velferdsteknologi
-4. Sterilforsyning og smittevern i helsetenesta.
-
-Andre utdanningar kan også vere underlagt skikkavurdering.
+4. Sterilforsyning og smittevern i helsetenesta
+5. Akutt og kronisk sjuke: observasjon, vurdering og handtering
+6. Barn og unge si psykiske helse.
 
 (4) For utdanningar underlagt skikkavurdering skal rektor utnemne skikkaansvarleg(e) for skikkavurdering, jf. [fagskoleforskriften 32 første ledd](forskrift/2019-07-11-1005/§32/ledd/1). Styret sjølv oppretter ei skikkanemnd i tråd med [fagskoleforskriften § 31](forskrift/2019-07-11-1005/§31).
 
 (5) Den lokale klagenemnda kan etter innstilling frå skikkanemnda vedta at ein student ikkje er skikka for yrket. Blir det fatta eit slikt vedtak, kan klagenemnda vedta at studenten også skal stengast ute frå utdanninga i inntil fem år, jf. [fagskoleloven § 26 tredje ledd](lov/2018-06-08-28/§26/ledd/3).
 
 (6) Ved utestenging vil studenten miste studieplassen, og må søke nytt opptak dersom hen vil starte opp igjen på utdanninga etter utestengingsperioden, jf. [fagskoleforskriften § 36](forskrift/2019-07-11-1005/§36) siste ledd, jf. [§ 3-5 første ledd bokstav g](forskrift/2025-03-07-529/§3-5/ledd/1/bokstav/g).
+
+> Endra ved forskrift [23 okt 2026 nr. 2128](forskrift/2026-10-23-2128).
 
 ### § 9-7. Politiattest
 
