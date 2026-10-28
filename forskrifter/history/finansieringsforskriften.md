@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # finansieringsforskriften — Change history
 
-_6 events; doc_id `sf-20260323-0454`._
+_7 events; doc_id `sf-20260323-0454`._
+
+## 2026-10-28 — Content updated
+Lines: +55 -45.
+Subject: `update(forskrift): finansieringsforskriften`
+Commit: `f21f868`.
 
 ## 2026-09-23 — Content updated
 Lines: +6 -4.

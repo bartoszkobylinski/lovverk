@@ -2,6 +2,16 @@
   "doc_id": "sf-20250307-0529",
   "events": [
     {
+      "commit": "ddc5795",
+      "date": "2026-10-28",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-studium-ved-fagskulen-vestland",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

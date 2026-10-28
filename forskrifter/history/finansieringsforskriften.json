@@ -2,6 +2,16 @@
   "doc_id": "sf-20260323-0454",
   "events": [
     {
+      "commit": "f21f868",
+      "date": "2026-10-28",
+      "from_path": null,
+      "lines_added": 55,
+      "lines_removed": 45,
+      "subject": "update(forskrift): finansieringsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "edad586",
       "date": "2026-09-23",
       "from_path": null,

@@ -103768,13 +103768,13 @@
     },
     "sf-20250307-0529": {
       "doc_type": "forskrift",
-      "embedding_hash": "b6904af271cf31dcdd8fdd3893789b6d483734f3a264ace891444c3374bf57d1",
-      "embedding_input_hash": "0a6efdcf695f2d7942f185b3f582bf7f28e92f1e13fbee25b4cf0d8c4a425e02",
+      "embedding_hash": "9d081215b0652845ad9b86b0061499fd402d919a326fcc82e09662078bffc10e",
+      "embedding_input_hash": "5f875947c632b55e72624b823e4fe81cfd5687bcf364b7edf46cfff187ac95f6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-28",
+      "last_seen": "2026-10-28T10:21:45.190128Z",
       "markdown_path": "forskrifter/forskrift-om-studium-ved-fagskulen-vestland.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -103782,8 +103782,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studium ved Fagskulen Vestland",
-      "total_changes": 3,
-      "xml_hash": "b6904af271cf31dcdd8fdd3893789b6d483734f3a264ace891444c3374bf57d1"
+      "total_changes": 4,
+      "xml_hash": "9d081215b0652845ad9b86b0061499fd402d919a326fcc82e09662078bffc10e"
     },
     "sf-20250310-0399": {
       "doc_type": "forskrift",
@@ -107891,13 +107891,13 @@
     },
     "sf-20251212-2508": {
       "doc_type": "forskrift",
-      "embedding_hash": "ce2079f865c16d96b7a8645bc3dce8546ba58ee97faf537590d00b07a18e239b",
-      "embedding_input_hash": "d2fc1a22aaf037982597f4940bf071c2aa248229c9c84ce48e50df98213e1f03",
+      "embedding_hash": "476fc4265a7eec9e08bd0c6a212a3f7a08d97e0c0895819b8a80e1628b9c09db",
+      "embedding_input_hash": "830944c142ec1c2fa165f2390f6bf70d0036853a55a76419504fd0df159ca090",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-10-28",
+      "last_seen": "2026-10-28T10:21:45.190128Z",
       "markdown_path": "forskrifter/utrullingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -107905,8 +107905,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "ce2079f865c16d96b7a8645bc3dce8546ba58ee97faf537590d00b07a18e239b"
+      "total_changes": 6,
+      "xml_hash": "476fc4265a7eec9e08bd0c6a212a3f7a08d97e0c0895819b8a80e1628b9c09db"
     },
     "sf-20251212-2509": {
       "doc_type": "forskrift",
@@ -110760,13 +110760,13 @@
     },
     "sf-20260323-0454": {
       "doc_type": "forskrift",
-      "embedding_hash": "0beb8abce01fa7798840ea383d332975fc12b4c2660f9aa2005f567bf1f5dd28",
-      "embedding_input_hash": "d556af0aba382189fc14205284c8f0901daee7fa2681b2c69343de5bc67f2e04",
+      "embedding_hash": "27265a5c191e44fb29de0c32c6c0cb3efe8048615043c08c6b3b1d62a04486ff",
+      "embedding_input_hash": "c6eb145babfd7c04c3e6691028764ef2d4460230423b0de241bc19aec55b0728",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-23",
-      "last_seen": "2026-09-23T09:15:32.652390Z",
+      "last_changed": "2026-10-28",
+      "last_seen": "2026-10-28T10:21:45.190128Z",
       "markdown_path": "forskrifter/finansieringsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -110774,8 +110774,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om finansiering av private barnehager (finansieringsforskriften)",
-      "total_changes": 6,
-      "xml_hash": "0beb8abce01fa7798840ea383d332975fc12b4c2660f9aa2005f567bf1f5dd28"
+      "total_changes": 7,
+      "xml_hash": "27265a5c191e44fb29de0c32c6c0cb3efe8048615043c08c6b3b1d62a04486ff"
     },
     "sf-20260323-0465": {
       "doc_type": "forskrift",
@@ -114348,8 +114348,27 @@
       "title": "Delegering av Kongens myndighet etter Grunnloven § 21, for så vidt gjelder konstitusjon av enkelte embetsmenn i inntil ett år, jf. lov 16. juni 2017 nr. 67 om statens ansatte mv. § 14 første ledd, til Digitaliserings- og forvaltningsdepartementet, Justis- og beredskapsdepartementet, Statsministerens kontor og Riksadvokaten",
       "total_changes": 1,
       "xml_hash": "39820431e028e06c6de99aa1fd7ddbff85ed88f75d568a653062108d1cc71c4a"
+    },
+    "sf-20261026-2129": {
+      "doc_type": "forskrift",
+      "embedding_hash": "2a08c28dcdea610afea99eef53b5e90cf7a370b97764bf117f6b81b0595d1c2a",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-28",
+      "last_seen": "2026-10-28T10:21:45.190128Z",
+      "markdown_path": "forskrifter/endr-i-utrullingsforskriften.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "endr-i-utrullingsforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
+      "total_changes": 2,
+      "xml_hash": "2a08c28dcdea610afea99eef53b5e90cf7a370b97764bf117f6b81b0595d1c2a"
     }
   },
-  "generated_at": "2026-10-27T09:35:49.897597Z",
+  "generated_at": "2026-10-28T10:21:45.190128Z",
   "version": 1
 }
