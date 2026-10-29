@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-08-10"
-xml_hash: "40dd640eaf094ce52df13f6274c5b0fccd846954b2d4f48642880f726b2a6e17"
+xml_hash: "2e4051dacd4da9b0407bfce4b5188f748a4ff16d927f0526177e84b261c5c599"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1788,7 +1788,7 @@ Selv om virksomheter ikke har personell som defineres som yrkeseksponerte, kan f
 
 ### Til § 8 Søknad om godkjenning
 
-For godkjenning må virksomheten blant annet dokumentere at den har en organisasjon som kan ivareta strålevern og strålesikkerhet, at den besitter tilstrekkelig kompetanse innen strålevern, har skriftlige prosedyrer og instrukser som tydelig definerer ansvar og oppgaver, samt at den har nødvendig måleutstyr og øvrig sikkerhetsutstyr. Standardiserte søknadsskjemaer for godkjenning av virksomhet som skal utføre aktiviteter som medfører stråling kan lastes ned fra hjemmesidene til Strålevernet, [www.nrpa.no](https://www.nrpa.no). Søknad om godkjenning må signeres av virksomhetens ledelse. Strålevernkoordinator bør koordinere og kvalitetssikre søknaden før den sendes inn. I tilfeller der det ikke finnes standardiserte søknadsskjema, skal virksomheten sende inn en beskrivelse av hvordan de oppfyller aktuelle forskriftsparagrafer. Ved utvidelser eller vesentlige endringer i virksomhetens strålebruk eller lokalisasjon og lokaler må ny søknad om godkjenning sendes inn for vurdering. Se også [§ 12](forskrift/2016-12-16-1659/§12) om endring eller tilbakekalling av godkjenning.
+For godkjenning må virksomheten blant annet dokumentere at den har en organisasjon som kan ivareta strålevern og strålesikkerhet, at den besitter tilstrekkelig kompetanse innen strålevern, har skriftlige prosedyrer og instrukser som tydelig definerer ansvar og oppgaver, samt at den har nødvendig måleutstyr og øvrig sikkerhetsutstyr. Standardiserte søknadsskjemaer for godkjenning av virksomhet som skal utføre aktiviteter som medfører stråling kan lastes ned fra hjemmesidene til Strålevernet, www.nrpa.no. Søknad om godkjenning må signeres av virksomhetens ledelse. Strålevernkoordinator bør koordinere og kvalitetssikre søknaden før den sendes inn. I tilfeller der det ikke finnes standardiserte søknadsskjema, skal virksomheten sende inn en beskrivelse av hvordan de oppfyller aktuelle forskriftsparagrafer. Ved utvidelser eller vesentlige endringer i virksomhetens strålebruk eller lokalisasjon og lokaler må ny søknad om godkjenning sendes inn for vurdering. Se også [§ 12](forskrift/2016-12-16-1659/§12) om endring eller tilbakekalling av godkjenning.
 
 ### Til § 9 Godkjenning av aktiviteter som medfører stråling
 
@@ -2313,4 +2313,4 @@ Virksomheter kan pålegges å dekke utgifter til gjennomføring av tilsyn som f�
 
 ### Til § 62 Dispensasjon
 
-Bestemmelsen er en sikkerhet mot sterkt urimelig virkning av bestemmelser i strålevernforskriften, og forutsettes brukt med stor varsomhet
+Bestemmelsen er en sikkerhet mot sterkt urimelig virkning av bestemmelser i strålevernforskriften, og forutsettes brukt med stor varsomhet.
