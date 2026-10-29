@@ -4,18 +4,18 @@ slug: "forskrift-om-pedagogisk-bemanning-og-dispensasjon-i-barnehager"
 type: "forskrift"
 ref_id: "forskrift/2017-06-22-1049"
 title: "Forskrift om pedagogisk bemanning og dispensasjon i barnehager"
-short_title: "Forskrift om pedagogisk bemanning og dispensasjon i barnehager"
+short_title: null
 language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2017-08-01"
 last_change_in_force: "2023-08-01"
 last_updated: "2021-04-09"
-xml_hash: "0540f25bd0f2995127f4967b29b2d81e8be2c4dea58566552b2aa073ce060d3e"
+xml_hash: "6c17fe03773bd0d719b025d24181d260d6835fed66d20a368951e346821006b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
