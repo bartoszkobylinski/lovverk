@@ -4,18 +4,18 @@ slug: "forskrift-om-utforming-av-store-flyplasser"
 type: "forskrift"
 ref_id: "forskrift/2006-07-06-968"
 title: "Forskrift om utforming av store flyplasser (BSL E 3-2)"
-short_title: "Forskrift om utforming av store flyplasser"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2006-09-01"
 last_change_in_force: "2015-08-25"
 last_updated: null
-xml_hash: "3fc03a579653b06330ff6fdc8336df7267d21315324cb8a3917cc6b809388caa"
+xml_hash: "7e8a39043ce78499272be9a5e7f1a729623ee049a095470e4389348df5c274f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
