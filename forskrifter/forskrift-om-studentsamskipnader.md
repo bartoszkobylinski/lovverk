@@ -4,18 +4,18 @@ slug: "forskrift-om-studentsamskipnader"
 type: "forskrift"
 ref_id: "forskrift/2008-07-22-828"
 title: "Forskrift om studentsamskipnader"
-short_title: "Forskrift om studentsamskipnader"
+short_title: null
 language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2008-08-01"
 last_change_in_force: "2014-08-05"
 last_updated: "2013-06-13"
-xml_hash: "9681c0cd29a94bae5210930243ead7f535434d8024349c8c03f355ece971fb17"
+xml_hash: "98fec8b0f78d3105c63b43843f982e9ddcd0d5f3ece3fc52493dbee7ca7ae259"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
