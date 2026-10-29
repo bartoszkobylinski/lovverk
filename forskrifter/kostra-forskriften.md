@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2019-10-30"
-xml_hash: "ac2f55ebd67dac8c3537cb5117df689e87fe6318268095060b070cb8ea7d4fbf"
+xml_hash: "97f2f48cdba9c4296e7679ca57d892b3b852e781692a3c5cb6d532d8eee273af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -212,7 +212,7 @@ Rapporteringen for 2019 skal foretas i tråd med reglene i [forskrift 15. desemb
 - Art 989 Rapportkontroll (negativt avvik)
 - Art 990 Motpost avskrivninger
 
-> Endret ved forskrifter [5 nov 2020 nr. 2940](forskrift/2020-11-05-2940) (i kraft 1 jan 2021), [5 nov 2021 nr. 3475](forskrift/2021-11-05-3475) (i kraft 1 jan 2022), [4 nov 2022 nr. 2211](forskrift/2022-11-04-2211) (i kraft 1 jan 2023), [14 okt 2024 nr. 2624](forskrift/2024-10-14-2624) (i kraft 1 jan 2025), [29 okt 2025 nr. 2134](forskrift/2025-10-29-2134) (i kraft 1 jan 2026).
+> Endret ved forskrifter [5 nov 2020 nr. 2940](forskrift/2020-11-05-2940) (i kraft 1 jan 2021), [5 nov 2021 nr. 3475](forskrift/2021-11-05-3475) (i kraft 1 jan 2022), [4 nov 2022 nr. 2211](forskrift/2022-11-04-2211) (i kraft 1 jan 2023), [14 okt 2024 nr. 2624](forskrift/2024-10-14-2624) (i kraft 1 jan 2025), [29 okt 2025 nr. 2134](forskrift/2025-10-29-2134) (i kraft 1 jan 2026). **Endres** ved forskrift [27 okt 2026 nr. 2154](forskrift/2026-10-27-2154) (i kraft 1 jan 2027).
 
 ## Vedlegg 2. Funksjonskontoer for kommuner og kommunale foretak mv.
 
@@ -301,7 +301,7 @@ Rapporteringen for 2019 skal foretas i tråd med reglene i [forskrift 15. desemb
 - Funksjon 899 Merforbruk og udekket beløp fremført til inndekning i senere år
 - Funksjon 899 Avvikspost/rapportkontroll
 
-> Endret ved forskrifter [5 nov 2020 nr. 2940](forskrift/2020-11-05-2940) (i kraft 1 jan 2021), [5 nov 2021 nr. 3475](forskrift/2021-11-05-3475) (i kraft 1 jan 2022), [4 nov 2023 nr. 1859](forskrift/2023-11-04-1859) (i kraft 1 jan 2024), [29 okt 2025 nr. 2134](forskrift/2025-10-29-2134) (i kraft 1 jan 2026).
+> Endret ved forskrifter [5 nov 2020 nr. 2940](forskrift/2020-11-05-2940) (i kraft 1 jan 2021), [5 nov 2021 nr. 3475](forskrift/2021-11-05-3475) (i kraft 1 jan 2022), [4 nov 2023 nr. 1859](forskrift/2023-11-04-1859) (i kraft 1 jan 2024), [29 okt 2025 nr. 2134](forskrift/2025-10-29-2134) (i kraft 1 jan 2026). **Endres** ved forskrift [27 okt 2026 nr. 2154](forskrift/2026-10-27-2154) (i kraft 1 jan 2027).
 
 ## Vedlegg 3. Funksjonskontoer for fylkeskommuner og fylkeskommunale foretak mv.
 
