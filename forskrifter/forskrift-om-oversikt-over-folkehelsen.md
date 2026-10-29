@@ -4,18 +4,18 @@ slug: "forskrift-om-oversikt-over-folkehelsen"
 type: "forskrift"
 ref_id: "forskrift/2012-06-28-692"
 title: "Forskrift om oversikt over folkehelsen"
-short_title: "Forskrift om oversikt over folkehelsen"
+short_title: null
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2012-07-01"
 last_change_in_force: "2018-10-23"
 last_updated: "2019-09-18"
-xml_hash: "6e90087894f892bad19150309f091939e75bf8a92d0f6e41128f4b252ed59ddc"
+xml_hash: "1d1735f48fc14290e7ac19b114b32343240dde57b0dad265bcf95a2568dcbef1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
