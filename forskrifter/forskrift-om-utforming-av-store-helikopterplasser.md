@@ -1,21 +1,21 @@
 ---
 id: "sf-20050429-0418"
-slug: "forskrift-om-store-helikopterplasser"
+slug: "forskrift-om-utforming-av-store-helikopterplasser"
 type: "forskrift"
 ref_id: "forskrift/2005-04-29-418"
 title: "Forskrift om utforming av store helikopterplasser (BSL E 3-5)."
-short_title: "Forskrift om store helikopterplasser"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2005-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "44a8796948282df3b4acf7f818e8de7aab20cb04241e8498602482f1754404a9"
+xml_hash: "9a3cbd53195e059351da684f0cf21a372a6e96d718be169ddf04df16d304adbf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
