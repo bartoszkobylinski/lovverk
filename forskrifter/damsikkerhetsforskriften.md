@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2023-07-01"
 last_updated: "2022-03-08"
-xml_hash: "c187aa607ba755819b33cf074a46e452d26c25cb93687854b141e1abfb5481fc"
+xml_hash: "5aa9c38e8d53fc81c4950f7a478c0c73e9880633f9410a0b4877b20f36c6f7e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1136,7 +1136,7 @@ Med «last» menes enhver påvirkning som medfører bevegelse, deformasjon, spen
 
 «Maksimal flomvannstand» er definert som den høyeste vannstand som opptrer i magasinet ved påregnelig maksimal tilløpsflom. Formuleringen er identisk med definisjonen i gjeldende forskrift [§ 1-3](forskrift/2009-12-18-1600/§1-3).
 
-«Midlere tilsig» er en ny definisjon i forskriften. Midlere tilsig er definert som midlere vannføring fra et nedbørfelt over en 30-årsperiode. Midlere tilsig for gjeldende normalperiode (pr. 2007 perioden 1961–1990) kan hentes fra NVEs avrenningskart ( [www.nve.atlas.no](https://www.nve.atlas.no)). Alternativt kan det benyttes data fra en representativ målestasjon med god kvalitet og tilstrekkelig lang måleserie.
+«Midlere tilsig» er en ny definisjon i forskriften. Midlere tilsig er definert som midlere vannføring fra et nedbørfelt over en 30-årsperiode. Midlere tilsig for gjeldende normalperiode (pr. 2007 perioden 1961–1990) kan hentes fra NVEs avrenningskart (www.nve.atlas.no). Alternativt kan det benyttes data fra en representativ målestasjon med god kvalitet og tilstrekkelig lang måleserie.
 
 Med «påregnelig maksimal avløpsflom» menes den vannføring som avledes ved maksimal flomvannstand. Samme formulering er benyttet i gjeldende forskrift [§ 1-3](forskrift/2009-12-18-1600/§1-3).
 
