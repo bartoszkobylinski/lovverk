@@ -6,8 +6,8 @@ ref_id: "forskrift/2024-08-29-2428"
 title: "Forskrift om folkevalgtes plikter og rettigheter, Rossen tjïelte, Trööndelage / Røros kommune, Trøndelag"
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) §§ 8-1, 8-2, 8-3, 8-4, 8-5, 8-6, 8-7, 8-8, 8-9 og 8-10"]
-vedtatt: null
-vedtatt_av: null
+vedtatt: "2024-08-29"
+vedtatt_av: "Rossen tjïelteståvroen / Røros kommunestyre"
 ikraft: null
 ikraft_text: "fra kommunestyret vedtar den"
 version: 1

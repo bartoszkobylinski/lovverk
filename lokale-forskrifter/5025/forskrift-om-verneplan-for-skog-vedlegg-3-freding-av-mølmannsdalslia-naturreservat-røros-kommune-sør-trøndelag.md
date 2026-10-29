@@ -6,10 +6,11 @@ ref_id: "forskrift/2008-12-19-1456"
 title: "Forskrift om verneplan for skog. Vedlegg 3. Freding av Mølmannsdalslia naturreservat, Røros kommune, Sør-Trøndelag"
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov 19. juni 1970 nr. 63 om naturvern § 8, jf. § 10 og § 21, § 22 og § 23"]
-vedtatt: null
+vedtatt: "2008-12-19"
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"
+status: "repealed"
 version: 1
 content_hash: "7dc9c9e085aa954949eb18a7216bb4a639893311e8d702ce0c9261bfdb1f155a"
 received_at: "2026-10-16T10:42:25Z"

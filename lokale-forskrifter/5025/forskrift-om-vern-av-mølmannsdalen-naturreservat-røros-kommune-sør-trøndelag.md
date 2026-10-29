@@ -6,7 +6,7 @@ ref_id: "forskrift/2017-12-01-1897"
 title: "Forskrift om vern av Mølmannsdalen naturreservat, Røros kommune, Sør-Trøndelag"
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 34, jf. § 37 og § 62"]
-vedtatt: null
+vedtatt: "2017-12-01"
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"

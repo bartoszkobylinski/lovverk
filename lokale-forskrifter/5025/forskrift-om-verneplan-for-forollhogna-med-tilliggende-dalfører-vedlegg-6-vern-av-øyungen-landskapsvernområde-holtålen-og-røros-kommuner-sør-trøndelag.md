@@ -6,7 +6,7 @@ ref_id: "forskrift/2001-12-21-1569"
 title: "Forskrift om verneplan for Forollhogna med tilliggende dalfører, vedlegg 6, vern av Øyungen landskapsvernområde, Holtålen og Røros kommuner, Sør-Trøndelag."
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov av 19. juni 1970 nr. 63 om naturvern § 5 og § 6, jf. § 21, § 22 og § 23"]
-vedtatt: null
+vedtatt: "2001-12-21"
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"

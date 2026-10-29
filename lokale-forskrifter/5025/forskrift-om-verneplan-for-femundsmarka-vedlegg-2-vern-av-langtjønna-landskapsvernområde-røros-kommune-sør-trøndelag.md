@@ -6,7 +6,7 @@ ref_id: "forskrift/2003-02-21-182"
 title: "Forskrift om verneplan for Femundsmarka, vedlegg 2, vern av Langtjønna landskapsvernområde, Røros kommune, Sør-Trøndelag."
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov av 19. juni 1970 nr. 63 om naturvern § 5 og § 6, jf. § 21, § 22 og § 23"]
-vedtatt: null
+vedtatt: "2003-02-21"
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"

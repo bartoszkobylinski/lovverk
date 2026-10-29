@@ -6,7 +6,7 @@ ref_id: "forskrift/2006-12-22-1627"
 title: "Forskrift om verneplan for skog, vedlegg 6, Flensmarka naturreservat, Røros og Engerdal kommuner, Trøndelag og Innlandet"
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov 19. juni 1970 nr. 63 om naturvern § 8, jf. § 10 og § 21, § 22 og § 23"]
-vedtatt: null
+vedtatt: "2006-12-22"
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"

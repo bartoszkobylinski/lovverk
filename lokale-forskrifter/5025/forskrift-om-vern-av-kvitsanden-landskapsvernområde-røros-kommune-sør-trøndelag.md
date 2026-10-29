@@ -6,7 +6,7 @@ ref_id: "forskrift/2004-12-17-1689"
 title: "Forskrift om vern av Kvitsanden landskapsvernområde, Røros kommune, Sør-Trøndelag."
 authority: {id: "5025", type: "kommune", name: "Røros", klass_version: "2024"}
 hjemmel: ["lov 19. juni 1970 nr. 63 om naturvern § 5, jf. § 6 og § 21, § 22 og § 23"]
-vedtatt: null
+vedtatt: "2004-12-17"
 vedtatt_av: "kgl.res."
 ikraft: null
 ikraft_text: "straks"
