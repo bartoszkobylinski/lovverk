@@ -4,18 +4,18 @@ slug: "forskrift-om-flygeoppvisning"
 type: "forskrift"
 ref_id: "forskrift/2015-04-23-424"
 title: "Forskrift om flygeoppvisning"
-short_title: "Forskrift om flygeoppvisning"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2015-05-01"
 last_change_in_force: null
 last_updated: "2015-08-14"
-xml_hash: "189365410f877b9e341f6c46e586f48e5743409d5092eb9d2192f66b26180119"
+xml_hash: "f21ed6204cfa09f1d890f5c7bd30ac14dc27b6f1716c5bc70dbab079c04bf0c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
