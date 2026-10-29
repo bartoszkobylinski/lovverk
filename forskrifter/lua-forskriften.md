@@ -1,26 +1,26 @@
 ---
 id: "sf-20030814-1053"
-slug: "forskrift-om-omsetning-mv-av-visse-reseptfrie-legemidler-utenom-apotek"
+slug: "lua-forskriften"
 type: "forskrift"
 ref_id: "forskrift/2003-08-14-1053"
-title: "Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek"
-short_title: null
+title: "Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek (LUA-forskriften)"
+short_title: "LUA-forskriften"
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2003-11-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-10-26"
 last_updated: "2018-02-22"
-xml_hash: "2cc5001141a4335cdbb9c15d6d772eec8a4cc7df1dbbe8a5eeb1fe3289ae5e40"
+xml_hash: "3893e21679093252f75f4669e7b65983975dbdd66d0b9aeda4ee2cbca9cc25b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek
+# Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek (LUA-forskriften)
 
 ## I
 
@@ -180,21 +180,19 @@ Utsalgsstedets personale skal ikke gi muntlig informasjon om valg av legemiddel 
 
 Direktoratet for medisinske produkter kan etter søknad tillate at farmasøyt veileder utsalgets kunder om legemidlene.
 
-Opplysninger om bruksområder, normaldosering og kontraindikasjoner for de formuleringer og preparater som utsalget selger kan skriftlig gjøres tilgjengelig for utsalgsstedets kunder. Informasjonen må baseres på preparatenes godkjente produktomtale.
+Pakningsvedlegg og merking for de pakninger som utsalget selger kan gjøres tilgjengelig for utsalgsstedets kunder.
 
 Direktoratet for medisinske produkter kan pålegge virksomheten å ha skriftlig tilleggsinformasjon om legemidler. Slik informasjon skal være lett tilgjengelig for publikum.
 
-> Endret ved [forskrifter 22 okt 2003 nr. 1257](forskrift/2003-10-22-1257) (i kraft 1 nov 2003), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 22 okt 2003 nr. 1257](forskrift/2003-10-22-1257) (i kraft 1 nov 2003), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [26 okt 2026 nr. 2150](forskrift/2026-10-26-2150).
 
 ### § 13. Reklame
 
 Reklame for legemidler må være i overensstemmelse med forskrift [18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler [kapittel 13](forskrift/2009-12-18-1839/kap13).
 
-Bruk av påminnelsesreklame (remindere) for legemidler eller andre markedsføringstiltak som tar sikte på å fremme tilfeldige kjøp av legemidler, er forbudt.
-
 Reklame for legemidler er ikke tillatt i eller i umiddelbar tilknytning til utsalgsstedets lokaler.
 
-> Endret ved [forskrift 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010).
+> Endret ved [forskrifter 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010), [26 okt 2026 nr. 2150](forskrift/2026-10-26-2150).
 
 ### IV. Generelle regler
 
