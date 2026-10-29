@@ -1,21 +1,21 @@
 ---
 id: "sf-20090909-1169"
-slug: "forskrift-om-boligannonsering-på-internett"
+slug: "forskrift-om-tilgang-til-boligannonsering-på-internett"
 type: "forskrift"
 ref_id: "forskrift/2009-09-09-1169"
 title: "Forskrift om tilgang til boligannonsering på Internett"
-short_title: "Forskrift om boligannonsering på Internett"
+short_title: null
 language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2010-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "15a453b10563d90f10e8cc9cc6a09912197d15c4748e65861ba83149bba287db"
+xml_hash: "20613460ae6b3e1054bb69e4c08c76e9aedd67ac4b620e09a1f94914d0631c00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
