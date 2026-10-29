@@ -4,18 +4,18 @@ slug: "forskrift-om-miljøvern-og-sikkerhet-i-antarktis"
 type: "forskrift"
 ref_id: "forskrift/2013-04-26-412"
 title: "Forskrift om miljøvern og sikkerhet i Antarktis"
-short_title: "Forskrift om miljøvern og sikkerhet i Antarktis"
+short_title: null
 language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2013-04-26"
 last_change_in_force: "2014-01-01"
 last_updated: "2014-05-01"
-xml_hash: "6550733ddc8915aab8a6c513d6a336eafff19be21af0cb8a23febfe80f8d739b"
+xml_hash: "cf3ce18172ee94f1f71a5ddc56c101d85d11d817c90e83b70be380e281a3cf42"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
