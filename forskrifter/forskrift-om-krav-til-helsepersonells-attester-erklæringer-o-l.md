@@ -1,21 +1,21 @@
 ---
 id: "sf-20081218-1486"
-slug: "forskrift-om-krav-til-helsepersonells-attester"
+slug: "forskrift-om-krav-til-helsepersonells-attester-erklæringer-o-l"
 type: "forskrift"
 ref_id: "forskrift/2008-12-18-1486"
 title: "Forskrift om krav til helsepersonells attester, erklæringer o.l."
-short_title: "Forskrift om krav til helsepersonells attester"
+short_title: null
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2009-01-01"
 last_change_in_force: null
 last_updated: "2013-05-16"
-xml_hash: "05ed0b094887cc9c515ee3021469035830220a27759873fe86de4ca8df03b798"
+xml_hash: "a92c3500d3588be30fd2f4b062a867109869e6c6f067be4079f9ba1e1db7a12d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
