@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-03-01"
-last_change_in_force: "2026-01-15"
+last_change_in_force: "2026-10-26"
 last_updated: "2018-02-22"
-xml_hash: "87eaeaca036233de192140a9a80e30ddb1e08a8b5e6cf83a49216a5212684c38"
+xml_hash: "18a39fd2a23b673e0067461ea247c69c5d7d2bf6d0d913f2981b903a5d79ae76"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -443,19 +443,19 @@ Salg av legemidler fra automater og lignende innretninger er ikke tillatt.
 
 Apoteker skal sørge for at medisinsk informasjon som apoteket gjør tilgjengelig for publikum, utarbeides i overensstemmelse med gjeldende regler om reklame for legemidler.
 
-Medisinsk informasjon som apoteket gjør tilgjengelig for publikum og som ikke omfattes av forskrift om reklame for legemidler, skal ha et forsvarlig og pålitelig innhold.
+Medisinsk informasjon som apoteket gjør tilgjengelig for publikum og som ikke omfattes av [forskrift om legemidler kapittel 13](forskrift/2009-12-18-1839/kap13), skal ha et forsvarlig og pålitelig innhold.
 
 Det skal klart fremgå hvem som har utarbeidet den medisinske informasjonen.
 
-> Endret ved [forskrift 12 nov 2009 nr. 1367](forskrift/2009-11-12-1367) (i kraft 1 jan 2010).
+> Endret ved forskrifter [12 nov 2009 nr. 1367](forskrift/2009-11-12-1367) (i kraft 1 jan 2010), [26 okt 2026 nr. 2150](forskrift/2026-10-26-2150).
 
 ### § 47. Adressert reklame o.l.
 
 Apoteket kan bare sende reklame rettet mot den enkelte kundes bestemte legemiddelbruk eller sykdomstilstand dersom kunden har gitt et informert og skriftlig samtykke til å bli kontaktet med dette formål. Den enkelte kunde kan når som helst trekke samtykket tilbake muntlig eller skriftlig.
 
-### § 48. Påminnelsesreklame
+### § 48. (Opphevet)
 
-Bruk av påminnelsesreklame (reminders) for legemidler er ikke tillatt i den del av apoteket som er synlig for allmennheten eller i annen utadrettet markedsføring overfor allmennheten.
+> Opphevet ved forskrift [26 okt 2026 nr. 2150](forskrift/2026-10-26-2150).
 
 ### § 49. Markedsføring av priser og rabatter
 
