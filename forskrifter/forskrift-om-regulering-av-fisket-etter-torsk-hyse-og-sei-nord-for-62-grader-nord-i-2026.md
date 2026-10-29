@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-10-01"
+last_change_in_force: "2026-10-26"
 last_updated: null
-xml_hash: "aedeecad6c2cd1771b8961b7e0555face64d989eff7393f6f69ebfb8cc9f4a0e"
+xml_hash: "8b1dfcb9a2671e2049b1771f9e96807053b8b5670d666971c15f3f93c7ba0e67"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-06T11:12:14.474092+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -253,7 +253,7 @@ Når et fartøy gis tillatelse til å fiske flere kvoter av torsk i medhold av [
 
 ### § 17. Ferskfiskordningen for torsk
 
-Fra og med 29. juni 2026 kan det enkelte fartøy, i tillegg til kvoten i [§ 16](forskrift/2025-12-19-2826/§16), fiske inntil 20 % torsk per uke regnet av det fartøyet totalt har fisket av torsk og andre arter i tidsrommet fra og med mandag til og med søndag. Blåsteinbit, skate og hyse under 0,8 kg rund vekt skal ikke regnes med. Kun fangster som landes fersk inngår i beregningsgrunnlaget.
+Fra og med 29. juni 2026 kan det enkelte fartøy, i tillegg til kvoten i [§ 16](forskrift/2025-12-19-2826/§16), fiske inntil 20 % torsk per uke regnet av det fartøyet totalt har fisket av torsk og andre arter i tidsrommet fra og med mandag til og med søndag. Blåsteinbit, skate og hyse under 0,8 kg rund vekt skal ikke regnes med. Kun fangster som landes fersk inngår i beregningsgrunnlaget. Tillegget økes til 30 % fra og med 26. oktober 2026.
 
 Fisk som er nedklasset og registrert med kvalitet skadd/vrak på landings- og sluttseddel inngår ikke i beregningsgrunnlaget.
 
@@ -262,6 +262,8 @@ Torskefangsten skal landes som rund eller sløyd torsk og registreres med tilhø
 Fartøy som har torskekvote igjen skal kun kvotebelastes for den andelen torsk som overstiger tillegget etter første ledd på ukebasis. Dersom fartøyet ikke har torskekvote igjen, inndras denne andelen eller verdien av den.
 
 Tillegg etter første ledd kan ikke gis for fangst som kvotebelastes i henhold til [§ 33 sjette ledd](forskrift/2025-12-19-2826/§33/ledd/6) om levendelagring av torsk.
+
+> Endret ved forskrift [26 okt 2026 nr. 2148](forskrift/2026-10-26-2148).
 
 ### § 18. Kvoter ved fiske etter hyse
 
