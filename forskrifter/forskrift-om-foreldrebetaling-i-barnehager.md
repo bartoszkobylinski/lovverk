@@ -4,18 +4,18 @@ slug: "forskrift-om-foreldrebetaling-i-barnehager"
 type: "forskrift"
 ref_id: "forskrift/2005-12-16-1478"
 title: "Forskrift om foreldrebetaling i barnehager"
-short_title: "Forskrift om foreldrebetaling i barnehager"
+short_title: null
 language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2006-01-01"
 last_change_in_force: "2023-08-01"
 last_updated: "2026-08-01"
-xml_hash: "0f00a8350c576f757d0812ddaa3bd006035cb65dad4f68d2895f11fd45ed3d8a"
+xml_hash: "ae60ec1617056d34c887eaf35655f1bd71eda1d2475b8664d23f27df0ee585ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-06T06:40:16.925664+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
