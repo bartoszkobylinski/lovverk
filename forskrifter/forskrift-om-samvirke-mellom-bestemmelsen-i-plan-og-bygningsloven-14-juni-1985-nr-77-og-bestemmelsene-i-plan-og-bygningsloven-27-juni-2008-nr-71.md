@@ -1,21 +1,21 @@
 ---
 id: "sf-20090615-0669"
-slug: "forskrift-om-samvirke-mellom-gml-og-ny-plbl"
+slug: "forskrift-om-samvirke-mellom-bestemmelsen-i-plan-og-bygningsloven-14-juni-1985-nr-77-og-bestemmelsene-i-plan-og-bygningsloven-27-juni-2008-nr-71"
 type: "forskrift"
 ref_id: "forskrift/2009-06-15-669"
 title: "Forskrift om samvirke mellom bestemmelsen i plan- og bygningsloven 14. juni 1985 nr. 77 og bestemmelsene i plan- og bygningsloven 27. juni 2008 nr. 71"
-short_title: "Forskrift om samvirke mellom gml og ny plbl."
+short_title: null
 language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2009-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "8d3cd31b8113b5abd7578c681ebb21c645ff9b55a4b68914ed73b9f439429060"
+xml_hash: "d3fc45f0a31127a2ef0e2c08eca3107b62db6aabab922dc64fc542010d444592"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
