@@ -1,21 +1,21 @@
 ---
 id: "sf-20050829-0941"
-slug: "forskrift-om-gaver-mv-til-helsepersonell"
+slug: "forskrift-om-begrensninger-i-helsepersonells-adgang-til-å-motta-gave-provisjon-tjeneste-eller-annen-ytelse"
 type: "forskrift"
 ref_id: "forskrift/2005-08-29-941"
 title: "Forskrift om begrensninger i helsepersonells adgang til å motta gave, provisjon, tjeneste eller annen ytelse"
-short_title: "Forskrift om gaver mv. til helsepersonell"
+short_title: null
 language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2005-09-01"
 last_change_in_force: "2013-01-17"
 last_updated: "2013-05-10"
-xml_hash: "1e2cb5276a35cfcfdece09caf59cac733de98563e6c042254bffa5c9f131a9c2"
+xml_hash: "9305767a385669e36afa21096c185e941728baf6d023f1e799339e182d921f8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
