@@ -4,18 +4,18 @@ slug: "forskrift-om-elsertifikater"
 type: "forskrift"
 ref_id: "forskrift/2011-12-16-1398"
 title: "Forskrift om elsertifikater"
-short_title: "Forskrift om elsertifikater"
+short_title: null
 language: "no"
 ministry:
   - "Energidepartementet"
 date_in_force: "2012-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-08-11"
-xml_hash: "5fdecd99d9b79a44c5d466f32f4e08a6b4bc60d0eb402f26f7e305139a1b6bd1"
+xml_hash: "b04349bb433a4b8faa3ee865167caf4a8ba083b696fb5b127a0bebed5afa2bfd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
