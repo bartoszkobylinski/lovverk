@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2003-01-03"
-last_change_in_force: "2019-02-15"
+last_change_in_force: "2026-10-26"
 last_updated: null
-xml_hash: "0845ce21a46ea53c6434decb3ccfa942262de5f7141f212167609bfc7242c7c1"
+xml_hash: "69cdac404b73b5b465da34789acbb9dd77862a1c82c1936b552bcebb6430d9a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,17 +36,21 @@ eu_basis: []
 
 ## § 3. Listeforslagene. Stemmesedler
 
-(1) Dersom listeforslaget ikke utgår fra et registrert parti, må det være underskrevet av minst like mange personer med stemmerett i kommunedelen som det skal velges medlemmer av kommunedelsutvalget. Dersom listeforslaget utgår fra et registrert parti som har lokallag i kommunen eller kommunedelen, er det tilstrekkelig at listeforslaget er underskrevet av to av styremedlemmene i lokallaget.
+(1) Underskrifter på listeforslag skal være skrift på papir.
 
-(2) Stemmesedlene til kommunedelsvalget skal ha en annen farge enn stemmesedlene til kommunestyrevalget og fylkestingsvalget.
+(2) Listeforslag fra andre enn partier som er registrert i Partiregisteret, og som ved forrige stortingsvalg fikk minst 5 000 stemmer i hele landet, skal være underskrevet av minst så mange personer som tilsvarer 0,5 prosent av antall personer med stemmerett ved forrige valg i kommunedelen. Listeforslaget skal likevel være underskrevet av minst like mange personer som det skal velges medlemmer til kommunedelsutvalget. Første og andre punktum gjelder likevel ikke dersom partiet er blitt registrert i Partiregisteret etter forrige stortingsvalg.
+
+(3) Stemmesedlene til kommunedelsvalget skal ha en annen farge enn stemmesedlene til kommunestyrevalget og fylkestingsvalget.
+
+> Endret ved forskrift [26 okt 2026 nr. 2146](forskrift/2026-10-26-2146).
 
 ## § 4. Forhåndsstemmegivningen
 
 (1) Forhåndsstemmegivning til valg av kommunedelsutvalg skal foregå på de samme steder innen kommunen som forhåndsstemmegivning til kommunestyrevalget.
 
-(2) Velger legger selv stemmeseddelen i en urne, etter at den er stemplet. Stemmemottaker setter kryss i manntallet ved velgerens navn.
+(2) Dersom det brukes stemmeseddelkonvolutt, skal stemmeseddelen legges i én felles stemmeseddelkonvolutt med stemmesedlene til kommunestyrevalget og fylkestingsvalget.
 
-> Endret ved [forskrift 1 juli 2015 nr. 849](forskrift/2015-07-01-849).
+> Endret ved forskrifter [1 juli 2015 nr. 849](forskrift/2015-07-01-849), [26 okt 2026 nr. 2146](forskrift/2026-10-26-2146).
 
 ## § 5. Stemmegivning på valgtinget
 
@@ -56,19 +60,23 @@ Kommunestyret avgjør om stemmesedler til valg av kommunedelsutvalg skal være t
 
 (1) Stemmesedlene for valg til kommunedelsutvalg telles opp atskilt fra stemmesedlene til kommunestyrevalget.
 
-(2) Valgstyret foretar valgoppgjør for fordeling av representantplassene i kommunedelsutvalget og peker ut de kandidater som er valgt til representanter.
+(2) [Valgloven § 10-8 andre ledd](lov/2023-06-16-62/§10-8/ledd/2) gjelder ikke.
 
-## § 7. Prøve av valgets gyldighet. Klage
+(3) På valgtinget skal stemmesedler som er lagt i en urne uten bruk av stemmeseddelkonvolutt, og som er fra velgere som har stemmerett i den kommunedelen som valglokalet tilhører, telles opp i valglokalet. Dette gjelder bare hvis den delen av manntallet opptellingen gjelder, inneholder minst 100 navn. Stemmesedler fra velgere som er innført i manntallet i stemmekretser i andre kommunedeler, skal telles opp samlet for hver enkelt kommunedel etter [valgforskriften § 11-6](forskrift/2024-11-05-2662/§11-6).
 
-(1) Det nyvalgte kommunestyret treffer vedtak om valg av kommunedelsutvalg er gyldig.
+> Endret ved forskrift [26 okt 2026 nr. 2146](forskrift/2026-10-26-2146).
 
-(2) Alle som har stemmerett i vedkommende kommunedel kan klage over forhold i forbindelse med forberedelse og gjennomføring av valg til kommunedelsutvalg. Departementet er klageinstans.
+## § 7. Godkjenning av valget
+
+Det nyvalgte kommunestyret treffer vedtak om valg av kommunedelsutvalg er gyldig.
+
+> Endret ved forskrift [26 okt 2026 nr. 2146](forskrift/2026-10-26-2146).
 
 ## § 8. Forholdet til valgloven og valgforskriften
 
-Valglovens og valgforskriftens bestemmelser om kommunestyrevalg gjelder tilsvarende så langt de passer.
+[Valglovens](lov/2023-06-16-62) og [valgforskriftens](forskrift/2024-11-05-2662) bestemmelser om kommunestyrevalg gjelder tilsvarende så langt de passer. [Valgloven kapittel 20](lov/2023-06-16-62/kap20) og [valgforskriften kapittel 4](forskrift/2024-11-05-2662/kap4) gjelder ikke.
 
-> Endret ved [forskrift 15 feb 2019 nr. 124](forskrift/2019-02-15-124).
+> Endret ved forskrifter [15 feb 2019 nr. 124](forskrift/2019-02-15-124), [26 okt 2026 nr. 2146](forskrift/2026-10-26-2146).
 
 ## § 9. Ikrafttredelse
 
