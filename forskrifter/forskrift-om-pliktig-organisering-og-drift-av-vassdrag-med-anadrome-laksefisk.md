@@ -1,21 +1,21 @@
 ---
 id: "sf-20130625-0761"
-slug: "forskrift-om-organisering-og-drift-av-lakseelver"
+slug: "forskrift-om-pliktig-organisering-og-drift-av-vassdrag-med-anadrome-laksefisk"
 type: "forskrift"
 ref_id: "forskrift/2013-06-25-761"
 title: "Forskrift om pliktig organisering og drift av vassdrag med anadrome laksefisk"
-short_title: "Forskrift om organisering og drift av lakseelver"
+short_title: null
 language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2013-06-25"
 last_change_in_force: null
 last_updated: null
-xml_hash: "7c307751b766c7d3c9acdf69290b962c94ff7a55e55d2e1f2c0c8a9c268d9a31"
+xml_hash: "fc387480257552c8f2b59cac634c4327248725184d85d981cf4f4a023565a36f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -112,7 +112,7 @@ Det skal innkalles til forberedende møte innen ni måneder etter at denne forsk
 
 Forskriften trer i kraft straks. For vassdrag omfattet av kravet om pliktig organisering oppheves samtidig [forskrift 3. mai 2000 nr. 378](forskrift/2000-05-03-378) om gjennomføring av flertallsvedtak vedrørende organisering og drift av vassdrag etter lov om laksefisk og innlandsfisk § 25.
 
-Samtidig endring i [forskrift 3. mai 2000 nr. 378](forskrift/2000-05-03-378) om gjennomføring av flertallsvedtak vedrørende organisering og drift av vassdrag etter lov om laksefisk og innlandsfisk § 25: ---
+Samtidig endring i [forskrift 3. mai 2000 nr. 378](forskrift/2000-05-03-378) om gjennomføring av flertallsvedtak vedrørende organisering og drift av vassdrag etter lov om laksefisk og innlandsfisk § 25: – – –
 
 ## Kommentarer
 
