@@ -4,18 +4,18 @@ slug: "forskrift-om-konsesjon-for-landingsplasser"
 type: "forskrift"
 ref_id: "forskrift/2007-01-11-40"
 title: "Forskrift om konsesjon for landingsplasser (BSL E 1-1)."
-short_title: "Forskrift om konsesjon for landingsplasser"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2007-01-11"
 last_change_in_force: null
 last_updated: null
-xml_hash: "691e7687d3bed4f6d39b0802bdf4218627f4c0a847b7d5543d8ef59ac71f52f8"
+xml_hash: "b7e96e1388af3b53a8f19a07201bcf45c32e1e56aa0868f9fc5e046c768803a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -322,7 +322,7 @@ Landingsplasser uten internasjonal status kan ta i mot enkeltstående internasjo
 
 *Første ledd:* I henhold til plan- og [bygningsloven § 33-2](lov/2008-06-27-71/§33-2) kreves det konsekvensutredning for nærmere bestemte tiltak, herunder endring i eksisterende tiltak som kan få vesentlige konsekvenser for miljø, naturressurser eller samfunn og som er avhengig av offentlig tillatelse.
 
-[Forskrift 1. april 2005 nr. 276](forskrift/2005-04-01-276) om konsekvensutredninger [§ 2](forskrift/2005-04-01-276/§2), jf. forskriftens vedlegg I, bestemmer at flyplass med rullebane på 1600 meter eller mer alltid skal konsekvensutredes, mens [§ 3](forskrift/2007-01-11-40/§3) og orskriftens vedlegg II bestemmer at flyplass med en investeringskostnad på mer enn 100 millioner kroner skal konsekvensutredes dersom tiltaket faller inn under ett eller flere av kriteriene i [§ 4](forskrift/2007-01-11-40/§4). Forskriften er under revisjon og det vises derfor til Miljøverndepartementet for nærmere informasjon, se *[www.odin.dep.no/md/](https://www.odin.dep.no/md/).*
+[Forskrift 1. april 2005 nr. 276](forskrift/2005-04-01-276) om konsekvensutredninger [§ 2](forskrift/2005-04-01-276/§2), jf. forskriftens vedlegg I, bestemmer at flyplass med rullebane på 1600 meter eller mer alltid skal konsekvensutredes, mens [§ 3](forskrift/2007-01-11-40/§3) og orskriftens vedlegg II bestemmer at flyplass med en investeringskostnad på mer enn 100 millioner kroner skal konsekvensutredes dersom tiltaket faller inn under ett eller flere av kriteriene i [§ 4](forskrift/2007-01-11-40/§4). Forskriften er under revisjon og det vises derfor til Miljøverndepartementet for nærmere informasjon, se *www.odin.dep.no/md/.*
 
 *Annet ledd:* Det er kun større landingsplasser som kommer inn under plan- og bygningslovens krav om konsekvensutredning. For andre landingsplassene har Luftfartstilsynet derfor funnet det nødvendig å kreve en vurdering av landingsplassens påvirkning på miljøet. Det er tatt utgangspunkt i kravene til miljøutredning etter utredningsinstruksen T-1379.
 
