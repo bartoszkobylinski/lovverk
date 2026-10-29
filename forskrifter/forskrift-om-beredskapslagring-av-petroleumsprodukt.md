@@ -1,26 +1,26 @@
 ---
 id: "sf-20060901-1019"
-slug: "forskrift-om-beredskapslagring-av-petroleum"
+slug: "forskrift-om-beredskapslagring-av-petroleumsprodukt"
 type: "forskrift"
 ref_id: "forskrift/2006-09-01-1019"
-title: "Forskrift om beredskapslagring av petroleumsprodukt."
-short_title: "Forskrift om beredskapslagring av petroleum"
+title: "Forskrift om beredskapslagring av petroleumsprodukt"
+short_title: null
 language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2006-09-02"
 last_change_in_force: null
 last_updated: null
-xml_hash: "cb5bf257b0226d61a2a0dc7b7f3bec6eb043f0aa3968acc14c3cde007983d93a"
+xml_hash: "5975b2c786e87fb25c9de2409bf4dc5c162582090d858a0fad18f800b6f3ec8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Forskrift om beredskapslagring av petroleumsprodukt.
+# Forskrift om beredskapslagring av petroleumsprodukt
 
 ## § 1. Føremål
 
