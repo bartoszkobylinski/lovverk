@@ -2,6 +2,16 @@
   "doc_id": "sf-20050412-0319",
   "events": [
     {
+      "commit": "98826dd",
+      "date": "2026-10-29",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-tilsetningsstoffer-i-forvarer",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "88bbca5",
       "date": "2026-10-13",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sanksjoner-og-tiltak-mot-iran — Change history
 
-_6 events; doc_id `sf-20070209-0149`._
+_7 events; doc_id `sf-20070209-0149`._
+
+## 2026-10-29 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-sanksjoner-og-tiltak-mot-iran`
+Commit: `01523e9`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

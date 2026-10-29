@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-oversikt-over-folkehelsen — Change history
 
-_3 events; doc_id `sf-20120628-0692`._
+_4 events; doc_id `sf-20120628-0692`._
+
+## 2026-10-29 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-oversikt-over-folkehelsen`
+Commit: `97554ef`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20051011-1196",
   "events": [
     {
+      "commit": "d7853ea",
+      "date": "2026-10-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-smittefarlig-helseavfall",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e11466f",
       "date": "2026-09-14",
       "from_path": null,

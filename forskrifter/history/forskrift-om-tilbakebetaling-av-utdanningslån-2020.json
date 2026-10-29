@@ -2,6 +2,16 @@
   "doc_id": "sf-20191217-1872",
   "events": [
     {
+      "commit": "074a3d6",
+      "date": "2026-10-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-tilbakebetaling-av-utdanningslån-2020",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

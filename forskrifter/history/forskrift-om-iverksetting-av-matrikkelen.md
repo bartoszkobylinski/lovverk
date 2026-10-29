@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-iverksetting-av-matrikkelen — Change history
 
-_3 events; doc_id `sf-20070209-0151`._
+_4 events; doc_id `sf-20070209-0151`._
+
+## 2026-10-29 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-iverksetting-av-matrikkelen`
+Commit: `2b24348`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

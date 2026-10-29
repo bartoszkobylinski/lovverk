@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-flygeoppvisning — Change history
 
-_4 events; doc_id `sf-20150423-0424`._
+_5 events; doc_id `sf-20150423-0424`._
+
+## 2026-10-29 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-flygeoppvisning`
+Commit: `c4841e1`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

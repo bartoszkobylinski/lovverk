@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-kontroll-av-salmonella-mv — Change history
 
-_4 events; doc_id `sf-20051223-1703`._
+_5 events; doc_id `sf-20051223-1703`._
+
+## 2026-10-29 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-kontroll-av-salmonella-mv`
+Commit: `db34e25`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

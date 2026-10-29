@@ -7,15 +7,14 @@ source_license: "NLOD 2.0"
 
 # endr-i-kostra-forskriften — Change history
 
-_2 events; doc_id `sf-20251029-2134`._
+_2 events; doc_id `sf-20261027-2154`._
 
-## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251029-2134.md` → `forskrifter/endr-i-kostra-forskriften.md`.
-Lines: +2 -1.
-Subject: `migration: rename 4522 documents to slug-based filenames`
-Commit: `3dddeca`.
+## 2026-10-29 — Added to corpus
+Lines: +58 -0.
+Subject: `add(forskrift): endr-i-kostra-forskriften`
+Commit: `f885ab3`.
 
-## 2026-04-26 — Added to corpus
-Lines: +36 -0.
-Subject: `sync: 4522 new, 0 changed, 0 removed`
-Commit: `57c3052`.
+## 2026-05-04 — Content updated
+Lines: +0 -38.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.

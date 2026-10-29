@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-filmformidling — Change history
 
-_3 events; doc_id `sf-20161012-1209`._
+_4 events; doc_id `sf-20161012-1209`._
+
+## 2026-10-29 — Content updated
+Lines: +8 -4.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-filmformidling`
+Commit: `2e4e4f9`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

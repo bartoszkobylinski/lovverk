@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kostra-forskriften — Change history
 
-_3 events; doc_id `sf-20191018-1412`._
+_4 events; doc_id `sf-20191018-1412`._
+
+## 2026-10-29 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): kostra-forskriften`
+Commit: `694cfed`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

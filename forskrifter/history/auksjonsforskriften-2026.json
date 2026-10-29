@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261001-2143",
+  "events": [
+    {
+      "commit": "b35b83f",
+      "date": "2026-10-29",
+      "from_path": null,
+      "lines_added": 24,
+      "lines_removed": 24,
+      "subject": "add(forskrift): auksjonsforskriften-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "auksjonsforskriften-2026"
+}

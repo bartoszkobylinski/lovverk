@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-ny-mat — Change history
 
-_8 events; doc_id `sf-20170725-1215`._
+_9 events; doc_id `sf-20170725-1215`._
+
+## 2026-10-29 — Content updated
+Lines: +59 -44.
+Subject: `update(forskrift): forskrift-om-ny-mat`
+Commit: `15ce59a`.
 
 ## 2026-10-03 — Content updated
 Lines: +91 -13.

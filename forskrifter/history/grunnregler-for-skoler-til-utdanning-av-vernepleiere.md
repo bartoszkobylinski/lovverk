@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # grunnregler-for-skoler-til-utdanning-av-vernepleiere — Change history
 
-_3 events; doc_id `sf-19800617-8756`._
+_4 events; doc_id `sf-19800617-8756`._
+
+## 2026-10-29 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): grunnregler-for-skoler-til-utdanning-av-vernepleiere`
+Commit: `6096742`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

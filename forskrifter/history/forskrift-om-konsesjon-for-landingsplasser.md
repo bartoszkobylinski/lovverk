@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-konsesjon-for-landingsplasser — Change history
 
-_4 events; doc_id `sf-20070111-0040`._
+_5 events; doc_id `sf-20070111-0040`._
+
+## 2026-10-29 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-konsesjon-for-landingsplasser`
+Commit: `0a56677`.
 
 ## 2026-07-07 — Content updated
 Lines: +3 -3.

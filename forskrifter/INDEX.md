@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5134 current documents_
+_5136 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -49,6 +49,7 @@ _5134 current documents_
 - [auksjonsforskriften-2020](auksjonsforskriften-2020.md) — Forskrift om tildeling av produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2020 gjennom auksjon (auksjonsforskriften 2020)
 - [auksjonsforskriften-2022](auksjonsforskriften-2022.md) — Forskrift om tildeling av produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2022 gjennom auksjon (auksjonsforskriften 2022)
 - [auksjonsforskriften-2024](auksjonsforskriften-2024.md) — Forskrift om tildeling av produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2024 gjennom auksjon (auksjonsforskriften 2024)
+- [auksjonsforskriften-2026](auksjonsforskriften-2026.md) — Forskrift om tildeling av produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2026 gjennom auksjon (auksjonsforskriften 2026)
 - [autorisasjon-av-verksteder](autorisasjon-av-verksteder.md) — Forskrift om autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr.
 - [autorisasjonsforskriften](autorisasjonsforskriften.md) — Forskrift om autorisasjon for virksomhet som utfører installasjon og vedlikehold av elektronisk kommunikasjonsnett (autorisasjonsforskriften)
 - [avfallsforskriften](avfallsforskriften.md) — Forskrift om gjenvinning og behandling av avfall (avfallsforskriften)
@@ -1292,6 +1293,7 @@ _5134 current documents_
 - [endr-i-høstingsforskriften](endr-i-høstingsforskriften.md) — Forskrift om endring i forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser
 - [endr-i-ikrafttredelse-av-lov-2012-5](endr-i-ikrafttredelse-av-lov-2012-5.md) — Vedtak om endring i vedtak 20. januar 2012 nr. 37 om ikrafttredelse av lov 20. januar 2012 nr. 5 om endringer i utlendingsloven m.m. (høring av barn mv.)
 - [endr-i-klareringsforskriften](endr-i-klareringsforskriften.md) — Forskrift om endring i forskrift om sikkerhetsklarering og annen klarering (klareringsforskriften)
+- [endr-i-kostra-forskriften](endr-i-kostra-forskriften.md) — Forskrift om endring i forskrift om rapportering fra kommuner og fylkeskommuner mv.
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
@@ -1650,6 +1652,7 @@ _5134 current documents_
 - [forskrift-om-barns-rett-til-selv-å-samtykke-til-deltakelse-i-forskning](forskrift-om-barns-rett-til-selv-å-samtykke-til-deltakelse-i-forskning.md) — Forskrift om barn mellom 12 og 16 år sin rett til selv å samtykke til deltakelse i medisinsk og helsefaglig forskning
 - [forskrift-om-barns-rettigheter-i-barnevernsinstitusjon](forskrift-om-barns-rettigheter-i-barnevernsinstitusjon.md) — Forskrift om barns rettigheter i barnevernsinstitusjon
 - [forskrift-om-befolkningsbaserte-helseundersøkelser](forskrift-om-befolkningsbaserte-helseundersøkelser.md) — Forskrift om befolkningsbaserte helseundersøkelser
+- [forskrift-om-begrensninger-i-helsepersonells-adgang-til-å-motta-gave-provisjon-tjeneste-eller-annen-ytelse](forskrift-om-begrensninger-i-helsepersonells-adgang-til-å-motta-gave-provisjon-tjeneste-eller-annen-ytelse.md) — Forskrift om begrensninger i helsepersonells adgang til å motta gave, provisjon, tjeneste eller annen ytelse
 - [forskrift-om-begrensninger-i-torskefisket-mv](forskrift-om-begrensninger-i-torskefisket-mv.md) — Forskrift om begrensninger i fisket etter torsk, rognkjeks, makrell, kveite og kongekrabbe med fartøy som ikke er innført i register over merkepliktige norske fiskefartøy (merkeregisteret) eller fra land
 - [forskrift-om-begrepet-olje-m-v](forskrift-om-begrepet-olje-m-v.md) — Forskrift for definisjon av begrepet olje og oljeholdig blanding i lov om vern mot oljeskader.
 - [forskrift-om-behandling-av-akvakultursøknader](forskrift-om-behandling-av-akvakultursøknader.md) — Forskrift om samordning og tidsfrister i behandlingen av akvakultursøknader
@@ -1676,7 +1679,7 @@ _5134 current documents_
 - [forskrift-om-bemyndigelse-av-funksjonærer](forskrift-om-bemyndigelse-av-funksjonærer.md) — Forskrift om bemyndigelse av funksjonærer etter tvangsfullbyrdelsesloven.
 - [forskrift-om-bemyndigelser-til-fiskeridep](forskrift-om-bemyndigelser-til-fiskeridep.md) — Forskrift om bemyndigelser til Fiskeridepartementet.
 - [forskrift-om-beredskapsfartøy](forskrift-om-beredskapsfartøy.md) — Forskrift om beredskapsfartøy
-- [forskrift-om-beredskapslagring-av-petroleum](forskrift-om-beredskapslagring-av-petroleum.md) — Forskrift om beredskapslagring av petroleumsprodukt.
+- [forskrift-om-beredskapslagring-av-petroleumsprodukt](forskrift-om-beredskapslagring-av-petroleumsprodukt.md) — Forskrift om beredskapslagring av petroleumsprodukt
 - [forskrift-om-beredskapslagring-av-såkorn](forskrift-om-beredskapslagring-av-såkorn.md) — Forskrift om beredskapslagring av såkorn
 - [forskrift-om-beregning-av-a-avgift-mv](forskrift-om-beregning-av-a-avgift-mv.md) — Forskrift om beregning og fastsetting m.v. av arbeidsgiveravgift til folketrygden
 - [forskrift-om-beregning-av-ansvarlig-kapital](forskrift-om-beregning-av-ansvarlig-kapital.md) — Forskrift om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak
@@ -1729,7 +1732,6 @@ _5134 current documents_
 - [forskrift-om-blåkveitefisket-ved-svalbard](forskrift-om-blåkveitefisket-ved-svalbard.md) — Forskrift om forbud mot å fiske blåkveite i territorialfarvannet ved Svalbard
 - [forskrift-om-blåkveitefisket-ved-svalbard-2](forskrift-om-blåkveitefisket-ved-svalbard-2.md) — Forskrift om forbud mot å fiske blåkveite i fiskevernsonen ved Svalbard
 - [forskrift-om-blålangefisket](forskrift-om-blålangefisket.md) — Forskrift om regulering av fiske etter blålange
-- [forskrift-om-boligannonsering-på-internett](forskrift-om-boligannonsering-på-internett.md) — Forskrift om tilgang til boligannonsering på Internett
 - [forskrift-om-boligplattformer-m-v](forskrift-om-boligplattformer-m-v.md) — Forskrift om konstruksjon og utrustning av boligkvarteret på flyttbare innretninger
 - [forskrift-om-bompengeinnkreving-fra-tunge-godskjøretøy](forskrift-om-bompengeinnkreving-fra-tunge-godskjøretøy.md) — Forskrift om innkreving av bompenger fra tunge godskjøretøy med tillatt totalvekt over 3 500 kg
 - [forskrift-om-bortvisning-og-utvisning-av-personer-fra-svalbard](forskrift-om-bortvisning-og-utvisning-av-personer-fra-svalbard.md) — Forskrift om bortvisning og utvisning av personer fra Svalbard
@@ -1963,6 +1965,7 @@ _5134 current documents_
 - [forskrift-om-erstatning-etter-politiloven-23a](forskrift-om-erstatning-etter-politiloven-23a.md) — Forskrift om erstatning etter politiloven § 23a
 - [forskrift-om-erstatning-for-sterkt-skadde-eller-bortkomne-sedler-og-mynter](forskrift-om-erstatning-for-sterkt-skadde-eller-bortkomne-sedler-og-mynter.md) — Forskrift om erstatning for sterkt skadde eller bortkomne sedler og mynter
 - [forskrift-om-erstatning-for-tap-av-tamrein](forskrift-om-erstatning-for-tap-av-tamrein.md) — Forskrift om erstatning for tap og følgekostnader når tamrein blir drept eller skadet av rovvilt.
+- [forskrift-om-erstatning-når-husdyr-blir-drept-eller-skadet-av-rovvilt](forskrift-om-erstatning-når-husdyr-blir-drept-eller-skadet-av-rovvilt.md) — Forskrift om erstatning når husdyr blir drept eller skadet av rovvilt
 - [forskrift-om-erstatning-ved-atomulykker](forskrift-om-erstatning-ved-atomulykker.md) — Forskrift om erstatning ved atomulykker.
 - [forskrift-om-et-råd-for-drivstoffberedskap-og-drivstoffnæringens-beredskapsplikter](forskrift-om-et-råd-for-drivstoffberedskap-og-drivstoffnæringens-beredskapsplikter.md) — Forskrift om et råd for drivstoffberedskap og drivstoffnæringens beredskapsplikter
 - [forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade](forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade.md) — Forskrift om et rådgivende yrkessykdomsutvalg for regelmessig revisjon av forskrift over sykdommer som skal likestilles med yrkesskade
@@ -2036,7 +2039,7 @@ _5134 current documents_
 - [forskrift-om-festsodd-fra-trøndelag](forskrift-om-festsodd-fra-trøndelag.md) — Forskrift om beskyttelse av Festsodd fra Trøndelag som geografisk betegnelse
 - [forskrift-om-film-og-videogram](forskrift-om-film-og-videogram.md) — Forskrift om film og videogram.
 - [forskrift-om-finanstilsyn-i-eøs](forskrift-om-finanstilsyn-i-eøs.md) — Forskrift om tilsyn med finansforetak og forvaltningsselskap som har hovedsete i annen EØS-stat og som driver virksomhet i Norge mv.
-- [forskrift-om-finnmarkskomm-og-utmarksdomstolen](forskrift-om-finnmarkskomm-og-utmarksdomstolen.md) — Forskrift om Finnmarkskommisjonen og Utmarksdomstolen for Finnmark
+- [forskrift-om-finnmarkskommisjonen-og-utmarksdomstolen-for-finnmark](forskrift-om-finnmarkskommisjonen-og-utmarksdomstolen-for-finnmark.md) — Forskrift om Finnmarkskommisjonen og Utmarksdomstolen for Finnmark
 - [forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om fiske etter anadrome laksefisk i sjøen
 - [forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-fiske-etter-reker-svalbard](forskrift-om-fiske-etter-reker-svalbard.md) — Forskrift om fiske etter reker – stenging av områder i fiskevernsonen ved Svalbard, Svalbards territorialfarvann og indre farvann.
@@ -2223,7 +2226,6 @@ _5134 current documents_
 - [forskrift-om-garantier-og-finans-og-gjeldsforvaltning-i-kommuner-og-fylkeskommuner](forskrift-om-garantier-og-finans-og-gjeldsforvaltning-i-kommuner-og-fylkeskommuner.md) — Forskrift om garantier og finans- og gjeldsforvaltning i kommuner og fylkeskommuner
 - [forskrift-om-garantitillegg-i-pensjonen](forskrift-om-garantitillegg-i-pensjonen.md) — Forskrift om garantitillegg for å hindre nedgang i samlet pensjon etter samordningsloven
 - [forskrift-om-gassapparater](forskrift-om-gassapparater.md) — Forskrift om gassapparater
-- [forskrift-om-gaver-mv-til-helsepersonell](forskrift-om-gaver-mv-til-helsepersonell.md) — Forskrift om begrensninger i helsepersonells adgang til å motta gave, provisjon, tjeneste eller annen ytelse
 - [forskrift-om-gebyr-etter-dyrevelferdsloven](forskrift-om-gebyr-etter-dyrevelferdsloven.md) — Forskrift om overtredelsesgebyr etter dyrevelferdsloven
 - [forskrift-om-gebyr-for-bidragsfastsettelse](forskrift-om-gebyr-for-bidragsfastsettelse.md) — Forskrift om gebyr for offentlig fastsettelse av barnebidrag
 - [forskrift-om-gebyr-for-brudd-på-røykeforbudet-i-private-kjøretøy-med-barn-til-stede](forskrift-om-gebyr-for-brudd-på-røykeforbudet-i-private-kjøretøy-med-barn-til-stede.md) — Forskrift om gebyr for brudd på røykeforbudet i private kjøretøy med barn til stede
@@ -2500,7 +2502,7 @@ _5134 current documents_
 - [forskrift-om-kapitaliseringsrente-etter-skadeserstatningsloven](forskrift-om-kapitaliseringsrente-etter-skadeserstatningsloven.md) — Forskrift om kapitaliseringsrente etter skadeserstatningsloven
 - [forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026](forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026.md) — Forskrift om kartleggingsfisket etter torsk i fiskerisonen ved Jan Mayen i 2026
 - [forskrift-om-kaseiner-og-kaseinater](forskrift-om-kaseiner-og-kaseinater.md) — Forskrift om kaseiner og kaseinater
-- [forskrift-om-kirkegårder-i-longyearbyen-mv](forskrift-om-kirkegårder-i-longyearbyen-mv.md) — Forskrift om kirkegårder i Longyearbyen og askespredning på Svalbard
+- [forskrift-om-kirkegårder-i-longyearbyen-og-askespredning-på-svalbard](forskrift-om-kirkegårder-i-longyearbyen-og-askespredning-på-svalbard.md) — Forskrift om kirkegårder i Longyearbyen og askespredning på Svalbard
 - [forskrift-om-kjemiske-desinfeksjonsmidler](forskrift-om-kjemiske-desinfeksjonsmidler.md) — Forskrifter om kjemiske desinfeksjonsmidler til teknisk bruk i helse- og sykepleie.
 - [forskrift-om-kjøkkenartikler-fra-kina-og-hongkong](forskrift-om-kjøkkenartikler-fra-kina-og-hongkong.md) — Forskrift om kontroll av kjøkkenartikler i plast importert fra Kina og Hongkong
 - [forskrift-om-kjøpers-renteplikt-ved-sen-betaling](forskrift-om-kjøpers-renteplikt-ved-sen-betaling.md) — Forskrift om kjøpers renteplikt ved betaling etter oppgjørsdagen, jf. tvangsfullbyrdelsesloven § 11-27 annet ledd.
@@ -2603,7 +2605,7 @@ _5134 current documents_
 - [forskrift-om-krav-til-føring-av-atskilte-regnskaper-mv](forskrift-om-krav-til-føring-av-atskilte-regnskaper-mv.md) — Forskrift om krav til føring av atskilte regnskaper mv.
 - [forskrift-om-krav-til-gassmålere](forskrift-om-krav-til-gassmålere.md) — Forskrift om krav til gassmålere
 - [forskrift-om-krav-til-godkjenning-av-utstyr-til-bruk-i-flysikringstjenestene-og-krav-til-utviklere-og-produsenter-av-slikt-utstyr](forskrift-om-krav-til-godkjenning-av-utstyr-til-bruk-i-flysikringstjenestene-og-krav-til-utviklere-og-produsenter-av-slikt-utstyr.md) — Forskrift om krav til godkjenning av utstyr til bruk i flysikringstjenestene, og krav til utviklere og produsenter av slikt utstyr
-- [forskrift-om-krav-til-helsepersonells-attester](forskrift-om-krav-til-helsepersonells-attester.md) — Forskrift om krav til helsepersonells attester, erklæringer o.l.
+- [forskrift-om-krav-til-helsepersonells-attester-erklæringer-o-l](forskrift-om-krav-til-helsepersonells-attester-erklæringer-o-l.md) — Forskrift om krav til helsepersonells attester, erklæringer o.l.
 - [forskrift-om-krav-til-ikke-automatiske-vekter](forskrift-om-krav-til-ikke-automatiske-vekter.md) — Forskrift om krav til ikke-automatiske vekter
 - [forskrift-om-krav-til-internkontrollsystem-for-måleredskaper-og-målinger](forskrift-om-krav-til-internkontrollsystem-for-måleredskaper-og-målinger.md) — Forskrift om krav til internkontrollsystem for måleredskaper og målinger
 - [forskrift-om-krav-til-kalibrering-måletanker](forskrift-om-krav-til-kalibrering-måletanker.md) — Forskrift om krav til kalibrering av måletanker som brukes til beregning av økonomisk oppgjør
@@ -2941,7 +2943,6 @@ _5134 current documents_
 - [forskrift-om-omsetning-av-tømmer-mv-opprinnelse-i-norge](forskrift-om-omsetning-av-tømmer-mv-opprinnelse-i-norge.md) — Forskrift om omsetning av tømmer og treprodukter med opprinnelse i Norge
 - [forskrift-om-omsetning-av-tømmer-mv-opprinnelse-utenfor-norge](forskrift-om-omsetning-av-tømmer-mv-opprinnelse-utenfor-norge.md) — Forskrift om omsetning av tømmer og treprodukter med opprinnelse utenfor Norge
 - [forskrift-om-omsetning-m-v-av-agn](forskrift-om-omsetning-m-v-av-agn.md) — Forskrift om omsetning m.v. av agn.
-- [forskrift-om-omsetning-mv-av-visse-reseptfrie-legemidler-utenom-apotek](forskrift-om-omsetning-mv-av-visse-reseptfrie-legemidler-utenom-apotek.md) — Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek
 - [forskrift-om-omsetning-og-dokumentasjon-av-heiser-mv](forskrift-om-omsetning-og-dokumentasjon-av-heiser-mv.md) — Forskrift om omsetning og dokumentasjon av heiser og sikkerhetskomponenter for heiser
 - [forskrift-om-omsetning-og-innførsel-av-produkter-med-lystgass](forskrift-om-omsetning-og-innførsel-av-produkter-med-lystgass.md) — Forskrift om omsetning og innførsel av produkter med lystgass
 - [forskrift-om-omsetning-og-midlertidig-hold-av-dyr](forskrift-om-omsetning-og-midlertidig-hold-av-dyr.md) — Forskrift om omsetning og midlertidig hold av dyr
@@ -3061,7 +3062,6 @@ _5134 current documents_
 - [forskrift-om-organisasjon-oppgaver-og-saksbehandling-for-diskrimineringsnemnda](forskrift-om-organisasjon-oppgaver-og-saksbehandling-for-diskrimineringsnemnda.md) — Forskrift om organisasjon, oppgaver og saksbehandling for Diskrimineringsnemnda
 - [forskrift-om-organisering-av-helseforskning](forskrift-om-organisering-av-helseforskning.md) — Forskrift om organisering av medisinsk og helsefaglig forskning
 - [forskrift-om-organisering-ledelse-og-medvirkning](forskrift-om-organisering-ledelse-og-medvirkning.md) — Forskrift om organisering, ledelse og medvirkning
-- [forskrift-om-organisering-og-drift-av-lakseelver](forskrift-om-organisering-og-drift-av-lakseelver.md) — Forskrift om pliktig organisering og drift av vassdrag med anadrome laksefisk
 - [forskrift-om-organisering-og-drift-av-vassdrag](forskrift-om-organisering-og-drift-av-vassdrag.md) — Forskrift om gjennomføring av flertallsvedtak vedrørende organisering og drift av vassdrag etter lov om laksefisk og innlandsfisk § 25.
 - [forskrift-om-ossian-sars-naturreservat](forskrift-om-ossian-sars-naturreservat.md) — Forskrift om fredning av Ossian Sars naturreservat
 - [forskrift-om-otp-for-fiskere](forskrift-om-otp-for-fiskere.md) — Forskrift om behandling av godtgjørelse til fiskere i forhold til lov om obligatorisk tjenestepensjon.
@@ -3176,6 +3176,7 @@ _5134 current documents_
 - [forskrift-om-plikt-til-å-gi-opplysninger-om-drift-av-fiskefartøy-mv](forskrift-om-plikt-til-å-gi-opplysninger-om-drift-av-fiskefartøy-mv.md) — Forskrift om plikt til å gi opplysninger om drift av fiske- og fangstfartøy
 - [forskrift-om-plikt-til-å-lytte-på-radio-mv](forskrift-om-plikt-til-å-lytte-på-radio-mv.md) — Forskrift om plikt for fiske- og fangstfartøy til å lytte på radio (kanal 16) og besvare anrop
 - [forskrift-om-pliktig-innmelding-av-grunnundersøkelser-og-naturfareutredninger](forskrift-om-pliktig-innmelding-av-grunnundersøkelser-og-naturfareutredninger.md) — Forskrift om pliktig innmelding av grunnundersøkelser og naturfareutredninger
+- [forskrift-om-pliktig-organisering-og-drift-av-vassdrag-med-anadrome-laksefisk](forskrift-om-pliktig-organisering-og-drift-av-vassdrag-med-anadrome-laksefisk.md) — Forskrift om pliktig organisering og drift av vassdrag med anadrome laksefisk
 - [forskrift-om-pliktmessig-avhold-for-helsepersonell](forskrift-om-pliktmessig-avhold-for-helsepersonell.md) — Forskrift om pliktmessig avhold for helsepersonell
 - [forskrift-om-politiattest-etter-barnevernsloven](forskrift-om-politiattest-etter-barnevernsloven.md) — Forskrift om politiattest etter barnevernsloven
 - [forskrift-om-politiattest-i-barnehager](forskrift-om-politiattest-i-barnehager.md) — Forskrift om politiattest i barnehager
@@ -3394,7 +3395,6 @@ _5134 current documents_
 - [forskrift-om-risikoanalyse-flyttb-innr](forskrift-om-risikoanalyse-flyttb-innr.md) — Forskrift om risikoanalyse for flyttbare innretninger
 - [forskrift-om-risikostyring-og-internkontroll](forskrift-om-risikostyring-og-internkontroll.md) — Forskrift om risikostyring og internkontroll
 - [forskrift-om-rovdyravvisende-gjerde](forskrift-om-rovdyravvisende-gjerde.md) — Forskrift om rovdyravvisende gjerde
-- [forskrift-om-rovvilterstatning-for-husdyr](forskrift-om-rovvilterstatning-for-husdyr.md) — Forskrift om erstatning når husdyr blir drept eller skadet av rovvilt
 - [forskrift-om-rådgivning-i-potetsektoren](forskrift-om-rådgivning-i-potetsektoren.md) — Forskrift om tilskudd til produsentretta rådgiving i potetsektoren
 - [forskrift-om-rød-skogfrue-som-prioritert-art](forskrift-om-rød-skogfrue-som-prioritert-art.md) — Forskrift om rød skogfrue (Cephalanthera rubra) som prioritert art
 - [forskrift-om-saksbehandling-i-odelssaker](forskrift-om-saksbehandling-i-odelssaker.md) — Forskrift om saksbehandling i saker om odelsfrigjering etter odelslova § 30 og § 32
@@ -3427,7 +3427,7 @@ _5134 current documents_
 - [forskrift-om-samordning-pensjons-og-trygdeytelser-ved-afp](forskrift-om-samordning-pensjons-og-trygdeytelser-ved-afp.md) — Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år
 - [forskrift-om-samordningsfradrag](forskrift-om-samordningsfradrag.md) — Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner
 - [forskrift-om-samordningsgaranti-ved-innføring-av-etterlattereformen-i-folketrygden-fra-1-januar-2024](forskrift-om-samordningsgaranti-ved-innføring-av-etterlattereformen-i-folketrygden-fra-1-januar-2024.md) — Forskrift om samordningsgaranti ved innføring av etterlattereformen i folketrygden fra 1. januar 2024
-- [forskrift-om-samvirke-mellom-gml-og-ny-plbl](forskrift-om-samvirke-mellom-gml-og-ny-plbl.md) — Forskrift om samvirke mellom bestemmelsen i plan- og bygningsloven 14. juni 1985 nr. 77 og bestemmelsene i plan- og bygningsloven 27. juni 2008 nr. 71
+- [forskrift-om-samvirke-mellom-bestemmelsen-i-plan-og-bygningsloven-14-juni-1985-nr-77-og-bestemmelsene-i-plan-og-bygningsloven-27-juni-2008-nr-71](forskrift-om-samvirke-mellom-bestemmelsen-i-plan-og-bygningsloven-14-juni-1985-nr-77-og-bestemmelsene-i-plan-og-bygningsloven-27-juni-2008-nr-71.md) — Forskrift om samvirke mellom bestemmelsen i plan- og bygningsloven 14. juni 1985 nr. 77 og bestemmelsene i plan- og bygningsloven 27. juni 2008 nr. 71
 - [forskrift-om-samvær-med-tilsyn-etter-barnelova](forskrift-om-samvær-med-tilsyn-etter-barnelova.md) — Forskrift om samvær med tilsyn etter barnelova
 - [forskrift-om-sanksjoner-i-lys-av-situasjonen-i-haiti](forskrift-om-sanksjoner-i-lys-av-situasjonen-i-haiti.md) — Forskrift om sanksjoner i lys av situasjonen i Haiti
 - [forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om sanksjoner i lys av situasjonen i Somalia
@@ -3570,7 +3570,6 @@ _5134 current documents_
 - [forskrift-om-stopp-i-fangst-av-vågehval-i-2026](forskrift-om-stopp-i-fangst-av-vågehval-i-2026.md) — Forskrift om stopp i fangst av vågehval i 2026
 - [forskrift-om-stopp-i-fisket-etter-blåkveite-nord-for-62-n-i-2026](forskrift-om-stopp-i-fisket-etter-blåkveite-nord-for-62-n-i-2026.md) — Forskrift om stopp i fisket etter blåkveite nord for 62°N i 2026
 - [forskrift-om-stopp-i-fisket-etter-havbrisling](forskrift-om-stopp-i-fisket-etter-havbrisling.md) — Forskrift om stopp i fisket etter havbrisling
-- [forskrift-om-store-helikopterplasser](forskrift-om-store-helikopterplasser.md) — Forskrift om utforming av store helikopterplasser (BSL E 3-5).
 - [forskrift-om-straffegjennomføring](forskrift-om-straffegjennomføring.md) — Forskrift om straffegjennomføring
 - [forskrift-om-straffesaker-ved-frontex-operasjoner](forskrift-om-straffesaker-ved-frontex-operasjoner.md) — Forskrift om behandling av straffesaker når norske skip deltar i en Frontex-operasjon
 - [forskrift-om-strukturkvoteordning-mv-havfiske](forskrift-om-strukturkvoteordning-mv-havfiske.md) — Forskrift om strukturkvoteordning mv. for havfiskeflåten
@@ -3685,6 +3684,7 @@ _5134 current documents_
 - [forskrift-om-tilfluktsrom](forskrift-om-tilfluktsrom.md) — Forskrift om tilfluktsrom
 - [forskrift-om-tilfluktsrom-ved-bedrifter-m-v](forskrift-om-tilfluktsrom-ved-bedrifter-m-v.md) — Forskrifter om tilfluktsrom ved industrivernpliktige bedrifter og virksomheter.
 - [forskrift-om-tilgang-for-innkrevingsmyndigheten-til-opplysninger-fra-arbeids-og-velferdsetaten](forskrift-om-tilgang-for-innkrevingsmyndigheten-til-opplysninger-fra-arbeids-og-velferdsetaten.md) — Forskrift om tilgang for Innkrevingsmyndigheten til opplysninger fra Arbeids- og velferdsetaten
+- [forskrift-om-tilgang-til-boligannonsering-på-internett](forskrift-om-tilgang-til-boligannonsering-på-internett.md) — Forskrift om tilgang til boligannonsering på Internett
 - [forskrift-om-tilgang-til-nødvendige-opplysninger-i-forbindelse-med-smitteoppsporing](forskrift-om-tilgang-til-nødvendige-opplysninger-i-forbindelse-med-smitteoppsporing.md) — Forskrift om tilgang til nødvendige opplysninger i forbindelse med smitteoppsporing
 - [forskrift-om-tilgjengeliggjøring-av-reintall-i-reindriftsnæringen](forskrift-om-tilgjengeliggjøring-av-reintall-i-reindriftsnæringen.md) — Forskrift om tilgjengeliggjøring av reintall i reindriftsnæringen
 - [forskrift-om-tillatelse-til-bruk-av-beltebil](forskrift-om-tillatelse-til-bruk-av-beltebil.md) — Forskrift om tillatelse til bruk av beltebil.
@@ -3999,6 +3999,7 @@ _5134 current documents_
 - [forskrift-om-utforming-av-sjøflyplasser](forskrift-om-utforming-av-sjøflyplasser.md) — Forskrift om utforming av sjøflyplasser (BSL E 3-4).
 - [forskrift-om-utforming-av-små-flyplasser](forskrift-om-utforming-av-små-flyplasser.md) — Forskrift om utforming av små flyplasser (BSL E 3-3).
 - [forskrift-om-utforming-av-store-flyplasser](forskrift-om-utforming-av-store-flyplasser.md) — Forskrift om utforming av store flyplasser (BSL E 3-2)
+- [forskrift-om-utforming-av-store-helikopterplasser](forskrift-om-utforming-av-store-helikopterplasser.md) — Forskrift om utforming av store helikopterplasser (BSL E 3-5).
 - [forskrift-om-utfyllende-regler-til-det-forenklede-solvenskapitalkravet-for-pensjonskasser](forskrift-om-utfyllende-regler-til-det-forenklede-solvenskapitalkravet-for-pensjonskasser.md) — Forskrift om utfyllende regler til det forenklede solvenskapitalkravet for pensjonskasser
 - [forskrift-om-utførelse-av-arbeid](forskrift-om-utførelse-av-arbeid.md) — Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid)
 - [forskrift-om-utførselsregulering-av-fisk-og-fiskevarer-fra-sportsfiske](forskrift-om-utførselsregulering-av-fisk-og-fiskevarer-fra-sportsfiske.md) — Forskrift om utførselsregulering av fisk og fiskevarer fra sportsfiske
@@ -4439,6 +4440,7 @@ _5134 current documents_
 - [lmr-forskriften](lmr-forskriften.md) — Forskrift om innsamling og behandling av helseopplysninger i Legemiddelregisteret (LMR-forskriften)
 - [lospliktforskriften](lospliktforskriften.md) — Forskrift om losplikt og bruk av farledsbevis (lospliktforskriften)
 - [lotmerkingsforskriften](lotmerkingsforskriften.md) — Forskrift om identifikasjonsmerking av næringsmiddelpartier.
+- [lua-forskriften](lua-forskriften.md) — Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek (LUA-forskriften)
 - [låneformidlingsforskriften](låneformidlingsforskriften.md) — Forskrift om låneformidling (låneformidlingsforskriften)
 - [mandat-for-forvaltningen-av-statens-fond-i-tromsø](mandat-for-forvaltningen-av-statens-fond-i-tromsø.md) — Mandat for forvaltningen av Statens fond i Tromsø
 - [mandat-for-forvaltningen-av-statens-obligasjonsfond](mandat-for-forvaltningen-av-statens-obligasjonsfond.md) — Mandat for forvaltningen av Statens obligasjonsfond

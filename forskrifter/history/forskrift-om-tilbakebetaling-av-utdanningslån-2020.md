@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilbakebetaling-av-utdanningslån-2020 — Change history
 
-_3 events; doc_id `sf-20191217-1872`._
+_4 events; doc_id `sf-20191217-1872`._
+
+## 2026-10-29 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-tilbakebetaling-av-utdanningslån-2020`
+Commit: `074a3d6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

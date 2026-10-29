@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vinforskriften — Change history
 
-_5 events; doc_id `sf-20130321-0370`._
+_6 events; doc_id `sf-20130321-0370`._
+
+## 2026-10-29 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): vinforskriften`
+Commit: `0566c34`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

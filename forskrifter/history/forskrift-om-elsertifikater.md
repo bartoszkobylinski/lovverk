@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-elsertifikater — Change history
 
-_3 events; doc_id `sf-20111216-1398`._
+_4 events; doc_id `sf-20111216-1398`._
+
+## 2026-10-29 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-elsertifikater`
+Commit: `12c0703`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
