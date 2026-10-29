@@ -4,18 +4,18 @@ slug: "forskrift-om-iverksetting-av-matrikkelen"
 type: "forskrift"
 ref_id: "forskrift/2007-02-09-151"
 title: "Forskrift om iverksetting av matrikkelen"
-short_title: "Forskrift om iverksetting av matrikkelen"
+short_title: null
 language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2007-02-09"
 last_change_in_force: "2009-02-27"
 last_updated: null
-xml_hash: "fd3a5dad9adccda837df2bc65ab58e1e9a6dc1acbc051329c361780a7c7ad2e8"
+xml_hash: "2e1dc202ae4f80aa40519ccd042b44d64ca27fc9f60f21d05e432fc79ee6e4a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
