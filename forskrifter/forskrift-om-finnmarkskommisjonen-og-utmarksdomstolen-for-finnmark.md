@@ -1,21 +1,21 @@
 ---
 id: "sf-20070316-0277"
-slug: "forskrift-om-finnmarkskomm-og-utmarksdomstolen"
+slug: "forskrift-om-finnmarkskommisjonen-og-utmarksdomstolen-for-finnmark"
 type: "forskrift"
 ref_id: "forskrift/2007-03-16-277"
 title: "Forskrift om Finnmarkskommisjonen og Utmarksdomstolen for Finnmark"
-short_title: "Forskrift om Finnmarkskomm. og Utmarksdomstolen"
+short_title: null
 language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2008-03-14"
 last_change_in_force: "2016-08-26"
 last_updated: null
-xml_hash: "3c371a409885da9ac6da833c818653e83dd2a21b79cdfc44f55f16225fa478ab"
+xml_hash: "37a0d94af000a90f46ebecf01f747e5ca2ae26c2315464839a38547b29cbd3d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
