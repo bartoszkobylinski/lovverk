@@ -1,21 +1,21 @@
 ---
 id: "sf-20080215-0153"
-slug: "forskrift-om-kirkegårder-i-longyearbyen-mv"
+slug: "forskrift-om-kirkegårder-i-longyearbyen-og-askespredning-på-svalbard"
 type: "forskrift"
 ref_id: "forskrift/2008-02-15-153"
 title: "Forskrift om kirkegårder i Longyearbyen og askespredning på Svalbard"
-short_title: "Forskrift om kirkegårder i Longyearbyen mv"
+short_title: null
 language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2008-02-15"
 last_change_in_force: "2021-07-01"
 last_updated: null
-xml_hash: "a31da537ef146942ef70f289bb971a4ba92fb8f5da3235c1d541833b5a0fd346"
+xml_hash: "ca64ca0bf64e2ce71645a4f19029aa7864a404235a3c67956a21bd7c7206e432"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
