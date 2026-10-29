@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kultur- og likestillingsdepartementet"
 date_in_force: "2016-10-12"
-last_change_in_force: "2025-02-01"
+last_change_in_force: "2026-10-26"
 last_updated: null
-xml_hash: "0bc56ea5d4457baba48f8a6dd4b6e302a551dd2dd0bbf3323afae287e3e82f5f"
+xml_hash: "32c7d0755b2d1198e1cc3b5b40d4e9d26319aca4b120a02b35d3dccd03264ba4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,11 @@ Tilskudd etter denne bestemmelsen skal bidra til bredde og kvalitet i filmtilbud
 
 Det kan gis tilskudd til arrangementer og visning, herunder filmfestivaler og andre filmkulturelle tiltak, filmformidlingstiltak med kunstnerisk, kulturelt eller pedagogisk formål, samt tiltak som bidrar til å opprettholde en desentralisert kinostruktur.
 
-Filmfestivaler skal være åpne for publikum og tilby et sammensatt filmprogram av et vist omfang. Tilskudd til filmfestivaler skal ikke overstige 60 % av festivalens godkjente, samlede budsjett. Det kan gjøres unntak fra tilskuddstaket for festivaler som retter seg mot barn og unge.
+Filmfestivaler skal være åpne for publikum og tilby et sammensatt filmprogram av et visst omfang. Tilskudd til filmfestivaler skal ikke overstige 60 % av festivalens godkjente, samlede budsjett. Det kan gjøres unntak fra tilskuddstaket for festivaler som retter seg mot barn og unge.
+
+Filmfestivaler som mottar tilskudd i form av driftstilskudd, skal etterleve bærekraftstandarden fastsatt av Norsk filminstitutt.
+
+> Endret ved forskrift [23 okt 2026 nr. 2144](forskrift/2026-10-23-2144) (i kraft 26 okt 2026).
 
 ### § 5. Tilskudd til cinematek- og filmklubbvirksomhet
 
