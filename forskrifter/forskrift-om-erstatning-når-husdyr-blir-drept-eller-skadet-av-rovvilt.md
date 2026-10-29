@@ -1,21 +1,21 @@
 ---
 id: "sf-20140530-0677"
-slug: "forskrift-om-rovvilterstatning-for-husdyr"
+slug: "forskrift-om-erstatning-når-husdyr-blir-drept-eller-skadet-av-rovvilt"
 type: "forskrift"
 ref_id: "forskrift/2014-05-30-677"
 title: "Forskrift om erstatning når husdyr blir drept eller skadet av rovvilt"
-short_title: "Forskrift om rovvilterstatning for husdyr"
+short_title: null
 language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2014-06-01"
 last_change_in_force: "2021-09-10"
 last_updated: "2021-10-04"
-xml_hash: "949f5f22615e73d57a6a763d8955d079164777468fdadb61121b20b63bc1a4c4"
+xml_hash: "ab54b0522309eaa1efeb581245ee1ece64cd8d4fc2b1a6d9d27d6feb4d710b37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
