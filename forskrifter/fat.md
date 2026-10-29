@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-10-27"
 last_updated: "2023-01-03"
-xml_hash: "1576436b7a7b28e4795b18e9ab06a9e958e2f50a2c6688b85bafb52e0d418605"
+xml_hash: "f5e4c5a9a9b4693cafe91fb0caa13c22434df3ff79538b89b25813df27cd3e9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-29T10:43:20.895400+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -587,26 +587,11 @@ ex = deler av et varenummer.
 
 | *Kvote* | *Produktgruppe* | *Varenummer* |
 | --- | --- | --- |
-|  | Mathvete | ex 10.01.1900/.9909 |
-|  | Matrug | 10.02.9000 |
-|  | Fonio | 10.08.4000 |
-| Matkorn | Quinoa | 10.08.5000 |
-|  | Rughvete | 10.08.6000 |
-|  | Annet matkorn | ex 10.08.9000 |
-|  |  | 07.13.1001 |
-|  |  | ex 10.01.9909<br>ex 10.02.9000 |
-|  |  | ex 10.03.9000 |
-|  |  | ex 10.04.9000 |
-|  |  | 10.05.9010 |
-|  |  | 10.07.9010 |
-| Råvarer til kraftfôr | Fôrkorn og andre råvarer til kraftfôr | 11.03.1310 |
-|  |  |  |
-|  |  | 12.14.1000 |
-|  |  | 17.03.1010/.9010 |
-|  |  | 23.02.1010/ex.3000/ex.4090<br>23.03.2010<br>23.06.6012 |
-| Oljefrø | Soyabønner<br>Rapsfrø | 12.01.9010<br>12.05.1010/9010 |
+| Matkorn | Mathvete<br>Matrug<br>Fonio<br>Quinoa<br>Rughvete | ex 10.01.1900/.9909<br>10.02.9000<br>10.08.4000<br>10.08.5000<br>10.08.6000<br>ex 10.08.9000 |
+| Råvarer til kraftfôr | Fôrkorn og andre råvarer til kraftfôr | 07.13.1001<br>ex 10.01.9909<br>ex 10.02.9000<br>ex 10.03.9000<br>ex 10.04.9000<br>10.05.9010<br>10.07.<br>11.03.1310<br>12.14.1000<br>17.03.1010/.9010<br>23.02.1010/ex.3000/ex.4090<br>23.03.2010<br>23.06.6012<br>ex.23.09.9099 |
+| Oljefrø | Soyabønner Rapsfrø | 12.01.9010<br>12.05.1010/9010 |
 
-> Endret ved forskrifter [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [24 okt 2011 nr. 1042](forskrift/2011-10-24-1042), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [24 nov 2021 nr. 3277](forskrift/2021-11-24-3277), [14 des 2021 nr. 3552](forskrift/2021-12-14-3552) (i kraft 1 jan 2022), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022), [14 des 2022 nr. 2231](forskrift/2022-12-14-2231) (i kraft 1 jan 2023), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
+> Endret ved forskrifter [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [24 okt 2011 nr. 1042](forskrift/2011-10-24-1042), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [24 nov 2021 nr. 3277](forskrift/2021-11-24-3277), [14 des 2021 nr. 3552](forskrift/2021-12-14-3552) (i kraft 1 jan 2022), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022), [14 des 2022 nr. 2231](forskrift/2022-12-14-2231) (i kraft 1 jan 2023), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023), [27 okt 2026 nr. 2153](forskrift/2026-10-27-2153).
 
 ## Vedlegg 8. Landbruksvarer som kan innvilges generell nedsettelse av tollavgiftssats for etter § 25 første ledd:
 
