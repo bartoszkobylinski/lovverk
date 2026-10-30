@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-07-05"
-last_change_in_force: "2025-05-20"
+last_change_in_force: "2026-10-27"
 last_updated: null
-xml_hash: "c71f1dda042fcd98898d51d2c45c046f50badf96089fa9ea461de559e82dce24"
+xml_hash: "c6b5de12ab2b295497e03ee9a0ef825a5e2d13958adb986c5fdb7112dd481802"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-30T10:43:54.245474+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,13 +114,17 @@ Dersom Mattilsynet tilsynet oppdager at andre virksomheter omfattet av [økologi
 
 3.3*Yte bistand dersom Debio trenger dette for å kunne ta stilling til om en virksomhet kan godkjennes for økologisk produksjon mv.*
 
-Mattilsynet tilsynet skal etter anmodning fra Debio gi nødvendige opplysninger og yte nødvendig bistand dersom Debio trenger dette for å kunne ta stilling til om en virksomhet kan godkjennes for økologisk produksjon eller markedsføring mv. av økologiske produkter, jf. ovenfor i punkt 1.1.
+Når Mattilsynet tilsynet treffer enkeltvedtak overfor virksomheter som har økologigodkjenning, og vedtaket kan få betydning for virksomhetens økologigodkjenning, skal Mattilsynet tilsynet varsle Debio om vedtakets innhold. Varslingen skal gis når opplysningene er relevante for Debios oppfølging av virksomhetens økologigodkjenning. Det er kun nødvendige og relevante opplysninger som skal deles, og innenfor rammene av gjeldende regler om taushetsplikt og utlevering av opplysninger.
+
+Varsling er særlig aktuelt i saker som omfatter vedvarende eller alvorlige forhold som kan påvirke dyrevelferden, og som dermed kan ha betydning for forutsetningene for økologisk produksjon eller markedsføring av økologiske produkter.
+
+Mattilsynet tilsynet skal videre, etter anmodning fra Debio, gi nødvendige opplysninger og yte nødvendig bistand i den grad dette er påkrevd for at Debio skal kunne ta stilling til om en virksomhet kan godkjennes for økologisk produksjon eller for markedsføring mv. av økologiske produkter, jf. punkt 1.1.
 
 3.4*Rapportering av data fra region Stor-Oslo*
 
 Regionen skal oversende nødvendige data til hovedkontoret relatert unntak som er gitt i samsvar med [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 53 punkt 6 bokstav b, jf. vedlegg II del II punkt. 1.3.4.4, samt [økologiforskriften § 3](forskrift/2022-06-11-1171/§3) bokstav b, jf. forordning [(EU) 2020/464](eu/32020r0464) artikkel 25, punkt. 2 og 3, jf. vedlegg III, del II, innen 1. mai hvert år. Regionen skal også oversende en årlig oppsummering av rapportering som er gjennomført som følge av rapporteringskrav til Kommisjonen innen samme dato.
 
-> Endret ved vedtak [20 mai 2025 nr. 825](forskrift/2025-05-20-825).
+> Endret ved vedtak [20 mai 2025 nr. 825](forskrift/2025-05-20-825), [27 okt 2026 nr. 2164](forskrift/2026-10-27-2164).
 
 ## II
 
