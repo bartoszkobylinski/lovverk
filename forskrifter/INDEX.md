@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5136 current documents_
+_5138 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1344,6 +1344,7 @@ _5136 current documents_
 - [eu-gjødselvareforskriften](eu-gjødselvareforskriften.md) — Forskrift om EU-gjødselvarer (EU-gjødselvareforskriften)
 - [f-ranalyseforskriften](f-ranalyseforskriften.md) — Forskrift om fastsettelse av metoder for prøvetaking og analyse i forbindelse med offentlig kontroll av fôrvarer (fôranalyseforskriften)
 - [fagskoleforskriften](fagskoleforskriften.md) — Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)
+- [fagskoleforskriften-2026](fagskoleforskriften-2026.md) — Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)
 - [fagskoletilsynsforskriften](fagskoletilsynsforskriften.md) — Forskrift om akkreditering av og tilsyn med høyere yrkesfaglig utdanning (fagskoletilsynsforskriften)
 - [farledsforskriften](farledsforskriften.md) — Forskrift om farleder (farledsforskriften)
 - [farvannsavgiftsforskriften](farvannsavgiftsforskriften.md) — Forskrift om kommunenes beregning og innkreving av farvannsavgift (farvannsavgiftsforskriften)
@@ -1925,6 +1926,7 @@ _5136 current documents_
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
 - [forskrift-om-endring-i-forskrift-om-fartsskriververksteder](forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md) — Forskrift om endring i forskrift om fartsskriververksteder
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
+- [forskrift-om-endring-i-forskrift-om-fordeling-av-tollkvoter-for-landbruksvarer](forskrift-om-endring-i-forskrift-om-fordeling-av-tollkvoter-for-landbruksvarer.md) — Forskrift om endring i forskrift om fordeling av tollkvoter for landbruksvarer
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.

@@ -55983,13 +55983,13 @@
     },
     "sf-20081010-1132": {
       "doc_type": "forskrift",
-      "embedding_hash": "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250",
+      "embedding_hash": "af9ee80ed8cf01e90e4c5994705939a4691eff31030640a164301b9de7b7cfd0",
       "embedding_input_hash": "24adce1b5be205d7e332f6d39a8a6bdff95710641789f46c704c4dfd5cdf8468",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
       "markdown_path": "forskrifter/forskrift-om-fordeling-av-landbrukstollkvoter.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -55997,8 +55997,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fordeling av tollkvoter for landbruksvarer",
-      "total_changes": 3,
-      "xml_hash": "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250"
+      "total_changes": 4,
+      "xml_hash": "af9ee80ed8cf01e90e4c5994705939a4691eff31030640a164301b9de7b7cfd0"
     },
     "sf-20081015-1214": {
       "doc_type": "forskrift",
@@ -72209,13 +72209,13 @@
     },
     "sf-20150703-0870": {
       "doc_type": "forskrift",
-      "embedding_hash": "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd",
-      "embedding_input_hash": "f1f0a313063e75bc7bf4c95786545774848dce5a0dd3f05ca90eb8bc8b482d0d",
+      "embedding_hash": "3fe57c739d800af3615acbe05976073829ed6bf5bc76213ba08944d1cb721d24",
+      "embedding_input_hash": "407d197fd022fa6c255851b1550f6ab278e30a7995305609cf82a87a4645abc6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
       "markdown_path": "forskrifter/forskrift-om-visse-forurensende-stoffer-i-næringsmidler.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -72223,8 +72223,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om visse forurensende stoffer i næringsmidler",
-      "total_changes": 4,
-      "xml_hash": "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd"
+      "total_changes": 5,
+      "xml_hash": "3fe57c739d800af3615acbe05976073829ed6bf5bc76213ba08944d1cb721d24"
     },
     "sf-20150703-0871": {
       "doc_type": "forskrift",
@@ -83229,13 +83229,13 @@
     },
     "sf-20190711-1005": {
       "doc_type": "forskrift",
-      "embedding_hash": "b0ef425cc8fec85b98feed6e432eb2eb7114473b524aa1bdfbea92f5d37130d4",
-      "embedding_input_hash": "2bfc66cc97765124d1d9cf5e6b935d9cda8d5123b9c4af34c96a84e7ef31e51e",
+      "embedding_hash": "d09c43a764962f9d657496bf5244e85ae3f8fe0e6804ca871e8a109de1d4eeda",
+      "embedding_input_hash": "7fb7b064894fb3f776bed76d2445a51b4e97034c578e26a57d34c846cdb4214f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-01",
-      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
       "markdown_path": "forskrifter/fagskoleforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -83243,8 +83243,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)",
-      "total_changes": 4,
-      "xml_hash": "b0ef425cc8fec85b98feed6e432eb2eb7114473b524aa1bdfbea92f5d37130d4"
+      "total_changes": 5,
+      "xml_hash": "d09c43a764962f9d657496bf5244e85ae3f8fe0e6804ca871e8a109de1d4eeda"
     },
     "sf-20190712-1008": {
       "doc_type": "forskrift",
@@ -85699,13 +85699,13 @@
     },
     "sf-20200309-0720": {
       "doc_type": "forskrift",
-      "embedding_hash": "df38aff0c47410b3f8700451f3b0fad5c7b082cc6d07f7e34a91842b19d52f91",
-      "embedding_input_hash": "dd8f46211a53a7a91dd11f11dbdfab00a6021b79d5fccfc1779b73d4f69180b9",
+      "embedding_hash": "6561d1914a0fe1365b704962e0fcb20b01ceaa5dbabc343852ab2e16de75b2ed",
+      "embedding_input_hash": "9bb90dbcc602fe70454fd76559ed5e50a6b29706aee6e730ff63b4fcad20c8f7",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-25",
-      "last_seen": "2026-10-25T20:11:20.947123Z",
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
       "markdown_path": "forskrifter/forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -85713,8 +85713,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlig kontroll – animalsk produksjon, forordning (EU) 2019/624 og forordning (EU) 2019/627",
-      "total_changes": 6,
-      "xml_hash": "df38aff0c47410b3f8700451f3b0fad5c7b082cc6d07f7e34a91842b19d52f91"
+      "total_changes": 7,
+      "xml_hash": "6561d1914a0fe1365b704962e0fcb20b01ceaa5dbabc343852ab2e16de75b2ed"
     },
     "sf-20200312-0399": {
       "doc_type": "forskrift",
@@ -86098,13 +86098,13 @@
     },
     "sf-20200423-0853": {
       "doc_type": "forskrift",
-      "embedding_hash": "abb4ce54dd5b2decd5ac06c9716396b1b023f95a436b47b575927d78671d79fe",
+      "embedding_hash": "5f1fddb074d3628b839192bb05d19aed7dc8b8bdaf710fe730fd5d9f657698db",
       "embedding_input_hash": "bd928c6a505334c53db9cf2f10dd52369f59a0bd3f15c2dc08d5d2be1380fc69",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
       "markdown_path": "forskrifter/fagskoletilsynsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -86112,8 +86112,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om akkreditering av og tilsyn med høyere yrkesfaglig utdanning (fagskoletilsynsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "abb4ce54dd5b2decd5ac06c9716396b1b023f95a436b47b575927d78671d79fe"
+      "total_changes": 4,
+      "xml_hash": "5f1fddb074d3628b839192bb05d19aed7dc8b8bdaf710fe730fd5d9f657698db"
     },
     "sf-20200427-0876": {
       "doc_type": "forskrift",
@@ -94952,13 +94952,13 @@
     },
     "sf-20220705-1292": {
       "doc_type": "forskrift",
-      "embedding_hash": "c71f1dda042fcd98898d51d2c45c046f50badf96089fa9ea461de559e82dce24",
-      "embedding_input_hash": "44aeb5836c5fd8a3ef665e38e357957f2675d3cf376760a9c284e162792430aa",
+      "embedding_hash": "c6b5de12ab2b295497e03ee9a0ef825a5e2d13958adb986c5fdb7112dd481802",
+      "embedding_input_hash": "88b7920a5f301ff7e0a7c240c7ee27cd73717c14be68dd734470e72e597b045c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-30",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
       "markdown_path": "forskrifter/instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -94966,8 +94966,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Instruks til Debio og Mattilsynet tilsynet om utøvelse av delegert myndighet etter økologiforskriften",
-      "total_changes": 1,
-      "xml_hash": "c71f1dda042fcd98898d51d2c45c046f50badf96089fa9ea461de559e82dce24"
+      "total_changes": 2,
+      "xml_hash": "c6b5de12ab2b295497e03ee9a0ef825a5e2d13958adb986c5fdb7112dd481802"
     },
     "sf-20220705-1304": {
       "doc_type": "forskrift",
@@ -114387,6 +114387,25 @@
       "total_changes": 2,
       "xml_hash": "2a08c28dcdea610afea99eef53b5e90cf7a370b97764bf117f6b81b0595d1c2a"
     },
+    "sf-20261026-2162": {
+      "doc_type": "forskrift",
+      "embedding_hash": "060c623da941d04113a4032809a2faede70a2af65f8a25ff21bb3442aa04d35b",
+      "embedding_input_hash": "d9b9f599536d8f3af7a5b06b7fcc8eccb8b480a8886d2dada87f22de1dfc1742",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
+      "markdown_path": "forskrifter/fagskoleforskriften-2026.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "fagskoleforskriften-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)",
+      "total_changes": 1,
+      "xml_hash": "060c623da941d04113a4032809a2faede70a2af65f8a25ff21bb3442aa04d35b"
+    },
     "sf-20261027-2154": {
       "doc_type": "forskrift",
       "embedding_hash": "bf7278ae0dbbbab5bb5971b0d09213ac44aaeb1901d7bd33c129a5be0060af18",
@@ -114405,8 +114424,27 @@
       "title": "Forskrift om endring i forskrift om rapportering fra kommuner og fylkeskommuner mv.",
       "total_changes": 2,
       "xml_hash": "bf7278ae0dbbbab5bb5971b0d09213ac44aaeb1901d7bd33c129a5be0060af18"
+    },
+    "sf-20261027-2163": {
+      "doc_type": "forskrift",
+      "embedding_hash": "2cd5667a014c44ba1c2a0c03a0abb75511929cb498c19b899e40b3721a1adc54",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-10-30",
+      "last_seen": "2026-10-30T10:43:54.245474Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fordeling-av-tollkvoter-for-landbruksvarer.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-fordeling-av-tollkvoter-for-landbruksvarer",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om fordeling av tollkvoter for landbruksvarer",
+      "total_changes": 1,
+      "xml_hash": "2cd5667a014c44ba1c2a0c03a0abb75511929cb498c19b899e40b3721a1adc54"
     }
   },
-  "generated_at": "2026-10-29T10:43:20.895400Z",
+  "generated_at": "2026-10-30T10:43:54.245474Z",
   "version": 1
 }

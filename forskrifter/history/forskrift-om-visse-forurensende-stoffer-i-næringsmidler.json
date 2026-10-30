@@ -2,6 +2,16 @@
   "doc_id": "sf-20150703-0870",
   "events": [
     {
+      "commit": "cdf51bd",
+      "date": "2026-10-30",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 20,
+      "subject": "update(forskrift): forskrift-om-visse-forurensende-stoffer-i-næringsmidler",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

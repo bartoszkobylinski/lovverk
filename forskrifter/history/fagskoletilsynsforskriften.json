@@ -2,6 +2,16 @@
   "doc_id": "sf-20200423-0853",
   "events": [
     {
+      "commit": "86c97f2",
+      "date": "2026-10-30",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): fagskoletilsynsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-visse-forurensende-stoffer-i-næringsmidler — Change history
 
-_4 events; doc_id `sf-20150703-0870`._
+_5 events; doc_id `sf-20150703-0870`._
+
+## 2026-10-30 — Content updated
+Lines: +51 -20.
+Subject: `update(forskrift): forskrift-om-visse-forurensende-stoffer-i-næringsmidler`
+Commit: `cdf51bd`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -7.

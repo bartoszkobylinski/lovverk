@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261026-2162",
+  "events": [
+    {
+      "commit": "b480de8",
+      "date": "2026-10-30",
+      "from_path": null,
+      "lines_added": 606,
+      "lines_removed": 0,
+      "subject": "add(forskrift): fagskoleforskriften-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "fagskoleforskriften-2026"
+}

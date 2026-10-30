@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften — Change history
 
-_1 events; doc_id `sf-20220705-1292`._
+_2 events; doc_id `sf-20220705-1292`._
+
+## 2026-10-30 — Content updated
+Lines: +9 -5.
+Subject: `update(forskrift): instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften`
+Commit: `5f8dfda`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +101 -0.

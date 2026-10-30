@@ -2,6 +2,16 @@
   "doc_id": "sf-20220705-1292",
   "events": [
     {
+      "commit": "5f8dfda",
+      "date": "2026-10-30",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 5,
+      "subject": "update(forskrift): instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5244bff",
       "date": "2026-06-30",
       "from_path": null,
