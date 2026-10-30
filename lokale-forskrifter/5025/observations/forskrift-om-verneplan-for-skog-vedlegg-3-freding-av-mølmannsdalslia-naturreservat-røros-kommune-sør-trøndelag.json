@@ -8,9 +8,9 @@
       "content_hash": "7dc9c9e085aa954949eb18a7216bb4a639893311e8d702ce0c9261bfdb1f155a",
       "promotion": {
         "classifier": null,
-        "decided_at": "2026-10-19T14:59:14.052441Z",
+        "decided_at": "2026-10-29T09:07:12.231316Z",
         "decision": "approve",
-        "extractor_version": 8,
+        "extractor_version": 14,
         "identity": {
           "candidates": [
             "lf-20081219-1456"
@@ -27,7 +27,7 @@
         },
         "observations": [],
         "observations_through": "2026-10-19T14:59:14.052441Z",
-        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "reason": "Re-approval at extractor v14: text and content_hash unchanged; the only rendering change is vedtatt: \"2008-12-19\" and status: \"repealed\". Checked 2026-10-29 by text comparison (pypdf extraction, not a visual read): the received PDF text reads \"Fastsatt ved kgl.res. 19. desember 2008\", carries the OPPHEVET stamp and \"opphevet ved forskrift 1 des 2017 nr. 1897\" (same facts as the v12 re-approval of 2026-10-25). Owner confirmed the comparison.",
         "renderer_version": 1,
         "reviewed_by_role": "project owner",
         "reviewed_in_sample": true,

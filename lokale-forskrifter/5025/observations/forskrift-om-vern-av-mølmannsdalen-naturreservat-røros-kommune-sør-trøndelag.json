@@ -7,16 +7,10 @@
     {
       "content_hash": "42e95d37c42400ba6098db0affb85536b3238935f631c520fa3f16949e5a5cc2",
       "promotion": {
-        "approval_carried": {
-          "approved_at_extractor": 8,
-          "basis": "byte-identical rendering",
-          "carried_at": "2026-10-25T20:05:01.619490Z",
-          "carried_to_extractor": 12
-        },
         "classifier": null,
-        "decided_at": "2026-10-19T14:59:13.059750Z",
+        "decided_at": "2026-10-29T09:07:14.238895Z",
         "decision": "approve",
-        "extractor_version": 12,
+        "extractor_version": 14,
         "identity": {
           "candidates": [
             "lf-20171201-1897"
@@ -33,7 +27,7 @@
         },
         "observations": [],
         "observations_through": "2026-10-19T14:59:13.059750Z",
-        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-19).",
+        "reason": "Re-approval at extractor v14: text and content_hash unchanged; the only rendering change is vedtatt: \"2017-12-01\". Checked 2026-10-29 by text comparison (pypdf extraction, not a visual read): the received PDF text reads \"Fastsatt ved kgl.res. 1. desember 2017\". Owner confirmed the comparison.",
         "renderer_version": 1,
         "reviewed_by_role": "project owner",
         "reviewed_in_sample": true,
