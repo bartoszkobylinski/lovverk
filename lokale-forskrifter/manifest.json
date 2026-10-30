@@ -373,7 +373,7 @@
       "authority_type": "kommune",
       "content_hash": "7704726061ca02d60444899ccb7022fd9139a47f460d92c20a48e230d1db7a42",
       "doc_type": "lokal-forskrift",
-      "extractor_version": 12,
+      "extractor_version": 14,
       "last_seen": "2026-10-20T08:31:31Z",
       "markdown_path": "lokale-forskrifter/1848/forskrift-for-godtgjørelse-til-folkevalgte-steigen-kommune.md",
       "removed_reason": null,

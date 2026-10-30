@@ -7,16 +7,10 @@
     {
       "content_hash": "7704726061ca02d60444899ccb7022fd9139a47f460d92c20a48e230d1db7a42",
       "promotion": {
-        "approval_carried": {
-          "approved_at_extractor": 9,
-          "basis": "byte-identical rendering",
-          "carried_at": "2026-10-25T20:05:01.619490Z",
-          "carried_to_extractor": 12
-        },
         "classifier": null,
-        "decided_at": "2026-10-20T17:00:03.683264Z",
+        "decided_at": "2026-10-29T09:07:17.898551Z",
         "decision": "approve",
-        "extractor_version": 12,
+        "extractor_version": 14,
         "identity": {
           "candidates": [],
           "doc_id": "lk-1848-42f3dbaa2550",
@@ -31,7 +25,7 @@
         },
         "observations": [],
         "observations_through": "2026-10-20T17:00:03.683264Z",
-        "reason": "Enacted forskrift received under offentleglova; automated word-level comparison of the rendered text against the received document, every difference reviewed, text spot-checked (2026-10-20).",
+        "reason": "Re-approval at extractor v14: text and content_hash unchanged; the only rendering change is innsyn_saksnummer: \"2026/1347\". Checked 2026-10-29 by text comparison (pypdf extraction, not a visual read): the innsyn ledger record of 2026-10-27 for request 1848-20261020T001632Z carries saksnummer 2026/1347. Owner confirmed the comparison.",
         "renderer_version": 1,
         "reviewed_by_role": "project owner",
         "reviewed_in_sample": true,
