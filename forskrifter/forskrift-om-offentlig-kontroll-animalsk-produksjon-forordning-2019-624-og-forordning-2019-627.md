@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2020-04-07"
-last_change_in_force: "2026-05-04"
+last_change_in_force: "2026-10-26"
 last_updated: "2024-04-19"
-xml_hash: "df38aff0c47410b3f8700451f3b0fad5c7b082cc6d07f7e34a91842b19d52f91"
+xml_hash: "6561d1914a0fe1365b704962e0fcb20b01ceaa5dbabc343852ab2e16de75b2ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-10-30T10:43:54.245474+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,9 +36,9 @@ Ved konflikt mellom forordningenes bestemmelser og denne bestemmelse, går allti
 
 ### § 2. Gjennomføring av forordning (EU) 2019/627 om fastsettelse av ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet til konsum
 
-[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bk, [kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.2 nr. 134, [kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.2 nr. 53, [kapittel II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31k, [kapittel II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qk og [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164k (forordning [(EU) 2019/627](eu/32019r0627) som endret ved forordning [(EU) 2020/2108](eu/32020r2108), forordning [(EU) 2021/1709](eu/32021r1709), forordning [(EU) 2022/2503](eu/32022r2503), forordning [(EU) 2025/1447](eu/32025r1447) og forordning [(EU) 2025/2241](eu/32025r2241)) om fastsettelse av ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet til konsum gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bk, [kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.2 nr. 134, [kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.2 nr. 53, [kapittel II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31k, [kapittel II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qk og [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164k (forordning [(EU) 2019/627](eu/32019r0627) som endret ved forordning [(EU) 2020/2108](eu/32020r2108), forordning [(EU) 2021/1709](eu/32021r1709), forordning [(EU) 2022/2503](eu/32022r2503), forordning [(EU) 2025/1447](eu/32025r1447), forordning [(EU) 2025/2241](eu/32025r2241) og forordning [(EU) 2026/1406](eu/32026r1406)) om fastsettelse av ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet til konsum gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [29 des 2020 nr. 3190](forskrift/2020-12-29-3190) (i kraft 1 jan 2021), [2 mai 2022 nr. 847](forskrift/2022-05-02-847), [4 mars 2024 nr. 387](forskrift/2024-03-04-387), [23 mars 2026 nr. 452](forskrift/2026-03-23-452), [4 mai 2026 nr. 747](forskrift/2026-05-04-747).
+> Endret ved forskrifter [29 des 2020 nr. 3190](forskrift/2020-12-29-3190) (i kraft 1 jan 2021), [2 mai 2022 nr. 847](forskrift/2022-05-02-847), [4 mars 2024 nr. 387](forskrift/2024-03-04-387), [23 mars 2026 nr. 452](forskrift/2026-03-23-452), [4 mai 2026 nr. 747](forskrift/2026-05-04-747), [26 okt 2026 nr. 2155](forskrift/2026-10-26-2155).
 
 ### § 3. Gjennomføring av forordning (EU) 2019/624 om særlige regler for offentlig kontroll med produksjon av kjøtt og for produksjons- og gjenutleggingsområder for levende toskallede bløtdyr
 
@@ -112,9 +112,9 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 ### Konsolidert forordning [(EU) 2019/627](eu/32019r0627) om fastsettelse av ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet til konsum
 
-> Endret ved forskrifter [29 des 2020 nr. 3190](forskrift/2020-12-29-3190) (i kraft 1 jan 2021), [2 mai 2022 nr. 847](forskrift/2022-05-02-847), [4 mars 2024 nr. 387](forskrift/2024-03-04-387), [23 mars 2026 nr. 452](forskrift/2026-03-23-452), [4 mai 2026 nr. 747](forskrift/2026-05-04-747).
+> Endret ved forskrifter [29 des 2020 nr. 3190](forskrift/2020-12-29-3190) (i kraft 1 jan 2021), [2 mai 2022 nr. 847](forskrift/2022-05-02-847), [4 mars 2024 nr. 387](forskrift/2024-03-04-387), [23 mars 2026 nr. 452](forskrift/2026-03-23-452), [4 mai 2026 nr. 747](forskrift/2026-05-04-747), [26 okt 2026 nr. 2155](forskrift/2026-10-26-2155).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/627](eu/32019r0627) som endret ved forordning [(EU) 2020/2108](eu/32020r2108), forordning [(EU) 2021/1709](eu/32021r1709), forordning [(EU) 2022/2503](eu/32022r2503), forordning [(EU) 2025/1447](eu/32025r1447) og forordning [(EU) 2025/2241](eu/32025r2241) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1.
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/627](eu/32019r0627) som endret ved forordning [(EU) 2020/2108](eu/32020r2108), forordning [(EU) 2021/1709](eu/32021r1709), forordning [(EU) 2022/2503](eu/32022r2503), forordning [(EU) 2025/1447](eu/32025r1447), forordning [(EU) 2025/2241](eu/32025r2241) og forordning [(EU) 2026/1406](eu/32026r1406) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og II, protokoll 1.
 
 - ►**B** Kommisjonens forordning [(EU) 2019/627](eu/32019r0627) av 15. mars 2019
 - ►EØS tilpasning som følge av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) med de endringer som er gjennomført ved EØS-komiteens beslutning nr. [3/2020](eu/22020d0003). For [EØS-avtalens](lov/1992-11-27-109/eøsl) formål skal de nedenfor nevnte bestemmelser gjelde med følgende tilpasninger:
@@ -127,6 +127,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/627
 - ►**M3** Kommisjonens forordning [(EU) 2022/2503](eu/32022r2503) av 19. desember 2022
 - ►**M4** Kommisjonens forordning [(EU) 2025/1447](eu/32025r1447) av 18. juli 2025
 - ►**M5** Kommisjonens forordning [(EU) 2025/2241](eu/32025r2241) av 5. november 2025
+- ►**M6** Kommisjonens forordning [(EU) 2026/1406](eu/32026r1406) av 26. juni 2026
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2019/627](eu/32019r0627*)
 
@@ -1243,13 +1244,20 @@ Krav til klasse C-områder
 
 Krav til hygieneundersøkelser
 
-1\. Før vedkommende myndigheter klassifiserer et produksjons- eller gjenutleggingsområde skal de foreta en hygieneundersøkelse som omfatter
+►**M6**
+
+1\. Vedkommende myndigheter skal foreta en hygieneundersøkelse
+
+1. før de klassifiserer et nytt produksjons- eller gjenutleggingsområde som ennå ikke er klassifisert,
+2. dersom overvåkingsdata som er samlet inn i samsvar med artikkel 59, eller andre opplysninger, kan gi vedkommende myndigheter indikasjoner på vesentlige endringer i miljøforholdene i de allerede klassifiserte produksjons- og gjenutleggingsområdene, som kan ha betydelig og varig påvirkning på resultatene av den forrige hygieneundersøkelsen.
+
+Hygieneundersøkelsen skal omfatte ◄**M6**
 
 1. en oversikt over de kildene til forurensning fra mennesker eller dyr som det er sannsynlig vil kunne forurense produksjonsområdet,
 2. en undersøkelse av de mengdene av organiske forurensende stoffer som slippes ut til forskjellige årstider avhengig av de sesongbestemte svingningene i tettheten av mennesker og dyr i nedbørfeltet, nedbørmengder, spillvannsrensing osv.,
 3. bestemmelse av de karakteristiske trekkene ved de forurensende stoffenes sirkulasjon ved hjelp av strømmønstre, batymetri (topografi under vann) og tidevannssyklus i produksjonsområdet.
 
-2\. Vedkommende myndigheter skal foreta en hygieneundersøkelse som oppfyller kravene angitt i nr. 1 i alle klassifiserte produksjons- og gjenutleggingsområder, med mindre en slik undersøkelse er foretatt tidligere.
+2\. ►**M6** – – – ◄**M6**
 
 3\. I forbindelse med gjennomføringen av denne undersøkelsen kan vedkommende myndigheter bistås av andre offentlige organer eller driftsansvarlige for næringsmiddelforetak på vilkår som vedkommende myndigheter har fastsatt.
 
