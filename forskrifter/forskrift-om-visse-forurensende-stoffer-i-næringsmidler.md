@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-07-03"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-27"
 last_updated: "2023-01-31"
-xml_hash: "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd"
+xml_hash: "3fe57c739d800af3615acbe05976073829ed6bf5bc76213ba08944d1cb721d24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-30T10:43:54.245474+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,9 +46,11 @@ Forordning [(EU) 2023/915](eu/32023r0915) om grenseverdier for visse forurensend
 - forordning [(EU) 2024/1756](eu/32024r1756)
 - forordning [(EU) 2024/1808](eu/32024r1808)
 - forordning [(EU) 2024/1987](eu/32024r1987)
-- forordning [(EU) 2025/1891](eu/32025r1891).
+- forordning [(EU) 2025/1891](eu/32025r1891)
+- forordning [(EU) 2026/1825](eu/32026r1825)
+- forordning [(EU) 2026/1890](eu/32026r1890).
 
-> Endret ved forskrifter [2 mai 2016 nr. 469](forskrift/2016-05-02-469), [6 juni 2016 nr. 602](forskrift/2016-06-06-602), [11 juli 2016 nr. 912](forskrift/2016-07-11-912), [5 des 2016 nr. 1447](forskrift/2016-12-05-1447), [6 feb 2017 nr. 132](forskrift/2017-02-06-132), [10 juli 2017 nr. 1177](forskrift/2017-07-10-1177), [25 sep 2017 nr. 1525](forskrift/2017-09-25-1525), [9 juli 2018 nr. 1164](forskrift/2018-07-09-1164), [4 mai 2020 nr. 917](forskrift/2020-05-04-917), [4 mai 2020 nr. 918](forskrift/2020-05-04-918), [14 des 2020 nr. 2783](forskrift/2020-12-14-2783), [22 mars 2021 nr. 943](forskrift/2021-03-22-943), [22 mars 2021 nr. 942](forskrift/2021-03-22-942), [13 des 2021 nr. 3651](forskrift/2021-12-13-3651), [21 mars 2022 nr. 477](forskrift/2022-03-21-477), [2 mai 2022 nr. 823](forskrift/2022-05-02-823), [26 sep 2022 nr. 1645](forskrift/2022-09-26-1645), [28 april 2023 nr. 651](forskrift/2023-04-28-651), [25 sep 2023 nr. 1499](forskrift/2023-09-25-1499), [13 feb 2026 nr. 258](forskrift/2026-02-13-258).
+> Endret ved forskrifter [2 mai 2016 nr. 469](forskrift/2016-05-02-469), [6 juni 2016 nr. 602](forskrift/2016-06-06-602), [11 juli 2016 nr. 912](forskrift/2016-07-11-912), [5 des 2016 nr. 1447](forskrift/2016-12-05-1447), [6 feb 2017 nr. 132](forskrift/2017-02-06-132), [10 juli 2017 nr. 1177](forskrift/2017-07-10-1177), [25 sep 2017 nr. 1525](forskrift/2017-09-25-1525), [9 juli 2018 nr. 1164](forskrift/2018-07-09-1164), [4 mai 2020 nr. 917](forskrift/2020-05-04-917), [4 mai 2020 nr. 918](forskrift/2020-05-04-918), [14 des 2020 nr. 2783](forskrift/2020-12-14-2783), [22 mars 2021 nr. 943](forskrift/2021-03-22-943), [22 mars 2021 nr. 942](forskrift/2021-03-22-942), [13 des 2021 nr. 3651](forskrift/2021-12-13-3651), [21 mars 2022 nr. 477](forskrift/2022-03-21-477), [2 mai 2022 nr. 823](forskrift/2022-05-02-823), [26 sep 2022 nr. 1645](forskrift/2022-09-26-1645), [28 april 2023 nr. 651](forskrift/2023-04-28-651), [25 sep 2023 nr. 1499](forskrift/2023-09-25-1499), [13 feb 2026 nr. 258](forskrift/2026-02-13-258), [27 okt 2026 nr. 2165](forskrift/2026-10-27-2165).
 
 ## § 4. (Opphevet)
 
@@ -99,9 +101,9 @@ For å gjøre det lett å finne frem til ordlyden i forordningen som blir gjenno
 
 ### Konsolidert forordning [(EU) 2023/915](eu/32023r0915) om grenseverdier for visse forurensende stoffer i næringsmidler
 
-> Endret ved [forskrifter 2 mai 2016 nr. 469](forskrift/2016-05-02-469), [6 juni 2016 nr. 602](forskrift/2016-06-06-602), [11 juli 2016 nr. 912](forskrift/2016-07-11-912), [5 des 2016 nr. 1447](forskrift/2016-12-05-1447), [6 feb 2017 nr. 132](forskrift/2017-02-06-132), [10 juli 2017 nr. 1177](forskrift/2017-07-10-1177), [25 sep 2017 nr. 1525](forskrift/2017-09-25-1525), [9 juli 2018 nr. 1164](forskrift/2018-07-09-1164), [4 mai 2020 nr. 917](forskrift/2020-05-04-917), [4 mai 2020 nr. 918](forskrift/2020-05-04-918), [14 des 2020 nr. 2783](forskrift/2020-12-14-2783), [22 mars 2021 nr. 943](forskrift/2021-03-22-943), [22 mars 2021 nr. 942](forskrift/2021-03-22-942), [13 des 2021 nr. 3651](forskrift/2021-12-13-3651), [21 mars 2022 nr. 477](forskrift/2022-03-21-477), [2 mai 2022 nr. 823](forskrift/2022-05-02-823), [26 sep 2022 nr. 1645](forskrift/2022-09-26-1645), [28 april 2023 nr. 651](forskrift/2023-04-28-651), [25 sep 2023 nr. 1499](forskrift/2023-09-25-1499), [13 feb 2026 nr. 258](forskrift/2026-02-13-258).
+> Endret ved [forskrifter 2 mai 2016 nr. 469](forskrift/2016-05-02-469), [6 juni 2016 nr. 602](forskrift/2016-06-06-602), [11 juli 2016 nr. 912](forskrift/2016-07-11-912), [5 des 2016 nr. 1447](forskrift/2016-12-05-1447), [6 feb 2017 nr. 132](forskrift/2017-02-06-132), [10 juli 2017 nr. 1177](forskrift/2017-07-10-1177), [25 sep 2017 nr. 1525](forskrift/2017-09-25-1525), [9 juli 2018 nr. 1164](forskrift/2018-07-09-1164), [4 mai 2020 nr. 917](forskrift/2020-05-04-917), [4 mai 2020 nr. 918](forskrift/2020-05-04-918), [14 des 2020 nr. 2783](forskrift/2020-12-14-2783), [22 mars 2021 nr. 943](forskrift/2021-03-22-943), [22 mars 2021 nr. 942](forskrift/2021-03-22-942), [13 des 2021 nr. 3651](forskrift/2021-12-13-3651), [21 mars 2022 nr. 477](forskrift/2022-03-21-477), [2 mai 2022 nr. 823](forskrift/2022-05-02-823), [26 sep 2022 nr. 1645](forskrift/2022-09-26-1645), [28 april 2023 nr. 651](forskrift/2023-04-28-651), [25 sep 2023 nr. 1499](forskrift/2023-09-25-1499), [13 feb 2026 nr. 258](forskrift/2026-02-13-258), [27 okt 2026 nr. 2165](forskrift/2026-10-27-2165).
 
-Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning [(EU) 2023/915](eu/32023r0915). Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EU) 2023/1510](eu/32023r1510), forordning [(EU) 2024/1002](eu/32024r1002), forordning [(EU) 2024/1003](eu/32024r1003), forordning [(EU) 2024/1022](eu/32024r1022), forordning [(EU) 2024/1038](eu/32024r1038), forordning [(EU) 2024/1756](eu/32024r1756), forordning [(EU) 2024/1808](eu/32024r1808), forordning [(EU) 2024/1987](eu/32024r1987) og forordning [(EU) 2025/1891](eu/32025r1891). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning [(EU) 2023/915](eu/32023r0915). Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EU) 2023/1510](eu/32023r1510), forordning [(EU) 2024/1002](eu/32024r1002), forordning [(EU) 2024/1003](eu/32024r1003), forordning [(EU) 2024/1022](eu/32024r1022), forordning [(EU) 2024/1038](eu/32024r1038), forordning [(EU) 2024/1756](eu/32024r1756), forordning [(EU) 2024/1808](eu/32024r1808), forordning [(EU) 2024/1987](eu/32024r1987), forordning [(EU) 2025/1891](eu/32025r1891), forordning [(EU) 2026/1825](eu/32026r1825) og forordning [(EU) 2026/1890](eu/32026r1890). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 54zzzz er innarbeidet nedenfor.
 
 ►**B** Forordning [(EU) 2023/915](eu/32023r0915) om grenseverdier for visse forurensende stoffer i næringsmidler
 
@@ -117,6 +119,8 @@ som endret ved
 - ►**M8** Forordning [(EU) 2024/1808](eu/32024r1808)
 - ►**M9** Forordning [(EU) 2024/1987](eu/32024r1987)
 - ►**M10** Forordning [(EU) 2025/1891](eu/32025r1891)
+- ►**M11** Forordning [(EU) 2026/1825](eu/32026r1825)
+- ►**MX** Forordning [(EU) 2026/1890](eu/32026r1890) (skal gjelde/må følges i EØS fra 1. januar 2028)
 - ►**EØS-tilpasning som følge av [EØS-avtalen vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII), nr. 54zzzz**
 
 ### KOMMISJONSFORORDNING [(EU) 2023/915](eu/32023r0915)
@@ -318,7 +322,7 @@ Henvisninger til den opphevede forordningen skal forstås som henvisninger til d
 
 ### Artikkel 10. Overgangsbestemmelser
 
-1\. ►**M10** Næringsmidler som lovlig er brakt i omsetning før datoene angitt i bokstav a)–q), kan fortsatt omsettes fram til datoen for minste holdbarhet eller siste forbruksdato: ◄**M10**
+1\. ►**MX** Næringsmidler som lovlig er brakt i omsetning før datoene angitt i bokstav a–s, kan fortsatt omsettes fram til datoen for minste holdbarhet eller siste forbruksdato: ◄ **MX**
 
 1. 19\. september 2021 når det gjelder grenseverdiene for tropanalkaloider i barnemat og foredlede kornbaserte næringsmidler for spedbarn og småbarn som inneholder mais eller avledede produkter av mais fastsatt i nr. 2.2.1 i vedlegg I.
 2. 1\. januar 2022 når det gjelder grenseverdiene for meldrøyesklerotier og meldrøyealkaloider fastsatt i nr. 1.8 i vedlegg I.
@@ -350,6 +354,18 @@ Henvisninger til den opphevede forordningen skal forstås som henvisninger til d
 1. 8\. oktober 2025 når det de gjelder grenseverdiene for uorganisk arsen fastsatt i nr. 3.4.5, 3.4.6, 3.4.7 og 3.4.8 i vedlegg I
 
 ◄**M10**
+
+►**M11**
+
+1. Den 1. januar 2027 med hensyn til grenseverdiene for summen av 3-monokloropropandiol (3-MCPD) og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, som er fastsatt i nr. 5.3.2 og 5.3.4 i vedlegg I, og grenseverdiene for glysidylfettsyreestere som er fastsatt i nr. 5.4.2 og 5.4.4. i vedlegg I.
+
+◄**M11**
+
+►**MX**
+
+1. 1\. januar 2028 når det gjelder grenseverdiene for summen av furan, 2-metylfuran og 3-metylfuran, uttrykt som furan fastsatt i nr. 5.6 i vedlegg I.
+
+◄ **MX**
 
 ►**EØS-tilpasning som følge av [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzz**
 
@@ -930,26 +946,41 @@ Grenseverdier for visse forurensende stoffer i næringsmidler[^1]
 | 5.2.1 | Hydrolysert vegetabilsk protein | 20 | Grenseverdien angis for flytende produkter som inneholder 40 % tørrstoff, tilsvarende en grenseverdi på 50 μg/kg i tørrstoffet. Verdien må justeres proporsjonalt etter produktenes tørrstoffinnhold. |
 | 5.2.2 | Soyasaus | 20 | Grenseverdien angis for flytende produkter som inneholder 40 % tørrstoff, tilsvarende en grenseverdi på 50 μg/kg i tørrstoffet. Verdien må justeres proporsjonalt etter produktenes tørrstoffinnhold. |
 
-| 5.3 | *Summen av 3-monoklorpropandiol (3-MCPD) og 3-MCPD-fettsyreestere uttrykt som 3-MCPD* | *Grenseverdi (μg/kg)* | *Merknader* |
+| ►**M11**<br>5.3 | *Summen av 3-monoklorpropandiol (3-MCPD) og 3-MCPD-fettsyreestere uttrykt som 3-MCPD* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
 |  |  |  | For summen av 3-monoklorpropandiol (3-MCPD) og 3-MCPD-fettsyreestere viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
-| 5.3.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, og som hører inn under følgende kategorier: |  | Unntatt jomfruolje av oliven[^7]. |
-| 5.3.1.1 | Oljer og fettstoffer fra kokos, mais, raps, solsikke, soyabønner og palmekjerner samt olivenoljer (bestående av raffinert olivenolje og jomfruolje av oliven) og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 1 250 | Unntatt jomfruolje av oliven[^7]. |
-| 5.3.1.2 | Andre vegetabilske oljer, fiskeoljer og oljer fra andre marine organismer og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 2 500 | Herunder oljer av olivenpressrester. |
-| 5.3.1.3 | Blandinger av oljer og fettstoffer fra produkter oppført i nr. 5.3.1.1 og 5.3.1.2 | – | Oljer og fettstoffer som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet. Summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen må derfor ikke overstige verdien beregnet i samsvar med artikkel 3 nr. 1 bokstav c). |
-|  |  |  | Dersom den kvantitative sammensetningen ikke er kjent for vedkommende myndighet og den driftsansvarlige for næringsmiddelforetaket, som ikke produserer blandingen, skal summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen uansett ikke overstige 2 500 μg/kg. |
-| 5.3.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 750 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen. Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet i nr. 5.3.1. |
-| ►**M3**<br>5.3.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.3.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som er nevnt i nr. 5.3.2 og bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, og som hører inn under følgende kategorier: |  | Unntatt jomfruolje av oliven[^7]. |
+| 5.3.1.1 | Oljer og fettstoffer fra kokos, mais, raps, solsikke, soyabønner og palmekjerner samt olivenoljer (bestående av raffinert olivenolje og jomfruolje av oliven)[^7] og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 1 250 | Unntatt jomfruolje av oliven[^7]. |
+| 5.3.1.2 | Andre vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer og blandinger av oljer og fettstoffer med oljer og fettstoffer bare fra denne kategorien | 2 500 | Herunder raffinert olivenolje[^7] og oljer av olivenpressrester[^7]. |
+| 5.3.1.3 | Blandinger av oljer og fettstoffer fra produkter oppført i nr. 5.3.1.1 og 5.3.1.2 | – | Oljer og fettstoffer som brukes som ingredienser i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet. Summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen må derfor ikke overstige verdien beregnet i samsvar med artikkel 3 nr. 1 bokstav c).<br>Dersom den kvantitative sammensetningen ikke er kjent for vedkommende myndighet og den driftsansvarlige for næringsmiddelforetaket, som ikke produserer blandingen, skal summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen uansett ikke overstige 2 500 μg/kg. |
+| 5.3.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 750<br>500 fra 1. januar 2027 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen. Oljene og fettstoffene som brukes som ingredienser i blandingen, skal overholde grenseverdien som er fastsatt for oljene og fettstoffene i nr. 5.3.1. |
+| 5.3.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.3.3.1 | som bringes i omsetning i pulverform | 80 |  |
-| 5.3.3.2 | som bringes i omsetning i flytende form | 12 | ◄**M3** |
+| 5.3.3.2 | som bringes i omsetning i flytende form | 12 |  |
+| 5.3.4. | Barnemat[^3]<br>Foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 50<br>fra 1. januar 2027. | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.3.5 | Sammensatte næringsmidler som inneholder mer enn 5 % fett og inneholder tilsatte vegetabilske oljer og fettstoffer og/eller fiskeoljer og/eller oljer fra andre marine organismer unntatt<br>– produkter oppført i nr. 5.3.3 og 5.3.4<br>– forstekt og stekt panert kjøtt og fisk |  | Grenseverdiene viser til fettinnholdet.<br>Fettinnholdet er det som er opplyst på etiketten, eller, dersom denne opplysningen mangler, det som er ekstrahert til analyse. |
+| 5.3.5.1. | Som kun inneholder oljene og fettstoffene som er oppført i nr. 5.3.1.1. | 1 250 μg/kg fett |  |
+| 5.3.5.2. | Som kun inneholder oljene og fettstoffene som er oppført i nr. 5.3.1.2. | 2 500 μg/kg fett |  |
+| 5.3.5.3. | Som inneholder blandinger av oljer og fettstoffer som er oppført i nr. 5.3.1.3. |  | Oljer og fettstoffer som brukes som ingredienser i blandingen, skal overholde grenseverdien som er fastsatt for oljene og fettstoffene. Summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen må derfor ikke overstige verdien beregnet i samsvar med artikkel 3 nr. 1 bokstav c).<br>Dersom den kvantitative sammensetningen ikke er kjent for vedkommende myndighet og den driftsansvarlige for næringsmiddelforetaket, som ikke produserer blandingen, skal summen av 3-MCPD og 3-MCPD-fettsyreestere, uttrykt som 3-MCPD, i blandingen uansett ikke overstige 2 500 μg/kg. ◄ **M11** |
 
-| 5.4 | *Glysidylfettsyreestere uttrykt som glysidol* | *Grenseverdi (μg/kg)* | *Merknader* |
+| ►**M11**<br>5.4 | *Glysidylfettsyreestere uttrykt som glysidol* | *Grenseverdi (μg/kg)* | *Merknader* |
 | --- | --- | --- | --- |
+|  |  | Grenseverdiene viser til summen av glysidylestere, 3-MBPD-fettsyreestere og 3-MIPD-fettsyreestere. | Dersom det brukes en direkte metode til å bestemme glysidylestere, viser grenseverdiene for summen av glysidylestere, 3-MBPD-fettsyreestere og 3-MIPD-fettsyreestere til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null. |
 | 5.4.1 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer som bringes i omsetning til sluttforbrukere eller til bruk som næringsmiddelingrediens, unntatt produkter oppført i nr. 5.4.2 | 1 000 | Unntatt jomfruolje av oliven[^7]. |
-| 5.4.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 500 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen.<br>Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljen og fettstoffet i nr. 5.4.1. |
+| 5.4.2 | Vegetabilske oljer og fettstoffer, fiskeoljer og oljer fra andre marine organismer beregnet på produksjon av barnemat og foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 500<br>250 fra 1. januar 2027 | Når produktet er en blanding av forskjellige oljer eller fettstoffer av samme eller forskjellig botanisk opprinnelse, gjelder grenseverdien for blandingen.<br>Oljene og fettstoffene som brukes som ingrediens i blandingen, skal overholde grenseverdien som er fastsatt for oljene og fettstoffene i nr. 5.4.1. |
 | 5.4.3 | Morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn[^3] og småbarnsnæring[^4] |  | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
 | 5.4.3.1 | som bringes i omsetning i pulverform | 50 |  |
 | 5.4.3.2 | som bringes i omsetning i flytende form | 6,0 |  |
+| 5.4.4 | Barnemat[^3]<br>Foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 25<br>Fra 1. januar 2027. | Grenseverdien gjelder for produktet slik det bringes i omsetning. |
+| 5.4.5 | Sammensatte næringsmidler som inneholder mer enn 5 % fett og inneholder tilsatte vegetabilske oljer og fettstoffer og/eller fiskeoljer og/eller oljer fra andre marine organismer unntatt produkter som er oppført i nr. 5.4.3. og 5.4.4 | 1 000 μg/kg fett | Grenseverdien viser til fettinnholdet.<br>Fettinnholdet er det som er opplyst på etiketten, eller, dersom denne opplysningen mangler, det som er ekstrahert til analyse.<br>◄ **M11** |
+
+| ►**MX**<br>5.6 | *Summen av furan, 2-metylfuran og 3-metylfuran, uttrykt som furan* | *Grenseverdi (μg/kg)* | *Merknader* |
+| --- | --- | --- | --- |
+|  |  |  | For summen av furan, 2-metylfuran og 3-metylfuran, uttrykt som furan, viser grenseverdiene til nedre konsentrasjoner som beregnes ved å anta at alle verdier som ligger under grensen for mengdebestemmelse, er null.<br>En faktor på 0,83 brukes på innholdet av 2-metylfuran og 3-metylfuran, og grenseverdien gjelder for summen av furan + 0,83 × 2-metylfuran + 0,83 × 3-metylfuran |
+| 5.6.1 | Foredlede kornbaserte næringsmidler til spedbarn og småbarn[^3] | 40 |  |
+| 5.6.2 | Barnemat[^3] |  |  |
+| 5.6.2.1 | Melkebasert og fruktbasert barnemat<br>Barnemat som består av en blanding av meieriprodukter og frukt | 30 | Grenseverdien gjelder for barnemat som inneholder minst 80 % meieriprodukter, frukt eller en blanding av meieriprodukter og frukt. |
+| 5.6.2.2 | Annen barnemat | 80 | ◄**MX** |
 
 | 6 | *Andre forurensende stoffer* |  |  |
 | --- | --- | --- | --- |
