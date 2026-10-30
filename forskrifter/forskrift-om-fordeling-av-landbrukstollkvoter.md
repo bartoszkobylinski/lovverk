@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-10-10"
 last_change_in_force: "2024-10-04"
 last_updated: "2013-10-15"
-xml_hash: "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250"
+xml_hash: "af9ee80ed8cf01e90e4c5994705939a4691eff31030640a164301b9de7b7cfd0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-30T10:43:54.245474+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -544,7 +544,7 @@ Særlige bestemmelser:
 
 11 Mengde fastsettes av Landbruksdirektoratet, jf. FAT § 22 tredje ledd.
 
-> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [1 juli 2011 nr. 753](forskrift/2011-07-01-753), [24 okt 2011 nr. 1041](forskrift/2011-10-24-1041), [15 nov 2011 nr. 1111](forskrift/2011-11-15-1111) (i kraft 1 jan 2012), [16 nov 2012 nr. 1100](forskrift/2012-11-16-1100) (i kraft 1 jan 2013), [18 des 2012 nr. 1299](forskrift/2012-12-18-1299) (i kraft 1 jan 2013), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [20 feb 2015 nr. 144](forskrift/2015-02-20-144), [4 juli 2018 nr. 1140](forskrift/2018-07-04-1140) (i kraft 1 okt 2018), [7 des 2020 nr. 2627](forskrift/2020-12-07-2627) (i kraft 1 jan 2021 jf. meddelelse [29 des 2020 nr. 3175](forskrift/2020-12-29-3175)), [24 nov 2021 nr. 3279](forskrift/2021-11-24-3279) (i kraft 1 des 2021, se endringsforskriften del II for overgangsregler), [14 des 2021 nr. 3534](forskrift/2021-12-14-3534) (i kraft 1 jan 2022), [22 juni 2022 nr. 1175](forskrift/2022-06-22-1175) (i kraft 1 juli 2022), [15 des 2022 nr. 2261](forskrift/2022-12-15-2261) (i kraft 1 jan 2023), [27 april 2023 nr. 625](forskrift/2023-04-27-625) (i kraft 1 mai 2023), [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [1 juli 2011 nr. 753](forskrift/2011-07-01-753), [24 okt 2011 nr. 1041](forskrift/2011-10-24-1041), [15 nov 2011 nr. 1111](forskrift/2011-11-15-1111) (i kraft 1 jan 2012), [16 nov 2012 nr. 1100](forskrift/2012-11-16-1100) (i kraft 1 jan 2013), [18 des 2012 nr. 1299](forskrift/2012-12-18-1299) (i kraft 1 jan 2013), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [20 feb 2015 nr. 144](forskrift/2015-02-20-144), [4 juli 2018 nr. 1140](forskrift/2018-07-04-1140) (i kraft 1 okt 2018), [7 des 2020 nr. 2627](forskrift/2020-12-07-2627) (i kraft 1 jan 2021 jf. meddelelse [29 des 2020 nr. 3175](forskrift/2020-12-29-3175)), [24 nov 2021 nr. 3279](forskrift/2021-11-24-3279) (i kraft 1 des 2021, se endringsforskriften del II for overgangsregler), [14 des 2021 nr. 3534](forskrift/2021-12-14-3534) (i kraft 1 jan 2022), [22 juni 2022 nr. 1175](forskrift/2022-06-22-1175) (i kraft 1 juli 2022), [15 des 2022 nr. 2261](forskrift/2022-12-15-2261) (i kraft 1 jan 2023), [27 april 2023 nr. 625](forskrift/2023-04-27-625) (i kraft 1 mai 2023), [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392). **Endres** ved forskrift [27 okt 2026 nr. 2163](forskrift/2026-10-27-2163) (i kraft 1 nov 2026).
 
 ## Vedlegg 2. (Opphevet)
 
