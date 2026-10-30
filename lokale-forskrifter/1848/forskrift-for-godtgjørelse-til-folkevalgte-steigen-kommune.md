@@ -14,7 +14,7 @@ version: 1
 content_hash: "7704726061ca02d60444899ccb7022fd9139a47f460d92c20a48e230d1db7a42"
 received_at: "2026-10-20T08:31:31Z"
 innsyn_request: "1848-20261020T001632Z"
-innsyn_saksnummer: null
+innsyn_saksnummer: "2026/1347"
 received_form: "authority_original"
 source_sha256: "238f9470034e3a6196ac316c49c9ecc284fba067c9e28002b84f1813fbdd0add"
 source_provider: "Steigen kommune (received under offentleglova)"
