@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-07-11"
 last_change_in_force: "2026-08-01"
 last_updated: "2019-09-26"
-xml_hash: "b0ef425cc8fec85b98feed6e432eb2eb7114473b524aa1bdfbea92f5d37130d4"
+xml_hash: "d09c43a764962f9d657496bf5244e85ae3f8fe0e6804ca871e8a109de1d4eeda"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-10-30T10:43:54.245474+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,6 +75,8 @@ I denne forskriften menes med:
 
 ## Kapittel 2. Opptakskrav
 
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
+
 ### § 7. Kvalifisering for opptak
 
 (1) Opptak til fagskoleutdanning krever enten relevant fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse, jf. Nasjonalt kvalifikasjonsrammeverk for livslang læring nivå 4, eller tilsvarende realkompetanse.
@@ -87,7 +89,7 @@ I denne forskriften menes med:
 
 (5) Styret selv kan i tillegg stille opptakskrav om fullført og bestått fagskoleutdanning til fagskoleutdanninger. Annen fagskoleutdanning kan kun settes som opptakskrav i tilfeller der de enkelte fagskoleutdanningene er selvstendige enheter som bygger på hverandre, og det totale løpet for utdanningene som bygger på hverandre ikke overskrider to år. I særlige tilfeller kan det totale utdanningsløpet være opptil tre år, jf. [§ 42](forskrift/2019-07-11-1005/§42).
 
-> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 7a. Dispensasjon
 
@@ -95,7 +97,7 @@ I denne forskriften menes med:
 
 (2) Fagskolen må vurdere søkerens kvalifikasjoner opp mot det faget søkeren ønsker å studere, og finne fram til egnede fremgangsmåter for slike vurderinger. Søkeren må ha nødvendige faglige forutsetninger for å gjennomføre den aktuelle utdanningen.
 
-> Tilføyd ved forskrift [28 juni 2022 nr. 1235](forskrift/2022-06-28-1235).
+> Tilføyd ved forskrift [28 juni 2022 nr. 1235](forskrift/2022-06-28-1235). **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 7b. Dispensasjon fra det generelle opptakskravet om fullført og bestått videregående opplæring
 
@@ -103,11 +105,13 @@ I denne forskriften menes med:
 
 (2) Fagskolen må vurdere kvalifikasjonene ut fra utdanningen søkeren ønsker å ta, og finne fram til egnede framgangsmåter for slike vurderinger.
 
-> Tilføyd ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+> Tilføyd ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 8. Unntak for kunstfaglige utdanninger
 
 Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninger anledning til å ta opp søkere som er 19 år eller eldre i opptaksåret på grunnlag av realkompetanse og opptaksprøve, jf. [fagskoleloven § 16](lov/2018-06-08-28/§16) andre ledd. Dette kan gjelde for inntil 30 prosent av tilbudene om studieplass. Søknad sendes til departementet eller et underliggende organ oppnevnt av departementet.
+
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 9. Utfyllende regler om språkkrav for søkere med utenlandsk utdanning
 
@@ -134,7 +138,7 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (7) Fagskolen fastsetter i forskrift om det stilles språkkrav i engelsk, og i så fall om søkere må dokumentere kunnskaper i engelsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
 
-> Endret ved forskrifter [15 des 2020 nr. 2912](forskrift/2020-12-15-2912) (i kraft 1 jan 2021), [9 feb 2021 nr. 375](forskrift/2021-02-09-375).
+> Endret ved forskrifter [15 des 2020 nr. 2912](forskrift/2020-12-15-2912) (i kraft 1 jan 2021), [9 feb 2021 nr. 375](forskrift/2021-02-09-375). **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 10. Opptak på visse vilkår ved sen fag- eller svenneprøve (betinget opptak)
 
@@ -147,6 +151,8 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 (4) Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.
 
 (5) Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig legge til rette for at studenten både kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 11. Opptak på visse vilkår (betinget opptak)
 
@@ -167,11 +173,15 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (6) Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig, legge til rette for at studenten både kan gå opp til utsatt eksamen i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
 
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
+
 ### § 12. Overgangsregler for opptak
 
 (1) Generell studiekompetanse etter tidligere ordninger reguleres i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 9-1](forskrift/2017-01-06-13/§9-1).
 
 (2) Omregningstabell for søkere med vitnemål fra norsk gymnas med bokstavkarakterer reguleres i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 9-2](forskrift/2017-01-06-13/§9-2).
+
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 13. Reservasjon av studieplass
 
@@ -179,7 +189,11 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (2) Søknad med dokumentasjon skal sendes til fagskolen innen tre uker fra tilbudet om studieplass ble mottatt.
 
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
+
 ## Kapittel 3. Rangering ved opptak
+
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 14. Rangering av søkere ved opptak
 
@@ -193,7 +207,7 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (5) Hvis det er venteliste etter at det ordinære opptaket er gjennomført, men fagskolen får ledige studieplasser etter studiestart, skal fagskolen tilby eventuelle ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan hver fagskole tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
 
-> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733). **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 15. Poengberegning ved rangering av søkere
 
@@ -206,9 +220,13 @@ Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninge
 
 (3) Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
 
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
+
 ### § 16. Karakterforbedringer
 
 Ved beregning av karakterpoeng skal karakterforbedringer erstatte tidligere karakter(er) i samme fag.
+
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ### § 17. Rangering av søkere som ikke kan poengberegnes
 
@@ -216,9 +234,13 @@ Ved beregning av karakterpoeng skal karakterforbedringer erstatte tidligere kara
 
 (2) I vurderingen skal fagskolen legge vekt på søkerens reelle kvalifikasjoner for studiet, herunder søkerens norskkunnskaper.
 
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
+
 ### § 18. Rangering på grunnlag av opptaksprøve
 
 Søkere til fagskoleutdanninger som har opptaksprøve som spesielt opptakskrav, skal rangeres på grunnlag av [§ 14](forskrift/2019-07-11-1005/§14)–§ 17 og opptaksprøven. Fagskolen fastsetter hvor stor vekt opptaksprøven skal tillegges.
+
+> **Oppheves** ved forskrift [26 okt 2026 nr. 2162](forskrift/2026-10-26-2162) (i kraft 1 jan 2027).
 
 ## Kapittel 4. Politiattest ved opptak til fagskoleutdanning
 
