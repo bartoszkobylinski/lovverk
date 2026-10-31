@@ -8,14 +8,14 @@ short_title: "Endringslov til integreringsloven"
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: null
+date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "9665c9ff96b445313a39ae7c15d9611b22e1f811b930c749b36e6881611202b1"
+xml_hash: "ba560b5f4c96eb26abfc530f10b426f8e3f15a7389e0d41793ea4cc864c9b4df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,4 +32,6 @@ I [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og 
 
 ## II
 
-Loven gjelder fra den tiden Kongen bestemmer, og gjelder for deltagere som får utarbeidet integreringsplan etter at lovendringene trer i kraft.
+Loven gjelder fra den tiden[^1] Kongen bestemmer, og gjelder for deltagere som får utarbeidet integreringsplan etter at lovendringene trer i kraft.
+
+1 Fra 1. januar 2027 iflg. [res. 30 okt 2026 nr. 2188](forskrift/2026-10-30-2188).
