@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-08-23"
-xml_hash: "802102d077a3df23ba690a810ef2c630d298844f3fa2e22defcba3463473b34f"
+xml_hash: "523cf6c91769f73cf310e226ba5df27a6d6368d5a36170f887266b75111eed25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -528,7 +528,7 @@ Det som er bestemt i paragrafen her, gjelder tilsvarende ved overføring av virk
 
 Bestemmelsene i paragrafen her gjelder også ved overføring av virksomhet mellom foretak etter loven her. Forrige punktum medfører ingen begrensninger i ansvaret etter [§ 7](lov/2001-06-15-93/§7).
 
-> Endret ved [lov 14 des 2012 nr. 86](lov/2012-12-14-86) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1210](forskrift/2012-12-14-1210)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 14 des 2012 nr. 86](lov/2012-12-14-86) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1210](forskrift/2012-12-14-1210)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ## Kapittel 15. Ikraftsettings- og overgangsbestemmelser. Endringer i andre lover
 
@@ -570,7 +570,7 @@ Fra 1 jan 2002 for resten av loven iflg. [res. 14 des 2001 nr. 1417](forskrift/2
 10. Spørsmål om rettigheter og plikter etter nr. 6 første og annet ledd, kan ikke bringes inn for de alminnelige domstoler før muligheten til å få saken avgjort av nemnd opprettet etter nr. 9 annet ledd, er nyttet.
 11. Klage over beslutninger truffet i medhold av denne loven, gir ikke oppsettende virkning for statens rettigheter og plikter etter nr. 6.
 
-> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 1 Iflg. [res. 15 juni 2001 nr. 669](forskrift/2001-06-15-669) trådte nr. 1, nr. 2, nr. 3, nr. 9, nr. 10 og nr. 11 ikr. 1 juli 2001. Iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417) trådte resten av paragrafen ikr. 1 jan 2002.
 
