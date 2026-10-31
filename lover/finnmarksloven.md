@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-11-25"
 last_change_in_force: "2026-07-01"
 last_updated: "2026-04-17"
-xml_hash: "c2c79bc1b1821a06742674892ccf8e02a6e0d61e9f7b30d62b6ba62a0bc23401"
+xml_hash: "77178e3fe19c1617973501cebc274446b6a4373fb0304c4b0d0a8c65921b39e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -451,7 +451,7 @@ Rettskraftige dommer fra utmarksdomstolen samt erklæringer og avtaler som er av
 
 For rettigheter som er fastlått i en rettskraftig dom fra utmarksdomstolen eller i en erklæring eller avtale i samsvar med Finnmarkskommisjonens konklusjoner, er offentligrettslige begrensninger i adgangen til å stifte eller overdra slike rettigheter ikke til hinder for at rettigheten tinglyses. Det betales ikke gebyr eller dokumentavgift ved tinglysingen.
 
-> Endret ved [lov 21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 46. Forholdet til annen lovgivning
 
