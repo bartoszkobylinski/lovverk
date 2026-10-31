@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2009-07-01"
-last_change_in_force: "2023-01-01"
+last_change_in_force: "2026-10-28"
 last_updated: null
-xml_hash: "a7ee4c1622bdcdffb519d7621a0f87d9944561ceaa840bcf14efb1ebfbb608e6"
+xml_hash: "fb01194c77312bf3e9e630727c03b12781e163049a1fd87a7b4dbe0644856404"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ eu_basis: []
 
 ## § 2. Omregningsfaktorer for varer omfattet av tollkvote for karbohydratråvarer til kraftfôr
 
-Omregningsfaktoren er satt i forhold til den fôrverdien varen har som kraftfôrråvare sammenlignet med bygg
+Omregningsfaktoren er satt i forhold til den fôrverdien varen har som kraftfôrråvare sammenlignet med bygg.
 
 | *Karbohydratråvare* | *Omregningsfaktor* |
 | --- | --- |
@@ -57,8 +57,9 @@ Omregningsfaktoren er satt i forhold til den fôrverdien varen har som kraftfôr
 | Erter | 123,5 |
 | Stivelseskonsentrat av faba-/hestebønner | 116,9 |
 | Palmekjerneekspeller | 91,6 |
+| Lettmelasserte roesnitter | 88,0 |
 
-> Endret ved [forskrifter 25 nov 2009 nr. 1401](forskrift/2009-11-25-1401), [19 aug 2011 nr. 857](forskrift/2011-08-19-857), [29 juni 2016 nr. 843](forskrift/2016-06-29-843) (i kraft 1 juli 2016), [15 aug 2017 nr. 1254](forskrift/2017-08-15-1254) (i kraft 1 sep 2017), [26 juni 2018 nr. 1078](forskrift/2018-06-26-1078) (i kraft 1 juli 2018), [28 jan 2020 nr. 126](forskrift/2020-01-28-126) (i kraft 1 feb 2020), [21 des 2022 nr. 2415](forskrift/2022-12-21-2415) (i kraft 1 jan 2023).
+> Endret ved [forskrifter 25 nov 2009 nr. 1401](forskrift/2009-11-25-1401), [19 aug 2011 nr. 857](forskrift/2011-08-19-857), [29 juni 2016 nr. 843](forskrift/2016-06-29-843) (i kraft 1 juli 2016), [15 aug 2017 nr. 1254](forskrift/2017-08-15-1254) (i kraft 1 sep 2017), [26 juni 2018 nr. 1078](forskrift/2018-06-26-1078) (i kraft 1 juli 2018), [28 jan 2020 nr. 126](forskrift/2020-01-28-126) (i kraft 1 feb 2020), [21 des 2022 nr. 2415](forskrift/2022-12-21-2415) (i kraft 1 jan 2023), [28 okt 2026 nr. 2178](forskrift/2026-10-28-2178).
 
 ## § 3. Omregningsfaktorer for varer omfattet av tollkvote for matkorn
 
