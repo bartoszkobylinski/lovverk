@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1964-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2022-09-27"
-xml_hash: "7ba3671112a82f3ab3c42a9a3253a0c0dbe3784f525564264649ed3b2d503ccd"
+xml_hash: "090d0ea3eb7482351ed72b0f9db152fe8781f4c6573dd26b1abcfbb79ae757dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -562,7 +562,7 @@ Når eigedomsrett eller annen rett er vunnen etter [§§ 50](lov/1963-06-21-23/�
 
 Omregistrering i grunnboka eller matrikkelen i samband med overføring av vegmyndighet skjer ved namneendring. Det skal ikkje betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift eller rettsgebyr etter § 21 i lov 17. desember 1982 nr. 86 om rettsgebyr ved overføringa.
 
-> Endra med [lov 19 juni 2009 nr. 109](lov/2009-06-19-109) (ikr. 1 jan 2010). **Vert endra** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft frå den tid Kongen bestemmer).
+> Endra med lov [19 juni 2009 nr. 109](lov/2009-06-19-109) (ikr. 1 jan 2010). **Vert endra** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ## Kap. VII. Private vegar.
 
