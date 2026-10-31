@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # integreringsloven — Change history
 
-_7 events; doc_id `nl-20201106-127`._
+_8 events; doc_id `nl-20201106-127`._
+
+## 2026-10-31 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): integreringsloven`
+Commit: `bd59500`.
 
 ## 2026-07-07 — Content updated
 Lines: +5 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # merverdiavgiftsloven-mval — Change history
 
-_6 events; doc_id `nl-20090619-058`._
+_7 events; doc_id `nl-20090619-058`._
+
+## 2026-10-31 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): merverdiavgiftsloven-mval`
+Commit: `c46e134`.
 
 ## 2026-07-01 — Content updated
 Lines: +22 -10.

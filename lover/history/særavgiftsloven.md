@@ -7,20 +7,25 @@ source_license: "NLOD 2.0"
 
 # særavgiftsloven — Change history
 
-_4 events; doc_id `nl-19330519-011`._
+_5 events; doc_id `nl-19330519-011`._
+
+## 2026-10-31 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): særavgiftsloven`
+Commit: `d24e9f4`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.
 Subject: `update(lov): særavgiftsloven`
 Commit: `a41f9bc`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19330519-011.md` → `"lover/s\303\246ravgiftsloven.md"`.
+Renamed: `lover/nl-19330519-011.md` → `lover/særavgiftsloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

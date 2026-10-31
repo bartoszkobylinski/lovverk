@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # skattebetalingsloven-sktbl — Change history
 
-_6 events; doc_id `nl-20050617-067`._
+_7 events; doc_id `nl-20050617-067`._
+
+## 2026-10-31 — Content updated
+Lines: +19 -19.
+Subject: `update(lov): skattebetalingsloven-sktbl`
+Commit: `dc07098`.
 
 ## 2026-07-01 — Content updated
 Lines: +6 -6.

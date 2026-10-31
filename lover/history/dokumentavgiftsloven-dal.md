@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dokumentavgiftsloven-dal — Change history
 
-_4 events; doc_id `nl-19751212-059`._
+_5 events; doc_id `nl-19751212-059`._
+
+## 2026-10-31 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): dokumentavgiftsloven-dal`
+Commit: `67c9739`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.

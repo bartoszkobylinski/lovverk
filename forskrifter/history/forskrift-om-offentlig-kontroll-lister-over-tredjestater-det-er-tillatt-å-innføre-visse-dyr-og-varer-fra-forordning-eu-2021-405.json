@@ -2,6 +2,16 @@
   "doc_id": "sf-20210826-2617",
   "events": [
     {
+      "commit": "2505070",
+      "date": "2026-10-31",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-offentlig-kontroll-lister-over-tredjestater-det-er-tillatt-å-innføre-visse-dyr-og-varer-fra-forordning-eu-2021-405",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4241830",
       "date": "2026-10-29",
       "from_path": null,

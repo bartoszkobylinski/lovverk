@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # valgforskriften — Change history
 
-_3 events; doc_id `sf-20241105-2662`._
+_4 events; doc_id `sf-20241105-2662`._
+
+## 2026-10-31 — Content updated
+Lines: +106 -15.
+Subject: `update(forskrift): valgforskriften`
+Commit: `40362b6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

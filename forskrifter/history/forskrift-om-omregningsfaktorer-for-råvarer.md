@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-omregningsfaktorer-for-råvarer — Change history
 
-_3 events; doc_id `sf-20090630-0954`._
+_4 events; doc_id `sf-20090630-0954`._
+
+## 2026-10-31 — Content updated
+Lines: +6 -5.
+Subject: `update(forskrift): forskrift-om-omregningsfaktorer-for-råvarer`
+Commit: `26fb03b`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

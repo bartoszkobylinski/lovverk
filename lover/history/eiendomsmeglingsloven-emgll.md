@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # eiendomsmeglingsloven-emgll — Change history
 
-_4 events; doc_id `nl-20070629-073`._
+_5 events; doc_id `nl-20070629-073`._
+
+## 2026-10-31 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): eiendomsmeglingsloven-emgll`
+Commit: `95bc58c`.
 
 ## 2026-06-23 — Content updated
 Lines: +3 -3.

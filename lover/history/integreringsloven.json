@@ -2,6 +2,16 @@
   "doc_id": "nl-20201106-127",
   "events": [
     {
+      "commit": "bd59500",
+      "date": "2026-10-31",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): integreringsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9d463e8",
       "date": "2026-07-07",
       "from_path": null,

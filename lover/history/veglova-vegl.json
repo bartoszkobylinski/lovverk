@@ -2,6 +2,16 @@
   "doc_id": "nl-19630621-023",
   "events": [
     {
+      "commit": "45fc38b",
+      "date": "2026-10-31",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): veglova-vegl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fbeefb9",
       "date": "2026-06-20",
       "from_path": null,

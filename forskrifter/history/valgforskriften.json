@@ -2,6 +2,16 @@
   "doc_id": "sf-20241105-2662",
   "events": [
     {
+      "commit": "40362b6",
+      "date": "2026-10-31",
+      "from_path": null,
+      "lines_added": 106,
+      "lines_removed": 15,
+      "subject": "update(forskrift): valgforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

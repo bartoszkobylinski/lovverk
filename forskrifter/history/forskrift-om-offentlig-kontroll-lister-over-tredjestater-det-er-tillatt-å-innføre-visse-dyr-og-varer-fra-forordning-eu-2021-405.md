@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-lister-over-tredjestater-det-er-tillatt-å-innføre-visse-dyr-og-varer-fra-forordning-eu-2021-405 — Change history
 
-_5 events; doc_id `sf-20210826-2617`._
+_6 events; doc_id `sf-20210826-2617`._
+
+## 2026-10-31 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-lister-over-tredjestater-det-er-tillatt-å-innføre-visse-dyr-og-varer-fra-forordning-eu-2021-405`
+Commit: `2505070`.
 
 ## 2026-10-29 — Content updated
 Lines: +8 -6.

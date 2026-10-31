@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-makspriser-for-drosjebilkjøring — Change history
 
-_3 events; doc_id `sf-20100930-1307`._
+_4 events; doc_id `sf-20100930-1307`._
+
+## 2026-10-31 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-makspriser-for-drosjebilkjøring`
+Commit: `38405a4`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

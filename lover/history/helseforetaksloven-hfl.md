@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # helseforetaksloven-hfl — Change history
 
-_5 events; doc_id `nl-20010615-093`._
+_6 events; doc_id `nl-20010615-093`._
+
+## 2026-10-31 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): helseforetaksloven-hfl`
+Commit: `20b9435`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

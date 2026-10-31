@@ -2,6 +2,16 @@
   "doc_id": "nl-19751212-059",
   "events": [
     {
+      "commit": "67c9739",
+      "date": "2026-10-31",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): dokumentavgiftsloven-dal",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "be7e8e3",
       "date": "2026-06-20",
       "from_path": null,

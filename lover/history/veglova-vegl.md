@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # veglova-vegl — Change history
 
-_4 events; doc_id `nl-19630621-023`._
+_5 events; doc_id `nl-19630621-023`._
+
+## 2026-10-31 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): veglova-vegl`
+Commit: `45fc38b`.
 
 ## 2026-06-20 — Content updated
 Lines: +3 -3.

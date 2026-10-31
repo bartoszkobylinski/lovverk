@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # skatteforvaltningsloven-sktfvl — Change history
 
-_5 events; doc_id `nl-20160527-014`._
+_6 events; doc_id `nl-20160527-014`._
+
+## 2026-10-31 — Content updated
+Lines: +10 -10.
+Subject: `update(lov): skatteforvaltningsloven-sktfvl`
+Commit: `5abcf21`.
 
 ## 2026-06-23 — Content updated
 Lines: +3 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # motorkjøretøy-og-båtavgiftsloven — Change history
 
-_4 events; doc_id `nl-19590619-002`._
+_5 events; doc_id `nl-19590619-002`._
+
+## 2026-10-31 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): motorkjøretøy-og-båtavgiftsloven`
+Commit: `e3de3af`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.

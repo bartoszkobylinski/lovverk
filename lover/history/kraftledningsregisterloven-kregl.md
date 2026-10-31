@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kraftledningsregisterloven-kregl — Change history
 
-_5 events; doc_id `nl-19270701-001`._
+_6 events; doc_id `nl-19270701-001`._
+
+## 2026-10-31 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): kraftledningsregisterloven-kregl`
+Commit: `2214e0f`.
 
 ## 2026-06-23 — Content updated
 Lines: +3 -5.

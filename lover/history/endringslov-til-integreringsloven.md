@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-integreringsloven — Change history
 
-_1 events; doc_id `nl-20260612-023`._
+_2 events; doc_id `nl-20260612-023`._
+
+## 2026-10-31 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): endringslov-til-integreringsloven`
+Commit: `43a4eb4`.
 
 ## 2026-06-13 — Added to corpus
 Lines: +37 -0.
