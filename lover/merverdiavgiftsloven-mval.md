@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "36cc14160838abc89e801cde6944f84be6e4b1432dd5e8b82e6c6b698380450d"
+xml_hash: "98cb78b3bc43d6e309cef4e726e29bc5251b5a9e5e04d9960f25b3ec5377f34f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -700,7 +700,7 @@ Det skal beregnes merverdiavgift med redusert sats ved omsetning, uttak og formi
 
 (2) Departementet kan gi forskrift om at fritaket i første ledd omfatter andre varer enn selve kjøretøyet og arbeid som utføres på kjøretøyet.
 
-> Endret ved lover [20 juni 2014 nr. 36](lov/2014-06-20-36), [13 des 2013 nr. 128](lov/2013-12-13-128) (ikr. 1 juli 2015 iflg. [res. 12 juni 2015 nr. 648](forskrift/2015-06-12-648)), [18 des 2015 nr. 118](lov/2015-12-18-118) (ikr. 1 mars 2016 iflg. [res. 19 feb 2016 nr. 164](forskrift/2016-02-19-164), tidligere § 6-6), [23 juni 2020 nr. 107](lov/2020-06-23-107), [20 des 2022 nr. 108](lov/2022-12-20-108) (i kraft 1 jan 2023, se endringsloven [del II](lov/2022-12-20-108/kapII) for overgangsregler). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [20 juni 2014 nr. 36](lov/2014-06-20-36), [13 des 2013 nr. 128](lov/2013-12-13-128) (ikr. 1 juli 2015 iflg. [res. 12 juni 2015 nr. 648](forskrift/2015-06-12-648)), [18 des 2015 nr. 118](lov/2015-12-18-118) (ikr. 1 mars 2016 iflg. [res. 19 feb 2016 nr. 164](forskrift/2016-02-19-164), tidligere § 6-6), [23 juni 2020 nr. 107](lov/2020-06-23-107), [20 des 2022 nr. 108](lov/2022-12-20-108) (i kraft 1 jan 2023, se endringsloven [del II](lov/2022-12-20-108/kapII) for overgangsregler). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 6-8. Kjøretøy som bare bruker elektrisitet til framdrift
 
