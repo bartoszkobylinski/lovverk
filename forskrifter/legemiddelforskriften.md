@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2010-01-12"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-28"
 last_updated: "2024-10-21"
-xml_hash: "ce4e13a8075befdfcca814c8d47ed17a5deae8f0dac371719f3da5c4aec167ca"
+xml_hash: "286baefa38d2cbca596e993965b3f3401ddca93c4f84dd4c08cc06a3e2636048"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1372,15 +1372,16 @@ Dersom EU-kommisjonen etter behandling i tvisteløsningsprosedyre for legemiddel
 
 ### § 9-1. Endringer av vilkårene i markedsføringstillatelsen
 
-Forordning [(EF) nr. 1234/2008](eu/32008r1234) om behandling av endringer av vilkårene i markedsføringstillatelser, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 15zi, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+Forordning [(EF) nr. 1234/2008](eu/32008r1234) om behandling av endringer av vilkårene i markedsføringstillatelser, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 15zi, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
 
 - forordning [(EU) nr. 712/2012](eu/32012r0712)
 - forordning [(EU) 2021/756](eu/32021r0756)
-- forordning [(EU) 2024/1701](eu/32024r1701).
+- forordning [(EU) 2024/1701](eu/32024r1701)
+- forordning [(EU) 2026/863](eu/32026r0863).
 
 Når vedtak om endring av vilkårene i markedsføringstillatelse som er gitt etter reglene i kapittel 6 er truffet av EU-kommisjonen i samsvar med forordningene nevnt i første ledd, treffer Direktoratet for medisinske produkter tilsvarende vedtak innen 30 dager.
 
-> Endret ved [forskrifter 27 mai 2013 nr. 535](forskrift/2013-05-27-535), [20 aug 2013 nr. 1037](forskrift/2013-08-20-1037), [4 juli 2022 nr. 1291](forskrift/2022-07-04-1291), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [21 jan 2025 nr. 158](forskrift/2025-01-21-158) (i kraft 8 feb 2025).
+> Endret ved [forskrifter 27 mai 2013 nr. 535](forskrift/2013-05-27-535), [20 aug 2013 nr. 1037](forskrift/2013-08-20-1037), [4 juli 2022 nr. 1291](forskrift/2022-07-04-1291), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [21 jan 2025 nr. 158](forskrift/2025-01-21-158) (i kraft 8 feb 2025), [28 okt 2026 nr. 2179](forskrift/2026-10-28-2179).
 
 ### § 9-2. Endring av merking eller pakningsvedlegg
 
