@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "6a85951d2b4c5a0139994e3c0222358d947ff108a5c6f0f3d33cd2978c3be8a8"
+xml_hash: "918c52d896eda4aefdb9d0366748f9143cecbcc85d3d6867bb4fd80789a9134a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ eu_basis: []
 2. tilleggsskatt fastsatt i medhold av [skatteforvaltningsloven](lov/2016-05-27-14), tilleggsavgift fastsatt i medhold av [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14) og tilleggsavgift fastsatt i medhold av [tollavgiftsloven](lov/2022-03-11-8),
 3. tvangsmulkt etter § 5-16, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 43](lov/1964-06-19-14/§43), [tollavgiftsloven § 12-1](lov/2022-03-11-8/§12-1), [vareførselsloven § 12-1](lov/2022-03-11-9/§12-1), [skatteforvaltningsloven § 14-1](lov/2016-05-27-14/§14-1) og [kassasystemlova § 7](lov/2015-06-19-58/§7).
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [12 des 2008 nr. 100](lov/2008-12-12-100), [19 juni 2009 nr. 55](lov/2009-06-19-55), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [25 juni 2010 nr. 40](lov/2010-06-25-40), [13 des 2013 nr. 122](lov/2013-12-13-122), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2017), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531), endring endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120)), [22 juni 2018 nr. 65](lov/2018-06-22-65) (ikr. 1 jan 2019 med virkning fra inntektsåret 2019), [23 juni 2020 nr. 105](lov/2020-06-23-105), [21 des 2020 nr. 166](lov/2020-12-21-166) (ikr. 1 juli 2021), [20 des 2022 nr. 107](lov/2022-12-20-107), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)), [12 jan 2024 nr. 5](lov/2024-01-12-5) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [12 des 2008 nr. 100](lov/2008-12-12-100), [19 juni 2009 nr. 55](lov/2009-06-19-55), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [25 juni 2010 nr. 40](lov/2010-06-25-40), [13 des 2013 nr. 122](lov/2013-12-13-122), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2017), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531), endring endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120)), [22 juni 2018 nr. 65](lov/2018-06-22-65) (ikr. 1 jan 2019 med virkning fra inntektsåret 2019), [23 juni 2020 nr. 105](lov/2020-06-23-105), [21 des 2020 nr. 166](lov/2020-12-21-166) (ikr. 1 juli 2021), [20 des 2022 nr. 107](lov/2022-12-20-107), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)), [12 jan 2024 nr. 5](lov/2024-01-12-5) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 1 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal loven gjelde fra 1 jan 2008 med unntak for følgende krav hvor loven skal gjelde fra 1 jan 2009: a. Krav som nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) annet ledd bokstav a til d, b. krav etter [ligningsloven](lov/1980-06-13-24) og c. krav som nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) tredje ledd, og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) annet ledd bokstav a-d.
 
@@ -114,7 +114,7 @@ Skatte- og avgiftskrav er tvangsgrunnlag for utlegg.
 
 (4) Klage over skattekontorets vedtak settes fram for skattekontoret.
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1371](forskrift/2007-12-07-1371)), [20 des 2018 nr. 106](lov/2018-12-20-106) (ikr. 1 juli 2019), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1371](forskrift/2007-12-07-1371)), [20 des 2018 nr. 106](lov/2018-12-20-106) (ikr. 1 juli 2019), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 3-4. Innhenting av opplysninger fra folkeregistermyndigheten
 
@@ -828,7 +828,7 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 ### Innenlands merverdiavgift og arveavgift
 
-> Overskrift **endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Overskrift **endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 10-30. Merverdiavgift
 
@@ -838,7 +838,7 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 (3) Departementet kan i forskrift gi regler om avvikende forfallstidspunkt for enkelte situasjoner.
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [26 apr 2013 nr. 16](lov/2013-04-26-16) (ikr. 1 juli 2013 iflg. [res. 26 apr 2013 nr. 413](forskrift/2013-04-26-413)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2016 nr. 114](lov/2016-12-20-114) (ikr. 1 jan 2017, endring endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120)), [27 mars 2020 nr. 13](lov/2020-03-27-13). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [26 apr 2013 nr. 16](lov/2013-04-26-16) (ikr. 1 juli 2013 iflg. [res. 26 apr 2013 nr. 413](forskrift/2013-04-26-413)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2016 nr. 114](lov/2016-12-20-114) (ikr. 1 jan 2017, endring endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120)), [27 mars 2020 nr. 13](lov/2020-03-27-13). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 10-31. Arveavgift
 
@@ -854,7 +854,7 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 (4) Arveavgift fastsatt etter reglene i [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver [§ 21](lov/1964-06-19-14/§21) kan, unntatt i tilfeller som nevnt i første ledd bokstav b, likevel ikke kreves betalt tidligere enn en måned etter at foreløpig eller endelig fastsetting er meddelt den avgiftspliktige.
 
-> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer, blir § 10-40).
+> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205), blir § 10-40).
 
 ### § 10-32. Avdragsordning ved arv og gave av næringsvirksomhet
 
@@ -870,11 +870,11 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 (6) Avgiftsmyndigheten kan kreve at den avgiftspliktige stiller sikkerhet for avgiften.
 
-> Tilføyd ved [lov 9 des 2005 nr. 115](lov/2005-12-09-115), endret ved lover [12 des 2008 nr. 100](lov/2008-12-12-100) (med virkning for arv og gave hvor rådigheten erverves av mottaker 1 jan 2009 eller senere), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved [lov 18 des 2020 nr. 149](lov/2020-12-18-149)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer, blir § 10-41).
+> Tilføyd ved [lov 9 des 2005 nr. 115](lov/2005-12-09-115), endret ved lover [12 des 2008 nr. 100](lov/2008-12-12-100) (med virkning for arv og gave hvor rådigheten erverves av mottaker 1 jan 2009 eller senere), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved [lov 18 des 2020 nr. 149](lov/2020-12-18-149)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205), blir § 10-41).
 
 ### Innenlands særavgifter, tollavgift og merverdiavgift og særavgifter som oppstår ved innførsel
 
-> Overskrift endret ved lov [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Overskrift endret ved lov [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 10-40. Innenlands særavgifter
 
@@ -889,7 +889,7 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 (3) Departementet kan i forskrift gi nærmere regler om forfallstidspunktene for krav som omhandlet i første ledd og avvikende forfallstidspunkt i enkelte situasjoner for krav som omhandlet i annet ledd.
 
-> Endret ved [lover 15 juni 2007 nr. 26](lov/2007-06-15-26), [12 des 2008 nr. 100](lov/2008-12-12-100), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [20 des 2016 nr. 114](lov/2016-12-20-114) (ikr. 1 jan 2017), [22 juni 2018 nr. 65](lov/2018-06-22-65), [17 april 2020 nr. 24](lov/2020-04-17-24). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 juni 2007 nr. 26](lov/2007-06-15-26), [12 des 2008 nr. 100](lov/2008-12-12-100), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [20 des 2016 nr. 114](lov/2016-12-20-114) (ikr. 1 jan 2017), [22 juni 2018 nr. 65](lov/2018-06-22-65), [17 april 2020 nr. 24](lov/2020-04-17-24). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 10-41. Tollavgift, merverdiavgift og særavgifter som oppstår ved innførsel
 
@@ -899,7 +899,7 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 (3) Skatte- og avgiftskrav belastet dagsoppgjørsordningen forfaller til betaling første virkedag etter frigjøring for prosedyren overgang til fri disponering. Skattekontoret kan fastsette en nærmere frist for når på forfallsdagen betaling må ha skjedd.
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575), endring endret ved lov [20 des 2022 nr. 110](lov/2022-12-20-110)), [16 juni 2023 nr. 48](lov/2023-06-16-48), [16 juni 2023 nr. 48](lov/2023-06-16-48) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575), endring endret ved lov [20 des 2022 nr. 110](lov/2022-12-20-110)), [16 juni 2023 nr. 48](lov/2023-06-16-48), [16 juni 2023 nr. 48](lov/2023-06-16-48) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### Andre krav
 
@@ -994,7 +994,7 @@ Ansvarskrav etter [kapittel 16](lov/2005-06-17-67/kap16), ansvarskrav etter [§ 
 
 (8) Er det foretatt innbetalinger til dekning av skatte- og avgiftskravet før det er truffet vedtak om endring mv. eller før melding om egenretting av tidligere levert melding er kommet fram til skatte- og avgiftsmyndighetene, beregnes renten fram til betalingstidspunktet.
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [14 des 2007 nr. 110](lov/2007-12-14-110), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2016 nr. 114](lov/2016-12-20-114) (ikr. 1 jan 2017), [21 juni 2017 nr. 81](lov/2017-06-21-81). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [14 des 2007 nr. 110](lov/2007-12-14-110), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2016 nr. 114](lov/2016-12-20-114) (ikr. 1 jan 2017), [21 juni 2017 nr. 81](lov/2017-06-21-81). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 11-3. Rentegodtgjørelse ved forsinket utbetaling
 
@@ -1158,7 +1158,7 @@ Ansvarskrav etter [kapittel 16](lov/2005-06-17-67/kap16), ansvarskrav etter [§ 
 
 (5) Departementet kan i forskrift gi nærmere regler om betaling av gebyr til dekning av utgifter påløpt ved avskiltingen, og om fremgangsmåten for stansning.
 
-> Endret ved lover [15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [21 des 2020 nr. 166](lov/2020-12-21-166), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [21 des 2020 nr. 166](lov/2020-12-21-166), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### Kreditt og sikkerhetsstillelse – merverdiavgift, særavgifter og tollavgift
 
@@ -1176,7 +1176,7 @@ Ansvarskrav etter [kapittel 16](lov/2005-06-17-67/kap16), ansvarskrav etter [§ 
 
 (5) Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring av denne paragrafen, herunder om vilkår for kreditt, opphør av kreditt og vilkår for sikkerhetsstillelse.
 
-> Endret ved lover [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)), [16 juni 2023 nr. 48](lov/2023-06-16-48) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)), [16 juni 2023 nr. 48](lov/2023-06-16-48) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 14-21. Sikkerhetsstillelse for særavgiftene
 
@@ -1186,11 +1186,11 @@ Ansvarskrav etter [kapittel 16](lov/2005-06-17-67/kap16), ansvarskrav etter [§ 
 
 (3) Departementet kan i forskrift sette nærmere vilkår for sikkerhetsstillelsen og angi hvilke momenter som skal vektlegges ved vurderingen av om sikkerhet skal kreves.
 
-> Endret ved [lov 19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 14-22. Sikkerhetsstillelse for særavgifter
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### Kapittel 15 (Opphevet)
 
@@ -1318,19 +1318,19 @@ Departementet kan i forskrift bestemme at den som har mottatt varen eller tjenes
 
 Ved overdragelse av motorkjøretøy og båter og tilhenger til motorkjøretøy og båter er erverver ansvarlig for siste termin av særavgifter etter [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøy og båter § 6](lov/1959-06-19-2/§6) første ledd, og for slike særavgifter påløpt etter utløpet av siste termin fram til overdragelsestidspunktet.
 
-> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 16-41. Ansvar for bruker av kjøretøy
 
 Den som ved urettmessig bruk av merket mineralolje eller merket biodiesel har disposisjonsrett over motorkjøretøy, er ansvarlig for avgift ved slik bruk, jf. [særavgiftsloven § 1](lov/1933-05-19-11/§1), når han har fordel av den urettmessige bruken.
 
-> Endret ved [lover 11 des 2009 nr. 124](lov/2009-12-11-124) (ikr. 1 jan 2010), [22 juni 2018 nr. 65](lov/2018-06-22-65), [21 des 2020 nr. 166](lov/2020-12-21-166). **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 11 des 2009 nr. 124](lov/2009-12-11-124) (ikr. 1 jan 2010), [22 juni 2018 nr. 65](lov/2018-06-22-65), [21 des 2020 nr. 166](lov/2020-12-21-166). **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### § 16-42. Ansvar ved avgiftsfri levering av varer og tjenester
 
 Departementet kan i forskrift bestemme at mottakeren av avgiftsfrie varer og tjenester som ellers er avgiftspliktige etter [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11), er ansvarlig for avgiften dersom vedkommende ikke oppfyller vilkårene for avgiftsfrihet. I slike tilfeller er også leverandøren ansvarlig for avgiften dersom han visste eller burde ha visst at vilkårene for avgiftsfritak ikke var oppfylt.
 
-> **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205)).
 
 ### Ansvar for inntektsskatt, trygdeavgift og merverdiavgift
 
