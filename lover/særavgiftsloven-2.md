@@ -8,14 +8,14 @@ short_title: "Særavgiftsloven"
 language: "no"
 ministry:
   - "Finansdepartementet"
-date_in_force: null
+date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "f60016c4245c39a9cc818875c38c7d1e56c5db0f0731860c3da885e0aa36cf30"
+xml_hash: "072c38026604f778829a4f87abb2cae2f5f921220e51f2f7ec76910d0b8b36bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-13T11:40:11.848780+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -828,11 +828,13 @@ Trafikkforsikringer er fritatt for avgift dersom kravet på forsikringspremie er
 
 ### § 26-1. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunkt Kongen bestemmer. Fra samme tidspunkt oppheves
+Loven trer i kraft fra det tidspunkt[^1] Kongen bestemmer. Fra samme tidspunkt oppheves
 
 1. [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11)
 2. [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter](lov/1959-06-19-2)
 3. [lov 12. desember 1975 nr. 59 om dokumentavgift](lov/1975-12-12-59).
+
+1 Fra 1. januar 2027 iflg. [res. 30 okt 2026 nr. 2205](forskrift/2026-10-30-2205).
 
 ### § 26-2. Endringer i andre lover
 
