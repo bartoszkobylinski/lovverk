@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-05-11"
 last_change_in_force: "2026-06-19"
 last_updated: null
-xml_hash: "c972c0a64e7558f92eefdba062652fc6e61955971718ac2c8c97ea195f1602cd"
+xml_hash: "d7a709732425ac37a522aa9c92cee86a310333760d6cf6280f659bae16b43c8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -556,7 +556,7 @@ En kontraktsmotpart kan ikke etter stadfestet rekonstruksjon påberope seg skyld
 
 ### § 57. Innstilling med tilbakelevering til skyldneren
 
-Dersom skyldneren overfor retten godtgjør å være solvent, jf. [konkursloven § 61](lov/1863-06-06/§61), skal retten avslutte rekonstruksjonsforhandlingen uten at konkurs åpnes.
+Dersom skyldneren overfor retten godtgjør å være solvent, jf. [konkursloven § 61](lov/1984-06-08-58/§61), skal retten avslutte rekonstruksjonsforhandlingen uten at konkurs åpnes.
 
 ### § 58. Innstilling av mislykket rekonstruksjonsforhandling og åpning av konkurs
 
@@ -568,7 +568,7 @@ Dersom skyldneren overfor retten godtgjør å være solvent, jf. [konkursloven �
 
 (2) Retten kan etter begjæring fra rekonstruksjonsutvalget innstille rekonstruksjonsforhandlingen og åpne konkurs i skyldnerens bo når retten finner at skyldneren grovt eller gjentatte ganger har handlet mot sine plikter etter [§§ 15](lov/2020-05-07-38/§15) og [20](lov/2020-05-07-38/§20).
 
-(3) Retten treffer sin avgjørelse ved kjennelse. Før kjennelse avsies skal retten forelegge spørsmålet for skyldneren med en kort frist for uttalelse. Ved anke over kjennelsen gjelder [konkursloven § 72](lov/1863-06-06/§72) annet ledd tilsvarende.
+(3) Retten treffer sin avgjørelse ved kjennelse. Før kjennelse avsies skal retten forelegge spørsmålet for skyldneren med en kort frist for uttalelse. Ved anke over kjennelsen gjelder [konkursloven § 72](lov/1984-06-08-58/§72) annet ledd tilsvarende.
 
 ### § 59. Tidspunktet for rekonstruksjonsforhandlingens avslutning
 
@@ -627,7 +627,7 @@ Når denne loven får anvendelse, skal omtale i andre lover og forskrifter av gj
 
 (1) En begjæring om åpning av gjeldsforhandling etter konkurslovens første del som er fremmet, men ikke avgjort av retten, når denne lov trer i kraft, skal anses som en begjæring om forhandling om rekonstruksjon etter denne loven.
 
-(2) Er gjeldsforhandling åpnet etter konkurslovens første del etter 1. mars 2020, kan saken behandles etter reglene i denne loven hvis skyldneren begjærer det og det ikke er tatt stilling til et forslag om frivillig gjeldsordning eller stemt over et forslag til tvangsakkord. Kunngjøring etter § 7 i loven her kan i så fall unnlates dersom åpningen av gjeldsforhandling allerede er kunngjort etter [konkursloven §§ 6](lov/1863-06-06/§6) eller [35](lov/1863-06-06/§35), og retten finner at ny kunngjøring derfor ikke er nødvendig.
+(2) Er gjeldsforhandling åpnet etter konkurslovens første del etter 1. mars 2020, kan saken behandles etter reglene i denne loven hvis skyldneren begjærer det og det ikke er tatt stilling til et forslag om frivillig gjeldsordning eller stemt over et forslag til tvangsakkord. Kunngjøring etter § 7 i loven her kan i så fall unnlates dersom åpningen av gjeldsforhandling allerede er kunngjort etter [konkursloven §§ 6](lov/1984-06-08-58/§6) eller [35](lov/1984-06-08-58/§35), og retten finner at ny kunngjøring derfor ikke er nødvendig.
 
 (3) For forslag til tvangsakkord som er fremsatt etter konkurslovens kapittel XIV, gjelder konkurslovens første del når konkurs er åpnet før denne loven trer i kraft. Dersom alle kjente fordringshavere samtykker til det, kan skyldneren i stedet fremsette forslag om rekonstruksjon med tvangsakkord etter kapittel 7 i denne loven. Dersom det åpnes konkurs etter ikrafttredelsen av denne loven, gjelder reglene i denne loven for forslaget til tvangsakkord. Henvisningene i konkursloven kapittel XIV til bestemmelser i konkurslovens første del skal forstås som henvisninger til de korresponderende bestemmelsene i denne loven så langt de passer.
 
