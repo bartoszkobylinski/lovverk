@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-03-10"
-xml_hash: "ee18fa7229c9952774ea22e407350e491222e18b0ae01c82ccceafde3739d8f9"
+xml_hash: "e139618e5ed24840c356ee6d70c1abb1680145ead82f71fa3f0b3819dc1d70e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-10-31T10:11:58.876981+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -237,7 +237,7 @@ Kommunen skal i kontrakten forplikte seg til å tilby introduksjonsprogram og op
 
 Deltageren skal i kontrakten forplikte seg til å følge opp målene og elementene som er fastsatt i integreringsplanen, jf. [§ 15](lov/2020-11-06-127/§15).
 
-> Endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Endres** ved lov [12 juni 2026 nr. 23](lov/2026-06-12-23) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Endres** ved lov [12 juni 2026 nr. 23](lov/2026-06-12-23) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2188](forskrift/2026-10-30-2188)).
 
 ### § 17. Fravær og permisjoner
 
