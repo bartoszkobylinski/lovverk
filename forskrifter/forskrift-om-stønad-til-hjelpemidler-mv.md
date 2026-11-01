@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1997-05-01"
-last_change_in_force: "2015-07-01"
+last_change_in_force: "2026-11-01"
 last_updated: null
-xml_hash: "00db6b4754163eb8500d8d6d4c047197dd3deb43a068345894d49cff2d8e8975"
+xml_hash: "06933544468ade921d30d2dac76014ccd0834c793329ff5d13566f576fbb6c8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-13T11:40:11.848780+00:00"
+retrieved_at: "2026-11-01T11:01:32.195391+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,13 +91,15 @@ Bestemmelsene i [§ 2](forskrift/1997-04-15-318/§2) sjette, sjuende og åttende
 
 Det kan gis stønad til opplæring ved tilpassingskurs for hørselshemmede, synshemmede og døvblinde. Tilpassingskursene godkjennes av Arbeids- og velferdsdirektoratet. Formålet med opplæringen skal være å styrke medlemmets evne til å klare seg i dagliglivet eller i arbeidslivet.
 
-Stønad til dekning av utgifter til opphold og opplæring ved tilpassingskurs for hørselshemmede, synshemmede og døvblinde ytes etter takster som fastsettes av Arbeids- og velferdsdirektoratet.
+Pårørende kan delta på tilpasningskurs når dette er nødvendig og hensiktsmessig for å styrke den synshemmedes, hørselshemmedes eller døvblindes evne til å klare seg i dagliglivet. Med pårørende menes personer som gjennom ekteskap, samboerskap, slektskap eller annen tilknytning har en nær og varig relasjon til den personen som tilpasningskurset gjelder.
+
+Stønad til dekning av utgifter til opphold og opplæring ved tilpasningskurs for hørselshemmede, synshemmede og døvblinde samt deres pårørende, ytes etter takster fastsatt av Arbeids- og velferdsdirektoratet.
 
 Det kan gis stønad til opphold ved folkehøgskole dersom oppholdet er nødvendig og hensiktsmessig som et ledd i medlemmets utvikling av personlig selvstendighetsgjøring for å klare dagliglivets gjøremål. Det kan gis tilskott til nødvendige utgifter til opphold og opplæring som overstiger ordinære bo- og oppholdsutgifter ved skolen.
 
 Stønad til dekning av utgifter i forbindelse med reise til og fra kurs eller skole ytes etter [§ 7](forskrift/1997-04-15-318/§7) i denne forskriften.
 
-> Endret ved [forskrifter 3 jan 2002 nr. 7](forskrift/2002-01-03-7), [8 okt 2004 nr. 1395](forskrift/2004-10-08-1395), [22 juni 2007 nr. 689](forskrift/2007-06-22-689). **Endres** ved forskrift [5 okt 2026 nr. 2026](forskrift/2026-10-05-2026) (i kraft 1 nov 2026).
+> Endret ved [forskrifter 3 jan 2002 nr. 7](forskrift/2002-01-03-7), [8 okt 2004 nr. 1395](forskrift/2004-10-08-1395), [22 juni 2007 nr. 689](forskrift/2007-06-22-689), [5 okt 2026 nr. 2026](forskrift/2026-10-05-2026) (i kraft 1 nov 2026).
 
 ## § 7. Reise- og oppholdsutgifter
 
