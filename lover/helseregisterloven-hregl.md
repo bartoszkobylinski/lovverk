@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-01-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-11-01"
 last_updated: "2022-03-24"
-xml_hash: "5dd62a96ad865bb9d015028612bf999baed7af1159554761851215f78d36716a"
+xml_hash: "2008073040112746a6119d46d23dd425fa1111f54ef5010dce53b8bb42d31097"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-29T10:35:40.473961+00:00"
+retrieved_at: "2026-11-01T11:01:32.195391+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,7 +39,7 @@ I denne loven forstås med:
 5. *samtykke:* enhver frivillig, spesifikk, informert og utvetydig viljesytring fra den registrerte der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til behandling av helseopplysninger som gjelder vedkommende, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 11
 6. *indirekte personidentifiserbare helseopplysninger:* helseopplysninger der navn, fødselsnummer og andre personidentifiserende kjennetegn er fjernet, men hvor opplysningene likevel kan knyttes til en enkeltperson.
 
-> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [10 juni 2022 nr. 37](lov/2022-06-10-37).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [10 juni 2022 nr. 37](lov/2022-06-10-37).
 
 ### § 3. Saklig virkeområde
 
@@ -53,23 +53,23 @@ Loven gjelder ikke for behandling av helseopplysninger som reguleres av helsefor
 
 Kongen i statsråd kan i forskrift bestemme at loven helt eller delvis skal gjelde for behandling av helseopplysninger utenfor helse- og omsorgsforvaltningen eller helse- og omsorgstjenesten.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 4. Geografisk virkeområde
 
 Loven gjelder for dataansvarlige som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler om behandling av helseopplysninger for disse områdene.
 
-> Endret ved [lover 19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lover [19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 5. Forholdet til personvernforordningen og personopplysningsloven
 
 [Personvernforordningen](lov/2018-06-15-38/gdpr) og [personopplysningsloven](lov/2018-06-15-38) gjelder så langt ikke noe annet følger av denne loven.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ## Kapittel 2. Adgang til å behandle helseopplysninger og å etablere helseregistre
 
-> Overskrift endret ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
+> Overskrift endret ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
 
 ### § 6. Alminnelige vilkår for å behandle helseopplysninger
 
@@ -79,11 +79,11 @@ Graden av personidentifikasjon skal ikke være større enn nødvendig for det ak
 
 Departementet kan gi forskrift om godkjenning av programvare, sertifisering og om bruk av standarder, klassifikasjonssystemer og kodeverk, samt hvilke nasjonale eller internasjonale standardsystemer som skal følges ved behandling av helseopplysninger etter denne loven.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 7. (Opphevet)
 
-> Opphevet ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Opphevet ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 8. Vilkår for etablering av helseregistre ved forskrift
 
@@ -101,7 +101,7 @@ Forskriften skal blant annet angi
 4. krav til sikring av opplysningene, og
 5. hvem som er dataansvarlig.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 9. Registre som er samtykkebaserte eller uten personidentifiserende kjennetegn
 
@@ -110,7 +110,7 @@ Kongen i statsråd kan, i samsvar med vilkår i [§ 8](lov/2014-06-20-43/§8), g
 1. den registrerte samtykker, eller
 2. opplysningene behandles uten at den dataansvarlige har tilgang til navn, fødselsnummer eller andre personidentifiserende kjennetegn.
 
-> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. j1195), [10 juni 2022 nr. 37](lov/2022-06-10-37).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. j1195), [10 juni 2022 nr. 37](lov/2022-06-10-37).
 
 ### § 10. Helseregistre der den registrerte har rett til å motsette seg behandling av helseopplysninger
 
@@ -155,7 +155,7 @@ Kongen i statsråd kan i forskrift gi nærmere bestemmelser om behandlingen av h
 
 Kongen i statsråd kan i forskriften gi nærmere bestemmelser om bevaring, kassasjon og avlevering av pasientdokumentasjon for private virksomheter som yter tjenester etter spesialisthelsetjenesteloven.
 
-> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
 
 ### § 13. Innmelding av helseopplysninger til helseregistre
 
@@ -210,22 +210,23 @@ Dataansvarlige for helseregistre kan utarbeide og offentliggjøre relevant stati
 
 Dataansvarlige for helseregistre som er etablert med hjemmel i [§ 11](lov/2014-06-20-43/§11) skal utarbeide og løpende offentliggjøre relevant statistikk som nevnt i første ledd. Departementet kan gi forskrift om at også andre dataansvarlige skal utarbeide statistikk.
 
-Dataansvarlige for helseregistre skal på forespørsel utarbeide og tilgjengeliggjøre statistikk basert på opplysninger i registeret og opplysninger som er sammenstilt etter [§ 19 c](lov/2014-06-20-43/§19c), dersom statistikken skal brukes til formål som er innenfor registrenes formål.
+Dataansvarlige for helseregistre skal på forespørsel utarbeide og tilgjengeliggjøre statistikk basert på opplysninger i registeret og opplysninger som er sammenstilt etter [§ 19 c](lov/2014-06-20-43/§19c), dersom statistikken skal brukes for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester og statistikken skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy.
 
 Utarbeidet statistikk skal være anonym.
 
 Plikten til å utarbeide statistikk etter andre og tredje ledd gjelder ikke dersom tilgjengeliggjøring av opplysningene kan true samfunnets evne til å verne grunnleggende verdier og funksjoner og sette liv og helse i fare.
 
-> Endret ved [lover 9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
+> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)), [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19 a. Tilgjengeliggjøring av helseopplysninger
 
 Den dataansvarlige skal etter søknad tilgjengeliggjøre helseopplysninger i helseregistre, inkludert opplysninger som er sammenstilt etter [§ 19 c](lov/2014-06-20-43/§19c), når
 
-1. opplysningene skal brukes til et uttrykkelig angitt formål som er innenfor registerets formål,
-2. mottakeren kan godtgjøre at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov/2018-06-15-38/gdpr/a6) og [9](lov/2018-06-15-38/gdpr/a9),
-3. mottakeren kan godtgjøre at behandlingen av opplysningene vil være innenfor rammene av eventuelle samtykker og ikke i strid med eventuelle reservasjoner, og
-4. mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten.
+1. opplysningene skal brukes til et uttrykkelig angitt formål for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,
+2. opplysningene skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy,
+3. mottakeren kan godtgjøre at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov/2018-06-15-38/gdpr/a6) og [9](lov/2018-06-15-38/gdpr/a9),
+4. mottakeren kan godtgjøre at behandlingen av opplysningene vil være innenfor rammene av eventuelle samtykker og ikke i strid med eventuelle reservasjoner, og
+5. mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten.
 
 Det skal ikke tilgjengeliggjøres flere opplysninger enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres uten navn, fødselsnummer eller andre personidentifiserende kjennetegn med mindre slike opplysninger av særlige grunner er nødvendige.
 
@@ -233,7 +234,7 @@ Tilgjengeliggjøring kan bare skje når den registrerte har samtykket, tilgjenge
 
 Den dataansvarlige kan sette som vilkår for tilgjengeliggjøring at mottakeren setter i verk særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser.
 
-Opplysningene kan bare tilgjengeliggjøres dersom det er ubetenkelig ut fra etiske, medisinske og helsefaglige hensyn. For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren ha fått forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. [helseforskningsloven § 33](lov/2008-06-20-44/§33).
+Opplysningene kan bare tilgjengeliggjøres dersom det er ubetenkelig ut fra etiske, medisinske og helsefaglige hensyn. For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren ha fått forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk dersom dette er et krav etter [helseforskningsloven § 9](lov/2008-06-20-44/§9).
 
 Dersom det er gitt dispensasjon fra taushetsplikten etter [§ 19 e](lov/2014-06-20-43/§19e), skal opplysningene tilgjengeliggjøres i samsvar med dispensasjonsvedtaket uten at den dataansvarlige skal vurdere om vilkårene i første til femte ledd i bestemmelsen her er oppfylt.
 
@@ -241,7 +242,7 @@ Departementet kan gi forskrift om den dataansvarliges plikt og adgang til å til
 
 Dersom tilgjengeliggjøring av helseopplysninger kan true samfunnets evne til å verne grunnleggende verdier og funksjoner og sette liv og helse i fare, skal opplysningene ikke gjøres tilgjengelig.
 
-> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lov [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
+> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lover [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)), [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19 b. Unntak fra taushetsplikten for indirekte personidentifiserbare helseopplysninger
 
@@ -277,19 +278,21 @@ Helseopplysningene kan ikke gjøres tilgjengelige for påtalemyndigheten eller t
 
 Departementet kan etter søknad bestemme at helseopplysninger fra helseregistre skal tilgjengeliggjøres uten hinder av taushetsplikt etter [§ 17](lov/2014-06-20-43/§17), når
 
-1. opplysningene skal brukes til et uttrykkelig angitt formål som er innenfor registerets formål,
-2. mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, og
-3. behandlingen av opplysningene er av vesentlig interesse for samfunnet.
+1. opplysningene skal brukes til et uttrykkelig angitt formål for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,
+2. opplysningene skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy,
+3. det er umulig eller vanskelig å innhente samtykke fra et tilstrekkelig utvalg av de registrerte,
+4. mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, og
+5. behandlingen av opplysningene er av vesentlig interesse for samfunnet.
 
 Det skal ikke tilgjengeliggjøres flere opplysninger enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres uten navn, fødselsnummer eller andre personidentifiserende kjennetegn med mindre slike opplysninger av særlige grunner er nødvendige.
 
 Departementet kan sette som vilkår for tilgjengeliggjøring at mottakeren setter i verk særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser.
 
-Det kan bare gis dispensasjon dersom tilgjengeliggjøringen er ubetenkelig ut fra etiske, medisinske og helsefaglige hensyn og ikke vil true samfunnets evne til å verne grunnleggende verdier og funksjoner og ikke sette liv og helse i fare. For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren ha fått forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. [helseforskningsloven § 33](lov/2008-06-20-44/§33).
+Det kan bare gis dispensasjon dersom tilgjengeliggjøringen er ubetenkelig ut fra etiske, medisinske og helsefaglige hensyn og ikke vil true samfunnets evne til å verne grunnleggende verdier og funksjoner og ikke sette liv og helse i fare. For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren ha fått forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk dersom dette er et krav etter [helseforskningsloven § 9](lov/2008-06-20-44/§9).
 
 Myndigheten etter første ledd kan delegeres til et underordnet forvaltningsorgan eller legges til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
 
-> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lover [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
+> Tilføyd ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), endret ved lover [10 juni 2022 nr. 37](lov/2022-06-10-37), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)), [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 nov 2026 iflg. [res. 25 sep 2026 nr. 1907](forskrift/2026-09-25-1907)).
 
 ### § 19 f. Frister for tilgjengeliggjøring av tilrettelagt statistikk og helseopplysninger
 
@@ -329,13 +332,13 @@ Forskriften skal fastsette hvilke datakilder og opplysninger som skal omfattes a
 4. krav til mottaker av opplysningene om dekning av utgifter knyttet til tilgjengeliggjøring etter [§ 19 g](lov/2014-06-20-43/§19g) og utgifter til forvaltning, drift og videreutvikling av løsningen
 5. krav til mottaker av opplysningene om publisering eller retur av analyseresultater.
 
-> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)).
 
 ### § 20 a. Forskrift om tilgjengeliggjøring av opplysninger fra Dødsårsaksregisteret for kommuneleger
 
 Departementet kan gi forskrift om at kommuneleger kan få tilgjengeliggjort opplysninger fra Dødsårsaksregisteret uten hinder av taushetsplikt.
 
-> Tilføyd ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
+> Tilføyd ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
 
 ### § 21. Tekniske og organisatoriske sikkerhetstiltak
 
@@ -355,7 +358,7 @@ Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å s
 
 Departementet kan i forskrift gi nærmere regler om tekniske og organisatoriske tiltak etter første ledd.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ## Kapittel 4. Informasjon, innsyn, retting, sletting og sperring
 
@@ -363,7 +366,7 @@ Departementet kan i forskrift gi nærmere regler om tekniske og organisatoriske 
 
 En dataansvarlig som behandler opplysninger etter forskrift i medhold av [§§ 8](lov/2014-06-20-43/§8) til [11](lov/2014-06-20-43/§11), skal av eget tiltak informere allmennheten om hva slags behandling av helseopplysninger som foretas.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 24. Rett til informasjon og innsyn
 
@@ -375,7 +378,7 @@ Når det er nødvendig for å vurdere innsynskrav, kan den dataansvarlige innhen
 
 Kongen kan i forskrift gi nærmere bestemmelser om retten til informasjon og innsyn.
 
-> Endret ved [lover 19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lover [19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 25. Retting, sperring eller sletting
 
@@ -383,7 +386,7 @@ Den registrerte kan kreve retting eller sletting etter [personvernforordningen a
 
 Datatilsynet kan, etter at Nasjonalarkivet er hørt, treffe vedtak om at retten til sletting etter første ledd går foran reglene gitt i eller i medhold av [arkivlova § 6 bokstav b](lov/2025-06-20-96/§6/bokstav/b), [§ 13 første ledd](lov/2025-06-20-96/§13/ledd/1) og [§ 20](lov/2025-06-20-96/§20). Hvis dokumentet som inneholdt de slettede opplysningene, gir et åpenbart misvisende bilde etter slettingen, skal hele dokumentet slettes.
 
-> Endret ved [lover 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
 
 ## Kapittel 5. Tilsyn og sanksjoner
 
@@ -395,23 +398,23 @@ Datatilsynet fører tilsyn med overholdelsen av loven og forskrifter gitt i medh
 
 ### § 27. (Opphevet)
 
-> Opphevet ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Opphevet ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 28. (Opphevet)
 
-> Opphevet ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Opphevet ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 29. Overtredelsesgebyr
 
 Ved behandling av helseopplysninger i strid med loven eller forskrifter gitt i medhold av loven, kan Datatilsynet ilegge overtredelsesgebyr etter [personvernforordningen artikkel 83](lov/2018-06-15-38/gdpr/a83) og [personopplysningsloven §§ 26](lov/2018-06-15-38/§26) og [27](lov/2018-06-15-38/§27).
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 30. Straff for brudd på taushetsplikt
 
 Overtredelse av [§ 17](lov/2014-06-20-43/§17) om taushetsplikt straffes etter [straffeloven § 209](lov/2005-05-20-28/§209), likevel slik at medvirkning straffes.
 
-> Endret ved [lover 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
 
 ### § 30 a. Straff for urettmessig tilegnelse av helseopplysninger
 
@@ -427,13 +430,13 @@ Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov
 4. den utviste skyld, og
 5. om handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
 
-> Tilføyd ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
+> Tilføyd ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
 
 ### § 31. Erstatning
 
 Den dataansvarlige og databehandleren skal erstatte skader som er oppstått som følge av at helseopplysninger er behandlet i strid med personvernforordningen, etter [forordningen artikkel 82](lov/2018-06-15-38/gdpr/a82) og [personopplysningsloven § 30](lov/2018-06-15-38/§30). Ansvaret gjelder tilsvarende ved brudd på denne loven eller forskrifter gitt i medhold av loven.
 
-> Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ## Kapittel 6. Ikraftsetting m.m.
 
