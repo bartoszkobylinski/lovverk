@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Lover
 
-_754 current documents_
+_753 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -147,7 +147,6 @@ _754 current documents_
 - [endringslov-til-ftrl-og-div-pensjonslover](endringslov-til-ftrl-og-div-pensjonslover.md) — Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte andre lover (justeringer i reglene om uføretrygd og ny uførepensjonsordning i offentlig tjenestepensjon mv.)
 - [endringslov-til-gjeldsordningsloven-mv](endringslov-til-gjeldsordningsloven-mv.md) — Lov om endringer i gjeldsordningsloven mv. (effektivisering og forenkling av gjeldsordningsprosessen)
 - [endringslov-til-grenseloven-og-utlendingsloven-mv](endringslov-til-grenseloven-og-utlendingsloven-mv.md) — Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)
-- [endringslov-til-helseforskningsloven-mv](endringslov-til-helseforskningsloven-mv.md) — Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig forskning og for bruk av helseopplysninger i forskning)
 - [endringslov-til-integreringsloven](endringslov-til-integreringsloven.md) — Lov om endringer i integreringsloven (integreringserklæring)
 - [endringslov-til-integreringsloven-mv](endringslov-til-integreringsloven-mv.md) — Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplæring i introduksjonsprogrammet)
 - [endringslov-til-klimakvoteloven](endringslov-til-klimakvoteloven.md) — Lov om endringer i klimakvoteloven

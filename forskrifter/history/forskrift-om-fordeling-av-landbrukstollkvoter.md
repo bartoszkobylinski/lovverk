@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fordeling-av-landbrukstollkvoter — Change history
 
-_4 events; doc_id `sf-20081010-1132`._
+_5 events; doc_id `sf-20081010-1132`._
+
+## 2026-11-01 — Content updated
+Lines: +38 -25.
+Subject: `update(forskrift): forskrift-om-fordeling-av-landbrukstollkvoter`
+Commit: `2c28ce6`.
 
 ## 2026-10-30 — Content updated
 Lines: +3 -3.

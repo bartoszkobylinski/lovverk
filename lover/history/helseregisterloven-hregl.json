@@ -2,6 +2,16 @@
   "doc_id": "nl-20140620-043",
   "events": [
     {
+      "commit": "2a63cc1",
+      "date": "2026-11-01",
+      "from_path": null,
+      "lines_added": 41,
+      "lines_removed": 38,
+      "subject": "update(lov): helseregisterloven-hregl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2a1e528",
       "date": "2026-09-29",
       "from_path": null,

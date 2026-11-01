@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # integreringsforskriften — Change history
 
-_5 events; doc_id `sf-20201215-2912`._
+_6 events; doc_id `sf-20201215-2912`._
+
+## 2026-11-01 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): integreringsforskriften`
+Commit: `5680478`.
 
 ## 2026-07-01 — Content updated
 Lines: +12 -16.

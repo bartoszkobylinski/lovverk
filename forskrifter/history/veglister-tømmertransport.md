@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # veglister-tømmertransport — Change history
 
-_9 events; doc_id `sf-20231024-1695`._
+_10 events; doc_id `sf-20231024-1695`._
+
+## 2026-11-01 — Content updated
+Lines: +19 -19.
+Subject: `update(forskrift): veglister-tømmertransport`
+Commit: `30720d5`.
 
 ## 2026-10-01 — Content updated
 Lines: +16 -16.

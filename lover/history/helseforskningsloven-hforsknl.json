@@ -2,6 +2,16 @@
   "doc_id": "nl-20080620-044",
   "events": [
     {
+      "commit": "0bc3ffc",
+      "date": "2026-11-01",
+      "from_path": null,
+      "lines_added": 107,
+      "lines_removed": 103,
+      "subject": "update(lov): helseforskningsloven-hforsknl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c799d64",
       "date": "2026-09-29",
       "from_path": null,

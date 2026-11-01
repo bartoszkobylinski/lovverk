@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # helseregisterloven-hregl — Change history
 
-_5 events; doc_id `nl-20140620-043`._
+_6 events; doc_id `nl-20140620-043`._
+
+## 2026-11-01 — Content updated
+Lines: +41 -38.
+Subject: `update(lov): helseregisterloven-hregl`
+Commit: `2a63cc1`.
 
 ## 2026-09-29 — Content updated
 Lines: +5 -5.

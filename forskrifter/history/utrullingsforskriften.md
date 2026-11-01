@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # utrullingsforskriften — Change history
 
-_6 events; doc_id `sf-20251212-2508`._
+_7 events; doc_id `sf-20251212-2508`._
+
+## 2026-11-01 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): utrullingsforskriften`
+Commit: `00609b6`.
 
 ## 2026-10-28 — Content updated
 Lines: +3 -3.

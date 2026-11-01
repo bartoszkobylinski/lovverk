@@ -2,6 +2,16 @@
   "doc_id": "sf-20221027-1901",
   "events": [
     {
+      "commit": "29e3971",
+      "date": "2026-11-01",
+      "from_path": null,
+      "lines_added": 20,
+      "lines_removed": 19,
+      "subject": "update(forskrift): vareførselsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "48832af",
       "date": "2026-10-25",
       "from_path": null,

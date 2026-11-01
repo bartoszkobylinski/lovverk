@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5139 current documents_
+_5135 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1269,7 +1269,6 @@ _5139 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-delegering-etter-sjøfartsloven](endr-delegering-etter-sjøfartsloven.md) — Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
-- [endr-i-blåreseptforskriften-2026](endr-i-blåreseptforskriften-2026.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)
 - [endr-i-delvis-ikrafts-av-lov-2005-101](endr-i-delvis-ikrafts-av-lov-2005-101.md) — Vedtak om endring i delvis ikraftsetting av lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)
 - [endr-i-departementsstruktur-og-ansvarsfordeling](endr-i-departementsstruktur-og-ansvarsfordeling.md) — Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-ansvarsfordeling](endr-i-departementsstrukturen-og-ansvarsfordeling.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer
@@ -1292,6 +1291,7 @@ _5139 current documents_
 - [endr-i-førerkortforskriften](endr-i-førerkortforskriften.md) — Forskrift om endring i forskrift om førerkort m.m. (førerkortforskriften)
 - [endr-i-høstingsforskriften](endr-i-høstingsforskriften.md) — Forskrift om endring i forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser
 - [endr-i-ikrafttredelse-av-lov-2012-5](endr-i-ikrafttredelse-av-lov-2012-5.md) — Vedtak om endring i vedtak 20. januar 2012 nr. 37 om ikrafttredelse av lov 20. januar 2012 nr. 5 om endringer i utlendingsloven m.m. (høring av barn mv.)
+- [endr-i-integreringsforskriften](endr-i-integreringsforskriften.md) — Forskrift om endring i integreringsforskriften
 - [endr-i-klareringsforskriften](endr-i-klareringsforskriften.md) — Forskrift om endring i forskrift om sikkerhetsklarering og annen klarering (klareringsforskriften)
 - [endr-i-kostra-forskriften](endr-i-kostra-forskriften.md) — Forskrift om endring i forskrift om rapportering fra kommuner og fylkeskommuner mv.
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
@@ -1310,11 +1310,9 @@ _5139 current documents_
 - [endr-i-trafikkopplæringsforskriften](endr-i-trafikkopplæringsforskriften.md) — Forskrift om endring i forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
-- [endr-i-utrullingsforskriften](endr-i-utrullingsforskriften.md) — Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)
 - [endr-i-utrykningsforskriften](endr-i-utrykningsforskriften.md) — Forskrift om endring i forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
-- [endr-i-vareførselsforskriften-2026-10-15](endr-i-vareførselsforskriften-2026-10-15.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-yrkessjåførforskriften](endr-i-yrkessjåførforskriften.md) — Forskrift om endring i forskrift om grunnutdanning og etterutdanning for yrkessjåfører (yrkessjåførforskriften)
 - [endr-i-yrkestransportforskriften](endr-i-yrkestransportforskriften.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
@@ -1926,7 +1924,6 @@ _5139 current documents_
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
 - [forskrift-om-endring-i-forskrift-om-fartsskriververksteder](forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md) — Forskrift om endring i forskrift om fartsskriververksteder
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
-- [forskrift-om-endring-i-forskrift-om-fordeling-av-tollkvoter-for-landbruksvarer](forskrift-om-endring-i-forskrift-om-fordeling-av-tollkvoter-for-landbruksvarer.md) — Forskrift om endring i forskrift om fordeling av tollkvoter for landbruksvarer
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
@@ -1943,7 +1940,6 @@ _5139 current documents_
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
-- [forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen](forskrift-om-endring-i-forskrift-om-stønad-til-hjelpemidler-mv-til-bedring-av-funksjonsevnen-i-arbeidslivet-og-i-dagliglivet-og-til-ombygging-av-maskiner-på-arbeidsplassen.md) — Forskrift om endring i forskrift om stønad til hjelpemidler mv til bedring av funksjonsevnen i arbeidslivet og i dagliglivet og til ombygging av maskiner på arbeidsplassen
 - [forskrift-om-endring-i-forskrift-om-takstberegning-og-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn](forskrift-om-endring-i-forskrift-om-takstberegning-og-maksimalpriser-for-løyvepliktig-drosjetransport-med-motorvogn.md) — Forskrift om endring i forskrift om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer](forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer.md) — Forskrift om endring i forskrift om tilsetningsstoffer til bruk i fôrvarer

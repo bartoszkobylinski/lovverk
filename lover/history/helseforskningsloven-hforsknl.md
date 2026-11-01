@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # helseforskningsloven-hforsknl — Change history
 
-_4 events; doc_id `nl-20080620-044`._
+_5 events; doc_id `nl-20080620-044`._
+
+## 2026-11-01 — Content updated
+Lines: +107 -103.
+Subject: `update(lov): helseforskningsloven-hforsknl`
+Commit: `0bc3ffc`.
 
 ## 2026-09-29 — Content updated
 Lines: +25 -25.
