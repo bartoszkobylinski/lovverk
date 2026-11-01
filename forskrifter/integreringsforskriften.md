@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "36990ac340ec658c1a718cd13f35c8dbf1745ade0cf134ee267569be44354fb0"
+xml_hash: "fb1b0d48a834f4e8ad5613de0e948413b42416fda5b6d25d959876e8db41d26e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-01T11:01:32.195391+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,6 +83,10 @@ Kurset skal som hovedregel gjennomføres i gruppe og være dialogbasert.
 Kurset skal tilbys av personer med undervisnings- eller veiledningskompetanse. Personer som veileder eller underviser i livsmestring, skal som hovedregel ha relevant kompetanse innenfor tematikken nevnt i tredje og fjerde ledd.
 
 > Endret ved forskrift [17 sep 2025 nr. 1909](forskrift/2025-09-17-1909) (i kraft 1 jan 2026, se endringsforskriften for overgangsregel).
+
+### § 4a. Integreringserklæring
+
+> Tilføyes ved forskrift [30 okt 2026 nr. 2189](forskrift/2026-10-30-2189) (i kraft 1 jan 2027).
 
 ## Kapittel 3. Fravær fra introduksjonsprogrammet
 
