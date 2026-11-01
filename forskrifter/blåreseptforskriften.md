@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2008-03-03"
-last_change_in_force: "2026-08-01"
+last_change_in_force: "2026-11-01"
 last_updated: "2021-02-24"
-xml_hash: "61ec7325109967d7c5908725a1254b41965d9cbdebb9388038031b14de94e669"
+xml_hash: "59f902d9cc1c30c88ace64dc8aabf5dd891351cbbbfcff7b88dd4662ff69e49f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-11-01T11:01:32.195391+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -408,6 +408,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Qizenday | D-biotin (vit H) | A11HA05 | 15.07.2017 |
 | Sibnayal | Kaliumhydrogenkarbonat, kaliumsitrat | A12BA30 | 01.10.2020 |
 | Alle | Venglustat | A16 | 01.08.2026 |
+| Alle | Efzimfotase alfa | A16AB | 01.11.2026 |
 | Alle | Imiglukerase | A16AB02 | 01.02.2019 |
 | Alle | Agalsidase alfa | A16AB03 | 01.02.2019 |
 | Alle | Agalsidase beta | A16AB04 | 01.02.2019 |
@@ -465,7 +466,6 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Apadamtase alfa, cinaxadamtase alfa | B01AD13 | 01.03.2024 |
 | Alle | Defibrotid | B01AX01 | 01.02.2019 |
 | Alle | Kaplacizumab | B01AX07 | 02.01.2018 |
-| Alle | Denecimig | B02 | 15.01.2026 |
 | Alle | Alfa1-antitrypsin | B02AB02 | 01.12.2022 |
 | Alle | Fibrinogen, human | B02BB01 | 01.01.2016 |
 | Alle | Kombinasjoner med fibrinogen, human | B02BC30 | 01.02.2018 |
@@ -491,6 +491,8 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Fostamatinib | B02BX09 | 01.04.2019 |
 | Alle | Koncizumab | B02BX10 | 01.06.2023 |
 | Alle | Marstacimab | B02BX11 | 01.03.2024 |
+| Alle | Denecimig | B02BX13 | 15.01.2026 |
+| Alle | Rilzabrutinib | B02BX14 | 01.04.2025 |
 | Alle | Daprodustat | B03AX07 | 01.12.2022 |
 | Alle | Erytropoietin | B03XA01 | 01.01.2016 |
 | Alle | Darbepoetin alfa | B03XA02 | 01.01.2016 |
@@ -517,7 +519,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Garadacimab | B06AC07 | 01.01.2024 |
 | Alle | Sebetralstat | B06AC08 | 15.12.2024 |
 | Alle | Donidalorsen | B06AC09 | 01.04.2025 |
-| Alle | Etuvetidigene autotemcel | B06AX | 01.08.2025 |
+| Alle | Deukriktibant | B06AC10 | 01.11.2026 |
 | Alle | Krizanlizumab | B06AX01 | 01.02.2020 |
 | Alle | Betibeglogene autotemcel | B06AX02 | 01.04.2019 |
 | Alle | Vokselotor | B06AX03 | 01.11.2021 |
@@ -525,15 +527,17 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Eksagamglogen autotemcel | B06AX05 | 01.06.2023 |
 | Alle | Mozafankogen autotemcel | B06AX07 | 01.08.2024 |
 | Alle | Anselamimab | B06AX08 | 01.04.2026 |
+| Alle | Etuvetidigene autotemcel | B06AX09 | 01.08.2025 |
 | Alle | Meksiletin | C01BB02 | 01.02.2019 |
 | Alle | Isoprenalin | C01CA02 | 01.08.2024 |
 | Alle | Noradrenalin | C01CA03 | 01.05.2024 |
 | Alle | Dobutamin | C01CA07 | 01.05.2024 |
 | Alle | Milrinon | C01CE02 | 01.03.2024 |
 | Alle | Angiotensin II | C01CX09 | 01.04.2019 |
-| Alle | Afikamten | C01EB | 01.04.2025 |
 | Alle | Mavacamten | C01EB24 | 01.01.2024 |
 | Alle | Acoramidis | C01EB25 | 01.05.2024 |
+| Alle | Afikamten | C01EB26 | 01.04.2025 |
+| Alle | Atrasentan | C02 | 01.11.2026 |
 | Alle | Bosentan | C02KX01 | 01.01.2017 |
 | Alle | Ambrisentan | C02KX02 | 01.01.2017 |
 | Alle | Macitentan | C02KX04 | 01.01.2017 |
@@ -542,15 +546,16 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Macitentan, tadalafil | C02KX53 | 01.11.2023 |
 | Jinarc | Tolvaptan | C03XA01 | 01.02.2019 |
 | Tolvaptan Teva B.V. | Tolvaptan | C03XA01 | 01.06.2024 |
+| Tolvaptan Amarox | Tolvaptan | C03XA01 | 01.11.2026 |
 | Alle | Landiololhydroklorid | C07AB14 | 01.10.2020 |
 | Alle | Sparsentan | C09XX01 | 01.03.2023 |
-| Alle | Olezarsen | C10AX | 15.12.2024 |
-| Alle | Plozasiran | C10AX | 01.08.2025 |
 | Alle | Lomitapid | C10AX12 | 01.02.2019 |
 | Alle | Evinacumab | C10AX17 | 01.06.2021 |
 | Alle | Volanesorsen | C10AX18 | 01.05.2018 |
+| Alle | Plozasiran | C10AX20 | 01.08.2025 |
+| Alle | Olezarsen | C10AX21 | 15.12.2024 |
 | Alle | Afamelanotide | D02BB02 | 02.01.2018 |
-| Alle | Bjørkeneverekstrakt | D03AX13 | 01.05.2025 |
+| Alle | Bjørkenever-ekstrakt | D03AX13 | 01.05.2025 |
 | Alle | Beremagene geperpavek | D03AX16 | 01.11.2023 |
 | Alle | Bromelen | D03BA03 | 01.05.2019 |
 | Alle | Fumarsyrederivater, kombinasjon | D05BX51 | 01.05.2018 |
@@ -559,6 +564,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Abrocitinib | D11AH08 | 01.06.2021 |
 | Alle | Lebrikizumab | D11AH10 | 01.08.2023 |
 | Alle | Nemolizumab | D11AH12 | 01.05.2024 |
+| Alle | Tosjikts kollagenhydrogel med levende autologe keratinocytter og fibroblaster | D11AX | 01.11.2026 |
 | Alle | Misoprostol | G02AD06 | 02.01.2018 |
 | Granpidam | Sildenafil | G04BE03 | 01.12.2017 |
 | Mysildecard | Sildenafil | G04BE03 | 01.01.2017 |
@@ -659,7 +665,6 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle til infusjon/injeksjon | Amfotericin | J02AA01 | 01.01.2025 |
 | Alle i ATC-gruppen | Legemidler til behandling av tuberkulose | J04A | 01.01.2025 |
 | Alle | Klofazimine | J04BA01 | 01.01.2025 |
-| Alle | Doravirin, Islatravirmonohydrat | J05 | 01.08.2026 |
 | Alle til infusjon/injeksjon | Aciklovir | J05AB01 | 01.01.2025 |
 | Alle til infusjon/injeksjon | Ganciklovir | J05AB06 | 01.01.2025 |
 | Alle til infusjon/injeksjon | Cidofovir | J05AB12 | 01.01.2025 |
@@ -720,6 +725,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Darunavir,kobicistat,emtricitabine og tenofovir alafenamid | J05AR22 | 15.02.2018 |
 | Alle | Lamivudin, tenofovir disoproksil, doravirin | J05AR24 | 01.08.2018 |
 | Alle | Lamivudine og dolutegravir | J05AR25 | 01.04.2019 |
+| Alle | Doravirin, Islatravirmonohydrat | J05AR30 | 01.08.2026 |
 | Alle | Inosine pranobex | J05AX05 | 01.01.2018 |
 | Alle | Maraviroc | J05AX09 | 01.01.2018 |
 | Alle | Maribavir | J05AX10 | 01.05.2022 |
@@ -741,15 +747,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Nirsevimab | J06BD08 | 01.01.2026 |
 | Alle | Sipavibart | J06BD09 | 01.11.2024 |
 | Alle | Klesrovimab | J06BD10 | 01.01.2026 |
-| Alle | Cosibelimab | L01 | 01.08.2026 |
 | Alle | Eflornithine, sulindac | L01 | 01.06.2021 |
-| Alle | Ensartinib | L01 | 01.04.2026 |
-| Alle | Katekventinib | L01 | 01.11.2025 |
-| Alle | Narsoplimab | L01 | 01.11.2025 |
-| Alle | Pimikotinib | L01 | 01.04.2026 |
-| Alle | Sintilimab | L01 | 01.04.2026 |
-| Alle | Sonrotoclax | L01 | 01.04.2026 |
-| Alle | Taletrektinib | L01 | 01.08.2026 |
 | Alle | Busulfan | L01AB01 | 01.05.2017 |
 | Alle | Treosulfan | L01AB02 | 01.08.2018 |
 | Alle | Tiotepa | L01AC01 | 01.05.2017 |
@@ -817,6 +815,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Alectinib | L01ED03 | 01.05.2017 |
 | Alle | Brigatinib | L01ED04 | 15.07.2017 |
 | Alle | Lorlatinib | L01ED05 | 01.08.2018 |
+| Alle | Ensartinib | L01ED06 | 01.04.2026 |
 | Alle | Trametinib | L01EE01 | 01.07.2014 |
 | Alle | Cobimetinib | L01EE02 | 01.12.2015 |
 | Alle | Binimetinib | L01EE03 | 15.07.2017 |
@@ -839,7 +838,6 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Cediranib | L01EK02 | 15.11.2016 |
 | Alle | Tivozanib | L01EK03 | 01.12.2017 |
 | Alle | Frukvintinib | L01EK04 | 01.08.2023 |
-| Alle | Rilzabrutinib | L01EL | 01.04.2025 |
 | Alle | Ibrutinib | L01EL01 | 01.07.2015 |
 | Alle | Acalabrutinib | L01EL02 | 01.12.2017 |
 | Alle | Zanubrutinib | L01EL03 | 01.12.2020 |
@@ -880,6 +878,9 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Capivasertib | L01EX27 | 01.08.2023 |
 | Alle | Repotretinib | L01EX28 | 01.03.2024 |
 | Alle | Vimseltinib | L01EX29 | 01.11.2024 |
+| Alle | Pimikotinib | L01EX31 | 01.04.2026 |
+| Alle | Taletrektinib | L01EX32 | 01.08.2026 |
+| Alle | Katekventinib | L01EX33 | 01.11.2025 |
 | Alle | Rituksimab | L01FA01 | 01.07.2014 |
 | Alle | Ofatumumab | L01FA02 | 01.05.2017 |
 | Alle | Obinutuzumab | L01FA03 | 01.05.2017 |
@@ -910,6 +911,8 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Serplulimab | L01FF12 | 01.08.2023 |
 | Alle | Toripalimab | L01FF13 | 01.11.2023 |
 | Alle | Sasanlimab | L01FF16 | 01.11.2025 |
+| Alle | Cosibelimab | L01FF17 | 01.08.2026 |
+| Alle | Sintilimab | L01FF19 | 01.04.2026 |
 | Alle | Bevacizumab | L01FG01 | 01.05.2017 |
 | Alle | Ramucirumab | L01FG02 | 01.05.2017 |
 | Alle | Gemtuzumab ozogamicin | L01FX02 | 01.12.2017 |
@@ -945,7 +948,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Linvoseltamab | L01FX37 | 01.05.2024 |
 | Alle | Pertuzumab/trastuzumab | L01FY01 | 01.12.2020 |
 | Alle | Nivolumab/relatlimab | L01FY02 | 01.09.2022 |
-| Alle | Zamtocabtagenautoleucel | L01X | 01.08.2026 |
+| Alle | Zamtocabtagen autoleucel | L01X | 01.08.2026 |
 | Alle | Cisplatin | L01XA01 | 01.05.2017 |
 | Alle | Karboplatin | L01XA02 | 01.05.2017 |
 | Alle | Oksaliplatin | L01XA03 | 01.05.2017 |
@@ -987,6 +990,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Enasidenib | L01XM01 | 01.04.2019 |
 | Alle | Ivosidenib | L01XM02 | 01.11.2019 |
 | Alle | Vorasidenib | L01XM04 | 01.05.2024 |
+| Alle | Rusfertide | L01XX | 01.11.2026 |
 | Alle | Sitoiganap | L01XX | 01.06.2021 |
 | Alle | Asparaginase | L01XX02 | 01.05.2017 |
 | Alle | Krisantaspase | L01XX02 | 01.12.2022 |
@@ -1010,8 +1014,10 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Eflornithine | L01XX79 | 01.04.2025 |
 | Alle | Imetelstat | L01XX80 | 01.01.2024 |
 | Alle | Nirogacestat | L01XX81 | 01.06.2024 |
+| Alle | Sonrotoclax | L01XX88 | 01.04.2026 |
 | Alle | Cytarabine og daunorubicin | L01XY01 | 01.06.2018 |
 | Alle | Bifikafusp alfa, onfekafusp alfa | L01XY04 | 01.11.2024 |
+| Alle | Bifikafusp alfa, onfekafusp alfa | L01XY04 | 01.11.2026 |
 | Alle | Syklofosfamid | L01AA01 | 01.05.2017 |
 | Alle | Klorambucil | L01AA02 | 01.05.2017 |
 | Alle | Melfalan | L01AA03 | 01.05.2017 |
@@ -1020,15 +1026,15 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Trofosfamid | L01AA07 | 01.05.2017 |
 | Alle | Bendamustin | L01AA09 | 01.05.2017 |
 | Alle | Melfalan flufenamide | L01AA10 | 01.01.2022 |
-| Alle | Relakorilant | L02 | 15.01.2026 |
-| Alle | Imlunestrant | L02BA | 01.04.2025 |
 | Alle | Elacastrant | L02BA04 | 01.06.2023 |
 | Alle | Kamizestrant | L02BA05 | 01.11.2025 |
+| Alle | Imlunestrant | L02BA06 | 01.04.2025 |
 | Alle | Enzalutamid | L02BB04 | 01.01.2014 |
 | Alle | Apalutamide | L02BB05 | 01.06.2018 |
 | Alle | Darolutamid | L02BB06 | 01.11.2019 |
+| Alle | Rezvilutamid | L02BB07 | 01.11.2026 |
 | Alle | Abirateronacetat | L02BX03 | 01.01.2014 |
-| Alle | Zopapogene imadenovek-drba | L03 | 01.04.2026 |
+| Alle | Relakorilant | L02BX05 | 15.01.2026 |
 | Alle | Entolimod | L03A | 01.06.2018 |
 | Alle | Interferon gamma | L03AB03 | 01.02.2021 |
 | Alle | Interferon alfa-2a | L03AB04 | 01.01.2018 |
@@ -1047,15 +1053,16 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Plerixafor | L03AX16 | 01.05.2019 |
 | Alle | Leniolisib | L03AX22 | 01.06.2023 |
 | Alle | Mavoriksafor | L03AX24 | 03.05.2025 |
+| Alle | Zopapogene imadenovek | L03AX26 | 01.04.2026 |
 | Alle | Filgrastim | L03AA02 | 01.01.2016 |
 | Alle | Molgramostim | L03AA03 | 01.08.2026 |
 | Alle | Sargramostim | L03AA09 | 01.11.2025 |
 | Alle | Pegfilgrastim | L03AA13 | 01.01.2016 |
 | Alle | Lipefilgrastim | L03AA14 | 01.01.2016 |
-| Alle | Gefurulimab | L04 | 01.04.2026 |
 | Alle | Human IgG4 monoklonal antistoff mot C1q | L04 | 01.05.2026 |
-| Alle | Ikotrokinra | L04 | 15.01.2026 |
+| Alle | Mezigdomid | L04 | 01.11.2026 |
 | Alle | Povorcitinib | L04 | 15.01.2026 |
+| Alle | Cemdisiran | L04A | 01.11.2026 |
 | Alle | Etanercept | L04AB01 | 01.06.2006 |
 | Alle | Infliksimab | L04AB02 | 08.12.2009 |
 | Alle | Adalimumab | L04AB04 | 01.06.2006 |
@@ -1081,6 +1088,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Bimekizumab | L04AC21 | 01.03.2021 |
 | Alle | Spesolimab | L04AC22 | 01.09.2022 |
 | Alle | Mirikizumab | L04AC24 | 01.12.2022 |
+| Alle | Ikotrokinra | L04AC28 | 15.01.2026 |
 | Alle | ciklosporin | L04AD01 | 01.09.2020 |
 | Alle | tacrolimus | L04AD02 | 01.09.2020 |
 | Alle | Voclosporin | L04AD03 | 01.01.2022 |
@@ -1090,13 +1098,14 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Ponesimod | L04AE04 | 01.12.2020 |
 | Alle | Etrasimod | L04AE05 | 01.11.2023 |
 | Alle | Deuruksolitinib | L04AF | 01.05.2026 |
+| Alle | Zasocitinib | L04AF | 01.11.2026 |
 | Alle | Tofacitinib | L04AF01 | 01.01.2013 |
 | Alle | Baricitinib | L04AF02 | 15.11.2016 |
 | Alle | Upadacitinib | L04AF03 | 01.11.2019 |
 | Alle | Filgotinib | L04AF04 | 01.04.2020 |
 | Alle | Deukravacitinib | L04AF07 | 01.09.2022 |
 | Alle | Ritlecitinib | L04AF08 | 01.06.2023 |
-| Alle | Lanalumab | L04AG | 01.06.2026 |
+| Alle | Humant monoklonalt IgG1-antistoff mot insulinlignende vekstfaktor-1-reseptor (IGF-1R) | L04AG | 01.11.2026 |
 | Alle | Natalizumab | L04AG03 | 02.01.2018 |
 | Alle | Belimumab | L04AG04 | 01.02.2020 |
 | Alle | Vedolizumab | L04AG05 | 02.01.2018 |
@@ -1108,6 +1117,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Ofatumumab | L04AG12 | 01.10.2020 |
 | Alle | Teprotumumab | L04AG13 | 01.08.2024 |
 | Alle | Ublituksimab | L04AG14 | 01.09.2022 |
+| Alle | Lanalumab | L04AG21 | 01.06.2026 |
 | Alle | Sirolimus | L04AH01 | 01.09.2020 |
 | Alle | Everolimus | L04AH02 | 01.09.2020 |
 | Alle | Eculizumab | L04AJ01 | 01.02.2019 |
@@ -1120,6 +1130,8 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Iptacopan | L04AJ08 | 01.08.2023 |
 | Alle | Danicopan | L04AJ09 | 01.08.2023 |
 | Alle | Vilobelimab | L04AJ10 | 01.11.2023 |
+| Alle | Gefurulimab | L04AJ12 | 01.04.2026 |
+| Alle | Narsoplimab | L04AJ13 | 01.11.2025 |
 | Alle | Teriflunomid | L04AK02 | 01.10.2013 |
 | Alle[^\*] | Efgartigimod alfa | L04AL01 | 01.05.2022 |
 | Alle[^\*] | Rozanoliksizumab | L04AL02 | 01.11.2023 |
@@ -1147,12 +1159,13 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Penicillamin | M01CC01 | 01.11.2024 |
 | Alle | Dantrolene | M03CA01 | 01.08.2023 |
 | Alle | Pegloticase | M04AX02 | 01.02.2019 |
-| Alle | Navepegritid | M05 | 15.01.2026 |
 | Bondronat | Ibandronsyre | M05BA06 | 01.01.2009 |
+| Alle | Navepegritid | M05BD02 | 15.01.2026 |
 | Alle 120 mg til injeksjon[^\*\*\*] | Denosumab | M05BX04 | 01.01.2014 |
 | Alle | Burosumab | M05BX05 | 01.05.2018 |
 | Alle | Vosoritide | M05BX07 | 01.03.2021 |
 | Alle | Kollagenase clostridium histolyticum | M09AB02 | 15.02.2018 |
+| Alle | Zilurgisertib | M09AX | 01.11.2026 |
 | Alle | Kondrocytter, autologe | M09AX02 | 01.03.2024 |
 | Alle | Ataluren | M09AX03 | 01.02.2019 |
 | Alle | Eteplirsen | M09AX06 | 02.01.2018 |
@@ -1208,7 +1221,7 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Arimoclomol | N07XX17 | 01.06.2021 |
 | Alle | Arimoklomol | N07XX17 | 01.11.2025 |
 | Alle | Vutrisiran | N07XX18 | 01.09.2022 |
-| Alle | Natriumfenylbutyrat / ursodoksikoltaurin | N07XX19 | 01.12.2022 |
+| Alle | Natriumfenylbutyrat/ursodoksikoltaurin | N07XX19 | 01.12.2022 |
 | Alle | Eplontersen | N07XX21 | 01.03.2024 |
 | Alle | Tofersen | N07XX22 | 01.11.2023 |
 | Alle | Troriluzol | N07XX23 | 01.03.2024 |
@@ -1219,13 +1232,14 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Artesunate | P01BE03 | 01.06.2021 |
 | Alle | Pentamidinisetionat | P01CX01 | 01.06.2023 |
 | Alle | Brensokatib | R03 | 01.08.2025 |
+| Alle | Tozorakimab | R03DX | 01.11.2026 |
 | Alle | Reslizumab | R03DX08 | 01.01.2018 |
 | Alle | Mepolizumab | R03DX09 | 01.01.2018 |
 | Alle | Benralizumab | R03DX10 | 01.02.2018 |
 | Alle | Tezepelumab | R03DX11 | 01.05.2022 |
 | Alle | Depemokimab | R03DX12 | 01.04.2025 |
 | Bronchitol | Mannitol | R05CB16 | 01.10.2020 |
-| Alle til injeksjon/ infusjon | Klemastin | R06AA04 | 01.08.2026 |
+| Alle til injeksjon/infusjon | Klemastin | R06AA04 | 01.08.2026 |
 | Alle | Nitrogenmonoksid | R07AX01 | 01.08.2023 |
 | Alle | Ivakaftor | R07AX02 | 01.02.2019 |
 | Alle | Lumakaftor og ivakaftor | R07AX30 | 01.02.2019 |
@@ -1277,9 +1291,12 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 | Alle | Lutetium (177Lu) oksodotreotid | V10XX04 | 01.06.2018 |
 | Alle | Lutetium (177Lu) vipivotid tetraksetan | V10XX05 | 01.05.2024 |
 | Alle | Allogen fekal mikrobiota |  | 01.11.2025 |
+| Alle | Enkaleretsulfat |  | 01.11.2026 |
 | Alle | Garetosmab |  | 01.05.2026 |
 | Alle | Lenadogene nolparvovec |  | 01.03.2021 |
+| Alle | Lunsotogene parvec |  | 01.11.2026 |
 | Alle | Rovalpituzumab tesirine |  | 01.02.2018 |
+| Alle | Vamikibart |  | 01.11.2026 |
 
 \* Endring ATC i 2026.
 
@@ -1287,4 +1304,4 @@ Forskriften gjelder fra 3. mars 2008. Fra samme tidspunkt oppheves [forskrift 18
 
 \*\*\* Endring 1. mai 2026.
 
-> Tilføyd ved [forskrift 20 des 2017 nr. 2257](forskrift/2017-12-20-2257) (i kraft 2 jan 2018), endret ved forskrifter [10 jan 2018 nr. 43](forskrift/2018-01-10-43) (i kraft 1 feb 2018), [2 feb 2018 nr. 158](forskrift/2018-02-02-158) (i kraft 15 feb 2018), [20 mars 2018 nr. 552](forskrift/2018-03-20-552) (i kraft 1 mai 2018), [2 mai 2018 nr. 730](forskrift/2018-05-02-730) (i kraft 1 juni 2018), [22 juni 2018 nr. 1187](forskrift/2018-06-22-1187) (i kraft 1 aug 2018), [26 sep 2018 nr. 1569](forskrift/2018-09-26-1569) (i kraft 1 nov 2018), [6 des 2018 nr. 1898](forskrift/2018-12-06-1898) (i kraft 1 jan 2019), [29 okt 2018 nr. 2277](forskrift/2018-10-29-2277) som endret ved [forskrift 21 jan 2019 nr. 34](forskrift/2019-01-21-34) (i kraft 1 feb 2019), [27 feb 2019 nr. 261](forskrift/2019-02-27-261) (i kraft 1 april 2019), [27 mars 2019 nr. 512](forskrift/2019-03-27-512) (i kraft 1 mai 2019), [14 juni 2019 nr. 862](forskrift/2019-06-14-862) (i kraft 15 juli 2019), [25 sep 2019 nr. 1397](forskrift/2019-09-25-1397) (i kraft 1 nov 2019), [18 des 2019 nr. 2205](forskrift/2019-12-18-2205) (i kraft 1 feb 2020), [17 feb 2020 nr. 300](forskrift/2020-02-17-300) (i kraft 1 april 2020), [27 april 2020 nr. 1037](forskrift/2020-04-27-1037) (i kraft 1 juni 2020), [6 mai 2020 nr. 1659](forskrift/2020-05-06-1659) (i kraft 1 sep 2020), [1 sep 2020 nr. 1783](forskrift/2020-09-01-1783) (i kraft 1 okt 2020), [30 okt 2020 nr. 2292](forskrift/2020-10-30-2292) (i kraft 1 des 2020), [16 des 2020 nr. 2909](forskrift/2020-12-16-2909) (i kraft 1 jan 2021), [22 des 2020 nr. 3247](forskrift/2020-12-22-3247) (i kraft 1 feb 2021), [1 feb 2021 nr. 522](forskrift/2021-02-01-522) (i kraft 1 mars 2021), [24 mars 2021 nr. 1016](forskrift/2021-03-24-1016) (i kraft 1 april 2021), [28 april 2021 nr. 1536](forskrift/2021-04-28-1536) som endret ved [forskrift 26 mai 2021 nr. 1694](forskrift/2021-05-26-1694) (i kraft 1 juni 2021), [16 sep 2021 nr. 3055](forskrift/2021-09-16-3055) (i kraft 1 nov 2021), [29 nov 2021 nr. 3586](forskrift/2021-11-29-3586) (i kraft 1 jan 2022), [24 feb 2022 nr. 293](forskrift/2022-02-24-293) (i kraft 25 feb 2022), [18 mars 2022 nr. 579](forskrift/2022-03-18-579) (i kraft 1 mai 2022), [28 juli 2022 nr. 1428](forskrift/2022-07-28-1428) (i kraft 1 sep 2022), [27 okt 2022 nr. 1962](forskrift/2022-10-27-1962) (i kraft 1 des 2022), [13 des 2022 nr. 2192](forskrift/2022-12-13-2192) (i kraft 1 jan 2023), [20 jan 2023 nr. 147](forskrift/2023-01-20-147) (i kraft 1 mars 2023), [25 april 2023 nr. 700](forskrift/2023-04-25-700) (i kraft 1 juni 2023), [29 juni 2023 nr. 1267](forskrift/2023-06-29-1267) (i kraft 1 aug 2023), [22 sep 2023 nr. 1649](forskrift/2023-09-22-1649) (i kraft 1 nov 2023), [8 nov 2023 nr. 2150](forskrift/2023-11-08-2150) (i kraft 1 jan 2024), [11 jan 2024 nr. 68](forskrift/2024-01-11-68) (i kraft 1 feb 2024), [1 feb 2024 nr. 247](forskrift/2024-02-01-247) (i kraft 1 mars 2024), [7 mars 2024 nr. 580](forskrift/2024-03-07-580) (i kraft 1 mai 2024), [7 mars 2024 nr. 682](forskrift/2024-03-07-682) (i kraft 1 mai 2024), [11 april 2024 nr. 750](forskrift/2024-04-11-750) (i kraft 1 juni 2024), [18 juni 2024 nr. 1484](forskrift/2024-06-18-1484) (i kraft 1 aug 2024), [17 sep 2024 nr. 2447](forskrift/2024-09-17-2447) (i kraft 1 nov 2024), [11 nov 2024 nr. 2932](forskrift/2024-11-11-2932) (i kraft 15 des 2024), [6 nov 2024 nr. 3236](forskrift/2024-11-06-3236) (i kraft 1 jan 2025), [10 jan 2025 nr. 30](forskrift/2025-01-10-30) (i kraft 1 jan 2025), [20 jan 2025 nr. 62](forskrift/2025-01-20-62) (i kraft 1 feb 2025), [19 feb 2025 nr. 417](forskrift/2025-02-19-417) (i kraft 1 april 2025), [13 mars 2025 nr. 631](forskrift/2025-03-13-631) (i kraft 1 mai 2025), [11 juni 2025 nr. 1538](forskrift/2025-06-11-1538) (i kraft 1 aug 2025), [26 sep 2025 nr. 2027](forskrift/2025-09-26-2027) (i kraft 1 nov 2025), [1 des 2025 nr. 2606](forskrift/2025-12-01-2606) (i kraft 1 jan 2026), [16 des 2025 nr. 2951](forskrift/2025-12-16-2951) (i kraft 15 jan 2026), [16 feb 2026 nr. 272](forskrift/2026-02-16-272) (i kraft 1 april 2026), [26 mars 2026 nr. 554](forskrift/2026-03-26-554) (i kraft 1 mai 2026), [29 april 2026 nr. 746](forskrift/2026-04-29-746) (i kraft 1 juni 2026), [18 juni 2026 nr. 1354](forskrift/2026-06-18-1354) (i kraft 1 aug 2026). **Endres** ved forskrift [1 okt 2026 nr. 2083](forskrift/2026-10-01-2083) (i kraft 1 nov 2026).
+> Tilføyd ved [forskrift 20 des 2017 nr. 2257](forskrift/2017-12-20-2257) (i kraft 2 jan 2018), endret ved forskrifter [10 jan 2018 nr. 43](forskrift/2018-01-10-43) (i kraft 1 feb 2018), [2 feb 2018 nr. 158](forskrift/2018-02-02-158) (i kraft 15 feb 2018), [20 mars 2018 nr. 552](forskrift/2018-03-20-552) (i kraft 1 mai 2018), [2 mai 2018 nr. 730](forskrift/2018-05-02-730) (i kraft 1 juni 2018), [22 juni 2018 nr. 1187](forskrift/2018-06-22-1187) (i kraft 1 aug 2018), [26 sep 2018 nr. 1569](forskrift/2018-09-26-1569) (i kraft 1 nov 2018), [6 des 2018 nr. 1898](forskrift/2018-12-06-1898) (i kraft 1 jan 2019), [29 okt 2018 nr. 2277](forskrift/2018-10-29-2277) som endret ved [forskrift 21 jan 2019 nr. 34](forskrift/2019-01-21-34) (i kraft 1 feb 2019), [27 feb 2019 nr. 261](forskrift/2019-02-27-261) (i kraft 1 april 2019), [27 mars 2019 nr. 512](forskrift/2019-03-27-512) (i kraft 1 mai 2019), [14 juni 2019 nr. 862](forskrift/2019-06-14-862) (i kraft 15 juli 2019), [25 sep 2019 nr. 1397](forskrift/2019-09-25-1397) (i kraft 1 nov 2019), [18 des 2019 nr. 2205](forskrift/2019-12-18-2205) (i kraft 1 feb 2020), [17 feb 2020 nr. 300](forskrift/2020-02-17-300) (i kraft 1 april 2020), [27 april 2020 nr. 1037](forskrift/2020-04-27-1037) (i kraft 1 juni 2020), [6 mai 2020 nr. 1659](forskrift/2020-05-06-1659) (i kraft 1 sep 2020), [1 sep 2020 nr. 1783](forskrift/2020-09-01-1783) (i kraft 1 okt 2020), [30 okt 2020 nr. 2292](forskrift/2020-10-30-2292) (i kraft 1 des 2020), [16 des 2020 nr. 2909](forskrift/2020-12-16-2909) (i kraft 1 jan 2021), [22 des 2020 nr. 3247](forskrift/2020-12-22-3247) (i kraft 1 feb 2021), [1 feb 2021 nr. 522](forskrift/2021-02-01-522) (i kraft 1 mars 2021), [24 mars 2021 nr. 1016](forskrift/2021-03-24-1016) (i kraft 1 april 2021), [28 april 2021 nr. 1536](forskrift/2021-04-28-1536) som endret ved [forskrift 26 mai 2021 nr. 1694](forskrift/2021-05-26-1694) (i kraft 1 juni 2021), [16 sep 2021 nr. 3055](forskrift/2021-09-16-3055) (i kraft 1 nov 2021), [29 nov 2021 nr. 3586](forskrift/2021-11-29-3586) (i kraft 1 jan 2022), [24 feb 2022 nr. 293](forskrift/2022-02-24-293) (i kraft 25 feb 2022), [18 mars 2022 nr. 579](forskrift/2022-03-18-579) (i kraft 1 mai 2022), [28 juli 2022 nr. 1428](forskrift/2022-07-28-1428) (i kraft 1 sep 2022), [27 okt 2022 nr. 1962](forskrift/2022-10-27-1962) (i kraft 1 des 2022), [13 des 2022 nr. 2192](forskrift/2022-12-13-2192) (i kraft 1 jan 2023), [20 jan 2023 nr. 147](forskrift/2023-01-20-147) (i kraft 1 mars 2023), [25 april 2023 nr. 700](forskrift/2023-04-25-700) (i kraft 1 juni 2023), [29 juni 2023 nr. 1267](forskrift/2023-06-29-1267) (i kraft 1 aug 2023), [22 sep 2023 nr. 1649](forskrift/2023-09-22-1649) (i kraft 1 nov 2023), [8 nov 2023 nr. 2150](forskrift/2023-11-08-2150) (i kraft 1 jan 2024), [11 jan 2024 nr. 68](forskrift/2024-01-11-68) (i kraft 1 feb 2024), [1 feb 2024 nr. 247](forskrift/2024-02-01-247) (i kraft 1 mars 2024), [7 mars 2024 nr. 580](forskrift/2024-03-07-580) (i kraft 1 mai 2024), [7 mars 2024 nr. 682](forskrift/2024-03-07-682) (i kraft 1 mai 2024), [11 april 2024 nr. 750](forskrift/2024-04-11-750) (i kraft 1 juni 2024), [18 juni 2024 nr. 1484](forskrift/2024-06-18-1484) (i kraft 1 aug 2024), [17 sep 2024 nr. 2447](forskrift/2024-09-17-2447) (i kraft 1 nov 2024), [11 nov 2024 nr. 2932](forskrift/2024-11-11-2932) (i kraft 15 des 2024), [6 nov 2024 nr. 3236](forskrift/2024-11-06-3236) (i kraft 1 jan 2025), [10 jan 2025 nr. 30](forskrift/2025-01-10-30) (i kraft 1 jan 2025), [20 jan 2025 nr. 62](forskrift/2025-01-20-62) (i kraft 1 feb 2025), [19 feb 2025 nr. 417](forskrift/2025-02-19-417) (i kraft 1 april 2025), [13 mars 2025 nr. 631](forskrift/2025-03-13-631) (i kraft 1 mai 2025), [11 juni 2025 nr. 1538](forskrift/2025-06-11-1538) (i kraft 1 aug 2025), [26 sep 2025 nr. 2027](forskrift/2025-09-26-2027) (i kraft 1 nov 2025), [1 des 2025 nr. 2606](forskrift/2025-12-01-2606) (i kraft 1 jan 2026), [16 des 2025 nr. 2951](forskrift/2025-12-16-2951) (i kraft 15 jan 2026), [16 feb 2026 nr. 272](forskrift/2026-02-16-272) (i kraft 1 april 2026), [26 mars 2026 nr. 554](forskrift/2026-03-26-554) (i kraft 1 mai 2026), [29 april 2026 nr. 746](forskrift/2026-04-29-746) (i kraft 1 juni 2026), [18 juni 2026 nr. 1354](forskrift/2026-06-18-1354) (i kraft 1 aug 2026), [1 okt 2026 nr. 2083](forskrift/2026-10-01-2083) (i kraft 1 nov 2026).
