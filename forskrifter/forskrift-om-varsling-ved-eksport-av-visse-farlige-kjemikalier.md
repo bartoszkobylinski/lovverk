@@ -10,13 +10,13 @@ ministry:
   - "Klima- og miljødepartementet"
   - "Landbruks- og matdepartementet"
 date_in_force: "2020-11-04"
-last_change_in_force: "2024-08-13"
+last_change_in_force: "2026-10-30"
 last_updated: null
-xml_hash: "a5a74460ca16d488ab46cb122b4eb90b2e9f646b3eb89cbbdd0f0e1290704d19"
+xml_hash: "385e5d10585ccb5359ecc3cbc3fea0e80dac816618182c20cd11acae6d8bd485"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,6 +146,7 @@ Samtidig oppheves [forskrift 24. oktober 1995 nr. 865](forskrift/1995-10-24-865)
 | Binapacryl | 485-31-4 | Pesticide |
 | Captafol | 2425-06-1 | Pesticide |
 | Carbofuran | 1563-66-2 | Pesticide |
+| Carbosulfan | 55285-14-8 | Pesticide |
 | Chlordane | 57-74-9 | Pesticide |
 | Chlordimeform | 6164-98-3 | Pesticide |
 | Chlorobenzilate | 510-15-6 | Pesticide |
@@ -186,6 +187,7 @@ Samtidig oppheves [forskrift 24. oktober 1995 nr. 865](forskrift/1995-10-24-865)
 | – Benomyl at or above 7 %, | 17804-35-2 |  |
 | – Carbofuran at or above 10 %, | 1563-66-2 |  |
 | – Thiram at or above 15 % | 137-26-8 |  |
+| Fenthion (ultra-low-volume formulations at or above 640 g active ingredient/L) | 55-38-9 | Severely hazardous pesticide formulation |
 | Phosphamidon (soluble liquid formulations of the substance that exceed 1000 g active ingredient/l) | 13171-21-6 (mixture,<br>(E)&(Z) isomers)<br>23783-98-4 ((Z)-isomer)<br>297-99-4 ((E)-isomer) | Severely hazardous pesticide formulation |
 | Methyl-parathion (emulsifiable concentrates (EC) at or above 19.5 % active ingredient and dusts at or above 1.5 % active ingredient) | 298-00-0 | Severely hazardous pesticide formulation |
 | Asbestos: |  | Industrial |
@@ -233,7 +235,7 @@ Samtidig oppheves [forskrift 24. oktober 1995 nr. 865](forskrift/1995-10-24-865)
 
 \* Only the CAS numbers of parent compounds are listed. For a list of other relevant CAS numbers, reference may be made to the relevant decision guidance document.
 
-> Endret ved forskrifter [17 aug 2023 nr. 1340](forskrift/2023-08-17-1340), [13 aug 2024 nr. 1958](forskrift/2024-08-13-1958).
+> Endret ved forskrifter [17 aug 2023 nr. 1340](forskrift/2023-08-17-1340), [13 aug 2024 nr. 1958](forskrift/2024-08-13-1958), [30 okt 2026 nr. 2240](forskrift/2026-10-30-2240).
 
 ### Vedlegg 2. Skjema til bruk ved varsel og anmodning om eksplisitt forhåndssamtykke til eksport i samsvar med § 5 andre ledd bokstav c i denne forskriften
 
