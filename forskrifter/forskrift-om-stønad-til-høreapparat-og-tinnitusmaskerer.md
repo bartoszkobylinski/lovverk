@@ -4,18 +4,18 @@ slug: "forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer"
 type: "forskrift"
 ref_id: "forskrift/1997-04-18-337"
 title: "Forskrift om stønad til høreapparat og tinnitusmaskerer"
-short_title: "Forskrift om stønad til høreapparat og tinnitusmaskerer"
+short_title: null
 language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1997-05-01"
 last_change_in_force: "2018-10-02"
 last_updated: "2011-05-16"
-xml_hash: "635000e7987169f8fb250f88c53a178fb2341886fa7b3a4b088a7a06ee4fab7e"
+xml_hash: "5fb570018c25fab706f6662d8806bbd45599f8890fd5bc030eca36bdf69d5253"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Utgifter til reparasjon av skader som skyldes skjødesløs behandling dekkes ikk
 2. Det kan bare gis stønad til høreapparat som omfattes av leverings- og prisavtale som nevnt i [§ 6](forskrift/1997-04-18-337/§6). Unntaksvis kan det søkes om dispensasjon til å anskaffe en ny apparattype som det ikke er inngått avtale om, når dette er helt nødvendig for å oppnå et ønskelig resultat.
 3. En avtalespesialist, lege eller andre profesjonsutøvere i høreapparatformidlingen kan ikke formidle høreapparat som er levert av et firma som avtalespesialisten, legen eller profesjonsutøveren eller noen av deres nærmeste pårørende har økonomiske interesser i.
 
-> Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+> Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433). **Endres** ved forskrift [21 sep 2026 nr. 2199](forskrift/2026-09-21-2199) (i kraft 1 jan 2027).
 
 ### § 5. Undersøkelse og tilpasning
 
@@ -147,4 +147,4 @@ Stønad til tinnitusmaskerer kan ytes opp til satser fastsatt av departementet. 
 
 Forskriften trer i kraft den 1. mai 1997.
 
-> Endret [9 jan 1998 nr. 24](forskrift/1998-01-09-24) (tidligere [§ 12](forskrift/1998-01-09-24/§12)).
+> Endret [9 jan 1998 nr. 24](forskrift/1998-01-09-24) (tidligere § 12).
