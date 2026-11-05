@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-04-15"
 last_change_in_force: "2025-05-13"
 last_updated: "2025-11-01"
-xml_hash: "888a06ee20cbbe1634ccfd38124e7e54c41034f9d9c5fe554621d3c928e63824"
+xml_hash: "67c0ea0a716b848cc857a0800fed1679896bd6c76511a4a1488d41742a1f06c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-29T10:43:20.895400+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3438,7 +3438,7 @@ Pineau des Charentes eller Pineau charentais, Floc de Gascogne, Macvin du Jura.
 
 Moscato di Noto.
 
-►**M2** ◄**M2**
+►**M2** ◄ **M2**
 
 3\. Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av vin med en opprinnelig naturlig alkoholstyrke på minst 10,5 volumprosent
 
@@ -10621,7 +10621,7 @@ B. LISTE OVER STERKVINER MED BESKYTTET OPPRINNELSESBETEGNELSE HVIS FRAMSTILLING 
    **ITALIA**
 
    - Moscato di Noto
-3. 3.**Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av vin med en opprinnelig naturlig alkoholstyrke på minst 10,5 volumprosent**
+3. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av vin med en opprinnelig naturlig alkoholstyrke på minst 10,5 volumprosent**
 
    **SPANIA**
 
@@ -10633,7 +10633,7 @@ B. LISTE OVER STERKVINER MED BESKYTTET OPPRINNELSESBETEGNELSE HVIS FRAMSTILLING 
    **ITALIA**
 
    - Trentino
-4. 4.**Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost i gjæring med en opprinnelig naturlig alkoholstyrke på minst 9 volumprosent**
+4. **Liste over sterkviner med beskyttet opprinnelsesbetegnelse framstilt av druemost i gjæring med en opprinnelig naturlig alkoholstyrke på minst 9 volumprosent**
 
    **PORTUGAL**
 
