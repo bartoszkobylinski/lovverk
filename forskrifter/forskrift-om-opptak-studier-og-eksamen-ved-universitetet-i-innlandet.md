@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "fda47208aacdc5d71e7777c3ec8dbe5ccb6fe0c6423d94c67236e7c62f68fbc5"
+xml_hash: "91c4be39a5463a865077563f2425ae0c5ad41851464523bf86fbfa274b771772"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -446,7 +446,7 @@ Studieretten opphører automatisk når:
 
 ### § 6-6. Antall eksamensforsøk for masteroppgaver, bacheloroppgaver og tilsvarende selvstendig arbeid
 
-(1) Dersom en masteroppgave, bacheloroppgave eller et tilsvarende selvstendig arbeid(fordypningsoppgave, FoU-oppgave, prosjektoppgave e.l.) er vurdert til ikke bestått, kan omarbeidet oppgave leveres til sensur på nytt én gang og til avtalt tidspunkt.
+(1) Dersom en masteroppgave, bacheloroppgave eller et tilsvarende selvstendig arbeid (fordypningsoppgave, FoU-oppgave, prosjektoppgave e.l.) er vurdert til ikke bestått, kan omarbeidet oppgave leveres til sensur på nytt én gang og til avtalt tidspunkt.
 
 (2) Ved annullert oppgave kan studenten skrive ny oppgave én gang etter fastsatte retningslinjer.
 
