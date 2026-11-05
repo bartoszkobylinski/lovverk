@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2013-01-01"
-last_change_in_force: "2025-12-17"
+last_change_in_force: "2026-10-31"
 last_updated: null
-xml_hash: "939fa2e7d595020db044ae14ed14ef3d21a4a03687a4e43f3782079d66bc05a5"
+xml_hash: "6c4b42c06135ac313560d69f9edca12bfae9b83787de3b34d27dd5b413dd932b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,22 +100,22 @@ Vedlegg 4: Omregningsfaktorer for matriseberegning
 
 For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise, deklarasjon og fast nedsatt tollavgiftssats, som anvist i tabellen nedenfor.
 
-- *MX1:* Tollavgiftssats etter matrise jf. [paragraf 2, andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).
-- *MX2:* Tollavgiftssats etter matrise, jf. [paragraf 2 andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Libanon, Marokko, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).
-- *D1:* Tollavgiftssats etter deklarasjon jf. [paragraf 2, tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2).
-- *D2:* Tollavgiftssats etter deklarasjon jf. [paragraf 2 tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Libanon, Marokko, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2)
+- *MX1:* Tollavgiftssats etter matrise, jf. [§ 2 andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/vedlegg4).
+- *MX2:* Tollavgiftssats etter matrise, jf. [§ 2 andre ledd](forskrift/2012-12-20-1424/§2/ledd/2), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Kosovo, Libanon, Marokko, MERCOSUR, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2), [3](forskrift/2012-12-20-1424/vedlegg3) og [4](forskrift/2012-12-20-1424/4).
+- *D1:* Tollavgiftssats etter deklarasjon, jf. [§ 2 tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse tredjeland og GSP. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2).
+- *D2:* Tollavgiftssats etter deklarasjon, jf. [§ 2 tredje ledd](forskrift/2012-12-20-1424/§2/ledd/3), for opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Jordan, Kosovo, Libanon, Marokko, MERCOSUR, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen. Se [vedlegg 2](forskrift/2012-12-20-1424/vedlegg2).
 
 | *1* | *2* | *3* | *4* | *5* |
 | --- | --- | --- | --- | --- |
 | *TOLLVARENUMMER* | *TREDJELANDS TOLL[^1]* | *EØS/EFTA TOLL[^2]* | *FTA TOLL[^3]* | *GSP TOLL[^4]* |
-| 04.03.2020 | 20,54 | 11,55 | 11,55 | 20,54 |
-| 04.03.2030 | 6,37 | 3,12 | 3,12 | 6,37 |
+| 04.03.2020 | 20,54 | 11,60 | 11,60 | 20,54 |
+| 04.03.2030 | 6,37 | 3,13 | 3,13 | 6,37 |
 | 04.03.2040 | 0,68 + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 04.03.2091 | 5,87 | 3,10 | 3,10 | 5,87 |
 | 04.03.9001 | 5,87 | 3,10 | 3,10 | 5,87 |
-| 04.03.9002 | 6,37 | 3,12 | 3,12 | 6,37 |
-| 17.04.1000[^6] [^18] | 1,91 | 0,79 | 0,79 | 1,06 |
-| 17.04.9010[^18] | 1,32 | 0,35 | 0,35 | 0,47 |
+| 04.03.9002 | 6,37 | 3,13 | 3,13 | 6,37 |
+| 17.04.1000[^6] [^18] [^20] | 1,91 | 0,79 | 0,79 | 1,06 |
+| 17.04.9010[^18] [^19] [^20] | 1,32 | 0,35 | 0,35 | 0,47 |
 | 17.04.9091 | 3,88 | 2,18 | 2,18 | 3,03 |
 | 17.04.9099 | 0,85 + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 18.06.2011 | 17,71 | 11,55 | 11,55 | 16,86 |
@@ -144,7 +144,7 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 | 19.02.2099 | 0,85 + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 19.02.3001 | 0,85 + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 19.02.3009 | 0,85 + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
-| 19.02.4000[^18] | 2,87 | 1,39 | 1,39 | 2,02 |
+| 19.02.4000[^18] [^19] | 2,87 | 1,39 | 1,39 | 2,02 |
 | 19.03.0000 | 7,65 | 4,41 | 4,41 | 7,65 |
 | 19.04.1091 | [^5] 0,34 + MX1 | 0,00 | 0,00 | [^5] 0,00 + MX1 |
 | 19.04.1092 | 1,78 | 1,73 | 1,78 | 1,60 |
@@ -172,10 +172,10 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 | 20.04.1020 | 5,86 | 5,52 | 5,52 | 5,69 |
 | 20.05.2010 | 11,93 | 11,41 | 11,41 | 11,76 |
 | 20.05.2020 | 5,86 | 5,52 | 5,52 | 5,69 |
-| 20.06.0031[^12] [^14] [^18] | 0,64 | 0,64 | 0,00 | 0,00 |
+| 20.06.0031[^12] [^14] [^18] [^19] | 0,64 | 0,64 | 0,00 | 0,00 |
 | 20.06.0091[^11] [^14] | 2,00 | 1,94 | 1,94 | 0,00 |
 | 20.08.9903[^15] | 0,64 + MX1 | [^9] 0,00 + MX2 | 0,64 + MX2 | 0,54 + MX1 |
-| 21.03.2021[^18] | 0,59 | 0,35 | 0,35 | 0,59 |
+| 21.03.2021[^18] [^19] | 0,59 | 0,35 | 0,35 | 0,59 |
 | 21.03.2029[^18] | 0,59 | 0,35 | 0,35 | 0,59 |
 | 21.03.9010 | 2,49 | 1,97 | 1,97 | 2,49 |
 | 21.03.9091 | 0,00 + D1 | 0,00 | 0,00 | 0,00 + D1 |
@@ -190,12 +190,12 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 | 21.04.2001 | 1,02 + MX1 | 0,00 + MX2 | 1,02 + MX2 | 0,87 + MX1 |
 | 21.04.2009 | 1,02 + MX1 | 0,00 + MX2 | 1,02 + MX2 | 0,87 + MX1 |
 | 21.05.0010 | 9,66 | 4,00 | 4,00 | 6,18 |
-| 21.05.0020 | 10,92 | 4,02 | 4,02 | 6,56 |
-| 21.06.1002 | 2,68 | 2,68 | 2,68 | 2,41 |
+| 21.05.0020 | 10,92 | 4,03 | 4,03 | 6,56 |
+| 21.06.1002 [^21] | 2,68 | 2,68 | 2,68 | 2,41 |
 | 21.06.1003 | 2,68 | 2,68 | 2,68 | 2,41 |
 | 21.06.1009 | 0,79 + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 21.06.9060 | 25,5 % + 3,92 | [^10] 0,00 + MX2 | [^10] 0,00 + MX2 | 3,92 |
-| 21.06.9094 | 25,5 % + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
+| 21.06.9094 [^22] | 25,5 % + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 21.06.9095 | 25,5 % + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 21.06.9098[^17] | 25,5 % + MX1 | 0,00 + MX2 | 0,00 + MX2 | 0,00 + MX1 |
 | 22.02.9920 | 3,59 | 2,12 | 2,12 | 2,74 |
@@ -207,7 +207,7 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 
 1 Tollavgiftssats fra tredjeland gjelder for import av varer fra land ikke omfattet av Norges frihandelsavtaler eller GSP-ordningen.
 
-2 Tollavgiftssats for EØS/EFTA gjelder for varer med opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Libanon, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen.
+2 Tollavgiftssats for EØS/EFTA gjelder for varer med opprinnelse Albania, Bosnia-Hercegovina, Canada, Chile, Colombia, Costa Rica, Ecuador, EFTA, EØS, EU, Filippinene, Georgia, GCC (Samarbeidsrådet for Gulf-statene), GSP+ (lavere mellominntektsland), Hongkong SAR, India, Indonesia, Israel, Kosovo, Libanon, MERCOSUR, Moldova, Montenegro, Panama, Peru, Republikken Nord-Makedonia, SACU (Den sørafrikanske tollunion), Serbia, Singapore, Storbritannia, Sør-Korea, Tunisia, Tyrkia, Ukraina og Vestbredden/Gazastripen.
 
 3 Tollavgiftsats for FTA gjelder for varer med opprinnelse Jordan og Marokko.
 
@@ -227,9 +227,9 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 
 11 Ved import fra Jordan, Marokko og Mexico er tollavgiftssatsen fastsatt til 1,36 kr/kg.
 
-12 Ved import fra Mexico under varenummer 20.06.0031 er tollavgiftssatsen fastsatt til 0 kr/kg.
+12 Ved import fra Mexico og Moldova under varenummer 20.06.0031 er tollavgiftssatsen fastsatt til 0 kr/kg.
 
-13 Ved import fra Albania, Chile, Canada, Filippinene, Georgia, Hongkong SAR, Indonesia, Montenegro, SACU (Den sørafrikanske tollunion), Serbia, Tyrkia og Ukraina er tollavgiftssatsen fastsatt lik ordinær tollavgiftssats.
+13 Ved import fra Albania, Chile, Canada, Filippinene, Georgia, Hongkong SAR, Indonesia, Montenegro, MERCOSUR, SACU (Den sørafrikanske tollunion), Serbia, Tyrkia og Ukraina er tollavgiftssatsen fastsatt lik ordinær tollavgiftssats.
 
 14 Det kan gis fritak for tollavgift for varer under varenummer 20.06.0031 og 20.06.0091, når disse ikke skal benyttes til dyrefôr. Det er et vilkår at varen har opprinnelse i et land kategorisert i kolonne 3 eller 4 i vedlegget.
 
@@ -241,7 +241,15 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 
 18 Ved import fra Storbritannia under varenumrene 17.04.1000, 17.04.9010, 19.02.4000, 20.06.0031, 21.03.2021 og 21.03.2029 er tollavgiftssatsen fastsatt til 0 kr/kg.
 
-> Endret ved [forskrifter 28 aug 2013 nr. 1252](forskrift/2013-08-28-1252) (i kraft 1 sep 2013), [11 des 2014 nr. 1581](forskrift/2014-12-11-1581) (i kraft 1 jan 2015), [2 sep 2015 nr. 1020](forskrift/2015-09-02-1020) (i kraft 1 sep 2015), [27 sep 2016 nr. 1207](forskrift/2016-09-27-1207) (i kraft 1 sep 2016), [20 mars 2018 nr. 387](forskrift/2018-03-20-387) (i kraft 1 sep 2017), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 juni 2018), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 sep 2018), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 jan 2019), [4 des 2020 nr. 2778](forskrift/2020-12-04-2778) (i kraft 1 sep 2020), [4 des 2020 nr. 2778](forskrift/2020-12-04-2778) (i kraft 1 nov 2020), [15 des 2020 nr. 2901](forskrift/2020-12-15-2901) (i kraft 1 jan 2021), [15 des 2020 nr. 2901](forskrift/2020-12-15-2901) (i kraft 1 jan 2021, jf. meddelelse [29 des 2020 nr. 3176](forskrift/2020-12-29-3176)), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 aug 2021), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 sep 2021), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 okt 2021), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 nov 2021), [14 des 2021 nr. 3533](forskrift/2021-12-14-3533) (i kraft 1 jan 2022), [14 des 2021 nr. 3537](forskrift/2021-12-14-3537) (i kraft 1 jan 2022), [15 des 2021 nr. 3604](forskrift/2021-12-15-3604) (i kraft 1 jan 2022), [24 aug 2022 nr. 1488](forskrift/2022-08-24-1488) (i kraft 1 sep 2022), [15 des 2022 nr. 2320](forskrift/2022-12-15-2320) (i kraft 1 jan 2023), [25 okt 2023 nr. 1740](forskrift/2023-10-25-1740) (i kraft 1 sep 2023), [6 feb 2024 nr. 196](forskrift/2024-02-06-196), [5 des 2024 nr. 2942](forskrift/2024-12-05-2942), [17 des 2025 nr. 2646](forskrift/2025-12-17-2646).
+19 Ved import fra MERCOSUR under varenumrene 17.04.9010, 19.02.4000, 20.06.0031 og 21.03.2021 er tollavgiftssatsen fastsatt til 0 kr/kg.
+
+20 Ved import fra India under varenummer 17.04.1000 og 17.04.9010 er tollavgiftssatsen fastsatt til 0 kr/kg.
+
+21 Ved import fra Filippinene, India, Indonesia, Kosovo, MERCOSUR, Moldova og Storbritannia under varenummer 21.06.1002 er tollavgiftssatsen fastsatt til 0 kr/kg.
+
+22 Ved import fra Filippinene, Indonesia, MERCOSUR, Moldova og Storbritannia under varenummer 21.06.9094 er tollavgiftssatsen fastsatt til 0 kr/kg.
+
+> Endret ved [forskrifter 28 aug 2013 nr. 1252](forskrift/2013-08-28-1252) (i kraft 1 sep 2013), [11 des 2014 nr. 1581](forskrift/2014-12-11-1581) (i kraft 1 jan 2015), [2 sep 2015 nr. 1020](forskrift/2015-09-02-1020) (i kraft 1 sep 2015), [27 sep 2016 nr. 1207](forskrift/2016-09-27-1207) (i kraft 1 sep 2016), [20 mars 2018 nr. 387](forskrift/2018-03-20-387) (i kraft 1 sep 2017), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 juni 2018), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 sep 2018), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 jan 2019), [4 des 2020 nr. 2778](forskrift/2020-12-04-2778) (i kraft 1 sep 2020), [4 des 2020 nr. 2778](forskrift/2020-12-04-2778) (i kraft 1 nov 2020), [15 des 2020 nr. 2901](forskrift/2020-12-15-2901) (i kraft 1 jan 2021), [15 des 2020 nr. 2901](forskrift/2020-12-15-2901) (i kraft 1 jan 2021, jf. meddelelse [29 des 2020 nr. 3176](forskrift/2020-12-29-3176)), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 aug 2021), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 sep 2021), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 okt 2021), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 nov 2021), [14 des 2021 nr. 3533](forskrift/2021-12-14-3533) (i kraft 1 jan 2022), [14 des 2021 nr. 3537](forskrift/2021-12-14-3537) (i kraft 1 jan 2022), [15 des 2021 nr. 3604](forskrift/2021-12-15-3604) (i kraft 1 jan 2022), [24 aug 2022 nr. 1488](forskrift/2022-08-24-1488) (i kraft 1 sep 2022), [15 des 2022 nr. 2320](forskrift/2022-12-15-2320) (i kraft 1 jan 2023), [25 okt 2023 nr. 1740](forskrift/2023-10-25-1740) (i kraft 1 sep 2023), [6 feb 2024 nr. 196](forskrift/2024-02-06-196), [5 des 2024 nr. 2942](forskrift/2024-12-05-2942), [17 des 2025 nr. 2646](forskrift/2025-12-17-2646), [31 okt 2026 nr. 2221](forskrift/2026-10-31-2221).
 
 ### Vedlegg 2 – Satser for beregning av råvareavhengig toll (matrise- og deklarasjonsberegning)
 
@@ -303,12 +311,12 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 | FÅREKJØTTSORTERING 25 % | – | – | 10,47 | 8,63 |
 | HØNS | – | – | 3,68 | 3,02 |
 | ANNET FETT ENN SMØR | – | – | 0 | 0 |
-| BRINGEBÆR[^1] | 6,24 | 1,02[^2] | 6,24 | 1,02[^2] |
-| BRINGEBÆRKONSENTRAT | – | – | 32,32 | 5,28[^2] |
+| BRINGEBÆR[^1] | 6,24 | 0,37[^2] | 6,24 | 0,37[^2] |
+| BRINGEBÆRKONSENTRAT | – | – | 32,32 | 1,92[^2] |
 | SOLBÆR | – | – | 6,24 | 0,00[^2] |
 | SOLBÆRKONSENTRAT | – | – | 16,86 | 0,00[^2] |
-| JORDBÆR | – | – | 6,24 | 0,28[^2] |
-| JORDBÆRKONSENTRAT | – | – | 32,32 | 1,45[^2] |
+| JORDBÆR | – | – | 6,24 | 0,43[^2] |
+| JORDBÆRKONSENTRAT | – | – | 32,32 | 2,23[^2] |
 | EPLEPULP | – | – | 0 | 0 |
 | EPLEKONSENTRAT | – | – | 0 | 0 |
 | OST, NATURELL[^1] | 27,15 | 20,08 | 27,15 | 20,08 |
@@ -321,11 +329,11 @@ For ferdigvarer omfattet av vedlegget fastsettes tollavgiftssatser etter matrise
 | EGGEHVITE, FLYTENDE | – | – | 0 | 0 |
 | EGGEHVITEPULVER | – | – | 0 | 0 |
 
-1 For matrisevarene regnes ferdigvarens tollavgiftssats ut basert på representantvarene markert med 1. Andre råvarer regnes om til representantvarene ved hjelp av omregningsfaktorene i vedlegg 4.
+1 For matrisevarene regnes ferdigvarens tollavgiftssats ut basert på representantvarene markert med 1. Andre råvarer regnes om til representantvarene ved hjelp av omregningsfaktorene i [vedlegg 4](forskrift/2012-12-20-1424/vedlegg4).
 
 2 Satsene kan justeres 1. september hvert år.
 
-> Endret ved [forskrifter 28 aug 2013 nr. 1252](forskrift/2013-08-28-1252) (i kraft 1 sep 2013), [2 sep 2015 nr. 1020](forskrift/2015-09-02-1020) (i kraft 1 sep 2015), [27 sep 2016 nr. 1207](forskrift/2016-09-27-1207) (i kraft 1 sep 2016), [20 mars 2018 nr. 387](forskrift/2018-03-20-387) (i kraft 1 sep 2017), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 sep 2018), [4 des 2020 nr. 2778](forskrift/2020-12-04-2778) (i kraft 1 sep 2020), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 sep 2021), [24 aug 2022 nr. 1488](forskrift/2022-08-24-1488) (i kraft 1 sep 2022), [15 des 2022 nr. 2320](forskrift/2022-12-15-2320) (i kraft 1 jan 2023), [25 okt 2023 nr. 1740](forskrift/2023-10-25-1740) (i kraft 1 sep 2023), [5 des 2024 nr. 2942](forskrift/2024-12-05-2942), [17 des 2025 nr. 2646](forskrift/2025-12-17-2646).
+> Endret ved [forskrifter 28 aug 2013 nr. 1252](forskrift/2013-08-28-1252) (i kraft 1 sep 2013), [2 sep 2015 nr. 1020](forskrift/2015-09-02-1020) (i kraft 1 sep 2015), [27 sep 2016 nr. 1207](forskrift/2016-09-27-1207) (i kraft 1 sep 2016), [20 mars 2018 nr. 387](forskrift/2018-03-20-387) (i kraft 1 sep 2017), [12 feb 2019 nr. 211](forskrift/2019-02-12-211) (i kraft 1 sep 2018), [4 des 2020 nr. 2778](forskrift/2020-12-04-2778) (i kraft 1 sep 2020), [16 nov 2021 nr. 3234](forskrift/2021-11-16-3234) (i kraft 1 sep 2021), [24 aug 2022 nr. 1488](forskrift/2022-08-24-1488) (i kraft 1 sep 2022), [15 des 2022 nr. 2320](forskrift/2022-12-15-2320) (i kraft 1 jan 2023), [25 okt 2023 nr. 1740](forskrift/2023-10-25-1740) (i kraft 1 sep 2023), [5 des 2024 nr. 2942](forskrift/2024-12-05-2942), [17 des 2025 nr. 2646](forskrift/2025-12-17-2646), [31 okt 2026 nr. 2221](forskrift/2026-10-31-2221).
 
 ### Vedlegg 3 – Matriser
 
