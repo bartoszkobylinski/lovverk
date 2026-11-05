@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-16"
-xml_hash: "12574cf8495979e4452b06ea90f0a9cc779927bf34bb528625446aa5a2285fe1"
+xml_hash: "da9215e0b8c5631a06f9be6974bb8d8e2395408bac35d64e6c5783a8424a987e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2641,7 +2641,7 @@ For å bli godkjent må produsentansvarsselskapet sannsynliggjøre overfor Milj�
 
 Produsentansvarsselskap kan søke om godkjenning for kollektiv oppfyllelse av forpliktelser knyttet til alle typer fiskeutstyr som inneholder plast eller til enkelte typer av slikt utstyr. For å bli godkjent som produsentansvarsselskap for utstyr til fiskeri som inneholder plast, må produsentansvarsselskapet likevel også bli godkjent for alle typer utstyr til fritidsfiske som inneholder plast.
 
-Dersom Miljødirektoratet finner at individuell oppfyllelse vil medføre særlig høy grad av separat innsamling, forberedelse til ombruk eller materialgjenvinning, kan Miljødirektoratetetter søknad godkjenne at et produsentansvarsselskaps forpliktelser begrenses til de typer fiskeutstyr en produsent bringer i omsetning, eller enkelte av disse.
+Dersom Miljødirektoratet finner at individuell oppfyllelse vil medføre særlig høy grad av separat innsamling, forberedelse til ombruk eller materialgjenvinning, kan Miljødirektoratet etter søknad godkjenne at et produsentansvarsselskaps forpliktelser begrenses til de typer fiskeutstyr en produsent bringer i omsetning, eller enkelte av disse.
 
 Miljødirektoratet kan stille vilkår ved godkjenning.
 
