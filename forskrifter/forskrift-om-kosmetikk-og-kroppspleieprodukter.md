@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-04-08"
 last_change_in_force: "2026-07-13"
 last_updated: "2025-01-27"
-xml_hash: "1f8f268cd754e0c2deafd74cdc67ef90ec7c50a40da581d911db4412fe13bce5"
+xml_hash: "96ee2278a683fe6a290ed8775b3cad8587a0ad5e350403e1e97fbc13f51c2018"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1600,7 +1600,7 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 487 | Brenngasser, råoljedestillater, dersom de inneholder > 0,1 vektprosent butadien | 68476-29-9 | 270-670-9 |
 | 488 | Hydrokarboner, C3-4, dersom de inneholder > 0,1 vektprosent butadien | 68476-40-4 | 270-681-9 |
 | 489 | Hydrokarboner, C4-5, dersom de inneholder > 0,1 vektprosent butadien | 68476-42-6 | 270-682-4 |
-| 490 | Hydrokarboner, C2-4, C3-rike, dersom de inneholder > 0,1 vektprosent butadien | 68476-49-3 | 270-689-2 |
+| 490 | Hydrokarboner, C2-4, C3 -rike, dersom de inneholder > 0,1 vektprosent butadien | 68476-49-3 | 270-689-2 |
 | 491 | Petroleumsgasser, kondenserte, dersom de inneholder > 0,1 vektprosent butadien | 68476-85-7 | 270-704-2 |
 | 492 | Petroleumsgasser, kondenserte, avsvovlede, dersom de inneholder > 0,1 vektprosent butadien | 68476-86-8 | 270-705-8 |
 | 493 | Gasser (petroleum), C3-4, isobutanrike, dersom de inneholder > 0,1 vektprosent butadien | 68477-33-8 | 270-724-1 |
@@ -1611,9 +1611,9 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 498 | Gasser (petroleum), blandingsolje-, hydrogen- og nitrogenrike, dersom de inneholder > 0,1 vektprosent butadien | 68477-68-9 | 270-749-8 |
 | 499 | Gasser (petroleum), butan splitter toppfraksjoner, dersom de inneholder > 0,1 vektprosent butadien | 68477-69-0 | 270-750-3 |
 | 500 | Gasser (petroleum), C2-3, dersom de inneholder > 0,1 vektprosent butadien | 68477-70-3 | 270-751-9 |
-| 501 | Gasser (petroleum), katalytisk krakket gassolje propantårn bunnfraksjoner, C4-rike syrefrie, dersom de inneholder > 0,1 vektprosent butadien | 68477-71-4 | 270-752-4 |
+| 501 | Gasser (petroleum), katalytisk krakket gassolje propantårn bunnfraksjoner, C4 -rike syrefrie, dersom de inneholder > 0,1 vektprosent butadien | 68477-71-4 | 270-752-4 |
 | 502 | Gasser (petroleum), katalytisk krakket nafta butantårn bunnfraksjoner, C3-5-rike, dersom de inneholder > 0,1 vektprosent butadien | 68477-72-5 | 270-754-5 |
-| 503 | Gasser (petroleum), katalytisk krakket nafta propantårn toppfraksjoner, C3-rike syrefrie, dersom de inneholder > 0,1 vektprosent butadien | 68477-73-6 | 270-755-0 |
+| 503 | Gasser (petroleum), katalytisk krakket nafta propantårn toppfraksjoner, C3 -rike syrefrie, dersom de inneholder > 0,1 vektprosent butadien | 68477-73-6 | 270-755-0 |
 | 504 | Gasser (petroleum), katalytisk krakking, dersom de inneholder > 0,1 vektprosent butadien | 68477-74-7 | 270-756-6 |
 | 505 | Gasser (petroleum), katalytisk krakking, C1-5-rike, dersom de inneholder > 0,1 vektprosent butadien | 68477-75-8 | 270-757-1 |
 | 506 | Gasser (petroleum), katalytisk polymerisert nafta stabilisator toppfraksjon, C2-4-rike, dersom de inneholder > 0,1 vektprosent butadien | 68477-76-9 | 270-758-7 |
@@ -1652,7 +1652,7 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 539 | Restgass (petroleum), katalytisk reformert naftastabilisator, dersom det inneholder > 0,1 vektprosent butadien | 68478-28-4 | 270-808-8 |
 | 540 | Restgass (petroleum), krakket destillat hydrogenbehandlingsseparator, dersom det inneholder > 0,1 vektprosent butadien | 68478-29-5 | 270-809-3 |
 | 541 | Restgass (petroleum), hydrogenavsvovlet direktedestillert naftaseparator, dersom det inneholder > 0,1 vektprosent butadien | 68478-30-8 | 270-810-9 |
-| 542 | Restgass (petroleum), saturatgassanlegg blandet strøm, C4-rik, dersom det inneholder > 0,1 vektprosent butadien | 68478-32-0 | 270-813-5 |
+| 542 | Restgass (petroleum), saturatgassanlegg blandet strøm, C4 -rik, dersom det inneholder > 0,1 vektprosent butadien | 68478-32-0 | 270-813-5 |
 | 543 | Restgass (petroleum), saturatgassgjenvinningsanlegg blandet strøm, C1-2 -rik, dersom det inneholder > 0,1 vektprosent butadien | 68478-33-1 | 270-814-0 |
 | 544 | Restgass (petroleum), vakuumrester termisk krakker, dersom det inneholder > 0,1 vektprosent butadien | 68478-34-2 | 270-815-6 |
 | 545 | Hydrokarboner, C3-4, petroleumsdestillat, dersom de inneholder > 0,1 vektprosent butadien | 68512-91-4 | 270-990-9 |
@@ -1662,7 +1662,7 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 549 | Gasser (petroleum), lett direktedestillert naftastabilisator, dersom de inneholder > 0,1 vektprosent butadien | 68513-17-7 | 271-002-9 |
 | 550 | Gasser (petroleum), reformerutløp høytrykks-ekspansjonskammer av-, dersom de inneholder > 0,1 vektprosent butadien | 68513-18-8 | 271-003-4 |
 | 551 | Gasser (petroleum), reformerutløp lavtrykks-ekspansjonskammer av-, dersom de inneholder > 0,1 vektprosent butadien | 68513-19-9 | 271-005-5 |
-| 552 | Reststoffer (petroleum), alkyleringssplitter, C4-rike, dersom de inneholder > 0,1 vektprosent butadien | 68513-66-6 | 271-010-2 |
+| 552 | Reststoffer (petroleum), alkyleringssplitter, C4 -rike, dersom de inneholder > 0,1 vektprosent butadien | 68513-66-6 | 271-010-2 |
 | 553 | Hydrokarboner, C1-4, dersom de inneholder > 0,1 vektprosent butadien | 68514-31-8 | 271-032-2 |
 | 554 | Hydrokarboner, C1-4, avsvovlede, dersom de inneholder > 0,1 vektprosent butadien | 68514-36-3 | 271-038-5 |
 | 555 | Gasser (petroleum), oljeraffinerigass destillasjon, dersom de inneholder > 0,1 vektprosent butadien | 68527-15-1 | 271-258-1 |
@@ -1710,18 +1710,18 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 597 | Gasser (petroleum), direktedestillert nafta katalytisk reformer stabilisator toppfraksjon, dersom de inneholder > 0,1 vektprosent butadien | 68955-34-0 | 273-270-2 |
 | 598 | Gasser (petroleum), råoljedestillasjon og katalytisk krakking, dersom de inneholder > 0,1 vektprosent butadien | 68989-88-8 | 273-563-5 |
 | 599 | Hydrokarboner, C4, dersom de inneholder > 0,1 vektprosent butadien | 87741-01-3 | 289-339-5 |
-| 600 | Alkaner, C1-4, C3-rike, dersom de inneholder > 0,1 vektprosent butadien | 90622-55-2 | 292-456-4 |
+| 600 | Alkaner, C1-4, C3 -rike, dersom de inneholder > 0,1 vektprosent butadien | 90622-55-2 | 292-456-4 |
 | 601 | Gasser (petroleum), gassolje dietanolaminskrubber av-, dersom de inneholder > 0,1 vektprosent butadien | 92045-15-3 | 295-397-2 |
 | 602 | Gasser (petroleum), gassolje hydrogenavsvovling utløps-, dersom de inneholder > 0,1 vektprosent butadien | 92045-16-4 | 295-398-8 |
 | 603 | Gasser (petroleum), gassolje hydrogenavsvovling utspyling, dersom de inneholder > 0,1 vektprosent butadien | 92045-17-5 | 295-399-3 |
 | 604 | Gasser (petroleum), hydrogenatorutløp ekspansjonskammer av-, dersom de inneholder > 0,1 vektprosent butadien | 92045-18-6 | 295-400-7 |
 | 605 | Gasser (petroleum), nafta dampkrakking høytrykksrest, dersom de inneholder > 0,1 vektprosent butadien | 92045-19-7 | 295-401-2 |
 | 606 | Restgasser (petroleum), viskositetsreduksjon av reststoffer (visbryting), dersom de inneholder > 0,1 vektprosent butadien | 92045-20-0 | 295-402-8 |
-| 607 | Gasser (petroleum), dampkrakker C3-rike, dersom de inneholder > 0,1 vektprosent butadien | 92045-22-2 | 295-404-9 |
+| 607 | Gasser (petroleum), dampkrakker C3 -rike, dersom de inneholder > 0,1 vektprosent butadien | 92045-22-2 | 295-404-9 |
 | 608 | Hydrokarboner, C4, dampkrakkerdestillat, dersom de inneholder > 0,1 vektprosent butadien | 92045-23-3 | 295-405-4 |
 | 609 | Petroleumsgasser, kondenserte, avsvovlede, C4 -fraksjon, dersom de inneholder > 0,1 vektprosent butadien | 92045-80-2 | 295-463-0 |
 | 610 | Hydrokarboner, C4, 1,3-butadien- og isobuten-frie, dersom de inneholder > 0,1 vektprosent butadien | 95465-89-7 | 306-004-1 |
-| 611 | Raffinater (petroleum), dampkrakket C4 -fraksjon, kobberammoniumacetat-ekstraksjon, C3– og C5-umettede, butadienfrie, dersom de inneholder > 0,1 vektprosent butadien | 97722-19-5 | 307-769-4 |
+| 611 | Raffinater (petroleum), dampkrakket C4 -fraksjon, kobberammoniumacetat-ekstraksjon, C3 – og C5 -umettede, butadienfrie, dersom de inneholder > 0,1 vektprosent butadien | 97722-19-5 | 307-769-4 |
 | 612 | Benzo[def]krysen (benzo[a]pyren) | 50-32-8 | 200-028-5 |
 | 613 | Bek, steinkulltjære petroleum, dersom den inneholder > 0,005 vektprosent benzo[a]pyren | 68187-57-5 | 269-109-0 |
 | 614 | Destillater (kull-petroleum), kondenserte aromat-, dersom den inneholder > 0,005 vektprosent benzo[a]pyren | 68188-48-7 | 269-159-3 |
@@ -2893,7 +2893,7 @@ Liste over stoffer som er forbudt i kosmetiske produkter
 | 1654 | 2-metylimidazol | 693-98-1 | 211-765-7 |
 | 1655 | Metaflumizon (ISO); (EZ)-2’-[2-(4-cyanofenyl)-1-(α,α,α-trifluor-m-tolyl)etyliden]-[4-(trifluormetoksy)fenyl]karbanilohydrazid [E-isomer ≥ 90 %-, Z-isomer ≤ 10 %- relativt innhold]; [1]<br>(E)-2′-[2-(4-cyanofenyl)1-(α,α,α-trifluor-m-tolyl)etyliden]4-(trifluormetoksy)fenyl]karbanilohydrazid [2] | 139968-49-3 [1]<br>852403-68-0 [2] | – |
 | 1656 | Dibutylbis(pentan-2,4-dionato-O,O’)tinn | 22673-19-4 | 245-152-0.<br>◄**M37** |
-| ►**M38**<br>1657 | 4-[(tetrahydro-2H-pyran-2-yl)oksy]fenol (deoksyarbutin, tetrahydropyranyloksyfenol) | 53936-56-4**◄M38** |  |
+| ►**M38**<br>1657 | 4-[(tetrahydro-2H-pyran-2-yl)oksy]fenol (deoksyarbutin, tetrahydropyranyloksyfenol) | 53936-56-4 **◄M38** |  |
 | ►**M39**<br>1658 | Silisiumkarbidfibrer (med diameter < 3 μm, lengde > 5 μm og størrelsesforhold ≥ 3:1) | 409-21-2<br>308076-74-6 | 206-991-8 |
 | 1659 | Tris(2-metoksyetoksy)vinylsilan; 6-(2-metoksyetoksy)-6-vinyl-2,5,7,10-tetraoksa-6-silaundekan | 1067-53-4 | 213-934-0 |
 | 1660 | Dioktyltinndilaurat [1]<br>dioktyl-, bis(koko-acyloksy)stannanderivater [2] | 3648-18-8 [1]<br>91648- 39-4 [2] | 222-883-3 [1]<br>293-901-5 [2] |
@@ -3149,7 +3149,7 @@ Liste over stoffer som kosmetiske produkter ikke kan inneholde, unntatt med forb
 | ►**M1**<br>47 | Nikometanol-hydrofluorid | Nicomethanol Hydrofluoride | 62756-44-9 | – | Munnprodukter | 0,15 % beregnet som F.<br>Ved blanding med andre fluorforbindelser som er godkjent i henhold til dette vedlegg, skal samlet konsentrasjon av F ikke overstige 0,15 % |  | Inneholder nikometanolhydrofluorid.<br>For tannpasta med forbindelser som inneholder fluor i en konsentrasjon på 0,1–0,15 % beregnet som F, med mindre det allerede er angitt at den er uegnet for barn (f.eks. med «bare til bruk for voksne»), er følgende merking obligatorisk:<br>«For barn opptil seks år: brukes i doser på størrelse med en ert, og tennene pusses under tilsyn av en voksen for at svelging i størst mulig grad skal unngås. Ved inntak av fluor fra andre kilder bør tannlege eller lege konsulteres.»◄**M1** |
 | 48 | Sølvnitrat | Silver nitrate | 7761-88-8 | 231-853-9 | Bare til farging av øyevipper og øyenbryn | 4 % |  | Inneholder sølvnitrat<br>Dersom produktet kommer i kontakt med øynene, må øynene skylles straks |
 | 49 | Selendi-<br>sulfid | Selenium disulphide | 7488-56-4 | 231-303-8 | Sjampoer mot flass | 1 % |  | Inneholder selendisulfid<br>Unngå kontakt med øynene eller skadet hud |
-| 50 | Zirkonium-<br>aluminium-<br>klor-<br>hydrat-<br>komplekser<br>AlxZr(OH)y Clz og<br>zirkonium-<br>aluminium-<br>klor-<br>hydrat-<br>glycin-<br>komplekser |  |  |  | Anti-<br>transpir-<br>asjons-<br>midler | 20 % (som vannfri zirkonium-<br>aluminium-<br>klor-<br>hydrat)<br>5,4 % (som zirconium) | 1. Forholdet mellom antallet aluminiumatomer og zirkonium-<br>atomer skal være mellom 2 og 10<br>2. Forholdet mellom antallet (Al + Zr)-atomer og kloratomer skal være mellom 0,9 og 2,1<br>3. Må ikke brukes i aerosolbeholdere (spray) | Må ikke brukes på skadet eller irritert hud |
+| 50 | Zirkonium-<br>aluminium-<br>klor-<br>hydrat-<br>komplekser<br>Alx Zr(OH)y Clz og<br>zirkonium-<br>aluminium-<br>klor-<br>hydrat-<br>glycin-<br>komplekser |  |  |  | Anti-<br>transpir-<br>asjons-<br>midler | 20 % (som vannfri zirkonium-<br>aluminium-<br>klor-<br>hydrat)<br>5,4 % (som zirconium) | 1. Forholdet mellom antallet aluminiumatomer og zirkonium-<br>atomer skal være mellom 2 og 10<br>2. Forholdet mellom antallet (Al + Zr)-atomer og kloratomer skal være mellom 0,9 og 2,1<br>3. Må ikke brukes i aerosolbeholdere (spray) | Må ikke brukes på skadet eller irritert hud |
 | ►**M33**<br>51 | Bis(8-hydroksykinolinium)sulfat | Oxyqui-noline sulphate | 134-31-6 | 205-137-1 | Stabilisator for hydrogenperoksid i hårprodukter som skylles av<br>Stabilisator for hydrogenperoksid i hårprodukter som ikke skylles av | 0,3 % (som base)<br>0,03 % (som base) |  | ◄**M33** |
 | ►**M30** |  |  |  |  |  |  |  | ◄**M30** |
 | 52 | Metanol | Methyl alcohol | 67-56-1 | 200-659-6 | Denatureringsmiddel for etanol og isopropylalkohol | 5 % (som % etanol og isopropylalkohol) |  |  |
@@ -3475,9 +3475,9 @@ Liste over stoffer som kosmetiske produkter ikke kan inneholde, unntatt med forb
 | 285 | Pyridin-2,6-diyldiamin | 2,6-Diaminopyridine | 141-86-6 | 205-507-2 | a) Fargestoff i oksiderende hårfargingsmidler |  | For a) og b): Etter blanding under oksiderende forhold skal den høyeste konsentrasjonen som brukes på hår, ikke overstige 0,15 %. | a) Skal angis på etiketten:<br>Blandingsforholdet.<br>«  Hårfargestoffer kan framkalle alvorlige allergiske reaksjoner.<br>Les og følg bruksanvisningen.<br>Dette produktet er ikke beregnet på personer under 16 år.<br>Midlertidige tatoveringer med svart henna kan øke risikoen for allergi.<br>Farg ikke håret dersom:<br>– du har utslett i ansiktet eller følsom, irritert eller skadet hodebunn,<br>– du tidligere har hatt en reaksjon etter å ha farget håret,<br>– du tidligere har hatt en reaksjon på en midlertidig tatovering med svart henna.» |
 |  |  |  |  |  | b) Produkter beregnet på farging av øyevipper |  | b) Bare til yrkesmessig bruk. | b) Skal angis på etiketten:<br>Blandingsforholdet.<br>«Bare til yrkesmessig bruk.<br> Dette produktet kan framkalle alvorlige allergiske reaksjoner.<br>Les og følg bruksanvisningen.<br>Dette produktet er ikke beregnet på personer under 16 år.<br>Midlertidige tatoveringer med svart henna kan øke risikoen for allergi.<br>Øyevipper skal ikke farges dersom forbrukeren:<br>– har utslett i ansiktet eller følsom, irritert og skadd hodebunn,<br>– tidligere har hatt en reaksjon etter farging av hår eller øyevipper,<br>– tidligere har hatt en reaksjon på en midlertidig tatovering med svart henna.<br>Dersom produktet kommer i kontakt med øynene, må øynene skylles straks.»◄**M3** |
 | ►**M6**<br>286 | C16 -alkyltrimetylammoniumklorid | Cetrimonium chloride[^20] | 112-02-7 | 203-928-6 | a) Hårprodukter som skylles av | a) 2,5 % for enkeltkonsentrasjoner eller summen av enkeltkonsentrasjoner av «cetrimonium chloride» og «steartrimonium chloride» | Til andre formål enn å hindre vekst av mikroorganismer i produktet. Dette formålet skal framgå av presentasjonen av produktet. |  |
-|  | C18-alkyltrimetylammoniumklorid | Steartrimonium chloride[^20] | 112-03-8 | 203-929-1 | b) Hårprodukter som ikke skylles av | b) 1,0 % for enkeltkonsentrasjoner eller summen av enkeltkonsentrasjoner av «cetrimonium chloride» og «steartrimonium chloride» |  |  |
+|  | C18 -alkyltrimetylammoniumklorid | Steartrimonium chloride[^20] | 112-03-8 | 203-929-1 | b) Hårprodukter som ikke skylles av | b) 1,0 % for enkeltkonsentrasjoner eller summen av enkeltkonsentrasjoner av «cetrimonium chloride» og «steartrimonium chloride» |  |  |
 |  |  |  |  |  | c) Ansiktsprodukter som ikke skylles av | c) 0,5 % for enkeltkonsentrasjoner eller summen av enkeltkonsentrasjoner av «cetrimonium chloride» og «steartrimonium chloride» |  |  |
-| 287 | C22-alkyltrimetylammoniumklorid | Behentrimonium chloride[^20] | 17301-53-0 | 241-327-0 | a) Hårprodukter som skylles av | a) 5,0 % for enkeltkonsentrasjoner av «behentrimonium chloride» eller summen av enkeltkonsentrasjoner av «cetrimonium chloride», «steartrimonium chloride» og «behentrimonium chloride», samtidig som den relevante høyeste konsentrasjonen for summen av «cetrimonium chloride» og «steartrimonium chloride» angitt i post 286 overholdes. | Til andre formål enn å hindre vekst av mikroorganismer i produktet. Dette formålet skal framgå av presentasjonen av produktet. |  |
+| 287 | C22 -alkyltrimetylammoniumklorid | Behentrimonium chloride[^20] | 17301-53-0 | 241-327-0 | a) Hårprodukter som skylles av | a) 5,0 % for enkeltkonsentrasjoner av «behentrimonium chloride» eller summen av enkeltkonsentrasjoner av «cetrimonium chloride», «steartrimonium chloride» og «behentrimonium chloride», samtidig som den relevante høyeste konsentrasjonen for summen av «cetrimonium chloride» og «steartrimonium chloride» angitt i post 286 overholdes. | Til andre formål enn å hindre vekst av mikroorganismer i produktet. Dette formålet skal framgå av presentasjonen av produktet. |  |
 |  |  |  |  |  | b) Hårprodukter som ikke skylles av | b) 3,0 % for enkeltkonsentrasjoner av «behentrimonium chloride» eller summen av enkeltkonsentrasjoner av «cetrimonium chloride», «steartrimonium chloride» og «behentrimonium chloride», samtidig som den relevante høyeste konsentrasjonen for summen av «cetrimonium chloride» og «steartrimonium chloride» angitt i post 286 overholdes. |  |  |
 |  |  |  |  |  | c) Ansiktsprodukter som ikke skylles av | c) 3,0 % for enkeltkonsentrasjoner av «behentrimonium chloride» eller summen av enkeltkonsentrasjoner av «cetrimonium chloride», «steartrimonium chloride» og «behentrimonium chloride», samtidig som den relevante høyeste konsentrasjonen for summen av «cetrimonium chloride» og «steartrimonium chloride» angitt i post 286 overholdes. |  | ◄**M6** |
 | ►**M9**<br>288 | 3-[(4-amino-3-metyl-9,10-diokso-9,10-dihydroantracen-1-yl)amino]-N,N,N -trimetylpropan-1-aminium, metylsulfatsalt | HC Blue No 17 | 16517-75-2 | 605-392-2 | a) Fargestoff i oksiderende hårfargingsmidler<br>b) Fargestoff i ikke-oksiderende hårfargingsmidler | b) 2,0 % | a) Etter blanding under oksiderende forhold skal den høyeste konsentrasjonen som brukes på hår, ikke overstige 2,0 %<br>For a) og b):<br>– Skal ikke brukes sammen med nitroserende stoffer<br>– Høyeste innhold av nitrosamin: 50 μg/kg<br>– Oppbevares i nitrittfrie beholdere | a) Skal angis på etiketten: Blandingsforholdet.<br>«Hårfargestoffer kan framkalle alvorlige allergiske reaksjoner.<br>Les og følg bruksanvisningen.<br>Dette produktet er ikke beregnet på personer under 16 år.<br>Midlertidige tatoveringer med svart henna kan øke risikoen for allergi.<br>Farg ikke håret dersom<br>– du har utslett i ansiktet eller følsom, irritert og skadd hodebunn,<br>– du tidligere har hatt en reaksjon etter å ha farget håret,<br>– du tidligere har hatt en reaksjon på en midlertidig tatovering med svart henna.» |
