@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-11-15"
 last_change_in_force: null
 last_updated: null
-xml_hash: "ee7fdafa5dcc32d41709b863fd9dcffae62e7bd7a3a2e3bc57370f7aa7119044"
+xml_hash: "f1ef0746c84f09ee1cb7757975343edace455ca4797e07487dfad3469c3973b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,13 @@ Måloppnåelse vurderes med utgangspunkt i om tildelte tilskudd bidrar til økt 
 
 Måloppnåelsen blir vurdert på bakgrunn av årlige rapporter der sentrene viser hvordan de oppfyller autorisasjonskravene satt av Miljødirektoratet.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 3. Hvem som kan søke om tilskudd
 
 Sentre som er autorisert av Miljødirektoratet som besøkssentre innen kategorien verdensarvsenter, kan søke om grunntilskudd og tilskudd til utvikling.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 4. Hva det kan tildeles tilskudd til
 
@@ -68,6 +72,8 @@ Søknaden skal inneholde informasjon om
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
 Miljødirektoratet kan
@@ -77,6 +83,8 @@ Miljødirektoratet kan
 3. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
 4. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 8. Søkers opplysningsplikt
 
 Søker plikter straks å melde fra til Miljødirektoratet dersom
@@ -84,11 +92,15 @@ Søker plikter straks å melde fra til Miljødirektoratet dersom
 1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
 2. uberettiget tilskudd er utbetalt.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 9. Behandling av søknad om tilskudd
 
 Miljødirektoratet fatter vedtak om tilskudd i samsvar med Klima- og miljødepartementets årlige budsjettproposisjon.
 
 Miljødirektoratet fatter vedtak om tilskudd som ikke er bundet opp i budsjettproposisjonen, etter en skjønnsmessig vurdering av søknadene.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 10. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -106,6 +118,8 @@ For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revi
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 12. Oppfølging og kontroll
 
 Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
@@ -113,6 +127,8 @@ Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i fors
 Miljødirektoratet har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 13. Stans og tilbakebetaling av tilskudd
 
@@ -123,6 +139,8 @@ Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren i
 Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som er for mye utbetalt kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 14. Ikrafttredelse
 
