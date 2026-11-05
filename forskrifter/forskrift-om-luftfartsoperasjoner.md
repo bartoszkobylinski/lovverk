@@ -4,18 +4,18 @@ slug: "forskrift-om-luftfartsoperasjoner"
 type: "forskrift"
 ref_id: "forskrift/2013-08-07-956"
 title: "Forskrift om luftfartsoperasjoner"
-short_title: "Forskrift om luftfartsoperasjoner"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2013-08-07"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-23"
 last_updated: "2018-02-09"
-xml_hash: "eb6dd79d22eacdf3ff1d0b72dd9b81927860aced153d3f5a9834d22fb3abe604"
+xml_hash: "ce12cf6b83b8e414d0d20e0307a31e3f9eefae0189a1d23c4a35c0e9756f291f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,6 +53,7 @@ eu_basis: []
 25. forordning [(EU) 2025/133](eu/32025r0133)
 26. forordning [(EU) 2023/203](eu/32023r0203)
 27. forordning [(EU) 2025/2293](eu/32025r2293)
+28. forordning [(EU) 2025/24](eu/32025r0024)
 
 gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -63,7 +64,7 @@ gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll
 
 gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 25 feb 2014 nr. 216](forskrift/2014-02-25-216), [3 juli 2014 nr. 935](forskrift/2014-07-03-935), [29 sep 2014 nr. 1298](forskrift/2014-09-29-1298), [17 des 2014 nr. 1811](forskrift/2014-12-17-1811), [18 juni 2015 nr. 719](forskrift/2015-06-18-719), [25 juni 2015 nr. 771](forskrift/2015-06-25-771), [14 juli 2015 nr. 900](forskrift/2015-07-14-900), [30 sep 2015 nr. 1143](forskrift/2015-09-30-1143), [12 mai 2016 nr. 503](forskrift/2016-05-12-503), [9 des 2016 nr. 1471](forskrift/2016-12-09-1471), [31 okt 2017 nr. 1715](forskrift/2017-10-31-1715), [7 juni 2018 nr. 836](forskrift/2018-06-07-836), [11 mars 2020 nr. 272](forskrift/2020-03-11-272), [23 nov 2020 nr. 2437](forskrift/2020-11-23-2437), [15 des 2020 nr. 2815](forskrift/2020-12-15-2815), [26 april 2021 nr. 1297](forskrift/2021-04-26-1297), [17 sep 2024 nr. 2212](forskrift/2024-09-17-2212), [10 feb 2025 nr. 173](forskrift/2025-02-10-173), [28 mars 2025 nr. 547](forskrift/2025-03-28-547), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [10 juli 2025 nr. 1514](forskrift/2025-07-10-1514), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1485](forskrift/2026-07-01-1485).
+> Endret ved [forskrifter 25 feb 2014 nr. 216](forskrift/2014-02-25-216), [3 juli 2014 nr. 935](forskrift/2014-07-03-935), [29 sep 2014 nr. 1298](forskrift/2014-09-29-1298), [17 des 2014 nr. 1811](forskrift/2014-12-17-1811), [18 juni 2015 nr. 719](forskrift/2015-06-18-719), [25 juni 2015 nr. 771](forskrift/2015-06-25-771), [14 juli 2015 nr. 900](forskrift/2015-07-14-900), [30 sep 2015 nr. 1143](forskrift/2015-09-30-1143), [12 mai 2016 nr. 503](forskrift/2016-05-12-503), [9 des 2016 nr. 1471](forskrift/2016-12-09-1471), [31 okt 2017 nr. 1715](forskrift/2017-10-31-1715), [7 juni 2018 nr. 836](forskrift/2018-06-07-836), [11 mars 2020 nr. 272](forskrift/2020-03-11-272), [23 nov 2020 nr. 2437](forskrift/2020-11-23-2437), [15 des 2020 nr. 2815](forskrift/2020-12-15-2815), [26 april 2021 nr. 1297](forskrift/2021-04-26-1297), [17 sep 2024 nr. 2212](forskrift/2024-09-17-2212), [10 feb 2025 nr. 173](forskrift/2025-02-10-173), [28 mars 2025 nr. 547](forskrift/2025-03-28-547), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [10 juli 2025 nr. 1514](forskrift/2025-07-10-1514), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1485](forskrift/2026-07-01-1485), [23 okt 2026 nr. 2200](forskrift/2026-10-23-2200).
 
 ## § 1a. Nasjonal gjennomføring
 
