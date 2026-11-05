@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2017-10-11"
 last_change_in_force: "2024-01-01"
 last_updated: "2024-01-26"
-xml_hash: "9564d201b2b6ec04920db0d0bdfd915a36f04af0292f7d76ea4bed0102f73f69"
+xml_hash: "b1986bb5b5605e0ac81bfea11207e20c21befdb40d139deb629e61d200582927"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1509,7 +1509,7 @@ Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon 
 
 3.1
 
-Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det*berørte trykkpåkjente* utstyret til et teknisk kontrollorgan etter eget valg.
+Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det *berørte trykkpåkjente* utstyret til et teknisk kontrollorgan etter eget valg.
 
 Søknaden skal inneholde følgende:
 
