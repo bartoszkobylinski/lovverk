@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "b766c13a0eb6f2d4368ce7543e5991eb5690c4c402b114805a17831e475a6bf2"
+xml_hash: "eff13a81bc30ead2d3e4cf4987fa30ecf3fe22e648e96132a027661438dd0550"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -246,7 +246,7 @@ En helikopteroperatør kan kun benytte et helikopterdekk hvor det i 210° inn- o
 
 ### § 28. Hinder utenfor 210° hinderfri inn- og utflygingssektor
 
-En helikopteroperatør kan kun benytte et helikopterdekk hvor det i 150° sektor fra helikopterdekkets ytterkant og ut til en avstand på 0,12 DHikke er hinder høyere enn 25 cm. Fra 0,12 DHog ut til en avstand på 0,33 DHfra helikopterdekkets ytterkant, kan det ikke være hinder som rager over et plan med stigning 1 (høyde) på 2 (avstand) med utgangspunkt i en høyde i innerkant på 0,05 DH.
+En helikopteroperatør kan kun benytte et helikopterdekk hvor det i 150° sektor fra helikopterdekkets ytterkant og ut til en avstand på 0,12 DH ikke er hinder høyere enn 25 cm. Fra 0,12 DH og ut til en avstand på 0,33 DH fra helikopterdekkets ytterkant, kan det ikke være hinder som rager over et plan med stigning 1 (høyde) på 2 (avstand) med utgangspunkt i en høyde i innerkant på 0,05 DH.
 
 ## Kapittel VII. Merking og visuelle hjelpemidler
 
@@ -265,7 +265,7 @@ Det må alltid finnes ekstra vindpølse i reserve. Den ekstra vindpølsen må v�
 En helikopteroperatør kan kun benytte et helikopterdekk som er grønt eller grått og har følgende merking:
 
 1. Ytre begrensning er merket med en hvit 0,3 m bred kant.
-2. En gul 1 m bred referansesirkel for rettledning under landing. Referansesirkelens indre diameter må tilsvare halvparten av helikopterdekkets DH-verdi. Når særlige flyoperative forhold krever det, kan referansesirkelens sentrum være forskjøvet inntil 0,1 DHfra helikopterdekkets sentrum, langs 210°-vinkelens midtlinje, mot helikopterdekkets ytterkant.
+2. En gul 1 m bred referansesirkel for rettledning under landing. Referansesirkelens indre diameter må tilsvare halvparten av helikopterdekkets DH -verdi. Når særlige flyoperative forhold krever det, kan referansesirkelens sentrum være forskjøvet inntil 0,1 DH fra helikopterdekkets sentrum, langs 210°-vinkelens midtlinje, mot helikopterdekkets ytterkant.
 3. Identifikasjonsmerking i form av bokstaven H i hvit farge i sentrum av referansesirkelen. Retningen på bokstaven H må være slik orientert at bokstavens midtstykke er parallell med 210°-sektorens midtlinje. Bokstavens størrelse må være 3 × 4 m.
 
 ### § 31. Navnemerking
@@ -280,7 +280,7 @@ Ved flyging til helikopterdekk med alternativ plassering, jf. [§ 49](forskrift/
 
 ### § 33. Merking av helikopterdekkets størrelse og største tillatte masse
 
-En helikopteroperatør kan kun benytte et helikopterdekk som er merket med dekkets faktiske DH-verdi i hele meter. Merkingen må være utført i hvit eller annen egnet kontrastfarge på helikopterdekkets ytre begrensning på tre steder med 90° separasjonsvinkel. Ved flyging til helikopterdekk med alternativ plassering, jf. [§ 49](forskrift/2019-05-14-604/§49), må helikopterdekkstørrelsen være merket to steder med 180° separasjonsvinkel.
+En helikopteroperatør kan kun benytte et helikopterdekk som er merket med dekkets faktiske DH -verdi i hele meter. Merkingen må være utført i hvit eller annen egnet kontrastfarge på helikopterdekkets ytre begrensning på tre steder med 90° separasjonsvinkel. Ved flyging til helikopterdekk med alternativ plassering, jf. [§ 49](forskrift/2019-05-14-604/§49), må helikopterdekkstørrelsen være merket to steder med 180° separasjonsvinkel.
 
 Helikopterdekket må være merket med største tillatte start- og landingsmasse angitt i tonn med en desimal, etterfulgt av bokstaven t. Merkingen må være i hvit eller annen egnet kontrastfarge og være godt synlig fra alle innflygingsretninger.
 
@@ -434,7 +434,7 @@ I situasjoner hvor det er grunn til å tro at en faresituasjon kan oppstå under
 For helikopterdekk på skip og innretninger med skipsskrog kan en helikopteroperatør også benytte helikopterdekk etablert midtskips, hvor følgende alternative krav til hinderfrie sektorer er oppfylt:
 
 1. Inn- og utflygingsektorer er vinkelrett på senterlinjen.
-2. De hinderfrie sektorene må begrenses av en forut og en akterut sektor på 150°. Området mellom sektorene må være en hinderfri flate over helikopterdekkets nivå. Innbyrdes avstand mellom sektorene, helikopterdekkets DH-verdi, må være i samsvar med [§ 14](forskrift/2019-05-14-604/§14). 150°-sektorene må ha en stigning fra dekknivå på 1:5 i en utstrekning (bredde) på DHder området over sektoren skal være hinderfritt.
+2. De hinderfrie sektorene må begrenses av en forut og en akterut sektor på 150°. Området mellom sektorene må være en hinderfri flate over helikopterdekkets nivå. Innbyrdes avstand mellom sektorene, helikopterdekkets DH -verdi, må være i samsvar med [§ 14](forskrift/2019-05-14-604/§14). 150°-sektorene må ha en stigning fra dekknivå på 1:5 i en utstrekning (bredde) på DH der området over sektoren skal være hinderfritt.
 
 Merking av hinderfrie sektorer og merking av helikopterdekkets størrelse må være utført etter bestemmelsene i [§ 32](forskrift/2019-05-14-604/§32) og [§ 33](forskrift/2019-05-14-604/§33).
 
@@ -514,7 +514,7 @@ Fra samme tidspunkt
 
 ### § 56. Overgangsregler
 
-Merking av helikopterdekkets faktiske DH-verdi i hele meter, jf. [§ 33](forskrift/2019-05-14-604/§33) første ledd, må være utført innen 1. januar 2021.
+Merking av helikopterdekkets faktiske DH -verdi i hele meter, jf. [§ 33](forskrift/2019-05-14-604/§33) første ledd, må være utført innen 1. januar 2021.
 
 Hvor merking av helikopterdekkets størrelse ved ikrafttredelsen er utført med tall på cirka 60 cm, skal merking etter [§ 33](forskrift/2019-05-14-604/§33) tredje ledd være utført innen 1. januar 2021.
 
