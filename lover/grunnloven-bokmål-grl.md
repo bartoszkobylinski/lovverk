@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: null
-last_change_in_force: "2024-05-21"
+last_change_in_force: null
 last_updated: "2021-07-01"
-xml_hash: "27671fb382b58b1f4819b61ca0502c9d7592fa4bec4c2a8e1e449f08c033e3a1"
+xml_hash: "d7504a6cd591ed14a2508dfa5d4ed99b65e5070f43917180278b05f863fd603c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ gitt i riksforsamlingen på Eidsvoll den 17. mai 1814,
 
 slik den lyder etter senere endringer,
 
-senest stortingsvedtak av 21. mai 2024
+senest stortingsvedtak av 3. november 2026
 
 ## A. Om statsformen
 
@@ -214,21 +214,27 @@ Kongen velger og avskjediger etter eget omdømme sin hoffstat og sine hoffbetjen
 
 ### § 25
 
-Kongen har høyeste befaling over rikets land- og sjømakt. Den må ikke forøkes eller forminskes uten Stortingets samtykke. Den må ikke overlates i fremmede makters tjeneste, og ingen fremmede makters krigsfolk, unntatt hjelpetropper imot fiendtlig overfall, må gis adgang til riket uten Stortingets samtykke.
+Kongen har høyeste befaling over rikets forsvarsmakt. Kongen har rett til å mobilisere forsvarsmakten, begynne krig til forsvar av landet og slutte fred.
 
-Landvernet og de øvrige tropper som ikke kan henregnes til linjetroppene, må aldri uten Stortingets samtykke brukes utenfor rikets grenser.
+Forsvarsmakten må ikke overlates til fremmede makter, men begrenset kommandomyndighet kan tildeles rikets allierte for den tid riket deltar i en operasjon sammen med allierte.
 
-Regjeringen har ikke rett til å bruke militær makt mot innbyggerne uten etter lov, med mindre en forsamling forstyrrer den offentlige ro og ikke øyeblikkelig oppløses etter at de lovbestemmelser som angår opprør, tre ganger høyt og tydelig er opplest for forsamlingen av den sivile øvrighet.
+Forsvarsmakten må ikke forøkes eller forminskes uten Stortingets samtykke.
 
-> Endret ved vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 14 mai 2020 kunngjort ved [res. 29 mai 2020 nr. 1085](forskrift/2020-05-29-1085).
+Forsvarsmakten må ikke uten Stortingets samtykke sendes ut av riket dersom det medfører en vesentlig svekkelse av rikets forsvar.
+
+Ingen fremmede stridskrefter, unntatt allierte styrker, må gis adgang til riket uten Stortingets samtykke.
+
+Kongen har ikke rett til å bruke militær makt mot innbyggerne uten etter lov.
+
+> Endret ved vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 14 mai 2020 kunngjort ved [res. 29 mai 2020 nr. 1085](forskrift/2020-05-29-1085), 3 nov 2026 (offisiell kunngjøring kommer senere ved kgl.res.).
 
 ### § 26
 
-Kongen har rett til å innkalle tropper, begynne krig til forsvar av landet og slutte fred, inngå og oppheve forbund, sende og motta sendemenn.
+Kongen har rett til å inngå og oppheve folkerettslige avtaler og til å sende og motta diplomatiske representanter.
 
-Traktater om saker som er av særlig stor viktighet, og i alle tilfeller traktater hvis iverksettelse etter Grunnloven nødvendiggjør en ny lov eller stortingsbeslutning, blir først bindende når Stortinget har gitt sitt samtykke dertil.
+Folkerettslige avtaler om saker som er av særlig stor viktighet, og i alle tilfeller folkerettslige avtaler hvis iverksettelse etter Grunnloven nødvendiggjør en ny lov eller et stortingsvedtak, blir først bindende når Stortinget har gitt sitt samtykke dertil.
 
-> Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
+> Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 3 nov 2026 (offisiell kunngjøring kommer senere ved kgl.res.).
 
 ### § 27
 
@@ -322,9 +328,9 @@ Inntil Stortinget er samlet og har anordnet regjeringen under kongens mindreåri
 
 ### § 41
 
-Er kongen fraværende fra riket uten å være i felt, eller er han så syk at han ikke kan ivareta regjeringen, skal den som er nærmest arveberettiget til tronen, forestå regjeringen som kongemaktens midlertidige utøver, så fremt han eller hun har oppnådd den for kongen fastsatte myndighetsalder. I motsatt fall forestår statsrådet bestyrelsen av riket.
+Er kongen fraværende fra riket uten å være i felt, eller er han så syk at han ikke kan ivareta regjeringen, skal den som er nærmest arveberettiget til tronen, forestå regjeringen som kongemaktens midlertidige utøver, så fremt han eller hun har oppnådd den for kongen fastsatte myndighetsalder. Kan heller ikke den nærmest arveberettigede forestå regjeringen, forestår dennes barn regjeringen som kongemaktens midlertidige utøver, så fremt han eller hun er neste arveberettigede til tronen og har oppnådd den for kongen fastsatte myndighetsalder. I motsatt fall forestår statsrådet bestyrelsen av riket.
 
-> Endret ved grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
+> Endret ved grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 3 nov 2026 (offisiell kunngjøring kommer senere ved kgl.res.).
 
 ### § 42
 
@@ -602,14 +608,14 @@ Det tilkommer Stortinget
 4. å bevilge de pengesummer som er nødvendige for å dekke statens utgifter;
 5. å bestemme hvor mye som årlig skal utbetales kongen til hans hoffstat, og fastlegge den kongelige families apanasje, som imidlertid ikke må bestå i faste eiendommer;
 6. å la seg forelegge statsrådets protokoller og alle offentlige innberetninger og papirer;
-7. å la seg meddele de forbund og traktater som kongen på statens vegne har inngått med fremmede makter;
+7. å la seg meddele de folkerettslige avtalene kongen på statens vegne har inngått med fremmede makter;
 8. å kunne fordre enhver til å møte for seg i statssaker, kongen og den kongelige familie unntatt; dog gjelder denne unntagelse ikke for de kongelige prinser og prinsesser for så vidt de måtte bekle embeter;
 9. å revidere midlertidige gasje- og pensjonslister og gjøre de forandringer i dem som Stortinget finner nødvendige;
 10. å utnevne fem revisorer som årlig skal gjennomse statens regnskaper og bekjentgjøre ekstrakter av dem ved trykken; regnskapene skal tilstilles disse revisorer innen seks måneder etter utgangen av det år som Stortingets bevilgninger er gitt for; samt å treffe bestemmelser angående ordningen av desisjonsmyndigheten overfor statens regnskapsbetjenter;
 11. å utnevne en person som ikke er medlem av Stortinget, til på en måte som er nærmere bestemt i lov, å føre kontroll med den offentlige forvaltning og alle som virker i dens tjeneste, for å søke å sikre at det ikke øves urett mot den enkelte borger;
 12. å naturalisere fremmede.
 
-> Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 7 juni 1995 kunngjort ved [res. 23 juni 1995 nr. 567](forskrift/1995-06-23-567), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
+> Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 7 juni 1995 kunngjort ved [res. 23 juni 1995 nr. 567](forskrift/1995-06-23-567), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 3 nov 2026 (offisiell kunngjøring kommer senere ved kgl.res.).
 
 ### § 76
 
