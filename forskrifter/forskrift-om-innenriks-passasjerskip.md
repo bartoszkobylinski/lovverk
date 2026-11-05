@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-05-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2023-08-11"
-xml_hash: "7d8f235bd99abc405406e33358509d36fe7fc0a1841e365d5e17c030e0737953"
+xml_hash: "186e95c3833d2189640e7744166a48449da16e92dc484ac0efcb2344dff6a022"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -7825,7 +7825,7 @@ Følgende krav gjelder ved anvendelse av tabellene:
       - Alle rom som brukes til last (herunder lastoljetanker), og sjakter og luker til slike rom, unntatt spesiallasterom.
    9. Arbeidsrom (høy risiko):
 
-      - Bysser, penterier som inneholder kokeapparater, malings- og lamperom, skap og lagerrom med areal på 4 m2 eller mer, rom til oppbevaring av brannfarlige væsker, badstuer samt andre verksteder enn dem som er en del av maskinrom.
+      - Bysser, penterier som inneholder kokeapparater, malings- og lamperom, skap og lagerrom med areal på 4 m 2 eller mer, rom til oppbevaring av brannfarlige væsker, badstuer samt andre verksteder enn dem som er en del av maskinrom.
    10. Åpent dekk:
 
        - Åpne plasser på dekk og innelukkede promenadedekk uten brannrisiko. Utendørs områder (dekksareal utenfor overbygninger og dekkshus).
