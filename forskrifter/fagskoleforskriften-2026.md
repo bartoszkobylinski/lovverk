@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "060c623da941d04113a4032809a2faede70a2af65f8a25ff21bb3442aa04d35b"
+xml_hash: "0cec862b02d63934d4e778bf6d694629c1e06c3a3ee1e848c56a235c3ab8b1aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-30T10:43:54.245474+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -601,6 +601,10 @@ Denne forskriften trer i kraft 1. august 2027, med unntak av [kapittel 2](forskr
 
 Fra 1. august 2027 oppheves [forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskoleforskriften)](forskrift/2019-07-11-1005) og [forskrift 23. april 2020 nr. 853 om akkreditering av og tilsyn med høyere yrkesfaglig utdanning (fagskoletilsynsforskriften)](forskrift/2020-04-23-853).
 
+> **Endres** ved forskrift [26 okt 2026 nr. 2238](forskrift/2026-10-26-2238) (i kraft 1 jan 2027).
+
 ### § 9-2. Overgangsregler
 
 Opptak til utdanninger som har studiestart før 1. august 2027 og ikke inngår i det samordnede opptaket, skal gjennomføres etter reglene i [forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning kapittel 2](forskrift/2019-07-11-1005/kap2) og [3](forskrift/2019-07-11-1005/kap3). Det samordnede opptaket for studieåret 2027–2028 skal gjennomføres etter reglene i denne forskriften.
+
+> **Endres** ved forskrift [26 okt 2026 nr. 2238](forskrift/2026-10-26-2238) (i kraft 1 jan 2027).
