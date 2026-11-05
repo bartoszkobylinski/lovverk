@@ -15,11 +15,11 @@ ministry:
 date_in_force: "2024-04-03"
 last_change_in_force: "2026-09-22"
 last_updated: null
-xml_hash: "b8f4195cdd9d62f0904133af19f36275817c88f612dadc2b866c76dbe84e2674"
+xml_hash: "c867b34874d29bc8100b342338fae4247d4800372d6c98b1ce180db6624ffd43"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-26T09:17:45.512481+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2106,7 +2106,7 @@ Fra 16. juli 2026 skal forekomsten av plast på over 2 mm innenfor grenseverdien
 1. tilsetningsstoffet oppfyller kravene fastsatt i nr. 2 i komponentmaterialkategori 1,
 2. konsentrasjonen av de tilsetningsstoffene som er nødvendige i hver prosess, ikke overstiger 5 % av vekten av bioresten eller fraksjonen som brukes som innsatsmateriale i den respektive prosessen.
 
-4\. Bioresten eller en fraksjon som er nevnt i nr. 3a, 3b og 3c, skal oppfylle minst ett av følgende stabilitetskriterier:**◄M6**
+4\. Bioresten eller en fraksjon som er nevnt i nr. 3a, 3b og 3c, skal oppfylle minst ett av følgende stabilitetskriterier: **◄M6**
 
 1. Oksygenopptakshastighet:
 
@@ -2428,7 +2428,7 @@ Da anses det relevante kriteriet i nr. 2 bokstav a) for å være påvist dersom 
    ◄**M3**
 
    ►**M4**
-7. pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)**►M5**, eller**◄M5**
+7. pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098) **►M5**, eller **◄M5**
 
    ◄**M4**
 
