@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-05-12"
 last_change_in_force: null
 last_updated: null
-xml_hash: "f57c7fe008d1a3031b212aa087d860459c6f0f3bc32fd80d0b03af5ffaa93dbd"
+xml_hash: "8fd34b107f5d3c50f484124321c0954bbcb2333f6400f46a9d28de7b6f0133ec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -203,7 +203,7 @@ Ek er elektrisitet levert fra alle tilknytningspunkt k. For elektrisitet og driv
 
 I tabellen over gjelder:
 
-- Verdiene Cf CO2,Cf CH4 og Cf N2O har enhet gram per gram drivstoff
+- Verdiene Cf CO2, Cf CH4 og Cf N2O har enhet gram per gram drivstoff
 - SM betyr at verdier skal måles
 - N/A betyr at verdi ikke er tilgjengelig
 - Strek (-) betyr ikke relevant
