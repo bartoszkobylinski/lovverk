@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-08-04"
 last_change_in_force: null
 last_updated: null
-xml_hash: "e4159254482d9f8e7899e656e3004164589d745605b50fac5a5631e359606317"
+xml_hash: "3fa3c7180c9df027762eccd80fdc0d1188f5ddfded20feea3a7ee4e8449b97b2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,7 +108,7 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 ### § 2-5. Søknad om opptak
 
-(1) Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med realkompetanse stiller likt for opptak uten rangering. Søkere som etter å ha fått godkjent dokumentasjon for opptak får tilbud om studieplass. Svarfrist for søker er 7 dager fra datoen tilbudet om plass er mottatt. Søkere som får godkjent dokumentasjon for opptak og som ikke får tilbud om studieplass settes på nummerertventeliste. Om en søker ikke tar imot tilbudt skoleplass, vil den som står som nummer en på ventelisten bli tilbudt skoleplassen. Etter skolestart er svarfristen 48 timer. Ventelisteordning gjelder t.o.m. den første skoleuken.
+(1) Skolen benytter løpende opptak. Søkere med formell kompetanse og søkere med realkompetanse stiller likt for opptak uten rangering. Søkere som etter å ha fått godkjent dokumentasjon for opptak får tilbud om studieplass. Svarfrist for søker er 7 dager fra datoen tilbudet om plass er mottatt. Søkere som får godkjent dokumentasjon for opptak og som ikke får tilbud om studieplass settes på nummerert venteliste. Om en søker ikke tar imot tilbudt skoleplass, vil den som står som nummer en på ventelisten bli tilbudt skoleplassen. Etter skolestart er svarfristen 48 timer. Ventelisteordning gjelder t.o.m. den første skoleuken.
 
 (2) Rangering av de som står på ventelisten gjøres etter rangeringskriteriene angitt i [fagskoleforskriften §§ 14](forskrift/2019-07-11-1005/§14)–[17](forskrift/2019-07-11-1005/§17).
 
