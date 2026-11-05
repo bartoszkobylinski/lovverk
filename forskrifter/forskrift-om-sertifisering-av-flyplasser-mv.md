@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2015-08-25"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-23"
 last_updated: "2015-09-22"
-xml_hash: "f5e5252d47ff3cfd16c87e9771f64f709ebae1cea934d39e78c70f124d8e7af7"
+xml_hash: "2087ca6ac2f361523b21a59e9e43ec27d1d0f48798be5be13e7e38e9bfdd5e2f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Gjennomføring av kommisjonsforordning (EU) nr. 139/2014
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66nh (forordning [(EU) nr. 139/2014](eu/32014r0139), som endret ved forordning [(EU) 2018/401](eu/32018r0401), [(EU) 2020/469](eu/32020r0469), [(EU) 2020/1177](eu/32020r1177), [(EU) 2020/1234](eu/32020r1234), [(EU) 2020/2148](eu/32020r2148), [(EU) 2022/208](eu/32022r0208), [(EU) 2022/2074](eu/32022r2074), [(EU) 2024/405](eu/32024r0405), [(EU) 2024/894](eu/32024r0894), [(EU) 2024/1400](eu/32024r1400), [(EU) 2022/1645](eu/32022r1645), [(EU) 2023/203](eu/32023r0203) og [(EU) 2025/2293](eu/32025r2293)) om fastsettelse av krav og administrative prosedyrer relatert til flyplasser [...], gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66nh (forordning [(EU) nr. 139/2014](eu/32014r0139), som endret ved forordning [(EU) 2018/401](eu/32018r0401), [(EU) 2020/469](eu/32020r0469), [(EU) 2020/1177](eu/32020r1177), [(EU) 2020/1234](eu/32020r1234), [(EU) 2020/2148](eu/32020r2148), [(EU) 2022/208](eu/32022r0208), [(EU) 2022/2074](eu/32022r2074), [(EU) 2024/405](eu/32024r0405), [(EU) 2024/894](eu/32024r0894), [(EU) 2024/1400](eu/32024r1400), [(EU) 2022/1645](eu/32022r1645), [(EU) 2023/203](eu/32023r0203), [(EU) 2025/2293](eu/32025r2293) og [(EU) 2025/21)](eu/32025r0021) om fastsettelse av krav og administrative prosedyrer relatert til flyplasser, gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 7 juni 2018 nr. 856](forskrift/2018-06-07-856), [2 sep 2024 nr. 2065](forskrift/2024-09-02-2065), [2 nov 2024 nr. 2657](forskrift/2024-11-02-2657), [27 juni 2025 nr. 1357](forskrift/2025-06-27-1357), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1499](forskrift/2026-07-01-1499).
+> Endret ved [forskrifter 7 juni 2018 nr. 856](forskrift/2018-06-07-856), [2 sep 2024 nr. 2065](forskrift/2024-09-02-2065), [2 nov 2024 nr. 2657](forskrift/2024-11-02-2657), [27 juni 2025 nr. 1357](forskrift/2025-06-27-1357), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1499](forskrift/2026-07-01-1499), [23 okt 2026 nr. 2200](forskrift/2026-10-23-2200).
 
 ## § 1a. (Opphevet)
 
