@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-10-11"
 last_change_in_force: "2025-03-14"
 last_updated: "2022-05-04"
-xml_hash: "cb643b7669f18fb7cccbf93b4a586bc1d850c5139de44a799d239a425537ac54"
+xml_hash: "ddd2077b435c8a323c5bfae337135ae102b83f5b02c77e0360af730ee49d9467"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2858,7 +2858,7 @@ Geografisk betegnelse
 
 ... [*Utfylles bare dersom det er relevant. Angi en kortfattet begrunnelse for eventuelle restriksjoner.*]
 
-9.**Særlige regler for merking:**
+9\. **Særlige regler for merking:**
 
 ... [*Utfylles bare dersom det er relevant. Angi en kortfattet begrunnelse for eventuelle restriksjoner.*]
 
@@ -2972,13 +2972,13 @@ BEGRUNNET INNSIGELSE (FORORDNING (EU) 2019/787)
 - Søknaden om registrering eller godkjenning av en endring på unionsplan er uforenlig med reglene for geografiske betegnelser på alkoholsterke drikker, ettersom registrering av det foreslåtte navnet vil være i strid med artikkel 34 eller 35 i forordning (EU) 2019/787.
 - Søknaden om registrering eller godkjenning av en endring på unionsplan er uforenlig med reglene for geografiske betegnelser på alkoholsterke drikker, ettersom registrering av den foreslåtte geografiske betegnelsen vil kunne skade et eksisterende helt eller delvis likelydende navn eller varemerke eller produkter som har vært på markedet på lovlig vis i minst fem år før offentliggjøringsdatoen fastsatt i artikkel 26 nr. 2 i forordning [(EU) 2019/787](eu/32019r0787).
 
-7.**Nærmere opplysninger om innsigelsen**
+7\. **Nærmere opplysninger om innsigelsen**
 
 *[Gi en behørig begrunnet begrunnelse og nærmere opplysninger om faktiske forhold, bevis og kommentarer som understøtter innsigelsen. Legg ved nødvendige dokumenter dersom innsigelsen er basert på at det finnes et eldre varemerke med anseelse og omdømme (artikkel 35 nr. 2 i forordning [(EU) 2019/787](eu/32019r0787)*].
 
-8.**Liste over underlagsdokumenter** [*Legg ved listen over dokumentene som er sendt inn for å understøtte innsigelsen*].
+8\. **Liste over underlagsdokumenter** [*Legg ved listen over dokumentene som er sendt inn for å understøtte innsigelsen*].
 
-9.**Dato og underskrift**
+9\. **Dato og underskrift**
 
 - [Navn]
 - [Avdeling/organisasjon]
@@ -3002,17 +3002,17 @@ UNDERRETNING OM AVSLUTNING AV SAMRÅD INNENFOR RAMMEN AV INNSIGELSESPROSEDYREN (
 | --- |
 | *Viktig merknad: Søkerne rådes til å utelate alle personopplysninger (herunder personens navn), særlig i kontaktopplysninger (f.eks. personlige telefonnumre og e-postadresser). Personvernerklæringen er tilgjengelig på Europa-nettsidene.* |
 
-1.**Produktets navn**
+1\. **Produktets navn**
 
 [som offentliggjort i *Den europeiske unions tidende*]
 
-2.**Henvisning**
+2\. **Henvisning**
 
 - [som offentliggjort i *Den europeiske unions tidende*]
 - Referansenummer:
 - Dato for offentliggjøring i *Den europeiske unions tidende*:
 
-3.**Navn på parten som har inngitt innsigelsen**
+3\. **Navn på parten som har inngitt innsigelsen**
 
 [Medlemsstat, tredjeland eller fysisk eller juridisk person etablert i et tredjeland]
 
@@ -3072,11 +3072,11 @@ SØKNAD OM GODKJENNING AV EN ENDRING PÅ UNIONSPLAN AV PRODUKTSPESIFIKASJONEN (F
 
 *Legg også ved en erklæring med en nærmere redegjørelse for søkerens berettigede interesse.]*
 
-3.**Tredjeland som det geografiske området tilhører**
+3\. **Tredjeland som det geografiske området tilhører**
 
 ...
 
-4.**Avsnitt i produktspesifikasjonen og i enhetsdokumentet som berøres av endringen(e)**
+4\. **Avsnitt i produktspesifikasjonen og i enhetsdokumentet som berøres av endringen(e)**
 
 - Produktets navn
 - Kategori av eller lovbestemt betegnelse på den alkoholsterke drikken
@@ -3087,7 +3087,7 @@ SØKNAD OM GODKJENNING AV EN ENDRING PÅ UNIONSPLAN AV PRODUKTSPESIFIKASJONEN (F
 
 [*Legg ved en erklæring med en nærmere redegjørelse for hvorfor endringen(e) omfattes av definisjonen av «endring på unionsplan» som omhandlet i artikkel 31 i europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787)*[^2] ].
 
-6.**Endring(er)**
+6\. **Endring(er)**
 
 [*Legg ved en beskrivelse av og begrunnelsen for hver endring. Søknaden om endring skal være omfattende og uttømmende som fastsatt i artikkel 7 nr. 1 i delegert kommisjonsforordning [(EU) 2021/1235](eu/32021r1235)[^3] og i artikkel 7 i Kommisjonens gjennomføringsforordning [(EU) 2021/1236](eu/32021r1236)*[^4] ].
 
@@ -3127,7 +3127,7 @@ MELDING OM GODKJENNING AV EN STANDARDENDRING (FORORDNING (EU) 2019/787)
 
 [*En enkelt produsent eller en gruppe av produsenter som har en berettiget interesse, eller myndigheter i tredjelandet som den geografiske betegnelsen tilhører (se artikkel 24 nr. 8 i europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787)*[^2].]
 
-4.**Beskrivelse av den eller de godkjente endringene**
+4\. **Beskrivelse av den eller de godkjente endringene**
 
 [*Legg ved en beskrivelse av standardendringen(e) og en erklæring med en nærmere redegjørelse for hvorfor endringen(e) omfattes av definisjonen av «standardendring» som omhandlet i artikkel 31 nr. 3 i forordning [(EU) 2019/787](eu/32019r0787). Legg ved et sammendrag av begrunnelsen for at endringene er nødvendige. Angi om endringen fører til en endring av enhetsdokumentet eller ikke.*].
 
@@ -3212,13 +3212,13 @@ ANMODNING OM ANNULLERING (FORORDNING (EU) 2019/787)
 
 [*Angi en detaljert begrunnelse og, dersom det er relevant, bevis på annulleringen av registreringen av navnet i samsvar med artikkel 32 nr. 2 i forordning [(EU) 2019/787](eu/32019r0787)*.]
 
-5.**Liste over underlagsdokumenter**
+5\. **Liste over underlagsdokumenter**
 
 [*Legg ved listen over dokumentasjon som er sendt for å understøtte anmodningen om annullering, dersom det er relevant.*
 
 *For medlemsstater: Legg ved erklæringen om at anmodningen om annullering oppfyller kravene i artikkel 32 i forordning (EU) 2019/787 og bestemmelsene vedtatt i henhold til den.*]
 
-6.**Dato og underskrift**
+6\. **Dato og underskrift**
 
 - [Navn]
 - [Avdeling/organisasjon]
