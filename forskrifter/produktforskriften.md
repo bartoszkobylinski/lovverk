@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2026-09-17"
 last_updated: "2022-11-14"
-xml_hash: "48bf6aeb1b856644853253f9664067dd039124ac255f8fd6f73851072385436a"
+xml_hash: "ff46a4f3c9aaddc354e4b4c6265b99011666f165241ad5e7398c369df13fe304"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-25T09:32:58.782501+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2368,18 +2368,18 @@ Når det gjelder karbonlagre som påvirkes av jorddrenering, skal det tas hensyn
 
 Når det ikke brukes en verdi for *CVEG* i henhold til nr. 8, beregnes *CVEG* med følgende formel:
 
-*CVEG*= *CBM*+ *CDOM*
+*CVEG* = *CBM* + *CDOM*
 der:
 CVEG = karbonlageret i vegetasjon over og under jorden (målt som masse karbon per hektar),
 CBM = karbonlageret i levende biomasse over og under jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.1,
 CDOM = karbonlageret i dødt organisk materiale over og under jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.2.
 
-For *CDOM*kan verdien 0 brukes, men ikke når det gjelder skogkledde områder (med unntak av skogbeplantning) med en trekronedekning på over 30 %.
+For *CDOM* kan verdien 0 brukes, men ikke når det gjelder skogkledde områder (med unntak av skogbeplantning) med en trekronedekning på over 30 %.
 
 5.1.*Levende biomasse*
 
-Ved beregning av *CBM*brukes følgende formel:
-*CBM*= *CAGB*+ *CBGB*
+Ved beregning av *CBM* brukes følgende formel:
+*CBM* = *CAGB* + *CBGB*
 der:
 CBM = karbonlageret i levende biomasse over og under jorden (målt som masse karbon per hektar),
 CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.1.1,
@@ -2387,31 +2387,31 @@ CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per
 
 5.1.1.*Levende biomasse over jord*
 
-Ved beregning av *CAGB*brukes følgende formel:
-*CAGB*= *BAGB*× *CFB*
+Ved beregning av *CAGB* brukes følgende formel:
+*CAGB* = *BAGB* × *CFB*
 der:
 CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar),
 BAGB = vekten av levende biomasse over jorden (målt som masse tørrstoff per hektar),
 CFB = karbonandelen av tørrstoffet i levende biomasse (målt som masse karbon per masse tørrstoff).
 
-For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BAGB*være gjennomsnittsvekten av levende biomasse over jorden under produksjonssyklusen.
+For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BAGB* være gjennomsnittsvekten av levende biomasse over jorden under produksjonssyklusen.
 
-For *CFB*kan verdien 0,47 brukes.
+For *CFB* kan verdien 0,47 brukes.
 
 5.1.2.*Levende biomasse under jord*
 
-Ved beregning av *CBGB*brukes en av følgende to formler:
+Ved beregning av *CBGB* brukes en av følgende to formler:
 
-1. *CBGB*= *BBGB*× *CFB*
+1. *CBGB* = *BBGB* × *CFB*
    der:
    CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
    BBGB = vekten av levende biomasse under jorden (målt som masse tørrstoff per hektar),
    CFB = karbonandelen av tørrstoffet i levende biomasse (målt som masse karbon per masse tørrstoff).
 
-   For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BBGB*være gjennomsnittsvekten av levende biomasse under jorden under produksjonssyklusen.
+   For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BBGB* være gjennomsnittsvekten av levende biomasse under jorden under produksjonssyklusen.
 
-   For *CFB*kan verdien 0,47 brukes.
-2. *CBGB*= *CAGB*× *R*
+   For *CFB* kan verdien 0,47 brukes.
+2. *CBGB* = *CAGB* × *R*
    der:
    CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
    CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar),
@@ -2421,8 +2421,8 @@ Ved beregning av *CBGB*brukes en av følgende to formler:
 
 5.2.*Dødt organisk materiale*
 
-Ved beregning av *CDOM*brukes følgende formel:
-*CDOM*= *CDW*+ *CLI*
+Ved beregning av *CDOM* brukes følgende formel:
+*CDOM* = *CDW* + *CLI*
 der:
 CDOM = karbonlageret i dødt organisk materiale over og under jorden (målt som masse karbon per hektar),
 CDW = karbonlageret i død ved (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.2.1,
@@ -2430,31 +2430,31 @@ CLI = karbonlageret i strø (målt som masse karbon per hektar), beregnet i sams
 
 5.2.1.*Karbonlager i død ved*
 
-Ved beregning av *CDW*brukes følgende formel:
-*CDW*= *DOMDW*× *CFDW*
+Ved beregning av *CDW* brukes følgende formel:
+*CDW* = *DOMDW* × *CFDW*
 der:
 CDW = karbonlageret i død ved (målt som masse karbon per hektar),
 DOMDW = vekten av død ved (målt som masse tørrstoff per hektar),
 CFDW = karbonandelen av tørrstoffet i død ved (målt som masse karbon per masse tørrstoff).
 
-For *CFDW*kan verdien 0,5 brukes.
+For *CFDW* kan verdien 0,5 brukes.
 
 5.2.2.*Karbonlager i strø*
 
-Ved beregning av *CLI*brukes følgende formel:
-*CLI*= *DOMLI*× *CFLI*
+Ved beregning av *CLI* brukes følgende formel:
+*CLI* = *DOMLI* × *CFLI*
 der:
 CLI = karbonlageret i strø (målt som masse karbon per hektar),
 DOMLI = vekten av strø (målt som masse tørrstoff per hektar),
 CFLI = karbonandelen av tørrstoffet i strø (målt som masse karbon per masse tørrstoff).
 
-For *CFLI*kan verdien 0,4 brukes.
+For *CFLI* kan verdien 0,4 brukes.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### 6. Standardverdi for karbonlager i mineraljord
 
-Fra tabell 1 skal det velges en verdi for *SOCST*som tilsvarer klimasonen og jordtypen for det aktuelle området, som angitt i nr. 6.1 og 6.2.
+Fra tabell 1 skal det velges en verdi for *SOCST* som tilsvarer klimasonen og jordtypen for det aktuelle området, som angitt i nr. 6.1 og 6.2.
 
 ### Tabell 1
 
@@ -2479,7 +2479,7 @@ SOCST, standardverdi for organisk karbon i det øverste jordlaget (0–30 cm)
 
 6.1.*Klimasone*
 
-Hvilken klimasone det skal velges en *SOCST*-verdi for, bestemmes på grunnlag av de datalagene om klimasoner som er tilgjengelige gjennom den åpenhetsplattformen som er innført ved artikkel 24 i direktiv [2009/28/EF](eu/32009l0028).
+Hvilken klimasone det skal velges en *SOCST* -verdi for, bestemmes på grunnlag av de datalagene om klimasoner som er tilgjengelige gjennom den åpenhetsplattformen som er innført ved artikkel 24 i direktiv [2009/28/EF](eu/32009l0028).
 
 6.2.*Jordtype*
 
@@ -2493,7 +2493,7 @@ Klassifisering av jordtyper
 
 ### 7. Faktorer som gjenspeiler forskjellen mellom organisk karbon i jord og standardverdien for organisk karbon i jord
 
-Egnede verdier for *FLU*, *FMG*og *FI* skal velges fra tabellene i dette nummer. Ved beregning av *CSR*er egnede forvaltnings- og tilførselsfaktorer dem som gjaldt i januar 2008. Ved beregning av *CSA*er egnede forvaltnings- og tilførselsfaktorer dem som gjelder nå og som fører til likevekt for det aktuelle karbonlageret.
+Egnede verdier for *FLU*, *FMG* og *FI* skal velges fra tabellene i dette nummer. Ved beregning av *CSR* er egnede forvaltnings- og tilførselsfaktorer dem som gjaldt i januar 2008. Ved beregning av *CSA* er egnede forvaltnings- og tilførselsfaktorer dem som gjelder nå og som fører til likevekt for det aktuelle karbonlageret.
 
 7.1.*Dyrket mark*
 
@@ -2715,7 +2715,7 @@ Faktorer for skogarealer med en trekronedekning på minst 10 %
 | Temperert/ borealt, fuktig/tørt klima | Svedjebruk – kort brakkleggingstid | Ikke relevant | Ikke relevant | 1 |  |  |
 |  | Svedjebruk – full brakkleggingstid | Ikke relevant | Ikke relevant | 1 |  |  |
 
-1 I disse tilfellene skal *FMG*og *FI* ikke brukes, og for beregning av *SOC* kan følgende formel brukes: *SOC = SOC ST*× *F LU*.
+1 I disse tilfellene skal *FMG* og *FI* ikke brukes, og for beregning av *SOC* kan følgende formel brukes: *SOC = SOC ST* × *F LU*.
 
 Tabell 8 inneholder retningslinjer for valg av egnede verdier fra tabell 7.
 
@@ -2734,7 +2734,7 @@ Retningslinjer for arealbruk for skogarealer
 
 ### 8. Verdier for karbonlager i vegetasjon over og under jord
 
-For *CVEG*eller *R* kan de egnede verdiene i dette nummer brukes.
+For *CVEG* eller *R* kan de egnede verdiene i dette nummer brukes.
 
 8.1.*Dyrket mark*
 
