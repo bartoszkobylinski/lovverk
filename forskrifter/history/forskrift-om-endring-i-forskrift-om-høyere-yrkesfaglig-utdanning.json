@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261026-2238",
+  "events": [
+    {
+      "commit": "a71a9ee",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-høyere-yrkesfaglig-utdanning",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-høyere-yrkesfaglig-utdanning"
+}

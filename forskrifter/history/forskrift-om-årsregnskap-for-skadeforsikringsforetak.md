@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-årsregnskap-for-skadeforsikringsforetak — Change history
 
-_4 events; doc_id `sf-20151218-1775`._
+_5 events; doc_id `sf-20151218-1775`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-årsregnskap-for-skadeforsikringsforetak`
+Commit: `346078a`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # avfallsforskriften — Change history
 
-_6 events; doc_id `sf-20040601-0930`._
+_7 events; doc_id `sf-20040601-0930`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): avfallsforskriften`
+Commit: `ffd74fd`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

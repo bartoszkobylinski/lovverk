@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-konsekvensutredning-etter-genteknologiloven — Change history
 
-_6 events; doc_id `sf-20051216-1495`._
+_7 events; doc_id `sf-20051216-1495`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-konsekvensutredning-etter-genteknologiloven`
+Commit: `6455fba`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

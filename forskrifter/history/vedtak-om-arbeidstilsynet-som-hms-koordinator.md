@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vedtak-om-arbeidstilsynet-som-hms-koordinator — Change history
 
-_3 events; doc_id `sf-20040917-1271`._
+_4 events; doc_id `sf-20040917-1271`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): vedtak-om-arbeidstilsynet-som-hms-koordinator`
+Commit: `250e94b`.
 
 ## 2026-09-14 — Content updated
 Lines: +3 -3.

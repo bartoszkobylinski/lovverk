@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer — Change history
 
-_3 events; doc_id `sf-19970418-0337`._
+_4 events; doc_id `sf-19970418-0337`._
+
+## 2026-11-05 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer`
+Commit: `a801eab`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

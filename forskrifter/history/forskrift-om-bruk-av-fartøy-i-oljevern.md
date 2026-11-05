@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-bruk-av-fartøy-i-oljevern — Change history
 
-_3 events; doc_id `sf-20110208-0130`._
+_4 events; doc_id `sf-20110208-0130`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-bruk-av-fartøy-i-oljevern`
+Commit: `0de636f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

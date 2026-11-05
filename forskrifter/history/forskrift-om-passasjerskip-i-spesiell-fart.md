@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-passasjerskip-i-spesiell-fart — Change history
 
-_6 events; doc_id `sf-19770215-0002`._
+_7 events; doc_id `sf-19770215-0002`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-passasjerskip-i-spesiell-fart`
+Commit: `ac456fb`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

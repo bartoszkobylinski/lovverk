@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261009-2216",
+  "events": [
+    {
+      "commit": "a53675f",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 0,
+      "subject": "add(forskrift): utvidelse-av-virkeområdet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "utvidelse-av-virkeområdet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall"
+}

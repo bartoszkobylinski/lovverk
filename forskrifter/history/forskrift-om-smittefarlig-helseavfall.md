@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-smittefarlig-helseavfall — Change history
 
-_6 events; doc_id `sf-20051011-1196`._
+_7 events; doc_id `sf-20051011-1196`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-smittefarlig-helseavfall`
+Commit: `5fc0271`.
 
 ## 2026-10-29 — Content updated
 Lines: +2 -2.

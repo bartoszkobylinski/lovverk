@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-din-kompetanse-fagskole-as — Change history
 
-_4 events; doc_id `sf-20250804-1620`._
+_5 events; doc_id `sf-20250804-1620`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-din-kompetanse-fagskole-as`
+Commit: `dcd7ce3`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

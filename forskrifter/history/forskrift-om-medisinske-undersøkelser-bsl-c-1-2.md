@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-medisinske-undersøkelser-bsl-c-1-2 — Change history
 
-_5 events; doc_id `sf-20010823-1067`._
+_6 events; doc_id `sf-20010823-1067`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-medisinske-undersøkelser-bsl-c-1-2`
+Commit: `8ddfe7c`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

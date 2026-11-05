@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-bakketjeneste-ved-flyplasser — Change history
 
-_4 events; doc_id `sf-20030627-0935`._
+_5 events; doc_id `sf-20030627-0935`._
+
+## 2026-11-05 — Content updated
+Lines: +8 -4.
+Subject: `update(forskrift): forskrift-om-bakketjeneste-ved-flyplasser`
+Commit: `774bc9b`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

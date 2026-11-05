@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata — Change history
 
-_5 events; doc_id `sf-20230111-0048`._
+_6 events; doc_id `sf-20230111-0048`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata`
+Commit: `2de7e77`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

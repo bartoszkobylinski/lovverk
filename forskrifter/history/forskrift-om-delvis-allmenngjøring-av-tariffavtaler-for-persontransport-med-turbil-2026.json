@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261022-2230",
+  "events": [
+    {
+      "commit": "3b122e7",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 18,
+      "lines_removed": 32,
+      "subject": "add(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026"
+}

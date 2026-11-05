@@ -2,6 +2,16 @@
   "doc_id": "sf-20150430-0426",
   "events": [
     {
+      "commit": "7731966",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-veterinærreiser",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

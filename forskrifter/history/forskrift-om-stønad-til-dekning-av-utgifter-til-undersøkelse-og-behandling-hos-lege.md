@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege — Change history
 
-_6 events; doc_id `sf-20240626-1322`._
+_7 events; doc_id `sf-20240626-1322`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege`
+Commit: `6ae8862`.
 
 ## 2026-08-01 — Content updated
 Lines: +5 -5.

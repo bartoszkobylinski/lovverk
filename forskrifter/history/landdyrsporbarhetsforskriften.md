@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # landdyrsporbarhetsforskriften — Change history
 
-_5 events; doc_id `sf-20220407-0637`._
+_6 events; doc_id `sf-20220407-0637`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): landdyrsporbarhetsforskriften`
+Commit: `aeaf2ad`.
 
 ## 2026-10-29 — Content updated
 Lines: +2 -2.

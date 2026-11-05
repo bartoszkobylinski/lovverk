@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261022-2229",
+  "events": [
+    {
+      "commit": "982fa42",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 40,
+      "lines_removed": 54,
+      "subject": "add(forskrift): forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien-2026"
+}

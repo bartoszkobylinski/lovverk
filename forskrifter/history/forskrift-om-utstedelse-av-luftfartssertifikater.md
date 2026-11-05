@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utstedelse-av-luftfartssertifikater — Change history
 
-_3 events; doc_id `sf-20001220-1673`._
+_4 events; doc_id `sf-20001220-1673`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utstedelse-av-luftfartssertifikater`
+Commit: `a5fab11`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

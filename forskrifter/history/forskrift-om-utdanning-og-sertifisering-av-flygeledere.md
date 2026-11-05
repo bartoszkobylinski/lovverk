@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utdanning-og-sertifisering-av-flygeledere — Change history
 
-_4 events; doc_id `sf-20160617-0710`._
+_5 events; doc_id `sf-20160617-0710`._
+
+## 2026-11-05 — Content updated
+Lines: +13 -10.
+Subject: `update(forskrift): forskrift-om-utdanning-og-sertifisering-av-flygeledere`
+Commit: `f50d08d`.
 
 ## 2026-07-07 — Content updated
 Lines: +7 -5.

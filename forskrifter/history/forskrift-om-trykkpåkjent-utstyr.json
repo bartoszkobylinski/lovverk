@@ -2,6 +2,16 @@
   "doc_id": "sf-20171010-1631",
   "events": [
     {
+      "commit": "7c18dd5",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-trykkpåkjent-utstyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0e3e3b9",
       "date": "2026-09-09",
       "from_path": null,

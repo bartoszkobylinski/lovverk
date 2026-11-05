@@ -7,10 +7,20 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei — Change history
 
-_2 events; doc_id `sf-20241029-2601`._
+_4 events; doc_id `sf-20241029-2601`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei`
+Commit: `6802539`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20241029-2601.md` → `"forskrifter/forskrift-om-delvis-allmenngj\303\270ring-av-tariffavtaler-for-godstransport-p\303\245-vei.md"`.
+Renamed: `forskrifter/sf-20241029-2601.md` → `forskrifter/forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

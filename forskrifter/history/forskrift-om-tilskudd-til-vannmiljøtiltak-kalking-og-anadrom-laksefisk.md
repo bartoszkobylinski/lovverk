@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-vannmiljøtiltak-kalking-og-anadrom-laksefisk — Change history
 
-_3 events; doc_id `sf-20241004-2409`._
+_4 events; doc_id `sf-20241004-2409`._
+
+## 2026-11-05 — Content updated
+Lines: +14 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-vannmiljøtiltak-kalking-og-anadrom-laksefisk`
+Commit: `5412698`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

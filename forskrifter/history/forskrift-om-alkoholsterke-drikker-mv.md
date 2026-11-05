@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-alkoholsterke-drikker-mv — Change history
 
-_6 events; doc_id `sf-20061011-1148`._
+_7 events; doc_id `sf-20061011-1148`._
+
+## 2026-11-05 — Content updated
+Lines: +15 -15.
+Subject: `update(forskrift): forskrift-om-alkoholsterke-drikker-mv`
+Commit: `0a41e24`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

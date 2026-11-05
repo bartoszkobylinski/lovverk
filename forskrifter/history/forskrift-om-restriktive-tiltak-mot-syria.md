@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-restriktive-tiltak-mot-syria — Change history
 
-_4 events; doc_id `sf-20110902-0902`._
+_5 events; doc_id `sf-20110902-0902`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-restriktive-tiltak-mot-syria`
+Commit: `5f6e722`.
 
 ## 2026-10-29 — Content updated
 Lines: +2 -2.

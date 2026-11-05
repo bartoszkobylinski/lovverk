@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-kosmetikk-og-kroppspleieprodukter — Change history
 
-_7 events; doc_id `sf-20130408-0391`._
+_8 events; doc_id `sf-20130408-0391`._
+
+## 2026-11-05 — Content updated
+Lines: +14 -14.
+Subject: `update(forskrift): forskrift-om-kosmetikk-og-kroppspleieprodukter`
+Commit: `d9dc74a`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

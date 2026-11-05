@@ -2,6 +2,16 @@
   "doc_id": "sf-20260413-0592",
   "events": [
     {
+      "commit": "cbebb0f",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-delvis-allmenngjøring-av-biloverenskomsten",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "142a9ad",
       "date": "2026-05-06",
       "from_path": null,

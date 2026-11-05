@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # råk-importforskriften — Change history
 
-_3 events; doc_id `sf-20121220-1424`._
+_4 events; doc_id `sf-20121220-1424`._
+
+## 2026-11-05 — Content updated
+Lines: +36 -28.
+Subject: `update(forskrift): råk-importforskriften`
+Commit: `92a32cb`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20030627-0935",
   "events": [
     {
+      "commit": "774bc9b",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-bakketjeneste-ved-flyplasser",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3687ef2",
       "date": "2026-09-09",
       "from_path": null,

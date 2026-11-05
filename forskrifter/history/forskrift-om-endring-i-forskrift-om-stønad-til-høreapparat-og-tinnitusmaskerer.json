@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260921-2199",
+  "events": [
+    {
+      "commit": "8d35283",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer"
+}

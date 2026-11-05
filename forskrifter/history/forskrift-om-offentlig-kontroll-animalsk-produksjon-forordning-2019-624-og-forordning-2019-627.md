@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627 — Change history
 
-_7 events; doc_id `sf-20200309-0720`._
+_8 events; doc_id `sf-20200309-0720`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627`
+Commit: `af9c215`.
 
 ## 2026-10-30 — Content updated
 Lines: +17 -9.

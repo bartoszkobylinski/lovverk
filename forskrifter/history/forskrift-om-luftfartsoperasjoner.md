@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-luftfartsoperasjoner — Change history
 
-_4 events; doc_id `sf-20130807-0956`._
+_5 events; doc_id `sf-20130807-0956`._
+
+## 2026-11-05 — Content updated
+Lines: +6 -5.
+Subject: `update(forskrift): forskrift-om-luftfartsoperasjoner`
+Commit: `0adfbea`.
 
 ## 2026-07-07 — Content updated
 Lines: +5 -5.

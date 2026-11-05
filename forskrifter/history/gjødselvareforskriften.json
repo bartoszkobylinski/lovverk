@@ -2,6 +2,16 @@
   "doc_id": "sf-20250129-0116",
   "events": [
     {
+      "commit": "0d37c79",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): gjødselvareforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b2def50",
       "date": "2026-09-14",
       "from_path": null,

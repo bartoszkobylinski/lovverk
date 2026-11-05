@@ -2,6 +2,16 @@
   "doc_id": "sf-20251024-2093",
   "events": [
     {
+      "commit": "3a14a19",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-informasjonssikkerhet-i-sivil-luftfart",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "ca86bd5",
       "date": "2026-07-07",
       "from_path": null,

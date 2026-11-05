@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-til-petroleumsloven — Change history
 
-_4 events; doc_id `sf-19970627-0653`._
+_5 events; doc_id `sf-19970627-0653`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-til-petroleumsloven`
+Commit: `87b2761`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

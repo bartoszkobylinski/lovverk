@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261022-2233",
+  "events": [
+    {
+      "commit": "8ee8531",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 23,
+      "lines_removed": 37,
+      "subject": "add(forskrift): forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene-2026"
+}

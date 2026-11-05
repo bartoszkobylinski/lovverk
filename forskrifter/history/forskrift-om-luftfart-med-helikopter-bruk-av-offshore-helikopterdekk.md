@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-luftfart-med-helikopter-bruk-av-offshore-helikopterdekk — Change history
 
-_3 events; doc_id `sf-20190514-0604`._
+_4 events; doc_id `sf-20190514-0604`._
+
+## 2026-11-05 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-luftfart-med-helikopter-bruk-av-offshore-helikopterdekk`
+Commit: `b6fc98a`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

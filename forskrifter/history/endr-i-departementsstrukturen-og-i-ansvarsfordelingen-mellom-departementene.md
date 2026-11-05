@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene — Change history
 
-_1 events; doc_id `sf-20180427-0638`._
+_2 events; doc_id `sf-20180427-0638`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene`
+Commit: `8d8f489`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +113 -0.

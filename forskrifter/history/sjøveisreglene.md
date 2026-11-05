@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sjøveisreglene — Change history
 
-_6 events; doc_id `sf-19751201-0005`._
+_7 events; doc_id `sf-19751201-0005`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): sjøveisreglene`
+Commit: `d6a3770`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

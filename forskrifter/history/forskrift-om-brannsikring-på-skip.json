@@ -2,6 +2,16 @@
   "doc_id": "sf-20140701-1099",
   "events": [
     {
+      "commit": "ee24081",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-brannsikring-på-skip",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "95797dc",
       "date": "2026-09-14",
       "from_path": null,

@@ -7,15 +7,14 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege — Change history
 
-_2 events; doc_id `sf-20250523-0848`._
+_2 events; doc_id `sf-20261028-2219`._
 
-## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250523-0848.md` → `"forskrifter/forskrift-om-endring-i-forskrift-om-st\303\270nad-til-dekning-av-utgifter-til-unders\303\270kelse-og-behandling-hos-lege.md"`.
-Lines: +2 -1.
-Subject: `migration: rename 4522 documents to slug-based filenames`
-Commit: `3dddeca`.
+## 2026-11-05 — Added to corpus
+Lines: +71 -0.
+Subject: `add(forskrift): forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege`
+Commit: `3556036`.
 
-## 2026-04-26 — Added to corpus
-Lines: +29 -0.
-Subject: `sync: 4522 new, 0 changed, 0 removed`
-Commit: `57c3052`.
+## 2026-05-04 — Content updated
+Lines: +0 -31.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.

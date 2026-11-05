@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-krav-til-elektrisitetsmålere — Change history
 
-_5 events; doc_id `sf-20071228-1753`._
+_6 events; doc_id `sf-20071228-1753`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-krav-til-elektrisitetsmålere`
+Commit: `443053a`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20250804-1620",
   "events": [
     {
+      "commit": "dcd7ce3",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-din-kompetanse-fagskole-as",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "99345dd",
       "date": "2026-09-09",
       "from_path": null,

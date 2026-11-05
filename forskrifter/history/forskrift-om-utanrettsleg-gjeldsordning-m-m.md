@@ -7,7 +7,17 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utanrettsleg-gjeldsordning-m-m — Change history
 
-_2 events; doc_id `sf-20011031-1274`._
+_4 events; doc_id `sf-20011031-1274`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utanrettsleg-gjeldsordning-m-m`
+Commit: `7cfc9eb`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20011031-1274.md` → `forskrifter/forskrift-om-utanrettsleg-gjeldsordning-m-m.md`.

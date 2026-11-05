@@ -7,10 +7,20 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil — Change history
 
-_2 events; doc_id `sf-20241021-2534`._
+_4 events; doc_id `sf-20241021-2534`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil`
+Commit: `ad6247c`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20241021-2534.md` → `"forskrifter/forskrift-om-delvis-allmenngj\303\270ring-av-tariffavtaler-for-persontransport-med-turbil.md"`.
+Renamed: `forskrifter/sf-20241021-2534.md` → `forskrifter/forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

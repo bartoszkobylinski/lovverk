@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-allmenngjøring-av-biloverenskomsten — Change history
 
-_4 events; doc_id `sf-20260413-0592`._
+_5 events; doc_id `sf-20260413-0592`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-delvis-allmenngjøring-av-biloverenskomsten`
+Commit: `cbebb0f`.
 
 ## 2026-05-06 — Content updated
 Lines: +7 -5.

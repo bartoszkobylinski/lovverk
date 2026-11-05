@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-innenriks-passasjerskip — Change history
 
-_4 events; doc_id `sf-20000328-0305`._
+_5 events; doc_id `sf-20000328-0305`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-innenriks-passasjerskip`
+Commit: `5d9a468`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

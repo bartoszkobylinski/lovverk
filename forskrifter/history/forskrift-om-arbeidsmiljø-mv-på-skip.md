@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-arbeidsmiljø-mv-på-skip — Change history
 
-_5 events; doc_id `sf-20050101-0008`._
+_6 events; doc_id `sf-20050101-0008`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-arbeidsmiljø-mv-på-skip`
+Commit: `7a90473`.
 
 ## 2026-09-14 — Content updated
 Lines: +3 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utforming-av-store-helikopterplasser — Change history
 
-_6 events; doc_id `sf-20050429-0418`._
+_7 events; doc_id `sf-20050429-0418`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utforming-av-store-helikopterplasser`
+Commit: `84b7240`.
 
 ## 2026-10-29 — Content updated
 Lines: +4 -4.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-i-møre-og-romsdal — Change history
 
-_7 events; doc_id `sf-20201020-2103`._
+_8 events; doc_id `sf-20201020-2103`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-i-møre-og-romsdal`
+Commit: `8db6cd6`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

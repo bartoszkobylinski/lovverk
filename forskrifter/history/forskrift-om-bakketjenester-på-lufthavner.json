@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261023-2200",
+  "events": [
+    {
+      "commit": "295e80a",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 53,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-bakketjenester-på-lufthavner",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-bakketjenester-på-lufthavner"
+}

@@ -2,6 +2,16 @@
   "doc_id": "sf-20261030-2189",
   "events": [
     {
+      "commit": "82feb8e",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): endr-i-integreringsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "bf30e96",
       "date": "2026-11-01",
       "from_path": null,

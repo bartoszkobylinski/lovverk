@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # delegering-av-myndighet-etter-vegtrafikkloven — Change history
 
-_1 events; doc_id `sf-19900608-0443`._
+_2 events; doc_id `sf-19900608-0443`._
+
+## 2026-11-05 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): delegering-av-myndighet-etter-vegtrafikkloven`
+Commit: `c3b75e8`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +26 -0.

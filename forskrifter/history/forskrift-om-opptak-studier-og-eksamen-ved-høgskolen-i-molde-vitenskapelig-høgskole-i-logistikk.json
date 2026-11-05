@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261028-2239",
+  "events": [
+    {
+      "commit": "d6e2a1a",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 62,
+      "lines_removed": 175,
+      "subject": "add(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-opptak-studier-og-eksamen-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk"
+}

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sertifisering-av-flyplasser-mv — Change history
 
-_4 events; doc_id `sf-20150825-1000`._
+_5 events; doc_id `sf-20150825-1000`._
+
+## 2026-11-05 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-sertifisering-av-flyplasser-mv`
+Commit: `40591ed`.
 
 ## 2026-07-07 — Content updated
 Lines: +9 -9.

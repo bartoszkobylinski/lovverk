@@ -2,6 +2,16 @@
   "doc_id": "sf-20130807-0956",
   "events": [
     {
+      "commit": "0adfbea",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-luftfartsoperasjoner",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "ddb22b2",
       "date": "2026-07-07",
       "from_path": null,

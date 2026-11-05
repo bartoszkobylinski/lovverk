@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-bruk-av-bilbelte-mv — Change history
 
-_3 events; doc_id `sf-19790921-0007`._
+_4 events; doc_id `sf-19790921-0007`._
+
+## 2026-11-05 — Content updated
+Lines: +7 -3.
+Subject: `update(forskrift): forskrift-om-bruk-av-bilbelte-mv`
+Commit: `969e1f6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

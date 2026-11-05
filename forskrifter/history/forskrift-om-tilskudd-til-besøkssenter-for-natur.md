@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-besøkssenter-for-natur — Change history
 
-_3 events; doc_id `sf-20231115-1846`._
+_4 events; doc_id `sf-20231115-1846`._
+
+## 2026-11-05 — Content updated
+Lines: +16 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-besøkssenter-for-natur`
+Commit: `8041443`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

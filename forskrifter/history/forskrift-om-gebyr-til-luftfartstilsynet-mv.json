@@ -2,6 +2,16 @@
   "doc_id": "sf-20260128-0125",
   "events": [
     {
+      "commit": "34bba7c",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-gebyr-til-luftfartstilsynet-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

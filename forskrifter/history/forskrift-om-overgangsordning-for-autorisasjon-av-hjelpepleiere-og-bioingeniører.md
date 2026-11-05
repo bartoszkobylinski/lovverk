@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-overgangsordning-for-autorisasjon-av-hjelpepleiere-og-bioingeniører — Change history
 
-_5 events; doc_id `sf-20001221-1381`._
+_6 events; doc_id `sf-20001221-1381`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-overgangsordning-for-autorisasjon-av-hjelpepleiere-og-bioingeniører`
+Commit: `06b3b8e`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

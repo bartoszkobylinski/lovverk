@@ -2,6 +2,16 @@
   "doc_id": "sf-20170619-0840",
   "events": [
     {
+      "commit": "85baa82",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): byggteknisk-forskrift-tek17",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "63e87de",
       "date": "2026-10-01",
       "from_path": null,

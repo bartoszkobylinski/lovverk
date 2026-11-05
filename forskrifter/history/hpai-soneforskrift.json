@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261103-2258",
+  "events": [
+    {
+      "commit": "731d4a6",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 90,
+      "lines_removed": 0,
+      "subject": "add(forskrift): hpai-soneforskrift",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "hpai-soneforskrift"
+}

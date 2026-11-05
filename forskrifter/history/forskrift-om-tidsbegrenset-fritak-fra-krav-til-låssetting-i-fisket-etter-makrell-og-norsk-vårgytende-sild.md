@@ -7,15 +7,14 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tidsbegrenset-fritak-fra-krav-til-låssetting-i-fisket-etter-makrell-og-norsk-vårgytende-sild — Change history
 
-_2 events; doc_id `sf-20251219-2823`._
+_2 events; doc_id `sf-20261102-2241`._
 
-## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251219-2823.md` → `"forskrifter/forskrift-om-tidsbegrenset-fritak-fra-krav-til-l\303\245ssetting-i-fisket-etter-makrell-og-norsk-v\303\245rgytende-sild.md"`.
-Lines: +2 -1.
-Subject: `migration: rename 4522 documents to slug-based filenames`
-Commit: `3dddeca`.
+## 2026-11-05 — Added to corpus
+Lines: +35 -0.
+Subject: `add(forskrift): forskrift-om-tidsbegrenset-fritak-fra-krav-til-låssetting-i-fisket-etter-makrell-og-norsk-vårgytende-sild`
+Commit: `3ed2f1f`.
 
-## 2026-04-26 — Added to corpus
-Lines: +33 -0.
-Subject: `sync: 4522 new, 0 changed, 0 removed`
-Commit: `57c3052`.
+## 2026-05-04 — Content updated
+Lines: +0 -35.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.

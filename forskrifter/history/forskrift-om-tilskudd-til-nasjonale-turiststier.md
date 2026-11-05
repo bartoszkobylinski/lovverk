@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-nasjonale-turiststier — Change history
 
-_4 events; doc_id `sf-20231115-1847`._
+_5 events; doc_id `sf-20231115-1847`._
+
+## 2026-11-05 — Content updated
+Lines: +18 -2.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-nasjonale-turiststier`
+Commit: `e15a701`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

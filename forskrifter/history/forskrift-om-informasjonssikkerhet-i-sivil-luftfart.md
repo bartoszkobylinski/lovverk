@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-informasjonssikkerhet-i-sivil-luftfart — Change history
 
-_4 events; doc_id `sf-20251024-2093`._
+_5 events; doc_id `sf-20251024-2093`._
+
+## 2026-11-05 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-informasjonssikkerhet-i-sivil-luftfart`
+Commit: `3a14a19`.
 
 ## 2026-07-07 — Content updated
 Lines: +22 -4.

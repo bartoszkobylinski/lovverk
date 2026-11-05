@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # luftfartsloven-luftl — Change history
 
-_6 events; doc_id `nl-19930611-101`._
+_7 events; doc_id `nl-19930611-101`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): luftfartsloven-luftl`
+Commit: `6ecfd81`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

@@ -7,7 +7,17 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-skolepenger-i-utlandet — Change history
 
-_2 events; doc_id `sf-20030213-0224`._
+_4 events; doc_id `sf-20030213-0224`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-skolepenger-i-utlandet`
+Commit: `d43ca46`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20030213-0224.md` → `forskrifter/forskrift-om-skolepenger-i-utlandet.md`.

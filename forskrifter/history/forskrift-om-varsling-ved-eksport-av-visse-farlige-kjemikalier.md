@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-varsling-ved-eksport-av-visse-farlige-kjemikalier — Change history
 
-_3 events; doc_id `sf-20201104-2293`._
+_4 events; doc_id `sf-20201104-2293`._
+
+## 2026-11-05 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-varsling-ved-eksport-av-visse-farlige-kjemikalier`
+Commit: `e213f0d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-studier-og-eksamen-ved-nord-universitet — Change history
 
-_3 events; doc_id `sf-20240619-1643`._
+_4 events; doc_id `sf-20240619-1643`._
+
+## 2026-11-05 — Content updated
+Lines: +34 -22.
+Subject: `update(forskrift): forskrift-om-studier-og-eksamen-ved-nord-universitet`
+Commit: `48cf8f5`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

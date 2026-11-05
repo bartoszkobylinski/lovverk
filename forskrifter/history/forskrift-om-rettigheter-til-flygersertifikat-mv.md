@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-rettigheter-til-flygersertifikat-mv — Change history
 
-_5 events; doc_id `sf-19941114-1298`._
+_6 events; doc_id `sf-19941114-1298`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-rettigheter-til-flygersertifikat-mv`
+Commit: `bb57575`.
 
 ## 2026-09-14 — Content updated
 Lines: +2 -2.

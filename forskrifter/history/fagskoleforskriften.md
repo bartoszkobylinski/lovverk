@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # fagskoleforskriften — Change history
 
-_5 events; doc_id `sf-20190711-1005`._
+_6 events; doc_id `sf-20190711-1005`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): fagskoleforskriften`
+Commit: `8c38e6c`.
 
 ## 2026-10-30 — Content updated
 Lines: +29 -7.

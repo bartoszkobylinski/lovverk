@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-byggeplasser-i-norge — Change history
 
-_3 events; doc_id `sf-20241021-2544`._
+_4 events; doc_id `sf-20241021-2544`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-byggeplasser-i-norge`
+Commit: `813bfa0`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

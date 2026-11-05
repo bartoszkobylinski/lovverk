@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # deleg-etter-rammeforskriften — Change history
 
-_1 events; doc_id `sf-20110922-0966`._
+_2 events; doc_id `sf-20110922-0966`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): deleg-etter-rammeforskriften`
+Commit: `d1d93b7`.
 
 ## 2026-06-30 — Added to corpus
 Lines: +45 -0.

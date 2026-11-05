@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-veterinærreiser — Change history
 
-_3 events; doc_id `sf-20150430-0426`._
+_4 events; doc_id `sf-20150430-0426`._
+
+## 2026-11-05 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-veterinærreiser`
+Commit: `7731966`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

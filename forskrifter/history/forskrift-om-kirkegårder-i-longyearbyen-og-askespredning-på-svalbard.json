@@ -2,6 +2,16 @@
   "doc_id": "sf-20080215-0153",
   "events": [
     {
+      "commit": "0ece5d8",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-kirkegårder-i-longyearbyen-og-askespredning-på-svalbard",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b785d2d",
       "date": "2026-10-29",
       "from_path": null,

@@ -2,6 +2,16 @@
   "doc_id": "sf-20010823-1067",
   "events": [
     {
+      "commit": "8ddfe7c",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-medisinske-undersøkelser-bsl-c-1-2",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fe5095e",
       "date": "2026-09-14",
       "from_path": null,

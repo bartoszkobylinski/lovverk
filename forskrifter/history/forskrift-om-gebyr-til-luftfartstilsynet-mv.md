@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-gebyr-til-luftfartstilsynet-mv — Change history
 
-_1 events; doc_id `sf-20260128-0125`._
+_2 events; doc_id `sf-20260128-0125`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-gebyr-til-luftfartstilsynet-mv`
+Commit: `34bba7c`.
 
 ## 2026-05-04 — Content updated
 Lines: +0 -587.

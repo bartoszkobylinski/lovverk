@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utforming-av-små-flyplasser — Change history
 
-_4 events; doc_id `sf-20021203-1382`._
+_5 events; doc_id `sf-20021203-1382`._
+
+## 2026-11-05 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utforming-av-små-flyplasser`
+Commit: `c9bfe35`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.
