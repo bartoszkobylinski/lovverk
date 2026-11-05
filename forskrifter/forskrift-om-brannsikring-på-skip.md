@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-09-15"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-21"
-xml_hash: "f8e29e8bd899110a6b9f1c82aa4a1c90df165b1a0a8f85aa66d776ac39f3d626"
+xml_hash: "35ce95016185328a0aa5edaa82aad00200a7016accaae445143fa10749125ccd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3145,7 +3145,7 @@ Når det påvises til administrasjonens tilfredshet at et passasjerskip brukes p
 
 7.1.3
 
-Med unntak av roro-rom og kjøretøyrom skal lasterom på lasteskip med bruttotonnasje 2000 eller mer være beskyttet med et fastmontert brannslokkingsanlegg med CO2eller nøytralgass i samsvar med bestemmelsene i FSS-koden eller med et brannslokkingsanlegg som gir likeverdig beskyttelse.
+Med unntak av roro-rom og kjøretøyrom skal lasterom på lasteskip med bruttotonnasje 2000 eller mer være beskyttet med et fastmontert brannslokkingsanlegg med CO2 eller nøytralgass i samsvar med bestemmelsene i FSS-koden eller med et brannslokkingsanlegg som gir likeverdig beskyttelse.
 
 7.1.4
 
