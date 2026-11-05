@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2025-10-24"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-23"
 last_updated: null
-xml_hash: "9705a226520f8c01881f7fbfde5427f928fe83b29f5be89bf3d4d7f9ece274f6"
+xml_hash: "794cb8dcb4a808fff6bed977ddbe114f76063e7e963e0a3351add0059237c760"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-(1) [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbg (forordning [(EU) 2022/1645](eu/32022r1645)) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2018/1139](eu/32018r1139) med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748) og [(EU) nr. 139/2014](eu/32014d0139), og om endring av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748) og [(EU) nr. 139/2014](eu/32014d0139), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+(1) [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbg (forordning [(EU) 2022/1645](eu/32022r1645) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2018/1139](eu/32018r1139) med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748) og [(EU) nr. 139/2014](eu/32014r0139), og om endring av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748) og [(EU) nr. 139/2014](eu/32014r0139), som endret ved forordning [(EU) 2025/22](eu/32025r0022)) gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
 
 (2) [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbh (forordning [(EU) 2023/203](eu/32023r0203)) om fastsettelse av regler for anvendelsen av forordning [(EU) 2018/1139](eu/32018r1139) med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av forordning [(EU) nr. 1321/2014](eu/32014r1321), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 1178/2011](eu/32011r1178) og [(EU) 2015/340](eu/32015r0340) og forordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), og for vedkommende myndigheter som omfattes av forordning [(EU) nr. 748/2012](eu/32012r0748), [(EU) nr. 1321/2014](eu/32014r1321), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 1178/2011](eu/32011r1178), [(EU) 2015/340](eu/32015r0340) og [(EU) nr. 139/2014](eu/32014d0139) og forordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), og om endring av forordning [(EU) nr. 1178/2011](eu/32011r1178), [(EU) nr. 748/2012](eu/32012r0748), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 139/2014](eu/32014d0139), [(EU) nr. 1321/2014](eu/32014r1321) og [(EU) 2015/340](eu/32015r0340) og forordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), endret ved:
 
@@ -34,7 +34,7 @@ eu_basis: []
 
 gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrift [1 juli 2026 nr. 1481](forskrift/2026-07-01-1481).
+> Endret ved forskrifter [1 juli 2026 nr. 1481](forskrift/2026-07-01-1481), [23 okt 2026 nr. 2200](forskrift/2026-10-23-2200).
 
 ## § 2. Geografisk virkeområde
 
