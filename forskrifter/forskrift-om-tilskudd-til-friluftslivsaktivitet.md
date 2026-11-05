@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "b3405dc716090547a836cc4aba6575eb1a607fe217f21955fa4245773277b767"
+xml_hash: "142222c33f2ba28c5c8512ab43e6dd2bc902bf8d925721c8b1339a2c85e30ece"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,6 +29,8 @@ Tilskuddsordningen skal bidra til økt deltakelse i helsefremmende, trivselsskap
 ## § 2. Kriterier for måloppnåelse
 
 Måloppnåelse vurderes med utgangspunkt i om tildelte tilskudd bidrar til økt deltakelse i helsefremmende, trivselsskapende og miljøvennlig friluftsliv for alle grupper i befolkningen, med vekt på de gruppene som er særskilt prioritert i ordningen.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 3. Hvem som kan søke om tilskudd
 
@@ -84,6 +86,8 @@ Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i 
 
 Nye søkere må legge ved organisasjonens vedtekter, siste årsmelding, regnskap og en oversikt over antall medlemmer.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
 Miljødirektoratet og fylkeskommunen kan
@@ -99,9 +103,13 @@ Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen d
 1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
 2. uberettiget tilskudd er utbetalt.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 9. Behandling av søknad om tilskudd
 
 Miljødirektoratet og fylkeskommunen gir tilskudd etter en skjønnsmessig vurdering av søknadene. I vurderingen legges det vekt på prioriteringene i [§ 5](forskrift/2023-11-15-1832/§5) og formålet i [§ 1](forskrift/2023-11-15-1832/§1).
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 10. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -119,7 +127,7 @@ Når tilskuddet er 400 000 kroner eller høyere skal tilskuddsregnskapet være 
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-> Endret ved forskrift [4 des 2025 nr. 2426](forskrift/2025-12-04-2426) (i kraft 1 jan 2026).
+> Endret ved forskrift [4 des 2025 nr. 2426](forskrift/2025-12-04-2426) (i kraft 1 jan 2026). **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 12. Oppfølging og kontroll
 
@@ -128,6 +136,8 @@ Miljødirektoratet og fylkeskommunen kan kontrollere at tilskuddsmottaker oppfyl
 Miljødirektoratet og fylkeskommunen har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 13. Stans og tilbakebetaling av tilskudd
 
@@ -138,6 +148,8 @@ Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren i
 Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som er for mye utbetalt kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
 
 Ved manglende tilbakebetaling vil organisasjonen ikke være søknadsberettiget før tilbakebetaling er foretatt.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 14. Ikrafttredelse
 
