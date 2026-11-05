@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-11"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "0cafe99748e0f52fe1a7ae67b6520e3b5e2b527d1e620accfa58070b2844bfe2"
+xml_hash: "440bd8e8b8b62da5baba1b7b38a8966e11ccbc9ca2e6694af2815430a1eb2896"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -153,4 +153,4 @@ Forskriften trer i kraft straks.
 10. Legemiddelregisteret
 11. Helsearkivregisteret.
 
-> Endret ved forskrift [7 mars 2023 nr. 307](forskrift/2023-03-07-307) (i kraft 15 mars 2023).
+> Endret ved forskrift [7 mars 2023 nr. 307](forskrift/2023-03-07-307) (i kraft 15 mars 2023). **Endres** ved forskrift [3 nov 2026 nr. 2261](forskrift/2026-11-03-2261) (i kraft 1 jan 2027).
