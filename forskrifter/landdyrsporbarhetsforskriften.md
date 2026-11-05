@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-04-28"
 last_change_in_force: "2024-09-22"
 last_updated: "2022-06-21"
-xml_hash: "af1fdd1ef1e8382496da6a4a0ae381326b2e439dd863d7f78407812a88508401"
+xml_hash: "c040d99b76cf7e44769cd11851ae2d7a014f0ea1904331d6352617f6cf043116"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-29T10:43:20.895400+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -4015,7 +4015,7 @@ These instructions are drawn up to assist the user and do not impede on the rule
    2. **Section II – Administration of medicinal products**
 
       Parts I and II or Part III of this Section must be duly completed in accordance with the instructions set out in this Section.
-   3. 3.**Section III – Validation mark/Licence**
+   3. **Section III – Validation mark/Licence**
 
       Required for movements in accordance with Article 92(2) of Delegated [Regulation (EU) 2020/688](eu/32020r0688).
    4. **Section IV – Owner**
