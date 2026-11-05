@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: null
-last_change_in_force: "2024-05-21"
+last_change_in_force: null
 last_updated: "2021-07-01"
-xml_hash: "9ff6b5a30c9cd1805689550a63412e760ba6723ef021f489fb8ae366ad93581f"
+xml_hash: "11c17004659719b4d7d2752d7bc6846fcc0feaaeb8e15027afc38923dca013e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ gjeven i riksforsamlinga på Eidsvoll den 17. mai 1814,
 
 slik ho lyder etter seinare endringar,
 
-seinast stortingsvedtak av 21. mai 2024
+seinast stortingsvedtak av 3. november 2026
 
 ## A. Om statsforma
 
@@ -214,21 +214,27 @@ Kongen vel og avset etter eige skjøn hoffstaten sin og hoffbetjentane sine.
 
 ### § 25
 
-Kongen har høgste befalinga over forsvarsmakta til riket. Denne makta må ikkje aukast eller minkast utan samtykke frå Stortinget. Ho må ikkje overlatast i framande makters teneste, og ingen krigsfolk frå framande makter, så nær som troppar til hjelp mot fiendsleg overfall, må dragast inn i riket utan samtykke frå Stortinget.
+Kongen har høgste befalinga over forsvarsmakta til riket. Kongen har rett til å mobilisere forsvarsmakta, byrje krig til forsvar av landet og slutte fred.
 
-Landvernet og andre troppar som ikkje kan reknast som linetroppar, må aldri brukast utanfor grensene til riket utan samtykke frå Stortinget.
+Forsvarsmakta må ikkje overlatast til framande makter, men avgrensa kommandoråderett kan gjevast til allierte av riket for den tid riket er med i ein operasjon saman med allierte.
 
-Regjeringa har ikkje rett til å nytte militær makt mot innbyggjarane utan etter lov, med mindre ei forsamling skiplar den offentlege roa og ikkje skilst åt så snart den sivile styresmakta tre gonger har lese lovføresegnene om opprør høgt og tydeleg for henne.
+Forsvarsmakta må ikkje aukast eller minkast utan samtykke frå Stortinget.
 
-> Endra med vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 14 mai 2020 kunngjort med [res. 29 mai 2020 nr. 1085](forskrift/2020-05-29-1085).
+Forsvarsmakta må ikkje utan samtykke frå Stortinget sendast ut av riket dersom det fører med seg ei monaleg svekking av forsvaret av riket.
+
+Ingen framande stridskrefter, så nær som allierte styrkar, må dragast inn i riket utan samtykke frå Stortinget.
+
+Kongen har ikkje rett til å nytte militær makt mot innbyggjarane utan etter lov.
+
+> Endra med vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 14 mai 2020 kunngjort med [res. 29 mai 2020 nr. 1085](forskrift/2020-05-29-1085), 3 nov 2026 (offisiell kunngjering kjem seinare med kgl.res.).
 
 ### § 26
 
-Kongen har rett til å kalle saman troppar, byrje krig til forsvar av landet og slutte fred, inngå og seie opp folkerettslege avtaler og sende og ta imot sendemenn.
+Kongen har rett til å inngå og seie opp folkerettslege avtaler og til å sende og motta diplomatiske representantar.
 
-Traktatar om særleg viktige saker blir fyrst bindande når Stortinget har gjeve samtykke til det. Det same gjeld alle traktatar som etter konstitusjonen ikkje kan setjast i verk utan ei ny lov eller eit nytt stortingsvedtak.
+Folkerettslege avtaler om særleg viktige saker blir fyrst bindande når Stortinget har gjeve samtykke til det. Det same gjeld alle folkerettslege avtaler som etter konstitusjonen ikkje kan setjast i verk utan ei ny lov eller eit nytt stortingsvedtak.
 
-> Endra med vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
+> Endra med vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 3 nov 2026 (offisiell kunngjering kjem seinare med kgl.res.).
 
 ### § 27
 
@@ -322,9 +328,9 @@ Til dess Stortinget kjem saman og innrettar regjeringa for den tida kongen er mi
 
 ### § 41
 
-Er kongen utanfor riket utan å vere i felt, eller er han så sjuk at han ikkje kan ta seg av regjeringa, skal den næraste arvingen til trona stå for regjeringa som mellombels utøvar av kongemakta, så framt ho eller han har nådd myndig alder for kongen. I motsett fall er det statsrådet som står for styringa av riket.
+Er kongen utanfor riket utan å vere i felt, eller er han så sjuk at han ikkje kan ta seg av regjeringa, skal den næraste arvingen til trona stå for regjeringa som mellombels utøvar av kongemakta, så framt ho eller han har nådd myndig alder for kongen. Kan heller ikkje den næraste arvingen stå for regjeringa, står hennar eller hans barn for regjeringa som mellombels utøvar av kongemakta, så framt ho eller han er neste arvingen til trona og har nådd myndig alder for kongen. I motsett fall er det statsrådet som står for styringa av riket.
 
-> Endra med grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort med [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788).
+> Endra med grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort med [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 3 nov 2026 (offisiell kunngjering kjem seinare med kgl.res.).
 
 ### § 42
 
