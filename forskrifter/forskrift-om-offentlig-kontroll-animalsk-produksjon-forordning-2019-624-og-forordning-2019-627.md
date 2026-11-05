@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2020-04-07"
 last_change_in_force: "2026-10-26"
 last_updated: "2024-04-19"
-xml_hash: "6561d1914a0fe1365b704962e0fcb20b01ceaa5dbabc343852ab2e16de75b2ed"
+xml_hash: "bafdb5a4bc57f034c80ed6cd9b6acfb82f67e6db582b321b4c801b0d91e3e785"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-30T10:43:54.245474+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1445,7 +1445,7 @@ Vedkommende myndigheter skal erklære fiskerivarer uegnet til konsum dersom
 
 ### Artikkel 72. Krav om offentlig kontroll av fiskerivarer som er fanget av fartøyer som fører en medlemsstats flagg, og som innføres til Unionen etter å ha blitt omlastet i tredjestater med eller uten lagring
 
-1\. Fiskerivarer beregnet på konsum som er fanget av fartøyer som fører en medlemsstats flagg, og som, med eller uten lagring, er blitt losset i tredjestater som er oppført på en liste som fastsatt i artikkel 126 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) før de innføres til Unionen med et annet transportmiddel, skal følges av et hygienesertifikat som er utstedt av vedkommende myndigheter i den aktuelle tredjestaten og utfylt i samsvar med ►**M3**hygienesertifikatmalen fastsatt i kapittel 29 i vedlegg III til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235). ◄**M3**.
+1\. Fiskerivarer beregnet på konsum som er fanget av fartøyer som fører en medlemsstats flagg, og som, med eller uten lagring, er blitt losset i tredjestater som er oppført på en liste som fastsatt i artikkel 126 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) før de innføres til Unionen med et annet transportmiddel, skal følges av et hygienesertifikat som er utstedt av vedkommende myndigheter i den aktuelle tredjestaten og utfylt i samsvar med ►**M3** hygienesertifikatmalen fastsatt i kapittel 29 i vedlegg III til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235). ◄**M3**.
 
 2\. Dersom fiskerivarene nevnt i nr. 1 losses og transporteres til et lagringsanlegg som ligger i tredjestaten nevnt i samme nummer, skal lagringsanlegget være oppført på en liste som fastsatt i artikkel 5 i delegert forordning [(EU) 2019/625](eu/32019r0625).
 
