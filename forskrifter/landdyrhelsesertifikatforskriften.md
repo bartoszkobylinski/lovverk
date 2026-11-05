@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-04-28"
-last_change_in_force: "2026-03-12"
+last_change_in_force: "2026-11-01"
 last_updated: null
-xml_hash: "3fd4d7c3a119e9aa909dc37fbe73164a5749f6c3e25d4b0b7f3a2b6a2a6e72f5"
+xml_hash: "555d3b455242fafbe9c2af6ccf098d39f7b0c4aa9581eebe87dbd7f5d48c2dc5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,9 +47,10 @@ Forordning [(EU) 2021/403](eu/32021r0403) om fastsettelse av regler for anvendel
 - forordning [(EU) 2025/243](eu/32025r0243)
 - forordning [(EU) 2025/544](eu/32025r0544)
 - forordning [(EU) 2025/2615](eu/32025r2615)
-- forordning [(EU) 2026/318](eu/32026r0318).
+- forordning [(EU) 2026/318](eu/32026r0318)
+- forordning [(EU) 2026/1127](eu/32026r1127).
 
-> Endret ved forskrifter [20 feb 2023 nr. 251](forskrift/2023-02-20-251) (i kraft 2 mars 2023), [1 mars 2024 nr. 372](forskrift/2024-03-01-372), [14 mai 2024 nr. 784](forskrift/2024-05-14-784), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [30 april 2025 nr. 723](forskrift/2025-04-30-723), [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025), [8 jan 2026 nr. 21](forskrift/2026-01-08-21), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).
+> Endret ved forskrifter [20 feb 2023 nr. 251](forskrift/2023-02-20-251) (i kraft 2 mars 2023), [1 mars 2024 nr. 372](forskrift/2024-03-01-372), [14 mai 2024 nr. 784](forskrift/2024-05-14-784), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [30 april 2025 nr. 723](forskrift/2025-04-30-723), [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025), [8 jan 2026 nr. 21](forskrift/2026-01-08-21), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026), [29 okt 2026 nr. 2202](forskrift/2026-10-29-2202) (i kraft 1 nov 2026).
 
 ## § 3. Særregler for handel med Sveits
 
@@ -77,7 +78,7 @@ Endringene gjennomført ved forordning [(EU) 2022/497](eu/32022r0497) trer i kra
 
 ### Konsolidert forordning (EU) 2021/403 om helsesertifikater for landdyr og avlsmateriale fra disse
 
-> Endret ved [forskrifter 20 feb 2023 nr. 251](forskrift/2023-02-20-251) (i kraft 2 mars 2023), [1 mars 2024 nr. 372](forskrift/2024-03-01-372), [14 mai 2024 nr. 784](forskrift/2024-05-14-784), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [30 april 2025 nr. 723](forskrift/2025-04-30-723), [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025), [1 aug 2025 nr. 1583](forskrift/2025-08-01-1583), [26 aug 2025 nr. 1726](forskrift/2025-08-26-1726), [8 jan 2026 nr. 21](forskrift/2026-01-08-21), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).
+> Endret ved [forskrifter 20 feb 2023 nr. 251](forskrift/2023-02-20-251) (i kraft 2 mars 2023), [1 mars 2024 nr. 372](forskrift/2024-03-01-372), [14 mai 2024 nr. 784](forskrift/2024-05-14-784), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [30 april 2025 nr. 723](forskrift/2025-04-30-723), [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025), [1 aug 2025 nr. 1583](forskrift/2025-08-01-1583), [26 aug 2025 nr. 1726](forskrift/2025-08-26-1726), [8 jan 2026 nr. 21](forskrift/2026-01-08-21), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026), [29 okt 2026 nr. 2202](forskrift/2026-10-29-2202) (i kraft 1 nov 2026).
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/403](eu/32021r0403) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I og protokoll I til [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
@@ -102,6 +103,7 @@ som endret ved:
 - ►**M12** Kommisjonsforordning [(EU) 2025/544](eu/32025r0544) av 25. mars 2025
 - ►**M13** Kommisjonsforordning [(EU) 2025/2615](eu/32025r2615) av 17. desember 2025
 - ►**M14** Kommisjonsforordning [(EU) 2026/318](eu/32026r0318) av 12. februar 2026.
+- ►**M15** Kommisjonsforordning [(EU) 2026/1127](eu/32026r1127) av 8. mai 2026.
 - ►**C3** Korrigendum OJ L 2025/90605, 18.07.2025, (2024/351)
 - ►**C4** Korrigendum OJ L 2025/90618, 29.07.2025, (2024/1044)
 
@@ -707,9 +709,9 @@ For å lese vedleggene til rettsakten se PDF-filene nedenfor.
 
 ### Forordninger i PDF
 
-> Endret ved forskrifter [1 mars 2024 nr. 372](forskrift/2024-03-01-372), [14 mai 2024 nr. 784](forskrift/2024-05-14-784), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [30 april 2025 nr. 723](forskrift/2025-04-30-723), [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025), [1 aug 2025 nr. 1583](forskrift/2025-08-01-1583), [26 aug 2025 nr. 1726](forskrift/2025-08-26-1726), [8 jan 2026 nr. 21](forskrift/2026-01-08-21), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).
+> Endret ved forskrifter [1 mars 2024 nr. 372](forskrift/2024-03-01-372), [14 mai 2024 nr. 784](forskrift/2024-05-14-784), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [30 april 2025 nr. 723](forskrift/2025-04-30-723), [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025), [1 aug 2025 nr. 1583](forskrift/2025-08-01-1583), [26 aug 2025 nr. 1726](forskrift/2025-08-26-1726), [8 jan 2026 nr. 21](forskrift/2026-01-08-21), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026), [29 okt 2026 nr. 2202](forskrift/2026-10-29-2202) (i kraft 1 nov 2026).
 
-Nedenfor gjengis forordning [(EU) 2021/403](eu/32021r0403), forordning [(EU) 2021/1329](eu/32021r1329), forordning [(EU) 2022/37](eu/32022r0037), forordning [(EU) 2022/55](eu/32022r0055), forordning [(EU) 2022/250](eu/32022r0250), forordning [(EU) 2022/497](eu/32022r0497), forordning [(EU) 2024/351](eu/32024r0351), forordning [(EU) 2024/399](eu/32024r0399), forordning [(EU) 2024/1044](eu/32024r1044), forordning [(EU) 2025/243](eu/32025r0243), forordning [(EU) 2025/544](eu/32025r0544), forordning [(EU) 2025/2615](eu/32025r2615) og forordning [(EU) 2026/318](eu/32026r0318).
+Nedenfor gjengis forordning [(EU) 2021/403](eu/32021r0403), forordning [(EU) 2021/1329](eu/32021r1329), forordning [(EU) 2022/37](eu/32022r0037), forordning [(EU) 2022/55](eu/32022r0055), forordning [(EU) 2022/250](eu/32022r0250), forordning [(EU) 2022/497](eu/32022r0497), forordning [(EU) 2024/351](eu/32024r0351), forordning [(EU) 2024/399](eu/32024r0399), forordning [(EU) 2024/1044](eu/32024r1044), forordning [(EU) 2025/243](eu/32025r0243), forordning [(EU) 2025/544](eu/32025r0544), forordning [(EU) 2025/2615](eu/32025r2615), forordning [(EU) 2026/318](eu/32026r0318) og forordning [(EU) 2026/1127](eu/32026r1127).
 
 ### Forordning (EU) 2021/403
 
@@ -788,3 +790,9 @@ For å lese forordning [(EU) 2025/2615](eu/32025r2615) (dansk utgave), med endri
 For å lese forordning [(EU) 2026/318](eu/32026r0318), med endringene i vedlegg II, se her: [Pdf-fil](static/SF/32026r0318d-01.pdf).
 
 > Tilføyd ved forskrift [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).
+
+### Forordning [(EU) 2026/1127](eu/32026r1127)
+
+For å lese forordning [(EU) 2026/1127](eu/32026r1127), med endringene i vedlegg I kap. 1, 2, 5, 6, 9, 10, 11, 12, 13, 14, 23, 30, 33, 38, 40, 45, 49, 58, 64 og 65 se her: [pdf-fil](static/SF/32026r1127d-01.pdf).
+
+> Tilføyd ved forskrift [29 okt 2026 nr. 2202](forskrift/2026-10-29-2202) (i kraft 1 nov 2026).
