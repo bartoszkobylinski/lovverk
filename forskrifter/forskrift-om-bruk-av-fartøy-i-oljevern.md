@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2011-02-08"
 last_change_in_force: "2022-04-01"
 last_updated: "2022-04-01"
-xml_hash: "1e8c68c5c93dfddbbf2dee5249327ddda14121c550c7860eb87ff255c5dabee9"
+xml_hash: "cc2082ac4c4a2e7f72d4c42c4da33e10fe81f9dc4f767050c0ec4ea844cd2ba4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,7 +75,7 @@ I særlige tilfeller kan Sjøfartsdirektoratet etter skriftlig søknad dispenser
 
 ### § 6. Brannpumper, brannledninger, brannhydranter mv.
 
-(1) Fartøy skal være forsynt med minst én maskindreven brannpumpe. Totalkapasiteten (Q) på fartøyets brannpumper skal minst være \\(Q=\\lgroup0{,}15\*\\sqrt{L\*(B+D)}+2{,}25\\rgroup^2\\) kubikkmeter per time, hvor L, B og D er angitt i meter. Sentrifugalpumper eller andre pumper tilkoplet brannledningen hvor tilbakestrømning kan forekomme, skal være utstyrt med tilbakeslagsventil. Når brannpumpen leverer påbudt vannmengde, skal trykket ved enhver hydrant kunne holdes på minst 0,25 N/m2. Ingen brannpumpe skal ha mindre kapasitet enn 16 m3/time.
+(1) Fartøy skal være forsynt med minst én maskindreven brannpumpe. Totalkapasiteten (Q) på fartøyets brannpumper skal minst være \\(Q=\\lgroup0{,}15\*\\sqrt{L\*(B+D)}+2{,}25\\rgroup^2\\) kubikkmeter per time, hvor L, B og D er angitt i meter. Sentrifugalpumper eller andre pumper tilkoplet brannledningen hvor tilbakestrømning kan forekomme, skal være utstyrt med tilbakeslagsventil. Når brannpumpen leverer påbudt vannmengde, skal trykket ved enhver hydrant kunne holdes på minst 0,25 N/m2. Ingen brannpumpe skal ha mindre kapasitet enn 16 m3 /time.
 
 1. Sanitær-, ballast-, lense- og alminnelige servicepumper kan benyttes som brannpumpe dersom de oppfyller kravene i dette kapittel, forutsatt at muligheten for lensing opprettholdes. Brannpumper skal være slik koplet at de ikke kan brukes til å pumpe olje eller andre brennbare væsker.
 2. Brannpumpen kan være drevet av hovedmaskineri.
