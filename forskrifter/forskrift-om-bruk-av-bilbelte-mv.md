@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1979-10-01"
 last_change_in_force: "2024-01-01"
 last_updated: null
-xml_hash: "c3391590ff529ae360939c2127f2902c6a0712fc6a3070684ecd175f438892ae"
+xml_hash: "629fe5a9246c0c2a11cd434efe25627e6a47ff0c1f48a9bf627adf0fd5cd85bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,13 +106,17 @@ Påbudet gjelder likevel ikke:
 
 2 Jf. [forskrift 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU).
 
+## § 2a. Påbud om bruk av styrthjelm på traktor
+
+> **Tilføyes** ved forskrift [3 nov 2026 nr. 2260](forskrift/2026-11-03-2260) (i kraft 1 jan 2027).
+
 ## § 3. Hvem som skal ilegges reaksjon etter disse forskrifter
 
 Den som har fylt 15 år og som unnlater å bruke verneutstyr som er påbudt etter [§ 1](forskrift/1979-09-21-7/§1), [§ 1a](forskrift/1979-09-21-7/§1a) eller [§ 2](forskrift/1979-09-21-7/§2), kan ilegges gebyr.
 
 Fører av motorvogn er ansvarlig for at passasjerer under 15 år bruker påbudt verneutstyr, og kan straffeforfølges, jf. [forskrift 29. juni 1990 nr. 492](forskrift/1990-06-29-492) om forenklet forelegg i vegtrafikksaker, når slike passasjerer er usikret.
 
-> Endret ved [forskrifter 20 mai 2011 nr. 510](forskrift/2011-05-20-510) (i kraft 1 juli 2011), [3 juli 2023 nr. 1228](forskrift/2023-07-03-1228) (i kraft 1 aug 2023).
+> Endret ved [forskrifter 20 mai 2011 nr. 510](forskrift/2011-05-20-510) (i kraft 1 juli 2011), [3 juli 2023 nr. 1228](forskrift/2023-07-03-1228) (i kraft 1 aug 2023). **Endres** ved forskrift [3 nov 2026 nr. 2260](forskrift/2026-11-03-2260) (i kraft 1 jan 2027).
 
 ## § 4. Påbud om bruk av sykkelhjelm
 
