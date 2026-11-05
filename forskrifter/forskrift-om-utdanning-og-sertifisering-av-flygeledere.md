@@ -9,29 +9,32 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2016-08-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-10-29"
 last_updated: "2021-04-29"
-xml_hash: "163bf4370cc4f1bc297d34e4fe573a10b558c32176495c1d651dd5b3c21d5a37"
+xml_hash: "8c278b3920b84a37f69541acae31c22afc5edab70553ba2867bb824fd2021806"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om utdanning og sertifisering av flygeledere
 
-## § 1. Gjennomføring av kommisjonsforordning (EU) 2015/340
+## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-Forordning [(EU) 2015/340](eu/32015r0340) om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, som inntatt i [EØS-avtalen vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66nj, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+Følgende forordninger inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) gjelder som forskrift med tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig:
 
-- forordning [(EU) 2023/893](eu/32023r0893)
-- forordning [(EU) 2023/203](eu/32023r0203)
-- forordning [(EU) 2025/2143](eu/32025r2143)
-- forordning [(EU) 2025/2293](eu/32025r2293).
+1. Forordning [(EU) 2015/340](eu/32015r0340) om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, jf. vedlegg XIII kap. VI nr. 66nj, med endringene som følger av
 
-> Endret ved forskrifter [10 sep 2024 nr. 2113](forskrift/2024-09-10-2113), [4 feb 2025 nr. 159](forskrift/2025-02-04-159), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [25 mars 2026 nr. 475](forskrift/2026-03-25-475), [1 juli 2026 nr. 1487](forskrift/2026-07-01-1487).
+   - forordning [(EU) 2023/893](eu/32023r0893)
+   - forordning [(EU) 2023/203](eu/32023r0203)
+   - forordning [(EU) 2025/2143](eu/32025r2143)
+   - forordning [(EU) 2025/2293](eu/32025r2293)
+2. Forordning [(EU) 2025/1044](eu/32025r1044) som fastsetter detaljerte regler og prosedyrer for godkjenning av flygeledersertifikater utstedt av tredjeland, jf. [vedlegg XIII kap VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66zbp.
+
+> Endret ved forskrifter [10 sep 2024 nr. 2113](forskrift/2024-09-10-2113), [4 feb 2025 nr. 159](forskrift/2025-02-04-159), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [25 mars 2026 nr. 475](forskrift/2026-03-25-475), [1 juli 2026 nr. 1487](forskrift/2026-07-01-1487), [29 okt 2026 nr. 2203](forskrift/2026-10-29-2203).
 
 ## § 2. Geografisk og saklig virkeområde
 
