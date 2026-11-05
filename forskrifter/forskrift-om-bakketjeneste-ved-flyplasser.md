@@ -4,18 +4,18 @@ slug: "forskrift-om-bakketjeneste-ved-flyplasser"
 type: "forskrift"
 ref_id: "forskrift/2003-06-27-935"
 title: "Forskrift om bakketjeneste ved flyplasser (BSL E 4-1)"
-short_title: "Forskrift om bakketjeneste ved flyplasser"
+short_title: null
 language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2003-10-01"
-last_change_in_force: "2014-11-13"
+last_change_in_force: "2026-10-23"
 last_updated: null
-xml_hash: "53a4473d7758be56016780c90477db54eb20d0810141ad886cf2c44d21f0bbbb"
+xml_hash: "3a1bb779aa115a845f3bd52159b4b3809b1cef5bffad59ecac6481de73a78bdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,6 +39,10 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 (1) Denne forskrift gjelder for bakketjeneste ved flyplasser som skal ha teknisk/operativ godkjenning i henhold til [forskrift av 30. oktober 2001 nr. 1231](forskrift/2001-10-30-1231) om krav til teknisk/operativ godkjenning av flyplasser (BSL E 1-2).
 
 (2) Luftfartstilsynet kan bestemme at hele eller deler av forskriften skal gis anvendelse også for andre flyplasser dersom dette anses nødvendig av hensyn til flysikkerheten.
+
+(3) Forskriften gjelder ikke for tjenester som omfattes av [forskrift 23. oktober 2026 nr. 2200 om bakketjenester på lufthavner](forskrift/2026-10-23-2200).
+
+> Endret ved forskrift [23 okt 2026 nr. 2200](forskrift/2026-10-23-2200).
 
 ## § 3. Generelle bestemmelser
 
