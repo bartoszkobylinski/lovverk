@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-11-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "e4cdda05dadb692b76b92eaf375cb5374534b1cdc11fb5e673e813f090c58580"
+xml_hash: "a71a17336251ff59ceed28f91baf0b2993440d3e3e56b9a1f31733aee99fd190"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,6 +29,8 @@ Tilskuddsordningen skal bidra til å nå miljømålene i [vannforskriften](forsk
 ## § 2. Kriterier for vurdering av måloppnåelse
 
 Måloppnåelse blir vurdert ut fra tilskuddets medvirkning til å oppnå god tilstand i vannforekomstene, avbøte de negative effektene av sur nedbør på naturmangfoldet, og oppnå målene for viltlevende anadrome laksefisk.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 3. Hvem som kan søke om tilskudd
 
@@ -78,6 +80,8 @@ Søknaden skal inneholde informasjon om:
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 8. Tilleggsopplysninger, kontroll og befaring før vedtak
 
 Miljødirektoratet eller statsforvalter kan
@@ -100,6 +104,8 @@ Miljødirektoratet eller statsforvalter gir tilskudd i samsvar med Klima- og mil
 
 Miljødirektoratet eller statsforvalter tildeler tilskudd som ikke er bundet opp i budsjettproposisjonen, etter en skjønnsmessig vurdering av søknadene.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 11. Tilskuddsmottakere som driver økonomisk aktivitet
 
 Tilskudd utbetalt etter denne forskrift skal ikke kryssubsidiere økonomisk aktivitet eller vri eller true med å vri konkurransen eller påvirke samhandelen i EØS-området. Begrepet økonomisk aktivitet skal fortolkes i samsvar med foretaksdefinisjonen etter [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.
@@ -118,6 +124,8 @@ For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der
 
 Det kan fastsettes nærmere krav om rapportering, revisorattestasjon og revisorkontroll i kunngjøring eller i tilskuddsvedtaket.
 
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+
 ## § 13. Oppfølging og kontroll
 
 Miljødirektoratet eller statsforvalter kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
@@ -125,6 +133,8 @@ Miljødirektoratet eller statsforvalter kan kontrollere at tilskuddsmottaker opp
 Miljødirektoratet eller statsforvalter har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 14. Stans og tilbakebetaling av tilskudd
 
@@ -135,6 +145,8 @@ Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren i
 Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som er for mye utbetalt kreves tilbakebetalt eller trekkes fra et tilskudd som tildeles senere.
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
+
+> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 15. Ikrafttredelse
 
