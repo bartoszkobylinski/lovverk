@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-07-01"
 last_change_in_force: "2026-08-01"
 last_updated: null
-xml_hash: "cd349162c712fc98cfa96f742082b55a9361481710069f4fb8350a6312b1dd33"
+xml_hash: "01d13f87d275f4f820aea18661093490bfd5f6b6285f7c41c94c20a5d3c89085"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -145,7 +145,7 @@ Lege kan søke om viktige legemidler på vegne av pasienten. Takst H1 brukes ved
 
 ## Kapittel II. Takster for allmennlege og privatpraktiserende spesialist
 
-> Kapittel II endret ved forskrifter [19 des 2024 nr. 3289](forskrift/2024-12-19-3289) (i kraft 1 jan 2025), [30 juni 2025 nr. 1416](forskrift/2025-06-30-1416) (i kraft 1 juli 2025), [18 des 2025 nr. 2683](forskrift/2025-12-18-2683) (i kraft 1 jan 2026), [19 des 2025 nr. 2745](forskrift/2025-12-19-2745) (i kraft 1 jan 2026), [25 juni 2026 nr. 1377](forskrift/2026-06-25-1377) (i kraft 1 juli 2026).
+> Kapittel II endret ved forskrifter [19 des 2024 nr. 3289](forskrift/2024-12-19-3289) (i kraft 1 jan 2025), [30 juni 2025 nr. 1416](forskrift/2025-06-30-1416) (i kraft 1 juli 2025), [18 des 2025 nr. 2683](forskrift/2025-12-18-2683) (i kraft 1 jan 2026), [19 des 2025 nr. 2745](forskrift/2025-12-19-2745) (i kraft 1 jan 2026), [25 juni 2026 nr. 1377](forskrift/2026-06-25-1377) (i kraft 1 juli 2026). **Endres** ved forskrift [28 okt 2026 nr. 2219](forskrift/2026-10-28-2219) (i kraft 1 jan 2027).
 
 ### Takster fra 1. juli 2026
 
