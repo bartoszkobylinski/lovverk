@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1990-04-01"
 last_change_in_force: "2026-09-10"
 last_updated: "2023-08-11"
-xml_hash: "a27901ab7bdce09e3dcc7b46afa076e1128bb473fbaf252ab9119be523a73850"
+xml_hash: "2e6ef1cd47fb719e32aa74cfe875d10507e65abf5536c800c400850a61e74bb0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-02T10:26:49.535588+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2151,7 +2151,7 @@ Erklæringen må medbringes i forbindelse med Tempo 100-kjøring og på forespø
    - Hvis $$\\frac{\\text{X}^{2}}{\\text{L}^{2}}$$ er mindre enn 1,0 skal verdien 1,0 benyttes.
    - C = Aktuell samlet vekt på påhengsvognens aksler a= en ekvivalent vertikal akselerasjon ved tilhengerfestet, avhengig av fjæringssystemet på lastebilens bakaksel:
 
-     - a = 1,8m/s2for luftfjæring (eller fjæring med tilsvarende egenskaper)
+     - a = 1,8m/s2 for luftfjæring (eller fjæring med tilsvarende egenskaper)
      - a = 2,4m/s2 for andre fjærtyper (f.eks bladfjæring)
    - X = Lengden av påhengsvognens lasteareal i meter (se figur).
    - L = Avstanden fra senter av påhengsvognens trekkøye til senter av akselkominasjonen i meter (se figur).
@@ -2218,7 +2218,7 @@ Erklæringen må medbringes i forbindelse med Tempo 100-kjøring og på forespø
    - M2 = aktuell akselvekt påhengsvogn.
    - a = en ekvivalent vertikal akselerasjon ved tilhengerfeste, avhengig av fjæringssystemet på semitrailerens bakaksel:
 
-     - a = 1,8m/s2for luftfjæring (eller fjæring med tilsvarende egenskaper)
+     - a = 1,8m/s2 for luftfjæring (eller fjæring med tilsvarende egenskaper)
      - a = 2,4m/s2 for andre fjærtyper (f.eks bladfjæring)
    - X = Lengden av påhengsvognens lasteareal i meter (se figur).
    - L = Avstanden fra senter av påhengsvognens trekkøye til senter av akselkominasjonen i meter (se figur).
@@ -2232,12 +2232,12 @@ Erklæringen må medbringes i forbindelse med Tempo 100-kjøring og på forespø
    - M1 = Aktuell vekt av trekkbilen (med linktrailer tilkoblet).
    - M2 = Aktuell vekt på linktrailers kingpin.
    - M3 = M2 + samlet aksellast på linktrailer + semitrailer.
-   - M4= samlet aksellast på linktrailer + semitrailer
+   - M4 = samlet aksellast på linktrailer + semitrailer
    - M5 = aktuell vekt på semitrailers kingpin.
    - M6 = M5 + aktuell aksellast på semitrailer.
    - g = tyngdeakselerasjonen; 9,81
 
-   Aktuell vogntogvekt = M1+ M4. Trekkbilens aktuelle hengervekt (vekt som trekkbilen trekker) = M3.
+   Aktuell vogntogvekt = M1 + M4. Trekkbilens aktuelle hengervekt (vekt som trekkbilen trekker) = M3.
 
    Linktrailerens aktuelle hengervekt (vekt som linktrailer trekker) = M6.
 
