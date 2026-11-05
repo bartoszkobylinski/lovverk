@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-07-01"
 last_change_in_force: "2025-06-26"
 last_updated: "2012-05-01"
-xml_hash: "ae15c6aa091dcbb1f25afe86083814970ccdee6ceff5490f87e3792c3eeee4e0"
+xml_hash: "b2a9bb501bc2992119adaaa3cfb1ca11c3e07d61d072fe205a6ce8f6181085c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2122,7 +2122,7 @@ Frityrkokere som er installert i innelukkede rom eller på åpent dekk, skal væ
 - Q= (0,15 √L (B + D) + 2,25)2 m3/h
 - hvor: L, B og D er angitt i meter.
 
-(8) Når to uavhengige motordrevne brannpumper er installert, skal hver pumpe ha en kapasitet tilsvarende minst 40 prosent av det som er fastsatt i syvende ledd, eller 25 m3/t, når dette er størst.
+(8) Når to uavhengige motordrevne brannpumper er installert, skal hver pumpe ha en kapasitet tilsvarende minst 40 prosent av det som er fastsatt i syvende ledd, eller 25 m3 /t, når dette er størst.
 
 (9) Når hovedbrannpumper leverer den vannmengde som er påbudt i henhold til syvende ledd gjennom brannledninger, brannslanger og strålerør, skal trykket ved enhver hydrant kunne holdes på minst 2,5 bar.
 
@@ -2338,7 +2338,7 @@ Bestemmelsen i [§ 5-12](forskrift/2000-06-13-660/§5-12) gjelder tilsvarende.
 - Q = (0,15 √L (B + D) + 2,25)2 m3 /h
 - hvor L, B og D er angitt i meter.
 
-5\. Når brannpumpen leverer den vannmengde som er påbudt i henhold til fjerde ledd, gjennom brannledninger, brannslanger og strålerør, skal trykket ved enhver hydrant kunne holdes på minst 0,25 N/mm2 . Ingen brannpumpe skal ha mindre kapasitet enn 16 m3/time.
+5\. Når brannpumpen leverer den vannmengde som er påbudt i henhold til fjerde ledd, gjennom brannledninger, brannslanger og strålerør, skal trykket ved enhver hydrant kunne holdes på minst 0,25 N/mm2 . Ingen brannpumpe skal ha mindre kapasitet enn 16 m3 /time.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
