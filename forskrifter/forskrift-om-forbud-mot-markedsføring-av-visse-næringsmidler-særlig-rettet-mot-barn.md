@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-04-25"
 last_change_in_force: "2025-08-15"
 last_updated: "2025-05-19"
-xml_hash: "a02747d23532d6fd1c9b1e0cc37e2e8bbcea58f127fd8689c75fa21a4fce0b3a"
+xml_hash: "4c9f699caea21cbb3ada2fc4832e91c64a05c37e0c2c70cbfe1a9c913b537554"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-14T09:46:33.107190+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,7 +37,7 @@ Denne forskriften gjelder for Norge, herunder Svalbard.
 I denne forskriften menes med
 
 1. *barn:* Personer under 18 år.
-2. *markedsføring:* Enhver form for kommunikasjon eller handling i markedsføringsøyemed. Det foreligger markedsføringsøyemed dersom hensiktenmed kommunikasjonen eller handlingen er å fremme omsetning overfor forbrukere.
+2. *markedsføring:* Enhver form for kommunikasjon eller handling i markedsføringsøyemed. Det foreligger markedsføringsøyemed dersom hensikten med kommunikasjonen eller handlingen er å fremme omsetning overfor forbrukere.
 3. *sponsing:* Enhver form for offentlig eller privat bidrag til et arrangement, en virksomhet eller en person med den hensikt å fremme omsetning av produkter overfor forbrukere.
 
 ## § 4. Markedsføringsforbud
