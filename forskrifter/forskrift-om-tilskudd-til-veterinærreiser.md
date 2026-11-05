@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-07-01"
 last_change_in_force: "2025-03-03"
 last_updated: null
-xml_hash: "190417a942dc61c19b5d8905a415b652c49c29c08ea57cc2f84d9b0bd106d58a"
+xml_hash: "c57c28926c24bb2fe4e64e828da4fae402848c4d367ce223b8d7a981993cc359"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Tilskudd til veterinærreiser skal bidra til å utjevne forskjeller i husdyrprod
 
 Reisetilskudd etter denne forskriften kan gis til foretak som tilbyr veterinærtjenester og som er registrert i Enhetsregisteret, til dekning av nødvendige reiseutgifter i forbindelse med veterinærtjenester på husdyr. Som husdyr regnes dyr som kan danne grunnlag for jordbruksforetakets avløsertilskudd etter jordbruksavtalen kapittel 9.
 
-> Endret ved forskrifter [13 jan 2020 nr. 48](forskrift/2020-01-13-48), [27 des 2021 nr. 3892](forskrift/2021-12-27-3892) (i kraft 1 jan 2022), [3 mars 2025 nr. 394](forskrift/2025-03-03-394).
+> Endret ved forskrifter [13 jan 2020 nr. 48](forskrift/2020-01-13-48), [27 des 2021 nr. 3892](forskrift/2021-12-27-3892) (i kraft 1 jan 2022), [3 mars 2025 nr. 394](forskrift/2025-03-03-394). **Endres** ved forskrift [30 sep 2026 nr. 2228](forskrift/2026-09-30-2228) (i kraft 1 jan 2027).
 
 ## § 3. (Opphevet)
 
