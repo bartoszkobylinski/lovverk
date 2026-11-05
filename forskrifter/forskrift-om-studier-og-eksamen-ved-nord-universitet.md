@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-10-22"
 last_updated: null
-xml_hash: "0f0e1b2fc3fb8101c714f84c249dd4193d98922d779c49e0db03371f2b7dc3fc"
+xml_hash: "b178fa055fac84703b44d127303036526c62e0846b1b98478192a6703903c925"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-05T11:51:28.204067+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,13 +104,17 @@ Graden høgskolekandidat oppnås ved fullført studieprogram på lavere grads ni
 
 (3) For kandidater med fullført trafikklærerutdanning og påbyggingsårsstudium innen trafikkpedagogikk og trafikksikkerhet angis graden som «Bachelor i trafikkpedagogikk og trafikksikkerhet». For øvrige bachelorgrader etter første ledd bokstav b og c angis graden som «Selvvalgt bachelor» uten faglig tilleggsbenevnelse.
 
-(4) Ved tildeling av graden bachelor på ny eller på et grunnlag som helt eller delvis inkluderer en tidligere tildelt grad, må tilknytningskravet og kravet til nye studiepoeng i henhold til [forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse](forskrift/2018-12-21-2221) være oppfylt. Dersom den nye bachelorgraden inneholder krav om bacheloroppgave, skal de nye studiepoengene normalt inkludere en annen bacheloroppgave enn den tidligere graden.
+(4) Ved tildeling av graden bachelor på ny eller på et grunnlag som helt eller delvis inkluderer en tidligere tildelt grad, må tilknytningskravet og kravet til nye studiepoeng i henhold til [lov om universiteter og høyskoler § 11-12](lov/2024-03-08-9/§11-12) og [forskrift til universitets- og høyskoleloven §§ 2-16](forskrift/2024-06-28-1392/§2-16) og [2-17](forskrift/2024-06-28-1392/§2-17) være oppfylt. Dersom den nye bachelorgraden inneholder krav om bacheloroppgave, skal de nye studiepoengene normalt inkludere en annen bacheloroppgave enn den tidligere graden.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ### § 2-4. Krav til graden master
 
-(1) Krav til innhold og omfang i mastergrad fremgår av [forskrift om krav til mastergrad](forskrift/2005-12-01-1392) gitt av departementet.
+(1) Krav til innhold og omfang i mastergrader fremgår av [forskrift til universitets- og høyskoleloven kapittel 2](forskrift/2024-06-28-1392/kap2).
 
-(2) Ved tildeling av graden master på ny eller på et grunnlag som helt eller delvis inkluderer en tidligere tildelt grad, må tilknytningskravet og kravet til nye studiepoeng i henhold til [forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse](forskrift/2018-12-21-2221) være oppfylt. De nye studiepoengene skal normalt inkludere en annen masteroppgave enn den tidligere graden.
+(2) Ved tildeling av graden master på ny eller på et grunnlag som helt eller delvis inkluderer en tidligere tildelt grad, må tilknytningskravet og kravet til nye studiepoeng i henhold til [lov om universiteter og høyskoler § 11-12](lov/2024-03-08-9/§11-12) og [forskrift til universitets- og høyskoleloven §§ 2-16](forskrift/2024-06-28-1392/§2-16) og [2-17](forskrift/2024-06-28-1392/§2-17) være oppfylt. De nye studiepoengene skal normalt inkludere en annen masteroppgave enn den tidligere graden.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ### § 2-5. Krav til yrkesutdanning
 
@@ -274,7 +278,7 @@ Yrkesutdanning oppnås ved fullført 4-årig grunnskolelærerutdanning for 1.–
 
 (1) Søknader om faglig godkjenning behandles i tråd med bestemmelsene i [lov om universiteter og høyskoler §§ 9-1](lov/2024-03-08-9/§9-1), [9-2](lov/2024-03-08-9/§9-2) og [9-3](lov/2024-03-08-9/§9-3). Tilsvarende gjelder også for emner avlagt ved egen institusjon.
 
-(2) Faglig godkjenning etter denne bestemmelsen kan kun foretas i den utstrekning som følger av [forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse](forskrift/2018-12-21-2221).
+(2) Faglig godkjenning etter denne bestemmelsen kan kun foretas i den utstrekning som følger av [lov om universiteter og høyskoler § 11-12](lov/2024-03-08-9/§11-12) og [forskrift til universitets- og høyskoleloven §§ 2-16](forskrift/2024-06-28-1392/§2-16) og [2-17](forskrift/2024-06-28-1392/§2-17).
 
 (3) Det skal ikke gis dobbel uttelling for samme faginnhold i samme grad.
 
@@ -285,6 +289,8 @@ Yrkesutdanning oppnås ved fullført 4-årig grunnskolelærerutdanning for 1.–
 (6) Faglig godkjenning etter disse bestemmelsene skal fremgå av vitnemål.
 
 (7) Studenter som skal ta deler av sin utdanning ved annen institusjon bør søke om forhåndsgodkjenning.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ## Kapittel 6. Studierett og permisjon
 
@@ -391,7 +397,7 @@ Ekstraordinær eksamen kan ved behov arrangeres når et emne opphører eller nå
 
 (7) Eksamenskontoret kan etter søknad innvilge et femte forsøk. Femte forsøk kan kun innvilges dersom kandidaten ved å bestå eksamen i emnet vil fullføre en grad eller yrkesutdanning ved universitetet. Oppmelding til femte forsøk til eksamen skal som hovedregel skje innen ordinære oppmeldingsfrister til eksamen.
 
-(8) Det gis ikke adgang til mer enn to tellende forsøk til samme praksis. Dersom en student har benyttet to forsøk til samme praksis uten å bestå jf. [forskrift om studier og eksamen ved Nord universitet § 8-6](forskrift/2022-05-11-999/§8-6), skal studieretten inndras.
+(8) Det gis ikke adgang til mer enn to tellende forsøk til samme praksis. Dersom en student har benyttet to forsøk til samme praksis uten å bestå jf. [forskrift om studier og eksamen ved Nord universitet § 8-6](forskrift/2024-06-19-1643/§8-6), skal studieretten inndras.
 
 (9) Rektor kan fastsette begrensninger i adgangen til å gjenta allerede beståtte eksamener dersom det er faglig begrunnet.
 
@@ -437,17 +443,13 @@ Ekstraordinær eksamen kan ved behov arrangeres når et emne opphører eller nå
 
 ## Kapittel 8. Gjennomføring av vurdering
 
-### § 8-1. Språk og målform
+### § 8-1. Skriftspråk ved eksamen
 
-(1) Eksamensoppgaver gis på emnets undervisningsspråk, såfremt ikke annet følger av emnebeskrivelsen.
+(1) Det skal utarbeides norskspråklige eksamensoppgaver i andre fag enn norsk på både nynorsk og bokmål. Dersom emnets undervisningsspråk ikke er norsk, skal eksamensoppgaven også foreligge på emnets undervisningsspråk. Vurdering og avgjørelser om unntak fra hovedregelen om at alle eksamensoppgaver skal foreligge på begge norske målformer gjøres i henhold til [forskrift til universitets- og høyskoleloven §§ 5-2](forskrift/2024-06-28-1392/§5-2) og [5-3](forskrift/2024-06-28-1392/§5-3).
 
-(2) Eksamensoppgaver skal besvares på emnets undervisningsspråk, såfremt ikke annet følger av emnebeskrivelsen. Dersom eksamen skal besvares på norsk, kan den også besvares på svensk eller dansk, såfremt ikke annet fremgår av emnebeskrivelsen. Dersom emnebeskrivelsen ikke setter krav til prøving i et bestemt språk eller en bestemt norsk målform, kan kandidaten selv velge hvilken norsk målform som benyttes i besvarelsen.
+(2) Studenter har rett til å levere eksamensoppgaver, herunder kandidat-, bachelor- og masteroppgaver eller lignende, på norsk (bokmål eller nynorsk) eller sør- eller lulesamisk. Unntak fra bestemmelsen kan gjøres dersom det er faglig begrunnet slik det fremgår av [forskrift til universitets- og høyskoleloven § 5-4](forskrift/2024-06-28-1392/§5-4).
 
-(3) Eksamensoppgaver som blir gitt på norsk, skal foreligge på bokmål eller nynorsk i samsvar med den målformen eksamenskandidatene har valgt ved oppmelding til eksamenen. Unntak kan gjøres i henhold til [forskrift 7. juli 1987 nr. 4148 om målform i eksamensoppgåver](forskrift/1987-07-07-4148).
-
-(4) Kandidater med annet morsmål enn norsk, og som heller ikke har hatt vurdering i norsk fra videregående opplæring, kan i særskilte tilfeller søke om å få oppgavetekst og få levere besvarelse på engelsk.
-
-(5) Søknad som nevnt i fjerde ledd må være fremsatt innen fristen for oppmelding til eksamen, og vurderes konkret for den enkelte eksamen.
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ### § 8-2. Digital eksamen
 
@@ -491,9 +493,11 @@ Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsr
 
 (5) For praksisstudier kan det vedtas egne bestemmelser som skal fremgå av studieplanen.
 
-(6) Ved fravær fra muntlig eller praktisk del der eksamen utgjøres av skriftlig arbeid med påfølgende justering etter muntlig eller praktisk eksamen, beholdes midlertidig karakter etter [§ 10-3 9. ledd](forskrift/2024-06-19-1643/§10-3/ledd/9) til justering er gjennomført og endelig karakter gitt. Ved fravær skal kandidaten meldes opp til ny muntlig eller praktisk eksamen ved neste eksamensavvikling. Dersom det skriftlige arbeidet ble vurdert til ikke bestått er denne karakteren endelig
+(6) Ved fravær fra muntlig eller praktisk del der eksamen utgjøres av skriftlig arbeid med påfølgende justering etter muntlig eller praktisk eksamen, beholdes midlertidig karakter etter [§ 10-3, 8. ledd](forskrift/2024-06-19-1643/§10-3/ledd/8) til justering er gjennomført og endelig karakter gitt. Ved fravær skal kandidaten meldes opp til ny muntlig eller praktisk eksamen ved neste eksamensavvikling. Dersom det skriftlige arbeidet ble vurdert til ikke bestått er denne karakteren endelig.
 
 (7) Kandidater som har levert sin besvarelse til eksamen, kan ikke påberope seg gyldig fravær og på denne måten unndra eksamensbesvarelsen fra sensur.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ## Kapittel 9. Fusk, annullering, utestenging og bortvisning
 
@@ -531,11 +535,13 @@ Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsr
 
 (1) En student kan bortvises med umiddelbar virkning hvis studenten forstyrrer undervisningen eller medstudenters arbeid.
 
-(2) Studenter som tross skriftlig advarsel fra studiedirektør opptrer som beskrevet i [lov om universiteter og høyskoler § 12-4 2. ledd](lov/2024-03-08-9/§12-4/ledd/2) kan etter vedtak i universitetets nemnd for studentsaker bortvises fra bestemte områder ved institusjonen i inntil ett år. Hvis en student etter skriftlig advarsel fra utdanningsdirektøren fortsatt ikke respekterer slik bortvisning, kan studenten etter vedtak i universitetets nemnd for studentsaker bli utestengt fra studiet og fratas retten til å gå opp til eksamen ved alle universiteter og høyskoler i inntil ett år.
+(2) Studenter som tross skriftlig advarsel fra utdanningsdirektøren opptrer som beskrevet i [lov om universiteter og høyskoler § 12-5, 2. ledd](lov/2024-03-08-9/§12-5/ledd/2) kan etter vedtak i universitetets nemnd for studentsaker bortvises fra bestemte områder ved institusjonen i inntil ett år. Hvis en student etter skriftlig advarsel fra utdanningsdirektøren fortsatt ikke respekterer slik bortvisning, kan studenten etter vedtak i universitetets nemnd for studentsaker bli utestengt fra studiet og fratas retten til å gå opp til eksamen ved alle universiteter og høyskoler i inntil ett år.
 
 (3) Studenter som har opptrådt grovt klanderverdig overfor pasienter, brukere, barnehagebarn, elever eller andre som studenten har med å gjøre som del av klinisk undervisning eller praksis som beskrevet i [lov om universiteter og høyskoler § 12-6 første ledd](lov/2024-03-08-9/§12-6/ledd/1), kan etter vedtak i universitetets nemnd for studentsaker bli utestengt og fratas retten til å gå opp til eksamen i inntil tre år i studier med klinisk undervisning eller praksis.
 
 (4) En student som tross skriftlig advarsel fra utdanningsdirektøren har brukt klesplagg som helt eller delvis dekker ansiktet i strid med [lov om universiteter og høyskoler § 12-8 1. ledd](lov/2024-03-08-9/§12-8/ledd/1), kan etter vedtak av utdanningsdirektøren bortvises i inntil ett år. Hvis studenten til tross for skriftlig advarsel fra utdanningsdirektøren ikke etterkommer et vedtak om bortvisning, kan studenten etter vedtak i universitetets nemnd for studentsaker utestenges fra studiet i inntil ett år.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ## Kapittel 10. Sensur
 
@@ -647,7 +653,9 @@ Formelle feil ved eksamen eller sensur kan påklages i henhold til [lov om unive
 
 (8) For grader som gis i samarbeid med andre norske eller utenlandske institusjoner (fellesgrader) må minst 30 studiepoeng være avlagt ved Nord universitet. Det skal fremgå av vitnemålet at utdanningen er gitt i samarbeid med andre institusjoner.
 
-(9) For studenter som har fått godkjent eksamener i tråd med bestemmelsene i denne forskriften og [lov om universiteter og høyskoler kapittel 9](lov/2024-03-08-9/kap9), må tilknytningskravet og kravet til nye studiepoeng i henhold til [kapittel 2](forskrift/2024-06-19-1643/kap2) i denne forskriften og [forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse](forskrift/2018-12-21-2221) være oppfylt for at en student skal få utstedt vitnemål.
+(9) For studenter som har fått godkjent eksamener i tråd med bestemmelsene i denne forskriften og [lov om universiteter og høyskoler kapittel 9](lov/2024-03-08-9/kap9), må tilknytningskravet og kravet til nye studiepoeng i henhold til [lov om universiteter og høyskoler § 11-12](lov/2024-03-08-9/§11-12) og [forskrift til universitets- og høyskoleloven §§ 2-16](forskrift/2024-06-28-1392/§2-16) og [2-17](forskrift/2024-06-28-1392/§2-17) være oppfylt for at en student skal få utstedt vitnemål.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ### § 12-2. Karakterutskrift
 
@@ -669,11 +677,15 @@ Formelle feil ved eksamen eller sensur kan påklages i henhold til [lov om unive
 
 ## Kapittel 14. Diverse bestemmelser
 
-### § 14-1. Utfyllende bestemmelser
+### § 14-1. Delegeringsbestemmelser
 
-(1) Rektor kan fastsette utfyllende regler innenfor rammen av bestemmelsene i denne forskriften.
+(1) Mindre endringer av forskriften kan vedtas av rektor selv.
 
-(2) Det enkelte fakultet kan fastsette nærmere regler der det er angitt i den enkelte bestemmelse i forskriften. For studier som tilbys i samarbeid mellom to eller flere fakulteter må utfyllende regler godkjennes av de samarbeidende fakulteter.
+(2) Rektor kan fastsette utfyllende regler innenfor rammen av bestemmelsene i denne forskriften.
+
+(3) Det enkelte fakultet kan fastsette nærmere regler der det er angitt i den enkelte bestemmelse i forskriften. For studier som tilbys i samarbeid mellom to eller flere fakulteter må utfyllende regler godkjennes av de samarbeidende fakultetene.
+
+> Endret ved forskrift [22 okt 2026 nr. 2217](forskrift/2026-10-22-2217).
 
 ### § 14-2. Ikrafttredelse og overgangsregler
 
