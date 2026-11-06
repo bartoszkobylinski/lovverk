@@ -2,6 +2,16 @@
   "doc_id": "sf-20261103-2260",
   "events": [
     {
+      "commit": "676fe1a",
+      "date": "2026-11-06",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-bruk-av-personlig-verneutstyr-under-kjøring-med-motorvogn",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3bd78d0",
       "date": "2026-11-05",
       "from_path": null,

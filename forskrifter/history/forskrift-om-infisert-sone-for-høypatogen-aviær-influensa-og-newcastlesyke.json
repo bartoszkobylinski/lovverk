@@ -2,6 +2,16 @@
   "doc_id": "sf-20220623-1161",
   "events": [
     {
+      "commit": "8f2e324",
+      "date": "2026-11-06",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 8,
+      "subject": "update(forskrift): forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a452041",
       "date": "2026-10-14",
       "from_path": null,

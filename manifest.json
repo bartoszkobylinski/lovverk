@@ -94667,13 +94667,13 @@
     },
     "sf-20220623-1161": {
       "doc_type": "forskrift",
-      "embedding_hash": "c1e6b172eef26784b642d29c875e25a67ba75ae7781d9e1d3a9533182b72490e",
-      "embedding_input_hash": "ad79d5cdfd69c3594a4b2782d0a01114aabd453b2bff4b50b9c40abab176c502",
+      "embedding_hash": "d9c656b74ac9ae7ecd18248abdb4e4b74ce3d881d91be3b547c4b98b95611886",
+      "embedding_input_hash": "4809928c7d9f4ed5b5c1df48c63df44b45cc8a648017bcf54c7c7fcd55a9e050",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-14",
-      "last_seen": "2026-10-14T09:26:38.661084Z",
+      "last_changed": "2026-11-06",
+      "last_seen": "2026-11-06T11:49:20.940383Z",
       "markdown_path": "forskrifter/forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -94681,8 +94681,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om infisert sone for høypatogen aviær influensa og Newcastlesyke",
-      "total_changes": 5,
-      "xml_hash": "c1e6b172eef26784b642d29c875e25a67ba75ae7781d9e1d3a9533182b72490e"
+      "total_changes": 6,
+      "xml_hash": "d9c656b74ac9ae7ecd18248abdb4e4b74ce3d881d91be3b547c4b98b95611886"
     },
     "sf-20220626-1193": {
       "doc_type": "forskrift",
@@ -109354,13 +109354,13 @@
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
-      "embedding_hash": "069d310980077de9c06a65c689dcb98636bc1073a1123d0068ee97f7f2f30d16",
-      "embedding_input_hash": "55f8b15d3db90dedd7e9cbe4470ed5e6e17217e5f88a1ce07ce03cf0a065ae65",
+      "embedding_hash": "dae6002855f2589b16d30b3bffac6fc297d764749eb8980b22d0a03f95988c80",
+      "embedding_input_hash": "c92e64826bf528f900b52e847f9d09596e1673d12369c12a82c1e9a7b06656d2",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-19",
-      "last_seen": "2026-09-19T08:44:52.874882Z",
+      "last_changed": "2026-11-06",
+      "last_seen": "2026-11-06T11:49:20.940383Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -109368,8 +109368,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 11,
-      "xml_hash": "069d310980077de9c06a65c689dcb98636bc1073a1123d0068ee97f7f2f30d16"
+      "total_changes": 12,
+      "xml_hash": "dae6002855f2589b16d30b3bffac6fc297d764749eb8980b22d0a03f95988c80"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -114845,13 +114845,13 @@
     },
     "sf-20261103-2258": {
       "doc_type": "forskrift",
-      "embedding_hash": "68ae06e82f7da9522213eb5e1d76c6ecff2257dfca1a904b3b0ca3e0fddc79ec",
+      "embedding_hash": "cc186df39d6915da2c2e90a3f43a3f69ef7f12540422ffa0ee7417d1a611ccf6",
       "embedding_input_hash": "9df89731fbdc397ff64767b2ce95243bc407be56fb0ee1f7f0c62e56e6c173e5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-06",
+      "last_seen": "2026-11-06T11:49:20.940383Z",
       "markdown_path": "forskrifter/hpai-soneforskrift.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -114859,18 +114859,18 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift)",
-      "total_changes": 1,
-      "xml_hash": "68ae06e82f7da9522213eb5e1d76c6ecff2257dfca1a904b3b0ca3e0fddc79ec"
+      "total_changes": 2,
+      "xml_hash": "cc186df39d6915da2c2e90a3f43a3f69ef7f12540422ffa0ee7417d1a611ccf6"
     },
     "sf-20261103-2260": {
       "doc_type": "forskrift",
-      "embedding_hash": "a2e95b22e81d6109285d54dafd894caee0660cca57a2b8ad1f287e5d9ed47ad2",
+      "embedding_hash": "7933cb0d0ecc939002db96f4a41b2a00cc46251bafb20097d3b50944dfe8ccdb",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-06",
+      "last_seen": "2026-11-06T11:49:20.940383Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-personlig-verneutstyr-under-kjøring-med-motorvogn.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -114878,8 +114878,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om bruk av personlig verneutstyr under kjøring med motorvogn",
-      "total_changes": 1,
-      "xml_hash": "a2e95b22e81d6109285d54dafd894caee0660cca57a2b8ad1f287e5d9ed47ad2"
+      "total_changes": 2,
+      "xml_hash": "7933cb0d0ecc939002db96f4a41b2a00cc46251bafb20097d3b50944dfe8ccdb"
     },
     "sf-20261103-2261": {
       "doc_type": "forskrift",
@@ -114901,6 +114901,6 @@
       "xml_hash": "0d6697f84e740aacd1593d0e74def7cc12614f745678de01ee43cb8fc4492843"
     }
   },
-  "generated_at": "2026-11-05T11:51:28.204067Z",
+  "generated_at": "2026-11-06T11:49:20.940383Z",
   "version": 1
 }
