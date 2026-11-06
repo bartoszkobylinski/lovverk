@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-09-16"
+last_change_in_force: "2026-11-03"
 last_updated: null
-xml_hash: "069d310980077de9c06a65c689dcb98636bc1073a1123d0068ee97f7f2f30d16"
+xml_hash: "dae6002855f2589b16d30b3bffac6fc297d764749eb8980b22d0a03f95988c80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-19T08:44:52.874882+00:00"
+retrieved_at: "2026-11-06T11:49:20.940383+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,9 +61,9 @@ Fartøy med adgang til å delta i kystfartøygruppen kan fiske og lande inntil 7
 1. fartøy med adgang til å delta i lukket gruppe fiske og lande inntil 6 949 tonn sild.
 2. fartøy med adgang til å delta i åpen gruppe fiske og lande innenfor en avsetning på 150 tonn sild.
 
-Av kystfartøygruppens kvote kan inntil 250 tonn fiskes i Skagerrak.
+Av kystfartøygruppens kvote kan inntil 250 tonn fiskes i Skagerrak. Fisket etter sild i Skagerrak stoppes fra og med 4. november 2026.
 
-> Endret ved forskrift [22 mai 2026 nr. 904](forskrift/2026-05-22-904).
+> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [3 nov 2026 nr. 2262](forskrift/2026-11-03-2262).
 
 ### § 6. Kvotefleksibilitet over årsskiftet på gruppenivå
 
