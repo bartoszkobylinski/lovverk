@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-06-23"
-last_change_in_force: "2026-10-09"
+last_change_in_force: "2026-11-03"
 last_updated: null
-xml_hash: "c1e6b172eef26784b642d29c875e25a67ba75ae7781d9e1d3a9533182b72490e"
+xml_hash: "d9c656b74ac9ae7ecd18248abdb4e4b74ce3d881d91be3b547c4b98b95611886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-14T09:26:38.661084+00:00"
+retrieved_at: "2026-11-06T11:49:20.940383+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,9 +96,17 @@ Mattilsynet kan gi unntak fra forbudet i første ledd første punktum dersom det
 
 > Endret ved forskrift [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780).
 
-### § 9. (Opphevet)
+### § 9. Forbud mot jakt av ville fugler i Rogaland
 
-> Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792), opphevet ved forskrift [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042).
+I infisert sone for høypatogen aviær influensa i Rogaland er jakt av jaktbare fuglearter forbudt.
+
+Forbudet gjelder ikke:
+
+1. jakt av viltlevende skogshøns, herunder lirype, fjellrype, storfugl, orrfugl og jerpe,
+2. uttak av fugl på flyplasser av sikkerhetsmessige årsaker, eller
+3. skadefelling av fugl i umiddelbar nærhet av anlegg med næringsrettet dyrehold.
+
+> Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792), opphevet ved forskrift [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042), tilføyd ved forskrift [3 nov 2026 nr. 2259](forskrift/2026-11-03-2259).
 
 ### § 10. Utsetting av fuglevilt og bruk av fugler til jakttrening
 
@@ -150,9 +158,18 @@ Følgende kommuner inngår i infisert sone for høypatogen aviær influensa:
   - Steinkjer
   - Verdal
   - Levanger
-  - Frosta.
+  - Frosta
+- *Rogaland:*
 
-> Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215), [30 april 2026 nr. 685](forskrift/2026-04-30-685) (i kraft 1 mai 2026), [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042).
+  - Randaberg
+  - Sandnes (unntatt området som tidligere utgjorde Forsand kommune)
+  - Sola
+  - Stavanger
+  - Klepp
+  - Time
+  - Hå.
+
+> Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215), [30 april 2026 nr. 685](forskrift/2026-04-30-685) (i kraft 1 mai 2026), [9 okt 2026 nr. 2042](forskrift/2026-10-09-2042), [3 nov 2026 nr. 2259](forskrift/2026-11-03-2259).
 
 ## Vedlegg 2
 
