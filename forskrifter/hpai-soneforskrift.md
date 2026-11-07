@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2026-11-03"
-last_change_in_force: null
+last_change_in_force: "2026-11-05"
 last_updated: null
-xml_hash: "cc186df39d6915da2c2e90a3f43a3f69ef7f12540422ffa0ee7417d1a611ccf6"
+xml_hash: "39509298d5b14750dfec928e189433617ed055b73bd2a157a924358a41890885"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-06T11:49:20.940383+00:00"
+retrieved_at: "2026-11-07T10:53:44.709108+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,3 +88,5 @@ Denne forskrift trer i kraft straks.
 ## Vedlegg – Restriksjonssonen
 
 Vernesonen angis med liten sirkel med radius på 3 km på kartet og overvåkningssonen angis med stor sirkel med radius på 10km på kartet:
+
+> Endret ved forskrift [5 nov 2026 nr. 2272](forskrift/2026-11-05-2272).
