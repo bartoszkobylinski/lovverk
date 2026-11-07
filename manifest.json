@@ -38484,13 +38484,13 @@
     },
     "sf-20001208-1281": {
       "doc_type": "forskrift",
-      "embedding_hash": "e5e48cf7bd47ef4f1acb27779b3417191a0e19331440a183d925874d6394764f",
-      "embedding_input_hash": "0b2747965ff044a6d6b8e0c5f4455b9293c7f24802bfbe48680d76f266a2d56e",
+      "embedding_hash": "da6af13a6a59055d249a1963d522049581d91391b568b56b7a90dae4ddee7d69",
+      "embedding_input_hash": "0f6211973715c96fa3d92fe1fae979c0f8cb8a9bd45ba6bd53a143bc66a05c1f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-06",
-      "last_seen": "2026-08-06T06:40:16.925664Z",
+      "last_changed": "2026-11-07",
+      "last_seen": "2026-11-07T10:53:44.709108Z",
       "markdown_path": "forskrifter/forskrift-om-fag-underlagt-mesterbrevloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -38498,8 +38498,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om hvilke fag som er lagt under lov om mesterbrev i håndverk og annen næring",
-      "total_changes": 4,
-      "xml_hash": "e5e48cf7bd47ef4f1acb27779b3417191a0e19331440a183d925874d6394764f"
+      "total_changes": 5,
+      "xml_hash": "da6af13a6a59055d249a1963d522049581d91391b568b56b7a90dae4ddee7d69"
     },
     "sf-20001211-1543": {
       "doc_type": "forskrift",
@@ -114845,13 +114845,13 @@
     },
     "sf-20261103-2258": {
       "doc_type": "forskrift",
-      "embedding_hash": "cc186df39d6915da2c2e90a3f43a3f69ef7f12540422ffa0ee7417d1a611ccf6",
+      "embedding_hash": "39509298d5b14750dfec928e189433617ed055b73bd2a157a924358a41890885",
       "embedding_input_hash": "9df89731fbdc397ff64767b2ce95243bc407be56fb0ee1f7f0c62e56e6c173e5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-06",
-      "last_seen": "2026-11-06T11:49:20.940383Z",
+      "last_changed": "2026-11-07",
+      "last_seen": "2026-11-07T10:53:44.709108Z",
       "markdown_path": "forskrifter/hpai-soneforskrift.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -114859,8 +114859,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift)",
-      "total_changes": 2,
-      "xml_hash": "cc186df39d6915da2c2e90a3f43a3f69ef7f12540422ffa0ee7417d1a611ccf6"
+      "total_changes": 3,
+      "xml_hash": "39509298d5b14750dfec928e189433617ed055b73bd2a157a924358a41890885"
     },
     "sf-20261103-2260": {
       "doc_type": "forskrift",
@@ -114901,6 +114901,6 @@
       "xml_hash": "0d6697f84e740aacd1593d0e74def7cc12614f745678de01ee43cb8fc4492843"
     }
   },
-  "generated_at": "2026-11-06T11:49:20.940383Z",
+  "generated_at": "2026-11-07T10:53:44.709108Z",
   "version": 1
 }

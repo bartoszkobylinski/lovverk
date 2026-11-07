@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-fag-underlagt-mesterbrevloven — Change history
 
-_4 events; doc_id `sf-20001208-1281`._
+_5 events; doc_id `sf-20001208-1281`._
+
+## 2026-11-07 — Content updated
+Lines: +5 -4.
+Subject: `update(forskrift): forskrift-om-fag-underlagt-mesterbrevloven`
+Commit: `e580a8c`.
 
 ## 2026-08-06 — Content updated
 Lines: +5 -4.

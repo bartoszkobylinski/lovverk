@@ -2,6 +2,16 @@
   "doc_id": "sf-20261103-2258",
   "events": [
     {
+      "commit": "be86f6d",
+      "date": "2026-11-07",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 3,
+      "subject": "update(forskrift): hpai-soneforskrift",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3c3f656",
       "date": "2026-11-06",
       "from_path": null,
