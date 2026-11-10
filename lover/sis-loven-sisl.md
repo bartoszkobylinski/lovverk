@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2022-03-31"
-xml_hash: "6574d4ad9495645b23d98097a7f10c8cd61e5841898e3b927aec918a14f2b703"
+xml_hash: "23a60b8df95581dac1096a1c1d3fd8109e5c9a33fa4a949471f41b00f07b66d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-10T12:05:20.926028+00:00"
 status: "current"
 eu_basis:
   - "32018R1860"
@@ -27,7 +27,7 @@ eu_basis:
 
 ## Kapittel 1 Generelle bestemmelser
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 1. Gjennomføring av forordninger om Schengen informasjonssystem (SIS)
 
@@ -67,7 +67,7 @@ Loven gjelder ikke for Svalbard.
 
 ## Kapittel 2 Behandlingsansvar, informasjonssikkerhet og internkontroll
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 4. Behandlingsansvar
 
@@ -83,7 +83,7 @@ Reglene om informasjonssikkerhet i [politiregisterloven § 15](lov/2010-05-28-16
 
 For behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om informasjonssikkerhet i [personvernforordningen](lov/2018-06-15-38/gdpr) kapittel IV.
 
-> Endret ved lover [14 apr 2000 nr. 31](lov/2000-04-14-31) (ikr. 1 jan 2001 iflg. [res. 30 juni 2000 nr. 641](forskrift/2000-06-30-641)), [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 3).
+> Endret ved lover [14 apr 2000 nr. 31](lov/2000-04-14-31) (ikr. 1 jan 2001 iflg. [res. 30 juni 2000 nr. 641](forskrift/2000-06-30-641)), [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 3).
 
 ### § 6. Internkontroll
 
@@ -95,7 +95,7 @@ For behandling av opplysninger etter grensekontrollforordningen og returforordni
 
 ## Kapittel 3 Behandling av opplysninger
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 7. Opplysninger som kan behandles
 
@@ -131,7 +131,7 @@ Det kan opprettes koblinger mellom meldinger på vilkår som nevnt i:
 2. grensekontrollforordningen artikkel 48
 3. returforordningen artikkel 19.
 
-> Tilføyd ved lov [27 juni 2008 nr. 66](lov/2008-06-27-66) (ikr. 9 apr 2013 iflg. [res. 5 apr 2013 nr. 337](forskrift/2013-04-05-337)), endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 9a).
+> Tilføyd ved lov [27 juni 2008 nr. 66](lov/2008-06-27-66) (ikr. 9 apr 2013 iflg. [res. 5 apr 2013 nr. 337](forskrift/2013-04-05-337)), endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 9a).
 
 ### § 10. Behandling av opplysninger til andre formål
 
@@ -141,7 +141,7 @@ Opplysningene som behandles i SIS, kan ikke behandles for andre formål enn de s
 2. grensekontrollforordningen artikkel 41 nr. 5
 3. returforordningen artikkel 19.
 
-> Endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 11. Utveksling av opplysninger som ikke formidles via SIS (supplerende opplysninger)
 
@@ -163,7 +163,7 @@ Supplerende opplysninger skal slettes i samsvar med:
 
 ## Kapittel 4 Tilgang, utlevering og taushetsplikt
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 12. Tilgang til SIS
 
@@ -209,7 +209,7 @@ Enhver som under utøvelse av tjeneste eller arbeid får adgang eller kjennskap 
 
 ## Kapittel 5 Innsyn, retting og sletting
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 15. Innsyn
 
@@ -217,7 +217,7 @@ Rett til innsyn i opplysninger som er registrert i medhold av politisamarbeidsfo
 
 Rett til innsyn i opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, reguleres av grensekontrollforordningen artikkel 53.
 
-> Endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 16. Sletting av opplysninger om personer og gjenstander
 
@@ -227,7 +227,7 @@ Opplysninger som er registrert i medhold av grensekontrollforordningen, skal sle
 
 Opplysninger som er registrert i medhold av returforordningen, skal slettes etter fristene i forordningen artikkel 6, 8 til 12 og 14.
 
-> Tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 17. Retting og sletting av uriktige opplysninger mv.
 
@@ -237,7 +237,7 @@ For retting og sletting av uriktige eller mangelfulle opplysninger som er regist
 
 Dersom registrerte opplysninger som nevnt i første og annet ledd er lagt inn av en annen stat, skal den behandlingsansvarlige uten opphold underrette denne staten med anmodning om å rette, supplere eller slette opplysningene.
 
-> Endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 16).
+> Endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 16).
 
 ### § 18. Saksbehandlingsregler ved begjæring om innsyn, retting og sletting
 
@@ -251,11 +251,11 @@ Dersom begjæring om innsyn i opplysninger som er registrert i medhold av politi
 
 Den registrerte skal informeres om sine rettigheter etter [§ 21](lov/1999-07-16-66/§21) samt adgangen til å bringe saken inn for en domstol.
 
-> Endret ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 17).
+> Endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 17).
 
 ## Kapittel 6 Erstatning
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 19. Erstatning
 
@@ -277,7 +277,7 @@ Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter 
 
 ## Kapittel 7 Tilsyn
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 21. Datatilsynets tilsyn og kontroll mv.
 
@@ -299,7 +299,7 @@ Den behandlingsansvarlige skal fullbyrde endelige avgjørelser truffet av andre 
 
 ## Kapittel 8 Forskrifter
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 23. Forskrifter
 
@@ -309,7 +309,7 @@ Departementet kan gi forskrift til utfylling og gjennomføring av denne loven, h
 
 ## Kapittel 9 Sluttbestemmelser
 
-> Kapitteloverskrift tilføyd ved lov [8 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
+> Kapitteloverskrift tilføyd ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)).
 
 ### § 24. Ikrafttredelse
 
