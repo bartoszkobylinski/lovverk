@@ -10,12 +10,12 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2016-01-01"
 last_change_in_force: "2026-09-01"
-last_updated: "2021-03-01"
-xml_hash: "6ed67814dbada4cff0055b30621edc0690c3e520d939bc62e449b5cbb6f3046e"
+last_updated: "2026-11-09"
+xml_hash: "56b75bb37a524605db3c887a8e0a2133dc8b6d3c1e24282ea3ecc522cf1f4a53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-01T09:21:21.266839+00:00"
+retrieved_at: "2026-11-10T12:05:20.926028+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -947,7 +947,7 @@ Tilpasset lønn kan avtales mellom partene.
 
 ### § 14A-6. Krav til tilbydere av forsterket oppfølging
 
-Forhåndsgodkjent virksomhet kan gi tilbud om oppfølging, jf. [§ 14-5](lov/1997-02-28-19/§14-5). Arbeids- og velferdsdirektoratet kan gi utfyllende retningslinjer om ytterligere krav til de forhåndsgodkjente virksomhetene.
+Forhåndsgodkjent virksomhet kan gi tilbud om oppfølging, jf. [§ 14-5](forskrift/2015-12-11-1598/§14-5). Arbeids- og velferdsdirektoratet kan gi utfyllende retningslinjer om ytterligere krav til de forhåndsgodkjente virksomhetene.
 
 Arbeids- og velferdsetaten kan gi oppfølging i egenregi, jf. [forskrift av 20. juni 2023 nr. 1073 om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi](forskrift/2023-06-20-1073).
 
