@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2024-11-01"
-last_change_in_force: "2025-06-15"
+last_change_in_force: "2026-11-06"
 last_updated: null
-xml_hash: "f83ab8514b6b01e5447cd2543d9445e72692059675c5ef6d4364409eac42558c"
+xml_hash: "5d73f56bb96155465ec56f83b242c067a83dcc22cf7dfac5df867b5c087efa16"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-10T12:05:20.926028+00:00"
 status: "current"
 eu_basis: []
 ---
