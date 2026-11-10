@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-12-08"
 last_change_in_force: "2026-10-19"
 last_updated: "2014-10-23"
-xml_hash: "da6af13a6a59055d249a1963d522049581d91391b568b56b7a90dae4ddee7d69"
+xml_hash: "6daa5d3fb7467dca3c34a885a61386328a9c77cba60ba39a5189d4bf5f17c9ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-07T10:53:44.709108+00:00"
+retrieved_at: "2026-11-10T12:05:20.926028+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,6 +37,7 @@ Følgende fag er lagt inn under lov om mesterbrev i håndverk og annen næring m
 | Blomsterdekoratørfaget | Blomsterdekoratørmester |
 | Bokbinderfaget | Bokbindermester |
 | Boktrykkerfaget | Boktrykkermester |
+| Brannforebyggerfaget | Mester i brannforebyggerfaget |
 | Bunadtilvirkerfaget | Bunadmester |
 | Buntmakerfaget | Buntmakermester |
 | Butikkslakterfaget | Mester i butikkslakterfaget |
@@ -89,6 +90,7 @@ Følgende fag er lagt inn under lov om mesterbrev i håndverk og annen næring m
 | Maskør- og parykkmakerfaget | Mester i maskør- og parykkmakerfaget |
 | Mediegrafikerfaget | Mediegrafikermester |
 | Motorsykkelfaget | Mester i motorsykkelfaget |
+| Murer- og flisleggerfaget | Murmester |
 | Murerfaget | Murmester |
 | Møbelsnekkerfaget | Møbelsnekkermester |
 | Møbeltapetsererfaget | Møbeltapetsermester |
@@ -128,7 +130,7 @@ Følgende fag er lagt inn under lov om mesterbrev i håndverk og annen næring m
 | Ventilasjons- og blikkenslagerfaget | Blikkenslagermester |
 | Ventilasjonsteknikkfaget | Mester i ventilasjonsteknikkfaget |
 
-> Endret ved [forskrifter 23 april 2001 nr. 1097](forskrift/2001-04-23-1097) (i kraft 10 sep 2001), [12 juni 2002 nr. 1007](forskrift/2002-06-12-1007), [8 okt 2003 nr. 1899](forskrift/2003-10-08-1899) (i kraft 18 feb 2004), [30 juni 2007 nr. 1790](forskrift/2007-06-30-1790) (i kraft 1 jan 2008, se endringsforskriften for overgangsbestemmelse), [13 des 2007 nr. 1841](forskrift/2007-12-13-1841), [24 feb 2009 nr. 317](forskrift/2009-02-24-317), [25 feb 2011 nr. 582](forskrift/2011-02-25-582), [13 mars 2012 nr. 619](forskrift/2012-03-13-619), [13 juni 2014 nr. 1190](forskrift/2014-06-13-1190), [13 juni 2014 nr. 1214](forskrift/2014-06-13-1214), [16 okt 2014 nr. 1307](forskrift/2014-10-16-1307), [12 okt 2015 nr. 1194](forskrift/2015-10-12-1194), [8 des 2016 nr. 1818](forskrift/2016-12-08-1818), [9 feb 2017 nr. 169](forskrift/2017-02-09-169), [2 des 2020 nr. 2641](forskrift/2020-12-02-2641), [13 juni 2023 nr. 1788](forskrift/2023-06-13-1788), [15 mars 2024 nr. 637](forskrift/2024-03-15-637), [17 juni 2026 nr. 1603](forskrift/2026-06-17-1603), [19 okt 2026 nr. 2271](forskrift/2026-10-19-2271).
+> Endret ved [forskrifter 23 april 2001 nr. 1097](forskrift/2001-04-23-1097) (i kraft 10 sep 2001), [12 juni 2002 nr. 1007](forskrift/2002-06-12-1007), [8 okt 2003 nr. 1899](forskrift/2003-10-08-1899) (i kraft 18 feb 2004), [30 juni 2007 nr. 1790](forskrift/2007-06-30-1790) (i kraft 1 jan 2008, se endringsforskriften for overgangsbestemmelse), [13 des 2007 nr. 1841](forskrift/2007-12-13-1841), [24 feb 2009 nr. 317](forskrift/2009-02-24-317), [25 feb 2011 nr. 582](forskrift/2011-02-25-582), [13 mars 2012 nr. 619](forskrift/2012-03-13-619), [13 juni 2014 nr. 1190](forskrift/2014-06-13-1190), [13 juni 2014 nr. 1214](forskrift/2014-06-13-1214), [16 okt 2014 nr. 1307](forskrift/2014-10-16-1307), [12 okt 2015 nr. 1194](forskrift/2015-10-12-1194), [8 des 2016 nr. 1818](forskrift/2016-12-08-1818), [9 feb 2017 nr. 169](forskrift/2017-02-09-169), [2 des 2020 nr. 2641](forskrift/2020-12-02-2641), [13 juni 2023 nr. 1788](forskrift/2023-06-13-1788), [15 mars 2024 nr. 637](forskrift/2024-03-15-637), [17 juni 2026 nr. 1603](forskrift/2026-06-17-1603), [19 okt 2026 nr. 2271](forskrift/2026-10-19-2271), [19 okt 2026 nr. 2273](forskrift/2026-10-19-2273), [19 okt 2026 nr. 2274](forskrift/2026-10-19-2274).
 
 ## § 2.
 
