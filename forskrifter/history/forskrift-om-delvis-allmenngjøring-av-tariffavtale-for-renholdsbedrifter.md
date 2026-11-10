@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter — Change history
 
-_4 events; doc_id `sf-20241021-2545`._
+_5 events; doc_id `sf-20241021-2545`._
+
+## 2026-11-10 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter`
+Commit: `c5c1915`.
 
 ## 2026-11-05 — Content updated
 Lines: +2 -2.

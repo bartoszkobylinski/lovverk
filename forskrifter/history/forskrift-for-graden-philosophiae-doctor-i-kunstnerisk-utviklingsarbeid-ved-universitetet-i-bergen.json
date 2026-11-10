@@ -2,6 +2,16 @@
   "doc_id": "sf-20250213-0283",
   "events": [
     {
+      "commit": "97cefeb",
+      "date": "2026-11-10",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-for-graden-philosophiae-doctor-i-kunstnerisk-utviklingsarbeid-ved-universitetet-i-bergen",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a69c0d1",
       "date": "2026-07-07",
       "from_path": null,

@@ -2,6 +2,16 @@
   "doc_id": "sf-20241021-2545",
   "events": [
     {
+      "commit": "c5c1915",
+      "date": "2026-11-10",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4dce5ba",
       "date": "2026-11-05",
       "from_path": null,

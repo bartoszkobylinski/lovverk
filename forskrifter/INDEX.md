@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5156 current documents_
+_5149 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1825,22 +1825,15 @@ _5156 current documents_
 - [forskrift-om-delegering-til-landbruksdep](forskrift-om-delegering-til-landbruksdep.md) — Forskrift om delegering av myndighet til Landbruksdepartementet til å tilsette og konstituere i en del embeter og stillinger i etater under Landbruksdepartementet.
 - [forskrift-om-deling-av-høiesterett](forskrift-om-deling-av-høiesterett.md) — Forskrift om deling av Høiesterett i to avdelinger.
 - [forskrift-om-deltakelse-i-potetmarkedsordning](forskrift-om-deltakelse-i-potetmarkedsordning.md) — Forskrift om godkjenning av omsetningsledd for deltakelse i markedsordningen for poteter
-- [forskrift-om-delvis-allmenngjøring-av-biloverenskomsten](forskrift-om-delvis-allmenngjøring-av-biloverenskomsten.md) — Forskrift om delvis allmenngjøring av biloverenskomsten
 - [forskrift-om-delvis-allmenngjøring-av-biloverenskomsten-2026](forskrift-om-delvis-allmenngjøring-av-biloverenskomsten-2026.md) — Forskrift om delvis allmenngjøring av biloverenskomsten
 - [forskrift-om-delvis-allmenngjøring-av-fellesoverenskomsten-for-byggfag](forskrift-om-delvis-allmenngjøring-av-fellesoverenskomsten-for-byggfag.md) — Forskrift om delvis allmenngjøring av Fellesoverenskomsten for byggfag
-- [forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien](forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien.md) — Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien
 - [forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien-2026](forskrift-om-delvis-allmenngjøring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien-2026.md) — Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien
-- [forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene](forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene.md) — Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene
 - [forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene-2026](forskrift-om-delvis-allmenngjøring-av-landsoverenskomsten-for-elektrofagene-2026.md) — Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene
-- [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-byggeplasser-i-norge](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-byggeplasser-i-norge.md) — Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-fiskeindustribedrifter-2026](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-fiskeindustribedrifter-2026.md) — Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter
-- [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter.md) — Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter-2026](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter-2026.md) — Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter.md) — Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter-2026](forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-renholdsbedrifter-2026.md) — Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter
-- [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei.md) — Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei-2026](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-godstransport-på-vei-2026.md) — Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei
-- [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil.md) — Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil
 - [forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026](forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026.md) — Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil
 - [forskrift-om-den-norske-kirkes-medlemsregister](forskrift-om-den-norske-kirkes-medlemsregister.md) — Forskrift om Den norske kirkes medlemsregister
 - [forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler](forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler.md) — Forskrift om den offentlige kontrollen med bruken av farmakologisk virksomme stoffer og med restinnholdet av slike stoffer i dyr og animalske næringsmidler

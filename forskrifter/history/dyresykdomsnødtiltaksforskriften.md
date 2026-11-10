@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dyresykdomsnødtiltaksforskriften — Change history
 
-_3 events; doc_id `sf-20210505-1407`._
+_4 events; doc_id `sf-20210505-1407`._
+
+## 2026-11-10 — Content updated
+Lines: +6 -10.
+Subject: `update(forskrift): dyresykdomsnødtiltaksforskriften`
+Commit: `39c3134`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

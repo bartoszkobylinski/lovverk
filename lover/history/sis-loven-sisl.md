@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sis-loven-sisl — Change history
 
-_5 events; doc_id `nl-19990716-066`._
+_6 events; doc_id `nl-19990716-066`._
+
+## 2026-11-10 — Content updated
+Lines: +18 -18.
+Subject: `update(lov): sis-loven-sisl`
+Commit: `0b8f225`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

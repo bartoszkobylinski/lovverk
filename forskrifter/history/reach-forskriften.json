@@ -2,6 +2,16 @@
   "doc_id": "sf-20080530-0516",
   "events": [
     {
+      "commit": "6d4eb3e",
+      "date": "2026-11-10",
+      "from_path": null,
+      "lines_added": 12,
+      "lines_removed": 7,
+      "subject": "update(forskrift): reach-forskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "278e88c",
       "date": "2026-10-06",
       "from_path": null,

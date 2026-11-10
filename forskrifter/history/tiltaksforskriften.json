@@ -2,6 +2,16 @@
   "doc_id": "sf-20151211-1598",
   "events": [
     {
+      "commit": "621c1c3",
+      "date": "2026-11-10",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): tiltaksforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3153490",
       "date": "2026-09-01",
       "from_path": null,
