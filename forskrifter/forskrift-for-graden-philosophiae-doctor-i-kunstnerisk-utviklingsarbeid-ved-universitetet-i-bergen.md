@@ -10,12 +10,12 @@ ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-02-13"
 last_change_in_force: "2025-08-25"
-last_updated: null
-xml_hash: "65d53a0269527fb0a6061609ae7b955858db1a91ebe59add04187aa455953d92"
+last_updated: "2026-11-09"
+xml_hash: "d34dcca974e2bafec199041c3357e1c700ffdbf1c945bd32f8f9af3d500e0ac9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-10T12:05:20.926028+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -226,7 +226,7 @@ Opplæringsdelen skal være gjennomført og godkjent før refleksjonen innlevere
 
 Opplæringsdelen skal gi stipendiaten kunnskap, ferdigheter og kompetanse i tråd med [nasjonalt kvalifikasjonsrammeverk](https://www.nokut.no/norsk-utdanning/nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/), og særlig rette seg mot dokumentasjon og formidling av kunstneriske resultater og refleksjon i kunstnerisk utviklingsarbeid, samt innføring i teori, metode, prosjektutvikling og etikk. Fakultetet fastsetter hvilke elementer som kan inngå i opplæringsdelen, krav til dokumentasjon og rangeringsregler for opptak til emner på ph.d.-nivå som tilbys ved fakultetet.
 
-Eksamener og obligatoriske aktiviteter knyttet til emner i opplæringsdelen er regulert av bestemmelsene om studier og eksamen i [studieforskriften ved Universitetet i Bergen](lov/2023-06-15-1359) og [universitets- og høyskoleloven § 13-1 (1)](lov/2024-03-08-9/§13-1/ledd/1).
+Eksamener og obligatoriske aktiviteter knyttet til emner i opplæringsdelen er regulert av bestemmelsene om studier og eksamen i [studieforskriften ved Universitetet i Bergen](forskrift/2023-06-15-1359) og [universitets- og høyskoleloven § 13-1 (1)](lov/2024-03-08-9/§13-1/ledd/1).
 
 Fakultetet fatter vedtak om godkjenning av opplæringsdelen. Fakultetet kan godkjenne at emner og andre faglige aktiviteter gjennomført utenfor Universitetet i Bergen inngår i opplæringsdelen. Emner på ph.d.-nivå ved annen institusjon skal godkjennes i samsvar med regler om studiepoengsuttelling i [universitets- og høyskolelovens § 9-1 (1)](lov/2024-03-08-9/§9-1/ledd/1) og [9-3 (3)](lov/2024-03-08-9/§9-3/ledd/3).
 
