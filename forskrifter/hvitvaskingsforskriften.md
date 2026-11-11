@@ -10,12 +10,12 @@ ministry:
   - "Finansdepartementet"
 date_in_force: "2018-10-15"
 last_change_in_force: "2026-02-06"
-last_updated: null
-xml_hash: "378aaa6f0942e452e83a6d24c412d90dfa7e09219b163bd55e718d4eef7878ca"
+last_updated: "2026-11-10"
+xml_hash: "512b1f16897c36aa5d065ceb45dd6cafa4ad36f456dfe8e594b503b0fb31f6a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-11T11:41:50.794405+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -231,7 +231,7 @@ Ved vurderingen av om det er høyere risiko for hvitvasking eller terrorfinansie
 
 (5) Dersom tredjepart som nevnt i [hvitvaskingsloven § 22](lov/2018-06-01-23/§22) er etablert i stat nevnt i første ledd, kan ikke rapporteringspliktig legge til grunn kundetiltak utført av tredjeparten.
 
-> Endret ved [forskrifter 24 sep 2019 nr. 1192](forskrift/2019-09-24-1192), [16 juli 2020 nr. 1565](forskrift/2020-07-16-1565), [19 mars 2021 nr. 800](forskrift/2021-03-19-800), [31 mai 2021 nr. 1715](forskrift/2021-05-31-1715) (i kraft 1 juli 2021), [18 mars 2022 nr. 408](forskrift/2022-03-18-408) (i kraft 19 mars 2022), [5 juli 2022 nr. 1306](forskrift/2022-07-05-1306) (i kraft 1 okt 2022), [22 mars 2023 nr. 382](forskrift/2023-03-22-379), [14 juli 2023 nr. 1273](forskrift/2023-07-14-1273) (i kraft 16 juli 2023), [16 okt 2023 nr. 1633](forskrift/2023-10-16-1633), [5 feb 2024 nr. 174](forskrift/2024-02-05-174) (i kraft 7 feb 2024), [27 aug 2025 nr. 1718](forskrift/2025-08-27-1718), [29 jan 2026 nr. 110](forskrift/2026-01-29-110) (i kraft 6 feb 2026).
+> Endret ved [forskrifter 24 sep 2019 nr. 1192](forskrift/2019-09-24-1192), [16 juli 2020 nr. 1565](forskrift/2020-07-16-1565), [19 mars 2021 nr. 800](forskrift/2021-03-19-800), [31 mai 2021 nr. 1715](forskrift/2021-05-31-1715) (i kraft 1 juli 2021), [18 mars 2022 nr. 408](forskrift/2022-03-18-408) (i kraft 19 mars 2022), [5 juli 2022 nr. 1306](forskrift/2022-07-05-1306) (i kraft 1 okt 2022), [22 mars 2023 nr. 382](forskrift/2023-03-22-382), [14 juli 2023 nr. 1273](forskrift/2023-07-14-1273) (i kraft 16 juli 2023), [16 okt 2023 nr. 1633](forskrift/2023-10-16-1633), [5 feb 2024 nr. 174](forskrift/2024-02-05-174) (i kraft 7 feb 2024), [27 aug 2025 nr. 1718](forskrift/2025-08-27-1718), [29 jan 2026 nr. 110](forskrift/2026-01-29-110) (i kraft 6 feb 2026).
 
 ### § 4-11. Innhenting av opplysninger om midlenes opprinnelse
 
