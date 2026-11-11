@@ -10,12 +10,12 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2010-01-01"
 last_change_in_force: "2025-01-01"
-last_updated: "2023-04-14"
-xml_hash: "50599e061cc9f831d5f0c27d8ce7bf207c77ded1062d5cdf163f46501e0ca455"
+last_updated: "2026-11-10"
+xml_hash: "655a02289ba8ee34963e90c864bb4436c2426357b7d4ab3ff3ee92aa3108afbf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-11T11:41:50.794405+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -290,7 +290,7 @@ For personer født i 1944 som mottok uførepensjon ved 67 år, utbetales skjermi
 
 For personer født i perioden 1954 til og med november 1957 som mottok uføretrygd ved 67 år, utbetales skjermingstillegget fra januar 2025. Skjermingstillegget fastsettes på samme måte som for øvrige årskull, men i stedet for basispensjon og basispensjonstillegg ved 67 år benyttes basispensjon og basispensjonstillegg per januar 2025.
 
-> Tilføyd ved [forskrift 19 des 2011 nr. 1404](forskrift/2011-12-19-1404) (i kraft 1 feb 2012), endret ved [forskrifter 31 juli 2012 nr. 769](forskrift/2012-07-31-769), [18 des 2014 nr. 1773](forskrift/2014-12-18-1773) (i kraft 1 jan 2015), [29 juni 2018 nr. 1097](forskrift/2018-06-29-1097) (i kraft 1 jan 2019), [19 des 2024 nr. 3293](forskrift/2024-12-20-3324) (i kraft 1 jan 2025).
+> Tilføyd ved [forskrift 19 des 2011 nr. 1404](forskrift/2011-12-19-1404) (i kraft 1 feb 2012), endret ved [forskrifter 31 juli 2012 nr. 769](forskrift/2012-07-31-769), [18 des 2014 nr. 1773](forskrift/2014-12-18-1773) (i kraft 1 jan 2015), [29 juni 2018 nr. 1097](forskrift/2018-06-29-1097) (i kraft 1 jan 2019), [20 des 2024 nr. 3324](forskrift/2024-12-20-3324) (i kraft 1 jan 2025).
 
 ### Vedlegg
 
