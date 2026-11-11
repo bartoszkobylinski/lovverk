@@ -11,12 +11,12 @@ ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-10-19"
-last_updated: "2026-09-10"
-xml_hash: "a858cdfe46d1037c6d25652b080d532f39181c2a2908622c8995d2890f455f32"
+last_updated: "2026-11-10"
+xml_hash: "efbc3c2ec14d76e430f53a2597cc6a2f265401b83c0773c9c9f7f96d27b4aa2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-11-11T11:41:50.794405+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -5048,7 +5048,7 @@ Følgende britiske kronbesittelser (Crown Dependencies) har også ratifisert ILO
 - Isle of Man
 - Jersey.
 
-> Endret ved [forskrifter 2 feb 2010 nr. 97](forskrift/2010-02-02-97), [11 feb 2011 nr. 149](forskrift/2011-02-11-149), [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [15 aug 2013 nr. 980](forskrift/2013-08-15-980), [11 aug 2016 nr. 964](forskrift/2016-08-11-964), [23 aug 2016 nr. 987](forskrift/2016-08-23-987), [3 april 2018 nr. 526](forskrift/2018-04-03-526), [25 juli 2018 nr. 1208](forskrift/2018-07-25-1208), [25 juni 2020 nr. 1387](forskrift/2020-06-25-1387), [13 juni 2022 nr. 1012](forskrift/2022-06-13-1012) (med virkning fra henholdsvis 21 mai 2021, 28 juli 2021 og 29 mai 2022, se endringsforskriften III), [22 mars 2023 nr. 381](forskrift/2023-03-22-379) (med virkning fra 4 feb 2022), [22 okt 2024 nr. 2537](forskrift/2024-10-22-2537) (i kraft 22 nov 2024).
+> Endret ved [forskrifter 2 feb 2010 nr. 97](forskrift/2010-02-02-97), [11 feb 2011 nr. 149](forskrift/2011-02-11-149), [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [15 aug 2013 nr. 980](forskrift/2013-08-15-980), [11 aug 2016 nr. 964](forskrift/2016-08-11-964), [23 aug 2016 nr. 987](forskrift/2016-08-23-987), [3 april 2018 nr. 526](forskrift/2018-04-03-526), [25 juli 2018 nr. 1208](forskrift/2018-07-25-1208), [25 juni 2020 nr. 1387](forskrift/2020-06-25-1387), [13 juni 2022 nr. 1012](forskrift/2022-06-13-1012) (med virkning fra henholdsvis 21 mai 2021, 28 juli 2021 og 29 mai 2022, se endringsforskriften III), [22 mars 2023 nr. 381](forskrift/2023-03-22-381) (med virkning fra 4 feb 2022), [22 okt 2024 nr. 2537](forskrift/2024-10-22-2537) (i kraft 22 nov 2024).
 
 ## Vedlegg 8A. (Opphevet)
 
