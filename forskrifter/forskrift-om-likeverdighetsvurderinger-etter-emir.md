@@ -10,12 +10,12 @@ ministry:
   - "Finansdepartementet"
 date_in_force: "2017-07-01"
 last_change_in_force: "2025-05-09"
-last_updated: null
-xml_hash: "1b9871f4c5fbc79c5a2e21369175160a0e187a76350ab363fb056c3804d36b02"
+last_updated: "2026-11-10"
+xml_hash: "caf5b86bd23872f8ad0cc8ff04db2a7cd93f6518d7f2805711eee11a96ee3d81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-11T11:41:50.794405+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -53,7 +53,7 @@ Følgende beslutninger gjelder som norsk forskrift med de tilpasningene som føl
 25. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 31bcazk (Kommisjonens gjennomføringsbeslutning [(EU) 2022/985](eu/32022d0985) av 22. juni 2022 om likeverdigheten av rammereglene for sentrale motparter fra Israel og kravene i europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648)).
 26. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 31bcazo (Kommisjonens gjennomføringsbeslutning [(EU) 2025/215](eu/32025d0215) av 30. januar 2025 som fastslår for en begrenset periode at det regulatoriske rammeverket for sentrale motparter i Det forente kongerike Storbritannia og Nord-Irland er likeverdig i samsvar med europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648)).
 
-> Endret ved [forskrifter 3 april 2019 nr. 462](forskrift/2019-04-03-462), [12 april 2019 nr. 503](forskrift/2019-04-12-503), [17 feb 2020 nr. 151](forskrift/2020-02-17-151), [23 mars 2020 nr. 445](forskrift/2020-03-23-445), [26 okt 2020 nr. 2138](forskrift/2020-10-26-2138), [14 juli 2021 nr. 2417](forskrift/2021-07-14-2417), [5 mai 2022 nr. 816](forskrift/2022-05-05-816) (i kraft 1 juli 2022), [3 okt 2022 nr. 1706](forskrift/2022-10-03-1706), [22 mars 2023 nr. 380](forskrift/2023-03-22-379), [4 mai 2023 nr. 654](forskrift/2023-05-04-654), [9 mai 2025 nr. 768](forskrift/2025-05-09-768).
+> Endret ved [forskrifter 3 april 2019 nr. 462](forskrift/2019-04-03-462), [12 april 2019 nr. 503](forskrift/2019-04-12-503), [17 feb 2020 nr. 151](forskrift/2020-02-17-151), [23 mars 2020 nr. 445](forskrift/2020-03-23-445), [26 okt 2020 nr. 2138](forskrift/2020-10-26-2138), [14 juli 2021 nr. 2417](forskrift/2021-07-14-2417), [5 mai 2022 nr. 816](forskrift/2022-05-05-816) (i kraft 1 juli 2022), [3 okt 2022 nr. 1706](forskrift/2022-10-03-1706), [22 mars 2023 nr. 380](forskrift/2023-03-22-380), [4 mai 2023 nr. 654](forskrift/2023-05-04-654), [9 mai 2025 nr. 768](forskrift/2025-05-09-768).
 
 ## § 2. Markeder i tredjeland når det gjelder definisjonen av OTC-derivater
 
