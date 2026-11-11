@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-likeverdighetsvurderinger-etter-emir — Change history
 
-_3 events; doc_id `sf-20170630-1085`._
+_4 events; doc_id `sf-20170630-1085`._
+
+## 2026-11-11 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-likeverdighetsvurderinger-etter-emir`
+Commit: `a410006`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

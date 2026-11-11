@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # hvitvaskingsforskriften — Change history
 
-_3 events; doc_id `sf-20180914-1324`._
+_4 events; doc_id `sf-20180914-1324`._
+
+## 2026-11-11 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): hvitvaskingsforskriften`
+Commit: `7d6d9e7`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

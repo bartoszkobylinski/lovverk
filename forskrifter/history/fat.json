@@ -2,6 +2,16 @@
   "doc_id": "sf-20051222-1723",
   "events": [
     {
+      "commit": "e0eb885",
+      "date": "2026-11-11",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): fat",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d03c9cb",
       "date": "2026-10-29",
       "from_path": null,

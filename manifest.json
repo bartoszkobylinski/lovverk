@@ -5904,7 +5904,7 @@
     },
     "nl-19990716-066": {
       "doc_type": "lov",
-      "embedding_hash": "23a60b8df95581dac1096a1c1d3fd8109e5c9a33fa4a949471f41b00f07b66d4",
+      "embedding_hash": "6f62fd310214d4f1e5c6b9fbfb6babcd2023973ba267a5ccf79827b87d135def",
       "embedding_input_hash": "34230b989b50685fd7b78a06bae5c0e3cac01bacc7337db0e05cfc872dc242ce",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
@@ -5913,8 +5913,8 @@
         "32018R1861",
         "32018R1862"
       ],
-      "last_changed": "2026-11-10",
-      "last_seen": "2026-11-10T12:05:20.926028Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "lover/sis-loven-sisl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5922,8 +5922,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Schengen informasjonssystem (SIS) [SIS-loven]",
-      "total_changes": 6,
-      "xml_hash": "23a60b8df95581dac1096a1c1d3fd8109e5c9a33fa4a949471f41b00f07b66d4"
+      "total_changes": 7,
+      "xml_hash": "6f62fd310214d4f1e5c6b9fbfb6babcd2023973ba267a5ccf79827b87d135def"
     },
     "nl-19990716-068": {
       "doc_type": "lov",
@@ -50397,13 +50397,13 @@
     },
     "sf-20051222-1723": {
       "doc_type": "forskrift",
-      "embedding_hash": "f5e4c5a9a9b4693cafe91fb0caa13c22434df3ff79538b89b25813df27cd3e9e",
+      "embedding_hash": "e4655cb84f2d9353e7af5b89cae2b716be9f9b16be899d0d32974a53d3a6987b",
       "embedding_input_hash": "b77690995893e7469e833fd5463fc53507aa9121143d66a85b6e427c4e7417c4",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-29",
-      "last_seen": "2026-10-29T10:43:20.895400Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "forskrifter/fat.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -50411,8 +50411,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om administrative nedsettelser av tollavgiftssatser for landbruksvarer",
-      "total_changes": 4,
-      "xml_hash": "f5e4c5a9a9b4693cafe91fb0caa13c22434df3ff79538b89b25813df27cd3e9e"
+      "total_changes": 5,
+      "xml_hash": "e4655cb84f2d9353e7af5b89cae2b716be9f9b16be899d0d32974a53d3a6987b"
     },
     "sf-20051223-1703": {
       "doc_type": "forskrift",
@@ -50701,13 +50701,13 @@
     },
     "sf-20060307-0563": {
       "doc_type": "forskrift",
-      "embedding_hash": "95531b642a7b2dc4e7ad46a9f8f35914ee747108ec6361bac2df2a8e48e5ccda",
+      "embedding_hash": "3551cc904a37a60088d94dea49078a83410fae3e4f76f00b8f7a668827dbaf0a",
       "embedding_input_hash": "d444ffa510cb8748b8a9936b408440b20c60e23ad7471f412b806646d4ac009a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-mv-ved-steinerhøyskolen.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -50715,8 +50715,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Steinerhøyskolen",
-      "total_changes": 3,
-      "xml_hash": "95531b642a7b2dc4e7ad46a9f8f35914ee747108ec6361bac2df2a8e48e5ccda"
+      "total_changes": 4,
+      "xml_hash": "3551cc904a37a60088d94dea49078a83410fae3e4f76f00b8f7a668827dbaf0a"
     },
     "sf-20060316-0311": {
       "doc_type": "forskrift",
@@ -58149,13 +58149,13 @@
     },
     "sf-20091015-1286": {
       "doc_type": "forskrift",
-      "embedding_hash": "a858cdfe46d1037c6d25652b080d532f39181c2a2908622c8995d2890f455f32",
+      "embedding_hash": "efbc3c2ec14d76e430f53a2597cc6a2f265401b83c0773c9c9f7f96d27b4aa2d",
       "embedding_input_hash": "eee93b02d62f3553bb673b84f1594195ccc62738a51a0530f00b9a57522742ab",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-25",
-      "last_seen": "2026-10-25T20:11:20.947123Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58163,8 +58163,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 20,
-      "xml_hash": "a858cdfe46d1037c6d25652b080d532f39181c2a2908622c8995d2890f455f32"
+      "total_changes": 21,
+      "xml_hash": "efbc3c2ec14d76e430f53a2597cc6a2f265401b83c0773c9c9f7f96d27b4aa2d"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -58947,13 +58947,13 @@
     },
     "sf-20091222-1810": {
       "doc_type": "forskrift",
-      "embedding_hash": "50599e061cc9f831d5f0c27d8ce7bf207c77ded1062d5cdf163f46501e0ca455",
-      "embedding_input_hash": "5046b8e1c45af7896fedb88443ac4d5a9e111b068807392af59e0853ae9b3b47",
+      "embedding_hash": "655a02289ba8ee34963e90c864bb4436c2426357b7d4ab3ff3ee92aa3108afbf",
+      "embedding_input_hash": "9fd26eea41f1f6ec2d7cf2e1700494dcf5ed28e8b32d8c424bba2c207a0bd2ab",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "forskrifter/forskrift-om-alderspensjon-i-folketrygden.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58961,8 +58961,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om alderspensjon i folketrygden",
-      "total_changes": 3,
-      "xml_hash": "50599e061cc9f831d5f0c27d8ce7bf207c77ded1062d5cdf163f46501e0ca455"
+      "total_changes": 4,
+      "xml_hash": "655a02289ba8ee34963e90c864bb4436c2426357b7d4ab3ff3ee92aa3108afbf"
     },
     "sf-20091223-1842": {
       "doc_type": "forskrift",
@@ -78004,13 +78004,13 @@
     },
     "sf-20170630-1085": {
       "doc_type": "forskrift",
-      "embedding_hash": "1b9871f4c5fbc79c5a2e21369175160a0e187a76350ab363fb056c3804d36b02",
-      "embedding_input_hash": "13fea999f0d9d63539ac0e671aebb895435e5a62894c7d1b6cdd4d7a3bc7363e",
+      "embedding_hash": "caf5b86bd23872f8ad0cc8ff04db2a7cd93f6518d7f2805711eee11a96ee3d81",
+      "embedding_input_hash": "549c608346f0848034a268f50d8faadd4b130aca72a907515209527c40b06a81",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "forskrifter/forskrift-om-likeverdighetsvurderinger-etter-emir.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -78018,8 +78018,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om likeverdighetsvurderinger etter EMIR",
-      "total_changes": 3,
-      "xml_hash": "1b9871f4c5fbc79c5a2e21369175160a0e187a76350ab363fb056c3804d36b02"
+      "total_changes": 4,
+      "xml_hash": "caf5b86bd23872f8ad0cc8ff04db2a7cd93f6518d7f2805711eee11a96ee3d81"
     },
     "sf-20170630-1126": {
       "doc_type": "forskrift",
@@ -81082,13 +81082,13 @@
     },
     "sf-20180914-1324": {
       "doc_type": "forskrift",
-      "embedding_hash": "378aaa6f0942e452e83a6d24c412d90dfa7e09219b163bd55e718d4eef7878ca",
-      "embedding_input_hash": "f1384518f58fdd4dc1e45cf0d042fc2c593df2a1c8c2b1dd098f4cfada0ec296",
+      "embedding_hash": "512b1f16897c36aa5d065ceb45dd6cafa4ad36f456dfe8e594b503b0fb31f6a9",
+      "embedding_input_hash": "2d3702d21894dcd6835fdd88e5eddb7d9ffcd5443c12765cc8b5b3d6f6fc94d8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-11",
+      "last_seen": "2026-11-11T11:41:50.794405Z",
       "markdown_path": "forskrifter/hvitvaskingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -81096,8 +81096,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "378aaa6f0942e452e83a6d24c412d90dfa7e09219b163bd55e718d4eef7878ca"
+      "total_changes": 4,
+      "xml_hash": "512b1f16897c36aa5d065ceb45dd6cafa4ad36f456dfe8e594b503b0fb31f6a9"
     },
     "sf-20180917-1339": {
       "doc_type": "forskrift",
@@ -114901,6 +114901,6 @@
       "xml_hash": "0d6697f84e740aacd1593d0e74def7cc12614f745678de01ee43cb8fc4492843"
     }
   },
-  "generated_at": "2026-11-10T12:05:20.926028Z",
+  "generated_at": "2026-11-11T11:41:50.794405Z",
   "version": 1
 }

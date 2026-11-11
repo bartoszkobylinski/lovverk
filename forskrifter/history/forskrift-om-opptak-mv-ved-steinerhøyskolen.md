@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-opptak-mv-ved-steinerhøyskolen — Change history
 
-_3 events; doc_id `sf-20060307-0563`._
+_4 events; doc_id `sf-20060307-0563`._
+
+## 2026-11-11 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-opptak-mv-ved-steinerhøyskolen`
+Commit: `b1827d2`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

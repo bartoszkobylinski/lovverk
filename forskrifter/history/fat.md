@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # fat — Change history
 
-_4 events; doc_id `sf-20051222-1723`._
+_5 events; doc_id `sf-20051222-1723`._
+
+## 2026-11-11 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): fat`
+Commit: `e0eb885`.
 
 ## 2026-10-29 — Content updated
 Lines: +7 -22.
