@@ -10,12 +10,12 @@ ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2006-01-01"
 last_change_in_force: "2026-10-27"
-last_updated: "2023-01-03"
-xml_hash: "f5e4c5a9a9b4693cafe91fb0caa13c22434df3ff79538b89b25813df27cd3e9e"
+last_updated: "2026-11-10"
+xml_hash: "e4655cb84f2d9353e7af5b89cae2b716be9f9b16be899d0d32974a53d3a6987b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-29T10:43:20.895400+00:00"
+retrieved_at: "2026-11-11T11:41:50.794405+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -418,7 +418,7 @@ Denne forskriften trer i kraft 1. januar 2006. Fra samme tid oppheves [forskrift
 |  | Agurker | 07.07.0010 |
 |  | Epler >70 mm | 08.08.1011 |
 
-> Endret ved [forskrifter 30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [27 juni 2013 nr. 799](forskrift/2013-06-27-799) (i kraft 1 juli 2013), [12 nov 2013 nr. 1312](forskrift/2013-11-12-1312), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [4 mars 2015 nr. 186](forskrift/2015-03-04-186), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [1 juli 2021 nr. 2316](forskrift/2021-07-01-2316), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel), [4 okt 2024 nr. 2388](forskrift/2024-10-04-2388), [31 okt 2024 nr. 2607](forskrift/2024-10-31-2603) (i kraft 1 nov 2024).
+> Endret ved [forskrifter 30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [27 juni 2013 nr. 799](forskrift/2013-06-27-799) (i kraft 1 juli 2013), [12 nov 2013 nr. 1312](forskrift/2013-11-12-1312), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [4 mars 2015 nr. 186](forskrift/2015-03-04-186), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [1 juli 2021 nr. 2316](forskrift/2021-07-01-2316), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel), [4 okt 2024 nr. 2388](forskrift/2024-10-04-2388), [31 okt 2024 nr. 2607](forskrift/2024-10-31-2607) (i kraft 1 nov 2024).
 
 ## Vedlegg 1a. Landbruksvarer som kan innvilges generell nedsettelse av tollavgiftssats for etter [kapittel 2a](forskrift/2005-12-22-1723/kap2a):
 
