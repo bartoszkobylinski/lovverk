@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2005-01-01"
-last_change_in_force: "2026-08-28"
+last_change_in_force: "2026-11-05"
 last_updated: "2023-08-07"
-xml_hash: "e3efb2faa88171f1b0753d3ec82e67b1a2894187fdf0e771960e427eaa99e485"
+xml_hash: "e23be226450a47f97c24d705fa907c0b6231ad309ecd8b8996f6da8b0887abaa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-12T12:09:59.962449+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -289,22 +289,44 @@ Forordning [(EU) 2024/2620](eu/32024r2620) om krav til når klimagasser anses pe
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024).
 
-### § 1A-1. (luftfartøysoperatører med Norge som administrerende stat i EUs klimakvotesystem)
+### § 1A-1. (luftfartøysoperatører med Norge som administrerende stat)
 
-Norge er administrerende stat for de luftfartøysoperatører som følger av listen som angir hvilken stat som administrerer de enkelte luftfartøysoperatørene i EUs klimakvotesystem jf. [EØS-avtalen vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21as (forordning [(EF) nr. 748/2009](eu/32009r0748) som endret ved forordning [(EU) 2024/1030](eu/32024r1030)) om listen over luftfartøyoperatører som utfører luftfartsvirksomhet nevnt i vedlegg I til direktiv [2003/87/EF](eu/32003l0087) med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EF) nr. 748/2009](eu/32009r0748) om listen over luftfartøysoperatører som utfører luftfartsvirksomhet nevnt i vedlegg I til direktiv [2003/87/EF](eu/32003l0087), som inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21as, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
 
-Norge er administrerende stat for følgende luftfartøysoperatører som ikke er inntatt i listen i første ledd:
+- forordning [(EU) nr. 394/2011](eu/32011r0394)
+- forordning [(EU) nr. 100/2012](eu/32012r0100)
+- forordning [(EU) nr. 109/2013](eu/32013r0109)
+- forordning [(EU) nr. 815/2013](eu/32013r0815)
+- forordning [(EU) nr. 100/2014](eu/32014r0100)
+- forordning [(EU) 2015/180](eu/32015r0180)
+- forordning [(EU) 2016/282](eu/32016r0282)
+- forordning [(EU) 2017/294](eu/32017r0294)
+- forordning [(EU) 2018/336](eu/32018r0336)
+- forordning [(EU) 2019/225](eu/32019r0225)
+- forordning [(EU) 2019/226](eu/32019r0226)
+- forordning [(EU) 2020/535](eu/32020r0535)
+- forordning [(EU) 2021/662](eu/32021r0662)
+- forordning [(EU) 2022/455](eu/32022r0455)
+- forordning [(EU) 2023/838](eu/32023r0838)
+- forordning [(EU) 2024/1030](eu/32024r1030)
+- forordning [(EU) 2026/784](eu/32026r0784).
+
+Norge er administrerende stat for de luftfartøysoperatører som er fordelt til Norge i forordningen i første ledd.
+
+Norge er administrerende stat for følgende luftfartøysoperatører som ikke er inntatt i forordningen i første ledd:
 
 1. luftfartøysoperatører som har fått lisens og/eller driftstillatelse utstedt av norsk myndighet til å drive ervervsmessig lufttransport av passasjerer og gods
 2. luftfartøysoperatører som ikke har fått lisens og/eller driftstillatelse fra en EØS-stat, og hvis største andel utslipp i det første kalenderåret hvor luftfartøysoperatøren hadde flygninger som nevnt i [§ 1-4](forskrift/2004-12-23-1851/§1-4) tilskrives Norge. Utslipp som tilskrives Norge er utslipp fra flygninger fra en lufthavn i Norge og flygninger fra en lufthavn utenfor EØS-området til en lufthavn i Norge.
 
-Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot luftfartsaktiviteter omfattet av EUs klimakvotesystem, gjelder for luftfartøysoperatørene som omfattes av første og andre ledd.
+Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot luftfartsaktiviteter omfattet av EUs klimakvotesystem, gjelder for luftfartøysoperatørene som omfattes av første *til tredje* ledd.
 
-> Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrift [27 sep 2024 nr. 2347](forskrift/2024-09-27-2347).
+> Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrifter [27 sep 2024 nr. 2347](forskrift/2024-09-27-2347), [5 nov 2026 nr. 2304](forskrift/2026-11-05-2304).
 
 ### § 1A-2. (skipsoperatører med Norge som administrerende stat)
 
-Norge er administrerende stat for de skipsoperatørene som følger av listen som angir hvilken stat som administrerer de enkelte skipsoperatørene i tråd med EUs klimakvotesystem jf. [EØS-avtalen vedlegg XX kapittel III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21alv (beslutning [(EU) 2024/411](eu/32024d0411)) om liste over administrerende myndighet for skipsoperatører, med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
+Beslutning [(EU) 2024/411](eu/32024d0411) om listen over administrerende myndighet for skipsoperatører, som inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21alv, gjelder som forskrift. Beslutningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av beslutning [(EU) 2025/2452](eu/32025d2452).
+
+Norge er administrerende stat for de skipsoperatørene som er fordelt til Norge i beslutningen i første ledd.
 
 Norge er administrerende stat for følgende skipsoperatører som ikke er inntatt i listen i første ledd:
 
@@ -312,11 +334,11 @@ Norge er administrerende stat for følgende skipsoperatører som ikke er inntatt
 2. skipsoperatører registrert utenfor EØS som de fire siste rapporteringsårene har flest havneanløp fra sine skip i EØS i Norge
 3. skipsoperatører registrert utenfor EØS som de fire siste rapporteringsårene ikke har hatt havneanløp fra sine skip i EØS, hvor første havneanløp i EØS er i Norge.
 
-Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot maritim transportaktivitet gjelder for skipsoperatørene som omfattes av første og andre ledd.
+Regler i [klimakvoteloven](lov/2004-12-17-99) og denne forskriften som retter seg mot maritim transportaktivitet gjelder for skipsoperatørene som omfattes av første til tredje ledd.
 
-Forordning [(EU) 2023/2599](eu/32023r2599) om administrasjon av skipsoperatører, som inntatt i [EØS-avtalen vedlegg XX kap. III](avtale/avt-1992-05-02-1-v20/kapIII) nr. 21als, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20), protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2023/2599](eu/32023r2599) om administrasjon av skipsoperatører, som inntatt i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21als, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrifter [6 mars 2025 nr. 377](forskrift/2025-03-06-377), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360).
+> Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrifter [6 mars 2025 nr. 377](forskrift/2025-03-06-377), [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360), [5 nov 2026 nr. 2304](forskrift/2026-11-05-2304).
 
 ### Kapittel 2. Overvåking, rapportering, verifikasjon og akkreditering
 
