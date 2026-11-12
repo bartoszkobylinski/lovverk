@@ -10,12 +10,12 @@ ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2004-06-01"
 last_change_in_force: "2008-02-22"
-last_updated: null
-xml_hash: "3496bcae6dc0a53571c4d1f28e3a3488b242132936f699404fafa639e5757718"
+last_updated: "2026-11-11"
+xml_hash: "b91243dfbaa8784b0d09f5041f38d5d0cbe3408643673a08a1d26a8f5bc14f46"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-12T12:09:59.962449+00:00"
 status: "current"
 eu_basis: []
 ---
