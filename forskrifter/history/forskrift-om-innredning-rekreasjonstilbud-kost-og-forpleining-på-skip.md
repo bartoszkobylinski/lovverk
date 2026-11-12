@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-innredning-rekreasjonstilbud-kost-og-forpleining-på-skip — Change history
 
-_3 events; doc_id `sf-20170421-0515`._
+_4 events; doc_id `sf-20170421-0515`._
+
+## 2026-11-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-innredning-rekreasjonstilbud-kost-og-forpleining-på-skip`
+Commit: `f6eac91`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

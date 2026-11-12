@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-satellittovervåkning-av-fiskefartøy — Change history
 
-_3 events; doc_id `sf-19991216-1342`._
+_4 events; doc_id `sf-19991216-1342`._
+
+## 2026-11-12 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-satellittovervåkning-av-fiskefartøy`
+Commit: `be5b622`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

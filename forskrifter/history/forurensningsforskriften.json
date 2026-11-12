@@ -2,6 +2,16 @@
   "doc_id": "sf-20040601-0931",
   "events": [
     {
+      "commit": "324c036",
+      "date": "2026-11-12",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forurensningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f656cdf",
       "date": "2026-11-05",
       "from_path": null,

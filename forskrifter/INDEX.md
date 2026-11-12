@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5149 current documents_
+_5151 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1287,6 +1287,7 @@ _5149 current documents_
 - [endr-i-forskrift-om-verdipapirfondprospekt](endr-i-forskrift-om-verdipapirfondprospekt.md) — Forskrift om endring i forskrift om prospekt for verdipapirfond.
 - [endr-i-forskrifter-om-arbeidervern-mm](endr-i-forskrifter-om-arbeidervern-mm.md) — Forskrift om endring i forskrift om arbeidervern og arbeidsmiljø i petroleumsvirksomheten og i visse andre forskrifter.
 - [endr-i-forsvarstilsatteforskriften](endr-i-forsvarstilsatteforskriften.md) — Forskrift om endring i forskrift om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
+- [endr-i-forurensningsforskriften](endr-i-forurensningsforskriften.md) — Forskrift om endring i forurensningsforskriften (endring av normverdier forurenset grunn)
 - [endr-i-fsfin-forskrift-til-skatteloven](endr-i-fsfin-forskrift-til-skatteloven.md) — Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
 - [endr-i-førerkortforskriften](endr-i-førerkortforskriften.md) — Forskrift om endring i forskrift om førerkort m.m. (førerkortforskriften)
 - [endr-i-høstingsforskriften](endr-i-høstingsforskriften.md) — Forskrift om endring i forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser
@@ -1944,6 +1945,7 @@ _5149 current documents_
 - [forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fiske-og-fangstfartøy-mv](forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fiske-og-fangstfartøy-mv.md) — Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy mv.
 - [forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder](forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder.md) — Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
+- [forskrift-om-endring-i-forskrift-om-satelittbasert-overvåking-av-utenlandske-fiskefartøys-aktivitet-i-norges-indre-farvann-sjøterritorium-og-økonomiske-sone-fiskerisonen-ved-jan-mayen-og](forskrift-om-endring-i-forskrift-om-satelittbasert-overvåking-av-utenlandske-fiskefartøys-aktivitet-i-norges-indre-farvann-sjøterritorium-og-økonomiske-sone-fiskerisonen-ved-jan-mayen-og.md) — Forskrift om endring i forskrift om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege](forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege

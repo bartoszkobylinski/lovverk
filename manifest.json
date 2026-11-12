@@ -36679,13 +36679,13 @@
     },
     "sf-19991216-1342": {
       "doc_type": "forskrift",
-      "embedding_hash": "6a38bb0c1140798cc4f059fd3a862b0450d760dbb3e2e242f4d1adf3c77c9c06",
-      "embedding_input_hash": "29d180afa2bba3bd8e7952154f02100074c8aad57f3a5dd1071646b9cb2ff7ff",
+      "embedding_hash": "851f02ff9a8a8006d3ce84651e820683240b4df8ee380e664ebed55b6ffa42ef",
+      "embedding_input_hash": "206abb3fe15ad83bb2335d4905693fd0e002b11a73bcf7785d6daf5ba6085197",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
       "markdown_path": "forskrifter/forskrift-om-satellittovervåkning-av-fiskefartøy.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -36693,8 +36693,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard",
-      "total_changes": 3,
-      "xml_hash": "6a38bb0c1140798cc4f059fd3a862b0450d760dbb3e2e242f4d1adf3c77c9c06"
+      "total_changes": 4,
+      "xml_hash": "851f02ff9a8a8006d3ce84651e820683240b4df8ee380e664ebed55b6ffa42ef"
     },
     "sf-19991217-1309": {
       "doc_type": "forskrift",
@@ -46597,13 +46597,13 @@
     },
     "sf-20040416-0629": {
       "doc_type": "forskrift",
-      "embedding_hash": "3496bcae6dc0a53571c4d1f28e3a3488b242132936f699404fafa639e5757718",
+      "embedding_hash": "b91243dfbaa8784b0d09f5041f38d5d0cbe3408643673a08a1d26a8f5bc14f46",
       "embedding_input_hash": "8c850e3466660bc40e07b27ff688260760b71b62fadaa0398f4c421eba55aac8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
       "markdown_path": "forskrifter/forskrift-om-små-helikopterplasser-bsl-e-3-6.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -46611,8 +46611,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utforming av små helikopterplasser (BSL E 3-6)",
-      "total_changes": 3,
-      "xml_hash": "3496bcae6dc0a53571c4d1f28e3a3488b242132936f699404fafa639e5757718"
+      "total_changes": 4,
+      "xml_hash": "b91243dfbaa8784b0d09f5041f38d5d0cbe3408643673a08a1d26a8f5bc14f46"
     },
     "sf-20040416-0630": {
       "doc_type": "forskrift",
@@ -46863,13 +46863,13 @@
     },
     "sf-20040601-0931": {
       "doc_type": "forskrift",
-      "embedding_hash": "33838d54322b870c044389c057673f008c0d87cf25b628bd609d4dae2a5eabef",
-      "embedding_input_hash": "1f8dd61633b58a246464c930ea85196fcf4d2f545f761a5963746da7765bdd68",
+      "embedding_hash": "58e9413e5091a7936b3a09888cf3baa289387abb20a465c0890b93527994d626",
+      "embedding_input_hash": "4c08d478eed5c4fe381c26c011341699dfad4b12bd43fce2e2452a187f4ccf98",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
       "markdown_path": "forskrifter/forurensningsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -46877,8 +46877,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om begrensning av forurensning (forurensningsforskriften)",
-      "total_changes": 7,
-      "xml_hash": "33838d54322b870c044389c057673f008c0d87cf25b628bd609d4dae2a5eabef"
+      "total_changes": 8,
+      "xml_hash": "58e9413e5091a7936b3a09888cf3baa289387abb20a465c0890b93527994d626"
     },
     "sf-20040611-0836": {
       "doc_type": "forskrift",
@@ -47889,13 +47889,13 @@
     },
     "sf-20041223-1851": {
       "doc_type": "forskrift",
-      "embedding_hash": "e3efb2faa88171f1b0753d3ec82e67b1a2894187fdf0e771960e427eaa99e485",
-      "embedding_input_hash": "709cdd0e678c773b68521adcfbefddd93592ac44384429a98b284fee59d52e57",
+      "embedding_hash": "e23be226450a47f97c24d705fa907c0b6231ad309ecd8b8996f6da8b0887abaa",
+      "embedding_input_hash": "94b5b6af13507ea0149d3a79f5597ff845281ab9c34c0f7d76bd09adab438c72",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
       "markdown_path": "forskrifter/klimakvoteforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -47903,8 +47903,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften)",
-      "total_changes": 5,
-      "xml_hash": "e3efb2faa88171f1b0753d3ec82e67b1a2894187fdf0e771960e427eaa99e485"
+      "total_changes": 6,
+      "xml_hash": "e23be226450a47f97c24d705fa907c0b6231ad309ecd8b8996f6da8b0887abaa"
     },
     "sf-20041230-1817": {
       "doc_type": "forskrift",
@@ -56401,13 +56401,13 @@
     },
     "sf-20081219-1480": {
       "doc_type": "forskrift",
-      "embedding_hash": "632419be5cee7e4beae10f5160bb30c708d8fcddcf24945c6fcf7c52f5270e81",
-      "embedding_input_hash": "0c697abcc9456e5e73d8e2d52f43ee8129524608b29a08376e11ddecf6bdeb42",
+      "embedding_hash": "b2d373d4fd71730c78c6d730e0523c115090a94b07c38accd98485033c918637",
+      "embedding_input_hash": "2570249f135b06569261601dd0a16408f97b3fc3746417a1524354dfc560a7a0",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
       "markdown_path": "forskrifter/forskrift-om-valg-til-sametinget.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -56415,8 +56415,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om valg til Sametinget",
-      "total_changes": 3,
-      "xml_hash": "632419be5cee7e4beae10f5160bb30c708d8fcddcf24945c6fcf7c52f5270e81"
+      "total_changes": 4,
+      "xml_hash": "b2d373d4fd71730c78c6d730e0523c115090a94b07c38accd98485033c918637"
     },
     "sf-20081219-1490": {
       "doc_type": "forskrift",
@@ -77130,13 +77130,13 @@
     },
     "sf-20170421-0515": {
       "doc_type": "forskrift",
-      "embedding_hash": "21ab026ad8f6e3c5d2e18faaed9996f6c7052e7770b30f0e58da7df443c96d45",
+      "embedding_hash": "1d92e7322ba6e8470056c630b74b4c47ff3e64e7e21468902f0b0509024d9cc1",
       "embedding_input_hash": "79c86dc7110b2a4f931be92f199eaeaf7e088f3008428297bab119b6e5b730ee",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
       "markdown_path": "forskrifter/forskrift-om-innredning-rekreasjonstilbud-kost-og-forpleining-på-skip.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -77144,8 +77144,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om innredning, rekreasjonstilbud, kost og forpleining på skip",
-      "total_changes": 3,
-      "xml_hash": "21ab026ad8f6e3c5d2e18faaed9996f6c7052e7770b30f0e58da7df443c96d45"
+      "total_changes": 4,
+      "xml_hash": "1d92e7322ba6e8470056c630b74b4c47ff3e64e7e21468902f0b0509024d9cc1"
     },
     "sf-20170424-0487": {
       "doc_type": "forskrift",
@@ -114899,8 +114899,46 @@
       "title": "Forskrift om endring i forskrift om nasjonal løsning for tilgjengeliggjøring av helsedata",
       "total_changes": 1,
       "xml_hash": "0d6697f84e740aacd1593d0e74def7cc12614f745678de01ee43cb8fc4492843"
+    },
+    "sf-20261109-2305": {
+      "doc_type": "forskrift",
+      "embedding_hash": "2be1cfb2af00332fdb14341da75b4f2ae6953f27462d9998aa69fdabfad9ef29",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-satelittbasert-overvåking-av-utenlandske-fiskefartøys-aktivitet-i-norges-indre-farvann-sjøterritorium-og-økonomiske-sone-fiskerisonen-ved-jan-mayen-og.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endring-i-forskrift-om-satelittbasert-overvåking-av-utenlandske-fiskefartøys-aktivitet-i-norges-indre-farvann-sjøterritorium-og-økonomiske-sone-fiskerisonen-ved-jan-mayen-og",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard",
+      "total_changes": 1,
+      "xml_hash": "2be1cfb2af00332fdb14341da75b4f2ae6953f27462d9998aa69fdabfad9ef29"
+    },
+    "sf-20261109-2306": {
+      "doc_type": "forskrift",
+      "embedding_hash": "fd53c373cdb2913ce71d8c8fc496054e58918e1add9e99a2fdd4db56bbbcbe45",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-12",
+      "last_seen": "2026-11-12T12:09:59.962449Z",
+      "markdown_path": "forskrifter/endr-i-forurensningsforskriften.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "endr-i-forurensningsforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forurensningsforskriften (endring av normverdier forurenset grunn)",
+      "total_changes": 2,
+      "xml_hash": "fd53c373cdb2913ce71d8c8fc496054e58918e1add9e99a2fdd4db56bbbcbe45"
     }
   },
-  "generated_at": "2026-11-11T11:41:50.794405Z",
+  "generated_at": "2026-11-12T12:09:59.962449Z",
   "version": 1
 }

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # klimakvoteforskriften — Change history
 
-_5 events; doc_id `sf-20041223-1851`._
+_6 events; doc_id `sf-20041223-1851`._
+
+## 2026-11-12 — Content updated
+Lines: +34 -12.
+Subject: `update(forskrift): klimakvoteforskriften`
+Commit: `6495795`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

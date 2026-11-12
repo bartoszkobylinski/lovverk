@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261109-2305",
+  "events": [
+    {
+      "commit": "5dfbbdc",
+      "date": "2026-11-12",
+      "from_path": null,
+      "lines_added": 40,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-satelittbasert-overvåking-av-utenlandske-fiskefartøys-aktivitet-i-norges-indre-farvann-sjøterritorium-og-økonomiske-sone-fiskerisonen-ved-jan-mayen-og",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-satelittbasert-overvåking-av-utenlandske-fiskefartøys-aktivitet-i-norges-indre-farvann-sjøterritorium-og-økonomiske-sone-fiskerisonen-ved-jan-mayen-og"
+}

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-valg-til-sametinget — Change history
 
-_3 events; doc_id `sf-20081219-1480`._
+_4 events; doc_id `sf-20081219-1480`._
+
+## 2026-11-12 — Content updated
+Lines: +3 -4.
+Subject: `update(forskrift): forskrift-om-valg-til-sametinget`
+Commit: `b78f12e`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

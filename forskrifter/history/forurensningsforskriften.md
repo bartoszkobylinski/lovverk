@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forurensningsforskriften — Change history
 
-_7 events; doc_id `sf-20040601-0931`._
+_8 events; doc_id `sf-20040601-0931`._
+
+## 2026-11-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forurensningsforskriften`
+Commit: `324c036`.
 
 ## 2026-11-05 — Content updated
 Lines: +2 -2.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-små-helikopterplasser-bsl-e-3-6 — Change history
 
-_3 events; doc_id `sf-20040416-0629`._
+_4 events; doc_id `sf-20040416-0629`._
+
+## 2026-11-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-små-helikopterplasser-bsl-e-3-6`
+Commit: `1df8976`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
