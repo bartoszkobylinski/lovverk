@@ -10,12 +10,12 @@ ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-05-01"
 last_change_in_force: "2025-06-26"
-last_updated: null
-xml_hash: "21ab026ad8f6e3c5d2e18faaed9996f6c7052e7770b30f0e58da7df443c96d45"
+last_updated: "2026-11-11"
+xml_hash: "1d92e7322ba6e8470056c630b74b4c47ff3e64e7e21468902f0b0509024d9cc1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-12T12:09:59.962449+00:00"
 status: "current"
 eu_basis: []
 ---
