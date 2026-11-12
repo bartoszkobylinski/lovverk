@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-01-01"
 last_change_in_force: "2022-01-19"
 last_updated: "2022-01-21"
-xml_hash: "6a38bb0c1140798cc4f059fd3a862b0450d760dbb3e2e242f4d1adf3c77c9c06"
+xml_hash: "851f02ff9a8a8006d3ce84651e820683240b4df8ee380e664ebed55b6ffa42ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-12T12:09:59.962449+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Denne forskriften gjelder for følgende fiskefartøy som oppholder seg i Norges 
 
 Med fiskefartøy forstås fartøy av ethvert slag som er utstyrt for eller driver fiske og fangst i ervervsøyemed, eller fartøy som bistår fiskeflåten, herunder transportfartøy som mottar fangst og lete- og forsøksfartøy.
 
-> Endret ved [forskrifter 21 feb 2001 nr. 167](forskrift/2001-02-21-167), [23 sep 2002 nr. 1060](forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](forskrift/2004-07-09-1119), [17 feb 2005 nr. 155](forskrift/2005-02-17-155) (i kraft 1 mars 2005), [23 jan 2012 nr. 88](forskrift/2012-01-23-88), [29 april 2020 nr. 895](forskrift/2020-04-29-895) (i kraft 1 juni 2020), [19 jan 2022 nr. 94](forskrift/2022-01-19-94).
+> Endret ved [forskrifter 21 feb 2001 nr. 167](forskrift/2001-02-21-167), [23 sep 2002 nr. 1060](forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](forskrift/2004-07-09-1119), [17 feb 2005 nr. 155](forskrift/2005-02-17-155) (i kraft 1 mars 2005), [23 jan 2012 nr. 88](forskrift/2012-01-23-88), [29 april 2020 nr. 895](forskrift/2020-04-29-895) (i kraft 1 juni 2020), [19 jan 2022 nr. 94](forskrift/2022-01-19-94). **Endres** ved forskrift [9 nov 2026 nr. 2305](forskrift/2026-11-09-2305) (i kraft 1 jan 2027).
 
 ## § 2. Sporing
 
@@ -53,7 +53,7 @@ Meldingen skal inneholde følgende:
 
 Fiskeridirektoratet kan fastsette nærmere regler om vidererapportering til Fiskeridirektoratet av meldinger i henhold til denne bestemmelse.
 
-> Endret ved [forskrifter 23 sep 2002 nr. 1060](forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](forskrift/2004-07-09-1119).
+> Endret ved [forskrifter 23 sep 2002 nr. 1060](forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](forskrift/2004-07-09-1119). **Endres** ved forskrift [9 nov 2026 nr. 2305](forskrift/2026-11-09-2305) (i kraft 1 jan 2027).
 
 ## § 3. Utstyr
 
@@ -80,7 +80,7 @@ Ansvarshavende om bord på fartøyet skal påse at:
 
 Dersom det oppstår feil i forbindelse med satellittsporing, slik at Fiskeridirektoratet ikke mottar meldingene som nevnt i [§ 2](forskrift/1999-12-16-1342/§2), skal fartøyene minst en gang hver tolvte time sende slik melding via telefax. Fartøy som fører flagg fra Storbritannia og fartøy som fører flagg fra medlemsland i Den europeiske union skal sende slik melding minst en gang hver fjerde time. Dette gjelder også inngangs- og utgangsmelding som nevnt i [§ 2](forskrift/1999-12-16-1342/§2).
 
-> Endret ved [forskrifter 9 juli 2004 nr. 1119](forskrift/2004-07-09-1119) (tidligere § 4), [23 jan 2012 nr. 88](forskrift/2012-01-23-88), [19 jan 2022 nr. 94](forskrift/2022-01-19-94).
+> Endret ved [forskrifter 9 juli 2004 nr. 1119](forskrift/2004-07-09-1119) (tidligere § 4), [23 jan 2012 nr. 88](forskrift/2012-01-23-88), [19 jan 2022 nr. 94](forskrift/2022-01-19-94). **Endres** ved forskrift [9 nov 2026 nr. 2305](forskrift/2026-11-09-2305) (i kraft 1 jan 2027).
 
 ## § 6. Krav til utbedring av feil
 
