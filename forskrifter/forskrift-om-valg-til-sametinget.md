@@ -10,12 +10,12 @@ ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2008-12-19"
 last_change_in_force: "2025-06-23"
-last_updated: "2021-06-28"
-xml_hash: "632419be5cee7e4beae10f5160bb30c708d8fcddcf24945c6fcf7c52f5270e81"
+last_updated: "2026-11-11"
+xml_hash: "b2d373d4fd71730c78c6d730e0523c115090a94b07c38accd98485033c918637"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-12T12:09:59.962449+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -752,7 +752,6 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 (1) Når det er avgjort hvor mange mandater en valgliste skal ha, fordeler opptellingsvalgstyret disse til kandidatene på listen. Kandidater som ikke er valgbare settes ut av betraktning.
 
 (2) Kandidatkåringen foregår på følgende måte:
-
 Først telles de navn som er oppført som nr. 1 på stemmesedlene. Den kandidaten som har flest oppføringer blir valgt. Deretter telles de navn som er oppført som nr. 2 på stemmesedlene. Den kandidaten som har flest oppføringer når man legger sammen resultatene fra første og andre opptelling, blir valgt. Opptellingene fortsetter på samme måte inntil alle de representantplassene listen skal ha, er besatt. Oppnår flere kandidater samme resultat, er den opprinnelige rekkefølgen på listen avgjørende.
 
 (3) Hver liste skal så vidt mulig tildeles så mange vararepresentanter som den får representanter, med tillegg av tre. Vararepresentantplassene fordeles på samme måte som representantene.
