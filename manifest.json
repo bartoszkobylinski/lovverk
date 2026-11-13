@@ -72190,13 +72190,13 @@
     },
     "sf-20150702-1088": {
       "doc_type": "forskrift",
-      "embedding_hash": "6e69850d3d0c5b5639ae34310e9ef01f62d071b0f74831d806208a4efe167c01",
-      "embedding_input_hash": "11e470217524ccef16ff972786a0dd9cf3042772649b1645ae9100e1bfb3227a",
+      "embedding_hash": "0b138375352dce882d3008295d13045b9277c78c9ede7538bb4d23e6ad323368",
+      "embedding_input_hash": "621cf0240f91ac78a9fc152a6e4d36c4c25ab91f873b777cb26233842704f5cf",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-11-13",
+      "last_seen": "2026-11-13T11:51:22.204785Z",
       "markdown_path": "forskrifter/våpeninstruks-for-politiet.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -72204,8 +72204,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Våpeninstruks for politiet",
-      "total_changes": 2,
-      "xml_hash": "6e69850d3d0c5b5639ae34310e9ef01f62d071b0f74831d806208a4efe167c01"
+      "total_changes": 3,
+      "xml_hash": "0b138375352dce882d3008295d13045b9277c78c9ede7538bb4d23e6ad323368"
     },
     "sf-20150703-0870": {
       "doc_type": "forskrift",
@@ -81766,13 +81766,13 @@
     },
     "sf-20181219-2145": {
       "doc_type": "forskrift",
-      "embedding_hash": "476e198809837223363de52b659be0f2bd8d61a33dcffa2cf4069c1088ce66a7",
-      "embedding_input_hash": "0f0e49b63731e8709dd0926fbd5f8bed6502051292ed6b73bdf0cc5c80ec140c",
+      "embedding_hash": "e3d478011efacfd8e2af351c0eccc9031e2b599e28fb8406a0ff887c838401df",
+      "embedding_input_hash": "f583de22f79e434c3356ff175f2b91e05904d31828cbb4611b3d51f068da5f33",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-11-13",
+      "last_seen": "2026-11-13T11:51:22.204785Z",
       "markdown_path": "forskrifter/forskrift-til-lov-om-bankenes-sikringsfond.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -81780,8 +81780,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til lov om Bankenes sikringsfond",
-      "total_changes": null,
-      "xml_hash": "476e198809837223363de52b659be0f2bd8d61a33dcffa2cf4069c1088ce66a7"
+      "total_changes": 4,
+      "xml_hash": "e3d478011efacfd8e2af351c0eccc9031e2b599e28fb8406a0ff887c838401df"
     },
     "sf-20181219-2151": {
       "doc_type": "forskrift",
@@ -114446,13 +114446,13 @@
     },
     "sf-20261022-2230": {
       "doc_type": "forskrift",
-      "embedding_hash": "e91994fc8ddd9fd932e78d2855efe80a58464dea9456ad0e7e23aee2a66b8a5a",
-      "embedding_input_hash": "9a4af9676f86bc1bb02a5772c8ba95f38e18500f7e38161cb4ed655999bba388",
+      "embedding_hash": "ec9a51962255c7ecbe39d64ca2fa74ec515e050c90394778f8ad24a4097733d7",
+      "embedding_input_hash": "5dace5272e4b0dc9dcb12381d945f76e2dd7f27e788090efe25e4f075d89f5b5",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-13",
+      "last_seen": "2026-11-13T11:51:22.204785Z",
       "markdown_path": "forskrifter/forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -114460,8 +114460,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil",
-      "total_changes": 1,
-      "xml_hash": "e91994fc8ddd9fd932e78d2855efe80a58464dea9456ad0e7e23aee2a66b8a5a"
+      "total_changes": 2,
+      "xml_hash": "ec9a51962255c7ecbe39d64ca2fa74ec515e050c90394778f8ad24a4097733d7"
     },
     "sf-20261022-2231": {
       "doc_type": "forskrift",
@@ -114937,8 +114937,27 @@
       "title": "Forskrift om endring i forurensningsforskriften (endring av normverdier forurenset grunn)",
       "total_changes": 2,
       "xml_hash": "fd53c373cdb2913ce71d8c8fc496054e58918e1add9e99a2fdd4db56bbbcbe45"
+    },
+    "sf-20261111-2334": {
+      "doc_type": "forskrift",
+      "embedding_hash": "51e7c83edd3b145b0dd236d36271a755d3af3463befbb6210adc87150b2844b6",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-13",
+      "last_seen": "2026-11-13T11:51:22.204785Z",
+      "markdown_path": "forskrifter/vedtak-om-endring-i-våpeninstruks-for-politiet.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "vedtak-om-endring-i-våpeninstruks-for-politiet",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Vedtak om endring i våpeninstruks for politiet",
+      "total_changes": 1,
+      "xml_hash": "51e7c83edd3b145b0dd236d36271a755d3af3463befbb6210adc87150b2844b6"
     }
   },
-  "generated_at": "2026-11-12T12:09:59.962449Z",
+  "generated_at": "2026-11-13T11:51:22.204785Z",
   "version": 1
 }

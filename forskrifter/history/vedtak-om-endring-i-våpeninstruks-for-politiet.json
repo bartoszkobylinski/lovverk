@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261111-2334",
+  "events": [
+    {
+      "commit": "491d0ef",
+      "date": "2026-11-13",
+      "from_path": null,
+      "lines_added": 87,
+      "lines_removed": 0,
+      "subject": "add(forskrift): vedtak-om-endring-i-våpeninstruks-for-politiet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "vedtak-om-endring-i-våpeninstruks-for-politiet"
+}

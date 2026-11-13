@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # våpeninstruks-for-politiet — Change history
 
-_2 events; doc_id `sf-20150702-1088`._
+_3 events; doc_id `sf-20150702-1088`._
+
+## 2026-11-13 — Content updated
+Lines: +15 -7.
+Subject: `update(forskrift): våpeninstruks-for-politiet`
+Commit: `1119a5a`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

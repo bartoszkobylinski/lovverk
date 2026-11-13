@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5151 current documents_
+_5152 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -5033,6 +5033,7 @@ _5151 current documents_
 - [vedtak-om-dispensasjon-for-forskningsfartøyer](vedtak-om-dispensasjon-for-forskningsfartøyer.md) — Vedtak om dispensasjon fra kravet om diplomatisk klarering for forskningsfartøyer som er sivile statsfartøyer
 - [vedtak-om-endring-av-navn-til-helsedirektoratet](vedtak-om-endring-av-navn-til-helsedirektoratet.md) — Vedtak om endring av navn på Sosial- og helsedirektoratet til Helsedirektoratet
 - [vedtak-om-endring-i-vedtak-om-delegering-av-myndighet-etter-adopsjonsloven](vedtak-om-endring-i-vedtak-om-delegering-av-myndighet-etter-adopsjonsloven.md) — Vedtak om endring i vedtak om delegering av myndighet etter adopsjonsloven
+- [vedtak-om-endring-i-våpeninstruks-for-politiet](vedtak-om-endring-i-våpeninstruks-for-politiet.md) — Vedtak om endring i våpeninstruks for politiet
 - [vedtak-om-etablering-av-dsb](vedtak-om-etablering-av-dsb.md) — Vedtak om etablering av Direktoratet for samfunnssikkerhet og beredskap.
 - [vedtak-om-fastsettelse-av-aii](vedtak-om-fastsettelse-av-aii.md) — Vedtak om fastsettelse av alternativ instrumentidentifikator
 - [vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024](vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024.md) — Vedtak om fastsettelse av rente for skattlegging av havbruksvirksomhet for inntektsåret 2024

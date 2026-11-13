@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026 — Change history
 
-_1 events; doc_id `sf-20261022-2230`._
+_2 events; doc_id `sf-20261022-2230`._
+
+## 2026-11-13 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-delvis-allmenngjøring-av-tariffavtaler-for-persontransport-med-turbil-2026`
+Commit: `44ade30`.
 
 ## 2026-11-05 — Added to corpus
 Lines: +18 -32.

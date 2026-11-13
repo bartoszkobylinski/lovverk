@@ -7,7 +7,17 @@ source_license: "NLOD 2.0"
 
 # forskrift-til-lov-om-bankenes-sikringsfond — Change history
 
-_2 events; doc_id `sf-20181219-2145`._
+_4 events; doc_id `sf-20181219-2145`._
+
+## 2026-11-13 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-til-lov-om-bankenes-sikringsfond`
+Commit: `3e2ae92`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20181219-2145.md` → `forskrifter/forskrift-til-lov-om-bankenes-sikringsfond.md`.
