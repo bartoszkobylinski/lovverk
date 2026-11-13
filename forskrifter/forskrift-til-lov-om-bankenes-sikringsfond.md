@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2019-01-01"
-last_change_in_force: "2025-11-27"
+last_change_in_force: "2026-11-10"
 last_updated: null
-xml_hash: "476e198809837223363de52b659be0f2bd8d61a33dcffa2cf4069c1088ce66a7"
+xml_hash: "e3d478011efacfd8e2af351c0eccc9031e2b599e28fb8406a0ff887c838401df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-11-13T11:51:22.204785+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,6 +42,6 @@ Forskriften trer i kraft 1. januar 2019.
 
 Virksomheten i Bankenes sikringsfond, herunder etablerte avtaler og fullmaktsforhold, videreføres inntil nytt styre har avholdt første styremøte. Styret kan forlenge overgangsperioden i den utstrekning det er nødvendig.
 
-Overføringen av eiendeler og forpliktelser forvaltet av Bankenes sikringsfond i medhold av tidligere gjeldende [kapittel 19](lov/2015-04-10-17/kap19) i [finansforetaksloven](lov/2015-04-10-17) skal skje innen 31. desember 2026, med regnskapsmessig virkning fra 1. januar 2026. Fordelingen av eiendeler og forpliktelser skal baseres på verdier pr. 1. januar 2019 med etterfølgende verdiutvikling, tillagt innkrevet bidrag til krisetiltaksfondet, fratrukket kostnad ved administrasjon av fondet. Midler som disponeres av krisehåndteringsmyndigheten skal regnskapsmessig presenteres som egenkapital i Bankenes sikringsfond inntil overføringen er foretatt.
+Overføringen av eiendeler og forpliktelser forvaltet av Bankenes sikringsfond i medhold av tidligere gjeldende [kapittel 19](lov/2015-04-10-17/kap19) i [finansforetaksloven](lov/2015-04-10-17) skal skje innen 31. desember 2027, med regnskapsmessig virkning fra 1. januar 2027. Fordelingen av eiendeler og forpliktelser skal baseres på verdier pr. 1. januar 2019 med etterfølgende verdiutvikling, tillagt innkrevet bidrag til krisetiltaksfondet, fratrukket kostnad ved administrasjon av fondet. Midler som disponeres av krisehåndteringsmyndigheten skal regnskapsmessig presenteres som egenkapital i Bankenes sikringsfond inntil overføringen er foretatt.
 
-> Endret ved [forskrifter 17 juni 2019 nr. 739](forskrift/2019-06-17-739), [19 des 2019 nr. 2031](forskrift/2019-12-19-2031), [14 des 2020 nr. 2750](forskrift/2020-12-14-2750), [2 des 2021 nr. 3360](forskrift/2021-12-02-3360), [19 des 2022 nr. 2287](forskrift/2022-12-19-2287), [20 okt 2023 nr. 1667](forskrift/2023-10-20-1667), [5 des 2024 nr. 2936](forskrift/2024-12-05-2936), [27 nov 2025 nr. 2341](forskrift/2025-11-27-2341).
+> Endret ved [forskrifter 17 juni 2019 nr. 739](forskrift/2019-06-17-739), [19 des 2019 nr. 2031](forskrift/2019-12-19-2031), [14 des 2020 nr. 2750](forskrift/2020-12-14-2750), [2 des 2021 nr. 3360](forskrift/2021-12-02-3360), [19 des 2022 nr. 2287](forskrift/2022-12-19-2287), [20 okt 2023 nr. 1667](forskrift/2023-10-20-1667), [5 des 2024 nr. 2936](forskrift/2024-12-05-2936), [27 nov 2025 nr. 2341](forskrift/2025-11-27-2341), [10 nov 2026 nr. 2308](forskrift/2026-11-10-2308).
