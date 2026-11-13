@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-04-01"
 last_change_in_force: "2025-03-07"
 last_updated: null
-xml_hash: "6e69850d3d0c5b5639ae34310e9ef01f62d071b0f74831d806208a4efe167c01"
+xml_hash: "0b138375352dce882d3008295d13045b9277c78c9ede7538bb4d23e6ad323368"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-13T11:51:22.204785+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,7 +94,7 @@ I denne instruksen forstås med:
 
 (8) *Ammunisjon:* Ammunisjon til gassvåpen, skytevåpen og sprengvåpen godkjent etter [§ 1-5](forskrift/2015-07-02-1088/§1-5) til bruk i politiet.
 
-> Endret ved [vedtak 3 mai 2016 nr. 460](forskrift/2016-05-03-460), [27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [9 juli 2019 nr. 993](forskrift/2019-07-09-993) (i kraft 1 aug 2019), [28 juni 2021 nr. 2251](forskrift/2021-06-28-2251) (i kraft 1 juli 2021), [11 okt 2021 nr. 2968](forskrift/2021-10-11-2968) (i kraft 1 jan 2022), [24 april 2024 nr. 670](forskrift/2024-04-24-670), [24 feb 2025 nr. 365](forskrift/2025-02-24-365), [7 mars 2025 nr. 386](forskrift/2025-03-07-386).
+> Endret ved [vedtak 3 mai 2016 nr. 460](forskrift/2016-05-03-460), [27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [9 juli 2019 nr. 993](forskrift/2019-07-09-993) (i kraft 1 aug 2019), [28 juni 2021 nr. 2251](forskrift/2021-06-28-2251) (i kraft 1 juli 2021), [11 okt 2021 nr. 2968](forskrift/2021-10-11-2968) (i kraft 1 jan 2022), [24 april 2024 nr. 670](forskrift/2024-04-24-670), [24 feb 2025 nr. 365](forskrift/2025-02-24-365), [7 mars 2025 nr. 386](forskrift/2025-03-07-386). **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ### § 1-5. Myndighet etter denne instruksen
 
@@ -109,6 +109,8 @@ I denne instruksen forstås med:
 2. Godkjenner våpen, ammunisjon og utstyr som bare skal benyttes av PST. Godkjenning skal være innenfor rammen av denne instruksen, jf. [§ 1-4](forskrift/2015-07-02-1088/§1-4). PST skal informere Politidirektoratet om våpen-, ammunisjon- og utstyrstyper som godkjennes etter denne bestemmelse.
 
 (3) Justis- og beredskapsdepartementet godkjenner ny ammunisjon med vesentlig andre egenskaper enn tidligere godkjent ammunisjon.
+
+> **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ## Kapittel II. Lagring
 
@@ -152,7 +154,7 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 (3) Når bevæpningsordre er gitt skal verneutstyr være tilgjengelig og benyttes, med mindre tjenestens art tilsier noe annet. Politidirektoratet kan fastsette særlige bestemmelser for bruk av verneutstyr ved beslutning om bevæpning i medhold av [§ 3-2](forskrift/2015-07-02-1088/§3-2) tredje, fjerde og femte ledd.
 
-> Endret ved [vedtak 30 jan 2020 nr. 97](forskrift/2020-01-30-97) (i kraft 1 feb 2020).
+> Endret ved [vedtak 30 jan 2020 nr. 97](forskrift/2020-01-30-97) (i kraft 1 feb 2020). **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ### § 3-2. Vilkår for bevæpning med skytevåpen
 
@@ -169,7 +171,7 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 (5) Dersom det er besluttet bevæpning etter fjerde ledd, kan Politidirektoratet etter samtykke fra departementet beslutte bevæpnet patruljering mellom sårbare objekter i et avgrenset område med inntil ett år av gangen.
 
-> Endret ved [vedtak 27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [30 jan 2020 nr. 97](forskrift/2020-01-30-97) (i kraft 1 feb 2020).
+> Endret ved [vedtak 27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [30 jan 2020 nr. 97](forskrift/2020-01-30-97) (i kraft 1 feb 2020). **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ### § 3-3. Beslutning om bevæpning med skytevåpen
 
@@ -186,6 +188,8 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 3. Kripos treffes av sjef Kripos. Operasjonsleder i distriktet hvor tjenesteoppdraget utføres skal varsles.
 4. UP og PU treffes som hovedregel av operasjonsleder eller politisjef i det distriktet tjenesteoppdraget utføres.
 
+> **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
+
 ### § 3-4. Beslutning om bevæpning med skytevåpen over distriktsgrenser
 
 (1) For væpnet politiinnsats som foregår i flere politidistrikter gjelder følgende:
@@ -194,6 +198,8 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 2. Ved planlagte/koordinerte oppdrag over flere distrikter som nevnt i [§ 3-2](forskrift/2015-07-02-1088/§3-2) (1) b), er det den enkelte politisjef som har myndighet til å beslutte bevæpning innenfor eget distrikt.
 
 (2) Når det anses hensiktsmessig kan politidirektøren beslutte bevæpning ved distriktsovergripende hendelser som nevnt i første ledd a og b.
+
+> **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ### § 3-5. Gassvåpen
 
@@ -215,7 +221,7 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 (3) Beslutning om bevæpning med sprengvåpen treffes av politisjef. Når situasjonen krever umiddelbar innsats, og det ikke er teknisk mulig, tid til eller taktisk tilrådelig å innhente bevæpningsordre fra politisjef, kan operasjonsleder treffe beslutning om bevæpning med sprengvåpen.
 
-> Endret ved [vedtak 3 mai 2016 nr. 460](forskrift/2016-05-03-460), [27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [30 jan 2020 nr. 97](forskrift/2020-01-30-97) (i kraft 1 feb 2020).
+> Endret ved [vedtak 3 mai 2016 nr. 460](forskrift/2016-05-03-460), [27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [30 jan 2020 nr. 97](forskrift/2020-01-30-97) (i kraft 1 feb 2020). **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ## Kapittel IV. Bruk
 
@@ -287,7 +293,7 @@ Sprengvåpen kan medbringes og oppbevares i beredskapstroppens motoriserte patru
 
 (3) Beslutning om bruk av sprengvåpen treffes av innsatsleder.
 
-> Endret ved [vedtak 27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [9 juli 2019 nr. 993](forskrift/2019-07-09-993) (i kraft 1 aug 2019).
+> Endret ved [vedtak 27 juni 2018 nr. 1094](forskrift/2018-06-27-1094) (i kraft 1 juli 2018), [9 juli 2019 nr. 993](forskrift/2019-07-09-993) (i kraft 1 aug 2019). **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ## Kapittel V. Våpenforvaltning og kontroll
 
@@ -304,6 +310,8 @@ I samsvar med retningslinjer gitt av Politidirektoratet skal politisjef sørge f
 (1) Politisjef skal sørge for løpende registrering av alle bevæpningsbeslutninger.
 
 (2) Politidirektoratet gir nærmere retningslinjer om registreringen og innrapporteringen.
+
+> **Endres** ved vedtak [11 nov 2026 nr. 2334](forskrift/2026-11-11-2334) (i kraft 1 jan 2027).
 
 ### § 5-3. Oversikt over bruk
 
