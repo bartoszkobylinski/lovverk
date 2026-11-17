@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-10"
-xml_hash: "c250217b46deaf0933dbd73e554da74b3a5ae9a99ff86279e965263d21df20ed"
+xml_hash: "9bdb59b583e63bcc2235bad31fa51c1635f04880aaa0f32bf94a2b20da6050c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -171,7 +171,7 @@ Et sokn kan ikke tas under konkursbehandling eller begjære åpning av gjeldsfor
 
 Eiendeler som Den norske kirke mottar fra Opplysningsvesenets fond, skal ikke gi Den norske kirke økonomisk gevinst til fordel for sin alminnelige virksomhet.
 
-> Endret ved lover [25 juni 2024 nr. 58](lov/2024-06-25-58), [14 mars 2025 nr. 3](lov/2025-03-14-3) (i kraft 1 jan 2026 iflg. [res. 27. mai 2025 nr. 853](forskrift/2025-05-27-853)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [25 juni 2024 nr. 58](lov/2024-06-25-58), [14 mars 2025 nr. 3](lov/2025-03-14-3) (i kraft 1 jan 2026 iflg. [res. 27. mai 2025 nr. 853](forskrift/2025-05-27-853)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 15. Kirkebygg
 
