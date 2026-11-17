@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: "2024-12-13"
 last_updated: null
-xml_hash: "ca62f4ace46ea4bf72e093bdbd12530baeef9bfcc759414f19064af5742c5be3"
+xml_hash: "c600fb30954a5d98eb4a7133f73b73d04c223854c7380b2996459315731c805b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,6 +77,8 @@ Norsk naturskadepool skal
 9. bistå med kunnskap og informasjon i arbeidet med å unngå eller begrense naturskader.
 
 Poolens medlemmer har ikke eiendomsrett til poolens naturskadekapital. Det kan ikke åpnes konkurs- eller akkordforhandlinger i poolen.
+
+> **Endres** ved forskrift [13 nov 2026 nr. 2342](forskrift/2026-11-13-2342) (i kraft 1 jan 2027).
 
 ### § 9. Medlemmene i poolen
 
