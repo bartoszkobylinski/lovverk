@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1932-11-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-08-12"
-xml_hash: "2a7145cabe0674ae0310a32948f1e923f5d92bbde017c668a2ea820ad7c068e0"
+xml_hash: "89649c70cefebfb610f6c11a71b11c65226afe9acfa24de49bb1137a45d106ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -348,7 +348,7 @@ Samme rett har vekselinnehaveren allerede før forfallstid:
 2. hvis trassaten, hva enten han har akseptert eller ikke, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, eller det ved tvangsforretning hos ham er funnet at han mangler midler til å betale sin gjeld, eller han har innstilt sine betalinger; eller
 3. hvis trassenten i tilfelle hvor han har forbudt vekslens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 44
 
@@ -364,7 +364,7 @@ Hvis det ved tvangsforretning hos trassaten er funnet at han mangler midler til 
 
 Hvis trassaten er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, er det for iverksettelse av regress tilstrekkelig at vekselinnehaveren legger frem rettens bevitnelse for at konkurs eller gjeldsforhandling er åpnet. Det samme gjelder hvis en trassent, som har forbudt vekselens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.
 
-> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 45
 
