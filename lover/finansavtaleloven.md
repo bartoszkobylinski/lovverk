@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-08-01"
 last_updated: "2022-02-24"
-xml_hash: "b2fb7bfaf2d0381610b60b0dd11dcb94dae281e9162b1221c599031a40e6b0be"
+xml_hash: "f62c271e7d8010b404e2eb3b1ef539c12b40f8192d9eb64d012e56d81b4e7109"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -934,7 +934,7 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 (6) Reglene om reklamasjon i [§ 3-47](lov/2020-12-18-146/§3-47) første ledd første punktum og annet ledd gjelder tilsvarende for tjenesteyterens hevingskrav.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 3-52. Virkningen av at tjenesteyteren hever avtalen
 
@@ -1839,7 +1839,7 @@ En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser om
 
 (4) Blir kredittyteren kjent med at kredittkunden er død, at det er åpnet gjeldsforhandling eller konkurs i kredittkundens bo, eller at kredittkunden har søkt om gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), skal kausjonisten varsles uten ugrunnet opphold.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 6-4. Kausjonistens rett til opplysninger
 
@@ -1893,7 +1893,7 @@ Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser om
 
 (4) Kredittyteren kan hindre at kausjonisten trer inn i kredittavtalen ved å frita kausjonisten for kausjonsansvaret i samme utstrekning som innfrielsen ville ha fritatt kausjonisten for videre ansvar.
 
-> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 6-10. Kausjonens forfall mv.
 
@@ -1911,7 +1911,7 @@ Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser om
 
 (7) Forfallsreglene i [panteloven § 1-9](lov/1980-02-08-2/§1-9) og [sjøloven § 44](lov/1994-06-24-39/§44) gjelder ikke for realkausjon som omfattes av kapitlet her.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 6-11. Renter ved forsinket betaling
 
