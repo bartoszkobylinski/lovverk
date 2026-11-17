@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-22"
-xml_hash: "4ec187326eddba3e946325e8a0949693416261907736794885764c3210c1cbe6"
+xml_hash: "2e82e12574fa7ba50671ddd4be0ed637fbf6ec5bc684a308d9d1e3cb726ec9e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Fristdagen ved gjeldsforhandling er dagen da begjæringen om åpning av gjeldsfo
 
 Blir behandlingen av en konkursbegjæring utsatt i henhold til [lov om gjeldsforhandling og konkurs § 16](lov/1984-06-08-58/§16) første ledd, er fristdagen likevel dagen da konkursbegjæringen kom inn til retten. Det samme gjelder hvor begjæring om åpning av gjeldsforhandling ble fremsatt senest tre uker etter at en begjæring om åpning av konkurs ble tilbakekalt eller rettskraftig avvist eller forkastet.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-2. Fristdagen ved konkurs.
 
@@ -47,7 +47,7 @@ Dagen for skyldnerens død er fristdagen når konkurs er åpnet i skyldnerens d�
 
 Dagen da en tidligere begjæring om åpning av konkurs kom inn til retten, er fristdagen når konkurs er åpnet på grunnlag av en begjæring som kom inn til retten senest tre uker etter at den tidligere begjæring ble tilbakekalt eller rettskraftig avvist eller forkastet, med mindre reglene i annet ledd fører til at fristdagen kommer tidligere; disse regler gjelder tilsvarende hvor konkurs er åpnet i samsvar med [lov om gjeldsforhandling og konkurs § 57](lov/1984-06-08-58/§57).
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-3. Fristdagen i andre tilfelle.
 
@@ -57,7 +57,7 @@ Fristdagen ved tvangsoppløsning etter [konkurslovens](lov/1984-06-08-58) regler
 
 Fristdagen ved avvikling etter [konkurslovens](lov/1984-06-08-58) og [dekningslovens](lov/1984-06-08-59) regler av aksjeselskaper i medhold av [aksjeloven § 16-14](lov/1997-06-13-44/§16-14), jf [§ 16-18](lov/1997-06-13-44/§16-18), og av allmennaksjeselskaper etter [allmennaksjeloven § 16-14](lov/1997-06-13-45/§16-14), jf [§ 16-18](lov/1997-06-13-45/§16-18), er dagen da tingretten traff kjennelse om å overta ansvaret for avviklingen. Det samme gjelder ved avvikling av samvirkeforetak i medhold av [samvirkeloven § 140](lov/2007-06-29-81/§140), jf [§ 144](lov/2007-06-29-81/§144).
 
-> Endret ved [lover 20 mars 1992 nr. 27](lov/1992-03-20-27), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999), [25 jan 2002 nr. 2](lov/2002-01-25-2) (ikr. 15 feb 2002 iflg. [res. 25 jan 2002 nr. 65](forskrift/2002-01-25-65)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [18 feb 2005 nr. 10](lov/2005-02-18-10) (ikr. 1 juli 2005 iflg. [res. 18 feb 2005 nr. 148](forskrift/2005-02-18-148)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 20 mars 1992 nr. 27](lov/1992-03-20-27), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999), [25 jan 2002 nr. 2](lov/2002-01-25-2) (ikr. 15 feb 2002 iflg. [res. 25 jan 2002 nr. 65](forskrift/2002-01-25-65)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [18 feb 2005 nr. 10](lov/2005-02-18-10) (ikr. 1 juli 2005 iflg. [res. 18 feb 2005 nr. 148](forskrift/2005-02-18-148)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-4. Tidspunktet for åpning av bobehandlingen m v.
 
@@ -73,7 +73,7 @@ Med tidspunktet for åpning av bobehandlingen forstås for gjeldsforhandling det
 
 Med en umiddelbart forutgående gjeldsforhandling forstås en gjeldsforhandling hvor fristdagen i en etterfølgende konkurs bestemmes av reglene i [§ 1-2](lov/1984-06-08-59/§1-2) annet ledd.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-5. Skyldnerens nærstående.
 
@@ -91,7 +91,7 @@ Reglene i [kapitlene 6](lov/1984-06-08-59/kap6) til 8 gjelder under gjeldsforhan
 
 Virkeområdet for [kapitlene 2](lov/1984-06-08-59/kap2), [5](lov/1984-06-08-59/kap5) og [9](lov/1984-06-08-59/kap9) fremgår av henholdsvis [§ 2-1](lov/1984-06-08-59/§2-1), [§ 5-1](lov/1984-06-08-59/§5-1) og [§ 9-1](lov/1984-06-08-59/§9-1).
 
-> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Første del. Gjenstanden for fordringshavernes beslagsrett.
 
@@ -109,7 +109,7 @@ Bestemmelsene i [§§ 2-11](lov/1984-06-08-59/§2-11) til [2-14](lov/1984-06-08-
 
 For bolig og vanlig innbo kan unntaksretten også gjøres gjeldende av skyldnerens ektefelle og av barn som skyldneren forsørger. Er skyldneren død, kan disse personer også gjøre unntaksretten gjeldende for andre formuesgoder.
 
-> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 2-2. Hovedregel om beslagsretten.
 
@@ -166,7 +166,7 @@ Utlegg i bidrag som nevnt i [§ 2-4](lov/1984-06-08-59/§2-4) kan tas for gjeld 
 
 Utlegg i henhold til reglene i denne paragraf kan tas selv om det er åpnet gjeldsforhandling eller konkurs i skyldnerens bo.
 
-> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86) (tidligere § 2-8). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86) (tidligere § 2-8). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 2-7. Utlegg i lønnskrav mv.
 
@@ -349,7 +349,7 @@ Reglene i dette kapittel gjelder ansvarlige selskaper og kommandittselskaper ett
 
 Selskapets fordringshavere har fortrinnsrett til dekning av selskapsmidlene. Særskilt gjeldsforhandling og konkurs kan åpnes i selskapets bo.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 4-3. De særlige fordringshaveres dekningsrett.
 
@@ -373,7 +373,7 @@ I medlemmenes særbo kan selskapets fordringshavere bare kreve dividende av sine
 
 Reglene i dette kapittel gjelder ved forhandling om tvangsakkord, ved konkurs og ved offentlig skifte av insolvent dødsbo.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 5-2. Gaver.
 
@@ -498,7 +498,7 @@ Boets rett til å kreve omstøtelse foreldes ett år fra åpning av konkurs elle
 
 Reglene i første ledd gjelder ikke når boet gjør omstøtelse gjeldende som innsigelse mot anmeldt fordring eller annet krav mot boet.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Annen del. Kreditorfellesskapet ved insolvensbehandling av bo.
 
@@ -556,7 +556,7 @@ Kommer skyldnerens bo under konkursbehandling, har konkursboet rett til å tre i
 
 Bestemmelsene i foregående ledd griper ikke inn i den annen parts rett til å påberope insolvensen som opphørsgrunn etter avtalens art. Avtalebestemmelse som gir den annen part en videre adgang til å heve på grunn av skyldnerens insolvens, er ikke bindende for boet.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-3a. Skyldnerens avtaler ved åpning av gjeldsforhandling.
 
@@ -564,7 +564,7 @@ Skyldnerens avtaler løper videre etter åpning av gjeldsforhandling. Åpningen 
 
 Har skyldneren misligholdt en avtale om leie av fast eiendom, kan avtalen bare heves dersom begjæring om fravikelse er mottatt hos namsfogden eller tingretten før åpningen av gjeldsforhandlingen.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-4. Virkningen av at konkursboet trer inn.
 
@@ -582,7 +582,7 @@ Skyldneren er under gjeldsforhandlingen fortsatt forpliktet og berettiget på av
 
 Bestemmelsene i [§ 7-4](lov/1984-06-08-59/§7-4) annet og tredje ledd gjelder uansett tilsvarende, slik at den annen parts vederlagskrav ved gjeldsforhandlingens åpning omfattes av gjeldsordningen.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-5. Plikt til å oppfylle eller stille sikkerhet.
 
@@ -594,7 +594,7 @@ Finner retten at en sikkerhetsstillelse etter reglene i de foregående ledd ikke
 
 Avtaler som skyldneren og den annen avtalepart har truffet om plikt til å stille sikkerhet, kan settes til side av retten dersom de er urimelig tyngende for konkursboet eller skyldneren under gjeldsforhandling.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-6. Ekstraordinær oppsigelsesadgang.
 
@@ -604,11 +604,11 @@ Sies avtalen opp før det etter denne er adgang til det, kan den annen part krev
 
 Ekstraordinær oppsigelse etter første ledd griper ikke inn i den annen parts rett i den utstrekning den er beskyttet ved tinglysing eller på annen tilsvarende måte.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-6 a. Ekstraordinær oppsigelse m.m. under rekonstruksjonsforhandling.
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-7. Den annen parts hevingsrett.
 
@@ -616,13 +616,13 @@ Dersom konkursboet ikke trer inn i skyldnerens avtale, eller ikke oppfyller elle
 
 Har den annen part før åpning av gjeldsforhandling eller konkurs helt eller delvis levert sin ytelse, kan vedkommende for den leverte del bare heve dersom det er tatt gyldig forbehold om tilbakeføring av ytelsen eller dersom ytelsen var en pengeytelse. Den annen part har bare krav på dividende av pengeytelse som skal tilbakeføres på grunn av heving.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-8. Den annen parts erstatningskrav.
 
 Dersom en avtale faller bort eller blir hevet som følge av at det åpnes gjeldsforhandling eller konkurs, kan den annen part kreve sitt tap ved at avtalen ikke blir riktig oppfylt dekket som dividendefordring.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-9. Tilbakeleveringsplikt.
 
@@ -630,7 +630,7 @@ Er den annen parts ytelser overgitt til konkursboet etter boåpningen, skal boet
 
 Er den annen parts ytelse overgitt til skyldneren etter åpning av gjeldsforhandling, skal skyldneren levere ytelsen tilbake, foreta kontraktsmessig oppgjør eller stille sikkerhet for slikt oppgjør.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-10. Avtale om leie av fast eiendom ved konkurs.
 
@@ -662,7 +662,7 @@ Det svares ikke arbeidsgiveravgift av dividendebetalinger vedrørende lønn og a
 
 Har skyldneren forpliktet seg til å betale avgift (royalty) av sin produksjon, kan avgiftskravet for produksjon som er blitt påbegynt før åpningen av bobehandlingen og hvor det er foretatt investeringer av betydning, bare gjøres gjeldende som dividendekrav, selv om produksjonen blir fullført eller det produserte solgt av konkursboet eller skyldneren etter åpning av gjeldsforhandling. Konkursboet eller skyldneren må likevel betale fullt ut så meget av avgiften som svarer til den medvirkning den annen part har ydet etter åpningen av konkursen eller gjeldsforhandlingen.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-13. Gaver.
 
@@ -670,7 +670,7 @@ Retten etter et gaveløfte faller bort dersom giveren åpner gjeldsforhandling e
 
 Dersom en fullbyrdet gave blir omstøtt, kan det ikke kreves dividende av gavens verdi.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 7-14. Avtaler om rett til å tre inn i langsiktige kraftavtaler m.m.
 
@@ -714,7 +714,7 @@ Er en motfordring som ellers kunne benyttes til motregning, betinget, må fordri
 
 Er det når boet opptas til slutning usikkert om eller når betingelsen vil inntreffe, gjelder § 133 første ledd i [lov om gjeldsforhandling og konkurs](lov/1984-06-08-58) tilsvarende.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 8-6. Erstatning for tapt motregningsrett.
 
@@ -809,7 +809,7 @@ I den utstrekning det er midler til det, dekkes dessuten:
 2. andre forpliktelser påført skyldnerens bo med gjeldsnemndas tillatelse under en umiddelbart forutgående gjeldsforhandling eller med rettens samtykke under offentlig dødsboskifte;
 3. fordringer som nevnt i [§ 9-4](lov/1984-06-08-59/§9-4) påført skyldnerens bo under en umiddelbart forutgående gjeldsforhandling eller under offentlig dødsboskifte, og fordringer som til slik tid er oppstått ved forbrukerkjøp eller andre avtaler med forbruker under fortsatt drift av skyldnerens forretning.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 9-3. Fortrinnsberettigede fordringer av første klasse.
 
