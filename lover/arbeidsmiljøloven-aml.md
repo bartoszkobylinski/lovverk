@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-08"
-xml_hash: "a809f9deab8a6873ef1639fb25584bbf93b366e79d7a936fa6f95fe8afb8d5c9"
+xml_hash: "b019c32b10e656858804f1cc0b993c48d2890b880594ea55680e58225a40a934"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1267,7 +1267,7 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten. 
 
 (8) Sjette ledd gjelder ikke ved konkurs, offentlig skifte av insolvent dødsbo eller ved overdragelse av virksomhet etter at det er åpnet gjeldsforhandlinger.
 
-> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [22 juni 2018 nr. 46](lov/2018-06-22-46) (ikr. 1 jan 2019 iflg. [res. 22 juni 2018 nr. 944](forskrift/2018-06-22-944)), [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [22 juni 2018 nr. 46](lov/2018-06-22-46) (ikr. 1 jan 2019 iflg. [res. 22 juni 2018 nr. 944](forskrift/2018-06-22-944)), [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 14-3. Fortrinnsrett for deltidsansatte
 
