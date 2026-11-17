@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-11-13"
 last_updated: null
-xml_hash: "727cdc68ec746bc6a5f2c0715319af78b368b80903a8a1088ed5bd217aad9b56"
+xml_hash: "b70453297361596961718eefdc8415bc9971103ea54dceba3e17462a272425d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -256,21 +256,23 @@ Med bot eller fengsel inntil ett år straffes etter [lov 17. juli 1925 nr. 11 §
 
 ## § 26. Ikrafttredelse og endring
 
-Forskriften trer i kraft 1. januar 2026 med unntak av [§§ 10](forskrift/2025-06-06-940/§10)–[15](forskrift/2025-06-06-940/§15) og [§ 24](forskrift/2025-06-06-940/§24) som trer i kraft 1. juli 2027.
+Forskriften trer i kraft 1. januar 2026 med unntak av [§§ 10](forskrift/2025-06-06-940/§10)–[15](forskrift/2025-06-06-940/§15) og [§ 24](forskrift/2025-06-06-940/§24) som trer i kraft fra det tidspunkt departementet bestemmer.
 
 Fra 1. januar 2026 oppheves [forskrift 18. oktober 1991 nr. 671 om turisme, feltopplegg og annen reisevirksomhet på Svalbard](forskrift/1991-10-18-671).
 
 Justis- og beredskapsdepartementet kan endre beløpene i [§ 16 annet ledd](forskrift/2025-06-06-940/§16/ledd/2) bokstavene a til c.
 
-> Endret ved forskrift [12 des 2025 nr. 2557](forskrift/2025-12-12-2557) (i kraft 1 jan 2026).
+> Endret ved forskrifter [12 des 2025 nr. 2557](forskrift/2025-12-12-2557) (i kraft 1 jan 2026), [13 nov 2026 nr. 2343](forskrift/2026-11-13-2343).
 
 ## § 27. Overgangsbestemmelse
 
-For personer som kan gi tilstrekkelig dokumentasjon på at de over de tre siste årene har guidet minimum 1 500 timer, kan Sysselmesteren gi dispensasjon fra kravene i [§ 12](forskrift/2025-06-06-940/§12). Dispensasjon kan bare gis der guidens erfaring etter Sysselmesterens skjønn dekker de kompetansemålene som fremkommer av [§ 11](forskrift/2025-06-06-940/§11). En søknad om dispensasjon må være sendt inn til Sysselmesteren innen 1. januar 2027.
+For personer som kan gi tilstrekkelig dokumentasjon på at de over de tre siste årene har guidet minimum 1 500 timer, kan Sysselmesteren gi dispensasjon fra kravene i [§ 12](forskrift/2025-06-06-940/§12). Dispensasjon kan bare gis der guidens erfaring etter Sysselmesterens skjønn dekker de kompetansemålene som fremkommer av [§ 11](forskrift/2025-06-06-940/§11). En søknad om dispensasjon må være sendt inn til Sysselmesteren innen det tidspunkt departementet bestemmer.
 
 Sysselmesteren fastsetter gebyr for behandling av søknader og for utstedelse av godkjenningsbevis, jf. [§ 12 syvende ledd](forskrift/2025-06-06-940/§12/ledd/7).
 
 Sysselmesterens vedtak etter første ledd kan påklages til Nærings- og fiskeridepartementet. Departementet kan ikke overprøve Sysselmesterens skjønn etter første ledd.
+
+> Endret ved forskrift [13 nov 2026 nr. 2343](forskrift/2026-11-13-2343).
 
 ## Vedlegg I. Ferdselsområde, jf. [§ 3 bokstav g](forskrift/2025-06-06-940/§3/bokstav/g)
 
