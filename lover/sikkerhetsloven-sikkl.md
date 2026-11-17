@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-01-01"
 last_change_in_force: "2026-10-16"
 last_updated: "2022-03-23"
-xml_hash: "b602dae5de36e7d3045282e70bf5bcecedb98dfb6f0d3d6730280297253a65ff"
+xml_hash: "61178338ca130fe2a41e32674cf825cfb17bcd9aa8f3554082273c3734738823"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-17T08:29:12.672271+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -712,7 +712,7 @@ For øvrig gjelder reglene i [kapittel 8](lov/2018-06-01-24/kap8) så langt de p
 
 Kongen utpeker en klareringsmyndighet for leverandørklarering. Kongen kan gi forskrift om krav til leverandørklarering og varigheten av klareringen.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 9-4. Varslingsplikt og myndighet til å fatte vedtak ved anskaffelser til skjermingsverdig informasjonssystem, objekt og infrastruktur
 
