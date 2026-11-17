@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-01-01"
 last_change_in_force: "2026-07-25"
 last_updated: "2022-03-24"
-xml_hash: "6663e5424993f60d2dd4cac11b5883aec76bbcacef56bb04f6bf10045ad801a9"
+xml_hash: "5f5bed63e2ab770b8ba3d0b7c9c4a7ca83bd699964c127893cd942182b4ea29f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -365,6 +365,8 @@ Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjø
 12. ved tjenestekontrakter og bygge- og anleggskontrakter for nye arbeider, som er en gjentakelse av lignende arbeider utført i forbindelse med en tidligere kontrakt inngått i samsvar med hovedregelen i [§ 5-1](forskrift/2013-10-04-1185/§5-1). Forutsetningen er at kontrakten tildeles til den opprinnelige leverandør og at arbeidene er i samsvar med det prosjekt som dannet utgangspunktet for tildelingen av den første kontrakten. Muligheten for at denne fremgangsmåte kan bli brukt, skal angis første gang det innhentes tilbud for prosjektet. Mulige senere arbeider skal tas med i beregningen av anskaffelsens verdi i forhold til terskelverdiene i [kapittel 2](forskrift/2013-10-04-1185/kap2). Fremgangsmåten kan bare anvendes inntil fem år etter at den opprinnelige kontrakt ble sluttet, med mindre det foreligger særlige omstendigheter. I denne vurderingen skal det tas hensyn til det leverte materialet og installasjoner eller systemers forventede levetid og de tekniske vanskeligheter som et leverandørskifte kan medføre,
 13. ved kontrakter vedrørende levering av luft- og sjøtransporttjenester til væpnede styrker eller sikkerhetsstyrker som skal eller er stasjonert i utlandet når oppdragsgiver er nødt til å anskaffe slike tjenester fra en leverandør som kun kan garantere for et tilbud i så kort tid at fristen for prosedyrene begrenset konkurranse eller konkurranse med forhandlinger etter forutgående kunngjøring ikke kan overholdes,
 14. ved dekningskjøp som er nødvendig som følge av at en kontrakt er kjent uten virkning etter reglene i [kapittel 14](forskrift/2013-10-04-1185/kap14), forutsatt at det er umulig å overholde fristene fastsatt i denne forskrift og kontrakt ikke inngås for en lengre periode enn det som er nødvendig for å gjennomføre en konkurranse i samsvar med forskriften.
+
+> **Endres** ved forskrift [13 nov 2026 nr. 2342](forskrift/2026-11-13-2342) (i kraft 1 jan 2027).
 
 ### Kapittel 6. Rammeavtaler
 
@@ -891,6 +893,8 @@ Oppdragsgiver kan fastsette bestemmelser om priser eller betaling til deltagerne
 (3) Når oppdragsgiver krever bevis for at leverandøren ikke omfattes av første og annet ledd, skal utdrag fra strafferegister eller konkursregister godtas som tilstrekkelig bevis for første ledd bokstav e og annet ledd bokstav a, b eller c. I mangel av slikt utdrag skal et tilsvarende dokument som viser at kravene er tilfredsstilt, utstedt av en retts- eller forvaltningsmyndighet i leverandørens hjemstat eller oppholdsstat, aksepteres. For annet ledd bokstav e og f skal det anses tilstrekkelig med attest utstedt av vedkommende myndighet i leverandørens hjemstat. Når leverandørens hjemstat ikke utsteder slike dokumenter eller attester, kan de erstattes av en erklæring avgitt under ed eller forsikring av den aktuelle personen overfor en retts- eller forvaltningsmyndighet, en notarius publicus eller annen kompetent myndighet i hjemstaten eller nåværende oppholdsstat.
 
 (4) Denne bestemmelsen gjelder tilsvarende for avvisning av underleverandører.
+
+> **Endres** ved forskrift [13 nov 2026 nr. 2342](forskrift/2026-11-13-2342) (i kraft 1 jan 2027).
 
 ### § 11-13. Avvisning på grunn av forhold ved tilbudet
 
