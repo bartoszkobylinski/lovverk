@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1990-07-01"
 last_change_in_force: "2025-04-01"
 last_updated: "2022-03-01"
-xml_hash: "3bfbc41bea28503803e50bdd09fdecd918ed47b646d4a0104c701121208d6c72"
+xml_hash: "1f68fdaf7a3639f8c77f5f9baf9531f9ebe095402fd783bfa779df98a0ea59be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1493,7 +1493,7 @@ Har den begunstigede eller noen som har vern etter [§ 16-1](lov/1989-06-16-69/�
 
 Betaling av premie for pensjonsforsikring i den utstrekning premiene var eller kunne ha vært fradragsberettiget ved beregningen av forsikringstakerens skattbare inntekt, skal ikke regnes som urimelig etter reglene i første ledd.
 
-> Endret ved lover [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### Kapittel 17. Registrering av livsforsikring.
 
@@ -1516,7 +1516,7 @@ Er det åpnet offentlig skifte av forsikringstakerens bo, skal dette registreres
 
 En begjæring om registrering skal føres inn i en journal samme dag som den kommer til forsikringsforetaket, og innføres i registeret snarest mulig.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 17-2. (utskrift)
 
