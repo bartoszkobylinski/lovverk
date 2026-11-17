@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-11-25"
 last_change_in_force: "2026-07-01"
 last_updated: "2026-04-17"
-xml_hash: "77178e3fe19c1617973501cebc274446b6a4373fb0304c4b0d0a8c65921b39e2"
+xml_hash: "b7afba4084f88faa039d42e0facd0d58f14d56a58cee72a85de88eb010aa7fbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-31T10:11:58.876981+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,7 +146,7 @@ Fast eiendom som Finnmarkseiendommen eier og begrensede rettigheter som Finnmark
 
 Det kan ikke åpnes konkurs eller gjeldsforhandling hos Finnmarkseiendommen.
 
-> Endret ved [lov 27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 15. Utdeling av overskudd
 
