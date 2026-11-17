@@ -8,14 +8,14 @@ short_title: "Endringslov til politiloven"
 language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
-date_in_force: null
+date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "be0b260e1d8e068e49a0d8f963e1345bf5fd8900061dc933db0059dabbcd6202"
+xml_hash: "74604a8788844c7ee935902af162113e57ddfcde6e5b1f3e465a482ca4d7ff3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,4 +36,6 @@ Politiet skal i alminnelighet være bevæpnet med skytevåpen i tjenesten. Polit
 
 ## II
 
-Loven gjelder fra den tiden Kongen bestemmer.
+Loven gjelder fra den tiden[^1] Kongen bestemmer.
+
+1 Fra 1. januar 2027 iflg. [res. 13 nov 2026 nr. 2356](forskrift/2026-11-13-2356).
