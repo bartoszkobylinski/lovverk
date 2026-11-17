@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-11-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-23"
-xml_hash: "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81"
+xml_hash: "d5e17f5c9aef747775436c322dad5fc261c3fdf450c4507b1f4d894867ec78a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1880,7 +1880,7 @@ Det kan ikke tas utlegg eller arrest i eiendelene til en kommune eller fylkeskom
 
 En kommune eller fylkeskommune kan ikke tas under konkursbehandling eller begjære åpning av gjeldsforhandling etter konkursloven.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 29-2. Vedtak om betalingsinnstilling. Oppnevning av tilsynsnemnd
 
