@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-07-01"
 last_change_in_force: "2024-01-01"
 last_updated: "2022-04-25"
-xml_hash: "1d0d6007dfde1849d3a44f14acd52456848dfe89323a7c403f2c49d8467156f3"
+xml_hash: "bcf74fbd4f281979948fdff37307ac405931e0152649905f787ca6b96bf15057"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -506,7 +506,7 @@ Når ikke annet er avtalt kan selskapsandel bare gå over til ny eier med samtyk
 
 (6) Bestemmelsene i denne paragraf kan fravikes ved avtale.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 2-37. Oppløsing og avvikling
 
