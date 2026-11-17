@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-07-01"
 last_change_in_force: "2026-08-01"
 last_updated: "2023-06-15"
-xml_hash: "a0bf5f7380768ae3a20336f3479aeef4a3104718cf9d6e7b5ff634ef6eec38c2"
+xml_hash: "45d23828ed12a952ad521e6b57bf11f5e15f76a6eee4a4fbbaab834dc47fd2a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -227,7 +227,7 @@ Departementet kan i forskrift gi regler om etablering av filial av låneformidli
 
 (3) Departementet kan i forskrift fastsette nærmere krav til daglig leder og krav til styrets sammensetning, herunder krav til antall styremedlemmer, for låneformidlingsforetak.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 5-3. Melding om skifte av styret og ledelsen
 
