@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1936-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-28"
-xml_hash: "4183a947cfe6af597b5b62158299ee080e9d126846966f4ee7d2433406da6e66"
+xml_hash: "ec92b323d3d44dd87ac8966239859d9b31ae5def88c62ce019478b96085dfcc8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -282,7 +282,7 @@ For at en rett som er stiftet ved avtale, skal kunne stå seg overfor konkurs, m
 
 For at en rett som er stiftet ved avtale, skal kunne stå seg ved tvangsakkord, må rettsstiftelsen utenfor de tilfeller som er nevnt i [§ 21](lov/1935-06-07-2/§21) tredje ledd og [§ 22](lov/1935-06-07-2/§22), være registrert senest dagen før åpningen av forhandling om tvangsakkord.
 
-> Endret ved lover [8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2014 nr. 45](lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se loven del IV og res. for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2014 nr. 45](lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se loven del IV og res. for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 24
 
@@ -366,7 +366,7 @@ Er det bevis som forlanges tinglyst, ikke tilstrekkelig til at heftelsen kan sle
 
 For nedkvittering, prioritetsvikelse eller andre disposisjoner som begrenser omfanget eller verdien av en tinglyst heftelse, gjelder første til fjerde ledd tilsvarende.
 
-> Endret ved lover 18 des 1959 nr. 2, [7 apr 1972 nr. 13](lov/1972-04-07-13), [13 juni 1975 nr. 38](lov/1975-06-13-38), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [12 sep 2003 nr. 93](lov/2003-09-12-93) (ikr. 1 jan 2004 iflg. [res. 12 sep 2003 nr. 1136](forskrift/2003-09-12-1136)), [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se denne for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover 18 des 1959 nr. 2, [7 apr 1972 nr. 13](lov/1972-04-07-13), [13 juni 1975 nr. 38](lov/1975-06-13-38), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [12 sep 2003 nr. 93](lov/2003-09-12-93) (ikr. 1 jan 2004 iflg. [res. 12 sep 2003 nr. 1136](forskrift/2003-09-12-1136)), [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414), se denne for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 32 a
 
