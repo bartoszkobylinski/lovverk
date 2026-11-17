@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1983-03-01"
 last_change_in_force: "2026-10-01"
 last_updated: "2021-07-15"
-xml_hash: "90ab89082606821565b2085169a35ef364018cd98254f222c995132e751dcda1"
+xml_hash: "af4ae17d7aa0760cb1e9253a353c91e60a72cbf4ee9f9e982fb2136ca63302e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -268,7 +268,7 @@ For bobehandling ved tingretten betales gebyr etter følgende satser:
 3. For forberedende rettsmøte etter [arveloven](lov/2019-06-14-21), [ekteskapsloven](lov/1991-07-04-47) eller [husstandsfellesskapsloven](lov/1991-07-04-45) betales 2 ganger rettsgebyret. Åpner tingretten bobehandling betales i stedet gebyr etter nr 1.
 4. For summarisk skifte etter reglene i [arveloven § 141](lov/2019-06-14-21/§141) annet ledd betales ikke gebyr.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [23 des 1994 nr. 76](lov/1994-12-23-76) (ikr. 1 jan 1995), [22 des 1995 nr. 81](lov/1995-12-22-81) (ikr. 1 jan 1996), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [22 juni 1990 nr. 40](lov/1990-06-22-40), [2 des 1994 nr. 63](lov/1994-12-02-63) (ikr. 1 jan 1995), [23 des 1994 nr. 76](lov/1994-12-23-76) (ikr. 1 jan 1995), [22 des 1995 nr. 81](lov/1995-12-22-81) (ikr. 1 jan 1996), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [18 des 2015 nr. 125](lov/2015-12-18-125) (ikr. 1 jan 2016), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [22 des 2021 nr. 166](lov/2021-12-22-166) (ikr. 1 jan 2022). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 17
 
@@ -276,7 +276,7 @@ Overtas et bo til privat skifte utenfor tingretten uten at det er holdt registre
 
 Lovbestemte kunngjøringer som rykkes inn av retten eller på vegne av retten dekkes av staten.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [23 des 1994 nr. 76](lov/1994-12-23-76), [15 mai 1998 nr. 27](lov/1998-05-15-27) (ikr. 1 jan 1999 iflg. [res. 15 mai 1998 nr. 478](forskrift/1998-05-15-478)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [22 des 1989 nr. 106](lov/1989-12-22-106), [23 des 1994 nr. 76](lov/1994-12-23-76), [15 mai 1998 nr. 27](lov/1998-05-15-27) (ikr. 1 jan 1999 iflg. [res. 15 mai 1998 nr. 478](forskrift/1998-05-15-478)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 118](lov/2018-12-20-118) (ikr. 1 jan 2019). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 18
 
