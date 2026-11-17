@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "98cb78b3bc43d6e309cef4e726e29bc5251b5a9e5e04d9960f25b3ec5377f34f"
+xml_hash: "8508328da0d1c36922e0a21e85dd4281e6afe9f7cc0e805b4b8706ba065a2aea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-31T10:11:58.876981+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1212,7 +1212,7 @@ Selv om fradragsretten er begrenset etter [§§ 8-2](lov/2009-06-19-58/§8-2) ti
 
 (5) Skattekontoret kan treffe enkeltvedtak om at tilbakeføring kan unnlates dersom salget eller omdisponeringen skyldes forhold avgiftssubjektet ikke har hatt kontroll over eller en tilbakeføring av andre grunner vil virke særlig urimelig. Et vedtak om unnlatt tilbakeføring gis virkning fra det tidspunktet personkjøretøyet selges eller på annen måte omdisponeres til bruk som ikke ville gitt fradragsrett.
 
-> Endret ved lover [19 des 2014 nr. 84](lov/2014-12-19-84) (ikr. 1 jan 2015, se endringslovens VIII), [25 juni 2024 nr. 64](lov/2024-06-25-64) (i kraft 1 juli 2024, se endringslov for overgangsregel). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [19 des 2014 nr. 84](lov/2014-12-19-84) (ikr. 1 jan 2015, se endringslovens VIII), [25 juni 2024 nr. 64](lov/2024-06-25-64) (i kraft 1 juli 2024, se endringslov for overgangsregel). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 9-7. Salg mv. av fast eiendom før fullføring
 
