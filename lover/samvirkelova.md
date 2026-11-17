@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2024-11-01"
 last_updated: "2021-07-02"
-xml_hash: "78704e91392a1f51abc2bcd6d0b6549efb8b9a11119f2955889c657dfd1a6a03"
+xml_hash: "ceead67c01273ce42ba64b4201801476e758f95bf782f53271416f7d8e9b0e5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -810,7 +810,7 @@ Styret skal føre tilsyn med den daglege leiinga og verksemda i foretaket elles.
 
 (2) Styret representerer foretaket som konkursskyldnar.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 82. Saksbehandlinga i styret
 
@@ -1283,7 +1283,7 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (4) Er foretaket oppløyst på grunn av føresegner i lov eller vedtekter, kan buet leverast tilbake til foretaket etter [konkurslova § 136](lov/1984-06-08-58/§136) dersom oppløysingsgrunnen ikkje lenger er til stades. [§ 139](lov/1984-06-08-58/§139) andre ledd gjeld tilsvarande.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 141. Oppløysing etter orskurd frå tingretten
 
@@ -1315,7 +1315,7 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (3) Dersom vesentlege samfunnsmessige omsyn tilseier det, kan Kongen av eige tiltak gjere vedtak om at foretaket kan drive vidare, og at saka likevel ikkje skal sendast til tingretten for tvangsoppløysing, men at foretaket skal få ein ytterlegare frist før tvangsoppløysing blir gjennomført. Kongen skal gjere vedtak om at foretaket i så fall skal betale ei løpande tvangsmulkt til staten frå ein frist som blir sett og fram til forholdet er retta.
 
-> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
+> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 144. Avvikling av foretaket
 
@@ -1409,7 +1409,7 @@ Skadebotansvar etter [§ 153](lov/2007-06-29-81/§153) kan lempast etter [skades
 
 (2) Første ledd gjeld tilsvarande for inngåing av førehandsavtale mellom foretaket og nokon som er nemnd i [§ 153](lov/2007-06-29-81/§153), som regulerer eller avgrensar skadebotansvaret deira.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 156. Krav på vegner av foretaket
 
