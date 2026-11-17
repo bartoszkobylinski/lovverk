@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-10-01"
 last_change_in_force: "2026-10-01"
 last_updated: "2021-07-01"
-xml_hash: "e716e4c8d7b0e19434bc10e49ddbb1bf1e4e5b2e3b92a5ed09d7909f842af706"
+xml_hash: "55d840735963ee0b43438cfd0b46d0fe320a8463b2a4506e1b256a2878ab0aed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,7 @@ Politidirektoratet kan beslutte at politiet skal være bevæpnet i daglig tjenes
 
 Når tjenestehandlingen berører eller skjer overfor eller i nærvær av barn, skal barnets beste være et grunnleggende hensyn.
 
-> Endret ved lover [7 juni 2024 nr. 28](lov/2024-06-07-28) (i kraft 7 juni 2024 iflg. [res. 7 juni 2024 nr. 929](forskrift/2024-06-07-929)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)). **Endres** ved lov [19 juni 2026 nr. 51](lov/2026-06-19-51) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [7 juni 2024 nr. 28](lov/2024-06-07-28) (i kraft 7 juni 2024 iflg. [res. 7 juni 2024 nr. 929](forskrift/2024-06-07-929)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)). **Endres** ved lov [19 juni 2026 nr. 51](lov/2026-06-19-51) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2356](forskrift/2026-11-13-2356)).
 
 ### § 6 a. Kameraovervåking
 
