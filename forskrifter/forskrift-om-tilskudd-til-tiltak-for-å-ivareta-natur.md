@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2024-11-01"
-last_change_in_force: null
+last_change_in_force: "2026-11-15"
 last_updated: null
-xml_hash: "2a07b14162986c6a42f7148eb7004f685c81e8209aec3ef55b4f05adcadb8ee0"
+xml_hash: "0942d0530ac9826007d91a21b04cc21d8427de0ea534a2fc68e84b16ce0e12a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,12 +64,14 @@ Søknaden skal inneholde informasjon om
 4. søknadsbeløp
 5. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
 6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
-7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 9](forskrift/2024-10-04-2408/§9)
-8. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+7. søker også utøver økonomisk aktivitet, jf. [§ 9](forskrift/2024-10-04-2408/§9)
+8. søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+
+For søknader der søkeren er registreringspliktig etter [lov om Enhetsregisteret § 3-1](lov/2025-06-20-105/§3-1) skal Miljødirektoratet eller statsforvalter innhente relevant informasjon fra Enhetsregisteret jf. [lov om Enhetsregisteret § 2-1 fjerde ledd](lov/2025-06-20-105/§2-1/ledd/4).
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 6. Tilleggsopplysninger, kontroll og befaring før vedtak
 
@@ -89,11 +91,11 @@ Søker plikter straks å melde fra til Miljødirektoratet eller statsforvalter d
 
 ## § 8. Behandling av søknad om tilskudd
 
-Miljødirektoratet og statsforvalter gir tilskudd i samsvar med Klima- og miljødepartementets årlige budsjettproposisjon.
+Miljødirektoratet og statsforvalter gir tilskudd i samsvar med eventuelle tilleggsføringer for ordningen i postomtalen i budsjettproposisjonen eller i Stortingets bevilgningsvedtak.
 
-Miljødirektoratet og statsforvalter tildeler tilskudd som ikke er bundet opp i budsjettproposisjonen, etter en skjønnsmessig vurdering av søknadene.
+Miljødirektoratet og statsforvalter fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 9. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -105,29 +107,29 @@ Tilskuddsmottakere som har både økonomisk og ikke-økonomisk aktivitet skal ha
 
 Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsvedtaket ved å beskrive oppnådde resultater opp mot formålet i tilskuddsvedtaket.
 
-Tilskuddsmottaker skal oversende regnskap for bruken av tilskuddet til Miljødirektoratet innen fristen fastsatt i tilskuddsvedtaket. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører i de tilfeller det ikke er samme person.
+Tilskuddsmottaker skal oversende regnskap for bruken av tilskuddet til Miljødirektoratet eller statsforvalter innen fristen fastsatt i tilskuddsvedtaket. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører i de tilfeller det ikke er samme person.
 
-Når tilskuddet er 400 000 kroner eller høyere skal delregnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 million kroner.
+Når tilskuddet er 500 000 kroner eller høyere skal regnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 million kroner.
 
-For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene. For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revisjon når det foreligger revidert årsregnskap for virksomheten.
+For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene. For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revisjon når det foreligger revidert årsregnskap for virksomheten.
 
 Det kan fastsettes nærmere krav om rapportering, revisorattestasjon og revisorkontroll i kunngjøring eller i tilskuddsvedtaket.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 11. Oppfølging og kontroll
 
-Miljødirektoratet eller statsforvalter kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
+Miljødirektoratet eller statsforvalter kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, og at opplysningene i søknaden er riktige. Dersom en søkerorganisasjons virksomhet er regulert gjennom egne vedtekter, kan Miljødirektoratet eller statsforvalter kontrollere at organisasjonen drives i henhold til disse vedtektene.
 
 Miljødirektoratet eller statsforvalter har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 12. Stans og tilbakebetaling av tilskudd
 
-Miljødirektoratet eller statsforvalter kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til organisasjoner som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
+Miljødirektoratet eller statsforvalter kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til tilskuddsmottaker som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
 
 Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsvedtaket, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra et tilskudd som tildeles senere.
 
@@ -135,7 +137,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 13. Ikrafttredelse
 
