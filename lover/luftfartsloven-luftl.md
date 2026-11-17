@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-04-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-04"
-xml_hash: "b7a3403dde82e6d57d0903bd283e2d0e0e322d3ff5722ebd5d2044a48b131dbb"
+xml_hash: "284ce74192100191cbcba0c26639d75fd71bac2d77703c63369789d5e8a7dbae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32010R0996"
@@ -394,7 +394,7 @@ Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgåen
 
 For at en frivillig stiftet rett skal ha rettsvern ved tvangsakkord, må retten være dagbokført senest dagen før åpningen av forhandling om tvangsakkord. Unntaket i første ledds annet punktum gjelder tilsvarende.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 3-32. Prioritet i tilfelle av registreringsfeil m.v.
 
@@ -448,7 +448,7 @@ Heftelse som registreringsmyndigheten finner er åpenbart opphørt, skal den sle
 
 I tilfelle av uriktig slettelse gjelder [§ 3-32](lov/1993-06-11-101/§3-32) tilsvarende.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### 4. Forskjellige bestemmelser
 
