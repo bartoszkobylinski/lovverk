@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-06-01"
-xml_hash: "bac0d522b53ef9ee005454d50307963c576673ef8fb046b70cded71a09181515"
+xml_hash: "7242a386f1bc20a01a1b4ee7647b587e60b791adcbee832551de5e86defb59da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T06:25:16.446498+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32016L0097"
@@ -276,7 +276,7 @@ Kravene i første ledd skal dokumenteres gjennom foreleggelse av ordinær politi
 
 Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler om begrenset politiattest.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Kapittel 7. Forsikringer
 
