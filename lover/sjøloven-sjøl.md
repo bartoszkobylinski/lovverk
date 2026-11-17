@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-10-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-04-25"
-xml_hash: "4e2c351fd7cde5ec5f626fffa6431fd7d63d9d5a96d654f99d6d5d025fb46cb5"
+xml_hash: "0b97865a80aa6215a7fcc0dfec042bc0452262043987de6e28ad115df4d64e64"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32009R0392"
@@ -330,7 +330,7 @@ Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgåen
 
 For at en rett som er stiftet ved avtale skal kunne stå seg ved tvangsakkord, må rettsstiftelsen utenfor de tilfeller som er nevnt i [§ 24](lov/1994-06-24-39/§24) tredje, fjerde og femte ledd være innført i dagboken senest dagen før forhandlingen om tvangsakkord er åpnet.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 26. Ekstinksjon av ugyldighetsinnsigelse, m m
 
@@ -384,7 +384,7 @@ Heftelse som åpenbart er opphørt, skal registerføreren slette av eget tiltak.
 
 I tilfelle av uriktig slettelse gjelder [§ 27](lov/1994-06-24-39/§27) tilsvarende.
 
-> Endret ved lover [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [20 des 2023 nr. 115](lov/2023-12-20-115) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2168](forskrift/2023-12-20-2168)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [20 des 2023 nr. 115](lov/2023-12-20-115) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2168](forskrift/2023-12-20-2168)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 30. Foreldelse av rettsvern
 
@@ -596,7 +596,7 @@ Krav om innfrielse etter første ledd nr. 5 gir ikke rett til å kreve forsinkel
 
 Reglene i første ledd gjelder tilsvarende så langt de passer for innretninger som går inn under [§ 33](lov/1994-06-24-39/§33), og for skip eller innretning under bygging samt for byggekontrakt.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 45. Tilbehør m m
 
@@ -967,7 +967,7 @@ En partreder har i alle tilfelle rett til å utløse den medreder som har bevirk
 
 Utløsningssummen og fristen for gjennomføring av utløsningen eller oppløsningen fastsettes i dommen.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 117. Kumulasjon, verneting
 
@@ -989,7 +989,7 @@ Med mindre en partreder har fått medredernes samtykke til pantsetting, jf [§ 1
 
 Dersom en partreder går konkurs eller åpner offentlig akkordforhandling, har partrederens bo ikke større rett enn en utleggstaker etter første ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### Kapittel 6. Skipsføreren
 
