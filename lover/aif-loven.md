@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-07-01"
 last_change_in_force: "2026-04-01"
 last_updated: "2022-03-24"
-xml_hash: "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c"
+xml_hash: "204aff8978eef1650d815f6a42c454fd60b71c5263679b5d208eb7b5240f57ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32011L0061"
@@ -824,7 +824,7 @@ Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter r
 
 (4) Dersom tillatelsen til en forvalter som driver virksomhet i en annen EØS-stat, bortfaller eller blir kalt tilbake, skal Finanstilsynet underrette tilsynsmyndighetene i vertsstaten.
 
-> Endret ved [lover 21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802)), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802)), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 9-4 a. Oppnevning av administrator
 
