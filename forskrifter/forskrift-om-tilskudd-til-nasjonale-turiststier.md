@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2024-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-11-15"
 last_updated: null
-xml_hash: "2fc8948f5921c1bd0753472006ea721d97cad829822228d448bdbfa4a46946ab"
+xml_hash: "3e577c976b77c76743127b97cbb29245ea495b29ac1876eef2d8053a8f83b07f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,9 @@ Tilskuddsordningen skal bidra til å ivareta opplevelses-, natur- og kulturmilj�
 
 ## § 2. Kriterier for måloppnåelse
 
-Måloppnåelsen vurderes med utgangspunkt i om tilskuddene bidrar til redusert slitasje og forsøpling, om det blir færre ulykker og utrykninger fra hjelpepersonell i forbindelse med ferdsel på stiene, og om tilskuddet bidrar til å ivareta natur- og miljøverdier på og i tilknytning til stiene. I tillegg legges det vekt på om ordningen bidrar til lokal verdiskaping.
+Måloppnåelsen for ordningen blir vurdert ut fra om tilskuddene bidrar til redusert naturslitasje og forsøpling, om det blir færre ulykker og utrykninger fra hjelpepersonell i forbindelse med ferdsel på stiene, og om tilskuddene bidrar til å ivareta natur- og miljøverdier på og i tilknytning til stiene. I tillegg legges det vekt på om ordningen bidrar til lokal verdiskaping.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 3. Hvem som kan søke om tilskudd
 
@@ -44,7 +44,7 @@ Det gis et årlig grunntilskudd til autoriserte Nasjonale turiststier fra og med
 
 Det kan i hovedsak tildeles tilskudd til tiltak på og i tilknytning til stiene. Det kan også bli gitt tilskudd til enkelte andre tiltak, blant annet informasjonstiltak og utredninger knyttet til besøksforvaltning.
 
-Det gis tilskudd til:
+Det gis tilskudd til
 
 1. prosjektledelse, planlegging og utredning knyttet til besøksforvaltning
 2. tilrettelegging, utbedring og merking av sti
@@ -56,7 +56,7 @@ Det gis tilskudd til:
 
 Det gis ikke tilskudd til driftsutgifter.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 6. Krav for å kunne tildeles tilskudd
 
@@ -78,15 +78,15 @@ Søknader med vekt på helhetlig planlegging og brede samarbeidsrelasjoner mello
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon om:
+Søknaden skal inneholde informasjon om
 
 1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
 2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
 3. søknadsbeløp
 4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.
 5. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
-6. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 12](forskrift/2023-11-15-1847/§12)
-7. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
+6. søker også utøver økonomisk aktivitet, jf. [§ 12](forskrift/2023-11-15-1847/§12)
+7. søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
 8. en prosjektbeskrivelse som inneholder informasjon om
 
    - omfanget av besøk på den aktuelle stien
@@ -97,9 +97,11 @@ Søknaden skal inneholde informasjon om:
    - hvilke aktører som er med i arbeidet
    - hvor tiltak skal utføres, hvilke naturverdier som blir berørt og om tiltaket/tiltakene påvirker naturmangfold.
 
+For søknader der søkeren er registreringspliktig etter [lov om Enhetsregisteret § 3-1](lov/2025-06-20-105/§3-1) skal Miljødirektoratet innhente relevant informasjon fra Enhetsregisteret jf. [lov om Enhetsregisteret § 2-1 fjerde ledd](lov/2025-06-20-105/§2-1/ledd/4).
+
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 9. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
@@ -114,17 +116,18 @@ Miljødirektoratet kan
 Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersom
 
 1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
-2. uberettiget tilskudd er utbetalt.
+2. uberettiget tilskudd er utbetalt
+3. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 11. Behandling av søknad om tilskudd
 
-Miljødirektoratet gir tilskudd i samsvar med Klima- og miljødepartementets årlige budsjettproposisjon.
+Miljødirektoratet gir tilskudd i samsvar med eventuelle tilleggsføringer for ordningen i postomtalen i budsjettproposisjonen eller i Stortingets bevilgningsvedtak.
 
-Miljødirektoratet tildeler tilskudd som ikke er bundet opp i budsjettproposisjonen, etter en skjønnsmessig vurdering av søknadene. I vurderingen legges det vekt på prioriteringene i [§ 7](forskrift/2023-11-15-1847/§7) og formålet i [§ 1](forskrift/2023-11-15-1847/§1).
+Miljødirektoratet fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene. I vurderingen legges det vekt på prioriteringene i [§ 7](forskrift/2023-11-15-1847/§7) og formålet i [§ 1](forskrift/2023-11-15-1847/§1).
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 12. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -134,27 +137,27 @@ Tilskuddsmottakere som har både økonomisk og ikke-økonomisk aktivitet skal ha
 
 ## § 13. Rapporteringsplikter
 
-Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
+Alle mottakere av tilskudd skal rapportere på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
 
-Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Miljødirektoratet innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 400 000 kroner eller høyere skal delregnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
+Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Miljødirektoratet innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 500 000 kroner eller høyere skal regnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 14. Oppfølging og kontroll
 
-Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
+Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, og at opplysningene i søknaden er riktige. Dersom en søkerorganisasjons virksomhet er regulert gjennom egne vedtekter, kan Miljødirektoratet kontrollere at organisasjonen drives i henhold til disse vedtektene.
 
 Miljødirektoratet har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 15. Stans og tilbakebetaling av tilskudd
 
-Miljødirektoratet kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til organisasjoner som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
+Miljødirektoratet kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til tilskuddsmottaker som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
 
 Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsvedtaket, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
 
@@ -162,7 +165,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 16. Ikrafttredelse
 
