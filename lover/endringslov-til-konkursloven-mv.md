@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-19"
 last_change_in_force: null
 last_updated: null
-xml_hash: "d010443f964e1de5a285d7ebc44d576a46bd3c0f1d23cdf41652330a73e7d328"
+xml_hash: "ca81b239cdc97268609ffd2edd5e2783e58259a59662a524aeeea53dd0c56826"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-13T11:40:11.848780+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -461,6 +461,8 @@ Kravene i første ledd skal dokumenteres gjennom foreleggelse av ordinær politi
 
 ## XXVIII
 
-1. Endringen av [rekonstruksjonsloven](lov/2020-05-07-38) i del V i loven her trer i kraft straks. For øvrig gjelder loven fra den tid Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
+1. Endringen av [rekonstruksjonsloven](lov/2020-05-07-38) i del V i loven her trer i kraft straks. For øvrig gjelder loven fra den tid[^1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
 2. Fra den tid endringene av [konkurslovens](lov/1984-06-08-58) første del i del I i loven her trer i kraft, oppheves [midlertidig lov 7. mai 2020 nr. 38 om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19](lov/2020-05-07-38).
 3. Departementet kan gi overgangsregler.
+
+1 Fra 1. januar 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341).
