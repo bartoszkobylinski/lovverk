@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2023-11-15"
-last_change_in_force: null
+last_change_in_force: "2026-11-15"
 last_updated: null
-xml_hash: "f1ef0746c84f09ee1cb7757975343edace455ca4797e07487dfad3469c3973b5"
+xml_hash: "44a46b22865bc00034df6b595da5a99dbb099f79e574bd630c418984f7b9294a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,17 +28,17 @@ Tilskuddsordningen skal bidra til drift og utvikling av autoriserte besøkssente
 
 ## § 2. Kriterier for måloppnåelse
 
-Måloppnåelse vurderes med utgangspunkt i om tildelte tilskudd bidrar til økt kunnskap om verdensarv i befolkningen, og da særlig barn og unge. I tillegg legges det vekt på lokal forankring og verdiskapning.
+Måloppnåelse for ordningen blir vurdert ut fra om tilskuddene bidrar til økt kunnskap om verdensarv i befolkningen, og da særlig barn og unge. I tillegg legges det vekt på lokal forankring og verdiskapning.
 
-Måloppnåelsen blir vurdert på bakgrunn av årlige rapporter der sentrene viser hvordan de oppfyller autorisasjonskravene satt av Miljødirektoratet.
+Måloppnåelsen blir vurdert på bakgrunn av årlige rapporter der sentrene viser hvordan de oppfyller autorisasjonskravene.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 3. Hvem som kan søke om tilskudd
 
-Sentre som er autorisert av Miljødirektoratet som besøkssentre innen kategorien verdensarvsenter, kan søke om grunntilskudd og tilskudd til utvikling.
+Sentre som er autorisert som besøkssentre innen kategorien verdensarvsenter, kan søke om grunntilskudd og tilskudd til utvikling.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 4. Hva det kan tildeles tilskudd til
 
@@ -57,50 +57,53 @@ Søkere som har fått tilskudd tidligere, kan bare motta tilskudd dersom krav om
 
 ## § 6. Krav til søknaden
 
-Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
+Søknad om tilskudd skal sendes til Riksantikvaren på slik måte som oppgitt i utlysningen. Søknadsfristen fastsettes og kunngjøres av Riksantikvaren.
 
 Søknaden skal inneholde informasjon om
 
 1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
 2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
 3. beløpet det søkes om
-4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.
-5. om det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte (tiltaket)
+4. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
+5. det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte (tiltaket)
 6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
-7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 10](forskrift/2023-11-15-1845/§10)
-8. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte (tiltaket).
+7. søker også utøver økonomisk aktivitet, jf. [§ 10](forskrift/2023-11-15-1845/§10)
+8. søker har eller forventer å få refusjon for merverdiavgift for det omsøkte (tiltaket).
+
+For søknader der søkeren er registreringspliktig etter [lov om Enhetsregisteret § 3-1](lov/2025-06-20-105/§3-1) skal Riksantikvaren innhente relevant informasjon fra Enhetsregisteret jf. [lov om Enhetsregisteret § 2-1 fjerde ledd](lov/2025-06-20-105/§2-1/ledd/4).
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Miljødirektoratet kan
+Riksantikvaren kan
 
 1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
 2. be om omarbeiding av søknader og sammenkobling av ulike søknader når det er nødvendig
 3. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
 4. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 8. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet dersom
+Søker plikter straks å melde fra til Riksantikvaren dersom
 
 1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
-2. uberettiget tilskudd er utbetalt.
+2. uberettiget tilskudd er utbetalt
+3. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Riksantikvaren avgjør om endringene kan godkjennes.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 9. Behandling av søknad om tilskudd
 
-Miljødirektoratet fatter vedtak om tilskudd i samsvar med Klima- og miljødepartementets årlige budsjettproposisjon.
+Riksantikvaren fatter vedtak om tilskudd i samsvar med eventuelle tilleggsføringer for ordningen i postomtalen i budsjettproposisjonen eller i Stortingets bevilgningsvedtak.
 
-Miljødirektoratet fatter vedtak om tilskudd som ikke er bundet opp i budsjettproposisjonen, etter en skjønnsmessig vurdering av søknadene.
+Riksantikvaren fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 10. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -110,29 +113,29 @@ Tilskuddsmottakere som har både økonomisk og ikke-økonomisk virksomhet skal h
 
 ## § 11. Rapporteringsplikter
 
-Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
+Alle mottakere av tilskudd skal rapportere på bruk av tilskuddsmidlene i til Riksantikvaren innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
 
-Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Miljødirektoratet innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 400 000 kroner eller høyere skal delregnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
+Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Riksantikvaren innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 500 000 kroner eller høyere skal regnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
 
 For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revisjon når det foreligger revidert årsregnskap for virksomheten.
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 12. Oppfølging og kontroll
 
-Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
+Riksantikvaren kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, og at opplysningene i søknaden er riktige. Dersom en søkerorganisasjons virksomhet er regulert gjennom egne vedtekter, kan Riksantikvaren kontrollere at organisasjonen drives i henhold til disse vedtektene.
 
-Miljødirektoratet har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
+Riksantikvaren har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 13. Stans og tilbakebetaling av tilskudd
 
-Miljødirektoratet kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til organisasjoner som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
+Riksantikvaren kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til tilskuddsmottaker som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
 
 Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsvedtaket, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
 
@@ -140,7 +143,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 14. Ikrafttredelse
 
