@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2025-01-09"
-xml_hash: "19d146ac90ed08db798b5fa2d33231e9b1153633f645a4bd1b29c2882fc19d91"
+xml_hash: "203724ef2539d9a48f35810341ca6a1c6fd4cdf1b432ea075b5688b58bd2afbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32009L0065"
@@ -1297,7 +1297,7 @@ Departementet kan i forskrift gi regler om bruk av teknikker for porteføljeforv
 
 (4) Dersom tillatelsen til et forvaltningsselskap som driver virksomhet i en annen EØS-stat bortfaller eller blir kalt tilbake, skal tilsynsmyndighetene i vertsstaten underrettes.
 
-> Endret ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 11-5 a. Oppnevning av administrator
 
