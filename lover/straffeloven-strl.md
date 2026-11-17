@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-10-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-01-12"
-xml_hash: "df9b1c3fa7d6595cca59f6f3dc0ca7d79a94cc51fcf3403542ef7d401330e81d"
+xml_hash: "89768d4f46dcebe4f0d36440392b8b41e77690073a4e16147b26d454ca03ea46"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1126,7 +1126,7 @@ Avbrytes fristen overfor noen som har handlet på vegne av et foretak, gjelder a
 
 Foreldelsesfristen for overtredelse av [§§ 392](lov/2005-05-20-28/§392) til [394](lov/2005-05-20-28/§394) og kapittel [31](lov/2005-05-20-28/§31) om kreditorvern løper ikke under konkurs eller gjeldsforhandling etter loven. Fristen kan likevel ikke forlenges med mer enn 5 år etter denne paragraf.
 
-> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 91. Straffansvar som ikke foreldes
 
@@ -3905,7 +3905,7 @@ Med bot eller fengsel inntil 2 år straffes en insolvent skyldner som forsettlig
 
 Unnlatelse av å begjære gjeldsforhandling eller konkurs er likevel straffri dersom skyldneren har opptrådt i forståelse med fordringshavere som representerer en vesentlig del av fordringsmassen med hensyn til beløp og antall.
 
-> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 408. Boforringelse under fellesforfølgning
 
@@ -3914,7 +3914,7 @@ Med bot eller fengsel inntil 2 år straffes en skyldner som under konkurs eller 
 1. opptrer på en måte som er egnet til å hindre at et formuesgode tjener til dekning eller utnyttelse for fordringshaverne, eller
 2. uriktig oppgir eller vedkjenner seg forpliktelser.
 
-> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 409. Grov boforringelse under fellesforfølgning
 
