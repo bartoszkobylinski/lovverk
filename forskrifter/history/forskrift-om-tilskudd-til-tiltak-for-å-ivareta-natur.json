@@ -2,6 +2,16 @@
   "doc_id": "sf-20241004-2408",
   "events": [
     {
+      "commit": "4ca4c38",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 19,
+      "lines_removed": 17,
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-tiltak-for-å-ivareta-natur",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8c94baf",
       "date": "2026-11-05",
       "from_path": null,

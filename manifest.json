@@ -325,13 +325,14 @@
     },
     "nl-19150813-005": {
       "doc_type": "lov",
-      "embedding_hash": "2020dd28864a2a80ba30bf79aff7c144b966c7a8c615dcdf93510ba34c96f879",
-      "embedding_input_hash": "50d53f432f660d16bf12bb97b563b420bb5d41016534fce35a9b30d51803e511",
+      "embedding_hash": "7c364b2c1f9a00b7437b5bf749bc2b3ce6cc1ad1fa126df8af688f63b6438374",
+      "embedding_input_hash": "49c47ee75c3a7e1964ca95ef7faaf1ce0080ef373c5870908e7702666a49867b",
+      "embedding_sidecar_sha256": "d2d7aca1e234f97ab63fccffe86ffec79deec76729a020ec7695bdd9450ae394",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/domstolloven-dl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -339,8 +340,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om domstolene (domstolloven)",
-      "total_changes": 7,
-      "xml_hash": "2020dd28864a2a80ba30bf79aff7c144b966c7a8c615dcdf93510ba34c96f879"
+      "total_changes": 8,
+      "xml_hash": "7c364b2c1f9a00b7437b5bf749bc2b3ce6cc1ad1fa126df8af688f63b6438374"
     },
     "nl-19160317-000": {
       "doc_type": "lov",
@@ -363,13 +364,14 @@
     },
     "nl-19160630-001": {
       "doc_type": "lov",
-      "embedding_hash": "07a9b11eaf09b1535e9ff25ea53ed563e07beddeec5e093518760723b1e99b5e",
-      "embedding_input_hash": "e252f2ba5918689aed71de9fb893ec66a5ea4d04a637282a125172f2e20868dc",
+      "embedding_hash": "c9209d47aa700dc01899c86d5fa2dd934c4dff463d3fb78651121c5cf8dccf5c",
+      "embedding_input_hash": "ebcdb6fbcfa780557e9689638221bd2deefb9dc7b858146af07eae87ee03036e",
+      "embedding_sidecar_sha256": "8337c6dac2ec8f0a479c9b735c684c73115945341ec9cf008a27fdaa5cf22c3c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/kommisjonsloven-kml.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -377,8 +379,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommisjon (kommisjonsloven)",
-      "total_changes": 4,
-      "xml_hash": "07a9b11eaf09b1535e9ff25ea53ed563e07beddeec5e093518760723b1e99b5e"
+      "total_changes": 5,
+      "xml_hash": "c9209d47aa700dc01899c86d5fa2dd934c4dff463d3fb78651121c5cf8dccf5c"
     },
     "nl-19160721-002": {
       "doc_type": "lov",
@@ -458,15 +460,16 @@
     },
     "nl-19180531-004": {
       "doc_type": "lov",
-      "embedding_hash": "b12f1aadc813125c7d7256d010f9dc6d77b4a87227b87a5ded8f1eb7ca190a5e",
-      "embedding_input_hash": "3ccd15ffbbb60b5f241b0cc340b9a4892b565b9a7a40e263344a6c4e24dcc5aa",
+      "embedding_hash": "041d2b65750428dff9e0e3b75438c77bdd0170acc68bfd1fca70d43f928e0061",
+      "embedding_input_hash": "beb93cc4f6aacbd36aaaa905225406406e54cfed9b25cab860602ef733a8f10c",
+      "embedding_sidecar_sha256": "0b364d7c14c57e980001824be13dc797f0eb441efbf5530c962a8132ec8ede83",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "31993L0013"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/avtaleloven-avtl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -474,8 +477,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven]",
-      "total_changes": 4,
-      "xml_hash": "b12f1aadc813125c7d7256d010f9dc6d77b4a87227b87a5ded8f1eb7ca190a5e"
+      "total_changes": 5,
+      "xml_hash": "041d2b65750428dff9e0e3b75438c77bdd0170acc68bfd1fca70d43f928e0061"
     },
     "nl-19180814-002": {
       "doc_type": "lov",
@@ -897,13 +900,14 @@
     },
     "nl-19320527-002": {
       "doc_type": "lov",
-      "embedding_hash": "2a7145cabe0674ae0310a32948f1e923f5d92bbde017c668a2ea820ad7c068e0",
-      "embedding_input_hash": "97e1113e7c73be8c7638e9cfb33818c317a5f96ce895faf0d6d909ec5dce7e0b",
+      "embedding_hash": "89649c70cefebfb610f6c11a71b11c65226afe9acfa24de49bb1137a45d106ba",
+      "embedding_input_hash": "57135526cc230ecb4130bd4dc0e1be8989d1277228ca7befb32b5bdcb30c16f1",
+      "embedding_sidecar_sha256": "4ea894cd7b130f13f02c0ac6fa4694e0d4ff73b533bcf779f12e66a75e1a89dd",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/vekselloven-vl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -911,8 +915,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om veksler [vekselloven]",
-      "total_changes": 5,
-      "xml_hash": "2a7145cabe0674ae0310a32948f1e923f5d92bbde017c668a2ea820ad7c068e0"
+      "total_changes": 6,
+      "xml_hash": "89649c70cefebfb610f6c11a71b11c65226afe9acfa24de49bb1137a45d106ba"
     },
     "nl-19320527-003": {
       "doc_type": "lov",
@@ -1049,13 +1053,14 @@
     },
     "nl-19350607-002": {
       "doc_type": "lov",
-      "embedding_hash": "4183a947cfe6af597b5b62158299ee080e9d126846966f4ee7d2433406da6e66",
-      "embedding_input_hash": "3614e26141ebfd017e7b6e5d4e6b9d0850254cffb812f29dff5c2faabfb8171c",
+      "embedding_hash": "ec92b323d3d44dd87ac8966239859d9b31ae5def88c62ce019478b96085dfcc8",
+      "embedding_input_hash": "c0cc42e5c5bebaf3869861a8777e23f0fb0bd7d643a646b2b6e072e8865ebe2a",
+      "embedding_sidecar_sha256": "d2cda113c2a59c620750aef302dec13e8a277b563be6ca5a2b633cc3eaf05cca",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/tinglysingsloven-tingl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -1063,8 +1068,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tinglysing [tinglysingsloven]",
-      "total_changes": 4,
-      "xml_hash": "4183a947cfe6af597b5b62158299ee080e9d126846966f4ee7d2433406da6e66"
+      "total_changes": 5,
+      "xml_hash": "ec92b323d3d44dd87ac8966239859d9b31ae5def88c62ce019478b96085dfcc8"
     },
     "nl-19360710-006": {
       "doc_type": "lov",
@@ -1087,13 +1092,14 @@
     },
     "nl-19390217-001": {
       "doc_type": "lov",
-      "embedding_hash": "1ff06c65e6d0ec31a994796945f5e830772823446e5a38f656f38d19aed973c9",
-      "embedding_input_hash": "c71334a5199f8c5fd903a03fd1a1943b4655330e10db7d4ce94adc4471666507",
+      "embedding_hash": "482c04ec6bc8ccabcd9729275729860fac0bd83687d9f2e9b4b4eaafa12cbcc1",
+      "embedding_input_hash": "caea03288b5474895e67a1494af73b15e0b3f3179a705e69215a5619b4f79477",
+      "embedding_sidecar_sha256": "b11f18747f0b9c3b3297cf9d5dba2d0b89f057b5225c9840247b5cf1cba1e868",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/gjeldsbrevlova-gbl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -1101,8 +1107,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjeldsbrev [gjeldsbrevlova]",
-      "total_changes": 4,
-      "xml_hash": "1ff06c65e6d0ec31a994796945f5e830772823446e5a38f656f38d19aed973c9"
+      "total_changes": 5,
+      "xml_hash": "482c04ec6bc8ccabcd9729275729860fac0bd83687d9f2e9b4b4eaafa12cbcc1"
     },
     "nl-19390217-002": {
       "doc_type": "lov",
@@ -3330,13 +3336,14 @@
     },
     "nl-19790518-018": {
       "doc_type": "lov",
-      "embedding_hash": "8584187cbe9171b0cf2210b0f6087422eb7b832b507860b9ff0d45d41d491a9d",
-      "embedding_input_hash": "7497eadc50829c4477748618e3bd2e34fb143360cac6a291128a11fb8752e82b",
+      "embedding_hash": "197303cb782c46b8527f5c84c9d9c46a8bab655f0814ad26c414dc561ab7180d",
+      "embedding_input_hash": "3c0ca8548bc992102c5e0caf779add230ee3a3162df296155fd861f66b4a1cb9",
+      "embedding_sidecar_sha256": "fbbf1d4d74bf5ac55cc7649786f823ba6b813b001e70bc89ecfac8493d3ea318",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/foreldelsesloven-fl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3344,18 +3351,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om foreldelse av fordringer (foreldelsesloven)",
-      "total_changes": 6,
-      "xml_hash": "8584187cbe9171b0cf2210b0f6087422eb7b832b507860b9ff0d45d41d491a9d"
+      "total_changes": 7,
+      "xml_hash": "197303cb782c46b8527f5c84c9d9c46a8bab655f0814ad26c414dc561ab7180d"
     },
     "nl-19800208-002": {
       "doc_type": "lov",
-      "embedding_hash": "e39807518da1af0c09552b3844488605751b7254565ac30e53a11e959ebb31a1",
-      "embedding_input_hash": "57500d5ead63c26eff6a081998126b3b6d2113121646c47d3cff055c7c42d38c",
+      "embedding_hash": "716d411b96d33a37ce9b6943271a98e93c5d790c50cf65a66f5f5c318f260be5",
+      "embedding_input_hash": "730d357efc435058c1a1ec3ffd40a721a956011006a5e05383e980f842a6ab37",
+      "embedding_sidecar_sha256": "0fc669391b8b58cbb768918b0304f10635bd6c73e57661e78b401b7465c90ec3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/panteloven-pantel.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3363,8 +3371,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pant (panteloven)",
-      "total_changes": 6,
-      "xml_hash": "e39807518da1af0c09552b3844488605751b7254565ac30e53a11e959ebb31a1"
+      "total_changes": 7,
+      "xml_hash": "716d411b96d33a37ce9b6943271a98e93c5d790c50cf65a66f5f5c318f260be5"
     },
     "nl-19800613-035": {
       "doc_type": "lov",
@@ -3550,13 +3558,14 @@
     },
     "nl-19821217-086": {
       "doc_type": "lov",
-      "embedding_hash": "90ab89082606821565b2085169a35ef364018cd98254f222c995132e751dcda1",
-      "embedding_input_hash": "15261ca13ebfcd2175a6b881ed62709860f4130e4e6f9c8ec42d772b39607a15",
+      "embedding_hash": "af4ae17d7aa0760cb1e9253a353c91e60a72cbf4ee9f9e982fb2136ca63302e6",
+      "embedding_input_hash": "287ce142eea5828b5cc2d6c95bc781726e09de1c7afc267f4d0bf216d9b43ba2",
+      "embedding_sidecar_sha256": "ccd94131949aa6f58f2b3a3badce0acf7165a319a9a194d9fa2ea19c9d848320",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-01",
-      "last_seen": "2026-10-01T10:53:16.759325Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/rettsgebyrloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3564,8 +3573,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettsgebyr (rettsgebyrloven)",
-      "total_changes": 7,
-      "xml_hash": "90ab89082606821565b2085169a35ef364018cd98254f222c995132e751dcda1"
+      "total_changes": 8,
+      "xml_hash": "af4ae17d7aa0760cb1e9253a353c91e60a72cbf4ee9f9e982fb2136ca63302e6"
     },
     "nl-19830603-054": {
       "doc_type": "lov",
@@ -3645,13 +3654,14 @@
     },
     "nl-19840608-058": {
       "doc_type": "lov",
-      "embedding_hash": "75e5453da106833e670dd10c65bb4749a5fead506e7907cdbb333914f0958403",
-      "embedding_input_hash": "8e8713fcda351222b6f2204723790b7ff9f7e6c2b133be5d2aa6628552042d86",
+      "embedding_hash": "49e35c06d2204d3f39a208870eeded03eca418502dd296f304c6398b74b4261d",
+      "embedding_input_hash": "76cb7bd3cf36b125ad9ecc2526fc87da92309f94bf95bda31372ff79a6684543",
+      "embedding_sidecar_sha256": "586d14b82670886d312c5f2f14c3705ec6a5a20cf26ec610b674b78184564288",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/konkursloven-kkl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3659,18 +3669,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjeldsforhandling og konkurs (konkursloven)",
-      "total_changes": 7,
-      "xml_hash": "75e5453da106833e670dd10c65bb4749a5fead506e7907cdbb333914f0958403"
+      "total_changes": 8,
+      "xml_hash": "49e35c06d2204d3f39a208870eeded03eca418502dd296f304c6398b74b4261d"
     },
     "nl-19840608-059": {
       "doc_type": "lov",
-      "embedding_hash": "4ec187326eddba3e946325e8a0949693416261907736794885764c3210c1cbe6",
-      "embedding_input_hash": "ff6b0c016c0368e4f5e7a25cdfa973094d3fdcfde0be63dc40049267c4def1cf",
+      "embedding_hash": "2e82e12574fa7ba50671ddd4be0ed637fbf6ec5bc684a308d9d1e3cb726ec9e5",
+      "embedding_input_hash": "dd62860573cc0fc74b7d8afd353ad53e6bc03a99c61307e76bc518f6f2d693f9",
+      "embedding_sidecar_sha256": "74b7ab07801829b37be74a55b222a7a237aee2f0f56b9bc3d0224acd68096a36",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/dekningsloven-deknl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3678,8 +3689,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om fordringshavernes dekningsrett (dekningsloven)",
-      "total_changes": 6,
-      "xml_hash": "4ec187326eddba3e946325e8a0949693416261907736794885764c3210c1cbe6"
+      "total_changes": 7,
+      "xml_hash": "2e82e12574fa7ba50671ddd4be0ed637fbf6ec5bc684a308d9d1e3cb726ec9e5"
     },
     "nl-19840608-060": {
       "doc_type": "lov",
@@ -3740,13 +3751,14 @@
     },
     "nl-19850621-079": {
       "doc_type": "lov",
-      "embedding_hash": "d277547a17423b45ce02841adf330cc88b4cb3ce816861480e678a3324ad9d98",
-      "embedding_input_hash": "56cac9d6dbc5fd1f590acdb12348598a9d4755c76993c928d17e98dd3c2ae0b6",
+      "embedding_hash": "ec8ca6792f3aa877d2a76a76eb6f8684ca26f2f5ed9ce64a775441dd684473a8",
+      "embedding_input_hash": "1d5a803d3fd4afa9f4688b916d5dbbb92bdfab21f2ee038310f8ce61cf5ee5c0",
+      "embedding_sidecar_sha256": "a974d67c636faf2ea83210edc95c1170a1fef82852263e80c682a9dc04dd6921",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/foretaksnavneloven-ftnavnl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3754,8 +3766,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)",
-      "total_changes": 4,
-      "xml_hash": "d277547a17423b45ce02841adf330cc88b4cb3ce816861480e678a3324ad9d98"
+      "total_changes": 5,
+      "xml_hash": "ec8ca6792f3aa877d2a76a76eb6f8684ca26f2f5ed9ce64a775441dd684473a8"
     },
     "nl-19850621-080": {
       "doc_type": "lov",
@@ -3778,13 +3790,14 @@
     },
     "nl-19850621-083": {
       "doc_type": "lov",
-      "embedding_hash": "1d0d6007dfde1849d3a44f14acd52456848dfe89323a7c403f2c49d8467156f3",
-      "embedding_input_hash": "b3a2518ab16efcb05c95ab1f1fd74f80048635e6ee38f008c8619b9b825d57a8",
+      "embedding_hash": "bcf74fbd4f281979948fdff37307ac405931e0152649905f787ca6b96bf15057",
+      "embedding_input_hash": "d435b2e2e2cfe1b5868a8f203df801c6bebeb209723b897e442e240068482af1",
+      "embedding_sidecar_sha256": "431428fad8304d79646306c04683668fec8451cbddc75c2f3ef38cd6052af495",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/selskapsloven-sel.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -3792,8 +3805,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven)",
-      "total_changes": 4,
-      "xml_hash": "1d0d6007dfde1849d3a44f14acd52456848dfe89323a7c403f2c49d8467156f3"
+      "total_changes": 5,
+      "xml_hash": "bcf74fbd4f281979948fdff37307ac405931e0152649905f787ca6b96bf15057"
     },
     "nl-19851220-108": {
       "doc_type": "lov",
@@ -4163,13 +4176,14 @@
     },
     "nl-19890616-069": {
       "doc_type": "lov",
-      "embedding_hash": "3bfbc41bea28503803e50bdd09fdecd918ed47b646d4a0104c701121208d6c72",
-      "embedding_input_hash": "7fb1a33e7172130a20dd2cffe179811d7977707314b6328130270c13a537ef34",
+      "embedding_hash": "1f68fdaf7a3639f8c77f5f9baf9531f9ebe095402fd783bfa779df98a0ea59be",
+      "embedding_input_hash": "6ceaf93cc21994eca1bee9ec28140f378cd04903589ddeb730f1902397036ea2",
+      "embedding_sidecar_sha256": "c57ab950ff90eb5a48abd05e0c758524185457ce898e505fbc0d1170c5701a24",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/forsikringsavtaleloven-fal.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -4177,8 +4191,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsavtaler (forsikringsavtaleloven)",
-      "total_changes": 4,
-      "xml_hash": "3bfbc41bea28503803e50bdd09fdecd918ed47b646d4a0104c701121208d6c72"
+      "total_changes": 5,
+      "xml_hash": "1f68fdaf7a3639f8c77f5f9baf9531f9ebe095402fd783bfa779df98a0ea59be"
     },
     "nl-19890616-070": {
       "doc_type": "lov",
@@ -4826,8 +4840,9 @@
     },
     "nl-19930611-101": {
       "doc_type": "lov",
-      "embedding_hash": "b7a3403dde82e6d57d0903bd283e2d0e0e322d3ff5722ebd5d2044a48b131dbb",
-      "embedding_input_hash": "6a7c82abbd656737c3b979f787be78fcf9cc708e089ac803f98ae06ced549b94",
+      "embedding_hash": "284ce74192100191cbcba0c26639d75fd71bac2d77703c63369789d5e8a7dbae",
+      "embedding_input_hash": "a03b85ec76aa0b36077130df1bea0d3331f530899eb021be9566aa945eab2e2a",
+      "embedding_sidecar_sha256": "2ed08407a5588af9c77074fe40370d0afd1fa0b6418322c433e450eba4616536",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
@@ -4837,8 +4852,8 @@
         "32002R0889",
         "32018R1139"
       ],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/luftfartsloven-luftl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -4846,8 +4861,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om luftfart (luftfartsloven)",
-      "total_changes": 7,
-      "xml_hash": "b7a3403dde82e6d57d0903bd283e2d0e0e322d3ff5722ebd5d2044a48b131dbb"
+      "total_changes": 8,
+      "xml_hash": "284ce74192100191cbcba0c26639d75fd71bac2d77703c63369789d5e8a7dbae"
     },
     "nl-19940325-007": {
       "doc_type": "lov",
@@ -4929,16 +4944,17 @@
     },
     "nl-19940624-039": {
       "doc_type": "lov",
-      "embedding_hash": "4e2c351fd7cde5ec5f626fffa6431fd7d63d9d5a96d654f99d6d5d025fb46cb5",
-      "embedding_input_hash": "29bab952a467c06646e811d484c9e4d419712ff9f39e15f7c12bd8b28d58f48f",
+      "embedding_hash": "0b97865a80aa6215a7fcc0dfec042bc0452262043987de6e28ad115df4d64e64",
+      "embedding_input_hash": "0395554732fd74eebce85e4050d5f4a32107a62cdae6e42417bae2e5493c32b9",
+      "embedding_sidecar_sha256": "501cf81500d4aeb34a5e498cf2f53b09a404d48d5b2507209d982a6473c4691e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32009R0392",
         "32010R1177"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/sjøloven-sjøl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -4946,8 +4962,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om sjøfarten (sjøloven)",
-      "total_changes": 5,
-      "xml_hash": "4e2c351fd7cde5ec5f626fffa6431fd7d63d9d5a96d654f99d6d5d025fb46cb5"
+      "total_changes": 6,
+      "xml_hash": "0b97865a80aa6215a7fcc0dfec042bc0452262043987de6e28ad115df4d64e64"
     },
     "nl-19940701-049": {
       "doc_type": "lov",
@@ -5107,13 +5123,14 @@
     },
     "nl-19950804-053": {
       "doc_type": "lov",
-      "embedding_hash": "e716e4c8d7b0e19434bc10e49ddbb1bf1e4e5b2e3b92a5ed09d7909f842af706",
-      "embedding_input_hash": "bf279d6fc12ddd442558fa58ce7a2e47d40f0c762901aeaa224921020bacee0f",
+      "embedding_hash": "55d840735963ee0b43438cfd0b46d0fe320a8463b2a4506e1b256a2878ab0aed",
+      "embedding_input_hash": "44ea3f3843a181d37f05636dc42802c2a54275afaa0489bf1f44d16305965788",
+      "embedding_sidecar_sha256": "b9295e15ca157414b5789852f084eb0a8b9338370caa92afb92eace7b58eaad7",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-01",
-      "last_seen": "2026-10-01T10:53:16.759325Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/politiloven-politil.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5121,8 +5138,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om politiet (politiloven)",
-      "total_changes": 9,
-      "xml_hash": "e716e4c8d7b0e19434bc10e49ddbb1bf1e4e5b2e3b92a5ed09d7909f842af706"
+      "total_changes": 10,
+      "xml_hash": "55d840735963ee0b43438cfd0b46d0fe320a8463b2a4506e1b256a2878ab0aed"
     },
     "nl-19951222-085": {
       "doc_type": "lov",
@@ -5263,16 +5280,17 @@
     },
     "nl-19961129-072": {
       "doc_type": "lov",
-      "embedding_hash": "beca4059e1ab6bb79184529f7c327731a081daaa2b5f5a3568da00a232c4b1a8",
-      "embedding_input_hash": "972c9f8d088e18bc4a2276bcefeaed4aaaa96f722001b4e886cd7e288ed8f4d4",
+      "embedding_hash": "b91cf79d6353d2c8d02008dba27b4b57470c5e34fe72f3a3ef3d8f5b3669167c",
+      "embedding_input_hash": "50f77cf329d236c88dfef790672b0a2f5d3f8b38a09ed416e0345526de321c51",
+      "embedding_sidecar_sha256": "ce492433282bd96a0dd041992a626c6f4749604b0f72eccbce9f2e419fe0ab93",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "31994L0022",
         "32009L0073"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/petroleumsloven-petrl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5280,8 +5298,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om petroleumsvirksomhet [petroleumsloven]",
-      "total_changes": 4,
-      "xml_hash": "beca4059e1ab6bb79184529f7c327731a081daaa2b5f5a3568da00a232c4b1a8"
+      "total_changes": 5,
+      "xml_hash": "b91cf79d6353d2c8d02008dba27b4b57470c5e34fe72f3a3ef3d8f5b3669167c"
     },
     "nl-19961213-087": {
       "doc_type": "lov",
@@ -5441,13 +5459,14 @@
     },
     "nl-19970613-044": {
       "doc_type": "lov",
-      "embedding_hash": "3c43e3f695f5d7c6c7db9cbbbafbcc917950746f753752263004a88df22165ed",
-      "embedding_input_hash": "5a832c8dc3f5415c5d2929db0cb4e978fbddeb2b8e15bd0715d24838c9d8ae67",
+      "embedding_hash": "6e743e251b694abbb5f279449d8b8ced2300f273c7f73c15c7fc5494313703d8",
+      "embedding_input_hash": "641669cc20157aa33cb58911fb9560cc4035d9fe629fdaf4fd6dcb08803d4183",
+      "embedding_sidecar_sha256": "2a5e26c7085567a75c90e36cf13cb26a4fed3b01cbeeefb9dd5b934bdc2d9221",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-10",
-      "last_seen": "2026-10-10T10:32:55.643126Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/aksjeloven-asl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5455,18 +5474,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om aksjeselskaper (aksjeloven)",
-      "total_changes": 5,
-      "xml_hash": "3c43e3f695f5d7c6c7db9cbbbafbcc917950746f753752263004a88df22165ed"
+      "total_changes": 6,
+      "xml_hash": "6e743e251b694abbb5f279449d8b8ced2300f273c7f73c15c7fc5494313703d8"
     },
     "nl-19970613-045": {
       "doc_type": "lov",
-      "embedding_hash": "1cc16840634b93df60a615c676e9dbb63980ff6675d0c4ff8736e05c8ee5efc1",
-      "embedding_input_hash": "f9c608d59f20f955542d6913f41305225e5e274132f3637cf56339c7798d0faf",
+      "embedding_hash": "1ba351d57d0bb2c6982192a5c88833b4071a8ad041c1eddd1c81afc43742773c",
+      "embedding_input_hash": "f8326f940a9aacdb0f637caae39b6c2453f2759476ee087f15cc940481a2f58b",
+      "embedding_sidecar_sha256": "67e7220d8b67259e46c683819dfcb124025321e6223680adb40ec8d2f7b7bf0f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-10",
-      "last_seen": "2026-10-10T10:32:55.643126Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/allmennaksjeloven-asal.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5474,8 +5494,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om allmennaksjeselskaper (allmennaksjeloven)",
-      "total_changes": 5,
-      "xml_hash": "1cc16840634b93df60a615c676e9dbb63980ff6675d0c4ff8736e05c8ee5efc1"
+      "total_changes": 6,
+      "xml_hash": "1ba351d57d0bb2c6982192a5c88833b4071a8ad041c1eddd1c81afc43742773c"
     },
     "nl-19970613-047": {
       "doc_type": "lov",
@@ -5674,13 +5694,14 @@
     },
     "nl-19990129-006": {
       "doc_type": "lov",
-      "embedding_hash": "6746ac1eeb4fd5ab08436e586079b5954c106e0f9bd315a3dbeba6aa80c31c52",
-      "embedding_input_hash": "835a7a5dcfd9d8d4a6f9605519384aba061402c15d0e1e4334fefbf8cf5d03b6",
+      "embedding_hash": "bb04f89af401c15ebc829e0b178a37f280a048bf539b35a87f5c02f30b7bd69a",
+      "embedding_input_hash": "93d9cd94a213f6728c5dca0d8d40532669cf6a03c752562eaf6ae4226fe4df4c",
+      "embedding_sidecar_sha256": "760b1e8a7894730cee983237a339e663494bfc6685e8722c1a71606215a78539",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/iks-loven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5688,18 +5709,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om interkommunale selskaper (IKS-loven)",
-      "total_changes": 4,
-      "xml_hash": "6746ac1eeb4fd5ab08436e586079b5954c106e0f9bd315a3dbeba6aa80c31c52"
+      "total_changes": 5,
+      "xml_hash": "bb04f89af401c15ebc829e0b178a37f280a048bf539b35a87f5c02f30b7bd69a"
     },
     "nl-19990326-014": {
       "doc_type": "lov",
-      "embedding_hash": "46e9887c8f6ca4daa57e16ff1b86d34d5057ed1f7cd709b91c639c4e25610b32",
-      "embedding_input_hash": "de658deba75ae413a218e4817b21a4fe764e47273cef44e574ac96fd94471cc0",
+      "embedding_hash": "9771f0d4e75434d72881181e5ce77a948fe8136a3bee9ac31cdeb8f1939d4ffb",
+      "embedding_input_hash": "c566b71924aaf1f9f64e732d2832e9feb3abbddabfb68b6b8843390547c06cb9",
+      "embedding_sidecar_sha256": "7b6796b1525807687ef4ecf7770017f02a55ebde847f2d83580eb10bd3ea3c77",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/skatteloven-sktl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5707,8 +5729,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skatt av formue og inntekt (skatteloven)",
-      "total_changes": 7,
-      "xml_hash": "46e9887c8f6ca4daa57e16ff1b86d34d5057ed1f7cd709b91c639c4e25610b32"
+      "total_changes": 8,
+      "xml_hash": "9771f0d4e75434d72881181e5ce77a948fe8136a3bee9ac31cdeb8f1939d4ffb"
     },
     "nl-19990326-015": {
       "doc_type": "lov",
@@ -5946,15 +5968,16 @@
     },
     "nl-19991217-095": {
       "doc_type": "lov",
-      "embedding_hash": "3966351eb8268e57649cf71829e9fe6b1184c470de1880faacc2719bd7a70a2b",
-      "embedding_input_hash": "66f80392d1687aafd90de3edeae44f2e6f02731804fd0b73f292614838c2b32d",
+      "embedding_hash": "2ade0309e78d89cca67063cf6e4c96500727ac9a89b64fa7d101935be002df37",
+      "embedding_input_hash": "0817a037637f1fdffb83ce3663d1ae625bd2ceebb60b1109ad65a5899c95f011",
+      "embedding_sidecar_sha256": "e0958ab619fb8f412acc7e1a4142c455cac050fa0e6630a0eaffab12a62d2603",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "31998L0026"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/betalingssystemloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -5962,8 +5985,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om betalingssystemer m.v.",
-      "total_changes": 4,
-      "xml_hash": "3966351eb8268e57649cf71829e9fe6b1184c470de1880faacc2719bd7a70a2b"
+      "total_changes": 5,
+      "xml_hash": "2ade0309e78d89cca67063cf6e4c96500727ac9a89b64fa7d101935be002df37"
     },
     "nl-19991222-105": {
       "doc_type": "lov",
@@ -6350,13 +6373,14 @@
     },
     "nl-20010615-093": {
       "doc_type": "lov",
-      "embedding_hash": "523cf6c91769f73cf310e226ba5df27a6d6368d5a36170f887266b75111eed25",
-      "embedding_input_hash": "ee2d7389aeeca4bd2a160ebfe06c44a3980f3a06e4638cc657207658ea0f212b",
+      "embedding_hash": "1af08b7ea5928f319888fd257218a5706237c613dca6f19196ba3744bccc5260",
+      "embedding_input_hash": "780611452f66f806872de279761d1da2b4122fb6689a34fe7497e5bde3851427",
+      "embedding_sidecar_sha256": "b9bfbe8584fda350dba6066dd0ea09b8810452b2ab90cdbfd3b575dc96db2c3a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-31",
-      "last_seen": "2026-10-31T10:11:58.876981Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/helseforetaksloven-hfl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -6364,8 +6388,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om helseforetak m.m. (helseforetaksloven)",
-      "total_changes": 6,
-      "xml_hash": "523cf6c91769f73cf310e226ba5df27a6d6368d5a36170f887266b75111eed25"
+      "total_changes": 7,
+      "xml_hash": "1af08b7ea5928f319888fd257218a5706237c613dca6f19196ba3744bccc5260"
     },
     "nl-20011214-095": {
       "doc_type": "lov",
@@ -6690,13 +6714,14 @@
     },
     "nl-20030606-038": {
       "doc_type": "lov",
-      "embedding_hash": "9bd5436b14359f170dbd937b2c931905e9f125d31bb80b6a1ad278fd252fed6c",
-      "embedding_input_hash": "eb939532a6c171c35682a93fddec41033f715d242f74a48ec95ff8248fa9ca95",
+      "embedding_hash": "fbe7cbad508bb20520601fc6abea714f36b4f4fe67798d3f66f134cc1d503b71",
+      "embedding_input_hash": "3ecd1fb821d259531cc6d4e2c045fd20f4237f80a021ae0ab5c278af1c7b5fc4",
+      "embedding_sidecar_sha256": "466855323d7558dbfe9c75ae1a0a4ae0b75630bf60100f3f098f8e8450115ff2",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/bustadbyggjelagslova-bbl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -6704,18 +6729,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om bustadbyggjelag (bustadbyggjelagslova)",
-      "total_changes": 5,
-      "xml_hash": "9bd5436b14359f170dbd937b2c931905e9f125d31bb80b6a1ad278fd252fed6c"
+      "total_changes": 6,
+      "xml_hash": "fbe7cbad508bb20520601fc6abea714f36b4f4fe67798d3f66f134cc1d503b71"
     },
     "nl-20030606-039": {
       "doc_type": "lov",
-      "embedding_hash": "540e62dfe2215084b7c06cda05160dfe24ec38e8e081810f82864359e0533069",
-      "embedding_input_hash": "430c89c06b5b1a338adbe770b560e661a194bb355ce3b0d389402fe995da615e",
+      "embedding_hash": "be32bc25f582cdead9622ab7256090edc2775115f23eb3c979a5ad76a984ed41",
+      "embedding_input_hash": "37cb401163ecddef71990e64d97841ba72ad96a557cf60cf9a55c371936b34f8",
+      "embedding_sidecar_sha256": "deb8e669b5ae188938a93d2307ce99b8c13d4f3f7dc1d7b8b4b3d9c3054d1742",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/burettslagslova-brl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -6723,8 +6749,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om burettslag (burettslagslova)",
-      "total_changes": 5,
-      "xml_hash": "540e62dfe2215084b7c06cda05160dfe24ec38e8e081810f82864359e0533069"
+      "total_changes": 6,
+      "xml_hash": "be32bc25f582cdead9622ab7256090edc2775115f23eb3c979a5ad76a984ed41"
     },
     "nl-20030620-044": {
       "doc_type": "lov",
@@ -7032,15 +7058,16 @@
     },
     "nl-20040326-017": {
       "doc_type": "lov",
-      "embedding_hash": "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5",
-      "embedding_input_hash": "deae329b1cd1c6c2eba5de99c8585ffe2f2a5ec84bb4884204e8f583040974a2",
+      "embedding_hash": "8c6e090a27bb46a28ef28252fd26ce652c9a8a293dd0b771c175b1505848e353",
+      "embedding_input_hash": "32fb2f9f55ce535141bcc631227b0d1530f7c436c3572068d7a7159d1e713862",
+      "embedding_sidecar_sha256": "4bf3ffd74c3de4440111bbd4bf89d0060052595619502dcdd151f5e1d3fd9ed7",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32002L0047"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/lov-om-finansiell-sikkerhetsstillelse.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -7048,8 +7075,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansiell sikkerhetsstillelse",
-      "total_changes": 4,
-      "xml_hash": "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5"
+      "total_changes": 5,
+      "xml_hash": "8c6e090a27bb46a28ef28252fd26ce652c9a8a293dd0b771c175b1505848e353"
     },
     "nl-20040514-025": {
       "doc_type": "lov",
@@ -7373,13 +7400,14 @@
     },
     "nl-20050520-028": {
       "doc_type": "lov",
-      "embedding_hash": "df9b1c3fa7d6595cca59f6f3dc0ca7d79a94cc51fcf3403542ef7d401330e81d",
-      "embedding_input_hash": "059d0a71705098be44c3720d7e39fbb1d2bc387c616cf0ae5c7229960a9bdcca",
+      "embedding_hash": "89768d4f46dcebe4f0d36440392b8b41e77690073a4e16147b26d454ca03ea46",
+      "embedding_input_hash": "677403f4ed759009916019a8a3c41de3e2fc459f0038eaea7ff920dd02ea40d8",
+      "embedding_sidecar_sha256": "67edbfcd7638ea1d2a0f27235f4e2362896c85efe48b4b93558394f93ac984a3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-03",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/straffeloven-strl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -7387,8 +7415,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om straff (straffeloven)",
-      "total_changes": 8,
-      "xml_hash": "df9b1c3fa7d6595cca59f6f3dc0ca7d79a94cc51fcf3403542ef7d401330e81d"
+      "total_changes": 9,
+      "xml_hash": "89768d4f46dcebe4f0d36440392b8b41e77690073a4e16147b26d454ca03ea46"
     },
     "nl-20050527-031": {
       "doc_type": "lov",
@@ -7492,13 +7520,14 @@
     },
     "nl-20050617-062": {
       "doc_type": "lov",
-      "embedding_hash": "a809f9deab8a6873ef1639fb25584bbf93b366e79d7a936fa6f95fe8afb8d5c9",
-      "embedding_input_hash": "a37bc61f991cabd4182d894b4fad01dc265abf40bfc351db48f4792d1863a85a",
+      "embedding_hash": "b019c32b10e656858804f1cc0b993c48d2890b880594ea55680e58225a40a934",
+      "embedding_input_hash": "0f089fab58ba96dc704bac22b04bb52ff85251be05dc8c74ebea4137539d4230",
+      "embedding_sidecar_sha256": "0ec0650a70dc98a426aa4998e91ec24decd63c2e5e39b8de65edd86f1e1662e0",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-25",
-      "last_seen": "2026-10-25T20:11:20.947123Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/arbeidsmiljøloven-aml.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -7506,8 +7535,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)",
-      "total_changes": 6,
-      "xml_hash": "a809f9deab8a6873ef1639fb25584bbf93b366e79d7a936fa6f95fe8afb8d5c9"
+      "total_changes": 7,
+      "xml_hash": "b019c32b10e656858804f1cc0b993c48d2890b880594ea55680e58225a40a934"
     },
     "nl-20050617-064": {
       "doc_type": "lov",
@@ -7568,13 +7597,14 @@
     },
     "nl-20050617-085": {
       "doc_type": "lov",
-      "embedding_hash": "77178e3fe19c1617973501cebc274446b6a4373fb0304c4b0d0a8c65921b39e2",
-      "embedding_input_hash": "639d2b17f4cb5b74695f967671ebd227da5f58f48ef690a7d7fc6d75152ebba1",
+      "embedding_hash": "b7afba4084f88faa039d42e0facd0d58f14d56a58cee72a85de88eb010aa7fbc",
+      "embedding_input_hash": "4de11c075da82167bdb9c5c606468432f785379a4d1cbc57f4caae04eb179d40",
+      "embedding_sidecar_sha256": "b9088fa0fc866b2bf8d8695f4828f1c90e6dfbbbda439d76737f083d6b0dcb63",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-31",
-      "last_seen": "2026-10-31T10:11:58.876981Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/finnmarksloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -7582,8 +7612,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)",
-      "total_changes": 6,
-      "xml_hash": "77178e3fe19c1617973501cebc274446b6a4373fb0304c4b0d0a8c65921b39e2"
+      "total_changes": 7,
+      "xml_hash": "b7afba4084f88faa039d42e0facd0d58f14d56a58cee72a85de88eb010aa7fbc"
     },
     "nl-20050617-090": {
       "doc_type": "lov",
@@ -8019,13 +8049,14 @@
     },
     "nl-20070629-081": {
       "doc_type": "lov",
-      "embedding_hash": "78704e91392a1f51abc2bcd6d0b6549efb8b9a11119f2955889c657dfd1a6a03",
-      "embedding_input_hash": "27d69f03fac58c918e786869f7498e750f5ee1a7ec5f3bce541b859660f3e247",
+      "embedding_hash": "ceead67c01273ce42ba64b4201801476e758f95bf782f53271416f7d8e9b0e5c",
+      "embedding_input_hash": "61828ea0937870b041d8c26b016fe6cce50e39f3b2f51f6492952150943dd8da",
+      "embedding_sidecar_sha256": "5776edeee57aa16c4d8e11d1a8e57375d3fab5d5621dd6cd1daac138872458fd",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/samvirkelova.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -8033,8 +8064,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om samvirkeforetak (samvirkelova)",
-      "total_changes": 5,
-      "xml_hash": "78704e91392a1f51abc2bcd6d0b6549efb8b9a11119f2955889c657dfd1a6a03"
+      "total_changes": 6,
+      "xml_hash": "ceead67c01273ce42ba64b4201801476e758f95bf782f53271416f7d8e9b0e5c"
     },
     "nl-20070629-086": {
       "doc_type": "lov",
@@ -8133,15 +8164,16 @@
     },
     "nl-20080515-035": {
       "doc_type": "lov",
-      "embedding_hash": "441eed2686f025f6c296f93bb3daa28b5eb39a8d4d1f146f3237bf1216b9bd41",
-      "embedding_input_hash": "63dbf9d3ac1212bf2398ce287774c7ef326d038b1cd3e5b034efe489d0952081",
+      "embedding_hash": "5319b3d8149b8a9258351f1e0cc52786eef5bced87b905c4e7b34197e6719584",
+      "embedding_input_hash": "40eabb87668dff219cfbde5c380b84102e3c49674b193c4e254a938afed1364b",
+      "embedding_sidecar_sha256": "096bd2da234e922dd6f1890dbf49ba654fcd6a6530cf1ca9b95d4abb4358f31b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32004L0038"
       ],
-      "last_changed": "2026-10-01",
-      "last_seen": "2026-10-01T10:53:16.759325Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/utlendingsloven-utlendl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -8149,8 +8181,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
-      "total_changes": 13,
-      "xml_hash": "441eed2686f025f6c296f93bb3daa28b5eb39a8d4d1f146f3237bf1216b9bd41"
+      "total_changes": 14,
+      "xml_hash": "5319b3d8149b8a9258351f1e0cc52786eef5bced87b905c4e7b34197e6719584"
     },
     "nl-20080606-037": {
       "doc_type": "lov",
@@ -8411,13 +8443,14 @@
     },
     "nl-20090619-058": {
       "doc_type": "lov",
-      "embedding_hash": "98cb78b3bc43d6e309cef4e726e29bc5251b5a9e5e04d9960f25b3ec5377f34f",
-      "embedding_input_hash": "ed41a5ca0f121c056aba63a0455ef843a6b55cb9d1d5340d2b2fac2b8fd8ce4c",
+      "embedding_hash": "8508328da0d1c36922e0a21e85dd4281e6afe9f7cc0e805b4b8706ba065a2aea",
+      "embedding_input_hash": "012e10fd31cb20397f16d9659ed3e1f3dd5d7665b2812eccfd490df310d132cd",
+      "embedding_sidecar_sha256": "bd7708afe45ea56b199f055961ae5ba1c89456fe4ce56d99a8c55813e1b5e68a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-31",
-      "last_seen": "2026-10-31T10:11:58.876981Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/merverdiavgiftsloven-mval.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -8425,8 +8458,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om merverdiavgift (merverdiavgiftsloven)",
-      "total_changes": 7,
-      "xml_hash": "98cb78b3bc43d6e309cef4e726e29bc5251b5a9e5e04d9960f25b3ec5377f34f"
+      "total_changes": 8,
+      "xml_hash": "8508328da0d1c36922e0a21e85dd4281e6afe9f7cc0e805b4b8706ba065a2aea"
     },
     "nl-20090619-073": {
       "doc_type": "lov",
@@ -8899,8 +8932,9 @@
     },
     "nl-20111125-044": {
       "doc_type": "lov",
-      "embedding_hash": "19d146ac90ed08db798b5fa2d33231e9b1153633f645a4bd1b29c2882fc19d91",
-      "embedding_input_hash": "4c6fbc4fd8be3844869881115b9edf7dd6036c1a2278c3aa20d5ceaa4f7cdb33",
+      "embedding_hash": "203724ef2539d9a48f35810341ca6a1c6fd4cdf1b432ea075b5688b58bd2afbd",
+      "embedding_input_hash": "6b114a3a624bbcf4002641e9b69e167322756a6245b3525e0717e20556865fa2",
+      "embedding_sidecar_sha256": "fa57729db225da40d271505204288ea1dbefec9ac89c1a2659facea8611115ea",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
@@ -8908,8 +8942,8 @@
         "32015R2365",
         "32017R1131"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/verdipapirfondloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -8917,8 +8951,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om verdipapirfond (verdipapirfondloven)",
-      "total_changes": 4,
-      "xml_hash": "19d146ac90ed08db798b5fa2d33231e9b1153633f645a4bd1b29c2882fc19d91"
+      "total_changes": 5,
+      "xml_hash": "203724ef2539d9a48f35810341ca6a1c6fd4cdf1b432ea075b5688b58bd2afbd"
     },
     "nl-20111209-052": {
       "doc_type": "lov",
@@ -9457,8 +9491,9 @@
     },
     "nl-20140620-028": {
       "doc_type": "lov",
-      "embedding_hash": "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c",
-      "embedding_input_hash": "e16c42acfe5939fd3b0f2698e79b75a3415fd3439701d75d406b5c9cf8dba470",
+      "embedding_hash": "204aff8978eef1650d815f6a42c454fd60b71c5263679b5d208eb7b5240f57ca",
+      "embedding_input_hash": "65647f9a57835b06a523bcba627a92047ff7f6e00c5e347ea799e5b372820a24",
+      "embedding_sidecar_sha256": "66f082e8102d73b06362713b211db4bf719e0a50c8845b986ebbed6712d0311f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
@@ -9468,8 +9503,8 @@
         "32015R0760",
         "32015R2365"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/aif-loven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -9477,8 +9512,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forvaltning av alternative investeringsfond",
-      "total_changes": 4,
-      "xml_hash": "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c"
+      "total_changes": 5,
+      "xml_hash": "204aff8978eef1650d815f6a42c454fd60b71c5263679b5d208eb7b5240f57ca"
     },
     "nl-20140620-030": {
       "doc_type": "lov",
@@ -9695,8 +9730,9 @@
     },
     "nl-20150410-017": {
       "doc_type": "lov",
-      "embedding_hash": "c030ca5228ede0ee4d84f6b4106fd1aaf956c3508d72d6ddd62795b2833da966",
-      "embedding_input_hash": "e09267dfb1840f6ce9bea58c84e92baa3e708417a5ae480b4a897efeb86a2536",
+      "embedding_hash": "d28851bde125b396a01b3d220bdc7788a19eda6958f5e4c6caeed1790c9518e8",
+      "embedding_input_hash": "f5d475f139b176acfe93d25abb5aa25adf02d61e451600d6e56c040ff82826ef",
+      "embedding_sidecar_sha256": "23ba2d8bb94136a93f4d4fa8c7947bca4f6237305aff0fa6f35afa67ed640c0b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
@@ -9708,8 +9744,8 @@
         "32017R2402",
         "32016L2341"
       ],
-      "last_changed": "2026-08-01",
-      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/finansforetaksloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -9717,8 +9753,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansforetak og finanskonsern (finansforetaksloven)",
-      "total_changes": 8,
-      "xml_hash": "c030ca5228ede0ee4d84f6b4106fd1aaf956c3508d72d6ddd62795b2833da966"
+      "total_changes": 9,
+      "xml_hash": "d28851bde125b396a01b3d220bdc7788a19eda6958f5e4c6caeed1790c9518e8"
     },
     "nl-20150424-020": {
       "doc_type": "lov",
@@ -10815,13 +10851,14 @@
     },
     "nl-20180323-003": {
       "doc_type": "lov",
-      "embedding_hash": "69837cb3e44e5dc12c3b645b3e3aeb64b335e4e480f6eb740938afc205c718f0",
-      "embedding_input_hash": "cd499652538a8ee2a9b630e4da788fb690ca3a4b800022406db00080fa6421c5",
+      "embedding_hash": "f0deede37a62e1909a46253090e3caab666e8776b2134a8fafac67d6a3fa4022",
+      "embedding_input_hash": "501c11d13c61a4b00e6f9d85a4997a15c05734d566cda5e1bffefe23b5b55a52",
+      "embedding_sidecar_sha256": "4399af15eb04effa653bd7621e1fb62ded1e12f59018aeec3fa6349a258acbfc",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/lov-om-bankenes-sikringsfond.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -10829,8 +10866,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Bankenes sikringsfond",
-      "total_changes": 6,
-      "xml_hash": "69837cb3e44e5dc12c3b645b3e3aeb64b335e4e480f6eb740938afc205c718f0"
+      "total_changes": 7,
+      "xml_hash": "f0deede37a62e1909a46253090e3caab666e8776b2134a8fafac67d6a3fa4022"
     },
     "nl-20180420-007": {
       "doc_type": "lov",
@@ -10894,13 +10931,14 @@
     },
     "nl-20180601-024": {
       "doc_type": "lov",
-      "embedding_hash": "b602dae5de36e7d3045282e70bf5bcecedb98dfb6f0d3d6730280297253a65ff",
-      "embedding_input_hash": "82fafcc748434b54f27132b51d57ce36ad62654351e932e50eba88d576d76151",
+      "embedding_hash": "61178338ca130fe2a41e32674cf825cfb17bcd9aa8f3554082273c3734738823",
+      "embedding_input_hash": "5e9107062588f74466ee7a2e0084d26d492e7f9b0adc4b92cffe2288bf36c6b9",
+      "embedding_sidecar_sha256": "386e3a7a85580fa64462f372301458ba5d15505d93f0c374b95b47b43c361c53",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-17",
-      "last_seen": "2026-10-17T08:29:12.672271Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/sikkerhetsloven-sikkl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -10908,8 +10946,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nasjonal sikkerhet (sikkerhetsloven)",
-      "total_changes": 6,
-      "xml_hash": "b602dae5de36e7d3045282e70bf5bcecedb98dfb6f0d3d6730280297253a65ff"
+      "total_changes": 7,
+      "xml_hash": "61178338ca130fe2a41e32674cf825cfb17bcd9aa8f3554082273c3734738823"
     },
     "nl-20180608-028": {
       "doc_type": "lov",
@@ -11067,13 +11105,14 @@
     },
     "nl-20180622-083": {
       "doc_type": "lov",
-      "embedding_hash": "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81",
-      "embedding_input_hash": "3e94bf46bf694cf985ad3fc1dfc09f30c0b1c33cb74af04d8044119c2b591fc5",
+      "embedding_hash": "d5e17f5c9aef747775436c322dad5fc261c3fdf450c4507b1f4d894867ec78a1",
+      "embedding_input_hash": "73bc2ec4c9bbfb03f6357aeb50c7f5b1faaa46359c1c09b3503ab0ec7b996365",
+      "embedding_sidecar_sha256": "c3f3060328eb28a86654d2e95f73a10444031d41ad810e116b5d9de04c7866db",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/kommuneloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11081,8 +11120,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommuner og fylkeskommuner (kommuneloven)",
-      "total_changes": 4,
-      "xml_hash": "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81"
+      "total_changes": 5,
+      "xml_hash": "d5e17f5c9aef747775436c322dad5fc261c3fdf450c4507b1f4d894867ec78a1"
     },
     "nl-20190301-002": {
       "doc_type": "lov",
@@ -11127,16 +11166,17 @@
     },
     "nl-20190315-006": {
       "doc_type": "lov",
-      "embedding_hash": "0a03dd5eede9d48828e9f274bcfb387c080bfb4bb69d0d8874dcb1fa5f657450",
-      "embedding_input_hash": "f15b0159ce4ec8faf93fc2730c6f3e4315f6e09c5dce26499628fa954bda4cad",
+      "embedding_hash": "9315d44421d5cd549509724a37b00eb5239ba59cf27d1693e7f8f9ff933b42ff",
+      "embedding_input_hash": "efce8d908ea2c173d72f7ad0e7b783ea113e4b84f1838415b3a9d9b775b3e17d",
+      "embedding_sidecar_sha256": "29b0f3eb609b459016f04daceed0235ee9f3c674448619b1efca0982487f01cb",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32014R0909",
         "32017L0828"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/verdipapirsentralloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11144,18 +11184,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)",
-      "total_changes": 6,
-      "xml_hash": "0a03dd5eede9d48828e9f274bcfb387c080bfb4bb69d0d8874dcb1fa5f657450"
+      "total_changes": 7,
+      "xml_hash": "9315d44421d5cd549509724a37b00eb5239ba59cf27d1693e7f8f9ff933b42ff"
     },
     "nl-20190322-007": {
       "doc_type": "lov",
-      "embedding_hash": "57c9b1e404d3dfbf02090a13fd4a45be1ceb3759f54f1c00f58717147fbd0cec",
-      "embedding_input_hash": "c77746f32e1e33095011531fd83b44e99d13d8130840fa6ee0d798f301b198a3",
+      "embedding_hash": "e01babd2f55ea937b1589a5ca0ece998dc0085e9e3e0e76480f2c3d83e7fe671",
+      "embedding_input_hash": "00daa019e3c705364c2aa24951d09c4d76ebe4471a326bedf848233ea2c39891",
+      "embedding_sidecar_sha256": "2bc27632c92ad3f4c311c1dfb3f6a7cd36f23cc6f4389e1d41e6c30c2a03d542",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/havbunnsmineralloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11163,8 +11204,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven)",
-      "total_changes": 4,
-      "xml_hash": "57c9b1e404d3dfbf02090a13fd4a45be1ceb3759f54f1c00f58717147fbd0cec"
+      "total_changes": 5,
+      "xml_hash": "e01babd2f55ea937b1589a5ca0ece998dc0085e9e3e0e76480f2c3d83e7fe671"
     },
     "nl-20190329-008": {
       "doc_type": "lov",
@@ -11187,13 +11228,14 @@
     },
     "nl-20190614-021": {
       "doc_type": "lov",
-      "embedding_hash": "e4a17d0dd522ffe190fdd0088b1c74a429c57c242244bbafa2a528e59d07ec48",
-      "embedding_input_hash": "4c2c4711c556e0e4ece2c5eab55be92d9b5a78006af59345feef88f3e17c51d5",
+      "embedding_hash": "18554c1bd482b8385656a1b0d2635429cde9d0483a2465167a0409db1b06eb21",
+      "embedding_input_hash": "48732a9e28b887d6d91b612c62a2cade6419a2ddc52ba58b67d45e3e5842c86b",
+      "embedding_sidecar_sha256": "a5dc26441cc2d040f73a667aa3ab48231930bbbc42c4f729bf99f9af48ae25ee",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/arveloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11201,8 +11243,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om arv og dødsboskifte (arveloven)",
-      "total_changes": 4,
-      "xml_hash": "e4a17d0dd522ffe190fdd0088b1c74a429c57c242244bbafa2a528e59d07ec48"
+      "total_changes": 5,
+      "xml_hash": "18554c1bd482b8385656a1b0d2635429cde9d0483a2465167a0409db1b06eb21"
     },
     "nl-20190621-031": {
       "doc_type": "lov",
@@ -11415,13 +11457,14 @@
     },
     "nl-20191220-109": {
       "doc_type": "lov",
-      "embedding_hash": "bcf87bcba8fc52b05fb51a3347a1eb067aa6d23cb889a40490a95f110e13ef20",
-      "embedding_input_hash": "adb80cd43fd97a5b48f397888f4247f935359d3d3826061085f40f221d3ec728",
+      "embedding_hash": "9b103fd9d8e4f7a267ac72b9f455b55b3ad237d4f6a256fb4c9f8dcffe587212",
+      "embedding_input_hash": "b6f1612189c58e36f35f57cafec3c2cc0d72d469684c27f48daf513dfcbdd60c",
+      "embedding_sidecar_sha256": "df6de8350c562f3cdfdabb33f31326a02b0675c8cf40b6e8d3c6f2f7c412a4fd",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/kredittopplysningsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11429,8 +11472,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven)",
-      "total_changes": 4,
-      "xml_hash": "bcf87bcba8fc52b05fb51a3347a1eb067aa6d23cb889a40490a95f110e13ef20"
+      "total_changes": 5,
+      "xml_hash": "9b103fd9d8e4f7a267ac72b9f455b55b3ad237d4f6a256fb4c9f8dcffe587212"
     },
     "nl-20200327-012": {
       "doc_type": "lov",
@@ -11550,13 +11593,14 @@
     },
     "nl-20200424-031": {
       "doc_type": "lov",
-      "embedding_hash": "c250217b46deaf0933dbd73e554da74b3a5ae9a99ff86279e965263d21df20ed",
-      "embedding_input_hash": "459fdc5a481591250e98abb1588c2c8868a149250c7c52acfbc58991464892f0",
+      "embedding_hash": "9bdb59b583e63bcc2235bad31fa51c1635f04880aaa0f32bf94a2b20da6050c4",
+      "embedding_input_hash": "66b0a35e9c3faf27d238c591c704ccef9ed5393fe37d21db64f95389316ce91f",
+      "embedding_sidecar_sha256": "6800b328ff0d4789321bc11438e1719ca898fcdc7e19f9f75c80596373f03a45",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/trossamfunnsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11564,8 +11608,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tros- og livssynssamfunn (trossamfunnsloven)",
-      "total_changes": 4,
-      "xml_hash": "c250217b46deaf0933dbd73e554da74b3a5ae9a99ff86279e965263d21df20ed"
+      "total_changes": 5,
+      "xml_hash": "9bdb59b583e63bcc2235bad31fa51c1635f04880aaa0f32bf94a2b20da6050c4"
     },
     "nl-20200424-032": {
       "doc_type": "lov",
@@ -11610,13 +11654,14 @@
     },
     "nl-20200507-038": {
       "doc_type": "lov",
-      "embedding_hash": "d7a709732425ac37a522aa9c92cee86a310333760d6cf6280f659bae16b43c8e",
+      "embedding_hash": "692b7b83d6f6f27da8f26f7614ed7a8127fe9ae647d67f9aba30e129c3e52675",
       "embedding_input_hash": "0eaaa70f7ad0ae604d0582d29df8581f208fbc66ba21e8b126e61777ae3e7933",
+      "embedding_sidecar_sha256": "49a5afd6736abe820479b7ed3861ad1e352708448d94511a9e5381da30bfff55",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-31",
-      "last_seen": "2026-10-31T10:11:58.876981Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/rekonstruksjonsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11624,8 +11669,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 (rekonstruksjonsloven)",
-      "total_changes": 7,
-      "xml_hash": "d7a709732425ac37a522aa9c92cee86a310333760d6cf6280f659bae16b43c8e"
+      "total_changes": 8,
+      "xml_hash": "692b7b83d6f6f27da8f26f7614ed7a8127fe9ae647d67f9aba30e129c3e52675"
     },
     "nl-20200507-040": {
       "doc_type": "lov",
@@ -11882,13 +11927,14 @@
     },
     "nl-20201218-146": {
       "doc_type": "lov",
-      "embedding_hash": "b2fb7bfaf2d0381610b60b0dd11dcb94dae281e9162b1221c599031a40e6b0be",
-      "embedding_input_hash": "956aec9b05bb400c1a01d2460d53de7550194321d5bd3ca844e8ffbd099d5842",
+      "embedding_hash": "f62c271e7d8010b404e2eb3b1ef539c12b40f8192d9eb64d012e56d81b4e7109",
+      "embedding_input_hash": "0934bf019cb054f80d75f270914a576ceb60a4acdbbce42de0dc251f7f12f247",
+      "embedding_sidecar_sha256": "3f514f037cfad8c177f78373a00f1cfecbd4c0e4a4bc368b6edfff4b4313881d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-01",
-      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/finansavtaleloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -11896,8 +11942,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansavtaler (finansavtaleloven)",
-      "total_changes": 7,
-      "xml_hash": "b2fb7bfaf2d0381610b60b0dd11dcb94dae281e9162b1221c599031a40e6b0be"
+      "total_changes": 8,
+      "xml_hash": "f62c271e7d8010b404e2eb3b1ef539c12b40f8192d9eb64d012e56d81b4e7109"
     },
     "nl-20201218-153": {
       "doc_type": "lov",
@@ -12277,16 +12323,17 @@
     },
     "nl-20211222-163": {
       "doc_type": "lov",
-      "embedding_hash": "bac0d522b53ef9ee005454d50307963c576673ef8fb046b70cded71a09181515",
-      "embedding_input_hash": "15e20383d6d1eb5ff75d53b05a01bb846ab5ce381ef48e6525afc9031cbe2b8c",
+      "embedding_hash": "7242a386f1bc20a01a1b4ee7647b587e60b791adcbee832551de5e86defb59da",
+      "embedding_input_hash": "82da2baf8e9d31edd23d9b5f0e309402f5edda35a93ce9ac408e01532c8e33a2",
+      "embedding_sidecar_sha256": "62fffa94243c2c13cfd14194139e31a9e535edeb97b806de3dc2619b36885491",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32016L0097",
         "32018L0411"
       ],
-      "last_changed": "2026-07-30",
-      "last_seen": "2026-07-30T06:25:16.446498Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/forsikringsformidlingsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -12294,8 +12341,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsformidling (forsikringsformidlingsloven)",
-      "total_changes": 5,
-      "xml_hash": "bac0d522b53ef9ee005454d50307963c576673ef8fb046b70cded71a09181515"
+      "total_changes": 6,
+      "xml_hash": "7242a386f1bc20a01a1b4ee7647b587e60b791adcbee832551de5e86defb59da"
     },
     "nl-20220128-002": {
       "doc_type": "lov",
@@ -12572,15 +12619,16 @@
     },
     "nl-20221216-091": {
       "doc_type": "lov",
-      "embedding_hash": "a0bf5f7380768ae3a20336f3479aeef4a3104718cf9d6e7b5ff634ef6eec38c2",
-      "embedding_input_hash": "d4784a3078879bfef13fca8cf35b3c002345c7f37e4cfa886a6ebb33e54793b6",
+      "embedding_hash": "45d23828ed12a952ad521e6b57bf11f5e15f76a6eee4a4fbbaab834dc47fd2a7",
+      "embedding_input_hash": "de7c737a70386e0b1e6418adb09b0300e91da5eac24e49905c4c73507dbf3b0d",
+      "embedding_sidecar_sha256": "f6cdb072294e81975be32eba4693843ececdc9523a9c806f099744a62de41ee1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32014L0017"
       ],
-      "last_changed": "2026-08-01",
-      "last_seen": "2026-08-01T06:26:11.637345Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/låneformidlingsloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -12588,8 +12636,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om låneformidling (låneformidlingsloven)",
-      "total_changes": 8,
-      "xml_hash": "a0bf5f7380768ae3a20336f3479aeef4a3104718cf9d6e7b5ff634ef6eec38c2"
+      "total_changes": 9,
+      "xml_hash": "45d23828ed12a952ad521e6b57bf11f5e15f76a6eee4a4fbbaab834dc47fd2a7"
     },
     "nl-20221220-097": {
       "doc_type": "lov",
@@ -13252,8 +13300,9 @@
     },
     "nl-20241213-076": {
       "doc_type": "lov",
-      "embedding_hash": "2faadaeabb00b9fb182d71e21c1b1c06384b20274b1e5736eef57682a5c84499",
-      "embedding_input_hash": "3b5afc94b6984cb255ce68c88f4da65fa6353bd0900af4ae91a11fc15f94eed5",
+      "embedding_hash": "22edaa5bf82e9bfc2a07058912039ebb97c360beee9cb4e04e9db16bd513c415",
+      "embedding_input_hash": "39212e9d461f409918a3e8090846ba33c0aa972c2c57b7664e6d801238b9c463",
+      "embedding_sidecar_sha256": "e3f8d0eac459ff390547fa252944bea2f1b9c107520398ce2a5754971b3f3256",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
@@ -13265,8 +13314,8 @@
         "32002L0058",
         "32015R2120"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/ekomloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13274,8 +13323,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om elektronisk kommunikasjon (ekomloven)",
-      "total_changes": 5,
-      "xml_hash": "2faadaeabb00b9fb182d71e21c1b1c06384b20274b1e5736eef57682a5c84499"
+      "total_changes": 6,
+      "xml_hash": "22edaa5bf82e9bfc2a07058912039ebb97c360beee9cb4e04e9db16bd513c415"
     },
     "nl-20241213-077": {
       "doc_type": "lov",
@@ -13397,13 +13446,14 @@
     },
     "nl-20250410-009": {
       "doc_type": "lov",
-      "embedding_hash": "8ad6d0ad5477750869089723b23769d69824a6317258194f9735508d285a0ace",
-      "embedding_input_hash": "febda43da104b0fdf946bca1628292df09cb6368ab2ced27a6b7d68ef9a70ace",
+      "embedding_hash": "86e04bad5b4ea9c0f50cef5d297fd7beb21a481dd050b1754b2e216f4325cbfe",
+      "embedding_input_hash": "db81e381691c0890e142f135b5565efb8b6a1f51c523dd1390cec315cc6d6ea8",
+      "embedding_sidecar_sha256": "38a44277727997e3c550c65210ab3521d5cbaaf758aabd91442f2415decf189d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/statsføretakslova.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -13411,8 +13461,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om statsføretak (statsføretakslova)",
-      "total_changes": 5,
-      "xml_hash": "8ad6d0ad5477750869089723b23769d69824a6317258194f9735508d285a0ace"
+      "total_changes": 6,
+      "xml_hash": "86e04bad5b4ea9c0f50cef5d297fd7beb21a481dd050b1754b2e216f4325cbfe"
     },
     "nl-20250425-012": {
       "doc_type": "lov",
@@ -14632,13 +14682,14 @@
     },
     "nl-20260619-048": {
       "doc_type": "lov",
-      "embedding_hash": "d010443f964e1de5a285d7ebc44d576a46bd3c0f1d23cdf41652330a73e7d328",
+      "embedding_hash": "ca81b239cdc97268609ffd2edd5e2783e58259a59662a524aeeea53dd0c56826",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-13",
-      "last_seen": "2026-10-13T11:40:11.848780Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/endringslov-til-konkursloven-mv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14646,8 +14697,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling)",
-      "total_changes": 3,
-      "xml_hash": "d010443f964e1de5a285d7ebc44d576a46bd3c0f1d23cdf41652330a73e7d328"
+      "total_changes": 4,
+      "xml_hash": "ca81b239cdc97268609ffd2edd5e2783e58259a59662a524aeeea53dd0c56826"
     },
     "nl-20260619-049": {
       "doc_type": "lov",
@@ -14689,13 +14740,14 @@
     },
     "nl-20260619-051": {
       "doc_type": "lov",
-      "embedding_hash": "be0b260e1d8e068e49a0d8f963e1345bf5fd8900061dc933db0059dabbcd6202",
+      "embedding_hash": "74604a8788844c7ee935902af162113e57ddfcde6e5b1f3e465a482ca4d7ff3b",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "lover/endringslov-til-politiloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14703,8 +14755,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i politiloven (generell bevæpning av politiet)",
-      "total_changes": 1,
-      "xml_hash": "be0b260e1d8e068e49a0d8f963e1345bf5fd8900061dc933db0059dabbcd6202"
+      "total_changes": 2,
+      "xml_hash": "74604a8788844c7ee935902af162113e57ddfcde6e5b1f3e465a482ca4d7ff3b"
     },
     "nl-20260619-052": {
       "doc_type": "lov",
@@ -52088,13 +52140,14 @@
     },
     "sf-20061215-1405": {
       "doc_type": "forskrift",
-      "embedding_hash": "6f6cac3c90e854dc33a6f4be6ceab9bbb199e163c4154eba08cf866553952e6a",
-      "embedding_input_hash": "0b7670de44327364c6c882cfa6ac7d8a24c7844f63025e42c42523cc8f82da7e",
+      "embedding_hash": "d84d67c0db09c05051c393c4ce9c1908140309ec6e02cee32a5f676f362b95c4",
+      "embedding_input_hash": "8751c399790b234db0ebcf8e40d343cc18da7cd7b2263864c1e139b195084046",
+      "embedding_sidecar_sha256": "1e02d81925e33175da124fa153fd19661cff1f04a9c05ee7ee613f3965b52ab3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-sanksjoner-mv-mot-nord-korea.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -52102,8 +52155,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om sanksjoner og restriktive tiltak mot Nord-Korea",
-      "total_changes": 3,
-      "xml_hash": "6f6cac3c90e854dc33a6f4be6ceab9bbb199e163c4154eba08cf866553952e6a"
+      "total_changes": 4,
+      "xml_hash": "d84d67c0db09c05051c393c4ce9c1908140309ec6e02cee32a5f676f362b95c4"
     },
     "sf-20061215-1433": {
       "doc_type": "forskrift",
@@ -53627,13 +53680,14 @@
     },
     "sf-20070629-0876": {
       "doc_type": "forskrift",
-      "embedding_hash": "ae33e14f790db8577a75d1e01a89ee9d47aaecde87d52e227b4c24c859d14671",
-      "embedding_input_hash": "6d407b154d3eddbee5e88b211bf0c04e4e769c835ff137442389a2a327d50b83",
+      "embedding_hash": "f495a1ef8e22c7560597a624c6ee10d69f7e24e756199964c841b104874afa22",
+      "embedding_input_hash": "a14b9fbc96636c75f76809eeed7e8d1473929c629f60f7060d5e2c12de96375c",
+      "embedding_sidecar_sha256": "37cce28af2d12b81588762a48f116f07c6bd4b2f7bba1f1d924d54a97242e0e3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-11",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/verdipapirforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -53641,8 +53695,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til verdipapirhandelloven (verdipapirforskriften)",
-      "total_changes": 4,
-      "xml_hash": "ae33e14f790db8577a75d1e01a89ee9d47aaecde87d52e227b4c24c859d14671"
+      "total_changes": 5,
+      "xml_hash": "f495a1ef8e22c7560597a624c6ee10d69f7e24e756199964c841b104874afa22"
     },
     "sf-20070629-0904": {
       "doc_type": "forskrift",
@@ -67421,13 +67475,14 @@
     },
     "sf-20131004-1185": {
       "doc_type": "forskrift",
-      "embedding_hash": "6663e5424993f60d2dd4cac11b5883aec76bbcacef56bb04f6bf10045ad801a9",
-      "embedding_input_hash": "c5d94b98637034aa5251ee8b31ea8d8b8aa2cc4cffe6048cb10224f775f7b868",
+      "embedding_hash": "5f5bed63e2ab770b8ba3d0b7c9c4a7ca83bd699964c127893cd942182b4ea29f",
+      "embedding_input_hash": "31d66b6cfc2711bbfa4b632c1758cc9c3a0c1203a4b2c44e5abd783cedda9d50",
+      "embedding_sidecar_sha256": "4b058bdba000d7aceaf92aa4369275682a2bab56809a7f1660d424e3c95d0c4c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-28",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -67435,8 +67490,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forsvars- og sikkerhetsanskaffelser",
-      "total_changes": 6,
-      "xml_hash": "6663e5424993f60d2dd4cac11b5883aec76bbcacef56bb04f6bf10045ad801a9"
+      "total_changes": 7,
+      "xml_hash": "5f5bed63e2ab770b8ba3d0b7c9c4a7ca83bd699964c127893cd942182b4ea29f"
     },
     "sf-20131004-1186": {
       "doc_type": "forskrift",
@@ -69511,13 +69566,14 @@
     },
     "sf-20140822-1097": {
       "doc_type": "forskrift",
-      "embedding_hash": "c30d13c69c07eba2d827aa13b7df4b556a784572c3034626ae4cbfc7c0900973",
-      "embedding_input_hash": "fd325748de95893d357f700308eae143438378a5380a4e9d83155e6279491365",
+      "embedding_hash": "bf9b93ac424a6454c5a66631cec527facfd41a8d77a53df2ddd21594087fbd3d",
+      "embedding_input_hash": "7d078d54914455af8a59b1880ad1cb2c2395012e19d8d12afb071809624f62bb",
+      "embedding_sidecar_sha256": "e19e6fad28a022515980cf5a8d0ee01fc933e9f2d2e815665238da09448e3fd1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/crr-crd-forskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -69525,8 +69581,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kapitalkrav og gjennomføring av CRR/CRD-regelverket (CRR/CRD-forskriften)",
-      "total_changes": 5,
-      "xml_hash": "c30d13c69c07eba2d827aa13b7df4b556a784572c3034626ae4cbfc7c0900973"
+      "total_changes": 6,
+      "xml_hash": "bf9b93ac424a6454c5a66631cec527facfd41a8d77a53df2ddd21594087fbd3d"
     },
     "sf-20140822-1121": {
       "doc_type": "forskrift",
@@ -93812,13 +93868,14 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "ffbaefd8411a97a277cdf6d88163083fdee4f7ddef8150980861f197fc998f0b",
-      "embedding_input_hash": "a445dd2c56c8436dd3082b714fd1c519285f3b4b235261584e546f36ece0a4d0",
+      "embedding_hash": "b1d72744642c8d7f50f5901f320b40a83f99a840dcf826452fe4ac15827523bc",
+      "embedding_input_hash": "93f7aef597f2fc91a02cf0302ed1bb7318bd3ef2dcaff7a81e4e20bbecadb471",
+      "embedding_sidecar_sha256": "ec01c21f7f9514f616aa31eabe2477d80c07d8902c8852cc1d154051f8bf9302",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93826,8 +93883,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 28,
-      "xml_hash": "ffbaefd8411a97a277cdf6d88163083fdee4f7ddef8150980861f197fc998f0b"
+      "total_changes": 29,
+      "xml_hash": "b1d72744642c8d7f50f5901f320b40a83f99a840dcf826452fe4ac15827523bc"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -94154,13 +94211,14 @@
     },
     "sf-20220520-0883": {
       "doc_type": "forskrift",
-      "embedding_hash": "e878b6cdb7120d1343f8460d05555d911ae5c2fe0d39227c5d347691d58dbec4",
-      "embedding_input_hash": "3b16636777a3d3b67e319cff80c6d0689c49a5baa393d53b7aa95860dd2eb80d",
+      "embedding_hash": "676bad8149a8a827829e03051228b129c257baafd461426129cb397a8e0e34d9",
+      "embedding_input_hash": "eaf620929946db366062e2f6c415d45feb1d680d9e5e9052f20fd560062b3cde",
+      "embedding_sidecar_sha256": "76368387963b779eafedd3011cf8cec3f2bc3cfc8cbabccf78b03043c94535ad",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/kredittopplysningsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -94168,8 +94226,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "e878b6cdb7120d1343f8460d05555d911ae5c2fe0d39227c5d347691d58dbec4"
+      "total_changes": 4,
+      "xml_hash": "676bad8149a8a827829e03051228b129c257baafd461426129cb397a8e0e34d9"
     },
     "sf-20220520-0884": {
       "doc_type": "forskrift",
@@ -98581,13 +98639,14 @@
     },
     "sf-20231115-1832": {
       "doc_type": "forskrift",
-      "embedding_hash": "142222c33f2ba28c5c8512ab43e6dd2bc902bf8d925721c8b1339a2c85e30ece",
-      "embedding_input_hash": "fecebb3e35499452509f38e62e79849217a86e1704ac0d2ef27f2482ff4f976d",
+      "embedding_hash": "59b3a5d616682a6e330a6f6025131412661cc9ec686cab00cc76e96b3edc1e9d",
+      "embedding_input_hash": "4dfa37072ae91649132405d1d8a0fb39c79373d874e2f9a4869025fbf2c90ba3",
+      "embedding_sidecar_sha256": "f7374a24272803c6aedc71deee1c5948cc96317520c4a2b4f5fa82a215eaf9a1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-friluftslivsaktivitet.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98595,18 +98654,19 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til friluftslivsaktivitet",
-      "total_changes": 4,
-      "xml_hash": "142222c33f2ba28c5c8512ab43e6dd2bc902bf8d925721c8b1339a2c85e30ece"
+      "total_changes": 5,
+      "xml_hash": "59b3a5d616682a6e330a6f6025131412661cc9ec686cab00cc76e96b3edc1e9d"
     },
     "sf-20231115-1845": {
       "doc_type": "forskrift",
-      "embedding_hash": "f1ef0746c84f09ee1cb7757975343edace455ca4797e07487dfad3469c3973b5",
-      "embedding_input_hash": "17f2f7c8beccf63b3a58584d09ac69d8487ffa48152114b1dd3a0398782efdec",
+      "embedding_hash": "44a46b22865bc00034df6b595da5a99dbb099f79e574bd630c418984f7b9294a",
+      "embedding_input_hash": "01332ebc59e4f35639644a64c46044ba976d5d92d74fee30e0157e93b9c8190f",
+      "embedding_sidecar_sha256": "1f0f5e15e687986059418db945b89c3348947692d94c452ae19fae3ca0871b27",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-besøkssenter-for-verdensarv.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98614,18 +98674,19 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til besøkssenter for verdensarv",
-      "total_changes": 4,
-      "xml_hash": "f1ef0746c84f09ee1cb7757975343edace455ca4797e07487dfad3469c3973b5"
+      "total_changes": 5,
+      "xml_hash": "44a46b22865bc00034df6b595da5a99dbb099f79e574bd630c418984f7b9294a"
     },
     "sf-20231115-1846": {
       "doc_type": "forskrift",
-      "embedding_hash": "ee30bf9249c95ed53c356e5406a43fe7e60c63f993dc41a1541f9fd82d4b682b",
-      "embedding_input_hash": "bd95649e4a4952cdfcc4721cd263a036405867ba7e8bee7a7016b7b153dc13ca",
+      "embedding_hash": "6185348ed9406d260ec173b392cc3d6bcdea189eaed8f2b02b148cdfa404772b",
+      "embedding_input_hash": "aec7a7b49a71a11bf9239f4bee205b0f5aff9adf770452a0bf21e08d4762e2d2",
+      "embedding_sidecar_sha256": "5811c40e56f2979f2b77bee5163eb7f8a1a7dd065e4b3d5ababe6514ca6ed97a",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-besøkssenter-for-natur.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98633,18 +98694,19 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til besøkssenter for natur",
-      "total_changes": 4,
-      "xml_hash": "ee30bf9249c95ed53c356e5406a43fe7e60c63f993dc41a1541f9fd82d4b682b"
+      "total_changes": 5,
+      "xml_hash": "6185348ed9406d260ec173b392cc3d6bcdea189eaed8f2b02b148cdfa404772b"
     },
     "sf-20231115-1847": {
       "doc_type": "forskrift",
-      "embedding_hash": "2fc8948f5921c1bd0753472006ea721d97cad829822228d448bdbfa4a46946ab",
-      "embedding_input_hash": "5ea6bc776ee206741e557dd5a561b6907906f9e68c54f455eb2846f3fb01b628",
+      "embedding_hash": "3e577c976b77c76743127b97cbb29245ea495b29ac1876eef2d8053a8f83b07f",
+      "embedding_input_hash": "be35006fab8866099a1ea867509e844739a94a53017eeafb0e7b3c13d2d004ab",
+      "embedding_sidecar_sha256": "5c2851260cade93693eaaca3ce66744615dc2608e771402cfc2aa4ac75cbe23c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98652,18 +98714,19 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til Nasjonale turiststier",
-      "total_changes": 5,
-      "xml_hash": "2fc8948f5921c1bd0753472006ea721d97cad829822228d448bdbfa4a46946ab"
+      "total_changes": 6,
+      "xml_hash": "3e577c976b77c76743127b97cbb29245ea495b29ac1876eef2d8053a8f83b07f"
     },
     "sf-20231115-1848": {
       "doc_type": "forskrift",
-      "embedding_hash": "dca27948231e3185f29bcbd8daa36dadfa931631e4c96373b38a8f2163eb0888",
-      "embedding_input_hash": "8c667d92d20b057491fad9b47cbce24c79c3a8e95a41a224d02e90d3f4dd4a9c",
+      "embedding_hash": "2deef909ac947d9e285931a3a7ced69cda95c4446c2e2748dccdb0e1c7511f9b",
+      "embedding_input_hash": "b749b0f303ee3239eca612668bae22fe80e7cc94f2ab1076af5603984b1395cb",
+      "embedding_sidecar_sha256": "7007a9decb2e63fe9fb5638e724affeed077030f0591ec89b0754d268d76cd6e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsområder-og-områder-vernet-som-friluftslivsområder-etter-markaloven.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98671,18 +98734,19 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til tiltak i statlig sikrede friluftslivsområder og områder vernet som friluftslivsområder etter markaloven",
-      "total_changes": 4,
-      "xml_hash": "dca27948231e3185f29bcbd8daa36dadfa931631e4c96373b38a8f2163eb0888"
+      "total_changes": 5,
+      "xml_hash": "2deef909ac947d9e285931a3a7ced69cda95c4446c2e2748dccdb0e1c7511f9b"
     },
     "sf-20231115-1887": {
       "doc_type": "forskrift",
-      "embedding_hash": "7e7e977328391e4a1c3312e5e6e4de89ce4983c523e56db6e1a6430104a96ed6",
-      "embedding_input_hash": "3dddc9f235e278cf31f9bcc649388753364aa47c5a5b2de51d5cc3dbc0639f90",
+      "embedding_hash": "6a0619dae1797fb62c13fb0dea28c4a8c5b81540331202f792b36b70b714dd69",
+      "embedding_input_hash": "d6afdad541486b28bc7811898d7f29a5e4de57dafa0540fc2b3ccd64e2762ecb",
+      "embedding_sidecar_sha256": "f99582323faa743a96168ce03605e8e44267689ec2cff393e8e93ee0a5ece170",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-å-styrke-kunnskapen-om-og-formidlingen-av-naturmangfoldet.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -98690,8 +98754,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til å styrke kunnskapen om og formidlingen av naturmangfoldet",
-      "total_changes": 4,
-      "xml_hash": "7e7e977328391e4a1c3312e5e6e4de89ce4983c523e56db6e1a6430104a96ed6"
+      "total_changes": 5,
+      "xml_hash": "6a0619dae1797fb62c13fb0dea28c4a8c5b81540331202f792b36b70b714dd69"
     },
     "sf-20231117-1856": {
       "doc_type": "forskrift",
@@ -99436,13 +99500,14 @@
     },
     "sf-20240126-0111": {
       "doc_type": "forskrift",
-      "embedding_hash": "ca62f4ace46ea4bf72e093bdbd12530baeef9bfcc759414f19064af5742c5be3",
-      "embedding_input_hash": "d062cd924fa96291011dab918956d3e123047b66a713fbc30cee19a4072881c0",
+      "embedding_hash": "c600fb30954a5d98eb4a7133f73b73d04c223854c7380b2996459315731c805b",
+      "embedding_input_hash": "2380f0b7b570caabb46ff9b8a34b6dc6310aa326ed00126b470893efa732dbcb",
+      "embedding_sidecar_sha256": "889b375fe630025b54313a1c0bafb1c1274945dc587a3aff00506abd27c34690",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/naturskadeforsikringsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -99450,8 +99515,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om naturskadeforsikring (naturskadeforsikringsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "ca62f4ace46ea4bf72e093bdbd12530baeef9bfcc759414f19064af5742c5be3"
+      "total_changes": 4,
+      "xml_hash": "c600fb30954a5d98eb4a7133f73b73d04c223854c7380b2996459315731c805b"
     },
     "sf-20240126-0114": {
       "doc_type": "forskrift",
@@ -101678,13 +101743,14 @@
     },
     "sf-20241004-2408": {
       "doc_type": "forskrift",
-      "embedding_hash": "2a07b14162986c6a42f7148eb7004f685c81e8209aec3ef55b4f05adcadb8ee0",
-      "embedding_input_hash": "81ceaee152a68319ef0481db05902e7866f92d7b26a5bf841116e09bee278187",
+      "embedding_hash": "0942d0530ac9826007d91a21b04cc21d8427de0ea534a2fc68e84b16ce0e12a6",
+      "embedding_input_hash": "b72835a4c58895f3a1d7a28d30b5672543207f09050e48971fce416ce41f0667",
+      "embedding_sidecar_sha256": "2d5f65b06c6307a3fbdfded2f4da21f6aa5971c6138b2413d584acdd8df271fc",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-tiltak-for-å-ivareta-natur.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -101692,27 +101758,28 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til tiltak for å ivareta natur",
-      "total_changes": 4,
-      "xml_hash": "2a07b14162986c6a42f7148eb7004f685c81e8209aec3ef55b4f05adcadb8ee0"
+      "total_changes": 5,
+      "xml_hash": "0942d0530ac9826007d91a21b04cc21d8427de0ea534a2fc68e84b16ce0e12a6"
     },
     "sf-20241004-2409": {
       "doc_type": "forskrift",
-      "embedding_hash": "a71a17336251ff59ceed28f91baf0b2993440d3e3e56b9a1f31733aee99fd190",
-      "embedding_input_hash": "476dced5b8196e54476f75aae58b70b694b9389fb887b870926fc822037b34e3",
+      "embedding_hash": "180ca8f3263d429632ea5905ae7c23999634c12c8783ec234d32b1d0eec17c17",
+      "embedding_input_hash": "2e604f5cf9c5d09b28840a8205022981f2822c91e846a5508ae42814ccbbfdfc",
+      "embedding_sidecar_sha256": "5129bfc9364c1a9a6bbc725ae4c52a7df2380473e1992f61ca273f842efbdfb6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
-      "markdown_path": "forskrifter/forskrift-om-tilskudd-til-vannmiljøtiltak-kalking-og-anadrom-laksefisk.md",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
+      "markdown_path": "forskrifter/forskrift-om-tilskudd-til-vannmiljøtiltak-inkludert-oslofjorden-kalking-og-anadrom-laksefisk.md",
       "removed_reason": null,
       "renderer_version": 8,
-      "slug": "forskrift-om-tilskudd-til-vannmiljøtiltak-kalking-og-anadrom-laksefisk",
+      "slug": "forskrift-om-tilskudd-til-vannmiljøtiltak-inkludert-oslofjorden-kalking-og-anadrom-laksefisk",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
-      "title": "Forskrift om tilskudd til vannmiljøtiltak, kalking og anadrom laksefisk",
-      "total_changes": 4,
-      "xml_hash": "a71a17336251ff59ceed28f91baf0b2993440d3e3e56b9a1f31733aee99fd190"
+      "title": "Forskrift om tilskudd til vannmiljøtiltak, inkludert Oslofjorden, kalking og anadrom laksefisk",
+      "total_changes": 5,
+      "xml_hash": "180ca8f3263d429632ea5905ae7c23999634c12c8783ec234d32b1d0eec17c17"
     },
     "sf-20241011-2451": {
       "doc_type": "forskrift",
@@ -104490,13 +104557,14 @@
     },
     "sf-20250606-0940": {
       "doc_type": "forskrift",
-      "embedding_hash": "727cdc68ec746bc6a5f2c0715319af78b368b80903a8a1088ed5bd217aad9b56",
-      "embedding_input_hash": "587be1769c2852cf0598ab0fde8b4fcf1e80f1993a2768e25e2da7be49f61a32",
+      "embedding_hash": "b70453297361596961718eefdc8415bc9971103ea54dceba3e17462a272425d2",
+      "embedding_input_hash": "c0c5cb7480f89a2c1966ff6bb59201cdb2262b79c69e1ae50dc03879db302d10",
+      "embedding_sidecar_sha256": "1670efceab164150ffea35dcae786ac4a8299bd9b8a9b043b2ae41444d164aa1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
       "markdown_path": "forskrifter/feltsikkerhetsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -104504,8 +104572,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om sikkerhet i felt mv. på Svalbard (feltsikkerhetsforskriften)",
-      "total_changes": 3,
-      "xml_hash": "727cdc68ec746bc6a5f2c0715319af78b368b80903a8a1088ed5bd217aad9b56"
+      "total_changes": 4,
+      "xml_hash": "b70453297361596961718eefdc8415bc9971103ea54dceba3e17462a272425d2"
     },
     "sf-20250606-1410": {
       "doc_type": "forskrift",
@@ -114199,22 +114267,23 @@
     },
     "sf-20261009-2216": {
       "doc_type": "forskrift",
-      "embedding_hash": "741def906765ea6fe146e3aac89509efcf5be616f63254fdd72e910dd2586f14",
+      "embedding_hash": "f44e8ea411450823b601670361ab2a9f4a3631675d8f890dcbd2abce6f058840",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
-      "markdown_path": "forskrifter/utvidelse-av-virkeområdet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall.md",
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
+      "markdown_path": "forskrifter/utvidelse-av-virkeområdet-til-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall.md",
       "removed_reason": null,
       "renderer_version": 8,
-      "slug": "utvidelse-av-virkeområdet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall",
+      "slug": "utvidelse-av-virkeområdet-til-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
-      "title": "Utvidelse av virkeområdet til lov 14. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
-      "total_changes": 1,
-      "xml_hash": "741def906765ea6fe146e3aac89509efcf5be616f63254fdd72e910dd2586f14"
+      "title": "Utvidelse av virkeområdet til lov 13. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
+      "total_changes": 2,
+      "xml_hash": "f44e8ea411450823b601670361ab2a9f4a3631675d8f890dcbd2abce6f058840"
     },
     "sf-20261011-2047": {
       "doc_type": "forskrift",
@@ -114788,21 +114857,21 @@
     },
     "sf-20261030-2220": {
       "doc_type": "forskrift",
-      "embedding_hash": "c81fec2c06f754336322da5207401410c0db1ffd516799c7a8c4e6276c1c28c8",
-      "embedding_input_hash": "039bbffe1567ba7adc097847e4e465db4670f38e51d1ebaede02b31022efc024",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-11-05",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-11-05T11:51:28.204067Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-å-ivareta-natur-og-friluftsformål.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-å-ivareta-natur-og-friluftsformål",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrifter om tilskuddsordninger for å ivareta natur og friluftsformål",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "c81fec2c06f754336322da5207401410c0db1ffd516799c7a8c4e6276c1c28c8"
     },
     "sf-20261102-2222": {
@@ -114845,21 +114914,21 @@
     },
     "sf-20261103-2258": {
       "doc_type": "forskrift",
-      "embedding_hash": "39509298d5b14750dfec928e189433617ed055b73bd2a157a924358a41890885",
-      "embedding_input_hash": "9df89731fbdc397ff64767b2ce95243bc407be56fb0ee1f7f0c62e56e6c173e5",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-11-07",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-11-07T10:53:44.709108Z",
       "markdown_path": "forskrifter/hpai-soneforskrift.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "hpai-soneforskrift",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift)",
-      "total_changes": 3,
+      "total_changes": null,
       "xml_hash": "39509298d5b14750dfec928e189433617ed055b73bd2a157a924358a41890885"
     },
     "sf-20261103-2260": {
@@ -114956,8 +115025,68 @@
       "title": "Vedtak om endring i våpeninstruks for politiet",
       "total_changes": 1,
       "xml_hash": "51e7c83edd3b145b0dd236d36271a755d3af3463befbb6210adc87150b2844b6"
+    },
+    "sf-20261111-2336": {
+      "doc_type": "forskrift",
+      "embedding_hash": "fcb867dcb55b039daffc4898fcee12ade2be4390ad1dfebccb20ed1a999786da",
+      "embedding_input_hash": "1892355b1c808658444c70a944d02740d91de358537c0f813314cc114c91d9ed",
+      "embedding_sidecar_sha256": "4ccac9cb916691461186520303325dce2b3b80eeab77fb8521ef2a31bbafe4c7",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
+      "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om regulering av fisket etter leppefisk i 2027",
+      "total_changes": 1,
+      "xml_hash": "fcb867dcb55b039daffc4898fcee12ade2be4390ad1dfebccb20ed1a999786da"
+    },
+    "sf-20261112-2337": {
+      "doc_type": "forskrift",
+      "embedding_hash": "fa03fa70b7ab5d268a6b0d9adc56c8bc539d30912320c7051384ff8d04fe802a",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
+      "markdown_path": "forskrifter/delegering-av-myndighet-til-å-fatte-vedtak-etter-særavgiftsloven.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "delegering-av-myndighet-til-å-fatte-vedtak-etter-særavgiftsloven",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Delegering av myndighet til å fatte vedtak etter særavgiftsloven",
+      "total_changes": 1,
+      "xml_hash": "fa03fa70b7ab5d268a6b0d9adc56c8bc539d30912320c7051384ff8d04fe802a"
+    },
+    "sf-20261113-2342": {
+      "doc_type": "forskrift",
+      "embedding_hash": "3beabb8c1c21bcdbc6bc28ef22a4b465a7e87f321bbd839f7409a3196486e6f6",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-17",
+      "last_seen": "2026-11-17T18:36:58.934886Z",
+      "markdown_path": "forskrifter/forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endringer i forskrift om forsvars- og sikkerhetsanskaffelser mv.",
+      "total_changes": 1,
+      "xml_hash": "3beabb8c1c21bcdbc6bc28ef22a4b465a7e87f321bbd839f7409a3196486e6f6"
     }
   },
-  "generated_at": "2026-11-13T11:51:22.204785Z",
+  "generated_at": "2026-11-17T18:36:58.934886Z",
   "version": 1
 }

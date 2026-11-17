@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # domstolloven-dl — Change history
 
-_7 events; doc_id `nl-19150813-005`._
+_8 events; doc_id `nl-19150813-005`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): domstolloven-dl`
+Commit: `9737eb0`.
 
 ## 2026-07-01 — Content updated
 Lines: +112 -114.

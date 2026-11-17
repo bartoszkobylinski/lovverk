@@ -1,0 +1,105 @@
+{
+  "doc_id": "nl-20050520-028",
+  "events": [
+    {
+      "commit": "19b5705",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "update(lov): straffeloven-strl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "a380042",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "update(lov): straffeloven-strl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 19,
+      "lines_removed": 9,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "47b1dc2",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 3,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "update(lov): straffeloven-strl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2bce2ac",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "update(lov): straffeloven-strl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "a078006",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 14,
+      "lines_removed": 4,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "update(lov): straffeloven-strl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-20050520-028.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/straffeloven-strl.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/straffeloven-strl.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 3089,
+      "lines_removed": 0,
+      "path": "lover/nl-20050520-028.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

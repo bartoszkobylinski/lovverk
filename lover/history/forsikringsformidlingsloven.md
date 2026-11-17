@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forsikringsformidlingsloven — Change history
 
-_5 events; doc_id `nl-20211222-163`._
+_6 events; doc_id `nl-20211222-163`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): forsikringsformidlingsloven`
+Commit: `d0d846d`.
 
 ## 2026-07-30 — Content updated
 Lines: +3 -3.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20070629-0876",
   "events": [
     {
+      "commit": "4204c28",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): verdipapirforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e79f0d6",
       "date": "2026-06-11",
       "from_path": null,

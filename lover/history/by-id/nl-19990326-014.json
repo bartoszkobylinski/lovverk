@@ -1,0 +1,94 @@
+{
+  "doc_id": "nl-19990326-014",
+  "events": [
+    {
+      "commit": "036da44",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "update(lov): skatteloven-sktl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "d4c185c",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "update(lov): skatteloven-sktl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 9,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "cef182a",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 16,
+      "lines_removed": 16,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "update(lov): skatteloven-sktl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "38f720d",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "update(lov): skatteloven-sktl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-19990326-014.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/skatteloven-sktl.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/skatteloven-sktl.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 3867,
+      "lines_removed": 0,
+      "path": "lover/nl-19990326-014.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

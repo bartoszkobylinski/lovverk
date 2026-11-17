@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # naturskadeforsikringsforskriften — Change history
 
-_3 events; doc_id `sf-20240126-0111`._
+_4 events; doc_id `sf-20240126-0111`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -2.
+Subject: `update(forskrift): naturskadeforsikringsforskriften`
+Commit: `79892d6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

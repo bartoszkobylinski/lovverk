@@ -2,6 +2,16 @@
   "doc_id": "nl-20080515-035",
   "events": [
     {
+      "commit": "95546c8",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d0dfc39",
       "date": "2026-10-01",
       "from_path": null,

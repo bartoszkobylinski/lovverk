@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # panteloven-pantel — Change history
 
-_6 events; doc_id `nl-19800208-002`._
+_7 events; doc_id `nl-19800208-002`._
+
+## 2026-11-17 — Content updated
+Lines: +10 -10.
+Subject: `update(lov): panteloven-pantel`
+Commit: `50a5f53`.
 
 ## 2026-07-01 — Content updated
 Lines: +7 -7.

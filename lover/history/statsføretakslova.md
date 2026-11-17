@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # statsføretakslova — Change history
 
-_5 events; doc_id `nl-20250410-009`._
+_6 events; doc_id `nl-20250410-009`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): statsføretakslova`
+Commit: `adce79c`.
 
 ## 2026-06-23 — Content updated
 Lines: +3 -3.

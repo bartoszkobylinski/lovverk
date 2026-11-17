@@ -1,0 +1,83 @@
+{
+  "doc_id": "nl-20190315-006",
+  "events": [
+    {
+      "commit": "4b51bd2",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/verdipapirsentralloven.md",
+      "subject": "update(lov): verdipapirsentralloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/verdipapirsentralloven.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "b91b0aa",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/verdipapirsentralloven.md",
+      "subject": "update(lov): verdipapirsentralloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2b20ce0",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 4,
+      "path": "lover/verdipapirsentralloven.md",
+      "subject": "update(lov): verdipapirsentralloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 1,
+      "path": "lover/verdipapirsentralloven.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-20190315-006.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/verdipapirsentralloven.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/verdipapirsentralloven.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 481,
+      "lines_removed": 0,
+      "path": "lover/nl-20190315-006.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

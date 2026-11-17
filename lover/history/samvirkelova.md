@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # samvirkelova — Change history
 
-_5 events; doc_id `nl-20070629-081`._
+_6 events; doc_id `nl-20070629-081`._
+
+## 2026-11-17 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): samvirkelova`
+Commit: `87c144c`.
 
 ## 2026-06-23 — Content updated
 Lines: +8 -6.

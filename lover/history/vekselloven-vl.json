@@ -2,6 +2,16 @@
   "doc_id": "nl-19320527-002",
   "events": [
     {
+      "commit": "04471c6",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): vekselloven-vl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

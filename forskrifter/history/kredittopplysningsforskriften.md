@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kredittopplysningsforskriften — Change history
 
-_3 events; doc_id `sf-20220520-0883`._
+_4 events; doc_id `sf-20220520-0883`._
+
+## 2026-11-17 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): kredittopplysningsforskriften`
+Commit: `97175f6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

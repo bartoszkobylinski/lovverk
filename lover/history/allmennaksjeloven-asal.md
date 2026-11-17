@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # allmennaksjeloven-asal — Change history
 
-_5 events; doc_id `nl-19970613-045`._
+_6 events; doc_id `nl-19970613-045`._
+
+## 2026-11-17 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): allmennaksjeloven-asal`
+Commit: `61ab000`.
 
 ## 2026-10-10 — Content updated
 Lines: +4 -4.

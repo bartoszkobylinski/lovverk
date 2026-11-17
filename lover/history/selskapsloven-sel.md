@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # selskapsloven-sel — Change history
 
-_4 events; doc_id `nl-19850621-083`._
+_5 events; doc_id `nl-19850621-083`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): selskapsloven-sel`
+Commit: `6d19b73`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

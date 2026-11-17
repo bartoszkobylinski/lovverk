@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # burettslagslova-brl — Change history
 
-_5 events; doc_id `nl-20030606-039`._
+_6 events; doc_id `nl-20030606-039`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): burettslagslova-brl`
+Commit: `2560aa6`.
 
 ## 2026-06-23 — Content updated
 Lines: +4 -4.

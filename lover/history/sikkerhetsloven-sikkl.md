@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sikkerhetsloven-sikkl — Change history
 
-_6 events; doc_id `nl-20180601-024`._
+_7 events; doc_id `nl-20180601-024`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): sikkerhetsloven-sikkl`
+Commit: `94e2904`.
 
 ## 2026-10-17 — Content updated
 Lines: +5 -7.

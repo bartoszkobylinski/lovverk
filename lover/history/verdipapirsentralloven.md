@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # verdipapirsentralloven — Change history
 
-_6 events; doc_id `nl-20190315-006`._
+_7 events; doc_id `nl-20190315-006`._
+
+## 2026-11-17 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): verdipapirsentralloven`
+Commit: `4b51bd2`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

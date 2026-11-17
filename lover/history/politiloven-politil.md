@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # politiloven-politil — Change history
 
-_9 events; doc_id `nl-19950804-053`._
+_10 events; doc_id `nl-19950804-053`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): politiloven-politil`
+Commit: `06893b3`.
 
 ## 2026-10-01 — Content updated
 Lines: +10 -10.

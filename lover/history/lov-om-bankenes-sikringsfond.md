@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # lov-om-bankenes-sikringsfond — Change history
 
-_6 events; doc_id `nl-20180323-003`._
+_7 events; doc_id `nl-20180323-003`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): lov-om-bankenes-sikringsfond`
+Commit: `14d01ff`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

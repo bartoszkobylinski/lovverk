@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsområder-og-områder-vernet-som-friluftslivsområder-etter-markaloven — Change history
 
-_4 events; doc_id `sf-20231115-1848`._
+_5 events; doc_id `sf-20231115-1848`._
+
+## 2026-11-17 — Content updated
+Lines: +27 -20.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsområder-og-områder-vernet-som-friluftslivsområder-etter-markaloven`
+Commit: `767730e`.
 
 ## 2026-11-05 — Content updated
 Lines: +16 -2.

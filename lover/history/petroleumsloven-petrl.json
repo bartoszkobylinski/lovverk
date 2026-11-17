@@ -2,6 +2,16 @@
   "doc_id": "nl-19961129-072",
   "events": [
     {
+      "commit": "8530170",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(lov): petroleumsloven-petrl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f61e48b",
       "date": "2026-06-20",
       "from_path": null,

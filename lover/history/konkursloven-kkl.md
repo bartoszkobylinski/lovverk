@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # konkursloven-kkl — Change history
 
-_7 events; doc_id `nl-19840608-058`._
+_8 events; doc_id `nl-19840608-058`._
+
+## 2026-11-17 — Content updated
+Lines: +111 -111.
+Subject: `update(lov): konkursloven-kkl`
+Commit: `295cc2c`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

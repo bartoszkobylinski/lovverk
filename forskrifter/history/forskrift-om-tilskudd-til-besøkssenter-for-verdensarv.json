@@ -2,6 +2,16 @@
   "doc_id": "sf-20231115-1845",
   "events": [
     {
+      "commit": "355c579",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 30,
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-besøkssenter-for-verdensarv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "67c18a6",
       "date": "2026-11-05",
       "from_path": null,

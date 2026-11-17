@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # verdipapirforskriften — Change history
 
-_4 events; doc_id `sf-20070629-0876`._
+_5 events; doc_id `sf-20070629-0876`._
+
+## 2026-11-17 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): verdipapirforskriften`
+Commit: `4204c28`.
 
 ## 2026-06-11 — Content updated
 Lines: +5 -5.

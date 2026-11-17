@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-tilskudd-til-tiltak-for-å-ivareta-natur — Change history
 
-_4 events; doc_id `sf-20241004-2408`._
+_5 events; doc_id `sf-20241004-2408`._
+
+## 2026-11-17 — Content updated
+Lines: +19 -17.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-tiltak-for-å-ivareta-natur`
+Commit: `4ca4c38`.
 
 ## 2026-11-05 — Content updated
 Lines: +12 -2.

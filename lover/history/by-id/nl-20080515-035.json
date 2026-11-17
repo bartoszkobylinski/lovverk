@@ -1,0 +1,160 @@
+{
+  "doc_id": "nl-20080515-035",
+  "events": [
+    {
+      "commit": "95546c8",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "d0dfc39",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 43,
+      "lines_removed": 30,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "97264b5",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 21,
+      "lines_removed": 7,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "c39767d",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "d2fedf0",
+      "date": "2026-08-15",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 985,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "a74ef1c",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 27,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "4eec5b2",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "5ff258c",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 16,
+      "lines_removed": 14,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "31115b3",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "f31983a",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 87,
+      "lines_removed": 71,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 1,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-20080515-035.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/utlendingsloven-utlendl.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/utlendingsloven-utlendl.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 2734,
+      "lines_removed": 0,
+      "path": "lover/nl-20080515-035.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

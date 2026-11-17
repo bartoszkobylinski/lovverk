@@ -2,6 +2,16 @@
   "doc_id": "nl-20180622-083",
   "events": [
     {
+      "commit": "2648ad5",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): kommuneloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "557c5e4",
       "date": "2026-06-20",
       "from_path": null,

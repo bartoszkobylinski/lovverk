@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5152 current documents_
+_5153 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -936,6 +936,7 @@ _5152 current documents_
 - [delegering-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-19-annet-og-tredje-ledd](delegering-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-19-annet-og-tredje-ledd.md) — Delegering av myndighet til Vegdirektoratet etter vegtrafikkloven § 19 annet og tredje ledd
 - [delegering-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-23-tredje-ledd](delegering-av-myndighet-til-vegdirektoratet-etter-vegtrafikkloven-23-tredje-ledd.md) — Delegering av myndighet til Vegdirektoratet etter vegtrafikkloven § 23 tredje ledd
 - [delegering-av-myndighet-til-å-fastsette-forskrift-om-prøveordning-om-teigbasert-tilskudd-for-nord-norge](delegering-av-myndighet-til-å-fastsette-forskrift-om-prøveordning-om-teigbasert-tilskudd-for-nord-norge.md) — Delegering av myndighet til å fastsette forskrift om prøveordning om teigbasert tilskudd for Nord-Norge
+- [delegering-av-myndighet-til-å-fatte-vedtak-etter-særavgiftsloven](delegering-av-myndighet-til-å-fatte-vedtak-etter-særavgiftsloven.md) — Delegering av myndighet til å fatte vedtak etter særavgiftsloven
 - [delegering-av-myndighet-til-å-samtykke-til-å-føre-hemmelig-bevis-i-sikkerhetssaker-etter-utlendingsloven](delegering-av-myndighet-til-å-samtykke-til-å-føre-hemmelig-bevis-i-sikkerhetssaker-etter-utlendingsloven.md) — Delegering av myndighet til å samtykke til å føre hemmelig bevis i sikkerhetssaker etter utlendingsloven
 - [delegering-av-myndighet-til-å-tildele-vedtakskompetanse](delegering-av-myndighet-til-å-tildele-vedtakskompetanse.md) — Delegering av myndighet til å tildele vedtakskompetanse
 - [delegering-av-myndighet-til-å-treffe-enkeltvedtak-etter-merverdiavgiftsloven](delegering-av-myndighet-til-å-treffe-enkeltvedtak-etter-merverdiavgiftsloven.md) — Delegering av myndighet til å treffe enkeltvedtak etter merverdiavgiftsloven
@@ -1955,9 +1956,9 @@ _5152 current documents_
 - [forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer](forskrift-om-endring-i-forskrift-om-tilsetningsstoffer-til-bruk-i-f-rvarer.md) — Forskrift om endring i forskrift om tilsetningsstoffer til bruk i fôrvarer
 - [forskrift-om-endring-i-forskrift-om-tilskudd-til-inkludering-av-barn-og-unge](forskrift-om-endring-i-forskrift-om-tilskudd-til-inkludering-av-barn-og-unge.md) — Forskrift om endring i forskrift om tilskudd til inkludering av barn og unge
 - [forskrift-om-endring-i-forskrift-om-tilskudd-til-veterinærreiser](forskrift-om-endring-i-forskrift-om-tilskudd-til-veterinærreiser.md) — Forskrift om endring i forskrift om tilskudd til veterinærreiser
-- [forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-å-ivareta-natur-og-friluftsformål](forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-å-ivareta-natur-og-friluftsformål.md) — Forskrift om endring i forskrifter om tilskuddsordninger for å ivareta natur og friluftsformål
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
+- [forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv](forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md) — Forskrift om endringer i forskrift om forsvars- og sikkerhetsanskaffelser mv.
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
 - [forskrift-om-energiklagenemnda](forskrift-om-energiklagenemnda.md) — Forskrift om Energiklagenemnda
 - [forskrift-om-energimerking-av-kontorutstyr](forskrift-om-energimerking-av-kontorutstyr.md) — Forskrift om gjennomføring i norsk rett av vedlegg IV nr. 30 til EØS-avtala (forordning (EF) nr. 106/2008 om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr)
@@ -3308,6 +3309,7 @@ _5152 current documents_
 - [forskrift-om-regulering-av-fisket-etter-kolmule-i-2026](forskrift-om-regulering-av-fisket-etter-kolmule-i-2026.md) — Forskrift om regulering av fisket etter kolmule i 2026
 - [forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026](forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026.md) — Forskrift om regulering av fisket etter kveite nord for 62° N i 2026
 - [forskrift-om-regulering-av-fisket-etter-leppefisk-i-2026](forskrift-om-regulering-av-fisket-etter-leppefisk-i-2026.md) — Forskrift om regulering av fisket etter leppefisk i 2026
+- [forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027](forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md) — Forskrift om regulering av fisket etter leppefisk i 2027
 - [forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026](forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026.md) — Forskrift om regulering av fisket etter lodde ved Island, Grønland og Jan Mayen i 2026
 - [forskrift-om-regulering-av-fisket-etter-makrell-i-2026](forskrift-om-regulering-av-fisket-etter-makrell-i-2026.md) — Forskrift om regulering av fisket etter makrell i 2026
 - [forskrift-om-regulering-av-fisket-etter-makrellstørje-i-2026](forskrift-om-regulering-av-fisket-etter-makrellstørje-i-2026.md) — Forskrift om regulering av fisket etter makrellstørje (Thunnus thynnus) i 2026
@@ -3835,7 +3837,7 @@ _5152 current documents_
 - [forskrift-om-tilskudd-til-utleieboliger-fra-husbanken](forskrift-om-tilskudd-til-utleieboliger-fra-husbanken.md) — Forskrift om tilskudd til utleieboliger fra Husbanken
 - [forskrift-om-tilskudd-til-utvikling-lansering-og-formidling-av-dataspill](forskrift-om-tilskudd-til-utvikling-lansering-og-formidling-av-dataspill.md) — Forskrift om tilskudd til utvikling, lansering og formidling av dataspill
 - [forskrift-om-tilskudd-til-utviklings-og-samhandlingsprosjekter-i-barnevernet](forskrift-om-tilskudd-til-utviklings-og-samhandlingsprosjekter-i-barnevernet.md) — Forskrift om tilskudd til utviklings- og samhandlingsprosjekter i barnevernet
-- [forskrift-om-tilskudd-til-vannmiljøtiltak-kalking-og-anadrom-laksefisk](forskrift-om-tilskudd-til-vannmiljøtiltak-kalking-og-anadrom-laksefisk.md) — Forskrift om tilskudd til vannmiljøtiltak, kalking og anadrom laksefisk
+- [forskrift-om-tilskudd-til-vannmiljøtiltak-inkludert-oslofjorden-kalking-og-anadrom-laksefisk](forskrift-om-tilskudd-til-vannmiljøtiltak-inkludert-oslofjorden-kalking-og-anadrom-laksefisk.md) — Forskrift om tilskudd til vannmiljøtiltak, inkludert Oslofjorden, kalking og anadrom laksefisk
 - [forskrift-om-tilskudd-til-verdensarv](forskrift-om-tilskudd-til-verdensarv.md) — Forskrift om tilskudd til verdensarv
 - [forskrift-om-tilskudd-til-verdiskaping-basert-på-naturarven](forskrift-om-tilskudd-til-verdiskaping-basert-på-naturarven.md) — Forskrift om tilskudd til verdiskaping basert på naturarven
 - [forskrift-om-tilskudd-til-verdiskaping-på-kulturmiljøområdet](forskrift-om-tilskudd-til-verdiskaping-på-kulturmiljøområdet.md) — Forskrift om tilskudd til verdiskaping på kulturmiljøområdet
@@ -4251,7 +4253,6 @@ _5152 current documents_
 - [helsearkivforskriften](helsearkivforskriften.md) — Forskrift om Norsk helsearkiv og Helsearkivregisteret (helsearkivforskriften)
 - [hjemmekontorforskriften](hjemmekontorforskriften.md) — Forskrift om arbeid som utføres i arbeidstakers hjem
 - [hjerte-og-karregisterforskriften](hjerte-og-karregisterforskriften.md) — Forskrift om innsamling og behandling av helseopplysninger i Nasjonalt register over hjerte- og karlidelser (Hjerte- og karregisterforskriften)
-- [hpai-soneforskrift](hpai-soneforskrift.md) — Forskrift om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift)
 - [hundeforskriften](hundeforskriften.md) — Forskrift om hunder
 - [husdyravlsforskriften](husdyravlsforskriften.md) — Forskrift om avl av storfe, svin, sau, geit og hest (husdyravlsforskriften)
 - [hvitvaskingsforskriften](hvitvaskingsforskriften.md) — Forskrift om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsforskriften)
@@ -5001,7 +5002,7 @@ _5152 current documents_
 - [utvidelse-av-det-geografiske-virkeområdet-for-havne-og-farvannsloven](utvidelse-av-det-geografiske-virkeområdet-for-havne-og-farvannsloven.md) — Utvidelse av det geografiske virkeområdet for havne- og farvannsloven
 - [utvidelse-av-forsøk-akuttjeneste-for-barn-og-unge-i-kristiansand](utvidelse-av-forsøk-akuttjeneste-for-barn-og-unge-i-kristiansand.md) — Samtykke etter barnevernloven § 2-4 om å forlenge og utvide forsøk om tverretatlig akuttjeneste for barn og unge i Kristiansand kommune
 - [utvidelse-av-virkeområdet-for-havne-og-farvannsloven](utvidelse-av-virkeområdet-for-havne-og-farvannsloven.md) — Utvidelse av det geografiske virkeområdet for lov 17. april 2009 nr. 19 om havner og farvann
-- [utvidelse-av-virkeområdet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall](utvidelse-av-virkeområdet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall.md) — Utvidelse av virkeområdet til lov 14. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)
+- [utvidelse-av-virkeområdet-til-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall](utvidelse-av-virkeområdet-til-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall.md) — Utvidelse av virkeområdet til lov 13. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)
 - [vaktvirksomhetsforskriften](vaktvirksomhetsforskriften.md) — Forskrift om vaktvirksomhet (vaktvirksomhetsforskriften)
 - [valgforskriften](valgforskriften.md) — Forskrift om valg til Stortinget, fylkesting og kommunestyrer (valgforskriften)
 - [valutaregisterforskriften](valutaregisterforskriften.md) — Forskrift om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterforskriften)

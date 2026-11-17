@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forsikringsavtaleloven-fal — Change history
 
-_4 events; doc_id `nl-19890616-069`._
+_5 events; doc_id `nl-19890616-069`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): forsikringsavtaleloven-fal`
+Commit: `a66f9ea`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

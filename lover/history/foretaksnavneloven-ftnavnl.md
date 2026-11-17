@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # foretaksnavneloven-ftnavnl — Change history
 
-_4 events; doc_id `nl-19850621-079`._
+_5 events; doc_id `nl-19850621-079`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): foretaksnavneloven-ftnavnl`
+Commit: `392f7d7`.
 
 ## 2026-06-20 — Content updated
 Lines: +3 -3.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # finnmarksloven — Change history
 
-_6 events; doc_id `nl-20050617-085`._
+_7 events; doc_id `nl-20050617-085`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): finnmarksloven`
+Commit: `4c99e4d`.
 
 ## 2026-10-31 — Content updated
 Lines: +3 -3.

@@ -2,6 +2,16 @@
   "doc_id": "nl-20180601-024",
   "events": [
     {
+      "commit": "94e2904",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): sikkerhetsloven-sikkl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "11dacc6",
       "date": "2026-10-17",
       "from_path": null,

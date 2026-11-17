@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dekningsloven-deknl — Change history
 
-_6 events; doc_id `nl-19840608-059`._
+_7 events; doc_id `nl-19840608-059`._
+
+## 2026-11-17 — Content updated
+Lines: +25 -25.
+Subject: `update(lov): dekningsloven-deknl`
+Commit: `becc46b`.
 
 ## 2026-07-01 — Content updated
 Lines: +7 -7.

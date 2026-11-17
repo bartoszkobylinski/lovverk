@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # foreldelsesloven-fl — Change history
 
-_6 events; doc_id `nl-19790518-018`._
+_7 events; doc_id `nl-19790518-018`._
+
+## 2026-11-17 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): foreldelsesloven-fl`
+Commit: `ac453f6`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

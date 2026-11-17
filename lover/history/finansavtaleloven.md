@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # finansavtaleloven — Change history
 
-_7 events; doc_id `nl-20201218-146`._
+_8 events; doc_id `nl-20201218-146`._
+
+## 2026-11-17 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): finansavtaleloven`
+Commit: `5beb3cc`.
 
 ## 2026-08-01 — Content updated
 Lines: +9 -9.

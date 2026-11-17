@@ -7,14 +7,19 @@ source_license: "NLOD 2.0"
 
 # kommisjonsloven-kml — Change history
 
-_4 events; doc_id `nl-19160630-001`._
+_5 events; doc_id `nl-19160630-001`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): kommisjonsloven-kml`
+Commit: `27649e1`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.
 Subject: `update(lov): kommisjonsloven-kml`
 Commit: `f209384`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

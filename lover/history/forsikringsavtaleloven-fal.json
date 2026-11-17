@@ -2,6 +2,16 @@
   "doc_id": "nl-19890616-069",
   "events": [
     {
+      "commit": "a66f9ea",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): forsikringsavtaleloven-fal",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3221d5a",
       "date": "2026-06-20",
       "from_path": null,

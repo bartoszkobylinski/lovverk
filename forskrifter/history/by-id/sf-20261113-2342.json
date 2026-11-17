@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261113-2342",
+  "events": [
+    {
+      "commit": "4c5e782",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 55,
+      "lines_removed": 0,
+      "path": "forskrifter/forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md",
+      "subject": "add(forskrift): forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

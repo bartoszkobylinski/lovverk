@@ -1,0 +1,83 @@
+{
+  "doc_id": "sf-20131004-1185",
+  "events": [
+    {
+      "commit": "f9b6203",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 2,
+      "path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "subject": "update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "f2d3764",
+      "date": "2026-07-28",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "subject": "update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "4a1b148",
+      "date": "2026-07-25",
+      "from_path": null,
+      "lines_added": 15,
+      "lines_removed": 15,
+      "path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "subject": "update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "8bbc5ea",
+      "date": "2026-06-26",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 3,
+      "path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "subject": "update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20131004-1185.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 987,
+      "lines_removed": 0,
+      "path": "forskrifter/sf-20131004-1185.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

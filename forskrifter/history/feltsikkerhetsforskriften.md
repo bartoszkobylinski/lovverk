@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # feltsikkerhetsforskriften — Change history
 
-_3 events; doc_id `sf-20250606-0940`._
+_4 events; doc_id `sf-20250606-0940`._
+
+## 2026-11-17 — Content updated
+Lines: +8 -6.
+Subject: `update(forskrift): feltsikkerhetsforskriften`
+Commit: `5d1bb04`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

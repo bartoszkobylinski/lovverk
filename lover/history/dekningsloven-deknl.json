@@ -2,6 +2,16 @@
   "doc_id": "nl-19840608-059",
   "events": [
     {
+      "commit": "becc46b",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 25,
+      "subject": "update(lov): dekningsloven-deknl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

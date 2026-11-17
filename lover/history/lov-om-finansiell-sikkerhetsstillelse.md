@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # lov-om-finansiell-sikkerhetsstillelse — Change history
 
-_4 events; doc_id `nl-20040326-017`._
+_5 events; doc_id `nl-20040326-017`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): lov-om-finansiell-sikkerhetsstillelse`
+Commit: `6a907e8`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

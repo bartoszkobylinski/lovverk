@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # gjeldsbrevlova-gbl — Change history
 
-_4 events; doc_id `nl-19390217-001`._
+_5 events; doc_id `nl-19390217-001`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): gjeldsbrevlova-gbl`
+Commit: `399cd70`.
 
 ## 2026-06-20 — Content updated
 Lines: +3 -3.

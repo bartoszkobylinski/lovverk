@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # arveloven — Change history
 
-_4 events; doc_id `nl-20190614-021`._
+_5 events; doc_id `nl-20190614-021`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): arveloven`
+Commit: `bbfd628`.
 
 ## 2026-06-20 — Content updated
 Lines: +6 -2.

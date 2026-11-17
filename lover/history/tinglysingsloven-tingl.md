@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # tinglysingsloven-tingl — Change history
 
-_4 events; doc_id `nl-19350607-002`._
+_5 events; doc_id `nl-19350607-002`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): tinglysingsloven-tingl`
+Commit: `6604d25`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

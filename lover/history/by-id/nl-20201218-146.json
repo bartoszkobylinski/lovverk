@@ -1,0 +1,94 @@
+{
+  "doc_id": "nl-20201218-146",
+  "events": [
+    {
+      "commit": "5beb3cc",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "update(lov): finansavtaleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "bafcbff",
+      "date": "2026-08-01",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 9,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "update(lov): finansavtaleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "02f4807",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "update(lov): finansavtaleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "b000972",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 2,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "update(lov): finansavtaleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-20201218-146.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/finansavtaleloven.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/finansavtaleloven.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 1605,
+      "lines_removed": 0,
+      "path": "lover/nl-20201218-146.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

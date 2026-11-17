@@ -1,0 +1,72 @@
+{
+  "doc_id": "sf-20231115-1847",
+  "events": [
+    {
+      "commit": "9476853",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 26,
+      "lines_removed": 23,
+      "path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-nasjonale-turiststier",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "e15a701",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 18,
+      "lines_removed": 2,
+      "path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-nasjonale-turiststier",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "e02accd",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
+      "subject": "update(forskrift): forskrift-om-tilskudd-til-nasjonale-turiststier",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20231115-1847.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "forskrifter/forskrift-om-tilskudd-til-nasjonale-turiststier.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 119,
+      "lines_removed": 0,
+      "path": "forskrifter/sf-20231115-1847.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

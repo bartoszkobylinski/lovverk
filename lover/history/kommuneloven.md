@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kommuneloven — Change history
 
-_4 events; doc_id `nl-20180622-083`._
+_5 events; doc_id `nl-20180622-083`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): kommuneloven`
+Commit: `2648ad5`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

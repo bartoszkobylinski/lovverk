@@ -2,6 +2,16 @@
   "doc_id": "nl-20201218-146",
   "events": [
     {
+      "commit": "5beb3cc",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): finansavtaleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "bafcbff",
       "date": "2026-08-01",
       "from_path": null,

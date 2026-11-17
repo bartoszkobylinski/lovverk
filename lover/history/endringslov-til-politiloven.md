@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-politiloven — Change history
 
-_1 events; doc_id `nl-20260619-051`._
+_2 events; doc_id `nl-20260619-051`._
+
+## 2026-11-17 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): endringslov-til-politiloven`
+Commit: `a982b38`.
 
 ## 2026-06-20 — Added to corpus
 Lines: +33 -0.

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # avtaleloven-avtl — Change history
 
-_4 events; doc_id `nl-19180531-004`._
+_5 events; doc_id `nl-19180531-004`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): avtaleloven-avtl`
+Commit: `84944ad`.
 
 ## 2026-06-20 — Content updated
 Lines: +6 -6.

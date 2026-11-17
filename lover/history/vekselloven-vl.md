@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # vekselloven-vl — Change history
 
-_5 events; doc_id `nl-19320527-002`._
+_6 events; doc_id `nl-19320527-002`._
+
+## 2026-11-17 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): vekselloven-vl`
+Commit: `04471c6`.
 
 ## 2026-07-01 — Content updated
 Lines: +6 -6.

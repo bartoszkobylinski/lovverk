@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # bustadbyggjelagslova-bbl — Change history
 
-_5 events; doc_id `nl-20030606-038`._
+_6 events; doc_id `nl-20030606-038`._
+
+## 2026-11-17 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): bustadbyggjelagslova-bbl`
+Commit: `7ed90a2`.
 
 ## 2026-06-23 — Content updated
 Lines: +6 -6.

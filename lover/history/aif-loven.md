@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # aif-loven — Change history
 
-_4 events; doc_id `nl-20140620-028`._
+_5 events; doc_id `nl-20140620-028`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): aif-loven`
+Commit: `3f2caeb`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

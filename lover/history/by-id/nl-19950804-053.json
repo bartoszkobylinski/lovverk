@@ -1,0 +1,116 @@
+{
+  "doc_id": "nl-19950804-053",
+  "events": [
+    {
+      "commit": "06893b3",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/politiloven-politil.md",
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "d59c5d3",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 10,
+      "path": "lover/politiloven-politil.md",
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "03c0305",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/politiloven-politil.md",
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 31,
+      "path": "lover/politiloven-politil.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "f1159f6",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/politiloven-politil.md",
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "a0f81e9",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/politiloven-politil.md",
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "15f7e9d",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 18,
+      "lines_removed": 14,
+      "path": "lover/politiloven-politil.md",
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/politiloven-politil.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-19950804-053.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/politiloven-politil.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/politiloven-politil.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 659,
+      "lines_removed": 0,
+      "path": "lover/nl-19950804-053.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

@@ -2,6 +2,16 @@
   "doc_id": "nl-20040326-017",
   "events": [
     {
+      "commit": "6a907e8",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): lov-om-finansiell-sikkerhetsstillelse",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "aea7e4c",
       "date": "2026-06-20",
       "from_path": null,

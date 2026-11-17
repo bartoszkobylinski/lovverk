@@ -2,6 +2,16 @@
   "doc_id": "nl-20200424-031",
   "events": [
     {
+      "commit": "b6f8b00",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): trossamfunnsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c2fc459",
       "date": "2026-06-20",
       "from_path": null,

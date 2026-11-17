@@ -1,0 +1,94 @@
+{
+  "doc_id": "nl-20200507-038",
+  "events": [
+    {
+      "commit": "6bcc753",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "update(lov): rekonstruksjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "57df2dc",
+      "date": "2026-10-31",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "update(lov): rekonstruksjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "b2a8c61",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "update(lov): rekonstruksjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "bfc7ae1",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "update(lov): rekonstruksjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "a4def7e",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 6,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "update(lov): rekonstruksjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-20200507-038.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/rekonstruksjonsloven.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/rekonstruksjonsloven.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 515,
+      "lines_removed": 0,
+      "path": "lover/nl-20200507-038.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

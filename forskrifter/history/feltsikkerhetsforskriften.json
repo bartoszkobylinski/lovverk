@@ -2,6 +2,16 @@
   "doc_id": "sf-20250606-0940",
   "events": [
     {
+      "commit": "5d1bb04",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 6,
+      "subject": "update(forskrift): feltsikkerhetsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

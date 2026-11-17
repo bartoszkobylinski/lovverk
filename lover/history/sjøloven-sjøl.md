@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # sjøloven-sjøl — Change history
 
-_5 events; doc_id `nl-19940624-039`._
+_6 events; doc_id `nl-19940624-039`._
+
+## 2026-11-17 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): sjøloven-sjøl`
+Commit: `2dc6b4e`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

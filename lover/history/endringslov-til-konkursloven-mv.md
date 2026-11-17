@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endringslov-til-konkursloven-mv — Change history
 
-_3 events; doc_id `nl-20260619-048`._
+_4 events; doc_id `nl-20260619-048`._
+
+## 2026-11-17 — Content updated
+Lines: +5 -3.
+Subject: `update(lov): endringslov-til-konkursloven-mv`
+Commit: `ded5b05`.
 
 ## 2026-10-13 — Content updated
 Lines: +38 -66.

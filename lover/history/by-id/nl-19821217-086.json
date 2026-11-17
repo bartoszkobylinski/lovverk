@@ -1,0 +1,94 @@
+{
+  "doc_id": "nl-19821217-086",
+  "events": [
+    {
+      "commit": "e550a03",
+      "date": "2026-11-17",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "update(lov): rettsgebyrloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "816e332",
+      "date": "2026-10-01",
+      "from_path": null,
+      "lines_added": 22,
+      "lines_removed": 22,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "update(lov): rettsgebyrloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "34108a1",
+      "date": "2026-09-15",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "update(lov): rettsgebyrloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 8,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "1c922d5",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "update(lov): rettsgebyrloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-19821217-086.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/rettsgebyrloven.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/rettsgebyrloven.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 367,
+      "lines_removed": 0,
+      "path": "lover/nl-19821217-086.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

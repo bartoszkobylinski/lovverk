@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # kredittopplysningsloven — Change history
 
-_4 events; doc_id `nl-20191220-109`._
+_5 events; doc_id `nl-20191220-109`._
+
+## 2026-11-17 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): kredittopplysningsloven`
+Commit: `819980e`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.
