@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2023-11-15"
-last_change_in_force: null
+last_change_in_force: "2026-11-15"
 last_updated: null
-xml_hash: "7e7e977328391e4a1c3312e5e6e4de89ce4983c523e56db6e1a6430104a96ed6"
+xml_hash: "6a0619dae1797fb62c13fb0dea28c4a8c5b81540331202f792b36b70b714dd69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,9 @@ Tilskuddsordningen skal styrke kunnskapen om og formidling av naturmangfold i No
 
 ## § 2. Kriterier for måloppnåelse
 
-Måloppnåelse vurderes med utgangspunkt i om tildelte tilskudd bidrar til å styrke kunnskapen om og formidlingen av mangfoldet av arter og naturtyper i Norge til det beste for offentligheten, forvaltningen, utdannelsessystemet og forskningen.
+Måloppnåelse for ordningen blir vurdert ut fra om tilskuddene bidrar til å styrke kunnskapen om og formidlingen av mangfoldet av arter og naturtyper i Norge til det beste for offentligheten, forvaltningen, utdannelsessystemet og forskningen.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 3. Hvem kan søke om tilskudd
 
@@ -54,14 +54,16 @@ Søknaden skal inneholde informasjon om
 2. søkerens særlige kvalifikasjoner for å gjennomføre tiltaket
 3. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
 4. søknadsbeløp
-5. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.
+5. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
 6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
-7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2023-11-15-1887/§11)
-8. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte (tiltaket).
+7. søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2023-11-15-1887/§11)
+8. søker har eller forventer å få refusjon for merverdiavgift for det omsøkte (tiltaket).
+
+For søknader der søkeren er registreringspliktig etter [lov om Enhetsregisteret § 3-1](lov/2025-06-20-105/§3-1) skal Artsdatabanken innhente relevant informasjon fra Enhetsregisteret jf. [lov om Enhetsregisteret § 2-1 fjerde ledd](lov/2025-06-20-105/§2-1/ledd/4).
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
@@ -76,53 +78,48 @@ Artsdatabanken kan i tillegg til opplysningene i søknaden:
 Søker plikter straks å melde fra til Artsdatabanken dersom
 
 1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
-2. uberettiget tilskudd er utbetalt.
+2. uberettiget tilskudd er utbetalt
+3. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Artsdatabanken avgjør om endringene kan godkjennes.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
 
 ## § 9. Behandling av søknad om tilskudd
 
 Artsdatabanken avgjør søknaden etter en vurdering av søknadsopplysningene der det legges vekt på faglig kvalitet, gjennomførbarhet og prioriteringene i utlysningen.
 
-## § 10. Klage
-
-Vedtak om tildeling av tilskudd kan påklages til Klima- og miljødepartementet på grunnlag av feil ved saksbehandlingen eller rettsanvendelsen. Det er ikke adgang til å klage over Artsdatabankens faglige skjønnsutøvelse ved tildeling av tilskudd.
-
-> **Oppheves** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
-
-## § 11. Tilskuddsmottakere som driver økonomisk aktivitet
+## § 10. Tilskuddsmottakere som driver økonomisk aktivitet
 
 Tilskudd utbetalt etter denne forskrift skal ikke kryssubsidiere økonomisk virksomhet eller vri eller true med å vri konkurransen eller påvirke samhandelen i EØS-området. Begrepet økonomisk virksomhet skal fortolkes i samsvar med foretaksdefinisjonen etter [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.
 
 Tilskuddsmottakere som har både økonomisk og ikke-økonomisk virksomhet skal ha adskilte regnskap for disse virksomhetene. Mottakerne må ha interne retningslinjer som sikrer at felleskostnader fordeles på en forholdsmessig måte mellom den økonomiske virksomheten og den ikke-økonomiske virksomheten.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026, tidligere § 11).
 
-## § 12. Rapporteringsplikter
+## § 11. Rapporteringsplikter
 
-Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Artsdatabankens elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
+Alle mottakere av tilskudd skal rapportere på bruk av tilskuddsmidlene i Artsdatabankens elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
 
-Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Artsdatabanken innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 400 000 kroner eller høyere skal delregnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
+Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Artsdatabanken innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 500 000 kroner eller høyere skal regnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
 
-Det er krav om åpen datadeling og bruk av åpne lisenser for datadeling og gjenbruk. Dersom tilskuddet brukes til innsamling av referansemateriale, skal materialet gjøres offentlig tilgjengelig i de vitenskapelige samlingene ved universitetsmuseene, se [universitets- og høyskoleloven § 1-4 (2)](lov/2005-04-01-15/§1-4/ledd/2).
+Det er krav om åpen datadeling og bruk av åpne lisenser for datadeling og gjenbruk. Dersom tilskuddet brukes til innsamling av referansemateriale, skal materialet gjøres offentlig tilgjengelig i de vitenskapelige samlingene ved universitetsmuseene, se [universitets- og høyskoleloven § 2-7 (2)](lov/2024-03-08-9/§2-7/ledd/2).
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026, tidligere § 12).
 
-## § 13. Oppfølging og kontroll
+## § 12. Oppfølging og kontroll
 
-Artsdatabanken kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsbrevet, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
+Artsdatabanken kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, og at opplysningene i søknaden er riktige. Dersom en søkerorganisasjons virksomhet er regulert gjennom egne vedtekter, kan Artsdatabanken kontrollere at organisasjonen drives i henhold til disse vedtektene.
 
 Artsdatabanken har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026, tidligere § 13).
 
-## § 14. Bortfall av tilskudd og andre reaksjonsformer
+## § 13. Bortfall av tilskudd og andre reaksjonsformer
 
-Artsdatabanken kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til organisasjoner som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
+Artsdatabanken kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til tilskuddsmottaker som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
 
 Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsbrevet, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
 
@@ -130,10 +127,10 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026, tidligere § 14).
 
-## § 15. Ikrafttredelse
+## § 14. Ikrafttredelse
 
 Forskriften trer i kraft 15. november 2023.
 
-> **Endres** ved forskrift [30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026).
+> Endret ved [forskrift 30 okt 2026 nr. 2220](forskrift/2026-10-30-2220) (i kraft 15 nov 2026, tidligere § 15).
