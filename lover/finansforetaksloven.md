@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-01-01"
 last_change_in_force: "2026-08-01"
 last_updated: "2025-01-09"
-xml_hash: "c030ca5228ede0ee4d84f6b4106fd1aaf956c3508d72d6ddd62795b2833da966"
+xml_hash: "d28851bde125b396a01b3d220bdc7788a19eda6958f5e4c6caeed1790c9518e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-01T06:26:11.637345+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -2665,7 +2665,7 @@ Etterutdanningen etter bokstav c skal dokumenteres.
 
 (3) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler om hvem som omfattes av bestemmelsene, fastsette krav til kunnskap og kompetanse og gi regler om etterutdanning.
 
-> Tilføyd ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 16-13. Produktstyring
 
@@ -3254,7 +3254,7 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som nevnt i [§ 20-1](lov/2015-04-10-17/§20-1) første ledd.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 20-3. Krisehåndteringsmyndighet
 
@@ -3872,7 +3872,7 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (5) Bestemmelsene i dette avsnittet gjelder tilsvarende ved avvikling av virksomhet som det ved krisehåndtering av et foretak ikke foreligger grunnlag for å videreføre eller overdra til et annet foretak.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### VI A. Rekkefølgen for dekning av fordringer (prioritetsreglene)
 
@@ -4409,7 +4409,7 @@ Departementet kan bestemme at det skal etableres garantiordninger for kredittfor
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som omfattes av [§ 21-7](lov/2015-04-10-17/§21-7). Det samme gjelder foretak som settes under offentlig administrasjon etter [§ 21-11](lov/2015-04-10-17/§21-11) annet ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 21-9. Soliditetssvikt
 
@@ -4502,7 +4502,7 @@ Antar Finanstilsynet at foretaket ikke kan sikres økonomisk grunnlag for videre
 
 (3) Når avviklingen er gjennomført, legger styret frem sluttregnskap med forslag til utlodning til godkjenning av Finanstilsynet, som gir påbud om kunngjøring av det, og sender melding til Foretaksregistret om at foretaket skal slettes fra registeret.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### III. Særskilte regler for forsikrings- og pensjonsforetak
 
