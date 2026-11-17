@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "2faadaeabb00b9fb182d71e21c1b1c06384b20274b1e5736eef57682a5c84499"
+xml_hash: "22edaa5bf82e9bfc2a07058912039ebb97c360beee9cb4e04e9db16bd513c415"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32002D0676"
@@ -224,7 +224,7 @@ Etter påleggets utløp er pålagt drift etter tredje ledd uten innvirkning på 
 
 Departementet kan fatte enkeltvedtak om innholdet i planene etter første ledd, herunder pålegge tilbyder å utarbeide en ny plan, og kan i særlige tilfeller unnta tilbyder fra plikten til å utarbeide planer. Departementet kan gi forskrift om planer etter første ledd, om innholdet i planene, om unntak fra plikten til å utarbeide planer, og om sikring av fortsatt levering i situasjoner etter tredje ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Kapittel 3. Sikkerhet og kommunikasjonsvern
 
