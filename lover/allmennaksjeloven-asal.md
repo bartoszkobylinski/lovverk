@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1999-01-01"
 last_change_in_force: "2025-06-20"
 last_updated: "2026-10-09"
-xml_hash: "1cc16840634b93df60a615c676e9dbb63980ff6675d0c4ff8736e05c8ee5efc1"
+xml_hash: "1ba351d57d0bb2c6982192a5c88833b4071a8ad041c1eddd1c81afc43742773c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-10T10:32:55.643126+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1408,7 +1408,7 @@ Godtgjørelse til styremedlemmer, varamedlemmer og observatører fastsettes av g
 
 (2) Under konkursbehandling representerer styret selskapet som konkursskyldner.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 6-19. Styrets saksbehandling
 
@@ -3087,7 +3087,7 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov/19
 
 (4) Er selskapet oppløst på grunn av bestemmelsene i lov eller vedtekter, kan boet bare leveres tilbake til selskapet etter [konkursloven § 136](lov/1984-06-08-58/§136) dersom oppløsningsgrunnen ikke lenger er til stede. § 16-13 annet ledd gjelder tilsvarende.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 mars 2019 iflg. [res. 14 des 2018 nr. 1922](forskrift/2018-12-14-1922)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 mars 2019 iflg. [res. 14 des 2018 nr. 1922](forskrift/2018-12-14-1922)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### II. Oppløsning og avvikling etter kjennelse fra tingretten
 
@@ -3125,7 +3125,7 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov/19
 
 (3) Dersom vesentlige samfunnsmessige hensyn tilsier det, kan Kongen av eget tiltak treffe vedtak om at selskapet tillates å drive videre, og at saken likevel ikke skal oversendes tingretten for tvangsoppløsning, men at selskapet skal gis en ytterligere frist før tvangsoppløsning gjennomføres. Kongen skal treffe vedtak om at selskapet i så fall skal betale en løpende tvangsmulkt til staten fra en frist som fastsettes og frem til forholdet er rettet.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 des 2006 nr. 88](lov/2006-12-15-88) (ikr. 9 feb 2007 iflg. [res. 9 feb 2007 nr. 154](forskrift/2007-02-09-154)), [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 des 2006 nr. 88](lov/2006-12-15-88) (ikr. 9 feb 2007 iflg. [res. 9 feb 2007 nr. 154](forskrift/2007-02-09-154)), [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 16-18. Avvikling av selskapet
 
@@ -3145,7 +3145,7 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov/19
 
 (3) Går dommen ut på oppløsning av selskapet, gjelder [§ 16-18](lov/1997-06-13-45/§16-18) tilsvarende. Dommen har virkning som en kjennelse om konkursåpning etter [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii).
 
-> Endret ved lov [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Kapittel 17. Erstatning mv
 
@@ -3167,7 +3167,7 @@ Erstatningsansvar etter [§ 17-1](lov/1997-06-13-45/§17-1) kan lempes etter [lo
 
 (2) Første ledd gjelder tilsvarende for inngåelse av forhåndsavtale mellom selskapet og noen som er nevnt i [§ 17-1](lov/1997-06-13-45/§17-1) som regulerer eller begrenser deres erstatningsansvar.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 17-4. Krav på selskapets vegne
 
