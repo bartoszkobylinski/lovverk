@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2020-01-01"
 last_updated: "2021-08-26"
-xml_hash: "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5"
+xml_hash: "8c6e090a27bb46a28ef28252fd26ce652c9a8a293dd0b771c175b1505848e353"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32002L0047"
@@ -93,7 +93,7 @@ En sikkerhetsstillelse kan ikke omstøtes alene på det grunnlag at den er stilt
 
 Med felles gjeldsforfølgning menes gjeldsforhandling etter [konkursloven](lov/1984-06-08-58), konkurs og offentlig administrasjon.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## § 6. Sluttavregning
 
