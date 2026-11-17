@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "8ad6d0ad5477750869089723b23769d69824a6317258194f9735508d285a0ace"
+xml_hash: "86e04bad5b4ea9c0f50cef5d297fd7beb21a481dd050b1754b2e216f4325cbfe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -396,7 +396,7 @@ Føretaksmøtet fastset godtgjersle til styremedlemer, varamedlemer og observat�
 
 (2) Under konkurshandsaming representerer styret føretaket som konkursskuldnar.
 
-> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 5-17. Sakshandsaminga til styret
 
