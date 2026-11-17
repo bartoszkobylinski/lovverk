@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-06-21"
-xml_hash: "69837cb3e44e5dc12c3b645b3e3aeb64b335e4e480f6eb740938afc205c718f0"
+xml_hash: "f0deede37a62e1909a46253090e3caab666e8776b2134a8fafac67d6a3fa4022"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ eu_basis: []
 
 (6) Konkurs eller akkordforhandlinger kan ikke åpnes i Bankenes sikringsfond.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## § 2. Oppgaver
 
