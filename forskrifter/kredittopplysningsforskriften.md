@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "e878b6cdb7120d1343f8460d05555d911ae5c2fe0d39227c5d347691d58dbec4"
+xml_hash: "676bad8149a8a827829e03051228b129c257baafd461426129cb397a8e0e34d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,6 +66,8 @@ Kredittopplysninger fra kilder som ikke er offentlig tilgjengelige:
 3. frivillig registrering av sperre mot kredittvurdering
 4. kredittrating av enkeltpersonforetak.
 
+> **Endres** ved forskrift [13 nov 2026 nr. 2342](forskrift/2026-11-13-2342) (i kraft 1 jan 2027).
+
 ## § 3. Opplysninger om juridiske personer som kan behandles i kredittopplysningsvirksomhet
 
 I kredittopplysningsvirksomhet kan det registreres og behandles opplysninger om juridiske personer som nevnt i denne bestemmelsen.
@@ -107,6 +109,8 @@ Kredittopplysninger fra kilder som ikke er offentlig tilgjengelige:
 9. informasjon om betalte fakturaer
 10. kredittvurderingen
 11. frivillig registrering av sperre mot kredittvurdering.
+
+> **Endres** ved forskrift [13 nov 2026 nr. 2342](forskrift/2026-11-13-2342) (i kraft 1 jan 2027).
 
 ## § 4. Kilder opplysninger kan hentes fra
 
