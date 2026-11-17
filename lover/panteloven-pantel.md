@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1981-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "e39807518da1af0c09552b3844488605751b7254565ac30e53a11e959ebb31a1"
+xml_hash: "716d411b96d33a37ce9b6943271a98e93c5d790c50cf65a66f5f5c318f260be5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,7 +80,7 @@ Når ikke annet følger av stiftelsesgrunnlaget for panteretten, omfatter panter
 
 Panteretten etter første ledd bokstav b for renter opptjent senere enn to år før det er åpnet gjeldsforhandling etter gjeldsordningsloven hos eieren består inntil to år etter at gjeldsordningsperioden er utløpt. Dersom panthaver begjærer tvangsdekning i gjeldsordningsperioden, eller etter opphevelse av en gjeldsordning, omfatter panteretten både renter opptjent senere enn to år før det ble åpnet gjeldsforhandling, og renter opptjent senere enn to år før begjæringen om tvangsdekning, forutsatt at dekning gjennomføres.
 
-> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-6. Avkastning av pantet.
 
@@ -124,7 +124,7 @@ Panteretten etter første ledd bokstav b for renter opptjent senere enn to år f
 
 (3) Før innfrielse kan kreves etter reglene i første ledd bokstav d eller e, skal panthaveren gi eieren og pantsetteren varsel med en rimelig frist til å rette på forholdet, dersom det ikke er forbundet med fare å vente.
 
-> Endret ved [lover 4 mars 1983 nr. 4](lov/1983-03-04-4), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 4 mars 1983 nr. 4](lov/1983-03-04-4), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-10. Avhendelse og pantsettelse av panterett.
 
@@ -158,7 +158,7 @@ Panteretten etter første ledd bokstav b for renter opptjent senere enn to år f
 
 Når to eller flere har panterett i samme formuesgode, går den retten foran som først ble påheftet, om ikke annet er avtalt eller følger av reglene om rettsvern.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 1-14. Utløsning.
 
@@ -276,7 +276,7 @@ Med de unntak som er fastsatt i dette kapittel eller ved særskilt lov, kan avta
 
 Panterett etter [§ 3-4](lov/1980-02-08-2/§3-4), [§§ 3-8](lov/1980-02-08-2/§3-8) til [3-10](lov/1980-02-08-2/§3-10) og [§ 3-11](lov/1980-02-08-2/§3-11) til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 går foran alle andre heftelser i formuesgodene pantsettelsen omfatter. Panteretten kan bare benyttes til å dekke slike lån.
 
-> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Oppheves** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Oppheves** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 3-2. Håndpant.
 
@@ -497,7 +497,7 @@ Salgspant faller bort dersom det ved bearbeidelse eller påkostning har funnet s
 
 (2) Fristene i første ledd avbrytes ved at begjæring om tvangssalg eller tilbakelevering etter tvangsfullbyrdelsesloven kommer inn til namsmyndigheten eller ved at det blir reist søksmål for å kreve tingen utlevert. Fristene avbrytes også når det er åpnet gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller konkurs hos skyldneren og salgspant uttrykkelig påberopes i fordringsanmeldelsen. Ved gjeldsordning etter gjeldsordningsloven skjer ingen foreldelse i gjeldsordningsperioden. Bestemmelsene i [lov av 18. mai 1979 nr. 18](lov/1979-05-18-18) om foreldelse av fordringer [§ 3](lov/1979-05-18-18/§3) nr. 3, [§ 10](lov/1979-05-18-18/§10), [§ 21](lov/1979-05-18-18/§21) nr. 1 og [§ 22](lov/1979-05-18-18/§22) nr. 1, jfr. [§ 15](lov/1979-05-18-18/§15) nr. 1 og 2 og [§ 17](lov/1979-05-18-18/§17) nr. 1 og 2, gjelder tilsvarende så langt de passer.
 
-> Endret ved [lover 21 juni 1985 nr. 82](lov/1985-06-21-82), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 21 juni 1985 nr. 82](lov/1985-06-21-82), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 3-22. Rett som likestilles med salgspant.
 
@@ -617,7 +617,7 @@ Bestemmelsene i [§ 4-6](lov/1980-02-08-2/§4-6) annet ledd, [§ 4-7](lov/1980-0
 
 (4) [§ 3-1 a](lov/1980-02-08-2/§3-1a) gjelder tilsvarende for panterett etter denne paragrafen til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19.
 
-> Endret ved [lover 20 juli 1991 nr. 68](lov/1991-07-20-68), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 20 juli 1991 nr. 68](lov/1991-07-20-68), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### Patenter, varemerker og planteforedlerretter.
 
@@ -874,7 +874,7 @@ Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, fors
 
 (9) Konkursboet har ikke lovbestemt pant etter første ledd i formuesgoder som inngår i en finansiell sikkerhetsstillelse etter [lov 26. mars 2004 nr. 17](lov/2004-03-26-17) om finansiell sikkerhetsstillelse.
 
-> Tilføyd ved [lov 23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 juli 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)), endret ved [lover 10 juni 2005 nr. 43](lov/2005-06-10-43) (ikr. 1 jan 2006 iflg. [res. 16 des 2005 nr. 1526](forskrift/2005-12-16-1526)), [16 mars 2007 nr. 11](lov/2007-03-16-11) (ikr. 1 juni 2007 iflg. [res. 25 mai 2007 nr. 552](forskrift/2007-05-25-552)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334), se endringsloven del VI for overgangsregel). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 juli 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)), endret ved [lover 10 juni 2005 nr. 43](lov/2005-06-10-43) (ikr. 1 jan 2006 iflg. [res. 16 des 2005 nr. 1526](forskrift/2005-12-16-1526)), [16 mars 2007 nr. 11](lov/2007-03-16-11) (ikr. 1 juni 2007 iflg. [res. 25 mai 2007 nr. 552](forskrift/2007-05-25-552)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334), se endringsloven del VI for overgangsregel). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 6-5. Lovbestemt pant for lån under rekonstruksjonsforhandling
 
@@ -882,7 +882,7 @@ Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, fors
 
 (2) Reglene i denne paragrafen gjelder med de begrensningene som følger av overenskomst med fremmed stat. [§ 6-4](lov/1980-02-08-2/§6-4) annet til syvende ledd og niende ledd gjelder tilsvarende.
 
-> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Oppheves** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Oppheves** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Kap. 7. Ikrafttredelse, overgangsbestemmelser, opphevelse og endringer av andre lover.
 
