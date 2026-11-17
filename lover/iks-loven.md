@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-01-01"
 last_change_in_force: "2024-01-01"
 last_updated: "2021-07-07"
-xml_hash: "6746ac1eeb4fd5ab08436e586079b5954c106e0f9bd315a3dbeba6aa80c31c52"
+xml_hash: "bb04f89af401c15ebc829e0b178a37f280a048bf539b35a87f5c02f30b7bd69a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -311,7 +311,7 @@ Selskapet skal forvalte finansielle midler og gjeld på en måte som ikke inneb�
 
 Selskapets eiendeler kan ikke være gjenstand for utlegg eller arrest. Konkurs og gjeldsforhandling etter [lov av 8. juni 1984 nr. 58](lov/1984-06-08-58) om gjeldsforhandling og konkurs kan ikke åpnes i selskapet.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## § 24. Betalingsvansker
 
