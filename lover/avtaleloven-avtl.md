@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1918-07-03"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-06-15"
-xml_hash: "b12f1aadc813125c7d7256d010f9dc6d77b4a87227b87a5ded8f1eb7ca190a5e"
+xml_hash: "041d2b65750428dff9e0e3b75438c77bdd0170acc68bfd1fca70d43f928e0061"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "31993L0013"
@@ -163,7 +163,7 @@ Kommer fullmaktsgiveren under konkurs, blir en rettshandel, som fullmektigen der
 
 Reglene i første ledd gjelder tilsvarende når det er nedlagt rådighetsforbud overfor fullmaktsgiveren etter [§ 75 i lov om gjeldsforhandling og konkurs](lov/1984-06-08-58/§75).
 
-> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 24
 
