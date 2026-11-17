@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-10-01"
 last_updated: "2026-08-13"
-xml_hash: "441eed2686f025f6c296f93bb3daa28b5eb39a8d4d1f146f3237bf1216b9bd41"
+xml_hash: "5319b3d8149b8a9258351f1e0cc52786eef5bced87b905c4e7b34197e6719584"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-01T10:53:16.759325+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -1155,7 +1155,7 @@ Nemndas møter foregår for lukkede dører. Enhver som deltar ved behandlingen a
 
 Kongen kan gi forskrift med nærmere bestemmelser om oppnevning av nemndmedlemmer og om vilkårene for å bli løst fra vervet.
 
-> Endret ved lover [13 apr 2012 nr. 15](lov/2012-04-13-15) (ikr. 1 mai 2012 iflg. [res. 13 apr 2012 nr. 327](forskrift/2012-04-13-327)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [12 juni 2020 nr. 66](lov/2020-06-12-66) (ikr. 12 juni 2020 iflg. [res. 12 juni 2020 nr. 1185](forskrift/2020-06-12-1185)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [2 juni 2023 nr. 20](lov/2023-06-02-20) (i kraft 1 jan 2025 iflg. [res. 15 sep 2023 nr. 2100](forskrift/2023-09-15-2100)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [13 apr 2012 nr. 15](lov/2012-04-13-15) (ikr. 1 mai 2012 iflg. [res. 13 apr 2012 nr. 327](forskrift/2012-04-13-327)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [12 juni 2020 nr. 66](lov/2020-06-12-66) (ikr. 12 juni 2020 iflg. [res. 12 juni 2020 nr. 1185](forskrift/2020-06-12-1185)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [2 juni 2023 nr. 20](lov/2023-06-02-20) (i kraft 1 jan 2025 iflg. [res. 15 sep 2023 nr. 2100](forskrift/2023-09-15-2100)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 78. Avgjørelsesformer mv. i Utlendingsnemnda
 
