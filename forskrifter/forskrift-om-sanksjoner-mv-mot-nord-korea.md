@@ -10,12 +10,12 @@ ministry:
   - "Utenriksdepartementet"
 date_in_force: "2006-12-15"
 last_change_in_force: "2025-01-01"
-last_updated: "2026-01-09"
-xml_hash: "6f6cac3c90e854dc33a6f4be6ceab9bbb199e163c4154eba08cf866553952e6a"
+last_updated: "2026-11-13"
+xml_hash: "d84d67c0db09c05051c393c4ce9c1908140309ec6e02cee32a5f676f362b95c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2764,7 +2764,7 @@ FNs liste over personer og enheter identifisert av FNs sikkerhetsråds komité e
 
 The vessels referred to in Article 34(2) and point (g) of Article 39(1) and applicable measures as specified by the Sanctions Committee
 
-FNs liste over fartøy identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsresolusjon 1718 (2006), er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1718/materials/list-of-designated-vessels).
+FNs liste over fartøy identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsresolusjon 1718 (2006), er tilgjengelig [her](https://main.un.org/securitycouncil/en/sanctions/1718/materials/1718-Designated-Vessels-List).
 
 ### Vedlegg XV
 
