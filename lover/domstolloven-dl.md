@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "2020dd28864a2a80ba30bf79aff7c144b966c7a8c615dcdf93510ba34c96f879"
+xml_hash: "7c364b2c1f9a00b7437b5bf749bc2b3ce6cc1ad1fa126df8af688f63b6438374"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -852,7 +852,7 @@ I tillegg må vedkommende
 4. stå innført i folkeregisteret som bosatt i kommunen på valgdagen, og
 5. være statsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste år før valgdagen.
 
-> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [22 mai 1981 nr. 27](lov/1981-05-22-27), [23 juni 1995 nr. 34](lov/1995-06-23-34), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [22 mai 1981 nr. 27](lov/1981-05-22-27), [23 juni 1995 nr. 34](lov/1995-06-23-34), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ### § 71
 
