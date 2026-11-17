@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2007-11-01"
-last_change_in_force: "2026-06-08"
+last_change_in_force: "2026-11-12"
 last_updated: "2024-11-06"
-xml_hash: "ae33e14f790db8577a75d1e01a89ee9d47aaecde87d52e227b4c24c859d14671"
+xml_hash: "f495a1ef8e22c7560597a624c6ee10d69f7e24e756199964c841b104874afa22"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,13 +104,13 @@ Finanstilsynet kan i forskrift fastsette nærmere bestemmelser om likeverdighete
 
 (14) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2020/1406](eu/32020r1406) (om tekniske gjennomføringsstandarder om prosedyrer og skjemaer til bruk for informasjonsutveksling mellom kompetente myndigheter, ESMA, Kommisjonen og andre enheter som omtalt i artikkel 24 (2) og 25 i markedsmisbruksforordningen) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
-(15) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2022/1210](eu/32022r1210) (om fastsettelse av tekniske gjennomføringsstandarder for anvendelse av markedsmisbruksforordningen med hensyn til formatet på innsidelister og oppdateringer av disse) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(15) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2026/1291](eu/32026r1291) (om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av forordning [(EU) nr. 596/2014](eu/32014r0596) med hensyn til formatet på innsidelister) gjelder som forskrift med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
 
 (16) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2021/1783](eu/32021r1783) (om fastsettelse av tekniske gjennomføringsstandarder som inneholder en mal for samarbeidsavtaler med tredjeland) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
 (17) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2022/1959](eu/32022r1959) (om fastsettelse av tekniske reguleringsstandarder som inneholder en kontraktsmal for likviditetskontrakter for utstedere som har finansielle instrumenter opptatt til handel på SMB-vekstmarkeder) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [26 nov 2020 nr. 2552](forskrift/2020-11-26-2552) (i kraft 1 mars 2021), [2 mai 2023 nr. 639](forskrift/2023-05-02-639) (i kraft 3 mai 2023), [30 mai 2023 nr. 748](forskrift/2023-05-30-748) (i kraft 1 juni 2023), [6 feb 2024 nr. 193](forskrift/2024-02-06-193), [16 juni 2025 nr. 1146](forskrift/2025-06-16-1146).
+> Endret ved forskrifter [26 nov 2020 nr. 2552](forskrift/2020-11-26-2552) (i kraft 1 mars 2021), [2 mai 2023 nr. 639](forskrift/2023-05-02-639) (i kraft 3 mai 2023), [30 mai 2023 nr. 748](forskrift/2023-05-30-748) (i kraft 1 juni 2023), [6 feb 2024 nr. 193](forskrift/2024-02-06-193), [16 juni 2025 nr. 1146](forskrift/2025-06-16-1146), [12 nov 2026 nr. 2340](forskrift/2026-11-12-2340).
 
 ### § 3-2. Redegjørelse for utsettelse av offentliggjøring av innsideinformasjon
 
