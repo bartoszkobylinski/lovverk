@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-08-23"
-xml_hash: "523cf6c91769f73cf310e226ba5df27a6d6368d5a36170f887266b75111eed25"
+xml_hash: "1af08b7ea5928f319888fd257218a5706237c613dca6f19196ba3744bccc5260"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-31T10:11:58.876981+00:00"
+retrieved_at: "2026-11-17T18:36:58.934886+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Konkurs og gjeldsforhandling etter konkursloven kan ikke åpnes i foretak. Foret
 
 Foretakene regnes som organer etter [arkivlova § 2 bokstav h](lov/2025-06-20-96/§2/bokstav/h).
 
-> Endret ved [lover 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)), [10 juni 2022 nr. 37](lov/2022-06-10-37), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)), [10 juni 2022 nr. 37](lov/2022-06-10-37), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](forskrift/2026-11-13-2341)).
 
 ## Kapittel 2. Partsstilling og ansvar
 
