@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261116-2362",
+  "events": [
+    {
+      "commit": "1dc0e10",
+      "date": "2026-11-18",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "path": "forskrifter/endr-i-merverdiavgiftsforskriften.md",
+      "subject": "add(forskrift): endr-i-merverdiavgiftsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # merverdiavgiftsforskriften — Change history
 
-_4 events; doc_id `sf-20091215-1540`._
+_5 events; doc_id `sf-20091215-1540`._
+
+## 2026-11-18 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): merverdiavgiftsforskriften`
+Commit: `88af4f0`.
 
 ## 2026-07-01 — Content updated
 Lines: +17 -3.

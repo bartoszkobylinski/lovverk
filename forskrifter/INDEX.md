@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5153 current documents_
+_5155 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1276,6 +1276,7 @@ _5153 current documents_
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2](endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2.md) — Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementene
 - [endr-i-departementstrukturen-fra-01-01-2010](endr-i-departementstrukturen-fra-01-01-2010.md) — Endringer i departementstrukturen fra 1. januar 2010
+- [endr-i-dyreimportforskriften](endr-i-dyreimportforskriften.md) — Forskrift om endring i dyreimportforskriften for å gjennomføre endringer av tredjelandslista, forordning (EU) 2026/2503
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
 - [endr-i-fastlegeforskriften](endr-i-fastlegeforskriften.md) — Forskrift om endring i forskrift om fastlegeordning i kommunene
 - [endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten](endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten.md) — Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten
@@ -1299,6 +1300,7 @@ _5153 current documents_
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
+- [endr-i-merverdiavgiftsforskriften](endr-i-merverdiavgiftsforskriften.md) — Forskrift om endring i merverdiavgiftsforskriften
 - [endr-i-pasientreiseforskriften](endr-i-pasientreiseforskriften.md) — Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)
 - [endr-i-personopplysningsforskriften](endr-i-personopplysningsforskriften.md) — Forskrift om endringer i personopplysningsforskriften
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)

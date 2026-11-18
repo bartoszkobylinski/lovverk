@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # dyreimportforskriften — Change history
 
-_29 events; doc_id `sf-20220406-0633`._
+_30 events; doc_id `sf-20220406-0633`._
+
+## 2026-11-18 — Content updated
+Lines: +8 -4.
+Subject: `update(forskrift): dyreimportforskriften`
+Commit: `7bff74c`.
 
 ## 2026-11-17 — Content updated
 Lines: +15 -7.
