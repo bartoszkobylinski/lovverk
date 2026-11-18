@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Klima- og miljødepartementet"
 date_in_force: "2017-04-18"
-last_change_in_force: "2026-10-09"
+last_change_in_force: "2026-11-11"
 last_updated: "2024-05-08"
-xml_hash: "78de32d004082e7485dd03319edd9e555223370b68943d5f76e767aa10a124c3"
+xml_hash: "9f181feff560191a73e68de6bc8f3588b43ead703a2a2eb0992c2c8ac37f3a63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-14T09:26:38.661084+00:00"
+retrieved_at: "2026-11-18T12:44:50.155955+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,8 +46,9 @@ Forordning [(EU) nr. 528/2012](eu/32012r0528) om tilgjengeliggjøring på marked
 15. forordning [(EU) 2024/1290](eu/32024r1290)
 16. forordning [(EU) 2024/1398](eu/32024r1398)
 17. forordning [(EU) 2026/1165](eu/32026r1165)
+18. forordning [(EU) 2026/447](eu/32026r0447)
 
-> Endret ved [forskrifter 7 feb 2020 nr. 120](forskrift/2020-02-07-120), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409), [29 okt 2021 nr. 3146](forskrift/2021-10-29-3146), [29 april 2022 nr. 811](forskrift/2022-04-29-811), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [9 okt 2026 nr. 2041](forskrift/2026-10-09-2041).
+> Endret ved [forskrifter 7 feb 2020 nr. 120](forskrift/2020-02-07-120), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409), [29 okt 2021 nr. 3146](forskrift/2021-10-29-3146), [29 april 2022 nr. 811](forskrift/2022-04-29-811), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [9 okt 2026 nr. 2041](forskrift/2026-10-09-2041), [11 nov 2026 nr. 2360](forskrift/2026-11-11-2360).
 
 ### § 1-2. Rettsakter om at aktive stoffer godkjennes eller ikke godkjennes
 
@@ -1313,8 +1314,12 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 | Etofenproks | 80844-07-1 | 8, 18 | 11.09.2026[^1] | [(EU) 2026/378](eu/32026*0378) | Nr. 12zzzzzzzzzzzzzi |
 | Formaldehyd som frigjøres fra reaksjonsproduktene av paraformaldehyd og 2-hydroksypropylamin (forhold 1:1) | – | 6 | 09.04.2027[^1] | [(EU) 2026/599](eu/32026*0599) | Nr. 12zzzzzzzzzzzzzl |
 | Cypermetrin | 52315-07-8 | 8 | 15.06.20271 | [(EU) 2026/1112](eu/32026d1112) | Nr. 12zzzzzzzzzzzzzp |
+| Terbutryn | 886-50-0 | 9 | 23.07.2027[^1] | [(EU) 2026/1420](eu/32026d1420) | Nr. 12zzzzzzzzzzzzzs |
+| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 9 | 23.07.2027[^1] | [(EU) 2026/1420](eu/32026d1420) | Nr. 12zzzzzzzzzzzzzs |
+| Tetrahydro-1,3,4,6-tetrakis(hydroksymetyl)imidazo[4,5-d]imidazol-2,5(1H,3H)-dion (TMAD) | 5395-50-6 | 12 | 23.07.2027[^1] | [(EU) 2026/1420](eu/32026d1420) | Nr. 12zzzzzzzzzzzzzs |
+| Poly(dimetyloktadekyl[3-(trihydroksysilyl)propyl]ammoniumklorid) dannet fra dimetyloktadekyl[3-(trimetoksysilyl)propyl]ammoniumklorid | 27668-52-6 | 2, 7, 9 | 23.07.2027[^1] | [(EU) 2026/1424](eu/32026d1424) | Nr. 12zzzzzzzzzzzzzt |
 
-> Endret ved [forskrifter 29 sep 2017 nr. 1574](forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](forskrift/2017-12-21-2363), [21 sep 2018 nr. 1402](forskrift/2018-09-21-1402), [8 feb 2019 nr. 90](forskrift/2019-02-08-90), [8 mai 2019 nr. 589](forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 747](forskrift/2019-06-14-747), [30 april 2020 nr. 939](forskrift/2020-04-30-939), [5 feb 2021 nr. 478](forskrift/2021-02-05-478), [23 april 2021 nr. 1393](forskrift/2021-04-23-1393), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409), [18 mars 2022 nr. 425](forskrift/2022-03-18-425), [28 okt 2022 nr. 1911](forskrift/2022-10-28-1911), [28 april 2023 nr. 650](forskrift/2023-04-28-650), [13 juni 2023 nr. 858](forskrift/2023-06-13-858), [22 sep 2023 nr. 1485](forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](forskrift/2024-02-02-206), [15 mars 2024 nr. 495](forskrift/2024-03-15-495), [26 april 2024 nr. 719](forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [14 mars 2025 nr. 627](forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](forskrift/2025-12-05-2963), [26 juni 2026 nr. 1448](forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](forskrift/2026-10-09-2041).
+> Endret ved [forskrifter 29 sep 2017 nr. 1574](forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](forskrift/2017-12-21-2363), [21 sep 2018 nr. 1402](forskrift/2018-09-21-1402), [8 feb 2019 nr. 90](forskrift/2019-02-08-90), [8 mai 2019 nr. 589](forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 747](forskrift/2019-06-14-747), [30 april 2020 nr. 939](forskrift/2020-04-30-939), [5 feb 2021 nr. 478](forskrift/2021-02-05-478), [23 april 2021 nr. 1393](forskrift/2021-04-23-1393), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409), [18 mars 2022 nr. 425](forskrift/2022-03-18-425), [28 okt 2022 nr. 1911](forskrift/2022-10-28-1911), [28 april 2023 nr. 650](forskrift/2023-04-28-650), [13 juni 2023 nr. 858](forskrift/2023-06-13-858), [22 sep 2023 nr. 1485](forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](forskrift/2024-02-02-206), [15 mars 2024 nr. 495](forskrift/2024-03-15-495), [26 april 2024 nr. 719](forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [14 mars 2025 nr. 627](forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](forskrift/2025-12-05-2963), [26 juni 2026 nr. 1448](forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](forskrift/2026-10-09-2041), [11 nov 2026 nr. 2360](forskrift/2026-11-11-2360).
 
 1 Dato gitt i tabellen gjelder for omsetningsforbud. Bruk er forbudt 6 måneder etter denne dato.
 
@@ -1322,7 +1327,7 @@ Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt
 
 ## Rettsakter
 
-> Endret ved [forskrifter 29 sep 2017 nr. 1574](forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](forskrift/2017-12-21-2363), [23 mars 2018 nr. 506](forskrift/2018-03-23-506), [8 feb 2019 nr. 90](forskrift/2019-02-08-90), [29 mars 2019 nr. 438](forskrift/2019-03-29-438), [8 mai 2019 nr. 589](forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 948](forskrift/2019-06-14-948), [27 sep 2019 nr. 1327](forskrift/2019-09-27-1327), [13 des 2019 nr. 2133](forskrift/2019-12-13-2133), [7 feb 2020 nr. 120](forskrift/2020-02-07-120), [30 april 2020 nr. 939](forskrift/2020-04-30-939), [23 okt 2020 nr. 2228](forskrift/2020-10-23-2228), [5 feb 2021 nr. 478](forskrift/2021-02-05-478), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409). Endret i sin helhet 20 okt 2021 uten kunngjøring i Norsk Lovtidend. Endret ved forskrifter [29 okt 2021 nr. 3146](forskrift/2021-10-29-3146), [10 des 2021 nr. 3650](forskrift/2021-12-10-3650), [18 mars 2022 nr. 425](forskrift/2022-03-18-425), [29 april 2022 nr. 811](forskrift/2022-04-29-811), [10 juni 2022 nr. 1052](forskrift/2022-06-10-1052), [28 okt 2022 nr. 1911](forskrift/2022-10-28-1911), [9 des 2022 nr. 2228](forskrift/2022-12-09-2228), [3 feb 2023 nr. 177](forskrift/2023-02-03-177), [28 april 2023 nr. 650](forskrift/2023-04-28-650), [5 juli 2023 nr. 1251](forskrift/2023-07-05-1251), [22 sep 2023 nr. 1485](forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](forskrift/2024-02-02-206), [15 mars 2024 nr. 495](forskrift/2024-03-15-495), [26 april 2024 nr. 719](forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [7 feb 2025 nr. 281](forskrift/2025-02-07-281), [14 mars 2025 nr. 627](forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](forskrift/2025-12-05-2963), [6 feb 2026 nr. 226](forskrift/2026-02-06-226), [20 mars 2026 nr. 595](forskrift/2026-03-20-595), [26 juni 2026 nr. 1448](forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](forskrift/2026-10-09-2041).
+> Endret ved [forskrifter 29 sep 2017 nr. 1574](forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](forskrift/2017-12-21-2363), [23 mars 2018 nr. 506](forskrift/2018-03-23-506), [8 feb 2019 nr. 90](forskrift/2019-02-08-90), [29 mars 2019 nr. 438](forskrift/2019-03-29-438), [8 mai 2019 nr. 589](forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 948](forskrift/2019-06-14-948), [27 sep 2019 nr. 1327](forskrift/2019-09-27-1327), [13 des 2019 nr. 2133](forskrift/2019-12-13-2133), [7 feb 2020 nr. 120](forskrift/2020-02-07-120), [30 april 2020 nr. 939](forskrift/2020-04-30-939), [23 okt 2020 nr. 2228](forskrift/2020-10-23-2228), [5 feb 2021 nr. 478](forskrift/2021-02-05-478), [9 juli 2021 nr. 2409](forskrift/2021-07-09-2409). Endret i sin helhet 20 okt 2021 uten kunngjøring i Norsk Lovtidend. Endret ved forskrifter [29 okt 2021 nr. 3146](forskrift/2021-10-29-3146), [10 des 2021 nr. 3650](forskrift/2021-12-10-3650), [18 mars 2022 nr. 425](forskrift/2022-03-18-425), [29 april 2022 nr. 811](forskrift/2022-04-29-811), [10 juni 2022 nr. 1052](forskrift/2022-06-10-1052), [28 okt 2022 nr. 1911](forskrift/2022-10-28-1911), [9 des 2022 nr. 2228](forskrift/2022-12-09-2228), [3 feb 2023 nr. 177](forskrift/2023-02-03-177), [28 april 2023 nr. 650](forskrift/2023-04-28-650), [5 juli 2023 nr. 1251](forskrift/2023-07-05-1251), [22 sep 2023 nr. 1485](forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](forskrift/2024-02-02-206), [15 mars 2024 nr. 495](forskrift/2024-03-15-495), [26 april 2024 nr. 719](forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](forskrift/2024-09-23-2372), [7 feb 2025 nr. 281](forskrift/2025-02-07-281), [14 mars 2025 nr. 627](forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](forskrift/2025-12-05-2963), [6 feb 2026 nr. 226](forskrift/2026-02-06-226), [20 mars 2026 nr. 595](forskrift/2026-03-20-595), [26 juni 2026 nr. 1448](forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](forskrift/2026-10-09-2041), [11 nov 2026 nr. 2360](forskrift/2026-11-11-2360).
 
 ### Konsolidert versjon av biocidforordningen på engelsk
 
@@ -1360,6 +1365,7 @@ Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgend
 - forordning [(EU) 2021/525](eu/32021r0525) om endring av vedlegg II og III.
 - forordning [(EU) 2024/1290](eu/32024r1290) om endring av biocidforordningen for å føre opp nitrogen generert fra omgivelsesluft som et aktivt stoff i vedlegg I
 - forordning [(EU) 2024/1398](eu/32024r1398) om endring av biocidforordningen med hensyn til varigheten av arbeidsprogrammet for undersøkelse av eksisterende aktive stoffer i biocidprodukter.
+- forordning [(EU) 2026/447](eu/32026r0447) om endring av biocidforordningen med hensyn til begrensning av bruk av det aktive stoffet karbondioksid i kategori 6 vedlegg I
 - forordning [(EU) 2026/1165](eu/32026r1165) om endring av biocidforordningen med hensyn til varigheten av databeskyttelse for kombinasjoner av aktivt stoff og produkttype i EUs vurderingsprogram for biocidaktive stoffer
 
 ### Norske oversettelser av forordninger om biocidprogrammet
