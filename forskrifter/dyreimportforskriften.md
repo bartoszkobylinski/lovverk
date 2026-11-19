@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2022-04-28"
 last_change_in_force: "2026-11-11"
 last_updated: "2022-11-16"
-xml_hash: "8ebb08986871f67311976010902beca85f55e83aafd796c595d25a13b68847ee"
+xml_hash: "64f9b20f92772d771574292323b280b66f3f4249fa163c4b9f6cbe2216541061"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-18T12:44:50.155955+00:00"
+retrieved_at: "2026-11-19T12:34:39.440767+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -5090,6 +5090,6 @@ Nedenfor gjengis til informasjon dansk versjon av rettsakten, da norsk oversette
 
 > Tilføyd ved forskrift [11 nov 2026 nr. 2333](forskrift/2026-11-11-2333).
 
-### Forordning (EU) 2026/2503 som endrer vedlegg XIV og XV av forordning [(EU) 2021/404](eu/32021r0404)
+### Forordning [(EU) 2026/2503](eu/32026r2503) som endrer vedlegg XIV og XV av forordning [(EU) 2021/404](eu/32021r0404)
 
 > **Tilføyes** ved forskrift [15 nov 2026 nr. 2361](forskrift/2026-11-15-2361) (i kraft 3 des 2026).
