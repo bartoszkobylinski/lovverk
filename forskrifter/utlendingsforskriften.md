@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-10-19"
+last_change_in_force: "2026-11-16"
 last_updated: "2026-11-10"
-xml_hash: "efbc3c2ec14d76e430f53a2597cc6a2f265401b83c0773c9c9f7f96d27b4aa2d"
+xml_hash: "792728694eb3a59a639d4469398e468238e702003b6562dea0e7ee2913a4430f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-11T11:41:50.794405+00:00"
+retrieved_at: "2026-11-19T12:34:39.440767+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -4394,6 +4394,14 @@ Vedtak etter første ledd kan iverksettes straks, jf. lovens § 129 femte ledd o
 
 > Tilføyd ved forskrift [23 mai 2024 nr. 810](forskrift/2024-05-23-810) (i kraft 29 mai 2024), endret ved forskrift [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025).
 
+### § 19A-4c. Vedtaksmyndighet i særskilte saker om bortvisning av profesjonelle idrettsutøvere som konkurrerer under russisk, belarusisk eller nøytralt flagg, og medfølgende støtteapparat
+
+Politiet kan treffe vedtak om bortvisning på indre eller ytre Schengengrense, eller etter innreise, i saker som gjelder profesjonelle idrettsutøvere som konkurrerer under russisk, belarusisk eller nøytralt flagg, og medfølgende støtteapparat, når grunnlaget for bortvisning er utenrikspolitiske hensyn, jf. [lovens § 126](lov/2008-05-15-35/§126).
+
+Vedtak etter første ledd kan påklages til Utlendingsdirektoratet.
+
+> Tilføyd ved forskrift [16 nov 2026 nr. 2373](forskrift/2026-11-16-2373).
+
 ### Lovens § 128a. Utveksling av opplysninger mellom offentlige organer
 
 > Tilføyd ved [forskrift 20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014).
@@ -4429,6 +4437,14 @@ Vedtak om bortvisning som nevnt i [§ 19A-4b](forskrift/2009-10-15-1286/§19A-4b
 Vedtak kan være muntlig hvis avgjørelsen haster eller skriftlighet av andre grunner ikke er praktisk mulig. Dersom vedtaket ikke er skriftlig, skal det gis opplysninger som nevnt i første ledd. Vedtaksorganet skal bekrefte vedtaket og dets begrunnelse skriftlig hvis parten ber om det.
 
 > Tilføyd ved forskrift [23 mai 2024 nr. 810](forskrift/2024-05-23-810) (i kraft 29 mai 2024).
+
+### § 19A-7b. Enkelte saksbehandlingsregler i særskilte saker om bortvisning av profesjonelle idrettsutøvere som konkurrerer under russisk, belarusisk eller nøytralt flagg, og medfølgende støtteapparat
+
+Vedtak om bortvisning som nevnt i [§ 19A-4c](forskrift/2009-10-15-1286/§19A-4c) skal være skriftlig. Begrunnelsen kan være kort og standardisert. Det skal gis opplysning om klagerett etter [§ 19A-4c](forskrift/2009-10-15-1286/§19A-4c).
+
+Vedtak kan være muntlig hvis avgjørelsen haster eller skriftlighet av andre grunner ikke er praktisk mulig. Dersom vedtaket ikke er skriftlig, skal det gis opplysninger som nevnt i første ledd. Vedtaksorganet skal bekrefte vedtaket og dets begrunnelse skriftlig hvis parten ber om det.
+
+> Tilføyd ved forskrift [16 nov 2026 nr. 2373](forskrift/2026-11-16-2373).
 
 ### Lovens § 133. Oppnevning av særskilt advokat
 
