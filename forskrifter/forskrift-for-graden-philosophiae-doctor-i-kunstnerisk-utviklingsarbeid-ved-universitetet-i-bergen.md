@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-02-13"
-last_change_in_force: "2025-08-25"
+last_change_in_force: "2026-11-06"
 last_updated: "2026-11-09"
-xml_hash: "d34dcca974e2bafec199041c3357e1c700ffdbf1c945bd32f8f9af3d500e0ac9"
+xml_hash: "638238018713b11b7b5b27984b3f722968417f83bef4cf03c69fdfc92b651a82"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-10T12:05:20.926028+00:00"
+retrieved_at: "2026-11-19T12:34:39.440767+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -305,13 +305,15 @@ Ph.d.-resultatet kan bedømmes ved kun ett lærested.
 
 ### § 10-4. Meldeplikt om resultater som har potensial for næringsmessig utnyttelse
 
-Kandidater som er tilsatt ved Universitetet i Bergen har meldeplikt om arbeidsresultater som omfattes av universitetets Reglement om håndtering av ansattes [rettigheter til forsknings- og arbeidsresultater](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/) ved Universitetet i Bergen og [arbeidstakeroppfinnelsesloven § 5](lov/1970-04-17-21/§5).
+Kandidater som er tilsatt ved Universitetet i Bergen har meldeplikt om arbeidsresultater som omfattes av universitetets [reglement for immaterielle rettigheter og arbeidsresultater ved Universitetet i Bergen](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/) og [arbeidstakeroppfinnerlovens § 5](lov/1970-04-17-21/§5).
 
 For kandidater med annen arbeidsgiver enn UiB skal tilsvarende meldeplikt nedfelles i avtale mellom Universitetet i Bergen, kandidaten og den eksterne arbeidsgiveren.
 
 Regulering av rettigheter mellom samarbeidende institusjoner må være fastsatt i skriftlig avtale.
 
 For kandidater uten arbeidsgiver skal tilsvarende meldeplikt nedfelles i opptaksavtalen mellom Universitetet i Bergen og kandidaten.
+
+> Endret ved forskrift [6 nov 2026 nr. 2372](forskrift/2026-11-06-2372).
 
 ## Del IV. Fullføring
 
