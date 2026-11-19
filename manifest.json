@@ -58203,13 +58203,14 @@
     },
     "sf-20091015-1286": {
       "doc_type": "forskrift",
-      "embedding_hash": "efbc3c2ec14d76e430f53a2597cc6a2f265401b83c0773c9c9f7f96d27b4aa2d",
-      "embedding_input_hash": "eee93b02d62f3553bb673b84f1594195ccc62738a51a0530f00b9a57522742ab",
+      "embedding_hash": "792728694eb3a59a639d4469398e468238e702003b6562dea0e7ee2913a4430f",
+      "embedding_input_hash": "b3c0ac9efe5d67153b6408cc81d385e87c4a4d5d13b6edba9f81da95babd434f",
+      "embedding_sidecar_sha256": "22c2938da4f3aca07476f1b513cf34579bd40ccd7d68451335867e905c9be47c",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-11",
-      "last_seen": "2026-11-11T11:41:50.794405Z",
+      "last_changed": "2026-11-19",
+      "last_seen": "2026-11-19T12:34:39.440767Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58217,8 +58218,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 21,
-      "xml_hash": "efbc3c2ec14d76e430f53a2597cc6a2f265401b83c0773c9c9f7f96d27b4aa2d"
+      "total_changes": 22,
+      "xml_hash": "792728694eb3a59a639d4469398e468238e702003b6562dea0e7ee2913a4430f"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -85947,21 +85948,21 @@
     },
     "sf-20200327-0488": {
       "doc_type": "forskrift",
-      "embedding_hash": "0bd6dc5c2a3f2c841c0a7d58986efd0c021167d231221ef5c01a5f95c1b08674",
-      "embedding_input_hash": "29cfeaf08b3d2b74429b25e0880f7878c86570c36015b6f5367a9764767c86dc",
-      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
-      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
-      "eu_basis": [],
-      "last_changed": "2026-06-30",
+      "embedding_hash": null,
+      "embedding_input_hash": null,
+      "embedding_space": null,
+      "embedding_space_id": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-30T18:17:57.344275Z",
       "markdown_path": "forskrifter/mandat-for-forvaltningen-av-statens-obligasjonsfond.md",
       "removed_reason": null,
-      "renderer_version": 8,
+      "renderer_version": null,
       "slug": "mandat-for-forvaltningen-av-statens-obligasjonsfond",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Mandat for forvaltningen av Statens obligasjonsfond",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "0bd6dc5c2a3f2c841c0a7d58986efd0c021167d231221ef5c01a5f95c1b08674"
     },
     "sf-20200327-0490": {
@@ -93870,14 +93871,14 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "embedding_hash": "8ebb08986871f67311976010902beca85f55e83aafd796c595d25a13b68847ee",
-      "embedding_input_hash": "d0d835b8745889d82b8a583264316078198f33346bb92dc2a7af432a57112e97",
-      "embedding_sidecar_sha256": "19183f436abaf48ff31a39f9fdee367505a840fbb13ba065cd46019b913e9a75",
+      "embedding_hash": "64f9b20f92772d771574292323b280b66f3f4249fa163c4b9f6cbe2216541061",
+      "embedding_input_hash": "7886146d890cbb240fb2bbd45c082631a1159766214b31b61e4aa648ff127304",
+      "embedding_sidecar_sha256": "512955547932d0dcef80e84a002228d0cb55efc851a041b094351d479f7112f9",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-18",
-      "last_seen": "2026-11-18T12:44:50.155955Z",
+      "last_changed": "2026-11-19",
+      "last_seen": "2026-11-19T12:34:39.440767Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -93885,8 +93886,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 30,
-      "xml_hash": "8ebb08986871f67311976010902beca85f55e83aafd796c595d25a13b68847ee"
+      "total_changes": 31,
+      "xml_hash": "64f9b20f92772d771574292323b280b66f3f4249fa163c4b9f6cbe2216541061"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -103590,13 +103591,14 @@
     },
     "sf-20250213-0282": {
       "doc_type": "forskrift",
-      "embedding_hash": "8f82b127ad834b818ed4763c26394704416ac616c7b1b4550d9e1d7b0d803ffa",
-      "embedding_input_hash": "02a4c79611e1db16ef9dff3ad6f746ca87c1a637bdd182cd7d0019005c8e8cc0",
+      "embedding_hash": "c91ce9dea9f49eed54364f10e015e6f6d24124e87dd0d5f02477926a63fe36cd",
+      "embedding_input_hash": "e5d6bdaa5fcb61ddda68b55ecd2dd6a4c59ca8be6d6b92fff77103bbcb4ee45e",
+      "embedding_sidecar_sha256": "a72b7016d2f4b105e208338ecfaad91cd8aa4d113f5a8bc3223224330439fac9",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-19",
+      "last_seen": "2026-11-19T12:34:39.440767Z",
       "markdown_path": "forskrifter/forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-bergen.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -103604,18 +103606,19 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift for graden philosophiae doctor (ph.d.) ved Universitetet i Bergen",
-      "total_changes": 3,
-      "xml_hash": "8f82b127ad834b818ed4763c26394704416ac616c7b1b4550d9e1d7b0d803ffa"
+      "total_changes": 4,
+      "xml_hash": "c91ce9dea9f49eed54364f10e015e6f6d24124e87dd0d5f02477926a63fe36cd"
     },
     "sf-20250213-0283": {
       "doc_type": "forskrift",
-      "embedding_hash": "d34dcca974e2bafec199041c3357e1c700ffdbf1c945bd32f8f9af3d500e0ac9",
-      "embedding_input_hash": "a36452d42ee36bc4839998c29ffe0330150e3e2171d069af932b2f76eea90a63",
+      "embedding_hash": "638238018713b11b7b5b27984b3f722968417f83bef4cf03c69fdfc92b651a82",
+      "embedding_input_hash": "cff40c6f64b499846ce88a7a6e47bec26fd1bb931f8911e87cc44bf98156ae36",
+      "embedding_sidecar_sha256": "b825db586e694f588c4dc66ccc4dbd849a9eeeb7e51783b872b9c4c5f5198fd1",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-10",
-      "last_seen": "2026-11-10T12:05:20.926028Z",
+      "last_changed": "2026-11-19",
+      "last_seen": "2026-11-19T12:34:39.440767Z",
       "markdown_path": "forskrifter/forskrift-for-graden-philosophiae-doctor-i-kunstnerisk-utviklingsarbeid-ved-universitetet-i-bergen.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -103623,8 +103626,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift for graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Bergen",
-      "total_changes": 5,
-      "xml_hash": "d34dcca974e2bafec199041c3357e1c700ffdbf1c945bd32f8f9af3d500e0ac9"
+      "total_changes": 6,
+      "xml_hash": "638238018713b11b7b5b27984b3f722968417f83bef4cf03c69fdfc92b651a82"
     },
     "sf-20250213-0284": {
       "doc_type": "forskrift",
@@ -115090,14 +115093,14 @@
     },
     "sf-20261115-2361": {
       "doc_type": "forskrift",
-      "embedding_hash": "778aedcf0d1d7bf3a8ffa6bbe7a29446ee715049ef587eadcdb95e57e2c7824f",
+      "embedding_hash": "62d002d848c3861d9e7dfaa529bd8ecfea76a9c16aefc2c64bf47164fca1cca7",
       "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-18",
-      "last_seen": "2026-11-18T12:44:50.155955Z",
+      "last_changed": "2026-11-19",
+      "last_seen": "2026-11-19T12:34:39.440767Z",
       "markdown_path": "forskrifter/endr-i-dyreimportforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -115105,8 +115108,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i dyreimportforskriften for å gjennomføre endringer av tredjelandslista, forordning (EU) 2026/2503",
-      "total_changes": 1,
-      "xml_hash": "778aedcf0d1d7bf3a8ffa6bbe7a29446ee715049ef587eadcdb95e57e2c7824f"
+      "total_changes": 2,
+      "xml_hash": "62d002d848c3861d9e7dfaa529bd8ecfea76a9c16aefc2c64bf47164fca1cca7"
     },
     "sf-20261116-2362": {
       "doc_type": "forskrift",
@@ -115129,6 +115132,6 @@
       "xml_hash": "f74f108f4558ecbeeb6c4dcaf372bf56963fc0839868d4e8c3e5d7f290c849c1"
     }
   },
-  "generated_at": "2026-11-18T12:44:50.155955Z",
+  "generated_at": "2026-11-19T12:34:39.440767Z",
   "version": 1
 }

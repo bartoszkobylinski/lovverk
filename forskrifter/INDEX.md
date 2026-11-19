@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5155 current documents_
+_5154 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -4460,7 +4460,6 @@ _5155 current documents_
 - [lua-forskriften](lua-forskriften.md) — Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek (LUA-forskriften)
 - [låneformidlingsforskriften](låneformidlingsforskriften.md) — Forskrift om låneformidling (låneformidlingsforskriften)
 - [mandat-for-forvaltningen-av-statens-fond-i-tromsø](mandat-for-forvaltningen-av-statens-fond-i-tromsø.md) — Mandat for forvaltningen av Statens fond i Tromsø
-- [mandat-for-forvaltningen-av-statens-obligasjonsfond](mandat-for-forvaltningen-av-statens-obligasjonsfond.md) — Mandat for forvaltningen av Statens obligasjonsfond
 - [mandat-for-forvaltningen-av-statsgjeld](mandat-for-forvaltningen-av-statsgjeld.md) — Mandat for forvaltningen av statsgjeld
 - [mandat-for-kriseutvalget-for-atomberedskap-m-m](mandat-for-kriseutvalget-for-atomberedskap-m-m.md) — Mandat for og sammensetning av Kriseutvalget for atomberedskap med rådgivere, samt mandat for Statsforvalteren
 - [mandat-for-statens-pensjonsfond-norge-spn](mandat-for-statens-pensjonsfond-norge-spn.md) — Mandat for forvaltningen av Statens pensjonsfond Norge

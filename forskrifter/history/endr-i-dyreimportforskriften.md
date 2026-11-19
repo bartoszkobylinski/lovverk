@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # endr-i-dyreimportforskriften — Change history
 
-_1 events; doc_id `sf-20261115-2361`._
+_2 events; doc_id `sf-20261115-2361`._
+
+## 2026-11-19 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): endr-i-dyreimportforskriften`
+Commit: `6a93d79`.
 
 ## 2026-11-18 — Added to corpus
 Lines: +53 -0.

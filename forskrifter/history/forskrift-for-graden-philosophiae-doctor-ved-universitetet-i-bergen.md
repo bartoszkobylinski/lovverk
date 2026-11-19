@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-bergen — Change history
 
-_3 events; doc_id `sf-20250213-0282`._
+_4 events; doc_id `sf-20250213-0282`._
+
+## 2026-11-19 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-bergen`
+Commit: `b14ccd8`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

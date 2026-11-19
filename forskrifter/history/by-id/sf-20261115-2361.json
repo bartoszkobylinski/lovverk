@@ -2,6 +2,17 @@
   "doc_id": "sf-20261115-2361",
   "events": [
     {
+      "commit": "6a93d79",
+      "date": "2026-11-19",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "forskrifter/endr-i-dyreimportforskriften.md",
+      "subject": "update(forskrift): endr-i-dyreimportforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d33c2f3",
       "date": "2026-11-18",
       "from_path": null,
