@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261110-2387",
+  "events": [
+    {
+      "commit": "5104665",
+      "date": "2026-11-20",
+      "from_path": null,
+      "lines_added": 71,
+      "lines_removed": 0,
+      "path": "forskrifter/forskrift-om-autorisasjonsprøven-ved-norges-handelshøyskole-for-å-bli-statsautorisert-translatør.md",
+      "subject": "add(forskrift): forskrift-om-autorisasjonsprøven-ved-norges-handelshøyskole-for-å-bli-statsautorisert-translatør",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

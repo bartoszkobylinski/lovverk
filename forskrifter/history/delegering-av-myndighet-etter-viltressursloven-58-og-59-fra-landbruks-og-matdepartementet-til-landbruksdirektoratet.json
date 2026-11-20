@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261118-2389",
+  "events": [
+    {
+      "commit": "8ff2ed7",
+      "date": "2026-11-20",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 0,
+      "subject": "add(forskrift): delegering-av-myndighet-etter-viltressursloven-58-og-59-fra-landbruks-og-matdepartementet-til-landbruksdirektoratet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-myndighet-etter-viltressursloven-58-og-59-fra-landbruks-og-matdepartementet-til-landbruksdirektoratet"
+}

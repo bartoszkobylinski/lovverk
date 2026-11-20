@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5154 current documents_
+_5157 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -876,6 +876,7 @@ _5154 current documents_
 - [delegering-av-myndighet-etter-vegtrafikkloven-29a-til-vegdirektoratet](delegering-av-myndighet-etter-vegtrafikkloven-29a-til-vegdirektoratet.md) — Delegering av myndighet etter vegtrafikkloven § 29a til Vegdirektoratet
 - [delegering-av-myndighet-etter-vegtrafikkloven-7b-til-statens-vegvesen](delegering-av-myndighet-etter-vegtrafikkloven-7b-til-statens-vegvesen.md) — Delegering av myndighet etter vegtrafikkloven § 7b til Statens vegvesen
 - [delegering-av-myndighet-etter-viltressursloven-45-46-47-og-49-fra-klima-og-miljødepartementet-til-miljødirektoratet](delegering-av-myndighet-etter-viltressursloven-45-46-47-og-49-fra-klima-og-miljødepartementet-til-miljødirektoratet.md) — Delegering av myndighet etter viltressursloven §§ 45, 46, 47 og 49 fra Klima- og miljødepartementet til Miljødirektoratet
+- [delegering-av-myndighet-etter-viltressursloven-58-og-59-fra-landbruks-og-matdepartementet-til-landbruksdirektoratet](delegering-av-myndighet-etter-viltressursloven-58-og-59-fra-landbruks-og-matdepartementet-til-landbruksdirektoratet.md) — Delegering av myndighet etter viltressursloven § 58 og § 59 fra Landbruks- og matdepartementet til Landbruksdirektoratet
 - [delegering-av-myndighet-etter-viltressursloven-fra-klima-og-miljødepartementet-til-miljødirektoratet](delegering-av-myndighet-etter-viltressursloven-fra-klima-og-miljødepartementet-til-miljødirektoratet.md) — Delegering av myndighet etter viltressursloven fra Klima- og miljødepartementet til Miljødirektoratet
 - [delegering-av-myndighet-fiskerideltagelsesloven](delegering-av-myndighet-fiskerideltagelsesloven.md) — Delegering av Kongens myndighet etter lov av 16. juni 1972 nr. 57 om deltagelsen i fisket § 6.
 - [delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet](delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet.md) — Delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet
@@ -1618,6 +1619,7 @@ _5154 current documents_
 - [forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt](forskrift-om-at-ører-med-reinmerke-skal-følge-skinnet-ved-slakt.md) — Forskrift om at ører med reinmerke skal følge skinnet ved slakt
 - [forskrift-om-auke-av-tillaten-biomasse-akvakultur](forskrift-om-auke-av-tillaten-biomasse-akvakultur.md) — Forskrift om auke av maksimalt tillaten biomasse for løyve til akvakultur med laks, aure og regnbogeaure i 2015
 - [forskrift-om-automatiske-jernbanevekter](forskrift-om-automatiske-jernbanevekter.md) — Forskrift om krav til automatiske jernbanevekter
+- [forskrift-om-autorisasjonsprøven-ved-norges-handelshøyskole-for-å-bli-statsautorisert-translatør](forskrift-om-autorisasjonsprøven-ved-norges-handelshøyskole-for-å-bli-statsautorisert-translatør.md) — Forskrift om autorisasjonsprøven ved Norges Handelshøyskole for å bli statsautorisert translatør
 - [forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde](forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde.md) — Forskrift om avfallshåndtering og avfalls- og avløpsgebyrer i Longyearbyen planområde
 - [forskrift-om-avgift-for-jaktkort-m-m-på-svalbard](forskrift-om-avgift-for-jaktkort-m-m-på-svalbard.md) — Forskrift om satser for avgift for jakt-, fangst- og fiskekort m.m. på Svalbard.
 - [forskrift-om-avgift-på-farlige-stoffer-mv](forskrift-om-avgift-på-farlige-stoffer-mv.md) — Forskrift om avgift på enkelte farlige stoffer, anlegg og innretninger som omfattes av lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver
@@ -4830,6 +4832,7 @@ _5154 current documents_
 - [satsforskriften-2024](satsforskriften-2024.md) — Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2024
 - [satsforskriften-2025](satsforskriften-2025.md) — Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2025
 - [satsforskriften-2026](satsforskriften-2026.md) — Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2026
+- [satsforskriften-2027](satsforskriften-2027.md) — Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2027
 - [selvbyggerforskriften-bsl-b-3-1](selvbyggerforskriften-bsl-b-3-1.md) — Forskrift om selvbygde luftfartøy (selvbyggerforskriften), (BSL B 3-1)
 - [selvdeklarasjonsforskriften](selvdeklarasjonsforskriften.md) — Forskrift om selvdeklarasjon av ordninger for elektronisk identifikasjon (selvdeklarasjonsforskriften)
 - [selvkostforskriften](selvkostforskriften.md) — Forskrift om beregning av samlet selvkost for kommunale og fylkeskommunale gebyrer (selvkostforskriften)

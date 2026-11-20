@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-restriktive-tiltak-mot-spredning-og-bruk-av-kjemiske-våpen — Change history
 
-_3 events; doc_id `sf-20210511-1456`._
+_4 events; doc_id `sf-20210511-1456`._
+
+## 2026-11-20 — Content updated
+Lines: +15 -3.
+Subject: `update(forskrift): forskrift-om-restriktive-tiltak-mot-spredning-og-bruk-av-kjemiske-våpen`
+Commit: `d3fbae6`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

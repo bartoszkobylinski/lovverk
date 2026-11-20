@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261118-2405",
+  "events": [
+    {
+      "commit": "baf0ee7",
+      "date": "2026-11-20",
+      "from_path": null,
+      "lines_added": 30,
+      "lines_removed": 30,
+      "path": "forskrifter/satsforskriften-2027.md",
+      "subject": "add(forskrift): satsforskriften-2027",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}
