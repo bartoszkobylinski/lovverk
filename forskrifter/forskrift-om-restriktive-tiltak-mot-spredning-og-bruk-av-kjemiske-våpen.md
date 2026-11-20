@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Utenriksdepartementet"
 date_in_force: "2021-05-11"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-11-17"
 last_updated: "2022-11-21"
-xml_hash: "ffddfac7245480ba8fa17d7df683b26d93993e923d31f7cb9f8635dace48e284"
+xml_hash: "a1f373b2a21fc3d76ee8036ca152d372b2bf3894424fea6739539a0d8762ef2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-20T12:34:21.843457+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,6 +63,8 @@ Utenriksdepartementet gis fullmakt til å endre, suspendere eller oppheve forskr
 Forskriften trer i kraft straks.
 
 ## VEDLEGG A
+
+> Endret ved forskrift [17 nov 2026 nr. 2388](forskrift/2026-11-17-2388).
 
 ### RÅDSFORORDNING [(EU) 2018/1542](eu/32018*1542)
 
@@ -112,6 +114,16 @@ I denne forordning menes med
    3. enhver forberedelse til bruk av kjemiske våpen,
 2. fysiske eller juridiske personer, enheter eller organer som bistår, oppmuntrer eller påvirker en fysisk eller juridisk person, en enhet eller et organ til å delta i en aktivitet som nevnt i bokstav a) ovenfor, og dermed forårsake eller medvirke til en fare for at slike aktiviteter kan utføres, og
 3. fysiske eller juridiske personer, enheter eller organer som er tilknyttet de fysiske eller juridiske personene, enhetene eller organene omtalt i bokstav a) og b) ovenfor.
+
+### Artikkel 2a
+
+1\. [Artikkel 2 nr. 2](forskrift/2021-05-11-1456/a2/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet av organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål.
+
+2\. I saker som ikke omfattes av nr. 1 i denne artikkelen, og som unntak fra [artikkel 2 nr. 1](forskrift/2021-05-11-1456/a2/nummer/1) og [2](forskrift/2021-05-11-1456/a2/nummer/2), kan de kompetente myndighetene gi særskilte eller alminnelige tillatelser, på de alminnelige eller særskilte vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål.
+
+3\. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse etter nr. 2, skal tillatelsen anses som gitt.
+
+4\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 2 og 3, innen to uker etter at tillatelsen er gitt.
 
 ### Artikkel 3
 
