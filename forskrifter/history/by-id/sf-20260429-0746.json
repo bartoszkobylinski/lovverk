@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260429-0746",
+  "events": [
+    {
+      "commit": "ac8ef91",
+      "date": "2026-05-09",
+      "from_path": null,
+      "lines_added": 29,
+      "lines_removed": 0,
+      "path": "forskrifter/endr-i-blåreseptforskriften.md",
+      "subject": "add(forskrift): endr-i-blåreseptforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

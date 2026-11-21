@@ -1,0 +1,39 @@
+{
+  "doc_id": "sf-20260513-0853",
+  "events": [
+    {
+      "commit": "43f334f",
+      "date": "2026-06-08",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 31,
+      "path": "forskrifter/endr-i-bilforskriften.md",
+      "subject": "remove(forskrift): endr-i-bilforskriften",
+      "to_path": null,
+      "type": "removed"
+    },
+    {
+      "commit": "dc08b83",
+      "date": "2026-05-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "forskrifter/endr-i-bilforskriften.md",
+      "subject": "update(forskrift): endr-i-bilforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "c66eeb5",
+      "date": "2026-05-22",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "path": "forskrifter/endr-i-bilforskriften.md",
+      "subject": "add(forskrift): endr-i-bilforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}
