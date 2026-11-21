@@ -379,9 +379,7 @@ _753 current documents_
 - [lov-om-bankenes-sikringsfond](lov-om-bankenes-sikringsfond.md) — Lov om Bankenes sikringsfond
 - [lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv](lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) — Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd for å forebygge, avdekke og reagere mot seksuelle overgrep, trakassering og vold mv. i idretten
 - [lov-om-beredskapslagring-av-petroleumsprodukt](lov-om-beredskapslagring-av-petroleumsprodukt.md) — Lov om beredskapslagring av petroleumsprodukt
-- [lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon](lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md) — Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon
 - [lov-om-brudvigjing-i-utlandet](lov-om-brudvigjing-i-utlandet.md) — Lov om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg
-- [lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene](lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene.md) — Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene
 - [lov-om-det-frie-varebyttet-innan-eøs](lov-om-det-frie-varebyttet-innan-eøs.md) — Lov om handheving av det frie varebyttet innan EØS
 - [lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret](lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret.md) — Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret
 - [lov-om-diskriminering-i-internasj-skipsfart](lov-om-diskriminering-i-internasj-skipsfart.md) — Lov om tiltak mot diskriminering i internasjonal skipsfart
@@ -409,6 +407,7 @@ _753 current documents_
 - [lov-om-gjennomføring-av-nordiske-konvensjoner](lov-om-gjennomføring-av-nordiske-konvensjoner.md) — Lov om gjennomføring av nordiske konvensjoner om visse internasjonal-privatrettslige forhold
 - [lov-om-gjennomføring-av-roma-vedtektene](lov-om-gjennomføring-av-roma-vedtektene.md) — Lov om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene)
 - [lov-om-god-handelsskikk-i-dagligvarekjeden](lov-om-god-handelsskikk-i-dagligvarekjeden.md) — Lov om god handelsskikk i dagligvarekjeden
+- [lov-om-granskingskommisjon-epstein-dokumentene](lov-om-granskingskommisjon-epstein-dokumentene.md) — Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene
 - [lov-om-granskingskommisjonen-for-scandinavian-star](lov-om-granskingskommisjonen-for-scandinavian-star.md) — Lov om granskingskommisjonen for brannen på Scandinavian Star
 - [lov-om-haagkonvensjonen-1996](lov-om-haagkonvensjonen-1996.md) — Lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn (lov om Haagkonvensjonen 1996)
 - [lov-om-individuell-pensjonsordning](lov-om-individuell-pensjonsordning.md) — Lov om individuell pensjonsordning
@@ -429,6 +428,7 @@ _753 current documents_
 - [lov-om-infrastruktur-for-alternativt-drivstoff-2](lov-om-infrastruktur-for-alternativt-drivstoff-2.md) — Lov om infrastruktur for alternativt drivstoff
 - [lov-om-innenlands-transport-i-eøs-avtalen](lov-om-innenlands-transport-i-eøs-avtalen.md) — Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen
 - [lov-om-innovasjon-norge](lov-om-innovasjon-norge.md) — Lov om Innovasjon Norge
+- [lov-om-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold](lov-om-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md) — Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold
 - [lov-om-inspeksjoner-av-styrker-i-europa](lov-om-inspeksjoner-av-styrker-i-europa.md) — Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl
 - [lov-om-internasjonal-sikkerhet-i-mobilt-løsøre](lov-om-internasjonal-sikkerhet-i-mobilt-løsøre.md) — Lov om internasjonale sikkerhetsretter i mobilt løsøre
 - [lov-om-internasjonale-investeringstvistar](lov-om-internasjonale-investeringstvistar.md) — Lov om å setja i verk avtala 18 mars 1965 om løysing av tvistar mellom ein stat og borgarar i andre statar om investeringar
@@ -451,6 +451,7 @@ _753 current documents_
 - [lov-om-leilendingsgods-tilhørende-stamhus](lov-om-leilendingsgods-tilhørende-stamhus.md) — Lov indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v.
 - [lov-om-lønnsstøtte-økonomiske-tiltak-i-møte-med-pandemien](lov-om-lønnsstøtte-økonomiske-tiltak-i-møte-med-pandemien.md) — Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien)
 - [lov-om-løysingsrettar-løysl](lov-om-løysingsrettar-løysl.md) — Lov om løysingsrettar
+- [lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon](lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md) — Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon
 - [lov-om-medisinsk-utstyr](lov-om-medisinsk-utstyr.md) — Lov om medisinsk utstyr
 - [lov-om-medisinsk-utstyr-medutstl](lov-om-medisinsk-utstyr-medutstl.md) — Lov om medisinsk utstyr
 - [lov-om-merkning-på-tunge-kolli](lov-om-merkning-på-tunge-kolli.md) — Lov om merkning av vekten på tunge kolli som fraktes med fartøi
@@ -515,7 +516,6 @@ _753 current documents_
 - [lov-om-statsbidrag-til-skytebaner](lov-om-statsbidrag-til-skytebaner.md) — Lov om statsbidrag til anlegg m.v. av skytebaner
 - [lov-om-straff-for-internerte-militære](lov-om-straff-for-internerte-militære.md) — Lov om straffebestemmelser for utenlandske militærpersoner som er internert her i riket under krig mellem fremmede magter
 - [lov-om-supplerande-stønad-ved-kort-butid](lov-om-supplerande-stønad-ved-kort-butid.md) — Lov om supplerande stønad til personar med kort butid i Noreg
-- [lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold](lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md) — Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold
 - [lov-om-tekniske-kontrollorgan](lov-om-tekniske-kontrollorgan.md) — Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar
 - [lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs](lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs.md) — Lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 - [lov-om-tilskudd-til-virksomheter-med-offentlig-tjenestepensjonsordning](lov-om-tilskudd-til-virksomheter-med-offentlig-tjenestepensjonsordning.md) — Lov om tilskudd til visse private virksomheter med offentlig tjenestepensjonsordning

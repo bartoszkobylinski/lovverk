@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # grunnloven-bokmål-grl — Change history
 
-_4 events; doc_id `nl-18140517-000`._
+_5 events; doc_id `nl-18140517-000`._
+
+## 2026-11-21 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): grunnloven-bokmål-grl`
+Commit: `6c7047d`.
 
 ## 2026-11-05 — Content updated
 Lines: +21 -15.

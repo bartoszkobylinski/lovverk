@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forvareforskriften-forforskriften — Change history
 
-_4 events; doc_id `sf-20021107-1290`._
+_5 events; doc_id `sf-20021107-1290`._
+
+## 2026-11-21 — Content updated
+Lines: +18 -22.
+Subject: `update(forskrift): forvareforskriften-forforskriften`
+Commit: `d12d31a`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

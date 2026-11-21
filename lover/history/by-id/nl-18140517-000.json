@@ -1,0 +1,61 @@
+{
+  "doc_id": "nl-18140517-000",
+  "events": [
+    {
+      "commit": "6c7047d",
+      "date": "2026-11-21",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "path": "lover/grunnloven-bokmål-grl.md",
+      "subject": "update(lov): grunnloven-bokmål-grl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "d8cebf2",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 21,
+      "lines_removed": 15,
+      "path": "lover/grunnloven-bokmål-grl.md",
+      "subject": "update(lov): grunnloven-bokmål-grl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/grunnloven-bokmål-grl.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-18140517-000.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/grunnloven-bokmål-grl.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/grunnloven-bokmål-grl.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 935,
+      "lines_removed": 0,
+      "path": "lover/nl-18140517-000.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

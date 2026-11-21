@@ -1,0 +1,61 @@
+{
+  "doc_id": "nl-18140517-000-nn",
+  "events": [
+    {
+      "commit": "cb169dc",
+      "date": "2026-11-21",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "lover/grunnlova-nynorsk-grl.md",
+      "subject": "update(lov): grunnlova-nynorsk-grl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "1395cf1",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 19,
+      "lines_removed": 13,
+      "path": "lover/grunnlova-nynorsk-grl.md",
+      "subject": "update(lov): grunnlova-nynorsk-grl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/grunnlova-nynorsk-grl.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-18140517-000-nn.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/grunnlova-nynorsk-grl.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/grunnlova-nynorsk-grl.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 935,
+      "lines_removed": 0,
+      "path": "lover/nl-18140517-000-nn.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

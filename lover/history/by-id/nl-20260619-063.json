@@ -1,0 +1,28 @@
+{
+  "doc_id": "nl-20260619-063",
+  "events": [
+    {
+      "commit": "649738a",
+      "date": "2026-11-21",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "lover/lov-om-infrastruktur-for-alternativt-drivstoff-2.md",
+      "subject": "update(lov): lov-om-infrastruktur-for-alternativt-drivstoff-2",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "c537e31",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 62,
+      "lines_removed": 0,
+      "path": "lover/lov-om-infrastruktur-for-alternativt-drivstoff-2.md",
+      "subject": "add(lov): lov-om-infrastruktur-for-alternativt-drivstoff-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

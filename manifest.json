@@ -97,13 +97,14 @@
     },
     "nl-18140517-000": {
       "doc_type": "lov",
-      "embedding_hash": "d7504a6cd591ed14a2508dfa5d4ed99b65e5070f43917180278b05f863fd603c",
-      "embedding_input_hash": "6408b8187a7f98508f24f4b5028ed3842b3e83701cc759cd78c5617937abe85a",
+      "embedding_hash": "92217831162138942b4221b1e15438b8c50b1f7b17ece55cb1760bde189b8ba9",
+      "embedding_input_hash": "66b5ef851e16a976506e7f0cc5fa4de4ff2484bccf342ea32d4bcc1bcd7d7a1c",
+      "embedding_sidecar_sha256": "4fd5392c659812a0b016058996fe85b095f1a238f9cd8f6c383f1294ae07b8fd",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
       "markdown_path": "lover/grunnloven-bokmål-grl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -111,18 +112,19 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Kongeriket Norges Grunnlov",
-      "total_changes": 4,
-      "xml_hash": "d7504a6cd591ed14a2508dfa5d4ed99b65e5070f43917180278b05f863fd603c"
+      "total_changes": 5,
+      "xml_hash": "92217831162138942b4221b1e15438b8c50b1f7b17ece55cb1760bde189b8ba9"
     },
     "nl-18140517-000-nn": {
       "doc_type": "lov",
-      "embedding_hash": "11c17004659719b4d7d2752d7bc6846fcc0feaaeb8e15027afc38923dca013e7",
-      "embedding_input_hash": "3b1ff44a2ad4a05916aa1f99d6a4a07635c6362d6848b5e97d9e6ffce46046fa",
+      "embedding_hash": "6db3d21ed08f62f5dfcbed10fe87fe5014bd7f9633b9e33be3284c699077a9cc",
+      "embedding_input_hash": "52b9554ea18854809f8e475de41b1697c6acb9fbb6170b40e7eafd7e4ce058ad",
+      "embedding_sidecar_sha256": "61ce952a9cc7a7607c5521f191d33043a35f44c49dc934cdf3f028cbf359e93f",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
       "markdown_path": "lover/grunnlova-nynorsk-grl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -130,8 +132,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Kongeriket Noregs grunnlov",
-      "total_changes": 4,
-      "xml_hash": "11c17004659719b4d7d2752d7bc6846fcc0feaaeb8e15027afc38923dca013e7"
+      "total_changes": 5,
+      "xml_hash": "6db3d21ed08f62f5dfcbed10fe87fe5014bd7f9633b9e33be3284c699077a9cc"
     },
     "nl-18450607-000": {
       "doc_type": "lov",
@@ -13528,22 +13530,23 @@
     },
     "nl-20250527-021": {
       "doc_type": "lov",
-      "embedding_hash": "e1ea3fc65c6ee853bc8d9ea39ac0dc8ac895d3ed7f5ccce02d6bd51db3f98452",
+      "embedding_hash": "650251b3282db6c69960eb25c626f6df12a4c357d278042b72c6615e9cbbe351",
       "embedding_input_hash": "ff76ef8f0820fb486e980f5423d50bcff7c54ac985be917aaa8b6713baabe15b",
+      "embedding_sidecar_sha256": "f1d2ab124e4e801976404e3c2a369ad6f1781e79f8522ad7ebfe1f3d8c7a74c8",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-04-29",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
-      "markdown_path": "lover/lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
+      "markdown_path": "lover/lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
       "removed_reason": null,
       "renderer_version": 8,
-      "slug": "lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon",
+      "slug": "lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon",
-      "total_changes": 3,
-      "xml_hash": "e1ea3fc65c6ee853bc8d9ea39ac0dc8ac895d3ed7f5ccce02d6bd51db3f98452"
+      "total_changes": 4,
+      "xml_hash": "650251b3282db6c69960eb25c626f6df12a4c357d278042b72c6615e9cbbe351"
     },
     "nl-20250606-026": {
       "doc_type": "lov",
@@ -14409,22 +14412,23 @@
     },
     "nl-20260612-025": {
       "doc_type": "lov",
-      "embedding_hash": "f21325d9e38396fb3a9ee9138f982efce9a0ccd53a74a54c1ba43d4f4bceba51",
+      "embedding_hash": "c86f925fa4b527e4bd418c9501fc883c09123452b7199815c3188141b441d8de",
       "embedding_input_hash": "c65dc2c50b941a3ef25bc22f2716c9669280bfdf149813b86bd56bfdef4700d8",
+      "embedding_sidecar_sha256": "27e1b51fefa6c8ccc8fa2ed0589da629eb1689ed31a0abaad229c8fdf768481e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
-      "markdown_path": "lover/lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
+      "markdown_path": "lover/lov-om-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md",
       "removed_reason": null,
       "renderer_version": 8,
-      "slug": "lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold",
+      "slug": "lov-om-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
-      "total_changes": 2,
-      "xml_hash": "f21325d9e38396fb3a9ee9138f982efce9a0ccd53a74a54c1ba43d4f4bceba51"
+      "total_changes": 3,
+      "xml_hash": "c86f925fa4b527e4bd418c9501fc883c09123452b7199815c3188141b441d8de"
     },
     "nl-20260612-028": {
       "doc_type": "lov",
@@ -14898,15 +14902,16 @@
     },
     "nl-20260619-063": {
       "doc_type": "lov",
-      "embedding_hash": "c814f1db9e55c2549384f64490b7e1e839cdea0981258e774470110440f5a5ea",
+      "embedding_hash": "2fae7eb29703e695264b7b7e673cfd10a59e5fd69851ef90fc53e12014caa923",
       "embedding_input_hash": "12c2def44589460dc41554a8ce6d0c6eb3525344d7e62c09c3df7cacbedf76a8",
+      "embedding_sidecar_sha256": "577c6f6c3584106f35d77dfc22405dd4fbb709cd9604e076c48ed6599f967843",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [
         "32023R1804"
       ],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
       "markdown_path": "lover/lov-om-infrastruktur-for-alternativt-drivstoff-2.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -14914,8 +14919,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om infrastruktur for alternativt drivstoff",
-      "total_changes": 1,
-      "xml_hash": "c814f1db9e55c2549384f64490b7e1e839cdea0981258e774470110440f5a5ea"
+      "total_changes": 2,
+      "xml_hash": "2fae7eb29703e695264b7b7e673cfd10a59e5fd69851ef90fc53e12014caa923"
     },
     "nl-20260623-064": {
       "doc_type": "lov",
@@ -15014,22 +15019,23 @@
     },
     "nl-20260623-075": {
       "doc_type": "lov",
-      "embedding_hash": "2bf591b66fbe21b093f86fd6e3cdc9e23520179d660ed306e45ac301103afbc2",
+      "embedding_hash": "c6d1e26b65a234cfec5dce18cc4b34fc282d1fae7be3dfaffc33055cb0078059",
       "embedding_input_hash": "282dabb23abc0cc598835e188a8b965e97be43b84cff4e67e35112711351b09b",
+      "embedding_sidecar_sha256": "7a12da241000faa3bfbfb149784f5ccd36be43d7e087fbc1b1ad6a3aa73b96ed",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-07-30T18:17:57.344275Z",
-      "markdown_path": "lover/lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene.md",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
+      "markdown_path": "lover/lov-om-granskingskommisjon-epstein-dokumentene.md",
       "removed_reason": null,
       "renderer_version": 8,
-      "slug": "lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene",
+      "slug": "lov-om-granskingskommisjon-epstein-dokumentene",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene",
-      "total_changes": 1,
-      "xml_hash": "2bf591b66fbe21b093f86fd6e3cdc9e23520179d660ed306e45ac301103afbc2"
+      "total_changes": 2,
+      "xml_hash": "c6d1e26b65a234cfec5dce18cc4b34fc282d1fae7be3dfaffc33055cb0078059"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -42450,13 +42456,14 @@
     },
     "sf-20021107-1290": {
       "doc_type": "forskrift",
-      "embedding_hash": "18b46d22efcba6a3cc25f6d7e11c4a255bcd56705863e64398cebe05ffc65f90",
-      "embedding_input_hash": "96692d5cb7734e83442be65e45f18b77243b31c9f4e34d15e364f24a0f72af50",
+      "embedding_hash": "82f2bfd0357914aa8de2e6c2dde60546f5b9293488c0f4736dce1e0bba5a8a63",
+      "embedding_input_hash": "b66efd26f610d2b48eb40a68ac08cee924752e59037aad8fa71b9ccbd44741ee",
+      "embedding_sidecar_sha256": "0218dbf610daeb622c7117a95116d3a90f9a23aab0666223b519db338b8bbe19",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-09-09",
-      "last_seen": "2026-09-09T08:55:12.118049Z",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
       "markdown_path": "forskrifter/forvareforskriften-forforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -42464,8 +42471,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fôrvarer",
-      "total_changes": 4,
-      "xml_hash": "18b46d22efcba6a3cc25f6d7e11c4a255bcd56705863e64398cebe05ffc65f90"
+      "total_changes": 5,
+      "xml_hash": "82f2bfd0357914aa8de2e6c2dde60546f5b9293488c0f4736dce1e0bba5a8a63"
     },
     "sf-20021107-1476": {
       "doc_type": "forskrift",
@@ -75991,13 +75998,14 @@
     },
     "sf-20161208-1482": {
       "doc_type": "forskrift",
-      "embedding_hash": "4dc6f4385ff1446e7f941cec744dc4b717d66c78c44cbe5446aa06c1dba70775",
-      "embedding_input_hash": "d46aa560029cee62b8814b55029271e6298b5a2ec6b8c711c6aecb99cd89df65",
+      "embedding_hash": "b838675c5d8816fe33067ff0137b6edfa36bb189357dd23ce98524b181b47348",
+      "embedding_input_hash": "fafebd295e33b08bbcddec0243d8026993a144931edb1a14b477274b193ff542",
+      "embedding_sidecar_sha256": "e3a8444b3a407babd40e12a9605cf2cb36a85c1668c3d1da5f37626f56d48df6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-10-25",
-      "last_seen": "2026-10-25T20:11:20.947123Z",
+      "last_changed": "2026-11-21",
+      "last_seen": "2026-11-21T12:12:40.062177Z",
       "markdown_path": "forskrifter/spesialistforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -76005,8 +76013,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)",
-      "total_changes": 9,
-      "xml_hash": "4dc6f4385ff1446e7f941cec744dc4b717d66c78c44cbe5446aa06c1dba70775"
+      "total_changes": 10,
+      "xml_hash": "b838675c5d8816fe33067ff0137b6edfa36bb189357dd23ce98524b181b47348"
     },
     "sf-20161209-1477": {
       "doc_type": "forskrift",
@@ -115194,6 +115202,6 @@
       "xml_hash": "96ff03aa76d1e5944799477595669aadbeada439d1fe61dace027728ed2c4568"
     }
   },
-  "generated_at": "2026-11-20T12:34:21.843457Z",
+  "generated_at": "2026-11-21T12:12:40.062177Z",
   "version": 1
 }

@@ -1,0 +1,28 @@
+{
+  "doc_id": "nl-20260623-075",
+  "events": [
+    {
+      "commit": "5f4413c",
+      "date": "2026-11-21",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/lov-om-granskingskommisjon-epstein-dokumentene.md",
+      "subject": "update(lov): lov-om-granskingskommisjon-epstein-dokumentene",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "5a75f86",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 167,
+      "lines_removed": 0,
+      "path": "lover/lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene.md",
+      "subject": "add(lov): lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

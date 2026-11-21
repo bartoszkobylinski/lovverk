@@ -1,0 +1,50 @@
+{
+  "doc_id": "nl-20250527-021",
+  "events": [
+    {
+      "commit": "d3af7e9",
+      "date": "2026-11-21",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "path": "lover/lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
+      "subject": "update(lov): lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "lover/nl-20250527-021.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "path": "lover/lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "lover/lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 259,
+      "lines_removed": 0,
+      "path": "lover/nl-20250527-021.md",
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

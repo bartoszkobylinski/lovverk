@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # spesialistforskriften — Change history
 
-_9 events; doc_id `sf-20161208-1482`._
+_10 events; doc_id `sf-20161208-1482`._
+
+## 2026-11-21 — Content updated
+Lines: +15 -8.
+Subject: `update(forskrift): spesialistforskriften`
+Commit: `a4f0e82`.
 
 ## 2026-10-25 — Content updated
 Lines: +5 -4.
