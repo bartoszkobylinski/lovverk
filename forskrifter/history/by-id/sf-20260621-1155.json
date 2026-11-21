@@ -1,0 +1,28 @@
+{
+  "doc_id": "sf-20260621-1155",
+  "events": [
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 39,
+      "path": "forskrifter/endr-i-integreringsforskriften.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "91cdb6b",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "path": "forskrifter/endr-i-integreringsforskriften.md",
+      "subject": "add(forskrift): endr-i-integreringsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

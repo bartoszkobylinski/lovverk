@@ -1,0 +1,28 @@
+{
+  "doc_id": "sf-20260513-0854",
+  "events": [
+    {
+      "commit": "7fd0911",
+      "date": "2026-06-08",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 39,
+      "path": "forskrifter/forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md",
+      "subject": "remove(forskrift): forskrift-om-endring-i-forskrift-om-fartsskriververksteder",
+      "to_path": null,
+      "type": "removed"
+    },
+    {
+      "commit": "f19bd10",
+      "date": "2026-05-22",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "path": "forskrifter/forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md",
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-fartsskriververksteder",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

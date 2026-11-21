@@ -1,0 +1,28 @@
+{
+  "doc_id": "sf-20260612-1085",
+  "events": [
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 49,
+      "path": "forskrifter/endr-i-byggteknisk-forskrift-tek17.md",
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "444431f",
+      "date": "2026-06-18",
+      "from_path": null,
+      "lines_added": 49,
+      "lines_removed": 0,
+      "path": "forskrifter/endr-i-byggteknisk-forskrift-tek17.md",
+      "subject": "add(forskrift): endr-i-byggteknisk-forskrift-tek17",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}
