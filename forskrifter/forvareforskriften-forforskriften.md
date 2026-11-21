@@ -7,16 +7,16 @@ title: "Forskrift om fôrvarer"
 short_title: "Forvareforskriften – forforskriften"
 language: "no"
 ministry:
-  - "Nærings- og fiskeridepartementet"
   - "Landbruks- og matdepartementet"
+  - "Nærings- og fiskeridepartementet"
 date_in_force: "2002-11-23"
-last_change_in_force: "2025-04-30"
+last_change_in_force: "2026-11-12"
 last_updated: "2015-10-10"
-xml_hash: "18b46d22efcba6a3cc25f6d7e11c4a255bcd56705863e64398cebe05ffc65f90"
+xml_hash: "82f2bfd0357914aa8de2e6c2dde60546f5b9293488c0f4736dce1e0bba5a8a63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,9 +35,9 @@ Formålet med denne forskrift er å sikre at fôret er trygt og dermed ikke er h
 
 Forskriften gjelder tilvirkning, innførsel, utførsel og omsetning av fôrvarer til dyr, samt fôring av dyr.
 
-For fôrvarer som tilvirkes og omsettes til vitenskapelig bruk ved private eller offentlige forskningsinstitusjoner, gjelder kun [§ 4a](forskrift/2002-11-07-1290/§4a), [§ 4b](forskrift/2002-11-07-1290/§4b), [§ 5](forskrift/2002-11-07-1290/§5) og [§ 6](forskrift/2002-11-07-1290/§6) med tilhørende vedlegg. Tilsynsmyndigheten kan etter søknad gi dispensasjon og fastsette vilkår for dispensasjonen.
+For fôrvarer til vitenskapelig bruk ved private eller offentlige forskningsinstitusjoner, gjelder kun [§ 4a](forskrift/2002-11-07-1290/§4a), [§ 4b](forskrift/2002-11-07-1290/§4b), [§ 5](forskrift/2002-11-07-1290/§5) og [§ 6](forskrift/2002-11-07-1290/§6) med tilhørende vedlegg.
 
-> Endret ved [forskrifter 19 mai 2004 nr. 786](forskrift/2004-05-19-786), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010), [12 nov 2010 nr. 1425](forskrift/2010-11-12-1425), [26 sep 2013 nr. 1159](forskrift/2013-09-26-1159), [25 april 2016 nr. 428](forskrift/2016-04-25-428).
+> Endret ved [forskrifter 19 mai 2004 nr. 786](forskrift/2004-05-19-786), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010), [12 nov 2010 nr. 1425](forskrift/2010-11-12-1425), [26 sep 2013 nr. 1159](forskrift/2013-09-26-1159), [25 april 2016 nr. 428](forskrift/2016-04-25-428), [12 nov 2026 nr. 2403](forskrift/2026-11-12-2403).
 
 ### § 3. Definisjoner
 
@@ -93,27 +93,21 @@ I denne forskriften menes med:
 
 > Endret ved [forskrift 14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7), opphevet ved [forskrift 25 april 2016 nr. 428](forskrift/2016-04-25-428).
 
-### § 4a. Godkjenning av genmodifiserte fôrvarer og tilsetningsstoffer
+### § 4a. Godkjenning av genmodifiserte fôrvarer
 
-Fôrvarer herunder tilsetningsstoffer, som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:
+Tilvirkning, innførsel, omsetning og bruk av fôrvarer som er fremstilt på grunnlag av genmodifiserte organismer er bare tillatt:
 
-1. produkter som omfattes av [lov 2. april 1993 nr. 38](lov/1993-04-02-38) (genteknologiloven),
-2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+1. når fôrvarene er godkjent av Mattilsynet, eller
+2. når fôrvarene skal brukes i fiskefôr, og er godkjent i EU.
 
-Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:
+Unntatt fra godkjenningskravet i første ledd er dokumentert utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale med opp til 0,9 % dersom det genmodifiserte materialet er godkjent i EU, eller opp til 0,5 % dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av EFSA eller Vitenskapskomiteen for mat og miljø samt at analysemetodikk er offentlig tilgjengelig.
 
-1. tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, eller
-2. tilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
+Bestemmelsene i første ledd gjelder ikke produkter som:
 
-I forbindelse med søknad eller godkjenning kan Mattilsynet stille krav om analysemetodikk, prøvemateriale og sporbarhet mv.
+1. er omfattet av godkjenningskrav i [lov 2. april 1993 nr. 38 (genteknologiloven)](lov/1993-04-02-38)
+2. er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
 
-Det stilles krav om angivelse av unik identifikasjonskode for genmodifiserte organismer i ledsagende dokument for produkter som består av eller inneholder slike organismer i [forskrift 2. september 2005 nr. 1009](forskrift/2005-09-02-1009) om merking, transport, import og eksport av genmodifiserte organismer.
-
-Fôrvarer og tilsetningsstoff som allerede finnes på det norske markedet pr. 15. september 2005, kan fortsatt omsettes forutsatt at det innen 15. mars 2006 er sendt melding til Mattilsynet med informasjon om fôrvaren eller tilsetningsstoffet. Innen 15. september 2008 må det for disse fôrvarene og tilsetningsstoffene søkes om godkjenning etter [§ 7](forskrift/2002-11-07-1290/§7)a.
-
-Mattilsynet kan fastsette utfyllende forskrifter for gjennomføringen av bestemmelsene i denne paragraf.
-
-> Tilføyd ved [forskrift 9 sep 2005 nr. 1044](forskrift/2005-09-09-1044) (i kraft 15 sep 2005), endret ved [forskrift 14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7a).
+> Tilføyd ved [forskrift 9 sep 2005 nr. 1044](forskrift/2005-09-09-1044) (i kraft 15 sep 2005), endret ved [forskrifter 14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7a), [12 nov 2026 nr. 2403](forskrift/2026-11-12-2403).
 
 ### § 4b. Merking av genmodifiserte fôrmidler og tilsetningsstoffer
 
@@ -267,7 +261,9 @@ Alle utgifter som påløper i forbindelse med vedtak truffet i henhold til førs
 
 Mattilsynet kan i særlige tilfelle dispensere fra bestemmelsene i denne forskriften forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser herunder EØS-avtalen.
 
-> Endret ved [forskrifter 9 jan 2004 nr. 199](forskrift/2004-01-09-199), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 43).
+Mattilsynet kan dispensere fra bestemmelsene i [§ 4a](forskrift/2002-11-07-1290/§4a) og [§ 6](forskrift/2002-11-07-1290/§6) når fôrvarene er til vitenskapelig bruk i private eller offentlige forskningsinstitusjoner.
+
+> Endret ved [forskrifter 9 jan 2004 nr. 199](forskrift/2004-01-09-199), [14 jan 2010 nr. 65](forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 43), [12 nov 2026 nr. 2403](forskrift/2026-11-12-2403).
 
 ### § 25. Straff
 
