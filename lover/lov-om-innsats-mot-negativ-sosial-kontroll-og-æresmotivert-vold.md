@@ -1,21 +1,21 @@
 ---
 id: "nl-20260612-025"
-slug: "lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold"
+slug: "lov-om-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold"
 type: "lov"
 ref_id: "lov/2026-06-12-25"
 title: "Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold"
-short_title: null
+short_title: "Lov om innsats mot negativ sosial kontroll og æresmotivert vold"
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "f21325d9e38396fb3a9ee9138f982efce9a0ccd53a74a54c1ba43d4f4bceba51"
+xml_hash: "c86f925fa4b527e4bd418c9501fc883c09123452b7199815c3188141b441d8de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis: []
 ---
