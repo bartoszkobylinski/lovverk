@@ -4,18 +4,18 @@ slug: "lov-om-infrastruktur-for-alternativt-drivstoff-2"
 type: "lov"
 ref_id: "lov/2026-06-19-63"
 title: "Lov om infrastruktur for alternativt drivstoff"
-short_title: null
+short_title: "Lov om infrastruktur for alternativt drivstoff"
 language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "c814f1db9e55c2549384f64490b7e1e839cdea0981258e774470110440f5a5ea"
+xml_hash: "2fae7eb29703e695264b7b7e673cfd10a59e5fd69851ef90fc53e12014caa923"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis:
   - "32023R1804"
