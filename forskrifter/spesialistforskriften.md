@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2017-03-01"
-last_change_in_force: "2026-10-19"
+last_change_in_force: "2026-11-18"
 last_updated: "2024-09-12"
-xml_hash: "4dc6f4385ff1446e7f941cec744dc4b717d66c78c44cbe5446aa06c1dba70775"
+xml_hash: "b838675c5d8816fe33067ff0137b6edfa36bb189357dd23ce98524b181b47348"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-10-25T20:11:20.947123+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -414,11 +414,18 @@ Spesialistutdanning som gjelder en annen spesialitet enn den det søkes om, kan 
 
 Deler av spesialistutdanningen kan gjennomføres i et annet land etter fullført grunnutdanning i medisin, i form av spesialistutdanning, praktisk tjeneste eller andre læringsaktiviteter.
 
+Utdanning i form av et opplæringsprogram som er gjennomført etter oppnådd cand. med. eller M.D., men som etter direktiv [2005/36/EF](eu/32005l0036) om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsdirektivet) vedlegg V pkt. 5.1.1 er notifisert som grunnutdanning, kan likevel godkjennes som spesialistutdanning på linje med den norske spesialistutdanningens første del. Godkjenning forutsetter at opplæringsprogrammet:
+
+- har en varighet på minst 12 måneder og er fullført
+- inngår i et arbeidsforhold og er organisert, formalisert, strukturert og regulert av helsemyndigheter eller utdanningsinstitusjoner i utdanningslandet
+- har et definert innhold og er dokumentert med pensum eller målbeskrivelser
+- inkluderer veiledning og vurdering av kompetanse eller dokumentert måloppnåelse.
+
 Når det gjelder utdanningens første del og utdanningens tredje del i allmennmedisin, samfunnsmedisin og arbeidsmedisin kan Helsedirektoratet etter søknad bekrefte at læringsmål skal anses som oppnådd.
 
 Når det gjelder utdanningens andre og tredje del, med unntak for spesialitetene allmennmedisin, samfunnsmedisin og arbeidsmedisin, er det en godkjent utdanningsvirksomhet som kan vurdere og dokumentere oppnåelse av ett eller flere læringsmål.
 
-> Endret ved [forskrifter 19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 27), [30 aug 2023 nr. 1375](forskrift/2023-08-30-1375) (i kraft 1 sep 2023).
+> Endret ved [forskrifter 19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 27), [30 aug 2023 nr. 1375](forskrift/2023-08-30-1375) (i kraft 1 sep 2023), [18 nov 2026 nr. 2404](forskrift/2026-11-18-2404).
 
 ### § 33. Konvertering av spesialistgodkjenning fra andre land
 
@@ -453,7 +460,7 @@ Departementet fastsetter nærmere regler om gjennomføringen av spesialistutdann
 Statens helsepersonellnemnd er klageinstans for vedtak om avslag på søknad om
 
 1. spesialistgodkjenning etter [§ 29](forskrift/2016-12-08-1482/§29), [§ 33](forskrift/2016-12-08-1482/§33) og [§ 34](forskrift/2016-12-08-1482/§34)
-2. bekreftelse av oppnådde læringsmål etter [§ 32](forskrift/2016-12-08-1482/§32) andre ledd.
+2. bekreftelse av oppnådde læringsmål etter [§ 32 tredje ledd](forskrift/2016-12-08-1482/§32/ledd/3).
 
 Nasjonalt klageorgan for helse- og omsorgstjenesten (Helseklage) er klageinstans for vedtak om
 
@@ -469,7 +476,7 @@ Nasjonalt klageorgan for helse- og omsorgstjenesten (Helseklage) er klageinstans
 10. avslag om eller tilbaketrekning av godkjenning av utdanningsvirksomhet etter [§ 20](forskrift/2016-12-08-1482/§20) første ledd første punktum eller [§ 27](forskrift/2016-12-08-1482/§27) andre ledd første punktum
 11. avslag på registrering av utdanningsvirksomhet etter [§ 21](forskrift/2016-12-08-1482/§21) første ledd.
 
-> Endret ved [forskrifter 16 feb 2017 nr. 193](forskrift/2017-02-16-193) (i kraft 1 mars 2017), [19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 30).
+> Endret ved [forskrifter 16 feb 2017 nr. 193](forskrift/2017-02-16-193) (i kraft 1 mars 2017), [19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 30), [18 nov 2026 nr. 2404](forskrift/2026-11-18-2404).
 
 ### § 36. Overgangsregler som følge av avvikling av turnus
 
@@ -511,13 +518,13 @@ Virksomheter som innen 1. juni 2019 søker om registrering som utdanningsvirksom
 
 ### § 39. Ikrafttredelse
 
-Forskriften trer i kraft 1. mars 2017 når det gjelder utdanningens første del, inkludert godkjenning etter [§ 32](forskrift/2016-12-08-1482/§32) andre ledd, og når det gjelder spesialisering for tannleger etter [§ 34](forskrift/2016-12-08-1482/§34).
+Forskriften trer i kraft 1. mars 2017 når det gjelder utdanningens første del, inkludert godkjenning etter [§ 32 tredje ledd](forskrift/2016-12-08-1482/§32/ledd/3), og når det gjelder spesialisering for tannleger etter [§ 34](forskrift/2016-12-08-1482/§34).
 
 Forskriften trer i kraft 1. mars 2019 når det gjelder utdanningens andre og tredje del og spesialistgodkjenning etter [§ 29](forskrift/2016-12-08-1482/§29) til [§ 33](forskrift/2016-12-08-1482/§33).
 
 Endringer i øvrige forskrifter trer i kraft 1. mars 2017.
 
-> Endret ved [forskrifter 16 feb 2017 nr. 193](forskrift/2017-02-16-193) (i kraft 1 mars 2017), [19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 34).
+> Endret ved [forskrifter 16 feb 2017 nr. 193](forskrift/2017-02-16-193) (i kraft 1 mars 2017), [19 des 2018 nr. 2171](forskrift/2018-12-19-2171) (i kraft 1 mars 2019, tidligere § 34), [18 nov 2026 nr. 2404](forskrift/2026-11-18-2404).
 
 ## Vedlegg 1. Legespesialitetene
 
