@@ -1,21 +1,21 @@
 ---
 id: "nl-20260623-075"
-slug: "lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene"
+slug: "lov-om-granskingskommisjon-epstein-dokumentene"
 type: "lov"
 ref_id: "lov/2026-06-23-75"
 title: "Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene"
-short_title: null
+short_title: "Lov om granskingskommisjon, Epstein-dokumentene"
 language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2026-06-23"
 last_change_in_force: null
 last_updated: null
-xml_hash: "2bf591b66fbe21b093f86fd6e3cdc9e23520179d660ed306e45ac301103afbc2"
+xml_hash: "c6d1e26b65a234cfec5dce18cc4b34fc282d1fae7be3dfaffc33055cb0078059"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis: []
 ---
