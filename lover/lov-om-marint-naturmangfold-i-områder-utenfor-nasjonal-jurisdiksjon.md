@@ -1,21 +1,21 @@
 ---
 id: "nl-20250527-021"
-slug: "lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon"
+slug: "lov-om-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon"
 type: "lov"
 ref_id: "lov/2025-05-27-21"
 title: "Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon"
-short_title: "Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon"
+short_title: "Lov om marint naturmangfold i områder utenfor nasjonal jurisdiksjon"
 language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2026-01-17"
 last_change_in_force: null
 last_updated: null
-xml_hash: "e1ea3fc65c6ee853bc8d9ea39ac0dc8ac895d3ed7f5ccce02d6bd51db3f98452"
+xml_hash: "650251b3282db6c69960eb25c626f6df12a4c357d278042b72c6615e9cbbe351"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis: []
 ---
