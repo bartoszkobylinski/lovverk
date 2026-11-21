@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: null
-last_change_in_force: null
+last_change_in_force: "2026-11-03"
 last_updated: "2021-07-01"
-xml_hash: "11c17004659719b4d7d2752d7bc6846fcc0feaaeb8e15027afc38923dca013e7"
+xml_hash: "6db3d21ed08f62f5dfcbed10fe87fe5014bd7f9633b9e33be3284c699077a9cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-21T12:12:40.062177+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -226,7 +226,7 @@ Ingen framande stridskrefter, så nær som allierte styrkar, må dragast inn i r
 
 Kongen har ikkje rett til å nytte militær makt mot innbyggjarane utan etter lov.
 
-> Endra med vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 14 mai 2020 kunngjort med [res. 29 mai 2020 nr. 1085](forskrift/2020-05-29-1085), 3 nov 2026 (offisiell kunngjering kjem seinare med kgl.res.).
+> Endra med vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 14 mai 2020 kunngjort med [res. 29 mai 2020 nr. 1085](forskrift/2020-05-29-1085), 3 nov 2026 (kunngjort med [res. 20 nov 2026 nr. 2435](forskrift/2026-11-20-2435)).
 
 ### § 26
 
@@ -234,7 +234,7 @@ Kongen har rett til å inngå og seie opp folkerettslege avtaler og til å sende
 
 Folkerettslege avtaler om særleg viktige saker blir fyrst bindande når Stortinget har gjeve samtykke til det. Det same gjeld alle folkerettslege avtaler som etter konstitusjonen ikkje kan setjast i verk utan ei ny lov eller eit nytt stortingsvedtak.
 
-> Endra med vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 3 nov 2026 (offisiell kunngjering kjem seinare med kgl.res.).
+> Endra med vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 3 nov 2026 (kunngjort med [res. 20 nov 2026 nr. 2435](forskrift/2026-11-20-2435)).
 
 ### § 27
 
@@ -330,7 +330,7 @@ Til dess Stortinget kjem saman og innrettar regjeringa for den tida kongen er mi
 
 Er kongen utanfor riket utan å vere i felt, eller er han så sjuk at han ikkje kan ta seg av regjeringa, skal den næraste arvingen til trona stå for regjeringa som mellombels utøvar av kongemakta, så framt ho eller han har nådd myndig alder for kongen. Kan heller ikkje den næraste arvingen stå for regjeringa, står hennar eller hans barn for regjeringa som mellombels utøvar av kongemakta, så framt ho eller han er neste arvingen til trona og har nådd myndig alder for kongen. I motsett fall er det statsrådet som står for styringa av riket.
 
-> Endra med grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort med [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 3 nov 2026 (offisiell kunngjering kjem seinare med kgl.res.).
+> Endra med grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort med [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788), 3 nov 2026 (kunngjort med [res. 20 nov 2026 nr. 2434](forskrift/2026-11-20-2434)).
 
 ### § 42
 
