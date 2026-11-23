@@ -97,14 +97,14 @@
     },
     "nl-18140517-000": {
       "doc_type": "lov",
-      "embedding_hash": "92217831162138942b4221b1e15438b8c50b1f7b17ece55cb1760bde189b8ba9",
-      "embedding_input_hash": "66b5ef851e16a976506e7f0cc5fa4de4ff2484bccf342ea32d4bcc1bcd7d7a1c",
-      "embedding_sidecar_sha256": "4fd5392c659812a0b016058996fe85b095f1a238f9cd8f6c383f1294ae07b8fd",
+      "embedding_hash": "caeb926d705436fa87301a3f8c463857d26641f1a292c414380b2efec06f91e2",
+      "embedding_input_hash": "3fb4184abe6b42a8bee0dbadc37df7b2abdebc4352d9993e7bd88e1f831fd1e9",
+      "embedding_sidecar_sha256": "2e7b794dbdb7b2123d20808e157871db7401f3c767393b53d8b0669b0969c4a0",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-21",
-      "last_seen": "2026-11-21T12:12:40.062177Z",
+      "last_changed": "2026-11-23",
+      "last_seen": "2026-11-23T14:06:46.666114Z",
       "markdown_path": "lover/grunnloven-bokmål-grl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -112,8 +112,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Kongeriket Norges Grunnlov",
-      "total_changes": 5,
-      "xml_hash": "92217831162138942b4221b1e15438b8c50b1f7b17ece55cb1760bde189b8ba9"
+      "total_changes": 6,
+      "xml_hash": "caeb926d705436fa87301a3f8c463857d26641f1a292c414380b2efec06f91e2"
     },
     "nl-18140517-000-nn": {
       "doc_type": "lov",
@@ -115202,6 +115202,6 @@
       "xml_hash": "96ff03aa76d1e5944799477595669aadbeada439d1fe61dace027728ed2c4568"
     }
   },
-  "generated_at": "2026-11-21T12:12:40.062177Z",
+  "generated_at": "2026-11-23T14:06:46.666114Z",
   "version": 1
 }

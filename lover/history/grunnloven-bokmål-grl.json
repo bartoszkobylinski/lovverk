@@ -2,6 +2,16 @@
   "doc_id": "nl-18140517-000",
   "events": [
     {
+      "commit": "1fb2be3",
+      "date": "2026-11-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): grunnloven-bokmål-grl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6c7047d",
       "date": "2026-11-21",
       "from_path": null,
