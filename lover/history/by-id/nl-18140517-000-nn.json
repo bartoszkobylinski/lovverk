@@ -2,6 +2,17 @@
   "doc_id": "nl-18140517-000-nn",
   "events": [
     {
+      "commit": "8ddb515",
+      "date": "2026-11-24",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "path": "lover/grunnlova-nynorsk-grl.md",
+      "subject": "update(lov): grunnlova-nynorsk-grl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "cb169dc",
       "date": "2026-11-21",
       "from_path": null,

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # grunnlova-nynorsk-grl — Change history
 
-_5 events; doc_id `nl-18140517-000-nn`._
+_6 events; doc_id `nl-18140517-000-nn`._
+
+## 2026-11-24 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): grunnlova-nynorsk-grl`
+Commit: `8ddb515`.
 
 ## 2026-11-21 — Content updated
 Lines: +6 -6.

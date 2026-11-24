@@ -2,6 +2,17 @@
   "doc_id": "sf-20140822-1097",
   "events": [
     {
+      "commit": "b086e94",
+      "date": "2026-11-24",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 5,
+      "path": "forskrifter/crr-crd-forskriften.md",
+      "subject": "update(forskrift): crr-crd-forskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a2add5a",
       "date": "2026-11-17",
       "from_path": null,

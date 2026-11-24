@@ -2,6 +2,16 @@
   "doc_id": "sf-20250701-1396",
   "events": [
     {
+      "commit": "6c76430",
+      "date": "2026-11-24",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 3,
+      "subject": "update(forskrift): innkrevingsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e4512a9",
       "date": "2026-08-26",
       "from_path": null,

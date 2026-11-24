@@ -117,14 +117,14 @@
     },
     "nl-18140517-000-nn": {
       "doc_type": "lov",
-      "embedding_hash": "6db3d21ed08f62f5dfcbed10fe87fe5014bd7f9633b9e33be3284c699077a9cc",
-      "embedding_input_hash": "52b9554ea18854809f8e475de41b1697c6acb9fbb6170b40e7eafd7e4ce058ad",
-      "embedding_sidecar_sha256": "61ce952a9cc7a7607c5521f191d33043a35f44c49dc934cdf3f028cbf359e93f",
+      "embedding_hash": "b816c71d9cd32435bccebc0330f3a872ca6405190f02061f6a9e032e5912c4c0",
+      "embedding_input_hash": "06cf5b141808b8d5f4b5a29cd6f5e992fd2a8777ab78a791a2018e5c5054a91a",
+      "embedding_sidecar_sha256": "85ce9fe11e2003a54b9772bdc6a0a10e92b3901f077b212a62e2a4793f2c989d",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-21",
-      "last_seen": "2026-11-21T12:12:40.062177Z",
+      "last_changed": "2026-11-24",
+      "last_seen": "2026-11-24T14:38:00.321769Z",
       "markdown_path": "lover/grunnlova-nynorsk-grl.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -132,8 +132,8 @@
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Kongeriket Noregs grunnlov",
-      "total_changes": 5,
-      "xml_hash": "6db3d21ed08f62f5dfcbed10fe87fe5014bd7f9633b9e33be3284c699077a9cc"
+      "total_changes": 6,
+      "xml_hash": "b816c71d9cd32435bccebc0330f3a872ca6405190f02061f6a9e032e5912c4c0"
     },
     "nl-18450607-000": {
       "doc_type": "lov",
@@ -36433,13 +36433,14 @@
     },
     "sf-19990913-1052": {
       "doc_type": "forskrift",
-      "embedding_hash": "860cb5dee3446c0444a765a78513ea98a37497ed4e0f2716c68d46ca8429a261",
-      "embedding_input_hash": "14c09bd7d71c4ef1ac193338c625e811d0418ddb2238b5a1b97924dbcd44a41d",
+      "embedding_hash": "1893cd07c45ba4548ec3ada32d5a650713eba7cf833c70a50ee9fd41111516e3",
+      "embedding_input_hash": "520e6b6d2902a6c060960064876b0e4eea3a6728eb426c33ebde22f981193fdf",
+      "embedding_sidecar_sha256": "b230814e6df59cfdbb89df7e6f9946cddc616be46a81f536be7fd0bde220cbb6",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-05",
-      "last_seen": "2026-11-05T11:51:28.204067Z",
+      "last_changed": "2026-11-24",
+      "last_seen": "2026-11-24T14:38:00.321769Z",
       "markdown_path": "forskrifter/forskrift-om-såvarer.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -36447,8 +36448,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om såvarer",
-      "total_changes": 10,
-      "xml_hash": "860cb5dee3446c0444a765a78513ea98a37497ed4e0f2716c68d46ca8429a261"
+      "total_changes": 11,
+      "xml_hash": "1893cd07c45ba4548ec3ada32d5a650713eba7cf833c70a50ee9fd41111516e3"
     },
     "sf-19990916-1076": {
       "doc_type": "forskrift",
@@ -58610,14 +58611,14 @@
     },
     "sf-20091215-1540": {
       "doc_type": "forskrift",
-      "embedding_hash": "642fbc6f5a56cfc6940966c9e36d70023b040c081978057f1171ca8f4ad02f4a",
-      "embedding_input_hash": "58b042f34b81f1faf688999cf12c7834489036dbac0f56124133ed77f51c5eaa",
-      "embedding_sidecar_sha256": "d9f0a36b5f1e519d4558357a452c82bfc054c6319fcb2b96644e0ce464f4c839",
+      "embedding_hash": "5093f3434e63ca048037a9424efe63e9af84cb4a8c721329fea38afbc80b5b4f",
+      "embedding_input_hash": "cf2835d1324846d658bc5260439a92b294046c3b01d0b1e3acdccad0d99380ff",
+      "embedding_sidecar_sha256": "930715efd52cd46ee8f1386764b57a5294d62068cc26fbf6a0385aa921a5296e",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-18",
-      "last_seen": "2026-11-18T12:44:50.155955Z",
+      "last_changed": "2026-11-24",
+      "last_seen": "2026-11-24T14:38:00.321769Z",
       "markdown_path": "forskrifter/merverdiavgiftsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -58625,8 +58626,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til merverdiavgiftsloven (merverdiavgiftsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "642fbc6f5a56cfc6940966c9e36d70023b040c081978057f1171ca8f4ad02f4a"
+      "total_changes": 6,
+      "xml_hash": "5093f3434e63ca048037a9424efe63e9af84cb4a8c721329fea38afbc80b5b4f"
     },
     "sf-20091215-1543": {
       "doc_type": "forskrift",
@@ -69575,14 +69576,14 @@
     },
     "sf-20140822-1097": {
       "doc_type": "forskrift",
-      "embedding_hash": "bf9b93ac424a6454c5a66631cec527facfd41a8d77a53df2ddd21594087fbd3d",
-      "embedding_input_hash": "7d078d54914455af8a59b1880ad1cb2c2395012e19d8d12afb071809624f62bb",
-      "embedding_sidecar_sha256": "e19e6fad28a022515980cf5a8d0ee01fc933e9f2d2e815665238da09448e3fd1",
+      "embedding_hash": "58fe19de64dabb66d9b8a69e61dcc94708fc62d7d96fdadd8642ec25906e9887",
+      "embedding_input_hash": "86a4743401c5210004726425d1285cd5bdf54c2838289f4cb527460f2a536986",
+      "embedding_sidecar_sha256": "5e03ddc8f8e1a35883e1c7defaf7db818399bb2cacdc3f7e8225d0fea790cbc2",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-11-17",
-      "last_seen": "2026-11-17T18:36:58.934886Z",
+      "last_changed": "2026-11-24",
+      "last_seen": "2026-11-24T14:38:00.321769Z",
       "markdown_path": "forskrifter/crr-crd-forskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -69590,8 +69591,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kapitalkrav og gjennomføring av CRR/CRD-regelverket (CRR/CRD-forskriften)",
-      "total_changes": 6,
-      "xml_hash": "bf9b93ac424a6454c5a66631cec527facfd41a8d77a53df2ddd21594087fbd3d"
+      "total_changes": 7,
+      "xml_hash": "58fe19de64dabb66d9b8a69e61dcc94708fc62d7d96fdadd8642ec25906e9887"
     },
     "sf-20140822-1121": {
       "doc_type": "forskrift",
@@ -105428,13 +105429,14 @@
     },
     "sf-20250701-1396": {
       "doc_type": "forskrift",
-      "embedding_hash": "d7775d367d173031b3ee38b50cc1c9d3084e9d22b9c8ba04b6379de5cf6359ce",
-      "embedding_input_hash": "6e28b396fb2f1edd39b6a41207d35993bb8a5079b6679d657ac14aef5d9cbe91",
+      "embedding_hash": "6df82f1772def410ba5b1f5dc3ad5e1b14120bd939870021b07732a600f08bf4",
+      "embedding_input_hash": "619637976013bc9f861309cd2b2081c8fafd96e52829fb205087bff301d4d52a",
+      "embedding_sidecar_sha256": "dd65f0b0703bf8dd687ce591b1aa42e1a6bffbb43fb593f2b001ded03cd8d07b",
       "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
       "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
       "eu_basis": [],
-      "last_changed": "2026-08-26",
-      "last_seen": "2026-08-26T04:49:51.474577Z",
+      "last_changed": "2026-11-24",
+      "last_seen": "2026-11-24T14:38:00.321769Z",
       "markdown_path": "forskrifter/innkrevingsforskriften.md",
       "removed_reason": null,
       "renderer_version": 8,
@@ -105442,8 +105444,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om innkreving av statlige krav mv. (innkrevingsforskriften)",
-      "total_changes": 4,
-      "xml_hash": "d7775d367d173031b3ee38b50cc1c9d3084e9d22b9c8ba04b6379de5cf6359ce"
+      "total_changes": 5,
+      "xml_hash": "6df82f1772def410ba5b1f5dc3ad5e1b14120bd939870021b07732a600f08bf4"
     },
     "sf-20250701-1397": {
       "doc_type": "forskrift",
@@ -115200,8 +115202,28 @@
       "title": "Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2027",
       "total_changes": 1,
       "xml_hash": "96ff03aa76d1e5944799477595669aadbeada439d1fe61dace027728ed2c4568"
+    },
+    "sf-20261119-2431": {
+      "doc_type": "forskrift",
+      "embedding_hash": "83e24dd7940f70be345bcd74699c24368541816f82e3aa449d14ef94a5d3c6be",
+      "embedding_input_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "embedding_sidecar_sha256": "0d9b11aa87bcec8fa2fc0c5718af0073329582d5694e6238f8e86989c233f6a3",
+      "embedding_space": "provider=openai;model=text-embedding-3-large;dim=3072;endpoint=default",
+      "embedding_space_id": "738c919fa57385d94c558d93c4b0e588",
+      "eu_basis": [],
+      "last_changed": "2026-11-24",
+      "last_seen": "2026-11-24T14:38:00.321769Z",
+      "markdown_path": "forskrifter/endr-i-merverdiavgiftsforskriften-2026.md",
+      "removed_reason": null,
+      "renderer_version": 8,
+      "slug": "endr-i-merverdiavgiftsforskriften-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i merverdiavgiftsforskriften",
+      "total_changes": 1,
+      "xml_hash": "83e24dd7940f70be345bcd74699c24368541816f82e3aa449d14ef94a5d3c6be"
     }
   },
-  "generated_at": "2026-11-23T14:06:46.666114Z",
+  "generated_at": "2026-11-24T14:38:00.321769Z",
   "version": 1
 }

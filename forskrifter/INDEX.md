@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5157 current documents_
+_5158 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1302,6 +1302,7 @@ _5157 current documents_
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
 - [endr-i-merverdiavgiftsforskriften](endr-i-merverdiavgiftsforskriften.md) — Forskrift om endring i merverdiavgiftsforskriften
+- [endr-i-merverdiavgiftsforskriften-2026](endr-i-merverdiavgiftsforskriften-2026.md) — Forskrift om endring i merverdiavgiftsforskriften
 - [endr-i-pasientreiseforskriften](endr-i-pasientreiseforskriften.md) — Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)
 - [endr-i-personopplysningsforskriften](endr-i-personopplysningsforskriften.md) — Forskrift om endringer i personopplysningsforskriften
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)

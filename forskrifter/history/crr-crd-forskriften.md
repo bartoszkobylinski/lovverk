@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # crr-crd-forskriften — Change history
 
-_6 events; doc_id `sf-20140822-1097`._
+_7 events; doc_id `sf-20140822-1097`._
+
+## 2026-11-24 — Content updated
+Lines: +8 -5.
+Subject: `update(forskrift): crr-crd-forskriften`
+Commit: `b086e94`.
 
 ## 2026-11-17 — Content updated
 Lines: +7 -4.

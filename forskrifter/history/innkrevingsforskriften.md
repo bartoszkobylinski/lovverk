@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # innkrevingsforskriften — Change history
 
-_4 events; doc_id `sf-20250701-1396`._
+_5 events; doc_id `sf-20250701-1396`._
+
+## 2026-11-24 — Content updated
+Lines: +9 -3.
+Subject: `update(forskrift): innkrevingsforskriften`
+Commit: `6c76430`.
 
 ## 2026-08-26 — Content updated
 Lines: +6 -4.

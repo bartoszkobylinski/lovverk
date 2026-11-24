@@ -2,6 +2,17 @@
   "doc_id": "sf-20091215-1540",
   "events": [
     {
+      "commit": "b85e570",
+      "date": "2026-11-24",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "forskrifter/merverdiavgiftsforskriften.md",
+      "subject": "update(forskrift): merverdiavgiftsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "88af4f0",
       "date": "2026-11-18",
       "from_path": null,
