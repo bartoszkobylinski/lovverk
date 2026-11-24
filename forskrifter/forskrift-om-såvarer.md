@@ -10,12 +10,12 @@ ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "1999-09-13"
 last_change_in_force: "2026-09-03"
-last_updated: "2025-02-01"
-xml_hash: "860cb5dee3446c0444a765a78513ea98a37497ed4e0f2716c68d46ca8429a261"
+last_updated: "2026-11-23"
+xml_hash: "1893cd07c45ba4548ec3ada32d5a650713eba7cf833c70a50ee9fd41111516e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-24T14:38:00.321769+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -209,7 +209,7 @@ Avl av såvare kan bare foregå på grunnlag av en skriftlig kontrakt mellom en 
 
 Krav til gårder som skal drive avl av klasse prebasis fremgår av vedlegg A11.
 
-På areal der det er påvist floghavre kan det ikke avles såkorn eller såfrø av oljevekster, bladfaks, engsvingel, strandsvingel, raigras eller raisvingel i funnåret. Før det igjen kan avles såvarer av nevnte arter må det i to vekstsesonger etter hverandre ha vært dyrket bygg eller vårhvete på arealet og vekstkontroll må være gjennomført i begge vekstsesonger etter reglene i [§ 10](lov/2003-12-19-124/§10) uten at det er påvist floghavre. Med areal menes her området nærmere enn 100 meter fra stedet der floghavren er funnet. Hvis deler av området er naturlig avgrenset av vei, skog, bekk, eiendomsgrense eller lignende, regnes områdene utenfor avgrensningen ikke som en del av arealet.
+På areal der det er påvist floghavre kan det ikke avles såkorn eller såfrø av oljevekster, bladfaks, engsvingel, strandsvingel, raigras eller raisvingel i funnåret. Før det igjen kan avles såvarer av nevnte arter må det i to vekstsesonger etter hverandre ha vært dyrket bygg eller vårhvete på arealet og vekstkontroll må være gjennomført i begge vekstsesonger etter reglene i [§ 10](forskrift/1999-09-13-1052/§10) uten at det er påvist floghavre. Med areal menes her området nærmere enn 100 meter fra stedet der floghavren er funnet. Hvis deler av området er naturlig avgrenset av vei, skog, bekk, eiendomsgrense eller lignende, regnes områdene utenfor avgrensningen ikke som en del av arealet.
 
 Mattilsynet skal gis uhindret adgang til alle arealer kontraktavleren driver, innbefattet arealer utenom kontrakt. Dette gjelder også maskiner, rom og anlegg som kontraktavleren benytter til lagring og behandling av såvarer.
 
