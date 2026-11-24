@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-08-24"
+last_change_in_force: "2026-11-19"
 last_updated: null
-xml_hash: "d7775d367d173031b3ee38b50cc1c9d3084e9d22b9c8ba04b6379de5cf6359ce"
+xml_hash: "6df82f1772def410ba5b1f5dc3ad5e1b14120bd939870021b07732a600f08bf4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-08-26T04:49:51.474577+00:00"
+retrieved_at: "2026-11-24T14:38:00.321769+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -287,6 +287,12 @@ Innkrevingsmyndigheten kan beslutte avregning for
 1. krav etter [folketrygdloven § 22-16](lov/1997-02-28-19/§22-16)
 2. etteroppgjør med hjemmel i [AFP-tilskottsloven § 15](lov/2010-02-19-5/§15)
 3. etteroppgjør med hjemmel i [lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d](lov/2010-06-25-28/§3/bokstav/d).
+
+### § 2-11. Krav som Innkrevingsmyndigheten kun kan innvilge betalingsavtale og ettergivelse for
+
+Innkrevingsmyndigheten kan innvilge betalingsavtale og ettergivelse etter [innkrevingsloven §§ 17](lov/2025-04-25-12/§17) og [18](lov/2025-04-25-12/§18) for utdanningsstøtte gitt med hjemmel i [utdanningsstøtteloven](lov/2005-06-03-37) der lånet ikke er oppsagt av Lånekassen.
+
+> Tilføyd ved forskrift [19 nov 2026 nr. 2433](forskrift/2026-11-19-2433).
 
 ### Utøvelse av kreditorposisjon
 
