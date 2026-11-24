@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-05"
-xml_hash: "642fbc6f5a56cfc6940966c9e36d70023b040c081978057f1171ca8f4ad02f4a"
+xml_hash: "5093f3434e63ca048037a9424efe63e9af84cb4a8c721329fea38afbc80b5b4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-18T12:44:50.155955+00:00"
+retrieved_at: "2026-11-24T14:38:00.321769+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -366,7 +366,7 @@ Ved uttak av varer til kiosk- eller serveringsvirksomhet som er unntatt etter [m
 
 (3) Første og andre ledd gjelder for varer som reisende innfører utover avgiftsfri kvote og som er til personlig bruk. Første og andre ledd gjelder ikke for varer som innføres for videresalg eller annet ervervsmessig formål og heller ikke for varer som er kjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
-> Tilføyd ved forskrift [24 mai 2024 nr. 826](forskrift/2024-05-24-826) (i kraft 1 juni 2024). **Endres** ved forskrift [16 nov 2026 nr. 2362](forskrift/2026-11-16-2362) (i kraft 1 jan 2027).
+> Tilføyd ved forskrift [24 mai 2024 nr. 826](forskrift/2024-05-24-826) (i kraft 1 juni 2024). **Endres** ved forskrifter [16 nov 2026 nr. 2362](forskrift/2026-11-16-2362) (i kraft 1 jan 2027), [19 nov 2026 nr. 2431](forskrift/2026-11-19-2431) (i kraft 1 jan 2027).
 
 ### § 5-2. Næringsmidler
 
