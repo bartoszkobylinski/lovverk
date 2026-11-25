@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger — Change history
 
-_4 events; doc_id `sf-20181206-1813`._
+_5 events; doc_id `sf-20181206-1813`._
+
+## 2026-11-25 — Content updated
+Lines: +27 -7.
+Subject: `update(forskrift): forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger`
+Commit: `1fed102`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

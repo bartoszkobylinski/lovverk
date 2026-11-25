@@ -2,6 +2,16 @@
   "doc_id": "nl-19761217-100",
   "events": [
     {
+      "commit": "54aa3c6",
+      "date": "2026-11-25",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): forsinkelsesrenteloven-rentel",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

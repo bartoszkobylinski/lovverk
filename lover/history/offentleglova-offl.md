@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # offentleglova-offl — Change history
 
-_6 events; doc_id `nl-20060519-016`._
+_7 events; doc_id `nl-20060519-016`._
+
+## 2026-11-25 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): offentleglova-offl`
+Commit: `4f044a9`.
 
 ## 2026-07-01 — Content updated
 Lines: +18 -18.

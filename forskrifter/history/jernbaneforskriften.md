@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # jernbaneforskriften — Change history
 
-_3 events; doc_id `sf-20210630-2315`._
+_4 events; doc_id `sf-20210630-2315`._
+
+## 2026-11-25 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): jernbaneforskriften`
+Commit: `b3ed08d`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

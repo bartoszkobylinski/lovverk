@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sanksjoner-i-lys-av-situasjonen-i-haiti — Change history
 
-_3 events; doc_id `sf-20230324-0404`._
+_4 events; doc_id `sf-20230324-0404`._
+
+## 2026-11-25 — Content updated
+Lines: +34 -24.
+Subject: `update(forskrift): forskrift-om-sanksjoner-i-lys-av-situasjonen-i-haiti`
+Commit: `e9e4de2`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

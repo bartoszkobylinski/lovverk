@@ -2,6 +2,16 @@
   "doc_id": "sf-20100318-0425",
   "events": [
     {
+      "commit": "da38f08",
+      "date": "2026-11-25",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 4,
+      "subject": "update(forskrift): delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "99956b7",
       "date": "2026-07-07",
       "from_path": null,

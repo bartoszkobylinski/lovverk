@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forsinkelsesrenteloven-rentel — Change history
 
-_5 events; doc_id `nl-19761217-100`._
+_6 events; doc_id `nl-19761217-100`._
+
+## 2026-11-25 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): forsinkelsesrenteloven-rentel`
+Commit: `54aa3c6`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -3.

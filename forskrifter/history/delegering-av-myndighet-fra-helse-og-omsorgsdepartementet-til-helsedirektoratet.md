@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet — Change history
 
-_3 events; doc_id `sf-20100318-0425`._
+_4 events; doc_id `sf-20100318-0425`._
+
+## 2026-11-25 — Content updated
+Lines: +8 -4.
+Subject: `update(forskrift): delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet`
+Commit: `da38f08`.
 
 ## 2026-07-07 — Content updated
 Lines: +55 -4.
