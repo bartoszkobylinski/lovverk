@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2018-12-06"
-last_change_in_force: "2025-06-26"
+last_change_in_force: "2026-11-23"
 last_updated: "2019-02-12"
-xml_hash: "7f36dbc828367b083c297c1aa010f6aceaba853a50aa8212a291c49660d65b10"
+xml_hash: "022e9e368fa53204125109ed6accb47e8eff60a38668983be475c8cbfdcc094d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-25T13:57:52.133855+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,11 @@ eu_basis: []
 
 EØS-avtalen vedlegg XX nr. 32c og vedlegg XIII nr. 56b (forordning [(EU) nr. 1257/2013](eu/32013r1257) om gjenvinning av skip og om endring av forordning [(EF) 1013/2006](eu/32006r1013*) og direktiv [2009/16/EF](eu/32009l0016*)) (skipsgjenvinningsforordningen) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XX nr. 32fh, vedlegg XX, vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-## § 1a. Definisjon av skip i §§ 1b og 1c
+## § 1a. Definisjon av skip i §§ 1b, 1c og 1d
 
-Med skip menes i [§§ 1b](forskrift/2018-12-06-1813/§1b) og [1c](forskrift/2018-12-06-1813/§1c) skip som definert i skipsgjenvinningsforordningen artikkel 3 nr. 1.1, med unntak av skip som nevnt i skipsgjenvinningsforordningen artikkel 2 nr. 2.
+Med skip menes i [§§ 1b](forskrift/2018-12-06-1813/§1b), [1c](forskrift/2018-12-06-1813/§1b) og [1d](forskrift/2018-12-06-1813/§1d) skip som definert i skipsgjenvinningsforordningen artikkel 3 nr. 1.1, med unntak av skip som nevnt i skipsgjenvinningsforordningen artikkel 2 nr. 2.
 
-> Tilføyd ved forskrift [25 juni 2025 nr. 1339](forskrift/2025-06-25-1339) (i kraft 26 juni 2025).
+> Tilføyd ved forskrift [25 juni 2025 nr. 1339](forskrift/2025-06-25-1339) (i kraft 26 juni 2025), endret ved forskrift [23 nov 2026 nr. 2439](forskrift/2026-11-23-2439).
 
 ## § 1b. Sertifikatkrav etter Hongkong-konvensjonen
 
@@ -60,6 +60,24 @@ Ved gjenvinning gjelder kravene til skipsgjenvinningsanlegg i skipgjenvinningsfo
 
 > Tilføyd ved forskrift [25 juni 2025 nr. 1339](forskrift/2025-06-25-1339) (i kraft 26 juni 2025).
 
+## § 1d. Meldeplikt til Arbeidstilsynet
+
+Arbeidsgiver ved skipsgjenvinningsanlegg skal så raskt som mulig gi skriftlig melding til Arbeidstilsynet om:
+
+1. mindre alvorlige arbeidsulykker, som det ikke kreves varsel om etter [arbeidsmiljøloven § 5-2 første ledd](lov/2005-06-17-62/§5-2/ledd/1), alle fare- eller ulykkessituasjoner som har oppstått på arbeidsplassen i forbindelse med gjenvinning av skip og som utgjør eller som har potensial til å utgjøre risiko for arbeidstakernes sikkerhet, fysiske og psykiske helse og arbeidsmiljøet
+2. arbeidsrelatert sykdom eller kroniske helseplager som er eller kan være forårsaket av arbeidet eller forholdene på arbeidsplassen i forbindelse med gjenvinning av skip.
+
+Meldingen til Arbeidstilsynet skal inneholde:
+
+1. en beskrivelse av arbeidsulykken, fare- eller ulykkessituasjonen, den arbeidsrelaterte sykdommen eller den kroniske helseplagen
+2. opplysninger om årsaker og underliggende forhold
+3. tiltak som er iverksatt
+4. opplysninger om konsekvenser og planlagte korrigerende tiltak.
+
+Verneombudet skal ha kopi av meldingen til Arbeidstilsynet.
+
+> Tilføyd ved forskrift [23 nov 2026 nr. 2439](forskrift/2026-11-23-2439).
+
 ## § 2. Utforming av nærmere angitte dokumenter
 
 Meldinger om planlagt oppstart av gjenvinning av skip som nevnt i skipsgjenvinningsforordningen artikkel 13 nr. 2 bokstav b, skal utformes i henhold til vedlegg I til denne forskriften. Kopi av meldingen skal sendes til Miljødirektoratet.
@@ -86,7 +104,9 @@ Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger fatter ved
 
 Sjøfartsdirektoratet fatter vedtak etter de øvrige bestemmelsene i skipsgjenvinningsforordningen, samt [§ 1b](forskrift/2018-12-06-1813/§1b) og [§ 1c](forskrift/2018-12-06-1813/§1c) fjerde ledd, og fører tilsyn med at disse bestemmelsene overholdes.
 
-> Endret ved forskrift [25 juni 2025 nr. 1339](forskrift/2025-06-25-1339) (i kraft 26 juni 2025).
+Arbeidstilsynet fører tilsyn med at meldeplikten etter [§ 1d](forskrift/2018-12-06-1813/§1d) overholdes. Arbeidstilsynet gir pålegg og treffer enkeltvedtak som er nødvendige for gjennomføring av bestemmelsen. [Arbeidsmiljøloven §§ 18-4](lov/2005-06-17-62/§18-4), [18-5](lov/2005-06-17-62/§18-5), [18-6](lov/2005-06-17-62/§18-6) første, andre, sjette, sjuende og åttende ledd samt [§§ 18-7](lov/2005-06-17-62/§18-7), [18-8](lov/2005-06-17-62/§18-8), [18-10](lov/2005-06-17-62/§18-10), [18-10a](lov/2005-06-17-62/§18-10a), [18-12](lov/2005-06-17-62/§18-12) og [18-13](lov/2005-06-17-62/§18-13) får tilsvarende anvendelse.
+
+> Endret ved forskrifter [25 juni 2025 nr. 1339](forskrift/2025-06-25-1339) (i kraft 26 juni 2025), [23 nov 2026 nr. 2439](forskrift/2026-11-23-2439).
 
 ## § 6. Gebyr
 
