@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2010-03-18"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-11-20"
 last_updated: null
-xml_hash: "e7f014a7aac619dab794aa36843fb5d35a733fd09c0ee27d3e219d9489cff6a3"
+xml_hash: "9ed47818bb192e58afeaf37a7b713863d332291cbd8a8b8349375b8533e46532"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-25T13:57:52.133855+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -180,7 +180,11 @@ Helse- og omsorgsdepartementet delegerer følgende myndighet til Helsedirektorat
 
 - \- Ingen delegeringer.
 
-> Endret ved [vedtak 27 juni 2011 nr. 727](forskrift/2011-06-27-727), [19 april 2012 nr. 331](forskrift/2012-04-19-331) (i kraft 1 jan 2013), [24 august 2012 nr. 1109](forskrift/2012-08-24-1109) (i kraft 1 jan 2013), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [1 juli 2013 nr. 820](forskrift/2013-07-01-820), [29 mai 2015 nr. 577](forskrift/2015-05-29-577), [18 des 2015 nr. 1741](forskrift/2015-12-18-1741) (i kraft 1 jan 2016), [21 des 2015 nr. 1814](forskrift/2015-12-21-1814) (i kraft 1 jan 2016), [26 jan 2016 nr. 66](forskrift/2016-01-26-66), [19 des 2016 nr. 1847](forskrift/2016-12-19-1847), [13 des 2016 nr. 1596](forskrift/2016-12-13-1596) (i kraft 1 jan 2017), [29 juni 2018 nr. 1102](forskrift/2018-06-29-1102), [19 des 2018 nr. 2216](forskrift/2018-12-19-2216) (i kraft 1 jan 2019), [9 mars 2021 nr. 656](forskrift/2021-03-09-656), [27 mai 2021 nr. 1771](forskrift/2021-05-27-1771) (i kraft 1 juni 2021), [19 juli 2021 nr. 3926](forskrift/2021-07-19-3926), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838), [30 mars 2023 nr. 461](forskrift/2023-03-30-461) (i kraft 1 juli 2023), [11 des 2023 nr. 2003](forskrift/2023-12-11-2003) (i kraft 1 jan 2024), [20 des 2023 nr. 2211](forskrift/2023-12-20-2211) (i kraft 1 jan 2024), [26 juni 2025 nr. 1341](forskrift/2025-06-26-1341) (i kraft 1 juli 2025), [29 aug 2025 nr. 1760](forskrift/2025-08-29-1760), [1 juni 2026 nr. 963](forskrift/2026-06-01-963), [24 juni 2026 nr. 1480](forskrift/2026-06-24-1480), [8 juni 2026 nr. 1046](forskrift/2026-06-08-1046) (i kraft 1 juli 2026), [19 juni 2026 nr. 1374](forskrift/2026-06-19-1374) (i kraft 1 juli 2026), [23 juni 2026 nr. 1249](forskrift/2026-06-23-1249) (i kraft 1 juli 2026).
+*[Forskrift 27. mars 2026 nr. 540 om nyfødtscreening](forskrift/2026-03-27-540)*
+
+- [§ 2 andre ledd](forskrift/2026-03-27-540/§2/ledd/2): Myndighet til å fastsette hvilke sykdommer nyfødtscreeningprogrammet skal omfatte.
+
+> Endret ved [vedtak 27 juni 2011 nr. 727](forskrift/2011-06-27-727), [19 april 2012 nr. 331](forskrift/2012-04-19-331) (i kraft 1 jan 2013), [24 august 2012 nr. 1109](forskrift/2012-08-24-1109) (i kraft 1 jan 2013), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [1 juli 2013 nr. 820](forskrift/2013-07-01-820), [29 mai 2015 nr. 577](forskrift/2015-05-29-577), [18 des 2015 nr. 1741](forskrift/2015-12-18-1741) (i kraft 1 jan 2016), [21 des 2015 nr. 1814](forskrift/2015-12-21-1814) (i kraft 1 jan 2016), [26 jan 2016 nr. 66](forskrift/2016-01-26-66), [19 des 2016 nr. 1847](forskrift/2016-12-19-1847), [13 des 2016 nr. 1596](forskrift/2016-12-13-1596) (i kraft 1 jan 2017), [29 juni 2018 nr. 1102](forskrift/2018-06-29-1102), [19 des 2018 nr. 2216](forskrift/2018-12-19-2216) (i kraft 1 jan 2019), [9 mars 2021 nr. 656](forskrift/2021-03-09-656), [27 mai 2021 nr. 1771](forskrift/2021-05-27-1771) (i kraft 1 juni 2021), [19 juli 2021 nr. 3926](forskrift/2021-07-19-3926), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838), [30 mars 2023 nr. 461](forskrift/2023-03-30-461) (i kraft 1 juli 2023), [11 des 2023 nr. 2003](forskrift/2023-12-11-2003) (i kraft 1 jan 2024), [20 des 2023 nr. 2211](forskrift/2023-12-20-2211) (i kraft 1 jan 2024), [26 juni 2025 nr. 1341](forskrift/2025-06-26-1341) (i kraft 1 juli 2025), [29 aug 2025 nr. 1760](forskrift/2025-08-29-1760), [1 juni 2026 nr. 963](forskrift/2026-06-01-963), [24 juni 2026 nr. 1480](forskrift/2026-06-24-1480), [8 juni 2026 nr. 1046](forskrift/2026-06-08-1046) (i kraft 1 juli 2026), [19 juni 2026 nr. 1374](forskrift/2026-06-19-1374) (i kraft 1 juli 2026), [23 juni 2026 nr. 1249](forskrift/2026-06-23-1249) (i kraft 1 juli 2026), [20 nov 2026 nr. 2438](forskrift/2026-11-20-2438).
 
 ## II
 
