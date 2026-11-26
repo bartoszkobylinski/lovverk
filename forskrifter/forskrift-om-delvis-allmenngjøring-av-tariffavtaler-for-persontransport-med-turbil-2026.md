@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-11-06"
 last_change_in_force: null
 last_updated: null
-xml_hash: "ec9a51962255c7ecbe39d64ca2fa74ec515e050c90394778f8ad24a4097733d7"
+xml_hash: "413df572573db1f29fa6239b57fbd157343d8cf50ac6264fcc0420a3576acdb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-13T11:51:22.204785+00:00"
+retrieved_at: "2026-11-26T07:34:37.973776+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Grunnlaget for allmenngjøring
 
-Forskriften er fastsatt på grunnlag av Bussbransjeavtalen av 2026–2028 mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Yrkesorganisasjonenes Sentralforbund og Yrkestrafikkforbundet på den annen side og [Bussbransjeavtalen 2026–2028](tariff/taro-501-2026) mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Landsorganisasjonen i Norge og Fellesforbundet på den annen side.
+Forskriften er fastsatt på grunnlag av [Bussbransjeavtalen av 2026–2028](tariff/taro-502-2026) mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Yrkesorganisasjonenes Sentralforbund og Yrkestrafikkforbundet på den annen side og [Bussbransjeavtalen 2026–2028](tariff/taro-501-2026) mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Landsorganisasjonen i Norge og Fellesforbundet på den annen side.
 
 ## § 2. Virkeområde
 
