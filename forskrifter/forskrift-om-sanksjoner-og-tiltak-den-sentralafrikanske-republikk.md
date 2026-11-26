@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Utenriksdepartementet"
 date_in_force: "2015-09-18"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-11-23"
 last_updated: "2021-03-11"
-xml_hash: "6700fac328eb29199a799aed14f3344821eeb781d5df29a317a33fe2f19713b0"
+xml_hash: "7d68cf8dc52f63387a2514b64dfe399e6d2ffed407a0234e0edd1586a927d802"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-26T07:34:37.973776+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Denne forskriften med vedlegg kommer til anvendelse:
 4. overfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivning
 5. overfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
-## § 2. Innarbeiding av forordning [(EU) nr. 224/2014](eu/32014r0224)
+## § 2. Innarbeiding av forordning (EU) nr. 224/2014
 
 (1) EUs vedlagte forordning [(EU) nr. 224/2014](eu/32014r0224) om restriktive tiltak i lys av situasjonen i Den sentralafrikanske republikk, med senere endringer, gjelder som forskrift med de tilpasninger som følger av denne bestemmelsen.
 
@@ -68,7 +68,7 @@ Denne forskrift trer i kraft straks.
 
 ## Vedlegg A:
 
-> Endret ved forskrifter [3 mars 2021 nr. 639](forskrift/2021-03-03-639), [24 jan 2022 nr. 117](forskrift/2022-01-24-117), [30 nov 2022 nr. 2052](forskrift/2022-11-30-2052), [28 nov 2023 nr. 1933](forskrift/2023-11-28-1933), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
+> Endret ved forskrifter [3 mars 2021 nr. 639](forskrift/2021-03-03-639), [24 jan 2022 nr. 117](forskrift/2022-01-24-117), [30 nov 2022 nr. 2052](forskrift/2022-11-30-2052), [28 nov 2023 nr. 1933](forskrift/2023-11-28-1933), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259), [23 nov 2026 nr. 2461](forskrift/2026-11-23-2461).
 
 ### RÅDSFORORDNING [(EU) NR. 224/2014](eu/32014r0224)
 
@@ -107,28 +107,20 @@ I denne forordning menes med
 9. «Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til punkt 57 i FNs sikkerhetsrådsresolusjon 2127 (2013),
 10. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes som instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,
 11. «EUs territorium»: de av medlemsstatenes territorier der traktaten om Den europeiske unions virkemåte kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder i deres luftrom.
+12. «finansiering eller finansiell bistand»: enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende fysiske eller juridiske person, enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøperkreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring. Betaling samt vilkår for betaling av den avtalte prisen for en vare eller en tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand.
 
 ### Artikkel 2
 
-Det er forbudt, direkte eller indirekte, å yte
+1\. Det er forbudt å selge, levere, overføre eller eksportere, direkte eller indirekte, varer og teknologi som er oppført på EUs felles liste over militært materiell, samt skytevåpen og deler, vesentlige komponenter og ammunisjon til skytevåpen, som definert i europaparlaments- og rådsforordning [(EU) nr. 258/2012](eu/32012r0258), uavhengig av om de har sin opprinnelse i Den europeiske union eller ikke, til væpnede grupper og tilknyttede personer som driver virksomhet i Den sentralafrikanske republikk.
 
-1. faglig bistand og formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på denne listen, til personer, enheter eller organer i Den sentralafrikanske republikk eller til bruk i Den sentralafrikanske republikk,
-2. finansiering eller finansiell bistand knyttet til salg, levering, overføring eller eksport av varer og teknologi oppført på EUs felles liste over militært materiell, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med yting av tilknyttet faglig bistand eller formidlingstjenester, til personer, enheter eller organer i Den sentralafrikanske republikk eller til bruk i Den sentralafrikanske republikk,
-3. faglig bistand, finansiering eller finansiell bistand, formidlingstjenester eller transporttjenester knyttet til forsyning av leiesoldater i Den sentralafrikanske republikk eller til bruk i Den sentralafrikanske republikk.
+2\. Det er forbudt å yte, direkte eller indirekte,
 
-### Artikkel 3
+1. faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell, eller skytevåpen og deler, vesentlige komponenter og ammunisjon til skytevåpen, som definert i europaparlaments- og rådsforordning [(EU) nr. 258/2012](eu/32012r0258), eller knyttet til levering, produksjon, vedlikehold og bruk av slike produkter, til væpnede grupper og tilknyttede personer som driver virksomhet i Den sentralafrikanske republikk,
+2. finansiering eller finansiell bistand knyttet til salg, levering, overføring eller eksport av varer og teknologi oppført på EUs felles liste over militært materiell, eller skytevåpen og deler, vesentlige komponenter og ammunisjon til skytevåpen, som definert i europaparlaments- og rådsforordning [(EU) nr. 258/2012](eu/32012r0258), eller å yte tilknyttet faglig bistand eller formidlingstjenester til væpnede grupper og tilknyttede personer som driver virksomhet i Den sentralafrikanske republikk.
 
-Som unntak fra bestemmelsene i [artikkel 2](forskrift/2015-09-18-1061/a2) skal forbudene fastsatt i nevnte artikkel ikke gjelde yting av faglig bistand, finansiering eller finansiell bistand eller formidlingstjenester
+### Artikkel 3. (Opphevet)
 
-1. som utelukkende er bestemt til støtte for eller bruk av FNs fredsbevarende operasjon i Den sentralafrikanske republikk (MINUSCA), EUs operasjoner og franske styrker utplassert i Den sentralafrikanske republikk samt andre styrker fra De forente nasjoners medlemsstater som yter opplæring og bistand som det er gitt underretning om i samsvar med bokstav b,
-2. knyttet til forsyning av ikke-dødbringende utstyr og yting av bistand, herunder operasjonell og ikke-operasjonell opplæring til Den sentralafrikanske republikks sikkerhetsstyrker, herunder statlige sivile rettshåndhevende institusjoner, som utelukkende er bestemt til støtte for eller bruk i reformprosessen i Den sentralafrikanske republikks sikkerhetssektor, i samarbeid med MINUSCA, forutsatt at det på forhånd er gitt underretning om yting av bistand og tjenester til Sanksjonskomiteen,
-3. knyttet til ikke-dødbringende militært materiell som utelukkende er bestemt til humanitære formål eller beskyttelsesformål, forutsatt at det på forhånd er gitt underretning om yting av nevnte bistand eller tjenester til Sanksjonskomiteen,
-4. knyttet til vernetøy, herunder skuddsikre vester og militærhjelmer, som er midlertidig eksportert til Den sentralafrikanske republikk av FN-personell, personell fra EU eller EUs medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk,
-5. knyttet til forsyning av våpen og relatert materiell av alle typer, herunder ammunisjon, militære kjøretøyer og utstyr, paramilitært utstyr, og reservedeler til dette til Den sentralafrikanske republikks sikkerhetsstyrker, herunder statlige sivile rettshåndhevende institusjoner.
-
-### Artikkel 4
-
-Som unntak fra bestemmelsene i [artikkel 2](forskrift/2015-09-18-1061/a2), og forutsatt at Sanksjonskomiteen på forhånd har godkjent yting av nevnte faglige bistand eller formidlingstjeneste, finansiering eller finansielle bistand, skal forbudene fastsatt i nevnte artikkel ikke gjelde yting av faglig bistand, finansiering eller finansiell bistand ved salg, levering, overføring eller eksport av varer og teknologi oppført på EUs felles liste over militært materiell, eller enhver yting av tilknyttet faglig bistand eller formidlingstjenester.
+### Artikkel 4. (Opphevet)
 
 ### Artikkel 5
 
