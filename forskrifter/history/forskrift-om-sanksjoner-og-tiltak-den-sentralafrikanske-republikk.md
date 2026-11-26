@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sanksjoner-og-tiltak-den-sentralafrikanske-republikk — Change history
 
-_3 events; doc_id `sf-20150918-1061`._
+_4 events; doc_id `sf-20150918-1061`._
+
+## 2026-11-26 — Content updated
+Lines: +12 -20.
+Subject: `update(forskrift): forskrift-om-sanksjoner-og-tiltak-den-sentralafrikanske-republikk`
+Commit: `aa7ddac`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

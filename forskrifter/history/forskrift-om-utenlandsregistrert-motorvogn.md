@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-utenlandsregistrert-motorvogn — Change history
 
-_3 events; doc_id `sf-19910620-0381`._
+_4 events; doc_id `sf-19910620-0381`._
+
+## 2026-11-26 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-utenlandsregistrert-motorvogn`
+Commit: `3d2213f`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

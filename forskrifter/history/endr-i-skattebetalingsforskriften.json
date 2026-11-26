@@ -1,23 +1,13 @@
 {
-  "doc_id": "sf-20250613-1006",
+  "doc_id": "sf-20261123-2460",
   "events": [
     {
-      "commit": "3dddeca",
-      "date": "2026-04-27",
-      "from_path": "forskrifter/sf-20250613-1006.md",
-      "lines_added": 2,
-      "lines_removed": 1,
-      "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "forskrifter/endr-i-skattebetalingsforskriften.md",
-      "type": "renamed"
-    },
-    {
-      "commit": "57c3052",
-      "date": "2026-04-26",
+      "commit": "7e21136",
+      "date": "2026-11-26",
       "from_path": null,
-      "lines_added": 35,
+      "lines_added": 89,
       "lines_removed": 0,
-      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "subject": "add(forskrift): endr-i-skattebetalingsforskriften",
       "to_path": null,
       "type": "added"
     }

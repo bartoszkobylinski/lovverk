@@ -2,6 +2,16 @@
   "doc_id": "sf-20071221-1766",
   "events": [
     {
+      "commit": "1d95d0e",
+      "date": "2026-11-26",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 14,
+      "subject": "update(forskrift): skattebetalingsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "72d4d88",
       "date": "2026-09-09",
       "from_path": null,

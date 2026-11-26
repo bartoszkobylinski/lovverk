@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # skattebetalingsforskriften — Change history
 
-_5 events; doc_id `sf-20071221-1766`._
+_6 events; doc_id `sf-20071221-1766`._
+
+## 2026-11-26 — Content updated
+Lines: +34 -14.
+Subject: `update(forskrift): skattebetalingsforskriften`
+Commit: `1d95d0e`.
 
 ## 2026-09-09 — Content updated
 Lines: +2 -2.

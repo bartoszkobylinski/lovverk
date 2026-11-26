@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5158 current documents_
+_5160 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1308,6 +1308,7 @@ _5158 current documents_
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)
 - [endr-i-reseptformidlerforskriften](endr-i-reseptformidlerforskriften.md) — Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)
 - [endr-i-rettsgebyrforskriften](endr-i-rettsgebyrforskriften.md) — Forskrift om endring i rettsgebyrforskriften
+- [endr-i-skattebetalingsforskriften](endr-i-skattebetalingsforskriften.md) — Forskrift om endring i skattebetalingsforskriften
 - [endr-i-stortingets-forretningsorden](endr-i-stortingets-forretningsorden.md) — Endringer i Stortingets forretningsorden
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
@@ -1316,6 +1317,7 @@ _5158 current documents_
 - [endr-i-trafikkopplæringsforskriften](endr-i-trafikkopplæringsforskriften.md) — Forskrift om endring i forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
 - [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
+- [endr-i-utrullingsforskriften-2026](endr-i-utrullingsforskriften-2026.md) — Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)
 - [endr-i-utrykningsforskriften](endr-i-utrykningsforskriften.md) — Forskrift om endring i forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)

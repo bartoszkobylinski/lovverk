@@ -2,6 +2,16 @@
   "doc_id": "sf-20251212-2508",
   "events": [
     {
+      "commit": "e9ef1d8",
+      "date": "2026-11-26",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): utrullingsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "00609b6",
       "date": "2026-11-01",
       "from_path": null,

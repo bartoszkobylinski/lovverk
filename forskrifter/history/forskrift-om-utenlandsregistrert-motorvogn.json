@@ -2,6 +2,16 @@
   "doc_id": "sf-19910620-0381",
   "events": [
     {
+      "commit": "3d2213f",
+      "date": "2026-11-26",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-utenlandsregistrert-motorvogn",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

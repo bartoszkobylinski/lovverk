@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20261124-2462",
+  "events": [
+    {
+      "commit": "271de68",
+      "date": "2026-11-26",
+      "from_path": null,
+      "lines_added": 36,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-utrullingsforskriften-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-utrullingsforskriften-2026"
+}
