@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2026-06-26"
 last_updated: "2024-09-04"
-xml_hash: "34360f5c267cc9f3fc2107e1dba7314d5da1f0d855d26019ba114a192078da79"
+xml_hash: "2bc2c734b08a35c84444663bb4b4ac2134b65bd25267c3421951a3195e80d474"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-09-09T08:55:12.118049+00:00"
+retrieved_at: "2026-11-26T07:34:37.973776+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1451,7 +1451,7 @@ Hvis en personlig skattyter under ordningen dør, skal det anses som uttreden.
 
 (2) For skatte- og avgiftskrav som betales i terminer eller i henhold til nærmere fastsatt avgiftspesifikasjon eller deklarasjon, gjelder beløpsgrensen for den enkelte termin, spesifikasjon eller deklarasjon.
 
-> Endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [19 des 2019 nr. 2036](forskrift/2019-12-19-2036) (i kraft 1 jan 2020), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023).
+> Endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [19 des 2019 nr. 2036](forskrift/2019-12-19-2036) (i kraft 1 jan 2020), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023). **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ###### § 10-4-2. Beløpsgrense for renter og rentegodtgjørelse
 
@@ -1585,7 +1585,11 @@ For konkurs- og administrasjonsbo som nevnt i [skattebetalingsloven § 4-1](lov/
 
 ### Innenlands merverdiavgift og arveavgift
 
+> **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 10-30. Innenlands merverdiavgift
+
+> **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 10-30-1. Forfallsfrist ved forsinket skattemelding og fastsetting ved skjønn
 
@@ -1599,21 +1603,25 @@ Bestemmelsen i [skattebetalingsloven § 10-30](lov/2005-06-17-67/§10-30) gjelde
 
 ### § 10-40. Innenlands særavgifter
 
+> **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 10-40-1. Forfall for vektårsavgift for korttidsbruk av tilhenger
 
 For korttidsbruk av tilhenger skal avgiften være betalt før kjøring finner sted. Skattekontoret kan gjøre unntak fra dette kravet.
 
-> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
+> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016). **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 10-40-2. Forfall for årsavgift ved registrering mv. etter 1. januar
 
 Krav om årsavgift etter § 3 i [forskrift 4. juli 1986 nr. 1433](forskrift/1986-07-04-1433) om årsavgift for motorvogn forfaller til betaling tre uker etter at kravet er utskrevet og melding om kravet er sendt.
 
+> **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 10-40-3. Forfall ved forsinket skattemelding for særavgift
 
 Bestemmelsen i [skattebetalingsloven § 10-40](lov/2005-06-17-67/§10-40) andre ledd gjelder også særavgifter innrapportert på skattemelding som ikke er levert innen leveringsfristen.
 
-> Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), endret ved [forskrift 9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017).
+> Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), endret ved [forskrift 9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017). **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 10-51. Andre skatte- og avgiftskrav
 
@@ -1638,6 +1646,8 @@ Dersom et tilgodebeløp til registrert næringsdrivende etter [merverdiavgiftslo
 (1) Det skal ikke svares forsinkelsesrenter av årsavgift. I stedet forhøyes kravet med et tillegg for forsinket betaling fastsatt i Stortingets avgiftsvedtak. Tilleggsavgiften for forsinket betaling kreves i alminnelighet opp i forbindelse med utsendelsen av påkrav på skyldig avgift.
 
 (2) For kjøretøy som registreres på ny eier i perioden fra avgiftsplikten oppstår frem til forfall, forhøyes skyldig avgift med tilleggsavgift for forsinket betaling først ved utløpet av fristen for betaling av påkravet.
+
+> **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 11-1-2. Utsettelse med forsinkelsesrenteberegning av forskuddsskatt
 
@@ -1695,11 +1705,13 @@ Ved økning av merverdiavgift som følge av kontroll av skattemelding som viser 
 
 Det skal ikke betales rente etter [skattebetalingsloven § 11-2](lov/2005-06-17-67/§11-2) når arveavgift i medhold av [skattebetalingsloven § 10-31](lov/2005-06-17-67/§10-31) fjerde ledd først blir betalt senere enn forfallstidspunktene i [skattebetalingsloven § 10-31](lov/2005-06-17-67/§10-31) første eller annet ledd, i den utstrekning dette skyldes forhold på avgiftsmyndighetens side.
 
+> **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 11-2-6. Unntak for årsavgift
 
 Det skal ikke svares renter når det treffes vedtak om endring av årsavgift.
 
-> Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010).
+> Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010). **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 11-3. Rentegodtgjørelse ved forsinket utbetaling
 
@@ -1725,7 +1737,7 @@ Har avgiftspliktige ikke krav på renter ved tilbakebetaling av merverdiavgift p
 
 Det ytes ikke renter ved forsinket utbetaling av årsavgift.
 
-> Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010).
+> Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010). **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 11-4. Rentegodtgjørelse ved utbetaling etter vedtak om endring mv. og egenretting
 
@@ -1765,6 +1777,8 @@ Ved beregning av renter etter vedtak om endring og egenretting, skal renter bere
 
 Det ytes ikke renter ved tilbakebetaling av årsavgift, herunder tilleggsavgift ved forsinket betaling.
 
+> **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 11-4-7. Unntak ved tilbakebetaling av forskuddstrekket eller forskuddsskatt før første ordinære skatteoppgjør for inntektsåret
 
 Det ytes ikke rentegodtgjørelse etter [skattebetalingsloven § 11-4](lov/2005-06-17-67/§11-4) ved tilbakebetaling av forskuddstrekk etter [skattebetalingsloven § 5-3](lov/2005-06-17-67/§5-3) annet ledd eller forskuddsskatt etter [skattebetalingsloven § 6-3](lov/2005-06-17-67/§6-3) sjette ledd.
@@ -1777,7 +1791,7 @@ Det skal ytes renter etter [skattebetalingsloven § 11-4](lov/2005-06-17-67/§11
 
 Det skal ytes renter etter [skattebetalingsloven § 11-4](lov/2005-06-17-67/§11-4) ved refusjon av engangsavgift etter § 7-9 i [forskrift 19. mars 2001 nr. 268](forskrift/2001-03-19-268) om engangsavgift på motorvogner.
 
-> Tilføyd ved [forskrift 22 des 2008 nr. 1583](forskrift/2008-12-22-1583) (i kraft 1 jan 2009), opphevet ved [forskrift 21 des 2016 nr. 1796](forskrift/2016-12-21-1796) (i kraft 1 jan 2017), tilføyd igjen ved [forskrift 26 juni 2019 nr. 914](forskrift/2019-06-26-914) (i kraft 1 juli 2019).
+> Tilføyd ved [forskrift 22 des 2008 nr. 1583](forskrift/2008-12-22-1583) (i kraft 1 jan 2009), opphevet ved [forskrift 21 des 2016 nr. 1796](forskrift/2016-12-21-1796) (i kraft 1 jan 2017), tilføyd igjen ved [forskrift 26 juni 2019 nr. 914](forskrift/2019-06-26-914) (i kraft 1 juli 2019). **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 11-5. Rentegodtgjørelse og rentetillegg ved skatteavregningen
 
@@ -1882,7 +1896,7 @@ Skattedirektoratet og Tolldirektoratet kan sette ned eller frafalle renter etter
 
 (3) Denne paragraf gjelder ikke tilleggsavgift som ilegges ved forsinket betaling av krav om årsavgift.
 
-> Tilføyd ved [forskrift 11 des 2015 nr. 1463](forskrift/2015-12-11-1463), endret ved [forskrifter 13 des 2016 nr. 1573](forskrift/2016-12-13-1573) (i kraft 1 jan 2017), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023), [23 des 2025 nr. 2867](forskrift/2025-12-23-2867) (i kraft 1 jan 2026), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
+> Tilføyd ved [forskrift 11 des 2015 nr. 1463](forskrift/2015-12-11-1463), endret ved [forskrifter 13 des 2016 nr. 1573](forskrift/2016-12-13-1573) (i kraft 1 jan 2017), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023), [23 des 2025 nr. 2867](forskrift/2025-12-23-2867) (i kraft 1 jan 2026), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385). **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 11-7-6. Renter ved endring av utskrevet terminskatt
 
@@ -2000,6 +2014,8 @@ Skattekontoret kan kreve dekket omkostninger knyttet til gjennomføring av tvang
 
 (3) Vedtak om stansning kan tidligst treffes ved utløpet av den frist som er satt i varslet etter første ledd.
 
+> **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 14-11-2. Inndragning av kjennemerker
 
 (1) Tolletaten og andre som er gitt avskiltningsoppdrag kan uten varsel inndra kjennemerke på kjøretøy som er vedtatt stanset, når kjøretøyet påtreffes.
@@ -2018,13 +2034,13 @@ Skattekontoret kan kreve dekket omkostninger knyttet til gjennomføring av tvang
 
 (4) Ved betaling på stedet skal det gis kvittering for innbetalt beløp.
 
-> Endret ved forskrift [22 mars 2021 nr. 946](forskrift/2021-03-22-946).
+> Endret ved forskrift [22 mars 2021 nr. 946](forskrift/2021-03-22-946). **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 14-11-4. Utlevering av inndratte kjennemerker
 
 Statens vegvesen utleverer inndratte kjennemerker. Kjennemerkene kan bare utleveres dersom skyldig avgift, tilleggsavgift for forsinket betaling, renter og gebyr jf. [forskrift 25. januar 1990 nr. 92](forskrift/1990-01-25-92) om bruk av kjøretøy [§ 2-11](forskrift/1990-01-25-92/§2-11) er betalt.
 
-> Endret ved forskrift [19 des 2022 nr. 2291](forskrift/2022-12-19-2291) (i kraft 1 jan 2023).
+> Endret ved forskrift [19 des 2022 nr. 2291](forskrift/2022-12-19-2291) (i kraft 1 jan 2023). **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 14-11-5. Medvirkning ved inndragningen
 
@@ -2182,6 +2198,8 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 ### § 14-21. Sikkerhetsstillelse for særavgiftene
 
+> **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 14-21-1. Sikkerhetsstillelse for registrerte engangsavgiftspliktige
 
 (1) Sikkerhet skal stilles i form av selvskyldnerkausjon fra bank, forsikringsselskap eller annet finansforetak som er gitt tillatelse til å drive virksomhet i og er underlagt myndighetstilsyn i Norge eller en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde, eller annet kredittselskap som er godkjent av Skattedirektoratet.
@@ -2190,7 +2208,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 (3) Avgiftspliktige som er en institusjon som nevnt i først ledd, skal ikke avkreves sikkerhet.
 
-> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
+> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016). **Endres** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### § 14-21-2. Sikkerhetsstillelse for særavgiftene
 
@@ -2206,7 +2224,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 (4) De nærmere krav til sikkerheten, herunder sikkerhetens omfang, fastsettes av skattekontoret. Som hovedregel skal sikkerheten til enhver tid dekke avgiftskravet for to terminer. Dersom nye omstendigheter eller opplysninger tilsier det, kan skattekontoret stille ytterligere krav til sikkerheten.
 
-> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
+> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016). **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### Kapittel 15. (Opphevet)
 
@@ -2264,6 +2282,8 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 ### § 16-42. Ansvar ved avgiftsfri levering av varer og tjenester
 
+> **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
+
 ### § 16-42-1. Særlige regler om ansvar for særavgift
 
 (1) Ved levering av
@@ -2278,7 +2298,7 @@ er mottaker ansvarlig for innbetaling av avgiften dersom vedkommende ikke oppfyl
 
 (3) Ved levering av elektrisk kraft etter [særavgiftsforskriften § 3-12-18](forskrift/2001-12-11-1451/§3-12-18), er produsenten ansvarlig for innbetaling av avgiften dersom vilkårene for avgiftsfritak ikke er oppfylt. I den utstrekning leverandøren visste eller burde ha visst at kravene for fritak ikke var oppfylt, kan krav rettes mot denne.
 
-> Endret ved [forskrifter 15 des 2009 nr. 1528](forskrift/2009-12-15-1528) (i kraft 1 jan 2010), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [17 des 2015 nr. 1713](forskrift/2015-12-17-1713) (i kraft 1 jan 2016), [16 mars 2017 nr. 326](forskrift/2017-03-16-326), [10 jan 2018 nr. 21](forskrift/2018-01-10-21), [14 des 2018 nr. 2007](forskrift/2018-12-14-2007) (i kraft 1 jan 2019), [19 des 2019 nr. 2006](forskrift/2019-12-19-2006) (i kraft 1 jan 2020), [16 des 2020 nr. 2905](forskrift/2020-12-16-2905) (i kraft 1 jan 2021), [19 des 2022 nr. 2291](forskrift/2022-12-19-2291) (i kraft 1 jan 2023), [23 des 2025 nr. 2867](forskrift/2025-12-23-2867) (i kraft 1 jan 2026), [2 mars 2026 nr. 319](forskrift/2026-03-02-319).
+> Endret ved [forskrifter 15 des 2009 nr. 1528](forskrift/2009-12-15-1528) (i kraft 1 jan 2010), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [17 des 2015 nr. 1713](forskrift/2015-12-17-1713) (i kraft 1 jan 2016), [16 mars 2017 nr. 326](forskrift/2017-03-16-326), [10 jan 2018 nr. 21](forskrift/2018-01-10-21), [14 des 2018 nr. 2007](forskrift/2018-12-14-2007) (i kraft 1 jan 2019), [19 des 2019 nr. 2006](forskrift/2019-12-19-2006) (i kraft 1 jan 2020), [16 des 2020 nr. 2905](forskrift/2020-12-16-2905) (i kraft 1 jan 2021), [19 des 2022 nr. 2291](forskrift/2022-12-19-2291) (i kraft 1 jan 2023), [23 des 2025 nr. 2867](forskrift/2025-12-23-2867) (i kraft 1 jan 2026), [2 mars 2026 nr. 319](forskrift/2026-03-02-319). **Oppheves** ved forskrift [23 nov 2026 nr. 2460](forskrift/2026-11-23-2460) (i kraft 1 jan 2027).
 
 ### Ansvar for privat oppdragsgiver
 
