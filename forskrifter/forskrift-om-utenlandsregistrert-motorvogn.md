@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "1991-07-15"
-last_change_in_force: "2024-04-09"
+last_change_in_force: "2026-11-16"
 last_updated: "2021-01-01"
-xml_hash: "d6932e07e3d8ccc03b2a3556743a09f3a7a9173bd7b768ecb7b412208d07258f"
+xml_hash: "b9654059bb7bd0e7d686cb441e91bf4626f1215c5776f6f9fb13de27aa02d154"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-26T07:34:37.973776+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,9 +88,9 @@ En person kan ikke anses å ha midlertidig opphold i Norge, dersom han har oppho
 
 ## § 4a. Midlertidig opphold i Norge på grunnlag av oppholdstillatelse etter utlendingsforskriften § 7-5a.
 
-Personer som er innvilget midlertidig oppholdstillatelse etter [utlendingsforskriften § 7-5a](forskrift/2009-10-15-1286/§7-5a) anses å ha midlertidig opphold i Norge. Oppholdet anses som midlertidig så lenge oppholdstillatelsen varer, men maksimalt inntil 4 år fra innvilgelsen av oppholdstillatelse.
+Personer som er innvilget midlertidig oppholdstillatelse etter [utlendingsforskriften § 7-5a](forskrift/2009-10-15-1286/§7-5a) anses å ha midlertidig opphold i Norge. Oppholdet anses som midlertidig så lenge oppholdstillatelsen varer, men maksimalt inntil 5 år fra innvilgelsen av oppholdstillatelse.
 
-> Tilføyd ved forskrift [9 april 2024 nr. 586](forskrift/2024-04-09-586).
+> Tilføyd ved forskrift [9 april 2024 nr. 586](forskrift/2024-04-09-586), endret ved forskrift [16 nov 2026 nr. 2459](forskrift/2026-11-16-2459).
 
 ## § 5. Midlertidig bruk av utenlandsregistrert motorvogn for personer med fast oppholdssted i Norge. Vilkår.
 
