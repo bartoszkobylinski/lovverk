@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: "2026-11-01"
 last_updated: null
-xml_hash: "a8026999858b790f5100f2120fb2dfab8f167d10302fe924d2a1694db4ed22b6"
+xml_hash: "45d11dc8650cfe6d331941a7ec7366017e4f77365ebc15a0225180fddaded16c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-01T11:01:32.195391+00:00"
+retrieved_at: "2026-11-26T07:34:37.973776+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Nytt regelverk for utlegg mv., etter [kongelig resolusjon 10. juni 2025 nr. 968]
 
 For saker hos kommunal namsmyndighet gjelder nytt regelverk om utlegg mv. først fra det tidspunkt namsfogden eller Innkrevingsmyndigheten har etablert ett utleggstrekk mot skyldner etter nytt regelverk, jf. [forskrift om overgangsregler for innkrevingsloven og endringer i andre lover § 1 andre ledd](forskrift/2025-07-01-1418/§1/ledd/2).
 
-> Endret ved forskrifter [10 feb 2026 nr. 178](forskrift/2026-02-10-178) (i kraft 16 feb 2026), [9 mars 2026 nr. 359](forskrift/2026-03-09-359) (i kraft 16 mars 2026), [30 mars 2026 nr. 516](forskrift/2026-03-30-516) (i kraft 7 april 2026), [4 sep 2026 nr. 1729](forskrift/2026-09-04-1729), [26 okt 2026 nr. 2129](forskrift/2026-10-26-2129) (i kraft 1 nov 2026).
+> Endret ved forskrifter [10 feb 2026 nr. 178](forskrift/2026-02-10-178) (i kraft 16 feb 2026), [9 mars 2026 nr. 359](forskrift/2026-03-09-359) (i kraft 16 mars 2026), [30 mars 2026 nr. 516](forskrift/2026-03-30-516) (i kraft 7 april 2026), [4 sep 2026 nr. 1729](forskrift/2026-09-04-1729), [26 okt 2026 nr. 2129](forskrift/2026-10-26-2129) (i kraft 1 nov 2026). **Endres** ved forskrift [24 nov 2026 nr. 2462](forskrift/2026-11-24-2462) (i kraft 1 des 2026).
 
 ## § 2.
 
