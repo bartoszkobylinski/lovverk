@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-konkursregisteret-mv — Change history
 
-_3 events; doc_id `sf-19930823-0824`._
+_4 events; doc_id `sf-19930823-0824`._
+
+## 2026-11-27 — Content updated
+Lines: +9 -7.
+Subject: `update(forskrift): forskrift-om-konkursregisteret-mv`
+Commit: `dcb1f15`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

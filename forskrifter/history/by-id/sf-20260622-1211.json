@@ -1,0 +1,83 @@
+{
+  "doc_id": "sf-20260622-1211",
+  "events": [
+    {
+      "commit": "24e5ff6",
+      "date": "2026-11-27",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "f951ed6",
+      "date": "2026-11-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "9cee1f8",
+      "date": "2026-09-25",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "a83358b",
+      "date": "2026-09-14",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "64b9cd5",
+      "date": "2026-09-12",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "5ef5553",
+      "date": "2026-09-09",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "update(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "7a8a223",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 27,
+      "path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
+      "subject": "add(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1
+}

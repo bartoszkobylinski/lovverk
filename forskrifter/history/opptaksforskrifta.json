@@ -2,6 +2,16 @@
   "doc_id": "sf-20250911-1850",
   "events": [
     {
+      "commit": "645f662",
+      "date": "2026-11-27",
+      "from_path": null,
+      "lines_added": 16,
+      "lines_removed": 12,
+      "subject": "update(forskrift): opptaksforskrifta",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

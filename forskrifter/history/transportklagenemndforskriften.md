@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # transportklagenemndforskriften — Change history
 
-_3 events; doc_id `sf-20120120-0084`._
+_4 events; doc_id `sf-20120120-0084`._
+
+## 2026-11-27 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): transportklagenemndforskriften`
+Commit: `97301aa`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

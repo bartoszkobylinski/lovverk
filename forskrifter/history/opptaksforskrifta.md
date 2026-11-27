@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # opptaksforskrifta — Change history
 
-_3 events; doc_id `sf-20250911-1850`._
+_4 events; doc_id `sf-20250911-1850`._
+
+## 2026-11-27 — Content updated
+Lines: +16 -12.
+Subject: `update(forskrift): opptaksforskrifta`
+Commit: `645f662`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

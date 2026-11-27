@@ -1309,7 +1309,6 @@ _5160 current documents_
 - [endr-i-reseptformidlerforskriften](endr-i-reseptformidlerforskriften.md) — Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)
 - [endr-i-rettsgebyrforskriften](endr-i-rettsgebyrforskriften.md) — Forskrift om endring i rettsgebyrforskriften
 - [endr-i-skattebetalingsforskriften](endr-i-skattebetalingsforskriften.md) — Forskrift om endring i skattebetalingsforskriften
-- [endr-i-stortingets-forretningsorden](endr-i-stortingets-forretningsorden.md) — Endringer i Stortingets forretningsorden
 - [endr-i-strålevernforskriften](endr-i-strålevernforskriften.md) — Forskrift om endring i forskrift om strålevern og bruk av stråling (strålevernforskriften)
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
 - [endr-i-tollavgiftsforskriften-2026](endr-i-tollavgiftsforskriften-2026.md) — Forskrift om endring i forskrift om tollavgift (tollavgiftsforskriften)
@@ -1943,6 +1942,7 @@ _5160 current documents_
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
 - [forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs](forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md) — Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS
 - [forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs-2026](forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs-2026.md) — Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS
+- [forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjøringer-etter-konkursloven](forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjøringer-etter-konkursloven.md) — Forskrift om endring i forskrift om konkursregisteret og om kunngjøringer etter konkursloven
 - [forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om endring i forskrift om kontroll av kjøretøy langs veg
 - [forskrift-om-endring-i-forskrift-om-luftromsorganisering](forskrift-om-endring-i-forskrift-om-luftromsorganisering.md) — Forskrift om endring i forskrift om luftromsorganisering
 - [forskrift-om-endring-i-forskrift-om-lufttrafikkregler-og-operative-prosedyrer](forskrift-om-endring-i-forskrift-om-lufttrafikkregler-og-operative-prosedyrer.md) — Forskrift om endring i forskrift om lufttrafikkregler og operative prosedyrer
