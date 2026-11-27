@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-06-22"
-last_change_in_force: "2026-09-22"
+last_change_in_force: "2026-11-24"
 last_updated: null
-xml_hash: "96c63cb32cc765f83744374069ef441cb0ba4c191b1a6f8aad841292c535b21d"
+xml_hash: "3ea0575d9c024ffcab83ce5acab7ad478036a06a87792a26e74649e666cec239"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-11-05T11:51:28.204067+00:00"
+retrieved_at: "2026-11-27T13:32:35.557094+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,19 +83,19 @@ Uten hinder av [§ 1](forskrift/2026-06-22-1211/§1) kan eier og fartøy med adg
 
 Det er forbudt å fiske brisling i statistikklokasjonene 28–36 (Nordfjord).
 
-Det er adgang å fiske brisling i statistikklokasjonene 28-39 (Sognefjorden) innenfor en kvote på 222 tonn.
+Det er adgang å fiske brisling i statistikklokasjonene 28–39 (Sognefjorden) innenfor en kvote på 222 tonn. Fisket etter brisling i Sognefjorden stoppes fra og med 25. november 2026.
 
 Det er adgang til å fiske brisling i statistikklokasjonene 08-20, 08-21 og 08-15 (Hardangerfjorden) innenfor en kvote på 811 tonn.
 
 Det er forbudt å fiske brisling i statistikklokasjon 07–26 og 07–27 (Trondheimsfjorden).
 
-Det er forbudt å fiske brisling i innenfor grunnlinjene fra og med Telemark til grensen mot Sverige (Oslofjorden).
+Det er adgang til å fiske brisling i innenfor grunnlinjene fra og med Telemark til grensen mot Sverige (Oslofjorden) innenfor en kvote på 804 tonn.
 
 Forbud etter denne paragraf er ikke til hinder for at vedkommende salgslag kan tillate å bringe i land marginale kvanta storbrisling, dvs. 60 % over 11 cm, i samsvar med praksisen i fredningstiden.
 
 Fartøy som skal delta i fisket etter kystbrisling må melde fra til Fiskeridirektoratets sjøtjeneste senest 48 timer før utseiling. Melding sendes på e-post til [sjotjenesten@fiskeridir.no](mailto:sjotjenesten@fiskeridir.no).
 
-> Endret ved forskrifter [3 sep 2026 nr. 1735](forskrift/2026-09-03-1735), [22 sep 2026 nr. 1872](forskrift/2026-09-22-1872).
+> Endret ved forskrifter [3 sep 2026 nr. 1735](forskrift/2026-09-03-1735), [22 sep 2026 nr. 1872](forskrift/2026-09-22-1872), [24 nov 2026 nr. 2476](forskrift/2026-11-24-2476).
 
 ## Kapittel 4. Fellesbestemmelser
 
