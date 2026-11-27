@@ -10,12 +10,12 @@ ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1993-09-01"
 last_change_in_force: "2025-01-01"
-last_updated: "2021-07-01"
-xml_hash: "8678d2ca02c698c32978088ca403342ba4cbe11e80e274b33c335bab0b9be3a4"
+last_updated: "2026-11-26"
+xml_hash: "ca1bb64c10b4543b86c730c25a4430decbdfbd845bafdcfda2219a2e3609cc96"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-27T13:32:35.557094+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Det føres et register over sentrale opplysninger om bo tatt under behandling av
 
 Konkursregisteret føres av Registerenheten i Brønnøysund.
 
-> Endret ved [forskrifter 11 okt 2002 nr. 1094](forskrift/2002-10-11-1094) (i kraft 1 jan 2003), [15 feb 2008 nr. 138](forskrift/2008-02-15-138) (i kraft 1 mars 2008).
+> Endret ved [forskrifter 11 okt 2002 nr. 1094](forskrift/2002-10-11-1094) (i kraft 1 jan 2003), [15 feb 2008 nr. 138](forskrift/2008-02-15-138) (i kraft 1 mars 2008). **Endres** ved forskrift [24 nov 2026 nr. 2474](forskrift/2026-11-24-2474) (i kraft 1 jan 2027).
 
 ### § 2
 
@@ -203,6 +203,8 @@ Opplysningene i Konkursregisteret er, ti år etter avsluttende kjennelse eller u
 
 Dersom boet leveres tilbake til skyldneren i medhold av [konkursloven § 136](lov/1984-06-08-58/§136) eller dersom det oppnås tvangsakkord under konkursbehandlingen etter [konkursloven kapittel XIV](lov/1984-06-08-58/kapxiv), skal opplysningene om konkurskarantene kun gis myndigheter og personer som nevnt i [§ 10](forskrift/1993-08-23-824/§10) tredje ledd. Det samme gjelder dersom karantenetiden er utløpt.
 
+> **Endres** ved forskrift [24 nov 2026 nr. 2474](forskrift/2026-11-24-2474) (i kraft 1 jan 2027).
+
 ### § 13
 
 De innsendte dokumenter kan mikrofilmes, lagres på optisk disk eller på annen hensiktsmessig måte. Dokumentene makuleres etter at mikrofilm er kontrollert og funnet i orden.
@@ -240,7 +242,7 @@ Opplysninger om gjeldsforhandlinger etter konkursloven i boet til fysiske person
 
 Før sletting etter første eller annet ledd skal opplysningene lagres og oppbevares tilgjengelig kun for forskning. Den som mottar opplysninger er underlagt taushetsplikt etter reglene i [forvaltningsloven § 13e](lov/1967-02-10/§13e). Opplysningene skal også være tilgjengelige for den de gjelder.
 
-> Tilføyd ved [forskrift 27 jan 2006 nr. 88](forskrift/2006-01-27-88) (i kraft 1 feb 2006).
+> Tilføyd ved [forskrift 27 jan 2006 nr. 88](forskrift/2006-01-27-88) (i kraft 1 feb 2006). **Endres** ved forskrift [24 nov 2026 nr. 2474](forskrift/2026-11-24-2474) (i kraft 1 jan 2027).
 
 ### § 18
 
@@ -260,7 +262,7 @@ Det kan abonneres etter følgende kriterier:
 6. skyldnerens organisasjonsnummer eller fødselsnummer,
 7. et bestemt tidsrom.
 
-> Tilføyd ved [forskrift 27 jan 2006 nr. 88](forskrift/2006-01-27-88) (i kraft 1 feb 2006).
+> Tilføyd ved [forskrift 27 jan 2006 nr. 88](forskrift/2006-01-27-88) (i kraft 1 feb 2006). **Endres** ved forskrift [24 nov 2026 nr. 2474](forskrift/2026-11-24-2474) (i kraft 1 jan 2027).
 
 ### § 19
 
@@ -360,7 +362,7 @@ Er skyldneren ikke et norskregistrert utenlandsk foretak, kan insolvensforvalter
 
 Insolvensforvalter i utenlandsk tvangsakkord eller lignende som omfatter skyldnerens samlede formue, kan kreve at åpningen av insolvensbehandlingen registreres i slike registre som nevnt i [konkursloven § 36](lov/1984-06-08-58/§36) første ledd, på de vilkår som følger av bestemmelsen. Begjæringen fremsettes overfor Konkursregisteret, som videreformidler opplysningene om insolvensåpningen til de aktuelle registrene. Insolvensåpningen registreres i Løsøreregisteret bare dersom skyldneren har et norsk organisasjonsnummer.
 
-> Tilføyd ved forskrift [21 mai 2021 nr. 1617](forskrift/2021-05-21-1617) (i kraft 1 juli 2021).
+> Tilføyd ved forskrift [21 mai 2021 nr. 1617](forskrift/2021-05-21-1617) (i kraft 1 juli 2021). **Endres** ved forskrift [24 nov 2026 nr. 2474](forskrift/2026-11-24-2474) (i kraft 1 jan 2027).
 
 ### § 27
 
