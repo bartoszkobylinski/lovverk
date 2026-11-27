@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2012-02-01"
-last_change_in_force: "2025-03-03"
+last_change_in_force: "2026-11-25"
 last_updated: "2016-08-25"
-xml_hash: "ac52852299ff99e22ffa7e555adbaec7ce5e3edbdb6cf271c6a1a5e05bfb1fa4"
+xml_hash: "9775d079b20cccb0badb271180e81a05d03aa9963bf2fbcd54427aba0d750937"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-27T13:32:35.557094+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -247,9 +247,11 @@ Transportklagenemnda skal ha et sekretariat som betjenes av egne ansatte eller v
 
 ### § 5-8. Delegering av vedtaksmyndighet til sekretariatet
 
-(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. I tvilstilfelle skal sekretariatet konferere med nemndas leder.
+(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor klager åpenbart ikke vil få medhold, hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. Sekretariatets leder kan også treffe vedtak i klagesaker der tvistebeløpet er under 1000 kroner, og saker som ikke reiser prinsipielle spørsmål. I tvilstilfelle skal sekretariatet konferere med nemndas leder.
 
 (2) Har sekretariatets leder avgjort klagen, kan klageren likevel kreve klagen lagt frem for nemnda. Slik anmodning må være skriftlig og innlevert til sekretariatet senest tre uker etter at underretning om vedtak er mottatt. Dersom nemndas leder er enig i sekretariatslederens vurdering, og ikke av andre grunner mener at nemnda bør behandle saken, kan lederen beslutte med endelig virkning at saken ikke skal behandles i nemnda.
+
+> Endret ved forskrift [25 nov 2026 nr. 2477](forskrift/2026-11-25-2477).
 
 ### § 5-9. Taushetsplikt
 
