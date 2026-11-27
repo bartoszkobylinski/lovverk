@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2027-01-01"
-last_change_in_force: null
+last_change_in_force: "2026-11-24"
 last_updated: null
-xml_hash: "d5fadef715e37961be7df1fe33b7bf63ee3717be65e0cfee55e16bb252ece558"
+xml_hash: "4957c0e03e1d29a178f38b6076862106d482501e9cd3dd62b678d060bb36cdad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-30T18:17:57.344275+00:00"
+retrieved_at: "2026-11-27T13:32:35.557094+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -347,11 +347,13 @@ Vedtak blir treft ved alminneleg fleirtal av stemmene. Ved stemmelikskap har lei
 
 Fram til 1. januar 2028
 
-1. gjeld ikkje regelen i [§ 5-4](forskrift/2025-09-11-1850/§5-4) om rangering ved fleire kvalifiseringsgrunnlag
+1. gjeld ikkje reglene i [§ 5-4](forskrift/2025-09-11-1850/§5-4) og [§ 2-2 andre ledd første punktum](forskrift/2025-09-11-1850/§2-2/ledd/2/setning/1)
 2. gjeld heimelen for krav om geografisk tilknyting i [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning § 4-11](forskrift/2017-01-06-13/§4-11)
 3. er den øvre aldersgrensa i kvote for førstegongsvitnemål 21 år og 50 prosent av studieplassane skal tilbydast søkarar i kvoten for førstegongsvitnemål
 4. får søkarar tilleggspoeng etter [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning §§ 7-8](forskrift/2017-01-06-13/§7-8) til [7-11](forskrift/2017-01-06-13/§7-11)
 5. gjeld kvotar for søkarar med samisk språkkompetanse etter [§ 5-10](forskrift/2025-09-11-1850/§5-10) for søkarar som enten har samisk som første- eller andrespråk i vidaregåande opplæring, vitnemål frå grunnskule som viser samisk som første- eller andrespråk eller bestått 60 studiepoeng eller semesteremne i samisk som morsmål frå universitet eller høgskule.
+
+> Endra ved forskrift [24 nov 2026 nr. 2473](forskrift/2026-11-24-2473).
 
 ### § 7-2. Overgangsreglar for tidlegare ordningar
 
@@ -884,6 +886,8 @@ Omrekningstabellane for kvart utdanningssystem er til ei kvar tid oppdaterte på
 
 ## Vedlegg III: Spesielle opptakskrav
 
+> Vedlegg endra ved forskrift [24 nov 2026 nr. 2473](forskrift/2026-11-24-2473).
+
 *Tabell A: Spesielle opptakskrav for opptak til helse- og veterinærfag*
 
 | *Studium* | *Institusjon* | *Spesielle opptakskrav* |
@@ -893,7 +897,7 @@ Omrekningstabellane for kvart utdanningssystem er til ei kvar tid oppdaterte på
 | Bioingenørstudium | Alle | Matematikk R1 eller matematikk S1 + S2 og enten fysikk 1 eller biologi 1 eller kjemi 1 |
 | Ortopediingeniørstudium | Alle | Matematikk R1 + R2 og fysikk 1 |
 | Bachelorutdanning i farmasi | Alle | Matematikk R1 eller matematikk S1 + S2, kjemi 1 og enten fysikk 1, biologi 1 eller kjemi 2 |
-| Profesjonsstudium i veterinærmedisin | Alle | Matematikk R1 eller matematikk S1 + S2 og kjemi 1 + 2 |
+| Veterinærmedisin | Alle | Matematikk R1 eller matematikk S1 + S2 og kjemi 1 + 2 |
 | 3-årig bachelorstudium i paramedisin | Alle | Gyldig førarkort klasse B (personbil) og bestått fysisk opptaksprøve etter nærare reglar fastsette av institusjonen. |
 
 *Tabell B: Spesielle opptakskrav for opptak til informatikk, realfag, natur- og miljøfag*
@@ -904,7 +908,7 @@ Omrekningstabellane for kvart utdanningssystem er til ei kvar tid oppdaterte på
 | Informatikk: robotikk og intelligente system | Universitetet i Oslo | Matematikk R1 + R2 og i tillegg enten fysikk 1 + 2, kjemi 1 + 2, biologi 1 + 2, informasjonsteknologi 1 + 2, geofag 1 + 2 eller teknologi og forskingslære 1 + 2. Andre informatikkstudium har krav om matematikk R1 eller matematikk S1 + S2 |
 | Studium i realfag, natur- og miljøfag | Alle | Matematikk R1 eller matematikk S1 + S2 og enten matematikk R2, fysikk 1 + 2, kjemi 1 + 2, biologi 1 + 2, informasjonsteknologi 1 + 2, geofag 1 + 2 eller teknologi og forskingslære 1 + 2.<br><br>Institusjonane kan sjølv fastsette krav om matematikk R1 + R2 i tillegg til eitt av dei andre realfaga som nemnt i avsnittet over. |
 
-*Tabell C: Spesielle opptakskrav for opptak til arkitekturfag og teknologiske fag (§ 4-4)*
+*Tabell C: Spesielle opptakskrav for opptak til arkitekturfag og teknologiske fag*
 
 | *Studium* | *Institusjon* | *Spesielle opptakskrav* |
 | --- | --- | --- |
@@ -920,12 +924,12 @@ Omrekningstabellane for kvart utdanningssystem er til ei kvar tid oppdaterte på
 
 | *Studium* | *Institusjon* | *Spesielle opptakskrav* |
 | --- | --- | --- |
-| Integrert masterstudium i økonomisk-administrative fag | Alle | Matematikk R1 eller matematikk S1 + S2 |
-| Integrert masterstudium i økonomi og leiing | Alle | Matematikk R1 eller matematikk S1 + S2 |
-| Integrert masterstudium i samfunnsøkonomi | Alle | Matematikk R1 eller matematikk S1 + S2 |
-| Bachelor of Data Science for Business | BI | Matematikk R1 eller matematikk S1 + S2 |
-| Bachelorstudium i økonomi, leiing og IT | Noregs miljø- og biovitskaplege universitet. | Matematikk R1 eller matematikk S1 + S2 |
-| Bachelorstudium i samfunnsøkonomi | Alle | Institusjonane kan sjølv fastsette krav om at søkarar må dokumentere minimum karakteren 4 i fellesfaget matematikk. Eventuelle karakterkrav i matematikk gjeld ikkje for søkarar som kan dokumentere bestått programfag i matematikk med eit omfang på minst 140 timar eller tilsvarande. |
+| Integrert masterstudium i økonomisk-administrative fag | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi.<br>Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Integrert masterstudium i økonomi og leiing | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi.<br>Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Integrert masterstudium i samfunnsøkonomi | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi.<br>Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Bachelor of Data Science for Business | BI | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi.<br>Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Bachelorstudium i økonomi, leiing og IT | Noregs miljø- og biovitskaplege universitet | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi.<br>Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
+| Bachelorstudium i samfunnsøkonomi | Alle | Matematikk R1 eller matematikk (S1 + S2) eller statistikk og matematikk for økonomi.<br>Eller ha krav om minimum karakteren 4,0 i fellesfaget matematikk (224 timar). |
 
 *Tabell E: Spesielle opptakskrav for opptak til lærarutdanningar*
 
